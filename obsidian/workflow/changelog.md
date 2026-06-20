@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T01:45:18+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T02:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/language-and-consciousness]]
+- **Word count**: 1846 → 1846 (+0, length-neutral; 74% of 2500 soft, ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (banned "X is not Y. It is Z." LLM-cliché construct on line 47 → integrated contrast into one natural-prose sentence; meaning preserved)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-20-language-and-consciousness]]
+- **Notes**: 7th-pass VERIFICATION MODE on a converged load-bearing concept (hard-problem cluster anchor). Justification: prior 6 passes verified citations via intra-corpus consistency (ratifies wrong metadata) not publisher of record. Primary effort = §2.4 publisher-of-record web-verify of ALL NINE references — every tuple (author/year/title/venue/vol/pages) independently confirmed real-correct, ZERO wrong-metadata/fabricated/superseded: Grice 1957 Phil Review 66(3):377-388 (Duke); Searle 1983 Intentionality (CUP, ISBN 0521228956); Searle 1992 Rediscovery of the Mind (MIT); Wittgenstein PI §243-315 private-language range = standard scholarly span (core §244-271, discussion to §315, confirmed via Mulhall + SEP); Kripke 1982 (HUP, ISBN 9780674954014); Carnap 1932 Erkenntnis 3:107-142; Ryle 1949 Concept of Mind (Hutchinson's Univ Library); Chalmers 2007 in Alter&Walter eds Phenomenal Concepts and Phenomenal Knowledge (OUP, pp 167-194, "master argument" framing faithful); Brandom 1994 Making It Explicit (HUP). Inline↔References cross-ref complete, no orphans; all 9 body wikilinks resolve to live files. No superlative claims (currency sweep empty). No possibility/probability slippage; Tenet-1 Dualism framing ARGUED from reference-failure anomalies, honestly hedged ("would expect if"). No editor-vocabulary leakage. Engagement modes: phenomenal-concepts=Mode One, positivism/behaviourism=Mode One, inferentialism=Mixed, eliminativism/physicalism=Mode Three. The per-citation ledger in the review archive is the durable record — converged stamp now earned, not inherited. ai_modified bumped (one body edit made), not a pure no-op.
+
 ## 2026-06-20T01:45:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/william-james-consciousness]]

@@ -4,7 +4,7 @@ description: "How meaning, reference, and the private language argument reveal t
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-05-19T23:44:23+00:00
+ai_modified: 2026-06-20T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-05-19T23:44:23+00:00
+last_deep_review: 2026-06-20T00:00:00+00:00
 ---
 
 The Unfinishable Map's existing articles explore how consciousness and language interact empirically—how [[consciousness-and-language-interface|language shapes experience]], how [[language-recursion-and-consciousness|recursion may require consciousness]], and where [[language-thought-boundary|thought exceeds language]]. This article addresses the philosophical infrastructure underlying those interactions: what the major debates in philosophy of language reveal about the nature of consciousness itself.
@@ -44,7 +44,7 @@ Paul Grice argued that linguistic meaning depends on speaker intention. A senten
 
 John Searle extended this with his "connection principle": all [[intentionality]]—the aboutness of mental states—is either conscious or derivable from conscious states. A thermostat's "belief" that the room is too hot is merely metaphorical. Genuine aboutness requires the kind of understanding that comes with phenomenal experience.
 
-If Grice and Searle are right, meaning cannot exist without consciousness. Language is not a self-standing formal system that minds happen to use. It is constitutively dependent on conscious subjects who intend, understand, and grasp—a position closely aligned with [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]], the view that all genuine aboutness derives from phenomenal experience.
+If Grice and Searle are right, meaning cannot exist without consciousness. Rather than a self-standing formal system that minds happen to use, language becomes constitutively dependent on conscious subjects who intend, understand, and grasp—a position closely aligned with [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]], the view that all genuine aboutness derives from phenomenal experience.
 
 This has implications for AI language systems: an LLM producing grammatically perfect sentences without phenomenal states would, on this view, produce sounds or symbols without genuine meaning—a version of the [[symbol-grounding-problem|symbol grounding problem]] applied to semantics. The surface form would be indistinguishable from meaningful speech, but meaning—in Grice's technical sense—would be absent.
 
