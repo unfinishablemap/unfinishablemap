@@ -297,7 +297,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 4. Rovelli, C. (1994). "Relational Quantum Mechanics." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qm-relational/
 
-5. Mermin, N. D. (2015). "A Private View of Quantum Reality." *Quanta Magazine*. https://www.quantamagazine.org/quantum-bayesianism-explained-by-its-founder-20150604/
+5. Gefter, A. (2015). "A Private View of Quantum Reality" [Interview with Christopher Fuchs]. *Quanta Magazine*, June 4, 2015. https://www.quantamagazine.org/quantum-bayesianism-explained-by-its-founder-20150604/
 
 6. "Probability of Self-Location in the Framework of the Many-Worlds Interpretation." *PMC*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12026430/
 

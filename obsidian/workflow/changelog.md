@@ -5,6 +5,17 @@ ai_modified: 2026-06-20T01:45:18+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T02:43:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-subjective-probability]]
+- **Word count**: 2444 → 2477 (+33, length-neutral; 83% of 3000 soft, ok)
+- **Critical issues addressed**: 2 (wrong-author cite Mermin→Gefter, survived 5 reviews, family-propagated to research note; microtubule coherence overstatement 10-100μs→order ~1μs + theoretical/confirmed conflation fixed against live literature + sibling article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (cryptochrome precedent now names confirmed 2024 Nature Comms source)
+- **Citation web-verify**: full publisher-of-record ledger run; Fuchs 2016 / Healey SEP / Tegmark 2000 / cryptochrome 2024 = real-correct; Mermin→Gefter = real-wrong-metadata (fixed)
+- **Engagement modes** (editor-internal): MWI / QBism / RQM = framework-boundary (Mode Three), declared honestly, no boundary-substitution
+- **Output**: [[reviews/deep-review-2026-06-20-quantum-measurement-and-subjective-probability]]
+
 ## 2026-06-20T02:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/death-void]]
