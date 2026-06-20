@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-05-20T11:41:59+00:00
+last_deep_review: 2026-06-20T00:00:00+00:00
 ---
 
 The experience of being *in a place* is among the most integrative feats consciousness performs. Walking into a childhood home, entering a cathedral, or stepping onto an unfamiliar street at dusk — each generates a unified felt character that binds sensory perception, bodily orientation, emotional tone, and biographical memory into something no list of physical properties captures. The Unfinishable Map argues that this binding — what phenomenologists call the *atmosphere* or *genius loci* of a place — provides evidence that consciousness is irreducible to information processing. A complete physical description of a room's dimensions, lighting, temperature, and acoustic properties leaves out everything that matters about what it is like to be there.
