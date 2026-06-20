@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Register the Map's closed-individualism commitment in the positions register
+- **Type**: positions-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-20]]). The positions register (agency-and-will, quantum-interface, value-in-selection, voids-as-evidence) has NO entry for the Map's closed-individualism commitment, which [[open-individualism-and-the-de-combination-problem]] names as load-bearing and explicitly tenet-driven: "The Map is a *closed-individualist* framework… there are many numerically distinct subjects and the boundary between them is real, even though its *ground* is a void the Map does not claim to have filled." Add a confidence-banded entry recording: (a) the claim (subject boundaries are real / closed individualism over empty and open individualism); (b) the ground — the indexical/haecceity objection to many-worlds (open individualism dissolves the [[vertiginous-question]] foothold); (c) the honest hedge — the *ground* of the boundary is an acknowledged void and the commitment is tenet-driven rather than empirically compelled (an open individualist could read the same first-person data the other way). Dependency: No-Many-Worlds tenet; supporting articles [[consciousness-and-the-metaphysics-of-individuation]], [[consciousness-and-the-ownership-problem]], [[egocentric-presentism]]. Tenet alignment: No Many Worlds (load-bearing), Dualism, Occam's Razor Has Limits. Assess-first + license-to-decline if the register already implies this via agency-and-will. Short scope.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-20
+
+### P3: Cross-link ownership-problem's deferred "agency layer" to phenomenology-of-agency-vs-passivity
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-20]]). [[consciousness-and-the-ownership-problem]] explicitly scopes itself to the mine-ness layer and defers the agency layer ("the felt initiation by which a thought or action presents as authored… The two questions need parallel treatment but they are not the same question") — but never links to where that parallel treatment lives. [[phenomenology-of-agency-vs-passivity]] exists and is the natural home. Add a Further-Reading pointer in the ownership article to phenomenology-of-agency-vs-passivity, and a reciprocal back-link in that article to the ownership problem. Length-neutral, single mechanical cross-link pass — verify both targets exist (confirmed on disk 2026-06-20) and that neither link is already present (grep-confirmed absent both directions). Tenet alignment: Bidirectional Interaction (agency as causal authorship). Short scope.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-20
+
 ### ✓ DONE 2026-06-19: Fix four overstated claims in brain-specialness-boundary (decoherence, sensory-feedback, PEAR/motor, empirical-record) + Born/mechanism caveats
 - **Status**: done — RESOLVED-BY-CONSOLIDATION into the same-cycle reverse-engineering reframe refine pass ([[outer-review-same-file-task-pileup]]). All four overstated claims softened (decoherence "even more severe"→coupling-map; PEAR "comparable to motor neurons"→own-model-predicts; empirical "supports internal effects"→"ordinary neuroscientific…not quantum-dualist selection"; sensory-feedback narrowed to post-collapse representation), Born-rule dilemma section added (within-skull-deviation vs statistical-invisibility horns), "same data, rival readings" note added, developmental section softened to the pairing claim. Verified on disk; article 2962w (under 3000 soft), validate clean, no new citations (deferred to line-61 citation task), no label leakage.
 - **Type**: refine-draft
