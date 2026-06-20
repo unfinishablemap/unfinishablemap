@@ -28,7 +28,7 @@ description: The brain handles sensory signals in three modes—silent correctio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-21 12:00:00+00:00
+last_deep_review: 2026-06-20 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

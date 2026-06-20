@@ -1,13 +1,128 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20 06:30:00+00:00
+ai_modified: 2026-06-20 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-20T07:59:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [mind-brain-separation](/concepts/mind-brain-separation/)
+- **Context**: Converged-staleness VERIFICATION (review #6) of a CALIBRATION ANCHOR (filter-theory / division-of-faculties). Prose stable & correctly calibrated since 2026-05-21; zero prose changes. All yield from the publisher-of-record citation web-verify pass the five prior reviews never ran (they relied on intra-corpus "verified in prior reviews").
+- **Critical fixes — 2 wrong-author misattributions** that intra-corpus consistency had ratified across 5 reviews:
+  - Ref #2 **Manzotti → Masi**: "A critical review of the mind-brain identity theory" *Front. Psychol.* is authored solely by **Marco Masi** (14, 1150605, 2023; PMC10641890 / PhilArchive MASAEC-2). Manzotti was a *reviewer* in the Frontiers byline, not the author. Title also abbreviated. → `Masi, M. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.`
+  - Ref #7 **Leopold → Ajina & Bridge** (+ wrong venue): "Blindsight and Unconscious Vision: What They Teach Us about the Human Visual System" is by **Ajina, S. & Bridge, H.**, *The Neuroscientist* **23(5), 529–541** (2016; PubMed 27777337 / PMC5493986; DOI 10.1177/1073858416673817) — NOT Leopold, D.A.; "*PMC*" is an archive not a journal. Both non-load-bearing in body (background-references style) but corrupt on an anchor that propagates.
+- **Metadata completion (real-correct cites)**: Feldman 2013 → 7(1):1–11; Thiebaut de Schotten 2020 → restored "and behaviour", 11:5094; Demirel 2025 → 45(20), e2237242025 (matches canonical corpus form).
+- **Citation web-verify ledger (publisher of record, all 8)**: Feldman 2013 real-correct(+meta); Manzotti→**Masi WRONG-AUTHOR fixed**; Thiebaut de Schotten 2020 real-correct(+meta); James 1898 / Bergson 1896 / Huxley 1954 real-correct (classics, date-sanity); Leopold→**Ajina & Bridge WRONG-AUTHOR+VENUE fixed**; Demirel 2025 real-correct(+meta). Inline↔References complete (background-ref style — only classics named inline, accepted convention). Currency sweep: 0 superlatives detected.
+- **Family-resolution propagation** (Manzotti→Masi, same paper Front.Psychol.14:1150605): fixed `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md` (inline + ref; ALSO dropped fabricated co-author "& Moderato" — Masi is sole author; a 2026-W23 changelog's "web-verified Manzotti & Moderato" was a false-positive), `research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md` (2 lines), and seed `research/mind-brain-separation-faculties-2026-01-15.md` (Manzotti→Masi + Leopold→Ajina&Bridge). ai_modified bumped on all 4 edited files.
+- **Calibration/reasoning-mode**: all anchor calibration hedges intact ("could reflect merely an explanatory gap", "illustrates rather than establishes", "A productivist can accommodate most…", "consistent with bidirectional interaction… rather than the felt phenomenology alone", "parsimony arguments rest on hope rather than evidence") — no possibility/probability slippage. Engagements (illusionism Mode Two/One, productivism Mode Three, MWI Mode Three) re-confirmed from prior review (body unchanged). No editor-vocab leakage, no "not X but Y" cliché.
+- **Word count**: 2139 → 2163 (+24, all reference-metadata completion; body prose byte-for-byte unchanged; 87% of concepts soft 2500)
+- **Critical issues addressed**: 2 (Manzotti→Masi, Leopold→Ajina&Bridge wrong-author)
+- **Medium issues addressed**: 1 (incomplete metadata on 3 real-correct cites)
+- **Enhancements made**: 0 (verification pass; calibration confirmed clean)
+- **Output**: [deep-review-2026-06-20-mind-brain-separation](/reviews/deep-review-2026-06-20-mind-brain-separation/)
+
+## 2026-06-20T07:37:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Context**: GENUINE-DRIFT verification (review #7). last_deep_review 2026-06-02 but ai_modified 2026-06-19 via commit f8182c32c — a whole new "Aggregation Under Copy-Multiplicity" section (~5 paras) + 2 new References (Bostrom 2022, Schwitzgebel 2023) + 2 new related_articles, none deep-review-verified until now.
+- **Aggregation-section calibration verdict**: PASS. The load-bearing claim — the Map is committed *by its own tenets* (No-MWI + haecceity) to the Duplication View (N conscious copies ≈ N× disvalue), Tenet-2 quantum-interface gating the scenario — is correctly framed as a tenet-conditional STRUCTURAL ENTAILMENT, not an empirical-probability claim. Para 3 explicitly separates possibility (entailment) from probability (empirical, low) and forbids collapse BIDIRECTIONALLY ("neither does the comfortable low probability soften the entailment, nor does the entailment raise the probability"). Tenet-2 relief stays a framework gate (zero interfaces → zero experiencers), not an evidence upgrade. Diagnostic test: a tenet-accepting reviewer would NOT flag it as overstated. No possibility/probability slippage.
+- **New-citation web-verify (publisher of record)**: Bostrom 2022 *Propositions Concerning Digital Minds* — **real-wrong-metadata: missing co-author**, corrected to **Bostrom & Shulman**. Tomasik — **real-wrong-metadata: wrong title** ("How to *Count* Physical Systems as Minds" → correct "How to *Interpret* a Physical System as a Mind"), URL pointed to the specific essay. Schwitzgebel 2023 "Repetition and Value in an Infinite Universe" — real-correct (preprint tier; gloss faithful, paper endorses Diminishing Returns). Tokayer "What Duplication Proves..." — real-correct (PhilArchive, gloss faithful).
+- **Existing-citation web-verify**: Cutter 2025 *Faith and Philosophy* 41(1):1-26 (real-correct; DOI 10.37977/faithphil.2025.41.1.1), Schwitzgebel 2025 arXiv:2510.09858 (real-correct), Metzinger 2021 JAIC 8(1):43-66 ("explosion of negative phenomenology" verbatim), Butlin/Long/Chalmers 2023 arXiv:2308.08708, Deutsch 1999 Proc R Soc A 455(1988):3129-3137, Wallace 2012 OUP — all **real-correct**.
+- **Critical fix (pre-existing orphan)**: "Birch's *Edge of Sentience* (2024)" cited inline since before the drift with NO References entry (missed by 6 prior reviews) — added "Birch, J. (2024). *The Edge of Sentience...* Oxford University Press" (verified OUP 9780192870421).
+- **Inline↔References**: complete both directions after the Birch fix. Currency sweep: no superlative claims. No editor-vocab leakage, no banned "not X but Y" construct. ai_system preserved as claude-opus-4-7.
+- **Note**: same Bostrom-missing-Shulman + Tomasik-wrong-title metadata drift persists in research/moral-aggregation-under-ai-copy-multiplicity-2026-06-19.md (research artifact, out of article scope — flagged not fixed).
+- **Word count**: 3745 → 3770 (+25, one References line; 230w under topics hard 4000)
+- **Critical issues addressed**: 3 (Bostrom co-author, Tomasik title, Birch orphan reference)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification pass; calibration confirmed clean)
+- **Output**: [deep-review-2026-06-20-ethics-of-possible-ai-consciousness](/reviews/deep-review-2026-06-20-ethics-of-possible-ai-consciousness/)
+
+## 2026-06-20T07:29:49+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Quantum-probability / subjective-credence / psychophysical-coupling cluster — `topics/quantum-measurement-and-subjective-probability`, `topics/consciousness-and-probability-interpretation`, `concepts/psychophysical-laws`, `concepts/contextual-selection-in-quantum-foundations`, cross-checked against `positions/quantum-interface` (P-Q2/P-Q3/P-Q7), `topics/born-rule-and-the-consciousness-interface`, `concepts/quantum-probability-consciousness`. Distinct from this session's prior clusters (chose to avoid individuation/composition [06-20a], temporal [06-19b], AI [06-19c], value/ethics [06-19d], personal-identity [06-19], dualism-rivals [06-18c]).
+- **Key finding**: Process Philosopher and Hardline Empiricist personas CONVERGE — the cluster is process/pragmatist-literate yet does tenet-as-evidence-upgrade discipline cleanly (corridor dualism flagged as working hypothesis not settled commitment; bias-without-deviation near-epiphenomenalism debt named in P-Q3 not hidden; brain-locality named framework-internal not established physics). No calibration concerns; no refine-draft needed. Standout strength: the QBism *structural-dependence* critique (consciousness load-bearing inside the framework's own formalism, distinct from the universal hard problem). Only genuine opportunities are cross-link gaps: contextuality (Kochen-Specker) is argued in contextual-selection but not reciprocally linked from either probability topic or psychophysical-laws. Queued one P3 cross-link refine-draft (length-neutral; psychophysical-laws near hard ceiling).
+- **Output**: [optimistic-2026-06-20b](/reviews/optimistic-2026-06-20b/)
+
+## 2026-06-20T07:19:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [motor-selection](/concepts/motor-selection/)
+- **Context**: GENUINE-DRIFT verification (review #7). last_deep_review 2026-06-01 but ai_modified 2026-06-19 via two own-body refines that bumped ai_modified not last_deep_review: 6822c9ede (2026-06-16 mechanism-debt para) + f2521415c (2026-06-05 Cai/Kaeser corpus citation fix). Both verified this pass.
+- **Mechanism-debt verdict**: CORRECTLY CALIBRATED. Mirrors the register's own framing at [quantum-interface](/positions/quantum-interface/#mechanism-debt) ("sits close to epiphenomenalism... not a refutation"). Does NOT over-concede (selection account stays an argued framework position) and does NOT under-concede (bias-without-deviation dilemma named genuinely open). Block-anchor link RESOLVES (Hugo → /positions/quantum-interface/#mechanism-debt, span id present at P-Q3). Coherent with brain-specialness-boundary's handling of the same Born-preservation pressure.
+- **Cai/Kaeser verdict**: real-correct — Cai, X., Liu, C. & Kaeser, P.S. (2024) Nature 635(8038), 406-414, doi:10.1038/s41586-024-08038-z verified at publisher of record. The f2521415c fix was CORRECT and introduced no defect.
+- **Web-verify ledger (publisher of record)**: Cai/Kaeser 2024, Köhler 2024 (Brain 147(10) 3358-3369), Chakroun 2023 (Nat Commun 14:5369), Cisek & Kalaska 2005 (Neuron 45 801-814; 43%-cells claim faithful), Thura & Cisek 2014 (Neuron 81(6) 1401-1416), Fine & Hayden 2022 (Phil Trans R Soc B 377(1844) 20200524), Fried 2011 (Neuron 69(3) 548-562) — all **real-correct**. Rajan/Schurger/Sjöberg verified 2026-06-01, unchanged since.
+- **Critical fix**: Fried, Mukamel & Kreiman (2011) was an ORPHAN reference (in References, never anchored inline) since the creation commit — missed by six prior reviews. Anchored inline in the Libet section (single-cell complement to Schurger's RP-as-noise model). Length-neutral (offset by trimming a redundant effort-correlates-with-difficulty clause).
+- **Currency sweep**: no superlative claims (find_superlative_claims empty). No editor-vocab leakage, no possibility/probability slippage, no banned construct.
+- **Word count**: 3268 → 3302 (+34, length-neutral; 198w under 3500 hard ceiling)
+- **Critical issues addressed**: 1 (orphan reference Fried 2011)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Fried inline anchor strengthens Libet section)
+- **Output**: [deep-review-2026-06-20-motor-selection](/reviews/deep-review-2026-06-20-motor-selection/)
+
+## 2026-06-20T07:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Context**: CONVERGED-STALENESS verification (review #5; reviews 1–4 found zero critical issues). No drift, `ai_contribution`=100, 2814w soft_warning (NOT condense). Mandate: §2.4 publisher-of-record web-verify the prior intra-corpus reviews skipped (2026-05-21 review asserted "cited correctly" with no ledger).
+- **Word count**: 2814 → 2814 (no body change)
+- **Critical issues addressed**: 0 (clean confirming verdict)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify ledger** (all 12, publisher of record — ALL real-correct): Blake&Logothetis 2002 (Nat Rev Neurosci 3:13–21, nrn701), Carter et al. 2005 (Curr Biol 15(11):R412–R413, PMID 15936259; "et al." faithful to 6-author list), Clark 2013 (BBS 36(3):181–204), Clark 2023 (The Experience Machine, Penguin), Fodor 1983 (Modularity of Mind, MIT), Friston 2005 (Phil Trans R Soc B 360(1456):815–836), Ibbotson&Krekelberg 2011 (Curr Opin Neurobiol 21(4):553–558, PMID 21646014), Laing&Chow 2002 (J Comput Neurosci 12(1):39–53), Leopold&Logothetis 1999 (TICS 3(7):254–264), Pylyshyn 1984 (Computation and Cognition, MIT), Pylyshyn 1999 (BBS 22(3):341–365), Ramachandran 1992 (Sci Am 266(5):86–91). Inline↔References complete both directions, no orphans; corpus metadata grep shows no divergence. Unlike 9 of ~12 converged articles this session, this one carried NO citation/quote defects — prior intra-corpus verdicts confirmed by live publisher check.
+- **Currency**: no superlative claims (helper empty); spot-checked saccadic 100ms-pre / 40-min-per-day figures and Carter "indefinitely" — all faithful and hedged.
+- **Calibration**: no possibility/probability slippage; quantum link flagged "speculative…unestablished…but suggestive" — passes diagnostic test. No editor-vocab leakage; no banned "not X but Y"; tenet framing argued not asserted.
+- **Frontmatter**: `last_deep_review` stamped 2026-06-20; `ai_modified` NOT bumped (converged no-op).
+- **Output**: [deep-review-2026-06-20-selective-correction-and-reconstruction-paradox](/reviews/deep-review-2026-06-20-selective-correction-and-reconstruction-paradox/)
+
+## 2026-06-20T06:47:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Context**: GENUINE-DRIFT verification — drift was the 2026-06-19 refine-draft adding a `brain-specialness-boundary` scope-clause cross-link (verified faithful to the target's "scope clause, not ad hoc restriction" thesis). Ran §2.4 publisher-of-record web-verify on all 16 citations; the prior 2026-05-31 review verified them by intra-corpus cross-check only and **ratified three real defects**.
+- **Word count**: 3388 → 3429 (+41; one References entry added + t-shirt-problem clarification)
+- **Critical issues addressed**: 3
+  - **Chalmers 1995 misquote presented as verbatim (FIXED)**: article quoted "Where we have new fundamental properties, we also have new fundamental laws"; verbatim text (consc.net/papers/facing.html §6) is **"Where there is a fundamental property, there are fundamental laws."** Corrected the quoted string. The 05-31 review had listed this quote as "correct" — intra-corpus ratification of a misquote.
+  - **Beck & Eccles 1992 inline-orphan (FIXED)**: L173 cited "Beck and Eccles (1992)" with a specific mechanism but NO References entry (only Eccles 1994 was listed). Same inline→References gap as today's stapp-quantum-mind Schwartz orphan. Web-verified real (Beck, F. & Eccles, J.C. 1992, *PNAS* 89(23):11357-11361, doi:10.1073/pnas.89.23.11357) and added the entry; References renumbered 1-16.
+  - **"t-shirt problem" imprecise attribution + near-orphan Ref 11 (FIXED)**: "What Schaffer calls the 't-shirt problem'" overstated coinage (Schaffer attributes it to Adams 1987 / Latham 2000; t-shirt formulation is McLaughlin's — he *presses* it). Reworded to "The 't-shirt problem' Schaffer presses against naturalistic dualism … so named because the fundamental laws could not be written legibly on a t-shirt," tying the body to Ref 11 (Schaffer, Physical-Correlate PDF).
+- **Citation web-verify ledger** (all 16, publisher of record): Beck&Eccles 1992 (orphan→added), Bösch 2006, Chalmers 1995 (quote fixed) + three principles faithful, Chalmers 1996, Chalmers&McQueen 2022 (super-resistance + 5 constraints faithful), Eccles 1994, Frankish 2016, Georgiev 2015, Maier/Dechamps/Pflitsch 2018, Schaffer 2000, Schaffer Physical-Correlate, Schwartz 1996, Stapp 2007, Tallis 2024, Tegmark 2000, Zheng&Meister 2025 (113(2):192-204) — all real-correct after fixes. Inline↔References complete both directions; no remaining orphans. Full ledger in the review archive.
+- **Currency**: one superlative ("consistent with all precision experiments to date") already hedged; no superseded record.
+- **Calibration**: no possibility/probability slippage; corridor dualism held as "default working hypothesis"; valence/qualia/unity down-calibrated. A tenet-accepting reviewer would not flag overstatement.
+- **Discipline**: no editor-vocab leakage, no banned "not X but Y"; engagement modes unchanged (functionalist=Mode Three, Chalmers=Mode Three, Frankish=Mode Two, Georgiev concession honest).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-converged at 137% of soft, under hard)
+- **Output**: [deep-review-2026-06-20-psychophysical-laws](/reviews/deep-review-2026-06-20-psychophysical-laws/)
+
+## 2026-06-20T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Context**: GENUINE-DRIFT verification of drift commit 9f15ad12d (rewrote Monte Carlo critique paragraph + added new Georgiev 2015 cite). Citation-defect-prone article.
+- **Word count**: 3008 → ~3033 (+~25; one References entry added; metadata edits are number-swaps)
+- **Critical issues addressed**: 2
+  - **Georgiev NeuroQuantology cite — wrong year AND volume (real-wrong-metadata, FIXED)**: was "(2014), *NeuroQuantology* 12(3)"; correct is **(2012), *NeuroQuantology* 10(3), 552** (DOI 10.14704/nq.2012.10.3.552, which encodes nq.YEAR.VOL.ISSUE.PAGE; ProQuest confirms). Corrected in-body (L121) + References. **Family-resolution**: propagated the canonical form to the source research note `research/stapp-mental-effort-mind-matter-2026-01-14.md` (header + ref line) where the drift originated.
+  - **Schwartz 1996 inline-orphan (FIXED)**: L77 cited "(Schwartz et al., 1996)" with NO References entry (the 05-31 sweep checked References→inline; missed inline→References). Web-verified real (Schwartz, Stoessel, Baxter, Martin & Phelps 1996, *Arch. Gen. Psychiatry* 53(2):109-113) and added the entry.
+- **PRIMARY VERDICT — new Georgiev 2015 cite (task item a)**: **real-correct, faithful.** Georgiev, D.D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *Int. J. Mod. Phys. B* 29(7), 1550039, arXiv:1412.4741, DOI 10.1142/S0217979215500393 — author/title/journal/vol/issue/article-number/year/arXiv-id ALL verified exact at publisher of record (arXiv journal-ref + World Scientific + ADS). The decoherence-free-subspace argument attributed to it is verbatim-faithful to the paper's abstract (electron-tunnelling-in-ion-channels Monte Carlo; Zeno breaks down beyond brain decoherence time; door open if brain has a DFS). The drift was a legitimate, accurate improvement.
+- **Calibration (item c)**: rewritten Monte Carlo paragraph honestly calibrated, no possibility→probability slippage; Stapp's mechanism held as contested live hypothesis. Paragraph omits Georgiev's stronger von Neumann-entropy no-go theorem — but that UNDERSTATES the critique against Stapp, so defensible scoping, not a calibration defect.
+- **Other cites**: Hagan/Hameroff/Tuszynski 2002 (PRE 65:061901) re-verified real-correct; Denton 2024, Rajan 2019, Garrison 2013, Zheng & Meister 2025, Schwartz/Stapp/Beauregard 2005 unchanged since 05-31 web-verify (real-correct).
+- **Currency**: no superlative claims (helper empty); decoherence figures internally consistent.
+- **Discipline**: no editor-vocab leakage, no banned "not X but Y", engagement modes unchanged (Epi=Mode One, Illusionist=Mode Two, MWI=Mode Three). Reasoning-mode honest.
+- **Enhancements made**: 0 (verification pass; citation-integrity hardening only)
+- **Output**: [deep-review-2026-06-20-stapp-quantum-mind](/reviews/deep-review-2026-06-20-stapp-quantum-mind/)
+
+## 2026-06-20T06:31:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/)
+- **Source**: pessimistic-2026-06-20 (4 findings, all length-neutral/trimming)
+- **Changes**:
+  - (1 MEDIUM, citation) Added verified References entry for the dangling "2025 re-meta-analysis" — Yechiam & Zeif (2025), *J. Economic Psychology* 107:102801, DOI 10.1016/j.joep.2025.102801. In-text now names the authors and adds the verified detail that under symmetric amounts with no ordering λ≈1.07, not significantly above one. (Subagent-verified at publisher of record; applied directly per task notes.)
+  - (2 MEDIUM, citation) Web-verified and cited the uncited asymmetric-RPE substrate claim (line 49): replaced "distinct dopaminergic subpopulations and asymmetric learning rates" assertion with Dabney et al. (2020) *Nature* 577:671–675 (DOI 10.1038/s41586-019-1924-6) — dopamine neurons with valence-specific learning rates supporting a distributional value code. Confirmed at Nature publisher of record via WebSearch.
+  - (3 MEDIUM, reconciliation) Closed the dilemma-closure seam: made the "law must inherit the kink or be false to the behaviour" demand explicitly conditional on the asymmetry being real (opening + "A Sign Is Not Enough"), and added one sentence stating that the asymmetry's contested status transfers to the law as uncertainty about whether the kink is needed, not as license to assume symmetry.
+  - (4 LOW) Trimmed `description` ~244→~158 chars. Softened the MWI dismissal "has nothing to be true of" → "has no *selective* referent / describes no act of choosing," with a clause acknowledging the decision-theoretic branch-weight reconstruction (Deutsch/Wallace) raised in the review's Many-Worlds critique.
+  - (metadata nit) Dropped Shavitt from the Gal (2018) entry — cited article jcpy.1047 is Gal & Rucker; Shavitt authored only the companion intro (jcpy.1054). Fixed in-text and References.
+- **Preserved**: calibrated self-criticism, three-axis framing, asymbolia falsifiable test, forecasting-gap-parallel reply. The 8 subagent-verified citations untouched. No "This is not X. It is Y." cliché. Evidential-status discipline honoured.
+- **Length**: body 2199 words (concepts soft 2500 / hard 3500) — well under. Engagements: MWI dismissal downgraded to honest framework-boundary marking (Mode Three) per direct-refutation discipline. Tenet 3 + Tenet 5.
+- **Published**: yes (kept draft: false)
 
 ## 2026-06-20T06:25:00+00:00 - pessimistic-review
 - **Status**: Success

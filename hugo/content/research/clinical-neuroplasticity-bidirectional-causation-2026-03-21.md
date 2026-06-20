@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-03 02:27:05+00:00
+ai_modified: 2026-06-20 07:59:10+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-21
-date: '2026-06-05'
+date: '2026-06-20'
 draft: false
 related_articles: []
 title: Research Notes - Clinical Neuroplasticity Evidence for Bidirectional Mental
@@ -213,13 +213,13 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Schwartz, J. M., & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks/HarperCollins.
 - Beauregard, M., & O'Leary, D. (2007). *The Spiritual Brain: A Neuroscientist's Case for the Existence of the Soul*. HarperOne.
 - Álvarez, F. J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412.
-- Manzotti, R., & Moderato, P. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
+- Masi, M. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
 - Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 - Ren, Y., et al. (2025). Activation likelihood estimation meta-analysis of the effects of cognitive behavioral therapy on brain activation in the treatment of depression and anxiety disorders. *Depression and Anxiety*, 3557367.
 - Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
 - Seymour, J., & Mathers, N. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
 - Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138-2143.
 - Kliemann, D., et al. (2019). Intrinsic functional connectivity of the brain in adults with a single cerebral hemisphere. *Cell Reports*, 29(8), 2398-2407.
-- Zeiger, W. A., et al. (2021). Bhatt, D. K., et al. Stable cortical body maps before and after arm amputation. Cited in Manzotti & Moderato (2023).
+- Zeiger, W. A., et al. (2021). Bhatt, D. K., et al. Stable cortical body maps before and after arm amputation. Cited in Masi (2023).
 - Kim, J. (1998). *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*. MIT Press.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.

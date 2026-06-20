@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-19
-date: '2026-06-19'
+date: '2026-06-20'
 draft: false
 related_articles: []
 title: Research Notes - Moral Aggregation Under AI Copy-Multiplicity
@@ -74,7 +74,7 @@ The non-obvious result for the Map: its **No-Many-Worlds / haecceity** commitmen
 - **Tenet alignment**: Neutral-to-aligned on aggregation (their resource-claim argument tacitly assumes copies count). The substrate principle is functionalist in spirit and would, under the Map, be heavily gated by the [quantum-interface requirement](/tenets/#minimal-quantum-interaction) (classical copies very unlikely to be conscious at all).
 - **Quote**: digital minds "might pack the experience of many lifetimes into mere hours of objective time."
 
-### Propositions Concerning Digital Minds and Society — Bostrom (2022)
+### Propositions Concerning Digital Minds and Society — Bostrom & Shulman (2022)
 - **URL**: https://nickbostrom.com/propositions.pdf
 - **Type**: Paper (PDF could not be text-extracted; characterized via secondary sources)
 - **Key points** (from secondary summaries):
@@ -190,6 +190,6 @@ Either way, the entailment claim should be *written somewhere* — it is a real,
 4. Schwitzgebel, E. (2024). "Repetition and Value in an Infinite Universe." https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Infinitude-230502.htm
 5. Long, R., Sebo, J., et al. (2024). "Taking AI Welfare Seriously." arXiv:2411.00986. https://arxiv.org/abs/2411.00986
 6. Tokayer, M. (n.d.). "What Duplication Proves: The Failure of Functionalism and Pattern Identity." PhilArchive. https://philarchive.org/rec/TOKWDP-2
-7. Tomasik, B. "How to count physical systems as minds" / sentience-classifier essays. https://reducing-suffering.org ; overview at https://en.wikipedia.org/wiki/Brian_Tomasik
+7. Tomasik, B. "How to Interpret a Physical System as a Mind" / sentience-classifier essays. https://reducing-suffering.org/interpret-physical-system-mind/ ; overview at https://en.wikipedia.org/wiki/Brian_Tomasik
 8. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press. (No-difference view; fission; duplication as survival.)
 9. 80,000 Hours (2024). "Understanding the moral status of digital minds." https://80000hours.org/problem-profiles/moral-status-digital-minds/

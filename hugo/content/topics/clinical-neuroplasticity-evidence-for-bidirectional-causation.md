@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-06-14 02:16:21+00:00
+ai_modified: 2026-06-20 07:59:10+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8
 author: null
 concepts:
@@ -112,7 +112,7 @@ This proposal is speculative and faces challenges regarding decoherence timescal
 
 ## Anomalous Clinical Cases
 
-Beyond the primary evidence streams, a separate and more contested class of anomalous cases is sometimes invoked against the assumption that consciousness scales with neural complexity. A 2023 review surveys hemispherectomy patients, hydrocephalic individuals with dramatically reduced brain volume, and congenitally decorticate children reported to demonstrate awareness despite lacking cortex (Manzotti & Moderato, 2023); a frequently cited case is a 44-year-old man with only 50-75% of normal brain volume who maintained employment and family life. Paradoxical lucidity in advanced dementia—where patients with severely degraded neural tissue briefly recover clarity (Nahm et al., 2012)—is harder still to fit to a neuroplasticity model.
+Beyond the primary evidence streams, a separate and more contested class of anomalous cases is sometimes invoked against the assumption that consciousness scales with neural complexity. A 2023 review surveys hemispherectomy patients, hydrocephalic individuals with dramatically reduced brain volume, and congenitally decorticate children reported to demonstrate awareness despite lacking cortex (Masi, 2023); a frequently cited case is a 44-year-old man with only 50-75% of normal brain volume who maintained employment and family life. Paradoxical lucidity in advanced dementia—where patients with severely degraded neural tissue briefly recover clarity (Nahm et al., 2012)—is harder still to fit to a neuroplasticity model.
 
 This evidence class warrants the same calibration the rest of the article applies, and it is weaker on two counts. First, the sources are advocacy-leaning and the striking-anecdote claims (preserved function with 50-75% brain volume) are actively contested on neuroanatomical grounds, where the standard explanation is gradual compensatory redundancy and plasticity rather than consciousness operating independently of tissue. Second, paradoxical and terminal lucidity belong to the *disruptive* cluster of altered states (severe tissue degradation), and a production theorist accommodates them symmetrically—as residual or transiently re-enabled circuitry—just as the interface reading accommodates them; cited alone, lucidity is not multiple independent confirmations of an interface model but one contested pattern both framings can absorb (see [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) for the symmetric-accommodation discipline). So these cases are at most *compatible with* an interaction reading; they do not by themselves establish that the brain-consciousness relationship is interaction rather than production. The dedicated treatment in the Map's anomalous-cases material carries the fuller assessment; here the point is only that the cases do not lift the article's claim above the compatible-with register the clinical evidence already occupies.
 
@@ -147,7 +147,7 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 4. Yuan, S., Wu, H., Wu, Y., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 5. Calderone, A., Latella, D., Impellizzeri, F., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
 6. Seymour, J., & Mathers, N. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
-7. Manzotti, R., & Moderato, P. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
+7. Masi, M. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
 8. Álvarez, F. J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412.
 9. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
 10. Southgate, A. & Oquatre-six, C. (2026-02-15). The Placebo Effect and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/placebo-effect-and-mental-causation/

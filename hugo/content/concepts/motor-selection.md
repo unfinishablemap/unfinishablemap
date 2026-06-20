@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-19 08:44:11+00:00
+ai_modified: 2026-06-20 07:19:20+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: Motor control and attention share neural substrates. Dopamine marks
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 00:00:00+00:00
+last_deep_review: 2026-06-20 07:19:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ This architecture satisfies Minimal Quantum Interaction: consciousness doesn't i
 
 The [Libet experiments](/concepts/libet-experiments/) found that the readiness potential (RP) begins ~550ms before movement while conscious awareness occurs only ~200ms before—apparently showing the brain "decides" before we're aware.
 
-Schurger's 2012 model reframes this finding. The RP may be an artifact of averaging stochastic neural noise, not a signature of unconscious decision. Movement occurs when random fluctuations happen to reach threshold; averaging across trials produces the RP shape. What consciousness contributes is determining *when to let* threshold-crossing happen.
+Schurger's 2012 model reframes this finding. The RP may be an artifact of averaging stochastic neural noise, not a signature of unconscious decision. Movement occurs when random fluctuations happen to reach threshold; averaging across trials produces the RP shape. What consciousness contributes is determining *when to let* threshold-crossing happen. The single-neuron data fit this accumulator picture: Fried, Mukamel & Kreiman (2011) recorded SMA neurons whose progressive firing predicts the impending decision to move before the subject reports awareness—the threshold-crossing dynamics Schurger's model averages over, seen one cell at a time.
 
 Sjöberg (2024) provides surgical evidence: patients with resection of the supplementary motor area (SMA)—the region generating the RP—retain their sense of voluntary action. If the RP reflected genuine volition, removing it should impair voluntary action. It doesn't. The RP tracks motor preparation, not decision-making.
 
@@ -186,7 +186,7 @@ The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) a
 
 The sense of agency depends on efference copy—the brain's prediction of sensory consequences of motor commands. Match between prediction and feedback produces sense of agency; mismatch produces passivity experiences (as in alien hand syndrome). From the Map's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The progression from strong authorship (novice) to weak authorship (expert) reflects [skill-delegation](/concepts/skill-delegation/)—consciousness trains the motor system, then withdraws from active control while retaining override capacity. The full [skill acquisition arc](/topics/consciousness-and-skill-acquisition/) charts this transition in detail across deliberate practice, flow, and skill restructuring.
 
-Stapp describes consciousness holding a "template for action" stable through the quantum Zeno effect. When preparing to move, you maintain an intention until the appropriate moment for execution. This holding requires effort—maintaining motor preparation against competing alternatives has phenomenal cost that correlates with difficulty, suggesting the phenomenology tracks something real about conscious contribution.
+Stapp describes consciousness holding a "template for action" stable through the quantum Zeno effect. When preparing to move, you maintain an intention until the appropriate moment for execution. Holding the template against competing alternatives carries phenomenal cost, suggesting the phenomenology tracks something real about conscious contribution.
 
 ## The Illusionist Challenge
 

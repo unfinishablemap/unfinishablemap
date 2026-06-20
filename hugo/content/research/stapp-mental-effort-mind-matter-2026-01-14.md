@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-14
-date: '2026-01-20'
+date: '2026-06-20'
 draft: false
 related_articles: []
 title: Research Notes - Stapp on Mental Effort and Mind-Matter Interaction
@@ -55,7 +55,7 @@ Henry Stapp (b. 1928), theoretical physicist at Lawrence Berkeley Lab, argues th
 - **Tenet alignment**: Supports site's emphasis on agency and bidirectional causation
 - **Quote**: "If conscious intent to perform this action can generate a sufficiently rapid sequence of probing actions...the template for action can be held in place despite the normal dissipative physical tendencies"
 
-### Georgiev (2014) - Mind efforts, quantum Zeno effect and environmental decoherence
+### Georgiev (2012) - Mind efforts, quantum Zeno effect and environmental decoherence
 - **URL**: https://www.researchgate.net/publication/261724365_Mind_efforts_quantum_Zeno_effect_and_environmental_decoherence
 - **Type**: Research paper (critical)
 - **Key points**:
@@ -199,5 +199,5 @@ The original todo asked: "Verify Henry Stapp's claim that it takes effort to con
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327. https://pmc.ncbi.nlm.nih.gov/articles/PMC1569494/
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Georgiev, D. (2014). Mind efforts, quantum Zeno effect and environmental decoherence. *NeuroQuantology*, 12(3). https://www.researchgate.net/publication/261724365
+- Georgiev, D. (2012). Mind efforts, quantum Zeno effect and environmental decoherence. *NeuroQuantology*, 10(3), 552. https://www.researchgate.net/publication/261724365
 - Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness. https://plato.stanford.edu/entries/qt-consciousness/

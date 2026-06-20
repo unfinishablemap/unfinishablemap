@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-19 05:30:00+00:00
+ai_modified: 2026-06-20 06:47:26+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ description: Fundamental principles connecting conscious experience to physical 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 00:00:00+00:00
+last_deep_review: 2026-06-20 06:47:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ topics:
 - '[[mental-causation-and-downward-causation]]'
 ---
 
-Psychophysical laws are fundamental principles connecting conscious experience to physical processes. Psychophysical coupling is the lawful relationship those laws describe — the bridge binding conscious states to physical parameters. If consciousness is ontologically distinct from physics — as The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds — then no purely physical explanation can account for why particular brain states are accompanied by particular experiences. New laws are needed: laws relating phenomenal properties to physical properties at the most basic level. As Chalmers put it: "Where we have new fundamental properties, we also have new fundamental laws" (Chalmers 1995). But specifying that such laws are needed is not enough. [Interactionist dualism](/concepts/interactionist-dualism/) faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions?
+Psychophysical laws are fundamental principles connecting conscious experience to physical processes. Psychophysical coupling is the lawful relationship those laws describe — the bridge binding conscious states to physical parameters. If consciousness is ontologically distinct from physics — as The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds — then no purely physical explanation can account for why particular brain states are accompanied by particular experiences. New laws are needed: laws relating phenomenal properties to physical properties at the most basic level. As Chalmers put it: "Where there is a fundamental property, there are fundamental laws" (Chalmers 1995). But specifying that such laws are needed is not enough. [Interactionist dualism](/concepts/interactionist-dualism/) faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions?
 
 David Chalmers developed the most influential framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology. The Map builds on Chalmers but insists on *downward* causation (phenomenal → physical selection) where Chalmers emphasises *upward* laws (physical → phenomenal). This article covers the framework, the coupling those laws describe, its constraints, and candidate mechanisms. For an integrated overview, see [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/).
 
@@ -135,7 +135,7 @@ A psychophysical coupling law would specify:
 
 The [content-specificity](/concepts/content-specificity-of-mental-causation/) evidence constrains selection laws: empirically, the *meaning* of a conscious state determines which physical effect occurs with striking granularity—different placebo beliefs produce different neurochemical cascades.
 
-What Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved. The [interface specification problem](/topics/the-interface-problem/) develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines what any such mapping requires formally: an experiential state space E, a physical state space P, and a coupling map C: E × P → P satisfying five non-negotiable constraints from quantum foundations.
+The "t-shirt problem" Schaffer presses against naturalistic dualism—the lack of a compact systematization of psychophysical correlations, so named because the fundamental laws could not be written legibly on a t-shirt—remains unsolved. The [interface specification problem](/topics/the-interface-problem/) develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines what any such mapping requires formally: an experiential state space E, a physical state space P, and a coupling map C: E × P → P satisfying five non-negotiable constraints from quantum foundations.
 
 ### Constraints on Coupling
 
@@ -277,18 +277,19 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 
 ## References
 
-1. Bösch, H., Steinkamp, F., & Boller, E. (2006). "Examining psychokinesis: the interaction of human intention with random number generators — a meta-analysis." *Psychological Bulletin* 132(4), 497-523.
-2. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
-3. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-4. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-5. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
-7. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
-8. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
-9. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
-10. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
-11. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
-12. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-13. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-14. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
-15. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
+1. Beck, F. & Eccles, J.C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences* 89(23), 11357-11361. doi:10.1073/pnas.89.23.11357.
+2. Bösch, H., Steinkamp, F., & Boller, E. (2006). "Examining psychokinesis: the interaction of human intention with random number generators — a meta-analysis." *Psychological Bulletin* 132(4), 497-523.
+3. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
+4. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+5. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+6. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
+7. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
+8. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
+9. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
+10. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
+11. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
+12. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
+13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+14. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+15. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
+16. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
