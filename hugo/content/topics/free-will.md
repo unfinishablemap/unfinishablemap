@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-06-09 18:00:47+00:00
+ai_modified: 2026-06-20 11:56:35+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -105,7 +105,7 @@ The physicalist can accommodate the neural data—different neural modes explain
 
 ### Introspective Reliability
 
-Schwitzgebel (2011) has documented pervasive introspective failures. Why trust phenomenology about agency? Because the argument depends on a *coarse-grained, first-order distinction*—choosing feels different from observing—not on subtle introspective classification. Even Wegner (2002), who argues conscious will is an illusion, acknowledges the robust feeling of effort; his claim is that it *misrepresents its cause*, not that it doesn't exist. Three features may make agency phenomenology comparatively robust: the distinction is coarse-grained (choosing vs observing), behaviourally consequential (reports correlate with distinct neural signatures), and cross-domain stable (the same effortful quality appears in attention, motor control, reasoning, and creative generation). Moreover, agency and ownership dissociate in clinical populations — schizophrenia and anarchic hand syndrome suggest that initiation phenomenology tracks genuine causal structure rather than being blanket confabulation applied to all movement (Gallagher & Zahavi, 2012). Dismissing volitional phenomenology as illusion would, on this reading, require not one trick but four independent tricks — fabricating initiation, sustained control, effort gradients, and active veto, each calibrated to real cognitive demands with distinct neural substrates. The Map argues that this structured phenomenology, combined with its neural correlates, is better explained by genuine agent involvement than by systematic misleading—though whether the phenomenology is ultimately veridical is precisely what the eliminativist disputes, and the argument here aims to shift the burden rather than to close the question.
+Schwitzgebel (2011) has documented pervasive introspective failures. Why trust phenomenology about agency? Because the argument depends on a *coarse-grained, first-order distinction*—choosing feels different from observing—not on subtle introspective classification. Even Wegner (2002), who argues conscious will is an illusion, acknowledges the robust feeling of effort; his claim is that it *misrepresents its cause*, not that it doesn't exist. Three features may make agency phenomenology comparatively robust: the distinction is coarse-grained (choosing vs observing), behaviourally consequential (reports correlate with distinct neural signatures), and cross-domain stable (the same effortful quality appears in attention, motor control, reasoning, and creative generation). Moreover, agency and ownership dissociate in clinical populations — schizophrenia and anarchic hand syndrome suggest that initiation phenomenology tracks genuine causal structure rather than being blanket confabulation applied to all movement (Gallagher & Zahavi, 2012). That dissociation is what resists the deflationary reading: a single demand-tracking confabulation should fractionate uniformly, yet schizophrenia disturbs initiation while sparing ownership and anarchic hand syndrome disturbs control while sparing initiation. Dismissing volitional phenomenology as illusion would, on this reading, require not one trick but several separately fracturable ones — fabricating initiation, sustained control, effort gradients, and active veto, each calibrated to real cognitive demands with distinct neural substrates. The Map argues that this structured phenomenology, combined with its neural correlates, is better explained by genuine agent involvement than by systematic misleading—though whether the phenomenology is ultimately veridical is precisely what the eliminativist disputes, and the argument here aims to shift the burden rather than to close the question.
 
 ### The Phenomenology of Choice
 
@@ -150,7 +150,7 @@ Chisholm distinguished *transeunt* causation (event→event) from *immanent* cau
 
 The [phenomenology of effort](/concepts/mental-effort/) supports this picture—the felt cost of concentration reflects genuine causal engagement. [Creativity](/topics/consciousness-and-cognitive-distinctiveness/) strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [creativity void](/voids/creative-aesthetic-void/) reveals we cannot observe ourselves creating.
 
-[Dream problem-solving](/topics/dream-consciousness/) provides independent evidence: dream incorporation more than doubled solving rates for unsolved puzzles, suggesting consciousness generates novel approaches in a phenomenally different mode. If consciousness were epiphenomenal, the phenomenal character of dreaming should be irrelevant to problem-solving success.
+[Dream problem-solving](/topics/dream-consciousness/) provides suggestive (and contested) evidence: dream incorporation more than doubled solving rates for unsolved puzzles, suggesting consciousness generates novel approaches in a phenomenally different mode—though the result rests on a small lucid-dreamer-selected sample and has not been independently replicated. If consciousness were epiphenomenal, the phenomenal character of dreaming should be irrelevant to problem-solving success.
 
 ## The Capacity to Suspend Selection
 
@@ -179,7 +179,7 @@ The framework is not unfalsifiable:
 - **Phenomenology-neuroscience dissociation**: Effort feeling easy when neural cost is high, or vice versa
 - **No physical gap for mental causation**: Proof that causal closure holds without exception at all scales
 
-Failure of any particular proposed mechanism (like quantum approaches) would require finding an alternative gap, not abandoning libertarian free will. The philosophical case rests on phenomenology and agent causation, not on any specific physics.
+The first and fourth falsifiers are third-person-empirical—reachable by neuroscience and physics from outside, so the [first-person verification failure](/voids/agency-void/) that limits introspective proof of efficacy does not insulate the framework from them. Failure of any particular proposed mechanism (like quantum approaches) would require finding an alternative gap, not abandoning libertarian free will. The philosophical case rests on phenomenology and agent causation, not on any specific physics.
 
 ## Distal Intentions and Prospective Memory
 

@@ -20,7 +20,7 @@ description: What the lived experience of translating between languages reveals 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 20:51:38+00:00
+last_deep_review: 2026-06-20 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'

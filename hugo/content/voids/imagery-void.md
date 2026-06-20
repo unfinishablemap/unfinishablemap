@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-06-10 20:47:02+00:00
+ai_modified: 2026-06-20 09:41:34+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of why no conscious mind can verify the fideli
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 18:25:40+00:00
+last_deep_review: 2026-06-20 09:41:34+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -68,7 +68,7 @@ The third face is the most theoretically loaded. Kay, Keogh, and Pearson (2024) 
 
 The result is a wedge. If the same task is solved with and without phenomenal imagery, three options open: (a) imagery is a phenomenal accompaniment that does not do the cognitive work it appears to do; (b) two phenomenally distinct architectures perform isomorphic work; or (c) introspective reports of imagery systematically misdescribe the underlying process. Each option is metaphysically loaded; none is verifiable from inside.
 
-A 2025 fMRI decoding study sharpens the wedge further. Chang, Zhang, Cao, Pearson, and Meng (2025) found that imagined-stimulus content can be decoded from the early visual cortex of validated aphantasics just as well as from controls—the *functional* imagery signal is present even where phenomenal vividness is reported as absent—but the aphantasic signature is transformed: it is ipsilateral and does not cross-decode with perceptual representations, unlike in imagers. The authors frame this as "imageless imagery": content-bearing visual-cortex activity without the conscious image. For the function-phenomenology face this strengthens rather than weakens the dissociation. It removes the deflationary reading that aphantasics simply lack the relevant cortical processing; the processing is there and decodable, yet the phenomenal image is not, which is exactly the pattern option (a) predicts. The decoding cannot adjudicate between options (a), (b), and (c)—it detects that something imagery-shaped is happening, not whether a phenomenal image accompanies it—so the face remains structurally intact while the empirical pressure on the identity of function and phenomenology grows.
+A 2025 fMRI decoding study sharpens the wedge further. Chang, Zhang, Cao, Pearson, and Meng (2025) found that imagined-stimulus content can be decoded from the early visual cortex of validated aphantasics just as well as from controls—the *functional* imagery signal is present even where phenomenal vividness is reported as absent—but the aphantasic signature is transformed: it is ipsilateral and does not cross-decode with perceptual representations, unlike in imagers. The authors frame this as "imageless imagery": content-bearing visual-cortex activity without the conscious image. For the function-phenomenology face this strengthens rather than weakens the dissociation. It removes the deflationary reading that aphantasics simply lack the relevant cortical processing; the processing is there and decodable, yet the phenomenal image is not, which is consistent with option (a). The decoding cannot adjudicate between options (a), (b), and (c), however—the transformed, non-cross-decoding signature fits (b) and (c) equally well, and the method detects that something imagery-shaped is happening, not whether a phenomenal image accompanies it—so the face remains structurally intact while the empirical pressure on the identity of function and phenomenology grows.
 
 The same aphantasic evidence does double duty in a deeper ontological dispute the wedge feeds into: whether *thinking-as-such* carries a proprietary phenomenal kind distinct from any sensory imagery, inner speech, and affect accompanying it. That is the century-old cognitive-phenomenology debate between liberals (Pitt, Strawson, Chudnoff, Kriegel), who hold there is a sui generis what-it-is-likeness of understanding, and conservatives (Carruthers, Tye), who hold the phenomenology of thought reduces to its sensory accompaniments. Lennon (2023) reads aphantasia as empirical leverage for the liberal side: aphantasics report conscious thought with "no sensory reduction base," which looks like a counterexample to the sensory constraint on conscious thought. The leverage is double-edged, though. A conservative can re-describe aphantasic phenomenology as residual sensory or inner-speech content, or as intact *dispositional* thinking unaccompanied by any phenomenal kind at all—so the same datum reads as confirmation from either commitment. The aphantasia evidence therefore does not settle the liberal/conservative dispute; it sharpens the imagery void by attaching it to an open question about the *ontology* of the phenomenal—what kinds of phenomenal furniture thinking is made of—rather than merely its accessibility. The dedicated philosophical treatment of that structural irresolvability is [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/); the [cognitive phenomenology void research note](/research/voids-cognitive-phenomenology-void-2026-05-01/) frames it as a void in its own right, anchored by the Würzburg-Titchener imageless-thought controversy (c. 1900–1915) and Fürst's diagnosis that phenomenal-contrast verdicts are "regimented by the view initially held."
 

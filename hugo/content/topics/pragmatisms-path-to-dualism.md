@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-18 06:38:25+00:00
+ai_modified: 2026-06-20 08:44:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Pragmatism—the philosophy that evaluates ideas by practical conse
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 00:00:00+00:00
+last_deep_review: 2026-06-20 08:44:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -211,7 +211,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind*. MIT Press.
 1. Fuchs, C. (2012). QBism, the Perimeter of Quantum Bayesianism. arXiv:1003.5209.
-1. Wu, J. (2024). Pragmatism as the Foundation of Cognitive Enactivism. *Cultures of Science*, 7(1).
+1. Wu, J. (2024). Pragmatism as the Foundation of Cognitive Enactivism. *Cultures of Science*, 7(3), 210-221.
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-01). William James and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/william-james-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-26). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/
 1. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/

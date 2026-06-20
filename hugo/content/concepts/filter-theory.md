@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-05 21:08:34+00:00
+ai_modified: 2026-06-20 10:15:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,7 +34,7 @@ description: The brain transmits and constrains consciousness rather than produc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-28 14:05:00+00:00
+last_deep_review: 2026-06-20 10:15:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ Filter theory denies that correlation establishes identity, using the radio anal
 
 ### The Psychedelic Paradox
 
-Neuroimaging studies of psychedelic states show *decreased* activity in the [default-mode-network](/concepts/default-mode-network/) alongside *increased* global connectivity—yet subjects report *expanded*, *richer*, *more vivid* conscious experience. On production models, disrupted neural organization should produce disrupted consciousness.
+Neuroimaging studies of psychedelic states show *decreased* activity in the [default-mode-network](/concepts/default-mode-network/) alongside *increased* global connectivity—yet subjects report *expanded*, *richer*, *more vivid* conscious experience (Carhart-Harris et al. 2012). On production models, disrupted neural organization should produce disrupted consciousness.
 
 A physicalist would object: different neural processing simply produces different experience. What makes the filter interpretation attractive is coherence with the [hard problem](/topics/hard-problem-of-consciousness/)—even perfect neural mapping leaves unexplained *why* there is something it is like to undergo these processes.
 
@@ -89,7 +89,7 @@ Different anaesthetics produce identical behavioural outputs—unresponsiveness,
 
 Sarasso et al. (2015) compared brain complexity under propofol, xenon, and ketamine. Propofol and xenon both abolished reported experience but through mechanistically distinct neural signatures. Ketamine preserved wakefulness-like complexity despite equivalent behavioural unresponsiveness—subjects reported long, vivid dreams. Three agents, three distinct neural signatures, two radically different phenomenological outcomes. This pattern refutes naive unified-switch physicalism but not sophisticated functionalism, which accommodates dissociability by positing consciousness realised in coupled subsystems. Filter theory attributes the same dissociable pattern to separable interface components; the [anesthesia void](/voids/anesthesia-void/) examines how the first-person gap underdetermines which decomposition is correct.
 
-Consciousness under anaesthesia does not switch off at a threshold; it narrows continuously as dosage increases—fitting a progressively constricting filter better than a generator being powered down. The [full pharmacological analysis](/topics/anaesthesia-and-the-consciousness-interface/) reveals at least four separable interface components that can be independently disrupted: **phenomenal presence** (whether there is something it is like), **behavioural access** (whether content can drive output), **temporal binding** (whether experience has coherent sequence), and **memory encoding** (whether content is retained). Each component pairs with characteristic pharmacology—propofol and xenon target phenomenal presence through mechanistically distinct routes; ketamine severs access while sparing the phenomenal channel; volatile agents fragment temporal binding; midazolam isolates memory encoding "almost surgically" from other components. This four-component structured-interface vocabulary is the concept-page-level commitment the filter framework makes about what the interface *is*: not a single dimmer but multiple semi-independent channels that pharmacology can engage selectively. Sensory information reaches the brain during light sedation but is not perceived (Noreika et al. 2018)—the signal arrives at sensory cortex; the interface blocks transmission.
+Consciousness under anaesthesia does not switch off at a threshold; it narrows continuously as dosage increases—fitting a progressively constricting filter better than a generator being powered down. The [full pharmacological analysis](/topics/anaesthesia-and-the-consciousness-interface/) reveals at least four separable interface components that can be independently disrupted: **phenomenal presence** (whether there is something it is like), **behavioural access** (whether content can drive output), **temporal binding** (whether experience has coherent sequence), and **memory encoding** (whether content is retained). Each component pairs with characteristic pharmacology—propofol and xenon target phenomenal presence through mechanistically distinct routes; ketamine severs access while sparing the phenomenal channel; volatile agents fragment temporal binding; midazolam isolates memory encoding "almost surgically" from other components. This four-component structured-interface vocabulary is the concept-page-level commitment the filter framework makes about what the interface *is*: not a single dimmer but multiple semi-independent channels that pharmacology can engage selectively. Sensory information reaches the brain during light sedation but is not perceived (Noreika et al. 2011)—the signal arrives at sensory cortex; the interface blocks transmission.
 
 ### Hypnagogic Loosening
 
@@ -216,12 +216,10 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 1. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 1. Josselyn, S.A. & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. *Science*, 367(6473), eaaw4325.
-1. Kelly, E.F., et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
-1. Noreika, V., et al. (2018). Consciousness lost and found: subjective experiences in an unresponsive state. *British Journal of Anaesthesia*, 121(1), 298-305.
+1. Noreika, V., et al. (2011). Consciousness lost and found: subjective experiences in an unresponsive state. *Brain and Cognition*, 77(3), 327-334.
 1. Owen, A.M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
-1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.

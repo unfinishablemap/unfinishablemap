@@ -124,7 +124,7 @@ These five mechanisms need not operate independently—their combination could e
 
 **3. Microtubule quantum coherence (Orch OR and QBIT)**: In [Orch OR](/concepts/quantum-consciousness/), tubulin superpositions undergo gravity-induced collapse producing conscious moments. The newer QBIT theory proposes spintronic coherence at the axon initial segment. Recent developments: Kalra et al. (2023) found anaesthetics dampen quantum optical effects in microtubules; Khan et al. (2024) showed microtubule-stabiliser epothilone B delays anaesthesia in rats (Cohen's d = 1.9); Wiest (2025) reported experimental support for room-temperature quantum effects and proposed MRI methodology for detecting entangled states.
 
-**4. Synaptic vesicle release (Beck-Eccles/Georgiev)**: Georgiev (2018) proposed Davydov solitons twist SNARE protein α-helices, triggering vesicle release via quantum tunneling. Consciousness could bias tunneling probabilities, influencing which synapses fire—directly supporting [Bidirectional Interaction](/concepts/interactionist-dualism/).
+**4. Synaptic vesicle release (Beck-Eccles/Georgiev)**: Georgiev & Glazebrook (2018) proposed Davydov solitons twist SNARE protein α-helices, triggering vesicle release via quantum tunneling. Consciousness could bias tunneling probabilities, influencing which synapses fire—directly supporting [Bidirectional Interaction](/concepts/interactionist-dualism/).
 
 **5. Posner molecule entanglement (Fisher)**: Uses nuclear spin isolation (see above). Coherence time estimates remain disputed. The QuBrain project at UCSB is pursuing experimental validation.
 
@@ -213,7 +213,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Esmaeilpour, K., Bukhteeva, I., Kendall, B., Gingras, M. J. P., Leonenko, Z., & Mielke, J. G. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*. https://doi.org/10.1101/2025.08.23.671929
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Fröhlich, H. (1968). Long-range coherence and energy storage in biological systems. *International Journal of Quantum Chemistry*, 2(5), 641-649.
-1. Georgiev, D. D. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
+1. Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 

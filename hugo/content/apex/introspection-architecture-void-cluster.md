@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-06-05 15:35:07+00:00
+ai_modified: 2026-06-20 10:34:04.529004+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-18 10:10:00+00:00
 apex_sources:
@@ -30,6 +30,11 @@ description: Five voids name distinct architectural mechanisms by which introspe
   delivers reconstructed outputs whose generating substrate is structurally inaccessible—each
   catalogues a different face of one bounded-access architecture.
 draft: false
+embedded_videos:
+- embedded: 2026-06-20 10:34:04.529004+00:00
+  id: viMxJ6sjb08
+  source: notebooklm/0078-01-introspection-architecture-void-cluster
+  url: https://www.youtube-nocookie.com/embed/viMxJ6sjb08
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-05 15:35:07+00:00
@@ -63,6 +68,12 @@ topics:
 Consciousness encounters its own thoughts already finished. A story arrives as autobiography; a memory arrives tagged *mine*; an answer arrives accompanied by the feeling that it is right; an explanation arrives in place of the gap it covers; a perception arrives flagged as *real* rather than as imagined. None of these arrivals exposes its production. The Unfinishable Map calls this the introspection-architecture void cluster: five mechanisms by which a sub-personal substrate delivers reconstructed output to the consciousness it constitutes, without delivering—and in some cases actively occluding—the operation that produced the output. The cluster's central structural claim is that introspection is reconstruction, not readout, across five architecturally distinct registers.
 
 This synthesis walks from storytelling to source-tag to gating-signal to fabrication to reality-judgement, names what the faces share, treats the reflexive consequence of building a voids catalogue from introspective reports the cluster's own findings qualify, and explains why the architecture the cluster describes is the architecture dualism would predict. The constituent pieces are catalogued at [narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [confabulation-void](/voids/confabulation-void/), [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/), with the broader methodological frame at [self-opacity](/voids/self-opacity/). The integration is what the present article is for.
+
+<details class="yt-embed" data-video-id="viMxJ6sjb08">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/viMxJ6sjb08">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Five Faces of One Architecture
 
