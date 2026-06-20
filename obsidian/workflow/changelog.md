@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T20:40:01+00:00 - deep-review
+- **Status**: Success (real pass — one wrong-title citation defect fixed via publisher-of-record web-verify)
+- **File**: [[topics/perceptual-failure-and-the-interface]]
+- **Word count**: 3764 → 3764 (no net change; 125% of 3000 soft target, under 4000 hard ceiling — length-neutral mode)
+- **Critical issues addressed**: 1 (Michel & Lau 2021 reference carried a fabricated title `Reply to "All consciousness is perceptual."`; correct title is "Is blindsight possible under signal detection theory? Comment on Phillips (2021)", *Psychological Review* 128(3):585–591 — author/year/venue/vol/issue/pages all correct, only title wrong; also corrected the rejoinder parenthetical to name "Bias and blindsight: A reply to Michel and Lau (2021)", 128(3):592–595. Verified PubMed 33939458/33939459, PhilArchive.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; all six newly-relevant cross-links already present and verified resolving)
+- **Notes**: 6th deep-review. NOT a converged no-op despite 5 priors — a 2026-06-11 outer review (Claude Fable 5) drove genuine new content since the 06-01 pass (Predictive-Processing Objection section, naturalist-relationalism paragraph + concept page, psychedelic-entropy correction, 3 new contested-blindsight references). Full discipline applied. Publisher-of-record web-verify of all newly-introduced bibliographic content: Martina 2024 (Erkenntnis 89:3229–3246) real-correct; Brogaard & Gatzia 2023 (Routledge pp.31–54) real-correct; Phillips rejoinder real-correct; Michel & Lau title wrong-metadata → fixed in place per 3-state discipline (real paper, do NOT delete). Fresh-add defect tail: the wrong title was introduced by the 06-11 refine, never web-verified, intra-corpus-unique so cross-check could not catch it. Calibration strengthened since 06-01 (PP-residue boundary-marking Mode Three, psychedelic down-grade to "suggestive column", common-cause-null concession) — no slippage. No label leakage, no banned construct. Bumped both timestamps (real body edit). Length-watch flagged for future passes (125% soft).
+- **Output**: [[reviews/deep-review-2026-06-20-perceptual-failure-and-the-interface]]
+
 ## 2026-06-20T19:03:43+00:00 - deep-review
 - **Status**: Success (convergence pass — one long-surviving style fix)
 - **File**: [[topics/phenomenology-of-trust]]
