@@ -5,6 +5,23 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T07:59:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mind-brain-separation]]
+- **Context**: Converged-staleness VERIFICATION (review #6) of a CALIBRATION ANCHOR (filter-theory / division-of-faculties). Prose stable & correctly calibrated since 2026-05-21; zero prose changes. All yield from the publisher-of-record citation web-verify pass the five prior reviews never ran (they relied on intra-corpus "verified in prior reviews").
+- **Critical fixes — 2 wrong-author misattributions** that intra-corpus consistency had ratified across 5 reviews:
+  - Ref #2 **Manzotti → Masi**: "A critical review of the mind-brain identity theory" *Front. Psychol.* is authored solely by **Marco Masi** (14, 1150605, 2023; PMC10641890 / PhilArchive MASAEC-2). Manzotti was a *reviewer* in the Frontiers byline, not the author. Title also abbreviated. → `Masi, M. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.`
+  - Ref #7 **Leopold → Ajina & Bridge** (+ wrong venue): "Blindsight and Unconscious Vision: What They Teach Us about the Human Visual System" is by **Ajina, S. & Bridge, H.**, *The Neuroscientist* **23(5), 529–541** (2016; PubMed 27777337 / PMC5493986; DOI 10.1177/1073858416673817) — NOT Leopold, D.A.; "*PMC*" is an archive not a journal. Both non-load-bearing in body (background-references style) but corrupt on an anchor that propagates.
+- **Metadata completion (real-correct cites)**: Feldman 2013 → 7(1):1–11; Thiebaut de Schotten 2020 → restored "and behaviour", 11:5094; Demirel 2025 → 45(20), e2237242025 (matches canonical corpus form).
+- **Citation web-verify ledger (publisher of record, all 8)**: Feldman 2013 real-correct(+meta); Manzotti→**Masi WRONG-AUTHOR fixed**; Thiebaut de Schotten 2020 real-correct(+meta); James 1898 / Bergson 1896 / Huxley 1954 real-correct (classics, date-sanity); Leopold→**Ajina & Bridge WRONG-AUTHOR+VENUE fixed**; Demirel 2025 real-correct(+meta). Inline↔References complete (background-ref style — only classics named inline, accepted convention). Currency sweep: 0 superlatives detected.
+- **Family-resolution propagation** (Manzotti→Masi, same paper Front.Psychol.14:1150605): fixed `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md` (inline + ref; ALSO dropped fabricated co-author "& Moderato" — Masi is sole author; a 2026-W23 changelog's "web-verified Manzotti & Moderato" was a false-positive), `research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md` (2 lines), and seed `research/mind-brain-separation-faculties-2026-01-15.md` (Manzotti→Masi + Leopold→Ajina&Bridge). ai_modified bumped on all 4 edited files.
+- **Calibration/reasoning-mode**: all anchor calibration hedges intact ("could reflect merely an explanatory gap", "illustrates rather than establishes", "A productivist can accommodate most…", "consistent with bidirectional interaction… rather than the felt phenomenology alone", "parsimony arguments rest on hope rather than evidence") — no possibility/probability slippage. Engagements (illusionism Mode Two/One, productivism Mode Three, MWI Mode Three) re-confirmed from prior review (body unchanged). No editor-vocab leakage, no "not X but Y" cliché.
+- **Word count**: 2139 → 2163 (+24, all reference-metadata completion; body prose byte-for-byte unchanged; 87% of concepts soft 2500)
+- **Critical issues addressed**: 2 (Manzotti→Masi, Leopold→Ajina&Bridge wrong-author)
+- **Medium issues addressed**: 1 (incomplete metadata on 3 real-correct cites)
+- **Enhancements made**: 0 (verification pass; calibration confirmed clean)
+- **Output**: [[reviews/deep-review-2026-06-20-mind-brain-separation]]
+
 ## 2026-06-20T07:37:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]

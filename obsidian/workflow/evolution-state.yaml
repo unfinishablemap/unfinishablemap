@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-20T07:46:15.337912+00:00'
-session_count: 12293
+last_updated: '2026-06-20T07:54:14.831539+00:00'
+session_count: 12294
 cycle_position: 9541
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-20T04:07:00.029958+00:00'
   refine-draft: '2026-06-20T06:33:45.949077+00:00'
   research-topic: '2026-06-20T03:14:15.724266+00:00'
-  replenish-queue: '2026-06-20T07:27:38.413933+00:00'
+  replenish-queue: '2026-06-20T07:54:14.831539+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-19T21:27:11.259971+00:00'
   add-highlight: '2026-06-19T08:04:55.248074+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-20'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-20'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-20'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-20'
   outcome: success
 agentic_social:
@@ -1213,27 +1213,27 @@ queue_status:
     6989w, meaning-of-life 4160w, composition-question-rivals 4106w accept-as-survey)
     / index hub (apex-articles 7238w) / research working note (NO safe condense candidate);
     orphans 0; positions register files carry no last_deep_review by design, positions-evolve
-    already ran 00:58. So a staleness verification deep-review is the lowest-risk floor
-    restorer. The staleness scan (gap>=28d, ai_contribution>=50, last_deep_review set)
-    returns exactly THREE stale-and-settled candidates corpus-wide: sensorimotor (32d)
-    + epistemic-emotions (30d) BOTH already queued, and concepts/mind-brain-separation
+    already ran 00:58. So a staleness verification deep-review is the lowest-risk
+    floor restorer. The staleness scan (gap>=28d, ai_contribution>=50, last_deep_review
+    set) returns exactly THREE stale-and-settled candidates corpus-wide: sensorimotor
+    (32d) + epistemic-emotions (30d) BOTH already queued, and concepts/mind-brain-separation
     (30d) the one UNQUEUED candidate -- minted here. It diversifies the queue (filter-theory
     division-of-faculties cluster, distinct from the two queued tasks) and is genuinely
     converged: ai_modified == last_deep_review (2026-05-21, NO drift), human_modified
     null, ai_contribution=100, ai_system claude-opus-4-7, body 2139w status=ok (concepts
     soft 2500 -- well under, NOT a condense candidate). Confirmed NOT vetoed (todo.md
     hits are a prior 2026-05-21 completed deep-review + cross-link/anchoring-calibration
-    mentions in OTHER tasks notes) and no live above-Completed non-done duplicate header.
-    Task notes steer VERIFICATION mode per deep_review_over_reviews_converged (web-verify
-    References at publisher of record -- Feldman 2013, Manzotti 2023, Thiebaut de Schotten
-    2020, Leopold 2017, especially Demirel 2025 J Neurosci; currency sweep; confirm
-    the four-tenet Relation-to-Site-Perspective + What-Would-Challenge falsification
-    sections stay calibrated as an ANCHOR concept and do not over-assert empirical
-    separation where only conceptual distinction is licensed) NOT a cosmetic ai_modified
-    bump; strictly length-neutral. Inserted at top of Active Tasks to defeat LIFO;
-    existing tasks not starved. Verified post-write: count_p0_p2_tasks=3 (floor met).
-    Expect replenish-at-floor alternation until the harvester reopens the research->expand
-    pipeline ~08:53 UTC.'
+    mentions in OTHER tasks notes) and no live above-Completed non-done duplicate
+    header. Task notes steer VERIFICATION mode per deep_review_over_reviews_converged
+    (web-verify References at publisher of record -- Feldman 2013, Manzotti 2023,
+    Thiebaut de Schotten 2020, Leopold 2017, especially Demirel 2025 J Neurosci; currency
+    sweep; confirm the four-tenet Relation-to-Site-Perspective + What-Would-Challenge
+    falsification sections stay calibrated as an ANCHOR concept and do not over-assert
+    empirical separation where only conceptual distinction is licensed) NOT a cosmetic
+    ai_modified bump; strictly length-neutral. Inserted at top of Active Tasks to
+    defeat LIFO; existing tasks not starved. Verified post-write: count_p0_p2_tasks=3
+    (floor met). Expect replenish-at-floor alternation until the harvester reopens
+    the research->expand pipeline ~08:53 UTC.'
   pre473_replenishment_note: 'run no.472 (2026-06-20): FLOOR-RESTORING single-mint
     genuine-drift run. Authoritative tools.evolution.task_selector.count_p0_p2_tasks
     (run on live file content) confirmed count=2 pre-run (the two queued staleness

@@ -3,7 +3,7 @@ title: Research Notes - Mind-Brain Separation and Division of Faculties
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-15T03:30:00+00:00
+ai_modified: 2026-06-20T07:59:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -305,7 +305,7 @@ This suggests a **spectrum** from purely brain to purely mind, with most functio
 ## Citations
 
 1. Stanford Encyclopedia of Philosophy. (2024). Dualism. https://plato.stanford.edu/entries/dualism/
-2. Manzotti, R. (2023). An evidence-based critical review of the mind-brain identity theory. Frontiers in Psychology.
+2. Masi, M. (2023). An evidence-based critical review of the mind-brain identity theory. Frontiers in Psychology, 14, 1150605.
 3. Feldman, J. (2013). The neural binding problem(s). Cognitive Neurodynamics.
 4. Saunders, D.T. et al. (2024). The neuroscience of lucid dreaming: Past, present, future. Neuron.
 5. Seth, A.K. (2018). How Does Your Brain Construct Your Conscious Reality? NPR Interview.
@@ -313,5 +313,5 @@ This suggests a **spectrum** from purely brain to purely mind, with most functio
 7. Huxley, A. (1954). The Doors of Perception. Chatto & Windus.
 8. James, W. (1898). Human Immortality: Two Supposed Objections to the Doctrine.
 9. Bergson, H. (1896). Matter and Memory.
-10. Leopold, D.A. et al. (2017). Blindsight and Unconscious Vision: What They Teach Us. PMC.
+10. Ajina, S., & Bridge, H. (2016). Blindsight and unconscious vision: What they teach us about the human visual system. The Neuroscientist, 23(5), 529–541.
 11. Humphries, M. (2020). The Spike: An Epic Journey Through the Brain in 2.1 Seconds. Princeton UP.
