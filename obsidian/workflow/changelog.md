@@ -5,6 +5,17 @@ ai_modified: 2026-06-20T06:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T05:26:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/training-contamination-confound]]
+- **Selection**: staleness scorer self-selected (score 29; body substantially modified 2026-06-20 by a refine-draft that grafted a new "Prior Art and External Corroboration" section + 9 external citations the prior 2026-05-31 deep-review never saw)
+- **Word count**: 2766 → 2796 (+30, length-neutral; soft_warning, well under 3500 hard)
+- **Critical issues addressed**: 1 — fabricated quotation: article quoted "risks invalidating the test" attributed to Udell & Schwitzgebel 2021; the paper actually says "invalidate its method" (verified against author-hosted preprint SchneiderCrit-200828.pdf §3). Substance faithful, quotation marks dishonest. Replaced with two genuine verbatim phrases.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 minor tightening (Prior Art lead, offsets the quotation-fix words)
+- **§2.4 publisher-of-record web-verify**: ALL 9 external citations verified at publisher of record (arXiv / JCS / Transformer Circuits / author preprint) — full per-cite ledger in review archive. 8 real-correct, 1 real-wrong-metadata (the misquote, fixed). Inline↔References complete, no orphans. Lindsey empirical figures (20% / 0-of-100 / "may still be confabulated") verified verbatim. Currency sweep: no superlatives. Schwitzgebel "mimicry argument" attribution verified against manuscript (Ch. 7).
+- **Output**: [[reviews/deep-review-2026-06-20-training-contamination-confound]]
+
 ## 2026-06-20T06:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-interface-development]]

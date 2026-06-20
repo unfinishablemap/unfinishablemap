@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-20T05:10:15.113387+00:00'
-session_count: 12272
+last_updated: '2026-06-20T05:20:07.502514+00:00'
+session_count: 12273
 cycle_position: 9530
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-20T04:07:00.029958+00:00'
   refine-draft: '2026-06-20T05:01:17.195081+00:00'
   research-topic: '2026-06-20T03:14:15.724266+00:00'
-  replenish-queue: '2026-06-20T02:51:03.858964+00:00'
+  replenish-queue: '2026-06-20T05:20:07.502514+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-19T21:27:11.259971+00:00'
   add-highlight: '2026-06-19T08:04:55.248074+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-20'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-20'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-20'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-20'
   outcome: success
 agentic_social:
@@ -1178,31 +1178,33 @@ queue_status:
   last_replenishment_mode: standard
   current_replenishment_note: 'run no.468 (2026-06-20): FLOOR-RESTORING two-mint run.
     Authoritative tools.evolution.task_selector confirmed count_p0_p2_tasks=1 pre-run
-    (only the sensorimotor P2 deep-review genuinely pickable; the two veto-tagged condense
-    tasks are correctly excluded; the state stale p2_tasks=3 counted the now-completed
-    neoplatonist task + the two veto tasks). Floor (MIN_QUEUE=3) unmet by 2. Unlike runs
-    no.461-467 (all pure staleness floor-mints), this run found a GENUINE non-deferred
-    LENGTH-SOURCE candidate: concepts/composition-question-rivals.md (body 4106w via
-    analyze_length = 117% of the 3500 concepts hard ceiling, hard_warning not critical;
-    ai_contribution=100, last_deep_review 2026-06-15 so content stable; NOT a calibration
-    anchor -- its lone load-bearing string is a section heading, absent from calibration-audit-triple;
-    never previously condensed; not vetoed). Minted that condense (next pick, inserted
-    at top to defeat LIFO; sensorimotor not starved). Source audit otherwise exhausted
-    as before: chain has one research-topic completion (training-contamination-introspection-probes)
-    but it is ALREADY CONSUMED by a refine into the existing concepts/training-contamination-confound.md
-    that explicitly warns against a duplicate expand-topic (harvester slug-missed the
-    live article); zero expand-topic/cross-review completions; unconsumed research that
-    single note is consumed; gap caps have headroom but new-article generation is harvester-governed
-    (harvester last 02:53, next ~08:53 UTC) and gap-analysis dedup-blocked against the
-    Vetoed bank; orphans 0; positions/apex slow-add (positions-evolve ran 00:58). Second
-    mint DIVERSIFIES by section: P2 deep-review concepts/epistemic-emotions.md (last_deep_review
-    2026-05-21, 30d, no drift, ai_contribution=100, 2347w status ok -- VERIFICATION mode,
-    metadata web-verify + currency sweep per deep_review_over_reviews_converged, not a
-    cosmetic bump). Verified post-write: count_p0_p2_tasks=3 (floor met), select_queue_task
+    (only the sensorimotor P2 deep-review genuinely pickable; the two veto-tagged
+    condense tasks are correctly excluded; the state stale p2_tasks=3 counted the
+    now-completed neoplatonist task + the two veto tasks). Floor (MIN_QUEUE=3) unmet
+    by 2. Unlike runs no.461-467 (all pure staleness floor-mints), this run found
+    a GENUINE non-deferred LENGTH-SOURCE candidate: concepts/composition-question-rivals.md
+    (body 4106w via analyze_length = 117% of the 3500 concepts hard ceiling, hard_warning
+    not critical; ai_contribution=100, last_deep_review 2026-06-15 so content stable;
+    NOT a calibration anchor -- its lone load-bearing string is a section heading,
+    absent from calibration-audit-triple; never previously condensed; not vetoed).
+    Minted that condense (next pick, inserted at top to defeat LIFO; sensorimotor
+    not starved). Source audit otherwise exhausted as before: chain has one research-topic
+    completion (training-contamination-introspection-probes) but it is ALREADY CONSUMED
+    by a refine into the existing concepts/training-contamination-confound.md that
+    explicitly warns against a duplicate expand-topic (harvester slug-missed the live
+    article); zero expand-topic/cross-review completions; unconsumed research that
+    single note is consumed; gap caps have headroom but new-article generation is
+    harvester-governed (harvester last 02:53, next ~08:53 UTC) and gap-analysis dedup-blocked
+    against the Vetoed bank; orphans 0; positions/apex slow-add (positions-evolve
+    ran 00:58). Second mint DIVERSIFIES by section: P2 deep-review concepts/epistemic-emotions.md
+    (last_deep_review 2026-05-21, 30d, no drift, ai_contribution=100, 2347w status
+    ok -- VERIFICATION mode, metadata web-verify + currency sweep per deep_review_over_reviews_converged,
+    not a cosmetic bump). Verified post-write: count_p0_p2_tasks=3 (floor met), select_queue_task
     returns the composition-question-rivals condense as the next pick. Expect replenish-at-floor
-    alternation to continue until the harvester reopens the research->expand pipeline ~08:53 UTC.'
-  pre468_replenishment_note: 'run no.467 (2026-06-20): FLOOR-RESTORING staleness
-    mint, 6th of the cycle, and the one that ACTUALLY WROTE the perceptual-reality-monitoring-void
+    alternation to continue until the harvester reopens the research->expand pipeline
+    ~08:53 UTC.'
+  pre468_replenishment_note: 'run no.467 (2026-06-20): FLOOR-RESTORING staleness mint,
+    6th of the cycle, and the one that ACTUALLY WROTE the perceptual-reality-monitoring-void
     deep-review run no.466''s note claimed but never wrote to todo.md ([[task-gen-fork-reports-but-doesnt-write]]).
     Live audit before this run via tools.evolution.task_selector confirmed count_p0_p2_tasks=2
     (neoplatonist + sensorimotor P2 deep-reviews from runs no.462/463, the ONLY two
