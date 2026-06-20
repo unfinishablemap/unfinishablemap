@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T14:51:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/deep-computational-markers-for-machine-consciousness]]
+- **Word count**: 2688 → 2688 (no change; first GENUINE deep-review of a fresh-create — prior 06-18 stamp was create-time, not a real pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: Fresh-create defect-tail verification + 2nd independent publisher-of-record citation pass. All 9 external cites re-verified live (author vectors of Butlin 2023/2025, Albantakis IIT4.0, Goyal verified EXACT char-for-char; all verbatim quotes — Butlin abstract ×2, Lindsey ×3, Aaronson — confirmed; Koch=Florentin not Christof; 73% Turing = Jones&Bergen GPT-4.5 arXiv:2503.23674→PNAS, currency-current). Calibration PASS — markers read as provisional/argued, no possibility→probability slippage; thesis IS the anti-slippage discipline. Verified the unverified 2026-06-19 refine (commit 0395ad2ed, 9ins/9del length-neutral): credence-direction tension, support-independence (3→2 supports), expander-scope all RESOLVED correctly, no new defects. Engagement modes: illusionism Mode Three, functionalism Mode Two; no label leakage; no banned construct. Genuine no-op; stamped last_deep_review only (no body fix → ai_modified unchanged).
+- **Output**: [[reviews/deep-review-2026-06-20-deep-computational-markers-for-machine-consciousness]]
+
 ## 2026-06-20T14:41:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/authentic-vs-inauthentic-choice]]
