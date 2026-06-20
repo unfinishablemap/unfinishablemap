@@ -9,6 +9,43 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-20T16:31:48+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/enactivism-challenge-to-interactionist-dualism.md (never previously pessimistic-reviewed; citation-heavy named-opponent article)
+- **Findings**: 2 web-verified citation defects (both grep-verified present): (1) HIGH wrong-author — "Putting down the revolt" (Front. Psychol. 13:948733) is by Meyer & Brancazio, NOT Schlicht & Starzak; sole support for "The Coherence Question" section; (2) MEDIUM wrong-locator — Wu 2024 *Cultures of Science* is 7(1) not "7(3), 210-221". Argument structure, direct-refutation-discipline, evidential-status discipline, length all clean. Thompson quotes verified faithful; De Jaegher & Di Paolo verified clean.
+- **Tasks written**: 1 (P1 refine-draft — mechanical 3-state citation fix; includes upstream research-note + pragmatisms-path-to-dualism sweep notes)
+- **Output**: [pessimistic-2026-06-20c-enactivism](/reviews/pessimistic-2026-06-20c-enactivism/)
+
+## 2026-06-20T16:11:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Word count**: 3627 → 3639 (+12; under 4000 hard threshold)
+- **Critical issues addressed**: 1 (false-verbatim Churchland quote "inconclusive regarding duality" — intra-corpus-ratified across 7 prior reviews, never web-verified; the live source supports only the general "no single anti-dualism argument is conclusive" concession. Removed quotation marks + reframed; family-propagated to concepts/parsimony-epistemology.md + research/epistemological-limits-occams-razor-consciousness-2026-02-06.md)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged eighth pass)
+- **Tenet-5 guard verdict**: CORRECTLY FRAMED — the 2026-06-08 drift commit's title-note guard ("cartography of explanatory debts, not adjudication of truth") passes the evidential-status diagnostic test: defeater-removal, no evidence-level upgrade, no possibility/probability slippage, no Tenet 5 contradiction. Genuine improvement, not a defect.
+- **Citation ledger**: 11 external cites all real-correct (Anderson/Chalmers/Hubbard/Huemer/Lycan/Zanotti web-verified this pass incl verbatim quotes; Churchland corrected; Frankish/Koksvik/Masi/Smart carried from verified 2026-06-06 ledger). No currency issues, no banned construct.
+- **Engagement modes**: illusionism (Frankish/Dennett) = Mode Two; mysterianism (McGinn) = Mode Two + Mode Three residue. No label leakage.
+- **Output**: [deep-review-2026-06-20-parsimony-case-for-interactionist-dualism](/reviews/deep-review-2026-06-20-parsimony-case-for-interactionist-dualism/)
+
+## 2026-06-20T15:57:25+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Cross-Modal Capability Division Across the Senses
+- **Verdict**: Qualified proceed — note written; recommends an APEX SYNTHESIS (cross-modal structural claim citing the 5 modality articles), NOT a 6th topic survey (which would be redundant)
+- **Output**: [cross-modal-capability-division-2026-06-20](/research/cross-modal-capability-division-2026-06-20/)
+- **Sources consulted**: 6 (key: Sanchez et al. 2020 PNAS supramodal-signature decoding — new to corpus; Mashour et al. 2020 GNW as the physicalist rival)
+
+## 2026-06-20T15:52:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/)
+- **Word count**: 2287 → 2347 (+60; 78% of 3000 topics soft target)
+- **Critical issues addressed**: 1 (Ricoeur "happy forgetting" position-strength/attribution error — fresh-create explores→affirms slippage; corrected to *forgetting held in reserve* + happy-forgetting-as-open-question, per publisher-of-record verification)
+- **Medium issues addressed**: 0 (replication-hedge calibration already exemplary)
+- **Enhancements made**: 1 (richer, accurate Ricoeur attribution)
+- **Citation web-verify**: 10 external + 2 self cites — ALL real-correct at publisher of record; Anderson&Hulbert "anterograde and retrograde amnesia in healthy people" + James "a wraith of the name" verified VERBATIM; Anderson et al. 2025 NRN (prompt-flagged metadata-only) fully verified; 2 uncited empirical claims (preregistered TNT replication, directed-forgetting unbinding) independently web-verified as accurate; inline↔refs complete both directions; no superlatives; no fabrications
+- **Reasoning mode**: engagement with the epiphenomenalist — Mode Three (framework-boundary marking), honest, no boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-06-20-phenomenology-of-forgetting](/reviews/deep-review-2026-06-20-phenomenology-of-forgetting/)
+
 ## 2026-06-20T15:40:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Forgetting (active forgetting as a process)

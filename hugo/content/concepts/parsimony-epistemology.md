@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-07 13:30:00+00:00
+ai_modified: 2026-06-20 16:11:57+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -119,7 +119,7 @@ William Lycan (2009), a committed materialist of over forty years, reviewed the 
 
 ### Churchland's Qualification
 
-Even Paul Churchland, whose "Raze Dualism" argument (1988) is the canonical parsimony case against dualism, qualifies in the original edition of *Matter and Consciousness* (1984) that the razor is "inconclusive regarding duality." If parsimony's foremost advocate concedes the argument does not settle the question, the routine dismissal of dualism on parsimony grounds lacks supporting authority.
+Even Paul Churchland, whose "Raze Dualism" argument (1988) is the canonical parsimony case against dualism, acknowledges in *Matter and Consciousness* (1984) that none of the standard arguments against dualism — the parsimony argument included — is by itself conclusive. If parsimony's foremost advocate concedes the argument does not settle the question, the routine dismissal of dualism on parsimony grounds lacks supporting authority.
 
 These concessions cannot be dismissed as motivated reasoning from dualists. Anderson (2002) reinforces them, subjecting Churchland's "Raze Dualism" argument to critique and concluding it "is undermined by assumptions which do not withstand scrutiny."
 

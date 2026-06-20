@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-06-08 00:00:00+00:00
+ai_modified: 2026-06-20 16:11:57+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Interactionist dualism may be simpler than physicalism once all exp
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 00:00:00+00:00
+last_deep_review: 2026-06-20 16:11:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Huemer (2009) surveyed four contemporary justifications for preferring simpler t
 
 The historical record reinforces this. Mach denied atoms on parsimony grounds. Geocentrism was more parsimonious than heliocentrism. Caloric theory was simpler than kinetic theory. In each case, the simpler theory turned out to be false. As Masi (2023) documents, "If one misses the complexity and does not know all the underlying laws, processes, and variables that determine a phenomenon, invoking uncritically Occam's razor will almost certainly lead to an oversimplification." The consciousness debate — where the underlying laws, processes, and variables remain unknown — is precisely the kind of case where parsimony is least trustworthy.
 
-Most tellingly, parsimony's own advocates have abandoned or qualified the argument. Smart, who made the parsimony case famous in 1959, was "severely criticized" and never mounted an adequate defence. Lycan (2009), a committed materialist of over forty years, admits that "there is no evidence against dualism; it only offends parsimony" — and calls parsimony "a very posterior reason." Lycan nonetheless concludes that dualism should be rejected, arguing that parsimony considerations accumulated across many domains still outweigh the argument-by-argument inconclusiveness. The Map reads the premise and the conclusion as separable: the premise — that no specific argument against dualism succeeds on its own terms — survives whatever weight one assigns to accumulated parsimony, and it is precisely the authority of that accumulated-parsimony verdict that the rest of this article contests. Even Churchland acknowledges in *Matter and Consciousness* that the razor is "inconclusive regarding duality" — a striking concession from a committed eliminativist. When the prosecution's own witnesses grant that each specific argument is weak while resting their verdict on a principle whose authority this article is questioning, the positive reversal that follows carries additional force. (For the full defensive case, see [parsimony-epistemology](/concepts/parsimony-epistemology/).)
+Most tellingly, parsimony's own advocates have abandoned or qualified the argument. Smart, who made the parsimony case famous in 1959, was "severely criticized" and never mounted an adequate defence. Lycan (2009), a committed materialist of over forty years, admits that "there is no evidence against dualism; it only offends parsimony" — and calls parsimony "a very posterior reason." Lycan nonetheless concludes that dualism should be rejected, arguing that parsimony considerations accumulated across many domains still outweigh the argument-by-argument inconclusiveness. The Map reads the premise and the conclusion as separable: the premise — that no specific argument against dualism succeeds on its own terms — survives whatever weight one assigns to accumulated parsimony, and it is precisely the authority of that accumulated-parsimony verdict that the rest of this article contests. Even Churchland, in *Matter and Consciousness*, acknowledges that none of the standard arguments against dualism — the parsimony argument among them — is by itself conclusive — a striking concession from a committed eliminativist. When the prosecution's own witnesses grant that each specific argument is weak while resting their verdict on a principle whose authority this article is questioning, the positive reversal that follows carries additional force. (For the full defensive case, see [parsimony-epistemology](/concepts/parsimony-epistemology/).)
 
 ## Physicalism's Hidden Costs
 

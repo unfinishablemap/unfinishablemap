@@ -125,7 +125,7 @@ The philosophical literature reveals deep problems with using Occam's Razor to a
 - **Type**: Encyclopedia
 - **Key points**:
   - J. J. C. Smart invoked Occam's Razor to justify mind-brain identity theory, but was "severely criticized" and "ultimately retracted his advocacy"
-  - Paul Churchland states Occam's Razor is "inconclusive regarding duality"
+  - Paul Churchland (Matter and Consciousness) concedes that none of the standard arguments against dualism — the parsimony argument among them — is by itself conclusive (NOTE 2026-06-20: the earlier paraphrase "Occam's Razor is 'inconclusive regarding duality'" was not a verbatim Churchland quotation; web-verification against the source and the most detailed secondary discussion supports only the general "no single argument is conclusive" concession — do not re-propagate the quoted razor-specific phrasing)
   - Occam's Razor "never allows us to deny putative entities; at best it allows us to refrain from positing them in the absence of known compelling reasons"
   - It is "entirely a metaphysical assumption" when used as extraevidential consideration
 - **Tenet alignment**: The Smart retraction is historically significant—even a prominent advocate abandoned parsimony arguments for physicalism.
