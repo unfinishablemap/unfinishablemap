@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T06:31:27+00:00
+ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/stapp-quantum-mind]]
+- **Context**: GENUINE-DRIFT verification of drift commit 9f15ad12d (rewrote Monte Carlo critique paragraph + added new Georgiev 2015 cite). Citation-defect-prone article.
+- **Word count**: 3008 → ~3033 (+~25; one References entry added; metadata edits are number-swaps)
+- **Critical issues addressed**: 2
+  - **Georgiev NeuroQuantology cite — wrong year AND volume (real-wrong-metadata, FIXED)**: was "(2014), *NeuroQuantology* 12(3)"; correct is **(2012), *NeuroQuantology* 10(3), 552** (DOI 10.14704/nq.2012.10.3.552, which encodes nq.YEAR.VOL.ISSUE.PAGE; ProQuest confirms). Corrected in-body (L121) + References. **Family-resolution**: propagated the canonical form to the source research note `research/stapp-mental-effort-mind-matter-2026-01-14.md` (header + ref line) where the drift originated.
+  - **Schwartz 1996 inline-orphan (FIXED)**: L77 cited "(Schwartz et al., 1996)" with NO References entry (the 05-31 sweep checked References→inline; missed inline→References). Web-verified real (Schwartz, Stoessel, Baxter, Martin & Phelps 1996, *Arch. Gen. Psychiatry* 53(2):109-113) and added the entry.
+- **PRIMARY VERDICT — new Georgiev 2015 cite (task item a)**: **real-correct, faithful.** Georgiev, D.D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *Int. J. Mod. Phys. B* 29(7), 1550039, arXiv:1412.4741, DOI 10.1142/S0217979215500393 — author/title/journal/vol/issue/article-number/year/arXiv-id ALL verified exact at publisher of record (arXiv journal-ref + World Scientific + ADS). The decoherence-free-subspace argument attributed to it is verbatim-faithful to the paper's abstract (electron-tunnelling-in-ion-channels Monte Carlo; Zeno breaks down beyond brain decoherence time; door open if brain has a DFS). The drift was a legitimate, accurate improvement.
+- **Calibration (item c)**: rewritten Monte Carlo paragraph honestly calibrated, no possibility→probability slippage; Stapp's mechanism held as contested live hypothesis. Paragraph omits Georgiev's stronger von Neumann-entropy no-go theorem — but that UNDERSTATES the critique against Stapp, so defensible scoping, not a calibration defect.
+- **Other cites**: Hagan/Hameroff/Tuszynski 2002 (PRE 65:061901) re-verified real-correct; Denton 2024, Rajan 2019, Garrison 2013, Zheng & Meister 2025, Schwartz/Stapp/Beauregard 2005 unchanged since 05-31 web-verify (real-correct).
+- **Currency**: no superlative claims (helper empty); decoherence figures internally consistent.
+- **Discipline**: no editor-vocab leakage, no banned "not X but Y", engagement modes unchanged (Epi=Mode One, Illusionist=Mode Two, MWI=Mode Three). Reasoning-mode honest.
+- **Enhancements made**: 0 (verification pass; citation-integrity hardening only)
+- **Output**: [[reviews/deep-review-2026-06-20-stapp-quantum-mind]]
 
 ## 2026-06-20T06:31:27+00:00 - refine-draft
 - **Status**: Success

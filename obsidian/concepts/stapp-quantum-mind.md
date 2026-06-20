@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-18T05:30:00+00:00
+ai_modified: 2026-06-20T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-05-31T00:00:00+00:00
+last_deep_review: 2026-06-20T00:00:00+00:00
 ---
 
 Henry Stapp's quantum mind model proposes that consciousness influences the brain through the quantum Zeno effect—a standard result in quantum mechanics where rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework, mental effort acts like repeated observation, "holding" desired neural patterns in place against their natural tendency to dissipate. This provides a mechanism for mind-matter interaction that requires no new physics: consciousness operates through orthodox quantum mechanics, selecting among superposed neural states by attending to them.
@@ -118,7 +118,7 @@ Most importantly, decoherence doesn't solve the [[measurement-problem]]: it expl
 
 ### The Formalism Objection
 
-Georgiev (2014) argues Stapp's model treats mind as using projection operators without having a wavefunction—a formal inconsistency. The objection is philosophical, not empirical; Stapp claims to follow von Neumann's orthodox interpretation. The debate remains open.
+Georgiev (2012) argues Stapp's model treats mind as using projection operators without having a wavefunction—a formal inconsistency. The objection is philosophical, not empirical; Stapp claims to follow von Neumann's orthodox interpretation. The debate remains open.
 
 ### The Epiphenomenalist Alternative
 
@@ -191,11 +191,12 @@ Predictions 1, 2, 3, 5 and 6 test the attention-and-effort layer the model share
 
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Denton, M.C.J., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
-1. Georgiev, D. (2014). Mind efforts, quantum Zeno effect and environmental decoherence. *NeuroQuantology*, 12(3).
+1. Georgiev, D. (2012). Mind efforts, quantum Zeno effect and environmental decoherence. *NeuroQuantology*, 10(3), 552.
 1. Georgiev, D.D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039. arXiv:1412.4741.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440.
 1. James, W. (1890). *The Principles of Psychology*. Chapter 11: Attention. Chapter 26: Will.
+1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R., Martin, K.M., & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (1993). *Mind, Matter and Quantum Mechanics*. Springer.
