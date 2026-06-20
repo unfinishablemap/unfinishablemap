@@ -5,6 +5,20 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T14:20:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/tactile-consciousness-and-the-interface]]
+- **Selection**: Self-selected over the scorer's low-score metadata candidate. Never deep-reviewed (last_deep_review was the create-time self-stamp, not a real review — fresh-create-defect-tail target) AND genuine own-body drift (latest commit was a substantive refine, not a cross-link bump). Declined the heavily-reviewed large-drift alternatives (free-will 30+ priors, comparing-quantum 11) as convergence-damped.
+- **Word count**: 2883 → 2932 (+49)
+- **Critical issues addressed**: 1 — Merleau-Ponty source misattribution. The "reversibility of the flesh" phrase + the quote "my hand, while it is felt from within… itself tangible, for my other hand" were attributed to *Phenomenology of Perception* (1945/2012) but belong to *The Visible and the Invisible* (1964/1968, "The Intertwining—The Chiasm", p. 133) — the *flesh*/reversibility ontology is late-work, confirmed against IEP/SEP. Split the citation, added the 1964/1968 reference, corrected the quote to verbatim ("itself tangible"). The double-sensation two-hands quote is correctly 1945/2012 and was left unchanged.
+- **Medium issues addressed**: 0 new — both prior pessimistic findings (inexact parent quote; "completing the series" overclaim) confirmed already RESOLVED by the 2026-06-18 refine; not re-flagged.
+- **Citation web-verify**: all 8 external cites web-verified at publisher of record this pass (not trusting prior status). Gibson 1962, Abraira & Ginty 2013, McGlone/Wessberg/Olausson 2014, Botvinick & Cohen 1998, O'Regan & Noë 2001, IASP 2020 — all real-correct (author vectors, venue/vol/pages, verbatim quotes confirmed). Merleau-Ponty fixed as above. No fabrications, no currency-superseded superlatives, inline↔References complete both directions.
+- **Engagement modes** (editor-internal): Dennett/physicalist — Mode Three boundary-marking, done honestly (concedes + adopts the rival mechanism in every section; no boundary-substitution). Nagarjuna self-deconstruction — noted expansion opportunity, deferred to ownership-problem.
+- **Enhancements made**: 1 — the source split slightly strengthens the touching-touched section (shows Merleau-Ponty returned to the datum across two decades).
+- **Output**: [[reviews/deep-review-2026-06-20-tactile-consciousness-and-the-interface]]
+- **Length**: 98% of topics soft (3000); under hard. Length-neutral-ish fix.
+- **Published**: yes (not a draft)
+
 ## 2026-06-20T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/functionalism]]
