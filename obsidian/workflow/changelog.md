@@ -7,6 +7,15 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-20T00:00:00+00:00 - refine-draft
 - **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Task**: Single-file citation-metadata fix (spurious co-author removal; 3-state = real-wrong-metadata → fix, do NOT de-cite)
+- **Changes**: Removed spurious co-author "& Glazebrook" from the 2015 IJMPB Monte Carlo Zeno paper in BOTH locations: inline L82 ("Georgiev and Glazebrook's Monte Carlo critique (2015)" → "Georgiev's Monte Carlo critique (2015)") and References L211 ("Georgiev, D. D. & Glazebrook, J. F. (2015)…" → "Georgiev, D. D. (2015)…"). Title/venue/vol/page unchanged (all correct).
+- **Verification**: Publisher-of-record confirmed LONE author Danko Georgiev — arXiv:1412.4741 (single-author), World Scientific DOI 10.1142/S0217979215500393, ADS 2015IJMPB..2950039G. The Glazebrook collaborations are DISTINCT papers (2014 Biomedical Reviews; 2018 Prog Biophys Mol Biol) — not confused here. Corroborates the 5 corpus files already citing this 2015 paper as lone Georgiev (minority-error fix).
+- **Length**: neutral (metadata-only). ai_modified bumped; last_deep_review NOT bumped.
+- **Published**: yes
+
+## 2026-06-20T00:00:00+00:00 - refine-draft
+- **Status**: Success
 - **Files**: [[concepts/witness-consciousness]], [[research/meditation-observer-witness-phenomenon-2026-01-18]]
 - **Task**: Multi-file citation-metadata propagation (Yang et al. 2025 author-vector fix)
 - **Changes**: WRONG-AUTHOR misattribution corrected (3-state = real-wrong-metadata → fix, not de-cite). "Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self… 7T MRI case study. *NeuroImage*." → "Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). … of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968." (publisher-verified: PubMed PMID 39653180, DOI 10.1016/j.neuroimage.2024.120968). witness-consciousness: References L223 only (no inline body mention). research note: References L289 + descriptor fix L77 ("Stages of Insight in vipassana" → "in advanced investigative insight meditation", matching the AIIM study; left the historical search-query line at L17 untouched).

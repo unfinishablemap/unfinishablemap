@@ -52,13 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: deep-review
 - **Generated**: 2026-06-20
 
-### P2: Fix spurious "& Glazebrook" co-author on the 2015 Monte Carlo Zeno cite in comparing-quantum-consciousness-mechanisms.md
-- **Type**: refine-draft
-- **File**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md
-- **Notes**: From deep-review 2026-06-20 of psychophysical-laws-bridging-mind-and-matter.md ([[reviews/deep-review-2026-06-20-psychophysical-laws-bridging-mind-and-matter]]). Real-wrong-metadata: References line ~211 cites "Georgiev, D. D. & Glazebrook, J. F. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039." — but that 2015 IJMPB paper is **LONE author Danko Georgiev** (web-verified at World Scientific 10.1142/S0217979215500393, arXiv:1412.4741, ADS 2015IJMPB..2950039G single-author code). The Glazebrook collaborations are DISTINCT papers (Georgiev & Glazebrook 2014 *Biomedical Reviews* 25:15-24; Georgiev & Glazebrook 2018 *Prog. Biophys. Mol. Biol.* 135:16-29). The body inline at line ~82 also says "Georgiev and Glazebrook's Monte Carlo critique (2015)" — fix BOTH the inline and the reference to lone Georgiev (2015). This is the propagated co-author defect per [[ai_citation_metadata_unreliable]] (5 other corpus files cite this same 2015 paper correctly as lone Georgiev: psychophysical-laws-bridging, the-interface-problem, brain-specialness-boundary, quantum-state-inheritance-in-ai, concepts/stapp-quantum-mind, concepts/psychophysical-laws). Metadata-only, length-neutral. Bump ai_modified only (not last_deep_review).
-- **Source**: deep-review
-- **Generated**: 2026-06-20
-
 ### P3: Add reciprocal contextuality cross-links across the quantum-probability cluster
 - **Type**: refine-draft
 - **File**: obsidian/concepts/contextual-selection-in-quantum-foundations.md
@@ -1187,6 +1180,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Fix spurious "& Glazebrook" co-author on the 2015 Monte Carlo Zeno cite in comparing-quantum-consciousness-mechanisms.md
+- **Type**: refine-draft
+- **Notes**: From deep-review 2026-06-20 of psychophysical-laws-bridging-mind-and-matter.md ([[reviews/deep-review-2026-06-20-psychophysical-laws-bridging-mind-and-matter]]). Real-wrong-metadata: References line ~211 cites "Georgiev, D. D. & Glazebrook, J. F. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039." — but that 2015 IJMPB paper is **LONE author Danko Georgiev** (web-verified at World Scientific 10.1142/S0217979215500393, arXiv:1412.4741, ADS 2015IJMPB..2950039G single-author code). The Glazebrook collaborations are DISTINCT papers (Georgiev & Glazebrook 2014 *Biomedical Reviews* 25:15-24; Georgiev & Glazebrook 2018 *Prog. Biophys. Mol. Biol.* 135:16-29). The body inline at line ~82 also says "Georgiev and Glazebrook's Monte Carlo critique (2015)" — fix BOTH the inline and the reference to lone Georgiev (2015). This is the propagated co-author defect per [[ai_citation_metadata_unreliable]] (5 other corpus files cite this same 2015 paper correctly as lone Georgiev: psychophysical-laws-bridging, the-interface-problem, brain-specialness-boundary, quantum-state-inheritance-in-ai, concepts/stapp-quantum-mind, concepts/psychophysical-laws). Metadata-only, length-neutral. Bump ai_modified only (not last_deep_review).
 
 ### ✓ 2026-06-20: Propagate Yang et al. 2025 author-vector fix for the "Deconstructing the self" NeuroImage cite
 - **Type**: refine-draft

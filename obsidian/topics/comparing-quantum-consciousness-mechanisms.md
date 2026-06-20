@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-06-04T22:22:03+00:00
+ai_modified: 2026-06-20T00:00:00+00:00
 last_deep_review: 2026-06-04T22:22:03+00:00
 draft: false
 topics:
@@ -79,7 +79,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 Henry Stapp proposes that consciousness operates through orthodox quantum mechanics. Multiple neural firing patterns exist in superposition; mental effort acts as repeated quantum observation, exploiting the Zeno effect to hold desired patterns stable. No new physics is required — the mechanism uses standard von Neumann quantum mechanics with the observer-system boundary placed within the brain.
 
-**Decoherence vulnerability: Low.** The model requires only discrete observation events, not sustained coherence. Stapp estimates ~1000 observations per 300ms (Stapp 2007), though this is a modelling assumption rather than an independent prediction. Decoherence between observations resets the state without invalidating the mechanism — though Georgiev and Glazebrook's Monte Carlo critique (2015) questions re-engagement effectiveness at biological decoherence rates. The 2024 cryptochrome Zeno effect demonstration (Denton et al.) provides biological precedent, though in magnetoreception rather than neural decision-making.
+**Decoherence vulnerability: Low.** The model requires only discrete observation events, not sustained coherence. Stapp estimates ~1000 observations per 300ms (Stapp 2007), though this is a modelling assumption rather than an independent prediction. Decoherence between observations resets the state without invalidating the mechanism — though Georgiev's Monte Carlo critique (2015) questions re-engagement effectiveness at biological decoherence rates. The 2024 cryptochrome Zeno effect demonstration (Denton et al.) provides biological precedent, though in magnetoreception rather than neural decision-making.
 
 **Phenomenological fit: Strong (accommodative).** The model accommodates what attention feels like: sustained effort, continuous re-engagement, fatigue. William James observed that "sustained voluntary attention is a repetition of successive efforts" — precisely the Zeno phenomenology. Willed attention requires conscious observation (high Zeno rate); automatic processes proceed without it. Schwartz's neuroplasticity findings — OCD patients reshaping circuits through directed effort — are consistent with this picture. However, Stapp began with James's phenomenology and identified a quantum mechanism that could be interpreted to match it — this is accommodation of known phenomena, not a novel prediction derived independently from the theory. Classical neuroscience accounts (prefrontal sustained firing, anterior cingulate conflict monitoring, executive resource depletion) explain the same phenomenological features without quantum supplementation.
 
@@ -208,7 +208,7 @@ The Map's position: *some* quantum consciousness mechanism exists, constrained b
 1. Donadi, S., et al. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
 1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470-491.
-1. Georgiev, D. D. & Glazebrook, J. F. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
+1. Georgiev, D. D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
