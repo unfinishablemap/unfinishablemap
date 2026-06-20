@@ -7,6 +7,15 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-20T00:00:00+00:00 - refine-draft
 - **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Task**: VERIFY-FIRST citation-metadata fix (3-state). Suspected defect: References ~L202 "Morgan, P.G. & Bhatt, D.H. (2015). 'Anesthetic Action in *C. elegans*.' In *Bhatt, D.H. (ed.), C. elegans: Methods and Applications*, 2nd ed." + inline ~L117 "(Morgan & Bhatt, 2015)".
+- **Verification**: Outcome (b) — mis-constructed chapter ref, REPLACED. The book "*C. elegans: Methods and Applications*" (Methods in Molecular Biology vol. 1327, Humana/Springer 2015, DOI 10.1007/978-1-4939-2842-2) is REAL but its editors are **Gal Haspel & Anne C. Hart** — NOT "Bhatt, D.H." (confirmed via Springer/Amazon catalog). No chapter "Anesthetic Action in C. elegans" by Morgan/Bhatt surfaces in that volume at any publisher of record (Springer ToC, PubMed, Google Books) — the chapter appears fabricated/mis-constructed. Replaced with the confirmable Morgan review of exactly this claim: **Morgan, P.G., Kayser, E.-B. & Sedensky, M.M. (2007). "*C. elegans* and Volatile Anesthetics." *WormBook*, 1-11. doi:10.1895/wormbook.1.140.1** (PMID 18050492, verified at PubMed). Morgan's corpus (incl. 1988 Anesthesiology "Multiple sites of action…") amply supports the body claim.
+- **Changes**: (1) References L202 — replaced the Morgan & Bhatt 2015 mis-constructed chapter ref with the verified Morgan, Kayser & Sedensky 2007 WormBook review. (2) Inline L117 — "(Morgan & Bhatt, 2015)" → "(Morgan et al., 2007)" for consistency with the verified authorship. Body claim at L117 ("*C. elegans* responds to volatile anesthetics similarly to vertebrates") PRESERVED — it is well-supported; only the citation metadata changed.
+- **Length**: neutral (metadata-only). ai_modified bumped 2026-06-10 → 2026-06-20; last_deep_review NOT bumped.
+- **Published**: yes
+
+## 2026-06-20T00:00:00+00:00 - refine-draft
+- **Status**: Success
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
 - **Task**: Single-file citation-metadata fix (spurious co-author removal; 3-state = real-wrong-metadata → fix, do NOT de-cite)
 - **Changes**: Removed spurious co-author "& Glazebrook" from the 2015 IJMPB Monte Carlo Zeno paper in BOTH locations: inline L82 ("Georgiev and Glazebrook's Monte Carlo critique (2015)" → "Georgiev's Monte Carlo critique (2015)") and References L211 ("Georgiev, D. D. & Glazebrook, J. F. (2015)…" → "Georgiev, D. D. (2015)…"). Title/venue/vol/page unchanged (all correct).

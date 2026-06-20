@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-20
 
-### P2: Fix Morgan & Bhatt 2015 book-chapter editor metadata in concepts/functionalism.md
-- **Type**: refine-draft
-- **File**: obsidian/concepts/functionalism.md
-- **Notes**: From deep-review 2026-06-20 ([[reviews/deep-review-2026-06-20-functionalism]]). The References entry "Morgan, P.G. & Bhatt, D.H. (2015). 'Anesthetic Action in *C. elegans*.' In *Bhatt, D.H. (ed.), C. elegans: Methods and Applications*, 2nd ed." (line ~202) has SUSPECTED real-wrong-metadata: the 2nd-edition book (Methods in Molecular Biology vol. 1327, Humana/Springer, 2015, DOI 10.1007/978-1-4939-2842-2) is edited by **Gal Haspel & Anne C. Hart**, NOT "Bhatt, D.H." Philip G. Morgan is a real C. elegans-anesthesia researcher (Seattle Children's/UW) and the book is real, so this is NOT fabrication — but the editor field looks wrong and the exact chapter title/page range was not web-confirmable in the deep-review pass (3 searches). ACTION: (i) web-verify at Springer/PubMed the exact chapter author list + title + pages; correct the editor field to Haspel & Hart (and the chapter title/authors if they differ); OR (ii) if the chapter cannot be confirmed in MMB 1327, replace the cite with a confirmable Morgan/C.elegans-anesthesia source for the "responds to volatile anesthetics similarly to vertebrates" claim (Morgan's published corpus amply supports it). Do NOT delete the body claim at line 117. 3-state discipline per [[ai_citation_metadata_unreliable]] + [[citation-verify-false-negative]]. Pre-existing (survived 7+ reviews), NOT drift-related; metadata-only, length-neutral.
-- **Source**: deep-review
-- **Generated**: 2026-06-20
-
 ### P3: Add reciprocal contextuality cross-links across the quantum-probability cluster
 - **Type**: refine-draft
 - **File**: obsidian/concepts/contextual-selection-in-quantum-foundations.md
@@ -1180,6 +1173,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Fix Morgan & Bhatt 2015 book-chapter editor metadata in concepts/functionalism.md
+- **Type**: refine-draft
+- **Notes**: From deep-review 2026-06-20 ([[reviews/deep-review-2026-06-20-functionalism]]). The References entry "Morgan, P.G. & Bhatt, D.H. (2015). 'Anesthetic Action in *C. elegans*.' In *Bhatt, D.H. (ed.), C. elegans: Methods and Applications*, 2nd ed." (line ~202) has SUSPECTED real-wrong-metadata: the 2nd-edition book (Methods in Molecular Biology vol. 1327, Humana/Springer, 2015, DOI 10.1007/978-1-4939-2842-2) is edited by **Gal Haspel & Anne C. Hart**, NOT "Bhatt, D.H." Philip G. Morgan is a real C. elegans-anesthesia researcher (Seattle Children's/UW) and the book is real, so this is NOT fabrication — but the editor field looks wrong and the exact chapter title/page range was not web-confirmable in the deep-review pass (3 searches). ACTION: (i) web-verify at Springer/PubMed the exact chapter author list + title + pages; correct the editor field to Haspel & Hart (and the chapter title/authors if they differ); OR (ii) if the chapter cannot be confirmed in MMB 1327, replace the cite with a confirmable Morgan/C.elegans-anesthesia source for the "responds to volatile anesthetics similarly to vertebrates" claim (Morgan's published corpus amply supports it). Do NOT delete the body claim at line 117. 3-state discipline per [[ai_citation_metadata_unreliable]] + [[citation-verify-false-negative]]. Pre-existing (survived 7+ reviews), NOT drift-related; metadata-only, length-neutral.
 
 ### ✓ 2026-06-20: Fix spurious "& Glazebrook" co-author on the 2015 Monte Carlo Zeno cite in comparing-quantum-consciousness-mechanisms.md
 - **Type**: refine-draft
