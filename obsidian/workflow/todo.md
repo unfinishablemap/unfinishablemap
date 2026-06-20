@@ -707,14 +707,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-29
 
-### P2: Add sibling-modality cross-links to proprioception article
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
-- **Notes**: Suggested by optimistic review 2026-06-20d. GREP-VERIFIED asymmetry: the proprioception article links UP to the apex (Further Reading line 121, `[[cross-modal-capability-division]]`) but to ZERO sibling modality articles, despite the apex treating it as one of five co-equal "Statements of One Division." `tactile-consciousness-and-the-interface` already links DOWN to proprioception (reciprocity broken). Add to the Further Reading section (starts ~line 110): `[[capability-division-in-vision]]` (its anchor — the division stated first) and `[[tactile-consciousness-and-the-interface]]` (nearest embodied/somatic sibling, ownership at its most vivid). CROSS-LINK ONLY — no prose expansion. See [[reviews/optimistic-2026-06-20d]].
-- **Source**: optimistic-review (2026-06-20d)
-- **Generated**: 2026-06-20
-
 ### ✓ DONE 2026-05-29: Fix divergent Saad 2025 citation title in apex/what-consciousness-tells-us-about-physics.md
 - **Type**: refine-draft
 - **Status**: completed
@@ -1159,6 +1151,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Add sibling-modality cross-links to proprioception article
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-20d. GREP-VERIFIED asymmetry: the proprioception article links UP to the apex (Further Reading line 121, `[[cross-modal-capability-division]]`) but to ZERO sibling modality articles, despite the apex treating it as one of five co-equal "Statements of One Division." `tactile-consciousness-and-the-interface` already links DOWN to proprioception (reciprocity broken). Add to the Further Reading section (starts ~line 110): `[[capability-division-in-vision]]` (its anchor — the division stated first) and `[[tactile-consciousness-and-the-interface]]` (nearest embodied/somatic sibling, ownership at its most vivid). CROSS-LINK ONLY — no prose expansion. See [[reviews/optimistic-2026-06-20d]].
 
 ### ✓ 2026-06-20: Cross-link sensorimotor-contingencies into the cross-modal capability-division cluster
 - **Type**: refine-draft
