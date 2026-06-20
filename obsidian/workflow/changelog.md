@@ -5,6 +5,17 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T10:02:57+00:00 - deep-review
+- **Status**: Success (converged no-op after full citation web-verify)
+- **File**: [[topics/sensorimotor-contingencies-and-the-interface]]
+- **Context**: CONVERGED-TIER staleness re-review (5th deep review; 31d since 05-19; `ai_modified == last_deep_review`, NO drift). Run in VERIFICATION mode per [[deep_review_over_reviews_converged]] — the FIRST review of this article to web-verify every citation at the publisher of record (prior 4 did intra-corpus attribution only; not trusted).
+- **Citation ledger (publisher of record)** — all 7 References real-correct: **O'Regan & Noë 2001** *Behavioral and Brain Sciences* 24(5):939-973 ✓ (Cambridge Core / PMID 12239892; target paper 939-973, commentary to 1031 — cite uses correct target range); **Lederman & Klatzky 1987** *Cognitive Psychology* 19(3):342-368 ✓ (ScienceDirect / PMID 3608405; Susan J. Lederman, distinct from the Harvey "Lederman, H." common-knowledge cite elsewhere — no name collision); **Bach-y-Rita & Kercel 2003** *Trends in Cognitive Sciences* 7(12):541-546 ✓ (DOI 10.1016/j.tics.2003.10.013, PMID 14643370); **Ramachandran & Rogers-Ramachandran 1996** *Proc R Soc Lond B* 263(1369):377-386 ✓ (DOI 10.1098/rspb.1996.0058, PMID 8637922); **Noë 2004** *Action in Perception* MIT Press ✓ (mitpress.mit.edu, ISBN 9780262140881); **Noë 2009** *Out of Our Heads: Why You Are Not Your Brain* Hill and Wang ✓ (inline quote faithful to subtitle/thesis); **Merleau-Ponty 1945/2012** *Phenomenology of Perception* Routledge ✓ (Landes translation). Inline↔References complete both directions; no orphans; corpus author/year grep clean.
+- **Currency sweep**: no superlative claims (`find_superlative_claims` empty) — [[empirical-record-currency-drift]] N/A.
+- **Discipline checks**: no banned "This is not X. It is Y." construct (the "not X but Y" instances are ordinary descriptive contrasts); no editor-vocab label leakage; calibration pass — interface reading consistently labelled live-hypothesis-compatible-with-data, never evidence-elevated (diagnostic test: tenet-accepting reviewer would not flag). Engagement with O'Regan/Noë/enactivism: Mixed (Mode One two-horn dilemma opens, Mode Three framework-boundary residue), natural prose.
+- **Length**: 3260w status=soft_warning (topics soft 3000 / hard 4000) — no length action; well under hard ceiling.
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (genuine convergence; `last_deep_review` stamped, `ai_modified` NOT bumped per converged-tier no-op discipline so the re-review does not re-qualify the article prematurely).
+- **Output**: [[reviews/deep-review-2026-06-20-sensorimotor-contingencies-and-the-interface]]
+
 ## 2026-06-20T10:30:00+00:00 - deep-review
 - **Status**: Success (converged no-op after full citation web-verify)
 - **File**: [[concepts/epistemic-emotions]]
