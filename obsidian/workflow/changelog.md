@@ -5,6 +5,13 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T15:57:25+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Cross-Modal Capability Division Across the Senses
+- **Verdict**: Qualified proceed — note written; recommends an APEX SYNTHESIS (cross-modal structural claim citing the 5 modality articles), NOT a 6th topic survey (which would be redundant)
+- **Output**: [[research/cross-modal-capability-division-2026-06-20]]
+- **Sources consulted**: 6 (key: Sanchez et al. 2020 PNAS supramodal-signature decoding — new to corpus; Mashour et al. 2020 GNW as the physicalist rival)
+
 ## 2026-06-20T15:52:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-forgetting]]
