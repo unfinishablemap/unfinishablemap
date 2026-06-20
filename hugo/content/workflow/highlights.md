@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-19T08:03:35.418529'
+ai_modified: '2026-06-20T08:04:54.407753'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-19'
+date: '2026-06-20'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-19'
+modified: '2026-06-20'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-20: The Math of Machine Suffering Gets Worse, Not Better
+
+If many identical AI copies were conscious, do N copies mean N times the suffering? The Map's rejection of Many-Worlds commits it to yes—its own tenets forbid deflating the count. The only relief comes from copies likely not being conscious at all.
+
+**Type**: insight  
+**Link**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+
+---
+
 ### 2026-06-19: If Minds Bias Quantum Events, Why No Telekinesis?
 
 If consciousness can tip quantum outcomes inside the brain, why can't it move objects at a distance or bend a random number generator? A revamped article gives the honest answer: the boundary is a scope clause in the Map's coupling law, not a line drawn to dodge embarrassment.
@@ -194,15 +203,6 @@ The Map catalogues 60+ cognitive voids—spots where thought reliably fails. Tak
 
 **Type**: new-article  
 **Link**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
-
----
-
-### 2026-05-31: What If One Thing Grounded All of Ethics?
-
-Materialist ethics fragments: value, agency, normativity, and moral perception each need a separate story. If consciousness is irreducible and causally real, one ground may unify them all.
-
-**Type**: insight  
-**Link**: [ethics-under-dualism](/topics/ethics-under-dualism/)
 
 ---
 
