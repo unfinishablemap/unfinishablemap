@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T18:05:00+00:00 - deep-review
+- **Status**: Success (convergence stamp — no-op)
+- **File**: [[topics/memory-anomalies]]
+- **Word count**: 3268 → 3268 (no body change; soft_warning 109%, under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th review pass. Scorer re-selected the article because a cosmetic cross-link refine (commit d62cf06cb, +[[memory-channel-interface-evidence]] in Further Reading) bumped ai_modified. Diff since the thorough 2026-06-02 full+web-verify review is two Further Reading links + the timestamp — no prose/citations/claims/calibration touched. Spot-confirmed both new cross-link targets resolve (no broken links); citation cluster already publisher-of-record verified 06-02 and References unchanged; calibration intact. Advanced last_deep_review WITHOUT bumping ai_modified (body unchanged) per converged-article discipline.
+- **Output**: [[reviews/deep-review-2026-06-20-memory-anomalies]]
+
 ## 2026-06-20T17:33:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Cross-modal / sensory-interface cluster — apex `cross-modal-capability-division` + its 5 sources (vision, auditory, chemosensory, tactile, proprioception) + cluster-adjacent `sensorimotor-contingencies`. Strengths: model evidential-status discipline (Process-Philosopher and Hardline-Empiricist personas CONVERGE on the apex's consonant-not-probative framing, signalling the possibility/probability tension is resolved honestly); accommodation-not-proof done explicitly in chemosensory; the apex earns its grain by stating a supramodal-asymmetry claim no source article could voice alone.
