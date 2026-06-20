@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T19:03:43+00:00 - deep-review
+- **Status**: Success (convergence pass — one long-surviving style fix)
+- **File**: [[topics/phenomenology-of-trust]]
+- **Word count**: 2456 → 2456 (no net change; 82% of 3000 soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (banned "is not X. It is Y." LLM-cliché construct in Relation to Site Perspective, line 110 — rephrased to direct positive claim; meaning unchanged)
+- **Enhancements made**: 1 (the style fix)
+- **Notes**: 6th deep-review. Scorer re-selected on a near-no-op basis: the ONLY content change since the thorough 5th review (2026-06-01) was a one-word calibration refine (commit 907e65818, "proves"→"appears" in the betrayal/disruptor sentence — itself a correct softening). NOT cosmetic cross-link churn. References block UNCHANGED since the 06-01 publisher-of-record web-verify (git-confirmed); all 4 cites (Baier 1986, Jones 1996, Holton 1994, Kahneman & Tversky 1979 — page-range fixed 06-01) remain real-correct, no currency exposure (foundational papers, no superlatives detected). Cross-links spot-checked, all resolve. Calibration intact (Relation-to-Site frames tenets as resources/illumination, not proof; falsifiability section honest). No label leakage. Engagement: generic functionalist opponent, Mode Two/Three mixed in natural prose. Bumped both timestamps (real body edit).
+- **Output**: [[reviews/deep-review-2026-06-20-phenomenology-of-trust]]
+
 ## 2026-06-20T18:05:00+00:00 - deep-review
 - **Status**: Success (convergence stamp — no-op)
 - **File**: [[topics/memory-anomalies]]
