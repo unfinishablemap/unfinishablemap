@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T00:40:11+00:00
+ai_modified: 2026-06-20T00:56:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T00:56:00+00:00 - positions-evolve (add)
+- **Status**: Success
+- **Mode**: add
+- **Position**: P-I1 "The Map holds closed individualism — subject boundaries are real" (moderate confidence)
+- **New domain file**: [[positions/individuation-and-subjecthood]] (P-I* prefix; 5th register domain). Existing four domains (agency-and-will, quantum-interface, voids-as-evidence, value-in-selection) had no individuation entry; assess-first confirmed agency-and-will's P-A2 covers the *persisting authoring subject*, a distinct claim from *subject-boundary reality*, so did not decline.
+- **Records**: (a) the claim — closed individualism over empty and open individualism, subject boundaries are real; (b) the ground — the indexical/haecceity objection (open individualism dissolves the vertiginous-question foothold), shared-root with No-MWI not independent support; (c) the honest hedge — the *ground* of the boundary is an acknowledged void, and the commitment is tenet-driven rather than empirically compelled (an open individualist could read the same first-person data the other way).
+- **Dependencies/citations verified on disk**: Tenet 4 (No Many Worlds) load-bearing, Tenet 1 (Dualism), Tenet 5 (Occam's limits, in shift conditions); argued-in: open-individualism-and-the-de-combination-problem, consciousness-and-the-metaphysics-of-individuation, consciousness-and-the-ownership-problem, egocentric-presentism — all resolve.
+- **Cascade**: cross-linked the common-root relationship to [[positions/agency-and-will|P-A2]] (no edit to P-A2 needed — its "Bears on" note already frames the thick-indexical subject as a common root, consistent with P-I1's hedge). No downstream positions depend on P-I1 yet.
+- **Register updates**: added Individuation-and-subjecthood to the Domains list in [[positions/positions]]; bumped progress.positions_written 4 → 5.
+- **Source**: optimistic review [[reviews/optimistic-2026-06-20]] (High Priority opportunity).
+- **Published**: yes (positions are not drafts)
 
 ## 2026-06-20T00:40:11+00:00 - refine-draft
 - **Status**: Success
