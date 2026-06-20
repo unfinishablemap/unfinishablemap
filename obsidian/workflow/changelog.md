@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T10:55:03+00:00 - deep-review
+- **Status**: Success (genuine-drift verification; converged no-op — both 2026-06-16 refine fixes verified correct at publisher of record)
+- **File**: [[topics/direction-dependent-discriminating-test-design]]
+- **Word count**: 2357 → 2357 (no change)
+- **Critical issues addressed**: 0 (the one critical-class defect — Proekt & Hudson 2018 finding-direction mischaracterisation — was already fixed by refine ad4261cdd 2026-06-16; verified correct here, not re-fixed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Context**: GENUINE-DRIFT verification of commit ad4261cdd (2026-06-16) "Fix label-leak + citation mischaracterisation" — a refine that edited this file's body but bumped only `ai_modified`, leaving both fixes unverified. (a) Citation-mischaracterisation: REFINE CORRECT — web-verified Proekt & Hudson (2018) BJA 121(1):86-94 at PMC6200107; paper extends to a TEN-STATE Markov process (three awake, seven unconscious), finds two states insufficient, reports ΔEC50/Hill-slope negative correlation not explained by a two-well potential, and increasing recovery variability — all faithfully now stated. The old "single bistable system" framing was the mischaracterisation; the 2026-06-03 ledger's "matches exactly" was a false-clean. (b) Label-leak: FULLY CLEAN — `([[direct-refutation-discipline|Mode Four]])` correctly removed from body; zero editor-vocabulary in body (surviving wikilinks confined to frontmatter/Further Reading). Engagement with substrate-symmetric production reading: empirical-underdetermination mode, no boundary-substitution, mode label correctly editor-internal only. All four external cites real-correct at publisher of record; inline↔References clean both directions; corpus check confirms the mischaracterisation did NOT propagate (siblings cite the different Stone-Kelz-Proekt-Wasilczuk 2025 paper). Currency sweep 0; no banned construct; length 2357w (79% soft) — not a condense candidate. Stamped `last_deep_review` only; `ai_modified` NOT bumped (no body edit).
+- **Output**: [[reviews/deep-review-2026-06-20-direction-dependent-discriminating-test-design]]
+
 ## 2026-06-20T11:05:00+00:00 - deep-review
 - **Status**: Success (genuine-drift verification; converged no-op — calibration verified correct, all citations clean)
 - **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
