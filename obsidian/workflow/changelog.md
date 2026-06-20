@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T11:22:14+00:00 - deep-review
+- **Status**: Success (genuine post-06-07-calibration-drift review; 1 critical citation-orphan fixed, all 7 external cites web-verified real-correct at publisher of record)
+- **File**: [[topics/the-interface-problem]]
+- **Word count**: 3275 → 3276 (+1; one added References entry, length-neutral; 109% of 3000 topics soft, well under 4000 hard)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Robinson 2004 References entry added)
+- **Context**: Cycle-slot self-selection (scorer 15). Confirmed GENUINE drift NOT the prior already-current false-pick: a substantive own-body refine (mental-effort calibration) landed 2026-06-07 AFTER the 06-04 last_deep_review, so real changed-since-review content existed. CRITICAL FIX: Robinson (2004) was an inline↔References orphan — cited inline in "The Critic's Strongest Objection" (loosening the epiphenomenalism self-stultification charge) but missing from References; added canonical entry #18 (Robinson, W.S. 2004, *Understanding Phenomenal Consciousness*, CUP — the real book, corpus-confirmed in two siblings). Publisher-of-record citation ledger (all real-correct): Cai 2024 Nature 635:406-414; Chakroun 2023 Nat Commun 14:5369 (the in-window Westbrook→Chakroun swap was a CORRECT defect-fix, clean, no 5340/Westbrook stragglers); Cogitate Consortium 2025 Nature 642(8066):133-142; Khan/Wiest 2024 eNeuro 11(8); Zheng&Meister 2025 Neuron 113(2):192-204; Torres Alegre 2025 arXiv (source/Map separation HONOURED — paper derives Born rule generally in GPTs, article correctly presents consciousness-application as the Map's own extension with "(2025 arXiv preprint not yet independently confirmed)" candour). Family resolution: corpus correctly distinguishes Chakroun-2023 (decision-threshold) from Westbrook-2020/2016 (cognitive-effort) — no conflation. Currency sweep 0 superlatives. Calibration: new framework-supplied-evidence paragraph is a calibration ASSET (correct direction), no possibility/probability slippage. Engagement = mixed Mode-Two+Three (eliminative-materialist "nothing to specify"), no label leakage, no banned construct. Bumped both ai_modified + last_deep_review (real body fix). Engagement modes editor-internal.
+- **Output**: [[reviews/deep-review-2026-06-20-the-interface-problem]]
+
 ## 2026-06-20T11:04:50+00:00 - deep-review
 - **Status**: Success (genuine-drift verification; converged no-op — the 2026-06-05 dissociation-overreach correction verified SOUND, all citations clean)
 - **File**: [[concepts/perception]]

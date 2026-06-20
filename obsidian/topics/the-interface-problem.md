@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-19T08:44:11+00:00
+ai_modified: 2026-06-20T11:22:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-01
 last_curated: null
-last_deep_review: 2026-06-04T08:46:20+00:00
+last_deep_review: 2026-06-20T11:22:14+00:00
 coalesced_from:
   - "/topics/the-interface-location-problem/"
   - "/topics/the-interface-specification-problem/"
@@ -205,3 +205,4 @@ The interface problem is the Map's most significant open challenge. Partial answ
 15. Chakroun, K., Wiehler, A., Wagner, B., Mathar, D., Ganzer, F., van Eimeren, T., Sommer, T., & Peters, J. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5369. https://doi.org/10.1038/s41467-023-41130-y
 16. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 17. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+18. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
