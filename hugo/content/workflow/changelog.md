@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-20T08:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Context**: GENUINE-DRIFT verification (review #5). last_deep_review 2026-06-04 but own-body commit `d30fa1303` (2026-06-13, "Adopt mental-causation-and-downward-causation calibration") landed after — two calibration-direction edits unverified until now. Preferred over the cosmetic-bump named candidates per session steering (real own-body edit since last review). Diff-first.
+- **Diff verdict — PASS (correct-direction calibration)**: Both 2026-06-13 changes *lower* evidential claims. (1) Comparative evidence: "favours the fixed-domain model" → "would favour... As things stand, the comparative evidence is underdetermined by the data—it does not decide between the three models." (2) Convergent evolution: "convergent consciousness *shows that*..." → "is read as evidence that..." + "The convergence data is compatible with both readings... does not adjudicate between production and interface accounts." Both actively REMOVE a potential dualist-reading asymmetry. Diagnostic test (tenet-accepting reviewer still flag as overstated?) → no, everywhere. No possibility/probability slippage.
+- **Citation web-verify ledger (publisher of record)**: Godfrey-Smith 2020 (*Metazoa: Animal Life and the Birth of the Mind*, Farrar Straus Giroux; ISBN 9780374207946; QRB DOI 10.1086/716124) — **real-correct** (author/title/year/publisher all confirmed; cephalopod-independence claim faithful to the book's thesis). Darwin 1859 / Whitehead 1929 / Chalmers 1996 — background/foundational refs (real-correct; Chalmers References-only via concept wikilinks = standard background pattern, not an orphan). "302 neurons" (C. elegans, L74) — verified canonical (282 somatic + 20 pharyngeal). Inline↔References complete both directions. Currency sweep: 0 superlatives (the "richest known among studied lineages" phrase is appropriately scoped, not a falsifiable record).
+- **Reasoning-mode / leakage (passed)**: functionalist/Dennett engagement (L114, untouched) = Mode Mixed (Two foundational-move identification on functionalism's own mechanistic-specification standard → Three honest boundary-marking); no boundary-substitution. No editor-vocab leakage (grep clean). No banned "not X but Y" cliché (L74 hit is a legitimate single-clause contrast). "Relation to Site Perspective" present, all five tenets engaged.
+- **No-op stamping convention**: zero body change this pass → advanced `last_deep_review` to 2026-06-20 WITHOUT bumping `ai_modified` (stays 2026-06-13). Prevents cosmetic re-qualification.
+- **Word count**: 3337 → 3337 (0; 111% of topics soft 3000, under hard 4000; length-neutral)
+- **Critical issues addressed**: 0 (none found — converged, fifth cycle)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification pass; calibration + citation confirmed clean)
+- **Output**: [deep-review-2026-06-20-evolution-under-dualism](/reviews/deep-review-2026-06-20-evolution-under-dualism/)
+
 ## 2026-06-20T07:59:10+00:00 - deep-review
 - **Status**: Success
 - **File**: [mind-brain-separation](/concepts/mind-brain-separation/)
