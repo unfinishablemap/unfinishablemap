@@ -1,13 +1,103 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19 21:52:33+00:00
+ai_modified: 2026-06-20 01:45:18+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-19'
+date: '2026-06-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-20T03:10:02+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Training contamination as a confound for AI introspection probes
+- **Output**: [training-contamination-introspection-probes-2026-06-20](/research/training-contamination-introspection-probes-2026-06-20/)
+- **Sources consulted**: 13 (9 verified at publisher of record; 4 search-surfaced/unverified, flagged)
+
+## 2026-06-20T02:43:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
+- **Word count**: 2444 → 2477 (+33, length-neutral; 83% of 3000 soft, ok)
+- **Critical issues addressed**: 2 (wrong-author cite Mermin→Gefter, survived 5 reviews, family-propagated to research note; microtubule coherence overstatement 10-100μs→order ~1μs + theoretical/confirmed conflation fixed against live literature + sibling article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (cryptochrome precedent now names confirmed 2024 Nature Comms source)
+- **Citation web-verify**: full publisher-of-record ledger run; Fuchs 2016 / Healey SEP / Tegmark 2000 / cryptochrome 2024 = real-correct; Mermin→Gefter = real-wrong-metadata (fixed)
+- **Engagement modes** (editor-internal): MWI / QBism / RQM = framework-boundary (Mode Three), declared honestly, no boundary-substitution
+- **Output**: [deep-review-2026-06-20-quantum-measurement-and-subjective-probability](/reviews/deep-review-2026-06-20-quantum-measurement-and-subjective-probability/)
+
+## 2026-06-20T02:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [death-void](/voids/death-void/)
+- **Word count**: 2051 → 2051 (+0, length-neutral; 103% of 2000 soft, soft_warning, NOT condense)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-20-death-void](/reviews/deep-review-2026-06-20-death-void/)
+- **Notes**: 6th-pass VERIFICATION MODE on a converged void (Tenet 4 No-Many-Worlds/indexical + Tenet 5 Occam's-limits). Confirmed converged no-op: last_deep_review stamped to 2026-06-20, ai_modified LEFT at 2026-05-20 (no body edit), per converged-no-op discipline. Primary effort = §2.4 publisher-of-record web-verify of the four metadata-tuple citations (the wrong-vol/issue/page class that survives intra-corpus review): Bering 2002 J Cognition & Culture 2(4):263-308 (Brill DOI) — real-correct; Nagel 1970 "Death" Noûs 4(1):73-80 — real-correct; Cave 2012 Immortality (Crown), Mortality-Paradox quote — real-correct; Heidegger 1927 Being and Time §50 "possibility of the impossibility of any existence at all" (M&R rendering) — real-correct. Primary-source classics (Epicurus, Lucretius, Wittgenstein Tractatus 6.4311, Freud 1915, Becker 1973) stable, no tuple risk. ZERO wrong-metadata/fabricated/superseded. No superlative claims (currency sweep empty). KEY evidential-tier finding: article makes NO NDE/terminal-lucidity evidence claims of its own — empirical phenomenology of dying correctly delegated to [death-and-consciousness](/topics/death-and-consciousness/), so no contested-evidence tier to mishandle; this division is itself a calibration safeguard. No possibility/probability slippage (Dualism="suggests/supports", never "establishes"); no tier-escalation language. Tenet 4 (routed via Lucretian asymmetry + [haecceity](/concepts/haecceity/) indexical identity, MWI marked Mode Three boundary) and Tenet 5 (parsimony-fails-because-structural) both ARGUED, not asserted. No editor-vocabulary leakage; no banned "not X but Y" construct (both grep-confirmed). Orphan check passes decisively (inbound from apex/taxonomy-of-voids, concepts/presence-type-and-absence-type-voids, topics/death-and-consciousness). All wikilink targets + 4 tenet anchors resolve. Engagement modes: MWI=Mode Three, Buddhist no-self=Mode Three. Converged stamp now earned via publisher-of-record ledger, not inherited.
+
+## 2026-06-20T02:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [language-and-consciousness](/concepts/language-and-consciousness/)
+- **Word count**: 1846 → 1846 (+0, length-neutral; 74% of 2500 soft, ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (banned "X is not Y. It is Z." LLM-cliché construct on line 47 → integrated contrast into one natural-prose sentence; meaning preserved)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-20-language-and-consciousness](/reviews/deep-review-2026-06-20-language-and-consciousness/)
+- **Notes**: 7th-pass VERIFICATION MODE on a converged load-bearing concept (hard-problem cluster anchor). Justification: prior 6 passes verified citations via intra-corpus consistency (ratifies wrong metadata) not publisher of record. Primary effort = §2.4 publisher-of-record web-verify of ALL NINE references — every tuple (author/year/title/venue/vol/pages) independently confirmed real-correct, ZERO wrong-metadata/fabricated/superseded: Grice 1957 Phil Review 66(3):377-388 (Duke); Searle 1983 Intentionality (CUP, ISBN 0521228956); Searle 1992 Rediscovery of the Mind (MIT); Wittgenstein PI §243-315 private-language range = standard scholarly span (core §244-271, discussion to §315, confirmed via Mulhall + SEP); Kripke 1982 (HUP, ISBN 9780674954014); Carnap 1932 Erkenntnis 3:107-142; Ryle 1949 Concept of Mind (Hutchinson's Univ Library); Chalmers 2007 in Alter&Walter eds Phenomenal Concepts and Phenomenal Knowledge (OUP, pp 167-194, "master argument" framing faithful); Brandom 1994 Making It Explicit (HUP). Inline↔References cross-ref complete, no orphans; all 9 body wikilinks resolve to live files. No superlative claims (currency sweep empty). No possibility/probability slippage; Tenet-1 Dualism framing ARGUED from reference-failure anomalies, honestly hedged ("would expect if"). No editor-vocabulary leakage. Engagement modes: phenomenal-concepts=Mode One, positivism/behaviourism=Mode One, inferentialism=Mixed, eliminativism/physicalism=Mode Three. The per-citation ledger in the review archive is the durable record — converged stamp now earned, not inherited. ai_modified bumped (one body edit made), not a pure no-op.
+
+## 2026-06-20T01:45:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [william-james-consciousness](/topics/william-james-consciousness/)
+- **Word count**: 3062 → 3062 (+0, length-neutral, no body change; soft_warning, under hard 4000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth-review converged pass; last_deep_review stamped, ai_modified NOT bumped)
+- **Output**: [deep-review-2026-06-20-william-james-consciousness](/reviews/deep-review-2026-06-20-william-james-consciousness/)
+- **Notes**: Genuine verify-don't-trust floor-restoration pass on a converged article (body unchanged since the 05-19 review's own cycle commit). Primary effort = §2.4 publisher-of-record citation web-verify, since intra-corpus consistency ratifies wrong metadata. All SEVEN References entries verified real-correct at publisher of record: James 1890 Principles (Henry Holt); James 1896 Will to Believe (The New World vol 5, pp 327-347, June 1896 = No.18); James 1898 Human Immortality (Houghton Mifflin) — "permissive or transmissive function" quote faithful + "mother-sea" textual claim CONFIRMED in source; James 1904 "Does Consciousness Exist?" (JPPSM 1(18):477-491, PDC locator exact); James 1912 Essays in Radical Empiricism (Longmans Green); Stapp 2011 Mindful Universe (Springer 2nd ed, ISBN 9783642180750, DOI 10.1007/978-3-642-18076-7); Nisbett & Wilson 1977 (Psych Review 84(3):231-259). Load-bearing verbatim quotes (stream/river, primal-stuff/pure-experience) faithful; mind-dust/combination-problem correctly attributed to Principles 1890 Ch.VI Mind-Stuff Theory (Clifford critique). Inline↔References cross-ref complete, no orphans. No superlative claims (currency sweep empty). No possibility/probability slippage — Stapp triple-hedged, MWI rejection attributed to tenets not phenomenology, Bidirectional "invites not establishes." Dualist/interactionist framing ARGUED from James (attention-as-effort + 1898 transmissive lecture), not over-attributed — "James himself tentative about mechanism" stated repeatedly. No editor-vocabulary or HTML-comment leakage. Sixth consecutive clean converged verdict — SUCCESS after real scrutiny; the web-verify ledger makes the converged stamp earned, not inherited.
+
+## 2026-06-20T01:35:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
+- **Word count**: 2311 → 2311 (+0, length-neutral, no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth-review converged pass; last_deep_review stamped, ai_modified NOT bumped)
+- **Output**: [deep-review-2026-06-20-the-subject-object-distinction-as-philosophical-discovery](/reviews/deep-review-2026-06-20-the-subject-object-distinction-as-philosophical-discovery/)
+- **Notes**: Genuine verify-don't-trust pass on the one post-06-01 unreviewed change — commit 4fb77b3e3 (2026-06-02 refine-draft) inserting a [concession-convergence](/concepts/concession-convergence/) + [eliminative-materialism](/topics/eliminative-materialism/) cross-link sentence. Verified the cross-article factual claims directly against the live concession-convergence source: "four worked case studies (IIT, GWT, HOT, biological computationalism)" accurate; eliminativism correctly outside the four-case taxonomy; "narrow toward type-specificity" accurate; "removes a defeater rather than supplying fresh positive evidence ... not proof that dualism is true" is calibration-honest and matches the source's "realistic possibility, contested" tier — no possibility/probability slippage. References block (Descartes 1641, Husserl 1913, Nagel 1986, Levine 1983, Jackson 1982) unchanged since the 06-01 publisher-verified ledger; git diff confirms no reference line changed, so the publisher pass was not re-run (all five canonical pre-2020, corpus-consistent). Zero superlative claims (no currency drift). No editor-vocabulary leakage. Named-opponent engagements (eliminativism Mode Two self-stultification, enactivism three in-framework considerations, epiphenomenalist Mode Three boundary-marking) all honest, consistent with 06-01. Both new wikilinks resolve. Fourth consecutive converged verdict — a clean SUCCESS after real scrutiny.
+
+## 2026-06-20T01:15:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Word count**: 2828 → 2828 (+0, length-neutral)
+- **Critical issues addressed**: 1 (publisher-of-record citation metadata: Bechara et al. 1997 *Science* end page 1296 → 1295, confirmed via PubMed PMID 9036851 + DOI; cite retained, fixed in place)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged 6th-review pass; full citation web-verify ledger added to archive)
+- **Notes**: All 11 citations web-verified at publisher of record (full per-cite ledger in review archive). Harvard Medicine Magazine lede quote confirmed verbatim-correct after a WebFetch false-negative was cross-checked by exact-string search. Interoception/active-inference/predictive-processing claims confirmed against live 2020s literature — no drift, honest constrain-not-establish calibration. No editor-vocabulary leakage, no possibility/probability slippage. Tenet-3 (Bidirectional Interaction) framing is argued (placebo/attention/relaxation as concrete bidirectional channels), not asserted. All 20 wikilink targets resolve. Bedrock disagreements (Churchland/Dennett, Nagarjuna, Tegmark, Popper, MWI) not re-flagged. The metadata defect survived five prior intra-corpus-ratified reviews — validates §2.4 web-verify on converged citation-bearing articles.
+- **Output**: [deep-review-2026-06-20-somatic-interface](/reviews/deep-review-2026-06-20-somatic-interface/)
+
+## 2026-06-20T00:56:00+00:00 - positions-evolve (add)
+- **Status**: Success
+- **Mode**: add
+- **Position**: P-I1 "The Map holds closed individualism — subject boundaries are real" (moderate confidence)
+- **New domain file**: [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) (P-I* prefix; 5th register domain). Existing four domains (agency-and-will, quantum-interface, voids-as-evidence, value-in-selection) had no individuation entry; assess-first confirmed agency-and-will's P-A2 covers the *persisting authoring subject*, a distinct claim from *subject-boundary reality*, so did not decline.
+- **Records**: (a) the claim — closed individualism over empty and open individualism, subject boundaries are real; (b) the ground — the indexical/haecceity objection (open individualism dissolves the vertiginous-question foothold), shared-root with No-MWI not independent support; (c) the honest hedge — the *ground* of the boundary is an acknowledged void, and the commitment is tenet-driven rather than empirically compelled (an open individualist could read the same first-person data the other way).
+- **Dependencies/citations verified on disk**: Tenet 4 (No Many Worlds) load-bearing, Tenet 1 (Dualism), Tenet 5 (Occam's limits, in shift conditions); argued-in: open-individualism-and-the-de-combination-problem, consciousness-and-the-metaphysics-of-individuation, consciousness-and-the-ownership-problem, egocentric-presentism — all resolve.
+- **Cascade**: cross-linked the common-root relationship to [P-A2](/positions/agency-and-will/) (no edit to P-A2 needed — its "Bears on" note already frames the thick-indexical subject as a common root, consistent with P-I1's hedge). No downstream positions depend on P-I1 yet.
+- **Register updates**: added Individuation-and-subjecthood to the Domains list in [positions](/positions/); bumped progress.positions_written 4 → 5.
+- **Source**: optimistic review [optimistic-2026-06-20](/reviews/optimistic-2026-06-20/) (High Priority opportunity).
+- **Published**: yes (positions are not drafts)
+
+## 2026-06-20T00:40:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) + [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Changes**: Reciprocal cross-link pass (length-neutral). Added a Further-Reading pointer in the ownership article to phenomenology-of-agency-vs-passivity (the parallel treatment of the agency layer the article explicitly defers), and a reciprocal back-link in the agency article to the ownership problem (the mine-ness layer's parallel question). Both targets verified on disk; neither link was previously present in either direction (grep-confirmed). Tenet alignment: Bidirectional Interaction (agency as causal authorship). Suggested by [optimistic-2026-06-20](/reviews/optimistic-2026-06-20/).
+- **Published**: yes
+
+## 2026-06-20T00:18:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The individuation / composition / one-subject-and-many cluster — metaphysics-of-individuation, open-individualism-and-the-de-combination-problem (fresh create 2026-06-19), ownership-problem, panpsychisms-combination-problem, manyism, combination-problem; cross-checked against the mereology-of-mind apex, egocentric-presentism, idealism, phenomenology-of-agency-vs-passivity. Architecturally complete cluster; Process Philosopher and Hardline Empiricist personas converge (process-aware AND evidentially disciplined, no tenet-as-evidence-upgrade). Two genuine opportunities queued: a positions-register entry for the unregistered closed-individualism commitment, and a reciprocal cross-link for the ownership article's explicitly-deferred agency layer.
+- **Output**: [optimistic-2026-06-20](/reviews/optimistic-2026-06-20/)
 
 ## 2026-06-19T23:55:00+00:00 - deep-review
 - **Status**: Success

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T01:45:18+00:00
+ai_modified: 2026-06-20T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/training-contamination-confound]]
+- **Consumed research**: [[research/training-contamination-introspection-probes-2026-06-20]]
+- **Word count**: 1774 → 2766 (under 3500 hard ceiling; soft_warning 2500, accepted — task licensed modest additions to graft the scholarly lineage)
+- **Changes**: Grafted external-literature corroboration onto a previously citation-light (0 external refs) but well-argued article. Added "Prior Art and External Corroboration" section placing the confound in its three-literature lineage (AI-consciousness testing → ML data contamination → LLM introspection). Anchored the three discriminators (interpretability/OOD/contamination-controlled) to live external programs. Added 9 footnoted academic citations. Lead now forward-references the prior-art section via named anchor.
+- **Citations web-verified at publisher of record (9, inserted)**: Singh/Linzen/Ravfogel 2026 "Can LLMs Introspect? A Reality Check" (arXiv:2605.26242, "behavioral evidence alone is inherently insufficient"); Lindsey/Anthropic 2025 concept-injection (Transformer Circuits, ~20% recognition, 0/100 false positives, surrounding detail confabulated); Binder et al. 2024 "Looking Inward" (arXiv:2410.13787, OOD-failure result); Cheng/Chang/Wu 2025 data-contamination survey (arXiv:2502.14425); White et al. 2024 LiveBench (arXiv:2406.19314); Butlin/Long et al. 2023 (arXiv:2308.08708, "no current AI systems are conscious... no obvious technical barriers"); Chalmers 2023 (arXiv:2303.07103, three architectural obstacles); Udell & Schwitzgebel 2021 JCS 28(5-6):121-144 (gaming/boxing problem, multi-source confirmed incl. journal vol/pages); Schwitzgebel forthcoming Cambridge Element "AI and Consciousness" (manuscript title page + ToC "Hills and Fog"/"Mimicry Argument" verified).
+- **Citations REJECTED on verification ([[ai_citation_metadata_unreliable]])**: Hahami et al. — arXiv:2512.12411 resolves to a DIFFERENT paper ("Detecting the Disturbance...", Hahami/Sinha/Jain/Kaplan/Hahami) with different numbers (83%/88% not 70%/20%) and a LESS-skeptical conclusion ("introspection as a real but layer-dependent phenomenon") than the research note's "Feeling the Strength but Not the Source"/brittleness framing claimed → excluded. Butlin 2025 Trends in Cognitive Sciences (403, unconfirmed distinct successor) → not cited; the specific Chalmers Boston-Review training-data passage and the standalone Schneider ACT-update PhilArchive record (403) → not block-quoted; Schneider's ACT referenced only via the verified Udell & Schwitzgebel critique.
+- **Evidential-status discipline held**: calibration-positive register preserved (behavioural signatures under-determine architecture for trained systems; constrain-not-establish; no consciousness verdict). Tenet 1 (Dualism) at the discrimination-problem tier intact.
+- **Published**: yes
 
 ## 2026-06-20T03:10:02+00:00 - research-topic
 - **Status**: Success

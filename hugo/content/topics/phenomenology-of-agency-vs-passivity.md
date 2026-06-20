@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-04 16:39:09+00:00
+ai_modified: 2026-06-20 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -178,6 +178,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
 - [volitional opacity](/voids/self-opacity/) — Why the mechanism connecting will to action is invisible
 - [mine-ness](/concepts/mine-ness/) — The for-me phenomenal feature at the layer beneath agency, separable in pathology
+- [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — The mine-ness layer's parallel question: why experience belongs to a subject at all, prior to any felt authorship
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from introspection
 - [The Agency Void](/voids/agency-void/) — Why consciousness cannot verify its own causal powers, and cannot fully control its own states
 - [The Interested Party Void](/voids/interested-party-void/) — Motivational corruption in consciousness's self-investigation

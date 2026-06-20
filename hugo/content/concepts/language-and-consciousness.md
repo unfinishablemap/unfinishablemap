@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-19 23:44:23+00:00
+ai_modified: 2026-06-20 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: How meaning, reference, and the private language argument reveal th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 23:44:23+00:00
+last_deep_review: 2026-06-20 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -46,7 +46,7 @@ Paul Grice argued that linguistic meaning depends on speaker intention. A senten
 
 John Searle extended this with his "connection principle": all [intentionality](/concepts/intentionality/)—the aboutness of mental states—is either conscious or derivable from conscious states. A thermostat's "belief" that the room is too hot is merely metaphorical. Genuine aboutness requires the kind of understanding that comes with phenomenal experience.
 
-If Grice and Searle are right, meaning cannot exist without consciousness. Language is not a self-standing formal system that minds happen to use. It is constitutively dependent on conscious subjects who intend, understand, and grasp—a position closely aligned with [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory), the view that all genuine aboutness derives from phenomenal experience.
+If Grice and Searle are right, meaning cannot exist without consciousness. Rather than a self-standing formal system that minds happen to use, language becomes constitutively dependent on conscious subjects who intend, understand, and grasp—a position closely aligned with [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory), the view that all genuine aboutness derives from phenomenal experience.
 
 This has implications for AI language systems: an LLM producing grammatically perfect sentences without phenomenal states would, on this view, produce sounds or symbols without genuine meaning—a version of the [symbol grounding problem](/concepts/symbol-grounding-problem/) applied to semantics. The surface form would be indistinguishable from meaningful speech, but meaning—in Grice's technical sense—would be absent.
 

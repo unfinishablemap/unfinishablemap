@@ -22,7 +22,7 @@ description: James's radical empiricism treats experience as fundamental reality
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 19:18:56+00:00
+last_deep_review: 2026-06-20 01:45:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

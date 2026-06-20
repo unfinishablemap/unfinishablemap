@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-19 21:25:00+00:00
+ai_modified: 2026-06-20 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -136,6 +136,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 ## Further Reading
 
 - [mine-ness](/concepts/mine-ness/) — The for-me phenomenal feature distinguished from agency; the layer at which the ownership problem operates
+- [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The parallel treatment of the agency layer this article defers: the felt initiation by which a thought or action presents as authored
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood and their relation to ownership
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as the form ownership takes
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why ownership cannot be replicated

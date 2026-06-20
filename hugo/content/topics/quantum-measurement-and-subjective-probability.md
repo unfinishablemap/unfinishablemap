@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-20 02:43:25+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: QBism's probabilities are structurally dependent on consciousness�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 01:40:42+00:00
+last_deep_review: 2026-06-20 02:43:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ Von Neumann (1932) and Wigner (1961) proposed that consciousness does cause coll
 
 Where QBism makes consciousness structurally necessary but only epistemically active, consciousness-collapse makes it causally active as well. This avoids the structural-dependence problem: if consciousness causes collapse, the theory at least acknowledges consciousness as a real causal factor rather than silently relying on it.
 
-But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's work on decoherence, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but mechanistic challenges remain. Tegmark's original estimate placed decoherence at ~10⁻¹³ seconds in neural tissue—far too fast for consciousness to intervene through ordinary neural processes. However, [converging evidence from quantum biology](/topics/quantum-biology-and-neural-consciousness/) has revised this picture: microtubule interiors may sustain coherence for 10-100 microseconds, and the quantum Zeno effect—the same mechanism Stapp proposes for mental causation—has been confirmed in biological systems (cryptochrome magnetoreception). The categorical decoherence objection has weakened, though a timing gap between microsecond coherence and millisecond neural decisions persists (see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)).
+But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's work on decoherence, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but mechanistic challenges remain. Tegmark's original estimate placed decoherence at ~10⁻¹³ seconds in neural tissue—far too fast for consciousness to intervene through ordinary neural processes. However, [developments in quantum biology](/topics/quantum-biology-and-neural-consciousness/) have weakened the categorical version of this objection. The quantum Zeno effect—the same mechanism Stapp proposes for mental causation—has a confirmed biological precedent: a 2024 *Nature Communications* study showed it enables cryptochrome magnetoreception. Theoretical proposals (e.g. microtubule interiors modelled as quantum-electrodynamic cavities sustaining coherence of order a microsecond) remain unconfirmed, but the blanket "warm, wet brains forbid all quantum function" objection no longer holds. A timing gap between any such coherence and millisecond neural decisions still persists (see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)).
 
 The deeper problem is the [indexical gap](/topics/indexical-identity-quantum-measurement/)—consciousness-collapse explains *how* collapse happens but not why *this* consciousness exists to trigger it. That argument is developed fully in the companion article.
 
@@ -182,7 +182,7 @@ This article connects to multiple tenets:
 
 4. Rovelli, C. "Relational Quantum Mechanics." Stanford Encyclopedia of Philosophy.
 
-5. Mermin, N. D. (2015). "A Private View of Quantum Reality." Quanta Magazine.
+5. Gefter, A. (2015). "A Private View of Quantum Reality" [Interview with Christopher Fuchs]. Quanta Magazine, June 4, 2015.
 
 6. Von Neumann, J. (1932). Mathematical Foundations of Quantum Mechanics.
 

@@ -16,7 +16,7 @@ description: 'Human+AI exploration of the purest cognitive limit: consciousness 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-20 00:00:00+00:00
+last_deep_review: 2026-06-20 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

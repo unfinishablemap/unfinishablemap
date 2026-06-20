@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-08 13:30:00+00:00
+ai_modified: 2026-06-20 00:56:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -57,6 +57,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Agency and will](/positions/agency-and-will/) — agent-causal libertarian free will, the Libet timing data, the verification limit, the compatibilist-symmetry discipline
 - [Voids as evidence](/positions/voids-as-evidence/) — what the cognitive-void catalogue evidentially supports: framework-internal coherence under the common-cause null, not independent confirmation
 - [Value in selection](/positions/value-in-selection/) — the value-blind / value-sensitive fork: whether felt valence does the selecting or merely watches, and the collated battery of evidence that would move the fork in either direction
+- [Individuation and subjecthood](/positions/individuation-and-subjecthood/) — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), grounded on the indexical/haecceity objection, held as tenet-driven with its ground acknowledged as a void
 - *Future domains, to be seeded as the register grows:* consciousness scope (animal, AI, edge cases); methodology and calibration; applied verdicts (clinical, AI, personal philosophy)
 
 ## How positions are maintained
