@@ -136,7 +136,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 1. Schlicht, T. & Starzak, T. (2022). Putting down the revolt: Enactivism as a philosophy of nature. *Frontiers in Psychology*, 13, 948733.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
-1. Wu, J. (2024). "Pragmatism as the Foundation of Cognitive Enactivism." *Cultures of Science*, 7(1).
+1. Wu, J. (2024). "Pragmatism as the Foundation of Cognitive Enactivism." *Cultures of Science*, 7(3), 210-221.
 1. Dewey, J. (1896). "The Reflex Arc Concept in Psychology." *Psychological Review*, 3(4), 357-370.
 1. Dewey, J. (1925). *Experience and Nature*. Open Court.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Sensorimotor Contingencies and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/sensorimotor-contingencies-and-the-interface/

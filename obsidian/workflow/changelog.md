@@ -5,6 +5,21 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T08:44:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Context**: GENUINE-DRIFT verification. last_deep_review 2026-06-02, ai_modified 2026-06-18 — the drift is commit `69bc0e77e` (2026-06-18 refine "Adopt reductionism calibration"), unverified because a refine bumps ai_modified not last_deep_review. Only other body change since the 06-02 review = cosmetic `[[the-agent-shaped-hole]]` cross-link install.
+- **Calibration verdict — PASS (correct-direction, sufficient, no over-correction)**: The 2026-06-18 edit makes two honest-calibration changes: (1) "the evaluation that *establishes* this identification" → "*supports*" (one-word softening); (2) added hedge "the pragmatist route is a reading the evidence permits, not one it compels." Reads the pragmatist route as a framework-permitted reading / live hypothesis, NOT established/compelled — exactly [[evidential-status-discipline]]. Diagnostic test (tenet-accepting reviewer still flag as overstated?) → no, across opening, functionalist section, and all five tenet sections (mutually consistent). No residual overclaim the edit missed; no over-correction into mush (the "real and underappreciated cost" positive claim is intact); no possibility→probability slippage.
+- **Citation web-verify ledger (publisher of record, this session)**: Peirce 1891 *Monist* 1(2):161-176 — real-correct; Peirce 1892 *Monist* 2(4):533-559 — real-correct; James 1896 "Will to Believe" *The New World* 5(18):327-347 — real-correct; James 1898 *Human Immortality* (Houghton Mifflin) — real-correct; James 1904 "Does Consciousness Exist?" *JPPSM* 1(18):477-491 — real-correct; Dewey 1896 "Reflex Arc" *Psychological Review* 3(4):357-370 — real-correct; **Wu 2024 — real-wrong-metadata: was *Cultures of Science* 7(1) (no pages), corrected to 7(3), 210-221** (SAGE DOI 10.1177/20966083241289967, DOI landing fetched). Inherited (changelog trail, stable list, not re-litigated): van Fraassen 1980, Putnam 1960/1981/1988/1994, Rorty 1979, James 1890, Korsgaard 1996, Rawlette 2016, Varela/Thompson/Rosch 1991, Fuchs 2012.
+- **Family resolution**: the wrong Wu issue (7(1)) was identical across three files — corrected in `topics/pragmatisms-path-to-dualism.md`, `topics/enactivism-challenge-to-interactionist-dualism.md`, `research/pragmatist-philosophy-of-mind-2026-03-28.md`. The 06-02 review fixed the *venue* but the issue/pages survived because intra-corpus consistency ratified them.
+- **Cross-ref / currency / leakage**: inline↔References complete for all named-author cites. Three orphan References (James 1890, Rawlette 2016, Korsgaard 1996) — minor, longstanding, NOT introduced by the drift, left in place (over-correction risk on a converged article). Currency sweep: 0 superlatives. No editor-vocab leakage, no banned "not X but Y". Reasoning-mode: functionalist = Mixed Mode Two→Three (the 06-18 hedge deepens the boundary-marking); Dewey/Rorty = Mixed; no boundary-substitution. Tenet framing argued not asserted (PASS).
+- **Stamping**: REAL fix made (Wu citation metadata) → bumped BOTH ai_modified and last_deep_review to 2026-06-20.
+- **Word count**: 3886 → 3886 (0; 130% of topics soft 3000, under hard 4000; length-neutral — fix was citation metadata only; over-soft excess is load-bearing calibration content = human length decision, do NOT auto-condense)
+- **Critical issues addressed**: 0 (none found — converged, 8th+ cycle)
+- **Medium issues addressed**: 1 (Wu 2024 wrong issue/pages, fixed across 3-file family)
+- **Enhancements made**: 0 (verification pass; calibration + citations confirmed)
+- **Output**: [[reviews/deep-review-2026-06-20-pragmatisms-path-to-dualism]]
+
 ## 2026-06-20T08:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/evolution-under-dualism]]
