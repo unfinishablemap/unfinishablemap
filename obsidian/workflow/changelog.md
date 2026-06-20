@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T04:22:00+00:00
+ai_modified: 2026-06-20T06:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T06:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-interface-development]]
+- **Source**: outer-review-synthesis-2026-06-20 (3-reviewer triple); consolidated same-file pileup (5 tasks) into ONE editor pass
+- **Changes** (all 5 synthesis findings applied):
+  1. (P1 triple) Stale developmental claims recalibrated: 15-month implicit false-belief reframed as replication-contested looking-time interpretation (sensitivity to belief-like regularities, not full belief attribution); crisp "25-50 / myelination complete" softened to population-level domain-specific ranges + 2025 lifespan-connectome turning points (~32/66/83, Mousley et al., Nat Commun 16:10055, N≈4,200 — web-verified at publisher of record); critical-period "irreversible" → "strongly stabilised, region-specific, ordinarily not recoverable" with PNN/chondroitinase reopening noted (web-verified, no body cite needed)
+  2. (P1 triple) Accommodation-vs-evidence: added up-front evidential-ambition clarification — record is *accommodated* not uniquely predicted; named predictive-processing/active-inference as the rival all 3 reviewers flagged + back-linked [[predictive-processing-and-dualism]]; recalibrated "trajectory demands explanation/reveals" to organising-power claims; folded in common-cause point (pruning+critical-periods+PNNs+phoneme/face narrowing = ONE mechanism, [[common-cause-null]]); added same-data-rival-reading note to aging section
+  3. (P1 triple) Wide-aperture contradiction resolved: every "infant consciousness has more access" rewritten to INTERFACE has broader/less-filtered access (consciousness held constant); dropped "richer conscious field"; added "broader discrimination ≠ broader phenomenal access"
+  4. (P1 double) Terminal-lucidity currency: updated "Nahm 2012 retrospective only" → prospective work now exists (Tollock, Leontovich, Gonzalez & Parnia, Innovation in Aging 9(Suppl_2):igaf122.2914, 2025 — web-verified, conference-supplement tier); honest update = prospective data have NOT vindicated dualist reading (brief trigger-linked episodes). Did NOT act on Gemini's "definitive proof/god-of-the-gaps" misread (ChatGPT+Claude defend section as calibrated)
+  5. (P2 singleton + falsification) Co-optation note added (Hensch/Werker/Gopnik/Cabeza/pruning literature are physicalists offering complete physical explanations, cite-as-rival per co-optation firewall); falsification clause added (discriminating candidate disowned → reading currently metaphysical not empirically discriminated, legitimate under [[evidential-status-discipline]])
+- **Engagement classification** (editor-internal, not in body): PP rival — Mode Two (foundational-move: PP "leaves the felt-continuity gap unexplained" by its own lights) shading to Mode Three (framework-boundary, formalism adjudicates neither side per [[predictive-processing-and-dualism]]); MWI — rested on counterfactual-exclusion identity work (evidential-status identity-and-agency prong), Mode Three boundary-marking
+- **Length**: 3730w → 3981w (added findings 4-5 + lede/common-cause/falsification; offset by tightening ~12 verbose passages corpus-wide). Under 4000 hard ceiling (was the gate); ran tools.curate.length, confirmed soft_warning not hard
+- **References**: added Tollock et al. 2025, Mousley et al. 2025 (both publisher-of-record verified); fixed connectome first author (verified Mousley, not initial guess)
+- **Published**: yes (draft: false retained)
 
 ## 2026-06-20T04:40:10+00:00 - combine-outer-reviews
 - **Status**: Success
