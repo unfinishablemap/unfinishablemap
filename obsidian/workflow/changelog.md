@@ -5,6 +5,17 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/witness-consciousness]], [[research/meditation-observer-witness-phenomenon-2026-01-18]]
+- **Task**: Multi-file citation-metadata propagation (Yang et al. 2025 author-vector fix)
+- **Changes**: WRONG-AUTHOR misattribution corrected (3-state = real-wrong-metadata → fix, not de-cite). "Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self… 7T MRI case study. *NeuroImage*." → "Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). … of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968." (publisher-verified: PubMed PMID 39653180, DOI 10.1016/j.neuroimage.2024.120968). witness-consciousness: References L223 only (no inline body mention). research note: References L289 + descriptor fix L77 ("Stages of Insight in vipassana" → "in advanced investigative insight meditation", matching the AIIM study; left the historical search-query line at L17 untouched).
+- **Propagation root**: research note is the propagation root — fixing it prevents re-propagation into future synthesis articles.
+- **Corpus grep**: no remaining "Laukkonen.*Slagter.*2024" / wrong-author "Deconstructing the self" in live content (obsidian excl reviews/workflow). Remaining hits are workflow (task/log) + reviews (provenance) by design. eastern-philosophy-consciousness already fixed (inline L85 + References L228 both Yang 2025).
+- **Out-of-scope flag**: archive/topics/eastern-philosophy-haecceity-tension.md still carries the old Laukkonen&Slagter cite (archived URL-preservation copy; its 2026-02-02 deep-review deferred verification). Not in this task's named-file scope; out-of-scope for citation refresh on archived content.
+- **Length impact**: metadata-only, length-neutral.
+- **Published**: yes (research note is a public note; witness-consciousness is draft:false)
+
 ## 2026-06-20T13:33:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]]

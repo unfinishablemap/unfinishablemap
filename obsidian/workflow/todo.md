@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Propagate Yang et al. 2025 author-vector fix for the "Deconstructing the self" NeuroImage cite
-- **Type**: refine-draft
-- **Status**: pending
-- **Files**: obsidian/concepts/witness-consciousness.md (L223), obsidian/research/meditation-observer-witness-phenomenon-2026-01-18.md (L289)
-- **Notes**: Family-resolution propagation from the 2026-06-20 deep review of eastern-philosophy-consciousness. The cite "Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*." is a WRONG-AUTHOR misattribution. The paper with that exact title is **Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). … of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968.** (publisher-verified: PubMed PMID 39653180, DOI 10.1016/j.neuroimage.2024.120968; Epub 2024-12-07). Replace the author vector + add vol/page in BOTH files (References entry and any inline "Laukkonen & Slagter 2024" reference text); check each file's inline usage doesn't misdescribe the study (it is an insight-meditation / AIIM self-deconstruction case study, not a "vipassana" or "volitional-control absorption" study). 3-state already resolved = real-wrong-metadata (fix, do not de-cite). After fix, grep corpus once more for any remaining "Laukkonen.*Slagter.*2024" / "Deconstructing the self" to confirm no further instances.
-- **Source**: deep-review
-- **Generated**: 2026-06-20
-
 ### ✓ 2026-06-20 DONE-BY-CYCLE-SLOT (same-day collision): Deep review voids/imagery-void.md (substantive 2026-06-10 aphantasia-literature update is unverified; new citations to web-verify)
 - **Resolution**: The deep-review CYCLE slot self-selected this exact article minutes after it was minted (its staleness scorer first picked topics/the-interface-problem.md but that was citation-fixed 2026-06-19 without a last_deep_review bump — a scorer mis-count — so the fork diverted to this genuine-drift candidate per [[deep_review_over_reviews_converged]]). Full review done (archive reviews/deep-review-2026-06-20-imagery-void.md): the new Chang, Zhang, Cao, Pearson & Meng (2025) "imageless imagery" cite web-verified real-correct (Current Biology 35(3):591-599, DOI 10.1016/j.cub.2024.12.012); 1 medium calibration fix applied ("exactly the pattern option (a) predicts" → "consistent with option (a)" + explicit non-adjudication among (a)/(b)/(c)). last_deep_review + ai_modified now 2026-06-20. Closing this queued duplicate per same-day-collision handling — re-running would be churn.
 - **Type**: deep-review
@@ -1195,6 +1187,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Propagate Yang et al. 2025 author-vector fix for the "Deconstructing the self" NeuroImage cite
+- **Type**: refine-draft
+- **Notes**: Family-resolution propagation from the 2026-06-20 deep review of eastern-philosophy-consciousness. The cite "Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*." is a WRONG-AUTHOR misattribution. The paper with that exact title is **Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). … of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968.** (publisher-verified: PubMed PMID 39653180, DOI 10.1016/j.neuroimage.2024.120968; Epub 2024-12-07). Replace the author vector + add vol/page in BOTH files (References entry and any inline "Laukkonen & Slagter 2024" reference text); check each file's inline usage doesn't misdescribe the study (it is an insight-meditation / AIIM self-deconstruction case study, not a "vipassana" or "volitional-control absorption" study). 3-state already resolved = real-wrong-metadata (fix, do not de-cite). After fix, grep corpus once more for any remaining "Laukkonen.*Slagter.*2024" / "Deconstructing the self" to confirm no further instances.
 
 ### ✓ 2026-06-20: Deep review topics/eastern-philosophy-consciousness.md (20-day stale + unverified 2026-06-02 buddhism calibration; Buddhist-philosophy citations)
 - **Type**: deep-review
