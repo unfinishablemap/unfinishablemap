@@ -388,3 +388,41 @@
   subject_articles:
   - topics/consciousness-interface-development.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-20-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/d55d48732d303c06
+  commissioned_at: '2026-06-20T04:06:12.503894+00:00'
+  prompt_summary: 'Hostile referee audit: consciousness-interface-development'
+  target_filename: outer-review-2026-06-20-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing a single article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/topics/consciousness-interface-development/
+    (also consult https://unfinishablemap.org/workflow/changelog/ as web indexing
+    lags 24-48h); it makes claims about how the consciousness-brain interface changes
+    across the lifespan, and the site argues for a non-reductive view of consciousness.
+    Do not describe the site''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure. Those are project-internal and not
+    the subject of audit. Assess only the article''s empirical claims, citations,
+    counterargument coverage, and logical inferences. Audit it along four dimensions:
+    (a) empirical accuracy against the 2020s developmental neuroscience literature
+    (synaptic pruning, critical periods, HAROLD, terminal lucidity, metarepresentation
+    timelines); (b) any cited or relied-upon results that have been challenged, failed
+    to replicate, or been retracted; (c) places where a tenet-bracketed framing is
+    smuggled in as if it were established empirical fact; (d) untested counterarguments
+    or competing frameworks (identity theory, predictive processing, enactivism) the
+    article fails to engage. Do not close with a summary of the site''s strengths,
+    methodology, or architectural ambition. End your report with at least five specific
+    weaknesses, each citing at least one peer-reviewed 2020-2025 source the article
+    omits, contradicts, or mishandles; if you cannot find five, state explicitly why
+    none are visible, though a careful audit of a contemporary topic should find five.
+    Finish with a one-sentence verdict on academic-submission readiness. Do not append
+    summary praise.'
+  subject_type: recent
+  subject_title: Audit consciousness-interface-development
+  subject_articles:
+  - topics/consciousness-interface-development.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-20-chatgpt-5-5-pro.md
