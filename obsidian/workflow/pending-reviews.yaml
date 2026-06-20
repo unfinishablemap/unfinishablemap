@@ -364,9 +364,9 @@
   commissioned_at: '2026-06-20T03:05:36.796855+00:00'
   prompt_summary: Audit consciousness-interface-development (Opus 4.8)
   target_filename: outer-review-2026-06-20-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-20T04:10:20.411514+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair external referee for The Unfinishable Map,
     a dualist philosophy-of-mind project at https://unfinishablemap.org (recent activity:

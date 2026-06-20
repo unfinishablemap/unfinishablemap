@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T03:34:51+00:00
+ai_modified: 2026-06-20T04:22:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T04:22:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable; commission auto-fell-back to Opus)
+- **File**: [[reviews/outer-review-2026-06-20-claude-opus-4-8]]
+- **Subject**: topics/consciousness-interface-development.md (recent-aged fallback; same subject as the ChatGPT 2026-06-20 leg)
+- **Claims verified**: 6 reviewer claims checked against the live article (wide-aperture/constant-consciousness tension; uncaveated Onishi & Baillargeon; Nahm-2012-retrospective terminal-lucidity passage; total absence of predictive-processing engagement; no co-optation footnote; no falsification clause) — all confirmed present/absent as the reviewer described. 1 reviewer recommendation partially disputed ("remove 'converging'" — that word isn't used for the developmental stack, only "convergent evolution" re: corvids; substance stands, word doesn't).
+- **High-value findings**: 5 (citation fidelity clean / no fabrication — creditable; inference fails constrain-vs-establish gate, PP is the unaddressed strongest rival; infant wide-aperture contradicts the constant-consciousness tenet; selective empirical staleness on terminal lucidity; co-optation of physicalist authors)
+- **Tasks generated**: 3 new + 2 existing annotated. NEW — P1 refine-draft (wide-aperture internal contradiction, Claude-only); P2 refine-draft (terminal-lucidity 2025 prospective-data update, Claude-only); P2 refine-draft (co-optation footnote + falsification clause, Claude-only). ANNOTATED as CONVERGENT (≥2 reviewers) — the two existing ChatGPT 2026-06-20 P2 tasks (stale developmental claims; accommodation-vs-evidence/PP-rival), so /combine-outer-reviews can upgrade their priority. Methodology recs (B1-B6) NOT minted: site already has common-cause-null + direct-refutation-discipline docs and a completed constrain-vs-establish lint / co-optation firewall (2026-06-18, 2026-06-11).
+- **No fabricated target quotes** (clean, unlike the known Gemini failure mode); review quality high — accurate developmental neuroscience verification, real internal-contradiction find.
 
 ## 2026-06-20T04:05:00+00:00 - outer-review
 - **Status**: Success
