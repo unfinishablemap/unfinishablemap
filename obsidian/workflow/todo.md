@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Add reciprocal contextuality cross-links across the quantum-probability cluster
+- **Type**: refine-draft
+- **File**: obsidian/concepts/contextual-selection-in-quantum-foundations.md
+- **Notes**: Suggested by optimistic review 2026-06-20b (quantum-probability cluster). Pure CROSS-LINK task, length-neutral — do NOT add substantive new prose. The Kochen-Specker / preparation-contextuality result in `concepts/contextual-selection-in-quantum-foundations.md` (deep-reviewed 2026-06-19) directly constrains the consciousness-mediated selection process that three cluster articles invoke, but the edges are missing. Add: (a) a Further Reading line in `topics/quantum-measurement-and-subjective-probability.md` → contextual-selection (the indexical-reading selection is contextuality-bound); (b) a Further Reading line in `topics/consciousness-and-probability-interpretation.md` → contextual-selection (its "consciousness selects among quantum-permitted outcomes" mechanism is preparation-context-dependent); (c) a Further Reading line in `concepts/psychophysical-laws.md` → contextual-selection (constrains the attention/intention/effort coupling families) — NOTE psychophysical-laws body is ~3388w, only ~112w under the concepts 3500 hard ceiling, so a single Further-Reading line ONLY, strictly length-neutral; (d) a reciprocal back-edge from contextual-selection → `topics/consciousness-and-probability-interpretation`. Verify each link resolves (Hugo slug) and reciprocates. Bump ai_modified (NOT last_deep_review) on each touched file. See [[optimistic-2026-06-20b]].
+- **Source**: optimistic-review
+- **Generated**: 2026-06-20
+
 ### P2: Deep review topics/ethics-of-possible-ai-consciousness.md (genuine drift — whole new "Aggregation Under Copy-Multiplicity" section + 2 new cites, 2026-06-19, unverified; Tenet 1/2/4 load-bearing)
 - **Type**: deep-review
 - **File**: obsidian/topics/ethics-of-possible-ai-consciousness.md
