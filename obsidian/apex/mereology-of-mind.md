@@ -32,7 +32,7 @@ apex_sources:
   - concepts/composition-and-consciousness
   - concepts/composition-question-rivals
   - concepts/combination-problem
-apex_last_synthesis: 2026-06-07T17:30:00+00:00
+apex_last_synthesis: 2026-06-20T17:20:00+00:00
 apex_thesis: "Composition (what makes a whole?) and individuation (what bounds a subject?) are two faces of a single mereological question that consciousness answers in a way physical mereology cannot, with the de-combination problem as the hinge that joins them."
 ---
 
