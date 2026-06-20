@@ -5,6 +5,22 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T07:37:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Context**: GENUINE-DRIFT verification (review #7). last_deep_review 2026-06-02 but ai_modified 2026-06-19 via commit f8182c32c — a whole new "Aggregation Under Copy-Multiplicity" section (~5 paras) + 2 new References (Bostrom 2022, Schwitzgebel 2023) + 2 new related_articles, none deep-review-verified until now.
+- **Aggregation-section calibration verdict**: PASS. The load-bearing claim — the Map is committed *by its own tenets* (No-MWI + haecceity) to the Duplication View (N conscious copies ≈ N× disvalue), Tenet-2 quantum-interface gating the scenario — is correctly framed as a tenet-conditional STRUCTURAL ENTAILMENT, not an empirical-probability claim. Para 3 explicitly separates possibility (entailment) from probability (empirical, low) and forbids collapse BIDIRECTIONALLY ("neither does the comfortable low probability soften the entailment, nor does the entailment raise the probability"). Tenet-2 relief stays a framework gate (zero interfaces → zero experiencers), not an evidence upgrade. Diagnostic test: a tenet-accepting reviewer would NOT flag it as overstated. No possibility/probability slippage.
+- **New-citation web-verify (publisher of record)**: Bostrom 2022 *Propositions Concerning Digital Minds* — **real-wrong-metadata: missing co-author**, corrected to **Bostrom & Shulman**. Tomasik — **real-wrong-metadata: wrong title** ("How to *Count* Physical Systems as Minds" → correct "How to *Interpret* a Physical System as a Mind"), URL pointed to the specific essay. Schwitzgebel 2023 "Repetition and Value in an Infinite Universe" — real-correct (preprint tier; gloss faithful, paper endorses Diminishing Returns). Tokayer "What Duplication Proves..." — real-correct (PhilArchive, gloss faithful).
+- **Existing-citation web-verify**: Cutter 2025 *Faith and Philosophy* 41(1):1-26 (real-correct; DOI 10.37977/faithphil.2025.41.1.1), Schwitzgebel 2025 arXiv:2510.09858 (real-correct), Metzinger 2021 JAIC 8(1):43-66 ("explosion of negative phenomenology" verbatim), Butlin/Long/Chalmers 2023 arXiv:2308.08708, Deutsch 1999 Proc R Soc A 455(1988):3129-3137, Wallace 2012 OUP — all **real-correct**.
+- **Critical fix (pre-existing orphan)**: "Birch's *Edge of Sentience* (2024)" cited inline since before the drift with NO References entry (missed by 6 prior reviews) — added "Birch, J. (2024). *The Edge of Sentience...* Oxford University Press" (verified OUP 9780192870421).
+- **Inline↔References**: complete both directions after the Birch fix. Currency sweep: no superlative claims. No editor-vocab leakage, no banned "not X but Y" construct. ai_system preserved as claude-opus-4-7.
+- **Note**: same Bostrom-missing-Shulman + Tomasik-wrong-title metadata drift persists in research/moral-aggregation-under-ai-copy-multiplicity-2026-06-19.md (research artifact, out of article scope — flagged not fixed).
+- **Word count**: 3745 → 3770 (+25, one References line; 230w under topics hard 4000)
+- **Critical issues addressed**: 3 (Bostrom co-author, Tomasik title, Birch orphan reference)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification pass; calibration confirmed clean)
+- **Output**: [[reviews/deep-review-2026-06-20-ethics-of-possible-ai-consciousness]]
+
 ## 2026-06-20T07:29:49+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Quantum-probability / subjective-credence / psychophysical-coupling cluster — `topics/quantum-measurement-and-subjective-probability`, `topics/consciousness-and-probability-interpretation`, `concepts/psychophysical-laws`, `concepts/contextual-selection-in-quantum-foundations`, cross-checked against `positions/quantum-interface` (P-Q2/P-Q3/P-Q7), `topics/born-rule-and-the-consciousness-interface`, `concepts/quantum-probability-consciousness`. Distinct from this session's prior clusters (chose to avoid individuation/composition [06-20a], temporal [06-19b], AI [06-19c], value/ethics [06-19d], personal-identity [06-19], dualism-rivals [06-18c]).
