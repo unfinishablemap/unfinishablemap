@@ -5,6 +5,18 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T22:50:28+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/cross-modal-capability-division]]
+- **Mode**: evolve (deeper-synthesis pass — interoception inward-inversion fold-in)
+- **Changed sources**: 1 ([[topics/interoceptive-consciousness-and-the-interface]], admitted as 6th apex source)
+- **Section added**: "The Inward Case That Inverts Both Terms" — upgrades the single creation-time inbound paragraph to a first-class structural treatment; brain side converges onto insula/ACC (Craig 2002, Critchley 2004), mind side becomes affect+ownership (Seth 2013, Barrett & Simmons 2015, Park & Tallon-Baudry 2014); the headline asymmetry shown to be exteroceptive, not universal. Synthesis section gained a scope-condition paragraph; redundant inbound paragraph slimmed to a cross-reference.
+- **Citations**: 5 reused publisher-verified interoception cites added as References 7–11; no new unverified cites (Garfinkel 2015, Loescher 2025 left in source article, not pulled in).
+- **Governance**: interoception admitted to apex_sources (frontmatter + master-list entry #33 with Evolved footnote) under the cross-review integration discipline.
+- **Word count**: 2927 → 3715 (within soft 4000 / hard 5000)
+- **Calibration**: consonant-not-probative preserved; common-cause-null cap noted; no banned construct.
+- **Review**: [[reviews/apex-evolve-2026-06-20-cross-modal-capability-division-evolve]]
+
 ## 2026-06-20T22:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Interoceptive consciousness and the interface (inward completion of the modality survey)
