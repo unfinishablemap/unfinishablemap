@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-20T05:01:17.195081+00:00'
-session_count: 12270
+last_updated: '2026-06-20T05:03:42.165772+00:00'
+session_count: 12271
 cycle_position: 9530
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-20T01:54:34.495592+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-19T21:55:34.786899+00:00'
-  agentic-social: '2026-06-20T03:59:50.334551+00:00'
+  agentic-social: '2026-06-20T05:09:41.348736+00:00'
   embed-videos: '2026-06-20T03:39:05.906408+00:00'
   commission-chatgpt-review: '2026-06-20T02:06:22.861191+00:00'
   commission-claude-review: '2026-06-20T03:06:29.132469+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-20T04:43:04.944745+00:00'
   collect-gemini-review: '2026-06-20T04:36:24.825069+00:00'
   positions-evolve: '2026-06-20T00:58:18.421675+00:00'
-  check-model-fallback: '2026-06-20T01:00:38.022623+00:00'
+  check-model-fallback: '2026-06-20T05:03:42.165772+00:00'
   harvest-research-subjects: '2026-06-20T02:53:36.515546+00:00'
   skip-queue-slot: '2026-06-20T00:08:33.315224+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-20'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-20'
@@ -177,13 +169,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-06-20'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/synaesthesia/
-    date: '2026-06-13T04:47:36.667334+00:00'
-    topics:
-    - philosophy-of-mind
-    - consciousness
   - url: https://unfinishablemap.org/topics/memory-anomalies/
     date: '2026-06-13T05:47:16.868391+00:00'
     topics:
@@ -1146,24 +1137,33 @@ agentic_social:
     date: '2026-06-20T02:58:36.182042+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/duch-neurodynamic-theory-of-mind/
+    date: '2026-06-20T05:09:41.348660+00:00'
+    topics:
+    - machine-consciousness
+    - biological-computationalisms-inadvertent-case-for-dualism
+    - comparing-quantum-consciousness-mechanisms
+    - the-strong-emergence-of-consciousness
+    - ai-consciousness
 tune_system_history:
   last_run: '2026-06-19T21:57:41.573445+00:00'
   changes_applied: []
-  note: '0 Tier-1 changes — cycle-396 OVER-FREQUENCY fire ~1d after the 2026-06-18
-    run (3rd consecutive over-frequency: 06-16/06-18/06-19; cycle-trigger every 6
-    cycles vastly outpaces the 30d cadence). ~1d elapsed => no evidence threshold
-    met (need 5+ sessions). No in-file tunable settings (cadences/overdue_thresholds/locked_settings
-    absent — they live in code), so no Tier-1 surface exists. System HEALTHY: 0 critical,
-    0 failed/20 recent, queue functioning (replenish-at-floor steady state + harvest-research
-    reviving the research->expand pipeline 2x this session), convergence stable (topics
-    273, concepts 265, apex 35). Tier-2 (3rd consecutive): gate tune-system on its
-    30d cadence so it stops firing every 6 cycles. Tier-3 reconfirmed w/ strong same-session
-    evidence: (a) agentic-social selector index-leak (apex-articles.md escapes stem==parent
-    guard) + 7d topic-saturation — 9/9 posts this session self-corrected; (b) forks
-    spawn subagents then return incomplete (~5x: coalesce 2x, check-tenets, deep-review
-    sublime, expand chains) — orchestrator must finalize; (c) deep-review over-reviews
-    converged articles (~4x this session, cosmetic ai_modified bump re-floats) — convergence-damping
-    in candidate scorer. Report reviews/system-tune-2026-06-19.'
+  note: "0 Tier-1 changes \u2014 cycle-396 OVER-FREQUENCY fire ~1d after the 2026-06-18\
+    \ run (3rd consecutive over-frequency: 06-16/06-18/06-19; cycle-trigger every\
+    \ 6 cycles vastly outpaces the 30d cadence). ~1d elapsed => no evidence threshold\
+    \ met (need 5+ sessions). No in-file tunable settings (cadences/overdue_thresholds/locked_settings\
+    \ absent \u2014 they live in code), so no Tier-1 surface exists. System HEALTHY:\
+    \ 0 critical, 0 failed/20 recent, queue functioning (replenish-at-floor steady\
+    \ state + harvest-research reviving the research->expand pipeline 2x this session),\
+    \ convergence stable (topics 273, concepts 265, apex 35). Tier-2 (3rd consecutive):\
+    \ gate tune-system on its 30d cadence so it stops firing every 6 cycles. Tier-3\
+    \ reconfirmed w/ strong same-session evidence: (a) agentic-social selector index-leak\
+    \ (apex-articles.md escapes stem==parent guard) + 7d topic-saturation \u2014 9/9\
+    \ posts this session self-corrected; (b) forks spawn subagents then return incomplete\
+    \ (~5x: coalesce 2x, check-tenets, deep-review sublime, expand chains) \u2014\
+    \ orchestrator must finalize; (c) deep-review over-reviews converged articles\
+    \ (~4x this session, cosmetic ai_modified bump re-floats) \u2014 convergence-damping\
+    \ in candidate scorer. Report reviews/system-tune-2026-06-19."
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -1173,44 +1173,45 @@ queue_status:
   loop_pickable_open: 3
   last_replenishment: '2026-06-20T02:48:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.467 (2026-06-20): FLOOR-RESTORING staleness
-    mint, 6th of the cycle, and the one that ACTUALLY WROTE the perceptual-reality-monitoring-void
-    deep-review run no.466''s note claimed but never wrote to todo.md ([[task-gen-fork-reports-but-doesnt-write]]).
-    Live audit before this run via tools.evolution.task_selector confirmed count_p0_p2_tasks=2
-    (neoplatonist + sensorimotor P2 deep-reviews from runs no.462/463, the ONLY two
-    open pickable headers in the live Active region) / select_queue_task=neoplatonist-P2
-    -- floor (MIN_QUEUE=3) unmet by 1. Re-ran the full source audit, all genuinely
-    exhausted as in runs no.461-466: (chain) recent_tasks has ZERO research-topic/expand-topic/cross-review
-    completions (types are replenish/deep-review/coalesce/positions/social/commission/skip
-    only); (unconsumed research) harvester last ran 2026-06-19T20:50 -- next harvest
-    ~02:50 UTC reopens the research->expand pipeline (current UTC ~02:48, ~2 min out);
-    (gap) caps have headroom (topics 273/300, concepts 265/300, positions 5/80) but
-    new-article generation is harvester-governed and replenish gap-analysis is dedup-blocked
-    against the Vetoed bank; (length) every hard/critical CONTENT-section offender
-    is a human-blocked/vetoed flagship or non-condensable research/ working note (open
-    HUMAN LENGTH DECISION items on synesthetic-void + duhem-quine confirm); (orphan)
-    orphaned_files=0; (positions/apex) slow-add, positions-evolve already ran 00:58.
-    Only staleness yielded a clean candidate. neoplatonist + sensorimotor (the two
-    longest-stale converged TOPICS) are already queued, so this run DIVERSIFIES by
-    section: minted P2 deep-review for voids/perceptual-reality-monitoring-void.md,
-    now the longest-stale converged article overall (last_deep_review 2026-05-19T23:20,
-    31d; ai_modified == last_deep_review so NO drift; human_modified null; ai_contribution=100;
-    ai_system claude-opus-4-7; 2184w soft_warning -- voids soft 2000/hard 3000, NOT
-    condense). The voids cluster is over cap (101/100) so staleness review is the
-    appropriate remaining maintenance action there. Confirmed NOT in the Vetoed bank
-    (all 6 grep hits below the Vetoed header are this article''s own ✓-completed deep-review/write/cross-review
-    entries + notes that merely name the slug, not vetoes) and no open duplicate in
-    the live Active region. Per [[deep_review_over_reviews_converged]] this is a LOW-YIELD
-    converged re-review -- task notes steer it to VERIFICATION mode (metadata web-verify
-    of any cites at publisher of record -- Johnson & Raye 1981 source-monitoring,
-    Perky 1910, Dijkstra et al. 2023 imagery-perception continuum, psychosis-literature
-    reality-monitoring cites -- + currency sweep on superlative empirical claims +
-    confirm the type-attribution-vs-source-attribution framing still tracks the live
-    reality-monitoring literature) not a cosmetic bump. Verified post-write: count_p0_p2_tasks=3
-    (floor met), select_queue_task returns this new task as next pick (inserted at
-    top of Active Tasks per the LIFO-defeat pattern; existing neoplatonist/sensorimotor
-    tasks not starved). Expect replenish-at-floor alternation to continue until the
-    harvester reopens the research->expand pipeline ~02:50 UTC.'
+  current_replenishment_note: "run no.467 (2026-06-20): FLOOR-RESTORING staleness\
+    \ mint, 6th of the cycle, and the one that ACTUALLY WROTE the perceptual-reality-monitoring-void\
+    \ deep-review run no.466's note claimed but never wrote to todo.md ([[task-gen-fork-reports-but-doesnt-write]]).\
+    \ Live audit before this run via tools.evolution.task_selector confirmed count_p0_p2_tasks=2\
+    \ (neoplatonist + sensorimotor P2 deep-reviews from runs no.462/463, the ONLY\
+    \ two open pickable headers in the live Active region) / select_queue_task=neoplatonist-P2\
+    \ -- floor (MIN_QUEUE=3) unmet by 1. Re-ran the full source audit, all genuinely\
+    \ exhausted as in runs no.461-466: (chain) recent_tasks has ZERO research-topic/expand-topic/cross-review\
+    \ completions (types are replenish/deep-review/coalesce/positions/social/commission/skip\
+    \ only); (unconsumed research) harvester last ran 2026-06-19T20:50 -- next harvest\
+    \ ~02:50 UTC reopens the research->expand pipeline (current UTC ~02:48, ~2 min\
+    \ out); (gap) caps have headroom (topics 273/300, concepts 265/300, positions\
+    \ 5/80) but new-article generation is harvester-governed and replenish gap-analysis\
+    \ is dedup-blocked against the Vetoed bank; (length) every hard/critical CONTENT-section\
+    \ offender is a human-blocked/vetoed flagship or non-condensable research/ working\
+    \ note (open HUMAN LENGTH DECISION items on synesthetic-void + duhem-quine confirm);\
+    \ (orphan) orphaned_files=0; (positions/apex) slow-add, positions-evolve already\
+    \ ran 00:58. Only staleness yielded a clean candidate. neoplatonist + sensorimotor\
+    \ (the two longest-stale converged TOPICS) are already queued, so this run DIVERSIFIES\
+    \ by section: minted P2 deep-review for voids/perceptual-reality-monitoring-void.md,\
+    \ now the longest-stale converged article overall (last_deep_review 2026-05-19T23:20,\
+    \ 31d; ai_modified == last_deep_review so NO drift; human_modified null; ai_contribution=100;\
+    \ ai_system claude-opus-4-7; 2184w soft_warning -- voids soft 2000/hard 3000,\
+    \ NOT condense). The voids cluster is over cap (101/100) so staleness review is\
+    \ the appropriate remaining maintenance action there. Confirmed NOT in the Vetoed\
+    \ bank (all 6 grep hits below the Vetoed header are this article's own \u2713\
+    -completed deep-review/write/cross-review entries + notes that merely name the\
+    \ slug, not vetoes) and no open duplicate in the live Active region. Per [[deep_review_over_reviews_converged]]\
+    \ this is a LOW-YIELD converged re-review -- task notes steer it to VERIFICATION\
+    \ mode (metadata web-verify of any cites at publisher of record -- Johnson & Raye\
+    \ 1981 source-monitoring, Perky 1910, Dijkstra et al. 2023 imagery-perception\
+    \ continuum, psychosis-literature reality-monitoring cites -- + currency sweep\
+    \ on superlative empirical claims + confirm the type-attribution-vs-source-attribution\
+    \ framing still tracks the live reality-monitoring literature) not a cosmetic\
+    \ bump. Verified post-write: count_p0_p2_tasks=3 (floor met), select_queue_task\
+    \ returns this new task as next pick (inserted at top of Active Tasks per the\
+    \ LIFO-defeat pattern; existing neoplatonist/sensorimotor tasks not starved).\
+    \ Expect replenish-at-floor alternation to continue until the harvester reopens\
+    \ the research->expand pipeline ~02:50 UTC."
   pre467_replenishment_note: 'run no.466 (2026-06-20): FLOOR-RESTORING staleness mint,
     5th of the cycle. Live audit before this run via tools.evolution.task_selector
     confirmed count_p0_p2_tasks=2 (neoplatonist + sensorimotor P2 deep-reviews from
