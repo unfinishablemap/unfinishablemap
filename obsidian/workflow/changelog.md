@@ -5,6 +5,17 @@ ai_modified: 2026-06-20T04:22:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T04:22:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]]
+- **Word count**: 3008 → 3039 (+31; both additions are mandatory citation-accuracy fixes)
+- **Critical issues addressed**: 2 citation defects (wrong-author/venue/year swap + wrong dissertation title), both publisher-of-record verified and propagated corpus-wide
+- **Medium issues addressed**: 1 (phantom inline cite "Remes's Topoi article" aligned to the actual cited Reference *Plotinus on Self*)
+- **Key finding**: Ref #3 "Aklan (2013), Plotinus, Porphyry, and India: A Re-Examination, in Knowledge and the Sacred" is actually **Lacrosse (2009), in Late Antique Epistemology, ed. Vassilopoulou & Clark, Palgrave, ch. 7, pp. 103–116** (Springer DOI 10.1057/9780230240773_7). The borrowed subtitle had also corrupted the Aklan dissertation title (real title: *Wandering Lotuses: Parallel Philosophical Illustrations in Late Antique Greek and in Indian Philosophies*). Survived 3 prior "verified" reviews because they cross-checked the article against the research note that carried the same error — caught only by the §2.4 publisher-of-record pass.
+- **Family-resolution propagation**: corrected in [[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]] (source of error), [[topics/introspection-architecture-independence-scoring]] (parent exhibit), and the article.
+- **Engagements**: scholarly-historiography only (Bréhier-Armstrong Mode One; Hacker Mode Three; Schwyzer/Hendrix vs Emilsson/Remes meta-reporting). No named-opponent refutation; no editor-vocabulary leakage; no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-20-neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]]
+
 ## 2026-06-20T04:22:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable; commission auto-fell-back to Opus)

@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-13T23:04:56+00:00
+ai_modified: 2026-06-20T04:22:27+00:00
 last_deep_review: 2026-06-04T00:57:14+00:00
 draft: false
 topics:
@@ -211,7 +211,7 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 ## References
 
 1. Adamson, P. (2002). *The Arabic Plotinus*. Duckworth / Gorgias.
-2. Aklan, A. K. (2018). *Wandering Lotuses: Plotinus, Porphyry, and India — A Re-Examination*. PhD dissertation, CEU.
+2. Aklan, A. K. (2018). *Wandering Lotuses: Parallel Philosophical Illustrations in Late Antique Greek and in Indian Philosophies*. PhD dissertation, CEU.
 3. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
 4. Armstrong, A. H. (1936). Plotinus and India. *Classical Quarterly* 30(1): 22–28.
 5. Beckwith, C. I. (2015). *Greek Buddha: Pyrrho's Encounter with Early Buddhism in Central Asia*. Princeton.

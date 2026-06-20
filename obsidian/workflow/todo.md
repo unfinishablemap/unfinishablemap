@@ -81,13 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-20
 
-### P2: Deep review topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels.md (32d since last review, ai_contribution=100, longest-stale converged tier)
-- **Type**: deep-review
-- **File**: obsidian/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels.md
-- **Notes**: FLOOR-RESTORING staleness pick by /replenish-queue run no.462 (2026-06-20). Selected after a full source audit found every other source exhausted: (chain) recent_tasks has zero research-topic/expand-topic/cross-review completions; (unconsumed research) checker hits are by-design-consumed false positives; (gap) caps have headroom (topics 273/300, concepts 265/300, positions 5/80) but new-article generation is harvester-governed — next harvest ~02:50 UTC will reopen the research→expand pipeline; (length) all hard/critical content-section offenders are human-blocked/vetoed flagships (meaning-of-life, phenomenal-output-dissociation, epistemology-of-convergence, born-rule) or non-condensable research-note files; (orphan) orphaned_files=0; (positions/apex) slow-add, positions-evolve already ran this cycle (00:58). This article is now the longest-stale converged tier after william-james-consciousness.md was deep-reviewed earlier this cycle (its ✓ entry below). Profile: last_deep_review 2026-05-19, ai_modified == last_deep_review (no edits since review → no drift), human_modified null, 3008w soft_warning (NOT condense). Per [[deep_review_over_reviews_converged]] this is a low-yield converged re-review — run it in VERIFICATION mode (metadata web-verify of citations + currency sweep on any superlative empirical claims per [[empirical-record-currency-drift]]), NOT a cosmetic ai_modified bump. If the pass finds nothing actionable, log a no-op and bump last_deep_review only. Expect replenish-at-floor alternation to continue until the harvester reopens the research→expand pipeline.
-- **Source**: staleness
-- **Generated**: 2026-06-20
-
 ### P2: Deep review topics/sensorimotor-contingencies-and-the-interface.md (31d since last review, ai_contribution=100, converged tier)
 - **Type**: deep-review
 - **File**: obsidian/topics/sensorimotor-contingencies-and-the-interface.md
@@ -1139,6 +1132,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Deep review topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels.md (32d since last review, ai_contribution=100, longest-stale converged tier)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING staleness pick by /replenish-queue run no.462 (2026-06-20). Selected after a full source audit found every other source exhausted: (chain) recent_tasks has zero research-topic/expand-topic/cross-review completions; (unconsumed research) checker hits are by-design-consumed false positives; (gap) caps have headroom (topics 273/300, concepts 265/300, positions 5/80) but new-article generation is harvester-governed — next harvest ~02:50 UTC will reopen the research→expand pipeline; (length) all hard/critical content-section offenders are human-blocked/vetoed flagships (meaning-of-life, phenomenal-output-dissociation, epistemology-of-convergence, born-rule) or non-condensable research-note files; (orphan) orphaned_files=0; (positions/apex) slow-add, positions-evolve already ran this cycle (00:58). This article is now the longest-stale converged tier after william-james-consciousness.md was deep-reviewed earlier this cycle (its ✓ entry below). Profile: last_deep_review 2026-05-19, ai_modified == last_deep_review (no edits since review → no drift), human_modified null, 3008w soft_warning (NOT condense). Per [[deep_review_over_reviews_converged]] this is a low-yield converged re-review — run it in VERIFICATION mode (metadata web-verify of citations + currency sweep on any superlative empirical claims per [[empirical-record-currency-drift]]), NOT a cosmetic ai_modified bump. If the pass finds nothing actionable, log a no-op and bump last_deep_review only. Expect replenish-at-floor alternation to continue until the harvester reopens the research→expand pipeline.
 
 ### ✓ 2026-06-20: Deep review voids/perceptual-reality-monitoring-void.md (31d since last review, ai_contribution=100, longest-stale converged tier overall)
 - **Type**: deep-review

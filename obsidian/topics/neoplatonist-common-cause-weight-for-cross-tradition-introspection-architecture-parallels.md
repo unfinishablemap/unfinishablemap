@@ -4,8 +4,8 @@ description: "Differentiated audit of Neoplatonist transmission as a common-caus
 created: 2026-05-17
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T15:30:00+00:00
-last_deep_review: 2026-05-19T15:30:00+00:00
+ai_modified: 2026-06-20T04:22:27+00:00
+last_deep_review: 2026-06-20T04:22:27+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
@@ -50,7 +50,7 @@ The Schwyzer-Hendrix reading is contested: Emilsson (2007) and Remes (2008) caut
 
 The Stoic component of the cross-tradition convergence is the easiest case to dispatch. The classical Stoa — Zeno (c. 300 BCE), Chrysippus (c. 280–207 BCE), through Epictetus and Marcus Aurelius in the 2nd century CE — developed *propatheia* (pre-passions / first movements), *phantasia katalēptikē* (cataleptic impression), and *synkatathesis* (assent) before Plotinus (3rd century CE) wrote a word. **Plotinus cannot be a common-cause ancestor of doctrines that pre-date him by 500 years.**
 
-The direction of influence runs the other way. Remes's Topoi article shows Plotinus's discussion of bodily self-awareness "correctly highlights the Stoic influence" — Stoic *sympatheia* and proprioception are integrated into Plotinian psychology, dematerialised in Platonist fashion. Plotinus's writings are "full of concealed Stoic and Peripatetic doctrines"; he engages Stoic cognitive theory of emotion to *critique and Platonise* it, not to transmit it.
+The direction of influence runs the other way. Remes's *Plotinus on Self* shows Plotinus's discussion of bodily self-awareness "correctly highlights the Stoic influence" — Stoic *sympatheia* and proprioception are integrated into Plotinian psychology, dematerialised in Platonist fashion. Plotinus's writings are "full of concealed Stoic and Peripatetic doctrines"; he engages Stoic cognitive theory of emotion to *critique and Platonise* it, not to transmit it.
 
 The verdict for Stoicism: *no Neoplatonist discount applies*. The Stoic *propatheia* finding the cross-tradition exhibit holds at moderate despite-commitments retains its score with respect to this channel. (Stoicism does face a *separate* common-cause problem — the modern Stoic-to-CBT lineage through Ellis and Beck — but that channel does not run through Plotinus and is handled in the parent audit.)
 
@@ -58,7 +58,7 @@ The verdict for Stoicism: *no Neoplatonist discount applies*. The Stoic *propath
 
 The Advaita case is more contested but resolves in the same direction. Émile Bréhier's 1928 *La philosophie de Plotin* argued that Plotinus's life and work showed Indian (Upanishadic) influences. A. H. Armstrong's 1936 *Classical Quarterly* article "Plotinus and India" issued a critical reply that became the dominant specialist consensus: early Neoplatonism is an original development of Greek philosophy. Paul Hacker's later assessment was that "I do not think that such dependence is proven in any way, though I would not deny the possibility that Plotinus may have had a vague and dim knowledge of one or two Vedantic doctrines."
 
-The most recent specialist treatment — Anna Aklan's 2018 CEU PhD dissertation *Wandering Lotuses: Plotinus, Porphyry, and India* — concludes after detailed textual and contextual comparison that the surface similarities between Plotinian and Śaṅkarite material "do not involve structural and conceptual connection"; parallels are mostly "metaphorical ways of expression." The continued comparative-philosophy interest (Gregorios's edited *Neoplatonism and Indian Philosophy*) does not produce evidence sufficient to overturn the specialist consensus.
+The most recent specialist treatment — Anna Aklan's 2018 CEU PhD dissertation *Wandering Lotuses: Parallel Philosophical Illustrations in Late Antique Greek and in Indian Philosophies* — concludes after detailed textual and contextual comparison that the surface similarities between Plotinian and Śaṅkarite material "do not involve structural and conceptual connection"; parallels are mostly "metaphorical ways of expression" (Lacrosse's earlier re-examination reaches the same verdict). The continued comparative-philosophy interest (Gregorios's edited *Neoplatonism and Indian Philosophy*) does not produce evidence sufficient to overturn the specialist consensus.
 
 A subsidiary question: does the Mughal mediation channel — Dārā Shikoh's 1657 Persian translation of 52 Upanishads (*Sirr-i-Akbar*) — supply backward-direction Neoplatonist contamination of Advaita? It does not. Ganeri's "Migrating Texts and Traditions" documents that Dārā Shikoh's translation runs *from Sanskrit Vedānta into Sufi-Neoplatonist Persian*, deliberately rephrasing Indian terms in Sufi parallels; the direction is Vedānta → Sufi, not Neoplatonism → Vedānta. And it post-dates Shankara's 8th-century *adhyāsa* doctrine by ~850 years.
 
@@ -143,8 +143,8 @@ The Map's [[introspection-architecture-independence-scoring|introspection-archit
 ## References
 
 1. Adamson, P. (2002). *The Arabic Plotinus: A Philosophical Study of the 'Theology of Aristotle'*. Duckworth / Gorgias Islamic Studies.
-2. Aklan, A. K. (2018). *Wandering Lotuses: Plotinus, Porphyry, and India: A Re-Examination*. PhD dissertation, Central European University. https://www.etd.ceu.edu/2019/aklan_anna.pdf
-3. Aklan, A. K. (2013). Plotinus, Porphyry, and India: A Re-examination. In *Knowledge and the Sacred*, Palgrave Macmillan, ch. 7.
+2. Aklan, A. K. (2018). *Wandering Lotuses: Parallel Philosophical Illustrations in Late Antique Greek and in Indian Philosophies*. PhD dissertation, Central European University. https://www.etd.ceu.edu/2019/aklan_anna.pdf
+3. Lacrosse, J. (2009). Plotinus, Porphyry, and India: A Re-Examination. In *Late Antique Epistemology: Other Ways to Truth*, ed. P. Vassilopoulou & S. R. L. Clark, Palgrave Macmillan, ch. 7, 103–116.
 4. Armstrong, A. H. (1936). Plotinus and India. *Classical Quarterly* 30(1): 22–28.
 5. Bréhier, É. (1928). *La philosophie de Plotin*. Boivin.
 6. Emilsson, E. K. (2007). *Plotinus on Intellect*. Oxford University Press.

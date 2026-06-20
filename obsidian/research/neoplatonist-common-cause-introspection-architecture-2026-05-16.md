@@ -3,7 +3,7 @@ title: "Research Notes - Neoplatonist Common-Cause Weight for Cross-Tradition In
 created: 2026-05-16
 modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-05-16T15:30:00+00:00
+ai_modified: 2026-06-20T04:22:27+00:00
 draft: false
 target_section: topics
 topics:
@@ -175,7 +175,7 @@ The Neoplatonist common-cause channel earns a **moderate** rating overall, with 
 
 ### Plotinus-Indian Influence Hypothesis — Bréhier vs Armstrong
 
-- **URLs**: https://link.springer.com/chapter/10.1057/9780230240773_7 (Aklan, "Plotinus, Porphyry, and India: A Re-Examination"); https://sunypress.edu/Books/N/Neoplatonism-and-Indian-Philosophy2 (Gregorios ed., *Neoplatonism and Indian Philosophy*); https://www.etd.ceu.edu/2019/aklan_anna.pdf
+- **URLs**: https://link.springer.com/chapter/10.1057/9780230240773_7 (Lacrosse, "Plotinus, Porphyry, and India: A Re-Examination", in *Late Antique Epistemology*, ed. Vassilopoulou & Clark, 2009); https://sunypress.edu/Books/N/Neoplatonism-and-Indian-Philosophy2 (Gregorios ed., *Neoplatonism and Indian Philosophy*); https://www.etd.ceu.edu/2019/aklan_anna.pdf (Aklan, *Wandering Lotuses*, CEU PhD)
 - **Type**: Specialist literature
 - **Key points**:
   - Émile Bréhier 1928: alleged Indian (Upanishadic) influences on Plotinus's life and works
@@ -292,7 +292,7 @@ The Neoplatonist common-cause channel earns a **moderate** rating overall, with 
 | 1936 | Armstrong's critical reply | Establishes the specialist consensus: Plotinian-Advaita parallels are not structural |
 | 1960 | Schwyzer "Bewusst und unbewusst bei Plotin" | Plotinus as "discoverer of the unconscious" |
 | 2002 | Adamson, *The Arabic Plotinus* | Definitive specialist account of the *Theology of Aristotle*'s mediation role |
-| 2018 | Aklan, "Plotinus, Porphyry, and India" (*Wandering Lotuses*, CEU PhD) | Detailed re-examination concludes no structural Plotinian-Śaṅkara influence |
+| 2018 | Aklan, *Wandering Lotuses* (CEU PhD) | Detailed re-examination concludes no structural Plotinian-Śaṅkara influence |
 
 ## Potential Article Angles
 
@@ -328,8 +328,8 @@ A *topics/neoplatonist-substrate-of-cross-tradition-convergence.md* article woul
 ## Citations
 
 1. Adamson, P. (2002). *The Arabic Plotinus: A Philosophical Study of the 'Theology of Aristotle'*. Duckworth / Gorgias Islamic Studies.
-2. Aklan, A. K. (2018). *Wandering Lotuses: Plotinus, Porphyry, and India: A Re-Examination*. PhD dissertation, Central European University.
-3. Aklan, A. K. (2013). Plotinus, Porphyry, and India: A Re-examination. In *Knowledge and the Sacred: Variations on a Theme of Émile Bréhier*, Palgrave Macmillan, ch. 7.
+2. Aklan, A. K. (2018). *Wandering Lotuses: Parallel Philosophical Illustrations in Late Antique Greek and in Indian Philosophies*. PhD dissertation, Central European University.
+3. Lacrosse, J. (2009). Plotinus, Porphyry, and India: A Re-Examination. In *Late Antique Epistemology: Other Ways to Truth*, ed. P. Vassilopoulou & S. R. L. Clark, Palgrave Macmillan, ch. 7, 103–116.
 4. Armstrong, A. H. (1936). Plotinus and India. *Classical Quarterly* 30(1): 22–28.
 5. Bréhier, É. (1928). *La philosophie de Plotin*. Boivin.
 6. Emilsson, E. K. (2007). *Plotinus on Intellect*. Oxford University Press.
@@ -391,7 +391,7 @@ A *topics/neoplatonist-substrate-of-cross-tradition-convergence.md* article woul
 - [Plotinus on the Emotions](https://link.springer.com/chapter/10.1007/978-94-015-9082-2_12)
 - [Augustine and the Cognitive Cause of Stoic Preliminary Passions](https://www.academia.edu/3294401/Augustine_and_the_Cognitive_Cause_of_Stoic_Preliminary_Passions_Propatheiai_)
 - [Plotinus and Sankara: Where do they meet?](https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc70724.html)
-- [Plotinus, Porphyry, and India: A Re-Examination – Springer](https://link.springer.com/chapter/10.1057/9780230240773_7)
+- [Lacrosse, Plotinus, Porphyry, and India: A Re-Examination – Springer](https://link.springer.com/chapter/10.1057/9780230240773_7)
 - [Aklan, *Wandering Lotuses* (CEU PhD)](https://www.etd.ceu.edu/2019/aklan_anna.pdf)
 - [Neoplatonism and Indian Philosophy – SUNY Press](https://sunypress.edu/Books/N/Neoplatonism-and-Indian-Philosophy2)
 - [Dara Shikoh – Wikipedia](https://en.wikipedia.org/wiki/Dara_Shikoh)
