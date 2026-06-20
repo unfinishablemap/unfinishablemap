@@ -107,13 +107,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-20
 
-### P2: Deep review topics/moral-implications-of-genuine-agency.md (~3-week stale + unverified 2026-06-02 calibration)
-- **Type**: deep-review
-- **File**: obsidian/topics/moral-implications-of-genuine-agency.md
-- **Notes**: FLOOR-RESTORING genuine-drift mint (2026-06-20). VERIFIED before minting: last_deep_review 2026-06-01 (real review, ~3 weeks stale) + unverified own-body refine commit `24c739e74 auto(refine-draft): Adopt consciousness-value-connection calibration` (2026-06-02, untouched since → 3-week-old unverified calibration). Not a fresh-create (created 2026-02-23). This review must: (a) confirm the consciousness-value-connection calibration is correctly applied — moral/agency/virtue-ethics claims must read as argued framework register per [[evidential-status-discipline]], not established (the agent-causation→virtue-ethics inference esp. must not over-assert). (b) Web-verify ALL external citations 3-state at publisher of record (authors/venue/volume/issue/pages/year; verify author VECTOR; verify QUOTED strings VERBATIM — this session caught fabricated-Kim-quote + Merleau-Ponty misquote prior reviews false-cleaned; inline↔References both directions, no orphan refs) per [[ai_citation_metadata_unreliable]]; grep author/year divergence across corpus; watch ethics/free-will literature (Kane, Fischer, Frankfurt, Wolf, Strawson, Aristotle/virtue-ethics secondary sources). (c) Currency sweep ([[empirical-record-currency-drift]]); no banned "This is not X. It is Y." construct. **LENGTH:** analyze_length=3653w soft_warning (topics soft 3000/hard 4000, ~347w headroom) — NOT a condense candidate but limited headroom; length-neutral-to-trimming. On a converged no-op after REAL scrutiny (do NOT trust the refine stamp), stamp last_deep_review WITHOUT bumping ai_modified; if a body fix is made, bump both (keep ≤4000). Confirmed no open duplicate (not-queued check clean), not vetoed.
-- **Source**: staleness
-- **Generated**: 2026-06-20
-
 ### P2: Deep review topics/parsimony-case-for-interactionist-dualism.md (14-day stale + unverified 2026-06-08 Tenet-5 title-note)
 - **Type**: deep-review
 - **File**: obsidian/topics/parsimony-case-for-interactionist-dualism.md
@@ -1173,6 +1166,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Deep review topics/moral-implications-of-genuine-agency.md (~3-week stale + unverified 2026-06-02 calibration)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING genuine-drift mint (2026-06-20). VERIFIED before minting: last_deep_review 2026-06-01 (real review, ~3 weeks stale) + unverified own-body refine commit `24c739e74 auto(refine-draft): Adopt consciousness-value-connection calibration` (2026-06-02, untouched since → 3-week-old unverified calibration). Not a fresh-create (created 2026-02-23). This review must: (a) confirm the consciousness-value-connection calibration is correctly applied — moral/agency/virtue-ethics claims must read as argued framework register per [[evidential-status-discipline]], not established (the agent-causation→virtue-ethics inference esp. must not over-assert). (b) Web-verify ALL external citations 3-state at publisher of record (authors/venue/volume/issue/pages/year; verify author VECTOR; verify QUOTED strings VERBATIM — this session caught fabricated-Kim-quote + Merleau-Ponty misquote prior reviews false-cleaned; inline↔References both directions, no orphan refs) per [[ai_citation_metadata_unreliable]]; grep author/year divergence across corpus; watch ethics/free-will literature (Kane, Fischer, Frankfurt, Wolf, Strawson, Aristotle/virtue-ethics secondary sources). (c) Currency sweep ([[empirical-record-currency-drift]]); no banned "This is not X. It is Y." construct. **LENGTH:** analyze_length=3653w soft_warning (topics soft 3000/hard 4000, ~347w headroom) — NOT a condense candidate but limited headroom; length-neutral-to-trimming. On a converged no-op after REAL scrutiny (do NOT trust the refine stamp), stamp last_deep_review WITHOUT bumping ai_modified; if a body fix is made, bump both (keep ≤4000). Confirmed no open duplicate (not-queued check clean), not vetoed.
 
 ### ✓ 2026-06-20: Deep review topics/deep-computational-markers-for-machine-consciousness.md (FRESH-CREATE never genuinely deep-reviewed; create-stamp last_deep_review)
 - **Type**: deep-review
