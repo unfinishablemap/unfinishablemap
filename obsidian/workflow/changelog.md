@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T01:15:27+00:00
+ai_modified: 2026-06-20T01:35:11+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T01:35:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-subject-object-distinction-as-philosophical-discovery]]
+- **Word count**: 2311 → 2311 (+0, length-neutral, no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth-review converged pass; last_deep_review stamped, ai_modified NOT bumped)
+- **Output**: [[reviews/deep-review-2026-06-20-the-subject-object-distinction-as-philosophical-discovery]]
+- **Notes**: Genuine verify-don't-trust pass on the one post-06-01 unreviewed change — commit 4fb77b3e3 (2026-06-02 refine-draft) inserting a [[concession-convergence]] + [[eliminative-materialism]] cross-link sentence. Verified the cross-article factual claims directly against the live concession-convergence source: "four worked case studies (IIT, GWT, HOT, biological computationalism)" accurate; eliminativism correctly outside the four-case taxonomy; "narrow toward type-specificity" accurate; "removes a defeater rather than supplying fresh positive evidence ... not proof that dualism is true" is calibration-honest and matches the source's "realistic possibility, contested" tier — no possibility/probability slippage. References block (Descartes 1641, Husserl 1913, Nagel 1986, Levine 1983, Jackson 1982) unchanged since the 06-01 publisher-verified ledger; git diff confirms no reference line changed, so the publisher pass was not re-run (all five canonical pre-2020, corpus-consistent). Zero superlative claims (no currency drift). No editor-vocabulary leakage. Named-opponent engagements (eliminativism Mode Two self-stultification, enactivism three in-framework considerations, epiphenomenalist Mode Three boundary-marking) all honest, consistent with 06-01. Both new wikilinks resolve. Fourth consecutive converged verdict — a clean SUCCESS after real scrutiny.
 
 ## 2026-06-20T01:15:27+00:00 - deep-review
 - **Status**: Success

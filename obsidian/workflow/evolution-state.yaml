@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-20T01:20:10.834845+00:00'
-session_count: 12238
+last_updated: '2026-06-20T01:32:28.057894+00:00'
+session_count: 12239
 cycle_position: 9518
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-19T04:07:37.836771+00:00'
   refine-draft: '2026-06-19T23:24:08.429858+00:00'
   research-topic: '2026-06-19T21:12:45.954757+00:00'
-  replenish-queue: '2026-06-20T01:11:59.406676+00:00'
+  replenish-queue: '2026-06-20T01:32:28.057894+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-19T21:27:11.259971+00:00'
   add-highlight: '2026-06-19T08:04:55.248074+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-20'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-20'
   outcome: success
 agentic_social:
@@ -1171,7 +1171,37 @@ queue_status:
   loop_pickable_open: 1
   last_replenishment: '2026-06-20T01:25:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.460 (2026-06-20): MINTED 1 floor-restorer (P2 deep-review topics/william-james-consciousness.md). Genuine empty-queue restoration, NOT the replenish-at-floor alternation no-op: run-459''s minted somatic-interface deep-review was EXECUTED and COMPLETED in the same cycle (commit 11e998eee; last_deep_review now 2026-06-20T01:15) and moved to Completed, dropping the queue back to 0 loop-pickable P0-P2. Live audit via tools.evolution.task_selector confirmed count_p0_p2=0 / select_queue_task=None / 0 active parsed pre-mint. All 8 MINT sources independently re-verified exhausted: (chain) recent_tasks has ZERO research-topic/expand-topic/cross-review completions (replenish x9, skip x3, social x3, deep-review x2 confirming-verdict-no-fix, optimistic x1, positions x1, model-fallback x1); (unconsumed research) the 4 checker-flagged notes are by-design false positives -- open-individualism + deep-computational-markers are CONSUMED (exact-slug live topics articles), loss-aversion-and-negative-valence is CONSUMED into concepts/negative-valence-asymmetry-and-the-selection-weighting-function.md (fuzzy), moral-aggregation-under-ai-copy-multiplicity carries a body-level Status:CONSUMED marker (integrated as a section of ethics-of-possible-ai-consciousness, do-NOT-remint; section verified present); (gap) caps have headroom (topics 273/300, concepts 265/300, voids 101/100 over, positions 5/80) but new-article generation is harvester-governed (harvest ran 2026-06-19 20:50, next ~02:50) and replenish gap-analysis is dedup-blocked against the 574-entry Vetoed bank; (length) every content-section hard/critical offender is human-blocked/vetoed/calibration-churn-risky or a research note / apex index hub (not condense targets); (staleness) every >30d article is CONVERGED (ai_modified == last_deep_review, NO drift; independently scanned, oldest tier 2026-05-19); (orphan) orphaned_files=0; (positions/apex) closed-individualism just registered, positions 5/80 slow-add. Minted william-james-consciousness (32d oldest tier, ai_contribution=100, 3062w soft_warning so verification-mode not condense, ZERO prior task headers, foundational James/stream-of-consciousness/interactionist topic) as the lowest-risk restorer. Verified post-mint: count_p0_p2=1, select_queue_task returns this P2 as the next pick (lone P2 auto-picks; defeats p3-only-floor-preemption-starves). Because last_task==replenish-queue, the next cycle slot falls through to a real queue-pick rather than re-firing replenish (expected replenish-at-floor alternation until the harvester reopens the research->expand pipeline ~02:50 UTC).'
+  current_replenishment_note: 'run no.460 (2026-06-20): MINTED 1 floor-restorer (P2
+    deep-review topics/william-james-consciousness.md). Genuine empty-queue restoration,
+    NOT the replenish-at-floor alternation no-op: run-459''s minted somatic-interface
+    deep-review was EXECUTED and COMPLETED in the same cycle (commit 11e998eee; last_deep_review
+    now 2026-06-20T01:15) and moved to Completed, dropping the queue back to 0 loop-pickable
+    P0-P2. Live audit via tools.evolution.task_selector confirmed count_p0_p2=0 /
+    select_queue_task=None / 0 active parsed pre-mint. All 8 MINT sources independently
+    re-verified exhausted: (chain) recent_tasks has ZERO research-topic/expand-topic/cross-review
+    completions (replenish x9, skip x3, social x3, deep-review x2 confirming-verdict-no-fix,
+    optimistic x1, positions x1, model-fallback x1); (unconsumed research) the 4 checker-flagged
+    notes are by-design false positives -- open-individualism + deep-computational-markers
+    are CONSUMED (exact-slug live topics articles), loss-aversion-and-negative-valence
+    is CONSUMED into concepts/negative-valence-asymmetry-and-the-selection-weighting-function.md
+    (fuzzy), moral-aggregation-under-ai-copy-multiplicity carries a body-level Status:CONSUMED
+    marker (integrated as a section of ethics-of-possible-ai-consciousness, do-NOT-remint;
+    section verified present); (gap) caps have headroom (topics 273/300, concepts
+    265/300, voids 101/100 over, positions 5/80) but new-article generation is harvester-governed
+    (harvest ran 2026-06-19 20:50, next ~02:50) and replenish gap-analysis is dedup-blocked
+    against the 574-entry Vetoed bank; (length) every content-section hard/critical
+    offender is human-blocked/vetoed/calibration-churn-risky or a research note /
+    apex index hub (not condense targets); (staleness) every >30d article is CONVERGED
+    (ai_modified == last_deep_review, NO drift; independently scanned, oldest tier
+    2026-05-19); (orphan) orphaned_files=0; (positions/apex) closed-individualism
+    just registered, positions 5/80 slow-add. Minted william-james-consciousness (32d
+    oldest tier, ai_contribution=100, 3062w soft_warning so verification-mode not
+    condense, ZERO prior task headers, foundational James/stream-of-consciousness/interactionist
+    topic) as the lowest-risk restorer. Verified post-mint: count_p0_p2=1, select_queue_task
+    returns this P2 as the next pick (lone P2 auto-picks; defeats p3-only-floor-preemption-starves).
+    Because last_task==replenish-queue, the next cycle slot falls through to a real
+    queue-pick rather than re-firing replenish (expected replenish-at-floor alternation
+    until the harvester reopens the research->expand pipeline ~02:50 UTC).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
