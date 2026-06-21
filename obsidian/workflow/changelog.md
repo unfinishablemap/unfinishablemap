@@ -5,6 +5,17 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T19:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/somatic-interface]]
+- **Source**: addresses [[reviews/pessimistic-2026-06-21d-somatic-interface]] (2 medium + 1 low)
+- **Changes**:
+  - Issue 1 (MEDIUM, dissociation-to-irreducibility non-sequitur): line 52 vmPFC gloss softened from "information that abstract cognition cannot replicate" to "information that deliberative cognition does not, in these patients, recover" (claim about the patients, not in-principle irreducibility); Christina/proprioception subsection given the parity gloss used elsewhere ("materialism reads this as modular neural architecture; the interface reading redescribes the same modularity as channel structure").
+  - Issue 2 (MEDIUM, "adds a further claim" interpretive-equivocation): added one governing sentence after the intro framing paragraph stating the somatic data are neutral between readings and the interface reading's appeal is theoretical economy *given* the hard problem assumed elsewhere, not independent confirmation from the body. Governs all five "adds"/"highlights what the account leaves open" loci (incl. the line-84 vestibular case noted in the review's Unsupported Claims table).
+  - Issue 3 (LOW, self-cancelling MQI paragraph): dropped the unearned "most phenomenologically visible" superlative (no comparison to other loci justified it) → "one candidate locus where this biasing might be phenomenologically legible," and folded the self-cancelling speculative clause into a single honest statement that no distinctive-visibility claim is asserted.
+- **Length discipline**: net +1 governing sentence + 1 half-sentence parity gloss; MQI paragraph trimmed. Length-neutral-to-slight-addition as instructed. Citations preserved verbatim.
+- **Published**: yes (kept draft: false)
+
 ## 2026-06-21T21:30:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/somatic-interface.md` (load-bearing embodiment anchor; older `claude-opus-4-6` create; no dedicated pessimistic pass since 2026-05-17)
