@@ -5,6 +5,19 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T06:31:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Context**: Genuine-drift verification of the 2026-06-20 `auto(refine-draft)` calibration commit (`fc48e2c22`) — ai_modified bumped, last_deep_review not, so new content was unverified. Audited the new dissociation-fractionation sub-argument (line 105) + the dream-evidence import (line 150).
+- **Word count**: 3474 → 3515 (+41, modest; ~485w under the 4000 hard threshold)
+- **Critical issues addressed**: 1 (garbled clinical attribution to Gallagher & Zahavi 2012 — the article invented a three-way initiation/control/ownership dissociation the source does not make and mischaracterised anarchic hand syndrome; corrected to the source-faithful two-way agency/ownership dissociation, both conditions = ownership intact / agency disrupted; corpus-consistent with [[phenomenology-of-choice-and-volition]])
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification pass; preserved the two clean 2026-06-20 calibrations — dream-import hedge and falsifiability third-person-empirical note)
+- **Citation web-verify**: Gallagher & Zahavi 2012 — real-correct metadata, content-attribution corrected; Wegner 2002, Schwitzgebel 2011 — real-correct; dream stat (Konkoly et al. 2026 niaf067, N=20) — hedge-accurate to source caveats. inline↔References reciprocity PASS, no orphans. No Wiest/Khan-2024 eNeuro cite present (not invented). No superlative-currency defect.
+- **Reasoning-mode**: eliminativist engagement Mixed (Mode Two→Three), strengthened by the corrected source-faithful clinical claim; compatibilist + MWI Mode Three. No label leakage. No "This is not X. It is Y." cliché.
+- **Frontmatter**: ai_modified + last_deep_review → 2026-06-21T06:31:40+00:00 (body fix made, so both bumped).
+- **Output**: [[reviews/deep-review-2026-06-21-free-will]]
+
 ## 2026-06-21T06:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/cross-modal-capability-division]]

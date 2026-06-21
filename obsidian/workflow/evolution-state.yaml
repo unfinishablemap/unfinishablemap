@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T06:18:03.141479+00:00'
-session_count: 12537
+last_updated: '2026-06-21T06:27:03.658013+00:00'
+session_count: 12538
 cycle_position: 9642
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T05:53:53.135353+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
-  replenish-queue: '2026-06-21T06:02:05.508767+00:00'
+  replenish-queue: '2026-06-21T06:27:03.658013+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-20T22:35:01.433959+00:00'
   add-highlight: '2026-06-20T08:13:18.459592+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-gemini-review
-  type: commission-gemini-review
-  date: '2026-06-21'
-  outcome: failed
 - task: collect-claude-review
   type: collect-claude-review
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1235,45 +1235,46 @@ queue_status:
     disk-verified consumed into live articles); gap (caps have headroom but harvester-governed
     + Vetoed-bank dedup-blocked); length (every hard/critical offender is human-deferred
     calibration-protected, veto/accept-as-survey, index hub, or a research working
-    note -- no safe condense); orphan (orphaned_files=0); positions/apex slow-add (the
-    4 positions files a raw last_deep_review scan calls never-reviewed are FALSE positives
-    -- positions track in-body Last-reviewed via positions-evolve, out of deep-review
-    scope); fresh-create (ZERO never-deep-reviewed content articles remain). Minted
-    ONE grounded deep-review: topics/free-will.md, a SECOND genuine own-body drift exception
-    distinct from the comparing-quantum P2 already queued by no.479. free-will was last
-    deep-reviewed 2026-06-04 (ai_system claude-opus-4-5, older model) but substantively
-    own-body content-edited 2026-06-20 by commit fc48e2c22 (auto refine-draft -- Calibrate
-    dream-evidence import + four independent tricks): git-verified a REAL argumentative
-    calibration (reworked the volitional-phenomenology anti-eliminativist argument from
-    four-independent-tricks to several-separately-fracturable-ones, adding a NEW schizophrenia-initiation
-    / anarchic-hand-control dissociation-fractionation sub-argument citing Gallagher
-    and Zahavi 2012; calibrated the dream-problem-solving evidence to suggestive-and-contested
-    with a small-lucid-dreamer-sample / not-independently-replicated hedge; added a
-    third-person-empirical-falsifier framing linking to agency-void). A refine bumps
-    ai_modified NOT last_deep_review so the calibration is UNVERIFIED (coalesce-hides-review-debt
-    sibling). The higher-day-count drift candidates were each git-audited and rejected
-    as cosmetic cross-touch artifacts (indexical-identity, self-construction-constructor,
-    agency-vs-passivity, dual-domain-proprioception, consciousness-and-memory, luck-objection,
-    normativity-of-reason, capability-division-in-vision, combination-problem -- all
-    sibling expand/embed/cross-link touches not own-body edits). Task notes steer VERIFICATION
-    mode: confirm the dissociation-fractionation argument is calibrated as abductive
-    evidence not proof per evidential-status-discipline (Tenet 1 Dualism + Tenet 3 Bidirectional-Interaction
-    load-bearing); CITATION-SWEEP 3-state at publisher of record especially the newly-load-bearing
-    Gallagher and Zahavi 2012, Wegner 2002, Schwitzgebel 2011, and the contested dream-incorporation
+    note -- no safe condense); orphan (orphaned_files=0); positions/apex slow-add
+    (the 4 positions files a raw last_deep_review scan calls never-reviewed are FALSE
+    positives -- positions track in-body Last-reviewed via positions-evolve, out of
+    deep-review scope); fresh-create (ZERO never-deep-reviewed content articles remain).
+    Minted ONE grounded deep-review: topics/free-will.md, a SECOND genuine own-body
+    drift exception distinct from the comparing-quantum P2 already queued by no.479.
+    free-will was last deep-reviewed 2026-06-04 (ai_system claude-opus-4-5, older
+    model) but substantively own-body content-edited 2026-06-20 by commit fc48e2c22
+    (auto refine-draft -- Calibrate dream-evidence import + four independent tricks):
+    git-verified a REAL argumentative calibration (reworked the volitional-phenomenology
+    anti-eliminativist argument from four-independent-tricks to several-separately-fracturable-ones,
+    adding a NEW schizophrenia-initiation / anarchic-hand-control dissociation-fractionation
+    sub-argument citing Gallagher and Zahavi 2012; calibrated the dream-problem-solving
+    evidence to suggestive-and-contested with a small-lucid-dreamer-sample / not-independently-replicated
+    hedge; added a third-person-empirical-falsifier framing linking to agency-void).
+    A refine bumps ai_modified NOT last_deep_review so the calibration is UNVERIFIED
+    (coalesce-hides-review-debt sibling). The higher-day-count drift candidates were
+    each git-audited and rejected as cosmetic cross-touch artifacts (indexical-identity,
+    self-construction-constructor, agency-vs-passivity, dual-domain-proprioception,
+    consciousness-and-memory, luck-objection, normativity-of-reason, capability-division-in-vision,
+    combination-problem -- all sibling expand/embed/cross-link touches not own-body
+    edits). Task notes steer VERIFICATION mode: confirm the dissociation-fractionation
+    argument is calibrated as abductive evidence not proof per evidential-status-discipline
+    (Tenet 1 Dualism + Tenet 3 Bidirectional-Interaction load-bearing); CITATION-SWEEP
+    3-state at publisher of record especially the newly-load-bearing Gallagher and
+    Zahavi 2012, Wegner 2002, Schwitzgebel 2011, and the contested dream-incorporation
     statistic (ai_citation_metadata_unreliable + citation-verify-false-negative BOTH
     directions; empirical-record-currency-drift on the dream study); no banned cliche.
     LENGTH: canonical analyze_length body=3474w status=soft_warning (topics soft 3000
     / hard 4000), ~526w headroom under hard but free-will is a flagship length-ceiling
-    concern -- keep net additions modest, DIVERT genuine expansion to human length decision
-    (human-decision-task-mispicked-as-refine). On converged no-op stamp last_deep_review
-    WITHOUT bumping ai_modified; if a cite/body fix is made bump both. Deep-review modifies
-    existing content so cap-safe. Inserted at top of Active Tasks to defeat LIFO; existing
-    2 P2 + 2 P3 not starved. Verified post-write: count_p0_p2_tasks=3 (floor met) and
-    select_queue_task returns the new task as next pick. Expect alternation to continue
-    until the harvester reopens the research->expand pipeline.'
-  superseded480_replenishment_note: 'run no.480 (2026-06-21): FLOOR-RESTORING grounded single-mint.
-    Pre-run count_p0_p2_tasks=2 (floor 3 unmet by 1 -- replenish-at-floor alternation,
-    unfin_loop_steady_state, NOT the fixed deadlock). The clinical-neuroplasticity
+    concern -- keep net additions modest, DIVERT genuine expansion to human length
+    decision (human-decision-task-mispicked-as-refine). On converged no-op stamp last_deep_review
+    WITHOUT bumping ai_modified; if a cite/body fix is made bump both. Deep-review
+    modifies existing content so cap-safe. Inserted at top of Active Tasks to defeat
+    LIFO; existing 2 P2 + 2 P3 not starved. Verified post-write: count_p0_p2_tasks=3
+    (floor met) and select_queue_task returns the new task as next pick. Expect alternation
+    to continue until the harvester reopens the research->expand pipeline.'
+  superseded480_replenishment_note: 'run no.480 (2026-06-21): FLOOR-RESTORING grounded
+    single-mint. Pre-run count_p0_p2_tasks=2 (floor 3 unmet by 1 -- replenish-at-floor
+    alternation, unfin_loop_steady_state, NOT the fixed deadlock). The clinical-neuroplasticity
     P2 counted by run no.479 was executed/closed since, dropping live count back to
     2 (the p2_tasks: 3 above is stale from no.479). All generative sources independently
     re-audited and confirmed exhausted: chain (no research/expand/cross-review completions
