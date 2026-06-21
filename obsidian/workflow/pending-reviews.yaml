@@ -426,3 +426,29 @@
   subject_articles:
   - topics/consciousness-interface-development.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-20-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a374696-30b4-8332-855f-4ff42c445944
+  commissioned_at: '2026-06-21T02:04:29.010446+00:00'
+  prompt_summary: Audit cross-domain-void-comparison
+  target_filename: outer-review-2026-06-21-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophy platform defending a dualist,\
+    \ bidirectional consciousness-physics model. Focus on this article: https://unfinishablemap.org/topics/cross-domain-void-comparison/\
+    \ \u2014 last substantively revised on 2026-06-14 (search engines have had time\
+    \ to re-index). Audit its central claims, the quality and currency of its citations,\
+    \ its coverage of obvious counterarguments, and how well it integrates with surrounding\
+    \ articles. Look specifically for: insufficiently supported claims, missed objections,\
+    \ places where dualism is protected by question-begging or selective bracketing,\
+    \ and stale or misattributed references. Use web search to verify factual and\
+    \ citation claims; the site changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ lists recent edits your index may not yet reflect. End your report with a list\
+    \ of concrete potential improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit cross-domain-void-comparison
+  subject_articles:
+  - topics/cross-domain-void-comparison.md
+  subject_source: fallback:recent-aged
