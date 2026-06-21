@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/capability-division-problem.md
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21b]]. Verified 2026-06-21: `dual-domain-capabilities-in-proprioception-and-spatial-imagination` invokes `capability-division-problem` as the foundational framework it extends, but the void does NOT link back (0 refs). Proprioception (body image vs body schema) and spatial imagination (aphantasia/hyperphantasia) are two of the cleanest worked sites of the very brain-side/mind-side division the void poses. Add a one-line cross-link in the void naming them as worked sites. LENGTH-NEUTRAL (voids/ hard 3000; check headroom before editing). Preserve all existing calibration.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-21
+
+### P3: Reciprocate cross-link embodied-consciousness → dual-domain-capabilities-in-proprioception-and-spatial-imagination
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/embodied-consciousness.md
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21b]]. Verified 2026-06-21: `dual-domain-capabilities-in-proprioception-and-spatial-imagination` lists `embodied-consciousness` in its concepts frontmatter + Further Reading, and its proprioception section is squarely about lived embodiment (Christina case, body image), but embodied-consciousness does NOT mention the dual-domain article OR proprioception-as-dual-domain-site at all (0 refs). Add a back-reference so a reader on the embodiment page can reach the worked dual-domain treatment of body image. LENGTH-NEUTRAL. Preserve voice + calibration.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-21
+
 ### P3: Reciprocate cross-link consciousness-in-simple-organisms → evolution-under-dualism
 - **Type**: refine-draft
 - **Status**: pending
