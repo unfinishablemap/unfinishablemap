@@ -4,7 +4,7 @@ description: "Interoception completes the Map's modality survey inward and break
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-06-20T18:30:00+00:00
+ai_modified: 2026-06-21T22:40:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -105,6 +105,7 @@ The Map does not claim interoception settles dualism. It claims that completing 
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
 - [[consciousness-and-the-ownership-problem]]
 - [[somatic-interface]]
+- [[vestibular-consciousness-and-the-interface]] — the other continuously active, rarely felt sense; it inverts the series on a different axis, contributing the spatial frame of experience rather than affect and ownership
 
 ## References
 

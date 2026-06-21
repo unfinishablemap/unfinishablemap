@@ -5,6 +5,18 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T22:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Vestibular consciousness and the interface
+- **Output**: [[topics/vestibular-consciousness-and-the-interface]]
+- **Word count**: 2977 (99% of topics 3000 soft target; status ok, well under 4000 hard ceiling)
+- **Based on research**: yes — [[research/vestibular-consciousness-and-the-interface-2026-06-21]] (explicit WRITE verdict)
+- **Distinctive angle**: the silent sense — disputed/absent proprietary phenomenology + no primary unisensory cortex, yet foundational to the felt spatial self (self-location, first-person perspective, ownership); inverts the series by contributing the *frame* of experience while barely appearing as an experienced object.
+- **Citation discipline**: ALL 7 external citations web-verified at publisher of record before publishing per [[ai_citation_metadata_unreliable]] — de Vignemont SEP "Bodily Awareness" (rev. 2024; 3 verbatim quotes confirmed), Pfeiffer/Serino/Blanke 2014 Front. Integr. Neurosci. 8:31 (no-unisensory-cortex quote verbatim-confirmed), Blanke & Arzy 2005 Neuroscientist 11(1):16–24, Lopez/Lenggenhager/Blanke 2010 Conscious. Cogn. 19(1):33–47, Laurens & Droulez 2007 Biol. Cybern. 96(4):389–404, Blanke 2012 Nat. Rev. Neurosci. 13(8):556–571, Cento et al. 2026 J. Vestibular Research (journal name confirmed). The note's HTTP-403 OECS/MIT entry was DROPPED (not cited). Naturalist sources engaged as rivals to out-accommodate, none conscripted.
+- **Calibration**: accommodation-not-proof register matched to the tactile/interoceptive siblings; per-file evaluate_anchoring returned no flags; validate clean.
+- **Integration chain**: reciprocal inbound links added — tactile article (stale "vestibular awaits treatment" prose updated + Further Reading entry) and interoceptive article (Further Reading entry); both `ai_modified` bumped. Queued P2 apex-evolve follow-on to consider admitting vestibular as a 7th source to cross-modal-capability-division (apex-evolve owns that decision; expand-topic must not edit apex-articles.md).
+- **Tenet alignment**: Tenet 1 (Dualism — a modality with disputed phenomenology is a clean phenomenal-structure exhibit, isolating the felt-point-of-view residue) + Tenet 3 (Bidirectional Interaction — motor-prediction in self-motion estimation), Tenets 2/4 obliquely. No "This is not X. It is Y." construct.
+
 ## 2026-06-21T22:27:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
