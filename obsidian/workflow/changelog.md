@@ -5,6 +5,17 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T05:52:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Source**: P2 pessimistic-review 2026-06-21 ([[reviews/pessimistic-2026-06-21-clinical-neuroplasticity]]) — two verified findings, one coherent editor pass. Length-neutral mode.
+- **Changes**:
+  - (1) Internal calibration mismatch FIXED. "Relation to Site Perspective" (line 122) reasserted an anti-causal-closure inference ("if the physical domain were causally closed, there would be no reason for top-down and bottom-up routes to diverge systematically") that the body's own §Route versus Direction (line 64) and §Convergence (line 100) explicitly retire. Brought the conclusion down to the body's calibrated standard: route divergence per se is expected from input anatomy; what bears on causal closure is the *preferential directional* signature, read as compatible-with / suggestive-of (not establishing) a type-difference, with the input-modality deflation declined rather than refuted. Tenet-3 commitment preserved — single-sentence reword, not a retraction.
+  - (2) Citation metadata FIXED (real-paper-wrong-metadata 3-state → correct). Reference 18: first author "Perez, J." → "Perez, G. M." (lead author Gianna M. Perez). Appended doi:10.1016/j.nicl.2025.103874 (NeuroImage: Clinical 2025, PMID 40886591). Inline "(Perez et al., 2025)" mentions (lines 56, 100) left as-is (et al. form correct). The 302-subjects / 18-experiments / right-amygdala-convergence figures left untouched — web-verified correct.
+- **Preserved**: Yuan 2022, Goyal 2014, Schwartz 1996 cites (web-verified correct); convergence down-counting; altered-state symmetry; defeater-removal discipline.
+- **Word count**: 3304 → 3344 (+40; soft_warning, 111% of 3000 soft, ~656w under 4000 hard — length-neutral)
+- **Published**: yes (kept draft: false)
+
 ## 2026-06-21T05:48:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/lucid-dreaming-and-dualist-rendering]]

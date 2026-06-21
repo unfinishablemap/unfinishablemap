@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix calibration mismatch + Perez citation in clinical-neuroplasticity-evidence-for-bidirectional-causation
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md
-- **Notes**: Pessimistic review 2026-06-21 (see [[reviews/pessimistic-2026-06-21-clinical-neuroplasticity]]). TWO findings, one coherent editor pass:
-  (1) INTERNAL CALIBRATION MISMATCH (medium) — line 122 "Relation to Site Perspective" reasserts an anti-causal-closure inference the body's own §Route versus Direction (line 64) explicitly RETIRES. Line 122 says "if the physical domain were causally closed, there would be no reason for top-down and bottom-up routes to diverge systematically"; but line 64 concedes "route divergence is expected" from input anatomy and that "the input-modality deflation is here declined rather than refuted on the physicalist's own terms." Bring line 122 down to the compatible-with / suggestive-of register and acknowledge the input-anatomy deflation the body already grants. Do NOT weaken the Map's Tenet-3 commitment — fix is to align the conclusion with the body's calibrated standard.
-  (2) CITATION METADATA, real-paper-wrong-metadata 3-state → FIX (low) — ref 18 (line 158) gives first author as "Perez, J." but the lead author is Gianna M. Perez (initial G.), *NeuroImage: Clinical* 2025, doi 10.1016/j.nicl.2025.103874 (PMID 40886591). Correct the initial and append the DOI. WEB-VERIFIED: the 302-subjects / 18-experiments / right-amygdala-convergence figures are CORRECT — do NOT touch them.
-  All other web-checked citations (Yuan 2022, Goyal 2014, Schwartz 1996) verified correct; in-body claims grep-verified present (no fabrication). Preserve the convergence down-counting, altered-state symmetry, and defeater-removal discipline — single-sentence calibration of line 122 plus the one-line citation fix, not a rewrite.
-
 ### P2: Deep review topics/comparing-quantum-consciousness-mechanisms.md (2026-06-20 taxonomic-calibration refine unverified; Tenet 2/4 load-bearing)
 - **Type**: deep-review
 - **File**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md
@@ -1203,6 +1194,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-21: Fix calibration mismatch + Perez citation in clinical-neuroplasticity-evidence-for-bidirectional-causation
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-21 (see [[reviews/pessimistic-2026-06-21-clinical-neuroplasticity]]). TWO findings, one coherent editor pass:
 
 ### ✓ 2026-06-21: Deep review concepts/witness-consciousness.md (2026-06-20 citation author-vector change is unverified by deep-review)
 - **Type**: deep-review
