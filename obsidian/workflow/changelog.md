@@ -5,6 +5,15 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T11:38:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Task**: Reciprocate cross-link → [[evolution-under-dualism]] (the down-link was 2-way; up-link was 0). Verified evolution-under-dualism links DOWN twice (frontmatter + Further Reading) and holds the canonical Fixed Domain / Co-Evolution / Unfolding taxonomy.
+- **Changes**: Added a back-link to [[evolution-under-dualism]] in the "Distribution Problem" / Interface-dualism paragraph, framing the *C. elegans*–Hydra–slime-mould ladder as that taxonomy's empirical proving ground at the lower limit. All evidential-status hedges and the "no coupling" parsimony framing preserved.
+- **Word count**: 4025 → 4022 (NET -3; word-neutral-or-trimming honoured under the over-hard length constraint). The ~37-word taxonomy clause was absorbed by tightening surrounding Distribution-Problem prose (universal-coupling sentence, interface-efficacy clause, neural-correlates mirror, marginal-organism sentence, gradualism/threshold/panpsychist one-liners) without losing substance.
+- **Length note**: File remains over the topics 4000 hard ceiling (pre-existing human-length-decision condition, was 4025 before this pass). Did NOT push it deeper; could not bring it fully under 4000 without substantive cuts beyond this targeted cross-link's scope, so left at 4022 (net-trimmed) per the constraint's word-neutral-or-trimming requirement.
+- **Published**: yes
+
 ## 2026-06-21T11:24:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/open-question-ai-consciousness]]
