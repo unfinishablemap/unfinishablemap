@@ -5,6 +5,23 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T05:20:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/witness-consciousness]]
+- **Scope**: Genuine-drift citation verification (8th review, convergence-damped). Verified the 2026-06-20 refine (commit 14fb41e54) that changed the "Deconstructing the self" 7T MRI cite's author vector. The refine bumped only ai_modified, leaving the corrected cite unverified by deep-review.
+- **Word count**: 2883 → 2883 (0; verification-only, length-neutral, 115% of soft / ~617w under hard)
+- **Core verdict**: Yang, Chowdhury, Sparby & Sacchet 2025 (NeuroImage 305:120968) — state **real-correct**. Verified at publisher of record (PubMed 39653180, ScienceDirect, Harvard MRP PDF). The refine was a genuine, accurate correction: the OLD `Laukkonen & Slagter (2024)` vector was wrong on BOTH author AND year (citable issue year is 2025; epub Dec 2024). In-body claim supported; inline↔References reciprocity OK.
+- **Family resolution**: corpus-wide grep confirms the live "Laukkonen et al. (2023) nirodha samāpatti, Progress in Brain Research 280" cites are a DIFFERENT, genuinely real paper — NOT a stale variant of the changed cite; must not be "fixed" to Yang.
+- **Citation ledger**: Metzinger 2024 (MIT Press) real-correct; Tallis 2024 (Philosophy Now #161) real-correct; Treves et al. 2024 (J Cogn Neurosci 36(11):2518-2555) real-correct.
+- **Currency**: no superlative claims; citations 2024-2025, no drift.
+- **Calibration**: §2 diagnostic test passed — phenomenology-vs-metaphysics boundary guarded; contemplative reports framed as suggestive context, not corroboration. No slippage. No banned cliché.
+- **Engagement**: Illusionist/Frankish-Dennett reply Mode Two (unchanged); no label leakage.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (length watch noted; not a condense candidate)
+- **Enhancements made**: 0
+- **Frontmatter**: last_deep_review bumped to 2026-06-21; ai_modified NOT bumped (no body/cite change).
+- **Output**: [[reviews/deep-review-2026-06-21-witness-consciousness]]
+
 ## 2026-06-21T05:10:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/self-reference-and-the-limits-of-physical-description]]

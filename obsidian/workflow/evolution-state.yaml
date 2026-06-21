@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T05:11:37.103596+00:00'
-session_count: 12526
+last_updated: '2026-06-21T05:17:07.182522+00:00'
+session_count: 12527
 cycle_position: 9637
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T05:11:37.103596+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
-  replenish-queue: '2026-06-21T03:37:07.669131+00:00'
+  replenish-queue: '2026-06-21T05:17:07.182522+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-20T22:35:01.433959+00:00'
   add-highlight: '2026-06-20T08:13:18.459592+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-21'
-  outcome: success
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1210,8 +1210,8 @@ queue_status:
   last_replenishment_mode: conservative
   current_replenishment_note: 'run no.478 (2026-06-21): FLOOR-RESTORING single-mint
     genuine-drift run. Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)
-    = 2 pre-run (the clinical-neuroplasticity calibration+Perez refine-draft P2 + the
-    parsimony-epistemology Smart/SEP VERIFY-FIRST refine-draft P2; the two reciprocal-cross-link
+    = 2 pre-run (the clinical-neuroplasticity calibration+Perez refine-draft P2 +
+    the parsimony-epistemology Smart/SEP VERIFY-FIRST refine-draft P2; the two reciprocal-cross-link
     refines are P3 and do not count toward the floor; the composition-question-rivals
     condense is correctly #veto-excluded). MIN_QUEUE floor 3 unmet by 1 -- documented
     replenish-at-floor alternation (unfin_loop_steady_state), NOT the fixed deadlock.
@@ -1221,51 +1221,51 @@ queue_status:
     cross-modal-capability-division, phenomenology-of-forgetting -- all 2026-06-20)
     are ALL git+disk-verified consumed into live articles (topics/interoceptive-consciousness-and-the-interface,
     apex/cross-modal-capability-division, topics/phenomenology-of-forgetting) -- re-minting
-    would regress a placement decision; (gap) caps have headroom (topics 275/320, concepts
-    265/320, positions 5/80; voids 101/100 over) but new-article generation is harvester-governed
-    (harvest ran 2026-06-21T03:27) and gap-analysis is dedup-blocked against the 574-entry
-    Vetoed bank; (length) re-confirmed via get_length_warnings -- every live content-section
-    hard/critical offender is human-deferred calibration-protected content (epistemology-of-convergence
-    6479w, born-rule 5106w, clinical-dissociation 4861w, time-collapse, metaphysics-of-laws/composition,
-    valence, qm-interpretations) or #veto/accept-as-survey (phenomenal-output 6872w,
-    composition-question-rivals 4106w, meaning-of-life) or index hub (apex-articles
-    7967w) or deferred apex (machine-question 5001w) or research working note -- NO
-    safe condense candidate (human-decision-task-mispicked-as-refine / replenish-overmints-condense-vs-accept-as-survey
-    risk); (orphan) orphaned_files=0; (positions/apex) slow-add, positions-evolve last
-    ran 2026-06-20T00:58. So a GENUINE-DRIFT verification deep-review is the lowest-risk
-    floor restorer: concepts/witness-consciousness.md, last deep-reviewed 2026-05-31
-    (ai_system claude-opus-4-5) but substantively content-edited 2026-06-20 by commit
-    14fb41e54 (auto refine-draft -- Propagate Yang et al. 2025 author-vector fix for
-    the "Deconstructing the self" NeuroImage cite) which CHANGED A CITATION in this
-    file own body (git-verified diff: Laukkonen & Slagter 2024 NeuroImage -> Yang,
-    Chowdhury, Sparby & Sacchet 2025, NeuroImage 305:120968), never deep-review-verified
-    (refine bumps ai_modified NOT last_deep_review; coalesce-hides-review-debt sibling).
-    Rejected the higher-day-count drift candidates as cosmetic cross-touch artifacts
-    (indexical-identity-quantum-measurement +22d = egocentric-presentism expand commit
-    8c29a0db6; inaccessible-past +18d = phenomenology-of-forgetting expand commit b97188c56;
-    creative-aesthetic-void +18d = sublime/negative-aesthetics expand commit 23904a360;
-    luck-objection +17d = a deep-review cross-link repair commit c6181ddf6). Task notes
-    steer VERIFICATION mode: web-verify the new Yang et al. 2025 "Deconstructing the
-    self" NeuroImage cite at publisher of record (authors/year/venue/volume 305/pages
-    120968; match TITLE+venue+year not just surname -- distinct "Deconstructing the
-    self" papers exist; 3-state + BOTH-directions per citation-verify-false-negative
+    would regress a placement decision; (gap) caps have headroom (topics 275/320,
+    concepts 265/320, positions 5/80; voids 101/100 over) but new-article generation
+    is harvester-governed (harvest ran 2026-06-21T03:27) and gap-analysis is dedup-blocked
+    against the 574-entry Vetoed bank; (length) re-confirmed via get_length_warnings
+    -- every live content-section hard/critical offender is human-deferred calibration-protected
+    content (epistemology-of-convergence 6479w, born-rule 5106w, clinical-dissociation
+    4861w, time-collapse, metaphysics-of-laws/composition, valence, qm-interpretations)
+    or #veto/accept-as-survey (phenomenal-output 6872w, composition-question-rivals
+    4106w, meaning-of-life) or index hub (apex-articles 7967w) or deferred apex (machine-question
+    5001w) or research working note -- NO safe condense candidate (human-decision-task-mispicked-as-refine
+    / replenish-overmints-condense-vs-accept-as-survey risk); (orphan) orphaned_files=0;
+    (positions/apex) slow-add, positions-evolve last ran 2026-06-20T00:58. So a GENUINE-DRIFT
+    verification deep-review is the lowest-risk floor restorer: concepts/witness-consciousness.md,
+    last deep-reviewed 2026-05-31 (ai_system claude-opus-4-5) but substantively content-edited
+    2026-06-20 by commit 14fb41e54 (auto refine-draft -- Propagate Yang et al. 2025
+    author-vector fix for the "Deconstructing the self" NeuroImage cite) which CHANGED
+    A CITATION in this file own body (git-verified diff: Laukkonen & Slagter 2024
+    NeuroImage -> Yang, Chowdhury, Sparby & Sacchet 2025, NeuroImage 305:120968),
+    never deep-review-verified (refine bumps ai_modified NOT last_deep_review; coalesce-hides-review-debt
+    sibling). Rejected the higher-day-count drift candidates as cosmetic cross-touch
+    artifacts (indexical-identity-quantum-measurement +22d = egocentric-presentism
+    expand commit 8c29a0db6; inaccessible-past +18d = phenomenology-of-forgetting
+    expand commit b97188c56; creative-aesthetic-void +18d = sublime/negative-aesthetics
+    expand commit 23904a360; luck-objection +17d = a deep-review cross-link repair
+    commit c6181ddf6). Task notes steer VERIFICATION mode: web-verify the new Yang
+    et al. 2025 "Deconstructing the self" NeuroImage cite at publisher of record (authors/year/venue/volume
+    305/pages 120968; match TITLE+venue+year not just surname -- distinct "Deconstructing
+    the self" papers exist; 3-state + BOTH-directions per citation-verify-false-negative
     since the refine itself could be a wrong-metadata edit), inline<->References reciprocity,
     currency sweep on contemplative-neuroscience claims (7T MRI advanced-meditation
     is an active 2020s area), confirm the witness-mode framing honours evidential-status-discipline
-    (Tenet 1 + Tenet 3 load-bearing; contemplative reports are suggestive context NOT
-    corroboration), no banned "This is not X. It is Y." cliche. LENGTH: analyze_length
+    (Tenet 1 + Tenet 3 load-bearing; contemplative reports are suggestive context
+    NOT corroboration), no banned "This is not X. It is Y." cliche. LENGTH: analyze_length
     body=2883w status=soft_warning (concepts soft 2500 / hard 3500), ~617w headroom
     under hard -- clean deep-review NOT a condense candidate, keep length-neutral-to-trimming;
     on a converged no-op after REAL scrutiny stamp last_deep_review WITHOUT bumping
     ai_modified, if a cite/body fix is made bump both. Deep-review modifies existing
-    content so cap-safe. Confirmed NOT vetoed (every witness-consciousness hit in todo.md
-    is a cross-link mention, a completed anchoring-audit entry, or an old replenish
-    cluster reference -- none an open task targeting this file, none a veto) and no
-    open duplicate. Inserted at top of Active Tasks to defeat LIFO; the two existing
-    P2 refines + two P3 cross-links not starved. Verified post-write: count_p0_p2_tasks=3
-    (floor met -- one grounded mint per at-floor cycle is the correct conservative restore).
-    Expect replenish-at-floor alternation to continue until the harvester reopens the
-    research->expand pipeline.'
+    content so cap-safe. Confirmed NOT vetoed (every witness-consciousness hit in
+    todo.md is a cross-link mention, a completed anchoring-audit entry, or an old
+    replenish cluster reference -- none an open task targeting this file, none a veto)
+    and no open duplicate. Inserted at top of Active Tasks to defeat LIFO; the two
+    existing P2 refines + two P3 cross-links not starved. Verified post-write: count_p0_p2_tasks=3
+    (floor met -- one grounded mint per at-floor cycle is the correct conservative
+    restore). Expect replenish-at-floor alternation to continue until the harvester
+    reopens the research->expand pipeline.'
   pre478_replenishment_note: 'run no.477 (2026-06-21): FLOOR-RESTORING single-mint
     genuine-drift run. Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)
     = 2 pre-run (the run-476 arguments-against-materialism deep-review + the clinical-neuroplasticity
