@@ -5,6 +5,19 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T09:45:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/attention-schema-theory]]
+- **Word count**: 3497 → 3499 (+2; 140% of 2500 soft, under 3500 hard ceiling, status soft_warning)
+- **Mode**: HIDDEN-DRIFT verification. cc1744aec (2026-06-09) was mislabelled `auto(replenish-queue)` but rewrote 66 body lines and never got deep-reviewed (bumped ai_modified not last_deep_review). Verdict: the rewrite is calibration-clean (improved the regress/illusionism/Whitehead argument sequence; no fixes). Separately, publisher-of-record web-verify caught a CRITICAL citation defect the 2026-06-05 review had INTRODUCED.
+- **Critical issues addressed**: 1 — Igelström & Graziano 2021 *PNAS* cite was wrong on authors (actual: Wilterson, Nastase, Bio, Guterstam & Graziano), wrong on issue (26→25), and UNFAITHFUL on the claim (an fMRI within-subject awareness-as-control-model result had been inflated into a theory-of-mind STS/self-vs-other substrate-overlap finding). Re-attributed + re-scoped, length-neutral. Also fixed Wilterson/Kemper 2021 issue 39→33.
+- **Citation verdicts**: Wilterson et al. 2021 (rTPJ, was "Igelström…118(26)") → real-wrong-metadata + unfaithful-claim, FIXED; Wilterson/Kemper 2021 (118(39)→118(33)) → real-wrong-metadata, FIXED; Liu et al. 2023 arXiv:2305.17375, Graziano&Webb 2015 Frontiers 6:500, Juliani/Kanai/Sasai 2022, ASTOUND 101071191, Graziano books/2022 → all real-correct.
+- **Calibration**: cc1744aec rewritten sections all calibration-clean (regress concedes weak form + states Graziano/Frankish reply faithfully before in-framework counter; illusionism-burden falsifier fair; Whitehead framed as Map's reading). No "This is not X. It is Y." cliché; no editor-vocabulary/mode-label leakage (both grep-verified).
+- **Engagement modes**: AST/Graziano = Mode Two; illusionism/Frankish/Dennett = Mode Two; eliminativists/physicalists = Mode Three (boundary). No boundary-substitution.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (fMRI paragraph now faithful to a real result rather than an inflated gloss)
+- **Output**: [[reviews/deep-review-2026-06-21-attention-schema-theory]]
+
 ## 2026-06-21T05:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/self-reference-and-the-limits-of-physical-description]]
