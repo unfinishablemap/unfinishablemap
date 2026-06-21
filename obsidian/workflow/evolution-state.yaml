@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T12:05:56.035302+00:00'
-session_count: 12587
+last_updated: '2026-06-21T12:13:05.433878+00:00'
+session_count: 12588
 cycle_position: 9664
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T11:41:11.646535+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
-  replenish-queue: '2026-06-21T11:48:39.384176+00:00'
+  replenish-queue: '2026-06-21T12:13:05.433878+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-20T22:35:01.433959+00:00'
   add-highlight: '2026-06-21T08:22:24.866610+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-21'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1220,40 +1220,40 @@ queue_status:
   last_replenishment_run: 492
   last_replenishment: '2026-06-21T12:10:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: 'run no.492 (2026-06-21): NO-MINT floor-restore +
-    queue hygiene. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2
+  current_replenishment_note: 'run no.492 (2026-06-21): NO-MINT floor-restore + queue
+    hygiene. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2
     (the two loop-pickable P2 genuine-drift deep-reviews minted by runs 487/491 and
     still pending: concepts/mental-causation-and-downward-causation + topics/qm-interpretations-beyond-many-worlds;
     the three #veto condense tasks do not count; the two P3 reciprocal cross-links
     did not count toward the floor AND are now closed -- see below). MIN_QUEUE floor
     3, unmet by 1. Documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT the fixed deadlock: recent_tasks[-1] = deep-review (!= replenish-queue), so the
-    cycle_pick:217 guard fired replenish correctly; a prior cycle picked + executed one
-    of run 491-era pickable deep-reviews (now below the Completed header), dropping the
-    live floor from 3 back to 2. FULL EIGHT-SOURCE AUDIT independently re-run, ALL
-    exhausted to no safe mint: (1 chain) recent_tasks Counter has ZERO research-topic/expand-topic/cross-review
+    NOT the fixed deadlock: recent_tasks[-1] = deep-review (!= replenish-queue), so
+    the cycle_pick:217 guard fired replenish correctly; a prior cycle picked + executed
+    one of run 491-era pickable deep-reviews (now below the Completed header), dropping
+    the live floor from 3 back to 2. FULL EIGHT-SOURCE AUDIT independently re-run,
+    ALL exhausted to no safe mint: (1 chain) recent_tasks Counter has ZERO research-topic/expand-topic/cross-review
     completions (types = replenish-queue x6, deep-review x6, refine-draft x3, agentic-social
-    x3, pessimistic-review x1, optimistic-review x1). (2 unconsumed research) the three
-    newest notes (all 2026-06-20: interoceptive-consciousness-and-the-interface, cross-modal-capability-division,
-    phenomenology-of-forgetting) are disk-verified CONSUMED into live consumer articles
-    (topics/interoceptive-consciousness-and-the-interface, topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination,
-    topics/phenomenology-of-forgetting all exist). (3 gap) caps have headroom (topics
-    275/320, concepts 265/320, positions 5/80) but voids OVER (101/100); new-article
-    generation is harvester-governed (harvest-research-subjects last ran 09:32, next
-    ~15:32 UTC) and replenish gap-analysis is Vetoed-bank dedup-blocked. (4 staleness
-    >=30d) only the converged metadata-only tail (deep_review_over_reviews_converged).
-    (5 length) every hard+ offender via tools.curate.length.get_length_warnings is a
-    research/ working note, human-deferred (born-rule 5106w, clinical-dissociation
-    4861w, time-collapse-and-agency 4606w, epistemology-of-convergence), an index hub,
-    a deferred apex (machine-question 5001w), #veto (composition-question-rivals 4106w,
-    meaning-of-life, phenomenal-output), accept-as-survey (memory-channel-interface
+    x3, pessimistic-review x1, optimistic-review x1). (2 unconsumed research) the
+    three newest notes (all 2026-06-20: interoceptive-consciousness-and-the-interface,
+    cross-modal-capability-division, phenomenology-of-forgetting) are disk-verified
+    CONSUMED into live consumer articles (topics/interoceptive-consciousness-and-the-interface,
+    topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination, topics/phenomenology-of-forgetting
+    all exist). (3 gap) caps have headroom (topics 275/320, concepts 265/320, positions
+    5/80) but voids OVER (101/100); new-article generation is harvester-governed (harvest-research-subjects
+    last ran 09:32, next ~15:32 UTC) and replenish gap-analysis is Vetoed-bank dedup-blocked.
+    (4 staleness >=30d) only the converged metadata-only tail (deep_review_over_reviews_converged).
+    (5 length) every hard+ offender via tools.curate.length.get_length_warnings is
+    a research/ working note, human-deferred (born-rule 5106w, clinical-dissociation
+    4861w, time-collapse-and-agency 4606w, epistemology-of-convergence), an index
+    hub, a deferred apex (machine-question 5001w), #veto (composition-question-rivals
+    4106w, meaning-of-life, phenomenal-output), accept-as-survey (memory-channel-interface
     4296w), HUMAN-LENGTH-DECISION (synesthetic-void), or recently-reviewed-marginally-over
     (reductionism 3561w deep-reviewed 2026-06-17, only +61w over hard, cosmetic touch
     since) -- NO safe fresh condense candidate. (6 orphan) orphaned_files=0. (7 positions)
     slow-add; positions-evolve last ran 2026-06-20T00:58, audit within 30d. (8 applied-apex)
     slow. GENUINE-DRIFT POOL EXHAUSTED to cosmetic-only: a fresh own-body-vs-cosmetic
-    git classification of the ai_modified>last_deep_review pool confirmed the two genuine
-    own-body drift candidates (mental-causation route-vs-direction named anchor;
+    git classification of the ai_modified>last_deep_review pool confirmed the two
+    genuine own-body drift candidates (mental-causation route-vs-direction named anchor;
     qm-interpretations 06-14/06-16 calibration wave) are ALREADY queued by runs 487/491,
     and every remaining drift candidate is cosmetic cross-touch (consciousness-and-memory
     via memory-cluster cross-link repair + phenomenology-of-forgetting sibling expand;
@@ -1261,23 +1261,23 @@ queue_status:
     all via sibling expands; time-consciousness-growing-block via reciprocal cross-link;
     indexical-identity/many-worlds/machine-consciousness/self-construction-constructor
     via sibling expand/embed -- all git-verified rejected). Minting a third deep-review
-    on a cosmetic-drift target would be churn (deep_review_over_reviews_converged), so
-    NO new task minted. QUEUE HYGIENE: BOTH pending P3 reciprocal cross-link refines
+    on a cosmetic-drift target would be churn (deep_review_over_reviews_converged),
+    so NO new task minted. QUEUE HYGIENE: BOTH pending P3 reciprocal cross-link refines
     closed as RESOLVED-ALREADY-COVERED (out-of-scope-spillover-flags-stale) -- grep-verified
     the optimistic-review-2026-06-21b "0 refs" readings are STALE: voids/capability-division-problem.md
     already back-links dual-domain in body (line 78) + Further Reading (line 137);
     topics/embodied-consciousness.md (the source flag''s path concepts/embodied-consciousness.md
     is WRONG -- file is in topics/) already references dual-domain THREE times (frontmatter
     line 33, substantive body cross-link line 124, Further Reading line 208), predating
-    the flag (dual-domain article exists since 2026-03-18). Running either refine would
-    be a confused no-op. NET: queue holds 2 genuine-drift P2 deep-reviews (high-leverage:
+    the flag (dual-domain article exists since 2026-03-18). Running either refine
+    would be a confused no-op. NET: queue holds 2 genuine-drift P2 deep-reviews (high-leverage:
     mental-causation is a calibration anchor 10+ siblings adopted; qm-interpretations
-    is the central Tenet-4 survey with the largest un-reviewed own-body wave) which will
-    restore the floor as the loop picks them; the cycle anchoring audit + the harvester
-    (~15:32 UTC) reopen reachable work organically. Expect replenish-at-floor alternation
-    to continue.'
-  superseded_491_replenishment_note: 'run no.491 (2026-06-21): FLOOR-RESTORING single genuine-drift
-    deep-review MINT. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2
+    is the central Tenet-4 survey with the largest un-reviewed own-body wave) which
+    will restore the floor as the loop picks them; the cycle anchoring audit + the
+    harvester (~15:32 UTC) reopen reachable work organically. Expect replenish-at-floor
+    alternation to continue.'
+  superseded_491_replenishment_note: 'run no.491 (2026-06-21): FLOOR-RESTORING single
+    genuine-drift deep-review MINT. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2
     (the two loop-pickable P2 deep-reviews concepts/epiphenomenalism + concepts/mental-causation-and-downward-causation;
     the three #veto condense tasks and the two P3 reciprocal cross-links do not count);
     MIN_QUEUE floor 3, unmet by 1. Documented replenish-at-floor alternation (unfin_loop_steady_state),
