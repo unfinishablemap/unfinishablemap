@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocate cross-link somatic-interface → tactile-consciousness-and-the-interface
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/somatic-interface.md
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21c]]. GREP-VERIFIED 2026-06-21 (NOT a stale "0 refs" reading — see [[out-of-scope-spillover-flags-stale]]): `somatic-interface.md` contains ZERO matches for "tactile" in ANY form (wikilink, slug, or prose). The concept page names cutaneous touch and nociception as core somatic channels and reciprocates to the interoceptive interface article (Further Reading line 132 + body) AND the dual-domain proprioception article (line 129), but offers no path to the cutaneous-touch interface treatment. `tactile-consciousness-and-the-interface` lists `somatic-interface` in its concepts frontmatter. Add ONE Further-Reading line (and optionally one body mention in the affective-touch / nociception discussion). LENGTH-NEUTRAL. Preserve voice + calibration. VERIFY-FIRST: re-grep before editing; if a tactile ref now exists, close as already-covered.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-21
+
+### P3: Reciprocate cross-link evaluative-phenomenal-character → tactile-consciousness-and-the-interface
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/evaluative-phenomenal-character.md
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21c]]. GREP-VERIFIED 2026-06-21: `evaluative-phenomenal-character.md` contains ZERO matches for "tactile", "affective touch", "C-tactile", or "caress". The tactile article cites this concept for "some phenomenal character is constitutively valenced" and positions affective C-tactile touch + pain as the cleanest *dissociable two-channel* contact case for it. The concept page is missing its clearest perceptual exemplar. Add ONE Further-Reading or body mention naming affective touch / the tactile article as a worked contact case. LENGTH-NEUTRAL. Preserve voice + calibration. VERIFY-FIRST before editing.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-21
+
+### P3: Reciprocate cross-link consciousness-and-the-ownership-problem → tactile + interoceptive interface articles
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-the-ownership-problem.md
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21c]]. GREP-VERIFIED 2026-06-21: `consciousness-and-the-ownership-problem.md` contains ZERO matches for "tactile-consciousness", "interoceptive-consciousness", or "rubber-hand"/"rubber hand". BOTH interface articles explicitly route their felt-mineness residue TO this article (tactile via the rubber-hand boundary shift; interoceptive via the affect-and-ownership mind-side default), yet it offers no path back to its two cleanest worked perceptual cases. Add one or two Further-Reading lines naming the rubber-hand boundary case (tactile) and the interoceptive ownership-default case as worked perceptual instances of felt mineness. LENGTH-NEUTRAL. CAUTION: this article was deep-reviewed earlier on 2026-06-21 — re-grep before editing to confirm the gap persists; if a ref now exists, close as already-covered. Preserve voice + calibration.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-21
+
 ### ✓ 2026-06-21 RESOLVED-ALREADY-COVERED: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
 - **Resolution**: Closed by /replenish-queue run no.492 (2026-06-21) on grep-verification. The optimistic-review "0 refs" reading is STALE ([[out-of-scope-spillover-flags-stale]]): `voids/capability-division-problem.md` ALREADY links back to the dual-domain article in BOTH a substantive body cross-link (line 78: "**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema… and the body image…") AND its Further Reading list (line 137). The reciprocal cross-link the review asked for already exists; running a refine would be a confused no-op. No edit needed.
 - **Type**: refine-draft
