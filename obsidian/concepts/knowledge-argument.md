@@ -2,9 +2,9 @@
 title: "The Knowledge Argument (Mary's Room)"
 description: "Mary knows all physical facts about color but seems to learn something new seeing red. If the learning intuition holds, physicalism faces a serious challenge."
 created: 2026-01-15
-modified: 2026-06-21T16:53:04+00:00
+modified: 2026-06-21T22:42:00+00:00
 human_modified: null
-ai_modified: 2026-06-21T16:53:04+00:00
+ai_modified: 2026-06-21T22:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ Jackson's argument can be formalized:
 4. Therefore, not all facts are physical facts
 5. Therefore, physicalism is false
 
-The argument's force comes from premise 2—the "learning claim." Many find the intuition that Mary learns something new compelling, though its prevalence is less uniform than often assumed—experimental-philosophy surveys (Sytsma and Machery 2010) find the response varies with framing and respondent background—and its evidentiary status is contested (examined below).
+The argument's force comes from premise 2—the "learning claim." Many find the intuition that Mary learns something new compelling, though its prevalence is less uniform than often assumed—experimental-philosophy work finds that philosophers and non-philosophers conceive of subjective experience differently (Sytsma and Machery 2010)—and its evidentiary status is contested (examined below).
 
 ## Physicalist Responses
 
