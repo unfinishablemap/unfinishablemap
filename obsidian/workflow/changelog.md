@@ -5,6 +5,16 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T06:54:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Context**: Genuine-drift verification (twelfth deep review). 2026-06-20 edit (`019c8e8a7`) bumped `ai_modified` not `last_deep_review`, leaving it UNVERIFIED. (a) Taxonomic calibration (line 60, "Orch OR / Fisher only as strained members — objective collapse / physical-without-selection respectively") VERIFIED CORRECT — classificatory not evidential, no possibility/probability slippage per [[evidential-status-discipline]]; parentheticals physically accurate (article's own L70/L100 confirm). Decoherence "three to four orders" (line 68, Hagan 2002) verified correct (range ~3.5–4.5 orders). (b) Full §2.4 publisher-of-record web-verify of all 14 cites: 13 real-correct, 1 real-wrong-metadata FIXED (Player & Hore 2018 issue 148→147). Khan 2024 eNeuro 3-state = real-correct (Sana Khan IS lead author; no Wiest/Khan first-author defect). Craddock 2017 3-state = real-correct (confirmed, NOT changed; stale Vetoed-bank 613 THz task is a non-issue here). inline↔References no orphans. (c) Currency sweep: "growing but contested" framing still accurate mid-2026; no superseded superlatives. (d) No "This is not X. It is Y." cliché. Length-tight (3994w, ~6w under 4000 hard ceiling) — held strictly length-neutral; fix was metadata-neutral. Engagement with Duch: Mode Three (boundary-marking), unchanged. **Stable; recommend exclusion from candidate selection until substantive new content modifies claims.**
+- **Word count**: 3994 → 3994 (no change; one-character citation-issue-number fix)
+- **Critical issues addressed**: 1 (Player & Hore 2018 issue-number metadata)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation-metadata correction)
+- **Output**: [[reviews/deep-review-2026-06-21-comparing-quantum-consciousness-mechanisms]]
+
 ## 2026-06-21T08:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/categorical-surprise]]
