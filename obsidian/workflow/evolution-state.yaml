@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T21:49:17.387203+00:00'
-session_count: 12687
+last_updated: '2026-06-21T21:50:05.978294+00:00'
+session_count: 12688
 cycle_position: 9701
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-21T04:31:02.832757+00:00'
   collect-gemini-review: '2026-06-20T04:36:24.825069+00:00'
   positions-evolve: '2026-06-20T00:58:18.421675+00:00'
-  check-model-fallback: '2026-06-21T17:49:48.731201+00:00'
+  check-model-fallback: '2026-06-21T21:50:05.978294+00:00'
   harvest-research-subjects: '2026-06-21T21:40:44.661007+00:00'
   skip-queue-slot: '2026-06-21T21:33:34.032328+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-21'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-21'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1234,14 +1234,57 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0
+  p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 0
-  last_replenishment_run: 503
-  last_replenishment: '2026-06-21T17:00:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment_run: 504
+  last_replenishment: '2026-06-21T21:55:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: 'run no.503 (2026-06-21T17:00Z): NO-MINT floor audit.
+  current_replenishment_note: 'run no.504 (2026-06-21T21:55Z): NO-MINT floor audit
+    — but queue is NO LONGER at zero. Authoritative live tools.evolution.task_selector.count_p0_p2_tasks=2
+    and select_queue_task=''Research Vestibular consciousness and the interface'' (P2
+    research-topic), programmatically re-confirmed this run from live todo.md (not inherited).
+    KEY DEVELOPMENT vs run 503: harvest-research-subjects FIRED 2026-06-21T21:40 and
+    minted TWO genuine research-topic tasks AFTER run 503''s count=0 audit — ''Vestibular
+    consciousness and the interface'' + ''Thermal consciousness and the interface'' (both
+    from optimistic-2026-06-21c, flagged as uncovered modality-survey gaps alongside the
+    existing auditory/tactile/chemosensory/interoceptive interface treatments). Both
+    DEDUPE-VERIFIED genuine this run: zero live articles, zero archived articles, zero
+    existing research notes for either slug (find over obsidian/ + archive/). So the floor
+    is unmet by 1 (count 2 < MIN_QUEUE 3), NOT by 3 — and self-restoring: the next loop
+    iteration picks a real research-topic (no skip-queue-slot needed), which chains
+    research->expand-topic->cross-review, reviving the new-article pipeline with topics
+    cap headroom (275/320). FULL EIGHT-SOURCE AUDIT for an ADDITIONAL safe mint toward
+    the floor, all exhausted to no safe mint: (1 chain) recent_tasks has ZERO
+    research-topic/expand-topic/cross-review completions (live types = skip-queue-slot,
+    embed-videos, check-links, research-voids, apex-evolve, replenish-queue, agentic-social,
+    deep-review, harvest-research-subjects, check-model-fallback); the two harvested research
+    tasks ARE the live chain seed. (2 unconsumed research) harvester (21:40) confirmed
+    exhaustion over the review corpus; newest 06-20 notes disk-verified to have live
+    consumers (interoceptive-consciousness-and-the-interface, cross-modal-capability-division,
+    phenomenology-of-forgetting). (3 gap/harvester) caps have headroom (topics 275/320,
+    concepts 265/320, positions 5/80; voids 101/100 OVER) but new-article generation is
+    harvester-governed and it just fired with its two newest mints now in queue. (4
+    staleness >=30d) programmatic ai_contribution>50 + last_deep_review scan over
+    topics/concepts/voids/apex yields ZERO content hits. (5 length) canonical body-stripped
+    get_length_warnings re-run; every content-section hard+ offender is a research/ working
+    note (not a condense target), HUMAN-deferred/DIVERTED (synesthetic-void,
+    edge-states-and-void-probes, agency-void, reductionism, epistemology-of-convergence-arguments,
+    born-rule, clinical-dissociation, argument-from-reason, time-collapse-and-agency),
+    #veto (composition-question-rivals, phenomenal-output, what-voids-reveal,
+    wholeheartedness-void, epistemic-advantages-of-dualism), accept-as-survey
+    (memory-channel-interface-evidence), or an index hub (apex-articles 7967w). Re-minting
+    any is the [[replenish-overmints-condense-vs-accept-as-survey]] /
+    [[deep_review_over_reviews_converged]] churn anti-pattern. NO safe fresh condense
+    candidate. (6 orphan) orphaned_files=0. (7 positions) 5/80, slow-add, audit within
+    30d window (positions-evolve last 2026-06-20T00:58). (8 applied-apex) only 5 positions
+    total — no high-confidence cluster large enough for a new applied apex. So NO ADDITIONAL
+    MINT this run; the two harvested research tasks already restore a healthy, self-chaining
+    queue and the floor will close as they execute. This is the [[unfin_loop_steady_state]]
+    replenish-at-floor cadence working AS DESIGNED, with the harvester now successfully
+    reviving the research->expand pipeline that runs 502/503 noted was the gating refill source.'
+  superseded_503_replenishment_note: 'run no.503 (2026-06-21T17:00Z): NO-MINT floor audit.
     Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=0 and select_queue_task=None
     (programmatically re-confirmed this run from live todo.md content, not inherited).
     MIN_QUEUE floor 3, unmet by 3. Documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
