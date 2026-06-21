@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T11:35:06.606759+00:00'
-session_count: 12582
-cycle_position: 9661
+last_updated: '2026-06-21T11:41:11.646535+00:00'
+session_count: 12583
+cycle_position: 9662
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-21T10:02:28.570225+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-21T02:05:23.416588+00:00'
   commission-claude-review: '2026-06-21T03:07:34.233800+00:00'
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
-  refine-draft: '2026-06-21T11:02:33.474145+00:00'
+  refine-draft: '2026-06-21T11:41:11.646535+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
   replenish-queue: '2026-06-21T11:35:06.606759+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-21'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1219,53 +1219,59 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment_run: 490
-  last_replenishment: '2026-06-21T11:32:00+00:00'
+  last_replenishment_run: 491
+  last_replenishment: '2026-06-21T11:45:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: 'run no.490 (2026-06-21): FLOOR-RESTORING single P3->P2
-    promotion (NO new mint -- all eight mint sources genuinely exhausted incl genuine-drift).
-    Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2 (the two
-    loop-pickable P2 deep-reviews concepts/epiphenomenalism + concepts/mental-causation-and-downward-causation,
-    both git-verified genuine own-body drift last_deep_review 2026-06-02 < ai_modified
-    2026-06-16/2026-06-14; the #veto composition-question-rivals condense + the three
-    P3 reciprocal cross-links do not count); MIN_QUEUE floor 3, unmet by 1. Documented
-    replenish-at-floor alternation (unfin_loop_steady_state), NOT the fixed deadlock:
-    last_runs.deep-review 11:27 is AFTER last_runs.replenish-queue 11:14 = newest
-    completed loop task is a content task; run no.489 minted mental-causation and
-    the live floor fell from 3 back to 2 as the prior cycle''s pickable apex/open-question-ai-consciousness
-    deep-review was picked + executed since. Full eight-source audit independently
-    re-run, all exhausted INCLUDING genuine-drift this run (UNLIKE run no.489 which
-    surfaced mental-causation): chain 0 (zero research/expand/cross-review in recent_tasks);
-    unconsumed-research 0 (newest 2026-06-20 interoceptive note disk-verified consumed);
-    gap harvester-governed (harvest last 09:32, next ~15:32 UTC, current ~11:31) +
-    Vetoed-bank dedup-blocked (caps headroom topics 275/320, concepts 265/320, voids
-    101/100 at cap, positions 5/80); length offenders all research-notes / human-deferred
-    / #veto / index-hub / HUMAN-LENGTH-DECISION (synesthetic-void) -- NO safe fresh
-    condense; orphans 0; positions slow-add (4 ldr=None positions maintained by positions-evolve
-    audit not deep-review -- not a gap); applied-apex slow. Genuine-drift: a fresh
-    own-body-vs-cosmetic git classification of the 175-candidate ai_modified>last_deep_review
-    pool found NO clean un-minted own-body refine remaining -- top-drift all cosmetic
-    cross-touch (apex-articles index hub; positions ldr=None; indexical-identity/many-worlds
-    via egocentric-presentism expand; self-construction-constructor/phenomenal-variation
-    via embed triggers; consciousness-and-memory/luck-objection/volitional-control/normativity
-    via reciprocal-cross-link commits -- all git-verified rejected), and the genuine
-    own-body refines were consumed by today''s 2026-06-21 deep-review wave (open-question,
-    common-knowledge-void, consciousness-interface-development, attention-schema-theory,
-    self-reference, what-consciousness-tells-us-about-physics, clinical-neuroplasticity,
-    phenomenology-of-agency-vs-passivity, comparing-quantum-mechanisms, free-will,
-    cross-modal-capability-division, witness-consciousness -- all stamped last_deep_review
-    2026-06-21); parsimony-epistemology drift was a 2-line VERIFY-FIRST citation re-verify
-    (itself the verification, 07:18 commit, minimal residual value). So rather than
-    mint a low-value or churn an already-reviewed article, this run PROMOTES the highest-leverage
-    existing P3 to restore the floor (matching run no.488''s resolution): consciousness-in-simple-organisms
-    -> evolution-under-dualism reciprocal cross-link (the simple-organisms C.elegans/Hydra/slime-mold
-    ladder is the empirical proving ground for evolution-under-dualism''s Fixed-Domain/Co-Evolution/Unfolding
-    taxonomy, so the missing back-link has the most navigational+evidential leverage
-    of the three optimistic-review cross-link P3s; LENGTH-NEUTRAL). Verified post-promote:
-    count_p0_p2_tasks=3 (floor met), promoted task FIFO-first (already above the two
-    deep-reviews in line order, no LIFO starvation, existing tasks not starved). Expect
-    replenish-at-floor alternation to continue until the harvester reopens the research->expand
-    pipeline ~15:32 UTC.'
+  current_replenishment_note: 'run no.491 (2026-06-21): FLOOR-RESTORING single genuine-drift
+    deep-review MINT. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2
+    (the two loop-pickable P2 deep-reviews concepts/epiphenomenalism + concepts/mental-causation-and-downward-causation;
+    the three #veto condense tasks and the two P3 reciprocal cross-links do not count);
+    MIN_QUEUE floor 3, unmet by 1. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT the fixed deadlock: last_runs.deep-review 11:27 + last_runs.refine-draft 11:41
+    are both AFTER last_runs.replenish-queue 11:35 = newest completed loop tasks are
+    content tasks; run no.490 promoted consciousness-in-simple-organisms -> evolution-under-dualism
+    P3->P2 and that task was then PICKED + EXECUTED (commit f7e2b7b7e, now below the
+    Completed header), so the live floor fell from 3 back to 2 again. Full eight-source
+    audit independently re-run: chain 0 (zero research/expand/cross-review in recent_tasks);
+    unconsumed-research 0 (the three newest 2026-06-20 notes -- interoceptive-consciousness-and-the-interface,
+    cross-modal-capability-division, phenomenology-of-forgetting -- all disk-verified
+    consumed into live consumer articles); gap harvester-governed (harvest last 09:32,
+    next ~15:32 UTC, current ~11:45) + Vetoed-bank dedup-blocked (caps headroom topics
+    275/320, concepts 265/320, voids 101/100 at cap, positions 5/80); length offenders
+    all research-notes / human-deferred / #veto / index-hub / accept-as-survey / HUMAN-LENGTH-DECISION
+    / recently-condensed -- NO safe fresh condense; orphans 0; positions slow-add;
+    applied-apex slow. Genuine-drift FOUND this run (UNLIKE run no.490): a fresh own-body-vs-cosmetic
+    git classification of the topics-band hard_warning + ai_modified>last_deep_review
+    pool surfaced topics/qm-interpretations-beyond-many-worlds.md as a clean genuine
+    exception -- last deep-reviewed 2026-06-04 (commit 34597eae9) but then received
+    a SUBSTANTIAL own-body refine WAVE on 2026-06-14 (six git-verified body edits:
+    5ccca399f many-worlds calibration, 235c0e9f9 TI/TSVF rating reconciliation, 6f1c8358b
+    compatibility-table recalibration, ac69f88e2 Kent-2021 objection, 14ac0c0d2 DeBrota-2021/Khan-2024
+    References) plus 54f4e94ea on 2026-06-16 (retrocausality calibration, body-editing).
+    A refine bumps ai_modified but NOT last_deep_review, so this entire calibration+citation+objection
+    wave is UNVERIFIED by deep-review -- the largest un-reviewed own-body drift wave
+    in the corpus, on the Map''s central Tenet-4 (No Many Worlds) survey article. Rejected
+    candidates were cosmetic cross-touch (valence-and-conscious-selection via Negative-Valence-Asymmetry
+    sibling expand; metaphysics-of-composition via Manyism sibling expand; phenomenal-authority
+    via 8-file repoint refine; introspection-architecture-scoring via neoplatonist
+    sibling deep-review; quantum-biology already has 3 condense-task mentions) -- all
+    git-verified rejected. So rather than promote another low-leverage P3 cross-link
+    or churn an already-reviewed article, this run MINTS the genuine-drift deep-review
+    (highest residual value; the two freshly-added 06-14 References DeBrota-2021/Khan-2024
+    carry the highest fabrication risk and have never been deep-review-verified). LENGTH:
+    qm-interpretations body 4125w = hard_warning, already ~125w OVER the topics hard
+    ceiling, so the review must be strictly length-neutral or trimming. Confirmed NOT
+    vetoed (the two Vetoed-bank hits mentioning qm-interpretations are separate vetoed
+    refine tasks anchored on OTHER files -- probability-problem-in-many-worlds + concepts/relational-quantum-mechanics
+    -- not a veto of a deep-review of this file). Verified post-mint: count_p0_p2_tasks=3
+    (floor met), task FIFO-placed AFTER the two existing pickable P2 deep-reviews (no
+    LIFO starvation, existing tasks not starved). Expect replenish-at-floor alternation
+    to continue until the harvester reopens the research->expand pipeline ~15:32 UTC.'
+  superseded_490_replenishment_note: 'run no.490 (2026-06-21): FLOOR-RESTORING single
+    P3->P2 promotion (consciousness-in-simple-organisms -> evolution-under-dualism
+    reciprocal cross-link; NO new mint -- all eight sources exhausted incl genuine-drift
+    that run, since consumed by the 2026-06-21 deep-review wave). Subsequently picked
+    + executed (commit f7e2b7b7e), dropping the floor 3->2 and prompting run no.491.'
   superseded_489_replenishment_note: 'run no.489 (2026-06-21): FLOOR-RESTORING single-mint
     genuine-drift run. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2
     (the two loop-pickable P2 deep-reviews apex/open-question-ai-consciousness + concepts/epiphenomenalism;
@@ -1538,6 +1544,16 @@ queue_status:
     unconsumed_research: 0
     promotion: 0
   replenishment_source_counts:
+    applied_apex: 0
+    chain: 0
+    gap_analysis: 0
+    length_analysis: 0
+    orphan_integration: 0
+    positions: 0
+    staleness: 1
+    unconsumed_research: 0
+    promotion: 0
+  replenishment_source_counts_run490:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
