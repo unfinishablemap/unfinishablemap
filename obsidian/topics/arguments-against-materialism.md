@@ -4,8 +4,8 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-06-20T16:45:51+00:00
-last_deep_review: 2026-06-01T08:10:00+00:00
+ai_modified: 2026-06-21T04:01:52+00:00
+last_deep_review: 2026-06-21T04:01:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,11 +72,11 @@ For detailed treatment of each argument, see [[dualism]]. For the focused system
 
 ## Why Materialism Cannot Close the Gap
 
-The [[explanatory-gap]] is not just a gap in current understanding. It is a gap in the *kind of explanation* materialism can offer.
+The [[explanatory-gap]] runs deeper than current understanding: it is a gap in the *kind of explanation* materialism can offer.
 
 Physical science describes structure and dynamics: spatial arrangements, temporal sequences, causal relations, functional roles. It tells us *how* things are configured and *what* they do. Conscious experience has a qualitative character that these descriptions cannot capture. There is something it is *like* to see red—a property that is not spatial, not structural, not functional, not relational. [[consciousness-and-mathematics|Mathematical knowledge]] sharpens the point: the objects are maximally non-physical, the knowledge is maximally reliable, and the phenomenology is maximally distinctive—making it physicalism's hardest test case. No amount of detailed physical description ever arrives at the qualitative character of experience, because the descriptive tools of physics may not be the right tools for the job. The [[self-reference-and-the-limits-of-physical-description|formal incompleteness of physical description]]—established through category-theoretic results connecting Gödel's incompleteness to quantum measurement—provides mathematical grounding for this conclusion: self-referential formal systems face principled limits on complete self-description.
 
-This is not a call to abandon science. It is recognition that one mode of explanation has limits. Chemistry cannot explain the Napoleonic wars, not because chemistry is flawed but because the Napoleonic wars are not a chemistry problem. Consciousness may not be a physics problem in any straightforward sense.
+None of this calls for abandoning science. It recognises that one mode of explanation has limits. Chemistry cannot explain the Napoleonic wars, not because chemistry is flawed but because the Napoleonic wars are not a chemistry problem. Consciousness may not be a physics problem in any straightforward sense.
 
 Materialists sometimes respond that we should just wait—science has surprised us before. But past scientific progress explained phenomena by showing *how* they followed from underlying mechanisms. Water flows because of H₂O's molecular properties. Heat is molecular motion. In each case, the connection between levels is transparent. With consciousness, we cannot even articulate what a transparent connection *would look like*. The difficulty is not that we lack data; it is that we lack a framework for how physical facts could ever entail phenomenal facts.
 
@@ -102,7 +102,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses thi
 
 Rejecting materialism feels intellectually dangerous. It seems to open the door to souls, ghosts, and pseudoscience. Philosophers are understandably reluctant to endorse any position associated with supernaturalism.
 
-But this conflates dualism with its worst versions. Modern interactionist dualism, as the Map defends it, is constrained by the very physics materialists invoke. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to the smallest possible deviation from standard physics—consciousness biasing quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. This is not mysticism. It is a principled philosophical hypothesis about where physics leaves room for mental causation—one that generates [[testing-consciousness-collapse|concrete differential predictions]] distinguishing consciousness-collapse from decoherence-only interpretations.
+But this conflates dualism with its worst versions. Modern interactionist dualism, as the Map defends it, is constrained by the very physics materialists invoke. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to the smallest possible deviation from standard physics—consciousness biasing quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. Far from mysticism, this is a principled philosophical hypothesis about where physics leaves room for mental causation—one that generates [[testing-consciousness-collapse|concrete differential predictions]] distinguishing consciousness-collapse from decoherence-only interpretations.
 
 ### Misplaced Confidence in Future Science
 

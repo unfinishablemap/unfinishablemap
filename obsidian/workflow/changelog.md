@@ -5,6 +5,20 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T04:01:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/arguments-against-materialism]]
+- **Mode**: Genuine-drift verification (2026-06-20 commit `e089d4818` changed the Churchland attribution but bumped only ai_modified, not last_deep_review)
+- **Word count**: 2942 → 2936 (-6; three length-neutral cliché rephrasings)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (writing-style "X is not Y. It is Z." cliché removed at L75/L79/L105)
+- **Enhancements made**: 0 (length-neutral; both timestamps bumped — body fix made)
+- **Citations (publisher-of-record, 3-state)**: Churchland "none of the standard arguments against dualism… is by itself conclusive" (*Matter and Consciousness* 1984) — **real-correct**, the 06-20 broadening is FAITHFUL (source carries both narrow + broad forms; the refine was a family-resolution alignment to the canonical `parsimony-epistemology` form, not an overstatement). Lycan "a very posterior reason" (2009, AJP 87(4):551-563) — **real-correct**, verbatim. Smart "never successfully defended his parsimony argument" (1959, Phil Review 68(2):141-156) — **real-correct**, characterization defensible.
+- **Calibration**: PASS — materialism steelmanned before dualist reply; no possibility/probability slippage; hedges intact. **Currency**: clean (0 superlative hits).
+- **Cross-links**: all 5 priority links resolve live (parsimony-epistemology, epistemological-limits-occams-razor, parsimony-case-for-interactionist-dualism, eliminative-materialism, phenomenal-concepts-strategy).
+- **Sibling follow-up (out of scope, recorded)**: `parsimony-epistemology.md` L110 + `arguments/epistemological-limits-of-occams-razor.md` L84 mis-attribute Smart's "severely criticized" to SEP; the live SEP entry does not carry it (trace = Wikipedia). Handle when those files are next reviewed.
+- **Output**: [[reviews/deep-review-2026-06-21-arguments-against-materialism]]
+
 ## 2026-06-21T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-in-simple-organisms]]
