@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T07:18:56.451822+00:00'
-session_count: 12546
+last_updated: '2026-06-21T07:34:46.169297+00:00'
+session_count: 12547
 cycle_position: 9646
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T07:18:56.451822+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
-  replenish-queue: '2026-06-21T07:12:08.781544+00:00'
+  replenish-queue: '2026-06-21T07:34:46.169297+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-20T22:35:01.433959+00:00'
   add-highlight: '2026-06-20T08:13:18.459592+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-21'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1224,7 +1224,42 @@ queue_status:
   last_replenishment_run: 483
   last_replenishment: '2026-06-21T07:35:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: 'run no.483 (2026-06-21): FLOOR-RESTORING genuine-drift double-mint. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=1 (only the phenomenology-of-agency-vs-passivity deep-review was loop-pickable; the three veto-tagged condense tasks + two P3 reciprocal cross-links do not count); MIN_QUEUE floor 3, unmet by 2. Documented replenish-at-floor alternation, NOT the fixed deadlock: prior run no.482 was a NO-MINT attempt at count=2; the parsimony-epistemology Smart/SEP VERIFY-FIRST refine (commit ae182f6ec) was picked+executed since, dropping live count to 1. Guard fires legitimately (git HEAD + last_runs.refine-draft 07:18 after last_runs.replenish-queue 07:12 = newest completed loop task is a refine-draft). Full eight-source audit independently re-run, all exhausted EXCEPT genuine-drift: chain 0 (zero research/expand/cross-review completions in recent_tasks); unconsumed-research 0 (3 newest 2026-06-20 notes disk-verified consumed -- interoceptive, cross-modal, phenomenology-of-forgetting all have live consumer articles); gap harvester-governed (harvest-research-subjects last 03:27, next ~09:27 UTC) + dedup-blocked vs Vetoed bank; staleness>=30d DRY (independent FM scan found ZERO content articles >=30d past last_deep_review, oldest ~26d, and ZERO never-reviewed); orphans 0; length offenders all human-deferred / veto / accept-as-survey / index-hub / recently-condensed / research-note (only never-condensed marginals qm-interpretations [in-triple], reductionism [recently-coalesced], phenomenal-authority [post-review edits cosmetic] are higher-risk than a drift deep-review); positions slow-add (ran 2026-06-20, audit 2026-06-10 within 30d); applied-apex slow. Minted +2 genuine-drift deep-reviews, both git-verified own-body content edits unverified by deep-review, diversified by section and tenet: (1) topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (ldr 2026-06-05, am 2026-06-21; commit 6eaae2cc3 recalibrated the causal-closure argument [route-divergence-per-se -> preferential-directional signature, input-modality deflation declined not refuted] + fixed Perez J.->G.M. cite + DOI; Tenet 1/3; 3344w soft_warning, ~656w headroom). (2) apex/what-consciousness-tells-us-about-physics.md (ldr 2026-06-05, am 2026-06-19; commit d8def3922 pessimistic polish removed multiple banned This-is-not-X-it-is-Y cliches + added an illusionist caveat to the Cartesian-datum premise + sharpened self-stultification inline + cross-links; Tenet 2/4/5 apex; 4792w soft_warning, ~208w headroom). Both verified NOT vetoed (Vetoed-bank hits are cross-link suggestions naming them as link targets) + no open duplicate. Verified post-write: count_p0_p2_tasks=3 (floor met), select_queue_task returns the OLDER phenomenology-of-agency-vs-passivity P2 as next pick (FIFO preserved, no LIFO starvation). Expect replenish-at-floor alternation to continue until the harvester reopens the research->expand pipeline ~09:27 UTC.'
+  current_replenishment_note: 'run no.483 (2026-06-21): FLOOR-RESTORING genuine-drift
+    double-mint. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=1
+    (only the phenomenology-of-agency-vs-passivity deep-review was loop-pickable;
+    the three veto-tagged condense tasks + two P3 reciprocal cross-links do not count);
+    MIN_QUEUE floor 3, unmet by 2. Documented replenish-at-floor alternation, NOT
+    the fixed deadlock: prior run no.482 was a NO-MINT attempt at count=2; the parsimony-epistemology
+    Smart/SEP VERIFY-FIRST refine (commit ae182f6ec) was picked+executed since, dropping
+    live count to 1. Guard fires legitimately (git HEAD + last_runs.refine-draft 07:18
+    after last_runs.replenish-queue 07:12 = newest completed loop task is a refine-draft).
+    Full eight-source audit independently re-run, all exhausted EXCEPT genuine-drift:
+    chain 0 (zero research/expand/cross-review completions in recent_tasks); unconsumed-research
+    0 (3 newest 2026-06-20 notes disk-verified consumed -- interoceptive, cross-modal,
+    phenomenology-of-forgetting all have live consumer articles); gap harvester-governed
+    (harvest-research-subjects last 03:27, next ~09:27 UTC) + dedup-blocked vs Vetoed
+    bank; staleness>=30d DRY (independent FM scan found ZERO content articles >=30d
+    past last_deep_review, oldest ~26d, and ZERO never-reviewed); orphans 0; length
+    offenders all human-deferred / veto / accept-as-survey / index-hub / recently-condensed
+    / research-note (only never-condensed marginals qm-interpretations [in-triple],
+    reductionism [recently-coalesced], phenomenal-authority [post-review edits cosmetic]
+    are higher-risk than a drift deep-review); positions slow-add (ran 2026-06-20,
+    audit 2026-06-10 within 30d); applied-apex slow. Minted +2 genuine-drift deep-reviews,
+    both git-verified own-body content edits unverified by deep-review, diversified
+    by section and tenet: (1) topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md
+    (ldr 2026-06-05, am 2026-06-21; commit 6eaae2cc3 recalibrated the causal-closure
+    argument [route-divergence-per-se -> preferential-directional signature, input-modality
+    deflation declined not refuted] + fixed Perez J.->G.M. cite + DOI; Tenet 1/3;
+    3344w soft_warning, ~656w headroom). (2) apex/what-consciousness-tells-us-about-physics.md
+    (ldr 2026-06-05, am 2026-06-19; commit d8def3922 pessimistic polish removed multiple
+    banned This-is-not-X-it-is-Y cliches + added an illusionist caveat to the Cartesian-datum
+    premise + sharpened self-stultification inline + cross-links; Tenet 2/4/5 apex;
+    4792w soft_warning, ~208w headroom). Both verified NOT vetoed (Vetoed-bank hits
+    are cross-link suggestions naming them as link targets) + no open duplicate. Verified
+    post-write: count_p0_p2_tasks=3 (floor met), select_queue_task returns the OLDER
+    phenomenology-of-agency-vs-passivity P2 as next pick (FIFO preserved, no LIFO
+    starvation). Expect replenish-at-floor alternation to continue until the harvester
+    reopens the research->expand pipeline ~09:27 UTC.'
   prev_replenishment_note: 'run no.471 (2026-06-20): FLOOR-RESTORING single-mint genuine-drift
     run. Authoritative tools.evolution.task_selector confirmed count_p0_p2_tasks=2
     pre-run (the two queued staleness deep-reviews epistemic-emotions + sensorimotor;

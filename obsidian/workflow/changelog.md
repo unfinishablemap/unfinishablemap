@@ -5,6 +5,27 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T07:39:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Context**: Genuine-drift verification (7th review). `last_deep_review` 2026-06-01 predated the genuine own-body edit `9b3dbeee7` (2026-06-04 "Adopt mental-effort calibration") — the calibration was UNVERIFIED. The 2026-06-20 `ai_modified` bump is a cosmetic ownership-problem cross-link (`cd1177181`), not the genuine edit. Scrutiny concentrated on the verification-circularity passage (line 127).
+- **(a) Calibration of the 06-04 Wegner edit** — VERIFIED CORRECT per [[evidential-status-discipline]]. The Wegner apparent-mental-causation challenge (helping-hands + I-Spy) reads as **argued underdetermination, not refutation**: "underdetermined by the evidence", "verification gap cannot be closed from within", "the felt contrast remains a real phenomenological datum whose veridicality regarding causal authorship is exactly what is contested". Neither over- nor under-claims; burden-shifting register honoured; a tenet-accepting reviewer would not flag overstatement. Tenet-1 + Tenet-3 load-bearing.
+- **(b) Citation web-verify (publisher of record, 3-state both directions)**:
+  - **Wegner & Wheatley 1999** (*American Psychologist* 54(7), 480-492) — real-correct paper, **was an inline→References ORPHAN → entry ADDED.** Verified PubMed 10424155 + APA PsycNet; I-Spy paradigm is this paper's central experiment, attribution accurate.
+  - **Wegner, Sparrow & Winerman 2004** (*J. Personality & Social Psychology* 86(6), 838-848) — real-correct, **entry ADDED** as the helping-hands (vicarious-agency) source. Verified PubMed 15149258 + Harvard archive; attribution accurate.
+  - **Della Sala, Marchetti & Spinnler 1991** (*Neuropsychologia* 29(11), 1113-1127) — real-correct (PubMed 1775229 + ScienceDirect). No metadata defect.
+  - **Haggard, Clark & Kalogeras 2002** (*Nature Neuroscience* 5(4), 382-385) — real-correct (Nature nn827 + PubMed 11896397). No metadata defect.
+  - Johansson choice-blindness NOT in article (not invented). inline↔References reciprocity now PASS both directions, no orphans.
+- **(c) Currency sweep**: `find_superlative_claims` empty — no superlative claims; clean.
+- **(d) Cliché**: no banned "This is not X. It is Y." construct reintroduced; clean.
+- **Critical issues addressed**: 1 (Wegner inline→References orphan closed).
+- **Medium issues addressed**: 0.
+- **Enhancements made**: 2 reference entries added (citation hygiene only; no prose expansion).
+- **Word count**: 3242 → 3288 (+46, two reference lines; 110% soft, 712w under 4000 hard — length-neutral).
+- **Engagement modes** (editor-internal): epiphenomenalist Mode One + honest Mode Three residue; illusionist Mode One. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-21-phenomenology-of-agency-vs-passivity]]
+- **Published**: yes
+
 ## 2026-06-21T07:16:58+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/parsimony-epistemology]], [[arguments/epistemological-limits-of-occams-razor]]
