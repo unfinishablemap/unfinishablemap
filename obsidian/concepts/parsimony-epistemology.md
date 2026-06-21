@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-06-21T07:16:58+00:00
+ai_modified: 2026-06-21T14:40:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-06-04T18:20:00+00:00
+last_deep_review: 2026-06-21T14:40:13+00:00
 coalesced_from:
   - "/concepts/epistemological-limits-parsimony/"
   - "/concepts/parsimony-failure-consciousness/"
@@ -85,7 +85,7 @@ The standard parsimony argument against dualism runs: physicalism and dualism ex
 
 ### Precondition 1: Equal Explanatory Adequacy
 
-Parsimony is a tie-breaker between theories that explain the same phenomena equally well. Physicalism and dualism do not. Physicalism — relying on [[causal-closure|causal closure]] — correlates neural activity with reported experience but provides no account of why there is [[qualia|something it is like]] to undergo those processes. The [[explanatory-gap]] is a structural feature of third-person physical description applied to first-person phenomenal reality, formalised by the [[knowledge-argument]] and [[philosophical-zombies|conceivability arguments]]: physical facts alone do not entail phenomenal facts.
+Parsimony is a tie-breaker between theories that explain the same phenomena equally well. Physicalism and dualism do not. Physicalism — relying on [[causal-closure|causal closure]] — correlates neural activity with reported experience but provides no account of why there is [[qualia|something it is like]] to undergo those processes. The [[explanatory-gap]] is a structural feature of third-person physical description applied to first-person phenomenal reality, formalised by the [[knowledge-argument]] and [[philosophical-zombies|conceivability arguments]] (Chalmers 1996): physical facts alone do not entail phenomenal facts.
 
 Type-B physicalists accept the gap but deny it is metaphysical, arguing future progress will close it without revising the ontology. The reply is coherent but does not restore parity: parsimony is synchronic, adjudicating current explanatory credentials rather than promissory notes — were such notes admissible, any underdetermined theory could plead future resolution. Dualism, by contrast, directly explains why physical description cannot capture consciousness; its burden is characterising [[psychophysical-laws|psychophysical laws]], an open problem but not one requiring that the phenomenon be explained away.
 
@@ -111,13 +111,13 @@ J. J. C. Smart's 1959 "Sensations and Brain Processes" was the most influential 
 
 ### Lycan's Concession
 
-William Lycan (2009), a committed materialist of over forty years, reviewed the standard objections to dualism — interaction, neural dependence, parsimony — and concluded none is "very convincing." On parsimony: "There is no evidence against the view that physical events are overdetermined by physical and nonphysical causes; it only offends parsimony." He calls parsimony "a very posterior reason" that should only break ties when all else is equal. When a long-standing materialist admits the *only* thing dualism offends is "a very posterior reason," its defenders have conceded it is insufficient.
+William Lycan (2009), a committed materialist of over forty years, reviewed the standard objections to dualism — interaction, neural dependence, parsimony — and concluded none is "very convincing." On parsimony, he grants there is "no evidence against" the view that physical events are overdetermined by physical and nonphysical causes — "it only offends parsimony." He calls parsimony "a very posterior reason" that should only break ties when all else is equal. When a long-standing materialist admits the *only* thing dualism offends is "a very posterior reason," its defenders have conceded it is insufficient.
 
 ### Churchland's Qualification
 
 Even Paul Churchland, whose "Raze Dualism" argument (1988) is the canonical parsimony case against dualism, acknowledges in *Matter and Consciousness* (1984) that none of the standard arguments against dualism — the parsimony argument included — is by itself conclusive. If parsimony's foremost advocate concedes the argument does not settle the question, the routine dismissal of dualism on parsimony grounds lacks supporting authority.
 
-These concessions cannot be dismissed as motivated reasoning from dualists. Anderson (2002) reinforces them, subjecting Churchland's "Raze Dualism" argument to critique and concluding it "is undermined by assumptions which do not withstand scrutiny."
+These concessions cannot be dismissed as motivated reasoning from dualists. Anderson (2001) reinforces them, subjecting Churchland's "Raze Dualism" argument to critique and concluding it "is undermined by assumptions which do not withstand scrutiny."
 
 ### The Idealism Parity and the Trilemma
 
@@ -131,7 +131,7 @@ The [[von-neumann-wigner-interpretation|von Neumann-Wigner interpretation]] shar
 
 ## The IIT Parsimony Paradox
 
-[[integrated-information-theory|Integrated Information Theory]] shows how parsimony arguments self-destruct in consciousness science. IIT appears methodologically parsimonious — it identifies consciousness with a single mathematical quantity (Phi) from a small set of axioms — yet those axioms lead to [[panpsychism]], with consciousness in thermostats and logic gates: parsimony at one level generates anti-parsimony at another. The selective deployment is revealing: physicalists invoke ontological parsimony against dualism while accepting panpsychist implications when the axioms are clean, so the principle functions rhetorically rather than epistemically.
+[[integrated-information-theory|Integrated Information Theory]] (Tononi 2004) shows how parsimony arguments self-destruct in consciousness science. IIT appears methodologically parsimonious — it identifies consciousness with a single mathematical quantity (Phi) from a small set of axioms — yet those axioms lead to [[panpsychism]], with consciousness in thermostats and logic gates: parsimony at one level generates anti-parsimony at another. The selective deployment is revealing: physicalists invoke ontological parsimony against dualism while accepting panpsychist implications when the axioms are clean, so the principle functions rhetorically rather than epistemically.
 
 ## Swinburne's Reversal
 
@@ -178,7 +178,7 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 
 ## References
 
-1. Anderson, C. J. (2002). Can Ockham's Razor Cut Through the Mind-Body Problem? *Journal of Theoretical and Philosophical Psychology*, 22(2), 149-168.
+1. Anderson, C. J. (2001). Can Ockham's Razor Cut Through the Mind-Body Problem? A Critical Analysis of the Raze Dualism Argument for Materialism. *Journal of Theoretical and Philosophical Psychology*, 21(1), 46–60.
 2. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 3. Churchland, P. M. (1984). *Matter and Consciousness*. MIT Press.
 4. Churchland, P. M. (1988). *Matter and Consciousness* (revised edition). MIT Press.

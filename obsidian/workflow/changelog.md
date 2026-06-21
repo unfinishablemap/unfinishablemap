@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-21T13:06:48+00:00
+ai_modified: 2026-06-21T14:40:13+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-21T14:40:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/parsimony-epistemology]]
+- **Word count**: 2528 → 2542 (+14; Anderson subtitle + two inline cite anchors)
+- **Critical issues addressed**: 1 (Anderson citation real-wrong-metadata)
+- **Medium issues addressed**: 2 (Chalmers 1996 + Tononi 2004 inline↔References orphans)
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-06-21-parsimony-epistemology]]
+- **Notes**: Eleventh review, core Tenet-5 page. GENUINE-DRIFT mint (last_deep_review 06-04 but body edited 06-21 via ae182f6ec Smart-SEP softening + 06-15 coalesce wikilink repoint). FULL publisher-of-record web-verify of all 13 citations (stalled the delegated agents, verified directly via WebSearch). (1) CRITICAL FIX — Anderson family-resolution propagation: article carried `Anderson (2002), 22(2), 149-168` inline + References; web-verified at SSRN 895730 / PhilPapers CHRCOR the correct tuple is **Anderson (2001), 21(1), 46–60** + subtitle "A Critical Analysis of the Raze Dualism Argument for Materialism" (2002 = APA indexing year, not pub year). The SIBLING parsimony-case-for-interactionist-dualism web-verified+corrected this exact cite on 2026-05-26 but the fix never propagated here — corpus held both forms live. Content attribution faithful; metadata-only fix. (2) Two References-only ORPHANS resolved with accurate length-neutral inline anchors: Chalmers 1996 (explanatory-gap passage), Tononi 2004 (IIT section). Other 11 cites all real-correct (Lycan/Huemer/Zanotti/Masi/Hubbard/Smart/Swinburne/Churchland 1984+1988/Sober). Sober 2001-vs-2002: Cambridge Core says 2002; left as corpus-consistent 2001 (defensible), flagged not-critical. (a) Smart SEP attribution NOT re-litigated — settled FALSE per ae182f6ec, softened wording confirmed correct, NOT restored ([[barrett-2021-eight-vs-six-propagated]] guard). (c) CALIBRATION HOLDS: anti-parsimony thesis reads as argued framework commitment not established meta-epistemology; Idealism Parity Trilemma safeguard intact ("ontological parsimony cannot settle the trilemma in any direction"; Map's idealism-preference rests on Tenets 2/3/4 not parsimony) — no possibility/probability slippage. (d) WRITING-STYLE: no banned "This is not X. It is Y." cliché; no editor-vocabulary/mode-label leakage. engagement with materialist hostile-witnesses (Smart/Lycan/Churchland): Mode Two — earns the point from materialists' own concessions, not tenet-incompatibility. No superlative empirical claims (currency sweep empty). Length 2542w = 102% soft / 73% of 3500 hard, ample headroom. STAMPING: body+cite fix made → bumped BOTH ai_modified and last_deep_review to 2026-06-21T14:40:13Z. Left uncommitted for orchestrator.
 
 ## 2026-06-21T13:30:00+00:00 - deep-review
 - **Status**: Success
