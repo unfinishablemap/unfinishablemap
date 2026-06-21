@@ -41,7 +41,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-06-02T15:49:30+00:00
+last_deep_review: 2026-06-21T00:00:00+00:00
 coalesced_from:
   - "/concepts/minimal-consciousness/"
   - "/topics/consciousness-in-simple-organisms/"

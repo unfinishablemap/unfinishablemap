@@ -5,6 +5,21 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Mode**: Targeted drift-verification (2026-06-10 commit `4d7c00dcf` bumped ai_modified but not last_deep_review)
+- **Word count**: 4025 → 4025 (no body change; calibration verified clean)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (last_deep_review bumped only; ai_modified NOT bumped, no body edit)
+- **Calibration**: NCC-calibration clause VERIFIED CLEAN — symmetric underdetermination + "parsimony favours no-coupling" preserved; faithful to NCC anchor; no possibility/probability slippage. Cross-link resolves (does NOT reciprocate — low-priority NCC-side gap).
+- **Citations**: DeWall 2008 confirmed correct post-sweep form (17(3):628-645, not old Lieberman 17(2)); References block untouched by drift, full publisher-verify done 2026-06-02 stands per §2.4 skip rule.
+- **Currency**: clean (0 superlative hits). **Style**: clean (no "not X. It is Y." cliché).
+- **Length**: 4025w = hard_warning (~25w over topics 4000); pre-existing human-decision-class overage, NOT condensed/grown.
+- **Engagement modes** (editor-internal, unchanged): Frankish/illusionism Mode One; Many-Worlds Mode Three; McGinn/Whitehead non-opposed.
+- **Output**: [[reviews/deep-review-2026-06-21-consciousness-in-simple-organisms]]
+
 ## 2026-06-21T03:48:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro
