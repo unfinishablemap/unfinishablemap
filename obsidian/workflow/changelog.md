@@ -5,6 +5,13 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T16:41:17+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/knowledge-argument.md (Mary's Room) — foundational, never had a dedicated pessimistic pass
+- **Findings**: 1 High (Jackson self-rejection claim uncited + likely mis-dated "By 2003" vs canonical 2004 "Mind and Illusion"; no recant entry in References), 2 unsupported-claim issues (intuition-prevalence quantifiers; Dennett burden-shift stated as settled vs contested). Verified Fox et al. 2012 citation correct. No label leakage, no length violation, altered-state-symmetry audit N/A.
+- **Task added**: P2 refine-draft (Jackson citation/date fix)
+- **Output**: [[reviews/pessimistic-2026-06-21c-knowledge-argument]]
+
 ## 2026-06-21T16:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/compatibilist-symmetry-challenge]]
