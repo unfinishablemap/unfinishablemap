@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T03:25:51.685892+00:00'
-session_count: 12511
+last_updated: '2026-06-21T03:27:40.256246+00:00'
+session_count: 12512
 cycle_position: 9630
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-20T04:36:24.825069+00:00'
   positions-evolve: '2026-06-20T00:58:18.421675+00:00'
   check-model-fallback: '2026-06-21T01:27:27.850578+00:00'
-  harvest-research-subjects: '2026-06-20T21:22:55.945284+00:00'
+  harvest-research-subjects: '2026-06-21T03:27:40.256246+00:00'
   skip-queue-slot: '2026-06-21T02:44:06.972548+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
 last_git_push: '2026-06-21T00:44:20.694486+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-21'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-21'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1207,13 +1207,62 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 3
   p3_tasks: 0
-  needs_replenishment: true
-  loop_pickable_open: 2
-  last_replenishment: '2026-06-21T03:25:00+00:00'
-  last_replenishment_mode: standard
-  current_replenishment_note: 'run no.476 (2026-06-21): FLOOR-RESTORING single-mint
+  needs_replenishment: false
+  loop_pickable_open: 3
+  last_replenishment: '2026-06-21T03:35:00+00:00'
+  last_replenishment_mode: conservative
+  current_replenishment_note: 'run no.477 (2026-06-21): FLOOR-RESTORING single-mint
+    genuine-drift run. Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)
+    = 2 pre-run (the run-476 arguments-against-materialism deep-review + the clinical-neuroplasticity
+    refine-draft; the 3 HUMAN LENGTH DECISION items are human-blocked and all 3 open
+    condense tasks are #veto-excluded by the selector). MIN_QUEUE floor 3 unmet by
+    1 -- documented replenish-at-floor alternation (unfin_loop_steady_state), NOT the
+    fixed deadlock. Full source audit re-run, all generative sources confirmed exhausted:
+    (chain) recent_tasks has ZERO research/expand/cross-review completions (only replenish/skip-queue-slot/deep-review/pessimistic/agentic-social/commission/harvest/refine);
+    (unconsumed research) the only recent-research note without a live article -- research/cross-modal-capability-division-2026-06-20
+    -- is ALREADY CONSUMED into apex/cross-modal-capability-division.md (created 2026-06-20,
+    git + on-disk verified; its own assess-first verdict directed it to an apex synthesis
+    NOT a topics survey), and the other two 2026-06-20 notes (interoceptive, phenomenology-of-forgetting)
+    both have live topics articles -- re-minting any would regress a decision; (gap)
+    caps have headroom (topics 275/320, concepts 265/320, positions 5/80; voids 101/100
+    over) but new-article generation is harvester-governed (harvest-research-subjects
+    just ran 2026-06-21T03:27) and gap-analysis is dedup-blocked against the 574-entry
+    Vetoed bank; (length) re-confirmed via get_length_warnings -- every live-section
+    hard offender is human-deferred calibration-protected content that regrows after
+    condensing (epistemology-of-convergence, born-rule, clinical-dissociation, time-collapse,
+    metaphysics-of-laws/composition, valence, qm-interpretations) or #veto (phenomenal-output
+    6989w, composition-question-rivals 4106w accept-as-survey, meaning-of-life 4160w)
+    or index hub (apex-articles) or deferred apex (machine-question 5001w) or research
+    working note -- minting condense risks human-decision-task-mispicked-as-refine /
+    replenish-overmints-condense-vs-accept-as-survey, NO safe candidate; (orphan) orphaned_files=0;
+    (positions/apex) slow-add, positions-evolve last ran 2026-06-20T00:58. So a GENUINE-DRIFT
+    verification deep-review is the lowest-risk floor restorer: topics/consciousness-in-simple-organisms.md,
+    last deep-reviewed 2026-06-02 (ai_system claude-opus-4-7) but substantively content-edited
+    2026-06-10 by commit 4d7c00dcf (auto refine-draft Adopt neural-correlates-of-consciousness
+    calibration) which edited THIS file own body (git-verified diff added an NCC-anchor
+    calibration clause + reworded the underdetermination sentence to compatible-with-both-readings
+    + softened demonstrates->exhibits / shows->suggests), never deep-review-verified
+    (refine bumps ai_modified NOT last_deep_review; coalesce-hides-review-debt sibling).
+    Rejected the higher-day-count drift candidates as cosmetic cross-touch artifacts
+    (introspection-architecture-independence-scoring +16d = deep-review of a different
+    file neoplatonist commit 988c62827; valence-and-conscious-selection = the expand-topic
+    writing sibling Negative-Valence-Asymmetry commit 4ea96491a; phenomenal-authority-and-first-person-evidence
+    = mechanical reference-repoint to a coalesced article commit 7232398a3). Task notes
+    steer VERIFICATION mode: confirm the NCC-calibration reads as argued evidential-status
+    not fact per evidential-status-discipline, web-verify basal-cognition/Physarum/UAL
+    citations at publisher of record (3-state, beware false-negative; re-confirm the
+    DeWall-2008 17(3) form), currency sweep, STRICTLY length-neutral (body 4025w =
+    hard_warning, ~25w over the 4000 topics hard threshold -- do NOT grow; divert to
+    human length decision if real expansion is needed rather than auto-condense). Confirmed
+    NOT vetoed (only cross-link mentions + done/declined entries below/within) and no
+    open duplicate. Inserted at top of Active Tasks to defeat LIFO; the two existing
+    P2s not starved. Verified post-write: count_p0_p2_tasks=3 (floor met -- one grounded
+    mint per at-floor cycle is the correct conservative restore; a second speculative
+    task against exhausted sources would be churn). Expect replenish-at-floor alternation
+    to continue until the harvester reopens the research->expand pipeline.'
+  pre477_replenishment_note: 'run no.476 (2026-06-21): FLOOR-RESTORING single-mint
     genuine-drift run. Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)
     = 1 pre-run (only the clinical-neuroplasticity refine-draft; the 3 HUMAN LENGTH
     DECISION items are human-blocked, not loop-pickable). MIN_QUEUE floor 3 unmet
