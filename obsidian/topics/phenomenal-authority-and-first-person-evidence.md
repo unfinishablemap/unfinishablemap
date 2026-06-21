@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-06-13T13:46:48+00:00
+ai_modified: 2026-06-21T22:27:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,7 +67,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-06-03T02:17:53+00:00
+last_deep_review: 2026-06-21T22:27:56+00:00
 coalesced_from:
   - "/topics/phenomenal-conservatism-and-introspective-evidence/"
   - "/topics/phenomenal-authority-epistemic-weight-first-person-reports/"
@@ -84,7 +84,7 @@ When you report that you are in pain, that report carries a distinctive epistemi
 
 ## Why Phenomenal Reports Are Indispensable
 
-Every empirical science rests on observations, but consciousness breaks the standard pattern: a subject reporting "I see red" makes a claim about a [[phenomenal-consciousness|phenomenal state]] that no external instrument can directly verify. The report is public; the experience is not. A purely third-person neuroscience cannot escape this dependence — every contrastive methodology, comparing brain states when subjects report awareness versus when they do not, relies on taking reports seriously as indicators of phenomenal states. The neuroscience that eliminativists cite to debunk phenomenal reports could not have been conducted without trusting those reports as data.
+Every empirical science rests on observations, but consciousness breaks the standard pattern: a subject reporting "I see red" makes a claim about a [[phenomenal-consciousness|phenomenal state]] that no external instrument can directly verify. The report is public; the experience is not. A purely third-person neuroscience cannot escape this dependence — every contrastive methodology relies on taking reports seriously as indicators of phenomenal states. The neuroscience that eliminativists cite to debunk phenomenal reports could not have been conducted without trusting those reports as data.
 
 ## The Phenomenological Method
 
@@ -106,7 +106,7 @@ Phenomenal authority decomposes into layers, each mapping onto Husserl's taxonom
 
 The decomposition matters because the Map's core arguments draw on different layers. The [[hard-problem-of-consciousness|hard problem]] rests primarily on layers 1 and 2. The [[knowledge-argument]] depends on acquaintance with phenomenal character under attention (layer 2). Challenges from introspective scepticism are strongest at layer 3, where the Map's core arguments have the least stake.
 
-The layered structure parallels the [[somatic-interface#Channels of the Somatic Interface|channel structure of the somatic interface]] in a way worth flagging without conflating the two: epistemological layers of warranted trust are not phenomenological channels of bodily reporting, but both decompose what looks monolithic into registers that admit different evidence and pathologies. The parallel is structural; the cleavage lines do not coincide.
+The layered structure parallels the [[somatic-interface#Channels of the Somatic Interface|channel structure of the somatic interface]]: epistemological layers of warranted trust are not phenomenological channels of bodily reporting, but both decompose what looks monolithic into registers admitting different evidence and pathologies. The parallel is structural; the cleavage lines do not coincide.
 
 ## Constitutive vs Referring Observation
 
@@ -189,7 +189,7 @@ Heterophenomenology is harder to convict of self-stultification than crude elimi
 
 The [[voids/confabulation-void|confabulation void]] sharpens the reliability question at layer 2 and the upper edge of layer 3: a sub-personal generator supplies positive content where direct access is missing, and the felt-rightness signal that would distinguish fabrication from veridical access is [[anti-correlated-metacognitive-signal|anti-correlated with accuracy]] in the conditions that matter most (Rebouillat et al. 2021, regime-conditional rather than universal). The catalogue's home for the structured-discipline response is the microphenomenological interview's [[topics/microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] — second-person scaffolding (evocation, position-direction prompts, re-anchoring in embodied memory) that *restricts the confabulation-eligible space* rather than dissolving it. The method's principals concede the *interviewer-prompts-novelty* objection: the structured question may generate new content the subject did not have until prompted, with the same felt-veridicality as genuine recovery. The discipline approximates the boundary without claiming to cross it; whether the restriction reaches access remains methodologically undetermined. This is partial purchase against the structural void, in the disciplined register that [[evidential-status-discipline]] requires.
 
-Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] treats first-person reports and third-person neural data as mutually constraining. Lutz et al. (2002) demonstrated that trained meditators' phenomenological reports of distinct attentional states predicted variations in neural synchrony invisible without the phenomenological categories. The bridge is genuine but partial: identifying which neural signature corresponds to which phenomenal state still requires first-person reports, reintroducing phenomenological evidence into its own validation chain. Neurophenomenology narrows this circularity without breaking it. The canonical statement of the Varela/Dennett contrast lives at [[heterophenomenology#Heterophenomenology vs. Neurophenomenology|heterophenomenology's "Heterophenomenology vs. Neurophenomenology" section]] — meditator/jhana case included — and is referenced rather than rehearsed here.
+Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] treats first-person reports and third-person neural data as mutually constraining. Lutz et al. (2002) demonstrated that trained meditators' phenomenological reports of distinct attentional states predicted variations in neural synchrony invisible without the phenomenological categories. The bridge is genuine but partial: identifying which neural signature corresponds to which phenomenal state still requires first-person reports, reintroducing phenomenological evidence into its own validation chain. Neurophenomenology narrows this circularity without breaking it. The Varela/Dennett contrast, with the meditator/jhāna case, is set out at [[heterophenomenology#Heterophenomenology vs. Neurophenomenology|heterophenomenology's "Heterophenomenology vs. Neurophenomenology" section]].
 
 ## Objections
 

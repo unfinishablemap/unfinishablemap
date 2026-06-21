@@ -5,6 +5,16 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T22:27:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Word count**: 4022 → 3990 (-32; restored under topics hard ceiling 4000)
+- **Critical issues addressed**: 0 (8th consecutive no-critical review of the body)
+- **Medium issues addressed**: 1 — length-ceiling breach (+22 over 4000) caused by the mandatory Rebouillat-2021 reference-line addition (2026-06-05 propagation fix); resolved length-neutrally by trimming non-load-bearing prose only (somatic-interface structural aside, indispensability methodology clause, neurophenomenology editorial scaffolding). No calibration hedging or citations touched.
+- **Enhancements made**: 0 (deliberately net-neutral; calibration-saturated flagship near hard ceiling — auto-condensing protected content declined per [[human-decision-task-mispicked-as-refine]] and the 2026-06-03 review's human-length-decision flag)
+- **Engagement modes (editor-internal)**: unchanged — eliminativism Mode Two→Three; Dennett/heterophenomenology Mode Two; Carruthers Mode One. Trims touched no named-opponent engagement.
+- **Output**: [[reviews/deep-review-2026-06-21-phenomenal-authority-and-first-person-evidence]]
+
 ## 2026-06-21T22:19:18+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Vestibular consciousness and the interface
