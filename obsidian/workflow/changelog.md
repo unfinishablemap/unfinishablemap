@@ -5,6 +5,15 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T04:27:43+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-21
+- **Coverage**: 2/2 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8). Gemini leg not commissioned this cycle — dyadic convergence, not the standard triple.
+- **Clusters**: 5 convergent, 8 singleton, 0 divergent
+- **Tasks upgraded**: 0 (the two convergent target-article tasks were already at the P1 ceiling from the per-review pass; the convergent Szangolies firewall is sibling-article-scoped and held at P2)
+- **Tasks deduplicated**: 0 (the per-review pass had already deduplicated per-reviewer siblings into 2 P1 + 1 P2 tasks; this pass attached `Synthesis:` provenance to all three)
+- **Output**: [[reviews/outer-review-synthesis-2026-06-21]]
+
 ## 2026-06-21T04:20:52+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable; commission/collect auto-tracked to Opus)
