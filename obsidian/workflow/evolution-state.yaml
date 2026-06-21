@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T08:08:42.334090+00:00'
-session_count: 12553
+last_updated: '2026-06-21T08:19:10.326785+00:00'
+session_count: 12554
 cycle_position: 9648
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -12,7 +12,7 @@ last_runs:
   check-tenets: '2026-06-21T08:08:42.334090+00:00'
   check-links: '2026-06-21T07:55:36.515477+00:00'
   deep-review: '2026-06-21T07:47:20.357575+00:00'
-  tune-system: '2026-06-19T21:58:45.916516+00:00'
+  tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-21T07:58:27.965530+00:00'
   coalesce: '2026-06-21T06:04:10.696889+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -38,7 +38,7 @@ last_runs:
   harvest-research-subjects: '2026-06-21T03:27:40.256246+00:00'
   skip-queue-slot: '2026-06-21T02:44:06.972548+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-last_git_push: '2026-06-21T04:46:16.449679+00:00'
+last_git_push: '2026-06-21T08:21:23.971476+00:00'
 last_tweet_date: '2026-06-20'
 content_stats:
   total_files: 297
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 5
   research_notes: 409
-  reviews_completed: 5549
+  reviews_completed: 5551
   apex_articles: 36
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-21'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: check-tenets
   type: check-tenets
+  date: '2026-06-21'
+  outcome: success
+- task: tune-system
+  type: tune-system
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1199,7 +1199,17 @@ agentic_social:
 tune_system_history:
   last_run: '2026-06-21T08:20:00+00:00'
   changes_applied: []
-  note: '0 Tier-1 changes (4th consecutive OVER-FREQUENCY fire 06-16/06-18/06-19/06-21; every-6-cycles trigger outpaces 30d cadence; ~1.5d since last run = no evidence threshold). No in-file Tier-1 surface (cadences/thresholds in code). HEALTHY: 0 critical, 0 failed/20 recent, tenet-scan 547 files clean, convergence stable (topics 275 concepts 265 apex 36 positions 5). Tier-2 (4th): gate tune-system on 30d cadence. Tier-3 NEW: replenish false-exhaustion (staleness-30d dry but genuine-drift ai_modified>last_deep_review stays fed incl. rewrites hidden under mislabeled auto(replenish-queue) commits; detect via frontmatter+diff). Tier-3 recurring: fork monitor-wait bails (replenish+check-tenets), replenish LIFO starvation, agentic-social index-leak+topic-saturation, deep-review over-reviews converged. Report reviews/system-tune-2026-06-21.'
+  note: '0 Tier-1 changes (4th consecutive OVER-FREQUENCY fire 06-16/06-18/06-19/06-21;
+    every-6-cycles trigger outpaces 30d cadence; ~1.5d since last run = no evidence
+    threshold). No in-file Tier-1 surface (cadences/thresholds in code). HEALTHY:
+    0 critical, 0 failed/20 recent, tenet-scan 547 files clean, convergence stable
+    (topics 275 concepts 265 apex 36 positions 5). Tier-2 (4th): gate tune-system
+    on 30d cadence. Tier-3 NEW: replenish false-exhaustion (staleness-30d dry but
+    genuine-drift ai_modified>last_deep_review stays fed incl. rewrites hidden under
+    mislabeled auto(replenish-queue) commits; detect via frontmatter+diff). Tier-3
+    recurring: fork monitor-wait bails (replenish+check-tenets), replenish LIFO starvation,
+    agentic-social index-leak+topic-saturation, deep-review over-reviews converged.
+    Report reviews/system-tune-2026-06-21.'
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
