@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T15:40:19.247370+00:00'
-session_count: 12613
+last_updated: '2026-06-21T15:47:47.143648+00:00'
+session_count: 12614
 cycle_position: 9673
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T11:41:11.646535+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
-  replenish-queue: '2026-06-21T15:28:20.042402+00:00'
+  replenish-queue: '2026-06-21T15:47:47.143648+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-20T22:35:01.433959+00:00'
   add-highlight: '2026-06-21T08:22:24.866610+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1240,40 +1240,42 @@ queue_status:
     no todo.md change), and research-harvest-state.json minted_subjects is UNCHANGED
     (15 subjects, all already consumed/converted) over 184 scanned reviews. So the
     designated auto-refill mechanism is itself now exhausted of fresh subjects; the
-    next genuine refill must come from a NEW outer/optimistic review surfacing an uncovered
-    subject (next outer-review cycle) or new human-queued work. FULL EIGHT-SOURCE AUDIT
-    independently re-run, ALL exhausted to no safe mint: (1 chain) recent_tasks Counter
-    ZERO research-topic/expand-topic/cross-review completions (types = deep-review,
+    next genuine refill must come from a NEW outer/optimistic review surfacing an
+    uncovered subject (next outer-review cycle) or new human-queued work. FULL EIGHT-SOURCE
+    AUDIT independently re-run, ALL exhausted to no safe mint: (1 chain) recent_tasks
+    Counter ZERO research-topic/expand-topic/cross-review completions (types = deep-review,
     replenish-queue, agentic-social, check-model-fallback, embed-videos, skip-queue-slot,
     harvest-research-subjects). (2 unconsumed research) harvester-verified all subjects
     consumed; no new note. (3 gap) caps have headroom (topics 275/320, concepts 265/320,
     positions 5/80; voids 101/100 OVER) but new-article generation is harvester-governed
     and the harvester just ran no-mint. (4 staleness >=30d) programmatic ai_contribution>50
-    + last_deep_review scan over topics/concepts/voids/apex/positions yields ZERO content
-    hits (only the 4 positions/ domain files, which use the positions-evolve audit cadence,
-    not last_deep_review; positions-evolve last 2026-06-20T00:58, audit within 30d).
-    (5 length) canonical body-stripped analyze_length re-run on every content-section
-    hard+ offender: ALL are HUMAN-deferred calibration anchors (epistemology-of-convergence-arguments
+    + last_deep_review scan over topics/concepts/voids/apex/positions yields ZERO
+    content hits (only the 4 positions/ domain files, which use the positions-evolve
+    audit cadence, not last_deep_review; positions-evolve last 2026-06-20T00:58, audit
+    within 30d). (5 length) canonical body-stripped analyze_length re-run on every
+    content-section hard+ offender: ALL are HUMAN-deferred calibration anchors (epistemology-of-convergence-arguments
     6479w, born-rule 5106w, clinical-dissociation 4861w body, time-collapse-and-agency
     4606w), #veto (composition-question-rivals 4106w body, meaning-of-life, phenomenal-output
     6872w), accept-as-survey (memory-channel-interface 4296w), an index hub (apex-articles
-    7967w), or ALREADY-CONDENSED articles whose residual over-length is protected calibration
-    -- git-verified condense commits on argument-from-reason (f1d633700, body now 4489w),
-    epistemic-advantages-of-dualism (368c847e6, body 4400w), agency-void (7c66a9c77,
-    body 3174w); reductionism (3561w body), what-voids-reveal (3019w body), wholeheartedness-void
-    (3006w body) carry recent deep-review/refine touches with no condense verdict (reviewer-accepted
-    at length). Re-minting any of these is the [[replenish-overmints-condense-vs-accept-as-survey]]
-    churn anti-pattern. NO safe fresh condense candidate. (6 orphan) orphaned_files=0.
-    (7/8 positions/applied-apex) slow-add cadence, audit within window, no new high-confidence
-    cluster. NO NEW MINT; replenish-at-floor alternation will continue until a new outer/optimistic
+    7967w), or ALREADY-CONDENSED articles whose residual over-length is protected
+    calibration -- git-verified condense commits on argument-from-reason (f1d633700,
+    body now 4489w), epistemic-advantages-of-dualism (368c847e6, body 4400w), agency-void
+    (7c66a9c77, body 3174w); reductionism (3561w body), what-voids-reveal (3019w body),
+    wholeheartedness-void (3006w body) carry recent deep-review/refine touches with
+    no condense verdict (reviewer-accepted at length). Re-minting any of these is
+    the [[replenish-overmints-condense-vs-accept-as-survey]] churn anti-pattern. NO
+    safe fresh condense candidate. (6 orphan) orphaned_files=0. (7/8 positions/applied-apex)
+    slow-add cadence, audit within window, no new high-confidence cluster. NO NEW
+    MINT; replenish-at-floor alternation will continue until a new outer/optimistic
     review or human task reopens a refill source. The empty queue slot advances via
     skip-queue-slot ([[loop-empty-queue-slot-stall]] fix), keeping deep-review reachable.'
-  superseded_500_replenishment_note: 'run no.500 (2026-06-21T15:27Z): NO-MINT floor audit.
-    Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=0 and select_queue_task=None.
-    The lone P2 run 499 left pickable (genuine-drift deep-review of apex/conjunction-coalesce.md,
-    minted by run 498) has been PICKED + EXECUTED (conjunction-coalesce.md ai_modified=last_deep_review=2026-06-21T15:15:05,
-    commit auto(deep-review), now ✓ below the Blocked/Completed header), so the live
-    floor fell 1->0 (unmet by 3). Documented replenish-at-floor alternation (unfin_loop_steady_state),
+  superseded_500_replenishment_note: 'run no.500 (2026-06-21T15:27Z): NO-MINT floor
+    audit. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=0
+    and select_queue_task=None. The lone P2 run 499 left pickable (genuine-drift deep-review
+    of apex/conjunction-coalesce.md, minted by run 498) has been PICKED + EXECUTED
+    (conjunction-coalesce.md ai_modified=last_deep_review=2026-06-21T15:15:05, commit
+    auto(deep-review), now ✓ below the Blocked/Completed header), so the live floor
+    fell 1->0 (unmet by 3). Documented replenish-at-floor alternation (unfin_loop_steady_state),
     NOT the fixed deadlock. FULL EIGHT-SOURCE AUDIT independently re-run, ALL exhausted
     to no safe mint: (1 chain) recent_tasks Counter ZERO research-topic/expand-topic/cross-review
     completions (types = replenish-queue, deep-review, agentic-social, check-model-fallback,
