@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocate cross-link somatic-interface → tactile-consciousness-and-the-interface
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/somatic-interface.md
-- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21c]]. GREP-VERIFIED 2026-06-21 (NOT a stale "0 refs" reading — see [[out-of-scope-spillover-flags-stale]]): `somatic-interface.md` contains ZERO matches for "tactile" in ANY form (wikilink, slug, or prose). The concept page names cutaneous touch and nociception as core somatic channels and reciprocates to the interoceptive interface article (Further Reading line 132 + body) AND the dual-domain proprioception article (line 129), but offers no path to the cutaneous-touch interface treatment. `tactile-consciousness-and-the-interface` lists `somatic-interface` in its concepts frontmatter. Add ONE Further-Reading line (and optionally one body mention in the affective-touch / nociception discussion). LENGTH-NEUTRAL. Preserve voice + calibration. VERIFY-FIRST: re-grep before editing; if a tactile ref now exists, close as already-covered.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-21
-
 ### P3: Reciprocate cross-link evaluative-phenomenal-character → tactile-consciousness-and-the-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -1205,6 +1197,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-21: Reciprocate cross-link somatic-interface → tactile-consciousness-and-the-interface
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21c]]. GREP-VERIFIED 2026-06-21 (NOT a stale "0 refs" reading — see [[out-of-scope-spillover-flags-stale]]): `somatic-interface.md` contains ZERO matches for "tactile" in ANY form (wikilink, slug, or prose). The concept page names cutaneous touch and nociception as core somatic channels and reciprocates to the interoceptive interface article (Further Reading line 132 + body) AND the dual-domain proprioception article (line 129), but offers no path to the cutaneous-touch interface treatment. `tactile-consciousness-and-the-interface` lists `somatic-interface` in its concepts frontmatter. Add ONE Further-Reading line (and optionally one body mention in the affective-touch / nociception discussion). LENGTH-NEUTRAL. Preserve voice + calibration. VERIFY-FIRST: re-grep before editing; if a tactile ref now exists, close as already-covered.
 
 ### ✓ 2026-06-21: Fix uncited/mis-dated Jackson self-rejection claim in concepts/knowledge-argument.md
 - **Type**: refine-draft
