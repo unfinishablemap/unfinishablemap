@@ -5,6 +5,17 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T04:20:52+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable; commission/collect auto-tracked to Opus)
+- **File**: [[reviews/outer-review-2026-06-21-claude-opus-4-8]]
+- **Subject**: `cross-domain-void-comparison` (second same-cycle review; sibling = ChatGPT 5.5 Pro)
+- **Verdict**: REVISE-HARD / demote to coherence-only — citations unusually clean (no fabrications), but the load-bearing "shifts weight toward the convergence being real" claim fails the article's own constrain-vs-establish gate (spanning is overdetermined by physicalism), plus two physics errors.
+- **Claims verified**: 7 (live-article grep ×6 incl. GRW line 49, horizon line 53, "shifts weight" line 118, "60+" line 35; publisher-of-record ×2 — SEP "Collapse Theories" confirms GRW finding real-correct + Donadi 2021 falsification; Cubitt 2015 not re-litigated)
+- **High-value findings**: 6 (GRW miscategorisation [Claude-only, web-verified]; delete unearned "shifts weight" upgrade [Claude-only]; cosmological horizon error [CONVERGENT]; "empirical"/over-claim framing [CONVERGENT]; first-axis by-construction confound [CONVERGENT]; Szangolies co-optation firewall [CONVERGENT])
+- **Tasks generated/upgraded**: 3 (P2→P1 mechanical citation/precision task + added GRW finding (g); P2→P1 framing task + added delete-upgrade/false-binary/counter-axis-cost; NEW P2 Szangolies co-optation firewall in self-reference-and-the-limits-of-physical-description). Convergent findings upgraded to P1.
+- **Not actioned (stale-target)**: reviewer's "reconcile apex with common-cause-null" — apex already remediated to framework-internal-coherence language (P-V1/2/3 registered); documented in review Verification Notes, no task.
+
 ## 2026-06-21T04:01:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/arguments-against-materialism]]

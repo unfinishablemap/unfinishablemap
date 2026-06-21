@@ -458,9 +458,9 @@
   prompt_summary: Hostile audit of cross-domain-void-comparison (physics/math vs consciousness
     voids)
   target_filename: outer-review-2026-06-21-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-21T04:18:57.827152+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile, rigorous external referee for The Unfinishable Map
     (https://unfinishablemap.org), a dualist philosophy-of-mind project. Audit this
