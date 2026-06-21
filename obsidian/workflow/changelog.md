@@ -5,6 +5,20 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T09:08:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[arguments/epistemological-limits-of-occams-razor]]
+- **Word count**: 1825 → 1857 (+32; 74% of 2500 target, status ok)
+- **Mode**: Genuine own-body drift — today's 07:16 ai_modified bump was a REAL refine-draft (ae182f6ec) removing the "severely criticized" SEP quote, not a cosmetic bump. 5th review; the 4th (05-21) deprioritised pending substantive change, which this met.
+- **Critical issues addressed**: 1 — fabricated Krizek (2017) direct quote ("yields contradictory verdicts depending on which dimension of simplicity is weighted"). Full-text web-verify (arXiv:1701.06564) found NO occurrence of verdict/dimension/weighted; substance faithful but wording not Krizek's. Converted to sourced paraphrase + the one verbatim phrase the paper contains ("no preferred direction in how Ockham's razor is used"). This item was carried unresolved across ALL FOUR prior reviews (abstract-only); closed now via full text.
+- **Medium issues addressed**: 0 (1 low Holsinger venue-metadata item flagged, not acted — load-bearing chain is Holsinger-via-Baker SEP, which is correct).
+- **Enhancements made**: 1 (Krizek paragraph stronger and honestly sourced).
+- **Citation ledger (§2.4 publisher-of-record)**: SEP Mind/Brain Identity — real-correct (today's removal of "severely criticized" was CORRECT; entry actually says "There is no need for explicit use of Ockham's Razor as in Smart (1959)"). Krizek 2017 — tuple real-correct, quote corrected. Huemer 2009 PQ 59(235):216-236 — real-correct (quote verbatim). Zanotti 2021 Synthese 199:11109-11132 — real-correct. Lycan 2009 AJP 87(4):551-563 — real-correct. Sober 2001 (CUP, 13-31) — real-correct. Crick 1988 — real-correct (quote verbatim). Holsinger-via-Baker SEP — real-correct. Currency sweep: none.
+- **Engagement modes (editor-internal)**: Smart/Churchland/Lycan Mode One; materialism-via-parsimony Mode Two; overall Mixed. No label leakage.
+- **Calibration**: passes — meta-level argument about parsimony, frames the move as defeater-removal not evidence-upgrade.
+- **Frontmatter**: ai_modified + last_deep_review both stamped 2026-06-21T09:08:16 (genuine own-body change → ai_modified bumped, per [[deep_review_over_reviews_converged]] discipline).
+- **Output**: [[reviews/deep-review-2026-06-21-epistemological-limits-of-occams-razor]]
+
 ## 2026-06-21T08:54:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/what-consciousness-tells-us-about-physics]]

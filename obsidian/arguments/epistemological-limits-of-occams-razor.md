@@ -4,7 +4,7 @@ description: "Occam's Razor fails as an argument against dualism. Human-AI explo
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-06-21T07:16:58+00:00
+ai_modified: 2026-06-21T09:08:16+00:00
 draft: false
 topics:
   - "[[concepts/materialism]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-05-21T00:00:00+00:00
+last_deep_review: 2026-06-21T09:08:16+00:00
 ---
 
 Occam's Razor—the principle that simpler explanations should be preferred—is the most common objection to [[interactionist-dualism|dualism]]. [[concepts/materialism|Physicalism]] posits one kind of substance; dualism posits two. Case closed? The Unfinishable Map argues no. [[parsimony-epistemology|Parsimony epistemology]]—the study of when and why simplicity tracks truth—shows that parsimony fails as a decisive principle in the consciousness debate for reasons that are well-established in the philosophical literature but rarely assembled together. The precondition for applying parsimony—that competing theories explain the data equally well—is unmet. Simplicity itself fragments into conflicting dimensions that yield contradictory verdicts. And the accounts of *why* parsimony works in empirical science do not extend to metaphysical theory choice.
@@ -51,7 +51,7 @@ Even granting that parsimony has some epistemic value, which dimension of simpli
 
 These dimensions, as the Stanford Encyclopedia notes, "typically pull in different directions." W. V. O. Quine's ontology-ideology trade-off formalises the problem: reducing ontological commitments (fewer entity types) typically inflates ideological complexity (more theoretical apparatus). Physicalism about consciousness is a textbook instance—it achieves ontological economy by adding layers of functional, representational, or higher-order theory to explain away the apparent distinctness of experience.
 
-The quantum interpretation debate illustrates the same fragmentation. Many-Worlds appears axiomatically simpler (no collapse postulate) but is ontologically extravagant (uncountable parallel universes). Copenhagen is ontologically simpler (one universe) but axiomatically richer (collapse as a fundamental process). As Krizek (2017) demonstrates, parsimony "yields contradictory verdicts depending on which dimension of simplicity is weighted." If parsimony cannot settle the interpretation of quantum mechanics, it cannot settle the mind-body problem either.
+The quantum interpretation debate illustrates the same fragmentation. Many-Worlds appears axiomatically simpler (no collapse postulate) but is ontologically extravagant (uncountable parallel universes). Copenhagen is ontologically simpler (one universe) but axiomatically richer (collapse as a fundamental process). Krizek (2017) surveys how proponents of every interpretation invoke Occam's Razor against their rivals and finds that the principle yields contradictory verdicts: because there is "no preferred direction in how Ockham's razor is used," which interpretation counts as simpler depends entirely on which dimension of simplicity is weighted. If parsimony cannot settle the interpretation of quantum mechanics, it cannot settle the mind-body problem either.
 
 ## Why Scientific Parsimony Doesn't Transfer to Metaphysics
 
