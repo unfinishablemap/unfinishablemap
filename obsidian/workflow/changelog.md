@@ -5,6 +5,20 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T19:32:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/fitness-beats-truth]]
+- **Word count**: 2091 → 2091 (+0)
+- **Critical issues addressed**: 0 (none found — 6th review, firmly converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no oscillation; no-op convergence pass)
+- **Diff scope**: only change since the thorough 5th review (2026-06-04, full publisher web-verify) was a cosmetic `[[parsimony-epistemology]]` cross-link install (commit 449b1107f); that re-set ai_modified and re-qualified the article at 17d, just past the 14d convergence-damping floor
+- **Cross-link verified**: parsimony-epistemology mutual + load-bearing (backlink at line 31 + body integration at line 98); new clause calibration-clean, no slippage
+- **Citation web-verify**: skipped-as-current — References block unchanged since the 06-04 publisher ledger (Prakash 2021→Acta Biotheoretica, Bagwell 2023 Synthese 201:25 confirmed still in place); §2.4 trigger licenses skip on an unmodified bibliography; currency sweep empty
+- **Calibration firewall**: VERIFIED intact (defeater-removal-not-evidence-upgrade; bounded-anchor one-site-strongly-supported / extensions-live-hypothesis)
+- **Engagement modes (editor-internal)**: materialist-parsimony Mode Three; structural-realism Mode One — unchanged, no label leakage (grep clean)
+- **Output**: [[reviews/deep-review-2026-06-21-fitness-beats-truth]]
+
 ## 2026-06-21T18:48:56+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-ownership-problem]]
