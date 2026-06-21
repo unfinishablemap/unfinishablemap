@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-06-20T16:11:57+00:00
+ai_modified: 2026-06-21T07:16:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ The precondition failures are not a fringe position. The most revealing evidence
 
 ### Smart's Abandoned Defence
 
-J. J. C. Smart's 1959 "Sensations and Brain Processes" was the most influential deployment of Occam's Razor in the mind-body debate. He was "severely criticized" for this use of the razor (per the *Stanford Encyclopedia of Philosophy*) and never mounted an adequate defence. That the philosopher who made the argument famous never answered his critics signals structural weakness.
+J. J. C. Smart's 1959 "Sensations and Brain Processes" was the most influential deployment of Occam's Razor in the mind-body debate. His appeal to the razor drew sustained criticism, and he never mounted an adequate defence. That the philosopher who made the argument famous never answered his critics signals structural weakness.
 
 ### Lycan's Concession
 

@@ -5,6 +5,19 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T07:16:58+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/parsimony-epistemology]], [[arguments/epistemological-limits-of-occams-razor]]
+- **Context**: VERIFY-FIRST citation task from 2026-06-21 deep-review of arguments-against-materialism. Both siblings attributed Smart's "severely criticized" characterization (1959 Occam's-razor use for mind-brain identity) to the SEP "The Mind/Brain Identity Theory" entry (plato.stanford.edu/entries/mind-identity/). Independently web-verified the LIVE source at publisher of record (WebFetch ×2 + WebSearch corroboration, both directions per [[citation-verify-false-negative]]).
+- **3-state verdict**: State (b) — attribution WRONG. The live SEP entry mentions Smart + Ockham's Razor exactly ONCE, neutrally: "Thus there is no need for explicit use of Ockham's Razor as in Smart (1959) though not in Place (1956)." It does NOT contain "severely criticized", does NOT criticize Smart's razor use, and does NOT say he failed to defend it. The "severely criticized" phrasing is not a genuine SEP quote. The underlying point (Smart's razor use drew sustained criticism; he never adequately defended it) IS defensible per the secondary literature (WebSearch corroborated) — so softened rather than removed (option b-ii).
+- **Changes**:
+  - parsimony-epistemology L110: replaced `He was "severely criticized" for this use of the razor (per the *Stanford Encyclopedia of Philosophy*) and never mounted an adequate defence.` → `His appeal to the razor drew sustained criticism, and he never mounted an adequate defence.` (dropped false SEP attribution + non-quote quotation marks; preserved load-bearing point).
+  - epistemological-limits L84: replaced `Smart was "severely criticized" for this use of the razor, as the *Stanford Encyclopedia of Philosophy* records—` → `for this use of the razor` (same softening).
+  - epistemological-limits References L121: corrected SEP annotation `— discusses the reception of Smart (1959).` → `— notes Smart's (1959) explicit use of Ockham's Razor.` (matches what the entry actually says; entry retained as a legitimate Mind/Brain Identity Theory reference).
+- **Preserved (verified real-correct in source deep-review, untouched)**: Lycan "very posterior reason", Churchland "not a conclusive argument", and the core point Smart never adequately defended the parsimony argument.
+- **Length**: word-neutral re-attribution/softening. parsimony-epistemology ~2535w (concepts soft 2500, still soft-warning, unchanged); epistemological-limits ~1832w (ok).
+- **Published**: yes
+
 ## 2026-06-21T06:54:07+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
