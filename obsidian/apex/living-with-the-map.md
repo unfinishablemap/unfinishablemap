@@ -40,7 +40,7 @@ apex_sources:
   - concepts/moral-responsibility
   - concepts/nihilism-and-existentialism
   - topics/free-will
-apex_last_synthesis: 2026-05-01T21:33:00+00:00
+apex_last_synthesis: 2026-06-21T20:15:00+00:00
 apex_thesis: "If consciousness is fundamental and our choices genuinely matter, then the quest to understand our situation—what we are, why we exist, what we should do—becomes the essential precursor to every meaningful decision. The Map offers not just a metaphysical picture but practical guidance: pursue answers because they may be within reach, and let that pursuit inform how you live."
 embedded_videos:
   - id: sgXxVi3Qlmw
