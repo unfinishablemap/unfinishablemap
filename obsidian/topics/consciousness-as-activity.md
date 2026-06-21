@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-06-02T00:30:19+00:00
+last_deep_review: 2026-06-21T00:00:00+00:00
 ---
 
 Most philosophy of mind treats consciousness as a property—something the brain *has*, the way a ball has mass or a surface has colour. The Unfinishable Map argues this framing is a mistake that generates false puzzles. Consciousness is better understood as an activity—something the organism *does*. The shift from noun to verb, from possession to performance, reframes the hard problem, aligns naturally with [[interactionist-dualism]], and explains why materialist reduction keeps failing: you cannot reduce an activity to the substrate on which it acts, any more than you can reduce dancing to legs.
