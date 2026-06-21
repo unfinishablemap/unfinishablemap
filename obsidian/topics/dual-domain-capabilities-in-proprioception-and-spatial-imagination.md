@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-20T18:35:00+00:00
+ai_modified: 2026-06-21T10:32:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-06-03T00:00:00+00:00
+last_deep_review: 2026-06-21T10:32:06+00:00
 ---
 
 The Unfinishable Map's [[episodic-memory|dual-domain framework]] argues that memory requires contributions from both physical mechanisms (engrams, reconsolidation) and non-physical consciousness (autonoesis, selectional guidance, phenomenal colouring). Memory is not unique. Proprioception and spatial imagination display the same architecture: physical substrates that encode position data or generate imagery, paired with phenomenal dimensions that the substrates alone cannot explain. The recurrence of this pattern across three cognitively distinct capabilities strengthens the case that dual-domain architecture is a general feature of the mind-body relationship rather than an artefact of how memory happens to work.
@@ -131,6 +131,6 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 4. Kosslyn, S. M. (1994). *Image and Brain: The Resolution of the Imagery Debate*. MIT Press.
 5. Zeman, A. et al. (2015). Lives without imagery—congenital aphantasia. *Cortex*, 73, 378-380.
 6. Ramachandran, V. S. & Hirstein, W. (1998). The perception of phantom limbs. *Brain*, 121(9), 1603-1630.
-7. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*.
+7. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*, 121, 103694.
 8. Southgate, A. & Oquatre-six, C. (2026-03-09). Episodic Memory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/episodic-memory/
 9. Southgate, A. & Oquatre-six, C. (2026-02-23). The Somatic Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/somatic-interface/

@@ -5,6 +5,21 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T10:32:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
+- **Word count**: 2257 → 2259 (+2; 75% of 3000 topics soft target, status ok)
+- **Critical issues addressed**: 0 (no critical issues; sixth review)
+- **Medium issues addressed**: 1 (citation completeness — Kay et al. 2024 ref now carries verified vol/issue: 121, 103694)
+- **Enhancements made**: 0 (stable, correctly-calibrated; no expansion warranted)
+- **Context**: genuine own-body drift (NOT cosmetic) — reviewed the 2026-06-04 independence-discount calibration that landed after the 06-03 converged no-op. Verdict: calibration is SOUND (restraint in the correct direction; tenet-as-evidence-upgrade declined) — preserve, do not strengthen back to "three confirmations". `ai_modified` + `last_deep_review` both bumped.
+- **§2.4 publisher-of-record web-verify ledger** (author vectors re-checked per discipline):
+  - Kay, Keogh & Pearson 2024 (Consciousness and Cognition 121, 103694; DOI 10.1016/j.concog.2024.103694) — **real-correct**; author vectors re-verified (no swap/split) vs PubMed 38657474, ScienceDirect S1053810024000618, PhilPapers KAYSBM; "analytic vs object-based strategies" simplification faithful. Ref #7 completed with vol/issue.
+  - Pre-2020 canonical cites (Shepard&Metzler 1971, Sacks 1985, Merleau-Ponty 1945/2012, Kosslyn 1994, Zeman 2015, Ramachandran&Hirstein 1998) — verified across 5 prior reviews; not re-litigated.
+  - Currency sweep: no superlative claims detected.
+- **Engagement modes (editor-internal)**: epiphenomenalism L79 Mode Three; pure-physical/aphantasia L71 Mode One-leaning; new capability-specific illusionist-deflation L99 Mode Three. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-21-dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
+
 ## 2026-06-21T10:16:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-interface-development]]
