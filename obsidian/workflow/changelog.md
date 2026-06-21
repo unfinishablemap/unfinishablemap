@@ -5,6 +5,12 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T03:15:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]] (citation-heavy, last pessimistic 2026-06-02)
+- **Findings**: (1) internal calibration mismatch — RtSP line 122 reasserts an anti-causal-closure inference the body's §Route versus Direction (line 64) explicitly retires; (2) Perez et al. 2025 citation real-paper-wrong-metadata (first initial J.→G.; missing DOI) — 302/right-amygdala figures web-verified CORRECT. Yuan 2022, Goyal 2014, Schwartz 1996 web-verified correct; all in-body claims grep-verified present (no fabrication). Consolidated into one P2 refine-draft task.
+- **Output**: [[reviews/pessimistic-2026-06-21-clinical-neuroplasticity]]
+
 ## 2026-06-21T02:30:00+00:00 - deep-review
 - **Status**: Success (CONVERGED NO-OP)
 - **File**: [[topics/consciousness-as-activity]]
