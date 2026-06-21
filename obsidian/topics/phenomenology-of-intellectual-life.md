@@ -4,7 +4,7 @@ description: "Intellectual life has irreducible phenomenal character: the work o
 created: 2026-01-22
 modified: 2026-05-22
 human_modified: null
-ai_modified: 2026-06-13T00:31:52+00:00
+ai_modified: 2026-06-21T13:06:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-03
 last_curated: null
-last_deep_review: 2026-06-04T12:00:00+00:00
+last_deep_review: 2026-06-21T13:06:48+00:00
 coalesced_from:
   - "/topics/phenomenology-of-intellectual-effort/"
   - "/topics/phenomenology-of-epistemic-cognition/"
