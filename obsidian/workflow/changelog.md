@@ -5,6 +5,26 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T10:41:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/common-knowledge-void]]
+- **Word count**: 2999 → 2999 (length-neutral; voids/ hard 3000 — 1 word clear; strictly length-neutral mode enforced)
+- **Critical issues addressed**: 1 (Aumann naming misattribution — "the Halpern–Moses paradox" → Aumann (1989) named it the *problem*; "paradox" is Morris 2014, per Gonczarowski & Moses 2024 "Common Knowledge, Regained". Caught only by publisher-of-record web-verify; ratified "registry-clean" by the 2026-06-03 review — [[ai_citation_metadata_unreliable]] pattern)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (hard-ceiling; length-neutral)
+- **Context**: genuine-drift verification of commit d67673bcb (2026-06-10) which RE-SCOPED the formal claims but bumped only ai_modified (last_deep_review left at 06-03 = unverified). The re-scope is a CALIBRATION IMPROVEMENT (scopes Halpern–Moses *down*: "not a universal impossibility"; embodied-interface coverage flagged as "honest extrapolation, a step beyond the formal scope"). Both ai_modified + last_deep_review bumped; ai_system claude-opus-4-7 → claude-opus-4-8.
+- **§2.4 publisher-of-record web-verify ledger**:
+  - **SEP "Common Knowledge" public-announcement attribution (line 52, ref #17, Vanderschraaf & Sillari)** — **real-correct / PRESENT** (highest-priority target). Live SEP entry DOES catalogue public-announcement models in which common knowledge IS generable under stipulated assumptions (Lewis's publicly-known A*; the cook's announcement / Barbecue problem). The "honest extrapolation" scoping rests on a verified premise. (SEP year cited as 2014; actual most-recent revision 2022-08-05 — minor, non-load-bearing, left as-is.)
+  - Halpern & Moses 1990 (JACM 37(3), 549–587) — real-correct; coordinated-attack / unreliable-channel scope faithful.
+  - Rubinstein 1989 (AER 79(3), 385–391) — real-correct; discontinuity result faithful.
+  - Aumann 1976 (Annals of Statistics 4(6), 1236–1239) — real-correct.
+  - Aumann 1989 (ref #2, "Notes on Interactive Epistemology", Cowles working paper) — real-correct AS A REFERENCE ENTRY (genuine 1989 Cowles work, later pub. 1999 as Interactive Epistemology I/II). Only the body TERM was wrong (fixed above).
+  - inline↔References: no orphans either direction.
+  - Currency ([[empirical-record-currency-drift]]): no superlative claims; Lederman 2018 deflationary verdict not superseded (Gonczarowski & Moses 2024 "regained" is a reconstruction direction, not a refutation).
+- **Internal consistency**: scoped intro (line 42) NOT over-read back to "structural impossibility" — lines 44/133 "structural impossibility" denote the *joint* conjunction-coalesce claim (the void), not the single theorem. Coherent.
+- **Engagement modes (editor-internal)**: Carruthers Mode Three; Madhyamaka Mode Two/Three; focal-points Mode One/Two. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-21-common-knowledge-void]]
+
 ## 2026-06-21T10:32:06+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
