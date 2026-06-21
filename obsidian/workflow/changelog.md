@@ -5,6 +5,15 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T08:33:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-domain-void-comparison]]
+- **Task**: P2 anchoring-calibration (Audit Three of [[project/calibration-audit-triple]]) — hedge-profile over-claim vs anchor [[naturally-occluded]]
+- **Changes**: Length-neutral hedge-profile recalibration (3 declaratives reworded to hedged forms): (1) lead verdict "comparison establishes coherence...one difference cuts the other way" → "appears to earn...may cut the other way"; (2) restated-verdict "comparison establishes that consciousness is distinctively..." → "suggests that..."; (3) Lawvere-unification "are *not* independent: they are two faces" → "may *not* be independent: they appear to be two faces" (warranted — already flagged as the Map's non-settled developed extension). Removed both `establishes` strong-assertions (kept the faithful Gödel "shows that"); added 5 hedge markers (appears/may/suggests/may/appears).
+- **Result**: evaluate_anchoring now CLEARS (was 2 failed checks). hedge density 1.98→3.10/kw (≥3.0 cap PASS); strong-assertion density 0.85→0.28/kw (≤0.51 PASS). Word count 3538→3544 (soft_warning, well under 4000 hard ceiling).
+- **Preserved**: all P1 framing work from commit 6658eca2 (bounded common-cause-null verdict, deleted upgrade claim NOT reintroduced, compatible-with register, difference-that-cuts-other-way section, observer-in-physics sentence).
+- **Published**: yes
+
 ## 2026-06-21T08:20:00+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: ~1.5 days since prior run (2026-06-19)
