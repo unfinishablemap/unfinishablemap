@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-20 18:35:00+00:00
+ai_modified: 2026-06-21 18:20:26+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[attention-as-interface]]'
 created: 2026-02-23
-date: &id001 2026-02-23
+date: &id001 2026-06-21 18:20:26+00:00
 description: Human+AI exploration of the body's internal sensing channels as the structured
   substrate through which consciousness engages physical reality.
 draft: false
@@ -73,7 +73,7 @@ The phenomenological distinction between the *lived body* (Husserl's *Leib*) and
 
 ### Nociception and Pleasure
 
-Pain and pleasure are the somatic interface's evaluative channels—the body's way of marking events as harmful or beneficial. Nociception (pain signaling) is particularly informative for the interface reading because of its relationship to consciousness.
+Pain and pleasure are the somatic interface's evaluative channels—the body's way of marking events as harmful or beneficial. Nociception (pain signaling) is particularly informative for the interface reading because of its relationship to consciousness. The cutaneous side of this evaluative work—affective touch, the felt warmth of contact, the awfulness of a burn—is developed in full at [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/), which treats the skin as its own structured channel where discriminative and affective sub-systems dissociate in the same layered pattern.
 
 [Pain asymbolia](/topics/pain-consciousness-and-causal-power/)—a condition where patients detect nociceptive signals without experiencing suffering—demonstrates that the somatic interface has layers. The signal arrives, but the phenomenal character (the *awfulness* of pain) does not follow automatically from the signal. Materialist neuroscience explains this dissociation through distinct neural pathways: the sensory-discriminative pathway (localising pain) separates from the affective-motivational pathway (generating suffering), and damage to the latter eliminates the felt awfulness while leaving detection intact. This is a complete functional explanation. The interface reading does not dispute it. What the interface reading highlights is the structural parallel to the [hard problem](/topics/hard-problem-of-consciousness/): even a full account of which pathways do what leaves open *why* pathway activity in the affective system constitutes suffering at all. On the Map's framework, consciousness *receives and qualifies* the transmitted signal—the body proposes, consciousness disposes. This is a metaphysical interpretation of the same clinical facts, not a competing clinical hypothesis.
 
@@ -130,6 +130,7 @@ The three properties together — layered, phenomenal-character-shaping, bidirec
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the control surface for consciousness
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities extending the memory framework
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's resistance to reduction and the inseparability of phenomenal character from causal power
+- [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) — The skin as a structured channel: discriminative versus affective touch, and how cutaneous dissociations mirror the somatic interface's layered pattern
 - [interoceptive-void](/voids/interoceptive-void/) — The structural opacity of the body's interior to the consciousness that occupies it
 - [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/) — How the accessible visceral channels divide brain-side from mind-side labour, and how interoception inverts the cross-modal capability-division asymmetry
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Three-layer decomposition of warranted trust in first-person reports, parallel in register to the channel structure here

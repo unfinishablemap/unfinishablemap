@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-05-26 08:40:12+00:00
+ai_modified: 2026-06-21 18:40:43+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,13 +31,13 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[blindsight]]'
 created: 2026-01-16
-date: &id001 2026-04-06
+date: &id001 2026-06-21
 description: Conscious experience carries intrinsic evaluative character—felt goodness,
   badness, beauty, wrongness—extending the hard problem of consciousness into value.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 08:40:12+00:00
+last_deep_review: 2026-06-21 18:40:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,6 +100,8 @@ While hedonic [valence](/concepts/valence/) matters, the Map holds it is not the
 | **Connection** | Authentic relationship with others |
 
 This pluralist move trades metaphysical strength for broader applicability. The hedonic identity thesis has the force of strict identity. Extending value to agency, understanding, and connection weakens this to a genus-species relationship. The Map accepts this trade because pure hedonism fails phenomenologically: the value of understanding a proof or choosing courageously is not exhausted by any accompanying pleasure.
+
+The cleanest perceptual exemplar of constitutive valence comes from touch. [Affective C-tactile touch and pain](/topics/tactile-consciousness-and-the-interface/) separate at the point of contact into two distinct channels carried by distinct fibres: a discriminative channel reporting *what* and *where*, and an affective channel whose pleasantness or aversiveness arrives *with* the touch rather than as a verdict pronounced on a neutral percept afterward. Because the same skin event splits experimentally into a neutral discriminative report and a valenced affective tone, touch supplies a worked dissociable case for the thesis that some phenomenal character is constitutively evaluative rather than neutral-then-judged.
 
 ## Normative Phenomenology as Method
 
@@ -204,6 +206,7 @@ None of these findings currently obtains.
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounded in evaluative qualia
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How phenomenal normativity manifests across domains
+- [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) — Affective touch and pain as a dissociable two-channel contact case for constitutive valence
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — How demand-character and pragmatism's reflexive argument jointly foreclose functionalism
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalising phenomenal normativity for AI alignment
 - [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/) — Why evaluative qualia ground genuinely objective AI alignment criteria

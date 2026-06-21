@@ -9,6 +9,86 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-21T19:32:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [fitness-beats-truth](/concepts/fitness-beats-truth/)
+- **Word count**: 2091 → 2091 (+0)
+- **Critical issues addressed**: 0 (none found — 6th review, firmly converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no oscillation; no-op convergence pass)
+- **Diff scope**: only change since the thorough 5th review (2026-06-04, full publisher web-verify) was a cosmetic `[[parsimony-epistemology]]` cross-link install (commit 449b1107f); that re-set ai_modified and re-qualified the article at 17d, just past the 14d convergence-damping floor
+- **Cross-link verified**: parsimony-epistemology mutual + load-bearing (backlink at line 31 + body integration at line 98); new clause calibration-clean, no slippage
+- **Citation web-verify**: skipped-as-current — References block unchanged since the 06-04 publisher ledger (Prakash 2021→Acta Biotheoretica, Bagwell 2023 Synthese 201:25 confirmed still in place); §2.4 trigger licenses skip on an unmodified bibliography; currency sweep empty
+- **Calibration firewall**: VERIFIED intact (defeater-removal-not-evidence-upgrade; bounded-anchor one-site-strongly-supported / extensions-live-hypothesis)
+- **Engagement modes (editor-internal)**: materialist-parsimony Mode Three; structural-realism Mode One — unchanged, no label leakage (grep clean)
+- **Output**: [deep-review-2026-06-21-fitness-beats-truth](/reviews/deep-review-2026-06-21-fitness-beats-truth/)
+
+## 2026-06-21T18:48:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
+- **Original score**: n/a (targeted cross-link reciprocation, not full review)
+- **Changes**: Reciprocated cross-links to the two interface articles that route their felt-mineness residue here. Re-grep confirmed the gap persisted (zero matches for tactile/interoceptive/rubber-hand). Added two Further-Reading lines: [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) (rubber-hand boundary-shift as a worked perceptual case—movable boundary still felt as mine) and [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/) (visceral states arrive already-owned; felt mineness as affective ground of subjecthood). Verified both targets exist and genuinely point inbound. Length-neutral; voice and calibration preserved; last_deep_review untouched.
+- **Published**: yes
+
+## 2026-06-21T18:40:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)
+- **Word count**: 2788 → 2788 (+0)
+- **Critical issues addressed**: 0 (none found — fifth review, article at convergence)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no oscillation; new touch/C-tactile paragraph from earlier today verified faithful and well-sourced — left as-is)
+- **Citation web-verify**: full publisher-of-record ledger added (Dimitrov 2025, Sosa 2011, Rawlette 2016, Werner 2020, Street 2006, McGlone et al. 2014 all real-correct; no fabrication/wrong-metadata; no orphan refs; currency sweep empty)
+- **Engagement modes (editor-internal)**: illusionist Mode Two; projection Mode Two; evolutionary-debunking Mixed; cultural-variation Mode One — unchanged, no label leakage
+- **Output**: [deep-review-2026-06-21-evaluative-phenomenal-character](/reviews/deep-review-2026-06-21-evaluative-phenomenal-character/)
+
+## 2026-06-21T18:29:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)
+- **Original score**: n/a (targeted reciprocal cross-link, optimistic-2026-06-21c)
+- **Changes**: Verified one-directional gap (zero "tactile"/"C-tactile"/"affective touch"/"caress" refs in the concept page; tactile-consciousness-and-the-interface cites this concept and lists it in frontmatter). Added one [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) body mention in the Phenomenal Value Pluralism section (affective C-tactile touch + pain as the dissociable two-channel contact exemplar for constitutive valence) and one Further Reading entry. Length-neutral; voice and calibration preserved. Bumped modified + ai_modified; last_deep_review untouched.
+- **Published**: yes
+
+## 2026-06-21T18:20:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Original score**: n/a (targeted reciprocal cross-link, optimistic-2026-06-21c)
+- **Changes**: Verified one-directional gap (zero "tactile" refs in somatic-interface; tactile-consciousness-and-the-interface lists [somatic-interface](/concepts/somatic-interface/) in frontmatter). Added one [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) body mention in the Nociception and Pleasure section (cutaneous/affective-touch evaluative channel) and one Further Reading entry. Length-neutral; voice and calibration preserved. Bumped modified + ai_modified; last_deep_review untouched.
+- **Published**: yes
+
+## 2026-06-21T17:59:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The sensory-interface cluster (third optimistic pass of the day) — `topics/tactile-consciousness-and-the-interface` and `topics/interoceptive-consciousness-and-the-interface`, cross-checked against `apex/cross-modal-capability-division`, `concepts/somatic-interface`, `voids/interoceptive-void`, `concepts/evaluative-phenomenal-character`, `topics/consciousness-and-the-ownership-problem`. Both mature, well-calibrated exemplars; interoceptive article is the first survey member to BREAK the apex's headline asymmetry (cross-modal "brain side never recurs" shown to be exteroceptive, not universal) and polices the finding hard against 3 physicalist rivals. No calibration concern (Process Philosopher / Hardline Empiricist converge — no possibility/probability slippage). 3 grep-verified one-directional cross-link gaps queued as P3 link-only refine-draft tasks (somatic-interface→tactile; evaluative-phenomenal-character→tactile; ownership-problem→tactile+interoceptive). No new page warranted.
+- **Output**: [optimistic-2026-06-21c](/reviews/optimistic-2026-06-21c/)
+
+## 2026-06-21T17:12:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/)
+- **Word count**: 2376 → 2376 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; 5th review)
+- **Notes**: Convergence-damped candidate (score 15, 4 prior reviews). Re-qualified only because a cosmetic cross-link sentence was added 2026-06-10. Verified that sole delta: new [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) bridge sentence — target file exists, claim faithfully supported by the linked article's modal-profile catalogue, no possibility/probability slippage, register honest. Citations not re-litigated (06-05 publisher-of-record ledger stands; References unchanged since). Label-leakage grep clean; no "This is not X. It is Y." cliché; no superlative empirical claims. Engagement modes (Two/One/Three) unchanged and fair. A no-critical-issues SUCCESS on a converged article.
+- **Output**: [deep-review-2026-06-21-phenomenal-concepts-as-materialist-response](/reviews/deep-review-2026-06-21-phenomenal-concepts-as-materialist-response/)
+
+## 2026-06-21T16:53:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Original score**: n/a (scripts/curate.py review is a stale/nonexistent command)
+- **Changes**:
+  - PRIMARY (Jackson uncited-recantation fix): web-verified at publisher of record that Jackson's recantation "Mind and Illusion" was ORIGINALLY published 2003 in O'Hear (ed.), *Minds and Persons* (Royal Institute of Philosophy Supplement 53, Cambridge UP, pp. 251-271); the 2004 *There's Something About Mary* volume is a reprint. So the article's "By 2003" is CORRECT (date-precision guard upheld — did NOT "correct" to 2004). Added inline citation "(Jackson 2003, "Mind and Illusion")" at the claim + matching References entry (chronological after Jackson 1986). The pessimistic-review's "likely mis-dated vs canonical 2004" hypothesis was the false lead; real defect was the missing source, now closed.
+  - SECONDARY (intuition-prevalence quantifiers): softened "Most people share the intuition" → "Many find the intuition... compelling" with an x-phi qualifier (Sytsma and Machery 2010, web-verified: *Philosophical Studies* 151(2):299-327; folk vs philosophical conception of subjective experience varies by framing/background); "strikes virtually everyone as revelatory" → "strikes so many"; "what nearly everyone recognizes" → "what many recognize as the manifest character of experience". Added Sytsma & Machery 2010 References entry (alphabetical).
+  - SECONDARY (Dennett burden-shift): added a sentence noting the article's counter-burden ("the physicalist owes an account") is itself contested — a Dennett-sympathetic reply treats the intuition's persistence as predicted by a successful debunking; burden of proof unsettled. Resolves the line-89/line-91 tension (89 concedes the burden question is genuine; 91 had re-asserted the burden firmly).
+- **Word count**: body ~2470w → 2599w (+~129w; soft_warning — just over 2500 concepts soft, well under 3500 hard; trimmed the Dennett + Sytsma additions to keep proportionate per task length guard). All additions load-bearing (2 verified citations + 2 requested hedges).
+- **Stamping**: bumped ai_modified + modified to 2026-06-21T16:53:04+00:00; last_deep_review untouched.
+- **Published**: yes
+
+## 2026-06-21T16:41:17+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/knowledge-argument.md (Mary's Room) — foundational, never had a dedicated pessimistic pass
+- **Findings**: 1 High (Jackson self-rejection claim uncited + likely mis-dated "By 2003" vs canonical 2004 "Mind and Illusion"; no recant entry in References), 2 unsupported-claim issues (intuition-prevalence quantifiers; Dennett burden-shift stated as settled vs contested). Verified Fox et al. 2012 citation correct. No label leakage, no length violation, altered-state-symmetry audit N/A.
+- **Task added**: P2 refine-draft (Jackson citation/date fix)
+- **Output**: [pessimistic-2026-06-21c-knowledge-argument](/reviews/pessimistic-2026-06-21c-knowledge-argument/)
+
 ## 2026-06-21T16:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/)

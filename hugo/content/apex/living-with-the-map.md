@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_generated_date: 2026-01-31
 ai_modified: 2026-05-14 20:42:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-05-01 21:33:00+00:00
+apex_last_synthesis: 2026-06-21 20:15:00+00:00
 apex_sources:
 - topics/meaning-of-life
 - topics/ethics-under-dualism
