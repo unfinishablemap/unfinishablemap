@@ -5,6 +5,23 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T05:48:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
+- **Scope**: 7th review, convergence-damped (score 15). Genuine (small) own-body drift since 06-01: commit c6ebca1d9 fixed a propagated wrong-author cite (Fazekas → Bilzer & Monzel). Web-verified the corrected cite + a flip-flop statistic at publisher of record.
+- **Word count**: 3266 → 3292 (+26; length-neutral mode, soft_warning 110% of 3000, well under 4000 hard)
+- **Critical issue fixed (1)**: source-overstatement in the Vividness Surplus. Body claimed Bilzer & Monzel (2025) found dreams "significantly more vivid than voluntary waking imagination, especially in emotional and visual content." The paper found a MIXED profile: emotional + visual more vivid in dreams, but auditory/olfactory/gustatory/tactile MORE vivid in WAKING. Reworded to the faithful selective-surplus framing (argument preserved/sharpened).
+- **Citation ledger**: Bilzer & Monzel 2025 (Vision 9(2):37) — real-correct (verified MDPI; the 06-01 review had web-verified the WRONG-author "Fazekas et al." form, now superseded). Konkoly et al. 2026 (Neurosci. of Consciousness niaf067, 42% vs 17%) — real-correct, verified at PMC/Oxford; corpus-consistent across 4 live files. NOTE: 06-01 review file's ledger wrongly claims the figure is "39% vs 16%" — phantom correction; live content (42/17) is correct.
+- **Drift classification**: genuine-but-small (citation author fix), not cosmetic.
+- **Currency**: no superlative claims flagged.
+- **Calibration**: §2 diagnostic test passed — 05-29 evidential-status calibration intact, no slippage. No banned cliché.
+- **Resolved remaining-item**: 06-01's apex venue defect (Konkoly cited as Consciousness and Cognition) already fixed in the 06-02 apex deep-review.
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (faithful vividness reframing)
+- **Output**: [[reviews/deep-review-2026-06-21-lucid-dreaming-and-dualist-rendering]]
+- **ai_modified bumped**: yes (real body content fix)
+
 ## 2026-06-21T05:20:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/witness-consciousness]]
