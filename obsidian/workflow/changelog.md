@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-21T14:59:48+00:00
+ai_modified: 2026-06-21T15:15:05+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-21T15:15:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]]
+- **Word count**: 4957 → 4962 (+5 net; length-neutral, 38w under 5000 hard ceiling)
+- **Critical issues addressed**: 1 (stale retention-protention dependency at line 151 — the 06-10 Husserl fix corrected line 147 but left a dependent claim proposing retention-protention as the all-three unifying mechanism, contradicting the corrected "Thrownness draws on bracketing instead"; rewrote the parenthetical, offset with two trims)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (line-151 fix also strengthens the "not yet" verdict — unifying-mechanism bar now correctly higher than retention-protention alone)
+- **Source-ledger web-verify**: 14/14 ledger entries real-correct (exist + correct date + LIVE Hugo page, 0 archive-notice markers); transit/temporal/mechanism-costs/cardinality-floor-anchor all confirmed live, not archive-redirected. Old "Oquatre-sept/six" author inconsistency RESOLVED by the 06-10 rewrite (numbered References list deleted). One LOW: mechanism-costs-cartography is body-unreferenced "adjacent discipline" ledger entry (pre-existing, honestly labelled, not acted on).
+- **Husserl re-attribution**: 06-10 fix verified HELD and accurate against transit-void/temporal-void/thrownness-void sources; flip-flop guard satisfied, "all three" NOT restored.
+- **Output**: [[reviews/deep-review-2026-06-21-conjunction-coalesce]]
 
 ## 2026-06-21T14:59:48+00:00 - deep-review
 - **Status**: Success
