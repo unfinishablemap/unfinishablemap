@@ -4,10 +4,50 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-20 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-20'
+date: '2026-06-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-21T00:40:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Word count**: 2834 → 2834 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Converged no-op (5th review). Only change since the 06-04 review was the corpus-wide Xu→Luo cryptochrome-4a citation correction (commit ce64fe795, 06-16), already web-verified at publisher of record (DOI 10.1021/jacs.5c15726). Verified family consistency, no fabricated-cite residue, inline↔References integrity, wikilinks resolve, length 113% soft / under hard. No findings manufactured. Stamped `last_deep_review` only; `ai_modified` NOT bumped (no body change).
+- **Output**: [deep-review-2026-06-21-epiphenomenalism-argument](/reviews/deep-review-2026-06-21-epiphenomenalism-argument/)
+
+## 2026-06-20T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/)
+- **Word count**: 2658 → 2658 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Converged at creation. Never-reviewed fresh-create (2026-06-20); full discipline applied. All 7 external citations verified real-correct at publisher of record / CrossRef / PubMed — Craig 2002 (NRN 3:655–666), Critchley 2004 (Nat Neurosci 7:189–195, PMID 14730305), Seth 2013 (TiCS 17:565–573), Barrett & Simmons 2015 (NRN 16:419–429), Park & Tallon-Baudry 2014 (Phil Trans R Soc B 369:20130208), Garfinkel 2015 (Biol Psychol 104:65–74), Loescher 2025 (PNAS 122(49):e2516229122, finding confirmed). Inline↔Refs complete; no orphans. Calibration exemplary (consonant-not-probative throughout; §2 slippage test negative — no tenet-as-evidence upgrade). No label leakage; rival-engagement (interoceptive inference, Damasio constitutive reading) is honest framework-boundary marking. Attributions faithful. 14 wikilinks resolve; reciprocally integrated with the cross-modal apex. No body edit → ai_modified NOT bumped, last_deep_review stamped only.
+- **Engagement modes** (editor-internal): interoceptive inference (Seth/Barrett/Park): Mode Three framework-boundary marking — disagreement at the ownership term, declared argumentative, correctly not dressed as in-framework refutation. Damasio constitutive reading: Mode Three — genuine rival, boundary marked, no source/Map conflation.
+- **Output**: [deep-review-2026-06-20-interoceptive-consciousness-and-the-interface](/reviews/deep-review-2026-06-20-interoceptive-consciousness-and-the-interface/)
+
+## 2026-06-20T23:03:30+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: mathematics / formal-systems / argument-from-reason cluster (6 topics: consciousness-and-mathematics, argument-from-reason, consciousness-and-the-authority-of-formal-systems, consciousness-and-the-normativity-of-reason, phenomenology-of-mathematical-understanding, concession-convergence-philosophy-of-mathematics). Reports-only; grep-verified all cross-link claims.
+- **Findings**: Exemplary evidential discipline (PMU Ramanujan exhibit + CC common-cause-null refuse tier-upgrade by name — Process/Hardline-Empiricist personas converge, no calibration concern). One grep-verified actionable gap: NORM↔CM never link (0 both directions, NORM body has no "mathemat", CM body has no "normativ") despite being the logical-/mathematical-necessity siblings. Built 6×6 cross-link matrix; AUTH/NORM→PMU and AFR→CM also zero (AFR deferred — over hard ceiling). Logged 3 harvest candidates.
+- **Tasks written**: 1 P2 refine-draft (NORM↔CM bidirectional cross-link) inserted at bottom of P2 group, not committed.
+- **Output**: [optimistic-2026-06-20e](/reviews/optimistic-2026-06-20e/)
+
+## 2026-06-20T22:50:28+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [cross-modal-capability-division](/apex/cross-modal-capability-division/)
+- **Mode**: evolve (deeper-synthesis pass — interoception inward-inversion fold-in)
+- **Changed sources**: 1 ([interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/), admitted as 6th apex source)
+- **Section added**: "The Inward Case That Inverts Both Terms" — upgrades the single creation-time inbound paragraph to a first-class structural treatment; brain side converges onto insula/ACC (Craig 2002, Critchley 2004), mind side becomes affect+ownership (Seth 2013, Barrett & Simmons 2015, Park & Tallon-Baudry 2014); the headline asymmetry shown to be exteroceptive, not universal. Synthesis section gained a scope-condition paragraph; redundant inbound paragraph slimmed to a cross-reference.
+- **Citations**: 5 reused publisher-verified interoception cites added as References 7–11; no new unverified cites (Garfinkel 2015, Loescher 2025 left in source article, not pulled in).
+- **Governance**: interoception admitted to apex_sources (frontmatter + master-list entry #33 with Evolved footnote) under the cross-review integration discipline.
+- **Word count**: 2927 → 3715 (within soft 4000 / hard 5000)
+- **Calibration**: consonant-not-probative preserved; common-cause-null cap noted; no banned construct.
+- **Review**: [apex-evolve-2026-06-20-cross-modal-capability-division-evolve](/reviews/apex-evolve-2026-06-20-cross-modal-capability-division-evolve/)
 
 ## 2026-06-20T22:30:00+00:00 - expand-topic
 - **Status**: Success

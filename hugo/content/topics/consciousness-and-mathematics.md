@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-06-19 07:30:00+00:00
+ai_modified: 2026-06-20 23:13:05+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -212,6 +212,7 @@ The view would be supported by continued failure of AI to achieve transformation
 ## Further Reading
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader case for phenomenal character in thinking
+- [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — The logical-necessity companion: the felt bindingness of inference as the normative face of the same phenomenology
 - [creative-consciousness](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel's incompleteness and quantum measurement as the same self-referential obstruction

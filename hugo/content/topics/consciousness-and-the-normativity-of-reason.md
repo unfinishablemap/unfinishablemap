@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-06-05 12:29:42+00:00
+ai_modified: 2026-06-20 23:13:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -119,6 +119,7 @@ The normativity of reason is the test case for whether physicalism can account f
 ## Further Reading
 
 - [argument-from-reason](/topics/argument-from-reason/)
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — mathematical necessity as the companion face of logical necessity; the felt bindingness of inference parallels CM's "The Experience of Necessity"
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
