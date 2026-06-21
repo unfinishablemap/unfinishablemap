@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-06-21T00:00:00+00:00
 
 apex_type: synthesis
 apex_sources:

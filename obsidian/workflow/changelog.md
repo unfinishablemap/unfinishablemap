@@ -5,6 +5,19 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T06:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/cross-modal-capability-division]]
+- **Context**: First deep-review of a fresh-create apex (created 2026-06-20). Reviewed under [[fresh-create-defect-tail]] — create stamp not trusted.
+- **Word count**: 3850 → 3850 (no body change; clean after real scrutiny)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: all 11 References independently verified at publisher of record → all real-correct (Sanchez 2020 PNAS 117(13), Mashour 2020 Neuron 105(5), Deroy 2014 PTRSB 369:20130207, Malnic 1999 Cell 96(5), Fahrenfort 2017 PNAS 114(14), Bregman 1990 MIT Press, Craig 2002 NRN 3(8), Critchley 2004 NatNeuro 7(2), Seth 2013 TiCS 17(11), Barrett & Simmons 2015 NRN 16(7), Park & Tallon-Baudry 2014 PTRSB 369:20130208). The load-bearing Sanchez verbatim body quote matches the published abstract exactly. Perfect inline↔References reciprocity; no orphans, no fabricated quotes.
+- **Calibration**: GNW-rival framing exemplary (Sanchez signature conceded as shared explanandum / global ignition, not interface proof); Deroy double-dissociation + Fahrenfort graded-boundary caveats present and not overstated; common-cause-null applied; no tenet-as-evidence upgrade. Engagement with the GNW rival: Mode Two (out-accommodation, conceding the shared explanandum) — honest, no boundary-substitution, no label leakage.
+- **Frontmatter**: last_deep_review → 2026-06-21T00:00:00+00:00 (first review; ai_modified left at create stamp since no body edit).
+- **Output**: [[reviews/deep-review-2026-06-21-cross-modal-capability-division]]
+
 ## 2026-06-21T05:52:37+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
