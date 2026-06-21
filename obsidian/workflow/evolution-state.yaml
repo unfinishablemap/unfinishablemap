@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T13:32:03.711294+00:00'
-session_count: 12600
+last_updated: '2026-06-21T13:44:09.998863+00:00'
+session_count: 12601
 cycle_position: 9669
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T11:41:11.646535+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
-  replenish-queue: '2026-06-21T13:29:53.679930+00:00'
+  replenish-queue: '2026-06-21T13:44:09.998863+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-20T22:35:01.433959+00:00'
   add-highlight: '2026-06-21T08:22:24.866610+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1238,23 +1238,23 @@ queue_status:
     alternation (unfin_loop_steady_state), NOT the fixed deadlock: since run 497 the
     loop PICKED + EXECUTED apex/assessing-ai-consciousness-under-the-map (HEAD-era
     commit 498b1d5ed 13:23, now below the Completed header), dropping the live floor
-    from 3 back to 2. FULL EIGHT-SOURCE AUDIT independently re-run, all exhausted EXCEPT
-    genuine-drift: (1 chain) recent_tasks Counter ZERO research-topic/expand-topic/cross-review
+    from 3 back to 2. FULL EIGHT-SOURCE AUDIT independently re-run, all exhausted
+    EXCEPT genuine-drift: (1 chain) recent_tasks Counter ZERO research-topic/expand-topic/cross-review
     completions (types = deep-review, replenish-queue, agentic-social, refine-draft,
     coalesce). (2 unconsumed research) the three newest 2026-06-20 notes disk-verified
     CONSUMED into live consumer articles. (3 gap) caps have headroom (topics 275/320,
     concepts 265/320, positions 5/80; voids 101/100 OVER) but new-article generation
-    is harvester-governed (harvest-research-subjects last 09:32, next ~15:32 UTC, current
-    ~13:34) and replenish gap-analysis is dedup-blocked against the Vetoed bank. (4
-    staleness >=30d) re-verified ZERO AI-heavy files with last_deep_review >30d (programmatic
-    scan; corpus fully converged on the 30-day cadence). (5 length) re-confirmed: every
-    content-section hard+ offender is a research/ working note, a HUMAN-deferred calibration
-    anchor (epistemology-of-convergence-arguments 6479w + born-rule 5106w DEFERRED-TO-HUMAN;
-    clinical-dissociation + time-collapse-and-agency DIVERTED), an index hub (apex-articles
-    7967w), a deferred/#veto apex (phenomenal-output 6872w, machine-question 5001w),
-    #veto (composition-question-rivals 4106w), accept-as-survey (memory-channel-interface),
-    or an ALREADY-CONDENSED article whose residual over-length is protected calibration
-    -- NO safe fresh condense candidate (replenish-overmints-condense-vs-accept-as-survey).
+    is harvester-governed (harvest-research-subjects last 09:32, next ~15:32 UTC,
+    current ~13:34) and replenish gap-analysis is dedup-blocked against the Vetoed
+    bank. (4 staleness >=30d) re-verified ZERO AI-heavy files with last_deep_review
+    >30d (programmatic scan; corpus fully converged on the 30-day cadence). (5 length)
+    re-confirmed: every content-section hard+ offender is a research/ working note,
+    a HUMAN-deferred calibration anchor (epistemology-of-convergence-arguments 6479w
+    + born-rule 5106w DEFERRED-TO-HUMAN; clinical-dissociation + time-collapse-and-agency
+    DIVERTED), an index hub (apex-articles 7967w), a deferred/#veto apex (phenomenal-output
+    6872w, machine-question 5001w), #veto (composition-question-rivals 4106w), accept-as-survey
+    (memory-channel-interface), or an ALREADY-CONDENSED article whose residual over-length
+    is protected calibration -- NO safe fresh condense candidate (replenish-overmints-condense-vs-accept-as-survey).
     (6 orphan) orphaned_files=0. (7/8 positions/applied-apex) slow-add (positions-evolve
     last 2026-06-20T00:58, audit within 30d). GENUINE-DRIFT MINT: a full own-body-vs-cosmetic
     git classification of the 170-candidate ai_modified>last_deep_review pool -- the
@@ -1266,22 +1266,22 @@ queue_status:
     a unified Source-Articles ledger of canonical URLs -- both citation/attribution
     edits bumped ai_modified but NOT last_deep_review, so UNVERIFIED by deep-review,
     coalesce-hides-review-debt sibling). Minted as P2 deep-review, FIFO-placed AFTER
-    the two existing pickable deep-reviews (queue-lifo-starvation). Review remit: 3-state
-    verify the new Source-Articles ledger (canonical URLs LIVE not archive-redirect/404
-    per archival_link_rot + coalesce-stale-hugo-duplicate-urls; per-article dates; Oquatre-sept/Oquatre-six
-    author-name consistency; no orphan inline cite / no unused ledger entry), verify
-    the Husserl re-attribution did not over-correct (barrett-2021 flip-flop risk -- do
-    NOT restore "all three"), evidential-status on the coalesce-discipline verdicts.
-    LENGTH: body 4957w soft_warning (apex soft 4000/hard 5000/critical 6500), only
-    ~43w headroom -- review STRICTLY length-neutral-or-trimming; NOT a condense candidate,
-    NOT a human-deferred anchor. NOT vetoed (only Vetoed hit is an old completed condense),
-    no open duplicate. Floor RESTORED: post-mint tools.evolution.task_selector.count_p0_p2_tasks=3.
-    Expect replenish-at-floor alternation to continue until the harvester reopens the
-    research->expand pipeline ~15:32 UTC.'
-  superseded_497_replenishment_note: 'run no.497 (2026-06-21): NO-MINT floor-restore. Authoritative
-    pre-run tools.evolution.task_selector.count_p0_p2_tasks=2 (the two loop-pickable
-    P2 genuine-drift deep-reviews still pending: concepts/parsimony-epistemology +
-    topics/cross-domain-void-comparison; the #veto condense composition-question-rivals
+    the two existing pickable deep-reviews (queue-lifo-starvation). Review remit:
+    3-state verify the new Source-Articles ledger (canonical URLs LIVE not archive-redirect/404
+    per archival_link_rot + coalesce-stale-hugo-duplicate-urls; per-article dates;
+    Oquatre-sept/Oquatre-six author-name consistency; no orphan inline cite / no unused
+    ledger entry), verify the Husserl re-attribution did not over-correct (barrett-2021
+    flip-flop risk -- do NOT restore "all three"), evidential-status on the coalesce-discipline
+    verdicts. LENGTH: body 4957w soft_warning (apex soft 4000/hard 5000/critical 6500),
+    only ~43w headroom -- review STRICTLY length-neutral-or-trimming; NOT a condense
+    candidate, NOT a human-deferred anchor. NOT vetoed (only Vetoed hit is an old
+    completed condense), no open duplicate. Floor RESTORED: post-mint tools.evolution.task_selector.count_p0_p2_tasks=3.
+    Expect replenish-at-floor alternation to continue until the harvester reopens
+    the research->expand pipeline ~15:32 UTC.'
+  superseded_497_replenishment_note: 'run no.497 (2026-06-21): NO-MINT floor-restore.
+    Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2 (the two
+    loop-pickable P2 genuine-drift deep-reviews still pending: concepts/parsimony-epistemology
+    + topics/cross-domain-void-comparison; the #veto condense composition-question-rivals
     is correctly selector-excluded; all closed/HUMAN-LENGTH-DECISION items do NOT
     count toward the floor), MIN_QUEUE floor 3, unmet by 1. Documented replenish-at-floor
     alternation (unfin_loop_steady_state), NOT the fixed deadlock: since run 496 restored
