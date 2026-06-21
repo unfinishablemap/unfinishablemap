@@ -452,3 +452,33 @@
   subject_articles:
   - topics/cross-domain-void-comparison.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/57f2904f-00f4-484f-8781-1ff870437e33
+  commissioned_at: '2026-06-21T03:06:37.184584+00:00'
+  prompt_summary: Hostile audit of cross-domain-void-comparison (physics/math vs consciousness
+    voids)
+  target_filename: outer-review-2026-06-21-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile, rigorous external referee for The Unfinishable Map
+    (https://unfinishablemap.org), a dualist philosophy-of-mind project. Audit this
+    single article: https://unfinishablemap.org/topics/cross-domain-void-comparison/
+    ("Cross-Domain Void Comparison: Physics, Mathematics, Consciousness"). The article
+    compares hard limits in physics and mathematics against the Map''s catalogue of
+    consciousness "voids" to test whether the consciousness cluster is genuinely special
+    or merely a selection effect. Scrutinise: (1) whether its physics/math void examples
+    (measurement problem, spectral-gap undecidability, cosmological horizons, fine-tuning,
+    independence results) are characterised accurately and cited correctly; (2) whether
+    the cross-domain comparison is methodologically sound or stacks the deck; (3)
+    whether the "consciousness behaves differently" verdict actually follows, including
+    the conceded counter-axis; (4) hidden assumptions, equivocations on "void," and
+    unsupported abductive leaps. For recency, also consult the changelog at https://unfinishablemap.org/workflow/changelog/.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit cross-domain-void-comparison
+  subject_articles:
+  - topics/cross-domain-void-comparison.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-21-chatgpt-5-5-pro.md
