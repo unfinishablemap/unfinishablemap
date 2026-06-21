@@ -5,6 +5,20 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T01:54:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/tactile-consciousness-and-the-interface]]
+- **Trigger**: consolidated anchoring-calibration pass (BOTH cycle-401 anchoring-audit tasks on this file — single pass per outer-review-same-file-task-pileup)
+- **Before**: 2 anchoring flags (vs [[binding-problem]] AND [[evaluative-phenomenal-character]]); hedge density 1.35/kw below targets (2.57 binding / 1.79 eval); strong-assertion density 0.67/kw above 1.5× both anchors. VERIFY-FIRST evaluate_anchoring confirmed genuine content-derived flags before editing.
+- **Changes**:
+  - Softened 2 strong-assertion markers (`establishes`→`traces`; `establishes`→`secures` in the modest negated quantum-mechanism sentence) — strong-assertion density 0.67→0.00/kw.
+  - Added 4 honest hedges where the article asserted more confidently than the evidence licenses (`seems`/`appears`/`seems`/`may`) on the passive-touch-content, no-roughness-quale, double-sensation-interpretation, and binding-case claims — hedge density 1.35→2.67/kw.
+  - Added 2 underdetermination markers ("compatible with both interpretations/readings") in the touching-touched and binding-case modesty passages, per [[evidential-status-discipline]].
+  - Preserved central claim (brain-side/mind-side capability division for touch) and authorial voice; no banned constructs; no content deleted.
+- **After**: evaluate_anchoring returns 0 flags. Profile: hedges 8 (2.67/kw), strong 0 (0.00/kw), underdet 2.
+- **Word count**: 2972 → 3001 (at soft 3000, well under 4000 hard)
+- **Published**: yes
+
 ## 2026-06-21T00:40:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[arguments/epiphenomenalism-argument]]
