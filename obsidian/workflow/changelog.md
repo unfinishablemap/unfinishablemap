@@ -5,6 +5,15 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T23:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Thermal consciousness and the interface (thermoception as a modality-interface case)
+- **Output**: [[research/thermal-consciousness-and-the-interface-2026-06-21]]
+- **Assess-first verdict**: WRITE (standalone, target topics/). Two distinctives survive verification and are not carried by the existing tactile/interoceptive treatments: (a) homeostatically-indexed thermal valence — same stimulus flips valence with body state (Craig's cool-water case; thermal grill), a *different* claim from the tactile article's *fixed*-valence affective touch; (b) thermoception as the exteroception/interoception boundary case — skin thermoreceptors report both ambient and core homeostatic state (Crucianelli & Ehrsson 2023), the boundary the apex asymmetry must locate. Folding into tactile/interoceptive captures (a) only, not the apex-facing (b).
+- **Citation web-verify (publisher of record)**: Craig 2002 NRN 3:655–666 (reused from corpus pool; temperature-specific claim verified via Blomqvist); Craig & Bushnell 1994 Science 265:252–255 PMID 8023144 (volume 265 confirmed; Blomqvist's "256" is a typo); Blomqvist 2023 Temperature 10:395–401 (OA/PMC, verbatim valence quotes); Crucianelli & Ehrsson 2023 Perspect Psychol Sci 18:224–238 (OA/PMC, dual-organ quotes); Barrett & Simmons 2015 (reused from corpus pool); TRP-channel transduction (Julius/Patapoutian 2021 Nobel) verified at NCBI/PubMed — pin a single peer-reviewed TRP review DOI before article-write.
+- **Do-not-cite-until-fetched**: bioRxiv 10.1101/2024.10.11.617819 (anterior-insula thermoceptive predictive coding) — preprint, publisher page 403; Barrett & Simmons covers the same point with stronger status.
+- **Sources consulted**: 7 (4 publisher-verified citable + TRP/predictive rival families + 1 flagged preprint)
+
 ## 2026-06-21T23:30:00+00:00 - cross-review
 - **Status**: Success (confirming / no-op)
 - **File**: [[topics/vestibular-consciousness-and-the-interface]]

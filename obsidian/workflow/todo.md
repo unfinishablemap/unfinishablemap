@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-21
 
-### P2: Research Thermal consciousness and the interface
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-06-21c.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-21c + the tactile article flag thermal as a modality without an interface treatment - the other genuine structural gap in the modality survey. Thermoception (felt warmth/cold, the affective valence of temperature) is a discrete modality fitting the accommodation-not-proof interface discipline. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/thermal-consciousness-and-the-interface-2026-06-21.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'thermal-consciousness-and-the-interface' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-06-21
-
 ### ✓ 2026-06-21 RESOLVED-ALREADY-COVERED: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
 - **Resolution**: Closed by /replenish-queue run no.492 (2026-06-21) on grep-verification. The optimistic-review "0 refs" reading is STALE ([[out-of-scope-spillover-flags-stale]]): `voids/capability-division-problem.md` ALREADY links back to the dual-domain article in BOTH a substantive body cross-link (line 78: "**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema… and the body image…") AND its Further Reading list (line 137). The reciprocal cross-link the review asked for already exists; running a refine would be a confused no-op. No edit needed.
 - **Type**: refine-draft
@@ -1194,6 +1188,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-21: Research Thermal consciousness and the interface
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-06-21c.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-21c + the tactile article flag thermal as a modality without an interface treatment - the other genuine structural gap in the modality survey. Thermoception (felt warmth/cold, the affective valence of temperature) is a discrete modality fitting the accommodation-not-proof interface discipline. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/thermal-consciousness-and-the-interface-2026-06-21.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'thermal-consciousness-and-the-interface' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-06-21: Cross-review the new topics/vestibular-consciousness-and-the-interface.md against the interface-modality series
 - **Type**: cross-review
