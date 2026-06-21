@@ -5,6 +5,15 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T10:04:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/attention-schema-theory]]
+- **Source**: pessimistic-review [[reviews/pessimistic-2026-06-21b-attention-schema-theory]] (verify-first citation fix)
+- **Both-directions web-verify**: independently WebFetched the paper at publisher of record (PMC8379943) plus cross-confirmed via the Princeton publication record and PNAS metadata. 3-state verdict for the author vector = (a): the paper "The attention schema theory in a neural network agent" (PNAS 118(33), e2102421118) has EXACTLY TWO authors — Andrew I. Wilterson & Michael S. A. Graziano. There is NO "Kemper." Today's earlier deep-review (0b38d9769) was WRONG to accept "Kemper"; the pessimistic-review's PMC/PubMed finding was correct.
+- **Changes**: (1) Replaced fabricated "Kemper, C.M." with "Graziano, M.S.A." in Reference 6 (line 245) and changed inline "Wilterson, Kemper et al." → "Wilterson & Graziano" (line 89). (2) Moved the arXiv 2305.17375 cite (Liu/Bolotta/Bengio/Dumas 2023, the multi-agent paper) off the single-agent visuospatial sentence onto the following multi-agent reinforcement-learning sentence where it belongs; left the Wilterson/Graziano PNAS cite on the single-agent claim. Everything else preserved (Igelström→Wilterson fix from 0b38d9769 and all other cites intact).
+- **Length**: body 3497 words (was ~3499) — net change ≤0, under the 3500 concepts hard ceiling.
+- **Published**: yes
+
 ## 2026-06-21T10:15:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/attention-schema-theory]] (first dedicated pessimistic pass since 2026-03-20; deep-reviewed earlier today)

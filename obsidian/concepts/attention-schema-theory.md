@@ -4,7 +4,7 @@ description: "Graziano's theory proposes consciousness is the brain's model of i
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-21T09:45:35+00:00
+ai_modified: 2026-06-21T10:04:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
-last_curated: null
+last_curated: 2026-06-21T10:04:36+00:00
 last_deep_review: 2026-06-21T09:45:35+00:00
 ---
 
@@ -86,7 +86,7 @@ This has implications for [[ai-consciousness|AI consciousness]]. If attention sc
 
 ### Attention Schemas in AI Agents
 
-Neural-network agents given a model of their own attention learn to control visuospatial attention more effectively than those without one (Wilterson, Kemper et al., 2021, *PNAS*; arXiv 2305.17375). In multi-agent reinforcement-learning settings, agents implementing an attention schema as recurrent internal control can also infer other agents' attention and coordinate better. These results show the schema is a *useful* designed resource where attention is hard to track—the cautious, better-supported reading—not something that emerges spontaneously in any sufficiently complex system.
+Neural-network agents given a model of their own attention learn to control visuospatial attention more effectively than those without one (Wilterson & Graziano, 2021, *PNAS*). In multi-agent reinforcement-learning settings, agents implementing an attention schema as recurrent internal control can also infer other agents' attention and coordinate better (arXiv 2305.17375). These results show the schema is a *useful* designed resource where attention is hard to track—the cautious, better-supported reading—not something that emerges spontaneously in any sufficiently complex system.
 
 ## AST's Handling of the Hard Problem
 
@@ -242,7 +242,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Dennett, D.C. (2016). Illusionism as the obvious default theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
 1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
-1. Wilterson, A.I., Kemper, C.M., et al. (2021). The attention schema theory in a neural network agent: controlling visuospatial attention using a descriptive model of attention. *PNAS*, 118(33), e2102421118.
+1. Wilterson, A.I. & Graziano, M.S.A. (2021). The attention schema theory in a neural network agent: controlling visuospatial attention using a descriptive model of attention. *PNAS*, 118(33), e2102421118.
 1. Wilterson, A.I., Nastase, S.A., Bio, B.J., Guterstam, A. & Graziano, M.S.A. (2021). Attention, awareness, and the right temporoparietal junction. *PNAS*, 118(25), e2026099118.
 1. Graziano, M.S.A. (2022). A conceptual framework for consciousness. *PNAS*, 119(18), e2116933119.
 1. Liu, D., Bolotta, S., et al. (2023). Attention schema in neural agents. arXiv:2305.17375.
