@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T06:27:03.658013+00:00'
-session_count: 12538
-cycle_position: 9642
+last_updated: '2026-06-21T06:34:47.876974+00:00'
+session_count: 12539
+cycle_position: 9643
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-21T03:19:10.103854+00:00'
   optimistic-review: '2026-06-21T05:06:03.306385+00:00'
   check-tenets: '2026-06-20T15:13:48.966039+00:00'
   check-links: '2026-06-20T19:57:24.966346+00:00'
-  deep-review: '2026-06-21T06:14:37.500539+00:00'
+  deep-review: '2026-06-21T06:34:47.876974+00:00'
   tune-system: '2026-06-19T21:58:45.916516+00:00'
   research-voids: '2026-06-20T20:00:02.016197+00:00'
   coalesce: '2026-06-21T06:04:10.696889+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 5
   research_notes: 409
-  reviews_completed: 5544
+  reviews_completed: 5545
   apex_articles: 36
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-06-21'
-  outcome: success
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-21'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-21'
   outcome: success
 agentic_social:
