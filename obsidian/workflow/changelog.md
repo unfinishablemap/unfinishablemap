@@ -5,6 +5,14 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T11:01:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/vertiginous-question]]
+- **Task**: P2 reciprocal cross-link refine (optimistic-review 2026-06-21, [[reviews/optimistic-2026-06-21]])
+- **Word count**: 3846 → 3891 (soft_warning; topics/ hard 4000 — 109 words clear; one sentence added, no section)
+- **Changes**: Added one reciprocal sentence at the "Ownership-based answers" paragraph framing the vertiginous question and [[consciousness-and-the-ownership-problem]] as complementary faces of the same residue — indexical face ("why am I *this* subject?") vs possessive face ("why is this experience *mine*?"). Closes one-directional link rot: ownership-problem linked to vertiginous-question 2× ("closely paired") with no back-reference. Wikilink resolves (topics/consciousness-and-the-ownership-problem.md). Voice + all existing calibration preserved.
+- **Published**: yes
+
 ## 2026-06-21T10:41:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/common-knowledge-void]]
