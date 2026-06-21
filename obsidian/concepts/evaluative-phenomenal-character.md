@@ -4,7 +4,7 @@ description: "Conscious experience carries intrinsic evaluative character—felt
 created: 2026-01-16
 modified: 2026-06-21
 human_modified:
-ai_modified: 2026-06-21T18:29:43+00:00
+ai_modified: 2026-06-21T18:40:43+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -54,7 +54,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-05-26T08:40:12+00:00
+last_deep_review: 2026-06-21T18:40:43+00:00
 coalesced_from:
   - "/concepts/phenomenal-normativity/"
   - "/concepts/evaluative-qualia/"
