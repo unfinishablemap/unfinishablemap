@@ -5,6 +5,16 @@ ai_modified: 2026-06-21T13:06:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T13:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/assessing-ai-consciousness-under-the-map]]
+- **Word count**: 2654 → 2654 (±0; no content edits — CONVERGED no-op after real scrutiny)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-21-assessing-ai-consciousness-under-the-map]]
+- **Notes**: GENUINE-DRIFT mint verifying the 2026-06-18 apex-evolve synthesis (4d57aa351) that added the Birch gaming-problem paragraph + rewrote decision #2 — UNVERIFIED by deep-review until now. Did NOT trust the apex-evolve stamp. (a) CITATION web-verified at publisher of record: Birch 2024 *The Edge of Sentience* (OUP, academic.oup.com/book/57949, dedicated "Large Language Models and the Gaming Problem" chapter) = real-correct; the article's gloss FAITHFULLY represents Birch's published position (verified vs live OUP + secondary summaries + the Map's own concepts/gaming-problem page) — no strawman/misattribution; [[concepts/gaming-problem]] wikilink resolves live (obsidian + hugo); full Birch cite resolves via the concept page's References — no orphan. (b) CONVERGENCE-CALIBRATION HOLDS: swept all convergence/jointly usages (L89/L91/L109) — the "raises robustness without raising claimed confidence" self-caveat is genuine and never silently contradicted; the two converging routes (Map dualist-metaphysics+P-Q9 vs Birch training-causal-history, no metaphysics) have genuinely independent premises (common-cause-null check PASS), so the robustness is real not double-counted; convergence is on a *discount* (lowering weight on first-person reports), not a positive-claim confidence boost. Applied-apex discipline PASS: ≥3 positions (P-Q1/P-Q2/P-Q9 + P-Q10 ref), "What this implies for decisions" present. (c) WRITING-STYLE: no banned "This is not X. It is Y." cliché; no editor-vocabulary/mode-label leakage. (d) CURRENCY: only superlatives are framework-internal "Map's current best account/guess" hedges (L7/L11), no external empirical-record superlative to currency-check. engagement with computational-functionalist (L89): Mode Three / framework-independent convergence-marking — observes the opponent has *their own* independent grounds for the same discount, does NOT claim to refute functionalism inside its own framework; honest. Length 2654w = 66% of apex 4000 soft — comfortable. Per STAMPING: advanced last_deep_review to 2026-06-21, left ai_modified at 2026-06-18 (no body/cite change).
+
 ## 2026-06-21T13:06:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-intellectual-life]]
