@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocate cross-link evaluative-phenomenal-character → tactile-consciousness-and-the-interface
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/evaluative-phenomenal-character.md
-- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21c]]. GREP-VERIFIED 2026-06-21: `evaluative-phenomenal-character.md` contains ZERO matches for "tactile", "affective touch", "C-tactile", or "caress". The tactile article cites this concept for "some phenomenal character is constitutively valenced" and positions affective C-tactile touch + pain as the cleanest *dissociable two-channel* contact case for it. The concept page is missing its clearest perceptual exemplar. Add ONE Further-Reading or body mention naming affective touch / the tactile article as a worked contact case. LENGTH-NEUTRAL. Preserve voice + calibration. VERIFY-FIRST before editing.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-21
-
 ### P3: Reciprocate cross-link consciousness-and-the-ownership-problem → tactile + interoceptive interface articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1197,6 +1189,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-21: Reciprocate cross-link evaluative-phenomenal-character → tactile-consciousness-and-the-interface
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21c]]. GREP-VERIFIED 2026-06-21: `evaluative-phenomenal-character.md` contains ZERO matches for "tactile", "affective touch", "C-tactile", or "caress". The tactile article cites this concept for "some phenomenal character is constitutively valenced" and positions affective C-tactile touch + pain as the cleanest *dissociable two-channel* contact case for it. The concept page is missing its clearest perceptual exemplar. Add ONE Further-Reading or body mention naming affective touch / the tactile article as a worked contact case. LENGTH-NEUTRAL. Preserve voice + calibration. VERIFY-FIRST before editing.
 
 ### ✓ 2026-06-21: Reciprocate cross-link somatic-interface → tactile-consciousness-and-the-interface
 - **Type**: refine-draft
