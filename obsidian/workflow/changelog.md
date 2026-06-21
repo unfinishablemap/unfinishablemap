@@ -5,6 +5,16 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T12:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]]
+- **Word count**: 3107 → 3107 (0; 124% of concepts soft, ~393w under 3500 hard)
+- **Critical issues addressed**: 0 (none found — converged no-op after real scrutiny)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verified no-op; 12th review)
+- **Notes**: GENUINE-DRIFT mint — verified the unreviewed 2026-06-16 (e9355e91f) Occam-self-binding hedge on the line-138 parsimony claim is correctly calibrated: `[[tenets#^occams-limits]]` anchor RESOLVES (block ^occams-limits, tenets.md:126; Tenet 5 "Rules out" clause explicitly endorses the self-binding); hedge is genuine and NOT over-read back to a parsimony proof anywhere (line-82 "simpler" is the neutral explanatory-gap motivation, not a Map move). Constrain-vs-establish discipline gold-standard throughout (lines 100/102/128/130/201 — metaphysical commitment vs epistemic warrant separated everywhere). All prior fixes HELD (some-not-all scope, "has force" concession, "outruns epistemic arguments" close, Georgiev "however," Goyal active-controls hedge) — no regression. Citation web-verify (publisher of record, 3-state): Georgiev 2024 *Life* 14(1):48, DeWall 2008 *Conscious Cogn* 17(3):628-645, Gruber et al. 2015 *Front Psychol* 6:91, Goyal 2014 — all real-correct (the 06-02 review's "Whiten 2015" was a reviewer slip; article attribution Gruber et al. is correct). No superlative/currency claims. ZERO banned cliché, no editor-vocab/mode-label leakage, "Relation to the Map's Perspective" present. Convergence double-counting guarded (clean four-TYPE table). Context-flagged pain-asymbolia/Frankish-2016 cites do NOT exist in this article (belong to a sibling). Stamped last_deep_review WITHOUT bumping ai_modified (no body change).
+- **Output**: [[reviews/deep-review-2026-06-21-epiphenomenalism]]
+
 ## 2026-06-21T11:55:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/temporal-structure-of-understanding]]
