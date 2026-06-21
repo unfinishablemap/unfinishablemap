@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-7+claude-opus-4-8
 ai_generated_date: 2026-03-21
 last_curated:
-last_deep_review: 2026-06-05T09:56:22+00:00
+last_deep_review: 2026-06-21T06:10:00+00:00
 ---
 
 Clinical [[neuroplasticity]] research provides suggestive empirical evidence that consciousness causally reshapes the brain rather than passively accompanying neural activity—though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Several evidence streams—self-directed neuroplasticity in OCD treatment, psychotherapy neuroimaging showing distinct causal pathways, and placebo-stimulated neuroplasticity—converge on a pattern worth taking seriously: intentional mental activity produces lasting changes in neural function through routes that differ from pharmacological (bottom-up) intervention. Meditation evidence, once a fourth pillar, has been weakened by replication failures for structural brain claims. The Unfinishable Map holds that this convergence is *compatible with* and *suggestive of* genuine mental causation, constituting a challenge to [[concepts/epiphenomenalism|epiphenomenalism]] and to the [[causal-closure|causal closure]] of the physical—while acknowledging that mainstream neuroscience explains the same findings via Hebbian learning and standard synaptic plasticity without invoking non-physical causes.

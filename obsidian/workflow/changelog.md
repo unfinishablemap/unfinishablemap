@@ -5,6 +5,20 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T06:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Context**: Genuine-drift verification, largely-verified-this-session (6th+ review pass). Drift trigger commit 6eaae2cc3 (2026-06-21) — same-session refine-draft driven by the 2026-06-21 pessimistic review. Confirming verdict; effort calibrated down per the recently-verified citations.
+- **(a) Line-122 causal-closure recalibration** — VERIFIED CORRECT. The over-reach "no reason for routes to diverge systematically" was replaced with the body's compatible-with/suggestive-of register ("What bears on causal closure is not route divergence per se ... but the *preferential directional* signature ... declined rather than refuted"). Coheres with §Route-vs-Direction (line 64) and §Convergence (line 100); Tenet-3 preserved, no over-assertion. Internal contradiction the pessimistic review flagged is resolved.
+- **(b) Citation web-verify (3-state)**: Yuan/Goyal/Schwartz-1996/Perez already publisher-verified this session — NOT re-verified per §2.4 skip rule; inline↔References reciprocity re-confirmed (no orphan among them). Perez fix confirmed landed (J.→G. M. + DOI 10.1016/j.nicl.2025.103874). No new author/year divergence. Two pre-existing inline-orphan References (#1 Schwartz 1998; #8 Álvarez 2013) left in place — deferred-cosmetic, consistent with 2026-05-26/06-05 reviews.
+- **(c) Currency sweep** ([[empirical-record-currency-drift]]): one superlative — "Kral 2022, most rigorous test to date." Web-verified — Kral 2022 (n=218) remains the largest/most-rigorous MBSR structural-MRI RCT; a 2024-25 EJR review still cites it as such and a competing 2023 positive meta-analysis was RETRACTED. Superlative holds; no action.
+- **(d) Calibration/anchoring + cliché audit (whole article)**: no "This is not X. It is Y." cliché (nor soft variant); no over-strong language. Defeater-removal-vs-evidence-upgrade discipline, convergence down-counting, altered-state symmetric accommodation all intact.
+- **Critical issues addressed**: 0 (the 2 actionable items were fixed earlier this session in 6eaae2cc3).
+- **Medium issues addressed**: 0.
+- **Enhancements made**: 0 (confirming pass; no new body content).
+- **Word count**: 3344 → 3344 (no body change; `last_deep_review` stamped, `ai_modified` NOT bumped per [[deep_review_over_reviews_converged]] to avoid re-qualification churn).
+- **Output**: [[reviews/deep-review-2026-06-21-clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+
 ## 2026-06-21T07:39:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-agency-vs-passivity]]
