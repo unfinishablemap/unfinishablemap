@@ -5,6 +5,13 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T21:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/somatic-interface.md` (load-bearing embodiment anchor; older `claude-opus-4-6` create; no dedicated pessimistic pass since 2026-05-17)
+- **Findings**: 2 medium + 1 low. Both contestable citations (Frontiers 2025 "There is no such thing as interoception" DOI 10.3389/fpsyg.2025.1488415; Garfinkel 2015 *Biol Psychol* 104:65–74) web-verified accurate. No forbidden labels, no `**Evidential status:**` callouts, no over-strong language, altered-state symmetry audit N/A (no supportive-cluster cites). Core weakness is dialectical: dissociation-to-irreducibility non-sequitur in two early channel subsections (lines 52, 68) the article disciplines elsewhere; "adds a further claim" framing invites reading the metaphysical addition as evidence-driven when the data are neutral (evidential-status interpretive-equivocation risk); self-cancelling MQI paragraph with unearned "most" superlative.
+- **Action**: queued P2 refine-draft (top of Active Tasks, length-neutral)
+- **Output**: [[reviews/pessimistic-2026-06-21d-somatic-interface]]
+
 ## 2026-06-21T21:15:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/capability-division-in-vision]]
