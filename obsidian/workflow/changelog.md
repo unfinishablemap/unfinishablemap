@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T00:00:00+00:00
+ai_modified: 2026-06-21T05:32:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-21T05:32:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-domain-void-comparison]]
+- **Source**: Convergent P1 outer-review (2026-06-21 ChatGPT 5.5 Pro + Claude Opus 4.8) — the FRAMING task (sibling of the 04:43 citation-hygiene pass, which is already done)
+- **Word count**: 2937 → 3538 (canonical analyze_length; status soft_warning, soft 3000 / hard 4000; peaked 3986 mid-pass, compressed down)
+- **Changes** (six convergent framing moves (a)–(f)):
+  - (a) **First-axis by-construction confound** (convergent): rewrote the "Testing the Four-Kinds Structure" residual paragraph — extended the by-construction discount from the signature axis to the taxonomic-depth axis (occluded/naturally-occluded kinds co-vary with subject-involvement). Cashed Claude's sharpening: the *spanning* residual is itself overdetermined by physicalism (a self-modelling system fractures into unexplored-frontier + Gödelian-floor + occluded-introspection all at once), so spanning alone also fails to discriminate dualism from physicalism. Adjusted the "First difference" and "Second difference" lead/tail to match (neither axis does discriminating work).
+  - (b) **Deleted the unearned upgrade** (Claude's sharpest finding): removed line-118 "shifts weight, modestly, toward the convergence being a real feature rather than an artefact" + cognates ("qualified vindication"). Replaced with the false-binary correction — third option: a real feature of cognitive architecture metaphysically NEUTRAL between dualism and physicalism. Fixed the Tenet-1 close: the phenomenal-core-outside-Lawvere inference stacks non-sequiturs (not-one-mechanism ≠ not-formal ≠ non-physical) and is equally compatible with type-B materialism / Russellian monism / illusionism → downgraded to "compatible with, not evidence for".
+  - (c) **Softened overstatements** (convergent): "empirical defence"/"empirical answer" (body + description) → "qualitative comparative test" / "framework-internal comparison"; "false to the structure" → "not supported by this classification as currently drawn".
+  - (d) **Matched-grain + asymmetric admission bar** (convergent): added a short prose exclusion note (black-hole information, quantum gravity, P vs NP, Riemann, Navier–Stokes, theory-underdetermination set aside) + acknowledged the asymmetric bar (rivals theorem-grade vs consciousness frontier items dream/infant/resonance). No methods table (length).
+  - (e) **Observer-in-physics objection**: added a sentence in "The Difference That Cuts the Other Way" — Wigner's-friend / Frauchiger–Renner (the Map's own self-reference work) is an observer-in-the-loop candidate counterexample, but it is the formal-reflexive kind (description closing over its describer), not the phenomenal kind (subject's self-access breaking down).
+  - (f) **Counter-axis concession cost** (Claude): added that cashing the Lawvere unification fully shrinks the apex's N-fold "structured clustering" to a handful of phenomenal voids (single common cause, not independent triangulation); aligned abductive-weight language ("smaller than a raw count suggests").
+  - Also marked the Szangolies single-mechanism reading as the Map's developed extension (not a settled external result; Szangolies' programme is naturalist) — lightweight source-vs-Map label; the full co-optation firewall is the separate P2 sibling-article task.
+- **Engagement classification** (editor-internal, not in body): physicalist/illusionist rival — Mode Two (unsupported foundational move identified in the article's OWN prior framing, corrected in-house: the "shifts weight toward real feature" jump helped itself to a discriminating conclusion the body's common-cause-null reasoning does not earn); residual dualism tie kept at Mode Three (framework-boundary, "compatible with not evidence for"). No mode labels written to the article body.
+- **Preserved**: bounded common-cause-null verdict (coherence weight, not confirmation — the verdict the body now lands on), the "difference that cuts the other way" honesty section, the Tenet-5/Tenet-1 relation (compatible-with register).
+- **Length residual**: flagged for human length decision in todo (additive convergent findings d/e/f are genuine new content; soft_warning under hard ceiling; do NOT auto-condense the just-installed calibration). See [[human-decision-task-mispicked-as-refine]].
+- **Published**: yes (kept draft: false)
 
 ## 2026-06-21T04:43:16+00:00 - refine-draft
 - **Status**: Success
