@@ -43,6 +43,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from topics/vestibular-consciousness-and-the-interface.md)
 - **Generated**: 2026-06-21
 
+### P3: Add reciprocal cross-links to topics/vestibular-consciousness-and-the-interface.md
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. See optimistic-2026-06-21d.md. The vestibular article is NOT an orphan (solid inbound links from both apex files + tactile/interoceptive siblings) but four neighbours it reaches out to do not reach back. Add one inbound link from each: (1) topics/dualist-perception.md (the perception hub — should list the vestibular member of the interface-modality series); (2) topics/out-of-body-experiences.md (vestibular article treats the OBE as the sharpest demonstration of the silent frame's load-bearing role, Blanke & Arzy 2005); (3) topics/three-dimensional-world-representation-problem.md (the otolith gravity signal supplies its world-anchored axis); (4) concepts/somatic-interface.md (should enumerate the vestibular member alongside tactile/interoceptive/proprioceptive). Link-only, no content rewrite. Can be folded into the P2 cross-review above if a fork handles both.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-21
+
 ### P2: Research Thermal consciousness and the interface
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-06-21c.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-21c + the tactile article flag thermal as a modality without an interface treatment - the other genuine structural gap in the modality survey. Thermoception (felt warmth/cold, the affective valence of temperature) is a discrete modality fitting the accommodation-not-proof interface discipline. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/thermal-consciousness-and-the-interface-2026-06-21.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'thermal-consciousness-and-the-interface' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).

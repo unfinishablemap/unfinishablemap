@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T23:11:40.129019+00:00'
-session_count: 12701
+last_updated: '2026-06-21T23:16:14.734570+00:00'
+session_count: 12702
 cycle_position: 9707
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T22:07:09.558838+00:00'
   research-topic: '2026-06-21T22:20:35.614283+00:00'
-  replenish-queue: '2026-06-21T23:02:18.451340+00:00'
+  replenish-queue: '2026-06-21T23:16:14.734570+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-21T22:57:46.576536+00:00'
   add-highlight: '2026-06-21T08:22:24.866610+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-21'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1247,53 +1247,55 @@ queue_status:
   last_replenishment_mode: conservative
   current_replenishment_note: 'run no.509 (2026-06-21T23:20Z): MINTED 1 (conservative).
     Live tools.evolution.task_selector.count_p0_p2_tasks=1 BEFORE mint (floor 3 unmet
-    by 2). KEY DEVELOPMENT vs run 508: the Vestibular apex-evolve chain successor that
-    run 508 expected to self-restore the floor has since been PICKED and EXECUTED (commit
-    e061d1b8d, cross-modal-capability-division apex amended to admit vestibular as a
-    7th source, 23:11), so the count dropped from 2 to 1 with NO further queued chain
-    task to self-restore — unlike run 508 this is a genuine sub-floor that requires
+    by 2). KEY DEVELOPMENT vs run 508: the Vestibular apex-evolve chain successor
+    that run 508 expected to self-restore the floor has since been PICKED and EXECUTED
+    (commit e061d1b8d, cross-modal-capability-division apex amended to admit vestibular
+    as a 7th source, 23:11), so the count dropped from 2 to 1 with NO further queued
+    chain task to self-restore — unlike run 508 this is a genuine sub-floor that requires
     a mint, not the self-restoring alternation. FULL EIGHT-SOURCE AUDIT re-run from
     live disk. (1 chain) SAFE MINT: the just-created topics/vestibular-consciousness-and-the-interface.md
     (commit 66e0d35cf, 22:52, 2977w, ai_contribution 100) is the expand-topic chain
-    successor and has NEVER been deep-reviewed (last_deep_review null; zero files in
-    obsidian/reviews matching vestibular). Per fresh-create-defect-tail a fresh create
-    carries a remediation tail (new vestibular-neuroscience citations to web-verify)
+    successor and has NEVER been deep-reviewed (last_deep_review null; zero files
+    in obsidian/reviews matching vestibular). Per fresh-create-defect-tail a fresh
+    create carries a remediation tail (new vestibular-neuroscience citations to web-verify)
     even when it validated clean at creation. Minted ONE cross-review task, inserted
     at TOP of Active Tasks to defeat LIFO. Article is well-integrated (4 inbound links:
     interoceptive, tactile, apex-articles index, cross-modal apex) so NOT an integrate-orphan.
     No vestibular/thermal match in the Vetoed bank. (2 unconsumed research) exhausted:
-    newest notes vestibular/interoceptive/cross-modal/phenomenology-of-forgetting all
-    disk-verified consumed to same-slug articles; enactivism consumed under topics/enactivism-challenge-to-interactionist-dualism
+    newest notes vestibular/interoceptive/cross-modal/phenomenology-of-forgetting
+    all disk-verified consumed to same-slug articles; enactivism consumed under topics/enactivism-challenge-to-interactionist-dualism
     (deep-reviewed 2026-06-20), occams under voids/epistemological-limits-occams-razor
-    + arguments/ (deep-reviewed 2026-06-21). (3 gap/harvester) caps have headroom (topics
-    276/320, concepts 265/320, positions 5/80; voids 101/100 OVER) but new-article
+    + arguments/ (deep-reviewed 2026-06-21). (3 gap/harvester) caps have headroom
+    (topics 276/320, concepts 265/320, positions 5/80; voids 101/100 OVER) but new-article
     generation is harvester-governed; harvester last fired 21:40 and its Thermal research-topic
     mint is the other open queue task. (4 staleness >=30d) programmatic ai_contribution>50
     + last_deep_review(null-or-<2026-05-22) scan over topics/concepts/voids/apex yields
-    ZERO content hits excluding the brand-new Vestibular article (handled via its chain).
-    (5 genuine drift) inherited run-508 git-verification stands: all broad-window ai_modified>last_deep_review
-    candidates are link-churn-only false drift; nothing changed in the intervening hour
-    except the apex-evolve commit (its own review file landed). (5b length) inherited
-    run-508 canonical body-stripped audit stands: every hard+ offender is a research/working
-    note, HUMAN-deferred/DIVERTED, hash-veto, or accept-as-survey — re-minting any is
-    the replenish-overmints-condense churn anti-pattern. (6 orphan) orphaned_files=0;
-    vestibular not orphaned. (7 positions) 5/80 slow-add, audit within 30d window (positions-evolve
-    last 2026-06-20T00:58). (8 applied-apex) only 5 positions total, no high-confidence
-    cluster large enough for a new applied apex. Net: MINTED 1 cross-review; floor restored
-    1 -> 2. Both open P2 tasks (Vestibular cross-review + Thermal research-topic) are
-    real executable chain/harvest work; the next loop iteration picks the cross-review,
-    no skip-queue-slot needed.'
-  superseded_508_replenishment_note: 'run no.508 (2026-06-21T23:00Z): NO-MINT floor audit.
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks=2 and select_queue_task=apex-evolve
-    cross-modal-capability-division consider admitting vestibular as a 7th source
-    (P2 apex-evolve), programmatically re-confirmed this run from live todo.md (not
-    inherited). KEY DEVELOPMENT vs run 507: the Vestibular EXPAND-TOPIC that run 507
-    saw queued has since been PICKED + EXECUTED (commit 66e0d35cf, article topics/vestibular-consciousness-and-the-interface.md
-    created 22:52, 2977w, all cites publisher-verified at creation), so its chain
-    successor (the apex-evolve admission task) is now the top pickable P2. Floor 3
-    unmet by 1 (count 2 < MIN_QUEUE 3), NOT by 3, and SELF-RESTORING: the next loop
-    iteration picks the REAL apex-evolve chain task (no skip-queue-slot needed), keeping
-    the synthesis pipeline alive. This is the documented replenish-at-floor alternation
+    ZERO content hits excluding the brand-new Vestibular article (handled via its
+    chain). (5 genuine drift) inherited run-508 git-verification stands: all broad-window
+    ai_modified>last_deep_review candidates are link-churn-only false drift; nothing
+    changed in the intervening hour except the apex-evolve commit (its own review
+    file landed). (5b length) inherited run-508 canonical body-stripped audit stands:
+    every hard+ offender is a research/working note, HUMAN-deferred/DIVERTED, hash-veto,
+    or accept-as-survey — re-minting any is the replenish-overmints-condense churn
+    anti-pattern. (6 orphan) orphaned_files=0; vestibular not orphaned. (7 positions)
+    5/80 slow-add, audit within 30d window (positions-evolve last 2026-06-20T00:58).
+    (8 applied-apex) only 5 positions total, no high-confidence cluster large enough
+    for a new applied apex. Net: MINTED 1 cross-review; floor restored 1 -> 2. Both
+    open P2 tasks (Vestibular cross-review + Thermal research-topic) are real executable
+    chain/harvest work; the next loop iteration picks the cross-review, no skip-queue-slot
+    needed.'
+  superseded_508_replenishment_note: 'run no.508 (2026-06-21T23:00Z): NO-MINT floor
+    audit. Authoritative live tools.evolution.task_selector.count_p0_p2_tasks=2 and
+    select_queue_task=apex-evolve cross-modal-capability-division consider admitting
+    vestibular as a 7th source (P2 apex-evolve), programmatically re-confirmed this
+    run from live todo.md (not inherited). KEY DEVELOPMENT vs run 507: the Vestibular
+    EXPAND-TOPIC that run 507 saw queued has since been PICKED + EXECUTED (commit
+    66e0d35cf, article topics/vestibular-consciousness-and-the-interface.md created
+    22:52, 2977w, all cites publisher-verified at creation), so its chain successor
+    (the apex-evolve admission task) is now the top pickable P2. Floor 3 unmet by
+    1 (count 2 < MIN_QUEUE 3), NOT by 3, and SELF-RESTORING: the next loop iteration
+    picks the REAL apex-evolve chain task (no skip-queue-slot needed), keeping the
+    synthesis pipeline alive. This is the documented replenish-at-floor alternation
     (unfin_loop_steady_state), NOT the fixed deadlock. The two open P2 tasks are the
     Vestibular apex-evolve chain successor + the harvesters Thermal research-topic
     (mint 2026-06-21T21:39). FULL EIGHT-SOURCE AUDIT INDEPENDENTLY RE-RUN, all exhausted
