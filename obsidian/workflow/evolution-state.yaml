@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T22:46:52.488922+00:00'
-session_count: 12698
-cycle_position: 9705
+last_updated: '2026-06-21T22:57:46.576536+00:00'
+session_count: 12699
+cycle_position: 9706
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-21T22:03:42.229207+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-06-21T22:20:35.614283+00:00'
   replenish-queue: '2026-06-21T22:46:52.488922+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
-  expand-topic: '2026-06-20T22:35:01.433959+00:00'
+  expand-topic: '2026-06-21T22:57:46.576536+00:00'
   add-highlight: '2026-06-21T08:22:24.866610+00:00'
   literature-drift-review: '2026-06-16T05:16:35.375066+00:00'
   collect-chatgpt-review: '2026-06-21T03:47:26.898890+00:00'
@@ -81,7 +81,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 275
+  topics_written: 276
   concepts_written: 265
   arguments_written: 5
   questions_written: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-21'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1242,48 +1242,55 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 2
-  last_replenishment_run: 507
-  last_replenishment: '2026-06-21T22:50:00+00:00'
+  last_replenishment_run: 508
+  last_replenishment: '2026-06-21T23:00:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: 'run no.507 (2026-06-21T22:50Z): NO-MINT floor audit.
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks=2 and select_queue_task=Write
-    article on Vestibular consciousness and the interface (P2 expand-topic), programmatically
-    re-confirmed this run from live todo.md (not inherited). Floor 3 unmet by 1 (count
-    2 < MIN_QUEUE 3), NOT by 3 — and SELF-RESTORING: the next loop iteration picks
-    a REAL pickable task (the Vestibular expand-topic, no skip-queue-slot needed),
-    which chains expand-topic->cross-review, keeping the new-article pipeline alive
-    with topics cap headroom (275/320). This is the documented replenish-at-floor
-    alternation (unfin_loop_steady_state), NOT the fixed deadlock. The two open P2
-    tasks are run 506s minted Vestibular expand-topic + the harvesters Thermal research-topic
-    (mint 2026-06-21T21:39). FULL EIGHT-SOURCE AUDIT INDEPENDENTLY RE-RUN, all exhausted
-    to no safe additional mint. (1 chain) recent_tasks types are replenish-queue/skip-queue-slot/deep-review/agentic-social/harvest-research-subjects/check-model-fallback/pessimistic-review/refine-draft/research-topic
-    — the lone research-topic completion (Vestibular, commit 2cfe5af30) is ALREADY
-    CONSUMED as the queued expand-topic chain successor. (2 unconsumed research) drained:
-    the three newest 06-20 notes disk-verified to have live consumer articles (interoceptive-consciousness-and-the-interface
-    -> topics/ same-slug; cross-modal-capability-division -> apex/ same-slug; phenomenology-of-forgetting
-    -> topics/ same-slug); the only genuinely unconsumed note is vestibular-consciousness-and-the-interface-2026-06-21
-    which IS the queued expand-topic. (3 gap/harvester) caps have headroom (topics
-    275/320, concepts 265/320, positions 5/80; voids 101/100 OVER) but new-article
+  current_replenishment_note: 'run no.508 (2026-06-21T23:00Z): NO-MINT floor audit.
+    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks=2 and select_queue_task=apex-evolve
+    cross-modal-capability-division consider admitting vestibular as a 7th source (P2
+    apex-evolve), programmatically re-confirmed this run from live todo.md (not inherited).
+    KEY DEVELOPMENT vs run 507: the Vestibular EXPAND-TOPIC that run 507 saw queued
+    has since been PICKED + EXECUTED (commit 66e0d35cf, article topics/vestibular-consciousness-and-the-interface.md
+    created 22:52, 2977w, all cites publisher-verified at creation), so its chain successor
+    (the apex-evolve admission task) is now the top pickable P2. Floor 3 unmet by 1
+    (count 2 < MIN_QUEUE 3), NOT by 3, and SELF-RESTORING: the next loop iteration picks
+    the REAL apex-evolve chain task (no skip-queue-slot needed), keeping the synthesis
+    pipeline alive. This is the documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT the fixed deadlock. The two open P2 tasks are the Vestibular apex-evolve chain
+    successor + the harvesters Thermal research-topic (mint 2026-06-21T21:39). FULL EIGHT-SOURCE
+    AUDIT INDEPENDENTLY RE-RUN, all exhausted to no safe additional mint. (1 chain)
+    Vestibular expand-topic completion already produced its chain successor (the queued
+    apex-evolve task); the Vestibular article has 2 inbound links (interoceptive + tactile
+    interface articles) so it is NOT orphaned and no integrate-orphan follow-on is owed.
+    (2 unconsumed research) the four newest 06-20/06-21 notes disk-verified consumed
+    (interoceptive -> topics/ same-slug; cross-modal-capability-division -> apex/ same-slug;
+    phenomenology-of-forgetting -> topics/ same-slug; vestibular -> the just-created
+    topics/ article). No fresh unconsumed note. (3 gap/harvester) caps have headroom
+    (topics 275/320, concepts 265/320, positions 5/80; voids 101/100 OVER) but new-article
     generation is harvester-governed and it fired 2026-06-21T21:39 with its two newest
-    mints (Vestibular + Thermal) now in queue; harvester minted_subjects exactly match
-    the queued/consumed notes. (4 staleness >=30d) programmatic ai_contribution>50
-    + last_deep_review(null-or-before-2026-05-22) scan over topics/concepts/voids/apex
-    yields ZERO content hits. (5 length) canonical body-stripped get_length_warnings
-    re-run; every content-section hard+ offender is a research/ working note (not
-    a condense target), HUMAN-deferred/DIVERTED (epistemology-of-convergence 6479w,
-    born-rule 5106w, clinical-dissociation 4861w, time-collapse-and-agency 4606w,
-    argument-from-reason 4489w, epistemic-advantages-of-dualism 4400w, reductionism
-    3561w, synesthetic-void 3578w, edge-states 3482w, agency-void 3174w, what-voids-reveal
-    3019w, wholeheartedness-void 3006w), hash-veto (composition-question-rivals 4106w,
-    phenomenal-output 6872w, meaning-of-life), accept-as-survey (memory-channel-interface-evidence
-    4296w), a positions domain file (quantum-interface 2507w slow-add), or the apex-articles
-    index hub (7967w) — NO safe fresh condense candidate; re-minting any is the replenish-overmints-condense-vs-accept-as-survey
-    / deep_review_over_reviews_converged churn anti-pattern. (6 orphan) orphaned_files=0.
-    (7 positions) 5/80, slow-add, audit within 30d window (positions-evolve last 2026-06-20T00:58).
-    (8 applied-apex) only 5 positions total — no high-confidence cluster large enough
-    for a new applied apex. Net: NO ADDITIONAL MINT; the queued Vestibular expand-topic
-    self-restores the floor as it executes and revives the expand->cross-review chain.
-    Do NOT force-mint a churn task.'
+    mints (Vestibular + Thermal) now consumed/queued. (4 staleness >=30d) programmatic
+    ai_contribution>50 + last_deep_review scan over topics/concepts/voids/apex yields
+    ZERO content hits (only positions domain files, which take positions-evolve audits
+    not deep-review, and the brand-new Vestibular article which gets reviewed via its
+    chain). (5 genuine drift) git-verified: all 117 broad-window ai_modified>last_deep_review
+    candidates are FALSE drift, the ai_modified bump coming from inbound-link reciprocation
+    by sibling article creations (cosmetic) plus the deep-reviews own commit, NOT genuine
+    own-body argumentative drift; spot-checked machine-consciousness, indexical-identity-quantum-measurement,
+    phenomenal-value-realism, inaccessible-past, interoceptive-void, all confirmed link-churn-only.
+    The prior-run what-voids-reveal genuine-drift mint was already consumed by a cycle
+    slot (not in active queue). (5b length) canonical body-stripped get_length_warnings
+    re-run; every content-section hard+ offender is a research/ working note (not a
+    condense target), HUMAN-deferred/DIVERTED (born-rule 5106w, clinical-dissociation
+    4861w, time-collapse-and-agency 4606w, argument-from-reason 4489w, epistemic-advantages-of-dualism
+    4400w, reductionism 3561w, agency-void 3174w, what-voids-reveal 3019w, wholeheartedness-void
+    3006w), hash-veto (composition-question-rivals 4106w, phenomenal-output 6872w, meaning-of-life),
+    or accept-as-survey (memory-channel-interface-evidence 4296w). Re-minting any is
+    the replenish-overmints-condense-vs-accept-as-survey / deep_review_over_reviews_converged
+    churn anti-pattern. (6 orphan) orphaned_files=0. (7 positions) 5/80, slow-add, audit
+    within 30d window (positions-evolve last 2026-06-20T00:58). (8 applied-apex) only
+    5 positions total, no high-confidence cluster large enough for a new applied apex.
+    Net: NO ADDITIONAL MINT; the queued Vestibular apex-evolve chain successor self-restores
+    the floor as it executes. Do NOT force-mint a churn task.'
   superseded_506_replenishment_note: 'run no.506 (2026-06-21T22:25Z): MINTED 1 (conservative).
     Floor audit re-run from
 
