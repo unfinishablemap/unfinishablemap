@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T15:48:30.519511+00:00'
-session_count: 12615
+last_updated: '2026-06-21T16:00:47.116361+00:00'
+session_count: 12616
 cycle_position: 9674
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T11:41:11.646535+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
-  replenish-queue: '2026-06-21T15:47:47.143648+00:00'
+  replenish-queue: '2026-06-21T16:00:47.116361+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-20T22:35:01.433959+00:00'
   add-highlight: '2026-06-21T08:22:24.866610+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1246,47 +1246,47 @@ queue_status:
     -> concepts/training-contamination-confound.md; affective-forecasting-gap-and-selection-dynamics
     -> concepts/affective-forecasting-gap.md; loss-aversion-and-negative-valence-asymmetry
     -> concepts/negative-valence-asymmetry-and-the-selection-weighting-function.md;
-    integrated-world-modeling-theory -> note verdict RETARGET/DECLINE (covered in concepts/predictive-processing.md);
-    moral-aggregation-under-ai-copy-multiplicity -> frontmatter Status CONSUMED (integrated
-    into topics/ethics-of-possible-ai-consciousness.md, which references copy-multiplicity
-    5x), explicit do-NOT-remint. All 15 harvester minted_subjects exactly match these
-    notes and are all consumed. (3 gap/harvester) caps have headroom (topics 275/320,
-    concepts 265/320, positions 5/80; voids 101/100 OVER) but new-article generation
-    is harvester-governed; harvest-research-subjects FIRED 2026-06-21T15:37:18 producing
-    ZERO new mint over 184 scanned reviews INCLUDING today''s newest outer-review-synthesis-2026-06-21,
-    outer-review-2026-06-21 (chatgpt+claude), and optimistic-2026-06-21/21b -- the
-    designated auto-refill is itself exhausted of fresh subjects; the next genuine
-    refill must come from a NEW outer/optimistic review surfacing an uncovered subject
-    or new human-queued work. (4 staleness >=30d) programmatic ai_contribution>50 +
-    last_deep_review scan over topics/concepts/voids/apex/positions yields ZERO content
-    hits (only the 4 positions/ domain files, NEVER-deep-reviewed by design -- they
-    use the positions-evolve audit cadence; positions-evolve last 2026-06-20T00:58,
-    within the 30d audit window). (5 length) canonical body-stripped get_length_warnings
-    re-run; ALL 26 content-section hard+ offenders independently classified to EXCLUDED:
-    HUMAN-deferred/DIVERTED/DEFERRED (synesthetic-void, edge-states-and-void-probes,
+    integrated-world-modeling-theory -> note verdict RETARGET/DECLINE (covered in
+    concepts/predictive-processing.md); moral-aggregation-under-ai-copy-multiplicity
+    -> frontmatter Status CONSUMED (integrated into topics/ethics-of-possible-ai-consciousness.md,
+    which references copy-multiplicity 5x), explicit do-NOT-remint. All 15 harvester
+    minted_subjects exactly match these notes and are all consumed. (3 gap/harvester)
+    caps have headroom (topics 275/320, concepts 265/320, positions 5/80; voids 101/100
+    OVER) but new-article generation is harvester-governed; harvest-research-subjects
+    FIRED 2026-06-21T15:37:18 producing ZERO new mint over 184 scanned reviews INCLUDING
+    today''s newest outer-review-synthesis-2026-06-21, outer-review-2026-06-21 (chatgpt+claude),
+    and optimistic-2026-06-21/21b -- the designated auto-refill is itself exhausted
+    of fresh subjects; the next genuine refill must come from a NEW outer/optimistic
+    review surfacing an uncovered subject or new human-queued work. (4 staleness >=30d)
+    programmatic ai_contribution>50 + last_deep_review scan over topics/concepts/voids/apex/positions
+    yields ZERO content hits (only the 4 positions/ domain files, NEVER-deep-reviewed
+    by design -- they use the positions-evolve audit cadence; positions-evolve last
+    2026-06-20T00:58, within the 30d audit window). (5 length) canonical body-stripped
+    get_length_warnings re-run; ALL 26 content-section hard+ offenders independently
+    classified to EXCLUDED: HUMAN-deferred/DIVERTED/DEFERRED (synesthetic-void, edge-states-and-void-probes,
     agency-void, reductionism, epistemology-of-convergence-arguments, born-rule, clinical-dissociation,
     argument-from-reason, consciousness-and-the-metaphysics-of-laws-and-dispositions),
-    #veto (what-voids-reveal, wholeheartedness-void, composition-question-rivals, phenomenal-output,
-    machine-question, time-collapse-and-agency, epistemic-advantages-of-dualism), accept-as-survey
-    (memory-channel-interface-evidence), an index hub (apex-articles 7967w), OR a mid-band
-    topic with a recent deep-review/refine that accepted it at length with NO condense
-    verdict (valence-and-conscious-selection, quantum-biology-and-neural-consciousness,
+    #veto (what-voids-reveal, wholeheartedness-void, composition-question-rivals,
+    phenomenal-output, machine-question, time-collapse-and-agency, epistemic-advantages-of-dualism),
+    accept-as-survey (memory-channel-interface-evidence), an index hub (apex-articles
+    7967w), OR a mid-band topic with a recent deep-review/refine that accepted it
+    at length with NO condense verdict (valence-and-conscious-selection, quantum-biology-and-neural-consciousness,
     qm-interpretations-beyond-many-worlds, consciousness-and-the-metaphysics-of-composition,
     introspection-architecture-independence-scoring, phenomenal-authority-and-first-person-evidence,
     consciousness-in-simple-organisms -- the latter genuine-drift deep-reviewed TODAY,
-    commit 25d05ba67). Several already carry a recent auto(condense) commit whose residual
-    over-length is protected calibration. Re-minting any is the [[replenish-overmints-condense-vs-accept-as-survey]]
+    commit 25d05ba67). Several already carry a recent auto(condense) commit whose
+    residual over-length is protected calibration. Re-minting any is the [[replenish-overmints-condense-vs-accept-as-survey]]
     / [[deep_review_over_reviews_converged]] churn anti-pattern. NO safe fresh condense
     candidate. (6 orphan) orphaned_files=0. (7 positions) 5/80, slow-add, audit within
     30d window, no new high-confidence cluster lacking a register entry. (8 applied-apex)
-    only 5 positions total -- no high-confidence cluster large enough to warrant a new
-    applied apex. NO NEW MINT; replenish-at-floor alternation will continue until a
-    new outer/optimistic review or human task reopens a refill source. The empty queue
-    slot advances via skip-queue-slot, keeping deep-review reachable.'
-  superseded_501_replenishment_note: 'run no.501 (2026-06-21T15:42Z): NO-MINT floor audit.
-    Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=0 and select_queue_task=None
-    (programmatically re-confirmed this run, not inherited). MIN_QUEUE floor 3, unmet
-    by 3. Documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
+    only 5 positions total -- no high-confidence cluster large enough to warrant a
+    new applied apex. NO NEW MINT; replenish-at-floor alternation will continue until
+    a new outer/optimistic review or human task reopens a refill source. The empty
+    queue slot advances via skip-queue-slot, keeping deep-review reachable.'
+  superseded_501_replenishment_note: 'run no.501 (2026-06-21T15:42Z): NO-MINT floor
+    audit. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=0
+    and select_queue_task=None (programmatically re-confirmed this run, not inherited).
+    MIN_QUEUE floor 3, unmet by 3. Documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
     NOT the fixed deadlock. KEY DISTINGUISHING FINDING vs run 500: run 500 deferred
     the refill to the harvester (predicted ~15:32 UTC); the harvester HAS NOW FIRED
     (last_runs.harvest-research-subjects=2026-06-21T15:37:35, commit 5f1f474af) and

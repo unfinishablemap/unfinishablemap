@@ -4,8 +4,8 @@ description: "A named anti-slippage move: when sophisticated reasons-responsive 
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-09T18:00:47+00:00
-last_deep_review: 2026-06-08T17:48:27+00:00
+ai_modified: 2026-06-21T00:00:00+00:00
+last_deep_review: 2026-06-21T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
