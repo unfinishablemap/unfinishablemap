@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix wrong-author citation + inline-cite mislocation in concepts/attention-schema-theory.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/attention-schema-theory.md
+- **Notes**: Pessimistic review 2026-06-21 ([[reviews/pessimistic-2026-06-21b-attention-schema-theory]]) found a CRITICAL wrong-author citation that survived today's deliberate citation-fix deep-review (commit 0b38d9769; its web-verify ledger logged the authors as "all correct" but missed this). ONE consolidated editor pass, both findings, VERIFY-FIRST 3-state ([[citation-verify-false-negative]] both directions), LENGTH-NEUTRAL (article ~3499w, near the 3500 concepts hard ceiling — net change MUST be ≤0; both fixes are pure name/position swaps). (1) **Wrong author "Kemper, C.M."** at line 245 (Ref 6) AND line 89 (inline): the cited paper PNAS 118(33) e2102421118 / PMC8379943 / DOI 10.1073/pnas.2102421118 has only TWO authors — Wilterson & Graziano; there is NO Kemper. Web-verified this pass at PMC8379943 + PubMed. On re-confirmation, replace `Kemper, C.M.,`→`Graziano, M.S.A.` (Ref 6) and `Kemper`→`Graziano` (inline line 89). If re-verify surprises (3-state: correct-as-flagged / different-author / fabricated), follow the evidence. (2) **Inline-cite mislocation** at line 89: the parenthetical staples `arXiv 2305.17375` (= Liu, Bolotta, Zhu, Bengio & Dumas 2023, the MULTI-agent paper, Ref 10, verified real-correct) onto the SINGLE-agent visuospatial claim. The arXiv cite belongs with the NEXT sentence ("In multi-agent reinforcement-learning settings..."). Move it there; leave the Wilterson/Graziano PNAS cite on the single-agent claim. Both papers are real and already in References — this is purely which cite attaches to which sentence. Bump ai_modified + last_curated on save.
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-21
+
 ### P3: Reciprocate cross-link consciousness-in-simple-organisms → evolution-under-dualism
 - **Type**: refine-draft
 - **Status**: pending

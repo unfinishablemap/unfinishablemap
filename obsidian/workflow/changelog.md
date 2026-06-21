@@ -5,6 +5,12 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T10:15:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/attention-schema-theory]] (first dedicated pessimistic pass since 2026-03-20; deep-reviewed earlier today)
+- **Finding**: CRITICAL wrong-author citation "Kemper, C.M." on Wilterson & Graziano 2021 (PNAS 118(33) e2102421118) — fabricated co-author in both Ref 6 (line 245) and inline cite (line 89); survived today's citation-fix deep-review. Web-verified at PMC8379943/PubMed: authors are Wilterson & Graziano only. Secondary: line-89 inline parenthetical mislocates arXiv 2305.17375 (Liu/Bolotta 2023 multi-agent paper) onto the single-agent visuospatial claim. Queued one consolidated verify-first length-neutral refine-draft (P2). All other discipline checks clean (no label leakage, no cliché, no boundary-substitution, altered-state audit N/A, calibration sound).
+- **Output**: [[reviews/pessimistic-2026-06-21b-attention-schema-theory]]
+
 ## 2026-06-21T09:45:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/attention-schema-theory]]
