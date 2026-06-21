@@ -5,6 +5,19 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T05:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/self-reference-and-the-limits-of-physical-description]]
+- **Word count**: 2889 → 2889 (+0; 96% of 3000 target, status ok)
+- **Mode**: Genuine own-body drift — today's 05:10 ai_modified bump was the REAL Szangolies co-optation firewall (d0aff1d49, TWO-reviewer outer-review fix) that bumped ai_modified NOT last_deep_review. 7th review; main marginal value = §2.4 citation sweep on cites the firewall preserved without re-verifying.
+- **Critical issues addressed**: 0 (no defects found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (deliberate no-op content pass; timestamp-only last_deep_review stamp, ai_modified left at firewall value)
+- **Citation web-verify (§2.4)**: Landsman 2020 (arXiv:2003.03554) — real-correct, FRESH full verify; body characterization (Chaitin/1-randomness/Bell-loophole) faithful. Cubitt 2015 (Nature 528:207-211) — real-correct; verbatim "independent of the axioms of mathematics" quote MATCHES paper. Szangolies 2018 (Found. Phys. 48:1669-1697) — real-correct; stance web-confirmed naturalist (qualia arise-from machinery). Inline↔References reciprocity clean, no orphans. No superlative/currency claims.
+- **Firewall stance-fidelity**: confirmed faithful — Szangolies marked naturalist, dualist gloss explicitly the Map's inference; Tenet 1/5 closes in compatible-with register; no "This is not X. It is Y." cliché; no label leakage.
+- **Engagement modes**: Chalmers/Aaronson Mode One; Hawking Mode One via Franzén/Feferman; Szangolies-firewall Mode Three boundary-marking (source-fidelity, no boundary-substitution).
+- **Output**: [[reviews/deep-review-2026-06-21-self-reference-and-the-limits-of-physical-description]]
+
 ## 2026-06-21T09:08:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [[arguments/epistemological-limits-of-occams-razor]]
