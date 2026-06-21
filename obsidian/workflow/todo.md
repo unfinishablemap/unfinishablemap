@@ -1181,6 +1181,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+### HUMAN EDITORIAL DECISION (2026-06-21): possible topic merges/de-dups surfaced by a coalesce-cycle survey
+- **Status**: needs-human (NOT loop-executable — the loop correctly ABANDONED the coalesce: candidates are moderate-not-slam-dunk, and merging two ~3500w flagships would bust the topics 4000w hard ceiling)
+- **Notes**: A 2026-06-21 coalesce-cycle topics-survey subagent (274 articles, semantic not lexical) found the directory **overwhelmingly, deliberately differentiated** (curated families with named distinct niches + intentional cross-links; e.g. the selection-mechanism trio, dualism-taxonomy quartet, modality-interface series — all confirmed do-NOT-merge). It surfaced these non-slam-dunk redundancy candidates for HUMAN editorial judgment (merge / de-dup-refine to make one own the shared argument / leave as-is):
+  - **#1 MODERATE — `topics/free-will.md` (~3515w) ↔ `topics/volitional-control.md` (~3518w)**: both defend consciousness-authors-action vs epiphenomenalism; volitional-control is essentially the Libet/phenomenology-of-willing case that is a large component of free-will. Possibly distinct (free-will = broad position incl. determinism/agent-causal libertarianism; volitional-control = narrower Libet focus). Strongest genuine-overlap pair. *A de-dup refine (one owns the Libet argument, the other cross-refs) may fit better than a ceiling-busting merge.*
+  - **#2 WEAK–MODERATE — `topics/consciousness-and-the-normativity-of-reason.md` (~2557w) ↔ `topics/consciousness-and-normative-force.md` (~2747w)**: identical core move (recognising≠being-bound requires phenomenal consciousness); defensible depth (epistemic only) vs breadth (all four normative domains) split, but shared central argument is real overlap.
+  - **#3 WEAK — `topics/structure-of-attention.md` (~2641w) folds into `topics/attention-and-the-consciousness-interface.md` (~3999w)** (latter subsumes the former's mode taxonomy).
+  - **#4 WEAK — `topics/cognitive-integration-and-the-self.md` (~2578w)** weakest niche in the self-cluster; candidate to fold into `the-self-minimal-narrative-and-substantial` / `phenomenology-of-memory-and-the-self`.
+- Recorded here (not as an Active task) so the loop does NOT auto-merge flagship position articles; operator decides if/how to act.
+
 
 ### ✓ 2026-06-21: Reciprocate cross-link consciousness-and-the-ownership-problem → tactile + interoceptive interface articles
 - **Type**: refine-draft
