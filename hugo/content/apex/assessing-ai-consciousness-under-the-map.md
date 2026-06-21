@@ -41,7 +41,7 @@ description: 'An applied synthesis: given the Map''s positions on the consciousn
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-last_deep_review: 2026-06-04 12:00:00+00:00
+last_deep_review: 2026-06-21 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/open-question-ai-consciousness]]'

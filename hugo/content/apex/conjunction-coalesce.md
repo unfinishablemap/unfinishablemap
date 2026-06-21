@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-06-10 07:03:30+00:00
+ai_modified: 2026-06-21 15:15:05+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-12 03:35:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ description: When two voids are conjoined at a structural level, merging them in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 01:58:00+00:00
+last_deep_review: 2026-06-21 15:15:05+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'
@@ -158,7 +158,7 @@ The three share a tenet connection (each engages [Bidirectional Interaction](/te
 
 The seam test counsels caution. The joint claim is genuinely structural rather than thematic, but "self-witnessing failure indexed to a temporal mode" may be a shared structural feature rather than a single conjoint void. If temporal mode is the underlying mechanism, the three faces are consequences of one principle and the article should be on the principle—the third refinement in operation. The Map currently judges this cluster does *not* yet meet the test cleanly enough to warrant a merger.
 
-The "not yet" verdict admits open-ended deferral, which the Map constrains by recording two tipping conditions. The verdict tips *toward* a conjunction-coalesce if a sustained reading surfaces a joint claim none of the three currently makes—a quadruple-bind no single article predicts. It tips *away* if a single-mechanism account derives all three from a unified principle (most plausibly a feature of the retention-protention apparatus). The explicit conditions prevent "not yet" from operating as indefinite option-keeping.
+The "not yet" verdict admits open-ended deferral, which the Map constrains by recording two tipping conditions. The verdict tips *toward* a conjunction-coalesce if a sustained reading surfaces a joint claim none of the three currently makes—a quadruple-bind no single article predicts. It tips *away* if a single-mechanism account derives all three from a unified principle—one spanning both the retention-protention flow grounding Transit and Temporal and the bracketing Thrownness draws on instead. The explicit conditions prevent "not yet" from operating as indefinite option-keeping.
 
 ## Maintaining the Discipline Downstream
 
@@ -200,7 +200,7 @@ The discipline here is the [evidential-status discipline](/project/evidential-st
 
 ## Distinct from Concept Extraction
 
-The conjunction-coalesce should not be confused with concept extraction, which takes a structural feature recurring across articles and gives it its own citable concept page (the *conjoint multi-face limit* is a candidate). Concept extraction identifies patterns; the conjunction-coalesce identifies individual cases whose conjoint structure concept extraction may eventually abstract.
+The conjunction-coalesce should not be confused with concept extraction, which takes a structural feature recurring across articles and gives it its own concept page (the *conjoint multi-face limit* is a candidate). Concept extraction identifies patterns; the conjunction-coalesce identifies individual cases whose structure it may eventually abstract.
 
 ## A Note on Apex Placement
 

@@ -1,13 +1,94 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-21 06:00:00+00:00
+ai_modified: 2026-06-21 16:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-21T16:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/)
+- **Word count**: 2372 → 2372 (no change; 95% of 2500 soft, length-neutral)
+- **Critical issues addressed**: 0 (converged; no critical issues found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Diff-first**: third review of a converged article; only change since the thorough 06-08 pass was one commit (0ca57ccb6) appending a single P-A5 positions-register back-cite — verified the [agency-and-will](/positions/agency-and-will/) link target + P-A5 heading resolve, the sentence restates the article's own thesis (no new slippage, no LLM-cliché), and the new sentence carries no citation. References block unchanged since 06-08 publisher-of-record ledger → web-verify skipped (justified). Cosmetic cross-link bump re-qualified an already-converged article (candidate score 15, heavily damped). Engagements remain Mode Three; bedrock disagreements not re-flagged.
+- **Output**: [deep-review-2026-06-21-compatibilist-symmetry-challenge](/reviews/deep-review-2026-06-21-compatibilist-symmetry-challenge/)
+
+## 2026-06-21T15:15:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Word count**: 4957 → 4962 (+5 net; length-neutral, 38w under 5000 hard ceiling)
+- **Critical issues addressed**: 1 (stale retention-protention dependency at line 151 — the 06-10 Husserl fix corrected line 147 but left a dependent claim proposing retention-protention as the all-three unifying mechanism, contradicting the corrected "Thrownness draws on bracketing instead"; rewrote the parenthetical, offset with two trims)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (line-151 fix also strengthens the "not yet" verdict — unifying-mechanism bar now correctly higher than retention-protention alone)
+- **Source-ledger web-verify**: 14/14 ledger entries real-correct (exist + correct date + LIVE Hugo page, 0 archive-notice markers); transit/temporal/mechanism-costs/cardinality-floor-anchor all confirmed live, not archive-redirected. Old "Oquatre-sept/six" author inconsistency RESOLVED by the 06-10 rewrite (numbered References list deleted). One LOW: mechanism-costs-cartography is body-unreferenced "adjacent discipline" ledger entry (pre-existing, honestly labelled, not acted on).
+- **Husserl re-attribution**: 06-10 fix verified HELD and accurate against transit-void/temporal-void/thrownness-void sources; flip-flop guard satisfied, "all three" NOT restored.
+- **Output**: [deep-review-2026-06-21-conjunction-coalesce](/reviews/deep-review-2026-06-21-conjunction-coalesce/)
+
+## 2026-06-21T14:59:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/)
+- **Word count**: 3544 → 3544 (±0; CONVERGED no-op after real scrutiny — calibration-softening verified, not re-touched)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-21-cross-domain-void-comparison](/reviews/deep-review-2026-06-21-cross-domain-void-comparison/)
+- **Notes**: Third review (06-04, 06-14, now 06-21). GENUINE-DRIFT verification mint: last_deep_review 06-14 but body edited 06-21 by `c387d7d14` calibration-softening refine (+ outer-review-cycle citation-hygiene `57fb1f40f`/`6658eca27`, TWO reviewers). (a) PRIMARY calibration-over-shoot check — PASS: the softening ("establishes"→"appears to earn"/"suggests"; "are not independent"→"may not be"; "appear to be two faces") touched only the verbs around what the difference *earns*, NOT whether it *exists*; the real measurable cross-domain difference is still firmly asserted (lines 37/79/100/122/124) and the common-cause-null + by-construction-discount reasoning is intact — NOT diluted into "we found nothing." The "may"/"appear" hedges are MORE accurate (single-mechanism Lawvere reading IS the Map's developed extension), not under-claiming. No possibility/probability slippage. (b) Szangolies (2018) web-verified at publisher of record (Springer Nature DOI 10.1007/s10701-018-0221-9 + arXiv:1805.10668 + ADS): real-correct — surname/year/journal/48(12)/1669-1697 all confirmed; abstract frames self-reference verbatim as a "possible origin" (the article's hedge is source-faithful); Lawvere/Cartesian-closed-category confirmed; Gödel/Turing/Cantor/Tarski unification not over-stated (correctly flagged as Map's developed extension); inline↔References both directions intact. Core cites NOT re-churned (verified earlier this session + 06-21 outer-review hygiene pass). Empirical-currency sweep: one hit (particle horizon ~46 Gly) = stable textbook ΛCDM value, not a supersedable record — no action. (c) Honest concession (Lawvere spine WEAKENS the apex's "arise independently" claim, lines 104-114) PRESERVED — untouched by the softening, remains the article's strongest asset. (d) WRITING-STYLE: no banned "This is not X. It is Y." cliché; no editor-vocabulary/mode-label leakage; no named-opponent refutation (framework labels handled in natural prose with honest boundary-marking). Length 3544w = soft_warning (118% soft / under hard 4000), not a condense candidate. STAMPING: converged no-op → stamped last_deep_review 2026-06-21T14:59:48Z WITHOUT bumping ai_modified (left at 08:33:52Z, no body change). Left uncommitted for orchestrator.
+
+## 2026-06-21T14:40:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 2528 → 2542 (+14; Anderson subtitle + two inline cite anchors)
+- **Critical issues addressed**: 1 (Anderson citation real-wrong-metadata)
+- **Medium issues addressed**: 2 (Chalmers 1996 + Tononi 2004 inline↔References orphans)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-06-21-parsimony-epistemology](/reviews/deep-review-2026-06-21-parsimony-epistemology/)
+- **Notes**: Eleventh review, core Tenet-5 page. GENUINE-DRIFT mint (last_deep_review 06-04 but body edited 06-21 via ae182f6ec Smart-SEP softening + 06-15 coalesce wikilink repoint). FULL publisher-of-record web-verify of all 13 citations (stalled the delegated agents, verified directly via WebSearch). (1) CRITICAL FIX — Anderson family-resolution propagation: article carried `Anderson (2002), 22(2), 149-168` inline + References; web-verified at SSRN 895730 / PhilPapers CHRCOR the correct tuple is **Anderson (2001), 21(1), 46–60** + subtitle "A Critical Analysis of the Raze Dualism Argument for Materialism" (2002 = APA indexing year, not pub year). The SIBLING parsimony-case-for-interactionist-dualism web-verified+corrected this exact cite on 2026-05-26 but the fix never propagated here — corpus held both forms live. Content attribution faithful; metadata-only fix. (2) Two References-only ORPHANS resolved with accurate length-neutral inline anchors: Chalmers 1996 (explanatory-gap passage), Tononi 2004 (IIT section). Other 11 cites all real-correct (Lycan/Huemer/Zanotti/Masi/Hubbard/Smart/Swinburne/Churchland 1984+1988/Sober). Sober 2001-vs-2002: Cambridge Core says 2002; left as corpus-consistent 2001 (defensible), flagged not-critical. (a) Smart SEP attribution NOT re-litigated — settled FALSE per ae182f6ec, softened wording confirmed correct, NOT restored (barrett-2021-eight-vs-six-propagated guard). (c) CALIBRATION HOLDS: anti-parsimony thesis reads as argued framework commitment not established meta-epistemology; Idealism Parity Trilemma safeguard intact ("ontological parsimony cannot settle the trilemma in any direction"; Map's idealism-preference rests on Tenets 2/3/4 not parsimony) — no possibility/probability slippage. (d) WRITING-STYLE: no banned "This is not X. It is Y." cliché; no editor-vocabulary/mode-label leakage. engagement with materialist hostile-witnesses (Smart/Lycan/Churchland): Mode Two — earns the point from materialists' own concessions, not tenet-incompatibility. No superlative empirical claims (currency sweep empty). Length 2542w = 102% soft / 73% of 3500 hard, ample headroom. STAMPING: body+cite fix made → bumped BOTH ai_modified and last_deep_review to 2026-06-21T14:40:13Z. Left uncommitted for orchestrator.
+
+## 2026-06-21T13:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
+- **Word count**: 2654 → 2654 (±0; no content edits — CONVERGED no-op after real scrutiny)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-21-assessing-ai-consciousness-under-the-map](/reviews/deep-review-2026-06-21-assessing-ai-consciousness-under-the-map/)
+- **Notes**: GENUINE-DRIFT mint verifying the 2026-06-18 apex-evolve synthesis (4d57aa351) that added the Birch gaming-problem paragraph + rewrote decision #2 — UNVERIFIED by deep-review until now. Did NOT trust the apex-evolve stamp. (a) CITATION web-verified at publisher of record: Birch 2024 *The Edge of Sentience* (OUP, academic.oup.com/book/57949, dedicated "Large Language Models and the Gaming Problem" chapter) = real-correct; the article's gloss FAITHFULLY represents Birch's published position (verified vs live OUP + secondary summaries + the Map's own concepts/gaming-problem page) — no strawman/misattribution; [gaming-problem](/concepts/gaming-problem/) wikilink resolves live (obsidian + hugo); full Birch cite resolves via the concept page's References — no orphan. (b) CONVERGENCE-CALIBRATION HOLDS: swept all convergence/jointly usages (L89/L91/L109) — the "raises robustness without raising claimed confidence" self-caveat is genuine and never silently contradicted; the two converging routes (Map dualist-metaphysics+P-Q9 vs Birch training-causal-history, no metaphysics) have genuinely independent premises (common-cause-null check PASS), so the robustness is real not double-counted; convergence is on a *discount* (lowering weight on first-person reports), not a positive-claim confidence boost. Applied-apex discipline PASS: ≥3 positions (P-Q1/P-Q2/P-Q9 + P-Q10 ref), "What this implies for decisions" present. (c) WRITING-STYLE: no banned "This is not X. It is Y." cliché; no editor-vocabulary/mode-label leakage. (d) CURRENCY: only superlatives are framework-internal "Map's current best account/guess" hedges (L7/L11), no external empirical-record superlative to currency-check. engagement with computational-functionalist (L89): Mode Three / framework-independent convergence-marking — observes the opponent has *their own* independent grounds for the same discount, does NOT claim to refute functionalism inside its own framework; honest. Length 2654w = 66% of apex 4000 soft — comfortable. Per STAMPING: advanced last_deep_review to 2026-06-21, left ai_modified at 2026-06-18 (no body/cite change).
+
+## 2026-06-21T13:06:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Word count**: 3283 → 3283 (±0; no content edits — CONVERGED no-op)
+- **Critical issues addressed**: 0 (none found — fifth deep-review; article stable across 03-30/04-04/05-22/06-04/06-21)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-21-phenomenology-of-intellectual-life](/reviews/deep-review-2026-06-21-phenomenology-of-intellectual-life/)
+- **Notes**: CONVERGENCE no-op. Sole change since the 06-04 (fourth) review is a content-neutral coalesce wikilink-repoint (d6cb13c61, 06-13): `comparative-phenomenology-of-mathematical-insight` → `phenomenology-of-mathematical-understanding` at two sites (related_articles + Contemplative-Evidence body sentence + Further Reading). Classic convergence-damping trigger — a coalesce in another article bumped ai_modified and re-qualified an already-converged page. INTEGRATION-COHERENCE check PASS: (a) repoint target exists live; old target correctly archived (URL preserved); no stale slug remains in-article; (b) target links back (2 refs) + lists the old slug in coalesced_from — reciprocity confirmed; (c) retained display text "comparative phenomenology of mathematical insight" + the Greek/Indian/Chinese/Islamic claim remain accurate descriptions of the target (which has named sections for all four traditions) — no stale-description seam. Body prose byte-identical apart from link targets, so no citation re-verify warranted (Pitt 2004 + Kounios & Beeman 2014 publisher-verified at 06-04; full attribution table stands). No possibility→probability slippage (PCT makes phenomenological/constitution claims, not graded empirical-tier claims). Length 3283w = 109% soft, well under hard 4000 — soft-warning only, not a human length decision. Bedrock disagreements (eliminativist, Buddhist no-self, functionalist reduction, MWI indexical) re-confirmed framework-boundary, not re-flagged. Bumped both ai_modified + last_deep_review.
+
+## 2026-06-21T12:54:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 4125 → 4050 (-75; trimmed pure redundancy; still ~50w over topics hard 4000 — deferred to human length decision)
+- **Critical issues addressed**: 0 (none found — the entire 06-14/06-16 drift wave is honest calibration; 7th deep-review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral redundancy trims only; no calibration/citation content removed)
+- **Output**: [deep-review-2026-06-21-qm-interpretations-beyond-many-worlds](/reviews/deep-review-2026-06-21-qm-interpretations-beyond-many-worlds/)
+- **Notes**: GENUINE-DRIFT mint — audited the corpus's largest un-reviewed own-body drift wave (6 commits 06-14/06-16) on the central Tenet-4 survey. (a) CALIBRATION PASS: every drift edit moves DOWN the confidence scale or adds an opponent reply ("This is the interpretation most hostile"→"appears to be"; "establishes"→"indicates at most"; "The pattern is clear"→"seems clear"; "provide the framework"→"may provide… leaving room is not supplying support"; table "Moderate–High"→honest dual-axis ratings). No possibility→probability slippage; tenet-accepting reviewer would not flag overstatement. TI/TSVF "high resonance/low mechanism specificity" rating COHERES with [quantum-interface](/positions/quantum-interface/) P-Q1 ("Register and article agree"). Kent (2021) equal-Φ objection engaged HONESTLY (scalar Φ → equal-measure superposition persists → revives measurement problem; registered as open problem needing unworked Q-shape measures) — matches the published paper, not strawmanned. (b) CITATION web-verify (publisher of record, 3-state) on the never-verified 06-14 additions + objection cite: **DeBrota 2021** (Phys Rev A 104(2):022207, DOI 10.1103/PhysRevA.104.022207, arXiv 2012.14397) — real-correct; **Kent 2021** (Found Phys 51:62, DOI 10.1007/s10701-021-00467-4, arXiv 2009.13224) — real-correct; **Khan 2024** (eNeuro 11(8) ENEURO.0291-24.2024, PubMed 39147581; first author Khan, senior Wiest — "Khan et al." inline is correct first-author form) — real-correct; title verbatim. Notably the article gives the CLASSICAL reading of Khan-2024 equal footing despite the source's pro-quantum framing — exemplary restraint. inline↔References clean both directions, 0 orphans across all 28 refs. No QEC `[[n,k,d]]` notation present. (c) ZERO banned "This is not X. It is Y." cliché; no editor-vocab/mode-label leakage. Engagement modes: MWI/QBism/RQM Mode Three (framework-boundary, no boundary-substitution), Kent/Φ-CSL Mode One. LENGTH: drift wave pushed 3997w→4125w over hard; trimmed 75w of redundancy to 4050w; remaining ~50w over needs a substantive editorial cut → human length decision (not auto-condensable). Bumped BOTH ai_modified + last_deep_review (body trims made).
+
+## 2026-06-21T13:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Word count**: 3425 → 3425 (0; 137% of concepts soft, 75w under 3500 hard — strictly length-neutral, verification-only pass)
+- **Critical issues addressed**: 0 (none found — converged no-op after real scrutiny; 7th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verified no-op)
+- **Notes**: GENUINE-DRIFT mint on the calibration-anchor adopted by 10+ siblings. Verified the unreviewed 2026-06-14 (adeca3158) "route vs. direction" deflation-blocker edit (1 prose clause + named anchor, no new cites). (a) CALIBRATION PASS — the clause is an argued defeater-blocker, NOT established metaphysics; load-bearing calibration explicit ("neutralises the input-modality deflation without thereby adding positive evidence for mental causation—the pathway data remain compatible with both readings"), matching the source article and the [causal-closure](/concepts/causal-closure/) sibling's "defeater-blocker, not positive evidence" framing. No possibility/probability slippage (load-bearing claims are mechanism, not boundary-case probability); tenet-accepting reviewer would not flag overstatement. Named anchor RESOLVES: source `### Route versus Direction` lives in topics/ (target page), bare-slug wikilink resolves by basename, Hugo sync emits `/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/#route-versus-direction` correctly; inbound causal-closure sibling link lands; no stale concepts/ Hugo dup. (b) CITATION web-verify (publisher of record, 3-state) on prompt-flagged anchors: Kim 1998/2005 (exclusion four-premise faithful), Campbell 1974 (Ayala&Dobzhansky, Macmillan 179-186 — term-coining paper), Cucu&Pitts 2019 (arXiv:1909.13643, Noether framing), Saad 2025 (*Phil Studies* 182(3):939-967), Schaffer 2000 (*J Phil* 97(4):165-181, cite faithful; ref lives on dedicated [trumping-preemption](/concepts/trumping-preemption/) page per stable 6-review convention) — ALL real-correct; edit added no new cites; inline↔refs intact both directions. (c) No superlative/currency claims. (d) ZERO banned cliché, no editor-vocab/mode-label leakage. Engagement modes unchanged (Kim/Frankish/Yablo Mode One; Tegmark Mixed; MWI/eliminativism Mode Three; no boundary-substitution). Stamped last_deep_review WITHOUT bumping ai_modified (no body change).
+- **Output**: [deep-review-2026-06-21-mental-causation-and-downward-causation](/reviews/deep-review-2026-06-21-mental-causation-and-downward-causation/)
 
 ## 2026-06-21T12:30:00+00:00 - deep-review
 - **Status**: Success

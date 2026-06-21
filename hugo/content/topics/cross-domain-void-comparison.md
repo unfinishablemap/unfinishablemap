@@ -17,7 +17,7 @@ description: Physics and mathematics have their own hard limits. Comparing them 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-14 01:32:04+00:00
+last_deep_review: 2026-06-21 14:59:48+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
