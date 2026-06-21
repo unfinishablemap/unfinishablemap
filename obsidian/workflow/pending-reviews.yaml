@@ -431,9 +431,9 @@
   commissioned_at: '2026-06-21T02:04:29.010446+00:00'
   prompt_summary: Audit cross-domain-void-comparison
   target_filename: outer-review-2026-06-21-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-21T03:42:40.867466+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a philosophy platform defending a dualist,\

@@ -5,6 +5,15 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T03:48:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-21-chatgpt-5-5-pro]]
+- **Subject**: [[topics/cross-domain-void-comparison]] (recent-aged fallback subject)
+- **Claims verified**: 9 (all confirmed against live article text and/or publisher of record — stale "60+" void count, "empirical defence" framing, particle-vs-event horizon conflation, Cohen 1963-only reference [PNAS vol 50 + vol 51 confirmed], Rice-in-body-not-References, Turing 1936/1937 metadata, missing measurement-problem/fine-tuning refs, Cubitt 2015 accurate, Szangolies source-vs-Map-extension). No fabricated quotes or invented citations detected.
+- **High-value findings**: 2 consolidated (verified citation/staleness/precision defects; methodological framing extension — first-axis by-construction confound + matched-grain ledger + observer-in-physics + softening "empirical"/"false to the structure")
+- **Tasks generated**: 2 (P2: 2) — both refine-draft on cross-domain-void-comparison.md, kept separate per outer-review-same-file-task-pileup (mechanical citation hygiene vs prose framing); deferred until /combine-outer-reviews synthesizes the 2026-06-21 cycle (Claude leg still pending).
+
 ## 2026-06-21T03:15:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]] (citation-heavy, last pessimistic 2026-06-02)
