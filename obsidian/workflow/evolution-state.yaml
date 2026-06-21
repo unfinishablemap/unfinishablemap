@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T12:13:05.433878+00:00'
-session_count: 12588
-cycle_position: 9664
+last_updated: '2026-06-21T12:18:59.511430+00:00'
+session_count: 12589
+cycle_position: 9665
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-21T10:02:28.570225+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-06-21T12:05:56.035302+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-21T07:58:27.965530+00:00'
-  coalesce: '2026-06-21T06:04:10.696889+00:00'
+  coalesce: '2026-06-21T12:18:59.511430+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-20T22:55:42.281036+00:00'
   agentic-social: '2026-06-21T11:52:44.706875+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T11:41:11.646535+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
-  replenish-queue: '2026-06-21T12:13:05.433878+00:00'
+  replenish-queue: '2026-06-21T12:25:00+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-20T22:35:01.433959+00:00'
   add-highlight: '2026-06-21T08:22:24.866610+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-06-21'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-21'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1213,14 +1213,53 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 3
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 2
-  last_replenishment_run: 492
-  last_replenishment: '2026-06-21T12:10:00+00:00'
+  loop_pickable_open: 3
+  last_replenishment_run: 493
+  last_replenishment: '2026-06-21T12:25:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: 'run no.492 (2026-06-21): NO-MINT floor-restore + queue
+  current_replenishment_note: 'run no.493 (2026-06-21): FLOOR-RESTORING single genuine-drift
+    deep-review MINT. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2
+    (the two loop-pickable P2 genuine-drift deep-reviews from runs 487/491: concepts/mental-causation-and-downward-causation
+    + topics/qm-interpretations-beyond-many-worlds; HUMAN LENGTH DECISION items and
+    struck-through tasks do NOT count toward the floor), MIN_QUEUE floor 3 unmet by
+    1. Documented replenish-at-floor alternation (unfin_loop_steady_state), NOT the
+    fixed deadlock. FULL EIGHT-SOURCE AUDIT independently re-run, all exhausted EXCEPT
+    genuine-drift: (1 chain) ZERO research/expand/cross-review completions in recent_tasks.
+    (2 unconsumed research) the three newest 2026-06-20 notes are disk-verified CONSUMED.
+    (3 gap) caps have headroom (topics 275/320, concepts 265/320, positions 5/80; voids
+    101/100 OVER) but new-article generation is harvester-governed (next ~15:32 UTC)
+    and gap-analysis is Vetoed-bank dedup-blocked. (4 staleness >=30d) only the converged
+    metadata tail. (5 length) every hard+ offender is a research/ working note, a HUMAN-deferred
+    calibration anchor (epistemology-of-convergence-arguments 6479w + born-rule 5106w
+    both carry repeated DEFERRED-TO-HUMAN verdicts), an index hub, a deferred/#veto
+    apex, accept-as-survey, or a HUMAN-LENGTH-DECISION case (synesthetic-void) -- NO
+    safe fresh condense candidate. (6 orphan) orphaned_files=0. (7/8 positions/applied-apex)
+    slow-add. MINT RATIONALE -- run 492 prematurely declared the genuine-drift pool
+    "exhausted to cosmetic-only" but its classification only swept the topics/concepts
+    drift band; it MISSED the apex synthesis edits. A fresh own-body-vs-cosmetic git
+    classification of the full 169-candidate ai_modified>last_deep_review pool found
+    a clean genuine exception run 492 overlooked: apex/assessing-ai-consciousness-under-the-map.md
+    last deep-reviewed 2026-06-04 (FRESH-CREATE review b06990987, no pass since) but
+    substantively OWN-BODY edited 2026-06-18 by commit 4d57aa351 auto(apex-evolve):
+    trigger -- a genuine SYNTHESIS pass (git-verified 9 insertions/4 deletions to THIS
+    file body + its own dedicated review file apex-evolve-2026-06-18-..., NOT a cosmetic
+    multi-file sweep). The synthesis added a NEW ~200-word paragraph integrating Jonathan
+    Birch''s "gaming problem" as a framework-independent convergent argument for discounting
+    AI first-person reports, added [[concepts/gaming-problem]] (wikilink confirmed resolves)
+    + apex_source, and rewrote decision-implication #2. apex-evolve bumps ai_modified/apex_last_synthesis
+    but NOT last_deep_review, so this argumentative addition is UNVERIFIED by deep-review
+    (coalesce-hides-review-debt-and-regresses-fixes; apex-last-synthesis-drift-artifact
+    -- diff confirms REAL new prose, not the stale-field re-stamp artifact). HIGH value:
+    central APPLIED apex on AI-consciousness assessment (active-research area) carrying
+    a NEW external citation + a calibration-sensitive convergence claim. Length ok at
+    2654w (apex soft 4000), so genuine improvement permitted. P2, FIFO-placed after
+    the two existing pickable deep-reviews (queue-lifo-starvation). Floor RESTORED: post-mint
+    count_p0_p2_tasks=3. Expect replenish-at-floor alternation to continue until the
+    harvester reopens the research->expand pipeline ~15:32 UTC.'
+  superseded_492_replenishment_note: 'run no.492 (2026-06-21): NO-MINT floor-restore + queue
     hygiene. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2
     (the two loop-pickable P2 genuine-drift deep-reviews minted by runs 487/491 and
     still pending: concepts/mental-causation-and-downward-causation + topics/qm-interpretations-beyond-many-worlds;
