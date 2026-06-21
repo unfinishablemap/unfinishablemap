@@ -1197,23 +1197,9 @@ agentic_social:
     - born-rule-and-the-consciousness-interface
     - selection-only-mind-influence
 tune_system_history:
-  last_run: '2026-06-19T21:57:41.573445+00:00'
+  last_run: '2026-06-21T08:20:00+00:00'
   changes_applied: []
-  note: '0 Tier-1 changes — cycle-396 OVER-FREQUENCY fire ~1d after the 2026-06-18
-    run (3rd consecutive over-frequency: 06-16/06-18/06-19; cycle-trigger every 6
-    cycles vastly outpaces the 30d cadence). ~1d elapsed => no evidence threshold
-    met (need 5+ sessions). No in-file tunable settings (cadences/overdue_thresholds/locked_settings
-    absent — they live in code), so no Tier-1 surface exists. System HEALTHY: 0 critical,
-    0 failed/20 recent, queue functioning (replenish-at-floor steady state + harvest-research
-    reviving the research->expand pipeline 2x this session), convergence stable (topics
-    273, concepts 265, apex 35). Tier-2 (3rd consecutive): gate tune-system on its
-    30d cadence so it stops firing every 6 cycles. Tier-3 reconfirmed w/ strong same-session
-    evidence: (a) agentic-social selector index-leak (apex-articles.md escapes stem==parent
-    guard) + 7d topic-saturation — 9/9 posts this session self-corrected; (b) forks
-    spawn subagents then return incomplete (~5x: coalesce 2x, check-tenets, deep-review
-    sublime, expand chains) — orchestrator must finalize; (c) deep-review over-reviews
-    converged articles (~4x this session, cosmetic ai_modified bump re-floats) — convergence-damping
-    in candidate scorer. Report reviews/system-tune-2026-06-19.'
+  note: '0 Tier-1 changes (4th consecutive OVER-FREQUENCY fire 06-16/06-18/06-19/06-21; every-6-cycles trigger outpaces 30d cadence; ~1.5d since last run = no evidence threshold). No in-file Tier-1 surface (cadences/thresholds in code). HEALTHY: 0 critical, 0 failed/20 recent, tenet-scan 547 files clean, convergence stable (topics 275 concepts 265 apex 36 positions 5). Tier-2 (4th): gate tune-system on 30d cadence. Tier-3 NEW: replenish false-exhaustion (staleness-30d dry but genuine-drift ai_modified>last_deep_review stays fed incl. rewrites hidden under mislabeled auto(replenish-queue) commits; detect via frontmatter+diff). Tier-3 recurring: fork monitor-wait bails (replenish+check-tenets), replenish LIFO starvation, agentic-social index-leak+topic-saturation, deep-review over-reviews converged. Report reviews/system-tune-2026-06-21.'
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
