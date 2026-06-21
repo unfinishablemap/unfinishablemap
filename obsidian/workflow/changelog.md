@@ -5,6 +5,13 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T22:19:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Vestibular consciousness and the interface
+- **Output**: [[research/vestibular-consciousness-and-the-interface-2026-06-21]]
+- **Sources consulted**: 10 (2 verified at publisher of record: Pfeiffer/Serino/Blanke 2014, de Vignemont SEP "Bodily Awareness"; 8 require metadata web-verify before the eventual article cites them)
+- **Verdict**: WRITE — confirmed worth covering (named gap in tactile article; no duplicate live/archived/research; structurally distinct silent-sense / no-primary-cortex angle, distinct from the proprioception article)
+
 ## 2026-06-21T19:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/somatic-interface]]
