@@ -5,6 +5,15 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T23:30:00+00:00 - cross-review
+- **Status**: Success (confirming / no-op)
+- **File**: [[topics/vestibular-consciousness-and-the-interface]]
+- **Type**: cross-review of fresh-create against the interface-modality series (expand-topic chain successor)
+- **Citation web-verify (publisher of record, all 7)**: de Vignemont 2024 SEP — real-correct (verbatim quotes "paucity of vestibular experiences in normal consciousness", semicircular-canal/otolith descriptions, and the "(1) Which way is up? (2) Where am I heading?" framing all exact); Pfeiffer/Serino/Blanke 2014 Front Integr Neurosci 8:31 PMC4028995 — real-correct (the "no such unisensory vestibular cortex" quote and distributed-network definition are verbatim at the OA source); Blanke & Arzy 2005 Neuroscientist 11(1):16–24 PubMed 15632275 — real-correct (stance: OBE as TPJ multisensory-integration failure); Lopez/Lenggenhager/Blanke 2010 Conscious Cogn 19(1):33–47 PubMed 20047844 — real-correct (GVS modulates illusory hand ownership via RHI, mediated by right TPJ/posterior insula); Laurens & Droulez 2007 Biol Cybern 96(4):389–404 PubMed 17146661 — real-correct (Bayesian estimation, gravity prior, somatogravic effect faithful); Blanke 2012 Nat Rev Neurosci 13(8):556–571 PubMed 22805909 — real-correct (self-location/first-person-perspective/ownership as multisensory integration); Cento et al. 2026 J Vestib Res DOI 10.1177/09574271251412707 PubMed 41499789 — real-correct, all six authors confirmed, highest-fabrication-risk recent cite holds, stance faithful (vestibular dysfunction → DD via anxiety + spatial disorientation).
+- **Cross-series consistency**: apex [[cross-modal-capability-division]] "Silent Frame" section and the article AGREE (same cites, same faint-object/foundational-frame framing, same accommodation-not-proof + common-cause-null discipline) — no contradiction. Reciprocal cross-links present and consistent (tactile body+Further-Reading ×2; interoceptive Further-Reading; apex source list + body). Terminology matches the series. All wikilink targets resolve.
+- **Discipline check**: accommodation-not-proof applied throughout; physicalist Bayesian/multisensory-integration rival engaged at full strength in a dedicated section; naturalist authors not conscripted. No "This is not X. It is Y." cliché; no editor-vocabulary label leakage. Length 2977w (99% of soft 3000, under hard 4000).
+- **Result**: Confirming verdict — no content edits, no review archive (cross-review, not deep-review). Note: an earlier same-day optimistic-review independently reached the same positive verdict and queued a P3 integrate-orphan for four one-directional cross-link gaps; not duplicated here.
+
 ## 2026-06-21T23:17:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/vestibular-consciousness-and-the-interface.md — the sensory-interface cluster's newest, previously-unreviewed member (created 2026-06-21), cross-checked against the cross-modal-capability-division apex and the tactile/interoceptive/somatic-interface siblings.

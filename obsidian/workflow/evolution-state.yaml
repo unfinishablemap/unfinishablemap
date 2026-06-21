@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T23:20:51.797965+00:00'
-session_count: 12703
+last_updated: '2026-06-21T23:25:40.784262+00:00'
+session_count: 12704
 cycle_position: 9708
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T22:07:09.558838+00:00'
   research-topic: '2026-06-21T22:20:35.614283+00:00'
-  replenish-queue: '2026-06-21T23:35:00+00:00'
+  replenish-queue: '2026-06-21T23:25:40.784262+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-21T22:57:46.576536+00:00'
   add-highlight: '2026-06-21T08:22:24.866610+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-21'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1250,43 +1250,44 @@ queue_status:
     ''Cross-review the new topics/vestibular-consciousness-and-the-interface.md against
     the interface-modality series'' (P2 cross-review), programmatically re-confirmed
     this run from live todo.md (not inherited). The two open P2 tasks are run 509''s
-    Vestibular cross-review mint + the harvester''s Thermal research-topic — both real
-    executable chain/harvest work. Floor 3 unmet by 1 (count 2 < MIN_QUEUE 3), NOT
-    by 3, and SELF-RESTORING: the next loop iteration picks the REAL Vestibular cross-review
-    (no skip-queue-slot needed). Documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
-    NOT the fixed deadlock. FULL EIGHT-SOURCE AUDIT INDEPENDENTLY RE-RUN FROM LIVE
-    DISK (not trusting run 509''s inherited note), all exhausted to no safe ADDITIONAL
-    mint. (1 chain) recent_tasks shows the Vestibular expand-topic (22:57) + research-topic
-    (22:20) completions; the expand-topic''s chain successor IS the queued cross-review
-    (run 509 mint), the research-topic was consumed by that expand-topic, and the apex-evolve
-    completion was itself the now-executed Vestibular chain successor — no further unqueued
-    chain successor. (2 unconsumed research) disk-verified: the six newest notes all
-    have live same-slug/related consumers (vestibular->topics/, interoceptive->topics/,
-    cross-modal-capability-division->apex/, phenomenology-of-forgetting->topics/, epistemological-limits-occams->voids/,
-    enactivism->topics/enactivism-challenge-to-interactionist-dualism deep-reviewed
-    2026-06-20). Drained. (3 gap/harvester) caps have headroom (topics 276/320, concepts
-    265/320, positions 5/80; voids 101/100 OVER) but new-article generation is harvester-governed
-    (last fired 21:40; its Thermal research-topic is the other open queue task). (4
-    staleness >=30d) PROGRAMMATIC ai_contribution>50 + last_deep_review(null-or-<2026-05-22)
-    scan over topics/concepts/voids/apex yields exactly ONE hit — the brand-new Vestibular
-    article (last_deep_review null), already handled via its queued cross-review. ZERO
-    other content hits. (5 length) canonical body-stripped get_length_warnings re-run;
-    every content-section hard+ offender is a research/working note (not a condense
-    target), the apex-articles index hub (8382w), HUMAN-deferred/DIVERTED (epistemology-of-convergence
-    6479w, born-rule 5106w, clinical-dissociation 4861w, time-collapse-and-agency 4606w,
-    argument-from-reason 4489w, epistemic-advantages-of-dualism 4400w, reductionism
-    3561w, synesthetic-void 3578w, edge-states 3482w, agency-void 3174w, what-voids-reveal
-    3019w, wholeheartedness-void 3006w), hash-veto (composition-question-rivals 4106w,
-    phenomenal-output 6872w, meaning-of-life), accept-as-survey (memory-channel-interface-evidence
-    4296w), or positions slow-add (quantum-interface 2507w). Re-minting any is the
-    [[replenish-overmints-condense-vs-accept-as-survey]] / [[deep_review_over_reviews_converged]]
-    churn anti-pattern. (6 orphan) orphaned_files=0; vestibular not orphaned (4 inbound
-    links). (7 positions) 5/80 slow-add, audit within 30d window (positions-evolve
-    last 2026-06-20T00:58). (8 applied-apex) only 5 positions total, no high-confidence
-    cluster large enough for a new applied apex. Net: NO ADDITIONAL MINT; run 509''s
-    cross-review mint already restored the floor toward 3 and self-restores as it executes.
-    Do NOT force-mint a churn task. The next genuine refill must come from a NEW outer/optimistic
-    review or human-queued work reopening a source.'
+    Vestibular cross-review mint + the harvester''s Thermal research-topic — both
+    real executable chain/harvest work. Floor 3 unmet by 1 (count 2 < MIN_QUEUE 3),
+    NOT by 3, and SELF-RESTORING: the next loop iteration picks the REAL Vestibular
+    cross-review (no skip-queue-slot needed). Documented replenish-at-floor alternation
+    ([[unfin_loop_steady_state]]), NOT the fixed deadlock. FULL EIGHT-SOURCE AUDIT
+    INDEPENDENTLY RE-RUN FROM LIVE DISK (not trusting run 509''s inherited note),
+    all exhausted to no safe ADDITIONAL mint. (1 chain) recent_tasks shows the Vestibular
+    expand-topic (22:57) + research-topic (22:20) completions; the expand-topic''s
+    chain successor IS the queued cross-review (run 509 mint), the research-topic
+    was consumed by that expand-topic, and the apex-evolve completion was itself the
+    now-executed Vestibular chain successor — no further unqueued chain successor.
+    (2 unconsumed research) disk-verified: the six newest notes all have live same-slug/related
+    consumers (vestibular->topics/, interoceptive->topics/, cross-modal-capability-division->apex/,
+    phenomenology-of-forgetting->topics/, epistemological-limits-occams->voids/, enactivism->topics/enactivism-challenge-to-interactionist-dualism
+    deep-reviewed 2026-06-20). Drained. (3 gap/harvester) caps have headroom (topics
+    276/320, concepts 265/320, positions 5/80; voids 101/100 OVER) but new-article
+    generation is harvester-governed (last fired 21:40; its Thermal research-topic
+    is the other open queue task). (4 staleness >=30d) PROGRAMMATIC ai_contribution>50
+    + last_deep_review(null-or-<2026-05-22) scan over topics/concepts/voids/apex yields
+    exactly ONE hit — the brand-new Vestibular article (last_deep_review null), already
+    handled via its queued cross-review. ZERO other content hits. (5 length) canonical
+    body-stripped get_length_warnings re-run; every content-section hard+ offender
+    is a research/working note (not a condense target), the apex-articles index hub
+    (8382w), HUMAN-deferred/DIVERTED (epistemology-of-convergence 6479w, born-rule
+    5106w, clinical-dissociation 4861w, time-collapse-and-agency 4606w, argument-from-reason
+    4489w, epistemic-advantages-of-dualism 4400w, reductionism 3561w, synesthetic-void
+    3578w, edge-states 3482w, agency-void 3174w, what-voids-reveal 3019w, wholeheartedness-void
+    3006w), hash-veto (composition-question-rivals 4106w, phenomenal-output 6872w,
+    meaning-of-life), accept-as-survey (memory-channel-interface-evidence 4296w),
+    or positions slow-add (quantum-interface 2507w). Re-minting any is the [[replenish-overmints-condense-vs-accept-as-survey]]
+    / [[deep_review_over_reviews_converged]] churn anti-pattern. (6 orphan) orphaned_files=0;
+    vestibular not orphaned (4 inbound links). (7 positions) 5/80 slow-add, audit
+    within 30d window (positions-evolve last 2026-06-20T00:58). (8 applied-apex) only
+    5 positions total, no high-confidence cluster large enough for a new applied apex.
+    Net: NO ADDITIONAL MINT; run 509''s cross-review mint already restored the floor
+    toward 3 and self-restores as it executes. Do NOT force-mint a churn task. The
+    next genuine refill must come from a NEW outer/optimistic review or human-queued
+    work reopening a source.'
   superseded_509_replenishment_note: 'run no.509 (2026-06-21T23:20Z): MINTED 1 (conservative).
     Live tools.evolution.task_selector.count_p0_p2_tasks=1 BEFORE mint (floor 3 unmet
     by 2). KEY DEVELOPMENT vs run 508: the Vestibular apex-evolve chain successor

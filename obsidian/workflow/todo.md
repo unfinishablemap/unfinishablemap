@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the new topics/vestibular-consciousness-and-the-interface.md against the interface-modality series
-- **Type**: cross-review
-- **Notes**: expand-topic chain successor. The Vestibular article was created 2026-06-21T22:52 (commit 66e0d35cf, 2977w, ai_contribution 100) and has never been deep-reviewed (last_deep_review: null). Per [[fresh-create-defect-tail]], a freshly-created article carries a remediation tail even when it validated clean at creation — its NEW vestibular-neuroscience factual content (citations to web-verify; date/quote sanity) is the priority. Cross-review against the sibling interface-modality series it already links to: [[tactile-consciousness-and-the-interface]], [[interoceptive-consciousness-and-the-interface]], [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]], [[somatic-interface]], and the [[cross-modal-capability-division]] apex (which the 2026-06-21 apex-evolve pass just amended to admit vestibular as a 7th source — confirm the apex's vestibular paragraph and the article's framing agree). Verify reciprocal cross-links are consistent, terminology matches the series, and the accommodation-not-proof interface discipline is applied (no over-claiming the modality as evidence). The article is well-integrated (4 inbound links) so this is a content/integration review, NOT an integrate-orphan task.
-- **Source**: chain (from topics/vestibular-consciousness-and-the-interface.md)
-- **Generated**: 2026-06-21
-
 ### P3: Add reciprocal cross-links to topics/vestibular-consciousness-and-the-interface.md
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1200,6 +1194,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-21: Cross-review the new topics/vestibular-consciousness-and-the-interface.md against the interface-modality series
+- **Type**: cross-review
+- **Notes**: expand-topic chain successor. The Vestibular article was created 2026-06-21T22:52 (commit 66e0d35cf, 2977w, ai_contribution 100) and has never been deep-reviewed (last_deep_review: null). Per [[fresh-create-defect-tail]], a freshly-created article carries a remediation tail even when it validated clean at creation — its NEW vestibular-neuroscience factual content (citations to web-verify; date/quote sanity) is the priority. Cross-review against the sibling interface-modality series it already links to: [[tactile-consciousness-and-the-interface]], [[interoceptive-consciousness-and-the-interface]], [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]], [[somatic-interface]], and the [[cross-modal-capability-division]] apex (which the 2026-06-21 apex-evolve pass just amended to admit vestibular as a 7th source — confirm the apex's vestibular paragraph and the article's framing agree). Verify reciprocal cross-links are consistent, terminology matches the series, and the accommodation-not-proof interface discipline is applied (no over-claiming the modality as evidence). The article is well-integrated (4 inbound links) so this is a content/integration review, NOT an integrate-orphan task.
 
 ### ✓ 2026-06-21: apex-evolve: cross-modal-capability-division — consider admitting vestibular as a 7th source
 - **Type**: apex-evolve
