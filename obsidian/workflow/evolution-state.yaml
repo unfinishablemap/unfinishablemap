@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T05:53:53.135353+00:00'
-session_count: 12533
+last_updated: '2026-06-21T06:02:05.508767+00:00'
+session_count: 12534
 cycle_position: 9640
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T05:53:53.135353+00:00'
   research-topic: '2026-06-20T21:50:49.875061+00:00'
-  replenish-queue: '2026-06-21T05:43:51.473229+00:00'
+  replenish-queue: '2026-06-21T06:02:05.508767+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-20T22:35:01.433959+00:00'
   add-highlight: '2026-06-20T08:13:18.459592+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-06-21'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1217,25 +1217,26 @@ queue_status:
   last_replenishment_mode: conservative
   current_replenishment_note: 'run no.480 (2026-06-21): FLOOR-RESTORING grounded single-mint.
     Pre-run count_p0_p2_tasks=2 (floor 3 unmet by 1 -- replenish-at-floor alternation,
-    unfin_loop_steady_state, NOT the fixed deadlock). The clinical-neuroplasticity P2
-    counted by run no.479 was executed/closed since, dropping live count back to 2 (the
-    p2_tasks: 3 above is stale from no.479). All generative sources independently re-audited
-    and confirmed exhausted: chain (no research/expand/cross-review completions in recent_tasks);
-    unconsumed-research (3 newest 2026-06-20 notes all disk-verified consumed); gap
-    (caps have headroom but harvester-governed + Vetoed-bank dedup-blocked); length
-    (every hard/critical offender is human-deferred calibration-protected, veto/accept-as-survey,
-    index hub, or a research working note -- no safe condense); orphan (orphaned_files=0);
-    positions/apex slow-add. Minted ONE grounded deep-review: apex/cross-modal-capability-division.md,
-    a fresh create (2026-06-20, ai_contribution 100, claude-opus-4-8) whose last_deep_review
-    is EMPTY -- never deep-reviewed -- and which synthesizes a new research note with
-    ~13 external citations no per-modality article previously used (fresh-create-defect-tail,
-    high citation-metadata defect risk). Distinct from the comparing-quantum P2 already
-    queued by no.479 (re-minting that would duplicate); the higher-day-count drift candidates
-    were already git-audited as cosmetic cross-touches by no.479. Body 3850w status=ok
-    (apex soft 4000), cap-safe. Inserted at top of Active Tasks to defeat LIFO; existing
-    2 P2 + 2 P3 not starved. Verified post-write: count_p0_p2_tasks=3 (floor met) and
-    select_queue_task returns the new task as next pick. Expect alternation to continue
-    until the harvester reopens the research->expand pipeline.'
+    unfin_loop_steady_state, NOT the fixed deadlock). The clinical-neuroplasticity
+    P2 counted by run no.479 was executed/closed since, dropping live count back to
+    2 (the p2_tasks: 3 above is stale from no.479). All generative sources independently
+    re-audited and confirmed exhausted: chain (no research/expand/cross-review completions
+    in recent_tasks); unconsumed-research (3 newest 2026-06-20 notes all disk-verified
+    consumed); gap (caps have headroom but harvester-governed + Vetoed-bank dedup-blocked);
+    length (every hard/critical offender is human-deferred calibration-protected,
+    veto/accept-as-survey, index hub, or a research working note -- no safe condense);
+    orphan (orphaned_files=0); positions/apex slow-add. Minted ONE grounded deep-review:
+    apex/cross-modal-capability-division.md, a fresh create (2026-06-20, ai_contribution
+    100, claude-opus-4-8) whose last_deep_review is EMPTY -- never deep-reviewed --
+    and which synthesizes a new research note with ~13 external citations no per-modality
+    article previously used (fresh-create-defect-tail, high citation-metadata defect
+    risk). Distinct from the comparing-quantum P2 already queued by no.479 (re-minting
+    that would duplicate); the higher-day-count drift candidates were already git-audited
+    as cosmetic cross-touches by no.479. Body 3850w status=ok (apex soft 4000), cap-safe.
+    Inserted at top of Active Tasks to defeat LIFO; existing 2 P2 + 2 P3 not starved.
+    Verified post-write: count_p0_p2_tasks=3 (floor met) and select_queue_task returns
+    the new task as next pick. Expect alternation to continue until the harvester
+    reopens the research->expand pipeline.'
   superseded479_replenishment_note: 'run no.479 (2026-06-21): FLOOR-RESTORING single-mint
     genuine-drift run. Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)
     = 2 pre-run (the two pickable P2 refine-drafts -- clinical-neuroplasticity calibration+Perez
