@@ -5,6 +5,18 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T23:10:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/cross-modal-capability-division]]
+- **Mode**: evolve — admitted [[topics/vestibular-consciousness-and-the-interface]] as a 7th source (chain successor)
+- **Admission decision**: ADMITTED as load-bearing. Vestibular is the brain-side *extreme* of the apex's asymmetry (no unisensory vestibular cortex per Pfeiffer/Serino/Blanke 2014; nearly no felt object per de Vignemont 2024; supplies the spatial *frame* of the subject) — structurally distinct from interoception's both-terms inversion. Payload: converts the apex's "ownership is uneven" gradient from one axis to TWO (smell = faint-object+faint-frame; vestibular = faint-object+foundational-frame), turning the "differently-weighted family" hedge into a named 3-member structure (object-unity / owned affect / situatedness of the viewpoint).
+- **New section**: "The Silent Frame: The Asymmetry at Its Brain-Side Extreme" (after the interoception inward-inversion section, before "The Rival" — a structural extension, not a new rival).
+- **Citation discipline**: REUSED only the 7 already-publisher-verified vestibular cites (de Vignemont 2024 SEP; Pfeiffer/Serino/Blanke 2014; Blanke & Arzy 2005; Lopez/Lenggenhager/Blanke 2010; Laurens & Droulez 2007; Blanke 2012; Cento et al. 2026) as References 12–18; NO new unverified cites.
+- **Discipline checks**: held consonant-not-probative (Bayesian-inference + multisensory-integration rival predicts the silence/frame-coding); common-cause-null applied and argued to bite HARDEST here (vestibular *is* multisensory integration, shared TPJ hub, no independent channel → extends what the asymmetry means without adding confirmation); no "This is not X. It is Y." construct.
+- **Word count**: 3859 → 4745 (+886; soft 4000 / hard 5000 / critical 6500 → soft-over, 255w margin to hard, within the brief's room for a first-class treatment).
+- **Reciprocal link**: apex → vestibular added (related_articles + Source Articles + body); vestibular → apex already present.
+- **Review**: [[reviews/apex-evolve-2026-06-21-cross-modal-capability-division]]
+
 ## 2026-06-21T22:40:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Vestibular consciousness and the interface
