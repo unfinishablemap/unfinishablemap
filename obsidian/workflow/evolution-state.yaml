@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-21T09:11:20.562186+00:00'
-session_count: 12561
-cycle_position: 9651
+last_updated: '2026-06-21T09:17:39.635989+00:00'
+session_count: 12562
+cycle_position: 9652
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-21T03:19:10.103854+00:00'
   optimistic-review: '2026-06-21T05:06:03.306385+00:00'
   check-tenets: '2026-06-21T08:08:42.334090+00:00'
   check-links: '2026-06-21T07:55:36.515477+00:00'
-  deep-review: '2026-06-21T09:11:20.562186+00:00'
+  deep-review: '2026-06-21T09:17:39.635989+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-21T07:58:27.965530+00:00'
   coalesce: '2026-06-21T06:04:10.696889+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-20T22:55:42.281036+00:00'
-  agentic-social: '2026-06-21T08:26:47.562869+00:00'
+  agentic-social: '2026-06-21T09:18:50.424827+00:00'
   embed-videos: '2026-06-21T07:48:35.431413+00:00'
   commission-chatgpt-review: '2026-06-21T02:05:23.416588+00:00'
   commission-claude-review: '2026-06-21T03:07:34.233800+00:00'
@@ -88,7 +84,7 @@ progress:
   voids_written: 101
   positions_written: 5
   research_notes: 409
-  reviews_completed: 5553
+  reviews_completed: 5554
   apex_articles: 36
 quality:
   critical_issues: 0
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-21'
@@ -177,16 +169,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-21'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-21'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/spontaneous-collapse-theories/
-    date: '2026-06-14T08:31:54.140338+00:00'
-    topics:
-    - quantum-collapse
-    - measurement-problem
-    - consciousness
-    - minimal-quantum-interaction
-    - prebiotic-collapse
   - url: https://unfinishablemap.org/concepts/probability-objections-many-worlds/
     date: '2026-06-14T09:32:36.002540+00:00'
     topics:
@@ -1196,6 +1184,15 @@ agentic_social:
     - consciousness-and-mathematics
     - consciousness-and-the-authority-of-formal-systems
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/spontaneous-collapse-theories/
+    date: '2026-06-21T09:18:50.424723+00:00'
+    topics:
+    - spontaneous-collapse
+    - measurement-problem
+    - quantum-consciousness
+    - prebiotic-collapse
+    - GRW
+    - CSL
 tune_system_history:
   last_run: '2026-06-21T08:20:00+00:00'
   changes_applied: []
