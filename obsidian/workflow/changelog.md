@@ -5,6 +5,17 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T00:00:00+00:00 - deep-review
+- **Status**: Success (converged-no-op)
+- **File**: [[topics/consciousness-and-the-ownership-problem]]
+- **Word count**: 2815 → 2815 (no change)
+- **Classification**: Cosmetic cross-link touch since 2026-06-01 review (commit cd1177181 added one Further Reading link to [[phenomenology-of-agency-vs-passivity]]); no own-body content drift. 6th review, article converged.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification**: new cross-link + cluster links resolve; citations already publisher-verified 2026-06-01 (body unchanged); no superlative claims; length 94% of soft target. Stamped last_deep_review WITHOUT bumping ai_modified (anti re-qualification churn).
+- **Output**: [[reviews/deep-review-2026-06-21-consciousness-and-the-ownership-problem]]
+
 ## 2026-06-21T04:27:43+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-21
