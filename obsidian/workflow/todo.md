@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocate cross-link consciousness-and-the-ownership-problem → tactile + interoceptive interface articles
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-and-the-ownership-problem.md
-- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21c]]. GREP-VERIFIED 2026-06-21: `consciousness-and-the-ownership-problem.md` contains ZERO matches for "tactile-consciousness", "interoceptive-consciousness", or "rubber-hand"/"rubber hand". BOTH interface articles explicitly route their felt-mineness residue TO this article (tactile via the rubber-hand boundary shift; interoceptive via the affect-and-ownership mind-side default), yet it offers no path back to its two cleanest worked perceptual cases. Add one or two Further-Reading lines naming the rubber-hand boundary case (tactile) and the interoceptive ownership-default case as worked perceptual instances of felt mineness. LENGTH-NEUTRAL. CAUTION: this article was deep-reviewed earlier on 2026-06-21 — re-grep before editing to confirm the gap persists; if a ref now exists, close as already-covered. Preserve voice + calibration.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-21
-
 ### ✓ 2026-06-21 RESOLVED-ALREADY-COVERED: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
 - **Resolution**: Closed by /replenish-queue run no.492 (2026-06-21) on grep-verification. The optimistic-review "0 refs" reading is STALE ([[out-of-scope-spillover-flags-stale]]): `voids/capability-division-problem.md` ALREADY links back to the dual-domain article in BOTH a substantive body cross-link (line 78: "**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema… and the body image…") AND its Further Reading list (line 137). The reciprocal cross-link the review asked for already exists; running a refine would be a confused no-op. No edit needed.
 - **Type**: refine-draft
@@ -1189,6 +1181,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-21: Reciprocate cross-link consciousness-and-the-ownership-problem → tactile + interoceptive interface articles
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21c]]. GREP-VERIFIED 2026-06-21: `consciousness-and-the-ownership-problem.md` contains ZERO matches for "tactile-consciousness", "interoceptive-consciousness", or "rubber-hand"/"rubber hand". BOTH interface articles explicitly route their felt-mineness residue TO this article (tactile via the rubber-hand boundary shift; interoceptive via the affect-and-ownership mind-side default), yet it offers no path back to its two cleanest worked perceptual cases. Add one or two Further-Reading lines naming the rubber-hand boundary case (tactile) and the interoceptive ownership-default case as worked perceptual instances of felt mineness. LENGTH-NEUTRAL. CAUTION: this article was deep-reviewed earlier on 2026-06-21 — re-grep before editing to confirm the gap persists; if a ref now exists, close as already-covered. Preserve voice + calibration.
 
 ### ✓ 2026-06-21: Reciprocate cross-link evaluative-phenomenal-character → tactile-consciousness-and-the-interface
 - **Type**: refine-draft

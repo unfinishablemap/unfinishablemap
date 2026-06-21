@@ -5,6 +5,13 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T18:48:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-ownership-problem]]
+- **Original score**: n/a (targeted cross-link reciprocation, not full review)
+- **Changes**: Reciprocated cross-links to the two interface articles that route their felt-mineness residue here. Re-grep confirmed the gap persisted (zero matches for tactile/interoceptive/rubber-hand). Added two Further-Reading lines: [[topics/tactile-consciousness-and-the-interface]] (rubber-hand boundary-shift as a worked perceptual case—movable boundary still felt as mine) and [[topics/interoceptive-consciousness-and-the-interface]] (visceral states arrive already-owned; felt mineness as affective ground of subjecthood). Verified both targets exist and genuinely point inbound. Length-neutral; voice and calibration preserved; last_deep_review untouched.
+- **Published**: yes
+
 ## 2026-06-21T18:40:43+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/evaluative-phenomenal-character]]

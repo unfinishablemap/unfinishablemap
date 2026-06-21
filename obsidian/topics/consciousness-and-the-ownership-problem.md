@@ -2,9 +2,9 @@
 title: "Consciousness and the Ownership Problem"
 description: "Why does experience belong to anyone? The ownership problem asks what makes conscious states mine rather than free-floating—a question physicalism cannot answer."
 created: 2026-02-09
-modified: 2026-02-09
+modified: 2026-06-21
 human_modified:
-ai_modified: 2026-06-20T00:00:00+00:00
+ai_modified: 2026-06-21T18:48:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,6 +151,8 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [[parfit-reductionism]] — The reductionist challenge to primitive ownership
 - [[embodied-consciousness]] — Bodily ownership, agency, and the phenomenology of embodiment under dualism
 - [[clinical-phenomenology-and-altered-experience]] — Clinical evidence for ownership as a separable structural feature of consciousness
+- [[tactile-consciousness-and-the-interface]] — The rubber-hand illusion as a worked perceptual case: the felt *boundary* of the owned body is movable, yet the relocated boundary is still felt as mine—the residue this article carries
+- [[interoceptive-consciousness-and-the-interface]] — Visceral states arrive already valenced and already owned; the inward modality where felt mineness is the affective ground of subjecthood, the limiting case of perceptual ownership
 
 ## References
 
