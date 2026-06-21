@@ -5,6 +5,23 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T10:16:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-interface-development]]
+- **Word count**: 3981 → 3981 (+0, strictly length-neutral; ~19w under the 4000 topics hard ceiling)
+- **Critical issues addressed**: 1 (citation metadata — Tollock et al. 2025 author initials)
+- **Medium issues addressed**: 0 (length flagged as watch item, not actioned)
+- **Enhancements made**: 0 (converged content; sixth review)
+- **Context**: genuine-drift verification of commit 04d04bcbb (2026-06-20 refine-draft that consolidated 4 outer-review tasks + added 2 new 2025 cites; bumped ai_modified NOT last_deep_review → unverified by deep-review).
+- **§2.4 publisher-of-record web-verify ledger**:
+  - Tollock et al. 2025 (Innovation in Aging 9(Suppl_2), igaf122.2914) — **real-wrong-metadata**: author initials S/M/J → M/N/A (Maria Tollock, Natalia Leontovich, Anelly Gonzalez, Sam Parnia), corrected in place. Paper REAL; body claim ("brief, trigger-linked; prospective record has not vindicated the dualist reading") faithful. NB: the 04d04bcbb changelog's "publisher-of-record verified" claim was WRONG re initials ([[ai_citation_metadata_unreliable]]).
+  - Mousley et al. 2025 (Nature Communications 16, 10055) — **real-correct**, and **NOT an orphan** (inline L77 paired with References L211). N=4,216 (article N≈4,200 ✓), ages 0-90 ✓, turning points 32/66/83 ✓.
+  - Onishi & Baillargeon 2005 (Science 308(5719), 255-258) — real-correct; replication-contested hedge fair.
+  - Nahm et al. 2012 (Arch Gerontol Geriatr 55, 138-142) — real-correct; retrospective framing faithful.
+- **Calibration**: evidential-ambition disclaimer (L45) confirmed faithful AND honoured throughout (no section over-claims the data discriminate); no "This is not X. It is Y." cliché; no label leakage.
+- **Engagement modes** (editor-internal): Parfit Mode Three; physicalist/functionalist Mode Two; MWI Mode Three; Tegmark/decoherence exemplary evidential-status discipline; identity-theory Mode Three (non-discrimination). No boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-21-consciousness-interface-development]]
+
 ## 2026-06-21T10:04:36+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/attention-schema-theory]]
