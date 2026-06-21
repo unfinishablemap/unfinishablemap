@@ -5,6 +5,16 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T13:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Word count**: 3425 → 3425 (0; 137% of concepts soft, 75w under 3500 hard — strictly length-neutral, verification-only pass)
+- **Critical issues addressed**: 0 (none found — converged no-op after real scrutiny; 7th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verified no-op)
+- **Notes**: GENUINE-DRIFT mint on the calibration-anchor adopted by 10+ siblings. Verified the unreviewed 2026-06-14 (adeca3158) "route vs. direction" deflation-blocker edit (1 prose clause + named anchor, no new cites). (a) CALIBRATION PASS — the clause is an argued defeater-blocker, NOT established metaphysics; load-bearing calibration explicit ("neutralises the input-modality deflation without thereby adding positive evidence for mental causation—the pathway data remain compatible with both readings"), matching the source article and the [[causal-closure]] sibling's "defeater-blocker, not positive evidence" framing. No possibility/probability slippage (load-bearing claims are mechanism, not boundary-case probability); tenet-accepting reviewer would not flag overstatement. Named anchor RESOLVES: source `### Route versus Direction` lives in topics/ (target page), bare-slug wikilink resolves by basename, Hugo sync emits `/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/#route-versus-direction` correctly; inbound causal-closure sibling link lands; no stale concepts/ Hugo dup. (b) CITATION web-verify (publisher of record, 3-state) on prompt-flagged anchors: Kim 1998/2005 (exclusion four-premise faithful), Campbell 1974 (Ayala&Dobzhansky, Macmillan 179-186 — term-coining paper), Cucu&Pitts 2019 (arXiv:1909.13643, Noether framing), Saad 2025 (*Phil Studies* 182(3):939-967), Schaffer 2000 (*J Phil* 97(4):165-181, cite faithful; ref lives on dedicated [[trumping-preemption]] page per stable 6-review convention) — ALL real-correct; edit added no new cites; inline↔refs intact both directions. (c) No superlative/currency claims. (d) ZERO banned cliché, no editor-vocab/mode-label leakage. Engagement modes unchanged (Kim/Frankish/Yablo Mode One; Tegmark Mixed; MWI/eliminativism Mode Three; no boundary-substitution). Stamped last_deep_review WITHOUT bumping ai_modified (no body change).
+- **Output**: [[reviews/deep-review-2026-06-21-mental-causation-and-downward-causation]]
+
 ## 2026-06-21T12:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/epiphenomenalism]]
