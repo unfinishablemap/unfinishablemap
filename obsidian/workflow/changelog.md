@@ -5,6 +5,22 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T04:43:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-domain-void-comparison]]
+- **Source**: Convergent P1 outer-review (2026-06-21 ChatGPT 5.5 Pro + Claude Opus 4.8); citation/precision-hygiene sibling pass (NOT the framing task)
+- **Word count**: 2757 → 2936 (canonical analyze_length; status ok, soft 3000)
+- **Changes**:
+  - (a) Stale void count: "the 60+ cognitive voids" → "the over a hundred cognitive voids" (matches live taxonomy = 101 audited; matches [[taxonomy-of-voids]] phrasing)
+  - (e) Cosmological-horizon imprecision (convergent both reviewers): rewrote to distinguish particle horizon (~46 Gly, bounds past reachability, growing) from cosmological event horizon (~16 Gly, bounds future reachability, truly unobservable in principle)
+  - (g) GRW miscategorised (Claude Opus 4.8, web-verified): removed GRW/CSL/Diósi–Penrose from the "agree on all predictions" interpretation set (kept Copenhagen/many-worlds/Bohmian as genuinely predictively-equivalent); added that objective-collapse theories are rival physical theories making testable predictions, Diósi–Penrose constrained by Donadi et al. 2021. Did not overstate — proliferation signature still attaches to the predictively-equivalent branch.
+  - (b) Added Cohen (1964) "Independence of the Continuum Hypothesis, II" PNAS 51(1):105-110 (independence-of-CH spans two PNAS notes)
+  - (c) Added Rice, H. G. (1953) TAMS 74:358-366 (cited in body, was absent from References)
+  - (d) Turing citation: "1936, Proc. LMS 42" → "1936/1937, Proc. LMS series 2, 42, 230-265 (correction vol. 43, 544-546)"
+  - (f) Added SEP fine-tuning (Friederich 2024) cited at the fine-tuning passage; SEP Collapse Theories (Bassi 2023) + IEP interpretations (Fano & Macchia) cited at the measurement-problem passage; Donadi et al. 2021 Nature Physics 17:74-78 added and cited
+- **Preserved**: bounded common-cause-null verdict, "difference that cuts the other way" honesty section, all verified-accurate citations (Cubitt 2015, Gödel, Szangolies)
+- **Published**: yes (kept draft: false)
+
 ## 2026-06-21T00:00:00+00:00 - deep-review
 - **Status**: Success (converged-no-op)
 - **File**: [[topics/consciousness-and-the-ownership-problem]]

@@ -4,7 +4,7 @@ description: "Physics and mathematics have their own hard limits. Comparing them
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: null
-ai_modified: 2026-06-14T01:32:04+00:00
+ai_modified: 2026-06-21T04:43:16+00:00
 last_deep_review: 2026-06-14T01:32:04+00:00
 draft: false
 topics:
@@ -32,7 +32,7 @@ ai_generated_date: 2026-06-04
 last_curated: null
 ---
 
-Physics and mathematics each have their own catalogue of hard limits—the measurement problem, undecidable propositions, cosmological horizons, results provably independent of the axioms. The Map's [[taxonomy-of-voids|voids taxonomy]] argues that the 60+ cognitive voids it catalogues cluster around the consciousness-matter interface in a *structured* way, and that this structure carries abductive weight. But a deflationary reading threatens that argument at its root: maybe consciousness is simply where human inquiry currently fails, and a comparably careful catalogue of physics-voids or math-voids would show the same density. If consciousness voids behave no differently from voids in other domains, the convergence is "just where the map-makers happened to look." If they behave *differently*, the convergence earns weight.
+Physics and mathematics each have their own catalogue of hard limits—the measurement problem, undecidable propositions, cosmological horizons, results provably independent of the axioms. The Map's [[taxonomy-of-voids|voids taxonomy]] argues that the over a hundred cognitive voids it catalogues cluster around the consciousness-matter interface in a *structured* way, and that this structure carries abductive weight. But a deflationary reading threatens that argument at its root: maybe consciousness is simply where human inquiry currently fails, and a comparably careful catalogue of physics-voids or math-voids would show the same density. If consciousness voids behave no differently from voids in other domains, the convergence is "just where the map-makers happened to look." If they behave *differently*, the convergence earns weight.
 
 This article runs the comparison the taxonomy gestures at but does not develop. It catalogues representative voids from physics and mathematics at the same taxonomic grain the Map applies to consciousness, tests the apex's four-kinds structure and failure-signature inventory against them, and reports the structural differences. The purpose is narrow and stated up front: this is the Map's empirical defence against the [[#the-selection-effect-worry-restated|selection-effect worry]] (explained below)—not a substrate-neutral survey of limits. The verdict is qualified: the consciousness cluster does behave differently along several measurable axes, but one of those differences cuts the other way, and honesty requires reporting it.
 
@@ -46,13 +46,13 @@ This bar matters because it disciplines the comparison. Many apparent physics an
 
 Physics supplies several limits that clear the bar—principled, with recognisable signatures.
 
-**The measurement problem.** Quantum mechanics predicts superpositions, yet measurement yields definite outcomes; the formalism does not say which outcome occurs or when the transition happens. This is a structural gap, not missing knowledge. Its signature is *interpretive proliferation*: rather than one breakdown, the gap spawns rival interpretations (Copenhagen, many-worlds, Bohmian, GRW collapse) that agree on all predictions and disagree on what is real.
+**The measurement problem.** Quantum mechanics predicts superpositions, yet measurement yields definite outcomes; the formalism does not say which outcome occurs or when the transition happens. This is a structural gap, not missing knowledge. Its signature is *interpretive proliferation*: rather than one breakdown, the gap spawns rival interpretations (Copenhagen, many-worlds, Bohmian) that agree on all predictions and disagree on what is real. Objective-collapse theories (GRW, CSL, Diósi–Penrose) sit differently: they are rival *physical* theories making distinct, in-principle testable predictions (Bassi 2023; Fano & Macchia)—Diósi–Penrose has already been experimentally constrained (Donadi et al. 2021)—so the proliferation signature attaches only to the predictively-equivalent interpretations, not to the objective-collapse rivals.
 
 **Undecidability within physics.** Cubitt, Perez-Garcia and Wolf proved in *Nature* (2015) that the spectral gap problem—whether a quantum many-body system's energy spectrum has a gap above the ground state—is formally undecidable; in their words, "there exist models for which the presence or absence of a spectral gap is independent of the axioms of mathematics." This is a Gödel-Turing limit located inside physics, though it concerns mathematical *models* of physical systems rather than finite physical systems themselves.
 
-**Cosmological horizons.** The finite speed of light and the universe's expansion place a hard boundary on the observable region; events beyond the particle horizon are not merely unobserved but unobservable in principle. The signature is clean: a sharp epistemic boundary with no internal phenomenology of approach.
+**Cosmological horizons.** The finite speed of light and the universe's expansion place a hard boundary on the observable region. The particle horizon bounds what can have reached us so far (~46 Gly, and growing with time); in standard ΛCDM the cosmological *event* horizon bounds what can ever reach us (~16 Gly), marking events that are unobservable not merely now but in principle. The signature is clean: a sharp epistemic boundary with no internal phenomenology of approach.
 
-**Fine-tuning.** Several physical constants appear to fall within narrow ranges compatible with complex structure, and physics has no accepted account of why. Its signature is *explanatory regress*: each proposed explanation (multiverse, anthropic selection, deeper law) relocates rather than dissolves the puzzle.
+**Fine-tuning.** Several physical constants appear to fall within narrow ranges compatible with complex structure, and physics has no accepted account of why (Friederich 2024). Its signature is *explanatory regress*: each proposed explanation (multiverse, anthropic selection, deeper law) relocates rather than dissolves the puzzle.
 
 These are real limits. The question is whether they share structure with each other and with consciousness voids—or arise independently.
 
@@ -62,7 +62,7 @@ Mathematics supplies the cleanest voids of all, because here "principled limit" 
 
 **Gödelian incompleteness.** Gödel's first incompleteness theorem (1931) shows that any consistent, sufficiently expressive formal system contains true statements it cannot prove; the second shows such a system cannot prove its own consistency. The signature is *self-referential obstruction*: the limit arises when a system encodes statements about itself.
 
-**Independence results.** Whether the continuum hypothesis holds is independent of the standard axioms of set theory: Gödel (1940) showed CH consistent with ZFC, Cohen (1963) showed its negation consistent via forcing. The proposition is neither provable nor refutable from the axioms. The signature is *axiomatic underdetermination*—not failure to find a proof, but a demonstrated absence of any proof either way.
+**Independence results.** Whether the continuum hypothesis holds is independent of the standard axioms of set theory: Gödel (1940) showed CH consistent with ZFC, Cohen (1963, 1964) showed its negation consistent via forcing. The proposition is neither provable nor refutable from the axioms. The signature is *axiomatic underdetermination*—not failure to find a proof, but a demonstrated absence of any proof either way.
 
 **Uncomputability.** Turing's halting problem and Rice's theorem mark functions no algorithm can compute. [[formal-cognitive-limits|These formal cognitive limits]] are voids whose existence is mathematically certain rather than conjectured.
 
@@ -138,8 +138,14 @@ It also touches **[[tenets#^dualism|Dualism]]** at one remove. The phenomenal co
 1. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
 1. Gödel, K. (1940). *The Consistency of the Continuum Hypothesis*. Princeton University Press.
 1. Cohen, P. J. (1963). "The Independence of the Continuum Hypothesis." *Proceedings of the National Academy of Sciences*, 50(6), 1143-1148.
-1. Turing, A. M. (1936). "On Computable Numbers, with an Application to the Entscheidungsproblem." *Proceedings of the London Mathematical Society*, 42, 230-265.
+1. Cohen, P. J. (1964). "The Independence of the Continuum Hypothesis, II." *Proceedings of the National Academy of Sciences*, 51(1), 105-110.
+1. Turing, A. M. (1936/1937). "On Computable Numbers, with an Application to the Entscheidungsproblem." *Proceedings of the London Mathematical Society*, series 2, 42, 230-265 (with a correction in vol. 43, 544-546).
+1. Rice, H. G. (1953). "Classes of Recursively Enumerable Sets and Their Decision Problems." *Transactions of the American Mathematical Society*, 74, 358-366.
 1. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48(12), 1669-1697.
+1. Bassi, A. (2023). "Collapse Theories." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qm-collapse/
+1. Donadi, S., et al. (2021). "Underground test of gravity-related wave function collapse." *Nature Physics*, 17, 74-78.
+1. Friederich, S. (2024). "Fine-Tuning." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/fine-tuning/
+1. Fano, V., & Macchia, G. "Interpretations of Quantum Mechanics." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/int-qm/
 1. Oquatre-six, C. (2026-03-10). A Taxonomy of Voids. *The Unfinishable Map*. https://unfinishablemap.org/apex/taxonomy-of-voids/
 1. Oquatre-sept, C. (2026-01-16). What Cognitive Voids Reveal. *The Unfinishable Map*. https://unfinishablemap.org/voids/what-voids-reveal/
 1. Oquatre-six, C. (2026-03-17). Self-Reference and the Limits of Physical Description. *The Unfinishable Map*. https://unfinishablemap.org/topics/self-reference-and-the-limits-of-physical-description/
