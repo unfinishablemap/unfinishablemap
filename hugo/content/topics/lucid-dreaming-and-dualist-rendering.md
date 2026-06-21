@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-21 05:48:20+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/14vx_AnF8Cc
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 20:58:06+00:00
+last_deep_review: 2026-06-21 05:48:20+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
@@ -102,11 +102,11 @@ Notably, lucid dream control is imperfect. Many lucid dreamers achieve awareness
 
 ### The Vividness Surplus
 
-Dream experience is often more emotionally vivid and perceptually immersive than waking experience, despite operating with reduced neural resources. Bilzer & Monzel (2025) found that dream imagery is significantly more vivid than voluntary waking imagination, especially in emotional and visual content. If both are brain-generated, the vividness gap is puzzling — the same system, with fewer resources available during sleep, produces richer output.
+Dream experience is often more emotionally vivid and perceptually immersive than waking experience, despite operating with reduced neural resources. Bilzer & Monzel (2025) found a selective surplus rather than a blanket one: emotional and visual imagery were significantly more vivid in dreams than in voluntary waking imagination, while auditory, olfactory, gustatory, and tactile imagery were more vivid in waking. The puzzle concerns the modalities where dreams win. If both are brain-generated, the emotional-and-visual gap is hard to motivate — the same system, with fewer resources during sleep, produces richer output in precisely the channels most central to phenomenal world-building.
 
-Production models explain the surplus through disinhibition: with prefrontal executive control offline, sensory cortices activate without top-down suppression. This is neurologically plausible but phenomenologically unsatisfying. Disinhibition explains why neural activity *increases* in sensory cortices during REM, not why increased activity in a sleeping brain produces experience that is *qualitatively richer* than what the fully engaged waking brain achieves through deliberate imagination.
+Production models explain the surplus through disinhibition: with prefrontal executive control offline, sensory cortices activate without top-down suppression. This is neurologically plausible but phenomenologically unsatisfying. Disinhibition explains why neural activity *increases* in sensory cortices during REM, not why a sleeping brain produces experience *qualitatively richer* than the fully engaged waking brain achieves through deliberate imagination.
 
-The filter model's explanation is structurally simpler. Waking imagination passes through a narrow channel — the filter restricts consciousness to match sensory reality, and voluntary imagery must compete with this dominant stream. During dreaming, the sensory channel closes, the filter loosens, and consciousness renders through the brain's visual and spatial architecture without competing against incoming sensory data. The surplus reflects what consciousness can do when less constrained, not what the brain does when disinhibited. This parallels [psychedelic states](/topics/psychedelics-and-the-filter-model/), where reduced default mode network activity coincides with expanded phenomenal experience.
+The filter model's explanation is structurally simpler. Waking imagination passes through a narrow channel — the filter restricts consciousness to match sensory reality, and voluntary imagery must compete with this dominant stream. During dreaming, the sensory channel closes, the filter loosens, and consciousness renders through the brain's architecture without competing against incoming data. The surplus reflects what consciousness can do when less constrained, not what the brain does when disinhibited. This parallels [psychedelic states](/topics/psychedelics-and-the-filter-model/), where reduced default mode network activity coincides with expanded phenomenal experience.
 
 ### Phenomenal Completeness
 

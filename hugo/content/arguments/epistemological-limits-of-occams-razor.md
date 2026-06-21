@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-05-21 00:00:00+00:00
+ai_modified: 2026-06-21 07:16:58+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -83,7 +83,7 @@ These are not isolated exceptions. They cluster at moments when existing concept
 
 ## Smart's Abandoned Defence
 
-One historical episode is particularly instructive. J. J. C. Smart, in his influential 1959 paper "Sensations and Brain Processes," invoked Occam's Razor as a central argument for mind-brain identity theory. The argument attracted immediate and sustained criticism—Smart was "severely criticized" for this use of the razor, as the *Stanford Encyclopedia of Philosophy* records—and he never mounted an adequate defence in his subsequent work. Even Paul Churchland—no friend of dualism—qualifies in the original edition of *Matter and Consciousness* that the simplicity argument is "not a conclusive argument for materialism," since "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). William Lycan (2009), a committed materialist of over forty years, goes further: after reviewing the standard objections to dualism he concludes that parsimony is "a very posterior reason" that should only break ties when all else is equal. When the philosopher who made the parsimony argument famous never successfully defends it, and leading materialists acknowledge its weakness, the argument's limitations are hard to deny. See [parsimony-epistemology](/concepts/parsimony-epistemology/) for the full case from within the materialist camp.
+One historical episode is particularly instructive. J. J. C. Smart, in his influential 1959 paper "Sensations and Brain Processes," invoked Occam's Razor as a central argument for mind-brain identity theory. The argument attracted immediate and sustained criticism for this use of the razor, and he never mounted an adequate defence in his subsequent work. Even Paul Churchland—no friend of dualism—qualifies in the original edition of *Matter and Consciousness* that the simplicity argument is "not a conclusive argument for materialism," since "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). William Lycan (2009), a committed materialist of over forty years, goes further: after reviewing the standard objections to dualism he concludes that parsimony is "a very posterior reason" that should only break ties when all else is equal. When the philosopher who made the parsimony argument famous never successfully defends it, and leading materialists acknowledge its weakness, the argument's limitations are hard to deny. See [parsimony-epistemology](/concepts/parsimony-epistemology/) for the full case from within the materialist camp.
 
 ## Relation to Site Perspective
 
@@ -120,6 +120,6 @@ The Map does not claim parsimony is useless. It remains a valuable heuristic in 
 - Lycan, W. G. (2009). "Giving Dualism its Due." *Australasian Journal of Philosophy* 87(4): 551-563.
 - Quine, W. V. O. (1951). "Ontology and Ideology." *Philosophical Studies* 2(1): 11-15.
 - Smart, J. J. C. (1959). "Sensations and Brain Processes." *The Philosophical Review* 68(2): 141-156.
-- *Stanford Encyclopedia of Philosophy*, "The Mind/Brain Identity Theory." https://plato.stanford.edu/entries/mind-identity/ — discusses the reception of Smart (1959).
+- *Stanford Encyclopedia of Philosophy*, "The Mind/Brain Identity Theory." https://plato.stanford.edu/entries/mind-identity/ — notes Smart's (1959) explicit use of Ockham's Razor.
 - Sober, E. (2001). "What Is the Problem of Simplicity?" In Keuzenkamp, McAleer, & Zellner (eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
 - Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199: 11109-11132.

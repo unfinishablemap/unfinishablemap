@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-20 00:00:00+00:00
+ai_modified: 2026-06-21 07:39:40+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: The felt contrast between doing and undergoing reveals a fundamenta
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 02:17:35+00:00
+last_deep_review: 2026-06-21 07:39:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -204,3 +204,5 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 1. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Wegner, D.M. & Wheatley, T. (1999). Apparent mental causation: Sources of the experience of will. *American Psychologist*, 54(7), 480-492.
+1. Wegner, D.M., Sparrow, B. & Winerman, L. (2004). Vicarious agency: Experiencing control over the movements of others. *Journal of Personality and Social Psychology*, 86(6), 838-848.

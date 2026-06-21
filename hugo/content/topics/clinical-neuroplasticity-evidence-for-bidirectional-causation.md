@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-06-20 07:59:10+00:00
+ai_modified: 2026-06-21 05:52:37+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Three converging clinical evidence streams—OCD neuroplasticity, p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 09:56:22+00:00
+last_deep_review: 2026-06-21 06:10:00+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'
@@ -122,7 +122,7 @@ The clinical neuroplasticity evidence aligns with the Map's [foundational commit
 
 The Schwartz-Stapp-Beauregard quantum Zeno framework illustrates one way the [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) (Tenet 2) might be realised: attention acts as repeated observation that stabilises preferred neural states without injecting energy or violating [conservation laws](/concepts/conservation-laws-and-mental-causation/). The Map does not commit to this specific mechanism but recognises it as a serious proposal grounded in orthodox quantum theory.
 
-The Map interprets the pathway divergence between psychological and pharmacological intervention as evidence that mental causation is not reducible to physical causation. This interpretation strengthens the case against [causal closure](/concepts/causal-closure/): if the physical domain were causally closed, there would be no reason for top-down and bottom-up routes to diverge systematically.
+The Map interprets the pathway divergence between psychological and pharmacological intervention as evidence that mental causation is not reducible to physical causation. What bears on [causal closure](/concepts/causal-closure/) is not route divergence per se—which is expected from input anatomy, since different physical inputs enter the nervous system at different points—but the *preferential directional* signature: the Map reads the top-down-versus-bottom-up tendency as compatible with, and suggestive of, a type-difference in causation, while granting that this does not establish the type-difference and that the input-modality deflation is declined rather than refuted.
 
 The Map holds that the philosophical arguments for mental causation—the self-stultification problem, the evolutionary case, the knowledge argument reversed—remain stronger than the clinical evidence alone. The clinical findings are suggestive and worth engaging with, but the Map's case for bidirectional interaction does not depend on them. The philosophical literature on mental causation has not yet fully engaged with the clinical neuroplasticity evidence; when it does, honest assessment of evidence quality will be essential for the engagement to be productive.
 
@@ -158,4 +158,4 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 15. Lazar, S. W., Kerr, C. E., Wasserman, R. H., et al. (2005). Meditation experience is associated with increased cortical thickness. *NeuroReport*, 16(17), 1893-1897.
 16. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
 17. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
-18. Perez, J., et al. (2025). Brain changes associated with depression treatment: A meta-analysis. *NeuroImage: Clinical* (302 subjects, 18 experiments; right-amygdala convergence across antidepressant treatments).
+18. Perez, G. M., et al. (2025). Brain changes associated with depression treatment: A meta-analysis. *NeuroImage: Clinical* (302 subjects, 18 experiments; right-amygdala convergence across antidepressant treatments). doi:10.1016/j.nicl.2025.103874

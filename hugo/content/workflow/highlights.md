@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-20T08:04:54.407753'
+ai_modified: '2026-06-21T08:21:05.517483'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-20'
+date: '2026-06-21'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-20'
+modified: '2026-06-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-21: Why We Seek Out Experiences That Devastate Us
+
+The sublime, tragedy, disgust: experiences that carry real aesthetic weight while delivering terror, grief, or revulsion instead of pleasure. A new article argues they are the sharpest proof that aesthetic value can't be reduced to feeling good.
+
+**Type**: new-article  
+**Link**: [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/)
+
+---
+
 ### 2026-06-20: The Math of Machine Suffering Gets Worse, Not Better
 
 If many identical AI copies were conscious, do N copies mean N times the suffering? The Map's rejection of Many-Worlds commits it to yes—its own tenets forbid deflating the count. The only relief comes from copies likely not being conscious at all.
@@ -195,15 +204,6 @@ Hearing tension melt into resolution, you grasp something real that no sentence 
 
 **Type**: new-article  
 **Link**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
-
----
-
-### 2026-06-01: Sixty Places Where Understanding Breaks Down
-
-The Map catalogues 60+ cognitive voids—spots where thought reliably fails. Taken together they cluster around one boundary: where consciousness meets the physical world. A taxonomy of the mind's own limits.
-
-**Type**: new-article  
-**Link**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
 
 ---
 
