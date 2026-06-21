@@ -2,9 +2,9 @@
 title: "The Knowledge Argument (Mary's Room)"
 description: "Mary knows all physical facts about color but seems to learn something new seeing red. If the learning intuition holds, physicalism faces a serious challenge."
 created: 2026-01-15
-modified: 2026-01-15
+modified: 2026-06-21T16:53:04+00:00
 human_modified: null
-ai_modified: 2026-06-01T19:28:16+00:00
+ai_modified: 2026-06-21T16:53:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ Jackson's argument can be formalized:
 4. Therefore, not all facts are physical facts
 5. Therefore, physicalism is false
 
-The argument's force comes from premise 2—the "learning claim." Most people share the intuition that Mary learns something new, though its evidentiary status is contested (examined below in *The Reliability of Consciousness Intuitions*).
+The argument's force comes from premise 2—the "learning claim." Many find the intuition that Mary learns something new compelling, though its prevalence is less uniform than often assumed—experimental-philosophy surveys (Sytsma and Machery 2010) find the response varies with framing and respondent background—and its evidentiary status is contested (examined below).
 
 ## Physicalist Responses
 
@@ -88,17 +88,17 @@ Daniel Dennett argues that if Mary truly knew all physical facts, she could pred
 
 This challenge deserves weight. The standard dualist reply—that predictive knowledge wouldn't constitute *knowing what it's like*—presupposes what the argument is supposed to establish. Dennett exposes a genuine burden-of-proof question: the knowledge argument works only if the learning intuition is treated as evidence of incomplete physical knowledge, while Dennett treats it as evidence that we underestimate physical knowledge.
 
-However, Dennett must explain what "complete physical knowledge" would look like in a way that makes the learning intuition dissolve. That even the most detailed physical descriptions leave competent philosophers sensing Mary learns something new is a fact the physicalist owes an account of.
+However, Dennett must explain what "complete physical knowledge" would look like in a way that makes the learning intuition dissolve. That even the most detailed physical descriptions leave competent philosophers sensing Mary learns something new is a fact the physicalist owes an account of. This counter-burden is itself contested: a Dennett-sympathetic reply can hold that the intuition's persistence is exactly what a successful debunking would predict—evidence of the limitation Dennett diagnoses rather than a residue the physicalist must explain away. The burden of proof here is genuinely unsettled, consistent with the conditional framing the Map adopts below.
 
 ### The Illusionist Response
 
 [[illusionism|Illusionists]] argue Mary learns nothing substantive because there are no phenomenal facts to learn. What she gains is simply a new representational state—not access to non-physical property. See [[illusionism]] for Frankish's quasi-phenomenal properties account and why the Map finds it insufficient.
 
-The challenge specific to Mary's case: the illusionist must explain not just the general seeming of phenomenal consciousness, but the *specific character* of Mary's new experience—why seeing red seems *like that*. Mary possessed every physical and functional fact, yet something changed. If the change is "merely" a new functional state, the illusionist owes an account of why it strikes virtually everyone as revelatory.
+The challenge specific to Mary's case: the illusionist must explain not just the general seeming of phenomenal consciousness, but the *specific character* of Mary's new experience—why seeing red seems *like that*. Mary possessed every physical and functional fact, yet something changed. If the change is "merely" a new functional state, the illusionist owes an account of why it strikes so many as revelatory.
 
 ## Jackson's Self-Rejection
 
-Frank Jackson, the argument's creator, now rejects it. By 2003 he embraced physicalism, arguing that his original conclusion—epiphenomenalism about qualia—leads to a devastating problem: if qualia have no causal power, we couldn't know about them. Mary's belief that she learned something new requires her learning to causally affect her beliefs, which epiphenomenal qualia couldn't do.
+Frank Jackson, the argument's creator, now rejects it. By 2003 he embraced physicalism (Jackson 2003, "Mind and Illusion"), arguing that his original conclusion—epiphenomenalism about qualia—leads to a devastating problem: if qualia have no causal power, we couldn't know about them. Mary's belief that she learned something new requires her learning to causally affect her beliefs, which epiphenomenal qualia couldn't do.
 
 Jackson's rejection doesn't settle the debate—arguments stand or fall on their logic. Chalmers, Nida-Rümelin, and Alter continue to defend it. Jackson's epiphenomenalism worry actually supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness must causally influence our beliefs about it. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] develops this as a reversal—Mary's changed behaviour after seeing red is best explained by phenomenal knowledge causing those changes. [[clinical-neuroplasticity-evidence-for-bidirectional-causation|Clinical neuroplasticity research]] provides empirical support.
 
@@ -162,7 +162,7 @@ The argument's resilience comes from its simplicity: minimal assumptions and a m
 
 If the knowledge argument is sound, it provides powerful support for the [[tenets#^dualism|Dualism]] tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—aligns with what the Map means by consciousness being irreducible, though the inference from epistemic gap (Mary lacks certain knowledge) to metaphysical distinctness (non-physical facts exist) is contested. [[qualia]] would have a qualitative character that no physical description captures.
 
-The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If the learning intuition holds, physicalism's [[epistemological-limits-of-occams-razor|apparent parsimony]] fails before it. When the "simpler" theory conflicts with what nearly everyone recognizes, simplicity may not be decisive—though as noted, the intuition's reliability is itself debated.
+The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If the learning intuition holds, physicalism's [[epistemological-limits-of-occams-razor|apparent parsimony]] fails before it. When the "simpler" theory conflicts with what many recognize as the manifest character of experience, simplicity may not be decisive—though as noted, both the intuition's reliability and its prevalence are themselves debated.
 
 The interaction between Mary's learning and Jackson's epiphenomenalism worry illuminates the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If consciousness were causally inert, Mary couldn't form beliefs about her new experiences. But she does—she reports that seeing red is revelatory. Her phenomenal states causally influence her beliefs. Consciousness isn't just correlated with physical processes; it participates in the causal order.
 
@@ -197,11 +197,13 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 1. Jackson, F. (1986). "What Mary Didn't Know." *Journal of Philosophy*, 83, 291-295.
+1. Jackson, F. (2003). "Mind and Illusion." In A. O'Hear (ed.), *Minds and Persons* (Royal Institute of Philosophy Supplement 53). Cambridge University Press, 251-271.
 1. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29-57.
 1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (eds.), *The Nature of Consciousness*.
 1. Ludlow, P., Nagasawa, Y., & Stoljar, D. (eds.) (2004). *There's Something About Mary*. MIT Press.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
 1. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*.
 1. Nisbett, R. E., & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231-259.
+1. Sytsma, J., & Machery, E. (2010). "Two Conceptions of Subjective Experience." *Philosophical Studies*, 151(2), 299-327.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

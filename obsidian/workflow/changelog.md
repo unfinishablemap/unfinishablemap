@@ -5,6 +5,18 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T16:53:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/knowledge-argument]]
+- **Original score**: n/a (scripts/curate.py review is a stale/nonexistent command)
+- **Changes**:
+  - PRIMARY (Jackson uncited-recantation fix): web-verified at publisher of record that Jackson's recantation "Mind and Illusion" was ORIGINALLY published 2003 in O'Hear (ed.), *Minds and Persons* (Royal Institute of Philosophy Supplement 53, Cambridge UP, pp. 251-271); the 2004 *There's Something About Mary* volume is a reprint. So the article's "By 2003" is CORRECT (date-precision guard upheld — did NOT "correct" to 2004). Added inline citation "(Jackson 2003, "Mind and Illusion")" at the claim + matching References entry (chronological after Jackson 1986). The pessimistic-review's "likely mis-dated vs canonical 2004" hypothesis was the false lead; real defect was the missing source, now closed.
+  - SECONDARY (intuition-prevalence quantifiers): softened "Most people share the intuition" → "Many find the intuition... compelling" with an x-phi qualifier (Sytsma and Machery 2010, web-verified: *Philosophical Studies* 151(2):299-327; folk vs philosophical conception of subjective experience varies by framing/background); "strikes virtually everyone as revelatory" → "strikes so many"; "what nearly everyone recognizes" → "what many recognize as the manifest character of experience". Added Sytsma & Machery 2010 References entry (alphabetical).
+  - SECONDARY (Dennett burden-shift): added a sentence noting the article's counter-burden ("the physicalist owes an account") is itself contested — a Dennett-sympathetic reply treats the intuition's persistence as predicted by a successful debunking; burden of proof unsettled. Resolves the line-89/line-91 tension (89 concedes the burden question is genuine; 91 had re-asserted the burden firmly).
+- **Word count**: body ~2470w → 2599w (+~129w; soft_warning — just over 2500 concepts soft, well under 3500 hard; trimmed the Dennett + Sytsma additions to keep proportionate per task length guard). All additions load-bearing (2 verified citations + 2 requested hedges).
+- **Stamping**: bumped ai_modified + modified to 2026-06-21T16:53:04+00:00; last_deep_review untouched.
+- **Published**: yes
+
 ## 2026-06-21T16:41:17+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/knowledge-argument.md (Mary's Room) — foundational, never had a dedicated pessimistic pass
