@@ -9,6 +9,122 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-21T04:43:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/)
+- **Source**: Convergent P1 outer-review (2026-06-21 ChatGPT 5.5 Pro + Claude Opus 4.8); citation/precision-hygiene sibling pass (NOT the framing task)
+- **Word count**: 2757 → 2936 (canonical analyze_length; status ok, soft 3000)
+- **Changes**:
+  - (a) Stale void count: "the 60+ cognitive voids" → "the over a hundred cognitive voids" (matches live taxonomy = 101 audited; matches [taxonomy-of-voids](/apex/taxonomy-of-voids/) phrasing)
+  - (e) Cosmological-horizon imprecision (convergent both reviewers): rewrote to distinguish particle horizon (~46 Gly, bounds past reachability, growing) from cosmological event horizon (~16 Gly, bounds future reachability, truly unobservable in principle)
+  - (g) GRW miscategorised (Claude Opus 4.8, web-verified): removed GRW/CSL/Diósi–Penrose from the "agree on all predictions" interpretation set (kept Copenhagen/many-worlds/Bohmian as genuinely predictively-equivalent); added that objective-collapse theories are rival physical theories making testable predictions, Diósi–Penrose constrained by Donadi et al. 2021. Did not overstate — proliferation signature still attaches to the predictively-equivalent branch.
+  - (b) Added Cohen (1964) "Independence of the Continuum Hypothesis, II" PNAS 51(1):105-110 (independence-of-CH spans two PNAS notes)
+  - (c) Added Rice, H. G. (1953) TAMS 74:358-366 (cited in body, was absent from References)
+  - (d) Turing citation: "1936, Proc. LMS 42" → "1936/1937, Proc. LMS series 2, 42, 230-265 (correction vol. 43, 544-546)"
+  - (f) Added SEP fine-tuning (Friederich 2024) cited at the fine-tuning passage; SEP Collapse Theories (Bassi 2023) + IEP interpretations (Fano & Macchia) cited at the measurement-problem passage; Donadi et al. 2021 Nature Physics 17:74-78 added and cited
+- **Preserved**: bounded common-cause-null verdict, "difference that cuts the other way" honesty section, all verified-accurate citations (Cubitt 2015, Gödel, Szangolies)
+- **Published**: yes (kept draft: false)
+
+## 2026-06-21T00:00:00+00:00 - deep-review
+- **Status**: Success (converged-no-op)
+- **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
+- **Word count**: 2815 → 2815 (no change)
+- **Classification**: Cosmetic cross-link touch since 2026-06-01 review (commit cd1177181 added one Further Reading link to [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)); no own-body content drift. 6th review, article converged.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification**: new cross-link + cluster links resolve; citations already publisher-verified 2026-06-01 (body unchanged); no superlative claims; length 94% of soft target. Stamped last_deep_review WITHOUT bumping ai_modified (anti re-qualification churn).
+- **Output**: [deep-review-2026-06-21-consciousness-and-the-ownership-problem](/reviews/deep-review-2026-06-21-consciousness-and-the-ownership-problem/)
+
+## 2026-06-21T04:27:43+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-21
+- **Coverage**: 2/2 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8). Gemini leg not commissioned this cycle — dyadic convergence, not the standard triple.
+- **Clusters**: 5 convergent, 8 singleton, 0 divergent
+- **Tasks upgraded**: 0 (the two convergent target-article tasks were already at the P1 ceiling from the per-review pass; the convergent Szangolies firewall is sibling-article-scoped and held at P2)
+- **Tasks deduplicated**: 0 (the per-review pass had already deduplicated per-reviewer siblings into 2 P1 + 1 P2 tasks; this pass attached `Synthesis:` provenance to all three)
+- **Output**: [outer-review-synthesis-2026-06-21](/reviews/outer-review-synthesis-2026-06-21/)
+
+## 2026-06-21T04:20:52+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable; commission/collect auto-tracked to Opus)
+- **File**: [outer-review-2026-06-21-claude-opus-4-8](/reviews/outer-review-2026-06-21-claude-opus-4-8/)
+- **Subject**: `cross-domain-void-comparison` (second same-cycle review; sibling = ChatGPT 5.5 Pro)
+- **Verdict**: REVISE-HARD / demote to coherence-only — citations unusually clean (no fabrications), but the load-bearing "shifts weight toward the convergence being real" claim fails the article's own constrain-vs-establish gate (spanning is overdetermined by physicalism), plus two physics errors.
+- **Claims verified**: 7 (live-article grep ×6 incl. GRW line 49, horizon line 53, "shifts weight" line 118, "60+" line 35; publisher-of-record ×2 — SEP "Collapse Theories" confirms GRW finding real-correct + Donadi 2021 falsification; Cubitt 2015 not re-litigated)
+- **High-value findings**: 6 (GRW miscategorisation [Claude-only, web-verified]; delete unearned "shifts weight" upgrade [Claude-only]; cosmological horizon error [CONVERGENT]; "empirical"/over-claim framing [CONVERGENT]; first-axis by-construction confound [CONVERGENT]; Szangolies co-optation firewall [CONVERGENT])
+- **Tasks generated/upgraded**: 3 (P2→P1 mechanical citation/precision task + added GRW finding (g); P2→P1 framing task + added delete-upgrade/false-binary/counter-axis-cost; NEW P2 Szangolies co-optation firewall in self-reference-and-the-limits-of-physical-description). Convergent findings upgraded to P1.
+- **Not actioned (stale-target)**: reviewer's "reconcile apex with common-cause-null" — apex already remediated to framework-internal-coherence language (P-V1/2/3 registered); documented in review Verification Notes, no task.
+
+## 2026-06-21T04:01:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Mode**: Genuine-drift verification (2026-06-20 commit `e089d4818` changed the Churchland attribution but bumped only ai_modified, not last_deep_review)
+- **Word count**: 2942 → 2936 (-6; three length-neutral cliché rephrasings)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (writing-style "X is not Y. It is Z." cliché removed at L75/L79/L105)
+- **Enhancements made**: 0 (length-neutral; both timestamps bumped — body fix made)
+- **Citations (publisher-of-record, 3-state)**: Churchland "none of the standard arguments against dualism… is by itself conclusive" (*Matter and Consciousness* 1984) — **real-correct**, the 06-20 broadening is FAITHFUL (source carries both narrow + broad forms; the refine was a family-resolution alignment to the canonical `parsimony-epistemology` form, not an overstatement). Lycan "a very posterior reason" (2009, AJP 87(4):551-563) — **real-correct**, verbatim. Smart "never successfully defended his parsimony argument" (1959, Phil Review 68(2):141-156) — **real-correct**, characterization defensible.
+- **Calibration**: PASS — materialism steelmanned before dualist reply; no possibility/probability slippage; hedges intact. **Currency**: clean (0 superlative hits).
+- **Cross-links**: all 5 priority links resolve live (parsimony-epistemology, epistemological-limits-occams-razor, parsimony-case-for-interactionist-dualism, eliminative-materialism, phenomenal-concepts-strategy).
+- **Sibling follow-up (out of scope, recorded)**: `parsimony-epistemology.md` L110 + `arguments/epistemological-limits-of-occams-razor.md` L84 mis-attribute Smart's "severely criticized" to SEP; the live SEP entry does not carry it (trace = Wikipedia). Handle when those files are next reviewed.
+- **Output**: [deep-review-2026-06-21-arguments-against-materialism](/reviews/deep-review-2026-06-21-arguments-against-materialism/)
+
+## 2026-06-21T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Mode**: Targeted drift-verification (2026-06-10 commit `4d7c00dcf` bumped ai_modified but not last_deep_review)
+- **Word count**: 4025 → 4025 (no body change; calibration verified clean)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (last_deep_review bumped only; ai_modified NOT bumped, no body edit)
+- **Calibration**: NCC-calibration clause VERIFIED CLEAN — symmetric underdetermination + "parsimony favours no-coupling" preserved; faithful to NCC anchor; no possibility/probability slippage. Cross-link resolves (does NOT reciprocate — low-priority NCC-side gap).
+- **Citations**: DeWall 2008 confirmed correct post-sweep form (17(3):628-645, not old Lieberman 17(2)); References block untouched by drift, full publisher-verify done 2026-06-02 stands per §2.4 skip rule.
+- **Currency**: clean (0 superlative hits). **Style**: clean (no "not X. It is Y." cliché).
+- **Length**: 4025w = hard_warning (~25w over topics 4000); pre-existing human-decision-class overage, NOT condensed/grown.
+- **Engagement modes** (editor-internal, unchanged): Frankish/illusionism Mode One; Many-Worlds Mode Three; McGinn/Whitehead non-opposed.
+- **Output**: [deep-review-2026-06-21-consciousness-in-simple-organisms](/reviews/deep-review-2026-06-21-consciousness-in-simple-organisms/)
+
+## 2026-06-21T03:48:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-21-chatgpt-5-5-pro](/reviews/outer-review-2026-06-21-chatgpt-5-5-pro/)
+- **Subject**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/) (recent-aged fallback subject)
+- **Claims verified**: 9 (all confirmed against live article text and/or publisher of record — stale "60+" void count, "empirical defence" framing, particle-vs-event horizon conflation, Cohen 1963-only reference [PNAS vol 50 + vol 51 confirmed], Rice-in-body-not-References, Turing 1936/1937 metadata, missing measurement-problem/fine-tuning refs, Cubitt 2015 accurate, Szangolies source-vs-Map-extension). No fabricated quotes or invented citations detected.
+- **High-value findings**: 2 consolidated (verified citation/staleness/precision defects; methodological framing extension — first-axis by-construction confound + matched-grain ledger + observer-in-physics + softening "empirical"/"false to the structure")
+- **Tasks generated**: 2 (P2: 2) — both refine-draft on cross-domain-void-comparison.md, kept separate per outer-review-same-file-task-pileup (mechanical citation hygiene vs prose framing); deferred until /combine-outer-reviews synthesizes the 2026-06-21 cycle (Claude leg still pending).
+
+## 2026-06-21T03:15:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) (citation-heavy, last pessimistic 2026-06-02)
+- **Findings**: (1) internal calibration mismatch — RtSP line 122 reasserts an anti-causal-closure inference the body's §Route versus Direction (line 64) explicitly retires; (2) Perez et al. 2025 citation real-paper-wrong-metadata (first initial J.→G.; missing DOI) — 302/right-amygdala figures web-verified CORRECT. Yuan 2022, Goyal 2014, Schwartz 1996 web-verified correct; all in-body claims grep-verified present (no fabrication). Consolidated into one P2 refine-draft task.
+- **Output**: [pessimistic-2026-06-21-clinical-neuroplasticity](/reviews/pessimistic-2026-06-21-clinical-neuroplasticity/)
+
+## 2026-06-21T02:30:00+00:00 - deep-review
+- **Status**: Success (CONVERGED NO-OP)
+- **File**: [consciousness-as-activity](/topics/consciousness-as-activity/)
+- **Verdict**: Converged no-op — 6th review; only change since the thorough 06-02 deep review was one inbound cross-link install (`[[the-agent-shaped-hole]]`, commit fff4e0dd4) that bumped ai_modified. No body/citation/calibration change. Cosmetic-churn re-qualification per deep_review_over_reviews_converged.
+- **Verification**: new link resolves (concepts/the-agent-shaped-hole.md exists); citations unchanged since 06-02 publisher-verified ledger (no re-verify needed, reference list byte-identical); §86/§129 causal-closure calibration intact; no slippage; no banned constructs; 2612 words (87% of soft, +24w = the two link lines only).
+- **Critical issues addressed**: 0 (none found; none manufactured)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: last_deep_review stamped 2026-06-21; ai_modified deliberately NOT bumped (preserves 2026-06-03 so the article does not re-qualify on this no-op's own timestamp churn).
+- **Output**: [deep-review-2026-06-21-consciousness-as-activity](/reviews/deep-review-2026-06-21-consciousness-as-activity/)
+
+## 2026-06-21T01:54:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/)
+- **Trigger**: consolidated anchoring-calibration pass (BOTH cycle-401 anchoring-audit tasks on this file — single pass per outer-review-same-file-task-pileup)
+- **Before**: 2 anchoring flags (vs [binding-problem](/concepts/binding-problem/) AND [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)); hedge density 1.35/kw below targets (2.57 binding / 1.79 eval); strong-assertion density 0.67/kw above 1.5× both anchors. VERIFY-FIRST evaluate_anchoring confirmed genuine content-derived flags before editing.
+- **Changes**:
+  - Softened 2 strong-assertion markers (`establishes`→`traces`; `establishes`→`secures` in the modest negated quantum-mechanism sentence) — strong-assertion density 0.67→0.00/kw.
+  - Added 4 honest hedges where the article asserted more confidently than the evidence licenses (`seems`/`appears`/`seems`/`may`) on the passive-touch-content, no-roughness-quale, double-sensation-interpretation, and binding-case claims — hedge density 1.35→2.67/kw.
+  - Added 2 underdetermination markers ("compatible with both interpretations/readings") in the touching-touched and binding-case modesty passages, per [evidential-status-discipline](/project/evidential-status-discipline/).
+  - Preserved central claim (brain-side/mind-side capability division for touch) and authorial voice; no banned constructs; no content deleted.
+- **After**: evaluate_anchoring returns 0 flags. Profile: hedges 8 (2.67/kw), strong 0 (0.00/kw), underdet 2.
+- **Word count**: 2972 → 3001 (at soft 3000, well under 4000 hard)
+- **Published**: yes
+
 ## 2026-06-21T00:40:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
