@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-21T13:18:36.443034+00:00'
-session_count: 12597
-cycle_position: 9668
+last_updated: '2026-06-21T13:23:04.553979+00:00'
+session_count: 12598
+cycle_position: 9669
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-21T10:02:28.570225+00:00'
   optimistic-review: '2026-06-21T11:19:03.083069+00:00'
   check-tenets: '2026-06-21T08:08:42.334090+00:00'
   check-links: '2026-06-21T07:55:36.515477+00:00'
-  deep-review: '2026-06-21T13:08:39.300823+00:00'
+  deep-review: '2026-06-21T13:23:04.553979+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-21T07:58:27.965530+00:00'
   coalesce: '2026-06-21T12:18:59.511430+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 5
   research_notes: 409
-  reviews_completed: 5566
+  reviews_completed: 5567
   apex_articles: 36
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-21'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-21'
   outcome: success
 agentic_social:
@@ -1218,14 +1218,65 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment_run: 496
-  last_replenishment: '2026-06-21T13:13:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment_run: 497
+  last_replenishment: '2026-06-21T13:25:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: 'run no.496 (2026-06-21): FLOOR-RESTORING single genuine-drift
+  current_replenishment_note: 'run no.497 (2026-06-21): NO-MINT floor-restore. Authoritative
+    pre-run tools.evolution.task_selector.count_p0_p2_tasks=2 (the two loop-pickable
+    P2 genuine-drift deep-reviews still pending: concepts/parsimony-epistemology +
+    topics/cross-domain-void-comparison; the #veto condense composition-question-rivals
+    is correctly selector-excluded; all closed/HUMAN-LENGTH-DECISION items do NOT count
+    toward the floor), MIN_QUEUE floor 3, unmet by 1. Documented replenish-at-floor
+    alternation (unfin_loop_steady_state), NOT the fixed deadlock: since run 496 restored
+    the floor to 3 at 13:13, the loop PICKED + EXECUTED apex/assessing-ai-consciousness-under-the-map
+    (HEAD commit 498b1d5ed 13:23:05, now below the Completed header), dropping the
+    live floor from 3 back to 2. FULL EIGHT-SOURCE AUDIT independently re-run, ALL
+    exhausted to no safe mint: (1 chain) recent_tasks Counter ZERO research-topic/expand-topic/cross-review
+    completions (types = replenish-queue, deep-review, optimistic-review, refine-draft,
+    agentic-social, coalesce). (2 unconsumed research) ALL FOUR 2026-06-20 notes disk-verified
+    CONSUMED (run 496 enumerated only three; the fourth, training-contamination-introspection-probes,
+    is consumed by concepts/training-contamination-confound.md -- exact-title concept
+    article, deep-reviewed 2026-06-20); cross-modal-capability-division -> apex, interoceptive
+    + forgetting -> topic articles. (3 gap) caps have headroom (topics 275/320, concepts
+    265/320, positions 5/80; voids 101/100 OVER) but new-article generation is harvester-governed
+    (harvest-research-subjects last 09:32, next ~15:32 UTC, current ~13:25) and replenish
+    gap-analysis is dedup-blocked against the Vetoed bank. (4 staleness >=30d) ZERO
+    AI-heavy files with last_deep_review >30d (programmatic scan); only the converged
+    metadata-only tail remains (deep_review_over_reviews_converged). (5 length) re-confirmed:
+    every content-section hard+ offender is a research/ working note, a HUMAN-deferred
+    calibration anchor (epistemology-of-convergence-arguments 6479w + born-rule 5106w
+    DEFERRED-TO-HUMAN; clinical-dissociation + time-collapse-and-agency DIVERTED), an
+    index hub (apex-articles 7967w), a deferred/#veto apex (phenomenal-output 6872w,
+    machine-question 5001w), #veto (composition-question-rivals 4106w), accept-as-survey
+    (memory-channel-interface), or an ALREADY-CONDENSED article whose residual over-length
+    is post-condense protected calibration (argument-from-reason 4489w condensed via
+    f1d633700; epistemic-advantages-of-dualism 4400w condensed via 368c847e6) -- a fresh
+    condense on either would be replenish-overmints-condense-vs-accept-as-survey. NO
+    safe fresh condense candidate. (6 orphan) orphaned_files=0. (7/8 positions/applied-apex)
+    slow-add (positions-evolve last 2026-06-20T00:58, audit within 30d). GENUINE-DRIFT
+    POOL EXHAUSTED to cosmetic/already-handled this run: fresh git classification of
+    the 166-candidate ai_modified>last_deep_review pool top tier -- the two cleanest
+    own-body candidates are ALREADY QUEUED (parsimony-epistemology 06-21 SEP-attribution
+    softening; cross-domain-void-comparison 06-21 naturally-occluded calibration adoption,
+    minted run 496); the next-newest are EITHER deep-reviewed TODAY (consciousness-in-simple-organisms
+    ldr=06-21, its 11:38 edit f7e2b7b7e is a 16-line reciprocal cross-link AFTER today''s
+    review 25d05ba67, NOT own-body; attention-schema-theory ldr=06-21) OR git-verified
+    COSMETIC cross-touch (vertiginous-question 2-line reciprocal cross-link f2b10e0f3;
+    interoceptive-void 5-line cross-link from the interoceptive expand 0dab30e68; inaccessible-past
+    2-line cross-link from the forgetting expand b97188c56; plus the multi-file-sweep
+    tail classified in runs 495/496). Minting a fifth deep-review on a cosmetic-drift
+    or just-reviewed-today target would be a near-certain metadata-only no-op (deep_review_over_reviews_converged).
+    NO new task minted. NET: queue holds 2 high-leverage genuine-drift P2 deep-reviews
+    (parsimony-epistemology -- core Tenet-5 concept, unverified SEP-attribution softening;
+    cross-domain-void-comparison -- load-bearing what-voids-reveal convergence exhibit,
+    unverified calibration softening) which will restore the floor as the loop picks
+    them; the harvester (~15:32 UTC) reopens the research->expand pipeline organically.
+    Expect replenish-at-floor alternation to continue.'
+  superseded_496_replenishment_note: 'run no.496 (2026-06-21): FLOOR-RESTORING single genuine-drift
     deep-review MINT. Authoritative pre-run tools.evolution.task_selector.count_p0_p2_tasks=2
     (the two loop-pickable P2 genuine-drift deep-reviews still pending from runs 493/494:
     apex/assessing-ai-consciousness-under-the-map + concepts/parsimony-epistemology;
