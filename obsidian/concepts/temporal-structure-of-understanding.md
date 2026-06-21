@@ -4,7 +4,7 @@ description: "The click of comprehension has temporal phenomenology: suddenness,
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-21T11:55:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-06-01T12:50:51+00:00
+last_deep_review: 2026-06-21T11:55:36+00:00
 embedded_videos:
   - id: 2nMOnGLRG50
     url: https://www.youtube-nocookie.com/embed/2nMOnGLRG50
