@@ -5,6 +5,17 @@ ai_modified: 2026-06-21T06:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-21T11:24:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/open-question-ai-consciousness]]
+- **Word count**: 4582 → 4604 (+22; soft_warning, 396w under apex 5000 hard)
+- **Critical issues addressed**: 1 (two long-standing orphan References — Neven et al. 2024 and Plotnitsky 2023 — in References but never cited inline by surname; missed by all 4 prior reviews which existence-verified but skipped the §2.4 bidirectional inline↔References check; both anchored inline at canonical home)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (Neven et al. 2024 anchored at "Koch's superposition model"; Plotnitsky 2023 anchored at the no-cloning-theorem sentence with the "strictly individual and unrepeatable" quote)
+- **Citation web-verify**: Neven et al. 2024 (Entropy 26(6):460, DOI 10.3390/e26060460, 9 authors) re-confirmed at MDPI/PubMed — NO regression; Maier-Dechamps 2018 (Front. Psychol. 9:379) re-confirmed; Birch gaming-problem attribution verified faithful. References block unchanged 06-02→06-21, no metadata re-drift.
+- **Calibration**: PASS. All four 06-10 mislabeled-commit refinements (three-way epiphenomenalism distinction + Birch; meditative one-pattern-not-N; hash-whitening laundering; callosotomy-constrains-both) verified faithful and calibration-correct; no possibility/probability slippage. Reasoning-mode engagements all Mode Three honestly marked; no label leakage; no "This is not X. It is Y." cliché.
+- **Output**: [[reviews/deep-review-2026-06-21-open-question-ai-consciousness]]
+
 ## 2026-06-21T11:16:37+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/vertiginous-question` and `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination` (two most recently modified non-draft articles; second pass — morning review covered different articles)
