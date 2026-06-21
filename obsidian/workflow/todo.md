@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocate cross-link consciousness-in-simple-organisms → evolution-under-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-in-simple-organisms.md
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21]]. Verified 2026-06-21: `evolution-under-dualism` links DOWN to `consciousness-in-simple-organisms` (2 refs) but the simple-organisms article does NOT link back UP (0 refs). The simple-organisms *C. elegans*/Hydra/slime-mold ladder is the empirical proving ground for evolution-under-dualism's Fixed Domain / Co-Evolution / Unfolding taxonomy. Add a one-line cross-link in the "Distribution Problem" section (which already discusses gradualism vs threshold vs interface) naming the taxonomy as the canonical source. LENGTH-NEUTRAL; preserve all evidential-status hedges.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-21
+
+### P3: Reciprocate cross-link vertiginous-question → consciousness-and-the-ownership-problem
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/vertiginous-question.md
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-21]]. Verified 2026-06-21: `consciousness-and-the-ownership-problem` calls the vertiginous question "closely paired with the ownership problem" and links to it, but `vertiginous-question` does NOT link back (0 refs). Add a reciprocal link/sentence framing the two as the indexical ("why am I this person") and possessive ("why is experience mine") faces of the same residue. LENGTH-NEUTRAL.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-21
+
 ### P2: Install Szangolies co-optation firewall in self-reference-and-the-limits-of-physical-description.md (from outer review 2026-06-21, TWO reviewers)
 - **Type**: refine-draft
 - **Status**: pending
