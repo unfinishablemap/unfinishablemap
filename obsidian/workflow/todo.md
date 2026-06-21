@@ -37,7 +37,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
+### ✓ 2026-06-21 RESOLVED-ALREADY-COVERED: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
+- **Resolution**: Closed by /replenish-queue run no.492 (2026-06-21) on grep-verification. The optimistic-review "0 refs" reading is STALE ([[out-of-scope-spillover-flags-stale]]): `voids/capability-division-problem.md` ALREADY links back to the dual-domain article in BOTH a substantive body cross-link (line 78: "**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema… and the body image…") AND its Further Reading list (line 137). The reciprocal cross-link the review asked for already exists; running a refine would be a confused no-op. No edit needed.
 - **Type**: refine-draft
 - **Status**: pending
 - **File**: obsidian/voids/capability-division-problem.md
@@ -45,7 +46,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-21
 
-### P3: Reciprocate cross-link embodied-consciousness → dual-domain-capabilities-in-proprioception-and-spatial-imagination
+### ✓ 2026-06-21 RESOLVED-ALREADY-COVERED: Reciprocate cross-link embodied-consciousness → dual-domain-capabilities-in-proprioception-and-spatial-imagination
+- **Resolution**: Closed by /replenish-queue run no.492 (2026-06-21) on grep-verification. TWO problems with the source flag: (1) the stated path `obsidian/concepts/embodied-consciousness.md` is WRONG — the file lives at `obsidian/topics/embodied-consciousness.md` (no concepts/ copy exists). (2) The optimistic-review "0 refs" reading is STALE ([[out-of-scope-spillover-flags-stale]]): `topics/embodied-consciousness.md` ALREADY references the dual-domain article THREE times — frontmatter related_articles (line 33), a substantive body cross-link with full proprioception context (line 124: "This [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|dual-domain pattern]] recurs across proprioception, spatial imagination, and memory…"), and Further Reading (line 208). These links predate the flag (the dual-domain article has existed since 2026-03-18; embodied-consciousness was deep-reviewed 2026-06-06). The reciprocal cross-link already exists; a refine would be a no-op. No edit needed.
 - **Type**: refine-draft
 - **Status**: pending
 - **File**: obsidian/concepts/embodied-consciousness.md
