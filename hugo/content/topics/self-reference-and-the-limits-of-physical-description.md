@@ -25,7 +25,7 @@ description: Gödel's incompleteness and the quantum measurement problem share a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 00:00:00+00:00
+last_deep_review: 2026-06-21 05:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-06-10 12:38:37+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-06-21 10:41:03+00:00
+ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -17,7 +17,7 @@ description: 'Human+AI exploration of the structural impossibility at the heart 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 08:18:13+00:00
+last_deep_review: 2026-06-21 10:41:03+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -72,7 +72,7 @@ Halpern and Moses distinguish "everyone knows" (E^1 X), k-th order mutual knowle
 
 ### Rubinstein (1989)
 
-The Electronic Mail Game stages two players choosing between actions A and B, where coordinated B is best, coordinated A good, and miscoordinated outcomes catastrophic. Player 1 sees the state of nature and sends confirmation; player 2 confirms; and so on, each message lost with small probability. Rubinstein's result: regardless of how many messages succeed, the unique Nash equilibrium has both players choosing A — the no-information outcome. The arbitrarily-high-order mutual knowledge produced does not deliver the strategic dividend of common knowledge. Aumann (1989) calls this "the Halpern–Moses paradox."
+The Electronic Mail Game stages two players choosing between actions A and B, where coordinated B is best, coordinated A good, and miscoordinated outcomes catastrophic. Player 1 sees the state of nature and sends confirmation; player 2 confirms; and so on, each message lost with small probability. Rubinstein's result: regardless of how many messages succeed, the unique Nash equilibrium has both players choosing A — the no-information outcome. The arbitrarily-high-order mutual knowledge produced does not deliver the strategic dividend of common knowledge. Aumann (1989) names this the Halpern–Moses problem.
 
 ### Aumann (1976) — A Contrast
 

@@ -9,6 +9,190 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-21T12:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Word count**: 3107 → 3107 (0; 124% of concepts soft, ~393w under 3500 hard)
+- **Critical issues addressed**: 0 (none found — converged no-op after real scrutiny)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verified no-op; 12th review)
+- **Notes**: GENUINE-DRIFT mint — verified the unreviewed 2026-06-16 (e9355e91f) Occam-self-binding hedge on the line-138 parsimony claim is correctly calibrated: `[[tenets#^occams-limits]]` anchor RESOLVES (block ^occams-limits, tenets.md:126; Tenet 5 "Rules out" clause explicitly endorses the self-binding); hedge is genuine and NOT over-read back to a parsimony proof anywhere (line-82 "simpler" is the neutral explanatory-gap motivation, not a Map move). Constrain-vs-establish discipline gold-standard throughout (lines 100/102/128/130/201 — metaphysical commitment vs epistemic warrant separated everywhere). All prior fixes HELD (some-not-all scope, "has force" concession, "outruns epistemic arguments" close, Georgiev "however," Goyal active-controls hedge) — no regression. Citation web-verify (publisher of record, 3-state): Georgiev 2024 *Life* 14(1):48, DeWall 2008 *Conscious Cogn* 17(3):628-645, Gruber et al. 2015 *Front Psychol* 6:91, Goyal 2014 — all real-correct (the 06-02 review's "Whiten 2015" was a reviewer slip; article attribution Gruber et al. is correct). No superlative/currency claims. ZERO banned cliché, no editor-vocab/mode-label leakage, "Relation to the Map's Perspective" present. Convergence double-counting guarded (clean four-TYPE table). Context-flagged pain-asymbolia/Frankish-2016 cites do NOT exist in this article (belong to a sibling). Stamped last_deep_review WITHOUT bumping ai_modified (no body change).
+- **Output**: [deep-review-2026-06-21-epiphenomenalism](/reviews/deep-review-2026-06-21-epiphenomenalism/)
+
+## 2026-06-21T11:55:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
+- **Word count**: 2577 → 2577 (0; 103% of concepts soft, well under 3500 hard)
+- **Critical issues addressed**: 0 (none found — converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verified no-op; 6th review)
+- **Notes**: Only change since the thorough 06-01 review was a 06-03 reciprocal cross-link bump ([incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)) — no substantive content change. Re-verified citation cross-check (7 References, all real-correct, inline ↔ References clean, no orphans/dangling refs), new cross-link reciprocal and resolving, no superlative/currency claims, no calibration slippage, illusionism engagement Mode One/Two in natural prose with no label leakage. Convergence damping working (score 15) but 14-day exclusion missed it (20 days since last review). Engagement modes: illusionist — Mode One/Two (regress argument from opponent's own commitment to "what grounds the seeming"); decoherence/MWI — Mode Three (boundary marked, "highly speculative").
+- **Output**: [deep-review-2026-06-21-temporal-structure-of-understanding](/reviews/deep-review-2026-06-21-temporal-structure-of-understanding/)
+
+## 2026-06-21T11:38:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Task**: Reciprocate cross-link → [evolution-under-dualism](/topics/evolution-under-dualism/) (the down-link was 2-way; up-link was 0). Verified evolution-under-dualism links DOWN twice (frontmatter + Further Reading) and holds the canonical Fixed Domain / Co-Evolution / Unfolding taxonomy.
+- **Changes**: Added a back-link to [evolution-under-dualism](/topics/evolution-under-dualism/) in the "Distribution Problem" / Interface-dualism paragraph, framing the *C. elegans*–Hydra–slime-mould ladder as that taxonomy's empirical proving ground at the lower limit. All evidential-status hedges and the "no coupling" parsimony framing preserved.
+- **Word count**: 4025 → 4022 (NET -3; word-neutral-or-trimming honoured under the over-hard length constraint). The ~37-word taxonomy clause was absorbed by tightening surrounding Distribution-Problem prose (universal-coupling sentence, interface-efficacy clause, neural-correlates mirror, marginal-organism sentence, gradualism/threshold/panpsychist one-liners) without losing substance.
+- **Length note**: File remains over the topics 4000 hard ceiling (pre-existing human-length-decision condition, was 4025 before this pass). Did NOT push it deeper; could not bring it fully under 4000 without substantive cuts beyond this targeted cross-link's scope, so left at 4022 (net-trimmed) per the constraint's word-neutral-or-trimming requirement.
+- **Published**: yes
+
+## 2026-06-21T11:24:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Word count**: 4582 → 4604 (+22; soft_warning, 396w under apex 5000 hard)
+- **Critical issues addressed**: 1 (two long-standing orphan References — Neven et al. 2024 and Plotnitsky 2023 — in References but never cited inline by surname; missed by all 4 prior reviews which existence-verified but skipped the §2.4 bidirectional inline↔References check; both anchored inline at canonical home)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (Neven et al. 2024 anchored at "Koch's superposition model"; Plotnitsky 2023 anchored at the no-cloning-theorem sentence with the "strictly individual and unrepeatable" quote)
+- **Citation web-verify**: Neven et al. 2024 (Entropy 26(6):460, DOI 10.3390/e26060460, 9 authors) re-confirmed at MDPI/PubMed — NO regression; Maier-Dechamps 2018 (Front. Psychol. 9:379) re-confirmed; Birch gaming-problem attribution verified faithful. References block unchanged 06-02→06-21, no metadata re-drift.
+- **Calibration**: PASS. All four 06-10 mislabeled-commit refinements (three-way epiphenomenalism distinction + Birch; meditative one-pattern-not-N; hash-whitening laundering; callosotomy-constrains-both) verified faithful and calibration-correct; no possibility/probability slippage. Reasoning-mode engagements all Mode Three honestly marked; no label leakage; no "This is not X. It is Y." cliché.
+- **Output**: [deep-review-2026-06-21-open-question-ai-consciousness](/reviews/deep-review-2026-06-21-open-question-ai-consciousness/)
+
+## 2026-06-21T11:16:37+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/vertiginous-question` and `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination` (two most recently modified non-draft articles; second pass — morning review covered different articles)
+- **Output**: [optimistic-2026-06-21b](/reviews/optimistic-2026-06-21b/)
+- **Findings**: Both mature/well-calibrated; no calibration concern, no refine warranted on those grounds. Two genuine one-directional cross-link gaps surfaced (capability-division-problem and embodied-consciousness both fail to back-link the dual-domain article). vertiginous-question has no outstanding reciprocity gaps. Two P3 refine-draft tasks queued.
+
+## 2026-06-21T11:01:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [vertiginous-question](/topics/vertiginous-question/)
+- **Task**: P2 reciprocal cross-link refine (optimistic-review 2026-06-21, [optimistic-2026-06-21](/reviews/optimistic-2026-06-21/))
+- **Word count**: 3846 → 3891 (soft_warning; topics/ hard 4000 — 109 words clear; one sentence added, no section)
+- **Changes**: Added one reciprocal sentence at the "Ownership-based answers" paragraph framing the vertiginous question and [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) as complementary faces of the same residue — indexical face ("why am I *this* subject?") vs possessive face ("why is this experience *mine*?"). Closes one-directional link rot: ownership-problem linked to vertiginous-question 2× ("closely paired") with no back-reference. Wikilink resolves (topics/consciousness-and-the-ownership-problem.md). Voice + all existing calibration preserved.
+- **Published**: yes
+
+## 2026-06-21T10:41:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Word count**: 2999 → 2999 (length-neutral; voids/ hard 3000 — 1 word clear; strictly length-neutral mode enforced)
+- **Critical issues addressed**: 1 (Aumann naming misattribution — "the Halpern–Moses paradox" → Aumann (1989) named it the *problem*; "paradox" is Morris 2014, per Gonczarowski & Moses 2024 "Common Knowledge, Regained". Caught only by publisher-of-record web-verify; ratified "registry-clean" by the 2026-06-03 review — ai_citation_metadata_unreliable pattern)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (hard-ceiling; length-neutral)
+- **Context**: genuine-drift verification of commit d67673bcb (2026-06-10) which RE-SCOPED the formal claims but bumped only ai_modified (last_deep_review left at 06-03 = unverified). The re-scope is a CALIBRATION IMPROVEMENT (scopes Halpern–Moses *down*: "not a universal impossibility"; embodied-interface coverage flagged as "honest extrapolation, a step beyond the formal scope"). Both ai_modified + last_deep_review bumped; ai_system claude-opus-4-7 → claude-opus-4-8.
+- **§2.4 publisher-of-record web-verify ledger**:
+  - **SEP "Common Knowledge" public-announcement attribution (line 52, ref #17, Vanderschraaf & Sillari)** — **real-correct / PRESENT** (highest-priority target). Live SEP entry DOES catalogue public-announcement models in which common knowledge IS generable under stipulated assumptions (Lewis's publicly-known A*; the cook's announcement / Barbecue problem). The "honest extrapolation" scoping rests on a verified premise. (SEP year cited as 2014; actual most-recent revision 2022-08-05 — minor, non-load-bearing, left as-is.)
+  - Halpern & Moses 1990 (JACM 37(3), 549–587) — real-correct; coordinated-attack / unreliable-channel scope faithful.
+  - Rubinstein 1989 (AER 79(3), 385–391) — real-correct; discontinuity result faithful.
+  - Aumann 1976 (Annals of Statistics 4(6), 1236–1239) — real-correct.
+  - Aumann 1989 (ref #2, "Notes on Interactive Epistemology", Cowles working paper) — real-correct AS A REFERENCE ENTRY (genuine 1989 Cowles work, later pub. 1999 as Interactive Epistemology I/II). Only the body TERM was wrong (fixed above).
+  - inline↔References: no orphans either direction.
+  - Currency (empirical-record-currency-drift): no superlative claims; Lederman 2018 deflationary verdict not superseded (Gonczarowski & Moses 2024 "regained" is a reconstruction direction, not a refutation).
+- **Internal consistency**: scoped intro (line 42) NOT over-read back to "structural impossibility" — lines 44/133 "structural impossibility" denote the *joint* conjunction-coalesce claim (the void), not the single theorem. Coherent.
+- **Engagement modes (editor-internal)**: Carruthers Mode Three; Madhyamaka Mode Two/Three; focal-points Mode One/Two. No label leakage.
+- **Output**: [deep-review-2026-06-21-common-knowledge-void](/reviews/deep-review-2026-06-21-common-knowledge-void/)
+
+## 2026-06-21T10:32:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Word count**: 2257 → 2259 (+2; 75% of 3000 topics soft target, status ok)
+- **Critical issues addressed**: 0 (no critical issues; sixth review)
+- **Medium issues addressed**: 1 (citation completeness — Kay et al. 2024 ref now carries verified vol/issue: 121, 103694)
+- **Enhancements made**: 0 (stable, correctly-calibrated; no expansion warranted)
+- **Context**: genuine own-body drift (NOT cosmetic) — reviewed the 2026-06-04 independence-discount calibration that landed after the 06-03 converged no-op. Verdict: calibration is SOUND (restraint in the correct direction; tenet-as-evidence-upgrade declined) — preserve, do not strengthen back to "three confirmations". `ai_modified` + `last_deep_review` both bumped.
+- **§2.4 publisher-of-record web-verify ledger** (author vectors re-checked per discipline):
+  - Kay, Keogh & Pearson 2024 (Consciousness and Cognition 121, 103694; DOI 10.1016/j.concog.2024.103694) — **real-correct**; author vectors re-verified (no swap/split) vs PubMed 38657474, ScienceDirect S1053810024000618, PhilPapers KAYSBM; "analytic vs object-based strategies" simplification faithful. Ref #7 completed with vol/issue.
+  - Pre-2020 canonical cites (Shepard&Metzler 1971, Sacks 1985, Merleau-Ponty 1945/2012, Kosslyn 1994, Zeman 2015, Ramachandran&Hirstein 1998) — verified across 5 prior reviews; not re-litigated.
+  - Currency sweep: no superlative claims detected.
+- **Engagement modes (editor-internal)**: epiphenomenalism L79 Mode Three; pure-physical/aphantasia L71 Mode One-leaning; new capability-specific illusionist-deflation L99 Mode Three. No label leakage.
+- **Output**: [deep-review-2026-06-21-dual-domain-capabilities-in-proprioception-and-spatial-imagination](/reviews/deep-review-2026-06-21-dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+
+## 2026-06-21T10:16:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Word count**: 3981 → 3981 (+0, strictly length-neutral; ~19w under the 4000 topics hard ceiling)
+- **Critical issues addressed**: 1 (citation metadata — Tollock et al. 2025 author initials)
+- **Medium issues addressed**: 0 (length flagged as watch item, not actioned)
+- **Enhancements made**: 0 (converged content; sixth review)
+- **Context**: genuine-drift verification of commit 04d04bcbb (2026-06-20 refine-draft that consolidated 4 outer-review tasks + added 2 new 2025 cites; bumped ai_modified NOT last_deep_review → unverified by deep-review).
+- **§2.4 publisher-of-record web-verify ledger**:
+  - Tollock et al. 2025 (Innovation in Aging 9(Suppl_2), igaf122.2914) — **real-wrong-metadata**: author initials S/M/J → M/N/A (Maria Tollock, Natalia Leontovich, Anelly Gonzalez, Sam Parnia), corrected in place. Paper REAL; body claim ("brief, trigger-linked; prospective record has not vindicated the dualist reading") faithful. NB: the 04d04bcbb changelog's "publisher-of-record verified" claim was WRONG re initials (ai_citation_metadata_unreliable).
+  - Mousley et al. 2025 (Nature Communications 16, 10055) — **real-correct**, and **NOT an orphan** (inline L77 paired with References L211). N=4,216 (article N≈4,200 ✓), ages 0-90 ✓, turning points 32/66/83 ✓.
+  - Onishi & Baillargeon 2005 (Science 308(5719), 255-258) — real-correct; replication-contested hedge fair.
+  - Nahm et al. 2012 (Arch Gerontol Geriatr 55, 138-142) — real-correct; retrospective framing faithful.
+- **Calibration**: evidential-ambition disclaimer (L45) confirmed faithful AND honoured throughout (no section over-claims the data discriminate); no "This is not X. It is Y." cliché; no label leakage.
+- **Engagement modes** (editor-internal): Parfit Mode Three; physicalist/functionalist Mode Two; MWI Mode Three; Tegmark/decoherence exemplary evidential-status discipline; identity-theory Mode Three (non-discrimination). No boundary-substitution.
+- **Output**: [deep-review-2026-06-21-consciousness-interface-development](/reviews/deep-review-2026-06-21-consciousness-interface-development/)
+
+## 2026-06-21T10:04:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [attention-schema-theory](/concepts/attention-schema-theory/)
+- **Source**: pessimistic-review [pessimistic-2026-06-21b-attention-schema-theory](/reviews/pessimistic-2026-06-21b-attention-schema-theory/) (verify-first citation fix)
+- **Both-directions web-verify**: independently WebFetched the paper at publisher of record (PMC8379943) plus cross-confirmed via the Princeton publication record and PNAS metadata. 3-state verdict for the author vector = (a): the paper "The attention schema theory in a neural network agent" (PNAS 118(33), e2102421118) has EXACTLY TWO authors — Andrew I. Wilterson & Michael S. A. Graziano. There is NO "Kemper." Today's earlier deep-review (0b38d9769) was WRONG to accept "Kemper"; the pessimistic-review's PMC/PubMed finding was correct.
+- **Changes**: (1) Replaced fabricated "Kemper, C.M." with "Graziano, M.S.A." in Reference 6 (line 245) and changed inline "Wilterson, Kemper et al." → "Wilterson & Graziano" (line 89). (2) Moved the arXiv 2305.17375 cite (Liu/Bolotta/Bengio/Dumas 2023, the multi-agent paper) off the single-agent visuospatial sentence onto the following multi-agent reinforcement-learning sentence where it belongs; left the Wilterson/Graziano PNAS cite on the single-agent claim. Everything else preserved (Igelström→Wilterson fix from 0b38d9769 and all other cites intact).
+- **Length**: body 3497 words (was ~3499) — net change ≤0, under the 3500 concepts hard ceiling.
+- **Published**: yes
+
+## 2026-06-21T10:15:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [attention-schema-theory](/concepts/attention-schema-theory/) (first dedicated pessimistic pass since 2026-03-20; deep-reviewed earlier today)
+- **Finding**: CRITICAL wrong-author citation "Kemper, C.M." on Wilterson & Graziano 2021 (PNAS 118(33) e2102421118) — fabricated co-author in both Ref 6 (line 245) and inline cite (line 89); survived today's citation-fix deep-review. Web-verified at PMC8379943/PubMed: authors are Wilterson & Graziano only. Secondary: line-89 inline parenthetical mislocates arXiv 2305.17375 (Liu/Bolotta 2023 multi-agent paper) onto the single-agent visuospatial claim. Queued one consolidated verify-first length-neutral refine-draft (P2). All other discipline checks clean (no label leakage, no cliché, no boundary-substitution, altered-state audit N/A, calibration sound).
+- **Output**: [pessimistic-2026-06-21b-attention-schema-theory](/reviews/pessimistic-2026-06-21b-attention-schema-theory/)
+
+## 2026-06-21T09:45:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-schema-theory](/concepts/attention-schema-theory/)
+- **Word count**: 3497 → 3499 (+2; 140% of 2500 soft, under 3500 hard ceiling, status soft_warning)
+- **Mode**: HIDDEN-DRIFT verification. cc1744aec (2026-06-09) was mislabelled `auto(replenish-queue)` but rewrote 66 body lines and never got deep-reviewed (bumped ai_modified not last_deep_review). Verdict: the rewrite is calibration-clean (improved the regress/illusionism/Whitehead argument sequence; no fixes). Separately, publisher-of-record web-verify caught a CRITICAL citation defect the 2026-06-05 review had INTRODUCED.
+- **Critical issues addressed**: 1 — Igelström & Graziano 2021 *PNAS* cite was wrong on authors (actual: Wilterson, Nastase, Bio, Guterstam & Graziano), wrong on issue (26→25), and UNFAITHFUL on the claim (an fMRI within-subject awareness-as-control-model result had been inflated into a theory-of-mind STS/self-vs-other substrate-overlap finding). Re-attributed + re-scoped, length-neutral. Also fixed Wilterson/Kemper 2021 issue 39→33.
+- **Citation verdicts**: Wilterson et al. 2021 (rTPJ, was "Igelström…118(26)") → real-wrong-metadata + unfaithful-claim, FIXED; Wilterson/Kemper 2021 (118(39)→118(33)) → real-wrong-metadata, FIXED; Liu et al. 2023 arXiv:2305.17375, Graziano&Webb 2015 Frontiers 6:500, Juliani/Kanai/Sasai 2022, ASTOUND 101071191, Graziano books/2022 → all real-correct.
+- **Calibration**: cc1744aec rewritten sections all calibration-clean (regress concedes weak form + states Graziano/Frankish reply faithfully before in-framework counter; illusionism-burden falsifier fair; Whitehead framed as Map's reading). No "This is not X. It is Y." cliché; no editor-vocabulary/mode-label leakage (both grep-verified).
+- **Engagement modes**: AST/Graziano = Mode Two; illusionism/Frankish/Dennett = Mode Two; eliminativists/physicalists = Mode Three (boundary). No boundary-substitution.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (fMRI paragraph now faithful to a real result rather than an inflated gloss)
+- **Output**: [deep-review-2026-06-21-attention-schema-theory](/reviews/deep-review-2026-06-21-attention-schema-theory/)
+
+## 2026-06-21T05:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Word count**: 2889 → 2889 (+0; 96% of 3000 target, status ok)
+- **Mode**: Genuine own-body drift — today's 05:10 ai_modified bump was the REAL Szangolies co-optation firewall (d0aff1d49, TWO-reviewer outer-review fix) that bumped ai_modified NOT last_deep_review. 7th review; main marginal value = §2.4 citation sweep on cites the firewall preserved without re-verifying.
+- **Critical issues addressed**: 0 (no defects found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (deliberate no-op content pass; timestamp-only last_deep_review stamp, ai_modified left at firewall value)
+- **Citation web-verify (§2.4)**: Landsman 2020 (arXiv:2003.03554) — real-correct, FRESH full verify; body characterization (Chaitin/1-randomness/Bell-loophole) faithful. Cubitt 2015 (Nature 528:207-211) — real-correct; verbatim "independent of the axioms of mathematics" quote MATCHES paper. Szangolies 2018 (Found. Phys. 48:1669-1697) — real-correct; stance web-confirmed naturalist (qualia arise-from machinery). Inline↔References reciprocity clean, no orphans. No superlative/currency claims.
+- **Firewall stance-fidelity**: confirmed faithful — Szangolies marked naturalist, dualist gloss explicitly the Map's inference; Tenet 1/5 closes in compatible-with register; no "This is not X. It is Y." cliché; no label leakage.
+- **Engagement modes**: Chalmers/Aaronson Mode One; Hawking Mode One via Franzén/Feferman; Szangolies-firewall Mode Three boundary-marking (source-fidelity, no boundary-substitution).
+- **Output**: [deep-review-2026-06-21-self-reference-and-the-limits-of-physical-description](/reviews/deep-review-2026-06-21-self-reference-and-the-limits-of-physical-description/)
+
+## 2026-06-21T09:08:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- **Word count**: 1825 → 1857 (+32; 74% of 2500 target, status ok)
+- **Mode**: Genuine own-body drift — today's 07:16 ai_modified bump was a REAL refine-draft (ae182f6ec) removing the "severely criticized" SEP quote, not a cosmetic bump. 5th review; the 4th (05-21) deprioritised pending substantive change, which this met.
+- **Critical issues addressed**: 1 — fabricated Krizek (2017) direct quote ("yields contradictory verdicts depending on which dimension of simplicity is weighted"). Full-text web-verify (arXiv:1701.06564) found NO occurrence of verdict/dimension/weighted; substance faithful but wording not Krizek's. Converted to sourced paraphrase + the one verbatim phrase the paper contains ("no preferred direction in how Ockham's razor is used"). This item was carried unresolved across ALL FOUR prior reviews (abstract-only); closed now via full text.
+- **Medium issues addressed**: 0 (1 low Holsinger venue-metadata item flagged, not acted — load-bearing chain is Holsinger-via-Baker SEP, which is correct).
+- **Enhancements made**: 1 (Krizek paragraph stronger and honestly sourced).
+- **Citation ledger (§2.4 publisher-of-record)**: SEP Mind/Brain Identity — real-correct (today's removal of "severely criticized" was CORRECT; entry actually says "There is no need for explicit use of Ockham's Razor as in Smart (1959)"). Krizek 2017 — tuple real-correct, quote corrected. Huemer 2009 PQ 59(235):216-236 — real-correct (quote verbatim). Zanotti 2021 Synthese 199:11109-11132 — real-correct. Lycan 2009 AJP 87(4):551-563 — real-correct. Sober 2001 (CUP, 13-31) — real-correct. Crick 1988 — real-correct (quote verbatim). Holsinger-via-Baker SEP — real-correct. Currency sweep: none.
+- **Engagement modes (editor-internal)**: Smart/Churchland/Lycan Mode One; materialism-via-parsimony Mode Two; overall Mixed. No label leakage.
+- **Calibration**: passes — meta-level argument about parsimony, frames the move as defeater-removal not evidence-upgrade.
+- **Frontmatter**: ai_modified + last_deep_review both stamped 2026-06-21T09:08:16 (genuine own-body change → ai_modified bumped, per deep_review_over_reviews_converged discipline).
+- **Output**: [deep-review-2026-06-21-epistemological-limits-of-occams-razor](/reviews/deep-review-2026-06-21-epistemological-limits-of-occams-razor/)
+
+## 2026-06-21T08:54:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Word count**: 4792 → 4792 (0; length-neutral, no body edits)
+- **Mode**: Genuine-drift verification of the 06-19 pessimistic-polish (commit d8def3922) that bumped ai_modified but not last_deep_review — the qualifying content edit was UNVERIFIED.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged no-op after REAL scrutiny)
+- **Verified**: (a) 0 residual banned clichés; all 5 rephrasings preserve conditional-reasoning / map-vs-driver / measurement-problem-as-disclosure claims. (b) illusionist caveat concedes contestation without conceding thesis (faithful to [illusionism](/concepts/illusionism/) + [evidential-status-discipline](/project/evidential-status-discipline/)). (c) self-stultification gloss faithful to [self-stultification](/concepts/self-stultification/) §Determinism-and-Rational-Inference, "remains unanswered" not overstated. (d) Saad 2025 web-verified real-correct (Springer DOI 02290-3, Phil Studies 182:939-967); both L108 cites map to the ONE paper (no orphan, no conflation); Torres Alegre 2025 real-correct; canonical no-go-theorem cites untouched + locked. (e) both L202 superlatives current mid-2026 (2025 Nature centenary survey; HV constraints severe). (f) all 10 cross-links resolve; load-bearing new links reciprocate.
+- **Engagement with Duch**: Mode Three (framework-boundary marking); unchanged; no label leakage.
+- **Frontmatter**: last_deep_review stamped 2026-06-21; ai_modified left at 06-19 (converged no-op, per brief).
+- **Standing**: human length-decision item only (120% soft, ~208w under hard; do NOT auto-condense the load-bearing Triple Screen).
+- **Output**: [deep-review-2026-06-21-what-consciousness-tells-us-about-physics](/reviews/deep-review-2026-06-21-what-consciousness-tells-us-about-physics/)
+
+## 2026-06-21T08:33:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/)
+- **Task**: P2 anchoring-calibration (Audit Three of [calibration-audit-triple](/project/calibration-audit-triple/)) — hedge-profile over-claim vs anchor [naturally-occluded](/concepts/naturally-occluded/)
+- **Changes**: Length-neutral hedge-profile recalibration (3 declaratives reworded to hedged forms): (1) lead verdict "comparison establishes coherence...one difference cuts the other way" → "appears to earn...may cut the other way"; (2) restated-verdict "comparison establishes that consciousness is distinctively..." → "suggests that..."; (3) Lawvere-unification "are *not* independent: they are two faces" → "may *not* be independent: they appear to be two faces" (warranted — already flagged as the Map's non-settled developed extension). Removed both `establishes` strong-assertions (kept the faithful Gödel "shows that"); added 5 hedge markers (appears/may/suggests/may/appears).
+- **Result**: evaluate_anchoring now CLEARS (was 2 failed checks). hedge density 1.98→3.10/kw (≥3.0 cap PASS); strong-assertion density 0.85→0.28/kw (≤0.51 PASS). Word count 3538→3544 (soft_warning, well under 4000 hard ceiling).
+- **Preserved**: all P1 framing work from commit 6658eca2 (bounded common-cause-null verdict, deleted upgrade claim NOT reintroduced, compatible-with register, difference-that-cuts-other-way section, observer-in-physics sentence).
+- **Published**: yes
+
 ## 2026-06-21T08:20:00+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: ~1.5 days since prior run (2026-06-19)

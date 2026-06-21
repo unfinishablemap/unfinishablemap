@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-20 00:00:00+00:00
+ai_modified: 2026-06-21 10:16:17+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: How the consciousness-brain interface transforms across the lifespa
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-13 01:31:47+00:00
+last_deep_review: 2026-06-21 10:16:17+00:00
 modified: *id001
 related_articles:
 - '[[biological-cognitive-closure]]'
@@ -209,7 +209,7 @@ The Map's reply grants that causal continuity and narrative integration are real
 1. Salthouse, T. A. (2010). Selective review of cognitive aging. *Journal of the International Neuropsychological Society*, 16(5), 754-760.
 1. Petanjek, Z., et al. (2011). Extraordinary neoteny of synaptic spines in the human prefrontal cortex. *PNAS*, 108(32), 13281-13286.
 1. Nahm, M., et al. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
-1. Tollock, S., Leontovich, M., Gonzalez, J., & Parnia, S. (2025). A multi-site prospective study of paradoxical lucidity in moderate to severe dementia. *Innovation in Aging*, 9(Suppl_2), igaf122.2914.
+1. Tollock, M., Leontovich, N., Gonzalez, A., & Parnia, S. (2025). A multi-site prospective study of paradoxical lucidity in moderate to severe dementia. *Innovation in Aging*, 9(Suppl_2), igaf122.2914.
 1. Mousley, A., et al. (2025). Topological turning points across the human lifespan. *Nature Communications*, 16, 10055.
 1. Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363-406.
 1. Gogtay, N., et al. (2004). Dynamic mapping of human cortical development during childhood through early adulthood. *PNAS*, 101(21), 8174-8179.

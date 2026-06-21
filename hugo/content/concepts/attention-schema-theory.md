@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-09 09:52:09+00:00
+ai_modified: 2026-06-21 10:04:36+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,8 +24,8 @@ description: Graziano's theory proposes consciousness is the brain's model of it
   own attention. The Map asks why a control model should be felt, not merely tracked.
 draft: false
 human_modified: null
-last_curated: null
-last_deep_review: 2026-06-05 08:10:07+00:00
+last_curated: 2026-06-21 10:04:36+00:00
+last_deep_review: 2026-06-21 09:45:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,9 +76,9 @@ Graziano prefers "caricature" to "illusion": a caricature implies something real
 
 ### fMRI Support
 
-An fMRI study from Graziano's Princeton lab (Igelström & Graziano, 2021, *PNAS*) found that overlapping cortical networks converging on the right temporoparietal junction (rTPJ) and superior temporal sulcus (STS) are recruited when subjects track their own attention and when they track others' attention states. This is what AST predicts: if consciousness is modelled like attention in others (theory of mind), the neural substrate should overlap.
+An fMRI study from Graziano's Princeton lab (Wilterson et al., 2021, *PNAS*) found the right temporoparietal junction (rTPJ) tracking an awareness-dependent control of attention: when subjects were aware of a cue they could use it to direct attention and the rTPJ engaged; when unaware of the same cue, that predictive control collapsed. This fits AST's claim that awareness functions as the brain's control model *for* attention.
 
-This supports AST's evolutionary story. The ability to model others' attention—crucial for social cognition, predator-prey dynamics, teaching—may have been repurposed to model one's own. The "unified experience" feeling comes from applying the same modeling machinery to oneself.
+The rTPJ is also a theory-of-mind hub. AST reads this overlap as an evolutionary clue: machinery for modelling others' attention—crucial for social cognition and predator-prey dynamics—may have been repurposed to model one's own, so the "unified experience" feeling comes from turning it inward.
 
 ### The ASTOUND Project
 
@@ -88,7 +88,7 @@ This has implications for [AI consciousness](/topics/ai-consciousness/). If atte
 
 ### Attention Schemas in AI Agents
 
-Neural-network agents given an internal model of their own attention learn to control visuospatial attention more effectively than those without one (Wilterson, Kemper et al., 2021, *PNAS*; arXiv 2305.17375). In multi-agent reinforcement-learning settings, agents implementing an attention schema as recurrent internal control can also infer other agents' attention and coordinate better. These results show the schema is computationally *useful* where attention is hard to track—not that it emerges spontaneously in any sufficiently complex system. It is a designed resource that earns its keep, the more cautious and better-supported reading.
+Neural-network agents given a model of their own attention learn to control visuospatial attention more effectively than those without one (Wilterson & Graziano, 2021, *PNAS*). In multi-agent reinforcement-learning settings, agents implementing an attention schema as recurrent internal control can also infer other agents' attention and coordinate better (arXiv 2305.17375). These results show the schema is a *useful* designed resource where attention is hard to track—the cautious, better-supported reading—not something that emerges spontaneously in any sufficiently complex system.
 
 ## AST's Handling of the Hard Problem
 
@@ -244,8 +244,8 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Dennett, D.C. (2016). Illusionism as the obvious default theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
 1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
-1. Wilterson, A.I., Kemper, C.M., et al. (2021). The attention schema theory in a neural network agent: controlling visuospatial attention using a descriptive model of attention. *PNAS*, 118(39), e2102421118.
-1. Igelström, K.M. & Graziano, M.S.A. (2021). Attention, awareness, and the right temporoparietal junction. *PNAS*, 118(26), e2026099118.
+1. Wilterson, A.I. & Graziano, M.S.A. (2021). The attention schema theory in a neural network agent: controlling visuospatial attention using a descriptive model of attention. *PNAS*, 118(33), e2102421118.
+1. Wilterson, A.I., Nastase, S.A., Bio, B.J., Guterstam, A. & Graziano, M.S.A. (2021). Attention, awareness, and the right temporoparietal junction. *PNAS*, 118(25), e2026099118.
 1. Graziano, M.S.A. (2022). A conceptual framework for consciousness. *PNAS*, 119(18), e2116933119.
 1. Liu, D., Bolotta, S., et al. (2023). Attention schema in neural agents. arXiv:2305.17375.
 1. ASTOUND Project (2022–2025). Improving social competences of virtual agents through artificial consciousness based on the Attention Schema Theory. Horizon Europe EIC Pathfinder grant 101071191 (CORDIS).

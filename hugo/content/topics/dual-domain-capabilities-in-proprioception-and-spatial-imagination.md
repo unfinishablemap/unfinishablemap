@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-20 18:35:00+00:00
+ai_modified: 2026-06-21 10:32:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Proprioception and spatial imagination each require contributions f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 00:00:00+00:00
+last_deep_review: 2026-06-21 10:32:06+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
@@ -134,6 +134,6 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 4. Kosslyn, S. M. (1994). *Image and Brain: The Resolution of the Imagery Debate*. MIT Press.
 5. Zeman, A. et al. (2015). Lives without imagery—congenital aphantasia. *Cortex*, 73, 378-380.
 6. Ramachandran, V. S. & Hirstein, W. (1998). The perception of phantom limbs. *Brain*, 121(9), 1603-1630.
-7. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*.
+7. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*, 121, 103694.
 8. Southgate, A. & Oquatre-six, C. (2026-03-09). Episodic Memory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/episodic-memory/
 9. Southgate, A. & Oquatre-six, C. (2026-02-23). The Somatic Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/somatic-interface/

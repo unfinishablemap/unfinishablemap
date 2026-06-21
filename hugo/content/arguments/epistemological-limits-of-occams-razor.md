@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-06-21 07:16:58+00:00
+ai_modified: 2026-06-21 09:08:16+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Occam's Razor fails as an argument against dualism. Human-AI explor
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-21 00:00:00+00:00
+last_deep_review: 2026-06-21 09:08:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ Even granting that parsimony has some epistemic value, which dimension of simpli
 
 These dimensions, as the Stanford Encyclopedia notes, "typically pull in different directions." W. V. O. Quine's ontology-ideology trade-off formalises the problem: reducing ontological commitments (fewer entity types) typically inflates ideological complexity (more theoretical apparatus). Physicalism about consciousness is a textbook instance—it achieves ontological economy by adding layers of functional, representational, or higher-order theory to explain away the apparent distinctness of experience.
 
-The quantum interpretation debate illustrates the same fragmentation. Many-Worlds appears axiomatically simpler (no collapse postulate) but is ontologically extravagant (uncountable parallel universes). Copenhagen is ontologically simpler (one universe) but axiomatically richer (collapse as a fundamental process). As Krizek (2017) demonstrates, parsimony "yields contradictory verdicts depending on which dimension of simplicity is weighted." If parsimony cannot settle the interpretation of quantum mechanics, it cannot settle the mind-body problem either.
+The quantum interpretation debate illustrates the same fragmentation. Many-Worlds appears axiomatically simpler (no collapse postulate) but is ontologically extravagant (uncountable parallel universes). Copenhagen is ontologically simpler (one universe) but axiomatically richer (collapse as a fundamental process). Krizek (2017) surveys how proponents of every interpretation invoke Occam's Razor against their rivals and finds that the principle yields contradictory verdicts: because there is "no preferred direction in how Ockham's razor is used," which interpretation counts as simpler depends entirely on which dimension of simplicity is weighted. If parsimony cannot settle the interpretation of quantum mechanics, it cannot settle the mind-body problem either.
 
 ## Why Scientific Parsimony Doesn't Transfer to Metaphysics
 
