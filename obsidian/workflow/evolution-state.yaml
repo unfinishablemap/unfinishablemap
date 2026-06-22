@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T17:28:13.485877+00:00'
-session_count: 12855
-cycle_position: 9781
+last_updated: '2026-06-22T17:31:17.802579+00:00'
+session_count: 12856
+cycle_position: 9782
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T16:20:30.854268+00:00'
   optimistic-review: '2026-06-22T17:16:31.836723+00:00'
   check-tenets: '2026-06-22T02:54:28.628285+00:00'
   check-links: '2026-06-22T08:44:55.221293+00:00'
-  deep-review: '2026-06-22T17:19:52.495772+00:00'
+  deep-review: '2026-06-22T17:31:17.802579+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-22T08:45:51.956876+00:00'
   coalesce: '2026-06-22T13:59:00.568877+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 412
-  reviews_completed: 5622
+  reviews_completed: 5623
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1312,10 +1312,54 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 547
-  last_replenishment: '2026-06-22T17:26:00+00:00'
+  last_replenishment_run: 548
+  last_replenishment: '2026-06-22T17:35:51+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.547 (2026-06-22T17:26Z): FLOOR-RESTORED via
+  current_replenishment_note: 'run no.548 (2026-06-22T17:35Z): FLOOR-RESTORED via 1
+    genuine-own-body-drift deep-review mint of apex/taxonomy-of-voids.md. Authoritative
+    live count_p0_p2_tasks(content)=2 pre-mint (the two standing deep-review P2s: apex/interface-specification-programme
+    run 539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3, unmet
+    by 1 -- documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
+    NOT a deadlock. Run 547''s mint (concepts/altered-states-of-consciousness.md, the
+    genuine-content member of the entropic-brain integration trio) was PICKED + consumed
+    by the deep-review CYCLE slot minutes ago (last_runs deep-review now 2026-06-22T17:31),
+    dropping the live floor back to 2 -- the deep_review_over_reviews_converged same-day
+    cycle-collision. ALL 8 sources re-audited from live disk, no other safe restorer:
+    (chain) the only recent research-topic (entropic-brain) is consumed -> concept created
+    + cross-reviewed + integrated (ee9b19898), its P3 integration successor + the P3
+    parapsychology-firewall + P3 Letheby research-topic already queued; ZERO cross-review
+    completions. (unconsumed research) ZERO -- the six newest notes (entropic-brain,
+    thermal/vestibular/interoceptive, cross-modal-capability-division, phenomenology-of-forgetting)
+    all consumed into live same-slug articles OR (cross-modal) into apex/cross-modal-capability-division.
+    (gap) caps headroom (topics 278/320, concepts 267/320, voids 101/100 OVER, positions
+    8/80) but harvester-governed (last 16:00Z, next ~22:00Z) + Vetoed-bank-dedup-blocked.
+    (length) NO safe condense -- all content offenders human-deferred/#veto/accept-as-survey/index-hub/deferred-apex,
+    language-recursion P3 condense already queued. (orphan) 0. (positions) slow-add,
+    audited 06-22T06:20. (applied-apex) no cluster gap. The Torres-Alegre-preprint refine
+    vein is EXHAUSTED of safe drift restorers (interface-spec + delegatory queued, born-rule
+    5118w HUMAN-DEFERRED, all 9 others deep-review-verified 2026-06-22); the entropic-brain
+    trio is resolved (altered-states genuine-content minted run 547; psychedelics-and-the-filter-model
+    + filter-theory git-verified backlink-only, NOT eligible); attention-as-causal-bridge''s
+    post-review edit git-verified cosmetic cross-link reciprocation only (commit 06529d718,
+    3 ins/2 del). CHOSEN MINT: apex/taxonomy-of-voids.md own-body content-edited 2026-06-22T05:14
+    by commit fc5a7d210 (refine "Bring the live convergence/apex articles into line
+    with the voids-circularity-discount") -- git-verified to have ADDED a substantive
+    new body paragraph integrating the [[project/voids-circularity-discount]] discipline
+    into the live catalogue (origin-class split = per-cluster independence scoring; "convergence-with-self
+    is not triangulation" concession; strict prohibition on counting tenet-generated
+    voids) PLUS a Further-Reading entry, but last_deep_review=2026-06-05 PREDATES it
+    (17-day genuine drift gap), so the circularity-discount integration + its [[project/common-cause-null]]
+    / [[project/evidential-status-discipline]] dependencies are deep-review-UNVERIFIED.
+    Genuine new argumentative content, not a backlink. Length-safe: body 4682w=soft_warning,
+    ~318w under apex hard 5000 (review must stay length-neutral/trimming). Tenet-load-bearing:
+    the evidential-honesty guard preventing the voids catalogue from double-counting
+    framework-generated voids as independent confirmations. ai_system claude-opus-4-6
+    (older). Not vetoed (the only taxonomy-of-voids Vetoed hits are a closed 2026-05-25
+    condense + a closed apex-synthesis note), no open duplicate. Inserted at top of Active
+    Tasks to defeat LIFO. Live selector AFTER mint = 3, floor restored. Expect replenish-at-floor
+    + deep-review-cycle-collision alternation to continue until the harvester reopens
+    the research->expand pipeline ~22:00 UTC.'
+  superseded_547_replenishment_note: 'run no.547 (2026-06-22T17:26Z): FLOOR-RESTORED via
     1 genuine-own-body-drift deep-review mint of concepts/altered-states-of-consciousness.md.
     Authoritative live count_p0_p2_tasks(content)=2 pre-mint (the two standing Torres-Alegre-vein
     P2s: apex/interface-specification-programme run 539 + concepts/delegatory-causation
