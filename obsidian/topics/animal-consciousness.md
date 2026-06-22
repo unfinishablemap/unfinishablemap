@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-22T08:15:00+00:00
+ai_modified: 2026-06-22T11:13:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: 2026-05-25T11:43:34+00:00
-last_deep_review: 2026-06-02T14:04:55+00:00
+last_deep_review: 2026-06-22T11:13:37+00:00
 embedded_videos:
   - id: DnI0-3Z9EQE
     url: https://www.youtube-nocookie.com/embed/DnI0-3Z9EQE
@@ -92,7 +92,7 @@ The **Unlimited Associative Learning (UAL) framework** (Ginsburg & Jablonka 2019
 
 ## Insect Consciousness: The Expanding Frontier
 
-Chittka's *The Mind of a Bee* (2022) documents sophisticated insect cognition: bees roll balls with no apparent reward (consistent with intrinsically motivated play), show "optimistic" and "pessimistic" cognitive biases, and ants adjust rescue behaviour to trapped nestmates' body dimensions. Chittka, Wilson, Solvi et al. (2025, *Phil. Trans. R. Soc. B*) extend the catalogue: young bumblebees engage objects more than older bees (paralleling vertebrate play); comparable behaviour in fruit flies; bees attacked by a simulated predator show persistent affect-like state changes lasting days, possibly aligning with the marker method's valence dimension.
+Chittka's *The Mind of a Bee* (2022) documents sophisticated insect cognition: bees roll balls with no apparent reward (consistent with intrinsically motivated play), show "optimistic" and "pessimistic" cognitive biases, and ants adjust rescue behaviour to trapped nestmates' body dimensions. Chittka et al. (2025, *Phil. Trans. R. Soc. B*) extend the catalogue: young bumblebees engage objects more than older bees (paralleling vertebrate play); comparable behaviour in fruit flies; bees attacked by a simulated predator show persistent affect-like state changes lasting days, possibly aligning with the marker method's valence dimension.
 
 Whether these behaviours require consciousness or admit simpler functional explanations remains debated; the catalogue raises the prior above baseline cognition without settling the case.
 
@@ -232,14 +232,12 @@ Whitehead's process philosophy proposes experience is fundamental—*actual occa
 1. Ginsburg, S. & Jablonka, E. (2020). "Unlimited Associative Learning and the origins of consciousness: a primer and some predictions." *Biology & Philosophy*, 35(56).
 1. Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
 1. Chittka, L. (2022). *The Mind of a Bee*. Princeton University Press.
-1. Chittka, L., Wilson, C., Solvi, C. et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*, 380(1939).
+1. Chittka, L. et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*, 380(1939).
 1. Andrews, K., Birch, J., & Sebo, J. (2025). "Evaluating animal consciousness." *Science*, 387(6735), 822–824.
 1. Bayne, T., Carter, O., & Seth, A. K. (2024). "Tests for consciousness in humans and beyond." *Trends in Cognitive Sciences*, 28(5), 454–466.
 1. Bayne, T., Frohlich, J., Cusack, R., Moser, J., & Naci, L. (2023). "Consciousness in the cradle: on the emergence of infant experience." *Trends in Cognitive Sciences*, 27(12), 1135–1147.
 1. Wandrey, M.-M., & Halina, M. (2025). "The evolution of animal consciousness." *Philosophy Compass*.
 1. Cogitate Consortium (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature* (companion methodological response in *Neuroscience of Consciousness* 2025).
-1. Becerra, D. et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
-1. Bhattacharjee, P. et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Yoo, D. A., et al. (2025). "Complete sequencing of ape genomes." *Nature*, 641, 401-418.

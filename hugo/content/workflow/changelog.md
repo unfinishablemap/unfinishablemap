@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-22T11:13:37+00:00 - deep-review
+- **Status**: Success (eleventh cycle; genuine changed-since-reviewed — today's COGITATE+infant-marker refine; one mechanical critical fix, no philosophical critical issues)
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Word count**: 3999 → 3952 (-47; orphaned-reference removal pulled the article back below the 4000 topics/ hard ceiling it was sitting on)
+- **Critical issues addressed**: 1 — two orphaned references (Becerra et al. 2023 "Conscious Nematode"; Bhattacharjee et al. 2023 "Hydra") cited nowhere in body (condensation residue from the *C. elegans*/Hydra migration to consciousness-in-simple-organisms); removed per §2.4 inline↔reference cross-check.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged, over soft threshold; adding would be oscillation.
+- **Citation web-verify**: Cogitate Consortium 2025 (NEW since last review) — real-correct at *Nature* (DOI 10.1038/s41586-025-08888-1, 30 Apr 2025, n=256, fMRI/MEG/iEEG, GNWT-vs-IIT adversarial). Bayne, Frohlich, Cusack, Moser & Naci 2023 (NEW; infant markers) — real-correct at *Trends in Cognitive Sciences* 27(12), 1135–1147. Bayne, Carter & Seth 2024 inline↔ref pairing re-confirmed. Rest of References block carried from 2026-06-02 full sweep (unchanged). Superlative-currency sweep: no hits.
+- **Resolved (do not re-flag)**: all three 2026-05-25 pessimistic critical issues confirmed resolved in live text — NYD count (599/40), substrate-asymmetry seam (homology privileges inference not metaphysics), No-Many-Worlds reframe (clash of foundational commitments, not refutation).
+- **Engagement**: Frankish (Mode Mixed), Gutfreund/LeDoux (Mode Three honest residue), Carruthers (Mode Two); no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-22-animal-consciousness](/reviews/deep-review-2026-06-22-animal-consciousness/)
+
 ## 2026-06-22T11:03:22+00:00 - deep-review
 - **Status**: Success (converged — genuine changed-since reviewed; no critical issues)
 - **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)

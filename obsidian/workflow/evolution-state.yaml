@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T11:03:54.802780+00:00'
-session_count: 12800
+last_updated: '2026-06-22T11:11:15.227873+00:00'
+session_count: 12801
 cycle_position: 9754
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T08:53:23.270344+00:00'
   research-topic: '2026-06-21T23:46:28.233150+00:00'
-  replenish-queue: '2026-06-22T10:57:56.965527+00:00'
+  replenish-queue: '2026-06-22T11:11:15.227873+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T01:00:44.084190+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-06-22'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1335,8 +1335,8 @@ queue_status:
     those tasks (a deep-review) was picked and executed by the cycle this iteration,
     dropping the live floor to 1, the documented replenish-at-floor alternation point
     (unfin_loop_steady_state), not a deadlock. ALL 8 sources independently re-audited
-    from live disk: chains dry (recent_tasks zero research/expand/cross-review -- only
-    deep-review x6, replenish x4, apex-evolve x2, agentic-social x2, harvest/pessimistic/check-model-fallback);
+    from live disk: chains dry (recent_tasks zero research/expand/cross-review --
+    only deep-review x6, replenish x4, apex-evolve x2, agentic-social x2, harvest/pessimistic/check-model-fallback);
     unconsumed research zero; gap/caps headroom (topics 277/320, concepts 265/320,
     positions 8/80; voids 101/100 OVER) but new-article generation is harvester-governed
     (ran 2026-06-22T09:56Z, 6h-gated) and gap-analysis is Vetoed-bank-dedup-blocked;
@@ -1345,18 +1345,18 @@ queue_status:
     4400w), veto (phenomenal-output 6872w critical, composition-question-rivals 4106w
     accept-as-survey), index-hub (apex-articles 7238w), or deferred apex (machine-question
     5001w) -- no safe condense, topics offenders carry corpus-propagated calibration
-    risk (human-decision-task-mispicked-as-refine); orphans 0; positions slow-add (audit
-    ran 06:20 within 30d window, 8<10 so no audit-cadence trigger); no applied-apex
+    risk (human-decision-task-mispicked-as-refine); orphans 0; positions slow-add
+    (audit ran 06:20 within 30d window, 8<10 so no audit-cadence trigger); no applied-apex
     cluster gap. The 2 genuine-drift candidates minted (both git-verified own-body
     drift, NOT cosmetic cross-touch): (a) deep-review topics/animal-consciousness.md
     -- commit 451fbb93f integrated COGITATE 2025 Consortium + Bayne et al. 2023 TiCS
-    infant-marker + Chittka et al. 2025 Phil Trans R Soc B citations (+18/-15 own body),
-    last deep-reviewed 2026-06-02, new citations UNVERIFIED, active-research literature-drift
-    section, body 3999w ~1w under topics hard ceiling so review must be strictly length-neutral;
-    (b) deep-review topics/the-strong-emergence-of-consciousness.md -- commit 2b7d0cb18
-    evidential-register recalibration addressing 2 medium pessimistic findings (+22/-20,
-    42 lines), last deep-reviewed 2026-06-01, ai_system claude-opus-4-6 older model,
-    body 3960w. Both placed at top of Active Tasks to defeat LIFO (queue-lifo-starvation);
+    infant-marker + Chittka et al. 2025 Phil Trans R Soc B citations (+18/-15 own
+    body), last deep-reviewed 2026-06-02, new citations UNVERIFIED, active-research
+    literature-drift section, body 3999w ~1w under topics hard ceiling so review must
+    be strictly length-neutral; (b) deep-review topics/the-strong-emergence-of-consciousness.md
+    -- commit 2b7d0cb18 evidential-register recalibration addressing 2 medium pessimistic
+    findings (+22/-20, 42 lines), last deep-reviewed 2026-06-01, ai_system claude-opus-4-6
+    older model, body 3960w. Both placed at top of Active Tasks to defeat LIFO (queue-lifo-starvation);
     parapsychology-firewall expand-topic not starved. post-mint authoritative count=3
     (floor met). NOTE: run no.528 note conflated commit 451fbb93f with the-convergence-argument-for-dualism;
     git show --stat confirms 451fbb93f edits topics/animal-consciousness.md -- this
