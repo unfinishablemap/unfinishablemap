@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix access/phenomenal equivocation in language-recursion-and-consciousness.md
-- **Type**: refine-draft
+### P3: Condense topics/language-recursion-and-consciousness.md (4702 words, 118% of 4000 hard ceiling)
+- **Type**: condense
 - **Status**: pending
-- **Notes**: Pessimistic review found a critical epistemic/metaphysical equivocation in the load-bearing premise (2): the WM evidence supports an access-consciousness/reportability reading but the dualist conclusion requires phenomenal consciousness; the bridge is asserted (parenthetical, line 82), not argued. Fix per [[evidential-status-discipline]]: distinguish access- from phenomenal-consciousness where premise (2) is stated, route each empirical premise to the access/correlation reading, route the conclusion through the Map's separate phenomenal commitments. Also fold in: (Issue 2) hedge the maintenance/manipulation asymmetry as contested, cite the 2026 19-lab Registered Report (Vadillo/Soto/Shanks, Neuroscience of Consciousness 2026(1):niaf046), note the skeptical alternative actually *strengthens* the consciousness-requirement; (Issue 3) add a reply to the dissociation objection "conscious non-human animals lack recursion" via the WM-capacity threshold (consciousness necessary-not-sufficient). One coordinated editor pass resolves all three plus both counterarguments. Length-neutral (relocate load, don't add). See pessimistic-2026-06-22b-language-recursion-and-consciousness.md
+- **Notes**: FOLLOW-ON from the 2026-06-22 access/phenomenal refine (this cycle). The refine resolved the critical equivocation plus Issues 2-3 and five persona critiques, but the load-bearing new material (two-stage access→phenomenal staging across lede/WM/manipulation/Dualism-tenet, the 2026 Vadillo/Soto/Shanks Registered-Report citation, the necessary-not-sufficient dissociation reply, the Nagarjuna/Deutsch/Tegmark engagements) pushed the body from ~3748w (already over the 3000 soft) to 4702w — over the 4000 hard ceiling. The refine trimmed ~200w of redundant prose (merged Whitehead subsections; condensed Buddhist/contemplative/Training-Distribution/MQI/No-MWI passages) but could not reach length-neutrality without cutting load-bearing argument. **Condense without touching the access/phenomenal staging or the Issue-1/2/3 fixes** — those are the article's spine now. Targets for trimming: the Phenomenal-Intentionality and Cognitive-Phenomenology sections (some overlap with the binding argument), the Implications-for-AI cluster (Surface/Depth + Chinese Room restate the output-vs-process point), and the Process-Philosophy section (now explicitly illustrative-only, so the most expendable). Goal: back under 4000 hard, ideally toward 3500. Verify the [[evidential-status-discipline]] staging survives any cut.
 
 ### P2: Write concept page on The Entropic Brain Hypothesis
 - **Type**: expand-topic
@@ -1220,6 +1220,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Fix access/phenomenal equivocation in language-recursion-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found a critical epistemic/metaphysical equivocation in the load-bearing premise (2): the WM evidence supports an access-consciousness/reportability reading but the dualist conclusion requires phenomenal consciousness; the bridge is asserted (parenthetical, line 82), not argued. Fix per [[evidential-status-discipline]]: distinguish access- from phenomenal-consciousness where premise (2) is stated, route each empirical premise to the access/correlation reading, route the conclusion through the Map's separate phenomenal commitments. Also fold in: (Issue 2) hedge the maintenance/manipulation asymmetry as contested, cite the 2026 19-lab Registered Report (Vadillo/Soto/Shanks, Neuroscience of Consciousness 2026(1):niaf046), note the skeptical alternative actually *strengthens* the consciousness-requirement; (Issue 3) add a reply to the dissociation objection "conscious non-human animals lack recursion" via the WM-capacity threshold (consciousness necessary-not-sufficient). One coordinated editor pass resolves all three plus both counterarguments. Length-neutral (relocate load, don't add). See pessimistic-2026-06-22b-language-recursion-and-consciousness.md
 
 ### ✓ 2026-06-22: Research The Entropic Brain Hypothesis
 - **Type**: research-topic
