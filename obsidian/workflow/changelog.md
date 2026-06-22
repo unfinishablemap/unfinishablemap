@@ -5,6 +5,20 @@ ai_modified: 2026-06-22T09:00:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T10:21:15+00:00 - apex-evolve (create, applied)
+- **Status**: Complete
+- **Article**: [[apex/embodied-interface]] (new — applied apex A6)
+- **Decision context**: causal status of conscious bodily experience (mental causation, AI candidate-consciousness, clinical interface claims)
+- **Commissioned by**: outer-review 2026-06-22 ChatGPT 5.5 Pro §3.2 + §2.G + improvement #14 (passive-embodiment causal-status tension)
+- **Thesis**: distinguishes causal consciousness / constitutive consciousness / phenomenal presentation so attention-as-selection does not overclaim across the body; most felt embodiment is presentation, not selection (the correct under-claim)
+- **NEW apex not extension**: cross-modal-capability-division at ~4,879w soft-warning (off-limits for growth) and runs a different axis; this runs the causal-status axis it leaves open
+- **Positions cited (≥3, bands in prose)**: P-A1 (moderate), P-Q3 (moderate), P-VS1 (low), P-CS4 (moderate); + P-A4 (high), P-Q10 (high); deep-links `positions/quantum-interface#^mechanism-debt`; cascade-tagged
+- **Word count**: — → 2852 (apex soft 4000 / hard 5000 — ok)
+- **Inbound links added**: thermal, vestibular, somatic-interface, pain source articles (not an orphan)
+- **Checks**: slug-collision + redirect-source clean; all wikilink targets resolve; no banned cliché
+- **Master list**: registered in [[apex/apex-articles]] as applied A6
+- **Review**: [[reviews/apex-evolve-2026-06-22-embodied-interface]]
+
 ## 2026-06-22T09:37:16+00:00 - deep-review
 - **Status**: Success (5th pass; converged — no critical issues; frontmatter timestamp only)
 - **File**: [[apex/altered-states-as-interface-evidence]]

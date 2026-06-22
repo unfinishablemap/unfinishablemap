@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal and epiphenomenalism made u
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-06-01T08:46:15+00:00
+ai_modified: 2026-06-22T10:21:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,6 +41,7 @@ related_articles:
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[somatic-interface]]"
+  - "[[embodied-interface]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[phenomenology-of-cognitive-capacity]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
@@ -179,6 +180,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [[pain-asymbolia]] — The clinical condition and its philosophical significance
 - [[the-epiphenomenalist-threat]] — Why most theories of consciousness default to epiphenomenalism
 - [[somatic-interface]] — Nociception as one channel of the body's interface with consciousness
+- [[embodied-interface]] — The synthesis where pain's inseparability of felt awfulness and causal power defines the *constitutive consciousness* category, distinct from both attention-like selection and passive presentation
 - [[embodied-consciousness]] — Pain's spatial embedding in the lived body and the phenomenological argument for dualism
 - [[consciousness-and-neurodegenerative-disease]] — Pain and phenomenal awareness persisting through neural loss
 - [[phenomenology-of-cognitive-capacity]] — Pain's attention-monopolising quality and the bandwidth of consciousness

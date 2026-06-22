@@ -4,7 +4,7 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-06-21T22:06:00+00:00
 human_modified:
-ai_modified: 2026-06-22T00:00:00+00:00
+ai_modified: 2026-06-22T10:21:15+00:00
 last_deep_review: 2026-06-20T01:15:27+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[interoceptive-consciousness-and-the-interface]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
+  - "[[embodied-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -133,6 +134,7 @@ The three properties together — layered, phenomenal-character-shaping, bidirec
 - [[interoceptive-consciousness-and-the-interface]] — How the accessible visceral channels divide brain-side from mind-side labour, and how interoception inverts the cross-modal capability-division asymmetry
 - [[phenomenal-authority-and-first-person-evidence]] — Three-layer decomposition of warranted trust in first-person reports, parallel in register to the channel structure here
 - [[mechanism-costs-dualism-thickness-quadrants]] — The Map's narrow-probabilistic-channel cell whose anatomy the somatic interface populates
+- [[embodied-interface]] — The synthesis that sorts the somatic interface's channels by causal status: which felt states select, which are inseparable from the work they drive, and which are merely presented
 
 ## References
 

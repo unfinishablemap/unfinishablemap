@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-21
-ai_modified: 2026-06-22 01:30:00+00:00
+ai_modified: 2026-06-22 10:21:15+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[out-of-body-experiences]]'
 - '[[consciousness-and-the-ownership-problem]]'
 - '[[cross-modal-capability-division]]'
+- '[[embodied-interface]]'
 title: Vestibular Consciousness and the Interface
 topics:
 - '[[dualist-perception]]'
@@ -110,6 +111,7 @@ The Map does not claim the vestibular sense settles dualism. It claims this sens
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — the metaphysics of felt mineness that vestibular modulation of ownership presupposes rather than explains
 - [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis; the vestibular sense is the extreme brain-side case, nearly all frame and almost no felt object
 - [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/) — the thermal companion: the boundary case that straddles the exteroceptive/interoceptive line, complementary to the vestibular silent-frame case
+- [embodied-interface](/apex/embodied-interface/) — the synthesis sorting felt embodiment by causal status; the silent vestibular frame is its purest case of phenomenal presentation, owned and load-bearing yet selecting nothing
 
 ## References
 

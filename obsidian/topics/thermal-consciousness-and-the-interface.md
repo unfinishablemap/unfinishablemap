@@ -4,7 +4,7 @@ description: "Temperature is the modality where felt valence is least separable 
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-06-22T08:52:41+00:00
+ai_modified: 2026-06-22T10:21:15+00:00
 last_deep_review: 2026-06-22T01:52:00+00:00
 draft: false
 topics:
@@ -26,6 +26,7 @@ related_articles:
   - "[[chemosensory-consciousness-and-the-interface]]"
   - "[[embodied-consciousness]]"
   - "[[cross-modal-capability-division]]"
+  - "[[embodied-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
@@ -103,6 +104,7 @@ The Map does not claim thermoception settles dualism. It claims this modality is
 - [[vestibular-consciousness-and-the-interface]] — the vestibular companion; the silent-frame limiting case, complementary to thermoception's boundary-straddling one
 - [[evaluative-phenomenal-character]] — the claim that some phenomenal character is constitutively evaluative; thermoception supplies the cleanest *state-indexed* case
 - [[cross-modal-capability-division]] — the cross-modal synthesis whose exteroceptive/interoceptive asymmetry thermoception tests, turning a dichotomy into a gradient
+- [[embodied-interface]] — the synthesis that asks what consciousness is *doing* across the felt body; ambient thermal comfort is one of its clearest cases of passive phenomenal presentation rather than causal selection
 - [[embodied-consciousness]] — the felt body whose thermoregulatory condition fixes thermal valence
 - [[somatic-interface]] — the bodily interface through which thermal feeling is presented as owned
 

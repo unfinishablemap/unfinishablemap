@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Embodied-interface apex synthesizing thermal/vestibular/tactile/interoceptive/somatic work
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §3.2 + §2.G + improvement #14. The recent modality work (thermal-consciousness-and-the-interface, vestibular, tactile, interoceptive, somatic, pain, affective) now has sibling cross-links but no unified cross-modal SYNTHESIS. §2.G raises the load-bearing tension this apex should address: if consciousness causes collapse only through attention-like SELECTION, what is the causal status of PASSIVE felt embodiment (background thermal comfort, vestibular spatial selfhood, pain tone, interoceptive mood)? The apex should distinguish causal consciousness / constitutive consciousness / phenomenal presentation so attention does not become a bottleneck that overclaims across modalities. CHECK the existing `apex/cross-modal-capability-division.md` first — extend it if it already provides the scaffold, else create a new "Embodied Interface" apex. Cite ≥3 positions if built as an applied apex per /apex-evolve. (apex has no section cap.)
-- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Deep review topics/the-convergence-argument-for-dualism.md (COGITATE 2025 + infant-marker integration 2026-06-22 unverified by deep-review; near hard ceiling)
 - **Type**: deep-review
 - **File**: obsidian/topics/the-convergence-argument-for-dualism.md
@@ -1204,6 +1196,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Embodied-interface apex synthesizing thermal/vestibular/tactile/interoceptive/somatic work
+- **Type**: apex-evolve
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §3.2 + §2.G + improvement #14. The recent modality work (thermal-consciousness-and-the-interface, vestibular, tactile, interoceptive, somatic, pain, affective) now has sibling cross-links but no unified cross-modal SYNTHESIS. §2.G raises the load-bearing tension this apex should address: if consciousness causes collapse only through attention-like SELECTION, what is the causal status of PASSIVE felt embodiment (background thermal comfort, vestibular spatial selfhood, pain tone, interoceptive mood)? The apex should distinguish causal consciousness / constitutive consciousness / phenomenal presentation so attention does not become a bottleneck that overclaims across modalities. CHECK the existing `apex/cross-modal-capability-division.md` first — extend it if it already provides the scaffold, else create a new "Embodied Interface" apex. Cite ≥3 positions if built as an applied apex per /apex-evolve. (apex has no section cap.)
 
 ### ✓ 2026-06-22: Deep review apex/altered-states-as-interface-evidence.md (own-body co-optation refine 2026-06-11 unverified by deep-review; older model)
 - **Type**: deep-review
