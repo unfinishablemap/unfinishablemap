@@ -5,6 +5,16 @@ ai_modified: 2026-06-22T22:36:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T23:05:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Word count**: 3499 → 3495 (-4, length-neutral)
+- **Critical issues addressed**: 1 (Frankish "What is Illusionism?" Klesis cited with wrong year 2021→2023; verified at publisher of record + Frankish CV; family-fixed across illusionism.md, functional-seeming.md, research note)
+- **Medium issues addressed**: 1 (Graziano 2024 eNeuro reference title truncated; restored full "Illusionism Big and Small: Some Options for Explaining Consciousness")
+- **Enhancements made**: 2 (citation-correctness)
+- **Notes**: Ninth review, CHANGED-SINCE-REVIEW (three 06-09 outer-review refines + 06-18 orphan-integration since the 06-02 review rewrote the References block, so a full §2.4 publisher web-verify was mandatory). Per-cite ledger of all changed/added citations in the review archive: Frankish 2016/2023, Gorbachev&Frankish 2025, Shabasson 2022, Graziano 2024, Kammerer 2022b/2025, Pereboom 2016, Strawson 2018 — all verified at publisher of record. The 06-09 refines' own fixes (removed misquoted Frankish "entity eliminativism", removed unsupported Chalmers-2022 claim, replaced fabricated Pereboom&Frankish-2021 with real Pereboom-2016, corrected Graziano venue) all confirmed sound. The wrong Klesis year survived the 06-09 refines AND the 06-02 deep review because intra-corpus consistency ratified it across three files — caught only by the live publisher pass. Engagements: Frankish Mode Two deepening to Mode Three (intrinsic-quality residue); natural prose, no label leakage (scanned clean). `find_superlative_claims` empty. Length-neutral per calibration-anchor discipline (no structural condense). Stable, high-quality article.
+- **Output**: [[reviews/deep-review-2026-06-22-illusionism]]
+
 ## 2026-06-22T22:49:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/empirical-evidence-for-consciousness-selecting]]

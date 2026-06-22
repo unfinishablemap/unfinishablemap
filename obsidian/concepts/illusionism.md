@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-06-09T07:06:35+00:00
+ai_modified: 2026-06-22T23:05:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-02T00:39:19+00:00
+last_deep_review: 2026-06-22T23:05:25+00:00
 ---
 
 Illusionism is the most radical physicalist response to the [[hard-problem-of-consciousness|hard problem]]. Rather than explaining how [[phenomenal-consciousness]] arises from physical processes, illusionists deny that it exists at all. The "what it's like" aspect of experience—the redness of red, the painfulness of pain—is, on this view, an introspective illusion.
@@ -59,7 +59,7 @@ Illusionism is the eliminativist strand of physicalism targeting phenomenal cons
 
 Keith Frankish and Daniel Dennett, illusionism's leading defenders, hold that we *seem* to have experiences with special qualitative properties ([[qualia]]), but this seeming is itself a misrepresentation. Frankish is careful that illusionism denies phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties—not consciousness in every functional or everyday sense; the illusionist still grants that we discriminate, react, and report. Dennett's [[heterophenomenology]]—treating consciousness reports as third-person data rather than privileged first-person access—provides the methodological foundation.
 
-Frankish (2021) distinguishes three conceptions of qualia: **classic qualia** (ineffable, intrinsic, private), **zero qualia** (minimal functional states carrying no theoretical commitments), and **diet qualia** (retaining some mystery while deflating stronger claims). Illusionists accept zero qualia but reject classic and diet qualia as introspective artefacts. The taxonomy reveals how the debate talks past itself: anti-illusionists defend zero qualia (which illusionists don't deny) while illusionists attack classic qualia (which few hold in strongest form).
+Frankish (2023) distinguishes three conceptions of qualia: **classic qualia** (ineffable, intrinsic, private), **zero qualia** (minimal functional states carrying no theoretical commitments), and **diet qualia** (retaining some mystery while deflating stronger claims). Illusionists accept zero qualia but reject classic and diet qualia as introspective artefacts. The taxonomy reveals how the debate talks past itself: anti-illusionists defend zero qualia (which illusionists don't deny) while illusionists attack classic qualia (which few hold in strongest form).
 
 ## The Illusion Problem
 
@@ -101,7 +101,7 @@ Even if illusionism relocates the hard problem to a [[meta-problem-of-consciousn
 
 ## The Illusionist Response: Functional Seeming
 
-The strongest illusionist defence is Frankish's argument that phenomenal properties are not intrinsic qualities of experience but functional roles—[[functional-seeming]] (see that page for the full treatment and the Map's objections). Where dualists hold that the redness of red is an intrinsic property irreducible to any functional description, Frankish (2016, 2021) contends that "phenomenal properties" reduce entirely to dispositions to judge, report, and react as if phenomenally conscious.
+The strongest illusionist defence is Frankish's argument that phenomenal properties are not intrinsic qualities of experience but functional roles—[[functional-seeming]] (see that page for the full treatment and the Map's objections). Where dualists hold that the redness of red is an intrinsic property irreducible to any functional description, Frankish (2016, 2023) contends that "phenomenal properties" reduce entirely to dispositions to judge, report, and react as if phenomenally conscious.
 
 The mechanism is **quasi-phenomenal properties**: non-phenomenal physical properties of inner states that introspection systematically misrepresents as phenomenal. Frankish develops this through the **distortion thesis**—introspective *access* is real, but introspective *interpretation* is flawed, like pre-scientific theories positing phlogiston; Shabasson (2022) gives a "false inference" version, and Gorbachev and Frankish (2025) its current taxonomy. Kammerer (2022b) adds that the illusion is "rich," persisting regardless of one's beliefs about its reality—a feature he attributes to introspective opacity rather than phenomenal access.
 
@@ -115,7 +115,7 @@ The 2020s illusionist programme is alive on this question, not stalled. Frankish
 
 ### Where the Functional Account Falls Short
 
-The functional-seeming move, in its meta-representational form, is the best version of illusionism available and deserves engagement on its own terms. Even so, it faces problems the access/interpretation distinction does not resolve—problems that trace to the gap the Map's [[tenets#^dualism|Dualism tenet]] identifies between what experience *does* (its functional role) and what it *is* (its intrinsic character). The five objections operate in different registers. Vantage-point, zombie convergence, self-representation, and seeming/processing all press Frankish using commitments his own framework endorses (mechanism, evidence, representational structure)—the self-representation objection meeting the meta-representational bridge where it is weakest—while the intrinsic-quality objection runs through dualism and is honestly noted as framework-boundary disagreement rather than dressed as refutation inside materialism. The [[functional-seeming]] article develops the first three in detail; the following summarises all five.
+The functional-seeming move, in its meta-representational form, is the best version of illusionism available. Even so, it faces problems the access/interpretation distinction does not resolve—problems that trace to the gap the Map's [[tenets#^dualism|Dualism tenet]] identifies between what experience *does* (its functional role) and what it *is* (its intrinsic character). The five objections operate in different registers. Vantage-point, zombie convergence, self-representation, and seeming/processing all press Frankish using commitments his own framework endorses (mechanism, evidence, representational structure)—the self-representation objection meeting the meta-representational bridge where it is weakest—while the intrinsic-quality objection runs through dualism and is honestly noted as framework-boundary disagreement rather than dressed as refutation inside materialism. The [[functional-seeming]] article develops the first three in detail; the following summarises all five.
 
 **The vantage-point problem.** The distortion thesis analogises introspective error to phlogiston-style theoretical error. But combustion scientists had independent evidence (oxygen experiments) to reveal the distortion. For consciousness, no independent vantage point exists—the seeming itself is all the evidence available. Whether neuroscience describes the phenomenon introspection accesses, or merely its physical correlates, is what is at issue.
 
@@ -143,7 +143,7 @@ Illusionism would be undermined if:
 
 ## Structural Convergence with Epiphenomenalism
 
-Illusionism and [[concepts/epiphenomenalism|epiphenomenalism]] present themselves as opposites—one denies phenomenal consciousness exists, the other grants it but denies it causes anything—yet both converge: phenomenal properties play no causal role in producing our reports about them. Under epiphenomenalism the brain state causes both experience and report, leaving the experience idle; under illusionism it causes a quasi-phenomenal representation plus the report. Either way the "what it's like" is causally excluded. Frankish has a reply: the representational and functional work *is* the causal contribution, so no further "what it's like" is left over to be rendered idle and the epiphenomenalist parallel never grips. On the illusionist's own terms the convergence dissolves. The Map presses past this only by holding the residue Frankish relabels is real—which the convergence argument assumes rather than establishes. Like the [[functional-seeming]] page, it earns its force only given prior phenomenal-realist commitments.
+Illusionism and [[concepts/epiphenomenalism|epiphenomenalism]] present themselves as opposites—one denies phenomenal consciousness exists, the other grants it but denies it causes anything—yet both converge: phenomenal properties play no causal role in producing our reports about them. Under epiphenomenalism the brain state causes both experience and report, leaving the experience idle; under illusionism it causes a quasi-phenomenal representation plus the report. Either way the "what it's like" is causally excluded. Frankish has a reply: the representational and functional work *is* the causal contribution, so no further "what it's like" is left over to be rendered idle and the parallel never grips. On the illusionist's own terms the convergence dissolves. The Map presses past this only by holding the residue Frankish relabels is real—which the convergence argument assumes rather than establishes. Like the [[functional-seeming]] page, it earns its force only given prior phenomenal-realist commitments.
 
 The [[self-stultification-as-master-argument|self-stultification argument]] applies on the same proviso: granting phenomenal realism, the illusionist cannot claim their position is *informed by* careful attention to the character of experience, since on their view experience has no such character. Frankish denies the proviso—there is nothing to attend to—so the charge marks where the Map and the illusionist part company rather than refuting him within his framework. Granted the residue is real, the causal picture is the same whether consciousness exists but is inert or doesn't exist as conceived: illusionism has renamed the hard problem rather than dissolving it.
 
@@ -192,9 +192,9 @@ Illusionism directly challenges the Map's [[tenets]]:
 - Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 - Dennett, D. C. (2017). *From Bacteria to Bach and Back: The Evolution of Minds*. W. W. Norton.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39. (Target article and Frankish's replies to commentators in the same symposium issue.)
-- Frankish, K. (2021). "What is Illusionism?" *Klesis*, 55.
+- Frankish, K. (2023). "What is Illusionism?" *Klesis*, 55.
 - Gorbachev, M. & Frankish, K. (2025). "Illusionism and the distortion thesis." *Synthese*, 205(6), 247.
-- Graziano, M. S. A. (2024). "Some Options for Explaining Consciousness." *eNeuro*, 11(10), ENEURO.0210-24.2024.
+- Graziano, M. S. A. (2024). "Illusionism Big and Small: Some Options for Explaining Consciousness." *eNeuro*, 11(10), ENEURO.0210-24.2024.
 - Kammerer, F. (2017). "Can you believe it? Illusionism and the illusion meta-problem." *Philosophical Psychology*, 31(1).
 - Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*, 179(9), 2845-2867.
 - Kammerer, F. (2022b). "How Rich is the Illusion of Consciousness?" *Erkenntnis*, 87(2), 499-515.
