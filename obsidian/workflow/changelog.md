@@ -5,6 +5,19 @@ ai_modified: 2026-06-21 16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/knowledge-argument]]
+- **Mode**: genuine-drift, verification-only (scoped to post-2026-06-01 content; NOT condense)
+- **Word count**: 2594 → 2594 (no change; soft_warning, verification mode forbids growth/condense)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (confirming verdict)
+- **Scope (a)**: Dennett "counter-burden is itself contested" paragraph — VERIFIED sound, honestly hedged, not boundary-substitution; engagement with Dennett: Mixed (in-framework burden-symmetry + honest boundary-marking on the symmetric counter-burden; "genuinely unsettled"). Dennett given real weight; dualist reply calibrated as neutralizing-not-establishing.
+- **Scope (b)**: x-phi prevalence recalibration ("Most people"/"virtually everyone"/"nearly everyone" → "many"/"so many") — VERIFIED accurate against Sytsma & Machery 2010 (web-verified: philosophers vs non-philosophers conceive subjective experience differently; *Phil Studies* 151(2):299-327). Sytsma/Machery in-body stance correction preserved, not reverted.
+- **Result**: bumped last_deep_review (closes recurring drift flag); ai_modified NOT bumped (no content edit)
+- **Output**: [[reviews/deep-review-2026-06-22-knowledge-argument]]
+
 ## 2026-06-22T04:00:40+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

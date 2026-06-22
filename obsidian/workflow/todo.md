@@ -119,13 +119,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-22
 
-### P2: Deep review concepts/knowledge-argument.md (genuine-drift: 2026-06-21 refine content unreviewed since 2026-06-01)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/knowledge-argument.md
-- **Notes**: FLOOR-RESTORING genuine-drift mint (replenish run 522, salvaged inline after the replenish fork abandoned; converged rec from TWO independent genuine-drift audits this session). `last_deep_review: 2026-06-01` < `ai_modified: 2026-06-21` — the 2026-06-21 refine (commit 29deefe36 + the Sytsma stance fix) added substantive own-body content that has NEVER been deep-reviewed. SCOPE the review to that unreviewed content only: (a) the NEW Dennett "counter-burden is itself contested" paragraph — verify the argument is sound, honestly hedged, and not boundary-substitution ([[direct-refutation-discipline]]); (b) the recalibrated intuition-prevalence claims ("Most people"/"virtually everyone"/"nearly everyone" softening) — confirm accurate against the x-phi literature. **DO NOT RE-LITIGATE (already web-verified this session — [[barrett-2021-eight-vs-six-propagated]] flip-flop guard):** the Jackson 2003 "Mind and Illusion" cite is CORRECT (O'Hear ed., *Minds and Persons*, Cambridge UP, 2003; "By 2003" is defensible — do NOT flip to 2004); the Sytsma & Machery 2010 cite metadata is verified (*Phil Studies* 151(2):299-327) and its in-body STANCE was already corrected this session to "philosophers and non-philosophers conceive of subjective experience differently" (do NOT revert to a Mary's-room-specific claim). LENGTH: concepts soft 2500 / hard 3500; currently 2594w soft_warning — verification mode, NOT condense. LICENSE TO NO-OP: a confirming verdict is fine if the Dennett paragraph + prevalence claims hold up; the pass also bumps `last_deep_review` past `ai_modified`, closing the recurring drift flag. Source: replenish (genuine-drift).
-- **Generated**: 2026-06-22
-
 ### P2: Adopt explanatory-gap calibration in thermal-consciousness-and-the-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -136,7 +129,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-22
-
 
 ### ✓ 2026-06-21 RESOLVED-ALREADY-COVERED: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
 - **Resolution**: Closed by /replenish-queue run no.492 (2026-06-21) on grep-verification. The optimistic-review "0 refs" reading is STALE ([[out-of-scope-spillover-flags-stale]]): `voids/capability-division-problem.md` ALREADY links back to the dual-domain article in BOTH a substantive body cross-link (line 78: "**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema… and the body image…") AND its Further Reading list (line 137). The reciprocal cross-link the review asked for already exists; running a refine would be a confused no-op. No edit needed.
@@ -1282,6 +1274,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Deep review concepts/knowledge-argument.md (genuine-drift: 2026-06-21 refine content unreviewed since 2026-06-01)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING genuine-drift mint (replenish run 522, salvaged inline after the replenish fork abandoned; converged rec from TWO independent genuine-drift audits this session). `last_deep_review: 2026-06-01` < `ai_modified: 2026-06-21` — the 2026-06-21 refine (commit 29deefe36 + the Sytsma stance fix) added substantive own-body content that has NEVER been deep-reviewed. SCOPE the review to that unreviewed content only: (a) the NEW Dennett "counter-burden is itself contested" paragraph — verify the argument is sound, honestly hedged, and not boundary-substitution ([[direct-refutation-discipline]]); (b) the recalibrated intuition-prevalence claims ("Most people"/"virtually everyone"/"nearly everyone" softening) — confirm accurate against the x-phi literature. **DO NOT RE-LITIGATE (already web-verified this session — [[barrett-2021-eight-vs-six-propagated]] flip-flop guard):** the Jackson 2003 "Mind and Illusion" cite is CORRECT (O'Hear ed., *Minds and Persons*, Cambridge UP, 2003; "By 2003" is defensible — do NOT flip to 2004); the Sytsma & Machery 2010 cite metadata is verified (*Phil Studies* 151(2):299-327) and its in-body STANCE was already corrected this session to "philosophers and non-philosophers conceive of subjective experience differently" (do NOT revert to a Mary's-room-specific claim). LENGTH: concepts soft 2500 / hard 3500; currently 2594w soft_warning — verification mode, NOT condense. LICENSE TO NO-OP: a confirming verdict is fine if the Dennett paragraph + prevalence claims hold up; the pass also bumps `last_deep_review` past `ai_modified`, closing the recurring drift flag. Source: replenish (genuine-drift).
 
 ### ✓ 2026-06-22: Add reciprocal cross-links to topics/vestibular-consciousness-and-the-interface.md
 - **Type**: integrate-orphan
