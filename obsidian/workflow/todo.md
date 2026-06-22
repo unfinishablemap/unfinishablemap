@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate COGITATE 2025 + infant-marker literature into the convergence and animal/machine clusters
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/animal-consciousness.md
-- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 4 + Remediation A.10. Two web-verified 2023–2025 results the named articles do not yet engage (3-STATE DISCIPLINE: COGITATE is already cited in ~10 corpus articles incl `experimental-consciousness-science-2025-2026` and `falsification-roadmap-for-the-interface-model` — but is ABSENT from `the-convergence-argument-for-dualism` and the `machine-question` apex, where the reviewer wants it; Bayne 2023 is ABSENT from `animal-consciousness`). (a) **Cogitate Consortium**, "Adversarial testing of global neuronal workspace and integrated information theories of consciousness," *Nature* 642(8066):133–142 (5 Jun 2025), DOI 10.1038/s41586-025-08888-1, PMID 40307561 (verified) — BOTH leading physicalist theories took empirical damage (posterior cortex sufficient; PFC/global-broadcasting not necessary; GNWT lacked offset-ignition). Engage SYMMETRICALLY per constrain-vs-establish: it neither confirms dualism nor is the "physicalism predicts the gaps will close" win the convergence article frames. (b) **Bayne, Frohlich, Cusack, Moser & Naci**, "Consciousness in the cradle," *Trends Cogn. Sci.* (2023), `S1364-6613(23)00214-0` (verified) — marker-based early-onset case; integrate into the animal/infant cluster as a live constraint. The reviewer's strategic inference worth pursuing: build a "minimal/bare dualism" spine (animal/infant/AI irreducibility) that survives even if the quantum-interface programme is demoted to coherence-only — this is the project's hedge against its deepest vulnerability. Keep edits surgical; respect length ceilings; web-verify any FURTHER new cite before adding ([[ai_citation_metadata_unreliable]]).
-- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Reconcile Tenet 4 (No Many-Worlds) home-page framing with the tenets-page subjecthood concession
 - **Type**: refine-draft
 - **Status**: pending
@@ -1273,6 +1264,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Integrate COGITATE 2025 + infant-marker literature into the convergence and animal/machine clusters
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 4 + Remediation A.10. Two web-verified 2023–2025 results the named articles do not yet engage (3-STATE DISCIPLINE: COGITATE is already cited in ~10 corpus articles incl `experimental-consciousness-science-2025-2026` and `falsification-roadmap-for-the-interface-model` — but is ABSENT from `the-convergence-argument-for-dualism` and the `machine-question` apex, where the reviewer wants it; Bayne 2023 is ABSENT from `animal-consciousness`). (a) **Cogitate Consortium**, "Adversarial testing of global neuronal workspace and integrated information theories of consciousness," *Nature* 642(8066):133–142 (5 Jun 2025), DOI 10.1038/s41586-025-08888-1, PMID 40307561 (verified) — BOTH leading physicalist theories took empirical damage (posterior cortex sufficient; PFC/global-broadcasting not necessary; GNWT lacked offset-ignition). Engage SYMMETRICALLY per constrain-vs-establish: it neither confirms dualism nor is the "physicalism predicts the gaps will close" win the convergence article frames. (b) **Bayne, Frohlich, Cusack, Moser & Naci**, "Consciousness in the cradle," *Trends Cogn. Sci.* (2023), `S1364-6613(23)00214-0` (verified) — marker-based early-onset case; integrate into the animal/infant cluster as a live constraint. The reviewer's strategic inference worth pursuing: build a "minimal/bare dualism" spine (animal/infant/AI irreducibility) that survives even if the quantum-interface programme is demoted to coherence-only — this is the project's hedge against its deepest vulnerability. Keep edits surgical; respect length ceilings; web-verify any FURTHER new cite before adding ([[ai_citation_metadata_unreliable]]).
 
 ### ✓ 2026-06-22: Engage active-inference theory of consciousness as a NAMED rival (not just a mechanism)
 - **Type**: refine-draft

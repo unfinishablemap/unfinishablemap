@@ -5,6 +5,24 @@ ai_modified: 2026-06-22 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T08:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/animal-consciousness]], [[topics/the-convergence-argument-for-dualism]] (apex/machine-question deferred — see below)
+- **Source**: outer review 2026-06-22 (Claude Opus 4.8), Deliverable 4 + Remediation A.10 ([[reviews/outer-review-2026-06-22-claude-opus-4-8]]). Integrate two web-verified-real cites into articles that did not yet engage them. Both pre-verified this cycle by the review's Verification Notes (no re-verify): Cogitate Consortium, "Adversarial testing of GNWT and IIT," *Nature* 642(8066):133–142 (2025), DOI 10.1038/s41586-025-08888-1; Bayne, Frohlich, Cusack, Moser & Naci, "Consciousness in the cradle," *Trends Cogn. Sci.* 27(12):1135–1147 (2023).
+- **3-state discipline (grepped each target first)**: Bayne-2023-cradle confirmed ABSENT from animal-consciousness (it cited Bayne/Carter/Seth 2024 but not the 2023 infant paper); Cogitate confirmed ABSENT from the convergence article and from the machine-question apex. Cogitate was already present in animal-consciousness (line ~119 + ref) so NOT re-added there.
+- **Changes — animal-consciousness** (3890w → 3999w, soft_warning, 1w under hard 4000):
+  - Added Bayne 2023 cradle into the Marker Method section as a parallel application of the marker method to the developmental/infant case ("likely in place by 3–4 months… perhaps before birth"), framed as a *live constraint, not an independent confirmation* per [[evidential-status-discipline]]: the infant removes the cross-species inference gap but still routes through markers calibrated on the verbal adult, inheriting the standing agnostic challenge. Developmental + animal = one method, not two confirmations.
+  - Reference entry added (Bayne et al. 2023, *TiCS* 27(12):1135–1147).
+  - **Compression-offset**: the ~50w surgical addition + ref pushed past hard 4000, so trimmed redundant clauses across the LLM-marker, UAL, bee-cognition, Godfrey-Smith, void-of-experience, bat, deflationary-rival, moral-status sections to land 1w under. No load-bearing content removed.
+- **Changes — the-convergence-argument-for-dualism** (3984w, only 16w under hard 4000 → 3997w, soft_warning):
+  - Added a compact SYMMETRIC Cogitate engagement to "What Convergence Does Not Prove" (constrain-vs-establish): both leading physicalist theories (GNWT, IIT) took empirical damage in the n=256 adversarial test, but by [[evidential-status-discipline|constrain-vs-establish]] this neither confirms dualism nor is the "physicalism predicts the gaps will close" vindication — the philosophical-argument convergence the article tracks is untouched by setbacks for particular neural theories.
+  - Reference entry added (Cogitate Consortium 2025, *Nature* 642(8066):133–142).
+  - **Compression-offset (substantial — ~125w gross added, needed ~139w of offset)**: per the task's fallback guardrail, compressed the symmetric note to a single load-bearing paragraph and offset across redundant prose in the intro, Why-Convergence-Matters, Bayesian/cluster, phenomenal-concept-variants, common-cause-objection, dualist-intuition / conceptual-confusion / cognitive-closure hypotheses, cross-traditional, From-Irreducibility (panpsychism/neutral-monism/selection), Coherence-Across-Routes, vitalism, and Relation-to-Site sections. No load-bearing calibration cut; the article's filter/convergence argument and conclusion preserved intact.
+- **Apex (machine-question.md) — DEFERRED, body untouched**: the apex is at 5001w, ALREADY OVER the apex hard ceiling (5000) and is a known not-auto-condensable flagship (human length decision pending). Cogitate is already cited in ~10 corpus articles; the apex does not need it badly enough to push further over the ceiling. No frontmatter related_articles link added either — Cogitate is a citation, not an internal article, so there is no length-neutral wikilink to add (would be a broken link). Per Remediation A.10, the Cogitate engagement in the apex is deferred pending the human length decision on the over-ceiling apex.
+- **Engagement classification (changelog only; no labels in article prose)**: the Cogitate engagement is **Mode Three / framework-boundary** in both articles — it marks honestly that an empirical result striking against specific physicalist *mechanisms* does not, by constrain-vs-establish, establish the non-physical alternative; no claim to in-framework refutation.
+- **Checks**: no "This is not X. It is Y." cliché and no editor-vocabulary leakage in either body (grep clean); validate.py ✓ Valid on both; both under their hard length ceilings; per-file ai_modified bumped (2026-06-22).
+- **Published**: yes (draft: false retained on both)
+
 ## 2026-06-22T06:51:22+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/predictive-processing-and-dualism]]
