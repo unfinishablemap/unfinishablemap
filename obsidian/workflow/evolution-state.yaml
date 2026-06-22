@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T10:57:56.965527+00:00'
-session_count: 12799
-cycle_position: 9753
+last_updated: '2026-06-22T11:03:54.802780+00:00'
+session_count: 12800
+cycle_position: 9754
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T10:10:25.893050+00:00'
   optimistic-review: '2026-06-22T06:41:54.791707+00:00'
   check-tenets: '2026-06-22T02:54:28.628285+00:00'
   check-links: '2026-06-22T08:44:55.221293+00:00'
-  deep-review: '2026-06-22T10:47:00.828894+00:00'
+  deep-review: '2026-06-22T11:03:54.802780+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-22T08:45:51.956876+00:00'
   coalesce: '2026-06-22T07:29:00.445632+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 411
-  reviews_completed: 5603
+  reviews_completed: 5604
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-22'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1318,50 +1318,50 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 3
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 2
+  loop_pickable_open: 3
   replenishment_source_counts:
-    staleness: 0
-  last_replenishment_run: 528
-  last_replenishment: '2026-06-22T10:42:00+00:00'
+    staleness: 2
+  last_replenishment_run: 529
+  last_replenishment: '2026-06-22T11:10:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.528 (2026-06-22T10:42Z): NO-MINT floor audit
-    at count=2 (floor 3, unmet by 1) -- DISTINCT from runs 524-527 which each force-minted
-    a fresh-create/own-body deep-review; that vein is now exhausted. Authoritative
-    live tools.evolution.task_selector.count_p0_p2_tasks=2, select_queue_task returns
-    the convergence-argument deep-review (pickable). The two genuine pickable P2s:
-    (a) deep-review topics/the-convergence-argument-for-dualism.md -- git-verified
-    GENUINE own-body drift (commit 451fbb93f integrated COGITATE 2025 + infant-marker
-    literature, 59-line body change, last deep-reviewed 2026-06-02, unverified); (b)
-    parapsychology-firewall expand-topic from the 2026-06-22 ChatGPT outer review.
-    ALL 8 sources independently re-audited from live disk: chains dry (recent_tasks
-    zero research/expand/cross-review -- 4 deep-review, 4 replenish-queue, 2 refine,
-    2 apex-evolve, 2 agentic-social, no chain); unconsumed research zero (3 newest
-    notes thermal/vestibular/interoceptive all consumed into live same-slug topics/
-    articles); gap/caps headroom (topics 277/320, concepts 265/320, positions 8/80;
-    voids 101/100 OVER) but harvester-governed (ran 2026-06-22T09:56Z, 6h-gated, next
-    ~15:56Z) and Vetoed-bank-dedup-blocked; staleness>=30d ZERO; genuine-drift has
-    170 rows but every top NON-QUEUED candidate is git-verified COSMETIC sibling cross-touch
-    (pain-consciousness + somatic-interface + evaluative-phenomenal-character bumped
-    by apex-evolve embodied-interface cross-link 18ddfb84b / deep-review reciprocal
-    6e217c930; born-rule is HUMAN-LENGTH-DECISION-protected; 08:28:08/10:21:15 batch
-    timestamps = embed/sync passes -- replenish-false-exhaustion-mislabeled-drift
-    does NOT apply, drift genuinely cosmetic); fresh-create source FULLY CONSUMED
-    (all 3 of todays apex creates -- embodied-interface, born-preserving-causal-efficacy,
-    cross-modal-capability-division -- already deep-reviewed, zero apex with empty
-    last_deep_review); length offenders all veto/DEFERRED-TO-HUMAN/HUMAN-LENGTH-DECISION/index-hub/trim-noise
-    (minting = replenish-overmints-condense + deep-review-over-reviews-converged churn
-    anti-patterns); orphans 0; positions 8/80 slow-add (3 fresh entries today are
-    register entries not deep-reviewable; audit ran 06:20 within 30d window; 8<10
-    so no audit-cadence trigger; todays coalesce commits fd0876762/4bc0a769e were
-    empty cycle slots, moved no Argued-in article, so no positions-evolve update);
-    no applied-apex cluster gap (embodied-interface applied apex created+reviewed
-    today). NET: NO MINT -- leave the floor sub-restored at 2 rather than force a
-    churn task. The cycles own deep-review/coalesce/pessimistic/optimistic slots plus
-    the harvester (~15:56Z) carry the loop. Expect replenish-at-floor alternation
-    (unfin_loop_steady_state) until the harvester reopens the research-to-expand pipeline.'
+  current_replenishment_note: 'run no.529 (2026-06-22T11:10Z): MINTED 2 floor-restoring
+    genuine-drift deep-reviews at count=1 (floor 3, unmet by 2). Authoritative live
+    tools.evolution.task_selector.count_p0_p2_tasks=1 pre-mint -- the only genuine
+    pickable P2 was the parapsychology-firewall expand-topic from the 2026-06-22 ChatGPT
+    outer review; the prior run no.528 left the floor sub-restored at 2 but one of
+    those tasks (a deep-review) was picked and executed by the cycle this iteration,
+    dropping the live floor to 1, the documented replenish-at-floor alternation point
+    (unfin_loop_steady_state), not a deadlock. ALL 8 sources independently re-audited
+    from live disk: chains dry (recent_tasks zero research/expand/cross-review -- only
+    deep-review x6, replenish x4, apex-evolve x2, agentic-social x2, harvest/pessimistic/check-model-fallback);
+    unconsumed research zero; gap/caps headroom (topics 277/320, concepts 265/320,
+    positions 8/80; voids 101/100 OVER) but new-article generation is harvester-governed
+    (ran 2026-06-22T09:56Z, 6h-gated) and gap-analysis is Vetoed-bank-dedup-blocked;
+    staleness>=30d ZERO; length offenders all human-deferred (born-rule 5118w, clinical-dissociation
+    4861w, time-collapse-and-agency 4606w refine-then-condense trap, epistemic-advantages
+    4400w), veto (phenomenal-output 6872w critical, composition-question-rivals 4106w
+    accept-as-survey), index-hub (apex-articles 7238w), or deferred apex (machine-question
+    5001w) -- no safe condense, topics offenders carry corpus-propagated calibration
+    risk (human-decision-task-mispicked-as-refine); orphans 0; positions slow-add (audit
+    ran 06:20 within 30d window, 8<10 so no audit-cadence trigger); no applied-apex
+    cluster gap. The 2 genuine-drift candidates minted (both git-verified own-body
+    drift, NOT cosmetic cross-touch): (a) deep-review topics/animal-consciousness.md
+    -- commit 451fbb93f integrated COGITATE 2025 Consortium + Bayne et al. 2023 TiCS
+    infant-marker + Chittka et al. 2025 Phil Trans R Soc B citations (+18/-15 own body),
+    last deep-reviewed 2026-06-02, new citations UNVERIFIED, active-research literature-drift
+    section, body 3999w ~1w under topics hard ceiling so review must be strictly length-neutral;
+    (b) deep-review topics/the-strong-emergence-of-consciousness.md -- commit 2b7d0cb18
+    evidential-register recalibration addressing 2 medium pessimistic findings (+22/-20,
+    42 lines), last deep-reviewed 2026-06-01, ai_system claude-opus-4-6 older model,
+    body 3960w. Both placed at top of Active Tasks to defeat LIFO (queue-lifo-starvation);
+    parapsychology-firewall expand-topic not starved. post-mint authoritative count=3
+    (floor met). NOTE: run no.528 note conflated commit 451fbb93f with the-convergence-argument-for-dualism;
+    git show --stat confirms 451fbb93f edits topics/animal-consciousness.md -- this
+    run corrected the target. Expect replenish-at-floor alternation to continue until
+    the harvester reopens the research-to-expand pipeline.'
   superseded_527_replenishment_note: 'run no.527 (2026-06-22T10:29Z): MINTED 1 floor-restoring
     deep-review at count=2 (floor 3, unmet by 1). Authoritative live tools.evolution.task_selector.count_p0_p2_tasks=2
     pre-mint -- the two distinct pickable P2s are run-526s convergence-argument deep-review
