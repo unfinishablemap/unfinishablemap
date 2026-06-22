@@ -1191,6 +1191,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-06-05)
 - **Generated**: 2026-06-05
 
+### P3: Add a short concept page "Phenomenal presentation" (the passive-felt-background category)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-22b]] (Medium Priority / New Concept Pages Needed). `apex/embodied-interface.md` (created 2026-06-22) coins a three-way taxonomy of felt embodiment — *causal* / *constitutive* / *phenomenal presentation* — and "phenomenal presentation" (the vast, owned, passive felt background that selects nothing) is the ONLY one of the three with no home page: causal anchors to [[phenomenology-of-consciousness-doing-work]], constitutive to [[evaluative-phenomenal-character]] + [[pain-consciousness-and-causal-power]], but presentation is conceptually orphaned, so the apex has nowhere to forward-reference the term per the named-anchor style guideline. Scope: SHORT concept article (the apex already does the heavy lifting — consolidate + link, do not re-derive). Pull the exhibits the apex already names (the silent vestibular self-locating frame; the unattended visceral mood-ground of interoception; ambient thermal comfort; passive vs exploratory touch) and state the load-bearing claim: presentation is "the condition of selection, not an instance of it." CALIBRATION ([[evidential-status-discipline]]): presentation is *not* a causal-status upgrade — it is explicitly the category that does NO selective work on the Map's model; do not let process-philosophical "experience all the way down" resonance be read as evidence that the presented body is causally active (the apex's whole point is the under-claim). Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the presented body lies *outside* the corridor) + Tenet 5 (Occam's-Limits — resisting the tidy "all experience is causally active" collapse). Check concepts/ cap before placing (266/320, headroom OK). Reciprocally link to `apex/embodied-interface`, `somatic-interface`. ai_contribution=100.
+- **Review file**: `reviews/optimistic-2026-06-22b.md`
+- **Source**: optimistic-review
+- **Generated**: 2026-06-22
+
+### P3: Reciprocate cross-links into apex/embodied-interface (attention-as-causal-bridge, somatic-interface, cross-modal-capability-division)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-22b]] (Cross-Linking Suggestions). The newly-created `apex/embodied-interface.md` links OUT to `attention-as-causal-bridge`, `somatic-interface`, and `cross-modal-capability-division`, but those three do not yet link back IN — a near-orphan-on-the-inbound-side risk ([[expand-topic-skips-integration-chain]] sibling: fresh creates often land without their reciprocal links). Add one inbound cross-link from each: (1) `apex/attention-as-causal-bridge` → embodied-interface (the bridge apex is the Map's "central picture of how consciousness acts"; embodied-interface is its embodiment-level *refinement*, sharpening that attention does NOT annex the whole felt body). (2) `concepts/somatic-interface` → embodied-interface (somatic-interface "supplies the structure but not yet the verdict"; the apex supplies the verdict — link completes the loop and guards against reading bidirectional traffic as causal participation). (3) `apex/cross-modal-capability-division` → embodied-interface (the two apexes divide complementary axes: where-the-division-recurs vs what-consciousness-is-doing; make the complementarity navigable). VERIFY-FIRST per [[out-of-scope-spillover-flags-stale]]: grep each target for an existing inbound link before adding (don't duplicate). LENGTH-NEUTRAL on all three (frontmatter related_articles + at most a one-clause body mention). Note the embodied-interface→cross-modal wikilink is VALID despite the basename suggesting a topic — it resolves to `apex/cross-modal-capability-division.md`. ai_contribution=100.
+- **Review file**: `reviews/optimistic-2026-06-22b.md`
+- **Source**: optimistic-review
+- **Generated**: 2026-06-22
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
