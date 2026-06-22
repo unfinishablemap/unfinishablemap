@@ -80,5 +80,3 @@ None.
 - The new "Machine Minds" subsection is calibration-clean and should be treated as **converged** going forward; do not re-flag its evidential-status framing — it performs the discipline correctly.
 - Settled from prior reviews and NOT to be re-flagged: Wundt/Titchener passage; Nagel & Lutz & Thompson anchors; the conjunction-coalesce parallel (single sentence is the right weight — do not expand); the eliminative-materialist / hard-physicalist disagreement with "genuinely different kinds of information"; the MWI proponent's dissatisfaction with the indexical argument. All bedrock or settled.
 - Five deep reviews have now passed with no critical issues. Article is converged. Future passes should expect no critical issues; that is success.
-</content>
-</invoke>

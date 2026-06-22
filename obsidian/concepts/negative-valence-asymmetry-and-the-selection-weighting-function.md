@@ -4,7 +4,7 @@ description: "If felt value selects outcomes, selection weighs negatives more th
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-06-20T13:33:29+00:00
+ai_modified: 2026-06-22T23:33:24+00:00
 last_deep_review: 2026-06-20T13:33:29+00:00
 draft: false
 topics:
@@ -98,5 +98,3 @@ This concept closes an open question the Map had deferred and sharpens, rather t
 10. Yechiam, E., & Zeif, D. (2025). Loss aversion is not robust: A re-meta-analysis. *Journal of Economic Psychology*, 107, 102801. https://doi.org/10.1016/j.joep.2025.102801
 11. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
 12. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
-</content>
-</invoke>

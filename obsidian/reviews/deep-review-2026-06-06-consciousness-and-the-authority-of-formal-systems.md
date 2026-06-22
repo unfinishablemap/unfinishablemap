@@ -86,5 +86,3 @@ The refine-draft "cite canonical Carroll's-regress page from dependants" pass ma
 - Do NOT re-flag: the six personas' philosophical disagreements with dualism (bedrock); the Deutsch computational-math deferral; the absence of a Lucas-Penrose engagement (this is correct — the article makes a structural-parallel claim, not a mechanism-transcendence claim, so it owes no rebuttal of the standard Lucas-Penrose objections); any issue previously marked resolved.
 - **Length watch**: at 2866/3000, any substantive expansion requires length-neutral mode.
 - **Recommendation**: strong candidate for a longer deep-review interval. Five metadata/verification/cross-link-endorsement passes; ongoing value is periodic citation re-verification (cheap) rather than content review. A pure cross-link adoption should arguably not by itself trigger a full deep review.
-</content>
-</invoke>

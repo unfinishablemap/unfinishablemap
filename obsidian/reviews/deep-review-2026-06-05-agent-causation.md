@@ -148,5 +148,3 @@ the convergent-case anchors, or (3) the article is itself substantively modified
 item is word count: at 132% of soft target, a future substantive addition should be paired with an
 equivalent cut; a crossing of the 3500 hard threshold is a human length decision (scope note and
 convergent-case content are calibration-protected and should not be the cut target).
-</content>
-</invoke>

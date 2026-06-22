@@ -99,5 +99,3 @@ Bedrock disagreements (do NOT re-flag as critical):
 4. **Buddhist no-self (khaṇika) vs. irreducible experiential subject** — acknowledged tension, left open.
 
 The AI-exclusion claim is conditional and well-calibrated; future reviews must not "strengthen" it into an unconditional assertion (that would introduce slippage). The structural+agentive synthesis is settled — do not split it apart. A no-critical-issues, no-edit result here is convergence working as intended.
-</content>
-</invoke>

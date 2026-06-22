@@ -90,5 +90,3 @@ None.
 - All prior stability notes remain in force: the eliminative-materialist continuity objection, the regress-parity objection, and the Buddhist no-self objection are bedrock framework-boundary disagreements, not fixable flaws, and must not be re-flagged as critical.
 - Word count: 1897 words (76% of the 2500 `concepts/` soft threshold). No length action.
 - Citation calibration confirmed clean; the 2026-02-20 evidential-status constraint is honoured.
-</content>
-</invoke>

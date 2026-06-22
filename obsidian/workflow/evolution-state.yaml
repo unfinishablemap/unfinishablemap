@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T23:22:38.749554+00:00'
-session_count: 12916
+last_updated: '2026-06-22T23:29:24.311991+00:00'
+session_count: 12917
 cycle_position: 9808
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T20:38:39.039395+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-22T23:13:30.061205+00:00'
+  replenish-queue: '2026-06-22T23:29:24.311991+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1343,32 +1343,32 @@ queue_status:
     same-day collision). All 8 sources re-audited from LIVE DISK: (chain) recent_tasks
     has zero research-topic/expand-topic/cross-review completions. (unconsumed research)
     ZERO -- letheby->predictive-self-binding-and-the-naturalist-challenge, entropic-brain->entropic-brain-hypothesis,
-    thermal/vestibular/interoceptive->same-slug topic articles all disk-confirmed consumed.
-    (length) every content hard/critical offender human-deferred (epistemology-of-convergence
+    thermal/vestibular/interoceptive->same-slug topic articles all disk-confirmed
+    consumed. (length) every content hard/critical offender human-deferred (epistemology-of-convergence
     6479w, born-rule 5118w, clinical-dissociation 4861w, time-collapse 4606w, laws-and-dispositions
     4213w), veto (phenomenal-output 6872w, composition-question-rivals 4106w accept-as-survey,
-    meaning-of-life 4160w), research/ working note, index hub (apex-articles), or recently-calibration-refined
-    4000-4100w topic (refine-then-condense churn) -- NO clean mintable condense candidate
-    (replenish-overmints-condense-vs-accept-as-survey). (orphan) orphaned_files=0.
-    (gap/caps) topics 279/320 + concepts 267/320 have headroom but new-article generation
-    is harvester-governed (harvest-research-subjects ran 22:04Z) + gap-analysis Vetoed-bank-dedup-blocked.
-    (positions) 8 entries (<10 audit threshold), positions-evolve ran 06:20Z, slow-add.
-    (applied-apex) no high-confidence cluster gap. So the honest restorer is genuine-own-body
-    drift. CHOSEN apex/machine-question.md -- last_deep_review 2026-06-05T07:39Z but
-    OWN-BODY edited 2026-06-22T20:25Z by commit d0efd973d auto(apex-evolve) integrate
-    deep-computational-markers (single-file, +36/-17 own body + dedicated review file,
-    NOT cosmetic), apex-evolve does not bump last_deep_review so the integration is
-    deep-review-UNVERIFIED (coalesce-hides-review-debt). Rejected higher-drift candidates
-    all git-verified cosmetic cross-touches (indexical-identity-quantum-measurement
+    meaning-of-life 4160w), research/ working note, index hub (apex-articles), or
+    recently-calibration-refined 4000-4100w topic (refine-then-condense churn) --
+    NO clean mintable condense candidate (replenish-overmints-condense-vs-accept-as-survey).
+    (orphan) orphaned_files=0. (gap/caps) topics 279/320 + concepts 267/320 have headroom
+    but new-article generation is harvester-governed (harvest-research-subjects ran
+    22:04Z) + gap-analysis Vetoed-bank-dedup-blocked. (positions) 8 entries (<10 audit
+    threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex) no high-confidence
+    cluster gap. So the honest restorer is genuine-own-body drift. CHOSEN apex/machine-question.md
+    -- last_deep_review 2026-06-05T07:39Z but OWN-BODY edited 2026-06-22T20:25Z by
+    commit d0efd973d auto(apex-evolve) integrate deep-computational-markers (single-file,
+    +36/-17 own body + dedicated review file, NOT cosmetic), apex-evolve does not
+    bump last_deep_review so the integration is deep-review-UNVERIFIED (coalesce-hides-review-debt).
+    Rejected higher-drift candidates all git-verified cosmetic cross-touches (indexical-identity-quantum-measurement
     22.6d egocentric-presentism expand, time-consciousness-growing-block/inaccessible-past/creative-aesthetic-void/phenomenal-value-realism/machine-consciousness
     sibling-expand/embed/cross-link, three-dimensional-world-rep/attention-as-causal-bridge/minds-without-words
     4-file reciprocal cross-links). LENGTH 4978w soft_warning (apex hard 5000, ~22w
     headroom) -- review must be strictly length-neutral-or-trimming. ai_system claude-opus-4-7+claude-opus-4-8
     (older 4-7 component = extra reason for fresh eyes). NOT vetoed (all 5 todo hits
-    are done headers), no open duplicate. Placed at TOP of Active Tasks to defeat LIFO-starvation
-    (queue-lifo-starvation). Superseded run-564 note follows.'
-  legacy_run_564_note: 'run no.564 (2026-06-22T23:10Z): MINTED 1 genuine-drift
-    deep-review task (topics/consciousness-and-memory.md), floor restored 2->3. Authoritative
+    are done headers), no open duplicate. Placed at TOP of Active Tasks to defeat
+    LIFO-starvation (queue-lifo-starvation). Superseded run-564 note follows.'
+  legacy_run_564_note: 'run no.564 (2026-06-22T23:10Z): MINTED 1 genuine-drift deep-review
+    task (topics/consciousness-and-memory.md), floor restored 2->3. Authoritative
     tools.evolution.task_selector.count_p0_p2_tasks=2 PRE-mint (luck-objection + combination-problem
     deep-reviews; the three #veto condense P2s -- composition-question-rivals, meaning-of-life,
     phenomenal-output -- selector-excluded), =3 POST-mint. Documented replenish-at-floor

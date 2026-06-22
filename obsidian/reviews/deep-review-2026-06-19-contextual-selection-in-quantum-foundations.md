@@ -93,5 +93,3 @@ Confirmed calibration discipline (preserve):
 - Consistent "speculative," "conjecture," "open question," "mathematical analogy" markers on every tenet-dependent extension.
 
 Convergence: four reviews; no critical issues in reviews 2–4; both same-day pessimistic findings resolved before this pass; citations stable and web-verified; honest opponent engagement. **Selector should now leave this article alone** — `last_deep_review` is current and the ≥3-prior-reviews-within-14-days exclusion now applies. A fifth review absent substantive new content or a tenet revision would be pure churn.
-</content>
-</invoke>

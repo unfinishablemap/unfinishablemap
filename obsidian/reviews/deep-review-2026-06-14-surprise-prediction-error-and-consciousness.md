@@ -107,5 +107,3 @@ None.
 - The compatible-with-not-supports PP framing is the article's spine and remains intact: PP/free-energy is consistently the physicalist programme the Map *interprets* via an explanatory gap, never evidence FOR dualism.
 - All adversarial philosophical disagreements remain bedrock-level and must NOT be re-flagged as critical.
 - Future reviews should expect to find nothing to change unless substantive new content is added or upstream coalescence breaks wikilink targets. A cosmetic cross-link bump re-qualifying this article is a no-op signal, not a review trigger.
-</content>
-</invoke>

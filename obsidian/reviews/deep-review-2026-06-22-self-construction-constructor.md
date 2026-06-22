@@ -80,5 +80,3 @@ None. Article remains at a stable, converged state across two deep-reviews and a
 - Bedrock disagreements to NOT re-flag: the Many-Worlds defender's rejection of the indexical/haecceity argument; the Humean/Mādhyamaka denial that for-me-ness implies a self-standing subject (the article concedes this as the strong-claim boundary); the physicalist's rejection of the construction/constructor asymmetry from outside the Map's tenets.
 - The depersonalisation→ownership-loss/agency-preserved reading is a settled corpus position (Billon/Gallagher via `concepts/mine-ness.md`), NOT a citation defect, despite some non-unanimity in the wider literature. Future reviews should not re-litigate it as a wrong-attribution.
 - Calibration honest throughout: the substantial-constructor thesis is held as a live position grounded in tenet-coherence, not evidence-elevated. Preserve the minimal/strong split rather than collapsing it.
-</content>
-</invoke>

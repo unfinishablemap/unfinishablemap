@@ -78,5 +78,3 @@ None. The article remains stable across its third review.
 - **Physicalist disagreement is bedrock** (carried forward): a reductive physicalist reads the dissociation as functional architecture and declines the Map's interpretation. Mode Three boundary-marking, not a refutation owed. Do NOT re-flag as critical.
 - **Pupillometry is channel-evidence, not consciousness-readout** (carried forward): the article's modest claims about consciousness-side influence are deliberate calibration, not weakness. Do not upgrade.
 - **The Rebouillat 2021 citation is now correct** — verified live this pass. Future reviewers should not "fix" it back toward Coutinho; the Coutinho attribution was the error, Rebouillat is the correction.
-</content>
-</invoke>

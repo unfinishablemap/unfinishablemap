@@ -82,5 +82,3 @@ None requiring content edits. Standing length-decision item only (human; do NOT 
 - The cryptochrome/Denton precedent is calibrated at "warm-protein Zeno realisable, neural application unconfirmed and structurally disanalogous" — do not re-inflate.
 - The Triple Screen is admission-not-defence; do not re-frame as protection, do not cut for length.
 - Article has now converged across SIX deep reviews. "No critical issues" is the expected steady state; future passes should be light currency checks unless apex-evolve adds new factual content. This pass was a genuine-drift verification of an UNVERIFIED one-clause edit — the verification is the value, and it cleared.
-</content>
-</invoke>

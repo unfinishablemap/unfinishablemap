@@ -68,5 +68,3 @@ None.
 - The article has now converged across four reviews. The new "Second-Order Constitution" section (added 2026-06-04) is verified calibration-clean and internally consistent; future condense/refine passes must NOT collapse the three-options structure into a bare Map commitment — the held-open competitors and the "lean, not upgrade" framing are load-bearing evidential-status content.
 - All prior stability notes carry forward: eliminativist/Dennett objections are **bedrock** (do not re-flag); the Buddhist constructed-cognizer concern is a standing low-priority deferral; the double-edged mysterian-symmetry caveat in the Dualism paragraph and the defeater-removal-≠-evidence language are load-bearing — do not trim; citation page numbers (Demircioglu 125-132, McGinn 349-366, Kriegel 177-191, Chomsky 1975) are primary-source-verified and settled.
 - Word count: 2191 (88% of the 2500 concepts soft threshold) — comfortable headroom, no length action. No body edits made this pass; only `ai_modified` and `last_deep_review` timestamps updated.
-</content>
-</invoke>
