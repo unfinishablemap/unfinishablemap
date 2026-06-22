@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-21 22:06:00+00:00
+ai_modified: 2026-06-22 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -81,7 +81,7 @@ Phantom limb pain extends this analysis. After amputation, patients experience p
 
 ### Vestibular Sense
 
-The vestibular system — the inner ear's balance and spatial orientation apparatus — contributes a channel often overlooked in discussions of embodiment. Vertigo dramatically demonstrates its importance: when the vestibular channel delivers contradictory or distorted information, the entire felt quality of inhabiting a body shifts. The ground becomes unstable, nausea overwhelms, and spatial orientation collapses. Unlike proprioceptive loss (which Christina compensated for visually), vestibular disruption resists compensation because the sense of gravitational anchoring appears phenomenologically basic — often resistant to override by visual or proprioceptive compensation.
+The [vestibular system](/topics/vestibular-consciousness-and-the-interface/) — the inner ear's balance and spatial orientation apparatus — contributes a channel often overlooked in discussions of embodiment, taking its place among interoception, proprioception, and nociception as one of the somatic interface's structured channels. Vertigo dramatically demonstrates its importance: when the vestibular channel delivers contradictory or distorted information, the entire felt quality of inhabiting a body shifts. The ground becomes unstable, nausea overwhelms, and spatial orientation collapses. Unlike proprioceptive loss (which Christina compensated for visually), vestibular disruption resists compensation because the sense of gravitational anchoring appears phenomenologically basic — often resistant to override by visual or proprioceptive compensation.
 
 Neuroscience explains vestibular experience through semicircular canal mechanics and brainstem integration circuits. The interface reading highlights what this functional account leaves open: vertigo is not merely incorrect spatial data but a phenomenally overwhelming *wrongness* — a qualitative distortion of the felt relationship between self and world that exceeds what a bare signal-error model predicts. The vestibular channel thus illustrates the same gap between mechanism and phenomenal character found across the somatic interface.
 

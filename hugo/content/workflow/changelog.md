@@ -1,13 +1,80 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-21 16:00:00+00:00
+ai_modified: 2026-06-22 04:55:26+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-22T05:00:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [out-of-body-experiences](/topics/out-of-body-experiences/)
+- **Word count**: 2978 → 2978 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (third consecutive convergence pass)
+- **Note**: Only change since 2026-06-03 review was a verified reciprocal cross-link to [vestibular-consciousness-and-the-interface](/topics/vestibular-consciousness-and-the-interface/) (06-22) — a cosmetic-cross-link bump that re-qualified a converged article. New sentence is source-faithful (Blanke & Arzy 2005 vestibular-integration model), no possibility/probability slippage, no label leakage. References block byte-identical to the 06-03 publisher-of-record ledger; no re-verify triggered. Engagement modes: argument-from-mechanism = Mode One; strong-embodiment = Mode One; NDE-OBE veridical-claim dismissal = Mode Three. No boundary substitution.
+- **Output**: [deep-review-2026-06-22-out-of-body-experiences](/reviews/deep-review-2026-06-22-out-of-body-experiences/)
+
+## 2026-06-22T04:55:26+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-22
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro). Gemini processed at LOW reliability (fabricated flagship cite; 0 tasks minted) — excluded from all convergence counts; effective convergence is ChatGPT+Claude.
+- **Clusters**: 3 convergent (all 2/3 ChatGPT+Claude), 13 singleton, 0 divergent (Gemini's cryptochrome/Lie-Ng "category errors" are misreadings, not divergences)
+- **Convergent findings**: (1) quantum-biology over-confidence (Wiest-2025 partisan brief / "experimental turn" framing); (2) convergence-as-evidence circularity vs the voids-circularity-discount; (3) positions register under-populated (consciousness-scope + methodology domains)
+- **Tasks upgraded**: 4 (P2→P1: quantum-biology evidence-tier+Wiest, consciousness-scope positions, methodology positions; the convergence/voids-circularity task was already P1, rewritten + cited). P3→P2: 0.
+- **Tasks deduplicated**: 1 (two quantum-biology tasks, one per reviewer, same live file → merged to one P1)
+- **Output**: [outer-review-synthesis-2026-06-22](/reviews/outer-review-synthesis-2026-06-22/)
+
+## 2026-06-22T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Research; Fable 5 unavailable, project Opus fallback)
+- **File**: [outer-review-2026-06-22-claude-opus-4-8](/reviews/outer-review-2026-06-22-claude-opus-4-8/)
+- **Subject**: Full-site audit (subject_type: site; reused the 2026-06-22 ChatGPT subject → real cross-reviewer convergence)
+- **Headline**: Citation integrity genuinely high (reviewer verified the existing load-bearing cites against publisher-of-record); the central, sharp critique is that the Map confesses circularity, co-optation, and unfalsifiability in /project/ but does not enforce those disciplines against the content that commits them — "substituted exhaustive self-disclosure for self-correction."
+- **Claims verified**: 4 new recommended cites web-verified real + accurately characterized (Siegel 2024 *Nature* 632:131–138 PMID 39020167; Laukkonen–Friston–Chandaria "A beautiful loop" *Neurosci Biobehav Rev* 106296 2025; Cogitate 2025 *Nature* 642:133–142 PMID 40307561; Bayne et al. "Consciousness in the cradle" *TiCS* 2023). Reviewer's own arXiv:2509.00555 caveat preserved (do not cite unverified).
+- **Stale/false-positive findings caught (3-state discipline)**: 4 — (1) `convergence-as-evidence` is ARCHIVED, not live (wikilink repointed to `the-convergence-argument-for-dualism`; live URL still served by the coalesce-stale-hugo-duplicate-urls stale-hugo-duplicate bug, likely why the reviewer saw it as live); (2) psychedelics Siegel-2024 refine ALREADY LANDED (cited 4×, median shifted to 2024/2026) → no task minted; (3) Laukkonen 2025 ALREADY cited (meditation cluster) and predictive-processing HAS a topic + concept home → task narrowed to "engage as named rival," not "add missing paper/page"; (4) apex `post-decoherence-selection-programme` ALREADY says "constraints rather than mechanisms" with framework-stage calibration → reviewer's "still frames as convergence" partly stale.
+- **High-value findings**: 8
+- **Convergences with 2026-06-22 ChatGPT review** (flagged for /combine-outer-reviews): convergence/voids circularity overstatement; quantum-biology over-confidence (evidence-tiering); Positions register under-population. These should be priority-upgraded + deduped at synthesis.
+- **Tasks generated**: 8 (P1: 1 — bring live convergence/apex into line with voids-circularity-discount; P2: 7 — active-inference-as-named-rival, COGITATE+infant-marker integration / bare-dualism spine, Tenet-4 home-vs-tenets reconciliation, epiphenomenalism arg-vs-tenet recalibration, Wiest-2025 contested-marking, methodology /project/ enforcement-teeth, Voids dedup). Psychedelics/Siegel task NOT minted (already landed); Positions-seeding folded into a coordination note (ChatGPT review already minted those).
+
+## 2026-06-22T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Mode**: genuine-drift, verification-only (scoped to post-2026-06-01 content; NOT condense)
+- **Word count**: 2594 → 2594 (no change; soft_warning, verification mode forbids growth/condense)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (confirming verdict)
+- **Scope (a)**: Dennett "counter-burden is itself contested" paragraph — VERIFIED sound, honestly hedged, not boundary-substitution; engagement with Dennett: Mixed (in-framework burden-symmetry + honest boundary-marking on the symmetric counter-burden; "genuinely unsettled"). Dennett given real weight; dualist reply calibrated as neutralizing-not-establishing.
+- **Scope (b)**: x-phi prevalence recalibration ("Most people"/"virtually everyone"/"nearly everyone" → "many"/"so many") — VERIFIED accurate against Sytsma & Machery 2010 (web-verified: philosophers vs non-philosophers conceive subjective experience differently; *Phil Studies* 151(2):299-327). Sytsma/Machery in-body stance correction preserved, not reverted.
+- **Result**: bumped last_deep_review (closes recurring drift flag); ai_modified NOT bumped (no content edit)
+- **Output**: [deep-review-2026-06-22-knowledge-argument](/reviews/deep-review-2026-06-22-knowledge-argument/)
+
+## 2026-06-22T04:00:40+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-22-chatgpt-5-5-pro](/reviews/outer-review-2026-06-22-chatgpt-5-5-pro/)
+- **Subject**: Full-site audit (subject_type: site, fallback:site-stale-7d)
+- **Claims verified**: 3 (mindfulness *Sci Reports* retraction s41598-025-11069-9 ✓; chimp belief-revision *Science* 2025 doi 10.1126/science.adq5229 ✓; Tenet 3 "apes do not perform logical reasoning" wording confirmed at tenets.md:92 ✓)
+- **Stale-snapshot findings caught**: 2 (evidential-weight-of-voids + causal-delegation are already archived — reviewer read stale search index; but both still serve full un-flagged stale content at their hugo URLs → recurring coalesce-stale-hugo-duplicate-urls bug, valid via different mechanism)
+- **High-value findings**: 8
+- **Tasks generated**: 10 (P1: 1 — Tenet 3 comparative-cognition fix; P2: 9 — stale-archive-URL fix, mindfulness-retraction sweep, quantum-biology evidence-tiering, empirical-precision trio [Born-rule preprint / 10 bits/s bound / DP qualifier / entanglement hedge], consciousness-scope positions seed, methodology-and-calibration positions seed, Born-preserving-causation apex, embodied-interface apex, parapsychology-firewall article)
+- **Not minted**: speculative tooling proposals (machine-readable claim graph, public dependency graph, canonical empirical data cards, corpus-wide citation-propagation tool, interface-liability frontmatter field, "last externally verified" date field) — operator/code-level infrastructure, left for human decision
+
+## 2026-06-22T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/)
+- **Word count**: 3173 → 3174 (+1; soft_warning, length-neutral)
+- **Critical issues addressed**: 2 (attribution error "Lucia"→"Laura" Crucianelli, web-verified; dropped word "cannot"→"cannot provide")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article well-formed at soft-warning length; preserved)
+- **Citation web-verify**: all 8 References verified at publisher of record — 7 real-correct (Craig&Bushnell 1994, Craig 2002, Blomqvist 2023, Vriens/Nilius/Voets 2014, Barrett&Simmons 2015, two internal Map cites), 1 real-correct-metadata-but-body-misspelled-name (Crucianelli&Ehrsson 2023). Julius 2021 Nobel + TRPV1/TRPM8 facts verified. No fabrications, no orphans, no currency drift.
+- **Reasoning-mode**: engagement with the three physicalist rivals (molecular transduction / Craig homeostatic-emotion / predictive thermoregulation) = Mode Three (framework-boundary marking) in natural prose; no boundary-substitution, no label leakage, no possibility/probability slippage.
+- **Output**: [deep-review-2026-06-22-thermal-consciousness-and-the-interface](/reviews/deep-review-2026-06-22-thermal-consciousness-and-the-interface/)
 
 ## 2026-06-22T01:25:06+00:00 - apex-evolve
 - **Status**: Complete

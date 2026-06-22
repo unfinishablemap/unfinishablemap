@@ -25,7 +25,7 @@ description: Mary knows all physical facts about color but seems to learn someth
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 19:28:16+00:00
+last_deep_review: 2026-06-22 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

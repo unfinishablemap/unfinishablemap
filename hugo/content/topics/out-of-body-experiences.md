@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-06-03 00:36:03+00:00
+ai_modified: 2026-06-22 05:00:02+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -27,7 +27,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/StU8aNLD1MQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 00:36:03+00:00
+last_deep_review: 2026-06-22 05:00:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ What the phenomenology *does* establish is that conscious experience can persist
 
 The most decisive empirical finding in OBE research came from Olaf Blanke's group at the University Hospitals of Geneva. In a 2002 *Nature* report, electrical stimulation of the right angular gyrus during pre-surgical evaluation of an epileptic patient reliably induced OBE-like sensations: at low currents, the patient reported "sinking into the bed" and "falling from a height"; at higher currents, "I see myself lying in bed, from above, but I only see my legs and lower trunk" (Blanke et al., 2002, p. 269). The induction was repeatable, current-graded, and confined to a small cortical region.
 
-Subsequent work mapped the relevant region to the right TPJ and connected OBE phenomenology to multisensory integration of vestibular, proprioceptive, and visual signals (Blanke et al., 2004; Blanke and Mohr, 2005). Two converging strands of evidence followed.
+Subsequent work mapped the relevant region to the right TPJ and connected OBE phenomenology to multisensory integration of vestibular, proprioceptive, and visual signals (Blanke et al., 2004; Blanke and Mohr, 2005). The [vestibular channel](/topics/vestibular-consciousness-and-the-interface/) is load-bearing here: the disrupted gravitational and orientation signal is what the dislocated self-model loses its anchor to, which is why the OBE is the sharpest demonstration that the felt vertical is a silent frame the rest of perception leans on. Two converging strands of evidence followed.
 
 First, lesion and clinical-population studies linked spontaneous OBEs to right TPJ damage and to vestibular dysfunction. OBEs cluster with autoscopic hallucinations, heautoscopy, and feeling-of-presence experiences in patients with focal lesions in this region.
 

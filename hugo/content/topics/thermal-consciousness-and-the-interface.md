@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-06-22 00:00:00+00:00
+ai_modified: 2026-06-22 01:52:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: Temperature is the modality where felt valence is least separable f
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-22 01:52:00+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -38,7 +39,7 @@ topics:
 
 Temperature is the perceptual modality where felt value and bare sensation come apart least, and where the value is *indexed to the state of the body*. The same cool water is pleasant when you are overheated and aversive when you are chilled; the same skin temperature is comfort or distress depending on what the body needs. This is a different and sharper fact than the affective tone the [tactile article](/topics/tactile-consciousness-and-the-interface/) locates in the dedicated affective channel of touch. Affective touch carries a roughly fixed hedonic tone—a gentle caress is pleasant more or less regardless of body state. Thermal valence flips with thermoregulatory need: it is computed against a homeostatic set-point, not read off the stimulus. This makes thermoception a clean exhibit of [constitutively evaluative phenomenal character](/concepts/evaluative-phenomenal-character/)—felt experience that arrives already valued rather than neutral-then-judged—with the valence visibly a function of the perceiver's condition.
 
-Thermoception supplies a second distinctive the other modality articles cannot. Skin thermoreceptors report *both* the temperature of the external world (an exteroceptive fact) *and* the body's own thermoregulatory condition (an interoceptive fact). Temperature is therefore the boundary case for the asymmetry the [cross-modal synthesis](/apex/cross-modal-capability-division/) establishes—that the capability division is an *exteroceptive* regularity which [interoception inverts](/topics/interoceptive-consciousness-and-the-interface/) inward. If one modality is both at once, the asymmetry's clean dichotomy between outward and inward senses is better read as a gradient with thermoception sitting on the line. As with every article in this series, nothing here *settles* dualism over physicalism. The physical account of temperature—molecular transduction, homeostatic integration, predictive thermoregulation—is strong and converging, and the Map adopts it as mechanism. What thermoception does is press the [explanatory gap](/concepts/explanatory-gap/) in the register of *value indexed to need*, and locate a structural boundary the survey's outward/inward partition cannot place.
+Thermoception supplies a second distinctive the other modality articles cannot provide. Skin thermoreceptors report *both* the temperature of the external world (an exteroceptive fact) *and* the body's own thermoregulatory condition (an interoceptive fact). Temperature is therefore the boundary case for the asymmetry the [cross-modal synthesis](/apex/cross-modal-capability-division/) establishes—that the capability division is an *exteroceptive* regularity which [interoception inverts](/topics/interoceptive-consciousness-and-the-interface/) inward. If one modality is both at once, the asymmetry's clean dichotomy between outward and inward senses is better read as a gradient with thermoception sitting on the line. As with every article in this series, nothing here *settles* dualism over physicalism. The physical account of temperature—molecular transduction, homeostatic integration, predictive thermoregulation—is strong and converging, and the Map adopts it as mechanism. What thermoception does is press the [explanatory gap](/concepts/explanatory-gap/) in the register of *value indexed to need*, and locate a structural boundary the survey's outward/inward partition cannot place.
 
 This is the thermal companion to [the tactile case](/topics/tactile-consciousness-and-the-interface/), the [vestibular case](/topics/vestibular-consciousness-and-the-interface/), and the inward [interoceptive case](/topics/interoceptive-consciousness-and-the-interface/)—the modality each of those articles named as still lacking an interface treatment. It is scoped tightly to its two non-redundant distinctives. The tactile article already covers fixed-valence affective touch and treats temperature as one bound feature of a felt object; the interoceptive article names "thermal" as one of its convergent channels but does not develop state-dependent valence or the skin's dual-organ status. The uncovered, load-bearing material is the *homeostatic indexing of thermal valence* and the *boundary status* of the modality.
 
@@ -62,7 +63,7 @@ The grill also shows how tightly thermal and nociceptive processing are woven to
 
 ## The Boundary Case: Both Exteroceptive and Interoceptive
 
-Thermoception's second distinctive is structural rather than affective. Skin thermoreceptors face two ways at once. They report the temperature of whatever the skin contacts or the surrounding air—an exteroceptive fact about the world. They also contribute to the body's monitoring of its own core thermoregulatory state—an interoceptive fact about the organism. Lucia Crucianelli and H. Henrik Ehrsson make this dual status the heart of their case that the skin is a neglected interoceptive organ.
+Thermoception's second distinctive is structural rather than affective. Skin thermoreceptors face two ways at once. They report the temperature of whatever the skin contacts or the surrounding air—an exteroceptive fact about the world. They also contribute to the body's monitoring of its own core thermoregulatory state—an interoceptive fact about the organism. Laura Crucianelli and H. Henrik Ehrsson make this dual status the heart of their case that the skin is a neglected interoceptive organ.
 
 Their thesis is that "the skin, given its very nature, is a sensory organ extensively and directly exposed not only to the inside of the body but also to the external environment" (Crucianelli & Ehrsson, 2023). Thermoception is precisely where the two roles fuse: "interoceptive responses to thermal stimuli can refer both to internally generated stimuli but also in response to the application of thermosensory stimuli on the skin" (Crucianelli & Ehrsson, 2023). They argue that this dual character is part of why the skin's interoceptive contribution has been overlooked: "one of the reasons why skin signals might have been overlooked so far is the fact that they provide both interoceptive and exteroceptive sensory information, making it difficult to disentangle the two" (Crucianelli & Ehrsson, 2023).
 
