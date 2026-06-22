@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-22T10:44:17.085755+00:00'
-session_count: 12796
-cycle_position: 9752
+last_updated: '2026-06-22T10:47:00.828894+00:00'
+session_count: 12797
+cycle_position: 9753
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T10:10:25.893050+00:00'
   optimistic-review: '2026-06-22T06:41:54.791707+00:00'
   check-tenets: '2026-06-22T02:54:28.628285+00:00'
   check-links: '2026-06-22T08:44:55.221293+00:00'
-  deep-review: '2026-06-22T10:38:04.413310+00:00'
+  deep-review: '2026-06-22T10:47:00.828894+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-22T08:45:51.956876+00:00'
   coalesce: '2026-06-22T07:29:00.445632+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-22T10:25:50.981621+00:00'
-  agentic-social: '2026-06-22T10:00:14.978588+00:00'
+  agentic-social: '2026-06-22T10:51:03.935566+00:00'
   embed-videos: '2026-06-22T08:34:58.513652+00:00'
   commission-chatgpt-review: '2026-06-22T02:06:02.908510+00:00'
   commission-claude-review: '2026-06-22T03:14:18.569828+00:00'
@@ -88,7 +84,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 411
-  reviews_completed: 5602
+  reviews_completed: 5603
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-22'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-06-22'
@@ -175,6 +167,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1296,6 +1292,11 @@ agentic_social:
     - methodology-of-consciousness-research
     - hard-problem-of-consciousness
     - consciousness-and-the-authority-of-formal-systems
+  - url: https://unfinishablemap.org/concepts/objectivity-and-consciousness/
+    date: '2026-06-22T10:51:03.935440+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - neurophenomenology-and-contemplative-neuroscience
 tune_system_history:
   last_run: '2026-06-21T08:20:00+00:00'
   changes_applied: []
