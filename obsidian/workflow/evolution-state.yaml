@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T16:46:38.563502+00:00'
-session_count: 12847
-cycle_position: 9777
+last_updated: '2026-06-22T16:51:52.257380+00:00'
+session_count: 12848
+cycle_position: 9778
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T16:20:30.854268+00:00'
   optimistic-review: '2026-06-22T13:07:09.306459+00:00'
   check-tenets: '2026-06-22T02:54:28.628285+00:00'
   check-links: '2026-06-22T08:44:55.221293+00:00'
-  deep-review: '2026-06-22T16:46:38.563502+00:00'
+  deep-review: '2026-06-22T16:51:52.257380+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-22T08:45:51.956876+00:00'
   coalesce: '2026-06-22T13:59:00.568877+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 412
-  reviews_completed: 5618
+  reviews_completed: 5619
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -171,6 +167,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-22'
   outcome: success
 - task: deep-review
@@ -1311,11 +1311,51 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    chain: 1
-  last_replenishment_run: 544
-  last_replenishment: '2026-06-22T16:39:00+00:00'
+    staleness: 1
+  last_replenishment_run: 545
+  last_replenishment: '2026-06-22T16:52:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.544 (2026-06-22T16:39Z): FLOOR-RESTORED via
+  current_replenishment_note: 'run no.545 (2026-06-22T16:52Z): FLOOR-RESTORED via
+    1 genuine-own-body-drift deep-review mint of topics/quantum-biology-and-neural-consciousness.md.
+    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2 pre-mint
+    (the two prior-run deep-review P2s still pending: apex/interface-specification-programme
+    run 539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3, unmet
+    by 1 -- the documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
+    NOT a deadlock. Run 544''s CHAIN mint (cross-review/integration of the fresh concepts/entropic-brain-hypothesis.md)
+    was PICKED + executed by the cycle slot minutes later (commit ee9b19898, last_deep_review
+    now 2026-06-22T16:51Z) AND successfully added the reciprocal backlinks (the page
+    now has 3 inbound files / 6 wikilink mentions, up from near-orphan), so the live
+    floor fell back to 2 -- the documented deep_review_over_reviews_converged same-day
+    cycle-collision. ALL 8 sources independently re-audited from live disk, no other
+    safe restorer: (1) CHAIN ZERO -- the entropic-brain research->expand->cross-review
+    chain is fully consumed (cross-review just ran, backlinks confirmed); the only remaining
+    successor is the already-queued P3 parapsychology-firewall connective-enrichment.
+    (2) UNCONSUMED RESEARCH ZERO -- the 4 newest notes (entropic-brain, thermal-consciousness,
+    vestibular-consciousness, interoceptive-consciousness) all disk-confirmed consumed
+    into live same-slug articles. (3) GAP caps have headroom (topics 278/320, concepts
+    267/320, positions 8/80) but new-article generation is harvester-governed (last
+    2026-06-22T16:00Z) + Vetoed-bank-dedup-blocked; voids 101/100 OVER. (4) STALENESS
+    -- the chosen mint: topics/quantum-biology-and-neural-consciousness.md was substantively
+    refined today 07:45Z (commit 896b94079, evidence-tier + Wiest-2025/macroscopic-entanglement
+    contested-status), bumping ai_modified (07:45) past last_deep_review (2026-06-05),
+    drift ~16.8d; the new contested-status calibration is deep-review-UNVERIFIED (same
+    Torres-Alegre refine vein, different file). Length-safe: body 3998w = soft_warning,
+    2w under the 4000 topics hard ceiling (review must stay length-neutral/trimming).
+    Not queued (no open ### header), not deep-review-vetoed (Vetoed/### hits are all
+    distinct-type condense/length tasks + completed citation fixes). Active-research
+    domain (quantum-biology), Tenet 2 load-bearing, ai_system claude-opus-4-6. The other
+    drift-list hits are cosmetic cross-link/reciprocal-backlink churn (phenomenal-acquaintance/overflow,
+    three-dimensional-world-rep, altered-states just-touched 16:48Z by the entropic
+    cross-review) -- the apex_last_synthesis-drift-artifact false-positive class, near-no-op
+    if minted. (5) ORPHANS ZERO (quality.orphaned_files=0). (6) LENGTH no NEW safe condense
+    -- every content-section offender is HUMAN-DEFERRED / #veto / accept-as-survey /
+    index-hub; the language-recursion P3 condense is already queued. (7) POSITIONS 8/80
+    slow-add, audited 06-22T06:20, no new stable commitment lacking a register entry,
+    no dependency-changed update due. (8) APPLIED-APEX no high-confidence cluster gap.
+    Inserted at top of Active Tasks to defeat LIFO ([[queue-lifo-starvation]]). Live
+    selector AFTER mint = 3, floor restored. Expect replenish-at-floor + deep-review-cycle-collision
+    alternation to continue.'
+  superseded_544_replenishment_note: 'run no.544 (2026-06-22T16:39Z): FLOOR-RESTORED via
     1 CHAIN-SUCCESSOR cross-review/integration mint for the just-created concepts/entropic-brain-hypothesis.md.
     Authoritative live count_p0_p2_tasks(content)=2 pre-mint (the two pending deep-review
     P2s: apex/interface-specification-programme run 539 + concepts/delegatory-causation
