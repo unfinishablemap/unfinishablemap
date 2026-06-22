@@ -4,7 +4,7 @@ description: "How does consciousness construct a unified three-dimensional world
 created: 2026-03-09
 modified: 2026-05-22
 human_modified:
-ai_modified: 2026-05-22T11:45:00+00:00
+ai_modified: 2026-06-22T00:00:00+00:00
 last_deep_review: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
@@ -84,7 +84,7 @@ The 3D world representation problem has three distinguishable aspects, each posi
 
 ### The Construction Problem
 
-How are fragmented, modality-specific signals transformed into a single unified spatial representation? This is a version of the [[binding-problem|binding problem]] applied specifically to spatial cognition. Visual depth, auditory localisation, proprioceptive body position, and vestibular orientation are processed in different brain regions using different neural codes. The bound spatial world—in which a visible object is also the source of a sound, located at a reachable distance from a felt body—requires these disparate signals to be integrated into a single coherent spatial framework.
+How are fragmented, modality-specific signals transformed into a single unified spatial representation? This is a version of the [[binding-problem|binding problem]] applied specifically to spatial cognition. Visual depth, auditory localisation, proprioceptive body position, and [[vestibular-consciousness-and-the-interface|vestibular orientation]]—the otolith gravity signal supplying the world-anchored vertical axis—are processed in different brain regions using different neural codes. The bound spatial world—in which a visible object is also the source of a sound, located at a reachable distance from a felt body—requires these disparate signals to be integrated into a single coherent spatial framework.
 
 The [[unity-of-consciousness|unity of consciousness]] is particularly vivid in spatial experience. The perceived world is not a collection of separate spatial maps (one visual, one auditory, one proprioceptive) that happen to coexist. It is a single spatial arena in which all modalities are registered. When a door slams, the sound comes from where the door is seen to be. When reaching for a cup, the felt position of the hand converges with the seen position of the cup in a shared space. This cross-modal spatial unity is so seamless that it takes philosophical reflection to notice it is puzzling at all.
 

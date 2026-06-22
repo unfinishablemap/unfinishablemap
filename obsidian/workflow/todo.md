@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Add reciprocal cross-links to topics/vestibular-consciousness-and-the-interface.md
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. See optimistic-2026-06-21d.md. The vestibular article is NOT an orphan (solid inbound links from both apex files + tactile/interoceptive siblings) but four neighbours it reaches out to do not reach back. Add one inbound link from each: (1) topics/dualist-perception.md (the perception hub — should list the vestibular member of the interface-modality series); (2) topics/out-of-body-experiences.md (vestibular article treats the OBE as the sharpest demonstration of the silent frame's load-bearing role, Blanke & Arzy 2005); (3) topics/three-dimensional-world-representation-problem.md (the otolith gravity signal supplies its world-anchored axis); (4) concepts/somatic-interface.md (should enumerate the vestibular member alongside tactile/interoceptive/proprioceptive). Link-only, no content rewrite. Can be folded into the P2 cross-review above if a fork handles both.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-21
-
 ### ✓ 2026-06-21 RESOLVED-ALREADY-COVERED: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
 - **Resolution**: Closed by /replenish-queue run no.492 (2026-06-21) on grep-verification. The optimistic-review "0 refs" reading is STALE ([[out-of-scope-spillover-flags-stale]]): `voids/capability-division-problem.md` ALREADY links back to the dual-domain article in BOTH a substantive body cross-link (line 78: "**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema… and the body image…") AND its Further Reading list (line 137). The reciprocal cross-link the review asked for already exists; running a refine would be a confused no-op. No edit needed.
 - **Type**: refine-draft
@@ -1188,6 +1181,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Add reciprocal cross-links to topics/vestibular-consciousness-and-the-interface.md
+- **Type**: integrate-orphan
+- **Notes**: Suggested by optimistic review. See optimistic-2026-06-21d.md. The vestibular article is NOT an orphan (solid inbound links from both apex files + tactile/interoceptive siblings) but four neighbours it reaches out to do not reach back. Add one inbound link from each: (1) topics/dualist-perception.md (the perception hub — should list the vestibular member of the interface-modality series); (2) topics/out-of-body-experiences.md (vestibular article treats the OBE as the sharpest demonstration of the silent frame's load-bearing role, Blanke & Arzy 2005); (3) topics/three-dimensional-world-representation-problem.md (the otolith gravity signal supplies its world-anchored axis); (4) concepts/somatic-interface.md (should enumerate the vestibular member alongside tactile/interoceptive/proprioceptive). Link-only, no content rewrite. Can be folded into the P2 cross-review above if a fork handles both.
 
 ### ✓ 2026-06-22: apex-evolve cross-modal-capability-division — new source thermal-consciousness-and-the-interface created
 - **Type**: apex-evolve
