@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-06-21 05:52:37+00:00
+ai_modified: 2026-06-22 08:21:15+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8
 author: null
 concepts:
@@ -77,6 +77,8 @@ Early neuroimaging studies reported structural brain changes from meditation: in
 ### The Replication Challenge
 
 Kral et al. (2022), published in *Science Advances*, conducted the most rigorous test to date: two three-arm randomised controlled trials with 218 meditation-naïve participants, MRI scans before and after 8-week interventions, and both waitlist and well-matched active control groups. They found no evidence of structural brain changes from Mindfulness-Based Stress Reduction—no changes in grey matter volume, density, or cortical thickness at whole-brain level or in previously claimed regions of interest. The earlier positive findings likely reflected methodological limitations: small samples, lack of active controls, and circular analysis.
+
+The meta-analytic literature has proved no more secure. A 2025 anatomical-likelihood meta-analysis reporting that mindfulness-based randomised trials produce structural brain changes was retracted by *Scientific Reports* after it emerged that four null-finding studies—roughly 40% of the pooled participants—had been omitted, leaving the dataset unable to support its positive conclusion (Siew & Yu, 2025, retracted; the authors disagreed with the retraction). Selective inclusion of exactly this kind is the mechanism that inflates apparent structural effects, and it counsels treating any single positive meta-analysis in this literature as provisional until its inclusion criteria are independently checked.
 
 ### What Remains
 
@@ -159,3 +161,4 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 16. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
 17. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 18. Perez, G. M., et al. (2025). Brain changes associated with depression treatment: A meta-analysis. *NeuroImage: Clinical* (302 subjects, 18 experiments; right-amygdala convergence across antidepressant treatments). doi:10.1016/j.nicl.2025.103874
+19. Siew & Yu (2025). Anatomical-likelihood-estimation meta-analysis reporting structural brain changes from mindfulness-based randomised trials. *Scientific Reports*. **Retracted** 2025 — four null-finding studies (≈40% of pooled participants) were omitted; the authors disagreed with the retraction. doi:10.1038/s41598-025-11069-9
