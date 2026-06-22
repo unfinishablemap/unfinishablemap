@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-06-11 10:18:18+00:00
+ai_modified: 2026-06-22 09:37:16+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-12 02:21:00+00:00
 apex_sources:
@@ -47,7 +47,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/fihonjLV5CQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 17:33:20+00:00
+last_deep_review: 2026-06-22 09:37:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

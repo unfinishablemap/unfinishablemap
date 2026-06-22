@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-06-22T07:45:21+00:00
+ai_modified: 2026-06-22T10:09:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -196,7 +196,7 @@ These conditions are offered in good faith, but what counts as "institutional co
 ## References
 
 1. de Waal, F. B. M. (2008). "Putting the Altruism Back into Altruism: The Evolution of Empathy." *Annual Review of Psychology*, 59, 279-300.
-1. Husserl, E. (1931). *Cartesian Meditations*. Kluwer Academic Publishers.
+1. Husserl, E. (1931/1960). *Cartesian Meditations: An Introduction to Phenomenology* (D. Cairns, Trans.). The Hague: Martinus Nijhoff. (First published 1931 as *Méditations cartésiennes*, Paris: Armand Colin.)
 1. Mead, G. H. (1934). *Mind, Self, and Society*. University of Chicago Press.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Searle, J. R. (1995). *The Construction of Social Reality*. Free Press.

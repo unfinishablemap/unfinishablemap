@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-22 07:45:21+00:00
+ai_modified: 2026-06-22 10:09:46+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -199,7 +199,7 @@ These conditions are offered in good faith, but what counts as "institutional co
 ## References
 
 1. de Waal, F. B. M. (2008). "Putting the Altruism Back into Altruism: The Evolution of Empathy." *Annual Review of Psychology*, 59, 279-300.
-1. Husserl, E. (1931). *Cartesian Meditations*. Kluwer Academic Publishers.
+1. Husserl, E. (1931/1960). *Cartesian Meditations: An Introduction to Phenomenology* (D. Cairns, Trans.). The Hague: Martinus Nijhoff. (First published 1931 as *Méditations cartésiennes*, Paris: Armand Colin.)
 1. Mead, G. H. (1934). *Mind, Self, and Society*. University of Chicago Press.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Searle, J. R. (1995). *The Construction of Social Reality*. Free Press.

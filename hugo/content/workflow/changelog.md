@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-22T09:37:16+00:00 - deep-review
+- **Status**: Success (5th pass; converged — no critical issues; frontmatter timestamp only)
+- **File**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Word count**: 4493 → 4493 (no change; 112% of apex soft 4000, well under 5000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (body unchanged); frontmatter: stamped last_deep_review, bumped ai_modified
+- **Scope**: convergence-aware pass. Only body change since 2026-06-02 review was the 2026-06-11 refine-draft REBUS/Carhart-Harris co-optation fix (3f1a73934) — assessed as a calibration *improvement*, not a defect (adds "compatible with REBUS rather than confirmed by it... the programme's authors would reject the filter gloss"). Preserved, not reverted.
+- **Citation web-verify (§2.4)**: scoped, not re-litigated. The 2026-06-02 pass completed a full 15-reference + 6-statistic publisher-of-record ledger; References block byte-identical since (git-diff confirmed — only the REBUS prose changed, its lone cite Carhart-Harris&Friston 2019 unchanged). Prior fixes verified intact: Konkoly 42%/17%, Sepúlveda 801-809. Superlative helper empty — no currency sweep owed.
+- **Calibration (§2)**: PASS — diagnostic test negative; every framework-stage hedge (stochastic-emergence "live hypothesis", NDE "experiential gloss contested", active-reboot "framework-stage interpretation", continental-drift single-pattern self-correction, propofol "Abolished" caveat) present verbatim. No slippage, no hardening.
+- **Engagement modes**: "production models" engaged generically; no named-opponent direct refutation; no mode owed. Label-leakage scan clean.
+- **Internal consistency**: matrix propofol "Abolished" reconciled with body epistemic hedge; no self-contradiction.
+- **Output**: [deep-review-2026-06-22-altered-states-as-interface-evidence](/reviews/deep-review-2026-06-22-altered-states-as-interface-evidence/)
+
 ## 2026-06-22T09:27:57+00:00 - deep-review
 - **Status**: Success (first deep-review of same-day create; no body change)
 - **File**: [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)
