@@ -190,17 +190,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-22
 
-### P2: Adopt explanatory-gap calibration in thermal-consciousness-and-the-interface
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/thermal-consciousness-and-the-interface.md
-- **Notes**: From topic-concept anchoring audit 2026-06-22. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 0.94/kw is below 3.00/kw (target = 60% of anchor 9.87/kw, capped at 3.0/kw)
-  - strong-assertion density 0.94/kw exceeds 1.5× anchor (0.58/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-22
-
 ### ✓ 2026-06-21 RESOLVED-ALREADY-COVERED: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
 - **Resolution**: Closed by /replenish-queue run no.492 (2026-06-21) on grep-verification. The optimistic-review "0 refs" reading is STALE ([[out-of-scope-spillover-flags-stale]]): `voids/capability-division-problem.md` ALREADY links back to the dual-domain article in BOTH a substantive body cross-link (line 78: "**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema… and the body image…") AND its Further Reading list (line 137). The reciprocal cross-link the review asked for already exists; running a refine would be a confused no-op. No edit needed.
 - **Type**: refine-draft
@@ -1345,6 +1334,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Adopt explanatory-gap calibration in thermal-consciousness-and-the-interface
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-22. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-22: Deep review concepts/knowledge-argument.md (genuine-drift: 2026-06-21 refine content unreviewed since 2026-06-01)
 - **Type**: deep-review
