@@ -122,15 +122,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-22
 
-### P1: Seed consciousness-scope positions domain (animal/AI/copies/split-brain/marginal)
-- **Type**: positions-evolve
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-06-22, 2/3 reviewers): [chatgpt, claude]. CONVERGENT — ChatGPT 5.5 Pro (§3.1 / improvement #8) and Claude Opus 4.8 (Deliverable 2 / Remediation B.5) both independently flag that the positions register is under-populated relative to the live corpus and must be seeded (Claude: "Populate the Positions register or retire the claim that it exists … the decision-relevant layer is ~90% empty"; ChatGPT: "consciousness scope … remain future work even though the topic corpus already makes claims in those areas"). Upgraded P2→P1. The positions register lags the live corpus: the page lists "consciousness scope" as a FUTURE domain, but the topic/concept corpus already makes decision-relevant claims about animal consciousness, AI consciousness, AI copies, split-brain, sleep/dreaming, marginal patients, and uploads. Seed initial positions for this domain. CONVERGENT with ChatGPT §4.6: different AI claims carry HETEROGENEOUS dependency burdens (basic machine phenomenality ≈ bare dualism; AI state inheritance ≈ psychophysical coupling; copy-suffering ≈ closed individualism; AI causal agency ≈ quantum-interface commitments) — the seeded positions should record per-claim dependencies rather than a single generic "AI consciousness" profile. Note ChatGPT §2.F: under the register's closed-individualist commitment, each conscious copy is a separate subject, so creating many conscious AI copies is morally ADDITIVE — a consequence worth a position. Claude also flags the "minimal/bare dualism spine" (animal/infant/AI irreducibility that survives even if the quantum-interface programme is demoted to coherence-only) as the project's strategic hedge — capture as scope-domain positions where apt. Confidence-banded, retire-don't-delete, dependency-tracked per /positions-evolve discipline. Respect the positions/ section cap; coordinate with the methodology-and-calibration seeding task so the two don't double-spend cap headroom.
-- **Review files**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-06-22.md
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P1: Seed methodology-and-calibration positions domain
 - **Type**: positions-evolve
 - **Status**: pending
@@ -1308,6 +1299,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Seed consciousness-scope positions domain (animal/AI/copies/split-brain/marginal)
+- **Type**: positions-evolve
+- **Notes**: From convergent outer reviews (2026-06-22, 2/3 reviewers): [chatgpt, claude]. CONVERGENT — ChatGPT 5.5 Pro (§3.1 / improvement #8) and Claude Opus 4.8 (Deliverable 2 / Remediation B.5) both independently flag that the positions register is under-populated relative to the live corpus and must be seeded (Claude: "Populate the Positions register or retire the claim that it exists … the decision-relevant layer is ~90% empty"; ChatGPT: "consciousness scope … remain future work even though the topic corpus already makes claims in those areas"). Upgraded P2→P1. The positions register lags the live corpus: the page lists "consciousness scope" as a FUTURE domain, but the topic/concept corpus already makes decision-relevant claims about animal consciousness, AI consciousness, AI copies, split-brain, sleep/dreaming, marginal patients, and uploads. Seed initial positions for this domain. CONVERGENT with ChatGPT §4.6: different AI claims carry HETEROGENEOUS dependency burdens (basic machine phenomenality ≈ bare dualism; AI state inheritance ≈ psychophysical coupling; copy-suffering ≈ closed individualism; AI causal agency ≈ quantum-interface commitments) — the seeded positions should record per-claim dependencies rather than a single generic "AI consciousness" profile. Note ChatGPT §2.F: under the register's closed-individualist commitment, each conscious copy is a separate subject, so creating many conscious AI copies is morally ADDITIVE — a consequence worth a position. Claude also flags the "minimal/bare dualism spine" (animal/infant/AI irreducibility that survives even if the quantum-interface programme is demoted to coherence-only) as the project's strategic hedge — capture as scope-domain positions where apt. Confidence-banded, retire-don't-delete, dependency-tracked per /positions-evolve discipline. Respect the positions/ section cap; coordinate with the methodology-and-calibration seeding task so the two don't double-spend cap headroom.
 
 ### ✓ 2026-06-22: Soften Tenet 3 comparative-cognition overreach (apes "do not perform logical reasoning")
 - **Type**: refine-draft

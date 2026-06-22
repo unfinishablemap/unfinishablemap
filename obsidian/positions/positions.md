@@ -4,7 +4,7 @@ description: "The Map's explicit, maintained register of positions it currently 
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-06-20T00:56:00+00:00
+ai_modified: 2026-06-22T00:00:00+00:00
 draft: false
 topics: []
 concepts:
@@ -55,7 +55,9 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [[voids-as-evidence|Voids as evidence]] — what the cognitive-void catalogue evidentially supports: framework-internal coherence under the common-cause null, not independent confirmation
 - [[value-in-selection|Value in selection]] — the value-blind / value-sensitive fork: whether felt valence does the selecting or merely watches, and the collated battery of evidence that would move the fork in either direction
 - [[individuation-and-subjecthood|Individuation and subjecthood]] — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), grounded on the indexical/haecceity objection, held as tenet-driven with its ground acknowledged as a void
-- *Future domains, to be seeded as the register grows:* consciousness scope (animal, AI, edge cases); methodology and calibration; applied verdicts (clinical, AI, personal philosophy)
+- [[consciousness-scope|Consciousness scope]] — where consciousness reaches in biological subjects: the substrate-permissive *minimal-dualism spine* (animal/infant phenomenality on bare Tenet 1, no quantum apparatus), animal consciousness graded by marker convergence, early infant emergence, and the fragmentation cases (split-brain, anaesthesia, sleep, dreaming) read as interface disruption rather than division of consciousness
+- [[ai-consciousness-scope|AI consciousness scope]] — consciousness in artificial systems, split out for its heavier and *heterogeneous* dependency burden: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, and conscious copies as morally additive under closed individualism
+- *Future domains, to be seeded as the register grows:* methodology and calibration; applied verdicts (clinical, AI, personal philosophy)
 
 ## How positions are maintained
 

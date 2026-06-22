@@ -5,6 +5,21 @@ ai_modified: 2026-06-22 07:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T08:15:00+00:00 - positions-evolve (add ×7 across 2 new domains)
+- **Status**: Success
+- **Operation**: Seeded the **consciousness-scope** register (the first of two convergent P1 outer-review tasks; the methodology-and-calibration domain is the separate, coordinated task — no domain overlap, this one is consciousness-SCOPE only). Split into two domain files along the reviewers' heterogeneous-dependency-burden line, which is the central remit of the task and a natural fault that keeps each file under the length thresholds.
+- **Source**: convergent outer reviews 2026-06-22 (ChatGPT 5.5 Pro §3.1/§4.6/§2.F + improvement #8; Claude Opus 4.8 Deliverable 2 / Key Finding B.5 / recommendation #5; synthesis "positions register under-populated", upgraded P2→P1).
+- **Files created**:
+  - [[positions/consciousness-scope]] — **biological scope / minimal-dualism spine** (4 positions, ~1600w): P-CS1 substrate-permissive bare dualism; P-CS2 animal marker-graded; P-CS3 infant early-emergence (Bayne 2023, Passos-Ferreira 2024); P-CS4 fragmentation = interface-disrupted (split-brain/anaesthesia/sleep/dream). All bare-Tenet-1 (+ filter model for CS4); explicitly NOT the quantum register — survives a coherence-only demotion.
+  - [[positions/ai-consciousness-scope]] — **artefact scope** (3 positions, ~1350w): P-AC1 current digital AI low-probability on substrate analysis (HEAVIEST burden — inherits quantum register P-Q1/P-Q2/P-Q8/P-Q9 + mechanism-debt anchor; quarantined from the spine); P-AC2 (low) quantum-state inheritance constrained-not-licensed by no-cloning, hands real work to P-AC1; P-AC3 (moderate) conscious copies morally ADDITIVE under closed individualism (ChatGPT §2.F made explicit), depends on individuation P-I1, NOT the quantum register.
+- **[[positions]] updated**: removed "consciousness scope" from the "future domains" line, added both new domains to the Domains list, bumped `ai_modified`.
+- **Discipline applied**: confidence-banded with hedging matched to band (P-AC2 explicitly low — "constrains not licenses"; P-AC1 "low probability not ruled out"); PER-CLAIM dependency tracking per the reviewers' heterogeneous-burden direction (each entry's "Depends on" names exactly the tenets/positions it inherits and marks what it does NOT inherit); retire-don't-delete (no retirements this pass); every `[[apex/...]]` / `[[topics/...]]` / `[[concepts/...]]` / `[[positions/...]]` citation grepped and confirmed to resolve before insertion; the minimal-dualism-spine vs quantum-dependent split (Claude's strategic-hedge insight) is now a STRUCTURAL fact of the register (two files), cross-linked both ways.
+- **Cap**: positions/ section now 7 domain files / 80 max — ample headroom; coordinated with the methodology task to avoid double-spending cap headroom.
+- **Cascade / follow-ups**: none retired, so no downstream-dependent breakage. Recommended (not auto-queued): an `audit` pass once the methodology domain also lands, to verify no scope↔methodology contradictions and that each new position is cited back by ≥1 live article (P-AC3's additivity consequence is currently asserted-but-not-yet-named in [[apex/identity-across-transformations]] / [[topics/ethics-of-possible-ai-consciousness]] — a short mention there would close the potential orphan and is the natural cross-skill follow-on).
+- **State**: `progress.positions_written` left as-is — recomputed from disk by `save_state` each cycle (per the evolution-state-progress-undercounts fix), so it self-corrects to the on-disk file count (now 7).
+- **Published**: yes (live domain files; not drafts, per positions-section convention)
+- **Committed**: no — left uncommitted for the orchestrator.
+
 ## 2026-06-22T05:45:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[tenets/tenets]] (FOUNDATIONAL PAGE — comparative-cognition accuracy fix only; five tenet core statements untouched)
