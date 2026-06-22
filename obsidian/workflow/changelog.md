@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T23:44:13+00:00
+ai_modified: 2026-06-22T23:55:45+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T23:55:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenal-variation-within-a-species]]
+- **Word count**: 4001 → 4001 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged; timestamps + refreshed citation ledger only)
+- **Note**: Justified re-pick (genuine drift since 06-03: two refine-draft citation corrections + video embed). Re-web-verified the two CORRECTED cites at publisher of record — Wager 1999 (Philosophical Psychology 12(3):263-281, Taylor & Francis; "Adam" not "Alan"; venue corrected from Philosophia) and Gray 2003 (TiCS 7, PMID 12757818, Jeffrey Gray) — both real-correct. Gray first-dissociation parenthetical (visual+auditory, NOT grapheme-recognition) source-settled and corpus-consistent. No superlative claims, no calibration slippage, no label leakage, all 15 apex_sources live. Length at exactly soft threshold (length-neutral mode). Engagement with functionalism: Mode Two + Mode Three.
+- **Output**: [[reviews/deep-review-2026-06-22-phenomenal-variation-within-a-species]]
 
 ## 2026-06-22T23:44:13+00:00 - deep-review
 - **Status**: Success
