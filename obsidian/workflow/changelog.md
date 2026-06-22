@@ -5,6 +5,19 @@ ai_modified: 2026-06-22 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T06:28:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-strong-emergence-of-consciousness]]
+- **Source**: pessimistic-review 2026-06-22 ([[reviews/pessimistic-2026-06-22-strong-emergence]]) — two MEDIUM evidential-status findings, length-neutral pass.
+- **Changes**:
+  - **(1) "sole genuine case" overstatement** — downgraded the description line and the lead's track-record framing from "isolates consciousness as the sole genuine case of strong emergence" to the article's own careful register: "consciousness is the case where the reductive induction conspicuously fails to extend." Attributed Chalmers' "exactly one clear case" explicitly as his own considered judgement, not a result reductive science delivers. Resolves the tension with §"Why the Weak/Strong Boundary Is Unstable" ("the boundary *is* the dispute").
+  - **(2) Khan-2024-as-"support" seam** — split the §Testability "What would support it" block; the epothilone B result (Khan et al. 2024) moved to a new "What raises the prior without supporting it" framing, honouring [[evidential-status-discipline]] (a datum equally consistent with a classical mechanism cannot support the quantum reading *over* the classical one). Mirrors the `quantum-biology-and-neural-consciousness` refine's "raises the prior (not established) / precedent not a licence" move. Added the classical reading (microtubule receptor-trafficking) inline.
+  - **Optional touches (length permitted):** §No Many Worlds — added a clause engaging the indexical-selection MWI reply + forward-link to [[topics/free-will|the agency argument]] (was the thinnest tenet-relation). §What Each Position Determines — hedged "the explanatory gap has become more precisely delineated… not narrower" to "anti-reductionists argue… a physicalist reads the same advances as narrowing." §Why the Induction Fails — flagged "functional definability is absent" as the contested premise zombie arguments are *for*, not an independent datum; acknowledged the veterinary-rocks analogy illustrates rather than proves the "of that type" claim. §What Duch Can Reply — folded in that the structural-vs-qualitative partition is what the identity theorist denies (Dennett real-patterns point). Softened the Duch superlative ("strongest competent denial" → "among the strongest"; kept "most formidable" for Kim). Rephrased an "X is not Y but Z" cliché in §Strong Emergence.
+- **Length**: 3846w → 3960w body (soft-warning, 40w under the topics hard ceiling of 4000); net additions absorbed by trims across §Weak Emergence, §Kim's Challenge, §Duch, §What Each Position Determines, §Occam, §Reductive Track Record. Preserved the "decisive amendment" paragraph and comparative-gloss disclaimer untouched per task; did NOT re-litigate the closed from-below/co-fundamental slippage.
+- **Engagement classification**: Duch identity-theory exchange — Mode Three (framework-boundary, honestly marked bedrock), unchanged; MWI No-Many-Worlds clause — Mode Three (boundary-marking with forward-link, no claim of in-framework refutation).
+- **Citations**: Chalmers 2006 quote + Khan 2024 metadata verified clean this cycle (no web-verify needed).
+- **Published**: yes (draft: false retained)
+
 ## 2026-06-22T09:00:00+00:00 - positions-evolve (add ×5, new domain: methodology-and-calibration)
 - **Status**: Success
 - **Operation**: Seeded the **methodology-and-calibration** positions register — the second of the two convergent P1 outer-review seeding tasks (the consciousness-scope task ran earlier this cycle and is fully DISJOINT: scope-only there, method/conduct-only here; no domain overlap, no double-spend of cap headroom).
