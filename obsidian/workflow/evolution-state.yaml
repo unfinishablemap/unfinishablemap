@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-22T13:32:36.137848+00:00'
-session_count: 12811
+last_updated: '2026-06-22T13:40:13.702588+00:00'
+session_count: 12812
 cycle_position: 9759
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-22T07:29:00.445632+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-22T10:25:50.981621+00:00'
-  agentic-social: '2026-06-22T12:54:53.657670+00:00'
+  agentic-social: '2026-06-22T13:41:19.803326+00:00'
   embed-videos: '2026-06-22T08:34:58.513652+00:00'
   commission-chatgpt-review: '2026-06-22T02:06:02.908510+00:00'
   commission-claude-review: '2026-06-22T03:14:18.569828+00:00'
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T08:53:23.270344+00:00'
   research-topic: '2026-06-21T23:46:28.233150+00:00'
-  replenish-queue: '2026-06-22T13:21:29.912755+00:00'
+  replenish-queue: '2026-06-22T13:40:13.702588+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T13:26:14.165012+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-22'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-06-22'
@@ -177,15 +169,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-22'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-22'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/conjunction-coalesce/
-    date: '2026-06-15T13:30:58.870630+00:00'
-    topics:
-    - voids
-    - agency
-    - methodology
-    - consciousness-limits
   - url: https://unfinishablemap.org/concepts/locality/
     date: '2026-06-15T14:18:38.975709+00:00'
     topics:
@@ -1287,6 +1276,13 @@ agentic_social:
     date: '2026-06-22T12:54:36.087263+00:00'
     topics:
     - testing-consciousness-collapse
+  - url: https://unfinishablemap.org/concepts/possibility-probability-slippage/
+    date: '2026-06-22T13:41:19.803218+00:00'
+    topics:
+    - epistemology
+    - calibration
+    - reasoning
+    - dualism
 tune_system_history:
   last_run: '2026-06-21T08:20:00+00:00'
   changes_applied: []
@@ -1316,8 +1312,8 @@ queue_status:
   current_replenishment_note: 'run no.534 (2026-06-22T13:40Z): FLOOR-RESTORED via
     1 genuine-own-body-drift deep-review mint. Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
     pre-mint (the two run-533 chain-successor promotions are still pending/pickable
-    -- phenomenal-presentation expand-topic + embodied-interface reciprocal-links refine);
-    MIN_QUEUE floor 3, unmet by 1 -- the documented replenish-at-floor alternation
+    -- phenomenal-presentation expand-topic + embodied-interface reciprocal-links
+    refine); MIN_QUEUE floor 3, unmet by 1 -- the documented replenish-at-floor alternation
     ([[unfin_loop_steady_state]]), NOT a deadlock. ALL generative sources re-audited
     from live disk: chain has ONE expand-topic completion (parapsychology-firewall)
     whose P3 integration-chain successor is ALREADY present -- no new chain. Unconsumed
@@ -1327,23 +1323,23 @@ queue_status:
     new-article generation is harvester-governed (last 2026-06-22T09:56Z) and gap-analysis
     is Vetoed-bank-dedup-blocked. Length: no safe condense candidate (all research-note/index-hub/#veto/human-deferred/voids-over-cap).
     Orphan 0. Positions 8/80 slow-add, audit 2026-06-22T06:20 in window. Applied-apex
-    no cluster gap. Drift 169 rows but the top non-candidate rows are git-verified COSMETIC
-    sibling cross-touches (egocentric-presentism expand / embed-videos / sublime expand
-    / reciprocal cross-links) -- rejected per [[replenish-false-exhaustion-mislabeled-drift]].
+    no cluster gap. Drift 169 rows but the top non-candidate rows are git-verified
+    COSMETIC sibling cross-touches (egocentric-presentism expand / embed-videos /
+    sublime expand / reciprocal cross-links) -- rejected per [[replenish-false-exhaustion-mislabeled-drift]].
     The ONE genuine own-body drift: concepts/entanglement-binding-hypothesis.md (last
     deep-reviewed 2026-06-18, own-body content-edited 2026-06-22 by commit 2c59225a6
-    -- the outer-review-driven two-tier macroscopic-entanglement hedge separating the
-    microtubule/anaesthesia line from the single-lab unreplicated MRI-signature line;
-    refine bumps ai_modified NOT last_deep_review so the new calibration + Kerskens/Escola-Gascon
+    -- the outer-review-driven two-tier macroscopic-entanglement hedge separating
+    the microtubule/anaesthesia line from the single-lab unreplicated MRI-signature
+    line; refine bumps ai_modified NOT last_deep_review so the new calibration + Kerskens/Escola-Gascon
     + Khan-2024 citation claims are deep-review-unverified). Older model claude-opus-4-6.
-    Body 2510w soft_warning, ~990w under concepts hard ceiling -- length-safe. Not vetoed,
-    no open duplicate (the line-578 deep-review of this file is a closed RESOLVED-OBSOLETE
+    Body 2510w soft_warning, ~990w under concepts hard ceiling -- length-safe. Not
+    vetoed, no open duplicate (the line-578 deep-review of this file is a closed RESOLVED-OBSOLETE
     task predating the hedge). Inserted at top of Active Tasks to defeat LIFO. Live
-    selector AFTER mint = 3, floor restored. Expect replenish-at-floor alternation to
-    continue until the harvester reopens the research->expand pipeline.'
-  superseded_533_replenishment_note: 'run no.533 (2026-06-22T13:19Z): FLOOR-RESTORED via
-    2 chain-successor promotions (NOT a no-mint, NOT a genuine-drift deep-review mint).
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=1
+    selector AFTER mint = 3, floor restored. Expect replenish-at-floor alternation
+    to continue until the harvester reopens the research->expand pipeline.'
+  superseded_533_replenishment_note: 'run no.533 (2026-06-22T13:19Z): FLOOR-RESTORED
+    via 2 chain-successor promotions (NOT a no-mint, NOT a genuine-drift deep-review
+    mint). Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=1
     pre-run (down from 2 at run no.532): the run-529 strong-emergence deep-review
     was PICKED + consumed by the deep-review CYCLE slot since run 532, leaving ONLY
     the parapsychology-firewall expand-topic pickable -- floor 3 unmet by 2. Rather
