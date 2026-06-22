@@ -5,6 +5,15 @@ ai_modified: 2026-06-22T15:14:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T15:29:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/parapsychology-firewall]]
+- **Original score**: n/a (calibration refine, not quality review)
+- **Trigger**: topic-concept anchoring audit (Audit Three) 2026-06-22 — fired against TWO anchors: [[ensemble-level-epiphenomenalism]] (hedge_density + strong_assertions) and [[interactionist-dualism]] (hedge_density + underdetermination_markers). Task named only the first; both addressed since they share the root cause (1 hedge / 1 strong-assertion verb across 1654 words).
+- **Changes**: Brought hedge density 0.60/kw → 3.58/kw (1→6 markers) by softening genuinely-exploratory passages (future-evidence speculation, the idleness/ensemble-epiphenomenalism converse, counterfactual-world predictions) — NOT the firewall thesis itself, which is a deliberate structural prediction the Map commits to. Removed the lone strong-assertion verb ("establishes"→"were to yield") taking strong-assertion density 0.60/kw → 0/kw. Added an explicit underdetermination marker ("compatible with both readings and do not adjudicate between them") on the decline-effect passage, which already made the point implicitly.
+- **Verification**: `evaluate_anchoring()` now returns no flags for either anchor. Length-neutral: 1654w → 1677w (well under ceiling). Voice and central claim preserved.
+- **Published**: yes
+
 ## 2026-06-22T15:14:14+00:00 - deep-review
 - **Status**: Success (converged no-op — metadata-only confirm)
 - **File**: [[topics/mathematical-structure-of-the-consciousness-physics-interface]]

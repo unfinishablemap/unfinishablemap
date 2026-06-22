@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt ensemble-level-epiphenomenalism calibration in parapsychology-firewall
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/parapsychology-firewall.md
-- **Notes**: From topic-concept anchoring audit 2026-06-22. The topic article over-claims relative to its anchor concept [[ensemble-level-epiphenomenalism]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 0.60/kw is below 2.19/kw (target = 60% of anchor 3.64/kw, capped at 3.0/kw)
-  - topic uses 1 strong-assertion verbs (0.60/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-22
-
-
 ### P2: Deep review apex/interface-specification-programme.md (2026-06-22 Torres Alegre preprint-status caveat is deep-review-unverified; Tenet-2 load-bearing, older model claude-opus-4-7)
 - **Type**: deep-review
 - **Status**: pending
@@ -1215,6 +1203,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Adopt ensemble-level-epiphenomenalism calibration in parapsychology-firewall
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-22. The topic article over-claims relative to its anchor concept [[ensemble-level-epiphenomenalism]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-22: Deep review topics/mathematical-structure-of-the-consciousness-physics-interface.md (2026-06-22 own-body Torres Alegre preprint-status caveat is deep-review-unverified; Tenet 2/4 load-bearing, older model claude-opus-4-6)
 - **Type**: deep-review
