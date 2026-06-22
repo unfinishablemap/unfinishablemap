@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T17:29:37+00:00
+ai_modified: 2026-06-22T17:40:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T17:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-acquaintance]]
+- **Scope**: Fourth-pass convergence-success review. Only change since the thorough 2026-05-31 citation-currency pass was one faithful cross-link install (commit 5bb1693c4, expand-topic side-effect): new [[phenomenal-presentation]] concept added to frontmatter + one new body sentence in the Non-conceptual character paragraph. Verified: (1) link target exists, bidirectional, and the new sentence is faithful to the linked page (presentation = passive showing-up; acquaintance = grasp of it); (2) spot-checked the previously-unlogged Husserl evidence taxonomy attribution (apodictic-for-existence / assertoric+presumptive-for-content) via the Husserl literature — faithful (apodictic-but-inadequate is Husserl's mature Cartesian Meditations position). Citation ledger NOT re-run (References block unchanged since 2026-05-31; skip rule applies). No boundary-substitution, no label leakage, no calibration slippage.
+- **Engagement modes** (editor-internal, unchanged): Dennett/Lewis/HOT/representationalist replies Mode One; Loar dilemma Mode One/Two — no opponent engagement modified.
+- **Word count**: 2793 → 2793 (no body edits; frontmatter timestamps only). 112% of 2500 soft, under 3500 hard — length-neutral mode.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — converged article; new cross-link arrived clean, no manufactured edits. Flagged as a longer-review-interval candidate (two consecutive no-op-on-content passes, each re-triggered by cosmetic cross-link bumps elsewhere).
+- **Output**: [[reviews/deep-review-2026-06-22-phenomenal-acquaintance]]
 
 ## 2026-06-22T17:29:37+00:00 - deep-review
 - **Status**: Success
