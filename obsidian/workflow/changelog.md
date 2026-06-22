@@ -5,6 +5,12 @@ ai_modified: 2026-06-22T21:13:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T21:26:42+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/embodied-cognition.md` (~3530w; oldest last_deep_review 2026-06-02 with unreviewed ai_modified, never the focus of a dedicated pessimistic review)
+- **Findings**: No critical issues. Citations web-verified clean (Masters 1992, Beilock & Carr 2001, Fuchs 2005, dual-task-improves claim). Medium argumentative-calibration issues: recurring "logical space" possibility-claim doing support-claim work (line 123 escalates to "strengthens dualism"); admitted-unresolved Buddhist/śūnyatā uncertainty not propagated upward; undated currency-drift-vulnerable robotics claim (line 139). Altered-state-symmetry audit does not apply (only jhāna present). No label-leakage. Queued one P3 refine-draft.
+- **Output**: [[pessimistic-2026-06-22c-embodied-cognition]]
+
 ## 2026-06-22T21:13:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/interoceptive-void]]

@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Refine concepts/embodied-cognition.md (pessimistic review: argumentative-calibration, not factual)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/embodied-cognition.md
+- **Notes**: Pessimistic review 2026-06-22 (see [[pessimistic-2026-06-22c-embodied-cognition]]). Citation integrity is HIGH — Masters 1992 (incl. the intentional "knerves" pun), Beilock & Carr 2001 (130:701-725), Fuchs 2005 (PPP 12(2):95-107), and the dual-task-improves claim all web-verified; no citation work needed. Findings are argumentative-calibration only, light edits: (1) the "leaves open the *logical space*" / "consistent with" move recurs (lines ~105, 123, 147) and at line 123 escalates to "this asymmetry *strengthens* dualism" — demote "strengthens" → "is not undermined by" where the support is only logical-space compatibility (which is symmetric — the same data fits physicalism, conceded at lines 101/103), OR make the load-bearing dependency on [[mind-brain-separation]] explicit at each instance so the reader knows the *occupation* of the space is argued elsewhere; (2) propagate the line-165 admitted-unresolved Buddhist/śūnyatā uncertainty UP into the AI-grounding (line 139 "consciousness itself") and filter sections with a one-clause cross-ref, so confidence is internally calibrated; (3) line 139 "even embodied robots struggle... transfer poorly" is undated/uncited and currency-drift-vulnerable to 2024-2026 embodied-foundation-model progress — date-stamp or soften to a conditional; (4) language: "The Map's response *must be*" (line 165) → "is"; fix mixed-modality hedge at line 139 ("*may* not be... *but consciousness itself*"). NO content removal — substance is sound. Altered-state-symmetry audit does NOT apply (only jhāna present, not filter-convergence framing). No label-leakage. All wikilinks + self-anchor resolve. ai_contribution=100.
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-22
+
 ### P2: Deep review apex/self-construction-constructor.md (genuine drift since 2026-05-28; 3 substantive deep-review-unverified paragraphs)
 - **Type**: deep-review
 - **File**: obsidian/apex/self-construction-constructor.md
