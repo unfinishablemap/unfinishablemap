@@ -5,6 +5,16 @@ ai_modified: 2026-06-22T23:15:05+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T23:20:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-memory]]
+- **Word count**: 3891 → 3891 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-22-consciousness-and-memory]]
+- **Notes**: Eighth review (9th counting pre-coalesce sources), convergence-confirmation pass. Re-qualified by three cosmetic Further Reading cross-links installed 2026-06-20 (memory-channel-interface-evidence, targeted-lesion-discriminating-tests, phenomenology-of-forgetting) — all three targets resolve, no broken links. Body prose byte-unchanged since the exhaustive 2026-06-03 citation pass. §2.4 web-verify SKIP-justified: References block unmodified since 2026-06-03 (full per-cite ledger then; every 2015–2025 cite CLEAN). Key finding: the Lepsius (2026) reconsolidation quote the 2026-06-03 review fixed was INTENTIONALLY REMOVED hours later (commit 6e472dde6) when its treatment migrated to the new [[reconsolidation-as-selection-window]] article — not a defect; prior stability note about "don't restore Kube/Lepsius" is now moot. Consistency spot-checks: inline↔References complete, no orphans (Lepsius removal closed the only candidate); load-bearing figures (SWR 100-250Hz, spindles 10-16Hz, 10 bits/s, childhood amnesia 3-4) match verified ledger; find_superlative_claims empty. Engagement modes unchanged (encoding-consolidation Mode Two, MWI Mode Three, choking Mode One), no label leakage, no boundary-substitution. No possibility/probability slippage. 3891w = 130% soft, 101 under 4000 hard — length-stable, not a human-length-decision trigger. No spurious edits per no-oscillation rule. Only frontmatter timestamps updated.
+
 ## 2026-06-22T23:15:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/functional-seeming]]
