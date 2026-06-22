@@ -1,1 +1,25 @@
-[]
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a38984a-12b4-832f-a672-641965380d73
+  commissioned_at: '2026-06-22T02:05:19.001875+00:00'
+  prompt_summary: 'Full-site audit: insights, structure, tenet coherence, stale claims'
+  target_filename: outer-review-2026-06-22-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous full-site audit of The Unfinishable Map
+    (https://unfinishablemap.org), a philosophical platform defending a dualist, consciousness-causes-quantum-collapse
+    worldview. Treat the whole site as the subject, not one article. Using web search,
+    identify: (1) novel insights or inferences the site has not yet stated but that
+    follow from its own commitments; (2) structural weaknesses (gaps, redundancy,
+    weak cross-linking, missing scaffolding); (3) tenet-coherence problems and cross-cluster
+    contradictions between topics, concepts, positions, and voids; (4) any empirical
+    or citation claims that look stale or unsupported. Before searching the open web,
+    consult the changelog at https://unfinishablemap.org/workflow/changelog/ so you
+    account for recent activity that search indices have not yet picked up (24-48h
+    lag). End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
