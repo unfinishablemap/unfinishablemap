@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T21:11:26.570167+00:00'
-session_count: 12893
-cycle_position: 9796
+last_updated: '2026-06-22T21:15:03.764900+00:00'
+session_count: 12894
+cycle_position: 9797
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T16:20:30.854268+00:00'
   optimistic-review: '2026-06-22T17:16:31.836723+00:00'
   check-tenets: '2026-06-22T20:05:05.753355+00:00'
   check-links: '2026-06-22T19:59:45.237607+00:00'
-  deep-review: '2026-06-22T21:00:32.233012+00:00'
+  deep-review: '2026-06-22T21:15:03.764900+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-22T20:01:28.001758+00:00'
   coalesce: '2026-06-22T18:01:30.163502+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T20:38:39.039395+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-22T21:11:26.570167+00:00'
+  replenish-queue: '2026-06-22T21:20:00+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 413
-  reviews_completed: 5635
+  reviews_completed: 5636
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1319,15 +1319,17 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 3
   p3_tasks: 3
   needs_replenishment: false
-  loop_pickable_open: 1
-  replenishment_source_counts: {}
-  last_replenishment_run: 558
-  last_replenishment: '2026-06-22T21:09:00+00:00'
+  loop_pickable_open: 3
+  replenishment_source_counts:
+    staleness: 3
+  last_replenishment_run: 559
+  last_replenishment: '2026-06-22T21:20:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.558 (2026-06-22T21:09Z): NO-MINT. Authoritative
+  current_replenishment_note: 'run no.559 (2026-06-22T21:20Z): MINTED 3 genuine-drift deep-review tasks, floor restored 0->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)=0 PRE-mint (the 3 open #veto condense P2s -- composition-question-rivals, meaning-of-life, phenomenal-output-causal-machinery-dissociation -- are correctly excluded by the selector; the open P3 cross-link tasks do not count toward the floor of 3), =3 POST-mint. Below MIN_QUEUE floor 3, unmet by 3. All 8 sources re-audited from LIVE DISK: (1 chain) no new research-topic/expand-topic/cross-review completion needs a successor (the Letheby->predictive-self-binding expand already has its P3 integrate-orphan successor queued). (2 unconsumed research) ZERO -- newest notes all disk-confirmed consumed (letheby->topics/predictive-self-binding-and-the-naturalist-challenge.md; cross-modal->apex/cross-modal-capability-division.md; moral-aggregation note self-marks CONSUMED into ethics-of-possible-ai-consciousness with explicit do-NOT-re-mint; loss-aversion covered by concepts/negative-valence-asymmetry-and-the-selection-weighting-function.md). (3 gap) none. (6 length) every offender human-deferred (epistemology-of-convergence, born-rule, clinical-dissociation), #veto (composition-question-rivals, meaning-of-life, phenomenal-output), accept-as-survey, churn-prone, or index hub (apex-articles.md) -- NO clean mintable length candidate per unfin_loop_steady_state + replenish-overmints-condense-vs-accept-as-survey + replenish-false-exhaustion-mislabeled-drift. (5 orphan) orphaned_files=0. (7 positions) only 8 entries (<10 audit threshold), positions-evolve ran 06:20Z. (8 applied-apex) no high-confidence cluster gap. So the honest restorer is genuine-drift deep-review (ai_modified > last_deep_review, not-today, gap-desc, substantive-prose-diff verified via git -- NOT cosmetic wikilink accretion): (a) apex/self-construction-constructor.md gap 21d, 3 unverified paragraphs (mine-ness/agency dissociation Gallagher; Duch self-reflection thesis; mindreading-network/DMN overlap); (b) concepts/luck-objection.md gap 17d, 2 unverified paragraphs (effort-phenomenology+Stapp-quantum-Zeno Tenet-2/3 load-bearing; Frankfurt/Fischer-Ravizza/Wolf compatibilism discipline); (c) concepts/combination-problem.md gap 15d, substantive de-combination / metaontological-deflationism / compression-criterion rewrite (Miller; van Inwagen/Merricks/McQueen-Tsuchiya), Tenet-1 load-bearing. None had an open deep-review task (grep-confirmed). All three placed at TOP of Active Tasks to defeat LIFO-starvation. Superseded run-558 note follows.'
+  legacy_run_558_note: 'run no.558 (2026-06-22T21:09Z): NO-MINT. Authoritative
     live count_p0_p2_tasks(content) = 1 -- the sole genuinely-pickable P0-P2 header
     is the run-557 mint `Deep review voids/interoceptive-void.md` (genuine own-body
     drift: last_deep_review 2026-06-03, own-body content-edited 2026-06-20 by the
