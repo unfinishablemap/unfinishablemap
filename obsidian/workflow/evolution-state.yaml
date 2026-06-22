@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T14:30:59.522928+00:00'
-session_count: 12823
-cycle_position: 9764
+last_updated: '2026-06-22T14:36:32.031130+00:00'
+session_count: 12824
+cycle_position: 9765
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T10:10:25.893050+00:00'
   optimistic-review: '2026-06-22T13:07:09.306459+00:00'
   check-tenets: '2026-06-22T02:54:28.628285+00:00'
   check-links: '2026-06-22T08:44:55.221293+00:00'
-  deep-review: '2026-06-22T14:26:46.031699+00:00'
+  deep-review: '2026-06-22T14:36:32.031130+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-22T08:45:51.956876+00:00'
   coalesce: '2026-06-22T13:59:00.568877+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T08:53:23.270344+00:00'
   research-topic: '2026-06-21T23:46:28.233150+00:00'
-  replenish-queue: '2026-06-22T14:24:09.294717+00:00'
+  replenish-queue: '2026-06-22T14:43:30+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T13:26:14.165012+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 411
-  reviews_completed: 5612
+  reviews_completed: 5613
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1312,10 +1312,48 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 537
-  last_replenishment: '2026-06-22T14:22:00+00:00'
+  last_replenishment_run: 538
+  last_replenishment: '2026-06-22T14:43:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.537 (2026-06-22T14:22Z): FLOOR-RESTORED via
+  current_replenishment_note: 'run no.538 (2026-06-22T14:43Z): FLOOR-RESTORED via
+    1 genuine-own-body-drift deep-review mint of concepts/delegatory-causation.md.
+    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
+    pre-mint (the two run-533 chain-successor P2s: phenomenal-presentation expand-topic
+    + embodied-interface reciprocal-links refine, both pickable), below MIN_QUEUE
+    floor 3, unmet by 1 -- the documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT a deadlock. The run-537 mint (topics/completeness-in-physics-under-dualism.md)
+    was PICKED + consumed by the deep-review CYCLE slot minutes later (last_runs deep-review
+    now 2026-06-22T14:36, drift cleared), dropping the live floor back to 2 -- the
+    same-day deep-review-cycle-collision (deep_review_over_reviews_converged). ALL 8
+    sources independently re-audited from live disk, no other safe restorer: chain
+    has only the parapsychology-firewall expand-topic whose P3 integration successor
+    is already queued + ZERO research-topic/cross-review completions; unconsumed research
+    ZERO (thermal/vestibular/interoceptive/cross-modal newest notes disk-confirmed
+    consumed into live same-slug articles + apex); gap caps have headroom (topics 278/320,
+    concepts 265/320) but new-article generation is harvester-governed (last 2026-06-22T09:56Z,
+    next ~15:56Z, ~1.2h out) and gap-analysis is Vetoed-bank-dedup-blocked; staleness
+    >=30d ZERO content hits; length NO safe condense (born-rule 5118w is HUMAN-DEFERRED,
+    every other hard offender human-deferred / veto-tagged / accept-as-survey / index-hub
+    / over-cap void); orphan 0; positions 8/80 slow-add audited 2026-06-22T06:20; applied-apex
+    no cluster gap. The chosen mint is the strongest remaining unreviewed limb of the
+    multi-file empirical-precision refine vein (commit 2c59225a6) whose siblings (types-of-consciousness,
+    sleep-and-consciousness, entanglement-binding, completeness-in-physics, post-decoherence-selection)
+    were the prior floor restorers (runs 535-537): concepts/delegatory-causation.md
+    (last deep-reviewed 2026-06-06, own-body content-edited 2026-06-22 -- the Torres
+    Alegre 2025 Born-rule citation now carries the caveat -recent arXiv preprint not
+    yet peer-reviewed- in both the body Observational-closure paragraph and the References
+    entry arXiv:2512.12636; refine bumps ai_modified NOT last_deep_review so the preprint-status
+    calibration is deep-review-unverified). A clean concept (NOT a length-deferred article
+    unlike born-rule), Tenet 2/3 load-bearing. Older model claude-opus-4-7. Body 3466w
+    status=soft_warning (concepts soft 2500/hard 3500), only ~34w under hard -- length-safe
+    but keep review strictly length-neutral-to-trimming. Not vetoed (the only delegatory
+    ### header in the active region is a RESOLVED-OBSOLETE entry for the DIFFERENT delegatory-dualism.md;
+    Vetoed-bank delegatory-causation hits are cross-link mentions in other notes), no
+    open duplicate. Inserted at top of Active Tasks to defeat LIFO. Live selector AFTER
+    mint = 3, floor restored. Expect replenish-at-floor + deep-review-cycle-collision
+    alternation to continue until the harvester reopens the research->expand pipeline
+    ~15:56 UTC.'
+  superseded_537_replenishment_note: 'run no.537 (2026-06-22T14:22Z): FLOOR-RESTORED via
     1 genuine-own-body-drift deep-review mint of topics/completeness-in-physics-under-dualism.md.
     Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
     pre-mint (the two run-533 chain-successor P2s: phenomenal-presentation expand-topic
