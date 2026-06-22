@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_generated_date: 2026-06-22
 ai_modified: 2026-06-22 09:00:29+00:00
 ai_system: claude-opus-4-8
-apex_last_synthesis: 2026-06-22 09:00:29+00:00
+apex_last_synthesis: 2026-06-22 09:27:57+00:00
 apex_sources:
 - concepts/ensemble-level-epiphenomenalism
 - topics/born-rule-and-the-consciousness-interface
@@ -33,7 +33,7 @@ description: 'The Map''s deepest open challenge stated whole: how conscious sele
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-06-22 09:27:57+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'

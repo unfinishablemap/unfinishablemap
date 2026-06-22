@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-22
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-06-22T09:27:57+00:00
 
 apex_type: synthesis
 apex_sources:
@@ -39,7 +39,7 @@ apex_sources:
   - concepts/causal-consistency-constraint
   - concepts/post-decoherence-selection
   - concepts/trumping-preemption
-apex_last_synthesis: 2026-06-22T09:00:29+00:00
+apex_last_synthesis: 2026-06-22T09:27:57+00:00
 apex_thesis: "The Map's deepest unpaid debt is a single dilemma: conscious selection must do genuine causal work yet preserve aggregate Born statistics exactly, which places the framework one unforced step from epiphenomenalism. This is a research-agenda statement of the problem, the candidate routes out, the desiderata a toy model would have to meet, the failure modes that would sink each route, and what would count as progress — not a claim of resolution."
 ---
 

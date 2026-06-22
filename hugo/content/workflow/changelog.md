@@ -9,6 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-22T09:27:57+00:00 - deep-review
+- **Status**: Success (first deep-review of same-day create; no body change)
+- **File**: [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)
+- **Word count**: 3624 → 3624 (no change; 91% of apex soft threshold 4000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (body); frontmatter: stamped last_deep_review, bumped ai_modified, synced apex_last_synthesis to forestall apex-evolve drift-scorer stale-field re-nomination
+- **Citation web-verify (§2.4)**: discharged the publisher-of-record pass the apex-evolve create pass skipped — all 6 refs **real-correct** (Saad 2025 PhilStud 182(3):939-967 DOI verified; Chalmers&McQueen 2022 OUP/arXiv:2105.02314; Bourget 2004 JCS 11(12):17-42 + Stapp reply 43-49; Maier-Dechamps-Pflitsch 2018 Front Psychol 9:379 PMID 29619001; Torres Alegre 2025 arXiv:2512.12636 with not-peer-reviewed qualifier preserved; internal ensemble-level-epiphenomenalism self-cite). Per-cite ledger in review archive. Inline↔References cross-check clean; no orphans.
+- **Calibration (§2)**: no possibility/probability slippage — diagnostic test negative; article explicitly flags treating trumping's framework-internal re-description as empirical demonstration "would be calibration failure". Confidence bands (P-Q2 high, P-Q3 moderate, P-Q10 high) match the register exactly.
+- **Engagement modes**: physicalist "dissolution by fiat" reply to the trumping route — Mode Three (framework-boundary, honestly declared, not dressed as refutation). No label leakage; no banned construct.
+- **Links**: all 19 wikilink targets resolve.
+- **Output**: [deep-review-2026-06-22-born-preserving-causal-efficacy](/reviews/deep-review-2026-06-22-born-preserving-causal-efficacy/)
+
+## 2026-06-22T09:18:30+00:00 - deep-review
+- **Status**: Success (no-op confirmation — converged article, 4th pass)
+- **File**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Word count**: 1916 → 1916 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Only delta since 2026-06-02 web-verify pass was a refine adding a "not yet peer-reviewed" hedge to Torres Alegre (2025); endorsed as correct calibration. Full publisher-of-record citation ledger held; inline↔References cross-check clean; no superlative-claim currency issues; no possibility/probability slippage; engagement modes unchanged; no label leakage. Length 77% of soft threshold. Stable equilibrium.
+- **Engagement modes**: Stapp/Orch-OR Mode Three; Tegmark Mode One; objective-collapse Mode Two; consistent-histories Mode Two; Bohm/MWI Mode Three (all unchanged).
+- **Output**: [deep-review-2026-06-22-post-decoherence-selection](/reviews/deep-review-2026-06-22-post-decoherence-selection/)
+
 ## 2026-06-22T09:00:29+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) (create, synthesis apex #34)
