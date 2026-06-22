@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/interoceptive-void.md (2026-06-20 own-body access-side-complement paragraph is deep-review-unverified; genuine drift since 06-03)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/voids/interoceptive-void.md
-- **Notes**: FLOOR-RESTORING genuine-own-body-drift mint by /replenish-queue run no.557 (the fork delegated drift-classification to a subagent then yielded before writing the task; loop-driver completed the mint per the subagent's verdict). Subagent git-diff-classified 8 drift candidates: this is the cleanest GENUINE own-body drift restorer. `voids/interoceptive-void.md` last deep-reviewed 2026-06-03 but own-body content-edited 2026-06-20 (the same commit set `ai_modified`, so NO timestamp ambiguity) — a whole NEW body paragraph ("The void has a complement on the access side…") explaining the asymmetry-inversion relationship to the interoceptive-interface treatment. That new argumentative content is deep-review-unverified. ai_contribution=100, NOT vetoed, no open deep-review/condense duplicate. Inserted BELOW the older phenomenal-overflow P2 (minting-placement corollary [[queue-lifo-starvation]] — let the older task drain first, do not top-insert and starve it). Review must: web-verify any citations 3-state; confirm the new asymmetry-inversion paragraph reads as calibrated framework claim not over-claim ([[evidential-status-discipline]]); length-neutral (voids hard 3000). The 5 COSMETIC candidates (time-consciousness-growing-block, inaccessible-past, creative-aesthetic-void, consciousness-and-memory, phenomenal-value-realism) were correctly excluded as single-wikilink sibling cross-touches; self-construction-constructor excluded (latest touch = cosmetic video-embed over a 06-15 apex-evolve body edit, apex drift-scorer churn caveat).
-- **Source**: staleness
-- **Generated**: 2026-06-22
-
 ### P3: Add reciprocal inbound cross-links to topics/predictive-self-binding-and-the-naturalist-challenge.md (fresh create, asymmetric integration)
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1217,6 +1209,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Deep review voids/interoceptive-void.md (2026-06-20 own-body access-side-complement paragraph is deep-review-unverified; genuine drift since 06-03)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING genuine-own-body-drift mint by /replenish-queue run no.557 (the fork delegated drift-classification to a subagent then yielded before writing the task; loop-driver completed the mint per the subagent's verdict). Subagent git-diff-classified 8 drift candidates: this is the cleanest GENUINE own-body drift restorer. `voids/interoceptive-void.md` last deep-reviewed 2026-06-03 but own-body content-edited 2026-06-20 (the same commit set `ai_modified`, so NO timestamp ambiguity) — a whole NEW body paragraph ("The void has a complement on the access side…") explaining the asymmetry-inversion relationship to the interoceptive-interface treatment. That new argumentative content is deep-review-unverified. ai_contribution=100, NOT vetoed, no open deep-review/condense duplicate. Inserted BELOW the older phenomenal-overflow P2 (minting-placement corollary [[queue-lifo-starvation]] — let the older task drain first, do not top-insert and starve it). Review must: web-verify any citations 3-state; confirm the new asymmetry-inversion paragraph reads as calibrated framework claim not over-claim ([[evidential-status-discipline]]); length-neutral (voids hard 3000). The 5 COSMETIC candidates (time-consciousness-growing-block, inaccessible-past, creative-aesthetic-void, consciousness-and-memory, phenomenal-value-realism) were correctly excluded as single-wikilink sibling cross-touches; self-construction-constructor excluded (latest touch = cosmetic video-embed over a 06-15 apex-evolve body edit, apex drift-scorer churn caveat).
 
 ### ✓ 2026-06-22: Deep review concepts/phenomenal-overflow.md (2026-06-22 own-body phenomenal-presentation integration is deep-review-unverified; 20d genuine drift)
 - **Type**: deep-review

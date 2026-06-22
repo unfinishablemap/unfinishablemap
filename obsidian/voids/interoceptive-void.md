@@ -4,8 +4,8 @@ description: "Human+AI investigation of the body's partial opacity to the consci
 created: 2026-04-27
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-20T18:35:00+00:00
-last_deep_review: 2026-06-03T09:20:55+00:00
+ai_modified: 2026-06-22T21:13:27+00:00
+last_deep_review: 2026-06-22T21:13:27+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"

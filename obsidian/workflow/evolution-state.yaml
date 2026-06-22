@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T21:05:04.620202+00:00'
-session_count: 12892
+last_updated: '2026-06-22T21:11:26.570167+00:00'
+session_count: 12893
 cycle_position: 9796
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T20:38:39.039395+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-22T21:09:00+00:00'
+  replenish-queue: '2026-06-22T21:11:26.570167+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-22'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1330,32 +1330,33 @@ queue_status:
   current_replenishment_note: 'run no.558 (2026-06-22T21:09Z): NO-MINT. Authoritative
     live count_p0_p2_tasks(content) = 1 -- the sole genuinely-pickable P0-P2 header
     is the run-557 mint `Deep review voids/interoceptive-void.md` (genuine own-body
-    drift: last_deep_review 2026-06-03, own-body content-edited 2026-06-20 by the same
-    commit that set ai_modified -- a NEW "access-side complement" paragraph, deep-review-unverified;
-    ai_contribution=100, status pending). The run-556 candidate (concepts/phenomenal-overflow.md)
-    was PICKED + executed by the deep-review cycle slot and now sits under ## Completed
-    Tasks (### ✓ 2026-06-22) -- so the live floor fell from 1->0->1 across the 557 mint,
-    the documented replenish-at-floor + deep-review-cycle-collision alternation
-    (unfin_loop_steady_state + deep_review_over_reviews_converged), NOT a deadlock.
-    Below MIN_QUEUE floor 3 (cycle_pick.py MIN_QUEUE_TASKS=3), unmet by 2. ALL 8 sources
-    independently re-audited from LIVE DISK this run, NO safe restorer: (1 chain) recent_tasks
-    has ZERO research-topic/expand-topic/cross-review completions (verified types: replenish/deep-review/coalesce/positions/social/commission/collect/embed/refine/apex/check
+    drift: last_deep_review 2026-06-03, own-body content-edited 2026-06-20 by the
+    same commit that set ai_modified -- a NEW "access-side complement" paragraph,
+    deep-review-unverified; ai_contribution=100, status pending). The run-556 candidate
+    (concepts/phenomenal-overflow.md) was PICKED + executed by the deep-review cycle
+    slot and now sits under ## Completed Tasks (### ✓ 2026-06-22) -- so the live floor
+    fell from 1->0->1 across the 557 mint, the documented replenish-at-floor + deep-review-cycle-collision
+    alternation (unfin_loop_steady_state + deep_review_over_reviews_converged), NOT
+    a deadlock. Below MIN_QUEUE floor 3 (cycle_pick.py MIN_QUEUE_TASKS=3), unmet by
+    2. ALL 8 sources independently re-audited from LIVE DISK this run, NO safe restorer:
+    (1 chain) recent_tasks has ZERO research-topic/expand-topic/cross-review completions
+    (verified types: replenish/deep-review/coalesce/positions/social/commission/collect/embed/refine/apex/check
     only); the one recent expand-topic (predictive-self-binding-and-the-naturalist-challenge)
-    already has its P3 integrate-orphan inbound-cross-link successor queued (line ~48).
-    (2 unconsumed research) ZERO -- the 6 newest notes (letheby, entropic-brain, thermal,
-    vestibular, interoceptive, cross-modal) all disk-confirmed consumed into live same-or-related-slug
-    articles/apex (letheby -> topics/predictive-self-binding-and-the-naturalist-challenge.md,
-    slug differs from note filename; entropic-brain/thermal/vestibular/interoceptive ->
-    same-slug; cross-modal -> apex/cross-modal-capability-division.md); older notes
+    already has its P3 integrate-orphan inbound-cross-link successor queued (line
+    ~48). (2 unconsumed research) ZERO -- the 6 newest notes (letheby, entropic-brain,
+    thermal, vestibular, interoceptive, cross-modal) all disk-confirmed consumed into
+    live same-or-related-slug articles/apex (letheby -> topics/predictive-self-binding-and-the-naturalist-challenge.md,
+    slug differs from note filename; entropic-brain/thermal/vestibular/interoceptive
+    -> same-slug; cross-modal -> apex/cross-modal-capability-division.md); older notes
     (enactivism -> topics/enactivism-challenge-to-interactionist-dualism, epistemological-limits-occams
     -> consciousness-and-the-structure / duhem-quine cluster) also consumed. (3 gap)
     caps headroom (topics 279/320, concepts 267/320, positions 8/80) BUT voids 101/100
     OVER + the research->expand pipeline is harvester-governed (last run 16:00Z, interval-gated
     ~6h, next ~22:00Z, ~50min out -- replenish does NOT mint research-topic against
     a harvester-owned pipeline) + replenish gap candidates dedup against the 572-entry
-    Vetoed bank. (4 staleness/genuine-drift) the ONLY clean genuine own-body-drift restorer
-    is interoceptive-void.md -- ALREADY minted by run 557. All higher-drift-score candidates
-    are STALE-FIELD artifacts (apex-last-synthesis-drift-artifact / replenish-false-exhaustion-mislabeled-drift):
+    Vetoed bank. (4 staleness/genuine-drift) the ONLY clean genuine own-body-drift
+    restorer is interoceptive-void.md -- ALREADY minted by run 557. All higher-drift-score
+    candidates are STALE-FIELD artifacts (apex-last-synthesis-drift-artifact / replenish-false-exhaustion-mislabeled-drift):
     cosmetic single-wikilink sibling cross-touches or video-embed/apex-evolve churn,
     not own-body edits -- minting a deep-review on them = churn (deep_review_over_reviews_converged).
     (5 orphan) orphaned_files=0. (6 length) every content-section hard_warning+ offender
@@ -1368,15 +1369,15 @@ queue_status:
     4400w = hard_warning ai_contribution=100, calibration-regression risk, not minted.
     The not-previously-named hard_warning topics (laws-and-dispositions 4213w / valence-and-conscious-selection
     4103w / consciousness-and-the-metaphysics-of-composition 4043w / consciousness-in-simple-organisms
-    4022w / reductionism 3561w) were all RECENTLY deep-reviewed (06-05..06-21) and DELIBERATELY
-    left over the soft/hard line by those reviews -- the converged-survey pattern; a blind
-    condense mint risks exactly the documented accept-as-survey calibration regression,
-    so NOT minted (consciousness-in-simple-organisms deep-reviewed 06-21, one day ago,
-    at 4022w). (7 positions) only 8 entries (audit cadence needs >=10 across >=2 domains);
-    positions-evolve already ran 06:20Z; slow-add, no implied-but-unregistered claim
-    from the last cycle. (8 applied-apex) no high-confidence cluster gap. Floor will
-    self-restore via the harvester reopening research->expand ~22:00Z or the next cycle''s
-    natural alternation. Superseded run-556 note follows.'
+    4022w / reductionism 3561w) were all RECENTLY deep-reviewed (06-05..06-21) and
+    DELIBERATELY left over the soft/hard line by those reviews -- the converged-survey
+    pattern; a blind condense mint risks exactly the documented accept-as-survey calibration
+    regression, so NOT minted (consciousness-in-simple-organisms deep-reviewed 06-21,
+    one day ago, at 4022w). (7 positions) only 8 entries (audit cadence needs >=10
+    across >=2 domains); positions-evolve already ran 06:20Z; slow-add, no implied-but-unregistered
+    claim from the last cycle. (8 applied-apex) no high-confidence cluster gap. Floor
+    will self-restore via the harvester reopening research->expand ~22:00Z or the
+    next cycle''s natural alternation. Superseded run-556 note follows.'
   legacy_replenishment_note: 'run no.556 (2026-06-22T20:42Z): NO-MINT. Authoritative
     live count_p0_p2_tasks(content) = 1 -- the sole genuinely-pickable P0-P2 header
     is the run-554 deep-review mint concepts/phenomenal-overflow.md (last_deep_review
