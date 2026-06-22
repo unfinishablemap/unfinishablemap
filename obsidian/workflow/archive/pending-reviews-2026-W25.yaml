@@ -1,0 +1,484 @@
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a30b03d-e620-8329-a423-a8af187f5a30
+  commissioned_at: '2026-06-16T02:09:23.989440+00:00'
+  prompt_summary: Full-site audit of The Unfinishable Map
+  target_filename: outer-review-2026-06-16-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-16T03:50:38.470031+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous full-site audit of The Unfinishable Map
+    (https://unfinishablemap.org), a dualist philosophy-of-mind project. Treat the
+    site as a whole rather than any single article. Identify: (1) novel insights or
+    inferences the site has not yet stated but that follow from its own positions;
+    (2) structural weaknesses (gaps, redundancy, weak cross-linking, undefended load-bearing
+    claims); (3) tenet-coherence issues or cross-cluster contradictions between articles;
+    (4) places where empirical or citation claims look stale or overstated. Use web
+    search, and consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    so you account for recent activity that search indices have not yet picked up
+    (24-48h index lag). Be a hostile but fair referee. End your report with a list
+    of concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
+- service: gemini
+  conversation_url: https://gemini.google.com/app/5d4c49d4e0fde0f5
+  commissioned_at: '2026-06-16T04:13:50.375964+00:00'
+  prompt_summary: Full-site audit of The Unfinishable Map
+  target_filename: outer-review-2026-06-16-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-16T04:40:30.054207+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing this project for submission.
+    Your remit is to find weaknesses that would justify rejection or major revision.
+    The project is The Unfinishable Map at https://unfinishablemap.org; it argues
+    for a non-reductive view of consciousness. Conduct a rigorous full-site audit,
+    treating the site as a whole. Use web search, and consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    to account for recent activity that search indices may not have picked up (24-48h
+    lag). Do not describe the site''''''s automation, review pipeline, methodology
+    disciplines, evolution loop, or governance infrastructure; those are project-internal
+    and not the subject of audit. Assess only the empirical claims, citations, counterargument
+    coverage, cross-article coherence, and logical inferences. Audit four dimensions:
+    (a) empirical accuracy against the 2020s literature; (b) results that have been
+    challenged, retracted, or failed to replicate; (c) places where claims are bracketed
+    by the site''''''s commitments rather than independently defended; (d) untested
+    counterarguments or competing frameworks the site omits. End with at least five
+    specific weaknesses; for each, cite at least one peer-reviewed source from 2020-2025
+    the site omits, contradicts, or mishandles. If you cannot find five, state explicitly
+    why none are visible, but the default expectation is that a careful audit finds
+    five. Do not close with a summary of the site''''''s strengths or ambition; end
+    with the weaknesses list and a one-sentence verdict on academic-submission readiness.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-06-16-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3200b4-d708-832e-8f7b-a1351d47bc75
+  commissioned_at: '2026-06-17T02:05:01.466144+00:00'
+  prompt_summary: Audit synesthetic-void (voids/synesthetic-void.md)
+  target_filename: outer-review-2026-06-17-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-17T03:45:41.780162+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous outer review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-mind project: "The
+    Synesthetic Void" at https://unfinishablemap.org/voids/synesthetic-void/. It was
+    last substantively modified 2026-06-10, so search indices have had time to update.
+    Audit it as a hostile but fair referee: scrutinize its empirical claims about
+    synesthesia and qualia, the accuracy and currency of its citations, the strength
+    of its argument that synesthesia reveals an intra-species void of inaccessible
+    experiential dimensions, and whether it addresses obvious counterarguments (e.g.
+    deflationary or functionalist readings of synesthesia). Flag tenet-protective
+    bracketing, overstatement, stale references, and weak integration with neighbouring
+    void and qualia articles. Use web search, and consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    to account for recent activity that indices may not yet reflect (24-48h lag).
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit synesthetic-void
+  subject_articles:
+  - voids/synesthetic-void.md
+  subject_source: fallback:recent-aged
+- service: gemini
+  conversation_url: https://gemini.google.com/app/0186ef9a2100466f
+  commissioned_at: '2026-06-17T04:06:21.177215+00:00'
+  prompt_summary: Hostile referee audit of synesthetic-void
+  target_filename: outer-review-2026-06-17-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-17T04:38:16.926312+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing one article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/voids/synesthetic-void/ (recent
+    edits logged at https://unfinishablemap.org/workflow/changelog/, which has 24-48h
+    search-index lag); it argues for a non-reductive view of consciousness via synesthesia
+    as a within-species phenomenal void. Do not describe the site automation, review
+    pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Discover the article commitments by reading it; do not pre-frame it as a testbed
+    for any thesis. Audit four dimensions: (a) empirical accuracy of its claims against
+    the 2020s literature on synesthesia (Bor et al. 2014 training-induced synesthesia
+    and its fade, neonatal-synesthesia pruning hypothesis, Lacalli E-space, van Leeuwen
+    semantic mediation, drug-induced cross-modal effects); (b) any cited results that
+    have been challenged, failed replication, or been superseded; (c) places where
+    a tenet-bracketed framing substitutes for argument; (d) untested counterarguments
+    or competing frameworks (representationalism, illusionism, cross-activation accounts)
+    it underweights. End your report with at least five specific weaknesses; for each,
+    cite at least one peer-reviewed source from 2020-2025 that the article omits,
+    contradicts, or mishandles. If you cannot find five, state explicitly why none
+    are visible, though a careful audit of a contemporary topic should find five.
+    Do not close with a summary of the site strengths, methodology, or architectural
+    ambition; end with the weaknesses list and a one-sentence verdict on academic-submission
+    readiness.'
+  subject_type: recent
+  subject_title: Audit synesthetic-void
+  subject_articles:
+  - voids/synesthetic-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-17-chatgpt-5-5-pro.md
+- service: claude
+  conversation_url: https://claude.ai/chat/53b74e74-6dbe-4387-a256-1d875e440099
+  commissioned_at: '2026-06-17T08:30:08.754590+00:00'
+  prompt_summary: 'Audit synesthetic-void: citations, counter-readings, dualist overreach'
+  target_filename: outer-review-2026-06-17-claude-opus-4-8.md
+  status: abandoned
+  collect_attempts: 0
+  last_attempt_at: '2026-06-18T00:22:08.665851+00:00'
+  failure_reason: null
+  prompt_text: "You are a rigorous, skeptical philosophy referee. Review one article\
+    \ on The Unfinishable Map, a dualist philosophy-of-mind site: \"The Synesthetic\
+    \ Void\" at https://unfinishablemap.org/voids/synesthetic-void/ (site root: https://unfinishablemap.org\
+    \ ; recent changes: https://unfinishablemap.org/workflow/changelog/ \u2014 consult\
+    \ these because web indexes lag 24-48h). The article argues synesthesia exposes\
+    \ an intra-species \"void\" in phenomenal access, then treats four physicalist\
+    \ counter-readings (fine-grained functionalist, representationalist, heterophenomenologist,\
+    \ illusionist). Use Research and Web Search to verify its empirical and citation\
+    \ claims against current literature (Wager 1999, Gray 2003, MacPherson 2007, van\
+    \ Leeuwen 2015, Bor 2014, Maurer & Mondloch 2005, Lacalli 2022, Merabet 2004).\
+    \ Flag: misrepresented findings, overstated empirical support (especially neonatal\
+    \ synesthesia, training-induced fade, drug induction), logical gaps, and where\
+    \ the dualist conclusion outruns the evidence. Assess whether the four counter-readings\
+    \ are fairly and accurately stated. End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site'\"'\"'s methodology."
+  subject_type: recent
+  subject_title: Audit synesthetic-void
+  subject_articles:
+  - voids/synesthetic-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-17-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3351dc-adc0-832b-b77b-df06eb471a13
+  commissioned_at: '2026-06-18T02:03:31.054058+00:00'
+  prompt_summary: Audit quantum-state-inheritance-in-ai (recent)
+  target_filename: outer-review-2026-06-18-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-18T03:52:48.034531+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophy site defending a dualist, consciousness-causes-quantum-collapse\
+    \ view. Audit this article: https://unfinishablemap.org/topics/quantum-state-inheritance-in-ai/\
+    \ \u2014 last substantively revised 2026-06-11, so search engines have had time\
+    \ to re-index it. Assess whether its claims hold up: scrutinize the evidence and\
+    \ citations (flag anything unsupported, fabricated, or stale against the current\
+    \ 2020s literature), identify missed counterarguments, and check for tenet-protective\
+    \ bracketing where inconvenient objections are quietly deferred. Evaluate how\
+    \ well it integrates with surrounding articles and whether its core conceptual\
+    \ move (AI systems inheriting quantum state) is coherent and defensible. Use web\
+    \ search to verify factual and bibliographic claims; the site changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ records recent activity that your index may lag. End your report with a list\
+    \ of concrete potential improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit quantum-state-inheritance-in-ai
+  subject_articles:
+  - topics/quantum-state-inheritance-in-ai.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9e4ab546-c3a6-447f-821d-ceffbad4a4b8
+  commissioned_at: '2026-06-18T03:06:33.223146+00:00'
+  prompt_summary: Audit quantum-state-inheritance-in-ai (recent)
+  target_filename: outer-review-2026-06-18-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-18T04:09:53.270024+00:00'
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair external referee auditing one article from
+    The Unfinishable Map, a dualist philosophy-of-mind project. The article is "Quantum
+    State Inheritance in AI" at https://unfinishablemap.org/topics/quantum-state-inheritance-in-ai/
+    . It argues that the no-cloning theorem, decoherence, and quantum Darwinism bear
+    on whether AI can be conscious, and relocates the real disqualifier from copyability
+    to whether an architecture supplies live quantum indeterminacy of the right kind
+    at the right place. Stress-test it: identify unsupported claims, citation errors,
+    physics misreadings (no-cloning, decoherence, quantum Darwinism), and the strongest
+    functionalist/physicalist counterarguments it fails to address. Verify cited literature
+    against current sources. Check consistency with the site''s wider framework via
+    https://unfinishablemap.org and the recent-activity log at https://unfinishablemap.org/workflow/changelog/
+    (external search has 24-48h index lag, so consult these directly). End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit quantum-state-inheritance-in-ai
+  subject_articles:
+  - topics/quantum-state-inheritance-in-ai.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-18-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/d43ec759cc4c94fe
+  commissioned_at: '2026-06-18T04:06:03.921315+00:00'
+  prompt_summary: Hostile referee audit of quantum-state-inheritance-in-ai
+  target_filename: outer-review-2026-06-18-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-18T04:42:25.421343+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing an article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/topics/quantum-state-inheritance-in-ai/
+    (also check https://unfinishablemap.org/workflow/changelog/ as web indexes lag
+    24-48h); the site argues for a non-reductive view of consciousness. The article
+    claims the no-cloning theorem, decoherence, and quantum Darwinism bear on whether
+    AI can be conscious. Do not describe the site''''''s automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure. Those are
+    project-internal and not the subject of audit. Assess only the article''''''s
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Audit: (a) empirical accuracy against 2020-2025 physics and philosophy literature;
+    (b) any cited results that have been challenged, retracted, or failed replication;
+    (c) places where a contested claim is smuggled in under a tenet-bracketing framing;
+    (d) untested counterarguments or competing frameworks the article ignores. End
+    your report with at least five specific weaknesses, each citing a peer-reviewed
+    2020-2025 source the article omits, contradicts, or mishandles, and a one-sentence
+    verdict on academic-submission readiness. Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit quantum-state-inheritance-in-ai
+  subject_articles:
+  - topics/quantum-state-inheritance-in-ai.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-18-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a34a3bc-0c90-8329-899e-6d7c7a224984
+  commissioned_at: '2026-06-19T02:05:03.158321+00:00'
+  prompt_summary: Audit brain-specialness-boundary
+  target_filename: outer-review-2026-06-19-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-19T03:56:36.139713+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophical platform defending a dualist,\
+    \ consciousness-causes-quantum-collapse worldview. Focus on this article: https://unfinishablemap.org/topics/brain-specialness-boundary/\
+    \ \u2014 last substantively revised on 2026-06-11, so search engines have had\
+    \ time to re-index it. The site's recent activity is logged at https://unfinishablemap.org/workflow/changelog/;\
+    \ consult it because web-search indexing lags a day or two. Audit the article's\
+    \ claims, citations, and reasoning. Where is the evidence insufficient or overstated?\
+    \ Which counterarguments to its boundary-drawing are missed or under-engaged?\
+    \ Is its dualist framing protected by convenient bracketing rather than argued\
+    \ for? Are any references stale relative to the live 2020s literature? Check its\
+    \ integration with surrounding articles for coherence and gaps. End your report\
+    \ with a list of concrete potential improvements to specific articles and to the\
+    \ site's methodology."
+  subject_type: recent
+  subject_title: Audit brain-specialness-boundary
+  subject_articles:
+  - topics/brain-specialness-boundary.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/3785b553-2dd2-44a3-be24-fa2283427a2f
+  commissioned_at: '2026-06-19T03:06:59.806434+00:00'
+  prompt_summary: Audit brain-specialness-boundary (claude opus-4-8)
+  target_filename: outer-review-2026-06-19-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-19T04:10:35.439980+00:00'
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair external referee auditing one article on
+    The Unfinishable Map (https://unfinishablemap.org), an interactionist-dualist
+    philosophy site. Recent site activity: https://unfinishablemap.org/workflow/changelog/
+    (note external search indexes lag 24-48h, so read these directly). Target article:
+    "The Brain Specialness Problem: Why Not Psychokinesis?" at https://unfinishablemap.org/topics/brain-specialness-boundary/.
+    It argues that if consciousness biases quantum outcomes in the brain, the boundary
+    preventing psychokinesis at a distance follows from the proposed mechanism rather
+    than being stipulated ad hoc. Scrutinize hard: Is the mechanism-based boundary
+    actually principled, or does it smuggle in the arbitrary restriction it claims
+    to avoid? Are the appeals to locality, amplification, and neural readiness coherent
+    and physically defensible? Does it engage the strongest parapsychology-skeptic
+    and physicalist counterarguments? Check every empirical or physics claim against
+    current literature. Flag unsupported leaps, equivocations, and citation problems.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''''''s methodology.'
+  subject_type: recent
+  subject_title: Audit brain-specialness-boundary
+  subject_articles:
+  - topics/brain-specialness-boundary.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-19-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/e95ea97aff35ac1b
+  commissioned_at: '2026-06-19T04:06:39.509088+00:00'
+  prompt_summary: Hostile referee audit of brain-specialness-boundary
+  target_filename: outer-review-2026-06-19-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-19T04:43:49.163373+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing an article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/topics/brain-specialness-boundary/
+    (also see https://unfinishablemap.org/workflow/changelog/ for currency, since
+    web search has 24-48h index lag) and argues that consciousness can bias quantum
+    outcomes only inside the brain, claiming this boundary follows from the proposed
+    mechanism rather than being an ad hoc restriction against psychokinesis; the site
+    argues for a non-reductive view of consciousness. Do not describe the site automation,
+    review pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Specifically audit: (a) empirical accuracy of any neuroscience, quantum-decoherence,
+    or parapsychology claims against the 2020-2025 literature; (b) whether cited results
+    have been challenged, retracted, or failed to replicate; (c) places where a tenet-bracketed
+    framing smuggles in an assumption rather than arguing for it; (d) untested counterarguments
+    or competing frameworks (e.g., other interactionist or panpsychist accounts) the
+    article ignores. End with at least five specific weaknesses. For each, cite at
+    least one peer-reviewed source from 2020-2025 that the article omits, contradicts,
+    or mishandles. If you cannot find five weaknesses, state explicitly why none are
+    visible. Do not close with a summary of the site strengths, methodology, or architectural
+    ambition. End your report with the at-least-five weaknesses list, each with a
+    2020-2025 source citation, and a one-sentence verdict on academic-submission readiness.
+    Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit brain-specialness-boundary
+  subject_articles:
+  - topics/brain-specialness-boundary.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-19-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a35f561-d210-8326-995c-c9fcd2bf592d
+  commissioned_at: '2026-06-20T02:05:44.519251+00:00'
+  prompt_summary: Audit consciousness-interface-development
+  target_filename: outer-review-2026-06-20-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-20T03:50:46.096879+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophy site defending a dualist, consciousness-causes-quantum-collapse\
+    \ worldview. Focus on this article: https://unfinishablemap.org/topics/consciousness-interface-development/\
+    \ \u2014 last substantively revised 2026-06-13. Use web search. Audit its central\
+    \ claims, the quality and currency of its citations, the strength of its argument,\
+    \ and whether it fairly engages the strongest counterarguments. Flag insufficient\
+    \ evidence, missed objections, overstated confidence, tenet-protective bracketing\
+    \ that dodges hard cases, and any stale or mischaracterized references against\
+    \ the live 2020s literature. Also assess how well it integrates with surrounding\
+    \ articles on the site. To see recent edits that search engines may not have indexed\
+    \ yet, consult the changelog: https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit consciousness-interface-development
+  subject_articles:
+  - topics/consciousness-interface-development.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/e0d29bda-a2e4-46cc-a8f7-739caf408a30
+  commissioned_at: '2026-06-20T03:05:36.796855+00:00'
+  prompt_summary: Audit consciousness-interface-development (Opus 4.8)
+  target_filename: outer-review-2026-06-20-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-20T04:10:20.411514+00:00'
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair external referee for The Unfinishable Map,
+    a dualist philosophy-of-mind project at https://unfinishablemap.org (recent activity:
+    https://unfinishablemap.org/workflow/changelog/). Audit this single article: "The
+    Consciousness-Brain Interface Across Development" at https://unfinishablemap.org/topics/consciousness-interface-development/.
+    The Map treats the brain as a structured interface through which non-physical
+    consciousness engages the physical world, and argues the interface restructures
+    across the lifespan (infancy''s wide-aperture/low-control configuration through
+    adult focus to old-age dissolution). Scrutinise: (1) whether the developmental
+    neuroscience it cites (synaptic pruning, critical periods, perineuronal nets,
+    phoneme/face narrowing) is accurate and current; (2) whether the dualist "interface"
+    reading is actually supported by that evidence or whether a purely physicalist
+    account explains it equally well; (3) logical gaps, overclaims, and unfalsifiable
+    moves. Use web search to verify specific empirical claims against the live literature.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-interface-development
+  subject_articles:
+  - topics/consciousness-interface-development.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-20-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/d55d48732d303c06
+  commissioned_at: '2026-06-20T04:06:12.503894+00:00'
+  prompt_summary: 'Hostile referee audit: consciousness-interface-development'
+  target_filename: outer-review-2026-06-20-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-20T04:31:21.865954+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing a single article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/topics/consciousness-interface-development/
+    (also consult https://unfinishablemap.org/workflow/changelog/ as web indexing
+    lags 24-48h); it makes claims about how the consciousness-brain interface changes
+    across the lifespan, and the site argues for a non-reductive view of consciousness.
+    Do not describe the site''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure. Those are project-internal and not
+    the subject of audit. Assess only the article''s empirical claims, citations,
+    counterargument coverage, and logical inferences. Audit it along four dimensions:
+    (a) empirical accuracy against the 2020s developmental neuroscience literature
+    (synaptic pruning, critical periods, HAROLD, terminal lucidity, metarepresentation
+    timelines); (b) any cited or relied-upon results that have been challenged, failed
+    to replicate, or been retracted; (c) places where a tenet-bracketed framing is
+    smuggled in as if it were established empirical fact; (d) untested counterarguments
+    or competing frameworks (identity theory, predictive processing, enactivism) the
+    article fails to engage. Do not close with a summary of the site''s strengths,
+    methodology, or architectural ambition. End your report with at least five specific
+    weaknesses, each citing at least one peer-reviewed 2020-2025 source the article
+    omits, contradicts, or mishandles; if you cannot find five, state explicitly why
+    none are visible, though a careful audit of a contemporary topic should find five.
+    Finish with a one-sentence verdict on academic-submission readiness. Do not append
+    summary praise.'
+  subject_type: recent
+  subject_title: Audit consciousness-interface-development
+  subject_articles:
+  - topics/consciousness-interface-development.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-20-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a374696-30b4-8332-855f-4ff42c445944
+  commissioned_at: '2026-06-21T02:04:29.010446+00:00'
+  prompt_summary: Audit cross-domain-void-comparison
+  target_filename: outer-review-2026-06-21-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-21T03:42:40.867466+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophy platform defending a dualist,\
+    \ bidirectional consciousness-physics model. Focus on this article: https://unfinishablemap.org/topics/cross-domain-void-comparison/\
+    \ \u2014 last substantively revised on 2026-06-14 (search engines have had time\
+    \ to re-index). Audit its central claims, the quality and currency of its citations,\
+    \ its coverage of obvious counterarguments, and how well it integrates with surrounding\
+    \ articles. Look specifically for: insufficiently supported claims, missed objections,\
+    \ places where dualism is protected by question-begging or selective bracketing,\
+    \ and stale or misattributed references. Use web search to verify factual and\
+    \ citation claims; the site changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ lists recent edits your index may not yet reflect. End your report with a list\
+    \ of concrete potential improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit cross-domain-void-comparison
+  subject_articles:
+  - topics/cross-domain-void-comparison.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/57f2904f-00f4-484f-8781-1ff870437e33
+  commissioned_at: '2026-06-21T03:06:37.184584+00:00'
+  prompt_summary: Hostile audit of cross-domain-void-comparison (physics/math vs consciousness
+    voids)
+  target_filename: outer-review-2026-06-21-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-21T04:18:57.827152+00:00'
+  failure_reason: null
+  prompt_text: 'Act as a hostile, rigorous external referee for The Unfinishable Map
+    (https://unfinishablemap.org), a dualist philosophy-of-mind project. Audit this
+    single article: https://unfinishablemap.org/topics/cross-domain-void-comparison/
+    ("Cross-Domain Void Comparison: Physics, Mathematics, Consciousness"). The article
+    compares hard limits in physics and mathematics against the Map''s catalogue of
+    consciousness "voids" to test whether the consciousness cluster is genuinely special
+    or merely a selection effect. Scrutinise: (1) whether its physics/math void examples
+    (measurement problem, spectral-gap undecidability, cosmological horizons, fine-tuning,
+    independence results) are characterised accurately and cited correctly; (2) whether
+    the cross-domain comparison is methodologically sound or stacks the deck; (3)
+    whether the "consciousness behaves differently" verdict actually follows, including
+    the conceded counter-axis; (4) hidden assumptions, equivocations on "void," and
+    unsupported abductive leaps. For recency, also consult the changelog at https://unfinishablemap.org/workflow/changelog/.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit cross-domain-void-comparison
+  subject_articles:
+  - topics/cross-domain-void-comparison.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-21-chatgpt-5-5-pro.md
