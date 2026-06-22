@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T05:47:25.408847+00:00'
-session_count: 12754
-cycle_position: 9727
+last_updated: '2026-06-22T06:02:58.277779+00:00'
+session_count: 12755
+cycle_position: 9728
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T05:37:58.879480+00:00'
@@ -33,7 +33,7 @@ last_runs:
   collect-claude-review: '2026-06-22T04:26:54.702077+00:00'
   combine-outer-reviews: '2026-06-22T04:58:16.029724+00:00'
   collect-gemini-review: '2026-06-22T04:46:36.209067+00:00'
-  positions-evolve: '2026-06-20T00:58:18.421675+00:00'
+  positions-evolve: '2026-06-22T06:02:58.277779+00:00'
   check-model-fallback: '2026-06-22T01:52:34.541386+00:00'
   harvest-research-subjects: '2026-06-22T03:45:15.938399+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
@@ -86,7 +86,7 @@ progress:
   arguments_written: 5
   questions_written: 0
   voids_written: 101
-  positions_written: 5
+  positions_written: 7
   research_notes: 411
   reviews_completed: 5591
   apex_articles: 36
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-22'
+  outcome: success
+- task: positions-evolve
+  type: positions-evolve
   date: '2026-06-22'
   outcome: success
 agentic_social:
