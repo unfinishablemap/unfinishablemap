@@ -98,15 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-22
 
-### P1: Soften Tenet 3 comparative-cognition overreach (apes "do not perform logical reasoning")
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/tenets/tenets.md
-- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §4.7 + improvement #2. `tenets.md:92` currently states great apes "do not perform logical reasoning, counterfactual thinking, or cumulative culture." The blanket "do not perform logical reasoning" is now contradicted by VERIFIED 2025 evidence: Sanford, Schleihauf, Engelmann et al., "Chimpanzees rationally revise their beliefs," *Science* 2025 (doi 10.1126/science.adq5229; published Nov 2025) — chimps tracked evidence strength as predicted by a formal rational-belief-revision model, with recency-bias/salience confounds ruled out (web-verified this cycle, see review Verification Notes). Replace the blanket claim with the graded version the data support: humans show uniquely open-ended, high-fidelity, institutionally-scaffolded cumulative culture; apes show limited but real inferential, metacognitive, and social-learning capacities. PRESERVE the DeWall/Baumeister/Masicampo 2008 cognitive-load argument that follows (it is about humans and is unaffected). Keep the change minimal and journal-quality prose; do not over-hedge. Cite the *Science* 2025 paper. This is a foundational-page accuracy fix, hence P1.
-- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Fix stale-served archived URLs (evidential-weight-of-voids, causal-delegation)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1317,6 +1308,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Soften Tenet 3 comparative-cognition overreach (apes "do not perform logical reasoning")
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §4.7 + improvement #2. `tenets.md:92` currently states great apes "do not perform logical reasoning, counterfactual thinking, or cumulative culture." The blanket "do not perform logical reasoning" is now contradicted by VERIFIED 2025 evidence: Sanford, Schleihauf, Engelmann et al., "Chimpanzees rationally revise their beliefs," *Science* 2025 (doi 10.1126/science.adq5229; published Nov 2025) — chimps tracked evidence strength as predicted by a formal rational-belief-revision model, with recency-bias/salience confounds ruled out (web-verified this cycle, see review Verification Notes). Replace the blanket claim with the graded version the data support: humans show uniquely open-ended, high-fidelity, institutionally-scaffolded cumulative culture; apes show limited but real inferential, metacognitive, and social-learning capacities. PRESERVE the DeWall/Baumeister/Masicampo 2008 cognitive-load argument that follows (it is about humans and is unaffected). Keep the change minimal and journal-quality prose; do not over-hedge. Cite the *Science* 2025 paper. This is a foundational-page accuracy fix, hence P1.
 
 ### ✓ 2026-06-22: Evidence-tier quantum-biology-and-neural-consciousness + mark Wiest-2025 / macroscopic-entanglement claims contested
 - **Type**: refine-draft

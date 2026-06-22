@@ -5,6 +5,14 @@ ai_modified: 2026-06-22 07:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T05:45:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]] (FOUNDATIONAL PAGE — comparative-cognition accuracy fix only; five tenet core statements untouched)
+- **Source**: outer review 2026-06-22 (ChatGPT 5.5 Pro §4.7 + improvement #2). Verification Notes confirmed both the wording at `tenets.md:92` and the citation.
+- **Changes**: Replaced the now-false blanket claim that great apes "do not perform logical reasoning, counterfactual thinking, or cumulative culture" (Bidirectional Interaction supporting prose, line 92) with the graded claim the evidence supports: apes show real but bounded inferential, metacognitive, and social-learning capacities, while humans show uniquely open-ended, high-fidelity, institutionally scaffolded cumulative culture. Cited Sanford, Schleihauf, Engelmann et al. (2025, *Science*, doi 10.1126/science.adq5229) — chimpanzees revising beliefs in proportion to evidence strength, tracking a formal rational-belief-revision model with recency-bias/salience confounds ruled out (web-verified this cycle by both the ChatGPT collect and the Gemini verification subagent). Citation added inline, matching the page's existing DeWall (2008) citation style (no separate References section exists).
+- **Preserved**: the DeWall, Baumeister & Masicampo (2008, *Consciousness and Cognition* 17(3):628–645) cognitive-load argument that follows (about humans — unaffected by this fix) and the epiphenomenalist structural counter. No tenet core statement or definition altered. Minimal, journal-quality edit; no over-hedging; no "This is not X. It is Y." cliché.
+- **Published**: yes
+
 ## 2026-06-22T05:40:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/the-strong-emergence-of-consciousness.md` (mature coalesce-derived article, last deep-reviewed 2026-06-01, body-edited 2026-06-02; the from-below/co-fundamental slippage cluster is already closed and current text handles it correctly). Found 2 MEDIUM evidential-status findings (no critical): (1) "sole genuine case" overstatement in description + §Reductive Track Record vs. the article's own "boundary is the dispute" admission; (2) Khan 2024 epothilone B listed under "what would support it" despite admitting classical explanations. Citations web-verified clean (Chalmers 2006 quote verbatim, Khan 2024 metadata correct). Length OK (3846w, soft-warning). Queued one length-neutral refine-draft (P2). Altered-state symmetry audit N/A (no supportive-cluster citations).
