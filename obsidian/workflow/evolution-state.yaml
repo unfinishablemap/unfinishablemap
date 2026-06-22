@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T15:24:05.031281+00:00'
-session_count: 12832
-cycle_position: 9768
+last_updated: '2026-06-22T15:31:00.328571+00:00'
+session_count: 12833
+cycle_position: 9769
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T10:10:25.893050+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-06-22T02:06:02.908510+00:00'
   commission-claude-review: '2026-06-22T03:14:18.569828+00:00'
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
-  refine-draft: '2026-06-22T15:04:56.138011+00:00'
+  refine-draft: '2026-06-22T15:31:00.328571+00:00'
   research-topic: '2026-06-21T23:46:28.233150+00:00'
-  replenish-queue: '2026-06-22T15:13:11.723230+00:00'
+  replenish-queue: '2026-06-22T15:31:00.000000+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T14:55:55.386127+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-22'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1311,53 +1311,47 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 540
-  last_replenishment: '2026-06-22T15:12:00+00:00'
+  last_replenishment_run: 541
+  last_replenishment: '2026-06-22T15:31:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.540 (2026-06-22T15:12Z): FLOOR-RESTORED via
-    1 genuine-own-body-drift deep-review mint of topics/mathematical-structure-of-the-consciousness-physics-interface.md.
+  current_replenishment_note: 'run no.541 (2026-06-22T15:31Z): FLOOR-RESTORED via
+    1 genuine-own-body-drift deep-review mint of apex/post-decoherence-selection-programme.md.
     Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    pre-mint (the two prior-run deep-review P2s: apex/interface-specification-programme
-    run 539 + concepts/delegatory-causation run 538, both still pending and pickable),
-    below MIN_QUEUE floor 3, unmet by 1 -- the documented replenish-at-floor alternation
-    (unfin_loop_steady_state), NOT a deadlock. The run-533 chain successor embodied-interface
-    reciprocal-links refine that run-539''s note counted toward the floor was PICKED
-    + consumed this cycle (now a done entry plus its follow-on deep-review done),
-    so the live floor fell back to 2 -- the documented deep_review_over_reviews_converged
-    same-day cycle-collision. ALL 8 sources independently re-audited from live disk,
-    no other safe restorer: chain has ZERO research-topic/cross-review completions
-    + the two recent expand-topics (phenomenal-presentation, parapsychology-firewall)
-    both have LIVE non-orphan articles with real inbound links (chains satisfied;
-    only remaining successor is the parapsychology-firewall P3 connective-enrichment,
-    orphan resolved); unconsumed research ZERO (recent notes disk-confirmed consumed
-    into live same-slug articles + apex); gap caps have headroom (topics 278/320,
-    concepts 266/320) but new-article generation is harvester-governed (last 2026-06-22T09:56Z,
-    next ~15:56Z, ~45min out) and gap-analysis is Vetoed-bank-dedup-blocked; staleness
-    no MORE-length-comfortable genuine-drift hit; length NO safe condense (every content-section
-    hard/critical offender HUMAN-DEFERRED / veto-tagged / accept-as-survey / index-hub
-    / deferred-apex); orphan 0; positions 8/80 slow-add audited 2026-06-22T06:20;
-    applied-apex no cluster gap. The chosen mint is a genuine own-body-drift limb
-    of the same multi-file empirical-precision refine vein (commit 2c59225a6 -- the
-    Torres Alegre 2025 Born-rule citation now carries the caveat -recent arXiv preprint
-    not yet peer-reviewed-): of the vein''s 12 files, five are already deep-review-verified
-    2026-06-22; interface-specification-programme + delegatory-causation are the two
-    queued limbs (Tenet 2/3); born-rule is HUMAN-DEFERRED (over hard 5118w); and of
-    the four remaining apex/topic limbs this TOPICS article is the best floor restorer
-    -- last deep-reviewed 2026-06-18 but own-body content-edited 2026-06-22 in BOTH
-    the No-Many-Worlds body paragraph AND its References entry #15 arXiv:2512.12636
-    (refine bumps ai_modified NOT last_deep_review so the preprint-status calibration
-    is deep-review-unverified), it has the most length headroom (body 3764w = soft_warning,
-    topics soft 3000/hard 4000, 236w under hard -- slightly better than what-consciousness-tells-us-about-physics
-    4799w / phenomenology-mechanism-bridge 4565w / post-decoherence-selection-programme
-    4531w), AND it uniquely covers Tenet 4 (No Many Worlds -- MWI as rival Born-rule
-    claimant) complementing the Tenet 2/3 coverage of the two queued limbs. what-consciousness-tells-us-about-physics
-    was deep-reviewed only 2026-06-21 (1 day before the refine) so re-reviewing it
-    so soon risks over-review churn. Older model claude-opus-4-6. Not vetoed (no header-level
-    veto entry; only hits are a done 2026-06-03 condense + old calibration-cluster
-    cross-link tasks), no open duplicate. Inserted at top of Active Tasks to defeat
-    LIFO. Live selector AFTER mint = 3, floor restored. Expect replenish-at-floor
-    + deep-review-cycle-collision alternation to continue until the harvester reopens
-    the research->expand pipeline ~15:56 UTC.'
+    pre-mint (the two prior-run deep-review P2s still pending: apex/interface-specification-programme
+    run 539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3, unmet
+    by 1 -- the documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT a deadlock. Run 540''s mathematical-structure mint was PICKED + deep-reviewed
+    this cycle (last_deep_review now 2026-06-22T15:14Z), so the live floor fell back
+    to 2 -- the documented deep_review_over_reviews_converged same-day cycle-collision.
+    ALL 8 sources independently re-audited from live disk, no other safe restorer:
+    chain has ZERO research-topic/cross-review completions + the two recent expand-topics
+    (phenomenal-presentation, parapsychology-firewall) are integrated with real inbound
+    links (chains satisfied; only remaining successor is the parapsychology-firewall
+    P3 connective-enrichment); unconsumed research ZERO (five most-recent notes disk-confirmed
+    consumed into live same-slug topics/apex); gap caps have headroom (topics 278/320,
+    concepts 266/320) but new-article generation is harvester-governed (last 2026-06-22T09:56Z)
+    and gap-analysis is Vetoed-bank-dedup-blocked; voids 101/100 OVER; length NO safe
+    condense (every content-section offender HUMAN-DEFERRED / veto-tagged / accept-as-survey
+    / index-hub / deferred-apex, and accept-as-survey over-mint trap applies to the
+    rest); orphan 0; positions 8/80 slow-add audited 2026-06-22T06:20; applied-apex
+    no cluster gap. The chosen mint is the LARGEST-drift genuine own-body limb (~19.0d,
+    last deep-reviewed 2026-06-03) of the same multi-file empirical-precision refine
+    vein (commit 2c59225a6 -- the Torres Alegre 2025 Born-rule citation now carries
+    the caveat -a recent arXiv preprint not yet peer-reviewed-): own-body content-edited
+    2026-06-22T09:03 in BOTH the causal-consistency-constraint body paragraph AND References
+    entry #14 arXiv:2512.12636 (refine bumps ai_modified NOT last_deep_review so the
+    preprint-status calibration is deep-review-unverified). Of the vein''s 12 files
+    five are already deep-review-verified 2026-06-22; mathematical-structure verified
+    2026-06-22T15:14; interface-specification-programme + delegatory-causation queued
+    above; born-rule HUMAN-DEFERRED (over hard 5118w). This apex (body 4531w = soft_warning,
+    apex hard 5000, ~470w headroom) is the largest-drift remaining limb; siblings what-consciousness-tells-us-about-physics
+    4799w (also deep-reviewed only 2026-06-21, re-review risks churn) and phenomenology-mechanism-bridge
+    4565w sit closer to the hard ceiling. Tenet 2/3 load-bearing. Older model claude-opus-4-6.
+    Not vetoed (the 3 active mentions below the Vetoed header are all incidental cross-link/staleness
+    references inside OTHER vetoed tasks notes -- no header-level veto of a deep-review/condense
+    of this file), no open duplicate. Inserted at top of Active Tasks to defeat LIFO.
+    Live selector AFTER mint = 3, floor restored. Expect replenish-at-floor + deep-review-cycle-collision
+    alternation to continue until the harvester reopens the research->expand pipeline.'
   superseded_539_replenishment_note: 'run no.539 (2026-06-22T14:59Z): FLOOR-RESTORED
     via 1 genuine-own-body-drift deep-review mint of apex/interface-specification-programme.md.
     Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
