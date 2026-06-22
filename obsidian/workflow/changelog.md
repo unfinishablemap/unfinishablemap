@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T21:42:43+00:00
+ai_modified: 2026-06-22T22:09:21+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T22:09:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/self-concealing-interface]]
+- **Word count**: 3498 → 3514 (+16)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (two quotation re-syncs only; expansion declined — calibration-guardrail article, below soft threshold 3514/4000)
+- **Notes**: Third deep review; focused on the 2026-06-19 apex-evolve additions (two discriminating-test-design wikilinks + a worked up-ramp/down-ramp test-design sentence in the Graded-channel-failure seam). New test-design content verified **faithful** to both sources ([[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]], [[direction-dependent-discriminating-test-design]]): "rival readings predict oppositely", "substrate-state and direction-axis", and the "potentially discriminating / could deliver more than the constraining force" calibration all match the sources' constrain-not-establish line; no possibility/probability slippage. Two CRITICAL quotation defects fixed, both from **source drift / inserted words**: (1) the tenets Born-statistics quote was verbatim at synthesis time but `tenets.md` was rewritten by commit 6ab6a8e01 — the quoted sentence no longer exists in the live source; re-synced to current verbatim wording ("empirically indistinguishable from chance" / "leaves no statistical signature in long runs"). (2) the taxonomy-of-voids quote had "consciousness-matter" inserted inside the quotation marks and a dropped hyphen ("introspective channel" vs source "introspective-channel"); restored verbatim. All other in-quote citations re-verified verbatim against current sources. Five-seam count intact (5 bolded entries; 2026-06-06 fix held). No label leakage. Process lesson: apex quotes can go stale by silent source rewrite — future apex reviews must re-grep in-quote citations against current sources, not trust prior "verbatim" verdicts.
+- **Output**: [[reviews/deep-review-2026-06-22-self-concealing-interface]]
 
 ## 2026-06-22T21:58:23+00:00 - deep-review
 - **Status**: Success
