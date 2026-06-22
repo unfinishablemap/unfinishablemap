@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Engage active-inference theory of consciousness as a NAMED rival (not just a mechanism)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/predictive-processing-and-dualism.md
-- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Finding 3 + Deliverable 2 + Remediation A.6/B.3. PARTIAL CORRECTION of the reviewer: predictive processing DOES have a topic home (`predictive-processing-and-dualism.md`) and a concept page (`concepts/predictive-processing.md`) — the "no standalone home / only wikilink fragments" claim is inaccurate. AND Laukkonen, Friston & Chandaria, "A beautiful loop: An active inference theory of consciousness," *Neurosci. Biobehav. Rev.* art. 106296 (2025), DOI 10.1016/j.neubiorev.2025.106296 (web-verified this cycle — real, three-conditions account accurate) is ALREADY cited in the meditation cluster (`comparative-phenomenology-of-meditative-traditions`, `neurophenomenology-and-contemplative-neuroscience`, `cessation-versus-plenitude`). The REAL, narrower finding: this active-inference *theory of consciousness* — a direct competitor to the interface/filter reading — is not confronted AS a named adversary on the pages where the filter/interface gloss is applied (Default Mode Network, Global Workspace, altered-states/agency clusters). ACTION: on `predictive-processing-and-dualism` (and link from the DMN/GWT concept pages) state the Laukkonen-Friston-Chandaria active-inference theory in ITS OWN physicalist terms as the strongest contemporary rival, THEN give the Map's reply — do not re-gloss it toward the interface reading. Honour the co-optation firewall. Apply the [[direct-refutation-discipline]] remit (show the rival defective on its own terms, OR name an unsupported foundational move, OR honestly mark the framework-boundary disagreement); mode labels stay out of article prose. Respect length ceilings.
-- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Integrate COGITATE 2025 + infant-marker literature into the convergence and animal/machine clusters
 - **Type**: refine-draft
 - **Status**: pending
@@ -1282,6 +1273,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Engage active-inference theory of consciousness as a NAMED rival (not just a mechanism)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Finding 3 + Deliverable 2 + Remediation A.6/B.3. PARTIAL CORRECTION of the reviewer: predictive processing DOES have a topic home (`predictive-processing-and-dualism.md`) and a concept page (`concepts/predictive-processing.md`) — the "no standalone home / only wikilink fragments" claim is inaccurate. AND Laukkonen, Friston & Chandaria, "A beautiful loop: An active inference theory of consciousness," *Neurosci. Biobehav. Rev.* art. 106296 (2025), DOI 10.1016/j.neubiorev.2025.106296 (web-verified this cycle — real, three-conditions account accurate) is ALREADY cited in the meditation cluster (`comparative-phenomenology-of-meditative-traditions`, `neurophenomenology-and-contemplative-neuroscience`, `cessation-versus-plenitude`). The REAL, narrower finding: this active-inference *theory of consciousness* — a direct competitor to the interface/filter reading — is not confronted AS a named adversary on the pages where the filter/interface gloss is applied (Default Mode Network, Global Workspace, altered-states/agency clusters). ACTION: on `predictive-processing-and-dualism` (and link from the DMN/GWT concept pages) state the Laukkonen-Friston-Chandaria active-inference theory in ITS OWN physicalist terms as the strongest contemporary rival, THEN give the Map's reply — do not re-gloss it toward the interface reading. Honour the co-optation firewall. Apply the [[direct-refutation-discipline]] remit (show the rival defective on its own terms, OR name an unsupported foundational move, OR honestly mark the framework-boundary disagreement); mode labels stay out of article prose. Respect length ceilings.
 
 ### ✓ 2026-06-22: Calibrate evidential register in the-strong-emergence-of-consciousness.md (2 medium pessimistic findings)
 - **Type**: refine-draft
