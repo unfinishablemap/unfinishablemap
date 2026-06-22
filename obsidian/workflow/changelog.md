@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T22:36:27+00:00
+ai_modified: 2026-06-22T23:15:05+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T23:15:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/functional-seeming]]
+- **Word count**: 1439 → 1439 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Notes**: Third review, convergence-confirmation pass. Re-qualified by a cosmetic cross-link install ([[primary-secondary-quality-boundary]]) plus a substantive citation-year flip (Frankish "What is Illusionism?" Klesis 55: 2021→2023) propagated minutes earlier by the illusionism deep-review (3ecc95e91) as a family-fix. Ran §2.4 publisher-of-record web-verify on the changed cite: Frankish 2023 Klesis 55 confirmed CORRECT at revue-klesis.org (klesis-55-04, the 2023 special issue "La conscience phénoménale"); quoted line "Seeming need not be phenomenal seeming..." faithful to the PDF — independently corroborates the illusionism review's family-fix. Other cites (Frankish 2016, Pereboom 2016, Shabasson 2022, Kammerer 2022) verified in the 2026-05-26 review and byte-unchanged since (carried forward; ledger in archive). Inline↔References cross-ref complete, no orphans. `find_superlative_claims` empty (pure conceptual article, no currency risk). Cross-link [[primary-secondary-quality-boundary]] resolves by basename to topics/ — VALID despite not being in concepts/. Engagement modes unchanged (zombie convergence Mode Three, vantage-point Mode Two, self-representation mixed); no label leakage. No possibility/probability slippage. 1439w = 58% of soft threshold, no length pressure. No spurious edits per no-oscillation rule. No critical issues = success on a converged article.
+- **Output**: [[reviews/deep-review-2026-06-22-functional-seeming]]
 
 ## 2026-06-22T23:05:25+00:00 - deep-review
 - **Status**: Success

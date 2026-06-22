@@ -4,7 +4,7 @@ description: "Keith Frankish's claim that 'seeming conscious' reduces to functio
 created: 2026-04-12
 modified: 2026-04-12
 human_modified:
-ai_modified: 2026-06-22T23:05:25+00:00
+ai_modified: 2026-06-22T23:15:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-12
 last_curated:
-last_deep_review: 2026-05-26T21:57:24+00:00
+last_deep_review: 2026-06-22T23:15:05+00:00
 ---
 
 Functional seeming is Keith Frankish's proposal that when we say consciousness "seems" phenomenal, the seeming itself is entirely functional—a matter of having the right beliefs, dispositions, and reactions—rather than involving any phenomenal experience. This is the central defensive move of [[illusionism]]: it blocks the otherwise devastating regress objection by denying that an illusion of consciousness requires consciousness.
