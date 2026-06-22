@@ -5,6 +5,18 @@ ai_modified: 2026-06-21T16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T00:10:00+00:00 - deep-review
+- **Status**: Success (first deep-review; no-critical-issues confirming pass)
+- **File**: [[topics/vestibular-consciousness-and-the-interface]]
+- **Word count**: 2977 → 2977 (no content edits; 99% of topics 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (1 deferred: missing inline cite for active/passive motor-prediction claim — established background neuroscience, framed interpretive-not-probative, citation-discipline risk to add)
+- **Enhancements made**: 0 (already converged across 4 same-day passes: expand-topic, apex-evolve, optimistic-review, cross-review)
+- **Citation web-verify (publisher of record, all 7)**: de Vignemont 2024 SEP — real-correct (3 verbatim quotes exact); Pfeiffer/Serino/Blanke 2014 Front Integr Neurosci 8:31 PMC4028995 — real-correct (no-unisensory-cortex quote verbatim); Blanke & Arzy 2005 Neuroscientist 11(1):16–24 PubMed 15632275 — real-correct; Lopez/Lenggenhager/Blanke 2010 Conscious Cogn 19(1):33–47 PubMed 20047844 — real-correct; Laurens & Droulez 2007 Biol Cybern 96(4):389–404 PubMed 17146661 — real-correct (somatogravic direction independently re-verified: forward accel felt as backward tilt — correct); Blanke 2012 Nat Rev Neurosci 13(8):556–571 PubMed 22805909 — real-correct; Cento et al. 2026 J Vestib Res DOI 10.1177/09574271251412707 PubMed 41499789 — real-correct (all 6 authors confirmed; highest-fabrication-risk 2026 cite holds). Inline↔References complete, no orphans. No superlative empirical-record claims.
+- **Reasoning-mode**: engagement with the Bayesian-inference/multisensory-integration physicalist rival (§The Strongest Rival): Mode Three (framework-boundary marking) — honest; grants the rival predicts the full datum set without non-physical remainder, claims accommodation not refutation. No boundary-substitution, no editor-vocabulary label leakage.
+- **Discipline checks**: co-optation firewall exemplary (physicalist authors named + cited-as-rival, "none enlisted as ally"); no possibility/probability slippage (article states the framework does not discriminate on this evidence); had-vs-constitutive held open at boundary; no "This is not X. It is Y." cliché. All 15 wikilink targets + 4 tenet anchors resolve. "Oquatre-huit" self-citation byline confirmed as house convention.
+- **Output**: [[reviews/deep-review-2026-06-22-vestibular-consciousness-and-the-interface]]
+
 ## 2026-06-21T23:55:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Thermal consciousness and the interface (thermoception as a modality-interface case)
