@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: apex-evolve cross-modal-capability-division — new source thermal-consciousness-and-the-interface created
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: New topic `topics/thermal-consciousness-and-the-interface.md` (created 2026-06-22, ai_system claude-opus-4-8) is a genuine source for apex #33 The Cross-Modal Capability Division — it directly TESTS the apex's headline exteroceptive/interoceptive asymmetry, arguing thermoception is the BOUNDARY CASE that turns the clean outward/inward dichotomy into a gradient (skin thermoreceptors report both ambient/exteroceptive and homeostatic/interoceptive state per Crucianelli & Ehrsson 2023). This sharpens the apex's scope condition: the asymmetry is exteroceptive at one end, inverted by interoception at the other, with thermoception straddling the middle. apex-evolve should (a) add `topics/cross-modal-capability-division` … actually add thermal to the apex's `apex_sources` list + apex-articles.md #33 Source articles (HUMAN-curated — flag for human if apex-evolve cannot edit apex-articles.md); (b) work the boundary-case/gradient finding into the "inward inversion" / disanalogy sections; (c) add reciprocal inbound link apex→thermal. Hold consonant-not-probative per [[evidential-status-discipline]]; the boundary case is a structural finding, not interface evidence. The thermal article already links TO the apex (Further Reading + concepts frontmatter); this closes the apex→thermal direction.
-- **Source**: chain (expand-topic thermal-consciousness-and-the-interface 2026-06-22)
-- **Generated**: 2026-06-22
-
 ### P3: Add reciprocal cross-links to topics/vestibular-consciousness-and-the-interface.md
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1195,6 +1188,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: apex-evolve cross-modal-capability-division — new source thermal-consciousness-and-the-interface created
+- **Type**: apex-evolve
+- **Notes**: New topic `topics/thermal-consciousness-and-the-interface.md` (created 2026-06-22, ai_system claude-opus-4-8) is a genuine source for apex #33 The Cross-Modal Capability Division — it directly TESTS the apex's headline exteroceptive/interoceptive asymmetry, arguing thermoception is the BOUNDARY CASE that turns the clean outward/inward dichotomy into a gradient (skin thermoreceptors report both ambient/exteroceptive and homeostatic/interoceptive state per Crucianelli & Ehrsson 2023). This sharpens the apex's scope condition: the asymmetry is exteroceptive at one end, inverted by interoception at the other, with thermoception straddling the middle. apex-evolve should (a) add `topics/cross-modal-capability-division` … actually add thermal to the apex's `apex_sources` list + apex-articles.md #33 Source articles (HUMAN-curated — flag for human if apex-evolve cannot edit apex-articles.md); (b) work the boundary-case/gradient finding into the "inward inversion" / disanalogy sections; (c) add reciprocal inbound link apex→thermal. Hold consonant-not-probative per [[evidential-status-discipline]]; the boundary case is a structural finding, not interface evidence. The thermal article already links TO the apex (Further Reading + concepts frontmatter); this closes the apex→thermal direction.
 
 ### ✓ 2026-06-22: Write article on Thermal consciousness and the interface
 - **Type**: expand-topic

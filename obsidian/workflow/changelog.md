@@ -5,6 +5,21 @@ ai_modified: 2026-06-21 16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T01:25:06+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/cross-modal-capability-division]]
+- **Changed sources**: 1 (`topics/thermal-consciousness-and-the-interface` admitted as 8th source — the deferred apex inbound from the thermal expand-topic chain)
+- **Word count** (canonical `analyze_length`): 4729 → 4879 (net +150, ≤150 target met; soft 4000 over / hard 5000 — 121w margin; soft_warning preserved, NO hard breach)
+- **Integration**: concise, NOT a new section (apex was 271w under hard after the vestibular admission — a third first-class section was impossible). Thermal boundary-case finding worked into the existing "The Inward Case That Inverts Both Terms" section + a one-clause Synthesis completion: thermoception straddles the extero/intero axis (skin reports ambient + homeostatic state via one lamina I → insula pathway — Crucianelli & Ehrsson 2023, Craig 2002), turning the apex's clean outward/inward dichotomy into a gradient and SHARPENING its scope condition.
+- **Second distinctive dropped under length pressure**: thermal's state-indexed valence (same warmth pleasant when chilled, aversive when overheated) was NOT pulled into the apex — the brief scoped it "only if it fits," and trimming for the ≤150 net target removed it. The apex does not turn on it; it lives fully in the source article.
+- **Length recovery**: trimmed ~40w of peripheral prose (two disanalogy-section clauses + the new paragraph itself) to land net +150 to stay length-neutral-ish.
+- **Citations**: REUSE only — Crucianelli & Ehrsson 2023 (new Reference 19) + Craig 2002 (already Reference 7). No new unverified cites (Blomqvist 2023, Craig & Bushnell 1994, Vriens/Nilius/Voets 2014, Barrett & Simmons 2015 left in source article — apex body does not lean on them).
+- **Discipline**: held consonant-not-probative per [[evidential-status-discipline]] (structural finding, not interface evidence); [[common-cause-null]] invoked — a straddling 8th source does not strengthen the asymmetry claim, only locates its edge. No "This is not X. It is Y." cliché.
+- **Links**: reciprocal apex → thermal added (thermal → apex already present). `apex_sources` + `related_articles` updated; `apex-articles.md` #33 source list + Evolved 2026-06-22 note added.
+- **Review**: [[reviews/apex-evolve-2026-06-22-cross-modal-capability-division]]
+
+---
+
 ## 2026-06-22T01:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Thermal consciousness and the interface

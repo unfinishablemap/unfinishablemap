@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-06-21 00:00:00+00:00
+ai_modified: 2026-06-22 01:25:06+00:00
 ai_system: claude-opus-4-8
-apex_last_synthesis: 2026-06-21 00:00:00+00:00
+apex_last_synthesis: 2026-06-22 01:25:06+00:00
 apex_sources:
 - concepts/capability-division-in-vision
 - topics/auditory-consciousness-and-the-interface
@@ -12,6 +12,7 @@ apex_sources:
 - topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination
 - topics/interoceptive-consciousness-and-the-interface
 - topics/vestibular-consciousness-and-the-interface
+- topics/thermal-consciousness-and-the-interface
 apex_thesis: The brain-side machinery of perception is irreducibly modality-specific
   while the conscious/unconscious boundary carries a common supramodal signature—and
   that asymmetry, not the bare recurrence of a division, is what generalising across
@@ -42,6 +43,7 @@ related_articles:
 - '[[dual-domain-capabilities-in-proprioception-and-spatial-imagination]]'
 - '[[interoceptive-consciousness-and-the-interface]]'
 - '[[vestibular-consciousness-and-the-interface]]'
+- '[[thermal-consciousness-and-the-interface]]'
 title: The Cross-Modal Capability Division
 topics:
 - '[[dualist-perception]]'
@@ -86,6 +88,8 @@ The asymmetry has so far been read off five exteroceptive and proprioceptive sen
 
 The sharpened statement is therefore: the asymmetry—modality-specific brain machinery, supramodal mind-side boundary—holds for the distance and proprioceptive senses; interoception inverts it, the brain side converging and the mind side becoming affect-and-ownership. The recurrence claim was never universal, and saying so precisely is stronger than asserting it everywhere. Interoception is the revealing exception that marks the edge of the regularity, and the apex's structural finding is the more honest for carrying its own scope condition.
 
+The outward/inward partition this scope condition rests on is itself not a clean line. [Thermoception](/topics/thermal-consciousness-and-the-interface/) is the boundary case: skin thermoreceptors report at once the temperature of the world (exteroceptive) and the body's own thermoregulatory state (interoceptive), carried by a single lamina I pathway to the insula (Crucianelli & Ehrsson, 2023; Craig, 2002). A modality genuinely both at once straddles the middle of the outward/inward axis rather than falling on either end, so the asymmetry runs as a gradient—exteroceptive at one pole, interoception-inverted at the other, thermal on the line. Per the [common-cause null](/project/common-cause-null/) this straddling eighth source does not strengthen the asymmetry claim, only locate its edge.
+
 This inward inversion is, by the Map's [evidential-status discipline](/project/evidential-status-discipline/), no more probative than the supramodal signature it parallels. A convergent insular integrator is exactly what a physicalist expects if the body needs one homeostatic hub—there is metabolic economy in routing visceral state to a common cortex—and interoceptive inference predicts the affective, self-constituting character of visceral experience with no non-physical remainder. The convergent substrate and the predictive construction are what *both* pictures expect; the brain-side fact is neutral between the readings, and the mind-side reframing favours only *some* self-constituting account, of which the leading one is physicalist. The inversion changes what the apex's terms mean inward without changing the register in which they are held. And because interoception converges on a single insular hub, that hub is maximally a common cause: on the [common-cause null](/project/common-cause-null/) the interoceptive evidence is one datum about the inward limit, not a stack of independent confirmations of the interface.
 
 ## The Silent Frame: The Asymmetry at Its Brain-Side Extreme
@@ -110,11 +114,11 @@ Where the Map claims the workspace under-describes the phenomena is the *ownersh
 
 ## Where the Division Does Not Cleanly Recur
 
-The disanalogies carry at least as much weight as the convergence, and a synthesis that buried them would be a triumphalist re-survey. Three of them constrain the recurrence claim directly.
+The disanalogies carry at least as much weight as the convergence. Three of them constrain the recurrence claim directly.
 
 **Ownership is uneven across the senses.** The mind-side term the Map foregrounds—experience owned by a subject—is vivid in touch and proprioception and comparatively thin in smell. Touch stages the owner explicitly: the touching hand is also a touched object, and the rubber-hand illusion shows the felt body boundary to be a movable construction. Proprioception's whole dual-domain structure turns on the felt body image that Christina lost while retaining motor function. Smell, by contrast, presents quality and affect with little sense of an owned perceptual *object* at all; there is a live reading on which olfactory states are closer to affective or interoceptive states than to detached representations. So "ownership is the mind-side contribution" does not recur uniformly—it is strong where the body is in the loop and faint where it is not. The inward case treated above is one limit: in [interoception](/topics/interoceptive-consciousness-and-the-interface/) the mind-side term is ownership at its most total, and the brain side converges rather than staying modality-specific—which is why the asymmetry is exteroceptive, not universal. The [vestibular sense](/topics/vestibular-consciousness-and-the-interface/) treated above marks an orthogonal limit that shows the gradient runs on more than one axis—a faint felt object alongside a foundational frame. The recurrence is of a *family* of mind-side contributions whose members are differently weighted by modality, not of one contribution present in equal measure everywhere.
 
-**Binding and awareness are doubly dissociable.** The Map reads experienced unity—of a heard stream, a felt object, a flavour—as the mind-side contribution across modalities. But integration and awareness come apart in both directions: some cross-modal integration occurs without awareness, and awareness can occur without integration (Deroy, Chen & Spence, 2014). Multisensory integration is therefore not a reliable marker of consciousness, and the dependence that does hold is task-specific—awareness of a cue is necessary for *some* multisensory bindings to influence behaviour, not all. The honest form of the Map's claim is narrow: *phenomenal* unity tracks awareness, not that all binding requires it. Stated more strongly, the claim over-reaches exactly where the literature is most equivocal.
+**Binding and awareness are doubly dissociable.** The Map reads experienced unity—of a heard stream, a felt object, a flavour—as the mind-side contribution across modalities. But integration and awareness come apart in both directions: some cross-modal integration occurs without awareness, and awareness can occur without integration (Deroy, Chen & Spence, 2014). Multisensory integration is therefore not a reliable marker of consciousness, and the dependence that does hold is task-specific—awareness of a cue is necessary for *some* multisensory bindings to influence behaviour, not all. The honest form of the Map's claim is narrow: *phenomenal* unity tracks awareness, not that all binding requires it.
 
 **The conscious boundary is internally graded.** Even within a single modality the transition into awareness is not a clean cut. In vision, local contour completion can proceed without awareness while global gestalt completion appears to require it, and some perceptual integration leaves a neural signature indistinguishable from the conscious case (Fahrenfort et al., 2017). The boundary marks where integration reliably *tracks* awareness, not an on/off switch. A supramodal signature of the transition is therefore compatible with the transition being graded and partly modality-bound within each sense—the common signature may be a common downstream broadcast *of* heterogeneous, locally graded events rather than a single upstream mechanism. The recurrence is of a graded boundary with a shared late signature, not of a uniform cut.
 
@@ -124,7 +128,7 @@ These disanalogies do not refute the structural finding; they calibrate it. What
 
 Laying the five modality treatments beside one external literature yields a claim none of them states and none could state alone. The capability division does recur across the senses—but what recurs is an asymmetry, not a single mechanism. On the brain side, nothing is shared: V1 feature maps, cochlear frequency analysis, the combinatorial olfactory code, and mechanoreceptor populations are unrelated solutions to unrelated transduction problems, so only the *form* of the brain-side labour recurs, never its substrate. On the mind side, the conscious/unconscious boundary carries a common supramodal signature that decodes across vision, hearing, and touch and even recruits the sensory cortex of irrelevant modalities. The cross-modal commonality lives entirely on the side opposite the machinery.
 
-That asymmetry comes with its own scope condition, and naming it is part of the finding. It holds for the distance and proprioceptive senses; turning the survey inward to interoception inverts both terms—the brain side converges on a single insular integrator, the mind side becomes affect and ownership outright. So the asymmetry is an *exteroceptive* regularity with a revealing inward exception, not a universal law. The disciplined claim is sharper for carrying that boundary: the modality-specific brain side recurs over the senses with separate transducers, and the inward case where the transducers feed a common hub is exactly where it stops recurring. The vestibular sense marks the other edge—not an inversion but the asymmetry at its limit, a modality with no unisensory cortex and almost no felt object that nonetheless supplies the spatial frame of the subject—and so the mind-side term resolves into a family rather than a single contribution.
+That asymmetry comes with its own scope condition, and naming it is part of the finding. It holds for the distance and proprioceptive senses; turning the survey inward to interoception inverts both terms—the brain side converges on a single insular integrator, the mind side becomes affect and ownership outright. So the asymmetry is an *exteroceptive* regularity with a revealing inward exception, not a universal law—with thermoception marking the line itself, a single modality reporting both world and body at once. The disciplined claim is sharper for carrying that boundary: the modality-specific brain side recurs over the senses with separate transducers, and the inward case where the transducers feed a common hub is exactly where it stops recurring. The vestibular sense marks the other edge—not an inversion but the asymmetry at its limit, a modality with no unisensory cortex and almost no felt object that nonetheless supplies the spatial frame of the subject—and so the mind-side term resolves into a family rather than a single contribution.
 
 That asymmetry is consonant with the interface reading without being probative of it, because the Global Neuronal Workspace predicts the very same supramodal signature and reads it as a neural broadcast. The signature is a shared explanandum; the Map's distinctive wager is on the ownership term the broadcast under-describes—a wager strong on argument and thin on direct cross-modal evidence. And the disanalogies set the ceiling: ownership is uneven across the senses, binding and awareness doubly dissociate, and the conscious boundary is graded rather than sharp. The disciplined statement is therefore: *the form of the brain-side division recurs over modality-specific machinery; the mind-side access boundary recurs as a supramodal signature; the mind-side contribution is a differently-weighted family rather than a single uniform thing; and the whole convergence is one pattern with shared upstream architecture, consistent with the interface reading and equally consistent with its strongest rival.* That is more than any one sense shows, and less than a proof—which is exactly the register the Map's perception articles have held throughout.
 
@@ -149,6 +153,7 @@ This synthesis draws together:
 - [Dual-Domain Capabilities in Proprioception and Spatial Imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — the division taken inward, with the body-schema/body-image and aphantasia dissociations
 - [Interoceptive Consciousness and the Interface](/topics/interoceptive-consciousness-and-the-interface/) — the inward case that inverts both terms; the brain side converges on the insula, the mind side becomes affect and ownership
 - [Vestibular Consciousness and the Interface](/topics/vestibular-consciousness-and-the-interface/) — the brain-side extreme; no unisensory cortex and almost no felt object, yet the silent supplier of the spatial frame of the self
+- [Thermal Consciousness and the Interface](/topics/thermal-consciousness-and-the-interface/) — the boundary case; a single modality reporting both world and body at once, turning the outward/inward partition into a gradient
 
 ## References
 
@@ -170,3 +175,4 @@ This synthesis draws together:
 16. Lopez, C., Lenggenhager, B. & Blanke, O. (2010). How vestibular stimulation interacts with illusory hand ownership. *Consciousness and Cognition*, 19(1), 33–47. https://pubmed.ncbi.nlm.nih.gov/20047844/
 17. Laurens, J. & Droulez, J. (2007). Bayesian processing of vestibular information. *Biological Cybernetics*, 96(4), 389–404. https://pubmed.ncbi.nlm.nih.gov/17146661/
 18. Blanke, O. (2012). Multisensory brain mechanisms of bodily self-consciousness. *Nature Reviews Neuroscience*, 13(8), 556–571. https://pubmed.ncbi.nlm.nih.gov/22805909/
+19. Crucianelli, L. & Ehrsson, H. H. (2023). The Role of the Skin in Interoception: A Neglected Organ? *Perspectives on Psychological Science*, 18(1), 224–238. https://doi.org/10.1177/17456916221094509
