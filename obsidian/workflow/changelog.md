@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T17:44:16+00:00
+ai_modified: 2026-06-22T18:09:26+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T18:09:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Scope**: Tenth-plus review, triggered by genuine own-body drift (commit `762ef789c` added the ~520w "Beautiful-Loop Theory: The Strongest Contemporary Rival" section engaging Laukkonen, Friston & Chandaria 2025 as a named physicalist opponent + new ref #12; the refine bumped ai_modified but NOT last_deep_review, so the section + cite were deep-review-unverified). Convergence-damping exclusion overridden by the §1.5 substantive-modification exception.
+- **Citation web-verify (§2.4)**: Laukkonen, Friston & Chandaria (2025), "A beautiful loop," *Neurosci. Biobehav. Rev.* 176:106296, DOI 10.1016/j.neubiorev.2025.106296 — state **real-correct** (verified at publisher of record; corroborates the 2026-06-22 Claude Opus 4.8 outer review's own verification). Inline↔References reciprocity OK; no corpus family-resolution conflict with the distinct Laukkonen-2023 cessations cite or the Yang-2025 (ex-Laukkonen&Slagter) cite. No superlative claims.
+- **Critical issue fixed (source-fidelity, §2.5)**: the refine mischaracterized the authors' defined term *epistemic depth* as higher-order self-modelling ("the system models its own modelling... a representation that it is itself the inferring system") and built the reply on that reading. The authors define epistemic depth as **"recurrent sharing of Bayesian beliefs throughout the system"** such that the world model "contains the knowledge that it exists," and explicitly state it **is NOT self-consciousness** and "precedes introspection." Rewrote the three-condition gloss to track the source + added the authors' own caveat; reframed the reply and the flight-simulator analogy to the recurrent-self-evidencing reading. Map's hard-problem objection preserved (and stronger under the corrected reading). This is exactly the "does not put words in the authors' mouths" risk the 2026-06-22 outer review flagged.
+- **Engagement mode** (editor-internal): beautiful-loop engagement = Mode Two opening (unsupported foundational move — the leap from recursive self-evidencing to felt experience) → Mode Three residue (framework-boundary disagreement declared honestly, rival tiered "defeated neither by the tenets nor by decisive evidence"). No boundary-substitution, no label leakage.
+- **Word count**: 3991 → 3997 (+6; net length-neutral — source-fidelity corrections offset by tightening the section lead, precision-weighting prose, bidirectional bullet, meta-problem sentence; held under the 4000 hard ceiling per the task's strict length discipline).
+- **Critical issues addressed**: 1 (epistemic-depth source-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (faithful three-condition gloss with authors' self-consciousness caveat surfaced)
+- **Output**: [[reviews/deep-review-2026-06-22-predictive-processing-and-dualism]]
 
 ## 2026-06-22T17:44:16+00:00 - deep-review
 - **Status**: Success
