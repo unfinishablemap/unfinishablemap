@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T21:34:26.985936+00:00'
-session_count: 12897
+last_updated: '2026-06-22T21:40:56.386515+00:00'
+session_count: 12898
 cycle_position: 9799
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T20:38:39.039395+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-22T21:24:48.786100+00:00'
+  replenish-queue: '2026-06-22T21:40:56.386515+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-22'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1353,9 +1353,9 @@ queue_status:
     is genuine-drift deep-review (ai_modified > last_deep_review, not-today, gap-desc,
     SUBSTANTIVE same-file body diff verified via git -- NOT cosmetic cross-touch).
     Rejected false-drift candidates this run (replenish-false-exhaustion-mislabeled-drift
-    + apex-last-synthesis-drift-artifact): indexical-identity-quantum-measurement (+22d,
-    only the egocentric-presentism sibling-expand touched it -- run-471 also rejected
-    it), creative-aesthetic-void / phenomenal-value-realism / machine-consciousness
+    + apex-last-synthesis-drift-artifact): indexical-identity-quantum-measurement
+    (+22d, only the egocentric-presentism sibling-expand touched it -- run-471 also
+    rejected it), creative-aesthetic-void / phenomenal-value-realism / machine-consciousness
     / inaccessible-past (sibling-expand cross-touches), consciousness-and-memory (its
     only post-review edits are Further-Reading wikilink additions, cosmetic). CHOSEN
     concepts/many-worlds.md -- last_deep_review 2026-06-01 but own-body substantively
@@ -1369,8 +1369,8 @@ queue_status:
     or trimming. No open/vetoed deep-review task targets the file (grep-confirmed).
     Placed at TOP of Active Tasks to defeat LIFO-starvation. Superseded run-559 note
     follows.'
-  legacy_run_559_note: 'run no.559 (2026-06-22T21:20Z): MINTED 3 genuine-drift
-    deep-review tasks, floor restored 0->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)=0
+  legacy_run_559_note: 'run no.559 (2026-06-22T21:20Z): MINTED 3 genuine-drift deep-review
+    tasks, floor restored 0->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)=0
     PRE-mint (the 3 open #veto condense P2s -- composition-question-rivals, meaning-of-life,
     phenomenal-output-causal-machinery-dissociation -- are correctly excluded by the
     selector; the open P3 cross-link tasks do not count toward the floor of 3), =3
