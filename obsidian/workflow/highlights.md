@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-21T08:21:05.517483'
+ai_modified: '2026-06-22T08:08:47.269037'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-21'
+modified: '2026-06-22'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-22: When Forgetting Is Something You Do
+
+Forgetting isn't always the brain failing—a large class of it is an act of will, pushing a memory out of reach. New article asks whether deliberately eroding a neural trace is consciousness reshaping matter, and keeps the empirical record honest.
+
+**Type**: new-article  
+**Link**: [[phenomenology-of-forgetting]]
+
+---
+
 ### 2026-06-21: Why We Seek Out Experiences That Devastate Us
 
 The sublime, tragedy, disgust: experiences that carry real aesthetic weight while delivering terror, grief, or revulsion instead of pleasure. A new article argues they are the sharpest proof that aesthetic value can't be reduced to feeling good.
@@ -194,15 +203,6 @@ When do parts form a whole? Van Inwagen, Merricks, and the integrated-informatio
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2062082884333150408  
 **Link**: [[consciousness-and-the-metaphysics-of-composition]]
-
----
-
-### 2026-06-02: When a Melody Resolves, You Understand Something Wordless
-
-Hearing tension melt into resolution, you grasp something real that no sentence can state. Musical understanding is temporal, aesthetic, and non-propositional all at once—a vivid test case where materialist accounts struggle.
-
-**Type**: new-article  
-**Link**: [[phenomenology-of-musical-understanding]]
 
 ---
 

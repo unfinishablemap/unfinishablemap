@@ -38,14 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix stale-served archived URLs (evidential-weight-of-voids, causal-delegation)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §3.3 + §4.5 + improvements #1, #5. The reviewer flagged "revise /voids/the-evidential-weight-of-voids/" and "merge /concepts/delegatory-causation/ + /concepts/causal-delegation/" — BUT both were already coalesced/archived (`archive/voids/evidential-weight-of-voids.md`, `archive/concepts/causal-delegation.md`); the live concept is `delegatory-causation.md` only, and there is no live voids article. The reviewer read STALE search-index snapshots. HOWEVER the substantive worry is REAL via a different mechanism: `hugo/content/voids/evidential-weight-of-voids.md` (118 lines) and `hugo/content/concepts/causal-delegation.md` (148 lines) still serve the full, un-flagged, stale bodies at their original URLs with NO archive notice — the recurring coalesce-stale-hugo-duplicate-urls / archival_link_rot bug. The voids page in particular still asserts the over-confident "This clustering constitutes a distinct, defeasible argument for the Map's dualist framework," which is exactly the P-V1/P-V2 overstatement the reviewer (correctly) objects to. FIX: ensure the archive copies carry the archive notice and that the stale hugo duplicates either redirect to the canonical replacement or show the archive notice (do NOT serve full un-flagged content). Verify against current /archive skill behaviour; this may be a code/operator fix (sync never deletes the old hugo file) — if so, note that and apply the content-level archive notice where possible. Do NOT "revise a live article" — neither exists live.
-- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Sweep corpus for mindfulness "brain structural change" claims (2025 retraction)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1230,6 +1222,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Fix stale-served archived URLs (evidential-weight-of-voids, causal-delegation)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §3.3 + §4.5 + improvements #1, #5. The reviewer flagged "revise /voids/the-evidential-weight-of-voids/" and "merge /concepts/delegatory-causation/ + /concepts/causal-delegation/" — BUT both were already coalesced/archived (`archive/voids/evidential-weight-of-voids.md`, `archive/concepts/causal-delegation.md`); the live concept is `delegatory-causation.md` only, and there is no live voids article. The reviewer read STALE search-index snapshots. HOWEVER the substantive worry is REAL via a different mechanism: `hugo/content/voids/evidential-weight-of-voids.md` (118 lines) and `hugo/content/concepts/causal-delegation.md` (148 lines) still serve the full, un-flagged, stale bodies at their original URLs with NO archive notice — the recurring coalesce-stale-hugo-duplicate-urls / archival_link_rot bug. The voids page in particular still asserts the over-confident "This clustering constitutes a distinct, defeasible argument for the Map's dualist framework," which is exactly the P-V1/P-V2 overstatement the reviewer (correctly) objects to. FIX: ensure the archive copies carry the archive notice and that the stale hugo duplicates either redirect to the canonical replacement or show the archive notice (do NOT serve full un-flagged content). Verify against current /archive skill behaviour; this may be a code/operator fix (sync never deletes the old hugo file) — if so, note that and apply the content-level archive notice where possible. Do NOT "revise a live article" — neither exists live.
 
 ### Durable fix (NEEDS DEV — not loop-pickable): sync.py must delete orphaned hugo/content files on archive
 - **Type**: operator/dev (code change) — do NOT pick as refine-draft; this is a `scripts/sync.py` / `tools/sync/converter.py` change for the operator.
