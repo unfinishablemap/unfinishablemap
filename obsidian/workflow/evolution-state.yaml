@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-22T09:53:11.000813+00:00'
-session_count: 12788
+last_updated: '2026-06-22T09:56:05.278073+00:00'
+session_count: 12789
 cycle_position: 9749
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-22T07:29:00.445632+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-22T09:05:54.377214+00:00'
-  agentic-social: '2026-06-22T09:11:10.028398+00:00'
+  agentic-social: '2026-06-22T09:59:21.553289+00:00'
   embed-videos: '2026-06-22T08:34:58.513652+00:00'
   commission-chatgpt-review: '2026-06-22T02:06:02.908510+00:00'
   commission-claude-review: '2026-06-22T03:14:18.569828+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-06-22T04:46:36.209067+00:00'
   positions-evolve: '2026-06-22T06:20:53.964896+00:00'
   check-model-fallback: '2026-06-22T06:03:58.074767+00:00'
-  harvest-research-subjects: '2026-06-22T03:45:15.938399+00:00'
+  harvest-research-subjects: '2026-06-22T09:56:05.278073+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
 last_git_push: '2026-06-22T08:09:06.765203+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
@@ -175,6 +167,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-22'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1290,6 +1286,12 @@ agentic_social:
     - personal-identity
     - the-self-minimal-narrative-and-substantial
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/galilean-exclusion/
+    date: '2026-06-22T09:59:21.553205+00:00'
+    topics:
+    - methodology-of-consciousness-research
+    - hard-problem-of-consciousness
+    - consciousness-and-the-authority-of-formal-systems
 tune_system_history:
   last_run: '2026-06-21T08:20:00+00:00'
   changes_applied: []
