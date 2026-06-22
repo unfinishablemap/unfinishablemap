@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T20:17:42.068494+00:00'
-session_count: 12884
-cycle_position: 9792
+last_updated: '2026-06-22T20:25:35.332004+00:00'
+session_count: 12885
+cycle_position: 9793
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T16:20:30.854268+00:00'
   optimistic-review: '2026-06-22T17:16:31.836723+00:00'
   check-tenets: '2026-06-22T20:05:05.753355+00:00'
   check-links: '2026-06-22T19:59:45.237607+00:00'
-  deep-review: '2026-06-22T19:42:43.057894+00:00'
+  deep-review: '2026-06-22T20:25:35.332004+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-22T20:01:28.001758+00:00'
   coalesce: '2026-06-22T18:01:30.163502+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 413
-  reviews_completed: 5631
+  reviews_completed: 5633
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-22'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1316,16 +1316,63 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 2
   p3_tasks: 3
   needs_replenishment: false
-  loop_pickable_open: 3
-  replenishment_source_counts:
-    staleness: 1
-  last_replenishment_run: 554
-  last_replenishment: '2026-06-22T19:30:00+00:00'
+  loop_pickable_open: 2
+  replenishment_source_counts: {}
+  last_replenishment_run: 555
+  last_replenishment: '2026-06-22T20:30:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.554 (2026-06-22T19:30Z): FLOOR-RESTORED by a
+  current_replenishment_note: 'run no.555 (2026-06-22T20:30Z): NO-MINT. Authoritative
+    live count_p0_p2_tasks(content) = 2 (the two genuinely-pickable P2s: refine-draft
+    "Adopt attention-as-interface calibration in predictive-processing-and-dualism"
+    from the 2026-06-22 topic-concept anchoring audit + the run-554 deep-review mint
+    concepts/phenomenal-overflow.md, last_deep_review 2026-06-02 / ai_modified 2026-06-22,
+    still live and un-consumed). Below MIN_QUEUE floor 3 (cycle_pick.py MIN_QUEUE_TASKS=3),
+    unmet by 1 -- the documented replenish-at-floor + deep-review-cycle-collision alternation
+    ([[unfin_loop_steady_state]] + [[deep_review_over_reviews_converged]]), NOT a deadlock.
+    Run 554 restored the floor to 3 at 19:30Z by minting the phenomenal-overflow deep-review;
+    since then the cycle deep-review slots CONSUMED the two standing Torres-Alegre-vein P1
+    deep-reviews -- apex/interface-specification-programme (reviewed 19:40:57Z, todo line
+    1235 now marked done) + concepts/delegatory-causation (reviewed 20:21:59Z, todo line
+    1231 now marked done) -- dropping the live floor 3->2. ALL 8 sources re-audited from
+    live disk, NO safe restorer: (1 chain) recent_tasks has ZERO research-topic/cross-review
+    completions; the one recent expand-topic (predictive-self-binding-and-the-naturalist-challenge)
+    already has its P3 inbound-cross-link successor queued. (2 unconsumed research) ZERO --
+    the six newest notes (letheby, entropic-brain, thermal, vestibular, interoceptive,
+    cross-modal) all disk-confirmed consumed into live same-slug articles/apex. (3 gap)
+    caps headroom (topics 279/320, concepts 267/320, positions 8/80) but voids 101/100 OVER
+    + the research->expand pipeline is harvester-governed (last run 16:00Z, interval-gated
+    ~6h, next ~22:00Z) + replenish gap candidates dedup against the 572-entry Vetoed bank.
+    (4 staleness/genuine-drift) the ONLY article with a genuine post-review OWN-BODY conceptual
+    edit is phenomenal-overflow.md -- ALREADY queued by run 554. Every higher-drift-score
+    candidate is a STALE-FIELD artifact ([[apex-last-synthesis-drift-artifact]] / [[replenish-false-exhaustion-mislabeled-drift]]):
+    git-diff-verified prose+0/+1 cross-link reciprocation, expand-topic sibling-spillover,
+    or embed-videos / apex-evolve cosmetic triggers, NOT genuine body drift. Specifically
+    audited & rejected: indexical-identity-quantum-measurement (22.6d score, sole post-review
+    change = one egocentric-presentism cross-link line), self-construction-constructor (embed-videos
+    + apex-evolve-trigger), machine-question (06-22 apex-evolve "integrate deep-computational-markers"
+    is length-neutral COSMETIC copy-editing apex->synthesis/piece + one cross-link, no new
+    claim), consciousness-and-the-normativity-of-reason / consciousness-and-memory / interoceptive-void
+    / time-consciousness-growing-block / inaccessible-past / attention-as-causal-bridge /
+    three-dimensional-world-representation-problem (all prose+0/+1 cross-link-only). Genuinely-edited
+    drift candidates that ARE excluded for other reasons: synesthetic-void (genuine 06-17
+    refines but HUMAN-LENGTH-DEFERRED 06-17), born-rule-and-the-consciousness-interface (HUMAN-DEFERRED
+    flagship over hard ceiling). (5 orphan) 0. (6 length) every hard_warning+ offender is
+    veto / accept-as-survey / HUMAN-deferred / DIVERTED: the three open condense tasks (composition-question-rivals,
+    meaning-of-life, phenomenal-output-causal-machinery-dissociation) are #veto selector-excluded;
+    clinical-dissociation DIVERTED-TO-HUMAN; memory-channel-interface-evidence explicit ACCEPT-AS-SURVEY
+    ([[replenish-overmints-condense-vs-accept-as-survey]] guard); consciousness-and-the-metaphysics-of-laws-and-dispositions
+    DEFERRED-TO-HUMAN; time-collapse-and-agency under HUMAN LENGTH DECISION 06-12 (4606w);
+    argument-from-reason / epistemic-advantages-of-dualism / valence-and-conscious-selection
+    are hard_warning (NOT critical, all <6000) ai_contribution=100 with only T00:00:00-placeholder
+    1-4d drift -- no genuine restorer + calibration-regression/over-mint risk, so not minted.
+    (7 positions) slow-add, audited 06-22T06:20, no implied-but-unregistered claim from the
+    last cycle. (8 applied-apex) no high-confidence cluster gap. Floor will self-restore via
+    the harvester reopening research->expand ~22:00Z or the next cycle''s natural alternation.
+    Superseded run-554 note follows.'
+  superseded_554_replenishment_note: 'run no.554 (2026-06-22T19:30Z): FLOOR-RESTORED by a
     single genuine Source-4 (staleness genuine-own-body-drift) deep-review mint of
     concepts/phenomenal-overflow.md. Authoritative live count_p0_p2_tasks(content)
     = 2 pre-mint (the two standing Torres-Alegre-vein P2 deep-reviews: apex/interface-specification-programme
