@@ -5,6 +5,15 @@ ai_modified: 2026-06-22T19:40:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T20:11:57+00:00 - tune-system
+- **Status**: Success (no Tier-1 changes — conservative no-op)
+- **Sessions analyzed**: ~1.4d since last run (5th consecutive over-frequency fire; every-6-cycles trigger outpaces 30d cadence)
+- **Findings**: 0 critical, 1/20 failed (transient API rate-limit, not a fault), convergence stable; no in-file Tier-1 surface
+- **Tier 1 changes**: 0 applied
+- **Tier 2**: gate tune-system on 30d cadence (5th recommendation)
+- **Tier 3 corroborated**: queue LIFO starvation (fixed ×2 this session), forked-skill post-delegation yield, apex-evolve over-ceiling expansion (reverted), check-links 23 broken targets, cosmetic-drift re-review churn
+- **Output**: [[reviews/system-tune-2026-06-22]]
+
 ## 2026-06-22T19:40:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/interface-specification-programme]]
