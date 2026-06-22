@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research The Entropic Brain Hypothesis
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-05-14-claude-opus-4-7.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-05-14-claude-opus-4-7 (b)(2): the filter-theory page mentions REBUS but not EBH; EBH is independently citable and the most production-friendly explanation of the psychedelic data, so it should have its own concept page the topic article can route through. Verified no dedicated page exists (only inline in psychedelics-and-the-filter-model, consciousness-under-extreme-metabolic-constraint, bandwidth-of-consciousness). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/the-entropic-brain-hypothesis-2026-06-22.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'the-entropic-brain-hypothesis' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-06-22
+
+### P3: Research Lethebys Predictive Self-Binding and the Naturalistic Account of Psychedelic Experience
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-05-14-claude-opus-4-7.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-05-14-claude-opus-4-7 (b)(1): Letheby naturalism is the most directly threatening contemporary philosophical opponent on this topic; called for as a high-priority topic-tier (~2500w) engagement. Only a paragraph of inline engagement currently exists in psychedelics-and-the-filter-model; no dedicated article treats predictive-self-binding as the Maps named non-dualist opponent across the altered-states cluster. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/lethebys-predictive-self-binding-and-the-naturalistic-account-of-psychedelic-experience-2026-06-22.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'lethebys-predictive-self-binding-and-the-naturalistic-account-of-psychedelic-experience' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-06-22
+
 ### P2: Deep review apex/interface-specification-programme.md (2026-06-22 Torres Alegre preprint-status caveat is deep-review-unverified; Tenet-2 load-bearing, older model claude-opus-4-7)
 - **Type**: deep-review
 - **Status**: pending
