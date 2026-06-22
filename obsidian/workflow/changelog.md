@@ -5,6 +5,12 @@ ai_modified: 2026-06-22T18:09:26+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T18:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Letheby's Predictive Self-Binding and the Naturalistic Account of Psychedelic Experience
+- **Output**: [[research/letheby-predictive-self-binding-naturalistic-psychedelics-2026-06-22]]
+- **Sources consulted**: 9
+
 ## 2026-06-22T18:09:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/predictive-processing-and-dualism]]
