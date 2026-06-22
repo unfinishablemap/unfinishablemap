@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T18:56:38.454385+00:00'
-session_count: 12869
-cycle_position: 9788
+last_updated: '2026-06-22T19:03:08.634542+00:00'
+session_count: 12870
+cycle_position: 9789
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T16:20:30.854268+00:00'
@@ -24,9 +24,9 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T16:31:55.425673+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-22T18:33:08.438838+00:00'
+  replenish-queue: '2026-06-22T19:06:00+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
-  expand-topic: '2026-06-22T16:37:18.003461+00:00'
+  expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
   literature-drift-review: '2026-06-16T05:16:35.375066+00:00'
   collect-chatgpt-review: '2026-06-22T04:05:14.262430+00:00'
@@ -81,7 +81,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 278
+  topics_written: 279
   concepts_written: 267
   arguments_written: 5
   questions_written: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-22'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1312,11 +1312,56 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    unconsumed_research: 1
-  last_replenishment_run: 551
-  last_replenishment: '2026-06-22T18:45:00+00:00'
+    staleness: 1
+    chain: 1
+  last_replenishment_run: 552
+  last_replenishment: '2026-06-22T19:06:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.551 (2026-06-22T18:45Z): FLOOR-RESTORED by a
+  current_replenishment_note: 'run no.552 (2026-06-22T19:06Z): FLOOR-RESTORED by a
+    single genuine Source-4 (staleness genuine-own-body-drift) deep-review mint of
+    voids/wholeheartedness-void.md, plus a free Source-1 chain-successor P3 integrate-orphan
+    (no floor inflation). Authoritative live count_p0_p2_tasks(content) = 2 pre-mint
+    (the two standing Torres-Alegre-vein P2 deep-reviews: apex/interface-specification-programme
+    run 539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3, unmet
+    by 1 -- documented replenish-at-floor + expand-topic-cycle-collision alternation
+    (unfin_loop_steady_state), NOT a deadlock. CHAIN-COLLISION: run 551 minted a Letheby
+    predictive-self-binding EXPAND-TOPIC; last_runs.expand-topic 19:03 is AFTER last_runs.replenish-queue
+    18:45, so that expand-topic was PICKED + consumed by the expand-topic cycle slot
+    minutes ago (article topics/predictive-self-binding-and-the-naturalist-challenge.md
+    now on disk, task now ✓-DONE below Completed), dropping the live floor from 3 back
+    to 2. ALL 8 sources re-audited live, no other safe restorer: (chain) recent_tasks
+    has the just-consumed Letheby expand-topic whose integration successor this run
+    queues as a free P3 (see below) + ZERO research-topic/cross-review completions.
+    (unconsumed research) ZERO -- the Letheby note is now consumed into the live article;
+    all other newest notes disk-confirmed consumed. (gap) caps headroom (topics 279/320,
+    concepts 267/320, positions 8/80) but voids 101/100 OVER, harvester-governed (next
+    ~22:00Z) + Vetoed-bank-blocked. (length) NO safe condense -- every content offender
+    HUMAN-deferred / #veto / accept-as-survey / recently-condensed-churn-trap / index-hub
+    / deferred-apex; the lone over-hard own-body-drift row (introspection-architecture-independence-scoring
+    4025w) was bumped only by a SIBLING deep-review (cosmetic), is over the 4000 hard
+    ceiling, and would be a length-decision churn trap. (orphan) 0. (positions) slow-add,
+    audited 2026-06-22T06:20. (applied-apex) no cluster gap. GENUINE-DRIFT restorer
+    chosen: voids/wholeheartedness-void.md last deep-reviewed 2026-06-05 but own-body
+    content-edited 2026-06-10 by commit 47fbf269e (Velleman disownability citation-locus
+    correction) -- a refine bumps ai_modified NOT last_deep_review, so the corrected
+    citation locus is deep-review-UNVERIFIED. Cleanest available: citation-heavy agency
+    void (Watson/Velleman/Bratman/Frankfurt/Hsee-Hastie-2006/Loewenstein-2003), ai_contribution=100,
+    older model claude-opus-4-7. Body 3006w = hard_warning (only ~6w over voids 3000
+    hard) so the review is steered STRICTLY length-neutral-or-trimming -- NOT a condense
+    trigger (verification review). Confirmed not vetoed (the lone Vetoed-region wholeheartedness
+    hit is a cross-link mention in the DIFFERENT resolution-void task notes), no open
+    duplicate (the two ### header hits are both ✓-DONE -- the 06-10 Velleman fix that
+    CREATED the drift + the 06-05 prior review), cap-safe (deep-review modifies existing
+    content). FREE CHAIN P3: the just-consumed Letheby expand-topic skipped 4 of its
+    5 mandated inbound links ([[expand-topic-skips-integration-chain]]) -- new article
+    links OUTBOUND to predictive-processing/self-and-self-consciousness/altered-states-of-consciousness/predictive-processing-and-dualism
+    but only psychedelics-and-the-filter-model links back; queued a P3 integrate-orphan
+    to install the four reciprocal inbound links (does NOT count toward the P0-P2 floor,
+    so no over-mint). Live selector AFTER mint = 3, floor restored exactly. Both new
+    tasks inserted at top of Active Tasks to defeat LIFO. Expect replenish-at-floor
+    + deep-review/expand-topic-cycle-collision alternation to continue until the harvester
+    reopens the research->expand pipeline ~22:00 UTC.'
+  superseded_551_replenishment_note: 'run no.551 (2026-06-22T18:45Z): FLOOR-RESTORED by a
     single genuine Source-2 unconsumed-research mint of a P2 expand-topic on Letheby
     predictive-self-binding (the +60 highest-bonus source, and the exact alternation-breaker
     run no.550 predicted). Authoritative live count_p0_p2_tasks(content) = 2 pre-mint
