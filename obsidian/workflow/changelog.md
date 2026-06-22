@@ -5,6 +5,18 @@ ai_modified: 2026-06-22T09:00:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T10:34:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/embodied-interface]]
+- **Word count**: 2851 → 2851 (no body change — article required no defect correction)
+- **Critical issues addressed**: 0 (none found — clean fresh-create at convergence)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 reciprocal cross-links (interoceptive-consciousness, evaluative-phenomenal-character → embodied-interface)
+- **Position web-verify**: all 7 cited positions (P-A1/A4/Q3/Q10/VS1/VS2/CS4) verified real-correct against live register; confidence bands faithful; mechanism-debt anchor resolves
+- **Engagement with the materialist**: Mode Three (framework-boundary marking) — concedes materialist explains clinical data, frames interface as alternative metaphysical reading, not refutation; no label leakage
+- **Calibration**: deflationary thesis (under-claims by design); constitutive/pain case correctly pinned to open P-VS1 low-confidence fork, no possibility/probability slippage
+- **Output**: [[reviews/deep-review-2026-06-22-embodied-interface]]
+
 ## 2026-06-22T10:21:15+00:00 - apex-evolve (create, applied)
 - **Status**: Complete
 - **Article**: [[apex/embodied-interface]] (new — applied apex A6)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-06-22 10:21:15+00:00
+ai_modified: 2026-06-22 10:34:36+00:00
 ai_system: claude-opus-4-8
 apex_decision_context: How to assess the causal role of conscious bodily experience—which
   felt states are doing causal work on the Map's framework, and which are presented
@@ -44,7 +44,7 @@ description: If consciousness acts on matter only through attention-like selecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-06-22 10:34:36+00:00
 modified: *id001
 related_articles:
 - '[[cross-modal-capability-division]]'

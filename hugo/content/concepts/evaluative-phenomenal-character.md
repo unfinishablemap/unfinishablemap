@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-06-21 18:40:43+00:00
+ai_modified: 2026-06-22 10:34:36+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -54,6 +54,7 @@ related_articles:
 - '[[mental-causation-and-downward-causation]]'
 - '[[evaluative-qualia-phenomenal-normativity-across-traditions]]'
 - '[[alignment-in-objective-experiential-terms]]'
+- '[[embodied-interface]]'
 title: Evaluative Phenomenal Character
 topics:
 - '[[meaning-of-life]]'

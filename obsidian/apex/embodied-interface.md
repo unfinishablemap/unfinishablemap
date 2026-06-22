@@ -4,7 +4,7 @@ description: "If consciousness acts on matter only through attention-like select
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-06-22T10:21:15+00:00
+ai_modified: 2026-06-22T10:34:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-22
 last_curated:
-last_deep_review:
+last_deep_review: 2026-06-22T10:34:36+00:00
 
 apex_type: applied
 apex_sources:

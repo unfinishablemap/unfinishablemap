@@ -4,7 +4,7 @@ description: "Interoception completes the Map's modality survey inward and break
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-06-22T01:30:00+00:00
+ai_modified: 2026-06-22T10:34:36+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[qualia]]"
 related_articles:
   - "[[cross-modal-capability-division]]"
+  - "[[embodied-interface]]"
   - "[[interoceptive-void]]"
   - "[[tactile-consciousness-and-the-interface]]"
   - "[[dual-domain-capabilities-in-proprioception-and-spatial-imagination]]"
