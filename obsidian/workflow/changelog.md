@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T14:01:38+00:00
+ai_modified: 2026-06-22T14:25:15+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T14:25:15+00:00 - deep-review
+- **Status**: Success (third review; converged — no body change, no-op confirmed)
+- **File**: [[concepts/ensemble-level-epiphenomenalism]]
+- **Word count**: 1922 → 1922 (+0; 77% of 2500 concepts soft threshold — headroom)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (body unchanged since 2026-06-06 review)
+- **Diff since last review**: a single cosmetic [[parapsychology-firewall]] cross-link added to Further Reading by a sibling refine pass, plus the ai_modified bump. Target verified to resolve. This is the convergence-damping no-op pattern (damped score 20, two prior reviews) — cosmetic cross-link re-qualified a converged article.
+- **Citation web-verify (§2.4)**: References block unchanged since the 2026-06-06 PoR verification — no fresh web-verify triggered. Carried-forward ledger: Saad 2025 (Phil Studies 182(3):939-967), Chalmers-McQueen 2022 (OUP chapter, arXiv:2105.02314 locator), Maier-Dechamps-Pflitsch 2018 (Frontiers Psych 9:379) — all real-correct.
+- **Reasoning-mode**: physicalist Mode Three (honest boundary-marking), objector Mixed, MWI-defender Mode Three — all unchanged; no label leakage; no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-22-ensemble-level-epiphenomenalism]]
 
 ## 2026-06-22T14:11:31+00:00 - deep-review
 - **Status**: Success (seventh review; converged — one consistency fix applied)
