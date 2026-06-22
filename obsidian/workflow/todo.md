@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review concepts/knowledge-argument.md (genuine-drift: 2026-06-21 refine content unreviewed since 2026-06-01)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/knowledge-argument.md
+- **Notes**: FLOOR-RESTORING genuine-drift mint (replenish run 522, salvaged inline after the replenish fork abandoned; converged rec from TWO independent genuine-drift audits this session). `last_deep_review: 2026-06-01` < `ai_modified: 2026-06-21` — the 2026-06-21 refine (commit 29deefe36 + the Sytsma stance fix) added substantive own-body content that has NEVER been deep-reviewed. SCOPE the review to that unreviewed content only: (a) the NEW Dennett "counter-burden is itself contested" paragraph — verify the argument is sound, honestly hedged, and not boundary-substitution ([[direct-refutation-discipline]]); (b) the recalibrated intuition-prevalence claims ("Most people"/"virtually everyone"/"nearly everyone" softening) — confirm accurate against the x-phi literature. **DO NOT RE-LITIGATE (already web-verified this session — [[barrett-2021-eight-vs-six-propagated]] flip-flop guard):** the Jackson 2003 "Mind and Illusion" cite is CORRECT (O'Hear ed., *Minds and Persons*, Cambridge UP, 2003; "By 2003" is defensible — do NOT flip to 2004); the Sytsma & Machery 2010 cite metadata is verified (*Phil Studies* 151(2):299-327) and its in-body STANCE was already corrected this session to "philosophers and non-philosophers conceive of subjective experience differently" (do NOT revert to a Mary's-room-specific claim). LENGTH: concepts soft 2500 / hard 3500; currently 2594w soft_warning — verification mode, NOT condense. LICENSE TO NO-OP: a confirming verdict is fine if the Dennett paragraph + prevalence claims hold up; the pass also bumps `last_deep_review` past `ai_modified`, closing the recurring drift flag. Source: replenish (genuine-drift).
+- **Generated**: 2026-06-22
+
 ### P2: Adopt explanatory-gap calibration in thermal-consciousness-and-the-interface
 - **Type**: refine-draft
 - **Status**: pending
