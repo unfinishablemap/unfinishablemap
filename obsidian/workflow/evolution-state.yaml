@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T16:37:18.003461+00:00'
-session_count: 12845
+last_updated: '2026-06-22T16:41:07.050504+00:00'
+session_count: 12846
 cycle_position: 9776
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T16:31:55.425673+00:00'
   research-topic: '2026-06-22T16:06:15.948964+00:00'
-  replenish-queue: '2026-06-22T16:10:25.038417+00:00'
+  replenish-queue: '2026-06-22T16:41:07.050504+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T16:37:18.003461+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1315,8 +1315,8 @@ queue_status:
   last_replenishment_run: 544
   last_replenishment: '2026-06-22T16:39:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.544 (2026-06-22T16:39Z): FLOOR-RESTORED via 1
-    CHAIN-SUCCESSOR cross-review/integration mint for the just-created concepts/entropic-brain-hypothesis.md.
+  current_replenishment_note: 'run no.544 (2026-06-22T16:39Z): FLOOR-RESTORED via
+    1 CHAIN-SUCCESSOR cross-review/integration mint for the just-created concepts/entropic-brain-hypothesis.md.
     Authoritative live count_p0_p2_tasks(content)=2 pre-mint (the two pending deep-review
     P2s: apex/interface-specification-programme run 539 + concepts/delegatory-causation
     run 538), below MIN_QUEUE floor 3, unmet by 1 -- documented replenish-at-floor
@@ -1338,14 +1338,15 @@ queue_status:
     unconsumed-research ZERO (newest notes disk-confirmed consumed; the 3 apparent
     flags enactivism-challenge / epistemological-limits-occams / cross-modal-capability-division
     are FALSE POSITIVES, each has a live same-topic article under a different slug);
-    gap caps have headroom (topics 278/320, concepts 267/320, positions 8/80) but voids
-    101/100 OVER, new-article gen harvester-governed (last 2026-06-22T16:00Z) + Vetoed-dedup-blocked;
-    length NO safe condense (every offender HUMAN-DEFERRED / veto / accept-as-survey
-    / index-hub); orphan quality.orphaned_files=0; positions 8/80 slow-add audited
-    06-22T06:20; applied-apex no cluster gap. Inserted at top of Active Tasks to defeat
-    LIFO ([[queue-lifo-starvation]]). Live selector AFTER mint = 3, floor restored.'
-  superseded_543_replenishment_note: 'run no.543 (2026-06-22T16:10Z): FLOOR-RESTORED via
-    1 UNCONSUMED-RESEARCH expand-topic mint (concepts/ page on The Entropic Brain
+    gap caps have headroom (topics 278/320, concepts 267/320, positions 8/80) but
+    voids 101/100 OVER, new-article gen harvester-governed (last 2026-06-22T16:00Z)
+    + Vetoed-dedup-blocked; length NO safe condense (every offender HUMAN-DEFERRED
+    / veto / accept-as-survey / index-hub); orphan quality.orphaned_files=0; positions
+    8/80 slow-add audited 06-22T06:20; applied-apex no cluster gap. Inserted at top
+    of Active Tasks to defeat LIFO ([[queue-lifo-starvation]]). Live selector AFTER
+    mint = 3, floor restored.'
+  superseded_543_replenishment_note: 'run no.543 (2026-06-22T16:10Z): FLOOR-RESTORED
+    via 1 UNCONSUMED-RESEARCH expand-topic mint (concepts/ page on The Entropic Brain
     Hypothesis). THE RESEARCH-EXPAND PIPELINE HAS REOPENED -- this run differs from
     the prior ~5 floor-restores (all genuine-own-body-drift deep-review mints of the
     Torres-Alegre-preprint refine vein). Authoritative live count_p0_p2_tasks(content)=2
