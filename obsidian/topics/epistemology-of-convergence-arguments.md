@@ -46,7 +46,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-06-03T09:15:25+00:00
+last_deep_review: 2026-06-22T07:13:00+00:00
 coalesced_from:
   - "/topics/epistemology-of-convergence-arguments/"
   - "/topics/epistemology-of-cross-cultural-philosophical-convergence/"

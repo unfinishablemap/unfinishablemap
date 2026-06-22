@@ -5,6 +5,19 @@ ai_modified: 2026-06-22 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T09:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Word count**: 6479 → 6479 (length-neutral; metadata-only, no body edits)
+- **Critical issues addressed**: 0 (none found — 6th pass on a converged calibration anchor)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: No re-litigation — the full set was publisher-of-record verified clean on 2026-06-03 and is byte-identical since (git-confirmed: no cite added/removed/altered); the §2.4 "modified since last review" trigger does not fire on the bibliography. No superlative claims (currency sweep n/a).
+- **Changes since 5th review** were calibration-tightening, not new content: one frontmatter cross-link ([[project/voids-circularity-discount]]), a trimmed diachronic-robustness parenthetical, and a *sharpened* (more careful, not looser) independence-cluster sentence conceding intentionality's independence is contested. No defect, no slippage, no new citation.
+- **Reasoning-mode classification (editor-internal)**: illusionists/Frankish Mixed(Two→Three); Berent Mode Two→Three; McGinn Mode One; Chalmers-divergence Mode Three; eliminativism Mode Three. No label leakage in body.
+- **LENGTH**: confirmed 6479w CRITICAL — STANDING HUMAN LENGTH DECISION (2026-06-03), in ## Blocked Tasks. NOT re-queued (4 prior condenses failed; recommended action is human SPLIT, not a 5th auto-condense; [[condense-regresses-calibration-qualifiers]], [[refine-then-condense-same-session-churn]]).
+- **Output**: [[reviews/deep-review-2026-06-22-epistemology-of-convergence-arguments]]
+
 ## 2026-06-22T08:30:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/animal-consciousness]], [[topics/the-convergence-argument-for-dualism]] (apex/machine-question deferred — see below)
