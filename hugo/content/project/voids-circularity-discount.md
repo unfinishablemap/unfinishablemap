@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-13
-ai_modified: 2026-05-19 16:00:00+00:00
+ai_modified: 2026-06-22 07:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -36,6 +36,7 @@ related_articles:
 - '[[tenet-generated-voids]]'
 - '[[voids]]'
 - '[[the-convergence-argument-for-dualism]]'
+- '[[epistemology-of-convergence-arguments]]'
 title: The Voids-Circularity Discount
 topics: []
 ---

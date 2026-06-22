@@ -4,7 +4,7 @@ description: "What makes convergence evidentially significant? Cross-traditional
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-03T15:55:52+00:00
+ai_modified: 2026-06-22T05:12:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[phenomenological-evidence]]"
   - "[[common-cause-null]]"
   - "[[project/evidential-status-discipline]]"
+  - "[[project/voids-circularity-discount]]"
   - "[[topics/animal-consciousness]]"
   - "[[apex/taxonomy-of-voids]]"
   - "[[neurological-dissociations-as-interface-architecture]]"

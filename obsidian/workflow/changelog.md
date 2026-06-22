@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 04:55:26+00:00
+ai_modified: 2026-06-22 07:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T07:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/the-convergence-argument-for-dualism]], [[topics/epistemology-of-convergence-arguments]], [[apex/taxonomy-of-voids]], [[project/voids-circularity-discount]]
+- **Source**: convergent outer reviews 2026-06-22 (ChatGPT 5.5 Pro §4.5/improvement #1 + Claude Opus 4.8 Key Finding 5 / Deliverable 3 / Remediation A.1) — REVISE-HARD on convergence-as-evidence circularity
+- **3-state finding**: The reviewers' named targets (`convergence-as-evidence`, `evidential-weight-of-voids`) are ARCHIVED; remit applied to the live `the-convergence-argument-for-dualism` / `epistemology-of-convergence-arguments` / `apex/taxonomy-of-voids`. State assessment: the circularity calibration the reviewers asked for was **largely ALREADY PRESENT** — `taxonomy-of-voids` already runs the four-origin-class Void Clustering Audit, excludes tenet-generated voids ("not evidence for the tenets"), registers P-V1/P-V2/P-V3, and caps the convergence at "framework-internal coherence" under the common-cause null; both topic articles already have coherence-vs-evidential-status discipline sections. The "among the strongest forms of evidence" phrasing the remit flagged for downgrade is in the ARCHIVED `evidential-weight-of-voids`, NOT the live articles (grep-confirmed absent). The one GENUINE gap (confirmed by Claude's own Deliverable 2 + verification note line 149: "voids-circularity-discount … is not cross-linked from the live convergence/apex articles") was the **missing bridge** to the `voids-circularity-discount` project page — Claude's "single most damaging missing piece of connective tissue."
+- **Changes**: (a) `taxonomy-of-voids` — named `voids-circularity-discount` as the project-tier statement the Void Clustering Audit applies (audit opening + Further Reading + frontmatter). (b) `the-convergence-argument-for-dualism` — added a paragraph in "Coherence Across Routes Is Not Independent Routes" tying the philosophical-argument convergence's self-applied discipline to the sharper voids-circularity case (convergence-with-self is not triangulation; tenet-generated voids count for zero); Further Reading + frontmatter link. (c) `epistemology-of-convergence-arguments` (already CRITICAL length 6479w — minimal-touch) — one clause in "Methodology and Framework Commitment Are Different Routes" naming the voids-convergence catalogue instance and the discount; frontmatter link only (no body Further Reading add, length-conscious). (d) `voids-circularity-discount` — added reverse frontmatter link to `epistemology-of-convergence-arguments` (the convergence-argument and apex back-links already existed), completing the both-ways bridge.
+- **Length**: convergence-argument 4005→3984 (trimmed the new paragraph to clear the 4000 hard ceiling, net soft_warning). taxonomy-of-voids 4682 (soft, under apex hard 5000). epistemology 6479→6513 (pre-existing critical, +34w minimum bridge — flagship over-ceiling pending human editorial decision, deliberately not worsened with a full paragraph).
+- **NOT conflated**: the distinct ChatGPT stale-served-archived-hugo-URL mechanism (`evidential-weight-of-voids` body still served un-flagged) is its own "Fix stale-served archived URLs" task, left untouched.
+- **direct-refutation-discipline**: no opponent-engagement move added; new prose is methodological self-calibration (the rival here is the Map's own count-inflation), so no mode classification applies.
+- **Published**: yes (kept published; non-draft articles)
 
 ## 2026-06-22T05:00:02+00:00 - deep-review
 - **Status**: Success

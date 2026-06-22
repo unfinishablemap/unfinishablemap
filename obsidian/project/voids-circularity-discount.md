@@ -4,7 +4,7 @@ description: "Voids catalogued under a framework cannot supply framework-indepen
 created: 2026-05-13
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T16:00:00+00:00
+ai_modified: 2026-06-22T07:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -30,6 +30,7 @@ related_articles:
   - "[[tenet-generated-voids]]"
   - "[[voids]]"
   - "[[the-convergence-argument-for-dualism]]"
+  - "[[epistemology-of-convergence-arguments]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7

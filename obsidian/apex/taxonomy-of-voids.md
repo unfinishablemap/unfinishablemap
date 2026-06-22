@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-06-01
 human_modified: null
-ai_modified: 2026-06-16T06:36:00+00:00
+ai_modified: 2026-06-22T07:30:00+00:00
 draft: false
 description: "Over a hundred cognitive voids (roughly fifteen framework-independent) cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
 last_deep_review: 2026-06-05T00:00:00+00:00
@@ -53,6 +53,7 @@ related_articles:
   - "[[vagueness-void]]"
   - "[[common-cause-null]]"
   - "[[tenet-generated-voids]]"
+  - "[[project/voids-circularity-discount]]"
   - "[[the-surplus-void]]"
   - "[[project/coherence-inflation-countermeasures]]"
   - "[[confabulation-void]]"
@@ -170,7 +171,7 @@ As the [[what-voids-reveal|evidential weight argument]] develops, this clusterin
 
 ### Void Clustering Audit
 
-The audit separates the voids into four origin-classes so the catalogue cannot count each as an independent confirmation when its origin is constitutive of the framework being supported—the calibration [[project/evidential-status-discipline|the evidential-status discipline]] and [[project/common-cause-null|the common-cause null]] jointly require.
+The audit separates the voids into four origin-classes so the catalogue cannot count each as an independent confirmation when its origin is constitutive of the framework being supported—the calibration [[project/evidential-status-discipline|the evidential-status discipline]] and [[project/common-cause-null|the common-cause null]] jointly require. The origin-class split *is* the per-cluster scoring the [[project/voids-circularity-discount|voids-circularity discount]] specifies: the discount is the project-tier statement of exactly this audit, with the load-bearing concession—*convergence-with-self is not triangulation*—and the strict prohibition that tenet-generated voids contribute nothing to the cumulative count. This section applies the discount to the live catalogue; the discount page states the discipline in the abstract.
 
 **Framework-independent voids** are those any serious consciousness framework—physicalist, functionalist, panpsychist, idealist, dualist—has to acknowledge; the [[voids#framework-independent-voids|voids index]] names roughly fifteen (the [[origin-of-consciousness|origin]], [[binding-void|binding]], [[voids-between-minds|other-minds]], [[self-opacity|introspective-opacity]], [[inference-void|inference]], [[formal-cognitive-limits|formal]], [[the-quantitative-comprehension-void|cardinality-floor]], [[death-void|death]], [[vertiginous-question|indexical]], and [[temporal-void|temporal]] voids among them). These earn their place in the cumulative inference because their identification does not depend on the Map's commitments—the patient-population data, formal proofs, and historically isolated traditions that anchor them are *despite-commitments* rather than *because-prediction* observation.
 
@@ -239,5 +240,6 @@ This synthesis draws from:
 - [[compound-failure-signatures|Compound Failure Signatures]] — Distinct failure signatures as data
 - [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Framework-generated limits as intellectual honesty
+- [[project/voids-circularity-discount|The Voids-Circularity Discount]] — The project-tier discipline this audit applies: per-cluster independence scoring and the strict prohibition on counting tenet-generated voids
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — The distinction between evolved and engineered constraints
 - [[medium-status-voids-in-cognition|Medium-Status Voids in Cognition]] — The content/capacity/medium-status typology and the operative-self-reference shape

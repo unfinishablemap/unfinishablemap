@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on dualism from different 
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-06-02T19:23:10+00:00
+ai_modified: 2026-06-22T07:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[concession-convergence]]"
   - "[[common-cause-null]]"
   - "[[project/evidential-status-discipline]]"
+  - "[[project/voids-circularity-discount]]"
   - "[[topics/animal-consciousness]]"
   - "[[apex/taxonomy-of-voids]]"
 ai_contribution: 100
@@ -147,6 +148,8 @@ The argument above runs three sources of support in parallel: the *epistemology 
 
 The distinction matters because the catalogue's [[project/evidential-status-discipline#coherence-vs-evidential-status|coherence-vs-evidential-status]] discipline forbids exactly this count-inflation. A framework that selects dualism from the irreducibility-respecting alternatives on its own commitments is not supplying a third independent confirmation; it articulates which conclusion the framework reaches given the convergence's output. Counting it as a converging line would convert framework-internal coherence into evidential-status elevation — the failure mode the discipline names at the cluster level. The honest catalogue language: *convergence earns irreducibility; bidirectional interaction selects dualism among the irreducibility-respecting alternatives; the two earnings do not compound into a single triple-supported case for substance dualism*.
 
+The same self-applied discipline governs the Map's *other* convergence argument — the abductive case from the [[apex/taxonomy-of-voids|voids catalogue]]. There the circularity is sharper: a phenomenon becomes a *void* partly because the Map's commitments demand explanation in registers materialism declines to supply, so the voids' convergence with the framework that defines them is partly built into the counting. The [[project/voids-circularity-discount|voids-circularity discount]] is the public penalty applied there — conceding *convergence-with-self is not triangulation* and ruling that tenet-generated voids contribute *nothing* to the cumulative count, since an entry the framework was guaranteed to produce cannot also confirm it. The present article's philosophical-argument convergence is in a better position — its component arguments were not minted by the dualist tenets and several are third-personally anchored — but the discount is the same discipline, and the voids case is the cautionary limit it must not slide toward.
+
 The [[topics/animal-consciousness#why-the-inference-is-stronger-for-animals-than-for-ai|animal-consciousness treatment]] is the catalogue's worked exhibit of the same discipline at the species-attribution layer: markers, convergent evolution, and the no-substrate-barrier held as two independent routes plus a framework selection, not three confirmations.
 
 ## What Convergence Does Not Prove
@@ -186,6 +189,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[phenomenal-consciousness]] — The target explanandum that resists reduction
 - [[epistemology-of-convergence-arguments]] — The formal epistemology of convergence as philosophical method
 - [[common-cause-null]] — The Map's discipline for distinguishing independent triangulation from shared upstream architecture across convergence claims
+- [[project/voids-circularity-discount]] — The parallel self-applied discount on the voids-convergence cousin argument: convergence-with-self is not triangulation, and tenet-generated voids count for nothing
 - [[reductionism|Reductionism and Consciousness]] — Why consciousness differs structurally from past reductive successes
 - [[concession-convergence]] — The complementary pattern: physicalist theories retreating toward dualist positions
 - [[concession-convergence-philosophy-of-mathematics]] — The concession pattern extended to philosophy of mathematics
