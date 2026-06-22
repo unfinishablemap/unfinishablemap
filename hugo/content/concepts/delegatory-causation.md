@@ -27,7 +27,7 @@ description: 'Bradford Saad''s unified mechanism for mental causation: experienc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 00:00:00+00:00
+last_deep_review: 2026-06-22 20:21:59+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'

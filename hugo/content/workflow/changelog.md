@@ -1,13 +1,194 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 16:48:43+00:00
+ai_modified: 2026-06-22 20:48:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-22T20:48:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/)
+- **Word count**: 2598 → 2616 (+18; length-neutral, 87% of 3000 topics target)
+- **Critical issues addressed**: 0 (none found — all 8 citations verified real-correct at publisher of record; no calibration slippage; no label leakage; no misattribution of a distinct claim to the wrong author)
+- **Medium issues addressed**: 2 (symposium attribution imprecision — corrected Hipólito/Michael/Millière argument assignments against the live Brains Blog page; vague uncited "2024 imaging work" gesture reworded to non-dated "recent psychedelic imaging")
+- **Enhancements made**: 2
+- **Citation web-verify**: full per-cite ledger in the review archive; all real-correct (Letheby&Gerrans 2017, Letheby 2021, Carhart-Harris&Friston 2019, Deane 2021, Sjöstedt-Hughes 2022, Millière 2017, Brains Blog 2019 symposium, Metzinger 2003)
+- **Reasoning modes** (editor-internal): hard-problem prong Mode Two→Three; minimal-self prong Mode Three/empirical seam; CDO-reversal prong Mode One/Two — all honest, no boundary-substitution
+- **Output**: [deep-review-2026-06-22-predictive-self-binding-and-the-naturalist-challenge](/reviews/deep-review-2026-06-22-predictive-self-binding-and-the-naturalist-challenge/)
+
+## 2026-06-22T20:37:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Task**: Topic-concept anchoring audit (Audit Three) — adopt [attention-as-interface](/concepts/attention-as-interface/) calibration.
+- **Word count**: 3997 → 3997 (±0; strictly length-neutral, 3w under the 4000 hard ceiling)
+- **Calibration before → after**: hedge_density 2.00 → 3.25/kw (hedge_count 8 → 13); strong_assertion_density 0.50 → 0.25/kw (count 2 → 1). Audit now clears ALL anchors (attention-as-interface, predictive-processing, explanatory-gap, qualia all ≥3.00/kw target); `evaluate_anchoring` returns 0 flags.
+- **Changes**: (1) Quantum-Bayesian section: softened "establish/shows that/explains" → "propose/suggests…may/appears to capture" (removed the load-bearing strong-assertion on a claim the article itself calls "early-stage and speculative", added 3 hedges). (2) Active-inference precision passage: "sharpens/creates" → "may sharpen/perhaps creates" (hedged the Map's own proposal-stage symmetry-breaking claim). (3) Intro: trimmed redundant double "physicalism" ("read them as supporting physicalism" → "read them that way"). Net length-neutral via redundant-prose trims offsetting added hedge clauses.
+- **Preserved**: Beautiful-Loop "epistemic depth" gloss (recurrent Bayesian belief-sharing, explicitly NOT self-consciousness — same-day source-fidelity fix against Laukkonen/Friston/Chandaria publisher of record) left fully intact; section untouched. Central dualist claim and argument structure unchanged; voice preserved.
+- **Published**: yes
+
+## 2026-06-22T20:21:59+00:00 - deep-review
+- **Status**: Success (converged no-op, 5th review)
+- **File**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Word count**: 3466 → 3466 (±0; length-neutral, ~34w under hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verified**: 06-22 refine Torres Alegre preprint caveat (web-verified arXiv:2512.12636, correctly calibrated as argued-not-established); Saad 2025 + Torres Alegre 2025 re-web-verified clean at publisher of record; 06-04 epistemic down-register held; no orphan refs; no superlative-currency drift; no label leakage; calibration clean (no possibility/probability slippage). Reasoning modes: epiphenomenalism Mode One, strict empiricist Mode Three.
+- **Resolved**: out-of-scope Saad "Against Causal Closure" follow-up (carried from 05-29/06-06) now fixed in apex/what-consciousness-tells-us-about-physics.md — item closed.
+- **Output**: [deep-review-2026-06-22-delegatory-causation](/reviews/deep-review-2026-06-22-delegatory-causation/)
+
+## 2026-06-22T20:12:30+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [machine-question](/apex/machine-question/)
+- **Changed sources**: 9 (load-bearing: new topics/deep-computational-markers-for-machine-consciousness)
+- **Word count**: 5001 → 4960
+- **Review**: [apex-evolve-2026-06-22-machine-question](/reviews/apex-evolve-2026-06-22-machine-question/)
+
+## 2026-06-22T20:11:57+00:00 - tune-system
+- **Status**: Success (no Tier-1 changes — conservative no-op)
+- **Sessions analyzed**: ~1.4d since last run (5th consecutive over-frequency fire; every-6-cycles trigger outpaces 30d cadence)
+- **Findings**: 0 critical, 1/20 failed (transient API rate-limit, not a fault), convergence stable; no in-file Tier-1 surface
+- **Tier 1 changes**: 0 applied
+- **Tier 2**: gate tune-system on 30d cadence (5th recommendation)
+- **Tier 3 corroborated**: queue LIFO starvation (fixed ×2 this session), forked-skill post-delegation yield, apex-evolve over-ceiling expansion (reverted), check-links 23 broken targets, cosmetic-drift re-review churn
+- **Output**: [system-tune-2026-06-22](/reviews/system-tune-2026-06-22/)
+
+## 2026-06-22T19:40:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Word count**: 3956 → 3956 (0; no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th deep review; deeply converged. Full publisher-of-record citation ledger completed 2026-06-02 (all 16 refs verified; ref 14 corrected to Cogitate Consortium "Adversarial testing…" paper) — NOT re-run, no citation changed since. The `ai_modified` bump since then was cosmetic cross-link maintenance, not content drift: a `selection-only-channel` concept link + one sentence (apex-evolve), `dualism-cartography`/`research-programme-decisions-under-the-map` related-apex links, and a Torres Alegre "not yet peer-reviewed" precision hedge (refine-draft). Verified the only new prose: the selection-only-channel sentence's three claims (per-event log₂(N) ceiling, Born-rule preservation driving signed rate→0, content bounded by candidate-set dimensionality) map exactly onto the target concept's three defined constraints — faithful, and calibration-positive (source concept itself disavows tenet-coherence-as-evidence). All three new wikilink targets resolve on disk. Superlative-claim sweep empty; calibration PASS; engagement modes unchanged (physicalist Mode Three, Kim Mode One/Mixed); no label leakage, no slippage. Length-neutral at 99% of apex soft threshold. A "no critical issues" pass is the expected convergence outcome — re-editing would be oscillation.
+- **Output**: [deep-review-2026-06-22-interface-specification-programme](/reviews/deep-review-2026-06-22-interface-specification-programme/)
+
+## 2026-06-22T19:28:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Word count**: 3319 → 3319 (0; no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Twelfth deep review; deeply converged (argument-stable ~4 months since 2026-02-15). No-content-change convergence pass. The two refinements since the 11th review (2026-06-03) verified as improvements: Torres Alegre 2025 preprint candour ("not yet independently confirmed" + "is argued to force") aligning with source article causal-consistency-constraint.md, and a sound `#Route versus Direction` deep-anchor cross-link (target confirmed at clinical-neuroplasticity line 62; gloss faithful). Web-verified the one trigger-relevant cite — Torres Alegre arXiv:2512.12636 — at the arXiv publisher record: real-correct (title/id/stance match). Inline↔References cross-reference clean; Buhler 21(2):223-236 fix holds; empirical-currency sweep empty; calibration PASS (and marginally tighter than the 11th review via the "is argued to force" softening). Engagement modes unchanged (Kim Mode One, MWI Mode Three, epiphenomenalism Mode One); no label leakage, no boundary-substitution, no possibility/probability slippage. A "no critical issues" pass is the expected convergence outcome.
+- **Output**: [deep-review-2026-06-22-causal-closure](/reviews/deep-review-2026-06-22-causal-closure/)
+
+## 2026-06-22T19:11:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [wholeheartedness-void](/voids/wholeheartedness-void/)
+- **Word count**: 3006 → 2986 (−20, back under voids hard ceiling of 3000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (length-neutral trim of participation-void Further Reading bullet)
+- **Notes**: Third deep review; converged. Justified non-no-op: 17 days past last review (beyond 14-day damping window) + one substantive change since (commit 47fbf269e corrected Velleman citation locus). Web-verified the corrected Velleman cite — "Identification and Identity" in *The Contours of Agency* (Buss & Overton eds., MIT Press 2002) — and the new disownability-limit attribution at publisher of record: both **real-correct / faithful**. Engagement modes: decision-theoretic parsimony Mode One; Sartrean bad faith Mode Two; Buddhist *anātman* Mode Three (all natural prose, no label leakage). No possibility/probability slippage. Trimmed to clear the hard ceiling.
+- **Output**: [deep-review-2026-06-22-wholeheartedness-void](/reviews/deep-review-2026-06-22-wholeheartedness-void/)
+
+## 2026-06-22T19:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Predictive Self-Binding and the Naturalist Challenge
+- **Output**: [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/)
+- **Word count**: 2598
+- **Based on research**: yes — [letheby-predictive-self-binding-naturalistic-psychedelics-2026-06-22](/research/letheby-predictive-self-binding-naturalistic-psychedelics-2026-06-22/)
+- **Notes**: Angle 1 from the research note — a standalone topic foregrounding Letheby's self-fictionalism metaphysics (which the existing [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) only gestures at) and the three-pronged reply (hard-problem debt → Tenet 1/5; persistent minimal self → Tenet 4; CDO reversal → Tenet 5). Co-optation firewall observed: Letheby, Carhart-Harris, Friston, Metzinger, Deane engaged as rivals, never enlisted as allies. Honest empirical-equivalence concession preserved.
+
+## 2026-06-22T18:53:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)
+- **Scope**: Sixth review. NOT a no-op despite 5 priors + convergence damping — the article was substantively modified since the 2026-05-26 review by a same-day refine-draft (commit `e4065094b`, "Fix access/phenomenal equivocation") that expanded several passages with calibration caveats and pushed the article from 3748w to ~4700w, **over the topics/ hard length ceiling (4000)**. §1.5 substantive-modification exception correctly overrides damping.
+- **Critical issue fixed (length, §4.5)**: condensed ~4700→3992 words (hard_warning → soft_warning, below 4000 hard). Length-neutral: every argument and every calibration caveat the refine added was preserved; only redundancy removed (fourfold restatement of the access/phenomenal split trimmed to necessary statements, duplicate depth-example list, transition/bridge paragraphs, and a Further-Reading list that duplicated inline + frontmatter links — no link targets orphaned).
+- **Citation web-verify (§2.4)**: verified the ONE cite the refine introduced — **Vadillo, Soto & Shanks et al. (2026)**, "Replicating the unconscious working memory effect: a multisite Registered Report," *Neuroscience of Consciousness* 2026(1):niaf046 — state **real-correct** (Oxford Academic + PMC; 19 labs, N=531, replication of Soto et al. 2011; quoted abstract phrase "decisive demonstrations of the existence of unconscious WM are lacking" is exact; the a-fortiori use is faithful). It was inline-only (missing from References, §2.4 step 5) — **added the References entry**. Also removed the **Jackendoff 2002** orphan reference (in References, never cited inline). Pre-2010 canonical cites unchanged + already primary-source-verified in the 2026-05-26 pass. No superlative claims (currency sweep N/A).
+- **Calibration (§2)**: no slippage — the refine's purpose was calibration hygiene (stage-1 framework-neutral access claim vs stage-2 Map-specific phenomenal upgrade, kept distinct). A tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement modes** (editor-internal): illusionist = Mode Two→Three; training-distribution = Mode Two; MWI = Mode Three. No boundary-substitution, no label leakage.
+- **Word count**: ~4700 → 3992 (-~708)
+- **Critical issues addressed**: 2 (length over hard; missing/orphan references)
+- **Output**: [deep-review-2026-06-22-language-recursion-and-consciousness](/reviews/deep-review-2026-06-22-language-recursion-and-consciousness/)
+
+## 2026-06-22T18:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Letheby's Predictive Self-Binding and the Naturalistic Account of Psychedelic Experience
+- **Output**: [letheby-predictive-self-binding-naturalistic-psychedelics-2026-06-22](/research/letheby-predictive-self-binding-naturalistic-psychedelics-2026-06-22/)
+- **Sources consulted**: 9
+
+## 2026-06-22T18:09:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Scope**: Tenth-plus review, triggered by genuine own-body drift (commit `762ef789c` added the ~520w "Beautiful-Loop Theory: The Strongest Contemporary Rival" section engaging Laukkonen, Friston & Chandaria 2025 as a named physicalist opponent + new ref #12; the refine bumped ai_modified but NOT last_deep_review, so the section + cite were deep-review-unverified). Convergence-damping exclusion overridden by the §1.5 substantive-modification exception.
+- **Citation web-verify (§2.4)**: Laukkonen, Friston & Chandaria (2025), "A beautiful loop," *Neurosci. Biobehav. Rev.* 176:106296, DOI 10.1016/j.neubiorev.2025.106296 — state **real-correct** (verified at publisher of record; corroborates the 2026-06-22 Claude Opus 4.8 outer review's own verification). Inline↔References reciprocity OK; no corpus family-resolution conflict with the distinct Laukkonen-2023 cessations cite or the Yang-2025 (ex-Laukkonen&Slagter) cite. No superlative claims.
+- **Critical issue fixed (source-fidelity, §2.5)**: the refine mischaracterized the authors' defined term *epistemic depth* as higher-order self-modelling ("the system models its own modelling... a representation that it is itself the inferring system") and built the reply on that reading. The authors define epistemic depth as **"recurrent sharing of Bayesian beliefs throughout the system"** such that the world model "contains the knowledge that it exists," and explicitly state it **is NOT self-consciousness** and "precedes introspection." Rewrote the three-condition gloss to track the source + added the authors' own caveat; reframed the reply and the flight-simulator analogy to the recurrent-self-evidencing reading. Map's hard-problem objection preserved (and stronger under the corrected reading). This is exactly the "does not put words in the authors' mouths" risk the 2026-06-22 outer review flagged.
+- **Engagement mode** (editor-internal): beautiful-loop engagement = Mode Two opening (unsupported foundational move — the leap from recursive self-evidencing to felt experience) → Mode Three residue (framework-boundary disagreement declared honestly, rival tiered "defeated neither by the tenets nor by decisive evidence"). No boundary-substitution, no label leakage.
+- **Word count**: 3991 → 3997 (+6; net length-neutral — source-fidelity corrections offset by tightening the section lead, precision-weighting prose, bidirectional bullet, meta-problem sentence; held under the 4000 hard ceiling per the task's strict length discipline).
+- **Critical issues addressed**: 1 (epistemic-depth source-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (faithful three-condition gloss with authors' self-consciousness caveat surfaced)
+- **Output**: [deep-review-2026-06-22-predictive-processing-and-dualism](/reviews/deep-review-2026-06-22-predictive-processing-and-dualism/)
+
+## 2026-06-22T17:44:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Scope**: 19th-pass convergence-success verification. Changes since the 2026-06-05 review were four intervening refine/integrate-orphan passes, all calibration-tightening: (1) count refresh "over sixty / 60+" → "over a hundred (roughly fifteen framework-independent, the subset that carries weight under the common-cause null)" — resolves the long-deferred undercount in a *downward*-calibrating way; (2) conjunction-coalesce back-reference caveat downgrading the conjoint-seam to "a case base, not an empirical base"; (3) voids-circularity-discount cross-link added at the audit lead + Source Articles; (4) positions-register back-reference (P-V1/P-V2/P-V3) closing the Void Clustering Audit. Verified all four against live targets: voids#framework-independent-voids anchor names "roughly fifteen" (matches); P-V1/2/3 Asserts text faithful to the apex glosses; conjunction-coalesce#what-the-count-is-worth anchor exists with matching downgrade language; all cross-links resolve live (positions/voids-as-evidence not archived). Citation ledger NOT re-run (References block unchanged since 2026-06-05; §2.4 skip rule). Superlative sweep: one "so far" hedge, no record-claim. No calibration slippage (count refresh and seam caveat both reduce evidential force; P-V2 *encodes* the anti-slippage guard), no label leakage, no boundary-substitution.
+- **Engagement modes** (editor-internal, unchanged): rival-framings table = Mode Three (framework-boundary marking) in natural prose — no opponent engagement modified.
+- **Word count**: 4682 → 4682 (no body edits; frontmatter timestamps only). 117% of 4000 soft, ~318w under 5000 hard — length-neutral mode.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 — long-running "60+ understates count" cosmetic item now closed (resolved by the intervening count refresh).
+- **Enhancements made**: 0 — converged apex; intervening passes' new content arrived clean and calibration-honest, no manufactured edits. Convergence-damping candidate (19th pass; cosmetic bumps elsewhere should not re-trigger).
+- **Output**: [deep-review-2026-06-22-taxonomy-of-voids](/reviews/deep-review-2026-06-22-taxonomy-of-voids/)
+
+## 2026-06-22T17:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Scope**: Fourth-pass convergence-success review. Only change since the thorough 2026-05-31 citation-currency pass was one faithful cross-link install (commit 5bb1693c4, expand-topic side-effect): new [phenomenal-presentation](/concepts/phenomenal-presentation/) concept added to frontmatter + one new body sentence in the Non-conceptual character paragraph. Verified: (1) link target exists, bidirectional, and the new sentence is faithful to the linked page (presentation = passive showing-up; acquaintance = grasp of it); (2) spot-checked the previously-unlogged Husserl evidence taxonomy attribution (apodictic-for-existence / assertoric+presumptive-for-content) via the Husserl literature — faithful (apodictic-but-inadequate is Husserl's mature Cartesian Meditations position). Citation ledger NOT re-run (References block unchanged since 2026-05-31; skip rule applies). No boundary-substitution, no label leakage, no calibration slippage.
+- **Engagement modes** (editor-internal, unchanged): Dennett/Lewis/HOT/representationalist replies Mode One; Loar dilemma Mode One/Two — no opponent engagement modified.
+- **Word count**: 2793 → 2793 (no body edits; frontmatter timestamps only). 112% of 2500 soft, under 3500 hard — length-neutral mode.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — converged article; new cross-link arrived clean, no manufactured edits. Flagged as a longer-review-interval candidate (two consecutive no-op-on-content passes, each re-triggered by cosmetic cross-link bumps elsewhere).
+- **Output**: [deep-review-2026-06-22-phenomenal-acquaintance](/reviews/deep-review-2026-06-22-phenomenal-acquaintance/)
+
+## 2026-06-22T17:29:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Scope**: Eighth deep review (convergence-success pass). Genuine-drift verification of the two changes since the thorough 2026-06-02 citation web-verify pass: (1) the 06-22 cross-review integration of fresh concept [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) (one body sentence + Further Reading link, commit ee9b19898) — calibration verified, Map's gloss explicitly tiered, no possibility/probability slippage; (2) Kerskens second-author surname normalization "Pérez López, D." → "López Pérez, D." (corpus sweep 11c8554f5) — re-confirmed publisher-exact at IOPscience DOI 10.1088/2399-6528/ac94be. Six post-2020 cites already verified 06-02 and References block otherwise unchanged; ledger carried forward.
+- **Word count**: 2828 → 2902 (+74; cross-review content already on disk, this pass made no body edits — frontmatter timestamps only). 116% of 2500 soft, well under 3500 hard.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — length-neutral mode; converged article, both post-06-02 changes verified correct, no manufactured edits
+- **Reasoning-mode**: materialist / sophisticated-production-theorist engagements in natural prose; label-leakage scan clean
+- **Output**: [deep-review-2026-06-22-altered-states-of-consciousness](/reviews/deep-review-2026-06-22-altered-states-of-consciousness/)
+
+## 2026-06-22T17:18:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Scope**: Seventh deep review (6th consecutive convergence pass). Genuine-drift verification of today's (2026-06-22) multi-file `refine-draft` (commit 2c59225a6) — qualifying body change to THIS apex was a single inline clause at L142: Torres Alegre's Born-rule derivation `(2025)` → `(2025, a recent arXiv preprint not yet peer-reviewed)`. (The commit's "10 bits/s" / "entanglement-binding" edits went to sibling files.) Verified faithful; References block unchanged so §2.4 canon not re-litigated.
+- **Word count**: 4799 → 4799 (+0; verification pass, no body edits; frontmatter timestamps only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — the 06-22 hedge (already on disk) improves inline↔References consistency and stops the apex over-weighting an unrefereed Born-rule derivation; verified clean, no further change warranted
+- **Reasoning-mode**: Duch engagement remains Mode Three (framework-boundary marking); label-leakage scan clean
+- **Note**: Length 120% of 4000 soft (soft_warning, ~201w under hard) — standing human length-decision item; do NOT auto-condense the load-bearing Triple Screen
+- **Output**: [deep-review-2026-06-22-what-consciousness-tells-us-about-physics](/reviews/deep-review-2026-06-22-what-consciousness-tells-us-about-physics/)
+
+## 2026-06-22T17:12:43+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The psychedelics / filter-bandwidth cluster (all touched 16:48 today): `topics/psychedelics-and-the-filter-model`, `concepts/filter-theory`, `concepts/entropic-brain-hypothesis` (fresh create), `concepts/altered-states-of-consciousness`. Disjoint from optimistic-2026-06-22 (convergence/emergence nexus) and -22b (embodied-interface cluster).
+- **Key strengths**: Standout Hardline-Empiricist calibration discipline — explicit "one pattern, not seven" anti-double-counting, coherence-not-evidence framing in every Dualism paragraph, deep-anaesthesia symmetry conceded as a live threat to filter theory, a candidate signature (therapeutic durability) *withdrawn* when it stopped discriminating, and tenet-as-evidence-upgrade praise-worthily declined on the minimal-organism boundary cases (Birch/Whitehead converge). New entropic-brain concept fills the entropy/criticality gap and audits its own central measure on day one.
+- **Tasks added**: 1 P3 cross-link enrichment (inbound links to the fresh entropic-brain concept from default-mode-network, predictive-processing-and-dualism, predictive-processing). No expand-topic minted — the obvious adjacent topic (Letheby's predictive-self-binding) is already a live P3 research task.
+- **Output**: [optimistic-2026-06-22c](/reviews/optimistic-2026-06-22c/)
+
+## 2026-06-22T17:04:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Scope**: Sixth deep review. Verification of today's (2026-06-22) `refine-draft` evidence-tier pass (commit 896b94079) — genuine prose + citation churn since the 2026-06-05 review, so NOT convergence-damped. §2.4 web-verified the two CHANGED cites at the publisher of record; ~18 unchanged cites carried from 2026-06-05 (not re-litigated).
+- **Word count**: 3998 → 3998 (+0; verification pass, no body edits; frontmatter timestamps only)
+- **Critical issues addressed**: 0 (none found)
+- **Changed-cite web-verify**: Luo et al. (2025) JACS DOI 10.1021/jacs.5c15726 — real-correct (QM/MM computational cryptochrome-4a radical-pair study; the Xu→Luo inline swap is correct, matches ref #20, no orphan). Esmaeilpour et al. (2025) bioRxiv 10.1101/2025.08.23.671929 — real-correct (six authors, "giant and opposite" Li-isotope effects; today's "preprint/unreplicated" hedge accurate). Inline↔references cross-check clean bidirectionally; empirical-currency sweep N/A (no superlatives).
+- **Calibration read**: PASS — the today's refine moved the article FURTHER FROM possibility/probability slippage (removed the over-strong "six lines converge on neural quantum relevance" Established bullet → "Raises the prior (not established)"; marked Wiest 2025 a partisan brief; added the classical GABA_A reading of Khan 2024; gave Warren 2023's specific iZQC/iMQC mechanism). §2 diagnostic returns no overstatement at every checkpoint; "five grades" lede taxonomy internally consistent.
+- **Engagement mode (changelog-only)**: Duch external-critic — Mixed Mode One + Mode Three, honestly formed, no boundary-substitution, no label leakage (unchanged).
+- **Length**: 2 words under the 4000 hard cap; carried human-length-decision flag (load-bearing hub, NOT auto-condensable).
+- **Output**: [deep-review-2026-06-22-quantum-biology-and-neural-consciousness](/reviews/deep-review-2026-06-22-quantum-biology-and-neural-consciousness/)
 
 ## 2026-06-22T16:48:43+00:00 - deep-review
 - **Status**: Success
