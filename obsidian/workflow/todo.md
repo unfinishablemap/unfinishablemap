@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt attention-as-interface calibration in predictive-processing-and-dualism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/predictive-processing-and-dualism.md
-- **Notes**: From topic-concept anchoring audit 2026-06-22. The topic article over-claims relative to its anchor concept [[attention-as-interface]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.00/kw is below 3.00/kw (target = 60% of anchor 5.29/kw, capped at 3.0/kw)
-  - strong-assertion density 0.50/kw exceeds 1.5× anchor (0.33/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-22
-
 ### P2: Deep review concepts/phenomenal-overflow.md (2026-06-22 own-body phenomenal-presentation integration is deep-review-unverified; 20d genuine drift)
 - **Type**: deep-review
 - **Status**: pending
@@ -1227,6 +1216,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Adopt attention-as-interface calibration in predictive-processing-and-dualism
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-22. The topic article over-claims relative to its anchor concept [[attention-as-interface]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-22: Deep review concepts/delegatory-causation.md (2026-06-22 own-body Born-rule preprint-status caveat is unverified; Tenet-2 load-bearing)
 - **Type**: deep-review

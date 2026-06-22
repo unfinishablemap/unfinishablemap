@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T20:12:30+00:00
+ai_modified: 2026-06-22T20:37:26+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T20:37:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Task**: Topic-concept anchoring audit (Audit Three) — adopt [[attention-as-interface]] calibration.
+- **Word count**: 3997 → 3997 (±0; strictly length-neutral, 3w under the 4000 hard ceiling)
+- **Calibration before → after**: hedge_density 2.00 → 3.25/kw (hedge_count 8 → 13); strong_assertion_density 0.50 → 0.25/kw (count 2 → 1). Audit now clears ALL anchors (attention-as-interface, predictive-processing, explanatory-gap, qualia all ≥3.00/kw target); `evaluate_anchoring` returns 0 flags.
+- **Changes**: (1) Quantum-Bayesian section: softened "establish/shows that/explains" → "propose/suggests…may/appears to capture" (removed the load-bearing strong-assertion on a claim the article itself calls "early-stage and speculative", added 3 hedges). (2) Active-inference precision passage: "sharpens/creates" → "may sharpen/perhaps creates" (hedged the Map's own proposal-stage symmetry-breaking claim). (3) Intro: trimmed redundant double "physicalism" ("read them as supporting physicalism" → "read them that way"). Net length-neutral via redundant-prose trims offsetting added hedge clauses.
+- **Preserved**: Beautiful-Loop "epistemic depth" gloss (recurrent Bayesian belief-sharing, explicitly NOT self-consciousness — same-day source-fidelity fix against Laukkonen/Friston/Chandaria publisher of record) left fully intact; section untouched. Central dualist claim and argument structure unchanged; voice preserved.
+- **Published**: yes
 
 ## 2026-06-22T20:21:59+00:00 - deep-review
 - **Status**: Success (converged no-op, 5th review)
