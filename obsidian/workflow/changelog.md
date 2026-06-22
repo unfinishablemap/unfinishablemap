@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T18:09:26+00:00
+ai_modified: 2026-06-22T18:53:48+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T18:53:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/language-recursion-and-consciousness]]
+- **Scope**: Sixth review. NOT a no-op despite 5 priors + convergence damping — the article was substantively modified since the 2026-05-26 review by a same-day refine-draft (commit `e4065094b`, "Fix access/phenomenal equivocation") that expanded several passages with calibration caveats and pushed the article from 3748w to ~4700w, **over the topics/ hard length ceiling (4000)**. §1.5 substantive-modification exception correctly overrides damping.
+- **Critical issue fixed (length, §4.5)**: condensed ~4700→3992 words (hard_warning → soft_warning, below 4000 hard). Length-neutral: every argument and every calibration caveat the refine added was preserved; only redundancy removed (fourfold restatement of the access/phenomenal split trimmed to necessary statements, duplicate depth-example list, transition/bridge paragraphs, and a Further-Reading list that duplicated inline + frontmatter links — no link targets orphaned).
+- **Citation web-verify (§2.4)**: verified the ONE cite the refine introduced — **Vadillo, Soto & Shanks et al. (2026)**, "Replicating the unconscious working memory effect: a multisite Registered Report," *Neuroscience of Consciousness* 2026(1):niaf046 — state **real-correct** (Oxford Academic + PMC; 19 labs, N=531, replication of Soto et al. 2011; quoted abstract phrase "decisive demonstrations of the existence of unconscious WM are lacking" is exact; the a-fortiori use is faithful). It was inline-only (missing from References, §2.4 step 5) — **added the References entry**. Also removed the **Jackendoff 2002** orphan reference (in References, never cited inline). Pre-2010 canonical cites unchanged + already primary-source-verified in the 2026-05-26 pass. No superlative claims (currency sweep N/A).
+- **Calibration (§2)**: no slippage — the refine's purpose was calibration hygiene (stage-1 framework-neutral access claim vs stage-2 Map-specific phenomenal upgrade, kept distinct). A tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement modes** (editor-internal): illusionist = Mode Two→Three; training-distribution = Mode Two; MWI = Mode Three. No boundary-substitution, no label leakage.
+- **Word count**: ~4700 → 3992 (-~708)
+- **Critical issues addressed**: 2 (length over hard; missing/orphan references)
+- **Output**: [[reviews/deep-review-2026-06-22-language-recursion-and-consciousness]]
 
 ## 2026-06-22T18:40:00+00:00 - research-topic
 - **Status**: Success
