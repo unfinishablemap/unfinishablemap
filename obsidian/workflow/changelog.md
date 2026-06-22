@@ -5,6 +5,14 @@ ai_modified: 2026-06-22T16:28:16+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T16:32:41+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Entropic Brain Hypothesis
+- **Output**: [[concepts/entropic-brain-hypothesis]]
+- **Word count**: 1533
+- **Based on research**: yes, [[research/entropic-brain-hypothesis-2026-06-22]]
+- **Notes**: Concept page foregrounding the entropy/criticality dimension (the gap not covered by [[psychedelics-and-the-filter-model]]). Thesis: EBH supplies a quantitative dynamical signature of conscious richness but is metaphysically modular — indexes *that* richness varies with entropy/criticality without explaining *why* the activity is felt. Map re-describes the entropy–richness correlation as filter-bandwidth widening (empirically equivalent on altered-state data alone, marked per [[evidential-status-discipline]]). Engages Carhart-Harris/Friston as rivals per the co-optation firewall (psychedelic-neuroscience roster); REBUS/Letheby cross-linked not duplicated. Foregrounds the Papo measure-critique + Lempel–Ziv robustness concern. All 8 citations web-verified (2014 Front. Hum. Neurosci. 8:20; REBUS Pharmacol. Rev. 71(3):316–344; Toker PNAS 119(7):e2024455119; ALBUS Neurosci. Conscious. 2025(1):niae038). Length 1533w (61% of 2500 target). Not a listed apex source.
+
 ## 2026-06-22T16:28:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/language-recursion-and-consciousness]]

@@ -64,7 +64,7 @@ The hypothesis survives the recent imaging work in a more careful form than its 
 
 ## REBUS and Filter Theory
 
-The REBUS model (Relaxed Beliefs Under Psychedelics; Carhart-Harris & Friston, 2019) is a physicalist programme whose authors do not endorse the filter reading; its dynamics are nonetheless compatible with filter theory. REBUS proposes that the brain operates as a hierarchical predictive system: high-level priors constrain the interpretation of lower-level sensory data, and psychedelics relax these priors, allowing bottom-up information greater influence.
+The REBUS model (Relaxed Beliefs Under Psychedelics; Carhart-Harris & Friston, 2019) is the predictive-processing successor to the [[entropic-brain-hypothesis|entropic brain hypothesis]]—a physicalist programme whose authors do not endorse the filter reading; its dynamics are nonetheless compatible with filter theory. REBUS proposes that the brain operates as a hierarchical predictive system: high-level priors constrain the interpretation of lower-level sensory data, and psychedelics relax these priors, allowing bottom-up information greater influence.
 
 From a filter theory perspective, REBUS describes the *mechanism* of filtering without addressing the deeper question of what is being filtered. The predictive hierarchy acts as exactly the kind of constraint system a filter theory would expect. The Map's broader engagement with predictive processing is developed in [[predictive-processing-and-dualism|predictive processing and dualism]], which argues that the framework's formalism is metaphysically neutral and supplies exactly the neural architecture interactionist dualism needs.
 
