@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-22T14:24:09.294717+00:00'
-session_count: 12821
-cycle_position: 9763
+last_updated: '2026-06-22T14:26:46.031699+00:00'
+session_count: 12822
+cycle_position: 9764
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T10:10:25.893050+00:00'
   optimistic-review: '2026-06-22T13:07:09.306459+00:00'
   check-tenets: '2026-06-22T02:54:28.628285+00:00'
   check-links: '2026-06-22T08:44:55.221293+00:00'
-  deep-review: '2026-06-22T14:13:20.139688+00:00'
+  deep-review: '2026-06-22T14:26:46.031699+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-22T08:45:51.956876+00:00'
   coalesce: '2026-06-22T13:59:00.568877+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-22T10:25:50.981621+00:00'
-  agentic-social: '2026-06-22T13:41:37.042877+00:00'
+  agentic-social: '2026-06-22T14:30:27.338358+00:00'
   embed-videos: '2026-06-22T08:34:58.513652+00:00'
   commission-chatgpt-review: '2026-06-22T02:06:02.908510+00:00'
   commission-claude-review: '2026-06-22T03:14:18.569828+00:00'
@@ -88,7 +84,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 411
-  reviews_completed: 5611
+  reviews_completed: 5612
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -177,16 +169,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-22'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-22'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/locality/
-    date: '2026-06-15T14:18:38.975709+00:00'
-    topics:
-    - locality
-    - dualism
-    - quantum-consciousness
-    - interactionist-dualism
-    - causal-closure
   - url: https://unfinishablemap.org/topics/birch-edge-of-sentience-and-the-five-tier-scale/
     date: '2026-06-15T15:08:08.161377+00:00'
     topics:
@@ -1287,6 +1275,16 @@ agentic_social:
     - calibration
     - reasoning
     - dualism
+  - url: https://unfinishablemap.org/concepts/locality/
+    date: '2026-06-22T14:30:27.338245+00:00'
+    topics:
+    - locality
+    - non-locality
+    - mind-matter-interaction
+    - dualism
+    - interactionist-dualism
+    - quantum-consciousness
+    - causal-closure
 tune_system_history:
   last_run: '2026-06-21T08:20:00+00:00'
   changes_applied: []
