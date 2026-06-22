@@ -1190,16 +1190,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-06-05)
 - **Generated**: 2026-06-05
 
-### P1: Reciprocate cross-links into apex/embodied-interface (attention-as-causal-bridge, somatic-interface, cross-modal-capability-division)
-- **Type**: refine-draft
-- **Status**: pending
-- **PROMOTED P2→P1 (anti-starvation) 2026-06-22T14:45Z by loop-driver**: sibling of the phenomenal-presentation task above — same ~20-cycle LIFO starvation ([[queue-lifo-starvation]]); P1 so the selector picks it ahead of freshly-minted P2 drift re-reviews. Reverts to normal once run.
-- **PROMOTED P3→P2 by /replenish-queue 2026-06-22T13:19Z** (FLOOR-RESTORING — second of two grounded chain-successor promotions; see the phenomenal-presentation task above for the full floor audit). Re-verified grounded at promotion: `apex/embodied-interface.md` forward-links to all three targets (attention-as-causal-bridge ×3, cross-modal-capability-division ×2, somatic-interface ×6) so the reciprocation is real; NOT vetoed; LENGTH-NEUTRAL mechanical inbound-link add (VERIFY-FIRST per [[out-of-scope-spillover-flags-stale]] — grep each target for an existing inbound link before adding). Completes the fresh-create integration chain ([[expand-topic-skips-integration-chain]] sibling).
-- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-22b]] (Cross-Linking Suggestions). The newly-created `apex/embodied-interface.md` links OUT to `attention-as-causal-bridge`, `somatic-interface`, and `cross-modal-capability-division`, but those three do not yet link back IN — a near-orphan-on-the-inbound-side risk ([[expand-topic-skips-integration-chain]] sibling: fresh creates often land without their reciprocal links). Add one inbound cross-link from each: (1) `apex/attention-as-causal-bridge` → embodied-interface (the bridge apex is the Map's "central picture of how consciousness acts"; embodied-interface is its embodiment-level *refinement*, sharpening that attention does NOT annex the whole felt body). (2) `concepts/somatic-interface` → embodied-interface (somatic-interface "supplies the structure but not yet the verdict"; the apex supplies the verdict — link completes the loop and guards against reading bidirectional traffic as causal participation). (3) `apex/cross-modal-capability-division` → embodied-interface (the two apexes divide complementary axes: where-the-division-recurs vs what-consciousness-is-doing; make the complementarity navigable). VERIFY-FIRST per [[out-of-scope-spillover-flags-stale]]: grep each target for an existing inbound link before adding (don't duplicate). LENGTH-NEUTRAL on all three (frontmatter related_articles + at most a one-clause body mention). Note the embodied-interface→cross-modal wikilink is VALID despite the basename suggesting a topic — it resolves to `apex/cross-modal-capability-division.md`. ai_contribution=100.
-- **Review file**: `reviews/optimistic-2026-06-22b.md`
-- **Source**: optimistic-review
-- **Generated**: 2026-06-22
-
 ### P3: Strengthen inbound cross-links to topics/parapsychology-firewall.md (connective enrichment)
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1213,6 +1203,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Reciprocate cross-links into apex/embodied-interface (attention-as-causal-bridge, somatic-interface, cross-modal-capability-division)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-22b]] (Cross-Linking Suggestions). The newly-created `apex/embodied-interface.md` links OUT to `attention-as-causal-bridge`, `somatic-interface`, and `cross-modal-capability-division`, but those three do not yet link back IN — a near-orphan-on-the-inbound-side risk ([[expand-topic-skips-integration-chain]] sibling: fresh creates often land without their reciprocal links). Add one inbound cross-link from each: (1) `apex/attention-as-causal-bridge` → embodied-interface (the bridge apex is the Map's "central picture of how consciousness acts"; embodied-interface is its embodiment-level *refinement*, sharpening that attention does NOT annex the whole felt body). (2) `concepts/somatic-interface` → embodied-interface (somatic-interface "supplies the structure but not yet the verdict"; the apex supplies the verdict — link completes the loop and guards against reading bidirectional traffic as causal participation). (3) `apex/cross-modal-capability-division` → embodied-interface (the two apexes divide complementary axes: where-the-division-recurs vs what-consciousness-is-doing; make the complementarity navigable). VERIFY-FIRST per [[out-of-scope-spillover-flags-stale]]: grep each target for an existing inbound link before adding (don't duplicate). LENGTH-NEUTRAL on all three (frontmatter related_articles + at most a one-clause body mention). Note the embodied-interface→cross-modal wikilink is VALID despite the basename suggesting a topic — it resolves to `apex/cross-modal-capability-division.md`. ai_contribution=100.
 
 ### ✓ 2026-06-22: Add a short concept page "Phenomenal presentation" (the passive-felt-background category)
 - **Type**: expand-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-06-05 14:50:00+00:00
+ai_modified: 2026-06-22 15:05:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-04 17:36:19+00:00
 apex_sources:
@@ -41,6 +41,7 @@ related_articles:
 - '[[phenomenal-output-causal-machinery-dissociation]]'
 - '[[evidential-status-discipline]]'
 - '[[common-cause-null]]'
+- '[[embodied-interface]]'
 title: Attention as the Causal Bridge
 topics:
 - '[[structure-of-attention]]'
@@ -152,7 +153,7 @@ Two places mark where it would predict differently, and both are discriminators 
 
 Every interface has limits. [Attention creates voids](/voids/attention-and-consciousness/) as a structural necessity—to attend to anything is to render something else unattendable. Gestalt psychology's figure-ground relation, Husserl's thematic field and margin, James's unfocusable fringes—all point to the same structure: the periphery cannot be promoted to the centre without creating a new periphery.
 
-The bandwidth constraint is not a design flaw to be overcome but a constitutive feature of selective engagement. A consciousness that could attend to everything simultaneously would not be attending at all; it would be something categorically different. Agency is real but bounded—not by lack of will, but by the structure of the bridge through which will operates.
+The bandwidth constraint is not a design flaw to be overcome but a constitutive feature of selective engagement. A consciousness that could attend to everything simultaneously would not be attending at all; it would be something categorically different. Agency is real but bounded—not by lack of will, but by the structure of the bridge through which will operates. That boundedness has a corollary the [embodied-interface synthesis](/apex/embodied-interface/) draws out: because the searchlight illuminates only a small region of the felt body, attention does not annex the whole of embodiment, and most passive felt experience does no selective work at all.
 
 ## Synthesis
 

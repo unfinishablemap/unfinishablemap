@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T14:25:15+00:00
+ai_modified: 2026-06-22T15:05:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T15:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: cross-linking for [[apex/embodied-interface]] (inbound reciprocal links)
+- **Source**: optimistic review [[reviews/optimistic-2026-06-22b]] (Cross-Linking Suggestions)
+- **Changes**: Added inbound links to the newly-created `apex/embodied-interface` from its three out-link targets so the fresh apex is not an inbound-side near-orphan. (1) `apex/attention-as-causal-bridge`: related_articles entry + one clause in "The Void at Attention's Core" noting the embodied-interface synthesis sharpens that the searchlight does not annex the whole felt body. (2) `apex/cross-modal-capability-division`: related_articles entry + one clause in Synthesis marking the complementary axis (where-the-division-recurs vs what-consciousness-is-doing). (3) `concepts/somatic-interface`: ALREADY linked (frontmatter concepts + Related Articles body entry) — VERIFY-FIRST per [[out-of-scope-spillover-flags-stale]] prevented a duplicate; no change made.
+- **Length impact**: neutral (one clause each; attention-as-causal-bridge 4127w, cross-modal 4934w — both under hard ceiling)
+- **Verification**: sync resolved both new `[[embodied-interface]]` wikilinks (no broken-link strip); the basename `cross-modal-capability-division` correctly resolves to `apex/`. machine-question.md length warning is pre-existing, untouched.
+- **Published**: yes
 
 ## 2026-06-22T14:42:00+00:00 - expand-topic
 - **Status**: Success

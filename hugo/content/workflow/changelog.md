@@ -1,13 +1,116 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 09:00:29+00:00
+ai_modified: 2026-06-22 14:25:15+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-22T14:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal presentation (the passive-felt-background category)
+- **Output**: [phenomenal-presentation](/concepts/phenomenal-presentation/)
+- **Word count**: 1372 (ok; concepts target 1500-2000, well under soft max 2500 — short concept page by design)
+- **Based on research**: no (definitional concept page; carved from general knowledge + existing Map neighbours)
+- **Notes**: New concept distinguishes presentation (passive felt given) from acquaintance (epistemic relation), depth (internal structure), and overflow (breadth). Added inbound links from [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) and [phenomenal-overflow](/concepts/phenomenal-overflow/) so it is not an orphan. Self-cite to phenomenal-acquaintance (Oquatre-sept). Not a source for any apex article.
+
+## 2026-06-22T14:34:50+00:00 - deep-review
+- **Status**: Success (fifth review; converged — no body change, no-op confirmed)
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Word count**: 3248 → 3248 (+0; 108% of 3000 topics soft threshold — soft_warning, under 4000 hard; length-neutral, monitoring only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (body unchanged; only the ai_modified/last_deep_review bumps)
+- **Diff since last review (2026-06-06)**: a single refine-draft (2c59225a6) added one evidential-restraint qualifier marking Torres Alegre (2025) as "a recent arXiv preprint not yet peer-reviewed" inline (L72) and in References entry 9. Calibration improvement, not new substantive content — the convergence-damping no-op pattern (5 prior reviews; gap 16d, just outside the 14d hard-exclusion window).
+- **Citation web-verify (§2.4)**: Torres Alegre arXiv:2512.12636 web-verified real-correct (author "Enso O. Torres Alegre", title/ID exact; abstract matches the article's GPT-steering/identity-mapping framing). The new "not yet peer-reviewed" qualifier confirmed accurate. Remaining 12 refs unchanged since prior PoR verification, not re-triggered. No orphans. No superlative claims.
+- **Reasoning-mode**: QBism Mode Two→Three, Kim Mode One→Three, decoherence-physicalist Mode One — all unchanged; no label leakage; no boundary-substitution.
+- **Output**: [deep-review-2026-06-22-completeness-in-physics-under-dualism](/reviews/deep-review-2026-06-22-completeness-in-physics-under-dualism/)
+
+## 2026-06-22T14:25:15+00:00 - deep-review
+- **Status**: Success (third review; converged — no body change, no-op confirmed)
+- **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)
+- **Word count**: 1922 → 1922 (+0; 77% of 2500 concepts soft threshold — headroom)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (body unchanged since 2026-06-06 review)
+- **Diff since last review**: a single cosmetic [parapsychology-firewall](/topics/parapsychology-firewall/) cross-link added to Further Reading by a sibling refine pass, plus the ai_modified bump. Target verified to resolve. This is the convergence-damping no-op pattern (damped score 20, two prior reviews) — cosmetic cross-link re-qualified a converged article.
+- **Citation web-verify (§2.4)**: References block unchanged since the 2026-06-06 PoR verification — no fresh web-verify triggered. Carried-forward ledger: Saad 2025 (Phil Studies 182(3):939-967), Chalmers-McQueen 2022 (OUP chapter, arXiv:2105.02314 locator), Maier-Dechamps-Pflitsch 2018 (Frontiers Psych 9:379) — all real-correct.
+- **Reasoning-mode**: physicalist Mode Three (honest boundary-marking), objector Mixed, MWI-defender Mode Three — all unchanged; no label leakage; no boundary-substitution.
+- **Output**: [deep-review-2026-06-22-ensemble-level-epiphenomenalism](/reviews/deep-review-2026-06-22-ensemble-level-epiphenomenalism/)
+
+## 2026-06-22T14:11:31+00:00 - deep-review
+- **Status**: Success (seventh review; converged — one consistency fix applied)
+- **File**: [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
+- **Word count**: 2045 → 2081 (+36; 83% of 2500 concepts soft threshold — headroom)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (summary/body split on the 10-bits/s claim: a same-day refine-draft hedged the lead to "behavioural throughput, not phenomenal bandwidth" but left the body calling it "consciousness channel bandwidth" / "channel produces unified experience" — reconciled both body sentences to the throughput framing)
+- **Enhancements made**: 1 (the consistency reconciliation above)
+- **Citation web-verify (§2.4)**: Zheng & Meister (2025, Neuron 113(2):192-204) verified real-correct at PoR — confirms the 06-04 corpus-wide fix of the prior fabricated "Meister 2024 Caltech study". Demirel (2025, J Neurosci 45(20) e2237242025) verified real-correct. Geva-Sagiv 2023 and Lu 2025 (historical Stickgold/Wang corrections) intact. Full per-cite ledger in the review archive. Superlative-currency sweep: no hits.
+- **Reasoning-mode**: illusionism engagement Mode Mixed (Two/One/Three), unchanged; no label leakage; no boundary-substitution.
+- **Output**: [deep-review-2026-06-22-sleep-and-consciousness](/reviews/deep-review-2026-06-22-sleep-and-consciousness/)
+
+## 2026-06-22T14:01:38+00:00 - deep-review
+- **Status**: Success (seventh review; converged — no body change, convergence confirmed)
+- **File**: [types-of-consciousness](/concepts/types-of-consciousness/)
+- **Word count**: 1975 → 1975 (no body change; 79% of 2500 concepts soft threshold — headroom)
+- **Critical issues addressed**: 0 (none found — converged article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (body stable; the only post-06-01 change was a prior refine-draft Bandwidth hedge, web-verified accurate this pass)
+- **Citation web-verify (§2.4)**: new Bandwidth hedge characterising Zheng & Meister "~10 bits/s" as a behavioural-throughput bound (not phenomenal bandwidth) verified accurate vs publisher of record (Neuron 113(2)). Block 1995 (227-247) and Zheng & Meister (113(2), 192-204) 06-01 fixes confirmed intact. Superlative-currency sweep: no hits.
+- **Convergence note**: the 06-01 Remaining Item (corpus-wide Block 1995 `227-287` defect in 4 siblings) is now CLOSED — all four siblings carry `227-247`.
+- **Reasoning-mode (editor-internal)**: N/A — descriptive taxonomy; Dennett overflow caveat is honest Mode-Three boundary-marking, no label leakage.
+- **Output**: [deep-review-2026-06-22-types-of-consciousness](/reviews/deep-review-2026-06-22-types-of-consciousness/)
+
+## 2026-06-22T13:46:24+00:00 - deep-review
+- **Status**: Success (sixth review; converged — one small consistency fix, no body change)
+- **File**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
+- **Word count**: 2510 → 2510 (no body change; 100% of 2500 concepts soft threshold — soft_warning, length-neutral mode)
+- **Critical issues addressed**: 0 (none — the 2026-06-22 two-tier evidential refine strengthens calibration; no slippage)
+- **Medium issues addressed**: 1 — description/body calibration mismatch: frontmatter `description` still read "now supported by early experimental evidence" (over-flat, 169 chars) after the body was split into unequal evidence tiers; revised to "a contested hypothesis with mixed early evidence" (156 chars) to match the body's restraint.
+- **Enhancements made**: 0 (body at soft-length warning; no expansion)
+- **Citation web-verify (§2.4)**: References block unmodified since 2026-06-02 full ledger; the 2026-06-22 refine added no new bibliographic claims. No re-litigation. Superlative-currency sweep: no hits.
+- **Reasoning-mode (editor-internal)**: Georgiev separability-no-go engagement = Mode One + honest Mode-Three residue; unchanged, no label leakage.
+- **Output**: [deep-review-2026-06-22-entanglement-binding-hypothesis](/reviews/deep-review-2026-06-22-entanglement-binding-hypothesis/)
+
+## 2026-06-22T13:30:00+00:00 - deep-review
+- **Status**: Success (first review; clean)
+- **File**: [parapsychology-firewall](/topics/parapsychology-firewall/)
+- **Word count**: 1654 → 1654 (no body change; 55% of 3000 topics target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (orphan integration — fresh-create had only changelog/todo inbound refs; added 2 well-motivated content inbound links)
+- **Citation web-verify (§2.4)**: all 5 References publisher-verified — Bösch 2006 (Psychol Bull 132(4)), Maier 2018 (Front Psychol 9:379), Han & Choi 2016 (Sci Rep 6:22986), Stapp QID (LBL PDF live), Southgate & Oquatre-sept 2026-05-05 (canonical byline cross-checked across 7 files). All real-correct; no defects. Empirical-currency sweep: no superlatives. P-Q2/P-Q3/P-Q7 + Tenet-2 quotes verified faithful.
+- **Reasoning-mode**: engagement with folk dualism — Mode Three (boundary-marking, correct; no label leakage). Calibration discipline exemplary (refuses null-as-support in both directions).
+- **Cross-links added**: [selection-only-mind-influence](/topics/selection-only-mind-influence/) (inline + Further Reading), [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) (Further Reading, complementary-edge framing)
+- **Output**: [deep-review-2026-06-22-parapsychology-firewall](/reviews/deep-review-2026-06-22-parapsychology-firewall/)
+
+## 2026-06-22T13:23:25+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The parapsychology firewall — spectacular psi would disconfirm, not support, the Map
+- **Output**: [parapsychology-firewall](/topics/parapsychology-firewall/)
+- **Word count**: 1654 (55% of 3000 topics target — ok)
+- **Based on research**: No existing research note; built on the corridor/Born-preservation argument in [selection-only-mind-influence](/topics/selection-only-mind-influence/), the no-signalling treatment in [causal-consistency-constraint](/concepts/causal-consistency-constraint/), and the demarcation already stated in [tenets](/tenets/#minimal-quantum-interaction). Two-channel structure preserved (source exposition / Map integration kept separate). 1 self-citation (Oquatre-sept, selection-only). Frames the firewall as a falsifier the Map owns: reliable, lawlike, content-importing psi → disconfirmation. Does NOT read the psi-null corridor as positive support (possibility-probability-slippage discipline). Not an apex source.
+
+## 2026-06-22T13:14:14+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)
+- **Word count**: 3960 → 3960 (no change; length-constrained, ~40w under topics hard ceiling)
+- **Critical issues addressed**: 0 (none found — from-below/co-fundamental ontology defect remains correctly closed since 2026-06-01/06-02)
+- **Medium issues addressed**: 0 (all 8 actionable findings from the same-day pessimistic review were already resolved by the 2026-06-22 06:31 refine, commit 2b7d0cb18; verified on disk)
+- **Enhancements made**: 0 (no edits — confirming convergence is the correct action on a 7th-deep-review article whose same-day pessimistic findings are all already landed)
+- **Citation web-verify**: References block unmodified; spot-re-verified Khan et al. 2024 (eNeuro 11(8) ENEURO.0291-24.2024, PubMed 39147581 — real-correct) + Chalmers 2006 quote (verbatim). Rest verified 2026-06-01, unchanged.
+- **Reasoning-mode (Duch, editor-internal)**: literal-shadow = Mode One; identity-theoretic = Mode Three (bedrock, honestly marked). No label leakage.
+- **Deferred (bedrock, not defects, do NOT queue)**: Nagarjuna śūnyatā objection; fuller Dennettian real-patterns engagement — framework-boundary work, hosted elsewhere; no headroom at the length ceiling.
+- **Output**: [deep-review-2026-06-22-the-strong-emergence-of-consciousness](/reviews/deep-review-2026-06-22-the-strong-emergence-of-consciousness/)
+
+## 2026-06-22T13:04:03+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The *embodied-interface* cluster (companion to optimistic-2026-06-22, which covered the disjoint convergence/emergence/quantum-biology nexus). Reviewed the freshly-built applied-apex `apex/embodied-interface.md` + sources `topics/pain-consciousness-and-causal-power.md`, `concepts/evaluative-phenomenal-character.md`, with `somatic-interface`, `vestibular-`, `interoceptive-`, `thermal-consciousness-and-the-interface` read for context.
+- **Key finding**: The apex's headline contribution is a *calibrated under-claim* — a three-way causal taxonomy (causal / constitutive / phenomenal-presentation) that shrinks the Map's interface claim, naming most felt embodiment as causally passive presentation. Process-Philosopher and Hardline-Empiricist personas converge in praise (the skill's signal that the one slippage-risk — the constitutive category — was resolved honestly): the constitutive causal claim is pinned to P-VS1 at *low* confidence with the value-blind rival named as "the rival to beat, not a position already beaten." Tenet-coherent-not-evidence-elevating done right. No broken links found (the embodied-interface→cross-modal wikilink resolves to apex/, not a missing topic).
+- **Tasks added**: 2 × P3 — (1) short concept page "Phenomenal presentation" (the only category in the apex trichotomy without a home page); (2) reciprocate 3 inbound cross-links into the new apex.
+- **Output**: [optimistic-2026-06-22b](/reviews/optimistic-2026-06-22b/)
 
 ## 2026-06-22T11:13:37+00:00 - deep-review
 - **Status**: Success (eleventh cycle; genuine changed-since-reviewed — today's COGITATE+infant-marker refine; one mechanical critical fix, no philosophical critical issues)

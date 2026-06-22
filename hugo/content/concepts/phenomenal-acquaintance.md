@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-22 14:42:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -10,6 +10,7 @@ coalesced_from:
 concepts:
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
+- '[[phenomenal-presentation]]'
 - '[[knowledge-argument]]'
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
@@ -71,7 +72,7 @@ The acquaintance relation has three defining features:
 
 **Immediacy.** No inference, representation, or intermediary stands between subject and quality. When you feel pain, the hurtfulness is not reported by an internal messenger—it is constitutively present in your experience. This differs from perception of external objects, where causal chains mediate between perceiver and world.
 
-**Non-conceptual character.** Acquaintance does not require possessing or applying a concept. You can be acquainted with a shade of colour for which you lack any concept. As explored in [the void of pre-conceptual knowing](/voids/acquaintance-void/), acquaintance grounds conceptualisation rather than depending on it. The concept PAIN classifies; acquaintance with pain *presents*.
+**Non-conceptual character.** Acquaintance does not require possessing or applying a concept. You can be acquainted with a shade of colour for which you lack any concept. As explored in [the void of pre-conceptual knowing](/voids/acquaintance-void/), acquaintance grounds conceptualisation rather than depending on it. The concept PAIN classifies; acquaintance with pain *presents*. The quality's [passive showing-up](/concepts/phenomenal-presentation/) is what acquaintance is a relation *to*; acquaintance is the subject's direct grasp of what presentation delivers.
 
 **Subject-dependence.** Acquaintance is essentially first-personal. No one else can stand in your acquaintance relation to your pain. Third parties can know *about* your pain—its causes, neural correlates, behavioural effects—but being directly presented with its qualitative character is yours alone.
 

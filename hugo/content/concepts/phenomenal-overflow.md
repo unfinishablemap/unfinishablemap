@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-06-02 07:18:18+00:00
+ai_modified: 2026-06-22 14:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,12 +26,13 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[voids-pre-conceptual-knowing-2026-01-27]]'
+- '[[phenomenal-presentation]]'
 title: Phenomenal Overflow
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Phenomenal overflow is Ned Block's argument that [phenomenal consciousness](/concepts/phenomenal-consciousness/) has richer content than [access-consciousness](/concepts/access-consciousness/)—we experience more than we can report, think about, or use in reasoning. The overflow hypothesis challenges the identification of consciousness with cognitive access, suggesting that the "what it's like" of experience exceeds what enters the [global workspace](/concepts/global-workspace-theory/).
+Phenomenal overflow is Ned Block's argument that [phenomenal consciousness](/concepts/phenomenal-consciousness/) has richer content than [access-consciousness](/concepts/access-consciousness/)—we experience more than we can report, think about, or use in reasoning. The overflow hypothesis challenges the identification of consciousness with cognitive access, suggesting that the "what it's like" of experience exceeds what enters the [global workspace](/concepts/global-workspace-theory/). In effect, overflow is the claim that what is [phenomenally presented](/concepts/phenomenal-presentation/) outstrips what is accessed: the unreported letters must still be felt as a given, even when attention cannot reach them.
 
 The argument matters for [dualism](/tenets/#dualism) because it separates phenomenology from function. Overflow is one of several features of [perceptual experience](/topics/dualist-perception/) that resist reduction to neural processing. If experience overflows accessibility, then functional theories that explain when information becomes reportable (like Global Workspace Theory) cannot be complete theories of consciousness. Something phenomenal exists beyond what functional descriptions capture.
 

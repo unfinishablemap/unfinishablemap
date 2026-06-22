@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-22 08:28:08+00:00
+ai_modified: 2026-06-22 14:11:31+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Consciousness operates in gradations during sleep. Memory consolida
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 08:00:02+00:00
+last_deep_review: 2026-06-22 14:11:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +49,7 @@ Sleep's enormous fitness cost—vulnerability to predators, inability to feed or
 
 ## Why Consciousness Must Withdraw
 
-The consciousness channel has limited bandwidth—Zheng & Meister (2025) calculated ~10 bits per second. During waking, this bottleneck serves survival by filtering the relevant from the irrelevant. But memory consolidation requires different operations: parallel replay of multiple memory traces via hippocampal sharp-wave ripples, widespread schema integration, and cross-memory linking. These parallel processes would overwhelm the conscious bottleneck. Consciousness withdraws during sleep not as a side effect but as a functional requirement.
+The serial conscious channel has a strikingly low throughput—Zheng & Meister (2025) calculated ~10 bits per second for what conscious agents deliberately do, a behavioural ceiling rather than a measured bandwidth of phenomenal experience. During waking, this bottleneck serves survival by filtering the relevant from the irrelevant. But memory consolidation requires different operations: parallel replay of multiple memory traces via hippocampal sharp-wave ripples, widespread schema integration, and cross-memory linking. These parallel processes would overwhelm the conscious bottleneck. Consciousness withdraws during sleep not as a side effect but as a functional requirement.
 
 ## Gradations of Sleep Consciousness
 
@@ -89,7 +89,7 @@ For [filter theory](/concepts/filter-theory/), this distinction matters: sleep p
 1. **Computational binding**: The neural operations that integrate distributed information
 2. **Phenomenal binding**: The unified experiential result
 
-Sleep demonstrates that computational binding can proceed without phenomenal binding. The ~10 bits/second consciousness channel produces unified experience precisely by excluding parallel processing.
+Sleep demonstrates that computational binding can proceed without phenomenal binding. The serial conscious channel—whose ~10 bits/second ceiling bounds deliberate behaviour rather than the richness of experience itself—produces unified phenomenal binding precisely by excluding the parallel processing that consolidation requires.
 
 ### Implications for the Interface Hypothesis
 

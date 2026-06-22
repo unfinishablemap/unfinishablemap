@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-06-22 01:25:06+00:00
+ai_modified: 2026-06-22 15:05:00+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-22 01:25:06+00:00
 apex_sources:
@@ -44,6 +44,7 @@ related_articles:
 - '[[interoceptive-consciousness-and-the-interface]]'
 - '[[vestibular-consciousness-and-the-interface]]'
 - '[[thermal-consciousness-and-the-interface]]'
+- '[[embodied-interface]]'
 title: The Cross-Modal Capability Division
 topics:
 - '[[dualist-perception]]'
@@ -130,7 +131,7 @@ Laying the five modality treatments beside one external literature yields a clai
 
 That asymmetry comes with its own scope condition, and naming it is part of the finding. It holds for the distance and proprioceptive senses; turning the survey inward to interoception inverts both terms—the brain side converges on a single insular integrator, the mind side becomes affect and ownership outright. So the asymmetry is an *exteroceptive* regularity with a revealing inward exception, not a universal law—with thermoception marking the line itself, a single modality reporting both world and body at once. The disciplined claim is sharper for carrying that boundary: the modality-specific brain side recurs over the senses with separate transducers, and the inward case where the transducers feed a common hub is exactly where it stops recurring. The vestibular sense marks the other edge—not an inversion but the asymmetry at its limit, a modality with no unisensory cortex and almost no felt object that nonetheless supplies the spatial frame of the subject—and so the mind-side term resolves into a family rather than a single contribution.
 
-That asymmetry is consonant with the interface reading without being probative of it, because the Global Neuronal Workspace predicts the very same supramodal signature and reads it as a neural broadcast. The signature is a shared explanandum; the Map's distinctive wager is on the ownership term the broadcast under-describes—a wager strong on argument and thin on direct cross-modal evidence. And the disanalogies set the ceiling: ownership is uneven across the senses, binding and awareness doubly dissociate, and the conscious boundary is graded rather than sharp. The disciplined statement is therefore: *the form of the brain-side division recurs over modality-specific machinery; the mind-side access boundary recurs as a supramodal signature; the mind-side contribution is a differently-weighted family rather than a single uniform thing; and the whole convergence is one pattern with shared upstream architecture, consistent with the interface reading and equally consistent with its strongest rival.* That is more than any one sense shows, and less than a proof—which is exactly the register the Map's perception articles have held throughout.
+That asymmetry is consonant with the interface reading without being probative of it, because the Global Neuronal Workspace predicts the very same supramodal signature and reads it as a neural broadcast. The signature is a shared explanandum; the Map's distinctive wager is on the ownership term the broadcast under-describes—a wager strong on argument and thin on direct cross-modal evidence. And the disanalogies set the ceiling: ownership is uneven across the senses, binding and awareness doubly dissociate, and the conscious boundary is graded rather than sharp. The disciplined statement is therefore: *the form of the brain-side division recurs over modality-specific machinery; the mind-side access boundary recurs as a supramodal signature; the mind-side contribution is a differently-weighted family rather than a single uniform thing; and the whole convergence is one pattern with shared upstream architecture, consistent with the interface reading and equally consistent with its strongest rival.* That is more than any one sense shows, and less than a proof—which is exactly the register the Map's perception articles have held throughout. This synthesis answers *where* the division recurs across the felt body; the [embodied-interface synthesis](/apex/embodied-interface/) takes the complementary axis, asking *what consciousness is doing* in each region, so the two apexes together map the same terrain along orthogonal cuts.
 
 ## Relation to Site Perspective
 

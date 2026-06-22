@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-06-22 08:28:08+00:00
+ai_modified: 2026-06-22 13:46:24+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,13 +14,12 @@ concepts:
 - '[[combination-problem]]'
 created: 2026-03-01
 date: &id001 2026-03-01
-description: Quantum entanglement may be the only physical mechanism that provides
-  genuine holism matching phenomenal unity—a hypothesis now supported by early experimental
-  evidence.
+description: Quantum entanglement may be the only physical mechanism providing genuine
+  holism matching phenomenal unity—a contested hypothesis with mixed early evidence.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 02:38:20+00:00
+last_deep_review: 2026-06-22 13:46:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
