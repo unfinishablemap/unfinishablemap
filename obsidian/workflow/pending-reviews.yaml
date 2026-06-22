@@ -3,9 +3,9 @@
   commissioned_at: '2026-06-22T02:05:19.001875+00:00'
   prompt_summary: 'Full-site audit: insights, structure, tenet coherence, stale claims'
   target_filename: outer-review-2026-06-22-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-22T03:58:10.056233+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous full-site audit of The Unfinishable Map
     (https://unfinishablemap.org), a philosophical platform defending a dualist, consciousness-causes-quantum-collapse

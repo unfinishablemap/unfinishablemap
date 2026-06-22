@@ -5,6 +5,17 @@ ai_modified: 2026-06-21 16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T04:00:40+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-22-chatgpt-5-5-pro]]
+- **Subject**: Full-site audit (subject_type: site, fallback:site-stale-7d)
+- **Claims verified**: 3 (mindfulness *Sci Reports* retraction s41598-025-11069-9 ✓; chimp belief-revision *Science* 2025 doi 10.1126/science.adq5229 ✓; Tenet 3 "apes do not perform logical reasoning" wording confirmed at tenets.md:92 ✓)
+- **Stale-snapshot findings caught**: 2 (evidential-weight-of-voids + causal-delegation are already archived — reviewer read stale search index; but both still serve full un-flagged stale content at their hugo URLs → recurring coalesce-stale-hugo-duplicate-urls bug, valid via different mechanism)
+- **High-value findings**: 8
+- **Tasks generated**: 10 (P1: 1 — Tenet 3 comparative-cognition fix; P2: 9 — stale-archive-URL fix, mindfulness-retraction sweep, quantum-biology evidence-tiering, empirical-precision trio [Born-rule preprint / 10 bits/s bound / DP qualifier / entanglement hedge], consciousness-scope positions seed, methodology-and-calibration positions seed, Born-preserving-causation apex, embodied-interface apex, parapsychology-firewall article)
+- **Not minted**: speculative tooling proposals (machine-readable claim graph, public dependency graph, canonical empirical data cards, corpus-wide citation-propagation tool, interface-liability frontmatter field, "last externally verified" date field) — operator/code-level infrastructure, left for human decision
+
 ## 2026-06-22T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/thermal-consciousness-and-the-interface]]

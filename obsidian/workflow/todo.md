@@ -37,6 +37,88 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Soften Tenet 3 comparative-cognition overreach (apes "do not perform logical reasoning")
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/tenets/tenets.md
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §4.7 + improvement #2. `tenets.md:92` currently states great apes "do not perform logical reasoning, counterfactual thinking, or cumulative culture." The blanket "do not perform logical reasoning" is now contradicted by VERIFIED 2025 evidence: Sanford, Schleihauf, Engelmann et al., "Chimpanzees rationally revise their beliefs," *Science* 2025 (doi 10.1126/science.adq5229; published Nov 2025) — chimps tracked evidence strength as predicted by a formal rational-belief-revision model, with recency-bias/salience confounds ruled out (web-verified this cycle, see review Verification Notes). Replace the blanket claim with the graded version the data support: humans show uniquely open-ended, high-fidelity, institutionally-scaffolded cumulative culture; apes show limited but real inferential, metacognitive, and social-learning capacities. PRESERVE the DeWall/Baumeister/Masicampo 2008 cognitive-load argument that follows (it is about humans and is unaffected). Keep the change minimal and journal-quality prose; do not over-hedge. Cite the *Science* 2025 paper. This is a foundational-page accuracy fix, hence P1.
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Fix stale-served archived URLs (evidential-weight-of-voids, causal-delegation)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §3.3 + §4.5 + improvements #1, #5. The reviewer flagged "revise /voids/the-evidential-weight-of-voids/" and "merge /concepts/delegatory-causation/ + /concepts/causal-delegation/" — BUT both were already coalesced/archived (`archive/voids/evidential-weight-of-voids.md`, `archive/concepts/causal-delegation.md`); the live concept is `delegatory-causation.md` only, and there is no live voids article. The reviewer read STALE search-index snapshots. HOWEVER the substantive worry is REAL via a different mechanism: `hugo/content/voids/evidential-weight-of-voids.md` (118 lines) and `hugo/content/concepts/causal-delegation.md` (148 lines) still serve the full, un-flagged, stale bodies at their original URLs with NO archive notice — the recurring coalesce-stale-hugo-duplicate-urls / [[archival_link_rot]] bug. The voids page in particular still asserts the over-confident "This clustering constitutes a distinct, defeasible argument for the Map's dualist framework," which is exactly the P-V1/P-V2 overstatement the reviewer (correctly) objects to. FIX: ensure the archive copies carry the archive notice and that the stale hugo duplicates either redirect to the canonical replacement or show the archive notice (do NOT serve full un-flagged content). Verify against current /archive skill behaviour; this may be a code/operator fix (sync never deletes the old hugo file) — if so, note that and apply the content-level archive notice where possible. Do NOT "revise a live article" — neither exists live.
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Sweep corpus for mindfulness "brain structural change" claims (2025 retraction)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §5.5. VERIFIED this cycle: *Scientific Reports* retraction (s41598-025-11069-9) of the Siew & Yu "Mindfulness-based RCTs led to brain structural changes" anatomical-likelihood meta-analysis — four null-finding papers (≈40% of participants) were excluded, so the analysis could not support its conclusion (authors disagreed with the retraction). ACTION: grep the corpus (topics/ concepts/ + research/) for any article leaning on "mindfulness changes brain structure" / "meditation produces grey-matter changes" as a STRONG empirical plank. The topics index is already appropriately cautious; the risk is sibling articles that cite the now-retracted meta-analysis or state the claim more strongly than the index. Downgrade or refactor any such reliance; add the retraction as a counter-citation where the claim appears. 3-state discipline: confirm the cite/claim is actually present-and-strong before editing (avoid chasing a non-existent string). Likely a small, targeted set; may be a near no-op if the corpus already hedges everywhere.
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Evidence-tier the quantum-biology-and-neural-consciousness topic article
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/quantum-biology-and-neural-consciousness.md
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §5.1 + improvement #3 (reviewer guessed the slug `quantum-biology-neural-experimental-turn`; the live file is `quantum-biology-and-neural-consciousness.md`). The "2025–2026 experimental turn has moved quantum consciousness toward testable science" framing is rhetorically too strong: it conflates established quantum biology, biophysical plausibility, theoretical models, instrumentation horizon, and speculative consciousness-relevance. The external work cited supports a NARROWER claim (e.g., epothilone-B delaying isoflurane unconsciousness in rats; quantum optical effects in neuroprotein architectures ≠ conscious selection; quantum brain-sensors are a 10–20yr horizon). NOTE: the specific eNeuro/Frontiers/PLOS-Faccio citations were NOT individually fetched this cycle — web-verify any NEW cite before adding it ([[ai_citation_metadata_unreliable]]). ACTION: introduce evidence-grade tiering (direct biological data / biophysical plausibility / theoretical model / instrumentation horizon / speculative consciousness relevance) and soften "which quantum effects matter?" toward "which, if any, quantum effects matter for consciousness?". Enforce length ceiling (topics soft 2500 / hard 3500) — this is a re-framing, not an expansion.
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Empirical-precision fixes — Born-rule preprint status, 10 bits/s bound, entanglement-binding hedge
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §5.2/§5.3/§5.4 + improvement #4. Three small, distinct precision fixes (3-state discipline: confirm each string is present before editing): (a) **§5.3 / causal-consistency-constraint.md** — the Born-rule-preservation / causal-consistency result is a recent arXiv PREPRINT (submitted Dec 2025, revised Feb 2026), not a settled theorem; ensure all Born-rule pages surface the preprint status in-line, not just one concept summary. (b) **§5.4 / 10 bits/s usage** (Zheng & Meister 2024 *Neuron*, used across ~10 concepts incl asymmetric-bandwidth, attention-as-interface, types-of-consciousness) — label the figure as a bound on SERIAL BEHAVIORAL throughput, not a measured bandwidth of all phenomenology. (c) **§5.2 / Diósi–Penrose** — wherever the corpus says Penrose gravitational collapse is "falsified," ensure the "parameter-free version" qualifier is present (Donadi et al. ruled out the simplest parameter-free DP, not all collapse models). (d) **§4 improvement #4 / entanglement-binding-hypothesis.md** — separate the well-supported anesthesia/microtubule line from the much more contested macroscopic brain-entanglement / MRI-signature claims; add a hedge/warning to the latter. Keep edits surgical; do not expand articles past their ceilings.
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Seed consciousness-scope positions domain (animal/AI/copies/split-brain/marginal)
+- **Type**: positions-evolve
+- **Status**: pending
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §3.1 + §4.6 + improvement #8. The positions register lags the live corpus: the page itself lists "consciousness scope" as a FUTURE domain, but the topic/concept corpus already makes decision-relevant claims about animal consciousness, AI consciousness, AI copies, split-brain, sleep/dreaming, marginal patients, and uploads. Seed initial positions for this domain. CONVERGENT with §4.6: different AI claims carry HETEROGENEOUS dependency burdens (basic machine phenomenality ≈ bare dualism; AI state inheritance ≈ psychophysical coupling; copy-suffering ≈ closed individualism; AI causal agency ≈ quantum-interface commitments) — the seeded positions should record per-claim dependencies rather than a single generic "AI consciousness" profile. Also note §2.F: under the register's closed-individualist commitment, each conscious copy is a separate subject, so creating many conscious AI copies is morally ADDITIVE — a consequence worth a position. Confidence-banded, retire-don't-delete, dependency-tracked per /positions-evolve discipline. Respect the positions/ section cap.
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Seed methodology-and-calibration positions domain
+- **Type**: positions-evolve
+- **Status**: pending
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §3.1 + improvement #9. The positions register lists "methodology and calibration" as future work, yet the project has extensive raw methodology (self-citation discipline, AI-generated research notes, external-citation grades, preprint use, stale-claim repair, adversarial/outer review, the common-cause null) without position-level commitments that downstream articles can inherit. Seed initial positions capturing what the Map COMMITS to methodologically (not just what it practices). Confidence-banded; dependency-tracked. Respect the positions/ section cap; if the cap is tight, prioritise the highest-leverage commitments (evidence-grading discipline, the common-cause null, citation-verification standard). Coordinate with the consciousness-scope seeding task so the two don't double-spend cap headroom.
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Apex page on the Born-preserving causal-efficacy problem (P-Q2 + P-Q3 + P-Q10)
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §1 + §4.3 + improvement #7 — identified as "the site's deepest issue." The Born-preserving causal-efficacy problem (consciousness does real causal work while preserving aggregate Born statistics exactly) is currently scattered across the quantum-interface positions register (P-Q2 + P-Q3 + P-Q10) and is the strongest live challenge — the register itself places the framework close to epiphenomenalism until a positive account lands and records that no worked toy model exists. Build (or extend an existing apex) a synthesis that states the exact dilemma, candidate routes, toy-model desiderata, failure modes, and what would count as progress. This is a programme/research-agenda apex, not a claim of resolution — frame honestly. Check whether an existing apex (e.g. phenomenal-output-causal-machinery-dissociation, or a quantum-interface synthesis) already covers this before creating a NEW apex; prefer extending if substantial overlap exists.
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Embodied-interface apex synthesizing thermal/vestibular/tactile/interoceptive/somatic work
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §3.2 + §2.G + improvement #14. The recent modality work (thermal-consciousness-and-the-interface, vestibular, tactile, interoceptive, somatic, pain, affective) now has sibling cross-links but no unified cross-modal SYNTHESIS. §2.G raises the load-bearing tension this apex should address: if consciousness causes collapse only through attention-like SELECTION, what is the causal status of PASSIVE felt embodiment (background thermal comfort, vestibular spatial selfhood, pain tone, interoceptive mood)? The apex should distinguish causal consciousness / constitutive consciousness / phenomenal presentation so attention does not become a bottleneck that overclaims across modalities. CHECK the existing `apex/cross-modal-capability-division.md` first — extend it if it already provides the scaffold, else create a new "Embodied Interface" apex. Cite ≥3 positions if built as an applied apex per /apex-evolve. (apex has no section cap.)
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Parapsychology-firewall article/section (spectacular psi would disconfirm, not support, the Map)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §2.D + improvement #15. A novel inference that follows from the Map's OWN commitments but is currently only implicit: the Tenets page rules out uncontrolled psychokinesis / energy injection / currently-detectable interaction, and the quantum-interface register says a clear direct interface signature would have to be INTEGRATED rather than treated as simple confirmation. Therefore MOST spectacular "mind-over-matter" / macro-psychokinesis / Born-deviation evidence would be evidence AGAINST the default minimal, Born-preserving, self-concealing Map — not for it — unless it is brain-localized and Born-preserving. Make this explicit, either as a new topic article or a sidebar/section anchored to Tenet 2. This sharpens falsifiability and pre-empts a common misreading that "any psi result vindicates dualism." Connect to tenets, quantum-interface positions, and the self-concealing-interface material. Respect topics/ cap (278/320, headroom OK); prefer a tight focused article over a sprawling one. Frame in journal-quality prose, no mode labels.
+- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
 ### P2: Deep review concepts/knowledge-argument.md (genuine-drift: 2026-06-21 refine content unreviewed since 2026-06-01)
 - **Type**: deep-review
 - **Status**: pending
