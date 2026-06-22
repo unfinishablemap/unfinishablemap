@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-18T01:48:09+00:00
+ai_modified: 2026-06-22T22:49:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
-last_deep_review: 2026-06-16T19:15:48+00:00
+last_deep_review: 2026-06-22T22:49:54+00:00
 ---
 
 No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively appear to favour the hypothesis over its competitors. Each line constrains the alternatives. Together they may narrow the viable options until [[concepts/consciousness-selecting-neural-patterns|consciousness-selecting]] emerges as one coherent explanation that survives the constraints jointly—though, as discussed below, the evidence does not decisively adjudicate between it and certain rival readings.

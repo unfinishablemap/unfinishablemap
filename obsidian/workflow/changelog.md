@@ -5,6 +5,16 @@ ai_modified: 2026-06-22T22:36:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T22:49:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Word count**: 2956 → 2956 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Notes**: Sixth review, convergence-confirmation pass. Article explicitly named as argument; would normally be excluded by convergence-damping (5 prior reviews, last deep-reviewed 6 days ago on 2026-06-16). Since the thorough 2026-06-16 §2.4 publisher-of-record pass (which fixed the corpus-wide Luo/Xu cryptochrome citation), only two light copy-edit refines touched the file (cross-links 06-17; two-phrasing calibration 06-18) — no new factual content or citations, References block byte-identical. No §2.4 re-verify required (modification trigger not met). `find_superlative_claims` empty. Calibration diagnostic clean (convergence table + defeater-not-support footnote remain the corrected form; a tenet-accepting reviewer would not flag any claim as overstated). Engagements Mode Three, no label leakage. At 99% of soft threshold — no content added (length-neutral). No critical issues = success on a converged article.
+- **Output**: [[reviews/deep-review-2026-06-22-empirical-evidence-for-consciousness-selecting]]
+
 ## 2026-06-22T22:36:27+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The predictive-processing / naturalist-challenge cluster — `topics/predictive-self-binding-and-the-naturalist-challenge.md` (fresh expand-topic create, 20:48) and `topics/predictive-processing-and-dualism.md` (ai_modified 20:37, deep-reviewed 18:09). Cross-checked against `psychedelics-and-the-filter-model` and the four parent concepts.
