@@ -22,7 +22,7 @@ description: Multiple independent arguments converge on dualism from different s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 19:23:10+00:00
+last_deep_review: 2026-06-22 11:03:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

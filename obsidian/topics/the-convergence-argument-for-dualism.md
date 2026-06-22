@@ -42,7 +42,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-06-02T19:23:10+00:00
+last_deep_review: 2026-06-22T11:03:22+00:00
 ---
 
 No single philosophical argument achieves mathematical certainty. But when multiple independent arguments — starting from different premises, using different methods, targeting different features of consciousness — converge on the same conclusion, the case is substantially stronger than any single line. The Unfinishable Map holds this convergence is itself a powerful argument for [[dualism]], deserving analysis as an [[epistemology-of-convergence-arguments|epistemological pattern]] rather than a rhetorical observation.
