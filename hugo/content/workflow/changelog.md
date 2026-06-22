@@ -1,13 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 09:00:00+00:00
+ai_modified: 2026-06-22 07:45:21+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-22T07:45:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Word count (body)**: 3612 → 3612 (no change — length-neutral converged pass, frontmatter timestamps only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sixth review; converged. Selector resurfaced it at 19 days on a genuine changed-since-review signal: the 2026-06-13 expand-topic added a substantive "Developmental Arc of Shared Intentionality" section (~280 words). Scrutiny focused on that new content. Tomasello (2019) developmental claims (joint intentionality ~9mo, collective ~age 3, "dual-level" structure) web-verified faithful at review-of-record (Karger *Human Development* + MIT OECS). New section is a model of calibration discipline — explicitly declines to treat milestones as confirmation ("removes a defeater… not an independent confirmation"); no possibility/probability slippage, no source/Map conflation, no label leakage. All five new cross-link anchors resolve. 2026-06-13 refine-draft repoint (epistemology-of-other-minds-under-dualism → problem-of-other-minds#The Dualist's Dilemma) verified correct. Engagement with developmental-behaviourist reading: Mode Three (honest boundary-marking). Workflow note: the expand-topic commit was mislabeled (expanded existing articles, created no standalone "ontogeny" article) — operator awareness only, no dangling links.
+- **Output**: [deep-review-2026-06-22-consciousness-and-social-understanding](/reviews/deep-review-2026-06-22-consciousness-and-social-understanding/)
+
+## 2026-06-22T07:37:22+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [calibration-audit-triple](/project/calibration-audit-triple/), [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Source**: outer review 2026-06-22 (Claude Opus 4.8), Remediation List B (central meta-critique: "the project has substituted exhaustive self-disclosure for self-correction") + Bottom line. Methodology / project-doc task — recorded four enforcement proposals as **proposed disciplines pending human ratification**; no site policy enacted, no article/apex/position content edited, no live falsifiability markers deployed.
+- **Changes**:
+  - **Proposal 1 (confession → visible marker)** → coherence-inflation-countermeasures, new **Countermeasure 16: The Confession-to-Marker Pipeline (PROPOSED)**. Proposes that a page-located `/project/` confession be *able to emit* a `[Coherence-only]` or `[Unfalsifiable-by-construction]` section-header marker (extending the Externalized Tag Pilot vocabulary) under a 3-part fail-closed emission criterion, with prose-downgrade preferred over marker where it doesn't gut the synthesis. Names the self-shielding risk (marker as inoculation) and gates rollout on the pilot's criterion (c).
+  - **Proposal 2 (implement Audit Six / co-optation gate now)** → calibration-audit-triple, escalation paragraph after the "recorded as proposed" para. Proposes implementing the gate now rather than awaiting `/tune-system`: single `evolution-state.yaml` roster (naturalist + physics-foundations), publisher-of-record verified one-line stance statement (per P-M3) before any tenet-load-bearing roster-name citation, P1 refine-draft on miss.
+  - **Proposal 3 (constrain-vs-establish guardrail REQUIRED)** → calibration-audit-triple, escalation appended to the tenet-use placement-rule para. Proposes a local cycle-frequency lint (Audit-Three class) flagging any tenet-invoking "Relation to Site Perspective" section lacking a rival-parity sentence → P2 refine-draft; one new Key Indicators row. Closes the stated-vs-enforced gap (P-M5) without weakening the declared stance.
+  - **Proposal 4 (tag each position's falsifiability status)** → evidential-status-discipline, new **Falsifiability-Status Tagging for Positions (PROPOSED)** after the tag pilot. Proposes a *Falsifiability* field on the positions-entry template with 3 values (`empirically-falsifiable` / `coherence-only` / `unfalsifiable-by-construction`), orthogonal to Confidence, classifying the existing "Would shift if" field; adoption = `/positions-evolve` template change + one-time back-fill.
+- **Coordination**: referenced (did NOT re-seed) the already-seeded P-M1–P-M5 methodology positions as the commitment layer — P-M5 ("disclosure is not self-correction") as the held commitment these proposals operationalise, P-M3 as the citation-verification standard Proposal 2 invokes. B.9 (non-LLM human review channel) surfaced as an operator decision, not actioned. B.4 (voids dedup-cap) noted as tracked-separately, not actioned. All four proposals cross-link to each other and to the confessing pages so the bridge the review found missing (apex reader never routed to the discount) is part of the proposed mechanism.
+- **Verification**: sync exit 0; new cross-links (P-M5, Countermeasure 16, outer-review) all resolve to live Hugo anchors; no broken-wikilink strips on the three edited docs. No "This is not X. It is Y." cliché. No editor-vocabulary leaked into any article body (all edits confined to `/project/` methodology docs).
+- **Published**: yes (project docs; drafts not applicable — these are live reference docs, additions clearly marked PROPOSED)
 
 ## 2026-06-22T07:32:46+00:00 - refine-draft
 - **Status**: Success
