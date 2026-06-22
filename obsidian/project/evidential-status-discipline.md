@@ -4,7 +4,7 @@ description: "A tenet may remove a defeater, but it must not upgrade the evidenc
 created: 2026-05-05
 modified: 2026-05-29
 human_modified: null
-ai_modified: 2026-06-14T05:00:00+00:00
+ai_modified: 2026-06-22T07:37:22+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -333,6 +333,24 @@ Headers for methodological, framing, or structural sections — lede, *Relation 
 **Evaluation on 2026-05-20.** Decision criteria: *(a)* does the visible tagging change reader interpretation in any feedback the catalogue receives in the interval (outer-review remarks, human-curator notes, downstream task chains); *(b)* does the editor find the per-section tagging clarifying or constraining when revising the piloted articles; *(c)* does the tagging introduce its own slippage failure mode — for instance, a bracketed *[Empirical]* tag becoming a shield against doing the work of natural-prose calibration *inside* the section it labels, or a *[Speculative]* tag being read as a disclaimer that licences stronger claims than the prose would otherwise carry. If (a) is positive and (c) is not observed, roll out corpus-wide to all topics, apex, and concept articles. If (b) is mixed but (c) is not observed, keep the tags as opt-in for speculative-heavy articles. If (c) is observed, withdraw and document the failure mode for future reference.
 
 The pilot does **not** revoke the prohibition on per-claim bracket labels. *"C. elegans is conscious [live hypothesis]"* remains forbidden — the prohibition was for *per-claim* tier-labels inside paragraphs of running prose; the pilot externalises tags at *section-header* grain only, which is a different granularity carrying different risks. If the pilot succeeds, the prohibition narrows from "no tier labels in article prose" to "no tier labels inside paragraphs," with the section-header convention as the permitted form. If the pilot fails, the prohibition restores in full and the failure-mode documentation lives at this section's evaluation footnote for future review proposals.
+
+## Falsifiability-Status Tagging for Positions (PROPOSED — pending human ratification)
+
+*Status: proposed, not enacted. The scheme below is a candidate convention for the positions register; it is not currently applied to any [[positions]] entry, and adopting it is a `/positions-evolve` or human-curator decision, not an autonomous edit.*
+
+The 2026-06-22 Claude Opus 4.8 outer review ([[reviews/outer-review-2026-06-22-claude-opus-4-8]], Remediation List B, item 8; Deliverable 1) makes a structural observation the positions register currently leaves implicit: the Map mixes claims that are *falsifiable in principle* (animal-consciousness marker attributions, the COGITATE-relevant predictions) with claims that are *constructed to be unfalsifiable* (the Born-rule corridor reading), and a reader cannot tell which is which from the register itself. The review's recommendation — "tag every position with its falsifiability status on the page so a reader can tell which is which" — is the positions-register-grain counterpart to the section-header tag pilot above. Where the pilot tags *empirical-claim density* on article sections, this scheme would tag *falsifiability character* on register entries. The two are complementary: a position can be empirically-engaged (`[Empirical]` section character) yet still be coherence-only at the falsifiability grain if its preferred reading is constructed to survive any test.
+
+The proposed scheme adds one field to the positions-entry template — *Falsifiability* — drawn from a three-value vocabulary:
+
+| Falsifiability tag | Meaning | Register example (illustrative) |
+|---|---|---|
+| **`empirically-falsifiable`** | A specifiable observation would lower the position's confidence or retire it; the "Would shift if" field names a real-world test, not only a conceptual one. | the animal-consciousness scope positions, whose markers are empirically contestable |
+| **`coherence-only`** | The position is held on framework-coherence grounds; no currently-specifiable observation discriminates it from its rivals, and its "Would shift if" turns on conceptual or framework-level developments rather than data. | the convergence-as-coherence methodology positions |
+| **`unfalsifiable-by-construction`** | The position's *preferred reading is chosen because* it is empirically silent; the construction itself is what makes it unfalsifiable, which the discipline treats as a cost to disclose at the entry, not a virtue. | the Born-rule corridor reading in the quantum-interface domain |
+
+The tag is **distinct from the existing Confidence band.** Confidence records *how strongly the Map holds the position*; the falsifiability tag records *what kind of evidence could move it*. The two are orthogonal — a `coherence-only` position can be held at high confidence (the tenet-package's internal coherence is strong) while remaining outside the reach of any discriminating test, and that orthogonality is exactly what the tag makes visible. The tag also composes with each entry's existing **"Would shift if"** field: the field already states the shift conditions, and the tag classifies *whether those conditions are empirical or framework-internal*, so the scheme largely surfaces information the well-formed entries already carry rather than asking the editor to generate new judgements.
+
+The standing risk is the same one the section-header pilot's criterion (c) names: an `unfalsifiable-by-construction` tag could be read as a *disclaimer that licenses* the construction ("we admitted it, so it stands") rather than as a cost flag — the disclosure-instead-of-correction failure mode the Map now holds as [[positions/methodology-and-calibration#P-M5: Disclosure is not self-correction — a discipline binds only as far as the pipeline enforces it|P-M5]]. The scheme therefore stays proposed pending the same test: confirm the tag drives the [[coherence-inflation-countermeasures#Countermeasure 16 (PROPOSED — pending human ratification): The Confession-to-Marker Pipeline|confession-to-marker pipeline]] (a `coherence-only` or `unfalsifiable-by-construction` position whose load-bearing article still frames the claim as evidential support is a marker-emission trigger) rather than standing in for it. Adoption would be a `/positions-evolve` template change plus a one-time back-fill audit assigning a tag to each live position; both are human/`tune-system` decisions, recorded here so the scheme is specified when ratified.
 
 ## Honest Limitation
 

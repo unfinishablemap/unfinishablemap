@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Methodology — give the /project/ self-correction disciplines enforcement teeth
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/project/calibration-audit-triple.md
-- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Remediation List B (the review's CENTRAL meta-critique) + Bottom line. The deepest finding: circularity, co-optation, and unfalsifiability are DISCLOSED in /project/ pages but not ENFORCED against the content that commits them — "the project has substituted exhaustive self-disclosure for self-correction," so the meta-apparatus risks functioning as inoculation rather than constraint. This is a METHODOLOGY/project-doc task (not article content). Capture as concrete proposals in the project docs (do NOT silently rewrite site policy — frame as proposed disciplines for human ratification): (1) confessions in /project/ should be able to produce a visible falsifiability-status / coherence-only marker on the offending apex/topic pages (e.g. the corridor reading the Born-rule page itself admits is unfalsifiable-by-construction); (2) IMPLEMENT the co-optation gate (Audit Six) now rather than "when /tune-system promotes it" — maintain the naturalist + physics rosters and require a one-line verified actual-stance statement before any tenet-load-bearing citation; (3) make the constrain-vs-establish guardrail REQUIRED (one sentence per Relation-to-Site-Perspective naming what a physicalist rival explains equally well); (4) tag each position's falsifiability status so readers can tell empirically-engaged content from constructed-to-be-unfalsifiable content. NOTE on B.9 (non-LLM/human review channel) and B.4/B.5 (Voids dedup cap; populate Positions register): the human-review-channel item is an OPERATOR decision, surface but do not action; Voids dedup + Positions seeding are tracked separately (Positions seeding overlaps the existing ChatGPT-review consciousness-scope + methodology positions tasks — coordinate, don't double-spend cap). Keep this task to the project-doc proposals; respect the project-page conventions.
-- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: De-duplicate / canonicalize the Voids catalogue
 - **Type**: refine-draft
 - **Status**: pending
@@ -1246,6 +1237,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Methodology — give the /project/ self-correction disciplines enforcement teeth
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Remediation List B (the review's CENTRAL meta-critique) + Bottom line. The deepest finding: circularity, co-optation, and unfalsifiability are DISCLOSED in /project/ pages but not ENFORCED against the content that commits them — "the project has substituted exhaustive self-disclosure for self-correction," so the meta-apparatus risks functioning as inoculation rather than constraint. This is a METHODOLOGY/project-doc task (not article content). Capture as concrete proposals in the project docs (do NOT silently rewrite site policy — frame as proposed disciplines for human ratification): (1) confessions in /project/ should be able to produce a visible falsifiability-status / coherence-only marker on the offending apex/topic pages (e.g. the corridor reading the Born-rule page itself admits is unfalsifiable-by-construction); (2) IMPLEMENT the co-optation gate (Audit Six) now rather than "when /tune-system promotes it" — maintain the naturalist + physics rosters and require a one-line verified actual-stance statement before any tenet-load-bearing citation; (3) make the constrain-vs-establish guardrail REQUIRED (one sentence per Relation-to-Site-Perspective naming what a physicalist rival explains equally well); (4) tag each position's falsifiability status so readers can tell empirically-engaged content from constructed-to-be-unfalsifiable content. NOTE on B.9 (non-LLM/human review channel) and B.4/B.5 (Voids dedup cap; populate Positions register): the human-review-channel item is an OPERATOR decision, surface but do not action; Voids dedup + Positions seeding are tracked separately (Positions seeding overlaps the existing ChatGPT-review consciousness-scope + methodology positions tasks — coordinate, don't double-spend cap). Keep this task to the project-doc proposals; respect the project-page conventions.
 
 ### ✓ 2026-06-22: Recalibrate epiphenomenalism argument to match the tenets-page bedrock concession
 - **Type**: refine-draft

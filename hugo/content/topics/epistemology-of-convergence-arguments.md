@@ -21,7 +21,7 @@ description: What makes convergence evidentially significant? Cross-traditional 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 09:15:25+00:00
+last_deep_review: 2026-06-22 07:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

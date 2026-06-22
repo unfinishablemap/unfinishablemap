@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 09:00:00+00:00
+ai_modified: 2026-06-22T07:37:22+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T07:37:22+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[project/coherence-inflation-countermeasures]], [[project/calibration-audit-triple]], [[project/evidential-status-discipline]]
+- **Source**: outer review 2026-06-22 (Claude Opus 4.8), Remediation List B (central meta-critique: "the project has substituted exhaustive self-disclosure for self-correction") + Bottom line. Methodology / project-doc task — recorded four enforcement proposals as **proposed disciplines pending human ratification**; no site policy enacted, no article/apex/position content edited, no live falsifiability markers deployed.
+- **Changes**:
+  - **Proposal 1 (confession → visible marker)** → coherence-inflation-countermeasures, new **Countermeasure 16: The Confession-to-Marker Pipeline (PROPOSED)**. Proposes that a page-located `/project/` confession be *able to emit* a `[Coherence-only]` or `[Unfalsifiable-by-construction]` section-header marker (extending the Externalized Tag Pilot vocabulary) under a 3-part fail-closed emission criterion, with prose-downgrade preferred over marker where it doesn't gut the synthesis. Names the self-shielding risk (marker as inoculation) and gates rollout on the pilot's criterion (c).
+  - **Proposal 2 (implement Audit Six / co-optation gate now)** → calibration-audit-triple, escalation paragraph after the "recorded as proposed" para. Proposes implementing the gate now rather than awaiting `/tune-system`: single `evolution-state.yaml` roster (naturalist + physics-foundations), publisher-of-record verified one-line stance statement (per P-M3) before any tenet-load-bearing roster-name citation, P1 refine-draft on miss.
+  - **Proposal 3 (constrain-vs-establish guardrail REQUIRED)** → calibration-audit-triple, escalation appended to the tenet-use placement-rule para. Proposes a local cycle-frequency lint (Audit-Three class) flagging any tenet-invoking "Relation to Site Perspective" section lacking a rival-parity sentence → P2 refine-draft; one new Key Indicators row. Closes the stated-vs-enforced gap (P-M5) without weakening the declared stance.
+  - **Proposal 4 (tag each position's falsifiability status)** → evidential-status-discipline, new **Falsifiability-Status Tagging for Positions (PROPOSED)** after the tag pilot. Proposes a *Falsifiability* field on the positions-entry template with 3 values (`empirically-falsifiable` / `coherence-only` / `unfalsifiable-by-construction`), orthogonal to Confidence, classifying the existing "Would shift if" field; adoption = `/positions-evolve` template change + one-time back-fill.
+- **Coordination**: referenced (did NOT re-seed) the already-seeded P-M1–P-M5 methodology positions as the commitment layer — P-M5 ("disclosure is not self-correction") as the held commitment these proposals operationalise, P-M3 as the citation-verification standard Proposal 2 invokes. B.9 (non-LLM human review channel) surfaced as an operator decision, not actioned. B.4 (voids dedup-cap) noted as tracked-separately, not actioned. All four proposals cross-link to each other and to the confessing pages so the bridge the review found missing (apex reader never routed to the discount) is part of the proposed mechanism.
+- **Verification**: sync exit 0; new cross-links (P-M5, Countermeasure 16, outer-review) all resolve to live Hugo anchors; no broken-wikilink strips on the three edited docs. No "This is not X. It is Y." cliché. No editor-vocabulary leaked into any article body (all edits confined to `/project/` methodology docs).
+- **Published**: yes (project docs; drafts not applicable — these are live reference docs, additions clearly marked PROPOSED)
 
 ## 2026-06-22T07:32:46+00:00 - refine-draft
 - **Status**: Success

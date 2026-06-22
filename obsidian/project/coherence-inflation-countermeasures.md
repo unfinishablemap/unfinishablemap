@@ -4,7 +4,7 @@ description: "Safeguards against systematic overcommitment when an AI system bot
 created: 2026-01-16
 modified: 2026-06-08
 human_modified: null
-ai_modified: 2026-06-18T05:56:20+00:00
+ai_modified: 2026-06-22T07:37:22+00:00
 draft: false
 topics: []
 concepts:
@@ -460,6 +460,37 @@ Track these metrics across evolution sessions:
 ### Reporting
 
 The `/tune-system` skill should periodically (monthly) generate a coherence health report including these metrics.
+
+## Countermeasure 16 (PROPOSED — pending human ratification): The Confession-to-Marker Pipeline
+
+*Status: proposed, not enacted. The mechanism below is recorded as a candidate discipline; its wiring (skill remits, marker vocabulary, `evolution-state.yaml` thresholds) is a `/tune-system` or human-curator decision, exactly as Audit Six in [[calibration-audit-triple]] is. Nothing in this section is live site policy, and no marker described here is currently deployed on any apex, topic, or position page.*
+
+The 2026-06-22 Claude Opus 4.8 outer review ([[reviews/outer-review-2026-06-22-claude-opus-4-8]], Remediation List B, items 1 and 8; Bottom line) names the structural limit the present document has reached. Countermeasure 15 made the convergence-independence check a blocking gate *inside* synthesis articles, and the Externalized Tag Pilot in [[evidential-status-discipline#Externalized Tag Pilot (2026-05-13 → 2026-05-20)|the evidential-status discipline]] put empirical-density tags at section-header grain. But several `/project/` pages now *confess* a defect — the [[voids-circularity-discount|voids-circularity discount]] concedes "convergence-with-self is not triangulation"; the Born-rule article admits the preferred corridor reading is "unfalsifiable by construction" and books that as "the honest cost, not a strength" — without that confession producing any visible consequence on the page the reader actually lands on. The review's verdict: the project risks "substituting exhaustive self-disclosure for self-correction," so the meta-apparatus can function as inoculation rather than constraint. This is the position the Map now holds as [[positions/methodology-and-calibration#P-M5: Disclosure is not self-correction — a discipline binds only as far as the pipeline enforces it|P-M5 (disclosure is not self-correction)]]; the proposal below is the operationalisation P-M5 would need to stop being a stated intention.
+
+### What the pipeline proposes
+
+A confession in a `/project/` discipline page should be *able to emit* a visible status marker on the offending apex or topic page, so that the reader of the content meets the same calibration the editor has already conceded behind the scenes. Two marker classes:
+
+- **`[Coherence-only]`** — applied at the section-header grain of a synthesis section whose convergence claim has been ruled framework-internal-coherence rather than independent triangulation (the voids-circularity discount's verdict; Countermeasure 15 option (b)). It sits alongside the existing `[Empirical] / [Open] / [Speculative]` pilot vocabulary as a fourth tag reserved for *convergence-as-evidence* claims that have failed the independence check. It says: this section's cumulative-support framing carries the evidential weight of one architecture, not N independent lines.
+- **`[Unfalsifiable-by-construction]`** — applied where a reading is preferred *because* it is empirically silent (the Born-rule corridor is the canonical case). It marks that the section's claim is constructed to survive any empirical test, which the discipline treats as grounds for coherence-only status, not as a credential.
+
+### Criteria for emission
+
+A marker is emitted (proposed) when **all** of the following hold, so the pipeline fails closed without over-tagging:
+
+1. A `/project/` page has recorded a *specific, page-located* confession against the target article — not a general methodological caveat, but a verdict naming the article and the claim (e.g. the voids-circularity discount's ruling on the convergence apex; the Born-rule corridor admission).
+2. The target article's body still frames the claim at a strength the confession contradicts — convergence asserted as evidential support, or an unfalsifiable reading presented without the coherence-only consequence.
+3. The mismatch survives the article's own Countermeasure 15 gate (i.e. the gate did not already downgrade it in prose).
+
+When all three hold, the proposed remediation is *either* a prose downgrade inside the article (the Countermeasure 15 option-(b) rewrite, which then needs no header marker) *or*, where the editor judges that the synthesis legitimately keeps its thesis while owing the reader a standing signal, the header marker. The marker is the weaker, non-destructive form; the prose downgrade is preferred where it does not gut the synthesis. The two are not both applied to the same claim.
+
+### Why this is a countermeasure and not a content edit
+
+The pipeline does not change any article's *argument*; it makes an already-recorded editorial verdict *visible at the point of reading* instead of leaving it discoverable only by a reader who finds the relevant `/project/` page. This is the same move Countermeasure 15 made (discipline migrated from the methodology page into the synthesis article) carried one step further: from the editor's gate into the reader's field of view. The standing risk the Externalized Tag Pilot already flagged applies here too and is the reason this stays proposed — a `[Coherence-only]` tag could itself become a shield ("we tagged it, so we need not rewrite it"), reproducing the very disclosure-instead-of-correction failure it is meant to cure. The pilot's evaluation criterion (c) is the test to run before any rollout: confirm the marker does not license leaving the offending prose standing.
+
+### Relation to the existing machinery
+
+The pipeline composes with rather than replaces the existing controls. Countermeasure 15 is the *gate* (block the unscreened convergence claim at assertion time); the [[voids-circularity-discount]] is the *verdict source* (the recorded confession); this pipeline is the *surfacing mechanism* (carry the verdict to the reader). The bridge the 2026-06-22 review found missing — the apex reader is never routed to the discount — is closed by the marker itself, which should link to the confessing `/project/` page. Implementation would extend the `/deep-review` and `/apex-evolve` remits (which already enforce Countermeasure 15) with a "check for a recorded confession against this article and emit or downgrade" step, and would add a coverage metric to the Key Indicators table: *articles with a recorded `/project/` confession whose page carries neither a prose downgrade nor a status marker* (target 0).
 
 ## Relation to Site Perspective
 
