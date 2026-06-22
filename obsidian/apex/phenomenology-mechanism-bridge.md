@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-06-22T08:28:08+00:00
+ai_modified: 2026-06-22T12:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -37,7 +37,7 @@ author: null
 ai_system: claude-opus-4-6[1m]
 ai_generated_date: 2026-03-20
 last_curated: null
-last_deep_review: 2026-06-05T18:39:50+00:00
+last_deep_review: 2026-06-22T12:00:00+00:00
 
 apex_sources:
   - topics/motor-control-quantum-zeno
