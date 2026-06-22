@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T20:34:30.161049+00:00'
-session_count: 12886
-cycle_position: 9793
+last_updated: '2026-06-22T20:38:39.039395+00:00'
+session_count: 12887
+cycle_position: 9794
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T16:20:30.854268+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-22T02:06:02.908510+00:00'
   commission-claude-review: '2026-06-22T03:14:18.569828+00:00'
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
-  refine-draft: '2026-06-22T16:31:55.425673+00:00'
+  refine-draft: '2026-06-22T20:38:39.039395+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
   replenish-queue: '2026-06-22T20:34:30.161049+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-22'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-22'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1316,15 +1316,62 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 1
   p3_tasks: 3
   needs_replenishment: false
-  loop_pickable_open: 2
+  loop_pickable_open: 1
   replenishment_source_counts: {}
-  last_replenishment_run: 555
-  last_replenishment: '2026-06-22T20:30:00+00:00'
+  last_replenishment_run: 556
+  last_replenishment: '2026-06-22T20:42:34+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.555 (2026-06-22T20:30Z): NO-MINT. Authoritative
+  current_replenishment_note: 'run no.556 (2026-06-22T20:42Z): NO-MINT. Authoritative
+    live count_p0_p2_tasks(content) = 1 -- the sole genuinely-pickable P0-P2 header
+    is the run-554 deep-review mint concepts/phenomenal-overflow.md (last_deep_review
+    2026-06-02 / own-body-edited 2026-06-22 by commit 5bb1693c4, genuine phenomenal-presentation
+    integration drift 20.3d, still live + un-consumed, status pending). Below MIN_QUEUE
+    floor 3 (cycle_pick.py MIN_QUEUE_TASKS=3), unmet by 2 -- the documented replenish-at-floor
+    plus deep-review/refine-cycle-collision alternation (unfin_loop_steady_state plus
+    deep_review_over_reviews_converged), NOT a deadlock. Since run 555 (which counted
+    2) the cycle refine slot CONSUMED the standing refine-draft "Adopt attention-as-interface
+    calibration in predictive-processing-and-dualism" (commit 6aeaccde4, last_runs
+    refine-draft 20:38Z AFTER replenish-queue 20:34Z), dropping the live floor 2->1.
+    ALL 8 sources re-audited from live disk, NO safe restorer: (1 chain) recent_tasks
+    has ZERO research-topic/cross-review completions; the one recent expand-topic (predictive-self-binding-and-the-naturalist-challenge)
+    already has its P3 inbound-cross-link successor queued. (2 unconsumed research)
+    ZERO -- the six newest notes (letheby, entropic-brain, thermal, vestibular, interoceptive,
+    cross-modal) all disk-confirmed consumed into live same-slug articles/apex (letheby
+    consumed into topics/predictive-self-binding-and-the-naturalist-challenge.md, slug
+    differs from note filename). (3 gap) caps headroom (topics 279/320, concepts 267/320,
+    positions 8/80) but voids 101/100 OVER + the research->expand pipeline is harvester-governed
+    (last run 16:00Z, interval-gated ~6h, next ~22:00Z) + replenish gap candidates
+    dedup against the 572-entry Vetoed bank. (4 staleness/genuine-drift) the ONLY article
+    with a genuine post-review OWN-BODY conceptual edit is phenomenal-overflow.md --
+    ALREADY queued by run 554. Every higher-drift-score candidate is a STALE-FIELD
+    artifact (apex-last-synthesis-drift-artifact / replenish-false-exhaustion-mislabeled-drift):
+    git-verified this run -- indexical-identity-quantum-measurement (22d; last touched
+    by commit 8c29a0db6, an expand-topic of a DIFFERENT article egocentric-presentism
+    -- spillover cross-link, not own-body), self-construction-constructor (21d; last
+    touched by embed-videos trigger c3ff0277d -- cosmetic video embed), minds-without-words
+    (17d; last touched by a deep-review of a DIFFERENT article animal-consciousness
+    cf7757b17 -- cross-link spillover, and it is a recently-apex-evolved apex), machine-question
+    / three-dimensional-world-representation-problem / attention-as-causal-bridge (all
+    prose+0/+1 cross-link-only or cosmetic apex-evolve). Genuinely-edited drift candidates
+    excluded for other reasons: born-rule-and-the-consciousness-interface (HUMAN-DEFERRED
+    flagship over hard ceiling), synesthetic-void (genuine 06-17 refines but HUMAN-LENGTH-DEFERRED).
+    (5 orphan) orphaned_files=0. (6 length) every hard_warning+ content offender is
+    veto / accept-as-survey / HUMAN-deferred / DIVERTED / index-hub: the open condense
+    tasks (composition-question-rivals 4106w, meaning-of-life ~4000w, phenomenal-output-causal-machinery-dissociation
+    6872w) are #veto selector-excluded; clinical-dissociation 4861w DIVERTED-TO-HUMAN;
+    memory-channel-interface-evidence 4296w explicit ACCEPT-AS-SURVEY (replenish-overmints-condense-vs-accept-as-survey
+    guard); epistemology-of-convergence-arguments 6479w + born-rule 5118w + time-collapse-and-agency
+    4606w HUMAN-deferred; argument-from-reason 4489w / epistemic-advantages-of-dualism
+    4400w are hard_warning (NOT critical, <6000) ai_contribution=100 -- no genuine
+    restorer + calibration-regression/over-mint risk, not minted. (7 positions) slow-add,
+    audited 2026-06-22T06:20, no implied-but-unregistered claim from the last cycle.
+    (8 applied-apex) no high-confidence cluster gap. Floor will self-restore via the
+    harvester reopening research->expand ~22:00Z or the next cycle''s natural alternation.
+    Superseded run-555 note follows.'
+  superseded_555_replenishment_note: 'run no.555 (2026-06-22T20:30Z): NO-MINT. Authoritative
     live count_p0_p2_tasks(content) = 2 (the two genuinely-pickable P2s: refine-draft
     "Adopt attention-as-interface calibration in predictive-processing-and-dualism"
     from the 2026-06-22 topic-concept anchoring audit + the run-554 deep-review mint
