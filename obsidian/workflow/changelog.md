@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T19:40:57+00:00
+ai_modified: 2026-06-22T20:12:30+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T20:21:59+00:00 - deep-review
+- **Status**: Success (converged no-op, 5th review)
+- **File**: [[concepts/delegatory-causation]]
+- **Word count**: 3466 → 3466 (±0; length-neutral, ~34w under hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verified**: 06-22 refine Torres Alegre preprint caveat (web-verified arXiv:2512.12636, correctly calibrated as argued-not-established); Saad 2025 + Torres Alegre 2025 re-web-verified clean at publisher of record; 06-04 epistemic down-register held; no orphan refs; no superlative-currency drift; no label leakage; calibration clean (no possibility/probability slippage). Reasoning modes: epiphenomenalism Mode One, strict empiricist Mode Three.
+- **Resolved**: out-of-scope Saad "Against Causal Closure" follow-up (carried from 05-29/06-06) now fixed in apex/what-consciousness-tells-us-about-physics.md — item closed.
+- **Output**: [[reviews/deep-review-2026-06-22-delegatory-causation]]
+
+## 2026-06-22T20:12:30+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/machine-question]]
+- **Changed sources**: 9 (load-bearing: new topics/deep-computational-markers-for-machine-consciousness)
+- **Word count**: 5001 → 4960
+- **Review**: [[reviews/apex-evolve-2026-06-22-machine-question]]
 
 ## 2026-06-22T20:11:57+00:00 - tune-system
 - **Status**: Success (no Tier-1 changes — conservative no-op)
