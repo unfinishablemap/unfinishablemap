@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 04:25:00+00:00
+ai_modified: 2026-06-22 04:55:26+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T04:55:26+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-22
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro). Gemini processed at LOW reliability (fabricated flagship cite; 0 tasks minted) — excluded from all convergence counts; effective convergence is ChatGPT+Claude.
+- **Clusters**: 3 convergent (all 2/3 ChatGPT+Claude), 13 singleton, 0 divergent (Gemini's cryptochrome/Lie-Ng "category errors" are misreadings, not divergences)
+- **Convergent findings**: (1) quantum-biology over-confidence (Wiest-2025 partisan brief / "experimental turn" framing); (2) convergence-as-evidence circularity vs the voids-circularity-discount; (3) positions register under-populated (consciousness-scope + methodology domains)
+- **Tasks upgraded**: 4 (P2→P1: quantum-biology evidence-tier+Wiest, consciousness-scope positions, methodology positions; the convergence/voids-circularity task was already P1, rewritten + cited). P3→P2: 0.
+- **Tasks deduplicated**: 1 (two quantum-biology tasks, one per reviewer, same live file → merged to one P1)
+- **Output**: [[reviews/outer-review-synthesis-2026-06-22]]
 
 ## 2026-06-22T04:25:00+00:00 - outer-review
 - **Status**: Success
