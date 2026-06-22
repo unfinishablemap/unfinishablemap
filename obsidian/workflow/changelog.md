@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T17:18:00+00:00
+ai_modified: 2026-06-22T17:29:37+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T17:29:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/altered-states-of-consciousness]]
+- **Scope**: Eighth deep review (convergence-success pass). Genuine-drift verification of the two changes since the thorough 2026-06-02 citation web-verify pass: (1) the 06-22 cross-review integration of fresh concept [[entropic-brain-hypothesis]] (one body sentence + Further Reading link, commit ee9b19898) — calibration verified, Map's gloss explicitly tiered, no possibility/probability slippage; (2) Kerskens second-author surname normalization "Pérez López, D." → "López Pérez, D." (corpus sweep 11c8554f5) — re-confirmed publisher-exact at IOPscience DOI 10.1088/2399-6528/ac94be. Six post-2020 cites already verified 06-02 and References block otherwise unchanged; ledger carried forward.
+- **Word count**: 2828 → 2902 (+74; cross-review content already on disk, this pass made no body edits — frontmatter timestamps only). 116% of 2500 soft, well under 3500 hard.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — length-neutral mode; converged article, both post-06-02 changes verified correct, no manufactured edits
+- **Reasoning-mode**: materialist / sophisticated-production-theorist engagements in natural prose; label-leakage scan clean
+- **Output**: [[reviews/deep-review-2026-06-22-altered-states-of-consciousness]]
 
 ## 2026-06-22T17:18:00+00:00 - deep-review
 - **Status**: Success
