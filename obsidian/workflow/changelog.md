@@ -5,6 +5,17 @@ ai_modified: 2026-06-22 07:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T06:09:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/disguised-property-dualism]]
+- **Word count**: 2337 → 2337 (no change; 93% of 2500 soft threshold, length-neutral)
+- **Critical issues addressed**: 0 (none found — 4th deep review, conceptually converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 prose; certified the corpus-wide Pautz family-resolution (commit d7c642db2) and closed the sole open follow-up item from the 2026-06-08 review
+- **Citation web-verify**: Pautz 2015 (Alter & Nagasawa OUP) and Pautz 2017 (OUP) re-verified real-correct at publisher of record; the unconfirmable "2019 Philosophical Studies" variant confirmed eliminated corpus-wide (russellian-monism, substance-property-dualism, russellian-monism-versus-bi-aspectual-dualism all canonical). Remaining cites carry 2026-06-08 publisher-verified states (Beni 2021 locked vs "Kiefer").
+- **Reasoning modes** (editor-internal): Friston Mode Two; Russellian monism Mode One; IIT Mode Three; self-application critic Mode Three. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-22-disguised-property-dualism]]
+
 ## 2026-06-22T08:15:00+00:00 - positions-evolve (add ×7 across 2 new domains)
 - **Status**: Success
 - **Operation**: Seeded the **consciousness-scope** register (the first of two convergent P1 outer-review tasks; the methodology-and-calibration domain is the separate, coordinated task — no domain overlap, this one is consciousness-SCOPE only). Split into two domain files along the reviewers' heterogeneous-dependency-burden line, which is the central remit of the task and a natural fault that keeps each file under the length thresholds.
