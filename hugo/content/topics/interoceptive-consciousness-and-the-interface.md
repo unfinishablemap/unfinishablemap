@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-06-20 18:30:00+00:00
+ai_modified: 2026-06-22 01:30:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -108,6 +108,8 @@ The Map does not claim interoception settles dualism. It claims that completing 
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
 - [somatic-interface](/concepts/somatic-interface/)
+- [vestibular-consciousness-and-the-interface](/topics/vestibular-consciousness-and-the-interface/) — the other continuously active, rarely felt sense; it inverts the series on a different axis, contributing the spatial frame of experience rather than affect and ownership
+- [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/) — the boundary case: temperature is both exteroceptive and interoceptive at once, testing whether the inward/outward asymmetry this article develops is a clean dichotomy or a gradient
 
 ## References
 

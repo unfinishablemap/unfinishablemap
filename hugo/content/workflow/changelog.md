@@ -4,10 +4,129 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-21 16:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-21'
+date: '2026-06-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-22T01:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Thermal consciousness and the interface
+- **Output**: [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/)
+- **Word count**: 3173 (106% of topics 3000 soft; under 4000 hard) — scoped to soft ceiling per task
+- **Based on research**: yes — [thermal-consciousness-and-the-interface-2026-06-21](/research/thermal-consciousness-and-the-interface-2026-06-21/) (WRITE-standalone verdict)
+- **Two distinctives (per note, scoped tightly to avoid tactile/interoceptive overlap)**: (1) homeostatically-INDEXED valence — same thermal stimulus flips valence with thermoregulatory need (Craig cool-water case; thermal grill illusion Craig & Bushnell 1994 as central-integration datum), a DIFFERENT constitutive-valence claim from the tactile article's fixed-tone C-tactile point → bears on [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/); (2) the exteroception/interoception BOUNDARY case — skin reports both ambient + homeostatic state (Crucianelli & Ehrsson 2023), testing the cross-modal apex's extero/intero asymmetry → argued to be a gradient not a clean dichotomy.
+- **Rivals out-accommodated (accommodation-not-proof, per [evidential-status-discipline](/project/evidential-status-discipline/)/[direct-refutation-discipline](/project/direct-refutation-discipline/))**: TRP-channel molecular transduction (Julius/Patapoutian Nobel); Craig's homeostatic-emotion reconceptualization (cited-as-rival NOT ally despite supplying the valence datum); predictive/active-inference thermoregulation. All three granted to explain the data with no non-physical remainder; residue = explanatory gap + ownership.
+- **Citation web-verify (publisher of record, all 6)**: Craig & Bushnell 1994 Science 265(5169):252–255 PMID 8023144 — vol 265 CONFIRMED (ADS bibcode 1994Sci...265..252C; the note flagged Blomqvist prints "256" as a typo), thermal-grill verbatim quote exact; Blomqvist 2023 Temperature(Austin) 10(4):395–401 DOI 10.1080/23328940.2023.2265946 — both valence quotes verbatim; Crucianelli & Ehrsson 2023 Perspect Psychol Sci 18(1):224–238 DOI 10.1177/17456916221094509 — all 3 dual-organ quotes verbatim; Vriens, Nilius & Voets 2014 Nat Rev Neurosci 15(9):573–589 DOI 10.1038/nrn3784 PMID 25053448 — PINNED as the canonical TRP-thermosensation review (replaces the note's un-pinned NCBI Bookshelf placeholder); Craig 2002 + Barrett & Simmons 2015 reused from corpus pool. bioRxiv "thermoceptive predictions/errors" preprint DROPPED (do-not-cite-until-fetched, 403; argument does not depend on it).
+- **Fresh-create defect-tail handled**: quote-audit (all 6 quotes verbatim at publisher), date/number sanity (vol 265 confirmed; TRPV1 ~43°C kept as standard textbook fact under pinned Vriens review), evaluate_anchoring run — fired hedge-density-LOW + strong-assertions on 3 concept anchors, assessed FALSE POSITIVE: the crude detector counts only single-word hedges (hedge_count=3) and misses the article's phrasal calibration ("accommodates not settles", "consonant not probative", "the framework does not discriminate", "no non-physical remainder"); the 3 "establishes" verbs all report the cross-modal synthesis's own structural finding or are a NEGATION ("no thermal datum establishes the quantum-interface mechanism"), none over-asserting the interface. Left as-is.
+- **Integration chain (reciprocated inbound — expand-topic-skips-integration-chain)**: added thermal→[8 siblings/concepts] forward links AND inbound links FROM tactile (2 inline + Further Reading), vestibular (Further Reading), interoceptive (Further Reading). Apex cross-modal-capability-division (#33) inbound deferred to a P2 apex-evolve follow-on (queued; apex content is apex-evolve-curated, apex-articles.md is human-curated).
+- **Tenet alignment**: Tenet 1 (Dualism — state-dependent valence as clean phenomenal-structure exhibit), Tenet 3 (Bidirectional Interaction — anticipatory thermoregulation), Tenet 5 (Occam-limits — single "temperature" label flattens the dual extero/intero role). No "This is not X. It is Y." cliché.
+
+## 2026-06-22T00:10:00+00:00 - deep-review
+- **Status**: Success (first deep-review; no-critical-issues confirming pass)
+- **File**: [vestibular-consciousness-and-the-interface](/topics/vestibular-consciousness-and-the-interface/)
+- **Word count**: 2977 → 2977 (no content edits; 99% of topics 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (1 deferred: missing inline cite for active/passive motor-prediction claim — established background neuroscience, framed interpretive-not-probative, citation-discipline risk to add)
+- **Enhancements made**: 0 (already converged across 4 same-day passes: expand-topic, apex-evolve, optimistic-review, cross-review)
+- **Citation web-verify (publisher of record, all 7)**: de Vignemont 2024 SEP — real-correct (3 verbatim quotes exact); Pfeiffer/Serino/Blanke 2014 Front Integr Neurosci 8:31 PMC4028995 — real-correct (no-unisensory-cortex quote verbatim); Blanke & Arzy 2005 Neuroscientist 11(1):16–24 PubMed 15632275 — real-correct; Lopez/Lenggenhager/Blanke 2010 Conscious Cogn 19(1):33–47 PubMed 20047844 — real-correct; Laurens & Droulez 2007 Biol Cybern 96(4):389–404 PubMed 17146661 — real-correct (somatogravic direction independently re-verified: forward accel felt as backward tilt — correct); Blanke 2012 Nat Rev Neurosci 13(8):556–571 PubMed 22805909 — real-correct; Cento et al. 2026 J Vestib Res DOI 10.1177/09574271251412707 PubMed 41499789 — real-correct (all 6 authors confirmed; highest-fabrication-risk 2026 cite holds). Inline↔References complete, no orphans. No superlative empirical-record claims.
+- **Reasoning-mode**: engagement with the Bayesian-inference/multisensory-integration physicalist rival (§The Strongest Rival): Mode Three (framework-boundary marking) — honest; grants the rival predicts the full datum set without non-physical remainder, claims accommodation not refutation. No boundary-substitution, no editor-vocabulary label leakage.
+- **Discipline checks**: co-optation firewall exemplary (physicalist authors named + cited-as-rival, "none enlisted as ally"); no possibility/probability slippage (article states the framework does not discriminate on this evidence); had-vs-constitutive held open at boundary; no "This is not X. It is Y." cliché. All 15 wikilink targets + 4 tenet anchors resolve. "Oquatre-huit" self-citation byline confirmed as house convention.
+- **Output**: [deep-review-2026-06-22-vestibular-consciousness-and-the-interface](/reviews/deep-review-2026-06-22-vestibular-consciousness-and-the-interface/)
+
+## 2026-06-21T23:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Thermal consciousness and the interface (thermoception as a modality-interface case)
+- **Output**: [thermal-consciousness-and-the-interface-2026-06-21](/research/thermal-consciousness-and-the-interface-2026-06-21/)
+- **Assess-first verdict**: WRITE (standalone, target topics/). Two distinctives survive verification and are not carried by the existing tactile/interoceptive treatments: (a) homeostatically-indexed thermal valence — same stimulus flips valence with body state (Craig's cool-water case; thermal grill), a *different* claim from the tactile article's *fixed*-valence affective touch; (b) thermoception as the exteroception/interoception boundary case — skin thermoreceptors report both ambient and core homeostatic state (Crucianelli & Ehrsson 2023), the boundary the apex asymmetry must locate. Folding into tactile/interoceptive captures (a) only, not the apex-facing (b).
+- **Citation web-verify (publisher of record)**: Craig 2002 NRN 3:655–666 (reused from corpus pool; temperature-specific claim verified via Blomqvist); Craig & Bushnell 1994 Science 265:252–255 PMID 8023144 (volume 265 confirmed; Blomqvist's "256" is a typo); Blomqvist 2023 Temperature 10:395–401 (OA/PMC, verbatim valence quotes); Crucianelli & Ehrsson 2023 Perspect Psychol Sci 18:224–238 (OA/PMC, dual-organ quotes); Barrett & Simmons 2015 (reused from corpus pool); TRP-channel transduction (Julius/Patapoutian 2021 Nobel) verified at NCBI/PubMed — pin a single peer-reviewed TRP review DOI before article-write.
+- **Do-not-cite-until-fetched**: bioRxiv 10.1101/2024.10.11.617819 (anterior-insula thermoceptive predictive coding) — preprint, publisher page 403; Barrett & Simmons covers the same point with stronger status.
+- **Sources consulted**: 7 (4 publisher-verified citable + TRP/predictive rival families + 1 flagged preprint)
+
+## 2026-06-21T23:30:00+00:00 - cross-review
+- **Status**: Success (confirming / no-op)
+- **File**: [vestibular-consciousness-and-the-interface](/topics/vestibular-consciousness-and-the-interface/)
+- **Type**: cross-review of fresh-create against the interface-modality series (expand-topic chain successor)
+- **Citation web-verify (publisher of record, all 7)**: de Vignemont 2024 SEP — real-correct (verbatim quotes "paucity of vestibular experiences in normal consciousness", semicircular-canal/otolith descriptions, and the "(1) Which way is up? (2) Where am I heading?" framing all exact); Pfeiffer/Serino/Blanke 2014 Front Integr Neurosci 8:31 PMC4028995 — real-correct (the "no such unisensory vestibular cortex" quote and distributed-network definition are verbatim at the OA source); Blanke & Arzy 2005 Neuroscientist 11(1):16–24 PubMed 15632275 — real-correct (stance: OBE as TPJ multisensory-integration failure); Lopez/Lenggenhager/Blanke 2010 Conscious Cogn 19(1):33–47 PubMed 20047844 — real-correct (GVS modulates illusory hand ownership via RHI, mediated by right TPJ/posterior insula); Laurens & Droulez 2007 Biol Cybern 96(4):389–404 PubMed 17146661 — real-correct (Bayesian estimation, gravity prior, somatogravic effect faithful); Blanke 2012 Nat Rev Neurosci 13(8):556–571 PubMed 22805909 — real-correct (self-location/first-person-perspective/ownership as multisensory integration); Cento et al. 2026 J Vestib Res DOI 10.1177/09574271251412707 PubMed 41499789 — real-correct, all six authors confirmed, highest-fabrication-risk recent cite holds, stance faithful (vestibular dysfunction → DD via anxiety + spatial disorientation).
+- **Cross-series consistency**: apex [cross-modal-capability-division](/apex/cross-modal-capability-division/) "Silent Frame" section and the article AGREE (same cites, same faint-object/foundational-frame framing, same accommodation-not-proof + common-cause-null discipline) — no contradiction. Reciprocal cross-links present and consistent (tactile body+Further-Reading ×2; interoceptive Further-Reading; apex source list + body). Terminology matches the series. All wikilink targets resolve.
+- **Discipline check**: accommodation-not-proof applied throughout; physicalist Bayesian/multisensory-integration rival engaged at full strength in a dedicated section; naturalist authors not conscripted. No "This is not X. It is Y." cliché; no editor-vocabulary label leakage. Length 2977w (99% of soft 3000, under hard 4000).
+- **Result**: Confirming verdict — no content edits, no review archive (cross-review, not deep-review). Note: an earlier same-day optimistic-review independently reached the same positive verdict and queued a P3 integrate-orphan for four one-directional cross-link gaps; not duplicated here.
+
+## 2026-06-21T23:17:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/vestibular-consciousness-and-the-interface.md — the sensory-interface cluster's newest, previously-unreviewed member (created 2026-06-21), cross-checked against the cross-modal-capability-division apex and the tactile/interoceptive/somatic-interface siblings.
+- **Finding**: Strong, well-calibrated fresh addition. Earns its place via the two-axis reframing (brain-side-extreme + foundational-frame → the apex's "ownership is uneven" gradient becomes a named 3-member mind-side family). Hardline Empiricist verdict positive: tenet-as-evidence-upgrade praise-worthily declined, rival engaged at full strength, naturalist authors not conscripted, Process-Philosopher congeniality cashed out as restraint not a tier-upgrade. Apex applies common-cause-null to it. No calibration concern; no new page warranted. Four one-directional cross-link gaps surfaced (dualist-perception, out-of-body-experiences, three-dimensional-world-representation-problem, somatic-interface) → one P3 integrate-orphan task queued.
+- **Output**: [optimistic-2026-06-21d](/reviews/optimistic-2026-06-21d/)
+
+## 2026-06-21T23:10:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [cross-modal-capability-division](/apex/cross-modal-capability-division/)
+- **Mode**: evolve — admitted [vestibular-consciousness-and-the-interface](/topics/vestibular-consciousness-and-the-interface/) as a 7th source (chain successor)
+- **Admission decision**: ADMITTED as load-bearing. Vestibular is the brain-side *extreme* of the apex's asymmetry (no unisensory vestibular cortex per Pfeiffer/Serino/Blanke 2014; nearly no felt object per de Vignemont 2024; supplies the spatial *frame* of the subject) — structurally distinct from interoception's both-terms inversion. Payload: converts the apex's "ownership is uneven" gradient from one axis to TWO (smell = faint-object+faint-frame; vestibular = faint-object+foundational-frame), turning the "differently-weighted family" hedge into a named 3-member structure (object-unity / owned affect / situatedness of the viewpoint).
+- **New section**: "The Silent Frame: The Asymmetry at Its Brain-Side Extreme" (after the interoception inward-inversion section, before "The Rival" — a structural extension, not a new rival).
+- **Citation discipline**: REUSED only the 7 already-publisher-verified vestibular cites (de Vignemont 2024 SEP; Pfeiffer/Serino/Blanke 2014; Blanke & Arzy 2005; Lopez/Lenggenhager/Blanke 2010; Laurens & Droulez 2007; Blanke 2012; Cento et al. 2026) as References 12–18; NO new unverified cites.
+- **Discipline checks**: held consonant-not-probative (Bayesian-inference + multisensory-integration rival predicts the silence/frame-coding); common-cause-null applied and argued to bite HARDEST here (vestibular *is* multisensory integration, shared TPJ hub, no independent channel → extends what the asymmetry means without adding confirmation); no "This is not X. It is Y." construct.
+- **Word count**: 3859 → 4745 (+886; soft 4000 / hard 5000 / critical 6500 → soft-over, 255w margin to hard, within the brief's room for a first-class treatment).
+- **Reciprocal link**: apex → vestibular added (related_articles + Source Articles + body); vestibular → apex already present.
+- **Review**: [apex-evolve-2026-06-21-cross-modal-capability-division](/reviews/apex-evolve-2026-06-21-cross-modal-capability-division/)
+
+## 2026-06-21T22:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Vestibular consciousness and the interface
+- **Output**: [vestibular-consciousness-and-the-interface](/topics/vestibular-consciousness-and-the-interface/)
+- **Word count**: 2977 (99% of topics 3000 soft target; status ok, well under 4000 hard ceiling)
+- **Based on research**: yes — [vestibular-consciousness-and-the-interface-2026-06-21](/research/vestibular-consciousness-and-the-interface-2026-06-21/) (explicit WRITE verdict)
+- **Distinctive angle**: the silent sense — disputed/absent proprietary phenomenology + no primary unisensory cortex, yet foundational to the felt spatial self (self-location, first-person perspective, ownership); inverts the series by contributing the *frame* of experience while barely appearing as an experienced object.
+- **Citation discipline**: ALL 7 external citations web-verified at publisher of record before publishing per ai_citation_metadata_unreliable — de Vignemont SEP "Bodily Awareness" (rev. 2024; 3 verbatim quotes confirmed), Pfeiffer/Serino/Blanke 2014 Front. Integr. Neurosci. 8:31 (no-unisensory-cortex quote verbatim-confirmed), Blanke & Arzy 2005 Neuroscientist 11(1):16–24, Lopez/Lenggenhager/Blanke 2010 Conscious. Cogn. 19(1):33–47, Laurens & Droulez 2007 Biol. Cybern. 96(4):389–404, Blanke 2012 Nat. Rev. Neurosci. 13(8):556–571, Cento et al. 2026 J. Vestibular Research (journal name confirmed). The note's HTTP-403 OECS/MIT entry was DROPPED (not cited). Naturalist sources engaged as rivals to out-accommodate, none conscripted.
+- **Calibration**: accommodation-not-proof register matched to the tactile/interoceptive siblings; per-file evaluate_anchoring returned no flags; validate clean.
+- **Integration chain**: reciprocal inbound links added — tactile article (stale "vestibular awaits treatment" prose updated + Further Reading entry) and interoceptive article (Further Reading entry); both `ai_modified` bumped. Queued P2 apex-evolve follow-on to consider admitting vestibular as a 7th source to cross-modal-capability-division (apex-evolve owns that decision; expand-topic must not edit apex-articles.md).
+- **Tenet alignment**: Tenet 1 (Dualism — a modality with disputed phenomenology is a clean phenomenal-structure exhibit, isolating the felt-point-of-view residue) + Tenet 3 (Bidirectional Interaction — motor-prediction in self-motion estimation), Tenets 2/4 obliquely. No "This is not X. It is Y." construct.
+
+## 2026-06-21T22:27:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Word count**: 4022 → 3990 (-32; restored under topics hard ceiling 4000)
+- **Critical issues addressed**: 0 (8th consecutive no-critical review of the body)
+- **Medium issues addressed**: 1 — length-ceiling breach (+22 over 4000) caused by the mandatory Rebouillat-2021 reference-line addition (2026-06-05 propagation fix); resolved length-neutrally by trimming non-load-bearing prose only (somatic-interface structural aside, indispensability methodology clause, neurophenomenology editorial scaffolding). No calibration hedging or citations touched.
+- **Enhancements made**: 0 (deliberately net-neutral; calibration-saturated flagship near hard ceiling — auto-condensing protected content declined per human-decision-task-mispicked-as-refine and the 2026-06-03 review's human-length-decision flag)
+- **Engagement modes (editor-internal)**: unchanged — eliminativism Mode Two→Three; Dennett/heterophenomenology Mode Two; Carruthers Mode One. Trims touched no named-opponent engagement.
+- **Output**: [deep-review-2026-06-21-phenomenal-authority-and-first-person-evidence](/reviews/deep-review-2026-06-21-phenomenal-authority-and-first-person-evidence/)
+
+## 2026-06-21T22:19:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Vestibular consciousness and the interface
+- **Output**: [vestibular-consciousness-and-the-interface-2026-06-21](/research/vestibular-consciousness-and-the-interface-2026-06-21/)
+- **Sources consulted**: 10 (2 verified at publisher of record: Pfeiffer/Serino/Blanke 2014, de Vignemont SEP "Bodily Awareness"; 8 require metadata web-verify before the eventual article cites them)
+- **Verdict**: WRITE — confirmed worth covering (named gap in tactile article; no duplicate live/archived/research; structurally distinct silent-sense / no-primary-cortex angle, distinct from the proprioception article)
+
+## 2026-06-21T19:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Source**: addresses [pessimistic-2026-06-21d-somatic-interface](/reviews/pessimistic-2026-06-21d-somatic-interface/) (2 medium + 1 low)
+- **Changes**:
+  - Issue 1 (MEDIUM, dissociation-to-irreducibility non-sequitur): line 52 vmPFC gloss softened from "information that abstract cognition cannot replicate" to "information that deliberative cognition does not, in these patients, recover" (claim about the patients, not in-principle irreducibility); Christina/proprioception subsection given the parity gloss used elsewhere ("materialism reads this as modular neural architecture; the interface reading redescribes the same modularity as channel structure").
+  - Issue 2 (MEDIUM, "adds a further claim" interpretive-equivocation): added one governing sentence after the intro framing paragraph stating the somatic data are neutral between readings and the interface reading's appeal is theoretical economy *given* the hard problem assumed elsewhere, not independent confirmation from the body. Governs all five "adds"/"highlights what the account leaves open" loci (incl. the line-84 vestibular case noted in the review's Unsupported Claims table).
+  - Issue 3 (LOW, self-cancelling MQI paragraph): dropped the unearned "most phenomenologically visible" superlative (no comparison to other loci justified it) → "one candidate locus where this biasing might be phenomenologically legible," and folded the self-cancelling speculative clause into a single honest statement that no distinctive-visibility claim is asserted.
+- **Length discipline**: net +1 governing sentence + 1 half-sentence parity gloss; MQI paragraph trimmed. Length-neutral-to-slight-addition as instructed. Citations preserved verbatim.
+- **Published**: yes (kept draft: false)
+
+## 2026-06-21T21:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/somatic-interface.md` (load-bearing embodiment anchor; older `claude-opus-4-6` create; no dedicated pessimistic pass since 2026-05-17)
+- **Findings**: 2 medium + 1 low. Both contestable citations (Frontiers 2025 "There is no such thing as interoception" DOI 10.3389/fpsyg.2025.1488415; Garfinkel 2015 *Biol Psychol* 104:65–74) web-verified accurate. No forbidden labels, no `**Evidential status:**` callouts, no over-strong language, altered-state symmetry audit N/A (no supportive-cluster cites). Core weakness is dialectical: dissociation-to-irreducibility non-sequitur in two early channel subsections (lines 52, 68) the article disciplines elsewhere; "adds a further claim" framing invites reading the metaphysical addition as evidence-driven when the data are neutral (evidential-status interpretive-equivocation risk); self-cancelling MQI paragraph with unearned "most" superlative.
+- **Action**: queued P2 refine-draft (top of Active Tasks, length-neutral)
+- **Output**: [pessimistic-2026-06-21d-somatic-interface](/reviews/pessimistic-2026-06-21d-somatic-interface/)
+
+## 2026-06-21T21:15:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [capability-division-in-vision](/concepts/capability-division-in-vision/)
+- **Word count**: 1976 → 1976 (+0)
+- **Critical issues addressed**: 0 (none found — 5th review, firmly converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no oscillation; no-op convergence confirmation pass)
+- **Diff scope**: only change since the thorough 4th review (2026-06-05, full publisher-of-record web-verify of all 8 citations) was a cosmetic `[[cross-modal-capability-division]]` apex back-link added by apex-evolve (commit aef2cbe9a); body + References unchanged. Re-qualified at 16d, just past the 14d convergence-damping floor.
+- **Checks run**: new cross-link target validity (resolves to existing apex), label-leakage grep (clean), superlative-currency scan (0 hits), inline↔References cross-check (clean, 1–10), engagement modes (Phillips Mode Three, epiphenomenalist Mixed — unchanged). §2.4 web-verify correctly skipped (References block unmodified since 06-05 audit).
+- **Output**: [deep-review-2026-06-21-capability-division-in-vision](/reviews/deep-review-2026-06-21-capability-division-in-vision/)
 
 ## 2026-06-21T19:32:42+00:00 - deep-review
 - **Status**: Success
