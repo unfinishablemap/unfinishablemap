@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-06-22T08:28:08+00:00
+ai_modified: 2026-06-22T19:40:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-15
 last_curated: null
-last_deep_review: 2026-06-02T23:20:03+00:00
+last_deep_review: 2026-06-22T19:40:57+00:00
 
 apex_sources:
   - topics/the-psychophysical-control-law
