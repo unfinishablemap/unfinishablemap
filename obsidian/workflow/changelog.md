@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T07:37:22+00:00
+ai_modified: 2026-06-22T07:45:21+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T07:45:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-social-understanding]]
+- **Word count (body)**: 3612 → 3612 (no change — length-neutral converged pass, frontmatter timestamps only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sixth review; converged. Selector resurfaced it at 19 days on a genuine changed-since-review signal: the 2026-06-13 expand-topic added a substantive "Developmental Arc of Shared Intentionality" section (~280 words). Scrutiny focused on that new content. Tomasello (2019) developmental claims (joint intentionality ~9mo, collective ~age 3, "dual-level" structure) web-verified faithful at review-of-record (Karger *Human Development* + MIT OECS). New section is a model of calibration discipline — explicitly declines to treat milestones as confirmation ("removes a defeater… not an independent confirmation"); no possibility/probability slippage, no source/Map conflation, no label leakage. All five new cross-link anchors resolve. 2026-06-13 refine-draft repoint (epistemology-of-other-minds-under-dualism → problem-of-other-minds#The Dualist's Dilemma) verified correct. Engagement with developmental-behaviourist reading: Mode Three (honest boundary-marking). Workflow note: the expand-topic commit was mislabeled (expanded existing articles, created no standalone "ontogeny" article) — operator awareness only, no dangling links.
+- **Output**: [[reviews/deep-review-2026-06-22-consciousness-and-social-understanding]]
 
 ## 2026-06-22T07:37:22+00:00 - refine-draft
 - **Status**: Success

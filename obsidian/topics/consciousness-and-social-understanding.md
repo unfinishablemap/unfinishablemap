@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-06-13T13:46:48+00:00
+ai_modified: 2026-06-22T07:45:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-06-03T07:19:14+00:00
+last_deep_review: 2026-06-22T07:45:21+00:00
 coalesced_from:
   - "/topics/consciousness-and-social-cognition/"
   - "/topics/consciousness-and-interpersonal-understanding/"
