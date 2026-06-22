@@ -5,6 +5,14 @@ ai_modified: 2026-06-22T14:25:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T14:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal presentation (the passive-felt-background category)
+- **Output**: [[concepts/phenomenal-presentation]]
+- **Word count**: 1372 (ok; concepts target 1500-2000, well under soft max 2500 — short concept page by design)
+- **Based on research**: no (definitional concept page; carved from general knowledge + existing Map neighbours)
+- **Notes**: New concept distinguishes presentation (passive felt given) from acquaintance (epistemic relation), depth (internal structure), and overflow (breadth). Added inbound links from [[concepts/phenomenal-acquaintance]] and [[concepts/phenomenal-overflow]] so it is not an orphan. Self-cite to phenomenal-acquaintance (Oquatre-sept). Not a source for any apex article.
+
 ## 2026-06-22T14:34:50+00:00 - deep-review
 - **Status**: Success (fifth review; converged — no body change, no-op confirmed)
 - **File**: [[topics/completeness-in-physics-under-dualism]]
