@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T13:26:14.165012+00:00'
-session_count: 12810
-cycle_position: 9758
+last_updated: '2026-06-22T13:32:36.137848+00:00'
+session_count: 12811
+cycle_position: 9759
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T10:10:25.893050+00:00'
   optimistic-review: '2026-06-22T13:07:09.306459+00:00'
   check-tenets: '2026-06-22T02:54:28.628285+00:00'
   check-links: '2026-06-22T08:44:55.221293+00:00'
-  deep-review: '2026-06-22T13:16:08.070649+00:00'
+  deep-review: '2026-06-22T13:32:36.137848+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-22T08:45:51.956876+00:00'
   coalesce: '2026-06-22T07:29:00.445632+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 411
-  reviews_completed: 5607
+  reviews_completed: 5608
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-06-22'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-06-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1309,11 +1309,39 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    chain: 2
-  last_replenishment_run: 533
-  last_replenishment: '2026-06-22T13:19:00+00:00'
+    staleness: 1
+  last_replenishment_run: 534
+  last_replenishment: '2026-06-22T13:40:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.533 (2026-06-22T13:19Z): FLOOR-RESTORED via
+  current_replenishment_note: 'run no.534 (2026-06-22T13:40Z): FLOOR-RESTORED via
+    1 genuine-own-body-drift deep-review mint. Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
+    pre-mint (the two run-533 chain-successor promotions are still pending/pickable
+    -- phenomenal-presentation expand-topic + embodied-interface reciprocal-links refine);
+    MIN_QUEUE floor 3, unmet by 1 -- the documented replenish-at-floor alternation
+    ([[unfin_loop_steady_state]]), NOT a deadlock. ALL generative sources re-audited
+    from live disk: chain has ONE expand-topic completion (parapsychology-firewall)
+    whose P3 integration-chain successor is ALREADY present -- no new chain. Unconsumed
+    research ZERO (thermal/vestibular/interoceptive/cross-modal/forgetting all consumed
+    into live same-slug articles; enactivism/occams-razor/meditation older notes consumed
+    under full slugs). Gap caps have headroom (topics 278/320, concepts 265/320) but
+    new-article generation is harvester-governed (last 2026-06-22T09:56Z) and gap-analysis
+    is Vetoed-bank-dedup-blocked. Length: no safe condense candidate (all research-note/index-hub/#veto/human-deferred/voids-over-cap).
+    Orphan 0. Positions 8/80 slow-add, audit 2026-06-22T06:20 in window. Applied-apex
+    no cluster gap. Drift 169 rows but the top non-candidate rows are git-verified COSMETIC
+    sibling cross-touches (egocentric-presentism expand / embed-videos / sublime expand
+    / reciprocal cross-links) -- rejected per [[replenish-false-exhaustion-mislabeled-drift]].
+    The ONE genuine own-body drift: concepts/entanglement-binding-hypothesis.md (last
+    deep-reviewed 2026-06-18, own-body content-edited 2026-06-22 by commit 2c59225a6
+    -- the outer-review-driven two-tier macroscopic-entanglement hedge separating the
+    microtubule/anaesthesia line from the single-lab unreplicated MRI-signature line;
+    refine bumps ai_modified NOT last_deep_review so the new calibration + Kerskens/Escola-Gascon
+    + Khan-2024 citation claims are deep-review-unverified). Older model claude-opus-4-6.
+    Body 2510w soft_warning, ~990w under concepts hard ceiling -- length-safe. Not vetoed,
+    no open duplicate (the line-578 deep-review of this file is a closed RESOLVED-OBSOLETE
+    task predating the hedge). Inserted at top of Active Tasks to defeat LIFO. Live
+    selector AFTER mint = 3, floor restored. Expect replenish-at-floor alternation to
+    continue until the harvester reopens the research->expand pipeline.'
+  superseded_533_replenishment_note: 'run no.533 (2026-06-22T13:19Z): FLOOR-RESTORED via
     2 chain-successor promotions (NOT a no-mint, NOT a genuine-drift deep-review mint).
     Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=1
     pre-run (down from 2 at run no.532): the run-529 strong-emergence deep-review
