@@ -1194,6 +1194,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-22
 
+### P2: Integrate orphan topics/parapsychology-firewall.md (add inbound cross-links)
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Fresh create 2026-06-22 (commit `d590202f`, expand-topic from the 2026-06-22 ChatGPT outer review). The new article has ZERO inbound content links — confirmed near-orphan ([[expand-topic-skips-integration-chain]]: expand-topic forks reliably skip the integration chain). Add one inbound cross-link from each natural home (VERIFY-FIRST per [[out-of-scope-spillover-flags-stale]] — grep each target for an existing link before adding; do NOT duplicate; LENGTH-NEUTRAL — frontmatter `related_articles` + at most a one-clause body mention): (1) `topics/selection-only-mind-influence` — the firewall article self-cites it (Oquatre-sept 2026-05-05); reciprocate, since the firewall is the demarcation consequence of selection-not-push. (2) `concepts/quantum-consciousness` — the firewall gives Tenet 2's "quantum woo" demarcation a structural (not reputational) basis; link at the demarcation passage. (3) `apex/born-preserving-causal-efficacy` (apex #34) — shares the Born-statistics-preservation (P-Q2) constraint; the firewall is the parapsychological face of the same efficacy problem. (4) `topics/presentiment-and-retrocausality` and/or `topics/out-of-body-experiences` — psi-adjacent topics that should point at the firewall principle as the Map's stance on spectacular psi. (5) consider `tenets/tenets.md` Tenet 2 if a light reference fits. Pick the 3–4 strongest; don't force weak links. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the firewall IS the demarcation). ai_contribution=100.
+- **Source**: expand-topic integration chain
+- **Generated**: 2026-06-22
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
