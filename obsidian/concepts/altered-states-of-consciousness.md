@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-22T16:48:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,7 +81,7 @@ A sophisticated production theorist would note that propofol and ketamine act on
 
 The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics relax high-level predictive constraints—the brain's expectations become less rigid, allowing bottom-up sensory information greater influence (Carhart-Harris & Friston, 2019).
 
-Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [[neural-correlates-of-consciousness#The Default Mode Network|default mode network]]) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally.
+Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [[neural-correlates-of-consciousness#The Default Mode Network|default mode network]]) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally. The [[entropic-brain-hypothesis|entropic brain hypothesis]] quantifies this reorganisation as a rise in neural entropy toward a critical point—a dynamical measure that tracks the richness of the state without explaining why it is felt, which the Map reads as a widening of the filter's bandwidth rather than as production.
 
 The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [[decoherence]] objection that thermal noise should destroy superpositions almost instantly. However, Kerskens and López Pérez (2022) reported MRI signals they interpret as consistent with quantum entanglement in living human brains, though the result remains contested—critics note the signals may have classical explanations. If confirmed, this would suggest the decoherence problem may be less prohibitive than Tegmark calculated.
 
@@ -172,6 +172,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [[comparative-consciousness-and-interface-differences]] — Does the interface vary across states and species?
 - [[anaesthesia-and-the-consciousness-interface]] — How anaesthetic agents reconfigure the consciousness interface
 - [[psychedelics-and-the-filter-model]] — Dedicated treatment of psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
+- [[entropic-brain-hypothesis]] — Neural entropy and brain criticality as a quantitative signature of conscious richness, read as filter bandwidth
 - [[contemplative-practice-as-philosophical-evidence]] — Contemplative practices as evidence for irreducible consciousness
 - [[clinical-phenomenology-and-altered-experience]] — How psychiatric conditions reveal the hidden architecture of consciousness
 - [[death-and-consciousness]] — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness

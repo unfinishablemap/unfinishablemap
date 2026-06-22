@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-06-20T10:15:22+00:00
+ai_modified: 2026-06-22T16:48:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ Neuroimaging studies of psychedelic states show *decreased* activity in the [[de
 
 A physicalist would object: different neural processing simply produces different experience. What makes the filter interpretation attractive is coherence with the [[hard-problem-of-consciousness|hard problem]]—even perfect neural mapping leaves unexplained *why* there is something it is like to undergo these processes.
 
-Filter theory interprets this as follows: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*. This aligns with recent REBUS models (Relaxed Beliefs Under Psychedelics): what's being relaxed is the constraining function that restricts experience to a biologically useful subset. [[psychedelics-and-the-filter-model|The dedicated psychedelics article]] develops this evidence and its limits in detail, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. The [[edge-states-and-void-probes]] article examines whether filter-loosening provides genuine access to territories closed to ordinary consciousness.
+Filter theory interprets this as follows: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*. This aligns with recent REBUS models (Relaxed Beliefs Under Psychedelics): what's being relaxed is the constraining function that restricts experience to a biologically useful subset. The [[entropic-brain-hypothesis|entropic brain hypothesis]] supplies the quantitative counterpart—neural entropy near a critical point as a signature of conscious richness, which the Map re-reads as filter bandwidth. [[psychedelics-and-the-filter-model|The dedicated psychedelics article]] develops this evidence and its limits in detail, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. The [[edge-states-and-void-probes]] article examines whether filter-loosening provides genuine access to territories closed to ordinary consciousness.
 
 ### The Anesthetic Divergence
 
@@ -196,9 +196,10 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 - [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural brain damage
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: five altered states converging on multi-channel filter architecture
 - [[psychedelics-and-the-filter-model]] — Dedicated treatment of psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
-- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The design space for a discriminating test between filter and production readings at the memory-hierarchy tier; specifies what a focal perturbation would have to deliver and why existing clinical data leaves the dispute empirically underdetermined
+- [[entropic-brain-hypothesis]] — Entropy and brain criticality as a quantitative signature of conscious richness, re-read as filter bandwidth
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The design space for a discriminating test at the memory-hierarchy tier, and why existing clinical data leaves the dispute empirically underdetermined
 - [[binding-problem]] — Classical binding fails; quantum holism and filter theory on unity
-- [[bandwidth-of-consciousness]] — The ~10 bits/s conscious throughput ceiling as empirical signature of filtering
+- [[bandwidth-of-consciousness]] — The ~10 bits/s conscious throughput ceiling as a signature of filtering
 - [[baseline-cognition]] — What neural systems achieve without conscious contribution
 - [[interactionist-dualism]] — The broader framework
 - [[consciousness-epistemology-extended-cognition]] — Filter theory applied to extended cognition: tools expand the filter's resources while consciousness itself resists extension

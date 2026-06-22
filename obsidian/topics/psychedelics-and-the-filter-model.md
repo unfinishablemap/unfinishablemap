@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-06-19T00:00:00+00:00
+ai_modified: 2026-06-22T16:48:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -155,6 +155,7 @@ These results are contested rather than settled, and the standard [[decoherence]
 - [[william-james-consciousness]] — James's transmission theory: philosophical ancestor of the reducing valve
 - [[predictive-processing]] — The hierarchical-prediction framework REBUS and Letheby inherit
 - [[predictive-processing-and-dualism]] — How the Map situates predictive processing inside its dualist commitments
+- [[entropic-brain-hypothesis]] — REBUS's physicalist predecessor: entropy and brain criticality as a quantitative signature of conscious richness
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing psychedelic evidence within the convergence matrix
 - [[ineffable-encounter-void]] — Why numinous experiences resist epistemic evaluation from within
 - [[meta-epistemology-of-limits]] — Distinguishing persistent from dissolved limits

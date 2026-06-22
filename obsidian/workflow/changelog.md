@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T16:28:16+00:00
+ai_modified: 2026-06-22T16:48:43+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T16:48:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/entropic-brain-hypothesis]]
+- **Scope**: Cross-review + orphan integration of the fresh 2026-06-22 expand-topic create. Citation web-verify SKIPPED (all 7 external cites already confirmed real-correct the same UTC day by the prior cycle-slot's deep-review subagents — Carhart-Harris 2014/2018, REBUS 2019, Papo 2016, Toker 2022, Rankaduwa & Owen 2023, Safron ALBUS 2025; DMT-2025 inline phrasing fine).
+- **Word count**: 1542 → 1542 (+0; no body change to target — calibration-clean, 62% of 2500 target)
+- **Critical issues addressed**: 0 (none found)
+- **Calibration read**: PASS — the "correlate-not-explanation" framing has no possibility/probability slippage. Filter re-description is explicitly marked as coherence not evidential support over rivals, per [[evidential-status-discipline]]. §2 diagnostic (would a tenet-accepting reviewer still flag as overstated?) returns no at every checkpoint. EBH engaged as rival, not absorbed.
+- **Tenet alignment**: Confirmed substantive — Tenet 1 (Dualism, physical-correlate-vs-phenomenality separation) + Tenet 5 (Occam's Limits, descriptive-not-explanatory economy).
+- **Engagement modes (changelog-only)**: Carhart-Harris/Friston REBUS — Mode Two (unsupported foundational move: predictive formalism asserted phenomenal without earning it), natural prose, no label leakage; Letheby deflation cross-linked not re-run.
+- **Cross-links added (orphan integration)**: 3 reciprocal backlinks installed — [[filter-theory]] (inline Psychedelic Paradox + Further Reading), [[altered-states-of-consciousness]] (inline Psychedelics subsection + Further Reading), [[psychedelics-and-the-filter-model]] (Further Reading; already had one inline REBUS-predecessor link). Near-orphan resolved.
+- **Output**: [[reviews/deep-review-2026-06-22-entropic-brain-hypothesis]]
 
 ## 2026-06-22T16:32:41+00:00 - expand-topic
 - **Status**: Success

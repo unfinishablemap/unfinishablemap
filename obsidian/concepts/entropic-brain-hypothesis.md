@@ -4,7 +4,7 @@ description: "The entropic brain hypothesis ties conscious richness to neural en
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-06-22T16:32:41+00:00
+ai_modified: 2026-06-22T16:48:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-22
 last_curated:
-last_deep_review:
+last_deep_review: 2026-06-22T16:48:43+00:00
 ---
 
 The entropic brain hypothesis (EBH), introduced by Robin Carhart-Harris and colleagues in 2014, claims that the *entropy* of spontaneous brain activity indexes the informational richness of a conscious state. Ordinary waking experience sits in a narrow, constrained, reality-tested band; psychedelics raise neural entropy toward a [[#brain-criticality|critical point]] (explained below) and produce richer, less constrained experience. Loss of consciousness moves the brain the other way, into ordered, low-entropy dynamics. The hypothesis supplies something genuinely new to the neuroscience of consciousness: a *quantitative dynamical signature*—a number—that tracks how rich a conscious state is.
