@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-06-22T16:48:43+00:00
+ai_modified: 2026-06-22T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,6 +103,8 @@ Letheby's account uses the same neuroimaging evidence. The 2012 intra-DMN decrea
 On altered-state data alone, the filter account does not exceed Letheby's. Both predict the same neuroimaging signatures, the same intensity-dissolution correlations, the same selective access to suppressed material. The only place they make distinguishable bets concerns the character of unity experiences and the persistence of the minimal self under dissolution. Filter theory predicts a continuing for-me-ness that bare prior-relaxation should not require; Letheby predicts that whatever "witnessing" is reported is itself a not-yet-decohered model component. First-person reports underdetermine the choice, and as the [[ineffable-encounter-void|ineffable-encounter analysis]] notes, the dismantled metacognitive instrumentation makes adjudication on phenomenological grounds particularly fraught.
 
 Predictive self-binding helps itself to a foundational move predictive processing has not paid for: the assumption that a sufficiently structured Bayesian model is phenomenally felt. This is the [[hard-problem-of-consciousness|hard problem]] in its predictive-processing register. But Letheby can fairly reply that filter theory inherits a parallel debt: positing extra-cerebral consciousness for the brain to filter only relocates the question of what makes that consciousness phenomenal. What discriminates the accounts is not the psychedelic neuroimaging but broader theoretical commitments. The Map's commitment to [[tenets|Tenet 1 (Dualism)]] places it outside Letheby's framework as a matter of foundational stance, not of altered-state-data adjudication.
+
+The self-binding account's deeper metaphysical commitment—*self-fictionalism*, the claim that the unified self is a useful Cartesian fiction with no referent—and the Map's full three-pronged reply to it (the hard-problem debt, the persistent minimal self, and the reversal of Letheby's Comforting Delusion Objection) are developed in [[predictive-self-binding-and-the-naturalist-challenge]], which engages Letheby as the disciplined physicalist baseline the Map must clear.
 
 ## Why Anaesthesia and Slow-Wave Sleep Don't Refute Filter Theory
 

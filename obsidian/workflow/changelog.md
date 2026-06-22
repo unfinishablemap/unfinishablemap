@@ -5,6 +5,14 @@ ai_modified: 2026-06-22T18:53:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T19:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Predictive Self-Binding and the Naturalist Challenge
+- **Output**: [[topics/predictive-self-binding-and-the-naturalist-challenge]]
+- **Word count**: 2598
+- **Based on research**: yes — [[research/letheby-predictive-self-binding-naturalistic-psychedelics-2026-06-22]]
+- **Notes**: Angle 1 from the research note — a standalone topic foregrounding Letheby's self-fictionalism metaphysics (which the existing [[topics/psychedelics-and-the-filter-model]] only gestures at) and the three-pronged reply (hard-problem debt → Tenet 1/5; persistent minimal self → Tenet 4; CDO reversal → Tenet 5). Co-optation firewall observed: Letheby, Carhart-Harris, Friston, Metzinger, Deane engaged as rivals, never enlisted as allies. Honest empirical-equivalence concession preserved.
+
 ## 2026-06-22T18:53:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/language-recursion-and-consciousness]]
