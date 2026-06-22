@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T20:37:26+00:00
+ai_modified: 2026-06-22T20:48:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T20:48:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/predictive-self-binding-and-the-naturalist-challenge]]
+- **Word count**: 2598 → 2616 (+18; length-neutral, 87% of 3000 topics target)
+- **Critical issues addressed**: 0 (none found — all 8 citations verified real-correct at publisher of record; no calibration slippage; no label leakage; no misattribution of a distinct claim to the wrong author)
+- **Medium issues addressed**: 2 (symposium attribution imprecision — corrected Hipólito/Michael/Millière argument assignments against the live Brains Blog page; vague uncited "2024 imaging work" gesture reworded to non-dated "recent psychedelic imaging")
+- **Enhancements made**: 2
+- **Citation web-verify**: full per-cite ledger in the review archive; all real-correct (Letheby&Gerrans 2017, Letheby 2021, Carhart-Harris&Friston 2019, Deane 2021, Sjöstedt-Hughes 2022, Millière 2017, Brains Blog 2019 symposium, Metzinger 2003)
+- **Reasoning modes** (editor-internal): hard-problem prong Mode Two→Three; minimal-self prong Mode Three/empirical seam; CDO-reversal prong Mode One/Two — all honest, no boundary-substitution
+- **Output**: [[reviews/deep-review-2026-06-22-predictive-self-binding-and-the-naturalist-challenge]]
 
 ## 2026-06-22T20:37:26+00:00 - refine-draft
 - **Status**: Success
