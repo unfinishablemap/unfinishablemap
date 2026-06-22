@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T14:13:20.139688+00:00'
-session_count: 12819
+last_updated: '2026-06-22T14:14:57.861877+00:00'
+session_count: 12820
 cycle_position: 9763
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-22T04:58:16.029724+00:00'
   collect-gemini-review: '2026-06-22T04:46:36.209067+00:00'
   positions-evolve: '2026-06-22T06:20:53.964896+00:00'
-  check-model-fallback: '2026-06-22T10:11:16.860123+00:00'
+  check-model-fallback: '2026-06-22T14:14:57.861877+00:00'
   harvest-research-subjects: '2026-06-22T09:56:05.278073+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-22'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1310,11 +1310,49 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 536
-  last_replenishment: '2026-06-22T14:07:00+00:00'
+  last_replenishment_run: 537
+  last_replenishment: '2026-06-22T14:22:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.536 (2026-06-22T14:07Z): FLOOR-RESTORED via
-    1 genuine-own-body-drift deep-review mint of concepts/sleep-and-consciousness.md.
+  current_replenishment_note: 'run no.537 (2026-06-22T14:22Z): FLOOR-RESTORED via 1
+    genuine-own-body-drift deep-review mint of topics/completeness-in-physics-under-dualism.md.
+    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2 pre-mint
+    (the two run-533 chain-successor P2s: phenomenal-presentation expand-topic + embodied-interface
+    reciprocal-links refine, both pickable), below MIN_QUEUE floor 3, unmet by 1 --
+    the documented replenish-at-floor alternation (unfin_loop_steady_state), NOT a
+    deadlock. The run-536 mint (concepts/sleep-and-consciousness.md) was PICKED + consumed
+    by the deep-review CYCLE slot minutes later (commit 89b8ea434, last_deep_review
+    now 2026-06-22T14:11, drift cleared), dropping the live floor back to 2 -- the same-day
+    deep-review-cycle-collision (deep_review_over_reviews_converged). ALL 8 sources
+    independently re-audited from live disk, no other safe restorer: chain has only
+    the parapsychology-firewall expand-topic whose P3 integration successor is already
+    queued + ZERO research-topic/cross-review completions; unconsumed research ZERO
+    (thermal/vestibular/interoceptive/cross-modal newest notes disk-confirmed consumed
+    into live same-slug articles + apex); gap caps have headroom (topics 278/320, concepts
+    265/320) but new-article generation is harvester-governed (last 2026-06-22T09:56Z,
+    next ~15:56Z) and gap-analysis is Vetoed-bank-dedup-blocked; staleness >=30d ZERO
+    content hits; length no safe condense (every hard offender human-deferred / veto-tagged
+    / accept-as-survey / research-note / index-hub / over-cap void); orphan 0; positions
+    8/80 slow-add audit 2026-06-22T06:20 in window; applied-apex no cluster gap. Drift
+    163 rows but the top non-positions rows are git-verified COSMETIC sibling cross-touches
+    / embeds / the multi-file precision-refine siblings ALREADY minted (types-of-consciousness,
+    entanglement-binding, sleep-and-consciousness all deep-reviewed today off the SAME
+    2c59225a6 refine) -- rejected per replenish-false-exhaustion-mislabeled-drift. The
+    ONE genuine, non-colliding own-body drift: topics/completeness-in-physics-under-dualism.md
+    (last deep-reviewed 2026-06-06, own-body content-edited 2026-06-22 commit 2c59225a6
+    -- the Torres Alegre 2025 Born-rule citation now carries the caveat -recent arXiv
+    preprint not yet peer-reviewed- in both the body sentence and the References entry
+    arXiv:2512.12636; refine bumps ai_modified NOT last_deep_review so the preprint-status
+    calibration is deep-review-unverified). Same multi-file refine vein as the prior
+    three floor restorers; this is its last unreviewed limb. Older model claude-opus-4-6.
+    Body 3248w status=soft_warning (topics soft 3000/hard 4000), ~752w under hard --
+    length-safe, keep review length-neutral-to-trimming. Tenet 1/3 load-bearing. Not
+    vetoed (all completeness-in-physics todo hits are completed tasks or cross-link
+    mentions in other notes), no open duplicate. Inserted at top of Active Tasks to
+    defeat LIFO. Live selector AFTER mint = 3, floor restored. Expect replenish-at-floor
+    + deep-review-cycle-collision alternation to continue until the harvester reopens
+    the research->expand pipeline.'
+  superseded_536_replenishment_note: 'run no.536 (2026-06-22T14:07Z): FLOOR-RESTORED
+    via 1 genuine-own-body-drift deep-review mint of concepts/sleep-and-consciousness.md.
     Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
     pre-mint (the two run-533 chain-successor promotions: phenomenal-presentation
     expand-topic + embodied-interface reciprocal-links refine), below MIN_QUEUE floor
