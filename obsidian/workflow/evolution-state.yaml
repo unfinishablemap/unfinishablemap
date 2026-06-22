@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T16:00:31.484933+00:00'
-session_count: 12839
-cycle_position: 9772
+last_updated: '2026-06-22T16:06:15.948964+00:00'
+session_count: 12840
+cycle_position: 9773
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T10:10:25.893050+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-06-22T03:14:18.569828+00:00'
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T15:31:00.328571+00:00'
-  research-topic: '2026-06-21T23:46:28.233150+00:00'
+  research-topic: '2026-06-22T16:06:15.948964+00:00'
   replenish-queue: '2026-06-22T15:46:59.056688+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T14:55:55.386127+00:00'
@@ -87,7 +87,7 @@ progress:
   questions_written: 0
   voids_written: 101
   positions_written: 8
-  research_notes: 411
+  research_notes: 412
   reviews_completed: 5617
   apex_articles: 38
 quality:
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-06-22'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1305,16 +1305,43 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 1
+  p2_tasks: 4
+  p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    staleness: 1
-  last_replenishment_run: 542
-  last_replenishment: '2026-06-22T15:45:00+00:00'
+    unconsumed_research: 1
+  last_replenishment_run: 543
+  last_replenishment: '2026-06-22T16:10:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.542 (2026-06-22T15:45Z): FLOOR-RESTORED via
+  current_replenishment_note: 'run no.543 (2026-06-22T16:10Z): FLOOR-RESTORED via
+    1 UNCONSUMED-RESEARCH expand-topic mint (concepts/ page on The Entropic Brain Hypothesis).
+    THE RESEARCH-EXPAND PIPELINE HAS REOPENED -- this run differs from the prior ~5 floor-restores
+    (all genuine-own-body-drift deep-review mints of the Torres-Alegre-preprint refine vein).
+    Authoritative live count_p0_p2_tasks(content)=2 pre-mint (the two pending deep-review P2s:
+    apex/interface-specification-programme run 539 + concepts/delegatory-causation run 538),
+    below MIN_QUEUE floor 3, unmet by 1 -- documented replenish-at-floor alternation, NOT a
+    deadlock. Run 539 predicted the harvester would feed the pipeline ~15:56Z; it then ran
+    (last_runs harvest-research-subjects 2026-06-22T16:00Z) and a research-topic completion
+    landed 2026-06-22T16:06Z (commit 9d2e0f7f5, Research The Entropic Brain Hypothesis),
+    producing the unconsumed note obsidian/research/entropic-brain-hypothesis-2026-06-22.md.
+    Source 2 (unconsumed research, +60 bonus) is the cleanest restorer -- a genuine chain
+    successor consuming fresh research rather than re-reviewing converged content. Dedupe
+    live-disk verified: NO live/archive/Hugo article on entrop/criticality, NO open Write
+    duplicate, NOT vetoed (Vetoed entrop hits are co-optation-firewall refine notes about
+    REBUS conscription in OTHER articles). Target concepts/ (266/320, 54 slots headroom),
+    matching the originating harvest task intent (EBH should have its own concept page the
+    topic article routes through). Other 7 sources re-audited, no other safe restorer: chain
+    has only the already-queued P3 entropic research-topic + P3 parapsychology successor;
+    gap is harvester-governed + Vetoed-dedup-blocked; voids 101/100 OVER; length NO safe
+    condense (every offender HUMAN-DEFERRED / veto / accept-as-survey / index-hub / deferred-apex);
+    orphan 0; positions 8/80 slow-add audited 06-22T06:20; applied-apex no cluster gap.
+    Inserted at top of Active Tasks to defeat LIFO. Live selector AFTER mint = 3, floor restored.
+    The article fork MUST: apply the co-optation firewall (Carhart-Harris/Friston/Nutt are
+    physicalists -- cite-as-rival, do NOT enlist), foreground entropy/criticality (not the
+    already-covered REBUS/filter ground), web-verify the three founding cites at publisher
+    of record, add inbound links to avoid orphaning, stay under concepts soft 2500w.'
+  superseded_542_replenishment_note: 'run no.542 (2026-06-22T15:45Z): FLOOR-RESTORED via
     1 genuine-own-body-drift deep-review mint of apex/phenomenology-mechanism-bridge.md.
     Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
     pre-mint (the two prior-run deep-review P2s still pending: apex/interface-specification-programme
