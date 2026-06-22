@@ -4,7 +4,7 @@ description: "The type of emergence you accept constrains what consciousness can
 created: 2026-02-08
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-06-22T06:28:38+00:00
+ai_modified: 2026-06-22T13:14:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-06-01T21:11:47+00:00
+last_deep_review: 2026-06-22T13:14:14+00:00
 coalesced_from:
   - "/topics/consciousness-and-strong-emergence/"
   - "/topics/consciousness-and-the-emergence-debate/"
