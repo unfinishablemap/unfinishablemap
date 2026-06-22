@@ -5,6 +5,17 @@ ai_modified: 2026-06-21 16:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/thermal-consciousness-and-the-interface]]
+- **Word count**: 3173 → 3174 (+1; soft_warning, length-neutral)
+- **Critical issues addressed**: 2 (attribution error "Lucia"→"Laura" Crucianelli, web-verified; dropped word "cannot"→"cannot provide")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article well-formed at soft-warning length; preserved)
+- **Citation web-verify**: all 8 References verified at publisher of record — 7 real-correct (Craig&Bushnell 1994, Craig 2002, Blomqvist 2023, Vriens/Nilius/Voets 2014, Barrett&Simmons 2015, two internal Map cites), 1 real-correct-metadata-but-body-misspelled-name (Crucianelli&Ehrsson 2023). Julius 2021 Nobel + TRPV1/TRPM8 facts verified. No fabrications, no orphans, no currency drift.
+- **Reasoning-mode**: engagement with the three physicalist rivals (molecular transduction / Craig homeostatic-emotion / predictive thermoregulation) = Mode Three (framework-boundary marking) in natural prose; no boundary-substitution, no label leakage, no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-22-thermal-consciousness-and-the-interface]]
+
 ## 2026-06-22T01:25:06+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/cross-modal-capability-division]]
