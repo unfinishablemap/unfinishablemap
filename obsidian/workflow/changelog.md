@@ -5,6 +5,17 @@ ai_modified: 2026-06-22T14:01:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T14:11:31+00:00 - deep-review
+- **Status**: Success (seventh review; converged — one consistency fix applied)
+- **File**: [[concepts/sleep-and-consciousness]]
+- **Word count**: 2045 → 2081 (+36; 83% of 2500 concepts soft threshold — headroom)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (summary/body split on the 10-bits/s claim: a same-day refine-draft hedged the lead to "behavioural throughput, not phenomenal bandwidth" but left the body calling it "consciousness channel bandwidth" / "channel produces unified experience" — reconciled both body sentences to the throughput framing)
+- **Enhancements made**: 1 (the consistency reconciliation above)
+- **Citation web-verify (§2.4)**: Zheng & Meister (2025, Neuron 113(2):192-204) verified real-correct at PoR — confirms the 06-04 corpus-wide fix of the prior fabricated "Meister 2024 Caltech study". Demirel (2025, J Neurosci 45(20) e2237242025) verified real-correct. Geva-Sagiv 2023 and Lu 2025 (historical Stickgold/Wang corrections) intact. Full per-cite ledger in the review archive. Superlative-currency sweep: no hits.
+- **Reasoning-mode**: illusionism engagement Mode Mixed (Two/One/Three), unchanged; no label leakage; no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-22-sleep-and-consciousness]]
+
 ## 2026-06-22T14:01:38+00:00 - deep-review
 - **Status**: Success (seventh review; converged — no body change, convergence confirmed)
 - **File**: [[concepts/types-of-consciousness]]
