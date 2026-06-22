@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-06-18T22:12:38+00:00
+last_deep_review: 2026-06-22T15:14:14+00:00
 embedded_videos:
   - id: xicd38uVq7A
     url: https://www.youtube-nocookie.com/embed/xicd38uVq7A
