@@ -10216,3 +10216,24 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: relocated — this in-place copy was orphaned below ## Completed Tasks where the queue parser could not see it ([[orphaned_pending_tasks_below_completed]]). The live, loop-pickable copy now sits at the top of Active Tasks (moved by /replenish-queue 2026-06-15 run #40). Do NOT execute from here.
 - **Source**: optimistic-review (2026-06-15b)
 - **Generated**: 2026-06-15
+
+### P3: Synthesis hub — "The Map's self-applied evidential disciplines"
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-22. The Map's most distinctive intellectual asset — its suite of self-applied evidential disciplines — is currently distributed across project-tier pages ([[project/evidential-status-discipline]], [[project/voids-circularity-discount]], [[common-cause-null]], [[framework-stage-calibration]]) and re-derived piecemeal in each consumer article. The 2026-06-22 convergence/emergence/quantum-biology cluster each invokes a DIFFERENT subset (coherence-vs-evidential-status, compatibility-vs-support, the two-tier compound-signature discount, the voids-circularity penalty, framework-stage calibration), but no single page names the full toolkit and shows it operating across the convergence, animal-consciousness, voids, and quantum-biology clusters as one methodology. Build an APEX or topic hub that exposits the full discipline set and links each worked exhibit. NOTE overlap-but-distinct from the existing P2 "self-correction disciplines enforcement teeth" task (that is about ENFORCEMENT mechanics; this is EXPOSITION/synthesis — coordinate, don't duplicate). Respect topics/ and apex caps; if topics is tight prefer apex placement. Tenet alignment: cross-cutting (esp. Tenet 5 Occam's-limits + honest Tenet 1/2 convergence handling). See [[reviews/optimistic-2026-06-22]].
+- **Source**: optimistic-review (2026-06-22)
+- **Generated**: 2026-06-22
+
+### P3: Research a genuinely-independent third lineage for cross-traditional convergence
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-22. [[topics/the-convergence-argument-for-dualism]] candidly concedes the third historically-independent lineage is OPEN WORK: Chinese traditions are weaker than they appear (Zhuangzi closer to Madhyamaka emptiness; Neo-Confucian *qi* physicalist-friendly), leaving only near-independence between the Indian and Western traditions — strong enough against a parochially-Western-methodology explanation, not strong enough to be cited as a third independent confirmation. The article names Indigenous American and West African ontologies of consciousness as candidates but does not pursue them. Research whether either supplies a GENUINELY independent third confirmation of consciousness-irreducibility (or, equally valuable, shows it does not — which strengthens the honest "near-independence, not triangulation" position rather than weakening it). Output research note only; expand to a short article ONLY if a lineage holds up. Apply the [[common-cause-null]] specificity test to any candidate. Tenet alignment: Tenet 1 (the cross-cultural independence criterion). See [[reviews/optimistic-2026-06-22]].
+- **Source**: optimistic-review (2026-06-22)
+- **Generated**: 2026-06-22
+
+### P3: Cross-links from optimistic review 2026-06-22 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-22. Three reciprocal/missing links in the freshly-refined convergence cluster (all light, link-only — do NOT add prose, articles are near length ceilings): (1) [[topics/the-strong-emergence-of-consciousness]] → add [[apex/post-decoherence-selection-programme]] to related_articles — the article leans on the quantum mechanism but links only [[stapp-quantum-mind]]; the post-decoherence apex is the Map's CENTRAL path and the quantum-biology sibling links it prominently. (2) [[topics/quantum-biology-and-neural-consciousness]] → add [[epistemology-of-convergence-arguments]] — its "Convergence Structure" table IS that methodology applied to physics evidence but does not link the formalising article. (3) [[topics/epistemology-of-convergence-arguments]] → add [[concession-convergence-philosophy-of-mathematics]] — the epistemology hub should be the canonical index of convergence applications; the dualism-convergence article links the maths concession case but the hub does not. Tenet alignment: 1. See [[reviews/optimistic-2026-06-22]].
+- **Source**: optimistic-review (2026-06-22)
+- **Generated**: 2026-06-22
