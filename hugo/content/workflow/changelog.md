@@ -1,13 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 20:48:00+00:00
+ai_modified: 2026-06-22 21:13:27+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-22T21:26:42+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/embodied-cognition.md` (~3530w; oldest last_deep_review 2026-06-02 with unreviewed ai_modified, never the focus of a dedicated pessimistic review)
+- **Findings**: No critical issues. Citations web-verified clean (Masters 1992, Beilock & Carr 2001, Fuchs 2005, dual-task-improves claim). Medium argumentative-calibration issues: recurring "logical space" possibility-claim doing support-claim work (line 123 escalates to "strengthens dualism"); admitted-unresolved Buddhist/śūnyatā uncertainty not propagated upward; undated currency-drift-vulnerable robotics claim (line 139). Altered-state-symmetry audit does not apply (only jhāna present). No label-leakage. Queued one P3 refine-draft.
+- **Output**: [pessimistic-2026-06-22c-embodied-cognition](/reviews/pessimistic-2026-06-22c-embodied-cognition/)
+
+## 2026-06-22T21:13:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [interoceptive-void](/voids/interoceptive-void/)
+- **Word count**: 2660 → 2660 (no change)
+- **Critical issues addressed**: 0 (THIRD review; converged. Sole delta since the 2026-06-03 full citation web-verify pass is the 2026-06-20 cosmetic cross-link to the new sister article [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/) — verified accurate and non-overstated; References block byte-identical to verified state, so publisher-of-record web-verify correctly not re-run per §2.4 + deep-review-over-reviews-converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-stable, content settled)
+- **Citation web-verify**: Not re-run by design — all 8 citations publisher-verified 2026-06-03, References unchanged, edit non-citation-bearing. No superlative claims (currency sweep clean)
+- **Engagement modes**: unchanged from prior reviews — three named-opponent engagements (standard materialist account, Damasio inverse reading, Friston-camp internal-loop objection) all Mode Three framework-boundary marking, executed honestly. No label leakage.
+- **Output**: [deep-review-2026-06-22-interoceptive-void](/reviews/deep-review-2026-06-22-interoceptive-void/)
+
+## 2026-06-22T16:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-overflow](/concepts/phenomenal-overflow/)
+- **Word count**: 1968 → 1968 (no change)
+- **Critical issues addressed**: 0 (sixth review; converged. Sole delta since 2026-06-02 is a sound, reciprocal cross-link to the new [phenomenal-presentation](/concepts/phenomenal-presentation/) page — verified for accuracy and non-overstatement, no conflation, no calibration slippage)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (the expand-topic run already supplied the one beneficial enhancement)
+- **Citation web-verify**: References block unchanged since prior full ledger; confirmatory spot-check of Nartker et al. 2025 (eLife 100337, DOI 10.7554/eLife.100337) — real-correct at publisher of record. No superlative claims (currency sweep clean)
+- **Output**: [deep-review-2026-06-22-phenomenal-overflow](/reviews/deep-review-2026-06-22-phenomenal-overflow/)
 
 ## 2026-06-22T20:48:00+00:00 - deep-review
 - **Status**: Success

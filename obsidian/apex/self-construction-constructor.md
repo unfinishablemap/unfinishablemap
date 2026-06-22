@@ -4,7 +4,7 @@ description: "Perception, the social self, the narrative self, and the world-mod
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-18T12:06:23.437536+00:00
+ai_modified: 2026-06-22T21:32:06+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -21,7 +21,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-05-28T00:00:00+00:00
+last_deep_review: 2026-06-22T21:32:06+00:00
 
 apex_sources:
   - topics/consciousness-as-perceptual-architect
