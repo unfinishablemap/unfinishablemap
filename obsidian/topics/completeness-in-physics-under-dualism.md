@@ -4,7 +4,7 @@ description: "Physics is complete about structure but silent on actuality. Prope
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-06-22T08:28:08+00:00
+ai_modified: 2026-06-22T14:34:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-27
 last_curated:
-last_deep_review: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-06-22T14:34:50+00:00
 ---
 
 The completeness of physics is the strongest argument against dualism—and, when examined carefully, one of the strongest arguments for it. The standard objection runs: physics is causally complete, leaving no gap for non-physical causes, so consciousness must be physical or epiphenomenal. The Unfinishable Map reverses the inference. Physics is structurally complete—nothing structural is missing—yet ontologically partial, silent on which quantum outcome becomes actual and on why there is something it is like to be a conscious system. The gap this silence opens is no temporary one awaiting future physics; it is a feature of what physical description *is*, and precisely the space where consciousness operates.
