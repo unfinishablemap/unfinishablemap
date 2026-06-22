@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T19:03:08.634542+00:00'
-session_count: 12870
+last_updated: '2026-06-22T19:10:57.288381+00:00'
+session_count: 12871
 cycle_position: 9789
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T16:31:55.425673+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-22T19:06:00+00:00'
+  replenish-queue: '2026-06-22T19:10:57.288381+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1328,8 +1328,8 @@ queue_status:
     predictive-self-binding EXPAND-TOPIC; last_runs.expand-topic 19:03 is AFTER last_runs.replenish-queue
     18:45, so that expand-topic was PICKED + consumed by the expand-topic cycle slot
     minutes ago (article topics/predictive-self-binding-and-the-naturalist-challenge.md
-    now on disk, task now ✓-DONE below Completed), dropping the live floor from 3 back
-    to 2. ALL 8 sources re-audited live, no other safe restorer: (chain) recent_tasks
+    now on disk, task now ✓-DONE below Completed), dropping the live floor from 3
+    back to 2. ALL 8 sources re-audited live, no other safe restorer: (chain) recent_tasks
     has the just-consumed Letheby expand-topic whose integration successor this run
     queues as a free P3 (see below) + ZERO research-topic/cross-review completions.
     (unconsumed research) ZERO -- the Letheby note is now consumed into the live article;
@@ -1356,14 +1356,14 @@ queue_status:
     5 mandated inbound links ([[expand-topic-skips-integration-chain]]) -- new article
     links OUTBOUND to predictive-processing/self-and-self-consciousness/altered-states-of-consciousness/predictive-processing-and-dualism
     but only psychedelics-and-the-filter-model links back; queued a P3 integrate-orphan
-    to install the four reciprocal inbound links (does NOT count toward the P0-P2 floor,
-    so no over-mint). Live selector AFTER mint = 3, floor restored exactly. Both new
-    tasks inserted at top of Active Tasks to defeat LIFO. Expect replenish-at-floor
+    to install the four reciprocal inbound links (does NOT count toward the P0-P2
+    floor, so no over-mint). Live selector AFTER mint = 3, floor restored exactly.
+    Both new tasks inserted at top of Active Tasks to defeat LIFO. Expect replenish-at-floor
     + deep-review/expand-topic-cycle-collision alternation to continue until the harvester
     reopens the research->expand pipeline ~22:00 UTC.'
-  superseded_551_replenishment_note: 'run no.551 (2026-06-22T18:45Z): FLOOR-RESTORED by a
-    single genuine Source-2 unconsumed-research mint of a P2 expand-topic on Letheby
-    predictive-self-binding (the +60 highest-bonus source, and the exact alternation-breaker
+  superseded_551_replenishment_note: 'run no.551 (2026-06-22T18:45Z): FLOOR-RESTORED
+    by a single genuine Source-2 unconsumed-research mint of a P2 expand-topic on
+    Letheby predictive-self-binding (the +60 highest-bonus source, and the exact alternation-breaker
     run no.550 predicted). Authoritative live count_p0_p2_tasks(content) = 2 pre-mint
     (the two standing Torres-Alegre-vein P2 deep-reviews: apex/interface-specification-programme
     run 539 + concepts/delegatory-causation run 538; the three veto condense tasks

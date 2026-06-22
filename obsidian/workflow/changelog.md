@@ -5,6 +5,16 @@ ai_modified: 2026-06-22T18:53:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T19:11:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/wholeheartedness-void]]
+- **Word count**: 3006 → 2986 (−20, back under voids hard ceiling of 3000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (length-neutral trim of participation-void Further Reading bullet)
+- **Notes**: Third deep review; converged. Justified non-no-op: 17 days past last review (beyond 14-day damping window) + one substantive change since (commit 47fbf269e corrected Velleman citation locus). Web-verified the corrected Velleman cite — "Identification and Identity" in *The Contours of Agency* (Buss & Overton eds., MIT Press 2002) — and the new disownability-limit attribution at publisher of record: both **real-correct / faithful**. Engagement modes: decision-theoretic parsimony Mode One; Sartrean bad faith Mode Two; Buddhist *anātman* Mode Three (all natural prose, no label leakage). No possibility/probability slippage. Trimmed to clear the hard ceiling.
+- **Output**: [[reviews/deep-review-2026-06-22-wholeheartedness-void]]
+
 ## 2026-06-22T19:05:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Predictive Self-Binding and the Naturalist Challenge
