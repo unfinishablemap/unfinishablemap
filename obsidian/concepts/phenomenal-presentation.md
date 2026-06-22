@@ -4,7 +4,8 @@ description: "Phenomenal presentation names the passive, felt background of expe
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-06-22T14:40:00+00:00
+ai_modified: 2026-06-22T15:48:07+00:00
+last_deep_review: 2026-06-22T15:48:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,6 +68,8 @@ The challenge sharpens the [[explanatory-gap]]. One can grant a complete account
 [[minimal-consciousness|Minimal consciousness]] may be little more than bare presentation: a felt field with scarcely any depth, breadth, or active engagement—just *something being given*. If such a state is possible, it shows that presentation is the floor of consciousness, the last thing that could be subtracted while leaving experience at all. That floor is what reductive accounts must reach, and the passivity of presentation is what they keep failing to capture: every functional story explains a doing, while presentation is an undergoing.
 
 A related observation: presentation is closely tied to [[phenomenal-transparency-opacity-spectrum|transparency]]. In ordinary perception the presented qualities seem to belong to the world, not to the experience—you seem to see the blueness *of the sky*, not a blue patch *in your mind*. This transparency is a feature of how presentation works: the given is offered as world-directed (see [[intentionality]]) even though it is, as presented, a phenomenal fact about the subject's experience.
+
+The strongest objection to any talk of a "pre-judgemental given" is Wilfrid Sellars's "Myth of the Given": the charge that nothing can be both non-conceptual and capable of justifying a belief, so a bare given that is supposed to ground knowledge while owing nothing to concepts is a confused posit. The Map grants Sellars his target and is untouched by it. Sellars attacks an *epistemic* given—a self-authenticating foundation that confers justification without conceptual mediation. Phenomenal presentation makes no such epistemic claim. It asserts only that something is *felt* before it is judged—a claim about phenomenal character, not about warrant. One can accept that all *justification* is conceptually structured (Sellars's point) and still hold that the warmth is felt before any concept classifies it (presentation's point). The felt showing-up is a phenomenal fact; whether and how it justifies anything is a separate question, handled by [[phenomenal-acquaintance|acquaintance]]. Keeping presentation distinct from acquaintance is exactly what lets the concept absorb the Sellarsian objection: presentation owes nothing to the epistemology Sellars dismantles.
 
 ## Relation to Site Perspective
 

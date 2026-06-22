@@ -5,6 +5,18 @@ ai_modified: 2026-06-22T15:39:58+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T15:48:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-presentation]]
+- **Word count**: 1372 → 1540 (+168)
+- **Critical issues addressed**: 0 (none found; first review of a fresh create)
+- **Medium issues addressed**: 1 — added engagement with Sellars's "Myth of the Given," the strongest live objection to a pre-judgemental given. Map grants Sellars his *epistemic* target and is untouched: presentation makes only a *phenomenal* claim (felt before judged), with justification handled separately by [[phenomenal-acquaintance]]. Honest reply, no overreach.
+- **Enhancements made**: 1 (the Sellars paragraph, doubling as the highest-value optimistic expansion given 55% length headroom)
+- **Web-verify (all 6 references)**: Husserl 1966 (Husserliana XI, ed. Fleischer, Nijhoff), Nagel 1974 (Phil Review 83(4) 435-450), Block 1995 (BBS 18(2) 227-247), Levine 1983 (PPQ 64(4) 354-361, Wiley DOI), Kriegel 2009 (OUP) — all real-correct at publisher of record. 6th ref is internal self-citation to phenomenal-acquaintance (created 2026-02-09, date matches). No defects. No superlative/empirical-record claims. Inline↔References cross-reference clean.
+- **Engagement modes**: no named-opponent replies (concept article); Dennettian deflation and eliminativist rejection are bedrock framework-boundary disagreements, adequately handled in existing Occam/reduction sections.
+- **Calibration**: Bidirectional-Interaction causal-work claim is appropriately-hedged abduction, NOT possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-22-phenomenal-presentation]]
+
 ## 2026-06-22T15:39:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/post-decoherence-selection-programme]]
