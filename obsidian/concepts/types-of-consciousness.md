@@ -4,8 +4,8 @@ description: "Consciousness varies not only in content but in structural form. P
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-06-22T08:28:08+00:00
-last_deep_review: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-22T14:01:38+00:00
+last_deep_review: 2026-06-22T14:01:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

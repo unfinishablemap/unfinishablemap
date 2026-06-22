@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T13:46:24+00:00
+ai_modified: 2026-06-22T14:01:38+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T14:01:38+00:00 - deep-review
+- **Status**: Success (seventh review; converged — no body change, convergence confirmed)
+- **File**: [[concepts/types-of-consciousness]]
+- **Word count**: 1975 → 1975 (no body change; 79% of 2500 concepts soft threshold — headroom)
+- **Critical issues addressed**: 0 (none found — converged article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (body stable; the only post-06-01 change was a prior refine-draft Bandwidth hedge, web-verified accurate this pass)
+- **Citation web-verify (§2.4)**: new Bandwidth hedge characterising Zheng & Meister "~10 bits/s" as a behavioural-throughput bound (not phenomenal bandwidth) verified accurate vs publisher of record (Neuron 113(2)). Block 1995 (227-247) and Zheng & Meister (113(2), 192-204) 06-01 fixes confirmed intact. Superlative-currency sweep: no hits.
+- **Convergence note**: the 06-01 Remaining Item (corpus-wide Block 1995 `227-287` defect in 4 siblings) is now CLOSED — all four siblings carry `227-247`.
+- **Reasoning-mode (editor-internal)**: N/A — descriptive taxonomy; Dennett overflow caveat is honest Mode-Three boundary-marking, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-22-types-of-consciousness]]
 
 ## 2026-06-22T13:46:24+00:00 - deep-review
 - **Status**: Success (sixth review; converged — one small consistency fix, no body change)
