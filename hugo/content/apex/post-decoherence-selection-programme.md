@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-06-22 09:03:18+00:00
+ai_modified: 2026-06-22 15:39:58+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-05-27 14:32:20+00:00
+apex_last_synthesis: 2026-06-22 15:39:58+00:00
 apex_sources:
 - concepts/post-decoherence-selection
 - topics/quantum-darwinism-and-consciousness
@@ -39,7 +39,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/oWWgbZPoD9Q
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 09:55:13+00:00
+last_deep_review: 2026-06-22 15:39:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

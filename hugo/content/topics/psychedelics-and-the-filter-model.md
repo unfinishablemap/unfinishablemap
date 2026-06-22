@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-06-19 00:00:00+00:00
+ai_modified: 2026-06-22 16:48:43+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -67,7 +67,7 @@ The hypothesis survives the recent imaging work in a more careful form than its 
 
 ## REBUS and Filter Theory
 
-The REBUS model (Relaxed Beliefs Under Psychedelics; Carhart-Harris & Friston, 2019) is a physicalist programme whose authors do not endorse the filter reading; its dynamics are nonetheless compatible with filter theory. REBUS proposes that the brain operates as a hierarchical predictive system: high-level priors constrain the interpretation of lower-level sensory data, and psychedelics relax these priors, allowing bottom-up information greater influence.
+The REBUS model (Relaxed Beliefs Under Psychedelics; Carhart-Harris & Friston, 2019) is the predictive-processing successor to the [entropic brain hypothesis](/concepts/entropic-brain-hypothesis/)—a physicalist programme whose authors do not endorse the filter reading; its dynamics are nonetheless compatible with filter theory. REBUS proposes that the brain operates as a hierarchical predictive system: high-level priors constrain the interpretation of lower-level sensory data, and psychedelics relax these priors, allowing bottom-up information greater influence.
 
 From a filter theory perspective, REBUS describes the *mechanism* of filtering without addressing the deeper question of what is being filtered. The predictive hierarchy acts as exactly the kind of constraint system a filter theory would expect. The Map's broader engagement with predictive processing is developed in [predictive processing and dualism](/topics/predictive-processing-and-dualism/), which argues that the framework's formalism is metaphysically neutral and supplies exactly the neural architecture interactionist dualism needs.
 
@@ -158,6 +158,7 @@ These results are contested rather than settled, and the standard [decoherence](
 - [william-james-consciousness](/topics/william-james-consciousness/) — James's transmission theory: philosophical ancestor of the reducing valve
 - [predictive-processing](/concepts/predictive-processing/) — The hierarchical-prediction framework REBUS and Letheby inherit
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — How the Map situates predictive processing inside its dualist commitments
+- [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) — REBUS's physicalist predecessor: entropy and brain criticality as a quantitative signature of conscious richness
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing psychedelic evidence within the convergence matrix
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Why numinous experiences resist epistemic evaluation from within
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing persistent from dissolved limits

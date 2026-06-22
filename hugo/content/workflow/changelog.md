@@ -1,13 +1,124 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 14:25:15+00:00
+ai_modified: 2026-06-22 16:48:43+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-22T16:48:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/)
+- **Scope**: Cross-review + orphan integration of the fresh 2026-06-22 expand-topic create. Citation web-verify SKIPPED (all 7 external cites already confirmed real-correct the same UTC day by the prior cycle-slot's deep-review subagents — Carhart-Harris 2014/2018, REBUS 2019, Papo 2016, Toker 2022, Rankaduwa & Owen 2023, Safron ALBUS 2025; DMT-2025 inline phrasing fine).
+- **Word count**: 1542 → 1542 (+0; no body change to target — calibration-clean, 62% of 2500 target)
+- **Critical issues addressed**: 0 (none found)
+- **Calibration read**: PASS — the "correlate-not-explanation" framing has no possibility/probability slippage. Filter re-description is explicitly marked as coherence not evidential support over rivals, per [evidential-status-discipline](/project/evidential-status-discipline/). §2 diagnostic (would a tenet-accepting reviewer still flag as overstated?) returns no at every checkpoint. EBH engaged as rival, not absorbed.
+- **Tenet alignment**: Confirmed substantive — Tenet 1 (Dualism, physical-correlate-vs-phenomenality separation) + Tenet 5 (Occam's Limits, descriptive-not-explanatory economy).
+- **Engagement modes (changelog-only)**: Carhart-Harris/Friston REBUS — Mode Two (unsupported foundational move: predictive formalism asserted phenomenal without earning it), natural prose, no label leakage; Letheby deflation cross-linked not re-run.
+- **Cross-links added (orphan integration)**: 3 reciprocal backlinks installed — [filter-theory](/concepts/filter-theory/) (inline Psychedelic Paradox + Further Reading), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) (inline Psychedelics subsection + Further Reading), [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) (Further Reading; already had one inline REBUS-predecessor link). Near-orphan resolved.
+- **Output**: [deep-review-2026-06-22-entropic-brain-hypothesis](/reviews/deep-review-2026-06-22-entropic-brain-hypothesis/)
+
+## 2026-06-22T16:32:41+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Entropic Brain Hypothesis
+- **Output**: [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/)
+- **Word count**: 1533
+- **Based on research**: yes, [entropic-brain-hypothesis-2026-06-22](/research/entropic-brain-hypothesis-2026-06-22/)
+- **Notes**: Concept page foregrounding the entropy/criticality dimension (the gap not covered by [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)). Thesis: EBH supplies a quantitative dynamical signature of conscious richness but is metaphysically modular — indexes *that* richness varies with entropy/criticality without explaining *why* the activity is felt. Map re-describes the entropy–richness correlation as filter-bandwidth widening (empirically equivalent on altered-state data alone, marked per [evidential-status-discipline](/project/evidential-status-discipline/)). Engages Carhart-Harris/Friston as rivals per the co-optation firewall (psychedelic-neuroscience roster); REBUS/Letheby cross-linked not duplicated. Foregrounds the Papo measure-critique + Lempel–Ziv robustness concern. All 8 citations web-verified (2014 Front. Hum. Neurosci. 8:20; REBUS Pharmacol. Rev. 71(3):316–344; Toker PNAS 119(7):e2024455119; ALBUS Neurosci. Conscious. 2025(1):niae038). Length 1533w (61% of 2500 target). Not a listed apex source.
+
+## 2026-06-22T16:28:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)
+- **Source**: [pessimistic-2026-06-22b-language-recursion-and-consciousness](/reviews/pessimistic-2026-06-22b-language-recursion-and-consciousness/)
+- **Changes**: One coordinated pass resolving all three flagged issues plus both counterarguments and three persona critiques, per [evidential-status-discipline](/project/evidential-status-discipline/) (epistemic-reading ≠ metaphysical-reading rule):
+  - **Issue 1 (critical, access/phenomenal equivocation):** restructured the argument into two explicitly-separated stages — (i) framework-neutral empirical stage routing the WM-manipulation evidence to *access consciousness* (Block's sense; links [access-consciousness](/concepts/access-consciousness/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/)), (ii) the Map's *phenomenal* upgrade resting on its separate dualist commitments (zombie/inverted-qualia conceivability + binding/intentionality), not on the WM evidence. Replaced the asserted parenthetical bridge (old line 82) with an honest "further step on dualist grounds" framing. Staged the lede, the WM-bottleneck section, the manipulation section, and the Dualism tenet paragraph to match.
+  - **Issue 2 (medium, contested asymmetry):** hedged the maintenance/manipulation asymmetry as the dominant-but-contested reading; cited the 2026 19-lab Registered Report (Vadillo, Soto & Shanks et al., N=531, "decisive demonstrations of unconscious WM are lacking"); noted the skeptical alternative *strengthens* the consciousness-requirement (a fortiori — closes the unconscious escape route).
+  - **Issue 3 (medium-high, undefended human-uniqueness bridge / animal-dissociation objection):** added an explicit reply in §"The Capacity Constraint" — consciousness is *necessary but not sufficient*; recursion needs consciousness plus the expanded-WM phase transition (2±1 ape vs 4±1 human), so conscious animals below the threshold lacking recursion is exactly what the structure predicts. Acknowledged the deflationary merge-is-unique explanation in the Occam paragraph.
+  - **Counterarguments:** softened Strawson (constitution-vs-correlation gap), narrowed Whitehead to explicit illustration + named the panexperientialism/panpsychism tension, addressed the Nagarjuna apoha critique (apoha is deflationary — borrowed for structured negation, not its anti-realism about the experiencer), downgraded the No-MWI link to honest framework-boundary marking (per the discipline's MWI checklist — Everettian branch-local restatement available), and thinned the MQI link per the "cut-or-commit" flag.
+  - **Falsifier-2 repair:** re-pitched the "unconscious recursive parsing" defeater at the access level so it is genuinely satisfiable (behaviour can probe global-availability absence; it cannot confirm phenomenal absence).
+  - **Unsupported-claim fix:** hedged the "LLMs degrade at the distribution edge" claim as a contested 2024-2026 empirical question and made the argument's commitment explicitly conditional.
+  - Engagement classifications (editor-internal): functionalist/eliminativist on premise (2) — Mode Two (unsupported foundational move identified: WM evidence licenses access, not phenomenality; phenomenal upgrade routed to separate Map commitments); Everettian on No-MWI — Mode Three (framework-boundary, branch-local restatement available); Nagarjuna on apoha — Mode Three (boundary noted, machinery borrowed without the anti-realist ontology).
+- **Length**: target was length-neutral; trimmed ~200 words of redundant prose (merged Whitehead subsections, condensed Buddhist/contemplative/Training-Distribution/MQI/No-MWI passages) but net +~950 words from the load-bearing new material (staging, 2026 citation, dissociation reply, five persona engagements). Now 4702 body words — over the 4000 hard threshold (was ~3748, already over the 3000 soft). Queued a follow-up condense task.
+- **Original score**: see pessimistic review (structure sound, premise-support the issue)
+- **Published**: yes
+
+## 2026-06-22T16:16:33+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) (oldest topic with no prior pessimistic review; 5 prior deep-reviews were citation-focused)
+- **Findings**: 1 critical (access/phenomenal equivocation in load-bearing premise 2), 2 medium-high (contested maintenance/manipulation asymmetry; undefended human-uniqueness→consciousness bridge / unanswered animal-dissociation objection), plus 2 counterarguments and circularity risk in the binding/illusionism regress. Citations re-confirmed clean.
+- **Output**: [pessimistic-2026-06-22b-language-recursion-and-consciousness](/reviews/pessimistic-2026-06-22b-language-recursion-and-consciousness/)
+- **Task added**: P2 refine-draft consolidating all three issues into one coordinated, length-neutral editor pass
+
+## 2026-06-22T16:03:25+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Entropic Brain Hypothesis
+- **Output**: [entropic-brain-hypothesis-2026-06-22](/research/entropic-brain-hypothesis-2026-06-22/)
+- **Sources consulted**: 12
+
+## 2026-06-22T16:05:00+00:00 - deep-review
+- **Status**: Success (convergence-confirmation, no critical issues)
+- **File**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Word count**: 4558 → 4565 (+7; the Torres-Alegre preprint hedge, already on disk) — soft_warning, well below apex hard threshold
+- **Critical issues addressed**: 0 (none found — 4th deep review of a documented stably-converged apex)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp + review archive only; oscillation against a converged article avoided per convergence discipline)
+- **Convergence note**: only content change since the thorough 2026-06-05 publisher-of-record audit is one inline preprint-status hedge on Torres Alegre (2025). A fresh full cite sweep on an unchanged cite list 17 days later would be the over-review anti-pattern; verified the changed passage (preprint hedge = calibration *improvement*, opposite of slippage), confirmed length/superlative/editor-vocab checks clean, and verified the 06-05 deferred follow-up (`topics/motor-control-quantum-zeno.md:149` Cai/Kaeser fix) is RESOLVED.
+- **Output**: [deep-review-2026-06-22-phenomenology-mechanism-bridge](/reviews/deep-review-2026-06-22-phenomenology-mechanism-bridge/)
+
+## 2026-06-22T15:48:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-presentation](/concepts/phenomenal-presentation/)
+- **Word count**: 1372 → 1540 (+168)
+- **Critical issues addressed**: 0 (none found; first review of a fresh create)
+- **Medium issues addressed**: 1 — added engagement with Sellars's "Myth of the Given," the strongest live objection to a pre-judgemental given. Map grants Sellars his *epistemic* target and is untouched: presentation makes only a *phenomenal* claim (felt before judged), with justification handled separately by [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/). Honest reply, no overreach.
+- **Enhancements made**: 1 (the Sellars paragraph, doubling as the highest-value optimistic expansion given 55% length headroom)
+- **Web-verify (all 6 references)**: Husserl 1966 (Husserliana XI, ed. Fleischer, Nijhoff), Nagel 1974 (Phil Review 83(4) 435-450), Block 1995 (BBS 18(2) 227-247), Levine 1983 (PPQ 64(4) 354-361, Wiley DOI), Kriegel 2009 (OUP) — all real-correct at publisher of record. 6th ref is internal self-citation to phenomenal-acquaintance (created 2026-02-09, date matches). No defects. No superlative/empirical-record claims. Inline↔References cross-reference clean.
+- **Engagement modes**: no named-opponent replies (concept article); Dennettian deflation and eliminativist rejection are bedrock framework-boundary disagreements, adequately handled in existing Occam/reduction sections.
+- **Calibration**: Bidirectional-Interaction causal-work claim is appropriately-hedged abduction, NOT possibility/probability slippage.
+- **Output**: [deep-review-2026-06-22-phenomenal-presentation](/reviews/deep-review-2026-06-22-phenomenal-presentation/)
+
+## 2026-06-22T15:39:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Word count**: 4531 → 4531 (+0; frontmatter-only edits)
+- **Critical issues addressed**: 0 (none found — the 2026-06-08 TSVF-originality correction already resolved what would have been the one attribution-critical issue)
+- **Medium issues addressed**: 0 (none found; well-converged)
+- **Enhancements made**: 1 — advanced stale `apex_last_synthesis` (2026-05-27 → now) per the known apex-last-synthesis drift-artifact pattern so apex-evolve stops re-nominating an already-current article
+- **Web-verify (new cites since last review)**: Aharonov & Gruss (2005, arXiv:quant-ph/0507269) and Aharonov & Tollaksen (2007, arXiv:0706.1232) both VERIFIED at publisher of record, including the two quote-marked phrases — "free choice of the agent" (Gruss, confirmed verbatim) and "consistent with free-will" (Tollaksen, confirmed verbatim). The 2026-06-08 TSVF attribution correction is faithful; cerebral-measurement application and "genuine free will" framing both confirmed in the Gruss PDF.
+- **Engagement modes (editor-internal)**: timing-gap=Mode One; Zurek-Everettian=Mode Two; MWI-Deutsch=Mode Three; amplification-skeptic=Mode One; bias-without-deviation dilemma engaged with testability cost named, strong claim held as live hypothesis. No label leakage, no calibration slippage (the common-cause-artefact reframe strengthens calibration).
+- **Length**: 113% of apex soft (4000), under 5000 hard ceiling — over-soft margin is load-bearing attribution/calibration prose; human length decision flagged, not auto-condensed.
+- **Output**: [deep-review-2026-06-22-post-decoherence-selection-programme](/reviews/deep-review-2026-06-22-post-decoherence-selection-programme/)
+
+## 2026-06-22T15:29:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [parapsychology-firewall](/topics/parapsychology-firewall/)
+- **Original score**: n/a (calibration refine, not quality review)
+- **Trigger**: topic-concept anchoring audit (Audit Three) 2026-06-22 — fired against TWO anchors: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) (hedge_density + strong_assertions) and [interactionist-dualism](/concepts/interactionist-dualism/) (hedge_density + underdetermination_markers). Task named only the first; both addressed since they share the root cause (1 hedge / 1 strong-assertion verb across 1654 words).
+- **Changes**: Brought hedge density 0.60/kw → 3.58/kw (1→6 markers) by softening genuinely-exploratory passages (future-evidence speculation, the idleness/ensemble-epiphenomenalism converse, counterfactual-world predictions) — NOT the firewall thesis itself, which is a deliberate structural prediction the Map commits to. Removed the lone strong-assertion verb ("establishes"→"were to yield") taking strong-assertion density 0.60/kw → 0/kw. Added an explicit underdetermination marker ("compatible with both readings and do not adjudicate between them") on the decline-effect passage, which already made the point implicitly.
+- **Verification**: `evaluate_anchoring()` now returns no flags for either anchor. Length-neutral: 1654w → 1677w (well under ceiling). Voice and central claim preserved.
+- **Published**: yes
+
+## 2026-06-22T15:14:14+00:00 - deep-review
+- **Status**: Success (converged no-op — metadata-only confirm)
+- **File**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
+- **Word count**: 3764 → 3764 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th pass; article at stable equilibrium since 5th pass)
+- **Notes**: Re-nominated by a cosmetic refine (2c59225a6) that appended preprint-status hedges to the Torres Alegre reference. Body materially unchanged. Verified: preprint hedge accurate + arXiv-id consistent across cluster; label-leakage scan clean; no possibility/probability slippage; §2.4 web-verify correctly skipped (no new bibliographic entries). `ai_modified` left unbumped to break the false re-nomination loop. Length 125% of soft (under hard ceiling) — standing P2 /condense owns the length axis.
+- **Output**: [deep-review-2026-06-22-mathematical-structure-of-the-consciousness-physics-interface](/reviews/deep-review-2026-06-22-mathematical-structure-of-the-consciousness-physics-interface/)
+
+## 2026-06-22T15:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: cross-linking for [embodied-interface](/apex/embodied-interface/) (inbound reciprocal links)
+- **Source**: optimistic review [optimistic-2026-06-22b](/reviews/optimistic-2026-06-22b/) (Cross-Linking Suggestions)
+- **Changes**: Added inbound links to the newly-created `apex/embodied-interface` from its three out-link targets so the fresh apex is not an inbound-side near-orphan. (1) `apex/attention-as-causal-bridge`: related_articles entry + one clause in "The Void at Attention's Core" noting the embodied-interface synthesis sharpens that the searchlight does not annex the whole felt body. (2) `apex/cross-modal-capability-division`: related_articles entry + one clause in Synthesis marking the complementary axis (where-the-division-recurs vs what-consciousness-is-doing). (3) `concepts/somatic-interface`: ALREADY linked (frontmatter concepts + Related Articles body entry) — VERIFY-FIRST per out-of-scope-spillover-flags-stale prevented a duplicate; no change made.
+- **Length impact**: neutral (one clause each; attention-as-causal-bridge 4127w, cross-modal 4934w — both under hard ceiling)
+- **Verification**: sync resolved both new `[[embodied-interface]]` wikilinks (no broken-link strip); the basename `cross-modal-capability-division` correctly resolves to `apex/`. machine-question.md length warning is pre-existing, untouched.
+- **Published**: yes
 
 ## 2026-06-22T14:42:00+00:00 - expand-topic
 - **Status**: Success
