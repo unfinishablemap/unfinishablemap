@@ -746,6 +746,28 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
+### 34. The Born-Preserving Causal-Efficacy Problem
+
+**Slug**: `born-preserving-causal-efficacy`
+
+**Subtitle**: How conscious selection can do causal work while preserving aggregate Born statistics exactly — the Map's deepest open debt, stated whole
+
+**Thesis**: The Map's deepest unpaid debt is a single dilemma: conscious selection must do genuine causal work yet preserve aggregate Born statistics exactly, which places the framework one unforced step from epiphenomenalism. This piece is a research-agenda statement of the problem — the candidate routes out, the desiderata a worked toy model would have to meet, the failure modes that would sink each route, and what would count as progress — not a claim of resolution.
+
+**Source articles**:
+- concepts/ensemble-level-epiphenomenalism
+- topics/born-rule-and-the-consciousness-interface
+- topics/selection-only-mind-influence
+- concepts/causal-consistency-constraint
+- concepts/post-decoherence-selection
+- concepts/trumping-preemption
+
+**Status**: Created 2026-06-22 (admitted as #34 — commissioned by outer-review 2026-06-22 ChatGPT 5.5 Pro §1 + §4.3 + improvement #7, which named the Born-preserving causal-efficacy problem "the site's deepest issue": consciousness does real causal work while preserving aggregate Born statistics exactly, the strongest live challenge the framework holds, currently scattered across the quantum-interface positions register (P-Q2 + P-Q3 + P-Q10), the dilemma subsection of `apex/post-decoherence-selection-programme`, and the route-by-route concept `concepts/ensemble-level-epiphenomenalism`. NEW apex rather than extension: the two closest apexes are both at/over ceiling (`post-decoherence-selection-programme` 4,510w soft-warning treats the dilemma as one of five mechanism components; `phenomenal-output-causal-machinery-dissociation` 6,872w critical, explicitly off-limits for growth per the brief), and neither foregrounds the Born-preserving efficacy problem as its central subject with the *toy-model desiderata* and *what-would-count-as-progress* research-agenda framing the brief requested. The synthesis (a) states the dilemma exactly from P-Q2/P-Q3/P-Q10; (b) distinguishes it from classical epiphenomenalism (token-interactionist, type-epiphenomenal); (c) surveys three candidate routes — trumping, minimum-outside-corridor, Process-1 relocation — each rated at its evidential tier; (d) specifies six toy-model desiderata (token counterfactual robustness, exact ensemble Born-preservation, demonstrated compatibility of the two, no-signalling preservation, a statable selection principle, an amplification hook); (e) names each route's characteristic failure mode incl. the sharpest possible negative result (an impossibility proof that desiderata 1 and 2 are jointly unsatisfiable); (f) lays out five progress criteria in descending strength. Cites ≥3 positions — P-Q2, P-Q3, P-Q10 — with confidence bands surfaced in prose; deep-links `positions/quantum-interface#^mechanism-debt` rather than reciting the crux. Honours [evidential-status-discipline](/project/evidential-status-discipline/): held as a programme/research-agenda statement, NOT a claim of resolution; the trumping route flagged as framework-internal re-description that must not be sold as empirical demonstration. Citations REUSE the cluster's already-verified set (Saad 2025, Chalmers & McQueen 2022, Bourget 2004, Maier et al. 2018, Torres Alegre 2025 — the last carried with its not-yet-peer-reviewed-preprint qualifier); no new unverified cites. 3,624 words (soft 4,000 / hard 5,000 / critical 6,500 — ok). Slug-collision check clean (`born-preserving-causal-efficacy` available in apex/). All 19 wikilink targets resolve. Tenet alignment: Tenets 2 (Minimal Quantum Interaction — the source of the dilemma) and 3 (Bidirectional Interaction — what the dilemma challenges), with Tenets 1, 4, 5 bounding rather than generating the problem. Synthesis bar met per Governance Note 2026-06-08: integrates three positions, the route-by-route concept, the Born-rule topic, and the post-decoherence mechanism survey into a research agenda no source node states whole from inside itself.)
+
+**Source positions**: P-Q2, P-Q3, P-Q10 (quantum interface), with the `^mechanism-debt` crux (P-Q3 + P-Q10) load-bearing.
+
+---
+
 ## Applied Apex Articles
 
 Applied apex articles are decision-oriented synthesis pieces: given the positions the Map currently holds in `obsidian/positions/`, what follows for a specific real-world context? They differ from the synthesis apex articles above in shape — they cite ≥3 positions, surface those positions' confidence bands, name a decision context, and include a required "What this implies for decisions" section. See the `apex-evolve` SKILL.md Applied Discipline section for the discipline.

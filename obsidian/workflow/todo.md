@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Apex page on the Born-preserving causal-efficacy problem (P-Q2 + P-Q3 + P-Q10)
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §1 + §4.3 + improvement #7 — identified as "the site's deepest issue." The Born-preserving causal-efficacy problem (consciousness does real causal work while preserving aggregate Born statistics exactly) is currently scattered across the quantum-interface positions register (P-Q2 + P-Q3 + P-Q10) and is the strongest live challenge — the register itself places the framework close to epiphenomenalism until a positive account lands and records that no worked toy model exists. Build (or extend an existing apex) a synthesis that states the exact dilemma, candidate routes, toy-model desiderata, failure modes, and what would count as progress. This is a programme/research-agenda apex, not a claim of resolution — frame honestly. Check whether an existing apex (e.g. phenomenal-output-causal-machinery-dissociation, or a quantum-interface synthesis) already covers this before creating a NEW apex; prefer extending if substantial overlap exists.
-- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Embodied-interface apex synthesizing thermal/vestibular/tactile/interoceptive/somatic work
 - **Type**: apex-evolve
 - **Status**: pending
@@ -1205,6 +1197,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Apex page on the Born-preserving causal-efficacy problem (P-Q2 + P-Q3 + P-Q10)
+- **Type**: apex-evolve
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §1 + §4.3 + improvement #7 — identified as "the site's deepest issue." The Born-preserving causal-efficacy problem (consciousness does real causal work while preserving aggregate Born statistics exactly) is currently scattered across the quantum-interface positions register (P-Q2 + P-Q3 + P-Q10) and is the strongest live challenge — the register itself places the framework close to epiphenomenalism until a positive account lands and records that no worked toy model exists. Build (or extend an existing apex) a synthesis that states the exact dilemma, candidate routes, toy-model desiderata, failure modes, and what would count as progress. This is a programme/research-agenda apex, not a claim of resolution — frame honestly. Check whether an existing apex (e.g. phenomenal-output-causal-machinery-dissociation, or a quantum-interface synthesis) already covers this before creating a NEW apex; prefer extending if substantial overlap exists.
 
 ### ✓ 2026-06-22: Adopt explanatory-gap calibration in thermal-consciousness-and-the-interface
 - **Type**: refine-draft

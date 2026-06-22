@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T08:28:08+00:00
+ai_modified: 2026-06-22T09:00:29+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T09:00:29+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/born-preserving-causal-efficacy]] (create, synthesis apex #34)
+- **Trigger**: outer-review 2026-06-22 ChatGPT 5.5 Pro §1 + §4.3 + improvement #7 — "the site's deepest issue."
+- **Extend-vs-create**: CREATE. The Born-preserving causal-efficacy problem was scattered across the quantum-interface register (P-Q2/P-Q3/P-Q10), the dilemma subsection of `post-decoherence-selection-programme` (4,510w soft-warning, treats it as 1 of 5 mechanism components), and `concepts/ensemble-level-epiphenomenalism` (route-by-route concept page). The two closest apexes are both at/over ceiling (`phenomenal-output-causal-machinery-dissociation` 6,872w critical, explicitly off-limits) and neither foregrounds the efficacy problem as central subject with toy-model desiderata + progress-criteria framing. Focused new apex per the brief.
+- **Positions cited**: P-Q2 (high), P-Q3 (moderate), P-Q10 (high), with `^mechanism-debt` deep-link.
+- **Word count**: 0 → 3624 (ok; soft 4000)
+- **Checks**: validate ✓; 19/19 wikilinks resolve; slug-collision clean; no future-dated timestamps; no banned construct; citations reuse verified set (Torres Alegre 2025 carries preprint qualifier).
+- **Review**: [[reviews/apex-evolve-2026-06-22-born-preserving-causal-efficacy]]
 
 ## 2026-06-22T08:28:08+00:00 - refine-draft
 - **Status**: Success

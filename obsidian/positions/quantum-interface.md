@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-06-16T07:04:52+00:00
+ai_modified: 2026-06-22T09:03:18+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -38,7 +38,7 @@ These positions cover what the Map currently holds about the mechanism by which 
 
 This file runs over the soft per-domain length advisory (1500 soft / 2500 hard threshold). A 2026-06-08 split assessment kept it as one domain deliberately: the ten positions form a single densely-interlocked dependency graph that crosses any candidate sub-boundary (P-Q5 depends on the empirical P-Q6; P-Q9 depends on Born-rule P-Q2/P-Q7 *and* mechanism P-Q5/P-Q6; the meta-position P-Q10 ranges over P-Q1/P-Q2/P-Q3/P-Q7/P-Q9). Fragmenting into mechanism / Born-rule / empirical files would sever these intra-file `[[P-XN]]` links, which the register schema resolves only within a file. The domain is cohesive, not a conflation of separable domains, so it is held over soft rather than split to hit a number (soft ≠ hard).
 
-**Mechanism-debt convention.** P-Q3 (the bias-without-deviation dilemma) and P-Q10 (no worked toy model) together constitute the Map's *mechanism debt*. Downstream applied articles that claim consciousness "does causal work" — agency, motor selection, value-sensitive selection, placebo, functional neurological disorder — inherit this debt rather than discharging it, and should not read more confident than the register does upstream. The stable link target `[[positions/quantum-interface#^mechanism-debt]]` resolves to the P-Q3 framing below, so a downstream page can deep-link back to the crux in one anchor rather than reciting it; [[concepts/ensemble-level-epiphenomenalism]] is the developed, route-by-route treatment the anchor's narrative resolves to. P-Q3 and P-Q9 state honestly what the debt costs.
+**Mechanism-debt convention.** P-Q3 (the bias-without-deviation dilemma) and P-Q10 (no worked toy model) together constitute the Map's *mechanism debt*. Downstream applied articles that claim consciousness "does causal work" — agency, motor selection, value-sensitive selection, placebo, functional neurological disorder — inherit this debt rather than discharging it, and should not read more confident than the register does upstream. The stable link target `[[positions/quantum-interface#^mechanism-debt]]` resolves to the P-Q3 framing below, so a downstream page can deep-link back to the crux in one anchor rather than reciting it; [[concepts/ensemble-level-epiphenomenalism]] is the developed, route-by-route treatment the anchor's narrative resolves to, and [[apex/born-preserving-causal-efficacy]] is the programme-level synthesis stating the dilemma exactly, the candidate routes, the toy-model desiderata, and what would count as progress. P-Q3 and P-Q9 state honestly what the debt costs.
 
 ## Positions
 
