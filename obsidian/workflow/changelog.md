@@ -5,6 +5,15 @@ ai_modified: 2026-06-22 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T07:32:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/epiphenomenalism-argument]]
+- **Source**: outer review 2026-06-22 (Claude Opus 4.8), Deliverable 3 / A.7 — argument-vs-tenet calibration gap
+- **Changes**: Surgical register-alignment only (net +1 sentence, alignment not expansion). In the Bidirectional Interaction section: (a) scoped the "presses hard toward consciousness causing behavior" opener to the *bare-correlation* version (consistent with body line 73, which already scoped the main argument); (b) aligned the phenomenal-concept-survival acknowledgment to the tenets-page register — "the strongest version of the position survives" + "the disagreement runs closer to bedrock," framed as an honest framework-boundary disagreement over the first-person mode of presentation, not a defeated rival. Body lines 73, 137, 142 already calibrated; left untouched per 3-state finding.
+- **Engagement classification (editor-internal)**: phenomenal-concept theorists Mode Three (framework-boundary disagreement honestly marked; no in-framework refutation claimed). No label leakage in body.
+- **No "This is not X. It is Y." cliché.** No mode labels in prose.
+- **Published**: yes
+
 ## 2026-06-22T09:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/epistemology-of-convergence-arguments]]

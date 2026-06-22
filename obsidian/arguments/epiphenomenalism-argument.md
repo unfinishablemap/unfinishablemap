@@ -3,7 +3,7 @@ title: "Against Epiphenomenalism"
 created: 2026-01-15
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-06-16T19:15:48+00:00
+ai_modified: 2026-06-22T07:32:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -210,7 +210,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum framework provides *how* mental causation occurs without the problems epiphenomenalism tries to avoid. Consciousness doesn't violate causal closure by injecting energy; it operates precisely where [[causal-closure]] doesn't apply—at quantum indeterminacies. The [[concepts/consciousness-selecting-neural-patterns|selection mechanism]] biases which of physically permitted outcomes becomes actual.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The self-stultification argument presses hard toward consciousness causing behavior—on a causal theory of knowledge, reports about consciousness reliable in virtue of phenomenal causation are easier to sustain than reports reliable only by parallel. The Map holds this tenet because it judges that interface more defensible than the contested epistemological premises the phenomenal-concept escape relies on—not because the argument forecloses every epiphenomenalism. The tenet that consciousness "selects among superposed neural states" earns its place as the Map's best answer to the pressure, while conceding that sophisticated epiphenomenalism relocates rather than abandons the dispute.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Against the *bare-correlation* version of epiphenomenalism, the self-stultification argument presses hard toward consciousness causing behavior—on a causal theory of knowledge, reports about consciousness reliable in virtue of phenomenal causation are easier to sustain than reports reliable only by parallel. The Map holds this tenet because it judges that interface more defensible than the contested epistemological premises the phenomenal-concept escape relies on—not because the argument forecloses every epiphenomenalism. The tenet that consciousness "selects among superposed neural states" earns its place as the Map's best answer to the pressure, while conceding that the strongest version of the position—the sophisticated phenomenal-concept reply—survives by relocating rather than abandoning the dispute. There the disagreement runs closer to bedrock than the self-stultification framing alone suggests: it is an honest framework-boundary disagreement over whether the first-person mode of presentation can be exhaustively physically characterised, not a defeated rival.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The Map's rejection of many-worlds matters here. In MWI, "consciousness selecting outcomes" becomes incoherent—all outcomes occur in different branches. The arguments against epiphenomenalism depend on collapse being real: consciousness causes *this* outcome rather than *that*. The [[haecceity|indexical identity]] that makes "this outcome" meaningful is precisely what many-worlds dissolves.
 

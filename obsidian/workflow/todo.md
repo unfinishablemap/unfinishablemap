@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Recalibrate epiphenomenalism argument to match the tenets-page bedrock concession
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/arguments/epiphenomenalism-argument.md
-- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 3 + Remediation A.7. Argument-vs-tenet calibration contradiction: the Arguments page claims the case "presses hard toward consciousness being causally efficacious," while the tenets page concedes the phenomenal-concept strategy means "the strongest version of the position survives" and the disagreement "runs closer to bedrock." The partisan Arguments page overstates a result the tenets page correctly hedges — the topic-concept anchoring failure Audit Three is designed to catch, here at argument-vs-tenet level. 3-STATE DISCIPLINE: grep `epiphenomenalism-argument.md` for the "presses hard" phrasing and confirm the overstatement is present before editing. ACTION: recalibrate to match the tenets-page concession; remove/soften the overstatement so the Arguments page does not claim more than the tenets page grants. When the in-framework refutation is acknowledged not to fully succeed (phenomenal-concept strategy survives), state in natural prose that the disagreement runs closer to bedrock — per [[direct-refutation-discipline]] (mode labels stay out of article prose). Surgical; respect length ceilings.
-- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Methodology — give the /project/ self-correction disciplines enforcement teeth
 - **Type**: refine-draft
 - **Status**: pending
@@ -1255,6 +1246,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Recalibrate epiphenomenalism argument to match the tenets-page bedrock concession
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 3 + Remediation A.7. Argument-vs-tenet calibration contradiction: the Arguments page claims the case "presses hard toward consciousness being causally efficacious," while the tenets page concedes the phenomenal-concept strategy means "the strongest version of the position survives" and the disagreement "runs closer to bedrock." The partisan Arguments page overstates a result the tenets page correctly hedges — the topic-concept anchoring failure Audit Three is designed to catch, here at argument-vs-tenet level. 3-STATE DISCIPLINE: grep `epiphenomenalism-argument.md` for the "presses hard" phrasing and confirm the overstatement is present before editing. ACTION: recalibrate to match the tenets-page concession; remove/soften the overstatement so the Arguments page does not claim more than the tenets page grants. When the in-framework refutation is acknowledged not to fully succeed (phenomenal-concept strategy survives), state in natural prose that the disagreement runs closer to bedrock — per [[direct-refutation-discipline]] (mode labels stay out of article prose). Surgical; respect length ceilings.
 
 ### ✓ 2026-06-22: Reconcile Tenet 4 (No Many-Worlds) home-page framing with the tenets-page subjecthood concession
 - **Type**: refine-draft
