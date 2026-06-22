@@ -5,6 +5,18 @@ ai_modified: 2026-06-22T16:48:43+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T17:04:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Scope**: Sixth deep review. Verification of today's (2026-06-22) `refine-draft` evidence-tier pass (commit 896b94079) — genuine prose + citation churn since the 2026-06-05 review, so NOT convergence-damped. §2.4 web-verified the two CHANGED cites at the publisher of record; ~18 unchanged cites carried from 2026-06-05 (not re-litigated).
+- **Word count**: 3998 → 3998 (+0; verification pass, no body edits; frontmatter timestamps only)
+- **Critical issues addressed**: 0 (none found)
+- **Changed-cite web-verify**: Luo et al. (2025) JACS DOI 10.1021/jacs.5c15726 — real-correct (QM/MM computational cryptochrome-4a radical-pair study; the Xu→Luo inline swap is correct, matches ref #20, no orphan). Esmaeilpour et al. (2025) bioRxiv 10.1101/2025.08.23.671929 — real-correct (six authors, "giant and opposite" Li-isotope effects; today's "preprint/unreplicated" hedge accurate). Inline↔references cross-check clean bidirectionally; empirical-currency sweep N/A (no superlatives).
+- **Calibration read**: PASS — the today's refine moved the article FURTHER FROM possibility/probability slippage (removed the over-strong "six lines converge on neural quantum relevance" Established bullet → "Raises the prior (not established)"; marked Wiest 2025 a partisan brief; added the classical GABA_A reading of Khan 2024; gave Warren 2023's specific iZQC/iMQC mechanism). §2 diagnostic returns no overstatement at every checkpoint; "five grades" lede taxonomy internally consistent.
+- **Engagement mode (changelog-only)**: Duch external-critic — Mixed Mode One + Mode Three, honestly formed, no boundary-substitution, no label leakage (unchanged).
+- **Length**: 2 words under the 4000 hard cap; carried human-length-decision flag (load-bearing hub, NOT auto-condensable).
+- **Output**: [[reviews/deep-review-2026-06-22-quantum-biology-and-neural-consciousness]]
+
 ## 2026-06-22T16:48:43+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/entropic-brain-hypothesis]]
