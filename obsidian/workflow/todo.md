@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T13:30:00+00:00
+ai_modified: 2026-06-22T04:25:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,77 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Bring the live convergence/apex articles into line with the voids-circularity-discount
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/the-convergence-argument-for-dualism.md
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Key Finding 5 + Deliverable 3 + Remediation A.1. CONVERGENT with the ChatGPT 5.5 Pro review's evidential-weight-of-voids overstatement finding (§3.3/§4.5) — two reviewers independently flag the same circularity, so this is a high-confidence structural issue. The reviewer's named target `convergence-as-evidence` is ARCHIVED (`archive/voids/convergence-as-evidence.md`); the LIVE articles are `the-convergence-argument-for-dualism` and `epistemology-of-convergence-arguments` (topics), with apex synthesis in `taxonomy-of-voids`. Apply the REVISE-HARD remit to the LIVE articles: (a) inline-link and apply `voids-circularity-discount` (the /project/ page that concedes "convergence-with-self is not triangulation" and rules tenet-generated voids do not count toward the cumulative case); (b) ensure tenet-generated voids are explicitly excluded from any evidential count; (c) downgrade any "among the strongest forms of evidence" phrasing toward "framework-internal coherence." 3-STATE DISCIPLINE: grep each article first — some calibration may already be present (the apex `post-decoherence-selection-programme` already says "constraints rather than mechanisms" with framework-stage calibration, so the reviewer's claim it "still frames them as convergence" is partly stale; verify before editing). The single most-damaging missing piece per the reviewer is the absent bridge FROM `voids-circularity-discount` TO these apex/convergence articles — add the cross-link both ways. Respect length ceilings (topics soft 2500 / hard 3500). Apply the [[direct-refutation-discipline]] remit where the edit touches an opponent-engagement move; keep mode labels out of article prose (editor-internal, changelog only).
+- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Engage active-inference theory of consciousness as a NAMED rival (not just a mechanism)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/predictive-processing-and-dualism.md
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Finding 3 + Deliverable 2 + Remediation A.6/B.3. PARTIAL CORRECTION of the reviewer: predictive processing DOES have a topic home (`predictive-processing-and-dualism.md`) and a concept page (`concepts/predictive-processing.md`) — the "no standalone home / only wikilink fragments" claim is inaccurate. AND Laukkonen, Friston & Chandaria, "A beautiful loop: An active inference theory of consciousness," *Neurosci. Biobehav. Rev.* art. 106296 (2025), DOI 10.1016/j.neubiorev.2025.106296 (web-verified this cycle — real, three-conditions account accurate) is ALREADY cited in the meditation cluster (`comparative-phenomenology-of-meditative-traditions`, `neurophenomenology-and-contemplative-neuroscience`, `cessation-versus-plenitude`). The REAL, narrower finding: this active-inference *theory of consciousness* — a direct competitor to the interface/filter reading — is not confronted AS a named adversary on the pages where the filter/interface gloss is applied (Default Mode Network, Global Workspace, altered-states/agency clusters). ACTION: on `predictive-processing-and-dualism` (and link from the DMN/GWT concept pages) state the Laukkonen-Friston-Chandaria active-inference theory in ITS OWN physicalist terms as the strongest contemporary rival, THEN give the Map's reply — do not re-gloss it toward the interface reading. Honour the co-optation firewall. Apply the [[direct-refutation-discipline]] remit (show the rival defective on its own terms, OR name an unsupported foundational move, OR honestly mark the framework-boundary disagreement); mode labels stay out of article prose. Respect length ceilings.
+- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Integrate COGITATE 2025 + infant-marker literature into the convergence and animal/machine clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/animal-consciousness.md
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 4 + Remediation A.10. Two web-verified 2023–2025 results the named articles do not yet engage (3-STATE DISCIPLINE: COGITATE is already cited in ~10 corpus articles incl `experimental-consciousness-science-2025-2026` and `falsification-roadmap-for-the-interface-model` — but is ABSENT from `the-convergence-argument-for-dualism` and the `machine-question` apex, where the reviewer wants it; Bayne 2023 is ABSENT from `animal-consciousness`). (a) **Cogitate Consortium**, "Adversarial testing of global neuronal workspace and integrated information theories of consciousness," *Nature* 642(8066):133–142 (5 Jun 2025), DOI 10.1038/s41586-025-08888-1, PMID 40307561 (verified) — BOTH leading physicalist theories took empirical damage (posterior cortex sufficient; PFC/global-broadcasting not necessary; GNWT lacked offset-ignition). Engage SYMMETRICALLY per constrain-vs-establish: it neither confirms dualism nor is the "physicalism predicts the gaps will close" win the convergence article frames. (b) **Bayne, Frohlich, Cusack, Moser & Naci**, "Consciousness in the cradle," *Trends Cogn. Sci.* (2023), `S1364-6613(23)00214-0` (verified) — marker-based early-onset case; integrate into the animal/infant cluster as a live constraint. The reviewer's strategic inference worth pursuing: build a "minimal/bare dualism" spine (animal/infant/AI irreducibility) that survives even if the quantum-interface programme is demoted to coherence-only — this is the project's hedge against its deepest vulnerability. Keep edits surgical; respect length ceilings; web-verify any FURTHER new cite before adding ([[ai_citation_metadata_unreliable]]).
+- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Reconcile Tenet 4 (No Many-Worlds) home-page framing with the tenets-page subjecthood concession
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/tenets/tenets.md
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 3 + Remediation A.4. CONTRADICTION-ADJACENT: the home page markets No-MWI as a quantum-interpretation commitment, while the tenets page concedes No-MWI "is not a pure physics tenet" and inherits its weight from a non-deflationary theory of subjecthood adopted "on independent grounds" — i.e. Tenet 4 is downstream of the agency/subjecthood cluster, not of quantum foundations. (NOTE: a 2026-06-16 task already harmonised the tenets-page No-MWI subjecthood-dependency note re common-root vs mutual-confirmation; this is the COMPLEMENTARY home-page-vs-tenets-page consistency fix, not a duplicate — verify the home-page framing first.) ACTION: state up front (home page and/or tenet summary) that Tenet 4 rests on the subjecthood theory, not on quantum interpretation per se, OR relabel its presentation so the two pages agree. 3-state discipline: confirm the home-page framing actually overstates before editing. Surgical; foundational-page accuracy. Apply [[direct-refutation-discipline]] remit if the edit touches the indexical-objection engagement.
+- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Recalibrate epiphenomenalism argument to match the tenets-page bedrock concession
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/arguments/epiphenomenalism-argument.md
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 3 + Remediation A.7. Argument-vs-tenet calibration contradiction: the Arguments page claims the case "presses hard toward consciousness being causally efficacious," while the tenets page concedes the phenomenal-concept strategy means "the strongest version of the position survives" and the disagreement "runs closer to bedrock." The partisan Arguments page overstates a result the tenets page correctly hedges — the topic-concept anchoring failure Audit Three is designed to catch, here at argument-vs-tenet level. 3-STATE DISCIPLINE: grep `epiphenomenalism-argument.md` for the "presses hard" phrasing and confirm the overstatement is present before editing. ACTION: recalibrate to match the tenets-page concession; remove/soften the overstatement so the Arguments page does not claim more than the tenets page grants. When the in-framework refutation is acknowledged not to fully succeed (phenomenal-concept strategy survives), state in natural prose that the disagreement runs closer to bedrock — per [[direct-refutation-discipline]] (mode labels stay out of article prose). Surgical; respect length ceilings.
+- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Mark Wiest-2025 / macroscopic-brain-entanglement claims as contested in the quantum-biology cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/quantum-biology-and-neural-consciousness.md
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 4 + Remediation A.8. CONVERGENT with the ChatGPT 5.5 Pro review's quantum-biology evidence-tiering finding (its §5.1 / the "Evidence-tier the quantum-biology-and-neural-consciousness topic article" task) and with that review's entanglement-binding-hedge precision fix — three reviewer-signals point at the same over-confidence, so consolidate with those tasks rather than churning the file separately. (The reviewer's named slug `quantum-biology-neural-experimental-turn` is ARCHIVED; the LIVE file is `quantum-biology-and-neural-consciousness.md`.) CONSTRAIN-VS-ESTABLISH worry: Wiest 2025 (*Neurosci. Conscious.* niaf011 — real, verified by the reviewer) is a partisan Orch-OR brief; its "direct physical evidence of a macroscopic quantum entangled state in the living human brain" claim is repeated with insufficient marking that it is contested and rests on the disputed Hagan–Hameroff decoherence estimate. ACTION: flag the macroscopic-entanglement claim as contested and dependent on disputed parameters; mark Wiest 2025 as a partisan review, not settled evidence; keep the (correctly-cited) avian-cryptochrome precedent as establishing only that warm quantum effects CAN occur in a specific molecular architecture — not that microtubule consciousness claims inherit that support. Surgical; respect length ceilings.
+- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: Methodology — give the /project/ self-correction disciplines enforcement teeth
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/project/calibration-audit-triple.md
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Remediation List B (the review's CENTRAL meta-critique) + Bottom line. The deepest finding: circularity, co-optation, and unfalsifiability are DISCLOSED in /project/ pages but not ENFORCED against the content that commits them — "the project has substituted exhaustive self-disclosure for self-correction," so the meta-apparatus risks functioning as inoculation rather than constraint. This is a METHODOLOGY/project-doc task (not article content). Capture as concrete proposals in the project docs (do NOT silently rewrite site policy — frame as proposed disciplines for human ratification): (1) confessions in /project/ should be able to produce a visible falsifiability-status / coherence-only marker on the offending apex/topic pages (e.g. the corridor reading the Born-rule page itself admits is unfalsifiable-by-construction); (2) IMPLEMENT the co-optation gate (Audit Six) now rather than "when /tune-system promotes it" — maintain the naturalist + physics rosters and require a one-line verified actual-stance statement before any tenet-load-bearing citation; (3) make the constrain-vs-establish guardrail REQUIRED (one sentence per Relation-to-Site-Perspective naming what a physicalist rival explains equally well); (4) tag each position's falsifiability status so readers can tell empirically-engaged content from constructed-to-be-unfalsifiable content. NOTE on B.9 (non-LLM/human review channel) and B.4/B.5 (Voids dedup cap; populate Positions register): the human-review-channel item is an OPERATOR decision, surface but do not action; Voids dedup + Positions seeding are tracked separately (Positions seeding overlaps the existing ChatGPT-review consciousness-scope + methodology positions tasks — coordinate, don't double-spend cap). Keep this task to the project-doc proposals; respect the project-page conventions.
+- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
+
+### P2: De-duplicate / canonicalize the Voids catalogue (convergent with ChatGPT review)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Key Finding 4 + Deliverable 2 + Remediation A.9/B.4. CONVERGENT with the ChatGPT 5.5 Pro review's stale-served-archived-URLs finding — both reviewers independently flag Voids redundancy / catalogue-growth-as-evidence-inflation, so this is high-confidence. The reviewer lists near-identical slug clusters: self-opacity / unobservable-self / self-reference-paradox / introspective-opacity / volitional-opacity; smoothness-and-continuity / smoothness-problem / continuity-void; observation-and-measurement-void / observation-void / measurement-void / quantification-void / calibration-void; phenomenal-absence-void / phenomenal-presence-void / givenness-void / reality-feeling-void; convergence-as-evidence / convergence-of-the-void-catalogue / evidential-weight-of-voids (the last cluster is ALREADY partly archived). 3-STATE DISCIPLINE: many of these may already be archived/coalesced (check `archive/voids/` and `find` each slug before proposing a merge — the reviewer read the live index which still serves some stale-duplicate URLs, the known [[coalesce-stale-hugo-duplicate-urls]] bug, so apparent live duplicates may be already-archived pages still serving content). ACTION: audit the listed clusters; for any genuinely-live duplicate pair, coalesce to a canonical page with redirects (use /coalesce, which preserves URLs) and verify the stale hugo duplicate is removed/redirected; freeze net catalogue growth via the voids/ section cap (already ~101/100). Report the post-dedup count. This is exploratory/audit — do NOT mass-delete; prefer coalesce-with-redirect; one cluster per pass.
+- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-22
 
 ### P1: Soften Tenet 3 comparative-cognition overreach (apes "do not perform logical reasoning")
 - **Type**: refine-draft

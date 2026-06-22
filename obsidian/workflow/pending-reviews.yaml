@@ -28,9 +28,9 @@
   commissioned_at: '2026-06-22T03:13:18.676082+00:00'
   prompt_summary: 'Full-site audit: insights, structure, tenet coherence, stale claims'
   target_filename: outer-review-2026-06-22-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-22T04:18:52.045104+00:00'
   failure_reason: null
   prompt_text: "Act as a rigorous, skeptical referee and conduct a full-site audit\
     \ of The Unfinishable Map (https://unfinishablemap.org), a philosophy platform\

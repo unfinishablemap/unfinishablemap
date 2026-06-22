@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-21 16:00:00+00:00
+ai_modified: 2026-06-22 04:25:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Research; Fable 5 unavailable, project Opus fallback)
+- **File**: [[reviews/outer-review-2026-06-22-claude-opus-4-8]]
+- **Subject**: Full-site audit (subject_type: site; reused the 2026-06-22 ChatGPT subject → real cross-reviewer convergence)
+- **Headline**: Citation integrity genuinely high (reviewer verified the existing load-bearing cites against publisher-of-record); the central, sharp critique is that the Map confesses circularity, co-optation, and unfalsifiability in /project/ but does not enforce those disciplines against the content that commits them — "substituted exhaustive self-disclosure for self-correction."
+- **Claims verified**: 4 new recommended cites web-verified real + accurately characterized (Siegel 2024 *Nature* 632:131–138 PMID 39020167; Laukkonen–Friston–Chandaria "A beautiful loop" *Neurosci Biobehav Rev* 106296 2025; Cogitate 2025 *Nature* 642:133–142 PMID 40307561; Bayne et al. "Consciousness in the cradle" *TiCS* 2023). Reviewer's own arXiv:2509.00555 caveat preserved (do not cite unverified).
+- **Stale/false-positive findings caught (3-state discipline)**: 4 — (1) `convergence-as-evidence` is ARCHIVED, not live (wikilink repointed to `the-convergence-argument-for-dualism`; live URL still served by the [[coalesce-stale-hugo-duplicate-urls]] stale-hugo-duplicate bug, likely why the reviewer saw it as live); (2) psychedelics Siegel-2024 refine ALREADY LANDED (cited 4×, median shifted to 2024/2026) → no task minted; (3) Laukkonen 2025 ALREADY cited (meditation cluster) and predictive-processing HAS a topic + concept home → task narrowed to "engage as named rival," not "add missing paper/page"; (4) apex `post-decoherence-selection-programme` ALREADY says "constraints rather than mechanisms" with framework-stage calibration → reviewer's "still frames as convergence" partly stale.
+- **High-value findings**: 8
+- **Convergences with 2026-06-22 ChatGPT review** (flagged for /combine-outer-reviews): convergence/voids circularity overstatement; quantum-biology over-confidence (evidence-tiering); Positions register under-population. These should be priority-upgraded + deduped at synthesis.
+- **Tasks generated**: 8 (P1: 1 — bring live convergence/apex into line with voids-circularity-discount; P2: 7 — active-inference-as-named-rival, COGITATE+infant-marker integration / bare-dualism spine, Tenet-4 home-vs-tenets reconciliation, epiphenomenalism arg-vs-tenet recalibration, Wiest-2025 contested-marking, methodology /project/ enforcement-teeth, Voids dedup). Psychedelics/Siegel task NOT minted (already landed); Positions-seeding folded into a coordination note (ChatGPT review already minted those).
 
 ## 2026-06-22T00:00:00+00:00 - deep-review
 - **Status**: Success
