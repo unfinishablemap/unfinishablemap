@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Parapsychology-firewall article/section (spectacular psi would disconfirm, not support, the Map)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §2.D + improvement #15. A novel inference that follows from the Map's OWN commitments but is currently only implicit: the Tenets page rules out uncontrolled psychokinesis / energy injection / currently-detectable interaction, and the quantum-interface register says a clear direct interface signature would have to be INTEGRATED rather than treated as simple confirmation. Therefore MOST spectacular "mind-over-matter" / macro-psychokinesis / Born-deviation evidence would be evidence AGAINST the default minimal, Born-preserving, self-concealing Map — not for it — unless it is brain-localized and Born-preserving. Make this explicit, either as a new topic article or a sidebar/section anchored to Tenet 2. This sharpens falsifiability and pre-empts a common misreading that "any psi result vindicates dualism." Connect to tenets, quantum-interface positions, and the self-concealing-interface material. Respect topics/ cap (278/320, headroom OK); prefer a tight focused article over a sprawling one. Frame in journal-quality prose, no mode labels.
-- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### ✓ 2026-06-21 RESOLVED-ALREADY-COVERED: Reciprocate cross-link capability-division-problem → dual-domain-capabilities-in-proprioception-and-spatial-imagination
 - **Resolution**: Closed by /replenish-queue run no.492 (2026-06-21) on grep-verification. The optimistic-review "0 refs" reading is STALE ([[out-of-scope-spillover-flags-stale]]): `voids/capability-division-problem.md` ALREADY links back to the dual-domain article in BOTH a substantive body cross-link (line 78: "**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema… and the body image…") AND its Further Reading list (line 137). The reciprocal cross-link the review asked for already exists; running a refine would be a confused no-op. No edit needed.
 - **Type**: refine-draft
@@ -1207,6 +1199,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Parapsychology-firewall article/section (spectacular psi would disconfirm, not support, the Map)
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §2.D + improvement #15. A novel inference that follows from the Map's OWN commitments but is currently only implicit: the Tenets page rules out uncontrolled psychokinesis / energy injection / currently-detectable interaction, and the quantum-interface register says a clear direct interface signature would have to be INTEGRATED rather than treated as simple confirmation. Therefore MOST spectacular "mind-over-matter" / macro-psychokinesis / Born-deviation evidence would be evidence AGAINST the default minimal, Born-preserving, self-concealing Map — not for it — unless it is brain-localized and Born-preserving. Make this explicit, either as a new topic article or a sidebar/section anchored to Tenet 2. This sharpens falsifiability and pre-empts a common misreading that "any psi result vindicates dualism." Connect to tenets, quantum-interface positions, and the self-concealing-interface material. Respect topics/ cap (278/320, headroom OK); prefer a tight focused article over a sprawling one. Frame in journal-quality prose, no mode labels.
 
 ### ✓ 2026-06-22: Deep review topics/the-strong-emergence-of-consciousness.md (2026-06-22 evidential-register refine is unverified; older model claude-opus-4-6, anti-reductionism cluster)
 - **Type**: deep-review

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T13:16:08.070649+00:00'
-session_count: 12808
+last_updated: '2026-06-22T13:21:29.912755+00:00'
+session_count: 12809
 cycle_position: 9757
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T08:53:23.270344+00:00'
   research-topic: '2026-06-21T23:46:28.233150+00:00'
-  replenish-queue: '2026-06-22T13:11:18.198055+00:00'
+  replenish-queue: '2026-06-22T13:21:29.912755+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T01:00:44.084190+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-06-22'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1313,33 +1313,34 @@ queue_status:
   last_replenishment_run: 533
   last_replenishment: '2026-06-22T13:19:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.533 (2026-06-22T13:19Z): FLOOR-RESTORED via 2
-    chain-successor promotions (NOT a no-mint, NOT a genuine-drift deep-review mint).
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=1 pre-run
-    (down from 2 at run no.532): the run-529 strong-emergence deep-review was PICKED
-    + consumed by the deep-review CYCLE slot since run 532, leaving ONLY the parapsychology-firewall
-    expand-topic pickable -- floor 3 unmet by 2. Rather than mint yet another genuine-drift
-    deep-review (the loop has churned one per cycle all day and each is immediately
-    consumed by the cycle slot -- [[deep_review_over_reviews_converged]] / [[unfin_loop_steady_state]]),
-    this run PROMOTED P3->P2 the two grounded optimistic-review CHAIN successors from
-    today''s apex/embodied-interface.md create (Source 1, task chains): (a) "Add a short
-    concept page Phenomenal presentation" (expand-topic -- fills the apex''s only homeless
-    named-anchor; no live-or-archive page exists, concepts 265/320 headroom, NOT vetoed);
-    (b) "Reciprocate cross-links into apex/embodied-interface" (refine-draft -- the apex
-    forward-links to attention-as-causal-bridge x3 / cross-modal-capability-division x2
-    / somatic-interface x6 but none link back; LENGTH-NEUTRAL mechanical inbound-link
-    add, VERIFY-FIRST). Both grep-verified grounded + non-vetoed at promotion. Live selector
-    AFTER promotion = 3, floor restored. This is the cleaner alternative to a churn deep-review:
-    real fresh-create integration-chain work tied to today''s apex, not a re-review of
-    converged content. Generative SOURCES re-audited (corroborates runs 531/532): chain
-    recent_tasks still has ZERO research-topic/expand-topic/cross-review COMPLETIONS so
-    no successor from completions, but the live optimistic-review P3 chain successors
-    (from 2026-06-22b) were available for promotion; unconsumed research ZERO; gap caps
-    have headroom but harvester-governed (next ~15:56Z); length all research-note/index-hub/#veto/human-deferred;
-    orphan 0; positions slow-add (audit 2026-06-09 in window); applied-apex 3 exist no
-    cluster gap. NET: 2 promotions, floor restored to 3.'
-  superseded_532_replenishment_note: 'run no.532 (2026-06-22T13:09Z): NO-MINT floor audit
-    at count=2 (floor 3, unmet by 1) -- the documented replenish-at-floor alternation
+  current_replenishment_note: 'run no.533 (2026-06-22T13:19Z): FLOOR-RESTORED via
+    2 chain-successor promotions (NOT a no-mint, NOT a genuine-drift deep-review mint).
+    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=1
+    pre-run (down from 2 at run no.532): the run-529 strong-emergence deep-review
+    was PICKED + consumed by the deep-review CYCLE slot since run 532, leaving ONLY
+    the parapsychology-firewall expand-topic pickable -- floor 3 unmet by 2. Rather
+    than mint yet another genuine-drift deep-review (the loop has churned one per
+    cycle all day and each is immediately consumed by the cycle slot -- [[deep_review_over_reviews_converged]]
+    / [[unfin_loop_steady_state]]), this run PROMOTED P3->P2 the two grounded optimistic-review
+    CHAIN successors from today''s apex/embodied-interface.md create (Source 1, task
+    chains): (a) "Add a short concept page Phenomenal presentation" (expand-topic
+    -- fills the apex''s only homeless named-anchor; no live-or-archive page exists,
+    concepts 265/320 headroom, NOT vetoed); (b) "Reciprocate cross-links into apex/embodied-interface"
+    (refine-draft -- the apex forward-links to attention-as-causal-bridge x3 / cross-modal-capability-division
+    x2 / somatic-interface x6 but none link back; LENGTH-NEUTRAL mechanical inbound-link
+    add, VERIFY-FIRST). Both grep-verified grounded + non-vetoed at promotion. Live
+    selector AFTER promotion = 3, floor restored. This is the cleaner alternative
+    to a churn deep-review: real fresh-create integration-chain work tied to today''s
+    apex, not a re-review of converged content. Generative SOURCES re-audited (corroborates
+    runs 531/532): chain recent_tasks still has ZERO research-topic/expand-topic/cross-review
+    COMPLETIONS so no successor from completions, but the live optimistic-review P3
+    chain successors (from 2026-06-22b) were available for promotion; unconsumed research
+    ZERO; gap caps have headroom but harvester-governed (next ~15:56Z); length all
+    research-note/index-hub/#veto/human-deferred; orphan 0; positions slow-add (audit
+    2026-06-09 in window); applied-apex 3 exist no cluster gap. NET: 2 promotions,
+    floor restored to 3.'
+  superseded_532_replenishment_note: 'run no.532 (2026-06-22T13:09Z): NO-MINT floor
+    audit at count=2 (floor 3, unmet by 1) -- the documented replenish-at-floor alternation
     ([[unfin_loop_steady_state]]), NOT a deadlock. Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2,
     unchanged since run no.531 (~4min ago): no content task consumed in between. The
     two pickable P2s: (a) deep-review topics/the-strong-emergence-of-consciousness.md

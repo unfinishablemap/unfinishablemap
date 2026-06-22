@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T09:00:29+00:00
+ai_modified: 2026-06-22T13:23:25+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T13:23:25+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The parapsychology firewall — spectacular psi would disconfirm, not support, the Map
+- **Output**: [[topics/parapsychology-firewall]]
+- **Word count**: 1654 (55% of 3000 topics target — ok)
+- **Based on research**: No existing research note; built on the corridor/Born-preservation argument in [[selection-only-mind-influence]], the no-signalling treatment in [[causal-consistency-constraint]], and the demarcation already stated in [[tenets#^minimal-quantum-interaction]]. Two-channel structure preserved (source exposition / Map integration kept separate). 1 self-citation (Oquatre-sept, selection-only). Frames the firewall as a falsifier the Map owns: reliable, lawlike, content-importing psi → disconfirmation. Does NOT read the psi-null corridor as positive support (possibility-probability-slippage discipline). Not an apex source.
 
 ## 2026-06-22T13:14:14+00:00 - deep-review
 - **Status**: Success (converged no-op)
