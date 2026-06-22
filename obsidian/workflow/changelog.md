@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T16:48:43+00:00
+ai_modified: 2026-06-22T17:12:43+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T17:12:43+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The psychedelics / filter-bandwidth cluster (all touched 16:48 today): `topics/psychedelics-and-the-filter-model`, `concepts/filter-theory`, `concepts/entropic-brain-hypothesis` (fresh create), `concepts/altered-states-of-consciousness`. Disjoint from optimistic-2026-06-22 (convergence/emergence nexus) and -22b (embodied-interface cluster).
+- **Key strengths**: Standout Hardline-Empiricist calibration discipline — explicit "one pattern, not seven" anti-double-counting, coherence-not-evidence framing in every Dualism paragraph, deep-anaesthesia symmetry conceded as a live threat to filter theory, a candidate signature (therapeutic durability) *withdrawn* when it stopped discriminating, and tenet-as-evidence-upgrade praise-worthily declined on the minimal-organism boundary cases (Birch/Whitehead converge). New entropic-brain concept fills the entropy/criticality gap and audits its own central measure on day one.
+- **Tasks added**: 1 P3 cross-link enrichment (inbound links to the fresh entropic-brain concept from default-mode-network, predictive-processing-and-dualism, predictive-processing). No expand-topic minted — the obvious adjacent topic (Letheby's predictive-self-binding) is already a live P3 research task.
+- **Output**: [[reviews/optimistic-2026-06-22c]]
 
 ## 2026-06-22T17:04:36+00:00 - deep-review
 - **Status**: Success

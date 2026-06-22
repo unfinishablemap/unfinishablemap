@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Add inbound cross-links to concepts/entropic-brain-hypothesis.md (fresh create, orphan-from-outside-cluster)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-22c. The `entropic-brain-hypothesis` concept (created 2026-06-22) has good *intra-cluster* inbound links (psychedelics-and-the-filter-model, filter-theory, altered-states-of-consciousness) but ZERO inbound links from outside that cluster, despite three articles that discuss its subject matter at length without linking it. Add a single natural cross-link from each of: (1) `concepts/default-mode-network.md` — discusses REBUS + DMN-as-prior + psychedelic criticality (its "Psychedelic Evidence" section ~lines 97-106, 169-177) but never links the new entropy/criticality concept; (2) `topics/predictive-processing-and-dualism.md` — already lists psychedelics-and-the-filter-model in Further Reading for "REBUS and Letheby"; add an entropic-brain Further-Reading line; (3) `concepts/predictive-processing.md` — REBUS's parent framework, currently no entropy/criticality mention, give readers the dynamical-signature route in. Keep edits minimal (one wikilink each, in a natural anchor or Further Reading); do NOT pad. Verify each reciprocates (entropic-brain already lists predictive-processing-and-dualism in its Further Reading). See optimistic-2026-06-22c.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-22
+
 ### P2: Deep review apex/what-consciousness-tells-us-about-physics.md (2026-06-22 own-body Torres Alegre preprint-status caveat is deep-review-unverified; Tenet 2/4 load-bearing, older model claude-opus-4-6)
 - **Type**: deep-review
 - **Status**: pending
