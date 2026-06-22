@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T09:28:32.561247+00:00'
-session_count: 12785
+last_updated: '2026-06-22T09:35:28.211482+00:00'
+session_count: 12786
 cycle_position: 9748
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T08:53:23.270344+00:00'
   research-topic: '2026-06-21T23:46:28.233150+00:00'
-  replenish-queue: '2026-06-22T09:16:50.125405+00:00'
+  replenish-queue: '2026-06-22T09:35:28.211482+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T01:00:44.084190+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-22'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1314,32 +1314,67 @@ queue_status:
   last_replenishment_run: 525
   last_replenishment: '2026-06-22T09:31:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: |-
-    run no.525 (2026-06-22T09:31Z): MINTED 1 floor-restoring deep-review at count=2
+  current_replenishment_note: 'run no.525 (2026-06-22T09:31Z): MINTED 1 floor-restoring
+    deep-review at count=2
+
     (floor 3, unmet by 1). Authoritative live tools.evolution.task_selector.count_p0_p2_tasks=2
+
     pre-mint (the two outer-review synthesis P2s: embodied-interface apex +
-    parapsychology-firewall). The born-preserving-causal-efficacy deep-review that run 524
-    inserted as its floor slot was self-selected + consumed by the deep-review CYCLE slot
+
+    parapsychology-firewall). The born-preserving-causal-efficacy deep-review that
+    run 524
+
+    inserted as its floor slot was self-selected + consumed by the deep-review CYCLE
+    slot
+
     minutes later (commit b3f151685 -- same-day-collision, deep_review_over_reviews_converged),
-    dropping the live floor back to 2. ALL generative sources independently re-audited from
+
+    dropping the live floor back to 2. ALL generative sources independently re-audited
+    from
+
     live disk (corroborates runs 523/524): chains dry (recent_tasks has zero
+
     research/expand/cross-review -- 7 refine-draft, 3 deep-review, no chain to extend);
+
     unconsumed research zero (newest thermal/vestibular/interoceptive notes all consumed
-    into live topics/ articles); gap/caps headroom exists (topics 277/320, concepts 265/320,
+
+    into live topics/ articles); gap/caps headroom exists (topics 277/320, concepts
+    265/320,
+
     positions 8/80) but new-article generation is harvester-governed (harvester last
+
     2026-06-22T03:45Z, next ~09:45Z) and replenish gap-analysis is Vetoed-bank-dedup-blocked;
+
     length offenders all research-notes/index-hub/human-deferred/veto/refine-then-condense-churn,
-    no safe condense candidate; orphans 0; positions slow-add audit ran 06:20; no applied-apex
+
+    no safe condense candidate; orphans 0; positions slow-add audit ran 06:20; no
+    applied-apex
+
     cluster gap; top drift rows git-verified cosmetic sibling cross-touches
-    (replenish-false-exhaustion-mislabeled-drift). The ONE genuine own-body candidate minted:
-    deep-review apex/altered-states-as-interface-evidence.md -- last deep-reviewed 2026-06-02
+
+    (replenish-false-exhaustion-mislabeled-drift). The ONE genuine own-body candidate
+    minted:
+
+    deep-review apex/altered-states-as-interface-evidence.md -- last deep-reviewed
+    2026-06-02
+
     but substantively own-body-edited 2026-06-11 by commit 3f1a73934 (Fix borderline
+
     Carhart-Harris/Friston co-optation, slug in subject = own-body), so the co-optation
+
     recalibration is UNVERIFIED by deep-review; ai_system claude-opus-4-7 (older model);
-    citation-dense apex (~29 cites); Tenet 1/3 load-bearing; body 4493w soft_warning so
-    length-neutral; only done-headers exist for it, not vetoed, no open duplicate. Inserted
-    at top of Active Tasks (LIFO defence). Floor now 3, met (selector returns it). Expect
-    replenish-at-floor alternation until the harvester reopens the research-to-expand pipeline.
+
+    citation-dense apex (~29 cites); Tenet 1/3 load-bearing; body 4493w soft_warning
+    so
+
+    length-neutral; only done-headers exist for it, not vetoed, no open duplicate.
+    Inserted
+
+    at top of Active Tasks (LIFO defence). Floor now 3, met (selector returns it).
+    Expect
+
+    replenish-at-floor alternation until the harvester reopens the research-to-expand
+    pipeline.'
   superseded_524_replenishment_note: 'run no.524 (2026-06-22T09:15Z): MINTED 1 floor-restoring
     deep-review at count=2 (floor 3, unmet by 1). Authoritative live tools.evolution.task_selector
     THIS run: count_p0_p2_tasks=2 pre-mint (the two outer-review P2s from the 2026-06-22

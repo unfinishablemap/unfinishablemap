@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-06-11T10:18:18+00:00
+ai_modified: 2026-06-22T09:37:16+00:00
 draft: false
 description: "Five altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia—converge on the same multi-channel interface architecture, mapping consciousness-brain coupling through systematic perturbation."
 topics:
@@ -41,7 +41,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-16
 last_curated: null
-last_deep_review: 2026-06-02T17:33:20+00:00
+last_deep_review: 2026-06-22T09:37:16+00:00
 
 apex_sources:
   - topics/psychedelics-and-the-filter-model
