@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T18:01:30.163502+00:00'
-session_count: 12862
-cycle_position: 9785
+last_updated: '2026-06-22T18:12:18.164937+00:00'
+session_count: 12863
+cycle_position: 9786
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T16:20:30.854268+00:00'
   optimistic-review: '2026-06-22T17:16:31.836723+00:00'
   check-tenets: '2026-06-22T02:54:28.628285+00:00'
   check-links: '2026-06-22T08:44:55.221293+00:00'
-  deep-review: '2026-06-22T17:46:19.753744+00:00'
+  deep-review: '2026-06-22T18:12:18.164937+00:00'
   tune-system: '2026-06-21T08:19:10.326785+00:00'
   research-voids: '2026-06-22T08:45:51.956876+00:00'
   coalesce: '2026-06-22T18:01:30.163502+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 412
-  reviews_completed: 5625
+  reviews_completed: 5626
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-06-22'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-06-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1311,11 +1311,45 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    staleness: 1
-  last_replenishment_run: 549
-  last_replenishment: '2026-06-22T17:55:33+00:00'
+    promotion_p3_to_p2: 1
+  last_replenishment_run: 550
+  last_replenishment: '2026-06-22T18:20:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.549 (2026-06-22T17:55Z): FLOOR-RESTORED via
+  current_replenishment_note: 'run no.550 (2026-06-22T18:20Z): FLOOR-RESTORED by PROMOTING
+    the existing P3 research-topic Letheby predictive-self-binding to P2 (no new mint
+    -- all eight mint sources genuinely exhausted INCLUDING genuine-drift AND staleness).
+    Authoritative pre-run count_p0_p2_tasks(content)=2 (the two standing Torres-Alegre-vein
+    P2 deep-reviews: apex/interface-specification-programme run 539 + concepts/delegatory-causation
+    run 538), below MIN_QUEUE floor 3, unmet by 1 -- documented replenish-at-floor
+    + deep-review-cycle-collision alternation (unfin_loop_steady_state +
+    deep_review_over_reviews_converged), NOT a deadlock. Run 549''s mint
+    (topics/predictive-processing-and-dualism.md genuine own-body drift) was PICKED +
+    consumed by the deep-review CYCLE slot minutes ago (commit 3d8e7de84, last_runs
+    deep-review 18:12 AFTER replenish 17:58), dropping the live floor from 3 back to 2.
+    Eight-source re-audit from live disk, all exhausted: (chain) recent_tasks has ZERO
+    research-topic/cross-review completions; the lone expand-topic (entropic-brain)
+    already had its integration successor minted + consumed. (unconsumed research) ZERO
+    -- four newest notes disk-confirmed consumed. (gap) caps headroom (topics 278/320,
+    concepts 267/320, positions 8/80; voids 101/100 OVER) but harvester-governed
+    (last 16:00Z, next ~22:00Z) + Vetoed-bank-dedup-blocked. (staleness >=30d) the
+    converged no-drift pool is now EMPTY (8-deep-review wave cleared the stale tail).
+    (length) NO safe condense -- all content offenders human-deferred / vetoed /
+    accept-as-survey / index-hub / deferred-apex / already-queued; borderline
+    hard-warning rows are churn-traps or cosmetic-drift no-ops. (orphan) 0. (positions)
+    slow-add, ran 06-22T06:20. (applied-apex) no cluster gap. (genuine-drift) the only
+    two genuine own-body refines are ALREADY the two standing P2s; every other
+    high-drift row git-verified cosmetic cross-touch/embed-videos (rejected per
+    replenish-false-exhaustion-mislabeled-drift). CHOSEN ACTION: promote the highest-leverage
+    existing P3 (run no.490 precedent) rather than churn converged content. This P3 is
+    uniquely right because it is GENERATIVE -- completing the research-topic produces a
+    fresh unconsumed research note that re-opens the research->expand pipeline (Source 2,
+    +60 highest bonus), breaking the alternation at its root. Letheby naturalism flagged
+    by outer-review-2026-05-14 as the most directly threatening contemporary opponent on
+    altered-states; dedupe re-verified clean (no live/archived article, no note, not
+    vetoed, topics cap headroom). Relocated to top of Active Tasks to defeat LIFO.
+    Live selector AFTER promotion = 3, floor restored. Expect the alternation to continue
+    until the harvester reopens the research->expand pipeline ~22:00 UTC.'
+  superseded_549_replenishment_note: 'run no.549 (2026-06-22T17:55Z): FLOOR-RESTORED via
     1 genuine-own-body-drift deep-review mint of topics/predictive-processing-and-dualism.md.
     Authoritative live count_p0_p2_tasks(content)=2 pre-mint (the two standing Torres-Alegre-vein
     P2 deep-reviews: apex/interface-specification-programme run 539 + concepts/delegatory-causation
