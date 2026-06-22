@@ -4,7 +4,7 @@ description: "The corridor reading's sharpest open question, refined through hum
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-06-22T13:30:00+00:00
 last_deep_review: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
@@ -77,6 +77,7 @@ The Map does not resolve the worry here. It states it cleanly, names the two esc
 - [[trumping-preemption]] — The authority-over-trajectories reading that answers the worry off the statistical axis
 - [[delegatory-causation]] — Saad's preemption-of-the-default-causal-profile mechanism, the metaphysical engine of the trumping route
 - [[selection-only-mind-influence]] — Information-theoretic limits on what a single-event selection channel can transfer
+- [[parapsychology-firewall]] — The complementary edge: the same self-concealment that immunises the Map against spectacular psi is what exposes it to this idleness worry
 - [[epiphenomenalism]] — The classical view this concept is carefully distinguished from
 
 ## References

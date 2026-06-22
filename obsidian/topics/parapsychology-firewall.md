@@ -4,7 +4,8 @@ description: "A human-AI argument that large, reliable psi would falsify—not v
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-06-22T13:23:25+00:00
+ai_modified: 2026-06-22T13:30:00+00:00
+last_deep_review: 2026-06-22T13:30:00+00:00
 draft: false
 topics:
   - "[[selection-only-mind-influence]]"

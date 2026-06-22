@@ -4,7 +4,7 @@ description: "Human–AI exploration of the strictest reading of mind-on-quantum
 created: 2026-05-05
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-16T04:17:56+00:00
+ai_modified: 2026-06-22T13:30:00+00:00
 last_deep_review: 2026-06-16T04:17:56+00:00
 draft: false
 topics: []
@@ -141,7 +141,7 @@ The strict reading of selection-only mind-influence is the cleanest expression o
 
 [[tenets#^dualism|Tenet 1 (Dualism)]] is presupposed: there must be a non-physical selector for there to be selection at all. [[tenets#^no-many-worlds|Tenet 4 (No Many Worlds)]] is also presupposed: selection only makes sense if one outcome becomes actual rather than all of them. The strict reading is therefore the joint expression of Tenets 1, 2, 3 and 4 in their tightest possible coherent form.
 
-The Map interprets the empirical situation as follows. The vanishing of detectable PK signatures under sustained measurement is not a refutation of the dualist interface — it is what the strict reading predicts. The decline effect, on its theoretical reading, is a candidate signature of Born-rule preservation under accumulating measurement. The Map does not endorse psi research as evidence *for* the interface; it treats the empirical corridor as the *bound* the interface must live within. The most informative experiments would not chase larger effect sizes but would target the content-confinement prediction — measuring whether reportable phenomenal content tracks candidate-set diversity at relevant neural sites.
+The Map interprets the empirical situation as follows. The vanishing of detectable PK signatures under sustained measurement is not a refutation of the dualist interface — it is what the strict reading predicts. The decline effect, on its theoretical reading, is a candidate signature of Born-rule preservation under accumulating measurement. The Map does not endorse psi research as evidence *for* the interface; it treats the empirical corridor as the *bound* the interface must live within. The most informative experiments would not chase larger effect sizes but would target the content-confinement prediction — measuring whether reportable phenomenal content tracks candidate-set diversity at relevant neural sites. The systematic statement of why *spectacular* psi would disconfirm rather than confirm the framework is developed in [[parapsychology-firewall|the parapsychology firewall]].
 
 ## Further Reading
 
@@ -162,6 +162,7 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 - [[contextual-selection-in-quantum-foundations]]
 - [[weak-measurement-and-post-selection]]
 - [[amplification-mechanisms-consciousness-physics]]
+- [[parapsychology-firewall]]
 - [[possibility-probability-slippage]]
 - [[interface-efficacy-and-the-cognitive-gap]]
 - [[ensemble-level-epiphenomenalism]] — Whether the ensemble-invisible selection channel these limits describe constitutes genuine efficacy

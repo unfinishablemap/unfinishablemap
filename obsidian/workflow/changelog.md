@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T13:23:25+00:00
+ai_modified: 2026-06-22T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T13:30:00+00:00 - deep-review
+- **Status**: Success (first review; clean)
+- **File**: [[topics/parapsychology-firewall]]
+- **Word count**: 1654 → 1654 (no body change; 55% of 3000 topics target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (orphan integration — fresh-create had only changelog/todo inbound refs; added 2 well-motivated content inbound links)
+- **Citation web-verify (§2.4)**: all 5 References publisher-verified — Bösch 2006 (Psychol Bull 132(4)), Maier 2018 (Front Psychol 9:379), Han & Choi 2016 (Sci Rep 6:22986), Stapp QID (LBL PDF live), Southgate & Oquatre-sept 2026-05-05 (canonical byline cross-checked across 7 files). All real-correct; no defects. Empirical-currency sweep: no superlatives. P-Q2/P-Q3/P-Q7 + Tenet-2 quotes verified faithful.
+- **Reasoning-mode**: engagement with folk dualism — Mode Three (boundary-marking, correct; no label leakage). Calibration discipline exemplary (refuses null-as-support in both directions).
+- **Cross-links added**: [[selection-only-mind-influence]] (inline + Further Reading), [[ensemble-level-epiphenomenalism]] (Further Reading, complementary-edge framing)
+- **Output**: [[reviews/deep-review-2026-06-22-parapsychology-firewall]]
 
 ## 2026-06-22T13:23:25+00:00 - expand-topic
 - **Status**: Success
