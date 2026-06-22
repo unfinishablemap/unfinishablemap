@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T02:06:02.908510+00:00'
-session_count: 12724
+last_updated: '2026-06-22T02:09:39.540299+00:00'
+session_count: 12725
 cycle_position: 9716
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-21T04:15:55.432985+00:00'
   refine-draft: '2026-06-21T22:07:09.558838+00:00'
   research-topic: '2026-06-21T23:46:28.233150+00:00'
-  replenish-queue: '2026-06-22T01:47:01.706272+00:00'
+  replenish-queue: '2026-06-22T02:09:39.540299+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T01:00:44.084190+00:00'
   add-highlight: '2026-06-21T08:22:24.866610+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-21'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-21'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1270,35 +1270,37 @@ queue_status:
     its note). Authoritative live tools.evolution.task_selector: count_p0_p2_tasks=0
     AND select_queue_task=None (NO pickable task at ANY priority) -- the documented
     self-restoring empty-queue sub-floor ([[unfin_loop_steady_state]]), NOT the fixed
-    deadlock. Re-ran the load-bearing sources programmatically this run. (1 chain) thermal
-    research->expand->apex cross-review chain fully consumed; 01:15 coalesce slot was
-    a no-op (touched only evolution-state.yaml); vestibular P3 was link-only -- no unqueued
-    successor. (2 unconsumed research) none -- newest notes each have a live same-slug
-    article. (3 gap/caps) headroom exists (topics 277/320, concepts 265/320, positions
-    5/80; voids 101/100 OVER) but new-article generation is harvester-governed (harvester
-    last 2026-06-21T21:40Z, next ~03:40 UTC) and replenish gap-analysis is dedup-blocked
-    against the Vetoed bank -- no safe gap mint. (4 staleness/drift) programmatic frontmatter
-    scan (ai_contribution>50 over topics/concepts/voids/apex): staleness>=30d yields
-    ZERO hits; genuine-drift (ai_modified>last_deep_review) has 163 entries but git-verified
-    cosmetic -- top-3 each last touched by a SIBLING op not an own-body edit (indexical-identity
-    by an egocentric-presentism expand cross-link; self-construction-constructor by embed-videos;
-    knowledge-argument by agentic-social), so [[replenish-false-exhaustion-mislabeled-drift]]
-    does NOT apply. (5 length) canonical body-stripped get_length_warnings: every content-section
+    deadlock. Re-ran the load-bearing sources programmatically this run. (1 chain)
+    thermal research->expand->apex cross-review chain fully consumed; 01:15 coalesce
+    slot was a no-op (touched only evolution-state.yaml); vestibular P3 was link-only
+    -- no unqueued successor. (2 unconsumed research) none -- newest notes each have
+    a live same-slug article. (3 gap/caps) headroom exists (topics 277/320, concepts
+    265/320, positions 5/80; voids 101/100 OVER) but new-article generation is harvester-governed
+    (harvester last 2026-06-21T21:40Z, next ~03:40 UTC) and replenish gap-analysis
+    is dedup-blocked against the Vetoed bank -- no safe gap mint. (4 staleness/drift)
+    programmatic frontmatter scan (ai_contribution>50 over topics/concepts/voids/apex):
+    staleness>=30d yields ZERO hits; genuine-drift (ai_modified>last_deep_review)
+    has 163 entries but git-verified cosmetic -- top-3 each last touched by a SIBLING
+    op not an own-body edit (indexical-identity by an egocentric-presentism expand
+    cross-link; self-construction-constructor by embed-videos; knowledge-argument
+    by agentic-social), so [[replenish-false-exhaustion-mislabeled-drift]] does NOT
+    apply. (5 length) canonical body-stripped get_length_warnings: every content-section
     hard+ offender either already carries a todo disposition (DIVERTED/DEFERRED-TO-HUMAN/HUMAN-LENGTH-DECISION/veto/accept-as-survey/completed-condense)
-    or is 1-61w over the hard ceiling i.e. within trim noise and recently reviewed (consciousness-in-simple-organisms
-    +22, reductionism +61, what-voids-reveal +19, wholeheartedness-void +6, machine-question
-    +1, quantum-biology +60, qm-interpretations +50, metaphysics-of-composition +43,
-    introspection-architecture +25) -- minting = the [[replenish-overmints-condense-vs-accept-as-survey]]
-    churn anti-pattern. NO safe length mint. (6 orphan) orphaned_files=0. (7 positions)
-    5/80 slow-add, audit within 30d window (positions-evolve last 2026-06-20T00:58),
-    no-op coalesce moved no Argued-in article. (8 applied-apex) only 5 positions total,
-    no high-confidence cluster large enough. NET: NO MINT. The next genuine refill must
-    come from the harvester (~03:40 UTC), a NEW outer/optimistic review, the cycle own
-    deep/coalesce slots, or human-queued work. Do NOT force-mint a churn task to paper
-    over the floor.'
-  superseded_517_replenishment_note: 'run no.517 (2026-06-22T02:05Z): NO-MINT floor audit,
-    independently re-verified from live disk (not trusting runs 513-516 notes). Authoritative
-    live tools.evolution.task_selector: count_p0_p2_tasks=0 AND select_queue_task=None
+    or is 1-61w over the hard ceiling i.e. within trim noise and recently reviewed
+    (consciousness-in-simple-organisms +22, reductionism +61, what-voids-reveal +19,
+    wholeheartedness-void +6, machine-question +1, quantum-biology +60, qm-interpretations
+    +50, metaphysics-of-composition +43, introspection-architecture +25) -- minting
+    = the [[replenish-overmints-condense-vs-accept-as-survey]] churn anti-pattern.
+    NO safe length mint. (6 orphan) orphaned_files=0. (7 positions) 5/80 slow-add,
+    audit within 30d window (positions-evolve last 2026-06-20T00:58), no-op coalesce
+    moved no Argued-in article. (8 applied-apex) only 5 positions total, no high-confidence
+    cluster large enough. NET: NO MINT. The next genuine refill must come from the
+    harvester (~03:40 UTC), a NEW outer/optimistic review, the cycle own deep/coalesce
+    slots, or human-queued work. Do NOT force-mint a churn task to paper over the
+    floor.'
+  superseded_517_replenishment_note: 'run no.517 (2026-06-22T02:05Z): NO-MINT floor
+    audit, independently re-verified from live disk (not trusting runs 513-516 notes).
+    Authoritative live tools.evolution.task_selector: count_p0_p2_tasks=0 AND select_queue_task=None
     (NO pickable task at ANY priority). DELTA vs run 516: run 516 noted a lone P3
     integrate-orphan (vestibular reciprocal cross-links) that did not count toward
     the floor; that P3 has since been PICKED + EXECUTED (commit 6ef56a274 "auto(deep-review):
