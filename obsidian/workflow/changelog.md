@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T17:12:43+00:00
+ai_modified: 2026-06-22T17:18:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T17:18:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Scope**: Seventh deep review (6th consecutive convergence pass). Genuine-drift verification of today's (2026-06-22) multi-file `refine-draft` (commit 2c59225a6) — qualifying body change to THIS apex was a single inline clause at L142: Torres Alegre's Born-rule derivation `(2025)` → `(2025, a recent arXiv preprint not yet peer-reviewed)`. (The commit's "10 bits/s" / "entanglement-binding" edits went to sibling files.) Verified faithful; References block unchanged so §2.4 canon not re-litigated.
+- **Word count**: 4799 → 4799 (+0; verification pass, no body edits; frontmatter timestamps only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — the 06-22 hedge (already on disk) improves inline↔References consistency and stops the apex over-weighting an unrefereed Born-rule derivation; verified clean, no further change warranted
+- **Reasoning-mode**: Duch engagement remains Mode Three (framework-boundary marking); label-leakage scan clean
+- **Note**: Length 120% of 4000 soft (soft_warning, ~201w under hard) — standing human length-decision item; do NOT auto-condense the load-bearing Triple Screen
+- **Output**: [[reviews/deep-review-2026-06-22-what-consciousness-tells-us-about-physics]]
 
 ## 2026-06-22T17:12:43+00:00 - optimistic-review
 - **Status**: Success

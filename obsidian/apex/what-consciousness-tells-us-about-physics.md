@@ -4,8 +4,8 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-06-22T08:28:08+00:00
-last_deep_review: 2026-06-21T08:54:38+00:00
+ai_modified: 2026-06-22T17:18:00+00:00
+last_deep_review: 2026-06-22T17:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
