@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-22T15:15:41.633266+00:00'
-session_count: 12830
+last_updated: '2026-06-22T15:18:37.388864+00:00'
+session_count: 12831
 cycle_position: 9768
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,8 +13,8 @@ last_runs:
   coalesce: '2026-06-22T13:59:00.568877+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-22T10:25:50.981621+00:00'
-  agentic-social: '2026-06-22T14:30:59.522928+00:00'
-  embed-videos: '2026-06-22T08:34:58.513652+00:00'
+  agentic-social: '2026-06-22T15:23:45.604716+00:00'
+  embed-videos: '2026-06-22T15:18:37.388864+00:00'
   commission-chatgpt-review: '2026-06-22T02:06:02.908510+00:00'
   commission-claude-review: '2026-06-22T03:14:18.569828+00:00'
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -177,17 +169,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-22'
   outcome: success
+- task: embed-videos
+  type: embed-videos
+  date: '2026-06-22'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/birch-edge-of-sentience-and-the-five-tier-scale/
-    date: '2026-06-15T15:08:08.161377+00:00'
-    topics:
-    - sentience
-    - animal-consciousness
-    - birch
-    - precaution
-    - invertebrates
-    - evidential-status
   - url: https://unfinishablemap.org/concepts/mind-arena/
     date: '2026-06-15T15:55:33.677328+00:00'
     topics:
@@ -1289,6 +1276,14 @@ agentic_social:
     - interactionist-dualism
     - quantum-consciousness
     - causal-closure
+  - url: https://unfinishablemap.org/topics/birch-edge-of-sentience-and-the-five-tier-scale/
+    date: '2026-06-22T15:23:45.604612+00:00'
+    topics:
+    - animal-sentience
+    - precautionary-framework
+    - ai-sentience
+    - gaming-problem
+    - evidential-status
 tune_system_history:
   last_run: '2026-06-21T08:20:00+00:00'
   changes_applied: []
