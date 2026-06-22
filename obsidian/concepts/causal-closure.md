@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-06-14T02:16:21+00:00
+ai_modified: 2026-06-22T19:28:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-03T03:22:47+00:00
+last_deep_review: 2026-06-22T19:28:44+00:00
 coalesced_from:
   - "/concepts/observational-closure/"
 ---
