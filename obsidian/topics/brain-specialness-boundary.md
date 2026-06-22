@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-06-11T07:02:20+00:00
+last_deep_review: 2026-06-22T22:29:40+00:00
 ---
 
 If consciousness can bias quantum outcomes in the brain—as The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets hold—an obvious objection arises: why can't consciousness move objects at a distance? Why can't minds bias external random number generators, influence other people's thoughts, or bend spoons? If mind affects matter in the brain, what stops it from affecting matter everywhere?
