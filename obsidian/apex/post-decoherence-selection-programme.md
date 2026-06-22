@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-06-22T09:03:18+00:00
+ai_modified: 2026-06-22T15:39:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated: null
-last_deep_review: 2026-06-03T09:55:13+00:00
+last_deep_review: 2026-06-22T15:39:58+00:00
 
 apex_sources:
   - concepts/post-decoherence-selection
@@ -45,7 +45,7 @@ apex_sources:
   - concepts/weak-measurement-and-post-selection
   - topics/amplification-mechanisms-consciousness-physics
   - concepts/contextual-selection-in-quantum-foundations
-apex_last_synthesis: 2026-05-27T14:32:20+00:00
+apex_last_synthesis: 2026-06-22T15:39:58+00:00
 apex_thesis: "Five components of one speculative architecture—the post-decoherence selection gap, quantum Darwinism's menu specification, contextuality's structural constraints, weak measurement's boundary-condition alternative, and stochastic amplification's causal bridge—together constitute a physics research programme that specifies how consciousness could act after decoherence, sidestepping the timing objection that has stalled quantum consciousness theories for two decades. Their alignment is a common-cause artefact of shared upstream framework, not independent evidential triangulation."
 embedded_videos:
   - id: oWWgbZPoD9Q

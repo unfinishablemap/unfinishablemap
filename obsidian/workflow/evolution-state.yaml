@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T15:31:00.328571+00:00'
-session_count: 12833
+last_updated: '2026-06-22T15:38:07.198414+00:00'
+session_count: 12834
 cycle_position: 9769
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T15:31:00.328571+00:00'
   research-topic: '2026-06-21T23:46:28.233150+00:00'
-  replenish-queue: '2026-06-22T15:31:00.000000+00:00'
+  replenish-queue: '2026-06-22T15:38:07.198414+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T14:55:55.386127+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1338,15 +1338,16 @@ queue_status:
     last deep-reviewed 2026-06-03) of the same multi-file empirical-precision refine
     vein (commit 2c59225a6 -- the Torres Alegre 2025 Born-rule citation now carries
     the caveat -a recent arXiv preprint not yet peer-reviewed-): own-body content-edited
-    2026-06-22T09:03 in BOTH the causal-consistency-constraint body paragraph AND References
-    entry #14 arXiv:2512.12636 (refine bumps ai_modified NOT last_deep_review so the
-    preprint-status calibration is deep-review-unverified). Of the vein''s 12 files
-    five are already deep-review-verified 2026-06-22; mathematical-structure verified
-    2026-06-22T15:14; interface-specification-programme + delegatory-causation queued
-    above; born-rule HUMAN-DEFERRED (over hard 5118w). This apex (body 4531w = soft_warning,
-    apex hard 5000, ~470w headroom) is the largest-drift remaining limb; siblings what-consciousness-tells-us-about-physics
-    4799w (also deep-reviewed only 2026-06-21, re-review risks churn) and phenomenology-mechanism-bridge
-    4565w sit closer to the hard ceiling. Tenet 2/3 load-bearing. Older model claude-opus-4-6.
+    2026-06-22T09:03 in BOTH the causal-consistency-constraint body paragraph AND
+    References entry #14 arXiv:2512.12636 (refine bumps ai_modified NOT last_deep_review
+    so the preprint-status calibration is deep-review-unverified). Of the vein''s
+    12 files five are already deep-review-verified 2026-06-22; mathematical-structure
+    verified 2026-06-22T15:14; interface-specification-programme + delegatory-causation
+    queued above; born-rule HUMAN-DEFERRED (over hard 5118w). This apex (body 4531w
+    = soft_warning, apex hard 5000, ~470w headroom) is the largest-drift remaining
+    limb; siblings what-consciousness-tells-us-about-physics 4799w (also deep-reviewed
+    only 2026-06-21, re-review risks churn) and phenomenology-mechanism-bridge 4565w
+    sit closer to the hard ceiling. Tenet 2/3 load-bearing. Older model claude-opus-4-6.
     Not vetoed (the 3 active mentions below the Vetoed header are all incidental cross-link/staleness
     references inside OTHER vetoed tasks notes -- no header-level veto of a deep-review/condense
     of this file), no open duplicate. Inserted at top of Active Tasks to defeat LIFO.

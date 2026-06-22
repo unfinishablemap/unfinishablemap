@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T15:14:14+00:00
+ai_modified: 2026-06-22T15:39:58+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T15:39:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Word count**: 4531 → 4531 (+0; frontmatter-only edits)
+- **Critical issues addressed**: 0 (none found — the 2026-06-08 TSVF-originality correction already resolved what would have been the one attribution-critical issue)
+- **Medium issues addressed**: 0 (none found; well-converged)
+- **Enhancements made**: 1 — advanced stale `apex_last_synthesis` (2026-05-27 → now) per the known apex-last-synthesis drift-artifact pattern so apex-evolve stops re-nominating an already-current article
+- **Web-verify (new cites since last review)**: Aharonov & Gruss (2005, arXiv:quant-ph/0507269) and Aharonov & Tollaksen (2007, arXiv:0706.1232) both VERIFIED at publisher of record, including the two quote-marked phrases — "free choice of the agent" (Gruss, confirmed verbatim) and "consistent with free-will" (Tollaksen, confirmed verbatim). The 2026-06-08 TSVF attribution correction is faithful; cerebral-measurement application and "genuine free will" framing both confirmed in the Gruss PDF.
+- **Engagement modes (editor-internal)**: timing-gap=Mode One; Zurek-Everettian=Mode Two; MWI-Deutsch=Mode Three; amplification-skeptic=Mode One; bias-without-deviation dilemma engaged with testability cost named, strong claim held as live hypothesis. No label leakage, no calibration slippage (the common-cause-artefact reframe strengthens calibration).
+- **Length**: 113% of apex soft (4000), under 5000 hard ceiling — over-soft margin is load-bearing attribution/calibration prose; human length decision flagged, not auto-condensed.
+- **Output**: [[reviews/deep-review-2026-06-22-post-decoherence-selection-programme]]
 
 ## 2026-06-22T15:29:38+00:00 - refine-draft
 - **Status**: Success
