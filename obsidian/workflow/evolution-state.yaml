@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T13:48:20.632979+00:00'
-session_count: 12814
+last_updated: '2026-06-22T13:55:31.415974+00:00'
+session_count: 12815
 cycle_position: 9760
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T08:53:23.270344+00:00'
   research-topic: '2026-06-21T23:46:28.233150+00:00'
-  replenish-queue: '2026-06-22T13:40:13.702588+00:00'
+  replenish-queue: '2026-06-22T13:55:31.415974+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T13:26:14.165012+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1323,41 +1323,42 @@ queue_status:
     unmet by 1 -- the documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
     NOT a deadlock. ALL generative sources re-audited from live disk: chain recent_tasks
     = Counter({replenish-queue:8, deep-review:7, agentic-social:3, optimistic-review:1,
-    expand-topic:1}) -- the single expand-topic (parapsychology-firewall) already spawned
-    its P3 integration-chain successor (present below) + 2 inbound links added by the
-    cycle-slot deep-review (commit de96cc28); no new chain. Unconsumed research ZERO
-    (thermal/vestibular/interoceptive/cross-modal/forgetting all disk-confirmed consumed
-    into live same-slug articles; enactivism/occams-razor older notes consumed under
-    full slugs). Gap caps have headroom (topics 278/320, concepts 265/320) but new-article
-    generation is harvester-governed (last 2026-06-22T09:56Z) and gap-analysis is Vetoed-bank-dedup-blocked.
-    Length: no safe condense candidate (all human-deferred [convergence 6479w, born-rule
-    5118w], #veto [phenomenal-output 6872w], accept-as-survey [composition-question-rivals
-    4106w], human-length-decision voids [synesthetic-void, edge-states], research-note/index-hub/voids-over-cap).
-    Orphan 0. Positions 8/80 slow-add, audit 2026-06-22T06:20 in window. Applied-apex
-    no cluster gap. Drift 170 rows but the top non-candidate rows are git-verified
-    COSMETIC sibling cross-touches (indexical-identity by egocentric-presentism expand
-    / self-construction-constructor by embed-videos / sleep-and-consciousness by the
-    multi-file precision refine) -- rejected per [[replenish-false-exhaustion-mislabeled-drift]];
-    the substantive-refine rows are recently-audited (quantum-biology, [[audit_triple]]
-    active_research audited 2026-06-16), human-deferred (synesthetic-void), or ENTANGLED
-    in open outer-review/coalesce tasks (taxonomy-of-voids carries the P1 circularity-discount
-    REVISE-HARD + P-V3 stale-count tasks; normativity-of-reason is a live coalesce candidate)
-    -- all rejected to avoid collision. The ONE genuine, non-colliding own-body drift:
-    concepts/types-of-consciousness.md (last deep-reviewed 2026-06-01, own-body content-edited
-    2026-06-22 by commit 2c59225a6 -- the empirical-precision refine relabelling the
-    Zheng & Meister 2024 Neuron "10 bits/s" figure as a SERIAL BEHAVIORAL throughput
-    bound, not a measured bandwidth of all phenomenology; refine bumps ai_modified
-    NOT last_deep_review so the relabel is deep-review-unverified). Older model claude-opus-4-6.
-    Body 1975w status=ok, ~525w under concepts soft ceiling -- length-safe. Not vetoed,
-    no open duplicate (the line-620 deep-review of this file is a closed 2026-06-01
-    completed task predating the refine). Inserted at top of Active Tasks to defeat
-    LIFO. Live selector AFTER mint = 3, floor restored. Expect replenish-at-floor alternation
-    to continue until the harvester reopens the research->expand pipeline.'
+    expand-topic:1}) -- the single expand-topic (parapsychology-firewall) already
+    spawned its P3 integration-chain successor (present below) + 2 inbound links added
+    by the cycle-slot deep-review (commit de96cc28); no new chain. Unconsumed research
+    ZERO (thermal/vestibular/interoceptive/cross-modal/forgetting all disk-confirmed
+    consumed into live same-slug articles; enactivism/occams-razor older notes consumed
+    under full slugs). Gap caps have headroom (topics 278/320, concepts 265/320) but
+    new-article generation is harvester-governed (last 2026-06-22T09:56Z) and gap-analysis
+    is Vetoed-bank-dedup-blocked. Length: no safe condense candidate (all human-deferred
+    [convergence 6479w, born-rule 5118w], #veto [phenomenal-output 6872w], accept-as-survey
+    [composition-question-rivals 4106w], human-length-decision voids [synesthetic-void,
+    edge-states], research-note/index-hub/voids-over-cap). Orphan 0. Positions 8/80
+    slow-add, audit 2026-06-22T06:20 in window. Applied-apex no cluster gap. Drift
+    170 rows but the top non-candidate rows are git-verified COSMETIC sibling cross-touches
+    (indexical-identity by egocentric-presentism expand / self-construction-constructor
+    by embed-videos / sleep-and-consciousness by the multi-file precision refine)
+    -- rejected per [[replenish-false-exhaustion-mislabeled-drift]]; the substantive-refine
+    rows are recently-audited (quantum-biology, [[audit_triple]] active_research audited
+    2026-06-16), human-deferred (synesthetic-void), or ENTANGLED in open outer-review/coalesce
+    tasks (taxonomy-of-voids carries the P1 circularity-discount REVISE-HARD + P-V3
+    stale-count tasks; normativity-of-reason is a live coalesce candidate) -- all
+    rejected to avoid collision. The ONE genuine, non-colliding own-body drift: concepts/types-of-consciousness.md
+    (last deep-reviewed 2026-06-01, own-body content-edited 2026-06-22 by commit 2c59225a6
+    -- the empirical-precision refine relabelling the Zheng & Meister 2024 Neuron
+    "10 bits/s" figure as a SERIAL BEHAVIORAL throughput bound, not a measured bandwidth
+    of all phenomenology; refine bumps ai_modified NOT last_deep_review so the relabel
+    is deep-review-unverified). Older model claude-opus-4-6. Body 1975w status=ok,
+    ~525w under concepts soft ceiling -- length-safe. Not vetoed, no open duplicate
+    (the line-620 deep-review of this file is a closed 2026-06-01 completed task predating
+    the refine). Inserted at top of Active Tasks to defeat LIFO. Live selector AFTER
+    mint = 3, floor restored. Expect replenish-at-floor alternation to continue until
+    the harvester reopens the research->expand pipeline.'
   superseded_534_replenishment_note: 'run no.534 (2026-06-22T13:40Z): FLOOR-RESTORED
     via 1 genuine-own-body-drift deep-review mint of concepts/entanglement-binding-hypothesis.md
-    (last deep-reviewed 2026-06-18, own-body-edited 2026-06-22 commit 2c59225a6 -- the
-    two-tier macroscopic-entanglement hedge separating microtubule/anaesthesia from
-    single-lab MRI-signature; Kerskens/Escola-Gascon/Khan-2024 cites deep-review-unverified;
+    (last deep-reviewed 2026-06-18, own-body-edited 2026-06-22 commit 2c59225a6 --
+    the two-tier macroscopic-entanglement hedge separating microtubule/anaesthesia
+    from single-lab MRI-signature; Kerskens/Escola-Gascon/Khan-2024 cites deep-review-unverified;
     body 2510w soft_warning). Live selector 2 pre-mint -> 3 post-mint. That task was
     then PICKED + consumed by the deep-review CYCLE slot (commit add6b8f57), dropping
     the live floor back to 2 -- hence run 535 re-mints. Documented replenish-at-floor
