@@ -4,8 +4,8 @@ description: "Out-of-body experiences are phenomenologically real and causally d
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-06-22T00:00:00+00:00
-last_deep_review: 2026-06-03T00:36:03+00:00
+ai_modified: 2026-06-22T05:00:02+00:00
+last_deep_review: 2026-06-22T05:00:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

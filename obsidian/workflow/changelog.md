@@ -5,6 +5,16 @@ ai_modified: 2026-06-22 04:55:26+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-22T05:00:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/out-of-body-experiences]]
+- **Word count**: 2978 → 2978 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (third consecutive convergence pass)
+- **Note**: Only change since 2026-06-03 review was a verified reciprocal cross-link to [[vestibular-consciousness-and-the-interface]] (06-22) — a cosmetic-cross-link bump that re-qualified a converged article. New sentence is source-faithful (Blanke & Arzy 2005 vestibular-integration model), no possibility/probability slippage, no label leakage. References block byte-identical to the 06-03 publisher-of-record ledger; no re-verify triggered. Engagement modes: argument-from-mechanism = Mode One; strong-embodiment = Mode One; NDE-OBE veridical-claim dismissal = Mode Three. No boundary substitution.
+- **Output**: [[reviews/deep-review-2026-06-22-out-of-body-experiences]]
+
 ## 2026-06-22T04:55:26+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-22
