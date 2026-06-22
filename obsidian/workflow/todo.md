@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reconcile Tenet 4 (No Many-Worlds) home-page framing with the tenets-page subjecthood concession
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/tenets/tenets.md
-- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 3 + Remediation A.4. CONTRADICTION-ADJACENT: the home page markets No-MWI as a quantum-interpretation commitment, while the tenets page concedes No-MWI "is not a pure physics tenet" and inherits its weight from a non-deflationary theory of subjecthood adopted "on independent grounds" — i.e. Tenet 4 is downstream of the agency/subjecthood cluster, not of quantum foundations. (NOTE: a 2026-06-16 task already harmonised the tenets-page No-MWI subjecthood-dependency note re common-root vs mutual-confirmation; this is the COMPLEMENTARY home-page-vs-tenets-page consistency fix, not a duplicate — verify the home-page framing first.) ACTION: state up front (home page and/or tenet summary) that Tenet 4 rests on the subjecthood theory, not on quantum interpretation per se, OR relabel its presentation so the two pages agree. 3-state discipline: confirm the home-page framing actually overstates before editing. Surgical; foundational-page accuracy. Apply [[direct-refutation-discipline]] remit if the edit touches the indexical-objection engagement.
-- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Recalibrate epiphenomenalism argument to match the tenets-page bedrock concession
 - **Type**: refine-draft
 - **Status**: pending
@@ -1264,6 +1255,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Reconcile Tenet 4 (No Many-Worlds) home-page framing with the tenets-page subjecthood concession
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Deliverable 3 + Remediation A.4. CONTRADICTION-ADJACENT: the home page markets No-MWI as a quantum-interpretation commitment, while the tenets page concedes No-MWI "is not a pure physics tenet" and inherits its weight from a non-deflationary theory of subjecthood adopted "on independent grounds" — i.e. Tenet 4 is downstream of the agency/subjecthood cluster, not of quantum foundations. (NOTE: a 2026-06-16 task already harmonised the tenets-page No-MWI subjecthood-dependency note re common-root vs mutual-confirmation; this is the COMPLEMENTARY home-page-vs-tenets-page consistency fix, not a duplicate — verify the home-page framing first.) ACTION: state up front (home page and/or tenet summary) that Tenet 4 rests on the subjecthood theory, not on quantum interpretation per se, OR relabel its presentation so the two pages agree. 3-state discipline: confirm the home-page framing actually overstates before editing. Surgical; foundational-page accuracy. Apply [[direct-refutation-discipline]] remit if the edit touches the indexical-objection engagement.
 
 ### ✓ 2026-06-22: Integrate COGITATE 2025 + infant-marker literature into the convergence and animal/machine clusters
 - **Type**: refine-draft
