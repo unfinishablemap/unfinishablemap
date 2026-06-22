@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: De-duplicate / canonicalize the Voids catalogue
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Key Finding 4 + Deliverable 2 + Remediation A.9/B.4. SINGLETON (Claude only) — left at P2 per /combine-outer-reviews. (Synthesis note: this was previously tagged "convergent with ChatGPT", but on cross-read the ChatGPT signal is the DISTINCT stale-served-archived-URL bug for two specific pages, not the broad catalogue-growth-as-evidence-inflation duplication Claude flags; the catalogue-dedup remit is Claude-only, so no priority upgrade.) The reviewer lists near-identical slug clusters: self-opacity / unobservable-self / self-reference-paradox / introspective-opacity / volitional-opacity; smoothness-and-continuity / smoothness-problem / continuity-void; observation-and-measurement-void / observation-void / measurement-void / quantification-void / calibration-void; phenomenal-absence-void / phenomenal-presence-void / givenness-void / reality-feeling-void; convergence-as-evidence / convergence-of-the-void-catalogue / evidential-weight-of-voids (the last cluster is ALREADY partly archived). 3-STATE DISCIPLINE: many of these may already be archived/coalesced (check `archive/voids/` and `find` each slug before proposing a merge — the reviewer read the live index which still serves some stale-duplicate URLs, the known [[coalesce-stale-hugo-duplicate-urls]] bug, so apparent live duplicates may be already-archived pages still serving content). ACTION: audit the listed clusters; for any genuinely-live duplicate pair, coalesce to a canonical page with redirects (use /coalesce, which preserves URLs) and verify the stale hugo duplicate is removed/redirected; freeze net catalogue growth via the voids/ section cap (already ~101/100). Report the post-dedup count. This is exploratory/audit — do NOT mass-delete; prefer coalesce-with-redirect; one cluster per pass.
-- **Review file**: `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Fix stale-served archived URLs (evidential-weight-of-voids, causal-delegation)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1237,6 +1229,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: De-duplicate / canonicalize the Voids catalogue
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (Claude Opus 4.8), Key Finding 4 + Deliverable 2 + Remediation A.9/B.4. SINGLETON (Claude only) — left at P2 per /combine-outer-reviews. (Synthesis note: this was previously tagged "convergent with ChatGPT", but on cross-read the ChatGPT signal is the DISTINCT stale-served-archived-URL bug for two specific pages, not the broad catalogue-growth-as-evidence-inflation duplication Claude flags; the catalogue-dedup remit is Claude-only, so no priority upgrade.) The reviewer lists near-identical slug clusters: self-opacity / unobservable-self / self-reference-paradox / introspective-opacity / volitional-opacity; smoothness-and-continuity / smoothness-problem / continuity-void; observation-and-measurement-void / observation-void / measurement-void / quantification-void / calibration-void; phenomenal-absence-void / phenomenal-presence-void / givenness-void / reality-feeling-void; convergence-as-evidence / convergence-of-the-void-catalogue / evidential-weight-of-voids (the last cluster is ALREADY partly archived). 3-STATE DISCIPLINE: many of these may already be archived/coalesced (check `archive/voids/` and `find` each slug before proposing a merge — the reviewer read the live index which still serves some stale-duplicate URLs, the known [[coalesce-stale-hugo-duplicate-urls]] bug, so apparent live duplicates may be already-archived pages still serving content). ACTION: audit the listed clusters; for any genuinely-live duplicate pair, coalesce to a canonical page with redirects (use /coalesce, which preserves URLs) and verify the stale hugo duplicate is removed/redirected; freeze net catalogue growth via the voids/ section cap (already ~101/100). Report the post-dedup count. This is exploratory/audit — do NOT mass-delete; prefer coalesce-with-redirect; one cluster per pass.
 
 ### ✓ 2026-06-22: Methodology — give the /project/ self-correction disciplines enforcement teeth
 - **Type**: refine-draft
