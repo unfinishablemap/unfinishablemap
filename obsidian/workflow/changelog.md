@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T13:30:00+00:00
+ai_modified: 2026-06-22T13:46:24+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T13:46:24+00:00 - deep-review
+- **Status**: Success (sixth review; converged — one small consistency fix, no body change)
+- **File**: [[concepts/entanglement-binding-hypothesis]]
+- **Word count**: 2510 → 2510 (no body change; 100% of 2500 concepts soft threshold — soft_warning, length-neutral mode)
+- **Critical issues addressed**: 0 (none — the 2026-06-22 two-tier evidential refine strengthens calibration; no slippage)
+- **Medium issues addressed**: 1 — description/body calibration mismatch: frontmatter `description` still read "now supported by early experimental evidence" (over-flat, 169 chars) after the body was split into unequal evidence tiers; revised to "a contested hypothesis with mixed early evidence" (156 chars) to match the body's restraint.
+- **Enhancements made**: 0 (body at soft-length warning; no expansion)
+- **Citation web-verify (§2.4)**: References block unmodified since 2026-06-02 full ledger; the 2026-06-22 refine added no new bibliographic claims. No re-litigation. Superlative-currency sweep: no hits.
+- **Reasoning-mode (editor-internal)**: Georgiev separability-no-go engagement = Mode One + honest Mode-Three residue; unchanged, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-22-entanglement-binding-hypothesis]]
 
 ## 2026-06-22T13:30:00+00:00 - deep-review
 - **Status**: Success (first review; clean)
