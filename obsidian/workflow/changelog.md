@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 07:30:00+00:00
+ai_modified: 2026-06-22 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T09:00:00+00:00 - positions-evolve (add ×5, new domain: methodology-and-calibration)
+- **Status**: Success
+- **Operation**: Seeded the **methodology-and-calibration** positions register — the second of the two convergent P1 outer-review seeding tasks (the consciousness-scope task ran earlier this cycle and is fully DISJOINT: scope-only there, method/conduct-only here; no domain overlap, no double-spend of cap headroom).
+- **Source**: convergent outer reviews 2026-06-22 (synthesis "positions register under-populated", upgraded P2→P1). ChatGPT 5.5 Pro §3.1/#9: "'methodology and calibration' … remain future work even though the topic corpus already makes claims in those areas." Claude Opus 4.8 Deliverable 2 / B.5 + synthesis line 75: "the project has substituted exhaustive self-disclosure for self-correction" (give the /project/ disciplines enforcement teeth) — captured honestly as P-M5.
+- **File created**: [[positions/methodology-and-calibration]] (5 positions, ~1918 body words):
+  - **P-M1 (high)** — tenet-register / evidence-register separation: a tenet removes a defeater but never upgrades the evidential tier; five-tier scale by evidence not permission. Cites evidential-status-discipline, public-claim-register, framework-stage-calibration.
+  - **P-M2 (high)** — the common-cause null as a STANDING discount: convergence defaults to framework-internal coherence until a distinguishing test passes. Methodological PARENT of [[positions/voids-as-evidence|P-V1]] (cross-linked, not redundant — voids domain applies it to one catalogue; this registers it as a general commitment). Cites common-cause-null, coherence-inflation Countermeasure 15/5, per-cluster-independence-scoring.
+  - **P-M3 (moderate)** — publisher-of-record citation verification + evidential-weight-class flags; intra-corpus cross-check is NOT a substitute (AI-authored cites carry a real fabrication rate); self-citation = coherence not independent corroboration. Moderate because enforcement is uneven (ties to P-M5). Cites Countermeasure 11/3, public-claim-register.
+  - **P-M4 (high)** — framework-stage / open-programme self-calibration; align frame DOWN to body (constrain-vs-establish lint); mechanism debt registered as debt, Born-preserving indistinguishability stated as a framework-boundary cost. Cites framework-stage-calibration, mqi-empirical-fragility, quantum-interface mechanism-debt anchor.
+  - **P-M5 (moderate)** — disclosure is NOT self-correction: a discipline binds only as far as a named gate enforces it; registers the externally-flagged enforcement gap as a held self-criticism. P-M1–P-M4 all depend on it for enforcement. Cites calibration-audit-triple, review-severity-register-distinction, human-supervision, automation.
+- **[[positions]] updated**: removed "methodology and calibration" from the future-domains line, added the new domain to the Domains list, bumped `ai_modified`.
+- **Discipline applied**: confidence-banded with hedging matched to band (P-M5 worded as a partial admission, not an achievement; P-M3 moderate-not-high because of the un-reverified legacy-citation tail + unadopted Map-integration split convention); PER-CLAIM dependency tracking (each "Depends on" names exactly which /project/ doc + which sibling positions it inherits/governs; P-M2→P-V1 parent link and P-M1–M4→P-M5 enforcement link made explicit); cited the project-tier docs each commitment FORMALIZES rather than inventing external citations (only the named outer-review finding cited for P-M5's origin); retire-don't-delete (no retirements). All 17 `[[...]]` wikilink targets + 3 section anchors (`^mechanism-debt`, `^occams-limits`, P-V1 header) grepped and confirmed to resolve before insertion. validate.py: 9/9 positions files valid.
+- **Cap**: positions/ now 8 domain files / 80 max — ample headroom.
+- **Length note**: file at 1918 body words is over the 1500 soft / under the 2500 hard threshold (validator did not flag it; quantum-interface is the only length-warned positions file). 5 dense methodology entries with heavy dependency lists run ~384w each (above the ~150–300 ideal) because each names its full /project/-doc + cross-position dependency web. NOT yet a split candidate; revisit if a 6th methodology position is added.
+- **Cascade / follow-ups**: none retired → no downstream breakage. Recommended (not auto-queued): an `audit` pass now that both new domains (consciousness-scope + methodology) have landed — verify no scope↔methodology↔voids contradictions, that P-M2 and P-V1 don't drift apart, and that each new methodology position is cited back by ≥1 live article (currently the /project/ docs argue FOR them but don't yet cite the position IDs — a short "see [[positions/methodology-and-calibration|P-MN]]" mention in the matching /project/ doc would close the potential orphan, the natural cross-skill follow-on).
+- **Published**: yes (live domain file; not a draft, per positions-section convention).
+- **Committed**: no — left uncommitted for the orchestrator.
 
 ## 2026-06-22T06:09:49+00:00 - deep-review
 - **Status**: Success

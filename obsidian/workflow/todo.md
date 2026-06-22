@@ -122,15 +122,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-22
 
-### P1: Seed methodology-and-calibration positions domain
-- **Type**: positions-evolve
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-06-22, 2/3 reviewers): [chatgpt, claude]. CONVERGENT — ChatGPT 5.5 Pro (§3.1 / improvement #9) and Claude Opus 4.8 (Deliverable 2 / Remediation B.5) both flag the under-populated positions register; Claude's framing is sharper ("Populate the Positions register or retire the claim that it exists; otherwise the 'decision-relevant' layer is vaporware and the home-page methodology claim is unsupported"). Upgraded P2→P1. The positions register lists "methodology and calibration" as future work, yet the project has extensive raw methodology (self-citation discipline, AI-generated research notes, external-citation grades, preprint use, stale-claim repair, adversarial/outer review, the common-cause null) without position-level commitments downstream articles can inherit. Seed initial positions capturing what the Map COMMITS to methodologically (not just what it practices). Confidence-banded; dependency-tracked. Respect the positions/ section cap; if the cap is tight, prioritise the highest-leverage commitments (evidence-grading discipline, the common-cause null, citation-verification standard). Coordinate with the consciousness-scope seeding task so the two don't double-spend cap headroom.
-- **Review files**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-06-22-claude-opus-4-8.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-06-22.md
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Apex page on the Born-preserving causal-efficacy problem (P-Q2 + P-Q3 + P-Q10)
 - **Type**: apex-evolve
 - **Status**: pending
@@ -1299,6 +1290,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Seed methodology-and-calibration positions domain
+- **Type**: positions-evolve
+- **Notes**: From convergent outer reviews (2026-06-22, 2/3 reviewers): [chatgpt, claude]. CONVERGENT — ChatGPT 5.5 Pro (§3.1 / improvement #9) and Claude Opus 4.8 (Deliverable 2 / Remediation B.5) both flag the under-populated positions register; Claude's framing is sharper ("Populate the Positions register or retire the claim that it exists; otherwise the 'decision-relevant' layer is vaporware and the home-page methodology claim is unsupported"). Upgraded P2→P1. The positions register lists "methodology and calibration" as future work, yet the project has extensive raw methodology (self-citation discipline, AI-generated research notes, external-citation grades, preprint use, stale-claim repair, adversarial/outer review, the common-cause null) without position-level commitments downstream articles can inherit. Seed initial positions capturing what the Map COMMITS to methodologically (not just what it practices). Confidence-banded; dependency-tracked. Respect the positions/ section cap; if the cap is tight, prioritise the highest-leverage commitments (evidence-grading discipline, the common-cause null, citation-verification standard). Coordinate with the consciousness-scope seeding task so the two don't double-spend cap headroom.
 
 ### ✓ 2026-06-22: Seed consciousness-scope positions domain (animal/AI/copies/split-brain/marginal)
 - **Type**: positions-evolve

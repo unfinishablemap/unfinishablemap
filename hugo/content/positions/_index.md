@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-22 00:00:00+00:00
+ai_modified: 2026-06-22 09:00:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -60,7 +60,8 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Individuation and subjecthood](/positions/individuation-and-subjecthood/) — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), grounded on the indexical/haecceity objection, held as tenet-driven with its ground acknowledged as a void
 - [Consciousness scope](/positions/consciousness-scope/) — where consciousness reaches in biological subjects: the substrate-permissive *minimal-dualism spine* (animal/infant phenomenality on bare Tenet 1, no quantum apparatus), animal consciousness graded by marker convergence, early infant emergence, and the fragmentation cases (split-brain, anaesthesia, sleep, dreaming) read as interface disruption rather than division of consciousness
 - [AI consciousness scope](/positions/ai-consciousness-scope/) — consciousness in artificial systems, split out for its heavier and *heterogeneous* dependency burden: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, and conscious copies as morally additive under closed individualism
-- *Future domains, to be seeded as the register grows:* methodology and calibration; applied verdicts (clinical, AI, personal philosophy)
+- [Methodology and calibration](/positions/methodology-and-calibration/) — what the Map commits to *about its own evidence and conduct*: the tenet-register / evidence-register separation (a tenet removes a defeater but never upgrades the evidence), the common-cause null as a standing discount on convergence, the publisher-of-record citation and weight-class standard, the framework-stage / open-programme self-calibration, and the honest gap between disclosure and enforcement
+- *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)
 
 ## How positions are maintained
 
