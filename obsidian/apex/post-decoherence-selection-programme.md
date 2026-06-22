@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-06-16T17:30:00+00:00
+ai_modified: 2026-06-22T08:28:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ For the Map's framework, quantum Darwinism specifies three constraints on consci
 
 The *menu is fixed*. Einselection determines which states survive environmental monitoring. Consciousness cannot select a quantum state that the environment would immediately destroy. The options are the robust, classically distinguishable alternatives that the environment has already prepared—no more, no less.
 
-The *probabilities are fixed*. The Born rule constrains the statistical distribution of outcomes. If consciousness selects among pointer states, it must respect Born-rule statistics over the long run: consciousness biases individual outcomes without altering aggregate distributions—a conjunction whose conceptual cost the next section confronts directly. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025) sharpens this: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
+The *probabilities are fixed*. The Born rule constrains the statistical distribution of outcomes. If consciousness selects among pointer states, it must respect Born-rule statistics over the long run: consciousness biases individual outcomes without altering aggregate distributions—a conjunction whose conceptual cost the next section confronts directly. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sharpens this: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 
@@ -199,7 +199,7 @@ This synthesis draws on:
 11. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics* (pp. 11-63). Oxford University Press. (arXiv:2105.02314)
 12. Bourget, D. (2004). Quantum Leaps in Philosophy of Mind. *Journal of Consciousness Studies*, 11(12), 17-42. (See also Stapp, H. P. (2004), Quantum Leaps in the Philosophy of Mind: Reply to Bourget's Critique, *ibid.*, 43-49.)
 13. Spekkens, R. W. (2005). Contextuality for preparations, transformations, and unsharp measurements. *Physical Review A*, 71(5), 052108. (arXiv:quant-ph/0406166)
-14. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.
+14. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 15. Aharonov, Y. & Gruss, E. Y. (2005). Two-time interpretation of quantum mechanics. arXiv:quant-ph/0507269.
 16. Aharonov, Y. & Tollaksen, J. (2007). New Insights on Time-Symmetry in Quantum Mechanics. arXiv:0706.1232.
 17. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/

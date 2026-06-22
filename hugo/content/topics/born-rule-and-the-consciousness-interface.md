@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-06-08 05:56:50+00:00
+ai_modified: 2026-06-22 08:28:08+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -152,7 +152,7 @@ Two features may resist purely mathematical-realist redescription, though the re
 
 ## The Causal Consistency Constraint
 
-The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) argues that within generalised probabilistic theories satisfying purification, the Born rule may be the *only* assignment consistent with no-signalling — nonlinear deviations would enable superluminal communication via quantum steering. Like Gleason, it fixes the rule's *form*, not its existence, converging on the same conclusion from a different premise: the long-run measure is rigid. For the interface interpretation this is welcome. If consciousness modulates quantum outcomes it *must* follow the Born rule, since any deviation breaches [minimal interaction](/tenets/#minimal-quantum-interaction) — the Born rule is what relativistic causality requires of any agent, physical or non-physical, participating in measurement outcomes.
+The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) argues that within generalised probabilistic theories satisfying purification, the Born rule may be the *only* assignment consistent with no-signalling — nonlinear deviations would enable superluminal communication via quantum steering. Like Gleason, it fixes the rule's *form*, not its existence, converging on the same conclusion from a different premise: the long-run measure is rigid. For the interface interpretation this is welcome. If consciousness modulates quantum outcomes it *must* follow the Born rule, since any deviation breaches [minimal interaction](/tenets/#minimal-quantum-interaction) — the Born rule is what relativistic causality requires of any agent, physical or non-physical, participating in measurement outcomes.
 
 Its existence — that one outcome actualises — is what physics cannot generate, the partial progress [the interface specification problem](/topics/the-interface-problem/#what-would-count-as-progress) identifies as tractable. Two qualifications: causal-consistency has been tested in photon, atom, qubit, and high-energy regimes — not brain tissue — so the constraint binds wherever standard postulates hold rather than universally; and it binds only *interface* theories, leaving the [trumping alternative](/concepts/trumping-preemption/) untouched.
 
@@ -306,7 +306,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 31. Tonetto, B. "What Physics Actually Closes." PhilArchive.
 
-32. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
+32. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 
 33. Valentini, A. (1991). "Signal-Locality, Uncertainty, and the Subquantum H-Theorem." *Phys. Lett. A*, 156, 5–11.
 

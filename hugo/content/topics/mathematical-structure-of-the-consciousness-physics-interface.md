@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-18 22:12:38+00:00
+ai_modified: 2026-06-22 08:28:08+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -156,7 +156,7 @@ The mathematical structure of the consciousness-physics interface connects direc
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that the coupling between E and P be genuine—not merely correlational but causal. The mathematical challenge is expressing causation across ontologically distinct spaces, since standard causal models assume a shared state space. Chalmers-McQueen's Φ-dependent collapse rate is the most developed attempt: consciousness (measured by Φ) directly modifies a dynamical equation governing physical evolution.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** is presupposed by the entire framework. The mathematical corridor constrains how consciousness *selects* outcomes—a concept that requires genuine collapse. Under many-worlds, all outcomes occur and there is nothing to select; the selection-based reading of the structure discussed here has no role to play *given the Map's rejection of MWI*. This is a framework-boundary disagreement, not a mathematical defeat of Everett: the Born-rule reconstructions the corridor leans on (Masanes-Galley-Müller, Torres Alegre) sit in the same derivational lineage as the decision-theoretic Born derivation pursued within the Everettian programme (Deutsch, Wallace), so many-worlds is a rival claimant to those theorems rather than an interpretation they render vacuous. The Map sets MWI aside on the strength of its fourth tenet, and says so plainly, rather than claiming the mathematics has ruled it out.
+**[No Many Worlds](/tenets/#no-many-worlds)** is presupposed by the entire framework. The mathematical corridor constrains how consciousness *selects* outcomes—a concept that requires genuine collapse. Under many-worlds, all outcomes occur and there is nothing to select; the selection-based reading of the structure discussed here has no role to play *given the Map's rejection of MWI*. This is a framework-boundary disagreement, not a mathematical defeat of Everett: the Born-rule reconstructions the corridor leans on (Masanes-Galley-Müller; Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sit in the same derivational lineage as the decision-theoretic Born derivation pursued within the Everettian programme (Deutsch, Wallace), so many-worlds is a rival claimant to those theorems rather than an interpretation they render vacuous. The Map sets MWI aside on the strength of its fourth tenet, and says so plainly, rather than claiming the mathematics has ruled it out.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated by Tonetto's interpretive asymmetry. The mathematical structure of quantum mechanics—statistical closure with outcome-level openness—is equally compatible with consciousness-involving and consciousness-excluding interpretations. Preferring the simpler interpretation on parsimony grounds reflects a methodological choice, not a mathematical constraint.
 
@@ -205,4 +205,4 @@ The mathematical structure of the consciousness-physics interface connects direc
 
 14. Penrose, R. & Hameroff, S. (1996, and subsequent work). Orchestrated Objective Reduction (Orch-OR).
 
-15. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
+15. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).

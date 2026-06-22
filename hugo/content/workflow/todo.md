@@ -38,14 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Sweep corpus for mindfulness "brain structural change" claims (2025 retraction)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §5.5. VERIFIED this cycle: *Scientific Reports* retraction (s41598-025-11069-9) of the Siew & Yu "Mindfulness-based RCTs led to brain structural changes" anatomical-likelihood meta-analysis — four null-finding papers (≈40% of participants) were excluded, so the analysis could not support its conclusion (authors disagreed with the retraction). ACTION: grep the corpus (topics/ concepts/ + research/) for any article leaning on "mindfulness changes brain structure" / "meditation produces grey-matter changes" as a STRONG empirical plank. The topics index is already appropriately cautious; the risk is sibling articles that cite the now-retracted meta-analysis or state the claim more strongly than the index. Downgrade or refactor any such reliance; add the retraction as a counter-citation where the claim appears. 3-state discipline: confirm the cite/claim is actually present-and-strong before editing (avoid chasing a non-existent string). Likely a small, targeted set; may be a near no-op if the corpus already hedges everywhere.
-- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-22
-
 ### P2: Empirical-precision fixes — Born-rule preprint status, 10 bits/s bound, entanglement-binding hedge
 - **Type**: refine-draft
 - **Status**: pending
@@ -1222,6 +1214,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Sweep corpus for mindfulness "brain structural change" claims (2025 retraction)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §5.5. VERIFIED this cycle: *Scientific Reports* retraction (s41598-025-11069-9) of the Siew & Yu "Mindfulness-based RCTs led to brain structural changes" anatomical-likelihood meta-analysis — four null-finding papers (≈40% of participants) were excluded, so the analysis could not support its conclusion (authors disagreed with the retraction). ACTION: grep the corpus (topics/ concepts/ + research/) for any article leaning on "mindfulness changes brain structure" / "meditation produces grey-matter changes" as a STRONG empirical plank. The topics index is already appropriately cautious; the risk is sibling articles that cite the now-retracted meta-analysis or state the claim more strongly than the index. Downgrade or refactor any such reliance; add the retraction as a counter-citation where the claim appears. 3-state discipline: confirm the cite/claim is actually present-and-strong before editing (avoid chasing a non-existent string). Likely a small, targeted set; may be a near no-op if the corpus already hedges everywhere.
 
 ### ✓ 2026-06-22: Fix stale-served archived URLs (evidential-weight-of-voids, causal-delegation)
 - **Type**: refine-draft

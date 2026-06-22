@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-06-05T18:39:50+00:00
+ai_modified: 2026-06-22T08:28:08+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -154,7 +154,7 @@ The chain is falsifiable at each level and at the connections between them.
 
 **At the neural level**: If voluntary action timing and selection could be fully predicted from prior neural states with near-perfect accuracy, the selection gap would close. Current prediction accuracy for simple binary choices remains around 60% (Soon et al. 2008). Conversely, what would *strengthen* the case is a specific deviation: in Schurger-style self-paced movement tasks, if conscious selection biases threshold-crossing, voluntary actions should show systematic deviations from drift-diffusion statistics — a shift in the drift rate parameter on the order of 5-15% between passive and actively willed conditions. No such deviation has yet been demonstrated.
 
-**At the quantum level**: If quantum coherence were proven physically impossible in brain tissue at any relevant timescale, the Zeno *candidate* would fail — though, as noted at Level Three, the phenomenal-biasing architecture could in principle be carried by an alternative implementation. If the many-worlds interpretation were empirically confirmed, the deeper account of singular selection would fail outright. A subtler challenge comes from the [[causal-consistency-constraint|causal-consistency constraint]] (Torres Alegre 2025): any selection scheme respecting no-signalling must be per-trial indistinguishable from unbiased Born statistics. This forbids per-trial discrimination *by construction* — a structural feature of the Map's minimal-interaction commitment, not an evasion of falsification. The framework would inherit the degenerating-research-programme problem only if the surviving ensemble- and correlation-level tests (sequential-dependency, intention-versus-spontaneity contrasts) also returned null at brain-internal precision; those tests have not yet been run, and the verdict is open.
+**At the quantum level**: If quantum coherence were proven physically impossible in brain tissue at any relevant timescale, the Zeno *candidate* would fail — though, as noted at Level Three, the phenomenal-biasing architecture could in principle be carried by an alternative implementation. If the many-worlds interpretation were empirically confirmed, the deeper account of singular selection would fail outright. A subtler challenge comes from the [[causal-consistency-constraint|causal-consistency constraint]] (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed): any selection scheme respecting no-signalling must be per-trial indistinguishable from unbiased Born statistics. This forbids per-trial discrimination *by construction* — a structural feature of the Map's minimal-interaction commitment, not an evasion of falsification. The framework would inherit the degenerating-research-programme problem only if the surviving ensemble- and correlation-level tests (sequential-dependency, intention-versus-spontaneity contrasts) also returned null at brain-internal precision; those tests have not yet been run, and the verdict is open.
 
 **At the metaphysical level**: If a compatibilist account could deliver genuine sourcehood — explaining not just reasons-responsiveness but why those reasons are *the agent's* — the motivation for agent causation would weaken.
 

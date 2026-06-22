@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-22 08:28:08+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -41,7 +41,7 @@ topics:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
-Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [Lucid dreaming](/topics/dream-consciousness/#lucid-dreaming-a-distinct-state) restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second bandwidth limitation of conscious experience, replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
+Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [Lucid dreaming](/topics/dream-consciousness/#lucid-dreaming-a-distinct-state) restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second ceiling on serial conscious *behavioural throughput* (Zheng & Meister's bound on what conscious agents do, not a measured bandwidth of phenomenal experience itself), replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
 
 ## The Evolutionary Puzzle
 

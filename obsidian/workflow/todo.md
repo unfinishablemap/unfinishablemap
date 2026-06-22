@@ -37,13 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Empirical-precision fixes — Born-rule preprint status, 10 bits/s bound, entanglement-binding hedge
+### P2: Adopt explanatory-gap calibration in thermal-consciousness-and-the-interface
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §5.2/§5.3/§5.4 + improvement #4. Three small, distinct precision fixes (3-state discipline: confirm each string is present before editing): (a) **§5.3 / causal-consistency-constraint.md** — the Born-rule-preservation / causal-consistency result is a recent arXiv PREPRINT (submitted Dec 2025, revised Feb 2026), not a settled theorem; ensure all Born-rule pages surface the preprint status in-line, not just one concept summary. (b) **§5.4 / 10 bits/s usage** (Zheng & Meister 2024 *Neuron*, used across ~10 concepts incl asymmetric-bandwidth, attention-as-interface, types-of-consciousness) — label the figure as a bound on SERIAL BEHAVIORAL throughput, not a measured bandwidth of all phenomenology. (c) **§5.2 / Diósi–Penrose** — wherever the corpus says Penrose gravitational collapse is "falsified," ensure the "parameter-free version" qualifier is present (Donadi et al. ruled out the simplest parameter-free DP, not all collapse models). (d) **§4 improvement #4 / entanglement-binding-hypothesis.md** — separate the well-supported anesthesia/microtubule line from the much more contested macroscopic brain-entanglement / MRI-signature claims; add a hedge/warning to the latter. Keep edits surgical; do not expand articles past their ceilings.
-- **Review file**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
+- **File**: obsidian/topics/thermal-consciousness-and-the-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-06-22. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 0.94/kw is below 3.00/kw (target = 60% of anchor 9.87/kw, capped at 3.0/kw)
+  - strong-assertion density 0.94/kw exceeds 1.5× anchor (0.58/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-22
+
 
 ### P2: Apex page on the Born-preserving causal-efficacy problem (P-Q2 + P-Q3 + P-Q10)
 - **Type**: apex-evolve
@@ -1213,6 +1217,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-22: Empirical-precision fixes — Born-rule preprint status, 10 bits/s bound, entanglement-binding hedge
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-22 (ChatGPT 5.5 Pro), §5.2/§5.3/§5.4 + improvement #4. Three small, distinct precision fixes (3-state discipline: confirm each string is present before editing): (a) **§5.3 / causal-consistency-constraint.md** — the Born-rule-preservation / causal-consistency result is a recent arXiv PREPRINT (submitted Dec 2025, revised Feb 2026), not a settled theorem; ensure all Born-rule pages surface the preprint status in-line, not just one concept summary. (b) **§5.4 / 10 bits/s usage** (Zheng & Meister 2024 *Neuron*, used across ~10 concepts incl asymmetric-bandwidth, attention-as-interface, types-of-consciousness) — label the figure as a bound on SERIAL BEHAVIORAL throughput, not a measured bandwidth of all phenomenology. (c) **§5.2 / Diósi–Penrose** — wherever the corpus says Penrose gravitational collapse is "falsified," ensure the "parameter-free version" qualifier is present (Donadi et al. ruled out the simplest parameter-free DP, not all collapse models). (d) **§4 improvement #4 / entanglement-binding-hypothesis.md** — separate the well-supported anesthesia/microtubule line from the much more contested macroscopic brain-entanglement / MRI-signature claims; add a hedge/warning to the latter. Keep edits surgical; do not expand articles past their ceilings.
 
 ### ✓ 2026-06-22: Sweep corpus for mindfulness "brain structural change" claims (2025 retraction)
 - **Type**: refine-draft

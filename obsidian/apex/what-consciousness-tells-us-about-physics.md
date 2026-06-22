@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-06-19T00:55:07+00:00
+ai_modified: 2026-06-22T08:28:08+00:00
 last_deep_review: 2026-06-21T08:54:38+00:00
 draft: false
 topics:
@@ -139,7 +139,7 @@ The Born rule tells consciousness what it has to work with: the relative weights
 
 This reinterpretation has consequences:
 
-**The Born rule is not fully explained by physics alone.** Gleason's theorem shows that the Born rule is the *unique* probability measure consistent with the Hilbert space structure. Deutsch-Wallace decision theory, Zurek's envariance, and Torres Alegre's relativistic-causality derivation (2025) provide further internal derivations. These succeed as proofs that the Born rule is the only coherent probability assignment *given* the quantum formalism. But as the [[born-rule-and-the-consciousness-interface|comprehensive analysis of derivation failures]] demonstrates, every strategy—across hidden-variable, objective-collapse, retrocausal, categorical, and gravitational frameworks—either postulates the Born rule, assumes it in disguised form, or relocates it to another assumption. If the rule describes the interface between two ontological domains, these derivations explain its mathematical necessity without explaining its ontological ground.
+**The Born rule is not fully explained by physics alone.** Gleason's theorem shows that the Born rule is the *unique* probability measure consistent with the Hilbert space structure. Deutsch-Wallace decision theory, Zurek's envariance, and Torres Alegre's relativistic-causality derivation (2025, a recent arXiv preprint not yet peer-reviewed) provide further internal derivations. These succeed as proofs that the Born rule is the only coherent probability assignment *given* the quantum formalism. But as the [[born-rule-and-the-consciousness-interface|comprehensive analysis of derivation failures]] demonstrates, every strategy—across hidden-variable, objective-collapse, retrocausal, categorical, and gravitational frameworks—either postulates the Born rule, assumes it in disguised form, or relocates it to another assumption. If the rule describes the interface between two ontological domains, these derivations explain its mathematical necessity without explaining its ontological ground.
 
 **Collapse interpretations have a structural advantage here.** Collapse theories treat the Born rule as a fundamental postulate—an honest acknowledgment. Many-Worlds must instead *derive* probability from a theory that is fundamentally deterministic, and critics argue that every derivation strategy (decision-theoretic, self-locating uncertainty, envariance) smuggles in the very thing it claims to derive. That charge is contested rather than settled—Everettians regard the decision-theoretic and self-locating programmes as live—so the asymmetry the Map relies on is conditional: *given* the tenets' demand for genuine selection, an honestly-postulated Born rule is preferable to a recovery whose premises the Map independently rejects. The advantage is read off the Map's commitments, not claimed as a neutral refutation of MWI.
 

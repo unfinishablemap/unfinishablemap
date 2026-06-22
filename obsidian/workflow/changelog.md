@@ -1,11 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T07:45:21+00:00
+ai_modified: 2026-06-22T08:28:08+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-06-22T07:45:21+00:00 - deep-review
+## 2026-06-22T08:28:08+00:00 - refine-draft
+- **Status**: Success
+- **Source**: outer review [[reviews/outer-review-2026-06-22-chatgpt-5-5-pro]] §5.2/§5.3/§5.4 + improvement #4. Four surgical precision fixes, 3-state discipline (confirmed each target string present before editing). 12 content files, +39/−39 lines; no ceiling busts.
+- **(a) Born-rule / causal-consistency preprint status (§5.3)**: The result (Torres Alegre 2025, arXiv:2512.12636) was already flagged as a not-yet-peer-reviewed preprint on the canonical concept page and several others (brain-internal-born-rule-testing, quantum-probability-consciousness, delegation-meets-quantum-selection, forward-in-time-conscious-selection, quantum-measurement-and-consciousness, consciousness-physics-interface-formalism). Pages that cited it in-line *as if settled* now carry an in-line preprint qualifier: [[apex/phenomenology-mechanism-bridge]], [[apex/what-consciousness-tells-us-about-physics]], [[apex/post-decoherence-selection-programme]], [[apex/interface-specification-programme]], [[concepts/post-decoherence-selection]], [[concepts/delegatory-causation]], [[topics/born-rule-and-the-consciousness-interface]] (the dedicated Causal Consistency Constraint section), [[topics/completeness-in-physics-under-dualism]], [[topics/mathematical-structure-of-the-consciousness-physics-interface]]. Matching reference-entry annotations added on the six that lacked them. positions/quantum-interface already scopes its confidence correctly; left as-is.
+- **(b) 10 bits/s label (§5.4)**: Zheng & Meister 2024/2025 figure. The two canonical pages (bandwidth-of-consciousness, consciousness-bandwidth-architecture) and attention-as-interface + consciousness-physics-interface-formalism already disclaim the phenomenology reading explicitly. Two clear mislabels fixed: [[concepts/sleep-and-consciousness]] ("bandwidth limitation of conscious experience" → ceiling on serial conscious *behavioural throughput*, not phenomenal experience) and reviewer-named [[concepts/types-of-consciousness]] (added: bound on serial behavioural throughput, not a measured bandwidth of phenomenal experience). Other ~10 usages ("conscious throughput / processing / agency") are defensible and left unchanged.
+- **(c) Penrose / Diósi-Penrose "falsified" qualifier (§5.2)**: NO EDITS NEEDED — corpus already fully compliant. Every page asserting DP falsification carries "simplest"/"parameter-free"/"partial" (spontaneous-collapse-theories, prebiotic-collapse, penrose-gravity-induced-collapse-empirical-prospects, philosophical-stakes-of-spontaneous-collapse, comparing-quantum-consciousness-mechanisms, falsification-roadmap, brain-internal-born-rule-testing, forward-in-time-conscious-selection, sorkin-delta-brain-internal-analogues, the-reverse-inference, amplification-mechanisms, positions/quantum-interface P-Q6). prebiotic-collapse:190 "all objective collapse theories ruled out" is a hypothetical falsification-condition heading, correctly conditional.
+- **(d) Entanglement-binding macroscopic vs microtubule tiering (improvement #4)**: [[concepts/entanglement-binding-hypothesis]] — opening summary rewritten so the macroscopic MRI-signature claim (Kerskens–López Pérez, single unreplicated study) is no longer co-ranked with the microtubule/anaesthesia line (Khan et al. 2024, large effect size). Added a two-tier warning paragraph opening the Experimental Evidence section: the macroscopic-entanglement claim needs replication-specific sourcing before carrying argumentative load, and the structural argument does not depend on it. 2351 → 2510 words (under hard 3500).
+- **Published**: yes
 - **Status**: Success
 - **File**: [[topics/consciousness-and-social-understanding]]
 - **Word count (body)**: 3612 → 3612 (no change — length-neutral converged pass, frontmatter timestamps only)

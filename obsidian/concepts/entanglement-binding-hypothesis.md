@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-06-18T02:38:20+00:00
+ai_modified: 2026-06-22T08:28:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ last_curated:
 last_deep_review: 2026-06-18T02:38:20+00:00
 ---
 
-The Unfinishable Map's treatment of the [[binding-problem|binding problem]] distinguishes two challenges: computational binding (BP1)—how the brain coordinates distributed features—and phenomenal binding (BP2)—why that coordination produces unified experience. Classical mechanisms address BP1 but not BP2, because correlated activity in separate neurons remains activity in separate neurons. The entanglement binding hypothesis proposes that quantum entanglement provides the missing ingredient: genuine physical holism where the whole is prior to and irreducible to its parts, structurally matching what [[unity-of-consciousness|phenomenal unity]] seems to require. Early experimental evidence—including MRI signatures of entanglement correlating with consciousness and microtubule-stabilising drugs delaying anaesthesia—lends preliminary support, though the hypothesis remains contested and replication is needed.
+The Unfinishable Map's treatment of the [[binding-problem|binding problem]] distinguishes two challenges: computational binding (BP1)—how the brain coordinates distributed features—and phenomenal binding (BP2)—why that coordination produces unified experience. Classical mechanisms address BP1 but not BP2, because correlated activity in separate neurons remains activity in separate neurons. The entanglement binding hypothesis proposes that quantum entanglement provides the missing ingredient: genuine physical holism where the whole is prior to and irreducible to its parts, structurally matching what [[unity-of-consciousness|phenomenal unity]] seems to require. Two evidential lines bear on it, and they sit at very different strengths: microtubule-stabilising drugs delaying anaesthesia is a replicable, mechanistically interpretable result, whereas claimed MRI signatures of *macroscopic* brain entanglement rest on a single unreplicated study and a far more extraordinary claim. The microtubule line lends modest preliminary support; the macroscopic-entanglement line should be treated as provisional pending replication-specific scrutiny. The hypothesis as a whole remains contested.
 
 ## The Structural Argument
 
@@ -51,7 +51,7 @@ Hameroff argues that this framework solves both binding and [[epiphenomenalism]]
 
 ## Experimental Evidence
 
-Several lines of evidence have emerged since 2022, though all remain preliminary.
+Several lines of evidence have emerged since 2022, though all remain preliminary—and they are not equally strong. They should be read at two distinct evidential tiers. The *microtubule–anaesthesia* line (below) is the better-supported: it is a controlled animal experiment with a large effect size, a published mechanistic rationale, and a review-level synthesis, even though its consciousness interpretation is contested. The *macroscopic brain-entanglement* line—principally the Kerskens–López Pérez MRI signal—is far more contested and carries a much heavier burden: it claims entanglement detectable at brain scale, rests on a single laboratory's unreplicated protocol, and has drawn a published interpretive challenge. A reader should not weight the two lines equally; the macroscopic-entanglement claim needs replication-specific sourcing before it can carry argumentative load, and nothing in the structural argument above depends on it.
 
 ### MRI Entanglement Signatures
 
