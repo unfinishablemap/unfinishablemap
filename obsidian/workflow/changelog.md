@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22T22:09:21+00:00
+ai_modified: 2026-06-22T22:36:27+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-22T22:36:27+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The predictive-processing / naturalist-challenge cluster — `topics/predictive-self-binding-and-the-naturalist-challenge.md` (fresh expand-topic create, 20:48) and `topics/predictive-processing-and-dualism.md` (ai_modified 20:37, deep-reviewed 18:09). Cross-checked against `psychedelics-and-the-filter-model` and the four parent concepts.
+- **Findings**: Both articles model the evidential restraint the Hardline Empiricist persona exists to praise — the new Letheby article presents the strongest naturalist rival at full strength, makes an explicit empirical-equivalence concession on altered-state data alone, and replies on three tenet-anchored fronts without dressing a framework-boundary disagreement as a refutation; tenet-as-evidence-upgrade is praise-worthily NOT done at every juncture. Process Philosopher and Hardline Empiricist personas CONVERGE in praising the same passages → tension resolved honestly, no calibration concern, no refine-draft warranted. The one integration finding (the new article links OUTBOUND to all four parents but none link back — the documented expand-topic-skips-integration-chain near-orphan pattern) is ALREADY captured by an open P3 integrate-orphan task at todo.md line ~68; NO duplicate task minted.
+- **Output**: [[reviews/optimistic-2026-06-22d]]
 
 ## 2026-06-22T22:09:21+00:00 - deep-review
 - **Status**: Success

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T22:30:45.948724+00:00'
-session_count: 12907
+last_updated: '2026-06-22T22:35:58.621834+00:00'
+session_count: 12908
 cycle_position: 9803
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T20:38:39.039395+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-22T22:19:45.883336+00:00'
+  replenish-queue: '2026-06-22T22:35:58.621834+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-22'
   outcome: success
 agentic_social:
@@ -1330,33 +1330,6 @@ queue_status:
   last_replenishment_run: 563
   last_replenishment: '2026-06-22T22:32:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.563 (2026-06-22T22:32Z): MINTED 1 genuine-own-body-drift
-    deep-review (topics/empirical-evidence-for-consciousness-selecting.md), floor restored
-    2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)=2 PRE-mint
-    (surviving floor = staleness deep-reviews concepts/luck-objection + concepts/combination-problem;
-    four P3 cross-link/refine tasks do not count), =3 POST-mint (verified). Below MIN_QUEUE
-    floor 3, unmet by 1 -- documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT a deadlock: run-562 minted topics/brain-specialness-boundary.md (b408dddd2) which
-    the next cycle slot picked + deep-reviewed (28edd7992, last_runs deep-review 22:30Z),
-    dropping the live floor 3->2 -- deep_review_over_reviews_converged same-day collision.
-    All 8 sources re-audited from LIVE DISK, no genuine MINT elsewhere: (chain) zero
-    unconsumed successors, newest expand-topics already carry queued P3 integration tasks.
-    (unconsumed research) ZERO -- six newest notes all disk-confirmed consumed. (length)
-    every hard/critical content offender human-deferred or #veto; the rest of the hard-warning
-    list is research/ notes (not condensable) -- NO clean condense candidate
-    (replenish-overmints-condense-vs-accept-as-survey). (orphan) orphaned_files=0.
-    (gap/caps) topics 279/320 + concepts 267/320 have headroom but new-article generation
-    is harvester-governed (harvest-research-subjects 22:04Z) + gap-analysis is Vetoed-bank-dedup-blocked.
-    (positions) 8 entries (<10 audit threshold), slow-add. (applied-apex) no cluster gap.
-    CHOSEN topics/empirical-evidence-for-consciousness-selecting.md -- last_deep_review
-    2026-06-16T19:15Z, ai_modified 2026-06-18T01:48Z; post-review commit efbac2291 is a
-    real +23/-20 own-body calibration/prose pass (git-verified substantive, NOT a cosmetic
-    cross-touch -- contrast the REJECTED consciousness-and-memory / phenomenology-of-memory-and-the-self
-    / consciousness-and-the-normativity-of-reason whose only post-review touches were 2-4
-    line sibling cross-link adds). Citation-DENSE (Desmurget/Sjoberg/Schwartz/Rajan/Luo/
-    Tegmark/Hagan/Craddock-613THz-high-risk/Khan/Schlosshauer) -- 3-state web-verify mandated;
-    Tenet 2/3 load-bearing; body 2956w ok (no length-decision risk). Placed at TOP of Active
-    Tasks (queue-lifo-starvation). Superseded run-562 note follows.'
   current_replenishment_note: 'run no.562 (2026-06-22T22:14Z): MINTED 1 genuine-own-body-drift
     deep-review task (topics/brain-specialness-boundary.md), floor restored 2->3.
     Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)=2 PRE-mint,
