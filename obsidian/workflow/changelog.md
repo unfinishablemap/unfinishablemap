@@ -5,6 +5,13 @@ ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T02:42:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/predictive-processing-and-dualism]] (recently refined 2026-06-22, never deep-reviewed since)
+- **Output**: [[reviews/pessimistic-2026-06-23]]
+- **Findings**: Citations excellent (4 load-bearing refs web-verified exact: Laukkonen/Friston/Chandaria 2025, Beni 2021, Clark/Friston/Wilkinson 2019, Gunji et al 2022); beautiful-loop engagement is an exemplary direct-refutation pass; no label leakage. Real issues: body at 3997w (3 under the 4000 hard ceiling) → P2 condense; quantum-Bayesian section slides formal→physical and omits decoherence objection + intro neutrality-vs-positive-support equivocation watch → P3 consolidated refine.
+- **Tasks added**: 1 P2 (condense), 1 P3 (refine-draft, 2 prose findings consolidated)
+
 ## 2026-06-23T02:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
