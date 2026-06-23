@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T05:40:00+00:00
+ai_modified: 2026-06-23T05:46:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T05:46:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Task**: P1 convergence-backed (synthesis-2026-06-23 finding #4, ChatGPT + Claude) from ChatGPT 5.5 Pro outer review. Three asks: (1) grade each evidence line by weakest category supported, terse/tabular; (2) add physicalist/illusionist counter-reading per line; (3) add verified 2025 BMC Anesthesiology + 2026 Frontiers critical-review sources at publisher of record.
+- **Length discipline**: 2956w → 3473w (+517w), status soft_warning, 527w under the 4000 hard ceiling. Verified with analyze_length before/after. Stayed terse per task; did not approach ceiling.
+- **Change 1 (grading table — core deliverable)**: added "Grading the evidence by what it actually supports" subsection in §The Convergence. Defines the six-rung weakest-category ladder (establishes-possibility → supports-substrate-relevance → supports-mental-causation → supports-quantum-involvement → supports-consciousness-specific-selection → supports-dualism), then a 5-row table grading each line by its weakest supported category (all land in the first three; none reaches the last two) with a right-hand "physicalist / illusionist reading of the same result" column so compatibility-with-dualism is not miscounted as evidence-for-dualism.
+- **Change 2 (BMC 2025)**: added the verified mixed-results microtubule study (s12871-025-02956-9) to the microtubule paragraph — epothilone D/vinblastine left-shift isoflurane ED50, paclitaxel slightly resistant; framed as "mechanistically underdetermined and not uniformly directional." Cited at publisher of record (DOI 10.1186/s12871-025-02956-9), no invented author (review file gives title+DOI only). Consistent with sibling refine on consciousness-selecting-neural-patterns same cycle.
+- **Change 3 (Frontiers 2026)**: added the verified critical review (fpsyg.2026.1730965) to "What the quantum-biological line does not establish" — feasibility + bridge-principle + discriminating-test standard; quantum feasibility is not itself a bridge to subjectivity. Cited at publisher of record (DOI 10.3389/fpsyg.2026.1730965).
+- **Direct-refutation discipline**: engagement with physicalist/non-reductive-physicalist/illusionist is Mode Three (framework-boundary marking) — distinguishes "compatible-but-not-confirmed" from "ruled out by evidence" in natural prose ("compatibility with dualism is not evidence for dualism"; convergence reaches mental-causation + permissive substrate, not consciousness-specific selection or dualism). No mode labels in body (grep-verified, no leakage).
+- **Not done**: did not re-litigate existing cites (deep-reviewed clean earlier today per task); did not touch last_deep_review (this is a refine, not a deep review); ai_contribution already 100.
+- **Published**: yes
 
 ## 2026-06-23T05:30:35+00:00 - refine-draft
 - **Status**: Success
