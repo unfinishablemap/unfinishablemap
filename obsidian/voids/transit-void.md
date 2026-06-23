@@ -4,8 +4,8 @@ description: "Consciousness cannot witness its own crossings—neither the onset
 created: 2026-03-05
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-06-10T12:48:14+00:00
-last_deep_review: 2026-06-02T14:31:20+00:00
+ai_modified: 2026-06-23T01:55:41+00:00
+last_deep_review: 2026-06-23T01:55:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

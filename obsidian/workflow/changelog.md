@@ -5,6 +5,18 @@ ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T01:55:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/transit-void]]
+- **Word count**: 2814 → 2814 (no body change; timestamp-only verification pass)
+- **Scope**: 4th deep-review, convergence verification of refine `bb8cda45e` (2026-06-10 "reduce interface rhetoric", deep-review-unverified). Diff since 06-02 review is 3 lines, all in the tenet section; References + structural body byte-identical to the 06-02 web-verify ledger.
+- **Primary finding — rhetoric reduction did NOT over-soften the void into vacuity.** The softening ("predicts"→"is compatible with"; "finds a natural home"→"is compatible with"; "exact location"→"suggestive of" + added "framework-internal coherence, not interface evidence") touched only the metaphysical interpretation overlay. The structural void claim (lede / Two Faces / Incompatibility Generalises / Tenet Pressure Point / Not Merely Epistemic) is untouched and still load-bearing — the void forcefully asserts the observe-vs-cross incompatibility. The refine is the OPPOSITE of over-softening: it removed possibility/probability slippage and replaced it with honest calibration (a tenet-accepting reviewer would have flagged the PRE-refine versions, not the post). Tenet-1 (Bidirectional Interaction) framing remains substantive.
+- **Critical issues addressed**: 0
+- **Citation web-verify**: References unmodified since 06-02 ledger — carried, not re-run. Inline↔References cross-check re-run: no orphans either direction (all of #1–#17 cited; all inline cites resolve). No superlative claims (empirical_currency empty).
+- **Engagement modes (editor-internal)**: unchanged from 06-02 (Dennett=Mode Three; eliminative subpersonal=Mixed Mode One/Two). No label leakage; no boundary-substitution.
+- **Length**: 2814w / 141% of 2000 soft / soft_warning; 186w headroom under 3000 hard. Length-neutral (zero body edits).
+- **Output**: [[reviews/deep-review-2026-06-23-transit-void]]
+
 ## 2026-06-23T01:51:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/time-collapse-and-agency]]
