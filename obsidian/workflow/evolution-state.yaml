@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-22T23:58:08.843363+00:00'
-session_count: 12922
+last_updated: '2026-06-23T00:06:22.135708+00:00'
+session_count: 12923
 cycle_position: 9811
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-22T20:38:39.039395+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-22T23:53:58.377180+00:00'
+  replenish-queue: '2026-06-23T00:06:22.135708+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-06-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
@@ -176,6 +172,10 @@ recent_tasks:
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-23'
   outcome: success
 agentic_social:
   recently_posted:
@@ -1336,40 +1336,41 @@ queue_status:
     inbound cross-links), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
     PRE-promotion / =3 POST-promotion (the two queued genuine-drift deep-reviews luck-objection
     + combination-problem; the three veto condense P2s -- composition-question-rivals
-    4106w, meaning-of-life 4160w, phenomenal-output 6872w -- selector-excluded; P3 tasks
-    do not count toward the floor of 3). Documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT a deadlock: prior run no.565 minted a genuine-drift deep-review of apex/machine-question.md
-    which the next cycle slot PICKED + executed (commit 6c02d3ca0, now in Completed),
-    then the loop deep-reviewed apex/phenomenal-variation-within-a-species.md (last_runs
-    deep-review 2026-06-22T23:58Z) -- both dropped the live floor 3->2 (deep_review_over_reviews_converged
-    same-day collision). All 8 sources independently re-audited from LIVE DISK, ALL exhausted
-    of clean genuine-MINT candidates: (chain) recent_tasks zero research-topic/expand-topic/cross-review
-    completions. (unconsumed research) ZERO -- the two newest notes both consumed: letheby->predictive-self-binding-and-the-naturalist-challenge
+    4106w, meaning-of-life 4160w, phenomenal-output 6872w -- selector-excluded; P3
+    tasks do not count toward the floor of 3). Documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT a deadlock: prior run no.565 minted a genuine-drift
+    deep-review of apex/machine-question.md which the next cycle slot PICKED + executed
+    (commit 6c02d3ca0, now in Completed), then the loop deep-reviewed apex/phenomenal-variation-within-a-species.md
+    (last_runs deep-review 2026-06-22T23:58Z) -- both dropped the live floor 3->2
+    (deep_review_over_reviews_converged same-day collision). All 8 sources independently
+    re-audited from LIVE DISK, ALL exhausted of clean genuine-MINT candidates: (chain)
+    recent_tasks zero research-topic/expand-topic/cross-review completions. (unconsumed
+    research) ZERO -- the two newest notes both consumed: letheby->predictive-self-binding-and-the-naturalist-challenge
     (disk-confirmed), entropic-brain->concepts/entropic-brain-hypothesis (disk-confirmed,
-    own deep-review 2026-06-22); thermal/vestibular/interoceptive->same-slug topics consumed.
-    (length) every content hard/critical offender human-deferred (epistemology-of-convergence
+    own deep-review 2026-06-22); thermal/vestibular/interoceptive->same-slug topics
+    consumed. (length) every content hard/critical offender human-deferred (epistemology-of-convergence
     6479w, born-rule 5118w, clinical-dissociation 4861w, time-collapse 4606w, laws-and-dispositions
     4213w), veto (phenomenal-output 6872w, composition-question-rivals 4106w accept-as-survey,
     meaning-of-life 4160w), index hub (apex-articles 9788w), or recently-condensed/calibration-refined
     (argument-from-reason 4489w, epistemic-advantages 4400w, valence-and-conscious-selection
     4103w HUMAN-LENGTH-DECISION) -- NO clean mintable condense candidate (replenish-overmints-condense-vs-accept-as-survey).
     (orphan) orphaned_files=0. (gap/caps) topics 279/320 + concepts 267/320 have headroom
-    but new-article generation is harvester-governed (harvest ran 2026-06-22T22:04Z) +
-    gap-analysis Vetoed-bank-dedup-blocked. (positions) 8 entries (<10 audit threshold),
-    positions-evolve ran 06:20Z, slow-add. (applied-apex) no high-confidence cluster gap.
-    CRUCIALLY this run found NO unflagged article with substantive own-body deep-review-unverified
+    but new-article generation is harvester-governed (harvest ran 2026-06-22T22:04Z)
+    + gap-analysis Vetoed-bank-dedup-blocked. (positions) 8 entries (<10 audit threshold),
+    positions-evolve ran 06:20Z, slow-add. (applied-apex) no high-confidence cluster
+    gap. CRUCIALLY this run found NO unflagged article with substantive own-body deep-review-unverified
     drift (unlike run 565 which took machine-question apex-evolve integration). EVERY
     changed-since-review candidate is a git-verified cosmetic cross-touch (indexical-identity-quantum-measurement
     +22d = single egocentric-presentism cross-link; phenomenal-value-realism/machine-consciousness/normativity-of-reason/volitional-control
     = 1-4-line sibling-expand/reciprocal-link touches; introspection-architecture-independence-scoring
     8/8 06-13 change = a prior deep-review OWN citation fix that failed to bump last_deep_review),
     human-length-deferred (valence-and-conscious-selection), or already-queued (luck-objection,
-    combination-problem). So the honest lowest-churn floor restorer is to PROMOTE the
-    well-grounded predictive-self-binding integration task (REAL deficit: fresh article
-    has only 1 inbound wikilink despite 4 outbound parents) rather than mint a redundant
-    cosmetic-drift deep-review. Left in its existing slot below the two genuine-drift
-    deep-reviews (FIFO within tier; no LIFO-starvation, all three freshly generated).
-    Superseded run-565 note follows.'
+    combination-problem). So the honest lowest-churn floor restorer is to PROMOTE
+    the well-grounded predictive-self-binding integration task (REAL deficit: fresh
+    article has only 1 inbound wikilink despite 4 outbound parents) rather than mint
+    a redundant cosmetic-drift deep-review. Left in its existing slot below the two
+    genuine-drift deep-reviews (FIFO within tier; no LIFO-starvation, all three freshly
+    generated). Superseded run-565 note follows.'
   legacy_run_565_note: 'run no.565 (2026-06-22T23:30Z): MINTED 1 genuine-apex-evolve-drift
     deep-review task (apex/machine-question.md), floor restored 2->3. Authoritative
     tools.evolution.task_selector.count_p0_p2_tasks=2 PRE-mint / =3 POST-mint (the
