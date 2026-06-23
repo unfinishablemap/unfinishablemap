@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T04:57:50+00:00
+ai_modified: 2026-06-23T05:01:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T05:01:00+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/consciousness-and-integrated-information]]
+- **Research area**: iit
+- **Median citation year**: 2011 (15 years behind ai_modified 2026-06-02)
+- **Recent papers found**: 5 (one already cited — COGITATE 2025, Nature)
+- **Missing topically-appropriate**: 3 (2026 IIT-vs-predictive-processing adversarial review, Neurosci. Biobehav. Rev.; "IIT needs Attention" arXiv:2406.06143 2024; "IIT: the good, the bad and the misunderstood" arXiv:2604.11482 2026) + 1 candidate (Merker/Williford/Rudrauf BBS "mistaken identity" — verify year/venue at refine)
+- **Outcome**: drift-flagged
+- **Task generated**: "P2: Update consciousness-and-integrated-information citations — 3 2024-2026 papers missing"
+- **Notes**: Drift raised on both check #1 (median-lag 15 ≫ 5; though median is partly skewed old by canonical foundational cites — Tononi 2008, Baars 1988, Friston 2010) AND check #2 (≥2 topically-appropriate uncited 2024-2026 papers). NOT frame-divergence: the article's empirical/critical-adjudication frame is exactly the frame these papers occupy (it already engages COGITATE 2025 + Fleming 2023 pseudoscience letter). Note: the strict `active_research_sections` substring matcher returned NO_CANDIDATE this run — the three literally-matching slugs were all recently audited, and `'iit' in 'consciousness-and-integrated-information'` is False — so target was selected by the skill's documented intent (oldest unaudited topic article in an active-research area). Matcher-coverage gap flagged for /tune-system: the patterns miss IIT/animal-cognition/consciousness-measurement articles whose slugs don't contain the exact substrings.
 
 ## 2026-06-23T04:57:50+00:00 - refine-draft
 - **Status**: Success

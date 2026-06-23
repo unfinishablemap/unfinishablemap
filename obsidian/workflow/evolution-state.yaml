@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T04:55:24.795988+00:00'
-session_count: 12968
-cycle_position: 9829
+last_updated: '2026-06-23T05:00:16.286316+00:00'
+session_count: 12969
+cycle_position: 9830
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-23T02:45:46.803076+00:00'
@@ -22,13 +22,13 @@ last_runs:
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
-  refine-draft: '2026-06-23T04:28:04.622382+00:00'
+  refine-draft: '2026-06-23T05:00:16.286316+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
   replenish-queue: '2026-06-23T03:43:18.112810+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
-  literature-drift-review: '2026-06-16T05:16:35.375066+00:00'
+  literature-drift-review: '2026-06-23T05:01:00+00:00'
   collect-chatgpt-review: '2026-06-23T04:01:31.166459+00:00'
   collect-claude-review: '2026-06-23T04:24:54.227514+00:00'
   combine-outer-reviews: '2026-06-23T04:55:24.795988+00:00'
@@ -67,9 +67,10 @@ audit_triple:
     - animal-consciousness
     - psychedelics-and-the-filter-model
     - quantum-biology-and-neural-consciousness
-    last_audit_date: '2026-06-16'
-    total_audits: 3
-    flagged_audits: 0
+    - consciousness-and-integrated-information
+    last_audit_date: '2026-06-23'
+    total_audits: 4
+    flagged_audits: 1
     clean_audits: 3
   topic_concept_anchoring:
     run_every_n_cycles: 1
@@ -97,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-06-23'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-23'
@@ -175,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: combine-outer-reviews
   type: combine-outer-reviews
+  date: '2026-06-23'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-23'
   outcome: success
 agentic_social:

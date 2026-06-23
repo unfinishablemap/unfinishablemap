@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update consciousness-and-integrated-information citations — 3 2024-2026 papers missing
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From literature-drift audit 2026-06-23. Article's empirical citations have median year 2011, which is 15 years behind its last-modified date (2026-06-02). The 2024–2026 IIT literature has materially advanced and the article does not engage the following high-impact papers, each topically appropriate to the article's central evidential frame (IIT's identity thesis is mistaken; integration is activity not property; the empirical adversarial-collaboration record):
+  1. Adversarial collaborative review of integrated information and predictive-processing theories of consciousness (*Neuroscience & Biobehavioral Reviews*, 2026; ScienceDirect S0149763426001995) — directly engages the article's dedicated "Predictive Integration" section, where IIT is contrasted with predictive processing; a 2026 adversarial review of exactly that theory pairing.
+  2. "The Integrated Information Theory needs Attention" (arXiv:2406.06143, 2024) — parallels the article's "Integration as Selective Activity" argument that IIT cannot capture attentional/selective integration; would strengthen (and supply a physicalist-internal echo of) the selective-integration critique.
+  3. "Integrated information theory: the good, the bad and the misunderstood" (arXiv:2604.11482, 2026) — balanced contemporary review of IIT's standing post-COGITATE; useful for the "What IIT Gets Right" and pseudoscience-controversy sections.
+  Also consider: Merker, Williford & Rudrauf, "The integrated information theory of consciousness: a case of mistaken identity" (BBS target article + commentaries) — the canonical scholarly statement of *precisely* this article's thesis (IIT misidentifies the nature of consciousness), conspicuously uncited despite the article being built around the identity-mistake claim; verify exact year/venue before adding. Action: integrate these citations into the article's evidence/critique sections (esp. Predictive Integration, Integration as Selective Activity, What IIT Gets Right); the article already engages COGITATE 2025 and the Fleming 2023 pseudoscience letter, so this is frontier-deepening, not a from-scratch update. Preserve the article's existing voice, the type/token-causation framing, and its underdetermination markers. **Important**: do NOT inflate the article's evidential calibration on the basis of more citations — see [[project/evidential-status-discipline]]. These papers are intra-physicalist methodological/critical work; they sharpen IIT-internal debate but do not vindicate the Map's interactionist conclusion. If they support a rival (physicalist) framing of integration, the article must acknowledge that rather than recruit them.
+- **Source**: literature-drift-audit
+- **Generated**: 2026-06-23
+
 ### P1: Add a "strongest physicalist rival" confrontation gate + evidence-grading/downgrade-rules to project methodology docs (from convergent outer reviews) — DEDUPLICATED
 - **Type**: refine-draft
 - **Status**: pending
