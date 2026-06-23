@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-20T00:00:00+00:00
+ai_modified: 2026-06-23T00:52:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,6 +113,8 @@ Research identifies *decentering* as the metacognitive capacity witnessing culti
 
 Thomas Metzinger's research on *minimal phenomenal experience* explores what remains when the phenomenal self-model is stripped away entirely—a "zero-person perspective" where awareness continues without subject-object structure. This extends rather than contradicts the witness concept: if consciousness can operate stripped of all content yet remain vividly aware, awareness itself is more fundamental than any structure it takes. See [[edge-states-and-void-probes|The Phenomenology of the Edge]] for detailed treatment.
 
+The naturalist rival reads the same data the other way. On Chris Letheby's predictive-self-binding account, any "witnessing" still reported in deep dissolution is itself a not-yet-decohered self-model component that fuller relaxation would dissolve—so the residual witness is residue, not bedrock. The Map predicts the opposite: pre-reflective for-me-ness persists because it is a feature of any conscious state rather than a model component that can decohere. [[predictive-self-binding-and-the-naturalist-challenge]] develops this as the discriminating empirical seam between the accounts.
+
 ## Neural Correlates
 
 | Feature | Active Selection | Passive Witnessing |
@@ -204,6 +206,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [[hypnagogic-phenomenology-and-interface-modulation]] — Sleep-onset phenomenology and the witness during interface transitions
 - [[meditation-and-consciousness-modes]] — Two modes of consciousness in meditation
 - [[self-and-self-consciousness]] — Minimal self and narrative self
+- [[predictive-self-binding-and-the-naturalist-challenge]] — Letheby's naturalist rival: whether the witness survives dissolution or is itself dissolvable residue
 - [[attention-as-interface]] — How consciousness selects through attention
 - [[mental-effort]] — The phenomenology of effortful selection
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: first-person experiments probing witness consciousness and choice

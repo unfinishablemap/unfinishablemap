@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-06-10 12:01:40+00:00
+ai_modified: 2026-06-23 00:52:50+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -142,6 +142,8 @@ Three of the Map's core commitments require the Zahavian minimal self specifical
 
 The Zahavi/Metzinger question cannot be decided by ego-dissolution reports alone. Husserl's [evidence taxonomy](/topics/phenomenal-authority-and-first-person-evidence/#husserls-evidence-taxonomy) clarifies the structure: apodictic weight attaches to the *existence* of for-me-ness; choice of interpretive framework sits at assertoric weight. Metzinger's post-hoc-reconstruction reading is internally consistent and not refutable by introspective data, since by hypothesis no access to a putative zero-person phase is possible. The Map's preference for Zahavi is conditional on the three commitments above. If they are sound, Zahavi coheres; if not, the parsimony advantage runs to Metzinger. The choice is one of metaphysical fit, not empirical compulsion.
 
+The contemporary predictive-processing form of the Metzingerian deflation is Chris Letheby's self-fictionalism, on which the felt self is a high-precision Bayesian prior with no referent. The discriminating empirical bet is precisely the one above: whether *any* minimal self survives deep dissolution, or whether residual "witnessing" is just a not-yet-decohered model component. [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) develops the Map's wager that pre-reflective for-me-ness persists when the narrative self-model is in abeyance — the minimal/narrative distinction drawn here doing the load-bearing work.
+
 This Zahavi/Metzinger choice is the Western form of a dispute the classical Indian schools mapped with greater precision: whether the non-physical aspect of mind is *essentially* conscious or only *contingently* so. Choosing constitutive for-me-ness (Zahavi) over a contingent self-model (Metzinger) is the Western analogue of siding with Advaita's essential consciousness against Nyaya's adventitious-quality view. [Essential vs. contingent consciousness](/topics/essential-vs-contingent-consciousness/) develops the parallel and shows the same evidential caution applies: the lean is a metaphysical commitment, not an empirically forced result.
 
 ## Constitutive as Kind, Not as Degree
@@ -201,6 +203,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 - [mine-ness](/concepts/mine-ness/) — The for-me phenomenal feature distinguished from the sense of agency
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood and how they nest
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Ego-dissolution evidence under the Zahavian reading
+- [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) — Letheby's self-fictionalism as the predictive-processing form of self-model eliminativism, and the Map's persistent-minimal-self reply
 - [witness-consciousness](/concepts/witness-consciousness/) — What remains when narrative selfhood dissolves
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis
 - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — What self-awareness feels like from inside

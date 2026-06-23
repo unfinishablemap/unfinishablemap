@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-17 15:30:00+00:00
+ai_modified: 2026-06-22 21:42:43+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'Why the Map rejects MWI: it raises unanswerable questions about in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 01:00:05+00:00
+last_deep_review: 2026-06-22 21:42:43+00:00
 modified: *id001
 related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'

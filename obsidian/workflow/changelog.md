@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T00:39:14+00:00
+ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T00:52:50+00:00 - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[topics/predictive-self-binding-and-the-naturalist-challenge]]
+- **Word count**: target unchanged (2598 words; body not modified — integration pass, not content review)
+- **Context**: article created + fully reviewed 2026-06-22 (citations web-verified, no critical issues); optimistic-2026-06-22d flagged it as an inbound-orphan. This pass adds inbound cross-references so it is reachable in the nav graph.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 inbound cross-links added from 4 content articles (now 6 inbound total incl. the pre-existing companion link from psychedelics-and-the-filter-model). Each placed at a topically precise body location with content-additive prose + a Further Reading entry:
+  - [[topics/predictive-processing-and-dualism]] (Beautiful-Loop parallel — the same hard-problem move applied to the predictive self; highest-value)
+  - [[concepts/self-and-self-consciousness]] (Choice Under Metaphysical Commitment — Letheby as the PP form of Metzingerian deflation)
+  - [[concepts/witness-consciousness]] (Decentering/MPE — witness-survives vs. dissolvable-residue empirical seam)
+  - [[concepts/altered-states-of-consciousness]] (REBUS paragraph + Further Reading)
+  - [[topics/hard-problem-of-consciousness]] (predictive-processing rival item — first prong anchor)
+- **Frontmatter**: `ai_modified` bumped on all 5 host articles; `last_deep_review` left untouched on all (integration edits, not full reviews) and on the target (2026-06-22 review remains authoritative).
+- **Verification**: sync clean, zero broken-link warnings on the new links.
+- **Output**: [[reviews/deep-review-2026-06-23-predictive-self-binding-and-the-naturalist-challenge]]
 
 ## 2026-06-23T00:39:14+00:00 - deep-review
 - **Status**: Success

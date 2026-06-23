@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-22 20:37:26+00:00
+ai_modified: 2026-06-23 00:52:50+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -87,6 +87,8 @@ The theory's most sophisticated move sharpens this objection rather than dissolv
 
 The residue is a framework-boundary disagreement, and the Map marks it as such rather than dressing it as a refutation. Both sides can agree point for point on the architecture: a unified self-locating model, integrated, recursively deep, at the perception-policy interface. They part on what completes it. For the theory, the recursion is self-sufficient — the loop's closing constitutes the experience. For the Map, the same closed loop is the physical side of an interface whose felt side the recursion specifies but does not generate, and a non-physical contributor enters at the seam the theory declares already full. Neither side refutes the other from inside its own commitments; the beautiful-loop account remains a live and serious rival, defeated neither by the tenets nor by decisive evidence, separated from the Map only by whether the recursive interface is complete in itself.
 
+The same move recurs when the framework turns to the *self*. Chris Letheby's [predictive-self-binding](/topics/predictive-self-binding-and-the-naturalist-challenge/) account reads the felt self as a high-precision Bayesian prior and concludes to self-fictionalism. The Map's reply runs parallel: the formalism explains self-*prioritisation* without establishing that the model is *felt* — the explanatory gap again, in predictive-self register.
+
 ## Precision Weighting as the Causal Interface
 
 The Map's most productive integration with PP concerns precision weighting and [attention as the causal interface](/concepts/attention-as-interface/).
@@ -163,6 +165,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why simplicity cannot settle the consciousness debate
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — REBUS and Letheby's predictive-self-binding account: PP under dualism applied to altered states
+- [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) — Letheby's self-fictionalism and the Map's three-pronged reply
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — The locality face of the same selection-only interface: why conscious selection reaches only its own brain, not external quantum systems
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-06-13 13:46:48+00:00
+ai_modified: 2026-06-22 21:58:23+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'The problem of other minds generalises: if phenomenal properties a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 07:48:48+00:00
+last_deep_review: 2026-06-22 21:58:23+00:00
 modified: *id001
 related_articles:
 - '[[voids-between-minds]]'
@@ -29,7 +29,6 @@ related_articles:
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[consciousness-and-social-understanding]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
-- '[[problem-of-other-minds]]'
 - '[[apex/phenomenal-output-causal-machinery-dissociation]]'
 title: Consciousness and the Problem of Other Properties
 topics:

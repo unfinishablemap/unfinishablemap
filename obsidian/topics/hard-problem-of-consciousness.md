@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-06-20T11:29:28+00:00
+ai_modified: 2026-06-23T00:52:50+00:00
 draft: false
 topics: []
 concepts:
@@ -174,7 +174,7 @@ Research on [[neural-correlates-of-consciousness|neural correlates of consciousn
 
 **[[reductionism|Reductive physicalism]]** claims consciousness *is* brain activity, as water is H₂O. Unlike water=H₂O, the identity seems not to explain: we understand why H₂O has water's macroscopic properties through structural derivation, but no analogous derivation bridges neural activity and felt quality.
 
-**[[predictive-processing|Predictive processing]]** explains much about cognitive mechanisms—attention, perception, action—yet the framework primarily addresses functional organisation. Even granting a complete predictive processing account of the brain, the question remains: why is prediction accompanied by experience?
+**[[predictive-processing|Predictive processing]]** explains much about cognitive mechanisms—attention, perception, action—yet the framework primarily addresses functional organisation. Even granting a complete predictive processing account of the brain, the question remains: why is prediction accompanied by experience? The same debt surfaces when predictive processing turns to the *self*: Chris Letheby's predictive-self-binding account explains self-*prioritisation* without establishing that the self-model is *felt*, leaving the hard problem in predictive register (see [[predictive-self-binding-and-the-naturalist-challenge]]).
 
 See [[concepts/materialism]] for detailed treatment of each position.
 

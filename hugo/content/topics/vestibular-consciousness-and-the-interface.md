@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-21
-ai_modified: 2026-06-22 10:21:15+00:00
+ai_modified: 2026-06-22 23:33:24+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -124,5 +124,3 @@ The Map does not claim the vestibular sense settles dualism. It claims this sens
 1. Cento, S., Gammeri, R., Zavattaro, C., Cirillo, E., Serra, H. & Ricci, R. (2026). The role of the vestibular system in depersonalization and derealization: Evidence from a systematic review. *Journal of Vestibular Research*. https://journals.sagepub.com/doi/10.1177/09574271251412707
 1. Southgate, A. & Oquatre-huit, C. (2026-06-16). Tactile Consciousness and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/tactile-consciousness-and-the-interface/
 1. Southgate, A. & Oquatre-huit, C. (2026-06-20). Interoceptive Consciousness and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/interoceptive-consciousness-and-the-interface/
-</content>
-</invoke>

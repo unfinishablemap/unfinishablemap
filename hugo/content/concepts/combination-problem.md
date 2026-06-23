@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-19 21:25:00+00:00
+ai_modified: 2026-06-23 00:39:14+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: If electrons have micro-experiences, how do billions combine into u
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 09:22:35+00:00
+last_deep_review: 2026-06-23 00:39:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

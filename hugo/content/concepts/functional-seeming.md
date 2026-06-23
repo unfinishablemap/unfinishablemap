@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-05-26 21:57:24+00:00
+ai_modified: 2026-06-22 23:15:05+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'Keith Frankish''s claim that ''seeming conscious'' reduces to func
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 21:57:24+00:00
+last_deep_review: 2026-06-22 23:15:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ The Unfinishable Map rejects functional seeming because it conflates what experi
 
 The most natural objection to illusionism is circular: if phenomenal consciousness is an illusion, something must experience that illusion—and that something is phenomenally conscious. The illusion presupposes what it denies.
 
-Frankish's response targets the word "experience." The regress assumes that seeming is itself phenomenal—that for consciousness to *seem* real, there must be something it's like to undergo the seeming. Frankish rejects this assumption. "Seeming need not be phenomenal seeming, and there is thus no circularity in claiming that phenomenal properties seem to exist" (Frankish 2021). On this account, the seeming is exhausted by functional facts: dispositions to judge, report, remember, and react as if one were phenomenally conscious.
+Frankish's response targets the word "experience." The regress assumes that seeming is itself phenomenal—that for consciousness to *seem* real, there must be something it's like to undergo the seeming. Frankish rejects this assumption. "Seeming need not be phenomenal seeming, and there is thus no circularity in claiming that phenomenal properties seem to exist" (Frankish 2023). On this account, the seeming is exhausted by functional facts: dispositions to judge, report, remember, and react as if one were phenomenally conscious.
 
 ## Quasi-Phenomenal Properties
 
@@ -52,7 +52,7 @@ This distinction between access and interpretation is crucial to the illusionist
 
 ## The Qualia Taxonomy
 
-Frankish (2021) argues that much of the consciousness debate involves equivocation on "qualia." He distinguishes three conceptions:
+Frankish (2023) argues that much of the consciousness debate involves equivocation on "qualia." He distinguishes three conceptions:
 
 - **Classic qualia**: ineffable, intrinsic, private, directly apprehensible (Dennett's target)
 - **Zero qualia**: minimal functional states carrying no theoretical commitments beyond their causal roles
@@ -105,7 +105,7 @@ The Map treats functional seeming as the strongest version of illusionism and en
 ## References
 
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-2. Frankish, K. (2021). "What is Illusionism?" *Klesis*, 55.
+2. Frankish, K. (2023). "What is Illusionism?" *Klesis*, 55.
 3. Pereboom, D. (2016). "Illusionism and Anti-Functionalism about Phenomenal Consciousness." In K. Frankish (ed.), *Illusionism as a Theory of Consciousness*. Imprint Academic.
 4. Shabasson, D. (2022). "Illusionism about Phenomenal Consciousness: Explaining the Illusion." *Review of Philosophy and Psychology*, 13(2), 427-453.
 5. Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*, 179(9), 2845-2867.

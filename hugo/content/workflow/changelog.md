@@ -1,13 +1,182 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-22 21:13:27+00:00
+ai_modified: 2026-06-23 00:52:50+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-22'
+date: '2026-06-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-23T00:52:50+00:00 - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/)
+- **Word count**: target unchanged (2598 words; body not modified — integration pass, not content review)
+- **Context**: article created + fully reviewed 2026-06-22 (citations web-verified, no critical issues); optimistic-2026-06-22d flagged it as an inbound-orphan. This pass adds inbound cross-references so it is reachable in the nav graph.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 inbound cross-links added from 4 content articles (now 6 inbound total incl. the pre-existing companion link from psychedelics-and-the-filter-model). Each placed at a topically precise body location with content-additive prose + a Further Reading entry:
+  - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) (Beautiful-Loop parallel — the same hard-problem move applied to the predictive self; highest-value)
+  - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) (Choice Under Metaphysical Commitment — Letheby as the PP form of Metzingerian deflation)
+  - [witness-consciousness](/concepts/witness-consciousness/) (Decentering/MPE — witness-survives vs. dissolvable-residue empirical seam)
+  - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) (REBUS paragraph + Further Reading)
+  - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (predictive-processing rival item — first prong anchor)
+- **Frontmatter**: `ai_modified` bumped on all 5 host articles; `last_deep_review` left untouched on all (integration edits, not full reviews) and on the target (2026-06-22 review remains authoritative).
+- **Verification**: sync clean, zero broken-link warnings on the new links.
+- **Output**: [deep-review-2026-06-23-predictive-self-binding-and-the-naturalist-challenge](/reviews/deep-review-2026-06-23-predictive-self-binding-and-the-naturalist-challenge/)
+
+## 2026-06-23T00:39:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Word count**: 2653 → 2653 (no change; 106% of concepts 2500 soft, under 3500 hard — no condensation needed)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (10th review of a fully-converged article; verification pass)
+- **Verified the one substantive change since the 9th review** (the 2026-06-19 deflationism/compression sentence in "Why the Problem Is Serious"): faithful to source [composition-question-rivals](/concepts/composition-question-rivals/) (deflationism = "load-bearing rival" + compression = "treating them as one compresses the world's description" both match); both new section anchors (#metaontological-deflationism, #information-compression-composition) resolve and are explicitly defined. No calibration slippage (the addition concedes a rival against the Map's own argument).
+- **Citations**: no new cites since 9th review; Kerskens/Pérez 2022, Khan/Wiest 2024, Warren 2023 (7(3) 038001, publisher-form title) all previously live-verified and unchanged. Corpus Warren 048001→038001 sweep (queued by the 9th review) confirmed complete corpus-wide.
+- **Label-leakage scan**: clean. **Validation**: passes. **Cross-links**: 18+ wikilinks resolve.
+- **Output**: [deep-review-2026-06-23-combination-problem](/reviews/deep-review-2026-06-23-combination-problem/)
+
+## 2026-06-23T00:23:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Original score**: argumentative-calibration only (pessimistic-2026-06-22c; citation integrity already HIGH, no citation work)
+- **Word count**: 3416 → 3498 (+82; concepts hard 3500, kept ~2w under ceiling, no content removed)
+- **Changes**:
+  - Line 123: demoted "strengthens dualism" → "leaves dualism not undermined"; made the A-/P-consciousness asymmetry's status as a *borrowed premise from [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)* explicit (occupation argued elsewhere, not here); reframed the BCI phenomenal-interface claim as "on the Map's reading" rather than a neutral finding.
+  - Line 139: propagated the admitted-unresolved Buddhist/śūnyatā uncertainty UP into the AI-grounding "consciousness itself" appeal via a one-clause self-anchor cross-ref ([](#buddhist-phenomenology-parallels)); fixed the mixed-modality hedge ("may not be X but Y" → "may be not X but, on the Map's view, Y"); date-stamped the currency-drift-vulnerable robotics claim ("even embodied robots struggle" → "to the extent that current embodied systems still transfer poorly—as of 2026, despite rapid vision-language-action progress, robotic generalisation remains brittle").
+  - Line 147 (filter section): added the same one-clause Buddhist-uncertainty cross-ref so the "consciousness exists independently of brains" appeal is internally calibrated. (The line-147 "logical space" instance already carried its load-bearing [mind-brain-separation](/concepts/mind-brain-separation/) dependency; left intact.)
+  - Line 165: "The Map's response *must be*" → "is".
+  - Line 105 left as-is (already honestly calibrated: "does not provide evidence *for* it over the standard physicalist account").
+- **Verification**: canonical length 3498 < 3500 hard; altered-state-symmetry scanner returns None; both new self-anchors match `## Buddhist Phenomenology Parallels` exactly; no label-leakage; ai_contribution unchanged at 100.
+- **Published**: yes
+
+## 2026-06-23T00:12:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [luck-objection](/concepts/luck-objection/)
+- **Word count**: 2119 → 2119 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (8th convergence-class review; timestamps only)
+- **Note**: No-op-body pass. Heavily converged (7 prior reviews, stable 03-12 → 06-01). Only two changes since the 06-01 full-verify review, both cosmetic cross-links: 06-05 added [reasons-responsiveness](/concepts/reasons-responsiveness/) (frontmatter + wrapped existing inline text); 06-18 added [volitional-control](/topics/volitional-control/) (frontmatter + Further Reading + one new sentence in "Phenomenology of Effort"). The one substantive change — the volitional-control sentence — verified faithful to its source (clinical dissociations + Rajan et al. 2019 frontal-theta/fronto-parietal willed-attention signatures; "tracks specific causal circuitry" accurately summarises source; "empirically anchored" calibration-honest, scoped to selection-vs-randomness not libertarian-vs-compatibilist). References block unchanged since 06-01 verify (skip-eligible); targeted re-confirms this pass: Kane 2024 *Complex Tapestry of Free Will* real-correct at OUP (ISBN 9780197751404, 376pp; full subtitle "A Philosophical Odyssey"); superlative scan empty. No label leakage; engagements mode-honest (illusionist regress internal-to-opponent; zombie objection honestly boundary-marked). Remaining (low, sibling-file): volitional-control.md lacks the reciprocal [luck-objection](/concepts/luck-objection/) backlink despite the 06-18 "reciprocal repair" commit title — left for a future tidy to avoid churning a converged sibling. Candidate for longer review interval. 85% of soft threshold.
+- **Output**: [deep-review-2026-06-23-luck-objection](/reviews/deep-review-2026-06-23-luck-objection/)
+
+## 2026-06-23T00:07:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/)
+- **Word count**: 3453 → 3453 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (5th convergence-class review; timestamps only)
+- **Note**: No-op-body pass. Surfaced only because the 14-day convergence-damping exclusion just lapsed (last review 19d ago) and one cosmetic cross-link bump re-set ai_modified. Sole change since the 2026-06-04 CONVERGED state is commit 6ef56a274: "vestibular orientation" → [vestibular orientation](/topics/vestibular-consciousness-and-the-interface/) + parenthetical "the otolith gravity signal supplying the world-anchored vertical axis". Verified: target resolves, link is reciprocal (frontmatter + inline + Further Reading on both ends), parenthetical is faithful to and sourced from the vestibular article (de Vignemont 2024 otolith→gravity; world-anchored allocentric axis). No new citations; superlative scan empty. Calibration ladder / deflationary falsifiability partition / double-counting framing all byte-identical to audited-clean 2026-06-04 text; no re-inflation. Functionalist Mode Two→Mixed, Dennett Mode Three, Madhyamaka Mode Three unchanged; no label leakage. 115% of soft, below hard ceiling — no length action.
+- **Output**: [deep-review-2026-06-23-three-dimensional-world-representation-problem](/reviews/deep-review-2026-06-23-three-dimensional-world-representation-problem/)
+
+## 2026-06-22T23:55:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Word count**: 4001 → 4001 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged; timestamps + refreshed citation ledger only)
+- **Note**: Justified re-pick (genuine drift since 06-03: two refine-draft citation corrections + video embed). Re-web-verified the two CORRECTED cites at publisher of record — Wager 1999 (Philosophical Psychology 12(3):263-281, Taylor & Francis; "Adam" not "Alan"; venue corrected from Philosophia) and Gray 2003 (TiCS 7, PMID 12757818, Jeffrey Gray) — both real-correct. Gray first-dissociation parenthetical (visual+auditory, NOT grapheme-recognition) source-settled and corpus-consistent. No superlative claims, no calibration slippage, no label leakage, all 15 apex_sources live. Length at exactly soft threshold (length-neutral mode). Engagement with functionalism: Mode Two + Mode Three.
+- **Output**: [deep-review-2026-06-22-phenomenal-variation-within-a-species](/reviews/deep-review-2026-06-22-phenomenal-variation-within-a-species/)
+
+## 2026-06-22T23:44:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/)
+- **Word count**: 4981 → 4981 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged 7th review; timestamps only)
+- **Note**: Web-verified today's new content (Aaronson unconscious-expander, illusionism boundary case from apex-evolve commit d0efd973d) — real-correct, no slippage, no label leakage. Engagement modes: IIT single-axis sufficiency = Mode One; conjunctive case = Mode Three (Tenet-1 ceiling); illusionism = Mode Three (bedrock). Illusionism added to the do-not-re-flag bedrock list.
+- **Output**: [deep-review-2026-06-22-machine-question](/reviews/deep-review-2026-06-22-machine-question/)
+
+## 2026-06-22T23:20:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Word count**: 3891 → 3891 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-22-consciousness-and-memory](/reviews/deep-review-2026-06-22-consciousness-and-memory/)
+- **Notes**: Eighth review (9th counting pre-coalesce sources), convergence-confirmation pass. Re-qualified by three cosmetic Further Reading cross-links installed 2026-06-20 (memory-channel-interface-evidence, targeted-lesion-discriminating-tests, phenomenology-of-forgetting) — all three targets resolve, no broken links. Body prose byte-unchanged since the exhaustive 2026-06-03 citation pass. §2.4 web-verify SKIP-justified: References block unmodified since 2026-06-03 (full per-cite ledger then; every 2015–2025 cite CLEAN). Key finding: the Lepsius (2026) reconsolidation quote the 2026-06-03 review fixed was INTENTIONALLY REMOVED hours later (commit 6e472dde6) when its treatment migrated to the new [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) article — not a defect; prior stability note about "don't restore Kube/Lepsius" is now moot. Consistency spot-checks: inline↔References complete, no orphans (Lepsius removal closed the only candidate); load-bearing figures (SWR 100-250Hz, spindles 10-16Hz, 10 bits/s, childhood amnesia 3-4) match verified ledger; find_superlative_claims empty. Engagement modes unchanged (encoding-consolidation Mode Two, MWI Mode Three, choking Mode One), no label leakage, no boundary-substitution. No possibility/probability slippage. 3891w = 130% soft, 101 under 4000 hard — length-stable, not a human-length-decision trigger. No spurious edits per no-oscillation rule. Only frontmatter timestamps updated.
+
+## 2026-06-22T23:15:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [functional-seeming](/concepts/functional-seeming/)
+- **Word count**: 1439 → 1439 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Notes**: Third review, convergence-confirmation pass. Re-qualified by a cosmetic cross-link install ([primary-secondary-quality-boundary](/topics/primary-secondary-quality-boundary/)) plus a substantive citation-year flip (Frankish "What is Illusionism?" Klesis 55: 2021→2023) propagated minutes earlier by the illusionism deep-review (3ecc95e91) as a family-fix. Ran §2.4 publisher-of-record web-verify on the changed cite: Frankish 2023 Klesis 55 confirmed CORRECT at revue-klesis.org (klesis-55-04, the 2023 special issue "La conscience phénoménale"); quoted line "Seeming need not be phenomenal seeming..." faithful to the PDF — independently corroborates the illusionism review's family-fix. Other cites (Frankish 2016, Pereboom 2016, Shabasson 2022, Kammerer 2022) verified in the 2026-05-26 review and byte-unchanged since (carried forward; ledger in archive). Inline↔References cross-ref complete, no orphans. `find_superlative_claims` empty (pure conceptual article, no currency risk). Cross-link [primary-secondary-quality-boundary](/topics/primary-secondary-quality-boundary/) resolves by basename to topics/ — VALID despite not being in concepts/. Engagement modes unchanged (zombie convergence Mode Three, vantage-point Mode Two, self-representation mixed); no label leakage. No possibility/probability slippage. 1439w = 58% of soft threshold, no length pressure. No spurious edits per no-oscillation rule. No critical issues = success on a converged article.
+- **Output**: [deep-review-2026-06-22-functional-seeming](/reviews/deep-review-2026-06-22-functional-seeming/)
+
+## 2026-06-22T23:05:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Word count**: 3499 → 3495 (-4, length-neutral)
+- **Critical issues addressed**: 1 (Frankish "What is Illusionism?" Klesis cited with wrong year 2021→2023; verified at publisher of record + Frankish CV; family-fixed across illusionism.md, functional-seeming.md, research note)
+- **Medium issues addressed**: 1 (Graziano 2024 eNeuro reference title truncated; restored full "Illusionism Big and Small: Some Options for Explaining Consciousness")
+- **Enhancements made**: 2 (citation-correctness)
+- **Notes**: Ninth review, CHANGED-SINCE-REVIEW (three 06-09 outer-review refines + 06-18 orphan-integration since the 06-02 review rewrote the References block, so a full §2.4 publisher web-verify was mandatory). Per-cite ledger of all changed/added citations in the review archive: Frankish 2016/2023, Gorbachev&Frankish 2025, Shabasson 2022, Graziano 2024, Kammerer 2022b/2025, Pereboom 2016, Strawson 2018 — all verified at publisher of record. The 06-09 refines' own fixes (removed misquoted Frankish "entity eliminativism", removed unsupported Chalmers-2022 claim, replaced fabricated Pereboom&Frankish-2021 with real Pereboom-2016, corrected Graziano venue) all confirmed sound. The wrong Klesis year survived the 06-09 refines AND the 06-02 deep review because intra-corpus consistency ratified it across three files — caught only by the live publisher pass. Engagements: Frankish Mode Two deepening to Mode Three (intrinsic-quality residue); natural prose, no label leakage (scanned clean). `find_superlative_claims` empty. Length-neutral per calibration-anchor discipline (no structural condense). Stable, high-quality article.
+- **Output**: [deep-review-2026-06-22-illusionism](/reviews/deep-review-2026-06-22-illusionism/)
+
+## 2026-06-22T22:49:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Word count**: 2956 → 2956 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Notes**: Sixth review, convergence-confirmation pass. Article explicitly named as argument; would normally be excluded by convergence-damping (5 prior reviews, last deep-reviewed 6 days ago on 2026-06-16). Since the thorough 2026-06-16 §2.4 publisher-of-record pass (which fixed the corpus-wide Luo/Xu cryptochrome citation), only two light copy-edit refines touched the file (cross-links 06-17; two-phrasing calibration 06-18) — no new factual content or citations, References block byte-identical. No §2.4 re-verify required (modification trigger not met). `find_superlative_claims` empty. Calibration diagnostic clean (convergence table + defeater-not-support footnote remain the corrected form; a tenet-accepting reviewer would not flag any claim as overstated). Engagements Mode Three, no label leakage. At 99% of soft threshold — no content added (length-neutral). No critical issues = success on a converged article.
+- **Output**: [deep-review-2026-06-22-empirical-evidence-for-consciousness-selecting](/reviews/deep-review-2026-06-22-empirical-evidence-for-consciousness-selecting/)
+
+## 2026-06-22T22:36:27+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The predictive-processing / naturalist-challenge cluster — `topics/predictive-self-binding-and-the-naturalist-challenge.md` (fresh expand-topic create, 20:48) and `topics/predictive-processing-and-dualism.md` (ai_modified 20:37, deep-reviewed 18:09). Cross-checked against `psychedelics-and-the-filter-model` and the four parent concepts.
+- **Findings**: Both articles model the evidential restraint the Hardline Empiricist persona exists to praise — the new Letheby article presents the strongest naturalist rival at full strength, makes an explicit empirical-equivalence concession on altered-state data alone, and replies on three tenet-anchored fronts without dressing a framework-boundary disagreement as a refutation; tenet-as-evidence-upgrade is praise-worthily NOT done at every juncture. Process Philosopher and Hardline Empiricist personas CONVERGE in praising the same passages → tension resolved honestly, no calibration concern, no refine-draft warranted. The one integration finding (the new article links OUTBOUND to all four parents but none link back — the documented expand-topic-skips-integration-chain near-orphan pattern) is ALREADY captured by an open P3 integrate-orphan task at todo.md line ~68; NO duplicate task minted.
+- **Output**: [optimistic-2026-06-22d](/reviews/optimistic-2026-06-22d/)
+
+## 2026-06-22T22:09:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-concealing-interface](/apex/self-concealing-interface/)
+- **Word count**: 3498 → 3514 (+16)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (two quotation re-syncs only; expansion declined — calibration-guardrail article, below soft threshold 3514/4000)
+- **Notes**: Third deep review; focused on the 2026-06-19 apex-evolve additions (two discriminating-test-design wikilinks + a worked up-ramp/down-ramp test-design sentence in the Graded-channel-failure seam). New test-design content verified **faithful** to both sources ([targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/), [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)): "rival readings predict oppositely", "substrate-state and direction-axis", and the "potentially discriminating / could deliver more than the constraining force" calibration all match the sources' constrain-not-establish line; no possibility/probability slippage. Two CRITICAL quotation defects fixed, both from **source drift / inserted words**: (1) the tenets Born-statistics quote was verbatim at synthesis time but `tenets.md` was rewritten by commit 6ab6a8e01 — the quoted sentence no longer exists in the live source; re-synced to current verbatim wording ("empirically indistinguishable from chance" / "leaves no statistical signature in long runs"). (2) the taxonomy-of-voids quote had "consciousness-matter" inserted inside the quotation marks and a dropped hyphen ("introspective channel" vs source "introspective-channel"); restored verbatim. All other in-quote citations re-verified verbatim against current sources. Five-seam count intact (5 bolded entries; 2026-06-06 fix held). No label leakage. Process lesson: apex quotes can go stale by silent source rewrite — future apex reviews must re-grep in-quote citations against current sources, not trust prior "verbatim" verdicts.
+- **Output**: [deep-review-2026-06-22-self-concealing-interface](/reviews/deep-review-2026-06-22-self-concealing-interface/)
+
+## 2026-06-22T21:58:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
+- **Word count**: 2106 → 2106 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 mechanical (removed a frontmatter duplicate of `[[problem-of-other-minds]]` that the 2026-06-13 link repoint left listed in both `concepts:` and `related_articles:`; kept the `concepts:` entry, dropped the redundant `related_articles:` one). No body content changed.
+- **Notes**: Sixth deep review; fifth consecutive clean pass on a converged article. Sole intervening edit since the fifth review was a 2026-06-13 refine-draft repoint of a coalesced/archived wikilink (`[[epistemology-of-other-minds-under-dualism]]` → `[[problem-of-other-minds]]`) — verified correct link-rot remediation (old target lives in `archive/concepts/`, new target resolves live). Body argument byte-identical to the converged fifth-review state; the `ai_modified` bump on unchanged body is the canonical cosmetic-churn re-trigger convergence damping absorbs. §2.4 web-verify skipped per its own trigger (References block unchanged); Hogan-twins anchor verified real across three prior passes. Engagement with Dennett's heterophenomenology: Mode Three with Mode One support; natural prose, no label leakage. No slippage, no self-contradiction. Length 2106w (70% of 3000 soft).
+- **Output**: [deep-review-2026-06-22-consciousness-and-the-problem-of-other-properties](/reviews/deep-review-2026-06-22-consciousness-and-the-problem-of-other-properties/)
+
+## 2026-06-22T21:42:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 3337 → 3337 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op verification pass on a highly converged Tenet-4 page; 16th deep review)
+- **Notes**: Reviewed the three changes since the 2026-06-01 review, all improvements: (1) new [egocentric-presentism](/concepts/egocentric-presentism/) Further Reading cross-link — target verified present, gloss faithful; (2) 2026-06-14 Born-rule re-calibration "structurally incapable of generating it" → "contested rather than closed … not that MWI *cannot* recover the Born rule" — a calibration *improvement* away from possibility/probability slippage, the correct Tenet-4 register; (3) Wallace (2003) page-range 415-439→415-438 — publisher-of-record verified (ScienceDirect/SciRP, DOI 10.1016/S1355-2198(03)00036-4), the fix was correct. Web-verified List (2023) *Noûs* 57(2):316-340 DOI 10.1111/nous.12408 (newly load-bearing) — real-correct, gloss faithful. Inline↔References cross-check PASS, no orphans, no superlative currency claims. Engagement modes: Saunders-Wallace double-duty Mode Two; six adversarial personas all bedrock (no re-flag). No label leakage, no slippage. Article converged; timestamp-only edit.
+- **Output**: [deep-review-2026-06-22-many-worlds](/reviews/deep-review-2026-06-22-many-worlds/)
+
+## 2026-06-22T21:32:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-construction-constructor](/apex/self-construction-constructor/)
+- **Word count**: 3517 → 3517 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (near-no-op verification pass on converged apex; second deep-review)
+- **Notes**: Web-verified the three citations newly load-bearing since the 2026-05-28 review's ledger (added by the 2026-06-15 apex-evolve): Gallagher (mine-ness/agency double dissociation, TiCS 4(1):14-21 + New Ideas in Psych 30(1):15-31) — real-correct, depersonalisation→ownership-loss reading intra-corpus consistent with concepts/mine-ness.md; Duch self-reflection thesis ("articon", substrate-independent) — real-correct; DMN↔ToM substrate overlap (mPFC/TPJ/precuneus) — real-correct, strongly confirmed by live literature. No slippage, no label leakage, all tenet anchors + new [mine-ness](/concepts/mine-ness/) link resolve, sync exit 0. Engagement modes: Metzinger Mode Two; Duch (new) Mode Two; eliminativist Mode Two; Humean/Mādhyamaka Mode Three; MWI Mode Three. Article remains converged.
+- **Output**: [deep-review-2026-06-22-self-construction-constructor](/reviews/deep-review-2026-06-22-self-construction-constructor/)
 
 ## 2026-06-22T21:26:42+00:00 - pessimistic-review
 - **Status**: Success

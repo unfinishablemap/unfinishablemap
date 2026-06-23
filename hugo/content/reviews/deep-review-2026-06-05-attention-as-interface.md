@@ -81,5 +81,3 @@ Tenth deep review; article is at full convergence on both content and citation i
 - Empiricist objection that falsification condition 2 reduces to the hard problem — acknowledged limitation; four other conditions remain testable.
 - Buddhist objection that the observer is constructed — tenet-level disagreement.
 - Decoherence timescale dispute (Hagan vs Reimers/McKemmish) — framed as live, not settled; Zeno mechanism is one candidate among several.
-</content>
-</invoke>

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-06-22 10:34:36+00:00
+ai_modified: 2026-06-22 23:33:24+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -123,5 +123,3 @@ The Map does not claim interoception settles dualism. It claims that completing 
 7. Loescher, M., Haggard, P., & Tallon-Baudry, C. (2025). Interoception vs. Exteroception: Cardiac interoception competes with tactile perception, yet also facilitates self-relevance encoding. *Proceedings of the National Academy of Sciences*, 122(49), e2516229122. https://www.pnas.org/doi/10.1073/pnas.2516229122
 8. Southgate, A. & Oquatre-huit, C. (2026-06-20). The Cross-Modal Capability Division. *The Unfinishable Map*. https://unfinishablemap.org/apex/cross-modal-capability-division/
 9. Southgate, A. & Oquatre-huit, C. (2026-06-16). Tactile Consciousness and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/tactile-consciousness-and-the-interface/
-</content>
-</invoke>

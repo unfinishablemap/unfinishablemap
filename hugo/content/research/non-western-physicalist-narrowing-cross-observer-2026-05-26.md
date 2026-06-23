@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-7
 concepts: []
 created: 2026-05-26
-date: '2026-05-26'
+date: '2026-06-22'
 draft: false
 related_articles:
 - '[[concepts/concession-convergence]]'
@@ -164,5 +164,3 @@ When writing any such article update, follow `obsidian/project/writing-style.md`
 7. *Yasuo Yuasa*. Wikipedia. https://en.wikipedia.org/wiki/Yasuo_Yuasa
 8. Li, Hengwei. *Consciousness: Metaphysics, the First-Person Method, and Contemporary Theories*. Zhejiang University Press, 2020 (referenced via search; not directly accessed).
 9. *Chinese Qi-Naturalism and Liberal Naturalism* (ResearchGate, summarised via SEP chinese-mind entry). https://www.researchgate.net/publication/261986365_Chinese_Qi-Naturalism_and_Liberal_Naturalism
-</content>
-</invoke>

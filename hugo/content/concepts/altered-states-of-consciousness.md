@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-22 17:29:37+00:00
+ai_modified: 2026-06-23 00:52:50+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -81,7 +81,7 @@ A sophisticated production theorist would note that propofol and ketamine act on
 
 ### Psychedelics
 
-The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics relax high-level predictive constraints—the brain's expectations become less rigid, allowing bottom-up sensory information greater influence (Carhart-Harris & Friston, 2019).
+The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics relax high-level predictive constraints—the brain's expectations become less rigid, allowing bottom-up sensory information greater influence (Carhart-Harris & Friston, 2019). Chris Letheby's predictive-self-binding account builds a full naturalist metaphysics on this substrate—self-fictionalism, the claim that the felt self is a referent-less Bayesian prior—and is the strongest physicalist rival the Map's filter reading must clear. [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) presents it at full strength and replies on three fronts.
 
 Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [default mode network](/concepts/neural-correlates-of-consciousness/#the-default-mode-network)) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally. The [entropic brain hypothesis](/concepts/entropic-brain-hypothesis/) quantifies this reorganisation as a rise in neural entropy toward a critical point—a dynamical measure that tracks the richness of the state without explaining why it is felt, which the Map reads as a widening of the filter's bandwidth rather than as production.
 
@@ -174,6 +174,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across states and species?
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How anaesthetic agents reconfigure the consciousness interface
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Dedicated treatment of psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
+- [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) — Letheby's self-fictionalism in full and the Map's three-pronged reply
 - [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) — Neural entropy and brain criticality as a quantitative signature of conscious richness, read as filter bandwidth
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practices as evidence for irreducible consciousness
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How psychiatric conditions reveal the hidden architecture of consciousness

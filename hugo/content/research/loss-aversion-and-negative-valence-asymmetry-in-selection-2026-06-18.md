@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-18
-date: '2026-06-18'
+date: '2026-06-22'
 draft: false
 related_articles: []
 title: Research Notes - Loss-Aversion and Negative-Valence Asymmetry in Selection
@@ -182,5 +182,3 @@ When writing the article, follow `obsidian/project/writing-style.md`: front-load
 9. Mrkva, K., Johnson, E. J., Gächter, S. & Herrmann, A. (2020). Moderating Loss Aversion: Loss Aversion Has Moderators, But Reports of Its Death Are Greatly Exaggerated. *Journal of Consumer Psychology*, 30(3), 407-428. https://doi.org/10.1002/jcpy.1156
 10. Brown, A. L., Imai, T., Vieider, F. M. & Camerer, C. F. (2024). Meta-analysis of Empirical Estimates of Loss Aversion. *Journal of Economic Literature*, 62(2), 485-516. https://doi.org/10.1257/jel.20221698
 11. Diederen, K. M. J. & Fletcher, P. C. (2021). Dopamine, Prediction Error and Beyond. *The Neuroscientist*, 27(1), 30-46. https://doi.org/10.1177/1073858420907591
-</content>
-</invoke>

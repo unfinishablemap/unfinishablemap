@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-06-20 17:32:54+00:00
+ai_modified: 2026-06-22 23:20:11+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: Memory is not storage but structured re-experiencing—and the hier
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 03:41:40+00:00
+last_deep_review: 2026-06-22 23:20:11+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'

@@ -69,5 +69,3 @@ None. The 2026-06-05 queued follow-up (parent concept page Fleming page range) i
 - **Bedrock disagreements (do NOT re-flag as critical):** eliminative materialists and hard-nosed physicalists reject the dualist framing; framework-boundary standoff, not a defect. The article does not overclaim against the five-tier scale.
 - **Citation note:** Full publisher-of-record audit done 2026-06-05; References block unchanged since. Fleming page range (241–268) is now corpus-consistent across all five pages. "Leonetti" (unaccented) is the canonical publisher spelling.
 - **Convergence:** Third review, zero content changes (only a cosmetic cross-link bump triggered re-qualification). The article is well-calibrated and stable. This "no critical issues" outcome is the expected result, and a cosmetic-link bump should not have re-triggered a fresh pass — future selection should let convergence damping exclude this article unless body/References content changes.
-</content>
-</invoke>

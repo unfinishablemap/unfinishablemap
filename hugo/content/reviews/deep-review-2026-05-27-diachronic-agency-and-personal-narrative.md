@@ -101,5 +101,3 @@ This is the fourth deep review. The article remains stable (declared stable 2026
 - Named-opponent engagements are at appropriate reasoning modes in natural prose; no label leakage
 - Word count: 2610 words (87% of 3000 soft threshold) — well-balanced, no length concerns
 - **Article is stable.** Future reviews should only check for staleness if new related content is published or if the article is substantively modified. Routine re-review is not productive.
-</content>
-</invoke>

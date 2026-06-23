@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-06-18 01:48:09+00:00
+ai_modified: 2026-06-22 22:49:54+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Multiple independent empirical lines—evolutionary, cognitive, neu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 19:15:48+00:00
+last_deep_review: 2026-06-22 22:49:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

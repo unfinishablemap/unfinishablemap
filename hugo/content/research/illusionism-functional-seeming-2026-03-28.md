@@ -46,7 +46,7 @@ This research focuses on Keith Frankish's specific response to the regress objec
 - **Tenet alignment**: Directly conflicts with Tenet 1 (Dualism) and rules-out clause ("eliminative materialism" and "any view that treats consciousness as illusory")
 - **Quote**: "To be under the illusion of being aware of mental qualities is to undergo all the psychological effects that awareness of mental qualities would cause"
 
-### "What is Illusionism?" (Frankish, 2021)
+### "What is Illusionism?" (Frankish, 2023)
 - **URL**: https://keithfrankish.github.io/articles/Frankish_What%20is%20illusionism_eprint.pdf
 - **Type**: Paper (Revue de Philosophie Klesis)
 - **Key points**:
@@ -179,7 +179,7 @@ This research focuses on Keith Frankish's specific response to the regress objec
 | 2017 | Kammerer, "Can you believe it? Illusionism and the illusion meta-problem" | Poses the meta-problem: why does illusionism seem so absurd? |
 | 2018 | Chalmers, "The Meta-Problem of Consciousness" | Explores why we have the intuitions we do about consciousness |
 | 2018 | Strawson, "The Consciousness Deniers" (NYRB) | High-profile attack calling illusionism "the silliest claim ever made" |
-| 2021 | Frankish, "What is Illusionism?" | Clarifies classic/zero/diet qualia distinction; defends functional seeming against circularity |
+| 2023 | Frankish, "What is Illusionism?" | Clarifies classic/zero/diet qualia distinction; defends functional seeming against circularity |
 | 2022 | Shabasson, "Explaining the Illusion" (RPP) | Details a "false inference" version of the distortion thesis and introspective misrepresentation mechanism |
 | 2022 | Kammerer, "How Can You Be So Sure?" | Addresses obviousness of phenomenal consciousness using introspective opacity |
 | 2022 | Chalmers revises Moorean argument | Argues his own earlier Moorean anti-illusionism was flawed |
@@ -213,7 +213,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Chalmers, D.J. (2018/2022). "Debunking Arguments for Illusionism about Consciousness." https://consc.net/papers/debunking.pdf
 - Dennett, D.C. (1988). "Quining Qualia." In Marcel & Bisiach (eds.), *Consciousness in Contemporary Science*.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39. https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf
-- Frankish, K. (2021). "What is Illusionism?" *Klesis*, 55. https://keithfrankish.github.io/articles/Frankish_What%20is%20illusionism_eprint.pdf
+- Frankish, K. (2023). "What is Illusionism?" *Klesis*, 55. https://keithfrankish.github.io/articles/Frankish_What%20is%20illusionism_eprint.pdf
 - Graziano, M.S.A. (2015). "The Attention Schema Theory: A Mechanistic Account of Subjective Awareness." *Frontiers in Psychology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC4407481/
 - Kammerer, F. (2017). "Can you believe it? Illusionism and the illusion meta-problem." *Philosophical Psychology*, 31(1).
 - Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*. https://link.springer.com/article/10.1007/s11098-022-01804-7

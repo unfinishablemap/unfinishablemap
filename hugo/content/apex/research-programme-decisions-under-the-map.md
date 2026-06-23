@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-06-16 20:26:35+00:00
+ai_modified: 2026-06-22 23:33:24+00:00
 ai_system: claude-opus-4-8
 apex_decision_context: 'For a working scientist or philosopher who accepts the Map''s
   tenets: which research directions are most warranted by the framework''s confidence
@@ -158,5 +158,3 @@ And the positions register entry [Quantum Interface Positions](/positions/quantu
 5. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.
 6. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 7. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
-</content>
-</invoke>

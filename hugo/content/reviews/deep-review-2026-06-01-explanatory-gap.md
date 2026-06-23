@@ -91,5 +91,3 @@ This article has now been through seven deep reviews and remains converged. The 
 - "Phenomenal-concept strategy under-engaged in body" — full refutation correctly deferred to the dedicated topic article.
 
 **New carry-forward**: the Strawson reference is now correct (NYRB 2018 "The Consciousness Deniers"). Do not re-introduce the "Silliest Claim / Routledge Handbook" form — it was a fabrication.
-</content>
-</invoke>

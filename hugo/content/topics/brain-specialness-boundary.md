@@ -20,7 +20,7 @@ description: If consciousness biases quantum outcomes in the brain, why can't it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-11 07:02:20+00:00
+last_deep_review: 2026-06-22 22:29:40+00:00
 modified: *id001
 related_articles:
 - '[[amplification-mechanisms-consciousness-physics]]'

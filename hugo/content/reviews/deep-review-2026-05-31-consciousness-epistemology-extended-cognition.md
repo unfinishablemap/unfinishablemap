@@ -69,5 +69,3 @@ None.
 - 6th review; content stable since the 2nd. This pass added live citation verification — the five prior reviews were intra-corpus and could not catch fabrication. Result: all citations genuine and accurately characterized, so the corpus's reliance on this article's attributions is sound.
 - Bedrock disagreements (physicalist/reliabilist rejection from outside the Map's tenets) remain expected and are NOT defects.
 - Future reviews should treat this article as converged: no new inbound links, no orphan re-flag, no manufactured edits. A no-critical-issues verdict here is the correct outcome.
-</content>
-</invoke>

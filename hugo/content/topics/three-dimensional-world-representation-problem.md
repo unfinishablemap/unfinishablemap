@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-06-22 00:00:00+00:00
+ai_modified: 2026-06-23 00:07:47+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/3xGk-mlkqoY
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 00:00:00+00:00
+last_deep_review: 2026-06-23 00:07:47+00:00
 modified: *id001
 related_articles:
 - '[[binding-problem]]'
