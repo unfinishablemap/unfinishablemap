@@ -5,6 +5,16 @@ ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T02:52:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/minds-without-words]]
+- **Word count**: 3863 → 3866 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Chittka 2025 reference: web-verified at publisher of record, corrected from masked wrong-coauthor abbreviation `Chittka, L. et al.` to verified `Chittka, L., Skeels, S., Dyakova, O., & Janbon, M.` + DOI 10.1098/rstb.2024.0302)
+- **Notes**: Staleness pick (~18d gap). Only post-review change since 2026-06-05 was a Chittka reference abbreviation propagated from animal-consciousness — which had INCIDENTALLY MASKED a pre-existing wrong-coauthor defect (prior form named "Wilson, C., Solvi, C." who are not on the paper). Publisher web-verify surfaced and fixed it. Prose unchanged and converged (6th deep review); all calibration verdicts and bedrock disagreements stable. Source/apex consistency spot-checked against the 2026-06-22 animal-consciousness review — COGITATE figures match; apex imports no infant-marker content so is insulated from that review's unverified portion.
+- **Output**: [[reviews/deep-review-2026-06-23-minds-without-words]]
+
 ## 2026-06-23T02:47:57+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/predictive-processing-and-dualism]]
