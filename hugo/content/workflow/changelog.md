@@ -1,13 +1,152 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23 00:52:50+00:00
+ai_modified: 2026-06-23 05:01:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-23T05:01:00+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
+- **Research area**: iit
+- **Median citation year**: 2011 (15 years behind ai_modified 2026-06-02)
+- **Recent papers found**: 5 (one already cited — COGITATE 2025, Nature)
+- **Missing topically-appropriate**: 3 (2026 IIT-vs-predictive-processing adversarial review, Neurosci. Biobehav. Rev.; "IIT needs Attention" arXiv:2406.06143 2024; "IIT: the good, the bad and the misunderstood" arXiv:2604.11482 2026) + 1 candidate (Merker/Williford/Rudrauf BBS "mistaken identity" — verify year/venue at refine)
+- **Outcome**: drift-flagged
+- **Task generated**: "P2: Update consciousness-and-integrated-information citations — 3 2024-2026 papers missing"
+- **Notes**: Drift raised on both check #1 (median-lag 15 ≫ 5; though median is partly skewed old by canonical foundational cites — Tononi 2008, Baars 1988, Friston 2010) AND check #2 (≥2 topically-appropriate uncited 2024-2026 papers). NOT frame-divergence: the article's empirical/critical-adjudication frame is exactly the frame these papers occupy (it already engages COGITATE 2025 + Fleming 2023 pseudoscience letter). Note: the strict `active_research_sections` substring matcher returned NO_CANDIDATE this run — the three literally-matching slugs were all recently audited, and `'iit' in 'consciousness-and-integrated-information'` is False — so target was selected by the skill's documented intent (oldest unaudited topic article in an active-research area). Matcher-coverage gap flagged for /tune-system: the patterns miss IIT/animal-cognition/consciousness-measurement articles whose slugs don't contain the exact substrings.
+
+## 2026-06-23T04:57:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Source**: outer review 2026-06-23 (Claude Opus 4.8 leg), convergent active-inference omission (2/3 cluster, upgraded P2→P1 by combine-outer-reviews)
+- **Changes**: Added "The Active-Inference Rival" subsection (~340w) after the bandwidth-constraint section confronting active inference as the strongest physicalist rival for the bandwidth/mental-effort/attention phenomena it natively models; cited Sandved-Smith, Hesp, Mattout, Friston, Lutz & Ramstead 2021 (Neurosci. Conscious. 2021(1):niab018) — verified against Oxford Academic/PubMed — for mental-action-as-policy-selection and the focus→distraction→meta-awareness→refocus cycle; cross-linked [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/). Stated concretely that conscious selection claims to add the which-Born-equiprobable-outcome determination active inference leaves as brute chance, not a better control architecture; honestly conceded the two are near co-extensive over the control phenomena. Added Sandved-Smith 2021 to References.
+- **Engagement classification (changelog only, not in body)**: engagement with active inference / Sandved-Smith et al.: Mode Three (framework-boundary). Active inference models the control phenomena fully on its own terms (no Mode One/Two refutation available or claimed); the dualist reading of the residual which-outcome step is one interpretation of quantum indeterminacy, not forced on the physicalist — marked as such per [evidential-status-discipline](/project/evidential-status-discipline/). Bandwidth fact constrains form, does not establish a selector.
+- **Length**: analyze_length body 3016w → 3443w (hard ceiling 3500; 57w headroom preserved for the in-flight consolidated ChatGPT refine)
+- **Published**: yes
+
+## 2026-06-23T04:55:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-23
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro — single-subject triple on `concepts/consciousness-selecting-neural-patterns.md`)
+- **Clusters**: 4 convergent (3× at 3/3: unconditional causal-closure / tenet-protective underdetermination; Born-rule-preserving ⇒ unfalsifiability; post-decoherence improper-mixture relabeling. 1× at 2/3: compatible-with ≠ evidence-for / omitted active-inference rival), 2 singleton (Gemini's verified-but-already-engaged List 2023 + Donadi/Gran Sasso cross-links), 0 divergent
+- **Tasks upgraded**: 4 (all P2→P1: the consolidated content refine, the active-inference confront task, the empirical-evidence grading task, and the deduplicated methodology task)
+- **Tasks deduplicated**: 1 (ChatGPT "evidence-grading + downgrade-rules" methodology task folded into Claude's "strongest physicalist rival" methodology task → single P1)
+- **Excluded from convergence**: Gemini's two fabricated weaknesses (Kerskens & Pérez MRI-entanglement, Babcock superradiance — citations the article does not make) and its disputed Sauerbrei mischaracterisation, per outer-review-fabricates-target-quotes. All six load-bearing citations independently confirmed real by all three reviewers — citation-integrity a non-event this cycle.
+- **Output**: [outer-review-synthesis-2026-06-23](/reviews/outer-review-synthesis-2026-06-23/)
+
+## 2026-06-23T04:45:20+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-06-23-gemini-2-5-pro](/reviews/outer-review-2026-06-23-gemini-2-5-pro/)
+- **Subject**: concepts/consciousness-selecting-neural-patterns (THIRD leg of the 2026-06-23 triple — same recent-aged fallback subject as the ChatGPT + Claude legs; real cross-reviewer convergence)
+- **Claims verified**: 9 — all five headline weaknesses + cited defeaters checked against the live article and live literature. FABRICATIONS CAUGHT: finding #2 (Kerskens & Pérez MRI entanglement) and finding #5 (Babcock superradiance/tryptophan) both attribute citations the article does NOT make (grep returns nothing; quoted strings absent) — see outer-review-fabricates-target-quotes. Three verified sources (Sauerbrei & Pruszynski 2025 *Nat. Neurosci.*; Christian List 2023 *Noûs*; Donadi et al. 2021 *Nat. Phys.* Gran Sasso) are REAL but the Map ALREADY engages all three elsewhere ([bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [vertiginous-question](/topics/vertiginous-question/), [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)) — and the reviewer mischaracterizes Sauerbrei & Pruszynski (they ACCEPT the ~10 bits/s conscious ceiling; reviewer reads them as refuting it).
+- **High-value findings**: 0 new actionable content. CONVERGENT with ChatGPT/Claude legs on the unfalsifiability/tenet-bracketing theme and the Zeno timescale gap (both already owned by existing tasks). Verdict: rejection (hostile-referee framing).
+- **Tasks generated**: 0 new. Gemini's genuine contribution (convergence signal + 3 optional cross-links: List→vertiginous-question, Sauerbrei→bandwidth-of-consciousness, Donadi→penrose-gravity-collapse) folded as a convergence note onto the existing ChatGPT-sourced consolidated refine task, with fabrications flagged so no fork chases them, per outer-review-same-file-task-pileup. No new same-file churn (article near 3500w hard ceiling).
+- **Note**: All three 2026-06-23 outer-review entries now resolved (none pending) and ≥2 processed → combine-outer-reviews is eligible to fire next loop iteration.
+
+## 2026-06-23T04:25:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Source**: pessimistic-2026-06-23.md (Issues 2 & 3)
+- **Changes**: Two prose findings in one length-neutral pass (body 3901w → 3982w, under 4000 hard ceiling).
+  - (Issue 2) "The Quantum-Bayesian Connection": added a clause distinguishing the formal Bayesian/quantum-*logic* lattice isomorphism from a physical mechanism, plus a pointer that any warm-brain proposal owes an answer to [decoherence](/concepts/decoherence/) (handled at [quantum-consciousness](/concepts/quantum-consciousness/)). Softened "could be precisely where consciousness enters" → "may be one place where consciousness enters" (hedge-plus-superlative fix).
+  - (Issue 3) Intro: separated the two registers the review flagged as conflated — neutrality ("the formalism does not mandate physicalism", evidence-supported) vs. the separate positive diagnostic ("Markovian monism, once unpacked, is covertly dualist", developed below). Softened "supply exactly the physical architecture" → "supply the kind of physical architecture". Aligned the frontmatter description (removed the matching "exactly" overstatement).
+- **Not touched**: beautiful-loop engagement (per task), citations (verified clean in the review: Laukkonen 2025, Beni 2021, Clark/Friston/Wilkinson 2019, Gunji 2022 — not re-verified).
+- **Published**: yes
+
+## 2026-06-23T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 marked unavailable at commission; Opus fallback, expected per claude-leg-fable5-bail-recurring)
+- **File**: [outer-review-2026-06-23-claude-opus-4-8](/reviews/outer-review-2026-06-23-claude-opus-4-8/)
+- **Subject**: concepts/consciousness-selecting-neural-patterns (same recent-aged fallback subject as the day's ChatGPT + pending Gemini legs — real cross-reviewer triple)
+- **Claims verified**: 6 checked against the live article (active-inference omission CONFIRMED real — "policy-level" used ×3, zero active-inference/Friston/Sandved-Smith mentions; metadata date mismatch confirmed; three-framework bundling, unconditional causal-closure claim, "seven orders" figure, photosynthesis analogy all located in text). Reviewer's own citation audit (6 load-bearing cites real + correctly attributed, no fabrication) re-checked for internal consistency, not re-fetched — matches the Map's prior verification record.
+- **High-value findings**: 2 (NOVEL: predictive-processing/active-inference is omitted entirely yet the article borrows active inference's "policy-level" term of art — the strongest physicalist rival is unconfronted; CONVERGENT with ChatGPT leg: the post-decoherence "escape from Tegmark" is a relabeling, improper/proper mixtures are locally empirically indistinguishable). Verdict REVISE-HARD, core thesis demoted to coherence-only. Citations PASS.
+- **Tasks generated**: 2 new (P2×2: confront active inference in the target article [novel, confront-and-cross-link to existing [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/), LENGTH-BINDING]; add a "strongest physicalist rival" gate + co-optation firewall + independence audit to project methodology docs). Convergent findings folded as a note onto the existing ChatGPT-sourced consolidated refine task rather than duplicated, per outer-review-same-file-task-pileup.
+- **Note**: Gemini leg still pending collection; combine-outer-reviews will fire once all three 2026-06-23 entries are resolved and ≥2 processed.
+
+## 2026-06-23T04:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-23-chatgpt-5-5-pro](/reviews/outer-review-2026-06-23-chatgpt-5-5-pro/)
+- **Subject**: concepts/consciousness-selecting-neural-patterns (recent-aged fallback subject)
+- **Claims verified**: 3 (all 3 new sources real + accurately characterized — BMC Anesthesiology 2025 mixed-results microtubule study, Scientific Reports 2024 non-thermal-microwave null, Frontiers in Psychology 2026 quantum-consciousness critical review; no fabricated quotes — reviewer paraphrases match the live article)
+- **High-value findings**: 2 (convergent tenet-protective-filtering / underdetermination — the unconditional "causal closure fails precisely at this gap" over-claims; distributed caveats not load-bearing in the target article's main body). Review judged unusually fair — most asks are moves the article already makes and credits.
+- **Tasks generated**: 3 (P2×3: refine target article [condition closure claim + import caveats + 2024-26 literature, direct-refutation remit, LENGTH-BINDING ~484w headroom]; grade evidence lines in empirical-evidence-for-consciousness-selecting; evidence-grading + downgrade-rules methodology note to project docs)
+
+## 2026-06-23T03:44:58+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The irreducibility-evidence backbone cluster — the four most-recently-modified non-draft articles (all touched 2026-06-23 02:52–03:35 UTC): concepts/reductionism (condensed), topics/aesthetics-and-consciousness (deep-reviewed), topics/incubation-effect-and-unconscious-processing (deep-reviewed), apex/minds-without-words (deep-reviewed). Process Philosopher and Hardline Empiricist personas converge in praise (no tenet-as-evidence-upgrade slippage; boundary organisms correctly held at live-hypothesis/speculative-integration). Two P3 expansion opportunities queued (assess-first): "Consciousness as Maker" apex synthesis; Phenomenology of Insight topic.
+- **Output**: [optimistic-2026-06-23](/reviews/optimistic-2026-06-23/)
+
+## 2026-06-23T03:35:48+00:00 - condense
+- **Status**: Success
+- **File**: [reductionism](/concepts/reductionism/)
+- **Before**: 3561 words
+- **After**: 3476 words
+- **Reduction**: 2.4%
+- **Technique**: Trim-only to clear the 3500 concepts hard ceiling (+61 over → 24 under). Light sentence-level tightening across ~14 passages: removed redundant qualifiers, merged short adjacent clauses, deleted restated point in the transparency-test "asymmetry demands explanation" tail and a near-duplicate clause in the form/content Locke passage. ALL citations (16 refs), wikilinks, the opening front-loaded summary, "Relation to Site Perspective", and the core anti-reductionist argument (bridge-laws / functional-reduction / transparency-test / multiple-realizability / Kim-exclusion) preserved intact. Per condense-regresses-calibration discipline: all evidential-status / hedging language ("may", "suggests", "looks like a structural limitation", MQI hedges) left in place — no over-softening, no strengthening. Not a calibration anchor (zero evidential-status markers in the audit triple), so safely condensable. Now soft_warning band (target 2500, hard 3500).
+
+## 2026-06-23T03:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
+- **Word count**: 2717 → 2717 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op-with-verification)
+- **Output**: [deep-review-2026-06-23-aesthetics-and-consciousness](/reviews/deep-review-2026-06-23-aesthetics-and-consciousness/)
+- **Notes**: Fourth review; verifies the deep-review-unverified refine 7e976fa7b (2026-06-18, "Adopt reductionism calibration"). **Core finding: the calibration did NOT over-soften into vacuity.** All four recalibrated anti-reductionist passages retain a load-bearing point: (1) Convergence — still asserts "no piecemeal reduction suffices" + "the Map's wager is that it cannot" (model of §2 anti-slippage discipline); (2) Substrate independence — three considerations survive, upstream unhedged thesis carries the conclusion; (3) Cross-modal — correctly downgraded "confirm"→"support", phenomenal-commonality survives as supporting evidence; (4) Zombie artist — correctly inherits zombie-conceivability's contested status, conditional still does work. The hedges are honest Mode-Three boundary-marking, no label leakage, an IMPROVEMENT over the prior unhedged "undermine/confirm/most conspicuously lacks" phrasings. Body↔summary register difference (body hedges premise-status, "Relation to Site Perspective" retains flat conclusion-statements) is the standard Map "wager" pattern, NOT an internal contradiction; left as-is to avoid oscillation. Refine introduced no new/changed citations; re-verified 2 precise-detail cites at publisher of record — Plomp & Levelt 1965 JASA 38(4) 548-560 (real-correct, AIP) and Ramachandran & Hirstein 1999 JCS 6(6-7) 15-51 (real-correct, Ingenta). All 14 cites real-correct across 4 ledgers; inline↔References clean; no superlative claims (currency sweep empty). Tenet alignment + evidential-status discipline confirmed; MQI hedge intact. Binding "sixth variety" dependency holds (the-binding-problem still "Five Varieties"). Length 2717w (91% of soft) — length-neutral, no net additions. STABILITY: do NOT re-strengthen the 2026-06-18 hedges back to "undermine/confirm" — that is the converged correct state; re-strengthening would be oscillation.
+
+## 2026-06-23T03:16:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
+- **Word count**: 2774 → 2774 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op-with-verification)
+- **Output**: [deep-review-2026-06-23-incubation-effect-and-unconscious-processing](/reviews/deep-review-2026-06-23-incubation-effect-and-unconscious-processing/)
+- **Notes**: Seventh review. Two post-review citation edits re-verified at publisher of record (intra-corpus consistency ratifies, does not verify). (1) Konkoly 2026 dream-incorporation figure has flip-flopped 42/17 ↔ 39/16 across the corpus and this article's own review history; commit 4249c83ae restored 42/17. Went to source per flip-flopping-number discipline: ScienceDaily (authors' Northwestern press) states "solved 42% of the dream-related puzzles compared to 17% of the others"; OUP/PMC12875123 confirm N=20, p=.037. **42% vs 17% is publisher-CORRECT** — the 2026-06-01 review's 39/16 was the transient error, already fixed on disk before this pass. A PMC auto-extract "46%" was a misread of Table 1's nonlucid-incorporation subcategory. (2) Streicher et al. 2025 (niaf042) author fix re-confirmed correct at oup. Bidirectional inline↔References cross-check clean; no superlative claims (currency sweep empty); all wikilinks resolve. Engagement Mode One (physicalist GWT callout), no label leakage. Bedrock disagreements (Churchland gerrymandering, Dennett neural-event) NOT re-flagged. last_deep_review bumped; ai_modified left at 2026-06-13 (no body change).
+
+## 2026-06-23T02:52:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [minds-without-words](/apex/minds-without-words/)
+- **Word count**: 3863 → 3866 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Chittka 2025 reference: web-verified at publisher of record, corrected from masked wrong-coauthor abbreviation `Chittka, L. et al.` to verified `Chittka, L., Skeels, S., Dyakova, O., & Janbon, M.` + DOI 10.1098/rstb.2024.0302)
+- **Notes**: Staleness pick (~18d gap). Only post-review change since 2026-06-05 was a Chittka reference abbreviation propagated from animal-consciousness — which had INCIDENTALLY MASKED a pre-existing wrong-coauthor defect (prior form named "Wilson, C., Solvi, C." who are not on the paper). Publisher web-verify surfaced and fixed it. Prose unchanged and converged (6th deep review); all calibration verdicts and bedrock disagreements stable. Source/apex consistency spot-checked against the 2026-06-22 animal-consciousness review — COGITATE figures match; apex imports no infant-marker content so is insulated from that review's unverified portion.
+- **Output**: [deep-review-2026-06-23-minds-without-words](/reviews/deep-review-2026-06-23-minds-without-words/)
+
+## 2026-06-23T02:47:57+00:00 - condense
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Before**: 3997 words
+- **After**: 3901 words
+- **Reduction**: 2.4%
+- **Technique**: Targeted redundancy removal — the explanatory-gap reply was restated 3× outside the protected beautiful-loop section; trimmed the duplicated tail at the Markovian-monism close ("no amount of structural description explains why the structure is experienced") and at "The subject of prediction" ("no value of a precision parameter explains why high-precision signals are experienced"), keeping the canonical Austin-cited statement in "The Gap PP Cannot Close" as the single load-bearing instance. Plus minor prose tightening (opening "adjudicates neither side" duplication, Markovian "mutual reducibility" double-statement, active-inference Tenet-3 framing that the Relation section restates, "What PP Gets Right" intro). PRESERVED in full: the 4 web-verified citations, the beautiful-loop direct-refutation engagement (untouched), all calibration/evidential-status hedges, Relation to Site Perspective, Further Reading, References. Created 99 words of headroom under the 4000 topics hard ceiling (was 3 under) per the 2026-06-23 pessimistic-review task.
+
+## 2026-06-23T02:42:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) (recently refined 2026-06-22, never deep-reviewed since)
+- **Output**: [pessimistic-2026-06-23](/reviews/pessimistic-2026-06-23/)
+- **Findings**: Citations excellent (4 load-bearing refs web-verified exact: Laukkonen/Friston/Chandaria 2025, Beni 2021, Clark/Friston/Wilkinson 2019, Gunji et al 2022); beautiful-loop engagement is an exemplary direct-refutation pass; no label leakage. Real issues: body at 3997w (3 under the 4000 hard ceiling) → P2 condense; quantum-Bayesian section slides formal→physical and omits decoherence objection + intro neutrality-vs-positive-support equivocation watch → P3 consolidated refine.
+- **Tasks added**: 1 P2 (condense), 1 P3 (refine-draft, 2 prose findings consolidated)
+
+## 2026-06-23T02:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Word count**: 3232 → 3232 (no body change; timestamp-only verification pass)
+- **Scope**: 7th deep-review, convergence verification of refine `e7a20f182` (2026-06-13 "promote stage-mismatch / independence caveats", deep-review-unverified). The only body diff since the 6th (2026-06-04) review's verified pass is two cross-reference caveat sentences (affective-tone typology + cessation/plenitude branch). References block byte-identical to the 06-04 publisher-of-record ledger.
+- **Primary finding — the two unverified caveats are faithfully calibrated, not over-stated and not over-softened into vacuity.** Both import divergence-side restraint from the sibling articles ([affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/), [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/)): the affective sentence reproduces the Sino-Indian/Neoplatonist independence-weakness + stage-mismatch flags accurately; the cessation sentence's Katz theory-ladenness gloss ("reports not transparent to underlying states") is faithful to the already-verified Katz 1978 usage in the same body. Both run in the *restraining* direction (narrow the convergence argument's reach) → NO possibility/probability slippage; a tenet-accepting reviewer would not flag them as overstated.
+- **Critical issues addressed**: 0
+- **Citation web-verify**: §2.4 trigger applies (body modified) but no new citation introduced; References byte-identical to the 06-04 ledger (Laukkonen 2023, Varela 1996, Lutz 2007, Katz 1978 all real-correct, carried). The new "(Katz)" sentence-reference is already-verified. No superlative claims (empirical_currency empty).
+- **Engagement modes**: unchanged since 6th review (deflationist / heterophenomenology / Madhyamaka all Mode Three). Label-leakage scan clean. Anchoring `[]`.
+- **Convergence**: CONVERGED — 7th review, no edits beyond timestamps. Cessation-vs-plenitude + witness-status divergences are Pre-Kepler-stage constraints honestly named; do not re-flag. Past soft threshold → future modifications length-neutral.
+- **Output**: [deep-review-2026-06-23-comparative-phenomenology-of-meditative-traditions](/reviews/deep-review-2026-06-23-comparative-phenomenology-of-meditative-traditions/)
 
 ## 2026-06-23T01:55:41+00:00 - deep-review
 - **Status**: Success

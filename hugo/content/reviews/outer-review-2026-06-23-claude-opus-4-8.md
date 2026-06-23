@@ -1,0 +1,142 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-06-23
+ai_modified: 2026-06-23 04:19:45+00:00
+ai_system: claude-opus-4-8
+author: Andy Southgate
+concepts:
+- '[[consciousness-selecting-neural-patterns]]'
+- '[[post-decoherence-selection]]'
+- '[[predictive-processing]]'
+created: 2026-06-23
+date: &id001 2026-06-23
+description: 'Claude Opus 4.8 hostile-referee audit of consciousness-selecting-neural-patterns:
+  all six citations hold, but the central inferences relocate rather than resolve,
+  and active inference is omitted.'
+draft: false
+human_modified: null
+last_curated: 2026-06-23
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/615a555b-7666-4508-96fb-819b766c0441
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- concepts/consciousness-selecting-neural-patterns.md
+subject_source: reuse:pending-reviews:outer-review-2026-06-23-chatgpt-5-5-pro.md
+subject_title: Audit consciousness-selecting-neural-patterns
+subject_type: recent
+title: Outer Review - Claude Opus 4.8 (2026-06-23)
+topics:
+- '[[predictive-processing-and-dualism]]'
+- '[[empirical-evidence-for-consciousness-selecting]]'
+---
+
+**Date**: 2026-06-23
+**Reviewer**: Claude Opus 4.8
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Act as a hostile but fair external referee. Audit this single article from The Unfinishable Map (a dualist philosophy-of-mind site): https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/ — its thesis is that consciousness selects which quantum possibilities become actual neural patterns, principally at the post-decoherence "improper mixture" gap. Scrutinize the load-bearing inferences: does the ~10 bits/second bandwidth result (Zheng & Meister 2025) actually transfer to a quantum-selection resolution limit? Is the post-decoherence-selection move a genuine escape from Tegmark'''s decoherence objection or a relabeling? Are the empirical citations (Craddock 2017, Hagan 2002, Wiest 2025, Khan 2024, Schwartz 1996) accurately characterized and current? Is the illusionist rebuttal fair to Frankish/Dennett? Check internal consistency, hidden assumptions, falsifiability claims, and citation accuracy against the live literature. For site context and recent edits see https://unfinishablemap.org and the changelog at https://unfinishablemap.org/workflow/changelog/ (external indexes lag by 24-48h). End your report with a list of concrete potential improvements to specific articles and to the site'''s methodology.
+
+## Reply
+
+# Adversarial Peer-Review Audit: "Consciousness-Selecting Neural Patterns" (The Unfinishable Map)
+
+## TL;DR / Orientation
+
+Bottom line: this article survives the one gate that usually sinks quantum-consciousness writing — **its load-bearing citations are real, correctly attributed, and not fabricated** — but it fails on inference. Every move that matters is either an equivocation the article itself names and then walks back across via an unargued bridging premise (the 10 bits/s transfer), a relabeling dressed as an escape (post-decoherence "improper mixture" selection vs. Tegmark), or a tenet-driven selection of conclusion (only consciousness-mediated collapse "is consistent with the Map's five tenets"). The single most damaging finding is not a bad citation; it is a **glaring omission**: the article never once mentions predictive processing / active inference, the physicalist framework that already models attention, mental effort, and policy-level action selection — using the article's own term of art, "policy-level" — without quantum selection or dualism. The piece is unusually honest in places (it concedes the Born-rule indistinguishability problem and that selection "should not [be claimed to] constitute a testable physical hypothesis"), which paradoxically converts it from a falsifiable empirical claim into an avowedly metaphysical one. Live as of audit: created 2026-01-16, last modified 2026-06-16; the site changelog confirms active daily editing through 2026-06-22, with citation web-verification now built into the workflow.
+
+Verified facts established before scoring:
+
+- **Zheng & Meister**: real. *Neuron* 113(2):192–204, published online 17 Dec 2024, print issue 22 Jan 2025; DOI 10.1016/j.neuron.2024.11.008. Primary-source verification confirms the 10 bits/s is a measure of **human behavioral information throughput** ("a behaving agent chooses one among many possible actions given a set of inputs, and the information rate measures how much that range of actions gets constrained by the decisions"), explained by the authors entirely through serial-vs-parallel processing, evolutionary history, and an "outer brain / inner brain" architecture. The paper contains **zero** reference to quantum mechanics, wave-function collapse, dualism, or consciousness selecting outcomes. The authors note the numbers are "rough estimates... reliable to within a factor of 2 either way." [Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0)[Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0)
+- **Craddock et al. 2017**: real. *Scientific Reports* 7:9877. A molecular-dynamics + quantum-chemistry simulation predicting a (613 ± 8) THz collective tubulin oscillation peak damped by anaesthetics in proportion to potency. Authors include Hameroff and Tuszynski (Orch-OR proponents), not co-opted physicalists.
+- **Hagan, Hameroff & Tuszynski 2002**: real. *Phys. Rev. E* 65, 061901. Recalculates microtubule decoherence: "recalculation after correcting Tegmark's equation for differences between his model and the 'Orch OR' model (superposition separation, charge vs. dipole, dielectric constant) lengthens the decoherence time to 10⁻⁵–10⁻⁴ s." Note: the authors themselves state superpositions "at the level of neural firing... play no role in the Orch OR or any other contemporary quantum model." [ResearchGate](https://www.researchgate.net/publication/11198432_Quantum_Computation_in_Brain_Microtubules_Decoherence_and_Biological_Feasibility)
+- **Wiest 2025**: real. *Neuroscience of Consciousness* 2025(1):niaf011. A review/position paper; states "There are no new data associated with this article." The article's characterization ("reviews and develops this prediction without supplying new data") is accurate. [ResearchGate](https://www.researchgate.net/publication/391572056_A_quantum_microtubule_substrate_of_consciousness_is_experimentally_supported_and_solves_the_binding_and_epiphenomenalism_problems)
+- **Khan et al. 2024**: real. *eNeuro* 11(8):ENEURO.0291-24.2024. Senior author Michael Wiest. Epothilone B delayed isoflurane-induced loss of righting reflex in rats. Accurately characterized.
+- **Schwartz et al. 1996**: real. *Arch. Gen. Psychiatry* 53(2):109–113. Authors Schwartz, Stoessel, Baxter, Martin, Phelps. Reported caudate glucose-metabolism decreases after behavior therapy for OCD. Schwartz is himself a quantum-Zeno/"mental force" proponent, so this is not a physicalist co-optation. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8629886/)
+
+## Five-Dimension Analysis
+
+### 1. Empirical Accuracy — VERDICT: MOSTLY ACCURATE ON FACTS, MISLEADING ON WEIGHT
+
+The empirical claims are individually defensible and, unusually, hedged in the right places. The article correctly flags that the microtubule findings are "a candidate-site clue rather than... confirmation," that Wiest's vibrational modes "are not the superpositions selection would require," and that the photosynthesis precedent was "later shown to be vibrational." But the photosynthesis analogy is self-defeating. Engel et al. 2007 (*Nature* 446(7137):782–786) reported "direct evidence for remarkably long-lived electronic quantum coherence... at 77 K" in the *Chlorobium tepidum* FMO complex — i.e., **cryogenic, not physiological, temperature** — and Cao et al. 2020 ("Quantum biology revisited," *Science Advances* 6:eaaz4888), an 18-author review, "demonstrates that interexciton coherences are too short lived to have any functional significance in photosynthetic energy transfer. Instead, the observed long-lived coherences originate from impulsively excited vibrations." The article deploys this precedent to license quantum-biology optimism while conceding the photosynthesis coherence was debunked as vibrational — which is precisely the status it assigns to its own microtubule evidence. So its best analogy argues *against* the evidential value of its microtubule data, and the original 2007 result was never even at body temperature. The Hagan "seven orders of magnitude" claim is loose: Hagan's correction yields ~10⁻⁵–10⁻⁴ s, roughly 8–9 orders above Tegmark's 10⁻¹³ s, so "seven" is in the right neighbourhood but imprecise. Net: facts check out; the rhetorical weighting tilts toward the thesis. [arXiv](https://arxiv.org/abs/quant-ph/9907009)
+
+### 2. Inference Validity — VERDICT: FAILS; THE CENTRAL INFERENCES ARE RELOCATED, NOT VALIDATED
+
+- **(a) The 10 bits/s → quantum-selection resolution limit.** Invalid as stated, and the article knows it: it explicitly concedes "the 10 bits/second figure is a throughput limit on conscious thought and report, not directly a resolution limit on the quantum selection mechanism; these are distinct quantities." It then re-bridges via the premise that "selection is channelled through the same attentional bottleneck that bounds report." That bridging premise is the contested dualist claim itself (that there exists a conscious selector acting through attention) — so the equivocation is relocated into an unargued premise, not dissolved. Worse, the hedge is dropped elsewhere: the "Candidate Constraint Families" section says the coupling laws are "evaluated against the ~10 bits/second bandwidth constraint" as though it were straightforwardly a constraint on selection. This is a **constrain-vs-establish** and **co-optation** problem: a physicalist behavioral result is recruited into a quantum-selection budget the authors would reject. (Primary-source check confirms Zheng & Meister offer only classical explanations — serial processing, evolutionary niche, outer/inner-brain architecture — and never mention quantum mechanics, collapse, or consciousness selecting outcomes.)
+- **(b) Post-decoherence "improper mixture" selection as escape from Tegmark.** This is a **relabeling**, not an escape. Tegmark 2000 (*Phys. Rev. E* 61, 4194) found decoherence timescales of "~10⁻¹³–10⁻²⁰ seconds" against dynamical timescales of "~10⁻³–10⁻¹ s," concluding the brain "should be thought of as a classical rather than quantum system" (10⁻¹³ s for microtubules, 10⁻²⁰ s for neuron firing). The improper/proper-mixture distinction is ontologically real but, by the mixture-equivalence principle, an improper mixture and a proper mixture with the same reduced density matrix are **empirically indistinguishable by any local measurement**. The "gap" the article exploits is the generic measurement problem (the problem of definite outcomes), which is present in *every* measurement everywhere in the universe — it is not a brain-specific physical resource and confers no localization to neural tissue. Tegmark's objection is conceded, not defeated; the interaction is simply moved from "maintaining coherence" to "selecting outcomes," where it now rides on the universal measurement problem rather than on anything Tegmark's timescales bear on. The article half-admits this ("trades the coherence problem for a specificity problem"). Distinction without an empirical difference. [arXiv](https://arxiv.org/html/2412.12288v1)
+- **(c) The Born-rule / statistical-indistinguishability dilemma.** The article confronts this more squarely than most and thereby concedes the game at the physics level: "selection... within Born rule probabilities — meaning no quantum experiment can detect selection," and "The Map should not claim selection within Born probabilities constitutes a testable physical hypothesis." Chalmers & McQueen — the article's own cited source ("Consciousness and the Collapse of the Wave Function," arXiv:2105.02314; OUP 2022) — make the lethal point verbatim: "Under a hypothesis where PCC states collapse the wave function, purely physical quantum zombies would have behaved the same way... One might even simulate the dynamics in a classical computer (with a pseudorandom number generator), with no role for consciousness, and the same patterns of behavior would ensue." Consciousness-as-selector then produces no aggregate deviation and is indistinguishable from chance. The three offered distinguishers (reasons-guidance, phenomenology, coherence-over-time) are all first-personal and question-begging — they presuppose the reasons-responsive selector at issue.
+- **(d) Illusionist rebuttal fairness.** Fair, with a contestable counter. The article represents Frankish's functional-seeming / quasi-phenomenal-properties move and Dennett's user-illusion / centre-of-narrative-gravity accurately, cites the correct *JCS* 2016 papers, and concedes Frankish's reply "is a serious philosophical position." No strawman. Its rebuttal (the self-representation regress) is asserted rather than demonstrated, but it is argued, not caricatured.
+
+### 3. Tenet Coherence — VERDICT: INTERNALLY COHERENT, BUT THE COHERENCE IS THE PROBLEM (CONSTITUTIONAL ATTRACTOR)
+
+The article is transparent that the mechanism was selected for tenet-fit: "Five selection mechanism families have been proposed to fill this gap, but only consciousness-mediated selection is consistent with the Map's five tenets." That is the constitutional-attractor effect stated almost verbatim — the post-decoherence gap is genuine, but its routing to consciousness is driven by the tenets (dualism, bidirectional interaction, minimal quantum interaction, no-Many-Worlds), not by independent discovery. The "three forward-in-time frameworks" (Penrose-Hameroff, Stapp, Chalmers-McQueen) are bundled as convergent support for bidirectional interaction despite being **mutually inconsistent** on consciousness's causal role (consciousness *results from* collapse vs. *causes* collapse vs. *triggers* collapse via integrated information). Counting three incompatible theories as converging is **coherence inflation**. The "Occam's Razor Has Limits" tenet is deployed asymmetrically (**bounded-Occam asymmetry**): parsimony-skepticism shields the complex dualist mechanism while never being turned on the simpler physicalist rival.
+
+### 4. Citation Integrity — VERDICT: PASS (THE BLOCKING GATE IS CLEARED)
+
+This is the audit's most consequential and least expected result. All six load-bearing citations are real, correctly attributed to the correct authors, venues, years, volumes, and page numbers. No fabricated quotations were detected. The References list entry for Zheng & Meister even gives the correct print pagination (113(2):192–204). The microtubule citations are accurately characterized (computational prediction; review without new data; pharmacological result), and the article does not claim they demonstrate the superpositions it needs. The one residual integrity concern is **soft co-optation, not fabrication**: Zheng & Meister are physicalist neuroscientists whose result is recruited into a quantum-selection budget via a bridging premise they would reject — but the article flags the category distinction openly, which substantially defuses the worst charge. On the user's own protocol, fabrication/misattribution would be disqualifying; none is present. Citation integrity does not block.
+
+### 5. Strongest Unaddressed Rival — VERDICT: FATAL OMISSION — PREDICTIVE PROCESSING / ACTIVE INFERENCE
+
+Named explicitly: **predictive processing / active inference** (Friston; and specifically Sandved-Smith, Hesp, Mattout, Friston, Lutz & Ramstead 2021, *Neuroscience of Consciousness* 2021(1):niab018, DOI 10.1093/nc/niab018, which states it "proposes a formal model of meta-awareness and attentional control using hierarchical active inference. To do so, we cast mental action as policy selection over higher-level cognitive states"). This rival is devastating precisely because it natively models the exact phenomena the article reserves for quantum selection: attention as control, mental effort (precision-weighting), the focus→distraction→meta-awareness→refocus cycle, and **policy-level** action selection — and it does so on a fully physicalist, computational, empirically productive substrate, in the same journal (*Neuroscience of Consciousness*) that publishes the article's pro-quantum sources. The article uses the term "policy-level selection" — a term of art owned by active inference — without ever citing or confronting the framework. An interactionist-dualist mechanism is not needed to explain anything in the "Bandwidth Constraint," "Mental Effort," or "Attention" sections; active inference already does. Its total absence is the single largest dialectical failure in the piece.
+
+## Additional Failure-Mode Checks
+
+- **Constitutional attractor**: PRESENT and explicit (see Dimension 3).
+- **Constrain-vs-establish gate**: FAILS — the microtubule/anaesthesia evidence at most fails to rule out a quantum substrate; it does not support dualist selection over physicalism, and is equally consistent with the classical ion-channel mechanisms the article itself acknowledges. The article partly concedes this.
+- **Epistemic-to-metaphysical slide**: PRESENT — "the problem of outcomes... is where consciousness enters" converts an open interpretive question (why one outcome obtains) into a metaphysical selector. The article ultimately concedes this is "a metaphysical interpretation... that becomes attractive if independent arguments for mental causation are found persuasive" — i.e., not established by the physics.
+- **Coherence inflation**: PRESENT — three mutually inconsistent collapse theories counted as convergent; the microtubule "lines" (Craddock computational, Wiest review, Khan pharmacology) are non-independent — Wiest reviews Craddock and is senior author on Khan, so a single research cluster is presented as multiple converging lines.
+- **Performative inoculation**: MIXED/MOSTLY ABSENT — Tegmark, Frankish, and Dennett are engaged substantively, not merely name-checked; the Zheng & Meister hedge is a borderline inoculation (names the objection to appear responsive) but does engage it.
+- **Bounded-Occam asymmetry**: PRESENT (see Dimension 3).
+- **Falsifiability**: DOES NOT HOLD for the core thesis. The article relocates falsifiability to (i) existence of neural quantum effects, (ii) attention–quantum correlation, (iii) Chalmers-McQueen collapse-rate/integrated-information predictions. But (i) and (ii) test the *substrate*, not the *selection*: confirming microtubule quantum effects would be fully compatible with physicalism and would not show that consciousness selects. Only the Chalmers-McQueen collapse-rate prediction is genuinely discriminating, and the article concedes it is the lone candidate. The proposed tests cannot distinguish dualist selection from physicalist alternatives — which the article itself effectively admits.
+
+## Bottom-Line Judgment
+
+**REVISE-HARD**, with the core post-decoherence-selection thesis **DEMOTED TO COHERENCE-ONLY** and **FLAGGED AS PERPETUALLY CONTESTED**. Not DELETE: the citations hold, fabrication is absent, and the article is intermittently more honest about its own limits than the genre norm. But the central claim is, by the article's own admission, an empirically undetectable metaphysical interpretation that respects the Born rule and produces no aggregate signature — it cannot be promoted above coherence-only status until it either (a) confronts active inference head-on and shows quantum selection explains something the physicalist rival cannot, or (b) commits to the Chalmers-McQueen integrated-information collapse-rate prediction as a genuine, discriminating, falsifiable test rather than gesturing at it. The "escape from Tegmark" framing should be downgraded to "relocation of the interaction to the universal measurement problem," and the improper-mixture move should carry an explicit statement that improper and proper mixtures are locally empirically indistinguishable.
+
+## Remediation Lists
+
+### (1) Article-Specific Fixes
+
+1. **Add and confront the strongest rival.** Insert a substantive section on predictive processing / active inference (cite Sandved-Smith et al. 2021, *Neurosci. Conscious.* 2021(1):niab018; Friston). Show, concretely, what quantum selection explains that hierarchical precision-control / policy selection cannot. Until this exists, stop using the active-inference term "policy-level" without attribution.
+2. **State the improper-mixture caveat explicitly.** Add: improper and proper mixtures sharing a density matrix are indistinguishable by any local measurement (mixture-equivalence principle). Reframe "escape from Tegmark" as "relocation to the generic measurement problem," and acknowledge the gap is not brain-specific.
+3. **Resolve the 10 bits/s equivocation everywhere, not just once.** Either drop the bandwidth-as-selection-constraint framing in "Candidate Constraint Families" and the bandwidth sub-article, or carry the explicit "throughput-of-report ≠ selection-resolution" caveat to every occurrence and argue (not assert) the bridging premise.
+4. **De-bundle the three collapse frameworks.** State plainly that Penrose-Hameroff, Stapp, and Chalmers-McQueen are mutually inconsistent on consciousness's causal role; stop presenting them as converging evidence.
+5. **Fix the self-defeating photosynthesis analogy.** Since the article concedes photosynthetic coherence was reclassified as vibrational (Cao et al. 2020) and the original 2007 result was at 77 K, it must either drop the analogy or acknowledge it predicts the microtubule evidence will go the same way.
+6. **Collapse the non-independent evidence lines.** Disclose that Craddock, Wiest, and Khan are one research cluster (shared authorship; Wiest senior on Khan, reviews Craddock); do not present them as independent convergence.
+7. **Make the Born-rule concession load-bearing.** Move the "Falsifiability Dilemma" admission (and the Chalmers-McQueen "quantum zombies" point) to the top of the mechanism section, since it determines the epistemic status of everything below it.
+8. **Tighten the Hagan "seven orders" figure** to match the published recalculation (10⁻⁵–10⁻⁴ s) and state the residual gap to neural timescales (10⁻³–10⁻¹ s) explicitly.
+9. **Reconcile the modification-date metadata** (frontmatter "modified 2026-01-16" vs. byline "Last modified 2026-06-16").
+
+### (2) Site-Wide Methodology Improvements
+
+1. **Add a mandatory "strongest physicalist rival" gate** to every quantum-interface and agency article, with predictive processing / active inference as a named default that must be confronted, not omitted. The current review cycle catches fabricated citations but not omitted rivals.
+2. **Institute a co-optation firewall for inferential (not just citational) recruitment.** A citation can be perfectly accurate and still illegitimately recruit a physicalist author toward a rejected conclusion via a bridging premise. Flag bridging premises that are themselves the contested thesis.
+3. **Add a "distinction-without-empirical-difference" check** for quantum-interpretive moves (improper vs. proper mixtures; within-Born-rule selection): require an explicit statement of whether the distinction is empirically detectable, locally or at all.
+4. **Make the constitutional-attractor disclosure structural, not incidental.** Where an article selects a mechanism because it "is consistent with the five tenets," require an explicit note that tenet-fit is not evidence and that independent support is separately needed.
+5. **Add an independence audit for "converging lines of evidence"** to detect coherence inflation: flag shared authorship, mutual citation, and theoretical incompatibility before any "convergence" language is permitted.
+6. **Apply Occam symmetrically.** When invoking "Occam's Razor Has Limits," require the same parsimony scrutiny be applied to the simplest physicalist rival in the same article.
+7. **Separate substrate-falsifiability from thesis-falsifiability** in every testability section: distinguish tests that probe whether a quantum substrate exists from tests that could discriminate dualist selection from physicalism. Only the latter count toward the falsifiability of the selection thesis.
+
+## Verification Notes
+
+Processing-time checks against the live article ([concepts/consciousness-selecting-neural-patterns.md](/concepts/consciousness-selecting-neural-patterns/), body 3016 words, `soft_warning`, hard ceiling 3500) and against the reviewer's own source claims.
+
+**Verified against the article text:**
+- ✓ **Active-inference omission is real.** The article uses "policy-level" three times (lines 80, 82, 130) but contains zero mentions of active inference, predictive processing, Friston, or Sandved-Smith. The reviewer's central novel finding holds. Note: the Map already owns [concepts/predictive-processing.md](/concepts/predictive-processing/) and [topics/predictive-processing-and-dualism.md](/topics/predictive-processing-and-dualism/), so the fix is a *confront-and-cross-link* task, not a new article.
+- ✓ **Metadata date mismatch is real.** Frontmatter `modified: 2026-01-16` / `created: 2026-01-16` but `ai_modified: 2026-06-16`. The reviewer's "frontmatter vs. byline" discrepancy is genuine.
+- ✓ **Three-framework bundling.** Line 154 explicitly states Penrose-Hameroff ("results from"), Stapp ("causes"), and Chalmers-McQueen ("triggers") assign *different* causal roles, then concludes "All three support... Bidirectional Interaction." The article partly anticipates the inconsistency but still presents them as convergent — the coherence-inflation critique is fair.
+- ✓ **Unconditional causal-closure claim.** Line 72 "Causal closure fails precisely at this gap" is stated unconditionally, as the reviewer (and the same-day ChatGPT review) flag.
+- ✓ **Hagan "seven orders of magnitude"** appears verbatim at line 96. The reviewer's precision point (published recalc ~10⁻⁵–10⁻⁴ s ≈ 8–9 orders above Tegmark's 10⁻¹³ s) is a tightening, not a contradiction.
+- ✓ **Photosynthesis analogy.** Line 96 already concedes the Engel 2007 coherence was reclassified as vibrational (Cao 2020). The reviewer's "self-defeating" framing sharpens an admission the article already makes rather than catching a hidden error.
+
+**Reviewer's citation verification (re-checked, not re-fetched):** The reviewer independently confirmed all six load-bearing citations are real and correctly attributed (Zheng & Meister 2025, Craddock 2017 Sci Rep 7:9877, Hagan 2002 Phys Rev E 65:061901, Wiest 2025 Neurosci Conscious 2025(1):niaf011, Khan 2024 eNeuro, Schwartz 1996 Arch Gen Psychiatry 53(2):109–113). This matches the Map's own verification record and the `[[craddock-613thz-dangling-cite-sweep]]` correct-target (Craddock 2017 Sci Rep 7:9877). No fabrication flagged; citation-integrity gate passes. Not independently re-fetched during this processing pass — the reviewer's per-source quotations are internally consistent with the article and with prior Map verification.
+
+**Convergence flag:** This Claude review and the same-day ChatGPT 5.5 Pro review (`outer-review-2026-06-23-chatgpt-5-5-pro.md`) converge on (a) the unconditional causal-closure / underdetermination over-claim and (b) the need to separate "compatible-with" from "evidence-for." The Gemini leg (`outer-review-2026-06-23-gemini-2-5-pro.md`) is still `pending` as of this processing; `/combine-outer-reviews` will fire once it is collected and will upgrade convergent findings. To avoid same-file task pileup (outer-review-same-file-task-pileup), the convergent items here are folded into a note on the existing ChatGPT-sourced consolidated refine task rather than minted as duplicate per-finding tasks; only the genuinely-novel active-inference-confrontation finding is minted as a new task.
