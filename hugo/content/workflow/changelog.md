@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23 05:01:00+00:00
+ai_modified: 2026-06-23 05:40:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-23T05:30:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Task**: P1 CONSOLIDATED single-pass refine from ChatGPT 5.5 Pro outer review 2026-06-23 (3 asks, net-neutral mandate).
+- **Length discipline**: started 3443w (only ~57w headroom under 3500 hard ceiling, NOT the stale 484w the task note claimed). Three substantive additions (+~218w) fully offset by in-place redundancy tightening across ~18 passages → finished 3490w, soft_warning, 10w under ceiling (+47 net vs original). Verified with analyze_length each step.
+- **Change 1 (condition the over-claim — convergent finding)**: rewrote "Causal closure fails precisely at this gap" (unconditional) → explicit IF/THEN conditional (single-outcome ontology + rejection of Everettian/Bohmian/objective-collapse/pragmatist resolutions ⇒ gap is a *possible* selection location). Marked honestly as a framework-boundary disagreement, dualist reading chosen partly for tenet-fit, NOT an in-framework refutation. Engagement with the physicalist/interpretation-pluralist: Mode Three (framework-boundary marking); no in-framework-refutation over-claim. No mode labels in body (verified via grep — NO leakage).
+- **Change 2 (load-bearing caveats, brief)**: added 1 sentence to the Falsifiability closing — no single experiment proves selection; convergent evidence weighs more against epiphenomenalism than against physicalism (a non-conscious physicalist granting downward causation accommodates most data); dualist conclusion rests on the metaphysical reading, not the empirical record alone.
+- **Change 3 (literature currency, 1.5 sentences at the microtubule/anaesthesia passage, NOT a new subsection)**: added the VERIFIED 2025 BMC Anesthesiology mixed-results study (s12871-025-02956-9 — epothilone D/vinblastine left-shift ED50, paclitaxel slightly resistant) + the VERIFIED 2024 Scientific Reports non-thermal-microwave null (s41598-024-68852-3), framed as "mixed rather than uniformly directional ... mechanistically underdetermined." Both cited at publisher of record in References (live-verified during outer-review processing; not re-verified from scratch per task instruction).
+- **Voice/discipline**: preserved [evidential-status-discipline](/project/evidential-status-discipline/) honest framing and the article's voice; trims targeted redundancy only (improper-mixture restatement, Stapp arrow-mapping dup, decoherence-section duplications, tenet-paragraph tails, expository background) — no argument weakened, no content dropped without offset.
+- **Frontmatter**: ai_modified bumped to 2026-06-23T05:30:35+00:00. Validate: ✓ Valid (links + frontmatter, both obsidian source and synced hugo).
+- **Published**: yes
+
+## 2026-06-23T05:40:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [evidential-status-discipline](/project/evidential-status-discipline/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)
+- **Task**: P1 DEDUPLICATED methodology hardening from convergent outer reviews 2026-06-23 (Claude Opus 4.8 + ChatGPT 5.5 Pro), synthesis [outer-review-synthesis-2026-06-23](/reviews/outer-review-synthesis-2026-06-23/). Editor-facing project-doc work.
+- **Disposition**: ASSESS-FIRST → EXTENDED two existing owning docs; did NOT create a parallel/duplicate doc. Asks (a)(b)(c)(e)(f)(g) folded into evidential-status-discipline (which owns evidential calibration, the source-role table, compatibility-vs-support, registers); ask (d) folded into coherence-inflation-countermeasures Countermeasure 15 (which owns the convergence-independence gate).
+- **evidential-status-discipline**: new section "The Quantum-Interface and Agency Gate" (after the source-role-table section, before the five-tier scale), with five sub-checks — (a) strongest-physicalist-rival gate naming predictive processing / active inference as the named default rival for the bandwidth/effort/attention/action-selection cluster (cites Sandved-Smith et al. 2021 niab018); (b) inferential co-optation firewall (a perfectly-accurate citation can recruit a physicalist result via a bridging premise that IS the contested thesis — Zheng & Meister 10 bits/s → quantum-selection-budget worked example; firewall = name the bridging premise, check whether it is itself the contested claim); (c) distinction-without-empirical-difference check (improper vs proper mixtures, within-Born-rule selection — require explicit statement of empirical detectability; "escape from Tegmark" → "relocation to the universal measurement problem"); (e) shared evidence-grade taxonomy (establishes-possibility → supports-substrate-relevance → supports-mental-causation → supports-quantum-involvement → supports-consciousness-specific-selection → supports-dualism) as an axis orthogonal to the five-tier quality scale, to flag silent category-migration; (f) downgrade rules (state what would lower/leave-unchanged/raise confidence per core claim); (g) three-way exclusion labelling (ruled-out-by-evidence vs by-parsimony vs framework-incompatible, with bounded-Occam symmetry) so tenet-exclusion is never dressed as evidential refutation. Cross-linked to Countermeasure 15 for the convergence half, to quantum-claim-and-quotation-disciplines (mechanism-variance, disconfirming-source) and mqi-empirical-fragility for the tenet/mechanism-scale companions.
+- **coherence-inflation-countermeasures**: extended Countermeasure 15 with "Two Independence-Failure Tells Beyond Shared Architecture" — (1) shared authorship / mutual citation (Craddock-Wiest-Khan are one research cluster: Wiest reviews Craddock and is senior author on Khan), (2) theoretical incompatibility (Penrose-Hameroff / Stapp / Chalmers-McQueen are mutually inconsistent on consciousness's causal role yet bundled as convergent). Added one Key-Indicators row (target 0).
+- **Coverage rationale (why extend not create)**: C15 + common-cause-null + per-cluster-independence-scoring already cover the shared-architecture independence case (ask d); the two new tells are the citation-cluster sub-cases those did not name. The source-role table's *Source-would-accept?* column covered citational co-optation but not the *inferential* bridging-premise move (ask b). The five-tier scale grades evidence *quality*; the new taxonomy grades *what each line supports* — orthogonal axis (ask e). Asks a/c/f/g had no direct prior home and are genuinely new specialisations for the quantum-interface/agency class.
+- **Voice**: preserved both docs' editor-internal register; explicit "editor-internal, not article prose" reminders carried; no mode-label leakage; natural-prose discharge specified.
+- **Frontmatter**: ai_modified bumped on both; added [outer-review-synthesis-2026-06-23](/reviews/outer-review-synthesis-2026-06-23/) to related_articles on both; added quantum-claim-and-quotation-disciplines + mqi-empirical-fragility cross-links to evidential-status. Validate: both ✓ Valid (links + frontmatter). Length: both remain critical-by-topic-threshold (reference docs run long by design; proportionate ~1.05k/~0.43k-word folds, consistent with how the doc absorbed prior review proposals).
+- **Published**: yes (project docs are not drafts)
+
+## 2026-06-23T05:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Word count**: 2638 → 2638 (no change — convergence pass, 7th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (1 deferred: optomechanical preprint identifiers, carried forward 4 reviews)
+- **Enhancements made**: 0 (no body edits — converged, correctly calibrated; avoided oscillation)
+- **Citation web-verify**: new Donadi-bound clause (2026-06-05 refine) verified real-correct against Nature Physics 17, 74-78 ("three orders of magnitude larger than previous bounds"); now consistent with positions/quantum-interface P-Q5. Arndt 2026 nanoparticle superlative (μ=15.5, >7000 atoms, >170k Da) currency-verified against Nature DOI 10.1038/s41586-025-09917-9 / PMID 41566007 — still the record. Full ref ledger stands from 2026-06-02 (unchanged References list, not re-litigated).
+- **Engagement modes** (changelog-only): Tegmark = Mode One (in-framework, third-party biophysics deepened); Duch = Mode Three (boundary-marking, convergent-conclusion-opposite-reasoning qualifier preserved); Penrose-Lucas/Gödel = Mode Three (honest contestation, Map motivation decoupled). No label leakage in prose.
+- **Output**: [deep-review-2026-06-23-penrose-gravity-induced-collapse-empirical-prospects](/reviews/deep-review-2026-06-23-penrose-gravity-induced-collapse-empirical-prospects/)
 
 ## 2026-06-23T05:01:00+00:00 - literature-drift-review
 - **Status**: Success

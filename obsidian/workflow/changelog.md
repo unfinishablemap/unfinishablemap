@@ -5,6 +5,18 @@ ai_modified: 2026-06-23T05:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T05:30:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-selecting-neural-patterns]]
+- **Task**: P1 CONSOLIDATED single-pass refine from ChatGPT 5.5 Pro outer review 2026-06-23 (3 asks, net-neutral mandate).
+- **Length discipline**: started 3443w (only ~57w headroom under 3500 hard ceiling, NOT the stale 484w the task note claimed). Three substantive additions (+~218w) fully offset by in-place redundancy tightening across ~18 passages → finished 3490w, soft_warning, 10w under ceiling (+47 net vs original). Verified with analyze_length each step.
+- **Change 1 (condition the over-claim — convergent finding)**: rewrote "Causal closure fails precisely at this gap" (unconditional) → explicit IF/THEN conditional (single-outcome ontology + rejection of Everettian/Bohmian/objective-collapse/pragmatist resolutions ⇒ gap is a *possible* selection location). Marked honestly as a framework-boundary disagreement, dualist reading chosen partly for tenet-fit, NOT an in-framework refutation. Engagement with the physicalist/interpretation-pluralist: Mode Three (framework-boundary marking); no in-framework-refutation over-claim. No mode labels in body (verified via grep — NO leakage).
+- **Change 2 (load-bearing caveats, brief)**: added 1 sentence to the Falsifiability closing — no single experiment proves selection; convergent evidence weighs more against epiphenomenalism than against physicalism (a non-conscious physicalist granting downward causation accommodates most data); dualist conclusion rests on the metaphysical reading, not the empirical record alone.
+- **Change 3 (literature currency, 1.5 sentences at the microtubule/anaesthesia passage, NOT a new subsection)**: added the VERIFIED 2025 BMC Anesthesiology mixed-results study (s12871-025-02956-9 — epothilone D/vinblastine left-shift ED50, paclitaxel slightly resistant) + the VERIFIED 2024 Scientific Reports non-thermal-microwave null (s41598-024-68852-3), framed as "mixed rather than uniformly directional ... mechanistically underdetermined." Both cited at publisher of record in References (live-verified during outer-review processing; not re-verified from scratch per task instruction).
+- **Voice/discipline**: preserved [[evidential-status-discipline]] honest framing and the article's voice; trims targeted redundancy only (improper-mixture restatement, Stapp arrow-mapping dup, decoherence-section duplications, tenet-paragraph tails, expository background) — no argument weakened, no content dropped without offset.
+- **Frontmatter**: ai_modified bumped to 2026-06-23T05:30:35+00:00. Validate: ✓ Valid (links + frontmatter, both obsidian source and synced hugo).
+- **Published**: yes
+
 ## 2026-06-23T05:40:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[project/evidential-status-discipline]], [[project/coherence-inflation-countermeasures]]
