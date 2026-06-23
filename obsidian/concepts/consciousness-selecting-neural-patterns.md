@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-06-16T00:39:39+00:00
+ai_modified: 2026-06-23T04:57:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,6 +80,14 @@ Conscious selection faces a severe bottleneck. The [[consciousness-bandwidth-arc
 This explains why selection is policy-level—provided one bridging premise holds. The 10 bits/second figure is a throughput limit on conscious *thought and report*, not directly a resolution limit on the quantum selection mechanism; these are distinct quantities. The inference goes through only if selection is *channelled through* the same attentional bottleneck that bounds report—if the conscious subject can only select among alternatives it can attend to, and attention is what the bandwidth measure constrains. On that premise, the throughput limit transfers: at ~10 bits/second, consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." The quantum mechanism implements the selected policy; individual neural events fall out from the chosen pattern. This coarse-grained allocation—detail concentrating where consciousness attends—is what the Map calls [[adaptive-computational-depth|adaptive computational depth]].
 
 Policy-level selection respects conscious processing limits—a mechanism claiming billions of direct quantum determinations per second would not.
+
+### The Active-Inference Rival
+
+The phrase "policy-level" is borrowed from a physicalist framework that natively models everything this section describes. Active inference—predictive processing's action-oriented extension under Friston's free energy principle—already casts mental action as *policy selection over higher-level cognitive states* on a computational substrate. Sandved-Smith, Hesp, Mattout, Friston, Lutz and Ramstead (2021), in the same journal as several of this article's pro-quantum sources, build a hierarchical model in which attention is a controllable policy, mental effort is precision-weighting on that control, and the focus → distraction → meta-awareness → refocus cycle of sustained attention falls out of recursive precision dynamics. The bandwidth bottleneck, the felt cost of holding attention, and the coarse-grained allocation of detail where consciousness attends are all phenomena active inference models without invoking anything non-physical. It is the strongest physicalist rival for this section's account, and the Map confronts it as such rather than treating the bandwidth argument as if no computational competitor existed. The [[predictive-processing-and-dualism|Map's full engagement with active inference]] adopts its architecture while disputing its metaphysics.
+
+The honest statement of the disagreement is narrow. Over the control phenomena the two are very nearly co-extensive: both describe attention as policy selection, both make mental effort a matter of precision allocation, both predict the same focus-and-refocus dynamics. What conscious selection claims to add is not a *better* control architecture but an answer to a question active inference does not address. Active inference specifies the control loop down to the point where precision-weighting settles competing hypotheses; it does not say which Born-rule-equiprobable micro-outcome the settling realises, because on its own terms that residual selection is brute chance. The Map proposes a conscious selector at exactly that step.
+
+That step is where the disagreement lives, and the discipline of [[evidential-status-discipline|honest evidential status]] forbids dressing it as a refutation. Active inference is not defective on its own terms over the control phenomena, and the dualist reading of the residual which-outcome step is one interpretation of quantum indeterminacy, not a result forced on the physicalist—a determinist or brute-chance theorist can occupy the same architecture and decline the selector. The bandwidth argument therefore constrains the *form* a conscious influence would take (policy-level, not micro-managing) without showing that one operates at all; that further claim rests on the independent arguments for mental causation, not on the bandwidth fact both frameworks share.
 
 ## The Brain Boundary
 
@@ -193,6 +201,7 @@ The Map should not claim selection within Born probabilities constitutes a testa
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*.
 1. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
 1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
+1. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference. *Neuroscience of Consciousness*, 2021(1), niab018. https://doi.org/10.1093/nc/niab018
 1. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267. arXiv:quant-ph/0312059.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness.

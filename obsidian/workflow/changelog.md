@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T04:45:20+00:00
+ai_modified: 2026-06-23T04:57:50+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T04:57:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-selecting-neural-patterns]]
+- **Source**: outer review 2026-06-23 (Claude Opus 4.8 leg), convergent active-inference omission (2/3 cluster, upgraded P2→P1 by combine-outer-reviews)
+- **Changes**: Added "The Active-Inference Rival" subsection (~340w) after the bandwidth-constraint section confronting active inference as the strongest physicalist rival for the bandwidth/mental-effort/attention phenomena it natively models; cited Sandved-Smith, Hesp, Mattout, Friston, Lutz & Ramstead 2021 (Neurosci. Conscious. 2021(1):niab018) — verified against Oxford Academic/PubMed — for mental-action-as-policy-selection and the focus→distraction→meta-awareness→refocus cycle; cross-linked [[predictive-processing-and-dualism]]. Stated concretely that conscious selection claims to add the which-Born-equiprobable-outcome determination active inference leaves as brute chance, not a better control architecture; honestly conceded the two are near co-extensive over the control phenomena. Added Sandved-Smith 2021 to References.
+- **Engagement classification (changelog only, not in body)**: engagement with active inference / Sandved-Smith et al.: Mode Three (framework-boundary). Active inference models the control phenomena fully on its own terms (no Mode One/Two refutation available or claimed); the dualist reading of the residual which-outcome step is one interpretation of quantum indeterminacy, not forced on the physicalist — marked as such per [[evidential-status-discipline]]. Bandwidth fact constrains form, does not establish a selector.
+- **Length**: analyze_length body 3016w → 3443w (hard ceiling 3500; 57w headroom preserved for the in-flight consolidated ChatGPT refine)
+- **Published**: yes
 
 ## 2026-06-23T04:55:00+00:00 - combine-outer-reviews
 - **Status**: Success
