@@ -5,6 +5,14 @@ ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T02:47:57+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Before**: 3997 words
+- **After**: 3901 words
+- **Reduction**: 2.4%
+- **Technique**: Targeted redundancy removal — the explanatory-gap reply was restated 3× outside the protected beautiful-loop section; trimmed the duplicated tail at the Markovian-monism close ("no amount of structural description explains why the structure is experienced") and at "The subject of prediction" ("no value of a precision parameter explains why high-precision signals are experienced"), keeping the canonical Austin-cited statement in "The Gap PP Cannot Close" as the single load-bearing instance. Plus minor prose tightening (opening "adjudicates neither side" duplication, Markovian "mutual reducibility" double-statement, active-inference Tenet-3 framing that the Relation section restates, "What PP Gets Right" intro). PRESERVED in full: the 4 web-verified citations, the beautiful-loop direct-refutation engagement (untouched), all calibration/evidential-status hedges, Relation to Site Perspective, Further Reading, References. Created 99 words of headroom under the 4000 topics hard ceiling (was 3 under) per the 2026-06-23 pessimistic-review task.
+
 ## 2026-06-23T02:42:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/predictive-processing-and-dualism]] (recently refined 2026-06-22, never deep-reviewed since)

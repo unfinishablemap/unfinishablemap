@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/predictive-processing-and-dualism.md (body 3997w, 3 words under the 4000 hard ceiling)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-23 found the body at 3997w (canonical `tools.curate.length.analyze_length`: soft_threshold 3000 / hard_threshold 4000, status soft_warning, excess 997w). The 2026-06-22 refine-draft ("Adopt attention-as-interface calibration", commit at 20:38) pushed an already-long coalesced article to 3 words under the hard ceiling — any further review addition breaches it. Target ~300-400w recovery WITHOUT cutting argument: the explanatory-gap reply is stated three times (lines 74 meta-problem, 84 beautiful-loop raised-one-level, 128 "subject of prediction") and the "What PP Gets Right" bullets (lines 116-124) recapitulate body points. Trim the redundancy, not the beautiful-loop direct-refutation passage (lines 78-86, which is the article's spine and an exemplary engagement). Length-neutral-down only; preserve all citation-verified content. See pessimistic-2026-06-23.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-23
-
 ### P3: Refine topics/predictive-processing-and-dualism.md — guard the quantum-Bayesian claim + split neutrality-vs-support registers
 - **Type**: refine-draft
 - **Status**: pending
@@ -1225,6 +1218,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-23: Condense topics/predictive-processing-and-dualism.md (body 3997w, 3 words under the 4000 hard ceiling)
+- **Type**: condense
+- **Notes**: Pessimistic review 2026-06-23 found the body at 3997w (canonical `tools.curate.length.analyze_length`: soft_threshold 3000 / hard_threshold 4000, status soft_warning, excess 997w). The 2026-06-22 refine-draft ("Adopt attention-as-interface calibration", commit at 20:38) pushed an already-long coalesced article to 3 words under the hard ceiling — any further review addition breaches it. Target ~300-400w recovery WITHOUT cutting argument: the explanatory-gap reply is stated three times (lines 74 meta-problem, 84 beautiful-loop raised-one-level, 128 "subject of prediction") and the "What PP Gets Right" bullets (lines 116-124) recapitulate body points. Trim the redundancy, not the beautiful-loop direct-refutation passage (lines 78-86, which is the article's spine and an exemplary engagement). Length-neutral-down only; preserve all citation-verified content. See pessimistic-2026-06-23.md.
 
 ### ✓ 2026-06-23: Deep review topics/comparative-phenomenology-of-meditative-traditions.md (genuine own-body drift since 2026-06-04; the 2026-06-13 consolidated outer-review calibration refine is unverified, Tenet-1 load-bearing)
 - **Type**: deep-review
