@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-22T08:28:08+00:00
+ai_modified: 2026-06-23T01:23:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-06-05T14:26:16+00:00
+last_deep_review: 2026-06-23T01:23:14+00:00
 coalesced_from:
   - "/topics/born-rule-derivation-failures-consciousness-collapse/"
   - "/topics/born-rule-interpretation-invariance-consciousness/"

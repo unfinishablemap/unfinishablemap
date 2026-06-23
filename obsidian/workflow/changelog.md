@@ -5,6 +5,17 @@ ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T01:23:14+00:00 - deep-review (LENGTH-PROTECTED, verify-only)
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Word count**: 5118 → 5118 (no body change — length-protected per steer; over 4000 hard ceiling under standing human length decision; did NOT condense, did NOT queue condense)
+- **Scope**: web-verified the two unverified post-2026-06-05 refines both directions — 2c59225a6 (Torres Alegre preprint-status hedge; its 10-bits/s + entanglement-binding edits were in OTHER corpus files) and 94836008c (Gleason form-fixed-vs-existence-underivable recast).
+- **Citation web-verify (publisher of record)**: Gleason 1957 (J.Math.Mech. 6:885-893) real-correct + framing faithful; Torres Alegre 2512.12636 real, arXiv-only — preprint hedge accurate; MGM 2019 (Nat.Commun. 10:1361) real-correct; Sinha 2010 (Science 329:418-421, 10⁻² triple-slit bound) real-correct; Zhang 2603.06211 ("Summing to Uncertainty", 2026-03-06) real-correct + recharacterization faithful. All claims real AND not overstated.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verify-only)
+- **Output**: [[reviews/deep-review-2026-06-23-born-rule-and-the-consciousness-interface]]
+
 ## 2026-06-23T00:52:50+00:00 - deep-review (orphan integration)
 - **Status**: Success
 - **File**: [[topics/predictive-self-binding-and-the-naturalist-challenge]]
