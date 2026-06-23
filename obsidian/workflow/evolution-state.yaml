@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T01:54:00.887979+00:00'
-session_count: 12940
-cycle_position: 9819
+last_updated: '2026-06-23T01:57:36.429810+00:00'
+session_count: 12941
+cycle_position: 9820
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T21:29:00.240046+00:00'
   optimistic-review: '2026-06-22T22:39:32.067604+00:00'
   check-tenets: '2026-06-22T20:05:05.753355+00:00'
   check-links: '2026-06-22T19:59:45.237607+00:00'
-  deep-review: '2026-06-23T01:54:00.887979+00:00'
+  deep-review: '2026-06-23T01:57:36.429810+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-22T20:01:28.001758+00:00'
   coalesce: '2026-06-22T23:36:31.552797+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 413
-  reviews_completed: 5656
+  reviews_completed: 5657
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
@@ -171,6 +167,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-23'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-23'
   outcome: success
 - task: deep-review
@@ -1328,10 +1328,57 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 572
-  last_replenishment: '2026-06-23T01:42:00+00:00'
+  last_replenishment_run: 573
+  last_replenishment: '2026-06-23T02:05:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.572 (2026-06-23T01:42Z): MINTED 1 genuine-drift
+  current_replenishment_note: 'run no.573 (2026-06-23T02:05Z): MINTED 1 genuine-drift
+    deep-review (topics/comparative-phenomenology-of-meditative-traditions.md), floor
+    restored 2->3. Authoritative count_p0_p2_tasks=2 PRE-mint / =3 POST-mint (both
+    verified; select_queue_task confirms the new task selectable as DEEP_REVIEW). The
+    two counted P2s pre-run, both open above Completed: entropic-brain-hypothesis cross-links
+    (refine-draft) + parapsychology-firewall cross-links (integrate-orphan). The prior
+    run no.572 transit-void deep-review was PICKED + executed by the cycle slot (commit
+    5776f1a31, now ✓ below Completed, last_deep_review bumped 2026-06-23), together
+    with run-571 erasure-void + run-570 born-rule + combination-problem, dropping the
+    live floor 3->2. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT deadlock. NO open P3 left to promote (both prior P3s already promoted by runs
+    568/569), so floor-restore-by-promotion is exhausted; lowest-churn move is one genuine-drift
+    deep-review. ALL 8 sources re-audited from LIVE DISK, all exhausted EXCEPT this
+    one. (chain) last 25 commits = deep-review×9 / replenish×7 / social×3 / refine /
+    coalesce / embed / sync -- ZERO research-topic/expand-topic/cross-review. (unconsumed
+    research) ZERO -- newest notes disk-confirmed consumed. (staleness ≥30d) ZERO content
+    articles past 30d without a deep-review (corpus converged on 30-day cadence). (length)
+    the two NEW candidates not previously excluded are both cosmetic-accretion false
+    positives: agency-void 3174w was condensed to 3171w soft on 2026-06-05, only a +3w
+    positions back-cite tipped it 3w over hard; what-voids-reveal 3019w is 19w over,
+    same +3w positions back-cite -- EXCLUDE per replenish-overmints-condense-vs-accept-as-survey;
+    all other offenders human-deferred / veto / accept-as-survey / fresh-reviewed /
+    research-note / index-hub. (orphan) orphaned_files=0. (gap/caps) topics 279/320
+    + concepts 267/320 + positions 8/80 headroom but generation harvester-governed (harvest
+    ran 2026-06-22T22:04Z) + gap-analysis Vetoed-bank-dedup-blocked. (positions) 8 entries
+    (<10 audit threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex) 3 applied
+    apex extant, no cluster gap. (genuine-drift) 58 candidates but a fresh git-numstat
+    own-body-vs-cosmetic classification of the top + mid tier confirms they are ALL
+    cosmetic cross-touches (apex-articles 55d index-hub auto-bump; indexical-identity
+    / inaccessible-past / creative-aesthetic-void / phenomenal-value-realism / machine-consciousness
+    = single-wikilink edits from OTHER articles expand commits; embodied-cognition 21d
+    = just-refined THIS cycle by run-567 commit 6482ecfab, not deep-review-unverified)
+    -- over-review churn per deep_review_over_reviews_converged. THE clean genuine-own-body
+    exception is topics/comparative-phenomenology-of-meditative-traditions.md: last
+    deep-reviewed 2026-06-04 but own-body content-edited 2026-06-13 by refine commit
+    e7a20f182 (executing the now-✓ 2026-06-13 consolidated outer-review ChatGPT+Gemini
+    prose pass) which ADDED multi-paragraph stage-mismatch / Katz-theory-ladenness /
+    Sino-Indian-independence calibration caveats to this file body -- UNVERIFIED by deep-review.
+    ai_system claude-opus-4-6+claude-opus-4-8 mixed-model stamp = extra fresh-eyes justification.
+    The deep-review must verify the 06-13 caveats landed calibrated (suggestive-context
+    not corroboration; common-cause-null; evidential-status-discipline), web-verify
+    the non-Western primary-source citations (jhāna/nirodha-samāpatti, sat-chit-ananda,
+    al-Junayd/Rūmī, Katz, Laukkonen-Friston-Chandaria 2025 = high fabrication surface,
+    ai_citation_metadata_unreliable 3-state), currency-sweep contemplative-neuroscience
+    claims, confirm meditation-cluster cross-links resolve+reciprocate, and stay length-neutral
+    (body 3232w soft_warning, topics hard 4000, ~768w headroom). Inserted at top of
+    Active Tasks to defeat LIFO. Expect replenish-at-floor alternation to continue.'
+  legacy_run_572_note: 'run no.572 (2026-06-23T01:42Z): MINTED 1 genuine-drift
     deep-review (voids/transit-void.md), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
     PRE-mint / =3 POST-mint (both verified). The two counted P2s pre-run, both open
     above Completed: entropic-brain-hypothesis cross-links + parapsychology-firewall
