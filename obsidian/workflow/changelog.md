@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T00:12:57+00:00
+ai_modified: 2026-06-23T00:23:55+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T00:23:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Original score**: argumentative-calibration only (pessimistic-2026-06-22c; citation integrity already HIGH, no citation work)
+- **Word count**: 3416 → 3498 (+82; concepts hard 3500, kept ~2w under ceiling, no content removed)
+- **Changes**:
+  - Line 123: demoted "strengthens dualism" → "leaves dualism not undermined"; made the A-/P-consciousness asymmetry's status as a *borrowed premise from [[consciousness-epistemology-extended-cognition]]* explicit (occupation argued elsewhere, not here); reframed the BCI phenomenal-interface claim as "on the Map's reading" rather than a neutral finding.
+  - Line 139: propagated the admitted-unresolved Buddhist/śūnyatā uncertainty UP into the AI-grounding "consciousness itself" appeal via a one-clause self-anchor cross-ref ([[#Buddhist Phenomenology Parallels]]); fixed the mixed-modality hedge ("may not be X but Y" → "may be not X but, on the Map's view, Y"); date-stamped the currency-drift-vulnerable robotics claim ("even embodied robots struggle" → "to the extent that current embodied systems still transfer poorly—as of 2026, despite rapid vision-language-action progress, robotic generalisation remains brittle").
+  - Line 147 (filter section): added the same one-clause Buddhist-uncertainty cross-ref so the "consciousness exists independently of brains" appeal is internally calibrated. (The line-147 "logical space" instance already carried its load-bearing [[mind-brain-separation]] dependency; left intact.)
+  - Line 165: "The Map's response *must be*" → "is".
+  - Line 105 left as-is (already honestly calibrated: "does not provide evidence *for* it over the standard physicalist account").
+- **Verification**: canonical length 3498 < 3500 hard; altered-state-symmetry scanner returns None; both new self-anchors match `## Buddhist Phenomenology Parallels` exactly; no label-leakage; ai_contribution unchanged at 100.
+- **Published**: yes
 
 ## 2026-06-23T00:12:57+00:00 - deep-review
 - **Status**: Success

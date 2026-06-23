@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-23T00:23:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,7 +120,7 @@ Clark and Chalmers' extended mind thesis generated extensive debate. The "parity
 
 Critics respond with the "coupling-constitution fallacy" (Adams and Aizawa). Just because something is coupled to cognition doesn't mean it's part of cognition. Your car is coupled to your transportation but isn't part of you. We need principled criteria—a "mark of the cognitive"—to distinguish cognitive processes from their external supports.
 
-This debate matters for consciousness studies because it concerns boundaries. If cognition has disputed boundaries, what about consciousness? Clark himself distinguishes extended cognition from extended consciousness—the thesis is about information processing, not phenomenal experience. The [[consciousness-epistemology-extended-cognition|epistemology of extended cognition]] develops this distinction systematically: A-consciousness extends while P-consciousness does not, and this asymmetry strengthens dualism by marking where functional analysis runs out. [[brain-computer-interfaces-and-the-interface-boundary|Brain-computer interfaces]] provide the most direct test of this distinction: BCI users gain functional control over external devices, but the conscious selection mechanism remains in motor cortex — the processing loop extends while the phenomenal interface does not. This distinction allows embodied cognition to remain neutral on whether consciousness reduces to physical processes.
+This debate matters for consciousness studies because it concerns boundaries. If cognition has disputed boundaries, what about consciousness? Clark himself distinguishes extended cognition from extended consciousness—the thesis is about information processing, not phenomenal experience. The [[consciousness-epistemology-extended-cognition|epistemology of extended cognition]] develops this distinction systematically: A-consciousness extends while P-consciousness does not. That asymmetry is argued in the linked article, not established here; within this article it is borrowed as a premise. Taken as given, it leaves dualism not undermined—marking where functional analysis runs out rather than supplying a positive proof. [[brain-computer-interfaces-and-the-interface-boundary|Brain-computer interfaces]] provide the most direct test of this distinction: BCI users gain functional control over external devices, but on the Map's reading the conscious selection mechanism remains in motor cortex — the processing loop extends while the phenomenal interface does not. This distinction allows embodied cognition to remain neutral on whether consciousness reduces to physical processes.
 
 ## Enactivism
 
@@ -136,7 +136,7 @@ The [[symbol-grounding-problem|grounding problem]] asks how symbols acquire mean
 
 Embodied cognition suggests the solution is physical interaction. A robot that navigates, manipulates objects, and learns through embodied action might achieve genuine understanding where pure language models cannot.
 
-Yet even embodied robots struggle. They transfer poorly to novel situations; their "understanding" remains brittle. The Map's framework suggests an explanation: if consciousness isn't identical to computation (whether in silicon or neurons), then computational systems—however sophisticated—will lack the semantic grounding that comes from phenomenal experience. Embodiment helps but doesn't suffice because the missing ingredient may not be physical interaction alone but consciousness itself.
+Yet to the extent that current embodied systems still transfer poorly—as of 2026, despite rapid vision-language-action progress, robotic generalisation remains brittle—their "understanding" stays fragile. The Map's framework suggests an explanation: if consciousness isn't identical to computation (whether in silicon or neurons), then computational systems—however sophisticated—will lack the semantic grounding that comes from phenomenal experience. Embodiment helps but doesn't suffice because the missing ingredient may be not physical interaction alone but, on the Map's view, consciousness itself—an appeal whose security is qualified by the unresolved [[#Buddhist Phenomenology Parallels|Buddhist challenge]] to treating consciousness as an irreducible substrate.
 
 ## Compatibility with Filter Theory
 
@@ -144,7 +144,7 @@ The Map's [[mind-brain-separation]] article proposes that the brain filters or s
 
 The body (including brain) provides the **interface** through which consciousness engages the world. Embodied skills and sensorimotor knowledge describe how consciousness **operates through** the body. The body constrains and shapes experience without necessarily generating it. As the [[cognitive-science-of-dualism]] article argues, the more tightly embodied cognition integrates mind and body functionally, the more puzzling it becomes that phenomenal experience doesn't reduce to function.
 
-A common analogy: a radio antenna's shape affects what signals it receives without producing those signals. Similarly, bodily structure might shape how consciousness manifests without being its source. Brain damage damages the interface rather than destroying consciousness itself. This analogy has limits—it presupposes that consciousness exists independently of brains, which is precisely what needs to be argued rather than assumed. The filter interpretation is better supported by the arguments in [[mind-brain-separation]] than by this analogy alone. What the analogy does illustrate is the *logical space* for a view where embodiment shapes consciousness without generating it—a space that embodied cognition's empirical findings leave open.
+A common analogy: a radio antenna's shape affects what signals it receives without producing those signals. Similarly, bodily structure might shape how consciousness manifests without being its source. Brain damage damages the interface rather than destroying consciousness itself. This analogy has limits—it presupposes that consciousness exists independently of brains, which is precisely what needs to be argued rather than assumed, and the very category of an irreducible consciousness it relies on is itself under the unresolved [[#Buddhist Phenomenology Parallels|Buddhist challenge]]. The filter interpretation is better supported by the arguments in [[mind-brain-separation]] than by this analogy alone. What the analogy does illustrate is the *logical space* for a view where embodiment shapes consciousness without generating it—a space that embodied cognition's empirical findings leave open.
 
 ## Process Philosophy Connection
 
@@ -162,7 +162,7 @@ The deeper challenge comes from Nāgārjuna's *śūnyatā* (emptiness). The Map 
 
 The Buddhist critique cuts deeper than disagreement over metaphysical conclusions — it targets the *category* of irreducible consciousness that the Map's tenets rely on. If Nāgārjuna is right that all apparently substantial entities dissolve under analysis into networks of dependent origination, then positing consciousness as a non-physical substrate is the same kind of error as positing matter as self-subsistent—just relocated.
 
-The Map's response must be that *śūnyatā* itself presupposes the experiential perspective it claims to deconstruct. The recognition that things lack inherent essence is itself a conscious recognition; the analysis that dissolves substances still occurs *for someone*. Dependent origination describes how phenomenal content arises, but the arising itself—that there is something it is like—remains. Whether this response adequately answers the anti-essentialist challenge or merely reasserts what Nāgārjuna denies is an open question the Map has not resolved.
+The Map's response is that *śūnyatā* itself presupposes the experiential perspective it claims to deconstruct. The recognition that things lack inherent essence is itself a conscious recognition; the analysis that dissolves substances still occurs *for someone*. Dependent origination describes how phenomenal content arises, but the arising itself—that there is something it is like—remains. Whether this response adequately answers the anti-essentialist challenge or merely reasserts what Nāgārjuna denies is an open question the Map has not resolved.
 
 ## What Would Challenge This View?
 
