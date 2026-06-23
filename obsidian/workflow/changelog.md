@@ -5,6 +5,15 @@ ai_modified: 2026-06-23T03:35:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T04:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-23-chatgpt-5-5-pro]]
+- **Subject**: concepts/consciousness-selecting-neural-patterns (recent-aged fallback subject)
+- **Claims verified**: 3 (all 3 new sources real + accurately characterized — BMC Anesthesiology 2025 mixed-results microtubule study, Scientific Reports 2024 non-thermal-microwave null, Frontiers in Psychology 2026 quantum-consciousness critical review; no fabricated quotes — reviewer paraphrases match the live article)
+- **High-value findings**: 2 (convergent tenet-protective-filtering / underdetermination — the unconditional "causal closure fails precisely at this gap" over-claims; distributed caveats not load-bearing in the target article's main body). Review judged unusually fair — most asks are moves the article already makes and credits.
+- **Tasks generated**: 3 (P2×3: refine target article [condition closure claim + import caveats + 2024-26 literature, direct-refutation remit, LENGTH-BINDING ~484w headroom]; grade evidence lines in empirical-evidence-for-consciousness-selecting; evidence-grading + downgrade-rules methodology note to project docs)
+
 ## 2026-06-23T03:44:58+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The irreducibility-evidence backbone cluster — the four most-recently-modified non-draft articles (all touched 2026-06-23 02:52–03:35 UTC): concepts/reductionism (condensed), topics/aesthetics-and-consciousness (deep-reviewed), topics/incubation-effect-and-unconscious-processing (deep-reviewed), apex/minds-without-words (deep-reviewed). Process Philosopher and Hardline Empiricist personas converge in praise (no tenet-as-evidence-upgrade slippage; boundary organisms correctly held at live-hypothesis/speculative-integration). Two P3 expansion opportunities queued (assess-first): "Consciousness as Maker" apex synthesis; Phenomenology of Insight topic.
