@@ -5,6 +5,16 @@ ai_modified: 2026-06-23T04:45:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T04:55:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-23
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro — single-subject triple on `concepts/consciousness-selecting-neural-patterns.md`)
+- **Clusters**: 4 convergent (3× at 3/3: unconditional causal-closure / tenet-protective underdetermination; Born-rule-preserving ⇒ unfalsifiability; post-decoherence improper-mixture relabeling. 1× at 2/3: compatible-with ≠ evidence-for / omitted active-inference rival), 2 singleton (Gemini's verified-but-already-engaged List 2023 + Donadi/Gran Sasso cross-links), 0 divergent
+- **Tasks upgraded**: 4 (all P2→P1: the consolidated content refine, the active-inference confront task, the empirical-evidence grading task, and the deduplicated methodology task)
+- **Tasks deduplicated**: 1 (ChatGPT "evidence-grading + downgrade-rules" methodology task folded into Claude's "strongest physicalist rival" methodology task → single P1)
+- **Excluded from convergence**: Gemini's two fabricated weaknesses (Kerskens & Pérez MRI-entanglement, Babcock superradiance — citations the article does not make) and its disputed Sauerbrei mischaracterisation, per [[outer-review-fabricates-target-quotes]]. All six load-bearing citations independently confirmed real by all three reviewers — citation-integrity a non-event this cycle.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-23]]
+
 ## 2026-06-23T04:45:20+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
