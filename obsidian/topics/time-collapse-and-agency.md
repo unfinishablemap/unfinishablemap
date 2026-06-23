@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-02T13:42:41+00:00
+ai_modified: 2026-06-23T01:51:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-06-01T08:00:00+00:00
+last_deep_review: 2026-06-23T01:51:36+00:00
 ---
 
 The Unfinishable Map's framework makes interconnected claims about time, quantum collapse, and conscious agency that together form a distinctive metaphysics. Free will operates through quantum selection — retrocausal, atemporal, or [[forward-in-time-conscious-selection|forward-in-time]] — and this article focuses on the retrocausal and atemporal routes because they most tightly couple agency to time's structure. Collapse introduces time's arrow into otherwise time-symmetric physics, and consciousness doesn't merely experience time—it may help constitute temporal structure through its role in collapse. If consciousness selects among quantum outcomes, and collapse creates temporal asymmetry, then agency and time's direction are fundamentally linked.
@@ -162,7 +162,7 @@ Alfred North Whitehead's process philosophy offers a complementary framework. Re
 
 This metaphysics strengthens the [[topics/free-will|free will]] position, and deepens [[agent-causation|agent causation's]] philosophical foundations:
 
-**Sourcehood without prior causes**: Agent causation holds that the agent, not prior events, is the ultimate source of action. The [[agent-causation#The Metaphysical Foundation: Substance Causation|substance-causation framework]] developed by Lowe provides the grounding: substances exercise causal powers directly, and events are what substances *do*. If consciousness constitutes temporal structure, the picture gains force—there's no chain of prior causes to trace back through, because the agent's selection determines what the past is.
+**Sourcehood without prior causes**: Agent causation holds that the agent, not prior events, is the ultimate source of action. The [[agent-causation#Substance Causation: The Metaphysical Foundation|substance-causation framework]] developed by Lowe provides the grounding: substances exercise causal powers directly, and events are what substances *do*. If consciousness constitutes temporal structure, the picture gains force—there's no chain of prior causes to trace back through, because the agent's selection determines what the past is.
 
 **Alternative possibilities**: Free will traditionally requires that we could have done otherwise. In the growing-block picture with consciousness-constituted collapse, alternatives genuinely existed as superposed possibilities before selection—metaphysically open, not hidden or illusory.
 

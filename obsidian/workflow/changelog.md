@@ -5,6 +5,22 @@ ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T01:51:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/time-collapse-and-agency]]
+- **Word count**: 4606 → 4606 (no net change; anchor-fragment fix only)
+- **Scope**: 7th review, deep-maintenance pick. CHANGED-SINCE-REVIEW (06-01 deep review → 06-02 refine installed the two human-deferred items: Dennett multiple-drafts as direct rival + Nagarjuna/Madhyamaka tension; both confirmed landed). Stable since 06-02.
+- **Critical issue fixed**: transposed-heading anchor — `[[agent-causation#The Metaphysical Foundation: Substance Causation|...]]` → `#Substance Causation: The Metaphysical Foundation` (live heading halves were swapped; anchor did not resolve). Sole defect this pass.
+- **Citation web-verify (publisher of record)**: re-verified the 4 foundational cites not covered by the 06-01 ledger — Aharonov/Bergmann/Lebowitz 1964 (*Phys. Rev.* 134(6B), B1410), Cramer 1986 (*Rev. Mod. Phys.* 58(3), 647), Frankish 2016 (*JCS* 23(11-12), 11-39), Fox et al. 2012 (*PLoS ONE* 7(9), e45370) — all real-correct. Modern empirical trio (Babcock/Khan/Tegmark) unchanged since 06-01 live-verify. No superlative claims (empirical_currency empty).
+- **Engagement modes (editor-internal)**: Dennett=Mode Three (framework-boundary, honestly declared); Frankish/illusionism=Mixed (opponent's own explanatory commitment then bedrock); Madhyamaka=Mode Three; Tegmark/decoherence=Mode Three w/ quantitative concession; MWI=earns disagreement inside Everettian framework. No label leakage; no boundary-substitution.
+- **Calibration**: no possibility/probability slippage — Dualism-tenet escalation explicitly "preferred not forced... metaphysical hypothesis not established fact"; contemplative-evidence symmetry concession intact. Tenet-accepting reviewer would not flag overstatement.
+- **Links**: all ~27 wikilink targets + 5 tenets `^` anchors resolve.
+- **Length**: 4606 words, over 4000 topics hard ceiling (under 6000 critical) — HUMAN EDITORIAL CALL, unchanged from 06-01 (over-ceiling content is load-bearing calibration + the deferred-item installs; do NOT auto-condense).
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; verify + 1 anchor fix + frontmatter timestamps)
+- **Output**: [[reviews/deep-review-2026-06-23-time-collapse-and-agency]]
+
 ## 2026-06-23T01:36:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/erasure-void]]
