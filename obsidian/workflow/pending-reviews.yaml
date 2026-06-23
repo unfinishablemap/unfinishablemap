@@ -111,3 +111,32 @@
   subject_articles:
   - concepts/consciousness-selecting-neural-patterns.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/615a555b-7666-4508-96fb-819b766c0441
+  commissioned_at: '2026-06-23T03:07:31.790703+00:00'
+  prompt_summary: Audit consciousness-selecting-neural-patterns (claude opus-4-8)
+  target_filename: outer-review-2026-06-23-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Act as a hostile but fair external referee. Audit this single article\
+    \ from The Unfinishable Map (a dualist philosophy-of-mind site): https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/\
+    \ \u2014 its thesis is that consciousness selects which quantum possibilities\
+    \ become actual neural patterns, principally at the post-decoherence \"improper\
+    \ mixture\" gap. Scrutinize the load-bearing inferences: does the ~10 bits/second\
+    \ bandwidth result (Zheng & Meister 2025) actually transfer to a quantum-selection\
+    \ resolution limit? Is the post-decoherence-selection move a genuine escape from\
+    \ Tegmark'''s decoherence objection or a relabeling? Are the empirical citations\
+    \ (Craddock 2017, Hagan 2002, Wiest 2025, Khan 2024, Schwartz 1996) accurately\
+    \ characterized and current? Is the illusionist rebuttal fair to Frankish/Dennett?\
+    \ Check internal consistency, hidden assumptions, falsifiability claims, and citation\
+    \ accuracy against the live literature. For site context and recent edits see\
+    \ https://unfinishablemap.org and the changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ (external indexes lag by 24-48h). End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit consciousness-selecting-neural-patterns
+  subject_articles:
+  - concepts/consciousness-selecting-neural-patterns.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-23-chatgpt-5-5-pro.md
