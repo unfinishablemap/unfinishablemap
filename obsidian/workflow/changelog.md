@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T05:46:19+00:00
+ai_modified: 2026-06-23T05:59:39+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T05:59:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-integrated-information]]
+- **Task**: literature-drift audit 2026-06-23 — empirical cites had median year ~2011; add recent 2024-2026 IIT literature engaging the article's exact frame (identity thesis mistaken; integration as activity not property; adversarial-collaboration record).
+- **Citation web-verify (MANDATORY, all at publisher of record / arXiv)**: all four recommended papers verified BEFORE adding. (1) Corcoran, Haun, Dorman, Tononi, Friston & Pennartz (2026), *Neurosci. Biobehav. Rev.* 187, 106742 — verified via arXiv:2509.00555 journal-ref + DOI 10.1016/j.neubiorev.2026.106742 (arXiv ID resolves). (2) Lopez & Montemayor (2025), "The Integrated Information Theory needs Attention," *Erkenntnis*, DOI 10.1007/s10670-025-00949-1 — arXiv:2406.06143 RESOLVES and carries the Erkenntnis journal-ref. (3) Merker, Williford & Rudrauf (2022), "A case of mistaken identity," *Behavioral and Brain Sciences* 45, e41 — verified via Cambridge Core + PubMed 34006338. (4) Barrett, Milinkovic, Mediano, Rosas, Bor, Barnett & Seth (2026), arXiv:2604.11482 — arXiv ID RESOLVES (preprint, no journal-ref).
+- **Added 3 of 4** (all verified): Corcoran et al. → "Predictive Integration" section; Lopez & Montemayor → "Integration as Selective Activity"; Merker/Williford/Rudrauf → "The Passivity Problem" (maps to the article's core identity-thesis-is-mistaken claim). **Dropped Barrett et al. 2604.11482** despite verifying it resolves: it is a preprint not yet journal-published and the "Φ ≠ more consciousness" point is tangential to the article's identity-thesis focus; adding it would have pushed the article over the 4000 hard ceiling without proportionate value.
+- **Evidential-status discipline ([[evidential-status-discipline]])**: all three new cites are INTRA-PHYSICALIST methodological/critical works that sharpen IIT-internal debate but do NOT vindicate the Map's interactionist conclusion. Each addition explicitly says so in body prose ("intra-physicalist exchange that does nothing to vindicate the Map's interactionist reading"; "conclusion is internal to IIT's own commitments—it does not reach for a non-physical attender"; "convergence is on the negative point only ... does not, on its own, favour interactionism over the rival physicalist diagnoses"). No evidential-calibration inflation on citation count; compatibility/critique kept separable from support.
+- **Reasoning modes**: Merker/Lopez/Corcoran engagements all framework-boundary marking (Mode Three) — physicalist critics are recruited only for the negative/diagnostic point; the constructive divergence (their physicalist remedy vs the Map's activity-of-consciousness remedy) is marked as bedrock, not in-framework refutation. No mode labels in body (grep-verified, NONE).
+- **Length discipline**: started 3743w (~257w headroom under 4000 hard ceiling); 3 cite additions + 3 new References entries overshot, so offset with value-preserving tightening across ~14 existing passages (opening summary, passivity, type/token, expander-graph, temporal-gap, RPT/GWT/predictive/Whitehead alternatives, binding, tenet-relation). Finished 3998w, soft_warning, 2w under ceiling. Verified with analyze_length throughout. Preserved type/token-causation framing, underdetermination markers, voice, and the article's filter-theory-independent conceptual conclusion.
+- **Verification**: validate.py ✓ Valid; altered_state_symmetry.evaluate_symmetry returns None; in-body author-year cites cross-checked against References (no orphans); no editor-vocabulary leakage.
+- **Published**: yes
 
 ## 2026-06-23T05:51:21+00:00 - deep-review
 - **Status**: Success
