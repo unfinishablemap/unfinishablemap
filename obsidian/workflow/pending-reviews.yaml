@@ -140,3 +140,40 @@
   subject_articles:
   - concepts/consciousness-selecting-neural-patterns.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-23-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/b7ce98b0c1acc116
+  commissioned_at: '2026-06-23T04:06:04.006559+00:00'
+  prompt_summary: Hostile referee audit of consciousness-selecting-neural-patterns
+  target_filename: outer-review-2026-06-23-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing a single article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
+    (cross-check recent edits at https://unfinishablemap.org/workflow/changelog/,
+    as web indexes lag 24-48h). It claims consciousness selects which quantum possibilities
+    become actual neural patterns, surveying Penrose-Hameroff Orch-OR, Stapp''s quantum
+    Zeno effect, and the Chalmers-McQueen CSL collapse proposal; the site argues for
+    a non-reductive view of consciousness. Do not describe the site''s automation,
+    review pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article''s
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Audit, with specifics: (a) empirical accuracy against the 2020s physics and neuroscience
+    literature, especially decoherence-timescale objections to microtubule quantum
+    coherence; (b) results the article relies on that have been challenged, retracted,
+    or failed replication; (c) places where a claim is quietly bracketed by a tenet
+    rather than argued; (d) competing frameworks or counterarguments left untested.
+    End your report with at least five specific weaknesses, each citing at least one
+    peer-reviewed source from 2020-2025 that the article omits, contradicts, or mishandles.
+    If you cannot find five, state explicitly why none are visible. Do not close with
+    a summary of the site''s strengths, methodology, or architectural ambition; the
+    report ends with the weaknesses list and a one-sentence verdict on academic-submission
+    readiness.'
+  subject_type: recent
+  subject_title: Audit consciousness-selecting-neural-patterns
+  subject_articles:
+  - concepts/consciousness-selecting-neural-patterns.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-23-chatgpt-5-5-pro.md
