@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T01:18:46.583790+00:00'
-session_count: 12935
-cycle_position: 9816
+last_updated: '2026-06-23T01:25:30.724011+00:00'
+session_count: 12936
+cycle_position: 9817
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T21:29:00.240046+00:00'
   optimistic-review: '2026-06-22T22:39:32.067604+00:00'
   check-tenets: '2026-06-22T20:05:05.753355+00:00'
   check-links: '2026-06-22T19:59:45.237607+00:00'
-  deep-review: '2026-06-23T01:00:44.000746+00:00'
+  deep-review: '2026-06-23T01:25:30.724011+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-22T20:01:28.001758+00:00'
   coalesce: '2026-06-22T23:36:31.552797+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 413
-  reviews_completed: 5653
+  reviews_completed: 5654
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-22'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-23'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-23'
   outcome: success
 agentic_social:
@@ -1328,47 +1328,49 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 570
-  last_replenishment: '2026-06-23T01:12:00+00:00'
+  last_replenishment_run: 571
+  last_replenishment: '2026-06-23T01:29:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.570 (2026-06-23T01:12Z): MINTED 1 genuine-drift
-    deep-review (topics/born-rule-and-the-consciousness-interface.md), floor restored
-    2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2 PRE-mint
-    / =3 POST-mint (both verified). The two counted P2s pre-run: entropic-brain-hypothesis
-    cross-links + parapsychology-firewall cross-links (both still open above Completed);
-    the prior runs two counted P2s combination-problem deep-review + predictive-self-binding
-    integrate-orphan were PICKED + executed this cycle (commits b9957586e + 55195ba12,
-    now done below the Completed header), dropping the live floor 3->2; the three
-    veto-tagged condenses are parser-excluded. Documented replenish-at-floor alternation
-    (unfin_loop_steady_state), NOT deadlock: last loop tasks were deep-review 01:00Z
-    + embed-videos 01:03Z, both AFTER the prior replenish 00:48Z. NO open P3 left
-    to promote -- both prior-available P3s (entropic-brain, parapsychology-firewall)
-    already promoted to P2 -- so floor-restore-by-promotion is exhausted; lowest-churn
-    move is a genuine-drift verification deep-review. ALL 8 sources re-audited from
-    LIVE DISK, all exhausted of clean genuine-MINT candidates EXCEPT this one: (chain)
-    zero research-topic/expand-topic/cross-review completions in recent_tasks. (unconsumed
-    research) ZERO -- all 12 newest notes disk-confirmed consumed into live articles.
-    (genuine-drift) 149 ai_modified>last_deep_review candidates but top tier ALL git-verified
-    COSMETIC cross-touches (embodied-cognition just-refined this cycle; indexical-identity=egocentric-presentism
-    expand; phenomenal-value-realism=the-sublime expand; machine-consciousness=deep-computational-markers
-    expand; normativity-of-reason/inaccessible-past/creative-aesthetic-void/volitional-control/moral-responsibility/personal-identity=sibling
-    reciprocal cross-link repairs) -- over-review churn per deep_review_over_reviews_converged.
-    THE clean genuine-own-body exception is born-rule: last deep-reviewed 2026-06-05
-    but own-body content-edited 2026-06-22 by TWO refine commits (2c59225a6 empirical-precision
-    fixes [git-verified 3 ins/3 del in its own body] + 94836008c Gleason/Born-rule
-    framing), UNVERIFIED by deep-review. (staleness >=30d) ZERO content articles past
-    30d without a deep-review (only positions/ files surface, not deep-review targets).
-    (orphan/length) orphaned_files=0; every content length offender human-deferred
-    / veto / accept-as-survey / marginal-protected -- NO clean mintable condense candidate.
-    (gap/caps) topics 279/320 + concepts 267/320 + positions 8/80 have headroom but
-    generation harvester-governed + gap-analysis Vetoed-bank-dedup-blocked. (positions)
-    8 entries (<10 audit threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex)
-    3 applied apex extant, no cluster gap. The born-rule deep-review MUST be strictly
-    LENGTH-NEUTRAL: body 5118w over the topics 4000 hard ceiling, under a standing
-    HUMAN LENGTH DECISION on protected calibration content -- verify the two refines
-    citations/framing only (Gleason 1957, Born-preprint status, 10 bits/s bound, entanglement-binding
-    hedge), do NOT condense, do NOT queue a follow-on condense (human-decision-task-mispicked-as-refine).
-    Inserted at top of Active Tasks to defeat LIFO. Superseded run-569 note follows.'
+  current_replenishment_note: 'run no.571 (2026-06-23T01:29Z): MINTED 1 genuine-drift
+    deep-review (voids/erasure-void.md), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
+    PRE-mint / =3 POST-mint (both verified). The two counted P2s pre-run, both still
+    open above the Completed header: entropic-brain-hypothesis cross-links + parapsychology-firewall
+    cross-links (each a real live-verified inbound-link deficit); the prior run no.570''s
+    minted born-rule deep-review was PICKED + executed by the cycle slot (commit 572226881,
+    now below the Completed header), dropping the live floor 3->2; the three veto-tagged
+    condenses (composition-question-rivals 4106w, meaning-of-life 4160w, phenomenal-output
+    6872w) are parser-excluded. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT deadlock: last loop tasks were deep-review 01:00Z + embed-videos 01:03Z, both
+    AFTER the prior replenish 00:48Z. NO open P3 left to promote -- both prior-available
+    P3s (entropic-brain, parapsychology-firewall) already promoted to P2 -- so floor-restore-by-promotion
+    is exhausted; lowest-churn move is a genuine-drift verification deep-review. ALL
+    8 sources re-audited from LIVE DISK, all exhausted of clean genuine-MINT candidates
+    EXCEPT this one: (chain) zero research-topic/expand-topic/cross-review completions
+    in recent_tasks. (unconsumed research) ZERO -- all 12 newest notes disk-confirmed
+    consumed into live articles. (genuine-drift) born-rule consumed by the cycle slot;
+    a fresh git-numstat classification of all 59 ai_modified>last_deep_review candidates
+    (gap>=5d) found the entire top tier are git-verified COSMETIC cross-touches (+2/-1
+    single-wikilink edits from a DIFFERENT article''s expand/reciprocal-link/repoint
+    pass: indexical-identity=egocentric-presentism expand; inaccessible-past=phenomenology-of-forgetting
+    expand; creative-aesthetic-void/phenomenal-value-realism=sublime expand; embodied-cognition=just-refined
+    this cycle) -- over-review churn per deep_review_over_reviews_converged. THE clean
+    genuine-own-body exception is voids/erasure-void.md: last deep-reviewed 2026-06-03
+    but own-body content-edited 2026-06-10 by refine commit ea2ea56c0, which ADDED
+    TWO NEW citations (Nuhfer et al. 2017 Numeracy 10(1) Art.4; Gignac & Zajenkowski
+    2020 Intelligence 80:101449) + a contested-Dunning-Kruger caveat -- UNVERIFIED
+    by deep-review (coalesce-hides-review-debt sibling). The deep-review must web-verify
+    those two new citations 3-state (ai_citation_metadata_unreliable), confirm the
+    void''s Tenet-1 bounded-witness framing honours evidential-status-discipline,
+    and stay length-neutral (body 2284w soft_warning, voids hard 3000). (staleness
+    >=30d) ZERO content articles past 30d without a deep-review. (orphan/length) orphaned_files=0;
+    every content length offender human-deferred / veto / accept-as-survey / recently-reviewed
+    (reductionism 2026-06-17, consciousness-in-simple-organisms 2026-06-21) -- NO
+    clean mintable condense candidate. (gap/caps) topics 279/320 + concepts 267/320
+    + positions 8/80 have headroom but generation harvester-governed + gap-analysis
+    Vetoed-bank-dedup-blocked. (positions) 8 entries (<10 audit threshold), positions-evolve
+    ran 06:20Z, slow-add. (applied-apex) 3 applied apex extant, no cluster gap. Inserted
+    at top of Active Tasks to defeat LIFO. Expect replenish-at-floor alternation to
+    continue.'
   legacy_run_569_note: 'run no.569 (2026-06-23T00:44Z): PROMOTED 1 well-grounded integrate-orphan
     cross-link task P3->P2 (topics/parapsychology-firewall.md inbound links), floor
     restored 2->3 (now consumed; see run-570 above).'
@@ -1456,971 +1458,6 @@ queue_status:
     resolve) whereas the other two are pure navigational cross-link enrichment. LENGTH
     NOTE: 3416w soft_warning (concepts hard 3500, ~84w headroom); the refine MUST
     be word-neutral-or-trimming. Superseded run-566 note follows.'
-  legacy_run_566_note: 'run no.566 (2026-06-23T00:05Z): PROMOTED 1 well-grounded integration
-    task P3->P2 (topics/predictive-self-binding-and-the-naturalist-challenge.md inbound
-    cross-links), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
-    PRE-promotion / =3 POST-promotion (the two queued genuine-drift deep-reviews luck-objection
-    + combination-problem; the three veto condense P2s -- composition-question-rivals
-    4106w, meaning-of-life 4160w, phenomenal-output 6872w -- selector-excluded; P3
-    tasks do not count toward the floor of 3). Documented replenish-at-floor alternation
-    (unfin_loop_steady_state), NOT a deadlock: prior run no.565 minted a genuine-drift
-    deep-review of apex/machine-question.md which the next cycle slot PICKED + executed
-    (commit 6c02d3ca0, now in Completed), then the loop deep-reviewed apex/phenomenal-variation-within-a-species.md
-    (last_runs deep-review 2026-06-22T23:58Z) -- both dropped the live floor 3->2
-    (deep_review_over_reviews_converged same-day collision). All 8 sources independently
-    re-audited from LIVE DISK, ALL exhausted of clean genuine-MINT candidates: (chain)
-    recent_tasks zero research-topic/expand-topic/cross-review completions. (unconsumed
-    research) ZERO -- the two newest notes both consumed: letheby->predictive-self-binding-and-the-naturalist-challenge
-    (disk-confirmed), entropic-brain->concepts/entropic-brain-hypothesis (disk-confirmed,
-    own deep-review 2026-06-22); thermal/vestibular/interoceptive->same-slug topics
-    consumed. (length) every content hard/critical offender human-deferred (epistemology-of-convergence
-    6479w, born-rule 5118w, clinical-dissociation 4861w, time-collapse 4606w, laws-and-dispositions
-    4213w), veto (phenomenal-output 6872w, composition-question-rivals 4106w accept-as-survey,
-    meaning-of-life 4160w), index hub (apex-articles 9788w), or recently-condensed/calibration-refined
-    (argument-from-reason 4489w, epistemic-advantages 4400w, valence-and-conscious-selection
-    4103w HUMAN-LENGTH-DECISION) -- NO clean mintable condense candidate (replenish-overmints-condense-vs-accept-as-survey).
-    (orphan) orphaned_files=0. (gap/caps) topics 279/320 + concepts 267/320 have headroom
-    but new-article generation is harvester-governed (harvest ran 2026-06-22T22:04Z)
-    + gap-analysis Vetoed-bank-dedup-blocked. (positions) 8 entries (<10 audit threshold),
-    positions-evolve ran 06:20Z, slow-add. (applied-apex) no high-confidence cluster
-    gap. CRUCIALLY this run found NO unflagged article with substantive own-body deep-review-unverified
-    drift (unlike run 565 which took machine-question apex-evolve integration). EVERY
-    changed-since-review candidate is a git-verified cosmetic cross-touch (indexical-identity-quantum-measurement
-    +22d = single egocentric-presentism cross-link; phenomenal-value-realism/machine-consciousness/normativity-of-reason/volitional-control
-    = 1-4-line sibling-expand/reciprocal-link touches; introspection-architecture-independence-scoring
-    8/8 06-13 change = a prior deep-review OWN citation fix that failed to bump last_deep_review),
-    human-length-deferred (valence-and-conscious-selection), or already-queued (luck-objection,
-    combination-problem). So the honest lowest-churn floor restorer is to PROMOTE
-    the well-grounded predictive-self-binding integration task (REAL deficit: fresh
-    article has only 1 inbound wikilink despite 4 outbound parents) rather than mint
-    a redundant cosmetic-drift deep-review. Left in its existing slot below the two
-    genuine-drift deep-reviews (FIFO within tier; no LIFO-starvation, all three freshly
-    generated). Superseded run-565 note follows.'
-  legacy_run_565_note: 'run no.565 (2026-06-22T23:30Z): MINTED 1 genuine-apex-evolve-drift
-    deep-review task (apex/machine-question.md), floor restored 2->3. Authoritative
-    tools.evolution.task_selector.count_p0_p2_tasks=2 PRE-mint / =3 POST-mint (the
-    two queued deep-reviews luck-objection + combination-problem; the three veto condense
-    P2s -- composition-question-rivals 4106w, meaning-of-life 4160w, phenomenal-output
-    6872w -- selector-excluded; four P3 cross-link/refine tasks do not count toward
-    the floor of 3). Documented replenish-at-floor alternation (unfin_loop_steady_state),
-    not a deadlock: prior run no.564 minted topics/consciousness-and-memory.md which
-    the next cycle slot deep-reviewed (last_runs deep-review 2026-06-22T23:22Z, now
-    at top of Completed), dropping the live floor 3->2 (deep_review_over_reviews_converged
-    same-day collision). All 8 sources re-audited from LIVE DISK: (chain) recent_tasks
-    has zero research-topic/expand-topic/cross-review completions. (unconsumed research)
-    ZERO -- letheby->predictive-self-binding-and-the-naturalist-challenge, entropic-brain->entropic-brain-hypothesis,
-    thermal/vestibular/interoceptive->same-slug topic articles all disk-confirmed
-    consumed. (length) every content hard/critical offender human-deferred (epistemology-of-convergence
-    6479w, born-rule 5118w, clinical-dissociation 4861w, time-collapse 4606w, laws-and-dispositions
-    4213w), veto (phenomenal-output 6872w, composition-question-rivals 4106w accept-as-survey,
-    meaning-of-life 4160w), research/ working note, index hub (apex-articles), or
-    recently-calibration-refined 4000-4100w topic (refine-then-condense churn) --
-    NO clean mintable condense candidate (replenish-overmints-condense-vs-accept-as-survey).
-    (orphan) orphaned_files=0. (gap/caps) topics 279/320 + concepts 267/320 have headroom
-    but new-article generation is harvester-governed (harvest-research-subjects ran
-    22:04Z) + gap-analysis Vetoed-bank-dedup-blocked. (positions) 8 entries (<10 audit
-    threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex) no high-confidence
-    cluster gap. So the honest restorer is genuine-own-body drift. CHOSEN apex/machine-question.md
-    -- last_deep_review 2026-06-05T07:39Z but OWN-BODY edited 2026-06-22T20:25Z by
-    commit d0efd973d auto(apex-evolve) integrate deep-computational-markers (single-file,
-    +36/-17 own body + dedicated review file, NOT cosmetic), apex-evolve does not
-    bump last_deep_review so the integration is deep-review-UNVERIFIED (coalesce-hides-review-debt).
-    Rejected higher-drift candidates all git-verified cosmetic cross-touches (indexical-identity-quantum-measurement
-    22.6d egocentric-presentism expand, time-consciousness-growing-block/inaccessible-past/creative-aesthetic-void/phenomenal-value-realism/machine-consciousness
-    sibling-expand/embed/cross-link, three-dimensional-world-rep/attention-as-causal-bridge/minds-without-words
-    4-file reciprocal cross-links). LENGTH 4978w soft_warning (apex hard 5000, ~22w
-    headroom) -- review must be strictly length-neutral-or-trimming. ai_system claude-opus-4-7+claude-opus-4-8
-    (older 4-7 component = extra reason for fresh eyes). NOT vetoed (all 5 todo hits
-    are done headers), no open duplicate. Placed at TOP of Active Tasks to defeat
-    LIFO-starvation (queue-lifo-starvation). Superseded run-564 note follows.'
-  legacy_run_564_note: 'run no.564 (2026-06-22T23:10Z): MINTED 1 genuine-drift deep-review
-    task (topics/consciousness-and-memory.md), floor restored 2->3. Authoritative
-    tools.evolution.task_selector.count_p0_p2_tasks=2 PRE-mint (luck-objection + combination-problem
-    deep-reviews; the three #veto condense P2s -- composition-question-rivals, meaning-of-life,
-    phenomenal-output -- selector-excluded), =3 POST-mint. Documented replenish-at-floor
-    alternation (unfin_loop_steady_state): run-562/563 minted brain-specialness-boundary
-    which the next cycle slot deep-reviewed, dropping the live floor 3->2 (deep_review_over_reviews_converged
-    same-day collision). All 8 sources re-audited from LIVE DISK: (chain) zero unconsumed
-    research-topic/cross-review successors; newest expand-topics carry queued P3 integration
-    successors. (unconsumed research) ZERO -- letheby->predictive-self-binding-and-the-naturalist-challenge,
-    entropic-brain->entropic-brain-hypothesis, thermal/vestibular/interoceptive->same-slug
-    topic articles all disk-confirmed consumed. (length) every content hard/critical
-    offender human-deferred (epistemology-of-convergence 6479w, born-rule 5118w, clinical-dissociation
-    4861w, time-collapse 4606w, laws-and-dispositions; argument-from-reason/epistemic-advantages/agency-void
-    recently git-condensed back up -- protected-calibration), #veto (phenomenal-output
-    6872w, composition-question-rivals 4106w accept-as-survey, meaning-of-life 4160w),
-    or index hub (apex-articles 9788w) -- NO clean mintable condense candidate (replenish-overmints-condense-vs-accept-as-survey).
-    (orphan) orphaned_files=0. (gap/caps) topics 279/320 + concepts 267/320 have headroom
-    but new-article generation is harvester-governed (harvest-research-subjects ran
-    22:04Z) + gap-analysis Vetoed-bank-dedup-blocked. (positions) 8 entries (<10 audit
-    threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex) no high-confidence
-    cluster gap. So the honest restorer is genuine-own-content drift. CHOSEN topics/consciousness-and-memory.md
-    -- last_deep_review 2026-06-03T03:41Z but a SUBSTANTIVE post-review refine 50e3c0177
-    (2026-06-03T16:49Z, AFTER the review) recalibrated the dualist epistemic stance
-    throughout (is->may, the-dualist-answer->offered-as-interpretation, demonstrates->appears-to-show)
-    PLUS d62cf06cb asymmetric cross-link repair -- NONE deep-review-verified. ai_modified
-    2026-06-20T17:32Z (NOT today, not cosmetic). Contrast the REJECTED top drift candidate
-    indexical-identity-quantum-measurement.md (22d) whose only post-review touch (8c29a0db6)
-    is a single inbound-wikilink add from a DIFFERENT article expand-topic (egocentric-presentism)
-    -- cosmetic; likewise time-consciousness-growing-block + creative-aesthetic-void
-    (sibling-expand wikilinks only). Deep-review must verify the hedging did not OVER-soften
-    into vacuity (article must still assert a load-bearing interface claim), web-verify
-    reconsolidation/sleep cites 3-state (ai_citation_metadata_unreliable), currency-sweep,
-    re-grep the reconsolidation-as-selection-window forward-reference for stale-quote
-    drift (apex-stale-internal-quote-channel), and respect the topics 4000 hard ceiling
-    (3891w soft_warning -- net-additive review must NOT push over; divert genuine
-    over-ceiling expansion to a human length decision). Tenet 3 load-bearing. Placed
-    at TOP of Active Tasks to defeat LIFO-starvation (queue-lifo-starvation). Superseded
-    run-562 note follows.'
-  legacy_run_561_note: 'run no.561 (2026-06-22T21:44Z): MINTED 1 genuine-own-body-drift
-    deep-review task (apex/self-concealing-interface.md), floor restored 2->3. Picked
-    + executed by the cycle slot same session (commit f262608db). Authoritative tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    PRE-mint, =3 POST-mint (the queued staleness deep-reviews concepts/luck-objection
-    + concepts/combination-problem; the #veto condense P2s -- composition-question-rivals,
-    meaning-of-life, phenomenal-output -- are correctly selector-excluded; the four
-    P3 cross-link/refine tasks do not count toward the floor of 3). Below MIN_QUEUE
-    floor 3, unmet by 1 -- documented replenish-at-floor alternation (unfin_loop_steady_state),
-    not a deadlock (run-560 minted concepts/many-worlds.md which was picked + deep-reviewed
-    by the cycle slot, last_runs deep-review now 21:44Z, dropping the live floor 3->2
-    -- deep_review_over_reviews_converged same-day collision). All 8 sources re-audited
-    from LIVE DISK: (chain) zero unconsumed research-topic/cross-review successors;
-    recent expand-topics (predictive-self-binding, entropic-brain) already have queued
-    P3 integration successors. (unconsumed research) ZERO -- six newest notes (letheby,
-    entropic-brain, thermal/vestibular/interoceptive-consciousness, cross-modal-capability-division)
-    all disk-confirmed consumed into live same-slug articles + apex. (length) every
-    hard/critical content-section offender human-deferred (epistemology-of-convergence,
-    born-rule, clinical-dissociation, time-collapse), #veto (phenomenal-output 6989w,
-    composition-question-rivals 4106w accept-as-survey, meaning-of-life 4160w), or
-    index hub (apex-articles) -- NO clean mintable condense candidate (replenish-overmints-condense-vs-accept-as-survey).
-    (orphan) orphaned_files=0. (gap/caps) topics 279/320 + concepts 267/320 have headroom
-    but new-article generation is harvester-governed (last ran 16:00Z, next ~22:00Z)
-    + gap-analysis is Vetoed-bank-dedup-blocked. (positions) 8 entries (<10 audit
-    threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex) no high-confidence
-    cluster gap. So the honest restorer is genuine-own-body-drift deep-review (ai_modified
-    > last_deep_review, not-today, SUBSTANTIVE same-file body diff git-verified --
-    NOT a cosmetic cross-touch). CHOSEN apex/self-concealing-interface.md -- last_deep_review
-    2026-06-06 but TWO own-body content operations since, neither deep-review-verified:
-    (1) 2026-06-16 coalesce 382167619 MERGED new memory-channel-vulnerability / graded-channel-failure
-    / recovery-order-asymmetry / direction-of-interface-change prose into the body
-    (coalesce-hides-review-debt-and-regresses-fixes -- merged content arrives UNREVIEWED;
-    here last_deep_review 06-06 precedes the 06-16 coalesce so the debt is honest),
-    (2) 2026-06-19 apex-evolve synthesis 33030521f (git-verified 9 ins/5 del, a real
-    synthesis pass NOT the apex-last-synthesis-drift-artifact). Drift ~13d, ai_contribution=100,
-    ai_system claude-opus-4-7 (older model). Review must scrutinise the coalesce-merged
-    paragraphs (no-critical-issues suspect on coalesce prose), web-verify any grafted
-    citations 3-state, currency-sweep the degradation-order generalisation, confirm
-    framework-internal-weight register holds. Body 3498w = ok (apex hard 5000, comfortable
-    headroom). NOT vetoed, no open deep-review/condense duplicate (grep-confirmed).
-    Tenet-1 (Dualism) + Tenet-3 (Bidirectional Interaction) load-bearing. Placed at
-    TOP of Active Tasks to defeat LIFO-starvation. Superseded run-560 note follows.'
-  legacy_run_560_note: 'run no.560 (2026-06-22T21:39Z): MINTED 1 genuine-drift deep-review
-    (concepts/many-worlds.md, last_deep_review 2026-06-01 / own-body content-edited
-    2026-06-14 by fb83275e8 which SOFTENED an overstated Born-rule-derivation claim
-    to "contested rather than closed"; Tenet-4/5 load-bearing, deep-review-UNVERIFIED;
-    body 3337w soft_warning), floor restored 2->3. Picked + executed by the cycle
-    slot same session. Full 8-source audit recorded in git history.'
-  legacy_replenishment_note: 'run no.556 (2026-06-22T20:42Z): NO-MINT. Authoritative
-    live count_p0_p2_tasks(content) = 1 -- the sole genuinely-pickable P0-P2 header
-    is the run-554 deep-review mint concepts/phenomenal-overflow.md (last_deep_review
-    2026-06-02 / own-body-edited 2026-06-22 by commit 5bb1693c4, genuine phenomenal-presentation
-    integration drift 20.3d, still live + un-consumed, status pending). Below MIN_QUEUE
-    floor 3 (cycle_pick.py MIN_QUEUE_TASKS=3), unmet by 2 -- the documented replenish-at-floor
-    plus deep-review/refine-cycle-collision alternation (unfin_loop_steady_state plus
-    deep_review_over_reviews_converged), NOT a deadlock. Since run 555 (which counted
-    2) the cycle refine slot CONSUMED the standing refine-draft "Adopt attention-as-interface
-    calibration in predictive-processing-and-dualism" (commit 6aeaccde4, last_runs
-    refine-draft 20:38Z AFTER replenish-queue 20:34Z), dropping the live floor 2->1.
-    ALL 8 sources re-audited from live disk, NO safe restorer: (1 chain) recent_tasks
-    has ZERO research-topic/cross-review completions; the one recent expand-topic
-    (predictive-self-binding-and-the-naturalist-challenge) already has its P3 inbound-cross-link
-    successor queued. (2 unconsumed research) ZERO -- the six newest notes (letheby,
-    entropic-brain, thermal, vestibular, interoceptive, cross-modal) all disk-confirmed
-    consumed into live same-slug articles/apex (letheby consumed into topics/predictive-self-binding-and-the-naturalist-challenge.md,
-    slug differs from note filename). (3 gap) caps headroom (topics 279/320, concepts
-    267/320, positions 8/80) but voids 101/100 OVER + the research->expand pipeline
-    is harvester-governed (last run 16:00Z, interval-gated ~6h, next ~22:00Z) + replenish
-    gap candidates dedup against the 572-entry Vetoed bank. (4 staleness/genuine-drift)
-    the ONLY article with a genuine post-review OWN-BODY conceptual edit is phenomenal-overflow.md
-    -- ALREADY queued by run 554. Every higher-drift-score candidate is a STALE-FIELD
-    artifact (apex-last-synthesis-drift-artifact / replenish-false-exhaustion-mislabeled-drift):
-    git-verified this run -- indexical-identity-quantum-measurement (22d; last touched
-    by commit 8c29a0db6, an expand-topic of a DIFFERENT article egocentric-presentism
-    -- spillover cross-link, not own-body), self-construction-constructor (21d; last
-    touched by embed-videos trigger c3ff0277d -- cosmetic video embed), minds-without-words
-    (17d; last touched by a deep-review of a DIFFERENT article animal-consciousness
-    cf7757b17 -- cross-link spillover, and it is a recently-apex-evolved apex), machine-question
-    / three-dimensional-world-representation-problem / attention-as-causal-bridge
-    (all prose+0/+1 cross-link-only or cosmetic apex-evolve). Genuinely-edited drift
-    candidates excluded for other reasons: born-rule-and-the-consciousness-interface
-    (HUMAN-DEFERRED flagship over hard ceiling), synesthetic-void (genuine 06-17 refines
-    but HUMAN-LENGTH-DEFERRED). (5 orphan) orphaned_files=0. (6 length) every hard_warning+
-    content offender is veto / accept-as-survey / HUMAN-deferred / DIVERTED / index-hub:
-    the open condense tasks (composition-question-rivals 4106w, meaning-of-life ~4000w,
-    phenomenal-output-causal-machinery-dissociation 6872w) are #veto selector-excluded;
-    clinical-dissociation 4861w DIVERTED-TO-HUMAN; memory-channel-interface-evidence
-    4296w explicit ACCEPT-AS-SURVEY (replenish-overmints-condense-vs-accept-as-survey
-    guard); epistemology-of-convergence-arguments 6479w + born-rule 5118w + time-collapse-and-agency
-    4606w HUMAN-deferred; argument-from-reason 4489w / epistemic-advantages-of-dualism
-    4400w are hard_warning (NOT critical, <6000) ai_contribution=100 -- no genuine
-    restorer + calibration-regression/over-mint risk, not minted. (7 positions) slow-add,
-    audited 2026-06-22T06:20, no implied-but-unregistered claim from the last cycle.
-    (8 applied-apex) no high-confidence cluster gap. Floor will self-restore via the
-    harvester reopening research->expand ~22:00Z or the next cycle''s natural alternation.
-    Superseded run-555 note follows.'
-  superseded_555_replenishment_note: 'run no.555 (2026-06-22T20:30Z): NO-MINT. Authoritative
-    live count_p0_p2_tasks(content) = 2 (the two genuinely-pickable P2s: refine-draft
-    "Adopt attention-as-interface calibration in predictive-processing-and-dualism"
-    from the 2026-06-22 topic-concept anchoring audit + the run-554 deep-review mint
-    concepts/phenomenal-overflow.md, last_deep_review 2026-06-02 / ai_modified 2026-06-22,
-    still live and un-consumed). Below MIN_QUEUE floor 3 (cycle_pick.py MIN_QUEUE_TASKS=3),
-    unmet by 1 -- the documented replenish-at-floor + deep-review-cycle-collision
-    alternation ([[unfin_loop_steady_state]] + [[deep_review_over_reviews_converged]]),
-    NOT a deadlock. Run 554 restored the floor to 3 at 19:30Z by minting the phenomenal-overflow
-    deep-review; since then the cycle deep-review slots CONSUMED the two standing
-    Torres-Alegre-vein P1 deep-reviews -- apex/interface-specification-programme (reviewed
-    19:40:57Z, todo line 1235 now marked done) + concepts/delegatory-causation (reviewed
-    20:21:59Z, todo line 1231 now marked done) -- dropping the live floor 3->2. ALL
-    8 sources re-audited from live disk, NO safe restorer: (1 chain) recent_tasks
-    has ZERO research-topic/cross-review completions; the one recent expand-topic
-    (predictive-self-binding-and-the-naturalist-challenge) already has its P3 inbound-cross-link
-    successor queued. (2 unconsumed research) ZERO -- the six newest notes (letheby,
-    entropic-brain, thermal, vestibular, interoceptive, cross-modal) all disk-confirmed
-    consumed into live same-slug articles/apex. (3 gap) caps headroom (topics 279/320,
-    concepts 267/320, positions 8/80) but voids 101/100 OVER + the research->expand
-    pipeline is harvester-governed (last run 16:00Z, interval-gated ~6h, next ~22:00Z)
-    + replenish gap candidates dedup against the 572-entry Vetoed bank. (4 staleness/genuine-drift)
-    the ONLY article with a genuine post-review OWN-BODY conceptual edit is phenomenal-overflow.md
-    -- ALREADY queued by run 554. Every higher-drift-score candidate is a STALE-FIELD
-    artifact ([[apex-last-synthesis-drift-artifact]] / [[replenish-false-exhaustion-mislabeled-drift]]):
-    git-diff-verified prose+0/+1 cross-link reciprocation, expand-topic sibling-spillover,
-    or embed-videos / apex-evolve cosmetic triggers, NOT genuine body drift. Specifically
-    audited & rejected: indexical-identity-quantum-measurement (22.6d score, sole
-    post-review change = one egocentric-presentism cross-link line), self-construction-constructor
-    (embed-videos + apex-evolve-trigger), machine-question (06-22 apex-evolve "integrate
-    deep-computational-markers" is length-neutral COSMETIC copy-editing apex->synthesis/piece
-    + one cross-link, no new claim), consciousness-and-the-normativity-of-reason /
-    consciousness-and-memory / interoceptive-void / time-consciousness-growing-block
-    / inaccessible-past / attention-as-causal-bridge / three-dimensional-world-representation-problem
-    (all prose+0/+1 cross-link-only). Genuinely-edited drift candidates that ARE excluded
-    for other reasons: synesthetic-void (genuine 06-17 refines but HUMAN-LENGTH-DEFERRED
-    06-17), born-rule-and-the-consciousness-interface (HUMAN-DEFERRED flagship over
-    hard ceiling). (5 orphan) 0. (6 length) every hard_warning+ offender is veto /
-    accept-as-survey / HUMAN-deferred / DIVERTED: the three open condense tasks (composition-question-rivals,
-    meaning-of-life, phenomenal-output-causal-machinery-dissociation) are #veto selector-excluded;
-    clinical-dissociation DIVERTED-TO-HUMAN; memory-channel-interface-evidence explicit
-    ACCEPT-AS-SURVEY ([[replenish-overmints-condense-vs-accept-as-survey]] guard);
-    consciousness-and-the-metaphysics-of-laws-and-dispositions DEFERRED-TO-HUMAN;
-    time-collapse-and-agency under HUMAN LENGTH DECISION 06-12 (4606w); argument-from-reason
-    / epistemic-advantages-of-dualism / valence-and-conscious-selection are hard_warning
-    (NOT critical, all <6000) ai_contribution=100 with only T00:00:00-placeholder
-    1-4d drift -- no genuine restorer + calibration-regression/over-mint risk, so
-    not minted. (7 positions) slow-add, audited 06-22T06:20, no implied-but-unregistered
-    claim from the last cycle. (8 applied-apex) no high-confidence cluster gap. Floor
-    will self-restore via the harvester reopening research->expand ~22:00Z or the
-    next cycle''s natural alternation. Superseded run-554 note follows.'
-  superseded_554_replenishment_note: 'run no.554 (2026-06-22T19:30Z): FLOOR-RESTORED
-    by a single genuine Source-4 (staleness genuine-own-body-drift) deep-review mint
-    of concepts/phenomenal-overflow.md. Authoritative live count_p0_p2_tasks(content)
-    = 2 pre-mint (the two standing Torres-Alegre-vein P2 deep-reviews: apex/interface-specification-programme
-    run 539 + concepts/delegatory-causation run 538, both still open above ## Completed;
-    the three #veto condense tasks selector-excluded; the four P3 cross-link tasks
-    do not count toward the floor), below MIN_QUEUE floor 3, unmet by 1 -- documented
-    replenish-at-floor + deep-review-cycle-collision alternation (unfin_loop_steady_state
-    + deep_review_over_reviews_converged), NOT a deadlock. Run 553''s mint (concepts/causal-closure.md)
-    was PICKED + consumed by the deep-review CYCLE slot minutes ago (commit 8f4782549,
-    last_runs deep-review 19:30 AFTER replenish-queue 19:22), dropping the live floor
-    from 3 back to 2. ALL 8 sources re-audited from live disk, no other safe restorer:
-    (chain) recent_tasks'' only recent expand-topic completions (predictive-self-binding,
-    entropic-brain-hypothesis) already have integration successors queued (the two
-    P3s) + ZERO research-topic/cross-review completions. (unconsumed research) ZERO
-    -- the six newest notes (letheby, entropic-brain, thermal, vestibular, interoceptive,
-    cross-modal) all disk-confirmed consumed into live same-slug articles/apex. (gap)
-    caps headroom (topics 279/320, concepts 267/320, positions 8/80) but voids 101/100
-    OVER + harvester-governed (last 16:00Z, next ~22:00Z) + Vetoed-bank-blocked. (length)
-    NO safe condense -- every offender HUMAN-deferred / #veto / accept-as-survey /
-    index-hub. (orphan) 0. (positions) slow-add, audited 06-22T06:20. (applied-apex)
-    no cluster gap. The prior runs'' Born-rule/Torres-Alegre refine vein is now FULLY
-    CONSUMED: all 12 limbs are either deep-review-verified 2026-06-22 (last_deep_review
-    == ai_modified, disk-confirmed: entanglement-binding, post-decoherence-selection,
-    sleep-and-consciousness, types-of-consciousness, completeness-in-physics, phenomenology-mechanism-bridge,
-    post-decoherence-selection-programme, what-consciousness-tells-us-about-physics,
-    mathematical-structure), already-queued (interface-specification-programme + delegatory-causation),
-    or HUMAN-DEFERRED (born-rule) -- so that vein offers no new restorer. CHOSEN restorer
-    concepts/phenomenal-overflow.md: last deep-reviewed 2026-06-02 but own-body content-edited
-    2026-06-22 by commit 5bb1693c4 (expand-topic adding the new phenomenal-presentation
-    concept) which wove a NEW conceptual claim into the lede body -- "overflow is
-    the claim that what is phenomenally PRESENTED outstrips what is ACCESSED" -- bumping
-    ai_modified to 2026-06-22 NOT last_deep_review, post-review content deep-review-UNVERIFIED
-    (gap ~20.3d). Uniquely right: GENUINE own-body drift (a real conceptual integration,
-    not a cosmetic cross-link), LENGTH-SAFE (1968w body = OK, comfortable headroom
-    under concepts 2500 soft / 3500 hard -- verification review steered length-neutral),
-    Tenet-1 load-bearing (phenomenal/access gap as evidence against reductive access-identity),
-    ai_contribution=100. phenomenal-presentation confirmed live + reciprocates (3
-    backlinks). Dedupe re-verified live: the only ### phenomenal-overflow todo hit
-    is ✓-DONE; NOT vetoed; no open duplicate; cap-safe (deep-review modifies existing
-    content). Live selector AFTER mint = 3, floor restored exactly. Inserted at top
-    of Active Tasks to defeat LIFO. Expect replenish-at-floor + deep-review/expand-topic-cycle-collision
-    alternation to continue until the harvester reopens the research->expand pipeline
-    ~22:00 UTC.'
-  superseded_553_replenishment_note: 'run no.553 (2026-06-22T19:19Z): FLOOR-RESTORED
-    by a single genuine Source-4 (staleness genuine-own-body-drift) deep-review mint
-    of concepts/causal-closure.md (last reviewed 2026-06-03, two genuine own-body
-    refines landed after -- adeca3158 route-vs-direction named-anchor 2026-06-14 +
-    48767c471 Torres Alegre preprint-status candour -- bumping ai_modified NOT last_deep_review,
-    gap ~11d). PICKED + consumed by the deep-review cycle slot minutes later (commit
-    8f4782549, last_runs deep-review 19:30), dropping the floor 3->2 and triggering
-    run 554. Live selector AFTER mint = 3, floor restored exactly.'
-  superseded_552_replenishment_note: 'run no.552 (2026-06-22T19:06Z): FLOOR-RESTORED
-    by a single genuine Source-4 (staleness genuine-own-body-drift) deep-review mint
-    of voids/wholeheartedness-void.md, plus a free Source-1 chain-successor P3 integrate-orphan
-    (no floor inflation). Authoritative live count_p0_p2_tasks(content) = 2 pre-mint
-    (the two standing Torres-Alegre-vein P2 deep-reviews: apex/interface-specification-programme
-    run 539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3, unmet
-    by 1 -- documented replenish-at-floor + expand-topic-cycle-collision alternation
-    (unfin_loop_steady_state), NOT a deadlock. CHAIN-COLLISION: run 551 minted a Letheby
-    predictive-self-binding EXPAND-TOPIC; last_runs.expand-topic 19:03 is AFTER last_runs.replenish-queue
-    18:45, so that expand-topic was PICKED + consumed by the expand-topic cycle slot
-    minutes ago (article topics/predictive-self-binding-and-the-naturalist-challenge.md
-    now on disk, task now ✓-DONE below Completed), dropping the live floor from 3
-    back to 2. ALL 8 sources re-audited live, no other safe restorer: (chain) recent_tasks
-    has the just-consumed Letheby expand-topic whose integration successor this run
-    queues as a free P3 (see below) + ZERO research-topic/cross-review completions.
-    (unconsumed research) ZERO -- the Letheby note is now consumed into the live article;
-    all other newest notes disk-confirmed consumed. (gap) caps headroom (topics 279/320,
-    concepts 267/320, positions 8/80) but voids 101/100 OVER, harvester-governed (next
-    ~22:00Z) + Vetoed-bank-blocked. (length) NO safe condense -- every content offender
-    HUMAN-deferred / #veto / accept-as-survey / recently-condensed-churn-trap / index-hub
-    / deferred-apex; the lone over-hard own-body-drift row (introspection-architecture-independence-scoring
-    4025w) was bumped only by a SIBLING deep-review (cosmetic), is over the 4000 hard
-    ceiling, and would be a length-decision churn trap. (orphan) 0. (positions) slow-add,
-    audited 2026-06-22T06:20. (applied-apex) no cluster gap. GENUINE-DRIFT restorer
-    chosen: voids/wholeheartedness-void.md last deep-reviewed 2026-06-05 but own-body
-    content-edited 2026-06-10 by commit 47fbf269e (Velleman disownability citation-locus
-    correction) -- a refine bumps ai_modified NOT last_deep_review, so the corrected
-    citation locus is deep-review-UNVERIFIED. Cleanest available: citation-heavy agency
-    void (Watson/Velleman/Bratman/Frankfurt/Hsee-Hastie-2006/Loewenstein-2003), ai_contribution=100,
-    older model claude-opus-4-7. Body 3006w = hard_warning (only ~6w over voids 3000
-    hard) so the review is steered STRICTLY length-neutral-or-trimming -- NOT a condense
-    trigger (verification review). Confirmed not vetoed (the lone Vetoed-region wholeheartedness
-    hit is a cross-link mention in the DIFFERENT resolution-void task notes), no open
-    duplicate (the two ### header hits are both ✓-DONE -- the 06-10 Velleman fix that
-    CREATED the drift + the 06-05 prior review), cap-safe (deep-review modifies existing
-    content). FREE CHAIN P3: the just-consumed Letheby expand-topic skipped 4 of its
-    5 mandated inbound links ([[expand-topic-skips-integration-chain]]) -- new article
-    links OUTBOUND to predictive-processing/self-and-self-consciousness/altered-states-of-consciousness/predictive-processing-and-dualism
-    but only psychedelics-and-the-filter-model links back; queued a P3 integrate-orphan
-    to install the four reciprocal inbound links (does NOT count toward the P0-P2
-    floor, so no over-mint). Live selector AFTER mint = 3, floor restored exactly.
-    Both new tasks inserted at top of Active Tasks to defeat LIFO. Expect replenish-at-floor
-    + deep-review/expand-topic-cycle-collision alternation to continue until the harvester
-    reopens the research->expand pipeline ~22:00 UTC.'
-  superseded_551_replenishment_note: 'run no.551 (2026-06-22T18:45Z): FLOOR-RESTORED
-    by a single genuine Source-2 unconsumed-research mint of a P2 expand-topic on
-    Letheby predictive-self-binding (the +60 highest-bonus source, and the exact alternation-breaker
-    run no.550 predicted). Authoritative live count_p0_p2_tasks(content) = 2 pre-mint
-    (the two standing Torres-Alegre-vein P2 deep-reviews: apex/interface-specification-programme
-    run 539 + concepts/delegatory-causation run 538; the three veto condense tasks
-    are selector-excluded, the two P3s + three HUMAN-deferred items do not count),
-    below MIN_QUEUE floor 3, unmet by 1 -- documented replenish-at-floor + deep-review-cycle-collision
-    alternation (unfin_loop_steady_state + deep_review_over_reviews_converged), NOT
-    a deadlock. CHAIN: last_runs.research-topic 18:29 + commit de36ad97a are AFTER
-    last_runs.replenish-queue 18:19, so run 550''s PROMOTED P2 (the Letheby research-topic
-    itself) was PICKED + consumed by the research-topic cycle slot minutes ago, writing
-    obsidian/research/letheby-predictive-self-binding-naturalistic-psychedelics-2026-06-22.md
-    to disk and dropping the live floor from 3 back to 2. CRUCIAL DIFFERENCE FROM
-    RUN 550: run 550 had to PROMOTE a P3 because Source 2 was empty (the Letheby note
-    did not yet exist); its own note predicted completing the research-topic would
-    produce a fresh unconsumed note that re-opens the research-to-expand pipeline
-    and breaks the alternation at its root. That has now happened -- Source 2 is NO
-    LONGER EXHAUSTED, so this run mints the genuine successor rather than churning
-    converged content. The note recommends a standalone topic as its primary angle
-    (a clear PROCEED verdict). Dedupe re-verified live: no live or archived article
-    for letheby/self-binding/self-fictionalism/predictive-self/naturalist-challenge,
-    not vetoed, topics cap headroom (278/320). The other seven sources remain as audited
-    by run 550 (chain has only this consumed research-topic; gap harvester-governed
-    next ~22:00Z + Vetoed-bank-blocked; staleness 30d pool empty; length no safe condense;
-    orphan 0; positions slow-add; applied-apex no cluster gap; genuine-drift = the
-    two standing P2s). Live selector AFTER mint = 3, floor restored. Inserted at top
-    of Active Tasks to defeat LIFO. The research-to-expand pipeline is now OPEN --
-    expect the alternation to ease once this expand-topic is picked and its integration
-    successor chains.'
-  superseded_550_replenishment_note: 'run no.550 (2026-06-22T18:20Z): FLOOR-RESTORED
-    by PROMOTING the existing P3 research-topic Letheby predictive-self-binding to
-    P2 (no new mint -- all eight mint sources genuinely exhausted INCLUDING genuine-drift
-    AND staleness). Authoritative pre-run count_p0_p2_tasks(content)=2 (the two standing
-    Torres-Alegre-vein P2 deep-reviews: apex/interface-specification-programme run
-    539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3, unmet by
-    1 -- documented replenish-at-floor + deep-review-cycle-collision alternation (unfin_loop_steady_state
-    + deep_review_over_reviews_converged), NOT a deadlock. Run 549''s mint (topics/predictive-processing-and-dualism.md
-    genuine own-body drift) was PICKED + consumed by the deep-review CYCLE slot minutes
-    ago (commit 3d8e7de84, last_runs deep-review 18:12 AFTER replenish 17:58), dropping
-    the live floor from 3 back to 2. Eight-source re-audit from live disk, all exhausted:
-    (chain) recent_tasks has ZERO research-topic/cross-review completions; the lone
-    expand-topic (entropic-brain) already had its integration successor minted + consumed.
-    (unconsumed research) ZERO -- four newest notes disk-confirmed consumed. (gap)
-    caps headroom (topics 278/320, concepts 267/320, positions 8/80; voids 101/100
-    OVER) but harvester-governed (last 16:00Z, next ~22:00Z) + Vetoed-bank-dedup-blocked.
-    (staleness >=30d) the converged no-drift pool is now EMPTY (8-deep-review wave
-    cleared the stale tail). (length) NO safe condense -- all content offenders human-deferred
-    / vetoed / accept-as-survey / index-hub / deferred-apex / already-queued; borderline
-    hard-warning rows are churn-traps or cosmetic-drift no-ops. (orphan) 0. (positions)
-    slow-add, ran 06-22T06:20. (applied-apex) no cluster gap. (genuine-drift) the
-    only two genuine own-body refines are ALREADY the two standing P2s; every other
-    high-drift row git-verified cosmetic cross-touch/embed-videos (rejected per replenish-false-exhaustion-mislabeled-drift).
-    CHOSEN ACTION: promote the highest-leverage existing P3 (run no.490 precedent)
-    rather than churn converged content. This P3 is uniquely right because it is GENERATIVE
-    -- completing the research-topic produces a fresh unconsumed research note that
-    re-opens the research->expand pipeline (Source 2, +60 highest bonus), breaking
-    the alternation at its root. Letheby naturalism flagged by outer-review-2026-05-14
-    as the most directly threatening contemporary opponent on altered-states; dedupe
-    re-verified clean (no live/archived article, no note, not vetoed, topics cap headroom).
-    Relocated to top of Active Tasks to defeat LIFO. Live selector AFTER promotion
-    = 3, floor restored. Expect the alternation to continue until the harvester reopens
-    the research->expand pipeline ~22:00 UTC.'
-  superseded_549_replenishment_note: 'run no.549 (2026-06-22T17:55Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of topics/predictive-processing-and-dualism.md.
-    Authoritative live count_p0_p2_tasks(content)=2 pre-mint (the two standing Torres-Alegre-vein
-    P2 deep-reviews: apex/interface-specification-programme run 539 + concepts/delegatory-causation
-    run 538, both still open above ## Completed), below MIN_QUEUE floor 3, unmet by
-    1 -- documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
-    NOT a deadlock. Run 548''s mint (apex/taxonomy-of-voids.md) was PICKED + consumed
-    by the deep-review CYCLE slot minutes ago (now done at line ~1225, last_runs deep-review
-    2026-06-22T17:46), dropping the live floor back to 2 -- the deep_review_over_reviews_converged
-    same-day cycle-collision. ALL 8 sources re-audited from live disk, no other safe
-    restorer: (chain) recent_tasks has ZERO research-topic/cross-review completions;
-    the lone expand-topic (phenomenal-presentation) has its integration successors
-    handled. (unconsumed research) ZERO -- the four newest notes (entropic-brain,
-    thermal/vestibular/interoceptive-consciousness) all disk-confirmed consumed into
-    live same-slug articles. (gap) caps headroom (topics 278/320, concepts 267/320,
-    voids 101/100 OVER, positions 8/80) but harvester-governed (last 16:00Z, next
-    ~22:00Z) + Vetoed-bank-dedup-blocked. (length) NO safe condense -- all content
-    offenders human-deferred (born-rule 5118w, epistemology-of-convergence 6479w,
-    time-collapse 4606w) / #veto (phenomenal-output 6872w, composition-question-rivals
-    4106w accept-as-survey, meaning-of-life 4160w) / index-hub (apex-articles 9788w)
-    / deferred-apex (machine-question 5001w); language-recursion 4702w condense already
-    queued P3. (orphan) 0. (positions) slow-add, audited 06-22T06:20. (applied-apex)
-    no cluster gap. CHOSEN MINT: topics/predictive-processing-and-dualism.md own-body
-    content-edited 2026-06-22T06:51 by commit 762ef789c (refine ''Engage active-inference
-    theory of consciousness as a NAMED rival'') -- a real 44-ins/43-del own-body rewrite
-    (NOT a cross-link bump) ADDING a new ~600-word section ''The Beautiful-Loop Theory:
-    The Strongest Contemporary Rival'' engaging Laukkonen, Friston & Chandaria (2025)
-    as a NAMED physicalist opponent, reframing active inference from adopted-architecture
-    to rival-when-it-becomes-a-theory-of-consciousness. last_deep_review=2026-06-12
-    PREDATES it (10-day genuine drift gap), so the rival-engagement addition + its
-    new 2025 citation are deep-review-UNVERIFIED. Strongest clean non-colliding drift
-    limb (higher-churn rows are multi-file cross-touches/embed-videos). LENGTH-CRITICAL:
-    body 3991w = soft_warning, only ~9w under the 4000 topics hard ceiling -- review
-    MUST be strictly length-neutral or trimming. ai_system claude-opus-4-6+claude-opus-4-8
-    (model-mix). Not vetoed (all 5 slug hits are done tasks), no open duplicate. Inserted
-    at top of Active Tasks to defeat LIFO. Live selector AFTER mint = 3, floor restored.
-    Expect replenish-at-floor + deep-review-cycle-collision alternation to continue
-    until the harvester reopens the research->expand pipeline ~22:00 UTC.'
-  superseded_546_replenishment_note: 'run no.546 (2026-06-22T17:10Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of apex/what-consciousness-tells-us-about-physics.md.
-    Authoritative live count_p0_p2_tasks(content)=2 pre-mint (the two pending deep-review
-    P2s: apex/interface-specification-programme + concepts/delegatory-causation),
-    below MIN_QUEUE floor 3, unmet by 1 -- documented replenish-at-floor alternation
-    ([[unfin_loop_steady_state]]), NOT a deadlock. Run 545''s mint (quantum-biology-and-neural-consciousness.md)
-    was PICKED + consumed by the deep-review CYCLE slot minutes ago (commit bdf39672c,
-    last_runs deep-review now 2026-06-22T17:07), dropping the live floor back to 2
-    -- the deep_review_over_reviews_converged same-day cycle-collision. ALL 8 sources
-    re-audited from live disk, no other safe restorer: (chain) ZERO research-topic/cross-review
-    completions; entropic-brain expand already cross-reviewed+integrated (ee9b19898);
-    parapsychology-firewall refine already deep-review-verified. (unconsumed research)
-    ZERO -- six newest notes all consumed into live same-slug articles + cross-modal
-    apex. (gap) caps headroom (topics 278/320, concepts 267/320, voids 101/100 OVER,
-    positions 8/80) but harvester-governed (last 16:00Z, next ~22:00Z) + Vetoed-bank-dedup-blocked.
-    (length) NO safe condense -- all content offenders human-deferred/#veto/accept-as-survey/index-hub;
-    language-recursion P3 condense already queued. (orphan) 0. (positions) slow-add,
-    audited 06-22T06:20. (applied-apex) no cluster gap. CHOSEN MINT: apex/what-consciousness-tells-us-about-physics.md
-    own-body-edited 2026-06-22T08:28 by the Born-rule preprint-status refine vein
-    (commit 2c59225a6 -- added ''Torres Alegre 2025, a recent arXiv preprint not yet
-    peer-reviewed'' to BOTH the Born-rule-derivations paragraph and References #13),
-    but last_deep_review=2026-06-21 PREDATES it, so the preprint-status calibration
-    is deep-review-UNVERIFIED. Strongest remaining unreviewed limb of the 12-file
-    vein not already queued (interface-spec + delegatory queued) or human-deferred
-    (born-rule 5118w). Length-safe: body 4799w=soft_warning, ~201w under apex hard
-    5000 (review must stay length-neutral/trimming). Not vetoed (the Vetoed-bank hit
-    names this file only as a HOST for a separate HOT refine), no open duplicate.
-    Tenet 2 (Born-rule-not-explained-by-physics) + Tenet 4 (keeps Deutsch-Wallace
-    MWI derivation at arm''s length), ai_system claude-opus-4-6 (older). Inserted
-    at top of Active Tasks to defeat LIFO. Live selector AFTER mint = 3, floor restored.
-    Expect replenish-at-floor + deep-review-cycle-collision alternation to continue
-    until the harvester reopens the research->expand pipeline ~22:00 UTC.'
-  superseded_543_replenishment_note: 'run no.543 (2026-06-22T16:10Z): FLOOR-RESTORED
-    via 1 UNCONSUMED-RESEARCH expand-topic mint (concepts/ page on The Entropic Brain
-    Hypothesis). THE RESEARCH-EXPAND PIPELINE HAS REOPENED -- this run differs from
-    the prior ~5 floor-restores (all genuine-own-body-drift deep-review mints of the
-    Torres-Alegre-preprint refine vein). Authoritative live count_p0_p2_tasks(content)=2
-    pre-mint (the two pending deep-review P2s: apex/interface-specification-programme
-    run 539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3, unmet
-    by 1 -- documented replenish-at-floor alternation, NOT a deadlock. Run 539 predicted
-    the harvester would feed the pipeline ~15:56Z; it then ran (last_runs harvest-research-subjects
-    2026-06-22T16:00Z) and a research-topic completion landed 2026-06-22T16:06Z (commit
-    9d2e0f7f5, Research The Entropic Brain Hypothesis), producing the unconsumed note
-    obsidian/research/entropic-brain-hypothesis-2026-06-22.md. Source 2 (unconsumed
-    research, +60 bonus) is the cleanest restorer -- a genuine chain successor consuming
-    fresh research rather than re-reviewing converged content. Dedupe live-disk verified:
-    NO live/archive/Hugo article on entrop/criticality, NO open Write duplicate, NOT
-    vetoed (Vetoed entrop hits are co-optation-firewall refine notes about REBUS conscription
-    in OTHER articles). Target concepts/ (266/320, 54 slots headroom), matching the
-    originating harvest task intent (EBH should have its own concept page the topic
-    article routes through). Other 7 sources re-audited, no other safe restorer: chain
-    has only the already-queued P3 entropic research-topic + P3 parapsychology successor;
-    gap is harvester-governed + Vetoed-dedup-blocked; voids 101/100 OVER; length NO
-    safe condense (every offender HUMAN-DEFERRED / veto / accept-as-survey / index-hub
-    / deferred-apex); orphan 0; positions 8/80 slow-add audited 06-22T06:20; applied-apex
-    no cluster gap. Inserted at top of Active Tasks to defeat LIFO. Live selector
-    AFTER mint = 3, floor restored. The article fork MUST: apply the co-optation firewall
-    (Carhart-Harris/Friston/Nutt are physicalists -- cite-as-rival, do NOT enlist),
-    foreground entropy/criticality (not the already-covered REBUS/filter ground),
-    web-verify the three founding cites at publisher of record, add inbound links
-    to avoid orphaning, stay under concepts soft 2500w.'
-  superseded_542_replenishment_note: 'run no.542 (2026-06-22T15:45Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of apex/phenomenology-mechanism-bridge.md.
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    pre-mint (the two prior-run deep-review P2s still pending: apex/interface-specification-programme
-    run 539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3 (cycle_pick.py:62
-    MIN_QUEUE_TASKS=3), unmet by 1 -- the documented replenish-at-floor alternation
-    (unfin_loop_steady_state), NOT a deadlock. Run 541''s mint (apex/post-decoherence-selection-programme.md)
-    was PICKED + deep-reviewed by the cycle slot minutes later (commit 7071865c4,
-    last_deep_review now 2026-06-22T15:39Z), so the live floor fell back to 2 -- the
-    documented deep_review_over_reviews_converged same-day cycle-collision. ALL 8
-    sources independently re-audited from live disk, no other safe restorer: chain
-    has ZERO research-topic/cross-review completions + the two recent expand-topics
-    (phenomenal-presentation 6-inbound-link-files, parapsychology-firewall refined
-    8f8f6db61) are integrated (only remaining successor is the parapsychology-firewall
-    P3 connective-enrichment, already queued); unconsumed research ZERO (five most-recent
-    notes disk-confirmed consumed into live same-slug topics/apex); gap caps have
-    headroom (topics 278/320, concepts 266/320) but new-article generation is harvester-governed
-    (last 2026-06-22T09:56Z) and gap-analysis is Vetoed-bank-dedup-blocked; voids
-    101/100 OVER; length NO safe condense (every content-section offender HUMAN-DEFERRED
-    / veto-tagged / accept-as-survey / index-hub / deferred-apex, and accept-as-survey
-    over-mint trap applies to the rest); orphan 0; positions 8/80 slow-add audited
-    2026-06-22T06:20; applied-apex no cluster gap. The chosen mint is the LAST remaining
-    genuine-drift limb (~17.2d, last deep-reviewed 2026-06-05) of the same multi-file
-    empirical-precision refine vein (commit 2c59225a6 -- the Torres Alegre 2025 Born-rule
-    citation now carries the caveat -a recent arXiv preprint not yet peer-reviewed-):
-    own-body content-edited 2026-06-22 in the falsification/causal-consistency-constraint
-    paragraph (refine bumps ai_modified NOT last_deep_review so the preprint-status
-    calibration is deep-review-unverified). Of the vein''s 12 files the others are
-    all already deep-review-verified 2026-06-22 (entanglement-binding, post-decoherence-selection
-    concept+apex, sleep-and-consciousness, types-of-consciousness, completeness-in-physics,
-    mathematical-structure) OR queued above (interface-specification-programme + delegatory-causation)
-    OR HUMAN-DEFERRED (born-rule over hard 5118w). This apex (body 4565w = soft_warning,
-    apex hard 5000, ~435w headroom) -- keep the review length-neutral or trimming.
-    Tenet 2/3 load-bearing. Older model claude-opus-4-6. Not vetoed (the only ###
-    header hit for this file is a ✓ RESOLVED-OBSOLETE 2026-06-07 selection-collision
-    staleness entry, now superseded by the genuine 06-22 refine drift; Vetoed-bank
-    hits are incidental cross-link/apex-source mentions in OTHER tasks notes), no
-    open duplicate. Inserted at top of Active Tasks to defeat LIFO. Live selector
-    AFTER mint = 3, floor restored. Expect replenish-at-floor + deep-review-cycle-collision
-    alternation to continue until the harvester reopens the research->expand pipeline.'
-  superseded_541_replenishment_note: 'run no.541 (2026-06-22T15:31Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of apex/post-decoherence-selection-programme.md.
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    pre-mint (the two prior-run deep-review P2s still pending: apex/interface-specification-programme
-    run 539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3, unmet
-    by 1 -- the documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT a deadlock. Run 540''s mathematical-structure mint was PICKED + deep-reviewed
-    this cycle (last_deep_review now 2026-06-22T15:14Z), so the live floor fell back
-    to 2 -- the documented deep_review_over_reviews_converged same-day cycle-collision.
-    ALL 8 sources independently re-audited from live disk, no other safe restorer:
-    chain has ZERO research-topic/cross-review completions + the two recent expand-topics
-    (phenomenal-presentation, parapsychology-firewall) are integrated with real inbound
-    links (chains satisfied; only remaining successor is the parapsychology-firewall
-    P3 connective-enrichment); unconsumed research ZERO (five most-recent notes disk-confirmed
-    consumed into live same-slug topics/apex); gap caps have headroom (topics 278/320,
-    concepts 266/320) but new-article generation is harvester-governed (last 2026-06-22T09:56Z)
-    and gap-analysis is Vetoed-bank-dedup-blocked; voids 101/100 OVER; length NO safe
-    condense (every content-section offender HUMAN-DEFERRED / veto-tagged / accept-as-survey
-    / index-hub / deferred-apex, and accept-as-survey over-mint trap applies to the
-    rest); orphan 0; positions 8/80 slow-add audited 2026-06-22T06:20; applied-apex
-    no cluster gap. The chosen mint is the LARGEST-drift genuine own-body limb (~19.0d,
-    last deep-reviewed 2026-06-03) of the same multi-file empirical-precision refine
-    vein (commit 2c59225a6 -- the Torres Alegre 2025 Born-rule citation now carries
-    the caveat -a recent arXiv preprint not yet peer-reviewed-): own-body content-edited
-    2026-06-22T09:03 in BOTH the causal-consistency-constraint body paragraph AND
-    References entry #14 arXiv:2512.12636 (refine bumps ai_modified NOT last_deep_review
-    so the preprint-status calibration is deep-review-unverified). Of the vein''s
-    12 files five are already deep-review-verified 2026-06-22; mathematical-structure
-    verified 2026-06-22T15:14; interface-specification-programme + delegatory-causation
-    queued above; born-rule HUMAN-DEFERRED (over hard 5118w). This apex (body 4531w
-    = soft_warning, apex hard 5000, ~470w headroom) is the largest-drift remaining
-    limb; siblings what-consciousness-tells-us-about-physics 4799w (also deep-reviewed
-    only 2026-06-21, re-review risks churn) and phenomenology-mechanism-bridge 4565w
-    sit closer to the hard ceiling. Tenet 2/3 load-bearing. Older model claude-opus-4-6.
-    Not vetoed (the 3 active mentions below the Vetoed header are all incidental cross-link/staleness
-    references inside OTHER vetoed tasks notes -- no header-level veto of a deep-review/condense
-    of this file), no open duplicate. Inserted at top of Active Tasks to defeat LIFO.
-    Live selector AFTER mint = 3, floor restored. Expect replenish-at-floor + deep-review-cycle-collision
-    alternation to continue until the harvester reopens the research->expand pipeline.'
-  superseded_539_replenishment_note: 'run no.539 (2026-06-22T14:59Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of apex/interface-specification-programme.md.
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    pre-mint (the P1 embodied-interface reciprocal-links refine + the P2 delegatory-causation
-    deep-review), below MIN_QUEUE floor 3, unmet by 1 -- replenish-at-floor alternation
-    (unfin_loop_steady_state), NOT a deadlock. ALL 8 sources re-audited, no other
-    safe restorer. The chosen mint apex/interface-specification-programme.md (last
-    deep-reviewed 2026-06-02, own-body content-edited 2026-06-22 by the empirical-precision
-    refine vein commit 2c59225a6 in BOTH the causal-consistency-constraint body paragraph
-    AND References entry arXiv:2512.12636; refine bumps ai_modified NOT last_deep_review
-    so the preprint-status calibration is deep-review-unverified) was the most length-comfortable
-    of the four remaining apex/concept candidates (body 3956w = status OK). Tenet
-    2/3 load-bearing, older model claude-opus-4-7. Live selector AFTER mint = 3, floor
-    restored.'
-  superseded_538_replenishment_note: 'run no.538 (2026-06-22T14:43Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of concepts/delegatory-causation.md.
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    pre-mint (the two run-533 chain-successor P2s: phenomenal-presentation expand-topic
-    + embodied-interface reciprocal-links refine, both pickable), below MIN_QUEUE
-    floor 3, unmet by 1 -- the documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT a deadlock. The run-537 mint (topics/completeness-in-physics-under-dualism.md)
-    was PICKED + consumed by the deep-review CYCLE slot minutes later (last_runs deep-review
-    now 2026-06-22T14:36, drift cleared), dropping the live floor back to 2 -- the
-    same-day deep-review-cycle-collision (deep_review_over_reviews_converged). ALL
-    8 sources independently re-audited from live disk, no other safe restorer: chain
-    has only the parapsychology-firewall expand-topic whose P3 integration successor
-    is already queued + ZERO research-topic/cross-review completions; unconsumed research
-    ZERO (thermal/vestibular/interoceptive/cross-modal newest notes disk-confirmed
-    consumed into live same-slug articles + apex); gap caps have headroom (topics
-    278/320, concepts 265/320) but new-article generation is harvester-governed (last
-    2026-06-22T09:56Z, next ~15:56Z, ~1.2h out) and gap-analysis is Vetoed-bank-dedup-blocked;
-    staleness >=30d ZERO content hits; length NO safe condense (born-rule 5118w is
-    HUMAN-DEFERRED, every other hard offender human-deferred / veto-tagged / accept-as-survey
-    / index-hub / over-cap void); orphan 0; positions 8/80 slow-add audited 2026-06-22T06:20;
-    applied-apex no cluster gap. The chosen mint is the strongest remaining unreviewed
-    limb of the multi-file empirical-precision refine vein (commit 2c59225a6) whose
-    siblings (types-of-consciousness, sleep-and-consciousness, entanglement-binding,
-    completeness-in-physics, post-decoherence-selection) were the prior floor restorers
-    (runs 535-537): concepts/delegatory-causation.md (last deep-reviewed 2026-06-06,
-    own-body content-edited 2026-06-22 -- the Torres Alegre 2025 Born-rule citation
-    now carries the caveat -recent arXiv preprint not yet peer-reviewed- in both the
-    body Observational-closure paragraph and the References entry arXiv:2512.12636;
-    refine bumps ai_modified NOT last_deep_review so the preprint-status calibration
-    is deep-review-unverified). A clean concept (NOT a length-deferred article unlike
-    born-rule), Tenet 2/3 load-bearing. Older model claude-opus-4-7. Body 3466w status=soft_warning
-    (concepts soft 2500/hard 3500), only ~34w under hard -- length-safe but keep review
-    strictly length-neutral-to-trimming. Not vetoed (the only delegatory ### header
-    in the active region is a RESOLVED-OBSOLETE entry for the DIFFERENT delegatory-dualism.md;
-    Vetoed-bank delegatory-causation hits are cross-link mentions in other notes),
-    no open duplicate. Inserted at top of Active Tasks to defeat LIFO. Live selector
-    AFTER mint = 3, floor restored. Expect replenish-at-floor + deep-review-cycle-collision
-    alternation to continue until the harvester reopens the research->expand pipeline
-    ~15:56 UTC.'
-  superseded_537_replenishment_note: 'run no.537 (2026-06-22T14:22Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of topics/completeness-in-physics-under-dualism.md.
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    pre-mint (the two run-533 chain-successor P2s: phenomenal-presentation expand-topic
-    + embodied-interface reciprocal-links refine, both pickable), below MIN_QUEUE
-    floor 3, unmet by 1 -- the documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT a deadlock. The run-536 mint (concepts/sleep-and-consciousness.md) was PICKED
-    + consumed by the deep-review CYCLE slot minutes later (commit 89b8ea434, last_deep_review
-    now 2026-06-22T14:11, drift cleared), dropping the live floor back to 2 -- the
-    same-day deep-review-cycle-collision (deep_review_over_reviews_converged). ALL
-    8 sources independently re-audited from live disk, no other safe restorer: chain
-    has only the parapsychology-firewall expand-topic whose P3 integration successor
-    is already queued + ZERO research-topic/cross-review completions; unconsumed research
-    ZERO (thermal/vestibular/interoceptive/cross-modal newest notes disk-confirmed
-    consumed into live same-slug articles + apex); gap caps have headroom (topics
-    278/320, concepts 265/320) but new-article generation is harvester-governed (last
-    2026-06-22T09:56Z, next ~15:56Z) and gap-analysis is Vetoed-bank-dedup-blocked;
-    staleness >=30d ZERO content hits; length no safe condense (every hard offender
-    human-deferred / veto-tagged / accept-as-survey / research-note / index-hub /
-    over-cap void); orphan 0; positions 8/80 slow-add audit 2026-06-22T06:20 in window;
-    applied-apex no cluster gap. Drift 163 rows but the top non-positions rows are
-    git-verified COSMETIC sibling cross-touches / embeds / the multi-file precision-refine
-    siblings ALREADY minted (types-of-consciousness, entanglement-binding, sleep-and-consciousness
-    all deep-reviewed today off the SAME 2c59225a6 refine) -- rejected per replenish-false-exhaustion-mislabeled-drift.
-    The ONE genuine, non-colliding own-body drift: topics/completeness-in-physics-under-dualism.md
-    (last deep-reviewed 2026-06-06, own-body content-edited 2026-06-22 commit 2c59225a6
-    -- the Torres Alegre 2025 Born-rule citation now carries the caveat -recent arXiv
-    preprint not yet peer-reviewed- in both the body sentence and the References entry
-    arXiv:2512.12636; refine bumps ai_modified NOT last_deep_review so the preprint-status
-    calibration is deep-review-unverified). Same multi-file refine vein as the prior
-    three floor restorers; this is its last unreviewed limb. Older model claude-opus-4-6.
-    Body 3248w status=soft_warning (topics soft 3000/hard 4000), ~752w under hard
-    -- length-safe, keep review length-neutral-to-trimming. Tenet 1/3 load-bearing.
-    Not vetoed (all completeness-in-physics todo hits are completed tasks or cross-link
-    mentions in other notes), no open duplicate. Inserted at top of Active Tasks to
-    defeat LIFO. Live selector AFTER mint = 3, floor restored. Expect replenish-at-floor
-    + deep-review-cycle-collision alternation to continue until the harvester reopens
-    the research->expand pipeline.'
-  superseded_536_replenishment_note: 'run no.536 (2026-06-22T14:07Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of concepts/sleep-and-consciousness.md.
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    pre-mint (the two run-533 chain-successor promotions: phenomenal-presentation
-    expand-topic + embodied-interface reciprocal-links refine), below MIN_QUEUE floor
-    3, unmet by 1 -- the documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT a deadlock. The run-535 mint (types-of-consciousness) was PICKED + consumed
-    by the deep-review CYCLE slot (commit c9dd26054, last_deep_review now 2026-06-22T14:01,
-    drift cleared), dropping the live floor back to 2 -- the same-day deep-review-cycle-collision
-    (deep_review_over_reviews_converged). ALL 8 sources independently re-audited from
-    live disk, no other safe restorer: chain has the lone parapsychology-firewall
-    expand-topic whose integration successor is already queued (P3 below); unconsumed
-    research ZERO (thermal/vestibular/interoceptive newest notes disk-confirmed consumed
-    into live same-slug topics articles); gap caps have headroom (topics 278/320,
-    concepts 265/320) but new-article generation is harvester-governed (last 2026-06-22T09:56Z,
-    next ~15:56Z, ~1.85h out) and gap-analysis is Vetoed-bank-dedup-blocked; staleness
-    >=30d ZERO content-section hits; length no safe condense (the 3 veto-tagged condense
-    tasks correctly selector-excluded; every other hard offender human-deferred /
-    already-condensed / index-hub / research-note / over-cap void); orphan 0; positions
-    8/80 slow-add audit 2026-06-22T06:20 in window; applied-apex no cluster gap. Drift
-    175 rows but the top non-positions rows are git-verified COSMETIC sibling cross-touches
-    (three-dimensional-world-rep / consciousness-and-memory / luck-objection by reciprocal-cross-link
-    repairs; phenomenal-value-realism / inaccessible-past / interoceptive-void by
-    sibling expand commits) -- rejected per replenish-false-exhaustion-mislabeled-drift.
-    The ONE genuine, non-colliding own-body drift: concepts/sleep-and-consciousness.md
-    (last deep-reviewed 2026-06-03, own-body content-edited 2026-06-22 commit 2c59225a6
-    -- the empirical-precision refine relabelling the Zheng & Meister 2024 "10 bits/second"
-    figure from a flat "bandwidth limitation of conscious experience" to a SERIAL
-    conscious BEHAVIOURAL-THROUGHPUT bound; refine bumps ai_modified NOT last_deep_review
-    so the relabel is deep-review-unverified). Older model claude-opus-4-5. Body 2045w
-    status=ok, ~455w under concepts soft ceiling -- length-safe. Not vetoed (the 3
-    Vetoed-header grep hits are cross-link mentions inside OTHER tasks notes, not
-    a veto of this file), no open duplicate. Inserted at top of Active Tasks to defeat
-    LIFO. Live selector AFTER mint = 3, floor restored. Expect replenish-at-floor
-    + deep-review-cycle-collision alternation to continue until the harvester reopens
-    the research->expand pipeline.'
-  superseded_535_replenishment_note: 'run no.535 (2026-06-22T13:53Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint. Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    pre-mint -- the run-534 entanglement-binding-hypothesis deep-review was PICKED
-    + consumed by the deep-review CYCLE slot (commit add6b8f57, same-day-collision,
-    [[deep_review_over_reviews_converged]]), dropping the live floor back to 2; the
-    two run-533 chain-successor promotions remain pending/pickable (phenomenal-presentation
-    expand-topic + embodied-interface reciprocal-links refine). MIN_QUEUE floor 3,
-    unmet by 1 -- the documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
-    NOT a deadlock. ALL generative sources re-audited from live disk: chain recent_tasks
-    = Counter({replenish-queue:8, deep-review:7, agentic-social:3, optimistic-review:1,
-    expand-topic:1}) -- the single expand-topic (parapsychology-firewall) already
-    spawned its P3 integration-chain successor (present below) + 2 inbound links added
-    by the cycle-slot deep-review (commit de96cc28); no new chain. Unconsumed research
-    ZERO (thermal/vestibular/interoceptive/cross-modal/forgetting all disk-confirmed
-    consumed into live same-slug articles; enactivism/occams-razor older notes consumed
-    under full slugs). Gap caps have headroom (topics 278/320, concepts 265/320) but
-    new-article generation is harvester-governed (last 2026-06-22T09:56Z) and gap-analysis
-    is Vetoed-bank-dedup-blocked. Length: no safe condense candidate (all human-deferred
-    [convergence 6479w, born-rule 5118w], #veto [phenomenal-output 6872w], accept-as-survey
-    [composition-question-rivals 4106w], human-length-decision voids [synesthetic-void,
-    edge-states], research-note/index-hub/voids-over-cap). Orphan 0. Positions 8/80
-    slow-add, audit 2026-06-22T06:20 in window. Applied-apex no cluster gap. Drift
-    170 rows but the top non-candidate rows are git-verified COSMETIC sibling cross-touches
-    (indexical-identity by egocentric-presentism expand / self-construction-constructor
-    by embed-videos / sleep-and-consciousness by the multi-file precision refine)
-    -- rejected per [[replenish-false-exhaustion-mislabeled-drift]]; the substantive-refine
-    rows are recently-audited (quantum-biology, [[audit_triple]] active_research audited
-    2026-06-16), human-deferred (synesthetic-void), or ENTANGLED in open outer-review/coalesce
-    tasks (taxonomy-of-voids carries the P1 circularity-discount REVISE-HARD + P-V3
-    stale-count tasks; normativity-of-reason is a live coalesce candidate) -- all
-    rejected to avoid collision. The ONE genuine, non-colliding own-body drift: concepts/types-of-consciousness.md
-    (last deep-reviewed 2026-06-01, own-body content-edited 2026-06-22 by commit 2c59225a6
-    -- the empirical-precision refine relabelling the Zheng & Meister 2024 Neuron
-    "10 bits/s" figure as a SERIAL BEHAVIORAL throughput bound, not a measured bandwidth
-    of all phenomenology; refine bumps ai_modified NOT last_deep_review so the relabel
-    is deep-review-unverified). Older model claude-opus-4-6. Body 1975w status=ok,
-    ~525w under concepts soft ceiling -- length-safe. Not vetoed, no open duplicate
-    (the line-620 deep-review of this file is a closed 2026-06-01 completed task predating
-    the refine). Inserted at top of Active Tasks to defeat LIFO. Live selector AFTER
-    mint = 3, floor restored. Expect replenish-at-floor alternation to continue until
-    the harvester reopens the research->expand pipeline.'
-  superseded_534_replenishment_note: 'run no.534 (2026-06-22T13:40Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of concepts/entanglement-binding-hypothesis.md
-    (last deep-reviewed 2026-06-18, own-body-edited 2026-06-22 commit 2c59225a6 --
-    the two-tier macroscopic-entanglement hedge separating microtubule/anaesthesia
-    from single-lab MRI-signature; Kerskens/Escola-Gascon/Khan-2024 cites deep-review-unverified;
-    body 2510w soft_warning). Live selector 2 pre-mint -> 3 post-mint. That task was
-    then PICKED + consumed by the deep-review CYCLE slot (commit add6b8f57), dropping
-    the live floor back to 2 -- hence run 535 re-mints. Documented replenish-at-floor
-    + same-day deep-review-cycle-collision alternation ([[unfin_loop_steady_state]],
-    [[deep_review_over_reviews_converged]]).'
-  superseded_533_replenishment_note: 'run no.533 (2026-06-22T13:19Z): FLOOR-RESTORED
-    via 2 chain-successor promotions (NOT a no-mint, NOT a genuine-drift deep-review
-    mint). Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=1
-    pre-run (down from 2 at run no.532): the run-529 strong-emergence deep-review
-    was PICKED + consumed by the deep-review CYCLE slot since run 532, leaving ONLY
-    the parapsychology-firewall expand-topic pickable -- floor 3 unmet by 2. Rather
-    than mint yet another genuine-drift deep-review (the loop has churned one per
-    cycle all day and each is immediately consumed by the cycle slot -- [[deep_review_over_reviews_converged]]
-    / [[unfin_loop_steady_state]]), this run PROMOTED P3->P2 the two grounded optimistic-review
-    CHAIN successors from today''s apex/embodied-interface.md create (Source 1, task
-    chains): (a) "Add a short concept page Phenomenal presentation" (expand-topic
-    -- fills the apex''s only homeless named-anchor; no live-or-archive page exists,
-    concepts 265/320 headroom, NOT vetoed); (b) "Reciprocate cross-links into apex/embodied-interface"
-    (refine-draft -- the apex forward-links to attention-as-causal-bridge x3 / cross-modal-capability-division
-    x2 / somatic-interface x6 but none link back; LENGTH-NEUTRAL mechanical inbound-link
-    add, VERIFY-FIRST). Both grep-verified grounded + non-vetoed at promotion. Live
-    selector AFTER promotion = 3, floor restored. This is the cleaner alternative
-    to a churn deep-review: real fresh-create integration-chain work tied to today''s
-    apex, not a re-review of converged content. Generative SOURCES re-audited (corroborates
-    runs 531/532): chain recent_tasks still has ZERO research-topic/expand-topic/cross-review
-    COMPLETIONS so no successor from completions, but the live optimistic-review P3
-    chain successors (from 2026-06-22b) were available for promotion; unconsumed research
-    ZERO; gap caps have headroom but harvester-governed (next ~15:56Z); length all
-    research-note/index-hub/#veto/human-deferred; orphan 0; positions slow-add (audit
-    2026-06-09 in window); applied-apex 3 exist no cluster gap. NET: 2 promotions,
-    floor restored to 3.'
-  superseded_532_replenishment_note: 'run no.532 (2026-06-22T13:09Z): NO-MINT floor
-    audit at count=2 (floor 3, unmet by 1) -- the documented replenish-at-floor alternation
-    ([[unfin_loop_steady_state]]), NOT a deadlock. Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2,
-    unchanged since run no.531 (~4min ago): no content task consumed in between. The
-    two pickable P2s: (a) deep-review topics/the-strong-emergence-of-consciousness.md
-    (run-529 genuine-drift floor restorer, still pending -- selector returns it, loop
-    NOT starved); (b) the parapsychology-firewall expand-topic from the 2026-06-22
-    ChatGPT outer review (combine ran 04:58Z, eligible). ALL 8 SOURCES independently
-    re-audited from live disk with tools this run, NO safe floor-restoring candidate:
-    (1 chain) recent_tasks type Counter has ZERO research-topic/expand-topic/cross-review
-    (deep-review x5, replenish x7, agentic-social x3, apex-evolve/optimistic/pessimistic/harvest/check-model-fallback
-    x1 each) -- no chain to extend. (2 unconsumed research) ZERO: the 4 newest notes
-    (thermal/vestibular/interoceptive-2026-06-2x + cross-modal-capability-division)
-    all disk-verified consumed into live same-slug topics//apex/ articles via find.
-    (3 gap/caps) headroom (topics 277/320, concepts 265/320, positions 8/80; voids
-    101/100 OVER) but new-article generation is harvester-governed (harvest-research-subjects
-    ran 2026-06-22T09:56Z, 6h-gated, next ~15:56Z; current UTC ~13:09, ~2.8h out)
-    and replenish gap-analysis is Vetoed-bank-dedup-blocked -- no safe gap mint. (4
-    staleness>=30d) programmatic frontmatter scan of topics/concepts/voids/apex (ai_contribution>50,
-    index excluded, last_deep_review null-or->30d): ZERO content-section hits. (4b
-    genuine-drift) no NEW un-minted own-body drift surfaced since run no.531; the
-    only git activity in the interval was non-content (sync/social). (5 length) canonical
-    body-stripped get_length_warnings: 25 content-section hard+ offenders, every one
-    a research-note, the apex-articles index hub (9788w), `#veto` (phenomenal-output
-    6872w critical, composition-question-rivals 4106w accept-as-survey), HUMAN-LENGTH-DECISION
-    / DIVERTED-TO-HUMAN (epistemology-of-convergence 6479w w/ 4 prior failed condenses,
-    born-rule 5118w, clinical-dissociation 4861w, time-collapse-and-agency 4606w refine-then-condense
-    trap, synesthetic-void 3578w, edge-states 3482w), or an ALREADY-CONDENSED / freshly-reviewed
-    article (argument-from-reason + epistemic-advantages-of-dualism both have completed
-    condense tasks; consciousness-in-simple-organisms deep-reviewed 2026-06-21) --
-    minting any = [[replenish-overmints-condense-vs-accept-as-survey]] churn. NO safe
-    length mint. (6 orphan) orphaned_files=0. (7 positions) 8 domain files / 34 entries,
-    full audit ran 2026-06-09 within the 30d window, positions-evolve ran today 06:20Z,
-    no Argued-in article moved by the 07:29Z coalesce -- slow-add, no mint. (8 applied-apex)
-    3 applied apex already exist (assessing-ai-consciousness, embodied-interface,
-    research-programme-decisions), no high-confidence position-cluster gap. NET: NO
-    MINT -- leave the floor sub-restored at 2 rather than force a churn task; the
-    one pickable genuine deep-review + the cycle''s own deep/coalesce slots carry
-    the loop until the harvester reopens the research->expand pipeline (~15:56Z).'
-  superseded_531_replenishment_note: 'run no.531 (2026-06-22T13:05Z): NO-MINT floor
-    audit at count=2 (floor 3, unmet by 1) -- the documented replenish-at-floor alternation
-    ([[unfin_loop_steady_state]]), NOT a deadlock. Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2,
-    unchanged since run no.530 (~1.5h ago): the only git activity since was b570dc3f2
-    sync + fd88d1fa9 agentic-social (no content task executed, no task consumed).
-    The two pickable P2s: (a) deep-review topics/the-strong-emergence-of-consciousness.md
-    (run-529 genuine-drift floor restorer, still pending -- selector returns it, loop
-    NOT starved); (b) the parapsychology-firewall expand-topic from the 2026-06-22
-    ChatGPT outer review (combine ran 04:58Z, now eligible). ALL 8 SOURCES independently
-    re-audited from live disk this run, NO safe floor-restoring candidate: (1 chain)
-    recent_tasks Counter has ZERO research-topic/expand-topic/cross-review (deep-review
-    x6, replenish x7, agentic-social x3, apex-evolve x1, harvest/pessimistic/check-model-fallback
-    x1 each) -- no chain to extend. (2 unconsumed research) ZERO: the 4 newest notes
-    (thermal/vestibular/interoceptive/cross-modal-capability-division) all disk-verified
-    consumed into live same-slug topics//apex/ articles. (3 gap/caps) headroom (topics
-    277/320, concepts 265/320, positions 8/80; voids 101/100 OVER) but new-article
-    generation is harvester-governed (harvest-research-subjects ran 2026-06-22T09:56Z,
-    6h-gated, next ~15:56Z) and replenish gap-analysis is Vetoed-bank-dedup-blocked
-    -- no safe gap mint. (4 staleness>=30d) programmatic frontmatter scan of topics/concepts/voids/apex
-    (ai_contribution>50, index excluded): ZERO content-section hits; the 7 NULL-last_deep_review
-    rows are ALL positions/ domain files, maintained by /positions-evolve audit NOT
-    deep-review (not a deep-review staleness gap). (4b genuine-drift) the only content
-    edit since run no.530 was cf7757b17 (the run-529 animal-consciousness deep-review
-    floor restorer) which was PICKED + executed + committed this cycle, dropping the
-    live floor 3->2 -- THIS IS the alternation point; no NEW un-minted own-body drift
-    surfaced. (5 length) canonical body-stripped get_length_warnings: 51 hard+ offenders,
-    every content-section one a research/ working note (not a condense target), the
-    apex-articles index hub (9788w), `#veto` (phenomenal-output 6872w critical, composition-question-rivals
-    4106w accept-as-survey), or HUMAN-LENGTH-DECISION / DIVERTED-TO-HUMAN (epistemology-of-convergence
-    6479w w/ 4 prior failed condenses, born-rule 5118w, clinical-dissociation 4863w,
-    time-collapse-and-agency 4606w, synesthetic-void 3578w, edge-states 3482w) --
-    minting any = [[replenish-overmints-condense-vs-accept-as-survey]] / [[human-decision-task-mispicked-as-refine]]
-    churn. NO safe length mint. (6 orphan) orphaned_files=0. (7 positions) 8 domain
-    files / 34 entries, full audit ran 2026-06-09 within the 30d window, positions-evolve
-    ran today 06:20Z, no Argued-in article moved by the 07:29Z coalesce -- slow-add,
-    no mint. (8 applied-apex) 3 applied apex already exist (assessing-ai-consciousness,
-    embodied-interface, research-programme-decisions), no high-confidence position-cluster
-    gap. NET: NO MINT -- leave the floor sub-restored at 2 rather than force a churn
-    task; the one pickable genuine deep-review + the cycle''s own deep/coalesce slots
-    carry the loop until the harvester reopens the research->expand pipeline (~15:56Z).'
-  superseded_530_replenishment_note: 'run no.530 (2026-06-22T11:25Z): NO-MINT floor
-    audit at count=2 (floor 3, unmet by 1) -- the documented replenish-at-floor alternation
-    ([[unfin_loop_steady_state]]), NOT a deadlock. Authoritative live tools.evolution.task_selector.count_p0_p2_tasks=2.
-    The two pickable P2s: (a) deep-review topics/the-strong-emergence-of-consciousness.md
-    (genuine-drift floor restorer minted earlier today, still pending -- selector
-    returns it, so the loop is NOT starved); (b) the parapsychology-firewall expand-topic
-    from the 2026-06-22 ChatGPT outer review (outer-review source, [[outer-review-tasks-deferred-until-synthesis]];
-    combine ran 04:58Z so it may now be eligible). The run-529 animal-consciousness
-    deep-review floor restorer was PICKED + executed + committed this cycle (cf7757b17
-    @ 11:20Z), dropping the live floor from 3 to 2 -- the alternation point. ALL 8
-    SOURCES independently re-audited from live disk, NO safe floor-restoring candidate
-    found: (1 chain) recent_tasks has ZERO research-topic/expand-topic/cross-review
-    (only deep-review x7, replenish x7, apex-evolve x1, agentic-social x2, harvest/pessimistic/check-model-fallback)
-    -- no chain to extend. (2 unconsumed research) ZERO -- the 3 newest notes (thermal/vestibular/interoceptive
-    -2026-06-2x) all git-confirmed consumed into live same-slug topics/ articles;
-    older notes long consumed. (3 gap/caps) headroom (topics 277/320, concepts 265/320,
-    positions 8/80; voids 101/100 OVER) but new-article generation is harvester-governed
-    (harvester ran 2026-06-22T09:56Z, 6h-gated, next ~15:56Z) and replenish gap-analysis
-    is dedup-blocked against the Vetoed bank -- no safe gap mint. (4 staleness>=30d)
-    programmatic frontmatter scan (ai_contribution>50 over topics/concepts/voids/apex,
-    index excluded): ZERO hits. (4b genuine-drift) 168 ai_modified>last_deep_review
-    rows but the leading candidates are git-verified COSMETIC sibling cross-touches/sweeps,
-    not own-body: minds-without-words (ldr 06-05) +2/-2 cross-link from the animal-consciousness
-    review AND already deep-reviewed by e8f552096 with an unbumped stamp (false drift,
-    stale-stamp family [[apex-last-synthesis-drift-artifact]]); post-decoherence-selection-programme
-    (ldr 06-03) has genuine 06-08 own-body refines BUT is under a STANDING NEEDS-HUMAN
-    length+horn-(b) decision (todo line ~5464; load-bearing Bias-Without-Deviation
-    calibration must NOT be cut) so a deep-review = the [[human-decision-task-mispicked-as-refine]]
-    / [[coalesce-hides-review-debt-and-regresses-fixes]] anti-pattern -- REJECTED;
-    the 08:28:08 / 10:21:15 / 10:34:36 batch-timestamp rows are embed/sync/cross-link/Born-rule-preprint-sweep
-    passes ([[replenish-false-exhaustion-mislabeled-drift]] does NOT apply, drift
-    is genuinely cosmetic). (5 length) canonical body-stripped get_length_warnings:
-    51 hard+ offenders, every content-section one either a dated research-note (not
-    a condense target), the apex-articles index hub (9788w), `#veto` (phenomenal-output
-    6872w critical, composition-question-rivals 4106w accept-as-survey), or human-deferred
-    (epistemology-of-convergence 6479w STANDING HUMAN DECISION w/ 4 prior failed condenses,
-    born-rule 5118w, clinical-dissociation 4861w, time-collapse-and-agency 4606w refine-then-condense
-    trap, machine-question 5001w deferred apex) -- minting = [[replenish-overmints-condense-vs-accept-as-survey]]
-    churn. NO safe length mint. (6 orphan) orphaned_files=0. (7 positions) 8 domain
-    files, full audit ran 2026-06-09 (18 entries/4 domains) within the 30d window,
-    positions-evolve ran today 06:20Z, no Argued-in article moved by the 07:29Z coalesce
-    -- slow-add, no mint. (8 applied-apex) 3 applied apex already exist (embodied-interface,
-    assessing-ai-consciousness, research-programme-decisions), no high-confidence
-    position cluster gap. NET: NO MINT -- leave the floor sub-restored at 2 rather
-    than force a churn task; the one pickable genuine deep-review + the cycle''s own
-    deep/coalesce slots carry the loop until the harvester reopens the research->expand
-    pipeline (~15:56Z).'
-  superseded_529_replenishment_note: 'run no.529 (2026-06-22T11:10Z): MINTED 2 floor-restoring
-    genuine-drift deep-reviews at count=1 (floor 3, unmet by 2). Authoritative live
-    genuine-drift deep-reviews at count=1 (floor 3, unmet by 2). Authoritative live
-    tools.evolution.task_selector.count_p0_p2_tasks=1 pre-mint -- the only genuine
-    pickable P2 was the parapsychology-firewall expand-topic from the 2026-06-22 ChatGPT
-    outer review; the prior run no.528 left the floor sub-restored at 2 but one of
-    those tasks (a deep-review) was picked and executed by the cycle this iteration,
-    dropping the live floor to 1, the documented replenish-at-floor alternation point
-    (unfin_loop_steady_state), not a deadlock. ALL 8 sources independently re-audited
-    from live disk: chains dry (recent_tasks zero research/expand/cross-review --
-    only deep-review x6, replenish x4, apex-evolve x2, agentic-social x2, harvest/pessimistic/check-model-fallback);
-    unconsumed research zero; gap/caps headroom (topics 277/320, concepts 265/320,
-    positions 8/80; voids 101/100 OVER) but new-article generation is harvester-governed
-    (ran 2026-06-22T09:56Z, 6h-gated) and gap-analysis is Vetoed-bank-dedup-blocked;
-    staleness>=30d ZERO; length offenders all human-deferred (born-rule 5118w, clinical-dissociation
-    4861w, time-collapse-and-agency 4606w refine-then-condense trap, epistemic-advantages
-    4400w), veto (phenomenal-output 6872w critical, composition-question-rivals 4106w
-    accept-as-survey), index-hub (apex-articles 7238w), or deferred apex (machine-question
-    5001w) -- no safe condense, topics offenders carry corpus-propagated calibration
-    risk (human-decision-task-mispicked-as-refine); orphans 0; positions slow-add
-    (audit ran 06:20 within 30d window, 8<10 so no audit-cadence trigger); no applied-apex
-    cluster gap. The 2 genuine-drift candidates minted (both git-verified own-body
-    drift, NOT cosmetic cross-touch): (a) deep-review topics/animal-consciousness.md
-    -- commit 451fbb93f integrated COGITATE 2025 Consortium + Bayne et al. 2023 TiCS
-    infant-marker + Chittka et al. 2025 Phil Trans R Soc B citations (+18/-15 own
-    body), last deep-reviewed 2026-06-02, new citations UNVERIFIED, active-research
-    literature-drift section, body 3999w ~1w under topics hard ceiling so review must
-    be strictly length-neutral; (b) deep-review topics/the-strong-emergence-of-consciousness.md
-    -- commit 2b7d0cb18 evidential-register recalibration addressing 2 medium pessimistic
-    findings (+22/-20, 42 lines), last deep-reviewed 2026-06-01, ai_system claude-opus-4-6
-    older model, body 3960w. Both placed at top of Active Tasks to defeat LIFO (queue-lifo-starvation);
-    parapsychology-firewall expand-topic not starved. post-mint authoritative count=3
-    (floor met). NOTE: run no.528 note conflated commit 451fbb93f with the-convergence-argument-for-dualism;
-    git show --stat confirms 451fbb93f edits topics/animal-consciousness.md -- this
-    run corrected the target. Expect replenish-at-floor alternation to continue until
-    the harvester reopens the research-to-expand pipeline.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
@@ -2431,89 +1468,41 @@ queue_status:
     staleness: 0
     unconsumed_research: 0
     promotion: 0
-  superseded_545_replenishment_note: 'run no.545 (2026-06-22T16:52Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of topics/quantum-biology-and-neural-consciousness.md.
-    Authoritative live tools.evolution.task_selector.count_p0_p2_tasks(content)=2
-    pre-mint (the two prior-run deep-review P2s still pending: apex/interface-specification-programme
-    run 539 + concepts/delegatory-causation run 538), below MIN_QUEUE floor 3, unmet
-    by 1 -- the documented replenish-at-floor alternation ([[unfin_loop_steady_state]]),
-    NOT a deadlock. Run 544''s CHAIN mint (cross-review/integration of the fresh concepts/entropic-brain-hypothesis.md)
-    was PICKED + executed by the cycle slot minutes later (commit ee9b19898, last_deep_review
-    now 2026-06-22T16:51Z) AND successfully added the reciprocal backlinks (the page
-    now has 3 inbound files / 6 wikilink mentions, up from near-orphan), so the live
-    floor fell back to 2 -- the documented deep_review_over_reviews_converged same-day
-    cycle-collision. ALL 8 sources independently re-audited from live disk, no other
-    safe restorer: (1) CHAIN ZERO -- the entropic-brain research->expand->cross-review
-    chain is fully consumed (cross-review just ran, backlinks confirmed); the only
-    remaining successor is the already-queued P3 parapsychology-firewall connective-enrichment.
-    (2) UNCONSUMED RESEARCH ZERO -- the 4 newest notes (entropic-brain, thermal-consciousness,
-    vestibular-consciousness, interoceptive-consciousness) all disk-confirmed consumed
-    into live same-slug articles. (3) GAP caps have headroom (topics 278/320, concepts
-    267/320, positions 8/80) but new-article generation is harvester-governed (last
-    2026-06-22T16:00Z) + Vetoed-bank-dedup-blocked; voids 101/100 OVER. (4) STALENESS
-    -- the chosen mint: topics/quantum-biology-and-neural-consciousness.md was substantively
-    refined today 07:45Z (commit 896b94079, evidence-tier + Wiest-2025/macroscopic-entanglement
-    contested-status), bumping ai_modified (07:45) past last_deep_review (2026-06-05),
-    drift ~16.8d; the new contested-status calibration is deep-review-UNVERIFIED (same
-    Torres-Alegre refine vein, different file). Length-safe: body 3998w = soft_warning,
-    2w under the 4000 topics hard ceiling (review must stay length-neutral/trimming).
-    Not queued (no open ### header), not deep-review-vetoed (Vetoed/### hits are all
-    distinct-type condense/length tasks + completed citation fixes). Active-research
-    domain (quantum-biology), Tenet 2 load-bearing, ai_system claude-opus-4-6. The
-    other drift-list hits are cosmetic cross-link/reciprocal-backlink churn (phenomenal-acquaintance/overflow,
-    three-dimensional-world-rep, altered-states just-touched 16:48Z by the entropic
-    cross-review) -- the apex_last_synthesis-drift-artifact false-positive class,
-    near-no-op if minted. (5) ORPHANS ZERO (quality.orphaned_files=0). (6) LENGTH
-    no NEW safe condense -- every content-section offender is HUMAN-DEFERRED / #veto
-    / accept-as-survey / index-hub; the language-recursion P3 condense is already
-    queued. (7) POSITIONS 8/80 slow-add, audited 06-22T06:20, no new stable commitment
-    lacking a register entry, no dependency-changed update due. (8) APPLIED-APEX no
-    high-confidence cluster gap. Inserted at top of Active Tasks to defeat LIFO ([[queue-lifo-starvation]]).
-    Live selector AFTER mint = 3, floor restored. Expect replenish-at-floor + deep-review-cycle-collision
-    alternation to continue.'
-  superseded_548_replenishment_note: 'run no.548 (2026-06-22T17:35Z): FLOOR-RESTORED
-    via 1 genuine-own-body-drift deep-review mint of apex/taxonomy-of-voids.md. Authoritative
-    live count_p0_p2_tasks(content)=2 pre-mint (the two standing deep-review P2s:
-    apex/interface-specification-programme run 539 + concepts/delegatory-causation
-    run 538), below MIN_QUEUE floor 3, unmet by 1 -- documented replenish-at-floor
-    alternation ([[unfin_loop_steady_state]]), NOT a deadlock. Run 547''s mint (concepts/altered-states-of-consciousness.md,
-    the genuine-content member of the entropic-brain integration trio) was PICKED
-    + consumed by the deep-review CYCLE slot minutes ago (last_runs deep-review now
-    2026-06-22T17:31), dropping the live floor back to 2 -- the deep_review_over_reviews_converged
-    same-day cycle-collision. ALL 8 sources re-audited from live disk, no other safe
-    restorer: (chain) the only recent research-topic (entropic-brain) is consumed
-    -> concept created + cross-reviewed + integrated (ee9b19898), its P3 integration
-    successor + the P3 parapsychology-firewall + P3 Letheby research-topic already
-    queued; ZERO cross-review completions. (unconsumed research) ZERO -- the six newest
-    notes (entropic-brain, thermal/vestibular/interoceptive, cross-modal-capability-division,
-    phenomenology-of-forgetting) all consumed into live same-slug articles OR (cross-modal)
-    into apex/cross-modal-capability-division. (gap) caps headroom (topics 278/320,
-    concepts 267/320, voids 101/100 OVER, positions 8/80) but harvester-governed (last
-    16:00Z, next ~22:00Z) + Vetoed-bank-dedup-blocked. (length) NO safe condense --
-    all content offenders human-deferred/#veto/accept-as-survey/index-hub/deferred-apex,
-    language-recursion P3 condense already queued. (orphan) 0. (positions) slow-add,
-    audited 06-22T06:20. (applied-apex) no cluster gap. The Torres-Alegre-preprint
-    refine vein is EXHAUSTED of safe drift restorers (interface-spec + delegatory
-    queued, born-rule 5118w HUMAN-DEFERRED, all 9 others deep-review-verified 2026-06-22);
-    the entropic-brain trio is resolved (altered-states genuine-content minted run
-    547; psychedelics-and-the-filter-model + filter-theory git-verified backlink-only,
-    NOT eligible); attention-as-causal-bridge''s post-review edit git-verified cosmetic
-    cross-link reciprocation only (commit 06529d718, 3 ins/2 del). CHOSEN MINT: apex/taxonomy-of-voids.md
-    own-body content-edited 2026-06-22T05:14 by commit fc5a7d210 (refine "Bring the
-    live convergence/apex articles into line with the voids-circularity-discount")
-    -- git-verified to have ADDED a substantive new body paragraph integrating the
-    [[project/voids-circularity-discount]] discipline into the live catalogue (origin-class
-    split = per-cluster independence scoring; "convergence-with-self is not triangulation"
-    concession; strict prohibition on counting tenet-generated voids) PLUS a Further-Reading
-    entry, but last_deep_review=2026-06-05 PREDATES it (17-day genuine drift gap),
-    so the circularity-discount integration + its [[project/common-cause-null]] /
-    [[project/evidential-status-discipline]] dependencies are deep-review-UNVERIFIED.
-    Genuine new argumentative content, not a backlink. Length-safe: body 4682w=soft_warning,
-    ~318w under apex hard 5000 (review must stay length-neutral/trimming). Tenet-load-bearing:
-    the evidential-honesty guard preventing the voids catalogue from double-counting
-    framework-generated voids as independent confirmations. ai_system claude-opus-4-6
-    (older). Not vetoed (the only taxonomy-of-voids Vetoed hits are a closed 2026-05-25
-    condense + a closed apex-synthesis note), no open duplicate. Inserted at top of
-    Active Tasks to defeat LIFO. Live selector AFTER mint = 3, floor restored. Expect
-    replenish-at-floor + deep-review-cycle-collision alternation to continue until
-    the harvester reopens the research->expand pipeline ~22:00 UTC.'
+  legacy_run_570_note: 'run no.570 (2026-06-23T01:12Z): MINTED 1 genuine-drift deep-review
+    (topics/born-rule-and-the-consciousness-interface.md), floor restored 2->3. Authoritative
+    tools.evolution.task_selector.count_p0_p2_tasks=2 PRE-mint / =3 POST-mint (both
+    verified). The two counted P2s pre-run: entropic-brain-hypothesis cross-links
+    + parapsychology-firewall cross-links (both still open above Completed); the prior
+    runs two counted P2s combination-problem deep-review + predictive-self-binding
+    integrate-orphan were PICKED + executed this cycle (commits b9957586e + 55195ba12,
+    now done below the Completed header), dropping the live floor 3->2; the three
+    veto-tagged condenses are parser-excluded. Documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT deadlock: last loop tasks were deep-review 01:00Z
+    + embed-videos 01:03Z, both AFTER the prior replenish 00:48Z. NO open P3 left
+    to promote -- both prior-available P3s (entropic-brain, parapsychology-firewall)
+    already promoted to P2 -- so floor-restore-by-promotion is exhausted; lowest-churn
+    move is a genuine-drift verification deep-review. ALL 8 sources re-audited from
+    LIVE DISK, all exhausted of clean genuine-MINT candidates EXCEPT this one: (chain)
+    zero research-topic/expand-topic/cross-review completions in recent_tasks. (unconsumed
+    research) ZERO -- all 12 newest notes disk-confirmed consumed into live articles.
+    (genuine-drift) 149 ai_modified>last_deep_review candidates but top tier ALL git-verified
+    COSMETIC cross-touches (embodied-cognition just-refined this cycle; indexical-identity=egocentric-presentism
+    expand; phenomenal-value-realism=the-sublime expand; machine-consciousness=deep-computational-markers
+    expand; normativity-of-reason/inaccessible-past/creative-aesthetic-void/volitional-control/moral-responsibility/personal-identity=sibling
+    reciprocal cross-link repairs) -- over-review churn per deep_review_over_reviews_converged.
+    THE clean genuine-own-body exception is born-rule: last deep-reviewed 2026-06-05
+    but own-body content-edited 2026-06-22 by TWO refine commits (2c59225a6 empirical-precision
+    fixes [git-verified 3 ins/3 del in its own body] + 94836008c Gleason/Born-rule
+    framing), UNVERIFIED by deep-review. (staleness >=30d) ZERO content articles past
+    30d without a deep-review (only positions/ files surface, not deep-review targets).
+    (orphan/length) orphaned_files=0; every content length offender human-deferred
+    / veto / accept-as-survey / marginal-protected -- NO clean mintable condense candidate.
+    (gap/caps) topics 279/320 + concepts 267/320 + positions 8/80 have headroom but
+    generation harvester-governed + gap-analysis Vetoed-bank-dedup-blocked. (positions)
+    8 entries (<10 audit threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex)
+    3 applied apex extant, no cluster gap. The born-rule deep-review MUST be strictly
+    LENGTH-NEUTRAL: body 5118w over the topics 4000 hard ceiling, under a standing
+    HUMAN LENGTH DECISION on protected calibration content -- verify the two refines
+    citations/framing only (Gleason 1957, Born-preprint status, 10 bits/s bound, entanglement-binding
+    hedge), do NOT condense, do NOT queue a follow-on condense (human-decision-task-mispicked-as-refine).
+    Inserted at top of Active Tasks to defeat LIFO. Superseded run-569 note follows.'
