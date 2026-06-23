@@ -83,3 +83,31 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-06-22-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a39ec46-f8f8-832f-b96d-0e769e031b50
+  commissioned_at: '2026-06-23T02:15:53.230568+00:00'
+  prompt_summary: Audit consciousness-selecting-neural-patterns
+  target_filename: outer-review-2026-06-23-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophy site arguing for a dualist,\
+    \ anti-physicalist view of consciousness. Focus your audit on this concept article:\
+    \ https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/\
+    \ \u2014 last substantively revised 2026-06-16, so search engines have had time\
+    \ to re-index it. Critically assess: the strength and sufficiency of its evidence,\
+    \ the accuracy and currency of its citations against the live 2020s neuroscience\
+    \ and philosophy-of-mind literature, the counterarguments it fails to engage,\
+    \ any tenet-protective bracketing that shields claims from falsification, and\
+    \ how well it integrates with surrounding articles. Treat the dualist framing\
+    \ as a hypothesis to be stress-tested, not assumed. For recent site activity that\
+    \ web search may not yet index, consult the changelog at https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit consciousness-selecting-neural-patterns
+  subject_articles:
+  - concepts/consciousness-selecting-neural-patterns.md
+  subject_source: fallback:recent-aged
