@@ -29,8 +29,8 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-04T09:22:35+00:00
-ai_modified: 2026-06-19T21:25:00+00:00
+last_deep_review: 2026-06-23T00:39:14+00:00
+ai_modified: 2026-06-23T00:39:14+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.

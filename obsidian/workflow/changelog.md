@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T00:23:55+00:00
+ai_modified: 2026-06-23T00:39:14+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T00:39:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/combination-problem]]
+- **Word count**: 2653 → 2653 (no change; 106% of concepts 2500 soft, under 3500 hard — no condensation needed)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (10th review of a fully-converged article; verification pass)
+- **Verified the one substantive change since the 9th review** (the 2026-06-19 deflationism/compression sentence in "Why the Problem Is Serious"): faithful to source [[composition-question-rivals]] (deflationism = "load-bearing rival" + compression = "treating them as one compresses the world's description" both match); both new section anchors (#metaontological-deflationism, #information-compression-composition) resolve and are explicitly defined. No calibration slippage (the addition concedes a rival against the Map's own argument).
+- **Citations**: no new cites since 9th review; Kerskens/Pérez 2022, Khan/Wiest 2024, Warren 2023 (7(3) 038001, publisher-form title) all previously live-verified and unchanged. Corpus Warren 048001→038001 sweep (queued by the 9th review) confirmed complete corpus-wide.
+- **Label-leakage scan**: clean. **Validation**: passes. **Cross-links**: 18+ wikilinks resolve.
+- **Output**: [[reviews/deep-review-2026-06-23-combination-problem]]
 
 ## 2026-06-23T00:23:55+00:00 - refine-draft
 - **Status**: Success
