@@ -4,8 +4,8 @@ description: "Penrose argues spacetime instability causes quantum collapse—a t
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
-last_deep_review: 2026-06-02T04:30:26+00:00
+ai_modified: 2026-06-23T00:00:00+00:00
+last_deep_review: 2026-06-23T00:00:00+00:00
 draft: false
 topics:
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
