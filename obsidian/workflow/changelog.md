@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T04:25:37+00:00
+ai_modified: 2026-06-23T04:45:20+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T04:45:20+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-06-23-gemini-2-5-pro]]
+- **Subject**: concepts/consciousness-selecting-neural-patterns (THIRD leg of the 2026-06-23 triple — same recent-aged fallback subject as the ChatGPT + Claude legs; real cross-reviewer convergence)
+- **Claims verified**: 9 — all five headline weaknesses + cited defeaters checked against the live article and live literature. FABRICATIONS CAUGHT: finding #2 (Kerskens & Pérez MRI entanglement) and finding #5 (Babcock superradiance/tryptophan) both attribute citations the article does NOT make (grep returns nothing; quoted strings absent) — see [[outer-review-fabricates-target-quotes]]. Three verified sources (Sauerbrei & Pruszynski 2025 *Nat. Neurosci.*; Christian List 2023 *Noûs*; Donadi et al. 2021 *Nat. Phys.* Gran Sasso) are REAL but the Map ALREADY engages all three elsewhere ([[bandwidth-of-consciousness]], [[vertiginous-question]], [[penrose-gravity-induced-collapse-empirical-prospects]]) — and the reviewer mischaracterizes Sauerbrei & Pruszynski (they ACCEPT the ~10 bits/s conscious ceiling; reviewer reads them as refuting it).
+- **High-value findings**: 0 new actionable content. CONVERGENT with ChatGPT/Claude legs on the unfalsifiability/tenet-bracketing theme and the Zeno timescale gap (both already owned by existing tasks). Verdict: rejection (hostile-referee framing).
+- **Tasks generated**: 0 new. Gemini's genuine contribution (convergence signal + 3 optional cross-links: List→vertiginous-question, Sauerbrei→bandwidth-of-consciousness, Donadi→penrose-gravity-collapse) folded as a convergence note onto the existing ChatGPT-sourced consolidated refine task, with fabrications flagged so no fork chases them, per [[outer-review-same-file-task-pileup]]. No new same-file churn (article near 3500w hard ceiling).
+- **Note**: All three 2026-06-23 outer-review entries now resolved (none pending) and ≥2 processed → [[combine-outer-reviews]] is eligible to fire next loop iteration.
 
 ## 2026-06-23T04:25:37+00:00 - refine-draft
 - **Status**: Success
