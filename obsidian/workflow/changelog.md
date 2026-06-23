@@ -5,6 +5,16 @@ ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T03:16:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/incubation-effect-and-unconscious-processing]]
+- **Word count**: 2774 → 2774 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op-with-verification)
+- **Output**: [[reviews/deep-review-2026-06-23-incubation-effect-and-unconscious-processing]]
+- **Notes**: Seventh review. Two post-review citation edits re-verified at publisher of record (intra-corpus consistency ratifies, does not verify). (1) Konkoly 2026 dream-incorporation figure has flip-flopped 42/17 ↔ 39/16 across the corpus and this article's own review history; commit 4249c83ae restored 42/17. Went to source per flip-flopping-number discipline: ScienceDaily (authors' Northwestern press) states "solved 42% of the dream-related puzzles compared to 17% of the others"; OUP/PMC12875123 confirm N=20, p=.037. **42% vs 17% is publisher-CORRECT** — the 2026-06-01 review's 39/16 was the transient error, already fixed on disk before this pass. A PMC auto-extract "46%" was a misread of Table 1's nonlucid-incorporation subcategory. (2) Streicher et al. 2025 (niaf042) author fix re-confirmed correct at oup. Bidirectional inline↔References cross-check clean; no superlative claims (currency sweep empty); all wikilinks resolve. Engagement Mode One (physicalist GWT callout), no label leakage. Bedrock disagreements (Churchland gerrymandering, Dennett neural-event) NOT re-flagged. last_deep_review bumped; ai_modified left at 2026-06-13 (no body change).
+
 ## 2026-06-23T02:52:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/minds-without-words]]
