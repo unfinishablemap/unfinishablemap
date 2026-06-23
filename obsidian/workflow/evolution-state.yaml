@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T02:49:42.808837+00:00'
-session_count: 12949
-cycle_position: 9823
+last_updated: '2026-06-23T02:55:39.578165+00:00'
+session_count: 12950
+cycle_position: 9824
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-23T02:45:46.803076+00:00'
   optimistic-review: '2026-06-22T22:39:32.067604+00:00'
   check-tenets: '2026-06-22T20:05:05.753355+00:00'
   check-links: '2026-06-22T19:59:45.237607+00:00'
-  deep-review: '2026-06-23T02:31:14.835442+00:00'
+  deep-review: '2026-06-23T02:55:39.578165+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-22T20:01:28.001758+00:00'
   coalesce: '2026-06-22T23:36:31.552797+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 413
-  reviews_completed: 5659
+  reviews_completed: 5660
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-23'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-23'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: condense
   type: condense
+  date: '2026-06-23'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-23'
   outcome: success
 agentic_social:
@@ -1325,16 +1325,55 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 0
+  p2_tasks: 2
+  p3_tasks: 1
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 574
-  last_replenishment: '2026-06-23T02:35:00+00:00'
+  last_replenishment_run: 575
+  last_replenishment: '2026-06-23T03:00:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.574 (2026-06-23T02:35Z): MINTED 1 staleness
+  current_replenishment_note: |-
+    run no.575 (2026-06-23T03:00Z): MINTED 1 genuine-drift deep-review
+    (topics/aesthetics-and-consciousness.md), floor restored 2->3. Authoritative
+    count_p0_p2_tasks=2 PRE-mint / =3 POST-mint (both verified; select_queue_task
+    confirms the new task selectable as DEEP_REVIEW at top of queue). The prior
+    run-574 mint (apex/minds-without-words.md) was PICKED + executed this cycle
+    (commit 1a9be615f, last_deep_review bumped), dropping the live floor 3->2 --
+    documented replenish-at-floor alternation (unfin_loop_steady_state), NOT
+    deadlock. ZERO open P3 to promote (lone P3 = fresh pessimistic-review fix, not a
+    floor-restore target). ALL 8 sources re-audited from LIVE DISK, all exhausted of
+    clean genuine-MINT candidates EXCEPT this one. (chain) last 30 commits =
+    deep-review x11 / replenish x9 / social x3 / refine / condense / pessimistic /
+    embed / sync -- ZERO research-topic/expand-topic/cross-review. (unconsumed
+    research) ZERO -- newest notes disk-confirmed consumed (letheby,
+    loss-aversion, thermal/vestibular/interoceptive all have articles). (staleness
+    >=30d) only NEVER-reviewed files are the 7 positions/ entries
+    (positions-evolve-governed, not deep-review-stale); no real-content article past
+    30d without a deep-review. (genuine-drift) 141 ai_modified>last_deep_review
+    candidates but git-numstat classification confirms the top tier are ALL cosmetic
+    cross-touches (indexical-identity / inaccessible-past / attention-as-causal-bridge
+    / time-consciousness-growing-block / normativity-of-reason = reciprocal-wikilink
+    or expand-from-OTHER-article edits; embodied-cognition just refined THIS cycle by
+    commit 6482ecfab = over-review churn per deep_review_over_reviews_converged). THE
+    clean genuine-own-body exception is topics/aesthetics-and-consciousness.md: last
+    deep-reviewed 2026-06-08 but own-body content-refined 2026-06-18 by commit
+    7e976fa7b ("Adopt reductionism calibration") which ADDED substantive physicalist
+    counter-readings / "none is decisive on its own" hedges / structural-similarity
+    rebuttals to the core anti-reductionist argument -- UNVERIFIED by any deep-review.
+    ai_system claude-opus-4-6 (older model) = extra fresh-eyes justification.
+    synesthetic-void (2 unverified 06-17 refines) was the rival but is an open
+    HUMAN-LENGTH-DECISION article at 3578w hard_warning -- deferred to avoid length
+    entanglement; aesthetics-and-consciousness at 2717w status=ok is the lower-risk
+    mint. The deep-review must verify the 06-18 calibration hedges landed balanced (do
+    NOT regress per condense-regresses-calibration-qualifiers), web-verify any
+    neuroaesthetics citations (ai_citation_metadata_unreliable 3-state), re-grep
+    in-quoted sibling strings (apex-stale-internal-quote-channel), confirm cross-links
+    resolve+reciprocate, stay length-neutral (topics hard 4000, ~1283w headroom).
+    Inserted at TOP of Active Tasks to defeat LIFO. Expect replenish-at-floor
+    alternation to continue.
+  legacy_run_574_note: 'run no.574 (2026-06-23T02:35Z): MINTED 1 staleness
     deep-review (apex/minds-without-words.md, last deep-reviewed 2026-06-05, oldest
     genuine own-review gap ~18d, older-model ai_system stamp), floor restored 2->3.
     Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2 PRE-mint / =3
