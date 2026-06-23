@@ -5,6 +5,16 @@ ai_modified: 2026-06-23T03:35:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 marked unavailable at commission; Opus fallback, expected per [[claude-leg-fable5-bail-recurring]])
+- **File**: [[reviews/outer-review-2026-06-23-claude-opus-4-8]]
+- **Subject**: concepts/consciousness-selecting-neural-patterns (same recent-aged fallback subject as the day's ChatGPT + pending Gemini legs — real cross-reviewer triple)
+- **Claims verified**: 6 checked against the live article (active-inference omission CONFIRMED real — "policy-level" used ×3, zero active-inference/Friston/Sandved-Smith mentions; metadata date mismatch confirmed; three-framework bundling, unconditional causal-closure claim, "seven orders" figure, photosynthesis analogy all located in text). Reviewer's own citation audit (6 load-bearing cites real + correctly attributed, no fabrication) re-checked for internal consistency, not re-fetched — matches the Map's prior verification record.
+- **High-value findings**: 2 (NOVEL: predictive-processing/active-inference is omitted entirely yet the article borrows active inference's "policy-level" term of art — the strongest physicalist rival is unconfronted; CONVERGENT with ChatGPT leg: the post-decoherence "escape from Tegmark" is a relabeling, improper/proper mixtures are locally empirically indistinguishable). Verdict REVISE-HARD, core thesis demoted to coherence-only. Citations PASS.
+- **Tasks generated**: 2 new (P2×2: confront active inference in the target article [novel, confront-and-cross-link to existing [[predictive-processing-and-dualism]], LENGTH-BINDING]; add a "strongest physicalist rival" gate + co-optation firewall + independence audit to project methodology docs). Convergent findings folded as a note onto the existing ChatGPT-sourced consolidated refine task rather than duplicated, per [[outer-review-same-file-task-pileup]].
+- **Note**: Gemini leg still pending collection; [[combine-outer-reviews]] will fire once all three 2026-06-23 entries are resolved and ≥2 processed.
+
 ## 2026-06-23T04:10:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

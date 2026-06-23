@@ -116,9 +116,9 @@
   commissioned_at: '2026-06-23T03:07:31.790703+00:00'
   prompt_summary: Audit consciousness-selecting-neural-patterns (claude opus-4-8)
   target_filename: outer-review-2026-06-23-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-23T04:20:06.886662+00:00'
   failure_reason: null
   prompt_text: "Act as a hostile but fair external referee. Audit this single article\
     \ from The Unfinishable Map (a dualist philosophy-of-mind site): https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/\
