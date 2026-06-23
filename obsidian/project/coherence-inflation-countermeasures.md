@@ -4,7 +4,7 @@ description: "Safeguards against systematic overcommitment when an AI system bot
 created: 2026-01-16
 modified: 2026-06-08
 human_modified: null
-ai_modified: 2026-06-22T07:37:22+00:00
+ai_modified: 2026-06-23T05:23:30+00:00
 draft: false
 topics: []
 concepts:
@@ -32,6 +32,7 @@ related_articles:
   - "[[reviews/outer-review-2026-05-26-claude-opus-4-7]]"
   - "[[reviews/outer-review-2026-05-26-chatgpt-5-5-pro]]"
   - "[[reviews/outer-review-synthesis-2026-05-27]]"
+  - "[[reviews/outer-review-synthesis-2026-06-23]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -436,6 +437,16 @@ Both reframes are option (b) of the gate: the items were not independent, so the
 
 This gate is enforced *inside* the synthesis articles, which means it must be carried by the passes that write and review them. The `/apex-evolve` remit (which builds and maintains every apex article) and the `/deep-review` remit (which reviews load-bearing articles) must apply Countermeasure 15 to any convergence assertion they encounter or introduce: a convergence claim that has not visibly passed the independence check or named the common-cause null is treated as an open finding, fed to the [[bedrock-clash-vs-absorption|absorb-vs-clash decision]] (Countermeasure 8), and either independence-justified, downgraded, or recorded as a `refine-draft` ticket. This is the synthesis-tier companion to Countermeasure 13's common-cause screening prerequisite, made blocking at the point of assertion rather than advisory after the fact.
 
+### Two Independence-Failure Tells Beyond Shared Architecture
+
+The gate's option (b) above names *shared upstream architecture, a single introspective channel, or a framework-internal assembly* as the independence-defeating conditions. The 2026-06-23 outer-review triple on [[concepts/consciousness-selecting-neural-patterns]] (synthesis at [[reviews/outer-review-synthesis-2026-06-23]]) surfaced two further tells that defeat independence in *empirical-* and *theoretical-citation* clusters — distinct from the voids-cluster shared-architecture case — and that the gate must check before "convergence" or "converging lines" is permitted. They specialise the independence check for citation clusters the way [[per-cluster-independence-scoring]] specialises it for voids clusters.
+
+1. **Shared authorship and mutual citation — one research cluster presented as multiple lines.** The audited article cited Craddock 2017 (a computational tubulin-oscillation prediction), Wiest 2025 (a review), and Khan 2024 (a pharmacology result) as three converging microtubule "lines" — but Wiest *reviews* Craddock and is *senior author* on Khan, so the three are a single research cluster, not three independent confirmations. Before counting citations as convergent lines, the article must check for **shared authorship, mutual citation, and a common research group**; where present, the cluster carries the evidential weight of one line, not N, and the article must disclose the non-independence in prose. This is the citation-grain instance of the common-cause null: the shared upstream is a shared *authorship lineage* rather than a shared cognitive architecture.
+
+2. **Theoretical incompatibility — mutually inconsistent theories bundled as convergent.** The audited article bundled Penrose-Hameroff, Stapp, and Chalmers-McQueen as three frameworks "converging" on bidirectional interaction, despite their being **mutually inconsistent on consciousness's causal role** — consciousness *results from* collapse (Penrose-Hameroff), *causes* collapse (Stapp), and *triggers* collapse via integrated information (Chalmers-McQueen) are incompatible claims, not three roads to one conclusion. Theories that contradict each other on the mechanism cannot jointly raise confidence in that mechanism; counting them as convergent is coherence inflation of a sharper kind than shared-architecture double-counting, because here the items do not merely fail to be independent — they are *mutually exclusive*, so at most one can be correct and their number is no evidence at all. Before bundling rival mechanisms as convergent support for a shared conclusion, the article must check whether they are **consistent with one another on the load-bearing claim**; where they are not, it must present them as competing candidates the Map has not adjudicated, not as cumulative evidence.
+
+Both tells route to the same fail-closed remediation as the shared-architecture case: disclose the non-independence (or the incompatibility) in the article's own prose and downgrade the convergence claim, or — where the items genuinely are independent and consistent — establish that explicitly under option (a). Neither tell requires retracting the synthesis; both require it to stop overstating the count.
+
 ### Key Indicators
 
 Track these metrics across evolution sessions:
@@ -456,6 +467,7 @@ Track these metrics across evolution sessions:
 | Apex articles failing the missing-engagement audit on a top-N opponent (Countermeasure 13) | 0 | >1 |
 | Novelty claims unchecked against occupied conceptual space, or substantial extensions of a named view without a credit paragraph (Countermeasure 14) | 0 | >0 |
 | Synthesis-article convergence claims asserting evidential support without an independence check or named common-cause null (Countermeasure 15) | 0 | >0 |
+| Citation clusters counted as convergent lines despite shared authorship/mutual citation, or mutually inconsistent theories bundled as convergent (Countermeasure 15, two-tells check) | 0 | >0 |
 
 ### Reporting
 
