@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T01:34:44.182419+00:00'
-session_count: 12937
-cycle_position: 9817
+last_updated: '2026-06-23T01:38:24.352658+00:00'
+session_count: 12938
+cycle_position: 9818
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T21:29:00.240046+00:00'
   optimistic-review: '2026-06-22T22:39:32.067604+00:00'
   check-tenets: '2026-06-22T20:05:05.753355+00:00'
   check-links: '2026-06-22T19:59:45.237607+00:00'
-  deep-review: '2026-06-23T01:25:30.724011+00:00'
+  deep-review: '2026-06-23T01:38:24.352658+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-22T20:01:28.001758+00:00'
   coalesce: '2026-06-22T23:36:31.552797+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 413
-  reviews_completed: 5654
+  reviews_completed: 5655
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-06-22'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-23'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-23'
   outcome: success
 agentic_social:
@@ -1328,10 +1328,44 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 571
-  last_replenishment: '2026-06-23T01:29:00+00:00'
+  last_replenishment_run: 572
+  last_replenishment: '2026-06-23T01:42:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.571 (2026-06-23T01:29Z): MINTED 1 genuine-drift
+  current_replenishment_note: 'run no.572 (2026-06-23T01:42Z): MINTED 1 genuine-drift
+    deep-review (voids/transit-void.md), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
+    PRE-mint / =3 POST-mint (both verified). The two counted P2s pre-run, both open
+    above Completed: entropic-brain-hypothesis cross-links + parapsychology-firewall
+    cross-links (each a grep-verified inbound-link deficit). The prior run no.571 erasure-void
+    deep-review, plus born-rule (570) and combination-problem, were all PICKED + EXECUTED
+    by the cycle slots this cycle (now ### checkmark 2026-06-23 below the Completed
+    header), dropping the live floor 3->2. Documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT deadlock. NO open P3 left to promote (both prior
+    P3s already promoted by runs 568/569), so floor-restore-by-promotion is exhausted;
+    lowest-churn move is one genuine-drift deep-review. ALL 8 sources re-audited from
+    LIVE DISK, all exhausted of clean genuine-MINT candidates EXCEPT this one: (chain)
+    last 25 commits = deep-review x10 / replenish x8 / social x3 / refine / coalesce
+    / embed / sync -- ZERO research-topic/expand-topic/cross-review. (unconsumed research)
+    ZERO -- 8 newest notes disk-confirmed consumed. (genuine-drift) 59 candidates but
+    top + mid tier ALL git-verified COSMETIC cross-touches (+2/-1 single-wikilink edits
+    from a DIFFERENT article expand/refine pass) -- over-review churn per deep_review_over_reviews_converged.
+    THE clean genuine-own-body exception is voids/transit-void.md: last deep-reviewed
+    2026-06-02 but own-body content-edited 2026-06-10 by refine commit bb8cda45e (reduce
+    interface rhetoric, 4 ins/4 del to this void) -- UNVERIFIED by deep-review. The
+    one substantial-diff alternative (synesthetic-void 23/9) is under a HUMAN LENGTH
+    DECISION (2026-06-17) and protected. (staleness >=30d) ZERO content articles past
+    30d without a deep-review. (orphan/length) orphaned_files=0; every content length
+    offender human-deferred / veto / accept-as-survey / human-length-decision / index-hub
+    / research-note -- NO clean mintable condense candidate. (gap/caps) topics 279/320
+    + concepts 267/320 + positions 8/80 have headroom but generation harvester-governed
+    (harvest ran 2026-06-22T22:04Z) + gap-analysis Vetoed-bank-dedup-blocked. (positions)
+    8 entries (<10 audit threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex)
+    3 applied apex extant, no cluster gap. The transit-void deep-review must verify
+    the 2026-06-10 interface-rhetoric calibration (evidential-status-discipline; did
+    not over-correct into under-claiming), web-verify any citation 3-state (ai_citation_metadata_unreliable),
+    currency-sweep, confirm coalesce-merged content coherent, and stay STRICTLY length-neutral
+    (body 2814w soft_warning, voids hard 3000, ~186w headroom). Inserted at top of Active
+    Tasks to defeat LIFO. Expect replenish-at-floor alternation to continue.'
+  legacy_run_571_note: 'run no.571 (2026-06-23T01:29Z): MINTED 1 genuine-drift
     deep-review (voids/erasure-void.md), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
     PRE-mint / =3 POST-mint (both verified). The two counted P2s pre-run, both still
     open above the Completed header: entropic-brain-hypothesis cross-links + parapsychology-firewall
