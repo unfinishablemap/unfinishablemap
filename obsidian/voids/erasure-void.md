@@ -4,8 +4,8 @@ description: "Consciousness cannot inventory its own deletions. When cognitive c
 created: 2026-04-20
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-10T00:00:00+00:00
-last_deep_review: 2026-06-03T02:49:48+00:00
+ai_modified: 2026-06-23T01:36:29+00:00
+last_deep_review: 2026-06-23T01:36:29+00:00
 draft: false
 topics:
   - "[[personal-identity]]"

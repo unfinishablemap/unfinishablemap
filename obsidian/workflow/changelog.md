@@ -5,6 +5,18 @@ ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T01:36:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/erasure-void]]
+- **Word count**: 2284 → 2284 (no body change; length-neutral, soft warning at 114% of 2000)
+- **Scope**: web-verified the two citations added by refine ea2ea56c0 (2026-06-10) that post-dated the 2026-06-03 review. Reconciled commit-message discrepancy: "Larner 2024" applied to sibling imagery-void.md, NOT this file; here the refine added only the Dunning-Kruger contestation caveat + 2 refs.
+- **Citation web-verify (publisher of record)**: Nuhfer et al. 2017 (*Numeracy* 10(1) Art.4) — real-correct (USF DigitalCommons; cleared 2016 9(1) Art.4 sibling-trap); Gignac & Zajenkowski 2020 (*Intelligence* 80, 101449) — real-correct (ScienceDirect S0160289620300271). Body caveat ("regression to the mean plus better-than-average bias rather than genuine metacognitive deficit") faithful to G&Z; correctly hedged. Prior-review fixes (#1 Gertler, #2 Michel, #3 Morris & Mograbi) confirmed not regressed.
+- **Tenet check**: Tenet-1 (Dualism) framing honest — "This does not prove dualism / more naturally accommodated by". No possibility/probability slippage.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged 3rd review; verify-only + frontmatter timestamps)
+- **Output**: [[reviews/deep-review-2026-06-23-erasure-void]]
+
 ## 2026-06-23T01:23:14+00:00 - deep-review (LENGTH-PROTECTED, verify-only)
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
