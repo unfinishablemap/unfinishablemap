@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T00:37:51.006887+00:00'
-session_count: 12929
-cycle_position: 9814
+last_updated: '2026-06-23T00:41:06.582046+00:00'
+session_count: 12930
+cycle_position: 9815
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T21:29:00.240046+00:00'
   optimistic-review: '2026-06-22T22:39:32.067604+00:00'
   check-tenets: '2026-06-22T20:05:05.753355+00:00'
   check-links: '2026-06-22T19:59:45.237607+00:00'
-  deep-review: '2026-06-23T00:15:15.264003+00:00'
+  deep-review: '2026-06-23T00:41:06.582046+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-22T20:01:28.001758+00:00'
   coalesce: '2026-06-22T23:36:31.552797+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 413
-  reviews_completed: 5651
+  reviews_completed: 5652
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-22'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-23'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-23'
   outcome: success
 agentic_social:
@@ -1324,15 +1324,62 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 1
+  p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     promotion: 1
-  last_replenishment_run: 568
-  last_replenishment: '2026-06-23T00:36:00+00:00'
+  last_replenishment_run: 569
+  last_replenishment: '2026-06-23T00:44:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.568 (2026-06-23T00:36Z): PROMOTED 1 well-grounded
+  current_replenishment_note: 'run no.569 (2026-06-23T00:44Z): PROMOTED 1 well-grounded
+    integrate-orphan cross-link task P3->P2 (topics/parapsychology-firewall.md inbound
+    links), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
+    PRE-promotion / =3 POST-promotion (verified both). The two counted P2s pre-run:
+    predictive-self-binding integrate-orphan (1 inbound vs 4 outbound parents) + entropic-brain-hypothesis
+    cross-links (3 inbound all intra-cluster, 3 outside-cluster targets link it 0x);
+    the three #veto condenses (composition-question-rivals 4106w, meaning-of-life 4160w,
+    phenomenal-output 6872w) are parser-excluded. Documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT deadlock: prior run no.568 (00:36Z) restored the
+    floor to 3 by promoting entropic-brain-hypothesis P3->P2; the cycle slot then PICKED
+    + executed the queued combination-problem deep-review (commit b9957586e, now done
+    below the Completed header) -- the ONE genuine-drift candidate the last several
+    runs counted -- dropping the live floor 3->2 (deep_review_over_reviews_converged
+    same-day collision; combination-problem now last_deep_review 2026-06-23T00:39Z =
+    consumed). ALL 8 sources independently re-audited from LIVE DISK, ALL exhausted
+    of clean genuine-MINT candidates: (chain) recent_tasks zero research-topic/expand-topic/cross-review
+    completions (types deep-review x9 / replenish x7 / agentic-social x2 / coalesce
+    / refine). (unconsumed research) ZERO -- all 7 newest notes ls-verified to have
+    live slug-articles (letheby->predictive-self-binding, entropic-brain->concepts/entropic-brain-hypothesis,
+    loss-aversion->negative-valence-asymmetry, non-western-physicalist->the-hard-problem-in-non-western-philosophy,
+    thermal/vestibular/interoceptive->same-slug topics). (genuine-drift) combination-problem
+    (the one un-cosmetic ai_modified>last_deep_review candidate the last 4 runs counted)
+    JUST consumed by the cycle slot; a fresh own-body-vs-cosmetic git classification
+    of the 60-file drift pool (gap >=5d) found every top candidate a git-verified cosmetic
+    cross-touch (apex-articles 55d index hub; embodied-cognition 21d just-refined 5/5-line;
+    moral-responsibility/personal-identity/phenomenology-of-memory/phenomenal-value-realism
+    all 2-4 line reciprocal cross-link edits already deep-reviewed) or human-deferred
+    (born-rule, synesthetic-void, clinical-dissociation, valence). (length) re-confirmed
+    via get_length_warnings: every content offender human-deferred (epistemology-of-convergence
+    6479w, born-rule 5118w, clinical-dissociation 4861w, time-collapse 4606w, argument-from-reason
+    4489w, epistemic-advantages 4400w, laws-and-dispositions 4213w, memory-channel 4296w
+    accept-as-survey), veto (phenomenal-output 6872w, composition-question-rivals 4106w,
+    meaning-of-life 4160w), index hub (apex-articles), or research/ note; the few unaccounted
+    hard-warnings (reductionism 3561w, qm-interpretations 4050w, consciousness-in-simple-organisms
+    4022w) are all recently-reviewed or composition-cluster survey -- NO clean mintable
+    condense candidate. (orphan) orphaned_files=0. (gap/caps) topics 279/320 + concepts
+    267/320 + positions 8/80 have headroom but new-article generation is harvester-governed
+    (harvest ran 2026-06-22T22:04Z) + gap-analysis Vetoed-bank-dedup-blocked. (positions)
+    8 entries (<10 audit threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex)
+    3 applied apex extant, no high-confidence cluster gap. So the honest lowest-churn
+    floor restorer is to PROMOTE the ONLY remaining open P3: parapsychology-firewall
+    addresses a REAL, GREP-VERIFIED-THIS-RUN cross-cluster integration deficit (only
+    2 inbound links, both intra-cluster; the 4 named outside-cluster targets -- quantum-consciousness,
+    born-preserving-causal-efficacy, presentiment-and-retrocausality, out-of-body-experiences
+    -- each link it 0 times, all 4 files on disk). LENGTH-NEUTRAL by construction (1-2
+    strongest links, frontmatter + at most a one-clause body mention; do NOT pad). Superseded
+    run-568 note follows.'
+  legacy_run_568_note: 'run no.568 (2026-06-23T00:36Z): PROMOTED 1 well-grounded
     refine-draft cross-link task P3->P2 (concepts/entropic-brain-hypothesis.md inbound
     links), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
     PRE-promotion / =3 POST-promotion (verified both). The two counted P2s pre-run:
