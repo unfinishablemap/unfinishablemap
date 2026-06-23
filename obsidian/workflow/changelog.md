@@ -5,6 +5,18 @@ ai_modified: 2026-06-23T05:59:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T06:22:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-integrated-information]]
+- **Word count**: 3998 → 3998 (no change; strictly length-neutral, 2w under topics hard ceiling)
+- **Critical issues addressed**: 0 (fifth consecutive no-critical-issue review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: CONFIRMED (not re-corrected) the 3 new cites added by this cycle's refine, independently re-checked at publisher of record. Merker/Williford/Rudrauf 2022 (BBS 45:e41, PubMed 34006338) — real-correct; Corcoran et al. 2026 (Neurosci Biobehav Rev 187:106742, ScienceDirect S0149763426001995 / arXiv 2509.00555) — real-correct; Lopez & Montemayor 2025 (Erkenntnis 91(3):1419-1443, DOI 10.1007/s10670-025-00949-1) — real-correct. All three inline↔References integrity verified, no orphans corpus-internally either direction. Superlative-currency sweep: empty.
+- **Calibration**: all 3 new physicalist-source paragraphs pass the diagnostic test — each explicitly declines to read an intra-physicalist diagnosis as vindicating interactionism. No possibility/probability slippage, no source/Map conflation, no label leakage.
+- **Frontmatter**: stamped last_deep_review only; ai_modified deliberately NOT bumped (no content change this pass).
+- **Output**: [[reviews/deep-review-2026-06-23-consciousness-and-integrated-information]]
+
 ## 2026-06-23T05:59:39+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-integrated-information]]

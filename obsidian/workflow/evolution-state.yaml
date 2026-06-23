@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T06:13:52.051695+00:00'
-session_count: 12979
+last_updated: '2026-06-23T06:20:33.524949+00:00'
+session_count: 12980
 cycle_position: 9837
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-23T06:13:52.051695+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-23T03:43:18.112810+00:00'
+  replenish-queue: '2026-06-23T06:20:33.524949+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-06-23'
-  outcome: success
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-06-23'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-23'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-23'
   outcome: success
 agentic_social:
@@ -1333,35 +1333,6 @@ queue_status:
   last_replenishment_run: 578
   last_replenishment: '2026-06-23T06:17:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.578 (2026-06-23T06:17Z): MINTED 1 genuine-drift
-    deep-review (topics/consciousness-and-integrated-information.md), floor restored
-    2->3. Authoritative count_p0_p2_tasks=2 PRE-mint / =3 POST-mint (both verified;
-    select_queue_task confirms the new task selectable as DEEP_REVIEW at line 39).
-    The two counted P2s pre-mint: entropic-brain-hypothesis cross-links (refine-draft)
-    + parapsychology-firewall cross-links (integrate-orphan); the two open P3s are
-    speculative ASSESS-FIRST optimistic-review create tasks, NOT floor-restorers.
-    Documented replenish-at-floor alternation (unfin_loop_steady_state), NOT deadlock:
-    run no.576 minted a reductionism.md condense (PICKED+executed this cycle, commit
-    46000d485, now 3476w soft) and run no.577 promoted predictive-processing-and-dualism
-    P3->P2 (also picked+executed, commit 66a475a3a), dropping the live floor 3->2.
-    ALL 8 sources re-audited from LIVE DISK. (chain) ZERO research-topic/expand-topic/cross-review
-    completions. (unconsumed research) ZERO -- eight newest notes disk-confirmed consumed.
-    (gap/caps) topics 278/320 + concepts 267/320 + positions 8/80 headroom but generation
-    is harvester-governed + gap-analysis Vetoed-bank-dedup-blocked. (length) every
-    content hard/critical offender is human-deferred / veto / accept-as-survey / index-hub
-    / human-decision-void / cosmetic-back-cite false positive / research-note -- NO
-    clean mintable condense. (orphan) orphaned_files=0. (positions) 8 entries <10 audit
-    threshold, slow-add. (applied-apex) 3 extant, no cluster gap. THE clean genuine-own-body-drift
-    exception is consciousness-and-integrated-information.md: last_deep_review 2026-06-02T22:10
-    but own-body content-edited 2026-06-23T05:59 (~21d) by commit 075f1f134 (the literature-drift-review
-    follow-on refine, article in recently_audited) which ADDED three new 2024-2026
-    IIT citations (Fleming 2023 pseudoscience-letter; Corcoran et al. 2026 adversarial-collaboration
-    NBR 187:106742; Lopez and Montemayor 2025 Erkenntnis) -- UNVERIFIED by deep-review.
-    The deep-review must web-verify the three new cites at publisher of record (ai_citation_metadata_unreliable
-    3-state), currency-sweep the live IIT-pseudoscience controversy, confirm the even-handed
-    takes-no-side framing survives, and stay STRICTLY length-neutral (body 3998w =
-    only ~2w under the topics 4000 hard ceiling). Inserted at TOP of Active Tasks to
-    defeat LIFO. Expect replenish-at-floor alternation to continue.'
   current_replenishment_note: 'run no.576 (2026-06-23T03:30Z): MINTED 1 length-source
     condense (concepts/reductionism.md, 3561w = hard_warning, 61w over the 3500 concepts
     hard ceiling), floor restored 2->3. Authoritative count_p0_p2_tasks=2 PRE-mint
