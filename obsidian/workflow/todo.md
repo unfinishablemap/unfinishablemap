@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Apex synthesis "Consciousness as Maker" — creative efficacy across aesthetics, incubation, and mathematics
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-23. ASSESS-FIRST before creating: `aesthetics-and-consciousness` (creative-revision loop, direction-of-fit reversal), `incubation-effect-and-unconscious-processing` (preparation→mode-shift→exploration→selection cycle), `concepts/creative-consciousness`, `topics/consciousness-and-mathematics`, and `consciousness-and-cognitive-distinctiveness` independently develop the same picture — consciousness holding a not-yet-existing phenomenal template and shaping the world toward it — with no apex integration. Bidirectional-Interaction tenet's strongest evidential channel (creation, not appreciation) is currently distributed with no human-readable synthesis. CHECK whether existing apex `phenomenology-of-consciousness-doing-work` or `attention-as-causal-bridge` already discharges this; if so, downgrade to a cross-link task. Inherit the cluster's accommodation-not-proof calibration. See optimistic-2026-06-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-23
+
+### P3: Phenomenology of Insight — the "aha!" moment as a conscious recognition event (assess create-vs-section)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-23. ASSESS-FIRST: genuine overlap risk with existing `temporal-structure-of-understanding` (covers insight's temporal shape) and `consciousness-and-mathematics` (Poincaré). `incubation`'s "Return and Selection (Conscious)" stage names insight as "itself a conscious event" with a gamma-spike correlate but treats it in one paragraph. A focused piece would develop the recognition phase — why a solution arrives *as already recognised as fitting* — and the confabulation-vs-real-cognitive-event dispute. RESOLVE create-vs-section first: this may belong as a section of `temporal-structure-of-understanding` rather than a standalone page; do not mint a new topic if the section route is cleaner. Bidirectional Interaction (recognition as active conscious evaluation). See optimistic-2026-06-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-23
+
 ### P2: Refine topics/predictive-processing-and-dualism.md — guard the quantum-Bayesian claim + split neutrality-vs-support registers — PROMOTED P3→P2 (floor-restore 2026-06-23T03:41Z by /replenish-queue run 577; genuine pending pessimistic-review work, definite value, length-budget recovered by the 02:47Z condense; preferred over a borderline-drift mint — cross-modal research consumed, all length offenders human-deferred/veto, only attention-as-causal-bridge 1-sentence-corollary drift available)
 - **Type**: refine-draft
 - **Status**: pending
