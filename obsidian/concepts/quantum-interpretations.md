@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-05-27T07:22:00+00:00
+ai_modified: 2026-06-23T05:51:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-06-23T05:51:21+00:00
 ---
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means—a 2025 Nature survey found no interpretation commands majority support. Different interpretations have radically different implications for whether consciousness plays any role in physics.
@@ -140,23 +140,23 @@ The deepest conflict remains: MWI provides no role for consciousness in physics.
 
 ## Implications for the Map's Framework
 
-The interpretive landscape remains open—see [[qm-interpretations-beyond-many-worlds]] for per-interpretation compatibility analysis. The question is not whether physics rules out consciousness-participation (it doesn't) but which interpretation best explains both quantum phenomena and consciousness. The [[what-consciousness-tells-us-about-physics|reverse inference]] develops this: if consciousness genuinely selects among quantum possibilities, quantum mechanics is structurally partial—complete about possibilities, silent about actuality. Interpretations that eliminate consciousness (Bohmian, MWI) or treat it as epistemic (QBism) don't explain why consciousness exists. The Map takes consciousness as explanatory target.
+The open landscape (see [[qm-interpretations-beyond-many-worlds]] for per-interpretation compatibility analysis) leaves the question not whether physics rules out consciousness-participation (it doesn't) but which interpretation best explains both quantum phenomena and consciousness. The [[what-consciousness-tells-us-about-physics|reverse inference]] develops this: if consciousness genuinely selects among quantum possibilities, quantum mechanics is structurally partial—complete about possibilities, silent about actuality. Interpretations that eliminate consciousness (Bohmian, MWI) or treat it as epistemic (QBism) don't explain why it exists; the Map takes consciousness as explanatory target.
 
 ## The Illusionist Challenge
 
 [[illusionism|Illusionists]] might argue that quantum interpretation has no bearing on consciousness because consciousness itself is an illusion. Frankish (2016) rebuts the naive "something must be under the illusion" reply by distinguishing *phenomenal* properties (denied) from *quasi-phenomenal* properties—introspective representations that *represent* phenomenality without being phenomenal. The "subject of the illusion" objection begs the question against this distinction.
 
-The Map's actual quarrel is narrower. Quasi-phenomenal reconstruction leaves the *causal profile* of the introspective state exactly where physicalism left it, so illusionism inherits rather than resolves the question of what selects determinate outcomes at measurement. The Map's argument from quantum interpretation is conditional: *if* the interpretive landscape leaves a genuine role for consciousness-like selection (as TI/TSVF do), *then* denying phenomenal consciousness requires denying that this role is ever occupied—a substantive empirical bet. Dismissing interpretations as irrelevant while maintaining consciousness is illusory implicitly commits to consciousness-excluding interpretations being correct. Frankish's distinction preserves illusionism against a cheap objection; it does not show interpretive choice is irrelevant.
+The Map's actual quarrel is narrower. Quasi-phenomenal reconstruction leaves the *causal profile* of the introspective state exactly where physicalism left it, so illusionism inherits rather than resolves the question of what selects determinate outcomes at measurement. The Map's argument from quantum interpretation is conditional: *if* the interpretive landscape leaves a genuine role for consciousness-like selection (as TI/TSVF do), *then* denying phenomenal consciousness requires denying that this role is ever occupied—a substantive empirical bet. To dismiss interpretations as irrelevant while holding consciousness illusory is already to commit to consciousness-excluding interpretations. Frankish's distinction preserves illusionism against a cheap objection; it does not show interpretive choice is irrelevant.
 
 ## Process Philosophy Perspective
 
-Whitehead's "actual occasions"—events with physical poles (receiving data) and mental poles (contributing novelty)—map onto quantum events: the wave function encodes possibilities, collapse represents selection. MWI eliminates the mental pole (no selection, only branching); Bohmian mechanics makes it epiphenomenal; time-symmetric interpretations make it efficacious. Process philosophy coheres better with collapse interpretations by a specific criterion: whether the mental pole does explanatory work. Novelty requires selection (absent in MWI); experience requires definiteness; the mental pole must contribute novelty rather than track predetermined positions. Collapse interpretations satisfy all three; MWI and Bohmian mechanics each fail at least one.
+Whitehead's "actual occasions"—events with physical poles (receiving data) and mental poles (contributing novelty)—map onto quantum events: the wave function encodes possibilities, collapse represents selection. The criterion is whether the mental pole does explanatory work. MWI eliminates it (no selection, only branching); Bohmian mechanics makes it epiphenomenal (positions predetermined); time-symmetric interpretations make it efficacious. Novelty requires selection and experience requires definiteness—conditions collapse interpretations satisfy and MWI and Bohmian mechanics each fail.
 
 ## Contemplative Evidence
 
-Contemplative traditions report that attention can be voluntarily directed and mental content selected—the phenomenal character of willing, not merely believing in free will. Interpretations allowing consciousness-physics interaction accommodate this better than those that don't.
+Contemplative traditions report that attention can be voluntarily directed and mental content selected—the phenomenal character of willing, not merely belief in free will. Interpretations allowing consciousness-physics interaction accommodate this better.
 
-[[witness-consciousness|Witness consciousness]]—observing mental events without identification—maps onto the distinction between quantum systems (in superposition) and observing consciousness (that for which collapse occurs). Time-symmetric interpretations make this apt: the witness participates atemporally in which correlations hold. Buddhist [[buddhism-and-dualism|anattā]] (no-self) doesn't challenge this—it denies a permanent self, not moment-to-moment experience. The "observer" needn't be enduring; it can be each moment selecting its own outcome.
+[[witness-consciousness|Witness consciousness]]—observing mental events without identification—maps onto the distinction between quantum systems (in superposition) and observing consciousness (that for which collapse occurs). Time-symmetric interpretations make this apt: the witness participates atemporally in which correlations hold. Buddhist [[buddhism-and-dualism|anattā]] (no-self) doesn't challenge this—it denies a permanent self, not moment-to-moment experience; the "observer" needn't endure, but can be each moment selecting its own outcome.
 
 ## What Would Challenge This View?
 

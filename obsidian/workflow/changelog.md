@@ -5,6 +5,18 @@ ai_modified: 2026-06-23T05:46:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T05:51:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-interpretations]]
+- **Word count**: 2594 → 2563 (-31)
+- **Critical issues addressed**: 0 (none found — tenth review, converged since 5th)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 of substance; verified 2 new citations + length-neutral re-balance
+- **Citation web-verify (§2.4)**: 2 new cites since last review verified real-correct at publisher of record — Reimers et al. 2009 (PNAS 106(11) 4219–4224, DOI 10.1073/pnas.0806273106, PMID 19251667) and McKemmish et al. 2009 (Phys Rev E 80 021912, ADS 2009PhRvE..80b1912M). Both support the new "decoherence dispute is live, not settled" framing in item 3; inline↔References cross-checked, no orphans. Hagan/Hameroff/Tuszyński 2002 reframe "corrected"→"challenged" is an accuracy improvement.
+- **Reasoning modes**: Frankish Mode One→Three (mixed); MWI/SLU Mode Three; Rovelli Mode Three; Tegmark/decoherence Mode One (now stronger — full 2002→2009 internal dispute). No label leakage.
+- **Length**: post-review edit fae80ebc4 added ~94w of verified citation content (2500→2594); offset most via value-preserving tightening (Process Philosophy, Implications, Illusionist, Contemplative sections). Residual 2563/2500 soft_warning, well under 3500 hard — verified citation content not trimmed.
+- **Output**: [[reviews/deep-review-2026-06-23-quantum-interpretations]]
+
 ## 2026-06-23T05:46:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
