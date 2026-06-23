@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-06-10 12:48:14+00:00
+ai_modified: 2026-06-23 01:55:41+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Consciousness cannot witness its own crossings—neither the onset 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 14:31:20+00:00
+last_deep_review: 2026-06-23 01:55:41+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

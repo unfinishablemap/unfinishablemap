@@ -9,6 +9,57 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-23T01:55:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [transit-void](/voids/transit-void/)
+- **Word count**: 2814 → 2814 (no body change; timestamp-only verification pass)
+- **Scope**: 4th deep-review, convergence verification of refine `bb8cda45e` (2026-06-10 "reduce interface rhetoric", deep-review-unverified). Diff since 06-02 review is 3 lines, all in the tenet section; References + structural body byte-identical to the 06-02 web-verify ledger.
+- **Primary finding — rhetoric reduction did NOT over-soften the void into vacuity.** The softening ("predicts"→"is compatible with"; "finds a natural home"→"is compatible with"; "exact location"→"suggestive of" + added "framework-internal coherence, not interface evidence") touched only the metaphysical interpretation overlay. The structural void claim (lede / Two Faces / Incompatibility Generalises / Tenet Pressure Point / Not Merely Epistemic) is untouched and still load-bearing — the void forcefully asserts the observe-vs-cross incompatibility. The refine is the OPPOSITE of over-softening: it removed possibility/probability slippage and replaced it with honest calibration (a tenet-accepting reviewer would have flagged the PRE-refine versions, not the post). Tenet-1 (Bidirectional Interaction) framing remains substantive.
+- **Critical issues addressed**: 0
+- **Citation web-verify**: References unmodified since 06-02 ledger — carried, not re-run. Inline↔References cross-check re-run: no orphans either direction (all of #1–#17 cited; all inline cites resolve). No superlative claims (empirical_currency empty).
+- **Engagement modes (editor-internal)**: unchanged from 06-02 (Dennett=Mode Three; eliminative subpersonal=Mixed Mode One/Two). No label leakage; no boundary-substitution.
+- **Length**: 2814w / 141% of 2000 soft / soft_warning; 186w headroom under 3000 hard. Length-neutral (zero body edits).
+- **Output**: [deep-review-2026-06-23-transit-void](/reviews/deep-review-2026-06-23-transit-void/)
+
+## 2026-06-23T01:51:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Word count**: 4606 → 4606 (no net change; anchor-fragment fix only)
+- **Scope**: 7th review, deep-maintenance pick. CHANGED-SINCE-REVIEW (06-01 deep review → 06-02 refine installed the two human-deferred items: Dennett multiple-drafts as direct rival + Nagarjuna/Madhyamaka tension; both confirmed landed). Stable since 06-02.
+- **Critical issue fixed**: transposed-heading anchor — `[[agent-causation#The Metaphysical Foundation: Substance Causation|...]]` → `#Substance Causation: The Metaphysical Foundation` (live heading halves were swapped; anchor did not resolve). Sole defect this pass.
+- **Citation web-verify (publisher of record)**: re-verified the 4 foundational cites not covered by the 06-01 ledger — Aharonov/Bergmann/Lebowitz 1964 (*Phys. Rev.* 134(6B), B1410), Cramer 1986 (*Rev. Mod. Phys.* 58(3), 647), Frankish 2016 (*JCS* 23(11-12), 11-39), Fox et al. 2012 (*PLoS ONE* 7(9), e45370) — all real-correct. Modern empirical trio (Babcock/Khan/Tegmark) unchanged since 06-01 live-verify. No superlative claims (empirical_currency empty).
+- **Engagement modes (editor-internal)**: Dennett=Mode Three (framework-boundary, honestly declared); Frankish/illusionism=Mixed (opponent's own explanatory commitment then bedrock); Madhyamaka=Mode Three; Tegmark/decoherence=Mode Three w/ quantitative concession; MWI=earns disagreement inside Everettian framework. No label leakage; no boundary-substitution.
+- **Calibration**: no possibility/probability slippage — Dualism-tenet escalation explicitly "preferred not forced... metaphysical hypothesis not established fact"; contemplative-evidence symmetry concession intact. Tenet-accepting reviewer would not flag overstatement.
+- **Links**: all ~27 wikilink targets + 5 tenets `^` anchors resolve.
+- **Length**: 4606 words, over 4000 topics hard ceiling (under 6000 critical) — HUMAN EDITORIAL CALL, unchanged from 06-01 (over-ceiling content is load-bearing calibration + the deferred-item installs; do NOT auto-condense).
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; verify + 1 anchor fix + frontmatter timestamps)
+- **Output**: [deep-review-2026-06-23-time-collapse-and-agency](/reviews/deep-review-2026-06-23-time-collapse-and-agency/)
+
+## 2026-06-23T01:36:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [erasure-void](/voids/erasure-void/)
+- **Word count**: 2284 → 2284 (no body change; length-neutral, soft warning at 114% of 2000)
+- **Scope**: web-verified the two citations added by refine ea2ea56c0 (2026-06-10) that post-dated the 2026-06-03 review. Reconciled commit-message discrepancy: "Larner 2024" applied to sibling imagery-void.md, NOT this file; here the refine added only the Dunning-Kruger contestation caveat + 2 refs.
+- **Citation web-verify (publisher of record)**: Nuhfer et al. 2017 (*Numeracy* 10(1) Art.4) — real-correct (USF DigitalCommons; cleared 2016 9(1) Art.4 sibling-trap); Gignac & Zajenkowski 2020 (*Intelligence* 80, 101449) — real-correct (ScienceDirect S0160289620300271). Body caveat ("regression to the mean plus better-than-average bias rather than genuine metacognitive deficit") faithful to G&Z; correctly hedged. Prior-review fixes (#1 Gertler, #2 Michel, #3 Morris & Mograbi) confirmed not regressed.
+- **Tenet check**: Tenet-1 (Dualism) framing honest — "This does not prove dualism / more naturally accommodated by". No possibility/probability slippage.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged 3rd review; verify-only + frontmatter timestamps)
+- **Output**: [deep-review-2026-06-23-erasure-void](/reviews/deep-review-2026-06-23-erasure-void/)
+
+## 2026-06-23T01:23:14+00:00 - deep-review (LENGTH-PROTECTED, verify-only)
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Word count**: 5118 → 5118 (no body change — length-protected per steer; over 4000 hard ceiling under standing human length decision; did NOT condense, did NOT queue condense)
+- **Scope**: web-verified the two unverified post-2026-06-05 refines both directions — 2c59225a6 (Torres Alegre preprint-status hedge; its 10-bits/s + entanglement-binding edits were in OTHER corpus files) and 94836008c (Gleason form-fixed-vs-existence-underivable recast).
+- **Citation web-verify (publisher of record)**: Gleason 1957 (J.Math.Mech. 6:885-893) real-correct + framing faithful; Torres Alegre 2512.12636 real, arXiv-only — preprint hedge accurate; MGM 2019 (Nat.Commun. 10:1361) real-correct; Sinha 2010 (Science 329:418-421, 10⁻² triple-slit bound) real-correct; Zhang 2603.06211 ("Summing to Uncertainty", 2026-03-06) real-correct + recharacterization faithful. All claims real AND not overstated.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verify-only)
+- **Output**: [deep-review-2026-06-23-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-06-23-born-rule-and-the-consciousness-interface/)
+
 ## 2026-06-23T00:52:50+00:00 - deep-review (orphan integration)
 - **Status**: Success
 - **File**: [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/)

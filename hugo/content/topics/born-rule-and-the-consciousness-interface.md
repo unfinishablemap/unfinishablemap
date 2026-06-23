@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-06-22 08:28:08+00:00
+ai_modified: 2026-06-23 01:23:14+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: 'The Born rule resists derivation across every quantum interpretati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 14:26:16+00:00
+last_deep_review: 2026-06-23 01:23:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

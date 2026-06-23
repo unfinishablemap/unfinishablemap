@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-02 13:42:41+00:00
+ai_modified: 2026-06-23 01:51:36+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Free will, quantum collapse, and time's arrow interlink. If conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 08:00:00+00:00
+last_deep_review: 2026-06-23 01:51:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -164,7 +164,7 @@ Alfred North Whitehead's process philosophy offers a complementary framework. Re
 
 This metaphysics strengthens the [free will](/topics/free-will/) position, and deepens [agent causation's](/concepts/agent-causation/) philosophical foundations:
 
-**Sourcehood without prior causes**: Agent causation holds that the agent, not prior events, is the ultimate source of action. The [substance-causation framework](/concepts/agent-causation/#the-metaphysical-foundation-substance-causation) developed by Lowe provides the grounding: substances exercise causal powers directly, and events are what substances *do*. If consciousness constitutes temporal structure, the picture gains force—there's no chain of prior causes to trace back through, because the agent's selection determines what the past is.
+**Sourcehood without prior causes**: Agent causation holds that the agent, not prior events, is the ultimate source of action. The [substance-causation framework](/concepts/agent-causation/#substance-causation-the-metaphysical-foundation) developed by Lowe provides the grounding: substances exercise causal powers directly, and events are what substances *do*. If consciousness constitutes temporal structure, the picture gains force—there's no chain of prior causes to trace back through, because the agent's selection determines what the past is.
 
 **Alternative possibilities**: Free will traditionally requires that we could have done otherwise. In the growing-block picture with consciousness-constituted collapse, alternatives genuinely existed as superposed possibilities before selection—metaphysically open, not hidden or illusory.
 

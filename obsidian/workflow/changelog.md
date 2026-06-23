@@ -5,6 +5,18 @@ ai_modified: 2026-06-23T00:52:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-23T02:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
+- **Word count**: 3232 → 3232 (no body change; timestamp-only verification pass)
+- **Scope**: 7th deep-review, convergence verification of refine `e7a20f182` (2026-06-13 "promote stage-mismatch / independence caveats", deep-review-unverified). The only body diff since the 6th (2026-06-04) review's verified pass is two cross-reference caveat sentences (affective-tone typology + cessation/plenitude branch). References block byte-identical to the 06-04 publisher-of-record ledger.
+- **Primary finding — the two unverified caveats are faithfully calibrated, not over-stated and not over-softened into vacuity.** Both import divergence-side restraint from the sibling articles ([[affective-tone-divergence-across-meditative-traditions]], [[cessation-versus-plenitude]]): the affective sentence reproduces the Sino-Indian/Neoplatonist independence-weakness + stage-mismatch flags accurately; the cessation sentence's Katz theory-ladenness gloss ("reports not transparent to underlying states") is faithful to the already-verified Katz 1978 usage in the same body. Both run in the *restraining* direction (narrow the convergence argument's reach) → NO possibility/probability slippage; a tenet-accepting reviewer would not flag them as overstated.
+- **Critical issues addressed**: 0
+- **Citation web-verify**: §2.4 trigger applies (body modified) but no new citation introduced; References byte-identical to the 06-04 ledger (Laukkonen 2023, Varela 1996, Lutz 2007, Katz 1978 all real-correct, carried). The new "(Katz)" sentence-reference is already-verified. No superlative claims (empirical_currency empty).
+- **Engagement modes**: unchanged since 6th review (deflationist / heterophenomenology / Madhyamaka all Mode Three). Label-leakage scan clean. Anchoring `[]`.
+- **Convergence**: CONVERGED — 7th review, no edits beyond timestamps. Cessation-vs-plenitude + witness-status divergences are Pre-Kepler-stage constraints honestly named; do not re-flag. Past soft threshold → future modifications length-neutral.
+- **Output**: [[reviews/deep-review-2026-06-23-comparative-phenomenology-of-meditative-traditions]]
+
 ## 2026-06-23T01:55:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/transit-void]]
