@@ -4,9 +4,9 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-19T00:00:00+00:00
+ai_modified: 2026-06-23T03:20:00+00:00
 draft: false
-last_deep_review: 2026-06-08T07:48:11+00:00
+last_deep_review: 2026-06-23T03:20:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
