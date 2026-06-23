@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T03:35:48+00:00
+ai_modified: 2026-06-23T04:25:37+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T04:25:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Source**: pessimistic-2026-06-23.md (Issues 2 & 3)
+- **Changes**: Two prose findings in one length-neutral pass (body 3901w → 3982w, under 4000 hard ceiling).
+  - (Issue 2) "The Quantum-Bayesian Connection": added a clause distinguishing the formal Bayesian/quantum-*logic* lattice isomorphism from a physical mechanism, plus a pointer that any warm-brain proposal owes an answer to [[decoherence]] (handled at [[quantum-consciousness]]). Softened "could be precisely where consciousness enters" → "may be one place where consciousness enters" (hedge-plus-superlative fix).
+  - (Issue 3) Intro: separated the two registers the review flagged as conflated — neutrality ("the formalism does not mandate physicalism", evidence-supported) vs. the separate positive diagnostic ("Markovian monism, once unpacked, is covertly dualist", developed below). Softened "supply exactly the physical architecture" → "supply the kind of physical architecture". Aligned the frontmatter description (removed the matching "exactly" overstatement).
+- **Not touched**: beautiful-loop engagement (per task), citations (verified clean in the review: Laukkonen 2025, Beni 2021, Clark/Friston/Wilkinson 2019, Gunji 2022 — not re-verified).
+- **Published**: yes
 
 ## 2026-06-23T04:25:00+00:00 - outer-review
 - **Status**: Success
