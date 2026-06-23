@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T00:52:50+00:00
+ai_modified: 2026-06-23T03:35:48+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-23T03:35:48+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/reductionism]]
+- **Before**: 3561 words
+- **After**: 3476 words
+- **Reduction**: 2.4%
+- **Technique**: Trim-only to clear the 3500 concepts hard ceiling (+61 over → 24 under). Light sentence-level tightening across ~14 passages: removed redundant qualifiers, merged short adjacent clauses, deleted restated point in the transparency-test "asymmetry demands explanation" tail and a near-duplicate clause in the form/content Locke passage. ALL citations (16 refs), wikilinks, the opening front-loaded summary, "Relation to Site Perspective", and the core anti-reductionist argument (bridge-laws / functional-reduction / transparency-test / multiple-realizability / Kim-exclusion) preserved intact. Per condense-regresses-calibration discipline: all evidential-status / hedging language ("may", "suggests", "looks like a structural limitation", MQI hedges) left in place — no over-softening, no strengthening. Not a calibration anchor (zero evidential-status markers in the audit triple), so safely condensable. Now soft_warning band (target 2500, hard 3500).
 
 ## 2026-06-23T03:20:00+00:00 - deep-review
 - **Status**: Success

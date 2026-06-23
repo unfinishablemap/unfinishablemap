@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T03:23:00.508753+00:00'
-session_count: 12955
+last_updated: '2026-06-23T03:29:22.488383+00:00'
+session_count: 12956
 cycle_position: 9826
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-22T04:10:48.089731+00:00'
   refine-draft: '2026-06-23T00:27:53.269234+00:00'
   research-topic: '2026-06-22T18:29:00.708978+00:00'
-  replenish-queue: '2026-06-23T03:02:40.714801+00:00'
+  replenish-queue: '2026-06-23T03:29:22.488383+00:00'
   condense: '2026-06-23T02:49:42.808837+00:00'
   expand-topic: '2026-06-22T19:03:08.634542+00:00'
   add-highlight: '2026-06-22T08:09:50.352649+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-23'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-23'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-23'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-23'
   outcome: success
 agentic_social:
@@ -1344,33 +1344,33 @@ queue_status:
     git-confirmed converged), dropping the live floor 3->2 -- documented replenish-at-floor
     alternation (unfin_loop_steady_state), NOT deadlock. The two counted P2s pre-mint:
     entropic-brain-hypothesis cross-links (refine-draft) + parapsychology-firewall
-    cross-links (integrate-orphan); the predictive-processing-and-dualism P3 does not
-    count; all three #veto condense tasks are parser-excluded. ALL 8 sources re-audited
-    from LIVE DISK -- UNLIKE run no.575, source 5 (length) yields a GENUINE clean mint
-    this run. (chain) recent_tasks has ZERO research-topic/expand-topic/cross-review
+    cross-links (integrate-orphan); the predictive-processing-and-dualism P3 does
+    not count; all three #veto condense tasks are parser-excluded. ALL 8 sources re-audited
+    from LIVE DISK -- UNLIKE run no.575, source 5 (length) yields a GENUINE clean
+    mint this run. (chain) recent_tasks has ZERO research-topic/expand-topic/cross-review
     completions. (unconsumed research) ZERO -- five newest notes disk-confirmed consumed
     (letheby->predictive-self-binding, entropic-brain->concepts/entropic-brain-hypothesis,
-    thermal/vestibular/interoceptive->same-slug topics, all article files exist). (gap/caps)
-    topics 279/320 + concepts 267/320 + positions 8/80 have headroom but new-article
-    gen is harvester-governed (ran 2026-06-22T22:04Z) + gap-analysis dedup-blocked
+    thermal/vestibular/interoceptive->same-slug topics, all article files exist).
+    (gap/caps) topics 279/320 + concepts 267/320 + positions 8/80 have headroom but
+    new-article gen is harvester-governed (ran 2026-06-22T22:04Z) + gap-analysis dedup-blocked
     against the Vetoed bank. (genuine-drift) the prior candidate combination-problem
     is now reviewed+converged; no other un-cosmetic ai_modified>last_deep_review candidate
     (recently-git-touched files are verified cosmetic cross-touches). (length) GENUINE
     MINT: concepts/reductionism.md 3561w hard_warning -- ai_contribution=100, last_deep_review
-    2026-06-17 (stable, recently verified), NOT a calibration anchor (absent from calibration-audit-triple,
-    ZERO evidential-status/argued-position/framework-commitment markers in body so
-    low condense-regresses-calibration-qualifiers risk), never previously condensed,
-    no accept-as-survey verdict (distinct from the 3 #veto accept-as-survey condense
-    tasks per replenish-overmints-condense-vs-accept-as-survey), NOT in the Vetoed
-    bank (the 4 below-Vetoed hits are completed 2026-02 tasks for a DIFFERENT slug
-    reductionism-and-consciousness). Every OTHER content offender is human-deferred,
+    2026-06-17 (stable, recently verified), NOT a calibration anchor (absent from
+    calibration-audit-triple, ZERO evidential-status/argued-position/framework-commitment
+    markers in body so low condense-regresses-calibration-qualifiers risk), never
+    previously condensed, no accept-as-survey verdict (distinct from the 3 #veto accept-as-survey
+    condense tasks per replenish-overmints-condense-vs-accept-as-survey), NOT in the
+    Vetoed bank (the 4 below-Vetoed hits are completed 2026-02 tasks for a DIFFERENT
+    slug reductionism-and-consciousness). Every OTHER content offender is human-deferred,
     #veto, an index hub, a human-decision void, or a research/ working note. (orphan)
-    orphaned_files=0. (positions) 8 entries <10 audit threshold, positions-evolve ran
-    06:20Z, slow-add limit. (applied-apex) 3 extant, no high-confidence cluster gap.
-    This single mint restores the floor 2->3 with REAL length work rather than a redundant
-    cosmetic-drift deep-review or another P3->P2 promotion. Inserted at TOP of Active
-    Tasks to defeat LIFO. Expect replenish-at-floor alternation to continue until the
-    harvester reopens the research->expand pipeline.'
+    orphaned_files=0. (positions) 8 entries <10 audit threshold, positions-evolve
+    ran 06:20Z, slow-add limit. (applied-apex) 3 extant, no high-confidence cluster
+    gap. This single mint restores the floor 2->3 with REAL length work rather than
+    a redundant cosmetic-drift deep-review or another P3->P2 promotion. Inserted at
+    TOP of Active Tasks to defeat LIFO. Expect replenish-at-floor alternation to continue
+    until the harvester reopens the research->expand pipeline.'
   legacy_run_574_note: 'run no.574 (2026-06-23T02:35Z): MINTED 1 staleness deep-review
     (apex/minds-without-words.md, last deep-reviewed 2026-06-05, oldest genuine own-review
     gap ~18d, older-model ai_system stamp), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
