@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T00:09:27.694963+00:00'
-session_count: 12924
-cycle_position: 9812
+last_updated: '2026-06-23T00:15:15.264003+00:00'
+session_count: 12925
+cycle_position: 9813
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-22T21:29:00.240046+00:00'
   optimistic-review: '2026-06-22T22:39:32.067604+00:00'
   check-tenets: '2026-06-22T20:05:05.753355+00:00'
   check-links: '2026-06-22T19:59:45.237607+00:00'
-  deep-review: '2026-06-23T00:09:27.694963+00:00'
+  deep-review: '2026-06-23T00:15:15.264003+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-22T20:01:28.001758+00:00'
   coalesce: '2026-06-22T23:36:31.552797+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 413
-  reviews_completed: 5650
+  reviews_completed: 5651
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-22'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-22'
@@ -171,6 +167,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-23'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-23'
   outcome: success
 - task: deep-review
@@ -1328,10 +1328,54 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     promotion: 1
-  last_replenishment_run: 566
-  last_replenishment: '2026-06-23T00:05:00+00:00'
+  last_replenishment_run: 567
+  last_replenishment: '2026-06-23T00:25:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.566 (2026-06-23T00:05Z): PROMOTED 1 well-grounded
+  current_replenishment_note: 'run no.567 (2026-06-23T00:25Z): PROMOTED 1 well-grounded
+    pessimistic-review refine task P3->P2 (concepts/embodied-cognition.md), floor restored
+    2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2 PRE-promotion
+    / =3 POST-promotion. The two counted P2s pre-run: combination-problem deep-review
+    (genuine drift, last_deep_review 2026-06-04 < ai_modified 2026-06-19) + predictive-self-binding
+    integrate-orphan (real deficit: 1 inbound wikilink vs 4 outbound parents, disk-verified);
+    the #veto composition-question-rivals condense is parser-excluded, the two reciprocal
+    cross-link P3s do not count. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT deadlock: prior run no.566 (00:05Z) restored the floor to 3 with luck-objection
+    + combination-problem deep-reviews; the cycle deep-review slot then PICKED + executed
+    luck-objection (commit f2f8a5088, 00:15Z, now in Completed), dropping the live floor
+    3->2 (deep_review_over_reviews_converged same-day collision). ALL 8 sources independently
+    re-audited from LIVE DISK, ALL exhausted of clean genuine-MINT candidates: (chain)
+    recent_tasks zero research-topic/expand-topic/cross-review completions. (unconsumed
+    research) ZERO -- letheby->predictive-self-binding, entropic-brain->concepts/entropic-brain-hypothesis,
+    thermal/vestibular/interoceptive->same-slug topics, loss-aversion->negative-valence-asymmetry,
+    non-western-physicalist-narrowing->the-hard-problem-in-non-western-philosophy, all
+    disk-confirmed consumed. (genuine-drift) a fresh own-body-vs-cosmetic git classification
+    of the 145-candidate ai_modified>last_deep_review pool found NO clean un-minted genuine
+    own-body refine -- every top-drift candidate is a git-verified cosmetic cross-touch
+    (apex-articles 55d index hub; indexical-identity/inaccessible-past/creative-aesthetic-void/phenomenal-value-realism/machine-consciousness
+    = inbound wikilink bumped by a DIFFERENT article expand-topic; time-consciousness-growing-block/volitional-control/normativity-of-reason/minds-without-words/attention-as-causal-bridge/introspection-architecture-scoring
+    = reciprocal cross-link refine/deep-review touches, +3/-1..+6/-2 line wikilink edits),
+    human-deferred (born-rule 16d, synesthetic-void 14d), or already-queued (combination-problem
+    15d genuine -- the one un-cosmetic candidate, already a P2 deep-review). (length)
+    every content hard/critical offender human-deferred (epistemology-of-convergence
+    6479w, clinical-dissociation 4861w, time-collapse 4606w, argument-from-reason 4489w,
+    epistemic-advantages 4400w, laws-and-dispositions 4213w, valence-and-conscious-selection
+    4103w HUMAN-LENGTH-DECISION), veto (composition-question-rivals 4106w accept-as-survey),
+    index hub (apex-articles), or recently-condensed/calibration-refined -- NO clean
+    mintable condense candidate (replenish-overmints-condense-vs-accept-as-survey). (orphan)
+    orphaned_files=0. (gap/caps) topics 279/320 + concepts 267/320 have headroom but
+    new-article generation is harvester-governed (harvest ran 2026-06-22T22:04Z) + gap-analysis
+    Vetoed-bank-dedup-blocked (577 entries). (positions) audit ran 2026-06-09 (18 entries,
+    <30d window, no audit due); positions-evolve ran 06:20Z, slow-add. (applied-apex)
+    3 applied apex extant, no high-confidence cluster gap. So the honest lowest-churn
+    floor restorer is to PROMOTE the highest-leverage existing P3: of the three open
+    P3s (embodied-cognition pessimistic-refine, entropic-brain inbound-links, parapsychology-firewall
+    inbound-links), embodied-cognition addresses REAL pessimistic-review findings (4
+    specific argumentative-calibration edits on Tenet-1/3 load-bearing dualism claims,
+    all citations web-verified clean, all wikilinks resolve) whereas the other two are
+    pure navigational cross-link enrichment. LENGTH NOTE: 3416w soft_warning (concepts
+    hard 3500, ~84w headroom); the refine MUST be word-neutral-or-trimming. Superseded
+    run-566 note follows.'
+  legacy_run_566_note: 'run no.566 (2026-06-23T00:05Z): PROMOTED 1 well-grounded
     integration task P3->P2 (topics/predictive-self-binding-and-the-naturalist-challenge.md
     inbound cross-links), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
     PRE-promotion / =3 POST-promotion (the two queued genuine-drift deep-reviews luck-objection
