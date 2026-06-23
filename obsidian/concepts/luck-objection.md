@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-06-18T20:56:03+00:00
+ai_modified: 2026-06-23T00:12:57+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -37,7 +37,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-06-01T09:00:00+00:00
+last_deep_review: 2026-06-23T00:12:57+00:00
 ---
 
 The luck objection is the most persistent challenge to libertarian [[topics/free-will|free will]]. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.

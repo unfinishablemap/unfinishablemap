@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-22
 
-### P2: Deep review concepts/luck-objection.md (genuine drift since 2026-06-01; 2 substantive deep-review-unverified paragraphs, Tenet-2/3 load-bearing)
-- **Type**: deep-review
-- **File**: obsidian/concepts/luck-objection.md
-- **Notes**: FLOOR-RESTORING genuine-drift mint by /replenish-queue 2026-06-22 (second of three; see the self-construction-constructor task above for the full no-genuine-MINT-source justification — research exhausted, length offenders all deferred/veto/churn). Gap 17d (ai_modified 2026-06-18 > last_deep_review 2026-06-01). Git diff since the review shows TWO substantive deep-review-unverified prose additions, NOT cosmetic accretion: (1) the effort-phenomenology reply paragraph — "choosing feels effortful… the felt cost of concentration corresponds to real causal engagement via the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]," anchored to [[volitional-control]] (Tenet-2/3 LOAD-BEARING: it ties the luck-objection reply to the Stapp quantum-Zeno mechanism — deep-review should confirm the effort-tracks-selection claim is properly hedged and the Zeno linkage is calibrated, NOT overstated); (2) the compatibilism-discipline paragraph conceding the article does NOT establish libertarian agency is *required* for moral phenomena (Frankfurt / Fischer & Ravizza / Wolf reasons-responsive compatibilism plausibly survives the luck objection differently), naming the [[compatibilist-symmetry-challenge]] discipline. Deep-review should web-verify the named compatibilist attributions, confirm the new effort-phenomenology paragraph does not overstate the Zeno mechanism beyond the Map's minimal-quantum-interaction commitment, and check concept length (concepts hard 3500 / critical 5000). No open deep-review task for this file (grep-confirmed). ai_contribution=100. Tenets 2 (Minimal Quantum Interaction) + 3 (Bidirectional Interaction).
-- **Source**: staleness
-- **Generated**: 2026-06-22
-
 ### P2: Deep review concepts/combination-problem.md (genuine drift since 2026-06-04; substantive de-combination / composition-criterion rewrite unverified, Tenet-1 load-bearing)
 - **Type**: deep-review
 - **File**: obsidian/concepts/combination-problem.md
@@ -1232,6 +1225,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-23: Deep review concepts/luck-objection.md (genuine drift since 2026-06-01; 2 substantive deep-review-unverified paragraphs, Tenet-2/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING genuine-drift mint by /replenish-queue 2026-06-22 (second of three; see the self-construction-constructor task above for the full no-genuine-MINT-source justification — research exhausted, length offenders all deferred/veto/churn). Gap 17d (ai_modified 2026-06-18 > last_deep_review 2026-06-01). Git diff since the review shows TWO substantive deep-review-unverified prose additions, NOT cosmetic accretion: (1) the effort-phenomenology reply paragraph — "choosing feels effortful… the felt cost of concentration corresponds to real causal engagement via the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]," anchored to [[volitional-control]] (Tenet-2/3 LOAD-BEARING: it ties the luck-objection reply to the Stapp quantum-Zeno mechanism — deep-review should confirm the effort-tracks-selection claim is properly hedged and the Zeno linkage is calibrated, NOT overstated); (2) the compatibilism-discipline paragraph conceding the article does NOT establish libertarian agency is *required* for moral phenomena (Frankfurt / Fischer & Ravizza / Wolf reasons-responsive compatibilism plausibly survives the luck objection differently), naming the [[compatibilist-symmetry-challenge]] discipline. Deep-review should web-verify the named compatibilist attributions, confirm the new effort-phenomenology paragraph does not overstate the Zeno mechanism beyond the Map's minimal-quantum-interaction commitment, and check concept length (concepts hard 3500 / critical 5000). No open deep-review task for this file (grep-confirmed). ai_contribution=100. Tenets 2 (Minimal Quantum Interaction) + 3 (Bidirectional Interaction).
 
 ### ✓ 2026-06-22: Deep review apex/phenomenal-variation-within-a-species.md (genuine drift since 2026-06-03; 2 deep-review-unverified own-body citation corrections, Tenet-1 load-bearing)
 - **Type**: deep-review
