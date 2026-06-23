@@ -372,7 +372,16 @@ def get_published_articles() -> list[Path]:
             # obsidian source they leak into the candidate pool and dominate
             # it once the 7-day topic-dedup filter empties the real-article
             # pool — the selector index-page-leak bug.
+            #
+            # Also skip curated index pages whose stem does NOT equal the
+            # parent dir but which are still indexes by naming convention
+            # (e.g. apex/apex-articles.md). These carry empty `topics`, so
+            # the topic-overlap filter never rejects them — once the 7-day
+            # window drains the real-article pool they become the sole
+            # primary-loop survivor and the selector returns them forever.
             if md_file.name.startswith("_") or md_file.stem == md_file.parent.name:
+                continue
+            if md_file.stem.endswith(("-index", "-articles")):
                 continue
 
             try:
@@ -382,6 +391,13 @@ def get_published_articles() -> list[Path]:
                     continue
                 # Must have frontmatter
                 if not content.startswith("---"):
+                    continue
+                # Skip curated index pages whose title ends in "Index"
+                # (defense-in-depth alongside the stem-naming check above).
+                title_match = re.search(
+                    r'^title:\s*["\']?(.+?)["\']?\s*$', content[:500], re.MULTILINE
+                )
+                if title_match and title_match.group(1).strip().endswith("Index"):
                     continue
                 articles.append(md_file)
             except Exception:
