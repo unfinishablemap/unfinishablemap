@@ -5,6 +5,16 @@ ai_modified: 2026-06-24T12:28:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T12:33:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/anoetic-noetic-autonoetic-consciousness]]
+- **Word count**: 2499 → 2499 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Seventh review; fully converged (no critical issues across all 7). Executed the 2026-05-25 directive to focus on content freshness: full publisher-of-record web-verify of the citation list. Wheeler/Stuss/Tulving 1997 (verbatim quote), De Brigard 2024 (Phil Trans R Soc B 379(1913):20230410, PubMed 39278243), and Sant'Anna/Michaelian/Andonovski 2024 (WIREs Cogn Sci 15(1):e1665) all real-correct. No superlative claims (currency sweep clean). Live 2025-2026 literature confirms the constitutive-contingent debate framing is current and De Brigard 2024 remains the major recent challenge. Article at soft threshold (2499/2500); length-neutral, no addition warranted. Engagements: De Brigard = Mode Three; phase-transition = Mixed (Mode Two/Three); no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-anoetic-noetic-autonoetic-consciousness]]
+
 ## 2026-06-24T12:28:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-intersubjectivity]]
