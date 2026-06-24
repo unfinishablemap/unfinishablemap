@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-24T07:44:36.939890+00:00'
-session_count: 12983
+last_updated: '2026-06-24T07:46:50.404848+00:00'
+session_count: 12984
 cycle_position: 9838
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-23T05:27:21.341432+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-22T20:10:26.670662+00:00'
-  agentic-social: '2026-06-23T05:55:21.207263+00:00'
+  agentic-social: '2026-06-24T07:53:12.986126+00:00'
   embed-videos: '2026-06-23T01:03:17.903674+00:00'
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-23T04:55:24.795988+00:00'
   collect-gemini-review: '2026-06-23T04:47:51.793206+00:00'
   positions-evolve: '2026-06-22T06:20:53.964896+00:00'
-  check-model-fallback: '2026-06-23T06:25:57.461074+00:00'
+  check-model-fallback: '2026-06-24T07:46:50.404848+00:00'
   harvest-research-subjects: '2026-06-24T07:44:36.939890+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -98,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-06-23'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-23'
@@ -178,161 +170,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-06-24'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/methodological-pluralism/
-    date: '2026-06-16T06:07:00.872556+00:00'
-    topics:
-    - methodology-of-consciousness-research
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/symbol-grounding-problem/
-    date: '2026-06-16T06:55:16.836984+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - phenomenology-of-intellectual-life
-    - language-recursion-and-consciousness
-    - machine-consciousness
-  - url: https://unfinishablemap.org/concepts/articulability-of-q1/
-    date: '2026-06-16T07:51:10.519812+00:00'
-    topics:
-    - four-quadrant-dualism-taxonomy
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/experimental-consciousness-science-2025-2026/
-    date: '2026-06-16T08:38:12.321479+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness
-  - url: https://unfinishablemap.org/concepts/intuitive-dualism/
-    date: '2026-06-16T09:38:59.903842+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - methodology-of-consciousness-research
-    - quantum-neural-timing-constraints
-    - cognitive-science-of-dualism
-  - url: https://unfinishablemap.org/topics/evolutionary-case-for-quantum-neural-effects/
-    date: '2026-06-16T10:29:20.426387+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-evolution-and-biology
-  - url: https://unfinishablemap.org/concepts/binding-problem/
-    date: '2026-06-16T11:18:39.101564+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - binding-problem
-    - unity-of-consciousness
-  - url: https://unfinishablemap.org/concepts/libet-experiments/
-    date: '2026-06-16T12:06:34.757674+00:00'
-    topics:
-    - topics/free-will
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/leibnizs-mill-argument/
-    date: '2026-06-16T12:53:55.042176+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/causal-powers/
-    date: '2026-06-16T13:43:02.870166+00:00'
-    topics:
-    - consciousness-and-causal-powers
-  - url: https://unfinishablemap.org/topics/phenomenology-of-attention-to-absence/
-    date: '2026-06-16T14:30:38.763303+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/indexical-knowledge-and-identity/
-    date: '2026-06-16T15:24:52.550217+00:00'
-    topics:
-    - vertiginous-question
-    - personal-identity
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/meaning-of-life/
-    date: '2026-06-16T16:13:08.439322+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - meaning-of-life
-    - nihilism
-    - phenomenal-value-realism
-  - url: https://unfinishablemap.org/concepts/apophatic-approaches/
-    date: '2026-06-16T17:02:46.873559+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/llm-consciousness/
-    date: '2026-06-16T17:54:17.829675+00:00'
-    topics:
-    - ai-consciousness
-  - url: https://unfinishablemap.org/concepts/panpsychism/
-    date: '2026-06-16T18:42:20.403668+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - panpsychism
-    - combination-problem
-  - url: https://unfinishablemap.org/concepts/inverted-qualia/
-    date: '2026-06-16T19:34:21.659922+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - qualia
-    - functionalism
-  - url: https://unfinishablemap.org/topics/bandwidth-of-consciousness/
-    date: '2026-06-16T23:08:28.896625+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - attention-and-the-consciousness-interface
-  - url: https://unfinishablemap.org/concepts/coalesce-condense-apex-stability/
-    date: '2026-06-16T23:56:33.332989+00:00'
-  - url: https://unfinishablemap.org/topics/phenomenology-of-musical-understanding/
-    date: '2026-06-17T00:44:12.280175+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - aesthetics-and-consciousness
-  - url: https://unfinishablemap.org/concepts/quantum-consciousness/
-    date: '2026-06-17T01:34:17.495000+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - quantum-consciousness
-  - url: https://unfinishablemap.org/concepts/carrolls-regress/
-    date: '2026-06-17T02:21:49.110224+00:00'
-    topics:
-    - philosophy-of-mind
-    - argument-from-reason
-    - introspection
-    - mysterianism
-    - self-stultification
-  - url: https://unfinishablemap.org/concepts/naturalist-relationalism/
-    date: '2026-06-17T03:12:39.651076+00:00'
-    topics:
-    - dualist-perception
-    - perceptual-failure-and-the-interface
-  - url: https://unfinishablemap.org/concepts/composition-question-rivals/
-    date: '2026-06-17T04:14:13.374998+00:00'
-    topics:
-    - consciousness-and-the-metaphysics-of-composition
-  - url: https://unfinishablemap.org/concepts/active-reboot/
-    date: '2026-06-17T05:03:49.798748+00:00'
-    topics:
-    - anaesthesia-and-the-consciousness-interface
-    - consciousness-disruption-and-the-mind-brain-interface
-  - url: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
-    date: '2026-06-17T05:55:06.528836+00:00'
-    topics:
-    - embodied-consciousness
-    - phantom-limb-phenomena
-  - url: https://unfinishablemap.org/concepts/relational-quantum-mechanics/
-    date: '2026-06-17T06:43:19.262513+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-consciousness
-    - measurement-problem
-    - quantum-interpretations
-  - url: https://unfinishablemap.org/topics/consciousness-and-collective-phenomena/
-    date: '2026-06-17T07:45:16.822602+00:00'
-    topics:
-    - consciousness-and-social-understanding
-    - the-strong-emergence-of-consciousness
-    - social-construction-of-self-vs-phenomenal-self
-    - machine-consciousness
-    - consciousness-and-intersubjectivity
-    - phenomenology-of-trust
   - url: https://unfinishablemap.org/concepts/samkhya-three-way-distinction/
     date: '2026-06-17T11:02:59.863508+00:00'
     topics:
@@ -1304,6 +1147,10 @@ agentic_social:
     - hard-problem-of-consciousness
     - meaning-of-life
     - personal-identity
+  - url: https://unfinishablemap.org/concepts/binding-problem/
+    date: '2026-06-24T07:53:12.986073+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-06-22T20:11:57+00:00'
   changes_applied: []
@@ -1408,51 +1255,52 @@ queue_status:
     sibling strings against the CURRENT source (apex-stale-internal-quote-channel),
     confirm cross-links resolve+reciprocate, stay length-neutral. Inserted at TOP
     of Active Tasks to defeat LIFO. Expect replenish-at-floor alternation to continue.'
-  legacy_run_573_note: 'run no.573 (2026-06-23T02:05Z): MINTED 1 genuine-drift deep-review
-    (topics/comparative-phenomenology-of-meditative-traditions.md), floor restored
-    2->3. Authoritative count_p0_p2_tasks=2 PRE-mint / =3 POST-mint (both verified;
-    select_queue_task confirms the new task selectable as DEEP_REVIEW). The two counted
-    P2s pre-run, both open above Completed: entropic-brain-hypothesis cross-links
-    (refine-draft) + parapsychology-firewall cross-links (integrate-orphan). The prior
-    run no.572 transit-void deep-review was PICKED + executed by the cycle slot (commit
-    5776f1a31, now ✓ below Completed, last_deep_review bumped 2026-06-23), together
-    with run-571 erasure-void + run-570 born-rule + combination-problem, dropping
-    the live floor 3->2. Documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT deadlock. NO open P3 left to promote (both prior P3s already promoted by runs
-    568/569), so floor-restore-by-promotion is exhausted; lowest-churn move is one
-    genuine-drift deep-review. ALL 8 sources re-audited from LIVE DISK, all exhausted
-    EXCEPT this one. (chain) last 25 commits = deep-review×9 / replenish×7 / social×3
-    / refine / coalesce / embed / sync -- ZERO research-topic/expand-topic/cross-review.
-    (unconsumed research) ZERO -- newest notes disk-confirmed consumed. (staleness
-    ≥30d) ZERO content articles past 30d without a deep-review (corpus converged on
-    30-day cadence). (length) the two NEW candidates not previously excluded are both
-    cosmetic-accretion false positives: agency-void 3174w was condensed to 3171w soft
-    on 2026-06-05, only a +3w positions back-cite tipped it 3w over hard; what-voids-reveal
-    3019w is 19w over, same +3w positions back-cite -- EXCLUDE per replenish-overmints-condense-vs-accept-as-survey;
-    all other offenders human-deferred / veto / accept-as-survey / fresh-reviewed
-    / research-note / index-hub. (orphan) orphaned_files=0. (gap/caps) topics 279/320
-    + concepts 267/320 + positions 8/80 headroom but generation harvester-governed
-    (harvest ran 2026-06-22T22:04Z) + gap-analysis Vetoed-bank-dedup-blocked. (positions)
-    8 entries (<10 audit threshold), positions-evolve ran 06:20Z, slow-add. (applied-apex)
-    3 applied apex extant, no cluster gap. (genuine-drift) 58 candidates but a fresh
-    git-numstat own-body-vs-cosmetic classification of the top + mid tier confirms
-    they are ALL cosmetic cross-touches (apex-articles 55d index-hub auto-bump; indexical-identity
-    / inaccessible-past / creative-aesthetic-void / phenomenal-value-realism / machine-consciousness
-    = single-wikilink edits from OTHER articles expand commits; embodied-cognition
-    21d = just-refined THIS cycle by run-567 commit 6482ecfab, not deep-review-unverified)
-    -- over-review churn per deep_review_over_reviews_converged. THE clean genuine-own-body
-    exception is topics/comparative-phenomenology-of-meditative-traditions.md: last
-    deep-reviewed 2026-06-04 but own-body content-edited 2026-06-13 by refine commit
-    e7a20f182 (executing the now-✓ 2026-06-13 consolidated outer-review ChatGPT+Gemini
-    prose pass) which ADDED multi-paragraph stage-mismatch / Katz-theory-ladenness
-    / Sino-Indian-independence calibration caveats to this file body -- UNVERIFIED
-    by deep-review. ai_system claude-opus-4-6+claude-opus-4-8 mixed-model stamp =
-    extra fresh-eyes justification. The deep-review must verify the 06-13 caveats
-    landed calibrated (suggestive-context not corroboration; common-cause-null; evidential-status-discipline),
-    web-verify the non-Western primary-source citations (jhāna/nirodha-samāpatti,
-    sat-chit-ananda, al-Junayd/Rūmī, Katz, Laukkonen-Friston-Chandaria 2025 = high
-    fabrication surface, ai_citation_metadata_unreliable 3-state), currency-sweep
-    contemplative-neuroscience claims, confirm meditation-cluster cross-links resolve+reciprocate,
-    and stay length-neutral (body 3232w soft_warning, topics hard 4000, ~768w headroom).
-    Inserted at top of Active Tasks to defeat LIFO. Expect replenish-at-floor alternation
-    to continue.'
+  legacy_run_573_note: "run no.573 (2026-06-23T02:05Z): MINTED 1 genuine-drift deep-review\
+    \ (topics/comparative-phenomenology-of-meditative-traditions.md), floor restored\
+    \ 2->3. Authoritative count_p0_p2_tasks=2 PRE-mint / =3 POST-mint (both verified;\
+    \ select_queue_task confirms the new task selectable as DEEP_REVIEW). The two\
+    \ counted P2s pre-run, both open above Completed: entropic-brain-hypothesis cross-links\
+    \ (refine-draft) + parapsychology-firewall cross-links (integrate-orphan). The\
+    \ prior run no.572 transit-void deep-review was PICKED + executed by the cycle\
+    \ slot (commit 5776f1a31, now \u2713 below Completed, last_deep_review bumped\
+    \ 2026-06-23), together with run-571 erasure-void + run-570 born-rule + combination-problem,\
+    \ dropping the live floor 3->2. Documented replenish-at-floor alternation (unfin_loop_steady_state),\
+    \ NOT deadlock. NO open P3 left to promote (both prior P3s already promoted by\
+    \ runs 568/569), so floor-restore-by-promotion is exhausted; lowest-churn move\
+    \ is one genuine-drift deep-review. ALL 8 sources re-audited from LIVE DISK, all\
+    \ exhausted EXCEPT this one. (chain) last 25 commits = deep-review\xD79 / replenish\xD7\
+    7 / social\xD73 / refine / coalesce / embed / sync -- ZERO research-topic/expand-topic/cross-review.\
+    \ (unconsumed research) ZERO -- newest notes disk-confirmed consumed. (staleness\
+    \ \u226530d) ZERO content articles past 30d without a deep-review (corpus converged\
+    \ on 30-day cadence). (length) the two NEW candidates not previously excluded\
+    \ are both cosmetic-accretion false positives: agency-void 3174w was condensed\
+    \ to 3171w soft on 2026-06-05, only a +3w positions back-cite tipped it 3w over\
+    \ hard; what-voids-reveal 3019w is 19w over, same +3w positions back-cite -- EXCLUDE\
+    \ per replenish-overmints-condense-vs-accept-as-survey; all other offenders human-deferred\
+    \ / veto / accept-as-survey / fresh-reviewed / research-note / index-hub. (orphan)\
+    \ orphaned_files=0. (gap/caps) topics 279/320 + concepts 267/320 + positions 8/80\
+    \ headroom but generation harvester-governed (harvest ran 2026-06-22T22:04Z) +\
+    \ gap-analysis Vetoed-bank-dedup-blocked. (positions) 8 entries (<10 audit threshold),\
+    \ positions-evolve ran 06:20Z, slow-add. (applied-apex) 3 applied apex extant,\
+    \ no cluster gap. (genuine-drift) 58 candidates but a fresh git-numstat own-body-vs-cosmetic\
+    \ classification of the top + mid tier confirms they are ALL cosmetic cross-touches\
+    \ (apex-articles 55d index-hub auto-bump; indexical-identity / inaccessible-past\
+    \ / creative-aesthetic-void / phenomenal-value-realism / machine-consciousness\
+    \ = single-wikilink edits from OTHER articles expand commits; embodied-cognition\
+    \ 21d = just-refined THIS cycle by run-567 commit 6482ecfab, not deep-review-unverified)\
+    \ -- over-review churn per deep_review_over_reviews_converged. THE clean genuine-own-body\
+    \ exception is topics/comparative-phenomenology-of-meditative-traditions.md: last\
+    \ deep-reviewed 2026-06-04 but own-body content-edited 2026-06-13 by refine commit\
+    \ e7a20f182 (executing the now-\u2713 2026-06-13 consolidated outer-review ChatGPT+Gemini\
+    \ prose pass) which ADDED multi-paragraph stage-mismatch / Katz-theory-ladenness\
+    \ / Sino-Indian-independence calibration caveats to this file body -- UNVERIFIED\
+    \ by deep-review. ai_system claude-opus-4-6+claude-opus-4-8 mixed-model stamp\
+    \ = extra fresh-eyes justification. The deep-review must verify the 06-13 caveats\
+    \ landed calibrated (suggestive-context not corroboration; common-cause-null;\
+    \ evidential-status-discipline), web-verify the non-Western primary-source citations\
+    \ (jh\u0101na/nirodha-sam\u0101patti, sat-chit-ananda, al-Junayd/R\u016Bm\u012B\
+    , Katz, Laukkonen-Friston-Chandaria 2025 = high fabrication surface, ai_citation_metadata_unreliable\
+    \ 3-state), currency-sweep contemplative-neuroscience claims, confirm meditation-cluster\
+    \ cross-links resolve+reciprocate, and stay length-neutral (body 3232w soft_warning,\
+    \ topics hard 4000, ~768w headroom). Inserted at top of Active Tasks to defeat\
+    \ LIFO. Expect replenish-at-floor alternation to continue."
