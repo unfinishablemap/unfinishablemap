@@ -63,7 +63,7 @@ The most consciousness-intensive form of future-oriented cognition is **episodic
 
 Schacter and Addis (2007) proposed that EFT and episodic memory share a common mechanism: flexible retrieval and recombination of past experience elements. Both engage the same brain network (hippocampus, medial prefrontal cortex, posterior cingulate); the companion fMRI study (Addis, Wong & Schacter, 2007) found that the hippocampus shows *greater* activation during the construction of future events than during recall of past ones, reflecting additional constructive demands.
 
-Mental time travel is genuinely bidirectional—a unified capacity for temporal self-projection rather than separate remembering and imagining faculties.
+Mental time travel is genuinely bidirectional—a unified capacity for temporal self-projection rather than separate remembering and imagining faculties. The same shared-mechanism premise drives the [[simulation-theory-of-memory|simulation theory of memory]], on which remembering the past is itself a species of imagining—a deflation the Map adopts while denying that construction alone supplies the autonoetic feeling that marks an assembly as a memory.
 
 ### Patient KC: The Double Deficit
 
