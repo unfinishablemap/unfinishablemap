@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T15:48:11.491402+00:00'
-session_count: 13056
+last_updated: '2026-06-24T15:53:50.736807+00:00'
+session_count: 13057
 cycle_position: 9873
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-24T15:11:20.733650+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
-  replenish-queue: '2026-06-24T15:29:45.783098+00:00'
+  replenish-queue: '2026-06-24T15:53:50.736807+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-24'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-24'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1207,8 +1207,8 @@ queue_status:
     from LIVE DISK, ALL exhausted of clean genuine-MINT candidates: (1 chain) recent_tasks
     has ZERO research-topic/expand-topic/cross-review completions producing successors
     (refine-draft x3 / replenish x7 / deep-review x4 / agentic-social x3 / apex-evolve
-    / pessimistic-review / harvest). (2 unconsumed research) ZERO -- the 3 newest notes
-    are disk-confirmed consumed: simulation-theory-of-memory->concepts/simulation-theory-of-memory,
+    / pessimistic-review / harvest). (2 unconsumed research) ZERO -- the 3 newest
+    notes are disk-confirmed consumed: simulation-theory-of-memory->concepts/simulation-theory-of-memory,
     many-minds-interpretation->topics/many-minds-interpretation, phenomenal-concepts-strategy->concepts/phenomenal-concepts-strategy.
     (3 gap/caps) topics 280/320, concepts 268/320, positions 8/80 have headroom but
     new-article generation is harvester-governed (harvest ran 13:53Z, next ~19:53Z)
@@ -1218,10 +1218,10 @@ queue_status:
     711-736->711-721) on an already-deep-reviewed article (commit 5e348de35); the
     run-595 own-body mint (biological-computationalisms) is consumed (deep-reviewed
     e2a981c30 15:22Z); the only commit since the 15:30Z run-596 replenish is a cycle
-    deep-review of clinical-dissociation-as-systematic-evidence (commit 452ccb5e1 15:40Z,
-    62+30 substantive lines) which SELF-CONSUMED + queued NO follow-on task (no todo
-    diff) -- so no fresh own-body refine awaits verification. The other 131 nominal
-    drift rows are cosmetic cross-link/integration churn (deep_review_over_reviews_converged
+    deep-review of clinical-dissociation-as-systematic-evidence (commit 452ccb5e1
+    15:40Z, 62+30 substantive lines) which SELF-CONSUMED + queued NO follow-on task
+    (no todo diff) -- so no fresh own-body refine awaits verification. The other 131
+    nominal drift rows are cosmetic cross-link/integration churn (deep_review_over_reviews_converged
     respected). (5 staleness >=30d) DRY -- the 7 nominally-9999d rows are positions
     domain files (audited via positions-evolve, NOT deep-review; 8 entries < 10 audit
     threshold); the stalest real deep-reviewed content cohort is EXACTLY 29d (2026-05-26:
@@ -1229,19 +1229,19 @@ queue_status:
     philosophy-of-language-under-dualism), UNDER the 30d threshold -- reopens TOMORROW
     2026-06-25. (6 length) re-confirmed via get_length_warnings: every CONTENT hard/critical
     offender is human-deferred (epistemology-of-convergence 6479w, born-rule 5118w,
-    clinical-dissociation 4670w, time-collapse 4606w, argument-from-reason 4489w, epistemic-advantages
-    4400w, memory-channel 4296w accept-as-survey), #veto (phenomenal-output 6872w,
-    composition-question-rivals 4106w, meaning-of-life 4160w), HUMAN-LENGTH-DECISION/DIVERTED
+    clinical-dissociation 4670w, time-collapse 4606w, argument-from-reason 4489w,
+    epistemic-advantages 4400w, memory-channel 4296w accept-as-survey), #veto (phenomenal-output
+    6872w, composition-question-rivals 4106w, meaning-of-life 4160w), HUMAN-LENGTH-DECISION/DIVERTED
     (synesthetic-void 3578w, edge-states 3482w), an index hub (apex-articles 9788w
     governance-tracked), a count-words-includes-frontmatter false positive (agency-void
     3174w, what-voids-reveal 3019w), or research/ working notes -- NO clean mintable
     condense (replenish-overmints-condense-vs-accept-as-survey). (7 orphan) orphaned_files=0.
     (8 positions) 8 entries (<10 audit threshold), positions-evolve ran 2026-06-22,
     slow-add 2-add/run limit; (applied-apex) 3 applied apex extant (assessing-ai-consciousness,
-    embodied-interface, research-programme-decisions), no high-confidence cluster gap.
-    Expect replenish-at-floor alternation to continue until the >=30d staleness cohort
-    reopens 2026-06-25 and/or the harvester reopens the research->expand pipeline ~19:53Z.
-    PRIOR RUN 596 NOTE FOLLOWS superseded_run_596_note.'
+    embodied-interface, research-programme-decisions), no high-confidence cluster
+    gap. Expect replenish-at-floor alternation to continue until the >=30d staleness
+    cohort reopens 2026-06-25 and/or the harvester reopens the research->expand pipeline
+    ~19:53Z. PRIOR RUN 596 NOTE FOLLOWS superseded_run_596_note.'
   superseded_run_596_note: 'run no.596 (2026-06-24T15:30Z): NO-OP FLOOR-DOCUMENTED
     (no new mint, no promotion). Authoritative tools.evolution.task_selector.count_p0_p2_tasks
     = 2; MIN_QUEUE floor 3, unmet by 1. Documented replenish-at-floor alternation
