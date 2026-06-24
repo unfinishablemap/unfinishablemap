@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T14:02:57+00:00
+ai_modified: 2026-06-24T14:17:24+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T14:17:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Word count**: 3732 → 3712 (−20; orphan-reference removal; length-neutral, soft_warning 124% of 3000, under 4000 hard)
+- **Critical issues addressed**: 2
+  - Reference numbering gap (16 → 18, missing 17): malformed References list, residual artifact of the 2026-06-02 Mørch removal. Renumbered consecutively to 1–21.
+  - Orphan reference Coleman & De Luccia (1980) — real CDL-instanton paper but never cited inline; removed (redundant with the inline-cited Coleman 1977 on the §7 vacuum-decay point). No body claim loses support.
+- **Citation web-verify (§2.4, physics cites — never previously verified)**: 6 cites verified, all real-correct at publisher of record — Tegmark 2000 (PRE 61:4194), Hagan/Hameroff/Tuszyński 2002 (PRE 65:061901), McKemmish et al. 2009 (PRE 80:021912), Reimers et al. 2009 (PNAS 106:4219), Coleman 1977 (PRD 15:2929), Buttazzo et al. 2013 (JHEP 2013(12):89). The 2026-06-02 pass had verified only the six AI-risk/consciousness specialist cites. Inline↔References cross-check clean both directions after the orphan removal. Empirical-currency sweep: empty (no superlatives).
+- **Low issues addressed**: 1 (§10 "Tuszynski" → "Tuszyński" diacritic consistency with reference and verified Polish spelling)
+- **Calibration check**: clean — central claim conditional throughout under [[possibility-probability-slippage]]; §7 speculative-integration-tier honestly tagged; diagnostic test returns no hits. No editor-vocabulary leakage in body (re-verified).
+- **Enhancements made**: 0 substantive (heavily converged; 7th review; References-hygiene + physics-cite verify only). No bedrock disagreements re-flagged.
+- **Output**: [[reviews/deep-review-2026-06-24-dualism-as-ai-risk-mitigation]]
 
 ## 2026-06-24T14:02:57+00:00 - deep-review
 - **Status**: Success
