@@ -5,6 +5,13 @@ ai_modified: 2026-06-23T05:59:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T08:52:06+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Simulation Theory of Memory
+- **Output**: [[research/simulation-theory-of-memory-2026-06-24]]
+- **Sources consulted**: 13
+- **Note**: Distinct gap confirmed — corpus has memory articles framing episodic memory as "constructive re-experiencing" ([[concepts/episodic-memory]], [[topics/phenomenology-of-memory-and-the-self]], [[concepts/selective-correction-and-reconstruction-paradox]]) but NO dedicated treatment of STM as a named theory. Note: [[concepts/simulation]] is the simulation HYPOTHESIS about reality — a different sense of "simulation", avoid collision. Two lineages captured: cognitive neuroscience (Schacter/Addis constructive episodic simulation hypothesis 2007; Hassabis/Maguire scene construction) and philosophy (Michaelian's post-causal simulationism, "to remember is to imagine the past", 2016). Causalist rival (Bernecker, Robins) + confabulation objection + continuism/discontinuism debate + Rivadulla-Duró 2022 phenomenology critique (the discrimination-problem wedge that aligns with the Map's autonoesis claim). Recommendation: NEW topics article justified (angle 1) — Map accepts the physical recombination MECHANISM but assigns the feeling-of-remembering/discrimination to consciousness (Tenet 1); fallback is a refine of episodic-memory.md. CALIBRATION: all 2007-2009 neuroscience citation years + Robins/Bernecker 2016/2017 exchange tagged for publisher-of-record verification before article use (known corpus citation-metadata error rate).
+
 ## 2026-06-24T08:26:05+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Phenomenal Concept Strategy (2024-2026 currency update)
