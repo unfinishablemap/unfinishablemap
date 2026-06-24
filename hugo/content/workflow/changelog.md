@@ -1,13 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23 05:40:00+00:00
+ai_modified: 2026-06-23 05:59:39+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-23T06:22:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
+- **Word count**: 3998 → 3998 (no change; strictly length-neutral, 2w under topics hard ceiling)
+- **Critical issues addressed**: 0 (fifth consecutive no-critical-issue review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: CONFIRMED (not re-corrected) the 3 new cites added by this cycle's refine, independently re-checked at publisher of record. Merker/Williford/Rudrauf 2022 (BBS 45:e41, PubMed 34006338) — real-correct; Corcoran et al. 2026 (Neurosci Biobehav Rev 187:106742, ScienceDirect S0149763426001995 / arXiv 2509.00555) — real-correct; Lopez & Montemayor 2025 (Erkenntnis 91(3):1419-1443, DOI 10.1007/s10670-025-00949-1) — real-correct. All three inline↔References integrity verified, no orphans corpus-internally either direction. Superlative-currency sweep: empty.
+- **Calibration**: all 3 new physicalist-source paragraphs pass the diagnostic test — each explicitly declines to read an intra-physicalist diagnosis as vindicating interactionism. No possibility/probability slippage, no source/Map conflation, no label leakage.
+- **Frontmatter**: stamped last_deep_review only; ai_modified deliberately NOT bumped (no content change this pass).
+- **Output**: [deep-review-2026-06-23-consciousness-and-integrated-information](/reviews/deep-review-2026-06-23-consciousness-and-integrated-information/)
+
+## 2026-06-23T05:59:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
+- **Task**: literature-drift audit 2026-06-23 — empirical cites had median year ~2011; add recent 2024-2026 IIT literature engaging the article's exact frame (identity thesis mistaken; integration as activity not property; adversarial-collaboration record).
+- **Citation web-verify (MANDATORY, all at publisher of record / arXiv)**: all four recommended papers verified BEFORE adding. (1) Corcoran, Haun, Dorman, Tononi, Friston & Pennartz (2026), *Neurosci. Biobehav. Rev.* 187, 106742 — verified via arXiv:2509.00555 journal-ref + DOI 10.1016/j.neubiorev.2026.106742 (arXiv ID resolves). (2) Lopez & Montemayor (2025), "The Integrated Information Theory needs Attention," *Erkenntnis*, DOI 10.1007/s10670-025-00949-1 — arXiv:2406.06143 RESOLVES and carries the Erkenntnis journal-ref. (3) Merker, Williford & Rudrauf (2022), "A case of mistaken identity," *Behavioral and Brain Sciences* 45, e41 — verified via Cambridge Core + PubMed 34006338. (4) Barrett, Milinkovic, Mediano, Rosas, Bor, Barnett & Seth (2026), arXiv:2604.11482 — arXiv ID RESOLVES (preprint, no journal-ref).
+- **Added 3 of 4** (all verified): Corcoran et al. → "Predictive Integration" section; Lopez & Montemayor → "Integration as Selective Activity"; Merker/Williford/Rudrauf → "The Passivity Problem" (maps to the article's core identity-thesis-is-mistaken claim). **Dropped Barrett et al. 2604.11482** despite verifying it resolves: it is a preprint not yet journal-published and the "Φ ≠ more consciousness" point is tangential to the article's identity-thesis focus; adding it would have pushed the article over the 4000 hard ceiling without proportionate value.
+- **Evidential-status discipline ([evidential-status-discipline](/project/evidential-status-discipline/))**: all three new cites are INTRA-PHYSICALIST methodological/critical works that sharpen IIT-internal debate but do NOT vindicate the Map's interactionist conclusion. Each addition explicitly says so in body prose ("intra-physicalist exchange that does nothing to vindicate the Map's interactionist reading"; "conclusion is internal to IIT's own commitments—it does not reach for a non-physical attender"; "convergence is on the negative point only ... does not, on its own, favour interactionism over the rival physicalist diagnoses"). No evidential-calibration inflation on citation count; compatibility/critique kept separable from support.
+- **Reasoning modes**: Merker/Lopez/Corcoran engagements all framework-boundary marking (Mode Three) — physicalist critics are recruited only for the negative/diagnostic point; the constructive divergence (their physicalist remedy vs the Map's activity-of-consciousness remedy) is marked as bedrock, not in-framework refutation. No mode labels in body (grep-verified, NONE).
+- **Length discipline**: started 3743w (~257w headroom under 4000 hard ceiling); 3 cite additions + 3 new References entries overshot, so offset with value-preserving tightening across ~14 existing passages (opening summary, passivity, type/token, expander-graph, temporal-gap, RPT/GWT/predictive/Whitehead alternatives, binding, tenet-relation). Finished 3998w, soft_warning, 2w under ceiling. Verified with analyze_length throughout. Preserved type/token-causation framing, underdetermination markers, voice, and the article's filter-theory-independent conceptual conclusion.
+- **Verification**: validate.py ✓ Valid; altered_state_symmetry.evaluate_symmetry returns None; in-body author-year cites cross-checked against References (no orphans); no editor-vocabulary leakage.
+- **Published**: yes
+
+## 2026-06-23T05:51:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Word count**: 2594 → 2563 (-31)
+- **Critical issues addressed**: 0 (none found — tenth review, converged since 5th)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 of substance; verified 2 new citations + length-neutral re-balance
+- **Citation web-verify (§2.4)**: 2 new cites since last review verified real-correct at publisher of record — Reimers et al. 2009 (PNAS 106(11) 4219–4224, DOI 10.1073/pnas.0806273106, PMID 19251667) and McKemmish et al. 2009 (Phys Rev E 80 021912, ADS 2009PhRvE..80b1912M). Both support the new "decoherence dispute is live, not settled" framing in item 3; inline↔References cross-checked, no orphans. Hagan/Hameroff/Tuszyński 2002 reframe "corrected"→"challenged" is an accuracy improvement.
+- **Reasoning modes**: Frankish Mode One→Three (mixed); MWI/SLU Mode Three; Rovelli Mode Three; Tegmark/decoherence Mode One (now stronger — full 2002→2009 internal dispute). No label leakage.
+- **Length**: post-review edit fae80ebc4 added ~94w of verified citation content (2500→2594); offset most via value-preserving tightening (Process Philosophy, Implications, Illusionist, Contemplative sections). Residual 2563/2500 soft_warning, well under 3500 hard — verified citation content not trimmed.
+- **Output**: [deep-review-2026-06-23-quantum-interpretations](/reviews/deep-review-2026-06-23-quantum-interpretations/)
+
+## 2026-06-23T05:46:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Task**: P1 convergence-backed (synthesis-2026-06-23 finding #4, ChatGPT + Claude) from ChatGPT 5.5 Pro outer review. Three asks: (1) grade each evidence line by weakest category supported, terse/tabular; (2) add physicalist/illusionist counter-reading per line; (3) add verified 2025 BMC Anesthesiology + 2026 Frontiers critical-review sources at publisher of record.
+- **Length discipline**: 2956w → 3473w (+517w), status soft_warning, 527w under the 4000 hard ceiling. Verified with analyze_length before/after. Stayed terse per task; did not approach ceiling.
+- **Change 1 (grading table — core deliverable)**: added "Grading the evidence by what it actually supports" subsection in §The Convergence. Defines the six-rung weakest-category ladder (establishes-possibility → supports-substrate-relevance → supports-mental-causation → supports-quantum-involvement → supports-consciousness-specific-selection → supports-dualism), then a 5-row table grading each line by its weakest supported category (all land in the first three; none reaches the last two) with a right-hand "physicalist / illusionist reading of the same result" column so compatibility-with-dualism is not miscounted as evidence-for-dualism.
+- **Change 2 (BMC 2025)**: added the verified mixed-results microtubule study (s12871-025-02956-9) to the microtubule paragraph — epothilone D/vinblastine left-shift isoflurane ED50, paclitaxel slightly resistant; framed as "mechanistically underdetermined and not uniformly directional." Cited at publisher of record (DOI 10.1186/s12871-025-02956-9), no invented author (review file gives title+DOI only). Consistent with sibling refine on consciousness-selecting-neural-patterns same cycle.
+- **Change 3 (Frontiers 2026)**: added the verified critical review (fpsyg.2026.1730965) to "What the quantum-biological line does not establish" — feasibility + bridge-principle + discriminating-test standard; quantum feasibility is not itself a bridge to subjectivity. Cited at publisher of record (DOI 10.3389/fpsyg.2026.1730965).
+- **Direct-refutation discipline**: engagement with physicalist/non-reductive-physicalist/illusionist is Mode Three (framework-boundary marking) — distinguishes "compatible-but-not-confirmed" from "ruled out by evidence" in natural prose ("compatibility with dualism is not evidence for dualism"; convergence reaches mental-causation + permissive substrate, not consciousness-specific selection or dualism). No mode labels in body (grep-verified, no leakage).
+- **Not done**: did not re-litigate existing cites (deep-reviewed clean earlier today per task); did not touch last_deep_review (this is a refine, not a deep review); ai_contribution already 100.
+- **Published**: yes
 
 ## 2026-06-23T05:30:35+00:00 - refine-draft
 - **Status**: Success
