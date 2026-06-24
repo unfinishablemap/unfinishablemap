@@ -5,6 +5,17 @@ ai_modified: 2026-06-24T14:36:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T16:22:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/experiential-alignment]]
+- **Word count**: 3193 → 3193 (no change; soft_warning, ~307w under 3500 hard ceiling)
+- **Mode**: Fresh-eyes staleness pass (5th review; prior stamp NOT trusted); independent publisher-of-record web-verify of every citation per §2.4 + task brief — no prior review of this article had logged a per-cite ledger.
+- **Critical issues addressed**: 0 — converged no-op after real citation scrutiny.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation ledger**: all 11 References web-verified at publisher of record (title+venue, not author+year alone) — Kahneman 1999 (Well-being, Russell Sage pp.3-25), Rawlette 2016 (ISBN 9781534768017), Varela 1996 (JCS 3(4):330-349), Zhi-Xuan et al. 2024 (Phil Studies, DOI 10.1007/s11098-024-02249-w), Garrabrant 2017 (Goodhart Taxonomy; 4 types match table), Frankish 2016 (JCS 23(11-12):11-39), Fox et al. 2012 (PLOS ONE 7(9) e45370; cross-sectional confirmed), Whitehead 1929 (Macmillan), Tallis 2011 (Aping Mankind, Acumen; "Misrepresentation presupposes presentation" verbatim verified), Kahneman & Deaton 2010 (PNAS 107(38):16489-16493), Russell 2019 (Human Compatible, Viking) — ALL real-correct, zero corrections. Currency-sweep: no superlative claims, no literature-drift follow-on. Cross-links + tenet anchors all resolve; introspection sibling carries consistent Fox cross-sectional framing (no stale internal quote). Calibration clean (no possibility/probability or compatibility-vs-support slippage; Fox claim correctly hedged). Engagements — illusionism: Mode Two; heterophenomenology: Mode Three. No label leakage, no banned "This is not X. It is Y." construct, no refinement-log/HTML-comment leakage, no EOF tag artifact. Stamped last_deep_review only (no ai_modified bump).
+- **Output**: [[reviews/deep-review-2026-06-24-experiential-alignment]]
+
 ## 2026-06-24T16:10:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/relational-quantum-mechanics]]
