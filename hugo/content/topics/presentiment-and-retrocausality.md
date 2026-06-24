@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-05-26 08:20:39+00:00
+ai_modified: 2026-06-24 20:46:08+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Distinguishing physics-based retrocausality from contested parapsyc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 09:15:00+00:00
+last_deep_review: 2026-06-24 21:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ Since the 1970s, researchers have measured physiological responses to random sti
 
 ### What the Meta-Analyses Show
 
-Mossbridge et al. (2012) conducted the first systematic meta-analysis of 26 studies spanning 1978-2010. The overall effect size was 0.21 (95% CI: 0.15-0.27, p < 2.7 × 10⁻¹²). Higher-quality studies produced larger effects—opposite to what artifact would predict. The effect replicated across different physiological measures.
+Mossbridge et al. (2012) conducted the first systematic meta-analysis of 26 studies spanning 1978-2010. The overall effect size was 0.21 (random-effects 95% CI: 0.13-0.29, p < 5.7 × 10⁻⁸; the more restrictive fixed-effect model gives a narrower 0.15-0.27). Higher-quality studies produced larger effects—opposite to what artifact would predict. The effect replicated across different physiological measures.
 
 A 2018 update by Duggan and Tressoldi added 26 more studies. Pre-registered studies showed a larger effect (0.31) than non-pre-registered ones (0.24). Publication bias analysis suggested results weren't artifacts of selective publishing.
 
@@ -64,7 +64,7 @@ Skeptical analyses paint a different picture:
 
 The literature is genuinely contested. Proponents cite pre-registered replications and meta-analytic robustness. Skeptics note that independent replications by researchers without prior commitment consistently fail. Neither side accepts the other's evidence. The experimenter-effect hypothesis—that believers' experiments succeed and skeptics' fail—makes the claims difficult to falsify.
 
-The Bayesian debate is particularly instructive. Bem, Tressoldi, Rabeyron, and Duggan's (2016) meta-analysis of 90 experiments reports a Bayes factor on the order of 10⁹ in favor of presentiment. But the prior probability one assigns does the decisive work. Wagenmakers et al. (2011), in their reanalysis of Bem's original 2011 studies, set prior odds against psi at roughly 10²⁰ to 1 (reflecting how implausible retrocausal physiology seems given known biology). Against a prior that extreme, even a Bayes factor of 10⁹ leaves posterior odds on the order of 10¹¹ *against*. What prior probability you assign determines what evidence you require—and the 2011 exchange turned precisely on whether Wagenmakers' near-zero prior was reasonable or question-begging.
+The Bayesian debate is particularly instructive. Bem, Tressoldi, Rabeyron, and Duggan's (2016) meta-analysis of 90 experiments reports a Bayes factor on the order of 10⁹ in favor of presentiment. But the prior probability one assigns does the decisive work. Wagenmakers et al. (2011) reanalyzed Bem's original 2011 studies with a default Bayesian t-test and concluded the evidence for psi was "weak to nonexistent"—and they argued explicitly that for a phenomenon as biologically implausible as retrocausal physiology a skeptic is entitled to begin from extremely long prior odds against. To make the point concrete with an illustrative figure: suppose a skeptic sets prior odds against psi at 10²⁰ to 1. Against a prior that extreme, even a Bayes factor of 10⁹ leaves posterior odds on the order of 10¹¹ *against*. The exact number is the Map's own illustration, not a value Wagenmakers tabulated; what matters is the structural point, which the 2011 exchange turned on precisely—whether a near-zero prior against retrocausal physiology is reasonable or question-begging. Whatever prior probability you assign determines what evidence you require.
 
 ## Why the Map Doesn't Rest on Presentiment
 

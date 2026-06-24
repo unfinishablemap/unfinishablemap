@@ -5,6 +5,14 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T21:10:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Argument from Mechanism (sufficiency≠necessity non-sequitur)
+- **Output**: [[concepts/argument-from-mechanism]]
+- **Word count**: 2437 (97% of 2500 concepts soft target; under 3500 hard ceiling)
+- **Based on research**: yes — [[research/argument-from-mechanism-2026-06-24]]
+- **Notes**: Map-named pattern, presented as instantiating established fallacies (not a term of art — stated explicitly). Symmetric discipline (materialist over-reach AND dualist argument-from-ignorance). Distinguished sharply from [[possibility-probability-slippage]] and positioned as fallacy-named companion to [[evidential-status-discipline]]'s constrain-vs-establish. Single substantive cite Yoshihara & Yoshihara 2018 (web-verified in note); Braithwaite/Granqvist/God-Helmet referenced descriptively without citing (secondary-sourced per note, omitted from References to avoid unverified metadata). Self-cite to OBE (2026-05-08, Oquatre-sept). Two verbatim OBE quotes audited against live source (both match). Reciprocal cross-links added to out-of-body-experiences (materialist instance), terminal-lucidity (disciplined dualist form), psychedelics (compatibility-vs-support contrast). Sync clean — all new links resolved, no strips.
+
 ## 2026-06-24T21:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/presentiment-and-retrocausality]]

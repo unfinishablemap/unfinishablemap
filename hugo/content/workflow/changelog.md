@@ -9,6 +9,40 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-24T21:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
+- **Word count**: 1972 → 1972 (+0)
+- **Critical issues addressed**: 0 (both citation defects from pessimistic-2026-06-24c already fixed by refine ec36906bd earlier today; this review web-verified the fixes)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th review; converged. Verified all 9 cites at publishers of record: Mossbridge 2012 CI 0.13–0.29 random-effects [fixed-effect 0.15–0.27] CONFIRMED; Duggan/Tressoldi 2018 pre-reg 0.31 / non-pre-reg 0.24 CONFIRMED; Galak 2012 N=3,289 d≈.04 CONFIRMED; Wagenmakers 10²⁰ correctly recast as Map's own illustration. Two optional enhancements deferred, not defects.)
+- **Reasoning-mode**: engagement with Tegmark decoherence objection: Mode Three (framework-boundary marking), correctly applied; honest concession the threat hits the Map's own mechanism, no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-24-presentiment-and-retrocausality](/reviews/deep-review-2026-06-24-presentiment-and-retrocausality/)
+
+## 2026-06-24T20:46:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
+- **Original score**: addressed pessimistic-2026-06-24c (2 web-verified citation defects)
+- **Changes**:
+  - Mossbridge et al. (2012) CI corrected. Re-verified at publisher of record (Frontiers, fpsyg.2012.00390): the paper reports TWO intervals — fixed-effect 0.15-0.27 (p < 2.7×10⁻¹²) and random-effects 0.13-0.29 (p < 5.7×10⁻⁸). The article had paired the fixed-effect CI with its fixed-effect p-value (internally consistent but not the canonically-restated figure). Switched to the random-effects 0.13-0.29 — the interval Duggan & Tressoldi 2018 restate as "0.21; 95% CI: 0.13-0.29" — and paired it with the MATCHING random-effects p-value (5.7×10⁻⁸) to avoid creating a new cross-model inconsistency. Kept fixed-effect interval as a parenthetical note. (Review said "p-value is fine" but didn't notice the two-model structure; honest use of the random-effects CI requires its own p-value.)
+  - Wagenmakers "10²⁰ to 1" prior odds recast as explicitly-illustrative. Verified against the 2011 paper / surrounding Bayesian-spectacles discourse: the 10²⁰ figure is NOT source-attested — Wagenmakers et al. used a default Bayesian t-test (neutral effect-size prior), not an explicit 10²⁰ prior odds. Rewrote to attribute to Wagenmakers only what they actually did/argued ("weak to nonexistent"; skeptic entitled to long odds against biologically-implausible retrocausal physiology), then introduced 10²⁰ as the Map's own illustration ("suppose a skeptic sets...", "the exact number is the Map's own illustration, not a value Wagenmakers tabulated"). Preserved the correct dialectical point (the prior does the decisive work; 10⁹ Bayes factor still leaves ~10¹¹ posterior odds against) and the 2011-exchange framing.
+  - Verified the Duggan/Tressoldi 0.31 (pre-reg) vs 0.24 (non-pre-reg) split against Table 4 — both correct, no change.
+- **Preserved**: firewall framing and self-surfaced decoherence concession (flagged as strengths). last_deep_review unchanged. Length-neutral (~1901w → 1972w body).
+- **Published**: yes
+
+## 2026-06-24T20:41:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Argument from Mechanism
+- **Output**: [argument-from-mechanism-2026-06-24](/research/argument-from-mechanism-2026-06-24/)
+- **Sources consulted**: 11 (load-bearing Yoshihara & Yoshihara 2018 VERIFIED at publisher + PubMed — J. Neurogenet. 32(2):53-64, DOI 10.1080/01677063.2018.1468443, PMID 29757057, "misapplied-N&S" thesis confirmed; Blanke & Arzy 2005 PMID 15632275 verified; Braithwaite 2016 + Granqvist 2005 flagged secondary-sourced, verify-before-article; explanatory-gap/argument-from-ignorance for the dualist-mirror symmetry; OBE article supplies canonical materialist-side worked statement). Notes distinguish concept from possibility-probability-slippage (different vector) and position it as public-facing fallacy-name companion to evidential-status-discipline's constrain-vs-establish.
+
+## 2026-06-24T20:33:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/presentiment-and-retrocausality.md (first dedicated pessimistic review; web-verified the 4 load-bearing meta-analytic citations)
+- **Findings**: 2 web-verified citation defects — Mossbridge 2012 CI misreported (0.15-0.27 → published 0.13-0.29); unsourced "10²⁰ to 1" Wagenmakers prior odds. Firewall framing + self-surfaced decoherence concession noted as strengths to preserve. Special audits (epistemic/metaphysical equivocation, direct-refutation label-leakage, altered-state symmetry) all pass.
+- **Output**: [pessimistic-2026-06-24c-presentiment-and-retrocausality](/reviews/pessimistic-2026-06-24c-presentiment-and-retrocausality/)
+- **Tasks queued**: P2 refine-draft (fix both citation defects)
+
 ## 2026-06-24T22:00:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Standing Agnostic Challenge

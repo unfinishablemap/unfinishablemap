@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-24 21:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -77,7 +77,7 @@ Nahm (2022) clarified an important distinction: *paradoxical lucidity* is broade
 
 ## The Logical Structure of the Challenge
 
-The standard materialist framework rests on what Christopher (2022) calls the "loss-of-function lesion premise": brain damage reduces cognition, therefore cognition is brain-generated (see also Masi, 2023, for a systematic critique). This inference pattern is supported by extensive neuroscience—lesion studies, pharmacological manipulation, neuroimaging correlations. Terminal lucidity does not deny the general pattern. It exploits an asymmetry the pattern cannot accommodate.
+The standard materialist framework rests on what Christopher (2022) calls the "loss-of-function lesion premise": brain damage reduces cognition, therefore cognition is brain-generated (see also Masi, 2023, for a systematic critique). This inference pattern is supported by extensive neuroscience—lesion studies, pharmacological manipulation, neuroimaging correlations. Terminal lucidity does not deny the general pattern, and it does not simply invoke the absence of a mechanism—the disciplined dualist must avoid the [argument-from-mechanism](/concepts/argument-from-mechanism/) in its argument-from-ignorance form, "no mechanism explains this, therefore mind." It instead exploits an asymmetry the pattern cannot accommodate.
 
 In late-stage Alzheimer's disease, the brain has undergone massive neuronal loss, widespread amyloid plaque accumulation, and neurofibrillary tangle formation throughout the cortex. Cortical atrophy is substantial and irreversible. On a strict production model, these patients lack the neural substrate for complex cognition. Yet Batthyány and Greyson's dataset found that more than 80% showed complete remission—return of memory, orientation, and responsive verbal ability—with the majority dying within hours to days.
 

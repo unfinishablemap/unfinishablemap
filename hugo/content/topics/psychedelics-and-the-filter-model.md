@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-06-22 19:05:00+00:00
+ai_modified: 2026-06-24 21:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -71,7 +71,7 @@ The REBUS model (Relaxed Beliefs Under Psychedelics; Carhart-Harris & Friston, 2
 
 From a filter theory perspective, REBUS describes the *mechanism* of filtering without addressing the deeper question of what is being filtered. The predictive hierarchy acts as exactly the kind of constraint system a filter theory would expect. The Map's broader engagement with predictive processing is developed in [predictive processing and dualism](/topics/predictive-processing-and-dualism/), which argues that the framework's formalism is metaphysically neutral and supplies exactly the neural architecture interactionist dualism needs.
 
-The compatibility is real but narrow. Both frameworks share an immediate empirical signature: loosening the relevant constraint should permit richer bottom-up content and altered self-experience. The evidence motivating REBUS is therefore *compatible* with filter theory but does not discriminate in its favour. The frameworks differ in their metaphysical commitments about what consciousness is, but those commitments are settled outside the REBUS evidence rather than by it.
+The compatibility is real but narrow. Both frameworks share an immediate empirical signature: loosening the relevant constraint should permit richer bottom-up content and altered self-experience. The evidence motivating REBUS is therefore *compatible* with filter theory but does not discriminate in its favour. This is a compatibility-vs-support case rather than an [argument-from-mechanism](/concepts/argument-from-mechanism/) case: the error to avoid here is not reading a sufficient mechanism as exhaustive, but reading evidence that fits both readings as supporting one over the other. The frameworks differ in their metaphysical commitments about what consciousness is, but those commitments are settled outside the REBUS evidence rather than by it.
 
 ### Where the Accounts Could Diverge
 
