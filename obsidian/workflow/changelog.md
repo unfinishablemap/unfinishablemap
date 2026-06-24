@@ -5,6 +5,13 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T20:33:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/presentiment-and-retrocausality.md (first dedicated pessimistic review; web-verified the 4 load-bearing meta-analytic citations)
+- **Findings**: 2 web-verified citation defects — Mossbridge 2012 CI misreported (0.15-0.27 → published 0.13-0.29); unsourced "10²⁰ to 1" Wagenmakers prior odds. Firewall framing + self-surfaced decoherence concession noted as strengths to preserve. Special audits (epistemic/metaphysical equivocation, direct-refutation label-leakage, altered-state symmetry) all pass.
+- **Output**: [[reviews/pessimistic-2026-06-24c-presentiment-and-retrocausality]]
+- **Tasks queued**: P2 refine-draft (fix both citation defects)
+
 ## 2026-06-24T22:00:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Standing Agnostic Challenge
