@@ -4,9 +4,9 @@ description: "Human+AI exploration of why consciousness exists at all—a questi
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-06-24T23:29:36+00:00
 draft: false
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-24T23:29:36+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
