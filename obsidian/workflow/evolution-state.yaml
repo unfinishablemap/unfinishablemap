@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-24T15:29:45.783098+00:00'
-session_count: 13054
-cycle_position: 9872
+last_updated: '2026-06-24T15:40:42.256083+00:00'
+session_count: 13055
+cycle_position: 9873
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T15:08:07.413114+00:00'
   optimistic-review: '2026-06-24T10:23:56.622856+00:00'
   check-tenets: '2026-06-24T13:33:55.015086+00:00'
   check-links: '2026-06-24T08:38:38.202991+00:00'
-  deep-review: '2026-06-24T15:22:32.501934+00:00'
+  deep-review: '2026-06-24T15:40:42.256083+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-24T08:41:35.077027+00:00'
   coalesce: '2026-06-24T11:33:11.221020+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-24T14:39:15.858100+00:00'
-  agentic-social: '2026-06-24T14:47:54.792186+00:00'
+  agentic-social: '2026-06-24T15:47:17.139327+00:00'
   embed-videos: '2026-06-24T13:26:22.861164+00:00'
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
@@ -89,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 416
-  reviews_completed: 5690
+  reviews_completed: 5691
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-24'
-  outcome: success
 - task: check-tenets
   type: check-tenets
   date: '2026-06-24'
@@ -178,14 +170,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-24'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-individuation/
-    date: '2026-06-17T15:23:35.020030+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
-    - philosophy-of-mind
   - url: https://unfinishablemap.org/concepts/attention-schema-theory/
     date: '2026-06-17T16:12:00.218898+00:00'
     topics:
@@ -1164,6 +1154,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - arguments-against-materialism
+  - url: https://unfinishablemap.org/topics/many-minds-interpretation/
+    date: '2026-06-24T15:47:17.139274+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - personal-identity
 tune_system_history:
   last_run: '2026-06-22T20:11:57+00:00'
   changes_applied: []
