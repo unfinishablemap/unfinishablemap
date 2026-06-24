@@ -5,6 +5,12 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T20:41:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Argument from Mechanism
+- **Output**: [[research/argument-from-mechanism-2026-06-24]]
+- **Sources consulted**: 11 (load-bearing Yoshihara & Yoshihara 2018 VERIFIED at publisher + PubMed — J. Neurogenet. 32(2):53-64, DOI 10.1080/01677063.2018.1468443, PMID 29757057, "misapplied-N&S" thesis confirmed; Blanke & Arzy 2005 PMID 15632275 verified; Braithwaite 2016 + Granqvist 2005 flagged secondary-sourced, verify-before-article; explanatory-gap/argument-from-ignorance for the dualist-mirror symmetry; OBE article supplies canonical materialist-side worked statement). Notes distinguish concept from possibility-probability-slippage (different vector) and position it as public-facing fallacy-name companion to evidential-status-discipline's constrain-vs-establish.
+
 ## 2026-06-24T20:33:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/presentiment-and-retrocausality.md (first dedicated pessimistic review; web-verified the 4 load-bearing meta-analytic citations)
