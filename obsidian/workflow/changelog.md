@@ -5,6 +5,19 @@ ai_modified: 2026-06-24T10:09:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T10:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Word count**: 4260 → 4260 (no body edits — converged third review)
+- **Mode**: Diff-scoped audit of changed-since-review staleness; only body change since 2026-06-04 last-review is the 2026-06-16 apex-evolve (conservative within-cluster discount + Marsh 2021 anchor).
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (license-to-no-op exercised)
+- **Citation web-verify**: Marsh et al. 2021 (the one cite added since the 2026-06-04 ledger) verified real-correct at publisher of record — PLOS ONE 16(2):e0245849, DOI 10.1371/journal.pone.0245849, 2021-02-12. Sarasso 2015 / Hu 2023 / Wiest 2025 unchanged since prior ledger; not re-litigated.
+- **Seam-check**: within-cluster common-cause discount + Marsh gloss faithfully imported from [[topics/clinical-dissociation-as-systematic-evidence]] (lines 82, 129); no slippage. Anchoring flags re-confirmed as the known `establishes`-demarcation lexicon false positive.
+- **Engagement classification**: materialism/functionalism Mode Three; MWI Mode Three; simplest-identity-reading Mode One. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-pharmacological-dissociation-as-evidence]]
+
 ## 2026-06-24T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-selecting-neural-patterns]]

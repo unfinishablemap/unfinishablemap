@@ -4,8 +4,8 @@ description: "Three classes of pharmacological dissociation—same-target-opposi
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-16T19:30:00+00:00
-last_deep_review: 2026-06-04T16:52:40+00:00
+ai_modified: 2026-06-24T10:55:00+00:00
+last_deep_review: 2026-06-24T10:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

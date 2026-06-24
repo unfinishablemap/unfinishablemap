@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T10:41:49.545297+00:00'
-session_count: 13011
+last_updated: '2026-06-24T10:51:45.107814+00:00'
+session_count: 13012
 cycle_position: 9853
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-24T10:13:54.911762+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
-  replenish-queue: '2026-06-24T10:19:42.080112+00:00'
+  replenish-queue: '2026-06-24T10:51:45.107814+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-24'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-24'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1214,9 +1214,9 @@ queue_status:
     loss-aversion->negative-valence-asymmetry-and-the-selection-weighting-function,
     both EXIST). (3 gap/caps) topics 280/320 + concepts 268/320 + positions 8/80 headroom,
     gen harvester-governed (harvest ran 07:44Z) + gap-analysis Vetoed-bank-dedup-blocked.
-    (4 genuine-drift) 140 candidates; entire top tier (gap 11-22d) git-classifies as
-    cosmetic cross-touches (2-6 line reciprocal-wikilink/cross-link-repair edits from
-    the heavy deep-review cycle per deep_review_over_reviews_converged) or same-cycle
+    (4 genuine-drift) 140 candidates; entire top tier (gap 11-22d) git-classifies
+    as cosmetic cross-touches (2-6 line reciprocal-wikilink/cross-link-repair edits
+    from the heavy deep-review cycle per deep_review_over_reviews_converged) or same-cycle
     churn (phenomenal-concepts-strategy + near-death-experiences refined this cycle,
     simulation-theory-of-memory + many-minds created this cycle, consciousness-selecting
     reviewed this cycle). THE clean exception is apex/pharmacological-dissociation-as-evidence.md:
@@ -1224,54 +1224,54 @@ queue_status:
     review since) by commit d577a90b5 auto(apex-evolve) -- a SUBSTANTIVE apex synthesis
     (git-verified own-body rework: added the clinical-cluster internal discount, recalibrated
     four perturbation routes->classes with independence relocated between-classes,
-    redescribed 3 of 4 clinical windows as precision-weighting pathologies in one active-inference
-    framework, ADDED a new inline Marsh et al. 2021 cite). An apex-evolve synthesis
-    bumps apex_last_synthesis/ai_modified but NOT last_deep_review, so the reworked
-    convergence-counting argument + new cite are UNVERIFIED by deep-review (apex_last_synthesis-drift-artifact
-    / coalesce-hides-review-debt sibling). The review must web-verify the new Marsh
-    et al. 2021 cite -- it is INLINE-ONLY (1 occurrence, NO References/Further-Reading
-    entry, a dangling-cite surface per ai_citation_metadata_unreliable / craddock-613thz-dangling-cite-sweep)
-    -- 3-state present/wrong-metadata/fabricated, add the missing bibliographic entry
-    or de-cite; verify the convergence-counting rework honours evidential-status-discipline
-    + common-cause-null (active-inference redescription is the correct discount direction,
-    do not over/under-discount; DID cross-state geometry stays calibrated not upgraded);
-    web-verify all other cites 3-state; currency-sweep; no This-is-not-X-it-is-Y cliche.
-    LENGTH: 4260w soft_warning (apex soft 4000/hard 5000, ~740w headroom) -- length-neutral-to-trimming;
-    Marsh-cite fix may add a few words for a References entry (well under hard). On
-    converged no-op stamp last_deep_review only; on a body fix bump both AND update
-    apex_last_synthesis (avoid apex_last_synthesis-drift-artifact re-nomination). older-model
-    claude-opus-4-7 stamp = extra fresh-eyes justification. (5 length) every content
-    offender human-deferred / veto (composition-question-rivals, meaning-of-life, phenomenal-output)
-    / accept-as-survey / index-hub (apex-articles 9788w) / research-note -- NO clean
-    condense. (6 orphan) orphaned_files=0. (7 positions) 8 entries <10 audit threshold,
-    positions-evolve ran 06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence
-    cluster gap. NOT vetoed (below-Vetoed hits are cross-link mentions in other tasks''
-    notes), no OPEN deep-review duplicate (all todo hits are completed historical tasks
-    or cross-link refs), not in calibration-audit-triple (not a protected anchor).
-    New task inserted at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation).
-    The two pre-existing counted P2s (entropic-brain-hypothesis cross-links refine-draft,
+    redescribed 3 of 4 clinical windows as precision-weighting pathologies in one
+    active-inference framework, ADDED a new inline Marsh et al. 2021 cite). An apex-evolve
+    synthesis bumps apex_last_synthesis/ai_modified but NOT last_deep_review, so the
+    reworked convergence-counting argument + new cite are UNVERIFIED by deep-review
+    (apex_last_synthesis-drift-artifact / coalesce-hides-review-debt sibling). The
+    review must web-verify the new Marsh et al. 2021 cite -- it is INLINE-ONLY (1
+    occurrence, NO References/Further-Reading entry, a dangling-cite surface per ai_citation_metadata_unreliable
+    / craddock-613thz-dangling-cite-sweep) -- 3-state present/wrong-metadata/fabricated,
+    add the missing bibliographic entry or de-cite; verify the convergence-counting
+    rework honours evidential-status-discipline + common-cause-null (active-inference
+    redescription is the correct discount direction, do not over/under-discount; DID
+    cross-state geometry stays calibrated not upgraded); web-verify all other cites
+    3-state; currency-sweep; no This-is-not-X-it-is-Y cliche. LENGTH: 4260w soft_warning
+    (apex soft 4000/hard 5000, ~740w headroom) -- length-neutral-to-trimming; Marsh-cite
+    fix may add a few words for a References entry (well under hard). On converged
+    no-op stamp last_deep_review only; on a body fix bump both AND update apex_last_synthesis
+    (avoid apex_last_synthesis-drift-artifact re-nomination). older-model claude-opus-4-7
+    stamp = extra fresh-eyes justification. (5 length) every content offender human-deferred
+    / veto (composition-question-rivals, meaning-of-life, phenomenal-output) / accept-as-survey
+    / index-hub (apex-articles 9788w) / research-note -- NO clean condense. (6 orphan)
+    orphaned_files=0. (7 positions) 8 entries <10 audit threshold, positions-evolve
+    ran 06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap.
+    NOT vetoed (below-Vetoed hits are cross-link mentions in other tasks'' notes),
+    no OPEN deep-review duplicate (all todo hits are completed historical tasks or
+    cross-link refs), not in calibration-audit-triple (not a protected anchor). New
+    task inserted at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation). The
+    two pre-existing counted P2s (entropic-brain-hypothesis cross-links refine-draft,
     parapsychology-firewall integrate-orphan) and the four speculative ASSESS-FIRST
     P3s untouched; the #veto condenses remain parser-excluded. Expect replenish-at-floor
     alternation to continue.'
-  legacy_run_583_note: 'run no.583 (2026-06-24T10:20Z): MINTED 1 genuine-drift
-    deep-review (concepts/consciousness-selecting-neural-patterns.md), floor restored
-    2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint
-    / 3 POST-mint (both verified; select_queue_task confirms the new task selectable
-    as DEEP_REVIEW at top, line 39). MIN_QUEUE floor 3, unmet by 1 pre-mint. Documented
-    replenish-at-floor alternation (unfin_loop_steady_state), NOT deadlock: prior
-    run no.582 (10:05Z) minted a phenomenal-concepts-strategy unconsumed-research
-    refine which was PICKED + executed by the last cycle slot (commit 4cd5a06f9, refine-draft
-    10:13Z), dropping the live floor 3->2. EIGHT-SOURCE AUDIT re-run from LIVE DISK,
-    all exhausted of clean MINT candidates EXCEPT this one genuine-drift deep-review.
-    (1 chain) today''s 3 research-topic completions (Many-Minds, Simulation-Theory-of-Memory,
-    Phenomenal-Concept-Strategy) ALL consumed -- two creates done + integrate-orphan
-    successors done (10/6 inbound links), the third consumed by the run-582 refine.
-    (2 unconsumed research) ZERO -- three newest notes disk-confirmed consumed. (3
-    gap/caps) topics 280/320 + concepts 268/320 + positions 8/80 headroom, gen harvester-governed
-    + gap-analysis Vetoed-bank-dedup-blocked. (4 genuine-drift) 141 candidates; top
-    tier is same-cycle refine churn (phenomenal-concepts-strategy + near-death-experiences
-    refined THIS cycle; simulation-theory-of-memory created+integrated THIS cycle)
-    or the 06-23T00:52:50 cosmetic reciprocal-wikilink batch (deep_review_over_reviews_converged);
+  legacy_run_583_note: 'run no.583 (2026-06-24T10:20Z): MINTED 1 genuine-drift deep-review
+    (concepts/consciousness-selecting-neural-patterns.md), floor restored 2->3. Authoritative
+    tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint / 3 POST-mint (both
+    verified; select_queue_task confirms the new task selectable as DEEP_REVIEW at
+    top, line 39). MIN_QUEUE floor 3, unmet by 1 pre-mint. Documented replenish-at-floor
+    alternation (unfin_loop_steady_state), NOT deadlock: prior run no.582 (10:05Z)
+    minted a phenomenal-concepts-strategy unconsumed-research refine which was PICKED
+    + executed by the last cycle slot (commit 4cd5a06f9, refine-draft 10:13Z), dropping
+    the live floor 3->2. EIGHT-SOURCE AUDIT re-run from LIVE DISK, all exhausted of
+    clean MINT candidates EXCEPT this one genuine-drift deep-review. (1 chain) today''s
+    3 research-topic completions (Many-Minds, Simulation-Theory-of-Memory, Phenomenal-Concept-Strategy)
+    ALL consumed -- two creates done + integrate-orphan successors done (10/6 inbound
+    links), the third consumed by the run-582 refine. (2 unconsumed research) ZERO
+    -- three newest notes disk-confirmed consumed. (3 gap/caps) topics 280/320 + concepts
+    268/320 + positions 8/80 headroom, gen harvester-governed + gap-analysis Vetoed-bank-dedup-blocked.
+    (4 genuine-drift) 141 candidates; top tier is same-cycle refine churn (phenomenal-concepts-strategy
+    + near-death-experiences refined THIS cycle; simulation-theory-of-memory created+integrated
+    THIS cycle) or the 06-23T00:52:50 cosmetic reciprocal-wikilink batch (deep_review_over_reviews_converged);
     the sibling empirical-evidence-for-consciousness-selecting was deep-reviewed 06-22
     22:49 just 7h before its small 06-23 refine = near-immediate churn. THE clean
     exception is consciousness-selecting-neural-patterns.md: last_deep_review 2026-06-20
