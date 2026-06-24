@@ -5,6 +5,18 @@ ai_modified: 2026-06-24T23:29:36+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T23:41:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/argument-from-mechanism]]
+- **Word count**: 2435 → 2451 (+16; 98% of 2500 concepts soft, under hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (affirming-the-consequent gloss overreached "M is operative AND is the whole story" — exhaustiveness is a separate layered error, not entailed by affirming the consequent; tightened to "operative here" + noted the further slide compounds the sufficiency-as-necessity confusion)
+- **Enhancements made**: 1 (the logical-precision fix)
+- **Citation web-verify (§2.4)**: 2/2 real-correct. Yoshihara & Yoshihara 2018 *J. Neurogenetics* 32(2):53–64 DOI 10.1080/01677063.2018.1468443 — confirmed genuinely two-author (Motojiro + Motoyuki, both "M."), full tuple matches publisher of record. Internal OBE self-cite (Oquatre-sept, 2026-05-08) consistent with corpus convention + phantom-limb sibling cite. Both in-body OBE quotes verbatim-accurate against live source (L99, L47). AWARE "zero hits" currency-current (AWARE II 2023 latest). All 6 wikilink targets + 3 tenet anchors resolve.
+- **Reasoning-mode (§2.6)**: physicalist engagement = Mode Three (framework-boundary, honest concession of epistemic-gap point); no boundary-substitution, no label leakage in prose.
+- **First review** of a same-day fresh create (fresh-create defect tail: drew 1 real medium logical-precision finding; clean on citations/quotes/calibration).
+- **Output**: [[reviews/deep-review-2026-06-24-argument-from-mechanism]]
+
 ## 2026-06-24T23:29:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/origin-of-consciousness]]
