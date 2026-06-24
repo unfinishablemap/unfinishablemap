@@ -5,6 +5,16 @@ ai_modified: 2026-06-24T13:07:16+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T13:21:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/steelmanning-as-method]]
+- **Word count**: 3999 → 4001 (length-neutral; soft_warning, well under 5000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Note**: Fourth pass (first deep-review since the 2026-06-24 apex-evolve expansion `f93ad7071`, which added the new "Single-Move Exhibits Across Domains" section + 3 sibling exhibits and compressed the body length-neutrally). Highest-yield check was [[apex-stale-internal-quote-channel]]: the new section quotes three sibling articles verbatim — ALL strings grepped against live sources and confirmed faithful & current (many-minds "infinity of minds is profligate"/indexical-not-ontological L90; STM "right about *how*"/Rivadulla-Duró discrimination-problem/entry-point-not-defect L64,L78; NDE one-pattern-not-three/can't-tally-filter-wins/don't-*prove*-dualism L136,L144). All 3 new wikilinks resolve. Carried-forward worked-exhibit quotes re-verified against live dissociation apex (absorbs-the-*shape* L171, Lau felt-character L175, seven→five-or-six audit + 3 reassignments). ONE medium fix: section opener originally read *each labels the move "accommodation, not proof"* — that single-quoted phrase exists in NONE of the 3 sources (apex's own coinage in quote marks → false-quotation impression, inverse of stale-quote channel); substance faithful but rephrased to plain paraphrase *"each frames the result as accommodation rather than proof."* §2.4 References unchanged (sibling cross-refs only, no new external cites) — full web-verify not re-triggered; prior 2026-05-28 publisher-of-record audit stands. No editor-vocab leakage, no banned cliché, no calibration slippage. Converged.
+- **Output**: [[reviews/deep-review-2026-06-24-steelmanning-as-method]]
+
 ## 2026-06-24T13:07:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/near-death-experiences]]

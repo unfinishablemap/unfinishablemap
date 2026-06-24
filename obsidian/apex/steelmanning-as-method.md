@@ -3,7 +3,7 @@ title: "Steelmanning as Method: Building the Rival Before the Residue"
 created: 2026-05-27
 modified: 2026-06-24
 human_modified: null
-ai_modified: 2026-06-24T11:53:36+00:00
+ai_modified: 2026-06-24T13:21:56+00:00
 draft: false
 description: "A reusable method the Map performs but rarely names: build the strongest unified rival in its own vocabulary, grant that it absorbs the shape of the evidence, then isolate the narrow residue that survives. The constructive companion to constrain-vs-establish."
 topics: []
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-05-27
 last_curated: null
-last_deep_review: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-06-24T13:21:56+00:00
 
 apex_sources:
   - project/evidential-status-discipline
@@ -117,7 +117,7 @@ At the topic and concept tier, [[mental-effort|mental effort]] ledgers the Inzli
 
 ## Single-Move Exhibits Across Domains
 
-Where the dissociation apex performs all four moves at once, a cluster of shorter articles each performs *one* move with textbook clarity — across domains far enough apart that the method's generality, not a single case's idiosyncrasy, is what they jointly demonstrate. Each grants the rival's mechanism in full and contests only its eliminative gloss; each labels the move "accommodation, not proof."
+Where the dissociation apex performs all four moves at once, a cluster of shorter articles each performs *one* move with textbook clarity — across domains far enough apart that the method's generality, not a single case's idiosyncrasy, is what they jointly demonstrate. Each grants the rival's mechanism in full and contests only its eliminative gloss; each frames the result as accommodation rather than proof.
 
 **Move one, building the unified rival.** [[topics/many-minds-interpretation|The many-minds interpretation]] assembles the *closest mainstream rival* to the Map's own interface model — a reading of quantum mechanics that keeps physical reality single (friendly to the No-Many-Worlds tenet) yet still multiplies experiencers, built in Albert–Loewer's and Lockwood's own vocabulary and conceding its leading version's admitted non-supervenience. The discipline is visible in what the article *refuses*: it declines the cheap parsimony win ("the Map must *not* lean on 'an infinity of minds is profligate'") and defeats the rival on the load-bearing axis instead — "the load-bearing objection to MMI is *indexical*, not ontological: not 'too many minds' but 'no fact about which mind is mine.'" That is the strongest rival attacked where it is weak, not where it is merely large.
 
