@@ -5,6 +5,17 @@ ai_modified: 2026-06-24T23:07:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/collapse-and-time]]
+- **Word count**: 2018 → 2054 (+36; ok at 82% of 2500 target)
+- **Critical issues addressed**: 1 (wrong-author misattribution: "Aharonov, Cohen & Elitzur 2015" → correct "Aharonov, Cohen & Shushi 2016, Quanta 5(1):53-60" — third author is Tomer Shushi not Avshalom Elitzur; verified 2 independent searches + publisher of record. Survived all 6 prior reviews via intra-corpus ratification; caught only by §2.4 publisher-of-record web-verify)
+- **Medium issues addressed**: 1 (References-orphan Leifer & Pusey 2017 → added inline citation in Time-Symmetric Interpretations section)
+- **Low issues addressed**: 2 (Wharton & Price 2013 → Price & Wharton author-order fix per publisher; Jayaseelan 2021 reference re-alphabetized after a stale in-place correction)
+- **Verdict**: 7th review of a converged article. Full publisher-of-record web-verify of all 12 references (per-cite ledger in archive); 11 real-correct, 1 real-wrong-metadata (corrected). No superlative/currency claims, no slippage, no label leakage. Structurally stable — second consecutive review where the only critical fix was a citation-metadata defect (cf. 2026-05-26 Müller→Jayaseelan).
+- **Engagement modes**: MWI engagement Mixed (Mode One branching-circularity + Mode Three boundary-marking), honest, no leakage (unchanged).
+- **Output**: [[reviews/deep-review-2026-06-24-collapse-and-time]]
+
 ## 2026-06-24T23:07:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/multi-mind-collapse-problem]]
