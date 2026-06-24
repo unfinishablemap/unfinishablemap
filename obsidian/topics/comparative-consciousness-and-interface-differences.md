@@ -4,7 +4,7 @@ description: "Does consciousness vary in nature, in coupling mechanism, or both?
 created: 2026-02-01
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-06-14T13:17:28+00:00
+ai_modified: 2026-06-24T17:15:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-01
 last_curated: null
-last_deep_review: 2026-06-02T15:42:41+00:00
+last_deep_review: 2026-06-24T17:15:42+00:00
 ---
 
 If consciousness interfaces with matter rather than emerging from it, observed differences in experience across species, states, and modalities could have two distinct sources. The inherent nature of a conscious entity may define the type of its experience—a bat's echolocation-based phenomenology might differ from human visual experience because different kinds of consciousness are involved, not just different brains. But how consciousness couples with a physical system shapes the moment-to-moment reality: an octopus distributing cognition across eight semi-autonomous arms, a meditator in deep absorption, a dreamer—these might involve the same type of consciousness coupled differently. Distinguishing nature from coupling is essential for understanding comparative consciousness.

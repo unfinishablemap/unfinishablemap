@@ -5,6 +5,16 @@ ai_modified: 2026-06-24T16:51:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T17:15:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/comparative-consciousness-and-interface-differences]]
+- **Word count**: 3445 → 3445 (length-neutral; 115% of 3000 topics soft, under 4000 hard ceiling)
+- **Mode**: Convergence no-op pass (**7th** deep review; substance-stable since 2026-03-07; no deep-review body change in last 4 passes). Sole changed-since signal is a cosmetic cross-link install (commit `f4127a9c0`) that bumped `ai_modified` — the classic convergence-damping false signal. Fast confirm per [[deep_review_over_reviews_converged]], no manufactured edits.
+- **Critical issues addressed**: 0. The one delta verified: new anchor `[[evolution-under-dualism#three-models-what-evolves]]` resolves to the live heading "## Three Models: What Evolves?"; paraphrase ("the Map commits to none of the three models") is faithful to the source and is itself a calibration guard, not slippage. Citation web-verify NOT re-triggered (References/inline cites unchanged since the 2026-06-02 full publisher-of-record ledger; epothilone Khan/Wiest 2024 eNeuro 11(8) still stands). No superlative claims (currency-sweep clean).
+- **Medium issues addressed**: 0 (article at convergence).
+- **Enhancements made**: 0. Calibration intact (NYD tiers quoted at declared level, no tenet-load upgrade). Named-opponent engagements (materialist/functionalist/MWI) remain Mode Three boundary-marking, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-comparative-consciousness-and-interface-differences]]
+
 ## 2026-06-24T17:05:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/ethics-of-cognitive-enhancement-under-dualism]]
