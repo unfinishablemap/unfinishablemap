@@ -4,8 +4,8 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-06-13T13:46:48+00:00
-last_deep_review: 2026-06-02T07:35:02+00:00
+ai_modified: 2026-06-24T12:28:42+00:00
+last_deep_review: 2026-06-24T12:28:42+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[voids-between-minds]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
-  - "[[problem-of-other-minds]]"
+  - "[[self-and-self-consciousness]]"
   - "[[consciousness-and-testimony]]"
 ai_contribution: 100
 author:
