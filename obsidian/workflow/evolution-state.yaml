@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-24T14:39:15.858100+00:00'
-session_count: 13046
+last_updated: '2026-06-24T14:46:20.744671+00:00'
+session_count: 13047
 cycle_position: 9869
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-24T11:33:11.221020+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-24T14:39:15.858100+00:00'
-  agentic-social: '2026-06-24T13:55:59.846441+00:00'
+  agentic-social: '2026-06-24T14:47:29.978462+00:00'
   embed-videos: '2026-06-24T13:26:22.861164+00:00'
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-24T14:24:27.462821+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
-  replenish-queue: '2026-06-24T14:33:12.574308+00:00'
+  replenish-queue: '2026-06-24T14:46:20.744671+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
@@ -98,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-24'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-24'
@@ -178,16 +170,12 @@ recent_tasks:
   type: apex-evolve
   date: '2026-06-24'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/hard-problem-of-content/
-    date: '2026-06-17T14:32:26.085422+00:00'
-    topics:
-    - the-naturalisation-failure-for-content
-    - enactivism-challenge-to-interactionist-dualism
-    - eliminative-materialism
-    - arguments-against-materialism
-    - philosophy-of-language-under-dualism
   - url: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-individuation/
     date: '2026-06-17T15:23:35.020030+00:00'
     topics:
@@ -1167,6 +1155,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/topics/parsimony-case-for-interactionist-dualism/
+    date: '2026-06-24T14:47:29.978403+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - arguments-against-materialism
 tune_system_history:
   last_run: '2026-06-22T20:11:57+00:00'
   changes_applied: []
@@ -1211,8 +1204,8 @@ queue_status:
     AUDIT re-run from LIVE DISK 14:43Z, ALL exhausted of clean genuine-MINT candidates:
     (1 chain) ZERO research-topic/expand-topic/cross-review completions in recent_tasks
     (deep-review x6 / replenish x6 / refine-draft x2 / agentic-social x2 / apex-evolve
-    / check-tenets / embed-videos / harvest). (2 unconsumed research) ZERO -- the 3
-    newest notes (simulation-theory-of-memory, phenomenal-concept-strategy-2024-2026-update,
+    / check-tenets / embed-videos / harvest). (2 unconsumed research) ZERO -- the
+    3 newest notes (simulation-theory-of-memory, phenomenal-concept-strategy-2024-2026-update,
     many-minds-interpretation, all 2026-06-24) disk-confirmed CONSUMED (concepts/simulation-theory-of-memory,
     concepts/phenomenal-concepts-strategy, topics/many-minds-interpretation all EXIST);
     all older notes consumed. (3 gap/caps) topics 280/320, concepts 268/320, positions
@@ -1227,17 +1220,17 @@ queue_status:
     via get_length_warnings: every content hard/critical offender is human-deferred
     / #veto / accept-as-survey / known +positions-back-cite false positive (count-words-includes-frontmatter:
     agency-void 3174w, what-voids-reveal 3019w) / research working note -- NO clean
-    mintable condense (replenish-overmints-condense-vs-accept-as-survey). The two borderline
-    candidates re-checked this run are both non-mintable: topics/personal-identity
+    mintable condense (replenish-overmints-condense-vs-accept-as-survey). The two
+    borderline candidates re-checked this run are both non-mintable: topics/personal-identity
     4056w is only 56w over the 4000 hard ceiling and the 06-19 touch was a reciprocal-cross-link
     repair (hub, 39 todo refs); concepts/consciousness-selecting-neural-patterns 3503w
-    was deep-reviewed TODAY (last_deep_review 2026-06-24) and is only 3w over the 3500
-    concepts ceiling. (7 orphan) orphaned_files=0. (8 positions) 8 entries (<10 audit
-    threshold), positions-evolve ran 06-22, slow-add; (applied-apex) 3 extant, no high-confidence
-    cluster gap. WHY NO PROMOTION THIS RUN: floor-restore-by-promotion is also exhausted
-    -- both REAL integration-deficit P3s (entropic-brain, parapsychology-firewall)
-    are ALREADY at P2, and the apex "Consciousness as Maker" P3 was just consumed by
-    run-593. The ONLY remaining open P3 is "Phenomenology of Insight" (Type: expand-topic),
+    was deep-reviewed TODAY (last_deep_review 2026-06-24) and is only 3w over the
+    3500 concepts ceiling. (7 orphan) orphaned_files=0. (8 positions) 8 entries (<10
+    audit threshold), positions-evolve ran 06-22, slow-add; (applied-apex) 3 extant,
+    no high-confidence cluster gap. WHY NO PROMOTION THIS RUN: floor-restore-by-promotion
+    is also exhausted -- both REAL integration-deficit P3s (entropic-brain, parapsychology-firewall)
+    are ALREADY at P2, and the apex "Consciousness as Maker" P3 was just consumed
+    by run-593. The ONLY remaining open P3 is "Phenomenology of Insight" (Type: expand-topic),
     a raw expand-topic whose create-vs-section decision is NOT self-assessed by /expand-topic
     (human-decision-task-mispicked-as-refine trap) -- UNSAFE to auto-promote. Minting
     a churn deep-review of cosmetic-drift content would violate deep_review_over_reviews_converged.
@@ -1342,33 +1335,34 @@ queue_status:
     of Active Tasks (LIFO-safe, queue-lifo-starvation); pre-existing tasks not starved.
     Expect replenish-at-floor alternation to continue until the harvester / research->expand
     pipeline reopens.'
-  superseded_run_591_note: 'run no.591 (2026-06-24T13:50Z): MINTED 1 GENUINE-DRIFT deep-review
-    (topics/indexical-identity-quantum-measurement.md), floor restored 2->3. Authoritative
-    tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint / 3 POST-mint (both
-    verified; PRE-mint select_queue_task returns the entropic-brain refine P2 [queue
-    FUNCTIONAL, not deadlock], POST-mint returns the new task parsing as TaskType.DEEP_REVIEW
-    priority 2 at TOP of Active Tasks). GENUINE own-body drift, NOT a cosmetic cross-touch
-    and NOT a P3->P2 promotion: indexical-identity last_deep_review 2026-05-26 (29d)
-    but commit bf1c45336 (2026-06-24T09:50, an integrate-orphan task titled "Integrate
-    many-minds-interpretation into site navigation") added a SUBSTANTIVE new argumentative
-    paragraph + 2 cross-links (git +5/-1 own-body) asserting "MMI multiplies the indexical
-    problem rather than solving it." An integrate-orphan task adds links but does
-    NOT web-verify the new claim or bump last_deep_review, so this new MMI argument
-    is UNVERIFIED by deep-review on a Tenet 4 (No Many Worlds) load-bearing article.
-    Distinct from the 0-content-word reciprocal-link cross-touches runs 588-590 correctly
-    skipped. MIN_QUEUE floor 3, unmet by 1 pre-mint; prior run no.590 (13:15Z) minted
-    an apex/steelmanning-as-method deep-review which the cycle slot PICKED + executed
-    (completion 13:24Z, now below Completed), dropping the live floor 3->2 (deep_review_over_reviews_converged
-    same-day collision). EIGHT-SOURCE AUDIT re-run from LIVE DISK 13:50Z, all exhausted
-    of cleaner mints: (1 chain) ZERO research-topic/expand-topic/cross-review completions
-    in recent_tasks. (2 unconsumed research) ZERO -- 3 newest notes find-confirmed
-    consumed (simulation-theory-of-memory, phenomenal-concept-strategy-update, many-minds-interpretation);
-    older 7 confirmed by runs 588-590. (3 gap/caps) topics 280/320, concepts 268/320,
-    voids 101/100, positions 8/80; headroom but generation harvester-governed + gap-analysis
-    Vetoed-bank-dedup-blocked. (4 genuine-drift) 145 candidates; 999d-tier are index
-    files (positions/*, topics.md, concepts.md, apex.md, apex-articles.md); indexical-identity
-    is the clean own-body exception, the others (ineffable-encounter-void 24d, creative-aesthetic-void
-    23d, voids-between-minds 23d, agency-void 23d, argument-from-reason 23d) are post-review
+  superseded_run_591_note: 'run no.591 (2026-06-24T13:50Z): MINTED 1 GENUINE-DRIFT
+    deep-review (topics/indexical-identity-quantum-measurement.md), floor restored
+    2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint
+    / 3 POST-mint (both verified; PRE-mint select_queue_task returns the entropic-brain
+    refine P2 [queue FUNCTIONAL, not deadlock], POST-mint returns the new task parsing
+    as TaskType.DEEP_REVIEW priority 2 at TOP of Active Tasks). GENUINE own-body drift,
+    NOT a cosmetic cross-touch and NOT a P3->P2 promotion: indexical-identity last_deep_review
+    2026-05-26 (29d) but commit bf1c45336 (2026-06-24T09:50, an integrate-orphan task
+    titled "Integrate many-minds-interpretation into site navigation") added a SUBSTANTIVE
+    new argumentative paragraph + 2 cross-links (git +5/-1 own-body) asserting "MMI
+    multiplies the indexical problem rather than solving it." An integrate-orphan
+    task adds links but does NOT web-verify the new claim or bump last_deep_review,
+    so this new MMI argument is UNVERIFIED by deep-review on a Tenet 4 (No Many Worlds)
+    load-bearing article. Distinct from the 0-content-word reciprocal-link cross-touches
+    runs 588-590 correctly skipped. MIN_QUEUE floor 3, unmet by 1 pre-mint; prior
+    run no.590 (13:15Z) minted an apex/steelmanning-as-method deep-review which the
+    cycle slot PICKED + executed (completion 13:24Z, now below Completed), dropping
+    the live floor 3->2 (deep_review_over_reviews_converged same-day collision). EIGHT-SOURCE
+    AUDIT re-run from LIVE DISK 13:50Z, all exhausted of cleaner mints: (1 chain)
+    ZERO research-topic/expand-topic/cross-review completions in recent_tasks. (2
+    unconsumed research) ZERO -- 3 newest notes find-confirmed consumed (simulation-theory-of-memory,
+    phenomenal-concept-strategy-update, many-minds-interpretation); older 7 confirmed
+    by runs 588-590. (3 gap/caps) topics 280/320, concepts 268/320, voids 101/100,
+    positions 8/80; headroom but generation harvester-governed + gap-analysis Vetoed-bank-dedup-blocked.
+    (4 genuine-drift) 145 candidates; 999d-tier are index files (positions/*, topics.md,
+    concepts.md, apex.md, apex-articles.md); indexical-identity is the clean own-body
+    exception, the others (ineffable-encounter-void 24d, creative-aesthetic-void 23d,
+    voids-between-minds 23d, agency-void 23d, argument-from-reason 23d) are post-review
     condense/cosmetic/sibling-expand touches (argument-from-reason''s substantive
     06-02 refines were the OUTPUT of its 06-01 deep-review). (5 length) indexical-identity
     2847w status=ok (95%) length-safe; every hard/critical offender human-deferred
