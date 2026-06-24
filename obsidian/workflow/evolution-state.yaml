@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T13:33:55.015086+00:00'
-session_count: 13036
-cycle_position: 9864
+last_updated: '2026-06-24T13:42:54.175115+00:00'
+session_count: 13037
+cycle_position: 9865
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T09:31:57.785022+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
-  refine-draft: '2026-06-24T10:13:54.911762+00:00'
+  refine-draft: '2026-06-24T13:42:54.175115+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
   replenish-queue: '2026-06-24T13:17:32.534294+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-24'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-24'
@@ -178,6 +174,10 @@ recent_tasks:
   type: check-tenets
   date: '2026-06-24'
   outcome: failed
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-24'
+  outcome: success
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/counterfactual-reasoning/
@@ -1193,10 +1193,50 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     genuine_drift: 1
-  last_replenishment_run: 590
-  last_replenishment: '2026-06-24T13:15:00+00:00'
+  last_replenishment_run: 591
+  last_replenishment: '2026-06-24T13:50:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.590 (2026-06-24T13:15Z): MINTED 1 GENUINE-DRIFT
+  current_replenishment_note: 'run no.591 (2026-06-24T13:50Z): MINTED 1 GENUINE-DRIFT
+    deep-review (topics/indexical-identity-quantum-measurement.md), floor restored
+    2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint
+    / 3 POST-mint (both verified; PRE-mint select_queue_task returns the entropic-brain
+    refine P2 [queue FUNCTIONAL, not deadlock], POST-mint returns the new task parsing
+    as TaskType.DEEP_REVIEW priority 2 at TOP of Active Tasks). GENUINE own-body drift,
+    NOT a cosmetic cross-touch and NOT a P3->P2 promotion: indexical-identity last_deep_review
+    2026-05-26 (29d) but commit bf1c45336 (2026-06-24T09:50, an integrate-orphan task
+    titled "Integrate many-minds-interpretation into site navigation") added a SUBSTANTIVE
+    new argumentative paragraph + 2 cross-links (git +5/-1 own-body) asserting "MMI
+    multiplies the indexical problem rather than solving it." An integrate-orphan task
+    adds links but does NOT web-verify the new claim or bump last_deep_review, so this
+    new MMI argument is UNVERIFIED by deep-review on a Tenet 4 (No Many Worlds) load-bearing
+    article. Distinct from the 0-content-word reciprocal-link cross-touches runs 588-590
+    correctly skipped. MIN_QUEUE floor 3, unmet by 1 pre-mint; prior run no.590 (13:15Z)
+    minted an apex/steelmanning-as-method deep-review which the cycle slot PICKED +
+    executed (completion 13:24Z, now below Completed), dropping the live floor 3->2
+    (deep_review_over_reviews_converged same-day collision). EIGHT-SOURCE AUDIT re-run
+    from LIVE DISK 13:50Z, all exhausted of cleaner mints: (1 chain) ZERO research-topic/expand-topic/cross-review
+    completions in recent_tasks. (2 unconsumed research) ZERO -- 3 newest notes find-confirmed
+    consumed (simulation-theory-of-memory, phenomenal-concept-strategy-update, many-minds-interpretation);
+    older 7 confirmed by runs 588-590. (3 gap/caps) topics 280/320, concepts 268/320,
+    voids 101/100, positions 8/80; headroom but generation harvester-governed + gap-analysis
+    Vetoed-bank-dedup-blocked. (4 genuine-drift) 145 candidates; 999d-tier are index
+    files (positions/*, topics.md, concepts.md, apex.md, apex-articles.md); indexical-identity
+    is the clean own-body exception, the others (ineffable-encounter-void 24d, creative-aesthetic-void
+    23d, voids-between-minds 23d, agency-void 23d, argument-from-reason 23d) are post-review
+    condense/cosmetic/sibling-expand touches (argument-from-reason''s substantive 06-02
+    refines were the OUTPUT of its 06-01 deep-review). (5 length) indexical-identity
+    2847w status=ok (95%) length-safe; every hard/critical offender human-deferred /
+    #veto / index-hub / accept-as-survey / research-note (replenish-overmints-condense-vs-accept-as-survey).
+    (6 orphan) orphaned_files=0. (7 positions) 8 entries (<10 audit threshold), positions-evolve
+    ran 06-22. (8 applied-apex) 3 extant, no high-confidence cluster gap. Deep-review
+    scope: web-verify the new MMI characterisation vs Albert-Loewer 1988 / Lockwood
+    (ai_citation_metadata_unreliable), re-grep the [[many-minds-interpretation]] sibling
+    for framing match (apex-stale-internal-quote-channel), confirm No-MWI framed as
+    framework-boundary residue NOT empirically-elevated, no banned "This is not X. It
+    is Y." cliche, length-neutral (95% of soft, do NOT pad). Task inserted at TOP of
+    Active Tasks to defeat LIFO (queue-lifo-starvation); pre-existing tasks not starved.
+    Expect replenish-at-floor alternation to continue.'
+  legacy_run_590_note: 'run no.590 (2026-06-24T13:15Z): MINTED 1 GENUINE-DRIFT
     deep-review (apex/steelmanning-as-method.md), floor restored 2->3. Authoritative
     tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint / 3 POST-mint (both
     verified; select_queue_task PRE-mint returns the entropic-brain refine P2 [queue
