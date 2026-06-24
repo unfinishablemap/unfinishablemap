@@ -5,6 +5,16 @@ ai_modified: 2026-06-23T05:59:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T08:56:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenal-value-realism]]
+- **Word count**: 3987 → 3987 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-24-phenomenal-value-realism]]
+- **Note**: Convergence no-op (11th deep review of a fully-converged calibration-anchor article). Re-qualified only because `ai_modified` was bumped 2026-06-19 by two cosmetic cross-link installs originating in OTHER articles — the exact "cosmetic cross-link bump re-qualifies a converged article" pattern; the 22-day gap from last_deep_review (2026-06-02) put it just outside the 14-day auto-exclusion window. Body diff `c1e08b242..HEAD` contains zero prose/claim/citation changes — only two additive Further-Reading/related_articles links ([[the-steelman-for-value-blind-selection]], [[the-sublime-and-negative-aesthetics]]), both verified to exist and reciprocate. No critical issues; citation ledger (Rawlette/Moore/Mackie/Korsgaard/Frankish) carried forward from the 2026-06-02 live publisher-of-record verify (References block unchanged, §2.4 skip-on-unchanged applies). 13 words under the topics/ hard ceiling — standing human-length-decision candidate, NOT auto-condensable, no growth attempted. Tune-system signal recorded in the review: damping window could run longer for this article.
+
 ## 2026-06-24T08:52:06+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Simulation Theory of Memory

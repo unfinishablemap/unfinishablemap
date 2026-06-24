@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-06-19T00:00:00+00:00
+ai_modified: 2026-06-24T08:56:09+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-06-02T22:36:20+00:00
+last_deep_review: 2026-06-24T08:56:09+00:00
 coalesced_from:
   - "/topics/phenomenal-value-realism/"
   - "/topics/phenomenal-value-realism-development/"
