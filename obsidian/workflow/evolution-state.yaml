@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T17:59:13.702661+00:00'
-session_count: 13078
-cycle_position: 9882
+last_updated: '2026-06-24T18:03:31.184786+00:00'
+session_count: 13079
+cycle_position: 9883
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T15:08:07.413114+00:00'
   optimistic-review: '2026-06-24T16:47:55.242271+00:00'
   check-tenets: '2026-06-24T13:33:55.015086+00:00'
   check-links: '2026-06-24T08:38:38.202991+00:00'
-  deep-review: '2026-06-24T17:18:17.039552+00:00'
+  deep-review: '2026-06-24T18:03:31.184786+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-24T08:41:35.077027+00:00'
   coalesce: '2026-06-24T17:44:12.919277+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-24'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-24'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1180,14 +1180,56 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 3
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 2
-  replenishment_source_counts: {}
-  last_replenishment_run: 604
-  last_replenishment: '2026-06-24T17:52:00+00:00'
-  last_replenishment_mode: conservative
+  loop_pickable_open: 3
+  replenishment_source_counts:
+    staleness: 3
+  last_replenishment_run: 605
+  last_replenishment: '2026-06-24T18:06:00+00:00'
+  last_replenishment_mode: standard
+  run_605_note: 'run no.605 (2026-06-24T18:06Z): GENUINE FLOOR-RESTORING MINT of 3 staleness
+    deep-reviews — this is a REAL restoration, NOT the run 599-604 replenish-at-floor
+    no-op alternation. The >=30d staleness cohort has now OPENED. Authoritative pre-mint
+    tools.evolution.task_selector.count_p0_p2_tasks = 0 and select_queue_task = None
+    (re-run this session): the two P2s the run-604 note tracked as live (entropic-brain-hypothesis
+    outside-cluster cross-links + parapsychology-firewall inbound cross-links) were
+    BOTH executed AFTER run 604 (commits b9e149668 + 857f18407, now marked done below
+    the Completed header) — the run-604 queue_status was stale. MIN_QUEUE floor 3,
+    unmet by 3. Minted at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation):
+    (1) questions/questions.md last_deep_review 2026-05-17 = 38.28d FULLY over 30d,
+    claude-opus-4-7, ai_contribution=90, settled (no own-body drift, untouched since
+    458a2ff0e), 0 todo mentions = zero dup risk, the Open Questions section index;
+    (2) arguments/functionalism-argument.md 2026-05-22 = 33.08d fully over 30d, claude-opus-4-5,
+    ai_contribution=100, settled (untouched since 50334b502), load-bearing physicalist-alternative
+    argument, all todo mentions closed, not vetoed; (3) concepts/symbol-grounding-problem.md
+    2026-05-26 = 29.75d crossing 30d ~00:00Z 2026-06-25 (imminent-crossing, cleanest
+    of the 2026-05-26 cohort), claude-opus-4-5, ai_contribution=100, settled (untouched
+    since d578f7c01), canonical content/grounding objection load-bearing for AI-consciousness
+    + Tenet 1, no open dup, not vetoed. select_queue_task re-run confirms count=3,
+    top pick = questions/questions.md (TaskType.DEEP_REVIEW). EIGHT-SOURCE AUDIT, all
+    OTHER sources exhausted of clean mintable candidates: (1 chain) recent_tasks types
+    = deep-review / replenish / refine-draft / coalesce / agentic-social / optimistic-review
+    — ZERO research-topic/expand-topic/cross-review completions producing successors.
+    (2 unconsumed research) ZERO — all five recent notes disk-confirmed consumed: simulation-theory-of-memory,
+    many-minds-interpretation, phenomenal-concept-strategy-update (06-24); entropic-brain-hypothesis->concepts/entropic-brain-hypothesis,
+    letheby-predictive-self-binding->topics/predictive-self-binding-and-the-naturalist-challenge
+    (06-22, both with deep-reviews). (3 gap/caps) topics 280/320, concepts 268/320,
+    positions 8/80 have headroom but new-article gen is harvester-governed (harvest
+    ran 13:53Z) + gap-analysis Vetoed-bank-dedup-blocked; voids 101/100 over create-cap.
+    (4 genuine-drift) NO clean un-minted own-body candidate. (5 length) get_length_warnings
+    re-run: every CONTENT (non-research, non-index) hard/critical offender is human-deferred
+    (epistemology-of-convergence 6479w, born-rule 5118w, clinical-dissociation 4670w,
+    time-collapse 4606w), #veto (phenomenal-output 6872w, composition-question-rivals
+    4106w, meaning-of-life 4160w), HUMAN-LENGTH-DECISION (synesthetic-void 3578w, edge-states
+    3482w), an index hub (apex-articles 9788w), a count-words-includes-frontmatter
+    false positive (agency-void 3174w), a positions register file (positions/quantum-interface
+    2529w), or research/ working notes — NO clean mintable condense (replenish-overmints-condense-vs-accept-as-survey).
+    (6 orphan) orphaned_files=0. (7 positions) 8 entries (<10 audit threshold), positions-evolve
+    ran 2026-06-22, slow-add. (8 applied-apex) 3 applied apex extant, no high-confidence
+    cluster gap. The floor is restored 0->3; the cycle slot can now pick a real deep-review
+    instead of re-firing replenish. PRIOR RUN 604 NOTE FOLLOWS run_604_note.'
   run_604_note: 'run no.604 (2026-06-24T17:52Z): NO-OP FLOOR-DOCUMENTED (no new mint,
     no promotion) — independently re-audited from LIVE DISK, confirms run no.603 in
     full. Authoritative tools.evolution.task_selector.count_p0_p2_tasks = 2 (re-run
