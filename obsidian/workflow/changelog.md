@@ -5,6 +5,13 @@ ai_modified: 2026-06-23T05:59:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T08:26:05+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Phenomenal Concept Strategy (2024-2026 currency update)
+- **Output**: [[research/phenomenal-concept-strategy-2024-2026-update-2026-06-24]]
+- **Sources consulted**: 14
+- **Note**: PCS is already saturated in the corpus (2 articles ~2.6k + ~2.5k words; 2 prior research notes Jan + Mar 2026). New note is explicitly a currency update, NOT a re-survey. Adds: Carruthers-Veillet first/third-person equivocation reply to the master argument (absent from both articles — top refine candidate); Ball's externalist "no phenomenal concepts" (double-edged, threatens the knowledge-argument route too); Zhou 2025 "indicating without revealing" a-posteriori retreat; Sasaki 2025 + Morris 2025; illusionism-PCS coupling (Kammerer/Frankish 2024). Calibration flag: both existing article descriptions assert "shows why it fails" as settled — the master-argument debate is OPEN (Carruthers-Veillet live counter); recommend softening. Recommendation: NO new article (refine the two existing). 2025 paper metadata is search-index-level only and tagged [verify].
+
 ## 2026-06-24T07:59:23+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Many-Minds Interpretation of Quantum Mechanics
