@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-06-17T15:30:00+00:00
+ai_modified: 2026-06-24T14:02:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-24T14:02:57+00:00
 ---
 
 Every interpretation of quantum mechanics faces the same unresolved question: why does *this* particular consciousness experience *this* particular measurement outcome? The [[measurement-problem]] asks why we observe definite outcomes rather than superpositions. But even granting that definite outcomes occur, a deeper problem remains—what determines which outcome *I* experience, and why am *I* experiencing any outcome at all? This is the indexical gap, and it connects quantum mechanics directly to the [[hard-problem-of-consciousness]].
@@ -194,6 +194,6 @@ This topic intersects all five tenets:
 
 4. "Relational Quantum Mechanics." Stanford Encyclopedia of Philosophy.
 
-5. Albert, D. (2015). "Probability in the Everett Picture." In *The Wave Function: Essays on the Metaphysics of Quantum Mechanics*.
+5. Albert, D. (2010). "Probability in the Everett Picture." In Saunders, S., Barrett, J., Kent, A. & Wallace, D. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press, pp. 355–368.
 
-6. Friederich, S. & Dawid, R. (2022). "Against probability in many-worlds quantum mechanics." Erkenntnis.
+6. Friederich, S. & Dawid, R. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721.

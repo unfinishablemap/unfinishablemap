@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T13:39:56+00:00
+ai_modified: 2026-06-24T14:02:57+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T14:02:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/indexical-identity-quantum-measurement]]
+- **Word count**: 2847 → 2847 (citation-metadata corrections only; length-neutral)
+- **Critical issues addressed**: 2 (both real-wrong-metadata citation defects caught by §2.4 publisher-of-record web-verify, re-armed because the body was modified since the 2026-05-26 review)
+  - Albert "Probability in the Everett Picture": was "2015 / *The Wave Function*" → corrected to "2010 / *Many Worlds? Everett, Quantum Theory, and Reality*, Saunders et al. eds., OUP, pp. 355–368" (verified PhilPapers ALBPIT, OUP DOI 10.1093/acprof:oso/9780199560561.003.0013). Five sibling articles already carry the correct 2010 form — this was the outlier.
+  - Friederich & Dawid (2022): was title "Against probability in many-worlds quantum mechanics" / *Erkenntnis* → corrected to "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll" / *BJPS* 73(3), 711–721 (verified PhilPapers DAWESA-3, OUP DOI 10.1093/bjps/axaa002). Authors/year/in-text argument all faithful; only title+venue were wrong. Three sibling articles already carry the correct BJPS form.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at stable prose equilibrium; no oscillation). New Many-Minds paragraph (added 2026-06-17) verified accurate against [[topics/many-minds-interpretation]]; egocentric-presentism link verified.
+- **Engagement classification (editor-internal)**: MWI / Friederich-Dawid / Albert engagements — Mixed; in-framework circularity critique imported, framework-boundary haecceity disagreement honestly marked. No boundary-substitution, no editor-vocabulary leakage.
+- **Out-of-scope corpus findings (queued for future)**: `quantum-probability-consciousness.md` cites the Albert chapter to *After Physics* (same defect class); `probability-problem-in-many-worlds.md` + `qm-interpretations-beyond-many-worlds.md` give the Friederich-Dawid end page as 736 (should be 721).
+- **Output**: [[reviews/deep-review-2026-06-24-indexical-identity-quantum-measurement]]
 
 ## 2026-06-24T13:39:56+00:00 - refine-draft
 - **Status**: Success
