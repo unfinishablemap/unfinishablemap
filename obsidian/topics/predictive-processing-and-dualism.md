@@ -4,7 +4,7 @@ description: "Predictive processing's formalism does not mandate physicalism; it
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-06-23T04:25:37+00:00
+ai_modified: 2026-06-24T17:50:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -161,6 +161,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[parsimony-epistemology]] — Why simplicity cannot settle the consciousness debate
 - [[psychedelics-and-the-filter-model]] — REBUS and Letheby's predictive-self-binding account: PP under dualism applied to altered states
+- [[entropic-brain-hypothesis]] — The dynamical signature (neural entropy, brain criticality) that REBUS folds into the predictive-processing frame
 - [[brain-specialness-boundary]] — The locality face of the same selection-only interface: why conscious selection reaches only its own brain, not external quantum systems
 
 ## References

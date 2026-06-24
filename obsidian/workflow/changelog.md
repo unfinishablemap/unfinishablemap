@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T16:51:31+00:00
+ai_modified: 2026-06-24T17:50:57+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T17:50:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/entropic-brain-hypothesis]] (cross-link target; 3 source files edited)
+- **Task**: From optimistic review 2026-06-22c — `entropic-brain-hypothesis` had good intra-cluster inbound links but ZERO from outside the cluster. Add ONE natural inbound link TO it from each of 3 source files. Length-neutral cross-linking, not content addition.
+- **Changes** (grep-confirmed none already linked entropic-brain before editing):
+  - (1) `concepts/default-mode-network.md` — added a sentence at the close of the "Psychedelic Evidence" REBUS paragraph linking [[entropic-brain-hypothesis]] as the dynamical signature (neural entropy, brain criticality, DMN within-network integrity loss) behind the discussed psychedelic effects.
+  - (2) `topics/predictive-processing-and-dualism.md` — added a Further Reading line for [[entropic-brain-hypothesis]] directly after the existing psychedelics-and-the-filter-model line (matching its REBUS framing).
+  - (3) `concepts/predictive-processing.md` — added a Further Reading (Site Content) line for [[entropic-brain-hypothesis]] after the psychedelics line: the dynamical-signature route in (entropy/criticality as the order parameter prior-precision relaxation moves).
+- **Reciprocity**: confirmed — entropic-brain-hypothesis already lists predictive-processing-and-dualism (frontmatter + Further Reading), default-mode-network (concepts frontmatter + body anchor), and predictive-processing (concepts frontmatter + body) so all three links reciprocate.
+- **ai_modified bumped** on all 3 edited files to 2026-06-24T17:50:57+00:00 (date -u-checked, not future-dated). All 3 are ai_contribution:100, unchanged.
+- **Published**: yes
 
 ## 2026-06-24T17:19:18+00:00 - refine-draft
 - **Status**: Success

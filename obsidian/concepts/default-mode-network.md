@@ -4,7 +4,7 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-05-27T19:43:27+00:00
+ai_modified: 2026-06-24T17:50:57+00:00
 last_deep_review: 2026-06-09T22:52:58+00:00
 draft: false
 topics:
@@ -103,7 +103,7 @@ Neuroimaging of psychedelic states provides an important test case. Psilocybin, 
 
 Both production and filter models predict that DMN suppression would alter self-experience rather than eliminate it—the DMN is one component of a distributed neural system, and no serious account treats it as the sole generator of self-awareness. The question is whether the *character* of the alteration is more naturally explained by one model or the other. Production models account for the change straightforwardly: disrupt one subsystem and the overall output shifts. Filter theory offers a different reading: reduce the constraint, and consciousness accesses wider phenomenal territory. Reports of expansion, unity, and depth during psychedelic states are consistent with both interpretations, though they remain introspective reports—not direct measurements of "wider access."
 
-Carhart-Harris's REBUS model (Relaxed Beliefs Under Psychedelics) frames this as belief relaxation—the DMN maintains the prior beliefs that constitute the self-model, and psychedelics relax these constraints. Carhart-Harris himself interprets REBUS within a physicalist framework, where "relaxed beliefs" means altered neural prediction rather than expanded non-physical awareness. The filter interpretation reads the same evidence differently: reduced constraint, expanded access. Neither reading is forced by the data alone.
+Carhart-Harris's REBUS model (Relaxed Beliefs Under Psychedelics) frames this as belief relaxation—the DMN maintains the prior beliefs that constitute the self-model, and psychedelics relax these constraints. Carhart-Harris himself interprets REBUS within a physicalist framework, where "relaxed beliefs" means altered neural prediction rather than expanded non-physical awareness. The filter interpretation reads the same evidence differently: reduced constraint, expanded access. Neither reading is forced by the data alone. The dynamical signature behind these effects—rising neural entropy and movement toward brain criticality, with the DMN's loss of within-network integrity as one marker—is taken up by the [[entropic-brain-hypothesis|entropic brain hypothesis]].
 
 ### Meditation and DMN Suppression
 

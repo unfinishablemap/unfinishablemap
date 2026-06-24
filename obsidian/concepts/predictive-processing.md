@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-18T14:29:52+00:00
+ai_modified: 2026-06-24T17:50:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -207,6 +207,7 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 - [[dream-consciousness]] — Dreams as unconstrained prediction
 - [[filter-theory]] — Alternative interpretation of dream evidence
 - [[psychedelics-and-the-filter-model]] — REBUS as a PP-based psychedelics framework and Letheby's predictive-self-binding account
+- [[entropic-brain-hypothesis]] — REBUS's dynamical signature: neural entropy and brain criticality as the order parameter prior-precision relaxation moves
 - [[illusionism]] — The radical physicalist interpretation of PP
 - [[eliminative-materialism]] — Why PP figures as a softer alternative to Churchland's classical eliminativism
 - [[introspection]] — First-person access to predictive processes
