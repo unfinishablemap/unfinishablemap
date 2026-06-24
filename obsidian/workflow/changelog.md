@@ -5,6 +5,12 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T21:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Instrumental Convergence
+- **Output**: [[research/instrumental-convergence-2026-06-24]]
+- **Sources consulted**: 19 (all publisher-of-record web-verified; Bostrom 2012/2014, Omohundro 2008, Hubinger 2019, CIRL 2016, Off-Switch Game IJCAI-17, Russell 2019, Turner 2021, Müller-Cannon Ratio 2022, SEP 2026, RDM/Knightian, 2025 LLM empirical evals)
+
 ## 2026-06-24T20:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/where-the-substance-commitment-enters]]
