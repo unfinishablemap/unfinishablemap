@@ -4,7 +4,7 @@ description: "Vivid conscious experiences during cardiac arrest challenge brain-
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-06-24T09:34:41+00:00
+ai_modified: 2026-06-24T13:07:16+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-06-24T13:07:16+00:00
 ---
 
 Near-death experiences (NDEs) are vivid cognitive events whose prevalence depends on definition and study design. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reporting NDEs. AWARE II (Parnia et al. 2023) found that among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported some form of conscious awareness during arrest—though this figure reflects a self-selected sample and cannot be generalized to all survivors. A 2022 multidisciplinary consensus established standardized terminology ("Recalled Experience of Death"), followed by multi-site prospective studies and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people recall, on returning, heightened and coherent experiences they place during the arrest period—when brain function should be deeply compromised (whether the experiences occurred during arrest or were constructed during recovery is itself contested; see the gamma-surge timing discussion below). This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports The Unfinishable Map's [[tenets#^dualism|Dualism]] and [[tenets#^occams-limits|Occam's Razor Has Limits]] tenets.

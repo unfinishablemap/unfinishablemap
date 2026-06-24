@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T12:28:42+00:00
+ai_modified: 2026-06-24T13:07:16+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T13:07:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/near-death-experiences]]
+- **Word count**: 2951 → 2951 (frontmatter-only; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (all resolved hours earlier by today's refine)
+- **Enhancements made**: 0
+- **Note**: Eighth pass; deliberate near-no-op confirming convergence. Re-qualified because ai_modified (09:34) post-dated last_deep_review (2026-06-06). The intervening change is a single refine commit (4ede41823, 09:36 UTC today, "Address pessimistic-review findings") that applied EVERY actionable item from the same-day dedicated pessimistic review: Issue 1 (lead/RED reasserted "during arrest" → hedged to "place during the arrest period," timing flagged contested); Issue 2 (introspective-reliability overreach → rewritten to "less consistent with pure on-the-spot fabrication," dropped uncited "resistance to suggestion"); Issue 3 ("representative sample" → "larger prospective survivor cohort, itself heavily selected"); + new deflationary phenomenal-vividness-vs-cognitive-performance paragraph (pre-empts Dennett heterophenomenology); + 1/28 auditory hit adjudicated (not a confirmed veridical hit). Applied §2 diagnostic to all changed passages — every change moves TOWARD tighter calibration; zero critical. §2.4 web-verify SKIPPED per skip rule (References byte-identical to 2026-05-26 full audit, no new cites; find_superlative_claims empty). Xu/Borjigin author distinction re-confirmed correct (Gang Xu first, Borjigin senior, PNAS 120(19) e2216268120). Residual persona critiques are bedrock framework-boundary (MWI/indexical = Tenet-4 Mode-Three boundary-marking not boundary-substitution; Buddhist no-self; materialist) — not re-flagged. All 5 tenet anchors resolve. 118% soft / under 3500 hard → length-neutral, no condensation. Calibration exemplar; preserved.
+- **Output**: [[reviews/deep-review-2026-06-24-near-death-experiences]]
 
 ## 2026-06-24T12:45:58+00:00 - deep-review
 - **Status**: Success
