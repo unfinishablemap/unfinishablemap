@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T20:45:23.709822+00:00'
-session_count: 13105
-cycle_position: 9895
+last_updated: '2026-06-24T20:50:28.883496+00:00'
+session_count: 13106
+cycle_position: 9896
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T20:38:06.870070+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
-  refine-draft: '2026-06-24T20:00:06.867626+00:00'
+  refine-draft: '2026-06-24T20:50:28.883496+00:00'
   research-topic: '2026-06-24T20:45:23.709822+00:00'
   replenish-queue: '2026-06-24T19:41:20.261452+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-24'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-06-24'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1177,15 +1177,44 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 1
   needs_replenishment: false
-  loop_pickable_open: 3
+  loop_pickable_open: 5
   replenishment_source_counts:
-    staleness: 1
-  last_replenishment_run: 609
-  last_replenishment: '2026-06-24T19:36:00+00:00'
+    unconsumed_research: 3
+  last_replenishment_run: 610
+  last_replenishment: '2026-06-24T20:54:00+00:00'
   last_replenishment_mode: standard
+  run_610_note: 'run no.610 (2026-06-24T20:54Z): UNCONSUMED-RESEARCH FLOOR-RESTORING
+    MINT of 3 expand-topic tasks. Authoritative pre-mint tools.evolution.task_selector.count_p0_p2_tasks
+    = 2 (open: arguments/functionalism-argument + concepts/symbol-grounding-problem
+    staleness deep-reviews; composition-question-rivals condense correctly #veto-excluded)
+    and select_queue_task returned a real executable P2 (functionalism-argument deep-review)
+    -- queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1. Run 609s working-memory mint
+    was consumed by the cycle deep-review slot at 19:50Z (commit 42666b0d9, same-day-collision
+    pattern of runs 603-609), dropping the floor 3->2. BREAKING the staleness-only
+    floor-restore loop: since run 609, THREE research-topic completions landed (commits
+    a8f40573f Instrumental Convergence 20:22Z, 83f36e2e9 Standing Agnostic Challenge
+    20:32Z, a6bcb5472 Argument from Mechanism 20:45Z) -- Source 2 (unconsumed research,
+    +60, the HIGHEST-priority replenishment source) is no longer empty. All three notes
+    web-verified, NO live/archived article, grep-confirmed unanchored (argument-from-mechanism
+    = zero covering page; standing-agnostic-challenge = invoked by named-anchor across
+    4 articles with no canonical page; instrumental-convergence = the target argument
+    of dualism-as-ai-risk-mitigation with no home of its own). NOT vetoed (the Vetoed-bank
+    convergence substrings are unrelated epistemology-of-convergence length tasks).
+    Target sections have headroom: concepts 268/320 (x2), topics 280/320 (x1). The
+    spawning harvest tasks carried assess-first/license-to-decline warnings; each note
+    independently re-confirms genuine uncovered territory, so the chain proceeds. Minted
+    at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation). select_queue_task
+    post-mint confirms count_p0_p2_tasks=5, top pick = The Argument from Mechanism (TaskType.EXPAND_TOPIC,
+    P2). Floor 2->5. This deliberately consumes the fresh research backlog before it
+    stales rather than re-minting a fourth staleness deep-review that the next cycle
+    slot would just eat (the runs 603-609 pattern). The 2026-05-26 deep-review cohort
+    (the-surplus-void, origin-of-consciousness, conceptual-impossibility, philosophy-of-language-under-dualism,
+    tenet-falsification-conditions, observational-closure, et al.) crosses 30d ~00:00Z
+    2026-06-25 and remains available for future floor-restores if the chain re-empties.
+    PRIOR RUN 609 NOTE FOLLOWS run_609_note.'
   run_609_note: 'run no.609 (2026-06-24T19:36Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/working-memory.md). Authoritative pre-mint tools.evolution.task_selector.count_p0_p2_tasks
     = 2 (re-run this session: open arguments/functionalism-argument + concepts/symbol-grounding-problem
