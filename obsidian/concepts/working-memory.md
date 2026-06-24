@@ -1,10 +1,10 @@
 ---
 title: "Working Memory and Consciousness"
-description: "Working memory manipulation requires consciousness while maintenance does not. This asymmetry reveals how consciousness participates in cognition, with expanded capacity enabling recursive thought and cumulative culture."
+description: "Working memory manipulation is far more tightly bound to consciousness than maintenance. This asymmetry reveals how consciousness participates in cognition, with expanded capacity enabling recursive thought and cumulative culture."
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-06-24T19:52:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ coalesced_from:
   - "/topics/working-memory-as-consciousness-amplifier/"
 ---
 
-Working memory (WM) is the cognitive system that holds and manipulates information over brief periods—typically seconds. Recent research reveals a crucial asymmetry: maintenance can occur unconsciously, but manipulation requires conscious access. This distinction matters because if manipulation requires consciousness and WM capacity has expanded dramatically in humans, then consciousness participates constitutively in the cognitive operations that distinguish human minds.
+Working memory (WM) is the cognitive system that holds and manipulates information over brief periods—typically seconds. Research reveals a crucial asymmetry: manipulation is far more tightly bound to conscious access than maintenance. (Whether maintenance can be *fully* unconscious is contested; recent bias-corrected meta-analyses and a 19-laboratory replication, discussed below, leave it open.) This distinction matters because if manipulation requires consciousness and WM capacity has expanded dramatically in humans, then consciousness participates constitutively in the cognitive operations that distinguish human minds.
 
 The Unfinishable Map proposes that [[attention-as-interface|attention functions as the interface]] between consciousness and neural systems. Working memory may be the neural workspace where this interface operates—the "holding space" where consciousness engages with cognitive content.
 
@@ -56,11 +56,11 @@ The episodic buffer is significant for consciousness research—and connects to 
 
 Research from 2011-2025 reveals a fundamental asymmetry in WM processing:
 
-**Maintenance can be unconscious.** Studies by Soto, Mäntylä, and Silvanto (2011) showed that observers could encode and maintain subliminal orientation cues—holding them "online" even with visible distractors—and perform above chance in subsequent tasks. Information was in WM but never reached awareness.
+**Maintenance can be unconscious—though how cleanly is contested.** Studies by Soto, Mäntylä, and Silvanto (2011) showed that observers could encode and maintain subliminal orientation cues—holding them "online" even with visible distractors—and perform above chance in subsequent tasks, suggesting information was in WM but never reached awareness. The strength of this evidence has since been questioned. Gambarota et al. (2022) meta-analysed the unconscious-WM literature and found a medium effect, but Franco-Martínez et al. (2026), re-analysing that same dataset for publication bias, recovered a bias-corrected estimate (≈0.16) "compatible with no true effect," and their own 19-laboratory Registered Report replication found unconscious WM "positively associated with perceptual sensitivity"—that is, entangled with residual conscious processing rather than a clean unconscious channel. The maintenance/manipulation asymmetry is best read as a robust *gradient* (manipulation is far more tightly bound to awareness than maintenance) rather than proof of fully non-conscious maintenance.
 
 This is supported by "activity-silent" WM research. Traditional theory assumed WM maintenance requires sustained neural firing. New evidence shows information can be maintained through short-term synaptic plasticity—residual calcium at synaptic terminals, rapid changes in synaptic weights—without sustained activity. These traces persist for roughly one second, spanning typical WM delays.
 
-**Manipulation requires consciousness.** The key finding (Trübutschek et al. 2019): "Non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary." This aligns with the broader evidence in [[conscious-vs-unconscious-processing]] showing that consciousness enables specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
+**Manipulation requires consciousness.** The activity-silent framework (Stokes 2015) is actively developed and the manipulation-needs-awareness side of the asymmetry is well supported; the contested part is specifically the *non-conscious* extension. Trübutschek et al. (2019) argued that "non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary." The reactivation-for-use claim is the durable part; whether genuinely *non-conscious* maintenance occurs at all is what the bias-corrected meta-analytic and multisite-replication evidence above leaves open. With that caveat, the asymmetry aligns with the broader evidence in [[conscious-vs-unconscious-processing]] showing that consciousness enables specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
 
 This maps onto the Map's framework:
 - **Storage** might be purely neural—synaptic traces maintaining patterns without consciousness
@@ -70,7 +70,7 @@ This maps onto the Map's framework:
 
 ## The Capacity Gap
 
-Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion over great ape capacity. The [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] hypothesis treats this capacity gap as evidence for a phase transition in cognitive evolution.
+Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion over great ape capacity—though the cross-species ratio should be held loosely, since Silberberg & Kearns (2009) showed the chimp comparisons were practice-confounded (the chimpanzees had extensive task experience while the human controls had none, and practised humans close much of the gap). The cleaner version of the claim is that humans *can* deploy substantially more manipulable capacity, not that a fixed numerical multiple separates the species. The [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] hypothesis treats this capacity gap as evidence for a phase transition in cognitive evolution.
 
 With 2 items, you can compare them. With 4-7 items, you can hold multiple comparisons simultaneously, track intermediate results, and manipulate nested structures. The difference is combinatorial: even four items yield six pairwise comparisons plus the ability to hold some comparisons in mind while making further comparisons.
 
@@ -118,7 +118,7 @@ The 100ms–5s "experienced moment" in temporal perception corresponds precisely
 
 ## Working Memory and Global Workspace Theory
 
-[[global-workspace-theory|Global Workspace Theory]] (GWT) treats the global workspace as a form of working memory, with information "broadcast" to specialised processors. Results from the COGITATE adversarial collaboration suggest posterior regions hold conscious content while prefrontal regions execute control and broadcasting (WM manipulation). This aligns with the Map's framework: attention-as-interface operates where these systems meet.
+[[global-workspace-theory|Global Workspace Theory]] (GWT) treats the global workspace as a form of working memory, with information "broadcast" to specialised processors. The COGITATE adversarial collaboration tested this picture directly and largely declined to confirm it: the Cogitate Consortium (2025) decoded conscious content maximally from *posterior* cortex and reported that "neither the involvement of PFC nor global broadcasting are necessary," challenging the prefrontal-broadcasting prediction GWT depends on. The result is more naturally read as locating conscious content posteriorly while leaving prefrontal regions a role in control and report rather than in constituting consciousness. That division of labour still fits the Map's framework—attention-as-interface operates where holding and manipulation systems meet—but the framework should claim the posterior-content finding, not a GWT vindication the data did not deliver.
 
 ## Connection to Binding
 
@@ -128,7 +128,7 @@ WM binding in the episodic buffer resembles perceptual binding: both integrate m
 
 The [[attention-as-interface]] hypothesis proposes that consciousness influences neural systems through attention. Working memory may be where this interface operates most intensively. The relationship is bidirectional: attention determines what enters working memory, and held contents direct subsequent attention—creating a feedback loop between consciousness and cognition.
 
-**Bandwidth constraint**: The Map's [[psychophysical-laws|coupling law research]] estimates consciousness's causal bandwidth at ~10 bits/second, a limit explored further in [[bandwidth-of-consciousness]]. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [[attentional-economics]] framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
+**Bandwidth constraint**: Zheng & Meister (2024) argue, by aggregating information-rate estimates across many human behaviours, that overall cognitive throughput sits near ~10 bits/second despite sensory input arriving orders of magnitude faster. The Map glosses this slow inner rate as a candidate measure of consciousness's *causal* bandwidth—an interpretive move belonging to the Map's [[psychophysical-laws|coupling law research]], not to Zheng & Meister's paper—and explores it further in [[bandwidth-of-consciousness]]. On that reading the ~10 bits/s estimate matches WM capacity limitations strikingly well, suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [[attentional-economics]] framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
 
 **Effort asymmetry**: The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't. Mental effort corresponds to conscious manipulation through the interface—what the Map calls [[interface-friction]]—while passive maintenance operates without consciousness and without effort.
 
@@ -144,7 +144,7 @@ The tip-of-the-tongue phenomenon exemplifies effortful manipulation: you're acti
 
 Some clarifications:
 
-**WM is not consciousness.** WM contents correlate with consciousness, but having something in WM isn't identical to being conscious of it (as activity-silent maintenance shows). Consciousness includes qualia, temporal extension, and phenomenal unity that WM models don't explain.
+**WM is not consciousness.** WM contents correlate with consciousness, but having something in WM need not be identical to being conscious of it (as activity-silent maintenance may indicate, to the extent genuinely non-conscious maintenance survives scrutiny). Even setting that contested case aside, consciousness includes qualia, temporal extension, and phenomenal unity that WM models don't explain.
 
 **WM is not the self.** Though WM manipulation connects to agency and executive function, the self extends beyond what's currently in WM. Narrative identity, autobiographical memory, and the [[self-and-self-consciousness|minimal self]] all transcend WM's brief temporal window.
 
@@ -208,16 +208,21 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 1. Baddeley, A.D. & Hitch, G.J. (1974). Working memory. *Psychology of Learning and Motivation*, 8, 47-89.
 1. Baddeley, A.D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 1. Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
-1. Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation [On the phylogeny of human motivation]. In L.H. Eckensberger & E.D. Lantermann (Eds.), *Emotion und Reflexivität* (pp. 3-47). Urban & Schwarzenberg.
+1. Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation [On the phylogeny of human motivation]. In L.H. Eckensberger & E.-D. Lantermann (Eds.), *Emotion und Reflexivität* (pp. 3-47). Urban & Schwarzenberg.
 1. Hitch, G.J., Allen, R.J., & Baddeley, A.D. (2025). The multicomponent model of working memory fifty years on. *Quarterly Journal of Experimental Psychology*.
 1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
+1. Cogitate Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642, 133-142. https://doi.org/10.1038/s41586-025-08888-1
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
+1. Franco-Martínez, A., et al. (2026). Replicating the unconscious working memory effect: A multisite Registered Report. *Neuroscience of Consciousness*, 2026(1), niaf046. https://doi.org/10.1093/nc/niaf046
+1. Gambarota, F., Tsuchiya, N., Pastore, M., Di Polito, N., & Sessa, P. (2022). Unconscious visual working memory: A critical review and Bayesian meta-analysis. *Neuroscience & Biobehavioral Reviews*, 136, 104618. https://doi.org/10.1016/j.neubiorev.2022.104618
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
 1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
+1. Silberberg, A. & Kearns, D. (2009). Memory for the order of briefly presented numerals in humans as a function of practice. *Animal Cognition*, 12(2), 405-407.
 1. Soto, D., Mäntylä, T., & Silvanto, J. (2011). Working memory without consciousness. *Current Biology*, 21(22), R912-R913.
 1. Stokes, M.G. (2015). 'Activity-silent' working memory in prefrontal cortex: A dynamic coding framework. *Trends in Cognitive Sciences*, 19(7), 394-405.
 1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M. & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Trübutschek, D., Marti, S., Ueberschär, H., & Dehaene, S. (2019). Probing the limits of activity-silent non-conscious working memory. *Proceedings of the National Academy of Sciences*, 116(28), 14358-14367.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.
+1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://doi.org/10.1016/j.neuron.2024.11.008

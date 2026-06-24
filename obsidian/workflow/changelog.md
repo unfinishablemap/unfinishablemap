@@ -5,6 +5,24 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T19:52:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/working-memory]]
+- **Original score**: deep-review verdict CLEAN citations + 3 currency drifts (no 1-10 curate score run; acting on the 2026-06-24 deep-review follow-on)
+- **Word count**: 2896 → 3394 body (+~498; within the ~600w headroom, soft_warning, under 3500 concepts hard via analyze_length)
+- **Changes (3 currency drifts + 2 cosmetic nits)**:
+  - (1) Cross-species capacity: hedged "two-to-three-fold expansion over great ape capacity" with Silberberg & Kearns 2009 practice-confound (Ayumu had task practice, human controls none; practised humans close much of the gap). Kept the human-superiority direction; reframed the clean numerical ratio as "humans can deploy substantially more manipulable capacity."
+  - (2) Unconscious-WM hedge: added the contested-evidence picture to the "maintenance can be unconscious" paragraph, the Trübutschek 2019 paragraph, the lede, and the "WM is not consciousness" clarification. Reframed the asymmetry as a robust *gradient* (manipulation far more tightly bound to awareness than maintenance) rather than proof of fully non-conscious maintenance.
+  - (3) COGITATE reword: rewrote the GWT section so it does NOT imply COGITATE confirmed GNW's PFC-broadcasting; states Cogitate Consortium 2025 decoded conscious content maximally from posterior cortex and found "neither the involvement of PFC nor global broadcasting are necessary"; framework now claims the posterior-content finding, not a GWT vindication.
+  - (Optional) ~10 bits/s: reframed as Zheng & Meister 2024 *estimate/argument*; attributed the "consciousness bandwidth" gloss explicitly to the Map, not the paper.
+  - Cosmetic: Bischof-Köhler editor "E.D."→"E.-D." (Lantermann). Baddeley 2000 trailing "?" was ALREADY present — no change needed.
+  - Description + lede softened to track the gradient framing.
+- **Citation verification (publisher of record, TITLE+venue, 3-state)**: all 5 new cites real-correct — Silberberg & Kearns 2009 *Animal Cognition* 12(2):405-407; Gambarota et al. 2022 *Neurosci. Biobehav. Rev.* 136:104618; Franco-Martínez et al. 2026 *Neurosci. Conscious.* 2026(1):niaf046; Zheng & Meister 2024 *Neuron* 113(2):192-204; Cogitate Consortium 2025 *Nature* 642:133-142.
+- **ATTRIBUTION CORRECTION vs the task/deep-review framing**: the task attributed the "~0.16 bias-corrected, compatible with no true effect" figure to Gambarota 2022. Publisher-of-record check shows Gambarota's OWN headline was gz≈0.54 *supporting* the effect; the 0.16 RoBMA bias-corrected null is a REANALYSIS of Gambarota's dataset by **Franco-Martínez et al. 2026**, not Gambarota. Also corrected: Franco-Martínez 2026 is NOT a flat null — it finds WM "can operate on unconscious representations" but "positively associated with perceptual sensitivity" (entangled with conscious processing). Article now attributes the near-null reanalysis to Franco-Martínez and frames the RR honestly. (cf. [[ai_citation_metadata_unreliable]] — the misattribution here originated in the review narrative, caught at publisher-of-record verify.)
+- **Discipline**: honoured [[evidential-status-discipline]] (currency caveats as honest hedges, no possibility→probability slippage); no banned "This is not X. It is Y." cliché; no HTML-comment/refinement-log leakage; frontmatter validates.
+- **Timestamps**: ai_modified → 2026-06-24T19:52:40 (date -u-checked); last_deep_review left unchanged (refine, not review).
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-24T19:47:06+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/working-memory]]
