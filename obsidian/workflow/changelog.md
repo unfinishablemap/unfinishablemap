@@ -5,6 +5,20 @@ ai_modified: 2026-06-24T14:36:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T15:20:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Word count**: 3268 → 3268 (no change — converged, length-neutral)
+- **Mode**: Targeted verification of the 2026-06-24 refine (a56f12352, ~328w new) unverified since the 2026-06-02 review; convergence-damped seventh review.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (verify-not-re-edit to avoid same-session over-hedging of just-calibrated content)
+- **Calibration verdict**: the 2026-06-24 additions (convergence-symmetry note down-weighting four programmes to one observation; self-deflation disanalogy conceding abstraction-resistance is inert and relocating the parallel to the first-person datum; Searle "strains coherence" → honest acknowledgement of his reply) move toward MORE evidential restraint. No re-broken-fix of d38cbcd0d; no possibility/probability slippage.
+- **Citation ledger**: web-verified Milinkovic&Aru 2026, Thagard 2022, Rescorla 2020 (quote verbatim), Duch 2019, Duch 2005, Piccinini 2015 — all real-correct. Classics stable across prior reviews. No orphans. Currency-sweep: no superlative claims.
+- **Engagement modes (editor-internal)**: Searle — Mode Three (dismissal upgraded to honest acknowledgement of his causal-reduction reply); Everettian §98 — Mode Three (stable); physicalist deflation §84 — Mode Two→Mixed (concedes deflation on its own terms, marks residual first-person datum).
+- **Timestamps**: last_deep_review → 2026-06-24T15:20:35; ai_modified left at refine's 2026-06-24T15:08:54 (no body fix).
+- **Output**: [[reviews/deep-review-2026-06-24-biological-computationalisms-inadvertent-case-for-dualism]]
+
 ## 2026-06-24T15:08:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T15:11:20.733650+00:00'
-session_count: 13051
+last_updated: '2026-06-24T15:17:54.387448+00:00'
+session_count: 13052
 cycle_position: 9871
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-24T15:11:20.733650+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
-  replenish-queue: '2026-06-24T15:00:48.421313+00:00'
+  replenish-queue: '2026-06-24T15:17:54.387448+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-24'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-24'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1214,10 +1214,10 @@ queue_status:
     the three #veto condenses are parser-excluded; the lone open P3 Phenomenology-of-Insight
     is a raw expand-topic (create-vs-section decision NOT self-assessed; unsafe to
     auto-promote -- human-decision-task-mispicked-as-refine trap). Eight-source audit
-    re-run from live disk: (chain) ZERO research/expand/cross-review completions; (unconsumed
-    research) ZERO (3 newest notes disk-confirmed consumed); (gap/caps) topics 279/320,
-    concepts 268/320, positions 8/80 headroom but generation harvester-governed (harvest
-    ran 13:53Z, next ~19:53Z) + gap-analysis Vetoed-bank-dedup-blocked; (genuine-drift)
+    re-run from live disk: (chain) ZERO research/expand/cross-review completions;
+    (unconsumed research) ZERO (3 newest notes disk-confirmed consumed); (gap/caps)
+    topics 279/320, concepts 268/320, positions 8/80 headroom but generation harvester-governed
+    (harvest ran 13:53Z, next ~19:53Z) + gap-analysis Vetoed-bank-dedup-blocked; (genuine-drift)
     the biological-computationalisms post-refine candidate above is the clean pick;
     (staleness >=30d) stalest cohort 2026-05-26 at 29d, reopens 2026-06-25; (length)
     NO clean mintable condense (all offenders human-deferred / #veto / accept-as-survey
