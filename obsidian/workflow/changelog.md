@@ -5,6 +5,16 @@ ai_modified: 2026-06-23T05:59:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T09:08:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/chemosensory-consciousness-and-the-interface]]
+- **Word count**: 2291 → 2335 (+44)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [[reviews/deep-review-2026-06-24-chemosensory-consciousness-and-the-interface]]
+- **Note**: First true deep review (creation self-stamp, no prior review file). §2.4 publisher-of-record web-verify of all 10 cites caught a WRONG-AUTHOR critical: "Herz, R. S. 2018" Proust review is actually Hackländer, Janssen & Bermeitinger 2018 (Psychon Bull Rev 26(2):401–429) — domain-authority-name-on-wrong-paper, [[ai_citation_metadata_unreliable]] pattern; corrected in body + References. Also: replaced a vague "(2023 human odour-coding studies)" non-citation with the verified Nature Neuroscience 2023 high-precision odor-coding paper (claim verified exact); completed Skrzypulec metadata (Erkenntnis 88(8):3291–3312, 2023); scoped the 2024 odor–taste J Neurosci finding to "behaving rats". Other 7 cites verified real-correct (Malnic 1999, Zhou 2018, Castro 2013, Barwich 2020 + 2019, ACS carvone, J Neurosci 2024). All sibling-quoted text (sommelier/Barolo from perceptual-architect, modality concession from dualist-perception) re-verified verbatim. 13 wikilinks all resolve. Engagement mode: Mode Three boundary-marking throughout in natural prose, no label leakage. No possibility/probability slippage — calibration is honest ("accommodation, not proof"). 2335w = 78% of topics/ soft threshold, no length pressure.
+
 ## 2026-06-24T08:56:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-value-realism]]
