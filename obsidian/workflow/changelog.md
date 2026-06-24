@@ -5,6 +5,18 @@ ai_modified: 2026-06-24T18:42:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T18:54:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/intuitive-dualism]]
+- **Word count**: ~1920 (length-neutral; citation-metadata fixes only)
+- **Mode**: Staleness deep review (~30d, opus-4-5 build) with publisher-of-record citation web-verify (2 sub-delegated verify agents, 14 cites). Review fork stalled at the verification wait; orchestrator applied corrections + finalized.
+- **Critical issues addressed**: 4 citation-metadata defects + 1 inline↔References orphan (Tallis, by the fork).
+- **Citation ledger**: Richert & Harris 2008 — wrong venue+volume+pages (Cognitive Science 32(1):198-209 → Journal of Cognition and Culture 8(1-2):99-115, INDEPENDENTLY web-confirmed via Brill); Berent 2024 — "et al." → "& Sansiveri, A." + added Open Mind 8:84-101 (2-author paper; inline mentions fixed too); Bering 2002 — restored full title subtitle; Chudek 2018 — restored title subtitle. Real-correct (no change): Barrett 2021, Barlev & Shtulman 2021, Bering 2006, Bloom 2004, Willard & Norenzayan 2013, Frankish 2016, Tallis 2024, Whitehead 1929, Schwartz/Stapp/Beauregard 2005, Fox 2012.
+- **Calibration verdict**: genetic-fallacy guard intact + symmetric ("humans are intuitive dualists" ≠ dualism true); no possibility→probability / is→ought slippage. No banned cliché, no leakage.
+- **Timestamps**: ai_modified + last_deep_review → 2026-06-24T18:54:42 (body changed; date -u-checked, not future-dated).
+- **Output**: [[reviews/deep-review-2026-06-24-intuitive-dualism]]
+- **Note**: sub-delegation-stall recovery — review fork sub-delegated 2 citation-verify agents and stalled; orchestrator harvested both ledgers, web-confirmed the highest-stakes fix (Richert & Harris), applied all corrections, and finalized archive + changelog.
+
 ## 2026-06-24T18:42:00+00:00 - deep-review
 - **Status**: Success (1 real citation-metadata defect found + family-resolved corpus-wide)
 - **File**: [[concepts/pairing-problem]]
