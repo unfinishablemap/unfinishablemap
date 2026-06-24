@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-23T00:23:55+00:00
+ai_modified: 2026-06-24T11:15:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-02T00:00:00+00:00
+last_deep_review: 2026-06-24T11:15:30+00:00
 ---
 
 Embodied cognition and the extended mind thesis argue that cognition depends on the body and extends into the environment. The "4E" approach—embodied, embedded, enacted, extended—challenges the view that minds are confined to brains running computational processes. Cognitive processes are shaped by bodily structure, embedded in environmental context, enacted through dynamic engagement, and may literally extend into tools and artifacts.

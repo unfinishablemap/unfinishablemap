@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T11:11:21+00:00
+ai_modified: 2026-06-24T11:15:30+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T11:15:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Word count**: 3498 → 3498 (±0)
+- **Mode**: 11th deep review; net-neutral audit pass. Article sits **2 words under the 3500 concepts hard ceiling** — no headroom for additions. Verified the 2026-06-23 refine-draft (commit 6482ecfab) fully remediated the 2026-06-22 standalone pessimistic review's 7 argumentative-calibration medium issues; ran mandatory §2.4 publisher-of-record citation web-verify.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (the pessimistic-review medium items were already remediated by the intervening refine-draft; this pass confirmed each landed cleanly with no regression)
+- **Citations**: Beilock & Carr 2001 (J Exp Psychol Gen 130(4):701-725) and Baumeister 1984 (JPSP 46(3):610-620) re-verified at publisher of record this pass — both real-correct; other 4 load-bearing cites (Masters 1992, Fuchs 2005, Clark & Chalmers 1998, plus canonical works) carried forward from 2026-06-22 ledger. No defects, no orphans, no superseded superlatives (currency sweep clean — robotics claim already conditional "as of 2026").
+- **Calibration**: no possibility/probability slippage — every "logical space"/compatibility instance now concedes physicalist symmetry or points to the occupied argument in [[mind-brain-separation]]. Diagnostic test: tenet-accepting reviewer would flag nothing as overstated.
+- **Reasoning modes**: choking/physicalist = Mode Three (boundary-marking, mainstream reading conceded); Nāgārjuna = Mode One+Three mixed (transcendental critique + honest residue now propagated to 2 downstream sections). No label leakage, no LLM cliché.
+- **Enhancements made**: 0 — high convergence + 2-word ceiling headroom; no net-positive edit available.
+- **Output**: [[reviews/deep-review-2026-06-24-embodied-cognition]]
 
 ## 2026-06-24T11:11:21+00:00 - deep-review
 - **Status**: Success
