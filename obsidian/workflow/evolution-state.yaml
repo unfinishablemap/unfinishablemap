@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T15:08:07.413114+00:00'
-session_count: 13050
-cycle_position: 9870
+last_updated: '2026-06-24T15:11:20.733650+00:00'
+session_count: 13051
+cycle_position: 9871
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T15:08:07.413114+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
-  refine-draft: '2026-06-24T14:24:27.462821+00:00'
+  refine-draft: '2026-06-24T15:11:20.733650+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
   replenish-queue: '2026-06-24T15:00:48.421313+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-24'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: pessimistic-review
   type: pessimistic-review
+  date: '2026-06-24'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1184,16 +1184,49 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 3
   p3_tasks: 1
-  needs_replenishment: true
-  loop_pickable_open: 3
+  needs_replenishment: false
+  loop_pickable_open: 4
   replenishment_source_counts:
-    no_op_floor_documented: 1
-  last_replenishment_run: 594
-  last_replenishment: '2026-06-24T14:43:00+00:00'
+    staleness: 1
+  last_replenishment_run: 595
+  last_replenishment: '2026-06-24T15:15:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.594 (2026-06-24T14:43Z): NO-OP FLOOR-DOCUMENTED
+  current_replenishment_note: 'run no.595 (2026-06-24T15:15Z): MINTED 1 genuine-drift
+    deep-review (staleness source), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks
+    = 2 PRE / 3 POST (both verified; PRE select_queue_task returns the entropic-brain
+    refine P2 [queue FUNCTIONAL, NOT deadlock]; POST returns the new deep-review as
+    TaskType.DEEP_REVIEW priority 2 at TOP of Active Tasks). MIN_QUEUE floor 3, unmet
+    by 1 pre-run. The minted target = topics/biological-computationalisms-inadvertent-case-for-dualism.md.
+    Unlike the prior run no.594 NO-OP (14:43Z, correct at the time -- every drift
+    candidate was then cosmetic cross-link churn), a NEW recent_task landed AFTER
+    594''s audit: refine-draft commit a56f12352 at 2026-06-24T15:11:20Z (a real 14-line
+    OWN-BODY structural-gap edit to this article). Git-classified own-body, not a
+    reciprocal/inbound cross-link cosmetic touch (deep_review_over_reviews_converged
+    respected): last_deep_review 2026-06-02, ai_modified 2026-06-24T15:08 (22d gap);
+    a refine bumps ai_modified but NOT last_deep_review, so the new structural material
+    is UNVERIFIED by deep-review. analyze_length body 3268w = soft_warning (topics
+    soft 3000 / hard 4000, ~732w headroom) -- NOT a condense candidate; keep length-neutral.
+    ai_contribution=100, ai_system=claude-opus-4-6 (older model = fresh-eyes justified).
+    NOT vetoed, no open duplicate. The two pre-existing live P2s = entropic-brain-hypothesis
+    cross-links + parapsychology-firewall cross-links (both real integration deficits);
+    the three #veto condenses are parser-excluded; the lone open P3 Phenomenology-of-Insight
+    is a raw expand-topic (create-vs-section decision NOT self-assessed; unsafe to
+    auto-promote -- human-decision-task-mispicked-as-refine trap). Eight-source audit
+    re-run from live disk: (chain) ZERO research/expand/cross-review completions; (unconsumed
+    research) ZERO (3 newest notes disk-confirmed consumed); (gap/caps) topics 279/320,
+    concepts 268/320, positions 8/80 headroom but generation harvester-governed (harvest
+    ran 13:53Z, next ~19:53Z) + gap-analysis Vetoed-bank-dedup-blocked; (genuine-drift)
+    the biological-computationalisms post-refine candidate above is the clean pick;
+    (staleness >=30d) stalest cohort 2026-05-26 at 29d, reopens 2026-06-25; (length)
+    NO clean mintable condense (all offenders human-deferred / #veto / accept-as-survey
+    / count-words-includes-frontmatter false positive); (orphan) orphaned_files=0;
+    (positions) 8 entries <10 audit threshold, slow-add; (applied-apex) 3 extant,
+    no high-confidence cluster gap. Expect replenish-at-floor alternation to continue
+    until the staleness cohort reopens 2026-06-25 and/or the harvester reopens the
+    research->expand pipeline ~19:53Z.'
+  superseded_run_594_note: 'run no.594 (2026-06-24T14:43Z): NO-OP FLOOR-DOCUMENTED
     (no new mint, no promotion). Authoritative tools.evolution.task_selector.count_p0_p2_tasks
     = 2; select_queue_task returns a REAL executable P2 (entropic-brain-hypothesis
     cross-links, TaskType.REFINE_DRAFT) -- queue FUNCTIONAL, NOT deadlock. MIN_QUEUE
