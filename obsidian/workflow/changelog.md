@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T11:15:30+00:00
+ai_modified: 2026-06-24T11:36:55+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T11:36:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/qualia]]
+- **Word count**: 3393 → 3393 (±0)
+- **Mode**: 17th deep review; converged integrity-verification no-op. Only delta since the 2026-06-03 pass was the vetted 2026-06-09 outer-review illusionism-cluster regress rewrite (commit ead071736) — verified compliant, not re-litigated. Ran mandatory §2.4 publisher-of-record citation web-verify on the two cites anchoring changed/recent content.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no content edits)
+- **Citations**: Frankish 2016 (J Consciousness Studies 23(11-12):11-39) verified real-correct at publisher (Ingenta/PhilPapers); Duch 2005 (J Mind and Behavior 26(1-2):1-22) verified real-correct at publisher (U Maine JMB/PhilArchive). Remainder canonical pre-2020. No orphans; superlative-currency sweep clean (none detected).
+- **Reasoning-mode**: Frankish/illusionism engagement = Mode Two (illusionism owes a mechanism on its own standard) with honest framework-boundary marking of the bare regress; declines boundary-substitution; consistent with [[illusionism]]; no label leakage. Duch/Block unchanged, prior-verified.
+- **Length**: 3393 (136% of 2500 soft, below 3500 hard, ~107w of headroom). Growth is the deliberate outer-review fix, not accretion; no condense. Next pass: strict length-neutral.
+- **Output**: [[reviews/deep-review-2026-06-24-qualia]]
 
 ## 2026-06-24T11:15:30+00:00 - deep-review
 - **Status**: Success
