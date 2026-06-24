@@ -5,6 +5,16 @@ ai_modified: 2026-06-24T16:51:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T17:05:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-cognitive-enhancement-under-dualism]]
+- **Word count**: 2250 → 2250 (length-neutral; 75% of 3000 topics soft, ample headroom under 4000 hard)
+- **Mode**: Fresh-eyes staleness pass (5th review, ~30d; prior stamp NOT trusted; older claude-opus-4-6/4-7 build = fresh eyes). Full publisher-of-record web-verify per §2.4 + task brief — prior reviews verified attribution but logged no per-cite live-publisher ledger.
+- **Critical issues addressed**: 0. All five citations web-verify **real-correct** at publisher of record (title+venue checked, not author+year alone): Bostrom & Sandberg 2009 (Oxford UP, *Human Enhancement* ch.18, FHI/PhilPapers), Sandel 2007 (*The Case against Perfection*, Harvard UP), Savulescu 2001 (*Bioethics* 15(5-6):413-426, Wiley doi:10.1111/1467-8519.00251), + 2 internal Map refs (targets exist). Inline↔References reconcile both directions, no orphans. No superlative claims (currency-sweep n/a).
+- **Medium issues addressed**: 1 — banned LLM-cliché contrastive construct ("This is not a merely academic distinction. It determines whether...") rephrased to a direct positive claim ("The distinction carries practical weight: it determines whether..."). Length-neutral. Survived 4 prior reviews whose style scans didn't check for it.
+- **Enhancements made**: 0 (article at convergence). Calibration: no possibility/probability or compatibility-vs-support slippage; quantum-interface section well-hedged. Reasoning-mode: no named-opponent refutation register, no boundary-substitution, no label leakage. Links: all 18 wikilinks resolve; `creative-consciousness#The Phenomenology of Creative Insight` anchor + BCI "repurposing" sibling claim re-verified against live sources (no stale internal quotes). No HTML-comment/EOF-tag leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-ethics-of-cognitive-enhancement-under-dualism]]
+
 ## 2026-06-24T16:51:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/commensurability-void]]
