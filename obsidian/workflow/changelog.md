@@ -5,6 +5,13 @@ ai_modified: 2026-06-23T05:59:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T09:17:13+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Simulation Theory of Memory (concept page)
+- **Output**: [[concepts/simulation-theory-of-memory]]
+- **Word count**: 1487
+- **Based on research**: yes, [[research/simulation-theory-of-memory-2026-06-24]]
+
 ## 2026-06-24T09:12:44+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Many-Minds Interpretation of Quantum Mechanics
