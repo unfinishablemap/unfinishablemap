@@ -5,6 +5,16 @@ ai_modified: 2026-06-24T14:36:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T16:10:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/relational-quantum-mechanics]]
+- **Word count**: 2955 → 2977 (+22; soft_warning, under 3500 hard ceiling)
+- **Mode**: Fresh-eyes staleness pass (prior stamp NOT trusted); independent publisher-of-record re-verification of every citation per task brief.
+- **Critical issues addressed**: 2 — (1) Pienaar 2019 end page 1412 → 1414 (real-wrong-metadata, verified Springer DOI 10.1007/s10701-019-00303-w + ADS); (2) Laudisa 2019 inline-orphan reference fixed by adding a faithful inline citation in the "What counts as an observer" subsection.
+- **Medium issues addressed**: 0
+- **Citation ledger**: web-verified at publisher of record — Rovelli 1996 (IJTP 35:1637–1678), Adlam & Rovelli 2023 (Philosophy of Physics 1(1), DOI 10.31389/pop.8), Lewis 2024 (Principia 28), Muciño-Okon-Sudarsky 2022 (Synthese 200(5)), Rovelli 2021 (arXiv:2106.03205), Laudisa 2019 (JGPS 50(2):215–230), Pienaar 2019 (Found. Phys. 49 — end-page corrected), Frankish 2016 (JCS 23(11–12):11–39), Tallis 2024 (Philosophy Now #161), Whitehead 1929, SEP RQM (live, rev. Feb 2025) — all real-correct after the two fixes. Currency-sweep: no superlative claims; CPL/Lewis debate unresolved as of June 2026, no literature-drift follow-on. Rovelli "nothing subjective/idealistic/mentalistic" quote verified verbatim. No stale internal quotes. Calibration clean (no possibility/probability slippage). Engagements — RQM observer: Mode Three; illusionism (Tallis vs Dennett/Frankish): Mixed. No label leakage, no banned construct, no refinement-log leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-relational-quantum-mechanics]]
+
 ## 2026-06-24T15:36:02+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]

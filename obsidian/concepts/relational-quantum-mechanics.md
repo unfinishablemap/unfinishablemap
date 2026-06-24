@@ -4,7 +4,7 @@ description: "Rovelli's interpretation where quantum facts are relative to obser
 created: 2026-01-18
 modified: 2026-05-23
 human_modified: null
-ai_modified: 2026-05-25T19:00:00+00:00
+ai_modified: 2026-06-24T16:10:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-05-25T19:00:00+00:00
+last_deep_review: 2026-06-24T16:10:18+00:00
 ---
 
 Relational quantum mechanics (RQM) is Carlo Rovelli's interpretation of quantum mechanics in which physical properties exist only as relations between systems, not as intrinsic features of things. There is no "view from nowhere"—all quantum facts are relative to specific observers, where "observer" means any physical system, not necessarily a conscious one. RQM explicitly removes any special role for consciousness in quantum measurement.
@@ -74,7 +74,7 @@ RQM claims to preserve locality despite Bell violations, treating EPR correlatio
 
 ### What counts as an observer
 
-RQM says any physical system can be an observer—but this leaves unclear what determines the boundaries of a "system." When does a collection of particles become an observer with its own perspective? RQM provides no principled way to individuate observers. The Map's distinct objection to this universalisation appears in the next section.
+RQM says any physical system can be an observer—but this leaves unclear what determines the boundaries of a "system." When does a collection of particles become an observer with its own perspective? RQM provides no principled way to individuate observers; Laudisa (2019) catalogues this among RQM's standing open problems, alongside the "third person" question of what relativising states to observers actually achieves. The Map's distinct objection to this universalisation appears in the next section.
 
 ## What RQM Removes and the Map's Specific Disagreement
 
@@ -180,7 +180,7 @@ The Map's disagreement is at the framework boundary, honestly registered rather 
 1. Muciño, R., Okon, E., & Sudarsky, D. (2022). Assessing Relational Quantum Mechanics. *Synthese*, 200(5).
 1. Rovelli, C. (2021). A response to the Mucino-Okon-Sudarsky's assessment of Relational Quantum Mechanics. arXiv:2106.03205.
 1. Laudisa, F. (2019). Open problems in relational quantum mechanics. *Journal for General Philosophy of Science*, 50(2), 215–230.
-1. Pienaar, J. (2019). Comment on "The notion of locality in relational quantum mechanics." *Foundations of Physics*, 49(12), 1404–1412.
+1. Pienaar, J. (2019). Comment on "The notion of locality in relational quantum mechanics." *Foundations of Physics*, 49(12), 1404–1414.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 1. Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
