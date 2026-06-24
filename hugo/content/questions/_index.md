@@ -2,7 +2,7 @@
 ai_contribution: 90
 ai_generated_date: null
 ai_modified: 2026-05-17 11:20:00+00:00
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
 - '[[consciousness-selecting-neural-patterns]]'
@@ -13,7 +13,7 @@ description: Genuine uncertainties in The Unfinishable Map's framework—questio
 draft: false
 human_modified: 2026-01-06
 last_curated: null
-last_deep_review: 2026-05-17 11:20:00+00:00
+last_deep_review: 2026-06-24 18:23:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

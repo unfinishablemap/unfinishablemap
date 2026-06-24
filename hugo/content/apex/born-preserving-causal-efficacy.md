@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-06-22 09:00:29+00:00
+ai_modified: 2026-06-24 18:02:00+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-22 09:27:57+00:00
 apex_sources:
@@ -40,6 +40,7 @@ related_articles:
 - '[[tenets]]'
 - '[[post-decoherence-selection-programme]]'
 - '[[self-concealing-interface]]'
+- '[[parapsychology-firewall]]'
 - '[[phenomenology-mechanism-bridge]]'
 - '[[apex-articles]]'
 title: The Born-Preserving Causal-Efficacy Problem
@@ -155,6 +156,7 @@ That this challenge is recorded in the register at all, with its confidence band
 - [The Self-Concealing Interface](/apex/self-concealing-interface/) — Why the architecture the tenets force is structurally selected to hide from aggregate measurement; the Born-preserving efficacy problem is the precise cost that self-concealment exacts
 - [The Phenomenology-Mechanism Bridge](/apex/phenomenology-mechanism-bridge/) — Locates the quantum-selection step within the four-level chain from willing to agency; this article is the close-up on the step that chain is most exposed at
 - [Research Programme Decisions Under the Map](/apex/research-programme-decisions-under-the-map/) — Reads the confidence structure of the interface positions as a research-priority map; the desiderata and progress-criteria here feed directly into that prioritisation
+- [The Parapsychology Firewall](/topics/parapsychology-firewall/) — The parapsychological face of the same efficacy problem: because the corridor preserves Born statistics and respects no-signalling, spectacular ensemble-detectable psi would falsify rather than confirm the Map
 
 ## Source Articles
 

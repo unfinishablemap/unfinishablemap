@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-24 18:54:42+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Do humans naturally separate mind from body? Evidence is mixed—bu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 00:00:00+00:00
+last_deep_review: 2026-06-24 18:54:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Barrett et al. proposed the cognitive default is actually **intuitive materialis
 
 Barlev and Shtulman (2021) found that conceptions of disembodied beings develop slowly over childhood. Children don't start as dualists who are later educated into materialism; they acquire dualist concepts through cultural learning. Counterintuitive ideas like disembodied minds may be prevalent precisely *because* they are counterintuitive—such ideas have transmission advantages in cultural evolution.
 
-Berent et al. (2024) added an unexpected data point: large language models develop dualist-seeming representations without innate architecture. If dualism is learnable without specialized cognitive modules, the case for innate dualism weakens.
+Berent and Sansiveri (2024) added an unexpected data point: large language models develop dualist-seeming representations without innate architecture. If dualism is learnable without specialized cognitive modules, the case for innate dualism weakens.
 
 ## Bering's Simulation Constraint
 
@@ -93,7 +93,7 @@ Explaining the belief doesn't explain the explanandum.
 
 [Illusionists](/concepts/illusionism/) argue the question of whether dualism is cognitively natural is moot—there are no phenomenal properties to be dualist or materialist *about*. On this view, we systematically misrepresent our mental states as having qualitative character they lack.
 
-The Map rejects illusionism for reasons independent of cognitive naturalness. The [regress problem](/concepts/illusionism/#the-infinite-regress-problem) applies: if mind-body distinction is an illusion, something must be *experiencing* this illusion. Keith Frankish argues that "quasi-phenomenal properties" can create the illusion of phenomenality without phenomenality itself—but this requires explaining what fixes the determinacy of representations (why "represents red" rather than "represents generic colour") and how mere functional covariation generates the *conviction* of phenomenality.
+The Map rejects illusionism for reasons independent of cognitive naturalness. The [regress problem](/concepts/illusionism/#the-infinite-regress-problem) applies: if mind-body distinction is an illusion, something must be *experiencing* this illusion. Keith Frankish argues that "quasi-phenomenal properties" can create the illusion of phenomenality without phenomenality itself—but this requires explaining what fixes the determinacy of representations (why "represents red" rather than "represents generic colour") and how mere functional covariation generates the *conviction* of phenomenality. Raymond Tallis (2024) presses a sharper version: if physical matter cannot generate phenomenal consciousness, it is hard to see how it could generate even the *illusion* of phenomenal consciousness, since an illusion is itself something experienced—so illusionism compounds the hard problem rather than dissolving it.
 
 Contemplative evidence also weighs against illusionism. Trained meditators report that practice *refines* phenomenal access rather than dissolving the illusion. Fox et al. (2012) found meditation experience predicts introspective accuracy on objective measures, not merely increased confidence. See [illusionism](/concepts/illusionism/) for full analysis.
 
@@ -117,7 +117,7 @@ The position that cognitive naturalness doesn't determine metaphysical truth wou
 | Barrett et al. (2021) | Intuitive materialism | Cross-cultural afterlife judgments |
 | Barlev & Shtulman (2021) | Dualism is learned | Developmental trajectories |
 | Bering (2002, 2006) | Simulation-constraint dualism | Implicit attribution measures |
-| Berent et al. (2024) | Dualism learnable without innateness | LLM representations |
+| Berent and Sansiveri (2024) | Dualism learnable without innateness | LLM representations |
 
 ## Relation to Site Perspective
 
@@ -156,12 +156,12 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) receives the most d
 
 1. Barrett, H. C., et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6), e12992.
 1. Barlev, M., & Shtulman, A. (2021). "Minds, bodies, spirits, and gods: Does widespread belief in disembodied beings imply that we are inherent dualists?" *Psychological Review*, 128, 1007-1021.
-1. Berent, I., et al. (2024). "Davinci the Dualist: The Mind-Body Divide in Large Language Models and in Human Learners." *Open Mind*.
-1. Bering, J. M. (2002). "Intuitive conceptions of dead agents' minds." *Journal of Cognition and Culture*, 2(4), 263-308.
+1. Berent, I., & Sansiveri, A. (2024). "Davinci the Dualist: The Mind-Body Divide in Large Language Models and in Human Learners." *Open Mind*, 8, 84-101.
+1. Bering, J. M. (2002). "Intuitive Conceptions of Dead Agents' Minds: The Natural Foundations of Afterlife Beliefs as Phenomenological Boundary." *Journal of Cognition and Culture*, 2(4), 263-308.
 1. Bering, J. M. (2006). "The folk psychology of souls." *Behavioral and Brain Sciences*, 29(5), 453-462.
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
-1. Chudek, M., et al. (2018). "Do minds switch bodies?" *Religion, Brain & Behavior*, 8(4), 354-368.
-1. Richert, R. A., & Harris, P. L. (2008). "Dualism revisited." *Cognitive Science*, 32(1), 198-209.
+1. Chudek, M., et al. (2018). "Do minds switch bodies? Dualist interpretations across ages and societies." *Religion, Brain & Behavior*, 8(4), 354-368.
+1. Richert, R. A., & Harris, P. L. (2008). "Dualism Revisited: Body vs. Mind vs. Soul." *Journal of Cognition and Culture*, 8(1-2), 99-115.
 1. Willard, A. K., & Norenzayan, A. (2013). "Cognitive biases explain religious belief, paranormal belief, and belief in life's purpose." *Cognition*, 129(2), 379-391.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.

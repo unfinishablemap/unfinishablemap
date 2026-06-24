@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-24 19:02:48+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: Brains meet five criteria for consciousness interfaces while extern
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 00:00:00+00:00
+last_deep_review: 2026-06-24 19:02:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ Evolution explains *why brains have these features*—selection pressure for beh
 
 **Why artificial consciousness is difficult**: Current AI has representational structure and some feedback but arguably lacks quantum sensitivity, genuine attention (as opposed to attention-like processing), and any co-adaptive history with a consciousness. The framework does not rule out artificial consciousness in principle—a system that genuinely met all five criteria, including progressive mutual adaptation, would be a candidate interface. Whether such a system would use the same coupling mechanism as biological brains or a fundamentally different one is the open question of [interface-heterogeneity](/concepts/interface-heterogeneity/).
 
-**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001–0.001—effectively zero. The framework was constructed knowing this, so null PK is *consistent with* interface locality rather than positive evidence *for* it. What makes the commitment substantive is a specified falsification threshold: if preregistered, well-powered external-PK studies reliably produced effect sizes above roughly 0.01 (the threshold detailed in *What Would Challenge This View?* below), interface locality as currently formulated would fail. The PEAR program itself faced methodological criticisms, but its null results are consistent with mainstream findings. (For fuller treatment, see [brain-specialness-boundary](/topics/brain-specialness-boundary/).)
+**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001–0.001—effectively zero. The framework was constructed knowing this, so null PK is *consistent with* interface locality rather than positive evidence *for* it. What makes the commitment substantive is a specified falsification threshold: if preregistered, well-powered external-PK studies reliably produced effect sizes above roughly 0.01 (the threshold detailed in *What Would Challenge This View?* below), interface locality as currently formulated would fail. PEAR's null results are consistent with the broader meta-analytic record. (For fuller treatment of the methodological debate, see [brain-specialness-boundary](/topics/brain-specialness-boundary/).)
 
 ## The Functionalist Challenge
 
@@ -130,7 +130,7 @@ The Map's framework suggests quantum sensitivity is essential but not sufficient
 
 ## The Decoherence Challenge
 
-[decoherence](/concepts/decoherence/) should destroy quantum effects in warm brain tissue within femtoseconds. Three considerations temper this objection: the Tegmark-Hameroff timescale debate remains unresolved (corrected coherence times may be 10⁻⁵ to 10⁻⁴ seconds); [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates evolution *can* optimise biological systems for quantum coherence (avian magnetoreception maintains spin coherence for microseconds); and Stapp's Zeno mechanism requires rapid repeated observation rather than sustained superposition—though as [the selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) details, a timescale gap of roughly ten orders of magnitude remains between attention and required observation rates.
+[decoherence](/concepts/decoherence/) should destroy quantum effects in warm brain tissue within femtoseconds. Three considerations temper this objection: the Tegmark-Hameroff timescale debate remains unresolved (corrected coherence times may be 10⁻⁵ to 10⁻⁴ seconds on the Hagan et al., 2002, recalibration, though Reimers et al. and McKemmish et al. later contested its parameters—the dispute is live, not closed); [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates evolution *can* optimise biological systems for quantum coherence (avian magnetoreception maintains spin coherence for microseconds); and Stapp's Zeno mechanism requires rapid repeated observation rather than sustained superposition—though as [the selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) details, a timescale gap of roughly ten orders of magnitude remains between attention and required observation rates.
 
 A further possibility is [post-decoherence-selection](/concepts/post-decoherence-selection/): consciousness might act not on coherent superpositions but on the already-decohered mixture, selecting which outcome becomes actual. A standing objection is that this preserves quantum vocabulary while doing non-quantum work—if the mixture is classical-like, "selection" is indistinguishable from asserting classical randomness has a mental cause. The reply turns on the *improper-vs-proper-mixture* distinction (d'Espagnat, 1976; Schlosshauer, 2004). Decoherence produces an *improper* mixture: the reduced density matrix is mathematically identical to classical ignorance, but its physical content is entanglement with the environment, not definite-but-unknown state. The quantum formalism terminates at this point without determining which element becomes actual (Schlosshauer's *problem of outcomes*). Post-decoherence selection locates conscious influence in this specifically quantum-formalism gap: the alternatives being selected among are pointer states einselected by environmental interaction, and selection is required because unitary dynamics have produced a mixture the formalism cannot resolve. That is what distinguishes conscious selection from decohered pointer states from mere conscious-caused classical indeterminism—the gap being filled is a gap left by the quantum formalism itself.
 
@@ -189,9 +189,9 @@ Together, these explain why consciousness acts on brains specifically: brains me
 1. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). W.A. Benjamin.
 1. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Jahn, R.G., & Dunne, B.J. (2005). The PEAR proposition. *Journal of Scientific Exploration*, 19(2), 195-245.
 1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-1. Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76, 1267-1305.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.

@@ -75,7 +75,7 @@ The Commensurability Void concerns whether phenomenal experiences across radical
 - **Tenet alignment**: Supports the depth of the void — comparison requires shared conceptual ground that may not exist across radically different architectures
 - **Quote**: "Nobody knows whether people also have this or something else."
 
-### Welfare Comparisons Within and Across Species (Philosophical Studies, 2022)
+### Browning (2023): Welfare comparisons within and across species (Philosophical Studies)
 - **URL**: https://link.springer.com/article/10.1007/s11098-022-01907-1
 - **Type**: Paper
 - **Key points**:
@@ -200,6 +200,6 @@ Based on this research, a voids article could:
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 - Díaz Boils, J. et al. (2025). "Structural Constraints to Compare Phenomenal Experience." arXiv:2502.02154.
 - Wittgenstein, L. (1953). *Philosophical Investigations*. §§243-315 (Private Language Argument).
-- "Welfare Comparisons Within and Across Species." *Philosophical Studies* (2022).
+- Browning, H. (2023). "Welfare comparisons within and across species." *Philosophical Studies*, 180(2), 529-551.
 - "Towards a Structural Turn in Consciousness Science." (2024). PubMed ID: 38422757.
 - Stanford Encyclopedia of Philosophy entries on Incommensurability, Private Language, Consciousness.

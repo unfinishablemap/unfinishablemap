@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-24 17:05:36+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: If the brain is an interface rather than the seat of mind, cognitiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 00:00:00+00:00
+last_deep_review: 2026-06-24 17:05:36+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -45,7 +45,7 @@ Materialist bioethics treats cognitive enhancement as upgrading mental capacity 
 
 Dualism reframes each of these interventions. If the brain functions as a filter, transceiver, or interface for consciousness—as [filter theory](/concepts/mind-matter-interface/) proposes—then enhancement technologies do not augment consciousness itself. They modify the [bandwidth](/topics/bandwidth-of-consciousness/), fidelity, or range of the channel through which consciousness operates in the physical world. A nootropic might widen the filter, allowing consciousness greater expressive range—compare the Map's analysis of how [psychedelics may reduce filtering](/topics/psychedelics-and-the-filter-model/) to allow broader phenomenal access. A [brain-computer interface](/topics/brain-computer-interfaces-and-the-interface-boundary/) might add new input-output channels—though as the Map's analysis of BCIs shows, what users learn is to repurpose existing neural pathways rather than extend consciousness beyond the brain. But consciousness, the subject experiencing and acting through these channels, remains what it was.
 
-This is not a merely academic distinction. It determines whether enhancement changes *who you are* or merely *what you can do*—a difference with profound ethical consequences. The Map's broader analysis of [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) supports this framing: psychedelics, meditation, and other states demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities through a configurable interface. Enhancement technologies would constitute yet another mode of interface reconfiguration—deliberate and permanent rather than temporary.
+The distinction carries practical weight: it determines whether enhancement changes *who you are* or merely *what you can do*—a difference with profound ethical consequences. The Map's broader analysis of [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) supports this framing: psychedelics, meditation, and other states demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities through a configurable interface. Enhancement technologies would constitute yet another mode of interface reconfiguration—deliberate and permanent rather than temporary.
 
 ## Identity and the Enhanced Self
 

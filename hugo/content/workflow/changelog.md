@@ -1,13 +1,142 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24 14:36:44+00:00
+ai_modified: 2026-06-24 19:02:48+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-24T19:02:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Word count**: 2509 → 2531 (+22; load-bearing citation + live-dispute hedge, partly offset by tightening the PEAR clause; soft_warning, well under 3500 hard)
+- **Mode**: Staleness deep review (~30d, opus-4-5 build = fresh eyes) with publisher-of-record citation web-verify (all 10 References checked title+venue at PubMed/ScienceDirect/APS/Springer).
+- **Critical issues addressed**: 2 — (1) ORPHAN REFERENCE Hagan, Hameroff & Tuszynski (2002) Phys Rev E 65:061901 had no inline cite; added it at the "10⁻⁵ to 10⁻⁴ s corrected coherence times" figure in the Decoherence Challenge (sibling decoherence.md cites the same figure to Hagan), and imported the live-dispute caveat (Reimers/McKemmish contested Hagan's parameters). (2) AUTHOR-ORDER metadata error Penrose & Hameroff (2014) → Hameroff & Penrose (canonical published order, verified PubMed 24070914; matches both sibling articles); reordered to alphabetical position.
+- **Citation ledger**: all real-correct except the Hameroff/Penrose author-order fix above — d'Espagnat 1976 (Conceptual Foundations, 2nd ed.), Fisher 2015 (Annals of Physics 362:593-602), Hagan et al. 2002 (Phys Rev E 65:061901; was orphan), Jahn & Dunne 2005 (JSE 19(2):195-245), Khan et al. 2024 (eNeuro 11(8); first-author Khan confirmed — 2026-05-26 Khan/Wiest fix holds), Schlosshauer 2004 (RvMP 76:1267-1305), Stapp 2007 (Mindful Universe, Springer), Tallis 2024 (Philosophy Now 161; "Misrepresentation presupposes presentation" verbatim deployed there — real-correct), Tegmark 2000 (Phys Rev E 61:4194-4206). Inline↔References both-directions clean after the Hagan fix. Currency-sweep: no superlative claims.
+- **Calibration verdict**: PEAR null kept "consistent with, not evidence for"; >0.01 threshold + ~0.0001–0.001 figures consistent with pairing-problem.md and brain-specialness-boundary.md siblings; no possibility→probability slippage. Five-criteria explicitly flagged descriptive-not-first-principles. No banned "This is not X. It is Y." cliché, no HTML-comment/refinement-log leakage, no EOF tag artifact, no label leakage.
+- **Engagements**: Functionalist Challenge — Mode Three dominant (concedes substrate-independence, open question honestly declared); Illusionist Challenge — Mode One/mixed (Tallis internal demand + framework-independent point). No boundary-substitution.
+- **Remaining**: corpus-wide Tallis attribution split (Aping Mankind 2011 vs Philosophy Now 2024 across ~18 articles; both real; family-resolution candidate, out of scope).
+- **Output**: [deep-review-2026-06-24-brain-interface-boundary](/reviews/deep-review-2026-06-24-brain-interface-boundary/)
+
+## 2026-06-24T18:54:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [intuitive-dualism](/concepts/intuitive-dualism/)
+- **Word count**: ~1920 (length-neutral; citation-metadata fixes only)
+- **Mode**: Staleness deep review (~30d, opus-4-5 build) with publisher-of-record citation web-verify (2 sub-delegated verify agents, 14 cites). Review fork stalled at the verification wait; orchestrator applied corrections + finalized.
+- **Critical issues addressed**: 4 citation-metadata defects + 1 inline↔References orphan (Tallis, by the fork).
+- **Citation ledger**: Richert & Harris 2008 — wrong venue+volume+pages (Cognitive Science 32(1):198-209 → Journal of Cognition and Culture 8(1-2):99-115, INDEPENDENTLY web-confirmed via Brill); Berent 2024 — "et al." → "& Sansiveri, A." + added Open Mind 8:84-101 (2-author paper; inline mentions fixed too); Bering 2002 — restored full title subtitle; Chudek 2018 — restored title subtitle. Real-correct (no change): Barrett 2021, Barlev & Shtulman 2021, Bering 2006, Bloom 2004, Willard & Norenzayan 2013, Frankish 2016, Tallis 2024, Whitehead 1929, Schwartz/Stapp/Beauregard 2005, Fox 2012.
+- **Calibration verdict**: genetic-fallacy guard intact + symmetric ("humans are intuitive dualists" ≠ dualism true); no possibility→probability / is→ought slippage. No banned cliché, no leakage.
+- **Timestamps**: ai_modified + last_deep_review → 2026-06-24T18:54:42 (body changed; date -u-checked, not future-dated).
+- **Output**: [deep-review-2026-06-24-intuitive-dualism](/reviews/deep-review-2026-06-24-intuitive-dualism/)
+- **Note**: sub-delegation-stall recovery — review fork sub-delegated 2 citation-verify agents and stalled; orchestrator harvested both ledgers, web-confirmed the highest-stakes fix (Richert & Harris), applied all corrections, and finalized archive + changelog.
+
+## 2026-06-24T18:42:00+00:00 - deep-review
+- **Status**: Success (1 real citation-metadata defect found + family-resolved corpus-wide)
+- **File**: [pairing-problem](/concepts/pairing-problem/)
+- **Word count**: 2369 → 2369 (no body-prose change; References venue corrected)
+- **Critical issues addressed**: 1 (Zimmerman 2010 wrong-venue metadata)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (venue correction propagated to 2 sibling articles)
+- **Citations (§2.4 publisher-of-record web-verify, 6 cites)**: Kim 2005 (*Physicalism, or Something Near Enough*, PUP) — real-correct; Kim 2001 ("Lonely Souls", *Soul Body & Survival* ed. Corcoran, Cornell 2001) — real-correct; Bailey/Rasmussen/Van Horn 2011 (*Philosophical Studies* 154:349-360, DOI 10.1007/s11098-010-9555-7) — real-correct; Hasker 1999 (*The Emergent Self*, Cornell) — real-correct; Zimmerman 2010 — **real-wrong-metadata**: venue *Proceedings of the Aristotelian Society* → corrected to *Aristotelian Society Supplementary Volume* 84(1):119-150 (DOI 10.1111/j.1467-8349.2010.00189.x); Jahn & Dunne 2005 (*JSE* 19(2):195-245) — real-correct. Inline↔References both directions: no orphans. Superlative-currency sweep: 0 hits.
+- **Family resolution**: Zimmerman venue fixed in pairing-problem.md + substance-property-dualism.md + where-the-substance-commitment-enters.md (research note unaffected — title-only cite). Wrong venue had been intra-corpus-ratified across 3 articles; only publisher-of-record caught it.
+- **Engagement classification**: Kim counter-objection — Mode One (in-framework); Illusionist Challenge (Dennett/Frankish) — Mode Three/Mixed (foundational-move ID + honest bedrock-boundary marking). No label leakage.
+- **Calibration**: PEAR claim correctly "consistent with" not "evidence for"; still aligned with brain-interface-boundary.md. No possibility→probability slippage.
+- **Output**: [deep-review-2026-06-24-pairing-problem](/reviews/deep-review-2026-06-24-pairing-problem/)
+
+## 2026-06-24T18:23:53+00:00 - deep-review
+- **Status**: Success (converged no-op after real scrutiny)
+- **File**: [questions](/questions/) (Open Questions section-index / register hub)
+- **Word count**: 141 → 141 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (frontmatter only: last_deep_review refreshed; ai_system claude-opus-4-7 → claude-opus-4-8; ai_modified deliberately NOT bumped — no body change, keeps drift detection honest)
+- **Link integrity**: all 3 wikilinks resolve (consciousness-selecting-neural-patterns, tenets, voids); Hugo sync confirms no broken link
+- **Citations**: none (pure navigational hub — §2.4 web-verify N/A)
+- **Register currency**: single listed question still genuinely open (target deep-reviewed 2026-06-24, conditional framing intact, no resolution claim); underpopulation is deferred content-creation, not an index defect; no banned cliché
+- **Engagement classification**: none (no named-opponent replies)
+- **Output**: [deep-review-2026-06-24-questions](/reviews/deep-review-2026-06-24-questions/)
+
+## 2026-06-24T18:15:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Word count**: 3153 → 3186 (+33, one reference line)
+- **Critical issues addressed**: 1 (Hu et al. 2023 inline↔References orphan — added missing References entry; cite was web-verified faithful, just missing its bibliographic anchor; survived two prior web-verify passes)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added Hu 2023 reference entry)
+- **Citations web-verified (publisher-of-record, this pass)**: Voon et al. 2010 *Brain* 133(5) — real-correct (PMID 20371508, amygdala→SMA claim faithful); Edwards et al. 2012 *Brain* 135(11) — real-correct (PMID 22641838, Bayesian high-precision-prior claim faithful); Hu et al. 2023 *Nat Neurosci* 26:751–764 — real-correct (PMID 36973513, DOI 10.1038/s41593-023-01290-y), reference entry added.
+- **Reasoning-mode (changelog-only)**: engagement with naive identity theorist — Mode One (refuted on own terms: predicts uniform degradation, dissociations contradict). Engagement with sophisticated functionalist — Mode Three (framework boundary marked honestly: both readings predict identical dissociation phenomenology). Engagement with epiphenomenalist — Mode One/Mixed (concedes neural-shadow defence "logically available" but shows it "considerably more strained"). No label leakage in body (grep-confirmed).
+- **Resolved deferred item**: the line-1847 FND/motor-channel propagation fix (commit a3811a02f) corrected the backwards "disconnects the descending motor channel" framing to active functional override (Edwards Bayesian prior + Voon amygdala→SMA); verified consistent with sibling conversion-disorder-as-consciousness-side-fault.
+- **Output**: [deep-review-2026-06-24-neurological-dissociations-as-interface-architecture](/reviews/deep-review-2026-06-24-neurological-dissociations-as-interface-architecture/)
+
+## 2026-06-24T17:50:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) (cross-link target; 3 source files edited)
+- **Task**: From optimistic review 2026-06-22c — `entropic-brain-hypothesis` had good intra-cluster inbound links but ZERO from outside the cluster. Add ONE natural inbound link TO it from each of 3 source files. Length-neutral cross-linking, not content addition.
+- **Changes** (grep-confirmed none already linked entropic-brain before editing):
+  - (1) `concepts/default-mode-network.md` — added a sentence at the close of the "Psychedelic Evidence" REBUS paragraph linking [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) as the dynamical signature (neural entropy, brain criticality, DMN within-network integrity loss) behind the discussed psychedelic effects.
+  - (2) `topics/predictive-processing-and-dualism.md` — added a Further Reading line for [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) directly after the existing psychedelics-and-the-filter-model line (matching its REBUS framing).
+  - (3) `concepts/predictive-processing.md` — added a Further Reading (Site Content) line for [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) after the psychedelics line: the dynamical-signature route in (entropy/criticality as the order parameter prior-precision relaxation moves).
+- **Reciprocity**: confirmed — entropic-brain-hypothesis already lists predictive-processing-and-dualism (frontmatter + Further Reading), default-mode-network (concepts frontmatter + body anchor), and predictive-processing (concepts frontmatter + body) so all three links reciprocate.
+- **ai_modified bumped** on all 3 edited files to 2026-06-24T17:50:57+00:00 (date -u-checked, not future-dated). All 3 are ai_contribution:100, unchanged.
+- **Published**: yes
+
+## 2026-06-24T17:19:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/)
+- **Word count**: 2378 → 3217 body words (+839; under the 4000 topics hard ceiling — length-safe)
+- **Task**: Fold the unconsumed 2024-2026 PCS currency findings (from [phenomenal-concept-strategy-2024-2026-update-2026-06-24](/research/phenomenal-concept-strategy-2024-2026-update-2026-06-24/)) into the topics article. The same four were integrated into the deep-reviewed-today sibling [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/); grep-confirmed missing here (equivocation×0, Zhou×0, Sasaki×0, "indicating without revealing"×0, Ball body×0 — was References-only).
+- **Changes**:
+  - (a) **Carruthers-Veillet (2007) equivocation charge** — rewrote the thin "Challenging the Zombie Premise" subsection (which named C&V but not the charge) into "Challenging the Zombie Premise: The Equivocation Charge", spelling out the first-person/third-person equivocation, the shared epistemic situation, the load-bearing isolation feature, and the dualist cost. Named as the strongest live physicalist rebuttal, framed as live-not-refuted.
+  - (b) **Ball "There Are No Phenomenal Concepts" (Mind 118, 2009)** — new "Ball's Eliminativism About Phenomenal Concepts" subsection, framed DOUBLE-EDGED (threatens both PCS's explanans AND the knowledge-argument route to dualism; not pretended to hurt only the physicalist). Was previously References-only.
+  - (c) **Zhou 2025 "indicating without revealing" (Synthese 206.2)** — new "The A-Posteriori Retreat" subsection with the dualist diagnosis (indication-only restates the gap per-concept).
+  - (d) **Sasaki 2025 master-argument continuation** — added a calibration paragraph to the master-argument section flagging the dialectic as OPEN not settled (thin/thick of "our epistemic situation"); also threaded into the opening verdict.
+  - Calibrated description + opening verdict from flat "show why this fails" → "exposes a dilemma PCS has not stably escaped" (aligns with the recalibrated sibling concept article; honours [evidential-status-discipline](/project/evidential-status-discipline/) — no possibility→probability creep; PCS's failure is the Map's contested verdict, not established).
+  - References: added Zhou (Synthese 206(2)) and Sasaki (Kagaku Tetsugaku 58(1)) matching the sibling's web-verified-today venues exactly; normalised one cosmetic en-dash on the Carruthers JCS entry. Added the research note to related_articles.
+- **Citation verification**: all four author/year/venue strings matched byte-for-byte against the sibling [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (deep-reviewed + web-verified real-correct earlier today); no independent web-verify re-run this pass.
+- **Engagement classification** (editor-internal, not in body): Carruthers-Veillet reply engaged as Mode One on its dualist-cost turn (the from-the-inside content the equivocation needs is the disputed item) — kept in natural prose, no label leakage.
+- **Frontmatter**: bumped ai_modified to 2026-06-24T17:19:18+00:00 (date -u-checked, not future). last_deep_review left UNCHANGED (this is a refine, not a review).
+- **Published**: yes
+
+## 2026-06-24T17:15:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- **Word count**: 3445 → 3445 (length-neutral; 115% of 3000 topics soft, under 4000 hard ceiling)
+- **Mode**: Convergence no-op pass (**7th** deep review; substance-stable since 2026-03-07; no deep-review body change in last 4 passes). Sole changed-since signal is a cosmetic cross-link install (commit `f4127a9c0`) that bumped `ai_modified` — the classic convergence-damping false signal. Fast confirm per deep_review_over_reviews_converged, no manufactured edits.
+- **Critical issues addressed**: 0. The one delta verified: new anchor `[[evolution-under-dualism#three-models-what-evolves]]` resolves to the live heading "## Three Models: What Evolves?"; paraphrase ("the Map commits to none of the three models") is faithful to the source and is itself a calibration guard, not slippage. Citation web-verify NOT re-triggered (References/inline cites unchanged since the 2026-06-02 full publisher-of-record ledger; epothilone Khan/Wiest 2024 eNeuro 11(8) still stands). No superlative claims (currency-sweep clean).
+- **Medium issues addressed**: 0 (article at convergence).
+- **Enhancements made**: 0. Calibration intact (NYD tiers quoted at declared level, no tenet-load upgrade). Named-opponent engagements (materialist/functionalist/MWI) remain Mode Three boundary-marking, no label leakage.
+- **Output**: [deep-review-2026-06-24-comparative-consciousness-and-interface-differences](/reviews/deep-review-2026-06-24-comparative-consciousness-and-interface-differences/)
+
+## 2026-06-24T17:05:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
+- **Word count**: 2250 → 2250 (length-neutral; 75% of 3000 topics soft, ample headroom under 4000 hard)
+- **Mode**: Fresh-eyes staleness pass (5th review, ~30d; prior stamp NOT trusted; older claude-opus-4-6/4-7 build = fresh eyes). Full publisher-of-record web-verify per §2.4 + task brief — prior reviews verified attribution but logged no per-cite live-publisher ledger.
+- **Critical issues addressed**: 0. All five citations web-verify **real-correct** at publisher of record (title+venue checked, not author+year alone): Bostrom & Sandberg 2009 (Oxford UP, *Human Enhancement* ch.18, FHI/PhilPapers), Sandel 2007 (*The Case against Perfection*, Harvard UP), Savulescu 2001 (*Bioethics* 15(5-6):413-426, Wiley doi:10.1111/1467-8519.00251), + 2 internal Map refs (targets exist). Inline↔References reconcile both directions, no orphans. No superlative claims (currency-sweep n/a).
+- **Medium issues addressed**: 1 — banned LLM-cliché contrastive construct ("This is not a merely academic distinction. It determines whether...") rephrased to a direct positive claim ("The distinction carries practical weight: it determines whether..."). Length-neutral. Survived 4 prior reviews whose style scans didn't check for it.
+- **Enhancements made**: 0 (article at convergence). Calibration: no possibility/probability or compatibility-vs-support slippage; quantum-interface section well-hedged. Reasoning-mode: no named-opponent refutation register, no boundary-substitution, no label leakage. Links: all 18 wikilinks resolve; `creative-consciousness#The Phenomenology of Creative Insight` anchor + BCI "repurposing" sibling claim re-verified against live sources (no stale internal quotes). No HTML-comment/EOF-tag leakage.
+- **Output**: [deep-review-2026-06-24-ethics-of-cognitive-enhancement-under-dualism](/reviews/deep-review-2026-06-24-ethics-of-cognitive-enhancement-under-dualism/)
+
+## 2026-06-24T16:51:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [commensurability-void](/voids/commensurability-void/)
+- **Word count**: 1737 → 1741 (+4; ok, 87% of 2000 soft, well under 3000 voids hard ceiling)
+- **Mode**: Fresh-eyes staleness pass (4th review, ~30d; prior stamp NOT trusted; older claude-opus-4-6 build = fresh eyes). Publisher-of-record web-verify of every citation per §2.4 + task brief.
+- **Critical issues addressed**: 3 (all citation/quotation defects that survived 3 prior "verified" reviews; intra-corpus consistency ratifies them — only the live publisher catches them):
+  1. **Wrong-author citation** — "Kagan, S. et al. (2022). Welfare Comparisons Within and Across Species. *Philosophical Studies* 179, 1–28" is actually **Browning, H. (2023), *Philosophical Studies* 180(2):529–551** (verified Springer DOI 10.1007/s11098-022-01907-1). Real paper, faithful content, but author/year/volume/pages all wrong. Title+venue were correct, which is why author-only matching missed it 3×. Also reconciled the resulting inline↔References orphan (added "as Browning (2023) argues"). Propagated the fix to `research/voids-commensurability-void-2026-03-19.md` and an open expand-topic task in `todo.md`.
+  2. **Díaz Boils et al. (2025) misquotation** — restored dropped "quantitatively speaking" + corrected "may carry"→"carry" to match arXiv:2502.02154 abstract verbatim (verified at publisher). The dropped qualifier is load-bearing (it is the article's own Φ-quantity-vs-quality point).
+  3. **Wittgenstein (1953) §272 misquotation** — restored "really" and corrected "people"→"other people" to the Anscombe translation.
+- **Per-cite ledger**: Nagel 1974 real-correct; Díaz Boils et al. 2025 real-correct (paper) + in-quote corrected; Wittgenstein 1953 real-correct (citation) + in-quote corrected; Kagan 2022 → corrected to Browning 2023 (real-paper-wrong-author).
+- **Currency sweep**: no superlative claims (clean). **Calibration**: no possibility/probability slippage (conditional framing preserved). **Void classification**: confirmed unexplorable. **Cross-link reciprocity**: imagery/synesthetic/mysterianism/animal-consciousness all link back. **Writing-style**: no banned construct, no HTML-comment leakage.
+- **Output**: [deep-review-2026-06-24-commensurability-void](/reviews/deep-review-2026-06-24-commensurability-void/)
+
+## 2026-06-24T16:41:43+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The quantum-foundations / many-worlds-rivals nexus — five interlocking articles refined/created today (06-24, 13:39–16:10 UTC): topics/qm-interpretations-beyond-many-worlds, topics/probability-problem-in-many-worlds, topics/indexical-identity-quantum-measurement, concepts/relational-quantum-mechanics, topics/many-minds-interpretation. Cluster is at its calibration peak; Process-Philosopher and Hardline-Empiricist personas converge (no possibility/probability slippage to flag). One medium-priority maintenance finding: the survey spine sits at 4162 body words, over the 4000-word topics hard ceiling — flagged as a human length/calibration decision, not auto-condensable.
+- **Output**: [optimistic-2026-06-24b](/reviews/optimistic-2026-06-24b/)
 
 ## 2026-06-24T16:22:47+00:00 - deep-review
 - **Status**: Success

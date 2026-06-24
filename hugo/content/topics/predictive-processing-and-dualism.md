@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-23 04:25:37+00:00
+ai_modified: 2026-06-24 17:50:57+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -164,6 +164,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why simplicity cannot settle the consciousness debate
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — REBUS and Letheby's predictive-self-binding account: PP under dualism applied to altered states
+- [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) — The dynamical signature (neural entropy, brain criticality) that REBUS folds into the predictive-processing frame
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — The locality face of the same selection-only interface: why conscious selection reaches only its own brain, not external quantum systems
 
 ## References
