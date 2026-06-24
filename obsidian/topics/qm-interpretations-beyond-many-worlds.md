@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-21T12:54:41+00:00
+ai_modified: 2026-06-24T14:23:30+00:00
 last_deep_review: 2026-06-21T12:54:41+00:00
 draft: false
 topics:
@@ -199,7 +199,7 @@ No interpretation is proven, and the Map does not claim to know which is correct
 21. Saunders, S. (2010). Chance in the Everett interpretation. In Saunders, Barrett, Kent & Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford University Press.
 22. Sebens, C. T., & Carroll, S. M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25–74.
 23. Lewis, P. J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1–14.
-24. Friederich, S., & Dawid, R. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711–736.
+24. Friederich, S., & Dawid, R. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711–721.
 25. Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5(3), 181–188.
 26. Kent, A. (2021). Collapse and Measures of Consciousness. *Foundations of Physics*, 51, 62. DOI: 10.1007/s10701-021-00467-4.
 27. DeBrota, J. B., Fuchs, C. A., Pienaar, J. L., & Stacey, B. C. (2021). Born's rule as a quantum extension of Bayesian coherence. *Physical Review A*, 104(2), 022207.
