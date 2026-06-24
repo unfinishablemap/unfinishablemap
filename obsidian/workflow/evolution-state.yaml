@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T11:20:54.369305+00:00'
-session_count: 13017
+last_updated: '2026-06-24T11:29:45.800425+00:00'
+session_count: 13018
 cycle_position: 9856
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-24T10:13:54.911762+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
-  replenish-queue: '2026-06-24T11:04:32.064811+00:00'
+  replenish-queue: '2026-06-24T11:29:45.800425+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-06-24'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-24'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1197,39 +1197,38 @@ queue_status:
   last_replenishment: '2026-06-24T11:25:00+00:00'
   last_replenishment_mode: standard
   current_replenishment_note: 'run no.586 (2026-06-24T11:25Z): MINTED 1 genuine-drift
-    deep-review (concepts/qualia.md), floor restored 2->3. Authoritative
-    tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint / 3 POST-mint (both
-    verified; select_queue_task confirms the new task selectable as DEEP_REVIEW at top
-    of Active Tasks). MIN_QUEUE floor 3, unmet by 1 pre-mint. Documented replenish-at-floor
-    alternation (unfin_loop_steady_state), NOT deadlock: prior run no.585 (11:05Z) minted
-    an embodied-cognition genuine-drift deep-review which was PICKED + executed by the
-    cycle slot (commit be74ed2ab, last_deep_review now 2026-06-24T11:15:30Z, ai_modified
-    == last_deep_review), dropping the live floor 3->2. EIGHT-SOURCE AUDIT re-run from
-    LIVE DISK, all exhausted of clean MINT candidates EXCEPT this one genuine-drift
-    deep-review. (1 chain) zero open cross-review chains -- today''s two expand-topic
-    creates (topics/many-minds-interpretation, concepts/simulation-theory-of-memory)
-    already got fresh-create orphan-integration deep-reviews this cycle (commits bf1c45336,
-    adc5d11f6). (2 unconsumed research) ZERO -- today''s 3 newest notes all disk-confirmed
-    consumed: simulation-theory-of-memory + many-minds-interpretation -> same-slug new
-    articles, phenomenal-concept-strategy-2024-2026-update -> existing-article currency
-    refine of concepts/phenomenal-concepts-strategy (commit 4cd5a06f9, NOT a new-article
-    seed). (3 gap/caps) topics 280/320 + concepts 268/320 + voids 101/100 + positions
-    8/80; gen harvester-governed (harvested Q3-dualism research-topic already queued as
-    a P3) + gap-analysis Vetoed-bank-dedup-blocked. (4 genuine-drift) entire top drift
-    tier (indexical-identity 22.6d, time-consciousness-growing-block 18.3d, creative-aesthetic-void
-    18.2d, attention-as-causal-bridge 17.9d) git-classifies as COSMETIC cross-link/reciprocal
-    touches from sibling creates+refines (deep_review_over_reviews_converged), or same-cycle
-    churn (near-death-experiences + phenomenal-concepts-strategy refined THIS cycle).
-    THE clean exception is concepts/qualia.md: last_deep_review 2026-06-03 but its OWN
-    body was substantively content-edited 2026-06-09 by an outer-review-driven refine
-    (commit ead071736, Claude+Gemini, "Resolve regress inconsistency + refresh stale
-    bibliography"). The change reworked the Frankish/illusionism "seeming" regress from
-    a flat "bare regress refutes illusionism" into a calibrated "bare regress is a
-    framework-boundary point, not an in-framework refutation; the self-representation
+    deep-review (concepts/qualia.md), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks
+    = 2 PRE-mint / 3 POST-mint (both verified; select_queue_task confirms the new
+    task selectable as DEEP_REVIEW at top of Active Tasks). MIN_QUEUE floor 3, unmet
+    by 1 pre-mint. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT deadlock: prior run no.585 (11:05Z) minted an embodied-cognition genuine-drift
+    deep-review which was PICKED + executed by the cycle slot (commit be74ed2ab, last_deep_review
+    now 2026-06-24T11:15:30Z, ai_modified == last_deep_review), dropping the live
+    floor 3->2. EIGHT-SOURCE AUDIT re-run from LIVE DISK, all exhausted of clean MINT
+    candidates EXCEPT this one genuine-drift deep-review. (1 chain) zero open cross-review
+    chains -- today''s two expand-topic creates (topics/many-minds-interpretation,
+    concepts/simulation-theory-of-memory) already got fresh-create orphan-integration
+    deep-reviews this cycle (commits bf1c45336, adc5d11f6). (2 unconsumed research)
+    ZERO -- today''s 3 newest notes all disk-confirmed consumed: simulation-theory-of-memory
+    + many-minds-interpretation -> same-slug new articles, phenomenal-concept-strategy-2024-2026-update
+    -> existing-article currency refine of concepts/phenomenal-concepts-strategy (commit
+    4cd5a06f9, NOT a new-article seed). (3 gap/caps) topics 280/320 + concepts 268/320
+    + voids 101/100 + positions 8/80; gen harvester-governed (harvested Q3-dualism
+    research-topic already queued as a P3) + gap-analysis Vetoed-bank-dedup-blocked.
+    (4 genuine-drift) entire top drift tier (indexical-identity 22.6d, time-consciousness-growing-block
+    18.3d, creative-aesthetic-void 18.2d, attention-as-causal-bridge 17.9d) git-classifies
+    as COSMETIC cross-link/reciprocal touches from sibling creates+refines (deep_review_over_reviews_converged),
+    or same-cycle churn (near-death-experiences + phenomenal-concepts-strategy refined
+    THIS cycle). THE clean exception is concepts/qualia.md: last_deep_review 2026-06-03
+    but its OWN body was substantively content-edited 2026-06-09 by an outer-review-driven
+    refine (commit ead071736, Claude+Gemini, "Resolve regress inconsistency + refresh
+    stale bibliography"). The change reworked the Frankish/illusionism "seeming" regress
+    from a flat "bare regress refutes illusionism" into a calibrated "bare regress
+    is a framework-boundary point, not an in-framework refutation; the self-representation
     objection is the real pressure" (+ map/terrain analogy, forward-pointer to illusionism).
-    A refine bumps ai_modified but NOT last_deep_review, so the recalibrated argument is
-    UNVERIFIED by deep-review (coalesce-hides-review-debt sibling). Review must confirm
-    the recalibration is correctly hedged + did not over-correct (self-representation
+    A refine bumps ai_modified but NOT last_deep_review, so the recalibrated argument
+    is UNVERIFIED by deep-review (coalesce-hides-review-debt sibling). Review must
+    confirm the recalibration is correctly hedged + did not over-correct (self-representation
     objection must remain a live cost to illusionism per evidential-status-discipline),
     web-verify the refreshed bibliography 3-state (ai_citation_metadata_unreliable;
     Frankish/Shoemaker/Block/Jackson), currency-sweep, no This-is-not-X-it-is-Y cliche.
@@ -1240,51 +1239,50 @@ queue_status:
     (epistemology-of-convergence 6479w, born-rule 5118w, clinical-dissociation 4861w,
     time-collapse 4606w) / #veto (phenomenal-output 6989w, composition-question-rivals
     4106w, meaning-of-life 4160w) / index-hub (apex-articles) / accept-as-survey /
-    research-note -- NO clean condense. (6 orphan) orphaned_files=0. (7 positions) 8
-    entries <10 audit threshold, positions-evolve ran 06-22, slow-add. (8 applied-apex)
+    research-note -- NO clean condense. (6 orphan) orphaned_files=0. (7 positions)
+    8 entries <10 audit threshold, positions-evolve ran 06-22, slow-add. (8 applied-apex)
     3 extant, no high-confidence cluster gap. NOT vetoed (below-Vetoed hits are cross-link
     mentions in other tasks'' notes + completed/relocated entries), no OPEN deep-review
     duplicate for qualia (todo hits are completed historical tasks + cross-link refs).
-    New task inserted at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation). The
-    two pre-existing counted P2s (entropic-brain-hypothesis cross-links, parapsychology-firewall
+    New task inserted at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation).
+    The two pre-existing counted P2s (entropic-brain-hypothesis cross-links, parapsychology-firewall
     cross-links) and the four ASSESS-FIRST P3s untouched; the #veto condenses remain
     parser-excluded. Expect replenish-at-floor alternation to continue until the harvester
     / research->expand pipeline reopens.'
-  legacy_run_585_note: 'run no.585 (2026-06-24T11:05Z): MINTED 1 genuine-drift
-    deep-review (concepts/embodied-cognition.md), floor restored 2->3. Authoritative
-    tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint / 3 POST-mint (both
-    verified). MIN_QUEUE floor 3, unmet by 1 pre-mint. Documented replenish-at-floor
-    alternation (unfin_loop_steady_state), NOT deadlock: yesterday run no.567 promoted
-    embodied-cognition pessimistic-refine P3->P2, the cycle slot PICKED + executed
-    it (the 2026-06-23 refine commit 6482ecfab, now done below the Completed header),
-    dropping the live floor back to 2. EIGHT-SOURCE AUDIT re-run from LIVE DISK, all
-    exhausted of clean MINT candidates EXCEPT this one genuine-drift deep-review.
-    (1 chain) zero open cross-review chains -- today''s two expand-topic creates (topics/many-minds-interpretation,
-    concepts/simulation-theory-of-memory) already got fresh-create orphan-integration
-    deep-reviews this cycle (commits bf1c45336, adc5d11f6). (2 unconsumed research)
-    ZERO -- today''s 3 newest notes all disk-confirmed consumed: simulation-theory-of-memory
-    + many-minds-interpretation -> same-slug new articles, phenomenal-concept-strategy-2024-2026-update
-    -> existing-article currency refine of concepts/phenomenal-concepts-strategy (commit
-    4cd5a06f9, NOT a new-article seed). (3 gap/caps) topics 280/320 + concepts 268/320
-    + voids 101/100 + positions 8/80; gen harvester-governed (harvested Q3-dualism
-    research-topic already queued as a P3) + gap-analysis Vetoed-bank-dedup-blocked.
-    (4 genuine-drift) top drift tier git-classifies as cosmetic cross-touches (2-6
-    line reciprocal-wikilink edits from the heavy deep-review cycle) or same-cycle
-    churn; THE clean exception is concepts/embodied-cognition.md: last_deep_review
-    2026-06-02 (commit eeab18869) but own-body content-edited 2026-06-23 (commit 6482ecfab
-    auto(refine-draft) pessimistic-review argumentative-calibration, 5 ins/5 del).
-    A refine bumps ai_modified but NOT last_deep_review, so the post-refine calibration
-    changes are UNVERIFIED by deep-review (coalesce-hides-review-debt sibling). Review
-    must confirm the recalibration is correctly hedged + did not over-correct (evidential-status-discipline),
-    web-verify cites 3-state (ai_citation_metadata_unreliable), currency-sweep, no
-    This-is-not-X-it-is-Y cliche; older-model claude-opus-4-5 stamp = fresh-eyes justification.
-    LENGTH STRICT: 3498w soft_warning, only ~2w under the 3500 concepts hard ceiling
-    -- strictly length-neutral or trimming; on converged no-op stamp last_deep_review
-    only, on a body fix bump both AND keep net words <= current. (5 length) every
-    CONTENT offender human-deferred (epistemology-of-convergence 6479w, born-rule
-    5118w, clinical-dissociation 4861w, time-collapse 4606w) / #veto (phenomenal-output
-    6872w, composition-question-rivals 4106w) / index-hub (apex-articles 9788w) /
-    accept-as-survey (memory-channel, laws-and-dispositions, argument-from-reason,
+  legacy_run_585_note: 'run no.585 (2026-06-24T11:05Z): MINTED 1 genuine-drift deep-review
+    (concepts/embodied-cognition.md), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks
+    = 2 PRE-mint / 3 POST-mint (both verified). MIN_QUEUE floor 3, unmet by 1 pre-mint.
+    Documented replenish-at-floor alternation (unfin_loop_steady_state), NOT deadlock:
+    yesterday run no.567 promoted embodied-cognition pessimistic-refine P3->P2, the
+    cycle slot PICKED + executed it (the 2026-06-23 refine commit 6482ecfab, now done
+    below the Completed header), dropping the live floor back to 2. EIGHT-SOURCE AUDIT
+    re-run from LIVE DISK, all exhausted of clean MINT candidates EXCEPT this one
+    genuine-drift deep-review. (1 chain) zero open cross-review chains -- today''s
+    two expand-topic creates (topics/many-minds-interpretation, concepts/simulation-theory-of-memory)
+    already got fresh-create orphan-integration deep-reviews this cycle (commits bf1c45336,
+    adc5d11f6). (2 unconsumed research) ZERO -- today''s 3 newest notes all disk-confirmed
+    consumed: simulation-theory-of-memory + many-minds-interpretation -> same-slug
+    new articles, phenomenal-concept-strategy-2024-2026-update -> existing-article
+    currency refine of concepts/phenomenal-concepts-strategy (commit 4cd5a06f9, NOT
+    a new-article seed). (3 gap/caps) topics 280/320 + concepts 268/320 + voids 101/100
+    + positions 8/80; gen harvester-governed (harvested Q3-dualism research-topic
+    already queued as a P3) + gap-analysis Vetoed-bank-dedup-blocked. (4 genuine-drift)
+    top drift tier git-classifies as cosmetic cross-touches (2-6 line reciprocal-wikilink
+    edits from the heavy deep-review cycle) or same-cycle churn; THE clean exception
+    is concepts/embodied-cognition.md: last_deep_review 2026-06-02 (commit eeab18869)
+    but own-body content-edited 2026-06-23 (commit 6482ecfab auto(refine-draft) pessimistic-review
+    argumentative-calibration, 5 ins/5 del). A refine bumps ai_modified but NOT last_deep_review,
+    so the post-refine calibration changes are UNVERIFIED by deep-review (coalesce-hides-review-debt
+    sibling). Review must confirm the recalibration is correctly hedged + did not
+    over-correct (evidential-status-discipline), web-verify cites 3-state (ai_citation_metadata_unreliable),
+    currency-sweep, no This-is-not-X-it-is-Y cliche; older-model claude-opus-4-5 stamp
+    = fresh-eyes justification. LENGTH STRICT: 3498w soft_warning, only ~2w under
+    the 3500 concepts hard ceiling -- strictly length-neutral or trimming; on converged
+    no-op stamp last_deep_review only, on a body fix bump both AND keep net words
+    <= current. (5 length) every CONTENT offender human-deferred (epistemology-of-convergence
+    6479w, born-rule 5118w, clinical-dissociation 4861w, time-collapse 4606w) / #veto
+    (phenomenal-output 6872w, composition-question-rivals 4106w) / index-hub (apex-articles
+    9788w) / accept-as-survey (memory-channel, laws-and-dispositions, argument-from-reason,
     epistemic-advantages) / research-note -- NO clean condense. (6 orphan) orphaned_files=0.
     (7 positions) 8 entries <10 audit threshold, positions-evolve ran 06:20Z, slow-add.
     (8 applied-apex) 3 extant, no high-confidence cluster gap. NOT vetoed (below-Vetoed
