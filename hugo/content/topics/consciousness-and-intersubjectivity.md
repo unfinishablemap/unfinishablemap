@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-06-13 13:46:48+00:00
+ai_modified: 2026-06-24 12:28:42+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,14 +18,14 @@ description: Is consciousness constitutively intersubjective or fundamentally so
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 07:35:02+00:00
+last_deep_review: 2026-06-24 12:28:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[voids-between-minds]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
-- '[[problem-of-other-minds]]'
+- '[[self-and-self-consciousness]]'
 - '[[consciousness-and-testimony]]'
 title: Consciousness and Intersubjectivity
 topics:

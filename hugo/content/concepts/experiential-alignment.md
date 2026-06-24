@@ -25,7 +25,7 @@ description: AI should target experiential quality, not preference satisfaction.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-25 19:04:41+00:00
+last_deep_review: 2026-06-24 16:22:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

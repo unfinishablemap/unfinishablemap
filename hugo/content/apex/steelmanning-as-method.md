@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-24 11:53:36+00:00
+ai_modified: 2026-06-24 13:21:56+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-24 11:53:36+00:00
 apex_sources:
@@ -34,7 +34,7 @@ description: 'A reusable method the Map performs but rarely names: build the str
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 00:00:00+00:00
+last_deep_review: 2026-06-24 13:21:56+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -126,7 +126,7 @@ At the topic and concept tier, [mental effort](/concepts/mental-effort/) ledgers
 
 ## Single-Move Exhibits Across Domains
 
-Where the dissociation apex performs all four moves at once, a cluster of shorter articles each performs *one* move with textbook clarity — across domains far enough apart that the method's generality, not a single case's idiosyncrasy, is what they jointly demonstrate. Each grants the rival's mechanism in full and contests only its eliminative gloss; each labels the move "accommodation, not proof."
+Where the dissociation apex performs all four moves at once, a cluster of shorter articles each performs *one* move with textbook clarity — across domains far enough apart that the method's generality, not a single case's idiosyncrasy, is what they jointly demonstrate. Each grants the rival's mechanism in full and contests only its eliminative gloss; each frames the result as accommodation rather than proof.
 
 **Move one, building the unified rival.** [The many-minds interpretation](/topics/many-minds-interpretation/) assembles the *closest mainstream rival* to the Map's own interface model — a reading of quantum mechanics that keeps physical reality single (friendly to the No-Many-Worlds tenet) yet still multiplies experiencers, built in Albert–Loewer's and Lockwood's own vocabulary and conceding its leading version's admitted non-supervenience. The discipline is visible in what the article *refuses*: it declines the cheap parsimony win ("the Map must *not* lean on 'an infinity of minds is profligate'") and defeats the rival on the load-bearing axis instead — "the load-bearing objection to MMI is *indexical*, not ontological: not 'too many minds' but 'no fact about which mind is mine.'" That is the strongest rival attacked where it is weak, not where it is merely large.
 

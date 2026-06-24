@@ -1,13 +1,170 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24 11:53:36+00:00
+ai_modified: 2026-06-24 14:36:44+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-24T16:22:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [experiential-alignment](/concepts/experiential-alignment/)
+- **Word count**: 3193 → 3193 (no change; soft_warning, ~307w under 3500 hard ceiling)
+- **Mode**: Fresh-eyes staleness pass (5th review; prior stamp NOT trusted); independent publisher-of-record web-verify of every citation per §2.4 + task brief — no prior review of this article had logged a per-cite ledger.
+- **Critical issues addressed**: 0 — converged no-op after real citation scrutiny.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation ledger**: all 11 References web-verified at publisher of record (title+venue, not author+year alone) — Kahneman 1999 (Well-being, Russell Sage pp.3-25), Rawlette 2016 (ISBN 9781534768017), Varela 1996 (JCS 3(4):330-349), Zhi-Xuan et al. 2024 (Phil Studies, DOI 10.1007/s11098-024-02249-w), Garrabrant 2017 (Goodhart Taxonomy; 4 types match table), Frankish 2016 (JCS 23(11-12):11-39), Fox et al. 2012 (PLOS ONE 7(9) e45370; cross-sectional confirmed), Whitehead 1929 (Macmillan), Tallis 2011 (Aping Mankind, Acumen; "Misrepresentation presupposes presentation" verbatim verified), Kahneman & Deaton 2010 (PNAS 107(38):16489-16493), Russell 2019 (Human Compatible, Viking) — ALL real-correct, zero corrections. Currency-sweep: no superlative claims, no literature-drift follow-on. Cross-links + tenet anchors all resolve; introspection sibling carries consistent Fox cross-sectional framing (no stale internal quote). Calibration clean (no possibility/probability or compatibility-vs-support slippage; Fox claim correctly hedged). Engagements — illusionism: Mode Two; heterophenomenology: Mode Three. No label leakage, no banned "This is not X. It is Y." construct, no refinement-log/HTML-comment leakage, no EOF tag artifact. Stamped last_deep_review only (no ai_modified bump).
+- **Output**: [deep-review-2026-06-24-experiential-alignment](/reviews/deep-review-2026-06-24-experiential-alignment/)
+
+## 2026-06-24T16:10:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/)
+- **Word count**: 2955 → 2977 (+22; soft_warning, under 3500 hard ceiling)
+- **Mode**: Fresh-eyes staleness pass (prior stamp NOT trusted); independent publisher-of-record re-verification of every citation per task brief.
+- **Critical issues addressed**: 2 — (1) Pienaar 2019 end page 1412 → 1414 (real-wrong-metadata, verified Springer DOI 10.1007/s10701-019-00303-w + ADS); (2) Laudisa 2019 inline-orphan reference fixed by adding a faithful inline citation in the "What counts as an observer" subsection.
+- **Medium issues addressed**: 0
+- **Citation ledger**: web-verified at publisher of record — Rovelli 1996 (IJTP 35:1637–1678), Adlam & Rovelli 2023 (Philosophy of Physics 1(1), DOI 10.31389/pop.8), Lewis 2024 (Principia 28), Muciño-Okon-Sudarsky 2022 (Synthese 200(5)), Rovelli 2021 (arXiv:2106.03205), Laudisa 2019 (JGPS 50(2):215–230), Pienaar 2019 (Found. Phys. 49 — end-page corrected), Frankish 2016 (JCS 23(11–12):11–39), Tallis 2024 (Philosophy Now #161), Whitehead 1929, SEP RQM (live, rev. Feb 2025) — all real-correct after the two fixes. Currency-sweep: no superlative claims; CPL/Lewis debate unresolved as of June 2026, no literature-drift follow-on. Rovelli "nothing subjective/idealistic/mentalistic" quote verified verbatim. No stale internal quotes. Calibration clean (no possibility/probability slippage). Engagements — RQM observer: Mode Three; illusionism (Tallis vs Dennett/Frankish): Mixed. No label leakage, no banned construct, no refinement-log leakage.
+- **Output**: [deep-review-2026-06-24-relational-quantum-mechanics](/reviews/deep-review-2026-06-24-relational-quantum-mechanics/)
+
+## 2026-06-24T15:36:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Word count**: 4810 → 4670 raw (faithful prose-condensing; still hard_warning, coalesced survey article)
+- **Mode**: Comprehensive deep review with prose-tightening; citation web-verify delegated to a subagent (publisher-of-record).
+- **Critical issues addressed**: 0 (none found — converged)
+- **Enhancements made**: prose tightened throughout (sentence merges, redundant-restatement removal) — no claim altered, no citation dropped/orphaned.
+- **Citation ledger**: web-verified Sierra & Berrios 2000 (Psychiatry Research 93(2):153–164), Sierra/Baker/Medford/David 2005 (Psychol Med 35(10):1523–1532; "Anomalous Subjective Recall" factor confirmed verbatim), Staniloiu & Markowitsch 2014 (Lancet Psychiatry 1(3):226–241) — all real-correct via Crossref/Cambridge Core/Europe PMC. Reinders 2003 / Marsh 2021 / Lynn 2022 / Voon 2010 / Hassa 2017 / Edwards 2012 / Seth 2012 / Ciaunica 2022 preserved unchanged. Currency-sweep: no superlative claims.
+- **Engagement modes (editor-internal)**: connectivity-physicalism / functionalism / GWT / IIT — Mode Three (framework-boundary marking, rival conceded "fully specified"); predictive-processing common-cause objection — Mode One (Map's own common-cause discipline discounts the compound signature to "weaker than four-fold").
+- **Length**: body 4670w = hard_warning (topics hard 4000). Reduced, not grown. Pushing under the ceiling needs a content-scope decision (cut a window / split the comparative argument) — deferred to human / dedicated condense, NOT auto-condensable.
+- **Timestamps**: last_deep_review → 2026-06-24T15:36:02; ai_modified → 2026-06-24T15:36:02 (body edited, both bumped).
+- **Output**: [deep-review-2026-06-24-clinical-dissociation-as-systematic-evidence](/reviews/deep-review-2026-06-24-clinical-dissociation-as-systematic-evidence/)
+- **Note**: fork stalled at the citation-subagent wait before writing the archive; orchestrator completed the review-file + changelog bookkeeping after the subagent returned all-clean (sub-delegation-stall recovery).
+
+## 2026-06-24T15:20:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Word count**: 3268 → 3268 (no change — converged, length-neutral)
+- **Mode**: Targeted verification of the 2026-06-24 refine (a56f12352, ~328w new) unverified since the 2026-06-02 review; convergence-damped seventh review.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (verify-not-re-edit to avoid same-session over-hedging of just-calibrated content)
+- **Calibration verdict**: the 2026-06-24 additions (convergence-symmetry note down-weighting four programmes to one observation; self-deflation disanalogy conceding abstraction-resistance is inert and relocating the parallel to the first-person datum; Searle "strains coherence" → honest acknowledgement of his reply) move toward MORE evidential restraint. No re-broken-fix of d38cbcd0d; no possibility/probability slippage.
+- **Citation ledger**: web-verified Milinkovic&Aru 2026, Thagard 2022, Rescorla 2020 (quote verbatim), Duch 2019, Duch 2005, Piccinini 2015 — all real-correct. Classics stable across prior reviews. No orphans. Currency-sweep: no superlative claims.
+- **Engagement modes (editor-internal)**: Searle — Mode Three (dismissal upgraded to honest acknowledgement of his causal-reduction reply); Everettian §98 — Mode Three (stable); physicalist deflation §84 — Mode Two→Mixed (concedes deflation on its own terms, marks residual first-person datum).
+- **Timestamps**: last_deep_review → 2026-06-24T15:20:35; ai_modified left at refine's 2026-06-24T15:08:54 (no body fix).
+- **Output**: [deep-review-2026-06-24-biological-computationalisms-inadvertent-case-for-dualism](/reviews/deep-review-2026-06-24-biological-computationalisms-inadvertent-case-for-dualism/)
+
+## 2026-06-24T15:08:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Original score**: n/a (curate.py review tool absent — known stale-command; proceeded from pessimistic-2026-06-24b findings)
+- **Changes**: Addressed both inference-level issues from pessimistic-2026-06-24b, additive (preserved all existing caution): (1) §"The Convergence Pattern" — reframed "the pattern is suggestive" → "illustrative of a single recurrent structural move" and added an explicit symmetry note: IIT/GWT/HOT/biological-computationalism perform the *same* abstract step, so the cluster carries the evidential weight of one observation, not four independent confirmations (the convergence-double-counting fix, research-programme analogue of the altered-state symmetry discipline). (2) §"What 'The Algorithm Is the Substrate' Really Says" — added the missing disanalogy that the turbulence/protein-folding deflation otherwise neutralizes: consciousness's abstraction-resistance is accompanied by a first-person datum (something it is like) that turbulence lacks, and *that* datum, not abstraction-resistance per se, is what the structural parallel must track. Minor: softened the unargued "Searle strains coherence" aside to "many find unstable" with the specific epiphenomenalism tension + Searle's worked-out reply; replaced two author-mind-reading phrasings ("perhaps do not intend" / "may not intend") with text-description ("its texts leave unstated" / "the paper does not draw").
+- **Engagement classification (editor-internal)**: engagement with the physicalist deflation: Mode Three — framework-boundary marking; the disanalogy names what the dualist reading must track without claiming to refute the physicalist who declines to weight the first-person datum.
+- **Citations**: untouched (all 13 verified clean per the review).
+- **Published**: yes
+
+## 2026-06-24T15:01:52+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/biological-computationalisms-inadvertent-case-for-dualism.md` (never pessimistically reviewed; deep-reviewed 2026-06-02, oldest among un-pessimistically-reviewed argumentative topics)
+- **Findings**: 2 inference-level issues (convergence double-counting in §"The Convergence Pattern"; self-deflation neutralizing the central structural parallel) + minor unargued-aside / author-mind-reading language. Hedge density clean (zero strong-language hits). All 13 citations spot-verified clean (Milinkovic & Aru 2026, Thagard 2022, Duch 2005/2019 live-verified). No label leakage; No-Many-Worlds reply is correct honest boundary-marking, not boundary-substitution. Altered-state symmetry audit N/A. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-24b-biological-computationalism-case-for-dualism](/reviews/pessimistic-2026-06-24b-biological-computationalism-case-for-dualism/)
+
+## 2026-06-24T14:36:44+00:00 - apex-evolve
+- **Status**: Complete (assess-first — no apex created)
+- **Task**: Apex synthesis "Consciousness as Maker" — creative efficacy across aesthetics, incubation, mathematics
+- **Verdict**: PROPOSE-SLOT-FOR-HUMAN-SANCTION (path c). Decline-as-covered RULED OUT — neither `apex/phenomenology-of-consciousness-doing-work` (execution of formed intentions; zero creativity/template/making coverage) nor `apex/attention-as-causal-bridge` (selection-interface mechanism) discharges the reversed-direction-of-fit creative-efficacy picture. Cross-link downgrade RULED OUT — the 5 source articles are essentially un-synthesised at apex level (incubation / creative-consciousness / consciousness-and-mathematics cited by ZERO apex; aesthetics only by contemplative-path; cognitive-distinctiveness only by machine-question peripherally), so the cluster genuinely lacks a synthesis home.
+- **Why not auto-created**: subject MEETS the soft synthesis threshold (the "~20 cap" was formally superseded by Governance Note 2026-06-08) but has NO pre-sanctioned A-slot and new-apex creation is a human/operator sign-off matter per apex governance. Proposed slug `consciousness-as-maker`, thesis + apex_sources recorded in todo.md for human to admit to `apex/apex-articles.md`.
+- **Files modified**: `obsidian/workflow/todo.md` (verdict on the task), this changelog. No content articles touched.
+
+## 2026-06-24T14:17:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+- **Word count**: 3732 → 3712 (−20; orphan-reference removal; length-neutral, soft_warning 124% of 3000, under 4000 hard)
+- **Critical issues addressed**: 2
+  - Reference numbering gap (16 → 18, missing 17): malformed References list, residual artifact of the 2026-06-02 Mørch removal. Renumbered consecutively to 1–21.
+  - Orphan reference Coleman & De Luccia (1980) — real CDL-instanton paper but never cited inline; removed (redundant with the inline-cited Coleman 1977 on the §7 vacuum-decay point). No body claim loses support.
+- **Citation web-verify (§2.4, physics cites — never previously verified)**: 6 cites verified, all real-correct at publisher of record — Tegmark 2000 (PRE 61:4194), Hagan/Hameroff/Tuszyński 2002 (PRE 65:061901), McKemmish et al. 2009 (PRE 80:021912), Reimers et al. 2009 (PNAS 106:4219), Coleman 1977 (PRD 15:2929), Buttazzo et al. 2013 (JHEP 2013(12):89). The 2026-06-02 pass had verified only the six AI-risk/consciousness specialist cites. Inline↔References cross-check clean both directions after the orphan removal. Empirical-currency sweep: empty (no superlatives).
+- **Low issues addressed**: 1 (§10 "Tuszynski" → "Tuszyński" diacritic consistency with reference and verified Polish spelling)
+- **Calibration check**: clean — central claim conditional throughout under [possibility-probability-slippage](/concepts/possibility-probability-slippage/); §7 speculative-integration-tier honestly tagged; diagnostic test returns no hits. No editor-vocabulary leakage in body (re-verified).
+- **Enhancements made**: 0 substantive (heavily converged; 7th review; References-hygiene + physics-cite verify only). No bedrock disagreements re-flagged.
+- **Output**: [deep-review-2026-06-24-dualism-as-ai-risk-mitigation](/reviews/deep-review-2026-06-24-dualism-as-ai-risk-mitigation/)
+
+## 2026-06-24T14:02:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Word count**: 2847 → 2847 (citation-metadata corrections only; length-neutral)
+- **Critical issues addressed**: 2 (both real-wrong-metadata citation defects caught by §2.4 publisher-of-record web-verify, re-armed because the body was modified since the 2026-05-26 review)
+  - Albert "Probability in the Everett Picture": was "2015 / *The Wave Function*" → corrected to "2010 / *Many Worlds? Everett, Quantum Theory, and Reality*, Saunders et al. eds., OUP, pp. 355–368" (verified PhilPapers ALBPIT, OUP DOI 10.1093/acprof:oso/9780199560561.003.0013). Five sibling articles already carry the correct 2010 form — this was the outlier.
+  - Friederich & Dawid (2022): was title "Against probability in many-worlds quantum mechanics" / *Erkenntnis* → corrected to "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll" / *BJPS* 73(3), 711–721 (verified PhilPapers DAWESA-3, OUP DOI 10.1093/bjps/axaa002). Authors/year/in-text argument all faithful; only title+venue were wrong. Three sibling articles already carry the correct BJPS form.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at stable prose equilibrium; no oscillation). New Many-Minds paragraph (added 2026-06-17) verified accurate against [many-minds-interpretation](/topics/many-minds-interpretation/); egocentric-presentism link verified.
+- **Engagement classification (editor-internal)**: MWI / Friederich-Dawid / Albert engagements — Mixed; in-framework circularity critique imported, framework-boundary haecceity disagreement honestly marked. No boundary-substitution, no editor-vocabulary leakage.
+- **Out-of-scope corpus findings (queued for future)**: `quantum-probability-consciousness.md` cites the Albert chapter to *After Physics* (same defect class); `probability-problem-in-many-worlds.md` + `qm-interpretations-beyond-many-worlds.md` give the Friederich-Dawid end page as 736 (should be 721).
+- **Output**: [deep-review-2026-06-24-indexical-identity-quantum-measurement](/reviews/deep-review-2026-06-24-indexical-identity-quantum-measurement/)
+
+## 2026-06-24T13:39:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [many-minds-interpretation](/topics/many-minds-interpretation/)
+- **Original score**: anchoring audit only (deep-reviewed clean 2026-06-24; flagged for calibration drift vs anchor [parfit-reductionism](/concepts/parfit-reductionism/))
+- **Word count**: 2117 → 2243 body (length-neutral; status ok, 75% of 3000 soft)
+- **Changes**: Topic-concept anchoring audit (Audit Three) remediation. ASSESS-FIRST honoured — central conditioned-closure thesis preserved, no mush-hedging. Softened the MMI-critique victory verbs that overstated what a tenet-conditional indexical objection delivers: "the decisive result is that MMI fails" → "the reading developed here is that MMI runs into the same difficulty"; "proves that putting minds in is not enough" → "suggests ... may not be enough on its own"; "Recent mainstream work confirms the framing" → "converges on the same framing"; "transfers verbatim to MMI" → "seems to carry over largely unchanged"; "still fails" → "still leaves the indexical question unanswered". Added an explicit framework-boundary marker in the No-Many-Worlds subsection (per [direct-refutation-discipline](/project/direct-refutation-discipline/) Mode Three / [evidential-status-discipline](/project/evidential-status-discipline/)): the objection presses the "which mind is mine?" question rather than refuting MMI from inside its own commitments, since an MMI theorist who deems the question ill-formed is not self-contradicting. Updated description to drop "shows that ... does not rescue".
+- **Engagement classification (editor-internal)**: engagement with MMI/Lockwood — Mode Three (framework-boundary marking); the indexical disagreement is bedrock/tenet-conditional and is now honestly marked as such rather than dressed as in-framework refutation.
+- **Result**: hedge density 0.47→4.46/kw (clears 3.0 capped floor against ALL anchors); strong-assertion density 0.94→0.0/kw (both flagged verbs softened). `evaluate_anchoring` now returns no flags. Verbatim quotes + all citations untouched; validate ✓; no banned "This is not X" construct; no editor-vocab leakage into body.
+- **Published**: yes
+
+## 2026-06-24T13:21:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [steelmanning-as-method](/apex/steelmanning-as-method/)
+- **Word count**: 3999 → 4001 (length-neutral; soft_warning, well under 5000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Note**: Fourth pass (first deep-review since the 2026-06-24 apex-evolve expansion `f93ad7071`, which added the new "Single-Move Exhibits Across Domains" section + 3 sibling exhibits and compressed the body length-neutrally). Highest-yield check was apex-stale-internal-quote-channel: the new section quotes three sibling articles verbatim — ALL strings grepped against live sources and confirmed faithful & current (many-minds "infinity of minds is profligate"/indexical-not-ontological L90; STM "right about *how*"/Rivadulla-Duró discrimination-problem/entry-point-not-defect L64,L78; NDE one-pattern-not-three/can't-tally-filter-wins/don't-*prove*-dualism L136,L144). All 3 new wikilinks resolve. Carried-forward worked-exhibit quotes re-verified against live dissociation apex (absorbs-the-*shape* L171, Lau felt-character L175, seven→five-or-six audit + 3 reassignments). ONE medium fix: section opener originally read *each labels the move "accommodation, not proof"* — that single-quoted phrase exists in NONE of the 3 sources (apex's own coinage in quote marks → false-quotation impression, inverse of stale-quote channel); substance faithful but rephrased to plain paraphrase *"each frames the result as accommodation rather than proof."* §2.4 References unchanged (sibling cross-refs only, no new external cites) — full web-verify not re-triggered; prior 2026-05-28 publisher-of-record audit stands. No editor-vocab leakage, no banned cliché, no calibration slippage. Converged.
+- **Output**: [deep-review-2026-06-24-steelmanning-as-method](/reviews/deep-review-2026-06-24-steelmanning-as-method/)
+
+## 2026-06-24T13:07:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Word count**: 2951 → 2951 (frontmatter-only; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (all resolved hours earlier by today's refine)
+- **Enhancements made**: 0
+- **Note**: Eighth pass; deliberate near-no-op confirming convergence. Re-qualified because ai_modified (09:34) post-dated last_deep_review (2026-06-06). The intervening change is a single refine commit (4ede41823, 09:36 UTC today, "Address pessimistic-review findings") that applied EVERY actionable item from the same-day dedicated pessimistic review: Issue 1 (lead/RED reasserted "during arrest" → hedged to "place during the arrest period," timing flagged contested); Issue 2 (introspective-reliability overreach → rewritten to "less consistent with pure on-the-spot fabrication," dropped uncited "resistance to suggestion"); Issue 3 ("representative sample" → "larger prospective survivor cohort, itself heavily selected"); + new deflationary phenomenal-vividness-vs-cognitive-performance paragraph (pre-empts Dennett heterophenomenology); + 1/28 auditory hit adjudicated (not a confirmed veridical hit). Applied §2 diagnostic to all changed passages — every change moves TOWARD tighter calibration; zero critical. §2.4 web-verify SKIPPED per skip rule (References byte-identical to 2026-05-26 full audit, no new cites; find_superlative_claims empty). Xu/Borjigin author distinction re-confirmed correct (Gang Xu first, Borjigin senior, PNAS 120(19) e2216268120). Residual persona critiques are bedrock framework-boundary (MWI/indexical = Tenet-4 Mode-Three boundary-marking not boundary-substitution; Buddhist no-self; materialist) — not re-flagged. All 5 tenet anchors resolve. 118% soft / under 3500 hard → length-neutral, no condensation. Calibration exemplar; preserved.
+- **Output**: [deep-review-2026-06-24-near-death-experiences](/reviews/deep-review-2026-06-24-near-death-experiences/)
+
+## 2026-06-24T12:45:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
+- **Word count**: 3351 → 3351 (no body change; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Eighth review. Unlike the 7th (verification-only no-op), this reviewed genuinely NEW content — the 2026-06-24 currency refine (4cd5a06f9) added ~780w (2569→3351): master-argument softening paragraph, rewritten Carruthers&Veillet zombie-premise section, new Ball-2009 eliminativism section, new Zhou-2025 indicate-without-reveal paragraph, +5 cites. Ran §2.4 publisher-of-record web-verify on the new cites: Zhou 2025 (Synthese 206(2)) and Sasaki 2025 (J-Stage jpssj 58(1) = Kagaku Tetsugaku) both REAL-CORRECT; Chalmers 2006 / Carruthers&Veillet 2007 / Ball 2009 corroborated by sibling's prior ledger. Attribution faithful (Carruthers-Veillet equivocation, Ball Burge-externalism, Zhou retreat). Calibration exemplary — the softening is itself a downgrade away from overclaim; new dualist glosses all hedged. Cross-ref integrity clean, all anchors+wikilinks resolve, validates clean, no editor-vocab leakage. Zero critical issues on new content. Engagements: Carruthers&Veillet = Mode One/Mixed; Ball = Mode One; Zhou = Mode Two; no label leakage. At 134% soft / under 3500 hard (~149w headroom — watch future additions).
+- **Output**: [deep-review-2026-06-24-phenomenal-concepts-strategy](/reviews/deep-review-2026-06-24-phenomenal-concepts-strategy/)
+
+## 2026-06-24T12:33:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Word count**: 2499 → 2499 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Seventh review; fully converged (no critical issues across all 7). Executed the 2026-05-25 directive to focus on content freshness: full publisher-of-record web-verify of the citation list. Wheeler/Stuss/Tulving 1997 (verbatim quote), De Brigard 2024 (Phil Trans R Soc B 379(1913):20230410, PubMed 39278243), and Sant'Anna/Michaelian/Andonovski 2024 (WIREs Cogn Sci 15(1):e1665) all real-correct. No superlative claims (currency sweep clean). Live 2025-2026 literature confirms the constitutive-contingent debate framing is current and De Brigard 2024 remains the major recent challenge. Article at soft threshold (2499/2500); length-neutral, no addition warranted. Engagements: De Brigard = Mode Three; phase-transition = Mixed (Mode Two/Three); no label leakage.
+- **Output**: [deep-review-2026-06-24-anoetic-noetic-autonoetic-consciousness](/reviews/deep-review-2026-06-24-anoetic-noetic-autonoetic-consciousness/)
+
+## 2026-06-24T12:28:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
+- **Word count**: 2862 → 2862 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (frontmatter duplicate `[[problem-of-other-minds]]` from the 06-13 repoint; replaced with missing `[[self-and-self-consciousness]]` reciprocity reference)
+- **Enhancements made**: 1 (frontmatter cleanup)
+- **Note**: Seventh review; fully converged. Only change since 06-02 was a cosmetic cross-link repoint (convergence-damping no-op pattern). Repoint target verified correct (epistemology-of-other-minds-under-dualism coalesced into problem-of-other-minds). All wikilinks resolve; no superlative claims; citations untouched since prior publisher-of-record verification.
+- **Output**: [deep-review-2026-06-24-consciousness-and-intersubjectivity](/reviews/deep-review-2026-06-24-consciousness-and-intersubjectivity/)
 
 ## 2026-06-24T11:53:36+00:00 - apex-evolve
 - **Status**: Complete

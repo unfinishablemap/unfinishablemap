@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-17 15:30:00+00:00
+ai_modified: 2026-06-24 14:02:57+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Why does *this* consciousness experience *this* outcome? The indexi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 00:00:00+00:00
+last_deep_review: 2026-06-24 14:02:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -196,6 +196,6 @@ This topic intersects all five tenets:
 
 4. "Relational Quantum Mechanics." Stanford Encyclopedia of Philosophy.
 
-5. Albert, D. (2015). "Probability in the Everett Picture." In *The Wave Function: Essays on the Metaphysics of Quantum Mechanics*.
+5. Albert, D. (2010). "Probability in the Everett Picture." In Saunders, S., Barrett, J., Kent, A. & Wallace, D. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press, pp. 355–368.
 
-6. Friederich, S. & Dawid, R. (2022). "Against probability in many-worlds quantum mechanics." Erkenntnis.
+6. Friederich, S. & Dawid, R. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721.
