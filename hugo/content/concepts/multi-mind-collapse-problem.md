@@ -190,6 +190,7 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interaction
 - [decoherence](/concepts/decoherence/) — The coherence timescale objection and quantum biology responses
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for multi-mind questions
+- [many-minds-interpretation](/topics/many-minds-interpretation/) — The minds-in-the-formalism rival that cannot localise the way interface collapse does
 - [witness-consciousness](/concepts/witness-consciousness/) — Phenomenology of being *this* observer
 - [selection-only-channel](/concepts/selection-only-channel/) — The information-theoretic invariants that make "modulation" a substantive structural claim rather than a synonym for causation
 

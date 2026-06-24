@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-06 00:00:00+00:00
+ai_modified: 2026-06-24 09:34:41+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -38,7 +38,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Near-death experiences (NDEs) are vivid cognitive events whose prevalence depends on definition and study design. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reporting NDEs. AWARE II (Parnia et al. 2023) found that among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported some form of conscious awareness during arrest—though this figure reflects a self-selected sample and cannot be generalized to all survivors. A 2022 multidisciplinary consensus established standardized terminology ("Recalled Experience of Death"), followed by multi-site prospective studies and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people report heightened, coherent experiences during severe cerebral ischemia—when brain function should be deeply compromised. This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports The Unfinishable Map's [Dualism](/tenets/#dualism) and [Occam's Razor Has Limits](/tenets/#occams-limits) tenets.
+Near-death experiences (NDEs) are vivid cognitive events whose prevalence depends on definition and study design. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reporting NDEs. AWARE II (Parnia et al. 2023) found that among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported some form of conscious awareness during arrest—though this figure reflects a self-selected sample and cannot be generalized to all survivors. A 2022 multidisciplinary consensus established standardized terminology ("Recalled Experience of Death"), followed by multi-site prospective studies and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people recall, on returning, heightened and coherent experiences they place during the arrest period—when brain function should be deeply compromised (whether the experiences occurred during arrest or were constructed during recovery is itself contested; see the gamma-surge timing discussion below). This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports The Unfinishable Map's [Dualism](/tenets/#dualism) and [Occam's Razor Has Limits](/tenets/#occams-limits) tenets.
 
 The evidence is contested but cannot be easily dismissed. Van Lommel's landmark 2001 study found only 18% of cardiac arrest survivors reported NDEs—paradoxical if NDEs are purely physiological responses to anoxia, since nearly all patients experienced the same physiological state. Something distinguishes experiencers from non-experiencers, and that something remains incompletely explained—though recall bias (recall is independently known to be selective) and unmeasured physiological variation are sufficient mundane candidates.
 
@@ -55,7 +55,7 @@ Common RED features include:
 - **Profound peace**: Deep tranquility and loss of fear of death
 - **Reluctant return**: Sense of being sent back against one's preference
 
-The terminology shift matters: RED emphasizes that subjects recall awareness during documented cardiac arrest, when brain function should be severely compromised.
+The terminology shift matters: RED emphasizes that subjects recall, on return, awareness they attribute to a period of documented cardiac arrest, when brain function should be severely compromised. (The terminology deliberately fixes the *recall* without prejudging whether the awareness occurred during the arrest or was assembled during recovery.)
 
 ## Major Research Studies
 
@@ -75,7 +75,7 @@ Sam Parnia's multi-center study: 567 cardiac arrests across 25 hospitals. Only 2
 - 39.3% (11/28) of interviewed survivors reported perceptions suggestive of consciousness during cardiac arrest
 - Four categories emerged: CPR-induced consciousness (7.1%), post-resuscitation emergence (7.1%), dream-like experiences (10.7%), transcendent RED (21.4%)
 - **Crucial finding**: Normal EEG activity emerged as long as 35-60 minutes into CPR despite severe cerebral ischemia (mean oxygen saturation 43%)
-- Hidden image and audio tests: Only 1/28 identified the auditory stimulus; none identified the visual image
+- Hidden image and audio tests: none identified the visual image, and the single auditory identification (1/28) was not treated by the authors as confirmed veridical perception—at that rate it is consistent with chance or expectancy rather than genuine access
 
 The EEG finding is significant. Consciousness-consistent brain patterns appeared during CPR when brain function should be deeply suppressed. This doesn't prove consciousness is independent of the brain, but it demonstrates that the brain-consciousness relationship during dying is more complex than expected.
 
@@ -89,7 +89,7 @@ The finding is ambiguous. Gamma surges might *cause* NDEs, demonstrating that vi
 
 The strongest NDE evidence involves "veridical" cases—experiencers reporting verifiable information they could not have obtained normally. **Pam Reynolds (1991)** reported accurate surgical details during "standstill" surgery (body cooled to 60°F, blood drained from brain, EEG flat), though skeptics argue the experience may have occurred during anesthesia induction or emergence.
 
-The AWARE studies tested veridical perception systematically with hidden images in resuscitation rooms. No patient has identified a hidden image in controlled conditions. This doesn't disprove veridical perception (few patients survive with memories, and fewer would be positioned to see targets), but the strongest evidence remains anecdotal.
+The AWARE studies tested veridical perception systematically with hidden images in resuscitation rooms. No patient has identified a hidden image in controlled conditions; the lone auditory identification in AWARE II (1/28) was not counted by the investigators as a confirmed hit, being indistinguishable from chance at that rate. This doesn't disprove veridical perception (few patients survive with memories, and fewer would be positioned to see targets), but the strongest evidence remains anecdotal.
 
 ## Materialist Explanations
 
@@ -101,7 +101,7 @@ These explanations share a pattern: they identify neural correlates of NDE featu
 
 [Illusionists](/concepts/illusionism/) would argue NDEs don't require explaining consciousness during brain compromise—NDE reports are data about how things *seemed*, and memory consolidation during recovery could construct vivid narratives without requiring actual awareness during arrest.
 
-Two responses: First, the "illusion" of NDE experience must itself be explained—if physical processes cannot generate phenomenal consciousness, they cannot generate an illusion that feels "more real than real." Second, NDE [introspective reports](/concepts/introspection/) show characteristics of reliable phenomenal access: cross-cultural commonalities (though with cultural variation in interpretation), resistance to suggestion, and transformation effects persisting for decades. Van Lommel's longitudinal follow-up found that NDE experiencers maintained significant personality changes and reduced fear of death at eight-year follow-up, whereas non-experiencers showed no comparable shifts—a pattern more consistent with genuine experience than post hoc confabulation.
+Two responses: First, the "illusion" of NDE experience must itself be explained—if physical processes cannot generate phenomenal consciousness, they cannot generate an illusion that feels "more real than real." Second, features of NDE [introspective reports](/concepts/introspection/)—cross-cultural commonalities (though with cultural variation in interpretation) and transformation effects persisting for decades—make pure *on-the-spot* fabrication during reporting less likely. None of these establishes that the reports track awareness *during* arrest, however: cross-cultural commonality is equally predicted by the shared neurophysiology of dying, and durable transformation shows the memory was salient and emotionally potent rather than veridical—false memories, too, can be life-altering. Van Lommel's longitudinal follow-up found NDE experiencers maintained significant personality changes and reduced fear of death at eight-year follow-up, whereas non-experiencers showed no comparable shifts; this marks the memory as genuinely formed and consequential, not that its content faithfully records the arrest period.
 
 A [mysterian](/concepts/mysterianism/) perspective suggests the NDE puzzle may exceed human conceptual resources entirely—the relationship between brain states and consciousness during dying might be genuinely incomprehensible, explaining why both materialists and dualists find each other's positions baffling.
 
@@ -112,6 +112,8 @@ The deepest puzzle: on materialist accounts, degraded brain function should prod
 Experiencers consistently report: "More real than real." "Thinking more clearly than ever." "Seeing more vividly than with eyes."
 
 This is paradoxical if experience is produced by brain activity: when the factory shuts down, the products should degrade, not improve. The "disinhibition" response—that neural suppression releases certain regions from constraint—explains some phenomena but not coherent heightened experience across multiple domains at once.
+
+One deflationary move must be granted first. The reported clarity is *phenomenal vividness*—how the experience seemed in retrospect—not *measured cognitive performance*: there is no task score or reaction time from the arrest, only the subject's later superlative, and a degraded brain reliably generates a *feeling of* clarity (dreams, deliria, dissociative states). The paradox therefore tells against production models only if the reported vividness tracks genuine cognitive function, which current data cannot establish. What remains is that the *reported* richness is consistent and cross-culturally stable—something a deflationary account still owes an explanation for.
 
 [Filter theory](/concepts/filter-theory/) reframes this paradox. If the brain transmits or constrains consciousness rather than producing it, brain compromise might *reduce* the filtering that normally limits what consciousness can access—rather than reducing consciousness itself. The radio analogy: damaging a radio doesn't damage the broadcast; it might produce static, but under certain conditions might allow other frequencies through. Aldous Huxley proposed that the brain functions as a "reducing valve"—psychedelics produce expanded experience by disrupting this valve. NDEs may work similarly: as the filtering system fails, consciousness expands rather than contracts.
 
@@ -143,7 +145,7 @@ NDEs align with multiple site tenets:
 
 **[Dualism](/tenets/#dualism)**: The paradox of heightened experience during brain compromise is easier to accommodate within a dualist framework than a strict materialist one. The honest form of the inference is epistemic: the brain-consciousness relationship during dying is more complex than current production models accommodate. That falls short of the metaphysical conclusion that consciousness "isn't produced by neural activity"—a sufficiently enriched production model (the dying-brain gamma surge is the live candidate) could satisfy the epistemic reading without conceding the metaphysical one. NDEs don't *prove* dualism; they raise the cost of the materialist account and leave the enriched-production escape open.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The temptation to dismiss NDEs as "obviously" neural hallucinations exemplifies premature parsimony. The occurrence rates (18% in Van Lommel's representative sample; higher in AWARE II's small interview subset), veridical perception cases, and heightened-experience paradox all resist easy dismissal.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The temptation to dismiss NDEs as "obviously" neural hallucinations exemplifies premature parsimony. The occurrence rates (18% in Van Lommel's larger prospective survivor cohort—itself a heavily selected population of the resuscitated who recalled and chose to report; higher in AWARE II's small interview subset), veridical perception cases, and heightened-experience paradox all resist easy dismissal.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness can perceive during cardiac arrest, it demonstrates efficacy independent of normal neural mediation—and may access information beyond normal sensory channels.
 

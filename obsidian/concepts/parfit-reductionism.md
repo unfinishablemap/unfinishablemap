@@ -64,6 +64,8 @@ Parfit's view converges with the [[concepts/many-worlds]] interpretation: both t
 
 The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this. *I* experience one outcome, not all outcomes. Either I will wake up tomorrow or I won't. The indeterminacy seems to be in the theory, not in reality.
 
+The convergence is not merely a parallel the Map draws from outside. The [[many-minds-interpretation|Many-Minds Interpretation]] of quantum mechanics makes it explicit: Michael Lockwood concludes it is "senseless to ask which, of the many possible minds, are 'yours'" after a measurement, openly aligning his quantum view of identity with Parfit on the meaninglessness of "which person will I become?" That a leading quantum-foundations program reaches for Parfit by name is the clearest articulation in the literature of the view the Map argues against on both fronts at once.
+
 ### Causal History and Quantum Selection
 
 The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes, giving each conscious being a unique causal history—the particular pattern of quantum selections, choices, and physical effects constituting your life. A replica would lack this history. Even if psychologically identical, the replica's consciousness would begin its causal engagement from creation, not from your birth.
@@ -147,6 +149,7 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 - [[haecceity]] — Indexical identity and why *this* being matters
 - [[philosophical-zombies]] — Why consciousness isn't reducible
 - [[concepts/many-worlds]] — Why the Map rejects many-worlds (parallel concerns)
+- [[many-minds-interpretation]] — Lockwood's quantum view of identity aligns explicitly with Parfit on "which mind is mine?"
 - [[agent-causation]] — Why agents, not patterns, cause actions
 - [[illusionism]] — The challenge that consciousness itself is illusory
 - [[witness-consciousness]] — The bare awareness underlying experience

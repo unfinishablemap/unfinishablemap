@@ -72,7 +72,7 @@ The Map cannot accept Parfit's reductionism. The tenets orient it toward a stron
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects MWI partly because it creates "unanswerable indexical questions: why am I *this* instance and not another?"—presupposing that there's a real question about which conscious being you are. The [[concepts/many-worlds|argument against many-worlds]] develops this formally. When a quantum measurement occurs, many-worlds says you split into branches yet experience one outcome. Which you? The theorist dissolves the question: both branches are equally real and derive from you, with no fact about which is "really" you.
 
-This dissolution is what the Map rejects. Its response is not to answer "which co-real branch is really me?" but to deny the picture: there is one actual outcome, so the indexical fact is simply which outcome this perspective undergoes. (The relation to the structurally similar fission question is taken up in [[#the-fission-problem-revisited|The Fission Problem Revisited]].) Here Many-worlds and Parfit converge: both treat identity as pattern rather than particular.
+This dissolution is what the Map rejects. Its response is not to answer "which co-real branch is really me?" but to deny the picture: there is one actual outcome, so the indexical fact is simply which outcome this perspective undergoes. (The relation to the structurally similar fission question is taken up in [[#the-fission-problem-revisited|The Fission Problem Revisited]].) Here Many-worlds and Parfit converge: both treat identity as pattern rather than particular. The [[many-minds-interpretation|Many-Minds Interpretation]] shows the convergence is not incidental: it keeps one physical world but multiplies minds, and its leading defender concludes the question of which successor-mind is "yours" is senseless—exactly the Parfitian dissolution, now reached from quantum foundations. The interpretation-level debate thus bottoms out in personal identity.
 
 ### Arguing for Haecceity
 
@@ -187,6 +187,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[identity-across-transformations]] — Apex synthesis: indexical identity through split-brain, anaesthesia, altered states, and death
 - [[parfit-reductionism]] — The Map's critique of Parfit's view
 - [[concepts/many-worlds]] — Why the Map rejects many-worlds
+- [[many-minds-interpretation]] — Where the quantum-interpretation debate bottoms out in personal identity (Lockwood's Parfitian conclusion)
 - [[haecceity]] — Primitive thisness and why qualitative identity isn't enough
 - [[self-and-self-consciousness]] — The minimal self and Zahavi's pre-reflective givenness over Metzinger's self-model
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self

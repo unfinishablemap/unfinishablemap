@@ -154,6 +154,7 @@ Kent's observation—that Wallace's axioms are substantive claims, not rational 
 
 - [[concepts/many-worlds]] — The full five-argument case against MWI
 - [[many-worlds-argument]] — The formal argument structure with premises and conclusions
+- [[many-minds-interpretation]] — The minds-not-worlds variant inherits the same measure-over-minds probability problem
 - [[indexical-identity-quantum-measurement]] — Why indexical identity connects quantum measurement to the hard problem
 - [[qm-interpretations-beyond-many-worlds]] — Five major alternatives to MWI
 - [[philosophical-stakes-of-spontaneous-collapse]] — Why real collapse matters philosophically

@@ -1,13 +1,76 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23 05:59:39+00:00
+ai_modified: 2026-06-24 09:34:41+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-24T09:34:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Source**: [pessimistic-2026-06-24-near-death-experiences](/reviews/pessimistic-2026-06-24-near-death-experiences/)
+- **Changes**: (medium) Hedged the lead and RED section so "during arrest" awareness is framed as recalled-and-attributed-to-the-arrest, with the contested timing handed to the gamma-surge discussion. (medium) Downgraded the introspective-reliability claim: dropped the uncited "resistance to suggestion" marker and "reliable phenomenal access" language; cross-cultural commonality + durable transformation now framed as making pure on-the-spot fabrication less likely, NOT as establishing veridicality (commonality predicted by shared dying-neurophysiology; transformation = salient/potent memory, false memories can be life-altering). (low) Replaced Van Lommel "representative sample" with "larger prospective survivor cohort" + survivor-selection caveat. Added a paragraph distinguishing reported phenomenal vividness from measured cognition in the heightened-experience paradox (paradox bites only if reported clarity tracks genuine cognitive function — current data cannot establish). Adjudicated the single 1/28 auditory hit at both line-76 bullet and the veridical section: AWARE II authors did not count it as confirmed veridical perception, consistent with chance at that rate.
+- **Citations**: NOT touched — Xu/Borjigin PNAS 2023 author distinction confirmed correct by the review's verification pass.
+- **Length**: 2696 → 2951 words (+255; still soft_warning band, well under 3500 hard threshold, no status change). Symmetry scanner passes (evaluate_symmetry → None).
+- **Published**: yes
+
+## 2026-06-24T09:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/near-death-experiences.md (oldest concept article with no prior pessimistic review; mature, heavily self-critical)
+- **Findings**: No critical issues. 2 medium (lead asserts contested "during arrest" timing as fact; introspective-reliability claim overreaches) + 1 low (Van Lommel "representative sample" overstated). Citations web-verified clean — Xu/Borjigin PNAS 2023 author distinction is correct, not a defect. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-24-near-death-experiences](/reviews/pessimistic-2026-06-24-near-death-experiences/)
+
+## 2026-06-24T09:17:13+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Simulation Theory of Memory (concept page)
+- **Output**: [simulation-theory-of-memory](/concepts/simulation-theory-of-memory/)
+- **Word count**: 1487
+- **Based on research**: yes, [simulation-theory-of-memory-2026-06-24](/research/simulation-theory-of-memory-2026-06-24/)
+
+## 2026-06-24T09:12:44+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Many-Minds Interpretation of Quantum Mechanics
+- **Output**: [many-minds-interpretation](/topics/many-minds-interpretation/)
+- **Word count**: 2070
+- **Based on research**: yes, [many-minds-interpretation-2026-06-24](/research/many-minds-interpretation-2026-06-24/)
+
+## 2026-06-24T09:08:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/)
+- **Word count**: 2291 → 2335 (+44)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-06-24-chemosensory-consciousness-and-the-interface](/reviews/deep-review-2026-06-24-chemosensory-consciousness-and-the-interface/)
+- **Note**: First true deep review (creation self-stamp, no prior review file). §2.4 publisher-of-record web-verify of all 10 cites caught a WRONG-AUTHOR critical: "Herz, R. S. 2018" Proust review is actually Hackländer, Janssen & Bermeitinger 2018 (Psychon Bull Rev 26(2):401–429) — domain-authority-name-on-wrong-paper, ai_citation_metadata_unreliable pattern; corrected in body + References. Also: replaced a vague "(2023 human odour-coding studies)" non-citation with the verified Nature Neuroscience 2023 high-precision odor-coding paper (claim verified exact); completed Skrzypulec metadata (Erkenntnis 88(8):3291–3312, 2023); scoped the 2024 odor–taste J Neurosci finding to "behaving rats". Other 7 cites verified real-correct (Malnic 1999, Zhou 2018, Castro 2013, Barwich 2020 + 2019, ACS carvone, J Neurosci 2024). All sibling-quoted text (sommelier/Barolo from perceptual-architect, modality concession from dualist-perception) re-verified verbatim. 13 wikilinks all resolve. Engagement mode: Mode Three boundary-marking throughout in natural prose, no label leakage. No possibility/probability slippage — calibration is honest ("accommodation, not proof"). 2335w = 78% of topics/ soft threshold, no length pressure.
+
+## 2026-06-24T08:56:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Word count**: 3987 → 3987 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-24-phenomenal-value-realism](/reviews/deep-review-2026-06-24-phenomenal-value-realism/)
+- **Note**: Convergence no-op (11th deep review of a fully-converged calibration-anchor article). Re-qualified only because `ai_modified` was bumped 2026-06-19 by two cosmetic cross-link installs originating in OTHER articles — the exact "cosmetic cross-link bump re-qualifies a converged article" pattern; the 22-day gap from last_deep_review (2026-06-02) put it just outside the 14-day auto-exclusion window. Body diff `c1e08b242..HEAD` contains zero prose/claim/citation changes — only two additive Further-Reading/related_articles links ([the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/), [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/)), both verified to exist and reciprocate. No critical issues; citation ledger (Rawlette/Moore/Mackie/Korsgaard/Frankish) carried forward from the 2026-06-02 live publisher-of-record verify (References block unchanged, §2.4 skip-on-unchanged applies). 13 words under the topics/ hard ceiling — standing human-length-decision candidate, NOT auto-condensable, no growth attempted. Tune-system signal recorded in the review: damping window could run longer for this article.
+
+## 2026-06-24T08:52:06+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Simulation Theory of Memory
+- **Output**: [simulation-theory-of-memory-2026-06-24](/research/simulation-theory-of-memory-2026-06-24/)
+- **Sources consulted**: 13
+- **Note**: Distinct gap confirmed — corpus has memory articles framing episodic memory as "constructive re-experiencing" ([episodic-memory](/concepts/episodic-memory/), [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/), [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)) but NO dedicated treatment of STM as a named theory. Note: [simulation](/concepts/simulation/) is the simulation HYPOTHESIS about reality — a different sense of "simulation", avoid collision. Two lineages captured: cognitive neuroscience (Schacter/Addis constructive episodic simulation hypothesis 2007; Hassabis/Maguire scene construction) and philosophy (Michaelian's post-causal simulationism, "to remember is to imagine the past", 2016). Causalist rival (Bernecker, Robins) + confabulation objection + continuism/discontinuism debate + Rivadulla-Duró 2022 phenomenology critique (the discrimination-problem wedge that aligns with the Map's autonoesis claim). Recommendation: NEW topics article justified (angle 1) — Map accepts the physical recombination MECHANISM but assigns the feeling-of-remembering/discrimination to consciousness (Tenet 1); fallback is a refine of episodic-memory.md. CALIBRATION: all 2007-2009 neuroscience citation years + Robins/Bernecker 2016/2017 exchange tagged for publisher-of-record verification before article use (known corpus citation-metadata error rate).
+
+## 2026-06-24T08:26:05+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Phenomenal Concept Strategy (2024-2026 currency update)
+- **Output**: [phenomenal-concept-strategy-2024-2026-update-2026-06-24](/research/phenomenal-concept-strategy-2024-2026-update-2026-06-24/)
+- **Sources consulted**: 14
+- **Note**: PCS is already saturated in the corpus (2 articles ~2.6k + ~2.5k words; 2 prior research notes Jan + Mar 2026). New note is explicitly a currency update, NOT a re-survey. Adds: Carruthers-Veillet first/third-person equivocation reply to the master argument (absent from both articles — top refine candidate); Ball's externalist "no phenomenal concepts" (double-edged, threatens the knowledge-argument route too); Zhou 2025 "indicating without revealing" a-posteriori retreat; Sasaki 2025 + Morris 2025; illusionism-PCS coupling (Kammerer/Frankish 2024). Calibration flag: both existing article descriptions assert "shows why it fails" as settled — the master-argument debate is OPEN (Carruthers-Veillet live counter); recommend softening. Recommendation: NO new article (refine the two existing). 2025 paper metadata is search-index-level only and tagged [verify].
 
 ## 2026-06-24T07:59:23+00:00 - research-topic
 - **Status**: Success

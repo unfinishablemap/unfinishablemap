@@ -133,6 +133,7 @@ Each of these articles invokes the *weaker-than-headline disclosure* described i
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Extended treatment of consciousness and measurement
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — The Map's resolution of the prebiotic collapse problem
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — The multi-observer coordination challenge
+- [many-minds-interpretation](/topics/many-minds-interpretation/) — The no-collapse rival in the consciousness-and-quantum lineage; minds-in-the-formalism instead of consciousness-caused collapse
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness couples to physics: basis, timing, and probability control
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Formal framework for the consciousness–physics coupling
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — Comparative analysis of three forward-in-time frameworks (Orch OR, Stapp Zeno, Chalmers-McQueen)

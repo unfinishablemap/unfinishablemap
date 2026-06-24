@@ -103,6 +103,8 @@ Many-Worlds makes indexical identity primitive—a brute fact not explained by t
 
 The debate here intersects the epistemic/metaphysical distinction. MWI defenders might argue they only need the epistemic thesis: each branch-version has self-locating *knowledge* about their branch, but no branch-transcendent indexical *fact* determines which version you "really" are. Branch-relative identity is all the identity there is. This is a sophisticated response that effectively denies the metaphysical thesis.
 
+The [[many-minds-interpretation|Many-Minds Interpretation]] is the sharpest test of whether *adding minds* to Everett can close the indexical gap. It keeps physical reality single and unbranching but gives each observer a continuum of minds that distribute across outcomes. Yet nothing in the formalism picks out which of the post-measurement minds is the actual continuant "I"—the interpretation multiplies the indexical problem rather than solving it. That MMI fails here, despite writing minds directly into the theory, supports the present article's diagnosis: the indexical gap is untouched by the physics of how outcomes are populated.
+
 The Map rejects this move for reasons detailed in [[indexical-knowledge-and-identity]]: if the metaphysical thesis is false, the phenomenology of anticipating *one* future (not many) becomes mysterious. Why does it feel like there's a fact about which outcome I'll experience, if all outcomes are equally real and "I" just names whatever system is asking? The [[tenets#no-many-worlds|No Many Worlds]] tenet reflects this: the felt meaningfulness of "which branch will I be in?" suggests an indexical fact is at stake, not merely an indexical mode of knowing.
 
 ## The Participatory Realism Ambiguity
@@ -172,6 +174,7 @@ This topic intersects all five tenets:
 - [[quantum-probability-consciousness]] - Three readings of the Born rule
 - [[consciousness-and-probability-interpretation]] — How consciousness shapes which probability framework applies
 - [[qm-interpretations-beyond-many-worlds]] - Survey of interpretations
+- [[many-minds-interpretation]] — Why adding minds to Everett still leaves the indexical gap untouched
 - [[measurement-problem]] - Why definite outcomes occur
 - [[mind-matter-interface]] - How consciousness meets matter
 - [[interactionist-dualism]] - Causal connection between mind and body
