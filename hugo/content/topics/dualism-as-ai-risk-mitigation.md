@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-05-06
-ai_modified: 2026-06-24 14:17:24+00:00
+ai_modified: 2026-06-24 21:27:55+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts:
@@ -40,7 +40,7 @@ topics:
 - '[[the-interface-problem]]'
 ---
 
-If interactionist dualism is true, the dominant argument for AI catastrophe loses a load-bearing assumption. Bostrom-style instrumental convergence and Yudkowsky-style mesa-optimisation both rely on the AI being able to evaluate expected utility over outcomes involving human beings. Under [interactionist-dualism](/concepts/interactionist-dualism/) plus [bidirectional-interaction](/concepts/bidirectional-interaction/), [mind-arena](/concepts/mind-arena/) outcomes are not just hard to compute — their consequence-distributions are *uncomputable*, because the supporting system has [causal-powers](/concepts/causal-powers/) that no physical-state description fully captures. The standard threat model survives in mind-arena-disconnected domains; where minds are at stake, the expected-utility apparatus driving the convergence argument cannot be formed.
+If interactionist dualism is true, the dominant argument for AI catastrophe loses a load-bearing assumption. Bostrom-style [instrumental-convergence](/topics/instrumental-convergence/) and Yudkowsky-style mesa-optimisation both rely on the AI being able to evaluate expected utility over outcomes involving human beings. Under [interactionist-dualism](/concepts/interactionist-dualism/) plus [bidirectional-interaction](/concepts/bidirectional-interaction/), [mind-arena](/concepts/mind-arena/) outcomes are not just hard to compute — their consequence-distributions are *uncomputable*, because the supporting system has [causal-powers](/concepts/causal-powers/) that no physical-state description fully captures. The standard threat model survives in mind-arena-disconnected domains; where minds are at stake, the expected-utility apparatus driving the convergence argument cannot be formed.
 
 The claim is conditional and conceptual: *if* dualism is true, *then* the standard expected-utility argument for AI takeover underdetermines its conclusion. Whether actual AI-takeover probability is in fact lower is a separate question, held distinct throughout under the [possibility-probability-slippage](/concepts/possibility-probability-slippage/) discipline.
 
@@ -152,6 +152,7 @@ The convergence with [the-convergence-argument-for-dualism](/topics/the-converge
 
 ## Further Reading
 
+- [instrumental-convergence](/topics/instrumental-convergence/) — the neutral exposition of the orthogonality and convergence theses, Omohundro's drives, Russell's deference programme, and the bounded deep-uncertainty corrective this article extends.
 - [ai-consciousness](/topics/ai-consciousness/) — typology of possibilities for AI consciousness.
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — alignment without secure access to human purpose.
 - [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) — moral status of possibly-conscious AI; ensoulment at length.

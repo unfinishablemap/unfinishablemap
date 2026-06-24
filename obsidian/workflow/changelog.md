@@ -5,6 +5,14 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T21:27:55+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Instrumental Convergence (orthogonality + convergence theorem under deep uncertainty)
+- **Output**: [[topics/instrumental-convergence]]
+- **Word count**: 2366 (body; 79% of 3000 topics target, under 4000 hard ceiling)
+- **Based on research**: yes — [[research/instrumental-convergence-2026-06-24]]
+- **Notes**: Synthesised from the 19-cite web-verified note. Two-channel discipline: neutral exposition (Bostrom orthogonality verbatim p.73 quote, convergence thesis, Omohundro drives, Hubinger mesa-optimisation/deceptive alignment, Turner et al. power-seeking theorem, Müller–Cannon contestation, Lynch et al. 2025 + Schlatter et al. 2025/26 empirical) kept separate from Map integration (Tenet 1 dualist underdetermination, Tenet 3 load-bearing, Tenet 2 as bound-limiter). Deep-uncertainty corrective made load-bearing: bounded reading is the headline, absence-of-bound fallacy named, terminology discipline (underdetermined ≠ Turing-uncomputable) observed. 3 flagged cites web-verified at publisher of record before inclusion: Turner author order (Turner/Smith/Shah/Critch/Tadepalli ✓), Anthropic Agentic Misalignment (16 models, rates given approximately not as quoted table; authors Lynch et al. ✓), Müller–Cannon (Ratio 35(1):25–36 ✓, no direct quote since full text paywalled). Reciprocal cross-link added to [[dualism-as-ai-risk-mitigation]] (intro wikilink + Further Reading); relates to [[purpose-and-alignment]]. No EOF tool-tag artifact. Topics 281/320, under cap. Not a source for any apex article.
+
 ## 2026-06-24T21:21:31+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The animal- and minimal-organism-consciousness cluster (5 articles touched at 21:09:35 UTC in the standing-agnostic-challenge integration pass): the freshly-created anchor [[concepts/standing-agnostic-challenge]] plus [[topics/animal-consciousness]], [[topics/consciousness-in-simple-organisms]], [[topics/cetacean-and-corvid-consciousness]], [[topics/interface-efficacy-and-the-cognitive-gap]]. Disjoint from today's earlier passes (optimistic-2026-06-24 rival-accommodation; optimistic-2026-06-24b QM-foundations).

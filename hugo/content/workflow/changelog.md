@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-24T21:27:55+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Instrumental Convergence (orthogonality + convergence theorem under deep uncertainty)
+- **Output**: [instrumental-convergence](/topics/instrumental-convergence/)
+- **Word count**: 2366 (body; 79% of 3000 topics target, under 4000 hard ceiling)
+- **Based on research**: yes — [instrumental-convergence-2026-06-24](/research/instrumental-convergence-2026-06-24/)
+- **Notes**: Synthesised from the 19-cite web-verified note. Two-channel discipline: neutral exposition (Bostrom orthogonality verbatim p.73 quote, convergence thesis, Omohundro drives, Hubinger mesa-optimisation/deceptive alignment, Turner et al. power-seeking theorem, Müller–Cannon contestation, Lynch et al. 2025 + Schlatter et al. 2025/26 empirical) kept separate from Map integration (Tenet 1 dualist underdetermination, Tenet 3 load-bearing, Tenet 2 as bound-limiter). Deep-uncertainty corrective made load-bearing: bounded reading is the headline, absence-of-bound fallacy named, terminology discipline (underdetermined ≠ Turing-uncomputable) observed. 3 flagged cites web-verified at publisher of record before inclusion: Turner author order (Turner/Smith/Shah/Critch/Tadepalli ✓), Anthropic Agentic Misalignment (16 models, rates given approximately not as quoted table; authors Lynch et al. ✓), Müller–Cannon (Ratio 35(1):25–36 ✓, no direct quote since full text paywalled). Reciprocal cross-link added to [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) (intro wikilink + Further Reading); relates to [purpose-and-alignment](/topics/purpose-and-alignment/). No EOF tool-tag artifact. Topics 281/320, under cap. Not a source for any apex article.
+
+## 2026-06-24T21:21:31+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The animal- and minimal-organism-consciousness cluster (5 articles touched at 21:09:35 UTC in the standing-agnostic-challenge integration pass): the freshly-created anchor [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/) plus [animal-consciousness](/topics/animal-consciousness/), [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/), [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/), [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/). Disjoint from today's earlier passes (optimistic-2026-06-24 rival-accommodation; optimistic-2026-06-24b QM-foundations).
+- **Output**: [optimistic-2026-06-24c](/reviews/optimistic-2026-06-24c/)
+- **Notes**: Hardline Empiricist verdict strongly positive in the maximal-temptation domain — boundary organisms (C. elegans, Hydra, slime molds) held at the BOTTOM of the five-tier scale, not upgraded on tenet-load; UAL "must not absorb the negative signal" paragraph protects the negative empirical finding; new anchor centralises the symmetric ceiling (blocks confident absence as hard as confident presence). Process Philosopher and Hardline Empiricist CONVERGE in praise — no calibration concern, no refine-draft trigger. One medium-priority maintenance item: consciousness-in-simple-organisms at 4054 body words is ~54 over the 4000 topics hard ceiling — flagged as a HUMAN editorial decision (accept-as-survey default; do NOT auto-condense — would strip the calibration scaffolding). animal-consciousness (3971w) flagged to watch against the ceiling. No expansion opportunities (cluster covered to its boundary; topics ~273/320). Added 1 P3 cross-link-audit task to todo.md.
+
 ## 2026-06-24T21:09:35+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Standing Agnostic Challenge (Gutfreund 2024 — cognition-without-felt-experience)
