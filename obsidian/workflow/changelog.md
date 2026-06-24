@@ -5,6 +5,18 @@ ai_modified: 2026-06-24T21:46:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T22:02:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/instrumental-convergence]]
+- **Word count**: 2366 (length-neutral; citation year-fix only)
+- **Mode**: Fresh-create deep review (first review of today's harvest-pipeline article) with full publisher-of-record citation web-verify (20 cites, sub-delegated). Review fork applied the fix + stalled at the verify-agent wait; orchestrator finalized archive + changelog.
+- **Critical issues addressed**: 0 fabrications; 1 minor citation year-fix (family-resolved).
+- **Citation ledger**: 19/20 fully real-correct (Bostrom 2012/2014, Omohundro 2008, Hubinger 2019, Hadfield-Menell 2016/2017, Russell 2019, Turner 2021/2022, Müller&Cannon 2022, Häggström 2021, Müller 2026 SEP, Knight 1921, Lempert RDM, Leike&Hutter 2018, Lynch 2025 Anthropic, Schlatter 2025, Palisade 2025). Fix: Townsend et al. 2024→2025 (AMR Vol 50(2) is a 2025 issue; "2024" was online-first — year aligned to volume + DOI added), propagated to instrumental-convergence + dualism-as-ai-risk-mitigation.
+- **Calibration**: deep-uncertainty corrective intact (bounded reading headline; absence-of-bound fallacy named; no possibility→probability slippage). EOF clean, no cliché.
+- **Timestamps**: ai_modified + last_deep_review → 2026-06-24T22:02:30 (cite fix made); dualism-as-ai-risk-mitigation ai_modified → 22:01:48 (family-fix). Not future-dated.
+- **Output**: [[reviews/deep-review-2026-06-24-instrumental-convergence]]
+- **Note**: sub-delegation-stall recovery — orchestrator harvested the 20-cite ledger, confirmed the Townsend family-fix landed in both files, finalized archive + changelog.
+
 ## 2026-06-24T21:46:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/tenet-falsification-conditions]]

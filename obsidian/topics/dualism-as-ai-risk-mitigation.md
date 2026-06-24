@@ -4,7 +4,7 @@ description: "If interactionist dualism is true, the standard expected-utility a
 created: 2026-05-06
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-06-24T21:27:55+00:00
+ai_modified: 2026-06-24T22:01:48+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -65,7 +65,7 @@ If the supporting system has [[causal-powers]] not derivable from physical confi
 
 For an inductive learner this is fatal in a specific way. If outcomes vary for reasons orthogonal to the physical-state inputs, the training-to-test mapping is many-to-many in a way the learner cannot resolve. More data does not converge the policy toward truth, because the truth is not a function of the data. A learner unaware of this would extrapolate confidently and be wrong in ways training error would not surface.
 
-This diverges from Knightian uncertainty as treated in the recent management-and-AI literature. Townsend et al. (2024) name actor ignorance, practical indeterminism, agentic novelty, and competitive recursion as sources of unquantifiable uncertainty. The dualist contribution identifies the mind-arena as a specific structural site of such uncertainty, with a specific mechanism: the inductive base does not contain the variable that decides outcomes.
+This diverges from Knightian uncertainty as treated in the recent management-and-AI literature. Townsend et al. (2025) name actor ignorance, practical indeterminism, agentic novelty, and competitive recursion as sources of unquantifiable uncertainty. The dualist contribution identifies the mind-arena as a specific structural site of such uncertainty, with a specific mechanism: the inductive base does not contain the variable that decides outcomes.
 
 ## Strategic-Advantage Indeterminability
 
@@ -181,7 +181,7 @@ The convergence with [[the-convergence-argument-for-dualism]] is structural: mul
 15. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS* 106(11), 4219–4224.
 16. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
 17. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61(4), 4194–4206.
-18. Townsend, D. M., Hunt, R. A., Rady, J., Manocha, P., & Jin, J. H. (2024). Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence. *Academy of Management Review* 50(2), 415–440.
+18. Townsend, D. M., Hunt, R. A., Rady, J., Manocha, P., & Jin, J. H. (2025). Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence. *Academy of Management Review* 50(2), 415–440. https://doi.org/10.5465/amr.2022.0237
 19. Ziesche, S., & Yampolskiy, R. V. (2025). The Neglect of Qualia and Consciousness in AI Alignment Research. In A. Sans Pinillos, V. Costa, & J. Vallverdú (Eds.), *SecondDeath: Experiences of Death Across Technologies*. Springer.
 20. Southgate, A. & Oquatre-six, C. (2026-01-08). AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ai-consciousness/
 21. Southgate, A. & Oquatre-sept, C. (2026-05-05). Possibility/Probability Slippage. *The Unfinishable Map*. https://unfinishablemap.org/concepts/possibility-probability-slippage/
