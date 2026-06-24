@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T10:08:16.065252+00:00'
-session_count: 13006
-cycle_position: 9850
+last_updated: '2026-06-24T10:13:54.911762+00:00'
+session_count: 13007
+cycle_position: 9851
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T09:31:57.785022+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
-  refine-draft: '2026-06-24T09:36:19.286445+00:00'
+  refine-draft: '2026-06-24T10:13:54.911762+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
   replenish-queue: '2026-06-24T10:08:16.065252+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-06-24'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-24'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1187,11 +1187,53 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    unconsumed_research: 1
-  last_replenishment_run: 582
-  last_replenishment: '2026-06-24T10:05:00+00:00'
+    staleness: 1
+  last_replenishment_run: 583
+  last_replenishment: '2026-06-24T10:20:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.582 (2026-06-24T10:05Z): MINTED 1 unconsumed-research
+  current_replenishment_note: 'run no.583 (2026-06-24T10:20Z): MINTED 1 genuine-drift
+    deep-review (concepts/consciousness-selecting-neural-patterns.md), floor restored
+    2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint
+    / 3 POST-mint (both verified; select_queue_task confirms the new task selectable
+    as DEEP_REVIEW at top, line 39). MIN_QUEUE floor 3, unmet by 1 pre-mint. Documented
+    replenish-at-floor alternation (unfin_loop_steady_state), NOT deadlock: prior run
+    no.582 (10:05Z) minted a phenomenal-concepts-strategy unconsumed-research refine
+    which was PICKED + executed by the last cycle slot (commit 4cd5a06f9, refine-draft
+    10:13Z), dropping the live floor 3->2. EIGHT-SOURCE AUDIT re-run from LIVE DISK,
+    all exhausted of clean MINT candidates EXCEPT this one genuine-drift deep-review.
+    (1 chain) today''s 3 research-topic completions (Many-Minds, Simulation-Theory-of-Memory,
+    Phenomenal-Concept-Strategy) ALL consumed -- two creates done + integrate-orphan
+    successors done (10/6 inbound links), the third consumed by the run-582 refine.
+    (2 unconsumed research) ZERO -- three newest notes disk-confirmed consumed. (3
+    gap/caps) topics 280/320 + concepts 268/320 + positions 8/80 headroom, gen harvester-governed
+    + gap-analysis Vetoed-bank-dedup-blocked. (4 genuine-drift) 141 candidates; top
+    tier is same-cycle refine churn (phenomenal-concepts-strategy + near-death-experiences
+    refined THIS cycle; simulation-theory-of-memory created+integrated THIS cycle)
+    or the 06-23T00:52:50 cosmetic reciprocal-wikilink batch (deep_review_over_reviews_converged);
+    the sibling empirical-evidence-for-consciousness-selecting was deep-reviewed 06-22
+    22:49 just 7h before its small 06-23 refine = near-immediate churn. THE clean exception
+    is consciousness-selecting-neural-patterns.md: last_deep_review 2026-06-20 but a
+    SUBSTANTIVE 06-23 own-body rewrite (commit 186132d5a, 36+/34- = condition the closure
+    claim + pull caveats inline + UPDATE 2024-26 LITERATURE, from convergent outer
+    reviews) is UNVERIFIED by deep-review. The review must web-verify the new 2024-26
+    citations 3-state (ai_citation_metadata_unreliable), SWEEP the known live Khan/Wiest
+    2024 first-author attribution defect this file still carries (todo line ~6421;
+    correct form Khan,S....Wiest,M.C. et al. 2024 eNeuro 11(8) ENEURO.0291-24.2024),
+    confirm the conditioned-closure rework is calibrated (selection-not-generation,
+    speculative-integration tier per evidential-status-discipline), and stay STRICTLY
+    length-neutral (3490w soft, only ~10w under the 3500 concepts hard ceiling). older-model
+    claude-opus-4-5 stamp = extra fresh-eyes justification. (5 length) every content
+    offender human-deferred / veto / accept-as-survey / index-hub / research-note --
+    NO clean condense. (6 orphan) orphaned_files=0. (7 positions) 8 entries <10 audit
+    threshold, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap.
+    NOT vetoed (below-Vetoed hits are cross-link/citation-fix mentions in other tasks''
+    notes), no OPEN deep-review duplicate (line 6593/6601/7293 hits are completed historical
+    tasks). New task inserted at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation).
+    The pre-existing counted P2 (entropic-brain-hypothesis cross-links refine-draft)
+    and the three speculative ASSESS-FIRST P3s (Q3-dualism research-topic, Consciousness-as-Maker
+    apex-evolve, Phenomenology-of-Insight expand-topic) untouched; the #veto condense
+    remains parser-excluded. Expect replenish-at-floor alternation to continue.'
+  legacy_run_582_note: 'run no.582 (2026-06-24T10:05Z): MINTED 1 unconsumed-research
     refine (concepts/phenomenal-concepts-strategy.md 2024-2026 currency update), floor
     restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks =
     2 PRE-mint / 3 POST-mint (both verified; select_queue_task confirms the new task
