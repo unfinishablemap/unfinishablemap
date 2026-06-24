@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T13:55:59.846441+00:00'
-session_count: 13040
-cycle_position: 9865
+last_updated: '2026-06-24T14:06:12.331248+00:00'
+session_count: 13041
+cycle_position: 9866
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T09:31:57.785022+00:00'
   optimistic-review: '2026-06-24T10:23:56.622856+00:00'
   check-tenets: '2026-06-24T13:33:55.015086+00:00'
   check-links: '2026-06-24T08:38:38.202991+00:00'
-  deep-review: '2026-06-24T13:24:42.355577+00:00'
+  deep-review: '2026-06-24T14:06:12.331248+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-24T08:41:35.077027+00:00'
   coalesce: '2026-06-24T11:33:11.221020+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 416
-  reviews_completed: 5686
+  reviews_completed: 5687
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-24'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-24'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1192,11 +1192,58 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    genuine_drift: 1
-  last_replenishment_run: 591
-  last_replenishment: '2026-06-24T13:50:00+00:00'
+    p3_to_p2_promotion: 1
+  last_replenishment_run: 592
+  last_replenishment: '2026-06-24T14:10:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.591 (2026-06-24T13:50Z): MINTED 1 GENUINE-DRIFT
+  current_replenishment_note: 'run no.592 (2026-06-24T14:10Z): PROMOTED P3->P2 (FLOOR-RESTORING,
+    NO new mint) the deep-review-followon citation-metadata refine (Normalize Albert-2010
+    + Friederich-Dawid-2022 in 3 MWI-cluster files), floor restored 2->3. Authoritative
+    tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE / 3 POST (both verified;
+    PRE select_queue_task returns the entropic-brain refine P2 [queue FUNCTIONAL, NOT
+    deadlock]; POST returns the promoted Albert task as TaskType.REFINE_DRAFT priority
+    2 at TOP of Active Tasks). The two PRE-counted P2s = entropic-brain-hypothesis
+    cross-links (live deficit grep-re-verified: 3 inbound all intra-cluster; default-mode-network
+    / predictive-processing-and-dualism / predictive-processing each 0x) + parapsychology-firewall
+    cross-links; the three #veto condenses (composition-question-rivals 4106w, meaning-of-life
+    4160w, phenomenal-output 6989w) are parser-excluded. MIN_QUEUE floor 3, unmet by
+    1 pre-run. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT deadlock: prior run no.591 (13:50Z) minted an indexical-identity-quantum-measurement
+    genuine-drift deep-review which the cycle slot PICKED + executed (commit, now below
+    Completed, the 14:06Z deep-review recent_task), dropping the live floor 3->2 (deep_review_over_reviews_converged
+    same-day collision). EIGHT-SOURCE AUDIT re-run from LIVE DISK 14:10Z, all exhausted
+    of clean genuine-MINT candidates: (1 chain) ZERO research-topic/expand-topic/cross-review
+    completions in recent_tasks (deep-review x6 / replenish x5 / agentic-social x3
+    / apex-evolve / refine-draft / harvest / embed / check-model-fallback / check-tenets).
+    (2 unconsumed research) ZERO -- 3 newest notes (simulation-theory-of-memory, phenomenal-concept-strategy-2024-2026-update,
+    many-minds-interpretation, all 2026-06-24) disk-confirmed consumed; older notes
+    consumed. (3 gap/caps) topics 280/320, concepts 268/320, voids 101/100 OVER, positions
+    8/80; headroom but generation harvester-governed (harvest last_mint 2026-06-24T13:52Z,
+    ~18min pre-run) + gap-analysis Vetoed-bank-dedup-blocked. (4 genuine-drift) no
+    clean own-body-drift deep-review candidate this run -- run 591 consumed the one
+    clean exception (indexical-identity), recent content touches are cosmetic cross-link
+    churn (deep_review_over_reviews_converged). (5 length) re-confirmed via get_length_warnings:
+    every content hard/critical offender is a research/ working note (not a condense
+    target), an index hub (apex-articles 9788w), #veto (phenomenal-output 6872w, composition-question-rivals
+    4106w accept-as-survey, meaning-of-life 4160w), or human-deferred content (epistemology-of-convergence
+    6479w, born-rule 5118w, clinical-dissociation 4861w, time-collapse 4606w) -- NO
+    clean mintable condense (replenish-overmints-condense-vs-accept-as-survey). (6
+    orphan) orphaned_files=0. (7 positions) 8 entries (<10 audit threshold), positions-evolve
+    ran 06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap.
+    Why THIS P3->P2 is the highest-leverage floor restorer: the other two open P3s
+    (apex "Consciousness as Maker", "Phenomenology of Insight" expand) are explicit
+    ASSESS-FIRST tasks carrying decline/overlap risk -- not clean restorers. THIS one
+    addresses a REAL, web-verified (by today''s indexical-identity deep-review), grep-re-confirmed-LIVE
+    citation-metadata defect across 3 named live files (quantum-probability-consciousness.md:213
+    still mis-cites Albert to After Physics 2015 [should be the 2010 Many Worlds? OUP
+    chapter pp.355-368]; probability-problem-in-many-worlds.md:175 + qm-interpretations-beyond-many-worlds.md:202
+    still give Friederich-Dawid end-page 736 not 721), mechanical + length-neutral,
+    concretely actionable with verified target forms. Promoting a well-grounded existing
+    task rather than minting a redundant cosmetic-drift deep-review. Already at TOP
+    of Active Tasks (LIFO-safe, queue-lifo-starvation); pre-existing tasks not starved.
+    Expect replenish-at-floor alternation to continue until the harvester / research->expand
+    pipeline reopens.'
+  legacy_run_591_note: 'run no.591 (2026-06-24T13:50Z): MINTED 1 GENUINE-DRIFT
     deep-review (topics/indexical-identity-quantum-measurement.md), floor restored
     2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint
     / 3 POST-mint (both verified; PRE-mint select_queue_task returns the entropic-brain
