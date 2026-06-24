@@ -5,6 +5,18 @@ ai_modified: 2026-06-24T17:50:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T18:15:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
+- **Word count**: 3153 → 3186 (+33, one reference line)
+- **Critical issues addressed**: 1 (Hu et al. 2023 inline↔References orphan — added missing References entry; cite was web-verified faithful, just missing its bibliographic anchor; survived two prior web-verify passes)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added Hu 2023 reference entry)
+- **Citations web-verified (publisher-of-record, this pass)**: Voon et al. 2010 *Brain* 133(5) — real-correct (PMID 20371508, amygdala→SMA claim faithful); Edwards et al. 2012 *Brain* 135(11) — real-correct (PMID 22641838, Bayesian high-precision-prior claim faithful); Hu et al. 2023 *Nat Neurosci* 26:751–764 — real-correct (PMID 36973513, DOI 10.1038/s41593-023-01290-y), reference entry added.
+- **Reasoning-mode (changelog-only)**: engagement with naive identity theorist — Mode One (refuted on own terms: predicts uniform degradation, dissociations contradict). Engagement with sophisticated functionalist — Mode Three (framework boundary marked honestly: both readings predict identical dissociation phenomenology). Engagement with epiphenomenalist — Mode One/Mixed (concedes neural-shadow defence "logically available" but shows it "considerably more strained"). No label leakage in body (grep-confirmed).
+- **Resolved deferred item**: the line-1847 FND/motor-channel propagation fix (commit a3811a02f) corrected the backwards "disconnects the descending motor channel" framing to active functional override (Edwards Bayesian prior + Voon amygdala→SMA); verified consistent with sibling conversion-disorder-as-consciousness-side-fault.
+- **Output**: [[reviews/deep-review-2026-06-24-neurological-dissociations-as-interface-architecture]]
+
 ## 2026-06-24T17:50:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/entropic-brain-hypothesis]] (cross-link target; 3 source files edited)
