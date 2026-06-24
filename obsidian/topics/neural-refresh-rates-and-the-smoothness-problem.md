@@ -4,7 +4,7 @@ description: "Discrete neural oscillations at 7-13 Hz clash with smooth consciou
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-05T21:05:28+00:00
+ai_modified: 2026-06-24T22:42:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -133,7 +133,7 @@ The Map's [[grain-mismatch-as-independent-evidence|grain mismatch evidence progr
 3. Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge.
 4. Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
 5. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
-6. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+6. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 7. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
 8. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *The Review of Metaphysics*, 18(3), 430–451.
 9. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.

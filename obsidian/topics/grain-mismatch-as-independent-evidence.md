@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-05-29T00:19:38+00:00
+ai_modified: 2026-06-24T22:42:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -109,7 +109,7 @@ The Map speculates that the grain mismatch programme may extend further. The [[t
 
 1. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
 2. Sellars, W. (1971). Science, Sense Impressions, and Sensa: A Reply to Cornman. *Review of Metaphysics* 24(3): 391–447.
-3. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+3. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 4. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 5. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.

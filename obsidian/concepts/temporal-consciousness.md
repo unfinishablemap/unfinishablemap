@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-06-05T14:00:02+00:00
+ai_modified: 2026-06-24T22:42:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -234,7 +234,7 @@ Temporal consciousness connects to all five tenets:
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
 1. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
-1. Lee, A. Y. (2023). Consciousness & Continuity. *PhilArchive*.
+1. Lee, A. Y. (2024). Consciousness & Continuity. *PhilArchive*.
 1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
 1. Stanford Encyclopedia of Philosophy. "Temporal Consciousness."
 1. Stanford Encyclopedia of Philosophy. "Henri Bergson."

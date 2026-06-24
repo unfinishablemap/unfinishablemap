@@ -5,6 +5,19 @@ ai_modified: 2026-06-24T21:46:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T22:42:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/grain-mismatch]]
+- **Word count**: 1634 → 1634 (no body changes; cite-metadata fix only, length-neutral, ok at 65% of 2500 target)
+- **Critical issues addressed**: 0 internal
+- **Medium issues addressed**: 1 (citation metadata)
+- **Enhancements made**: 1 (Lee citation year 2023 → 2024)
+- **Citation ledger** (full publisher-of-record web-verify, NOT inherited): Sellars 1965 RoM 18(3):430-451 ✓; Sellars 1971 RoM 24(3):391-447 ✓; Lockwood 1993 in Robinson ed. *Objections to Physicalism* OUP ✓; **Lee 2023 → real-wrong-metadata, year corrected to 2024** (PhilArchive LEECAC-14 first archived 2024-01-22, versions Aug-2024→Feb-2025; no 2023 version; quote verbatim-faithful, ampersand-title cosmetic); Jackson 1982 PhilQ 32(127):127-136 ✓; Chalmers 1996 *The Conscious Mind* OUP ✓; Bechtel & Mundale 1999 *Phil of Science* 66(2):175-207 ✓. No inline↔Reference orphans. Currency sweep clean.
+- **Family resolution**: wrong "Lee 2023" propagated across 7 live files (intra-corpus consistency ratified it); canonical 2024 year propagated to grain-mismatch + resolution-void + neural-refresh-rates-and-the-smoothness-problem + grain-mismatch-as-independent-evidence + smoothness-and-continuity + temporal-consciousness (ai_modified bumped on each; last_deep_review left intact on siblings). Archive copy + research notes left unchanged.
+- **Calibration**: no possibility/probability slippage (logical claims conditioned on "if smoothness genuine"; no tier upgrade via tenet-load). Reasoning modes: illusion/eliminativist = Mode Three; grain-of-analysis = Mode One; structural-mismatch = Mode One. No label leakage, no banned construct, no HTML-comment leakage. All 18 cross-links resolve.
+- **Convergence**: sixth review; ai_modified + last_deep_review both bumped (cite fix made). The Lee-year defect was invisible to 5 prior "verified" passes precisely because it was corpus-consistent — surfaced only by independent publisher check.
+- **Output**: [[reviews/deep-review-2026-06-24-grain-mismatch]]
+
 ## 2026-06-24T22:29:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/observational-closure]]
