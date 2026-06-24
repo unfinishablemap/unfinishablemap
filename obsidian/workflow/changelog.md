@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T13:07:16+00:00
+ai_modified: 2026-06-24T13:39:56+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T13:39:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/many-minds-interpretation]]
+- **Original score**: anchoring audit only (deep-reviewed clean 2026-06-24; flagged for calibration drift vs anchor [[parfit-reductionism]])
+- **Word count**: 2117 → 2243 body (length-neutral; status ok, 75% of 3000 soft)
+- **Changes**: Topic-concept anchoring audit (Audit Three) remediation. ASSESS-FIRST honoured — central conditioned-closure thesis preserved, no mush-hedging. Softened the MMI-critique victory verbs that overstated what a tenet-conditional indexical objection delivers: "the decisive result is that MMI fails" → "the reading developed here is that MMI runs into the same difficulty"; "proves that putting minds in is not enough" → "suggests ... may not be enough on its own"; "Recent mainstream work confirms the framing" → "converges on the same framing"; "transfers verbatim to MMI" → "seems to carry over largely unchanged"; "still fails" → "still leaves the indexical question unanswered". Added an explicit framework-boundary marker in the No-Many-Worlds subsection (per [[direct-refutation-discipline]] Mode Three / [[evidential-status-discipline]]): the objection presses the "which mind is mine?" question rather than refuting MMI from inside its own commitments, since an MMI theorist who deems the question ill-formed is not self-contradicting. Updated description to drop "shows that ... does not rescue".
+- **Engagement classification (editor-internal)**: engagement with MMI/Lockwood — Mode Three (framework-boundary marking); the indexical disagreement is bedrock/tenet-conditional and is now honestly marked as such rather than dressed as in-framework refutation.
+- **Result**: hedge density 0.47→4.46/kw (clears 3.0 capped floor against ALL anchors); strong-assertion density 0.94→0.0/kw (both flagged verbs softened). `evaluate_anchoring` now returns no flags. Verbatim quotes + all citations untouched; validate ✓; no banned "This is not X" construct; no editor-vocab leakage into body.
+- **Published**: yes
 
 ## 2026-06-24T13:21:56+00:00 - deep-review
 - **Status**: Success
