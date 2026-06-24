@@ -5,6 +5,17 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T20:46:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/presentiment-and-retrocausality]]
+- **Original score**: addressed pessimistic-2026-06-24c (2 web-verified citation defects)
+- **Changes**:
+  - Mossbridge et al. (2012) CI corrected. Re-verified at publisher of record (Frontiers, fpsyg.2012.00390): the paper reports TWO intervals — fixed-effect 0.15-0.27 (p < 2.7×10⁻¹²) and random-effects 0.13-0.29 (p < 5.7×10⁻⁸). The article had paired the fixed-effect CI with its fixed-effect p-value (internally consistent but not the canonically-restated figure). Switched to the random-effects 0.13-0.29 — the interval Duggan & Tressoldi 2018 restate as "0.21; 95% CI: 0.13-0.29" — and paired it with the MATCHING random-effects p-value (5.7×10⁻⁸) to avoid creating a new cross-model inconsistency. Kept fixed-effect interval as a parenthetical note. (Review said "p-value is fine" but didn't notice the two-model structure; honest use of the random-effects CI requires its own p-value.)
+  - Wagenmakers "10²⁰ to 1" prior odds recast as explicitly-illustrative. Verified against the 2011 paper / surrounding Bayesian-spectacles discourse: the 10²⁰ figure is NOT source-attested — Wagenmakers et al. used a default Bayesian t-test (neutral effect-size prior), not an explicit 10²⁰ prior odds. Rewrote to attribute to Wagenmakers only what they actually did/argued ("weak to nonexistent"; skeptic entitled to long odds against biologically-implausible retrocausal physiology), then introduced 10²⁰ as the Map's own illustration ("suppose a skeptic sets...", "the exact number is the Map's own illustration, not a value Wagenmakers tabulated"). Preserved the correct dialectical point (the prior does the decisive work; 10⁹ Bayes factor still leaves ~10¹¹ posterior odds against) and the 2011-exchange framing.
+  - Verified the Duggan/Tressoldi 0.31 (pre-reg) vs 0.24 (non-pre-reg) split against Table 4 — both correct, no change.
+- **Preserved**: firewall framing and self-surfaced decoherence concession (flagged as strengths). last_deep_review unchanged. Length-neutral (~1901w → 1972w body).
+- **Published**: yes
+
 ## 2026-06-24T20:41:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Argument from Mechanism
