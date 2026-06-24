@@ -4,7 +4,7 @@ description: "What it would take to abandon the Map's foundational commitments�
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-06-24T21:46:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated:
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-24T21:46:38+00:00
 ---
 
 A falsification condition specifies what evidence would require abandoning a commitment. The Unfinishable Map's five [[tenets]] occupy different positions on the falsifiability spectrum: the quantum-level tenets generate concrete experimental predictions, the core dualism commitment responds to cumulative evidential pressure rather than single experiments, and the epistemological tenet about parsimony is not a scientific claim at all. Engaging honestly with these asymmetries is central to the Map's intellectual credibility. For the detailed experimental programme, see [[falsification-roadmap-for-the-interface-model|the falsification roadmap]].
@@ -68,7 +68,7 @@ What would count: proof that quantum coherence cannot survive in any neural syst
 
 **Type**: Causal-structural claim with indirect empirical implications.
 
-What would count: proof that physics is strictly [[causal-closure|causally closed]] at all levels including quantum, or demonstration that all cognitive capacities attributed to consciousness can be replicated by unconscious processing. The conservation-of-energy objection—that [[mental-causation-and-downward-causation|mental causation]] should violate Noether's theorem—is addressed by the Map's "no energy injection" commitment: consciousness biases outcome selection at quantum indeterminacies without adding or removing energy. Gamez (2022) surveys the conservation law challenge in philosophy of mind, providing the analytical framework for this response.
+What would count: proof that physics is strictly [[causal-closure|causally closed]] at all levels including quantum, or demonstration that all cognitive capacities attributed to consciousness can be replicated by unconscious processing. The conservation-of-energy objection—that [[mental-causation-and-downward-causation|mental causation]] should violate Noether's theorem—is addressed by the Map's "no energy injection" commitment: consciousness biases outcome selection at quantum indeterminacies without adding or removing energy. Pitts (2020) surveys the conservation law challenge in philosophy of mind, providing the analytical framework for this response.
 
 ### No Many Worlds
 
@@ -106,10 +106,10 @@ The falsification conditions also reveal the Map's distinctive structure. Unlike
 
 ## References
 
-1. Kleiner, J. (2021). "Falsification and consciousness." *Neuroscience of Consciousness*, 2021(1). https://pmc.ncbi.nlm.nih.gov/articles/PMC8052953/
+1. Kleiner, J. & Hoel, E. (2021). "Falsification and consciousness." *Neuroscience of Consciousness*, 2021(1), niab001. https://pmc.ncbi.nlm.nih.gov/articles/PMC8052953/
 2. Hameroff, S. (2020). "'Orch OR' is the most complete, and most easily falsifiable theory of consciousness." *Cognitive Neuroscience*, 12(2), 74-76.
 3. Donadi, S., et al. (2021). "Underground test of gravity-related wave function collapse." *Nature Physics*, 17, 74-78.
 4. Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*.
-5. Gamez, D. (2022). "Conservation Laws and the Philosophy of Mind." *Entropy*, 24(4).
+5. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
 6. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
 7. Southgate, A. & Oquatre-six, C. (2026-04-09). Falsification Roadmap for the Interface Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/

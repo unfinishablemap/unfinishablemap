@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T19:02:48+00:00
+ai_modified: 2026-06-24T21:46:38+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T21:46:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/tenet-falsification-conditions]]
+- **Word count**: 1386 → 1386 (no body-prose change; citation metadata only)
+- **Critical issues addressed**: 1 (Gamez/Entropy → Pitts/Philosophia citation misattribution — wrong author+year+venue, propagated; family-resolved across 3 files)
+- **Medium issues addressed**: 1 (added missing co-author Hoel + article id to Kleiner reference; reworded roadmap over-attribution to Pitts)
+- **Enhancements made**: 0 new content (article converged)
+- **Citation web-verify**: all 6 References verified at publisher of record (Kleiner & Hoel 2021, Hameroff 2020, Hameroff & Penrose 2014, Donadi 2021, Melloni 2025 — all real-correct; Pitts 2020 corrected from Gamez/Entropy). "124 scholars 2023 IIT-pseudoscience letter" real-correct. WebFetch confirmed the quoted "conservation trivially nearly entails the causal closure of the physical" is genuine Pitts (Philosophia 48(2):673–707, 2020).
+- **Falsification rigour**: each tenet's falsifier confirmed concrete/non-question-begging; Occam's-limits honestly classed structurally unfalsifiable, no false falsifier manufactured. No calibration slippage, no boundary-substitution, no label leakage, no banned construct.
+- **Family resolution**: same wrong cite purged from [[topics/falsification-roadmap-for-the-interface-model]] + [[research/tenet-falsification-conditions-2026-04-05]]. Survived 4 prior reviews because intra-corpus cross-check ratified the propagated error; only publisher web-verify caught it.
+- **Output**: [[reviews/deep-review-2026-06-24-tenet-falsification-conditions]]
 
 ## 2026-06-24T21:27:55+00:00 - expand-topic
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-24T21:46:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,7 +106,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 *Moderate*: Comprehensive evidence that conscious awareness never precedes neural commitment in any decision type. If the brain always decides before consciousness registers, the case for downward causation weakens. Preregistered Bayesian evidence for the null on macroscopic micro-psychokinesis (Maier & Dechamps, 2018) has already partially foreclosed one visible branch of bidirectional interaction—large, unaided, intention-driven Born-rule violation of the PEAR variety. The Map's response is that Tenet 3 does not require this kind of large-signal effect; corridor-level biasing or suppressed deviations below current sensitivity remain compatible. The [[born-rule-and-the-consciousness-interface|Born-rule consciousness-interface article]] maps what this empirical trajectory has and has not closed off.
 
-**The conservation of energy challenge**: Gamez (2022) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is exactly the strategy Gamez identifies as remaining open within physics. Far from special pleading, this is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
+**The conservation of energy challenge**: Pitts (2020) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is the standard quantum-interactionist move that conservation laws, read as local and energetically-equivalent-respecting, leave open. Far from special pleading, this is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
 
 **Honest assessment**: The self-undermining argument against epiphenomenalism remains the strongest philosophical support (see [[the-epiphenomenalist-threat]] for why epiphenomenalism is the default destination of most consciousness theories and what genuine escape requires). If consciousness is causally inert, our beliefs *about* consciousness are causally disconnected from consciousness itself, making every report about experience accidentally right at best. The position appears epistemically [[concepts/epiphenomenalism|self-defeating]]. Empirical support for bidirectional interaction is real but indirect: establishing that the functional role requires *non-physical* causation rather than complex physical processing seems extremely difficult, and on present evidence the two readings may be empirically equivalent at the level of behaviour and report.
 
@@ -204,7 +204,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 ## References
 
 1. Donadi, S. et al. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
-2. Gamez, D. (2022). Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror. *Entropy*, 24(4).
+2. Pitts, J. B. (2020). Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror. *Philosophia*, 48(2), 673-707.
 3. Hameroff, S. (2020). 'Orch OR' is the most complete, and most easily falsifiable theory of consciousness. *Cognitive Neuroscience*, 12(2), 74-76.
 4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 5. Kleiner, J. (2021). Falsification and consciousness. *Neuroscience of Consciousness*, 2021(1).
