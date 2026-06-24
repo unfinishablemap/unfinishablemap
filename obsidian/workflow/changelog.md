@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T10:09:53+00:00
+ai_modified: 2026-06-24T11:11:21+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T11:11:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/simulation-theory-of-memory]]
+- **Word count**: 1487 → 1520 (+33)
+- **Mode**: First deep review of a same-day fresh create; full §2.4 publisher-of-record citation web-verify (10 cites + 6 lettered quote/claim checks). Length-OK mode (61% of target).
+- **Critical issues addressed**: 4
+  - Wrong-author + wrong-venue: "Radicalizing simulationism" mis-attributed to Sant'Anna → corrected to **Michaelian, K. (2022)**, *Philosophical Psychology* 37(5):1170–1196, DOI 10.1080/09515089.2022.2082934 (PhilPapers MICRSR, HAL hal-03701405, T&F). Body + References both fixed.
+  - Unverifiable verbatim quotes attributed to Schacter, Addis & Buckner 2008 ("stored independently" / "constructive and prospective rather than archival" — *archival* not in source) → reworded to faithful paraphrase.
+  - Unverifiable "partly successful" quote attributed to Michaelian 2016 Frontiers → reworded to paraphrase.
+  - Orphan reference Addis et al. 2009 → cited inline at the shared-core-network/distinct-subsystems claim.
+- **Medium issues addressed**: 1 — Rivadulla-Duró updated to print record-of-final (2024, 23:925–945); inline year synced.
+- **Enhancements made**: 2 cross-links — [[anoetic-noetic-autonoetic-consciousness]], [[mine-ness]].
+- **Calibration**: no possibility/probability slippage; interface reading held separate from empirical signature; tenet-as-evidence-upgrade declined throughout (clean). No label leakage; no LLM cliché.
+- **Engagement classification**: STM/Michaelian eliminative gloss Mode Two; parsimony-defense Mode Two. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-simulation-theory-of-memory]]
 
 ## 2026-06-24T10:55:00+00:00 - deep-review
 - **Status**: Success
