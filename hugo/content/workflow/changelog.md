@@ -4,10 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-23 05:59:39+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-23'
+date: '2026-06-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-24T07:59:23+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Many-Minds Interpretation of Quantum Mechanics
+- **Output**: [many-minds-interpretation-2026-06-24](/research/many-minds-interpretation-2026-06-24/)
+- **Sources consulted**: 10
+- **Note**: Distinct gap confirmed — Map covers MWI broadly but had no dedicated treatment of the Albert–Loewer / Lockwood / Zeh many-MINDS interpretation (the one interpretation putting minds in the formalism). Highly tenet-relevant: it concedes dualism (Tenet 1) yet installs an acausal randomly-assigned mind (violates Tenet 3) and dissolves indexical identity exactly as MWI does (validates the Tenet 4 indexical objection). Mindless-hulks objection parallels the existing [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/).
 
 ## 2026-06-23T06:22:55+00:00 - deep-review
 - **Status**: Success
