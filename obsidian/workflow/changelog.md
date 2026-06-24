@@ -5,6 +5,13 @@ ai_modified: 2026-06-23T05:59:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T09:12:44+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Many-Minds Interpretation of Quantum Mechanics
+- **Output**: [[topics/many-minds-interpretation]]
+- **Word count**: 2070
+- **Based on research**: yes, [[research/many-minds-interpretation-2026-06-24]]
+
 ## 2026-06-24T09:08:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/chemosensory-consciousness-and-the-interface]]
