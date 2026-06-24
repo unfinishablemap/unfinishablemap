@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-06-16T19:15:48+00:00
+ai_modified: 2026-06-24T18:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -199,4 +199,4 @@ The distinction matters less than it might seem for the Map's core commitments, 
 1. Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Zimmerman, D. (2010). From property dualism to substance dualism. *Proceedings of the Aristotelian Society*, 84, 119-150.
+1. Zimmerman, D. (2010). From property dualism to substance dualism. *Aristotelian Society Supplementary Volume*, 84(1), 119-150.

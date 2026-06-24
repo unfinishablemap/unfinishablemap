@@ -4,7 +4,7 @@ description: "What connects a particular mind to a particular body? Kim's challe
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-06-24T18:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-24T18:38:00+00:00
 ---
 
 The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [[interactionist-dualism|mind-body interaction]] unintelligible. This is distinct from the [[causal-closure]] objection and potentially more fundamental. The Unfinishable Map's [[brain-interface-boundary]] framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
@@ -188,5 +188,5 @@ The [[objections-to-interactionism]] article provides comprehensive treatment of
 1. Kim, J. (2001). "Lonely Souls: Causality and Substance Dualism." In *Soul, Body, and Survival*, ed. K. Corcoran.
 1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies* 154: 349-360.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
-1. Zimmerman, D. (2010). "From Property Dualism to Substance Dualism." *Proceedings of the Aristotelian Society* 84: 119-150.
+1. Zimmerman, D. (2010). "From Property Dualism to Substance Dualism." *Aristotelian Society Supplementary Volume* 84(1): 119-150.
 1. Jahn, R.G., & Dunne, B.J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration* 19(2): 195-245.

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T17:50:57+00:00
+ai_modified: 2026-06-24T18:42:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T18:42:00+00:00 - deep-review
+- **Status**: Success (1 real citation-metadata defect found + family-resolved corpus-wide)
+- **File**: [[concepts/pairing-problem]]
+- **Word count**: 2369 → 2369 (no body-prose change; References venue corrected)
+- **Critical issues addressed**: 1 (Zimmerman 2010 wrong-venue metadata)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (venue correction propagated to 2 sibling articles)
+- **Citations (§2.4 publisher-of-record web-verify, 6 cites)**: Kim 2005 (*Physicalism, or Something Near Enough*, PUP) — real-correct; Kim 2001 ("Lonely Souls", *Soul Body & Survival* ed. Corcoran, Cornell 2001) — real-correct; Bailey/Rasmussen/Van Horn 2011 (*Philosophical Studies* 154:349-360, DOI 10.1007/s11098-010-9555-7) — real-correct; Hasker 1999 (*The Emergent Self*, Cornell) — real-correct; Zimmerman 2010 — **real-wrong-metadata**: venue *Proceedings of the Aristotelian Society* → corrected to *Aristotelian Society Supplementary Volume* 84(1):119-150 (DOI 10.1111/j.1467-8349.2010.00189.x); Jahn & Dunne 2005 (*JSE* 19(2):195-245) — real-correct. Inline↔References both directions: no orphans. Superlative-currency sweep: 0 hits.
+- **Family resolution**: Zimmerman venue fixed in pairing-problem.md + substance-property-dualism.md + where-the-substance-commitment-enters.md (research note unaffected — title-only cite). Wrong venue had been intra-corpus-ratified across 3 articles; only publisher-of-record caught it.
+- **Engagement classification**: Kim counter-objection — Mode One (in-framework); Illusionist Challenge (Dennett/Frankish) — Mode Three/Mixed (foundational-move ID + honest bedrock-boundary marking). No label leakage.
+- **Calibration**: PEAR claim correctly "consistent with" not "evidence for"; still aligned with brain-interface-boundary.md. No possibility→probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-24-pairing-problem]]
 
 ## 2026-06-24T18:23:53+00:00 - deep-review
 - **Status**: Success (converged no-op after real scrutiny)
