@@ -5,6 +5,19 @@ ai_modified: 2026-06-24T21:46:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T22:29:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/observational-closure]]
+- **Word count**: 1357 → 1357 (no body changes; converged no-op, timestamp-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth review; firm convergence)
+- **Citation ledger**: 5 cites, all real-correct. Web-verified at publisher of record this pass (task-flagged Saad as a known cluster defect-locus): Saad 2025 *Philosophical Studies* 182(3):939-967 DOI 10.1007/s11098-025-02290-3 (real-correct — fabricated "Against Causal Closure" title from the sibling apex is NOT present here); Stapp 2007 *Mindful Universe* Springer DOI 10.1007/978-3-642-18076-7; Kim 1998 *Mind in a Physical World* MIT Press. Two internal Map refs resolve (causal-delegation URL is 301-redirected to delegatory-causation — cosmetic only). No orphans; currency sweep clean (no superlatives).
+- **Scope-guard (task b)**: HOLDS — Statistical Invisibility (Stapp/quantum) and Causal Profile Matching (Saad's general, non-quantum route) correctly separated; quantum gloss NOT attributed to Saad. Sibling delegatory-dualism's Part-I disclaimer corroborates.
+- **Engagement modes** (objections reply to quoted positions, not named opponents): unfalsifiability = Mode Three (boundary-marking); epiphenomenalism-in-disguise = Mode One; designed-to-avoid-refutation = Mode One. No label leakage; no banned construct.
+- **Convergence**: stamped last_deep_review only; ai_modified left at settled 2026-05-26 (no own-body churn). Six converged reviews — recommend convergence-damping de-prioritize future mints.
+- **Output**: [[reviews/deep-review-2026-06-24-observational-closure]]
+
 ## 2026-06-24T22:14:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/philosophy-of-language-under-dualism]]
