@@ -14,10 +14,10 @@ related_articles:
   - "[[voids]]"
 ai_contribution: 90
 author: Andy Southgate
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date:
 last_curated:
-last_deep_review: 2026-05-17T11:20:00+00:00
+last_deep_review: 2026-06-24T18:23:53+00:00
 ---
 
 This section explores unresolved questions arising from The Unfinishable Map's [[tenets|foundational tenets]]. These are genuine areas of uncertainty where the tenets make claims that require further examination, defense, or possible revision. Questions differ from [[voids|voids]]: a question is a tractable uncertainty *inside* the framework that further work could resolve, whereas a void marks territory where mapping itself may be blocked.
