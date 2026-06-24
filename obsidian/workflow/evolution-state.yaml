@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T17:18:17.039552+00:00'
-session_count: 13070
-cycle_position: 9879
+last_updated: '2026-06-24T17:23:52.623729+00:00'
+session_count: 13071
+cycle_position: 9880
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T15:08:07.413114+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
-  refine-draft: '2026-06-24T15:11:20.733650+00:00'
+  refine-draft: '2026-06-24T17:23:52.623729+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
   replenish-queue: '2026-06-24T17:13:46.763943+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-24'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-24'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1181,15 +1181,64 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 3
-  replenishment_source_counts:
-    unconsumed_research: 1
-  last_replenishment_run: 601
-  last_replenishment: '2026-06-24T17:12:00+00:00'
+  loop_pickable_open: 2
+  replenishment_source_counts: {}
+  last_replenishment_run: 602
+  last_replenishment: '2026-06-24T17:27:00+00:00'
   last_replenishment_mode: conservative
+  run_602_note: 'run no.602 (2026-06-24T17:27Z): NO-OP FLOOR-DOCUMENTED (no new mint,
+    no promotion). Authoritative tools.evolution.task_selector.count_p0_p2_tasks =
+    2; select_queue_task returns a REAL executable P2 (entropic-brain-hypothesis inbound
+    cross-links, TaskType.REFINE_DRAFT) -- queue FUNCTIONAL, NOT deadlock. MIN_QUEUE
+    floor 3, unmet by 1. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT the fixed deadlock. The two live counted P2s = entropic-brain-hypothesis inbound
+    cross-links + parapsychology-firewall inbound cross-links (both real integration
+    deficits, both select_queue_task-pickable). The three condenses (phenomenal-output
+    6872w, composition-question-rivals 4106w, meaning-of-life 4160w) are #veto / parser-excluded.
+    ZERO open P3s remain to promote (both real integration-deficit P3s already at P2
+    in prior runs), so floor-restore-by-promotion is also exhausted. Corrected the
+    stale state counts p2_tasks 3->2 / loop_pickable_open 3->2: the run-601 mint (staleness
+    deep-review of concepts/relational-quantum-mechanics.md) was PICKED + executed
+    this cycle (commit fa1027969, now ## Completed-section ### checkmark 2026-06-24,
+    last_deep_review refreshed 2026-06-24T16:10), dropping the live floor 3->2 (deep_review_over_reviews_converged
+    same-day collision). EIGHT-SOURCE AUDIT re-run from LIVE DISK, ALL exhausted of
+    clean genuine-MINT candidates: (1 chain) recent_tasks types = replenish x8 / deep-review
+    x7 / agentic-social x2 / check-model-fallback / optimistic-review / refine-draft
+    -- ZERO research-topic/expand-topic/cross-review completions producing successors.
+    (2 unconsumed research) ZERO -- the 3 newest 06-24 notes disk-confirmed consumed:
+    simulation-theory-of-memory->concepts/simulation-theory-of-memory, many-minds-interpretation->topics/many-minds-interpretation,
+    phenomenal-concepts-strategy->concepts/phenomenal-concepts-strategy. (3 gap/caps)
+    topics 280/320, concepts 268/320, positions 8/80 have headroom but new-article
+    generation is harvester-governed (harvest ran 13:53Z, next ~19:53Z) + gap-analysis
+    Vetoed-bank-dedup-blocked; voids 101/100 over. (4 genuine-drift) NO clean un-minted
+    own-body candidate: all 133 nominal drift rows are cosmetic cross-touch churn (git-verified
+    top tier: probability-problem-in-many-worlds am-bump = an already-COMPLETED citation-metadata
+    refine commit 3e76e530e, line 1261 ## Completed; time-consciousness-growing-block
+    / attention-as-causal-bridge = reciprocal cross-link touches; creative-aesthetic-void
+    / inaccessible-past = sibling expand-topic cross-touches; apex-articles = governance-tracked
+    index hub) -- deep_review_over_reviews_converged / replenish-false-exhaustion-mislabeled-drift
+    respected. (4b staleness >=30d) DRY by ONE DAY -- the stalest real deep-reviewed
+    cohort is EXACTLY 29d (2026-05-26 ldr: working-memory, voluntary-attention-control-mechanisms,
+    the-surplus-void, tenet-falsification-conditions, symbol-grounding-problem, supervenience,
+    pragmatism, philosophy-of-language-under-dualism, pairing-problem, et al.), UNDER
+    the 30d threshold -- reopens TOMORROW 2026-06-25. (5 length) re-confirmed via get_length_warnings:
+    every CONTENT (non-research) hard/critical offender is human-deferred (epistemology-of-convergence
+    6479w DIVERTED, born-rule 5118w HUMAN-DECISION, clinical-dissociation 4670w, time-collapse
+    4606w, argument-from-reason 4489w, epistemic-advantages 4400w, memory-channel 4296w
+    accept-as-survey), #veto (phenomenal-output 6872w, composition-question-rivals 4106w,
+    meaning-of-life 4160w), HUMAN-LENGTH-DECISION (synesthetic-void 3578w, edge-states
+    3482w), an index hub (apex-articles 9788w governance-tracked), a count-words-includes-frontmatter
+    false positive (agency-void 3174w, what-voids-reveal 3019w), a positions-evolve-governed
+    register file (positions/quantum-interface 2529w ~29w over 2500), or research/
+    working notes -- NO clean mintable condense (replenish-overmints-condense-vs-accept-as-survey).
+    (6 orphan) orphaned_files=0. (7 positions) 8 entries (<10 audit threshold), positions-evolve
+    ran 2026-06-22, slow-add 2-add/run. (8 applied-apex) 3 applied apex extant, no
+    high-confidence cluster gap. Expect replenish-at-floor alternation to continue
+    until the >=30d staleness cohort reopens 2026-06-25 and/or the harvester reopens
+    the research->expand pipeline ~19:53Z. PRIOR RUN 601 NOTE FOLLOWS superseded_run_601_note.'
   superseded_run_598_note: 'run no.598 (2026-06-24T16:05Z): GENUINE-MINT FLOOR-RESTORE.
     Pre-mint authoritative tools.evolution.task_selector.count_p0_p2_tasks = 2 (entropic-brain-hypothesis
     cross-links refine + parapsychology-firewall integrate-orphan, both grep-verified
@@ -1906,7 +1955,7 @@ queue_status:
     threshold, slow-add, positions-evolve ran 2026-06-22. (8 applied-apex) 3 extant,
     no cluster gap. Expect replenish-at-floor alternation to continue. PRIOR RUN 599
     NOTE FOLLOWS superseded_run_599_note.'
-  current_replenishment_note: 'run no.601 (2026-06-24T17:12Z): GENUINE-MINT FLOOR-RESTORE
+  superseded_run_601_note: 'run no.601 (2026-06-24T17:12Z): GENUINE-MINT FLOOR-RESTORE
     (conservative, 1 mint). Pre-mint authoritative count_p0_p2_tasks = 2 (entropic-brain-hypothesis
     outside-cluster cross-links + parapsychology-firewall inbound cross-links; the
     3 #veto condenses parser-excluded); MIN_QUEUE floor 3, unmet by 1. NO open P3
