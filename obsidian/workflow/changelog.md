@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T09:34:41+00:00
+ai_modified: 2026-06-24T09:54:55+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T09:54:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/many-minds-interpretation]]
+- **Word count**: 2070 → 2117 (+47; 71% of 3000 topics target, status ok)
+- **Critical issues addressed**: 2 — (1) orphan inline cite: McQueen & Vaidman cited inline but missing from References (added, publisher-verified *Stud. Hist. Phil. Mod. Phys.* 66: 14–23; attribution faithful per SEP co-crediting Kent 2015 + McQueen-Vaidman 2019 with the "starts with a meaningless question" objection the article glosses as "absent uncertainty"); (2) paraphrase-as-quote: IEP string "non-physical and non-supervenient... except at the 'global' level" was in quotation marks but not the IEP's wording — replaced with verbatim IEP text ("not subject to the rules of quantum mechanics for their evolution"; local state "does not so supervene")
+- **Medium issues addressed**: 1 — added author (Lu, Z.) to the arXiv:2209.02639 References entry for completeness
+- **Citation web-verify (§2.4)**: full per-cite ledger in the review archive. All cites real-correct at publisher of record — Albert & Loewer 1988 (*Synthese* 77:195–213), Lockwood 1996 (*BJPS* 47:159–188), Barrett 1999 (OUP), Hemmo & Pitowsky 2003 (*BJPS* 54:225–243), Sebens & Carroll 2016 (arXiv:1405.7577), Zeh 2000 (*Found. Phys. Lett.* 13:221–233), SEP, IEP, Lu 2022. No fabricated/wrong-author/wrong-venue/wrong-year defects. All direct quotes (Albert-Loewer "complete certainty" + p.206 "one cannot tell from the state of a brain"; Lockwood "democracy of vector bases"/"maximal experience"/"senseless to ask"; SEP "continuum of minds"/"should not be confused"/"resembles Zeh") verified verbatim. No superlative/empirical-record currency claims.
+- **Link integrity**: all 17 wikilink targets resolve; no broken links
+- **Reasoning modes (editor-internal)**: Lockwood engagement = Mode Three (framework-boundary, honest); MMI-program engagement = Mixed (internal critique → bedrock declaration). No boundary-substitution; no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-many-minds-interpretation]]
 
 ## 2026-06-24T09:34:41+00:00 - refine-draft
 - **Status**: Success
