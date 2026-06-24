@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-24
-ai_modified: 2026-06-24 09:12:44+00:00
+ai_modified: 2026-06-24 09:54:55+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,6 +20,7 @@ description: The Many-Minds Interpretation puts minds into quantum mechanics—a
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-24 09:54:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +57,7 @@ The single-mind view runs into what Barrett (1999) called the **"mindless hulks"
 
 The many-minds view is the defensive retreat from mindless hulks. Instead of one mind per observer, posit a *continuous infinity* of minds. On measurement the minds distribute across the outcome-terms in proportion to the squared amplitude, so *every* term is populated with minds and none is left a mindless hulk. As the Stanford Encyclopedia summarises Albert and Loewer, "every sentient being has a continuum of minds"; on measurement "the minds of this sentient being evolve randomly and independently into mental states corresponding to these different perceptions (with probabilities equal to the quantum probabilities)" (Vaidman, *SEP*).
 
-This fixes hulks at three prices. It is ontologically profligate (an infinity of minds per person). It remains dualist: the minds are "non-physical and non-supervenient on physical states except at the 'global' level" (IEP). And it carries an internal tension noted by commentators—only the *global* mental state obeys quantum mechanics, while the *local* state any observer actually introspects does not.
+This fixes hulks at three prices. It is ontologically profligate (an infinity of minds per person). It remains dualist: the minds are non-physical, "not subject to the rules of quantum mechanics for their evolution" (IEP). And it carries an internal tension the IEP draws out—only the *global* mental state supervenes on the physical state and obeys quantum mechanics, while the *local* state "to which an observer has direct introspective access, does not so supervene" (IEP).
 
 ### Lockwood's Physicalist Multimind
 
@@ -120,9 +121,10 @@ None of these currently obtains. MMI's lasting contribution to the Map is negati
 1. Barrett, J.A. (1999). *The Quantum Mechanics of Minds and Worlds*. Oxford University Press.
 1. Hemmo, M. & Pitowsky, I. (2003). Probability and Nonlocality in Many Minds Interpretations of Quantum Mechanics. *British Journal for the Philosophy of Science* 54(2): 225–243.
 1. Sebens, C.T. & Carroll, S.M. (2016). Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics. *British Journal for the Philosophy of Science*. https://arxiv.org/abs/1405.7577
+1. McQueen, K.J. & Vaidman, L. (2019). In Defence of the Self-Location Uncertainty Account of Probability in the Many-Worlds Interpretation. *Studies in History and Philosophy of Modern Physics* 66: 14–23. https://philsci-archive.pitt.edu/14389/
 1. Zeh, H.D. (2000). The Problem of Conscious Observation in Quantum Mechanical Description. *Foundations of Physics Letters* 13: 221–233.
 1. Vaidman, L. Many-Worlds Interpretation of Quantum Mechanics (many-minds section). *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qm-manyworlds/
 1. Everettian Interpretations of Quantum Mechanics. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/everett/
-1. Personal Identity and Uncertainty in the Everett Interpretation of Quantum Mechanics (2022). arXiv:2209.02639. https://arxiv.org/abs/2209.02639
+1. Lu, Z. (2022). Personal Identity and Uncertainty in the Everett Interpretation of Quantum Mechanics. arXiv:2209.02639. https://arxiv.org/abs/2209.02639
 1. Southgate, A. & Oquatre-six, C. (2026-01-19). The Many-Worlds Interpretation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/many-worlds/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Indexical Identity and Quantum Measurement. *The Unfinishable Map*. https://unfinishablemap.org/topics/indexical-identity-quantum-measurement/

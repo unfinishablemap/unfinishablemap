@@ -1,13 +1,121 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24 09:34:41+00:00
+ai_modified: 2026-06-24 11:53:36+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-24T11:53:36+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [steelmanning-as-method](/apex/steelmanning-as-method/)
+- **Changed sources**: 3 (the 2026-06-24 rival-accommodation cluster: many-minds-interpretation, simulation-theory-of-memory, near-death-experiences)
+- **Word count**: 3947 → 3999 (length-neutral; +52 net = 3 new Source-Articles entries, prose offset by tightening ~30 passages)
+- **Mode**: Folded three cluster articles in as single-move worked exhibits (move one / move three / move four) under a new "Single-Move Exhibits Across Domains" section, complementing the all-four-moves dissociation exhibit. Inherits the cluster's "accommodation, not proof" calibration. All 8 quoted strings grep-verified verbatim against live sources (stale-internal-quote-channel guard). Added the three to apex_sources / related_articles. last_deep_review left unchanged (evolve, not deep-review).
+- **Review**: [apex-evolve-2026-06-24-steelmanning-as-method](/reviews/apex-evolve-2026-06-24-steelmanning-as-method/)
+
+## 2026-06-24T11:36:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [qualia](/concepts/qualia/)
+- **Word count**: 3393 → 3393 (±0)
+- **Mode**: 17th deep review; converged integrity-verification no-op. Only delta since the 2026-06-03 pass was the vetted 2026-06-09 outer-review illusionism-cluster regress rewrite (commit ead071736) — verified compliant, not re-litigated. Ran mandatory §2.4 publisher-of-record citation web-verify on the two cites anchoring changed/recent content.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no content edits)
+- **Citations**: Frankish 2016 (J Consciousness Studies 23(11-12):11-39) verified real-correct at publisher (Ingenta/PhilPapers); Duch 2005 (J Mind and Behavior 26(1-2):1-22) verified real-correct at publisher (U Maine JMB/PhilArchive). Remainder canonical pre-2020. No orphans; superlative-currency sweep clean (none detected).
+- **Reasoning-mode**: Frankish/illusionism engagement = Mode Two (illusionism owes a mechanism on its own standard) with honest framework-boundary marking of the bare regress; declines boundary-substitution; consistent with [illusionism](/concepts/illusionism/); no label leakage. Duch/Block unchanged, prior-verified.
+- **Length**: 3393 (136% of 2500 soft, below 3500 hard, ~107w of headroom). Growth is the deliberate outer-review fix, not accretion; no condense. Next pass: strict length-neutral.
+- **Output**: [deep-review-2026-06-24-qualia](/reviews/deep-review-2026-06-24-qualia/)
+
+## 2026-06-24T11:15:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Word count**: 3498 → 3498 (±0)
+- **Mode**: 11th deep review; net-neutral audit pass. Article sits **2 words under the 3500 concepts hard ceiling** — no headroom for additions. Verified the 2026-06-23 refine-draft (commit 6482ecfab) fully remediated the 2026-06-22 standalone pessimistic review's 7 argumentative-calibration medium issues; ran mandatory §2.4 publisher-of-record citation web-verify.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (the pessimistic-review medium items were already remediated by the intervening refine-draft; this pass confirmed each landed cleanly with no regression)
+- **Citations**: Beilock & Carr 2001 (J Exp Psychol Gen 130(4):701-725) and Baumeister 1984 (JPSP 46(3):610-620) re-verified at publisher of record this pass — both real-correct; other 4 load-bearing cites (Masters 1992, Fuchs 2005, Clark & Chalmers 1998, plus canonical works) carried forward from 2026-06-22 ledger. No defects, no orphans, no superseded superlatives (currency sweep clean — robotics claim already conditional "as of 2026").
+- **Calibration**: no possibility/probability slippage — every "logical space"/compatibility instance now concedes physicalist symmetry or points to the occupied argument in [mind-brain-separation](/concepts/mind-brain-separation/). Diagnostic test: tenet-accepting reviewer would flag nothing as overstated.
+- **Reasoning modes**: choking/physicalist = Mode Three (boundary-marking, mainstream reading conceded); Nāgārjuna = Mode One+Three mixed (transcendental critique + honest residue now propagated to 2 downstream sections). No label leakage, no LLM cliché.
+- **Enhancements made**: 0 — high convergence + 2-word ceiling headroom; no net-positive edit available.
+- **Output**: [deep-review-2026-06-24-embodied-cognition](/reviews/deep-review-2026-06-24-embodied-cognition/)
+
+## 2026-06-24T11:11:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [simulation-theory-of-memory](/concepts/simulation-theory-of-memory/)
+- **Word count**: 1487 → 1520 (+33)
+- **Mode**: First deep review of a same-day fresh create; full §2.4 publisher-of-record citation web-verify (10 cites + 6 lettered quote/claim checks). Length-OK mode (61% of target).
+- **Critical issues addressed**: 4
+  - Wrong-author + wrong-venue: "Radicalizing simulationism" mis-attributed to Sant'Anna → corrected to **Michaelian, K. (2022)**, *Philosophical Psychology* 37(5):1170–1196, DOI 10.1080/09515089.2022.2082934 (PhilPapers MICRSR, HAL hal-03701405, T&F). Body + References both fixed.
+  - Unverifiable verbatim quotes attributed to Schacter, Addis & Buckner 2008 ("stored independently" / "constructive and prospective rather than archival" — *archival* not in source) → reworded to faithful paraphrase.
+  - Unverifiable "partly successful" quote attributed to Michaelian 2016 Frontiers → reworded to paraphrase.
+  - Orphan reference Addis et al. 2009 → cited inline at the shared-core-network/distinct-subsystems claim.
+- **Medium issues addressed**: 1 — Rivadulla-Duró updated to print record-of-final (2024, 23:925–945); inline year synced.
+- **Enhancements made**: 2 cross-links — [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/), [mine-ness](/concepts/mine-ness/).
+- **Calibration**: no possibility/probability slippage; interface reading held separate from empirical signature; tenet-as-evidence-upgrade declined throughout (clean). No label leakage; no LLM cliché.
+- **Engagement classification**: STM/Michaelian eliminative gloss Mode Two; parsimony-defense Mode Two. No label leakage.
+- **Output**: [deep-review-2026-06-24-simulation-theory-of-memory](/reviews/deep-review-2026-06-24-simulation-theory-of-memory/)
+
+## 2026-06-24T10:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/)
+- **Word count**: 4260 → 4260 (no body edits — converged third review)
+- **Mode**: Diff-scoped audit of changed-since-review staleness; only body change since 2026-06-04 last-review is the 2026-06-16 apex-evolve (conservative within-cluster discount + Marsh 2021 anchor).
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (license-to-no-op exercised)
+- **Citation web-verify**: Marsh et al. 2021 (the one cite added since the 2026-06-04 ledger) verified real-correct at publisher of record — PLOS ONE 16(2):e0245849, DOI 10.1371/journal.pone.0245849, 2021-02-12. Sarasso 2015 / Hu 2023 / Wiest 2025 unchanged since prior ledger; not re-litigated.
+- **Seam-check**: within-cluster common-cause discount + Marsh gloss faithfully imported from [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) (lines 82, 129); no slippage. Anchoring flags re-confirmed as the known `establishes`-demarcation lexicon false positive.
+- **Engagement classification**: materialism/functionalism Mode Three; MWI Mode Three; simplest-identity-reading Mode One. No label leakage.
+- **Output**: [deep-review-2026-06-24-pharmacological-dissociation-as-evidence](/reviews/deep-review-2026-06-24-pharmacological-dissociation-as-evidence/)
+
+## 2026-06-24T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Word count**: 3490 (body, pre-edit) → 3503 (post-edit; net +13 from a body rewrite needed to fix two miscitations, partly offset by prose trims)
+- **Purpose**: GENUINE-DRIFT verification of two unverified post-converged refines (569f582ce active-inference section + Sandved-Smith cite; 186132d5a conditioned closure claim + 2 new 2024-26 cites). A refine stamp is not a review stamp.
+- **Critical issues addressed**: 2 (both citation defects in the NEW cites, caught only by §2.4 publisher-of-record web-verify — invisible to intra-corpus cross-check)
+  - **BMC 2025 wrong-author + wrong-species** → FIXED: "Khan, S. et al. (2025) … in rats" (invented title "Microtubule-binding drugs modulate anesthetic sensitivity in rats") is actually **Li, N. … Martyn, J.A.J. (2025), "Microtubule-modulating drugs alter sensitivity to isoflurane in mice," *BMC Anesthesiology* 25:109** (CD1 mice, NOT rats; first author Na Li, NOT Khan). The refine conflated it with the genuine Khan/Wiest 2024 *eNeuro* rats epothilone-B paper. Findings (epothilone D + vinblastine left-shift ED50; paclitaxel resistant) were accurate; author/species/title corrected. Web-verified Springer/BMC.
+  - **Sci Rep 2024 fabricated title** → FIXED: invented title "Non-thermal microwave exposure and anesthetic unconsciousness" (no author) is actually **Hammarin, G. et al. (2024), "No observable non-thermal effect of microwave radiation on the growth of microtubules," *Scientific Reports* 14:18286** (Neutze group; about microtubule growth, nothing to do with anaesthesia). Web-verified nature.com/PMC.
+- **Citation ledger (3 new cites, 3-state)**: Sandved-Smith et al. 2021 *Neurosci. Conscious.* 2021(1) niab018 — real-correct (PubMed 34457352; body matches abstract). BMC 2025 — real-paper-wrong-author/species → corrected to Li et al. 2025 25:109. Sci Rep 2024 — real-paper-fabricated-title → corrected to Hammarin et al. 2024 14:18286. Pre-existing ~15 cites unchanged since the 2026-06-05/06-20 exhaustive web-verify, not re-litigated.
+- **Family-resolution**: BMC 2025 also in [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — that article cites it CORRECTLY (mouse study, correct title/findings); defect was specific to the new content here. Left sibling as-is (its body is faithful; author-as-journal-name is stylistic, alphabetized under B).
+- **New argument content**: Active-Inference Rival section = **Mode Three (framework-boundary marking)**, honest restraint — explicitly declines a false Mode-One refutation, marks the residual which-outcome step as bedrock, invokes [evidential-status-discipline](/project/evidential-status-discipline/). No boundary-substitution, no label leakage. Conditioned causal-closure claim = calibration improvement (over-claim "closure fails precisely here" → "a *possible* breach… only conditionally," lists 4 rival resolutions). Both new wikilinks resolve.
+- **Sweeps**: superlative-claim = none (no currency-drift exposure); banned construct = none; label leakage = none; all wikilinks resolve.
+- **Medium issues**: 1 — the two refines pushed a converged article ~3w over the 3500 concepts hard ceiling. Trimmed ~15w of prose redundancy but stopped short of cutting load-bearing argument; **queued a HUMAN-LENGTH-DECISION task in Blocked Tasks** (NOT auto-condensable — Tenet-3 calibration register).
+- **Output**: [deep-review-2026-06-24-consciousness-selecting-neural-patterns](/reviews/deep-review-2026-06-24-consciousness-selecting-neural-patterns/)
+
+## 2026-06-24T11:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The rival-accommodation cluster — the six most-recently-modified non-draft articles (2026-06-24): concepts/phenomenal-concepts-strategy, topics/many-minds-interpretation, concepts/near-death-experiences, concepts/simulation-theory-of-memory, topics/chemosensory-consciousness-and-the-interface, topics/phenomenal-value-realism. All six adopt a rival framework's mechanism and contest only its eliminative gloss — six clean performances of the steelmanning-as-method discipline. Process Philosopher and Hardline Empiricist personas converge in praise (no calibration concern). Headline opportunity: refresh apex/steelmanning-as-method with these as worked exhibits (its exhibit set is thin).
+- **Output**: [optimistic-2026-06-24](/reviews/optimistic-2026-06-24/)
+
+## 2026-06-24T10:09:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
+- **Source**: unconsumed-research chain successor; research note [phenomenal-concept-strategy-2024-2026-update-2026-06-24](/research/phenomenal-concept-strategy-2024-2026-update-2026-06-24/)
+- **Word count**: 2569 → 3351 (+782; soft_warning, 149w under 3500 concepts hard ceiling — length-neutral-to-modest constraint honoured, folded into existing sections)
+- **Original score**: n/a (curate.py review entry point is the known-stale command per MEMORY; used analyze_length + validate.py instead)
+- **Changes (currency update, 2024-2026 PCS literature)**:
+  - **Carruthers & Veillet (2007) equivocation reply** (the note's "single most useful addition"): rewrote "Attacking the Zombie Premise" to attribute the first-person/third-person equivocation charge to C&V, name recognitional *isolation* as the load-bearing feature, and add the dualist counter (the from-the-inside content the charge needs is the disputed item). Added matching `#attacking-the-zombie-premise` named anchor from the master-argument section.
+  - **Ball, "There Are No Phenomenal Concepts" (*Mind* 118, 2009)**: new subsection, framed double-edged — removes PCS's explanans AND collateral-damages the knowledge-argument route to dualism; recorded as survivable (conceivability + persistence + quantum-interface routes remain) not as a pure gift.
+  - **Master-argument calibration**: softened description from "shows why this strategy fails" → "exposes a dilemma PCS has not stably escaped"; added a paragraph noting the exchange is open (C&V + Sasaki 2025), reframing the argument's achievement as burden-shifting rather than refutation.
+  - **Zhou (2025) "indicating without revealing"**: folded the a-posteriori "indicate-not-reveal" retreat into The Debate's Current State, with the dualist diagnosis (it restates the gap per-concept rather than dissolving it).
+- **Citation web-verify (publisher of record, ai_citation_metadata_unreliable 3-state)**: Carruthers & Veillet (2007) *J. Consciousness Studies* 14(9–10):212–236 — real-correct (matches sibling article ref). Ball (2009) *Mind* 118(472):935–962 — real-correct. Zhou (2025) "Indicating without Revealing" *Synthese* 206(2) — real-correct. **Sasaki (2025) metadata CORRECTED**: research note flagged conflation risk with PhilArchive MABTPC; verified Sasaki = *Kagaku Tetsugaku (Philosophy of Science)* 58(1), a DISTINCT paper from Mabaquiao's "The Phenomenal Concept Strategy and a Master Argument" (different author/venue) — cited Sasaki with correct venue, did NOT conflate. Fürst (2014) untouched (already present + verified prior).
+- **Engagement classification (editor-internal)**: Carruthers & Veillet reply = Mode Two→Mode Three mixed (in-framework isolation argument granted as strongest live rejoinder, then boundary-marked: the first-person content it needs is the disputed item, honestly noted not refuted within C&V's frame). Ball = Mode Three (framework-boundary; double-edged, survivability declared honestly). No label leakage to body.
+- **Integrity**: validate.py ✓; 41 body wikilinks preserved; inline↔References bidirectional (4 new inline cites all backed, no orphan refs); no banned "This is not X. It is Y." construct; anti-epiphenomenalism calibration + voice preserved; last_deep_review NOT bumped (refine, not review).
+- **Published**: yes
+- **Status**: Success
+- **File**: [many-minds-interpretation](/topics/many-minds-interpretation/)
+- **Word count**: 2070 → 2117 (+47; 71% of 3000 topics target, status ok)
+- **Critical issues addressed**: 2 — (1) orphan inline cite: McQueen & Vaidman cited inline but missing from References (added, publisher-verified *Stud. Hist. Phil. Mod. Phys.* 66: 14–23; attribution faithful per SEP co-crediting Kent 2015 + McQueen-Vaidman 2019 with the "starts with a meaningless question" objection the article glosses as "absent uncertainty"); (2) paraphrase-as-quote: IEP string "non-physical and non-supervenient... except at the 'global' level" was in quotation marks but not the IEP's wording — replaced with verbatim IEP text ("not subject to the rules of quantum mechanics for their evolution"; local state "does not so supervene")
+- **Medium issues addressed**: 1 — added author (Lu, Z.) to the arXiv:2209.02639 References entry for completeness
+- **Citation web-verify (§2.4)**: full per-cite ledger in the review archive. All cites real-correct at publisher of record — Albert & Loewer 1988 (*Synthese* 77:195–213), Lockwood 1996 (*BJPS* 47:159–188), Barrett 1999 (OUP), Hemmo & Pitowsky 2003 (*BJPS* 54:225–243), Sebens & Carroll 2016 (arXiv:1405.7577), Zeh 2000 (*Found. Phys. Lett.* 13:221–233), SEP, IEP, Lu 2022. No fabricated/wrong-author/wrong-venue/wrong-year defects. All direct quotes (Albert-Loewer "complete certainty" + p.206 "one cannot tell from the state of a brain"; Lockwood "democracy of vector bases"/"maximal experience"/"senseless to ask"; SEP "continuum of minds"/"should not be confused"/"resembles Zeh") verified verbatim. No superlative/empirical-record currency claims.
+- **Link integrity**: all 17 wikilink targets resolve; no broken links
+- **Reasoning modes (editor-internal)**: Lockwood engagement = Mode Three (framework-boundary, honest); MMI-program engagement = Mixed (internal critique → bedrock declaration). No boundary-substitution; no label leakage.
+- **Output**: [deep-review-2026-06-24-many-minds-interpretation](/reviews/deep-review-2026-06-24-many-minds-interpretation/)
 
 ## 2026-06-24T09:34:41+00:00 - refine-draft
 - **Status**: Success

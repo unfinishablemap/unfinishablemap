@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T11:36:55+00:00
+ai_modified: 2026-06-24T11:53:36+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T11:53:36+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/steelmanning-as-method]]
+- **Changed sources**: 3 (the 2026-06-24 rival-accommodation cluster: many-minds-interpretation, simulation-theory-of-memory, near-death-experiences)
+- **Word count**: 3947 → 3999 (length-neutral; +52 net = 3 new Source-Articles entries, prose offset by tightening ~30 passages)
+- **Mode**: Folded three cluster articles in as single-move worked exhibits (move one / move three / move four) under a new "Single-Move Exhibits Across Domains" section, complementing the all-four-moves dissociation exhibit. Inherits the cluster's "accommodation, not proof" calibration. All 8 quoted strings grep-verified verbatim against live sources (stale-internal-quote-channel guard). Added the three to apex_sources / related_articles. last_deep_review left unchanged (evolve, not deep-review).
+- **Review**: [[reviews/apex-evolve-2026-06-24-steelmanning-as-method]]
 
 ## 2026-06-24T11:36:55+00:00 - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-06-09 06:20:32+00:00
+ai_modified: 2026-06-24 11:36:55+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -37,7 +37,7 @@ description: The intrinsic, subjective qualities of conscious experience—the r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 10:18:26+00:00
+last_deep_review: 2026-06-24 11:36:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

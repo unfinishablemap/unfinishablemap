@@ -72,7 +72,7 @@ Endel Tulving (1927–2023) introduced the episodic/semantic distinction in 1972
 
 ### Mental Time Travel
 
-Autonoetic consciousness enables the projection of oneself to specific times and places. Schacter and Addis (2007) proposed that episodic memory and [episodic future thinking](/concepts/prospective-memory/) share a common constructive system—the same core neural network activating for both remembering and imagining.
+Autonoetic consciousness enables the projection of oneself to specific times and places. Schacter and Addis (2007) proposed that episodic memory and [episodic future thinking](/concepts/prospective-memory/) share a common constructive system—the same core neural network activating for both remembering and imagining. The strong philosophical extension of this claim—that remembering simply *is* a kind of imagining—is the [simulation theory of memory](/concepts/simulation-theory-of-memory/), whose deflation of the storage metaphor the dual-domain account shares even as it denies that physical construction exhausts what remembering is.
 
 The bidirectionality is not symmetric. When you remember, you *re-experience*—the pastness quale marks genuine causal contact with what happened, since the remembered event shaped your brain. When you imagine the future, you *construct* without analogous phenomenal grounding. This [asymmetry](/voids/temporal-void/) is conceptually necessary: future events haven't caused anything yet.
 
