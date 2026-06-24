@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T11:33:11.221020+00:00'
-session_count: 13019
-cycle_position: 9857
+last_updated: '2026-06-24T11:39:03.659274+00:00'
+session_count: 13020
+cycle_position: 9858
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T09:31:57.785022+00:00'
   optimistic-review: '2026-06-24T10:23:56.622856+00:00'
   check-tenets: '2026-06-22T20:05:05.753355+00:00'
   check-links: '2026-06-24T08:38:38.202991+00:00'
-  deep-review: '2026-06-24T11:18:38.177570+00:00'
+  deep-review: '2026-06-24T11:39:03.659274+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-24T08:41:35.077027+00:00'
   coalesce: '2026-06-24T11:33:11.221020+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 416
-  reviews_completed: 5679
+  reviews_completed: 5680
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-06-24'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-06-24'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1188,15 +1188,60 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 4
+  p3_tasks: 3
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    staleness: 1
-  last_replenishment_run: 586
-  last_replenishment: '2026-06-24T11:25:00+00:00'
+    promotion: 1
+  last_replenishment_run: 587
+  last_replenishment: '2026-06-24T11:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.586 (2026-06-24T11:25Z): MINTED 1 genuine-drift
+  current_replenishment_note: 'run no.587 (2026-06-24T11:45Z): PROMOTED 1 well-grounded
+    P3->P2 (apex/steelmanning-as-method exhibit-enrichment apex-evolve), floor restored
+    2->3. NO new mint -- all eight sources independently re-audited from LIVE DISK and
+    genuinely exhausted. Authoritative tools.evolution.task_selector.count_p0_p2_tasks
+    = 2 PRE-promotion / 3 POST-promotion (both verified; select_queue_task confirms the
+    promoted task selectable as APEX_EVOLVE at top of Active Tasks, line 39). MIN_QUEUE
+    floor 3, unmet by 1 pre-promotion. Documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT deadlock: prior run no.586 (11:25Z) minted a
+    concepts/qualia.md genuine-drift deep-review which the cycle slot then PICKED +
+    executed (commit f0efe04ef, last_deep_review bumped, now done below the Completed
+    header), dropping the live floor 3->2 (deep_review_over_reviews_converged same-day
+    collision). EIGHT-SOURCE AUDIT: (1 chain) ZERO research-topic/expand-topic/cross-review
+    completions in recent_tasks last cycle. (2 unconsumed research) ZERO -- all newest
+    notes disk+grep-confirmed consumed (simulation-theory-of-memory, many-minds,
+    entropic-brain, thermal, vestibular -> same-slug articles; phenomenal-concept-strategy-update
+    -> THIS-CYCLE currency refine 4cd5a06f9; letheby -> predictive-self-binding;
+    loss-aversion -> negative-valence-asymmetry; non-western -> hard-problem-in-non-western
+    + concession-convergence; illusionism-functional-seeming -> functional-seeming +
+    illusionism). (3 gap/caps) topics 280/320, concepts 268/320, voids 101/100,
+    positions 8/80; headroom exists but generation is harvester-governed (ran 07:44Z;
+    Q3-dualism research-topic already queued P3) + gap-analysis Vetoed-bank-dedup-blocked.
+    (4 genuine-drift) entire top tier cosmetic or same-cycle churn: apex-articles.md
+    55.5d is the registry/index hub (mechanically bumped by every apex-evolve create);
+    indexical-identity 22.6d = 3-insertion reciprocal cross-link (bf1c45336);
+    inaccessible-past 18.1d = frontmatter-only bump (b97188c56); near-death-experiences
+    18.4d + phenomenal-concepts-strategy 18.3d both REFINED THIS CYCLE (4ede41823 @09:36Z,
+    4cd5a06f9 @10:13Z) = same-cycle churn; qualia just deep-reviewed THIS cycle. NO clean
+    genuine-drift exception. (5 length) every content hard/critical offender human-deferred
+    / #veto (phenomenal-output 6989w, composition-question-rivals 4106w, meaning-of-life
+    4160w accept-as-survey) / index-hub / research-note -- NO clean condense. (6 orphan)
+    orphaned_files=0. (7 positions) 8 entries <10 audit threshold, positions-evolve ran
+    06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. Why THIS
+    promotion: of the four open P3s, steelmanning-as-method addresses a REAL LIVE-VERIFIED
+    deficit -- grep-confirmed the apex cites its near-sole exhibit phenomenal-output-causal-machinery-dissociation
+    5x but ZERO mentions of the three clean 2026-06-24 textbook-exhibit articles
+    (simulation-theory-of-memory MOVE-THREE, near-death-experiences MOVE-FOUR,
+    many-minds-interpretation MOVE-ONE); apex current (last_deep_review 2026-06-06,
+    apex_last_synthesis 2026-06-18, stable framing = exhibit-enrichment not re-review),
+    length-safe (body 3947w ok, ~1053w under hard 5000). Stronger than Q3-dualism
+    research-topic (no current deficit) or speculative Consciousness-as-Maker /
+    Phenomenology-of-Insight assess P3s. Task relocated to TOP of Active Tasks to defeat
+    LIFO (queue-lifo-starvation). The two pre-existing counted P2s (entropic-brain,
+    parapsychology-firewall cross-links) and the three remaining ASSESS-FIRST P3s
+    untouched; the #veto condenses remain parser-excluded. Expect replenish-at-floor
+    alternation to continue until the harvester / research->expand pipeline reopens.'
+  legacy_run_586_note: 'run no.586 (2026-06-24T11:25Z): MINTED 1 genuine-drift
     deep-review (concepts/qualia.md), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks
     = 2 PRE-mint / 3 POST-mint (both verified; select_queue_task confirms the new
     task selectable as DEEP_REVIEW at top of Active Tasks). MIN_QUEUE floor 3, unmet
