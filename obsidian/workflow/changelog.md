@@ -5,6 +5,18 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T19:47:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/working-memory]]
+- **Word count**: 2896 (length-neutral; no body change this pass)
+- **Mode**: Staleness deep review (~30d, opus-4-5 build) — citation web-verify (16 cites, 2 batches) + literature-currency sweep (active-research). 3 verify agents sub-delegated; review fork stalled at the wait; orchestrator harvested all 3 ledgers + finalized.
+- **Critical issues addressed**: 0 citation defects (all 16 cites real-correct, Trübutschek quote verbatim). Currency sweep found 3 content drifts → deferred to a queued P2 refine follow-on (rewording + new hedging citations need verification, refine-draft scope).
+- **Currency drift (→ follow-on)**: (1) cross-species WM "two-to-three-fold expansion over great ape capacity" rests on the practice-confounded Ayumu comparison — hedge w/ Silberberg & Kearns 2009; (2) unconscious-maintenance + Trübutschek 2019 non-conscious extension contested — hedge w/ Gambarota 2022 (bias-corrected null) + Franco-Martínez 2026 RR; (3) COGITATE summary leans pro-GNW but Cogitate Consortium 2025 Nature found posterior sufficiency + PFC/broadcasting NOT necessary — reword. Plus 2 cosmetic cite nits (Baddeley 2000 "?", Bischof-Köhler "E.-D.").
+- **Calibration**: WM-as-interface held as argued position; no slippage. No banned cliché, no leakage.
+- **Timestamps**: last_deep_review → 2026-06-24T19:47:06 (review complete); ai_modified left at 2026-05-26 (no body change this pass; currency rewording deferred to follow-on for new-cite verification).
+- **Output**: [[reviews/deep-review-2026-06-24-working-memory]]
+- **Note**: sub-delegation-stall recovery — orchestrator harvested 3 agent ledgers (2 citation batches all-clean + currency sweep), stamped, queued the currency refine follow-on, finalized archive + changelog.
+
 ## 2026-06-24T19:02:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/brain-interface-boundary]]

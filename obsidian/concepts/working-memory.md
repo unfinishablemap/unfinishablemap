@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-24T19:47:06+00:00
 coalesced_from:
   - "/concepts/working-memory/"
   - "/topics/working-memory-as-consciousness-amplifier/"
