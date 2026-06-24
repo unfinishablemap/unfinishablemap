@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T18:42:00+00:00
+ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T19:02:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/brain-interface-boundary]]
+- **Word count**: 2509 → 2531 (+22; load-bearing citation + live-dispute hedge, partly offset by tightening the PEAR clause; soft_warning, well under 3500 hard)
+- **Mode**: Staleness deep review (~30d, opus-4-5 build = fresh eyes) with publisher-of-record citation web-verify (all 10 References checked title+venue at PubMed/ScienceDirect/APS/Springer).
+- **Critical issues addressed**: 2 — (1) ORPHAN REFERENCE Hagan, Hameroff & Tuszynski (2002) Phys Rev E 65:061901 had no inline cite; added it at the "10⁻⁵ to 10⁻⁴ s corrected coherence times" figure in the Decoherence Challenge (sibling decoherence.md cites the same figure to Hagan), and imported the live-dispute caveat (Reimers/McKemmish contested Hagan's parameters). (2) AUTHOR-ORDER metadata error Penrose & Hameroff (2014) → Hameroff & Penrose (canonical published order, verified PubMed 24070914; matches both sibling articles); reordered to alphabetical position.
+- **Citation ledger**: all real-correct except the Hameroff/Penrose author-order fix above — d'Espagnat 1976 (Conceptual Foundations, 2nd ed.), Fisher 2015 (Annals of Physics 362:593-602), Hagan et al. 2002 (Phys Rev E 65:061901; was orphan), Jahn & Dunne 2005 (JSE 19(2):195-245), Khan et al. 2024 (eNeuro 11(8); first-author Khan confirmed — 2026-05-26 Khan/Wiest fix holds), Schlosshauer 2004 (RvMP 76:1267-1305), Stapp 2007 (Mindful Universe, Springer), Tallis 2024 (Philosophy Now 161; "Misrepresentation presupposes presentation" verbatim deployed there — real-correct), Tegmark 2000 (Phys Rev E 61:4194-4206). Inline↔References both-directions clean after the Hagan fix. Currency-sweep: no superlative claims.
+- **Calibration verdict**: PEAR null kept "consistent with, not evidence for"; >0.01 threshold + ~0.0001–0.001 figures consistent with pairing-problem.md and brain-specialness-boundary.md siblings; no possibility→probability slippage. Five-criteria explicitly flagged descriptive-not-first-principles. No banned "This is not X. It is Y." cliché, no HTML-comment/refinement-log leakage, no EOF tag artifact, no label leakage.
+- **Engagements**: Functionalist Challenge — Mode Three dominant (concedes substrate-independence, open question honestly declared); Illusionist Challenge — Mode One/mixed (Tallis internal demand + framework-independent point). No boundary-substitution.
+- **Remaining**: corpus-wide Tallis attribution split (Aping Mankind 2011 vs Philosophy Now 2024 across ~18 articles; both real; family-resolution candidate, out of scope).
+- **Output**: [[reviews/deep-review-2026-06-24-brain-interface-boundary]]
 
 ## 2026-06-24T18:54:42+00:00 - deep-review
 - **Status**: Success
