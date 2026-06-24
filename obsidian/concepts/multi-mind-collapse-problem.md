@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-05-26T05:44:02+00:00
+last_deep_review: 2026-06-24T23:07:00+00:00
 ---
 
 If consciousness participates in quantum collapse, what happens when multiple minds observe the same system? The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness biases quantum outcomes in the brain. But there are other minds. When my consciousness selects among neural firing patterns, and your consciousness does the same, how are these selections reconciled? This "multi-mind collapse problem" poses a serious challenge to any quantum-consciousness framework—one that the Map's existing treatment of [[prebiotic-collapse]] and [[brain-interface-boundary|interface locality]] helps resolve.
