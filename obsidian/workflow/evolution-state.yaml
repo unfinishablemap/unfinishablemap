@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T14:33:12.574308+00:00'
-session_count: 13045
-cycle_position: 9868
+last_updated: '2026-06-24T14:39:15.858100+00:00'
+session_count: 13046
+cycle_position: 9869
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T09:31:57.785022+00:00'
@@ -16,7 +16,7 @@ last_runs:
   research-voids: '2026-06-24T08:41:35.077027+00:00'
   coalesce: '2026-06-24T11:33:11.221020+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-06-24T12:12:36.685601+00:00'
+  apex-evolve: '2026-06-24T14:39:15.858100+00:00'
   agentic-social: '2026-06-24T13:55:59.846441+00:00'
   embed-videos: '2026-06-24T13:26:22.861164+00:00'
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
@@ -102,10 +102,6 @@ recent_tasks:
   type: deep-review
   date: '2026-06-24'
   outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-06-24'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-24'
+  outcome: success
+- task: apex-evolve
+  type: apex-evolve
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1187,16 +1187,64 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 2
   p3_tasks: 1
-  needs_replenishment: false
+  needs_replenishment: true
   loop_pickable_open: 3
   replenishment_source_counts:
-    p3_to_p2_promotion: 1
-  last_replenishment_run: 593
-  last_replenishment: '2026-06-24T14:30:00+00:00'
+    no_op_floor_documented: 1
+  last_replenishment_run: 594
+  last_replenishment: '2026-06-24T14:43:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.593 (2026-06-24T14:30Z): PROMOTED P3->P2 (FLOOR-RESTORING,
+  current_replenishment_note: 'run no.594 (2026-06-24T14:43Z): NO-OP FLOOR-DOCUMENTED
+    (no new mint, no promotion). Authoritative tools.evolution.task_selector.count_p0_p2_tasks
+    = 2; select_queue_task returns a REAL executable P2 (entropic-brain-hypothesis
+    cross-links, TaskType.REFINE_DRAFT) -- queue FUNCTIONAL, NOT deadlock. MIN_QUEUE
+    floor 3, unmet by 1. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT deadlock: prior run no.593 (14:30Z) promoted the apex-evolve "Consciousness
+    as Maker" P3->P2; the cycle slot then PICKED + executed it (it is no longer in
+    Active Tasks; live count dropped 3->2). The two live P2s = entropic-brain-hypothesis
+    cross-links (refine-draft, live deficit re-verified: 3 inbound all intra-cluster;
+    the 3 named outside-cluster targets default-mode-network / predictive-processing-and-dualism
+    / predictive-processing each 0x) + parapsychology-firewall integrate-orphan (2
+    inbound both intra-cluster); the three #veto condenses are parser-excluded. EIGHT-SOURCE
+    AUDIT re-run from LIVE DISK 14:43Z, ALL exhausted of clean genuine-MINT candidates:
+    (1 chain) ZERO research-topic/expand-topic/cross-review completions in recent_tasks
+    (deep-review x6 / replenish x6 / refine-draft x2 / agentic-social x2 / apex-evolve
+    / check-tenets / embed-videos / harvest). (2 unconsumed research) ZERO -- the 3
+    newest notes (simulation-theory-of-memory, phenomenal-concept-strategy-2024-2026-update,
+    many-minds-interpretation, all 2026-06-24) disk-confirmed CONSUMED (concepts/simulation-theory-of-memory,
+    concepts/phenomenal-concepts-strategy, topics/many-minds-interpretation all EXIST);
+    all older notes consumed. (3 gap/caps) topics 280/320, concepts 268/320, positions
+    8/80 headroom but generation harvester-governed (harvest ran 2026-06-24T13:52Z,
+    next ~19:52Z) + gap-analysis Vetoed-bank-dedup-blocked. (4 genuine-drift) ZERO
+    -- the run-593 candidate set is consumed; phenomenal-value-realism (run 579''s
+    own-review-gap pick) was PICKED + executed earlier today (commit 27ffe9ab8, last_deep_review
+    now 2026-06-24T08:56 >= ai_modified); a fresh scan finds no clean own-body ai_modified
+    > last_deep_review candidate (recent content touches are cosmetic cross-link churn;
+    deep_review_over_reviews_converged). (5 staleness >=30d) DRY -- stalest cohort
+    is 2026-05-26 at 29d (under 30d); reopens TOMORROW 2026-06-25. (6 length) re-confirmed
+    via get_length_warnings: every content hard/critical offender is human-deferred
+    / #veto / accept-as-survey / known +positions-back-cite false positive (count-words-includes-frontmatter:
+    agency-void 3174w, what-voids-reveal 3019w) / research working note -- NO clean
+    mintable condense (replenish-overmints-condense-vs-accept-as-survey). The two borderline
+    candidates re-checked this run are both non-mintable: topics/personal-identity
+    4056w is only 56w over the 4000 hard ceiling and the 06-19 touch was a reciprocal-cross-link
+    repair (hub, 39 todo refs); concepts/consciousness-selecting-neural-patterns 3503w
+    was deep-reviewed TODAY (last_deep_review 2026-06-24) and is only 3w over the 3500
+    concepts ceiling. (7 orphan) orphaned_files=0. (8 positions) 8 entries (<10 audit
+    threshold), positions-evolve ran 06-22, slow-add; (applied-apex) 3 extant, no high-confidence
+    cluster gap. WHY NO PROMOTION THIS RUN: floor-restore-by-promotion is also exhausted
+    -- both REAL integration-deficit P3s (entropic-brain, parapsychology-firewall)
+    are ALREADY at P2, and the apex "Consciousness as Maker" P3 was just consumed by
+    run-593. The ONLY remaining open P3 is "Phenomenology of Insight" (Type: expand-topic),
+    a raw expand-topic whose create-vs-section decision is NOT self-assessed by /expand-topic
+    (human-decision-task-mispicked-as-refine trap) -- UNSAFE to auto-promote. Minting
+    a churn deep-review of cosmetic-drift content would violate deep_review_over_reviews_converged.
+    So the correct action is a documented floor-at-2 no-op. Expect replenish-at-floor
+    alternation to continue until the staleness cohort reopens 2026-06-25 and/or the
+    harvester reopens the research->expand pipeline ~19:52Z.'
+  superseded_run_593_note: 'run no.593 (2026-06-24T14:30Z): PROMOTED P3->P2 (FLOOR-RESTORING,
     NO new mint) the apex-evolve task Apex synthesis Consciousness as Maker, floor
     restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks =
     2 PRE / 3 POST (both verified; PRE select_queue_task returns a real executable
@@ -1294,7 +1342,7 @@ queue_status:
     of Active Tasks (LIFO-safe, queue-lifo-starvation); pre-existing tasks not starved.
     Expect replenish-at-floor alternation to continue until the harvester / research->expand
     pipeline reopens.'
-  legacy_run_591_note: 'run no.591 (2026-06-24T13:50Z): MINTED 1 GENUINE-DRIFT deep-review
+  superseded_run_591_note: 'run no.591 (2026-06-24T13:50Z): MINTED 1 GENUINE-DRIFT deep-review
     (topics/indexical-identity-quantum-measurement.md), floor restored 2->3. Authoritative
     tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint / 3 POST-mint (both
     verified; PRE-mint select_queue_task returns the entropic-brain refine P2 [queue
