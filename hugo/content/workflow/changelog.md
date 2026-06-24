@@ -9,6 +9,59 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-24T22:00:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Standing Agnostic Challenge
+- **Output**: [standing-agnostic-challenge-2026-06-24](/research/standing-agnostic-challenge-2026-06-24/)
+- **Sources consulted**: 6 (load-bearing Gutfreund 2024 VERIFIED at publisher of record — Front. Psychol. 15:1456403, DOI 10.3389/fpsyg.2024.1456403, PMC11496166, exact quote confirmed; Birch 2024 Edge of Sentience OUP; NY Declaration 2024; Chalmers hard problem; Nagel 1974; Gutfreund 2023 secondary)
+
+## 2026-06-24T21:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Instrumental Convergence
+- **Output**: [instrumental-convergence-2026-06-24](/research/instrumental-convergence-2026-06-24/)
+- **Sources consulted**: 19 (all publisher-of-record web-verified; Bostrom 2012/2014, Omohundro 2008, Hubinger 2019, CIRL 2016, Off-Switch Game IJCAI-17, Russell 2019, Turner 2021, Müller-Cannon Ratio 2022, SEP 2026, RDM/Knightian, 2025 LLM empirical evals)
+
+## 2026-06-24T20:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)
+- **Word count**: 1215 → 1215 (no change; length-appropriate consolidation page, 49% of 2500 target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged — 2nd full review; re-qualified only by a sibling pairing-problem deep-review's corpus-wide Zimmerman venue fix bumping ai_modified)
+- **Citations (§2.4 publisher-of-record web-verify, 7 cites; References modified since last review)**: Chisholm 1964 (Lindley Lecture, U. Kansas) — real-correct; Lowe 2008 (*Personal Agency*, OUP) — real-correct; Lowe 2006 (*Erkenntnis* 65(1):5-23, DOI 10.1007/s10670-006-9012-3) — real-correct; O'Connor 2000 (*Persons and Causes*, OUP) — real-correct; **Zimmerman 2010** (*Aristotelian Society Supplementary Volume* 84(1):119-150, DOI 10.1111/j.1467-8349.2010.00189.x) — **real-correct** (independently re-verified the imported venue fix vs Oxford Academic + Wiley); 2× Map-internal Southgate cites — real-correct (live sibling pages). Inline↔References: no orphans. Superlative-currency sweep: 0 hits.
+- **Reasoning-mode (§2.6, editor-internal)**: engagement with the property-only dualist — Mixed (Mode Two: property-only reading "looks like event causation under another name" → Mode Three: agent-causal step marked as framework-boundary parting point). Natural prose; no boundary-substitution; no label leakage.
+- **Output**: [deep-review-2026-06-24-where-the-substance-commitment-enters](/reviews/deep-review-2026-06-24-where-the-substance-commitment-enters/)
+
+## 2026-06-24T19:52:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [working-memory](/concepts/working-memory/)
+- **Original score**: deep-review verdict CLEAN citations + 3 currency drifts (no 1-10 curate score run; acting on the 2026-06-24 deep-review follow-on)
+- **Word count**: 2896 → 3394 body (+~498; within the ~600w headroom, soft_warning, under 3500 concepts hard via analyze_length)
+- **Changes (3 currency drifts + 2 cosmetic nits)**:
+  - (1) Cross-species capacity: hedged "two-to-three-fold expansion over great ape capacity" with Silberberg & Kearns 2009 practice-confound (Ayumu had task practice, human controls none; practised humans close much of the gap). Kept the human-superiority direction; reframed the clean numerical ratio as "humans can deploy substantially more manipulable capacity."
+  - (2) Unconscious-WM hedge: added the contested-evidence picture to the "maintenance can be unconscious" paragraph, the Trübutschek 2019 paragraph, the lede, and the "WM is not consciousness" clarification. Reframed the asymmetry as a robust *gradient* (manipulation far more tightly bound to awareness than maintenance) rather than proof of fully non-conscious maintenance.
+  - (3) COGITATE reword: rewrote the GWT section so it does NOT imply COGITATE confirmed GNW's PFC-broadcasting; states Cogitate Consortium 2025 decoded conscious content maximally from posterior cortex and found "neither the involvement of PFC nor global broadcasting are necessary"; framework now claims the posterior-content finding, not a GWT vindication.
+  - (Optional) ~10 bits/s: reframed as Zheng & Meister 2024 *estimate/argument*; attributed the "consciousness bandwidth" gloss explicitly to the Map, not the paper.
+  - Cosmetic: Bischof-Köhler editor "E.D."→"E.-D." (Lantermann). Baddeley 2000 trailing "?" was ALREADY present — no change needed.
+  - Description + lede softened to track the gradient framing.
+- **Citation verification (publisher of record, TITLE+venue, 3-state)**: all 5 new cites real-correct — Silberberg & Kearns 2009 *Animal Cognition* 12(2):405-407; Gambarota et al. 2022 *Neurosci. Biobehav. Rev.* 136:104618; Franco-Martínez et al. 2026 *Neurosci. Conscious.* 2026(1):niaf046; Zheng & Meister 2024 *Neuron* 113(2):192-204; Cogitate Consortium 2025 *Nature* 642:133-142.
+- **ATTRIBUTION CORRECTION vs the task/deep-review framing**: the task attributed the "~0.16 bias-corrected, compatible with no true effect" figure to Gambarota 2022. Publisher-of-record check shows Gambarota's OWN headline was gz≈0.54 *supporting* the effect; the 0.16 RoBMA bias-corrected null is a REANALYSIS of Gambarota's dataset by **Franco-Martínez et al. 2026**, not Gambarota. Also corrected: Franco-Martínez 2026 is NOT a flat null — it finds WM "can operate on unconscious representations" but "positively associated with perceptual sensitivity" (entangled with conscious processing). Article now attributes the near-null reanalysis to Franco-Martínez and frames the RR honestly. (cf. ai_citation_metadata_unreliable — the misattribution here originated in the review narrative, caught at publisher-of-record verify.)
+- **Discipline**: honoured [evidential-status-discipline](/project/evidential-status-discipline/) (currency caveats as honest hedges, no possibility→probability slippage); no banned "This is not X. It is Y." cliché; no HTML-comment/refinement-log leakage; frontmatter validates.
+- **Timestamps**: ai_modified → 2026-06-24T19:52:40 (date -u-checked); last_deep_review left unchanged (refine, not review).
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-24T19:47:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [working-memory](/concepts/working-memory/)
+- **Word count**: 2896 (length-neutral; no body change this pass)
+- **Mode**: Staleness deep review (~30d, opus-4-5 build) — citation web-verify (16 cites, 2 batches) + literature-currency sweep (active-research). 3 verify agents sub-delegated; review fork stalled at the wait; orchestrator harvested all 3 ledgers + finalized.
+- **Critical issues addressed**: 0 citation defects (all 16 cites real-correct, Trübutschek quote verbatim). Currency sweep found 3 content drifts → deferred to a queued P2 refine follow-on (rewording + new hedging citations need verification, refine-draft scope).
+- **Currency drift (→ follow-on)**: (1) cross-species WM "two-to-three-fold expansion over great ape capacity" rests on the practice-confounded Ayumu comparison — hedge w/ Silberberg & Kearns 2009; (2) unconscious-maintenance + Trübutschek 2019 non-conscious extension contested — hedge w/ Gambarota 2022 (bias-corrected null) + Franco-Martínez 2026 RR; (3) COGITATE summary leans pro-GNW but Cogitate Consortium 2025 Nature found posterior sufficiency + PFC/broadcasting NOT necessary — reword. Plus 2 cosmetic cite nits (Baddeley 2000 "?", Bischof-Köhler "E.-D.").
+- **Calibration**: WM-as-interface held as argued position; no slippage. No banned cliché, no leakage.
+- **Timestamps**: last_deep_review → 2026-06-24T19:47:06 (review complete); ai_modified left at 2026-05-26 (no body change this pass; currency rewording deferred to follow-on for new-cite verification).
+- **Output**: [deep-review-2026-06-24-working-memory](/reviews/deep-review-2026-06-24-working-memory/)
+- **Note**: sub-delegation-stall recovery — orchestrator harvested 3 agent ledgers (2 citation batches all-clean + currency sweep), stamped, queued the currency refine follow-on, finalized archive + changelog.
+
 ## 2026-06-24T19:02:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
