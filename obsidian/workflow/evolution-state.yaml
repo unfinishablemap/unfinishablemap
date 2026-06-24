@@ -1,5 +1,9 @@
-last_updated: '2026-06-24T15:40:42.256083+00:00'
-session_count: 13055
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-24T15:48:11.491402+00:00'
+session_count: 13056
 cycle_position: 9873
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-24T11:33:11.221020+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-24T14:39:15.858100+00:00'
-  agentic-social: '2026-06-24T15:47:17.139327+00:00'
+  agentic-social: '2026-06-24T15:48:11.491402+00:00'
   embed-videos: '2026-06-24T13:26:22.861164+00:00'
   commission-chatgpt-review: '2026-06-23T02:16:44.830798+00:00'
   commission-claude-review: '2026-06-23T03:08:30.034575+00:00'
@@ -94,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-tenets
-  type: check-tenets
-  date: '2026-06-24'
-  outcome: failed
 - task: refine-draft
   type: refine-draft
   date: '2026-06-24'
@@ -172,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-24'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1184,10 +1188,61 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts: {}
-  last_replenishment_run: 596
-  last_replenishment: '2026-06-24T15:30:00+00:00'
+  last_replenishment_run: 597
+  last_replenishment: '2026-06-24T15:52:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.596 (2026-06-24T15:30Z): NO-OP FLOOR-DOCUMENTED
+  current_replenishment_note: 'run no.597 (2026-06-24T15:52Z): NO-OP FLOOR-DOCUMENTED
+    (no new mint, no promotion). Authoritative tools.evolution.task_selector.count_p0_p2_tasks
+    = 2; select_queue_task returns a REAL executable P2 (entropic-brain-hypothesis
+    inbound cross-links, TaskType.REFINE_DRAFT at TOP of Active Tasks) -- queue FUNCTIONAL,
+    NOT deadlock. MIN_QUEUE floor 3, unmet by 1. Documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT the fixed deadlock. The two live P2s = entropic-brain-hypothesis
+    inbound cross-links + parapsychology-firewall inbound cross-links (both real integration
+    deficits, both select_queue_task-pickable). The three #veto condenses (phenomenal-output
+    6872w, composition-question-rivals 4106w, meaning-of-life 4160w) are parser-excluded.
+    The lone open P3 Phenomenology-of-Insight is a raw expand-topic whose create-vs-section
+    decision is NOT self-assessed -- unsafe to auto-promote (human-decision-task-mispicked-as-refine
+    trap), so NO promotion this run; both real integration-deficit P3s are already
+    at P2 so floor-restore-by-promotion is also exhausted. EIGHT-SOURCE AUDIT re-run
+    from LIVE DISK, ALL exhausted of clean genuine-MINT candidates: (1 chain) recent_tasks
+    has ZERO research-topic/expand-topic/cross-review completions producing successors
+    (refine-draft x3 / replenish x7 / deep-review x4 / agentic-social x3 / apex-evolve
+    / pessimistic-review / harvest). (2 unconsumed research) ZERO -- the 3 newest notes
+    are disk-confirmed consumed: simulation-theory-of-memory->concepts/simulation-theory-of-memory,
+    many-minds-interpretation->topics/many-minds-interpretation, phenomenal-concepts-strategy->concepts/phenomenal-concepts-strategy.
+    (3 gap/caps) topics 280/320, concepts 268/320, positions 8/80 have headroom but
+    new-article generation is harvester-governed (harvest ran 13:53Z, next ~19:53Z)
+    + gap-analysis Vetoed-bank-dedup-blocked. (4 genuine-drift) NO clean un-minted
+    own-body candidate: the top frontmatter-drift pick probability-problem-in-many-worlds
+    (am 2026-06-24T14:23) is a 2-line citation page-range metadata fix (Friederich-Dawid-2022
+    711-736->711-721) on an already-deep-reviewed article (commit 5e348de35); the
+    run-595 own-body mint (biological-computationalisms) is consumed (deep-reviewed
+    e2a981c30 15:22Z); the only commit since the 15:30Z run-596 replenish is a cycle
+    deep-review of clinical-dissociation-as-systematic-evidence (commit 452ccb5e1 15:40Z,
+    62+30 substantive lines) which SELF-CONSUMED + queued NO follow-on task (no todo
+    diff) -- so no fresh own-body refine awaits verification. The other 131 nominal
+    drift rows are cosmetic cross-link/integration churn (deep_review_over_reviews_converged
+    respected). (5 staleness >=30d) DRY -- the 7 nominally-9999d rows are positions
+    domain files (audited via positions-evolve, NOT deep-review; 8 entries < 10 audit
+    threshold); the stalest real deep-reviewed content cohort is EXACTLY 29d (2026-05-26:
+    the-surplus-void, origin-of-consciousness, conceptual-impossibility, commensurability-void,
+    philosophy-of-language-under-dualism), UNDER the 30d threshold -- reopens TOMORROW
+    2026-06-25. (6 length) re-confirmed via get_length_warnings: every CONTENT hard/critical
+    offender is human-deferred (epistemology-of-convergence 6479w, born-rule 5118w,
+    clinical-dissociation 4670w, time-collapse 4606w, argument-from-reason 4489w, epistemic-advantages
+    4400w, memory-channel 4296w accept-as-survey), #veto (phenomenal-output 6872w,
+    composition-question-rivals 4106w, meaning-of-life 4160w), HUMAN-LENGTH-DECISION/DIVERTED
+    (synesthetic-void 3578w, edge-states 3482w), an index hub (apex-articles 9788w
+    governance-tracked), a count-words-includes-frontmatter false positive (agency-void
+    3174w, what-voids-reveal 3019w), or research/ working notes -- NO clean mintable
+    condense (replenish-overmints-condense-vs-accept-as-survey). (7 orphan) orphaned_files=0.
+    (8 positions) 8 entries (<10 audit threshold), positions-evolve ran 2026-06-22,
+    slow-add 2-add/run limit; (applied-apex) 3 applied apex extant (assessing-ai-consciousness,
+    embodied-interface, research-programme-decisions), no high-confidence cluster gap.
+    Expect replenish-at-floor alternation to continue until the >=30d staleness cohort
+    reopens 2026-06-25 and/or the harvester reopens the research->expand pipeline ~19:53Z.
+    PRIOR RUN 596 NOTE FOLLOWS superseded_run_596_note.'
+  superseded_run_596_note: 'run no.596 (2026-06-24T15:30Z): NO-OP FLOOR-DOCUMENTED
     (no new mint, no promotion). Authoritative tools.evolution.task_selector.count_p0_p2_tasks
     = 2; MIN_QUEUE floor 3, unmet by 1. Documented replenish-at-floor alternation
     (unfin_loop_steady_state), NOT the fixed deadlock: prior run no.595 (15:15Z) minted
