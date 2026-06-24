@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-06-02 19:40:42+00:00
+ai_modified: 2026-06-24 21:09:35+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[interface-efficacy-and-the-cognitive-gap]]'
 - '[[direct-refutation-discipline]]'
 - '[[animal-consciousness-2026-01-14]]'
+- '[[standing-agnostic-challenge]]'
 title: Cetacean and Corvid Consciousness as Amplification Test Cases
 topics:
 - '[[animal-consciousness]]'
@@ -109,7 +110,7 @@ Two narrower observations follow. The selective convergence tracks specifically 
 
 ## The Standing Agnostic Challenge {#the-standing-agnostic-challenge}
 
-Gutfreund (2024) provides the strongest skeptical constraint on every section above and below. The argument: neuroscience cannot, as currently practised, distinguish cognition accompanied by felt experience from cognition without felt experience. "A perceptual decision without a felt subjective experience is a possibility that is equally consistent with the data." When a dolphin passes the mirror mark test, when a New Caledonian crow refines a hooked tool across generations, when a scrub-jay re-caches against an observed pilferer—we infer consciousness because such behaviour in humans correlates with conscious experience. That inference cannot be scientifically validated by the behavioural and neural evidence alone.
+Gutfreund (2024) provides the strongest skeptical constraint on every section above and below — the Map's canonical statement of it is the [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/) concept. The argument: neuroscience cannot, as currently practised, distinguish cognition accompanied by felt experience from cognition without felt experience. "A perceptual decision without a felt subjective experience is a possibility that is equally consistent with the data." When a dolphin passes the mirror mark test, when a New Caledonian crow refines a hooked tool across generations, when a scrub-jay re-caches against an observed pilferer—we infer consciousness because such behaviour in humans correlates with conscious experience. That inference cannot be scientifically validated by the behavioural and neural evidence alone.
 
 The challenge applies *across every species-claim in this article*. It is the reason the convergent capacity table sits at **realistic possibility, contested** rather than **strongly supported**; the reason the convergent-evolution argument supplies *coherence* with the amplification hypothesis without supplying *positive* evidence that consciousness rather than convergent computation is doing the amplifying; and the reason the Map's tenet connections in the closing section are framed as tenet-coherence rather than as data-driven refutation of rivals. The Map's tenets remove a defeater—the assumption that convergent capacities can only emerge through unconscious mechanism—without absorbing Gutfreund's challenge. Behavioural sophistication does not, on its own, license the inferential jump from cognition to felt experience; the empirical record stays where it is.
 

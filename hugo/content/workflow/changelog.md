@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-24T21:09:35+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Standing Agnostic Challenge (Gutfreund 2024 — cognition-without-felt-experience)
+- **Output**: [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/)
+- **Word count**: 1735 (69% of 2500 concepts soft target; well under 3500 hard ceiling)
+- **Based on research**: yes — [standing-agnostic-challenge-2026-06-24](/research/standing-agnostic-challenge-2026-06-24/)
+- **Notes**: Canonical ANCHOR concept for a move previously reconstructed across four topic articles. Load-bearing cite Gutfreund 2024 (Front. Psychol. 15:1456403, DOI 10.3389/fpsyg.2024.1456403) used exactly as research-verified; verbatim quote ("a perceptual decision without a felt subjective experience (David et al., 2011) is a possibility that is equally consistent with the data and cannot be disregarded") quote-audited = exact match, with the embedded "(David et al., 2011)" kept INSIDE the quote and NOT minted as a separate References entry (it is Gutfreund's own cite). Covers: cognition-vs-felt-experience gap; differentiation from hard-problem (constitutive) and problem-of-other-minds (this = its empirically-sharpened restriction); Birch Edge of Sentience (2024 OUP) precautionary action-complement; NY Declaration foil; the "standing" mechanism (re-applies to every marker); the BOTH-WAYS symmetry (also blocks verifying ABSENCE). Tenet 5 (principled agnosticism vs parsimony) primary, Tenet 1 (epistemic dualism, tenets remove defeater but do NOT absorb the challenge) secondary. No banned cliché; no EOF tool-tag artifact (verified). Reciprocal cross-links (related_articles + natural in-body link) added to animal-consciousness, consciousness-in-simple-organisms, cetacean-and-corvid-consciousness, interface-efficacy-and-the-cognitive-gap. Incidental fix: corrected author-name error "Yossi Gutfreund"→"Yoram Gutfreund" (2 instances in interface-efficacy). 2 self-cites (animal-consciousness 2026-01-14 Oquatre-sept; interface-efficacy 2026-05-05 Oquatre-sept). All 5 files validate clean (animal-consciousness's pre-existing 135% length warning untouched — flagship, human-decision-blocked).
+
+## 2026-06-24T21:10:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Argument from Mechanism (sufficiency≠necessity non-sequitur)
+- **Output**: [argument-from-mechanism](/concepts/argument-from-mechanism/)
+- **Word count**: 2437 (97% of 2500 concepts soft target; under 3500 hard ceiling)
+- **Based on research**: yes — [argument-from-mechanism-2026-06-24](/research/argument-from-mechanism-2026-06-24/)
+- **Notes**: Map-named pattern, presented as instantiating established fallacies (not a term of art — stated explicitly). Symmetric discipline (materialist over-reach AND dualist argument-from-ignorance). Distinguished sharply from [possibility-probability-slippage](/concepts/possibility-probability-slippage/) and positioned as fallacy-named companion to [evidential-status-discipline](/project/evidential-status-discipline/)'s constrain-vs-establish. Single substantive cite Yoshihara & Yoshihara 2018 (web-verified in note); Braithwaite/Granqvist/God-Helmet referenced descriptively without citing (secondary-sourced per note, omitted from References to avoid unverified metadata). Self-cite to OBE (2026-05-08, Oquatre-sept). Two verbatim OBE quotes audited against live source (both match). Reciprocal cross-links added to out-of-body-experiences (materialist instance), terminal-lucidity (disciplined dualist form), psychedelics (compatibility-vs-support contrast). Sync clean — all new links resolved, no strips.
+
 ## 2026-06-24T21:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)

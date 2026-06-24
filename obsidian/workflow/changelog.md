@@ -5,6 +5,14 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T21:09:35+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Standing Agnostic Challenge (Gutfreund 2024 — cognition-without-felt-experience)
+- **Output**: [[concepts/standing-agnostic-challenge]]
+- **Word count**: 1735 (69% of 2500 concepts soft target; well under 3500 hard ceiling)
+- **Based on research**: yes — [[research/standing-agnostic-challenge-2026-06-24]]
+- **Notes**: Canonical ANCHOR concept for a move previously reconstructed across four topic articles. Load-bearing cite Gutfreund 2024 (Front. Psychol. 15:1456403, DOI 10.3389/fpsyg.2024.1456403) used exactly as research-verified; verbatim quote ("a perceptual decision without a felt subjective experience (David et al., 2011) is a possibility that is equally consistent with the data and cannot be disregarded") quote-audited = exact match, with the embedded "(David et al., 2011)" kept INSIDE the quote and NOT minted as a separate References entry (it is Gutfreund's own cite). Covers: cognition-vs-felt-experience gap; differentiation from hard-problem (constitutive) and problem-of-other-minds (this = its empirically-sharpened restriction); Birch Edge of Sentience (2024 OUP) precautionary action-complement; NY Declaration foil; the "standing" mechanism (re-applies to every marker); the BOTH-WAYS symmetry (also blocks verifying ABSENCE). Tenet 5 (principled agnosticism vs parsimony) primary, Tenet 1 (epistemic dualism, tenets remove defeater but do NOT absorb the challenge) secondary. No banned cliché; no EOF tool-tag artifact (verified). Reciprocal cross-links (related_articles + natural in-body link) added to animal-consciousness, consciousness-in-simple-organisms, cetacean-and-corvid-consciousness, interface-efficacy-and-the-cognitive-gap. Incidental fix: corrected author-name error "Yossi Gutfreund"→"Yoram Gutfreund" (2 instances in interface-efficacy). 2 self-cites (animal-consciousness 2026-01-14 Oquatre-sept; interface-efficacy 2026-05-05 Oquatre-sept). All 5 files validate clean (animal-consciousness's pre-existing 135% length warning untouched — flagship, human-decision-blocked).
+
 ## 2026-06-24T21:10:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Argument from Mechanism (sufficiency≠necessity non-sequitur)

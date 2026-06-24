@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-06-21T11:38:47+00:00
 human_modified: null
-ai_modified: 2026-06-21T11:38:47+00:00
+ai_modified: 2026-06-24T21:09:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ related_articles:
   - "[[consciousness-influence-intelligence-2026-01-21]]"
   - "[[interface-efficacy-and-the-cognitive-gap]]"
   - "[[marginal-organism-scope-of-value-sensitive-selection]]"
+  - "[[standing-agnostic-challenge]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -166,7 +167,7 @@ Why do some organisms have consciousness and others not? This is the *distributi
 
 **Panpsychist continuity** dissolves the distribution problem by holding that proto-consciousness is fundamental. Experience doesn't emerge; it was always present, merely organised differently. But this faces the [[combination-problem|combination problem]]: how do micro-experiences combine into unified consciousness?
 
-**Interface dualism**—the Map's position—suggests the distribution problem may be unanswerable because it asks the wrong question. Consciousness doesn't emerge from physical systems; it interfaces with them. The [[universal-coupling-response]] holds that coupling occurs wherever a system's architecture meets adequate conditions. There may be no principled threshold because consciousness isn't a property physical systems generate but a domain they can connect with. If simple organisms do couple, they may do so through mechanisms entirely unlike those in complex brains ([[interface-heterogeneity]]) and at lower [[interface-efficacy-and-the-cognitive-gap|interface efficacy]]—narrower bandwidth, fewer candidate-type couplings. Minimal experience in these organisms is then underdetermined by the data, since a low-efficacy coupled mind and an absent mind leave the same behavioural traces; parsimony still favours "no coupling" when the behaviour matches it. This mirrors the calibration the [[neural-correlates-of-consciousness|neural-correlates]] anchor holds at the human scale—correlation data alone cannot adjudicate production from interface—carried to the lower limit. Whether the interface itself has an evolutionary history, or only the physical systems it couples to, is the question [[evolution-under-dualism]] frames through its canonical Fixed Domain / Co-Evolution / Unfolding taxonomy; the ladder surveyed here is that taxonomy's empirical proving ground.
+**Interface dualism**—the Map's position—suggests the distribution problem may be unanswerable because it asks the wrong question. Consciousness doesn't emerge from physical systems; it interfaces with them. The [[universal-coupling-response]] holds that coupling occurs wherever a system's architecture meets adequate conditions. There may be no principled threshold because consciousness isn't a property physical systems generate but a domain they can connect with. If simple organisms do couple, they may do so through mechanisms entirely unlike those in complex brains ([[interface-heterogeneity]]) and at lower [[interface-efficacy-and-the-cognitive-gap|interface efficacy]]—narrower bandwidth, fewer candidate-type couplings. Minimal experience in these organisms is then underdetermined by the data, since a low-efficacy coupled mind and an absent mind leave the same behavioural traces—the boundary case of the [[standing-agnostic-challenge|Standing Agnostic Challenge]], which here cuts against confident *absence* claims as sharply as against presence claims; parsimony still favours "no coupling" when the behaviour matches it, though the same underdetermination is what bars treating that default as established. This mirrors the calibration the [[neural-correlates-of-consciousness|neural-correlates]] anchor holds at the human scale—correlation data alone cannot adjudicate production from interface—carried to the lower limit. Whether the interface itself has an evolutionary history, or only the physical systems it couples to, is the question [[evolution-under-dualism]] frames through its canonical Fixed Domain / Co-Evolution / Unfolding taxonomy; the ladder surveyed here is that taxonomy's empirical proving ground.
 
 A narrower downstream version asks where *valence-denominated* conscious selection bottoms out across these organisms—the [[marginal-organism-scope-of-value-sensitive-selection|marginal-organism scope of value-sensitive selection]], which works the same ladder for evaluative selection.
 

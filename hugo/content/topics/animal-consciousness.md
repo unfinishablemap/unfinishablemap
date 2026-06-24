@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-22 11:13:37+00:00
+ai_modified: 2026-06-24 21:09:35+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -59,6 +59,7 @@ related_articles:
 - '[[interface-efficacy-and-the-cognitive-gap]]'
 - '[[evolution-under-dualism]]'
 - '[[introspection-architecture-independence-scoring]]'
+- '[[standing-agnostic-challenge]]'
 title: Animal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -112,7 +113,7 @@ Godfrey-Smith (2024) holds that consciousness appears to have evolved independen
 
 ## The Standing Agnostic Challenge
 
-Gutfreund (2024) provides the strongest skeptical counterpoint. Neuroscience remains fundamentally agnostic about animal phenomenal consciousness: "A perceptual decision without a felt subjective experience is a possibility that is equally consistent with the data." When an octopus solves a puzzle, we infer consciousness because such behaviour in humans correlates with conscious experience—but the inference cannot be scientifically validated. The critique applies across every species-claim here. Tenet 1 removes a metaphysical defeater but does not absorb Gutfreund's challenge.
+Gutfreund (2024) provides the strongest skeptical counterpoint. Neuroscience remains fundamentally agnostic about animal phenomenal consciousness: "A perceptual decision without a felt subjective experience is a possibility that is equally consistent with the data." When an octopus solves a puzzle, we infer consciousness because such behaviour in humans correlates with conscious experience—but the inference cannot be scientifically validated. The critique applies across every species-claim here. Tenet 1 removes a metaphysical defeater but does not absorb Gutfreund's challenge. The Map develops this constraint, its symmetry, and its relation to the hard problem and the problem of other minds in the canonical [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/) concept.
 
 Wandrey & Halina (2025, *Philosophy Compass*) map the same circularity onto the evolutionary debate. The early-evolution camp (Cambrian origin, ~540 mya) and the latecomer camp (mammals or humans only) disagree not primarily about the fossil and behavioural record but about *which markers count as evidence of consciousness*. Identification-methodology underdetermination blocks reductive verdicts—exactly the pattern [Occam's Razor Has Limits](/tenets/#occams-limits) predicts when third-person methods are asked to identify a first-person phenomenon.
 

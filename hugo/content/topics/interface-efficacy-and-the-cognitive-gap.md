@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-06-02 14:39:23+00:00
+ai_modified: 2026-06-24 21:09:35+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -39,6 +39,7 @@ related_articles:
 - '[[framework-stage-calibration]]'
 - '[[bidirectional-interaction]]'
 - '[[research/evolved-mind-brain-interface-efficacy-2026-05-05]]'
+- '[[standing-agnostic-challenge]]'
 title: Interface Efficacy and the Cognitive Gap
 topics:
 - '[[animal-consciousness]]'
@@ -51,7 +52,7 @@ topics:
 
 The standard reading of the human-other-animal cognitive gap treats it as a brain-side phenomenon: more cortical neurons, expanded prefrontal connectivity, freed association cortex, distinctive projection-neuron classes, and the ratcheted social cognition those features enable. Under interactionist dualism, the same observed differences admit a structurally different reading. The *mind-brain interface itself* may have evolved toward higher efficacy, with wider selection bandwidth, higher fidelity from intent to physical outcome, finer-grained selection per event, and access to a broader range of neural-pattern types as candidates for selection. Under this reading, consciousness may be present at full grade across many species — consistent with the New York Declaration on Animal Consciousness (2024) — while *effective reach* into behavioural outcomes scales along the same phylogenetic gradient that produced the cognitive gap.
 
-The Unfinishable Map proposes this reading as a heuristic-explanatory move, not an empirically forced conclusion. Yossi Gutfreund's (2024) Standing Agnostic Challenge — that behavioural data alone cannot adjudicate mind-side claims about consciousness in other species — applies symmetrically to interface-efficacy and brain-side framings. Both face the same epistemic ceiling. Distinguishing observables in principle exist; they are not currently operationalised. The hypothesis sits at the *speculative integration* tier on the Map's evidential ladder. It is tenet-coherent under [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction), not empirically forced by the comparative data.
+The Unfinishable Map proposes this reading as a heuristic-explanatory move, not an empirically forced conclusion. Yoram Gutfreund's (2024) [Standing Agnostic Challenge](/concepts/standing-agnostic-challenge/) — that behavioural data alone cannot adjudicate mind-side claims about consciousness in other species — applies symmetrically to interface-efficacy and brain-side framings. Both face the same epistemic ceiling. Distinguishing observables in principle exist; they are not currently operationalised. The hypothesis sits at the *speculative integration* tier on the Map's evidential ladder. It is tenet-coherent under [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction), not empirically forced by the comparative data.
 
 ## What "Interface Efficacy" Names
 
@@ -94,7 +95,7 @@ DeWall, Baumeister, and Masicampo's (2008) finding that cognitive load occupying
 
 ## The Standing Agnostic Challenge
 
-Yossi Gutfreund (2024) argues that consciousness in other animals cannot be directly observed, only inferred, and that the inference is bounded by epistemic limits intrinsic to first-person phenomena. Behavioural responses are perceptual decisions, not reports of subjective experience; neural correlates of those decisions do not establish consciousness. The agnostic stance: the question of animal-consciousness presence and grade may be unresolvable through scientific methods alone. The 2024 New York Declaration on Animal Consciousness takes the opposite stance, asserting "strong scientific support" for consciousness in mammals and birds, and a "realistic possibility" of consciousness in other vertebrates and many invertebrates.
+Yoram Gutfreund (2024) — whose argument the Map anchors in the [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/) concept — holds that consciousness in other animals cannot be directly observed, only inferred, and that the inference is bounded by epistemic limits intrinsic to first-person phenomena. Behavioural responses are perceptual decisions, not reports of subjective experience; neural correlates of those decisions do not establish consciousness. The agnostic stance: the question of animal-consciousness presence and grade may be unresolvable through scientific methods alone. The 2024 New York Declaration on Animal Consciousness takes the opposite stance, asserting "strong scientific support" for consciousness in mammals and birds, and a "realistic possibility" of consciousness in other vertebrates and many invertebrates.
 
 The interface-efficacy hypothesis engages this challenge directly. Gutfreund's epistemic ceiling applies symmetrically: behavioural-cognition data cannot adjudicate between brain-side and interface-side scaling readings, because both make explanatory contact with the world through the same behavioural intermediary. The hypothesis is therefore not in better evidential standing than the brain-side framing it competes with; both face the agnostic ceiling. The hypothesis earns its keep by being heuristic-explanatory rather than prediction-generating, offering a single mechanism that subsumes phenomena the brain-side reading addresses through several distinct ones.
 
