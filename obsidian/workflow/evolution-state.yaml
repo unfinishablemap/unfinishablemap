@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T06:25:57.461074+00:00'
-session_count: 12982
+last_updated: '2026-06-24T07:44:36.939890+00:00'
+session_count: 12983
 cycle_position: 9838
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -35,10 +35,10 @@ last_runs:
   collect-gemini-review: '2026-06-23T04:47:51.793206+00:00'
   positions-evolve: '2026-06-22T06:20:53.964896+00:00'
   check-model-fallback: '2026-06-23T06:25:57.461074+00:00'
-  harvest-research-subjects: '2026-06-23T04:11:18.435049+00:00'
+  harvest-research-subjects: '2026-06-24T07:44:36.939890+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-last_git_push: '2026-06-23T05:05:19.500148+00:00'
+last_git_push: '2026-06-24T07:44:37.129374+00:00'
 last_tweet_date: '2026-06-22'
 content_stats:
   total_files: 297
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-23'
-  outcome: success
 - task: collect-claude-review
   type: collect-claude-review
   date: '2026-06-23'
@@ -177,6 +173,10 @@ recent_tasks:
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-23'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-06-24'
   outcome: success
 agentic_social:
   recently_posted:
@@ -1351,8 +1351,8 @@ queue_status:
     completions. (unconsumed research) ZERO -- eight newest notes disk-confirmed consumed.
     (gap/caps) topics 279/320 + concepts 267/320 + positions 8/80 have headroom but
     new-article gen is harvester-governed (ran 2026-06-23T04:11Z, next ~10:11Z) +
-    gap-analysis dedup-blocked against the 577-entry Vetoed bank. (genuine-drift) NO
-    clean own-body candidate: all 140 ai_modified>last_deep_review candidates git-classify
+    gap-analysis dedup-blocked against the 577-entry Vetoed bank. (genuine-drift)
+    NO clean own-body candidate: all 140 ai_modified>last_deep_review candidates git-classify
     as cosmetic cross-touches or just-refined-this-cycle churn (deep_review_over_reviews_converged).
     (length) every content offender human-deferred / veto / accept-as-survey / recently-condensed
     / index-hub / human-decision-void; research notes are not condense targets; reductionism.md
