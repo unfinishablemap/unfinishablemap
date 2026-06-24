@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-23T05:59:39+00:00
+ai_modified: 2026-06-24T09:34:41+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T09:34:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/near-death-experiences]]
+- **Source**: [[reviews/pessimistic-2026-06-24-near-death-experiences]]
+- **Changes**: (medium) Hedged the lead and RED section so "during arrest" awareness is framed as recalled-and-attributed-to-the-arrest, with the contested timing handed to the gamma-surge discussion. (medium) Downgraded the introspective-reliability claim: dropped the uncited "resistance to suggestion" marker and "reliable phenomenal access" language; cross-cultural commonality + durable transformation now framed as making pure on-the-spot fabrication less likely, NOT as establishing veridicality (commonality predicted by shared dying-neurophysiology; transformation = salient/potent memory, false memories can be life-altering). (low) Replaced Van Lommel "representative sample" with "larger prospective survivor cohort" + survivor-selection caveat. Added a paragraph distinguishing reported phenomenal vividness from measured cognition in the heightened-experience paradox (paradox bites only if reported clarity tracks genuine cognitive function — current data cannot establish). Adjudicated the single 1/28 auditory hit at both line-76 bullet and the veridical section: AWARE II authors did not count it as confirmed veridical perception, consistent with chance at that rate.
+- **Citations**: NOT touched — Xu/Borjigin PNAS 2023 author distinction confirmed correct by the review's verification pass.
+- **Length**: 2696 → 2951 words (+255; still soft_warning band, well under 3500 hard threshold, no status change). Symmetry scanner passes (evaluate_symmetry → None).
+- **Published**: yes
 
 ## 2026-06-24T09:30:00+00:00 - pessimistic-review
 - **Status**: Success
