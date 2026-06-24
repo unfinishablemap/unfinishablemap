@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-24T10:09:53+00:00
+ai_modified: 2026-06-24T12:45:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-06T02:06:38+00:00
+last_deep_review: 2026-06-24T12:45:58+00:00
 ---
 
 The phenomenal concepts strategy (PCS) is the most sophisticated physicalist response to the [[explanatory-gap|explanatory gap]]. Rather than denying that consciousness seems puzzling, PCS locates the puzzle in our *concepts* rather than in reality. The gap between physical descriptions and conscious experience, it claims, reflects how we think about experience—not something non-physical in experience itself.

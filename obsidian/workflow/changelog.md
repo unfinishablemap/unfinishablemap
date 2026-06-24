@@ -5,6 +5,16 @@ ai_modified: 2026-06-24T12:28:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T12:45:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-concepts-strategy]]
+- **Word count**: 3351 → 3351 (no body change; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Eighth review. Unlike the 7th (verification-only no-op), this reviewed genuinely NEW content — the 2026-06-24 currency refine (4cd5a06f9) added ~780w (2569→3351): master-argument softening paragraph, rewritten Carruthers&Veillet zombie-premise section, new Ball-2009 eliminativism section, new Zhou-2025 indicate-without-reveal paragraph, +5 cites. Ran §2.4 publisher-of-record web-verify on the new cites: Zhou 2025 (Synthese 206(2)) and Sasaki 2025 (J-Stage jpssj 58(1) = Kagaku Tetsugaku) both REAL-CORRECT; Chalmers 2006 / Carruthers&Veillet 2007 / Ball 2009 corroborated by sibling's prior ledger. Attribution faithful (Carruthers-Veillet equivocation, Ball Burge-externalism, Zhou retreat). Calibration exemplary — the softening is itself a downgrade away from overclaim; new dualist glosses all hedged. Cross-ref integrity clean, all anchors+wikilinks resolve, validates clean, no editor-vocab leakage. Zero critical issues on new content. Engagements: Carruthers&Veillet = Mode One/Mixed; Ball = Mode One; Zhou = Mode Two; no label leakage. At 134% soft / under 3500 hard (~149w headroom — watch future additions).
+- **Output**: [[reviews/deep-review-2026-06-24-phenomenal-concepts-strategy]]
+
 ## 2026-06-24T12:33:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/anoetic-noetic-autonoetic-consciousness]]
