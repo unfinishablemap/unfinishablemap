@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T09:15:53.691894+00:00'
-session_count: 12997
-cycle_position: 9844
+last_updated: '2026-06-24T09:19:52.685821+00:00'
+session_count: 12998
+cycle_position: 9845
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-23T02:45:46.803076+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-06-24T08:54:57.607740+00:00'
   replenish-queue: '2026-06-24T09:04:24.386481+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
-  expand-topic: '2026-06-24T09:15:53.691894+00:00'
+  expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
   literature-drift-review: '2026-06-23T05:05:19.034349+00:00'
   collect-chatgpt-review: '2026-06-23T04:01:31.166459+00:00'
@@ -83,7 +83,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 280
-  concepts_written: 267
+  concepts_written: 268
   arguments_written: 5
   questions_written: 0
   voids_written: 101
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-23'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-23'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-24'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-06-24'
   outcome: success
 - task: expand-topic
@@ -1182,11 +1182,56 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 4
   replenishment_source_counts:
-    unconsumed_research: 2
-  last_replenishment_run: 580
-  last_replenishment: '2026-06-24T09:05:00+00:00'
+    chain_orphan_integration: 2
+  last_replenishment_run: 581
+  last_replenishment: '2026-06-24T09:25:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.580 (2026-06-24T09:05Z): MINTED 2 unconsumed-research
+  current_replenishment_note: 'run no.581 (2026-06-24T09:25Z): MINTED 2 chain/orphan-integration
+    tasks for the two articles created earlier this cycle, floor restored 2->4. Authoritative
+    tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint / 4 POST-mint (both
+    verified; select_queue_task confirms the new many-minds-interpretation task selectable
+    as INTEGRATE_ORPHAN at top). MIN_QUEUE floor 3, unmet by 1 pre-mint. CONTEXT: run
+    no.580 (09:05Z, commit ad57130fb) minted 2 unconsumed-research expand-topic chains
+    (Many-Minds, Simulation-Theory-of-Memory) which were BOTH picked + executed by
+    the next two cycle slots (commits e08705a1f topics/many-minds-interpretation.md
+    + 696478710 concepts/simulation-theory-of-memory.md), dropping the live floor 4->2
+    -- the documented replenish-at-floor alternation (unfin_loop_steady_state), here
+    with the research->expand pipeline genuinely REOPENED. Both fresh articles disk-verified
+    to have ZERO inbound wikilinks (grep-confirmed) = pure orphans + fresh-create defect
+    tail; state orphaned_files=0 is STALE (predates today creates). The two minted
+    integrate-orphan tasks are the cleanest highest-confidence floor-restore available:
+    (1) topics/many-minds-interpretation.md -- add reciprocal inbound links from its
+    5 related_articles targets (all disk-verified: qm-interpretations-beyond-many-worlds,
+    multi-mind-collapse-problem, indexical-identity-quantum-measurement, probability-problem-in-many-worlds,
+    von-neumann-wigner-interpretation), frame it as a named Tenet-4 No-Many-Worlds rival.
+    (2) concepts/simulation-theory-of-memory.md -- add reciprocal inbound links from
+    its 3 related_articles targets (phenomenology-of-memory-and-the-self has only an
+    inline mention to promote, reconsolidation-as-selection-window, capability-division-problem),
+    frame as a named rival to pastness-quale realism. Both task notes also direct a
+    fresh-create defect sweep (publisher-of-record citation verify, date-sanity, quote-audit)
+    while integrating, per fresh-create-defect-tail. Neither slug is in the Vetoed
+    bank and no prior integration task exists for either (grep-confirmed). Inserted
+    at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation). All other sources
+    re-audited from LIVE DISK and exhausted of clean genuine-MINT candidates: (length)
+    every content offender (epistemology-of-convergence, born-rule, composition-question-rivals,
+    clinical-dissociation, agency-void, what-voids-reveal, etc.) remains human-deferred
+    / #veto / accept-as-survey / index-hub / +3w-positions-back-cite cosmetic-accretion,
+    and counts include frontmatter on link-heavy articles (count-words-includes-frontmatter);
+    research/ notes are not condense targets; NO clean mintable condense. (unconsumed
+    research) the three research notes completed today are now all addressed -- many-minds
+    + simulation-theory consumed by run-580 creates; phenomenal-concept-strategy-2024-2026-update
+    is a literature-CURRENCY refine of the existing concepts/phenomenal-concepts-strategy.md
+    (overlaps the literature-drift system), NOT a new-article chain, left for a future
+    refine. (gap/caps) topics 280/320 + concepts 268/320 + positions 8/80 headroom
+    but new-article gen is harvester-governed + gap-analysis Vetoed-bank-dedup-blocked.
+    (orphan, beyond the 2 fresh creates) no other orphans. (positions) 8 entries <10
+    audit threshold, slow-add. (applied-apex) 3 extant, no high-confidence cluster
+    gap. The two pre-existing counted P2s (entropic-brain-hypothesis cross-links refine-draft
+    + parapsychology-firewall cross-links integrate-orphan) and the three speculative
+    ASSESS-FIRST P3s (Q3-dualism research-topic, Consciousness-as-Maker apex-evolve,
+    Phenomenology-of-Insight expand-topic) untouched; the #veto condense tasks remain
+    parser-excluded.'
+  legacy_run_580_note: 'run no.580 (2026-06-24T09:05Z): MINTED 2 unconsumed-research
     expand-topic chain tasks (highest-bonus source, +60 each), floor restored 2->4.
     Authoritative tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint / 4
     POST-mint (both verified; select_queue_task confirms the new Many-Minds task selectable
