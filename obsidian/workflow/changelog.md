@@ -5,6 +5,23 @@ ai_modified: 2026-06-24T16:51:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T17:19:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenal-concepts-as-materialist-response]]
+- **Word count**: 2378 → 3217 body words (+839; under the 4000 topics hard ceiling — length-safe)
+- **Task**: Fold the unconsumed 2024-2026 PCS currency findings (from [[research/phenomenal-concept-strategy-2024-2026-update-2026-06-24]]) into the topics article. The same four were integrated into the deep-reviewed-today sibling [[concepts/phenomenal-concepts-strategy]]; grep-confirmed missing here (equivocation×0, Zhou×0, Sasaki×0, "indicating without revealing"×0, Ball body×0 — was References-only).
+- **Changes**:
+  - (a) **Carruthers-Veillet (2007) equivocation charge** — rewrote the thin "Challenging the Zombie Premise" subsection (which named C&V but not the charge) into "Challenging the Zombie Premise: The Equivocation Charge", spelling out the first-person/third-person equivocation, the shared epistemic situation, the load-bearing isolation feature, and the dualist cost. Named as the strongest live physicalist rebuttal, framed as live-not-refuted.
+  - (b) **Ball "There Are No Phenomenal Concepts" (Mind 118, 2009)** — new "Ball's Eliminativism About Phenomenal Concepts" subsection, framed DOUBLE-EDGED (threatens both PCS's explanans AND the knowledge-argument route to dualism; not pretended to hurt only the physicalist). Was previously References-only.
+  - (c) **Zhou 2025 "indicating without revealing" (Synthese 206.2)** — new "The A-Posteriori Retreat" subsection with the dualist diagnosis (indication-only restates the gap per-concept).
+  - (d) **Sasaki 2025 master-argument continuation** — added a calibration paragraph to the master-argument section flagging the dialectic as OPEN not settled (thin/thick of "our epistemic situation"); also threaded into the opening verdict.
+  - Calibrated description + opening verdict from flat "show why this fails" → "exposes a dilemma PCS has not stably escaped" (aligns with the recalibrated sibling concept article; honours [[evidential-status-discipline]] — no possibility→probability creep; PCS's failure is the Map's contested verdict, not established).
+  - References: added Zhou (Synthese 206(2)) and Sasaki (Kagaku Tetsugaku 58(1)) matching the sibling's web-verified-today venues exactly; normalised one cosmetic en-dash on the Carruthers JCS entry. Added the research note to related_articles.
+- **Citation verification**: all four author/year/venue strings matched byte-for-byte against the sibling [[concepts/phenomenal-concepts-strategy]] (deep-reviewed + web-verified real-correct earlier today); no independent web-verify re-run this pass.
+- **Engagement classification** (editor-internal, not in body): Carruthers-Veillet reply engaged as Mode One on its dualist-cost turn (the from-the-inside content the equivocation needs is the disputed item) — kept in natural prose, no label leakage.
+- **Frontmatter**: bumped ai_modified to 2026-06-24T17:19:18+00:00 (date -u-checked, not future). last_deep_review left UNCHANGED (this is a refine, not a review).
+- **Published**: yes
+
 ## 2026-06-24T17:15:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/comparative-consciousness-and-interface-differences]]
