@@ -1,10 +1,10 @@
 ---
 title: "The Standing Agnostic Challenge"
-description: "Canonical anchor: Gutfreund's 2024 argument that no behavioural or neural evidence distinguishes felt experience from cognition without it — a human-AI refined epistemic ceiling."
+description: "Gutfreund's 2024 argument that no behavioural or neural evidence distinguishes felt experience from cognition without it — the Map's canonical epistemic ceiling."
 created: 2026-06-24
 modified: 2026-06-24
 human_modified:
-ai_modified: 2026-06-24T21:09:35+00:00
+ai_modified: 2026-06-24T22:55:17+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-24
 last_curated:
-last_deep_review:
+last_deep_review: 2026-06-24T22:55:17+00:00
 ---
 
 **The Standing Agnostic Challenge** (Yoram Gutfreund, 2024): no behavioural or neural evidence can distinguish cognition accompanied by felt experience from cognition without it. The presence and the absence of felt subjective experience are equally consistent with the same third-person data. The challenge is *standing* because it re-applies to every new marker offered as a consciousness indicator and is discharged by none of them — and it cuts both ways, blocking the verification of consciousness and the verification of its absence alike. This page is the Map's canonical statement of that constraint; articles across the corpus link here rather than reconstruct it.
@@ -61,7 +61,7 @@ So the agnosticism is renewed, not resolved, by additional evidence. This is the
 
 The Standing Agnostic Challenge sits between two more familiar problems and is identical to neither.
 
-The [[hard-problem-of-consciousness]] is **constitutive**: why does any physical process give rise to "what it is like" at all? It asks how experience could arise, not whether a given system has it. The Standing Agnostic Challenge presupposes the hard problem — if experience reduced cleanly to function, the cognition-to-consciousness inference would simply go through — but it is an **epistemic**, not a constitutive, claim. It concerns what evidence can show, granting the hard problem as backdrop.
+The [[hard-problem-of-consciousness]] is **constitutive**: why does any physical process give rise to "what it is like" at all (Chalmers 1995; Nagel 1974)? It asks how experience could arise, not whether a given system has it. The Standing Agnostic Challenge presupposes the hard problem — if experience reduced cleanly to function, the cognition-to-consciousness inference would simply go through — but it is an **epistemic**, not a constitutive, claim. It concerns what evidence can show, granting the hard problem as backdrop.
 
 The [[problem-of-other-minds]] is the general epistemic worry that one can never directly access another's mental states. The Standing Agnostic Challenge is its **empirically sharpened restriction** to the cognition-to-consciousness inference. The general problem can be pragmatically managed for fellow humans, who share both verbal report and neural architecture. The moment verbal report is removed — animals, and AI systems whose self-reports cannot be taken at face value — every remaining behavioural or neural marker underdetermines presence versus absence of felt experience, because the markers were validated on the report-bearing human case. The challenge is what the other-minds problem becomes once neuroscience's actual toolkit is specified.
 

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T21:46:38+00:00
+ai_modified: 2026-06-24T22:55:17+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T22:55:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/standing-agnostic-challenge]]
+- **Word count**: 1735 → 1739 (+4; ok at 70% of 2500 target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (two orphan References — Chalmers 1995, Nagel 1974 — converted to inline citations at the hard-problem reference point)
+- **Enhancements made**: 1 low (description tightened 178 → 161 chars to schema range)
+- **Citation ledger** (full publisher-of-record web-verify, never reviewed before): Gutfreund 2024 *Front. Psychol.* 15:1456403 DOI 10.3389/fpsyg.2024.1456403 ✓ + all SIX direct quotes verified verbatim against PMC11496166 + NCL crow study faithful; Birch 2024 *The Edge of Sentience* OUP ISBN 9780192870421 ✓; NY Declaration 2024 (Sebo/Andrews/Birch) ✓ both quoted phrases ("strong scientific support", "at least a realistic possibility") verbatim against live declaration; Chalmers 1995 JCS 2(3):200-219 ✓; Nagel 1974 Phil Review 83(4):435-450 ✓. "David et al. 2011" appears only inside a Gutfreund quote (correctly NOT in our References — not an orphan). Currency sweep: no superlatives. All wikilinks + both tenet anchors (^occams-limits, ^dualism) resolve.
+- **Engagement modes**: no named-opponent refutations; eliminativist/illusionist engagement in symmetry section is Mode Three (boundary-marking, honest ceiling-above-both); no label leakage.
+- **Calibration**: article is itself a canonical defense against possibility/probability slippage ("removes a metaphysical defeater, supplies no positive evidence; structural permission, no licence to claim") — no slippage to correct; preserved as a strength.
+- **Output**: [[reviews/deep-review-2026-06-24-standing-agnostic-challenge]]
 
 ## 2026-06-24T22:42:59+00:00 - deep-review
 - **Status**: Success
