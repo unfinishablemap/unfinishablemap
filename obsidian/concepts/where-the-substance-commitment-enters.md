@@ -22,7 +22,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated: null
-last_deep_review: 2026-05-27T12:15:00+00:00
+last_deep_review: 2026-06-24T20:15:00+00:00
 ---
 
 The Unfinishable Map's [[tenets#^dualism|Dualism]] tenet is neutral between [[substance-property-dualism|substance and property dualism]]: it requires only that consciousness is irreducible to physical processes, leaving the underlying ontology open. Yet several of the Map's articles lean toward a substance-bearing reading—the agent as a persisting subject that exercises causal powers in its own right. This page is the canonical statement of *where that lean enters and why*. The short answer: the substance-leaning is downstream of [[agent-causation|agent causation]], a commitment made by the agency cluster, not inherited from the Dualism tenet. Articles that invoke agent causation need it; articles that run on irreducibility alone do not.

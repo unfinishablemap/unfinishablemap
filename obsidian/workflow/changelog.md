@@ -5,6 +5,17 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T20:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/where-the-substance-commitment-enters]]
+- **Word count**: 1215 → 1215 (no change; length-appropriate consolidation page, 49% of 2500 target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged — 2nd full review; re-qualified only by a sibling pairing-problem deep-review's corpus-wide Zimmerman venue fix bumping ai_modified)
+- **Citations (§2.4 publisher-of-record web-verify, 7 cites; References modified since last review)**: Chisholm 1964 (Lindley Lecture, U. Kansas) — real-correct; Lowe 2008 (*Personal Agency*, OUP) — real-correct; Lowe 2006 (*Erkenntnis* 65(1):5-23, DOI 10.1007/s10670-006-9012-3) — real-correct; O'Connor 2000 (*Persons and Causes*, OUP) — real-correct; **Zimmerman 2010** (*Aristotelian Society Supplementary Volume* 84(1):119-150, DOI 10.1111/j.1467-8349.2010.00189.x) — **real-correct** (independently re-verified the imported venue fix vs Oxford Academic + Wiley); 2× Map-internal Southgate cites — real-correct (live sibling pages). Inline↔References: no orphans. Superlative-currency sweep: 0 hits.
+- **Reasoning-mode (§2.6, editor-internal)**: engagement with the property-only dualist — Mixed (Mode Two: property-only reading "looks like event causation under another name" → Mode Three: agent-causal step marked as framework-boundary parting point). Natural prose; no boundary-substitution; no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-where-the-substance-commitment-enters]]
+
 ## 2026-06-24T19:52:40+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/working-memory]]
