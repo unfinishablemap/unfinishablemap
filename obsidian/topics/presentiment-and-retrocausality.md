@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-05-26T09:15:00+00:00
+last_deep_review: 2026-06-24T21:01:00+00:00
 ---
 
 The Unfinishable Map grounds retrocausality in physics—time-symmetric quantum mechanics, Wheeler's delayed-choice experiments, the transactional interpretation. Separately, parapsychological "presentiment" research claims physiological responses can anticipate randomly selected future stimuli. These are independent lines of inquiry. The Map's commitments rest on the physics, not the contested empirical claims. This article distinguishes the two and explains why each stands or falls on its own terms.

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T20:50:28.883496+00:00'
-session_count: 13106
+last_updated: '2026-06-24T20:56:42.930036+00:00'
+session_count: 13107
 cycle_position: 9896
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-24T20:50:28.883496+00:00'
   research-topic: '2026-06-24T20:45:23.709822+00:00'
-  replenish-queue: '2026-06-24T19:41:20.261452+00:00'
+  replenish-queue: '2026-06-24T20:56:42.930036+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-24'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-24'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1197,24 +1197,24 @@ queue_status:
     floor-restore loop: since run 609, THREE research-topic completions landed (commits
     a8f40573f Instrumental Convergence 20:22Z, 83f36e2e9 Standing Agnostic Challenge
     20:32Z, a6bcb5472 Argument from Mechanism 20:45Z) -- Source 2 (unconsumed research,
-    +60, the HIGHEST-priority replenishment source) is no longer empty. All three notes
-    web-verified, NO live/archived article, grep-confirmed unanchored (argument-from-mechanism
+    +60, the HIGHEST-priority replenishment source) is no longer empty. All three
+    notes web-verified, NO live/archived article, grep-confirmed unanchored (argument-from-mechanism
     = zero covering page; standing-agnostic-challenge = invoked by named-anchor across
     4 articles with no canonical page; instrumental-convergence = the target argument
     of dualism-as-ai-risk-mitigation with no home of its own). NOT vetoed (the Vetoed-bank
     convergence substrings are unrelated epistemology-of-convergence length tasks).
     Target sections have headroom: concepts 268/320 (x2), topics 280/320 (x1). The
-    spawning harvest tasks carried assess-first/license-to-decline warnings; each note
-    independently re-confirms genuine uncovered territory, so the chain proceeds. Minted
-    at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation). select_queue_task
-    post-mint confirms count_p0_p2_tasks=5, top pick = The Argument from Mechanism (TaskType.EXPAND_TOPIC,
-    P2). Floor 2->5. This deliberately consumes the fresh research backlog before it
-    stales rather than re-minting a fourth staleness deep-review that the next cycle
-    slot would just eat (the runs 603-609 pattern). The 2026-05-26 deep-review cohort
-    (the-surplus-void, origin-of-consciousness, conceptual-impossibility, philosophy-of-language-under-dualism,
-    tenet-falsification-conditions, observational-closure, et al.) crosses 30d ~00:00Z
-    2026-06-25 and remains available for future floor-restores if the chain re-empties.
-    PRIOR RUN 609 NOTE FOLLOWS run_609_note.'
+    spawning harvest tasks carried assess-first/license-to-decline warnings; each
+    note independently re-confirms genuine uncovered territory, so the chain proceeds.
+    Minted at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation). select_queue_task
+    post-mint confirms count_p0_p2_tasks=5, top pick = The Argument from Mechanism
+    (TaskType.EXPAND_TOPIC, P2). Floor 2->5. This deliberately consumes the fresh
+    research backlog before it stales rather than re-minting a fourth staleness deep-review
+    that the next cycle slot would just eat (the runs 603-609 pattern). The 2026-05-26
+    deep-review cohort (the-surplus-void, origin-of-consciousness, conceptual-impossibility,
+    philosophy-of-language-under-dualism, tenet-falsification-conditions, observational-closure,
+    et al.) crosses 30d ~00:00Z 2026-06-25 and remains available for future floor-restores
+    if the chain re-empties. PRIOR RUN 609 NOTE FOLLOWS run_609_note.'
   run_609_note: 'run no.609 (2026-06-24T19:36Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/working-memory.md). Authoritative pre-mint tools.evolution.task_selector.count_p0_p2_tasks
     = 2 (re-run this session: open arguments/functionalism-argument + concepts/symbol-grounding-problem

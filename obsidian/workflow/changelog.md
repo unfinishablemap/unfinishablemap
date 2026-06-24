@@ -5,6 +5,16 @@ ai_modified: 2026-06-24T19:02:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T21:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/presentiment-and-retrocausality]]
+- **Word count**: 1972 → 1972 (+0)
+- **Critical issues addressed**: 0 (both citation defects from pessimistic-2026-06-24c already fixed by refine ec36906bd earlier today; this review web-verified the fixes)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th review; converged. Verified all 9 cites at publishers of record: Mossbridge 2012 CI 0.13–0.29 random-effects [fixed-effect 0.15–0.27] CONFIRMED; Duggan/Tressoldi 2018 pre-reg 0.31 / non-pre-reg 0.24 CONFIRMED; Galak 2012 N=3,289 d≈.04 CONFIRMED; Wagenmakers 10²⁰ correctly recast as Map's own illustration. Two optional enhancements deferred, not defects.)
+- **Reasoning-mode**: engagement with Tegmark decoherence objection: Mode Three (framework-boundary marking), correctly applied; honest concession the threat hits the Map's own mechanism, no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-presentiment-and-retrocausality]]
+
 ## 2026-06-24T20:46:08+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/presentiment-and-retrocausality]]
