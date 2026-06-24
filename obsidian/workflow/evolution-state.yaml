@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T10:02:18.856595+00:00'
-session_count: 13005
+last_updated: '2026-06-24T10:08:16.065252+00:00'
+session_count: 13006
 cycle_position: 9850
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-24T09:36:19.286445+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
-  replenish-queue: '2026-06-24T09:26:16.741451+00:00'
+  replenish-queue: '2026-06-24T10:08:16.065252+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-06-24'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-24'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1192,11 +1192,11 @@ queue_status:
   last_replenishment: '2026-06-24T10:05:00+00:00'
   last_replenishment_mode: standard
   current_replenishment_note: 'run no.582 (2026-06-24T10:05Z): MINTED 1 unconsumed-research
-    refine (concepts/phenomenal-concepts-strategy.md 2024-2026 currency update),
-    floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks
-    = 2 PRE-mint / 3 POST-mint (both verified; select_queue_task confirms the new
-    task selectable as REFINE_DRAFT P2 at top, line 39). MIN_QUEUE floor 3, unmet
-    by 1 pre-mint. CONTEXT: run no.581 (09:25Z, commit 880a0edfd) minted 2 chain/orphan-integration
+    refine (concepts/phenomenal-concepts-strategy.md 2024-2026 currency update), floor
+    restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks =
+    2 PRE-mint / 3 POST-mint (both verified; select_queue_task confirms the new task
+    selectable as REFINE_DRAFT P2 at top, line 39). MIN_QUEUE floor 3, unmet by 1
+    pre-mint. CONTEXT: run no.581 (09:25Z, commit 880a0edfd) minted 2 chain/orphan-integration
     tasks for the two articles created earlier this cycle (many-minds-interpretation,
     simulation-theory-of-memory); BOTH were PICKED + executed by the next two cycle
     slots (commits bf1c45336 + adc5d11f6, now both ✓ below the Completed header at
@@ -1210,12 +1210,12 @@ queue_status:
     is research/phenomenal-concept-strategy-2024-2026-update-2026-06-24.md (completed
     today, NOT a new-article chain -- concepts/phenomenal-concepts-strategy.md already
     EXISTS, last deep-reviewed 2026-06-06/18d, 2569w soft ~931w headroom -- so minted
-    as a REFINE not an expand; the note itself recommends "no new article, refine the
-    existing pages"). Highest-bonus source (+60). Disk-confirmed no open refine/deep-review
+    as a REFINE not an expand; the note itself recommends "no new article, refine
+    the existing pages"). Highest-bonus source (+60). Disk-confirmed no open refine/deep-review
     task targets this page (only todo hits are a duhem-quine HUMAN-LENGTH-DECISION
-    + the ✓-done harvest research-topic). Actionable web-verifiable gaps the note names:
-    Carruthers-Veillet 2007 equivocation reply ("single most useful addition"), Ball
-    2009 "no phenomenal concepts" externalist denial, Fürst encapsulation->dualism,
+    + the ✓-done harvest research-topic). Actionable web-verifiable gaps the note
+    names: Carruthers-Veillet 2007 equivocation reply ("single most useful addition"),
+    Ball 2009 "no phenomenal concepts" externalist denial, Fürst encapsulation->dualism,
     illusionism-PCS coupling (Frankish/Kammerer), Zhou 2025 "indicating without revealing",
     Sasaki 2025 master-argument. (3 gap/caps) topics 279/320 + concepts 268/320 +
     positions 8/80 headroom but new-article gen is harvester-governed + gap-analysis
@@ -1224,8 +1224,8 @@ queue_status:
     23-06; remaining ai_modified>last_deep_review candidates are git-verified cosmetic
     cross-touches from the heavy deep-review/cross-link cycle (deep_review_over_reviews_converged)
     or human-deferred length-blocked. (5 length) every content hard/critical offender
-    is human-deferred / #veto (composition-question-rivals 4106w, meaning-of-life 4160w,
-    phenomenal-output 6989w -- all parser-excluded) / accept-as-survey / index-hub
+    is human-deferred / #veto (composition-question-rivals 4106w, meaning-of-life
+    4160w, phenomenal-output 6989w -- all parser-excluded) / accept-as-survey / index-hub
     / research-note -- NO clean mintable condense (replenish-overmints-condense-vs-accept-as-survey).
     (6 orphan) orphaned_files=0 (the 2 fresh-create orphans were integrated this cycle).
     (7 positions) 8 entries (<10 audit threshold), positions-evolve ran 06:20Z, slow-add.

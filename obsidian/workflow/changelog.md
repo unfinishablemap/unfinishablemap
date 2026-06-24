@@ -1,11 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T09:54:55+00:00
+ai_modified: 2026-06-24T10:09:53+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-06-24T09:54:55+00:00 - deep-review
+## 2026-06-24T10:09:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenal-concepts-strategy]]
+- **Source**: unconsumed-research chain successor; research note [[research/phenomenal-concept-strategy-2024-2026-update-2026-06-24]]
+- **Word count**: 2569 → 3351 (+782; soft_warning, 149w under 3500 concepts hard ceiling — length-neutral-to-modest constraint honoured, folded into existing sections)
+- **Original score**: n/a (curate.py review entry point is the known-stale command per MEMORY; used analyze_length + validate.py instead)
+- **Changes (currency update, 2024-2026 PCS literature)**:
+  - **Carruthers & Veillet (2007) equivocation reply** (the note's "single most useful addition"): rewrote "Attacking the Zombie Premise" to attribute the first-person/third-person equivocation charge to C&V, name recognitional *isolation* as the load-bearing feature, and add the dualist counter (the from-the-inside content the charge needs is the disputed item). Added matching `#attacking-the-zombie-premise` named anchor from the master-argument section.
+  - **Ball, "There Are No Phenomenal Concepts" (*Mind* 118, 2009)**: new subsection, framed double-edged — removes PCS's explanans AND collateral-damages the knowledge-argument route to dualism; recorded as survivable (conceivability + persistence + quantum-interface routes remain) not as a pure gift.
+  - **Master-argument calibration**: softened description from "shows why this strategy fails" → "exposes a dilemma PCS has not stably escaped"; added a paragraph noting the exchange is open (C&V + Sasaki 2025), reframing the argument's achievement as burden-shifting rather than refutation.
+  - **Zhou (2025) "indicating without revealing"**: folded the a-posteriori "indicate-not-reveal" retreat into The Debate's Current State, with the dualist diagnosis (it restates the gap per-concept rather than dissolving it).
+- **Citation web-verify (publisher of record, [[ai_citation_metadata_unreliable]] 3-state)**: Carruthers & Veillet (2007) *J. Consciousness Studies* 14(9–10):212–236 — real-correct (matches sibling article ref). Ball (2009) *Mind* 118(472):935–962 — real-correct. Zhou (2025) "Indicating without Revealing" *Synthese* 206(2) — real-correct. **Sasaki (2025) metadata CORRECTED**: research note flagged conflation risk with PhilArchive MABTPC; verified Sasaki = *Kagaku Tetsugaku (Philosophy of Science)* 58(1), a DISTINCT paper from Mabaquiao's "The Phenomenal Concept Strategy and a Master Argument" (different author/venue) — cited Sasaki with correct venue, did NOT conflate. Fürst (2014) untouched (already present + verified prior).
+- **Engagement classification (editor-internal)**: Carruthers & Veillet reply = Mode Two→Mode Three mixed (in-framework isolation argument granted as strongest live rejoinder, then boundary-marked: the first-person content it needs is the disputed item, honestly noted not refuted within C&V's frame). Ball = Mode Three (framework-boundary; double-edged, survivability declared honestly). No label leakage to body.
+- **Integrity**: validate.py ✓; 41 body wikilinks preserved; inline↔References bidirectional (4 new inline cites all backed, no orphan refs); no banned "This is not X. It is Y." construct; anti-epiphenomenalism calibration + voice preserved; last_deep_review NOT bumped (refine, not review).
+- **Published**: yes
 - **Status**: Success
 - **File**: [[topics/many-minds-interpretation]]
 - **Word count**: 2070 → 2117 (+47; 71% of 3000 topics target, status ok)

@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenal Concepts Strategy"
-description: "Physicalism's best response to the explanatory gap: the puzzle is in our concepts, not reality. Chalmers's master argument shows why this strategy fails."
+description: "Physicalism's best response to the explanatory gap: the puzzle is in our concepts, not reality. Chalmers's master argument exposes a dilemma PCS has not stably escaped."
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-06T02:06:38+00:00
+ai_modified: 2026-06-24T10:09:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,6 +67,8 @@ Let C be whatever features make phenomenal concepts "special"—the features PCS
 
 The dilemma: if the features explaining the gap are "thin" (physically explicable), they can't explain the gap's persistence. If "thick" (not physically explicable), they create a new gap.
 
+The argument has not closed the debate, and the Map does not present it as having done so. PCS defenders dispute that "our epistemic situation"—the explanandum the dilemma turns on—admits a single characterisation that is at once physically explicable and gap-explaining. Carruthers and Veillet (2007) press exactly this point, examined under [Attacking the Zombie Premise](#attacking-the-zombie-premise) below, and the exchange continues into the recent literature (Sasaki 2025). What the master argument achieves is narrower than refutation: it exposes a structural dilemma that no version of PCS has stably escaped, and it shifts the burden onto the defender to show that the gap-explaining features are physically explicable without thereby being shared by zombies.
+
 ## Why the Debate Matters
 
 PCS is the test case for whether physicalism can accommodate the intuitions driving dualism. If PCS succeeds, the [[explanatory-gap]] becomes merely epistemic—a feature of our concepts, not a feature of reality. The arguments from [[qualia]], Mary's Room, and zombies would lose their force.
@@ -83,7 +85,9 @@ This concedes significant ground. If we can't explain phenomenal concepts physic
 
 ### Attacking the Zombie Premise
 
-Critics of Chalmers argue he equivocates between first-person and third-person phenomenal concepts. Zombies might have third-person concepts *about* consciousness without first-person concepts *from* consciousness. But this response seems to grant that first-person phenomenal concepts involve something zombies lack—which is just what dualists claim.
+The most developed reply to the master argument comes from Peter Carruthers and Bénédicte Veillet (2007), who charge Chalmers with a fallacy of equivocation between *first-person* phenomenal concepts (deployed from within experience) and *third-person* phenomenal concepts (deployed about experience, as a theorist might). On their account, a zombie and its conscious twin share the same *epistemic situation*—the same conceptual structure, the same recognitional isolation of phenomenal concepts from physical ones—even though the *contents* of those concepts differ. The load-bearing feature is isolation: a purely recognitional concept is applied directly to its instances and stands conceptually apart from other concepts, and isolation of that kind is physically explicable. If so, the appearance of a gap can be generated on purely physical premises, and the master argument's second horn loses its grip.
+
+The reply is genuinely the strongest live physicalist rejoinder, and the exchange remains open (Sasaki 2025). But it carries a cost the dualist can press. If the *first-person* concept involves something the zombie's third-person concept lacks, then that something—the from-the-inside character that the equivocation charge needs in order to distinguish the two—is precisely what dualists claim physics omits. Carruthers and Veillet can insist the difference is one of content rather than of any non-physical feature, yet the content in question is phenomenal character itself, the very item whose physical status is in dispute. The reply does not so much dissolve the gap as relocate the disagreement to the question of whether first-person content is exhausted by physical description.
 
 ### The Illusionist Option
 
@@ -111,6 +115,12 @@ Critics charge that PCS theories are largely ad hoc—designed to save physicali
 
 This charge has force. Ordinary concepts don't work this way. If phenomenal concepts require a unique theory unlike anything in the rest of cognitive science, the "special" features start to look like symptoms of something genuinely different about consciousness—which is what dualists have been arguing all along.
 
+### Ball's Eliminativism About Phenomenal Concepts
+
+Derek Ball (2009) presses a more radical objection from inside the physicalist camp: there are no phenomenal concepts at all, of the intrinsic, individualistic kind PCS requires. Ball adapts the Burge-style social externalism that physicalists themselves typically endorse—the view that one can possess a concept partly in virtue of relations to one's linguistic community rather than solely in virtue of intrinsic properties. If externalism reaches all the way to concepts of colour experience, then the "direct," "quotational," or "constitutional" concepts PCS posits do not exist; concept possession turns on community relations, not on any private acquaintance that experience supplies.
+
+The result is double-edged, and the Map records it as such rather than treating Ball as a gift to dualism. If there are no phenomenal concepts, PCS loses its explanans—the very thing it invokes to explain the gap. But the [[knowledge-argument]] is collateral damage: Mary's "new way of knowing" was supposed to be stated in phenomenal concepts, and if there are none, that route to dualism is blocked too. Ball is therefore a genuine threat to the knowledge-argument path, not merely a self-inflicted physicalist wound. The Map's dualism does not stand or fall on the knowledge argument—it also has the conceivability route, the persistence of the gap, and the positive quantum-interface case (see [Relation to Site Perspective](#relation-to-site-perspective))—so Ball is survivable. Whether his externalism really extends to experiential concepts is contested, and most parties to the debate continue to hold that it does not.
+
 ## The Debate's Current State
 
 The phenomenal concepts strategy remains contested. A 2020 PhilPapers survey found 62% of philosophers consider the hard problem genuine, 30% do not. PCS has not achieved consensus, but neither have anti-physicalist arguments.
@@ -118,6 +128,8 @@ The phenomenal concepts strategy remains contested. A 2020 PhilPapers survey fou
 Notably, even the most detailed PCS defence—Balog's 2012 constitutional account—concedes that the debate reaches a standoff. PCS does not compel anti-physicalists to abandon their position, nor do anti-physicalist arguments compel PCS defenders to abandon theirs. This concession from PCS's strongest advocate is significant: physicalism's best strategy for explaining the gap cannot claim victory even on its own terms.
 
 The persistence of anti-physicalist intuitions poses a further problem. If PCS is correct—if the gap is merely conceptual—then philosophical education should eventually dissolve it, as understanding molecular motion dissolved vitalist intuitions about the "life force." But consciousness-related intuitions have persisted across centuries of investigation and show no sign of fading among informed philosophers. The gap behaves less like a conceptual confusion and more like a genuine feature of reality.
+
+The most recent moves retreat further. Rather than claim phenomenal concepts give substantive a priori access to their referents, a-posteriori physicalists now argue that such concepts *indicate* their referents—lock onto a physical state—without *revealing* that state's nature, without entailing why it feels as it does (Zhou 2025). This deliberately abandons the older mode-of-presentation machinery in order to keep the referential link while conceding that the concept tells us nothing of the referent's intrinsic character. The dualist diagnosis is that the concession is the problem: a concept that indicates a physical state while revealing nothing of why that state is experienced simply restates the explanatory gap as a standing feature of every phenomenal concept, rather than dissolving it. The retreat preserves physicalism's letter at the cost of conceding, for each phenomenal concept individually, exactly the gap PCS set out to close.
 
 What seems clear is that PCS proponents accept there's something special about phenomenal concepts. The debate is whether this specialness is itself physically explicable. If it isn't, there's an explanatory gap at the conceptual level. If it is, it can't explain the gap at the experiential level. Either way, something resists physical explanation.
 
@@ -190,10 +202,14 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 ### External Sources
 - Loar, B. (1990/97). "Phenomenal States."
 - Papineau, D. (2002). *Thinking about Consciousness*.
-- Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap."
+- Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+- Carruthers, P. & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9–10), 212–236.
+- Ball, D. (2009). "There Are No Phenomenal Concepts." *Mind*, 118(472), 935–962.
 - Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1–23.
 - Fürst, M. (2014). "A Dualist Account of Phenomenal Concepts." In A. Lavazza & H. Robinson (eds.), *Contemporary Dualism: A Defense*. Routledge, 112–135.
 - Stoljar, D. (2005). "Physicalism and Phenomenal Concepts." *Mind & Language*, 20(5), 469–494.
+- Zhou, P. (2025). "Indicating without Revealing: A Posteriori Physicalism and the New Challenge." *Synthese*, 206(2).
+- Sasaki, K. (2025). "The Phenomenal Concept Strategy and the Master Argument." *Kagaku Tetsugaku (Philosophy of Science)*, 58(1).
 - Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*.
 - Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance."
 - Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
