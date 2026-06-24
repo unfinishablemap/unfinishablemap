@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T18:35:01.696778+00:00'
-session_count: 13084
-cycle_position: 9885
+last_updated: '2026-06-24T18:41:28.998264+00:00'
+session_count: 13085
+cycle_position: 9886
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-24T15:08:07.413114+00:00'
   optimistic-review: '2026-06-24T16:47:55.242271+00:00'
   check-tenets: '2026-06-24T13:33:55.015086+00:00'
   check-links: '2026-06-24T08:38:38.202991+00:00'
-  deep-review: '2026-06-24T18:26:51.789852+00:00'
+  deep-review: '2026-06-24T18:41:28.998264+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
   research-voids: '2026-06-24T08:41:35.077027+00:00'
   coalesce: '2026-06-24T17:44:12.919277+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 416
-  reviews_completed: 5699
+  reviews_completed: 5700
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-06-24'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-24'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1186,9 +1186,62 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 606
-  last_replenishment: '2026-06-24T18:32:00+00:00'
+  last_replenishment_run: 607
+  last_replenishment: '2026-06-24T18:44:00+00:00'
   last_replenishment_mode: standard
+  run_607_note: 'run no.607 (2026-06-24T18:44Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/intuitive-dualism.md). Authoritative pre-mint tools.evolution.task_selector.count_p0_p2_tasks
+    = 2 (re-run this session) and select_queue_task returned a real executable P2 (functionalism-argument
+    deep-review) -- queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1. Run 606''s pairing-problem
+    mint was consumed by the cycle deep-review slot minutes after minting (commit 0e0b62d92,
+    pairing-problem last_deep_review now 2026-06-24T18:38; same-day-collision pattern
+    of runs 603-606), dropping the floor 3->2; this mint restores 2->3. The state p2_tasks:3
+    left by run 606 was STALE (it counted the un-consumed pairing-problem). Minted at
+    TOP of Active Tasks to defeat LIFO (queue-lifo-starvation): concepts/intuitive-dualism.md
+    last_deep_review 2026-05-26T00:00 = 29.78d, crosses the 30d Source-4b threshold ~00:00Z
+    2026-06-25 (~5.3h out -- same imminent-crossing rationale runs 598-606 used; symbol-grounding-problem
+    + pairing-problem were picked from the SAME 2026-05-26 cohort), claude-opus-4-5-20251101
+    (older-model fresh-eyes warrant), ai_contribution=100, settled (ai_modified == last_deep_review,
+    untouched by git since 5e6590ff9 2026-05-26, no own-body drift), body 1875w status=ok
+    (concepts hard 3500 -- NOT a condense candidate, length-neutral), Tenet-1 load-bearing
+    (intuitive dualism = the cognitive-science/developmental case that mind-body dualism
+    is the default human intuition -- Bloom/Bering/Hood). Zero dup risk: 2 todo mentions,
+    the lone Vetoed-bank header is the closed 2026-05-26 prior deep-review (the SOURCE
+    of the current stamp, archived to Vetoed; NOT a veto of a new review), no open active
+    header targets it. select_queue_task post-mint confirms count=3, top pick = concepts/intuitive-dualism.md
+    (TaskType.DEEP_REVIEW). EIGHT-SOURCE AUDIT, all OTHER sources exhausted of clean
+    mintable candidates: (1 chain) recent_tasks types = deep-review / replenish / refine-draft
+    / agentic-social / coalesce -- ZERO research-topic/expand-topic/cross-review completions
+    producing successors. (2 unconsumed research) ZERO -- the three 2026-06-24 notes
+    disk-confirmed consumed by live articles: simulation-theory-of-memory->concepts/simulation-theory-of-memory,
+    many-minds-interpretation->topics/many-minds-interpretation, phenomenal-concept-strategy-2024-2026-update->concepts/phenomenal-concepts-strategy
+    + topics/phenomenal-concepts-as-materialist-response. (3 gap/caps) topics 280/320,
+    concepts 268/320, positions 8/80 have headroom but new-article generation is harvester-governed
+    (harvest ran 13:53Z) + gap-analysis Vetoed-bank-dedup-blocked; voids 101/100 over
+    create-cap. (4 genuine-drift) NO clean un-minted own-body candidate -- git-classified
+    the top drift rows: where-the-substance-commitment-enters (28.27d nominal) + substance-property-dualism
+    (17.05d) are both 2-insertion/2-deletion cross-link cross-touches from the 18:38
+    pairing-problem deep-review (commit 0e0b62d92), NOT own-body drift; quantum-consciousness
+    (22.59d) = parapsychology-firewall inbound cross-link enrichment 857f18407; the rest
+    (probability-problem-in-many-worlds, time-consciousness-growing-block, creative-aesthetic-void,
+    inaccessible-past, introspection-architecture-independence-scoring) git-classified
+    cosmetic in runs 603/604 (deep_review_over_reviews_converged / replenish-false-exhaustion-mislabeled-drift
+    respected). (5 length) get_length_warnings re-run: every CONTENT (non-research, non-index)
+    hard/critical offender is already-handled or human-deferred -- epistemology-of-convergence
+    6479w / born-rule 5118w / clinical-dissociation 4670w / time-collapse 4606w (human-deferred),
+    composition-question-rivals 4106w / phenomenal-output 6872w / meaning-of-life 4160w
+    (#veto), synesthetic-void 3578w / edge-states 3482w (HUMAN-LENGTH-DECISION), apex-articles
+    9788w (index hub), agency-void 3174w (count-words-includes-frontmatter false positive),
+    positions/quantum-interface 2529w (positions-evolve-governed), quantum-consciousness
+    3549w (condensed 3300b3b4f then cross-link-enriched, no open header), what-voids-reveal
+    3019w (just over voids hard, integrate-orphan-touched), + research/ working notes
+    -- NO clean mintable condense (replenish-overmints-condense-vs-accept-as-survey).
+    (6 orphan) orphaned_files=0. (7 positions) 8 entries (<10 audit threshold), positions-evolve
+    ran 2026-06-22, slow-add 2-add/run. (8 applied-apex) 3 applied apex extant, no high-confidence
+    cluster gap. The remaining 2026-05-26 cohort (the-surplus-void, origin-of-consciousness,
+    working-memory, tenet-falsification-conditions, brain-interface-boundary, philosophy-of-language-under-dualism,
+    observational-closure, et al.) crosses 30d tonight ~00:00Z 2026-06-25 and will feed
+    the next floor-restore. PRIOR RUN 606 NOTE FOLLOWS run_606_note.'
   run_606_note: 'run no.606 (2026-06-24T18:32Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/pairing-problem.md). Authoritative pre-mint tools.evolution.task_selector.count_p0_p2_tasks
     = 2 (re-run this session) and select_queue_task returned a real executable P2
