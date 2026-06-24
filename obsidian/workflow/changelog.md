@@ -5,6 +5,15 @@ ai_modified: 2026-06-24T14:36:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T15:08:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Original score**: n/a (curate.py review tool absent — known stale-command; proceeded from pessimistic-2026-06-24b findings)
+- **Changes**: Addressed both inference-level issues from pessimistic-2026-06-24b, additive (preserved all existing caution): (1) §"The Convergence Pattern" — reframed "the pattern is suggestive" → "illustrative of a single recurrent structural move" and added an explicit symmetry note: IIT/GWT/HOT/biological-computationalism perform the *same* abstract step, so the cluster carries the evidential weight of one observation, not four independent confirmations (the convergence-double-counting fix, research-programme analogue of the altered-state symmetry discipline). (2) §"What 'The Algorithm Is the Substrate' Really Says" — added the missing disanalogy that the turbulence/protein-folding deflation otherwise neutralizes: consciousness's abstraction-resistance is accompanied by a first-person datum (something it is like) that turbulence lacks, and *that* datum, not abstraction-resistance per se, is what the structural parallel must track. Minor: softened the unargued "Searle strains coherence" aside to "many find unstable" with the specific epiphenomenalism tension + Searle's worked-out reply; replaced two author-mind-reading phrasings ("perhaps do not intend" / "may not intend") with text-description ("its texts leave unstated" / "the paper does not draw").
+- **Engagement classification (editor-internal)**: engagement with the physicalist deflation: Mode Three — framework-boundary marking; the disanalogy names what the dualist reading must track without claiming to refute the physicalist who declines to weight the first-person datum.
+- **Citations**: untouched (all 13 verified clean per the review).
+- **Published**: yes
+
 ## 2026-06-24T15:01:52+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/biological-computationalisms-inadvertent-case-for-dualism.md` (never pessimistically reviewed; deep-reviewed 2026-06-02, oldest among un-pessimistically-reviewed argumentative topics)
