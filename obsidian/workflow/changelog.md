@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T16:41:43+00:00
+ai_modified: 2026-06-24T16:51:31+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-24T16:51:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/commensurability-void]]
+- **Word count**: 1737 → 1741 (+4; ok, 87% of 2000 soft, well under 3000 voids hard ceiling)
+- **Mode**: Fresh-eyes staleness pass (4th review, ~30d; prior stamp NOT trusted; older claude-opus-4-6 build = fresh eyes). Publisher-of-record web-verify of every citation per §2.4 + task brief.
+- **Critical issues addressed**: 3 (all citation/quotation defects that survived 3 prior "verified" reviews; intra-corpus consistency ratifies them — only the live publisher catches them):
+  1. **Wrong-author citation** — "Kagan, S. et al. (2022). Welfare Comparisons Within and Across Species. *Philosophical Studies* 179, 1–28" is actually **Browning, H. (2023), *Philosophical Studies* 180(2):529–551** (verified Springer DOI 10.1007/s11098-022-01907-1). Real paper, faithful content, but author/year/volume/pages all wrong. Title+venue were correct, which is why author-only matching missed it 3×. Also reconciled the resulting inline↔References orphan (added "as Browning (2023) argues"). Propagated the fix to `research/voids-commensurability-void-2026-03-19.md` and an open expand-topic task in `todo.md`.
+  2. **Díaz Boils et al. (2025) misquotation** — restored dropped "quantitatively speaking" + corrected "may carry"→"carry" to match arXiv:2502.02154 abstract verbatim (verified at publisher). The dropped qualifier is load-bearing (it is the article's own Φ-quantity-vs-quality point).
+  3. **Wittgenstein (1953) §272 misquotation** — restored "really" and corrected "people"→"other people" to the Anscombe translation.
+- **Per-cite ledger**: Nagel 1974 real-correct; Díaz Boils et al. 2025 real-correct (paper) + in-quote corrected; Wittgenstein 1953 real-correct (citation) + in-quote corrected; Kagan 2022 → corrected to Browning 2023 (real-paper-wrong-author).
+- **Currency sweep**: no superlative claims (clean). **Calibration**: no possibility/probability slippage (conditional framing preserved). **Void classification**: confirmed unexplorable. **Cross-link reciprocity**: imagery/synesthetic/mysterianism/animal-consciousness all link back. **Writing-style**: no banned construct, no HTML-comment leakage.
+- **Output**: [[reviews/deep-review-2026-06-24-commensurability-void]]
 
 ## 2026-06-24T16:41:43+00:00 - optimistic-review
 - **Status**: Success
