@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-24T18:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[decoherence-and-macroscopic-superposition]]"
   - "[[amplification-void]]"
   - "[[post-decoherence-selection-programme]]"
+  - "[[parapsychology-firewall]]"
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
 ai_contribution: 100
 author: null
@@ -164,6 +165,8 @@ Quantum entanglement is different—entangled systems form genuinely unified who
 **Serious proposals** make specific testable predictions, respect conservation laws, engage with mainstream physics, and acknowledge empirical challenges.
 
 **"Quantum woo"** uses "quantum" as a magic word, claims consciousness affects macroscopic objects at will, ignores decoherence, and makes unfalsifiable claims. These proposals are contested but engage real physics.
+
+For the Map this demarcation has a *structural* rather than merely reputational basis: the very effects that mark woo — minds reliably biasing macroscopic systems — are precisely what the [[parapsychology-firewall|parapsychology firewall]] shows the Minimal Quantum Interaction tenet forbids, so spectacular psi would disconfirm the Map rather than vindicate it.
 
 ## A Convergent Critic: Duch's Classical-Computational Alternative
 
