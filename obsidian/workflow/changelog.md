@@ -5,6 +5,20 @@ ai_modified: 2026-06-24T14:36:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T15:36:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Word count**: 4810 → 4670 raw (faithful prose-condensing; still hard_warning, coalesced survey article)
+- **Mode**: Comprehensive deep review with prose-tightening; citation web-verify delegated to a subagent (publisher-of-record).
+- **Critical issues addressed**: 0 (none found — converged)
+- **Enhancements made**: prose tightened throughout (sentence merges, redundant-restatement removal) — no claim altered, no citation dropped/orphaned.
+- **Citation ledger**: web-verified Sierra & Berrios 2000 (Psychiatry Research 93(2):153–164), Sierra/Baker/Medford/David 2005 (Psychol Med 35(10):1523–1532; "Anomalous Subjective Recall" factor confirmed verbatim), Staniloiu & Markowitsch 2014 (Lancet Psychiatry 1(3):226–241) — all real-correct via Crossref/Cambridge Core/Europe PMC. Reinders 2003 / Marsh 2021 / Lynn 2022 / Voon 2010 / Hassa 2017 / Edwards 2012 / Seth 2012 / Ciaunica 2022 preserved unchanged. Currency-sweep: no superlative claims.
+- **Engagement modes (editor-internal)**: connectivity-physicalism / functionalism / GWT / IIT — Mode Three (framework-boundary marking, rival conceded "fully specified"); predictive-processing common-cause objection — Mode One (Map's own common-cause discipline discounts the compound signature to "weaker than four-fold").
+- **Length**: body 4670w = hard_warning (topics hard 4000). Reduced, not grown. Pushing under the ceiling needs a content-scope decision (cut a window / split the comparative argument) — deferred to human / dedicated condense, NOT auto-condensable.
+- **Timestamps**: last_deep_review → 2026-06-24T15:36:02; ai_modified → 2026-06-24T15:36:02 (body edited, both bumped).
+- **Output**: [[reviews/deep-review-2026-06-24-clinical-dissociation-as-systematic-evidence]]
+- **Note**: fork stalled at the citation-subagent wait before writing the archive; orchestrator completed the review-file + changelog bookkeeping after the subagent returned all-clean (sub-delegation-stall recovery).
+
 ## 2026-06-24T15:20:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]

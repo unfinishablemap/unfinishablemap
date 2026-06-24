@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T15:22:32.501934+00:00'
-session_count: 13053
+last_updated: '2026-06-24T15:29:45.783098+00:00'
+session_count: 13054
 cycle_position: 9872
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-24T15:11:20.733650+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
-  replenish-queue: '2026-06-24T15:17:54.387448+00:00'
+  replenish-queue: '2026-06-24T15:29:45.783098+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-24'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-06-24'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-24'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1195,18 +1195,17 @@ queue_status:
   current_replenishment_note: 'run no.596 (2026-06-24T15:30Z): NO-OP FLOOR-DOCUMENTED
     (no new mint, no promotion). Authoritative tools.evolution.task_selector.count_p0_p2_tasks
     = 2; MIN_QUEUE floor 3, unmet by 1. Documented replenish-at-floor alternation
-    (unfin_loop_steady_state), NOT the fixed deadlock: prior run no.595 (15:15Z)
-    minted a genuine-drift deep-review for topics/biological-computationalisms-inadvertent-case-for-dualism.md
-    (restoring floor 2->3); the cycle slot then PICKED + executed it (commit at
-    2026-06-24T15:22:32Z, now done below the Completed header, last_deep_review
-    refreshed), dropping the live floor 3->2 (deep_review_over_reviews_converged
-    same-day collision). The two live P2s = entropic-brain-hypothesis cross-links
-    + parapsychology-firewall cross-links (both real integration deficits, both
-    select_queue_task-pickable -- queue FUNCTIONAL). The three condenses are #veto
-    (parser-excluded). The lone open P3 Phenomenology-of-Insight is a raw expand-topic
-    whose create-vs-section decision is NOT self-assessed -- unsafe to auto-promote
-    (human-decision-task-mispicked-as-refine trap), so NO promotion this run.
-    Eight-source audit re-run from LIVE DISK, all exhausted of clean genuine-MINT
+    (unfin_loop_steady_state), NOT the fixed deadlock: prior run no.595 (15:15Z) minted
+    a genuine-drift deep-review for topics/biological-computationalisms-inadvertent-case-for-dualism.md
+    (restoring floor 2->3); the cycle slot then PICKED + executed it (commit at 2026-06-24T15:22:32Z,
+    now done below the Completed header, last_deep_review refreshed), dropping the
+    live floor 3->2 (deep_review_over_reviews_converged same-day collision). The two
+    live P2s = entropic-brain-hypothesis cross-links + parapsychology-firewall cross-links
+    (both real integration deficits, both select_queue_task-pickable -- queue FUNCTIONAL).
+    The three condenses are #veto (parser-excluded). The lone open P3 Phenomenology-of-Insight
+    is a raw expand-topic whose create-vs-section decision is NOT self-assessed --
+    unsafe to auto-promote (human-decision-task-mispicked-as-refine trap), so NO promotion
+    this run. Eight-source audit re-run from LIVE DISK, all exhausted of clean genuine-MINT
     candidates: (1 chain) recent_tasks has ZERO research-topic/expand-topic/cross-review
     completions producing successors. (2 unconsumed research) ZERO -- the 3 newest
     notes are disk-confirmed consumed: simulation-theory-of-memory->concepts/simulation-theory-of-memory,
@@ -1217,47 +1216,47 @@ queue_status:
     the equivocation charge; both refine + deep-review tasks done today. (3 gap/caps)
     topics 280/320, concepts 268/320, positions 8/80 have headroom but new-article
     generation is harvester-governed (harvest ran 13:53Z) + gap-analysis Vetoed-bank-dedup-blocked.
-    (4 genuine-drift) NO clean un-minted own-body candidate -- the run-595 mint
-    (biological-computationalisms) was the one fresh own-body refine and is now
-    consumed; a git classification of the top drift candidates (agency-void 4-line
-    position back-cite, what-voids-reveal 6-line back-cite, introspection-architecture-independence-scoring
-    4-line cross-link, personal-identity 3-line many-minds integration) confirms
-    each last touch is a cosmetic cross-link/integration edit, NOT own-body drift
-    (deep_review_over_reviews_converged respected). (5 length) re-confirmed via
-    get_length_warnings: every content hard/critical offender is human-deferred
-    (epistemology-of-convergence 6479w, born-rule 5118w, clinical-dissociation 4861w,
-    time-collapse 4606w, argument-from-reason 4489w, epistemic-advantages 4400w,
-    laws-and-dispositions 4213w, memory-channel 4296w accept-as-survey, valence-and-conscious-selection
-    4103w human-length-decision), #veto (phenomenal-output 6872w, composition-question-rivals
-    4106w, meaning-of-life 4160w), an index hub (apex-articles 9788w governance-tracked),
-    recently-reviewed (qm-interpretations 4160w / consciousness-in-simple-organisms
-    4022w / consciousness-selecting-neural-patterns 3503w last_deep_review 2026-06-24),
-    or research/ working notes -- NO clean mintable condense (replenish-overmints-condense-vs-accept-as-survey).
-    (6 orphan) orphaned_files=0. (7 positions) 8 entries (<10 audit threshold),
-    positions-evolve ran 2026-06-22, slow-add 2-add/run limit. (8 applied-apex)
-    3 applied apex extant (assessing-ai-consciousness, embodied-interface, research-programme-decisions),
-    no high-confidence cluster gap. Expect replenish-at-floor alternation to continue
-    until a fresh own-body refine lands, the >=30d staleness cohort reopens, or the
-    harvester reopens the research->expand pipeline. ORIGINAL RUN 595 NOTE FOLLOWS
-    superseded_run_595_note. MINTED 1 genuine-drift
-    deep-review (staleness source), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks
-    = 2 PRE / 3 POST (both verified; PRE select_queue_task returns the entropic-brain
-    refine P2 [queue FUNCTIONAL, NOT deadlock]; POST returns the new deep-review as
-    TaskType.DEEP_REVIEW priority 2 at TOP of Active Tasks). MIN_QUEUE floor 3, unmet
-    by 1 pre-run. The minted target = topics/biological-computationalisms-inadvertent-case-for-dualism.md.
-    Unlike the prior run no.594 NO-OP (14:43Z, correct at the time -- every drift
-    candidate was then cosmetic cross-link churn), a NEW recent_task landed AFTER
-    594''s audit: refine-draft commit a56f12352 at 2026-06-24T15:11:20Z (a real 14-line
-    OWN-BODY structural-gap edit to this article). Git-classified own-body, not a
-    reciprocal/inbound cross-link cosmetic touch (deep_review_over_reviews_converged
-    respected): last_deep_review 2026-06-02, ai_modified 2026-06-24T15:08 (22d gap);
-    a refine bumps ai_modified but NOT last_deep_review, so the new structural material
-    is UNVERIFIED by deep-review. analyze_length body 3268w = soft_warning (topics
-    soft 3000 / hard 4000, ~732w headroom) -- NOT a condense candidate; keep length-neutral.
-    ai_contribution=100, ai_system=claude-opus-4-6 (older model = fresh-eyes justified).
-    NOT vetoed, no open duplicate. The two pre-existing live P2s = entropic-brain-hypothesis
-    cross-links + parapsychology-firewall cross-links (both real integration deficits);
-    the three #veto condenses are parser-excluded; the lone open P3 Phenomenology-of-Insight
+    (4 genuine-drift) NO clean un-minted own-body candidate -- the run-595 mint (biological-computationalisms)
+    was the one fresh own-body refine and is now consumed; a git classification of
+    the top drift candidates (agency-void 4-line position back-cite, what-voids-reveal
+    6-line back-cite, introspection-architecture-independence-scoring 4-line cross-link,
+    personal-identity 3-line many-minds integration) confirms each last touch is a
+    cosmetic cross-link/integration edit, NOT own-body drift (deep_review_over_reviews_converged
+    respected). (5 length) re-confirmed via get_length_warnings: every content hard/critical
+    offender is human-deferred (epistemology-of-convergence 6479w, born-rule 5118w,
+    clinical-dissociation 4861w, time-collapse 4606w, argument-from-reason 4489w,
+    epistemic-advantages 4400w, laws-and-dispositions 4213w, memory-channel 4296w
+    accept-as-survey, valence-and-conscious-selection 4103w human-length-decision),
+    #veto (phenomenal-output 6872w, composition-question-rivals 4106w, meaning-of-life
+    4160w), an index hub (apex-articles 9788w governance-tracked), recently-reviewed
+    (qm-interpretations 4160w / consciousness-in-simple-organisms 4022w / consciousness-selecting-neural-patterns
+    3503w last_deep_review 2026-06-24), or research/ working notes -- NO clean mintable
+    condense (replenish-overmints-condense-vs-accept-as-survey). (6 orphan) orphaned_files=0.
+    (7 positions) 8 entries (<10 audit threshold), positions-evolve ran 2026-06-22,
+    slow-add 2-add/run limit. (8 applied-apex) 3 applied apex extant (assessing-ai-consciousness,
+    embodied-interface, research-programme-decisions), no high-confidence cluster
+    gap. Expect replenish-at-floor alternation to continue until a fresh own-body
+    refine lands, the >=30d staleness cohort reopens, or the harvester reopens the
+    research->expand pipeline. ORIGINAL RUN 595 NOTE FOLLOWS superseded_run_595_note.
+    MINTED 1 genuine-drift deep-review (staleness source), floor restored 2->3. Authoritative
+    tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE / 3 POST (both verified;
+    PRE select_queue_task returns the entropic-brain refine P2 [queue FUNCTIONAL,
+    NOT deadlock]; POST returns the new deep-review as TaskType.DEEP_REVIEW priority
+    2 at TOP of Active Tasks). MIN_QUEUE floor 3, unmet by 1 pre-run. The minted target
+    = topics/biological-computationalisms-inadvertent-case-for-dualism.md. Unlike
+    the prior run no.594 NO-OP (14:43Z, correct at the time -- every drift candidate
+    was then cosmetic cross-link churn), a NEW recent_task landed AFTER 594''s audit:
+    refine-draft commit a56f12352 at 2026-06-24T15:11:20Z (a real 14-line OWN-BODY
+    structural-gap edit to this article). Git-classified own-body, not a reciprocal/inbound
+    cross-link cosmetic touch (deep_review_over_reviews_converged respected): last_deep_review
+    2026-06-02, ai_modified 2026-06-24T15:08 (22d gap); a refine bumps ai_modified
+    but NOT last_deep_review, so the new structural material is UNVERIFIED by deep-review.
+    analyze_length body 3268w = soft_warning (topics soft 3000 / hard 4000, ~732w
+    headroom) -- NOT a condense candidate; keep length-neutral. ai_contribution=100,
+    ai_system=claude-opus-4-6 (older model = fresh-eyes justified). NOT vetoed, no
+    open duplicate. The two pre-existing live P2s = entropic-brain-hypothesis cross-links
+    + parapsychology-firewall cross-links (both real integration deficits); the three
+    #veto condenses are parser-excluded; the lone open P3 Phenomenology-of-Insight
     is a raw expand-topic (create-vs-section decision NOT self-assessed; unsafe to
     auto-promote -- human-decision-task-mispicked-as-refine trap). Eight-source audit
     re-run from live disk: (chain) ZERO research/expand/cross-review completions;
