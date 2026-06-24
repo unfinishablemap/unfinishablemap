@@ -5,6 +5,12 @@ ai_modified: 2026-06-24T14:36:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T15:01:52+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/biological-computationalisms-inadvertent-case-for-dualism.md` (never pessimistically reviewed; deep-reviewed 2026-06-02, oldest among un-pessimistically-reviewed argumentative topics)
+- **Findings**: 2 inference-level issues (convergence double-counting in §"The Convergence Pattern"; self-deflation neutralizing the central structural parallel) + minor unargued-aside / author-mind-reading language. Hedge density clean (zero strong-language hits). All 13 citations spot-verified clean (Milinkovic & Aru 2026, Thagard 2022, Duch 2005/2019 live-verified). No label leakage; No-Many-Worlds reply is correct honest boundary-marking, not boundary-substitution. Altered-state symmetry audit N/A. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-24b-biological-computationalism-case-for-dualism]]
+
 ## 2026-06-24T14:36:44+00:00 - apex-evolve
 - **Status**: Complete (assess-first — no apex created)
 - **Task**: Apex synthesis "Consciousness as Maker" — creative efficacy across aesthetics, incubation, mathematics
