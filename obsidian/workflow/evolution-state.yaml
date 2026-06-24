@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-23T06:25:01.380643+00:00'
-session_count: 12981
+last_updated: '2026-06-23T06:25:57.461074+00:00'
+session_count: 12982
 cycle_position: 9838
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-23T04:55:24.795988+00:00'
   collect-gemini-review: '2026-06-23T04:47:51.793206+00:00'
   positions-evolve: '2026-06-22T06:20:53.964896+00:00'
-  check-model-fallback: '2026-06-23T02:22:46.317667+00:00'
+  check-model-fallback: '2026-06-23T06:25:57.461074+00:00'
   harvest-research-subjects: '2026-06-23T04:11:18.435049+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-06-23'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-23'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-23'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-23'
   outcome: success
 agentic_social:
@@ -1330,45 +1330,43 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 578
-  last_replenishment: '2026-06-23T06:17:00+00:00'
+  last_replenishment_run: 579
+  last_replenishment: '2026-06-23T06:32:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.576 (2026-06-23T03:30Z): MINTED 1 length-source
-    condense (concepts/reductionism.md, 3561w = hard_warning, 61w over the 3500 concepts
-    hard ceiling), floor restored 2->3. Authoritative count_p0_p2_tasks=2 PRE-mint
-    / =3 POST-mint (both verified). The prior run no.575 mint (topics/aesthetics-and-consciousness.md
-    deep-review) plus the cycle-slot combination-problem deep-review were PICKED +
-    executed this cycle (combination-problem now last_deep_review==ai_modified 2026-06-23T00:39,
-    git-confirmed converged), dropping the live floor 3->2 -- documented replenish-at-floor
-    alternation (unfin_loop_steady_state), NOT deadlock. The two counted P2s pre-mint:
-    entropic-brain-hypothesis cross-links (refine-draft) + parapsychology-firewall
-    cross-links (integrate-orphan); the predictive-processing-and-dualism P3 does
-    not count; all three #veto condense tasks are parser-excluded. ALL 8 sources re-audited
-    from LIVE DISK -- UNLIKE run no.575, source 5 (length) yields a GENUINE clean
-    mint this run. (chain) recent_tasks has ZERO research-topic/expand-topic/cross-review
-    completions. (unconsumed research) ZERO -- five newest notes disk-confirmed consumed
-    (letheby->predictive-self-binding, entropic-brain->concepts/entropic-brain-hypothesis,
-    thermal/vestibular/interoceptive->same-slug topics, all article files exist).
+  current_replenishment_note: 'run no.579 (2026-06-23T06:32Z): MINTED 1 own-review-gap
+    deep-review (topics/phenomenal-value-realism.md), floor restored 2->3. Authoritative
+    count_p0_p2_tasks=2 PRE-mint / =3 POST-mint (both verified; select_queue_task
+    confirms the new task selectable as DEEP_REVIEW at top). Documented replenish-at-floor
+    alternation (unfin_loop_steady_state), NOT deadlock: prior run no.578 (06:17Z)
+    minted a genuine-drift deep-review on topics/consciousness-and-integrated-information.md
+    which was PICKED + executed this cycle (commit c20f62cfb, now done below Completed;
+    IIT last_deep_review 2026-06-23T06:22 > ai_modified 2026-06-23T05:59 = converged),
+    dropping the live floor 3->2. The two counted P2s pre-mint: entropic-brain-hypothesis
+    cross-links (refine-draft) + parapsychology-firewall cross-links (integrate-orphan);
+    the two open P3s are speculative ASSESS-FIRST optimistic-review create tasks (NOT
+    clean floor-restorers, unsafe to auto-promote per human-decision-task-mispicked-as-refine);
+    all three veto condense tasks are parser-excluded. ALL 8 sources re-audited from
+    LIVE DISK, all exhausted of clean genuine-MINT candidates EXCEPT this own-review-gap
+    deep-review. (chain) recent_tasks has ZERO research-topic/expand-topic/cross-review
+    completions. (unconsumed research) ZERO -- eight newest notes disk-confirmed consumed.
     (gap/caps) topics 279/320 + concepts 267/320 + positions 8/80 have headroom but
-    new-article gen is harvester-governed (ran 2026-06-22T22:04Z) + gap-analysis dedup-blocked
-    against the Vetoed bank. (genuine-drift) the prior candidate combination-problem
-    is now reviewed+converged; no other un-cosmetic ai_modified>last_deep_review candidate
-    (recently-git-touched files are verified cosmetic cross-touches). (length) GENUINE
-    MINT: concepts/reductionism.md 3561w hard_warning -- ai_contribution=100, last_deep_review
-    2026-06-17 (stable, recently verified), NOT a calibration anchor (absent from
-    calibration-audit-triple, ZERO evidential-status/argued-position/framework-commitment
-    markers in body so low condense-regresses-calibration-qualifiers risk), never
-    previously condensed, no accept-as-survey verdict (distinct from the 3 #veto accept-as-survey
-    condense tasks per replenish-overmints-condense-vs-accept-as-survey), NOT in the
-    Vetoed bank (the 4 below-Vetoed hits are completed 2026-02 tasks for a DIFFERENT
-    slug reductionism-and-consciousness). Every OTHER content offender is human-deferred,
-    #veto, an index hub, a human-decision void, or a research/ working note. (orphan)
-    orphaned_files=0. (positions) 8 entries <10 audit threshold, positions-evolve
-    ran 06:20Z, slow-add limit. (applied-apex) 3 extant, no high-confidence cluster
-    gap. This single mint restores the floor 2->3 with REAL length work rather than
-    a redundant cosmetic-drift deep-review or another P3->P2 promotion. Inserted at
-    TOP of Active Tasks to defeat LIFO. Expect replenish-at-floor alternation to continue
-    until the harvester reopens the research->expand pipeline.'
+    new-article gen is harvester-governed (ran 2026-06-23T04:11Z, next ~10:11Z) +
+    gap-analysis dedup-blocked against the 577-entry Vetoed bank. (genuine-drift) NO
+    clean own-body candidate: all 140 ai_modified>last_deep_review candidates git-classify
+    as cosmetic cross-touches or just-refined-this-cycle churn (deep_review_over_reviews_converged).
+    (length) every content offender human-deferred / veto / accept-as-survey / recently-condensed
+    / index-hub / human-decision-void; research notes are not condense targets; reductionism.md
+    (minted no.576, executed commit 46000d485) now 3476w soft, consumed -- NO clean
+    mintable condense. (orphan) orphaned_files=0. (positions) 8 entries <10 audit
+    threshold, positions-evolve ran 06:20Z, slow-add limit; never-reviewed set is
+    ONLY the positions register files + one refinement-log sidecar. (applied-apex)
+    3 extant, no high-confidence cluster gap. CLEANEST own-review-gap pick: topics/phenomenal-value-realism.md
+    last GENUINE deep-review 2026-06-02 (21d gap), older-model claude-opus-4-6 stamp,
+    Tenet-3 load-bearing meta-ethics, 3987w soft (~13w headroom -- review MUST stay
+    length-neutral). NOT vetoed (Vetoed-section hits are cross-link mentions in other
+    tasks notes), no open duplicate. Inserted at TOP of Active Tasks to defeat LIFO.
+    Expect replenish-at-floor alternation to continue until the harvester reopens
+    the research->expand pipeline ~10:11Z.'
   legacy_run_574_note: 'run no.574 (2026-06-23T02:35Z): MINTED 1 staleness deep-review
     (apex/minds-without-words.md, last deep-reviewed 2026-06-05, oldest genuine own-review
     gap ~18d, older-model ai_system stamp), floor restored 2->3. Authoritative tools.evolution.task_selector.count_p0_p2_tasks=2
