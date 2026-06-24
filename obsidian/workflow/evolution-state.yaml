@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-24T09:19:52.685821+00:00'
-session_count: 12998
+last_updated: '2026-06-24T09:26:16.741451+00:00'
+session_count: 12999
 cycle_position: 9845
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-23T04:06:59.235792+00:00'
   refine-draft: '2026-06-23T06:13:52.051695+00:00'
   research-topic: '2026-06-24T08:54:57.607740+00:00'
-  replenish-queue: '2026-06-24T09:04:24.386481+00:00'
+  replenish-queue: '2026-06-24T09:26:16.741451+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-24T09:19:52.685821+00:00'
   add-highlight: '2026-06-24T08:23:46.103015+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-23'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-23'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-06-24'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-24'
   outcome: success
 agentic_social:
@@ -1190,30 +1190,30 @@ queue_status:
     tasks for the two articles created earlier this cycle, floor restored 2->4. Authoritative
     tools.evolution.task_selector.count_p0_p2_tasks = 2 PRE-mint / 4 POST-mint (both
     verified; select_queue_task confirms the new many-minds-interpretation task selectable
-    as INTEGRATE_ORPHAN at top). MIN_QUEUE floor 3, unmet by 1 pre-mint. CONTEXT: run
-    no.580 (09:05Z, commit ad57130fb) minted 2 unconsumed-research expand-topic chains
-    (Many-Minds, Simulation-Theory-of-Memory) which were BOTH picked + executed by
-    the next two cycle slots (commits e08705a1f topics/many-minds-interpretation.md
-    + 696478710 concepts/simulation-theory-of-memory.md), dropping the live floor 4->2
-    -- the documented replenish-at-floor alternation (unfin_loop_steady_state), here
-    with the research->expand pipeline genuinely REOPENED. Both fresh articles disk-verified
-    to have ZERO inbound wikilinks (grep-confirmed) = pure orphans + fresh-create defect
-    tail; state orphaned_files=0 is STALE (predates today creates). The two minted
-    integrate-orphan tasks are the cleanest highest-confidence floor-restore available:
-    (1) topics/many-minds-interpretation.md -- add reciprocal inbound links from its
-    5 related_articles targets (all disk-verified: qm-interpretations-beyond-many-worlds,
+    as INTEGRATE_ORPHAN at top). MIN_QUEUE floor 3, unmet by 1 pre-mint. CONTEXT:
+    run no.580 (09:05Z, commit ad57130fb) minted 2 unconsumed-research expand-topic
+    chains (Many-Minds, Simulation-Theory-of-Memory) which were BOTH picked + executed
+    by the next two cycle slots (commits e08705a1f topics/many-minds-interpretation.md
+    + 696478710 concepts/simulation-theory-of-memory.md), dropping the live floor
+    4->2 -- the documented replenish-at-floor alternation (unfin_loop_steady_state),
+    here with the research->expand pipeline genuinely REOPENED. Both fresh articles
+    disk-verified to have ZERO inbound wikilinks (grep-confirmed) = pure orphans +
+    fresh-create defect tail; state orphaned_files=0 is STALE (predates today creates).
+    The two minted integrate-orphan tasks are the cleanest highest-confidence floor-restore
+    available: (1) topics/many-minds-interpretation.md -- add reciprocal inbound links
+    from its 5 related_articles targets (all disk-verified: qm-interpretations-beyond-many-worlds,
     multi-mind-collapse-problem, indexical-identity-quantum-measurement, probability-problem-in-many-worlds,
-    von-neumann-wigner-interpretation), frame it as a named Tenet-4 No-Many-Worlds rival.
-    (2) concepts/simulation-theory-of-memory.md -- add reciprocal inbound links from
-    its 3 related_articles targets (phenomenology-of-memory-and-the-self has only an
-    inline mention to promote, reconsolidation-as-selection-window, capability-division-problem),
-    frame as a named rival to pastness-quale realism. Both task notes also direct a
-    fresh-create defect sweep (publisher-of-record citation verify, date-sanity, quote-audit)
-    while integrating, per fresh-create-defect-tail. Neither slug is in the Vetoed
-    bank and no prior integration task exists for either (grep-confirmed). Inserted
-    at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation). All other sources
-    re-audited from LIVE DISK and exhausted of clean genuine-MINT candidates: (length)
-    every content offender (epistemology-of-convergence, born-rule, composition-question-rivals,
+    von-neumann-wigner-interpretation), frame it as a named Tenet-4 No-Many-Worlds
+    rival. (2) concepts/simulation-theory-of-memory.md -- add reciprocal inbound links
+    from its 3 related_articles targets (phenomenology-of-memory-and-the-self has
+    only an inline mention to promote, reconsolidation-as-selection-window, capability-division-problem),
+    frame as a named rival to pastness-quale realism. Both task notes also direct
+    a fresh-create defect sweep (publisher-of-record citation verify, date-sanity,
+    quote-audit) while integrating, per fresh-create-defect-tail. Neither slug is
+    in the Vetoed bank and no prior integration task exists for either (grep-confirmed).
+    Inserted at TOP of Active Tasks to defeat LIFO (queue-lifo-starvation). All other
+    sources re-audited from LIVE DISK and exhausted of clean genuine-MINT candidates:
+    (length) every content offender (epistemology-of-convergence, born-rule, composition-question-rivals,
     clinical-dissociation, agency-void, what-voids-reveal, etc.) remains human-deferred
     / #veto / accept-as-survey / index-hub / +3w-positions-back-cite cosmetic-accretion,
     and counts include frontmatter on link-heavy articles (count-words-includes-frontmatter);

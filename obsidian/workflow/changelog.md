@@ -5,6 +5,12 @@ ai_modified: 2026-06-23T05:59:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T09:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/near-death-experiences.md (oldest concept article with no prior pessimistic review; mature, heavily self-critical)
+- **Findings**: No critical issues. 2 medium (lead asserts contested "during arrest" timing as fact; introspective-reliability claim overreaches) + 1 low (Van Lommel "representative sample" overstated). Citations web-verified clean — Xu/Borjigin PNAS 2023 author distinction is correct, not a defect. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-24-near-death-experiences]]
+
 ## 2026-06-24T09:17:13+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Simulation Theory of Memory (concept page)
