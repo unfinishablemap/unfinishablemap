@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Many-Minds is the one quantum interpretation that writes minds into the formalism. New research shows it still can't answer 'which mind is me?'—proving you need real collapse plus a determinate self, not just minds in superposition.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2069697632486764861  
 **Link**: [[indexical-identity-quantum-measurement]]
 
 ---
