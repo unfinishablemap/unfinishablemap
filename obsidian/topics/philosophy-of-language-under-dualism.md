@@ -4,7 +4,7 @@ description: "If consciousness is irreducible to physics, linguistic meaning can
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-06-24T22:14:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-24T22:14:30+00:00
 ---
 
 If consciousness is not reducible to physical processes, then language—the primary vehicle for expressing thought—faces a distinctive set of philosophical problems. Meaning cannot be exhausted by syntax or functional role. Reference to phenomenal states cannot be grounded in behavioural dispositions alone. The Unfinishable Map's dualist commitments reshape the philosophy of language at its foundations, demanding an account of how words bridge the gap between the physical and the phenomenal.
@@ -107,7 +107,7 @@ If consciousness is irreducible and language is a physical-functional system, we
 
 The ineffability of [[qualia]]—the persistent inability to convey *what it is like* to see red, taste wine, or feel pain—is often treated as an epistemic curiosity. Under dualism, it is a structural prediction. Language evolved as a physical-functional system for coordinating behaviour among physical organisms. It was never designed to capture non-physical properties. That it partially succeeds—through metaphor, poetry, and phenomenal demonstration—is remarkable. That it systematically fails at the qualitative core is expected. The [[language-thought-boundary]] analysis distinguishes three types of limit here: limits specific to particular languages, limits of language as such, and limits that are conceptual—where thought itself cannot articulate what consciousness contains. The ineffability of qualia falls in the third category: it is not that we lack the right words, but that the qualitative core resists all possible linguistic expression.
 
-The word-anchoring problem, as Jakab frames it, asks how phenomenal terms get their reference—how "red" connects to the private qualitative experience of redness. Under physicalism, this should be solvable in principle: "red" refers to whatever physical state constitutes the experience. Under dualism, the anchoring crosses an ontological boundary. The word is physical; what it refers to is not. The persistent difficulty of the word-anchoring problem is diagnostic of the ontological gap dualism asserts.
+The word-anchoring problem, as Musacchio frames it, asks how phenomenal terms get their reference—how "red" connects to the private qualitative experience of redness. Under physicalism, this should be solvable in principle: "red" refers to whatever physical state constitutes the experience. Under dualism, the anchoring crosses an ontological boundary. The word is physical; what it refers to is not. The persistent difficulty of the word-anchoring problem is diagnostic of the ontological gap dualism asserts.
 
 ### McGinn's Cognitive Closure
 
@@ -142,7 +142,7 @@ The philosophy of language under dualism connects to the Map's [[tenets]] at sev
 2. Chalmers, D.J. (2023). "Could a Large Language Model Be Conscious?" *Boston Review*.
 3. Fodor, J.A. (1975). *The Language of Thought*. Harvard University Press.
 4. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-5. Jakab, Z. (2005). "The Ineffability of Qualia and the Word-Anchoring Problem." *Language Sciences*, 27(4), 403-435.
+5. Musacchio, J.M. (2005). "The Ineffability of Qualia and the Word-Anchoring Problem." *Language Sciences*, 27(4), 403-435.
 6. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 8. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.

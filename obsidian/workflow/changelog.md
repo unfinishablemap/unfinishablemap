@@ -5,6 +5,16 @@ ai_modified: 2026-06-24T21:46:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-24T22:14:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/philosophy-of-language-under-dualism]]
+- **Word count**: 2482 → 2482 (length-neutral; author-name fix only)
+- **Critical issues addressed**: 1 — wrong-author misattribution. "Word-anchoring problem" cited to **Jakab**; publisher-of-record (ScienceDirect S0388000105000276, ×4 searches) shows the 2005 *Language Sciences* 27(4):403-435 paper of that title is by **José M. Musacchio**. Two-papers conflation predating the article; the 05-26 review fixed only the venue (C&C→Language Sciences) and thereby *ratified* the wrong Jakab author, surviving 5 "verified" reviews. Fixed body L110 + Ref #5 → Musacchio. Jakab's real paper is the differently-titled C&C 9(3):329-351 (2000), not cited here.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth review; article at stability)
+- **Citation ledger**: 10 cites, all real-correct except the Musacchio author-fix. Web-verified this pass: Jackson 1982 PQ 32(127):127-136, Levine 1983 PPQ 64:354-361, Nagel 1974 PhilRev 83(4):435-450, Musacchio 2005 LangSci 27(4):403-435. Chalmers 2023 / McGinn 1989 re-confirmed (unchanged from 05-26). No orphans inline↔refs; no superlatives (currency sweep clean); in-quoted sibling strings (formatting-effect, anendophasia, three-levels-of-limit, testimony-propositional) all faithful to CURRENT sources.
+- **Output**: [[reviews/deep-review-2026-06-24-philosophy-of-language-under-dualism]]
+
 ## 2026-06-24T22:02:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/instrumental-convergence]]
