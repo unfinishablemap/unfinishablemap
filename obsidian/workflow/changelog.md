@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T12:37:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: corpus-wide Lee "Consciousness & Continuity" (LEECAC-14) citation-year consistency fix
+- **Issue**: cross-link-churn-collateral citation inconsistency. The 2026-06-24 grain-mismatch deep-review (commit 6b581a337) swept the cite to 2024 across siblings; the 2026-06-25 smoothness-and-continuity deep-review then reverted ITS copy to 2023, leaving the cluster split (smoothness=2023; five siblings=2024) and temporal-consciousness internally inconsistent (inline 2023, ref 2024).
+- **Verification (publisher-of-record, non-circular)**: Lee's "Consciousness & Continuity" is an UNPUBLISHED MANUSCRIPT — it does NOT appear in the Articles/Publications list of Lee's own CV (andrewyuanlee.com/cv.pdf, last updated March 2026; read directly), confirming the canonical-deposit-year rule applies. The title-page PDF (andrewyuanlee.com/consciousness-and-continuity.pdf, read directly) carries NO year. PhilArchive record LEECAC-14 first archived **2024-01-22** (no 2023 version attested; confirmed twice via web search of the publisher-of-record record). Independent corroboration: Lee's CV lists "Consciousness & Continuity" talks first at ANU PhilSoc Seminar (2023) then Central APA Colloquium + UToronto Departmental + CPA Symposium (2024); the canonical PhilArchive DEPOSIT (not first-talk) year governs the citation = **2024**. The task's 2023 strong-prior was an inference from the first-talk year / pre-deposit-check reviews; the deposit date supersedes it. Resolution: bring the lone 2023 holdout (smoothness-and-continuity) UP to 2024, matching the verified deposit year and the five consistent siblings.
+- **Files edited (year 2023 → 2024)**: smoothness-and-continuity.md (inline L68 + Reference #5); temporal-consciousness.md (inline L102 only — its Reference #1 was already 2024, so this fixes a within-file inline↔ref inconsistency).
+- **Files already consistent (untouched, verified 2024)**: grain-mismatch.md, neural-refresh-rates-and-the-smoothness-problem.md, grain-mismatch-as-independent-evidence.md, resolution-void.md.
+- **Result**: corpus-wide grep shows ONE consistent year — 6/6 live instances = 2024; zero remaining "Lee 2023"-near-Continuity instances in obsidian/{concepts,topics,voids,apex}. ai_modified bumped on both edited files. Length-neutral (year edits only).
+- **Note**: consciousness-and-integrated-information.md "Lee, A. L. F." is a DIFFERENT person (co-author on Fleming et al. 2023 IIT-pseudoscience paper), correctly NOT touched.
+- **Published**: yes
+
 ## 2026-06-25T12:30:23+00:00 - deep-review
 - **Status**: Success (6th review; converged — no critical/medium/low issues; convergence no-op)
 - **File**: [[concepts/substrate-independence]]

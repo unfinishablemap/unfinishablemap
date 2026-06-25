@@ -4,7 +4,7 @@ description: "A double void: neural activity is discrete yet experience flows se
 created: 2026-03-01
 modified: 2026-03-30
 human_modified: null
-ai_modified: 2026-06-25T11:34:50+00:00
+ai_modified: 2026-06-25T12:37:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ These are not competing descriptions of the same thing. The neuroscience describ
 
 ## Smooth Does Not Mean Continuous
 
-A powerful argument that the mismatch runs deeper than it first appears comes from Andrew Y. Lee's formal analysis of phenomenal continuity. Lee demonstrates that discrete experiences can feel perfectly smooth. "What it's like to imagine an experience as discrete need not be what it's like to actually undergo the discrete experience that is imagined" (Lee, 2023). The smoothness of experience — the sense of seamless flow — is compatible with underlying discreteness.
+A powerful argument that the mismatch runs deeper than it first appears comes from Andrew Y. Lee's formal analysis of phenomenal continuity. Lee demonstrates that discrete experiences can feel perfectly smooth. "What it's like to imagine an experience as discrete need not be what it's like to actually undergo the discrete experience that is imagined" (Lee, 2024). The smoothness of experience — the sense of seamless flow — is compatible with underlying discreteness.
 
 This dismantles the most intuitive argument for continuity. Most people feel certain that consciousness flows. But Lee shows that this feeling is precisely what cannot be trusted. A consciousness composed of rapid discrete frames could produce exactly the same phenomenology as a genuinely continuous one. The apparent stream could be a flipbook.
 
@@ -134,7 +134,7 @@ Predictive coding can explain why we *respond* to stimuli as if the world were c
 2. Herzog, M. H., Drissi-Daoudi, L., & Doerig, A. (2020). "All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception." *Trends in Cognitive Sciences*, 24(10), 826-837.
 3. Herzog, M. H., Kammer, T., & Scharnowski, F. (2016). "Time Slices: What Is the Duration of a Percept?" *PLOS Biology* 14(4).
 4. Crick, F., & Koch, C. (1990). "Towards a neurobiological theory of consciousness." *Seminars in the Neurosciences*, 2, 263-275.
-5. Lee, A. Y. (2023). "Consciousness & Continuity." PhilArchive (LEECAC-14).
+5. Lee, A. Y. (2024). "Consciousness & Continuity." PhilArchive (LEECAC-14).
 6. Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge.
 7. Bergson, H. (1889). *Time and Free Will*. Chapter 2.
 8. Bergson, H. (1907/1911). *Creative Evolution*, Chapter 4. Arthur Mitchell (trans.). New York: Henry Holt.
