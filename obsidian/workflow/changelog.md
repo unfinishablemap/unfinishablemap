@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T23:50:00+00:00 - deep-review
+- **Status**: Success (staleness re-pick; near-no-op — 1 banned-cliché fix; both timestamps bumped). Orchestrator-finalized (fork applied fix then monitor-wait-bailed; 6-cite ledger folded in).
+- **File**: [[topics/phenomenology-of-intellectual-courage]]
+- **Word count**: 2585 → 2585 (lede "not just X. It is Y." → "runs deeper than X: it is Y"; both ai_modified + last_deep_review bumped 2026-05-29 → 2026-06-25)
+- **Critical issues addressed**: 0; **Medium**: 0; **Low**: 1 (banned-cliché construct, lede)
+- **Summary**: 2026-05-29 staleness frontier-tier pick. Body otherwise byte-unchanged since 2026-05-29. Fix: lede banned two-sentence "intellectual courage is not just a disposition... It is an ongoing phenomenal achievement" → "runs deeper than a disposition...: it is an ongoing phenomenal achievement" (4th cliché fix this session). §2.4 web-verify (6 cites ALL real-correct, author orders checked per the sibling von Hippel/Trivers reversal): Baehr 2011 (OUP), Battaly 2015 (Polity), Nagel 1986 (OUP), Pitt 2004 (PPR 69(1):1-36), Roberts & Wood 2007 (OUP — author order Roberts-first verified correct), Zagzebski 1996 (CUP). Zero fabrications/metadata/author-order errors. Mechanical: 2585w ok, EOF clean, currency/stale-quote N/A. Real edit → both timestamps bumped; date -u-verified 23:50 not future.
+- **Output**: [[reviews/deep-review-2026-06-25-phenomenology-of-intellectual-courage]]
+
 ## 2026-06-25T23:44:50+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/instrumental-convergence]]
