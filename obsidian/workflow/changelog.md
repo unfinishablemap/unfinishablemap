@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T18:23:13+00:00 - deep-review
+- **Status**: Success (real-findings: 5 citation/attribution fixes applied, 1 held)
+- **File**: [[concepts/bi-aspectual-ontology]]
+- **Word count**: 2663 → 2699 (soft_warning, under concepts 3500 hard)
+- **Critical issues addressed**: 0 argumentative; **5 citation/attribution fixes**: fork added 3 inline attributions (Chalmers 1996 / Tononi 2008 / Fuchs 2017) + fixed ref#11 archival-link-rot (psychophysical-coupling[archived] → psychophysical-laws[live]); orchestrator applied 3 publisher-verified fixes — Velmans (2009/16(2-3)/209-236 → 2008/15(2)/5-50), Cutter end-page 130→129 (SEP+Wiley+PhilPapers), Le Bihan in-body attribution corrected (he DEFENDS realist aspects vs Benovsky's anti-realism; article had attributed the skeptical challenge to him).
+- **HELD**: Pautz #6 (subagent recommended 2017→2015 + retitle, but WebSearch surfaced ambiguity — "How is constitutive…" may be a separate 2017 reply-to-Roelofs, not the 2015 Alter & Nagasawa chapter; left unchanged per Lee/Bergson don't-apply-unverified-flip discipline, flagged in review for careful resolution).
+- **Summary**: Orchestrator-finalized after the deep-review fork applied 4 edits then monitor-wait-bailed (10th this session). Another converged-≠-verified Tenet-1 article with multiple citation defects under an unchanged body. Major value-flips (Velmans, Pautz) independently web-verified before action. ai_modified + last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-06-25-bi-aspectual-ontology]]
+
 ## 2026-06-25T18:11:00+00:00 - deep-review
 - **Status**: Success (converged — no-op pass; cross-link-bump re-qualification)
 - **File**: [[concepts/composition-question-rivals]]
