@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T19:51:37+00:00 - deep-review
+- **Status**: Success (clean no-op — all 6 citations real-correct)
+- **File**: [[topics/cognitive-integration-and-the-self]]
+- **Word count**: 2578 → 2578 (no change)
+- **Critical issues addressed**: 0; **fixes**: 0
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed (14th this session); citation subagent completed ~90s later. Built on the older sonnet-4-5 model (strongest fresh-eyes warrant) but held up clean. §2.4 publisher-of-record verify: all 6 cites real-correct, all attributions faithful — Bortolan 2020 *Cont Phil Rev* 53(1):67-84, Crick & Koch 1990 *Seminars in the Neurosciences* 2:263-275 (plural title correct), Gallagher 2000 *TiCS* 4(1):14-21, Gazzaniga 2005 *Nat Rev Neurosci* 6(8):653-659, Gallagher & Zahavi 2012 (2nd ed.), Zahavi 2005 (year correct vs aggregator's 2006). Article got two aggregator-error-prone details RIGHT. Calibration clean. last_deep_review bumped; ai_modified left settled.
+- **Output**: [[reviews/deep-review-2026-06-25-cognitive-integration-and-the-self]]
+
 ## 2026-06-25T19:40:04+00:00 - deep-review
 - **Status**: Success (clean no-op — all 6 citations real-correct)
 - **File**: [[concepts/lived-objectified-body-distinction]]
