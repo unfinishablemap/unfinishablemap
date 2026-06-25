@@ -5,6 +5,18 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T10:41:55+00:00 - deep-review
+- **Status**: Success (converged 6th review; one metadata-regression fix)
+- **File**: [[concepts/prebiotic-collapse]]
+- **Word count**: 3093 → 3093 (metadata-only; 124% of soft 2500, under hard 3500)
+- **Critical issues addressed**: 1 (Donadi 2020 page-range regression: prior review over-truncated "74-78"→"74" on a mistaken article-number assumption; publisher of record — ADS 2021NatPh..17...74D, Nature DOI 10.1038/s41567-020-1008-4 — confirms real page range 74-78; restored, online-2020/print-2021 annotated)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (page-range restore)
+- **§2.4 citation web-verify (publisher-of-record)**: 12-cite ledger in review file. Donadi real-wrong-metadata (page restored); all others real-correct (Ghirardi/Rimini/Weber 1986, Hameroff&Penrose 2014, Penrose 1989, Tomaz 2025 arXiv:2502.19278, Tallis 2024, Tegmark 2000, Wheeler 1990, Whitehead 1929, Khan...Wiest M.C. 2024 — prior O.→M.C. fix held, Wigner 1961, Wolchover 2022).
+- **Empirical-record currency sweep**: experimental-status claims STILL CURRENT vs live 2024-26 literature — parameter-free Diósi-Penrose falsified / modified survive; CSL further tightened 2025 (LISA Pathfinder PRA 111 L020203) but "reduced parameter space" framing holds; GRW "survived by a whisker" holds. Only superlative hit ("So far") correctly hedged. No drift.
+- **Engagement modes** (editor-internal, unchanged): Wigner/vN-W Mode One; MWI defender Mode Three; illusionist Mode Two+honest boundary. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-25-prebiotic-collapse]]
+
 ## 2026-06-25T10:31:00+00:00 - deep-review
 - **Status**: Success (no-op verification pass — converged, unchanged 4th review)
 - **File**: [[concepts/supervenience]]
