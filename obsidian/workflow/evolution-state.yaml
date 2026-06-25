@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T17:56:14.578582+00:00'
-session_count: 13310
-cycle_position: 9985
+last_updated: '2026-06-25T18:03:19.110457+00:00'
+session_count: 13311
+cycle_position: 9986
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T13:12:17.304952+00:00'
   optimistic-review: '2026-06-25T14:24:29.372151+00:00'
   check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T17:14:05.932250+00:00'
-  deep-review: '2026-06-25T17:49:35.824061+00:00'
+  deep-review: '2026-06-25T18:03:19.110457+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-25T17:17:58.922625+00:00'
   coalesce: '2026-06-25T15:09:33.863051+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5778
+  reviews_completed: 5779
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1175,12 +1175,64 @@ queue_status:
   p2_tasks: 8
   p3_tasks: 8
   needs_replenishment: false
-  loop_pickable_open: 8
+  loop_pickable_open: 9
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 638
-  last_replenishment: '2026-06-25T17:50:00+00:00'
+  last_replenishment_run: 639
+  last_replenishment: '2026-06-25T18:05:00+00:00'
   last_replenishment_mode: standard
+  run_639_note: 'run no.639 (2026-06-25T18:05Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/intrinsic-nature.md). Authoritative pre-mint
+    tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two open P2s:
+    concepts/bi-aspectual-ontology.md run-637 + concepts/cessation-versus-plenitude.md
+    run-638 staleness deep-reviews, both settled, last_deep_review 2026-05-27, NOT
+    touched today; the prior-tier phenomenology-of-linguistic-failure run-636 was
+    PICKED + executed since run-638 -- moved to Completed as the 2026-06-25 deep-review,
+    dropping the live floor back to 2; the 3 veto condense tasks selector-excluded;
+    the 8 P3s do not count toward the floor). MIN_QUEUE floor 3 unmet by 1; this mint
+    restores 2->3 (POST-MINT count_p0_p2_tasks = 3 confirmed; select_queue_task top
+    pick still concepts/bi-aspectual-ontology.md so the bottom-insert did NOT starve
+    the two older floor-restore P2s; drain order bi-aspectual-ontology to cessation-versus-plenitude
+    to intrinsic-nature). SOURCE = staleness (Source 4), 2026-05-27 COHORT continues
+    the re-surfaced tier the run-637/638 notes identified. A FRESH full all-content-section
+    staleness scan this run keyed on last_deep_review age + settled (ai_modified ==
+    last_deep_review), aic>50, found the descending front-tier: bi-aspectual-ontology
+    03:21 29.61d (QUEUED run-637), cessation-versus-plenitude 12:00 29.25d (QUEUED
+    run-638), intrinsic-nature 12:00 29.25d (THIS MINT), lived-objectified-body-distinction
+    13:20 29.20d, cognitive-integration-and-the-self 23:11 28.79d, quantum-completeness
+    23:20 28.78d. cessation and intrinsic-nature share last_deep_review 2026-05-27T12:00:00;
+    cessation already queued, so concepts/intrinsic-nature.md is the OLDEST genuinely-settled
+    UNQUEUED pick (~29.25d). ai_contribution=100, ai_system claude-opus-4-7, settled
+    (ai_modified == last_deep_review; last commit 5195141285 auto(deep-review) its OWN
+    2026-05-27 review, clean tree, NOT touched since, zero commits since 2026-06-25T00:00,
+    NO same-day collision), body 2058w via tools.curate.length.analyze_length = status
+    ok (concepts soft 2500 / hard 3500, full headroom -- NOT a condense candidate).
+    Tenet 1 (Dualism) load-bearing as a FOIL -- intrinsic-nature / Russellian monism
+    treated as a RIVAL the Map distinguishes itself from (via Cutter instability +
+    Howell mental-causation problems), NOT adopted; honour evidential-status-discipline.
+    No open dup (the only intrinsic-nature task headers are completed deep-reviews of
+    the DIFFERENT article voids/intrinsic-nature-void.md; the Vetoed-bank hit is a
+    research-note relation line referencing intrinsic-nature-void, NOT a deep-review
+    veto of THIS concept page), NOT a veto/blocked subject, NOT reviewed today, NOT
+    archived (no archive/concepts/intrinsic-nature.md). EOF tool-tag artifact scan
+    clean at mint (last lines = References entries: Howell 2014 + SEP Russellian Monism
+    + internal Map cite). Bottom-inserted per queue-lifo-starvation so the two older
+    floor-restore P2s are not starved. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed
+    exhausted: (1 chain) zero un-followed research/expand completions. (2 unconsumed
+    research) newest notes consumed or seed-only for already-queued P3 research-topic
+    tasks. (3 gap/caps) topics 281/320, concepts 271/320 headroom but harvester-governed
+    (ran 14:27Z) + Vetoed-dedup-blocked; voids at/over create-cap; positions 8/80.
+    (4 genuine-drift) the broad ai_modified>last_deep_review net is cosmetic churn
+    with current June stamps; staleness Source-4 (2026-05-27) cleanly outranks every
+    drift candidate. (5 length) all hard/critical content offenders human-deferred
+    / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0. (7 positions)
+    8 entries <10 audit threshold, positions-evolve ran 2026-06-22, slow-add. (8 applied-apex)
+    3 extant, no high-confidence cluster gap. The 2026-05-27 cohort still has 1 settled
+    aic=100 file NOT yet queued after this mint (lived-objectified-body-distinction
+    13:20) -- the next floor-restore draws from it, then the 2026-05-28+ rolling frontier
+    (cognitive-integration-and-the-self 28.79d / quantum-completeness 28.78d cross
+    30d within ~a day). An honest NO-MINT remains acceptable when no clean candidate
+    exists.'
   run_638_note: 'run no.638 (2026-06-25T17:50Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/cessation-versus-plenitude.md). Live pre-mint
     executable P0-P2 count = 2 (the two open P2s: topics/phenomenology-of-linguistic-failure.md
