@@ -5,6 +5,19 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T11:58:38+00:00 - deep-review
+- **Status**: Success (6th review; converged — no issues; full citation ledger + currency sweep clean)
+- **File**: [[concepts/voluntary-attention-control-mechanisms]]
+- **Word count**: 1745 → 1745 (no edits; 70% of 2500 concepts soft threshold — comfortably under)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article, body unchanged since 2026-05-26; avoided oscillation per convergence-damping)
+- **Citation web-verify (§2.4)**: all 7 cites real-correct at publisher of record — Filevich/Kühn/Haggard 2013 (PLoS ONE 8(2) e53053), Koch & Tsuchiya 2007 (TiCS 11(1) 16-22), Menon & Uddin 2010 (Brain Struct Funct 214 655-667; 4-function summary matches), Nadra & Mangun 2023 (Front Cognition 2, 1205618), Rajan et al. 2019 (Cereb Cortex 29(7) 2832-2843; ~500ms theta + bidirectional Granger confirmed), Denton et al. 2024 (Nat Commun 15, 10823; DOI 10.1038/s41467-024-55124-x), Thura & Cisek 2014 (Neuron 81(6) 1401-1416; ~280ms commitment matches). Inline↔ref cross-check clean, no orphans.
+- **Currency sweep**: superlative helper empty; "first biological precedent" (Denton 2024 cryptochrome Zeno) still holds vs 2024-2026 literature. 2025 follow-up (Smith/Tallapudi/Denton/Kattnig, AVS Quantum Sci 7(3) 032601, arXiv:2505.01519) extends but does not supersede — optional future enrichment, not added. 2025-2026 willed-attention preprints corroborate, no update needed.
+- **Reasoning modes**: materialist "more computation" response = Mode Two opening into boundary-marking (Occam's-limits paragraph). No boundary-substitution, no editor-vocabulary label leakage. Unchanged.
+- **Verification**: all 15 wikilink targets resolve to live obsidian files. No calibration slippage (constrains-vs-establishes boundary held). last_deep_review + ai_modified → 2026-06-25T11:58:38+00:00.
+- **Output**: [[reviews/deep-review-2026-06-25-voluntary-attention-control-mechanisms]]
+
 ## 2026-06-25T11:34:50+00:00 - deep-review
 - **Status**: Success (3rd review; converged — one citation regression caught & reverted)
 - **File**: [[voids/smoothness-and-continuity]]
