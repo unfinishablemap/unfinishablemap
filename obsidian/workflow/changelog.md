@@ -5,6 +5,19 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T11:08:04+00:00 - deep-review
+- **Status**: Success (6th review; citation-integrity maintenance — no critical issues)
+- **File**: [[voids/consciousness-only-territories]]
+- **Word count**: 2895 → 2920 (+25; 146% of soft 2000 voids target, below 3000 hard — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (two orphaned References entries — Seth #4, Pallagrosi #6 — anchored inline rather than removed; both genuinely on-topic)
+- **Low issues addressed**: 1 (Porębski & Figura venue: "Nature Humanities and Social Sciences Communications" → "Humanities and Social Sciences Communications" in body + References; deferred by 2026-05-26 review, web-verified and fixed)
+- **Enhancements made**: 3 inline-anchor/venue fixes + 1 redundancy trim (Evidence-section "persistence" bullet) for length offset; last_deep_review + ai_modified → 2026-06-25T11:08:04+00:00
+- **Citation web-verify (§2.4)**: full per-cite ledger in review archive. All cites real-correct except the one venue-name fix. No fabricated/unfindable cites, no orphans remaining, no superlative claims (currency sweep empty). Barrett & Stout 2024 and Porębski & Figura 2025 re-confirmed at publisher of record; Yampolskiy arXiv:1712.04020, Pallagrosi (PhilArchive), Seth (NOEMA), McClelland (Cambridge/Mind&Language) all confirmed real.
+- **Engagement modes** (changelog-only): Lewis Mode One; Loar Mode Two (Chalmers dilemma); Dennett Mode One (prediction-vs-acquaintance); residual functionalism Mode Three (framework-boundary, honestly noted). No label leakage in prose.
+- **Verification**: `[[symbol-grounding-problem]]` resolves to LIVE concepts/ page (topics/ copy archived/coalesced, but sync index prefers live files; confirmed via converter.py) — no archive-rot. Four tenet anchors live + current form. No EOF artifact, no cliché.
+- **Output**: [[reviews/deep-review-2026-06-25-consciousness-only-territories]]
+
 ## 2026-06-25T10:55:54+00:00 - deep-review
 - **Status**: Success (converged 6th review; no body changes — verification pass)
 - **File**: [[voids/collective-cognitive-limits]]
