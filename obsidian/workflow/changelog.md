@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T19:34:14+00:00 - deep-review
+- **Status**: Success (near-no-op: 1 wrong-author citation fix)
+- **File**: [[voids/inaccessible-past]]
+- **Word count**: 2663 → 2663 (soft_warning, under voids 3000 hard; word-neutral)
+- **Critical issues addressed**: 0; **fix**: Citation 4 wrong-author — "The Phenomenology of Remembering Is an Epistemic Feeling" (*Frontiers in Psychology* 11:1531, 2020) attributed to "De Brigard, F." → correct authors **Perrin, D., Michaelian, K., & Sant'Anna, A.** (publisher + PhilPapers + PubMed 32719642 verified; De Brigard is not an author). References-only; no in-body attribution existed.
+- **Summary**: Orchestrator-finalized — the cycle deep-review fork monitor-wait-bailed without revealing its target or writing anything (12th bail this session, worst-case: no target named); its citation subagent completed ~3 min later naming the target (inaccessible-past) + a 24-cite ledger; orchestrator independently web-verified the author-flip before applying. 23/24 cites real-correct; both content claims (Assutavā Sutta SN 12.61 simile; Snell "discovery of the mind") faithful. Calibration clean. ai_modified + last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-06-25-inaccessible-past]]
+
 ## 2026-06-25T19:08:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/intrinsic-nature]]
