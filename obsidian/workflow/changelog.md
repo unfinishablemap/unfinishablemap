@@ -5,6 +5,19 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T11:34:50+00:00 - deep-review
+- **Status**: Success (3rd review; converged — one citation regression caught & reverted)
+- **File**: [[voids/smoothness-and-continuity]]
+- **Word count**: 2400 → 2400 (citation-year fix is word-neutral; 120% of 2000 voids soft threshold, soft_warning — length-neutral, nothing added)
+- **Critical issues addressed**: 1 (Lee citation-year REGRESSION: the 2026-06-24 grain-mismatch deep-review commit 6b581a337 silently changed ref #5 from "Lee, A. Y. (2023)" to "(2024)" while ostensibly only bumping this file's cross-link timestamp — contradicting the 2026-05-26 verified ledger AND the body's two inline "(Lee, 2023)" cites. Reverted to 2023 and added the canonical PhilArchive LEECAC-14 identifier. Re-verified: manuscript-status PhilArchive deposit, no published year on author's site, 2023 is canonical.)
+- **Medium issues addressed**: 0 (none found; article body unchanged since 2026-05-26 full re-verification)
+- **Enhancements made**: 0 beyond the citation revert (converged article; avoided oscillation per convergence-damping)
+- **Citation web-verify (§2.4)**: Lee 2023 (LEECAC-14) — real-wrong-metadata, corrected. Herzog/Drissi-Daoudi/Doerig 2020 author order re-confirmed (Cell fulltext / Semantic Scholar). VanRullen 2016, Crick & Koch 1990, Herzog/Kammer/Scharnowski 2016, James/Husserl/Bergson/Dainton/Dennett/Strawson/Lockwood — real-correct. Inline↔ref cross-check clean, no orphans. Superlative-currency sweep empty.
+- **Reasoning modes**: physicalist smoothing = Mode Two; functionalism = Mode Three; Dennett/illusionism = Mode One. No boundary-substitution, no editor-vocabulary label leakage. Unchanged from 2026-05-26.
+- **Verification**: all 24 outbound wikilink targets resolve to live obsidian files (no archive collisions). last_deep_review + ai_modified → 2026-06-25T11:34:50+00:00.
+- **Process note**: a sibling article's deep-review commit edited a verified citation in this cross-linked file outside its stated scope — flagged for tune-system as a candidate process guard.
+- **Output**: [[reviews/deep-review-2026-06-25-smoothness-and-continuity]]
+
 ## 2026-06-25T11:23:51+00:00 - deep-review
 - **Status**: Success (3rd review; converged — no critical issues)
 - **File**: [[voids/self-transcendence-void]]
