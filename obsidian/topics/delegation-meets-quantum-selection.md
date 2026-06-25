@@ -4,7 +4,7 @@ description: "Causal delegation provides the logical structure of mental causati
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-25T16:39:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[consciousness-physics-interface-formalism]]"
   - "[[entanglement-binding-hypothesis]]"
   - "[[skill-delegation]]"
-last_deep_review: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-06-25T16:39:56+00:00
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -125,6 +125,6 @@ The delegation-selection bridge integrates multiple tenets into a unified accoun
 ## References
 
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
-1. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. arXiv:2512.12636.
+1. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.
 1. Southgate, A. & Oquatre-six, C. (2026-03-04). Causal Delegation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-delegation/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-29). Delegatory Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/delegatory-dualism/

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T16:16:16.913977+00:00'
-session_count: 13298
+last_updated: '2026-06-25T16:25:25.337476+00:00'
+session_count: 13299
 cycle_position: 9982
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T14:43:01.708980+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T16:03:16.903823+00:00'
+  replenish-queue: '2026-06-25T16:25:25.337476+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-06-25'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-06-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1201,8 +1201,8 @@ queue_status:
     OLDEST-OF-COHORT: both run-633 and run-634 notes explicitly parked concepts/samkhya-three-way-distinction
     first in the next-tier list. NOTE it is in concepts/ (not topics/). Of the two
     remaining 2026-05-27-cohort settled candidates, samkhya last_deep_review 2026-05-27T00:00:00
-    is the OLDEST (vs phenomenology-of-linguistic-failure 2026-05-27T00:39:24) so it
-    is the correct oldest-genuinely-settled pick. last_deep_review 2026-05-27T00:00:00
+    is the OLDEST (vs phenomenology-of-linguistic-failure 2026-05-27T00:39:24) so
+    it is the correct oldest-genuinely-settled pick. last_deep_review 2026-05-27T00:00:00
     = ~29.7d, ai_contribution=100, ai_system claude-opus-4-7, settled (ai_modified
     == last_deep_review; last commit its OWN 2026-05-27 deep-review 220816739, clean
     tree, NOT touched since, NO same-day collision), body 1918w = ok (concepts soft
@@ -1224,9 +1224,9 @@ queue_status:
     cosmetic churn with current June stamps; staleness Source-4 (2026-05-27) cleanly
     outranks every drift candidate. (5 length) all hard/critical content offenders
     human-deferred / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0.
-    (7 positions) 8 entries <10 audit threshold, positions-evolve ran 2026-06-22, slow-add.
-    (8 applied-apex) 3 extant, no high-confidence cluster gap. Next floor-restore must
-    look to the last 2026-05-27-cohort candidate (topics/phenomenology-of-linguistic-failure)
+    (7 positions) 8 entries <10 audit threshold, positions-evolve ran 2026-06-22,
+    slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. Next floor-restore
+    must look to the last 2026-05-27-cohort candidate (topics/phenomenology-of-linguistic-failure)
     as it crosses 30d, or await fresh chain/research/harvester input.'
   run_634_note: 'run no.634 (2026-06-25T16:05Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (topics/consciousness-and-the-ontology-of-temporal-becoming.md).

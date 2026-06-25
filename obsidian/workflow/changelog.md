@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T16:39:56+00:00 - deep-review
+- **Status**: Success (staleness re-review — near-no-op: 1 truncated-title citation fix)
+- **File**: [[topics/delegation-meets-quantum-selection]]
+- **Word count**: 2407 → 2415 (ok, well under 4000 hard)
+- **Critical issues addressed**: 0; **fix**: Torres Alegre (2025) arXiv:2512.12636 truncated title completed — appended subtitle "A Derivation from Steering in Generalized Probabilistic Theories" (author E.O./ID/2025 deposit all confirmed correct).
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed; its citation subagent completed ~100s later with a publisher-of-record ledger. §2.4 verify: Saad 2025 *Phil Studies* 182(3):939–967 real-correct (all 4 delegation concepts faithful — default causal profile, Delegatory Law, Subset Law, major-and-sergeant); Torres Alegre real (title truncation only). Calibration exemplary (Saad/physics convergence explicitly flagged as interpretive, not confirmation; preprint flagged unpeer-reviewed). No QEC notation risk. ai_modified + last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-06-25-delegation-meets-quantum-selection]]
+
 ## 2026-06-25T16:09:21+00:00 - deep-review
 - **Status**: Success (staleness re-review — near-no-op: 1 cliché + 1 borderline citation year)
 - **File**: [[topics/diachronic-agency-and-personal-narrative]]
