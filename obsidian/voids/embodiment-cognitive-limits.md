@@ -4,8 +4,8 @@ description: "Human+AI exploration of how having a body shapes and constrains wh
 created: 2026-01-28
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-05-26T00:23:28+00:00
-last_deep_review: 2026-05-26T00:23:28+00:00
+ai_modified: 2026-06-25T01:38:00+00:00
+last_deep_review: 2026-06-25T01:38:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
