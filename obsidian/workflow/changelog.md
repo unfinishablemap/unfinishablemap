@@ -5,6 +5,16 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T23:44:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/instrumental-convergence]]
+- **Original score**: addressing pessimistic-2026-06-25 medium finding (no separate review-tool score run; targeted single-finding fix)
+- **Changes**: Added a 2-sentence honest-deflation rider after the existing §Deep-Uncertainty-Corrective scope-limit paragraph. (a) Names the deflation: the modelling-incoherent/fixed-proxy/deceptive class the corrective excludes is exactly the class the article's own empirical section (Anthropic Agentic Misalignment blackmail/espionage, Schlatter/Palisade shutdown-resistance) documents misbehaving, so as a free-standing risk *mitigant* the underdetermination contribution reassures about the corrigible agent while saying nothing about the dangerous one. (b) States residual value precisely: for an already-calibrated/corrigible agent, dualist underdetermination is a second independent reason to defer in the mind-arena over and above preference-uncertainty; and the alignment programme's own task of making agents calibrated/corrigible (CIRL, off-switch, §The Deference Response) is exactly what brings an agent *into* the corrective's scope — completing the "second, structural source of uncertainty" bridge the article gestured at. Did NOT weaken/delete the existing honest scope limit. Tenets 1+3.
+- **Engagement classification**: n/a (no named-opponent reply edited; the rider is a self-critical scope-honesty move, not an opponent engagement).
+- **Length**: 2366 → 2526 words (status ok; soft 3000 / hard 4000). Near-neutral, +160w.
+- **Citations**: no new cites (rider references Agentic Misalignment / Schlatter / Palisade already in the empirical section + References). No web-verify triggered.
+- **Published**: yes (refine — bumped ai_modified only, NOT last_deep_review)
+
 ## 2026-06-25T23:42:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/instrumental-convergence.md` (fresh 2026-06-24 create; selected for the post-creation defect-tail beyond the creation-day deep-review's citation/calibration focus)
