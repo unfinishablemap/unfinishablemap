@@ -24,7 +24,7 @@ description: When multiple minds observe entangled systems, whose consciousness 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 05:44:02+00:00
+last_deep_review: 2026-06-24 23:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-25 00:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: How consciousness encounters the formally unthinkable—we can refe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 00:00:00+00:00
+last_deep_review: 2026-06-25 00:35:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -174,9 +174,9 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 2. Reicher, M. (2024). "Nonexistent Objects." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/nonexistent-objects/
 3. Carruthers, P. (2019). *Human and Animal Minds: The Consciousness Questions Laid to Rest*. Oxford University Press.
 4. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In *Conceivability and Possibility*. Oxford University Press. https://consc.net/papers/conceivability.html
-5. Proust, J. (2020). "Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition." *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.606046/full
-6. Sass, L. & Ratcliffe, M. (2023). "Understanding incomprehensibility." *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1155838/full
-7. Mitralexis, S. (2019). "Apophaticism in Contemporary Philosophy." *Northwestern University Research*. https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf
+5. Dietrich, E., Fields, C., Hoffman, D. D., & Prentner, R. (2020). "Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition." *Frontiers in Psychology*, 11, 606046. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.606046/full
+6. Wendler, H. & Fuchs, T. (2023). "Understanding incomprehensibility: Misgivings and potentials of the phenomenological psychopathology of schizophrenia." *Frontiers in Psychology*, 14, 1155838. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1155838/full
+7. Mitralexis, S. (2025). "Apophaticism in Contemporary Philosophy." In J. R. Betz & R. Van Nieuwenhove (eds.), *The Oxford Handbook of Apophatic Theology*. Oxford University Press. https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf
 8. Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is* (2nd ed.). Cambridge University Press.
 9. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 10. Hegel, G.W.F. (1812-1816). *Science of Logic*. Trans. A.V. Miller (1969). Humanity Books.

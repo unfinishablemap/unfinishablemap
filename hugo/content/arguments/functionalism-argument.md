@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-22 16:13:24+00:00
+ai_modified: 2026-06-25 00:03:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Five converging arguments against functionalism—from absent quali
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-22 16:13:24+00:00
+last_deep_review: 2026-06-25 00:03:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -237,4 +237,4 @@ The Map's framework takes this seriously. Consciousness is irreducible to physic
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
 - Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen Publishing.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Hoel, E. (2026). "A Disproof of Large Language Model Consciousness." *Journal of Consciousness Studies*.
+- Hoel, E. (2026). "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness." arXiv:2512.12802 (preprint, not peer-reviewed).

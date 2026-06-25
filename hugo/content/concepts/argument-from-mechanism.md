@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-24
-ai_modified: 2026-06-24 21:05:00+00:00
+ai_modified: 2026-06-24 23:41:11+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -15,6 +15,7 @@ description: 'A Map-named non-sequitur: showing a mechanism is sufficient to pro
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-24 23:41:11+00:00
 modified: *id001
 related_articles:
 - '[[out-of-body-experiences]]'
@@ -45,7 +46,7 @@ A condition can be sufficient without being necessary. Oxygen plus a spark suffi
 Naming which adjacent fallacy is in play keeps a given instance precise:
 
 - **Confusing sufficiency with necessity** — treating a demonstrated sufficient condition as though it were necessary. The cleanest description of the materialist direction.
-- **Affirming the consequent** — "If M, then X; X; therefore M." From "the mechanism would produce this phenomenology" plus "we observe this phenomenology," inferring "the mechanism is operative and is the whole story." Invalid because X may have other antecedents.
+- **Affirming the consequent** — "If M, then X; X; therefore M." From "the mechanism would produce this phenomenology" plus "we observe this phenomenology," inferring "the mechanism is operative here." Invalid because X may have other antecedents — and the further slide to "the mechanism is the whole story" then compounds this with the sufficiency-as-necessity confusion above.
 - **The genetic fallacy** (in the debunking register) — taking the causal origin of an experience to settle its nature or veridicality. That a hallucination-like state can be induced does not, by itself, show that every token of the experience is non-veridical.
 - **Hasty generalisation** — moving from one demonstrated production route to all instances.
 

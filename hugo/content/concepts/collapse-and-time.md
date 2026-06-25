@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-26 20:31:33+00:00
+ai_modified: 2026-06-24 23:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: Wavefunction collapse introduces temporal asymmetry into physics. I
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 20:31:33+00:00
+last_deep_review: 2026-06-24 23:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,11 +65,11 @@ But decoherence doesn't solve the [measurement problem](/concepts/measurement-pr
 
 ### Time-Symmetric Interpretations: Atemporal Collapse
 
-Several frameworks preserve fundamental [time-symmetry](/concepts/time-symmetric-physics/), treating "collapse" as constraint satisfaction across time rather than a moment when superposition ends.
+Several frameworks preserve fundamental [time-symmetry](/concepts/time-symmetric-physics/), treating "collapse" as constraint satisfaction across time rather than a moment when superposition ends. Whether time-symmetry forces this move is itself contested: Leifer and Pusey (2017) argue that, under a plausible independence assumption (λ-mediation), a time-symmetric ontology cannot avoid [retrocausality](/concepts/retrocausality/)—sharpening Price's earlier claim that time-symmetry and retrocausality travel together.
 
 **Cramer's transactional interpretation** models quantum events as "handshakes" between forward- and backward-propagating waves. Kastner's possibilist extension (PTI) relocates these to a pre-spacetime realm—spacetime itself *emerges* from actualized transactions. If consciousness selects which transaction completes, PTI provides a natural ontological home: consciousness operates in the pre-spacetime realm, selecting which possibilities become actual spacetime events.
 
-**Aharonov's Two-State Vector Formalism** (TSVF) describes systems using both forward-evolving and backward-evolving states, making [retrocausality](/concepts/retrocausality/) mathematically explicit. Consciousness could function as the source of post-selection in neural systems—what provides the future boundary completing the two-state description. Crucially, Aharonov, Cohen, and Elitzur (2015) showed that retrocausality is compatible with libertarian free will: quantum indeterminism masks future states from present access.
+**Aharonov's Two-State Vector Formalism** (TSVF) describes systems using both forward-evolving and backward-evolving states, making [retrocausality](/concepts/retrocausality/) mathematically explicit. Consciousness could function as the source of post-selection in neural systems—what provides the future boundary completing the two-state description. Crucially, Aharonov, Cohen, and Shushi (2016) showed that retrocausality is compatible with libertarian free will: quantum indeterminism masks future states from present access.
 
 **Wharton and Price's all-at-once framework** treats measurements as constraints on Hamilton's action integral, with solutions emerging *en bloc*. Consciousness would function as a boundary condition rather than a force—an especially minimal form of interaction aligning with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
 
@@ -159,15 +159,15 @@ The triad of consciousness, collapse, and time's arrow engages all five [tenets]
 ## References
 
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
-1. Aharonov, Y., Cohen, E., & Elitzur, A. C. (2015). Accommodating retrocausality with free will. *arXiv:1512.06689*.
+1. Aharonov, Y., Cohen, E., & Shushi, T. (2016). Accommodating retrocausality with free will. *Quanta*, 5(1), 53-60.
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
+1. Jayaseelan, M., Manikandan, S. K., Jordan, A. N., & Bigelow, N. P. (2021). Quantum measurement arrow of time and fluctuation relations for measuring spin of ultracold atoms. *Nature Communications*, 12, 1847.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 1. Leifer, M. S. & Pusey, M. F. (2017). Is a time symmetric interpretation of quantum theory possible without retrocausality? *Proceedings of the Royal Society A*, 473, 20160607.
-1. Jayaseelan, M., Manikandan, S. K., Jordan, A. N., & Bigelow, N. P. (2021). Quantum measurement arrow of time and fluctuation relations for measuring spin of ultracold atoms. *Nature Communications*, 12, 1847.
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Modern Physics*, 43, 75-83.
-1. Wharton, K. & Price, H. (2013). Dispelling the quantum spooks—a clue that Einstein missed? *arXiv:1307.7744*.
+1. Price, H. & Wharton, K. (2013). Dispelling the quantum spooks—a clue that Einstein missed? *arXiv:1307.7744*.
 1. Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics." https://plato.stanford.edu/entries/qm-retrocausality/
 1. Stanford Encyclopedia of Philosophy. "Thermodynamic Asymmetry in Time." https://plato.stanford.edu/entries/time-thermo/

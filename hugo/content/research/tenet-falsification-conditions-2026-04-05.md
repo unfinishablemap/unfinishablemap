@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-04-05
-date: '2026-04-05'
+date: '2026-06-24'
 draft: false
 related_articles: []
 title: Research Notes - Falsification Conditions and Testable Predictions for the
@@ -60,7 +60,7 @@ Each of the Map's five tenets occupies a different position on the falsifiabilit
   - No such violations have been detected, but absence of evidence is not evidence of absence at current precision
 - **Tenet alignment**: Supports Tenet 3 by showing empirical testability is at least conceivable
 
-### Conservation Laws and Philosophy of Mind (Gamez 2022)
+### Conservation Laws and Philosophy of Mind (Pitts 2020)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC9038821/
 - **Type**: Journal article (PMC)
 - **Key points**:
@@ -176,7 +176,7 @@ Each of the Map's five tenets occupies a different position on the falsifiabilit
 3. If consciousness biases quantum outcomes, extremely precise measurements of neural quantum states might reveal non-random patterns inconsistent with standard quantum predictions — beyond current experimental precision
 
 **Conservation of energy challenge**:
-- Noether's theorem implies conservation laws entail causal closure (Gamez 2022)
+- Conservation laws "trivially nearly entail" causal closure (Pitts 2020)
 - The Map's "no energy injection" response is the standard move: consciousness biases outcome selection at quantum indeterminacies without adding or removing energy
 - This is consistent with quantum mechanics, where measurement outcome selection does not violate conservation laws
 
@@ -294,7 +294,7 @@ When writing any article, follow `obsidian/project/writing-style.md` for:
 - Lieberman, M.D., et al. (2008). Cognitive load and conscious processing effects on logical reasoning. (Referenced in tenets.md)
 - Masi, M. "The Dangers of Occam's Razor." *PhilArchive*. https://philarchive.org/archive/MASTOW-2v6
 - Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*. https://www.nature.com/articles/s41586-025-08888-1
-- Gamez, D. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Entropy*, 24(4). https://pmc.ncbi.nlm.nih.gov/articles/PMC9038821/
+- Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707. https://pmc.ncbi.nlm.nih.gov/articles/PMC9038821/
 - Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4).
 - Hagan, S., et al. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6). https://link.aps.org/doi/10.1103/PhysRevE.65.061901
 - Stanford Encyclopedia of Philosophy: "Dualism." https://plato.stanford.edu/entries/dualism/

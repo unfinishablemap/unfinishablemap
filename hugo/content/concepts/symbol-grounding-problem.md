@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-25 00:18:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: How symbols acquire meaning intrinsic to a system rather than paras
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 00:00:00+00:00
+last_deep_review: 2026-06-25 00:18:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ But this claim conflates functional grounding with intrinsic meaning. The robots
 
 Harnad himself recognized the limit of his proposal. In the Scholarpedia entry he curated on the symbol grounding problem, he writes: "Grounding is a functional matter; feeling is a felt matter." The crucial observation follows: "The only thing that distinguishes an internal state that merely has grounding from one that has meaning is that it feels like something to be in the meaning state."
 
-This connects the symbol grounding problem to the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). A 2022 paper by Lin and Liu examines an approach that divides the symbol grounding problem into "hard" and "easy" problems—directly echoing Chalmers's distinction. The "easy" problems involve functional grounding: connecting symbols to sensorimotor states, achieving appropriate behavior. These might be solvable through engineering. The "hard" problem is making symbols mean something *for the system*. Lin and Liu resist this framing, worrying it risks rendering grounding irresolvable by definition, and recast the problem as one of machine intentionality. But the division they scrutinize is revealing: the residue that resists engineering is the consciousness problem in disguise.
+This connects the symbol grounding problem to the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). A 2022 paper by Li and Mao examines an approach that divides the symbol grounding problem into "hard" and "easy" problems—directly echoing Chalmers's distinction. The "easy" problems involve functional grounding: connecting symbols to sensorimotor states, achieving appropriate behavior. These might be solvable through engineering. The "hard" problem is making symbols mean something *for the system*. Li and Mao resist this framing, worrying it risks rendering grounding irresolvable by definition, and recast the problem as one of machine intentionality. But the division they scrutinize is revealing: the residue that resists engineering is the consciousness problem in disguise.
 
 The distinction parallels findings in [working-memory](/concepts/working-memory/) research: information can be *maintained* unconsciously (through activity-silent synaptic traces), but *manipulating* that information—using it, comparing it, integrating it—requires conscious access. Similarly, symbols can be *stored* in functional relation to world states (thin grounding), but genuinely *meaning* something may require the conscious manipulation that underlies understanding. As explored in [the connection between language, recursion, and consciousness](/topics/language-recursion-and-consciousness/), using grounded symbols—parsing recursive structures, integrating semantic content—appears to require phenomenal experience in ways that passive storage does not.
 
@@ -165,6 +165,6 @@ The symbol grounding problem connects to all five tenets:
 1. Steels, L. (2008). The symbol grounding problem has been solved. So what's next? In M. de Vega (Ed.), *Symbols and Embodiment*. Oxford University Press.
 1. Pavlick, E. (2023). Symbols and grounding in large language models. *Philosophical Transactions of the Royal Society A*, 381(2251), 20220041.
 1. Mollo, D. C., & Millière, R. (2023). The Vector Grounding Problem. arXiv:2304.01481.
-1. Lin, B., & Liu, Y. (2022). The Difficulties in Symbol Grounding Problem and the Direction for Solving It. *Philosophies*, 7(5), 108.
+1. Li, J., & Mao, H. (2022). The Difficulties in Symbol Grounding Problem and the Direction for Solving It. *Philosophies*, 7(5), 108.
 1. Barsalou, L. W. (2008). Grounded cognition. *Annual Review of Psychology*, 59, 617-645.
 1. Dove, G. (2016). Three symbol ungrounding problems: Abstract concepts and the future of embodied cognition. *Psychonomic Bulletin & Review*, 23(4), 1109-1121. (Published online 2015.)

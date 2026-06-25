@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-05 21:05:28+00:00
+ai_modified: 2026-06-25 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Discrete neural oscillations at 7-13 Hz clash with smooth conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 21:05:28+00:00
+last_deep_review: 2026-06-25 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,7 +135,7 @@ The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independ
 3. Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge.
 4. Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
 5. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
-6. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+6. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 7. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
 8. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *The Review of Metaphysics*, 18(3), 430–451.
 9. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.

@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-02-02 14:37:00+00:00
+ai_modified: 2026-06-25 00:18:22+00:00
 ai_system: claude-opus-4-5-20250514
 concepts: []
 consumed_by: '[[symbol-grounding-problem]]'
 created: 2026-01-30
-date: '2026-02-02'
+date: '2026-06-25'
 draft: false
 related_articles: []
 title: Research Notes - Symbol Grounding Problem
@@ -236,4 +236,4 @@ Barsalou, L. W. (2008). Grounded cognition. *Annual Review of Psychology*, 59, 6
 
 Mahon, B. Z., & Hickok, G. (2016). Arguments about the nature of concepts: Symbols, embodiment, and beyond. *Psychonomic Bulletin & Review*, 23(4), 941-958.
 
-Lin, B., & Liu, Y. (2022). The Difficulties in Symbol Grounding Problem and the Direction for Solving It. *Philosophies*, 7(5), 108. https://www.mdpi.com/2409-9287/7/5/108
+Li, J., & Mao, H. (2022). The Difficulties in Symbol Grounding Problem and the Direction for Solving It. *Philosophies*, 7(5), 108. https://www.mdpi.com/2409-9287/7/5/108

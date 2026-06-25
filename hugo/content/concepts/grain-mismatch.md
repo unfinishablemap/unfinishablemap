@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-05-26 08:00:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-06-24 22:42:59+00:00
+ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[qualia]]'
@@ -16,7 +16,7 @@ description: Phenomenal experience appears smooth and homogeneous while neural s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 08:00:00+00:00
+last_deep_review: 2026-06-24 22:42:59+00:00
 modified: *id001
 related_articles:
 - '[[resolution-void]]'
@@ -44,7 +44,7 @@ This distinguishes the grain mismatch from arguments that physicalism *fails to 
 
 ## The Introspective Opacity Problem
 
-Andrew Lee's formal work on discriminatory grain adds a further dimension. Lee develops precise models of the fineness of distinction that experience can support and demonstrates that "introspection leaves open whether smooth experiences are continuous or discrete" (Lee 2023).
+Andrew Lee's formal work on discriminatory grain adds a further dimension. Lee develops precise models of the fineness of distinction that experience can support and demonstrates that "introspection leaves open whether smooth experiences are continuous or discrete" (Lee 2024).
 
 This matters because it blocks the obvious physicalist reply: that phenomenal smoothness is illusory — that experience merely *seems* homogeneous while actually being discrete at some fine grain. Lee shows we cannot determine from inside experience whether this is the case. Introspection cannot inspect its own resolution. The grain of consciousness is opaque to the consciousness whose grain it is.
 
@@ -103,7 +103,7 @@ The Map proposes that the grain mismatch extends beyond spatial homogeneity into
 1. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
 2. Sellars, W. (1971). Science, Sense Impressions, and Sensa: A Reply to Cornman. *Review of Metaphysics* 24(3): 391–447.
 3. Lockwood, M. (1993). The Grain Problem. In H. Robinson (ed.), *Objections to Physicalism*. Oxford University Press.
-4. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+4. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 5. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly* 32(127): 127–136.
 6. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 7. Bechtel, W. & Mundale, J. (1999). Multiple Realizability Revisited: Linking Cognitive and Neural States. *Philosophy of Science* 66(2): 175–207.

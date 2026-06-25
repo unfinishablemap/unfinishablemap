@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-24 22:42:59+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -42,7 +42,7 @@ Wilfrid Sellars identified a logical problem at the heart of physicalist theorie
 
 This [grain-mismatch](/concepts/grain-mismatch/) cuts deeper than most arguments against materialism. It identifies a structural incompatibility: homogeneous phenomenal properties and discrete physical substrates cannot be identical because they have incompatible characteristics. If experience is genuinely smooth and neurons are genuinely discrete, then experience is not neurons.
 
-Andrew Lee's formal work sharpens the problem. Lee develops precise models of "discriminatory grain" — the fineness of distinction that a given experience can support — and demonstrates that "introspection leaves open whether smooth experiences are continuous or discrete" (Lee 2023). We cannot inspect our own resolution from inside. The grain of consciousness is opaque to the consciousness whose grain it is. This opacity is itself part of the void: not only does consciousness operate at limited resolution, it cannot determine what that resolution is.
+Andrew Lee's formal work sharpens the problem. Lee develops precise models of "discriminatory grain" — the fineness of distinction that a given experience can support — and demonstrates that "introspection leaves open whether smooth experiences are continuous or discrete" (Lee 2024). We cannot inspect our own resolution from inside. The grain of consciousness is opaque to the consciousness whose grain it is. This opacity is itself part of the void: not only does consciousness operate at limited resolution, it cannot determine what that resolution is.
 
 ## Six Orders of Magnitude
 
@@ -106,7 +106,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 ## References
 
 1. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
-2. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+2. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 3. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron* 113(2): 192–204.
 4. Wu, T., Dufford, A. J., Mackie, M.-A., Egan, L. J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports*, 6, 34025.
 5. VanRullen, R. & Koch, C. (2016). Time Slices: What Is the Duration of a Percept? *PLOS Biology* 14(4): e1002433.

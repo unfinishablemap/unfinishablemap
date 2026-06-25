@@ -141,6 +141,6 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 - Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 - Barsalou, L. W. (2008). Grounded cognition. *Annual Review of Psychology*, 59, 617-645.
 - Steels, L. (2008). The symbol grounding problem has been solved. So what's next? In M. de Vega (Ed.), *Symbols and Embodiment: Debates on Meaning and Cognition*. Oxford University Press.
-- Mollo, D. C., & Millière, R. (2023). Symbols and grounding in large language models. *Philosophical Transactions of the Royal Society A*, 381(2251).
-- Piantadosi, S., & Hill, F. (2023). The Vector Grounding Problem. arXiv:2304.01481.
-- Lin, B., & Liu, Y. (2022). The Difficulties in Symbol Grounding Problem and the Direction for Solving It. *Philosophies*, 7(5), 108.
+- Pavlick, E. (2023). Symbols and grounding in large language models. *Philosophical Transactions of the Royal Society A*, 381(2251), 20220041.
+- Mollo, D. C., & Millière, R. (2023). The Vector Grounding Problem. arXiv:2304.01481.
+- Li, J., & Mao, H. (2022). The Difficulties in Symbol Grounding Problem and the Direction for Solving It. *Philosophies*, 7(5), 108.
