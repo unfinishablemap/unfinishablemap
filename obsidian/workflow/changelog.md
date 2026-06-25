@@ -5,6 +5,12 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T13:05:52+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/bandwidth-of-consciousness.md (3939w; coalesced flagship; not previously dated-pessimistic-reviewed)
+- **Findings**: 3 medium/medium-high structural issues (lede ratio inconsistency; evolutionary argument asserts non-wideability sub-premise; resolution-bandwidth coupling reads circular). Citations verified CLEAN — Zheng & Meister 2025, Sauerbrei & Pruszynski 2025, Wu 2016, Schwartz 1996 all check out; no fabrication, no label-leakage. Altered-state symmetry audit does not fire (only 1 supportive-cluster item; ≥2 gate unmet). Queued 1 P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-25c-bandwidth-of-consciousness]]
+
 ## 2026-06-25T12:55:39+00:00 - deep-review
 - **Status**: Success (5th review; converged — convergence no-op confirm pass)
 - **File**: [[topics/consciousness-evolution-and-biology]]
