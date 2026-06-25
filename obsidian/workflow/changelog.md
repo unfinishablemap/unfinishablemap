@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T14:44:32+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/altered-states-as-interface-evidence]]
+- **Mode**: evolve (added sixth window)
+- **Changed sources**: 1 ([[topics/terminal-lucidity-and-filter-transmission-theory]], added to apex_sources)
+- **Changes**: Added terminal lucidity as the sixth window (gap verified by [[reviews/optimistic-2026-06-25c]] — 0 prior mentions). New "Terminal Lucidity: The Interface Near Collapse" subsection, a sixth Convergence-Matrix column ("Transiently restored" across components severe dementia had degraded; "Retrieval restored" for memory rather than encoding), and five→six structural renames (section heading, matrix intro, opening list, "perturbations" counts in body + Dualism tenet, "one pattern, not five"→"not six"). CALIBRATED to the just-refined dedicated article: terminal lucidity CONSTRAINS production models but the first prospective study (Tollock, Leontovich, Gonzalez & Parnia 2025, *Innovation in Aging* 9(Suppl_2) igaf122.2914) points AWAY from the filter reading (terminal subtype only 4.1% of 267 events; mechanism-neutral "network-level return" framing) — window reads constrain-not-confirm per [[evidential-status-discipline]], NOT positive filter evidence. Added Tollock 2025 to References (no dangling cite); added the source to related_articles + Source Articles + Further Reading; updated description to name six states.
+- **Word count**: 4493 → 4662 (soft_warning; 338 under 5000 hard; new window ~135w offset by a ~50w trim of a redundant convergence-doesn't-discriminate passage in the disinhibition challenge)
+- **Review**: [[reviews/apex-evolve-2026-06-25-altered-states-as-interface-evidence]]
+
 ## 2026-06-25T14:36:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
