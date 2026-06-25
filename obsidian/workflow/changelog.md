@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-24T23:29:36+00:00
+ai_modified: 2026-06-25T00:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-25T00:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Word count**: 2579 → 2579 (no body change; timestamps only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence/verification pass — 7th deep review)
+- **Citation web-verify (§2.4)**: only the changed cite re-checked. Lee, A. Y. (2024) "Consciousness and Continuity" PhilArchive LEECAC-14 (Univ. of Toronto) — state: real-correct. The 2023→2024 year edit since the last review is the corpus-wide family-resolution fix made by sibling commit 6b581a337 (changelog 2026-06-23); all 7 live files now consistent. Lee **2024** is canonical — supersedes the 2026-06-05 review's "do NOT re-flag Lee 2023" note; do NOT revert toward 2023. All other cites unchanged + verified at 2026-06-05 (incl. Zheng & Meister 2025 Neuron 113(2):192-204); not re-spent. Superlative-currency helper returned none.
+- **Reasoning-mode classification**: functionalist Mixed (Mode Two registering-vs-feeling + Mode Three residue); illusionist Mode Two (Frankish/Dennett); strict identity Mode One (Locke inversion). All unchanged; no boundary-substitution, no label leakage.
+- **Convergence note**: only changes since 2026-06-05 were a sibling-driven citation-year family-resolution + a cosmetic cross-link — both bumped ai_modified and re-qualified the page. No body edit. Recommend convergence-exclusion until the body is substantively modified.
+- **Output**: [[reviews/deep-review-2026-06-25-neural-refresh-rates]]
 
 ## 2026-06-25T00:18:22+00:00 - deep-review
 - **Status**: Success

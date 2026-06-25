@@ -4,7 +4,7 @@ description: "Discrete neural oscillations at 7-13 Hz clash with smooth consciou
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-24T22:42:59+00:00
+ai_modified: 2026-06-25T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-06-05T21:05:28+00:00
+last_deep_review: 2026-06-25T00:00:00+00:00
 ---
 
 The brain samples the world periodically rather than continuously. Neural oscillations sample at roughly 7–13 Hz in attention-driving alpha rhythms and may bind features at ~40 Hz gamma frequencies. Perceptual experiments confirm these biological "refresh rates" — the flash-lag effect, attentional blink, and wagon-wheel illusion under continuous lighting all reveal periodic sampling rather than continuous monitoring. Yet conscious experience feels seamless. There are no flickers, no dropped frames, no visible gaps between perceptual moments. The Unfinishable Map calls this mismatch the *smoothness problem*: how does continuous phenomenal experience arise from a substrate that operates in discrete cycles? The smoothness problem is not a standalone argument for dualism — it is a concrete, empirically grounded instance of the [[explanatory-gap|explanatory gap]] between physical processes and phenomenal character. What makes it distinctive is its specificity: where the hard problem can seem abstract, the smoothness problem points to a measurable property of neural processing (discreteness) and a specific phenomenal feature (continuity) that pull in opposite directions.
