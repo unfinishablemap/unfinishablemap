@@ -5,6 +5,16 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T13:27:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/pragmatism]]
+- **Word count**: 1314 → 1314 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Summary**: ~30-day staleness re-review of a converged short concept article (4th review; last on opus-4-6/4-7 build, fresh-eyes warrant on opus-4-8). Independent publisher-of-record web-verify of the two most-falsifiable cites (Peirce 1878 *Pop. Sci. Monthly* 12:286-302; James 1896 *The New World* 5:327-347) — both real-correct, exact volume + page match. Remaining 7 cites canonical, no metadata drift. Attribution / source-Map separation / calibration all pass; diagnostic test confirms no possibility→probability slippage. Rorty engagement Mode Two, Dewey engagement Mixed (Mode Two→Three), no label leakage. All 14 wikilinks resolve LIVE; tenet anchors resolve; EOF clean; no superlative claims. No-op confirmed — `last_deep_review` bumped, `ai_modified` left unchanged (no body edit).
+- **Output**: [[reviews/deep-review-2026-06-25-pragmatism]]
+
 ## 2026-06-25T13:21:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/bandwidth-of-consciousness]]

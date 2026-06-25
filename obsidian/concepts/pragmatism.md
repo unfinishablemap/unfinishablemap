@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
-last_deep_review: 2026-05-26T13:45:57+00:00
+last_deep_review: 2026-06-25T13:27:00+00:00
 ---
 
 Pragmatism is the philosophical tradition that evaluates ideas by their practical consequences — what difference does believing this make to how we act, inquire, and live? Founded in 19th-century America by Charles Sanders Peirce, William James, and John Dewey, pragmatism rejects the idea that truth consists in mirroring an independent reality. Instead, truth is what works: beliefs earn their status by guiding action successfully, resolving genuine problems, and opening productive lines of inquiry. The Unfinishable Map finds in pragmatism a method that, when applied consistently to consciousness, supports [[interactionist-dualism]] rather than the [[concepts/materialism|materialism]] most contemporary pragmatists assume.
