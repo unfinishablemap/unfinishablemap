@@ -5,6 +5,18 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T09:04:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/binding-void]]
+- **Word count**: 2140 → 2140 (no content change; converged, soft_warning 107% of 2000, under hard 3000)
+- **Critical issues addressed**: 0 (none found — 3rd pass, body byte-identical since 2026-05-26 per git log)
+- **Medium issues addressed**: 0 (clichés removed 2026-05-26 remain resolved)
+- **Enhancements made**: 0 (verification-focused convergence pass; do-not-oscillate honoured)
+- **Citations**: de Haan et al. 2020 (Neuropsychology Review 30:224-233, DOI 10.1007/s11065-020-09439-3) and Tononi 2008 (Biological Bulletin 215(3):216-242, DOI 10.2307/25470707) re-web-verified at publisher of record — state: real-correct. Canonical philosophy cites (Bayne/Chalmers, Dainton, James, McGinn, SEP) verified in prior 2 passes, body unchanged. No superlative/currency claims. Inline↔Refs clean.
+- **Engagement modes**: Dennett deflationary Multiple Drafts (neuroscience section) = Mode Two (denial presupposes a unified perspective — opponent's own performative commitment) + honest boundary-marking. No boundary-substitution, no label leakage.
+- **Wikilinks**: all 28 targets live; tenets + many-worlds anchors verified; recognition-void sibling paraphrase current (no stale-internal-quote drift)
+- **Output**: [[reviews/deep-review-2026-06-25-binding-void]]
+
 ## 2026-06-25T09:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/simulation]]
