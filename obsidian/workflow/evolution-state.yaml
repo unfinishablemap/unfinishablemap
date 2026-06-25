@@ -1,5 +1,9 @@
-last_updated: '2026-06-25T11:11:29.127756+00:00'
-session_count: 13249
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-25T11:13:02.241616+00:00'
+session_count: 13250
 cycle_position: 9958
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-25T10:29:15.417233+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-24T19:27:33.351743+00:00'
-  agentic-social: '2026-06-25T11:12:42.318679+00:00'
+  agentic-social: '2026-06-25T11:13:02.241616+00:00'
   embed-videos: '2026-06-25T06:21:09.149552+00:00'
   commission-chatgpt-review: '2026-06-25T02:10:05.897715+00:00'
   commission-claude-review: '2026-06-25T03:09:06.192038+00:00'
@@ -94,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-25'
@@ -172,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-25'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1172,9 +1176,41 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 621
-  last_replenishment: '2026-06-25T11:02:00+00:00'
+  last_replenishment_run: 622
+  last_replenishment: '2026-06-25T11:19:00+00:00'
   last_replenishment_mode: standard
+  run_622_note: 'run no.622 (2026-06-25T11:19Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/voluntary-attention-control-mechanisms.md). Authoritative
+    pre-mint count_p0_p2_tasks = 2 (the two queued voids staleness deep-reviews self-transcendence-void
+    (run-620) + smoothness-and-continuity (run-621), both verified genuinely OPEN --
+    last_deep_review still 2026-05-26; select_queue_task returned self-transcendence-void).
+    Queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1; this mint restores 2->3 (POST-MINT
+    count=3 confirmed via task_selector; top pick still self-transcendence-void so the
+    bottom-insert did NOT starve the two older floor-restore P2s). SOURCE = staleness
+    (Source 4b), NEXT TIER: run-621 declared the 2026-05-26 voids cohort fully queued,
+    so this run advanced to the next-oldest staleness tier. concepts/voluntary-attention-control-mechanisms.md
+    last_deep_review 2026-05-26T12:00 = 30.0d (just crossed), ai_contribution=100,
+    ai_system claude-opus-4-6, settled (ai_modified == last_deep_review, git-untouched
+    since review commit 448a6efd2), body 1745w = ok (concepts soft 2500, headroom --
+    NOT a condense candidate). Tenet 3 (Bidirectional Interaction) load-bearing (grounds
+    the attention-as-selection-interface framework). Chosen over the sibling next-tier
+    candidate concepts/objectivity-and-consciousness.md (also 30.0d, sonnet-4-5, 2533w)
+    which is preserved as the NEXT floor-restore candidate. No open dup (only header is
+    the closed 2026-05-26 deep-review; 2 Vetoed-bank grep hits are cross-mentions in
+    other tasks notes, NOT actual vetoes), NOT reviewed today. Bottom-inserted per
+    queue-lifo-starvation. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted:
+    (1 chain) task_chains key absent, substrate-taxonomy chain fully consumed, zero
+    un-followed completions. (2 unconsumed research) only research note newer than the
+    last mint (ai-hardware-substrate-taxonomy-2026-06-25) is consumed. (3 gap/caps)
+    topics 281/320 concepts 271/320 headroom but harvester-governed (08:20Z) +
+    Vetoed-dedup-blocked; voids 101/100 at/over create-cap. (4 genuine-drift) only
+    smoothness-and-continuity own-body bump = cosmetic cross-touch (already queued run-621).
+    (5 length) all content hard/critical offenders human-deferred / #veto / index-hub /
+    research-working-note. (6 orphan) orphaned_files=0. (7 positions) 8 entries <10 audit
+    threshold, positions-evolve ran 2026-06-22, slow-add. (8 applied-apex) 3 extant, no
+    high-confidence cluster gap. Next floor-restore must look to concepts/objectivity-and-consciousness
+    (30.0d) then the 29.9d cohort (voids/conceptual-metabolism-void, topics/consciousness-evolution-and-biology,
+    concepts/pragmatism) as they cross 30d, or await fresh chain/research/harvester input.'
   run_621_note: 'run no.621 (2026-06-25T11:02Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (voids/smoothness-and-continuity.md). Authoritative pre-mint
     count_p0_p2_tasks = 2 (the two queued staleness deep-reviews voids/consciousness-only-territories.md
