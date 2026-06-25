@@ -4,8 +4,8 @@ description: "Why consciousness resists the view from nowhere. Scientific object
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-05-26T12:00:00+00:00
-last_deep_review: 2026-05-26T12:00:00+00:00
+ai_modified: 2026-06-25T12:21:43+00:00
+last_deep_review: 2026-06-25T12:21:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -184,7 +184,7 @@ Tomasello, M., & Carpenter, M. (2007). "Shared intentionality." *Developmental S
 
 Varela, F. J. (1996). "Neurophenomenology: A methodological remedy for the hard problem." *Journal of Consciousness Studies*, 3(4), 330-349.
 
-Wolf, W., & Tomasello, M. (2025). "A Shared Intentionality Account of Uniquely Human Social Bonding." *Perspectives on Psychological Science*. https://journals.sagepub.com/doi/10.1177/17456916231201795
+Wolf, W., & Tomasello, M. (2025). "A Shared Intentionality Account of Uniquely Human Social Bonding." *Perspectives on Psychological Science*, 20(2), 264-275. https://journals.sagepub.com/doi/10.1177/17456916231201795
 
 Sandved-Smith, L., Bogotá, J. D., Hohwy, J., Kiverstein, J., & Lutz, A. (2025). "Deep computational neurophenomenology: a methodological framework for investigating the how of experience." *Neuroscience of Consciousness*, 2025(1), niaf016. https://academic.oup.com/nc/article/2025/1/niaf016/8222537
 
