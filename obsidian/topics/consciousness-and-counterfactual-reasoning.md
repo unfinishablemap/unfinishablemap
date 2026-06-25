@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-05-28T00:00:00+00:00
+last_deep_review: 2026-06-25T20:39:40+00:00
 ---
 
 Counterfactual reasoning—the capacity to imagine what isn't, wasn't, or might not be—poses a challenge for physicalist accounts of mind that goes beyond the familiar [[hard-problem-of-consciousness|hard problem]]. The hard problem asks why any processing is conscious; the counterfactual problem asks something more specific. Representing a counterfactual requires holding a scenario in a dual status—treated as informatively real for reasoning purposes while simultaneously tagged as non-actual—and this dual status must be *phenomenally present* to the reasoner, not merely encoded in a data structure. Computers manipulate counterfactual representations routinely (game trees, simulations, planning algorithms), yet nothing about their processing involves grasping non-actuality as non-actual. The Unfinishable Map argues that this phenomenal grasp of dual status—actuality and non-actuality held together in conscious awareness—points toward an irreducible mental dimension that formal computation alone does not provide.
