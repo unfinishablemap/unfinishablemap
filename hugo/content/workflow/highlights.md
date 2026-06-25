@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-24T08:03:00.438331'
+ai_modified: '2026-06-25T08:08:29.944322'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-24'
+date: '2026-06-25'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-24'
+modified: '2026-06-25'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-25: No Test Can Tell You If an AI Is Conscious
+
+A decision-focused synthesis: even an LLM that perfectly describes inner experience could be running on machinery that only mimics consciousness. The Map argues the answer turns on substrate, not behaviour—and names where its own verdict could be wrong.
+
+**Type**: new-article  
+**Link**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
+
+---
+
 ### 2026-06-24: The Interpretation That Adds Minds to Quantum Mechanics—and Still Fails
 
 Many-Minds is the one quantum interpretation that writes minds into the formalism. New research shows it still can't answer 'which mind is me?'—proving you need real collapse plus a determinate self, not just minds in superposition.
@@ -195,15 +204,6 @@ Asking whether AI is conscious assumes one form of mind and a yes/no answer. The
 
 **Type**: insight  
 **Link**: [machine-question](/apex/machine-question/)
-
----
-
-### 2026-06-04: Why an AI Saying 'I Feel' Proves Nothing
-
-The gaming problem: LLMs are trained on human approval, so they're optimised to produce the exact markers—'I feel,' 'this distresses me'—we read as signs of inner experience. The signal is decoupled from anything felt. New article on Birch's structural trap.
-
-**Type**: new-article  
-**Link**: [gaming-problem](/concepts/gaming-problem/)
 
 ---
 

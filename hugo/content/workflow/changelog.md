@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-25T07:55:37+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Process ChatGPT outer-review site-methodology proposals (#15–#20) — disposition, not article edits
+- **Result**: No new methodology doc created — all six decline/defer/already-covered against the very mature existing machinery ([coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) 16 countermeasures, [evidential-status-discipline](/project/evidential-status-discipline/), [calibration-audit-triple](/project/calibration-audit-triple/)). Respected P-M5 (disclosure ≠ self-correction; new machinery needs ratification — cf. Countermeasure 16 proposed-pending).
+- **Dispositions** (recorded in `reviews/outer-review-2026-06-25-chatgpt-5-5-pro.md`): #15 decline-duplicative (evidential-status + C11/C12 + framework-internal marking); #16 defer-operator (frontmatter schema, interacts with C6 + literature-drift); #17 defer-operator (dependency-graph tooling; manual "Argued in" back-refs exist + P-AC1 gap fixed this cycle); #18 largely-covered (C9/C13/C16; converges with Claude b6); #19 adopt-already-practiced (evidential-status + apex Rec-3 separate p(conscious) from action-threshold); #20 content-candidate (substrate taxonomy → expand-topic/harvest).
+- **No queue tasks minted** (all decline/defer/already-practiced/content-pipeline).
+- **Files**: `reviews/outer-review-2026-06-25-chatgpt-5-5-pro.md`
+
 ## 2026-06-25T07:37:13+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Outer review 2026-06-25 (ChatGPT 5.5 Pro), sibling-article improvements #8–#14 (items a–g). Length-neutral / small-addition edits; new citations web-verified at publisher-of-record before adding.
