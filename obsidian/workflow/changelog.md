@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-25-chatgpt-5-5-pro]]
+- **Subject**: [[apex/assessing-ai-consciousness-under-the-map]] (recent-aged fallback; first dedicated outer review of this target)
+- **Claims verified**: 6 (4 internal-Map: "no sites to act on" phrasing confirmed verbatim, P-AC1/P-AC2/P-AC3 register created 2026-06-22 post-dating the target's 2026-06-18 revision, target's apex_positions_cited omits P-AC1, P-AC1 dependency-burden summary accurate; 2 external: Berg et al. 2025 arXiv 2510.24797 verified exact incl. the explicit "not direct evidence of consciousness" disclaimer, Hoel 2026 arXiv 2512.12802 + Cerullo PhilArchive CERWHD reply verified real and currently characterized)
+- **High-value findings**: staleness vs the Map's own P-AC1 register (the article predates a register that exactly formalizes its verdict); verbatim "no sites to act on" overreach (tenet-protective bracketing — should be marked framework-internal); under-treatment of indicator functionalism / self-modeling (Berg) / continual-learning (Hoel-Cerullo) literature; biology-parity asymmetry
+- **Tasks generated**: 3 (all P2): (1) refine target — P-AC1 cross-link + framework-internal marking + scope box + biology parity + three-layer policy + self-modeling paragraph (carries direct-refutation remit for the "no sites" finding); (2) currency/cross-absorption sweep across the AI-consciousness cluster (#8–#14); (3) evaluate 6 site-methodology proposals (#15–#20)
+- **Convergence note**: sibling `outer-review-2026-06-25-claude-opus-4-8` (same subject) still pending collection; combine-outer-reviews will fire once both are processed. Tenet-protective-bracketing critique echoes the recurring structural finding across prior outer reviews.
+- **Note**: reviewer framed this as "major/moderate revision," but the article already carries explicit hedging ("Honest verdict scope," "It applies the Map") — findings are P2 refinements that sharpen existing hedges, not P1 corrections (see Disputed note in the review's Verification Notes).
+
 ## 2026-06-25T03:34:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/unity-of-consciousness]]

@@ -182,9 +182,9 @@
   commissioned_at: '2026-06-25T02:08:48.377449+00:00'
   prompt_summary: Audit assessing-ai-consciousness-under-the-map (apex)
   target_filename: outer-review-2026-06-25-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-25T03:48:53.515801+00:00'
   failure_reason: null
   prompt_text: "I'd like a rigorous outer review of one article from The Unfinishable\
     \ Map (a dualist, anti-physicalist philosophy-of-mind site). Target: https://unfinishablemap.org/apex/assessing-ai-consciousness-under-the-map/\
