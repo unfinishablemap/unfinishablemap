@@ -5,6 +5,18 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/integrated-information-theory]]
+- **Word count**: 3462 → 3462 (no change — strict length-neutral, 38w under hard ceiling)
+- **Critical issues addressed**: 0 (none found — 9th review, 4th consecutive clean pass)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged article; currency-verification-only pass per prior stability notes)
+- **Citations web-verified (publisher of record)**: COGITATE 2025 (Nature s41586-025-08888-1, current; 2nd experiment still unpublished) — real-correct; IIT 4.0 (no IIT 5.0 exists as of June 2026) — real-correct; Kerskens & López Pérez 2022 (IOPscience, no independent replication as of 2025, article's "preliminary and disputed" hedge accurate) — real-correct; pseudoscience letter survey (8%/60, 20% disagreed) — real-correct; IIT-Concerned 2025 *Nat Neurosci* 28:689-693 (DOI s41593-025-01881-x, "IIT-Concerned" is genuine collective byline, NOT placeholder; page range exact) — real-correct
+- **Deliberate non-addition**: sibling [[topics/consciousness-and-integrated-information]]'s three new 2024-26 cites (Corcoran 2026, Lopez & Montemayor 2025, Merker et al. 2022) NOT added here — 38w headroom under hard ceiling + concept/topic division of labour + would duplicate sibling
+- **Frontmatter**: only `last_deep_review` bumped (no content change; `ai_modified` left at 2026-06-07)
+- **Output**: [[reviews/deep-review-2026-06-25-integrated-information-theory]]
+
 ## 2026-06-25T04:25:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable at commission — confirmed by the "Claude Fable 5 is currently unavailable" banner; collect leg auto-named the file after the model that ran)

@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-06-04T00:00:00+00:00
+last_deep_review: 2026-06-25T00:00:00+00:00
 ---
 
 Integrated Information Theory (IIT) proposes that consciousness *is* integrated information—not that it correlates with or emerges from it, but that consciousness and integrated information are identical. Developed by neuroscientist Giulio Tononi, IIT offers one of the most mathematically rigorous theories of consciousness, complete with a quantitative measure (phi/Φ) that purports to capture how conscious any system is.
