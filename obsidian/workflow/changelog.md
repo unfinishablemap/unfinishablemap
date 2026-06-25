@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T10:55:54+00:00 - deep-review
+- **Status**: Success (converged 6th review; no body changes — verification pass)
+- **File**: [[voids/collective-cognitive-limits]]
+- **Word count**: 2159 → 2159 (no change; 108% of soft 2000 voids target, below 3000 hard — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (last_deep_review + ai_modified bumped to 2026-06-25T10:55:54+00:00)
+- **Verification**: all 13 wikilink targets resolve to live obsidian files (no archive-only, no broken); 2026-05-26 thoughts-that-slip-away→thought-stream-void repoint intact. Four tenet anchors present. Trivers attribution-via-cross-link confirmed grounded in naturally-occluded.md (von Hippel & Trivers 2011, BBS 34(1):1-16, verbatim). No superlative claims (currency sweep empty). §2.4 publisher web-verify N/A — no Author-et-al-YYYY empirical cites; References are canonical foundational works verified across 5 prior reviews, unchanged since. Calibration clean (tenet parallels, not evidence-upgrade; WEIRD caveat bounds universality). No EOF artifact, no cliché, no label leakage.
+- **Engagement modes** (changelog-only): N/A — cites Kuhn/Zerubavel/McGinn/Trivers as frameworks built on, not named opponents refuted in-body; eliminative-materialist/Buddhist/Dennett objections tracked as bedrock in editor's notes.
+- **Output**: [[reviews/deep-review-2026-06-25-collective-cognitive-limits]]
+
 ## 2026-06-25T10:51:44+00:00 - deep-review
 - **Status**: Success (converged 7th review; no body changes — convergence/cross-link verification pass)
 - **File**: [[concepts/biological-computationalism]]
