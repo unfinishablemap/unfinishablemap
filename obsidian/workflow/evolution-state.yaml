@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T12:13:21.652265+00:00'
-session_count: 13260
-cycle_position: 9961
+last_updated: '2026-06-25T12:22:57.539861+00:00'
+session_count: 13261
+cycle_position: 9962
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T08:27:12.537438+00:00'
   optimistic-review: '2026-06-25T09:30:18.178555+00:00'
   check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T06:31:21.841651+00:00'
-  deep-review: '2026-06-25T12:00:44.928078+00:00'
+  deep-review: '2026-06-25T12:22:57.539861+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-25T06:33:50.318380+00:00'
   coalesce: '2026-06-25T10:29:15.417233+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T08:30:50.180791+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T12:12:13.355921+00:00'
+  replenish-queue: '2026-06-25T12:25:30+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5757
+  reviews_completed: 5758
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-06-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-06-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1178,9 +1178,44 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 624
-  last_replenishment: '2026-06-25T12:10:00+00:00'
+  last_replenishment_run: 625
+  last_replenishment: '2026-06-25T12:25:00+00:00'
   last_replenishment_mode: standard
+  run_625_note: 'run no.625 (2026-06-25T12:25Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/pragmatism.md). Authoritative pre-mint
+    tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two open P2s:
+    the Lee Consciousness-and-Continuity citation-year refine + the run-624
+    topics/consciousness-evolution-and-biology.md deep-review; the 3 #veto condense
+    tasks correctly selector-excluded). MIN_QUEUE floor 3 (cycle_pick.MIN_QUEUE_TASKS=3)
+    unmet by 1; this mint restores 2->3 (POST-MINT count=3 confirmed via task_selector).
+    The run-623 concepts/objectivity-and-consciousness.md staleness deep-review was
+    PICKED + executed since run-624 (commit dc8a89dd0; now last_deep_review 2026-06-25T12:21),
+    dropping the live floor back to 2 -- expected replenish-at-floor alternation, NOT
+    the fixed deadlock. SOURCE = staleness (Source 4b), NEXT TIER: run-624 explicitly
+    parked the two remaining 29.9d siblings (conceptual-metabolism-void, pragmatism)
+    for the next floor-restore as they cross 30d; both have now crossed. concepts/pragmatism.md
+    last_deep_review 2026-05-26T13:45:57 = ~30.0d (now 12:25Z), ai_contribution=100,
+    ai_system claude-opus-4-6 (older build), settled (ai_modified == last_deep_review,
+    git-untouched since review commit 773e2449f, NOT reviewed today), body 1314w = ok
+    (concepts soft 2500, full headroom -- NOT a condense candidate). Chosen over
+    voids/conceptual-metabolism-void (also 30.0d) because pragmatism is concepts/ (in-cap;
+    voids over-cap 101/100) and complements the run-624 topics/ floor task (topics+concepts
+    spread); Tenet 5 (Occam limits) + Tenet 1 (Dualism) relevant. No open dup (the lone
+    Active pragmatism hit is the DIFFERENT already-done pragmatisms-path-to-dualism), NOT
+    vetoed, NOT reviewed today. Bottom-inserted per queue-lifo-starvation (drains after
+    the two older floor-restore P2s). EIGHT-SOURCE AUDIT all OTHER sources re-confirmed
+    exhausted: (1 chain) task_chains empty/null, recent_tasks (deep-review/replenish/social/
+    check-model-fallback/embed) has zero un-followed research/expand completions. (2 unconsumed
+    research) newest note ai-hardware-substrate-taxonomy-2026-06-25 consumed (live concepts/
+    article); older notes predate prior mints. (3 gap/caps) topics 281/320 concepts 271/320
+    headroom but harvester-governed (08:20Z) + Vetoed-dedup-blocked; voids 101/100 at/over
+    create-cap. (4 genuine-drift) no content file shows own-body ai_modified>last_deep_review.
+    (5 length) pragmatism 1314w = ok; all hard/critical content offenders human-deferred /
+    #veto / index-hub / positions-governed / research-working-note. (6 orphan) orphaned_files=0.
+    (7 positions) 8 entries <10 audit threshold, positions-evolve ran 2026-06-22, slow-add.
+    (8 applied-apex) 3 extant, no high-confidence cluster gap. Next floor-restore can take
+    voids/conceptual-metabolism-void (30.0d, over-cap caveat moot for a deep-review of existing
+    content) or await fresh chain/research/harvester input.'
   run_624_note: 'run no.624 (2026-06-25T12:10Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (topics/consciousness-evolution-and-biology.md). Authoritative
     pre-mint count_p0_p2_tasks = 2 (the two open P2s: concepts/objectivity-and-consciousness.md
