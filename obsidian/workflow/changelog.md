@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T17:30:48+00:00 - apex-evolve
+- **Status**: Success (genuine recalibration drift fixed — not the stale-field artifact)
+- **File**: [[apex/contemplative-path]]
+- **Word count**: 3887 → 3988 (+101; ok, under apex soft 4000)
+- **Updates**: 3 — (1) Aesthetic Dimension softened to constrain-not-establish, matching the recalibrated `aesthetics-and-consciousness` source (no piecemeal reduction succeeds; holistic reduction the open question; bare phenomenology doesn't settle it against a determined opponent); (2) convergence argument bounded by affective-tone divergence (convergence is structural not total; +crosslink to affective-tone-divergence-across-meditative-traditions); (3) challenge-condition #5 enriched with the non-hedonic aesthetic register (+crosslink to the-sublime-and-negative-aesthetics).
+- **Summary**: Orchestrator-finalized after the apex-evolve fork monitor-wait-bailed; its drift subagent's 6-source analysis was verified grounded on both sides (apex overstatement phrases present; source recalibrations present in live files) before applying. The drift was claim-strength recalibration (apex overstated relative to its own since-recalibrated sources), NOT the stale-`apex_last_synthesis` artifact — though that was also present and is now resolved (apex_last_synthesis bumped 2026-04-28 → now). 3 source changes correctly NOT propagated (Yang 2025 cite not in apex; witness/introspection items already covered). Calibration tightens toward evidential-status-discipline; no cliché; stale-quote channel clean. ai_modified + apex_last_synthesis bumped; last_deep_review unchanged.
+- **Output**: [[reviews/apex-evolve-2026-06-25-contemplative-path]]
+
 ## 2026-06-25T17:05:00+00:00 - deep-review
 - **Status**: Success (staleness re-review — no-op on content; full §2.4 citation web-verify, zero defects)
 - **File**: [[topics/consciousness-and-the-ontology-of-temporal-becoming]]
