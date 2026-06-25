@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T19:36:12.252348+00:00'
-session_count: 13324
-cycle_position: 9993
+last_updated: '2026-06-25T19:41:43.926668+00:00'
+session_count: 13325
+cycle_position: 9994
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T18:55:39.501126+00:00'
   optimistic-review: '2026-06-25T14:24:29.372151+00:00'
   check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T17:14:05.932250+00:00'
-  deep-review: '2026-06-25T19:36:12.252348+00:00'
+  deep-review: '2026-06-25T19:41:43.926668+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-25T17:17:58.922625+00:00'
   coalesce: '2026-06-25T15:09:33.863051+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5785
+  reviews_completed: 5786
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-06-25'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-06-25'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-25'
   outcome: success
 - task: deep-review
@@ -1169,15 +1169,62 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 11
+  p2_tasks: 12
   p3_tasks: 8
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 642
-  last_replenishment: '2026-06-25T19:17:00+00:00'
+  last_replenishment_run: 643
+  last_replenishment: '2026-06-25T19:42:00+00:00'
   last_replenishment_mode: standard
+  run_643_note: 'run no.643 (2026-06-25T19:42Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (topics/consciousness-and-counterfactual-reasoning.md).
+    Authoritative pre-mint tools.evolution.task_selector.count_p0_p2_tasks(content)
+    = 2 (the two open P2s cognitive-integration-and-the-self run-641 + quantum-completeness
+    run-642 staleness deep-reviews, both settled, last_deep_review 2026-05-27, NOT
+    touched today; the prior-tier run-639/640 picks intrinsic-nature + lived-objectified-body-distinction
+    were both PICKED + executed since run-642 and moved to Completed/Blocked (the latter
+    is HEAD commit 00abf2356 auto deep-review), dropping the live floor back to 2;
+    the 3 veto condense tasks selector-excluded; the 8 P3s do not count toward the
+    floor). MIN_QUEUE floor 3 unmet by 1; this mint restores 2 to 3 (POST-MINT count_p0_p2_tasks
+    = 3 confirmed via task_selector). SOURCE = staleness (Source 4), 2026-05-28 ROLLING
+    FRONTIER. A FRESH full all-content-section staleness scan keyed on last_deep_review
+    age + settled (ai_modified == last_deep_review), aic>50, found the front-tier with
+    cognitive-integration-and-the-self 28.85d (QUEUED run-641), quantum-completeness
+    28.85d (QUEUED run-642), then the 2026-05-28T00:00:00 trio consciousness-and-counterfactual-reasoning
+    / phenomenal-depth / interface-friction all 28.82d. With both 2026-05-27 picks
+    already queued, the 2026-05-28T00:00:00 trio is next; among the three identical-timestamp
+    ties the deterministic FIFO tiebreak picks topics/consciousness-and-counterfactual-reasoning.md
+    (topics sorts before concepts; first-named in the run-642 frontier note and the
+    orchestrator standing note) = OLDEST genuinely-settled UNQUEUED pick (~28.82d).
+    ai_contribution=100, ai_system claude-opus-4-6, settled (ai_modified == last_deep_review
+    2026-05-28T00:00:00, last commit a38bff2d7 auto deep-review its OWN 2026-05-28 review,
+    clean tree, NOT touched since, zero commits since 2026-06-25T00:00, NO same-day
+    collision), body 2615w via tools.curate.length.analyze_length = status ok (topics
+    soft 3000 / hard 4000, full headroom -- NOT a condense candidate). Tenet 1 (Dualism)
+    -- counterfactual / modal cognition bearing on whether representing unrealised
+    possibilities is brain-side or mind-side; honour evidential-status-discipline.
+    No open dup (the only slug hits in todo.md are the run-641/642 NOTES bodies + a
+    2026-05-28 historical replenish note naming it as a NEXT/sibling candidate, NOT
+    an open task header), NOT vetoed/blocked, NOT reviewed today, NOT archived (no
+    archive/topics/consciousness-and-counterfactual-reasoning.md). EOF tool-tag artifact
+    scan clean at mint (last 2 lines = Van Hoeck 2013 + Van Inwagen 1998 References
+    entries). Bottom-inserted per queue-lifo-starvation so the two older floor-restore
+    P2s are not starved. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted:
+    (1 chain) zero un-followed research/expand completions. (2 unconsumed research)
+    newest notes consumed or seed-only for already-queued P3 research-topic tasks.
+    (3 gap/caps) topics 281/320, concepts 271/320 headroom but harvester-governed
+    (ran 14:27Z) + Vetoed-dedup-blocked; voids at/over create-cap; positions 8/80.
+    (4 genuine-drift) the broad ai_modified>last_deep_review net is cosmetic churn
+    with current June stamps; staleness Source-4 (2026-05-28) cleanly outranks every
+    drift candidate. (5 length) all hard/critical content offenders human-deferred
+    / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0. (7 positions)
+    8 entries below 10 audit threshold, positions-evolve ran 2026-06-22, slow-add.
+    (8 applied-apex) 3 extant, no high-confidence cluster gap. The 2026-05-28T00:00:00
+    trio has 2 settled aic=100 files still unqueued after this mint (phenomenal-depth,
+    interface-friction); the next floor-restore draws from them, then consciousness-and-the-physics-of-information
+    (28.07d) etc. An honest NO-MINT remains acceptable when no clean candidate exists.'
   run_642_note: 'run no.642 (2026-06-25T19:17Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/quantum-completeness.md). Authoritative pre-mint
     tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two open P2s
