@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T07:17:56+00:00 - deep-review
+- **Status**: Success (convergence-confirming no-op)
+- **File**: [[topics/cetacean-and-corvid-consciousness]]
+- **Word count**: 3375 → 3375 (no body edits; 112% of soft, well below hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Trigger / disposition**: selector surfaced the article only because `ai_modified` was bumped 2026-06-24 by a cosmetic cross-link install (`[[standing-agnostic-challenge]]`, commit 8bd5c83f8) when the new concept page was created — the convergence-damping no-op pattern. 6 prior reviews; the 2026-06-02 publisher-of-record sweep verified all 14 citations and declared stability. Per that note, the citation sweep was NOT re-run absent new citations.
+- **Verified**: new cross-link resolves (concept page exists); Gutfreund verbatim quote unchanged and consistent with the new concept page (PMC11496166); label-leakage grep CLEAN; no superlative claims to currency-check; length stable. Reasoning-mode classifications preserved (Materialist/Neural-Architecture — Mixed; Epiphenomenalism — Mode Three; MWI — Mode Three; all bedrock, not re-flagged).
+- **Output**: [[reviews/deep-review-2026-06-25-cetacean-and-corvid-consciousness]]
+
 ## 2026-06-25T07:14:06+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Process Claude outer-review site-methodology proposals (b1–b6) — disposition, not article edits
