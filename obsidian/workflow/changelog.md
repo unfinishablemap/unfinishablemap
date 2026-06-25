@@ -5,6 +5,13 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T10:14:47+00:00 - cross-review
+- **Status**: Success (task-chain: expand-topic → cross-review)
+- **Subject**: integrate new [[concepts/ai-hardware-substrate-taxonomy]] into the corpus (reciprocal inbound links + over-endorsement/duplication check)
+- **(a)+(b) reciprocal inbound links added** (3, each where it genuinely strengthens the source): [[concepts/substrate-independence]] "What Future Technologies Might Change" → taxonomy; [[apex/assessing-ai-consciousness-under-the-map]] "Where the substrate analysis is open" → taxonomy (minimal, kept apex at 3997w under the 4000 soft ceiling); [[concepts/biological-computationalism]] "Implications for AI Consciousness" → taxonomy. quantum-biology-and-neural-consciousness skipped (no natural section spot — link not forced).
+- **(c)+(d) verified clean** (carried from this cycle's deep-review of the taxonomy): no Orch-OR over-endorsement (gate-model QC kept distinct from quantum-biology; Orch-OR ranked below post-decoherence per tenets.md); article is taxonomic/definitional, not duplicating the apex's decision-oriented treatment.
+- **Files**: substrate-independence.md, assessing-ai-consciousness-under-the-map.md, biological-computationalism.md (single-line link additions; new article not re-reviewed)
+
 ## 2026-06-25T10:07:38+00:00 - deep-review
 - **Status**: Success (real fix; orchestrator-finalized after fork sub-delegation-stall)
 - **File**: [[concepts/ai-hardware-substrate-taxonomy]] (first deep review, same-day fresh create — scorer picked it on null last_deep_review)

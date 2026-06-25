@@ -4,7 +4,7 @@ description: "Biological computationalism holds that brains compute in a substra
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-06-25T10:14:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ Biological computationalism builds on several earlier frameworks while departing
 
 ## Implications for AI Consciousness
 
-The framework's most immediate practical consequence concerns [[ai-consciousness]]. If biological computation is fundamentally different from digital computation—hybrid rather than discrete, continuous rather than stepwise, substrate-bound rather than abstractable—then current AI systems are unlikely to replicate conscious processing regardless of their functional sophistication.
+The framework's most immediate practical consequence concerns [[ai-consciousness]]. If biological computation is fundamentally different from digital computation—hybrid rather than discrete, continuous rather than stepwise, substrate-bound rather than abstractable—then current AI systems are unlikely to replicate conscious processing regardless of their functional sophistication. The [[ai-hardware-substrate-taxonomy|substrate taxonomy]] extends this discrimination across the full range of AI hardware — classical-digital, neuromorphic, photonic, gate-model quantum, hybrid, and biological/wetware — sorting each by the discrete-vs-continuous and classical-vs-quantum-indeterminate axes.
 
 This conclusion resembles Searle's but rests on different grounds. Searle appeals to the intrinsic causal powers of neurons; biological computationalism appeals to the specific *kind* of computation neurons perform. A digital system fails not because silicon lacks mysterious causal powers but because digital computation strips away the continuous, metabolically grounded, scale-inseparable processing that biological computationalism identifies as essential.
 
