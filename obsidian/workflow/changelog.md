@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T21:33:45+00:00 - deep-review
+- **Status**: Success (7th deep review; converged no-op after real scrutiny; timestamps-only)
+- **File**: [[topics/consciousness-as-perceptual-architect]]
+- **Word count**: 2909 → 2909 (no edits; only last_deep_review bumped 2026-06-04 → 2026-06-25, ai_modified left at settled 2026-06-16)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0; **Low**: 0; **enhancements**: 0
+- **Summary**: 7th deep review (prior 2026-03-11/03-12/03-15/04-11/05-26/06-04). Deterministic from-disk selector pick (score 15 after 6×-prior-review convergence damping); the orchestrator's raw-age frontier candidates (phenomenology-of-conceptual-frameworks, consciousness-and-the-problem-of-induction) are settled-unchanged (ai_modified==last_deep_review) so the selector correctly EXCLUDES them — they need no review. Verified NOT reviewed today, NOT an open Active queue task (the two perceptual-architect refine tasks at todo lines 3021/3097 are below the Completed-header line 1289 — orphaned-below-Completed, not Active). Sole post-2026-06-04 change = git 01d8a604d (2026-06-16): one reciprocal cross-link sentence to the new chemosensory sibling, NO new citation, NO body rework ([[deep_review_over_reviews_converged]] cross-link-bump re-qualification). New sentence's flavour claim ("perceived flavour corresponds to no single property of the molecules on the tongue") re-grepped faithful to live sibling chemosensory-consciousness-and-the-interface.md line 35 (carvone enantiomers / Malnic 1999 combinatorial code); cross-link reciprocated 4×. §2.4: no new cite introduced; inline↔References integrity intact both directions (15 entries, no orphans); the queue-flagged "Marsh et al. 2021" concern belongs to a DIFFERENT target (apex synthesis file) — zero Marsh hits here. Mechanical: EOF clean, no banned cliché, find_superlative_claims zero hits (currency N/A), length 2909/3000 soft OK. Calibration: underdetermination passage + Bidirectional-Interaction tenet paragraph decline tenet-as-evidence-upgrade — no slippage. Reasoning-mode unchanged (enactivists Mode Two→Three, physicalists Mode Two, parsimony Mode Two; no label leakage). NO-OP hygiene: last_deep_review bumped, ai_modified left settled (no body fix). date -u-verified timestamp not future. Firmly converged — deprioritise unless body substantively modified.
+- **Output**: [[reviews/deep-review-2026-06-25-consciousness-as-perceptual-architect]]
+
 ## 2026-06-25T21:24:00+00:00 - deep-review
 - **Status**: Success (5th deep review; converged; one low style fix)
 - **File**: [[topics/consciousness-and-the-physics-of-information]]
