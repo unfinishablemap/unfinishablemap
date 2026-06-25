@@ -4,7 +4,7 @@ description: "Samkhya divides reality into consciousness, mind, and matter—pla
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-25T17:47:56+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-06-25T17:47:56+00:00
 ---
 
 The Unfinishable Map's [[dualism]] follows the Western convention of dividing reality in two: mind on one side, matter on the other. Samkhya, one of India's oldest philosophical schools, divides reality in three—and the third category reframes fundamental assumptions about where consciousness sits. Where Descartes groups consciousness and cognition together as *res cogitans* (thinking substance), Samkhya separates them. Consciousness (*purusha*) stands alone as pure witnessing. Mind, intellect, and ego belong to *prakriti*—the material world. Gross physical matter is also *prakriti*. The result is a three-way distinction—consciousness / mind / gross matter—that Western philosophy has no direct equivalent for, and that exposes assumptions the Map must reckon with.
@@ -140,7 +140,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 
 1. Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
 1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247.
-1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press.
+1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. https://doi.org/10.1017/S0034412523000410
 1. Vacaspati Mishra. *Samkhya-Tattva-Kaumudi* (c. 980 CE). Trans. G. Jha. Oriental Book Agency.
 1. Larson, G. J. and Bhattacharya, R. S. (1987). *Encyclopedia of Indian Philosophies, Vol. IV: Samkhya*. Motilal Banarsidass.
 1. Internet Encyclopedia of Philosophy, "Sankhya": https://iep.utm.edu/sankhya/

@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T17:47:56+00:00 - deep-review
+- **Status**: Success (staleness re-review — near-no-op: 1 verified citation-locator completion)
+- **File**: [[concepts/samkhya-three-way-distinction]]
+- **Word count**: 1918 → 1917 (ok, well under concepts 3500 hard)
+- **Critical issues addressed**: 0; **fix**: O'Brien-Kop (2023) cite locator completed — *Religious Studies* 60(S1):S4–S20, DOI 10.1017/S0034412523000410 (publisher-verified; author/title/year/journal already correct).
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed (8th this session); its citation subagent + orchestrator WebSearch independently confirmed all 6 cites real-correct and all 6 classical-Sāṃkhya doctrine claims faithful (guṇas, plural puruṣa as sākṣin/akartā correctly NOT conflated with Advaita's single self, 23 evolutes, sattva-buddhi reflection model, sannidhi). Block 1995 227–247 confirmed (227-287 is an aggregator typo). Calibration clean; Tenet-3 load-bearing doctrine sound. ai_modified + last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-06-25-samkhya-three-way-distinction]]
+
 ## 2026-06-25T17:30:48+00:00 - apex-evolve
 - **Status**: Success (genuine recalibration drift fixed — not the stale-field artifact)
 - **File**: [[apex/contemplative-path]]
