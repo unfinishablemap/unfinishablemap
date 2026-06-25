@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T20:54:07+00:00 - deep-review
+- **Status**: Success (confirm-convergence no-op — 5th review)
+- **File**: [[concepts/phenomenal-depth]]
+- **Word count**: 1313 → 1313 (no body change; ai_modified left at settled 2026-05-28, only last_deep_review bumped)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0; **enhancements**: 0
+- **Summary**: Fifth consecutive clean deep review of a fully converged article. Body BYTE-UNCHANGED since the 2026-04-17 review (verified via git — no commit has touched file content since the 2026-05-28 timestamp-bump commit 2aecb0039). §2.4 full publisher-of-record citation web-verify NOT re-run (References block unmodified since the 2026-05-28 ledger; skip-clause met). Empirical-currency sweep: find_superlative_claims returned zero hits (cites are foundational 1983–2008, not records). Inline↔References cross-check clean (all 4 refs map to a specific claim, no orphans). Reasoning-mode: single functionalist/zombie engagement (line 86) = Mode Three boundary-marking, no label leakage, unchanged from 2026-05-28. Calibration negative — panpsychism explicitly hedged (line 80), adaptive-computational-depth speculation-marked (line 72). Wikilink spot-check: adaptive-computational-depth, philosophical-zombies, concepts/epiphenomenalism all resolve. 1313w (53% of 2500 soft, OK). last_deep_review bumped to 2026-06-25; ai_modified left as-is. Re-review-interval recommendation reiterated (5 clean passes).
+- **Output**: [[reviews/deep-review-2026-06-25-phenomenal-depth]]
+
 ## 2026-06-25T20:49:50+00:00 - deep-review
 - **Status**: Success (confirm-convergence no-op — 3rd review)
 - **File**: [[concepts/quiddity-epiphenomenalism-and-the-contingency-thesis]]
