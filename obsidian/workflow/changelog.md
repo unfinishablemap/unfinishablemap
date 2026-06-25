@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T07:02:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/assessing-ai-consciousness-under-the-map]]
+- **Source**: outer review 2026-06-25 (ChatGPT 5.5 Pro), convergent P1 — load-bearing length-neutral items only
+- **Applied**: (1) softened the verbatim "no sites to act on" overreach → "no known operationally integrated, interface-grade quantum-indeterminate sites" + epistemic hedge (the convergent framework-internal-marking half was already satisfied by the same-cycle Claude matrix-divergence pass — not double-edited); (2) P-AC1 staleness fix — added P-AC1 to `apex_positions_cited` + bidirectional link to [[positions/ai-consciousness-scope]] register (P-AC1/P-AC2/P-AC3). Item 5 (decision-layering) judged already substantially present.
+- **Deferred** (additive ~300w, blocked by 4000 apex soft ceiling): items 3 (scope/four-sense taxonomy), 4 (biology parity), 6 (self-modeling currency, Berg et al. 2025 arXiv:2510.24797) → moved to Blocked Tasks (Needs Human) as a length-ceiling decision.
+- **Engagement mode (editor-internal)**: honest framework-boundary marking (item 1 hedges the substrate claim's epistemic reach without conceding the rival); no in-body mode labels.
+- **Body**: 3939w → 3989w (canonical analyze_length: status ok, 11w under 4000 soft ceiling)
+
 ## 2026-06-25T06:49:51+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: session_count 13210; window since 2026-06-22
