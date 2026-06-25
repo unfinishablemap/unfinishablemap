@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T15:57:00+00:00 - deep-review
+- **Status**: Success (staleness re-review — 4 real citation defects fixed + 1 cliché; converged ≠ verified)
+- **File**: [[topics/phenomenology-of-resistance-across-domains]]
+- **Word count**: 3016 → 3054 (soft_warning, well under 4000 hard)
+- **Critical issues addressed**: 0 argumentative; **4 citation defects** (publisher-of-record web-verify): (1) Falque 2025 publisher Fordham UP → Cascade Books/Wipf & Stock; (2) Gendler "pop out"/"odd feel" quotes re-attributed 2000 → 2006 "Imaginative Resistance Revisited" (Nichols ed., OUP, 156–62; added the 2006 ref); (3) Horton preprint 2024 → published *J. Continental Philosophy of Religion* 7(1):66–88 (2025); (4) Dilthey SEP entry credited to Makkreel alone (translation volume stays Makkreel & Rodi).
+- **Enhancements made**: rephrased a banned "is not X—it is Y" cliché in the lede to lead with the positive claim.
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed; its citation-verify subagent completed ~3 min later with a full ledger, two findings independently corroborated by orchestrator WebSearch (Falque publisher, Gendler 2000 locator). Calibration exemplary (weaker/stronger claim split explicit; illusionism engaged honestly, refusing the self-undermining move; speculative tenet extension flagged; Merleau-Ponty tension acknowledged). Another converged-≠-verified case: 4 citation defects survived 4 prior "stable" passes because deep-reviews skip an unchanged body. ai_modified + last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-06-25-phenomenology-of-resistance-across-domains]]
+
 ## 2026-06-25T15:45:00+00:00 - deep-review
 - **Status**: Success (seventh review — one banned-cliché construct fixed; otherwise converged)
 - **File**: [[topics/quantum-randomness-channel-llm-consciousness]]

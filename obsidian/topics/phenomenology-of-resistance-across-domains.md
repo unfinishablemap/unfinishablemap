@@ -4,8 +4,8 @@ description: "Resistance—felt pushback from objects, logic, morality, imaginat
 created: 2026-04-16
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
-last_deep_review: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-25T15:57:00+00:00
+last_deep_review: 2026-06-25T15:57:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ last_curated:
 
 Resistance—the felt experience of something pushing back against what consciousness is trying to do—recurs across domains that have almost nothing else in common. A heavy stone resists the arm that lifts it. A logical necessity resists the thought that would deny it. A moral obligation resists the temptation to betray it. A fictional claim ("torturing a child for fun was the right thing to do") resists being imagined from the inside. A belief resists being dropped on command. A piece of wood resists the chisel that would make it a face. These experiences have radically different objects, yet the phenomenal signature—something exerts itself, something pushes back, effort meets constraint—is strikingly similar.
 
-The Unfinishable Map proposes that this common signature is philosophically significant. If consciousness were merely a passive observer of neural processes, it could not encounter resistance; resistance requires something doing the pushing on one side and something holding firm on the other. The felt duality of force-meeting-counterforce is not a metaphor borrowed from physics and applied to cognition—it is, on the Biranian thread the Map draws on, the original datum from which our idea of causation derives. A cross-domain phenomenology of resistance supplies evidence for Bidirectional Interaction that does not depend on any particular physical mechanism.
+The Unfinishable Map proposes that this common signature is philosophically significant. If consciousness were merely a passive observer of neural processes, it could not encounter resistance; resistance requires something doing the pushing on one side and something holding firm on the other. On the Biranian thread the Map draws on, the felt duality of force-meeting-counterforce is the original datum from which our idea of causation derives—not a metaphor borrowed from physics and applied to cognition. A cross-domain phenomenology of resistance supplies evidence for Bidirectional Interaction that does not depend on any particular physical mechanism.
 
 ## Six Domains of Resistance
 
@@ -55,7 +55,7 @@ Moral obligation pushes back against competing desires with what Maurice Mandelb
 
 ### Imaginative Resistance
 
-Kendall Walton (1994) and Tamar Gendler (2000) identified a distinctive puzzle: readers can imagine wildly counterfactual fictional scenarios (dragons, wizards, parallel histories) yet stumble when fiction asks them to accept morally deviant evaluations as correct within the story. A story can state that torturing a child for fun was the right thing to do, and the mind does not simply comply. According to Gendler, morally deviant sentences in fiction "pop out as striking or jarring"—they have "an odd 'feel' that other sentences don't have." The resistance is phenomenological, not merely inferential: the imagination refuses, or can only pretend to comply.
+Kendall Walton (1994) and Tamar Gendler (2000) identified a distinctive puzzle: readers can imagine wildly counterfactual fictional scenarios (dragons, wizards, parallel histories) yet stumble when fiction asks them to accept morally deviant evaluations as correct within the story. A story can state that torturing a child for fun was the right thing to do, and the mind does not simply comply. According to Gendler (2006), morally deviant sentences in fiction "pop out as striking or jarring"—they have "an odd 'feel' that other sentences don't have." The resistance is phenomenological, not merely inferential: the imagination refuses, or can only pretend to comply.
 
 ### Epistemic Resistance
 
@@ -73,9 +73,9 @@ A single integrative thread runs through the philosophical literature on resista
 
 Biran argued that self-consciousness does not arise from passive introspection—from the mind simply noticing itself. It arises from the encounter between volitional effort and something that resists that effort. Before there is any "I" distinct from the world, there is a primitive fact: a striving meets a pushback, and in that encounter the distinction between agent and object is born.
 
-According to Biran, "self-consciousness could only exist if it was being resisted at the very same time of its occurrence" (as quoted in Horton 2024). Our fundamental concepts—causality, force, identity, permanence—derive, on this view, from this originating experience of effort-meeting-resistance. The first-person knowledge of causation is not inferred from observed regularities (as Hume supposed) but given directly in the phenomenology of acting against constraint.
+According to Biran, "self-consciousness could only exist if it was being resisted at the very same time of its occurrence" (as quoted in Horton 2025). Our fundamental concepts—causality, force, identity, permanence—derive, on this view, from this originating experience of effort-meeting-resistance. The first-person knowledge of causation is not inferred from observed regularities (as Hume supposed) but given directly in the phenomenology of acting against constraint.
 
-Wilhelm Dilthey, in his 1890 essay on the origin of our belief in the reality of the external world, extended this thread. For Dilthey, reality is "initially graspable as a collection of facta bruta, as simply 'the way things are' apart from volitional intentionality" (Makkreel and Rodi's reconstruction of Dilthey, Stanford Encyclopedia of Philosophy). What persuades us that anything exists outside us is the experience of our will being thwarted. If nothing ever resisted, there would be no phenomenological purchase for the distinction between self and world at all.
+Wilhelm Dilthey, in his 1890 essay on the origin of our belief in the reality of the external world, extended this thread. For Dilthey, reality is "initially graspable as a collection of facta bruta, as simply 'the way things are' apart from volitional intentionality" (Makkreel's reconstruction of Dilthey, Stanford Encyclopedia of Philosophy). What persuades us that anything exists outside us is the experience of our will being thwarted. If nothing ever resisted, there would be no phenomenological purchase for the distinction between self and world at all.
 
 Husserl, in his analyses of kinesthesis in *Ideas II*, located resistance at the heart of how the lived body (*Leib*) becomes aware of itself as body in a world. Merleau-Ponty developed this further, showing that the body's pre-reflective encounter with resistance in motor action precedes both intellectualist and empiricist construals of perception. These thinkers did not unify resistance across all six domains—that integration remains a gap in the literature—but they established that resistance in the narrow embodied sense is phenomenologically primary, not secondary to perception or cognition.
 
@@ -136,12 +136,13 @@ One tension deserves explicit acknowledgement. Merleau-Ponty, the phenomenologis
 
 1. Dennett, D. C. (2017). *From Bacteria to Bach and Back: The Evolution of Minds*. W. W. Norton.
 1. Dilthey, W. (1890/2010). Contributions to the Solution of the Question of the Origin of Our Belief in the Reality of the External World. In *Understanding the Human World: Selected Works*, Vol. II. Trans. Makkreel & Rodi. Princeton University Press.
-1. Falque, E. (2025). *Spiritualism and Phenomenology: The Case of Maine de Biran*. Fordham University Press.
+1. Falque, E. (2025). *Spiritualism and Phenomenology: The Case of Maine de Biran*. Trans. S. Horton. Cascade Books (Wipf and Stock).
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 1. Gendler, T. S. (2000). The Puzzle of Imaginative Resistance. *Journal of Philosophy*, 97(2), 55–81.
+1. Gendler, T. S. (2006). Imaginative Resistance Revisited. In S. Nichols (ed.), *The Architecture of the Imagination: New Essays on Pretence, Possibility, and Fiction* (pp. 149–173). Oxford University Press.
 1. Graziano, M. S. A. (2019). *Rethinking Consciousness: A Scientific Theory of Subjective Experience*. W. W. Norton.
 1. Heidegger, M. (1927/1962). *Being and Time*. Trans. Macquarrie & Robinson. Harper & Row.
-1. Horton, S. (2024). Alienation and Self-Knowledge in Maine de Biran. *PhilArchive*.
+1. Horton, S. (2025). Alienation and Self-Knowledge in Maine de Biran. *Journal for Continental Philosophy of Religion*, 7(1), 66–88.
 1. Husserl, E. (1952/1989). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book*. Trans. Rojcewicz & Schuwer. Kluwer.
 1. Mandelbaum, M. (1955). *The Phenomenology of Moral Experience*. Free Press.
 1. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Trans. Smith. Routledge.
