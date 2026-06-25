@@ -5,6 +5,16 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T15:28:07+00:00 - deep-review
+- **Status**: Success (fifth review — one verbatim-quote defect caught + family-resolved)
+- **File**: [[topics/bergson-and-duration]]
+- **Word count**: 2412 → 2412 (+0)
+- **Critical issues addressed**: 1 (dropped article in verbatim Bergson quote: "Time is invention" → "Time is **an** invention or it is nothing at all." — canonical Mitchell trans., *Creative Evolution* Ch. IV; web-verified at publisher of record. Defect survived 4 prior reviews because intra-corpus consistency ratified it. Family-resolved: same fix propagated to the two sibling files carrying the quote — [[apex/process-and-consciousness]] and [[concepts/process-philosophy]].)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification done**: Full §2.4 citation web-verify ledger — all 8 References entries + inline Kent & Wittmann (2021) niab011 verified real-correct at publisher of record (Bergson 1889/2001 Dover, 1896/1988 Zone, 1907/1998 Dover; Guerlac 2006 Cornell UP; Whitehead "Category of the Ultimate" quote faithful). No superlative claims (empirical-currency sweep clean). All 15 wikilinks + 4 tenet anchors resolve. No possibility/probability slippage; named-opponent engagement at framework boundary, no label leakage. Lee-cite orchestrator note N/A (article doesn't cite Lee). EOF clean.
+- **Output**: [[reviews/deep-review-2026-06-25-bergson-and-duration]]
+
 ## 2026-06-25T15:12:00+00:00 - deep-review
 - **Status**: Success (no-op — converged, ninth review)
 - **File**: [[voids/tenet-generated-voids]]

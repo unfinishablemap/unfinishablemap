@@ -4,7 +4,7 @@ description: "Reality as becoming, not being. Whitehead and Bergson's process fr
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-06-10T16:46:53+00:00
+ai_modified: 2026-06-25T15:28:07+00:00
 last_deep_review: 2026-06-05T09:46:35+00:00
 draft: false
 topics:
@@ -66,7 +66,7 @@ Bergson's [[temporal-consciousness|durée]] captures what process philosophy des
 
 Durée also varies in depth. Two moments of identical clock length can differ radically in [[temporal-consciousness|temporal thickness]]—the qualitative density of experienced time. A musician improvising inhabits a present dense with harmonic memory and anticipatory tension; someone passively overhearing the same music inhabits a thinner present. This variation matters philosophically: if [[consciousness-as-activity|consciousness is an activity]] rather than a property, temporal extension is constitutive—an activity exists only in its unfolding, and the depth of that unfolding reflects the degree of conscious engagement. Temporal thickness is what Whitehead's concrescence looks like from the inside: some occasions synthesize their inheritance richly, others merely repeat it. The same shift from property to act appears in the Map's [[integration-as-activity|integration-as-activity]] discipline: integration is not what consciousness *is* (a structural feature of a system at an instant, as IIT's identity thesis holds) but what consciousness *does* across time. Whitehead's concrescence is the metaphysical limit case of that discipline — integration is ontologically basic, with every actual occasion's coming-to-be a temporally extended act of synthesis rather than an instantaneous property of a substance.
 
-Both thinkers reject the view that time is a container in which static states are arranged. Time is creative, bringing genuine novelty. Bergson: "Time is invention or it is nothing at all." Whitehead: creativity is "the ultimate category"—each moment adds something to reality that did not exist before. Husserl's [[temporal-consciousness|protention]]—the forward-directed anticipation structuring every conscious moment—reveals that this creativity is not retrospective but constitutive of the present. Each moment already reaches toward what comes next, carrying directional openness that mere physical succession lacks. This creativity is not random but structured: each actual occasion inherits from its predecessors while contributing its own synthesis.
+Both thinkers reject the view that time is a container in which static states are arranged. Time is creative, bringing genuine novelty. Bergson: "Time is an invention or it is nothing at all." Whitehead: creativity is "the ultimate category"—each moment adds something to reality that did not exist before. Husserl's [[temporal-consciousness|protention]]—the forward-directed anticipation structuring every conscious moment—reveals that this creativity is not retrospective but constitutive of the present. Each moment already reaches toward what comes next, carrying directional openness that mere physical succession lacks. This creativity is not random but structured: each actual occasion inherits from its predecessors while contributing its own synthesis.
 
 ## Dualism Through Process
 
