@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-05-26 01:41:00+00:00
+ai_modified: 2026-06-25 02:42:55+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of cognitive limits imposed by the laws of phy
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 01:41:00+00:00
+last_deep_review: 2026-06-25 02:42:55+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -54,7 +54,7 @@ The nomic void may be the hardest void to recognise. Other voids have phenomenol
 
 This invisibility has a Kantian structure. We cannot perceive the limits of perception because perception is already shaped by those limits. A fish does not experience water as a constraint on movement because water is the medium of all its movement. The nomic void is the water.
 
-One possible phenomenological trace: the persistent intuition that physics should explain consciousness, combined with the persistent failure to show how. Edward Witten—a physicist, not a philosopher—has suggested that consciousness will remain a mystery, that he does not see how any advance in physics would explain why subjective experience accompanies physical processes (Witten, in Brockman 1996). This felt incompleteness may be the closest we come to sensing the nomic void's boundary: the hard problem persists not because we lack data but because the relationship between physics and consciousness may not be the kind of thing physical law captures.
+One possible phenomenological trace: the persistent intuition that physics should explain consciousness, combined with the persistent failure to show how. Edward Witten—a physicist, not a philosopher—has suggested that consciousness will remain a mystery: he can imagine understanding the big bang far more easily than understanding why something we call consciousness accompanies the workings of the brain (Witten, interview with Wim Kayzer, 2014). This felt incompleteness may be the closest we come to sensing the nomic void's boundary: the hard problem persists not because we lack data but because the relationship between physics and consciousness may not be the kind of thing physical law captures.
 
 ## Circularity and the Kantian Challenge
 
@@ -80,7 +80,7 @@ The nomic void connects to the Map's [tenets](/tenets/) across several dimension
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly relevant. If physical laws shape cognitive possibilities, our preference for simple, elegant theories may reflect the constraints of our nomic position rather than the structure of reality. What seems parsimonious from within our physics might be parochial. Chomsky's observation applies: "The endowment that yields scope also establishes limits." Different physics might support minds for which entirely different explanatory virtues feel natural.
 
-**[Dualism](/tenets/#dualism)** faces both challenge and opportunity. The challenge: Sean Carroll argues that the "Core Theory" of physics governs everything in everyday life, including brains, and any proposed modification must meet an extremely high evidential standard. If physics fully governs neural activity, where does non-physical consciousness act? The opportunity: the persistent failure of physical law to explain consciousness—what Witten called a permanent mystery, the hard problem's endurance—may itself be evidence that consciousness has aspects outside the nomic domain. The nomic void's deepest implication for dualism: if consciousness is not entirely subject to physical law, it may partly transcend the nomic void that constrains physical minds.
+**[Dualism](/tenets/#dualism)** faces both challenge and opportunity. The challenge: Sean Carroll argues that the "Core Theory" of physics governs everything in everyday life, including brains, and any proposed modification must meet an extremely high evidential standard. If physics fully governs neural activity, where does non-physical consciousness act? The opportunity: the persistent failure of physical law to explain consciousness—what Witten called a permanent mystery, the hard problem's endurance, and what Yanofsky (2017) frames as an intrinsic limitation of physics rather than a temporary gap—may itself be evidence that consciousness has aspects outside the nomic domain. The nomic void's deepest implication for dualism: if consciousness is not entirely subject to physical law, it may partly transcend the nomic void that constrains physical minds.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** gains context. If consciousness interfaces with physics through quantum processes, then our universe's specific quantum mechanics defines the channel. Different quantum mechanics would mean different interface modes. The nomic void includes all the ways consciousness might interact with matter that our quantum mechanics does not permit.
 
@@ -113,9 +113,9 @@ Unlike the [computational void](/voids/formal-cognitive-limits/), which is prove
 3. Bremermann, H. J. (1962). "Optimization through evolution and recombination." In *Self-Organizing Systems*. Spartan Books.
 4. Kant, I. (1781/1787). *Critique of Pure Reason*. Trans. Norman Kemp Smith (1929).
 5. Wolfram, S. (2021). "What Is Consciousness? Some New Perspectives from Our Physics Project." https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/
-6. Carroll, S. M. (2021). "Consciousness and the Laws of Physics." https://philarchive.org/rec/CARCAT-33
+6. Carroll, S. M. (2021). "Consciousness and the Laws of Physics." *Journal of Consciousness Studies*, 28(9-10), 16-31. https://philarchive.org/rec/CARCAT-33
 7. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
 8. Wheeler, J. A. (1990). "Information, Physics, Quantum: The Search for Links." In *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
 9. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-10. Brockman, J. (1996). *The Third Culture: Beyond the Scientific Revolution*. Simon & Schuster. (Contains Witten's remarks on consciousness.)
+10. Witten, E. (2014). Interview with Wim Kayzer, *Of Beauty and Consolation*, Episode 9. (Widely circulated 2016; Witten remarks that he expects consciousness to remain mysterious.)
 11. Yanofsky, N. S. (2017). "The Mind and the Limitations of Physics." FQXi Essay Contest.

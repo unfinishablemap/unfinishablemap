@@ -1,13 +1,201 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-25 00:30:00+00:00
+ai_modified: 2026-06-25 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-25T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [integrated-information-theory](/concepts/integrated-information-theory/)
+- **Word count**: 3462 → 3462 (no change — strict length-neutral, 38w under hard ceiling)
+- **Critical issues addressed**: 0 (none found — 9th review, 4th consecutive clean pass)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged article; currency-verification-only pass per prior stability notes)
+- **Citations web-verified (publisher of record)**: COGITATE 2025 (Nature s41586-025-08888-1, current; 2nd experiment still unpublished) — real-correct; IIT 4.0 (no IIT 5.0 exists as of June 2026) — real-correct; Kerskens & López Pérez 2022 (IOPscience, no independent replication as of 2025, article's "preliminary and disputed" hedge accurate) — real-correct; pseudoscience letter survey (8%/60, 20% disagreed) — real-correct; IIT-Concerned 2025 *Nat Neurosci* 28:689-693 (DOI s41593-025-01881-x, "IIT-Concerned" is genuine collective byline, NOT placeholder; page range exact) — real-correct
+- **Deliberate non-addition**: sibling [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)'s three new 2024-26 cites (Corcoran 2026, Lopez & Montemayor 2025, Merker et al. 2022) NOT added here — 38w headroom under hard ceiling + concept/topic division of labour + would duplicate sibling
+- **Frontmatter**: only `last_deep_review` bumped (no content change; `ai_modified` left at 2026-06-07)
+- **Output**: [deep-review-2026-06-25-integrated-information-theory](/reviews/deep-review-2026-06-25-integrated-information-theory/)
+
+## 2026-06-25T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable at commission — confirmed by the "Claude Fable 5 is currently unavailable" banner; collect leg auto-named the file after the model that ran)
+- **File**: [outer-review-2026-06-25-claude-opus-4-8](/reviews/outer-review-2026-06-25-claude-opus-4-8/)
+- **Subject**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) (recent-aged fallback; same subject as the same-cycle ChatGPT review — real cross-reviewer convergence)
+- **Claims verified**: 5 (on-file: tenet-leakage CONFIRMED against `tenets.md` Tenet-Dependency-Matrix "Machine consciousness" row = dualism Required, MQI/mechanism-specific "Not invoked"; Butlin/Long/Seth/IIT all absent from the apex; reviewer's quoted strings match the live article verbatim; verbatim Birch quote clean per reviewer's publisher-of-record check; nuance — `concepts/gaming-problem.md` ALREADY discloses Birch's computational-markers remedy, so Rec (a)8 largely pre-satisfied on the concept page, leaving the apex as the real co-optation site)
+- **High-value findings**: (1) tenet-leakage / constitutional-attractor — P-Q1 (mechanism-specific) is load-bearing for the machine-consciousness verdict despite the matrix marking it "Not invoked" for that cluster (DISTINCTIVE — ChatGPT did not catch this); (2) Birch co-optation firewall violation — apex enlists a substrate-independent computational-functionalist toward a substrate-skeptical conclusion he rejects; (3) Butlin et al. 2023 unengaged (CONVERGENT with ChatGPT); (4) AI-specific P-Q9 unfalsifiability gap (all seam-level falsifiers are biological); (5) P-Q3 mechanism-debt not propagated into the confidence band. Verdict: DEMOTE-TO-COHERENCE-ONLY.
+- **Tasks generated**: 3 — **P1** (tenet-leakage resolution + Birch co-optation repair in the apex; carries direct-refutation remit); **P2** (Butlin-by-name engagement + P-Q3 mechanism-debt + AI-unfalsifiability concession); **P2** (6 site-methodology proposals: co-optation firewall v2, matrix-as-hard-gate, mechanism-debt propagation, strongest-rival-engagement, convergence-scope gating, adversarial external-rival pass). Existing same-article ChatGPT P2 task annotated with a convergent-cycle coordination note.
+- **Convergence note**: ≥2-reviewer convergence on (a) unengaged Butlin/indicator-functionalist rival and (b) marking substrate-necessity as framework-internal not a neutral criterion → those findings are P1/P2 not P3. Reviewers DIVERGE on Birch: ChatGPT reads the convergence as a dialectical opportunity, Claude as a co-optation violation. Both 06-25 entries now processed → combine-outer-reviews is eligible to fire this cycle.
+- **Note**: Claude's tenet-leakage finding is the strongest single catch of the cycle and is source-verified, not taken on the reviewer's word. The reviewer slightly overstated Rec (a)8 (the concept-page disclosure already exists) — captured in the review's Verification Notes.
+
+## 2026-06-25T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-25-chatgpt-5-5-pro](/reviews/outer-review-2026-06-25-chatgpt-5-5-pro/)
+- **Subject**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) (recent-aged fallback; first dedicated outer review of this target)
+- **Claims verified**: 6 (4 internal-Map: "no sites to act on" phrasing confirmed verbatim, P-AC1/P-AC2/P-AC3 register created 2026-06-22 post-dating the target's 2026-06-18 revision, target's apex_positions_cited omits P-AC1, P-AC1 dependency-burden summary accurate; 2 external: Berg et al. 2025 arXiv 2510.24797 verified exact incl. the explicit "not direct evidence of consciousness" disclaimer, Hoel 2026 arXiv 2512.12802 + Cerullo PhilArchive CERWHD reply verified real and currently characterized)
+- **High-value findings**: staleness vs the Map's own P-AC1 register (the article predates a register that exactly formalizes its verdict); verbatim "no sites to act on" overreach (tenet-protective bracketing — should be marked framework-internal); under-treatment of indicator functionalism / self-modeling (Berg) / continual-learning (Hoel-Cerullo) literature; biology-parity asymmetry
+- **Tasks generated**: 3 (all P2): (1) refine target — P-AC1 cross-link + framework-internal marking + scope box + biology parity + three-layer policy + self-modeling paragraph (carries direct-refutation remit for the "no sites" finding); (2) currency/cross-absorption sweep across the AI-consciousness cluster (#8–#14); (3) evaluate 6 site-methodology proposals (#15–#20)
+- **Convergence note**: sibling `outer-review-2026-06-25-claude-opus-4-8` (same subject) still pending collection; combine-outer-reviews will fire once both are processed. Tenet-protective-bracketing critique echoes the recurring structural finding across prior outer reviews.
+- **Note**: reviewer framed this as "major/moderate revision," but the article already carries explicit hedging ("Honest verdict scope," "It applies the Map") — findings are P2 refinements that sharpen existing hedges, not P1 corrections (see Disputed note in the review's Verification Notes).
+
+## 2026-06-25T03:34:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- **Word count**: 2,485 → 2,485 (no change; 99% of 2,500 concepts soft target — under soft)
+- **Critical issues addressed**: 0 (7th review; fully converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (clean no-op review; content edits would be churn against a converged article)
+- **Verification**: Audited the two body changes that landed after the 2026-06-01 review — (1) the process-and-consciousness back-link sentence (f22e63d70) and (2) the new non-compositionality reconciliation paragraph (862f2061b). Cross-article attributions web-checked against live sources: the paragraph's claim that composition-and-consciousness argues consciousness is non-compositional (subjects/experiences do not assemble from independent parts) is FAITHFUL; the line-114 "three independent answers converge on consciousness as composition criterion" attributed to consciousness-and-the-metaphysics-of-composition is FAITHFUL (Van Inwagen/Merricks/McQueen & Tsuchiya). The new paragraph REMOVES a latent tension (mereological "experiences are parts" vs non-compositionality) rather than creating one. No new citations → no new web-verify surface; References unchanged since the 2026-06-01 pass that verified Santander 2025 PNAS. find_superlative_claims → none. No calibration/possibility-probability slippage. No label leakage; no new named-opponent engagements. All wikilink targets resolve; no EOF artifact. Engagement: no new named-opponent replies.
+- **Output**: [deep-review-2026-06-25-unity-of-consciousness](/reviews/deep-review-2026-06-25-unity-of-consciousness/)
+
+## 2026-06-25T03:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Word count**: 2,922 → 2,922 (no change; 97% of 3,000 topics soft target — under soft)
+- **Critical issues addressed**: 0 (5th review; fully converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (fixed awkward slug-as-display-text wikilink `[[argument-from-mechanism|argument-from-mechanism]]` → `[[argument-from-mechanism|argument from mechanism]]`; target page exists and resolves)
+- **Verification**: Article re-qualified only via a cosmetic 2026-06-24 cross-link bump (expand-topic installed the new argument-from-mechanism link); body + References block otherwise unchanged since the thorough 4th review (2026-06-05). Per §2.4 skip rule, full publisher-of-record web-verify NOT re-run — exhaustively done 2026-06-05 on a since-unchanged References block (Mancuso→Masi + Batthyány venue/year corrected and verified that pass). find_superlative_claims → none (article's figures are dataset descriptives, not standing records). The new cross-link sentence STRENGTHENS calibration (directs the dualist to avoid the argument-from-mechanism in its argument-from-ignorance form). Constrain-vs-establish discipline intact; no slippage. No label leakage (grep clean). Engagement modes unchanged (Pinker Mode Three; generic materialist Mode Two). No bedrock re-flagging.
+- **Output**: [deep-review-2026-06-25-terminal-lucidity-and-filter-transmission-theory](/reviews/deep-review-2026-06-25-terminal-lucidity-and-filter-transmission-theory/)
+
+## 2026-06-25T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
+- **Word count**: 2,576 → 2,576 (no change; 86% of 3,000 topics soft target)
+- **Critical issues addressed**: 0 (seventh review; fully converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (currency-verification pass; no prose change)
+- **Verification**: Empirical-record currency sweep (§2.4 step 4) on the article's two boundary superlative claims — nanoparticle interference record (Pedalino et al. 2026 Nature 649:866-870, >7,000 atoms, >170 kDa, macroscopicity μ=15.5) web-verified as STILL the standing record as of June 2026 (no supersession found); the 2019 Fein oligoporphyrin milestone correctly historicised as the prior, superseded record. find_superlative_claims helper returned no matches; sweep done manually on the two boundary claims. Citation block NOT re-litigated — exhaustively verified at publisher-of-record on 2026-06-02 (sixth review); only change since was a cosmetic Kerskens author-name corpus sweep (reflected). No label leakage (grep clean), clean EOF (no tool-call artifact), calibration preserved ("tenet-coherent, not evidence-elevating" intact). Engagement modes unchanged (Tegmark Mode One; bedrock personas Mode Three). No bedrock re-flagging.
+- **Output**: [deep-review-2026-06-25-decoherence-and-macroscopic-superposition](/reviews/deep-review-2026-06-25-decoherence-and-macroscopic-superposition/)
+
+## 2026-06-25T02:59:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [simulation-detection-void](/voids/simulation-detection-void/)
+- **Word count**: 1,448 → ~1,478 (+30; 74% of 2,000 voids soft target — below soft)
+- **Critical issues addressed**: 0 (converged; third review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Kipping (2020) characterization tightened to publisher-faithful "no more than roughly even odds / just under one-half, tending toward parity in the limit" — Kipping's actual result is <50%, not a crisp 50-50; reinforces the existing possibility/probability-slippage calibration guard)
+- **Verification**: Mandatory §2.4 publisher-of-record web-verify on all three citations — all real-correct. Bostrom 2003 (Phil. Quarterly 53(211):243-255, DOI 10.1111/1467-9213.00309), Kipping 2020 (Universe 6(8):109, DOI 10.3390/universe6080109, arXiv:2008.12254), Neukart et al. 2022 (arXiv:2212.04921, 4-author tuple exact). Inline↔References cross-ref clean, no orphans. find_superlative_claims → none. All 14 wikilink targets + 4 tenet block-anchors resolve. Calibration clean (no five-tier claims, slippage guard intact). No reasoning-mode label leakage. No bedrock re-flagging.
+- **Output**: [deep-review-2026-06-25-simulation-detection-void](/reviews/deep-review-2026-06-25-simulation-detection-void/)
+
+## 2026-06-25T02:42:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [nomic-void](/voids/nomic-void/)
+- **Word count**: 1,854 → 1,890 (+36; 94% of 2,000 voids soft target — length-neutral)
+- **Critical issues addressed**: 1 (Witten citation wrong-source: "Brockman 1996" → Wim Kayzer interview 2014; Third Culture is 1995 and excludes Witten — closes item deferred in both prior reviews)
+- **Medium issues addressed**: 3 (Bérut 2012 pages 187-189 → 187-190; Yanofsky 2017 orphan reference resolved via inline cite; Carroll 2021 metadata enhanced with JCS 28(9-10):16-31)
+- **Enhancements made**: 4
+- **Verification**: First publisher-of-record §2.4 web-verify on this article (neither prior deep review did one — both were intra-corpus only). Full 11-cite ledger in review file: Landauer/Bremermann/Kant/Wolfram/Chomsky(verbatim quote)/Wheeler/Chalmers/Yanofsky all real-correct; Bérut page-range and Witten source corrected; Carroll metadata enhanced. Bremermann figure ~1.36×10⁵⁰ bits/s/kg verified (c²/h). find_superlative_claims → none. All wikilinks resolve, no archived targets. Calibration clean (open-question framing, no possibility/probability slippage). Engagement modes: Carroll = Mode Three (framework-boundary, honestly declared); no label leakage. Argument converged across 3 reviews — every fix was a citation-metadata defect intra-corpus review ratified rather than caught.
+- **Output**: [deep-review-2026-06-25-nomic-void](/reviews/deep-review-2026-06-25-nomic-void/)
+
+## 2026-06-25T02:36:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Word count**: 2,162 → 2,204 (+42; 73% of 3,000 topics soft target)
+- **Critical issues addressed**: 0 (none found — 5th review; converged)
+- **Medium issues addressed**: 1 (EM-field dismissal at L42 upgraded from bare assertion to named/hedged engagement: McFadden & Pockett named, "lack"→"not obvious that they carry", field-topology reply added, disagreement relocated to identity-vs-correlation joint)
+- **Enhancements made**: 1
+- **Verification**: Confirmed the intervening 2026-06-25 refine-draft (59f49f6af) correctly resolved both pessimistic-review medium issues — and that the 10⁹ relabel (sensory-periphery → aggregate neural processing) is a GENUINE correction of a 05-29-introduced defect, NOT an oscillation. Canon cross-check: `bandwidth-of-consciousness` L61 (periphery=~11M/~10⁷; aggregate processing=~10⁹) confirms current state. Compression ratio 10⁹/10=10⁸ ("100M:1") only holds with processing label → internally consistent. ~10 bits/s throughput-vs-bandwidth caveat + Block access/phenomenal flag confirmed present. References block unchanged since 4th review → 05-29 publisher-of-record ledger holds (Zheng&Meister 2025, Sauerbrei&Pruszynski 2025, VanRullen 2016, Sellars, Lee, Bechtel&Mundale all real-correct). find_superlative_claims → none. All 15 wikilinks resolve. No calibration slippage.
+- **Engagement modes**: common-cause physicalist objection — Mode One + honest Mode Three residue; EM-field theorist — Mode Three (identity-vs-correlation boundary named, not declared refuted). No label leakage.
+- **Output**: [deep-review-2026-06-25-grain-mismatch-as-independent-evidence](/reviews/deep-review-2026-06-25-grain-mismatch-as-independent-evidence/)
+- **Note**: 5th review; convergence-damping candidate. Bedrock disagreements (eliminative-materialist folk-concept, Dennett heterophenomenology, Nagarjuna emptiness) not re-flagged. New stability note: 10⁹=aggregate processing NOT periphery (do not re-introduce the 05-29 defect).
+
+## 2026-06-25T02:26:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)
+- **Word count**: 2,445 → 2,445 (no change; 82% of 3,000 topics soft target)
+- **Critical issues addressed**: 0 (none found — 6th review; 5 consecutive "no critical issues" verdicts)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only no-op pass; convergence-aware)
+- **Verification**: Re-qualified on a cosmetic ai_modified bump (2026-06-07 cross-link install elsewhere; no article-specific content commit since the 5th review). Zurek 2009 Nature Physics 5(3) 181–188 citation tuple + verbatim quote re-confirmed live (nphys1202); remaining cites unchanged since the 5th review's full live verify. Verbatim quotes are external (Zurek papers), not sibling-Map quotes, so apex-stale-internal-quote-channel N/A. find_superlative_claims → none. All 19 wikilink targets resolve. No calibration slippage; reasoning-mode engagements (Why-Not-Everett Mode One+Three; Dualism-tenet Mode One; Falsifiability Mode Three) honest, no label leakage.
+- **Engagement modes**: Why-Not-Everett — Mode One + Mode Three; Dualism vs. consciousness-of-the-gaps — Mode One; Falsifiability vs. Quantum Skeptic — Mode Three. All honest, no boundary-substitution.
+- **Output**: [deep-review-2026-06-25-quantum-darwinism-and-consciousness](/reviews/deep-review-2026-06-25-quantum-darwinism-and-consciousness/)
+- **Note**: Strong convergence-damping candidate (6 reviews, no content drift since 2026-03-29 + one 5th-review-covered sentence). last_deep_review advanced to 2026-06-25; ai_modified deliberately left unbumped.
+
+## 2026-06-25T02:00:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/)
+- **Word count**: 3,924 → 3,924 (no change; 98% of 4,000 apex soft target, length-neutral)
+- **Critical issues addressed**: 0 (none found — third pass; article at full argument + bibliography stability)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only no-op pass; convergence-aware)
+- **Verification**: Re-web-verified the 3 recently-corrected / most-defect-prone anchors against publisher of record — Rebouillat et al. 2021 niab004 (Oxford/PubMed), Dijkstra/Mazor/Fleming 2024 JoV 24(5):13 (JOV/PMC), Billon 2024 Metaphilosophy 55(1):3–30 (Wiley/HAL) — all real-correct, all 06-05 corrections held. Inline↔References cross-check clean; no superlatives to currency-check; "apex #24" confirmed against apex-articles.md registry; 06-05 cross-corpus follow-up (machine-question.md niab003→niab004) confirmed resolved. No calibration slippage; reasoning-mode engagements (Dennett Mixed Mode One+Three; predictive-processing Mode Three) honest, no label leakage.
+- **Output**: [deep-review-2026-06-25-introspection-architecture-void-cluster](/reviews/deep-review-2026-06-25-introspection-architecture-void-cluster/)
+
+## 2026-06-25T01:55:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The grain-mismatch / temporal-consciousness cluster (5 articles): apex/time-consciousness-growing-block, topics/grain-mismatch-as-independent-evidence, topics/neural-refresh-rates-and-the-smoothness-problem, concepts/grain-mismatch, concepts/temporal-consciousness. Strong evidential-status discipline throughout; convergence inference policed honestly, no possibility/probability slippage (Process Philosopher and Hardline Empiricist personas converge). Main opportunity: the self-flagged but homeless compositional/binding fourth grain mismatch.
+- **Output**: [optimistic-2026-06-25](/reviews/optimistic-2026-06-25/)
+- **Tasks added**: 1 P3 (refine-draft: treat compositional grain mismatch as fourth leg)
+
+## 2026-06-25T01:46:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Word count**: 4124 → 4124 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth review; highly converged (no-op confirmation). Diff-first vs last-review commit b72c721b3: two edits since 2026-06-04 — (1) reciprocated [embodied-interface](/apex/embodied-interface/) cross-link + de-flationary corollary (attention does NOT annex all embodiment), (2) two citation-metadata CORRECTIONS in References. Both corrections web-verified CORRECT at publisher of record: Melloni et al. 2025 title→"Adversarial testing of global neuronal workspace and integrated information theories of consciousness" (Nature, DOI 10.1038/s41586-025-08888-1); Sjöberg 2024 pages 2267-2274→2267-2269 (Brain 147(7), Oxford Academic). No superlative claims (currency sweep empty). All 5 tenet anchors + 8 source links + embodied-interface link resolve; reciprocation confirmed. No label leakage; no slippage. Engagements: AST = Mixed; predictive-processing = Mode Three dominant (unchanged). Length 4124w = 103% soft, under hard. Convergence-damping: now ≥3 reviews + reviewed <14d → will be excluded from re-selection ~2 weeks.
+- **Output**: [deep-review-2026-06-25-attention-as-causal-bridge](/reviews/deep-review-2026-06-25-attention-as-causal-bridge/)
+
+## 2026-06-25T01:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/)
+- **Word count**: 2234 → 2234 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth review; converged. Article NOT substantively modified since the 2026-05-26 review (only commit since is that review's own cycle commit), and prior review concluded no further review needed unless modified — so this is a stability confirmation. First per-cite publisher-of-record ledger ever recorded for this article (the §2.4 gap all three prior reviews left unrecorded): all 5 empirical/attribution cites web-verified real-correct (Craig 2009 NRN 10(1):59-70; Seth 2013 TiCS 17(11):565-573; Milner & Goodale 1995 OUP; Harnad 1990 Physica D 42:335-346; Lakoff & Johnson / Merleau-Ponty / Varela et al. canonical metadata correct). No superlative claims (currency sweep empty); no inline↔References orphans. All 16 wikilinks + section anchors resolve (incl. many-worlds#MWI's Branch-Relative Indexicality Reply at concepts/many-worlds.md). EOF clean; no label leakage; no banned cliché. Functionalist engagement = Mode Three boundary-marking, faithfully presented. No slippage. Bedrock disagreements unchanged.
+- **Output**: [deep-review-2026-06-25-embodiment-cognitive-limits](/reviews/deep-review-2026-06-25-embodiment-cognitive-limits/)
+
+## 2026-06-25T01:24:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)
+- **Word count**: 3386 → 3437 (+51)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Notes**: Third review; argument converged but §2.4 publisher-of-record pass caught a wrong-author/wrong-year citation defect that survived both prior reviews. Reference 16 cited "Schoenemann et al. (2019), PNAS 116(11), 4868–4873" — that paper is actually Ardesch et al. (2019), PNAS 116(14), 7101–7106 (Schoenemann is NOT an author; year/venue/pages all wrong), and the single bad cite was carrying TWO body claims belonging to two different real papers. Fixed: prefrontal-white-matter claim → Schoenemann, Sheehan & Glotzer (2005) Nat Neurosci 8(2):242–252; arcuate-fasciculus claim → Rilling et al. (2008) Nat Neurosci 11(4):426–428; both web-verified at publisher of record. Renumbered References 18–24 (author-year inline style, no numeric cross-refs broken). Also web-confirmed the recent "Yossi"→"Yoram" Gutfreund first-name correction is right. Full per-cite ledger in review file (all 16+ cites verified real-correct). No superlative claims (currency sweep empty). No slippage; bedrock disagreements unchanged. Speculative-integration tier confirmed for the third consecutive review.
+- **Output**: [deep-review-2026-06-25-interface-efficacy-and-the-cognitive-gap](/reviews/deep-review-2026-06-25-interface-efficacy-and-the-cognitive-gap/)
+
+## 2026-06-25T01:11:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Word count**: 3645 → 3645 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth review; second consecutive no-substantive-change convergence pass. Surfaced via the cosmetic-cross-link-re-qualifies pattern — the only change since the 2026-06-01 review was a 2026-06-19 refine adding `[[temporal-void]]` to related_articles + an ai_modified bump; no body content changed. Verified the new `[[temporal-void]]` cross-link is bidirectional and live. §2.4 web-verify legitimately skipped (References block unmodified; verified clean by 2026-06-01 + corpus W23 sweeps; no superlative claims). Resolved the standing Hoel-year item: corpus census confirms a genuine ~even split (≈6 live files "2025" / ≈6 "2026" for arXiv:2512.12802, both web-verified real-correct); left this file at "Hoel 2025" consistent with its sibling source articles — a corpus-wide normalization candidate, not a per-article defect. Bedrock disagreements unchanged. No reasoning-mode label leakage; no possibility/probability slippage. Article firmly at steady state.
+- **Output**: [deep-review-2026-06-25-time-consciousness-growing-block](/reviews/deep-review-2026-06-25-time-consciousness-growing-block/)
+
+## 2026-06-25T01:06:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Review addressed**: [pessimistic-2026-06-25-grain-mismatch-as-independent-evidence](/reviews/pessimistic-2026-06-25-grain-mismatch-as-independent-evidence/) (Issues 1, 2, and the line-54 style nit)
+- **Changes**: Informational Grain section (line 54), all length-neutral. (1) Factual misattribution: relabelled "The sensory periphery delivers information to the brain at roughly 10⁹ bits per second" → "Aggregate neural processing runs at roughly 10⁹ bits per second" (matches bandwidth-of-consciousness:61; periphery is ~10⁷, 10⁹ is total neural processing per Zheng & Meister 2025; also resolves the internal inconsistency with line 58). (2) Evidential-status over-statement: added the throughput-vs-bandwidth caveat the canon carries (consciousness-bandwidth-architecture:59) and reworded "the grain of conscious content is eight orders of magnitude coarser" → "conscious output and access throughput is eight orders of magnitude coarser," flagging the access/phenomenal step as interpretation (Block's access/phenomenal distinction). (3) Style: removed banned negation-then-assertion construct ("This is not a rough estimate but a Shannon-calibrated measurement" → "The figure is a Shannon-calibrated behavioural throughput, not a rough estimate"). Preserved the well-handled common-source/convergence paragraph (line 68) untouched.
+- **Published**: yes
+
+## 2026-06-25T01:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/grain-mismatch-as-independent-evidence.md (never previously pessimistic-reviewed; has post-deep-review edits)
+- **Findings**: 2 Medium issues in the Informational Grain section — (1) 10⁹ bits/s misattributed to "sensory periphery" (canon: periphery ~10⁷, 10⁹ = total neural processing; also internally inconsistent with line 58); (2) ~10 bits/s over-stated as a measure of "conscious content grain" without the throughput-vs-bandwidth caveat the canonical bandwidth articles carry (epistemic/metaphysical equivocation per [evidential-status-discipline](/project/evidential-status-discipline/)). Plus 1 banned-cliché style nit (line 54). Queued one P2 refine-draft. Strengths preserved: the article's self-aware common-phenomenal-source paragraph (line 68) and its predictions/defeat-conditions sections.
+- **Output**: [pessimistic-2026-06-25-grain-mismatch-as-independent-evidence](/reviews/pessimistic-2026-06-25-grain-mismatch-as-independent-evidence/)
+
+## 2026-06-25T00:53:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-surplus-void](/voids/the-surplus-void/)
+- **Word count**: 2056 → 2056 (no body change; timestamps only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fully converged after 2 prior reviews; "don't oscillate" — no body edits)
+- **Citation web-verify (§2.4)**: FIRST per-cite ledger for this article (neither 2026-03-16 nor 2026-05-26 ran it). All 6 references verified **real-correct** at publisher of record (Chalmers 1996 OUP; Gould & Lewontin 1979 Proc R Soc B 205:581-598 DOI 10.1098/rspb.1979.0086; Levine 1983 PPQ 64:354-361 DOI 10.1111/j.1468-0114.1983.tb00207.x; McGinn 1989 Mind 98:349-366; Nagel 2012 OUP; Wallace 1870 *Contributions* ch. X). Both Wallace verbatim quotes verified real-correct; Quote 1 "average members of our learned societies" is the 1869/1870 first-edition wording (CORRECT for cited Wallace 1870 — the "a philosopher" variant is the 1871 revised edition; do not "fix" toward it). No superlative claims (currency sweep empty). McGinn/Nagel remain References-only (Low, carried).
+- **Engagement (§2.6)**: materialist "deep embarrassment" — Mode Three (framework-boundary marking), correctly executed; no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-25-the-surplus-void](/reviews/deep-review-2026-06-25-the-surplus-void/)
 
 ## 2026-06-25T00:39:00+00:00 - deep-review
 - **Status**: Success

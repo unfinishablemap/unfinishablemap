@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-25 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: The quantum-classical boundary keeps receding. Hot cat states, nano
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 20:21:32+00:00
+last_deep_review: 2026-06-25 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

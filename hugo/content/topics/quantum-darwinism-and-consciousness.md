@@ -20,7 +20,7 @@ description: Zurek's quantum Darwinism explains classical reality's emergence th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 19:55:22+00:00
+last_deep_review: 2026-06-25 02:26:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

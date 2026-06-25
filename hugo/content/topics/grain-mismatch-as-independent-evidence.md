@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-06-24 22:42:59+00:00
+ai_modified: 2026-06-25 02:36:34+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Three independent grain mismatches—spatial, temporal, information
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 00:19:38+00:00
+last_deep_review: 2026-06-25 02:36:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ The [grain mismatch](/concepts/grain-mismatch/) is usually presented as a single
 
 Sellars' original argument (1965, 1971) targets spatial properties. Phenomenal experience presents homogeneous fields — uniform pink, smooth warmth, continuous extension. Neural substrates are spatially discrete: individual neurons separated by synaptic gaps, firing or not firing, with no intrinsic colour or temperature. The mismatch is not that we *describe* these at different levels of detail (a reply Bechtel and Mundale attempted) but that the properties themselves — homogeneity versus discreteness — are contradictory. A property cannot be both gapless and gapped.
 
-The empirical basis is neuroscience's characterisation of neural architecture. The argument requires that neural correlates of conscious experience be discrete at some level. If a neural correlate were discovered that exhibited genuine spatial continuity — a field property, perhaps electromagnetic, that was both measurably continuous and demonstrably identical to phenomenal experience — the spatial mismatch would dissolve. Candidates like electromagnetic field theories of consciousness attempt this, but they face their own challenge: classical fields, while continuous, lack the qualitative character distinguishing one phenomenal experience from another.
+The empirical basis is neuroscience's characterisation of neural architecture. The argument requires that neural correlates of conscious experience be discrete at some level. If a neural correlate were discovered that exhibited genuine spatial continuity — a field property, perhaps electromagnetic, that was both measurably continuous and demonstrably identical to phenomenal experience — the spatial mismatch would dissolve. Candidates like electromagnetic field theories of consciousness (McFadden, Pockett) attempt this, but they face their own challenge: it is not obvious that classical fields, continuous though they are, carry the qualitative character distinguishing one phenomenal experience from another. A field theorist may answer that field topology encodes that character; the spatial mismatch then turns on whether the proposed continuity is genuinely identical to homogeneous experience rather than merely correlated with it.
 
 ### Temporal Grain
 
@@ -54,7 +54,7 @@ Andrew Lee's introspective opacity finding applies with equal force here: we can
 
 ### Informational Grain
 
-The sensory periphery delivers information to the brain at roughly 10⁹ bits per second. Conscious declarative throughput — the rate at which reportable decisions resolve — runs at approximately 10 bits per second, a compression ratio of 100 million to one. This is not a rough estimate but a Shannon-calibrated measurement that has held across roughly seven decades of work and radically different tasks, from 1952 choice-reaction experiments through typing, gaming, and speedcubing (Zheng & Meister 2025; see [the bandwidth of consciousness](/topics/bandwidth-of-consciousness/) for the measurement history). The mismatch is informational: the grain of conscious content is eight orders of magnitude coarser than the grain of neural computation.
+Aggregate neural processing runs at roughly 10⁹ bits per second. Conscious declarative throughput — the rate at which reportable decisions resolve — runs at approximately 10 bits per second, a compression ratio of 100 million to one. The figure is a Shannon-calibrated behavioural throughput, not a rough estimate, that has held across roughly seven decades of work and radically different tasks, from 1952 choice-reaction experiments through typing, gaming, and speedcubing (Zheng & Meister 2025; see [the bandwidth of consciousness](/topics/bandwidth-of-consciousness/) for the measurement history). One caveat the canonical bandwidth articles carry travels with the number: Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement, so the step from "behavioural ceiling in conscious tasks" to a claim about phenomenal content is an interpretation, not a direct measurement. Taken at the level the evidence licenses, the mismatch is informational: conscious output and access throughput is eight orders of magnitude coarser than the grain of neural computation — and whether the phenomenal content underlying that output is correspondingly coarse, as Block's access/phenomenal distinction leaves open, is a further question the figure does not settle.
 
 This third mismatch is independent of the first two. Even if phenomenal space were somehow discrete (dissolving the spatial mismatch) and phenomenal time were somehow periodic (dissolving the temporal mismatch), the informational compression ratio would remain. Consciousness would still operate at a radically different informational grain from its neural substrate.
 

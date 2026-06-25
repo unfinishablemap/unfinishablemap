@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-06-20 10:34:04.529004+00:00
+ai_modified: 2026-06-25 02:00:51+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-18 10:10:00+00:00
 apex_sources:
@@ -37,7 +37,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/viMxJ6sjb08
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 15:35:07+00:00
+last_deep_review: 2026-06-25 02:00:51+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
