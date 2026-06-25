@@ -4,7 +4,7 @@ description: "Six major models of explanation all fail for consciousness—not a
 created: 2026-02-18
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-05-28T23:02:49+00:00
+ai_modified: 2026-06-25T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated: null
-last_deep_review: 2026-05-28T23:02:49+00:00
+last_deep_review: 2026-06-25T22:20:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-limits-of-explanation/"
   - "/topics/consciousness-and-methodological-failure/"
@@ -71,7 +71,7 @@ Philosophy of science has developed several major accounts of what it means to e
 
 **Deductive-nomological explanation** (Hempel 1965) treats explanation as logical derivation from general laws plus initial conditions. No set of physical laws and initial conditions entails consciousness. You can specify complete neuronal architecture, every synaptic weight, every neurotransmitter concentration — and the deduction "therefore there is something it is like to be this system" does not follow. The gap is categorical: physical premises yield physical conclusions.
 
-**Causal-mechanical explanation** (Salmon 1984) works by revealing hidden machinery. But with consciousness, the machinery is already exposed. Neuroscience has identified extensive neural correlates. Trace the causal chain from retinal stimulation through visual cortex to colour discrimination behaviour — every link is physically characterisable. Yet the *redness* of red is not another link in the chain. It is what the entire chain is *like from the inside*. Every mechanism uncovered is another physical process, not the experiential quality it correlates with.
+**Causal-mechanical explanation** (Salmon 1984) works by revealing hidden machinery. But with consciousness, the machinery is already exposed. Neuroscience has identified extensive neural correlates. Trace the causal chain from retinal stimulation through visual cortex to colour discrimination behaviour — every link is physically characterisable. Yet the *redness* of red is not another link in the chain but what the entire chain is *like from the inside*. Every mechanism uncovered is another physical process, not the experiential quality it correlates with.
 
 **Unificationist explanation** (Kitcher 1989) says understanding increases when diverse phenomena are derived from fewer principles. Consciousness resists being an instance of anything. Each conscious experience is both particular and categorically unlike the physical processes that correlate with it. Even under a functionalist interpretation, the question remains why those functions are accompanied by phenomenal experience at all.
 
@@ -159,7 +159,7 @@ A genuine resolution would require one of:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Explanatory power, elegance, and fertility are assessed through phenomenal states — understanding, aesthetic response, the felt sense of productive inquiry. If consciousness causally contributes to theory selection, then the process of choosing between theories of consciousness is not a neutral evaluation but an exercise in which consciousness reflexively evaluates theories about itself. A purely third-person methodology that treats consciousness as epiphenomenal will systematically miss what consciousness does. The [[voids-between-minds]] compounds the difficulty: the social infrastructure of explanation systematically fails for phenomenal experience.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" view — that science will eventually explain consciousness as it explains everything else — ignores the reflexive gap. Consciousness is not another entry on science's to-do list. It is the condition that makes the list possible. If the phenomenal sense of understanding is unreliable (per Rozenblit, Keil, and Trout), then our preference for simpler explanations may reflect cognitive architecture rather than reality's structure. The entire toolkit of theoretical virtues fails, not just simplicity.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" view — that science will eventually explain consciousness as it explains everything else — ignores the reflexive gap. Consciousness is not another entry on science's to-do list but the condition that makes the list possible. If the phenomenal sense of understanding is unreliable (per Rozenblit, Keil, and Trout), then our preference for simpler explanations may reflect cognitive architecture rather than reality's structure. The entire toolkit of theoretical virtues fails, not just simplicity.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness influences physical outcomes at the quantum level, this interaction may be structurally invisible to the explanatory tools developed for purely physical phenomena. The methodological failure would follow from trying to explain a trans-domain interaction using single-domain tools.
 

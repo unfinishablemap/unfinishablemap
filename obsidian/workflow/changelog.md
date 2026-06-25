@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T22:20:00+00:00 - deep-review
+- **Status**: Success (staleness re-pick; near-no-op — 2 banned-cliché fixes; both timestamps bumped). Orchestrator-finalized (fork monitor-wait-bailed; citation subagent 15-cite ledger folded in + non-citation sweeps run independently).
+- **File**: [[topics/consciousness-defeats-explanation]]
+- **Word count**: 3216 → ~3214 (two "X is not Y. It is Z." → "not X but Y" merges; soft_warning, under 4000 hard — NOT condensed)
+- **Critical issues addressed**: 0; **Medium**: 0; **Low**: 2 (banned-cliché construct, lines 74 + 162)
+- **Summary**: 2026-05-29+ staleness frontier pick. Body byte-unchanged since 2026-05-28 review except two cliché fixes: line 74 ("...not another link in the chain. It is what the entire chain is like from the inside" → "...not another link in the chain but what the entire chain is like from the inside") and line 162 ("Consciousness is not another entry on science's to-do list. It is the condition that makes the list possible" → "...not another entry on science's to-do list but the condition that makes the list possible"). Both are the writing-style-banned two-sentence "This is not X. It is Y." construct; merged to single-sentence forms (consistent with this session's identical physics-of-information line-50 fix). Full §2.4 publisher-of-record web-verify (15 cites, ALL real-correct): van Fraassen 1980, Woodward 2003, Hempel 1965, Salmon 1984, Kitcher 1989, Craver 2007, Tononi 2004 (BMC Neurosci 5:42), de Regt 2017, McMullin 2008 (cosmetic editor-order variant only), Lipton 2004, Levine 1983 (Pac Phil Q 64:354-361), Rozenblit & Keil 2002 (Cog Sci 26(5):521-562), Trout 2007 (Phil Compass 2(3):564-591), Chalmers 2018 (JCS 25(9-10):6-61), McGinn 1989 (Mind 98:349-366). Zero fabrications/metadata errors. Mechanical: currency N/A, EOF clean, stale-quote N/A. Calibration: Tenets 5/1/3 hedged-conditional, no slippage. Real edits → both ai_modified + last_deep_review bumped to 22:20; date -u-verified not future.
+- **Output**: [[reviews/deep-review-2026-06-25-consciousness-defeats-explanation]]
+
 ## 2026-06-25T22:08:25+00:00 - deep-review
 - **Status**: Success (5th-review staleness re-pick; converged no-op; timestamps-only).
 - **File**: [[topics/consciousness-and-the-problem-of-induction]]
