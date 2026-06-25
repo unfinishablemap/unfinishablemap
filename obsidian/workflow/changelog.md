@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T07:14:06+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Process Claude outer-review site-methodology proposals (b1–b6) — disposition, not article edits
+- **Adopted (1 concrete discipline sharpening)**: added a "Verdict-Direction Check" subsection to [[project/writing-style]]'s Co-optation Firewall (third leg: camp → concept → verdict — convergence claims must hold at the cited author's own downstream conclusion, not just a shared local premise), with this cycle's Birch gaming-problem case as the worked example. Merges b1+b5.
+- **Dispositions recorded** (in `reviews/outer-review-2026-06-25-claude-opus-4-8.md`): b1 adopted; b2 discipline-already-practiced/gate-enforcement-deferred-to-operator; b3 adopted-as-practiced (P-Q3 cascade already in the apex); b4 largely-covered by ✓2026-06-23 strongest-rival gate; b5 merged into b1; b6 declined-as-largely-covered (outer-review system is the adversarial external pass) / deferred.
+- **Coordination**: flagged convergence of b6 with the sibling ChatGPT methodology task's #18 bracketing-audit; respected the ✓2026-06-22 governing principle (sharpen editorial discipline; defer enforcement/policy to human ratification — no silent policy rewrite).
+- **Files**: `project/writing-style.md`, `reviews/outer-review-2026-06-25-claude-opus-4-8.md`
+
 ## 2026-06-25T07:02:26+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/assessing-ai-consciousness-under-the-map]]
