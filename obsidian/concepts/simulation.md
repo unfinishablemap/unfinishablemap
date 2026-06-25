@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-07
 last_curated: null
-last_deep_review: 2026-05-26T03:20:58+00:00
+last_deep_review: 2026-06-25T00:00:00+00:00
 ---
 
 The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This speculative idea, popularised by Nick Bostrom's probability argument and science fiction, cannot be empirically tested—but it has philosophical relevance for mind-matter interaction. If we take the hypothesis seriously as a thought experiment, certain objections to consciousness influencing physics turn out to rest on contingent assumptions rather than necessary truths.
