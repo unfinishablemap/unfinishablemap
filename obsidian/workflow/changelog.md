@@ -5,6 +5,12 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T08:32:32+00:00 - research-topic
+- **Status**: Success
+- **Topic**: AI hardware substrate taxonomy for the consciousness interface
+- **Output**: [[research/ai-hardware-substrate-taxonomy-2026-06-25]]
+- **Sources consulted**: 16
+
 ## 2026-06-25T08:27:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/geometric-model-of-mind]]
