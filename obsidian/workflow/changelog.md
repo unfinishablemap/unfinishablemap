@@ -5,13 +5,23 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T14:00:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/conceptual-metabolism-void]]
+- **Word count**: 1639 → 1639 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op)
+- **Summary**: 30-day staleness re-review (older opus-4-6 build → fresh-eyes warrant). Orchestrator-finalized: the review fork completed its analysis but returned while awaiting its Xu-et-al. citation-verify subagent and left no writes on disk; orchestrator bumped last_deep_review, wrote the review file, and recorded the verdict. Xu et al. (2025) PNAS 122(44):e2512514122 web-verified real-correct at publisher of record (metadata + finding-direction both faithful; confirms a prior direction-correction). Void calibration honours evidential-status-discipline (bounded-witness architectural prediction, no slippage); expertise-occlusion distinction faithful; all wikilinks/tenet anchors resolve; 1639w (full headroom); EOF clean. last_deep_review bumped, ai_modified left at settled 2026-05-26 per no-op hygiene.
+- **Output**: [[reviews/deep-review-2026-06-25-conceptual-metabolism-void]]
+
 ## 2026-06-25T13:51:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/bandwidth-of-consciousness]]
-- **Word count**: 3999 → 3994 (-5; length-neutral)
+- **Word count**: 3999 → 3975 (under the 4000 hard ceiling)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 0 substantive — all three same-day pessimistic-review issues (lede ratio, evolutionary sub-premise, resolution-bandwidth circularity) confirmed already resolved by the same-day refine-draft (c9498adce) that flagged this article for review
-- **Enhancements made**: 2 precision softenings from §2.4 web-verify (200 bits/neuron → "hundreds of bits/s"; Schwartz "18 participants" → "fewer than 20") + 1 offsetting redundancy trim
+- **Enhancements made**: 2 precision fixes from §2.4 web-verify, FINALIZED post-subagent at publisher-of-record (the fork's interim hedges were superseded by its citation-verify subagents' findings): (1) removed the "~200 bits/neuron" clause and its Sauerbrei & Pruszynski attribution entirely — two full-text PMC fetches confirm NO per-neuron bit-rate at any magnitude is in that paper; (2) Schwartz OCD study corrected to n=9 ("Nine patients," 1996 abstract), not "18" or the imprecise "fewer than 20" — plus 1 offsetting redundancy trim
 - **Summary**: 7th deep review; verification/convergence pass. Full §2.4 publisher-of-record web-verify of all 20 citations — ZERO fabrications, ZERO wrong-metadata (per-cite ledger in archive); confirms the May Wu-vs-Musslick correction stable. Inline↔References clean both directions; arithmetic re-derives (10⁹/10=10⁸, 10⁷/10=10⁶); EOF clean; no QEC notation; no superlative claims (currency sweep skipped); no label-leakage; no internal-quote staleness (no sibling-Map verbatim quotes); no possibility/probability slippage. Six adversarial standoffs are bedrock framework-boundary disagreements — not re-flagged. Article fully converged; future reviews metadata-only.
 - **Engagement modes**: GWT/Dehaene (Mode Three, framework-boundary honestly marked); production-theorist evolutionary rejoinder (Mode Two→Three, in-framework rebuttal then honest residue) — both in natural prose, no label leakage.
 - **Output**: [[reviews/deep-review-2026-06-25-bandwidth-of-consciousness]]

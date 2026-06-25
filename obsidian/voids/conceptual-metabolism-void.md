@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-05-26T12:42:00+00:00
+last_deep_review: 2026-06-25T14:00:37+00:00
 ---
 
 Understanding destroys what it processes. When consciousness integrates a new concept into existing knowledge, the original pre-understood version is permanently consumed. The concept persists — transformed, connected, embedded in a web of meaning — but its prior form is gone. The right word for this is digestion rather than forgetting, distortion, or the blurring of familiarity: the original is not mislaid or degraded but broken down and absorbed. The Unfinishable Map calls this the conceptual metabolism void: the irreversible transformation that every act of comprehension performs on its object, leaving the undigested original permanently inaccessible.
