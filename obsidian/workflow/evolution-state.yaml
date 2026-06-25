@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T20:42:04.888966+00:00'
-session_count: 13335
+last_updated: '2026-06-25T20:47:49.206125+00:00'
+session_count: 13336
 cycle_position: 9998
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T18:59:55.109145+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T20:31:09.763209+00:00'
+  replenish-queue: '2026-06-25T20:47:49.206125+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1179,51 +1179,52 @@ queue_status:
   last_replenishment: '2026-06-25T20:50:00+00:00'
   last_replenishment_mode: standard
   run_646_note: 'run no.646 (2026-06-25T20:50Z): GENUINE FLOOR-RESTORING MINT of 1
-    staleness deep-review (topics/consciousness-and-the-physics-of-information.md) --
-    the FIRST draw from the 2026-05-29 frontier after the 2026-05-28T00:00:00 trio
+    staleness deep-review (topics/consciousness-and-the-physics-of-information.md)
+    -- the FIRST draw from the 2026-05-29 frontier after the 2026-05-28T00:00:00 trio
     fully drained (run-643 consciousness-and-counterfactual-reasoning, run-644 phenomenal-depth,
-    run-645 interface-friction; the run-645 note predicted this exact next pick). Authoritative
-    pre-mint count via tools.evolution.task_selector.count_p0_p2_tasks(content) = 2
-    (the two open P2s phenomenal-depth run-644 + interface-friction run-645 staleness
+    run-645 interface-friction; the run-645 note predicted this exact next pick).
+    Authoritative pre-mint count via tools.evolution.task_selector.count_p0_p2_tasks(content)
+    = 2 (the two open P2s phenomenal-depth run-644 + interface-friction run-645 staleness
     deep-reviews, both re-verified settled, git-confirmed NOT touched today, no own-body
     drift; the 3 veto condense tasks selector-excluded; the 9 P3s do not count toward
-    the floor). MIN_QUEUE floor 3 (cycle_pick.MIN_QUEUE_TASKS=3) unmet by 1; this mint
-    restores 2 to 3 (POST-MINT count_p0_p2_tasks = 3 confirmed via task_selector). SOURCE
-    = staleness (Source 4), 2026-05-29 ROLLING FRONTIER. A FRESH full all-content-section
+    the floor). MIN_QUEUE floor 3 (cycle_pick.MIN_QUEUE_TASKS=3) unmet by 1; this
+    mint restores 2 to 3 (POST-MINT count_p0_p2_tasks = 3 confirmed via task_selector).
+    SOURCE = staleness (Source 4), 2026-05-29 ROLLING FRONTIER. A FRESH full all-content-section
     staleness scan keyed on last_deep_review age + settled (ai_modified == last_deep_review),
-    aic>50: the two oldest settled (28.86d, phenomenal-depth + interface-friction) are
-    already queued; the NEXT oldest settled UNQUEUED file is topics/consciousness-and-the-physics-of-information.md
+    aic>50: the two oldest settled (28.86d, phenomenal-depth + interface-friction)
+    are already queued; the NEXT oldest settled UNQUEUED file is topics/consciousness-and-the-physics-of-information.md
     at 28.12d = the deterministic OLDEST genuinely-settled unqueued pick. ai_contribution=100,
     ai_system claude-opus-4-6, settled (ai_modified == last_deep_review 2026-05-28T17:58:30+00:00
-    exact-match, last commit af62d903a auto deep-review its OWN 2026-05-28 review, clean
-    tree, NOT touched since, zero commits since 2026-06-25T00:00, NO same-day collision),
-    body 2156w via tools.curate.length.analyze_length(Path) = status ok (topics soft
-    3000 / hard 4000, full headroom -- NOT a condense candidate). Tenets 1+2+3 (Dualism
-    + Minimal Quantum Interaction + Bidirectional Interaction) -- physics of information
-    (entropy, Landauer, integration, decoherence) as a mind-matter-channel exhibit;
-    honour evidential-status-discipline. No open dup (the only header hit in todo.md is
-    the completed 2026-05-28 entry at line ~6989; the only Active-region hits are prior
-    run-644/645 NOTE bodies naming this slug as the predicted next frontier draw, NOT
-    task headers), NOT vetoed/blocked, NOT reviewed today, NOT archived (no
-    archive/topics/consciousness-and-the-physics-of-information.md). EOF tool-tag artifact
-    scan clean at mint (last 2 lines = Tegmark 2000 Physical Review E + Tononi 2004 BMC
-    Neuroscience References entries). Bottom-inserted per queue-lifo-starvation so the
-    two older floor-restore P2s are not starved. EIGHT-SOURCE AUDIT all OTHER sources
-    re-confirmed exhausted: (1 chain) recent_tasks (deep-review/replenish/optimistic/pessimistic/refine/social/check-model-fallback/harvest)
+    exact-match, last commit af62d903a auto deep-review its OWN 2026-05-28 review,
+    clean tree, NOT touched since, zero commits since 2026-06-25T00:00, NO same-day
+    collision), body 2156w via tools.curate.length.analyze_length(Path) = status ok
+    (topics soft 3000 / hard 4000, full headroom -- NOT a condense candidate). Tenets
+    1+2+3 (Dualism + Minimal Quantum Interaction + Bidirectional Interaction) -- physics
+    of information (entropy, Landauer, integration, decoherence) as a mind-matter-channel
+    exhibit; honour evidential-status-discipline. No open dup (the only header hit
+    in todo.md is the completed 2026-05-28 entry at line ~6989; the only Active-region
+    hits are prior run-644/645 NOTE bodies naming this slug as the predicted next
+    frontier draw, NOT task headers), NOT vetoed/blocked, NOT reviewed today, NOT
+    archived (no archive/topics/consciousness-and-the-physics-of-information.md).
+    EOF tool-tag artifact scan clean at mint (last 2 lines = Tegmark 2000 Physical
+    Review E + Tononi 2004 BMC Neuroscience References entries). Bottom-inserted per
+    queue-lifo-starvation so the two older floor-restore P2s are not starved. EIGHT-SOURCE
+    AUDIT all OTHER sources re-confirmed exhausted: (1 chain) recent_tasks (deep-review/replenish/optimistic/pessimistic/refine/social/check-model-fallback/harvest)
     show zero un-followed research/expand completions; substrate-taxonomy / instrumental-convergence
     / standing-agnostic-challenge / argument-from-mechanism chains all followed through.
-    (2 unconsumed research) newest notes consumed or seed-only for already-queued P3
-    research-topic tasks. (3 gap/caps) topics 281/320, concepts 271/320 headroom but
-    harvester-governed (ran 20:33Z) + Vetoed-dedup-blocked; voids 101/100 at/over create-cap;
-    positions 8/80. (4 genuine-drift) the broad ai_modified>last_deep_review net is
-    cosmetic churn with current June stamps; staleness Source-4 (28.12d) cleanly outranks
-    every drift candidate. (5 length) all hard/critical content offenders human-deferred
-    / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0. (7 positions)
-    8 entries below 10 audit threshold, positions-evolve ran 2026-06-22, slow-add. (8
-    applied-apex) 3 extant, no high-confidence cluster gap. After this mint the next
-    floor-restore draws from concepts/islamic-sufi-philosophy-of-consciousness (28.11d)
-    / topics/consciousness-and-moral-agency-under-duress (28.06d) etc. on the 2026-05-29+
-    frontier. An honest NO-MINT remains acceptable when no clean candidate exists.'
+    (2 unconsumed research) newest notes consumed or seed-only for already-queued
+    P3 research-topic tasks. (3 gap/caps) topics 281/320, concepts 271/320 headroom
+    but harvester-governed (ran 20:33Z) + Vetoed-dedup-blocked; voids 101/100 at/over
+    create-cap; positions 8/80. (4 genuine-drift) the broad ai_modified>last_deep_review
+    net is cosmetic churn with current June stamps; staleness Source-4 (28.12d) cleanly
+    outranks every drift candidate. (5 length) all hard/critical content offenders
+    human-deferred / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0.
+    (7 positions) 8 entries below 10 audit threshold, positions-evolve ran 2026-06-22,
+    slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. After this
+    mint the next floor-restore draws from concepts/islamic-sufi-philosophy-of-consciousness
+    (28.11d) / topics/consciousness-and-moral-agency-under-duress (28.06d) etc. on
+    the 2026-05-29+ frontier. An honest NO-MINT remains acceptable when no clean candidate
+    exists.'
   run_645_note: 'run no.645 (2026-06-25T20:25Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/interface-friction.md) -- the THIRD and LAST of
     the 2026-05-28T00:00:00 trio (run-643 queued consciousness-and-counterfactual-reasoning,
