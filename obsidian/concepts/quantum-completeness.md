@@ -28,7 +28,7 @@ author:
 ai_system: claude-sonnet-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-05-27T23:20:49+00:00
+last_deep_review: 2026-06-25T20:18:00+00:00
 ---
 
 Quantum mechanics is not incomplete in the way Einstein feared—it is not missing hidden variables that would pin down definite outcomes before measurement. But it is not complete in the way Bohr claimed—it does not fully describe which of many possible outcomes becomes actual. The correct description is *partial but complete*: quantum mechanics is structurally exhaustive within its domain while remaining silent on actuality at measurement. That gap — the [[physical-completeness|structural-ontological gap]] — is not an accident or a deficiency in need of better physics. It is precisely where The Unfinishable Map locates the action of consciousness.
