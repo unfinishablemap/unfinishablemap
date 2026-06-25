@@ -5,6 +5,18 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T10:31:00+00:00 - deep-review
+- **Status**: Success (no-op verification pass — converged, unchanged 4th review)
+- **File**: [[concepts/supervenience]]
+- **Disposition**: Body byte-identical since the clean 2026-05-26 review (ai_modified == last_deep_review; no commits since). Reviewed-and-unchanged is normally *excluded* by the scorer; ran only because named as the skill argument. No content edits made (cosmetic edits would re-trigger convergence-damping churn); only timestamps bumped.
+- **Word count**: 1481 → 1481 (no change; 59% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **§2.4 citation web-verify**: Levine 1983 (PPQ 64(4):354-361) real-correct via Wiley DOI 10.1111/j.1468-0114.1983.tb00207.x; Davidson 1970 (Mental Events, Foster & Swanson eds.) real-correct via PhilPapers; Kim 1993/2005, Chalmers 1996 canonical, clean. No superlative claims (currency sweep N/A — conceptual article). No inline↔References orphans.
+- **Engagement modes** (editor-internal, unchanged): type-B physicalists Mode Two; Kim Mode Three. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-25-supervenience]]
+
 ## 2026-06-25T10:14:47+00:00 - cross-review
 - **Status**: Success (task-chain: expand-topic → cross-review)
 - **Subject**: integrate new [[concepts/ai-hardware-substrate-taxonomy]] into the corpus (reciprocal inbound links + over-endorsement/duplication check)

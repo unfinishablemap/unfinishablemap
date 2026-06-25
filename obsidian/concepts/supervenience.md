@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-05-26T07:51:35+00:00
+last_deep_review: 2026-06-25T10:31:00+00:00
 ---
 
 Supervenience is a relation of asymmetric dependence between levels of properties: if A-properties supervene on B-properties, then no two things can differ in their A-properties without also differing in their B-properties. The Unfinishable Map accepts that phenomenal properties covary with physical properties — no change in experience without some change in the brain — but rejects the reductive conclusions that physicalists typically draw from this covariance. Supervenience describes a pattern; it does not explain it. The question of *why* particular brain states are accompanied by particular experiences remains the [[hard-problem-of-consciousness|hard problem]], and no amount of supervenience talk resolves it.
