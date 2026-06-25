@@ -5,6 +5,18 @@ ai_modified: 2026-06-24T23:29:36+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T00:18:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/symbol-grounding-problem]]
+- **Word count**: 2547 → 2547 (author-surname swaps only; length-neutral; 102% of 2500 soft, well under 3500 hard)
+- **Critical issues addressed**: 1 (attribution error — author surnames)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (corpus-wide family-resolution propagation)
+- **Citation web-verify (§2.4)**: 6th review; independently re-verified the four 2026-05-26 corrections (Mollo & Millière for arXiv:2304.01481 — real-correct; Pavlick for *Phil. Trans. R. Soc. A* 381(2251):20220041 — real-correct; Dove for *Psychon. Bull. Rev.* 23(4):1109-1121 / PubMed 25832355 — real-correct) AND caught a FIFTH attribution error the 2026-05-26 review wrongly certified: "The Difficulties in Symbol Grounding Problem…" (*Philosophies* 7(5):108) was attributed to "Lin, B. & Liu, Y." but is by **Jianhui Li & Haohao Mao** (Beijing Normal Univ; confirmed MDPI + PhilPapers LITDI-3). real-wrong-metadata. Fixed body (2 inline) + Reference 6. Family-resolution propagated canonical Li & Mao to research notes + archive copy; also fixed the Pavlick + Mollo/Millière attributions in the archive copy (the 2026-05-26 fixes never reached the frozen archive). All live-article citations now publisher-of-record-verified across the two passes. No superlative-currency claims (helper returned none).
+- **Reasoning-mode (§2.6)**: no editor-vocabulary leakage; Steels Mode One (functional≠intrinsic, internal argument), deflationary/Pavlick line boundary-marked honestly. No boundary-substitution. No possibility/probability slippage — dualist reading framed as interpretation, quantum tenet flagged "remains speculative."
+- **Convergence note**: 6th review; citation block now web-verify-complete. Two consecutive reviews each caught an author error the immediately-preceding review certified "verified" — pattern confirmed: only publisher-of-record web-verify catches this article's research-note-sourced attribution defects.
+- **Output**: [[reviews/deep-review-2026-06-25-symbol-grounding-problem]]
+
 ## 2026-06-25T00:03:46+00:00 - deep-review
 - **Status**: Success
 - **File**: [[arguments/functionalism-argument]]
