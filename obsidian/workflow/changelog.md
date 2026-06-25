@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T10:07:38+00:00 - deep-review
+- **Status**: Success (real fix; orchestrator-finalized after fork sub-delegation-stall)
+- **File**: [[concepts/ai-hardware-substrate-taxonomy]] (first deep review, same-day fresh create — scorer picked it on null last_deep_review)
+- **Fix**: citation #5 wrong-author — "Penrose, R. & Hameroff, S. (1998)" → "Hameroff, S. (1998)" (Phil. Trans. R. Soc. A 356(1743):1869–1896 is single-authored by Hameroff; Penrose only in the title "Penrose-Hameroff"; verified Royal Society/JSTOR title page + ADS bibcode …H + Univ Arizona + SciRP). The [[fresh-create-defect-tail]] — the expand-topic fork reused corpus-vetted metadata without re-checking the author.
+- **Also**: softened DishBrain "~800,000 neurons" → "hundreds of thousands of cortical neurons" (press-derived figure; Kagan 2022 paper states ~10⁶ cells plated). CL1's verified ~800k untouched.
+- **Verified clean**: 6/7 cites real-correct at publisher-of-record; tenet ordering, QEC backticks, length (2826w ok), EOF, slug all clean.
+- **Output**: [[reviews/deep-review-2026-06-25-ai-hardware-substrate-taxonomy]]; added missing last_deep_review frontmatter field.
+
 ## 2026-06-25T09:57:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: AI hardware substrate taxonomy for the consciousness interface
