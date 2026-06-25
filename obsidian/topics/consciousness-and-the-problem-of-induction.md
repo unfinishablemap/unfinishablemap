@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-05-28T23:31:29+00:00
+last_deep_review: 2026-06-25T22:08:25+00:00
 ---
 
 The Unfinishable Map argues that consciousness does not merely encounter the problem of induction—it *constitutes* the arena in which induction becomes intelligible at all. The problem of induction, famously articulated by Hume, asks why past regularities should justify expectations about the future. But this question presupposes something remarkable: a subject who grasps the difference between "has been" and "will be," who experiences expectation, and who can reflect on whether that expectation is warranted. Without consciousness, there is no problem of induction—only sequences of events with no one to wonder whether they will continue.
