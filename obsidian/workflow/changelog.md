@@ -5,6 +5,20 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T06:09:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/assessing-ai-consciousness-under-the-map]]
+- **Source**: outer review 2026-06-25 (Claude Opus 4.8), DEMOTE-TO-COHERENCE-ONLY verdict; two verified findings addressed
+- **Original body**: 2654w → **revised**: 3550w (under 4000 apex soft ceiling)
+- **Changes**:
+  - **Matrix-conflict resolution (verified internal contradiction).** Added an explicit divergence declaration in "What the Map's framework requires": the article makes P-Q1 (post-decoherence selection — a mechanism-specific commitment) load-bearing while the Tenet-Dependency Matrix marks it "Not invoked" for the machine-consciousness cluster. Declared this apex the matrix's sanctioned atypical-argument exception (per its own "scope and limits" caveat) AND conceded the verdict is mechanism-contingent in a way the cluster normally forbids — chose both rather than either, so the divergence is justified but not free. Scoped the decision-relevant payload to conditional standing in "Honest verdict scope" (the reviewer's structural point: bare irreducibility yields no substrate verdict at all, so the leakage is load-bearing — repaired by honest demotion, not deletion).
+  - **Birch co-optation repair (citation-integrity).** Rewrote the gaming-problem paragraph: marked the convergence as LOCAL (narrow discount of behavioural self-report only), disclosed Birch's computational-functionalist remedy (deep computational markers, not behavioural), and disclosed that his downstream verdict points the opposite way — co-author of Butlin et al. 2023 ("no current AI systems are conscious" / "no obvious technical barriers" in digital systems) and Long et al. 2024 ("realistic possibility" of near-future conscious AI). Stated plainly that Birch's framework rejects the substrate verdict the apex defends. Updated Recommendation 2 to flag that substrate-weighting is NOT cross-framework common ground.
+  - **Strongest-rival engagement (convergent ≥2-reviewer finding).** Engaged Butlin, Long et al. 2023 by name in "Honest verdict scope" as the strongest rival reaching the same first-order verdict for opposite (computational-indicator) reasons, conceding the Map's quantum mechanism is not necessary for the headline negative verdict, only for the substrate-weighting its rivals dispute.
+- **Citations web-verified at publisher-of-record**: Long et al. 2024 (arXiv:2411.00986 "Taking AI Welfare Seriously," Birch co-author, "realistic possibility" phrasing confirmed); Butlin et al. 2023 (arXiv:2308.08708 "Consciousness in Artificial Intelligence," Butlin/Long/Birch authors, "no current AI systems are conscious"/"no obvious technical barriers" confirmed).
+- **Engagement classification (editor-internal, changelog-only)**: engagement with Birch — Mode Three (framework-boundary marking: the disagreement is honestly noted as a divergence at the framework boundary, not dressed as in-framework refutation); engagement with Butlin/indicator-functionalism — Mode Three (rival reaches the same first-order verdict by an incompatible route; conceded rather than refuted).
+- **Out of scope (left for follow-on, per task remit)**: P-Q3 mechanism-debt cascade flag (rec a5), Seth/IIT non-quantum convergence (rec a6), AI-specific unfalsifiability gap (rec a7). Follow-on task queued.
+- **Published**: yes (draft already false; remains published)
+
 ## 2026-06-25T06:05:00+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-25
