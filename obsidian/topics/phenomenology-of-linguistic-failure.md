@@ -4,7 +4,7 @@ description: "What it feels like when words fail—the distinct experiential sig
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-05-27T00:39:24+00:00
+ai_modified: 2026-06-25T18:00:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-05-27T00:39:24+00:00
+last_deep_review: 2026-06-25T18:00:15+00:00
 ---
 
 Language fails constantly. Not in the dramatic sense of aphasia or stroke, but in the ordinary friction of trying to say what you mean. You reach for a word and find only approximations. You articulate an insight and watch it flatten into something lesser. You sit with a felt meaning so vivid it seems impossible to miss, yet every sentence you produce slides past it. These failures are not blank absences. They have texture, structure, and distinct experiential signatures—and those signatures are philosophically revealing.
@@ -123,7 +123,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [[ten
 ## References
 
 1. Gendlin, E.T. (1981). *Focusing*. Bantam Books.
-2. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*. Trans. C.K. Ogden.
+2. Wittgenstein, L. (1921/1922). *Tractatus Logico-Philosophicus*. Trans. C.K. Ogden (1922).
 3. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 4. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 5. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.

@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T18:00:15+00:00 - deep-review
+- **Status**: Success (staleness re-review — near-no-op: 1 citation translation-year fix)
+- **File**: [[topics/phenomenology-of-linguistic-failure]]
+- **Word count**: 1974 → 1974 (ok, well under 4000 topics hard; word-neutral)
+- **Critical issues addressed**: 0; **fix**: Wittgenstein *Tractatus* cite corrected (1921) → (1921/1922) — 1921 is the German original, but the attached Ogden translation imprint is 1922 (per corpus original/translation convention). Quote (Tractatus 6.44) confirmed faithful.
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed (9th this session). §2.4 publisher-of-record verify: all 5 cites canonical, all in-body attributions faithful (Gendlin "felt sense"/Focusing; Nagel 1974 Phil Review 83(4):435-450; Levine 1983 Pac Phil Q 64:354-361 — coined "explanatory gap"; Chalmers 1996; semantic-satiation in-body claim independently confirmed accurate). The orchestrator's own check initially passed the Wittgenstein cite; the citation subagent correctly caught the translation-year inconsistency (cross-check value). ai_modified + last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-06-25-phenomenology-of-linguistic-failure]]
+
 ## 2026-06-25T17:47:56+00:00 - deep-review
 - **Status**: Success (staleness re-review — near-no-op: 1 verified citation-locator completion)
 - **File**: [[concepts/samkhya-three-way-distinction]]
