@@ -4,7 +4,7 @@ description: "The quantum-classical boundary keeps receding. Hot cat states, nan
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-25T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-06-02T20:21:32+00:00
+last_deep_review: 2026-06-25T00:00:00+00:00
 ---
 
 Where does quantum become classical? Schrödinger's cat was meant as *reductio ad absurdum*—surely macroscopic objects cannot exist in superposition. Yet experiments keep pushing the boundary further than intuition suggests. Hot Schrödinger cat states at 1.8 kelvin, matter-wave interference in 7,000-atom nanoparticles, and quantum coherence in photosynthetic complexes all demonstrate that the warm-macro-therefore-classical assumption is empirically false. The quantum-classical boundary is not a sharp line but a fuzzy frontier we keep redrawing.
