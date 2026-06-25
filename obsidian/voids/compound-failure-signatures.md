@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-29
 last_curated: null
-last_deep_review: 2026-05-26T20:02:03+00:00
+last_deep_review: 2026-06-25T14:11:05+00:00
 coalesced_from:
   - "/voids/compound-cognitive-limits/"
   - "/voids/topology-of-cognitive-failure/"

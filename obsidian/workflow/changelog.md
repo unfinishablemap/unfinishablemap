@@ -5,6 +5,16 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T14:11:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/compound-failure-signatures]]
+- **Word count**: 1875 → 1875 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op, 3rd review)
+- **Output**: [[reviews/deep-review-2026-06-25-compound-failure-signatures]]
+- **Summary**: ~30-day staleness re-review (older opus-4-6 build → fresh-eyes warrant). Article converged across 3 reviews; only change since 2026-05-26 was a cosmetic frontmatter wikilink repoint ([[thoughts-that-slip-away]] → [[thought-stream-void]], 2026-05-31). Fresh independent publisher-of-record web-verify of both load-bearing empirical cites: Spagna, Mackie & Fan (2020) Cerebral Cortex 30(3):1931-1946 — real-correct (Oxford Academic + PubMed PMID 31711121, superadditive finding faithful, extrapolation gap explicitly flagged); Dunbar (1998) Evolutionary Anthropology 6(5):178-190 — real-correct (Wiley DOI). Canonical cites (Hofstadter/Fodor/McGinn/Johnson-Laird/Margolis/Wittgenstein) carried real-correct. Inline↔References cross-ref clean, no orphans. No superlative claims (currency sweep N/A). Void calibration honours evidential-status-discipline (bounded-witness architectural prediction, no possibility→probability slippage). Plotinus reframing + opening front-loading from prior reviews hold. All 22 wikilinks + 4 tenet anchors resolve live; EOF clean; 1875w (94% of soft, full headroom — no padding). last_deep_review bumped to reset staleness clock; ai_modified left at settled 2026-05-26 per no-op hygiene.
+
 ## 2026-06-25T14:00:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/conceptual-metabolism-void]]
