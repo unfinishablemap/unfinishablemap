@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T17:05:00+00:00 - deep-review
+- **Status**: Success (staleness re-review — no-op on content; full §2.4 citation web-verify, zero defects)
+- **File**: [[topics/consciousness-and-the-ontology-of-temporal-becoming]]
+- **Word count**: 3187 → 3187 (no change; 106% of 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 0. Medium: 0. Enhancements: 0. Body unchanged since 2026-05-27 (commit 2538f2c2f); only last_deep_review bumped (ai_modified left at 2026-05-27).
+- **Summary**: ~30-day staleness re-review of a settled all-five-tenets philosophy-of-time hub (5th review). §2.4 publisher-of-record web-verify run in full despite "settled" status — **all 17 references + every load-bearing attribution real-correct, zero defects** (per-cite ledger in review file). Verified at OUP/Analysis+Mind, T&F/AJP, Princeton, Stanford UP, Routledge, Kluwer-Springer: Braddon-Mitchell 2004 64(3) 199-203, Forrest 2004 64(4) 358-362, Bourne 2002 80(3) 359-371, Greene&Sullivan 2015 Ethics 125(4) 947-970, Merricks 2006 OSM v2 103-110, Hoerl 2014 17(2) 188-202, Prosser 2016, McTaggart 1908 17(68) 457-474, Varela 1999, Broad 1923, Whitehead 1929, Husserl 1928/1991, Price 1996, Weyl 1949 quote verbatim. Only nuance: Tulving 1985 terminal page 1-11 vs 1-12 (DB variation, not corrected). Greene&Sullivan irrationality + Braddon-Mitchell epistemic-objection attributions reconfirmed faithful. No QEC notation, no internal Map verbatim quotes, no cliché, EOF clean, no label leakage, no calibration slippage, all 27 wikilinks + 5 tenet anchors resolve. Engagement modes: B-theorists/simplicity Mode Three; Braddon-Mitchell Mixed; circularity Mode One via reflective equilibrium; MWI/eliminativist/Buddhist bedrock (not re-flagged). Article converged — convergence-damping should de-prioritize going forward.
+- **Output**: [[reviews/deep-review-2026-06-25-consciousness-and-the-ontology-of-temporal-becoming]]
+
 ## 2026-06-25T16:39:56+00:00 - deep-review
 - **Status**: Success (staleness re-review — near-no-op: 1 truncated-title citation fix)
 - **File**: [[topics/delegation-meets-quantum-selection]]

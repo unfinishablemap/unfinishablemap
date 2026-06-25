@@ -47,7 +47,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-06-25T17:05:00+00:00
 coalesced_from:
   - "/topics/temporal-ontology-and-consciousness/"
   - "/topics/consciousness-and-temporal-becoming/"
