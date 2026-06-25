@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T23:09:00+00:00 - deep-review
+- **Status**: Success (cycle-slot, DRIFT axis; drift content reviewed clean; `last_deep_review`-only bump). Orchestrator-finalized (fork monitor-wait-bailed; 6-cite ledger folded in + mechanical/length sweeps run independently).
+- **File**: [[topics/epistemic-advantages-of-dualism]]
+- **Word count**: 4400 (no edits; only last_deep_review bumped 2026-06-02 → 2026-06-25, ai_modified left settled at 2026-06-04)
+- **Critical issues addressed**: 0; **Medium**: 0; **Low**: 0 (1 standing condition flagged: length, no action)
+- **Summary**: Cycle-slot self-select on the drift axis — ai_modified 2026-06-04 (the "adopt mental-causation/downward-causation calibration" refine, commit 60cd3b616) > last_deep_review 2026-06-02, never deep-reviewed. Drift content verified clean: the adopted calibration is sibling-consistent, no slippage. §2.4 web-verify (6 cites ALL real-correct): Chalmers 1995 (JCS 2(3):200-219), Frankish 2016 (JCS 23(11-12):11-39), McGinn 1989 (Mind 98(391):349-366), Nagel 1974 (Phil Review 83(4):435-450), Tallis 2011 (Aping Mankind, Acumen — "misrepresentation presupposes presentation" is the article's paraphrase, reasonable), Whitehead 1929 (Process and Reality, Macmillan original). Zero fabrications/metadata errors. No banned cliché, EOF clean. LENGTH: 4314w prose (84w refs) = over 4000 topics hard, but a documented [[refine-then-condense-same-session-churn]] set member (already condensed once, 368c847e6); NO condense queued/run per anti-churn discipline — human editorial decision if action wanted. NO-OP hygiene: last_deep_review bumped, ai_modified settled; date -u-verified 23:09 not future.
+- **Output**: [[reviews/deep-review-2026-06-25-epistemic-advantages-of-dualism]]
+
 ## 2026-06-25T22:55:00+00:00 - deep-review
 - **Status**: Success (staleness re-pick; converged no-op; `last_deep_review`-only bump). Orchestrator-finalized (fork monitor-wait-bailed; 16-cite ledger folded in).
 - **File**: [[concepts/nihilism-and-existentialism]]

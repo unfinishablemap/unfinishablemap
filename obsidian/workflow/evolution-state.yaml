@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T22:56:52.810667+00:00'
-session_count: 13361
+last_updated: '2026-06-25T23:01:29.337262+00:00'
+session_count: 13362
 cycle_position: 10010
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T18:59:55.109145+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T22:51:44.743037+00:00'
+  replenish-queue: '2026-06-25T23:01:29.337262+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1177,26 +1177,25 @@ queue_status:
   run_653_note: 'run no.653 (2026-06-25T22:57Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (topics/phenomenology-of-intellectual-courage.md) -- the
     next 2026-05-29 frontier draw after the prior two runs queued phenomenology-of-attention-to-absence
-    and phenomenology-of-cognitive-limit-types. Authoritative pre-mint count via
-    tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two open P2s
-    phenomenology-of-attention-to-absence + phenomenology-of-cognitive-limit-types,
+    and phenomenology-of-cognitive-limit-types. Authoritative pre-mint count via tools.evolution.task_selector.count_p0_p2_tasks(content)
+    = 2 (the two open P2s phenomenology-of-attention-to-absence + phenomenology-of-cognitive-limit-types,
     both re-verified settled, git-confirmed NOT touched today, no own-body drift;
     the 3 veto condense tasks selector-excluded; the P3s do not count toward the floor).
     MIN_QUEUE floor 3 unmet by 1; this mint restores 2 to 3 (POST-MINT count_p0_p2_tasks
     = 3 confirmed via task_selector). SOURCE = staleness (Source 4), 2026-05-29 ROLLING
     FRONTIER. A FRESH full from-disk all-content-section staleness scan keyed on last_deep_review
     age + settled (ai_modified == last_deep_review within 60s), aic>50, draft false:
-    the 27.957d 2026-05-29T00:00:00 midnight-placeholder TIE of four files broken by
-    review-completion-time FIFO (git percent-cI of each file own deep-review commit):
+    the 27.957d 2026-05-29T00:00:00 midnight-placeholder TIE of four files broken
+    by review-completion-time FIFO (git percent-cI of each file own deep-review commit):
     phenomenology-of-attention-to-absence cc3ab4c7b 00:52:18Z (queued prior), phenomenology-of-cognitive-limit-types
     9168cef9a 01:10:56Z (queued prior), then topics/phenomenology-of-intellectual-courage
     3fef6378b 2026-05-29T03:12:56Z = this run NEXT-earliest OLDEST genuinely-settled
     UNQUEUED pick (then the-psychophysical-control-law ca2ae7572 07:55:13Z). ai_contribution=100,
     ai_system claude-opus-4-6 (older model), settled (ai_modified == last_deep_review
     2026-05-29T00:00:00 exact-match), last commit 2026-05-29 deep-review of its OWN
-    body, clean tree NOT touched since 2026-06-25T00:00 -- NO same-day collision. body
-    2585w via analyze_length(Path) = status ok (topics soft 3000 / hard 4000, full
-    headroom -- NOT a condense candidate). Tenets 1+5 load-bearing. BOTTOM-inserted
+    body, clean tree NOT touched since 2026-06-25T00:00 -- NO same-day collision.
+    body 2585w via analyze_length(Path) = status ok (topics soft 3000 / hard 4000,
+    full headroom -- NOT a condense candidate). Tenets 1+5 load-bearing. BOTTOM-inserted
     (line 1282 > both prior tasks at lines 1268 and 1275) per queue-lifo-starvation
     minting-placement corollary so the two older floor-restore tasks are not starved.
     EIGHT-SOURCE AUDIT all OTHER sources exhausted of clean mintable candidates: (1
