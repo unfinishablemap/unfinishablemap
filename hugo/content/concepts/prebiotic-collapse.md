@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-26 13:36:44+00:00
+ai_modified: 2026-06-25 10:41:55+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: How quantum wave functions collapsed before conscious observers exi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 13:36:44+00:00
+last_deep_review: 2026-06-25 10:41:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -233,7 +233,7 @@ The Map's commitment is to the *framework* (real collapse + consciousness modula
 
 ## References
 
-1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74.
+1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78. (Online 2020; print 2021.)
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.

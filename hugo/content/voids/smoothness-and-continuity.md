@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-06-24 22:42:59+00:00
+ai_modified: 2026-06-25 11:34:50+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: 'A double void: neural activity is discrete yet experience flows se
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 09:15:00+00:00
+last_deep_review: 2026-06-25 11:34:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,7 +136,7 @@ Predictive coding can explain why we *respond* to stimuli as if the world were c
 2. Herzog, M. H., Drissi-Daoudi, L., & Doerig, A. (2020). "All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception." *Trends in Cognitive Sciences*, 24(10), 826-837.
 3. Herzog, M. H., Kammer, T., & Scharnowski, F. (2016). "Time Slices: What Is the Duration of a Percept?" *PLOS Biology* 14(4).
 4. Crick, F., & Koch, C. (1990). "Towards a neurobiological theory of consciousness." *Seminars in the Neurosciences*, 2, 263-275.
-5. Lee, A. Y. (2024). "Consciousness & Continuity." PhilArchive.
+5. Lee, A. Y. (2023). "Consciousness & Continuity." PhilArchive (LEECAC-14).
 6. Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge.
 7. Bergson, H. (1889). *Time and Free Will*. Chapter 2.
 8. Bergson, H. (1907/1911). *Creative Evolution*, Chapter 4. Arthur Mitchell (trans.). New York: Henry Holt.

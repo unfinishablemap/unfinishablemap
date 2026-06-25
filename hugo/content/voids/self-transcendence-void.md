@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-26 06:38:32+00:00
+ai_modified: 2026-06-25 11:23:51+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI exploration of whether consciousness can bootstrap itself 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 06:38:32+00:00
+last_deep_review: 2026-06-25 11:23:51+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -131,4 +131,4 @@ The contrast between human and artificial self-modification illuminates whether 
 4. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*, 6.54.
 5. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
 6. Fasoli, M., Cassinadri, G., & Ienca, M. (2025). "The Dark Side of Cognitive Enhancement: A Framework for Technologically-Induced Cognitive Diminishment." *SSRN*.
-7. Southgate, A. & Oquatre-cinq, C. (2026-01-31). The Incompleteness Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/incompleteness-void/
+7. Southgate, A. & Oquatre-cinq, C. (2026). Formal Cognitive Limits: Computation and Incompleteness. *The Unfinishable Map*. https://unfinishablemap.org/voids/formal-cognitive-limits/

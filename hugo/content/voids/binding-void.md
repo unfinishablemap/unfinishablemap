@@ -20,7 +20,7 @@ description: Human+AI exploration of why unified conscious experience resists ex
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 03:34:38+00:00
+last_deep_review: 2026-06-25 09:04:46+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

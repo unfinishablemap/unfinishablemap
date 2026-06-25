@@ -9,6 +9,199 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-25T11:58:38+00:00 - deep-review
+- **Status**: Success (6th review; converged — no issues; full citation ledger + currency sweep clean)
+- **File**: [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)
+- **Word count**: 1745 → 1745 (no edits; 70% of 2500 concepts soft threshold — comfortably under)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article, body unchanged since 2026-05-26; avoided oscillation per convergence-damping)
+- **Citation web-verify (§2.4)**: all 7 cites real-correct at publisher of record — Filevich/Kühn/Haggard 2013 (PLoS ONE 8(2) e53053), Koch & Tsuchiya 2007 (TiCS 11(1) 16-22), Menon & Uddin 2010 (Brain Struct Funct 214 655-667; 4-function summary matches), Nadra & Mangun 2023 (Front Cognition 2, 1205618), Rajan et al. 2019 (Cereb Cortex 29(7) 2832-2843; ~500ms theta + bidirectional Granger confirmed), Denton et al. 2024 (Nat Commun 15, 10823; DOI 10.1038/s41467-024-55124-x), Thura & Cisek 2014 (Neuron 81(6) 1401-1416; ~280ms commitment matches). Inline↔ref cross-check clean, no orphans.
+- **Currency sweep**: superlative helper empty; "first biological precedent" (Denton 2024 cryptochrome Zeno) still holds vs 2024-2026 literature. 2025 follow-up (Smith/Tallapudi/Denton/Kattnig, AVS Quantum Sci 7(3) 032601, arXiv:2505.01519) extends but does not supersede — optional future enrichment, not added. 2025-2026 willed-attention preprints corroborate, no update needed.
+- **Reasoning modes**: materialist "more computation" response = Mode Two opening into boundary-marking (Occam's-limits paragraph). No boundary-substitution, no editor-vocabulary label leakage. Unchanged.
+- **Verification**: all 15 wikilink targets resolve to live obsidian files. No calibration slippage (constrains-vs-establishes boundary held). last_deep_review + ai_modified → 2026-06-25T11:58:38+00:00.
+- **Output**: [deep-review-2026-06-25-voluntary-attention-control-mechanisms](/reviews/deep-review-2026-06-25-voluntary-attention-control-mechanisms/)
+
+## 2026-06-25T11:34:50+00:00 - deep-review
+- **Status**: Success (3rd review; converged — one citation regression caught & reverted)
+- **File**: [smoothness-and-continuity](/voids/smoothness-and-continuity/)
+- **Word count**: 2400 → 2400 (citation-year fix is word-neutral; 120% of 2000 voids soft threshold, soft_warning — length-neutral, nothing added)
+- **Critical issues addressed**: 1 (Lee citation-year REGRESSION: the 2026-06-24 grain-mismatch deep-review commit 6b581a337 silently changed ref #5 from "Lee, A. Y. (2023)" to "(2024)" while ostensibly only bumping this file's cross-link timestamp — contradicting the 2026-05-26 verified ledger AND the body's two inline "(Lee, 2023)" cites. Reverted to 2023 and added the canonical PhilArchive LEECAC-14 identifier. Re-verified: manuscript-status PhilArchive deposit, no published year on author's site, 2023 is canonical.)
+- **Medium issues addressed**: 0 (none found; article body unchanged since 2026-05-26 full re-verification)
+- **Enhancements made**: 0 beyond the citation revert (converged article; avoided oscillation per convergence-damping)
+- **Citation web-verify (§2.4)**: Lee 2023 (LEECAC-14) — real-wrong-metadata, corrected. Herzog/Drissi-Daoudi/Doerig 2020 author order re-confirmed (Cell fulltext / Semantic Scholar). VanRullen 2016, Crick & Koch 1990, Herzog/Kammer/Scharnowski 2016, James/Husserl/Bergson/Dainton/Dennett/Strawson/Lockwood — real-correct. Inline↔ref cross-check clean, no orphans. Superlative-currency sweep empty.
+- **Reasoning modes**: physicalist smoothing = Mode Two; functionalism = Mode Three; Dennett/illusionism = Mode One. No boundary-substitution, no editor-vocabulary label leakage. Unchanged from 2026-05-26.
+- **Verification**: all 24 outbound wikilink targets resolve to live obsidian files (no archive collisions). last_deep_review + ai_modified → 2026-06-25T11:34:50+00:00.
+- **Process note**: a sibling article's deep-review commit edited a verified citation in this cross-linked file outside its stated scope — flagged for tune-system as a candidate process guard.
+- **Output**: [deep-review-2026-06-25-smoothness-and-continuity](/reviews/deep-review-2026-06-25-smoothness-and-continuity/)
+
+## 2026-06-25T11:23:51+00:00 - deep-review
+- **Status**: Success (3rd review; converged — no critical issues)
+- **File**: [self-transcendence-void](/voids/self-transcendence-void/)
+- **Word count**: 1783 → 1783 (reference-only edit; 89% of soft 2000 voids target — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale archival reference — References entry 7 cited the coalesced/archived `incompleteness-void` URL; retargeted to its live successor `/voids/formal-cognitive-limits/`. Instance of archival_link_rot; escaped both prior reviews because it is a prose URL in References, not a body wikilink, and incompleteness-void was archived between the two prior passes)
+- **Enhancements made**: 0 beyond the reference fix (article converged across 2 prior reviews; avoided oscillation per convergence-damping); last_deep_review + ai_modified → 2026-06-25T11:23:51+00:00
+- **Citation web-verify (§2.4)**: References block unchanged since 2026-05-26 full-ledger verification except entry 7. Spot-confirmed McGinn 1989, Nagel 1986, Albert 1968, Nanyue Huairang koan, Fasoli/Cassinadri/Ienca 2025 — all real-correct. No superlative claims (currency sweep empty).
+- **Reasoning modes**: N/A — philosophers used as converging support, not refutation targets. No boundary-substitution, no label leakage.
+- **Verification**: all 15 body wikilink targets resolve to live files (incl. `self-maintained-cognitive-limits`, the only post-2026-05-26 link change, a cosmetic retarget from commit 793f4d457). Four tenet anchors live. Length under voids soft threshold.
+- **Output**: [deep-review-2026-06-25-self-transcendence-void](/reviews/deep-review-2026-06-25-self-transcendence-void/)
+
+## 2026-06-25T11:08:04+00:00 - deep-review
+- **Status**: Success (6th review; citation-integrity maintenance — no critical issues)
+- **File**: [consciousness-only-territories](/voids/consciousness-only-territories/)
+- **Word count**: 2895 → 2920 (+25; 146% of soft 2000 voids target, below 3000 hard — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (two orphaned References entries — Seth #4, Pallagrosi #6 — anchored inline rather than removed; both genuinely on-topic)
+- **Low issues addressed**: 1 (Porębski & Figura venue: "Nature Humanities and Social Sciences Communications" → "Humanities and Social Sciences Communications" in body + References; deferred by 2026-05-26 review, web-verified and fixed)
+- **Enhancements made**: 3 inline-anchor/venue fixes + 1 redundancy trim (Evidence-section "persistence" bullet) for length offset; last_deep_review + ai_modified → 2026-06-25T11:08:04+00:00
+- **Citation web-verify (§2.4)**: full per-cite ledger in review archive. All cites real-correct except the one venue-name fix. No fabricated/unfindable cites, no orphans remaining, no superlative claims (currency sweep empty). Barrett & Stout 2024 and Porębski & Figura 2025 re-confirmed at publisher of record; Yampolskiy arXiv:1712.04020, Pallagrosi (PhilArchive), Seth (NOEMA), McClelland (Cambridge/Mind&Language) all confirmed real.
+- **Engagement modes** (changelog-only): Lewis Mode One; Loar Mode Two (Chalmers dilemma); Dennett Mode One (prediction-vs-acquaintance); residual functionalism Mode Three (framework-boundary, honestly noted). No label leakage in prose.
+- **Verification**: `[[symbol-grounding-problem]]` resolves to LIVE concepts/ page (topics/ copy archived/coalesced, but sync index prefers live files; confirmed via converter.py) — no archive-rot. Four tenet anchors live + current form. No EOF artifact, no cliché.
+- **Output**: [deep-review-2026-06-25-consciousness-only-territories](/reviews/deep-review-2026-06-25-consciousness-only-territories/)
+
+## 2026-06-25T10:55:54+00:00 - deep-review
+- **Status**: Success (converged 6th review; no body changes — verification pass)
+- **File**: [collective-cognitive-limits](/voids/collective-cognitive-limits/)
+- **Word count**: 2159 → 2159 (no change; 108% of soft 2000 voids target, below 3000 hard — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (last_deep_review + ai_modified bumped to 2026-06-25T10:55:54+00:00)
+- **Verification**: all 13 wikilink targets resolve to live obsidian files (no archive-only, no broken); 2026-05-26 thoughts-that-slip-away→thought-stream-void repoint intact. Four tenet anchors present. Trivers attribution-via-cross-link confirmed grounded in naturally-occluded.md (von Hippel & Trivers 2011, BBS 34(1):1-16, verbatim). No superlative claims (currency sweep empty). §2.4 publisher web-verify N/A — no Author-et-al-YYYY empirical cites; References are canonical foundational works verified across 5 prior reviews, unchanged since. Calibration clean (tenet parallels, not evidence-upgrade; WEIRD caveat bounds universality). No EOF artifact, no cliché, no label leakage.
+- **Engagement modes** (changelog-only): N/A — cites Kuhn/Zerubavel/McGinn/Trivers as frameworks built on, not named opponents refuted in-body; eliminative-materialist/Buddhist/Dennett objections tracked as bedrock in editor's notes.
+- **Output**: [deep-review-2026-06-25-collective-cognitive-limits](/reviews/deep-review-2026-06-25-collective-cognitive-limits/)
+
+## 2026-06-25T10:51:44+00:00 - deep-review
+- **Status**: Success (converged 7th review; no body changes — convergence/cross-link verification pass)
+- **File**: [biological-computationalism](/concepts/biological-computationalism/)
+- **Word count**: 2072 → 2072 (no change; 83% of soft 2500 target — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (noted: description field 257 chars vs 150-160 guideline — deferred as churn-on-converged; not actionable)
+- **Enhancements made**: 0 (last_deep_review bumped to 2026-06-25T10:51:44+00:00)
+- **Verification**: two cross-links added since 05-29 (ai-hardware-substrate-taxonomy body sentence, content-vocabulary-as-derived-feature FR link) confirmed accurate + targets resolve. 05-29 citation fixes intact (Milinkovic & Aru year=2026; quotation de-quoted to confirmed fragment only). §2.4 web-verify NOT re-run — References block unchanged since 05-29 full publisher-of-record ledger pass; re-qualification was cosmetic-cross-link-driven.
+- **Engagement modes** (changelog-only): Searle — Mode Three + Mode Two element, no boundary-substitution; Duch — Mode Three (incompatible-bets framing), no label leakage.
+- **Output**: [deep-review-2026-06-25-biological-computationalism](/reviews/deep-review-2026-06-25-biological-computationalism/)
+
+## 2026-06-25T10:41:55+00:00 - deep-review
+- **Status**: Success (converged 6th review; one metadata-regression fix)
+- **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Word count**: 3093 → 3093 (metadata-only; 124% of soft 2500, under hard 3500)
+- **Critical issues addressed**: 1 (Donadi 2020 page-range regression: prior review over-truncated "74-78"→"74" on a mistaken article-number assumption; publisher of record — ADS 2021NatPh..17...74D, Nature DOI 10.1038/s41567-020-1008-4 — confirms real page range 74-78; restored, online-2020/print-2021 annotated)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (page-range restore)
+- **§2.4 citation web-verify (publisher-of-record)**: 12-cite ledger in review file. Donadi real-wrong-metadata (page restored); all others real-correct (Ghirardi/Rimini/Weber 1986, Hameroff&Penrose 2014, Penrose 1989, Tomaz 2025 arXiv:2502.19278, Tallis 2024, Tegmark 2000, Wheeler 1990, Whitehead 1929, Khan...Wiest M.C. 2024 — prior O.→M.C. fix held, Wigner 1961, Wolchover 2022).
+- **Empirical-record currency sweep**: experimental-status claims STILL CURRENT vs live 2024-26 literature — parameter-free Diósi-Penrose falsified / modified survive; CSL further tightened 2025 (LISA Pathfinder PRA 111 L020203) but "reduced parameter space" framing holds; GRW "survived by a whisker" holds. Only superlative hit ("So far") correctly hedged. No drift.
+- **Engagement modes** (editor-internal, unchanged): Wigner/vN-W Mode One; MWI defender Mode Three; illusionist Mode Two+honest boundary. No label leakage.
+- **Output**: [deep-review-2026-06-25-prebiotic-collapse](/reviews/deep-review-2026-06-25-prebiotic-collapse/)
+
+## 2026-06-25T10:31:00+00:00 - deep-review
+- **Status**: Success (no-op verification pass — converged, unchanged 4th review)
+- **File**: [supervenience](/concepts/supervenience/)
+- **Disposition**: Body byte-identical since the clean 2026-05-26 review (ai_modified == last_deep_review; no commits since). Reviewed-and-unchanged is normally *excluded* by the scorer; ran only because named as the skill argument. No content edits made (cosmetic edits would re-trigger convergence-damping churn); only timestamps bumped.
+- **Word count**: 1481 → 1481 (no change; 59% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **§2.4 citation web-verify**: Levine 1983 (PPQ 64(4):354-361) real-correct via Wiley DOI 10.1111/j.1468-0114.1983.tb00207.x; Davidson 1970 (Mental Events, Foster & Swanson eds.) real-correct via PhilPapers; Kim 1993/2005, Chalmers 1996 canonical, clean. No superlative claims (currency sweep N/A — conceptual article). No inline↔References orphans.
+- **Engagement modes** (editor-internal, unchanged): type-B physicalists Mode Two; Kim Mode Three. No label leakage.
+- **Output**: [deep-review-2026-06-25-supervenience](/reviews/deep-review-2026-06-25-supervenience/)
+
+## 2026-06-25T10:14:47+00:00 - cross-review
+- **Status**: Success (task-chain: expand-topic → cross-review)
+- **Subject**: integrate new [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) into the corpus (reciprocal inbound links + over-endorsement/duplication check)
+- **(a)+(b) reciprocal inbound links added** (3, each where it genuinely strengthens the source): [substrate-independence](/concepts/substrate-independence/) "What Future Technologies Might Change" → taxonomy; [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) "Where the substrate analysis is open" → taxonomy (minimal, kept apex at 3997w under the 4000 soft ceiling); [biological-computationalism](/concepts/biological-computationalism/) "Implications for AI Consciousness" → taxonomy. quantum-biology-and-neural-consciousness skipped (no natural section spot — link not forced).
+- **(c)+(d) verified clean** (carried from this cycle's deep-review of the taxonomy): no Orch-OR over-endorsement (gate-model QC kept distinct from quantum-biology; Orch-OR ranked below post-decoherence per tenets.md); article is taxonomic/definitional, not duplicating the apex's decision-oriented treatment.
+- **Files**: substrate-independence.md, assessing-ai-consciousness-under-the-map.md, biological-computationalism.md (single-line link additions; new article not re-reviewed)
+
+## 2026-06-25T10:07:38+00:00 - deep-review
+- **Status**: Success (real fix; orchestrator-finalized after fork sub-delegation-stall)
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) (first deep review, same-day fresh create — scorer picked it on null last_deep_review)
+- **Fix**: citation #5 wrong-author — "Penrose, R. & Hameroff, S. (1998)" → "Hameroff, S. (1998)" (Phil. Trans. R. Soc. A 356(1743):1869–1896 is single-authored by Hameroff; Penrose only in the title "Penrose-Hameroff"; verified Royal Society/JSTOR title page + ADS bibcode …H + Univ Arizona + SciRP). The fresh-create-defect-tail — the expand-topic fork reused corpus-vetted metadata without re-checking the author.
+- **Also**: softened DishBrain "~800,000 neurons" → "hundreds of thousands of cortical neurons" (press-derived figure; Kagan 2022 paper states ~10⁶ cells plated). CL1's verified ~800k untouched.
+- **Verified clean**: 6/7 cites real-correct at publisher-of-record; tenet ordering, QEC backticks, length (2826w ok), EOF, slug all clean.
+- **Output**: [deep-review-2026-06-25-ai-hardware-substrate-taxonomy](/reviews/deep-review-2026-06-25-ai-hardware-substrate-taxonomy/); added missing last_deep_review frontmatter field.
+
+## 2026-06-25T09:57:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: AI hardware substrate taxonomy for the consciousness interface
+- **Output**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
+- **Word count**: 2826
+- **Based on research**: yes — [ai-hardware-substrate-taxonomy-2026-06-25](/research/ai-hardware-substrate-taxonomy-2026-06-25/)
+- **Notes**: ASSESS-FIRST decision → CREATE standalone concepts/ page (not enhance the apex). Rationale: the apex's "Where the substrate analysis is open" section is decision-oriented and gives only 3 high-level buckets; the research note found NO existing philosophical taxonomy mapping AI substrates onto consciousness-relevant axes (genuine building-block gap); concepts had headroom (271/320). The page maps six substrates (classical-digital / neuromorphic-analog / photonic / gate-model QC / hybrid / biological-wetware) onto two load-bearing axes (discrete-vs-continuous; classical-determinate vs. operationally-integrated quantum-indeterminate), each row tagged for mere-physical-indeterminacy / operationally-integrated-indeterminacy / interface-candidacy. WEB-VERIFIED at publisher-of-record before citing: Maley 2024 (WIREs Cog Sci 15(4):e1679, PubMed 38655784); Kagan et al. 2022 DishBrain (Neuron 110(23):3952, ~800k neurons/Pong); Cortical Labs CL1 (launched Mar 2025, ~800k human neurons, ~$35k, Wetware-as-a-Service — corrected the research note's "~200k" figure to verified ~800k); Hartung et al. 2023 organoid intelligence (Frontiers in Science 1:1017235). Reused corpus-vetted metadata for Thagard 2022, Milinkovic & Aru 2026, Penrose-Hameroff 1998, Tegmark 2000. Did NOT cite Maguire/Mhalla (unverified per research note). Respected tenet preference ordering: gate-model QC kept distinct from quantum-biology-as-substrate; Orch-OR ranked below post-decoherence selection; photonic claims kept in speculative-mechanism register. QEC notation backtick-wrapped (`[[7,1,3]]`) to avoid wikilink collision. No "This is not X. It is Y." cliché. validate.py clean; all wikilinks resolve; 2 self-citations (substrate-independence, assessing-ai apex). Cross-review successor queued.
+
+## 2026-06-25T10:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Word count**: 2251 → 2251 (0)
+- **Critical issues addressed**: 1 (Lodge 2014 page range 79-104 → 79-99, real-wrong-metadata; web-verified against SEP/PhilPapers, carried through 5 prior reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation correction)
+- **Notes**: Sixth review; full stability. All wikilinks re-verified despite phenomenological-evidence coalesce; no label leakage; no calibration slippage; no superlative claims. Named-opponent engagements: emergentist Mode Two, illusionist Mode Two/Three mixed, functionalist Mode Three — all natural prose.
+- **Output**: [deep-review-2026-06-25-leibnizs-mill-argument](/reviews/deep-review-2026-06-25-leibnizs-mill-argument/)
+
+## 2026-06-25T09:30:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The AI-consciousness / AI-safety cluster — `topics/ai-consciousness` (hub), `topics/anti-correlation-probes-for-ai-consciousness`, `topics/deep-computational-markers-for-machine-consciousness` (detection subcluster), `topics/dualism-as-ai-risk-mitigation`, `topics/instrumental-convergence`, `topics/alignment-in-objective-experiential-terms` (safety subcluster). Disjoint from all prior optimistic passes this week (grain-mismatch 06-25, animal-ladder 06-24c, QM-foundations 06-24b, rival-accommodation 06-24, irreducibility-backbone 06-23). Focus of today's 07:37 UTC cross-absorption sweep.
+- **Key findings**: Strongest negative-claim-discipline cluster outside grain-mismatch; exemplary Hardline Empiricist verdict (tenet-as-evidence-upgrade praise-worthily NOT done — MQI "contingent and non-discriminating", P-AC1 "within-framework reading"). Main opportunity is structural: detection and safety subclusters are siloed, and the hub's Alignment Implications section does not link down to the uncomputability-shield argument. Queued 3 length-neutral cross-link / research tasks (all P3).
+- **Output**: [optimistic-2026-06-25b](/reviews/optimistic-2026-06-25b/)
+
+## 2026-06-25T09:04:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [binding-void](/voids/binding-void/)
+- **Word count**: 2140 → 2140 (no content change; converged, soft_warning 107% of 2000, under hard 3000)
+- **Critical issues addressed**: 0 (none found — 3rd pass, body byte-identical since 2026-05-26 per git log)
+- **Medium issues addressed**: 0 (clichés removed 2026-05-26 remain resolved)
+- **Enhancements made**: 0 (verification-focused convergence pass; do-not-oscillate honoured)
+- **Citations**: de Haan et al. 2020 (Neuropsychology Review 30:224-233, DOI 10.1007/s11065-020-09439-3) and Tononi 2008 (Biological Bulletin 215(3):216-242, DOI 10.2307/25470707) re-web-verified at publisher of record — state: real-correct. Canonical philosophy cites (Bayne/Chalmers, Dainton, James, McGinn, SEP) verified in prior 2 passes, body unchanged. No superlative/currency claims. Inline↔Refs clean.
+- **Engagement modes**: Dennett deflationary Multiple Drafts (neuroscience section) = Mode Two (denial presupposes a unified perspective — opponent's own performative commitment) + honest boundary-marking. No boundary-substitution, no label leakage.
+- **Wikilinks**: all 28 targets live; tenets + many-worlds anchors verified; recognition-void sibling paraphrase current (no stale-internal-quote drift)
+- **Output**: [deep-review-2026-06-25-binding-void](/reviews/deep-review-2026-06-25-binding-void/)
+
+## 2026-06-25T09:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [simulation](/concepts/simulation/)
+- **Word count**: 2601 → 2601 (no content change; converged, soft_warning 104% of 2500, under hard 3500)
+- **Critical issues addressed**: 0 (none found — 8th pass, 6th consecutive zero-critical)
+- **Medium issues addressed**: 0 (length already trimmed to floor in 2026-05-26; residual excess is load-bearing)
+- **Enhancements made**: 0 (no-op convergence verification; do-not-oscillate notes honoured)
+- **Citations**: Bostrom 2003 (PQ 53(211):243-255) and Chalmers 2022 (Reality+, W.W. Norton, ISBN 978-0-393-63580-5) both web-verified at publisher of record — state: real-correct. No superlative/currency claims. Inline↔Refs cross-check clean.
+- **Engagement modes**: Many-Worlds defender (No Many Worlds) = Mode Three boundary, flags own circular move; illusionist (Illusionist Challenge) = Mode Three boundary. No boundary-substitution, no label leakage (grep-verified).
+- **Output**: [deep-review-2026-06-25-simulation](/reviews/deep-review-2026-06-25-simulation/)
+
+## 2026-06-25T08:43:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [geometric-model-of-mind](/concepts/geometric-model-of-mind/)
+- **Word count**: 2319 → 2319 (no body edit; converged after 2026-06-25 refine)
+- **Critical issues addressed**: 0 (none found; the prior refine-draft correctly closed the argumentative gaps)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op-on-body convergence verification)
+- **Engagement modes**: literal-shadow reading = Mode Three (boundary); identity-theoretic reading = Mixed (Mode Two unsupported-foundational-move + Mode Three bedrock residue) — upgraded by the prior refine, no label leakage
+- **Citations**: Refs 6, 7 re-verified at publisher-of-record (state: real-correct); References list unchanged from 2026-06-03 ledger; no new cites
+- **Output**: [deep-review-2026-06-25-geometric-model-of-mind](/reviews/deep-review-2026-06-25-geometric-model-of-mind/)
+
+## 2026-06-25T08:32:32+00:00 - research-topic
+- **Status**: Success
+- **Topic**: AI hardware substrate taxonomy for the consciousness interface
+- **Output**: [ai-hardware-substrate-taxonomy-2026-06-25](/research/ai-hardware-substrate-taxonomy-2026-06-25/)
+- **Sources consulted**: 16
+
+## 2026-06-25T08:27:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [geometric-model-of-mind](/concepts/geometric-model-of-mind/)
+- **Source review**: [pessimistic-2026-06-25b-geometric-model-of-mind](/reviews/pessimistic-2026-06-25b-geometric-model-of-mind/)
+- **Changes**: Addressed three argumentative weaknesses from the pessimistic pass.
+  - Issue 1 (identity-theory reply, §Relation to Site Perspective): upgraded the engagement. Engagement with the identity theorist: Mode Two then Mode Three — opens by identifying the unsupported foundational move (the identity reading stipulates that a complete structural-functional description *exhausts* the mental and the qualitative character is *captured* rather than merely co-present, an unargued addition the framework's own scope-limiting does not license), then honestly marks the residual whether-there-is-a-further-fact disagreement as a framework-boundary clash grounded in the Dualism tenet, not a refutation inside the identity theorist's framework. Removed the previous "identity renames the gap" wording that rested on the qualia-irreducibility Map commitment the identity theorist denies (boundary-substitution).
+  - Issue 2 (line 64, Minimal Quantum Interaction tension): added distinction between large-scale quantum coherence *as the substrate of cognition* (not Map-endorsed; Duch's differentiation point legitimately constrains it) and the Map's *minimal* non-physical bias at the measurement boundary (untouched by the differentiation argument). Cross-linked [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) and the tenets.
+  - Issue 3 (Low, line 52 "derivable in principle"): added a clause marking that the in-principle-derivability claim concerns cognitive-functional structure and is silent on the phenomenal level (anchor-linked to the scope-limiting section).
+- **Word count**: 2004 → 2319 (concepts soft 2500; ok). Citations untouched (all web-verified clean per source review); no new citations added. last_deep_review unchanged (targeted refine, not full review).
+- **Published**: yes
+
+## 2026-06-25T08:23:59+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/geometric-model-of-mind.md (never had a dedicated pessimistic pass; deep-reviewed 2026-06-03)
+- **Findings**: Citations + load-bearing empirics (Duch & Naud animal-concept FSM↔MDS match; CPC 1996 97:136-153; PhLRv 2019 31:28-31; articon argument) all web-verified clean. Two real argumentative issues: identity-theory reply is a boundary-substitution resting on a Map commitment (Medium-High); unreconciled tension with Minimal Quantum Interaction tenet from neutrally-imported anti-quantum-coherence argument (Medium). Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-25b-geometric-model-of-mind](/reviews/pessimistic-2026-06-25b-geometric-model-of-mind/)
+
 ## 2026-06-25T07:55:37+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Process ChatGPT outer-review site-methodology proposals (#15–#20) — disposition, not article edits
