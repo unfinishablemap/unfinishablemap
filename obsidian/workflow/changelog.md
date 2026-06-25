@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-25T01:24:01+00:00
+ai_modified: 2026-06-25T01:46:02+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-25T01:46:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Word count**: 4124 → 4124 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth review; highly converged (no-op confirmation). Diff-first vs last-review commit b72c721b3: two edits since 2026-06-04 — (1) reciprocated [[embodied-interface]] cross-link + de-flationary corollary (attention does NOT annex all embodiment), (2) two citation-metadata CORRECTIONS in References. Both corrections web-verified CORRECT at publisher of record: Melloni et al. 2025 title→"Adversarial testing of global neuronal workspace and integrated information theories of consciousness" (Nature, DOI 10.1038/s41586-025-08888-1); Sjöberg 2024 pages 2267-2274→2267-2269 (Brain 147(7), Oxford Academic). No superlative claims (currency sweep empty). All 5 tenet anchors + 8 source links + embodied-interface link resolve; reciprocation confirmed. No label leakage; no slippage. Engagements: AST = Mixed; predictive-processing = Mode Three dominant (unchanged). Length 4124w = 103% soft, under hard. Convergence-damping: now ≥3 reviews + reviewed <14d → will be excluded from re-selection ~2 weeks.
+- **Output**: [[reviews/deep-review-2026-06-25-attention-as-causal-bridge]]
 
 ## 2026-06-25T01:40:00+00:00 - deep-review
 - **Status**: Success

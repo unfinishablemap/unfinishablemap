@@ -4,8 +4,8 @@ description: "How does consciousness act on matter? Through attention—a bandwi
 created: 2026-02-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-06-22T15:05:00+00:00
-last_deep_review: 2026-06-04T17:36:19+00:00
+ai_modified: 2026-06-25T01:46:02+00:00
+last_deep_review: 2026-06-25T01:46:02+00:00
 draft: false
 topics:
   - "[[structure-of-attention]]"
@@ -43,7 +43,7 @@ apex_sources:
   - topics/attention-and-the-consciousness-interface
   - topics/phenomenology-of-returning-attention
   - voids/attention-and-consciousness
-apex_last_synthesis: 2026-06-04T17:36:19+00:00
+apex_last_synthesis: 2026-06-25T01:46:02+00:00
 apex_thesis: "Attention is the causal bridge between consciousness and the physical world—a bandwidth-limited selection interface through which mind biases quantum indeterminacy in neural systems."
 ---
 
