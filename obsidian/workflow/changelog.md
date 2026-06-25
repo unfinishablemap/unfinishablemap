@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T22:38:09+00:00 - deep-review
+- **Status**: Success (4th-consecutive converged no-op; `last_deep_review`-only bump).
+- **File**: [[topics/phenomenology-of-conceptual-frameworks]]
+- **Word count**: 3164 → 3164 (no body edits; `last_deep_review` bumped 2026-05-28 → 2026-06-25, `ai_modified` left settled at 2026-05-28)
+- **Critical issues addressed**: 0; **Medium**: 0; **Low**: 0; **enhancements**: 0
+- **Summary**: Convergence-damping candidate (3 prior reviews: 04-16, 04-17, 05-28). Body byte-unchanged since the thorough 2026-05-28 review (only commit touching the file since is that review's own commit `9820e855d`), so the §2.4 web-verify trigger is NOT met — the full 11-cite publisher-of-record ledger from 05-28 stands and is not re-litigated (canonical refs: Carey 2009, Chi 1992, Davidson 1974, Heidegger 1927, James 1890, Kuhn 1962, McGinn 1989, Nersessian 2008, Polanyi 1958, Ratcliffe 2008, Thagard 1992). Mechanical sweeps this pass: EOF clean (no tool-tag); banned "X is not Y. It is Z." cliché ABSENT; no superlative claims (currency N/A); stale-internal-quote channel N/A (quotes are external attributions — Kuhn "different worlds", Ratcliffe *feelings of being*, Polanyi *personal knowledge*); all recently-migrated wikilinks resolve (conceptual-scheme-void, edge-states-and-void-probes, what-voids-reveal, creative-consciousness + 5 others). Length 3164w = 105% soft, under 4000 hard — NOT a condense candidate. Calibration (Tenet 5/1): framework-relativity at epistemic-salience tier not inflated to anti-realism; quantum move flagged speculative; opener thesis-phrase argued-not-slipped. No-op hygiene: ai_modified left settled, only last_deep_review bumped; date -u-verified not future.
+- **Output**: [[reviews/deep-review-2026-06-25-phenomenology-of-conceptual-frameworks]]
+
 ## 2026-06-25T22:20:00+00:00 - deep-review
 - **Status**: Success (staleness re-pick; near-no-op — 2 banned-cliché fixes; both timestamps bumped). Orchestrator-finalized (fork monitor-wait-bailed; citation subagent 15-cite ledger folded in + non-citation sweeps run independently).
 - **File**: [[topics/consciousness-defeats-explanation]]
