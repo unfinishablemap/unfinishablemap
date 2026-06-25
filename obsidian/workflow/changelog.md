@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T23:16:00+00:00 - deep-review
+- **Status**: Success (staleness re-pick; converged no-op; `last_deep_review`-only bump). Orchestrator-finalized (fork monitor-wait-bailed; 6-cite ledger folded in + mechanical sweeps run independently).
+- **File**: [[topics/phenomenology-of-attention-to-absence]]
+- **Word count**: 2154 → 2154 (no edits; only last_deep_review bumped 2026-05-29 → 2026-06-25, ai_modified left settled)
+- **Critical issues addressed**: 0; **Medium**: 0; **Low**: 0
+- **Summary**: 2026-05-29 staleness frontier-tier pick. Body byte-unchanged since 2026-05-29 review (git cc3ab4c7b). Full §2.4 web-verify (6 cites ALL real-correct): Farennikova 2013 (Phil Studies 166(3):429-454), Heidegger 1927/2010 (Stambaugh/SUNY), Husserl 1893-1917/1991 (Brough/Kluwer), James 1890 (Holt), Näätänen et al. 2007 (Clin Neurophysiol 118(12):2544-2590), Sartre 1943/1956 (Barnes/Philosophical Library) — translation imprints correct. All 4 substantive attributions FAITHFUL (Farennikova perceptual-not-inferential template-mismatch; Näätänen omission-MMN preattentive; Sartre Pierre/négatité; Heidegger broken-tool ready-to-hand). Zero fabrications/metadata errors. Mechanical: 2154w ok, EOF clean, no banned cliché, currency/stale-quote N/A. Optional non-errors noted (cite 5 missing ": a review" subtitle; cite 2 revised-edition flag) — not actioned. NO-OP hygiene: last_deep_review bumped, ai_modified settled; date -u-verified 23:16 not future.
+- **Output**: [[reviews/deep-review-2026-06-25-phenomenology-of-attention-to-absence]]
+
 ## 2026-06-25T23:09:00+00:00 - deep-review
 - **Status**: Success (cycle-slot, DRIFT axis; drift content reviewed clean; `last_deep_review`-only bump). Orchestrator-finalized (fork monitor-wait-bailed; 6-cite ledger folded in + mechanical/length sweeps run independently).
 - **File**: [[topics/epistemic-advantages-of-dualism]]
