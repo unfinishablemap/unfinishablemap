@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-05-27T13:20:00+00:00
+last_deep_review: 2026-06-25T19:40:04+00:00
 ---
 
 The body shows up to consciousness in two registers. There is the body I *am*—the felt, first-person body I inhabit, that anchors my "here," reaches without my watching it reach, and carries the weight, warmth, and ache of being a creature. And there is the body I *have*—the object on the examination table, weighable, dissectible, observable from outside like any other physical thing. Phenomenology names these the **lived body** (Husserl's *Leib*, Merleau-Ponty's *corps propre*) and the **objectified body** (*Körper*, *corps objectif*). The distinction is one of the most secure findings in the phenomenology of embodiment, and it is the canonical anchor through which The Unfinishable Map's embodiment articles route their treatment of the felt body.

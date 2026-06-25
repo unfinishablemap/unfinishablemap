@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T19:40:04+00:00 - deep-review
+- **Status**: Success (clean no-op — all 6 citations real-correct)
+- **File**: [[concepts/lived-objectified-body-distinction]]
+- **Word count**: 1892 → 1892 (no change)
+- **Critical issues addressed**: 0; **fixes**: 0
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed (13th this session); its citation subagent completed ~70s later. §2.4 publisher-of-record verify: all 6 cites real-correct, all attributions faithful — Husserl *Ideas II* 1952/1989 (Doppelempfindung/double-sensation faithful), Merleau-Ponty *Phenomenology of Perception* 1945/2012 Landes (corps propre/"I can"), Sacks "Disembodied Lady" 1985 + *A Leg to Stand On* 1984 Duckworth, Carman *Phil Topics* 27(2):205-226, Ramachandran & Hirstein *Brain* 121(9):1603-1630. Leib/Körper distinction correctly Husserlian (no conflation/inversion). Calibration clean. last_deep_review bumped; ai_modified left settled (no body change).
+- **Output**: [[reviews/deep-review-2026-06-25-lived-objectified-body-distinction]]
+
 ## 2026-06-25T19:34:14+00:00 - deep-review
 - **Status**: Success (near-no-op: 1 wrong-author citation fix)
 - **File**: [[voids/inaccessible-past]]
