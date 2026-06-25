@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-06-03T06:25:00+00:00
+ai_modified: 2026-06-25T03:34:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
-last_deep_review: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-06-25T03:34:52+00:00
 coalesced_from:
   - "/concepts/phenomenal-unity/"
   - "/concepts/unity-of-consciousness/"
