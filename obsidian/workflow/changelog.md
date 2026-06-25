@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T13:51:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Word count**: 3999 → 3994 (-5; length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 substantive — all three same-day pessimistic-review issues (lede ratio, evolutionary sub-premise, resolution-bandwidth circularity) confirmed already resolved by the same-day refine-draft (c9498adce) that flagged this article for review
+- **Enhancements made**: 2 precision softenings from §2.4 web-verify (200 bits/neuron → "hundreds of bits/s"; Schwartz "18 participants" → "fewer than 20") + 1 offsetting redundancy trim
+- **Summary**: 7th deep review; verification/convergence pass. Full §2.4 publisher-of-record web-verify of all 20 citations — ZERO fabrications, ZERO wrong-metadata (per-cite ledger in archive); confirms the May Wu-vs-Musslick correction stable. Inline↔References clean both directions; arithmetic re-derives (10⁹/10=10⁸, 10⁷/10=10⁶); EOF clean; no QEC notation; no superlative claims (currency sweep skipped); no label-leakage; no internal-quote staleness (no sibling-Map verbatim quotes); no possibility/probability slippage. Six adversarial standoffs are bedrock framework-boundary disagreements — not re-flagged. Article fully converged; future reviews metadata-only.
+- **Engagement modes**: GWT/Dehaene (Mode Three, framework-boundary honestly marked); production-theorist evolutionary rejoinder (Mode Two→Three, in-framework rebuttal then honest residue) — both in natural prose, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-25-bandwidth-of-consciousness]]
+
 ## 2026-06-25T13:27:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/pragmatism]]

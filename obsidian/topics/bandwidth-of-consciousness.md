@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-06-25T13:21:31+00:00
+ai_modified: 2026-06-25T13:55:08+00:00
 draft: false
 description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -49,7 +49,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated: null
-last_deep_review: 2026-05-28T21:33:26+00:00
+last_deep_review: 2026-06-25T13:55:08+00:00
 coalesced_from:
   - "/topics/neural-bandwidth-constraints-and-the-interface/"
   - "/topics/asymmetric-bandwidth-of-consciousness/"
@@ -88,7 +88,7 @@ The ceiling holds regardless of training, talent, or task type. Chunking (Miller
 
 Zheng and Meister call the ratio between sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting ratio"—"the largest unexplained number in brain science."
 
-Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynski (2025) accept the ~10 bits/s ceiling for conscious cognition but demonstrate that unconscious motor control vastly exceeds it. A runner's stride requires coordinating dozens of muscles at 250ms timescales; the cerebellum performs continuous real-time sensorimotor processing far exceeding the conscious ceiling, and on their estimate individual neurons transmit ~200 bits per second (Sauerbrei & Pruszynski 2025). The bottleneck is specifically at *[[access-consciousness|conscious access]]*—not in the computational substrate surrounding it.
+Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynski (2025) accept the ~10 bits/s ceiling for conscious cognition but demonstrate that unconscious motor control vastly exceeds it. A runner's stride requires coordinating dozens of muscles at 250ms timescales; the cerebellum performs continuous real-time sensorimotor processing far exceeding the conscious ceiling. The bottleneck is specifically at *[[access-consciousness|conscious access]]*—not in the computational substrate surrounding it.
 
 ## The Inbound Channel
 
@@ -154,11 +154,11 @@ This seems to match the phenomenology of deliberate action: choosing among prese
 
 At 10 bits per second, conscious selection operates over *patterns*—action policies, attentional targets, cognitive strategies—not individual neural firing events. Wu et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, and the ~280–300ms timing window for [[motor-selection|motor commitment]] aligns with conscious selection at ~3 Hz (consistent with the ~3 bits/selection derivation above). This matches the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness *cannot* interact at finer grain because the channel is too narrow. The same capacity language puts a concrete handle on [[the-interface-problem|the interface specification problem]]: how conscious states map lawfully to physical selections. The [[inverted-qualia]] argument meets the same discipline on the qualitative side—if phenomenal character is causally efficacious, qualitative differences must reach behaviour through this narrow channel.
 
-The bandwidth constraint applies per unit time, but effects accumulate—the basis of [[attentional-economics|attentional economics]]. Schwartz's OCD research illustrates this: patients showed measurable caudate nucleus changes through accumulated conscious effort over weeks, though the original study was small (18 participants) and has not been independently replicated.
+The bandwidth constraint applies per unit time, but effects accumulate—the basis of [[attentional-economics|attentional economics]]. Schwartz's OCD research illustrates this: patients showed measurable caudate nucleus changes through accumulated conscious effort over weeks, though the original study was small (nine participants) and has not been independently replicated.
 
 ## What Happens Outside the Bandwidth
 
-The [[baseline-cognition|baseline cognition hypothesis]] attributes sophisticated cognition—tool use, social learning, spatial navigation—to unconscious systems operating at full neural bandwidth. What requires conscious bandwidth is *manipulation*: logical reasoning, counterfactual thinking, recursive language. Skills that begin as conscious processes become automatic with practice, explaining why elite performers do not widen the bottleneck: expertise works *around* the ceiling by moving processing below it, not *through* it by expanding conscious capacity.
+The [[baseline-cognition|baseline cognition hypothesis]] attributes sophisticated cognition—tool use, social learning, spatial navigation—to unconscious systems operating at full neural bandwidth. What requires conscious bandwidth is *manipulation*: logical reasoning, counterfactual thinking, recursive language. Skills that begin as conscious processes become automatic with practice: expertise works *around* the ceiling by moving processing below it, not *through* it by expanding conscious capacity.
 
 ## The Epiphenomenalism Test
 
