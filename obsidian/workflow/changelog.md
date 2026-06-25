@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T21:13:11+00:00 - deep-review
+- **Status**: Success (focused verification of one unreviewed cross-review paragraph — 6th review)
+- **File**: [[concepts/interface-friction]]
+- **Word count**: 2304 → 2304 (no edits; only last_deep_review bumped, ai_modified left at settled 2026-05-28)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0; **enhancements**: 0
+- **Summary**: 6th deep review of a highly converged concept (prior passes 2026-02-20/03-19/04-16/04-17/05-28). The only post-2026-05-28 change was the empirical-phenomena-mental-causation cross-review (commit 74d590a53, 23:58 same day) adding a "destructive face / choking phenomenon" paragraph + `[[empirical-phenomena-mental-causation]]` link WITHOUT bumping last_deep_review — so the paragraph was never deep-review-scrutinised. Verified: wikilink + "placebo and choking" anchor resolve (sibling exists, title matches); choking claim faithful to sibling ("conscious self-monitoring degrades automatised skill"); no source/Map conflation; calibration-honest ("active interference" offered as accommodated phenomenon, not evidence-elevation); no new citations. §2.4 publisher-of-record web-verify NOT re-run — every citation/reference line byte-identical to the 2026-05-28 verified ledger (8 cites all real-correct), zero cites added by the new paragraph, skip-clause met. Empirical-currency sweep: find_superlative_claims zero hits. Arithmetic stability note held (twelve-order decoherence gap, not re-inflated to thirteen); Zheng & Meister year held at 2025. Reasoning-mode: generic physicalist engagement = Mode Three boundary-marking + Mode Two seed, no label leakage. No banned "This is not X. It is Y." cliché; no EOF tool-tag artifact. 2304w (92% of 2500 soft, OK). last_deep_review bumped to 2026-06-25; ai_modified left as-is.
+- **Output**: [[reviews/deep-review-2026-06-25-interface-friction]]
+
 ## 2026-06-25T20:54:07+00:00 - deep-review
 - **Status**: Success (confirm-convergence no-op — 5th review)
 - **File**: [[concepts/phenomenal-depth]]
