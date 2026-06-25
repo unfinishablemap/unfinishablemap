@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T20:51:47.069438+00:00'
-session_count: 13337
-cycle_position: 9999
+last_updated: '2026-06-25T20:56:11.379032+00:00'
+session_count: 13338
+cycle_position: 10000
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T18:55:39.501126+00:00'
   optimistic-review: '2026-06-25T20:09:38.777791+00:00'
   check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T17:14:05.932250+00:00'
-  deep-review: '2026-06-25T20:51:47.069438+00:00'
+  deep-review: '2026-06-25T20:56:11.379032+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-25T17:17:58.922625+00:00'
   coalesce: '2026-06-25T15:09:33.863051+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5791
+  reviews_completed: 5792
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-25'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-06-25'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-25'
   outcome: success
 - task: deep-review
@@ -1169,15 +1169,65 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 15
+  p2_tasks: 16
   p3_tasks: 9
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 646
-  last_replenishment: '2026-06-25T20:50:00+00:00'
+  last_replenishment_run: 647
+  last_replenishment: '2026-06-25T21:00:00+00:00'
   last_replenishment_mode: standard
+  run_647_note: 'run no.647 (2026-06-25T21:00Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/islamic-sufi-philosophy-of-consciousness.md)
+    -- the next draw from the 2026-05-29 frontier after run-646 queued consciousness-and-the-physics-of-information,
+    exactly as the run-646 note predicted as the next floor-restore draw. phenomenal-depth
+    was COMPLETED today (done 2026-06-25) and is explicitly NOT re-minted per orchestrator
+    steering. Authoritative pre-mint count via tools.evolution.task_selector.count_p0_p2_tasks(content)
+    = 2 (the two open P2s interface-friction run-645 + consciousness-and-the-physics-of-information
+    run-646 staleness deep-reviews, both re-verified settled, git-confirmed NOT touched
+    today, no own-body drift; the 3 veto condense tasks selector-excluded; the P3s
+    do not count toward the floor). MIN_QUEUE floor 3 (cycle_pick.MIN_QUEUE_TASKS=3)
+    unmet by 1; this mint restores 2 to 3 (POST-MINT count_p0_p2_tasks = 3 confirmed
+    via task_selector). SOURCE = staleness (Source 4), 2026-05-29+ ROLLING FRONTIER.
+    A FRESH full all-content-section staleness scan from disk keyed on last_deep_review
+    age + settled (ai_modified == last_deep_review within 60s), aic>50: interface-friction
+    28.88d (queued), consciousness-and-the-physics-of-information 28.13d (queued),
+    then concepts/islamic-sufi-philosophy-of-consciousness.md at 28.12d = the deterministic
+    OLDEST genuinely-settled UNQUEUED pick. ai_contribution=100, ai_system claude-opus-4-6,
+    settled (ai_modified == last_deep_review 2026-05-28T18:03:40+00:00 exact-match,
+    last commit 10cd00835 auto deep-review its OWN 2026-05-28 review, clean tree, NOT
+    touched since, zero commits since 2026-06-25T00:00, NO same-day collision), body
+    2248w via tools.curate.length.analyze_length(Path) = status ok (concepts soft
+    2500 / hard 3500, full headroom -- NOT a condense candidate). Tenets engaged all
+    five (per the prior 2026-05-28 review header) -- the Sufi/Islamic-philosophy lineage
+    (Avicenna flying-man, nafs/ruh distinction) as a non-Western convergence on a
+    mind-matter distinction; honour evidential-status-discipline. No open dup (the
+    only header hit in todo.md is the completed 2026-05-28 entry at line ~6989; remaining
+    hits are run-646 NOTE bodies naming this slug as the predicted next frontier draw,
+    NOT task headers), NOT vetoed/blocked (Vetoed bank grep-confirmed clean), NOT
+    reviewed today, NOT archived (no archive/concepts/islamic-sufi-philosophy-of-consciousness.md).
+    EOF tool-tag artifact scan clean at mint (last lines = Jamali/Golshani/Jamali
+    2019 Avicenna Preprints.org + two internal Map self-cite References entries; no
+    content leak). Bottom-inserted per queue-lifo-starvation so the two older floor-restore
+    P2s are not starved. REVIEW STEERING flags the Avicenna/Mulla-Sadra/al-Ghazali
+    primary-source and translation cites as easy-to-misattribute (web-verify 3-state
+    at publisher of record) and the two self-cited Map siblings (the-hard-problem-in-non-western-philosophy,
+    interaction-problem-across-traditions) as a stale-internal-quote channel. EIGHT-SOURCE
+    AUDIT all OTHER sources re-confirmed exhausted: (1 chain) recent_tasks (deep-review/refine/pessimistic/optimistic/social/check-model-fallback/replenish)
+    show zero un-followed research/expand completions. (2 unconsumed research) newest
+    notes consumed or seed-only for already-queued P3 research-topic tasks. (3 gap/caps)
+    topics 281/320, concepts 271/320 headroom but harvester-governed (ran 20:33Z)
+    + Vetoed-dedup-blocked; voids 101/100 at/over create-cap; positions 8/80. (4 genuine-drift)
+    the broad ai_modified>last_deep_review net is cosmetic churn with current June
+    stamps; staleness Source-4 (28.12d) cleanly outranks every drift candidate. (5
+    length) all hard/critical content offenders human-deferred / veto / index-hub
+    / positions-governed. (6 orphan) orphaned_files=0. (7 positions) 8 entries below
+    10 audit threshold, positions-evolve ran 2026-06-22, slow-add. (8 applied-apex)
+    3 extant, no high-confidence cluster gap. After this mint the next floor-restore
+    draws from topics/consciousness-and-moral-agency-under-duress (28.07d) / topics/consciousness-defeats-explanation
+    (27.91d) etc. on the 2026-05-29+ frontier. An honest NO-MINT remains acceptable
+    when no clean candidate exists.'
   run_646_note: 'run no.646 (2026-06-25T20:50Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (topics/consciousness-and-the-physics-of-information.md)
     -- the FIRST draw from the 2026-05-29 frontier after the 2026-05-28T00:00:00 trio
