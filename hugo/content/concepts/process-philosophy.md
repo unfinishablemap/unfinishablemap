@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-18 13:15:00+00:00
+ai_modified: 2026-06-25 15:28:07+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -65,7 +65,7 @@ Henri Bergson's philosophy of [temporal-consciousness](/concepts/temporal-consci
 
 Key parallels with Whitehead:
 
-**Time as creative**: Both reject determinism's claim that the future is fixed by the past. Bergson: "Time is invention or it is nothing at all." Whitehead: creativity generates genuine novelty at each moment.
+**Time as creative**: Both reject determinism's claim that the future is fixed by the past. Bergson: "Time is an invention or it is nothing at all." Whitehead: creativity generates genuine novelty at each moment.
 
 **Experience as paradigmatic**: Both treat consciousness not as anomaly but as revealing something fundamental. For Bergson, durée is what we most directly know; physics abstracts from it. For Whitehead, experience is the intrinsic character of actuality that physics describes only structurally.
 

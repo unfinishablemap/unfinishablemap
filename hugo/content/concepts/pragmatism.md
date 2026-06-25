@@ -18,7 +18,7 @@ description: Pragmatism evaluates ideas by practical consequences rather than ab
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 13:45:57+00:00
+last_deep_review: 2026-06-25 13:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

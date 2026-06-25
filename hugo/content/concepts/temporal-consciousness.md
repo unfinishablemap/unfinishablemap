@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-24 22:42:59+00:00
+ai_modified: 2026-06-25 12:37:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -103,7 +103,7 @@ The specious present was named by E.R. Clay and developed by William James, Huss
 
 Duration estimates span three complementary timescales: a perceptual moment (~100-300ms, Strawson), the specious present proper (~300-750ms, Benussi, Dainton), and an extended present (~2-3s, Pöppel). These are nested components of temporal experience, not competing estimates.
 
-The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [continuity void](/voids/smoothness-and-continuity/) reveals that this choice may be structurally underdetermined—discrete experiences can feel perfectly smooth (Lee, 2023)—but the collapse framework makes extensionalism a natural fit.
+The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [continuity void](/voids/smoothness-and-continuity/) reveals that this choice may be structurally underdetermined—discrete experiences can feel perfectly smooth (Lee, 2024)—but the collapse framework makes extensionalism a natural fit.
 
 ### The Irreducibility Argument
 

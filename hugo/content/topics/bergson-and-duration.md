@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-05-26 23:50:34+00:00
+ai_modified: 2026-06-25 15:28:07+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/q-HgvQtumhQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 23:50:34+00:00
+last_deep_review: 2026-06-25 15:28:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +107,7 @@ Bergson anticipated many themes that Alfred North Whitehead later systematised i
 
 Key parallels:
 
-**Time as creative.** Bergson: "Time is invention or it is nothing at all." Whitehead: creativity is "the ultimate category"—each moment adds genuine novelty to reality.
+**Time as creative.** Bergson: "Time is an invention or it is nothing at all." Whitehead: creativity is "the ultimate category"—each moment adds genuine novelty to reality.
 
 **Experience as paradigmatic.** For Bergson, durée is what we know most directly; physics abstracts from it. For Whitehead, experience is the intrinsic character of actuality that physics describes only structurally.
 

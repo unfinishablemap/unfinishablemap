@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-06-25 16:09:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Agency extended across time requires narrative structure—not as p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 00:00:00+00:00
+last_deep_review: 2026-06-25 16:09:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ What provides this coherence? The Map's answer: personal narrative. Not narrativ
 
 When you decide to keep working on a difficult project rather than abandon it, you are not making a bare synchronic choice. You are interpreting your present situation through a narrative that connects your past commitment to your current effort to your anticipated completion. The past commitment gives the present effort its meaning. The anticipated future gives both their point. Remove the narrative and the synchronic choice—"keep going or stop?"—loses the context that makes it the choice it is.
 
-[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) provides the phenomenological machinery. Mental time travel allows you to re-inhabit past decisions with the felt sense that *you* were the one who made them, and to project yourself into future scenarios where *you* will experience the consequences. This temporal self-projection is not incidental to diachronic agency. It is constitutive. Without the capacity to experience past choices as *yours* and future consequences as *yours to face*, there would be no reason to maintain commitments across time.
+[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) provides the phenomenological machinery. Mental time travel allows you to re-inhabit past decisions with the felt sense that *you* were the one who made them, and to project yourself into future scenarios where *you* will experience the consequences. This temporal self-projection is constitutive of diachronic agency, not incidental to it. Without the capacity to experience past choices as *yours* and future consequences as *yours to face*, there would be no reason to maintain commitments across time.
 
 Paul Ricoeur's concept of *narrative identity* captures this structure. For Ricoeur, the self is neither a fixed substance nor a mere collection of events but a character constituted through emplotment—the activity of weaving events into a story with a beginning, middle, and anticipated end. The "who" of action emerges through the narrative, not prior to it.
 
@@ -152,4 +152,4 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 1. Tulving, E. (2002). "Episodic Memory: From Mind to Brain." *Annual Review of Psychology*, 53, 1-25.
 1. Korsgaard, C. (2009). *Self-Constitution: Agency, Identity, and Integrity*. Oxford University Press.
 1. Taylor, C. (1989). *Sources of the Self*. Harvard University Press.
-1. Velleman, J. D. (2005). "The Self as Narrator." In *Self to Self: Selected Essays*. Cambridge University Press.
+1. Velleman, J. D. (2006). "The Self as Narrator." In *Self to Self: Selected Essays*. Cambridge University Press.

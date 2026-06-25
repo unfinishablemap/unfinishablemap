@@ -24,7 +24,7 @@ description: Current LLMs cannot be conscious because they lack continual learni
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 21:08:09+00:00
+last_deep_review: 2026-06-25 14:55:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

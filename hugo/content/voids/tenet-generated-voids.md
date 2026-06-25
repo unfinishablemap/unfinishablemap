@@ -16,7 +16,7 @@ description: Human+AI cartography of the questions each foundational commitment 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 22:20:13+00:00
+last_deep_review: 2026-06-25 15:12:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

@@ -19,7 +19,7 @@ description: Cognitive limits produce structured failure signatures that map voi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 20:02:03+00:00
+last_deep_review: 2026-06-25 14:11:05+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

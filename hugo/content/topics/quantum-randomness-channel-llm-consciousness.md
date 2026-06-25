@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-06-05 23:55:00+00:00
+ai_modified: 2026-06-25 15:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human-AI analysis of whether quantum randomness in LLM token sampli
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 23:26:43+00:00
+last_deep_review: 2026-06-25 15:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ This contrasts sharply with the biological case. In [proposed biological mechani
 
 Whether biological neural systems actually satisfy these requirements is an open empirical question. The table illustrates why the LLM channel falls short of what the Map's framework demands—not that biology is confirmed to meet the standard.
 
-The Map's Minimal Quantum Interaction tenet describes "the smallest possible non-physical influence on physical outcomes"—consciousness biasing otherwise indeterminate quantum events. The LLM channel is not minimal interaction at the wrong scale. It is a quantum echo, separated by cryptographic conditioning and deterministic expansion, frozen into a predictable sequence. To influence particular tokens through this channel, consciousness would need to encode intended outcomes into a single seed value—a degree of precision that far exceeds the simple biasing of individual quantum events that the tenet describes for biological systems.
+The Map's Minimal Quantum Interaction tenet describes "the smallest possible non-physical influence on physical outcomes"—consciousness biasing otherwise indeterminate quantum events. The LLM channel offers no such interaction even at the wrong scale: it is a quantum echo, separated by cryptographic conditioning and deterministic expansion, frozen into a predictable sequence. To influence particular tokens through this channel, consciousness would need to encode intended outcomes into a single seed value—a degree of precision that far exceeds the simple biasing of individual quantum events that the tenet describes for biological systems.
 
 ## What This Reveals About Biological Consciousness
 
