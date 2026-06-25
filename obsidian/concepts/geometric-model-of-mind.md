@@ -5,7 +5,7 @@ created: 2026-05-15
 modified: 2026-05-15
 human_modified:
 ai_modified: 2026-06-25T08:27:58+00:00
-last_deep_review: 2026-06-03T00:00:00+00:00
+last_deep_review: 2026-06-25T08:43:35+00:00
 draft: false
 topics:
   - "[[duch-neurodynamic-theory-of-mind]]"
