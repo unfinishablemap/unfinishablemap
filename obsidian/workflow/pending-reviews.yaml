@@ -177,3 +177,30 @@
   subject_articles:
   - concepts/consciousness-selecting-neural-patterns.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-23-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3c8d94-14ec-83eb-8e24-3b2593c90cf8
+  commissioned_at: '2026-06-25T02:08:48.377449+00:00'
+  prompt_summary: Audit assessing-ai-consciousness-under-the-map (apex)
+  target_filename: outer-review-2026-06-25-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "I'd like a rigorous outer review of one article from The Unfinishable\
+    \ Map (a dualist, anti-physicalist philosophy-of-mind site). Target: https://unfinishablemap.org/apex/assessing-ai-consciousness-under-the-map/\
+    \ \u2014 an apex synthesis article last substantively revised on 2026-06-18. Audit\
+    \ it as a skeptical referee. Assess: (1) whether its central claims are adequately\
+    \ supported by evidence and argument; (2) citation accuracy and currency against\
+    \ the live 2024-2026 literature, flagging any stale or superseded references;\
+    \ (3) counterargument coverage \u2014 what objections to its position on AI consciousness\
+    \ does it miss or under-treat; (4) tenet-protective bracketing, where the site'''s\
+    \ dualist commitments shield a claim from scrutiny; (5) integration with surrounding\
+    \ Map articles. For recent site activity that web search may not yet index, consult\
+    \ the changelog at https://unfinishablemap.org/workflow/changelog/; the site root\
+    \ is https://unfinishablemap.org. End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit assessing-ai-consciousness-under-the-map
+  subject_articles:
+  - apex/assessing-ai-consciousness-under-the-map.md
+  subject_source: fallback:recent-aged
