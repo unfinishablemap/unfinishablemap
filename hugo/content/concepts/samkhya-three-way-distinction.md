@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-06-25 17:47:56+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Samkhya divides reality into consciousness, mind, and matter—plac
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 00:00:00+00:00
+last_deep_review: 2026-06-25 17:47:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 
 1. Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
 1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247.
-1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press.
+1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. https://doi.org/10.1017/S0034412523000410
 1. Vacaspati Mishra. *Samkhya-Tattva-Kaumudi* (c. 980 CE). Trans. G. Jha. Oriental Book Agency.
 1. Larson, G. J. and Bhattacharya, R. S. (1987). *Encyclopedia of Indian Philosophies, Vol. IV: Samkhya*. Motilal Banarsidass.
 1. Internet Encyclopedia of Philosophy, "Sankhya": https://iep.utm.edu/sankhya/

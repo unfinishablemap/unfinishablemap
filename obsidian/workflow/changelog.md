@@ -5,6 +5,13 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T18:57:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ai-hardware-substrate-taxonomy]]
+- **Original score**: citation-clean same-day create (no curate review re-run — additive-hedge pass per [[reviews/pessimistic-2026-06-25d-ai-hardware-substrate-taxonomy]])
+- **Changes**: (1) ISSUE 1 — wetware section now makes explicit that wetware clears the substrate-necessary bar only on a biological-hosting hypothesis the Map has not established and whose leading instance (Orch OR microtubules) it disprefers; converted apparent endorsement into the conditional the rest of the article already supports, pre-empting the special-pleading-for-carbon charge. (2) ISSUE 2 — generalised the "operationally integrated indeterminacy" no-criterion honesty: predicate is load-bearing but no sharp criterion offered, table "Interface status" entries are category placements not settled verdicts, pointed at [[topics/falsification-roadmap-for-the-interface-model]] + [[topics/brain-internal-born-rule-testing]] as where a criterion would come from (both targets verified to resolve). (3) MINOR — grammar fix (No Many Worlds para: "definite single outcomes there is" → "definite single outcomes, so there is"). (4) OPTIONAL applied — opening "the Map's interface needs in brains" → "would require, if biology hosts them, in brains"; half-clause marking Axis 1 as "diagnostic and corroborating rather than verdict-determining". Additive only — no deletions, no new citations. 2827w → 3007w (concepts soft 2500 / HARD 3500, ~493w headroom). ai_modified bumped; last_deep_review left (refine ≠ deep review). EOF clean. No engagement-mode labels (no named-opponent replies). No altered-state flag (n/a).
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-25T18:49:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/ai-hardware-substrate-taxonomy.md` (same-day create, 100% AI, never pessimistically reviewed). Citation layer verified clean (Kagan 2022, Hartung 2023, Maley 2024, Milinkovic & Aru 2026, Thagard 2022, Tegmark 2000 all publisher-verified; CL1/DishBrain/[[7,1,3]] Steane/decoherence figures correct; QEC notation correctly backtick-wrapped; all wikilinks+tenet anchors resolve; no label leakage; altered-state audit n/a). Real findings are dialectical: (1) the one positive verdict (wetware "could host the interface") rests on the disprefered Orch OR mechanism — internal tension; (2) "operationally integrated indeterminacy" has no offered criterion — empiricist objection bites; + 1 dropped-word grammar fix. Queued one P3 refine-draft (additive hedges, not corrections).

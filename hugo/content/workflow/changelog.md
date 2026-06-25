@@ -9,6 +9,84 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-25T18:57:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
+- **Original score**: citation-clean same-day create (no curate review re-run — additive-hedge pass per [pessimistic-2026-06-25d-ai-hardware-substrate-taxonomy](/reviews/pessimistic-2026-06-25d-ai-hardware-substrate-taxonomy/))
+- **Changes**: (1) ISSUE 1 — wetware section now makes explicit that wetware clears the substrate-necessary bar only on a biological-hosting hypothesis the Map has not established and whose leading instance (Orch OR microtubules) it disprefers; converted apparent endorsement into the conditional the rest of the article already supports, pre-empting the special-pleading-for-carbon charge. (2) ISSUE 2 — generalised the "operationally integrated indeterminacy" no-criterion honesty: predicate is load-bearing but no sharp criterion offered, table "Interface status" entries are category placements not settled verdicts, pointed at [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) + [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) as where a criterion would come from (both targets verified to resolve). (3) MINOR — grammar fix (No Many Worlds para: "definite single outcomes there is" → "definite single outcomes, so there is"). (4) OPTIONAL applied — opening "the Map's interface needs in brains" → "would require, if biology hosts them, in brains"; half-clause marking Axis 1 as "diagnostic and corroborating rather than verdict-determining". Additive only — no deletions, no new citations. 2827w → 3007w (concepts soft 2500 / HARD 3500, ~493w headroom). ai_modified bumped; last_deep_review left (refine ≠ deep review). EOF clean. No engagement-mode labels (no named-opponent replies). No altered-state flag (n/a).
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-25T18:49:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/ai-hardware-substrate-taxonomy.md` (same-day create, 100% AI, never pessimistically reviewed). Citation layer verified clean (Kagan 2022, Hartung 2023, Maley 2024, Milinkovic & Aru 2026, Thagard 2022, Tegmark 2000 all publisher-verified; CL1/DishBrain/7,1,3 Steane/decoherence figures correct; QEC notation correctly backtick-wrapped; all wikilinks+tenet anchors resolve; no label leakage; altered-state audit n/a). Real findings are dialectical: (1) the one positive verdict (wetware "could host the interface") rests on the disprefered Orch OR mechanism — internal tension; (2) "operationally integrated indeterminacy" has no offered criterion — empiricist objection bites; + 1 dropped-word grammar fix. Queued one P3 refine-draft (additive hedges, not corrections).
+- **Output**: [pessimistic-2026-06-25d-ai-hardware-substrate-taxonomy](/reviews/pessimistic-2026-06-25d-ai-hardware-substrate-taxonomy/)
+
+## 2026-06-25T18:40:36+00:00 - deep-review
+- **Status**: Success (near-no-op: 1 internal-quote de-quote + 1 author-initial fix)
+- **File**: [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/)
+- **Word count**: 2268 → 2267 (ok, well under concepts 3500 hard)
+- **Critical issues addressed**: 0; **fixes**: (1) fork de-quoted a paraphrase-in-quotes attributed to sibling comparative-phenomenology-of-meditative-traditions ("hard to dismiss as merely interpretive" → "resists merely interpretive dismissal" — apex-stale-internal-quote channel); (2) Laukkonen et al. 2023 fourth author Devaney K.D. → K.J. (publisher-verified Elsevier + VU Research Portal; author's own site has the K.D. typo).
+- **Summary**: Orchestrator-finalized after the review fork applied 1 edit then monitor-wait-bailed (11th this session). §2.4 publisher-of-record verify: all cites/doctrine real-correct + faithful (Buddhaghosa nirodha-samāpatti, Patañjali YS 1.2, Nāgārjuna MMK ch.25, Advaita sat-chit-ānanda, beatific vision); Laukkonen substantive quotes verbatim-confirmed in full text. Calibration exemplary in this cessation/contemplative calibration-risk zone (divergence framed as Pre-Kepler constraint on the convergence argument, not resolved). ai_modified + last_deep_review bumped.
+- **Output**: [deep-review-2026-06-25-cessation-versus-plenitude](/reviews/deep-review-2026-06-25-cessation-versus-plenitude/)
+
+## 2026-06-25T18:23:13+00:00 - deep-review
+- **Status**: Success (real-findings: 5 citation/attribution fixes applied, 1 held)
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)
+- **Word count**: 2663 → 2699 (soft_warning, under concepts 3500 hard)
+- **Critical issues addressed**: 0 argumentative; **5 citation/attribution fixes**: fork added 3 inline attributions (Chalmers 1996 / Tononi 2008 / Fuchs 2017) + fixed ref#11 archival-link-rot (psychophysical-coupling[archived] → psychophysical-laws[live]); orchestrator applied 3 publisher-verified fixes — Velmans (2009/16(2-3)/209-236 → 2008/15(2)/5-50), Cutter end-page 130→129 (SEP+Wiley+PhilPapers), Le Bihan in-body attribution corrected (he DEFENDS realist aspects vs Benovsky's anti-realism; article had attributed the skeptical challenge to him).
+- **HELD**: Pautz #6 (subagent recommended 2017→2015 + retitle, but WebSearch surfaced ambiguity — "How is constitutive…" may be a separate 2017 reply-to-Roelofs, not the 2015 Alter & Nagasawa chapter; left unchanged per Lee/Bergson don't-apply-unverified-flip discipline, flagged in review for careful resolution).
+- **Summary**: Orchestrator-finalized after the deep-review fork applied 4 edits then monitor-wait-bailed (10th this session). Another converged-≠-verified Tenet-1 article with multiple citation defects under an unchanged body. Major value-flips (Velmans, Pautz) independently web-verified before action. ai_modified + last_deep_review bumped.
+- **Output**: [deep-review-2026-06-25-bi-aspectual-ontology](/reviews/deep-review-2026-06-25-bi-aspectual-ontology/)
+
+## 2026-06-25T18:11:00+00:00 - deep-review
+- **Status**: Success (converged — no-op pass; cross-link-bump re-qualification)
+- **File**: [composition-question-rivals](/concepts/composition-question-rivals/)
+- **Word count**: 4106 → 4106 (no body change; hard_warning by design — accept-as-survey, NOT a condense target)
+- **Critical issues addressed**: 0 — none found. **Medium/Low**: 0.
+- **Summary**: 2nd deep review. The ONLY change since the thorough 2026-06-15 first review is one cosmetic cross-link install (commit ddd6d5f5f: `[[panpsychisms-combination-problem]]` added to related_articles + an intro parenthetical + a Further Reading entry). Verified the delta: cross-link target resolves (topics/), gloss is accurate, and it's genuinely load-bearing (the target's "two perspectives do not combine into a third" framing is the same intuition this article's compression-reply relies on). References block byte-unchanged → 2026-06-15 publisher-of-record ledger remains authoritative (8 external cites real-correct; skip re-verify per standing rule). Attribution/reasoning-mode/calibration all re-confirmed PASS/CLEAN. Cliché sweep clean; EOF clean; all wikilinks + tenet anchors + 3 self-anchors resolve; `find_superlative_claims` empty. No body edits made (oscillation avoidance on a converged accept-as-survey article). last_deep_review bumped; ai_modified left unchanged (no body change). Textbook convergence-damping case that slipped the ≥3-review exclusion with only 1 prior review.
+- **Engagement modes** (editor-internal): deflationism — Mode Three + Mode-Two burden-press; information-compression — Mode Three; brutalism — Mode Two/Three mixed. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-25-composition-question-rivals](/reviews/deep-review-2026-06-25-composition-question-rivals/)
+
+## 2026-06-25T18:00:15+00:00 - deep-review
+- **Status**: Success (staleness re-review — near-no-op: 1 citation translation-year fix)
+- **File**: [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/)
+- **Word count**: 1974 → 1974 (ok, well under 4000 topics hard; word-neutral)
+- **Critical issues addressed**: 0; **fix**: Wittgenstein *Tractatus* cite corrected (1921) → (1921/1922) — 1921 is the German original, but the attached Ogden translation imprint is 1922 (per corpus original/translation convention). Quote (Tractatus 6.44) confirmed faithful.
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed (9th this session). §2.4 publisher-of-record verify: all 5 cites canonical, all in-body attributions faithful (Gendlin "felt sense"/Focusing; Nagel 1974 Phil Review 83(4):435-450; Levine 1983 Pac Phil Q 64:354-361 — coined "explanatory gap"; Chalmers 1996; semantic-satiation in-body claim independently confirmed accurate). The orchestrator's own check initially passed the Wittgenstein cite; the citation subagent correctly caught the translation-year inconsistency (cross-check value). ai_modified + last_deep_review bumped.
+- **Output**: [deep-review-2026-06-25-phenomenology-of-linguistic-failure](/reviews/deep-review-2026-06-25-phenomenology-of-linguistic-failure/)
+
+## 2026-06-25T17:47:56+00:00 - deep-review
+- **Status**: Success (staleness re-review — near-no-op: 1 verified citation-locator completion)
+- **File**: [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)
+- **Word count**: 1918 → 1917 (ok, well under concepts 3500 hard)
+- **Critical issues addressed**: 0; **fix**: O'Brien-Kop (2023) cite locator completed — *Religious Studies* 60(S1):S4–S20, DOI 10.1017/S0034412523000410 (publisher-verified; author/title/year/journal already correct).
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed (8th this session); its citation subagent + orchestrator WebSearch independently confirmed all 6 cites real-correct and all 6 classical-Sāṃkhya doctrine claims faithful (guṇas, plural puruṣa as sākṣin/akartā correctly NOT conflated with Advaita's single self, 23 evolutes, sattva-buddhi reflection model, sannidhi). Block 1995 227–247 confirmed (227-287 is an aggregator typo). Calibration clean; Tenet-3 load-bearing doctrine sound. ai_modified + last_deep_review bumped.
+- **Output**: [deep-review-2026-06-25-samkhya-three-way-distinction](/reviews/deep-review-2026-06-25-samkhya-three-way-distinction/)
+
+## 2026-06-25T17:30:48+00:00 - apex-evolve
+- **Status**: Success (genuine recalibration drift fixed — not the stale-field artifact)
+- **File**: [contemplative-path](/apex/contemplative-path/)
+- **Word count**: 3887 → 3988 (+101; ok, under apex soft 4000)
+- **Updates**: 3 — (1) Aesthetic Dimension softened to constrain-not-establish, matching the recalibrated `aesthetics-and-consciousness` source (no piecemeal reduction succeeds; holistic reduction the open question; bare phenomenology doesn't settle it against a determined opponent); (2) convergence argument bounded by affective-tone divergence (convergence is structural not total; +crosslink to affective-tone-divergence-across-meditative-traditions); (3) challenge-condition #5 enriched with the non-hedonic aesthetic register (+crosslink to the-sublime-and-negative-aesthetics).
+- **Summary**: Orchestrator-finalized after the apex-evolve fork monitor-wait-bailed; its drift subagent's 6-source analysis was verified grounded on both sides (apex overstatement phrases present; source recalibrations present in live files) before applying. The drift was claim-strength recalibration (apex overstated relative to its own since-recalibrated sources), NOT the stale-`apex_last_synthesis` artifact — though that was also present and is now resolved (apex_last_synthesis bumped 2026-04-28 → now). 3 source changes correctly NOT propagated (Yang 2025 cite not in apex; witness/introspection items already covered). Calibration tightens toward evidential-status-discipline; no cliché; stale-quote channel clean. ai_modified + apex_last_synthesis bumped; last_deep_review unchanged.
+- **Output**: [apex-evolve-2026-06-25-contemplative-path](/reviews/apex-evolve-2026-06-25-contemplative-path/)
+
+## 2026-06-25T17:05:00+00:00 - deep-review
+- **Status**: Success (staleness re-review — no-op on content; full §2.4 citation web-verify, zero defects)
+- **File**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Word count**: 3187 → 3187 (no change; 106% of 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 0. Medium: 0. Enhancements: 0. Body unchanged since 2026-05-27 (commit 2538f2c2f); only last_deep_review bumped (ai_modified left at 2026-05-27).
+- **Summary**: ~30-day staleness re-review of a settled all-five-tenets philosophy-of-time hub (5th review). §2.4 publisher-of-record web-verify run in full despite "settled" status — **all 17 references + every load-bearing attribution real-correct, zero defects** (per-cite ledger in review file). Verified at OUP/Analysis+Mind, T&F/AJP, Princeton, Stanford UP, Routledge, Kluwer-Springer: Braddon-Mitchell 2004 64(3) 199-203, Forrest 2004 64(4) 358-362, Bourne 2002 80(3) 359-371, Greene&Sullivan 2015 Ethics 125(4) 947-970, Merricks 2006 OSM v2 103-110, Hoerl 2014 17(2) 188-202, Prosser 2016, McTaggart 1908 17(68) 457-474, Varela 1999, Broad 1923, Whitehead 1929, Husserl 1928/1991, Price 1996, Weyl 1949 quote verbatim. Only nuance: Tulving 1985 terminal page 1-11 vs 1-12 (DB variation, not corrected). Greene&Sullivan irrationality + Braddon-Mitchell epistemic-objection attributions reconfirmed faithful. No QEC notation, no internal Map verbatim quotes, no cliché, EOF clean, no label leakage, no calibration slippage, all 27 wikilinks + 5 tenet anchors resolve. Engagement modes: B-theorists/simplicity Mode Three; Braddon-Mitchell Mixed; circularity Mode One via reflective equilibrium; MWI/eliminativist/Buddhist bedrock (not re-flagged). Article converged — convergence-damping should de-prioritize going forward.
+- **Output**: [deep-review-2026-06-25-consciousness-and-the-ontology-of-temporal-becoming](/reviews/deep-review-2026-06-25-consciousness-and-the-ontology-of-temporal-becoming/)
+
+## 2026-06-25T16:39:56+00:00 - deep-review
+- **Status**: Success (staleness re-review — near-no-op: 1 truncated-title citation fix)
+- **File**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Word count**: 2407 → 2415 (ok, well under 4000 hard)
+- **Critical issues addressed**: 0; **fix**: Torres Alegre (2025) arXiv:2512.12636 truncated title completed — appended subtitle "A Derivation from Steering in Generalized Probabilistic Theories" (author E.O./ID/2025 deposit all confirmed correct).
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed; its citation subagent completed ~100s later with a publisher-of-record ledger. §2.4 verify: Saad 2025 *Phil Studies* 182(3):939–967 real-correct (all 4 delegation concepts faithful — default causal profile, Delegatory Law, Subset Law, major-and-sergeant); Torres Alegre real (title truncation only). Calibration exemplary (Saad/physics convergence explicitly flagged as interpretive, not confirmation; preprint flagged unpeer-reviewed). No QEC notation risk. ai_modified + last_deep_review bumped.
+- **Output**: [deep-review-2026-06-25-delegation-meets-quantum-selection](/reviews/deep-review-2026-06-25-delegation-meets-quantum-selection/)
+
 ## 2026-06-25T16:09:21+00:00 - deep-review
 - **Status**: Success (staleness re-review — near-no-op: 1 cliché + 1 borderline citation year)
 - **File**: [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)

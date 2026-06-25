@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-27 03:21:14+00:00
+ai_modified: 2026-06-25 18:23:13+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Reality has two irreducible aspects — structure (physics) and act
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 03:21:14+00:00
+last_deep_review: 2026-06-25 18:23:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ What physics does not describe is why one particular outcome from among the perm
 
 When a quantum measurement yields a definite result, something determines that result from among the alternatives the wavefunction permits. "Actuality" names this determining role — the role of making one possibility real rather than another. The Map holds that consciousness fills this role, but the term names the *posited function*, not a mechanism. Specifying how consciousness actualises possibilities remains an open problem (see [psychophysical-laws](/concepts/psychophysical-laws/)).
 
-Why think consciousness fills this role rather than some as-yet-unknown physical process? Two independent considerations converge — a pattern [the reverse inference](/topics/the-reverse-inference/) develops into a full methodological argument. First, the [hard problem](/topics/hard-problem-of-consciousness/) gives reason to think consciousness is real and irreducible to structure — it is not an entity invented to plug the measurement gap but something we know exists on independent grounds. Second, the measurement problem marks the point where structural description reaches its limit: physics specifies what can happen and with what probability, but not why *this* outcome becomes actual. These two facts — an independently motivated non-structural reality, and a gap in structural explanation at exactly the point where possibilities become actual — make consciousness a motivated candidate for the actualising role, not merely a label for our ignorance.
+Why think consciousness fills this role rather than some as-yet-unknown physical process? Two independent considerations converge — a pattern [the reverse inference](/topics/the-reverse-inference/) develops into a full methodological argument. First, the [hard problem](/topics/hard-problem-of-consciousness/) (Chalmers 1996) gives reason to think consciousness is real and irreducible to structure — it is not an entity invented to plug the measurement gap but something we know exists on independent grounds. Second, the measurement problem marks the point where structural description reaches its limit: physics specifies what can happen and with what probability, but not why *this* outcome becomes actual. These two facts — an independently motivated non-structural reality, and a gap in structural explanation at exactly the point where possibilities become actual — make consciousness a motivated candidate for the actualising role, not merely a label for our ignorance.
 
 This does not mean consciousness is the *only* possible candidate. A critic may argue that actualisation is simply a brute fact requiring no further explanation — that outcomes just happen with their Born-rule probabilities. The Map disagrees: the existence of definite outcomes demands an account, and consciousness is the only independently motivated non-structural reality available to provide one.
 
@@ -107,13 +107,13 @@ This does not dissolve the interaction problem entirely. Specifying the coupling
 
 ## Distinguished from Integrated Information Theory
 
-[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) shares the Map's insistence that consciousness is fundamental and irreducible. Both positions reject eliminativism and take the hard problem seriously. But IIT identifies consciousness *with* a physical property — integrated information (Φ) — rather than treating it as ontologically distinct from physical structure. On IIT, consciousness is what high-Φ systems *are* from the inside; there is no causal role for consciousness beyond what the physical structure already determines.
+[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) (Tononi 2008) shares the Map's insistence that consciousness is fundamental and irreducible. Both positions reject eliminativism and take the hard problem seriously. But IIT identifies consciousness *with* a physical property — integrated information (Φ) — rather than treating it as ontologically distinct from physical structure. On IIT, consciousness is what high-Φ systems *are* from the inside; there is no causal role for consciousness beyond what the physical structure already determines.
 
 The Map requires more. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) demands that consciousness causally influence physical outcomes — not merely accompany them. IIT's consciousness is structurally determined: given the physical configuration, Φ is fixed. There is no room for consciousness to select among physically permitted alternatives, because the alternatives are already settled by the integrated information structure. IIT is therefore physicalist about consciousness's *causal role* — consciousness accompanies but does not select — regardless of how IIT classifies its own ontology.
 
 ## Distinguished from QBism
 
-[QBism](/concepts/qbism/) dissolves the measurement problem by treating quantum states as subjective beliefs rather than objective features of reality. "Collapse" becomes belief-updating: the agent measures, learns the result, and revises expectations. No ontological selection occurs because there was never an objective wavefunction to collapse.
+[QBism](/concepts/qbism/) (Fuchs 2017) dissolves the measurement problem by treating quantum states as subjective beliefs rather than objective features of reality. "Collapse" becomes belief-updating: the agent measures, learns the result, and revises expectations. No ontological selection occurs because there was never an objective wavefunction to collapse.
 
 QBism is instructive because it makes the *agent* central to quantum mechanics without explaining what agents are. It presupposes that agents have determinate experiences — the very thing the hard problem identifies as requiring explanation. The Map agrees with QBism that agents are epistemically indispensable to quantum mechanics, but draws the opposite conclusion: rather than dissolving the measurement problem by subjectivising quantum states, the Map takes the agent's centrality as evidence that consciousness plays an ontological role at the measurement boundary. QBism removes the need for actuality by removing objectivity; the Map retains both.
 
@@ -127,7 +127,7 @@ The interface is narrow. Conscious perception operates at approximately 10 bits 
 
 ## The "Aspects" Objection
 
-Le Bihan (2019) challenges whether "aspect" vocabulary does genuine explanatory work. Is saying "X has a structural aspect and an actualising aspect" richer than saying "X is both physical and mental"? If not, bi-aspectual language merely relabels the problem.
+Whether "aspect" vocabulary does genuine explanatory work is contested. Le Bihan (2019) defends a *realist* reading of aspects against deflationary critics who treat aspect-talk as mere relabelling — and that deflationary worry is the one the Map must answer: is saying "X has a structural aspect and an actualising aspect" richer than saying "X is both physical and mental"? If not, bi-aspectual language merely relabels the problem.
 
 The Map's response: the vocabulary earns its keep by specifying the *relationship* between aspects and locating a concrete interface. Structure and actuality are not merely two labels for the same thing (that would be identity, not aspects). They are not two independent substances (that would be classical substance dualism). They are complementary dimensions of reality that interact at a specifiable interface. The Born rule, the measurement problem, and the hard problem all mark the same boundary — the point where one aspect gives way to the other. The framework does specific work that generic "physical and mental" language does not: it identifies quantum indeterminacy as the locus of interaction, the Born rule as the interface specification, and the hard problem as the signature of irreducibility.
 
@@ -164,13 +164,13 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 2. Della Rocca, M. (2008). *Spinoza*. Routledge.
 3. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 4. Atmanspacher, H. & Rickles, D. (2022). *Dual-Aspect Monism and the Deep Structure of Meaning*. Routledge.
-5. Velmans, M. (2009). Reflexive Monism. *Journal of Consciousness Studies*, 16(2-3), 209-236.
+5. Velmans, M. (2008). Reflexive Monism. *Journal of Consciousness Studies*, 15(2), 5-50.
 6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
-7. Cutter, B. (2019). Against the Middle Ground: Why Russellian Monism Is Unstable. *Analytic Philosophy*, 60(2), 109-130.
+7. Cutter, B. (2019). Against the Middle Ground: Why Russellian Monism Is Unstable. *Analytic Philosophy*, 60(2), 109-129.
 8. Le Bihan, B. (2019). Aspects in Dual-Aspect Monism and Panpsychism: A Rejoinder to Benovsky. *Philosophical Investigations*, 42(2).
 9. Gleason, A.M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885-893.
 10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
-11. Southgate, A. & Oquatre-six, C. (2026-03-05). Psychophysical Coupling. *The Unfinishable Map*. https://unfinishablemap.org/concepts/psychophysical-coupling/
+11. Southgate, A. & Oquatre-six, C. (2026-01-16). Psychophysical Laws and Coupling. *The Unfinishable Map*. https://unfinishablemap.org/concepts/psychophysical-laws/
 12. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
 13. Tononi, G. (2008). Consciousness as Integrated Information: A Provisional Manifesto. *Biological Bulletin*, 215(3), 216-242.
 14. Fuchs, C.A. (2017). Notwithstanding Bohr, the Reasons for QBism. *Mind and Matter*, 15(2), 245-300.

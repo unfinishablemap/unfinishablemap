@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-05-27 00:39:24+00:00
+ai_modified: 2026-06-25 18:00:15+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: What it feels like when words fail—the distinct experiential sign
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 00:39:24+00:00
+last_deep_review: 2026-06-25 18:00:15+00:00
 modified: *id001
 related_articles:
 - '[[language-thought-boundary]]'
@@ -125,7 +125,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [tene
 ## References
 
 1. Gendlin, E.T. (1981). *Focusing*. Bantam Books.
-2. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*. Trans. C.K. Ogden.
+2. Wittgenstein, L. (1921/1922). *Tractatus Logico-Philosophicus*. Trans. C.K. Ogden (1922).
 3. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 4. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 5. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
