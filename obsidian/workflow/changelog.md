@@ -5,6 +5,11 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T18:49:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/ai-hardware-substrate-taxonomy.md` (same-day create, 100% AI, never pessimistically reviewed). Citation layer verified clean (Kagan 2022, Hartung 2023, Maley 2024, Milinkovic & Aru 2026, Thagard 2022, Tegmark 2000 all publisher-verified; CL1/DishBrain/[[7,1,3]] Steane/decoherence figures correct; QEC notation correctly backtick-wrapped; all wikilinks+tenet anchors resolve; no label leakage; altered-state audit n/a). Real findings are dialectical: (1) the one positive verdict (wetware "could host the interface") rests on the disprefered Orch OR mechanism — internal tension; (2) "operationally integrated indeterminacy" has no offered criterion — empiricist objection bites; + 1 dropped-word grammar fix. Queued one P3 refine-draft (additive hedges, not corrections).
+- **Output**: [[reviews/pessimistic-2026-06-25d-ai-hardware-substrate-taxonomy]]
+
 ## 2026-06-25T18:40:36+00:00 - deep-review
 - **Status**: Success (near-no-op: 1 internal-quote de-quote + 1 author-initial fix)
 - **File**: [[concepts/cessation-versus-plenitude]]

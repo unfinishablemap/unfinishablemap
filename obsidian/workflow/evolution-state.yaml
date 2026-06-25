@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T18:41:55.586513+00:00'
-session_count: 13317
+last_updated: '2026-06-25T18:45:58.631428+00:00'
+session_count: 13318
 cycle_position: 9989
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T14:43:01.708980+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T18:50:00+00:00'
+  replenish-queue: '2026-06-25T18:45:58.631428+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1195,10 +1195,10 @@ queue_status:
     (the 2026-05-27 cohort is now FULLY drained -- samkhya, phenomenology-of-linguistic-failure,
     bi-aspectual-ontology, cessation reviewed; intrinsic-nature + lived-objectified-body-distinction
     queued). A FRESH full all-content-section staleness scan keyed on last_deep_review
-    age + settled (ai_modified == last_deep_review), aic>50, found the front-tier with
-    intrinsic-nature 29.28d (QUEUED run-639), lived-objectified-body-distinction 29.22d
-    (QUEUED run-640), cognitive-integration-and-the-self 23:11:39 28.81d (THIS MINT),
-    quantum-completeness 23:20:49 28.81d, then the three 2026-05-28T00:00 articles
+    age + settled (ai_modified == last_deep_review), aic>50, found the front-tier
+    with intrinsic-nature 29.28d (QUEUED run-639), lived-objectified-body-distinction
+    29.22d (QUEUED run-640), cognitive-integration-and-the-self 23:11:39 28.81d (THIS
+    MINT), quantum-completeness 23:20:49 28.81d, then the three 2026-05-28T00:00 articles
     at 28.78d. With both 2026-05-27 articles already queued, topics/cognitive-integration-and-the-self.md
     at last_deep_review 2026-05-27T23:11:39 is the OLDEST genuinely-settled UNQUEUED
     pick (~28.81d), pipping quantum-completeness 23:20:49 by ~9 minutes. ai_contribution=100,
@@ -1206,28 +1206,28 @@ queue_status:
     2026-05-27T23:11:39, last commit 07f210eb3 auto(deep-review) its OWN 2026-05-27
     review, clean tree, NOT touched since, zero commits since 2026-06-25T00:00, NO
     same-day collision), body 2578w via tools.curate.length.analyze_length = status
-    ok (topics soft 3000 / hard 4000, full headroom -- NOT a condense candidate). Tenet
-    1 (Dualism) -- cognitive integration / unity of the self (Zahavi minimal-self phenomenology)
-    bearing on whether self-integration is brain-side or mind-side; honour evidential-status-discipline.
-    No open dup (the only slug hits in todo.md are the run-639/640 NOTES bodies naming
-    it as the NEXT candidate, NOT an open task header), NOT vetoed/blocked, NOT reviewed
-    today, NOT archived (no archive/topics/cognitive-integration-and-the-self.md).
+    ok (topics soft 3000 / hard 4000, full headroom -- NOT a condense candidate).
+    Tenet 1 (Dualism) -- cognitive integration / unity of the self (Zahavi minimal-self
+    phenomenology) bearing on whether self-integration is brain-side or mind-side;
+    honour evidential-status-discipline. No open dup (the only slug hits in todo.md
+    are the run-639/640 NOTES bodies naming it as the NEXT candidate, NOT an open
+    task header), NOT vetoed/blocked, NOT reviewed today, NOT archived (no archive/topics/cognitive-integration-and-the-self.md).
     EOF tool-tag artifact scan clean at mint (last line = Zahavi 2005 Subjectivity
     and Selfhood MIT Press References entry). Bottom-inserted per queue-lifo-starvation
     so the two older floor-restore P2s are not starved. EIGHT-SOURCE AUDIT all OTHER
     sources re-confirmed exhausted: (1 chain) zero un-followed research/expand completions.
-    (2 unconsumed research) newest notes consumed or seed-only for already-queued P3
-    research-topic tasks. (3 gap/caps) topics 281/320, concepts 271/320 headroom but
-    harvester-governed (ran 14:27Z) + Vetoed-dedup-blocked; voids at/over create-cap;
+    (2 unconsumed research) newest notes consumed or seed-only for already-queued
+    P3 research-topic tasks. (3 gap/caps) topics 281/320, concepts 271/320 headroom
+    but harvester-governed (ran 14:27Z) + Vetoed-dedup-blocked; voids at/over create-cap;
     positions 8/80. (4 genuine-drift) the broad ai_modified>last_deep_review net is
     cosmetic churn with current June stamps; staleness Source-4 (2026-05-28) cleanly
     outranks every drift candidate. (5 length) all hard/critical content offenders
     human-deferred / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0.
     (7 positions) 8 entries below 10 audit threshold, positions-evolve ran 2026-06-22,
-    slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. The next floor-restore
-    draws from the 2026-05-28 frontier (quantum-completeness 23:20 ~9 min behind this
-    pick, then the three 2026-05-28T00:00 articles). An honest NO-MINT remains acceptable
-    when no clean candidate exists.'
+    slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. The next
+    floor-restore draws from the 2026-05-28 frontier (quantum-completeness 23:20 ~9
+    min behind this pick, then the three 2026-05-28T00:00 articles). An honest NO-MINT
+    remains acceptable when no clean candidate exists.'
   run_640_note: 'run no.640 (2026-06-25T18:31Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/lived-objectified-body-distinction.md). Authoritative
     pre-mint tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two
