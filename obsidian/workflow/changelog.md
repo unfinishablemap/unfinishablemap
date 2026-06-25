@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T23:25:00+00:00 - deep-review
+- **Status**: Success (staleness re-pick; near-no-op — 1 citation author-order fix; both timestamps bumped). Orchestrator-finalized (fork monitor-wait-bailed; 7-cite ledger folded in).
+- **File**: [[topics/phenomenology-of-cognitive-limit-types]]
+- **Word count**: 2250 → 2250 (1 reference author-order swap; ai_modified + last_deep_review both bumped 2026-05-29 → 2026-06-25)
+- **Critical issues addressed**: 0; **Medium**: 1 (citation author-order reversal); **Low**: 0
+- **Summary**: 2026-05-29 staleness frontier-tier pick, 5th review. Body otherwise byte-unchanged since 2026-05-29. §2.4 publisher-of-record web-verify (7 cites) surfaced ONE real defect: Ref 5 **von Hippel & Trivers 2011** (BBS 34(1):1-16, PMID 21288379) had author order REVERSED — article listed "Trivers, R., & von Hippel, W." but published paper is "von Hippel, W., & Trivers, R." (von Hippel first). FIXED the reference; left the inline "Trivers' framework" (line 125) unchanged (correct conceptual attribution to Trivers as foundational self-deception theorist, independent of paper author order). Survived 4 prior reviews — only live web-verify caught it ([[ai_citation_metadata_unreliable]]). Other 6 cites real-correct (Margolis 1987, Pritchard 2021, McGinn 1989, Hoffman/Singh/Prakash 2015, Pronin & Hazel 2023, Wittgenstein 1922). Quote A (vertigo "phobic" framing) reconfirmed Pritchard not De Cruz; Claim B (subliminal TMT mortality salience) accurate. Mechanical: 2250w ok, EOF clean, no banned cliché. Real edit → both timestamps bumped; date -u-verified 23:25 not future.
+- **Output**: [[reviews/deep-review-2026-06-25-phenomenology-of-cognitive-limit-types]]
+
 ## 2026-06-25T23:16:00+00:00 - deep-review
 - **Status**: Success (staleness re-pick; converged no-op; `last_deep_review`-only bump). Orchestrator-finalized (fork monitor-wait-bailed; 6-cite ledger folded in + mechanical sweeps run independently).
 - **File**: [[topics/phenomenology-of-attention-to-absence]]
