@@ -5,6 +5,12 @@ ai_modified: 2026-06-25T00:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T01:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/grain-mismatch-as-independent-evidence.md (never previously pessimistic-reviewed; has post-deep-review edits)
+- **Findings**: 2 Medium issues in the Informational Grain section — (1) 10⁹ bits/s misattributed to "sensory periphery" (canon: periphery ~10⁷, 10⁹ = total neural processing; also internally inconsistent with line 58); (2) ~10 bits/s over-stated as a measure of "conscious content grain" without the throughput-vs-bandwidth caveat the canonical bandwidth articles carry (epistemic/metaphysical equivocation per [[evidential-status-discipline]]). Plus 1 banned-cliché style nit (line 54). Queued one P2 refine-draft. Strengths preserved: the article's self-aware common-phenomenal-source paragraph (line 68) and its predictions/defeat-conditions sections.
+- **Output**: [[reviews/pessimistic-2026-06-25-grain-mismatch-as-independent-evidence]]
+
 ## 2026-06-25T00:53:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/the-surplus-void]]
