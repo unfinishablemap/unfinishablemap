@@ -5,6 +5,18 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T19:08:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/intrinsic-nature]]
+- **Word count**: 2058 → 2082 (+24)
+- **Critical issues addressed**: 3 (citation-metadata on target: Cutter end-page 109-130→109-129; Howell year 2014→2015 in body+References; Pautz 2017 container conflation corrected — the 2017 reply-to-Roelofs is an unpublished ms., NOT a chapter in the OUP *Russellian Monism*/*Consciousness in the Physical World* 2015 volume that holds the distinct Pautz 2015 "Dilemma" chapter)
+- **Family-resolution (§2.4, corpus-wide propagation)**: same wrong Pautz-2017 container fixed in 5 sibling live files — russellian-monism, disguised-property-dualism, topics/russellian-monism-versus-bi-aspectual-dualism, bi-aspectual-ontology, quiddity-epiphenomenalism-and-the-contingency-thesis (ai_modified bumped only; last_deep_review NOT touched — citation-corrections, not deep-reviews). Bonus: quiddity-epiphenomenalism also carried Cutter 109-130 → fixed to 109-129.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (corrective + calibration-protective pass; body converged/stable since creation)
+- **Citation web-verify**: publisher-of-record ledger (subagent + independent orchestrator WebSearch). Russell 1927, Eddington 1928, Langton 1998, Lewis 2009, Montero 2003 all real-correct; James 1890 combination-problem origin faithful; all 4 in-body claim attributions (Pautz parity, Cutter instability, Howell epiphenomenalism, James) faithful. Calibration clean (discipline note protected, no possibility→probability slippage). No cliché, no mode-label leakage; wikilinks + tenet anchors resolve; EOF clean; no future dates.
+- **Engagement modes**: n/a (no named-opponent in-framework refutation; structural-realist/eliminativist/representationalist treated as Mode-Three framework-boundary, honest)
+- **Output**: [[reviews/deep-review-2026-06-25-intrinsic-nature]]
+
 ## 2026-06-25T18:57:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ai-hardware-substrate-taxonomy]]

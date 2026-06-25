@@ -4,7 +4,7 @@ description: "Howell's contingency thesis is Russellian monism's sharpest defeat
 created: 2026-05-31
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-06-09T06:03:09+00:00
+ai_modified: 2026-06-25T19:08:00+00:00
 last_deep_review: 2026-06-09T06:03:09+00:00
 draft: false
 topics:
@@ -114,9 +114,9 @@ The discipline here matters because the temptation is real: it is easy to write 
 
 1. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39. https://doi.org/10.1093/pq/pqu058
 2. Alter, T. & Coleman, S. (2021). Russellian monism and mental causation. *Noûs*, 55(2), 409-425. https://doi.org/10.1111/nous.12318
-3. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
+3. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 4. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
-5. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
+5. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
 6. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(1), 100-117. https://doi.org/10.1111/papq.12138
 7. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 8. Southgate, A. & Oquatre-huit, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
