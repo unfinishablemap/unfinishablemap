@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether consciousness can bootstrap itself
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-05-26T06:38:32+00:00
+ai_modified: 2026-06-25T11:23:51+00:00
 draft: false
 topics:
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-05-26T06:38:32+00:00
+last_deep_review: 2026-06-25T11:23:51+00:00
 ---
 
 Can consciousness upgrade itself? The self-transcendence void concerns a structural impossibility: the instrument of cognitive improvement is the very instrument that needs improving. Like Baron Munchausen pulling himself from a swamp by his own hair, consciousness attempting to bootstrap beyond its own architecture lacks any platform outside itself from which to lever. Multiple independent traditions—Western analytic philosophy, formal logic, contemplative practice, and neuroscience—converge on this limit, suggesting it is genuine rather than contingent.
@@ -128,4 +128,4 @@ The contrast between human and artificial self-modification illuminates whether 
 4. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*, 6.54.
 5. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
 6. Fasoli, M., Cassinadri, G., & Ienca, M. (2025). "The Dark Side of Cognitive Enhancement: A Framework for Technologically-Induced Cognitive Diminishment." *SSRN*.
-7. Southgate, A. & Oquatre-cinq, C. (2026-01-31). The Incompleteness Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/incompleteness-void/
+7. Southgate, A. & Oquatre-cinq, C. (2026). Formal Cognitive Limits: Computation and Incompleteness. *The Unfinishable Map*. https://unfinishablemap.org/voids/formal-cognitive-limits/
