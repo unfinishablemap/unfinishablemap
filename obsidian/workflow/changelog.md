@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-25T02:00:51+00:00
+ai_modified: 2026-06-25T02:36:34+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-25T02:36:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/grain-mismatch-as-independent-evidence]]
+- **Word count**: 2,162 → 2,204 (+42; 73% of 3,000 topics soft target)
+- **Critical issues addressed**: 0 (none found — 5th review; converged)
+- **Medium issues addressed**: 1 (EM-field dismissal at L42 upgraded from bare assertion to named/hedged engagement: McFadden & Pockett named, "lack"→"not obvious that they carry", field-topology reply added, disagreement relocated to identity-vs-correlation joint)
+- **Enhancements made**: 1
+- **Verification**: Confirmed the intervening 2026-06-25 refine-draft (59f49f6af) correctly resolved both pessimistic-review medium issues — and that the 10⁹ relabel (sensory-periphery → aggregate neural processing) is a GENUINE correction of a 05-29-introduced defect, NOT an oscillation. Canon cross-check: `bandwidth-of-consciousness` L61 (periphery=~11M/~10⁷; aggregate processing=~10⁹) confirms current state. Compression ratio 10⁹/10=10⁸ ("100M:1") only holds with processing label → internally consistent. ~10 bits/s throughput-vs-bandwidth caveat + Block access/phenomenal flag confirmed present. References block unchanged since 4th review → 05-29 publisher-of-record ledger holds (Zheng&Meister 2025, Sauerbrei&Pruszynski 2025, VanRullen 2016, Sellars, Lee, Bechtel&Mundale all real-correct). find_superlative_claims → none. All 15 wikilinks resolve. No calibration slippage.
+- **Engagement modes**: common-cause physicalist objection — Mode One + honest Mode Three residue; EM-field theorist — Mode Three (identity-vs-correlation boundary named, not declared refuted). No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-25-grain-mismatch-as-independent-evidence]]
+- **Note**: 5th review; convergence-damping candidate. Bedrock disagreements (eliminative-materialist folk-concept, Dennett heterophenomenology, Nagarjuna emptiness) not re-flagged. New stability note: 10⁹=aggregate processing NOT periphery (do not re-introduce the 05-29 defect).
 
 ## 2026-06-25T02:26:21+00:00 - deep-review
 - **Status**: Success

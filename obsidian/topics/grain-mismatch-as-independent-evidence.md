@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-06-25T01:06:46+00:00
+ai_modified: 2026-06-25T02:36:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-04-07
 last_curated:
-last_deep_review: 2026-05-29T00:19:38+00:00
+last_deep_review: 2026-06-25T02:36:34+00:00
 ---
 
 The [[grain-mismatch|grain mismatch]] is usually presented as a single philosophical argument: Sellars showed that phenomenal homogeneity and neural discreteness are structurally incompatible, therefore identity physicalism fails for these property pairs. The Unfinishable Map proposes something stronger. The grain mismatch is not one argument but three independent lines of structural evidence — spatial, temporal, and informational — each arising from different empirical domains, relying on different measurements, and generating different testable predictions. Their convergence constitutes an evidence programme rather than a conceivability exercise. If any single mismatch were resolved, the other two would remain. If all three were independently dissolved, dualism would lose one of its most direct structural supports.
@@ -39,7 +39,7 @@ The [[grain-mismatch|grain mismatch]] is usually presented as a single philosoph
 
 Sellars' original argument (1965, 1971) targets spatial properties. Phenomenal experience presents homogeneous fields — uniform pink, smooth warmth, continuous extension. Neural substrates are spatially discrete: individual neurons separated by synaptic gaps, firing or not firing, with no intrinsic colour or temperature. The mismatch is not that we *describe* these at different levels of detail (a reply Bechtel and Mundale attempted) but that the properties themselves — homogeneity versus discreteness — are contradictory. A property cannot be both gapless and gapped.
 
-The empirical basis is neuroscience's characterisation of neural architecture. The argument requires that neural correlates of conscious experience be discrete at some level. If a neural correlate were discovered that exhibited genuine spatial continuity — a field property, perhaps electromagnetic, that was both measurably continuous and demonstrably identical to phenomenal experience — the spatial mismatch would dissolve. Candidates like electromagnetic field theories of consciousness attempt this, but they face their own challenge: classical fields, while continuous, lack the qualitative character distinguishing one phenomenal experience from another.
+The empirical basis is neuroscience's characterisation of neural architecture. The argument requires that neural correlates of conscious experience be discrete at some level. If a neural correlate were discovered that exhibited genuine spatial continuity — a field property, perhaps electromagnetic, that was both measurably continuous and demonstrably identical to phenomenal experience — the spatial mismatch would dissolve. Candidates like electromagnetic field theories of consciousness (McFadden, Pockett) attempt this, but they face their own challenge: it is not obvious that classical fields, continuous though they are, carry the qualitative character distinguishing one phenomenal experience from another. A field theorist may answer that field topology encodes that character; the spatial mismatch then turns on whether the proposed continuity is genuinely identical to homogeneous experience rather than merely correlated with it.
 
 ### Temporal Grain
 
