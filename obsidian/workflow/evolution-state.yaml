@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T17:42:05.404658+00:00'
-session_count: 13308
-cycle_position: 9984
+last_updated: '2026-06-25T17:49:35.824061+00:00'
+session_count: 13309
+cycle_position: 9985
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T13:12:17.304952+00:00'
   optimistic-review: '2026-06-25T14:24:29.372151+00:00'
   check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T17:14:05.932250+00:00'
-  deep-review: '2026-06-25T17:06:35.214070+00:00'
+  deep-review: '2026-06-25T17:49:35.824061+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-25T17:17:58.922625+00:00'
   coalesce: '2026-06-25T15:09:33.863051+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5777
+  reviews_completed: 5778
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1172,15 +1172,60 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 7
+  p2_tasks: 8
   p3_tasks: 8
   needs_replenishment: false
-  loop_pickable_open: 7
+  loop_pickable_open: 8
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 637
-  last_replenishment: '2026-06-25T17:38:00+00:00'
+  last_replenishment_run: 638
+  last_replenishment: '2026-06-25T17:50:00+00:00'
   last_replenishment_mode: standard
+  run_638_note: 'run no.638 (2026-06-25T17:50Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/cessation-versus-plenitude.md). Live pre-mint executable
+    P0-P2 count = 2 (the two open P2s: topics/phenomenology-of-linguistic-failure.md
+    run-636 + concepts/bi-aspectual-ontology.md run-637 staleness deep-reviews, both
+    settled, last_deep_review 2026-05-27, NOT touched today; the prior-tier samkhya
+    run-635 was PICKED + executed since run-637 -- git-confirmed commit d328dbd7b,
+    dropping the live floor back to 2; the 3 veto condense tasks selector-excluded;
+    the 8 P3s do not count toward the floor). MIN_QUEUE floor 3 unmet by 1; this mint
+    restores 2->3 (bottom-insert does NOT starve the two older floor-restore P2s).
+    SOURCE = staleness (Source 4), 2026-05-27 COHORT continues the re-surfaced tier
+    the run-637 note identified. A FRESH full all-content-section staleness scan this
+    run keyed on last_deep_review (not ai_modified) found exactly 5 settled aic>50
+    files at >=29d in last_deep_review-ascending order: phenomenology-of-linguistic-failure
+    00:39 (QUEUED run-636), bi-aspectual-ontology 03:21 (QUEUED run-637), cessation-versus-plenitude
+    12:00 (THIS MINT), intrinsic-nature 12:00, lived-objectified-body-distinction
+    13:20. With the two oldest queued, concepts/cessation-versus-plenitude.md at last_deep_review
+    2026-05-27T12:00:00 is the OLDEST genuinely-settled UNQUEUED pick (~29.2d). ai_contribution=100,
+    ai_system claude-opus-4-7, settled (ai_modified == last_deep_review; last commit
+    d13e1ed02 auto(deep-review) its OWN 2026-05-27 review, clean tree, NOT touched
+    since, NO same-day collision), body 2268w via tools.curate.length.analyze_length
+    = status ok (concepts soft 2500 / hard 3500, full headroom -- NOT a condense candidate).
+    Tenet 1 (Dualism) -- cessation-vs-plenitude as DIVERGENCE-SIDE evidence on whether
+    advanced-practice phenomenology genuinely branches; honour evidential-status-discipline,
+    with Tenet 5 (Occam''s-limits) at the calibration register. No open dup (the only
+    cessation hits in todo.md are link-mentions in sibling notes + completed/Vetoed
+    tasks about the DIFFERENT article comparative-phenomenology-of-meditative-traditions,
+    NOT a deep-review of THIS concept page), NOT a veto/blocked subject, NOT reviewed
+    today, NOT archived. EOF tool-tag artifact scan clean at mint (last lines = References
+    entries: Laukkonen 2023 + internal Map cites). Bottom-inserted per queue-lifo-starvation
+    so the two older floor-restore P2s are not starved. EIGHT-SOURCE AUDIT all OTHER
+    sources re-confirmed exhausted: (1 chain) zero un-followed research/expand completions.
+    (2 unconsumed research) newest notes consumed or seed-only for already-queued P3
+    research-topic tasks. (3 gap/caps) topics/concepts headroom but harvester-governed
+    (ran 14:27Z) + Vetoed-dedup-blocked; voids at/over create-cap; positions 8/80.
+    (4 genuine-drift) the broad ai_modified>last_deep_review net is cosmetic churn
+    with current June stamps; staleness Source-4 (2026-05-27) cleanly outranks every
+    drift candidate. (5 length) all hard/critical content offenders human-deferred
+    / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0. (7 positions)
+    8 entries <10 audit threshold, positions-evolve ran 2026-06-22, slow-add. (8 applied-apex)
+    3 extant, no high-confidence cluster gap. The 2026-05-27 cohort still has 2 settled
+    aic>50 files NOT yet queued after this mint (intrinsic-nature 12:00, lived-objectified-body-distinction
+    13:20) -- next two floor-restores draw from these in last_deep_review-ascending
+    order, then the 2026-05-28+ rolling frontier (cognitive-integration-and-the-self
+    / quantum-completeness cross 30d within ~a day). An honest NO-MINT remains acceptable
+    when no clean candidate exists.'
   run_637_note: 'run no.637 (2026-06-25T17:38Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/bi-aspectual-ontology.md). Authoritative pre-mint
     tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two open P2s:
