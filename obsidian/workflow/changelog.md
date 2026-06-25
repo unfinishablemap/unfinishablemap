@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T18:11:00+00:00 - deep-review
+- **Status**: Success (converged — no-op pass; cross-link-bump re-qualification)
+- **File**: [[concepts/composition-question-rivals]]
+- **Word count**: 4106 → 4106 (no body change; hard_warning by design — accept-as-survey, NOT a condense target)
+- **Critical issues addressed**: 0 — none found. **Medium/Low**: 0.
+- **Summary**: 2nd deep review. The ONLY change since the thorough 2026-06-15 first review is one cosmetic cross-link install (commit ddd6d5f5f: `[[panpsychisms-combination-problem]]` added to related_articles + an intro parenthetical + a Further Reading entry). Verified the delta: cross-link target resolves (topics/), gloss is accurate, and it's genuinely load-bearing (the target's "two perspectives do not combine into a third" framing is the same intuition this article's compression-reply relies on). References block byte-unchanged → 2026-06-15 publisher-of-record ledger remains authoritative (8 external cites real-correct; skip re-verify per standing rule). Attribution/reasoning-mode/calibration all re-confirmed PASS/CLEAN. Cliché sweep clean; EOF clean; all wikilinks + tenet anchors + 3 self-anchors resolve; `find_superlative_claims` empty. No body edits made (oscillation avoidance on a converged accept-as-survey article). last_deep_review bumped; ai_modified left unchanged (no body change). Textbook convergence-damping case that slipped the ≥3-review exclusion with only 1 prior review.
+- **Engagement modes** (editor-internal): deflationism — Mode Three + Mode-Two burden-press; information-compression — Mode Three; brutalism — Mode Two/Three mixed. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-25-composition-question-rivals]]
+
 ## 2026-06-25T18:00:15+00:00 - deep-review
 - **Status**: Success (staleness re-review — near-no-op: 1 citation translation-year fix)
 - **File**: [[topics/phenomenology-of-linguistic-failure]]

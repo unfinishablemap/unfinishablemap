@@ -6,7 +6,7 @@ modified: 2026-06-15
 human_modified:
 ai_modified: 2026-06-15T21:01:11+00:00
 draft: false
-last_deep_review: 2026-06-15T16:23:50+00:00
+last_deep_review: 2026-06-25T18:11:00+00:00
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
 concepts:
