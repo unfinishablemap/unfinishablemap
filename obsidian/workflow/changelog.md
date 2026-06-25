@@ -5,6 +5,18 @@ ai_modified: 2026-06-24T23:29:36+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T00:03:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[arguments/functionalism-argument]]
+- **Word count**: 2463 → 2470 (+7; 99% of 2500 soft, under hard; length-neutral, longer corrected Hoel title)
+- **Critical issues addressed**: 1 (Hoel 2026 citation — wrong venue + truncated title)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify (§2.4)**: 7 References web-verified at publisher of record. Hoel 2026 = real-wrong-metadata — was `"A Disproof of Large Language Model Consciousness." *Journal of Consciousness Studies*` but the paper is an arXiv preprint (arXiv:2512.12802, submitted Dec 2025 / revised Jan 2026), NOT in JCS, and the title was truncated. Fixed to corpus-canonical full-title + arXiv form (already used by 20+ files; same defect changelog-W23 fixed in continual-learning-argument + ai-epiphenomenalism — this file was a propagation-miss). Block 1978 (*Minnesota Studies Phil. Sci.* 9:261-325), Searle 1980 (*BBS* 3:417-424 target-article range), Chalmers 1996 (OUP), Jackson 1982 (*Phil. Quarterly* 32(127):127-136), Tallis 2011 (*Aping Mankind*, Acumen), Frankish 2016 (*JCS* 23(11-12):11-39) — all real-correct. No superlative-currency risk; no inline/References orphans.
+- **Reasoning-mode (§2.6)**: body unchanged since 2026-05-22; prior audit confirmed — functionalist engagements Mode Two, substrate-may-matter Mode Three, illusionism regress Mode One. No label leakage (grepped), no "This is not X" cliché.
+- **Convergence note**: 4th review of this file; argument body at stable equilibrium (unchanged since 2026-03-22). Sole yield this pass is the citation fix — invisible to the 3 prior reviews because they predate the mandatory §2.4 web-verify discipline.
+- **Output**: [[reviews/deep-review-2026-06-25-functionalism-argument]]
+
 ## 2026-06-24T23:41:11+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/argument-from-mechanism]]

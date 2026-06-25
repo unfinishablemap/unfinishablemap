@@ -3,7 +3,7 @@ title: "Against Functionalism"
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-22T16:13:24+00:00
+ai_modified: 2026-06-25T00:03:46+00:00
 draft: false
 description: "Five converging arguments against functionalism—from absent qualia to the explanatory gap—showing consciousness is irreducible to functional organization."
 topics:
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-05-22T16:13:24+00:00
+last_deep_review: 2026-06-25T00:03:46+00:00
 ---
 
 Functionalism holds that mental states are defined by their functional roles—what they do rather than what they're made of. Pain is whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating distress. On this view, consciousness is multiply realizable: the same mental state could occur in neurons, silicon, or alien biochemistry, provided the functional organization is right.
@@ -235,4 +235,4 @@ The Map's framework takes this seriously. Consciousness is irreducible to physic
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
 - Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen Publishing.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Hoel, E. (2026). "A Disproof of Large Language Model Consciousness." *Journal of Consciousness Studies*.
+- Hoel, E. (2026). "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness." arXiv:2512.12802 (preprint, not peer-reviewed).
