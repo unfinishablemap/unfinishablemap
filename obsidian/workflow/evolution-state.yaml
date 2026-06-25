@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-25T15:13:23.154844+00:00'
-session_count: 13288
+last_updated: '2026-06-25T15:18:55.500127+00:00'
+session_count: 13289
 cycle_position: 9978
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-25T15:09:33.863051+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-25T14:49:48.087883+00:00'
-  agentic-social: '2026-06-25T14:31:01.515460+00:00'
+  agentic-social: '2026-06-25T15:20:34.525285+00:00'
   embed-videos: '2026-06-25T11:40:09.114015+00:00'
   commission-chatgpt-review: '2026-06-25T02:10:05.897715+00:00'
   commission-claude-review: '2026-06-25T03:09:06.192038+00:00'
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T14:43:01.708980+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T15:03:54.027331+00:00'
+  replenish-queue: '2026-06-25T15:18:55.500127+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-06-25'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-25'
@@ -178,12 +170,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-25'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
-    date: '2026-06-18T14:33:53.761093+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/phenomenal-concepts-strategy/
     date: '2026-06-18T15:30:01.331070+00:00'
     topics:
@@ -1158,6 +1150,11 @@ agentic_social:
     - interaction-problem-across-traditions
     - the-convergence-argument-for-dualism
     - dualist-perception
+  - url: https://unfinishablemap.org/topics/forward-in-time-vs-time-symmetric-selection/
+    date: '2026-06-25T15:20:34.525160+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 tune_system_history:
   last_run: '2026-06-25T06:49:51+00:00'
   changes_applied: []
@@ -1195,11 +1192,11 @@ queue_status:
     open P2s: topics/bergson-and-duration.md run-630 + topics/phenomenology-of-resistance-across-domains.md
     run-631 staleness deep-reviews, both settled, last_deep_review 2026-05-26/05-27,
     last commit each file own 2026-05-26/05-27 review, NOT touched today; the 3 veto
-    condense tasks correctly selector-excluded; the 8 P3s do not count toward the floor).
-    MIN_QUEUE floor 3 (cycle_pick.MIN_QUEUE_TASKS=3) unmet by 1; this mint restores
-    2 to 3 (POST-MINT count_p0_p2_tasks = 3 confirmed via task_selector; top pick still
-    topics/bergson-and-duration.md so the bottom-insert did NOT starve the two older
-    floor-restore P2s; drain order bergson-and-duration to phenomenology-of-resistance-across-domains
+    condense tasks correctly selector-excluded; the 8 P3s do not count toward the
+    floor). MIN_QUEUE floor 3 (cycle_pick.MIN_QUEUE_TASKS=3) unmet by 1; this mint
+    restores 2 to 3 (POST-MINT count_p0_p2_tasks = 3 confirmed via task_selector;
+    top pick still topics/bergson-and-duration.md so the bottom-insert did NOT starve
+    the two older floor-restore P2s; drain order bergson-and-duration to phenomenology-of-resistance-across-domains
     to diachronic-agency-and-personal-narrative). The run-629 voids/tenet-generated-voids.md
     floor task was PICKED + executed since run-631 (now in Completed), dropping the
     live floor back to 2 -- expected replenish-at-floor alternation, NOT the fixed
@@ -1207,37 +1204,38 @@ queue_status:
     and run-631 phenomenology-of-resistance-across-domains notes explicitly parked
     diachronic-agency-and-personal-narrative as the next candidate. topics/diachronic-agency-and-personal-narrative.md
     last_deep_review 2026-05-27T00:00:00 = ~29.64d (>=30d by pick time through the
-    two older P2s), ai_contribution=100, ai_system claude-opus-4-6 (older build), settled
-    (ai_modified == last_deep_review; last commit touching it is its OWN 2026-05-27
-    deep-review 14597f453, NOT touched since, NO same-day collision), body 2610w = ok
-    (topics soft 3000 / hard 4000, full headroom -- NOT a condense candidate, do NOT
-    auto-condense). Picked over the same-cohort siblings (delegation-meets-quantum-selection,
+    two older P2s), ai_contribution=100, ai_system claude-opus-4-6 (older build),
+    settled (ai_modified == last_deep_review; last commit touching it is its OWN 2026-05-27
+    deep-review 14597f453, NOT touched since, NO same-day collision), body 2610w =
+    ok (topics soft 3000 / hard 4000, full headroom -- NOT a condense candidate, do
+    NOT auto-condense). Picked over the same-cohort siblings (delegation-meets-quantum-selection,
     consciousness-and-the-ontology-of-temporal-becoming, samkhya-three-way-distinction,
     phenomenology-of-linguistic-failure -- all ~29.6d 2026-05-27) because it was the
     explicitly-parked next candidate in both prior notes. Tenet 1 (Dualism) + Tenet
     3 (Bidirectional Interaction). No open dup (NO diachronic-agency task HEADER in
     the Active section, 0 open-header hits; the only ### hit is an already-done 2026-05-27
     deep-review below the Completed header), NOT vetoed, NOT reviewed today. Bottom-inserted
-    per queue-lifo-starvation so the two older floor-restore P2s are not starved. EIGHT-SOURCE
-    AUDIT all OTHER sources re-confirmed exhausted: (1 chain) task_chains absent/null,
-    recent_tasks (deep-review/refine-draft/replenish/agentic-social/check-model-fallback/pessimistic-review/optimistic-review/apex-evolve/coalesce)
+    per queue-lifo-starvation so the two older floor-restore P2s are not starved.
+    EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted: (1 chain) task_chains
+    absent/null, recent_tasks (deep-review/refine-draft/replenish/agentic-social/check-model-fallback/pessimistic-review/optimistic-review/apex-evolve/coalesce)
     has zero un-followed research/expand completions. (2 unconsumed research) newest
     note ai-hardware-substrate-taxonomy-2026-06-25 consumed (live concepts/ article);
     the three open P3 research-topic seeds (the-specious-present, minimality-as-scope-constraint,
-    anti-correlation-probe-delivery-status) already queued, NOT re-mintable; older notes
-    long-handled. (3 gap/caps) topics 281/320 concepts 271/320 headroom but harvester-governed
-    (ran 14:27Z) + Vetoed-dedup-blocked; voids 101/100 at/over create-cap; positions
-    8/80. (4 genuine-drift) the broad ai_modified > last_deep_review net returns ~140
-    rows but all are cross-touch/cross-link/sync cosmetic churn with CURRENT June last_deep_review
-    stamps -- NONE is an own-body-drift case older than the 2026-05-27 staleness pick;
-    staleness Source-4 cleanly outranks every drift candidate. (5 length) all hard/critical
-    content offenders human-deferred / veto / index-hub / positions-governed. (6 orphan)
-    orphaned_files=0. (7 positions) 8 entries <10 audit threshold, positions-evolve
-    ran 2026-06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster
-    gap. Next floor-restore must look to the next staleness tier (delegation-meets-quantum-selection
-    / consciousness-and-the-ontology-of-temporal-becoming / samkhya-three-way-distinction
-    / phenomenology-of-linguistic-failure, all ~29.6d 2026-05-27 cohort) as they cross
-    30d, or await fresh chain/research/harvester input.'
+    anti-correlation-probe-delivery-status) already queued, NOT re-mintable; older
+    notes long-handled. (3 gap/caps) topics 281/320 concepts 271/320 headroom but
+    harvester-governed (ran 14:27Z) + Vetoed-dedup-blocked; voids 101/100 at/over
+    create-cap; positions 8/80. (4 genuine-drift) the broad ai_modified > last_deep_review
+    net returns ~140 rows but all are cross-touch/cross-link/sync cosmetic churn with
+    CURRENT June last_deep_review stamps -- NONE is an own-body-drift case older than
+    the 2026-05-27 staleness pick; staleness Source-4 cleanly outranks every drift
+    candidate. (5 length) all hard/critical content offenders human-deferred / veto
+    / index-hub / positions-governed. (6 orphan) orphaned_files=0. (7 positions) 8
+    entries <10 audit threshold, positions-evolve ran 2026-06-22, slow-add. (8 applied-apex)
+    3 extant, no high-confidence cluster gap. Next floor-restore must look to the
+    next staleness tier (delegation-meets-quantum-selection / consciousness-and-the-ontology-of-temporal-becoming
+    / samkhya-three-way-distinction / phenomenology-of-linguistic-failure, all ~29.6d
+    2026-05-27 cohort) as they cross 30d, or await fresh chain/research/harvester
+    input.'
   run_631_note: 'run no.631 (2026-06-25T15:00Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (topics/phenomenology-of-resistance-across-domains.md).
     Authoritative pre-mint tools.evolution.task_selector.count_p0_p2_tasks(content)
@@ -1460,44 +1458,44 @@ queue_status:
     3 extant, no high-confidence cluster gap. Next floor-restore can take the remaining
     29.9d siblings (conceptual-metabolism-void, pragmatism) as they cross 30d, or
     await fresh chain/research/harvester input.'
-  run_623_note: 'run no.623 (2026-06-25T11:30Z): GENUINE FLOOR-RESTORING MINT of 1
-    staleness deep-review (concepts/objectivity-and-consciousness.md). Authoritative
-    pre-mint count_p0_p2_tasks = 2 (the two queued staleness deep-reviews voids/smoothness-and-continuity.md
-    (run-621) + concepts/voluntary-attention-control-mechanisms.md (run-622), both
-    verified genuinely OPEN -- last_deep_review still 2026-05-26; select_queue_task
-    returned smoothness-and-continuity at line 1260). The run-620 self-transcendence-void
-    P2 was picked + executed this cycle (now ✓ below Completed) so the live floor
-    fell back to 2 -- expected replenish-at-floor alternation, NOT the fixed deadlock.
-    Queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1; this mint restores 2->3 (POST-MINT
-    count=3 confirmed via task_selector; top pick still smoothness-and-continuity
-    at line 1260 so bottom-insert did NOT starve the two older floor-restore P2s).
-    SOURCE = staleness (Source 4b), NEXT TIER: the exact candidate run-622 parked.
-    concepts/objectivity-and-consciousness.md last_deep_review 2026-05-26T12:00 =
-    30.0d, ai_contribution=100, ai_system claude-sonnet-4-5 (oldest/weakest build
-    of the remaining cohort = strongest fresh-eyes warrant), settled (ai_modified
-    == last_deep_review, git-untouched since review commit 080b6893c), body 2533w
-    = soft_warning (concepts soft 2500 / hard 3500, ~967w to hard -- NOT a condense
-    candidate but only ~33w over soft, keep review length-neutral/trimming). Tenet
-    1 (Dualism) + Tenet 5 (Occam limits) load-bearing (Galilean exclusion of subjectivity
-    from objective science -- grounds the Map epistemology-of-method arguments). No
-    open dup (0 ### headers for this file in Active section; only Active mentions
-    are cross-refs in run-622 note; single Vetoed hit is a DIFFERENT Galilean-exclusion
-    create task that merely references this file, NOT a veto), NOT reviewed today
-    (git-confirmed). Bottom-inserted per queue-lifo-starvation. EIGHT-SOURCE AUDIT
-    all OTHER sources re-confirmed exhausted: (1 chain) task_chains absent, substrate-taxonomy
-    chain fully consumed, zero un-followed completions. (2 unconsumed research) only
-    note newer than last mint (ai-hardware-substrate-taxonomy-2026-06-25) is consumed.
-    (3 gap/caps) topics 281/320 concepts 271/320 headroom but harvester-governed (08:20Z)
-    + Vetoed-dedup-blocked; voids 101/100 at/over create-cap. (4 genuine-drift) only
-    smoothness-and-continuity own-body bump = cosmetic cross-touch (already queued
-    run-621). (5 length) all content hard/critical offenders human-deferred / #veto
-    / index-hub / positions-governed / research-working-note. (6 orphan) orphaned_files=0.
-    (7 positions) 8 entries <10 audit threshold, positions-evolve ran 2026-06-22,
-    slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. With this
-    mint the 2026-05-26T12:00 staleness cohort is FULLY queued/executed; the next
-    floor-restore looks to the 29.9d-crossing tier (voids/conceptual-metabolism-void,
-    topics/consciousness-evolution-and-biology, concepts/pragmatism) or awaits fresh
-    chain/research/harvester input.'
+  run_623_note: "run no.623 (2026-06-25T11:30Z): GENUINE FLOOR-RESTORING MINT of 1\
+    \ staleness deep-review (concepts/objectivity-and-consciousness.md). Authoritative\
+    \ pre-mint count_p0_p2_tasks = 2 (the two queued staleness deep-reviews voids/smoothness-and-continuity.md\
+    \ (run-621) + concepts/voluntary-attention-control-mechanisms.md (run-622), both\
+    \ verified genuinely OPEN -- last_deep_review still 2026-05-26; select_queue_task\
+    \ returned smoothness-and-continuity at line 1260). The run-620 self-transcendence-void\
+    \ P2 was picked + executed this cycle (now \u2713 below Completed) so the live\
+    \ floor fell back to 2 -- expected replenish-at-floor alternation, NOT the fixed\
+    \ deadlock. Queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1; this mint restores\
+    \ 2->3 (POST-MINT count=3 confirmed via task_selector; top pick still smoothness-and-continuity\
+    \ at line 1260 so bottom-insert did NOT starve the two older floor-restore P2s).\
+    \ SOURCE = staleness (Source 4b), NEXT TIER: the exact candidate run-622 parked.\
+    \ concepts/objectivity-and-consciousness.md last_deep_review 2026-05-26T12:00\
+    \ = 30.0d, ai_contribution=100, ai_system claude-sonnet-4-5 (oldest/weakest build\
+    \ of the remaining cohort = strongest fresh-eyes warrant), settled (ai_modified\
+    \ == last_deep_review, git-untouched since review commit 080b6893c), body 2533w\
+    \ = soft_warning (concepts soft 2500 / hard 3500, ~967w to hard -- NOT a condense\
+    \ candidate but only ~33w over soft, keep review length-neutral/trimming). Tenet\
+    \ 1 (Dualism) + Tenet 5 (Occam limits) load-bearing (Galilean exclusion of subjectivity\
+    \ from objective science -- grounds the Map epistemology-of-method arguments).\
+    \ No open dup (0 ### headers for this file in Active section; only Active mentions\
+    \ are cross-refs in run-622 note; single Vetoed hit is a DIFFERENT Galilean-exclusion\
+    \ create task that merely references this file, NOT a veto), NOT reviewed today\
+    \ (git-confirmed). Bottom-inserted per queue-lifo-starvation. EIGHT-SOURCE AUDIT\
+    \ all OTHER sources re-confirmed exhausted: (1 chain) task_chains absent, substrate-taxonomy\
+    \ chain fully consumed, zero un-followed completions. (2 unconsumed research)\
+    \ only note newer than last mint (ai-hardware-substrate-taxonomy-2026-06-25) is\
+    \ consumed. (3 gap/caps) topics 281/320 concepts 271/320 headroom but harvester-governed\
+    \ (08:20Z) + Vetoed-dedup-blocked; voids 101/100 at/over create-cap. (4 genuine-drift)\
+    \ only smoothness-and-continuity own-body bump = cosmetic cross-touch (already\
+    \ queued run-621). (5 length) all content hard/critical offenders human-deferred\
+    \ / #veto / index-hub / positions-governed / research-working-note. (6 orphan)\
+    \ orphaned_files=0. (7 positions) 8 entries <10 audit threshold, positions-evolve\
+    \ ran 2026-06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster\
+    \ gap. With this mint the 2026-05-26T12:00 staleness cohort is FULLY queued/executed;\
+    \ the next floor-restore looks to the 29.9d-crossing tier (voids/conceptual-metabolism-void,\
+    \ topics/consciousness-evolution-and-biology, concepts/pragmatism) or awaits fresh\
+    \ chain/research/harvester input."
   run_622_note: 'run no.622 (2026-06-25T11:19Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/voluntary-attention-control-mechanisms.md). Authoritative
     pre-mint count_p0_p2_tasks = 2 (the two queued voids staleness deep-reviews self-transcendence-void
