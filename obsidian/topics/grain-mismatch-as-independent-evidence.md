@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-06-24T22:42:59+00:00
+ai_modified: 2026-06-25T01:06:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ Andrew Lee's introspective opacity finding applies with equal force here: we can
 
 ### Informational Grain
 
-The sensory periphery delivers information to the brain at roughly 10⁹ bits per second. Conscious declarative throughput — the rate at which reportable decisions resolve — runs at approximately 10 bits per second, a compression ratio of 100 million to one. This is not a rough estimate but a Shannon-calibrated measurement that has held across roughly seven decades of work and radically different tasks, from 1952 choice-reaction experiments through typing, gaming, and speedcubing (Zheng & Meister 2025; see [[bandwidth-of-consciousness|the bandwidth of consciousness]] for the measurement history). The mismatch is informational: the grain of conscious content is eight orders of magnitude coarser than the grain of neural computation.
+Aggregate neural processing runs at roughly 10⁹ bits per second. Conscious declarative throughput — the rate at which reportable decisions resolve — runs at approximately 10 bits per second, a compression ratio of 100 million to one. The figure is a Shannon-calibrated behavioural throughput, not a rough estimate, that has held across roughly seven decades of work and radically different tasks, from 1952 choice-reaction experiments through typing, gaming, and speedcubing (Zheng & Meister 2025; see [[bandwidth-of-consciousness|the bandwidth of consciousness]] for the measurement history). One caveat the canonical bandwidth articles carry travels with the number: Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement, so the step from "behavioural ceiling in conscious tasks" to a claim about phenomenal content is an interpretation, not a direct measurement. Taken at the level the evidence licenses, the mismatch is informational: conscious output and access throughput is eight orders of magnitude coarser than the grain of neural computation — and whether the phenomenal content underlying that output is correspondingly coarse, as Block's access/phenomenal distinction leaves open, is a further question the figure does not settle.
 
 This third mismatch is independent of the first two. Even if phenomenal space were somehow discrete (dissolving the spatial mismatch) and phenomenal time were somehow periodic (dissolving the temporal mismatch), the informational compression ratio would remain. Consciousness would still operate at a radically different informational grain from its neural substrate.
 

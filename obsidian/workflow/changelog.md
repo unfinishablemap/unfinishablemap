@@ -5,6 +5,13 @@ ai_modified: 2026-06-25T00:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T01:06:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/grain-mismatch-as-independent-evidence]]
+- **Review addressed**: [[reviews/pessimistic-2026-06-25-grain-mismatch-as-independent-evidence]] (Issues 1, 2, and the line-54 style nit)
+- **Changes**: Informational Grain section (line 54), all length-neutral. (1) Factual misattribution: relabelled "The sensory periphery delivers information to the brain at roughly 10⁹ bits per second" → "Aggregate neural processing runs at roughly 10⁹ bits per second" (matches bandwidth-of-consciousness:61; periphery is ~10⁷, 10⁹ is total neural processing per Zheng & Meister 2025; also resolves the internal inconsistency with line 58). (2) Evidential-status over-statement: added the throughput-vs-bandwidth caveat the canon carries (consciousness-bandwidth-architecture:59) and reworded "the grain of conscious content is eight orders of magnitude coarser" → "conscious output and access throughput is eight orders of magnitude coarser," flagging the access/phenomenal step as interpretation (Block's access/phenomenal distinction). (3) Style: removed banned negation-then-assertion construct ("This is not a rough estimate but a Shannon-calibrated measurement" → "The figure is a Shannon-calibrated behavioural throughput, not a rough estimate"). Preserved the well-handled common-source/convergence paragraph (line 68) untouched.
+- **Published**: yes
+
 ## 2026-06-25T01:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/grain-mismatch-as-independent-evidence.md (never previously pessimistic-reviewed; has post-deep-review edits)
