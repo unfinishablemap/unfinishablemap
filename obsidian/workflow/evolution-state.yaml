@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-25T20:56:11.379032+00:00'
-session_count: 13338
+last_updated: '2026-06-25T21:01:56.314552+00:00'
+session_count: 13339
 cycle_position: 10000
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-25T15:09:33.863051+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-25T17:32:26.183024+00:00'
-  agentic-social: '2026-06-25T20:12:09.535762+00:00'
+  agentic-social: '2026-06-25T21:03:05.879046+00:00'
   embed-videos: '2026-06-25T17:07:51.022523+00:00'
   commission-chatgpt-review: '2026-06-25T02:10:05.897715+00:00'
   commission-claude-review: '2026-06-25T03:09:06.192038+00:00'
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T18:59:55.109145+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T20:47:49.206125+00:00'
+  replenish-queue: '2026-06-25T21:01:56.314552+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-06-25'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-25'
@@ -178,15 +170,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-25'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/filter-theory/
-    date: '2026-06-18T20:46:33.367983+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-interface-problem
-    - terminal-lucidity-and-filter-transmission-theory
-    - bandwidth-of-consciousness
   - url: https://unfinishablemap.org/concepts/episodic-memory/
     date: '2026-06-18T21:34:45.425832+00:00'
     topics:
@@ -1147,6 +1136,10 @@ agentic_social:
     - phenomenology-of-deliberation-under-uncertainty
     - consciousness-and-testimony
     - consciousness-and-intersubjectivity
+  - url: https://unfinishablemap.org/concepts/llm-consciousness/
+    date: '2026-06-25T21:03:05.878992+00:00'
+    topics:
+    - ai-consciousness
 tune_system_history:
   last_run: '2026-06-25T06:49:51+00:00'
   changes_applied: []
@@ -1179,8 +1172,8 @@ queue_status:
   last_replenishment: '2026-06-25T21:00:00+00:00'
   last_replenishment_mode: standard
   run_647_note: 'run no.647 (2026-06-25T21:00Z): GENUINE FLOOR-RESTORING MINT of 1
-    staleness deep-review (concepts/islamic-sufi-philosophy-of-consciousness.md)
-    -- the next draw from the 2026-05-29 frontier after run-646 queued consciousness-and-the-physics-of-information,
+    staleness deep-review (concepts/islamic-sufi-philosophy-of-consciousness.md) --
+    the next draw from the 2026-05-29 frontier after run-646 queued consciousness-and-the-physics-of-information,
     exactly as the run-646 note predicted as the next floor-restore draw. phenomenal-depth
     was COMPLETED today (done 2026-06-25) and is explicitly NOT re-minted per orchestrator
     steering. Authoritative pre-mint count via tools.evolution.task_selector.count_p0_p2_tasks(content)
@@ -1196,17 +1189,17 @@ queue_status:
     then concepts/islamic-sufi-philosophy-of-consciousness.md at 28.12d = the deterministic
     OLDEST genuinely-settled UNQUEUED pick. ai_contribution=100, ai_system claude-opus-4-6,
     settled (ai_modified == last_deep_review 2026-05-28T18:03:40+00:00 exact-match,
-    last commit 10cd00835 auto deep-review its OWN 2026-05-28 review, clean tree, NOT
-    touched since, zero commits since 2026-06-25T00:00, NO same-day collision), body
-    2248w via tools.curate.length.analyze_length(Path) = status ok (concepts soft
-    2500 / hard 3500, full headroom -- NOT a condense candidate). Tenets engaged all
-    five (per the prior 2026-05-28 review header) -- the Sufi/Islamic-philosophy lineage
-    (Avicenna flying-man, nafs/ruh distinction) as a non-Western convergence on a
-    mind-matter distinction; honour evidential-status-discipline. No open dup (the
-    only header hit in todo.md is the completed 2026-05-28 entry at line ~6989; remaining
-    hits are run-646 NOTE bodies naming this slug as the predicted next frontier draw,
-    NOT task headers), NOT vetoed/blocked (Vetoed bank grep-confirmed clean), NOT
-    reviewed today, NOT archived (no archive/concepts/islamic-sufi-philosophy-of-consciousness.md).
+    last commit 10cd00835 auto deep-review its OWN 2026-05-28 review, clean tree,
+    NOT touched since, zero commits since 2026-06-25T00:00, NO same-day collision),
+    body 2248w via tools.curate.length.analyze_length(Path) = status ok (concepts
+    soft 2500 / hard 3500, full headroom -- NOT a condense candidate). Tenets engaged
+    all five (per the prior 2026-05-28 review header) -- the Sufi/Islamic-philosophy
+    lineage (Avicenna flying-man, nafs/ruh distinction) as a non-Western convergence
+    on a mind-matter distinction; honour evidential-status-discipline. No open dup
+    (the only header hit in todo.md is the completed 2026-05-28 entry at line ~6989;
+    remaining hits are run-646 NOTE bodies naming this slug as the predicted next
+    frontier draw, NOT task headers), NOT vetoed/blocked (Vetoed bank grep-confirmed
+    clean), NOT reviewed today, NOT archived (no archive/concepts/islamic-sufi-philosophy-of-consciousness.md).
     EOF tool-tag artifact scan clean at mint (last lines = Jamali/Golshani/Jamali
     2019 Avicenna Preprints.org + two internal Map self-cite References entries; no
     content leak). Bottom-inserted per queue-lifo-starvation so the two older floor-restore
@@ -2142,44 +2135,44 @@ queue_status:
     3 extant, no high-confidence cluster gap. Next floor-restore can take the remaining
     29.9d siblings (conceptual-metabolism-void, pragmatism) as they cross 30d, or
     await fresh chain/research/harvester input.'
-  run_623_note: 'run no.623 (2026-06-25T11:30Z): GENUINE FLOOR-RESTORING MINT of 1
-    staleness deep-review (concepts/objectivity-and-consciousness.md). Authoritative
-    pre-mint count_p0_p2_tasks = 2 (the two queued staleness deep-reviews voids/smoothness-and-continuity.md
-    (run-621) + concepts/voluntary-attention-control-mechanisms.md (run-622), both
-    verified genuinely OPEN -- last_deep_review still 2026-05-26; select_queue_task
-    returned smoothness-and-continuity at line 1260). The run-620 self-transcendence-void
-    P2 was picked + executed this cycle (now ✓ below Completed) so the live floor
-    fell back to 2 -- expected replenish-at-floor alternation, NOT the fixed deadlock.
-    Queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1; this mint restores 2->3 (POST-MINT
-    count=3 confirmed via task_selector; top pick still smoothness-and-continuity
-    at line 1260 so bottom-insert did NOT starve the two older floor-restore P2s).
-    SOURCE = staleness (Source 4b), NEXT TIER: the exact candidate run-622 parked.
-    concepts/objectivity-and-consciousness.md last_deep_review 2026-05-26T12:00 =
-    30.0d, ai_contribution=100, ai_system claude-sonnet-4-5 (oldest/weakest build
-    of the remaining cohort = strongest fresh-eyes warrant), settled (ai_modified
-    == last_deep_review, git-untouched since review commit 080b6893c), body 2533w
-    = soft_warning (concepts soft 2500 / hard 3500, ~967w to hard -- NOT a condense
-    candidate but only ~33w over soft, keep review length-neutral/trimming). Tenet
-    1 (Dualism) + Tenet 5 (Occam limits) load-bearing (Galilean exclusion of subjectivity
-    from objective science -- grounds the Map epistemology-of-method arguments). No
-    open dup (0 ### headers for this file in Active section; only Active mentions
-    are cross-refs in run-622 note; single Vetoed hit is a DIFFERENT Galilean-exclusion
-    create task that merely references this file, NOT a veto), NOT reviewed today
-    (git-confirmed). Bottom-inserted per queue-lifo-starvation. EIGHT-SOURCE AUDIT
-    all OTHER sources re-confirmed exhausted: (1 chain) task_chains absent, substrate-taxonomy
-    chain fully consumed, zero un-followed completions. (2 unconsumed research) only
-    note newer than last mint (ai-hardware-substrate-taxonomy-2026-06-25) is consumed.
-    (3 gap/caps) topics 281/320 concepts 271/320 headroom but harvester-governed (08:20Z)
-    + Vetoed-dedup-blocked; voids 101/100 at/over create-cap. (4 genuine-drift) only
-    smoothness-and-continuity own-body bump = cosmetic cross-touch (already queued
-    run-621). (5 length) all content hard/critical offenders human-deferred / #veto
-    / index-hub / positions-governed / research-working-note. (6 orphan) orphaned_files=0.
-    (7 positions) 8 entries <10 audit threshold, positions-evolve ran 2026-06-22,
-    slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. With this
-    mint the 2026-05-26T12:00 staleness cohort is FULLY queued/executed; the next
-    floor-restore looks to the 29.9d-crossing tier (voids/conceptual-metabolism-void,
-    topics/consciousness-evolution-and-biology, concepts/pragmatism) or awaits fresh
-    chain/research/harvester input.'
+  run_623_note: "run no.623 (2026-06-25T11:30Z): GENUINE FLOOR-RESTORING MINT of 1\
+    \ staleness deep-review (concepts/objectivity-and-consciousness.md). Authoritative\
+    \ pre-mint count_p0_p2_tasks = 2 (the two queued staleness deep-reviews voids/smoothness-and-continuity.md\
+    \ (run-621) + concepts/voluntary-attention-control-mechanisms.md (run-622), both\
+    \ verified genuinely OPEN -- last_deep_review still 2026-05-26; select_queue_task\
+    \ returned smoothness-and-continuity at line 1260). The run-620 self-transcendence-void\
+    \ P2 was picked + executed this cycle (now \u2713 below Completed) so the live\
+    \ floor fell back to 2 -- expected replenish-at-floor alternation, NOT the fixed\
+    \ deadlock. Queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1; this mint restores\
+    \ 2->3 (POST-MINT count=3 confirmed via task_selector; top pick still smoothness-and-continuity\
+    \ at line 1260 so bottom-insert did NOT starve the two older floor-restore P2s).\
+    \ SOURCE = staleness (Source 4b), NEXT TIER: the exact candidate run-622 parked.\
+    \ concepts/objectivity-and-consciousness.md last_deep_review 2026-05-26T12:00\
+    \ = 30.0d, ai_contribution=100, ai_system claude-sonnet-4-5 (oldest/weakest build\
+    \ of the remaining cohort = strongest fresh-eyes warrant), settled (ai_modified\
+    \ == last_deep_review, git-untouched since review commit 080b6893c), body 2533w\
+    \ = soft_warning (concepts soft 2500 / hard 3500, ~967w to hard -- NOT a condense\
+    \ candidate but only ~33w over soft, keep review length-neutral/trimming). Tenet\
+    \ 1 (Dualism) + Tenet 5 (Occam limits) load-bearing (Galilean exclusion of subjectivity\
+    \ from objective science -- grounds the Map epistemology-of-method arguments).\
+    \ No open dup (0 ### headers for this file in Active section; only Active mentions\
+    \ are cross-refs in run-622 note; single Vetoed hit is a DIFFERENT Galilean-exclusion\
+    \ create task that merely references this file, NOT a veto), NOT reviewed today\
+    \ (git-confirmed). Bottom-inserted per queue-lifo-starvation. EIGHT-SOURCE AUDIT\
+    \ all OTHER sources re-confirmed exhausted: (1 chain) task_chains absent, substrate-taxonomy\
+    \ chain fully consumed, zero un-followed completions. (2 unconsumed research)\
+    \ only note newer than last mint (ai-hardware-substrate-taxonomy-2026-06-25) is\
+    \ consumed. (3 gap/caps) topics 281/320 concepts 271/320 headroom but harvester-governed\
+    \ (08:20Z) + Vetoed-dedup-blocked; voids 101/100 at/over create-cap. (4 genuine-drift)\
+    \ only smoothness-and-continuity own-body bump = cosmetic cross-touch (already\
+    \ queued run-621). (5 length) all content hard/critical offenders human-deferred\
+    \ / #veto / index-hub / positions-governed / research-working-note. (6 orphan)\
+    \ orphaned_files=0. (7 positions) 8 entries <10 audit threshold, positions-evolve\
+    \ ran 2026-06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster\
+    \ gap. With this mint the 2026-05-26T12:00 staleness cohort is FULLY queued/executed;\
+    \ the next floor-restore looks to the 29.9d-crossing tier (voids/conceptual-metabolism-void,\
+    \ topics/consciousness-evolution-and-biology, concepts/pragmatism) or awaits fresh\
+    \ chain/research/harvester input."
   run_622_note: 'run no.622 (2026-06-25T11:19Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/voluntary-attention-control-mechanisms.md). Authoritative
     pre-mint count_p0_p2_tasks = 2 (the two queued voids staleness deep-reviews self-transcendence-void
