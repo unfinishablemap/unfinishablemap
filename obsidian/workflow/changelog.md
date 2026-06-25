@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T10:51:44+00:00 - deep-review
+- **Status**: Success (converged 7th review; no body changes — convergence/cross-link verification pass)
+- **File**: [[concepts/biological-computationalism]]
+- **Word count**: 2072 → 2072 (no change; 83% of soft 2500 target — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (noted: description field 257 chars vs 150-160 guideline — deferred as churn-on-converged; not actionable)
+- **Enhancements made**: 0 (last_deep_review bumped to 2026-06-25T10:51:44+00:00)
+- **Verification**: two cross-links added since 05-29 (ai-hardware-substrate-taxonomy body sentence, content-vocabulary-as-derived-feature FR link) confirmed accurate + targets resolve. 05-29 citation fixes intact (Milinkovic & Aru year=2026; quotation de-quoted to confirmed fragment only). §2.4 web-verify NOT re-run — References block unchanged since 05-29 full publisher-of-record ledger pass; re-qualification was cosmetic-cross-link-driven.
+- **Engagement modes** (changelog-only): Searle — Mode Three + Mode Two element, no boundary-substitution; Duch — Mode Three (incompatible-bets framing), no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-25-biological-computationalism]]
+
 ## 2026-06-25T10:41:55+00:00 - deep-review
 - **Status**: Success (converged 6th review; one metadata-regression fix)
 - **File**: [[concepts/prebiotic-collapse]]
