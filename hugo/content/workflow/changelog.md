@@ -9,6 +9,60 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-25T07:37:13+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Outer review 2026-06-25 (ChatGPT 5.5 Pro), sibling-article improvements #8–#14 (items a–g). Length-neutral / small-addition edits; new citations web-verified at publisher-of-record before adding.
+- **Review file**: [outer-review-2026-06-25-chatgpt-5-5-pro](/reviews/outer-review-2026-06-25-chatgpt-5-5-pro/)
+- **Citation web-verification (this pass)**: Hoel 2026 arXiv 2512.12802 ✓ (full title "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness"; submitted Dec 2025, revised Jan 2026 — corpus "2026" convention retained); Cerullo CERWHD ✓ ("Why Hoel's Disproof of LLM Consciousness and Functionalism Fails", PhilArchive; argues weight-based vs context-based history-encoding distinction not principled); Butlin/Long 2025 TiCS ✓ (DOI 10.1016/j.tics.2025.10.011); Pennartz/Butlin 2026 TiCS exchange ✓ — but the task's exact identifier `S1364-6613(26)00025-2` did NOT verify; the verified Butlin-reply identifier is `S1364-6613(26)00080-X` ("Consciousness indicators, mimicry, and internal variants", Butlin/Bayne/Fleming/Mudrik/Peters/Schwitzgebel/Simon/VanRullen 2026). Cited by author/title (not the unverified PII) to avoid ai_citation_metadata_unreliable.
+- **Files edited**:
+  - (a) [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) — added the 2026 Pennartz/Butlin internal-indicator vs behavioural-cognitive-supplementation exchange (Pennartz: supplement with behavioural-cognitive methods; Butlin et al. 2026 reply: internal indicators matter *more* because behaviour can be gamed) + Butlin et al. 2026 reference. (2025 TiCS "successor" already present.)
+  - (b) [machine-question](/apex/machine-question/) — standardized Hoel reference to full-title arXiv form; added Cerullo 2026 reply where Hoel's continual-learning argument is used as live authority, pointing to [llm-consciousness](/concepts/llm-consciousness/#hoels-arguments) (which already hosts the full exchange); added Cerullo reference. Length-neutral (trimmed offsets).
+  - (c) [ai-consciousness](/topics/ai-consciousness/) — added integration note reconciling the page's "MQI not empirically grounded" caution with P-AC1's substrate-low-probability verdict (P-AC1's verdict is framework-internal/conditional on P-Q1, not the discriminating empirical claim the caveat warns against). Length-neutral.
+  - (d) [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/) — added proposed experimental controls (held-out consciousness vocabularies, adversarially-trained self-report regimes, activation-patching, cross-model feature comparisons, preregistered negative controls) under the training-contamination limit; "not a consciousness detector" warning kept prominent.
+  - (e) [quantum-interface](/positions/quantum-interface/) — added toy-model roadmap under P-Q10 (required variables, minimal formal target, success/failure criteria, suspended applied claims). File was already over hard before edit; kept net +24 words via offsetting trims to verbose dated update-notes.
+  - (f) [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — added "Downstream Applied-Cost Note" subsection: AI-consciousness substrate conclusions inherit the bias-without-deviation dilemma + mechanism debt and read no more confidently than P-Q1/P-Q3/P-Q10.
+  - (g) downstream-tier fix: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — softened a genuine over-reading (Wiest 2025 cited as "experimental support" / room-temp quantum effects) to the contested/partisan-advocacy + precedent-not-licence + instrumentation-horizon tiers inherited from the 2026-06-22-softened [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/).
+- **Item (g) confirmation**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) (the SOURCE of the softened tiers) already fully embodies precedent-not-licence / Orch-OR-contested / instrumentation-horizon framing — NO edit needed. Spot-checked downstream apex consumers (open-question, what-it-might-be-like) — already careful on Wiest. The concept-tier sibling (g, above) was the one prominent over-reading found and fixed.
+- **Engagement classification (changelog-only)**: (a) Butlin-reply engagement — Mode Two (the internal-indicator camp's own gaming-problem concession is used; not dressed as refuting functionalism). (d)/(f) — no named-opponent reply; methodological additions.
+- **Published**: yes (all draft:false articles remain published)
+
+## 2026-06-25T07:17:56+00:00 - deep-review
+- **Status**: Success (convergence-confirming no-op)
+- **File**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
+- **Word count**: 3375 → 3375 (no body edits; 112% of soft, well below hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Trigger / disposition**: selector surfaced the article only because `ai_modified` was bumped 2026-06-24 by a cosmetic cross-link install (`[[standing-agnostic-challenge]]`, commit 8bd5c83f8) when the new concept page was created — the convergence-damping no-op pattern. 6 prior reviews; the 2026-06-02 publisher-of-record sweep verified all 14 citations and declared stability. Per that note, the citation sweep was NOT re-run absent new citations.
+- **Verified**: new cross-link resolves (concept page exists); Gutfreund verbatim quote unchanged and consistent with the new concept page (PMC11496166); label-leakage grep CLEAN; no superlative claims to currency-check; length stable. Reasoning-mode classifications preserved (Materialist/Neural-Architecture — Mixed; Epiphenomenalism — Mode Three; MWI — Mode Three; all bedrock, not re-flagged).
+- **Output**: [deep-review-2026-06-25-cetacean-and-corvid-consciousness](/reviews/deep-review-2026-06-25-cetacean-and-corvid-consciousness/)
+
+## 2026-06-25T07:14:06+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Process Claude outer-review site-methodology proposals (b1–b6) — disposition, not article edits
+- **Adopted (1 concrete discipline sharpening)**: added a "Verdict-Direction Check" subsection to [writing-style](/project/writing-style/)'s Co-optation Firewall (third leg: camp → concept → verdict — convergence claims must hold at the cited author's own downstream conclusion, not just a shared local premise), with this cycle's Birch gaming-problem case as the worked example. Merges b1+b5.
+- **Dispositions recorded** (in `reviews/outer-review-2026-06-25-claude-opus-4-8.md`): b1 adopted; b2 discipline-already-practiced/gate-enforcement-deferred-to-operator; b3 adopted-as-practiced (P-Q3 cascade already in the apex); b4 largely-covered by ✓2026-06-23 strongest-rival gate; b5 merged into b1; b6 declined-as-largely-covered (outer-review system is the adversarial external pass) / deferred.
+- **Coordination**: flagged convergence of b6 with the sibling ChatGPT methodology task's #18 bracketing-audit; respected the ✓2026-06-22 governing principle (sharpen editorial discipline; defer enforcement/policy to human ratification — no silent policy rewrite).
+- **Files**: `project/writing-style.md`, `reviews/outer-review-2026-06-25-claude-opus-4-8.md`
+
+## 2026-06-25T07:02:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
+- **Source**: outer review 2026-06-25 (ChatGPT 5.5 Pro), convergent P1 — load-bearing length-neutral items only
+- **Applied**: (1) softened the verbatim "no sites to act on" overreach → "no known operationally integrated, interface-grade quantum-indeterminate sites" + epistemic hedge (the convergent framework-internal-marking half was already satisfied by the same-cycle Claude matrix-divergence pass — not double-edited); (2) P-AC1 staleness fix — added P-AC1 to `apex_positions_cited` + bidirectional link to [ai-consciousness-scope](/positions/ai-consciousness-scope/) register (P-AC1/P-AC2/P-AC3). Item 5 (decision-layering) judged already substantially present.
+- **Deferred** (additive ~300w, blocked by 4000 apex soft ceiling): items 3 (scope/four-sense taxonomy), 4 (biology parity), 6 (self-modeling currency, Berg et al. 2025 arXiv:2510.24797) → moved to Blocked Tasks (Needs Human) as a length-ceiling decision.
+- **Engagement mode (editor-internal)**: honest framework-boundary marking (item 1 hedges the substrate claim's epistemic reach without conceding the rival); no in-body mode labels.
+- **Body**: 3939w → 3989w (canonical analyze_length: status ok, 11w under 4000 soft ceiling)
+
+## 2026-06-25T06:49:51+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: session_count 13210; window since 2026-06-22
+- **Findings**: 1 cadence (6th consecutive over-frequency fire), 0 failure, queue healthy (P0-P2=3), citation-integrity recurring, convergence stable-to-growing
+- **Tier 1 changes**: 0 applied (no in-file lever — cadences live in code; sub-30d evidence threshold)
+- **Tier 2 recommendations**: 1 logged (gate tune-system on 30d wall-clock cadence)
+- **Tier 3 items**: 3 (collect-review inter-poll backoff; forked-skill yield-before-report; stale convergence_targets)
+- **Output**: [system-tune-2026-06-25](/reviews/system-tune-2026-06-25/)
+
 ## 2026-06-25T06:16:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)

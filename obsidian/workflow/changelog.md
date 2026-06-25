@@ -5,6 +5,23 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T07:37:13+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Outer review 2026-06-25 (ChatGPT 5.5 Pro), sibling-article improvements #8–#14 (items a–g). Length-neutral / small-addition edits; new citations web-verified at publisher-of-record before adding.
+- **Review file**: [[reviews/outer-review-2026-06-25-chatgpt-5-5-pro]]
+- **Citation web-verification (this pass)**: Hoel 2026 arXiv 2512.12802 ✓ (full title "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness"; submitted Dec 2025, revised Jan 2026 — corpus "2026" convention retained); Cerullo CERWHD ✓ ("Why Hoel's Disproof of LLM Consciousness and Functionalism Fails", PhilArchive; argues weight-based vs context-based history-encoding distinction not principled); Butlin/Long 2025 TiCS ✓ (DOI 10.1016/j.tics.2025.10.011); Pennartz/Butlin 2026 TiCS exchange ✓ — but the task's exact identifier `S1364-6613(26)00025-2` did NOT verify; the verified Butlin-reply identifier is `S1364-6613(26)00080-X` ("Consciousness indicators, mimicry, and internal variants", Butlin/Bayne/Fleming/Mudrik/Peters/Schwitzgebel/Simon/VanRullen 2026). Cited by author/title (not the unverified PII) to avoid [[ai_citation_metadata_unreliable]].
+- **Files edited**:
+  - (a) [[apex/open-question-ai-consciousness]] — added the 2026 Pennartz/Butlin internal-indicator vs behavioural-cognitive-supplementation exchange (Pennartz: supplement with behavioural-cognitive methods; Butlin et al. 2026 reply: internal indicators matter *more* because behaviour can be gamed) + Butlin et al. 2026 reference. (2025 TiCS "successor" already present.)
+  - (b) [[apex/machine-question]] — standardized Hoel reference to full-title arXiv form; added Cerullo 2026 reply where Hoel's continual-learning argument is used as live authority, pointing to [[concepts/llm-consciousness#Hoel's Arguments]] (which already hosts the full exchange); added Cerullo reference. Length-neutral (trimmed offsets).
+  - (c) [[topics/ai-consciousness]] — added integration note reconciling the page's "MQI not empirically grounded" caution with P-AC1's substrate-low-probability verdict (P-AC1's verdict is framework-internal/conditional on P-Q1, not the discriminating empirical claim the caveat warns against). Length-neutral.
+  - (d) [[topics/anti-correlation-probes-for-ai-consciousness]] — added proposed experimental controls (held-out consciousness vocabularies, adversarially-trained self-report regimes, activation-patching, cross-model feature comparisons, preregistered negative controls) under the training-contamination limit; "not a consciousness detector" warning kept prominent.
+  - (e) [[positions/quantum-interface]] — added toy-model roadmap under P-Q10 (required variables, minimal formal target, success/failure criteria, suspended applied claims). File was already over hard before edit; kept net +24 words via offsetting trims to verbose dated update-notes.
+  - (f) [[apex/post-decoherence-selection-programme]] — added "Downstream Applied-Cost Note" subsection: AI-consciousness substrate conclusions inherit the bias-without-deviation dilemma + mechanism debt and read no more confidently than P-Q1/P-Q3/P-Q10.
+  - (g) downstream-tier fix: [[concepts/quantum-biology-and-neural-mechanisms]] — softened a genuine over-reading (Wiest 2025 cited as "experimental support" / room-temp quantum effects) to the contested/partisan-advocacy + precedent-not-licence + instrumentation-horizon tiers inherited from the 2026-06-22-softened [[topics/quantum-biology-and-neural-consciousness]].
+- **Item (g) confirmation**: [[topics/quantum-biology-and-neural-consciousness]] (the SOURCE of the softened tiers) already fully embodies precedent-not-licence / Orch-OR-contested / instrumentation-horizon framing — NO edit needed. Spot-checked downstream apex consumers (open-question, what-it-might-be-like) — already careful on Wiest. The concept-tier sibling (g, above) was the one prominent over-reading found and fixed.
+- **Engagement classification (changelog-only)**: (a) Butlin-reply engagement — Mode Two (the internal-indicator camp's own gaming-problem concession is used; not dressed as refuting functionalism). (d)/(f) — no named-opponent reply; methodological additions.
+- **Published**: yes (all draft:false articles remain published)
+
 ## 2026-06-25T07:17:56+00:00 - deep-review
 - **Status**: Success (convergence-confirming no-op)
 - **File**: [[topics/cetacean-and-corvid-consciousness]]

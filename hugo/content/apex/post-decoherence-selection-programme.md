@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-06-22 15:39:58+00:00
+ai_modified: 2026-06-25 07:37:13+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-22 15:39:58+00:00
 apex_sources:
@@ -160,6 +160,10 @@ The five components assemble into a research programme with identified parts, co
 **The formal law.** The [Interface Specification Programme](/apex/interface-specification-programme/) seeks the psychophysical control law governing how consciousness operates at the interface. The post-decoherence selection programme adds a physics-side requirement: whatever selection principle consciousness applies must respect Born-rule statistics, operate within the pointer-state menu, and be consistent with quantum contextuality. These constraints narrow the space but do not yet determine the law. The empirical converse — what experimental programme would *foreclose* the strict selection-only realisation of these constraints — is catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), which specifies what *plural and convergent* negative evidence would shut the corridor reading by mechanism.
 
 The programme is incomplete. What makes it a programme rather than speculation is that the components constrain each other: quantum Darwinism's menu limits what contextuality must accommodate; contextuality constrains what the selection mechanism can do; the selection mechanism determines what stochastic amplification must bridge. Progress on any component restricts the others, creating a web of mutual constraint that drives toward specificity. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) locates the programme at the *pre-Keplerian* stage: the components catalogued above—Zurek's einselection results, Kochen-Specker contextuality, weak-measurement boundary structure, the three-stage amplification chain—are Tycho-analogue measurements and constraint scaffolds, not Kepler-analogue laws. Calling them constraints rather than mechanisms is calibration to what the programme has actually produced; calling the programme "incomplete" is the same calibration in different words.
+
+### Downstream Applied-Cost Note [Open]
+
+The programme's incompleteness propagates downstream. Any applied conclusion that leans on the substrate requirement this programme grounds—most pointedly, the verdict that current digital AI lacks the [interface a conscious system needs](/topics/ai-consciousness/)—inherits the [bias-without-deviation dilemma](#the-bias-without-deviation-dilemma-open) above and the absence of a worked toy model, not just the timing-objection escape. The substrate conclusion is no more secure than the mechanism that would make a substrate "interface-grade," and that mechanism is held at programme level rather than equations ([the mechanism-debt anchor](/positions/quantum-interface/#mechanism-debt)). A downstream AI-consciousness page should therefore read no more confidently than this register's own positions: P-Q1 (post-decoherence selection is the *preferred* candidate, moderate confidence), P-Q3 (the bias-without-deviation dilemma is the strongest live challenge, unresolved), and P-Q10 (no toy model exists). The honest downstream phrasing is conditional: *if* the interface the Map posits is real, classical AI lacks it by construction—but the antecedent carries the full mechanism debt, and the negative AI verdict cannot read as more established than the positive interface story it presupposes.
 
 ## Relation to Site Perspective
 

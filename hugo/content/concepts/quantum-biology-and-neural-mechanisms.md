@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-06-18 19:59:00+00:00
+ai_modified: 2026-06-25 07:37:13+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -122,7 +122,7 @@ These five mechanisms need not operate independently—their combination could e
 
 **2. Ion channel quantum tunneling**: Ions (Na⁺, K⁺, Ca²⁺) may tunnel through closed voltage-gated channels, with tunneling probability depending on particle mass. Qaswal et al. (2021) developed a mathematical model matching pathological phenomena (tinnitus, phantom limb, epilepsy). Evidence remains primarily theoretical.
 
-**3. Microtubule quantum coherence (Orch OR and QBIT)**: In [Orch OR](/concepts/quantum-consciousness/), tubulin superpositions undergo gravity-induced collapse producing conscious moments. The newer QBIT theory proposes spintronic coherence at the axon initial segment. Recent developments: Kalra et al. (2023) found anaesthetics dampen quantum optical effects in microtubules; Khan et al. (2024) showed microtubule-stabiliser epothilone B delays anaesthesia in rats (Cohen's d = 1.9); Wiest (2025) reported experimental support for room-temperature quantum effects and proposed MRI methodology for detecting entangled states.
+**3. Microtubule quantum coherence (Orch OR and QBIT)**: In [Orch OR](/concepts/quantum-consciousness/), tubulin superpositions undergo gravity-induced collapse producing conscious moments — a contested proposal, not a settled one. The newer QBIT theory proposes spintronic coherence at the axon initial segment. Recent developments: Kalra et al. (2023) found anaesthetics dampen quantum optical effects in microtubules; Khan et al. (2024) showed microtubule-stabiliser epothilone B delays anaesthesia in rats (Cohen's d = 1.9), though this also admits a classical reading (microtubules traffic GABA_A receptors, isoflurane's primary target); Wiest (2025) is a partisan Orch-OR advocacy review whose central macroscopic-entanglement claim is contested and parameter-dependent, so its "experimentally supported" is the author's verdict rather than the field's (see [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) for the graded treatment).
 
 **4. Synaptic vesicle release (Beck-Eccles/Georgiev)**: Georgiev & Glazebrook (2018) proposed Davydov solitons twist SNARE protein α-helices, triggering vesicle release via quantum tunneling. Consciousness could bias tunneling probabilities, influencing which synapses fire—directly supporting [Bidirectional Interaction](/concepts/interactionist-dualism/).
 
@@ -146,7 +146,7 @@ Baum (2024) formalised this: zero-lag gamma synchrony (40-100 Hz, <1ms precision
 
 ## Experimental Convergence
 
-None of this proves quantum consciousness, and the discipline of "predictions held up" deserves care: microtubule involvement in anaesthesia is consistent with quantum models (Khan et al. 2024, Cohen's d = 1.9) but also accommodates classical microtubule-disruption accounts; measurable entanglement signatures during awareness were claimed (Kerskens & López Pérez 2022) but disputed (Warren 2023) and not independently replicated. NV-centre diamond quantum sensors now combine nanoscale spatial with microsecond temporal resolution, enabling single-neuron signal detection that may resolve these disputes empirically. Wiest (2025) argues consciousness arising from quantum entanglement would gain genuine causal power—not [epiphenomenal](/concepts/epiphenomenalism/) but physically efficacious. The [convergence analysis](/topics/quantum-biology-and-neural-consciousness/) examines how these independent lines may collectively shift the burden, while remaining honest that each line accommodates classical explanations.
+None of this proves quantum consciousness, and the discipline of "predictions held up" deserves care: microtubule involvement in anaesthesia is consistent with quantum models (Khan et al. 2024, Cohen's d = 1.9) but also accommodates classical microtubule-disruption accounts; measurable entanglement signatures during awareness were claimed (Kerskens & López Pérez 2022) but disputed (Warren 2023) and not independently replicated. NV-centre diamond quantum sensors now combine nanoscale spatial with microsecond temporal resolution, but a brain-deployable sensor able to settle these disputes is a decade-or-more instrumentation horizon, not a present capability. Wiest (2025)—writing as an Orch-OR advocate—argues consciousness arising from quantum entanglement would gain genuine causal power, not [epiphenomenal](/concepts/epiphenomenalism/) but physically efficacious; this is a programme-level claim, not an established finding. The [convergence analysis](/topics/quantum-biology-and-neural-consciousness/) examines how these independent lines may collectively shift the burden — treating warm quantum biology as *precedent, not licence* — while remaining honest that each line accommodates classical explanations.
 
 ## The Illusionist Challenge
 

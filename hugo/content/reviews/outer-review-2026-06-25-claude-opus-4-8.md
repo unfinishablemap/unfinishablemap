@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: 2026-06-25
-ai_modified: 2026-06-25 04:25:00+00:00
+ai_modified: 2026-06-25 07:14:06+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -167,3 +167,16 @@ Checked during outer-review processing (2026-06-25) against the live corpus and 
 
 **Cross-reviewer convergence (same cycle, 2026-06-25):**
 - Both Claude and ChatGPT independently flagged (a) the unengaged Butlin/indicator-functionalist rival and (b) that the substrate-necessity premise / action-guidance should be marked framework-internal rather than exported as a neutral criterion. ChatGPT additionally caught a staleness defect (the target predates the P-AC1 register created 2026-06-22). Claude's distinctive contribution is the tenet-leakage / constitutional-attractor finding, which ChatGPT did not surface. The two reviewers diverge on Birch: ChatGPT reads the convergence as a dialectical opportunity to lean into; Claude reads it as a co-optation firewall violation. Both agree the convergence is real but narrower than the apex implies.
+
+## Methodology Proposal Dispositions (b1–b6)
+
+Processed 2026-06-25 (refine-draft P2, line ~39). Assessed against existing discipline docs and the already-completed methodology tasks ✓2026-06-23 ("strongest physicalist rival" gate + inferential-recruitment firewall + converging-lines independence audit + evidence-grade taxonomy) and ✓2026-06-22 ("enforcement teeth"). Governing principle (per ✓2026-06-22): the loop sharpens *editorial discipline*; enforcement/policy mechanisms are framed as proposals for human ratification, not silently written into site policy.
+
+- **(b1) Co-optation firewall v2 — verdict-direction check.** **ADOPTED** (discipline sharpening). Added a "Verdict-Direction Check" subsection to [writing-style](/project/writing-style/)'s Co-optation Firewall, giving it a third leg (camp → concept → verdict): convergence/citation claims must hold at the cited author's *own downstream conclusion*, not just a shared local premise. Uses this cycle's Birch case as the worked example. Consolidates with the ✓2026-06-23 inferential-recruitment firewall rather than duplicating it.
+- **(b2) Promote the Tenet-Dependency Matrix to a hard gate on apex.** **DISCIPLINE ALREADY PRACTICED; GATE-ENFORCEMENT DEFERRED to operator/code.** The discipline ("an apex whose verdict depends on a 'Not invoked' cell must declare itself the sanctioned atypical exception") is already in force — this cycle's apex declared exactly that divergence (the matrix-divergence paragraphs). Turning it into an automated *gate* in the deep-review / apex-evolve pipeline is a code change; flagged for the operator. No silent policy rewrite.
+- **(b3) Mechanism-debt propagation (inherit P-Q1 AND P-Q3).** **ADOPTED-AS-PRACTICED.** Instantiated this cycle: the apex now carries the P-Q3 bias-without-deviation cascade flag alongside P-Q1/P-Q2/P-Q9. Belongs as a one-line rule in [mechanism-cost-ledger](/project/mechanism-cost-ledger/) for any applied article making the quantum interface load-bearing; recorded here as a proposed one-line doc addition (de-facto in force).
+- **(b4) Strongest-rival-engagement (by-name) for decision-relevant apex.** **LARGELY COVERED** by ✓2026-06-23's "strongest physicalist rival" gate + [direct-refutation-discipline](/project/direct-refutation-discipline/). The apex-specific nuance (engage the rival that most directly attacks the *action-guidance*, by name, not via a generic disclaimer — anti performative-inoculation) is a worthwhile sharpening and was already practiced this cycle (Butlin/Long/Seth/IIT engaged by name). Recorded as a proposed sharpening to the apex-evolve guidance; not separately re-written.
+- **(b5) Convergence-independence gating for conclusion-SCOPE.** **MERGED into (b1).** Same insight (verify convergence at the load-bearing conclusion, not a narrow overlap) and same worked example; folded into the Verdict-Direction Check. Also overlaps ✓2026-06-23's converging-lines independence audit.
+- **(b6) Adversarial external-rival pass for decision-relevant apex.** **DECLINED as largely covered / DEFERRED.** The outer-review system (three frontier models per cycle) already *is* the adversarial external pass; an additional *internal* adversarial pass is an operator/code-level new review-type, partly covered by ✓2026-06-22's enforcement-teeth and [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/). Surfaced for the operator, not actioned.
+
+**Coordination:** the sibling ChatGPT 2026-06-25 methodology task (#15–#20) is a separate queue item; its #18 "tenet-protective bracketing audit" converges with (b6) and the recurring boundary-substitution critique — process them together when #18 is picked.
