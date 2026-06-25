@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T08:27:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/geometric-model-of-mind]]
+- **Source review**: [[reviews/pessimistic-2026-06-25b-geometric-model-of-mind]]
+- **Changes**: Addressed three argumentative weaknesses from the pessimistic pass.
+  - Issue 1 (identity-theory reply, §Relation to Site Perspective): upgraded the engagement. Engagement with the identity theorist: Mode Two then Mode Three — opens by identifying the unsupported foundational move (the identity reading stipulates that a complete structural-functional description *exhausts* the mental and the qualitative character is *captured* rather than merely co-present, an unargued addition the framework's own scope-limiting does not license), then honestly marks the residual whether-there-is-a-further-fact disagreement as a framework-boundary clash grounded in the Dualism tenet, not a refutation inside the identity theorist's framework. Removed the previous "identity renames the gap" wording that rested on the qualia-irreducibility Map commitment the identity theorist denies (boundary-substitution).
+  - Issue 2 (line 64, Minimal Quantum Interaction tension): added distinction between large-scale quantum coherence *as the substrate of cognition* (not Map-endorsed; Duch's differentiation point legitimately constrains it) and the Map's *minimal* non-physical bias at the measurement boundary (untouched by the differentiation argument). Cross-linked [[comparing-quantum-consciousness-mechanisms]] and the tenets.
+  - Issue 3 (Low, line 52 "derivable in principle"): added a clause marking that the in-principle-derivability claim concerns cognitive-functional structure and is silent on the phenomenal level (anchor-linked to the scope-limiting section).
+- **Word count**: 2004 → 2319 (concepts soft 2500; ok). Citations untouched (all web-verified clean per source review); no new citations added. last_deep_review unchanged (targeted refine, not full review).
+- **Published**: yes
+
 ## 2026-06-25T08:23:59+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/geometric-model-of-mind.md (never had a dedicated pessimistic pass; deep-reviewed 2026-06-03)
