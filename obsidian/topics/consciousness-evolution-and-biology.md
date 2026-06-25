@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated: null
-last_deep_review: 2026-05-26T12:56:48+00:00
+last_deep_review: 2026-06-25T12:55:39+00:00
 coalesced_from:
   - "/topics/consciousness-evolution-problem/"
   - "/topics/consciousness-and-the-philosophy-of-biology/"
