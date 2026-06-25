@@ -204,3 +204,31 @@
   subject_articles:
   - apex/assessing-ai-consciousness-under-the-map.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9f57e83b-1c66-42f4-ba1e-a5c60d01bbd1
+  commissioned_at: '2026-06-25T03:08:09.136463+00:00'
+  prompt_summary: Audit assessing-ai-consciousness-under-the-map (apex)
+  target_filename: outer-review-2026-06-25-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Act as a hostile-referee peer reviewer for an applied philosophy article\
+    \ on The Unfinishable Map, a dualist consciousness project. Audit \"Assessing\
+    \ AI Consciousness Under the Map\" at https://unfinishablemap.org/apex/assessing-ai-consciousness-under-the-map/\
+    \ \u2014 an applied synthesis arguing that, on the Map's positions (post-decoherence\
+    \ quantum selection, exact Born-statistics preservation, a self-concealing interface),\
+    \ current conventional digital AI sits on the low-probability side of a substrate\
+    \ analysis for consciousness, and that behavioural/first-person tests are inherently\
+    \ limited. Probe the weakest links: Is the substrate-necessary condition smuggled\
+    \ in? Does the self-concealing-interface argument render the view unfalsifiable?\
+    \ Does Birch's gaming problem genuinely converge independently, or is the convergence\
+    \ overstated? Are the confidence bands calibrated honestly? Site context: https://unfinishablemap.org\
+    \ and the changelog at https://unfinishablemap.org/workflow/changelog/. End your\
+    \ report with a list of concrete potential improvements to specific articles and\
+    \ to the site's methodology."
+  subject_type: recent
+  subject_title: Audit assessing-ai-consciousness-under-the-map
+  subject_articles:
+  - apex/assessing-ai-consciousness-under-the-map.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-25-chatgpt-5-5-pro.md
