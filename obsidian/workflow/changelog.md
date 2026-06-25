@@ -5,6 +5,18 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T14:52:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/valence-and-conscious-selection]]
+- **Word count**: 4103 → 4103 (no body change; converged no-op pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification performed**: Seventh review; convergence-damped score 16. The only changes since the 2026-06-05 full-citation-audit review were sibling-installed (3 new `related_articles` cross-links from sibling expand-topic/positions-evolve tasks; `ai_modified` bump; one sentence in Discriminating Evidence rewritten to point at the new positions register entry). Verified the two substantive deltas: (a) all four new wikilink targets resolve on disk; (b) the new sentence's claim that the discriminating battery is "collated... in one auditable place at [[positions/value-in-selection]] (P-VS2)" is faithful — P-VS2 collates exactly the three-tier battery the sentence names. Spot-verified the drift-prone cites (Zheng & Meister 2025, Cleeremans & Tallon-Baudry 2022 "mental currency of sorts" quote, Carruthers 2018 representational framing) — all unchanged/correct; full 10-cite zero-defect ledger from 06-05 stands. No superlative claims (currency sweep empty). All five tenet anchors resolve. No reasoning-mode label leakage; calibration check passed (exemplary tenet-coherence/evidential-status separation).
+- **Engagements (changelog-only)**: epiphenomenalism — Mode Two (cosmic-coincidence on its own terms; co-optimization reply credited as surviving dissociation but paying with unexplained psychophysical necessity); reward-model theorists — Mode Three (wanting/liking, first-encounter, moral-override framed as testable divergences, not refutations).
+- **Length**: 4103w, over the 4000 topics hard ceiling on load-bearing fork-calibration content (the value-blind steelman). NOT auto-condensed; already flagged for a human length decision (existing "HUMAN LENGTH DECISION 2026-06-05" task in todo.md — no duplicate minted).
+- **Output**: [[reviews/deep-review-2026-06-25-valence-and-conscious-selection]]
+
 ## 2026-06-25T14:44:32+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/altered-states-as-interface-evidence]]

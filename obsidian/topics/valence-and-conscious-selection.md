@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-06-05T14:05:00+00:00
+last_deep_review: 2026-06-25T14:52:22+00:00
 coalesced_from:
   - "/topics/value-blind-vs-value-sensitive-selection/"
   - "/topics/valence-as-selection-currency/"
