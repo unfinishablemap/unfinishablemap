@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T14:36:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
+- **Original score**: n/a (currency refine, not full review)
+- **Changes**: Resolved the currency-drift / corpus-inconsistency flagged in [[reviews/optimistic-2026-06-25c]] (`empirical-record-currency-drift` pattern). The article asserted "no prospective study has captured an episode" and that the filter reading stays live "until prospective data exists" — now stale. (1) Added the 2025 first-prospective study to "Modern Systematic Data": Tollock, Leontovich, Gonzalez & Parnia (2025), *Innovation in Aging* 9(Suppl_2) igaf122.2914 — 151 enrolled, 93 (61.6%) with lucidity across 267 events; noted that terminal-lucidity-defined episodes are only 4.1% (the dramatic subtype is the rare tail) and that authors' "network-level return" framing is mechanism-neutral. (2) Rewrote "Current Research Gaps" — prospective era has arrived but does NOT vindicate the filter reading (episodes brief/trigger-linked, consistent with neurochemical mechanisms); reconciled with sibling `consciousness-interface-development`'s settled "has not vindicated the dualist reading." (3) Added a 2025 prospective-data bullet to "Evidential Trajectory." (4) Updated lede + "Materialist Counter-Proposals" so the "entirely retrospective" framing is no longer self-inconsistent; clarified the still-undone measurement is in-episode neural recording, not mere prospective capture. (5) Added References entry 11 (renumbered 12-17); added Further Reading cross-link to the sibling. Net posture: sharpens, not reverses, the constrain-not-confirm claim — first prospective data points away from the filter reading. Citation WEB-VERIFIED at publisher of record (Oxford Academic/GSA): authors, title, vol/suppl/article-id, DOI 10.1093/geroni/igaf122.2914, and all figures confirmed.
+- **Length**: 2924 → 3397w (soft_warning, under 4000 hard); substantive new factual content, trimmed twice to stay tight.
+- **Engagement classification (changelog-only)**: identity-theorist / materialist reading — Mode One; the in-framework neurochemical mechanisms (cholinergic/noradrenergic surge, oedema reduction, hippocampal disinhibition) are conceded as the better-supported reading on the first prospective evidence, an honest update against the article's own prior posture rather than a boundary substitution.
+- **Published**: yes
+
 ## 2026-06-25T14:19:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The filter / transmission-theory cluster — hub `concepts/filter-theory`, apex `apex/altered-states-as-interface-evidence`, flagships `topics/terminal-lucidity-and-filter-transmission-theory` + `topics/psychedelics-and-the-filter-model`, cross-checked against `topics/consciousness-interface-development`. Disjoint from today's two prior passes (grain-mismatch/temporal 06-25, AI-consciousness/safety 06-25b) and the rest of the week's clusters.
