@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T21:24:00+00:00 - deep-review
+- **Status**: Success (5th deep review; converged; one low style fix)
+- **File**: [[topics/consciousness-and-the-physics-of-information]]
+- **Word count**: 2156 → 2155 (one cliché-removal rewrite; 72% of 3000 soft, OK)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0; **Low**: 1 (banned "This is not X. It is Y." cliché at line 50 → single-sentence inline contrast); **enhancements**: 0
+- **Summary**: 5th deep review (prior 2026-02-18/03-17/04-17/05-28). §2.4 full publisher-of-record web-verify run (body+References modified since prior review baseline): all six external cites **real-correct** with per-cite ledger in the archive — Landauer 1961 (IBM JRD 5(3):183-191), Wheeler 1990 (Zurek ed., Complexity Entropy & Physics of Information, Addison-Wesley), Chalmers 1996 (The Conscious Mind, OUP), Shannon 1948 (Bell Sys Tech J 27(3):379-423), Tegmark 2000 (Phys Rev E 61(4):4194-4206, DOI 10.1103/physreve.61.4194), Tononi 2004 (BMC Neuroscience 5:42, DOI 10.1186/1471-2202-5-42). Inline↔References cross-check clean, no orphans. Empirical-currency sweep: find_superlative_claims zero hits; Tegmark 10⁻¹³–10⁻²⁰s range correctly framed as the 2000 estimate (not a record claim). Stale-quote re-grep: Wheeler "it from bit" quote faithful to live sibling topics/wheelers-participatory-universe-and-it-from-bit.md; twelve-order decoherence-gap note held (cross-checked concepts/quantum-consciousness.md, not re-inflated). All 8 spot-checked wikilinks resolve. Calibration: no possibility/probability slippage. Reasoning-mode: IIT water/H₂O = Mode Two, decoherence/Tegmark = Mode One, no label leakage. EOF clean (no tool-tag artifact). Both timestamps bumped (real edit applied). Highly converged — recommend extended re-review interval.
+- **Output**: [[reviews/deep-review-2026-06-25-consciousness-and-the-physics-of-information]]
+
 ## 2026-06-25T21:13:11+00:00 - deep-review
 - **Status**: Success (focused verification of one unreviewed cross-review paragraph — 6th review)
 - **File**: [[concepts/interface-friction]]
