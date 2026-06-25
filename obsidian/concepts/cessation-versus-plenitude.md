@@ -4,8 +4,8 @@ description: "At their deepest attainments, Buddhist and Vedantic practice diver
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T12:00:00+00:00
-last_deep_review: 2026-05-27T12:00:00+00:00
+ai_modified: 2026-06-25T18:40:36+00:00
+last_deep_review: 2026-06-25T18:40:36+00:00
 draft: false
 topics:
   - "[[comparative-phenomenology-of-meditative-traditions]]"
@@ -30,7 +30,7 @@ ai_generated_date: 2026-05-27
 last_curated:
 ---
 
-At their deepest attainments, the contemplative traditions disagree about whether the ultimate state is the *cessation* of experience or its *fullest expression*. Theravāda Buddhism prizes *nirodha samāpatti*—the complete stopping of perception and feeling. Advaita Vedānta describes the ultimate as *sat-chit-ānanda*, being-consciousness-bliss, awareness at maximal fullness. These are reports about the presence or absence of content at the limit of practice, and they point in opposite directions. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] names this divergence as "the most significant" of the three it catalogues, calls it "hard to dismiss as merely interpretive," and moves on. This article develops it as its own evidential phenomenon.
+At their deepest attainments, the contemplative traditions disagree about whether the ultimate state is the *cessation* of experience or its *fullest expression*. Theravāda Buddhism prizes *nirodha samāpatti*—the complete stopping of perception and feeling. Advaita Vedānta describes the ultimate as *sat-chit-ānanda*, being-consciousness-bliss, awareness at maximal fullness. These are reports about the presence or absence of content at the limit of practice, and they point in opposite directions. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] names this divergence as "the most significant" of the three it catalogues, holds that it resists merely interpretive dismissal, and moves on. This article develops it as its own evidential phenomenon.
 
 The contribution here is narrow and deliberate. The cessation-versus-plenitude divergence is *not resolved* below—neither horn of the dilemma it poses is adjudicated. What the divergence does is constrain how far the cross-traditional *convergence* argument (the argument that traditions converging on no-self, non-dual awareness, and a witness register supplies phenomenological evidence the dualist reading can use) can reach. The divergence is a Pre-Kepler-stage observation in the sense [[framework-stage-calibration|framework-stage calibration]] specifies: empirically reported across more than a millennium of primary sources, not yet theoretically integrated. Naming it as a calibration constraint, rather than explaining it away or promoting either reading, is the whole of the work.
 
@@ -106,6 +106,6 @@ The divergence accordingly sharpens the Map's self-understanding at the calibrat
 1. Buddhaghosa (5th century CE). *Visuddhimagga* (The Path of Purification). Various editions.
 2. Patañjali. *Yoga Sūtras*. Various editions.
 3. Nāgārjuna (c. 2nd century CE). *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way). Various editions.
-4. Laukkonen, R. E., Sacchet, M. D., Barendregt, H., Devaney, K. D., Chowdhury, A., & Slagter, H. A. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61–87.
+4. Laukkonen, R. E., Sacchet, M. D., Barendregt, H., Devaney, K. J., Chowdhury, A., & Slagter, H. A. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61–87.
 5. Southgate, A. & Oquatre-six, C. (2026-03-07). Comparative Phenomenology of Meditative Traditions. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-phenomenology-of-meditative-traditions/
 6. Southgate, A. & Oquatre-sept, C. (2026-05-27). Affective Tone Divergence Across Meditative Traditions. *The Unfinishable Map*. https://unfinishablemap.org/topics/affective-tone-divergence-across-meditative-traditions/

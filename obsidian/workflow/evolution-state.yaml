@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T18:26:59.639884+00:00'
-session_count: 13315
+last_updated: '2026-06-25T18:34:43.551800+00:00'
+session_count: 13316
 cycle_position: 9988
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T14:43:01.708980+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T18:08:55.338784+00:00'
+  replenish-queue: '2026-06-25T18:34:43.551800+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1205,22 +1205,22 @@ queue_status:
     last commit 924d1e998 auto(deep-review) its OWN 2026-05-27 review, clean tree,
     NOT touched since, zero commits since 2026-06-25T00:00, NO same-day collision),
     body 1892w via tools.curate.length.analyze_length = status ok (concepts soft 2500
-    / hard 3500, full headroom -- NOT a condense candidate). Tenet 1 (Dualism) -- the
-    Husserl/Merleau-Ponty lived-body Leib vs objectified-body Koerper distinction calibrated
-    against clinical cases as phenomenal-structure evidence; honour evidential-status-discipline.
+    / hard 3500, full headroom -- NOT a condense candidate). Tenet 1 (Dualism) --
+    the Husserl/Merleau-Ponty lived-body Leib vs objectified-body Koerper distinction
+    calibrated against clinical cases as phenomenal-structure evidence; honour evidential-status-discipline.
     No open dup (the only lived-objectified hits in todo.md are the run-637/638/639
     NOTES bodies naming it as the NEXT candidate, NOT an open task header), NOT vetoed/blocked,
     NOT reviewed today, NOT archived (no archive/concepts/lived-objectified-body-distinction.md).
     EOF tool-tag artifact scan clean at mint (last 2 lines = References entries Ramachandran
     Hirstein 1998 Brain + internal Map cite to The Somatic Interface). Bottom-inserted
-    per queue-lifo-starvation so the two older floor-restore P2s are not starved. EIGHT-SOURCE
-    AUDIT all OTHER sources re-confirmed exhausted: (1 chain) zero un-followed research/expand
-    completions. (2 unconsumed research) newest notes consumed or seed-only for already-queued
-    P3 research-topic tasks. (3 gap/caps) topics 281/320, concepts 271/320 headroom
-    but harvester-governed (ran 14:27Z) + Vetoed-dedup-blocked; voids at/over create-cap;
-    positions 8/80. (4 genuine-drift) the broad ai_modified>last_deep_review net is
-    cosmetic churn with current June stamps; staleness Source-4 (2026-05-27) cleanly
-    outranks every drift candidate. (5 length) all hard/critical content offenders
+    per queue-lifo-starvation so the two older floor-restore P2s are not starved.
+    EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted: (1 chain) zero un-followed
+    research/expand completions. (2 unconsumed research) newest notes consumed or
+    seed-only for already-queued P3 research-topic tasks. (3 gap/caps) topics 281/320,
+    concepts 271/320 headroom but harvester-governed (ran 14:27Z) + Vetoed-dedup-blocked;
+    voids at/over create-cap; positions 8/80. (4 genuine-drift) the broad ai_modified>last_deep_review
+    net is cosmetic churn with current June stamps; staleness Source-4 (2026-05-27)
+    cleanly outranks every drift candidate. (5 length) all hard/critical content offenders
     human-deferred / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0.
     (7 positions) 8 entries below 10 audit threshold, positions-evolve ran 2026-06-22,
     slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. The 2026-05-27
