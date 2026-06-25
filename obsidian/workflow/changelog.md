@@ -5,6 +5,12 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T08:23:59+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/geometric-model-of-mind.md (never had a dedicated pessimistic pass; deep-reviewed 2026-06-03)
+- **Findings**: Citations + load-bearing empirics (Duch & Naud animal-concept FSM↔MDS match; CPC 1996 97:136-153; PhLRv 2019 31:28-31; articon argument) all web-verified clean. Two real argumentative issues: identity-theory reply is a boundary-substitution resting on a Map commitment (Medium-High); unreconciled tension with Minimal Quantum Interaction tenet from neutrally-imported anti-quantum-coherence argument (Medium). Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-25b-geometric-model-of-mind]]
+
 ## 2026-06-25T07:55:37+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Process ChatGPT outer-review site-methodology proposals (#15–#20) — disposition, not article edits
