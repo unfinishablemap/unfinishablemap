@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T21:41:36.020588+00:00'
-session_count: 13347
+last_updated: '2026-06-25T21:48:09.138397+00:00'
+session_count: 13348
 cycle_position: 10005
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T18:59:55.109145+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T21:31:23.118809+00:00'
+  replenish-queue: '2026-06-25T21:48:09.138397+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-25'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1179,51 +1179,50 @@ queue_status:
     staleness deep-review (topics/phenomenology-of-conceptual-frameworks.md) -- the
     next 2026-05-29+ frontier draw after run-648 queued consciousness-and-moral-agency-under-duress
     and run-649 queued consciousness-defeats-explanation, exactly as the run-649 note
-    predicted as the next floor-restore draw. Authoritative pre-mint count via
-    tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two open P2s
-    consciousness-and-moral-agency-under-duress run-648 + consciousness-defeats-explanation
+    predicted as the next floor-restore draw. Authoritative pre-mint count via tools.evolution.task_selector.count_p0_p2_tasks(content)
+    = 2 (the two open P2s consciousness-and-moral-agency-under-duress run-648 + consciousness-defeats-explanation
     run-649 staleness deep-reviews, both re-verified settled, git-confirmed NOT touched
-    today, no own-body drift; the 3 veto condense tasks selector-excluded; the P3s do
-    not count toward the floor). MIN_QUEUE floor 3 (cycle_pick.MIN_QUEUE_TASKS=3) unmet
-    by 1; this mint restores 2 to 3 (POST-MINT count_p0_p2_tasks = 3 confirmed via
-    task_selector). SOURCE = staleness (Source 4), 2026-05-29+ ROLLING FRONTIER. A
-    FRESH full all-content-section staleness scan from disk keyed on last_deep_review
-    age + settled (ai_modified == last_deep_review within 60s), aic>50:
-    consciousness-and-moral-agency-under-duress 28.10d (queued), consciousness-defeats-explanation
-    27.94d (queued), then topics/phenomenology-of-conceptual-frameworks.md at 27.93d
-    = the deterministic OLDEST genuinely-settled UNQUEUED pick. ai_contribution=100,
+    today, no own-body drift; the 3 veto condense tasks selector-excluded; the P3s
+    do not count toward the floor). MIN_QUEUE floor 3 (cycle_pick.MIN_QUEUE_TASKS=3)
+    unmet by 1; this mint restores 2 to 3 (POST-MINT count_p0_p2_tasks = 3 confirmed
+    via task_selector). SOURCE = staleness (Source 4), 2026-05-29+ ROLLING FRONTIER.
+    A FRESH full all-content-section staleness scan from disk keyed on last_deep_review
+    age + settled (ai_modified == last_deep_review within 60s), aic>50: consciousness-and-moral-agency-under-duress
+    28.10d (queued), consciousness-defeats-explanation 27.94d (queued), then topics/phenomenology-of-conceptual-frameworks.md
+    at 27.93d = the deterministic OLDEST genuinely-settled UNQUEUED pick. ai_contribution=100,
     ai_system claude-opus-4-7, settled (ai_modified == last_deep_review 2026-05-28T23:17:18+00:00
-    exact-match, last commit 9820e855d auto deep-review its OWN 2026-05-28 review, clean
-    tree, NOT touched since, zero commits since 2026-06-25T00:00, NO same-day collision),
-    body 3164w via tools.curate.length.analyze_length(Path) = status soft_warning
+    exact-match, last commit 9820e855d auto deep-review its OWN 2026-05-28 review,
+    clean tree, NOT touched since, zero commits since 2026-06-25T00:00, NO same-day
+    collision), body 3164w via tools.curate.length.analyze_length(Path) = status soft_warning
     (topics soft 3000 / hard 4000, ~836w headroom under hard -- NOT a condense candidate).
-    Tenets 5+1+3 (per prior 2026-05-28 review header Tenet 5/1) -- framework-change as
-    irreducibly phenomenal restructuring, felt anomaly-unease drives framework selection,
-    Map tenets not exempt from framework-inhabitation nor parsimony limits; the load-bearing
-    balance is its framework-relativity-does-not-self-refute-dualism move (verify preserved,
-    guard against relativism-slide AND over-reading); honour evidential-status-discipline.
-    No open dup (only header hit is the completed 2026-05-28 deep-review entry below the
-    Completed header; remaining hits are run NOTE bodies naming this slug as the predicted
-    next frontier draw, NOT open task headers), NOT vetoed, NOT blocked, NOT reviewed
-    today, NOT archived. EOF tool-tag artifact scan clean at mint (last 2 lines = Ratcliffe
-    2008 + Thagard 1992 References entries; no content leak). REVIEW STEERING: web-verify
-    the reference list 3-state at publisher of record (esp. Kuhn/Feyerabend/incommensurability
-    primaries + child concept-acquisition developmental-psych cites + Ratcliffe/Thagard
-    books), re-verify in-quote strings against live sibling files (stale-internal-quote
-    channel), confirm Tenet-5 cluster cross-links resolve + reciprocate. Bottom-inserted
-    per queue-lifo-starvation so the two older floor-restore P2s are not starved. EIGHT-SOURCE
-    AUDIT all OTHER sources re-confirmed exhausted: (1 chain) recent_tasks show zero
-    un-followed research/expand completions. (2 unconsumed research) newest notes consumed
-    or seed-only for already-queued P3 research-topic tasks. (3 gap/caps) topics 281/320,
-    concepts 271/320 headroom but harvester-governed + Vetoed-dedup-blocked; voids 101/100
-    at/over create-cap; positions 8/80. (4 genuine-drift) the broad ai_modified>last_deep_review
-    net is cosmetic churn with current June stamps; staleness Source-4 (27.93d) cleanly
-    outranks every drift candidate. (5 length) all hard/critical content offenders human-deferred
+    Tenets 5+1+3 (per prior 2026-05-28 review header Tenet 5/1) -- framework-change
+    as irreducibly phenomenal restructuring, felt anomaly-unease drives framework
+    selection, Map tenets not exempt from framework-inhabitation nor parsimony limits;
+    the load-bearing balance is its framework-relativity-does-not-self-refute-dualism
+    move (verify preserved, guard against relativism-slide AND over-reading); honour
+    evidential-status-discipline. No open dup (only header hit is the completed 2026-05-28
+    deep-review entry below the Completed header; remaining hits are run NOTE bodies
+    naming this slug as the predicted next frontier draw, NOT open task headers),
+    NOT vetoed, NOT blocked, NOT reviewed today, NOT archived. EOF tool-tag artifact
+    scan clean at mint (last 2 lines = Ratcliffe 2008 + Thagard 1992 References entries;
+    no content leak). REVIEW STEERING: web-verify the reference list 3-state at publisher
+    of record (esp. Kuhn/Feyerabend/incommensurability primaries + child concept-acquisition
+    developmental-psych cites + Ratcliffe/Thagard books), re-verify in-quote strings
+    against live sibling files (stale-internal-quote channel), confirm Tenet-5 cluster
+    cross-links resolve + reciprocate. Bottom-inserted per queue-lifo-starvation so
+    the two older floor-restore P2s are not starved. EIGHT-SOURCE AUDIT all OTHER
+    sources re-confirmed exhausted: (1 chain) recent_tasks show zero un-followed research/expand
+    completions. (2 unconsumed research) newest notes consumed or seed-only for already-queued
+    P3 research-topic tasks. (3 gap/caps) topics 281/320, concepts 271/320 headroom
+    but harvester-governed + Vetoed-dedup-blocked; voids 101/100 at/over create-cap;
+    positions 8/80. (4 genuine-drift) the broad ai_modified>last_deep_review net is
+    cosmetic churn with current June stamps; staleness Source-4 (27.93d) cleanly outranks
+    every drift candidate. (5 length) all hard/critical content offenders human-deferred
     / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0. (7 positions)
     8 entries below 10 audit threshold, positions-evolve ran 2026-06-22, slow-add.
-    (8 applied-apex) 3 extant, no high-confidence cluster gap. After this mint the next
-    floor-restore draws from topics/consciousness-and-the-problem-of-induction (27.92d)
-    / topics/phenomenology-of-attention-to-absence (27.90d) / topics/phenomenology-of-intellectual-courage
+    (8 applied-apex) 3 extant, no high-confidence cluster gap. After this mint the
+    next floor-restore draws from topics/consciousness-and-the-problem-of-induction
+    (27.92d) / topics/phenomenology-of-attention-to-absence (27.90d) / topics/phenomenology-of-intellectual-courage
     (27.90d) / topics/the-psychophysical-control-law (27.90d) etc. on the 2026-05-29+
     frontier. An honest NO-MINT remains acceptable when no clean candidate exists.'
   run_649_note: 'run no.649 (2026-06-25T21:30Z): GENUINE FLOOR-RESTORING MINT of 1

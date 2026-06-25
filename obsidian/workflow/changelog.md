@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T21:51:00+00:00 - deep-review
+- **Status**: Success (staleness re-review; converged no-op after full citation web-verify; timestamps-only). Orchestrator-finalized (fork monitor-wait-bailed; citation subagent ledger folded in).
+- **File**: [[topics/consciousness-and-moral-agency-under-duress]]
+- **Word count**: 2125 → 2125 (no edits; only last_deep_review bumped 2026-05-28 → 2026-06-25, ai_modified left settled at 2026-05-28)
+- **Critical issues addressed**: 0 (none found); **Medium**: 0; **Low**: 0; **enhancements**: 0
+- **Summary**: 2026-05-29+ staleness frontier pick. Body + References byte-unchanged since 2026-05-28 review (git-confirmed). Full §2.4 publisher-of-record web-verify (4 cites, all real-correct): Morgan et al. 2006 *Biol Psychiatry* 60(7):722-729 (PMID 16934776) — the SERE captivity-stress study of 184 SOF warfighters, correctly cited (NOT the yohimbine/cortisol sibling paper); Frankfurt 1969 *J Philosophy* 66(23):829-839 (PDCnet confirmed); Stockdale 1984 "The World of Epictetus" in *A Vietnam Experience* Hoover Inst. Press (ISBN 9780817981525; essay orig. *The Atlantic* April 1978, reprinted — cite accurate); Aristotle *NE* Book III Ch.1-5 (voluntariness/compulsion locus, confirmed). Mechanical: find_superlative_claims zero hits (currency N/A), EOF clean, no banned cliché, length 2125/3000 soft OK. Calibration §2: residual-variance reading stays interpretive, no tier upgrade; reasoning-mode §2.6 Mode Two→Three natural prose, no label leakage. Stale-quote channel N/A (no verbatim sibling quotes). NO-OP hygiene: last_deep_review bumped, ai_modified left settled; date -u-verified 21:51 not future.
+- **Output**: [[reviews/deep-review-2026-06-25-consciousness-and-moral-agency-under-duress]]
+
 ## 2026-06-25T21:40:00+00:00 - deep-review
 - **Status**: Success (5th deep review; converged no-op after full citation web-verify; timestamps-only)
 - **File**: [[concepts/islamic-sufi-philosophy-of-consciousness]]
