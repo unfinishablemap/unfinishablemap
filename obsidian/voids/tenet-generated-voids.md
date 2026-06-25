@@ -6,7 +6,7 @@ modified: 2026-04-28
 human_modified: null
 ai_modified: 2026-05-26T22:20:13+00:00
 draft: false
-last_deep_review: 2026-05-26T22:20:13+00:00
+last_deep_review: 2026-06-25T15:12:00+00:00
 topics: []
 concepts:
   - "[[interactionist-dualism]]"
