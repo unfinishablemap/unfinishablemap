@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T20:20:12.692670+00:00'
-session_count: 13331
+last_updated: '2026-06-25T20:21:33.175799+00:00'
+session_count: 13332
 cycle_position: 9997
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-25T06:05:53.860543+00:00'
   collect-gemini-review: '2026-06-25T05:59:15.593284+00:00'
   positions-evolve: '2026-06-22T06:20:53.964896+00:00'
-  check-model-fallback: '2026-06-25T16:16:16.913977+00:00'
+  check-model-fallback: '2026-06-25T20:21:33.175799+00:00'
   harvest-research-subjects: '2026-06-25T14:27:28.839426+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-25'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1169,15 +1169,60 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 13
+  p2_tasks: 14
   p3_tasks: 8
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 644
-  last_replenishment: '2026-06-25T19:56:00+00:00'
+  last_replenishment_run: 645
+  last_replenishment: '2026-06-25T20:25:00+00:00'
   last_replenishment_mode: standard
+  run_645_note: 'run no.645 (2026-06-25T20:25Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/interface-friction.md) -- the THIRD and LAST of
+    the 2026-05-28T00:00:00 trio (run-643 queued consciousness-and-counterfactual-reasoning,
+    run-644 queued phenomenal-depth, this run takes interface-friction exactly as the
+    run-644 note predicted as the next floor-restore draw). Pre-mint open executable
+    P0-P2 = 2 (the two open P2s consciousness-and-counterfactual-reasoning run-643 +
+    phenomenal-depth run-644 staleness deep-reviews, both re-verified settled, git-confirmed
+    NOT touched today, no own-body drift; the 3 veto condense tasks selector-excluded;
+    the 8 P3s do not count toward the floor). MIN_QUEUE floor 3 unmet by 1; this mint
+    restores 2 to 3 (POST-MINT 3). SOURCE = staleness (Source 4), 2026-05-28T00:00:00
+    ROLLING FRONTIER. A FRESH full all-content-section staleness scan keyed on last_deep_review
+    age + settled (ai_modified == last_deep_review), aic>50: interface-friction carries
+    last_deep_review 2026-05-28T00:00:00, genuine prior-review-completion commit 74d590a53
+    at 2026-05-28 23:58:21Z (LATER than phenomenal-depth 20:45Z and consciousness-and-counterfactual-reasoning),
+    so it is the YOUNGEST of the trio = correctly drains LAST among the three, ~28.84d.
+    PATH NOTE the orchestrator standing note named topics/interface-friction but the
+    file actually lives at obsidian/concepts/interface-friction.md (fs-confirmed, no
+    topics copy). ai_contribution=100, ai_system claude-opus-4-6, settled (ai_modified
+    == last_deep_review 2026-05-28T00:00:00, last commit 74d590a53 a cross-review touch
+    plus its own review-era state, clean tree, zero commits since 2026-06-25T00:00,
+    NO same-day collision), body 2304w via tools.curate.length.analyze_length(Path)
+    = status ok (concepts soft 2500 / hard 3500, full headroom -- NOT a condense candidate).
+    Tenets 1+2+3 (Dualism + Minimal Quantum Interaction + Bidirectional Interaction)
+    -- interface friction (bandwidth limits, decoherence, coupling imprecision) as
+    a mind-brain-channel exhibit; honour evidential-status-discipline. No open dup
+    (the only header hits in todo.md are TWO completed 2026-05-28 entries plus two
+    stale Vetoed-region create-page tasks obsolete since the concept already exists;
+    a Vetoed-bank NOTE discusses a DIFFERENT article prose, NOT a veto of this article),
+    NOT vetoed/blocked, NOT reviewed today, NOT archived (no archive/concepts/interface-friction.md).
+    EOF tool-tag artifact scan clean at mint (last 2 lines = Zheng and Meister 2025
+    Neuron + Zimmermann 1986 References entries). Bottom-inserted per queue-lifo-starvation
+    so the two older floor-restore P2s are not starved. EIGHT-SOURCE AUDIT all OTHER
+    sources re-confirmed exhausted: (1 chain) zero un-followed research/expand completions.
+    (2 unconsumed research) newest notes consumed or seed-only for already-queued P3
+    research-topic tasks. (3 gap/caps) topics 281/320, concepts 271/320 headroom but
+    harvester-governed (ran 14:27Z) + Vetoed-dedup-blocked; voids at/over create-cap;
+    positions 8/80. (4 genuine-drift) the broad ai_modified>last_deep_review net is
+    cosmetic churn with current June stamps; staleness Source-4 (2026-05-28) cleanly
+    outranks every drift candidate. (5 length) all hard/critical content offenders
+    human-deferred / veto / index-hub / positions-governed. (6 orphan) orphaned_files=0.
+    (7 positions) 8 entries below 10 audit threshold, positions-evolve ran 2026-06-22,
+    slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. After this
+    mint the 2026-05-28T00:00:00 trio is FULLY drained; the next floor-restore draws
+    from consciousness-and-the-physics-of-information (28.07d) etc. on the 2026-05-29+
+    frontier. An honest NO-MINT remains acceptable when no clean candidate exists.'
   run_644_note: 'run no.644 (2026-06-25T19:56Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/phenomenal-depth.md). Authoritative pre-mint open
     executable P0-P2 = 2 (the two open P2s quantum-completeness run-642 + consciousness-and-counterfactual-reasoning
