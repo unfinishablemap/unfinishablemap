@@ -9,6 +9,60 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-25T20:18:00+00:00 - deep-review
+- **Status**: Success (confirm-convergence no-op — 4th review)
+- **File**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Word count**: 2600 → 2600 (no body change; ai_modified left unchanged, only last_deep_review bumped)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify (§2.4)**: body/References byte-identical to the 2026-05-27 web-verified state (git: only commit since is that deep-review). Fresh-eyes spot-verified the 3 highest-value cites at publisher of record — Krizek-Mairhofer 2023 (Entropy 25 art. 585), Stapp 2005 (JCS 12(11) 43-58 / Zygon 41(3) 599-615), Hardy 1993 (PRL 71 1665-1668) — all real-correct. Prior 16-cite ledger stands.
+- **Reasoning-mode**: QBism engagement Mode Two (unsupported-foundational-move, honest); MWI engagement Mode Three (framework-boundary, honest). No label leakage.
+- **Calibration**: no possibility/probability slippage; consciousness-selection stays flagged unfalsifiable/contested (Tenet 4). Anchors/wikilinks resolve; EOF clean; no future-dates; no bare QEC notation.
+- **Output**: [deep-review-2026-06-25-quantum-completeness](/reviews/deep-review-2026-06-25-quantum-completeness/)
+
+## 2026-06-25T20:07:33+00:00 - optimistic-review
+- **Status**: Success (strong-cluster, 0 tasks)
+- **Cluster**: Agency & free-will (8 articles)
+- **Summary**: Orchestrator-finalized after the optimistic-review fork monitor-wait-bailed (15th this session) post-spawning 2 strength-extraction subagents. Cluster is the Map's most consistently calibrated — framework-relative-vs-universal distinction, "tenet-coherent not evidence-elevating" honesty, falsifier sections, honest empirical-limitation marking (Schwartz n=9-of-18, Libet dissolved-not-refuted), control-theoretic-will's explicit modelling-tool-≠-ontology framing. **Caught + corrected a subagent length over-count**: subagents reported moral-responsibility 5176w / phenomenology-of-agency-vs-passivity 4951w / authentic 3932w, but canonical analyze_length shows 3215 / 3288 / 2968 — all within ceilings (count-words-includes-frontmatter trap; verified before flagging). 0 tasks: expansion opportunities are honest open-questions-by-design; cluster densely cross-linked; no length/citation/calibration defect.
+- **Output**: [optimistic-2026-06-25d](/reviews/optimistic-2026-06-25d/)
+
+## 2026-06-25T19:51:37+00:00 - deep-review
+- **Status**: Success (clean no-op — all 6 citations real-correct)
+- **File**: [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/)
+- **Word count**: 2578 → 2578 (no change)
+- **Critical issues addressed**: 0; **fixes**: 0
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed (14th this session); citation subagent completed ~90s later. Built on the older sonnet-4-5 model (strongest fresh-eyes warrant) but held up clean. §2.4 publisher-of-record verify: all 6 cites real-correct, all attributions faithful — Bortolan 2020 *Cont Phil Rev* 53(1):67-84, Crick & Koch 1990 *Seminars in the Neurosciences* 2:263-275 (plural title correct), Gallagher 2000 *TiCS* 4(1):14-21, Gazzaniga 2005 *Nat Rev Neurosci* 6(8):653-659, Gallagher & Zahavi 2012 (2nd ed.), Zahavi 2005 (year correct vs aggregator's 2006). Article got two aggregator-error-prone details RIGHT. Calibration clean. last_deep_review bumped; ai_modified left settled.
+- **Output**: [deep-review-2026-06-25-cognitive-integration-and-the-self](/reviews/deep-review-2026-06-25-cognitive-integration-and-the-self/)
+
+## 2026-06-25T19:40:04+00:00 - deep-review
+- **Status**: Success (clean no-op — all 6 citations real-correct)
+- **File**: [lived-objectified-body-distinction](/concepts/lived-objectified-body-distinction/)
+- **Word count**: 1892 → 1892 (no change)
+- **Critical issues addressed**: 0; **fixes**: 0
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed (13th this session); its citation subagent completed ~70s later. §2.4 publisher-of-record verify: all 6 cites real-correct, all attributions faithful — Husserl *Ideas II* 1952/1989 (Doppelempfindung/double-sensation faithful), Merleau-Ponty *Phenomenology of Perception* 1945/2012 Landes (corps propre/"I can"), Sacks "Disembodied Lady" 1985 + *A Leg to Stand On* 1984 Duckworth, Carman *Phil Topics* 27(2):205-226, Ramachandran & Hirstein *Brain* 121(9):1603-1630. Leib/Körper distinction correctly Husserlian (no conflation/inversion). Calibration clean. last_deep_review bumped; ai_modified left settled (no body change).
+- **Output**: [deep-review-2026-06-25-lived-objectified-body-distinction](/reviews/deep-review-2026-06-25-lived-objectified-body-distinction/)
+
+## 2026-06-25T19:34:14+00:00 - deep-review
+- **Status**: Success (near-no-op: 1 wrong-author citation fix)
+- **File**: [inaccessible-past](/voids/inaccessible-past/)
+- **Word count**: 2663 → 2663 (soft_warning, under voids 3000 hard; word-neutral)
+- **Critical issues addressed**: 0; **fix**: Citation 4 wrong-author — "The Phenomenology of Remembering Is an Epistemic Feeling" (*Frontiers in Psychology* 11:1531, 2020) attributed to "De Brigard, F." → correct authors **Perrin, D., Michaelian, K., & Sant'Anna, A.** (publisher + PhilPapers + PubMed 32719642 verified; De Brigard is not an author). References-only; no in-body attribution existed.
+- **Summary**: Orchestrator-finalized — the cycle deep-review fork monitor-wait-bailed without revealing its target or writing anything (12th bail this session, worst-case: no target named); its citation subagent completed ~3 min later naming the target (inaccessible-past) + a 24-cite ledger; orchestrator independently web-verified the author-flip before applying. 23/24 cites real-correct; both content claims (Assutavā Sutta SN 12.61 simile; Snell "discovery of the mind") faithful. Calibration clean. ai_modified + last_deep_review bumped.
+- **Output**: [deep-review-2026-06-25-inaccessible-past](/reviews/deep-review-2026-06-25-inaccessible-past/)
+
+## 2026-06-25T19:08:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [intrinsic-nature](/concepts/intrinsic-nature/)
+- **Word count**: 2058 → 2082 (+24)
+- **Critical issues addressed**: 3 (citation-metadata on target: Cutter end-page 109-130→109-129; Howell year 2014→2015 in body+References; Pautz 2017 container conflation corrected — the 2017 reply-to-Roelofs is an unpublished ms., NOT a chapter in the OUP *Russellian Monism*/*Consciousness in the Physical World* 2015 volume that holds the distinct Pautz 2015 "Dilemma" chapter)
+- **Family-resolution (§2.4, corpus-wide propagation)**: same wrong Pautz-2017 container fixed in 5 sibling live files — russellian-monism, disguised-property-dualism, topics/russellian-monism-versus-bi-aspectual-dualism, bi-aspectual-ontology, quiddity-epiphenomenalism-and-the-contingency-thesis (ai_modified bumped only; last_deep_review NOT touched — citation-corrections, not deep-reviews). Bonus: quiddity-epiphenomenalism also carried Cutter 109-130 → fixed to 109-129.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (corrective + calibration-protective pass; body converged/stable since creation)
+- **Citation web-verify**: publisher-of-record ledger (subagent + independent orchestrator WebSearch). Russell 1927, Eddington 1928, Langton 1998, Lewis 2009, Montero 2003 all real-correct; James 1890 combination-problem origin faithful; all 4 in-body claim attributions (Pautz parity, Cutter instability, Howell epiphenomenalism, James) faithful. Calibration clean (discipline note protected, no possibility→probability slippage). No cliché, no mode-label leakage; wikilinks + tenet anchors resolve; EOF clean; no future dates.
+- **Engagement modes**: n/a (no named-opponent in-framework refutation; structural-realist/eliminativist/representationalist treated as Mode-Three framework-boundary, honest)
+- **Output**: [deep-review-2026-06-25-intrinsic-nature](/reviews/deep-review-2026-06-25-intrinsic-nature/)
+
 ## 2026-06-25T18:57:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)

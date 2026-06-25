@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-20 15:40:00+00:00
+ai_modified: 2026-06-25 19:34:14+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Past conscious states are structurally inaccessible at every scale 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 14:24:43+00:00
+last_deep_review: 2026-06-25 19:34:14+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -153,7 +153,7 @@ The thesis would require revision if direct past-state access proved possible (H
 1. Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.
 2. Bergson, H. (1896/1991). *Matter and Memory*. Zone Books.
 3. Conway, M.A. & Pleydell-Pearce, C.W. (2000). The construction of autobiographical memories in the self-memory system. *Psychological Review*, 107(2), 261-288.
-4. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+4. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 5. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
 6. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 7. Michaelian, K. (2016). *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*. MIT Press.

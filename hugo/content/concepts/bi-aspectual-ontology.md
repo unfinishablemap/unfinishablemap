@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-25 18:23:13+00:00
+ai_modified: 2026-06-25 19:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -165,7 +165,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 3. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 4. Atmanspacher, H. & Rickles, D. (2022). *Dual-Aspect Monism and the Deep Structure of Meaning*. Routledge.
 5. Velmans, M. (2008). Reflexive Monism. *Journal of Consciousness Studies*, 15(2), 5-50.
-6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
+6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
 7. Cutter, B. (2019). Against the Middle Ground: Why Russellian Monism Is Unstable. *Analytic Philosophy*, 60(2), 109-129.
 8. Le Bihan, B. (2019). Aspects in Dual-Aspect Monism and Panpsychism: A Rejoinder to Benovsky. *Philosophical Investigations*, 42(2).
 9. Gleason, A.M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885-893.

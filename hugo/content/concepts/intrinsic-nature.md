@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 12:00:00+00:00
+ai_modified: 2026-06-25 19:08:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Physics describes only relational structure and is silent on the in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 12:00:00+00:00
+last_deep_review: 2026-06-25 19:08:00+00:00
 modified: *id001
 related_articles:
 - '[[intrinsic-nature-void]]'
@@ -75,7 +75,7 @@ The [intrinsic-nature void](/voids/intrinsic-nature-void/) develops the negative
 
 The structural/intrinsic distinction is a premise, not yet a theory of mind. Russellian monism is the theory that builds on it: physics describes structure, consciousness is the one intrinsic nature we know, so perhaps intrinsic natures *are* phenomenal (panpsychist Russellian monism) or *ground* the phenomenal (panprotopsychist Russellian monism). The intrinsic base, on this view, just is where consciousness lives—not a separate substance but the categorical inside of the physical.
 
-This article deliberately stops at the distinction and the placement question; the theory and its difficulties—the combination problem, the instability between physicalism and dualism (Cutter 2019), the parity argument (Pautz 2017), the epiphenomenalism worry (Howell 2014), and the fragmentation into incompatible variants—are treated in [russellian-monism](/concepts/russellian-monism/). The distinction is a building block; the theory is one of several destinations it can reach, and [disguised-property-dualism](/concepts/disguised-property-dualism/) argues that several "monisms" built on it are dualisms in disguise once their two irreducible property-types (structural and quidditative) are made explicit.
+This article deliberately stops at the distinction and the placement question; the theory and its difficulties—the combination problem, the instability between physicalism and dualism (Cutter 2019), the parity argument (Pautz 2017), the epiphenomenalism worry (Howell 2015), and the fragmentation into incompatible variants—are treated in [russellian-monism](/concepts/russellian-monism/). The distinction is a building block; the theory is one of several destinations it can reach, and [disguised-property-dualism](/concepts/disguised-property-dualism/) argues that several "monisms" built on it are dualisms in disguise once their two irreducible property-types (structural and quidditative) are made explicit.
 
 ## Relation to Site Perspective {#relation-to-site-perspective}
 
@@ -114,8 +114,8 @@ The Map's use of the intrinsic-nature distinction would be undermined if: (1) a 
 3. Langton, R. (1998). *Kantian Humility: Our Ignorance of Things in Themselves*. Oxford University Press.
 4. Lewis, D. (2009). Ramseyan humility. In D. Braddon-Mitchell & R. Nola (Eds.), *Conceptual Analysis and Philosophical Naturalism* (pp. 203-222). MIT Press.
 5. Montero, B. (2003). Varieties of causal closure. In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation* (pp. 173-187). Imprint Academic.
-6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
-7. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
-8. Howell, R.J. (2014). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
+6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015, "A Dilemma for Russellian Monists about Consciousness," in T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*, Oxford University Press, 2015).
+7. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
+8. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 9. Stanford Encyclopedia of Philosophy. "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
 10. Southgate, A. & Oquatre-sept, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/

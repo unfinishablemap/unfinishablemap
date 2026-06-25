@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-08 10:35:34+00:00
+ai_modified: 2026-06-25 19:08:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -170,7 +170,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 1. Kerskens, C.M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 1. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.
-1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
+1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
 1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 1. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(S1), 100-117.
 1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-06-15 23:46:52+00:00
+ai_modified: 2026-06-25 19:08:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -175,7 +175,7 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 10. Kelly, E.F. (2022). Best Way Forward or Unnecessary Detour? *Essentia Foundation* review of Atmanspacher & Rickles.
 11. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 12. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.
-13. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
+13. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
 14. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 15. Pylkkänen, P. (2007). *Mind, Matter and the Implicate Order*. Springer.
 16. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.

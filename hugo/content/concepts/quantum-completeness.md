@@ -23,7 +23,7 @@ description: 'Quantum mechanics is ''partial but complete'': structurally exhaus
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 23:20:49+00:00
+last_deep_review: 2026-06-25 20:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
