@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T13:21:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Original score**: n/a (consistency pass against pessimistic-2026-06-25c, not a graded review)
+- **Changes**: Addressed all five findings from pessimistic-2026-06-25c, plus per-figure cite. (1) Lede ratio fixed — attached "100 million to one" to the 10⁹ total-neural figure (added the ~10⁶ sensory-ratio bridge) so the truncation-resilient first line is self-consistent. (2) Evolutionary Puzzle now stages the production rejoinder (serial-integration stage is intrinsically non-wideable) inside the section, contests it (non-wideability is itself unestablished; multiple-parallel-workspaces variant), and downgrades the conclusion from "forces non-physical narrow end" to "consistent with the interface reading, not forced." (3) Resolution-Bandwidth Coupling rewritten to acknowledge the single-bottleneck deflation (one parameter measured twice), requiring independent dissociation evidence and softening the external-constraint claim. (4) Seriality / forced-abstraction / temporal-grain now predicated of *conscious access / the outbound selection channel*, not "consciousness" tout court — applied consistently from the section intro through subsections; Inbound Channel now explicitly brackets phenomenal overflow as a phenomenality question separate from the access-rate, closing the Block-overflow flank. (5) Softened "strikingly compatible"→"broadly compatible" (MQI) and "dissolves the Libet problem"→"reframes the Libet problem." Added per-figure attribution for "~200 bits/neuron" to Sauerbrei & Pruszynski 2025 (existing ref, web-verified clean per the review); stated the ~3 bits/selection assumption so the 3–4 Hz figure is reconstructable.
+- **Engagement classification (editor-internal)**: production theorist in the Evolutionary Puzzle — Mode Two (unsupported foundational move: the rejoinder's non-wideability premise is asserted, not established by the production framework's own standards), declared honestly without claiming in-framework refutation. No mode labels in body.
+- **Length**: 3939 → 3999 words (additive fixes offset by trimming verbatim-duplicated material across Outbound Bottleneck / Inbound Channel / Why-Coarseness / Division-of-Labour / How-Robust / Why-Ten; held under the 4000 hard ceiling). No new citations beyond the per-figure attribution. No length task warranted.
+- **Published**: yes (kept as draft:false — was already published; consistency pass only)
+
 ## 2026-06-25T13:05:52+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/bandwidth-of-consciousness.md (3939w; coalesced flagship; not previously dated-pessimistic-reviewed)
