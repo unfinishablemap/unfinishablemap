@@ -21,6 +21,8 @@ last_curated: null
 **Previous review**: [[deep-review-2026-05-26-smoothness-and-continuity|2026-05-26]] (second post-coalescence review)
 **Review context**: Re-qualified for review by a cosmetic `ai_modified` bump — the 2026-06-24 grain-mismatch deep review (commit 6b581a337) touched only the cross-link timestamp on its face, BUT that same commit silently regressed a previously-verified citation (see Critical Issues). Third deep review; convergence-damping does NOT exclude (prior `last_deep_review` 2026-05-26 ≈ 30d, outside the 14-day cutoff). Article body content otherwise unchanged since the 2026-05-26 full citation re-verification.
 
+> **⚠ SUPERSEDED 2026-06-25 (later same day) — the Lee-citation finding in this archive is WRONG on the year.** This review reverted Lee "Consciousness & Continuity" 2024→2023, calling 2024 a regression. In fact **2024 is CORRECT**: PhilArchive LEECAC-14 was first-archived **2024-01-22** (unpublished manuscript; the deposit year governs). The corpus "2023" was a mis-citation (the ANU first-*talk* year, 2023 — talks aren't citable deposits); the 2026-05-26 ledger had enshrined that mis-citation. So commit 6b581a337's 2023→2024 was a *correct* fix, and this review's revert was a [[citation-verify-false-negative]] false-correction. A later refine fork ("Resolve Lee year inconsistency") web-verified the deposit date and unified all 6 live grain-mismatch-cluster cites to **2024**. **Do NOT revert to 2023.** The Critical-Issues Lee item, the §2.4 ledger Lee line, and the stability note below are all superseded on this single point only (the rest of this review stands).
+
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
@@ -91,7 +93,7 @@ Future reviews should NOT re-flag:
 - Functionalist dissolution (bedrock, 2026-03-18) and illusionist regress (bedrock, 2026-03-11) — framework-boundary disagreements.
 - Eliminativist objection to phenomenological testimony — pre-empted by the Lee section.
 - Herzog author order (resolved 2026-05-26; re-confirmed 2026-06-25).
-- Lee citation year = 2023 (PhilArchive LEECAC-14, manuscript-status; re-verified 2026-06-25). Do not "correct" to 2024.
+- Lee citation year = **2024** (PhilArchive LEECAC-14, first-archived 2024-01-22). [CORRECTED 2026-06-25: the "2023" originally written here was WRONG — a mis-citation/first-talk-year; the cluster was unified to 2024 corpus-wide. Do NOT revert to 2023.]
 
 Bedrock disagreements (not fixable; do NOT flag as critical):
 - Physicalists/functionalists will maintain smoothing mechanisms *constitute* smooth experience. The article's response is explicitly conditional.
