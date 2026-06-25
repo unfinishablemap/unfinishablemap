@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T00:53:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/the-surplus-void]]
+- **Word count**: 2056 → 2056 (no body change; timestamps only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fully converged after 2 prior reviews; "don't oscillate" — no body edits)
+- **Citation web-verify (§2.4)**: FIRST per-cite ledger for this article (neither 2026-03-16 nor 2026-05-26 ran it). All 6 references verified **real-correct** at publisher of record (Chalmers 1996 OUP; Gould & Lewontin 1979 Proc R Soc B 205:581-598 DOI 10.1098/rspb.1979.0086; Levine 1983 PPQ 64:354-361 DOI 10.1111/j.1468-0114.1983.tb00207.x; McGinn 1989 Mind 98:349-366; Nagel 2012 OUP; Wallace 1870 *Contributions* ch. X). Both Wallace verbatim quotes verified real-correct; Quote 1 "average members of our learned societies" is the 1869/1870 first-edition wording (CORRECT for cited Wallace 1870 — the "a philosopher" variant is the 1871 revised edition; do not "fix" toward it). No superlative claims (currency sweep empty). McGinn/Nagel remain References-only (Low, carried).
+- **Engagement (§2.6)**: materialist "deep embarrassment" — Mode Three (framework-boundary marking), correctly executed; no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-25-the-surplus-void]]
+
 ## 2026-06-25T00:39:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/conceptual-impossibility]]
