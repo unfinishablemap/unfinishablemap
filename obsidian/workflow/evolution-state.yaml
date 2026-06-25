@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T10:29:15.417233+00:00'
-session_count: 13241
-cycle_position: 9953
+last_updated: '2026-06-25T10:33:40.976057+00:00'
+session_count: 13242
+cycle_position: 9954
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T08:27:12.537438+00:00'
   optimistic-review: '2026-06-25T09:30:18.178555+00:00'
   check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T06:31:21.841651+00:00'
-  deep-review: '2026-06-25T10:15:45.505351+00:00'
+  deep-review: '2026-06-25T10:33:40.976057+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-25T06:33:50.318380+00:00'
   coalesce: '2026-06-25T10:29:15.417233+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5749
+  reviews_completed: 5750
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-06-25'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-06-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1172,14 +1172,48 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 5
+  p3_tasks: 7
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 618
-  last_replenishment: '2026-06-25T10:18:00+00:00'
+  last_replenishment_run: 619
+  last_replenishment: '2026-06-25T10:36:00+00:00'
   last_replenishment_mode: standard
+  run_619_note: 'run no.619 (2026-06-25T10:36Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (voids/consciousness-only-territories.md). Authoritative
+    pre-mint tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (open executable
+    P2s: concepts/prebiotic-collapse.md + voids/collective-cognitive-limits.md staleness
+    deep-reviews; select_queue_task returned prebiotic-collapse) -- queue FUNCTIONAL,
+    MIN_QUEUE floor 3 unmet by 1; this mint restores 2->3 (POST-MINT count=3 confirmed;
+    top pick still prebiotic-collapse so bottom-insert did NOT starve the two older
+    floor-restore P2s). The run-617 supervenience P2 was PICKED + executed this cycle
+    (last_deep_review now 2026-06-25T10:31, git-confirmed) so the live floor fell back
+    to 2 -- expected replenish-at-floor alternation, NOT the fixed deadlock. SOURCE
+    = staleness (Source 4b): voids/consciousness-only-territories.md last_deep_review
+    2026-05-26T09:55 = 30.0d ago (just crossed 30d), ai_contribution=100, ai_system
+    claude-opus-4-5-20251101 (OLDEST corpus build = strongest fresh-eyes warrant; the
+    in-queue prebiotic-collapse is opus-4-6), settled (ai_modified == last_deep_review,
+    git-untouched since review commit 9d56ed7f7), body 2895w = soft_warning (voids hard
+    3000, ~105w headroom -- NOT a condense candidate, review must be length-neutral).
+    Tenet 4 (No Many Worlds) + Tenet 1 (Dualism) load-bearing: the article maps the
+    consciousness-only/idealist family the Map distinguishes its dualism from (timely
+    given recent idealism/manyism/russellian-monism work). A voids deep-review creates
+    no content so voids over-cap (101/100) does NOT block it. No dup (only HEADER is
+    the closed 2026-05-26 deep-review at line 7590 that set the stamp; other hits are
+    cross-link mentions in other tasks notes incl run-618 fallback list), NOT vetoed,
+    NOT reviewed today (git-confirmed). Bottom-inserted per queue-lifo-starvation. EIGHT-SOURCE
+    AUDIT all OTHER sources exhausted: (1 chain) substrate-taxonomy chain fully consumed,
+    no un-followed completions. (2 unconsumed research) only 2026-06-25 note consumed
+    (article exists); argument-from-mechanism / standing-agnostic-challenge / instrumental-convergence
+    have live articles. (3 gap/caps) topics 281/320 concepts 271/320 headroom but harvester-governed
+    (08:20Z) + Vetoed-dedup-blocked; voids 101/100 at/over create-cap. (4 genuine-drift)
+    only voids/smoothness-and-continuity drift = cosmetic cross-touch, rest settled.
+    (5 length) all hard/critical offenders human-deferred / #veto / index-hub / research-working-note.
+    (6 orphan) orphaned_files=0. (7 positions) 8 entries <10 audit threshold, positions-evolve
+    ran 2026-06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster
+    gap. Staleness fallback remaining for next floor-restore: voids/self-transcendence-void
+    30.2d (opus-4-6), settled, not in open queue.'
   run_618_note: 'run no.618 (2026-06-25T10:18Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (voids/collective-cognitive-limits.md). Authoritative pre-mint
     tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (open executable
