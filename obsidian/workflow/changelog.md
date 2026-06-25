@@ -5,6 +5,18 @@ ai_modified: 2026-06-25T00:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T00:39:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/conceptual-impossibility]]
+- **Word count**: 2608 → 2608 (no body change; References + timestamps only)
+- **Critical issues addressed**: 3 (citation metadata)
+- **Medium issues addressed**: 0
+- **Note**: The deep-review fork sub-delegated 2 citation-verify subagents and stalled before writing; orchestrator harvested both ledgers, independently re-verified the 2 highest-stakes corrections, applied fixes, finalized archive.
+- **Citation web-verify (§2.4)**: 3 real-paper-wrong-metadata fixes on a "settled since 2026-05-26" void prior reviews never caught: [5] "Editorial: Epistemic Feelings…" Frontiers 2020 art. 606046 — author **Proust, J. → Dietrich, E., Fields, C., Hoffman, D. D., & Prentner, R.** (independently confirmed WebSearch + PubMed 33192954); [6] "Understanding incomprehensibility…" Frontiers 2023 art. 1155838 — author **Sass & Ratcliffe → Wendler, H. & Fuchs, T.** (independently confirmed WebSearch); [7] Mitralexis "Apophaticism in Contemporary Philosophy" — venue **Northwestern/2019 → *The Oxford Handbook of Apophatic Theology* (eds. Betz & Van Nieuwenhove), OUP 2025**. Other 7 cites verified real-correct (Berto & Jago, Reicher, Carruthers, Chalmers, Priest, McGinn *Mind* 98(391):349-366, Hegel). Carruthers usage caveat (indeterminacy ≠ cognitive closure) noted for a future content pass — bibliographically correct, References-only, no inline change.
+- **Family resolution**: fixed the same wrong cites in research notes `research/voids-certainty-void-2026-03-10.md` (Proust & Fortier → Dietrich et al.) + `research/voids-conceptual-impossibility-2026-01-23.md` (Mitralexis venue). NO other live article affected (apex 606046 hit was a spurious substring of the Neven et al. Entropy DOI e26060460).
+- **Other**: all 11 wikilinks resolve; all 5 tenet anchors present; EOF clean; length-neutral. ai_modified + last_deep_review → 2026-06-25T00:35:00+00:00 (non-future).
+- **Output**: [[reviews/deep-review-2026-06-25-conceptual-impossibility]]
+
 ## 2026-06-25T00:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]

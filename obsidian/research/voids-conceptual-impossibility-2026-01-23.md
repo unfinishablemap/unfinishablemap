@@ -339,7 +339,7 @@ Based on this research, a voids article could:
 
 - "Impossible Worlds." (Fall 2025). *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/archives/fall2025/entries/impossible-worlds/
 
-- Mitralexis, S. "Apophaticism in Contemporary Philosophy." Northwestern University Research. https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf
+- Mitralexis, S. (2025). "Apophaticism in Contemporary Philosophy." In J. R. Betz & R. Van Nieuwenhove (eds.), *The Oxford Handbook of Apophatic Theology*. Oxford University Press. https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf
 
 - "Nonexistent Objects." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/nonexistent-objects/
 

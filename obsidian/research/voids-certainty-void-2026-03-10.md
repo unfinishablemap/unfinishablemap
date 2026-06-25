@@ -188,4 +188,4 @@ Based on this research, a voids article could:
 - Arango-Muñoz, S. (2019). Cognitive phenomenology and metacognitive feelings. *Mind & Language*, 34(2), 247-262.
 - De Sousa, R. (2008). Epistemic feelings. In G. Benthem & P. Adriaans (Eds.), *Philosophy of Information*. Elsevier.
 - Internet Encyclopedia of Philosophy. "Certainty." https://iep.utm.edu/certainty/
-- Proust, J., & Fortier, M. (Eds.). (2020). Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition. *Frontiers in Psychology*, 11, 606046.
+- Dietrich, E., Fields, C., Hoffman, D. D., & Prentner, R. (2020). Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition. *Frontiers in Psychology*, 11, 606046.
