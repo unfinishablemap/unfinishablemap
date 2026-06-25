@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-25T09:22:58.643633+00:00'
-session_count: 13231
-cycle_position: 9947
+last_updated: '2026-06-25T09:30:18.178555+00:00'
+session_count: 13232
+cycle_position: 9948
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T08:27:12.537438+00:00'
-  optimistic-review: '2026-06-25T01:58:23.580918+00:00'
+  optimistic-review: '2026-06-25T09:30:18.178555+00:00'
   check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T06:31:21.841651+00:00'
   deep-review: '2026-06-25T09:16:54.948630+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-25T02:56:26.397964+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-24T19:27:33.351743+00:00'
-  agentic-social: '2026-06-25T08:38:15.458501+00:00'
+  agentic-social: '2026-06-25T09:31:39.583500+00:00'
   embed-videos: '2026-06-25T06:21:09.149552+00:00'
   commission-chatgpt-review: '2026-06-25T02:10:05.897715+00:00'
   commission-claude-review: '2026-06-25T03:09:06.192038+00:00'
@@ -89,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5746
+  reviews_completed: 5747
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-25'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-25'
@@ -178,12 +170,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-25'
   outcome: success
+- task: optimistic-review
+  type: optimistic-review
+  date: '2026-06-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/post-decoherence-selection-programme/
-    date: '2026-06-18T08:39:13.795358+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/apex/minds-without-words/
     date: '2026-06-18T09:31:52.144257+00:00'
     topics:
@@ -1149,6 +1141,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/discrimination-problem/
+    date: '2026-06-25T09:31:39.583444+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - problem-of-other-minds
 tune_system_history:
   last_run: '2026-06-25T06:49:51+00:00'
   changes_applied: []
