@@ -5,6 +5,18 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T14:55:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/continual-learning-argument]]
+- **Word count**: 2811 → 2811 (no body change; converged no-op pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification performed**: Seventh deep review (sixth on slug); converged across reviews 3–6, no substantive change since 2026-04-13 cleanup (intervening commits are mechanical wikilink retargets). Web-verified the load-bearing Hoel cite at publisher of record (arXiv:2512.12802) — author/title/ID all match; preprint posted 2025-12-14, revised through Jan 2026, "(2026)" defensible; characterization faithful to abstract. State: real-correct. Seven remaining cites are unchanged classics (References block not modified), already verified — not re-triggered. Archival-link-rot check: article does NOT link the archived [[substrate-independence-critique]]; correctly links live [[substrate-independence]]. All 17 wikilinks resolve. No superlative claims (currency sweep empty). No reasoning-mode label leakage; calibration check passed (continual learning consistently framed necessary-not-sufficient, consequence-not-cause; quantum link "suggestive but not load-bearing"). EOF clean.
+- **Engagements (changelog-only)**: illusionism (Dennett/Frankish) — Mode Two (regress as unsupported foundational move + heterophenomenology-applied-to-LLMs in-framework turn); functionalism (proximity argument) — Mode Three at the residue (framework-boundary disagreement marked honestly while pressing in-principle/in-practice on Hoel's own terms).
+- **Length**: 2811w, 112% of concepts 2500 soft (soft_warning); headroom to 3500 hard, no condense pressure.
+- **Output**: [[reviews/deep-review-2026-06-25-continual-learning-argument]]
+
 ## 2026-06-25T14:52:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/valence-and-conscious-selection]]
