@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T10:53:45.704244+00:00'
-session_count: 13246
-cycle_position: 9956
+last_updated: '2026-06-25T10:57:42.182875+00:00'
+session_count: 13247
+cycle_position: 9957
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T08:27:12.537438+00:00'
   optimistic-review: '2026-06-25T09:30:18.178555+00:00'
   check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T06:31:21.841651+00:00'
-  deep-review: '2026-06-25T10:53:45.704244+00:00'
+  deep-review: '2026-06-25T10:57:42.182875+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-25T06:33:50.318380+00:00'
   coalesce: '2026-06-25T10:29:15.417233+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5752
+  reviews_completed: 5753
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-25'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-25'
   outcome: success
 - task: deep-review
@@ -1177,9 +1177,43 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 620
-  last_replenishment: '2026-06-25T10:46:00+00:00'
+  last_replenishment_run: 621
+  last_replenishment: '2026-06-25T11:02:00+00:00'
   last_replenishment_mode: standard
+  run_621_note: 'run no.621 (2026-06-25T11:02Z): GENUINE FLOOR-RESTORING MINT of 1 staleness
+    deep-review (voids/smoothness-and-continuity.md). Authoritative pre-mint count_p0_p2_tasks
+    = 2 (the two queued staleness deep-reviews voids/consciousness-only-territories.md
+    (run-619) + voids/self-transcendence-void.md (run-620), both verified genuinely OPEN
+    -- last_deep_review still 2026-05-26; select_queue_task returned consciousness-only-territories
+    at line 1260) -- queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1; this mint restores
+    2->3 (POST-MINT count=3 confirmed; top pick still consciousness-only-territories at
+    line 1260 so bottom-insert did NOT starve the two older floor-restore P2s). Expected
+    replenish-at-floor alternation, NOT the fixed deadlock. SOURCE = staleness (Source 4b):
+    voids/smoothness-and-continuity.md last_deep_review 2026-05-26T09:15 = 30.1d ago,
+    ai_contribution=100, ai_system claude-opus-4-6, body 2400w soft_warning (voids hard
+    3000, ~600w headroom -- NOT a condense candidate). The LAST remaining member of the
+    2026-05-26 staleness cohort. Runs 616-620 parked it because they classified it under
+    the GENUINE-DRIFT lens where its ai_modified 2026-06-24T22:42 disqualifies it as a
+    cosmetic cross-touch (git: last commit touching it is 6b581a337, a deep-review of the
+    DIFFERENT file grain-mismatch.md whose cycle_post swept a cross-link edit in --
+    replenish-false-exhaustion-mislabeled-drift) -- but as a PURE 30d-due STALENESS
+    candidate it qualifies cleanly. Tenet 1/3/2 load-bearing (temporal-smoothness void;
+    grain-mismatch / binding-problem cousin). A voids deep-review creates no content so the
+    voids over-cap (101/100) does NOT block it. No dup (only header is the closed 2026-05-26
+    deep-review), NOT vetoed (0 hits below Vetoed header), NOT reviewed today. Bottom-inserted
+    per queue-lifo-starvation. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted:
+    (1 chain) task_chains.pending_articles + pending_cross_reviews both None, substrate-taxonomy
+    chain fully consumed. (2 unconsumed research) ai-hardware-substrate-taxonomy consumed;
+    2026-06-24 notes argument-from-mechanism / standing-agnostic-challenge / instrumental-convergence
+    all have live articles. (3 gap/caps) topics 281/320 concepts 271/320 headroom but
+    harvester-governed (08:20Z) + Vetoed-dedup-blocked; voids 101/100 at/over create-cap.
+    (4 genuine-drift) only smoothness-and-continuity own-body bump = cosmetic cross-touch
+    (handled here as staleness). (5 length) all hard/critical content offenders human-deferred
+    / #veto / index-hub / research-working-note. (6 orphan) orphaned_files=0. (7 positions)
+    8 entries <10 audit threshold, positions-evolve ran 2026-06-22, slow-add. (8 applied-apex)
+    3 extant, no high-confidence cluster gap. With this mint the 2026-05-26 staleness cohort
+    is FULLY queued/executed -- the next floor-restore must await fresh chain/research/harvester
+    input or the next staleness tier crossing 30d.'
   run_620_note: 'run no.620 (2026-06-25T10:46Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (voids/self-transcendence-void.md). Authoritative pre-mint
     tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the only open executable
