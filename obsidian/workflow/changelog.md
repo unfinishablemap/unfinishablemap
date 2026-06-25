@@ -5,6 +5,18 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T06:05:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-25
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8; Gemini 2.5 Pro leg abandoned after 16 collect attempts, no artifact)
+- **Subject**: [[apex/assessing-ai-consciousness-under-the-map]] (both reviewers audited the same apex)
+- **Clusters**: 2 convergent, 7 singleton, 1 divergent
+- **Convergent findings**: (1) substrate-necessity premise / action-guidance must be marked framework-internal, not a neutral criterion; (2) Butlin et al. 2023 indicator-functionalism is the unengaged strongest rival. Both verified clean on-file (matrix row, "no sites" phrasing, Butlin-absence grep).
+- **Divergence**: ChatGPT reads the Birch gaming-problem convergence as a dialectical opportunity; Claude reads it as a co-optation firewall violation. Convergent repair = disclose the narrow scope of the agreement (satisfies both).
+- **Tasks upgraded**: 2 (P2→P1: the ChatGPT framework-internal-marking refine task, and the Claude Butlin-by-name engagement task; P3→P2: 0)
+- **Tasks deduplicated**: 0 (the two convergent tasks target complementary scopes — apex-internal engagement vs sibling-page lineage — and the Claude P1 tenet-leakage task carries a distinct singleton catch, so none were merged)
+- **Output**: [[reviews/outer-review-synthesis-2026-06-25]]
+
 ## 2026-06-25T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/integrated-information-theory]]
