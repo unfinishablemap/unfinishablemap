@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable at commission — confirmed by the "Claude Fable 5 is currently unavailable" banner; collect leg auto-named the file after the model that ran)
+- **File**: [[reviews/outer-review-2026-06-25-claude-opus-4-8]]
+- **Subject**: [[apex/assessing-ai-consciousness-under-the-map]] (recent-aged fallback; same subject as the same-cycle ChatGPT review — real cross-reviewer convergence)
+- **Claims verified**: 5 (on-file: tenet-leakage CONFIRMED against `tenets.md` Tenet-Dependency-Matrix "Machine consciousness" row = dualism Required, MQI/mechanism-specific "Not invoked"; Butlin/Long/Seth/IIT all absent from the apex; reviewer's quoted strings match the live article verbatim; verbatim Birch quote clean per reviewer's publisher-of-record check; nuance — `concepts/gaming-problem.md` ALREADY discloses Birch's computational-markers remedy, so Rec (a)8 largely pre-satisfied on the concept page, leaving the apex as the real co-optation site)
+- **High-value findings**: (1) tenet-leakage / constitutional-attractor — P-Q1 (mechanism-specific) is load-bearing for the machine-consciousness verdict despite the matrix marking it "Not invoked" for that cluster (DISTINCTIVE — ChatGPT did not catch this); (2) Birch co-optation firewall violation — apex enlists a substrate-independent computational-functionalist toward a substrate-skeptical conclusion he rejects; (3) Butlin et al. 2023 unengaged (CONVERGENT with ChatGPT); (4) AI-specific P-Q9 unfalsifiability gap (all seam-level falsifiers are biological); (5) P-Q3 mechanism-debt not propagated into the confidence band. Verdict: DEMOTE-TO-COHERENCE-ONLY.
+- **Tasks generated**: 3 — **P1** (tenet-leakage resolution + Birch co-optation repair in the apex; carries direct-refutation remit); **P2** (Butlin-by-name engagement + P-Q3 mechanism-debt + AI-unfalsifiability concession); **P2** (6 site-methodology proposals: co-optation firewall v2, matrix-as-hard-gate, mechanism-debt propagation, strongest-rival-engagement, convergence-scope gating, adversarial external-rival pass). Existing same-article ChatGPT P2 task annotated with a convergent-cycle coordination note.
+- **Convergence note**: ≥2-reviewer convergence on (a) unengaged Butlin/indicator-functionalist rival and (b) marking substrate-necessity as framework-internal not a neutral criterion → those findings are P1/P2 not P3. Reviewers DIVERGE on Birch: ChatGPT reads the convergence as a dialectical opportunity, Claude as a co-optation violation. Both 06-25 entries now processed → combine-outer-reviews is eligible to fire this cycle.
+- **Note**: Claude's tenet-leakage finding is the strongest single catch of the cycle and is source-verified, not taken on the reviewer's word. The reviewer slightly overstated Rec (a)8 (the concept-page disclosure already exists) — captured in the review's Verification Notes.
+
 ## 2026-06-25T04:05:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

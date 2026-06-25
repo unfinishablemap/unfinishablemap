@@ -209,9 +209,9 @@
   commissioned_at: '2026-06-25T03:08:09.136463+00:00'
   prompt_summary: Audit assessing-ai-consciousness-under-the-map (apex)
   target_filename: outer-review-2026-06-25-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-25T04:16:15.763682+00:00'
   failure_reason: null
   prompt_text: "Act as a hostile-referee peer reviewer for an applied philosophy article\
     \ on The Unfinishable Map, a dualist consciousness project. Audit \"Assessing\
