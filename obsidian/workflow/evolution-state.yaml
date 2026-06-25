@@ -2,14 +2,14 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T06:33:50.318380+00:00'
-session_count: 13209
+last_updated: '2026-06-25T06:45:22.940038+00:00'
+session_count: 13210
 cycle_position: 9936
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T01:05:34.272164+00:00'
   optimistic-review: '2026-06-25T01:58:23.580918+00:00'
-  check-tenets: '2026-06-24T13:33:55.015086+00:00'
+  check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T06:31:21.841651+00:00'
   deep-review: '2026-06-25T04:29:53.876439+00:00'
   tune-system: '2026-06-22T20:13:49.638019+00:00'
@@ -126,10 +126,6 @@ recent_tasks:
   type: collect-gemini-review
   date: '2026-06-25'
   outcome: success
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-06-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: research-voids
   type: research-voids
+  date: '2026-06-25'
+  outcome: success
+- task: check-tenets
+  type: check-tenets
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1157,22 +1157,24 @@ agentic_social:
     - hard-problem-of-consciousness
     - agent-causation
 tune_system_history:
-  last_run: '2026-06-22T20:11:57+00:00'
+  last_run: '2026-06-25T06:49:51+00:00'
   changes_applied: []
-  note: '0 Tier-1 changes (5th consecutive OVER-FREQUENCY fire 06-16/06-18/06-19/06-21/06-22;
-    every-6-cycles trigger outpaces 30d cadence; ~1.4d since last run = no evidence
-    threshold; no in-file Tier-1 surface, cadences/thresholds live in code). HEALTHY:
-    0 critical, 1/20 failed (transient server-side API rate-limit on check-tenets
-    tenet-scan subagents, not a fault), convergence stable. Tier-2 (5th): gate tune-system
-    on its 30d cadence (move off the every-6-cycles trigger). Tier-3 corroborated
-    this /loop session (~70 iters): queue LIFO starvation hit + fixed TWICE (embodied-interface
-    chain-successors ~20cyc; Torres-Alegre standing P2s interface-spec+delegatory
-    ~16 runs; both P2->P1 promoted - durable fix is bottom-insert mints or FIFO-age
-    selector); forked-skill post-delegation yield-before-report (coalesce/deep-review/check-tenets/apex-evolve
-    - reconstruct from git); apex-evolve expanded human-deferred over-ceiling machine-question
-    5001->5200w (reverted); check-links 23 distinct broken targets (11 dangling +
-    12 wrong-section converter slug-collision); cosmetic-drift cycle-slot re-review
-    churn. Report reviews/system-tune-2026-06-22.'
+  note: '0 Tier-1 changes (6th consecutive OVER-FREQUENCY fire 06-16/06-18/06-19/06-21/06-22/06-25;
+    every-6-cycles trigger outpaces 30d cadence; ~2.5d since last run = sub evidence
+    threshold; no in-file Tier-1 surface -- no cadences/overdue_thresholds/locked_settings/replenishment_config
+    keys exist, they live in code). HEALTHY: 0 critical, 0/20 recent_tasks failed,
+    0/40 changelog Status non-success, convergence stable-to-growing (topics 281,
+    concepts 270, voids 101, positions 8, apex 38). Tier-2 (6th, unchanged): gate
+    tune-system on its 30d wall-clock cadence (move off the every-6-cycles trigger)
+    so runs can meet their own 5-session evidence threshold. Tier-3 corroborated this
+    /loop session: (a) collect-review no-backoff monopoly -- 13 consecutive collect-gemini-review
+    entries, stuck-at-launch Gemini DR mark_abandoned at ~2h to unblock combine
+    (collect-review-no-backoff-monopolizes); (b) check-tenets fork sub-delegation
+    stall + 3/4 scan subagents died on transient server-side rate-limit, orchestrator
+    retried + synthesized clean (567 articles, 0 violations); (c) outer-review 3-way
+    pipeline ran end-to-end, combined 2/3, 2 findings P2->P1, apex framework-coherence
+    fixes executed; (d) ~7 web-verified citation defects caught + 1 fork false-fix
+    reverted (Berut page-range). Report reviews/system-tune-2026-06-25.'
 queue_status:
   p0_tasks: 0
   p1_tasks: 0

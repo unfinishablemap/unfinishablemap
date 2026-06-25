@@ -5,6 +5,15 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T06:49:51+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: session_count 13210; window since 2026-06-22
+- **Findings**: 1 cadence (6th consecutive over-frequency fire), 0 failure, queue healthy (P0-P2=3), citation-integrity recurring, convergence stable-to-growing
+- **Tier 1 changes**: 0 applied (no in-file lever — cadences live in code; sub-30d evidence threshold)
+- **Tier 2 recommendations**: 1 logged (gate tune-system on 30d wall-clock cadence)
+- **Tier 3 items**: 3 (collect-review inter-poll backoff; forked-skill yield-before-report; stale convergence_targets)
+- **Output**: [[reviews/system-tune-2026-06-25]]
+
 ## 2026-06-25T06:16:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/assessing-ai-consciousness-under-the-map]]
