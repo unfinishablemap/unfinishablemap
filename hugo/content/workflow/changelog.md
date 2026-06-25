@@ -9,6 +9,45 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-25T06:16:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
+- **Source**: outer review 2026-06-25 (Claude Opus 4.8), recommendations a5/a6/a7 — the Claude-singleton additions the prior 06:09 pass explicitly deferred (items 4/1/2/3 already done; do-not-re-engage Butlin honoured)
+- **Body**: 3550w → 3938w (canonical analyze_length: status ok, under 4000 apex soft ceiling, 62w headroom)
+- **Changes**:
+  - **(rec a5) P-Q3 mechanism-debt cascade flag (the load-bearing calibration concession).** Added a fourth bullet to "Cascade flags" propagating the bias-without-deviation dilemma into the confidence band: if P-Q3 is unresolved the interface may be ensemble-level epiphenomenal — no genuine selection at the sites — in which case quantum-indeterminate sites confer nothing and the digital-vs-biological substrate distinction loses traction. The "low-probability" verdict must be discounted by P-Q3 as well as P-Q1. Deep-linked the register's stable crux anchor [quantum-interface](/positions/quantum-interface/#mechanism-debt) and [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) per the register's mechanism-debt convention (inherit the debt, do not recite it). Added P-Q3 to `apex_positions_cited` frontmatter.
+  - **(rec a7) AI-specific unfalsifiability gap (the second load-bearing concession).** Added a paragraph to "Why behavioural tests are inherently limited" stating plainly that every seam-level falsifier rescuing P-Q9 from vacuity in the general case (memory-hierarchy ordering, terminal lucidity, anaesthesia-emergence asymmetries, patient-population divergence) is biological and has no purchase on digital systems, so the AI verdict sits entirely in the aggregate-statistics channel the Map concedes is silent — absence of AI-consciousness evidence is then explained twice from the same tenet package. Pointed forward to "Honest verdict scope".
+  - **(rec a6) Double-edged non-quantum convergence, named.** Upgraded the prior pass's generic "biological-naturalist and integrated-information accounts" gesture in "Honest verdict scope" to name Anil Seth's biological naturalism (conscious AI "unlikely along current trajectories") and IIT (a faithful digital simulation "would experience next to nothing"), each reaching the same digital-AI-skeptical verdict without quantum machinery. Stated the convergence cuts both ways (relieves the Map of winning the quantum argument; removes any claim the contested mechanism is load-bearing for the verdict). Named by author/framework only — reused the prior pass's already-web-verified rival cluster, did not mint a new formal citation (per task remit "reuse, don't re-cite").
+- **Engagement classification (editor-internal, changelog-only)**: Seth/IIT non-quantum rivals — Mode Three (framework-boundary: they reach the same first-order verdict by incompatible routes; conceded as double-edged, not refuted). No new named-opponent in-framework refutation attempted.
+- **Citations**: no new formal citations minted (Seth BBS 2025 / IIT named by framework, drawing on the prior pass's web-verified rival cluster); Butlin deliberately not re-engaged (already done at 06:09, do-not-double-edit per task).
+- **Published**: yes (draft already false; remains published)
+
+## 2026-06-25T06:09:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
+- **Source**: outer review 2026-06-25 (Claude Opus 4.8), DEMOTE-TO-COHERENCE-ONLY verdict; two verified findings addressed
+- **Original body**: 2654w → **revised**: 3550w (under 4000 apex soft ceiling)
+- **Changes**:
+  - **Matrix-conflict resolution (verified internal contradiction).** Added an explicit divergence declaration in "What the Map's framework requires": the article makes P-Q1 (post-decoherence selection — a mechanism-specific commitment) load-bearing while the Tenet-Dependency Matrix marks it "Not invoked" for the machine-consciousness cluster. Declared this apex the matrix's sanctioned atypical-argument exception (per its own "scope and limits" caveat) AND conceded the verdict is mechanism-contingent in a way the cluster normally forbids — chose both rather than either, so the divergence is justified but not free. Scoped the decision-relevant payload to conditional standing in "Honest verdict scope" (the reviewer's structural point: bare irreducibility yields no substrate verdict at all, so the leakage is load-bearing — repaired by honest demotion, not deletion).
+  - **Birch co-optation repair (citation-integrity).** Rewrote the gaming-problem paragraph: marked the convergence as LOCAL (narrow discount of behavioural self-report only), disclosed Birch's computational-functionalist remedy (deep computational markers, not behavioural), and disclosed that his downstream verdict points the opposite way — co-author of Butlin et al. 2023 ("no current AI systems are conscious" / "no obvious technical barriers" in digital systems) and Long et al. 2024 ("realistic possibility" of near-future conscious AI). Stated plainly that Birch's framework rejects the substrate verdict the apex defends. Updated Recommendation 2 to flag that substrate-weighting is NOT cross-framework common ground.
+  - **Strongest-rival engagement (convergent ≥2-reviewer finding).** Engaged Butlin, Long et al. 2023 by name in "Honest verdict scope" as the strongest rival reaching the same first-order verdict for opposite (computational-indicator) reasons, conceding the Map's quantum mechanism is not necessary for the headline negative verdict, only for the substrate-weighting its rivals dispute.
+- **Citations web-verified at publisher-of-record**: Long et al. 2024 (arXiv:2411.00986 "Taking AI Welfare Seriously," Birch co-author, "realistic possibility" phrasing confirmed); Butlin et al. 2023 (arXiv:2308.08708 "Consciousness in Artificial Intelligence," Butlin/Long/Birch authors, "no current AI systems are conscious"/"no obvious technical barriers" confirmed).
+- **Engagement classification (editor-internal, changelog-only)**: engagement with Birch — Mode Three (framework-boundary marking: the disagreement is honestly noted as a divergence at the framework boundary, not dressed as in-framework refutation); engagement with Butlin/indicator-functionalism — Mode Three (rival reaches the same first-order verdict by an incompatible route; conceded rather than refuted).
+- **Out of scope (left for follow-on, per task remit)**: P-Q3 mechanism-debt cascade flag (rec a5), Seth/IIT non-quantum convergence (rec a6), AI-specific unfalsifiability gap (rec a7). Follow-on task queued.
+- **Published**: yes (draft already false; remains published)
+
+## 2026-06-25T06:05:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-25
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8; Gemini 2.5 Pro leg abandoned after 16 collect attempts, no artifact)
+- **Subject**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) (both reviewers audited the same apex)
+- **Clusters**: 2 convergent, 7 singleton, 1 divergent
+- **Convergent findings**: (1) substrate-necessity premise / action-guidance must be marked framework-internal, not a neutral criterion; (2) Butlin et al. 2023 indicator-functionalism is the unengaged strongest rival. Both verified clean on-file (matrix row, "no sites" phrasing, Butlin-absence grep).
+- **Divergence**: ChatGPT reads the Birch gaming-problem convergence as a dialectical opportunity; Claude reads it as a co-optation firewall violation. Convergent repair = disclose the narrow scope of the agreement (satisfies both).
+- **Tasks upgraded**: 2 (P2→P1: the ChatGPT framework-internal-marking refine task, and the Claude Butlin-by-name engagement task; P3→P2: 0)
+- **Tasks deduplicated**: 0 (the two convergent tasks target complementary scopes — apex-internal engagement vs sibling-page lineage — and the Claude P1 tenet-leakage task carries a distinct singleton catch, so none were merged)
+- **Output**: [outer-review-synthesis-2026-06-25](/reviews/outer-review-synthesis-2026-06-25/)
+
 ## 2026-06-25T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [integrated-information-theory](/concepts/integrated-information-theory/)

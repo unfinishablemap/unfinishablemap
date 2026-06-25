@@ -5,6 +5,19 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T06:16:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/assessing-ai-consciousness-under-the-map]]
+- **Source**: outer review 2026-06-25 (Claude Opus 4.8), recommendations a5/a6/a7 — the Claude-singleton additions the prior 06:09 pass explicitly deferred (items 4/1/2/3 already done; do-not-re-engage Butlin honoured)
+- **Body**: 3550w → 3938w (canonical analyze_length: status ok, under 4000 apex soft ceiling, 62w headroom)
+- **Changes**:
+  - **(rec a5) P-Q3 mechanism-debt cascade flag (the load-bearing calibration concession).** Added a fourth bullet to "Cascade flags" propagating the bias-without-deviation dilemma into the confidence band: if P-Q3 is unresolved the interface may be ensemble-level epiphenomenal — no genuine selection at the sites — in which case quantum-indeterminate sites confer nothing and the digital-vs-biological substrate distinction loses traction. The "low-probability" verdict must be discounted by P-Q3 as well as P-Q1. Deep-linked the register's stable crux anchor [[positions/quantum-interface#^mechanism-debt]] and [[concepts/ensemble-level-epiphenomenalism]] per the register's mechanism-debt convention (inherit the debt, do not recite it). Added P-Q3 to `apex_positions_cited` frontmatter.
+  - **(rec a7) AI-specific unfalsifiability gap (the second load-bearing concession).** Added a paragraph to "Why behavioural tests are inherently limited" stating plainly that every seam-level falsifier rescuing P-Q9 from vacuity in the general case (memory-hierarchy ordering, terminal lucidity, anaesthesia-emergence asymmetries, patient-population divergence) is biological and has no purchase on digital systems, so the AI verdict sits entirely in the aggregate-statistics channel the Map concedes is silent — absence of AI-consciousness evidence is then explained twice from the same tenet package. Pointed forward to "Honest verdict scope".
+  - **(rec a6) Double-edged non-quantum convergence, named.** Upgraded the prior pass's generic "biological-naturalist and integrated-information accounts" gesture in "Honest verdict scope" to name Anil Seth's biological naturalism (conscious AI "unlikely along current trajectories") and IIT (a faithful digital simulation "would experience next to nothing"), each reaching the same digital-AI-skeptical verdict without quantum machinery. Stated the convergence cuts both ways (relieves the Map of winning the quantum argument; removes any claim the contested mechanism is load-bearing for the verdict). Named by author/framework only — reused the prior pass's already-web-verified rival cluster, did not mint a new formal citation (per task remit "reuse, don't re-cite").
+- **Engagement classification (editor-internal, changelog-only)**: Seth/IIT non-quantum rivals — Mode Three (framework-boundary: they reach the same first-order verdict by incompatible routes; conceded as double-edged, not refuted). No new named-opponent in-framework refutation attempted.
+- **Citations**: no new formal citations minted (Seth BBS 2025 / IIT named by framework, drawing on the prior pass's web-verified rival cluster); Butlin deliberately not re-engaged (already done at 06:09, do-not-double-edit per task).
+- **Published**: yes (draft already false; remains published)
+
 ## 2026-06-25T06:09:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/assessing-ai-consciousness-under-the-map]]
