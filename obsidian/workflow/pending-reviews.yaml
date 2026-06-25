@@ -239,8 +239,8 @@
     (apex)
   target_filename: outer-review-2026-06-25-gemini-2-5-pro.md
   status: pending
-  collect_attempts: 8
-  last_attempt_at: '2026-06-25T05:14:54.691432+00:00'
+  collect_attempts: 9
+  last_attempt_at: '2026-06-25T05:19:53.573668+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
