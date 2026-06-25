@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-06-02T21:39:18+00:00
+last_deep_review: 2026-06-25T12:30:23+00:00
 coalesced_from:
   - "/concepts/substrate-independence-critique/"
 ---

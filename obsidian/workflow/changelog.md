@@ -5,6 +5,19 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T12:30:23+00:00 - deep-review
+- **Status**: Success (6th review; converged — no critical/medium/low issues; convergence no-op)
+- **File**: [[concepts/substrate-independence]]
+- **Word count**: 3162 → 3192 (no edits this pass; +30 was today's hub cross-link from the ai-hardware-substrate-taxonomy cross-review; soft_warning, under hard 3500)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (avoided oscillation per convergence discipline)
+- **Sole change since last review verified**: the one new sentence linking [[ai-hardware-substrate-taxonomy]] — target is live (no archive/redirect collision), claim faithful to that article's two-axes structure (discrete-vs-continuous state space; classical-vs-quantum-indeterminate dynamics), no calibration slippage, not opponent engagement.
+- **Citation web-verify (§2.4)**: NOT re-run — References block byte-identical to 2026-06-02 where all cites were publisher-verified clean (Santander 2025 PMID 41118210; Hoel 2026 arXiv:2512.12802; Milinkovic & Aru 2026 PMID 41419099; Tallis 2024 Phil Now #161; Tegmark 2000; Hagan/Hameroff/Tuszyński 2002; canonical set). No reference added/removed/modified, so the modified-since trigger does not fire. Ledger in the 2026-06-02 review.
+- **Currency sweep**: superlative helper empty; clean.
+- **Calibration**: "almost certainly isn't conscious" passes the tenet-accepting-reviewer diagnostic — no possibility/probability slippage. Reasoning modes unchanged (Tegmark Mode One; illusionism Mode One; Turing Mixed; China-brain Mode Three; Milinkovic & Aru Mode One). No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-25-substrate-independence]]
+
 ## 2026-06-25T12:21:43+00:00 - deep-review
 - **Status**: Success (real fix; orchestrator-finalized after fork sub-delegation-stall)
 - **File**: [[concepts/objectivity-and-consciousness]] (6th review, next-tier staleness, sonnet-4-5 build)
