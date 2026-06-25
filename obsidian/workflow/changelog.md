@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T16:09:21+00:00 - deep-review
+- **Status**: Success (staleness re-review — near-no-op: 1 cliché + 1 borderline citation year)
+- **File**: [[topics/diachronic-agency-and-personal-narrative]]
+- **Word count**: 2610 → 2610 (ok, well under 4000 hard)
+- **Critical issues addressed**: 0; **fixes**: (1) banned "This is not X. It is Y." cliché ("is not incidental... It is constitutive" → "is constitutive of... not incidental to it"); (2) Velleman "The Self as Narrator" citation year 2005 → 2006 (Self to Self collection print year; 2005 was the LC CIP pre-date).
+- **Summary**: Orchestrator-finalized after the deep-review fork monitor-wait-bailed; its citation subagent completed ~2.5 min later, two falsifiable cites independently corroborated by orchestrator WebSearch (Velleman year, Tulving locator). §2.4 publisher-of-record verify: 7/8 references real-correct, all 4 inline attributions faithful — markedly cleaner than the sibling phenomenology-of-resistance (all canonical 1981–2009 works, no recent/preprint cites). Calibration clean. ai_modified + last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-06-25-diachronic-agency-and-personal-narrative]]
+
 ## 2026-06-25T15:57:00+00:00 - deep-review
 - **Status**: Success (staleness re-review — 4 real citation defects fixed + 1 cliché; converged ≠ verified)
 - **File**: [[topics/phenomenology-of-resistance-across-domains]]
