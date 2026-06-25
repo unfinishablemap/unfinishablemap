@@ -5,6 +5,16 @@ ai_modified: 2026-06-25T02:36:34+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T02:42:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/nomic-void]]
+- **Word count**: 1,854 → 1,890 (+36; 94% of 2,000 voids soft target — length-neutral)
+- **Critical issues addressed**: 1 (Witten citation wrong-source: "Brockman 1996" → Wim Kayzer interview 2014; Third Culture is 1995 and excludes Witten — closes item deferred in both prior reviews)
+- **Medium issues addressed**: 3 (Bérut 2012 pages 187-189 → 187-190; Yanofsky 2017 orphan reference resolved via inline cite; Carroll 2021 metadata enhanced with JCS 28(9-10):16-31)
+- **Enhancements made**: 4
+- **Verification**: First publisher-of-record §2.4 web-verify on this article (neither prior deep review did one — both were intra-corpus only). Full 11-cite ledger in review file: Landauer/Bremermann/Kant/Wolfram/Chomsky(verbatim quote)/Wheeler/Chalmers/Yanofsky all real-correct; Bérut page-range and Witten source corrected; Carroll metadata enhanced. Bremermann figure ~1.36×10⁵⁰ bits/s/kg verified (c²/h). find_superlative_claims → none. All wikilinks resolve, no archived targets. Calibration clean (open-question framing, no possibility/probability slippage). Engagement modes: Carroll = Mode Three (framework-boundary, honestly declared); no label leakage. Argument converged across 3 reviews — every fix was a citation-metadata defect intra-corpus review ratified rather than caught.
+- **Output**: [[reviews/deep-review-2026-06-25-nomic-void]]
+
 ## 2026-06-25T02:36:34+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/grain-mismatch-as-independent-evidence]]
