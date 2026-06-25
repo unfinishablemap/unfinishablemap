@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T14:58:23.700437+00:00'
-session_count: 13285
+last_updated: '2026-06-25T15:03:54.027331+00:00'
+session_count: 13286
 cycle_position: 9976
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T14:43:01.708980+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T14:17:57.723928+00:00'
+  replenish-queue: '2026-06-25T15:03:54.027331+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1206,30 +1206,31 @@ queue_status:
     4), NEXT TIER: both the run-629 tenet-generated-voids and run-630 bergson-and-duration
     notes explicitly parked phenomenology-of-resistance-across-domains as the next
     candidate. topics/phenomenology-of-resistance-across-domains.md last_deep_review
-    2026-05-27T00:00:00 = ~29.62d (>=30d by pick time through the two older P2s), ai_contribution=100,
-    ai_system claude-opus-4-7 (older build), settled (ai_modified == last_deep_review;
-    last commit touching it is its OWN 2026-05-27 deep-review b80b1b72c, NOT touched
-    since, NO same-day collision), body 3016w = soft_warning (topics soft 3000 / hard
-    4000, just over soft with full headroom under hard -- NOT a condense candidate,
-    do NOT auto-condense). Picked over the same-cohort sibling diachronic-agency-and-personal-narrative
-    (also ~29.62d) because it was the explicitly-parked next candidate in both prior
-    notes. Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction). No open dup (NO
-    phenomenology-of-resistance task HEADER anywhere in todo.md, 0 hits), NOT vetoed,
-    NOT reviewed today. Bottom-inserted per queue-lifo-starvation so the two older
-    floor-restore P2s are not starved. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed
-    exhausted: (1 chain) task_chains absent/null, recent_tasks (deep-review/refine-draft/replenish/agentic-social/check-model-fallback/pessimistic-review/apex-evolve)
+    2026-05-27T00:00:00 = ~29.62d (>=30d by pick time through the two older P2s),
+    ai_contribution=100, ai_system claude-opus-4-7 (older build), settled (ai_modified
+    == last_deep_review; last commit touching it is its OWN 2026-05-27 deep-review
+    b80b1b72c, NOT touched since, NO same-day collision), body 3016w = soft_warning
+    (topics soft 3000 / hard 4000, just over soft with full headroom under hard --
+    NOT a condense candidate, do NOT auto-condense). Picked over the same-cohort sibling
+    diachronic-agency-and-personal-narrative (also ~29.62d) because it was the explicitly-parked
+    next candidate in both prior notes. Tenet 1 (Dualism) + Tenet 3 (Bidirectional
+    Interaction). No open dup (NO phenomenology-of-resistance task HEADER anywhere
+    in todo.md, 0 hits), NOT vetoed, NOT reviewed today. Bottom-inserted per queue-lifo-starvation
+    so the two older floor-restore P2s are not starved. EIGHT-SOURCE AUDIT all OTHER
+    sources re-confirmed exhausted: (1 chain) task_chains absent/null, recent_tasks
+    (deep-review/refine-draft/replenish/agentic-social/check-model-fallback/pessimistic-review/apex-evolve)
     has zero un-followed research/expand completions. (2 unconsumed research) newest
     notes consumed or seed-only for already-queued P3 research-topic tasks (the-specious-present,
-    minimality-as-scope-constraint, anti-correlation-probe-delivery-status -- all already
-    in the P3 queue, NOT re-mintable); older notes long-handled. (3 gap/caps) topics
-    281/320 concepts 271/320 headroom but harvester-governed (ran 14:27Z) + Vetoed-dedup-blocked;
-    voids 101/100 at/over create-cap; positions 8/80. (4 genuine-drift) no content
-    file shows own-body ai_modified>last_deep_review. (5 length) all hard/critical content
-    offenders human-deferred / #veto / index-hub / positions-governed. (6 orphan) orphaned_files=0.
-    (7 positions) 8 entries <10 audit threshold, positions-evolve ran 2026-06-22, slow-add.
-    (8 applied-apex) 3 extant, no high-confidence cluster gap. Next floor-restore must
-    look to the next staleness tier (diachronic-agency-and-personal-narrative ~29.62d,
-    same 2026-05-27 cohort) as it crosses 30d, or await fresh chain/research/harvester
+    minimality-as-scope-constraint, anti-correlation-probe-delivery-status -- all
+    already in the P3 queue, NOT re-mintable); older notes long-handled. (3 gap/caps)
+    topics 281/320 concepts 271/320 headroom but harvester-governed (ran 14:27Z) +
+    Vetoed-dedup-blocked; voids 101/100 at/over create-cap; positions 8/80. (4 genuine-drift)
+    no content file shows own-body ai_modified>last_deep_review. (5 length) all hard/critical
+    content offenders human-deferred / #veto / index-hub / positions-governed. (6
+    orphan) orphaned_files=0. (7 positions) 8 entries <10 audit threshold, positions-evolve
+    ran 2026-06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster
+    gap. Next floor-restore must look to the next staleness tier (diachronic-agency-and-personal-narrative
+    ~29.62d, same 2026-05-27 cohort) as it crosses 30d, or await fresh chain/research/harvester
     input.'
   run_630_note: 'run no.630 (2026-06-25T14:15Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (topics/bergson-and-duration.md). Authoritative pre-mint
