@@ -4,8 +4,8 @@ description: "Consciousness requires temporal structure to exist. Time's arrow m
 created: 2026-02-01
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-06-19T08:20:00+00:00
-last_deep_review: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-25T01:11:39+00:00
+last_deep_review: 2026-06-25T01:11:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
