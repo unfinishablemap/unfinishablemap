@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-25T15:09:33.863051+00:00'
-session_count: 13287
-cycle_position: 9977
+last_updated: '2026-06-25T15:13:23.154844+00:00'
+session_count: 13288
+cycle_position: 9978
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T13:12:17.304952+00:00'
   optimistic-review: '2026-06-25T14:24:29.372151+00:00'
   check-tenets: '2026-06-25T06:45:22.940038+00:00'
   check-links: '2026-06-25T06:31:21.841651+00:00'
-  deep-review: '2026-06-25T14:58:23.700437+00:00'
+  deep-review: '2026-06-25T15:13:23.154844+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-25T06:33:50.318380+00:00'
   coalesce: '2026-06-25T15:09:33.863051+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5769
+  reviews_completed: 5770
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-25'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-06-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-25'
   outcome: success
 agentic_social:
@@ -1186,9 +1186,58 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 631
-  last_replenishment: '2026-06-25T15:00:00+00:00'
+  last_replenishment_run: 632
+  last_replenishment: '2026-06-25T15:15:00+00:00'
   last_replenishment_mode: standard
+  run_632_note: 'run no.632 (2026-06-25T15:15Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (topics/diachronic-agency-and-personal-narrative.md). Authoritative
+    pre-mint tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two
+    open P2s: topics/bergson-and-duration.md run-630 + topics/phenomenology-of-resistance-across-domains.md
+    run-631 staleness deep-reviews, both settled, last_deep_review 2026-05-26/05-27,
+    last commit each file own 2026-05-26/05-27 review, NOT touched today; the 3 veto
+    condense tasks correctly selector-excluded; the 8 P3s do not count toward the floor).
+    MIN_QUEUE floor 3 (cycle_pick.MIN_QUEUE_TASKS=3) unmet by 1; this mint restores
+    2 to 3 (POST-MINT count_p0_p2_tasks = 3 confirmed via task_selector; top pick still
+    topics/bergson-and-duration.md so the bottom-insert did NOT starve the two older
+    floor-restore P2s; drain order bergson-and-duration to phenomenology-of-resistance-across-domains
+    to diachronic-agency-and-personal-narrative). The run-629 voids/tenet-generated-voids.md
+    floor task was PICKED + executed since run-631 (now in Completed), dropping the
+    live floor back to 2 -- expected replenish-at-floor alternation, NOT the fixed
+    deadlock. SOURCE = staleness (Source 4), NEXT TIER: both the run-630 bergson-and-duration
+    and run-631 phenomenology-of-resistance-across-domains notes explicitly parked
+    diachronic-agency-and-personal-narrative as the next candidate. topics/diachronic-agency-and-personal-narrative.md
+    last_deep_review 2026-05-27T00:00:00 = ~29.64d (>=30d by pick time through the
+    two older P2s), ai_contribution=100, ai_system claude-opus-4-6 (older build), settled
+    (ai_modified == last_deep_review; last commit touching it is its OWN 2026-05-27
+    deep-review 14597f453, NOT touched since, NO same-day collision), body 2610w = ok
+    (topics soft 3000 / hard 4000, full headroom -- NOT a condense candidate, do NOT
+    auto-condense). Picked over the same-cohort siblings (delegation-meets-quantum-selection,
+    consciousness-and-the-ontology-of-temporal-becoming, samkhya-three-way-distinction,
+    phenomenology-of-linguistic-failure -- all ~29.6d 2026-05-27) because it was the
+    explicitly-parked next candidate in both prior notes. Tenet 1 (Dualism) + Tenet
+    3 (Bidirectional Interaction). No open dup (NO diachronic-agency task HEADER in
+    the Active section, 0 open-header hits; the only ### hit is an already-done 2026-05-27
+    deep-review below the Completed header), NOT vetoed, NOT reviewed today. Bottom-inserted
+    per queue-lifo-starvation so the two older floor-restore P2s are not starved. EIGHT-SOURCE
+    AUDIT all OTHER sources re-confirmed exhausted: (1 chain) task_chains absent/null,
+    recent_tasks (deep-review/refine-draft/replenish/agentic-social/check-model-fallback/pessimistic-review/optimistic-review/apex-evolve/coalesce)
+    has zero un-followed research/expand completions. (2 unconsumed research) newest
+    note ai-hardware-substrate-taxonomy-2026-06-25 consumed (live concepts/ article);
+    the three open P3 research-topic seeds (the-specious-present, minimality-as-scope-constraint,
+    anti-correlation-probe-delivery-status) already queued, NOT re-mintable; older notes
+    long-handled. (3 gap/caps) topics 281/320 concepts 271/320 headroom but harvester-governed
+    (ran 14:27Z) + Vetoed-dedup-blocked; voids 101/100 at/over create-cap; positions
+    8/80. (4 genuine-drift) the broad ai_modified > last_deep_review net returns ~140
+    rows but all are cross-touch/cross-link/sync cosmetic churn with CURRENT June last_deep_review
+    stamps -- NONE is an own-body-drift case older than the 2026-05-27 staleness pick;
+    staleness Source-4 cleanly outranks every drift candidate. (5 length) all hard/critical
+    content offenders human-deferred / veto / index-hub / positions-governed. (6 orphan)
+    orphaned_files=0. (7 positions) 8 entries <10 audit threshold, positions-evolve
+    ran 2026-06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster
+    gap. Next floor-restore must look to the next staleness tier (delegation-meets-quantum-selection
+    / consciousness-and-the-ontology-of-temporal-becoming / samkhya-three-way-distinction
+    / phenomenology-of-linguistic-failure, all ~29.6d 2026-05-27 cohort) as they cross
+    30d, or await fresh chain/research/harvester input.'
   run_631_note: 'run no.631 (2026-06-25T15:00Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (topics/phenomenology-of-resistance-across-domains.md).
     Authoritative pre-mint tools.evolution.task_selector.count_p0_p2_tasks(content)
