@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-25T09:57:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: AI hardware substrate taxonomy for the consciousness interface
+- **Output**: [[concepts/ai-hardware-substrate-taxonomy]]
+- **Word count**: 2826
+- **Based on research**: yes — [[research/ai-hardware-substrate-taxonomy-2026-06-25]]
+- **Notes**: ASSESS-FIRST decision → CREATE standalone concepts/ page (not enhance the apex). Rationale: the apex's "Where the substrate analysis is open" section is decision-oriented and gives only 3 high-level buckets; the research note found NO existing philosophical taxonomy mapping AI substrates onto consciousness-relevant axes (genuine building-block gap); concepts had headroom (271/320). The page maps six substrates (classical-digital / neuromorphic-analog / photonic / gate-model QC / hybrid / biological-wetware) onto two load-bearing axes (discrete-vs-continuous; classical-determinate vs. operationally-integrated quantum-indeterminate), each row tagged for mere-physical-indeterminacy / operationally-integrated-indeterminacy / interface-candidacy. WEB-VERIFIED at publisher-of-record before citing: Maley 2024 (WIREs Cog Sci 15(4):e1679, PubMed 38655784); Kagan et al. 2022 DishBrain (Neuron 110(23):3952, ~800k neurons/Pong); Cortical Labs CL1 (launched Mar 2025, ~800k human neurons, ~$35k, Wetware-as-a-Service — corrected the research note's "~200k" figure to verified ~800k); Hartung et al. 2023 organoid intelligence (Frontiers in Science 1:1017235). Reused corpus-vetted metadata for Thagard 2022, Milinkovic & Aru 2026, Penrose-Hameroff 1998, Tegmark 2000. Did NOT cite Maguire/Mhalla (unverified per research note). Respected tenet preference ordering: gate-model QC kept distinct from quantum-biology-as-substrate; Orch-OR ranked below post-decoherence selection; photonic claims kept in speculative-mechanism register. QEC notation backtick-wrapped (`[[7,1,3]]`) to avoid wikilink collision. No "This is not X. It is Y." cliché. validate.py clean; all wikilinks resolve; 2 self-citations (substrate-independence, assessing-ai apex). Cross-review successor queued.
+
 ## 2026-06-25T10:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/leibnizs-mill-argument]]
