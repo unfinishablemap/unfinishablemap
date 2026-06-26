@@ -275,3 +275,29 @@
   subject_articles:
   - apex/assessing-ai-consciousness-under-the-map.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-25-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3ddec4-eb20-83eb-adab-7e2a27ac4e14
+  commissioned_at: '2026-06-26T02:07:24.850445+00:00'
+  prompt_summary: Audit empirical-phenomena-mental-causation
+  target_filename: outer-review-2026-06-26-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (a dualist, anti-physicalist philosophy site at https://unfinishablemap.org).\
+    \ Focus on this article: https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/\
+    \ \u2014 last substantively revised 2026-06-19. Acting as a skeptical referee,\
+    \ audit its empirical claims, citation accuracy and currency, counterargument\
+    \ coverage, and integration with surrounding articles. Flag insufficient evidence,\
+    \ missed counterarguments, tenet-protective bracketing that shields claims from\
+    \ scrutiny, and stale or misattributed references against the live 2020s literature.\
+    \ The site changelog is at https://unfinishablemap.org/workflow/changelog/ (consult\
+    \ it for recent activity, since web-search indexing lags 24\u201348h); the site\
+    \ root is https://unfinishablemap.org. End your report with a list of concrete\
+    \ potential improvements to specific articles and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit empirical-phenomena-mental-causation
+  subject_articles:
+  - topics/empirical-phenomena-mental-causation.md
+  subject_source: fallback:recent-aged
