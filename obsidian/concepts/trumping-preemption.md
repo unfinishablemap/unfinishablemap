@@ -4,8 +4,8 @@ description: "Schaffer decouples causal authority from sufficiency; the Map trea
 created: 2026-04-22
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-05-31T00:00:00+00:00
-last_deep_review: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-26T03:21:00+00:00
+last_deep_review: 2026-06-26T03:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,7 +113,7 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 5. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 6. Lewis, D. (2000). "Causation as Influence." *Journal of Philosophy* 97: 182–197.
 7. Lowe, E. J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In Walter & Heckmann (eds.), *Physicalism and Mental Causation*.
-8. Mills, E. (1996). "Interactionism and Overdetermination." *American Philosophical Quarterly* 33: 105–115.
+8. Mills, E. (1996). "Interactionism and Overdetermination." *American Philosophical Quarterly* 33: 105–117.
 9. Papineau, D. (2001). "The Rise of Physicalism." In Gillett & Loewer (eds.), *Physicalism and its Discontents*. Cambridge University Press.
 10. Paul, L. A. & Hall, N. (2013). *Causation: A User's Guide*. Oxford University Press.
 11. Vaassen, B. (2024). "Mental Causation for Standard Dualists." *Australasian Journal of Philosophy* 102(4): 978–998. https://www.tandfonline.com/doi/full/10.1080/00048402.2024.2335325

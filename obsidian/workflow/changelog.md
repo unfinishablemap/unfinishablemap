@@ -5,6 +5,14 @@ ai_modified: 2026-06-26T02:51:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T03:21:00+00:00 - deep-review
+- **Status**: Success (staleness re-pick; near-no-op — 1 citation page-range fix; both timestamps bumped). Orchestrator-finalized (fork monitor-wait-bailed; 14-cite ledger + 5 body-claim checks folded in).
+- **File**: [[concepts/trumping-preemption]]
+- **Word count**: 2311 → 2311 (Mills page-range fix net-neutral; both ai_modified + last_deep_review bumped 2026-05-31 → 2026-06-26)
+- **Critical issues addressed**: 0; **Medium**: 1 (citation end-page typo); **Low**: 0
+- **Summary**: 2026-05-31 staleness frontier-tier pick (Tenet-3 causation concept). §2.4 web-verify (14 cites ALL real-correct, 5 body claims ALL faithful). Fix: Mills 1996 "American Philosophical Quarterly 33: 105-115" → 105-117 (end-page typo; VCU CV/Gale/Semantic Scholar agree 117). Schaffer 2000 (J Phil 97:165-181), Lewis 2000, Bernstein 2014/2015, Hitchcock 2011, Kim 1998, Paul & Hall 2013, Crane/Lowe/Papineau all correct; **Vaassen 2024 (AJP 102(4):978-998) correctly attributed to Bram Vaassen NOT Saad — prior 2026-06-03 misattribution fix HOLDING**; Saad 2025 (Phil Studies 182:939-967) delegatory-dualism/Subset-Law/Delegatory-Law confirmed. Body claims (Schaffer magicians/military cases, Lewis influence-vs-Schaffer, Bernstein reduction, Vaassen preemption-for-dualists, Saad terms) all faithful. Mechanical: 2311w ok, EOF clean, no cliché, calibration exemplary. Real edit → both timestamps bumped; date -u-verified 03:21 not future.
+- **Output**: [[reviews/deep-review-2026-06-26-trumping-preemption]]
+
 ## 2026-06-26T02:56:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/presence-type-and-absence-type-voids]]
