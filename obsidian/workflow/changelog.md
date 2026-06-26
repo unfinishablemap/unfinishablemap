@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T17:49:44+00:00
+ai_modified: 2026-06-26T17:53:23+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T17:53:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/closed-loop-opportunity-execution]]
+- **Original score**: n/a (curate.py review path stale; refine was a code-drift reconciliation against live `tools/evolution/cycle.py`)
+- **Changes**: Reconciled the article's cycle figures against the live `TASK_CYCLE` / `CYCLE_TRIGGERS`, which had drifted since the 2026-05-01 version. (1) Coalesce: slot 21 was converted from coalesce→queue on 2026-04-29b (tune-system, six consecutive abandonments post voids/ saturation), so "Coalesce slots (2 of 24, 8%). Slots 16 and 21" → "Coalesce slot (1 of 24). Slot 16", with a note that the conversion is a worked example of the article's own operational signal (cross-linked to #operational-signals). (2) Queue ratio: "16 of 24, 67%" → "17 of 24, ~71%" throughout (structural-roles bullet + the not-closing remedy bullet). (3) Slot ratio: "16:4:1:1:2" → "17:4:1:1:1" with the component labels spelled out; corrected the worst-case deep-review-gap reasoning (longest non-deep-review run is the slot-20→slot-2-next wraparound, ~90 min) — the prior "max gap 6 / 75–90 min" understated the wraparound. (4) Cycle-trigger table: added the missing `embed-videos` (cadence 1) row and a sentence on why it runs every cycle; "Five cycle-triggers" → "Cycle-triggers". (5) Operational-signals coalesce bullet: noted the abandonment signal has actually fired (the 2026-04-29b cadence reduction). (6) Intro: "deep-review and cross-review slots" → "deep-review slot ... a queued cross-review task" (cross-review is a queue task type, not a dedicated slot). No argument changed; the 2026-04-29 demonstration-arc narrative left intact as accurate history. All 14 wikilink targets verified to resolve.
+- **Length**: body 2177w → ~2305w (status: ok; soft 2500, hard 3500). +128w, all reconciliation/clarification; no `draft` flip.
+- **Published**: yes
 
 ## 2026-06-26T17:49:44+00:00 - refine-draft
 - **Status**: Success
