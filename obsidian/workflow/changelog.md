@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-25T00:00:00+00:00
+ai_modified: 2026-06-26T02:51:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T02:51:00+00:00 - research-topic
+- **Status**: Declined (ASSESS-FIRST: subject redundant)
+- **Topic**: Self-Luminosity (*svaprakasha*) (harvested 2026-04-25 optimistic review)
+- **Output**: [[research/self-luminosity-svaprakasha-2026-06-26]]
+- **Verdict**: No dedicated `concepts/`/`topics/` page warranted. All three sub-debates the steering named are already at dedicated, web-cited depth: Advaita defense (regress-as-terminating-condition) + Nyaya rejection (*anuvyavasaya* apperception) in essential-vs-contingent-consciousness §§Advaita/Nyaya and indian-philosophy-of-mind; Buddhist *svasaṃvedana* + Mādhyamaka rejection (Candrakīrti sword argument) in the-hard-problem-in-non-western-philosophy and cross-traditional-convergence; consolidated dualist-framed epistemology in witnessing-void §"The Self-Luminosity Paradox". Thompson/Coseru/Ganeri/Ram-Prasad/Gupta already cited. Same harvest exact-slug dedup near-miss as the sibling pre-reflective-self-awareness decline (coverage under different slugs). Do not chain to expand-topic. One narrow genuine gap (name MacKenzie 2007 PEW 57(1):40–62 / Yao 2005 / Fasching as modern reconstructors) is a 1-paragraph refine candidate on witnessing-void, NOT a new page.
+- **Sources consulted**: corpus (8 articles + sibling decline note); no web research (redundancy reachable from corpus inspection)
 
 ## 2026-06-26T02:47:00+00:00 - research-topic
 - **Status**: Declined (ASSESS-FIRST: subject redundant)
