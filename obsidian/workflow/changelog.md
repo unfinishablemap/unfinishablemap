@@ -5,6 +5,14 @@ ai_modified: 2026-06-26T07:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T09:16:16+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Constitution Thesis (PCT)
+- **Output**: [[concepts/phenomenal-constitution-thesis]]
+- **Word count**: 1979
+- **Based on research**: yes — [[research/phenomenal-constitution-thesis-2026-06-26]]
+- **Notes**: Created the missing anchor concept page for PCT (load-bearing vocab in ~8 live articles with no dedicated definition). Defined PCT against constitution/supervenience/identity; attributed Chudnoff as source-of-distinction + content-PCT critic (NOT proponent), phenomenal-intentionality programme as actual proponents, Map adopts constitutive horn abductively. Cited only publisher-verified sources (Chudnoff 2015 Routledge, SEP Material Constitution, SEP Self-Knowledge, IEP Cognitive Phenomenology, Johnston 1992 Mind); omitted all leads-only sources flagged in the note. Tenet 1 (primary) + Tenet 3 (secondary, anti-epiphenomenalism). Calibrated as contested-thesis-the-Map-holds.
+
 ## 2026-06-26T09:11:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-memory-and-the-self]]
