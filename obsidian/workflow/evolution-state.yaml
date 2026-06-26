@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T15:29:05.821600+00:00'
-session_count: 13520
-cycle_position: 10078
+last_updated: '2026-06-26T15:34:00.383972+00:00'
+session_count: 13521
+cycle_position: 10079
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T11:51:35.266598+00:00'
   optimistic-review: '2026-06-26T13:16:18.899602+00:00'
   check-tenets: '2026-06-25T22:30:50.627753+00:00'
   check-links: '2026-06-26T03:31:58.709312+00:00'
-  deep-review: '2026-06-26T15:19:23.816058+00:00'
+  deep-review: '2026-06-26T15:34:00.383972+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-26T03:34:29.002912+00:00'
   coalesce: '2026-06-26T14:14:00.846597+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5855
+  reviews_completed: 5856
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1160,14 +1160,48 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 14
+  p3_tasks: 15
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 685
-  last_replenishment: '2026-06-26T14:40:00+00:00'
+  last_replenishment_run: 688
+  last_replenishment: '2026-06-26T15:29:00+00:00'
   last_replenishment_mode: standard
+  run_688_note: 'run no.688 (2026-06-26T~15:29Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/african-philosophy-of-consciousness.md). Authoritative
+    pre-mint count_p0_p2_tasks=2 via tools.evolution.task_selector.count_p0_p2_tasks(content)
+    live -- the two open P2 floor-restores apophatic-approaches run-686 + indian-philosophy-of-mind
+    run-687 (the three veto condense tasks are parser-excluded, the 15 P3s do not
+    count toward the floor). MIN_QUEUE floor 3 unmet by 1; this mint restores 2->3
+    (post-mint count_p0_p2_tasks==3 verified live). SOURCE = staleness (Source 4),
+    advancing within the 2026-05-31 PLACEHOLDER TIER -- FIFO-next by review-commit
+    time after apophatic-approaches (22:37) and indian-philosophy-of-mind (23:06):
+    concepts/african-philosophy-of-consciousness @ review-commit 2026-05-31T23:47:34.
+    VERIFIED settled+clean: last_deep_review==ai_modified==2026-05-31T23:45:53 (no
+    own-body drift), last commit 068fb073d is its OWN stamp-setting deep-review, NOT
+    touched today (0 commits since 2026-06-26T00:00), NO same-day collision, NOT archived/vetoed,
+    no open duplicate header; aic=100, ai_system=claude-opus-4-6 (older model = fresh-eyes
+    + citation-defect-rich, do not assume no-op). body 1819w (concepts soft 2500/hard
+    3500 -- well under, length-neutral review, NOT a condense candidate). EIGHT-SOURCE
+    AUDIT all OTHER sources INDEPENDENTLY re-verified exhausted this run (NOT trusting
+    prior notes per replenish-false-exhaustion-mislabeled-drift): (1 chain) consumed;
+    (2 unconsumed research) re-checked every research note newer than 2026-06-22 against
+    the live corpus -- the apparent slug-misses are all covered via differently-slugged
+    articles per harvest-dedup-singular-plural-nearmiss (letheby->predictive-self-binding-and-the-naturalist-challenge,
+    loss-aversion->negative-valence-asymmetry-and-the-selection-weighting-function,
+    illusionism-functional-seeming->functional-seeming, phenomenal-concept-strategy-update
+    already consumed + says cross-link-dont-create, non-western-physicalist marked
+    consumed) or are DECLINE notes (pre-reflective-self-awareness, self-luminosity-svaprakasha);
+    NONE mintable; (3 gap/caps) topics 281/320 + concepts 272/320 harvester-governed,
+    voids 101/100 over create-cap, positions 8/80 slow-add; (4 genuine-drift) none
+    older than the 2026-05-31 tier; (5 length) all offenders veto/accept-as-survey/human-deferred
+    -- NO clean blind-mintable condense; (6 orphan) orphaned_files=0; (7 positions)
+    8 < 10 audit threshold; (8 applied-apex) no high-confidence cluster gap. Next floor-restore
+    draws from concepts/mysterianism @ 23:50; an honest NO-MINT remains acceptable
+    when no clean candidate exists. BOTTOM-inserted below the two prior floor-restore
+    Active P2s per the queue-lifo-starvation placement corollary so the older floor-restore
+    P2s drain first.'
   run_685_note: 'run no.685 (2026-06-26T~14:40Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (concepts/control-theoretic-will.md). Authoritative pre-mint
     open executable P0-P2 = 2 via count_p0_p2_tasks(content) live (the two open P2
