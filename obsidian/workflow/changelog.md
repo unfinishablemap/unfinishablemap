@@ -5,6 +5,17 @@ ai_modified: 2026-06-26T02:51:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T02:56:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/presence-type-and-absence-type-voids]]
+- **Word count**: 1768 → 1788 (+20)
+- **Critical issues addressed**: 2 (stale internal verbatim quotes attributed to apex [[taxonomy-of-voids]] that the 2026-06-22 apex rewrite removed — both de-quoted to faithful paraphrase matching live apex + sibling [[ineffable-encounter-void]]; one "lack vs excess" gloss re-attributed to the page that actually contains it)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (de-duplicated the reaching-vs-having-had-and-lost contrast)
+- **Citations**: byte-identical to 2026-05-31 full publisher web-verify; legitimate no-op (References unmodified since). No superlatives. Heterophenomenology engagement = Mode Three. No calibration slippage. No EOF/cliché artifact.
+- **Engagement modes**: Dennett/heterophenomenology — Mode Three (framework-boundary marking; concedes deflationary reading, no boundary-substitution)
+- **Output**: [[reviews/deep-review-2026-06-26-presence-type-and-absence-type-voids]]
+
 ## 2026-06-26T02:51:00+00:00 - research-topic
 - **Status**: Declined (ASSESS-FIRST: subject redundant)
 - **Topic**: Self-Luminosity (*svaprakasha*) (harvested 2026-04-25 optimistic review)

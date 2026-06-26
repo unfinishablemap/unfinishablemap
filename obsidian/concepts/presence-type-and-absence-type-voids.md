@@ -4,8 +4,8 @@ description: "Human+AI exploration of a cross-cutting classificatory axis in the
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
-last_deep_review: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-26T02:56:00+00:00
+last_deep_review: 2026-06-26T02:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ last_curated:
 
 The voids catalogued by The Unfinishable Map divide along a structural axis that cross-cuts the familiar [[three-kinds-of-void|unexplored/unexplorable/occluded]] taxonomy. Most voids are **absence-type**: territory is missing, thought reaches and finds nothing, the limit is registered as a lack. A smaller but philosophically crucial class is **presence-type**: consciousness encounters something vivid and consequential whose generating mechanism it cannot inspect, and which dissolves when analytical attention is brought to bear. The distinction is not cosmetic. It predicts different [[compound-failure-signatures|failure signatures]], demands different probing methods, and carries different evidential weight for the Map's [[tenets|dualist commitments]].
 
-The distinction was introduced in passing in the [[taxonomy-of-voids|taxonomy of voids]] apex article, which noted that "most voids in the taxonomy are defined by *absence*—what cannot be thought, introspected, or accessed," while the [[ineffable-encounter-void|ineffable encounter void]] "is defined by *presence*: an excess of meaning and sacred significance that overwhelms the cognitive apparatus designed to handle it." This page formalises the distinction as a classificatory axis and surveys how it redistributes the voids catalogue.
+The distinction was introduced in passing in the [[taxonomy-of-voids|taxonomy of voids]] apex article, which notes that most voids are defined by *absence* while the [[ineffable-encounter-void|ineffable encounter void]] is defined by *presence*—an excess of meaning that overwhelms the cognitive apparatus. The ineffable encounter void page sharpens the same contrast: rather than registering a lack—what cannot be thought, introspected, or accessed—it registers excess, meaning that overwhelms the apparatus designed to handle it. This page formalises the distinction as a classificatory axis and surveys how it redistributes the voids catalogue.
 
 ## The Two Types Defined
 
@@ -85,7 +85,7 @@ The phenomenology is the opposite of quiet. It is characteristically *saturated*
 
 ## The Seventh Failure Signature
 
-The [[compound-failure-signatures|failure-signature framework]] catalogues the distinct phenomenologies that accompany different kinds of cognitive limit. Six primary signatures cover most consciousness-related voids: self-refutation, aporia, ineffability, systematic illusion, construction mistaken for observation, and epistemic vertigo. (The framework also lists modular selective loss and wrong model selection among secondary signatures.) Presence-type voids add a characteristic seventh primary signature that the [[taxonomy-of-voids|taxonomy apex]] names **dissolution under attention**: "the knowing is genuine and conscious but evaporates when subjected to analytical scrutiny."
+The [[compound-failure-signatures|failure-signature framework]] catalogues the distinct phenomenologies that accompany different kinds of cognitive limit. Six primary signatures cover most consciousness-related voids: self-refutation, aporia, ineffability, systematic illusion, construction mistaken for observation, and epistemic vertigo. (The framework also lists modular selective loss and wrong model selection among secondary signatures.) Presence-type voids add a characteristic seventh primary signature that the [[taxonomy-of-voids|taxonomy apex]] names **dissolution under attention**, the diagnostic signature for presence-type voids: the knowing is genuine and conscious yet evaporates when subjected to analytical scrutiny.
 
 Dissolution under attention is related to but distinct from the [[mutation-void|mutation pattern]]. Mutation transforms the *content* of a thought when attention reaches for it; dissolution destroys the *mode of knowing itself*. A musical passage that lands with felt weight can still be described in acoustic terms after analysis—the content remains intact—but the encounter-as-knowing is gone. The body stopped registering; the intellect took over; the felt significance became a memory of felt significance.
 
