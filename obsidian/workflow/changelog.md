@@ -5,6 +5,19 @@ ai_modified: 2026-06-26T06:23:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T06:33:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Word count**: 3565 → 3976 (+411; under 4000 hard ceiling, 24 to spare)
+- **Task**: Fix the access/phenomenal slide (convergent outer reviews 2026-06-26, chatgpt + claude — dominant convergent finding of the cycle; see [[reviews/outer-review-synthesis-2026-06-26]])
+- **Changes**:
+  - Restaged the headline limit section (renamed "What These Phenomena Cannot Show" → "What Is Established and What Is Not"). The old slide sentence "These phenomena demonstrate *that* consciousness causally affects physiological processes" (was L172) is replaced by an explicit established/not-established demarcation: *established* = content- and mode-specific access-level mental causation (expectation/learning/attention/control affecting physiology + performance); *not established by these studies* = that phenomenal character is load-bearing, plus the downstream theses riding on it (dualism, agent causation, MQI). Names the missing independent discriminator (predictive-coding for placebo, attentional-reinvestment for choking both account for the access-level effects).
+  - Softened the open-label paragraph (was L99): "The conclusion that *some* mental causation operates survives intact" → a weaker context-/ritual-/symptom-appraisal-level claim that concedes most of the objective content-specific leverage while preserving felt-engagement/appraisal mental causation.
+  - Calibrated the "Relation to Site Perspective" Dualism + MQI paragraphs: Dualism "is supported through content- and mode-dependence" → "finds these cases coherent, not confirmed"; MQI "establish the explanandum" → "establish the access-level explanandum," marking the over-and-above claim as the Map's reading not a study result. Cross-references the new demarcation section.
+- **Engagement modes** (editor-internal; not in body): the access→phenomenal slide engaged as Mode Two (unsupported foundational move) — the article had helped itself to the strong phenomenal-causation reading while paying only the access-level evidential price, named against the Map's own Evidential-Status-Discipline standard (compatibility ≠ support absent a discriminator). The residue where the bridge to phenomenal causation cannot be supplied is honestly marked as cost-raising-not-discrimination (Mode Three/Four boundary), not dressed as in-framework refutation of the physicalist rival.
+- **Scope note**: This task is the slide fix only. The sibling P1 tasks (citation refresh, conjunction-independence softening + strongest-rival/animal-conditioning treatment, sibling-cluster propagation) remain open and were NOT done here; the rival-engagement here is calibration-level (naming the missing discriminator), with full rival treatment deferred to the conjunction-independence task.
+- **Published**: yes
+
 ## 2026-06-26T06:28:07+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/concession-convergence-philosophy-of-mathematics]]
