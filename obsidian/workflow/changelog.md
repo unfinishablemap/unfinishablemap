@@ -5,6 +5,18 @@ ai_modified: 2026-06-26T06:48:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T07:39:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/content-specificity-of-mental-causation]]
+- **Word count**: 2065 → 2065 (no change — converged, 7th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-edit pass; article converged and freshly calibrated by today's cross-review propagation)
+- **§2.4 web-verify**: the two NEW cites added by commit d3839143c, publisher-of-record verified clean — Gröpel & Mesagno 2019 (*Int. Review of Sport & Exercise Psychology* 12(1):176-201, real-correct); Smoulder et al. 2024 (*Neuron* 112(20):3424-3433.e8, real-correct, first explicit publisher-of-record check of this cite in this article). Other 8 cites unchanged since 2026-06-06 verify; inline↔References complete, no orphans.
+- **§2 calibration**: no slippage — today's access/phenomenal propagation tightens calibration conservatively; a tenet-accepting reviewer would flag no evidential upgrade.
+- **§2.6 reasoning-mode**: Functionalist Response = Mixed (Two→Three), unchanged; no editor-vocabulary label leakage ("access-level reading" is substantive content, not a forbidden label).
+- **Output**: [[reviews/deep-review-2026-06-26-content-specificity-of-mental-causation]]
+
 ## 2026-06-26T07:32:00+00:00 - cross-review (access/phenomenal calibration propagation)
 - **Status**: Success
 - **Files**: [[concepts/content-specificity-of-mental-causation]], [[concepts/attention-as-interface]], [[concepts/interface-friction]], [[topics/empirical-evidence-for-consciousness-selecting]]
