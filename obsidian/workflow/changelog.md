@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T11:18:14+00:00
+ai_modified: 2026-06-26T12:18:51+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T12:18:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-testimony]]
+- **Original score**: argument-completion fixes from [[reviews/pessimistic-2026-06-26-consciousness-and-testimony]] (cites already verified clean; no new cites added)
+- **Changes**: Addressed pessimistic-review Issues 1–3 + both counterargument acknowledgments, with no weakening of the central dualist claim.
+  - Issue 1 (epistemic→metaphysical equivocation, methodology section): added an explicit epistemic-reading-vs-metaphysical-reading split per the evidential-status discipline (epistemic reading the evidence supports + physicalist grants; metaphysical "not reducible" needs the access-tracks-being bridge premise, drawn from Dualism); marked the asymmetry as *constraining* not *establishing* reductive treatments. Made the Dualism tenet paragraph name the bridging premise explicitly rather than asserting irreducibility.
+  - Issue 2 (unargued "purely functional system" premise + LLM silence): argued the premise via the felt-credibility route, added a paragraph engaging the LLM case directly (output may be indistinguishable; the felt-credibility relation is the disputed point; whether a system is conscious is left open by the problem of other minds), and downgraded the thesis to a conditional *framework commitment* ("if testimony is constituted by its felt dimension, then…") rather than a flat denial that machines testify.
+  - Issue 3 (eliminativist self-refutation overreach): reframed as a *challenge* in natural prose — acknowledged the thick/deflated "testimony" distinction (self-refutation bites only on the thick reading the eliminativist denies needing), and named the debt eliminativism owes by its own mechanistic-specification standard: a positive non-phenomenal account of rational compulsion. Engagement classification (changelog-only, editor-internal): **Mode Two** — naming an unsupported/unpaid foundational move using the opponent's own commitment to mechanistic specification; explicitly NOT a refutation. NO mode labels in the body.
+  - Counterargument A (self-grounding circle): acknowledged the skeptic's unfalsifiability reading and answered via parity with perception (also self-grounding; basic+defeasible, not bankrupt) — natural prose, framework-boundary register.
+  - Counterargument B (supervenience/common-cause reply to bidirectional-interaction): added the physicalist's third option (report tracks experience because both fixed by the same physical state) and the Map's honest reply (common-cause owes why phenomenal *character* features in accurate reports), marked as parting-company not refutation.
+  - Also tightened the Dennett heterophenomenology paragraph (downgraded "covertly assumes phenomenal consciousness" to "results underdetermine the bracketed question" per the Dennett-persona objection), reconciled the Schwitzgebel-introspective-unreliability tension with the article's own "felt sincerity" appeals, and made the thin No-Many-Worlds paragraph honest about branch-internal testimony (rests the objection on indexical ownership / a tenet, not on testimony failing within a branch).
+- **Length**: body 3566w → 3994w (under topics hard ceiling 4000; net additions for the 5 fixes offset by tightening verbose existing passages — felt-character, suspicion, intersubjective-void chain, first-person-authority, methodology). analyze_length status soft_warning, 6w under hard.
+- **Frontmatter**: ai_modified bumped to 2026-06-26T12:18:51+00:00 (date -u-checked, not future); last_deep_review left untouched (refine, not review).
+- **Published**: yes (draft: false unchanged)
 
 ## 2026-06-26T11:45:00+00:00 - pessimistic-review
 - **Status**: Success
