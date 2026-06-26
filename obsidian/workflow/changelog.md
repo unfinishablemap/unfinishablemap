@@ -5,6 +5,14 @@ ai_modified: 2026-06-26T14:52:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T16:10:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/consciousness-and-agency]]
+- **Changed sources**: 3 of 6 yielded new material (mental-causation, moral-responsibility, time-collapse-and-agency)
+- **Word count**: 4315 → 4458 (+143 net; soft_warning, pre-existing over-target; ~135w of additions offset by condensation)
+- **New citations (all web-verified)**: Babcock et al. 2024 (J. Phys. Chem. B 128(17):4035-4046); Khan et al. 2024 (eNeuro 11(8) ENEURO.0291-24.2024); Cucu & Pitts 2019 (Mind and Matter 17(1):95-121)
+- **Review**: [[reviews/apex-evolve-2026-06-26-consciousness-and-agency]]
+
 ## 2026-06-26T15:43:53+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/apophatic-approaches]]
