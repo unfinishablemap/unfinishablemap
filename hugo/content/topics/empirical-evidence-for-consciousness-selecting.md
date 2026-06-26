@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-06-23 05:46:19+00:00
+ai_modified: 2026-06-26 07:27:45+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -121,6 +121,7 @@ A line of evidence should be credited only with the *weakest* claim it establish
 | Evolutionary (James; valence-significance correlation) | supports-mental-causation | Non-reductive physicalist: mental causation without non-physicality. Illusionist: selection pressure shaped functional reactivity; "phenomenal valence" is a useful but non-fundamental gloss. |
 | Comparative cognition (DeWall 2008; ape gap) | supports-mental-causation | Conscious access is a physical broadcast/global-workspace function; reasoning depends on it because it depends on that mechanism, not on anything non-physical. |
 | Neurological dissociations (Desmurget 2009; Sjöberg 2024; Schwartz 1996; Rajan 2019) | supports-mental-causation | Willed and automatic processing recruit distinct but wholly classical circuits; the OCD/PET reframing is Hebbian plasticity. No quantum step is implied. |
+| Placebo & choking ([the two-sided empirical case](/topics/empirical-phenomena-mental-causation/); Büchel 2014; Beilock & Carr 2001) | supports-mental-causation | Expectation as a precision-weighted prior (predictive coding) and explicit-monitoring reinvestment predict the effects without phenomenal causation; the data fix only access-level content- and mode-specificity. No discriminator isolates *felt* engagement from estimated precision, so the line cannot be graded above mental causation. |
 | Quantum biology (cryptochrome, tunnelling, microtubule clues) | supports-substrate-relevance | Quantum effects occur in biology but are functionally local; microtubule–anaesthesia links are non-specific (anaesthetics hit many targets, and the 2025 *BMC Anesthesiology* results are directionally mixed). No bridge to experience. |
 | Measurement problem (Schlosshauer 2019) | establishes-possibility | An interpretive underdetermination of physics, not a demonstrated gap in the *theory of consciousness*; no-collapse and other collapse-realist readings fill it without consciousness. |
 
@@ -184,6 +185,8 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 
 ## References
 
+1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.
+1. Büchel, C., Geuter, S., Sprenger, C., & Eippert, F. (2014). Placebo analgesia: A predictive coding perspective. *Neuron*, 81(6), 1223-1239.
 1. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency: Implications for anesthetic action and post-operative cognitive dysfunction. *Scientific Reports*, 7, 9877. https://doi.org/10.1038/s41598-017-09992-7
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.

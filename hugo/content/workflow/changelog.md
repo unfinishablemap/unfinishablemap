@@ -1,13 +1,82 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 04:30:00+00:00
+ai_modified: 2026-06-26 06:48:19+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-26T07:19:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Original score**: n/a (convergent-outer-review-driven targeted fix, not a general quality pass)
+- **Source**: convergent outer reviews 2026-06-26 (chatgpt + Claude Opus 4.8), [outer-review-synthesis-2026-06-26](/reviews/outer-review-synthesis-2026-06-26/). Priority P1.
+- **Changes**:
+  - (a) CORRECTNESS — conjunction-independence overreach. Reworded the "no shared neurotransmitter system, anatomical target, or regulatory loop" claim (both reviewers flagged as overstatement) to "different distal output systems but overlapping top-down control — prefrontal/cingulate expectation, reward, precision, frontoparietal attentional machinery recur in both; independence is comparative, not absolute." Comparative structure preserved.
+  - Kim exclusion-inertness (convergent, folded into Agent Causation §): added that the phenomena "do no work against the exclusion argument — they raise the cost of denying mental causation but leave Kim's closure premise untouched; the metaphysical defeater is carried by agent causation plus MQI, not by the data."
+  - (b) strongest-rival treatment (demarcation §): named precision-weighted predictive coding/active inference (placebo), reward-overarousal + reinvestment (choking), nonreductive physicalism (metaphysics); stated the discriminator a phenomenal-causation reading predicts that precision-weighted predictive coding does not — effect tracks *felt* engagement of content vs *estimated precision* of the prior, but precision and conscious occurrence covary so none isolates it.
+  - (c) animal/conditioning challenge (Conditioning and Meaning §): conditioned immunosuppression in rats (Ader & Cohen 1975), rodent placebo analgesia via dopamine/opioid (Lee et al. 2015), monkey choking (Smoulder 2021/2024) — objective effects without reportable human phenomenology; either broadens "consciousness" to conditioned animals or supports the deflationary access-level reading; narrows the phenomenology-specific claim to the consciously-reportable human cases.
+- **Citations**: +2 web-verified (Ader & Cohen 1975 Psychosom Med 37(4):333-340; Lee et al. 2015 Sci Rep 5:17140). CAUGHT + FIXED a wrong-author defect: drafted the rodent-placebo cite as "Zeng et al. 2015" — actual authorship is Lee, I.-S. et al. (per Nature/PubMed). Corrected body + added correct References entry. Removed the low-value Seymour & Mathers 2024 hypothesis-paper parenthetical + its reference to reclaim ceiling room.
+- **Length**: 3998 → 3996 words (≤4000 ceiling respected; analyze_length verified before and after). All four sub-parts (a, Kim, b, c) installed in compact form; none deferred. Room made by condensing redundant restatements of the cost-of-accommodation/discrimination point (stated 4× → trimmed) and lower-value connective prose. Protected this-cycle content (demarcation §, softened open-label paragraph, new citations) left intact.
+- **Engagement classification** (editor-internal, not in body): predictive-coding/illusionism/epiphenomenalism rivals — Mode Two (unsupported foundational move) + Mode Three (framework-boundary marking), per [direct-refutation-discipline](/project/direct-refutation-discipline/). No mode labels or editor-vocabulary in article body (verified by grep).
+- **Published**: yes
+
+## 2026-06-26 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/the-psychophysical-control-law.md` (body ~2875w, under ceiling)
+- **Output**: [pessimistic-2026-06-26-the-psychophysical-control-law](/reviews/pessimistic-2026-06-26-the-psychophysical-control-law/)
+- **Key finding**: 1 High — "t-shirt problem" misattributed to Chalmers; it is Schaffer's framing (web-verified; also Pautz). Corpus-inconsistent: Schaffer is this file's own Ref #4 and two siblings already attribute it correctly; W25 changelog records fixing the identical error elsewhere. Chalmers p.214 quote itself is genuine — fix is to split coinage (Schaffer) from quote (Chalmers). Empirical figures verified accurate (Khan/Wiest epothilone d=1.9/69s; Zheng-Meister ~10 bits/s). No discipline-label leakage; altered-state audit n/a. Secondary: deferred-falsifiability framing, Zeno 10¹³Hz under-states the cited decoherence range (up to ~10²⁰Hz), 10-bits/s used as hard bound despite the article's own "need not be identical" hedge. Queued P2 refine-draft.
+
+## 2026-06-26T06:48:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Original score**: n/a (review tool path stale — `scripts/curate.py` gone; targeted citation-currency refine, not general quality pass)
+- **Word count**: 3976 → 3998 (+22 net; under 4000 hard ceiling, 2 to spare). NO net-add of citation content achieved by replacing dated cites + dropping 2 orphan refs + trimming restatement across the article. Began at 3976 (24-word margin), peaked at 4216 after adds, trimmed back under.
+- **Task**: Currency-drift fix flagged by convergent outer reviews 2026-06-26 (chatgpt + claude; priority upgraded P2→P1). Choking side rested on 1984–2002 sources; placebo side lacked the predictive-coding rival and modern neuroimaging. See [outer-review-synthesis-2026-06-26](/reviews/outer-review-synthesis-2026-06-26/).
+- **Citation 3-state web-verification** (all at publisher of record; reviewer metadata treated as lead, not truth per ai_citation_metadata_unreliable):
+  - **ADDED — Büchel, Geuter, Sprenger & Eippert (2014). Placebo analgesia: A predictive coding perspective. *Neuron* 81(6), 1223-1239.** VERIFIED real-correct (PubMed 24656247, ScienceDirect S0896627314001925; volume/issue/pages exact). This is the convergent ≥2-reviewer "missing predictive-coding rival." Cited in the new placebo predictive-coding paragraph AND named as the placebo-side independent discriminator in "What Is Established."
+  - **ADDED — Zunhammer, Spisák, Wager, Bingel & Placebo Imaging Consortium (2021). Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data. *Nature Communications* 12, 1391.** VERIFIED real-correct (DOI 10.1038/s41467-021-21179-3; 603 participants, 20 studies; small/heterogeneous reductions — accurately characterised). NB reviewer's "fMRI heterogeneity" lead correct; journal is *Nat Commun* not the reviewer-implied venue — used verified venue.
+  - **ADDED — Yu, R. (2015). Choking under pressure: the neuropsychological mechanisms of incentive-induced performance decrements. *Frontiers in Behavioral Neuroscience* 9, 19.** VERIFIED real-correct (DOI 10.3389/fnbeh.2015.00019, PMC4322702; three explanation families = distraction / explicit monitoring / over-arousal, as cited).
+  - **ADDED — Smoulder, Pavlovsky, Marino et al. (2021). Monkeys exhibit a paradoxical decrease in performance in high-stakes scenarios. *PNAS* 118(35), e2109643118.** VERIFIED real-correct (PMC8536322 as reviewer gave; DOI 10.1073/pnas.2109643118; inverted-U with jackpot, "reached too cautiously" aligns with explicit-monitoring account).
+  - **ADDED — Smoulder, Marino, Oby et al. (2024). A neural basis of choking under pressure. *Neuron* 112(20), 3424-3433.e8.** VERIFIED real-correct (DOI 10.1016/j.neuron.2024.08.012, PubMed 37090659; motor-cortex preparatory state pushed past optimal zone at high reward — as cited). Same Batista/Yu lab as the 2021 PNAS paper (coherent pair, cited together).
+  - **RECLASSIFIED — Seymour & Mathers (2024).** VERIFIED it is self-described "Hypothesis and Theory" developing "Neuroplasticity Placebo Theory" (Frontiers in Psychiatry 14, 1301143; PMC10806142). Body text corrected from "A recent review suggests" (mischaracterised as empirical) → explicitly a hypothesis paper, not confirmatory data; reference entry tagged "(Hypothesis and Theory)". Note DOI suffix is fpsyt.2023.1301143 though pub year 2024 — kept published year 2024 per PubMed.
+  - **NORMALIZED — Hróbjartsson & Gøtzsche Cochrane cite:** added the version-of-record DOI suffix `.pub3` (CD003974 → CD003974.pub3). Kept year 2010 (PubMed 20091554 / version-of-record); the reviewer's "2022, Issue 4" is a Cochrane-page re-issue artifact, not the version of record — `.pub3` is the consistent version-of-record identifier.
+  - **DROPPED (orphan refs, not cited in body — pure word savings, no content loss):** Dreyfus & Dreyfus (1986) *Mind over Machine*; Merleau-Ponty (1945/1962) *Phenomenology of Perception*.
+  - **RETAINED dated cites still load-bearing in body:** Baumeister 1984 ("building on Baumeister"), Masters 1992, Beilock & Carr 2001, Beilock et al. 2002, Tulving 1985, Levine 1978, Goebel 2002, De la Fuente-Fernández 2001 — none replaceable without losing the specific finding they anchor.
+- **Trimming** (to keep net-add ≈ 0 under the ceiling): consolidated the duplicate "Joint cost to brute-law absorption" subsection into the epiphenomenalist section; tightened restatement across intro, open-label, How-the-Two-Cases, Relation-to-Site (Dualism/MQI), Interface-Revealed, Contemplative, and the Benedetti paragraph. No argument removed.
+- **Tenet alignment**: Tenet 1 (Dualism) — preserved; the established/not-established demarcation and cost-of-accommodation framing untouched.
+- **Verification**: no EOF tool-tag artifact; no editor-vocabulary/HTML-comment-log leakage; citation cross-check clean (every cited author has a matching reference entry, no orphans); ai_modified date -u-checked (not future); last_deep_review untouched (this is a refine).
+- **Published**: yes
+- **Task**: Fix the access/phenomenal slide (convergent outer reviews 2026-06-26, chatgpt + claude — dominant convergent finding of the cycle; see [outer-review-synthesis-2026-06-26](/reviews/outer-review-synthesis-2026-06-26/))
+- **Changes**:
+  - Restaged the headline limit section (renamed "What These Phenomena Cannot Show" → "What Is Established and What Is Not"). The old slide sentence "These phenomena demonstrate *that* consciousness causally affects physiological processes" (was L172) is replaced by an explicit established/not-established demarcation: *established* = content- and mode-specific access-level mental causation (expectation/learning/attention/control affecting physiology + performance); *not established by these studies* = that phenomenal character is load-bearing, plus the downstream theses riding on it (dualism, agent causation, MQI). Names the missing independent discriminator (predictive-coding for placebo, attentional-reinvestment for choking both account for the access-level effects).
+  - Softened the open-label paragraph (was L99): "The conclusion that *some* mental causation operates survives intact" → a weaker context-/ritual-/symptom-appraisal-level claim that concedes most of the objective content-specific leverage while preserving felt-engagement/appraisal mental causation.
+  - Calibrated the "Relation to Site Perspective" Dualism + MQI paragraphs: Dualism "is supported through content- and mode-dependence" → "finds these cases coherent, not confirmed"; MQI "establish the explanandum" → "establish the access-level explanandum," marking the over-and-above claim as the Map's reading not a study result. Cross-references the new demarcation section.
+- **Engagement modes** (editor-internal; not in body): the access→phenomenal slide engaged as Mode Two (unsupported foundational move) — the article had helped itself to the strong phenomenal-causation reading while paying only the access-level evidential price, named against the Map's own Evidential-Status-Discipline standard (compatibility ≠ support absent a discriminator). The residue where the bridge to phenomenal causation cannot be supplied is honestly marked as cost-raising-not-discrimination (Mode Three/Four boundary), not dressed as in-framework refutation of the physicalist rival.
+- **Scope note**: This task is the slide fix only. The sibling P1 tasks (citation refresh, conjunction-independence softening + strongest-rival/animal-conditioning treatment, sibling-cluster propagation) remain open and were NOT done here; the rival-engagement here is calibration-level (naming the missing discriminator), with full rival treatment deferred to the conjunction-independence task.
+- **Published**: yes
+
+## 2026-06-26T06:28:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/)
+- **Word count**: 2518 → 2518 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (5th-pass convergence confirmation; only post-06-09 changes were two coalesce wikilink retargets, both verified to live targets — no content drift)
+- **Engagement modes**: Tegmark/common-cause physicalist objection — Mode Three (framework-boundary marking), unchanged
+- **Output**: [deep-review-2026-06-26-concession-convergence-philosophy-of-mathematics](/reviews/deep-review-2026-06-26-concession-convergence-philosophy-of-mathematics/)
+
+## 2026-06-26T06:23:38+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-26
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8; Gemini 2.5 Pro abandoned after 19 collect attempts)
+- **Clusters**: 5 convergent, 3 singleton, 0 divergent. All 5 convergent clusters concern the one audited article (topics/empirical-phenomena-mental-causation.md): (1) access/functional→phenomenal causation slide [headline]; (2) stale 1984–2002 choking citations + missing predictive-coding rival; (3) overstated "no shared machinery" conjunction claim; (4) the slide propagating to sibling articles; (5) site-methodology gate triad (discrimination test / access-phenomenal check / recency gate).
+- **Tasks upgraded**: 4 (P2→P1: 4 — citation refresh, conjunction+rival, sibling propagation, site-methodology triad). The headline access/phenomenal-slide task was already P1 (upgrade cap) — held, fields rewritten. The Claude-distinct PP-contradiction singleton left at P2.
+- **Tasks deduplicated**: 0 (per-review processing cross-referenced rather than minting duplicate per-reviewer tasks, so each convergent cluster mapped to a single open task).
+- **Output**: [outer-review-synthesis-2026-06-26](/reviews/outer-review-synthesis-2026-06-26/)
 
 ## 2026-06-26T04:24:00+00:00 - deep-review
 - **Status**: Success (staleness re-pick; converged no-op; `last_deep_review`-only bump). Orchestrator-finalized (fork monitor-wait-bailed; 6-cite ledger + 4 claim-checks folded in).

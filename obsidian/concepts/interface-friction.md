@@ -4,7 +4,7 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-28T00:00:00+00:00
+ai_modified: 2026-06-26T07:27:45+00:00
 draft: false
 last_deep_review: 2026-06-25T21:13:11+00:00
 topics:
@@ -74,7 +74,7 @@ A tension exists between the bandwidth limitation (tens of bits per second) and 
 
 [[attentional-economics|Attentional economics]] treats this cost seriously. Attention is a scarce resource because the interface channel is narrow and maintaining selection against the brain's default dynamics is effortful. Interface friction explains *why* attention is scarce: the mind-brain channel has finite capacity and maintaining influence through it requires sustained expenditure.
 
-Friction also has a destructive face the friction-as-cost framing alone does not capture. The choking phenomenon — where conscious self-monitoring degrades automatised skill ([[empirical-phenomena-mental-causation|placebo and choking]]) — shows the interface re-engaging where re-engagement is inappropriate: forcing low-bandwidth conscious selection back into a channel the brain had learned to run without it. The cost there is not merely effortful expenditure but active interference, an empirical signature of the same finite, imperfectly coupled channel.
+Friction also has a destructive face the friction-as-cost framing alone does not capture. The choking phenomenon — where conscious self-monitoring degrades automatised skill (Beilock & Carr 2001; the distraction/self-focus split confirmed across 47 intervention studies by Gröpel & Mesagno 2019, with a motor-cortical substrate located by Smoulder et al. 2024; see [[empirical-phenomena-mental-causation|placebo and choking]]) — shows the interface re-engaging where re-engagement is inappropriate: forcing low-bandwidth conscious selection back into a channel the brain had learned to run without it. The cost there is not merely effortful expenditure but active interference. As with every claim in this article, this is an interpretive fit rather than an empirically distinguishable prediction: standard motor-control and reward-pressure models (explicit-monitoring reinvestment, incentive-driven over-arousal of preparatory states) already predict the degradation, and the interface-friction reading redescribes that established result under a dualist ontology rather than discriminating against it. What the framing adds is a candidate *why* — the same finite, imperfectly coupled channel — not a phenomenon the standard models miss.
 
 ## Friction as Interpretive Framework
 
@@ -135,10 +135,13 @@ The filter model also generates a distinctive prediction: reduced neural constra
 
 ## References
 
+1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725.
 1. Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138–2143.
+1. Gröpel, P., & Mesagno, C. (2019). Choking interventions in sports: A systematic review. *International Review of Sport and Exercise Psychology*, 12(1), 176–201.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
+1. Smoulder, A. L., Marino, P. J., Oby, E. R., et al. (2024). A neural basis of choking under pressure. *Neuron*, 112(20), 3424–3433.e8.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194–4206.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

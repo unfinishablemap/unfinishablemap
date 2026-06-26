@@ -18,7 +18,7 @@ description: Formalism, logicism, intuitionism, and structuralism each independe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-09 21:38:32+00:00
+last_deep_review: 2026-06-26 06:28:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

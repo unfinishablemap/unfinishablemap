@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-06-05T21:22:53+00:00
+ai_modified: 2026-06-26T07:27:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -156,7 +156,7 @@ Rizzolatti's premotor theory of attention (PMTA) provides striking support: sele
 
 Cisek's affordance competition hypothesis describes the architecture: sensory input specifies multiple potential actions competing within neural populations; decision occurs when one reaches threshold. Thura and Cisek (2014) found that ~280ms before movement onset, the selected target peaks while alternatives are suppressed—matching the ~300ms deployment time of willed attention. If these were independent systems, why share the same timeline?
 
-The [[dopamine-and-the-unified-interface|dopamine system]] illuminates further. A 2024 *Nature* study showed mice with impaired phasic dopamine release still move spontaneously but lose reward-oriented vigour—dopamine dynamics modulate the *decision threshold*, not raw motor capacity. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and consciousness determines which option crosses threshold.
+The [[dopamine-and-the-unified-interface|dopamine system]] illuminates further. A 2024 *Nature* study showed mice with impaired phasic dopamine release still move spontaneously but lose reward-oriented vigour—dopamine dynamics modulate the *decision threshold*, not raw motor capacity. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and—on the Map's reading—willed attention participates in threshold selection. The rival reading needs no such addition: classical models of top-down attentional control plus dopaminergic threshold-setting already determine which option crosses the line, with the felt effort of willing a phenomenal accompaniment rather than a causal contributor. What the data establish is the layered threshold architecture; that phenomenal attention is doing selective work within it is the interface hypothesis's interpretation, not a result the study isolates.
 
 Willed attention and willed action feel like the same effort because they may *be* the same effort—consciousness operating through a single selection mechanism. See [[motor-selection]] for the full treatment.
 
