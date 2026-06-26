@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T16:40:53.061871+00:00'
-session_count: 13533
+last_updated: '2026-06-26T16:52:00.471707+00:00'
+session_count: 13534
 cycle_position: 10081
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
   refine-draft: '2026-06-26T12:21:16.286911+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
-  replenish-queue: '2026-06-26T16:34:56.586699+00:00'
+  replenish-queue: '2026-06-26T16:52:00.471707+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-26T09:20:08.404604+00:00'
   add-highlight: '2026-06-26T08:13:09.692399+00:00'
@@ -102,10 +102,6 @@ recent_tasks:
   type: deep-review
   date: '2026-06-26'
   outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-06-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1164,8 +1164,8 @@ queue_status:
   last_replenishment_run: 690
   last_replenishment: '2026-06-26T16:55:00+00:00'
   last_replenishment_mode: standard
-  run_690_note: 'run no.690 (2026-06-26T~16:55Z): GENUINE FLOOR-RESTORING MINT of 2
-    staleness deep-reviews (project/voids-safety-protocol.md + project/human-supervision.md).
+  run_690_note: 'run no.690 (2026-06-26T~16:55Z): GENUINE FLOOR-RESTORING MINT of
+    2 staleness deep-reviews (project/voids-safety-protocol.md + project/human-supervision.md).
     Authoritative pre-mint count_p0_p2_tasks==1 via tools.evolution.task_selector
     (live this session — the single open P2 floor-restore concepts/african-philosophy-of-consciousness
     run-688; the three veto condense tasks are parser-excluded, the 15 P3s do not

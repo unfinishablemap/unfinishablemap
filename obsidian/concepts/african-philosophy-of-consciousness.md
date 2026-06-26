@@ -4,7 +4,7 @@ description: "African philosophical traditions treat consciousness as relational
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-05-31T23:45:53+00:00
+ai_modified: 2026-06-26T16:55:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-05-31T23:45:53+00:00
+last_deep_review: 2026-06-26T16:55:25+00:00
 ---
 
 African philosophical traditions offer frameworks for understanding consciousness that differ fundamentally from the Western individualist paradigm. Where Descartes began with the isolated thinking subject, many African traditions begin with relation — consciousness as something that emerges through, and is sustained by, connections between persons, ancestors, and the wider community of being. The Unfinishable Map finds in these traditions an independent line of thought converging on consciousness as irreducible to physical processes, along with resources for thinking about mind-body interaction that Western philosophy has largely overlooked. (As the closing section makes explicit, this convergence is suggestive context rather than additional evidence — cross-cultural agreement does not by itself raise the evidential status of dualism.) African traditions contribute to the broader [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence on irreducibility]]—arriving at this recognition through communal and relational metaphysics rather than the individual-focused analysis of Indian or Western traditions.
@@ -55,7 +55,7 @@ The Akan people of Ghana developed one of sub-Saharan Africa's most articulated 
 
 This framework is a form of substance [[dualism]] arrived at independently of the Cartesian tradition. The okra is explicitly non-physical: it cannot be detected by the senses, exists before birth, and persists after death. Consciousness, in Akan thought, is grounded in the okra — the body alone does not produce experience.
 
-Critically, Akan philosophy also addresses the [[interaction-problem-across-traditions|interaction problem]]. The sunsum mediates between okra and body, functioning as an interface layer. Where Descartes left the pineal gland as an unsatisfying answer to how mind and body interact, the Akan three-part model distributes the interaction across a more graduated ontology. The Map notes a structural parallel — though not a direct connection — with its framework of [[interactionist-dualism]], where consciousness influences physical outcomes at points of quantum indeterminacy. Both posit that something mediates between the conscious and the physical, though the Akan framework predates and is independent of quantum mechanics.
+Critically, Akan philosophy also addresses the [[interaction-problem-across-traditions|interaction problem]]. The sunsum mediates between okra and body, functioning as an interface layer. Where Descartes left the pineal gland as an unsatisfying answer to how mind and body interact, the Akan three-part model distributes the interaction across a more graduated ontology. This is a reframing rather than a dissolution: introducing a mediating term relocates the question rather than answering it, since the framework still owes an account of how okra engages sunsum and how sunsum in turn engages the body. What the graduated ontology buys is not a closed explanation but a more textured map of where the interaction occurs — and on this point it leaves the same residual puzzle the Map's own framework confronts. The Map notes a structural parallel — though not a direct connection — with its framework of [[interactionist-dualism]], where consciousness influences physical outcomes at points of quantum indeterminacy. Both posit that something mediates between the conscious and the physical, though the Akan framework predates and is independent of quantum mechanics.
 
 ## Yoruba Philosophy of Ori
 
