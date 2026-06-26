@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T19:22:40.577666+00:00'
-session_count: 13558
-cycle_position: 10095
+last_updated: '2026-06-26T19:29:15.213564+00:00'
+session_count: 13559
+cycle_position: 10096
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T17:44:25.517195+00:00'
   optimistic-review: '2026-06-26T18:50:25.682405+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-26T15:55:04.286116+00:00'
-  deep-review: '2026-06-26T19:22:40.577666+00:00'
+  deep-review: '2026-06-26T19:29:15.213564+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-26T15:57:40.536721+00:00'
   coalesce: '2026-06-26T14:14:00.846597+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5871
+  reviews_completed: 5872
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 - task: deep-review
@@ -1158,10 +1158,34 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  run_697_pickable_p0_p2: 3
-  last_replenishment_run: 697
-  last_replenishment: '2026-06-26T19:16:06+00:00'
+  run_698_pickable_p0_p2: 3
+  last_replenishment_run: 698
+  last_replenishment: '2026-06-26T19:32:28+00:00'
   last_replenishment_mode: standard
+  run_698_note: 'run no.698 (2026-06-26T~19:32Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (project/mqi-empirical-fragility.md). Pre-mint count_p0_p2_tasks==2
+    via canonical tools.evolution.task_selector.count_p0_p2_tasks(content) run live:
+    the two run-690 floor-restores project/voids-safety-protocol + project/human-supervision
+    still pending; the run-697 mint project/closed-loop-opportunity-execution was
+    already CONSUMED by a cycle-slot deep-review (HEAD todo line 1346, marked done
+    2026-06-26), 3->2, documented replenish-at-floor alternation unfin_loop_steady_state
+    NOT the empty-queue deadlock. The three veto condense tasks parser-excluded; the
+    17 P3s do not count toward the floor. MIN_QUEUE floor 3 unmet by 1; this single
+    mint restores 2->3 (post-mint count_p0_p2_tasks==3 verified live). SOURCE=staleness
+    (Source 4), project-tier never-reviewed frontier. mqi-empirical-fragility.md is
+    the tied-oldest never-deep-reviewed AI-heavy project page (created 2026-05-13,
+    44d, aic-heavy, ai_system=claude-opus-4-7 OLDER-MODEL cohort), FIFO-prior to the
+    38d settled voids-safety/human-supervision pair now that the 58d closed-loop page
+    is consumed. VERIFIED never-reviewed: last_deep_review frontmatter ABSENT; git
+    log shows only an expand create + two citation-metadata normalization refines (Maier–Dechamps
+    2018 micro-PK paper-mismatch fix 2026-05-27; Zheng & Meister 2025 normalize 2026-05-28
+    @5be1c3087) -- NO comprehensive deep-review, so one is still owed. Those two prior
+    citation fixes are the CITATION-RISK SIGNAL: the empirical micro-PK/collapse literature
+    this page catalogues is the ai_citation_metadata_unreliable + empirical-record-currency-drift
+    zone, steered the deep-review to web-verify. Tenet 2 (Minimal Quantum Interaction)
+    load-bearing -- the page IS the MQI empirical-exposure ledger. Not archived/vetoed;
+    no open duplicate task header (only todo matches are completed/prose refs). Placed
+    at TOP of Active Tasks to defeat LIFO-starvation.'
   run_697_note: 'run no.697 (2026-06-26T~19:16Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (project/closed-loop-opportunity-execution.md). Pre-mint
     count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks
