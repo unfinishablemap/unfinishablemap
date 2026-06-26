@@ -5,6 +5,17 @@ ai_modified: 2026-06-26T23:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T22:43:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/von-neumann-wigner-interpretation]]
+- **Word count**: 2749 → 2830 (+81; soft-warning, under 3500 hard threshold)
+- **Critical issues addressed**: 0 (none found — fifth no-critical-issues verdict)
+- **Medium issues addressed**: 3 verified already-resolved by same-day refine 98ba61281 (pessimistic-2026-06-26c Issues 1–3: Stapp/Process-1 vs tenets alignment, empirical-indistinguishability disclosure, navigational-hub overstatement)
+- **Enhancements made**: 1 (decoherence currency clause: Hagan et al. 2002 + Wiest 2025, web-verified at publisher of record; brings article to currency parity with siblings). 3 redundant passages trimmed for length-neutrality.
+- **Engagements (editor-internal)**: Tegmark/decoherence — Mode Three (honest concession, now with live-contestation note); Many-Worlds — Mode Three; Wigner strong reading — exposition. No label leakage.
+- **Notes**: §2.4 — References + inline cites byte-identical to pre-refine (git-verified); existing 7 historical QM cites carried forward from clean 2026-06-01 ledger; 2 new cites web-verified real-correct (Hagan 2002 Phys Rev E 65:061901; Wiest 2025 Neurosci Conscious 2025(1):niaf011). Calibration PASS — no possibility/probability slippage. sync ok, no broken links.
+- **Output**: [[reviews/deep-review-2026-06-26-von-neumann-wigner-interpretation]]
+
 ## 2026-06-26T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[project/voids-safety-protocol]]

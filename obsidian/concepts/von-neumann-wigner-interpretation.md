@@ -4,7 +4,7 @@ description: "The consciousness-causes-collapse interpretation of quantum mechan
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-06-26T22:23:33+00:00
+ai_modified: 2026-06-26T22:42:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-06-26T22:42:01+00:00
 ---
 
 The von Neumann–Wigner interpretation holds that conscious observation causes quantum wave function collapse. Originating in John von Neumann's 1932 formal analysis, sharpened by London and Bauer's 1939 explicit consciousness thesis, and developed metaphysically by Eugene Wigner in the 1960s, it is the most influential lineage placing consciousness at the centre of quantum mechanics. The Unfinishable Map draws on this lineage's core insight—that the [[measurement-problem|measurement problem]] creates logical space for consciousness—while preferring more specific and substantively weaker accounts of *how* consciousness participates (see [Relation to Site Perspective](#relation-to-site-perspective) below).
@@ -67,7 +67,7 @@ The von Neumann–Wigner interpretation has genuine philosophical virtues:
 
 **It connects two fundamental puzzles.** The [[measurement-problem|measurement problem]] (why definite outcomes?) and the [[hard-problem-of-consciousness|hard problem]] (why subjective experience?) both concern the point where third-person description meets first-person fact. The von Neumann–Wigner interpretation treats this convergence as significant rather than coincidental.
 
-**It preserves the causal efficacy of consciousness.** If consciousness causes collapse, it does real work in the world rather than running as an [[concepts/epiphenomenalism|epiphenomenal]] passenger. The interpretation thereby engages the [[self-stultification]] problem—the worry that an epiphenomenal consciousness could not reliably report on its own states. The dialectic is not closed: standard physicalist replies argue that the *physical correlates* of consciousness do the reporting work while experience runs in parallel without being the cause of the report. (See [[self-stultification]] for engagement with this rebuttal.) The V-N-W interpretation's contribution is to make causal efficacy easy to secure within the formalism, not to settle the broader debate.
+**It preserves the causal efficacy of consciousness.** If consciousness causes collapse, it does real work in the world rather than running as an [[concepts/epiphenomenalism|epiphenomenal]] passenger. The interpretation thereby engages the [[self-stultification]] problem—the worry that an epiphenomenal consciousness could not reliably report on its own states. The dialectic is not closed: standard physicalist replies argue that the *physical correlates* of consciousness do the reporting work while experience runs in parallel without being the cause of the report. The V-N-W interpretation's contribution is to make causal efficacy easy to secure within the formalism, not to settle the broader debate.
 
 ## Standard Objections
 
@@ -81,7 +81,7 @@ Several objections have shaped the interpretation's reception:
 
 **Mechanism deficit.** Saying consciousness "causes" collapse names the proposed cause without specifying how it operates. What is the coupling between a non-physical mind and a quantum system? Without a mechanism, the interpretation is more a placeholder than a theory. The [[consciousness-physics-interface-formalism|consciousness–physics interface formalism]] explores what a rigorous specification of this coupling might look like.
 
-**Decoherence pressure.** This is the most serious physics-based objection. Tegmark (2000) calculated that plausible neural quantum candidates lose coherence on timescales of roughly 10⁻¹³ seconds for microtubule superpositions and 10⁻²⁰ seconds for ion-channel superpositions, against the ~10⁻³ seconds of cognitive operations and ~10⁻¹ seconds of conscious access. If [[decoherence]] in warm wet brains destroys the relevant superpositions in femtoseconds, there is no window during which consciousness could modulate the dynamics—whatever the formalism permits, the physics rules it out at neural scales. This is not a peripheral objection; until a candidate substrate, an estimated decoherence time, and a proposed mechanism within that window are specified, the interpretation does not yet engage physics. The Map treats this as an open problem rather than a solved one. Partial responses run through (a) [[brain-interface-boundary|interface locality]], which restricts the relevant quantum events to the consciousness's own brain rather than requiring environment-coupled coherence, and (b) [[motor-control-quantum-zeno]], which examines whether competing motor plans in Cisek-style affordance populations might supply quantum candidates with longer-lived effective coherence. Neither response settles the timescale question; they constrain where to look.
+**Decoherence pressure.** This is the most serious physics-based objection. Tegmark (2000) calculated that plausible neural quantum candidates lose coherence on timescales of roughly 10⁻¹³ seconds for microtubule superpositions and 10⁻²⁰ seconds for ion-channel superpositions, against the ~10⁻³ seconds of cognitive operations and ~10⁻¹ seconds of conscious access. These specific timescales are contested—Hagan et al. (2002) argued Tegmark's parameters inflate the decoherence rate by several orders of magnitude, and 2025–2026 work (Wiest 2025) revisits the microtubule case—but the dispute is live rather than settled, and the gap to cognitive timescales survives even on the corrected estimates (see [[decoherence]]). If [[decoherence]] in warm wet brains destroys the relevant superpositions in femtoseconds, there is no window during which consciousness could modulate the dynamics—whatever the formalism permits, the physics rules it out at neural scales. This is not a peripheral objection; until a candidate substrate, an estimated decoherence time, and a proposed mechanism within that window are specified, the interpretation does not yet engage physics. The Map treats this as an open problem rather than a solved one. Partial responses run through (a) [[brain-interface-boundary|interface locality]], which restricts the relevant quantum events to the consciousness's own brain rather than requiring environment-coupled coherence, and (b) [[motor-control-quantum-zeno]], which examines whether competing motor plans in Cisek-style affordance populations might supply quantum candidates with longer-lived effective coherence. Neither response settles the timescale question; they constrain where to look.
 
 ## From von Neumann–Wigner to Stapp
 
@@ -123,7 +123,7 @@ The "objective-collapse-plus-modulation" thesis — collapse runs by physical me
 - [[measurement-problem]] — the modulation-within-objective-collapse framing applied directly to the foundational puzzle V-N-W was framed against
 - [[quantum-consciousness]] — the broader quantum-mind context, with an explicit map-position paragraph distinguishing modulation from V-N-W collapse-causation
 
-Most of these articles invoke the *weaker-than-headline disclosure* described in §Relation to Site Perspective; the decoherence link is included for the relocation-of-modulation point rather than for carrying the disclosure language itself. This subsection is the navigational hub for that propagation: a reader entering at V-N-W can now see where the modified thesis is operating elsewhere, rather than meeting the headline reading and inferring the wrong commitment.
+Most of these articles invoke the *weaker-than-headline disclosure* described in §Relation to Site Perspective; the decoherence link is included for the relocation-of-modulation point rather than for carrying the disclosure language itself. A reader entering at V-N-W can thus see where the modified thesis operates elsewhere, rather than meeting the headline reading and inferring the wrong commitment.
 
 ## Further Reading
 
@@ -152,3 +152,5 @@ Most of these articles invoke the *weaker-than-headline disclosure* described in
 5. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
 6. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194–4206.
 7. London, F. & Bauer, E. (1939). *La Théorie de l'Observation en Mécanique Quantique*. Hermann.
+8. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65, 061901.
+9. Wiest, M.C. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1), niaf011.

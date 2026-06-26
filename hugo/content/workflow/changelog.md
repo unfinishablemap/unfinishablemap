@@ -1,13 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 21:26:53+00:00
+ai_modified: 2026-06-26 23:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [voids-safety-protocol](/project/voids-safety-protocol/)
+- **Word count**: 1705 → 1705 (no change — convergence pass, body unchanged since 2026-05-19)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 in the article (one implementation gap on the governed page voids.md deferred as P3)
+- **Enhancements made**: 0 (third review; article firmly stable, all three 2026-05-19 watch-items confirmed clean: contemplative-traditions caveat, Bidirectional Interaction calibration, provisionality note)
+- **Notes**: §2.4 citation web-verify skipped (zero bibliographic citations — pure governance doc). §2.6 reasoning-mode N/A (no named-opponent replies). All 14 outbound wikilinks + 3 tenet anchors verified resolving. Deferred P3: voids.md missing the protocol-prescribed Reader Notice block.
+- **Output**: [deep-review-2026-06-26-voids-safety-protocol](/reviews/deep-review-2026-06-26-voids-safety-protocol/)
+
+## 2026-06-26T22:23:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)
+- **Original score**: good condition (per pessimistic-2026-06-26c; external cites verified clean, weaker-than-headline disclosure present)
+- **Addresses**: pessimistic-review 2026-06-26c (1 medium + 2 low)
+- **Changes**:
+  - PRIMARY (medium, internal contradiction): §"From von Neumann–Wigner to Stapp" reframed so the Process-1/context-selection "theoretical conservativeness" virtue is now registered as ACKNOWLEDGED BUT NOT ADOPTED (content preserved, not deleted). Added a new paragraph aligning the evaluative load with tenets.md line 102 (the Map commits to outcome-selection NOT context-selection; Process-1-only relocation is an alternative "the Map could adopt but has not" because it would weaken outcome-selection to context-setting). Added pointers to [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) (flagship statement of the endorsed post-decoherence outcome-selection path) and to the tenets' outcome-vs-context choice. Stapp lineage now framed as historically sharpest successor / contrast pole, not the placement the Map favours.
+  - SECONDARY (low-medium): added one sentence in §"Relation to Site Perspective" (weaker-than-headline paragraph) surfacing the empirical-indistinguishability testability cost ("empirically indistinguishable from chance under any aggregate-statistics test") per tenets.md line 102, cross-linking the [bias-without-deviation dilemma](/apex/post-decoherence-selection-programme/#the-bias-without-deviation-dilemma-open).
+  - TERTIARY (low): §"Where the Modulation Framing Appears" — softened "Each of these articles invokes the weaker-than-headline disclosure" → "Most of these articles invoke..." with a clause noting the decoherence link is included for the relocation-of-modulation point, not for carrying disclosure language (verified: decoherence.md has zero modulation/disclosure mentions; the other four links carry 2-22).
+- **Engagement classification** (editor-internal, not in article body): engagement with Stapp on Process-1 placement: Mode Three (framework-boundary marking) — the Map declines Stapp's context-selection placement on its own tenet commitments (outcome- vs context-selection), honestly noted as a framework choice with a stated testability cost, not as an in-framework refutation of Stapp.
+- **Calibration**: "Oquatre-six, C." (line 148) NOT flagged — established AI co-author byline. External cites untouched (verified clean by the review). EOF clean. No label-leakage / editor-vocabulary in body.
+- **Word count**: body 2500w → 2750w (concepts soft 2500; well under hard 3500; additions proportionate, no offset needed)
+- **Published**: yes
+
+## 2026-06-26T22:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/von-neumann-wigner-interpretation.md` (foundational quantum-interpretation concept; last deep-review 2026-06-01; first slugged pessimistic review, earlier pessimistic-2026-04-27d recommendations now largely implemented)
+- **Findings**: 1 medium + 2 low. MEDIUM = internal contradiction: article §"From von Neumann–Wigner to Stapp" endorses Stapp's Process-1/context-selection placement as a Map virtue, but tenets.md line 102 explicitly commits the Map to outcome-selection NOT context-selection (Process-1 registered as a path "the Map could adopt but has not"). LOW = empirical-indistinguishability cost (stated plainly in tenets) invisible on the article; navigational-hub overstatement ("each of these articles invokes the disclosure" — decoherence.md does not).
+- **Verified clean**: external cites (Frauchiger–Renner 2018 Nat Commun 9:3711 Q/C/S trilemma, von Neumann 1932 movable cut, Wigner 1961, London–Bauer 1939, Tegmark 2000) all accurate; EOF tool-tag scan clean; no label-leakage; "Oquatre-six, C." confirmed as the Map's AI co-author byline convention (NOT a fabrication). Body ~2500w = concepts soft boundary, under hard 3500, NOT a condense candidate.
+- **Task queued**: P2 refine-draft (align Stapp/Process-1 framing with tenets; surface testability cost; fix decoherence hub claim)
+- **Output**: [pessimistic-2026-06-26c-von-neumann-wigner-interpretation](/reviews/pessimistic-2026-06-26c-von-neumann-wigner-interpretation/)
 
 ## 2026-06-26T22:07:08+00:00 - deep-review
 - **Status**: Success
