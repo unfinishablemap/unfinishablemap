@@ -306,9 +306,9 @@
   commissioned_at: '2026-06-26T03:08:32.357889+00:00'
   prompt_summary: Audit empirical-phenomena-mental-causation (placebo/choking)
   target_filename: outer-review-2026-06-26-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-26T04:15:04.321526+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile but fair philosophy referee. Audit one article on
     The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind

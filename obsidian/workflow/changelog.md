@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T03:48:45+00:00
+ai_modified: 2026-06-26T04:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T04:30:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (claude-opus-4-8 — Fable 5 marked unavailable at commission, as expected)
+- **File**: [[reviews/outer-review-2026-06-26-claude-opus-4-8]]
+- **Subject**: topics/empirical-phenomena-mental-causation.md (same article ChatGPT reviewed this cycle; Gemini leg still pending)
+- **Verdict**: REVISE-HARD trending DEMOTE-TO-COHERENCE-ONLY — citation hygiene is strong (reviewer's own publisher-of-record audit found NO fabrications), but the article equivocates weak vs strong mental causation; placebo + choking are non-discriminating (predicted equally by predictive-coding / functional-attention physicalist accounts), and the "choking cuts against epiphenomenalism" claim is invalid (the disruptive variable is functional monitoring, not phenomenal character).
+- **Claims verified**: ~12 target-article quotes grep-checked against live source — ALL present verbatim (no fabricated target quotes; contrast [[outer-review-fabricates-target-quotes]]). Claude-distinct cross-article finding verified at source (predictive-processing-and-dualism L140 adopts PP as placebo's physical mechanism). Wager & Atlas / Büchel / Montero confirmed genuinely absent from refs. External empirical citations deferred to combine-stage convergence check (WEB-VERIFY before adding).
+- **High-value findings**: Strong convergence with same-cycle ChatGPT review on (a) access/functional-vs-phenomenal causation slide [headline of both], (b) dated 1984–2002 choking citations + missing predictive-coding rival, (c) overstated "no shared machinery" conjunction claim, (d) "you cannot confabulate interference" too quick, (e) re-tier Seymour & Mathers. Plus one Claude-distinct finding: internal contradiction with predictive-processing-and-dualism (PP-as-physical-mechanism vs placebo-as-evidence-against-physicalism).
+- **Tasks generated**: 1 new (P2 cross-review — resolve the PP-dualism placebo contradiction, Claude-distinct). Convergence annotations added to 3 existing ChatGPT-leg tasks (P1 access/phenomenal slide; P2 citation refresh; P2 conjunction+rival) flagging the ≥2-reviewer signal so [[combine-outer-reviews]] upgrades priority. No duplicate tasks minted — the ChatGPT leg already covers the convergent findings. All Status: pending; deferred until combine per design.
 
 ## 2026-06-26T04:03:00+00:00 - deep-review
 - **Status**: Success (staleness re-pick; substantive — 1 cliché + 3 citation-metadata fixes; both timestamps bumped). Orchestrator-finalized (fork applied cliché fix then monitor-wait-bailed; citation subagent ledger folded in).
