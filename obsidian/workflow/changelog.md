@@ -5,6 +5,15 @@ ai_modified: 2026-06-26T14:52:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T16:36:25+00:00 - deep-review
+- **Status**: Success (no-change verdict — converged)
+- **File**: [[topics/indian-philosophy-of-mind]]
+- **Word count**: 3161 → 3161 (±0; 105% of 3000 topics soft, below 4000 hard — no length action)
+- **Critical issues addressed**: 0 (none found; body unchanged since 2026-05-27)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — 6th review (5 deep + 1 pessimistic); fully converged. Drift-vector checks clean: 29/29 wikilinks resolve (no archival link rot), no superlative/currency claims, no EOF artifact, validate ✓. Citation ledger of record stands (2026-05-31, References block unchanged). last_deep_review bumped to suppress re-nomination.
+- **Output**: [[reviews/deep-review-2026-06-26-indian-philosophy-of-mind]]
+
 ## 2026-06-26T16:10:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/consciousness-and-agency]]
