@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-26 07:27:45+00:00
+ai_modified: 2026-06-26 23:18:16+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,6 +43,8 @@ concepts:
 - '[[phenomenal-overflow]]'
 - '[[phenomenal-consciousness]]'
 - '[[explanatory-gap]]'
+- '[[content-specificity-of-mental-causation]]'
+- '[[interface-friction]]'
 created: 2026-01-14
 date: &id001 2026-03-29
 description: Attention serves as the interface where consciousness influences the
@@ -234,7 +236,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 ## Further Reading
 
-**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-laws](/concepts/psychophysical-laws/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [The Epistemological Void of Attention Disorders](/topics/attention-and-the-consciousness-interface/#the-epistemological-challenge), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-laws](/concepts/psychophysical-laws/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/), [interface-friction](/concepts/interface-friction/), [The Epistemological Void of Attention Disorders](/topics/attention-and-the-consciousness-interface/#the-epistemological-challenge), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
 
 **Cross-species framing**: [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) — bandwidth, fidelity, granularity, and candidate-type coupling as evolutionary scaling axes of the same interface. [selection-only-mind-influence](/topics/selection-only-mind-influence/) — the per-event information ceiling that constrains every efficacy axis.
 

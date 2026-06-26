@@ -4,7 +4,7 @@ description: "When consciousness causes physical effects, the specific meaning o
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-26T07:27:45+00:00
+ai_modified: 2026-06-26T23:18:16+00:00
 last_deep_review: 2026-06-26T07:39:18+00:00
 draft: false
 topics:
@@ -19,11 +19,13 @@ concepts:
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[conscious-vs-unconscious-processing]]"
+  - "[[attention-as-interface]]"
 related_articles:
   - "[[empirical-phenomena-mental-causation]]"
   - "[[direction-of-fit]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[pain-consciousness-and-causal-power]]"
+  - "[[predictive-processing-and-dualism]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -95,6 +97,8 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 - [[concepts/epiphenomenalism]] — The view content-specificity challenges most directly
 - [[intentionality]] — The aboutness of mental states; phenomenal intentionality theory links content to phenomenal character
 - [[bandwidth-of-consciousness]] — The architectural constraints on conscious selection: sparse bandwidth, semantically loaded content
+- [[attention-as-interface]] — Where consciousness exerts content-specific selection: the attentional channel through which meaning meets neural competition
+- [[predictive-processing-and-dualism]] — The precision-weighting reading of content-specificity, and where the Map's interpretation diverges from it
 
 ## References
 

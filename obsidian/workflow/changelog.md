@@ -5,6 +5,13 @@ ai_modified: 2026-06-26T23:11:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T23:18:16+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Mental-causation/consciousness-interface hub-reciprocity cross-links (from optimistic-2026-06-26b)
+- **Files**: [[concepts/content-specificity-of-mental-causation]], [[concepts/attention-as-interface]], [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Changes**: MECHANICAL link-adds only (7 length-neutral wikilinks; no prose/calibration changes). (1) content-specificity → attention-as-interface [concepts + Further Reading]; (2) content-specificity → predictive-processing-and-dualism [related_articles + Further Reading]; (3) attention-as-interface → content-specificity-of-mental-causation [concepts + Further Reading]; (4) attention-as-interface → interface-friction [concepts + Further Reading]; (5) empirical-evidence-for-consciousness-selecting → content-specificity [concepts + Further Reading]; (6) same → predictive-processing-and-dualism [related_articles + Further Reading]; (7) same → interface-friction [concepts + Further Reading]. Topic-tier targets (predictive-processing-and-dualism) placed in related_articles; concept-tier targets in concepts. All 5 targets verified to resolve; sync clean (all "ok"); all 7 Further Reading links rendered to proper Hugo markdown; no raw wikilinks left in body; no memory-slug refs.
+- **Published**: yes
+
 ## 2026-06-26T23:11:39+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Filter / transmission-theory cluster — concepts/filter-theory.md, topics/terminal-lucidity-and-filter-transmission-theory.md, topics/psychedelics-and-the-filter-model.md, topics/consciousness-and-neurodegenerative-disease.md, with apex/altered-states-as-interface-evidence.md as synthesis anchor. Fifth uncovered-cluster pass of the cycle. Verdict: cluster is the corpus's strongest demonstration of constrain-vs-establish discipline; Process Philosopher and Hardline Empiricist personas converge in praise (no possibility/probability slippage). One Medium concept-gap (consolidated falsifiability-of-filter-theory page — flagged for dedupe against meta-epistemology-of-limits + evidential-status-discipline) and one P3 cross-link task (3 length-neutral link adds).

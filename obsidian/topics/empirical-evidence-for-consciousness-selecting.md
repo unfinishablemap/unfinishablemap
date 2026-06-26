@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-26T07:27:45+00:00
+ai_modified: 2026-06-26T23:18:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,12 +21,15 @@ concepts:
   - "[[mental-effort]]"
   - "[[stapp-quantum-mind]]"
   - "[[interactionist-dualism]]"
+  - "[[content-specificity-of-mental-causation]]"
+  - "[[interface-friction]]"
 related_articles:
   - "[[tenets]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[attention-and-the-consciousness-interface]]"
   - "[[quantum-biology-and-neural-consciousness]]"
+  - "[[predictive-processing-and-dualism]]"
   - "[[consciousness-selecting-mechanisms-detail-2026-01-17]]"
 ai_contribution: 100
 author:
@@ -179,6 +182,9 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 - [[contemplative-practice-as-philosophical-evidence]] — First-person evidence from trained observation
 - [[dream-consciousness]] — Dream problem-solving tracks phenomenal mode, supporting consciousness-selecting over epiphenomenalism
 - [[forward-in-time-vs-time-symmetric-selection]] — Whether selection runs forward-only or atemporally, and the costs each incurs
+- [[content-specificity-of-mental-causation]] — Why the meaning of a conscious state determines which physical effect occurs: the content side of the empirical case
+- [[predictive-processing-and-dualism]] — The precision-weighting rival reading of the same evidence, and where it stops short of consciousness-specific selection
+- [[interface-friction]] — The resistance encountered when consciousness biases neural competition, a structural feature of the selection mechanism
 
 ## References
 

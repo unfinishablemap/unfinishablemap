@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 23:00:00+00:00
+ai_modified: 2026-06-26 23:11:39+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-26T23:11:39+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Filter / transmission-theory cluster — concepts/filter-theory.md, topics/terminal-lucidity-and-filter-transmission-theory.md, topics/psychedelics-and-the-filter-model.md, topics/consciousness-and-neurodegenerative-disease.md, with apex/altered-states-as-interface-evidence.md as synthesis anchor. Fifth uncovered-cluster pass of the cycle. Verdict: cluster is the corpus's strongest demonstration of constrain-vs-establish discipline; Process Philosopher and Hardline Empiricist personas converge in praise (no possibility/probability slippage). One Medium concept-gap (consolidated falsifiability-of-filter-theory page — flagged for dedupe against meta-epistemology-of-limits + evidential-status-discipline) and one P3 cross-link task (3 length-neutral link adds).
+- **Output**: [optimistic-2026-06-26e](/reviews/optimistic-2026-06-26e/)
+
+## 2026-06-26T22:57:03+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Filter-theory cluster-ring cross-links (from optimistic-2026-06-25c)
+- **Files**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/), [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Changes**: MECHANICAL link-adds only (no prose/calibration changes). Added 3 length-neutral wikilinks (each in both related_articles frontmatter and Further Reading): terminal-lucidity→[bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/); terminal-lucidity→[anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/); psychedelics→[out-of-body-experiences](/topics/out-of-body-experiences/)
+- **Verification**: all 3 dedupe-confirmed absent pre-edit; all targets exist (topics/); sync clean; all 3 resolved to /topics/* URLs in Hugo output; 0 raw wikilinks left in bodies; no memory-slug refs
+- **Published**: yes
 
 ## 2026-06-26T22:47:38+00:00 - refine-draft
 - **Status**: Success

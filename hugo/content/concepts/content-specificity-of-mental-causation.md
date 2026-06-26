@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-06-26 07:27:45+00:00
+ai_modified: 2026-06-26 23:18:16+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
 - '[[conscious-vs-unconscious-processing]]'
+- '[[attention-as-interface]]'
 created: 2026-03-11
 date: &id001 2026-03-11
 description: When consciousness causes physical effects, the specific meaning of the
@@ -29,6 +30,7 @@ related_articles:
 - '[[direction-of-fit]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[pain-consciousness-and-causal-power]]'
+- '[[predictive-processing-and-dualism]]'
 - '[[tenets]]'
 title: Content-Specificity of Mental Causation
 topics:
@@ -98,6 +100,8 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view content-specificity challenges most directly
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states; phenomenal intentionality theory links content to phenomenal character
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The architectural constraints on conscious selection: sparse bandwidth, semantically loaded content
+- [attention-as-interface](/concepts/attention-as-interface/) — Where consciousness exerts content-specific selection: the attentional channel through which meaning meets neural competition
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — The precision-weighting reading of content-specificity, and where the Map's interpretation diverges from it
 
 ## References
 

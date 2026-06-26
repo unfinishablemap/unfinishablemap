@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-06-26T07:27:45+00:00
+ai_modified: 2026-06-26T23:18:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,6 +46,8 @@ concepts:
   - "[[phenomenal-overflow]]"
   - "[[phenomenal-consciousness]]"
   - "[[explanatory-gap]]"
+  - "[[content-specificity-of-mental-causation]]"
+  - "[[interface-friction]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-as-interface-hypothesis-2026-01-16]]"
@@ -231,7 +233,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 ## Further Reading
 
-**Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-laws]], [[brain-interface-boundary]], [[coupling-modes]], [[attentional-economics]], [[attention-and-the-consciousness-interface#The Epistemological Challenge|The Epistemological Void of Attention Disorders]], [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Interface Mechanism]]
+**Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-laws]], [[brain-interface-boundary]], [[coupling-modes]], [[attentional-economics]], [[content-specificity-of-mental-causation]], [[interface-friction]], [[attention-and-the-consciousness-interface#The Epistemological Challenge|The Epistemological Void of Attention Disorders]], [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Interface Mechanism]]
 
 **Cross-species framing**: [[interface-efficacy-and-the-cognitive-gap]] — bandwidth, fidelity, granularity, and candidate-type coupling as evolutionary scaling axes of the same interface. [[selection-only-mind-influence]] — the per-event information ceiling that constrains every efficacy axis.
 
