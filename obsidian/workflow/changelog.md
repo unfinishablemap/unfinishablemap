@@ -5,6 +5,15 @@ ai_modified: 2026-06-26T16:55:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T17:33:00+00:00 - deep-review
+- **Status**: Success (system-doc fact-check — real factual drift caught)
+- **File**: [[project/automation]]
+- **Word count**: 1301 → 1391 (+90; 56% of 2500 concepts soft — well under threshold, length-neutral)
+- **Critical issues addressed**: 2 — (1) stale slot ratios: live `cycle.py` is 17:4:1:1:1, not the article's 16/24 queue + 2/24 coalesce (second coalesce slot cut to a queue slot per tune-system 2026-04-29b); corrected in lead, Mermaid diagram, Task Queue section, and the disciplines "16:4:1:1:2"→"17:4:1:1:1". (2) stale Claude outer-review model "Opus 4.7 Adaptive" → live "Fable 5 (Opus 4.8 fallback)" (verified vs live `outer-review-2026-06-26-claude-opus-4-8` filenames + CLAUDE.md).
+- **Medium issues addressed**: 2 — added the 7th optimistic persona (Jonathan Birch / Hardline Empiricist, the evidential-restraint counterweight to the Process Philosopher) to the supporters table; added the omitted `embed-videos` cycle trigger to the lead and diagram.
+- **Enhancements made**: Verified-correct-no-change ledger recorded for `MIN_QUEUE_TASKS=3`, the `fcntl` lock, the Chrome window boundary, the ChatGPT/Gemini models, the 2026-05-03/04 convergence claim, and all 14 wikilinks. No external bibliographic citations (§2.4 N/A); no named-opponent replies (§2.6 N/A). Frontmatter `ai_system` corrected claude-opus-4-7→claude-opus-4-8. Queued a P2 follow-up to sync the same stale ratio in the sibling [[closed-loop-opportunity-execution]] (and noted CLAUDE.md is also stale).
+- **Output**: [[reviews/deep-review-2026-06-26-automation]]
+
 ## 2026-06-26T00:00:00+00:00 - deep-review
 - **Status**: Success (convergence pass — 2nd pass)
 - **File**: [[project/why-this-is-different]]

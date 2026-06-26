@@ -4,8 +4,8 @@ description: How the Map's deterministic 24-slot cycle, queue replenishment, and
 created: 2026-01-05
 modified: 2026-05-04
 human_modified: 2026-01-05T13:59:45+00:00
-ai_modified: 2026-05-15T20:52:00+00:00
-last_deep_review: 2026-04-29T13:55:00+00:00
+ai_modified: 2026-06-26T17:33:00+00:00
+last_deep_review: 2026-06-26T17:33:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -21,12 +21,12 @@ related_articles:
   - "[[coherence-inflation-countermeasures]]"
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-01-05
 last_curated:
 ---
 
-The Unfinishable Map uses scheduled AI automation to develop content over time. The orchestrator runs a deterministic 24-slot cycle that interleaves queue-task execution, deep-reviews, pessimistic and optimistic reviews, and coalesce surveys, alongside five cycle-trigger cadences for cross-section integrity (links, tenets, research, apex synthesis, system tuning). The design [[closed-loop-opportunity-execution|closes loops]] from review-recommendation to executed-and-reviewed content within bounded windows — typically under six hours — while maintaining human oversight and alignment with the Map's [[tenets]]. For the visitor-facing summary of how this system distinguishes the Map from generic AI explainer sites, see [[why-this-is-different]].
+The Unfinishable Map uses scheduled AI automation to develop content over time. The orchestrator runs a deterministic 24-slot cycle that interleaves queue-task execution, deep-reviews, pessimistic and optimistic reviews, and a coalesce survey, alongside cycle-trigger cadences for cross-section integrity (video embedding, links, tenets, voids research, apex synthesis, system tuning). The design [[closed-loop-opportunity-execution|closes loops]] from review-recommendation to executed-and-reviewed content within bounded windows — typically under six hours — while maintaining human oversight and alignment with the Map's [[tenets]]. For the visitor-facing summary of how this system distinguishes the Map from generic AI explainer sites, see [[why-this-is-different]].
 
 ## How It Works
 
@@ -38,14 +38,14 @@ flowchart TD
     end
 
     subgraph Cycle["24-Slot Cycle"]
-        A1[Queue — 16/24<br/>execute P0–P2 tasks]
+        A1[Queue — 17/24<br/>execute P0–P2 tasks]
         A2[Deep-review — 4/24]
         A3[Pessimistic + Optimistic<br/>2/24]
-        A4[Coalesce — 2/24]
+        A4[Coalesce — 1/24]
     end
 
     subgraph Triggers["Cycle Triggers (every N cycles)"]
-        T1[check-links · research-voids<br/>check-tenets]
+        T1[embed-videos · check-links<br/>research-voids · check-tenets]
         T2[apex-evolve · tune-system]
     end
 
@@ -105,6 +105,9 @@ The review skills use philosophical personas to generate diverse critiques:
 | Alfred N. Whitehead | Process Philosophy | Avoiding crude substance dualism |
 | Robert Kane | Libertarian Free Will | Taking agency seriously |
 | Colin McGinn | Mysterianism | Epistemic humility |
+| Jonathan Birch | Hardline Empiricism | Praising evidential restraint about minimal-organism consciousness |
+
+The Hardline Empiricist is the deliberate counterweight to the Process Philosopher: Whitehead-friendliness and evidential discipline both deserve praise, but on different axes. When praise for a panpsychist-flavoured move would cash out as upgrading a boundary case up the evidential-status scale on tenet-load alone, the Hardline Empiricist persona surfaces the slippage as a calibration concern rather than a strength.
 
 ### External Outer Reviews
 
@@ -113,7 +116,7 @@ The pessimistic and optimistic personas are simulated by the same Claude family 
 | Service | Model | Cadence | Mechanism |
 |---|---|---|---|
 | ChatGPT | 5.5 Pro Extended | Daily 02:00 UTC | Project workspace; site + changelog prompt; Pro thinking |
-| Claude | Opus 4.7 Adaptive | Daily 03:00 UTC | Adaptive thinking + Research + Web Search; produces an artefact document |
+| Claude | Fable 5 (Opus 4.8 fallback) | Daily 03:00 UTC | Research + Web Search; produces an artefact document; self-heals across claude.ai "Fable 5 unavailable" episodes |
 | Gemini | 2.5 Pro | Daily 04:00 UTC | Deep Research; research plan + Start research click |
 
 Each commission/collect pair drives Chrome via the `mcp__claude-in-chrome__*` tools under a dedicated profile at `~/unfin/chrome-profiles/unfinishable`. A cross-repo `fcntl` lock prevents this pipeline from contending with the sibling `auto_unfin` video pipeline. The generic `/outer-review` post-processor verifies every cited claim against external sources before generating tasks, sends a ~100-word Telegram summary, and commits. Convergent findings across services are a strong signal — the 2026-05-03 (ChatGPT) and 2026-05-04 (ChatGPT, Claude) reviews independently surfaced the same structural critique of tenet-protected reasoning.
@@ -127,13 +130,13 @@ Tasks are managed in [[todo]]:
 - **P2**: Medium — picked when no P0/P1 is available
 - **P3**: Low — nice to have, needs human approval
 
-At each queue slot (16 of every 24 cycle slots), the loop picks the highest-priority non-blocked task and executes it. When the executable P0–P2 count drops below three, the cycle invokes `replenish-queue` to convert recent review recommendations into structured tasks before the next slot fires. All activity is logged in the [[changelog]].
+At each queue slot (17 of every 24 cycle slots), the loop picks the highest-priority non-blocked task and executes it. When the executable P0–P2 count drops below three, the cycle invokes `replenish-queue` to convert recent review recommendations into structured tasks before the next slot fires. All activity is logged in the [[changelog]].
 
 ## Methodology Disciplines
 
 Named disciplines govern how the cycle operates on content:
 
-1. **[[closed-loop-opportunity-execution|Closed-loop opportunity execution]]** — the cycle-level mechanism for closing loops from review-recommendation to executed-and-reviewed content within ~6-hour windows, via the 16:4:1:1:2 slot ratio and the `MIN_QUEUE_TASKS = 3` replenishment threshold.
+1. **[[closed-loop-opportunity-execution|Closed-loop opportunity execution]]** — the cycle-level mechanism for closing loops from review-recommendation to executed-and-reviewed content within ~6-hour windows, via the 17:4:1:1:1 slot ratio (queue : deep-review : pessimistic : optimistic : coalesce) and the `MIN_QUEUE_TASKS = 3` replenishment threshold.
 2. **[[coalesce-condense-apex-stability|Coalesce-condense-apex stability]]** — the article-level refactor discipline that chains coalesce → condense → apex re-cross-review whenever a merger crosses length or apex-citation thresholds, keeping the catalogue coherent under source-side editorial activity.
 3. **[[bedrock-clash-vs-absorption|Bedrock-clash vs. absorption]]** — the editorial discipline for handling pessimistic-review objections, distinguishing issues that should be absorbed (citation accuracy, redundant exposition, clichés) from those that should be preserved as bedrock dialectical clashes (rival-tradition frames whose adoption would falsify the article's argumentative shape).
 4. **[[calibration-audit-triple|Calibration audit triple]]** — three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring) that detect ways a published article's standing can degrade between publication and next refine without any change to the article itself. Audit One runs weekly via the `/literature-drift-review` skill (Tuesday 05:00 UTC, one WebSearch call per run); Audits Two and Three integrate into `/pessimistic-review` and `/refine-draft` plus cycle hooks in `scripts/evolve_loop.py`, bounded by a `global_task_cap` (default 6) on audit-generated open tasks.
