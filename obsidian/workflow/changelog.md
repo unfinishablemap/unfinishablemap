@@ -5,6 +5,14 @@ ai_modified: 2026-06-26T21:26:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T22:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/von-neumann-wigner-interpretation.md` (foundational quantum-interpretation concept; last deep-review 2026-06-01; first slugged pessimistic review, earlier pessimistic-2026-04-27d recommendations now largely implemented)
+- **Findings**: 1 medium + 2 low. MEDIUM = internal contradiction: article §"From von Neumann–Wigner to Stapp" endorses Stapp's Process-1/context-selection placement as a Map virtue, but tenets.md line 102 explicitly commits the Map to outcome-selection NOT context-selection (Process-1 registered as a path "the Map could adopt but has not"). LOW = empirical-indistinguishability cost (stated plainly in tenets) invisible on the article; navigational-hub overstatement ("each of these articles invokes the disclosure" — decoherence.md does not).
+- **Verified clean**: external cites (Frauchiger–Renner 2018 Nat Commun 9:3711 Q/C/S trilemma, von Neumann 1932 movable cut, Wigner 1961, London–Bauer 1939, Tegmark 2000) all accurate; EOF tool-tag scan clean; no label-leakage; "Oquatre-six, C." confirmed as the Map's AI co-author byline convention (NOT a fabrication). Body ~2500w = concepts soft boundary, under hard 3500, NOT a condense candidate.
+- **Task queued**: P2 refine-draft (align Stapp/Process-1 framing with tenets; surface testability cost; fix decoherence hub claim)
+- **Output**: [[reviews/pessimistic-2026-06-26c-von-neumann-wigner-interpretation]]
+
 ## 2026-06-26T22:07:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[project/delocalisation-discipline]]
