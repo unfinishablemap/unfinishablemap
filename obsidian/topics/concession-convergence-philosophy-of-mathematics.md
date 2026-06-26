@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-06-09T21:38:32+00:00
+last_deep_review: 2026-06-26T06:28:07+00:00
 ---
 
 The [[concession-convergence]] pattern—where competing theories independently narrow their claims until each concedes the point it was meant to deny—appears in philosophy of mathematics with the same structural force it shows in philosophy of consciousness. Formalism, logicism, intuitionism, and structuralism begin from incompatible starting points, yet each is driven by its own internal difficulties to concede something about the irreducibility of conscious mathematical understanding. The Unfinishable Map argues that this convergence constitutes evidence that mathematics, like phenomenal experience, resists reduction to formal description—and that the resistance originates in the same place: conscious understanding that outruns any system designed to capture it.
