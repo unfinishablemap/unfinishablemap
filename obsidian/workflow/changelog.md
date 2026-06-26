@@ -5,6 +5,18 @@ ai_modified: 2026-06-26T07:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T08:46:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-psychophysical-control-law]]
+- **Source review**: [[reviews/pessimistic-2026-06-26-the-psychophysical-control-law]]
+- **Changes**:
+  - PRIMARY (Issue 1): Reattributed the "t-shirt problem" coinage from Chalmers to Schaffer, matching the sibling phrasing in `topics/psychophysical-laws-bridging-mind-and-matter.md:179` and `concepts/psychophysical-laws.md:135` for one-voice consistency. Web-verified via review (Schaffer's framing against naturalistic dualism, also discussed by Pautz); Schaffer's paper is this file's own Reference #4. Genuine Chalmers quote at L77 ("It would be odd if the universe had fundamental laws…", The Conscious Mind p.214) left intact and correctly attributed; "The Map shares this expectation" now coherent (Map siding with Chalmers' optimism against Schaffer's worry).
+  - Issue (a): Zeno bound now states the full range — "roughly 10¹³ to 10²⁰ Hz across that range" rather than the loosest "exceeding 10¹³ Hz" — reconciling the cited 10⁻¹³–10⁻²⁰ s decoherence window with the implied Hz requirement.
+  - Issue (b): Falsifiability constraint and the "Enable disconfirmation" promise now distinguish in-principle falsifiability from current discriminating power — empirical content framed as deferred and conditional (a promissory note pending an independent measurement framework for phenomenal inputs), no longer reading as if disconfirmation is already on the table.
+  - Issue (c): Reconciled the ~10 bits/s use — the "Bandwidth compatibility" constraint now flags that the Zheng–Meister figure measures conscious processing behaviourally and is recruited as a plausible working bound, not an established identity, consistent with the L51 hedge.
+- **Length**: 2874w → ~3050w (topics soft 3000 / hard 4000; soft_warning, ample headroom). No new external citations introduced. last_deep_review untouched (refine).
+- **Published**: yes
+
 ## 2026-06-26T08:38:33+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Mental-causation / consciousness-physics-interface cluster (7 articles: empirical-phenomena-mental-causation, empirical-evidence-for-consciousness-selecting, predictive-processing-and-dualism, content-specificity-of-mental-causation, attention-as-interface, interface-friction). Found exemplary evidential-status discipline (clean established/not-established demarcations; six-rung evidence-grading scale); Process-Philosopher and Hardline-Empiricist personas converge (no tier-upgrade slippage). Only finding: hub-reciprocity cross-link gaps — three hub articles fail to link conceptual siblings they argue from. One P3 cross-link task minted (7 length-neutral wikilink adds). No new-article, length, or EOF findings.
