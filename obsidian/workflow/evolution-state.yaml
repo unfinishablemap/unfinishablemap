@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T16:52:00.471707+00:00'
-session_count: 13534
-cycle_position: 10081
+last_updated: '2026-06-26T16:57:37.024522+00:00'
+session_count: 13535
+cycle_position: 10082
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T11:51:35.266598+00:00'
   optimistic-review: '2026-06-26T13:16:18.899602+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-26T15:55:04.286116+00:00'
-  deep-review: '2026-06-26T16:39:44.841058+00:00'
+  deep-review: '2026-06-26T16:57:37.024522+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-26T15:57:40.536721+00:00'
   coalesce: '2026-06-26T14:14:00.846597+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5859
+  reviews_completed: 5860
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1160,10 +1160,49 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    staleness: 2
-  last_replenishment_run: 690
-  last_replenishment: '2026-06-26T16:55:00+00:00'
+    staleness: 1
+  last_replenishment_run: 691
+  last_replenishment: '2026-06-26T17:05:00+00:00'
   last_replenishment_mode: standard
+  run_691_note: 'run no.691 (2026-06-26T~17:05Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (project/why-this-is-different.md). Pre-mint count_p0_p2_tasks==2
+    via tools.evolution.task_selector live this session (the two run-690 floor-restores
+    project/voids-safety-protocol + project/human-supervision; the run-688 floor-restore
+    concepts/african-philosophy-of-consciousness was consumed by the cycle-slot deep-review
+    at HEAD 22387d137, 3->2, documented replenish-at-floor alternation [[unfin_loop_steady_state]]
+    NOT the empty-queue deadlock; the three veto condense tasks are parser-excluded,
+    the 15 P3s do not count toward the floor). MIN_QUEUE floor 3 unmet by 1; this restores
+    2->3 (post-mint count_p0_p2_tasks==3 verified live). SOURCE=staleness (Source 4),
+    project-tier frontier. A full-section settled-staleness scan THIS RUN surfaced project/why-this-is-different.md
+    as the OLDEST settled candidate at 41d (last_deep_review==ai_modified==2026-05-15T20:52,
+    no own-body drift) -- OLDER than the run-690 pair (37d) and FIFO-PRIOR, so TOP-inserted
+    ABOVE them (correct FIFO drain order, [[queue-lifo-starvation]]). All project-tier
+    pages between why-this-is-different (41d) and the 37d pair are DRIFTED (ai_modified>last_deep_review
+    = touched since last review = younger effective age, not clean settled placeholders);
+    apex-articles.md 59d is the index hub (excluded). VERIFIED clean: last commit b4d6002a6
+    2026-05-15 is its own stamp-setting deep-review, NOT touched today (0 commits since
+    2026-06-26T00:00), NO same-day collision, NOT archived, NOT vetoed (the lone Vetoed-section
+    match is a false-positive [[why-this-is-different]] cross-ref inside the human-supervision
+    task notes), no open duplicate Active header, EOF tool-tag scan clean. aic=35 (mixed
+    human-AI -- preserve human framing, do NOT inflate aic), ai_system=claude-opus-4-7
+    (older-model cohort -- scrutinize citations, do NOT assume no-op), body 526w (project/
+    no formal cap, length-neutral review NOT a condense candidate). EIGHT-SOURCE AUDIT
+    (orchestrator-reverified this run, NOT trusting prior notes per [[replenish-false-exhaustion-mislabeled-drift]]):
+    all OTHER blind-mintable sources EXHAUSTED -- (1 chain) consumed (today''s research-topic
+    phenomenal-constitution-thesis 08:58 -> concepts/phenomenal-constitution-thesis.md
+    09:20 expand + deep-review file; other 2 recent notes are DECLINE files; zero un-followed
+    research/expand/cross-review); (2 unconsumed research) NONE per [[harvest-dedup-singular-plural-nearmiss]];
+    (3 gap/caps) topics 281/320, concepts 272/320 harvester-governed, voids 101/100
+    OVER create-cap, positions 8/80 slow-add; (4 genuine-drift) cosmetic June cross-touch
+    churn, none outranks the 41d settled candidate; (5 length) every content hard/critical
+    offender is research-note/index-hub/#veto/human-deferred/churn-prone (positions/quantum-interface
+    2553w marginally over 2500 but positions-condense delicate) -- NO clean blind-mintable
+    condense ([[replenish-overmints-condense-vs-accept-as-survey]]); (6 orphan) orphaned_files=0;
+    (7 positions) 8 < 10 audit threshold, positions-evolve ran 2026-06-22 slow-add;
+    (8 applied-apex) 3 exist, no high-confidence cluster gap. Next floor-restore after
+    the project-tier trio drains can draw the 32d+ DRIFTED project pages as they cross
+    the genuine-drift line, or new content; an honest NO-MINT remains acceptable when
+    no clean candidate exists.'
   run_690_note: 'run no.690 (2026-06-26T~16:55Z): GENUINE FLOOR-RESTORING MINT of
     2 staleness deep-reviews (project/voids-safety-protocol.md + project/human-supervision.md).
     Authoritative pre-mint count_p0_p2_tasks==1 via tools.evolution.task_selector
