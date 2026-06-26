@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T12:52:52+00:00
+ai_modified: 2026-06-26T14:45:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T14:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/falsification-roadmap-for-the-interface-model]]
+- **Word count**: 3980 → 3985 (+5; 133% of 3000 topics soft, under 4000 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-26-falsification-roadmap-for-the-interface-model]]
+- **Notes**: Drift-axis self-select (10th review). REJECTED two converged no-op candidates first: scorer's top pick consciousness-and-the-normativity-of-reason (6 reviews, citations fully publisher-verified 06-05, score-15 re-qualification was a cosmetic NORM↔CM cross-link bump) and neural-refresh-rates-and-the-smoothness-problem (deep-reviewed YESTERDAY 06-25, 7th pass; near-miss review-file slug `...-neural-refresh-rates.md` defeats convergence-damping + naive glob count). Picked falsification-roadmap because its Kerskens citation surname was re-canonicalized by corpus sweep 11c8554f5 AFTER its 06-02 review → unverified after-review change. Web-verify (publisher of record): (1) Kerskens & López Pérez 2022 J.Phys.Commun. 6:105001 — compound surname CONFIRMED canonical at IOPscience (DOI 10.1088/2399-6528/ac94be); post-review sweep was right, body needs no change (closes the ai_citation_metadata_unreliable compound-surname gap); (2) Melloni et al. 2025 — COMPLETED Ref 7 from bare "Nature." to Nature 642(8066):133-142, 5 Jun 2025, doi:10.1038/s41586-025-08888-1 (closes long-deferred date item). FIXED Ref 8 archival-rot: cited the-interface-specification-problem URL which is an archived 301-redirect source → repointed to live successor /topics/the-interface-problem/ (title+date+byline six→sept). Engagement modes (editor-internal): Pitts Mode Two, Kleiner Mode Three, Lakatosian-critic Mode Three; no boundary-substitution, no label leakage. Calibration PASS (Tenet-2 split down-calibrates corridor/trumping; no possibility/probability slippage). Hygiene: EOF clean no tool-tag, no dup frontmatter keys, superlative scan benign ("so far"), no "X is not A. It is B." cliché, timestamps date -u-checked not future. REAL edit → bumped BOTH ai_modified + last_deep_review to 2026-06-26; ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (same-file model mix). WATCH: link-list accretion (21 related + 13 Further Reading) is the ceiling-drift vector, not body content; if body breaches 4000 it's a human length-decision, do NOT auto-condense calibration content.
 
 ## 2026-06-26T14:30:00+00:00 - deep-review
 - **Status**: Success

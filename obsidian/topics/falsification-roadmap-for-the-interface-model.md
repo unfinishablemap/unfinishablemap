@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-24T21:46:38+00:00
+ai_modified: 2026-06-26T14:38:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,10 +40,10 @@ related_articles:
   - "[[direction-dependent-discriminating-test-design]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-04-09
 last_curated:
-last_deep_review: 2026-06-02T01:08:03+00:00
+last_deep_review: 2026-06-26T14:38:28+00:00
 ---
 
 The Unfinishable Map claims consciousness is irreducible, causally efficacious, and operates through quantum indeterminacies. Critics ask: what would change your mind? If nothing could, the framework is unfalsifiable metaphysics rather than honest philosophy. This article answers the question directly, mapping falsification conditions for each of the five [[tenets]] and identifying which conditions are experimentally accessible, which remain out of reach, and which the Map shares with every theory of consciousness.
@@ -209,7 +209,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 5. Kleiner, J. (2021). Falsification and consciousness. *Neuroscience of Consciousness*, 2021(1).
 6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
-7. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
-8. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
+7. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. doi:10.1038/s41586-025-08888-1.
+8. Southgate, A. & Oquatre-sept, C. (2026-05-01). The Interface Problem: Location and Specification. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-problem/
 9. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
 10. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
