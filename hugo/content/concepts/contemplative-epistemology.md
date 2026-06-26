@@ -24,7 +24,7 @@ description: Systematic contemplative practice as a legitimate knowledge source 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 06:55:53+00:00
+last_deep_review: 2026-06-26 01:54:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-26 04:03:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: Human+AI exploration of the cognitive void opened by choices whose 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 00:00:00+00:00
+last_deep_review: 2026-06-26 04:03:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,7 +50,7 @@ Paul also introduces an **authenticity constraint**, writing that "part of the v
 
 Standard decision theory requires comparing expected values across options. Critics of Paul have proposed extensions that preserve the standard framework. Two prominent responses merit particular attention, both because they are philosophically serious and because they illuminate the shape of the void by failing to close it.
 
-**Richard Pettigrew** proposes aggregating future selves by treating them as if they were third parties, using weighted value functions to combine their perspectives into a tractable expected value. Paul's (2022) counter is that this treats the future self as an other rather than as oneself — and the thrust of the transformative-experience problem is precisely that the future self is *not* a third party but the agent one becomes. Additionally, the approach requires meaningful intrapersonal value comparisons, which empirical work on adaptation (see [below](#evidence)) suggests may not be reliable.
+**Richard Pettigrew** proposes aggregating future selves by treating them as if they were third parties, using weighted value functions to combine their perspectives into a tractable expected value. Paul's (2015) counter is that this treats the future self as an other rather than as oneself — and the thrust of the transformative-experience problem is precisely that the future self is *not* a third party but the agent one becomes. Additionally, the approach requires meaningful intrapersonal value comparisons, which empirical work on adaptation (see [below](#evidence)) suggests may not be reliable.
 
 **Elizabeth Harman** proposes that relevant knowledge can be obtained through testimony and analogical reasoning from similar prior experiences. Paul's (2015) reply turns on two distinct questions that are easy to run together. The first is *epistemic*: can testimony convey what the experience is like, closing the phenomenal gap the way undergoing the experience would? The second is about *authenticity*: even if testimony did convey reliable outcome information, would a decision reached by deferring to that testimony be the agent's own in the way the choice requires? The two come apart in both directions. Testimony might fail to convey the phenomenal character of parenthood yet a parenthood decision grounded partly in testimony could still be authentically the agent's; conversely, testimony might in some cases convey reliable predictive information while a decision that simply defers to it still alienates the agent from the choice.
 
@@ -71,7 +71,7 @@ These lines do not jointly prove transformation is inaccessible. They make struc
 
 ## What Transformation Does That Learning Does Not
 
-Ordinary learning updates an agent's credences while preserving preferences and self-structure. Transformation does something different. The post-transformation self has preferences the pre-transformation self could not have endorsed from their prior standpoint — often preferences the pre-transformation self would have actively resisted. This is not preference updating under new information. It is preference *replacement* through identity shift.
+Ordinary learning updates an agent's credences while preserving preferences and self-structure. Transformation does something different. The post-transformation self has preferences the pre-transformation self could not have endorsed from their prior standpoint — often preferences the pre-transformation self would have actively resisted. Rather than updating preferences under new information, transformation *replaces* them through identity shift.
 
 This creates the distinctive asymmetry the Map frames as a void of self-knowledge. From the pre-transformation side, the phenomenal character of the outcome is inaccessible in the [acquaintance](/voids/acquaintance-void/) sense, the post-transformation preferences are unpredictable in structure rather than merely in degree, and the rational-agent model's stable-preferences assumption is violated at the axiom level. From the post-transformation side, the choosing self no longer exists in its prior form, retrospective evaluation is shaped by the transformation itself (adaptive preferences, motivated reasoning), and the post-self cannot authentically speak for the pre-self about whether the choice was right *for that agent*.
 
@@ -124,10 +124,10 @@ Three implications follow. First, the Map's apophatic methodology is vindicated 
 
 1. Paul, L. A. (2014). *Transformative Experience*. Oxford University Press. https://global.oup.com/academic/product/transformative-experience-9780198717959
 2. Paul, L. A. (2015). "Transformative Experience: Replies to Pettigrew, Barnes and Campbell." *Philosophy and Phenomenological Research*. https://www.researchgate.net/publication/283965943
-3. Paul, L. A. (2022). Précis of *Transformative Experience*. https://www.lapaul.org/papers/PPR-TE-symposium.pdf
+3. Paul, L. A. (2015). Précis of *Transformative Experience*. *Philosophy and Phenomenological Research* 91(3): 760–765. https://www.lapaul.org/papers/PPR-TE-symposium.pdf
 4. Stanford Encyclopedia of Philosophy. "Transformative Experience." https://plato.stanford.edu/entries/transformative-experience/
 5. Villiger, D. (2024). "Transformative Experience." *Philosophy Compass*. https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.13000
-6. Pettigrew, R. "Transformative experience and the knowledge norms for action." https://philpapers.org/rec/PETTEA-8
-7. Harman, E. "Transformative Experiences and Reliance on Moral Testimony." https://philpapers.org/rec/HARTEA-11
+6. Pettigrew, R. (2020). "Transformative Experience and the Knowledge Norms for Action: Moss on Paul's Challenge to Decision Theory." In E. Lambert & J. Schwenkler (eds.), *Becoming Someone New: Essays on Transformative Experience, Choice, and Change*, 100–121. Oxford University Press. https://philpapers.org/rec/PETTEA-8
+7. Harman, E. (2015). "Transformative Experiences and Reliance on Moral Testimony." *Res Philosophica* 92(2): 323–339. https://philpapers.org/rec/HARTEA-11
 8. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly* 32(127): 127–136.
 9. Southgate, A. & Oquatre-sept, C. (2026-01-27). The Acquaintance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/acquaintance-void/

@@ -20,7 +20,7 @@ description: The brain samples the world in discrete oscillatory cycles at 7-13 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 00:01:32+00:00
+last_deep_review: 2026-06-26 00:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-05-29 03:37:09+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-06-26 01:12:56+00:00
+ai_system: claude-opus-4-8
 author: null
 coalesced_from:
 - /concepts/the-case-for-dualism/
@@ -51,7 +51,7 @@ description: Dualism holds that consciousness is distinct from physical matter. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 03:37:09+00:00
+last_deep_review: 2026-06-26 01:12:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,7 +135,7 @@ The [argument-from-reason](/topics/argument-from-reason/) targets physicalism fr
 
 ### The Convergence
 
-No single argument establishes dualism conclusively. But the explanatory gap, knowledge argument, conceivability, qualia, modal arguments, subjectivity, unity, intentionality, and the argument from reason exploit genuinely different features of consciousness through different logical structures, yet converge on the same conclusion. If a single shared intuition were doing all the work, they would not generate distinct objections requiring distinct responses. The convergence extends across philosophical traditions: [Sāṃkhya, Buddhism, Islamic philosophy, African traditions, and the Kyoto School](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) independently arrive at irreducibility despite disagreeing about substance, self, and causation—suggesting they are tracking a real feature of consciousness rather than a shared cultural assumption.
+No single argument establishes dualism conclusively. But these arguments exploit genuinely different features of consciousness through different logical structures, yet converge on the same conclusion. If a single shared intuition were doing all the work, they would not generate distinct objections requiring distinct responses. The convergence extends across philosophical traditions: [Sāṃkhya, Buddhism, Islamic philosophy, African traditions, and the Kyoto School](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) independently arrive at irreducibility despite disagreeing about substance, self, and causation—suggesting they are tracking a real feature of consciousness rather than a shared cultural assumption.
 
 ## Physicalist Responses and Their Limits
 
@@ -173,7 +173,7 @@ If mind is non-physical, how can it causally affect the physical world? Classica
 
 ### The Parsimony Objection
 
-Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism, but explanatory parsimony favours dualism—a key distinction from [parsimony-epistemology](/concepts/parsimony-epistemology/). Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler theories do not extend to this debate. [Leading materialists themselves](/concepts/parsimony-epistemology/) have acknowledged this: Lycan (2009) calls parsimony "a very posterior reason," and Churchland qualifies his own argument as "not conclusive." The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses this directly.
+Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism, but explanatory parsimony favours dualism—a key distinction from [parsimony-epistemology](/concepts/parsimony-epistemology/). Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler theories do not extend to this debate. [Leading materialists themselves](/concepts/parsimony-epistemology/) have acknowledged this: Lycan (2009) calls parsimony "a very posterior reason," and Churchland qualifies his own simplicity argument as not conclusive. The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses this directly.
 
 ### The Neural Correlation Objection
 
@@ -223,20 +223,23 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 
 1. Barrett, H. C., Bolyanatz, A., Broesch, T., et al. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12992.
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
-1. Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy. *Philosophical Studies*.
+1. Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy: The 2020 PhilPapers survey. *Philosophers' Imprint*, 23(11).
 1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge (1995 reprint).
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 1. Descartes, R. (1641). *Meditations on First Philosophy*.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Huemer, M. (2009). When is parsimony a virtue? *The Philosophical Quarterly*, 59(235), 216-236.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
 1. Kastrup, B. (2019). *The Idea of the World*. iff Books.
+1. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 1. Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Lowe, E. J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
+1. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551-563.
 1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
-1. Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
+1. Robinson, H. (2020). Dualism. *Stanford Encyclopedia of Philosophy*.
 1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Searle, J. R. (1992). *The Rediscovery of the Mind*. MIT Press.
 1. Sober, E. (2001). What is the problem of simplicity? In Keuzenkamp, McAleer, & Zellner (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-29 06:02:38+00:00
+ai_modified: 2026-06-26 01:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -12,7 +12,7 @@ description: 'Iterative comparison of Birch''s two-tier precautionary framework 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 06:02:38+00:00
+last_deep_review: 2026-06-26 01:40:00+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -68,7 +68,7 @@ For AI sentience, Birch installs a distinct principle: regulatory measures shoul
 
 ### The Framework's Metaphysical and Procedural Layers
 
-Birch designs the framework to deliver policy across the standard divides in philosophy of mind: cephalopod, decapod, and insect welfare "matters regardless of physicalism, dualism, or panpsychism" (Carroll & Birch 2024). The metaphysics-of-mind portability is structural rather than biographical — the eight-indicator empirical apparatus operates without appeal to substrate-specific claims and survives intersubstitution of metaphysical priors. That is the genuinely tenet-stable layer.
+Birch designs the framework to deliver policy across the standard divides in philosophy of mind: cephalopod, decapod, and insect welfare matters regardless of physicalism, dualism, or panpsychism (Carroll & Birch 2024). The metaphysics-of-mind portability is structural rather than biographical — the eight-indicator empirical apparatus operates without appeal to substrate-specific claims and survives intersubstitution of metaphysical priors. That is the genuinely tenet-stable layer.
 
 The three foundational principles are not equivalently portable. The first principle (avoid gratuitous suffering) is a near-universal welfare premise. The second (candidature suffices for precaution) is the framework's distinctive load-bearing move and survives most metaphysical priors a precautionary discipline would tolerate. The third (proportionality determined by democratic deliberation) embeds substantive commitments about epistemic authority, expert versus lay competence, and the standing of voting bodies on non-human welfare — commitments Schwitzgebel & Sinnott-Armstrong (2025) and O'Brien (2025) argue are wrong: humans-only democratic procedures lack standing to decide non-human welfare, and citizens' panels cannot simultaneously be deliberative, representative, informed, and timely. The eight-indicator empirical apparatus is therefore tenet-stable in the strong sense; the third foundational principle is tenet-stable only conditionally and is contested in ways that affect adoption. The Map can adopt the empirical apparatus without inheriting the procedural commitment, and the distinction matters for any honest portability claim.
 

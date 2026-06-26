@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-26 01:33:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -33,7 +33,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/3p6g3W_8h-Q
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 00:00:00+00:00
+last_deep_review: 2026-06-26 01:33:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
@@ -210,6 +210,8 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 Anscombe, G.E.M. "A Reply to Mr C.S. Lewis's Argument that 'Naturalism' is Self-Refuting." *Socratic Digest*, vol. 4, 1948. (Critique delivered at the Oxford Socratic Club, February 1948, leading to Lewis's 1960 revision of *Miracles*.)
 
 Davidson, Donald. "Mental Events." In *Experience and Theory*, edited by L. Foster and J.W. Swanson, 79–101. University of Massachusetts Press, 1970. (Anomalous monism: the "same event under different descriptions" account of mental causation.)
+
+Dennett, Daniel. "Real Patterns." *The Journal of Philosophy*, vol. 88, no. 1, 1991, pp. 27–51. (Intentional/rational patterns as real but patterns *in* the physical—the real-patterns reply the argument must answer.)
 
 Goldman, Alvin. "Reliabilism." *Stanford Encyclopedia of Philosophy*, Spring 2016 ed.
 

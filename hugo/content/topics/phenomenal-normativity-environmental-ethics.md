@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-26 02:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: If value requires consciousness, what grounds environmental obligat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 00:00:00+00:00
+last_deep_review: 2026-06-26 02:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ Sentientism, far from licensing environmental destruction, generates demanding o
 
 The [scientific consensus](/topics/animal-consciousness/) on animal consciousness has expanded dramatically. The Cambridge Declaration on Consciousness (2012) affirmed consciousness in mammals and birds. The New York Declaration on Animal Consciousness (2024) extended realistic possibility to all vertebrates and many invertebrates including cephalopods and possibly insects. If these assessments are correct, ecosystems contain vastly more conscious suffering and flourishing than anthropocentric frameworks acknowledge.
 
-Destroying a wetland is not merely losing a "resource" for human recreation. It is destroying the habitat of millions of conscious beings whose experiences carry intrinsic normative weight. Each fish, bird, amphibian, and potentially each insect whose phenomenal experience includes [positive or negative valence](/concepts/valence/) has a stake in the ecosystem's survival—not because the ecosystem has value, but because their experiences do.
+Destroying a wetland does far more than remove a "resource" for human recreation: it eliminates the habitat of millions of conscious beings whose experiences carry intrinsic normative weight. Each fish, bird, amphibian, and potentially each insect whose phenomenal experience includes [positive or negative valence](/concepts/valence/) has a stake in the ecosystem's survival—not because the ecosystem has value, but because their experiences do.
 
 ### Indirect Obligations and Instrumental Value
 
