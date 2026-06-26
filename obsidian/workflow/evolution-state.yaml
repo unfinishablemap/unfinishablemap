@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T18:00:01.299730+00:00'
-session_count: 13545
+last_updated: '2026-06-26T18:10:12.921033+00:00'
+session_count: 13546
 cycle_position: 10088
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
   refine-draft: '2026-06-26T17:58:13.570511+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
-  replenish-queue: '2026-06-26T17:27:48.602216+00:00'
+  replenish-queue: '2026-06-26T18:10:12.921033+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-26T09:20:08.404604+00:00'
   add-highlight: '2026-06-26T08:13:09.692399+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-06-26'
-  outcome: success
 - task: check-tenets
   type: check-tenets
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1168,37 +1168,38 @@ queue_status:
     still pending; the run-692 floor-restore project/automation.md was CONSUMED by
     the cycle-slot deep-review at HEAD 829f05633 minutes after minting, 3->2, documented
     replenish-at-floor alternation unfin_loop_steady_state NOT the empty-queue deadlock;
-    the three veto condense tasks parser-excluded, the 15 P3s do not count toward the
-    floor. Last completed task was research-voids (NOT replenish-queue) so this is
-    the legitimate alternation point. MIN_QUEUE floor 3 unmet by 1; this single mint
-    restores 2->3 (post-mint count_p0_p2_tasks==3 verified live). SOURCE=staleness
+    the three veto condense tasks parser-excluded, the 15 P3s do not count toward
+    the floor. Last completed task was research-voids (NOT replenish-queue) so this
+    is the legitimate alternation point. MIN_QUEUE floor 3 unmet by 1; this single
+    mint restores 2->3 (post-mint count_p0_p2_tasks==3 verified live). SOURCE=staleness
     (Source 4), project-tier frontier -- a STRONGER candidate than runs 690-692 which
-    minted only settled already-reviewed pages (38d/41d/58d): a full-section scan THIS
-    RUN surfaces 17 project/ files that have NEVER been deep-reviewed (no last_deep_review
+    minted only settled already-reviewed pages (38d/41d/58d): a full-section scan
+    THIS RUN surfaces 17 project/ files that have NEVER been deep-reviewed (no last_deep_review
     in frontmatter or git history) -- older debt than any already-reviewed candidate.
-    project/direct-refutation-discipline.md is the OLDEST never-reviewed AI-heavy candidate
-    by creation (2026-05-04, 53d ago, aic=100), excluding human-authored project-brief.md
-    (aic=0 fails the ai_contribution>50 gate) and the today-touched closed-loop-opportunity-execution.md
-    (commit e9147dbf9 slot-ratio refine landed today -- same-cycle, skipped). Load-bearing
-    methodology-discipline page, heavily cross-cited, so a 53d never-reviewed aic=100
-    page is genuine review debt. TOP-inserted above the 38d settled pair for FIFO drain
-    of oldest debt first (queue-lifo-starvation). VERIFIED clean: 0 commits since 2026-06-26T00:00,
-    no same-day collision review file, not archived/vetoed (Vetoed hits are false-positive
-    cross-link mentions in other tasks notes), no open duplicate header, EOF tool-tag
-    scan clean, ai_system=claude-opus-4-7. LENGTH FLAG: body 5555w = CRITICAL via analyze_length
-    (project/ default threshold); the deep-review note instructs length-neutral-to-TRIMMING
-    only, do NOT add net content, do NOT auto-condense the load-bearing taxonomy/exhibits
-    -- record ACCEPT-AS-SURVEY or DIVERT-to-human if it cannot trim below critical
-    without losing load-bearing content. EIGHT-SOURCE AUDIT reverified (replenish-false-exhaustion-mislabeled-drift):
+    project/direct-refutation-discipline.md is the OLDEST never-reviewed AI-heavy
+    candidate by creation (2026-05-04, 53d ago, aic=100), excluding human-authored
+    project-brief.md (aic=0 fails the ai_contribution>50 gate) and the today-touched
+    closed-loop-opportunity-execution.md (commit e9147dbf9 slot-ratio refine landed
+    today -- same-cycle, skipped). Load-bearing methodology-discipline page, heavily
+    cross-cited, so a 53d never-reviewed aic=100 page is genuine review debt. TOP-inserted
+    above the 38d settled pair for FIFO drain of oldest debt first (queue-lifo-starvation).
+    VERIFIED clean: 0 commits since 2026-06-26T00:00, no same-day collision review
+    file, not archived/vetoed (Vetoed hits are false-positive cross-link mentions
+    in other tasks notes), no open duplicate header, EOF tool-tag scan clean, ai_system=claude-opus-4-7.
+    LENGTH FLAG: body 5555w = CRITICAL via analyze_length (project/ default threshold);
+    the deep-review note instructs length-neutral-to-TRIMMING only, do NOT add net
+    content, do NOT auto-condense the load-bearing taxonomy/exhibits -- record ACCEPT-AS-SURVEY
+    or DIVERT-to-human if it cannot trim below critical without losing load-bearing
+    content. EIGHT-SOURCE AUDIT reverified (replenish-false-exhaustion-mislabeled-drift):
     chains consumed (zero research/expand/cross-review completions); no unconsumed
-    research; gap/caps topics 281/320 + concepts 272/320 harvester-governed (last 14:56,
-    next ~20:56), voids 101/100 over-cap, positions 8/80 slow-add; orphans=0; length
-    offenders all veto/accept-as-survey/human-deferred/research-note/index-hub; positions
-    8<10 audit threshold; applied-apex 3 exist no cluster gap; staleness (never-reviewed
-    project tier) the live source. Next project-tier FIFO: the 38d voids-safety-protocol
-    + human-supervision pair, then the remaining 16 never-reviewed project pages (common-cause-null
-    47d, cluster-integration-discipline + causal-budget-ledger 46d, the four 44d 2026-05-13
-    pages, ...).'
+    research; gap/caps topics 281/320 + concepts 272/320 harvester-governed (last
+    14:56, next ~20:56), voids 101/100 over-cap, positions 8/80 slow-add; orphans=0;
+    length offenders all veto/accept-as-survey/human-deferred/research-note/index-hub;
+    positions 8<10 audit threshold; applied-apex 3 exist no cluster gap; staleness
+    (never-reviewed project tier) the live source. Next project-tier FIFO: the 38d
+    voids-safety-protocol + human-supervision pair, then the remaining 16 never-reviewed
+    project pages (common-cause-null 47d, cluster-integration-discipline + causal-budget-ledger
+    46d, the four 44d 2026-05-13 pages, ...).'
   run_692_note: 'run no.692 (2026-06-26T~17:22Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (project/automation.md). Pre-mint count_p0_p2_tasks==2
     via tools.evolution.task_selector live this session (the two run-690 floor-restores
