@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T00:34:00+00:00 - deep-review
+- **Status**: Success (staleness re-pick; converged no-op; `last_deep_review`-only bump). Orchestrator-finalized (fork monitor-wait-bailed; 6-cite ledger folded in; Herzog author-order regression check PASSED).
+- **File**: [[concepts/neural-refresh-rates]]
+- **Word count**: 1351 → 1351 (no edits; only last_deep_review bumped 2026-05-29 → 2026-06-26, ai_modified left settled)
+- **Critical issues addressed**: 0; **Medium**: 0; **Low**: 0
+- **Summary**: 2026-05-29 staleness frontier-tier pick. Body byte-unchanged since 2026-05-29 review (git e60110c4b). §2.4 web-verify (6 cites ALL real-correct). FLAGGED ITEM PASSED: Herzog/Drissi-Daoudi/Doerig 2020 (TiCS 24(10):826-837, DOI 10.1016/j.tics.2020.07.001) author order confirmed correct via CrossRef metadata (Herzog→Drissi-Daoudi→Doerig) — prior corpus-split inversion fix HELD, no regression. Others: VanRullen 2016 (TiCS 20(10):723-735, PMID 27567317), Crick & Koch 1990 (Seminars in the Neurosciences 2:263-275), Sellars 1965 (Review of Metaphysics 18(3):430-451), Bergson 1889, James 1890. Zero fabrications/metadata/author-order errors. Mechanical: 1351w ok, EOF clean (ref-7 AI-authorship self-cite legit), no banned cliché, currency N/A. NO-OP hygiene: last_deep_review bumped, ai_modified settled; date -u-verified 00:34 not future.
+- **Output**: [[reviews/deep-review-2026-06-26-neural-refresh-rates]]
+
 ## 2026-06-26T00:13:00+00:00 - deep-review
 - **Status**: Success (staleness re-pick; near-no-op — 2 stale-anchor wikilink fixes; both timestamps bumped). Orchestrator-finalized (fork applied fixes then monitor-wait-bailed; 10-cite ledger folded in; fork's future-dated 00:15 stamps corrected to 00:13).
 - **File**: [[topics/the-psychophysical-control-law]]
