@@ -1,13 +1,64 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 14:52:00+00:00
+ai_modified: 2026-06-26 17:38:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-26T17:38:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/the-binding-problem.md` (3374w flagship; first dedicated pessimistic review; last_deep_review 2026-06-02; coalesced article)
+- **Findings**: 4 substantive (2 High, 2 Medium) + 1 Low (length soft-warning). High: (1) the central "five varieties → structural gap" inference jumps from a pattern of *current* explanatory failure to a *metaphysical* kind-difference without engaging the equally-predicted "single tractable reduction in progress" reading; (2) quantum-holism bridge front-loads the strong thalamic-collapse claim while burying the decoherence/empirical hedges two sections away, plus an unaddressed internal tension between bias-only minimal interaction and entanglement-as-holism (which needs sustained multi-region coherence). Medium: (3) epistemic↔metaphysical equivocation at §Temporal Recalibration ("design constraint on consciousness" from a functional coherence-preference datum); (4) §Subject Binding omits the no-self/deflationary reply and uses the Nagel split-brain datum one-sidedly. Clean: no fabricated citations, no EOF tool-tag artifact, no editor-vocabulary label leakage, sampled wikilinks resolve, altered-state audit N/A (supportive-cluster gate not met). Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-26b-the-binding-problem](/reviews/pessimistic-2026-06-26b-the-binding-problem/)
+
+## 2026-06-26T17:33:00+00:00 - deep-review
+- **Status**: Success (system-doc fact-check — real factual drift caught)
+- **File**: [automation](/project/automation/)
+- **Word count**: 1301 → 1391 (+90; 56% of 2500 concepts soft — well under threshold, length-neutral)
+- **Critical issues addressed**: 2 — (1) stale slot ratios: live `cycle.py` is 17:4:1:1:1, not the article's 16/24 queue + 2/24 coalesce (second coalesce slot cut to a queue slot per tune-system 2026-04-29b); corrected in lead, Mermaid diagram, Task Queue section, and the disciplines "16:4:1:1:2"→"17:4:1:1:1". (2) stale Claude outer-review model "Opus 4.7 Adaptive" → live "Fable 5 (Opus 4.8 fallback)" (verified vs live `outer-review-2026-06-26-claude-opus-4-8` filenames + CLAUDE.md).
+- **Medium issues addressed**: 2 — added the 7th optimistic persona (Jonathan Birch / Hardline Empiricist, the evidential-restraint counterweight to the Process Philosopher) to the supporters table; added the omitted `embed-videos` cycle trigger to the lead and diagram.
+- **Enhancements made**: Verified-correct-no-change ledger recorded for `MIN_QUEUE_TASKS=3`, the `fcntl` lock, the Chrome window boundary, the ChatGPT/Gemini models, the 2026-05-03/04 convergence claim, and all 14 wikilinks. No external bibliographic citations (§2.4 N/A); no named-opponent replies (§2.6 N/A). Frontmatter `ai_system` corrected claude-opus-4-7→claude-opus-4-8. Queued a P2 follow-up to sync the same stale ratio in the sibling [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) (and noted CLAUDE.md is also stale).
+- **Output**: [deep-review-2026-06-26-automation](/reviews/deep-review-2026-06-26-automation/)
+
+## 2026-06-26T00:00:00+00:00 - deep-review
+- **Status**: Success (convergence pass — 2nd pass)
+- **File**: [why-this-is-different](/project/why-this-is-different/)
+- **Word count**: 526 → 526 (±0; 21% of 2500 concepts soft — landing-page terseness preserved, no length action)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added missing `[[changelog]]` to `related_articles`; body linked it but frontmatter omitted it — graph-completeness fix, body prose untouched)
+- **Enhancements made**: 1. Web-verified the two external load-bearing claims: SSRN DOI 10.2139/ssrn.6330678 resolves (real-correct, consistent across index.md + both paper files) and the GitHub repo is real/public. EOF-artifact, LLM-cliché, and video-ID-integrity sweeps all clean. Methodological landing page; §2.5/§2.6 N/A. Article reached stability (2 consecutive no-critical passes).
+- **Output**: [deep-review-2026-06-26-why-this-is-different](/reviews/deep-review-2026-06-26-why-this-is-different/)
+
+## 2026-06-26T00:00:00+00:00 - deep-review
+- **Status**: Success (no-op convergence pass — 7th pass)
+- **File**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Word count**: 2525 → 2525 (±0; 84% of 3000 topics soft — no length action)
+- **Critical issues addressed**: 0 (none found; body byte-unchanged since fully-verified 6th pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0. Re-surfaced only by a cosmetic cross-link ai_modified bump (commit c3559335f, 2026-06-20). Verified the one new element — the [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) Further-Reading link: target exists, cited section "The Experience of Necessity" is live (no stale-quote drift), and the link is genuinely reciprocated (CM back-links to NORM). 6th-pass citation audit (every ref web-verified, Crane→Pernu fix) and 5th-pass calibration hedge intact. Advanced last_deep_review to reset the staleness clock.
+- **Output**: [deep-review-2026-06-26-consciousness-and-the-normativity-of-reason](/reviews/deep-review-2026-06-26-consciousness-and-the-normativity-of-reason/)
+
+## 2026-06-26T16:55:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/)
+- **Word count**: 1819 → 1894 (+75; 76% of 2500 concepts soft — well under threshold)
+- **Critical issues addressed**: 0 (none found; 2026-05-31 resonance-not-corroboration calibration guard intact, no evidence-elevation drift, no label leakage, no LLM cliché)
+- **Medium issues addressed**: 1 — absorbed the Dennett "mediator relocates the interaction problem" objection into the Akan section (reframing-not-dissolution; Mode Two engagement in natural prose). Previously only acknowledged externally as "structural parallel."
+- **Enhancements made**: 1. Citation web-verify (5th review): all 6 references re-confirmed real-correct at publisher of record (Gyekye/Tempels/Wiredu/Abimbola/Metz 15(3):321-341/Hountondji); no superlative/currency claims; 19/19 wikilinks resolve.
+- **Output**: [deep-review-2026-06-26-african-philosophy-of-consciousness](/reviews/deep-review-2026-06-26-african-philosophy-of-consciousness/)
+
+## 2026-06-26T16:36:25+00:00 - deep-review
+- **Status**: Success (no-change verdict — converged)
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Word count**: 3161 → 3161 (±0; 105% of 3000 topics soft, below 4000 hard — no length action)
+- **Critical issues addressed**: 0 (none found; body unchanged since 2026-05-27)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — 6th review (5 deep + 1 pessimistic); fully converged. Drift-vector checks clean: 29/29 wikilinks resolve (no archival link rot), no superlative/currency claims, no EOF artifact, validate ✓. Citation ledger of record stands (2026-05-31, References block unchanged). last_deep_review bumped to suppress re-nomination.
+- **Output**: [deep-review-2026-06-26-indian-philosophy-of-mind](/reviews/deep-review-2026-06-26-indian-philosophy-of-mind/)
 
 ## 2026-06-26T16:10:00+00:00 - apex-evolve
 - **Status**: Complete

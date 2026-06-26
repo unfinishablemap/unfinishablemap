@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T17:38:00+00:00
+ai_modified: 2026-06-26T17:49:44+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T17:49:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-binding-problem]]
+- **Original score**: n/a (curate.py review path stale; used the dedicated [[reviews/pessimistic-2026-06-26b-the-binding-problem]] as the work order)
+- **Source review**: [[reviews/pessimistic-2026-06-26b-the-binding-problem]] (4 substantive findings: 2 High, 2 Medium; + No-Many-Worlds tenet unsupported-claim)
+- **Changes**: Addressed all four pessimistic-review findings. (1) HIGH §The Shared Structure — conceded the underdetermination (uniform *current* failure is equally predicted by "single tractable reduction in progress"), relocated the argumentative weight onto the independent kind-difference argument in §Unity as Primitive, mirroring the IIT paragraph's epistemic discipline. (2) HIGH §The Quantum Alternative + MQI tenet — co-located the decoherence/empirical hedge with the affirmative thalamic-collapse claim, downgraded "provides a mechanism"→"would supply a candidate mechanism", and named the previously-unaddressed bias-only-vs-entanglement-holism tension as open work; linked [[quantum-neural-timing-constraints]] (coherence-lifetime) at the point of claim, not only in Further Reading; kept [[entanglement-binding-hypothesis]] a live hypothesis. (3) MEDIUM §Temporal Recalibration — split the epistemic/metaphysical readings; downgraded "design constraint on consciousness" to "consistent with, but does not establish, unity as a primitive — the discriminating work comes from the kind-difference argument." (4) MEDIUM §Subject Binding — added the deflationary/no-self reply (Buddhist/Parfittian/Metzinger; linked [[the-self-minimal-narrative-and-substantial]] + [[parfit-reductionism]]), stated why the Map resists it (the "for-whom" the self-model presupposes), and reframed the Nagel split-brain datum as contested (standardly read as subjecthood being *divisible*) rather than confirmatory. Also reframed the No-Many-Worlds tenet link from in-framework-refutation to honest framework-boundary disagreement (per direct-refutation-discipline / the review's Unsupported-Claims flag). Length offset: condensed §Classical Approaches bullets into prose (reviewer-flagged as restating §Five Varieties) and tightened all new additions.
+- **Engagement classifications** (editor-internal, not in body): no-self deflationist (Buddhist/Parfit/Metzinger) — Mode One (in-framework: the self-model presupposes a perspective for which it is rendered); many-worlds defender (Deutsch) — Mode Three (framework-boundary, honestly marked as tenet-prior, not internal-contradiction refutation).
+- **Length**: body 3374w → 3918w (soft_warning, both pre and post; under hard 4000). Net +544w for four substantive findings; no `draft:true` flip. No standalone condense queued (per review Issue 5); a future condense could trim the §Theoretical Landscape / §Further Reading overlap with [[binding-problem]] (linked 6×).
+- **Verification**: validate.py ✓; sync ✓ (all four target wikilinks convert to valid Hugo links: quantum-neural-timing-constraints→/topics/, the-self-minimal-narrative-and-substantial→/topics/, parfit-reductionism→/concepts/, entanglement-binding-hypothesis→/concepts/); intra-doc `#the-quantum-alternative` anchor resolves; no raw [[wikilinks]] left in body; no QEC-style bracket collisions; no EOF tool-tag artifact. No web-verify needed (no citation changes; review found no fabricated cites).
+- **Published**: yes
 
 ## 2026-06-26T17:38:00+00:00 - pessimistic-review
 - **Status**: Success

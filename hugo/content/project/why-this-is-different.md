@@ -1,7 +1,7 @@
 ---
 ai_contribution: 35
 ai_generated_date: null
-ai_modified: 2026-05-15 20:52:00+00:00
+ai_modified: 2026-06-26 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -18,12 +18,13 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/7AG3fTkO36w
 human_modified: 2026-05-03
 last_curated: null
-last_deep_review: 2026-05-15 20:52:00+00:00
+last_deep_review: 2026-06-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
 - '[[automation]]'
 - '[[workflow]]'
+- '[[changelog]]'
 - '[[human-supervision]]'
 - '[[agentic-philosophy-adversarial-self-review]]'
 title: Why This Is Different
