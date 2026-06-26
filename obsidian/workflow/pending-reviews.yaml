@@ -301,3 +301,31 @@
   subject_articles:
   - topics/empirical-phenomena-mental-causation.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/04409dc4-7ec2-4602-85cd-0f304120efbc
+  commissioned_at: '2026-06-26T03:08:32.357889+00:00'
+  prompt_summary: Audit empirical-phenomena-mental-causation (placebo/choking)
+  target_filename: outer-review-2026-06-26-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile but fair philosophy referee. Audit one article on
+    The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind
+    project. Target: "Empirical Phenomena of Mental Causation: Placebo and Choking"
+    at https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/. It
+    argues placebo effects plus the "choking under pressure" phenomenon form a two-sided
+    empirical case for mental causation that constrains epiphenomenalism. Scrutinize:
+    (1) whether the cited literature (placebo neurobiology, expectancy effects, motor-skill
+    choking) actually supports content-specific downward causation, or admits deflationary
+    physicalist readings; (2) whether choking (conscious self-monitoring disrupting
+    automatised execution) genuinely cuts against epiphenomenalism or is consistent
+    with it; (3) overstated or miscited claims and the currency of sources. Use web
+    search; also consult the changelog (https://unfinishablemap.org/workflow/changelog/)
+    since external indexes lag 24-48h. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit empirical-phenomena-mental-causation
+  subject_articles:
+  - topics/empirical-phenomena-mental-causation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-26-chatgpt-5-5-pro.md
