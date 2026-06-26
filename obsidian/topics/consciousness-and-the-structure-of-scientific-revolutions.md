@@ -4,8 +4,8 @@ description: "Applying Kuhn's framework to consciousness studies reveals physica
 created: 2026-03-11
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
-last_deep_review: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-26T10:15:14+00:00
+last_deep_review: 2026-06-26T10:15:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,5 +113,4 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
 1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Lakatos, I. (1978). *The Methodology of Scientific Research Programmes*. Cambridge University Press.
-1. Southgate, A. & Oquatre-six, C. (2026-02-19). Consciousness and the Problem of Philosophical Progress. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-problem-of-philosophical-progress/
-1. Southgate, A. & Oquatre-six, C. (2026-02-20). Consciousness and the Problem of Theoretical Virtues. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-problem-of-theoretical-virtues/
+1. Southgate, A. & Oquatre-six, C. (2026-02-18). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/

@@ -5,6 +5,19 @@ ai_modified: 2026-06-26T07:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T10:15:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-structure-of-scientific-revolutions]]
+- **Word count**: 2046 → ~2030 (References block: two stale self-cites collapsed to one live cite; no body prose changed)
+- **Critical issues addressed**: 1 (archival link-rot in References — two dead Map self-citations `consciousness-and-the-problem-of-philosophical-progress` + `consciousness-and-the-problem-of-theoretical-virtues`, both two-hop-archived via `consciousness-and-methodological-failure`, repointed to the live successor `consciousness-defeats-explanation`)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth pass; converged article, no content manufactured)
+- **Citations web-verified (publisher of record, re-run on orchestrator directive — older opus-4-6 build despite settled placeholder)**: all real-correct — Kuhn 1962 (p.79 quote verbatim), Levine 1983 PPQ 64(4):354-361 (DOI 10.1111/j.1468-0114.1983.tb00207.x), Chalmers 1996 OUP (1994 Tucson hard-problem dating accurate), Lakatos 1978 CUP, Leibniz mill 1714 (Monadology §17), Locke inverted spectrum 1690 (Essay). No fabricated/wrong-metadata cites.
+- **Currency sweep**: no superlative empirical claims (find_superlative_claims empty); Kuhnian "paradigm in crisis" framing consistently hedged as interpretive lens, no inflation to chase.
+- **Calibration**: diagnostic test returns no — no possibility/probability slippage; dualism-as-candidate-successor framed as interpretive, not evidence-elevated.
+- **Links**: all 22 wikilink targets live; four tenet sub-anchors canonical; born-rule cross-link correct; EOF clean; no cliché/label-leakage.
+- **Output**: [[reviews/deep-review-2026-06-26-consciousness-and-the-structure-of-scientific-revolutions]]
+
 ## 2026-06-26T10:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/anesthesia-void]]
