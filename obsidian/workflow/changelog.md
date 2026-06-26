@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T18:19:34+00:00
+ai_modified: 2026-06-26T18:32:49+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T18:32:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/common-cause-null]]
+- **Word count**: 3469 → 3498 (+29; kept under the 3500 hard threshold via length-neutral trims)
+- **Critical issues addressed**: 3 (all `[[apex-stale-internal-quote-channel]]` staleness against rewritten siblings: (1) "seven traditions" contradicted the dissociation apex's self-administered "five-or-six, not seven" re-count + Bergson/Schwitzgebel reassignments — corrected; (2) stale "line 144" pointer to the apex (now blank; acknowledgement moved to ~L159) — removed in 2 places; (3) stale "line 142" pointer to the-convergence-argument-for-dualism (binding/unity content now at L83–93) — removed, substantive claim kept)
+- **Medium issues addressed**: 0 (broader meta-doc brittleness mitigated by removing all hard "line N" pointers — `grep "line [0-9]"` now empty)
+- **Enhancements made**: 1 (dissociation-cluster example now showcases the doc's own "audit the count downward" discipline operating on the flagship apex)
+- **Citation web-verify (§2.4)**: Reichenbach 1956 (UC Press), Salmon 1984 (Princeton UP, 9780691101705), Sober 1988 (MIT Press, 9780262691444), Cartwright 1983 (OUP, 9780198247043) — all real-correct at publisher of record. References 1,6–9 internal Map self-refs (Ref 6 date matches apex). No fabricated cites; no inline↔References orphans; no superlative-currency claims.
+- **First deep review** of this file. The one filename-matching review was a cross-review of the dissociation apex against this doc, not a review of this doc.
+- **Output**: [[reviews/deep-review-2026-06-26-common-cause-null]]
 
 ## 2026-06-26T18:19:34+00:00 - deep-review
 - **Status**: Success
