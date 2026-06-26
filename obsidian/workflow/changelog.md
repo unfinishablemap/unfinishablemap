@@ -5,6 +5,17 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T01:12:56+00:00 - deep-review
+- **Status**: Success (9th review; converged hub; 5 citation/quote fixes via §2.4 publisher-of-record pass; both timestamps bumped)
+- **File**: [[concepts/dualism]]
+- **Word count**: 2482 → 2529 (+47; concepts soft 2500 / hard 3500 — 3 orphan-citation References entries added, partly offset by trimming a redundant 3rd enumeration of the nine-argument list in *The Convergence*)
+- **Critical issues addressed**: 4 — (1-3) inline→References orphans Cutter 2019 / Kind 2015 / Lycan 2009 (cited inline, Lycan with quote, but absent from References) resolved by ADDING canonical publisher-verified entries (cross-confirmed in siblings); (4) Bourget & Chalmers 2023 venue wrong (*Philosophical Studies* → *Philosophers' Imprint* 23(11) — the 2020 PhilPapers survey paper, source of the lead "22%" stat). Plus Robinson 2020 SEP title fix ("Substance dualism" → "Dualism") and Churchland quote-fidelity de-quote ("not conclusive" was a truncated paraphrase-in-quotes; source is "not a conclusive argument for materialism").
+- **Medium issues addressed**: 0 new; **Enhancements**: 0 (converged hub under length constraint).
+- **§2.4 citation web-verify**: full per-cite ledger in the review archive (26 cites + 2 quotes). 24 real-correct, 2 real-wrong-metadata (Bourget&Chalmers venue, Robinson title) both FIXED, 3 inline-orphans FIXED, 0 fabricated. Currency sweep: no superlatives. Jackson + Lycan direct quotes verified faithful at publisher of record. Family-resolution: dualism.md was sole corpus carrier of the Bourget venue error. The §2.4 pass caught both metadata errors that 8 prior "verified" reviews ratified via intra-corpus consistency.
+- **Scans**: EOF tool-tag clean; banned "X is not Y. It is Z." cliché NONE (line-143 illusionism passage is a false-positive claim-plus-consequence structure, KEEP); no label leakage; stale-internal-quote channel N/A (all quotes external-source). Tenet-1/calibration sound — no possibility/probability slippage.
+- **Engagement modes** (editor-internal): illusionism Mode Two, Type-A physicalism Mode Two, eliminativism Mode Two/Mixed, MWI/no-self Mode Three (bedrock).
+- **Output**: [[reviews/deep-review-2026-06-26-dualism]]
+
 ## 2026-06-26T00:57:30+00:00 - deep-review
 - **Status**: Success (3rd review; converged; one banned-cliché prose fix; both timestamps bumped)
 - **File**: [[voids/interested-party-void]]
