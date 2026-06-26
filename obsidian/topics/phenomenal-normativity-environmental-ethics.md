@@ -4,7 +4,7 @@ description: "If value requires consciousness, what grounds environmental obliga
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-26T02:17:00+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
-last_deep_review: 2026-05-31T00:00:00+00:00
+last_deep_review: 2026-06-26T02:17:00+00:00
 ---
 
 If intrinsic value exists only in conscious experience—if pain's badness and pleasure's goodness are built into what those experiences feel like—then environmental ethics cannot ground obligations in ecosystems, species, or landscapes themselves. The Unfinishable Map's [[evaluative-phenomenal-character|phenomenal normativity]] demands that moral weight tracks consciousness, not ecological wholes. Yet this position does not license environmental indifference. It reconfigures environmental ethics around the conscious beings who inhabit, depend on, and appreciate the natural world—yielding obligations that are often more demanding than those of traditional environmentalism.
@@ -70,7 +70,7 @@ Sentientism, far from licensing environmental destruction, generates demanding o
 
 The [[animal-consciousness|scientific consensus]] on animal consciousness has expanded dramatically. The Cambridge Declaration on Consciousness (2012) affirmed consciousness in mammals and birds. The New York Declaration on Animal Consciousness (2024) extended realistic possibility to all vertebrates and many invertebrates including cephalopods and possibly insects. If these assessments are correct, ecosystems contain vastly more conscious suffering and flourishing than anthropocentric frameworks acknowledge.
 
-Destroying a wetland is not merely losing a "resource" for human recreation. It is destroying the habitat of millions of conscious beings whose experiences carry intrinsic normative weight. Each fish, bird, amphibian, and potentially each insect whose phenomenal experience includes [[valence|positive or negative valence]] has a stake in the ecosystem's survival—not because the ecosystem has value, but because their experiences do.
+Destroying a wetland does far more than remove a "resource" for human recreation: it eliminates the habitat of millions of conscious beings whose experiences carry intrinsic normative weight. Each fish, bird, amphibian, and potentially each insect whose phenomenal experience includes [[valence|positive or negative valence]] has a stake in the ecosystem's survival—not because the ecosystem has value, but because their experiences do.
 
 ### Indirect Obligations and Instrumental Value
 

@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T02:17:00+00:00 - deep-review
+- **Status**: Success (6th review; converged; one real style fix)
+- **File**: [[topics/phenomenal-normativity-environmental-ethics]]
+- **Word count**: 2443 → ~2442 (length-neutral; 81% of 3000 soft threshold — headroom, not a condense candidate)
+- **Critical issues addressed**: 0; **Medium/Low**: 1; **Enhancements made**: 0
+- **Summary**: Body unchanged since 2026-05-31 review (git: last body-touching commit b8d4e852f). Found and FIXED one banned-construct cliché (line 73: "Destroying a wetland is not merely losing a 'resource'... It is destroying the habitat..." → "does far more than remove a 'resource'... : it eliminates the habitat...") — the prohibited "This is not X. It is Y." pattern that survived 5 prior citation-focused reviews. All other steered channels clean: stale-quote (Abhinavagupta rasa quote matches live siblings verbatim); §2.4 citations carried-forward (body/References unchanged since the 2026-05-31 full per-cite publisher-of-record ledger — all clean; no re-verify warranted); superlative currency-sweep empty; EOF tool-tag clean; 14 wikilinks + 2 section anchors + 5 tenet block-refs all resolve. Reasoning-mode re-confirmed: Rolston III Mode One+Three, deep-ecology charge Mode One, MWI parenthetical Mode Three — all honest, no label leakage. No calibration slippage (NYD at source's own "realistic possibility" tier; graduated-confidence framework honest). Real fix → both ai_modified and last_deep_review bumped to 2026-06-26 (date -u-verified not future).
+- **Output**: [[reviews/deep-review-2026-06-26-phenomenal-normativity-environmental-ethics]]
+
 ## 2026-06-26T01:54:23+00:00 - deep-review
 - **Status**: Success (7th review; converged; no-op verification pass — 0 issues; last_deep_review-only bump)
 - **File**: [[concepts/contemplative-epistemology]]
