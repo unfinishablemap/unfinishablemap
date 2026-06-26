@@ -5,6 +5,18 @@ ai_modified: 2026-06-26T12:52:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T13:02:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/self-maintained-cognitive-limits]]
+- **Word count**: 2432 → 2432 (+0; confirmed no-op — body + References UNCHANGED since 2026-05-31 review commit b033305a0, which was the last commit touching the file)
+- **Critical issues addressed**: 0 (none found; third consecutive deep review with zero critical, strongly converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (content no-op; `last_deep_review` bumped ONLY, `ai_modified` left at settled 2026-05-31T10:27:56+00:00)
+- **Citation web-verify**: References byte-identical to twice-verified version; re-confirmed the sole time-varying figure live — Burke, Martens & Faucher 2010 (*Pers. Soc. Psychol. Rev.* 14(2), 155–195, DOI 10.1177/1088868309352321): 164 articles / 277 experiments — real-correct. Wegner 1994 (101(1), 34–52), Golman et al. 2017 (JEL 55(1), 96–135), McGinn 1989 (*Mind* 98(391), 349–366) carry prior publisher verification; corpus-grep confirms McGinn tuple is the canonical stable form (no family-resolution needed). All 11 refs invoked, no orphans either direction. No superlative claims (currency-sweep N/A).
+- **Hygiene**: EOF tool-tag scan clean; 5 tenet sub-anchors canonical (match tenets.md exactly); agency-void#the-verification-circularity resolves; all wikilinks resolve; no dup frontmatter keys; no "is not X. It is Y." cliché; no stale internal sibling-quotes (only external citations quoted). Calibration: void claim consistently structural/phenomenological, no possibility/probability slippage (tenet-accepting reviewer would flag nothing).
+- **Length**: 2432 words / 2000 voids soft (122%, soft_warning); length-neutral, unchanged.
+- **Output**: [[reviews/deep-review-2026-06-26-self-maintained-cognitive-limits]]
+
 ## 2026-06-26T12:52:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-philosophical-disagreement]]

@@ -49,7 +49,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated: null
-last_deep_review: 2026-05-31T10:27:56+00:00
+last_deep_review: 2026-06-26T13:02:07+00:00
 coalesced_from:
   - "/voids/defended-territory/"
   - "/voids/complicity-void/"
