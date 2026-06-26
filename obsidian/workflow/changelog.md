@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T21:26:53+00:00
+ai_modified: 2026-06-26T22:23:33+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T22:23:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/von-neumann-wigner-interpretation]]
+- **Original score**: good condition (per pessimistic-2026-06-26c; external cites verified clean, weaker-than-headline disclosure present)
+- **Addresses**: pessimistic-review 2026-06-26c (1 medium + 2 low)
+- **Changes**:
+  - PRIMARY (medium, internal contradiction): §"From von Neumann–Wigner to Stapp" reframed so the Process-1/context-selection "theoretical conservativeness" virtue is now registered as ACKNOWLEDGED BUT NOT ADOPTED (content preserved, not deleted). Added a new paragraph aligning the evaluative load with tenets.md line 102 (the Map commits to outcome-selection NOT context-selection; Process-1-only relocation is an alternative "the Map could adopt but has not" because it would weaken outcome-selection to context-setting). Added pointers to [[apex/post-decoherence-selection-programme]] (flagship statement of the endorsed post-decoherence outcome-selection path) and to the tenets' outcome-vs-context choice. Stapp lineage now framed as historically sharpest successor / contrast pole, not the placement the Map favours.
+  - SECONDARY (low-medium): added one sentence in §"Relation to Site Perspective" (weaker-than-headline paragraph) surfacing the empirical-indistinguishability testability cost ("empirically indistinguishable from chance under any aggregate-statistics test") per tenets.md line 102, cross-linking the [[apex/post-decoherence-selection-programme#The Bias-Without-Deviation Dilemma Open|bias-without-deviation dilemma]].
+  - TERTIARY (low): §"Where the Modulation Framing Appears" — softened "Each of these articles invokes the weaker-than-headline disclosure" → "Most of these articles invoke..." with a clause noting the decoherence link is included for the relocation-of-modulation point, not for carrying disclosure language (verified: decoherence.md has zero modulation/disclosure mentions; the other four links carry 2-22).
+- **Engagement classification** (editor-internal, not in article body): engagement with Stapp on Process-1 placement: Mode Three (framework-boundary marking) — the Map declines Stapp's context-selection placement on its own tenet commitments (outcome- vs context-selection), honestly noted as a framework choice with a stated testability cost, not as an in-framework refutation of Stapp.
+- **Calibration**: "Oquatre-six, C." (line 148) NOT flagged — established AI co-author byline. External cites untouched (verified clean by the review). EOF clean. No label-leakage / editor-vocabulary in body.
+- **Word count**: body 2500w → 2750w (concepts soft 2500; well under hard 3500; additions proportionate, no offset needed)
+- **Published**: yes
 
 ## 2026-06-26T22:30:00+00:00 - pessimistic-review
 - **Status**: Success
