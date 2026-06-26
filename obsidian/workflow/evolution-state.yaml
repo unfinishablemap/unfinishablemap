@@ -1,5 +1,9 @@
-last_updated: '2026-06-26T12:21:16.286911+00:00'
-session_count: 13489
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-26T12:29:05.713336+00:00'
+session_count: 13490
 cycle_position: 10063
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-26T09:32:42.419390+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-25T17:32:26.183024+00:00'
-  agentic-social: '2026-06-26T12:28:24.215898+00:00'
+  agentic-social: '2026-06-26T12:29:05.713336+00:00'
   embed-videos: '2026-06-26T10:41:46.865455+00:00'
   commission-chatgpt-review: '2026-06-26T02:08:22.854076+00:00'
   commission-claude-review: '2026-06-26T03:09:23.762464+00:00'
@@ -94,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-26'
@@ -172,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-26'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1162,52 +1166,50 @@ queue_status:
   last_replenishment_run: 677
   last_replenishment: '2026-06-26T11:50:00+00:00'
   last_replenishment_mode: standard
-  run_677_note: "run no.677 (2026-06-26T~11:50Z): GENUINE FLOOR-RESTORING MINT of\
-    \ 1 staleness deep-review (voids/self-maintained-cognitive-limits.md) -- advancing\
-    \ within the 2026-05-31 PLACEHOLDER TIER, FIFO-next by review-commit time (10:29:17,\
-    \ after run-676's philosophical-disagreement @ 09:00 and run-675's constraint-satisfaction\
-    \ @ 23:37). Authoritative pre-mint open executable P0-P2 = 2 via count_p0_p2_tasks(content)\
-    \ (the two run-675/676 floor-restore P2 deep-reviews, both re-verified open +\
-    \ clean; a cycle slot consumed an earlier floor-restore between run-676 and now\
-    \ -- documented replenish-at-floor alternation [[unfin_loop_steady_state]], NOT\
-    \ the empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores\
-    \ 2->3 (post-mint count_p0_p2_tasks==3 verified live). SOURCE = staleness (Source\
-    \ 4). VERIFIED settled+clean: last_deep_review==ai_modified==2026-05-31T10:27:56\
-    \ (no own-body drift), last commit b033305a0 is its OWN stamp-setting deep-review,\
-    \ clean tree, NOT touched today (0 commits since 00:00), NO same-day collision,\
-    \ NOT archived; aic=100, ai_system=claude-opus-4-7 (older model = fresh-eyes reason\
-    \ + citation-defect-rich cohort, scrutinize cites); body 2432w via analyze_length\
-    \ = soft_warning (voids soft 2000/hard 3000, ~568w under hard -- keep length-neutral,\
-    \ NOT a condense candidate); dedupe clean (only header is the \u2713-completed\
-    \ 2026-05-31 review @ ~line 6855 that SET the placeholder; other mentions are\
-    \ FIFO-forecast notes); NOT veto/blocked/archived; EOF artifact scan clean (References\
-    \ self-cites Golman 2017 JEL + McGinn 1989 Mind). Void = a cognitive dark space;\
-    \ deep-review must keep the self-maintained-limit framing as a bounded-witness\
-    \ architectural reading, NOT established fact ([[evidential-status-discipline]]).\
-    \ EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted (consistent with\
-    \ runs 674/675/676): (1 chain) zero un-followed research-topic/expand-topic/cross-review\
-    \ completions (today's PCT research-topic consumed by the expand creating concepts/phenomenal-constitution-thesis.md;\
-    \ pre-reflective-self-awareness + self-luminosity-svaprakasha are DECLINE files);\
-    \ (2 unconsumed research) none; (3 gap/caps) topics 281/320 + concepts 272/320\
-    \ harvester-governed (harvester last ran 08:50, next ~14:50) + Vetoed-dedup-blocked,\
-    \ voids 101/100 over create-cap (irrelevant -- reviewing an EXISTING void), positions\
-    \ 8/80 slow-add; (4 genuine-drift) the broad ai_modified>last_deep_review net\
-    \ is predominantly cosmetic June cross-touch/sync churn; the one real own-body\
-    \ exception found this run -- concepts/attention-as-interface (last real deep-review\
-    \ 2026-06-05, propagated access/phenomenal calibration edit 2026-06-26 07:36 via\
-    \ the content-specificity-of-mental-causation deep-review) -- was DEFERRED in\
-    \ favour of the more-stale 2026-05-31 placeholder tier (26d > 21d) to avoid [[deep_review_over_reviews_converged]]\
-    \ churn on a recently-reviewed article whose only new content is a 4-line propagation;\
-    \ it will be caught by its own staleness when due; (5 length) every content hard/critical\
-    \ offender is human-deferred/#veto/index-hub/research-note -- NO clean blind-mintable\
-    \ condense; (6 orphan) orphaned_files=0; (7 positions) 8 entries < 10 audit threshold,\
-    \ positions-evolve ran 2026-06-22; (8 applied-apex) no high-confidence cluster\
-    \ gap. After this mint the next floor-restore draws from the next-oldest settled\
-    \ placeholder by review-commit time (topics/delegatory-dualism 10:34, voids/disappearance-voids\
-    \ 10:39, voids/closure-types-void 14:41, ...); an honest NO-MINT remains acceptable\
-    \ when no clean candidate exists. BOTTOM-inserted below the two prior floor-restore\
-    \ Active P2s per the queue-lifo-starvation minting-placement corollary so the\
-    \ older floor-restore P2s are not starved."
+  run_677_note: 'run no.677 (2026-06-26T~11:50Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (voids/self-maintained-cognitive-limits.md) -- advancing
+    within the 2026-05-31 PLACEHOLDER TIER, FIFO-next by review-commit time (10:29:17,
+    after run-676''s philosophical-disagreement @ 09:00 and run-675''s constraint-satisfaction
+    @ 23:37). Authoritative pre-mint open executable P0-P2 = 2 via count_p0_p2_tasks(content)
+    (the two run-675/676 floor-restore P2 deep-reviews, both re-verified open + clean;
+    a cycle slot consumed an earlier floor-restore between run-676 and now -- documented
+    replenish-at-floor alternation [[unfin_loop_steady_state]], NOT the empty-queue
+    deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores 2->3 (post-mint count_p0_p2_tasks==3
+    verified live). SOURCE = staleness (Source 4). VERIFIED settled+clean: last_deep_review==ai_modified==2026-05-31T10:27:56
+    (no own-body drift), last commit b033305a0 is its OWN stamp-setting deep-review,
+    clean tree, NOT touched today (0 commits since 00:00), NO same-day collision,
+    NOT archived; aic=100, ai_system=claude-opus-4-7 (older model = fresh-eyes reason
+    + citation-defect-rich cohort, scrutinize cites); body 2432w via analyze_length
+    = soft_warning (voids soft 2000/hard 3000, ~568w under hard -- keep length-neutral,
+    NOT a condense candidate); dedupe clean (only header is the ✓-completed 2026-05-31
+    review @ ~line 6855 that SET the placeholder; other mentions are FIFO-forecast
+    notes); NOT veto/blocked/archived; EOF artifact scan clean (References self-cites
+    Golman 2017 JEL + McGinn 1989 Mind). Void = a cognitive dark space; deep-review
+    must keep the self-maintained-limit framing as a bounded-witness architectural
+    reading, NOT established fact ([[evidential-status-discipline]]). EIGHT-SOURCE
+    AUDIT all OTHER sources re-confirmed exhausted (consistent with runs 674/675/676):
+    (1 chain) zero un-followed research-topic/expand-topic/cross-review completions
+    (today''s PCT research-topic consumed by the expand creating concepts/phenomenal-constitution-thesis.md;
+    pre-reflective-self-awareness + self-luminosity-svaprakasha are DECLINE files);
+    (2 unconsumed research) none; (3 gap/caps) topics 281/320 + concepts 272/320 harvester-governed
+    (harvester last ran 08:50, next ~14:50) + Vetoed-dedup-blocked, voids 101/100
+    over create-cap (irrelevant -- reviewing an EXISTING void), positions 8/80 slow-add;
+    (4 genuine-drift) the broad ai_modified>last_deep_review net is predominantly
+    cosmetic June cross-touch/sync churn; the one real own-body exception found this
+    run -- concepts/attention-as-interface (last real deep-review 2026-06-05, propagated
+    access/phenomenal calibration edit 2026-06-26 07:36 via the content-specificity-of-mental-causation
+    deep-review) -- was DEFERRED in favour of the more-stale 2026-05-31 placeholder
+    tier (26d > 21d) to avoid [[deep_review_over_reviews_converged]] churn on a recently-reviewed
+    article whose only new content is a 4-line propagation; it will be caught by its
+    own staleness when due; (5 length) every content hard/critical offender is human-deferred/#veto/index-hub/research-note
+    -- NO clean blind-mintable condense; (6 orphan) orphaned_files=0; (7 positions)
+    8 entries < 10 audit threshold, positions-evolve ran 2026-06-22; (8 applied-apex)
+    no high-confidence cluster gap. After this mint the next floor-restore draws from
+    the next-oldest settled placeholder by review-commit time (topics/delegatory-dualism
+    10:34, voids/disappearance-voids 10:39, voids/closure-types-void 14:41, ...);
+    an honest NO-MINT remains acceptable when no clean candidate exists. BOTTOM-inserted
+    below the two prior floor-restore Active P2s per the queue-lifo-starvation minting-placement
+    corollary so the older floor-restore P2s are not starved.'
   run_676_note: 'run no.676 (2026-06-26T~11:25Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (topics/phenomenology-of-philosophical-disagreement.md)
     -- advancing within the 2026-05-31 PLACEHOLDER TIER. Authoritative pre-mint open
@@ -1306,56 +1308,54 @@ queue_status:
     by review-commit time; an honest NO-MINT remains acceptable when no clean candidate
     exists. BOTTOM-inserted below the two prior floor-restore Active P2s per the queue-lifo-starvation
     minting-placement corollary so the older floor-restore P2s are not starved.'
-  run_674_note: "run no.674 (2026-06-26T~11:00Z): GENUINE FLOOR-RESTORING MINT of\
-    \ 1 staleness deep-review (concepts/physical-completeness.md) -- advancing within\
-    \ the 2026-05-31 PLACEHOLDER TIER, FIFO-next after the run-672 idealism (review-commit\
-    \ 21:54:39) + run-673 consciousness-epistemology-extended-cognition (22:27:13)\
-    \ mints. Authoritative pre-mint open executable P0-P2 = 2 via count_p0_p2_tasks(content)\
-    \ (run live: the run-672 concepts/idealism + run-673 topics/consciousness-epistemology-extended-cognition\
-    \ staleness deep-reviews, both re-verified open Status pending + clean/untouched-today;\
-    \ the run-673 mint that briefly restored 3 fell back to 2 as intervening cycle\
-    \ slots consumed the earlier placeholder-tier deep-reviews \u2014 phenomenal-quality-void\
-    \ 61943a5b6, phenomenology-of-cognitive-capacity baaad22d4, scientific-revolutions\
-    \ 1816ec4e5, all committed today -- documented replenish-at-floor alternation,\
-    \ NOT the empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores\
-    \ 2 to 3 (post-mint count_p0_p2_tasks==3 verified). SOURCE = staleness (Source\
-    \ 4). concepts/physical-completeness @ review-commit b6699108e 2026-05-31T23:32:41\
-    \ is the FIFO-next genuinely-unqueued settled placeholder candidate. VERIFIED\
-    \ settled+clean: last_deep_review==2026-05-31T00:00:00 placeholder, ai_modified==2026-05-27T23:20:49\
-    \ (BEFORE the review -- no own-body drift), clean tree, NOT touched today (0 commits\
-    \ since 00:00), NO same-day collision, NOT in the 2026-06-26 review wave; aic=100,\
-    \ ai_system=claude-opus-4-6 (older model = fresh-eyes reason + citation-defect-rich\
-    \ cohort -- scrutinize cites, do NOT assume no-op); body 2599w via analyze_length\
-    \ = soft_warning (concepts soft 2500/hard 3500, ~901w under hard, just over soft\
-    \ -- keep length-neutral, NOT a condense candidate); dedupe clean (the only physical-completeness\
-    \ headers are checked-completed -- the 2026-05-31 deep-review that SET this placeholder\
-    \ + a 2026-05-26 equivocation fix -- NO open deep-review header in the Active\
-    \ region), NOT veto/blocked/archived (fs-confirmed no archive/concepts/physical-completeness.md);\
-    \ EOF artifact scan clean (References self-cites Quantum Completeness + Physics\
-    \ as Disclosure). Tenet-1 load-bearing (the structural-vs-ontological completeness\
-    \ gap is the Map's declared entry point for consciousness / the causal-closure\
-    \ rebuttal); deep-review must confirm the structural-completeness concession stays\
-    \ clean + the structural-sense disambiguation (2026-05-26 equivocation fix) is\
-    \ not regressed. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted of\
-    \ clean blind-mintable candidates (consistent with run-672/673, no source-reopening\
-    \ change): (1 chain) today's newest research-topic PCT consumed by the expand-topic\
-    \ that created concepts/phenomenal-constitution-thesis.md (fs-confirmed); the\
-    \ two other 2026-06-26 notes (pre-reflective-self-awareness, self-luminosity-svaprakasha)\
-    \ are DECLINE files (title-verified); zero un-followed completions; (2 unconsumed\
-    \ research) none; (3 gap/caps) topics 281/320 + concepts 272/320 harvester-governed\
-    \ + Vetoed-dedup-blocked, voids 101/100 over create-cap (irrelevant -- reviewing\
-    \ an existing concept), positions 8/80 slow-add; (4 genuine-drift) cosmetic June\
-    \ cross-touch churn only, staleness ~26d outranks; (5 length) all 52 hard/critical\
-    \ offenders are research working-notes (excluded) / human-deferred+veto flagships\
-    \ (already queued) / accept-as-survey verdicts; (6 orphan) orphaned_files=0; (7\
-    \ positions) 8<10 audit threshold, last audit 2026-06-22; (8 applied-apex) no\
-    \ high-confidence cluster gap. After this mint the placeholder tier has only the\
-    \ DISQUALIFIED ineffable-encounter-void left (ai_modified 2026-06-12 = later genuine-drift,\
-    \ not a settled placeholder); the next floor-restore draws from the next-oldest\
-    \ settled tier or an honest NO-MINT remains acceptable when no clean candidate\
-    \ exists. BOTTOM-inserted below the two prior floor-restore Active P2s per the\
-    \ queue-lifo-starvation minting-placement corollary so the older floor-restore\
-    \ P2s are not starved."
+  run_674_note: 'run no.674 (2026-06-26T~11:00Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (concepts/physical-completeness.md) -- advancing within
+    the 2026-05-31 PLACEHOLDER TIER, FIFO-next after the run-672 idealism (review-commit
+    21:54:39) + run-673 consciousness-epistemology-extended-cognition (22:27:13) mints.
+    Authoritative pre-mint open executable P0-P2 = 2 via count_p0_p2_tasks(content)
+    (run live: the run-672 concepts/idealism + run-673 topics/consciousness-epistemology-extended-cognition
+    staleness deep-reviews, both re-verified open Status pending + clean/untouched-today;
+    the run-673 mint that briefly restored 3 fell back to 2 as intervening cycle slots
+    consumed the earlier placeholder-tier deep-reviews — phenomenal-quality-void 61943a5b6,
+    phenomenology-of-cognitive-capacity baaad22d4, scientific-revolutions 1816ec4e5,
+    all committed today -- documented replenish-at-floor alternation, NOT the empty-queue
+    deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores 2 to 3 (post-mint
+    count_p0_p2_tasks==3 verified). SOURCE = staleness (Source 4). concepts/physical-completeness
+    @ review-commit b6699108e 2026-05-31T23:32:41 is the FIFO-next genuinely-unqueued
+    settled placeholder candidate. VERIFIED settled+clean: last_deep_review==2026-05-31T00:00:00
+    placeholder, ai_modified==2026-05-27T23:20:49 (BEFORE the review -- no own-body
+    drift), clean tree, NOT touched today (0 commits since 00:00), NO same-day collision,
+    NOT in the 2026-06-26 review wave; aic=100, ai_system=claude-opus-4-6 (older model
+    = fresh-eyes reason + citation-defect-rich cohort -- scrutinize cites, do NOT
+    assume no-op); body 2599w via analyze_length = soft_warning (concepts soft 2500/hard
+    3500, ~901w under hard, just over soft -- keep length-neutral, NOT a condense
+    candidate); dedupe clean (the only physical-completeness headers are checked-completed
+    -- the 2026-05-31 deep-review that SET this placeholder + a 2026-05-26 equivocation
+    fix -- NO open deep-review header in the Active region), NOT veto/blocked/archived
+    (fs-confirmed no archive/concepts/physical-completeness.md); EOF artifact scan
+    clean (References self-cites Quantum Completeness + Physics as Disclosure). Tenet-1
+    load-bearing (the structural-vs-ontological completeness gap is the Map''s declared
+    entry point for consciousness / the causal-closure rebuttal); deep-review must
+    confirm the structural-completeness concession stays clean + the structural-sense
+    disambiguation (2026-05-26 equivocation fix) is not regressed. EIGHT-SOURCE AUDIT
+    all OTHER sources re-confirmed exhausted of clean blind-mintable candidates (consistent
+    with run-672/673, no source-reopening change): (1 chain) today''s newest research-topic
+    PCT consumed by the expand-topic that created concepts/phenomenal-constitution-thesis.md
+    (fs-confirmed); the two other 2026-06-26 notes (pre-reflective-self-awareness,
+    self-luminosity-svaprakasha) are DECLINE files (title-verified); zero un-followed
+    completions; (2 unconsumed research) none; (3 gap/caps) topics 281/320 + concepts
+    272/320 harvester-governed + Vetoed-dedup-blocked, voids 101/100 over create-cap
+    (irrelevant -- reviewing an existing concept), positions 8/80 slow-add; (4 genuine-drift)
+    cosmetic June cross-touch churn only, staleness ~26d outranks; (5 length) all
+    52 hard/critical offenders are research working-notes (excluded) / human-deferred+veto
+    flagships (already queued) / accept-as-survey verdicts; (6 orphan) orphaned_files=0;
+    (7 positions) 8<10 audit threshold, last audit 2026-06-22; (8 applied-apex) no
+    high-confidence cluster gap. After this mint the placeholder tier has only the
+    DISQUALIFIED ineffable-encounter-void left (ai_modified 2026-06-12 = later genuine-drift,
+    not a settled placeholder); the next floor-restore draws from the next-oldest
+    settled tier or an honest NO-MINT remains acceptable when no clean candidate exists.
+    BOTTOM-inserted below the two prior floor-restore Active P2s per the queue-lifo-starvation
+    minting-placement corollary so the older floor-restore P2s are not starved.'
   run_673_note: 'run no.673 (2026-06-26T~10:30Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (topics/consciousness-epistemology-extended-cognition.md)
     -- advancing within the 2026-05-31 PLACEHOLDER TIER, FIFO-next after the run-671
@@ -1433,42 +1433,41 @@ queue_status:
     (review-commit 22:27:13), same placeholder tier, FIFO by review-commit time. BOTTOM-inserted
     below the two prior floor-restore Active P2s per the queue-lifo-starvation minting-placement
     corollary. An honest NO-MINT remains acceptable when no clean candidate exists.'
-  run_671_note: "run no.671 (2026-06-26T~10:15Z): GENUINE FLOOR-RESTORING MINT of\
-    \ 1 staleness deep-review (voids/phenomenal-quality-void.md) -- advancing within\
-    \ the 2026-05-31 PLACEHOLDER TIER, FIFO-next after the run-669 scientific-revolutions\
-    \ + run-670 phenomenology-of-cognitive-capacity mints. Authoritative pre-mint\
-    \ open executable P0-P2 = 2 via count_p0_p2_tasks(content) (run live: the run-669\
-    \ scientific-revolutions + run-670 phenomenology-of-cognitive-capacity staleness\
-    \ deep-reviews, both re-verified open Status pending; the run-670 mint that briefly\
-    \ restored 3 fell back to 2 as an intervening cycle slot consumed work -- documented\
-    \ replenish-at-floor alternation, NOT the empty-queue deadlock). MIN_QUEUE floor\
-    \ 3 unmet by 1; this mint restores 2 to 3 (post-mint count_p0_p2_tasks==3 verified).\
-    \ SOURCE = staleness (Source 4). voids/phenomenal-quality-void @ review-commit\
-    \ fbedfa18d 2026-05-31T20:27:03 is the FIFO-next genuinely-unqueued settled placeholder\
-    \ candidate the run_665/666/668/669/670 notes forecast. VERIFIED settled+clean:\
-    \ last_deep_review==ai_modified==2026-05-31T00:00:00 exact placeholder, NOT touched\
-    \ today, NO same-day collision, NOT in the 2026-06-26 review wave; aic=100, ai_system=claude-opus-4-8;\
-    \ body 2143w via analyze_length = soft_warning (voids soft 2000/hard 3000, ~857w\
-    \ under hard, just over soft -- keep length-neutral, NOT a condense candidate);\
-    \ dedupe clean (only header hits are \u2713-completed/RELOCATED 2026-05-31 tasks\
-    \ below ## Completed), NOT veto (0 hits below Vetoed header)/blocked/archived;\
-    \ EOF artifact scan clean (References self-cites Billon 2024 + Nitzan/Buzsaki\
-    \ 2025). EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted of clean\
-    \ blind-mintable candidates (consistent with run-670 minutes prior, no source-reopening\
-    \ change): (1 chain) today's newest research-topic PCT consumed by the expand-topic\
-    \ that created concepts/phenomenal-constitution-thesis.md (fs-confirmed); the\
-    \ two other 2026-06-26 notes (pre-reflective-self-awareness, self-luminosity-svaprakasha)\
-    \ are DECLINE files (verdict-verified); zero un-followed completions; (2 unconsumed\
-    \ research) none; (3 gap/caps) topics 281/320 + concepts 272/320 harvester-governed\
-    \ + Vetoed-dedup-blocked, voids 101/100 over create-cap (irrelevant -- reviewing\
-    \ an existing void), positions 9/80 slow-add; (4 genuine-drift) cosmetic June\
-    \ cross-touch churn only, staleness ~26.4d outranks; (5 length) all hard/critical\
-    \ offenders human-deferred/veto/index-hub/research-note; (6 orphan) orphaned_files=0;\
-    \ (7 positions) 9<10 audit threshold, last audit 2026-06-22; (8 applied-apex)\
-    \ no high-confidence cluster gap. Next floor-restore draws from the next 2026-05-31\
-    \ placeholder-tier article by review-commit time (FIFO). BOTTOM-inserted below\
-    \ the two prior floor-restore Active P2s per the queue-lifo-starvation minting-placement\
-    \ corollary. An honest NO-MINT remains acceptable when no clean candidate exists."
+  run_671_note: 'run no.671 (2026-06-26T~10:15Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (voids/phenomenal-quality-void.md) -- advancing within
+    the 2026-05-31 PLACEHOLDER TIER, FIFO-next after the run-669 scientific-revolutions
+    + run-670 phenomenology-of-cognitive-capacity mints. Authoritative pre-mint open
+    executable P0-P2 = 2 via count_p0_p2_tasks(content) (run live: the run-669 scientific-revolutions
+    + run-670 phenomenology-of-cognitive-capacity staleness deep-reviews, both re-verified
+    open Status pending; the run-670 mint that briefly restored 3 fell back to 2 as
+    an intervening cycle slot consumed work -- documented replenish-at-floor alternation,
+    NOT the empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores
+    2 to 3 (post-mint count_p0_p2_tasks==3 verified). SOURCE = staleness (Source 4).
+    voids/phenomenal-quality-void @ review-commit fbedfa18d 2026-05-31T20:27:03 is
+    the FIFO-next genuinely-unqueued settled placeholder candidate the run_665/666/668/669/670
+    notes forecast. VERIFIED settled+clean: last_deep_review==ai_modified==2026-05-31T00:00:00
+    exact placeholder, NOT touched today, NO same-day collision, NOT in the 2026-06-26
+    review wave; aic=100, ai_system=claude-opus-4-8; body 2143w via analyze_length
+    = soft_warning (voids soft 2000/hard 3000, ~857w under hard, just over soft --
+    keep length-neutral, NOT a condense candidate); dedupe clean (only header hits
+    are ✓-completed/RELOCATED 2026-05-31 tasks below ## Completed), NOT veto (0 hits
+    below Vetoed header)/blocked/archived; EOF artifact scan clean (References self-cites
+    Billon 2024 + Nitzan/Buzsaki 2025). EIGHT-SOURCE AUDIT all OTHER sources re-confirmed
+    exhausted of clean blind-mintable candidates (consistent with run-670 minutes
+    prior, no source-reopening change): (1 chain) today''s newest research-topic PCT
+    consumed by the expand-topic that created concepts/phenomenal-constitution-thesis.md
+    (fs-confirmed); the two other 2026-06-26 notes (pre-reflective-self-awareness,
+    self-luminosity-svaprakasha) are DECLINE files (verdict-verified); zero un-followed
+    completions; (2 unconsumed research) none; (3 gap/caps) topics 281/320 + concepts
+    272/320 harvester-governed + Vetoed-dedup-blocked, voids 101/100 over create-cap
+    (irrelevant -- reviewing an existing void), positions 9/80 slow-add; (4 genuine-drift)
+    cosmetic June cross-touch churn only, staleness ~26.4d outranks; (5 length) all
+    hard/critical offenders human-deferred/veto/index-hub/research-note; (6 orphan)
+    orphaned_files=0; (7 positions) 9<10 audit threshold, last audit 2026-06-22; (8
+    applied-apex) no high-confidence cluster gap. Next floor-restore draws from the
+    next 2026-05-31 placeholder-tier article by review-commit time (FIFO). BOTTOM-inserted
+    below the two prior floor-restore Active P2s per the queue-lifo-starvation minting-placement
+    corollary. An honest NO-MINT remains acceptable when no clean candidate exists.'
   run_670_note: 'run no.670 (2026-06-26T~09:55Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (topics/phenomenology-of-cognitive-capacity.md) -- advancing
     within the 2026-05-31 PLACEHOLDER TIER, FIFO-next after the run-668 anesthesia-void
@@ -1500,39 +1499,38 @@ queue_status:
     (review-commit 20:27:03), same placeholder tier, FIFO by review-commit time. BOTTOM-inserted
     below the two prior floor-restore Active P2s per the queue-lifo-starvation minting-placement
     corollary. An honest NO-MINT remains acceptable when no clean candidate exists.'
-  run_669_note: "run no.669 (2026-06-26T~09:42Z): GENUINE FLOOR-RESTORING MINT of\
-    \ 1 staleness deep-review (topics/consciousness-and-the-structure-of-scientific-revolutions.md)\
-    \ -- advancing within the 2026-05-31 PLACEHOLDER TIER. Authoritative pre-mint\
-    \ open executable P0-P2 = 2 via count_p0_p2_tasks (the run-666 hoel-llm + run-668\
-    \ anesthesia-void staleness deep-reviews, both re-verified open Status pending;\
-    \ the run-668 mint and run-667 PCT expand-topic that briefly restored 3 were consumed\
-    \ by intervening cycle slots -- documented replenish-at-floor alternation, NOT\
-    \ the empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores\
-    \ 2 to 3 (post-mint count_p0_p2_tasks==3 verified). SOURCE = staleness (Source\
-    \ 4). scientific-revolutions @ review-commit 6041ae76 2026-05-31T18:02:59 is the\
-    \ FIFO-next genuinely-unqueued settled placeholder candidate the run_665/666/668\
-    \ notes forecast. VERIFIED settled+clean: last_deep_review==ai_modified==2026-05-31T00:00:00\
-    \ exact placeholder, clean tree, NOT touched today, NO same-day collision, NOT\
-    \ in the 2026-06-26 review wave; aic=100, ai_system=claude-opus-4-6 (older model\
-    \ = fresh-eyes reason); body 2046w via analyze_length = ok (topics soft 3000,\
-    \ ~954w headroom, NOT a condense candidate); dedupe clean (only header hits are\
-    \ \u2713-completed tasks below ## Completed), NOT veto/blocked/archived; EOF artifact\
-    \ scan clean. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted (consistent\
-    \ with run-668 ~14 min prior, no source-reopening change since): (1 chain) today's\
-    \ newest research-topic PCT immediately consumed by run-667's expand-topic; the\
-    \ two earlier 2026-06-26 notes are Decline files; zero un-followed completions;\
-    \ (2 unconsumed research) none; (3 gap/caps) topics 281/320 + concepts 272/320\
-    \ headroom but harvester-governed + Vetoed-dedup-blocked, voids 101/100 over create-cap\
-    \ (irrelevant -- deep-review of an EXISTING topic), positions 9/80; (4 genuine-drift)\
-    \ cosmetic June cross-touch churn, staleness ~26.1d outranks; (5 length) all hard/critical\
-    \ offenders human-deferred/#veto/index-hub/research-note, no clean blind-mintable\
-    \ condense; (6 orphan) orphaned_files=0; (7 positions) 9 below 10 audit threshold,\
-    \ slow-add; (8 applied-apex) no high-confidence cluster gap. After this mint next\
-    \ floor-restore draws topics/phenomenology-of-cognitive-capacity (19:40:20) then\
-    \ voids/phenomenal-quality-void (20:27:03) within the same placeholder tier. BOTTOM-inserted\
-    \ per [[queue-lifo-starvation]] so the older floor-restore P2s are not starved.\
-    \ Expect replenish-at-floor alternation to continue until the harvester reopens\
-    \ the research->expand pipeline."
+  run_669_note: 'run no.669 (2026-06-26T~09:42Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (topics/consciousness-and-the-structure-of-scientific-revolutions.md)
+    -- advancing within the 2026-05-31 PLACEHOLDER TIER. Authoritative pre-mint open
+    executable P0-P2 = 2 via count_p0_p2_tasks (the run-666 hoel-llm + run-668 anesthesia-void
+    staleness deep-reviews, both re-verified open Status pending; the run-668 mint
+    and run-667 PCT expand-topic that briefly restored 3 were consumed by intervening
+    cycle slots -- documented replenish-at-floor alternation, NOT the empty-queue
+    deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores 2 to 3 (post-mint
+    count_p0_p2_tasks==3 verified). SOURCE = staleness (Source 4). scientific-revolutions
+    @ review-commit 6041ae76 2026-05-31T18:02:59 is the FIFO-next genuinely-unqueued
+    settled placeholder candidate the run_665/666/668 notes forecast. VERIFIED settled+clean:
+    last_deep_review==ai_modified==2026-05-31T00:00:00 exact placeholder, clean tree,
+    NOT touched today, NO same-day collision, NOT in the 2026-06-26 review wave; aic=100,
+    ai_system=claude-opus-4-6 (older model = fresh-eyes reason); body 2046w via analyze_length
+    = ok (topics soft 3000, ~954w headroom, NOT a condense candidate); dedupe clean
+    (only header hits are ✓-completed tasks below ## Completed), NOT veto/blocked/archived;
+    EOF artifact scan clean. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted
+    (consistent with run-668 ~14 min prior, no source-reopening change since): (1
+    chain) today''s newest research-topic PCT immediately consumed by run-667''s expand-topic;
+    the two earlier 2026-06-26 notes are Decline files; zero un-followed completions;
+    (2 unconsumed research) none; (3 gap/caps) topics 281/320 + concepts 272/320 headroom
+    but harvester-governed + Vetoed-dedup-blocked, voids 101/100 over create-cap (irrelevant
+    -- deep-review of an EXISTING topic), positions 9/80; (4 genuine-drift) cosmetic
+    June cross-touch churn, staleness ~26.1d outranks; (5 length) all hard/critical
+    offenders human-deferred/#veto/index-hub/research-note, no clean blind-mintable
+    condense; (6 orphan) orphaned_files=0; (7 positions) 9 below 10 audit threshold,
+    slow-add; (8 applied-apex) no high-confidence cluster gap. After this mint next
+    floor-restore draws topics/phenomenology-of-cognitive-capacity (19:40:20) then
+    voids/phenomenal-quality-void (20:27:03) within the same placeholder tier. BOTTOM-inserted
+    per [[queue-lifo-starvation]] so the older floor-restore P2s are not starved.
+    Expect replenish-at-floor alternation to continue until the harvester reopens
+    the research->expand pipeline.'
   run_668_note: 'run no.668 (2026-06-26T~09:25Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (voids/anesthesia-void.md) -- advancing within the 2026-05-31
     PLACEHOLDER TIER. Authoritative pre-mint open executable P0-P2 = 2 via count_p0_p2_tasks
@@ -3480,44 +3478,44 @@ queue_status:
     3 extant, no high-confidence cluster gap. Next floor-restore can take the remaining
     29.9d siblings (conceptual-metabolism-void, pragmatism) as they cross 30d, or
     await fresh chain/research/harvester input.'
-  run_623_note: "run no.623 (2026-06-25T11:30Z): GENUINE FLOOR-RESTORING MINT of 1\
-    \ staleness deep-review (concepts/objectivity-and-consciousness.md). Authoritative\
-    \ pre-mint count_p0_p2_tasks = 2 (the two queued staleness deep-reviews voids/smoothness-and-continuity.md\
-    \ (run-621) + concepts/voluntary-attention-control-mechanisms.md (run-622), both\
-    \ verified genuinely OPEN -- last_deep_review still 2026-05-26; select_queue_task\
-    \ returned smoothness-and-continuity at line 1260). The run-620 self-transcendence-void\
-    \ P2 was picked + executed this cycle (now \u2713 below Completed) so the live\
-    \ floor fell back to 2 -- expected replenish-at-floor alternation, NOT the fixed\
-    \ deadlock. Queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1; this mint restores\
-    \ 2->3 (POST-MINT count=3 confirmed via task_selector; top pick still smoothness-and-continuity\
-    \ at line 1260 so bottom-insert did NOT starve the two older floor-restore P2s).\
-    \ SOURCE = staleness (Source 4b), NEXT TIER: the exact candidate run-622 parked.\
-    \ concepts/objectivity-and-consciousness.md last_deep_review 2026-05-26T12:00\
-    \ = 30.0d, ai_contribution=100, ai_system claude-sonnet-4-5 (oldest/weakest build\
-    \ of the remaining cohort = strongest fresh-eyes warrant), settled (ai_modified\
-    \ == last_deep_review, git-untouched since review commit 080b6893c), body 2533w\
-    \ = soft_warning (concepts soft 2500 / hard 3500, ~967w to hard -- NOT a condense\
-    \ candidate but only ~33w over soft, keep review length-neutral/trimming). Tenet\
-    \ 1 (Dualism) + Tenet 5 (Occam limits) load-bearing (Galilean exclusion of subjectivity\
-    \ from objective science -- grounds the Map epistemology-of-method arguments).\
-    \ No open dup (0 ### headers for this file in Active section; only Active mentions\
-    \ are cross-refs in run-622 note; single Vetoed hit is a DIFFERENT Galilean-exclusion\
-    \ create task that merely references this file, NOT a veto), NOT reviewed today\
-    \ (git-confirmed). Bottom-inserted per queue-lifo-starvation. EIGHT-SOURCE AUDIT\
-    \ all OTHER sources re-confirmed exhausted: (1 chain) task_chains absent, substrate-taxonomy\
-    \ chain fully consumed, zero un-followed completions. (2 unconsumed research)\
-    \ only note newer than last mint (ai-hardware-substrate-taxonomy-2026-06-25) is\
-    \ consumed. (3 gap/caps) topics 281/320 concepts 271/320 headroom but harvester-governed\
-    \ (08:20Z) + Vetoed-dedup-blocked; voids 101/100 at/over create-cap. (4 genuine-drift)\
-    \ only smoothness-and-continuity own-body bump = cosmetic cross-touch (already\
-    \ queued run-621). (5 length) all content hard/critical offenders human-deferred\
-    \ / #veto / index-hub / positions-governed / research-working-note. (6 orphan)\
-    \ orphaned_files=0. (7 positions) 8 entries <10 audit threshold, positions-evolve\
-    \ ran 2026-06-22, slow-add. (8 applied-apex) 3 extant, no high-confidence cluster\
-    \ gap. With this mint the 2026-05-26T12:00 staleness cohort is FULLY queued/executed;\
-    \ the next floor-restore looks to the 29.9d-crossing tier (voids/conceptual-metabolism-void,\
-    \ topics/consciousness-evolution-and-biology, concepts/pragmatism) or awaits fresh\
-    \ chain/research/harvester input."
+  run_623_note: 'run no.623 (2026-06-25T11:30Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/objectivity-and-consciousness.md). Authoritative
+    pre-mint count_p0_p2_tasks = 2 (the two queued staleness deep-reviews voids/smoothness-and-continuity.md
+    (run-621) + concepts/voluntary-attention-control-mechanisms.md (run-622), both
+    verified genuinely OPEN -- last_deep_review still 2026-05-26; select_queue_task
+    returned smoothness-and-continuity at line 1260). The run-620 self-transcendence-void
+    P2 was picked + executed this cycle (now ✓ below Completed) so the live floor
+    fell back to 2 -- expected replenish-at-floor alternation, NOT the fixed deadlock.
+    Queue FUNCTIONAL, MIN_QUEUE floor 3 unmet by 1; this mint restores 2->3 (POST-MINT
+    count=3 confirmed via task_selector; top pick still smoothness-and-continuity
+    at line 1260 so bottom-insert did NOT starve the two older floor-restore P2s).
+    SOURCE = staleness (Source 4b), NEXT TIER: the exact candidate run-622 parked.
+    concepts/objectivity-and-consciousness.md last_deep_review 2026-05-26T12:00 =
+    30.0d, ai_contribution=100, ai_system claude-sonnet-4-5 (oldest/weakest build
+    of the remaining cohort = strongest fresh-eyes warrant), settled (ai_modified
+    == last_deep_review, git-untouched since review commit 080b6893c), body 2533w
+    = soft_warning (concepts soft 2500 / hard 3500, ~967w to hard -- NOT a condense
+    candidate but only ~33w over soft, keep review length-neutral/trimming). Tenet
+    1 (Dualism) + Tenet 5 (Occam limits) load-bearing (Galilean exclusion of subjectivity
+    from objective science -- grounds the Map epistemology-of-method arguments). No
+    open dup (0 ### headers for this file in Active section; only Active mentions
+    are cross-refs in run-622 note; single Vetoed hit is a DIFFERENT Galilean-exclusion
+    create task that merely references this file, NOT a veto), NOT reviewed today
+    (git-confirmed). Bottom-inserted per queue-lifo-starvation. EIGHT-SOURCE AUDIT
+    all OTHER sources re-confirmed exhausted: (1 chain) task_chains absent, substrate-taxonomy
+    chain fully consumed, zero un-followed completions. (2 unconsumed research) only
+    note newer than last mint (ai-hardware-substrate-taxonomy-2026-06-25) is consumed.
+    (3 gap/caps) topics 281/320 concepts 271/320 headroom but harvester-governed (08:20Z)
+    + Vetoed-dedup-blocked; voids 101/100 at/over create-cap. (4 genuine-drift) only
+    smoothness-and-continuity own-body bump = cosmetic cross-touch (already queued
+    run-621). (5 length) all content hard/critical offenders human-deferred / #veto
+    / index-hub / positions-governed / research-working-note. (6 orphan) orphaned_files=0.
+    (7 positions) 8 entries <10 audit threshold, positions-evolve ran 2026-06-22,
+    slow-add. (8 applied-apex) 3 extant, no high-confidence cluster gap. With this
+    mint the 2026-05-26T12:00 staleness cohort is FULLY queued/executed; the next
+    floor-restore looks to the 29.9d-crossing tier (voids/conceptual-metabolism-void,
+    topics/consciousness-evolution-and-biology, concepts/pragmatism) or awaits fresh
+    chain/research/harvester input.'
   run_622_note: 'run no.622 (2026-06-25T11:19Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/voluntary-attention-control-mechanisms.md). Authoritative
     pre-mint count_p0_p2_tasks = 2 (the two queued voids staleness deep-reviews self-transcendence-void

@@ -4,7 +4,7 @@ description: "Constraint satisfaction has distinctive phenomenal character — t
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-05-31T23:36:09+00:00
+ai_modified: 2026-06-26T12:32:25+00:00
 draft: false
 topics:
   - "[[phenomenology-of-cognitive-capacity]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review: 2026-05-31T23:36:09+00:00
+last_deep_review: 2026-06-26T12:32:25+00:00
 ---
 
 Constraint satisfaction — finding solutions that meet multiple competing demands simultaneously — has a distinctive phenomenology that pure computation lacks. When consciousness navigates constraints, it doesn't merely process them; it *feels* them as resistance, weight, and texture. The Unfinishable Map argues this phenomenal character is not decorative but constitutive: constraint satisfaction feels like something *because* consciousness is doing genuine causal work at the interface between mind and brain.
@@ -133,4 +133,4 @@ The disconnect between computational complexity and phenomenal intensity poses a
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking. [Popularises the user-illusion framing of the bandwidth disparity and reports conscious bandwidth at ~10–40 bits/second.]
 1. Simon, H. A. (1956). Rational choice and the structure of the environment. *Psychological Review*, 63(2), 129–138. [Foundational work on satisficing and bounded rationality under constraints.]
 1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725. [Empirical evidence for attentional interference with automatised constraint processing.]
-1. Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenological Research*, 67, 367–383. [Phenomenological analysis of skill acquisition and the withdrawal of conscious engagement.]
+1. Dreyfus, H. L. (2002). Intelligence without representation — Merleau-Ponty's critique of mental representation: The relevance of phenomenology to scientific explanation. *Phenomenology and the Cognitive Sciences*, 1(4), 367–383. [Phenomenological analysis of skill acquisition and the withdrawal of conscious engagement.]

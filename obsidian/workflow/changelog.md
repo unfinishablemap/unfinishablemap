@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T12:18:51+00:00
+ai_modified: 2026-06-26T12:32:25+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T12:32:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+- **Word count**: 2310 → 2310 (+0; body converged, References-only edit)
+- **Critical issues addressed**: 1 (Dreyfus 2002 citation — wrong venue *Phenomenological Research*, 67 → correct *Phenomenology and the Cognitive Sciences*, 1(4), 367–383; real-wrong-metadata, corrected in place; sole corpus outlier vs 5 canonical siblings)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (content converged across 4 prior passes)
+- **Citation web-verify**: full 5-cite publisher-of-record ledger run (prior pass checked only Zheng & Meister). Zheng & Meister 2025, Nørretranders 1998, Simon 1956, Beilock & Carr 2001 all real-correct; Dreyfus 2002 real-wrong-metadata (fixed). No superlative claims (currency-sweep N/A).
+- **Engagement classification (editor-internal)**: generic materialist, Mode Two (unsupported foundational move); no named opponent; no label leakage in body.
+- **Frontmatter**: ai_modified + last_deep_review bumped to 2026-06-26T12:32:25+00:00 (date -u-checked, not future) — real References edit, so both bumped per no-op-hygiene rule.
+- **Output**: [[reviews/deep-review-2026-06-26-consciousness-and-the-phenomenology-of-constraint-satisfaction]]
 
 ## 2026-06-26T12:18:51+00:00 - refine-draft
 - **Status**: Success
