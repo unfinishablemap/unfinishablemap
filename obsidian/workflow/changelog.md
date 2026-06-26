@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T00:13:00+00:00 - deep-review
+- **Status**: Success (staleness re-pick; near-no-op — 2 stale-anchor wikilink fixes; both timestamps bumped). Orchestrator-finalized (fork applied fixes then monitor-wait-bailed; 10-cite ledger folded in; fork's future-dated 00:15 stamps corrected to 00:13).
+- **File**: [[topics/the-psychophysical-control-law]]
+- **Word count**: 2874 → 2874 (2 wikilink anchor repairs, net-neutral; both ai_modified + last_deep_review bumped 2026-05-29 → 2026-06-26)
+- **Critical issues addressed**: 0; **Medium**: 0; **Low**: 2 (stale section anchors)
+- **Summary**: 2026-05-29 staleness frontier-tier pick (Tenets 2+3 quantum-interface). Fixed 2 broken section anchors (verified against live targets): (1) stripped dead `#Policy-Level Selection` from consciousness-selecting-neural-patterns link (heading gone); (2) `#Metaphysical vs. Epistemic Theses` → `#From Epistemic to Metaphysical` on indexical-knowledge-and-identity (heading renamed, new anchor confirmed at line 69). §2.4 web-verify (10 cites ALL real-correct, author orders checked): Chalmers 1996/1995, Eccles 1994, Schwartz et al. 1996 (PMID 8629886), Stapp 2007, Tegmark 2000 (decoherence 10^-13–10^-20s verbatim), Wallace 2012, Zheng & Meister 2025 (Neuron 113(2):192-204, 10 bits/s current), Khan…Wiest 2024 (eNeuro, Cohen's d=1.9 verbatim, Wiest senior author), Schaffer ms. Zero fabrications/metadata/author-order errors. Mechanical: 2874w ok, EOF clean, no banned cliché, no QEC-notation collision. Real edits → both timestamps bumped; FORK FUTURE-DATED 00:15 (now 00:13) — corrected to 00:13 (would have suppressed drift detection).
+- **Output**: [[reviews/deep-review-2026-06-26-the-psychophysical-control-law]]
+
 ## 2026-06-26T00:06:00+00:00 - deep-review
 - **Status**: Success (cycle-slot DRIFT axis; cosmetic-drift no-op; `last_deep_review`-only bump). Orchestrator-finalized (fork monitor-wait-bailed; 7-item ledger folded in).
 - **File**: [[voids/voids-between-minds]]
