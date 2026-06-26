@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated:
-last_deep_review: 2026-05-31T22:35:00+00:00
+last_deep_review: 2026-06-26T15:43:53+00:00
 ---
 
 Apophatic approaches are methods of inquiry that proceed through negation rather than positive assertion. From the Greek *apophasis* (to deny, to speak away), these methods define their subject by what it is *not*, accumulating negations that outline the shape of what resists direct description. Where cataphatic (positive) methods say what something *is*, apophatic methods systematically exclude what it *is not* — and treat the residual outline as knowledge.

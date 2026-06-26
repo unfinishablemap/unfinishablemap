@@ -5,6 +5,15 @@ ai_modified: 2026-06-26T14:52:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T15:43:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/apophatic-approaches]]
+- **Word count**: 1614 → 1614 (±0; 65% of 2500 concepts soft — no length pressure)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th review; converged + byte-for-byte unchanged since 05-31; citation set web-verified at 7th review; all 14 wikilinks live; no EOF artifact; no calibration drift — no-change pass, advanced last_deep_review only, left ai_modified to preserve the reviewed-and-unchanged scorer signal)
+- **Output**: [[reviews/deep-review-2026-06-26-apophatic-approaches]]
+
 ## 2026-06-26T15:32:02+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/control-theoretic-will]]
