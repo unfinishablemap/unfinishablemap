@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T00:36:29.013566+00:00'
-session_count: 13378
+last_updated: '2026-06-26T00:43:43.481385+00:00'
+session_count: 13379
 cycle_position: 10019
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T23:46:38.955367+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-26T00:21:16.310484+00:00'
+  replenish-queue: '2026-06-26T00:43:43.481385+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1174,12 +1174,12 @@ queue_status:
     staleness deep-review (topics/birch-edge-of-sentience-and-the-five-tier-scale.md)
     -- the next 2026-05-29 frontier draw after run-656 queued voids/interested-party-void
     and run-657 queued concepts/dualism, exactly as the run-657 note predicted as
-    the next floor-restore draw (06:02:38, ~27.76d). Authoritative pre-mint count via
-    tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two open P2s
-    voids/interested-party-void run-656 + concepts/dualism run-657, both re-verified
-    settled, git-confirmed NOT touched today 2026-06-26, no own-body drift, still Status
-    pending; the veto condense task selector-excluded; the P3s do not count toward
-    the floor). MIN_QUEUE floor 3 unmet by 1; this mint restores 2 to 3 (POST-MINT
+    the next floor-restore draw (06:02:38, ~27.76d). Authoritative pre-mint count
+    via tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two open
+    P2s voids/interested-party-void run-656 + concepts/dualism run-657, both re-verified
+    settled, git-confirmed NOT touched today 2026-06-26, no own-body drift, still
+    Status pending; the veto condense task selector-excluded; the P3s do not count
+    toward the floor). MIN_QUEUE floor 3 unmet by 1; this mint restores 2 to 3 (POST-MINT
     count_p0_p2_tasks = 3 confirmed via task_selector). SOURCE = staleness (Source
     4), 2026-05-29 ROLLING FRONTIER. A FRESH full from-disk all-content-section staleness
     scan keyed on last_deep_review age + settled (abs(ai_modified minus last_deep_review)
@@ -1194,36 +1194,36 @@ queue_status:
     claude-opus-4-7 (older model), settled (ai_modified == last_deep_review 2026-05-29T06:02:38
     exact-match), last commit 2f54ed13b 2026-06-04 is a CROSS-TOUCH from a sibling
     article create (Gaming Problem page) NOT a content edit of this file body, clean
-    tree NOT touched since 2026-06-24T00:00, NO same-day collision, NOT completed today.
-    body 3689w via tools.curate.length.analyze_length(Path) = status soft_warning (topics
-    soft 3000 / hard 4000 / critical 6000, comfortably UNDER the 4000 hard ceiling
-    ~311w headroom -- NOT a condense candidate, keep review length-neutral-to-trimming).
+    tree NOT touched since 2026-06-24T00:00, NO same-day collision, NOT completed
+    today. body 3689w via tools.curate.length.analyze_length(Path) = status soft_warning
+    (topics soft 3000 / hard 4000 / critical 6000, comfortably UNDER the 4000 hard
+    ceiling ~311w headroom -- NOT a condense candidate, keep review length-neutral-to-trimming).
     Tenet 1+5 load-bearing (Dualism + Occams-Razor-Has-Limits via the edge-of-sentience
     graded-attribution + precautionary framework for minimal/uncertain minds). Header-dedupe
-    CLEAN: grep caret-hash-hash-space-dot-star-birch returns NONE -- no open birch deep-review
-    header anywhere; the only Active-region birch hits are note-body frontier-prediction
-    references inside the run-656/657 notes; the six Vetoed-region birch hits are all
-    cross-link/wikilink mentions inside OTHER tasks notes (minimal-consciousness deep-review,
-    animal-consciousness condense+research, anti-correlated-metacognitive-signal cross-link
-    audit, discrimination-problem write, a P3 cross-species-welfare article), NOT a
-    veto of this file; NOT completed today; NOT archived. BOTTOM-inserted (line 1282
-    greater-than both prior tasks at lines 1268 and 1275) per queue-lifo-starvation
+    CLEAN: grep caret-hash-hash-space-dot-star-birch returns NONE -- no open birch
+    deep-review header anywhere; the only Active-region birch hits are note-body frontier-prediction
+    references inside the run-656/657 notes; the six Vetoed-region birch hits are
+    all cross-link/wikilink mentions inside OTHER tasks notes (minimal-consciousness
+    deep-review, animal-consciousness condense+research, anti-correlated-metacognitive-signal
+    cross-link audit, discrimination-problem write, a P3 cross-species-welfare article),
+    NOT a veto of this file; NOT completed today; NOT archived. BOTTOM-inserted (line
+    1282 greater-than both prior tasks at lines 1268 and 1275) per queue-lifo-starvation
     minting-placement corollary so the two older floor-restore tasks are not starved.
     REVIEW STEERING flags animal-consciousness as an active-research zone (currency
     sweep + Birch 2024 Edge of Sentience OUP primary web-verify + the barrett-2021-eight-vs-six
     propagated-number-drift precedent). EIGHT-SOURCE AUDIT all OTHER sources exhausted
     of clean mintable candidates: (1 chain) zero un-followed research-topic/expand-topic
-    completions. (2 unconsumed research) open P3 research-topic tasks carry their own
-    assess-first chains. (3 gap/caps) topics 281/320, concepts 271/320 headroom but
-    harvester-governed; voids 101/100 at/over create-cap; positions 8/80. (4 genuine-drift)
+    completions. (2 unconsumed research) open P3 research-topic tasks carry their
+    own assess-first chains. (3 gap/caps) topics 281/320, concepts 271/320 headroom
+    but harvester-governed; voids 101/100 at/over create-cap; positions 8/80. (4 genuine-drift)
     broad ai_modified greater-than last_deep_review net is cosmetic June-stamp churn;
-    staleness Source-4 (27.78d) outranks it. (5 length) all hard/critical content offenders
-    human-deferred / veto / index-hub / accept-as-survey / research-note. (6 orphan)
-    orphaned_files=0. (7 positions) 8 entries below 10 audit threshold, slow-add. (8
-    applied-apex) no high-confidence cluster gap. After this mint the next floor-restore
-    draws from concepts/contemplative-epistemology (06:55:53, 27.738d) -- then the 2026-05-31
-    placeholder tier (26.027d). An honest NO-MINT remains acceptable when no clean candidate
-    exists.'
+    staleness Source-4 (27.78d) outranks it. (5 length) all hard/critical content
+    offenders human-deferred / veto / index-hub / accept-as-survey / research-note.
+    (6 orphan) orphaned_files=0. (7 positions) 8 entries below 10 audit threshold,
+    slow-add. (8 applied-apex) no high-confidence cluster gap. After this mint the
+    next floor-restore draws from concepts/contemplative-epistemology (06:55:53, 27.738d)
+    -- then the 2026-05-31 placeholder tier (26.027d). An honest NO-MINT remains acceptable
+    when no clean candidate exists.'
   run_657_note: 'run no.657 (2026-06-26T00:18Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/dualism.md) -- the next 2026-05-29 frontier draw
     after run-655 queued concepts/neural-refresh-rates and run-656 queued voids/interested-party-void,
