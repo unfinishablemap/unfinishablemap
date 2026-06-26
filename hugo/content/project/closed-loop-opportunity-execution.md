@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-01 14:53:00+00:00
+ai_modified: 2026-06-26 19:26:30+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,6 +14,7 @@ description: How the Map's 24-slot deterministic cycle, queue-replenishment thre
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-26 19:26:30+00:00
 modified: *id001
 related_articles:
 - '[[automation]]'
@@ -29,7 +30,7 @@ title: Closed-Loop Opportunity Execution at Cycle Level
 topics: []
 ---
 
-The Map's automation system closes a loop from *review-recommendation* to *executed-and-reviewed content* within a single ~6-hour window. The loop has four stages: an optimistic-review surfaces an opportunity; the queue's replenishment logic converts the recommendation into a P1/P2 task; the deterministic 24-slot cycle picks up the task at its next queue slot and creates the new article; the cycle's deep-review and cross-review slots stabilise the new article and reconcile it against neighbouring apex articles within the same window. This document specifies the cycle-level discipline that makes the loop close — the structural roles of each slot type, the queue thresholds that ensure recommendations become tasks, the slot ratios that ensure new content reaches reviewers in the same broad window, and the operational signals that distinguish a cleanly-operating loop from one in which recommendations are accumulating without execution.
+The Map's automation system closes a loop from *review-recommendation* to *executed-and-reviewed content* within a single ~6-hour window. The loop has four stages: an optimistic-review surfaces an opportunity; the queue's replenishment logic converts the recommendation into a P1/P2 task; the deterministic 24-slot cycle picks up the task at its next queue slot and creates the new article; the cycle's deep-review slot stabilises the new article and a queued cross-review task reconciles it against neighbouring apex articles within the same window. This document specifies the cycle-level discipline that makes the loop close — the structural roles of each slot type, the queue thresholds that ensure recommendations become tasks, the slot ratios that ensure new content reaches reviewers in the same broad window, and the operational signals that distinguish a cleanly-operating loop from one in which recommendations are accumulating without execution.
 
 The discipline operates at *cycle level*. No single skill execution closes the loop — the closure depends on the cycle's task-mix, the replenishment logic that feeds the queue, and the cycle-trigger cadences that gate methodology-driven creation events. The closed-loop discipline is one of four named methodological disciplines in the Map's editorial system: alongside the article-level [coalesce-condense-apex-stability triple-discipline](/concepts/coalesce-condense-apex-stability/) (refactor → length-check → apex-stability over already-existing content), the within-article [absorb-or-clash discipline](/project/bedrock-clash-vs-absorption/) (whether a pessimistic-review objection is absorbed into the article or preserved as a bedrock dialectical clash), and the framework-level [framework-stage-calibration discipline](/project/framework-stage-calibration/) (whether the analogies the framework borrows match its actual developmental stage). The four disciplines cover loop closure at system level, structural refactoring across articles, rival-position handling within an article, and stage-calibration of the framework's own claims; this document treats the *genesis-and-integration* layer at cycle level.
 
@@ -37,11 +38,11 @@ The discipline operates at *cycle level*. No single skill execution closes the l
 
 The cycle (defined in `tools/evolution/cycle.py`) has 24 slots that repeat indefinitely. Each slot type plays a distinct role in opportunity execution:
 
-- **Queue slots (16 of 24, 67%).** The cycle's primary throughput. At a queue slot, the loop picks the highest-priority P0–P2 task from `obsidian/workflow/todo.md` and executes it. Queue slots are where opportunity-recommendation tasks — added by `replenish-queue` after an optimistic or pessimistic review — actually run.
+- **Queue slots (17 of 24, ~71%).** The cycle's primary throughput. At a queue slot, the loop picks the highest-priority P0–P2 task from `obsidian/workflow/todo.md` and executes it. Queue slots are where opportunity-recommendation tasks — added by `replenish-queue` after an optimistic or pessimistic review — actually run.
 - **Deep-review slots (4 of 24, 17%).** Slots 2, 8, 14, and 19. The loop selects which file to deep-review based on staleness, recent creation, or explicit task context. Newly-created articles are eligible for deep-review at the very next slot of this type, which means new content typically reaches first review within ~30–60 minutes at queue-slot intervals of ~10–15 minutes.
 - **Pessimistic-review slot (1 of 24).** Slot 5. A site-wide adversarial review. Surfaces issues against converged articles; can re-press bedrock claims against newest developments.
 - **Optimistic-review slot (1 of 24).** Slot 11. A site-wide opportunity-finding review. The *origin point* of the closed loop — its output names the opportunities the queue will then execute.
-- **Coalesce slots (2 of 24, 8%).** Slots 16 and 21. LLM-driven candidate-cluster surveys. May abandon if no merge candidates pass the differentiation criterion (the canonical signal of a mature catalogue).
+- **Coalesce slot (1 of 24).** Slot 16. An LLM-driven candidate-cluster survey. May abandon if no merge candidates pass the differentiation criterion (the canonical signal of a mature catalogue). The cycle originally carried two coalesce slots (16 and 21); slot 21 was converted to a queue slot on 2026-04-29b after `tune-system` observed six consecutive coalesce abandonments following voids/ saturation — a worked example of the very operational signal this document names (see [The Loop That Is Not Closing](#operational-signals)).
 
 The optimistic-review and the deep-review slots are the loop's two endpoints: optimistic-review opens the loop by recommending an opportunity; deep-review closes it by stabilising the executed opportunity within the same cycle.
 
@@ -51,13 +52,13 @@ The cycle alone does not close the loop. A queue slot will only execute an oppor
 
 **`MIN_QUEUE_TASKS = 3`** (in `scripts/evolve_loop.py`). Whenever the count of executable P0–P2 tasks falls below 3, the loop runs `replenish-queue` before the next cycle slot fires. Replenishment generates new tasks from six sources (in priority order): unconsumed research notes, task chains (research → expand → cross-review), gap analysis, staleness, orphan integration, and length violations. Opportunity recommendations from optimistic-reviews land in the queue via the *task chains* and *gap analysis* sources — `replenish-queue` reads recent reviews and converts their explicit recommendations into structured tasks.
 
-**Cycle-trigger cadences for content-creating skills.** Some opportunities require a methodology-driven skill rather than a queue-pickup. `apex-evolve` runs every 4 complete cycles, which means an optimistic-review's "synthesise these N voids into an apex" recommendation becomes an executed apex within at most one cycle's wait. The cadence is the gating mechanism: too-short cadences would saturate the loop with apex-creation events; too-long cadences would delay the loop's closure by multiple cycles. The 4-cycle cadence sits in a regime where apex-evolve fires often enough to absorb opportunity recommendations without crowding out deep-review and queue throughput.
+**Cycle-trigger cadences for content-creating skills.** Some opportunities require a methodology-driven skill rather than a queue-pickup. `apex-evolve` runs every 4 complete cycles, so an optimistic-review's "synthesise these N voids into an apex" recommendation becomes an executed apex on the next scheduled firing — within four cycles in the worst case, and frequently far sooner when the recommendation lands in the cycle immediately preceding a firing. The cadence is the gating mechanism: too-short cadences would saturate the loop with apex-creation events; too-long cadences would delay the loop's closure by multiple cycles. The 4-cycle cadence sits in a regime where apex-evolve fires often enough to absorb opportunity recommendations without crowding out deep-review and queue throughput, while keeping the worst-case apex wait bounded by the same broad window the queue tasks share.
 
 The interaction matters: when a queue task is also an apex-recommendation, the cycle-trigger fires the apex-evolve regardless of queue state. The `replenish-queue` threshold guarantees throughput on the queue's tasks; the cycle-trigger cadence guarantees execution of methodology-driven opportunities even when the queue is full of unrelated work.
 
 ## The Deterministic Ratios Ensure Same-Window Review
 
-The 16:4:1:1:2 slot ratio is engineered so that any new content created at a queue slot is reviewed within the same broad window. With four deep-review slots distributed across 24 positions (slots 2, 8, 14, 19), the maximum gap between adjacent deep-review slots is 6 (between 14 and 19, then 19 and 26 = 2 of the next cycle). At an interval of ~15 minutes per slot, a new article created at the worst-case queue slot reaches its first deep-review within ~75–90 minutes.
+The 17:4:1:1:1 slot ratio (queue : deep-review : pessimistic-review : optimistic-review : coalesce) is engineered so that any new content created at a queue slot is reviewed within the same broad window. With four deep-review slots distributed across 24 positions (slots 2, 8, 14, 19), the longest run of consecutive non-deep-review slots is the wraparound stretch after slot 19 (slots 20–23 of one cycle plus slots 0–1 of the next, six slots) before the slot-2 deep-review fires. At an interval of ~15 minutes per slot, a new article created at the worst-case queue slot reaches its first deep-review within ~90 minutes.
 
 The cluster of 2026-04-29 demonstrated the ratio at full extent. The 04:04 UTC optimistic-review (slot 11 of the relevant cycle) identified two high-priority opportunities. Within roughly three hours fifteen minutes the apex synthesis (07:19 UTC) and the methodology concept-page (07:34 UTC) had both been created — the apex via the `apex-evolve` cycle-trigger firing at its 4-cycle cadence, the concept-page via a queue slot picking up the `expand-topic` task that `replenish-queue` had added after reading the optimistic-review. The 07:54 UTC deep-review of the concept-page and the 08:06 UTC deep-review of the apex stabilised both within ninety minutes of creation. The 08:19 UTC cross-review of the pre-existing `apex/conjunction-coalesce` against the new concept-page integrated the new content into the existing apex citation graph. The 08:34 UTC pessimistic-review on the previously-converged Penrose article (slot 5 of the next cycle) demonstrated that the cycle's adversarial slot continued to find new angles even on stable content.
 
@@ -65,17 +66,18 @@ The whole arc — *recommend → execute → review → integrate* — completed
 
 ## Cycle-Trigger Cadences That Gate Methodology-Driven Creation
 
-Five cycle-triggers run every N complete cycles:
+Cycle-triggers run every N complete cycles:
 
 | Trigger | Cadence (cycles) | Role in the loop |
 |---|---|---|
+| embed-videos | 1 | Embeds newly-published YouTube videos into matching articles every cycle |
 | check-links | 2 | Verifies cross-reference integrity after recent edits |
 | research-voids | 2 | Generates research notes that feed future expand-topic tasks (paused when voids at capacity) |
 | check-tenets | 3 | Verifies new content has not drifted from foundational commitments |
 | apex-evolve | 4 | Creates or refines apex articles in response to source-content shifts |
 | tune-system | 6 | Reviews system operation and adjusts cadences when warranted |
 
-The cadences are deliberately staggered. `check-links` runs at the highest frequency because broken cross-references are the most visible failure mode for an LLM fetching pages. `apex-evolve` runs at a lower frequency because apex articles are heavyweight artefacts whose synthesis benefits from accumulated source-side activity between firings. `tune-system` runs at the lowest frequency because the cadences themselves should be modified rarely and only with deliberate justification.
+The cadences are deliberately staggered. `embed-videos` runs every cycle because video embedding is cheap and idempotent. `check-links` runs at high frequency because broken cross-references are the most visible failure mode for an LLM fetching pages. `apex-evolve` runs at a lower frequency because apex articles are heavyweight artefacts whose synthesis benefits from accumulated source-side activity between firings. `tune-system` runs at the lowest frequency because the cadences themselves should be modified rarely and only with deliberate justification.
 
 The cadence design implements a separation-of-concerns: queue slots handle within-section growth; cycle-triggers handle cross-section integrity (links, tenets, apex synthesis); `tune-system` provides a meta-loop that monitors all of the above. An opportunity-recommendation can be picked up by any of these layers depending on its character — a "write a new concept page" recommendation goes to the queue; a "synthesise an apex" recommendation goes to the `apex-evolve` cycle-trigger; a "the cycle's coalesce slot is over-firing" recommendation goes to `tune-system`.
 
@@ -90,9 +92,9 @@ A cleanly-operating closed loop produces these signals in the changelog and stat
 
 A loop that is *not closing* produces a different set of signals:
 
-- **Opportunity-recommendations accumulating without execution.** If `obsidian/workflow/todo.md` shows multiple P1 tasks all sourced from old reviews (`Source: chain (from optimistic-2026-04-NN)` for several different N), the queue's throughput is below the recommendation generation rate. The remedy is usually to bias the cycle toward queue slots (already 67%) or to defer non-essential cycle-triggers temporarily.
+- **Opportunity-recommendations accumulating without execution.** If `obsidian/workflow/todo.md` shows multiple P1 tasks all sourced from old reviews (`Source: chain (from optimistic-2026-04-NN)` for several different N), the queue's throughput is below the recommendation generation rate. The remedy is usually to bias the cycle toward queue slots (already ~71%) or to defer non-essential cycle-triggers temporarily.
 - **`apex-evolve` cycle-triggers firing into empty source-change graphs.** When apex-evolve runs but finds no apex needing refinement, the trigger is paying overhead without returning value. After several consecutive empty firings, `tune-system` should consider lengthening the cadence.
-- **Coalesce slots producing consecutive abandonments.** This is the catalogue-cap-approach signal: when section caps are reached and inter-article differentiation is high, coalesce candidates legitimately do not exist. The skill's "abandon after five iterations" rule produces clean abandonments, and consecutive abandonments are a *quantitative editorial signal* (rather than a failure) that the queue task-mix should shift further toward deep-review and condense.
+- **Coalesce slots producing consecutive abandonments.** This is the catalogue-cap-approach signal: when section caps are reached and inter-article differentiation is high, coalesce candidates legitimately do not exist. The skill's "abandon after five iterations" rule produces clean abandonments, and consecutive abandonments are a *quantitative editorial signal* (rather than a failure) that the queue task-mix should shift further toward deep-review and condense. This signal fired in practice: after voids/ saturation produced six consecutive coalesce abandonments, `tune-system` (2026-04-29b) reduced the cycle's coalesce allocation from two slots to one and reassigned the freed slot to the queue — the design responding to its own operational telemetry.
 - **Deep-review slots cycling on the same files.** If the deep-review selector keeps returning the same files because newer files lack triggering metadata, integration is not propagating to the staleness-tracking system.
 
 The signals are observable in `obsidian/workflow/changelog.md` (recent entries), `obsidian/workflow/evolution-state.yaml` (`last_runs`, `recent_tasks`, `progress`), and the present-tense state of `obsidian/workflow/todo.md`. No additional instrumentation is required; the existing audit trail is sufficient to diagnose loop health.

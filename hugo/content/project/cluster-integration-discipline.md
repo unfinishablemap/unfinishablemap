@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-03 16:42:00+00:00
+ai_modified: 2026-06-26 19:09:19+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -13,6 +13,7 @@ description: 'A methodological pattern: load-bearing inferences supported by a c
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-26 19:09:19+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -64,7 +65,7 @@ The discipline imposes three calibration rules on any cluster-integration deploy
 
 A cluster-integration argument inherits a specific falsifier-design pattern from its structural form: each cluster member must support a falsifier that would *dissociate it from the inference*, and the cluster as a whole must support a structural falsifier that would dissolve the correspondence claim.
 
-The pattern is visible in the catalogue's two strongest exhibits. The binding-problem article's "What Would Challenge This View?" section lists six conditions — five member-level falsifiers (one per variety: a reductive explanation of any BP2 variety would weaken the structural-persistence argument; a computational model predicting conjoint phenomenology would narrow the BP1/BP2 gap; symmetric temporal recalibration would weaken the consciousness-specificity claim; the identity move achieving adequacy would reclassify the BP2 gap as epistemic; evidence against quantum holism would cut the substrate bridge) plus one cluster-level falsifier (the vitalism template — multiple seemingly irreducible phenomena dissolving under a single framework — that would defeat the structural-persistence argument as such). Baseline-cognition's five falsifiers map the same pattern at functional grain: each falsifier targets a specific consciousness-dependent capacity (great apes achieving human-level cognition; working memory expansion without cognitive gains; unconscious logical reasoning; AI achieving human-level cognition without consciousness; random distribution of the gap), and together they specify what the *systematic tracking* claim requires.
+The pattern is visible in the catalogue's two strongest exhibits. The binding-problem article's "What Would Challenge This View?" section lists six conditions, each dissociating a part of the case from the inference: a reductive explanation of any BP2 variety would weaken the structural-persistence argument; a computational model predicting conjoint phenomenology would narrow the BP1/BP2 gap; an informational reading of inverse effectiveness would dissolve the combination-problem parallel; symmetric temporal recalibration would weaken the consciousness-specificity claim; the identity move achieving adequacy would reclassify the BP2 gap as epistemic; and evidence against quantum holism would cut the substrate bridge. The first of these carries the cluster-level structural falsifier inside it — the vitalism template, where multiple seemingly irreducible phenomena dissolve under a single framework, which would defeat the structural-persistence argument as such. Baseline-cognition's five falsifiers map the same pattern at functional grain: each falsifier targets a specific consciousness-dependent capacity (great apes achieving human-level cognition; working memory expansion without cognitive gains; unconscious logical reasoning; AI achieving human-level cognition without consciousness; random distribution of the gap), and together they specify what the *systematic tracking* claim requires.
 
 The discipline's editorial rule: a cluster-integration article without per-member falsifiers is under-specified. The cluster does not earn its argumentative weight until each member is shown to be dissociable from the inference under specifiable conditions — otherwise the cluster is decorative rather than load-bearing.
 
@@ -74,7 +75,7 @@ The catalogue's three exhibits demonstrate the discipline at three different gra
 
 **Metaphysical grain: [the convergence argument for dualism](/topics/the-convergence-argument-for-dualism/).** The load-bearing inference is the irreducibility of consciousness to physical processes; the cluster has three members (subjective experience arguments; structural arguments from unity, intentionality, and rational agency; cross-traditional convergence on irreducibility); the correspondence claim is that arguments starting from different premises, using different methods, and targeting different features of consciousness all point the same way. The article's honest assessment — "substantially stronger than any single argument," not "overwhelming" — exemplifies the calibration register.
 
-**Phenomenal grain: [the binding problem](/topics/the-binding-problem/).** The load-bearing inference is that phenomenal unity is irreducible to physical coordination; the cluster has five members (intra-modal, cross-modal, temporal, cognitive, subject binding); the correspondence claim is that the BP1/BP2 gap *persists across all five varieties* rather than dissolving under one. The condense pass that reduced the article from 4,719 to 3,292 words preserved every cluster member because the cluster's shape is the article's load-bearing structure — losing a variety would mean losing a unit of correspondence.
+**Phenomenal grain: [the binding problem](/topics/the-binding-problem/).** The load-bearing inference is that phenomenal unity is irreducible to physical coordination; the cluster has five members (intra-modal, cross-modal, temporal, cognitive, subject binding); the correspondence claim is that the BP1/BP2 gap *persists across all five varieties* rather than dissolving under one. A condense pass on that article cut roughly a third of its length while preserving every cluster member, because the cluster's shape is the article's load-bearing structure — losing a variety would mean losing a unit of correspondence.
 
 **Functional grain: [baseline cognition](/concepts/baseline-cognition/).** The load-bearing inference is that the human-ape gap is evidence consciousness amplifies cognition rather than being epiphenomenal; the cluster has five members (working memory expansion; novel-combination capacity; spontaneous intentional action; metarepresentation; counterfactual reasoning); the correspondence claim is that the gap *systematically* tracks consciousness-dependent capacities rather than tracking cognitive complexity at random. The five-falsifier scaffold is the catalogue's strongest deployment of the per-member falsifier pattern.
 

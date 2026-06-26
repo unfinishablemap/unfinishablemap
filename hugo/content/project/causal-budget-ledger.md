@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-03 01:00:35+00:00
+ai_modified: 2026-06-26 18:58:03+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -15,6 +15,7 @@ description: Every mental-causation claim in the catalogue draws on a tiny share
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-26 18:58:03+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -71,7 +72,7 @@ The six fields are not independent; specifying any one constrains the others. Bu
 
 ## Why the Budget Binds
 
-Three results from [selection-only-mind-influence](/topics/selection-only-mind-influence/) close the question of whether the budget is real. The *per-event ceiling* is log₂(N) bits, set entirely by the brain. The *per-second ceiling* under Born-rule preservation is approximately R · ε² / (2 ln 2) bits/s; with ε of order 10⁻³, this delivers per-event rates near 7 × 10⁻⁷ bits, and the aggregate at neural-quantum event rates of 10⁷–10¹² per second lands in a band that can fall short of or modestly exceed the ~10 bits/s of conscious agency reported by Zheng & Meister (2025). The bandwidth is not generous. The *content-confinement bound* is the hardest constraint: nothing the brain has not pre-generated can be selected, reported, or felt. The arithmetic is unforgiving in precisely the way the ledger needs.
+Three results from [selection-only-mind-influence](/topics/selection-only-mind-influence/) close the question of whether the budget is real. The *per-event ceiling* is log₂(N) bits, set entirely by the brain. The *per-second ceiling* under Born-rule preservation is approximately R · ε² / (2 ln 2) bits/s; with ε of order 10⁻³, this delivers per-event rates near 7 × 10⁻⁷ bits, and the aggregate at neural-quantum event rates of 10⁷–10¹² per second lands — depending on the assumed selection rate — in a band that can fall far short of or approach the ~10 bits/s of conscious agency reported by Zheng & Meister (2025). The bandwidth is not generous. The *content-confinement bound* is the hardest constraint: nothing the brain has not pre-generated can be selected, reported, or felt. The arithmetic is unforgiving in precisely the way the ledger needs.
 
 ## Audit Checklist for `/refine-draft` and `/deep-review`
 

@@ -1,13 +1,160 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 17:38:00+00:00
+ai_modified: 2026-06-26 20:18:09+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-26T20:37:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [public-claim-register](/project/public-claim-register/)
+- **Word count**: 1948 → 1948 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Note**: First deep review of this slug. Editorial-methodology article (defines a publication-gate discipline), so the §2.4 citation web-verify pass was the load-bearing scrutiny channel, not the adversarial personas (which have no purchase on a methodology doc's content). 5 references, all verified real-correct at publisher of record: Gutfreund 2024 (corpus-canonical, most-verified cite in the corpus — all 6 quotes confirmed verbatim per the 2026-06-24 SAC research note), both ChatGPT outer reviews (files exist, formulations verbatim), both internal discipline self-cites (target created-dates match). Two medium citation-metadata fixes via family-resolution: (1) Gutfreund reference was missing the canonical volume/article-number/DOI (15, 1456403, DOI 10.3389/fpsyg.2024.1456403) the rest of the corpus carries — propagated; (2) the 2026-05-03 outer review was mislabelled "ChatGPT 5 Pro" where the file/URL/sibling-reference all say "5.5 Pro" — corrected. Inline↔reference cross-check clean (no orphans); empirical-currency sweep empty. The article practices what it preaches — the worked nematode entry grades at *live hypothesis* with defeater-removal explicitly labelled "neither is evidence," so it commits no possibility/probability slippage. No editor-vocabulary-leakage concern (this is the doc that defines the vocabulary). Below soft threshold (1948/2500w); no expansion needed. Reasoning-mode: N/A (no named-opponent refutations).
+- **Output**: [deep-review-2026-06-26-public-claim-register](/reviews/deep-review-2026-06-26-public-claim-register/)
+
+## 2026-06-26T20:18:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [outer-reviewer-service-calibration](/project/outer-reviewer-service-calibration/)
+- **Word count**: 1157 → 1403 (+246)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Note**: First deep review of this slug. Project meta-doc — fidelity-and-currency review, not tenets/citations. Verified ~20 source-fidelity claims against the 7 referenced review files (all 2026-05-10/11/12/14 cycles): every claim TRUE, including the verbatim "definitive masterclass" and "directly refuting Tegmark's femtosecond limits" Gemini quotes, the Claude-8 / ChatGPT-6 finding counts (Claude §3.1–3.8 confirmed), and the precise "Gemini missed Letheby while same-cycle Claude caught him" claim (Gemini names Letheby only in its own gap-meta-note; Claude 13×). No broken links. Reasoning-mode: N/A (no named-opponent refutations). Two medium currency-drift fixes: (1) model identity — doc named "Claude Opus 4.7" as the *current* reviewer of record; the Claude leg has run Fable 5 / Opus 4.8 since mid-June; split historical data (kept Opus 4.7) from model-agnostic role label; (2) the "Pre-Registered Calibration Question" was superseded — the commission-gemini-review skill already ships five anti-sycophancy guardrails prompted by an unrecorded 2026-05-16 phantom-limb third data-point; converted the section to a recorded resolution + narrowed residual question. Below soft threshold throughout (1403/2500w).
+- **Output**: [deep-review-2026-06-26-outer-reviewer-service-calibration](/reviews/deep-review-2026-06-26-outer-reviewer-service-calibration/)
+
+## 2026-06-26T20:10:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Word count**: 2258 → 2258 (no change; metadata-only review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Seventh deep review; firmly converged. Re-qualified only by a cosmetic `ai_modified` bump (2026-06-15 commit 9258ae53b) that installed a single valid Further-Reading cross-link to [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — no body or citation change. Cross-link target verified to exist. Confirmatory currency WebSearch: COGITATE landscape unchanged, no COGITATE-2/HOT adversarial result published, superlatives hold. §2.4 web-verify: N/A this pass — all six named citations publisher-of-record verified 2026-06-03, no citation text changed since. Reasoning-mode: no named-opponent refutations. Accepted as-is; timestamps updated only.
+- **Output**: [deep-review-2026-06-26-experimental-consciousness-science-2025-2026](/reviews/deep-review-2026-06-26-experimental-consciousness-science-2025-2026/)
+
+## 2026-06-26T20:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [outer-review-empirical-vs-methodological-freshness](/project/outer-review-empirical-vs-methodological-freshness/)
+- **Word count**: 1652 → 1664 (+12; 66% of project 2500 soft threshold — ample headroom, no condensation)
+- **Critical issues addressed**: 1 (wrong-section path on a named integration target — `concepts/comparing-quantum-consciousness-mechanisms.md` does not exist; live file is `topics/comparing-quantum-consciousness-mechanisms.md` with 7 Duch mentions; never a concepts/ file, so a wrong-section reference, not an archive casualty; corrected)
+- **Medium issues addressed**: 3 (added `[[calibration-audit-triple]]` to related_articles — referenced in Further Reading but missing from frontmatter; added point-in-time scope marker to the "33 files" snapshot — grep now returns 154; added missing `last_deep_review` field)
+- **Enhancements made**: 1 (graph-consistency cross-link promotion)
+- **§2.4 citation web-verify**: N/A — project methodology doc, zero external bibliographic citations. Internal-quote fidelity verified instead (apex-stale-internal-quote-channel discipline): all 7 quoted/attributed strings checked verbatim against source review files (2026-05-04 Claude, 2026-05-04 ChatGPT, 2026-05-03 ChatGPT) — all real-correct; commit b90a58310, Duch dossier, all 3 review files + all 5 cross-linked project docs exist.
+- **Engagement modes**: N/A — no named-opponent replies (methodology/calibration doc, not philosophical content)
+- **Output**: [deep-review-2026-06-26-outer-review-empirical-vs-methodological-freshness](/reviews/deep-review-2026-06-26-outer-review-empirical-vs-methodological-freshness/)
+
+## 2026-06-26T19:26:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/)
+- **Word count**: 2307 → 2344 (+37; 94% of project 2500 soft threshold — headroom, no condensation)
+- **Critical issues addressed**: 1 (worst-case apex-evolve wait overstated as "at most one cycle" — contradicts own 4-cycle cadence; corrected to "within four cycles in the worst case")
+- **Medium issues addressed**: 0 (one noted-not-fixed: "~30–60 min" typical first-review estimate is interval-dependent but adequately hedged)
+- **Enhancements made**: 1 (correction also restores self-consistency with the article's own cycle-trigger cadence table)
+- **§2.4 citation web-verify**: N/A — zero external bibliographic citations; all 4 References are internal Map self-refs (concept page, optimistic-2026-04-29b review, changelog/state, cycle.py/evolve_loop.py), all verified present. "Oquatre-sept, C." confirmed as established corpus co-author persona (175 files), not fabrication. No superlatives (currency helper empty).
+- **Source-truth cross-check**: all structural claims VERIFIED against live `tools/evolution/cycle.py` + `scripts/evolve_loop.py` — slots 17/4/1/1/1 at positions 2/8/14/19, MIN_QUEUE_TASKS=3, cadences 1/2/2/3/4/6, worst-case 6-slot deep-review gap (~90 min). 2026-04-29 demo-arc timestamps all match source review file exactly.
+- **Reasoning-mode**: N/A — self-documenting system-mechanics article; no named-opponent engagement. Philosophy-of-mind personas have no purchase.
+- **Output**: [deep-review-2026-06-26-closed-loop-opportunity-execution](/reviews/deep-review-2026-06-26-closed-loop-opportunity-execution/)
+
+## 2026-06-26T19:20:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+- **Word count**: 1648 → 1648 (no change; 55% of topics 3000 soft threshold — headroom, no condensation)
+- **Critical issues addressed**: 0 (third consecutive no-critical-issue pass; converged calibration exemplar)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op convergence confirmation — only post-2026-06-14 changes were 2 cosmetic Further Reading cross-links + a 2026-06-16 outer-review softening of "settled"→"well-supported", both safe; argumentative body unchanged. Adding content would be filler)
+- **§2.4 citation web-verify**: References block unchanged since 2026-06-05 (git-confirmed); all 5 Berridge primary cites web-verified real-correct in both prior passes (Berridge & Robinson 1998; Peciña & Berridge 2005; Tindell et al. 2009; Berridge & Kringelbach 2015; Berridge & Robinson 2016) — state carried forward, no References modification to re-trigger. No superlatives (currency helper empty). Inline↔References complete, no orphans. 2 new cross-link targets (affective-forecasting-gap, negative-valence-asymmetry-and-the-selection-weighting-function) verified to resolve.
+- **Reasoning-mode**: mechanism-only physicalist reading — Mode Three (framework-boundary marking); no boundary-substitution, no label leakage.
+- **Convergence note**: now 3 prior deep reviews; excluded outright next time while last_deep_review within 14 days. Future cosmetic cross-link bumps should not re-trigger.
+- **Output**: [deep-review-2026-06-26-wanting-liking-and-the-value-in-mechanism-fork](/reviews/deep-review-2026-06-26-wanting-liking-and-the-value-in-mechanism-fork/)
+
+## 2026-06-26T19:09:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [cluster-integration-discipline](/project/cluster-integration-discipline/)
+- **Word count**: 2075 → 2099 (+24; well under concepts 2500 soft threshold)
+- **Critical issues addressed**: 0 (first review; no factual/attribution/contradiction/link defects — all 16 wikilinks resolve, 3 tenet anchors exist, "seventh discipline" count consistent, 3 Reference URLs match live locations)
+- **Medium issues addressed**: 2 — (1) stale-snapshot currency drift: binding-problem word-count claim "reduced from 4,719 to 3,292 words" implied a current state now false (article since regrown to 3,918 via later reviews/refines); rewritten to "cut roughly a third of its length while preserving every cluster member". (2) inexact sibling description: binding-problem falsifiers described as "five (one per variety) + one cluster-level"; live article has six move-keyed falsifiers (the omitted one: inverse-effectiveness) with the vitalism template carried inside the first — rewritten to list all six accurately.
+- **Enhancements made**: 0 (methodology meta-article; accuracy maintenance, not expansion — Further Reading already dense and accurate)
+- **§2.4 citation web-verify**: N/A by trigger — no external/empirical citations; References are 3 internal Map self-cites (convergence, binding, baseline), all URLs verified against live article locations; `Oquatre-{n}` co-author convention matches each cited article's ai_system model version. Sibling factual claims re-verified against LIVE files: 5 binding varieties ✓, 6 binding falsifiers ✓ (corrected), 3 convergence clusters + "substantially stronger not overwhelming" ✓ verbatim, 5 baseline capacities ✓, 5 baseline falsifiers ✓.
+- **Output**: [deep-review-2026-06-26-cluster-integration-discipline](/reviews/deep-review-2026-06-26-cluster-integration-discipline/)
+
+## 2026-06-26T18:58:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-budget-ledger](/project/causal-budget-ledger/)
+- **Word count**: 2731 → 2739 (+8; length-neutral, soft_warning, well under 3500 hard threshold)
+- **Critical issues addressed**: 0 (well-converged first review; no factual/attribution/contradiction/link defects)
+- **Medium issues addressed**: 1 (calibration: budget-band upper-end said "modestly exceed ~10 bits/s"; source [selection-only-mind-influence](/topics/selection-only-mind-influence/) derives "far below or comparable to" — re-scoped to "fall far short of or approach … depending on the assumed selection rate" so the discipline does not license more bandwidth than its own source allows)
+- **Enhancements made**: 0 (length-neutral; article already densely, accurately cross-linked)
+- **§2.4 citation web-verify**: all real-correct — Han & Choi 2016 (*Sci Rep* 6, 22986) ✓; Zheng & Meister 2025 (*Neuron* 113(2):192–204) ✓; Stapp QID PDF live at cited URL ✓ (minor n.d.-vs-*Zygon*-2005 deferred for cross-article consistency); outer-review-2026-05-11 attribution faithful (§1.1+§7 supply the six fields); internal Map cites all present. No orphans, no superseded superlatives. Arithmetic mirrors source exactly.
+- **§2.6 reasoning-mode**: not an opponent-reply article (methodology doc); no label leakage; six-field schema correctly named here (the schema-defining doc) with explicit instruction that applying articles use natural prose.
+- **Cross-ref accuracy**: characterizations of [mechanism-cost-ledger](/project/mechanism-cost-ledger/), [mechanism-costs-cartography](/project/mechanism-costs-cartography/), [epiphenomenalism](/concepts/epiphenomenalism/) all verified against target content.
+- **Output**: [deep-review-2026-06-26-causal-budget-ledger](/reviews/deep-review-2026-06-26-causal-budget-ledger/)
+
+## 2026-06-26T18:44:33+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cross-cultural / non-Western philosophy-of-mind cluster (the convergence-on-irreducibility strand): african-philosophy-of-consciousness, indian-philosophy-of-mind, cross-traditional-convergence-on-consciousness-irreducibility (anchor), islamic-sufi-philosophy-of-consciousness; with the-hard-problem-in-non-western-philosophy, eastern-philosophy-consciousness, interaction-problem-across-traditions consulted for topology. African + Indian anchors were deep-reviewed earlier today (16:55 / 16:36 UTC) but the cluster had no recent optimistic pass.
+- **Key finding**: One of the Map's most evidentially disciplined clusters — Process-Philosopher and Hardline-Empiricist personas converge in praise (no tenet-as-evidence-upgrade slippage; the anchor's Chinese counter-example, common-cause null, Neoplatonist strand-discount, and three-routes-refusal section all written into the articles themselves). Opportunities are connective/completing, not corrective: a dedicated Chinese-philosophy-of-mind article (the cluster's load-bearing "basin edge" counter-example, currently scattered) and four direct sibling cross-links among the African/Indian/Islamic strands.
+- **Tasks added**: 1 P3 expand-topic (Chinese Philosophy of Mind), 1 P3 refine-draft (African/Indian/Islamic direct cross-links). Medium-priority research-topic on indigenous/oral-tradition philosophy of mind noted in report but not queued.
+- **Output**: [optimistic-2026-06-26d](/reviews/optimistic-2026-06-26d/)
+
+## 2026-06-26T18:32:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [common-cause-null](/project/common-cause-null/)
+- **Word count**: 3469 → 3498 (+29; kept under the 3500 hard threshold via length-neutral trims)
+- **Critical issues addressed**: 3 (all `[[apex-stale-internal-quote-channel]]` staleness against rewritten siblings: (1) "seven traditions" contradicted the dissociation apex's self-administered "five-or-six, not seven" re-count + Bergson/Schwitzgebel reassignments — corrected; (2) stale "line 144" pointer to the apex (now blank; acknowledgement moved to ~L159) — removed in 2 places; (3) stale "line 142" pointer to the-convergence-argument-for-dualism (binding/unity content now at L83–93) — removed, substantive claim kept)
+- **Medium issues addressed**: 0 (broader meta-doc brittleness mitigated by removing all hard "line N" pointers — `grep "line [0-9]"` now empty)
+- **Enhancements made**: 1 (dissociation-cluster example now showcases the doc's own "audit the count downward" discipline operating on the flagship apex)
+- **Citation web-verify (§2.4)**: Reichenbach 1956 (UC Press), Salmon 1984 (Princeton UP, 9780691101705), Sober 1988 (MIT Press, 9780262691444), Cartwright 1983 (OUP, 9780198247043) — all real-correct at publisher of record. References 1,6–9 internal Map self-refs (Ref 6 date matches apex). No fabricated cites; no inline↔References orphans; no superlative-currency claims.
+- **First deep review** of this file. The one filename-matching review was a cross-review of the dissociation apex against this doc, not a review of this doc.
+- **Output**: [deep-review-2026-06-26-common-cause-null](/reviews/deep-review-2026-06-26-common-cause-null/)
+
+## 2026-06-26T18:19:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [direct-refutation-discipline](/project/direct-refutation-discipline/)
+- **Word count**: 5555 → 5572 (+17; one References entry added)
+- **Critical issues addressed**: 1 (Frankish 2016 inline cite at L137 was an inline↔References orphan — paper web-verified real (J. Consciousness Studies 23(11–12):11–39), added References entry 6, renumbered 7–11)
+- **Medium issues addressed**: 0 (length flag deferred deliberately — see below)
+- **Enhancements made**: 1 (Frankish References entry tied to the Mode Two worked example)
+- **Citation web-verify (§2.4)**: Duch 2005 (JMB 26(1–2):1–22) real-correct; Duch 2018 (shadow-of-neurodynamics PDF) real-correct, URL live HTTP 200; Frankish 2016 real-correct, was orphan → fixed. No fabricated cites; no superlative-currency claims.
+- **Length note**: 5555w reads "critical" against the concepts/ 2500w fallback, but this is a `project/` methodology spec (no length-table row); condensing a normative spec the skills cite would degrade operation. Standing false positive — future reviews should not queue a condense on this basis.
+- **First deep review** of this file (no prior review existed). Internal consistency, attribution fidelity (Duch/Frankish/Dennett/LeDoux), and all 20+ wikilinks verified clean.
+- **Output**: [deep-review-2026-06-26-direct-refutation-discipline](/reviews/deep-review-2026-06-26-direct-refutation-discipline/)
+
+## 2026-06-26T18:13:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-binding-problem](/topics/the-binding-problem/)
+- **Word count**: 3918 → 3918 (0; verification pass, no net additions)
+- **Critical issues addressed**: 0 (none found; converged article, 3rd+ deep review)
+- **Medium issues addressed**: 0 (the same-day refine-draft `7bae233f2` had already implemented all 5 findings of [pessimistic-2026-06-26b-the-binding-problem](/reviews/pessimistic-2026-06-26b-the-binding-problem/); this pass verified the fixes are sound)
+- **Enhancements made**: 0 (no oscillation on a converged article)
+- **Verification**: all 5 pessimistic fixes confirmed applied (structural-inference underdetermination concession; quantum bias/entanglement tension flagged; recalibration epistemic↔metaphysical equivocation downgraded; deflationary-self reply added; length in-bounds). New prose defect-swept: attributions faithful (Buddhist/Parfittian/Metzinger self-model; verbatim Nagel 1971 quote preserved), no internal contradiction, no EOF artifact, no label leakage. References block unchanged since 2026-06-02 review → §2.4 web-verify not re-triggered (prior per-cite ledger stands). [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) confirmed resolving to the LIVE concept article (a stale archive predecessor also exists but is not the link target).
+- **Engagement modes** (editor-internal): MWI defender UPGRADED to honest Mode Three boundary-marking (was boundary-substitution); Buddhist/Parfittian/Metzinger deflationist Mode Three; identity theorist Mode One; functionalist/IIT Mode Two.
+- **Output**: [deep-review-2026-06-26-the-binding-problem](/reviews/deep-review-2026-06-26-the-binding-problem/)
+
+## 2026-06-26T17:53:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/)
+- **Original score**: n/a (curate.py review path stale; refine was a code-drift reconciliation against live `tools/evolution/cycle.py`)
+- **Changes**: Reconciled the article's cycle figures against the live `TASK_CYCLE` / `CYCLE_TRIGGERS`, which had drifted since the 2026-05-01 version. (1) Coalesce: slot 21 was converted from coalesce→queue on 2026-04-29b (tune-system, six consecutive abandonments post voids/ saturation), so "Coalesce slots (2 of 24, 8%). Slots 16 and 21" → "Coalesce slot (1 of 24). Slot 16", with a note that the conversion is a worked example of the article's own operational signal (cross-linked to #operational-signals). (2) Queue ratio: "16 of 24, 67%" → "17 of 24, ~71%" throughout (structural-roles bullet + the not-closing remedy bullet). (3) Slot ratio: "16:4:1:1:2" → "17:4:1:1:1" with the component labels spelled out; corrected the worst-case deep-review-gap reasoning (longest non-deep-review run is the slot-20→slot-2-next wraparound, ~90 min) — the prior "max gap 6 / 75–90 min" understated the wraparound. (4) Cycle-trigger table: added the missing `embed-videos` (cadence 1) row and a sentence on why it runs every cycle; "Five cycle-triggers" → "Cycle-triggers". (5) Operational-signals coalesce bullet: noted the abandonment signal has actually fired (the 2026-04-29b cadence reduction). (6) Intro: "deep-review and cross-review slots" → "deep-review slot ... a queued cross-review task" (cross-review is a queue task type, not a dedicated slot). No argument changed; the 2026-04-29 demonstration-arc narrative left intact as accurate history. All 14 wikilink targets verified to resolve.
+- **Length**: body 2177w → ~2305w (status: ok; soft 2500, hard 3500). +128w, all reconciliation/clarification; no `draft` flip.
+- **Published**: yes
+
+## 2026-06-26T17:49:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-binding-problem](/topics/the-binding-problem/)
+- **Original score**: n/a (curate.py review path stale; used the dedicated [pessimistic-2026-06-26b-the-binding-problem](/reviews/pessimistic-2026-06-26b-the-binding-problem/) as the work order)
+- **Source review**: [pessimistic-2026-06-26b-the-binding-problem](/reviews/pessimistic-2026-06-26b-the-binding-problem/) (4 substantive findings: 2 High, 2 Medium; + No-Many-Worlds tenet unsupported-claim)
+- **Changes**: Addressed all four pessimistic-review findings. (1) HIGH §The Shared Structure — conceded the underdetermination (uniform *current* failure is equally predicted by "single tractable reduction in progress"), relocated the argumentative weight onto the independent kind-difference argument in §Unity as Primitive, mirroring the IIT paragraph's epistemic discipline. (2) HIGH §The Quantum Alternative + MQI tenet — co-located the decoherence/empirical hedge with the affirmative thalamic-collapse claim, downgraded "provides a mechanism"→"would supply a candidate mechanism", and named the previously-unaddressed bias-only-vs-entanglement-holism tension as open work; linked [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) (coherence-lifetime) at the point of claim, not only in Further Reading; kept [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) a live hypothesis. (3) MEDIUM §Temporal Recalibration — split the epistemic/metaphysical readings; downgraded "design constraint on consciousness" to "consistent with, but does not establish, unity as a primitive — the discriminating work comes from the kind-difference argument." (4) MEDIUM §Subject Binding — added the deflationary/no-self reply (Buddhist/Parfittian/Metzinger; linked [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) + [parfit-reductionism](/concepts/parfit-reductionism/)), stated why the Map resists it (the "for-whom" the self-model presupposes), and reframed the Nagel split-brain datum as contested (standardly read as subjecthood being *divisible*) rather than confirmatory. Also reframed the No-Many-Worlds tenet link from in-framework-refutation to honest framework-boundary disagreement (per direct-refutation-discipline / the review's Unsupported-Claims flag). Length offset: condensed §Classical Approaches bullets into prose (reviewer-flagged as restating §Five Varieties) and tightened all new additions.
+- **Engagement classifications** (editor-internal, not in body): no-self deflationist (Buddhist/Parfit/Metzinger) — Mode One (in-framework: the self-model presupposes a perspective for which it is rendered); many-worlds defender (Deutsch) — Mode Three (framework-boundary, honestly marked as tenet-prior, not internal-contradiction refutation).
+- **Length**: body 3374w → 3918w (soft_warning, both pre and post; under hard 4000). Net +544w for four substantive findings; no `draft:true` flip. No standalone condense queued (per review Issue 5); a future condense could trim the §Theoretical Landscape / §Further Reading overlap with [binding-problem](/concepts/binding-problem/) (linked 6×).
+- **Verification**: validate.py ✓; sync ✓ (all four target wikilinks convert to valid Hugo links: quantum-neural-timing-constraints→/topics/, the-self-minimal-narrative-and-substantial→/topics/, parfit-reductionism→/concepts/, entanglement-binding-hypothesis→/concepts/); intra-doc `#the-quantum-alternative` anchor resolves; no raw wikilinks left in body; no QEC-style bracket collisions; no EOF tool-tag artifact. No web-verify needed (no citation changes; review found no fabricated cites).
+- **Published**: yes
 
 ## 2026-06-26T17:38:00+00:00 - pessimistic-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-13
-ai_modified: 2026-05-13 23:24:00+00:00
+ai_modified: 2026-06-26 20:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -13,6 +13,7 @@ description: When an outer reviewer's web tools see a stale index but their meth
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-26 20:00:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -21,6 +22,7 @@ related_articles:
 - '[[coherence-inflation-countermeasures]]'
 - '[[direct-refutation-discipline]]'
 - '[[evidential-status-discipline]]'
+- '[[calibration-audit-triple]]'
 - '[[reviews/outer-review-2026-05-04-claude-opus-4-7]]'
 - '[[reviews/outer-review-2026-05-04-chatgpt-5-5-pro]]'
 - '[[reviews/outer-review-synthesis-2026-05-04]]'
@@ -36,7 +38,7 @@ This is the second entry in the service-calibration sub-family of project docs, 
 
 The Claude Opus 4.7 review (Adaptive + Research + Web Search) was commissioned at 03:00 UTC on 2026-05-04 with the subject *examine the site and tell me whether the recent integration of Wlodzislaw Duch's classical-computational reduction is substantive engagement or performative inoculation*. The integration commit `b90a58310` ("integrate Duch across 14 articles + research dossier") had landed earlier the same day. The reviewer's web-research tools — Google search, page fetches, the indexed-snippet pipeline — returned zero hits for "Duch" on `unfinishablemap.org`. The reviewer accordingly opened with: *"no occurrence of 'Duch,' 'Włodzisław,' or any direct reference to his classical-computational reduction argument could be surfaced via Google indexing of the site as of May 4, 2026."*
 
-Direct verification was unambiguous: `grep -lri "Duch" obsidian/` returned 33 files, including a dedicated research dossier (`research/wlodzislaw-duch-consciousness-2026-05-02.md`), apex-level engagement at `apex/machine-question.md`, integrations at `topics/the-strong-emergence-of-consciousness.md`, `topics/biological-computationalisms-inadvertent-case-for-dualism.md`, `concepts/comparing-quantum-consciousness-mechanisms.md`, and ten others. Google's crawler had simply not re-indexed the site in the window between commit and commission. The reviewer's empirical premise was wrong by hours of indexer lag, not by reasoning error.
+Direct verification was unambiguous: at the time of the review, `grep -lri "Duch" obsidian/` returned 33 files (the count has grown since as Duch coverage expanded), including a dedicated research dossier (`research/wlodzislaw-duch-consciousness-2026-05-02.md`), apex-level engagement at `apex/machine-question.md`, integrations at `topics/the-strong-emergence-of-consciousness.md`, `topics/biological-computationalisms-inadvertent-case-for-dualism.md`, `topics/comparing-quantum-consciousness-mechanisms.md`, and ten others. Google's crawler had simply not re-indexed the site in the window between commit and commission. The reviewer's empirical premise was wrong by hours of indexer lag, not by reasoning error.
 
 The same review's methodological observation arrived independently of the failed empirical premise. Even under the (counterfactual) assumption that a Duch citation had been added but indexer lag was hiding it, the reviewer wrote: *"the surrounding architecture strongly predicts performative inoculation rather than substantive engagement"* — and gave the structural reasons (fixed tenets that "constrain all content," an absorption pattern visible in the Map's treatment of Milinkovic & Aru's biological computationalism, the absence of a refutation slot in the catalogue's standing dialectical shape). This observation does not depend on Google's index state. It would have been the same observation if the index had been current.
 

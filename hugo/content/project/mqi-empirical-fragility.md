@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-13
-ai_modified: 2026-05-28 22:55:09+00:00
+ai_modified: 2026-06-26 19:50:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -13,6 +13,7 @@ description: The Minimal Quantum Interaction tenet depends on a physics gap that
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-26 19:50:42+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,7 +39,7 @@ topics: []
 
 Tenet 2 — [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) — commits the Map to the position that consciousness influences physical outcomes by biasing selections that physics itself leaves undetermined. The tenet is *parasitic on a gap in physics*: the existence of genuinely undetermined outcomes at the measurement transition, the unresolved status of the measurement problem, and the absence of a physical mechanism that fixes which definite outcome emerges from decoherence. If that gap narrows — if physics supplies a mechanism that completely fixes selection without a non-physical contribution — MQI loses the operating space the tenet presupposes. This project doc names that dependence as *empirical fragility*, catalogues the specific narrowing scenarios the catalogue must track, distinguishes what the framework would actually lose from what it could honestly preserve, and joins the family of named methodological disciplines that calibrate the catalogue's claims to the evidence it has.
 
-The discipline is the sixth named methodological pattern in the Map's editorial system, after [closed-loop opportunity execution](/project/closed-loop-opportunity-execution/) at cycle level, [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) at article level, [bedrock-clash vs. absorption](/project/bedrock-clash-vs-absorption/) at within-article level, [framework-stage calibration](/project/framework-stage-calibration/) at framework level, [direct-refutation discipline](/project/direct-refutation-discipline/) at reasoning-mode level, and [evidential-status discipline](/project/evidential-status-discipline/) at calibration level. It operates at the *physics-dependence layer*: how the catalogue tracks the empirical state of the underlying physics on which Tenet 2 silently relies, and how that state should be folded into the catalogue's confidence calibration when the relevant physics advances.
+The discipline is the seventh named methodological pattern in the Map's editorial system, after [closed-loop opportunity execution](/project/closed-loop-opportunity-execution/) at cycle level, [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) at article level, [bedrock-clash vs. absorption](/project/bedrock-clash-vs-absorption/) at within-article level, [framework-stage calibration](/project/framework-stage-calibration/) at framework level, [direct-refutation discipline](/project/direct-refutation-discipline/) at reasoning-mode level, and [evidential-status discipline](/project/evidential-status-discipline/) at calibration level. It operates at the *physics-dependence layer*: how the catalogue tracks the empirical state of the underlying physics on which Tenet 2 silently relies, and how that state should be folded into the catalogue's confidence calibration when the relevant physics advances.
 
 ## The Structural Dependence
 
@@ -123,8 +124,9 @@ The MQI empirical-fragility discipline is documented through the catalogue's own
 
 1. *The Unfinishable Map* tenets page, "Minimal Quantum Interaction" section. The "Empirical risk and the amplification gap" passage is the catalogue's existing acknowledgement that "empirical risk has been concentrated into a narrower band" — the dependence the present discipline articulates as fragility. https://unfinishablemap.org/tenets/
 2. Donadi, S. *et al.* (2021). Underground test of gravity-related wave function collapse. *Nature Physics* 17, 74–78. The Gran Sasso falsification of the parameter-free Diósi-Penrose model — the canonical instance of physics narrowing the gap MQI operates inside without foreclosing the framework's modulation-channel commitment.
-3. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379. Preregistered Bayesian evidence against large-signal Born-rule violation; the foreclosure of one MQI reading without foreclosing the corridor reading is the worked example for item 5 of the narrowing-gap inventory.
-4. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61, 4194. The decoherence-time calculation whose dispute with Hameroff's group defines the active site at which item 4 of the narrowing-gap inventory could close.
-5. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. The bandwidth-constraint Tycho-analogue measurement that constrains MQI's operating regime without resolving its physics-dependence.
-6. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
-7. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
+3. Arnquist, I. J. *et al.* (Majorana Collaboration) (2022). Search for Spontaneous Radiation from Wave Function Collapse in the Majorana Demonstrator. *Physical Review Letters* 129, 080401. arXiv:2202.01343. The germanium-detector result that strengthened the parameter-free Diósi-Penrose exclusion by roughly an order of magnitude over the Gran Sasso limit — the 2022 step in the gap-narrowing sequence tracked at item 2 of the inventory.
+4. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379. Preregistered Bayesian evidence against large-signal Born-rule violation; the foreclosure of one MQI reading without foreclosing the corridor reading is the worked example for item 5 of the narrowing-gap inventory.
+5. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61, 4194. The decoherence-time calculation whose dispute with Hameroff's group defines the active site at which item 4 of the narrowing-gap inventory could close.
+6. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. The bandwidth-constraint Tycho-analogue measurement that constrains MQI's operating regime without resolving its physics-dependence.
+7. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
+8. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/

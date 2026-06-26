@@ -24,7 +24,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/9cHrSnEjSzk
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 02:40:32+00:00
+last_deep_review: 2026-06-26 20:10:29+00:00
 modified: *id001
 related_articles:
 - '[[filter-theory]]'

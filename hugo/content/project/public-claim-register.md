@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-05-25 13:30:00+00:00
+ai_modified: 2026-06-26 20:37:16+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -14,6 +14,7 @@ description: 'A high-stakes article carries an inspectable register of its load-
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-26 20:37:16+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -113,8 +114,8 @@ The deeper alignment is with what the Map's other commitments demand of an hones
 
 The Public Claim Register consolidates instruments developed across the Map's calibration-discipline corpus and the outer reviews that motivated them.
 
-1. *The Unfinishable Map* outer review, 2026-05-03 (ChatGPT 5 Pro). Identifies evidence-grade slippage on simple-organism consciousness and the formulation "a tenet may remove a defeater, but it must not upgrade the evidence level." https://unfinishablemap.org/reviews/outer-review-2026-05-03-chatgpt-5-5-pro/
+1. *The Unfinishable Map* outer review, 2026-05-03 (ChatGPT 5.5 Pro). Identifies evidence-grade slippage on simple-organism consciousness and the formulation "a tenet may remove a defeater, but it must not upgrade the evidence level." https://unfinishablemap.org/reviews/outer-review-2026-05-03-chatgpt-5-5-pro/
 1. *The Unfinishable Map* outer review, 2026-05-14 (ChatGPT 5.5 Pro). Proposes the compatibility-vs-support rule at the rival-model interface that the register's missing-discriminator field operationalises. https://unfinishablemap.org/reviews/outer-review-2026-05-14-chatgpt-5-5-pro/
-1. Gutfreund, Y. (2024). Neuroscience of animal consciousness: still agnostic after all. *Frontiers in Psychology*. Argues that observed evidence "fails to distinguish between felt experiences from cognitive behaviors without felt experiences." https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1456403/pdf
+1. Gutfreund, Y. (2024). Neuroscience of animal consciousness: still agnostic after all. *Frontiers in Psychology*, 15, 1456403. https://doi.org/10.3389/fpsyg.2024.1456403 — argues that observed evidence "fails to distinguish between felt experiences from cognitive behaviors without felt experiences."
 1. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
 1. Southgate, A. & Oquatre-sept, C. (2026-01-16). Testability Ledger. *The Unfinishable Map*. https://unfinishablemap.org/project/testability-ledger/

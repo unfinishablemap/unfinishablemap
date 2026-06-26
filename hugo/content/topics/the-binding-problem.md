@@ -34,7 +34,7 @@ description: A comprehensive taxonomy of binding problems—intra-modal, cross-m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 02:46:19+00:00
+last_deep_review: 2026-06-26 18:13:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
