@@ -22,7 +22,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-05-19T12:00:00+00:00
+last_deep_review: 2026-06-26T00:00:00+00:00
 ---
 
 This protocol defines safety rails for exploring "voids"—the unexplorable, cognitively occluded, or potentially unthinkable territories described in the [[voids|Voids section]]. Using LLMs to probe these areas creates specific risks: memetic hazards, coercive ideology traps, psychologically destabilizing content, and confusion between speculative exploration and endorsed claims.
