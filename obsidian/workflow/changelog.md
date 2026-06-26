@@ -5,6 +5,19 @@ ai_modified: 2026-06-26T12:32:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T12:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-testimony]]
+- **Word count**: 3994 → 3994 (+0; content no-op — body argument-completed earlier today by refine `72d97d9d7`, this pass verifies & web-verifies)
+- **Critical issues addressed**: 0 (none found; the today-refine already closed the three pessimistic-2026-06-26 argument gaps — verified sound: epistemic/metaphysical bridge marked, functional-system premise downgraded to framework commitment + LLM engaged, eliminativist reframed challenge-not-refutation; both counterargument acknowledgments present)
+- **Medium issues addressed**: 0 (length 3994/4000 flagged as watch-item — 6 words under hard ceiling, no addition headroom; this pass length-neutral)
+- **Enhancements made**: 0 (content no-op)
+- **Citation web-verify**: per-cite publisher-of-record ledger run; Jackson 1982 (PQ 32(127), 127–136) and Churchland 1981 (J.Phil 78(2), 67–90) re-verified live this pass — both real-correct. Schwitzgebel/Dennett/Chalmers/Coady/Hume/Reid/Lackey real-correct (prior live + canonical). Inline↔References cross-check clean, no orphans. No superlative claims (currency-sweep N/A).
+- **Engagement classification (editor-internal)**: Dennett heterophenomenology Mode Two (today-refine corrected prior over-reach to underdetermination claim); Churchland eliminativism Mode Two (debt named); MWI Mode Three (honestly tenet-grounded). No label leakage in body.
+- **Link/anchor check**: 27/27 wikilinks resolve; 5/5 tenet sub-anchors canonical (not truncated). EOF clean (no tool-tag artifact).
+- **Frontmatter**: last_deep_review bumped to 2026-06-26T12:50:00+00:00 (date -u-checked, not future); ai_modified LEFT at settled today-value 2026-06-26T12:18:51+00:00 per no-op-hygiene (no body edit this pass).
+- **Output**: [[reviews/deep-review-2026-06-26-consciousness-and-testimony]]
+
 ## 2026-06-26T12:32:25+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]

@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-06-26T12:50:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-authority-of-testimony/"
   - "/topics/consciousness-and-the-epistemology-of-testimony/"
