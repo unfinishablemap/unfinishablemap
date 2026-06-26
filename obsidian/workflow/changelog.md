@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T20:18:09+00:00
+ai_modified: 2026-06-26T21:26:53+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T21:26:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/steelmanning-as-method]]
+- **Task**: Single mechanical label-drift fix at the [[mechanism-cost-ledger]] link (~line 104)
+- **Changes**: Changed display label "the explanatory-cost ledger" → "the mechanism-cost ledger" (target article's canonical title). Link target `[[mechanism-cost-ledger]]` unchanged and confirmed live (obsidian/project/mechanism-cost-ledger.md). No prose, calibration, or content altered; conceptual characterization was already verbatim-faithful. No raw wikilinks left.
+- **Published**: yes
 
 ## 2026-06-26T21:07:21+00:00 - refine-draft
 - **Status**: Success
