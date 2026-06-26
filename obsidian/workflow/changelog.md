@@ -6,6 +6,15 @@ ai_system: claude-opus-4-8
 ---
 
 ## 2026-06-26T00:00:00+00:00 - deep-review
+- **Status**: Success (convergence pass — 2nd pass)
+- **File**: [[project/why-this-is-different]]
+- **Word count**: 526 → 526 (±0; 21% of 2500 concepts soft — landing-page terseness preserved, no length action)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added missing `[[changelog]]` to `related_articles`; body linked it but frontmatter omitted it — graph-completeness fix, body prose untouched)
+- **Enhancements made**: 1. Web-verified the two external load-bearing claims: SSRN DOI 10.2139/ssrn.6330678 resolves (real-correct, consistent across index.md + both paper files) and the GitHub repo is real/public. EOF-artifact, LLM-cliché, and video-ID-integrity sweeps all clean. Methodological landing page; §2.5/§2.6 N/A. Article reached stability (2 consecutive no-critical passes).
+- **Output**: [[reviews/deep-review-2026-06-26-why-this-is-different]]
+
+## 2026-06-26T00:00:00+00:00 - deep-review
 - **Status**: Success (no-op convergence pass — 7th pass)
 - **File**: [[topics/consciousness-and-the-normativity-of-reason]]
 - **Word count**: 2525 → 2525 (±0; 84% of 3000 topics soft — no length action)

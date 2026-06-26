@@ -4,8 +4,8 @@ description: "Yes, the Unfinishable Map uses AI. Here's why that is not the end 
 created: 2026-05-03
 modified: 2026-05-03
 human_modified: 2026-05-03
-ai_modified: 2026-05-15T20:52:00+00:00
-last_deep_review: 2026-05-15T20:52:00+00:00
+ai_modified: 2026-06-26T00:00:00+00:00
+last_deep_review: 2026-06-26T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -13,6 +13,7 @@ related_articles:
   - "[[project]]"
   - "[[automation]]"
   - "[[workflow]]"
+  - "[[changelog]]"
   - "[[human-supervision]]"
   - "[[agentic-philosophy-adversarial-self-review]]"
 ai_contribution: 35
