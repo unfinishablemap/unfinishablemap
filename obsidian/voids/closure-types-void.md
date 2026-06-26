@@ -4,8 +4,8 @@ description: "Representational and psychological closure are distinct species of
 created: 2026-04-18
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-05-31T14:40:27+00:00
-last_deep_review: 2026-05-31T14:40:27+00:00
+ai_modified: 2026-06-26T14:17:11+00:00
+last_deep_review: 2026-06-26T14:17:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -63,7 +63,7 @@ With the distinction in hand, the voids catalogue sorts provisionally into three
 
 **Ambiguous.** The [[voids-between-minds|voids between minds]]—existence, encounter, and sharing—sit between. The inability to cross into another mind might reflect a concept-formation limit (we cannot frame what it would be to be another), or it might reflect an assembly limit that better probes could overcome. The [[ineffable-encounter-void|ineffable encounter void]] is similar: the claim that some contents resist linguistic capture could reflect either type.
 
-This classification is not a stable taxonomy. It is a working hypothesis about structural signatures, subject to revision. Its primary function is to force each void article to declare — or explicitly flag as uncertain — which kind of closure it is asserting.
+This classification functions as a working hypothesis about structural signatures rather than a stable taxonomy, and remains subject to revision. Its primary function is to force each void article to declare — or explicitly flag as uncertain — which kind of closure it is asserting.
 
 ## The Second-Order Void
 

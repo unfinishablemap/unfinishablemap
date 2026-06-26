@@ -5,6 +5,16 @@ ai_modified: 2026-06-26T12:52:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T14:17:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/closure-types-void]]
+- **Word count**: 1886 → 1886 (length-neutral; 94% of voids 2000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — removed a banned "X is not A. It is B." construct on L66 ("This classification is not a stable taxonomy. It is a working hypothesis...") that the 2026-04-18 cliché-hunt missed; rephrased to "functions as a working hypothesis... rather than a stable taxonomy" (voice + hedge preserved).
+- **Notes**: 3rd deep review (staleness-promoted, settled placeholder scrutinised not rubber-stamped). Publisher-of-record per-cite ledger: McGinn 1989 Mind 98(391):349-366, Kriegel 2003 Acta Analytica 18:177-191, Demircioglu 2017 Acta Analytica 32(1):125-132 (re-verified, 2026-05-31 page-range fix confirmed), Vlerick & Boudry 2017 Dialectica 71(1):101-115 (Michael-not-Maarten fix holds), Chomsky 1976 Language in Focus:281-357 (re-verified this pass, References-only background not orphan), meta-epistemology self-cite live (NOT archived, no rot) — all real-correct. Hygiene clean: EOF no tool-tag, no dup frontmatter keys, all 23 wikilinks resolve to LIVE Map slugs, no superlative-helper matches, tenets referenced by prose name not sub-anchor. No possibility/probability slippage (Tenet-1 dualism passage upgrades precision not evidential status; classification explicitly provisional/second-order-occluded). Bedrock disagreements (eliminative materialism, Madhyamaka, Dennett-unfalsifiability) not re-flagged per prior stability notes. Real fix → both ai_modified + last_deep_review bumped to 2026-06-26T14:17:11Z (date -u-checked, not future).
+- **Output**: [[reviews/deep-review-2026-06-26-closure-types-void]]
+
 ## 2026-06-26T13:55:24+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-neurodegenerative-disease]]
