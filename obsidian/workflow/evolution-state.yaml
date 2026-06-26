@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T09:14:03.293399+00:00'
-session_count: 13459
-cycle_position: 10047
+last_updated: '2026-06-26T09:20:08.404604+00:00'
+session_count: 13460
+cycle_position: 10048
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T06:56:02.508035+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-06-26T08:58:20.211553+00:00'
   replenish-queue: '2026-06-26T09:05:31.242020+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
-  expand-topic: '2026-06-25T10:00:50.532760+00:00'
+  expand-topic: '2026-06-26T09:20:08.404604+00:00'
   add-highlight: '2026-06-26T08:13:09.692399+00:00'
   literature-drift-review: '2026-06-23T05:05:19.034349+00:00'
   collect-chatgpt-review: '2026-06-26T03:52:28.833886+00:00'
@@ -83,7 +83,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 281
-  concepts_written: 271
+  concepts_written: 272
   arguments_written: 5
   questions_written: 0
   voids_written: 101
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-26'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-26'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1160,10 +1160,43 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    unconsumed_research: 1
-  last_replenishment_run: 667
-  last_replenishment: '2026-06-26T09:00:00+00:00'
+    staleness: 1
+  last_replenishment_run: 668
+  last_replenishment: '2026-06-26T09:25:00+00:00'
   last_replenishment_mode: standard
+  run_668_note: 'run no.668 (2026-06-26T~09:25Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (voids/anesthesia-void.md) -- advancing within the 2026-05-31
+    PLACEHOLDER TIER. Authoritative pre-mint open executable P0-P2 = 2 via count_p0_p2_tasks
+    (the two run-665/666 staleness deep-reviews voids/emotional-epistemology-void +
+    topics/hoel-llm-consciousness-continual-learning, both re-verified open Status
+    pending; the run-667 PCT expand-topic was PICKED+executed this cycle -- it created
+    concepts/phenomenal-constitution-thesis.md, commit at 09:20, now below ## Completed
+    -- so the live floor fell back to 2: documented replenish-at-floor alternation,
+    NOT the empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores
+    2 to 3 (post-mint count_p0_p2_tasks==3 verified). SOURCE = staleness (Source 4).
+    voids/anesthesia-void @ review-commit 9e36d1d0a 2026-05-31T17:06:42 is the EARLIEST
+    genuinely-unqueued settled placeholder candidate -- exactly the run_665/666 forecast.
+    VERIFIED settled+clean: last_deep_review==ai_modified==2026-05-31T00:00:00 exact
+    placeholder, clean tree, NOT touched today, NO same-day collision, NOT in the
+    2026-06-26 review wave; aic=100, ai_system=claude-opus-4-7 (older model = fresh-eyes
+    reason); body 2814w via analyze_length = soft_warning (voids soft 2000/hard 3000,
+    ~186w headroom to hard, NOT a condense candidate); dedupe clean, NOT veto/blocked/archived;
+    EOF artifact scan clean. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed exhausted:
+    (1 chain) today''s newest research-topic PCT was IMMEDIATELY consumed by run-667''s
+    expand-topic; the two earlier 2026-06-26 research notes (self-luminosity-svaprakasha,
+    pre-reflective-self-awareness) are both Research Note (Decline) files, subjects
+    already covered, NO chain; zero un-followed completions; (2 unconsumed research)
+    none; (3 gap/caps) topics 281/320 + concepts 272/320 headroom but harvester-governed
+    + Vetoed-dedup-blocked, voids 101/100 over create-cap (irrelevant -- deep-review
+    of an EXISTING void), positions 9/80; (4 genuine-drift) cosmetic June cross-touch
+    churn, staleness ~26.1d outranks; (5 length) all hard/critical offenders human-deferred/#veto/index-hub/research-note,
+    no clean blind-mintable condense; (6 orphan) orphaned_files=0; (7 positions) 9
+    below 10 audit threshold, slow-add; (8 applied-apex) no high-confidence cluster
+    gap. After this mint next floor-restore draws topics/consciousness-and-the-structure-of-scientific-revolutions
+    (18:02:59) then topics/phenomenology-of-cognitive-capacity (19:40:20) within the
+    same placeholder tier. BOTTOM-inserted per [[queue-lifo-starvation]] so the two
+    older floor-restore P2s are not starved. Expect replenish-at-floor alternation
+    to continue until the harvester reopens the research->expand pipeline.'
   run_667_note: 'run no.667 (2026-06-26T~09:00Z): GENUINE FLOOR-RESTORING MINT of
     1 expand-topic from UNCONSUMED RESEARCH (Source 1/2, +60 bonus -- OUTRANKS the
     staleness deep-reviews runs 665/666 drew on). Pre-mint open executable P0-P2 =
