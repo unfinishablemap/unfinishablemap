@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T20:00:00+00:00
+ai_modified: 2026-06-26T20:10:29+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T20:10:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Word count**: 2258 → 2258 (no change; metadata-only review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Seventh deep review; firmly converged. Re-qualified only by a cosmetic `ai_modified` bump (2026-06-15 commit 9258ae53b) that installed a single valid Further-Reading cross-link to [[russellian-monism-versus-bi-aspectual-dualism]] — no body or citation change. Cross-link target verified to exist. Confirmatory currency WebSearch: COGITATE landscape unchanged, no COGITATE-2/HOT adversarial result published, superlatives hold. §2.4 web-verify: N/A this pass — all six named citations publisher-of-record verified 2026-06-03, no citation text changed since. Reasoning-mode: no named-opponent refutations. Accepted as-is; timestamps updated only.
+- **Output**: [[reviews/deep-review-2026-06-26-experimental-consciousness-science-2025-2026]]
 
 ## 2026-06-26T20:00:00+00:00 - deep-review
 - **Status**: Success
