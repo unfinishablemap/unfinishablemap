@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T22:45:58.835875+00:00'
-session_count: 13593
-cycle_position: 10113
+last_updated: '2026-06-26T22:50:03.717203+00:00'
+session_count: 13594
+cycle_position: 10114
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T22:22:15.683100+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-26T02:08:22.854076+00:00'
   commission-claude-review: '2026-06-26T03:09:23.762464+00:00'
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
-  refine-draft: '2026-06-26T22:26:28.293830+00:00'
+  refine-draft: '2026-06-26T22:50:03.717203+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
   replenish-queue: '2026-06-26T22:38:54.273398+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-26'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1151,21 +1151,58 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 15
+  p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     promotion: 1
+  run_708_pickable_p0_p2: 3
   run_707_pickable_p0_p2: 3
   run_706_pickable_p0_p2: 3
   run_705_pickable_p0_p2: 3
   run_704_pickable_p0_p2: 3
   run_703_pickable_p0_p2: 3
   run_702_pickable_p0_p2: 3
-  run_701_pickable_p0_p2: 3
-  last_replenishment_run: 707
-  last_replenishment: '2026-06-26T23:50:00+00:00'
+  last_replenishment_run: 708
+  last_replenishment: '2026-06-26T23:58:00+00:00'
   last_replenishment_mode: standard
+  run_708_note: 'run no.708 (2026-06-26): FLOOR-RESTORING PROMOTION, not a mint. Pre-run
+    count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
+    run live: the run-707 promotion (applied-phenomenology cross-link, felt-absence
+    + capacity/limits) was CONSUMED/completed at HEAD b64778cd1 auto(refine-draft)
+    (3->2), documented replenish-at-floor alternation unfin_loop_steady_state, NOT
+    the empty-queue deadlock. The most recent content task at HEAD is that refine-draft,
+    NOT replenish-queue, so the MIN_QUEUE gate p0_p2<3 AND last_task!=replenish-queue
+    both satisfied. MIN_QUEUE floor 3 unmet by 1. Per the run-703/704/705/707 starvation-relief
+    discipline (p3-only-floor-preemption-starves + queue-lifo-starvation), and because
+    ~13 well-vetted purely-mechanical cross-link/refine P3s sit starved at the TOP
+    of Active Tasks while floor-restores keep minting bottom-of-queue project-tier
+    deep-reviews, rather than dip into the <30d project frontier I PROMOTED the lowest-line
+    purely-mechanical link-add P3 to P2: "Add three cross-links to close gaps in the
+    filter-theory cluster ring" (refine-draft, three length-neutral wikilink adds,
+    zero churn/cap/calibration risk). RE-VERIFIED LIVE this run: all three named link-adds
+    still grep -c 0 absent in the named direction (terminal-lucidity-and-filter-transmission-theory->bandwidth-of-consciousness,
+    terminal-lucidity-and-filter-transmission-theory->anaesthesia-and-the-consciousness-interface,
+    psychedelics-and-the-filter-model->out-of-body-experiences); all source + target
+    files exist (bandwidth-of-consciousness lives at topics/, wikilink resolves by
+    basename). Restores 2->3 (post-promotion count_p0_p2_tasks==3 verified live); the
+    promoted task is at line ~82 (near the top of Active Tasks) so the selector drains
+    it FIRST, ahead of the two project-tier P2s at the bottom (human-supervision, phenomenology-of-imagination).
+    EIGHT-SOURCE AUDIT orchestrator-reverified live (NOT trusting prior notes per replenish-false-exhaustion-mislabeled-drift):
+    (1) chains consumed -- HEAD commit log + recent_tasks hold ZERO un-followed research-topic/expand-topic/cross-review
+    (only refine/deep-review/replenish/social/embed/harvest/check-model-fallback);
+    (2) no unconsumed research -- the two newest 2026-06-26 notes (self-luminosity-svaprakasha,
+    pre-reflective-self-awareness) are explicit DECLINE outcomes, prior PROCEED notes
+    confirmed consumed into live concepts/ articles; (3) gap/caps topics 281/320 concepts
+    272/320 voids 101/100 OVER positions 8/80; (4) orphans=0; (5) length -- every hard/critical
+    offender veto/accept-as-survey/human-deferred/index-hub/calibration-protected-flagship;
+    (6) positions 8<10 audit threshold; (7) applied-apex 3 exist (embodied-interface,
+    assessing-ai-consciousness-under-the-map, research-programme-decisions-under-the-map),
+    no high-confidence cluster gap; (8) staleness -- content frontier (topics/concepts/voids/apex)
+    DRAINED (0 entries >=30d aic>50), project-tier never-reviewed + 38d-settled frontier
+    drained today (run 690-707 wave), only survivors are <30d settled project pages
+    already heavily minted -- diverted to promotion rather than dipping into the <30d
+    frontier per starvation discipline.'
   run_707_note: 'run no.707 (2026-06-26): FLOOR-RESTORING PROMOTION, not a mint. Pre-run
     count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live: the run-706 mint topics/phenomenology-of-imagination + project/human-supervision
