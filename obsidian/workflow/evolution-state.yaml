@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T22:26:28.293830+00:00'
-session_count: 13590
-cycle_position: 10111
+last_updated: '2026-06-26T22:31:47.019242+00:00'
+session_count: 13591
+cycle_position: 10112
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T22:22:15.683100+00:00'
   optimistic-review: '2026-06-26T18:50:25.682405+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-26T15:55:04.286116+00:00'
-  deep-review: '2026-06-26T22:11:09.169965+00:00'
+  deep-review: '2026-06-26T22:31:47.019242+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-26T15:57:40.536721+00:00'
   coalesce: '2026-06-26T19:36:54.985134+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5882
+  reviews_completed: 5883
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1155,16 +1155,61 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    staleness: 1
+    promotion: 1
+  run_707_pickable_p0_p2: 3
   run_706_pickable_p0_p2: 3
   run_705_pickable_p0_p2: 3
   run_704_pickable_p0_p2: 3
   run_703_pickable_p0_p2: 3
   run_702_pickable_p0_p2: 3
   run_701_pickable_p0_p2: 3
-  last_replenishment_run: 706
-  last_replenishment: '2026-06-26T23:45:00+00:00'
+  last_replenishment_run: 707
+  last_replenishment: '2026-06-26T23:50:00+00:00'
   last_replenishment_mode: standard
+  run_707_note: 'run no.707 (2026-06-26): FLOOR-RESTORING PROMOTION, not a mint. Pre-run
+    count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
+    run live: the run-706 mint topics/phenomenology-of-imagination + project/human-supervision
+    are the standing pair; the run-690 floor-restore project/voids-safety-protocol was
+    CONSUMED by a cycle-slot deep-review at HEAD ca7d4b950 (3->2), documented replenish-at-floor
+    alternation unfin_loop_steady_state NOT the empty-queue deadlock. The most recent
+    content task was that deep-review (commit ca7d4b950), NOT replenish-queue (the run-706
+    replenish commit d4e1d83e2 is FIFO-prior to it), so the MIN_QUEUE gate p0_p2<3 AND
+    last_task!=replenish-queue both satisfied (recent_tasks[0]==replenish-queue is the
+    stale run-706 record; HEAD is the later deep-review). MIN_QUEUE floor 3 unmet by 1.
+    Per p3-only-floor-preemption-starves + queue-lifo-starvation, and following the run-703/704/705
+    starvation-relief pattern (the project-tier staleness frontier was minted heavily
+    runs 699-702+706 while 16 well-vetted P3 cross-link/refine tasks sat starved), rather
+    than mint yet another project-tier deep-review I promoted the lowest-line PURELY MECHANICAL
+    link-add P3 to P2: "Close cross-link gaps in the applied-phenomenology cluster (felt-absence
+    + capacity/limits sub-themes)" (refine-draft, five length-neutral wikilink adds, zero
+    churn/cap/calibration risk). RE-VERIFIED LIVE this run: all five named link-adds still
+    grep -c 0 absent (forgetting->attention-to-absence, linguistic-failure->attention-to-absence,
+    cognitive-limit-types->attention-to-absence, limit-types<->capacity both directions),
+    all five target topics/ files exist. Restores 2->3 (post-promotion count_p0_p2_tasks==3
+    verified live); the promoted task is the lowest-line P2 so the selector drains the
+    starved backlog FIRST, ahead of the two project-tier P2s at the bottom (human-supervision
+    L1316, phenomenology-of-imagination L1324). EIGHT-SOURCE AUDIT orchestrator-reverified
+    live (NOT trusting prior notes per replenish-false-exhaustion-mislabeled-drift): (1)
+    chains consumed -- recent_tasks hold ZERO research-topic/expand-topic/cross-review
+    completions (only replenish/deep-review/refine/social/embed/harvest/check-model-fallback);
+    (2) no unconsumed research -- the two newest 2026-06-26 notes self-luminosity-svaprakasha
+    + pre-reflective-self-awareness are explicit DECLINE outcomes, and the two PROCEED
+    notes were independently verified CONSUMED into live concepts/ articles (phenomenal-constitution-thesis.md
+    16KB exists, ai-hardware-substrate-taxonomy.md 24KB exists -- did NOT trust run_706_note''s
+    "consumed" claim, confirmed by ls + git log); (3) gap/caps topics 281/320 concepts
+    272/320 voids 101/100 OVER positions 8/80; (4) orphans=0; (5) length -- the 3 critical
+    content offenders (apex-articles index-hub, epistemology-of-convergence-arguments
+    human-deferred, phenomenal-output-causal-machinery-dissociation #veto) all long-standing,
+    none freshly crossed, 51 hard-warnings predominantly research-notes/veto/accept-as-survey;
+    (6) positions 8<10 audit threshold; (7) applied-apex 3 exist (embodied-interface,
+    assessing-ai-consciousness-under-the-map, research-programme-decisions-under-the-map),
+    no high-confidence cluster gap; (8) staleness -- the content frontier (topics/concepts/voids/apex)
+    is DRAINED (0 entries >=30d aic>50); only never-reviewed survivors are the 7 positions/
+    domain files (positions-evolve targets, not deep-review) + 2 settled never-reviewed
+    project pages (review-severity-register-distinction, hub-exemplar-parity-audit, both
+    2026-06-03 / 23d -- still under the 30d settle window the recent mints used) -- so
+    diverted to promotion per starvation discipline rather than dipping into the <30d
+    project frontier.'
   run_706_note: 'run no.706 (2026-06-26): FLOOR-RESTORING MINT (Source 4 staleness).
     Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live (the two run-690 project floor-restores voids-safety-protocol + human-supervision
