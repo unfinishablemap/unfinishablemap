@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-26T22:07:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [delocalisation-discipline](/project/delocalisation-discipline/)
+- **Word count**: 2730 → 2730 (0; one-word fidelity correction, length-neutral)
+- **Critical issues addressed**: 1 (internal-quote fidelity drift)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable converged methodological doc; first review)
+- **Internal-quote ledger**: all 6 worked-exhibit quotes grep-verified against live sources — OBE / quantum-biology / cognitive-distinctiveness / baseline-cognition / psychedelics all faithful; IIT exhibit had drifted ("IIT made a *specific* philosophical move" — "specific" inserted into an italicised passage presented as a verbatim quote of [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)) → corrected to match source ("IIT made a philosophical move"). The apex-stale-internal-quote-channel pattern caught on the very document that models the discipline.
+- **Citations web-verified**: no inline empirical cites; 3 self-cites to sibling disciplines — dates verified against actual sibling `created` fields (evidential-status 2026-05-05, direct-refutation 2026-05-04, common-cause 2026-05-10 — all real-correct); URLs canonical; superlative sweep empty
+- **Output**: [deep-review-2026-06-26-delocalisation-discipline](/reviews/deep-review-2026-06-26-delocalisation-discipline/)
+
+## 2026-06-26T21:52:17+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/), [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/), [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Source**: optimistic-2026-06-26d (cross-cultural convergence cross-links)
+- **Changes**: MECHANICAL link-adds only (4 one-directional wikilinks; frontmatter related_articles + Further Reading). No prose argument added; no evidential-tier calibration touched (this cluster's restraint is exemplary). (1) african → [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/); (2) islamic → [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/); (3) indian → [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/); (4) islamic → [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/). All 4 dedupe-verified absent before edit; all targets resolve; sync clean (no raw wikilinks left in body; no memory-slug refs).
+- **Published**: yes (all three already draft: false)
+
 ## 2026-06-26T22:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)

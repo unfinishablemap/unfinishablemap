@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-03 15:12:32+00:00
+ai_modified: 2026-06-26 22:07:08+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
 created: 2026-06-03
-date: &id001 2026-06-03
+date: &id001 2026-06-26
 description: When an inference would over-reach the available evidence, relocate the
   load-bearing claim to the strongest evidentially-supported adjacent claim. The affirmative
   complement to the constrain-vs-establish refusal — and a discipline whose own failure
@@ -14,6 +14,7 @@ description: When an inference would over-reach the available evidence, relocate
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-26 22:07:08+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -112,7 +113,7 @@ The catalogue already deploys the move, unnamed, across argumentatively-careful 
 
 - **[quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)** — the tenet-coherence exhibit. Rather than read quantum-biology findings as *supporting* the Dualism tenet, the article relocates: *the tenet does not depend on quantum biology — the positive arguments for dualism stand independently — but a major objection has been removed*. The load-bearing weight moves from "evidence supports the tenet" to the adjacent supported claim "evidence removes a standing objection," with the tenet's positive support relocated to the independent arguments. The article performs the same move at the cluster level — *this convergence raises the prior... rather than establishing necessity* — relocating from establishment to prior-raising.
 
-- **[consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)** — the theory-critique exhibit. The article keeps IIT's defensible insight (*consciousness and integration are intimately connected*) and relocates away from IIT's over-move: *IIT made a specific philosophical move that does not follow from this observation* — the identity thesis. The surviving claim, *integration is something consciousness does, not what it is*, is the adjacent claim the shared insight actually supports. The critique relocates onto the over-move rather than over-reaching into a wholesale rejection of the integration insight.
+- **[consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)** — the theory-critique exhibit. The article keeps IIT's defensible insight (*consciousness and integration are intimately connected*) and relocates away from IIT's over-move: *IIT made a philosophical move that does not follow from this observation* — the identity thesis. The surviving claim, *integration is something consciousness does, not what it is*, is the adjacent claim the shared insight actually supports. The critique relocates onto the over-move rather than over-reaching into a wholesale rejection of the integration insight.
 
 - **[consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)** — the selective-pattern exhibit. Rather than claim consciousness is uniformly required for cognition, the article relocates to the *selective* pattern: *humans dramatically exceed apes on tasks involving explicit representation and deliberate manipulation while the advantage is modest for perceptual speed... This selective pattern matches what conscious access would predict*. The relocated claim is stronger against the rival than the uniform claim was — a generic resource account predicts a uniform shift, so the selective pattern is the harder fact to explain away.
 

@@ -5,6 +5,17 @@ ai_modified: 2026-06-26T21:26:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T22:07:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/delocalisation-discipline]]
+- **Word count**: 2730 → 2730 (0; one-word fidelity correction, length-neutral)
+- **Critical issues addressed**: 1 (internal-quote fidelity drift)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable converged methodological doc; first review)
+- **Internal-quote ledger**: all 6 worked-exhibit quotes grep-verified against live sources — OBE / quantum-biology / cognitive-distinctiveness / baseline-cognition / psychedelics all faithful; IIT exhibit had drifted ("IIT made a *specific* philosophical move" — "specific" inserted into an italicised passage presented as a verbatim quote of [[consciousness-and-integrated-information]]) → corrected to match source ("IIT made a philosophical move"). The [[apex-stale-internal-quote-channel]] pattern caught on the very document that models the discipline.
+- **Citations web-verified**: no inline empirical cites; 3 self-cites to sibling disciplines — dates verified against actual sibling `created` fields (evidential-status 2026-05-05, direct-refutation 2026-05-04, common-cause 2026-05-10 — all real-correct); URLs canonical; superlative sweep empty
+- **Output**: [[reviews/deep-review-2026-06-26-delocalisation-discipline]]
+
 ## 2026-06-26T21:52:17+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/african-philosophy-of-consciousness]], [[concepts/islamic-sufi-philosophy-of-consciousness]], [[topics/indian-philosophy-of-mind]]
