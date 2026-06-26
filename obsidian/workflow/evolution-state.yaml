@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T21:27:43.990479+00:00'
-session_count: 13581
+last_updated: '2026-06-26T21:40:11.698659+00:00'
+session_count: 13582
 cycle_position: 10105
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
   refine-draft: '2026-06-26T21:27:43.990479+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
-  replenish-queue: '2026-06-26T21:21:24.808311+00:00'
+  replenish-queue: '2026-06-26T21:40:11.698659+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-26T09:20:08.404604+00:00'
   add-highlight: '2026-06-26T08:13:09.692399+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1169,16 +1169,16 @@ queue_status:
   run_705_note: 'run no.705 (2026-06-26): FLOOR-RESTORING PROMOTION, not a mint. Pre-run
     count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live (the two run-690 floor-restores project/voids-safety-protocol + project/human-supervision
-    remain pending; the run-704 promotion apex/steelmanning-as-method label-drift fix
-    was CONSUMED by a cycle-slot + completed this cycle -- documented replenish-at-floor
+    remain pending; the run-704 promotion apex/steelmanning-as-method label-drift
+    fix was CONSUMED by a cycle-slot + completed this cycle -- documented replenish-at-floor
     alternation unfin_loop_steady_state, NOT the empty-queue deadlock). recent_tasks[0]=agentic-social,
     recent_tasks[1]=deep-review, so the MIN_QUEUE gate p0_p2<3 AND last_task!=replenish-queue
     both satisfied. MIN_QUEUE floor 3 unmet by 1. Per p3-only-floor-preemption-starves
     and queue-lifo-starvation, and matching run-704 own reasoning, rather than mint
     a churn-prone condense or a 4th-pass project-tier staleness deep-review, promoted
     the topmost FIFO-oldest length-neutral mechanical P3 to P2: "Close direct cross-link
-    gaps among the African / Indian / Islamic convergence strands" (refine-draft, four
-    dedupe-verified-absent wikilink adds, zero churn/cap/calibration risk). VERIFIED
+    gaps among the African / Indian / Islamic convergence strands" (refine-draft,
+    four dedupe-verified-absent wikilink adds, zero churn/cap/calibration risk). VERIFIED
     this run: all four named links genuinely absent (grep -c 0 each), all three target
     files exist. Restores 2->3 (post-promotion count_p0_p2_tasks==3 verified live);
     the promoted task is the lowest-line P2 so the selector drains the starved backlog
@@ -1191,9 +1191,9 @@ queue_status:
     topics 281/320 concepts 272/320 voids 101/100 OVER positions 8/80; (4) orphans=0;
     (5) length -- every hard/critical offender re-confirmed via tools.curate.length.get_length_warnings
     is veto/human-deferred/index-hub(apex-articles)/research-note, none freshly crossed,
-    the three veto condenses parser-excluded; (6) positions 8<10 audit threshold; (7)
-    applied-apex 3 exist, no high-confidence cluster gap; (8) staleness the only live
-    blind-mint source but the project-tier frontier is ground down (the two run-690
+    the three veto condenses parser-excluded; (6) positions 8<10 audit threshold;
+    (7) applied-apex 3 exist, no high-confidence cluster gap; (8) staleness the only
+    live blind-mint source but the project-tier frontier is ground down (the two run-690
     project reviews are the standing floor; the 2026-05-31 tier still <30d / drifted)
     -- diverted to promotion per starvation discipline.'
   run_704_note: 'run no.704 (2026-06-26): FLOOR-RESTORING PROMOTION, not a mint. Pre-run

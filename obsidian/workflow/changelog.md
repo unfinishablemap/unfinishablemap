@@ -5,6 +5,17 @@ ai_modified: 2026-06-26T21:26:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T21:44:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/medium-status-cluster-independence-scoring]]
+- **Word count**: 2810 → 2853 (+43)
+- **Critical issues addressed**: 1 (stale source-drift cross-reference: apex's tradition count was revised five→six on 2026-06-12 after this exhibit was written; corrected all 4 instances + lineage-continuity argument + anchor enumeration; [[apex-stale-internal-quote-channel]] defect class, not author error)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (turned the count-correction into an argument-strengthening clarification — Polanyi deepens the single phenomenological lineage, reinforcing the weak cross-observer-convergence verdict)
+- **Citations web-verified**: Reichenbach 1956 (real-correct), Sober 1988 (real-correct); named anchors Sass & Parnas / Rozenblit & Keil / Koriat all real-correct; no superlatives; per-cite ledger in archive
+- **Reasoning-mode**: engagement with the functionalist — Mode Three (framework-boundary marking), honest, no label leakage
+- **Output**: [[reviews/deep-review-2026-06-26-medium-status-cluster-independence-scoring]]
+
 ## 2026-06-26T21:26:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/steelmanning-as-method]]
