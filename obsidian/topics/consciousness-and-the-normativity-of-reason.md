@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-07
 last_curated:
-last_deep_review: 2026-06-05T12:29:42+00:00
+last_deep_review: 2026-06-26T00:00:00+00:00
 ---
 
 Reasoning is normative. When you infer a conclusion from premises, you are not merely undergoing a causal process — you are following rules that prescribe what you *ought* to believe. The conclusion of a valid argument with true premises is not just what you *will* believe but what you *should* believe. Physical processes, by contrast, seem to simply happen: neurons fire or do not fire, and on the face of it they are never correct or incorrect, only regular or irregular. The Unfinishable Map argues that this gap between the causal order and the normative order — between what *is* and what *ought to be believed* — requires conscious minds. The argument is a conceptual one rather than an empirical finding, and naturalists contest each step; what follows lays out the Map's case and the live responses to it. On the Map's reading, without phenomenal awareness there is nothing it is like to grasp a logical relation, and without grasping there is no following of rules, only causal regularity that may resemble reason without instantiating it.
