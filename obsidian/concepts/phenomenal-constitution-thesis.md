@@ -4,7 +4,8 @@ description: "The Map's house term for the contested claim that phenomenal chara
 created: 2026-06-26
 modified: 2026-06-26
 human_modified:
-ai_modified: 2026-06-26T09:16:16+00:00
+ai_modified: 2026-06-26T10:01:43+00:00
+last_deep_review: 2026-06-26T10:01:43+00:00
 draft: false
 topics: []
 concepts:
@@ -102,7 +103,7 @@ The honest framing throughout: PCT is a *contested constitutive thesis the Map h
 ## References
 
 1. Chudnoff, Elijah. *Cognitive Phenomenology*. New Problems of Philosophy. London: Routledge, 2015.
-2. Johnston, Mark. "Constitution is not Identity." *Mind* 101 (1992): 89–105.
+2. Johnston, Mark. "Constitution is not Identity." *Mind* 101, no. 401 (1992): 89–106.
 3. Wasserman, Ryan. "Material Constitution." *Stanford Encyclopedia of Philosophy* (substantive revision 14 January 2026). https://plato.stanford.edu/entries/material-constitution/
 4. Gertler, Brie. "Self-Knowledge." *Stanford Encyclopedia of Philosophy* (substantive revision 9 November 2021). https://plato.stanford.edu/entries/self-knowledge/
 5. "Cognitive Phenomenology." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/cognitive-phenomenology/

@@ -58,7 +58,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-ai_modified: 2026-06-13T00:31:52+00:00
+ai_modified: 2026-06-26T10:01:43+00:00
 last_deep_review: 2026-06-02T09:30:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
@@ -112,7 +112,7 @@ Skeptics argue cognitive states lack the "raw feels" of sensory [[qualia]]. Thre
 
 ## The Phenomenal Constitution Thesis
 
-The strongest interpretation holds that meaning is *constituted* by phenomenal character, not merely accompanied by it. Chudnoff (2015) distinguishes accompanying from constituting; weaker liberalism affirms proprietary cognitive phenomenology while leaving meaning to non-phenomenal machinery. The Map adopts PCT specifically because the alternative leaves the content-determinacy problem unsolved by any purely non-phenomenal description (Quinean indeterminacy embarrasses liberalism as much as conservatism), and because PCT offers a unified account of the explananda below where competing positions split them. This is an abductive bet; readers persuaded by Chudnoff should treat downstream applications (Chinese Room, LLM-skepticism) as conditional on PCT.
+The strongest interpretation holds that meaning is *constituted* by phenomenal character, not merely accompanied by it—the [[phenomenal-constitution-thesis|Phenomenal Constitution Thesis (PCT)]], the Map's house term for this constitutive horn. Chudnoff (2015) distinguishes accompanying from constituting; weaker liberalism affirms proprietary cognitive phenomenology while leaving meaning to non-phenomenal machinery. The Map adopts PCT specifically because the alternative leaves the content-determinacy problem unsolved by any purely non-phenomenal description (Quinean indeterminacy embarrasses liberalism as much as conservatism), and because PCT offers a unified account of the explananda below where competing positions split them. This is an abductive bet; readers persuaded by Chudnoff should treat downstream applications (Chinese Room, LLM-skepticism) as conditional on PCT.
 
 PCT explains:
 

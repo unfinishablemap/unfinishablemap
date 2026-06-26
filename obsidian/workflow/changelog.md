@@ -5,6 +5,18 @@ ai_modified: 2026-06-26T07:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T10:01:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-constitution-thesis]]
+- **Word count**: 1979 → 1979 (no body changes; citation + cross-link hygiene)
+- **Critical issues addressed**: 1 (Johnston 1992 page-range 89–105 → 101/401: 89–106, real-wrong-metadata)
+- **Medium issues addressed**: 1 (de-orphaned: added inbound [[phenomenal-constitution-thesis]] link from cognitive-phenomenology.md)
+- **Enhancements made**: 0
+- **Citations web-verified (publisher of record, first full pass)**: 9 — 8 real-correct (Chudnoff 2015 Routledge; Wasserman/SEP Material Constitution + Wiggins phrasing; Gertler/SEP Self-Knowledge; IEP Cognitive Phenomenology quote verbatim; Bennett 2004 PPR 68(3) 501-529; Horgan&Tienson 2002; Horgan&Kriegel 2007 Philosophical Issues 17; internal cognitive-phenomenology date 2026-01-16), 1 real-wrong-metadata (Johnston, fixed).
+- **Role-accuracy verified (strength)**: article's self-flagged claim that Chudnoff is a *critic* of content-PCT (not proponent) CONFIRMED faithful; strong horn correctly attributed to Horgan/Tienson/Pitt/Strawson/Siewert/Kriegel.
+- **§2.6 engagement modes (editor-internal)**: deflationists (Tye/Dretske/Prinz) — Mode Three/Mixed, honest boundary-marking; grounding-physicalists — clarificatory disambiguation. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-26-phenomenal-constitution-thesis]]
+
 ## 2026-06-26T09:44:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/hoel-llm-consciousness-continual-learning]]
