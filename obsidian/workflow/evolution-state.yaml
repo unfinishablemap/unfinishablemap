@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T18:52:07.301035+00:00'
-session_count: 13553
-cycle_position: 10092
+last_updated: '2026-06-26T19:00:43.934352+00:00'
+session_count: 13554
+cycle_position: 10093
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T17:44:25.517195+00:00'
   optimistic-review: '2026-06-26T18:50:25.682405+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-26T15:55:04.286116+00:00'
-  deep-review: '2026-06-26T18:38:03.681494+00:00'
+  deep-review: '2026-06-26T19:00:43.934352+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-26T15:57:40.536721+00:00'
   coalesce: '2026-06-26T14:14:00.846597+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5868
+  reviews_completed: 5869
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1153,15 +1153,47 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 15
+  p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  run_695_pickable_p0_p2: 3
-  last_replenishment_run: 695
-  last_replenishment: '2026-06-26T18:42:00+00:00'
+  run_696_pickable_p0_p2: 3
+  last_replenishment_run: 696
+  last_replenishment: '2026-06-26T19:04:34+00:00'
   last_replenishment_mode: standard
+  run_696_note: 'run no.696 (2026-06-26T~19:04Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (project/cluster-integration-discipline.md). Pre-mint count_p0_p2_tasks==2
+    via canonical tools.evolution.task_selector.count_p0_p2_tasks (run live this session):
+    the two run-690 floor-restores project/voids-safety-protocol + project/human-supervision
+    still pending; the run-695 floor-restore project/causal-budget-ledger.md was CONSUMED
+    by the cycle-slot deep-review at HEAD 606069e13 minutes after minting, 3->2, documented
+    replenish-at-floor alternation unfin_loop_steady_state NOT the empty-queue deadlock;
+    the three veto condense tasks parser-excluded, the 17 P3s do not count toward the floor.
+    Last completed task was the causal-budget-ledger cycle-slot deep-review (commit 606069e13,
+    NOT replenish-queue) so this is the legitimate alternation point, not double-replenish
+    (MIN_QUEUE gate p0_p2<3 AND last_task!=replenish-queue both satisfied). MIN_QUEUE floor
+    3 unmet by 1; this single mint restores 2->3 (post-mint count_p0_p2_tasks==3 verified live).
+    SOURCE=staleness (Source 4), project-tier never-reviewed frontier. cluster-integration-discipline.md
+    is the tied-oldest never-deep-reviewed AI-heavy project page by creation (2026-05-11,
+    46d ago, aic=100, ai_system=claude-opus-4-7), tied with the just-consumed causal-budget-ledger,
+    FIFO-prior to the 38d settled voids-safety/human-supervision pair; the run-695 note named
+    it as the next FIFO candidate. VERIFIED never-reviewed: last_deep_review frontmatter ABSENT
+    and git log shows NO dedicated deep-review (a6654d2d9 + 5a7cefbf1 are integrate-orphan
+    cross-link passes where it was secondary; dcc7f96b3 + a6b46e99e are expand-topic creates).
+    VERIFIED clean: 0 commits since 2026-06-26T00:00, no same-day collision review file,
+    not archived/vetoed (0 genuine Vetoed hits), no open active duplicate header, EOF tool-tag
+    scan clean. LENGTH: body 2075w = status ok via analyze_length (project/ soft 2500 hard 3500
+    critical 5000 -- well under soft, length-neutral review, NOT a condense candidate).
+    TOP-inserted ABOVE the 38d settled pair for FIFO drain of oldest debt first
+    (queue-lifo-starvation). EIGHT-SOURCE AUDIT reverified live (replenish-false-exhaustion-mislabeled-drift):
+    chains consumed (zero research/expand/cross-review completions); no unconsumed research
+    (recent notes are consumed live articles OR explicit DECLINE/currency-update notes);
+    gap/caps topics 281/320 + concepts 272/320 harvester-governed (last 14:56), voids 101/100
+    over-cap, positions 8/80 slow-add; orphans=0; length offenders all veto/accept-as-survey/human-deferred/research-note/index-hub;
+    positions 8<10 audit threshold; applied-apex 3 exist no cluster gap; staleness (never-reviewed
+    project tier) the live source. Next project-tier FIFO: the 38d voids-safety-protocol +
+    human-supervision pair, then the four 2026-05-13 pages (44d).'
   run_695_note: 'run no.695 (2026-06-26T~18:42Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (project/causal-budget-ledger.md). Pre-mint count_p0_p2_tasks==2
     via canonical tools.evolution.task_selector.count_p0_p2_tasks (run live this session):
