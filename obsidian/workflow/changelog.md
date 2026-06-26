@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T00:57:30+00:00 - deep-review
+- **Status**: Success (3rd review; converged; one banned-cliché prose fix; both timestamps bumped)
+- **File**: [[voids/interested-party-void]]
+- **Word count**: 1728 → 1728 (voids soft 2000; under soft, not a condense candidate)
+- **Critical issues addressed**: 0; **Medium**: 1 (banned "This is not X. It is Y." cliché at L57 rephrased to a direct positive claim); **Low**: 0
+- **Summary**: Body was byte-for-byte unchanged since the 2026-05-29 deep review (commit bab83477c; ai_modified == last_deep_review). §2.4 publisher-of-record pass legitimately skips (References block unchanged since the 2026-05-29 full per-cite verify ledger — all 7 external cites real-correct; the 2 historical Nagel/Nietzsche criticals fixed 2026-04-16, holding). Superlative sweep: none. No sibling-Map verbatim quotes → stale-quote channel N/A. EOF clean. All wikilinks resolve (live + archive-preserved complicity-void; research/ voids-interested-party-void-2026-04-15; 3 tenets anchors exist). Calibration sound — Popperian strong-vs-weak safeguard intact, no possibility/probability slippage. Named-opponent modes unchanged (Churchland M3, Dennett M1/Mixed, Popperian M1, Nagarjuna M3); no label leakage. NO-OP hygiene: one real fix → both ai_modified + last_deep_review bumped to 2026-06-26T00:57:30+00:00 (date -u-verified, not future; clock 2026-06-26).
+- **Output**: [[reviews/deep-review-2026-06-26-interested-party-void]]
+
 ## 2026-06-26T00:52:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The applied-phenomenology cluster — 21 `topics/phenomenology-of-*` articles plus anchors (`concepts/phenomenology.md`, `concepts/temporal-structure-of-understanding.md`, two apex pieces). Genuinely strong, well-calibrated cluster with a real internal super-hub (`phenomenology-of-intellectual-life`, 13 sibling links) and a model intellectual-virtue sub-cluster. Findings are structural: confirmed cross-link gaps (all `grep -c` = 0) across a felt-absence sub-theme (→ attention-to-absence), a reciprocal math↔music "understanding" pair, a reciprocal capacity↔limit-types pair, and a hub-routing gap (`concepts/phenomenology.md` routes to only 1 of 21 applied articles). No new-article or length findings; intentional open questions left as features.

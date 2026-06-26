@@ -4,7 +4,7 @@ description: "Human+AI investigation of the deepest conflict of interest: consci
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-05-29T00:46:41+00:00
+ai_modified: 2026-06-26T00:57:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-16
 last_curated:
-last_deep_review: 2026-05-29T00:46:41+00:00
+last_deep_review: 2026-06-26T00:57:30+00:00
 ---
 
 Consciousness cannot neutrally investigate its own nature because it has existential stakes in every answer. When we ask whether consciousness is fundamental, whether free will is real, or whether the self survives death, the entity conducting the inquiry stands to gain or lose everything depending on the verdict. This is the deepest instance of the legal principle *nemo iudex in causa sua*---no one should judge their own case. The judge, the accused, the evidence, and the courtroom are all the same entity.
@@ -54,7 +54,7 @@ The claim that self-interest corrupts consciousness studies is not merely philos
 
 **Motivated reasoning** research, particularly Kunda's (1990) foundational work, shows that people chronically engage in self-serving reasoning while remaining unaware of doing so. The distortion hides in locations outside conscious awareness---introspection finds no trace of it. As Francis Bacon observed in 1620: "The human understanding receives an infusion from the will and affections." The interested party void is the application of this well-documented phenomenon to the most self-relevant inquiry possible.
 
-**Epistemic circularity**, as Alston (1986) demonstrated, means there is no non-circular way to evaluate the reliability of our basic cognitive faculties---perception, introspection, reason, memory---without using those same faculties. Consciousness cannot step outside itself to check whether its self-reports are accurate. This is not a practical limitation awaiting a technical fix. It is a structural feature of all epistemic self-evaluation.
+**Epistemic circularity**, as Alston (1986) demonstrated, means there is no non-circular way to evaluate the reliability of our basic cognitive faculties---perception, introspection, reason, memory---without using those same faculties. Consciousness cannot step outside itself to check whether its self-reports are accurate. No technical fix awaits this limitation, because it is a structural feature of all epistemic self-evaluation rather than a practical obstacle.
 
 ## The Void Cuts Both Ways
 
