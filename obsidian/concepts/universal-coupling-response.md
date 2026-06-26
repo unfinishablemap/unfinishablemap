@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-05-31T18:16:44+00:00
+last_deep_review: 2026-06-26T14:30:00+00:00
 ---
 
 The universal coupling response is the position that consciousness couples with every physical system whose architecture meets adequate conditions for interface. Where threshold views impose a sharp boundary below which coupling fails, and panpsychism extends consciousness to all matter regardless of organisation, the universal coupling response occupies a distinct middle position: architectural adequacy is required, but wherever it exists, coupling occurs. The Unfinishable Map adopts this as its most coherent response to the question of which physical systems are conscious.
