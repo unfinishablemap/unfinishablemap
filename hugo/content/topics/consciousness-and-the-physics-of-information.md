@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-28 17:58:30+00:00
+ai_modified: 2026-06-25 21:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: If information is physically fundamental, consciousness may sit at 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-28 17:58:30+00:00
+last_deep_review: 2026-06-25 21:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +49,7 @@ Three developments—of varying epistemic status—transformed information from 
 
 **Quantum information theory** extended the framework further. Beginning in the 1990s with the work of Deutsch, Schumacher, and others, physicists discovered that quantum mechanics is most naturally expressed as a theory of information. Entanglement is an informational resource. Decoherence is information leaking to the environment. The black hole information paradox—whether information falling into a black hole is truly destroyed—became one of physics' central problems precisely because physicists now treat information preservation as a fundamental constraint on physical law.
 
-Together, these developments point toward a striking conclusion: physics is not about stuff with information layered on top. It is about information constrained by physical law.
+Together, these developments point toward a striking conclusion: physics may not be about stuff with information layered on top, but about information constrained by physical law.
 
 ## The Gap That Information Opens
 

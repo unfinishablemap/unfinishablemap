@@ -21,7 +21,7 @@ description: How extreme pressure transforms conscious moral agency—exploring 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-28 19:21:50+00:00
+last_deep_review: 2026-06-25 21:51:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-causal-powers]]'

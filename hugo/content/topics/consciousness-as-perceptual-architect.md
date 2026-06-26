@@ -26,7 +26,7 @@ description: 'Consciousness actively shapes perception in two ways: stabilising 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 00:00:00+00:00
+last_deep_review: 2026-06-25 21:33:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

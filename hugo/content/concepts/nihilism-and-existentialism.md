@@ -33,7 +33,7 @@ description: Nihilism diagnoses the absence of cosmic purpose; existentialism re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 00:00:00+00:00
+last_deep_review: 2026-06-25 22:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

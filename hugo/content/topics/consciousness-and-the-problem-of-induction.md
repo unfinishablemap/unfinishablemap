@@ -18,7 +18,7 @@ description: Exploring how consciousness transforms the problem of induction fro
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-28 23:31:29+00:00
+last_deep_review: 2026-06-25 22:08:25+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'

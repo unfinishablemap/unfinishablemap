@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-06-25 23:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Holding unpopular positions feels like something specific—a tensi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 00:00:00+00:00
+last_deep_review: 2026-06-25 23:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,7 +38,7 @@ topics:
 
 Defending an unpopular position feels like something distinctive. When you hold a view that most people around you reject — and hold it not from stubbornness but from genuine assessment of the evidence — the experience has a specific phenomenal character: a sustained tension between intellectual conviction and social gravity. The Unfinishable Map argues that this phenomenology of intellectual courage is irreducible to physical description and reveals consciousness doing normative work that mere computation cannot.
 
-This matters because intellectual courage is not just a disposition to behave in certain ways. It is an ongoing phenomenal achievement — the experience of maintaining epistemic fidelity against pressure that operates below the level of argument. Understanding what courage feels like from the inside illuminates both the nature of consciousness and the conditions under which genuine inquiry becomes possible.
+This matters because intellectual courage runs deeper than a disposition to behave in certain ways: it is an ongoing phenomenal achievement — the experience of maintaining epistemic fidelity against pressure that operates below the level of argument. Understanding what courage feels like from the inside illuminates both the nature of consciousness and the conditions under which genuine inquiry becomes possible.
 
 This is the social-epistemic specialisation of a broader terrain. Where [the phenomenology of intellectual life](/topics/phenomenology-of-intellectual-life/) charts the general felt texture of reasoning and knowing, and [the phenomenology of philosophical disagreement](/topics/phenomenology-of-philosophical-disagreement/) examines the friction of encountering a competent opponent, intellectual courage concerns the narrower experience of *holding* a position once that friction has set in — sustaining conviction against the social gravity of consensus.
 

@@ -25,7 +25,7 @@ description: What it is like to dwell inside a framework and what it is like whe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-28 23:17:18+00:00
+last_deep_review: 2026-06-25 22:38:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

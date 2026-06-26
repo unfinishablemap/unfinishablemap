@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-06-26 00:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: What formal mapping connects conscious states to physical selection
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 00:00:00+00:00
+last_deep_review: 2026-06-26 00:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ This is a **probability-reweighting controller**: consciousness does not determi
 
 ### Policy-Selection Law
 
-The Map's [policy-level framework](/concepts/consciousness-selecting-neural-patterns/#policy-level-selection) implies a discrete rather than continuous control law:
+The Map's [policy-level framework](/concepts/consciousness-selecting-neural-patterns/) implies a discrete rather than continuous control law:
 
 **Form**: Consciousness selects among a finite set of action policies that the brain has prepared. Selection is discrete (choose one), not continuous (modulate a parameter).
 
@@ -171,7 +171,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the law's form. Whatever the mapping, it must operate within quantum indeterminacy—biasing rather than overriding physical outcomes. The ~10 bits/second bandwidth enforces this naturally: so little information flows through the channel that large-scale conservation violations are implausible.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes the law meaningful. If all quantum outcomes actualise in parallel branches, there is nothing for a control law to govern—every output occurs regardless. Many-worlds defenders respond that self-locating uncertainty preserves a role for rational agency: the agent discovers which branch they occupy, and decision-theoretic arguments (Wallace 2012) ground rational action within MWI. But a control law requires more than rational action—it requires that phenomenal states *cause* specific physical outcomes. Under MWI, the phenomenal states of every branch-copy are equally real, and "selection" reduces to indexical discovery rather than genuine causal influence. The Map's commitment to [indexical identity](/concepts/indexical-knowledge-and-identity/) reinforces this: the fact that *I* experience *this* outcome is not an epistemic accident to be explained away by branch-counting but an [irreducible metaphysical fact](/concepts/indexical-knowledge-and-identity/#metaphysical-vs-epistemic-theses) that genuine collapse honours and many-worlds dissolves.
+**[No Many Worlds](/tenets/#no-many-worlds)** makes the law meaningful. If all quantum outcomes actualise in parallel branches, there is nothing for a control law to govern—every output occurs regardless. Many-worlds defenders respond that self-locating uncertainty preserves a role for rational agency: the agent discovers which branch they occupy, and decision-theoretic arguments (Wallace 2012) ground rational action within MWI. But a control law requires more than rational action—it requires that phenomenal states *cause* specific physical outcomes. Under MWI, the phenomenal states of every branch-copy are equally real, and "selection" reduces to indexical discovery rather than genuine causal influence. The Map's commitment to [indexical identity](/concepts/indexical-knowledge-and-identity/) reinforces this: the fact that *I* experience *this* outcome is not an epistemic accident to be explained away by branch-counting but an [irreducible metaphysical fact](/concepts/indexical-knowledge-and-identity/#from-epistemic-to-metaphysical) that genuine collapse honours and many-worlds dissolves.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** addresses the complexity objection. A psychophysical control law adds to the fundamental furniture of nature. Physicalists who identify consciousness with brain processes avoid needing such a law—but face the [explanatory gap](/concepts/explanatory-gap/) in the other direction. [Epiphenomenalists](/concepts/epiphenomenalism/) who accept consciousness as non-physical but deny it causal power face a different cost: if consciousness does no causal work, our reports about consciousness are accidentally correct, effort makes no difference, and the conversation about consciousness is causally disconnected from consciousness itself. A psychophysical control law is ontologically expensive, but the alternatives each carry their own costs that Occam's razor alone cannot adjudicate.
 

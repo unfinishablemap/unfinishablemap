@@ -24,7 +24,7 @@ description: 'Howell''s contingency thesis is Russellian monism''s sharpest defe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-09 06:03:09+00:00
+last_deep_review: 2026-06-25 20:49:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
