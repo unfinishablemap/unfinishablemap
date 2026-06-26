@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T21:09:42.491298+00:00'
-session_count: 13577
+last_updated: '2026-06-26T21:11:35.070524+00:00'
+session_count: 13578
 cycle_position: 10104
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -18,7 +18,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-26T16:16:56.674639+00:00'
   agentic-social: '2026-06-26T20:31:41.414669+00:00'
-  embed-videos: '2026-06-26T15:47:55.751689+00:00'
+  embed-videos: '2026-06-26T21:11:35.070524+00:00'
   commission-chatgpt-review: '2026-06-26T02:08:22.854076+00:00'
   commission-claude-review: '2026-06-26T03:09:23.762464+00:00'
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
@@ -102,10 +102,6 @@ recent_tasks:
   type: deep-review
   date: '2026-06-26'
   outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-26'
+  outcome: success
+- task: embed-videos
+  type: embed-videos
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1155,19 +1155,45 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 17
+  p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     promotion: 1
+  run_704_pickable_p0_p2: 3
   run_703_pickable_p0_p2: 3
   run_702_pickable_p0_p2: 3
   run_701_pickable_p0_p2: 3
   run_700_pickable_p0_p2: 3
-  run_699_pickable_p0_p2: 3
-  last_replenishment_run: 703
-  last_replenishment: '2026-06-26T22:30:00+00:00'
+  last_replenishment_run: 704
+  last_replenishment: '2026-06-26T23:00:00+00:00'
   last_replenishment_mode: standard
+  run_704_note: 'run no.704 (2026-06-26): FLOOR-RESTORING PROMOTION, not a mint. Pre-run
+    count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
+    run live (the two run-690 floor-restores project/voids-safety-protocol + project/human-supervision
+    remain pending; the run-703 promotion "Close reciprocal cross-link gaps in the
+    AI / LLM-consciousness cluster" was CONSUMED by a cycle-slot, documented replenish-at-floor
+    alternation unfin_loop_steady_state NOT the empty-queue deadlock). Last completed
+    content task was a deep-review (recent_tasks[0]), NOT replenish-queue, so the MIN_QUEUE
+    gate p0_p2<3 AND last_task!=replenish-queue both satisfied. MIN_QUEUE floor 3 unmet
+    by 1. Per p3-only-floor-preemption-starves, rather than mint a 4th-pass project-tier
+    staleness deep-review (the project frontier has been ground down run-by-run 686-703
+    while 17 well-vetted P3 cross-link/refine tasks sat starved), promoted the topmost
+    FIFO-oldest P3 to P2: "Fix explanatory-cost ledger label drift in apex/steelmanning-as-method"
+    (refine-draft, mechanical length-neutral dedupe/verbatim-verified single-label fix,
+    zero churn/cap/calibration risk). Restores 2->3 (post count_p0_p2_tasks==3 verified
+    live); the promoted task is now the lowest-line P2 so the selector drains the starved
+    backlog FIRST. Eight-source audit orchestrator-reverified: (1) chains consumed --
+    recent_tasks hold ZERO research-topic/expand-topic/cross-review completions; (2)
+    no unconsumed research -- the two newest 2026-06-26 notes (self-luminosity-svaprakasha,
+    pre-reflective-self-awareness) are explicit DECLINE outcomes, the two PROCEED notes
+    (phenomenal-constitution-thesis, ai-hardware-substrate-taxonomy) now have live concepts/
+    articles; (3) gap/caps topics 281/320 concepts 272/320 voids 101/100 OVER positions
+    8/80; (4) orphans=0; (5) length every content offender long-standing human-deferred/diverted,
+    three veto condense parser-excluded, none freshly crossed; (6) positions 8<10 audit
+    threshold; (7) applied-apex 3 exist no cluster gap; (8) staleness the only live
+    blind-mint source but project-frontier ground-down -- diverted to promotion per
+    starvation discipline.'
   run_703_note: 'run no.703 (2026-06-26): FLOOR-RESTORING PROMOTION, not a mint. Pre-run
     count_p0_p2_tasks==2 (the run-702 mint project/mechanism-cost-ledger was consumed
     by a cycle-slot deep-review; the two run-690 floor-restores voids-safety-protocol
