@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated:
-last_deep_review: 2026-05-31T08:30:00+00:00
+last_deep_review: 2026-06-26T13:22:34+00:00
 ---
 
 Delegatory dualism is Bradford Saad's 2025 solution to the causal exclusion problem—the challenge of how consciousness can cause physical effects without overdetermining outcomes that already have sufficient physical causes. The core insight: physical brain states *delegate* their causal responsibilities to conscious experiences that share their causal profiles. When you wince from pain, the pain causes the wince by taking over causal work the physical state would otherwise perform. No overdetermination occurs because the physical state's contribution is preempted, not duplicated.

@@ -5,6 +5,16 @@ ai_modified: 2026-06-26T12:52:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T13:22:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]]
+- **Word count**: 3827 → 3827 (no change; length-neutral, soft_warning under 4000 hard)
+- **Critical issues addressed**: 0 (none found — genuine no-op after full scrutiny)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 8th deep review of the oldest opus-4-5-build settled placeholder. Genuinely re-scrutinized per steering, NOT assumed no-op. Central Saad 2025 cite re-verified at Springer (Phil. Studies 182(3), 939-967, DOI 10.1007/s11098-025-02290-3; five constraints correctly Saad's; no Vaassen contamination). All 6 cites real-correct, verbatim Saad quotes re-grepped faithful against live research note, tenet anchors canonical, no frontmatter dups, no link rot, no cliché/editor-slugs, EOF clean. "to date" superlative is constitutive (observational-closure design), not a currency-drift candidate. No calibration slippage, no Mode/boundary-substitution defects. Engagements — physicalist: Mode Two (concedes cheaper non-ontology explanation, boundary-marks residue honestly); eliminativist: Mode Three (determinacy gap recorded as open question); illusionist: Mode Three (premise-denial boundary). Per no-op hygiene: last_deep_review bumped only, ai_modified left settled 2026-05-31.
+- **Output**: [[reviews/deep-review-2026-06-26-delegatory-dualism]]
+
 ## 2026-06-26T13:10:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: AI / LLM-consciousness cluster (6 articles) — quantum-randomness-channel-llm-consciousness, hoel-llm-consciousness-continual-learning, quantum-state-inheritance-in-ai, llm-consciousness, ai-epiphenomenalism, anti-correlation-probes-for-ai-consciousness. Third optimistic pass of the day on a distinct cluster (after applied-phenomenology and mental-causation clusters).
