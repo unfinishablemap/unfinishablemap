@@ -5,6 +5,12 @@ ai_modified: 2026-06-26T06:48:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/the-psychophysical-control-law.md` (body ~2875w, under ceiling)
+- **Output**: [[reviews/pessimistic-2026-06-26-the-psychophysical-control-law]]
+- **Key finding**: 1 High — "t-shirt problem" misattributed to Chalmers; it is Schaffer's framing (web-verified; also Pautz). Corpus-inconsistent: Schaffer is this file's own Ref #4 and two siblings already attribute it correctly; W25 changelog records fixing the identical error elsewhere. Chalmers p.214 quote itself is genuine — fix is to split coinage (Schaffer) from quote (Chalmers). Empirical figures verified accurate (Khan/Wiest epothilone d=1.9/69s; Zheng-Meister ~10 bits/s). No discipline-label leakage; altered-state audit n/a. Secondary: deferred-falsifiability framing, Zeno 10¹³Hz under-states the cited decoherence range (up to ~10²⁰Hz), 10-bits/s used as hard bound despite the article's own "need not be identical" hedge. Queued P2 refine-draft.
+
 ## 2026-06-26T06:48:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/empirical-phenomena-mental-causation]]
