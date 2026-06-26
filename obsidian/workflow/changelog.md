@@ -5,6 +5,21 @@ ai_modified: 2026-06-26T06:48:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T07:19:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Original score**: n/a (convergent-outer-review-driven targeted fix, not a general quality pass)
+- **Source**: convergent outer reviews 2026-06-26 (chatgpt + Claude Opus 4.8), [[outer-review-synthesis-2026-06-26]]. Priority P1.
+- **Changes**:
+  - (a) CORRECTNESS — conjunction-independence overreach. Reworded the "no shared neurotransmitter system, anatomical target, or regulatory loop" claim (both reviewers flagged as overstatement) to "different distal output systems but overlapping top-down control — prefrontal/cingulate expectation, reward, precision, frontoparietal attentional machinery recur in both; independence is comparative, not absolute." Comparative structure preserved.
+  - Kim exclusion-inertness (convergent, folded into Agent Causation §): added that the phenomena "do no work against the exclusion argument — they raise the cost of denying mental causation but leave Kim's closure premise untouched; the metaphysical defeater is carried by agent causation plus MQI, not by the data."
+  - (b) strongest-rival treatment (demarcation §): named precision-weighted predictive coding/active inference (placebo), reward-overarousal + reinvestment (choking), nonreductive physicalism (metaphysics); stated the discriminator a phenomenal-causation reading predicts that precision-weighted predictive coding does not — effect tracks *felt* engagement of content vs *estimated precision* of the prior, but precision and conscious occurrence covary so none isolates it.
+  - (c) animal/conditioning challenge (Conditioning and Meaning §): conditioned immunosuppression in rats (Ader & Cohen 1975), rodent placebo analgesia via dopamine/opioid (Lee et al. 2015), monkey choking (Smoulder 2021/2024) — objective effects without reportable human phenomenology; either broadens "consciousness" to conditioned animals or supports the deflationary access-level reading; narrows the phenomenology-specific claim to the consciously-reportable human cases.
+- **Citations**: +2 web-verified (Ader & Cohen 1975 Psychosom Med 37(4):333-340; Lee et al. 2015 Sci Rep 5:17140). CAUGHT + FIXED a wrong-author defect: drafted the rodent-placebo cite as "Zeng et al. 2015" — actual authorship is Lee, I.-S. et al. (per Nature/PubMed). Corrected body + added correct References entry. Removed the low-value Seymour & Mathers 2024 hypothesis-paper parenthetical + its reference to reclaim ceiling room.
+- **Length**: 3998 → 3996 words (≤4000 ceiling respected; analyze_length verified before and after). All four sub-parts (a, Kim, b, c) installed in compact form; none deferred. Room made by condensing redundant restatements of the cost-of-accommodation/discrimination point (stated 4× → trimmed) and lower-value connective prose. Protected this-cycle content (demarcation §, softened open-label paragraph, new citations) left intact.
+- **Engagement classification** (editor-internal, not in body): predictive-coding/illusionism/epiphenomenalism rivals — Mode Two (unsupported foundational move) + Mode Three (framework-boundary marking), per [[direct-refutation-discipline]]. No mode labels or editor-vocabulary in article body (verified by grep).
+- **Published**: yes
+
 ## 2026-06-26 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/the-psychophysical-control-law.md` (body ~2875w, under ceiling)
