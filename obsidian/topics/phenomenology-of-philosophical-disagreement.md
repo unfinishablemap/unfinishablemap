@@ -5,6 +5,7 @@ created: 2026-02-17
 modified: 2026-02-17
 human_modified:
 ai_modified: 2026-05-31T09:00:00+00:00
+last_deep_review: 2026-06-26T12:52:52+00:00
 draft: false
 topics:
   - "[[phenomenology-of-intellectual-life]]"
@@ -34,7 +35,6 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
-last_deep_review: 2026-05-31T09:00:00+00:00
 ---
 
 Philosophical disagreement feels different from other kinds of disagreement. When two people dispute a factual question — the population of a city, the date of a battle — the disagreement has a characteristic lightness. Evidence will resolve it. But when a dualist and a materialist face each other across the consciousness debate, something else happens. Each finds the other's position not merely wrong but deeply puzzling — almost unintelligible. The Unfinishable Map argues that the phenomenology of philosophical disagreement reveals something important about consciousness itself: that philosophical positions are not merely believed but *inhabited*, and that the felt impossibility of occupying an opposing framework provides evidence for the irreducibility of conscious experience.
