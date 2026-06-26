@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T01:40:00+00:00 - deep-review
+- **Status**: Success (staleness re-pick; near-no-op — 1 quote-fidelity de-quote; both timestamps bumped). Orchestrator-finalized (fork monitor-wait-bailed; 11-item ledger + wikilink/currency checks folded in).
+- **File**: [[topics/birch-edge-of-sentience-and-the-five-tier-scale]]
+- **Word count**: 3689 → 3689 (de-quote net-neutral; both ai_modified + last_deep_review bumped 2026-05-29 → 2026-06-26)
+- **Critical issues addressed**: 0; **Medium**: 0; **Low**: 1 (quote fidelity)
+- **Summary**: 2026-05-31 staleness frontier-tier pick. Fix: line-69 string "matters regardless of physicalism, dualism, or panpsychism" (attributed Carroll & Birch 2024, Mindscape Ep.292) was in quote marks but is paraphrase-flavoured/unconfirmable-verbatim — DE-QUOTED to paraphrase, attribution retained (same discipline as the Churchland de-quote on dualism.md). §2.4 web-verify: 10/11 cites real-correct (Birch 2024 OUP, Birch 2022 Noûs 56(1), Birch et al. 2021 DEFRA/LSE, NY Declaration 2024, Cambridge Declaration 2012, Fischer et al. 2025 Animal Welfare 34:e28 — prior Singh/Pinto byline fix HELD, Schwitzgebel & Sinnott-Armstrong 2025, O'Brien 2025, Carroll & Birch Mindscape, SEP). All 10 wikilinks live; currency clean (2024 NY Declaration still landmark). Sebo/Keane (line 131) = prose mentions of ref-7's review subjects, NOT true orphans — left. 3689w soft_warning under hard, EOF clean, no cliché. Real edit → both timestamps bumped; date -u-verified 01:40 not future.
+- **Output**: [[reviews/deep-review-2026-06-26-birch-edge-of-sentience-and-the-five-tier-scale]]
+
 ## 2026-06-26T01:33:00+00:00 - deep-review
 - **Status**: Success (cycle-slot DRIFT axis; near-no-op — 1 orphan-citation fix; both timestamps bumped). Orchestrator-finalized (fork completed non-citation work then monitor-wait-bailed; 11-cite ledger folded in).
 - **File**: [[topics/argument-from-reason]]

@@ -4,7 +4,7 @@ description: "Iterative comparison of Birch's two-tier precautionary framework w
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-29T06:02:38+00:00
+ai_modified: 2026-06-26T01:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -24,7 +24,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-05
 last_curated: null
-last_deep_review: 2026-05-29T06:02:38+00:00
+last_deep_review: 2026-06-26T01:40:00+00:00
 ---
 
 Jonathan Birch's *The Edge of Sentience* (2024) and the Map's five-tier evidential scale answer different questions about the same material. Birch's framework is action-oriented: given irreducible uncertainty about who is sentient, what does proportionate precaution require? The Map's scale is description-oriented: given the same uncertainty, what is the catalogue entitled to write? The two schemes converge at the language of "realistic possibility" — both inherit it from the 2024 New York Declaration on Animal Consciousness — and diverge at the work the language is asked to do. Birch's two evidential tiers (*sentience candidate* / *investigation priority*) feed into welfare policy, regulatory licensing, and democratic deliberation. The Map's five tiers (*established* → *strongly supported* → *realistic possibility* → *live hypothesis* → *speculative integration*) feed into article prose and the discipline against [[possibility-probability-slippage|possibility/probability slippage]]. The frameworks are structurally complementary rather than rival: Birch's action layer is precisely what the [[evidential-status-discipline|evidential-status discipline]] does not provide, and the Map's lower-tier description layer is precisely what Birch's two-tier categorisation declines to engage.
@@ -66,7 +66,7 @@ For AI sentience, Birch installs a distinct principle: regulatory measures shoul
 
 ### The Framework's Metaphysical and Procedural Layers
 
-Birch designs the framework to deliver policy across the standard divides in philosophy of mind: cephalopod, decapod, and insect welfare "matters regardless of physicalism, dualism, or panpsychism" (Carroll & Birch 2024). The metaphysics-of-mind portability is structural rather than biographical — the eight-indicator empirical apparatus operates without appeal to substrate-specific claims and survives intersubstitution of metaphysical priors. That is the genuinely tenet-stable layer.
+Birch designs the framework to deliver policy across the standard divides in philosophy of mind: cephalopod, decapod, and insect welfare matters regardless of physicalism, dualism, or panpsychism (Carroll & Birch 2024). The metaphysics-of-mind portability is structural rather than biographical — the eight-indicator empirical apparatus operates without appeal to substrate-specific claims and survives intersubstitution of metaphysical priors. That is the genuinely tenet-stable layer.
 
 The three foundational principles are not equivalently portable. The first principle (avoid gratuitous suffering) is a near-universal welfare premise. The second (candidature suffices for precaution) is the framework's distinctive load-bearing move and survives most metaphysical priors a precautionary discipline would tolerate. The third (proportionality determined by democratic deliberation) embeds substantive commitments about epistemic authority, expert versus lay competence, and the standing of voting bodies on non-human welfare — commitments Schwitzgebel & Sinnott-Armstrong (2025) and O'Brien (2025) argue are wrong: humans-only democratic procedures lack standing to decide non-human welfare, and citizens' panels cannot simultaneously be deliberative, representative, informed, and timely. The eight-indicator empirical apparatus is therefore tenet-stable in the strong sense; the third foundational principle is tenet-stable only conditionally and is contested in ways that affect adoption. The Map can adopt the empirical apparatus without inheriting the procedural commitment, and the distinction matters for any honest portability claim.
 
