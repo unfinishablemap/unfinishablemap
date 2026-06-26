@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T16:39:44.841058+00:00'
-session_count: 13532
+last_updated: '2026-06-26T16:40:53.061871+00:00'
+session_count: 13533
 cycle_position: 10081
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-26T06:26:17.335769+00:00'
   collect-gemini-review: '2026-06-26T06:13:53.776272+00:00'
   positions-evolve: '2026-06-22T06:20:53.964896+00:00'
-  check-model-fallback: '2026-06-26T12:36:53.348534+00:00'
+  check-model-fallback: '2026-06-26T16:40:53.061871+00:00'
   harvest-research-subjects: '2026-06-26T14:56:42.202599+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-26'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1155,15 +1155,56 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 3
   p3_tasks: 15
   needs_replenishment: false
-  loop_pickable_open: 2
+  loop_pickable_open: 3
   replenishment_source_counts:
-    staleness: 0
-  last_replenishment_run: 689
-  last_replenishment: '2026-06-26T16:24:00+00:00'
+    staleness: 2
+  last_replenishment_run: 690
+  last_replenishment: '2026-06-26T16:55:00+00:00'
   last_replenishment_mode: standard
+  run_690_note: 'run no.690 (2026-06-26T~16:55Z): GENUINE FLOOR-RESTORING MINT of 2
+    staleness deep-reviews (project/voids-safety-protocol.md + project/human-supervision.md).
+    Authoritative pre-mint count_p0_p2_tasks==1 via tools.evolution.task_selector
+    (live this session — the single open P2 floor-restore concepts/african-philosophy-of-consciousness
+    run-688; the three veto condense tasks are parser-excluded, the 15 P3s do not
+    count toward the floor). MIN_QUEUE floor 3 unmet by 2; this pair restores 1->3
+    (post-mint count_p0_p2_tasks==3 verified live). The prior p2_tasks/loop_pickable_open==2
+    were stale — run-689 itself noted correcting them but the value was not re-saved;
+    set to live 3 here. KEY FINDING: run-689 recorded an honest NO-MINT on the basis
+    of an EXHAUSTED 2026-05-31 settled-placeholder tier + a DRIFTED <30d frontier,
+    but its eight-source audit (like runs 682-688) scanned only topics/concepts/voids/apex
+    — the project/ section was NEVER audited ([[staleness-audit-section-coverage-gap]]).
+    A full-section staleness scan this run surfaced TWO genuinely-settled project-tier
+    candidates at 38d — OLDER than the entire 26d 2026-05-31 tier — that were eligible
+    all along. SOURCE = staleness (Source 4), project-tier frontier. BOTH VERIFIED
+    settled+clean: last_deep_review==ai_modified==2026-05-19T12:00:00 (no own-body
+    drift); each last-touched by its OWN stamp-setting 2026-05-19 deep-review commit
+    (voids-safety-protocol 019701b6f aic=100 opus-4-5; human-supervision 72789b2a7
+    aic=55 opus-4-7); NOT touched today (0 commits since 2026-06-26T00:00); NO same-day
+    review-file collision; NOT archived/vetoed; no open duplicate header (the only
+    todo.md matches are the ✓-completed 2026-05-19 reviews + false-positive [[wikilink]]
+    cross-refs in OTHER tasks notes); EOF tool-tag artifact scan clean; bodies 1705w
+    and 875w (project/ has no formal cap — length-neutral reviews, NOT condense candidates).
+    EIGHT-SOURCE AUDIT (orchestrator-reverified this run, NOT trusting prior notes
+    per replenish-false-exhaustion-mislabeled-drift): all OTHER blind-mintable sources
+    EXHAUSTED — (1 chain) consumed; (2 unconsumed research) NONE — recent no-same-slug
+    notes are DECLINE files + already-consumed currency notes per harvest-dedup-singular-plural-nearmiss;
+    (3 gap/caps) topics 281/320, concepts 272/320 harvester-governed, voids 101/100
+    over create-cap, positions 8/80 slow-add; (4 length) every content hard/critical
+    offender is veto/accept-as-survey/human-deferred/research-note/index-hub — born-rule
+    + epistemology-of-convergence are Vetoed-logged churn-prone (do NOT re-mint plain
+    condense per replenish-overmints-condense-vs-accept-as-survey); (5 orphan) orphaned_files=0;
+    (6 positions) 8 < 10 audit threshold, positions-evolve ran 2026-06-22; (7 applied-apex)
+    3 already exist, no high-confidence cluster gap; (8 staleness) the live source,
+    now correctly extended to project/. Both BOTTOM-inserted below the older african-philosophy
+    floor-restore P2 per the queue-lifo-starvation placement corollary so the older
+    floor-restore drains first. Next floor-restore can draw voids-safety-protocol/human-supervision
+    themselves once consumed, then the 32d+ project pages (calibration-audit-triple,
+    per-cluster-independence-scoring, architecture-vs-significance-two-tier-discount)
+    as they settle and cross the genuine-drift line; an honest NO-MINT remains acceptable
+    when no clean candidate exists.'
   run_689_note: 'run no.689 (2026-06-26T~16:24Z): HONEST NO-MINT. Authoritative live
     count_p0_p2_tasks==2 via tools.evolution.task_selector (the two open P2 staleness
     deep-reviews indian-philosophy-of-mind run-687 + african-philosophy-of-consciousness
