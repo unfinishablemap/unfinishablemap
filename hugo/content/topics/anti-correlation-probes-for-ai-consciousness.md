@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-25 07:37:13+00:00
+ai_modified: 2026-06-26 21:07:21+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[topics/introspection-architecture-independence-scoring]]'
 - '[[concepts/ai-consciousness-typology]]'
 - '[[concepts/training-contamination-confound]]'
+- '[[concepts/ai-epiphenomenalism]]'
 - '[[voids/confabulation-void]]'
 - '[[apex/introspection-architecture-void-cluster]]'
 - '[[apex/ai-as-introspection-control]]'
@@ -135,6 +136,7 @@ Several experimental controls would harden the design against it, none of them t
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — the first-person analogue, where the same move discounts the introspector's own reports in a structurally-motivated way
 - [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) — the structural-criteria framework the probe could contribute to in the animal case
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — the typology the probe's architectural results inform without settling
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — the question of whether an AI's confidence reports make any causal difference, which the probe's architectural reading leaves open
 - [confabulation-void](/voids/confabulation-void/) — the void for which anti-correlation is the detection face
 - [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/) — the apex cluster where the underlying concept is load-bearing
 - [ai-as-introspection-control](/apex/ai-as-introspection-control/) — the synthesis that catalogues this probe as one of several control affordances; this article is the worked test-design treatment of its designed-anti-correlated-signal affordance

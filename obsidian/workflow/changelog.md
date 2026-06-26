@@ -5,6 +5,13 @@ ai_modified: 2026-06-26T20:18:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T21:07:21+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/anti-correlation-probes-for-ai-consciousness]], [[topics/hoel-llm-consciousness-continual-learning]]
+- **Task**: Promoted cross-link task (AI/LLM-consciousness cluster, from optimistic-2026-06-26c) — MECHANICAL link-adds only, no prose-argument or calibration changes
+- **Changes**: Added 3 one-directional wikilinks. (1) anti-correlation → [[concepts/ai-epiphenomenalism]] in frontmatter related_articles + Further Reading; (2) hoel → [[quantum-randomness-channel-llm-consciousness]] anchored in the Minimal Quantum Interaction section + Further Reading; (3) hoel → [[ai-consciousness-typology]] in Further Reading (anoetic/noetic/autonoetic mapping). All 3 dedupe-verified absent before edit; all targets confirmed live (draft:false, no archive-redirect). Sync converted all 4 body links; no raw wikilinks left in body.
+- **Published**: yes
+
 ## 2026-06-26T20:52:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[project/mechanism-cost-ledger]]

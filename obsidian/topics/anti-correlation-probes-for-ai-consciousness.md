@@ -4,7 +4,7 @@ description: "A human+AI worked test design: probing whether an AI's confidence 
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-06-25T07:37:13+00:00
+ai_modified: 2026-06-26T21:07:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[topics/introspection-architecture-independence-scoring]]"
   - "[[concepts/ai-consciousness-typology]]"
   - "[[concepts/training-contamination-confound]]"
+  - "[[concepts/ai-epiphenomenalism]]"
   - "[[voids/confabulation-void]]"
   - "[[apex/introspection-architecture-void-cluster]]"
   - "[[apex/ai-as-introspection-control]]"
@@ -132,6 +133,7 @@ Several experimental controls would harden the design against it, none of them t
 - [[topics/phenomenal-authority-and-first-person-evidence]] — the first-person analogue, where the same move discounts the introspector's own reports in a structurally-motivated way
 - [[topics/birch-edge-of-sentience-and-the-five-tier-scale]] — the structural-criteria framework the probe could contribute to in the animal case
 - [[concepts/ai-consciousness-typology]] — the typology the probe's architectural results inform without settling
+- [[concepts/ai-epiphenomenalism]] — the question of whether an AI's confidence reports make any causal difference, which the probe's architectural reading leaves open
 - [[voids/confabulation-void]] — the void for which anti-correlation is the detection face
 - [[apex/introspection-architecture-void-cluster]] — the apex cluster where the underlying concept is load-bearing
 - [[apex/ai-as-introspection-control]] — the synthesis that catalogues this probe as one of several control affordances; this article is the worked test-design treatment of its designed-anti-correlated-signal affordance

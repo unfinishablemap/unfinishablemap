@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-26T20:52:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [mechanism-cost-ledger](/project/mechanism-cost-ledger/)
+- **Word count**: 2718 → 2718 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (1 deferred to sibling file)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-26-mechanism-cost-ledger](/reviews/deep-review-2026-06-26-mechanism-cost-ledger/)
+- **Note**: First deep review of this slug — converged, no warranted body edits (timestamps-only). Meta-methodology "discipline" article (the Tenet-5 mechanism-cost ledger), so §2.4 citation web-verify + §2.5 source-fidelity were the load-bearing channels; the adversarial personas have no purchase (eliminativist/physicalist rejection of cost-tracking is bedrock framework-boundary, not a defect). Both external cites web-verified real-correct at publisher of record: Tegmark 2000 Phys Rev E 61(4):4194–4206 (DOI 10.1103/PhysRevE.61.4194) and Hagan/Hameroff/Tuszyński 2002 Phys Rev E 65(6):061901 (DOI 10.1103/PhysRevE.65.061901) — author/year/title/venue/volume/page-or-article-number all confirmed via APS/ADS. Two internal self-cites (mechanism-costs-cartography, causal-budget-ledger) resolve to live articles. Inline↔reference cross-check clean (no orphans); no superlative claims (currency sweep empty); EOF artifact scan clean; no QEC `[[n,k,d]]` notation present. All 14 wikilink targets + all 4 tenet anchors resolve. Source-fidelity verified against live siblings: cartography "cell-by-cell/fixed-battery/non-adjudicative" characterization, the tenet-dependency-matrix property-only-sufficient-for-machine/animal vs substance-leaning-agency claims, and the Tenet-2 empirical-constraint-minimality note all faithful. CALIBRATION: the article is the *antidote* to possibility/probability slippage, not a vector — its thesis ("keep the bill; refuse the verdict") explicitly separates cost-tracking from cost-weighting and forbids discharging empirical/coherence costs via Tenet 5; the diagnostic test returns no-overstatement at every load-bearing claim. One medium finding deferred to a sibling file (P3 queued): [steelmanning-as-method](/apex/steelmanning-as-method/) line 104 links here as "the explanatory-cost ledger" vs the canonical "mechanism-cost ledger" — label drift only, the conceptual quote is verbatim-faithful. Reasoning-mode: N/A (no named-opponent refutations).
+
 ## 2026-06-26T20:37:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [public-claim-register](/project/public-claim-register/)
