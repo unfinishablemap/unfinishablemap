@@ -5,6 +5,18 @@ ai_modified: 2026-06-26T21:26:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T22:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/probability-objections-many-worlds]]
+- **Word count**: 2148 → 2148 (0; frontmatter-only)
+- **Critical issues addressed**: 0 (7th review; converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no body change warranted — the only change since the 6th review was the 2026-06-14 calibration propagation, which this review confirms is correct and improving: it down-calibrated the structural "no genuine probability" claim to "appears to lack... the Map reads it as decisive while acknowledging Everettians do not", and rewrote the Occam's paragraph to forbid Tenet-5 double-duty — now consistent with tenets.md 114/140)
+- **Citations web-verified**: no new cites since the comprehensively-verified 6th review (References block byte-identical); ledger carried forward (Wallace 2003 415-438 real-correct, Sebens & Carroll 2018, Saunders 2021, Short 2023, Vaidman 1998, Zurek 2005, + 7 carried — all real-correct); superlative sweep empty
+- **Reasoning-mode**: Wallace/Sebens-Carroll/Zurek/Kent-Lewis all Mode One (in-framework); structural "every outcome occurs" thesis Mode Three (framework-boundary, honestly declared) — no boundary-substitution, no label leakage
+- **Calibration**: diagnostic test applied — a tenet-accepting reviewer would NOT flag any claim as overstated; the 2026-06-14 edit removes slippage rather than introducing it
+- **Output**: [[reviews/deep-review-2026-06-26-probability-objections-many-worlds]]
+
 ## 2026-06-26T21:44:25+00:00 - deep-review
 - **Status**: Success
 - **File**: [[project/medium-status-cluster-independence-scoring]]

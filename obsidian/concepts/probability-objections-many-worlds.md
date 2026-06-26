@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-06-26T00:00:00+00:00
 ---
 
 The [[concepts/many-worlds|Many-Worlds Interpretation]] faces four distinct probability objections that collectively undermine its claim to empirical adequacy. The Unfinishable Map identifies these as among the strongest reasons to reject MWI: if a theory cannot account for the probabilities that confirm quantum mechanics, it cannot claim quantum mechanics as evidence in its favour. This concept page catalogues the four objections; for extended argument, see [[probability-problem-in-many-worlds|The Probability Problem in Many Worlds]].
