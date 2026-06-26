@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T00:55:32.292848+00:00'
-session_count: 13380
-cycle_position: 10020
+last_updated: '2026-06-26T01:00:02.137249+00:00'
+session_count: 13381
+cycle_position: 10021
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-25T23:43:38.079486+00:00'
   optimistic-review: '2026-06-26T00:55:32.292848+00:00'
   check-tenets: '2026-06-25T22:30:50.627753+00:00'
   check-links: '2026-06-25T17:14:05.932250+00:00'
-  deep-review: '2026-06-26T00:36:29.013566+00:00'
+  deep-review: '2026-06-26T01:00:02.137249+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-25T17:17:58.922625+00:00'
   coalesce: '2026-06-25T21:11:26.222245+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 420
-  reviews_completed: 5810
+  reviews_completed: 5811
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1161,15 +1161,65 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 27
+  p2_tasks: 28
   p3_tasks: 9
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 658
-  last_replenishment: '2026-06-26T00:40:00+00:00'
+  last_replenishment_run: 659
+  last_replenishment: '2026-06-26T01:05:00+00:00'
   last_replenishment_mode: standard
+  run_659_note: 'run no.659 (2026-06-26T01:05Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/contemplative-epistemology.md) -- the next 2026-05-29
+    frontier draw after run-657 queued concepts/dualism and run-658 queued topics/birch-edge-of-sentience-and-the-five-tier-scale,
+    exactly as the run-658 note predicted as the next floor-restore draw (06:55:53,
+    ~27.74d) and as the orchestrator steering named. Authoritative pre-mint count via
+    tools.evolution.task_selector.count_p0_p2_tasks(content) = 2 (the two open P2s
+    concepts/dualism run-657 + topics/birch-edge-of-sentience-and-the-five-tier-scale
+    run-658, both re-verified settled, git-confirmed NOT touched today 2026-06-26,
+    no own-body drift, still Status pending; the veto condense task composition-question-rivals
+    selector-excluded; the P3s do not count toward the floor). MIN_QUEUE floor 3 unmet
+    by 1; this mint restores 2 to 3 (POST-MINT count_p0_p2_tasks = 3 expected via task_selector).
+    SOURCE = staleness (Source 4), 2026-05-29 ROLLING FRONTIER. A FRESH full from-disk
+    all-content-section staleness scan keyed on last_deep_review age + settled (abs(ai_modified
+    minus last_deep_review) within 60s), aic>50, draft false, reproduced the frontier
+    exactly: concepts/dualism 27.891d + topics/birch-edge-of-sentience 27.790d (both
+    already queued run-657/658), then concepts/contemplative-epistemology 27.753d (real
+    stamp 2026-05-29T06:55:53) = this run NEXT-oldest genuinely-settled UNQUEUED pick
+    -- exactly as the run-658 frontier note + orchestrator steering predicted. FIFO
+    tie-break against the 2026-05-31 placeholder tier (all 26.042d) unambiguous: the
+    contemplative-epistemology 27.753d stamp is ~1.7d OLDER, draws first. ai_contribution=100, ai_system claude-opus-4-6
+    (older model), settled (ai_modified == last_deep_review 2026-05-29T06:55:53 exact-match),
+    last commit 209f1fd34 2026-05-29T06:57:39Z auto(deep-review) is its OWN review,
+    clean tree NOT touched since 2026-06-25T00:00, NO same-day collision, NOT completed
+    today. body 2418w via tools.curate.length.analyze_length(Path) = status ok (concepts
+    soft 2500 / hard 3500, comfortably UNDER the soft ceiling ~82w headroom -- NOT
+    a condense candidate, keep review length-neutral). Tenet 1+5 load-bearing (Dualism
+    at the layered-evidence register + Occams-Razor-Has-Limits -- contemplative practice
+    as a legitimate first-person knowledge source the third-person monopoly cannot
+    supply). Header-dedupe CLEAN: NO open contemplative-epistemology deep-review header
+    in the Active region; the only whole-todo header hit is a Vetoed-region P3 cross-link
+    AUDIT naming the slug among several clusters, the other Vetoed-region hits are note-body
+    slug mentions in OTHER tasks notes (process/content-distinction concept-page write,
+    optimistic cross-link suggestions), NOT a veto of this file; NOT completed today;
+    NOT archived as a live redirect (an archive/concepts/contemplative-epistemology.md
+    exists but it is the 2026-02-26 coalesce artifact merging the since-archived contemplative-reliability
+    sibling INTO this page -- the live slug is the canonical survivor). BOTTOM-inserted
+    (line 1303 greater-than both prior tasks at lines 1289 and 1296) per queue-lifo-starvation
+    minting-placement corollary so the two older floor-restore tasks are not starved.
+    EIGHT-SOURCE AUDIT all OTHER sources exhausted of clean mintable candidates: (1
+    chain) zero un-followed research-topic/expand-topic completions. (2 unconsumed research)
+    open P3 research-topic tasks carry their own assess-first chains. (3 gap/caps) topics
+    281/320, concepts 271/320 headroom but harvester-governed; voids 101/100 at/over
+    create-cap; positions 8/80. (4 genuine-drift) broad ai_modified greater-than last_deep_review
+    net is cosmetic June-stamp churn; staleness Source-4 (27.75d) outranks it. (5 length)
+    all hard/critical content offenders human-deferred / veto / index-hub / accept-as-survey
+    / research-note. (6 orphan) orphaned_files=0. (7 positions) 8 entries below 10 audit
+    threshold, slow-add. (8 applied-apex) no high-confidence cluster gap. After this
+    mint the next floor-restore draws from the 2026-05-31 placeholder tier (26.042d),
+    FIFO-ordered, tie broken by review-commit time. An honest NO-MINT remains acceptable
+    when no clean candidate exists.'
   run_658_note: 'run no.658 (2026-06-26T00:40Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (topics/birch-edge-of-sentience-and-the-five-tier-scale.md)
     -- the next 2026-05-29 frontier draw after run-656 queued voids/interested-party-void
