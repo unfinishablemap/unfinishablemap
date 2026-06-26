@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T04:30:00+00:00
+ai_modified: 2026-06-26T06:23:38+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T06:23:38+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-26
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8; Gemini 2.5 Pro abandoned after 19 collect attempts)
+- **Clusters**: 5 convergent, 3 singleton, 0 divergent. All 5 convergent clusters concern the one audited article (topics/empirical-phenomena-mental-causation.md): (1) access/functional→phenomenal causation slide [headline]; (2) stale 1984–2002 choking citations + missing predictive-coding rival; (3) overstated "no shared machinery" conjunction claim; (4) the slide propagating to sibling articles; (5) site-methodology gate triad (discrimination test / access-phenomenal check / recency gate).
+- **Tasks upgraded**: 4 (P2→P1: 4 — citation refresh, conjunction+rival, sibling propagation, site-methodology triad). The headline access/phenomenal-slide task was already P1 (upgrade cap) — held, fields rewritten. The Claude-distinct PP-contradiction singleton left at P2.
+- **Tasks deduplicated**: 0 (per-review processing cross-referenced rather than minting duplicate per-reviewer tasks, so each convergent cluster mapped to a single open task).
+- **Output**: [[reviews/outer-review-synthesis-2026-06-26]]
 
 ## 2026-06-26T04:24:00+00:00 - deep-review
 - **Status**: Success (staleness re-pick; converged no-op; `last_deep_review`-only bump). Orchestrator-finalized (fork monitor-wait-bailed; 6-cite ledger + 4 claim-checks folded in).
