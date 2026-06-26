@@ -335,8 +335,8 @@
   prompt_summary: Hostile referee audit of empirical-phenomena-mental-causation (placebo/choking)
   target_filename: outer-review-2026-06-26-gemini-2-5-pro.md
   status: pending
-  collect_attempts: 10
-  last_attempt_at: '2026-06-26T05:25:28.722839+00:00'
+  collect_attempts: 11
+  last_attempt_at: '2026-06-26T05:34:15.546098+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
