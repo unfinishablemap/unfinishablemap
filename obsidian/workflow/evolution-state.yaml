@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T20:46:06.723490+00:00'
-session_count: 13573
-cycle_position: 10102
+last_updated: '2026-06-26T20:55:48.374542+00:00'
+session_count: 13574
+cycle_position: 10103
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T17:44:25.517195+00:00'
   optimistic-review: '2026-06-26T18:50:25.682405+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-26T15:55:04.286116+00:00'
-  deep-review: '2026-06-26T20:39:01.399690+00:00'
+  deep-review: '2026-06-26T20:55:48.374542+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-26T15:57:40.536721+00:00'
   coalesce: '2026-06-26T19:36:54.985134+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5877
+  reviews_completed: 5878
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1159,14 +1159,27 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    staleness: 1
+    promotion: 1
+  run_703_pickable_p0_p2: 3
   run_702_pickable_p0_p2: 3
   run_701_pickable_p0_p2: 3
   run_700_pickable_p0_p2: 3
   run_699_pickable_p0_p2: 3
-  last_replenishment_run: 702
-  last_replenishment: '2026-06-26T22:00:00+00:00'
+  last_replenishment_run: 703
+  last_replenishment: '2026-06-26T22:30:00+00:00'
   last_replenishment_mode: standard
+  run_703_note: 'run no.703 (2026-06-26): FLOOR-RESTORING PROMOTION, not a mint. Pre-run
+    count_p0_p2_tasks==2 (the run-702 mint project/mechanism-cost-ledger was consumed
+    by a cycle-slot deep-review; the two run-690 floor-restores voids-safety-protocol
+    + human-supervision remain pending). MIN_QUEUE floor 3 unmet by 1. Rather than mint
+    a 4th-pass project-tier staleness deep-review (the project frontier has been ground
+    down run-by-run 686-702 while 18 well-vetted P3 cross-link/refine tasks sat starved
+    -- the p3-only floor-preemption pattern), promoted the topmost (FIFO-oldest) P3 to
+    P2: "Close reciprocal cross-link gaps in the AI / LLM-consciousness cluster" (refine-draft,
+    mechanical length-neutral dedupe-verified link-adds, zero churn/cap/calibration risk).
+    Restores 2->3 (post count_p0_p2_tasks==3 verified live); the promoted task is now the
+    lowest-line P2 so the selector drains the starved backlog FIRST. Eight-source audit
+    re-confirmed all blind-mintable sources still exhausted of clean candidates this run.'
   run_702_note: 'run no.702 (2026-06-26): GENUINE FLOOR-RESTORING MINT of 1 staleness
     deep-review (project/mechanism-cost-ledger.md). Pre-mint count_p0_p2_tasks==2
     via canonical tools.evolution.task_selector.count_p0_p2_tasks(content) run live:
