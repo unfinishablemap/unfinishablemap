@@ -5,6 +5,14 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T02:37:00+00:00 - deep-review
+- **Status**: Success (cycle-slot DRIFT axis; substantive — 3 citation/quote fixes incl wrong-author; both timestamps bumped). Orchestrator-finalized (fork monitor-wait-bailed; subagent notification delayed past a cron, recovered target+ledger from subagent output file).
+- **File**: [[voids/agency-void]]
+- **Word count**: 3174 → 3174 (3 net-neutral citation fixes; both ai_modified + last_deep_review bumped 2026-06-01/09 → 2026-06-26)
+- **Critical issues addressed**: 0; **Medium**: 3 (wrong-author, wrong-issue, quote-fidelity); **Low**: 0
+- **Summary**: Cycle-slot drift-axis self-select (drift = 2026-06-09 effort-void expansion + 7 new cites, never deep-reviewed). §2.4 web-verify (29 refs, ALL real papers, zero fabrications) found 3 defects, all fixed: (1) WRONG-AUTHOR — Velmans 2020 "Causal Efficacy of Consciousness" Entropy 22(8):823 is by **Matthew Owen** not Max Velmans (verified MDPI/PMC/author-site; Velmans wrote a different paper) → corrected inline §Perspective + References, re-alphabetized (Owen ref 18); (2) Berntsen 2010 issue 19(2)→19(3); (3) Montupil 2023 paraphrase-in-quote-marks de-quoted ("does not always produce a complete absence of consciousness" not verbatim). Newly-added effort-void cites all real-correct (Naccache/Hagger-d=0.04-exact/Kurzban/Westbrook/Seghezzi/Desantis/Wen). LENGTH 3174w hard_warning BUT prose-only 2594w under voids 3000 hard — 579w refs-inflation, flag-NOT-condense. EOF clean, no cliché. Minor uncertain figures (Beaman 89%, Wang 18%) broadly faithful, left. Real edits → both timestamps bumped; date -u-verified 02:37 not future.
+- **Output**: [[reviews/deep-review-2026-06-26-agency-void]]
+
 ## 2026-06-26T02:17:00+00:00 - deep-review
 - **Status**: Success (6th review; converged; one real style fix)
 - **File**: [[topics/phenomenal-normativity-environmental-ethics]]

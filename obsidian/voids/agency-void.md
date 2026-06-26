@@ -4,8 +4,8 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-06-09T18:00:47+00:00
-last_deep_review: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-26T02:37:00+00:00
+last_deep_review: 2026-06-26T02:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,7 +73,7 @@ The two limits interact. Wide control without self-verification would still be a
 
 ## What Cannot Be Controlled
 
-**Existence of experience.** While awake, you cannot choose to stop being conscious; the attempt is itself an experience. Sleep and anaesthesia are involuntary or chemically induced, and Montupil et al. (2023) note general anaesthesia "does not always produce a complete absence of consciousness."
+**Existence of experience.** While awake, you cannot choose to stop being conscious; the attempt is itself an experience. Sleep and anaesthesia are involuntary or chemically induced, and Montupil et al. (2023) note that general anaesthesia does not always produce a complete absence of consciousness.
 
 **Sensory content and qualia.** Open your eyes and vision arrives; a loud sound intrudes regardless of preference. You cannot choose what red looks like or what pain feels like; qualitative character is fixed by mechanisms opaque to introspection.
 
@@ -123,7 +123,7 @@ The same structure catches this article's argument: "consciousness cannot verify
 
 **Attribution.** Wegner's *I-Spy paradigm* (Wegner & Wheatley 1999; Wegner 2002) operationalises a function-phenomenology dissociation: under arranged priority, consistency, and exclusivity, the *experience* of willing diverges from the underlying causation—we feel authorship regardless of whether we caused the act, and lose it under alien hand syndrome. The Map borrows the diagnosis while declining the conclusion: under [[tenets#^bidirectional-interaction|Bidirectional Interaction]], a faulty attribution system can coexist with genuine causal influence.
 
-**Perspective.** Velmans (2020): consciousness appears causally efficacious from the first-person perspective and irrelevant from the third, with no shared formalism to adjudicate between the verdicts.
+**Perspective.** Owen (2020): consciousness appears causally efficacious from the first-person perspective and irrelevant from the third, with no shared formalism to adjudicate between the verdicts.
 
 **Intervention.** TMS to the supplementary motor area induces movement urges and overrides intended actions; propofol titration dissociates phenomenal access from motor responsiveness; anarchic-hand cases naturally separate the two. Haggard et al. (2002) show *intentional binding*—temporal compression between voluntary action and effect—dissociable from objective causation. The construct is not unitary: Wen and Imamizu's (2022) review distinguishes an *implicit* feeling of agency from an *explicit* judgment, which can dissociate or oppose. Nor is the implicit level a pure efferent-prediction readout—intentional binding is modulated by belief, postdictive inference, and outcome valence (Desantis, Hughes & Waszak 2012; Seghezzi, Parés-Pujolràs & Haggard 2025), so some agency-generating cues are accessible even when the willing is not. These inherit the inverse access problem and sharpen the verification void rather than closing it: the partly-transparent cues do not reach the causal act in question.
 
@@ -187,7 +187,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 ## References
 
 1. Beaman, C.P., & Williams, T.I. (2010). "Earworms ('Stuck Song Syndrome'): Towards a Natural History of Intrusive Thoughts." *British Journal of Psychology*, 101(4), 637–653.
-2. Berntsen, D. (2010). "The Unbidden Past: Involuntary Autobiographical Memories as a Basic Mode of Remembering." *Current Directions in Psychological Science*, 19(2), 138–142.
+2. Berntsen, D. (2010). "The Unbidden Past: Involuntary Autobiographical Memories as a Basic Mode of Remembering." *Current Directions in Psychological Science*, 19(3), 138–142.
 3. Clark, D.A., & Rhyno, S. (2005). "Unwanted Intrusive Thoughts in Nonclinical Individuals." In D.A. Clark (Ed.), *Intrusive Thoughts in Clinical Disorders*. Guilford.
 4. Damasio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam.
 5. De Brigard, F. (2014). "In Defence of the Self-Stultification Objection." *Journal of Consciousness Studies*.
@@ -203,12 +203,12 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 15. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
 16. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). "Effortless Control: Executive Attention and Conscious Feeling of Mental Effort Are Dissociable." *Neuropsychologia*, 43(9), 1318–1328.
 17. Nolen-Hoeksema, S., Wisco, B.E., & Lyubomirsky, S. (2008). "Rethinking Rumination." *Perspectives on Psychological Science*, 3(5), 400–424.
-18. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
-19. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
-20. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
-21. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
-22. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-23. Velmans, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
+18. Owen, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
+19. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
+20. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
+21. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
+22. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
+23. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 24. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
 25. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
 26. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
