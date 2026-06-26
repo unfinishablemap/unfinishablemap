@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T19:09:19+00:00
+ai_modified: 2026-06-26T19:20:29+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T19:20:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
+- **Word count**: 1648 → 1648 (no change; 55% of topics 3000 soft threshold — headroom, no condensation)
+- **Critical issues addressed**: 0 (third consecutive no-critical-issue pass; converged calibration exemplar)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op convergence confirmation — only post-2026-06-14 changes were 2 cosmetic Further Reading cross-links + a 2026-06-16 outer-review softening of "settled"→"well-supported", both safe; argumentative body unchanged. Adding content would be filler)
+- **§2.4 citation web-verify**: References block unchanged since 2026-06-05 (git-confirmed); all 5 Berridge primary cites web-verified real-correct in both prior passes (Berridge & Robinson 1998; Peciña & Berridge 2005; Tindell et al. 2009; Berridge & Kringelbach 2015; Berridge & Robinson 2016) — state carried forward, no References modification to re-trigger. No superlatives (currency helper empty). Inline↔References complete, no orphans. 2 new cross-link targets (affective-forecasting-gap, negative-valence-asymmetry-and-the-selection-weighting-function) verified to resolve.
+- **Reasoning-mode**: mechanism-only physicalist reading — Mode Three (framework-boundary marking); no boundary-substitution, no label leakage.
+- **Convergence note**: now 3 prior deep reviews; excluded outright next time while last_deep_review within 14 days. Future cosmetic cross-link bumps should not re-trigger.
+- **Output**: [[reviews/deep-review-2026-06-26-wanting-liking-and-the-value-in-mechanism-fork]]
 
 ## 2026-06-26T19:09:19+00:00 - deep-review
 - **Status**: Success

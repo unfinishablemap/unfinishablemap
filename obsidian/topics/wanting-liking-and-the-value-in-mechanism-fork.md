@@ -5,7 +5,7 @@ created: 2026-06-05
 modified: 2026-06-05
 human_modified:
 ai_modified: 2026-06-18T11:42:00+00:00
-last_deep_review: 2026-06-14T13:32:51+00:00
+last_deep_review: 2026-06-26T19:20:29+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
