@@ -5,6 +5,16 @@ ai_modified: 2026-06-26T12:52:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T13:35:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/disappearance-voids]]
+- **Word count**: 2669 → 2682 (+13; References metadata only, body length-neutral; 134% of 2000 soft, acceptable for coalesced 3-void article)
+- **Critical issues addressed**: 1 (wrong-author + truncated-title citation defect — Reference 5 "Sparby, T. (2024)" corrected to "Sparby, T. & Sacchet, M. D. (2024)", full title incl. subtitle, *Mindfulness* 15:1375-1394, publisher-verified Springer DOI 10.1007/s12671-024-02367-w; 3-state = real-wrong-metadata → fix not de-cite. Survived 3 prior reviews — 2026-05-31 flagged the entry as "weakest-anchored" but only as an orphan nit, never web-verified; corpus's other Sparby/Sacchet cites are DIFFERENT papers so no intra-corpus cross-check existed)
+- **Medium issues addressed**: 0 (Menon 2023 real-correct but lacks vol/issue — optional, not fixed)
+- **Enhancements made**: 0 body; family-resolution propagated the canonical Sparby & Sacchet form to live research note voids-absorption-void-2026-02-22.md (archive/voids/absorption-void.md left frozen)
+- **Notes**: 4th deep review of a converged article; scrutinized per steering not assumed no-op — found 1 real attribution defect. Web-verified 5 cites at publisher of record this pass: Sparby&Sacchet 2024 (fixed), Ciocan 2025 real-correct (Phenom. Cog. Sci. DOI 10.1007/s11097-025-10115-1), Killgore 2010 real-correct (Prog. Brain Res. 185:105-129), Menon 2023 real-correct, James 1890 quote verbatim & correctly attributed. No superlative claims (currency helper empty). All 29 wikilinks resolve (no archival rot), tenet sub-anchors canonical, no frontmatter dups, EOF clean, no cliché/editor-slugs. No calibration slippage; diagnostic test (tenet-accepting reviewer would not flag overstatement) re-applied clean. Bedrock disagreements (eliminative-materialist, physicalist) NOT re-flagged. Real fix → both ai_modified + last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-06-26-disappearance-voids]]
+
 ## 2026-06-26T13:22:34+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/delegatory-dualism]]

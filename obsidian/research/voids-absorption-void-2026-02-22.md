@@ -204,7 +204,7 @@ Based on this research, a voids article could:
 - Gallagher, S. & Zahavi, D. "Phenomenological Approaches to Self-Consciousness." *Stanford Encyclopedia of Philosophy*.
 - Schwitzgebel, E. "Introspection." *Stanford Encyclopedia of Philosophy*.
 - Sheldon, K. M. et al. (2014). "The Experiential Incompatibility of Mindfulness and Flow Absorption." *Social Psychological and Personality Science*.
-- Sparby, T. (2024). "Toward a Unified Account of Advanced Concentrative Absorption Meditation." *Mindfulness*.
+- Sparby, T. & Sacchet, M. D. (2024). "Toward a Unified Account of Advanced Concentrative Absorption Meditation: A Systematic Definition and Classification of Jhāna." *Mindfulness*, 15, 1375-1394.
 - Various authors (2024). "Volitional Mental Absorption in Meditation." *Heliyon*. PMC11129010.
 - Menon, V. (2023). "20 years of the default mode network: A review and synthesis." *Neuron*.
 - Sheldon, K. M. et al. (2021). "The Role of Nonduality in the Relationship Between Flow States and Well-Being." *Mindfulness*.
