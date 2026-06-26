@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-26 16:55:25+00:00
+ai_modified: 2026-06-26 21:52:17+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,6 +24,7 @@ related_articles:
 - '[[eastern-philosophy-consciousness]]'
 - '[[interaction-problem-across-traditions]]'
 - '[[indian-philosophy-of-mind]]'
+- '[[islamic-sufi-philosophy-of-consciousness]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
@@ -108,6 +109,7 @@ The Map speculates that the Ubuntu tradition's relational ontology may point tow
 - [intersubjectivity](/concepts/intersubjectivity/)
 - [consciousness-value-connection](/concepts/consciousness-value-connection/)
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)
 
 ## References
 

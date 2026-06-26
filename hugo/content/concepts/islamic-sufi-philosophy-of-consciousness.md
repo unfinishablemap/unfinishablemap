@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-05-28 18:03:40+00:00
+ai_modified: 2026-06-26 21:52:17+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,8 @@ related_articles:
 - '[[hard-problem-non-western-philosophy-2026-02-14]]'
 - '[[interaction-problem-non-western-philosophy-2026-02-17]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
+- '[[african-philosophy-of-consciousness]]'
+- '[[indian-philosophy-of-mind]]'
 title: Islamic and Sufi Philosophy of Consciousness
 topics:
 - '[[the-hard-problem-in-non-western-philosophy]]'
@@ -120,6 +122,8 @@ The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Structural parallels across Sufi, Buddhist, Hindu, and Christian practice
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the parallel with al-Ghazālī's contemplative epistemology
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Negative approaches to knowledge with roots in Islamic mysticism
+- [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/) — Relational and communal accounts of consciousness independently converging on irreducibility
+- [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Samkhya, Nyaya, and Vedanta on consciousness as irreducible to matter
 
 ## References
 

@@ -4,7 +4,7 @@ description: "African philosophical traditions treat consciousness as relational
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-26T16:55:25+00:00
+ai_modified: 2026-06-26T21:52:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[eastern-philosophy-consciousness]]"
   - "[[interaction-problem-across-traditions]]"
   - "[[indian-philosophy-of-mind]]"
+  - "[[islamic-sufi-philosophy-of-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[cross-cultural-convergence-on-mental-causation]]"
@@ -105,6 +106,7 @@ The Map speculates that the Ubuntu tradition's relational ontology may point tow
 - [[intersubjectivity]]
 - [[consciousness-value-connection]]
 - [[cross-cultural-phenomenology-of-agency]]
+- [[islamic-sufi-philosophy-of-consciousness]]
 
 ## References
 

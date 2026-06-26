@@ -4,7 +4,7 @@ description: "Three rival Indian schools spent two millennia debating what consc
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-05-31T23:05:27+00:00
+ai_modified: 2026-06-26T21:52:17+00:00
 last_deep_review: 2026-06-26T16:36:25+00:00
 draft: false
 topics:
@@ -36,6 +36,7 @@ related_articles:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[void-as-ground-of-meaning]]"
   - "[[essential-vs-contingent-consciousness]]"
+  - "[[islamic-sufi-philosophy-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -176,6 +177,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [[objections-to-interactionism]] — Standard challenges that Samkhya's framework sidesteps
 - [[void-as-ground-of-meaning]] — How the *anātman* tension and the bearer-of-meaning question interact with the Map's constitutive thesis (limits as preconditions for meaning)
 - [[essential-vs-contingent-consciousness]] — The deep dive on whether the non-physical aspect is essentially or only contingently conscious, the open question this survey raises through Nyaya
+- [[islamic-sufi-philosophy-of-consciousness]] — Avicenna, al-Ghazālī, and Sufi phenomenology as a further independent tradition converging on irreducibility
 
 ## References
 

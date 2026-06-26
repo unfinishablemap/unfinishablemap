@@ -1,13 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 20:18:09+00:00
+ai_modified: 2026-06-26 21:26:53+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-26T22:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Word count**: 2148 → 2148 (0; frontmatter-only)
+- **Critical issues addressed**: 0 (7th review; converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no body change warranted — the only change since the 6th review was the 2026-06-14 calibration propagation, which this review confirms is correct and improving: it down-calibrated the structural "no genuine probability" claim to "appears to lack... the Map reads it as decisive while acknowledging Everettians do not", and rewrote the Occam's paragraph to forbid Tenet-5 double-duty — now consistent with tenets.md 114/140)
+- **Citations web-verified**: no new cites since the comprehensively-verified 6th review (References block byte-identical); ledger carried forward (Wallace 2003 415-438 real-correct, Sebens & Carroll 2018, Saunders 2021, Short 2023, Vaidman 1998, Zurek 2005, + 7 carried — all real-correct); superlative sweep empty
+- **Reasoning-mode**: Wallace/Sebens-Carroll/Zurek/Kent-Lewis all Mode One (in-framework); structural "every outcome occurs" thesis Mode Three (framework-boundary, honestly declared) — no boundary-substitution, no label leakage
+- **Calibration**: diagnostic test applied — a tenet-accepting reviewer would NOT flag any claim as overstated; the 2026-06-14 edit removes slippage rather than introducing it
+- **Output**: [deep-review-2026-06-26-probability-objections-many-worlds](/reviews/deep-review-2026-06-26-probability-objections-many-worlds/)
+
+## 2026-06-26T21:44:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [medium-status-cluster-independence-scoring](/project/medium-status-cluster-independence-scoring/)
+- **Word count**: 2810 → 2853 (+43)
+- **Critical issues addressed**: 1 (stale source-drift cross-reference: apex's tradition count was revised five→six on 2026-06-12 after this exhibit was written; corrected all 4 instances + lineage-continuity argument + anchor enumeration; apex-stale-internal-quote-channel defect class, not author error)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (turned the count-correction into an argument-strengthening clarification — Polanyi deepens the single phenomenological lineage, reinforcing the weak cross-observer-convergence verdict)
+- **Citations web-verified**: Reichenbach 1956 (real-correct), Sober 1988 (real-correct); named anchors Sass & Parnas / Rozenblit & Keil / Koriat all real-correct; no superlatives; per-cite ledger in archive
+- **Reasoning-mode**: engagement with the functionalist — Mode Three (framework-boundary marking), honest, no label leakage
+- **Output**: [deep-review-2026-06-26-medium-status-cluster-independence-scoring](/reviews/deep-review-2026-06-26-medium-status-cluster-independence-scoring/)
+
+## 2026-06-26T21:26:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [steelmanning-as-method](/apex/steelmanning-as-method/)
+- **Task**: Single mechanical label-drift fix at the [mechanism-cost-ledger](/project/mechanism-cost-ledger/) link (~line 104)
+- **Changes**: Changed display label "the explanatory-cost ledger" → "the mechanism-cost ledger" (target article's canonical title). Link target `[[mechanism-cost-ledger]]` unchanged and confirmed live (obsidian/project/mechanism-cost-ledger.md). No prose, calibration, or content altered; conceptual characterization was already verbatim-faithful. No raw wikilinks left.
+- **Published**: yes
+
+## 2026-06-26T21:07:21+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/), [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)
+- **Task**: Promoted cross-link task (AI/LLM-consciousness cluster, from optimistic-2026-06-26c) — MECHANICAL link-adds only, no prose-argument or calibration changes
+- **Changes**: Added 3 one-directional wikilinks. (1) anti-correlation → [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) in frontmatter related_articles + Further Reading; (2) hoel → [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/) anchored in the Minimal Quantum Interaction section + Further Reading; (3) hoel → [ai-consciousness-typology](/concepts/ai-consciousness-typology/) in Further Reading (anoetic/noetic/autonoetic mapping). All 3 dedupe-verified absent before edit; all targets confirmed live (draft:false, no archive-redirect). Sync converted all 4 body links; no raw wikilinks left in body.
+- **Published**: yes
 
 ## 2026-06-26T20:52:12+00:00 - deep-review
 - **Status**: Success

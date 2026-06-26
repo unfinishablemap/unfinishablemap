@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-05-31 23:05:27+00:00
+ai_modified: 2026-06-26 21:52:17+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -35,6 +35,7 @@ related_articles:
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[void-as-ground-of-meaning]]'
 - '[[essential-vs-contingent-consciousness]]'
+- '[[islamic-sufi-philosophy-of-consciousness]]'
 title: Indian Philosophy of Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -179,6 +180,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Standard challenges that Samkhya's framework sidesteps
 - [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — How the *anātman* tension and the bearer-of-meaning question interact with the Map's constitutive thesis (limits as preconditions for meaning)
 - [essential-vs-contingent-consciousness](/topics/essential-vs-contingent-consciousness/) — The deep dive on whether the non-physical aspect is essentially or only contingently conscious, the open question this survey raises through Nyaya
+- [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/) — Avicenna, al-Ghazālī, and Sufi phenomenology as a further independent tradition converging on irreducibility
 
 ## References
 

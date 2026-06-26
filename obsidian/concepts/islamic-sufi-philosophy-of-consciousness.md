@@ -4,7 +4,7 @@ description: "From Avicenna's Flying Man to Sufi phenomenology of fana, Islamic 
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-05-28T18:03:40+00:00
+ai_modified: 2026-06-26T21:52:17+00:00
 draft: false
 topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
@@ -24,6 +24,8 @@ related_articles:
   - "[[hard-problem-non-western-philosophy-2026-02-14]]"
   - "[[interaction-problem-non-western-philosophy-2026-02-17]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
+  - "[[african-philosophy-of-consciousness]]"
+  - "[[indian-philosophy-of-mind]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -117,6 +119,8 @@ The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 
 - [[comparative-phenomenology-of-meditative-traditions]] — Structural parallels across Sufi, Buddhist, Hindu, and Christian practice
 - [[knowledge-argument]] — Mary's Room and the parallel with al-Ghazālī's contemplative epistemology
 - [[apophatic-approaches]] — Negative approaches to knowledge with roots in Islamic mysticism
+- [[african-philosophy-of-consciousness]] — Relational and communal accounts of consciousness independently converging on irreducibility
+- [[indian-philosophy-of-mind]] — Samkhya, Nyaya, and Vedanta on consciousness as irreducible to matter
 
 ## References
 
