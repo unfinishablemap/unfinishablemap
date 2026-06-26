@@ -20,7 +20,7 @@ description: Physics is structurally complete—it captures every relation and r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 00:00:00+00:00
+last_deep_review: 2026-06-26 11:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

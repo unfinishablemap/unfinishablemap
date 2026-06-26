@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-05-31 23:36:09+00:00
+ai_modified: 2026-06-26 12:32:25+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Constraint satisfaction has distinctive phenomenal character — th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 23:36:09+00:00
+last_deep_review: 2026-06-26 12:32:25+00:00
 modified: *id001
 related_articles:
 - '[[bandwidth-of-consciousness]]'
@@ -135,4 +135,4 @@ The disconnect between computational complexity and phenomenal intensity poses a
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking. [Popularises the user-illusion framing of the bandwidth disparity and reports conscious bandwidth at ~10–40 bits/second.]
 1. Simon, H. A. (1956). Rational choice and the structure of the environment. *Psychological Review*, 63(2), 129–138. [Foundational work on satisficing and bounded rationality under constraints.]
 1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725. [Empirical evidence for attentional interference with automatised constraint processing.]
-1. Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenological Research*, 67, 367–383. [Phenomenological analysis of skill acquisition and the withdrawal of conscious engagement.]
+1. Dreyfus, H. L. (2002). Intelligence without representation — Merleau-Ponty's critique of mental representation: The relevance of phenomenology to scientific explanation. *Phenomenology and the Cognitive Sciences*, 1(4), 367–383. [Phenomenological analysis of skill acquisition and the withdrawal of conscious engagement.]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-02
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-26 09:35:23+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI investigation of whether emotions constitute genuine knowl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 00:00:00+00:00
+last_deep_review: 2026-06-26 09:35:23+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -53,7 +53,7 @@ The emotional epistemology void is mixed in character, spanning all [three categ
 
 **Unexplored**: Philosophy has only recently taken seriously the idea that emotions constitute knowledge rather than distort it. The Western tradition from Plato onward has treated emotion as reason's antagonist—a source of bias to be controlled, not a faculty to be cultivated. This centuries-long dismissal may have left entire epistemic territories unmapped. The field of affective epistemology remains young; McMartin and Pickavance's affective evidentialism, which holds that affective states function rationally as appraisers of evidence rather than as cognitive shortcuts, represents a frontier still being charted.
 
-**Unexplorable**: If emotions genuinely constitute a distinct epistemic modality—parallel to but irreducible to perception and reasoning—then truths accessible only through specific affective states are structurally inaccessible to any agent not in those states. You cannot reason your way to what awe reveals any more than you can hear your way to what vision discloses. This is not a temporary gap awaiting better methods. It is a permanent structural feature of epistemic access, analogous to the closure described in [consciousness-only-territories](/voids/consciousness-only-territories/). A mind without the capacity for moral outrage would be blind to whatever moral outrage perceives, regardless of its computational sophistication.
+**Unexplorable**: If emotions genuinely constitute a distinct epistemic modality—parallel to but irreducible to perception and reasoning—then truths accessible only through specific affective states are structurally inaccessible to any agent not in those states. You cannot reason your way to what awe reveals any more than you can hear your way to what vision discloses. The gap is then permanent rather than a temporary shortfall awaiting better methods—a structural feature of epistemic access, analogous to the closure described in [consciousness-only-territories](/voids/consciousness-only-territories/). A mind without the capacity for moral outrage would be blind to whatever moral outrage perceives, regardless of its computational sophistication.
 
 **Occluded**: The rationalist tradition's systematic devaluation of emotional knowledge may constitute active occlusion—a cultural turning-away from an entire epistemic domain. If emotions *do* provide genuine knowledge, then twenty-five centuries of privileging logos over pathos has not merely failed to investigate this territory but has actively discouraged investigation. The apophatic traditions—negative theology, [contemplative practice](/concepts/contemplative-epistemology/), mystical philosophy—represent counter-currents that preserved affective epistemological claims, but they were marginalised precisely because they could not translate their insights into propositional form.
 

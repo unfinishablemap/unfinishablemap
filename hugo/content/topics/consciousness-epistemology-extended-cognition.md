@@ -21,7 +21,7 @@ description: The extended mind thesis reveals consciousness as the non-negotiabl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 00:00:00+00:00
+last_deep_review: 2026-06-26 11:18:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

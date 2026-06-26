@@ -19,7 +19,7 @@ description: Whitehead's concept of how each moment of reality grasps its predec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-09 16:02:30+00:00
+last_deep_review: 2026-06-26 11:14:10+00:00
 modified: *id001
 related_articles:
 - '[[process-and-consciousness]]'

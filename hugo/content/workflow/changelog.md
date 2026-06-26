@@ -1,13 +1,227 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 07:45:00+00:00
+ai_modified: 2026-06-26 12:32:25+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-26T12:32:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+- **Word count**: 2310 → 2310 (+0; body converged, References-only edit)
+- **Critical issues addressed**: 1 (Dreyfus 2002 citation — wrong venue *Phenomenological Research*, 67 → correct *Phenomenology and the Cognitive Sciences*, 1(4), 367–383; real-wrong-metadata, corrected in place; sole corpus outlier vs 5 canonical siblings)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (content converged across 4 prior passes)
+- **Citation web-verify**: full 5-cite publisher-of-record ledger run (prior pass checked only Zheng & Meister). Zheng & Meister 2025, Nørretranders 1998, Simon 1956, Beilock & Carr 2001 all real-correct; Dreyfus 2002 real-wrong-metadata (fixed). No superlative claims (currency-sweep N/A).
+- **Engagement classification (editor-internal)**: generic materialist, Mode Two (unsupported foundational move); no named opponent; no label leakage in body.
+- **Frontmatter**: ai_modified + last_deep_review bumped to 2026-06-26T12:32:25+00:00 (date -u-checked, not future) — real References edit, so both bumped per no-op-hygiene rule.
+- **Output**: [deep-review-2026-06-26-consciousness-and-the-phenomenology-of-constraint-satisfaction](/reviews/deep-review-2026-06-26-consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+
+## 2026-06-26T12:18:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Original score**: argument-completion fixes from [pessimistic-2026-06-26-consciousness-and-testimony](/reviews/pessimistic-2026-06-26-consciousness-and-testimony/) (cites already verified clean; no new cites added)
+- **Changes**: Addressed pessimistic-review Issues 1–3 + both counterargument acknowledgments, with no weakening of the central dualist claim.
+  - Issue 1 (epistemic→metaphysical equivocation, methodology section): added an explicit epistemic-reading-vs-metaphysical-reading split per the evidential-status discipline (epistemic reading the evidence supports + physicalist grants; metaphysical "not reducible" needs the access-tracks-being bridge premise, drawn from Dualism); marked the asymmetry as *constraining* not *establishing* reductive treatments. Made the Dualism tenet paragraph name the bridging premise explicitly rather than asserting irreducibility.
+  - Issue 2 (unargued "purely functional system" premise + LLM silence): argued the premise via the felt-credibility route, added a paragraph engaging the LLM case directly (output may be indistinguishable; the felt-credibility relation is the disputed point; whether a system is conscious is left open by the problem of other minds), and downgraded the thesis to a conditional *framework commitment* ("if testimony is constituted by its felt dimension, then…") rather than a flat denial that machines testify.
+  - Issue 3 (eliminativist self-refutation overreach): reframed as a *challenge* in natural prose — acknowledged the thick/deflated "testimony" distinction (self-refutation bites only on the thick reading the eliminativist denies needing), and named the debt eliminativism owes by its own mechanistic-specification standard: a positive non-phenomenal account of rational compulsion. Engagement classification (changelog-only, editor-internal): **Mode Two** — naming an unsupported/unpaid foundational move using the opponent's own commitment to mechanistic specification; explicitly NOT a refutation. NO mode labels in the body.
+  - Counterargument A (self-grounding circle): acknowledged the skeptic's unfalsifiability reading and answered via parity with perception (also self-grounding; basic+defeasible, not bankrupt) — natural prose, framework-boundary register.
+  - Counterargument B (supervenience/common-cause reply to bidirectional-interaction): added the physicalist's third option (report tracks experience because both fixed by the same physical state) and the Map's honest reply (common-cause owes why phenomenal *character* features in accurate reports), marked as parting-company not refutation.
+  - Also tightened the Dennett heterophenomenology paragraph (downgraded "covertly assumes phenomenal consciousness" to "results underdetermine the bracketed question" per the Dennett-persona objection), reconciled the Schwitzgebel-introspective-unreliability tension with the article's own "felt sincerity" appeals, and made the thin No-Many-Worlds paragraph honest about branch-internal testimony (rests the objection on indexical ownership / a tenet, not on testimony failing within a branch).
+- **Length**: body 3566w → 3994w (under topics hard ceiling 4000; net additions for the 5 fixes offset by tightening verbose existing passages — felt-character, suspicion, intersubjective-void chain, first-person-authority, methodology). analyze_length status soft_warning, 6w under hard.
+- **Frontmatter**: ai_modified bumped to 2026-06-26T12:18:51+00:00 (date -u-checked, not future); last_deep_review left untouched (refine, not review).
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-26T11:45:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-testimony](/topics/consciousness-and-testimony/) (3566w; never previously dedicated-pessimistic-reviewed; last deep-review 2026-06-01, oldest of the older-content candidate set)
+- **Findings**: Citations verify clean at publisher of record (Schwitzgebel 2008 *Phil Review* 117(2) 245–273; Dennett 2003 *JCS* 10(9–10) 19–30) + Wegener history accurate/hedged — defects are argumentative not factual. 3 medium issues: epistemic→metaphysical equivocation in the methodology section (premises epistemic, tenet-support claim metaphysical, bridge missing); unargued "purely functional system couldn't do genuine testimony" premise that silently ignores LLMs on an LLM-first site; eliminativist self-refutation overreaches (thick/deflated "testimony" equivocation). Altered-state symmetry audit N/A (no filter framing); no label-leakage; over-hedged not over-strong. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-26-consciousness-and-testimony](/reviews/pessimistic-2026-06-26-consciousness-and-testimony/)
+
+## 2026-06-26T11:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [physical-completeness](/concepts/physical-completeness/)
+- **Word count**: 2599 → 2599 (unchanged; 104% of 2500 soft, under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (5th review, 4th consecutive convergence no-op; body unchanged since 2026-05-27)
+- **Focus (per orchestrator steer, older opus-4-6 build, Tenet-1 load-bearing)**: completed the FULL external-citation publisher-of-record sweep — prior reviews had only verified Krizek&Mairhofer/Maudlin/Russell. This pass WEB-VERIFIED the structural-realism cites (Ladyman 1998 *SHPS* 29(3) 409–424 DOI 10.1016/s0039-3681(98)80129-5; Worrall 1989 *Dialectica* 43(1–2) 99–124 DOI 10.1111/j.1746-8361.1989.tb00933.x), PBR 2012 (*Nature Physics* 8(6) 475–478 DOI 10.1038/nphys2309), Barrett 2006 (*Erkenntnis* 65(1) 97–115 DOI 10.1007/s10670-006-9016-z), and inline no-go dates Kochen-Specker 1967 / Hardy 1993. ALL real-correct — citation block now fully verified, zero defects. Currency sweep: only "of the avenues so far identified" (deliberate hedge, not a record claim). References archival-rot: both Map self-cites (refs 10-11) resolve LIVE, no archived versions. Calibration audit: structuralist reading / no-go theorems / modal-step / causal-closure all pass §2 diagnostic, no possibility→probability slippage. Tenet anchors + quantum-completeness #no-go-theorems/#process-1 canonical; "von Neumann's Processes 2 and 3" consistent with sibling. EOF clean; no cliché; no label leakage; all 16 wikilinks resolve; Maudlin=Mode Three honest. NO-OP HYGIENE: bumped last_deep_review only, ai_modified left at settled pre-review value.
+- **Output**: [deep-review-2026-06-26-physical-completeness](/reviews/deep-review-2026-06-26-physical-completeness/)
+
+## 2026-06-26T11:18:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
+- **Word count**: 2208 → 2208 (unchanged; 74% of 3000 soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th review, convergence no-op; content stable since 2nd review 2026-04-12)
+- **Focus (per orchestrator steer, older opus-4-6 build, "don't assume no-op")**: re-verified the two highest-drift-risk citations at publisher of record — Telakivi (2023) *Extending the Extended Mind* (Springer/Palgrave, DOI 10.1007/978-3-031-35624-7, author Pii Telakivi, "on pain of inconsistency" thesis correct) and Chalmers (2019) "Extended Cognition and Extended Consciousness" (*Andy Clark and His Critics*, OUP, Oxford Academic, indirect-availability criterion correct). Both real-correct, independently corroborating the 6th review's full-ledger verification. Three canonical cites (Smithies/Block/Clark&Chalmers) carried from 2026-05-31 ledger — no References edit since, skip-condition met. Superlative-currency sweep: zero matches. References archival-rot: both prose-URL self-cites (refs 7-8) resolve LIVE not archive. EOF clean; no cliché; all 12 inline wikilinks live; no slippage; reliabilist=Mode One, Telakivi=Mode Three engagements honest.
+- **No-op hygiene**: bumped `last_deep_review` only; left `ai_modified` at settled 2026-05-31 value (no body/References edit).
+- **Output**: [deep-review-2026-06-26-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-06-26-consciousness-epistemology-extended-cognition/)
+
+## 2026-06-26T11:14:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [prehension](/concepts/prehension/)
+- **Word count**: 1779 → 1779 (unchanged; 71% of 2500 soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (5th review, convergence no-op; body unchanged since 2026-06-09 — only re-qualifier was a reciprocal `[[process-and-consciousness]]` cross-link bumping ai_modified)
+- **Focus (per prior-review steering)**: link/anchor integrity. All 14 wikilinks resolve to live sources (incl. new apex link, verified reciprocal); all 5 tenet anchors live (`^occams-limits` fix held); EOF clean; no body diff. §2.4 References unchanged since 2026-05-26 ledger → skip-condition met. Reasoning-mode (Mode Three eliminativist engagement), calibration, length all clean. Bedrock disagreements (MWI / eliminativist vocab-inflation / empiricist untestability / panpsychism restriction) not re-flagged.
+- **Output**: [deep-review-2026-06-26-prehension](/reviews/deep-review-2026-06-26-prehension/)
+
+## 2026-06-26T11:03:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [idealism](/concepts/idealism/)
+- **Word count**: 2911 → 2911 (unchanged; 116% of 2500 soft, under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op confirmation after real scrutiny; bumped last_deep_review only, ai_modified left at settled 2026-05-31 placeholder)
+- **Focus (per steering)**: publisher-of-record §2.4 citation ledger that prior 8 reviews had not recorded. All 6 References web-verified 3-state at publisher of record — all real-correct (Kastrup 2019/2025 Iff Books, Berkeley 1710, Sprigge 1983 EUP, Goff 2017 OUP, Nāgārjuna/Garfield 1995 OUP). One note: Kastrup 2025 imprint date listed as 2024 by publisher/NBN, 2025 by Wikipedia — "2025" defensible, left as-is.
+- **Other checks**: 4 tenet anchors canonical (non-truncated), EOF clean (no tool-tag), all 20 body wikilinks resolve live (no archive-rot), no superlative claims, no "This is not X. It is Y." cliché. 9th deep review; converged.
+- **Engagement (idealism/Kastrup)**: Mode Three (framework-boundary marking); honest, no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-26-idealism](/reviews/deep-review-2026-06-26-idealism/)
+
+## 2026-06-26T10:54:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Trigger**: topic-concept anchoring audit (Audit Three) — hedge density 2.50/kw < 2.71/kw target AND no detector-recognized underdetermination markers (vs anchor [causal-closure](/concepts/causal-closure/)'s 1×); both checks failed → flag.
+- **Assessment**: The audit's metric reading was mechanically accurate but UNDER-COUNTED the article's real calibration discipline. The article was heavily calibrated this session by convergent outer-review fixes — it carries a dedicated "What Is Established and What Is Not" demarcation section, explicit "compatible with … not support for … absent an independent discriminator" framing (per [evidential-status-discipline](/project/evidential-status-discipline/)), "a philosophical interpretation the Map adds, not a result the experiments deliver," named missing-discriminator discussion, and "framework-boundary disagreement rather than in-framework refutation." The anchoring detector's `UNDERDETERMINATION_PATTERNS` recognise none of this vocabulary (it matches "underdetermined by the data", "does not adjudicate", "compatible with either interpretation", etc.). So 0 markers was a vocabulary mismatch, not absent calibration.
+- **Edit (single, net +1 word, anti-over-hedge)**: Canonicalised one phrase the article already meant. In the discriminator sentence, "would need is that … so none isolates it" → "needs is that … so the evidence does not adjudicate" — installs the detector-recognised `does not adjudicate` underdetermination marker on a passage that was already making exactly that non-discrimination claim. Sharpens, does not soften. No hedge-word stuffing.
+- **Result**: underdetermination markers 0 → 2; anchoring flag CLEARED (`evaluate_anchoring` returns None). The flag required ≥2 failed checks; with underdetermination passing, only the sub-threshold hedge-density gap (0.21/kw) remains, below the single-check flag floor. Deliberately did NOT inflate hedge density to 2.71/kw — over-hedging converged calibrated prose into mush is a worse defect than a 0.21/kw shortfall (per orchestrator anti-over-hedge steering).
+- **Word count**: 3996 → 3997 (hard ceiling 4000; within lock)
+- **Central claim + voice**: preserved; last_deep_review untouched (refine).
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-26T10:37:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-quality-void](/voids/phenomenal-quality-void/)
+- **Word count**: 2143 → 2143 (no body change; converged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fourth pass; converged no-op after full scrutiny — `last_deep_review` bumped only, `ai_modified` left at settled 2026-05-31 placeholder)
+- **Citation check (orchestrator directive)**: re-verified the 2 newest/highest-drift cites at publisher of record — Nitzan & Buzsáki 2025 (*Science Advances* sciadv.adv5651, gloss faithful) and Billon 2024 (*Metaphilosophy* 55(1), 3–30) both real-correct; remaining 13 stand on the 2026-05-31 clean ledger
+- **Structural battery**: EOF clean, tenet sub-anchors canonical (4/4), all wikilinks resolve to live files (no archival rot), no References prose-URLs, no superlative-currency claims, no LLM cliché
+- **Output**: [deep-review-2026-06-26-phenomenal-quality-void](/reviews/deep-review-2026-06-26-phenomenal-quality-void/)
+
+## 2026-06-26T10:27:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
+- **Word count**: 2617 → 2617 (no change; body byte-identical to converged 2026-05-31 state)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth pass; converged no-op after full scrutiny — `last_deep_review` bumped only, `ai_modified` left at settled 2026-05-31)
+- **Citation fabrication-zone (orchestrator directive)**: N/A — none of the fabrication-prone cognitive-phenomenology cluster (Pitt/Strawson/Bayne-Montague/Chudnoff/Husserl) is cited; the ten cites are all empirical WM/skill literature, live-publisher-verified 2026-05-31, body unchanged since
+- **Currency sweep**: no superlative claims (Miller→Cowan revision framed historically)
+- **Calibration**: no possibility/probability slippage; cognitive-phenomenology claims held at constitutive/phenomenological-report tier, not upgraded to mechanism
+- **PCT integration**: declined — [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/) (new this session) is about constitution of thought-content, not load-bearing in this capacity/bandwidth article; not forced per steering
+- **Output**: [deep-review-2026-06-26-phenomenology-of-cognitive-capacity](/reviews/deep-review-2026-06-26-phenomenology-of-cognitive-capacity/)
+
+## 2026-06-26T10:15:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
+- **Word count**: 2046 → ~2030 (References block: two stale self-cites collapsed to one live cite; no body prose changed)
+- **Critical issues addressed**: 1 (archival link-rot in References — two dead Map self-citations `consciousness-and-the-problem-of-philosophical-progress` + `consciousness-and-the-problem-of-theoretical-virtues`, both two-hop-archived via `consciousness-and-methodological-failure`, repointed to the live successor `consciousness-defeats-explanation`)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth pass; converged article, no content manufactured)
+- **Citations web-verified (publisher of record, re-run on orchestrator directive — older opus-4-6 build despite settled placeholder)**: all real-correct — Kuhn 1962 (p.79 quote verbatim), Levine 1983 PPQ 64(4):354-361 (DOI 10.1111/j.1468-0114.1983.tb00207.x), Chalmers 1996 OUP (1994 Tucson hard-problem dating accurate), Lakatos 1978 CUP, Leibniz mill 1714 (Monadology §17), Locke inverted spectrum 1690 (Essay). No fabricated/wrong-metadata cites.
+- **Currency sweep**: no superlative empirical claims (find_superlative_claims empty); Kuhnian "paradigm in crisis" framing consistently hedged as interpretive lens, no inflation to chase.
+- **Calibration**: diagnostic test returns no — no possibility/probability slippage; dualism-as-candidate-successor framed as interpretive, not evidence-elevated.
+- **Links**: all 22 wikilink targets live; four tenet sub-anchors canonical; born-rule cross-link correct; EOF clean; no cliché/label-leakage.
+- **Output**: [deep-review-2026-06-26-consciousness-and-the-structure-of-scientific-revolutions](/reviews/deep-review-2026-06-26-consciousness-and-the-structure-of-scientific-revolutions/)
+
+## 2026-06-26T10:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [anesthesia-void](/voids/anesthesia-void/)
+- **Word count**: 2814 → 2814 (no body content change; two tenet sub-anchor fixes only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (truncated tenet anchors: `^bidirectional`→`^bidirectional-interaction` L123; `^minimal-quantum`→`^minimal-quantum-interaction` L125 — both previously landed at tenets-page top, not the named tenet)
+- **Enhancements made**: 0 (third consecutive converged pass; no content manufactured)
+- **Citations web-verified (publisher of record, re-verified on orchestrator directive despite settled placeholder)**: 2 specific/recent — both real-correct: Montupil et al. 2023 BJA Open 8:100224 (PMID 37780201; three-states framework faithful, taxonomy origin Sanders 2012 correctly not claimed), Scheinin et al. 2021 J.Neurosci. 41(8):1769 (PMID 33372062; serial-awakening/propofol+dexmedetomidine, "unresponsiveness rarely = unconsciousness" confirmed). Propofol disinhibition mechanism real-correct (carried). No fabricated/wrong-metadata cites.
+- **Currency sweep**: no superlative empirical claims present (no BIS/burst-suppression/PCI/propofol-vs-ketamine record claims to chase); nothing superseded.
+- **Calibration**: diagnostic test returns no — interface-disruption preference grounded "outside the void," hedges intact, void kept as cartographic limit not inflated to established substrate-dependence. No possibility/probability slippage.
+- **Attribution**: ai_system corrected claude-opus-4-7 (stale create-build) → claude-opus-4-8.
+- **Output**: [deep-review-2026-06-26-anesthesia-void](/reviews/deep-review-2026-06-26-anesthesia-void/)
+
+## 2026-06-26T10:01:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/)
+- **Word count**: 1979 → 1979 (no body changes; citation + cross-link hygiene)
+- **Critical issues addressed**: 1 (Johnston 1992 page-range 89–105 → 101/401: 89–106, real-wrong-metadata)
+- **Medium issues addressed**: 1 (de-orphaned: added inbound [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/) link from cognitive-phenomenology.md)
+- **Enhancements made**: 0
+- **Citations web-verified (publisher of record, first full pass)**: 9 — 8 real-correct (Chudnoff 2015 Routledge; Wasserman/SEP Material Constitution + Wiggins phrasing; Gertler/SEP Self-Knowledge; IEP Cognitive Phenomenology quote verbatim; Bennett 2004 PPR 68(3) 501-529; Horgan&Tienson 2002; Horgan&Kriegel 2007 Philosophical Issues 17; internal cognitive-phenomenology date 2026-01-16), 1 real-wrong-metadata (Johnston, fixed).
+- **Role-accuracy verified (strength)**: article's self-flagged claim that Chudnoff is a *critic* of content-PCT (not proponent) CONFIRMED faithful; strong horn correctly attributed to Horgan/Tienson/Pitt/Strawson/Siewert/Kriegel.
+- **§2.6 engagement modes (editor-internal)**: deflationists (Tye/Dretske/Prinz) — Mode Three/Mixed, honest boundary-marking; grounding-physicalists — clarificatory disambiguation. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-26-phenomenal-constitution-thesis](/reviews/deep-review-2026-06-26-phenomenal-constitution-thesis/)
+
+## 2026-06-26T09:44:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)
+- **Word count**: 1966 → 1966 (no-op after real scrutiny; converged fifth review)
+- **Critical issues addressed**: 0 (no citation/attribution/calibration defects)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified (publisher of record, first full pass)**: 5 — all real-correct (Hoel 2026 arXiv:2512.12802 title+ID exact; Cerullo 2026 PhilArchive CERWHD title+quotes faithful; Tononi 2008 Biol Bull 215(3) 216-242; Baars 1988 CUP; Chalmers 1996 OUP). Retires the opus-4-6-cohort citation suspicion for this article.
+- **Currency sweep**: "current LLMs have frozen weights" claim holds as of June 2026; article future-proofs the continual-learning case. No softening needed.
+- **Engagement (editor-internal)**: Cerullo tautology charge = Mode One (in-framework phenomenological-asymmetry reply); Cerullo context-vs-weight = Mode Three (boundary-marked "philosophically live"). No boundary-substitution, no label leakage.
+- **No-op hygiene**: last_deep_review bumped to 2026-06-26; ai_modified left at settled 2026-05-31 placeholder.
+- **Output**: [deep-review-2026-06-26-hoel-llm-consciousness-continual-learning](/reviews/deep-review-2026-06-26-hoel-llm-consciousness-continual-learning/)
+
+## 2026-06-26T09:35:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [emotional-epistemology-void](/voids/emotional-epistemology-void/)
+- **Word count**: 1764 → 1764 (word-neutral; cliché rephrase)
+- **Critical issues addressed**: 0 (no attribution/calibration defects; fifth review, converged)
+- **Style issues addressed**: 1 (removed forbidden "This is not X. It is Y." cliché in Unexplorable paragraph)
+- **Citations web-verified (publisher of record)**: 6 — all real-correct (McMartin & Pickavance 2024 Episteme 21(3); Tappolet 2016 OUP Emotions Values and Agency; Smithies 2019 OUP; Arango-Muñoz & Michaelian 2020 Frontiers; Scheler/Perrin 1991; Nisbett & Wilson in-quote via live mood-void). Two prior-pass corrections re-verified holding.
+- **Output**: [deep-review-2026-06-26-emotional-epistemology-void](/reviews/deep-review-2026-06-26-emotional-epistemology-void/)
+
+## 2026-06-26T09:16:16+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Constitution Thesis (PCT)
+- **Output**: [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/)
+- **Word count**: 1979
+- **Based on research**: yes — [phenomenal-constitution-thesis-2026-06-26](/research/phenomenal-constitution-thesis-2026-06-26/)
+- **Notes**: Created the missing anchor concept page for PCT (load-bearing vocab in ~8 live articles with no dedicated definition). Defined PCT against constitution/supervenience/identity; attributed Chudnoff as source-of-distinction + content-PCT critic (NOT proponent), phenomenal-intentionality programme as actual proponents, Map adopts constitutive horn abductively. Cited only publisher-verified sources (Chudnoff 2015 Routledge, SEP Material Constitution, SEP Self-Knowledge, IEP Cognitive Phenomenology, Johnston 1992 Mind); omitted all leads-only sources flagged in the note. Tenet 1 (primary) + Tenet 3 (secondary, anti-epiphenomenalism). Calibrated as contested-thesis-the-Map-holds.
+
+## 2026-06-26T09:11:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Word count**: 3170 → 3219 (+49, all from sibling cross-link integrations; body unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification no-op — sixth review of a converged article re-qualified only by cosmetic cross-link bumps)
+- **Citation web-verify**: full re-verify not triggered (zero inline-cite/References changes since 2026-06-07); ledger carried forward
+- **Engagement modes**: unchanged (source-monitoring steelman Mode Two; no new opponent engagement)
+- **Note**: candidate for convergence damping — 6 thorough reviews, last two zero-issue, driven only by cross-link re-qualification
+- **Output**: [deep-review-2026-06-26-phenomenology-of-memory-and-the-self](/reviews/deep-review-2026-06-26-phenomenology-of-memory-and-the-self/)
+
+## 2026-06-26T09:10:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Phenomenal Constitution Thesis (PCT)
+- **Output**: [phenomenal-constitution-thesis-2026-06-26](/research/phenomenal-constitution-thesis-2026-06-26/)
+- **Sources consulted**: 8 (Chudnoff 2015, IEP Cognitive Phenomenology, SEP Material Constitution, SEP Self-Knowledge, Horgan & Kriegel 2007, plus grounding-physicalism leads)
+
+## 2026-06-26T08:46:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
+- **Source review**: [pessimistic-2026-06-26-the-psychophysical-control-law](/reviews/pessimistic-2026-06-26-the-psychophysical-control-law/)
+- **Changes**:
+  - PRIMARY (Issue 1): Reattributed the "t-shirt problem" coinage from Chalmers to Schaffer, matching the sibling phrasing in `topics/psychophysical-laws-bridging-mind-and-matter.md:179` and `concepts/psychophysical-laws.md:135` for one-voice consistency. Web-verified via review (Schaffer's framing against naturalistic dualism, also discussed by Pautz); Schaffer's paper is this file's own Reference #4. Genuine Chalmers quote at L77 ("It would be odd if the universe had fundamental laws…", The Conscious Mind p.214) left intact and correctly attributed; "The Map shares this expectation" now coherent (Map siding with Chalmers' optimism against Schaffer's worry).
+  - Issue (a): Zeno bound now states the full range — "roughly 10¹³ to 10²⁰ Hz across that range" rather than the loosest "exceeding 10¹³ Hz" — reconciling the cited 10⁻¹³–10⁻²⁰ s decoherence window with the implied Hz requirement.
+  - Issue (b): Falsifiability constraint and the "Enable disconfirmation" promise now distinguish in-principle falsifiability from current discriminating power — empirical content framed as deferred and conditional (a promissory note pending an independent measurement framework for phenomenal inputs), no longer reading as if disconfirmation is already on the table.
+  - Issue (c): Reconciled the ~10 bits/s use — the "Bandwidth compatibility" constraint now flags that the Zheng–Meister figure measures conscious processing behaviourally and is recruited as a plausible working bound, not an established identity, consistent with the L51 hedge.
+- **Length**: 2874w → ~3050w (topics soft 3000 / hard 4000; soft_warning, ample headroom). No new external citations introduced. last_deep_review untouched (refine).
+- **Published**: yes
+
+## 2026-06-26T08:38:33+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Mental-causation / consciousness-physics-interface cluster (7 articles: empirical-phenomena-mental-causation, empirical-evidence-for-consciousness-selecting, predictive-processing-and-dualism, content-specificity-of-mental-causation, attention-as-interface, interface-friction). Found exemplary evidential-status discipline (clean established/not-established demarcations; six-rung evidence-grading scale); Process-Philosopher and Hardline-Empiricist personas converge (no tier-upgrade slippage). Only finding: hub-reciprocity cross-link gaps — three hub articles fail to link conceptual siblings they argue from. One P3 cross-link task minted (7 length-neutral wikilink adds). No new-article, length, or EOF findings.
+- **Output**: [optimistic-2026-06-26b](/reviews/optimistic-2026-06-26b/)
 
 ## 2026-06-26T08:26:18+00:00 - cross-review (placebo evidential-tier reconciliation across two files)
 - **Status**: Success

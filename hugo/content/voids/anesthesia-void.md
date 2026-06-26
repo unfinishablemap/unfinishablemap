@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-05-31 00:00:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-06-26 10:08:00+00:00
+ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[dualism]]'
@@ -18,7 +18,7 @@ description: 'Human+AI exploration of the pharmacologically imposed gap in consc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 00:00:00+00:00
+last_deep_review: 2026-06-26 10:08:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -122,9 +122,9 @@ The Map favours the interface-disruption reading. On this view, anesthesia does 
 
 Three further tenets are relevant:
 
-- **[Bidirectional Interaction](/tenets/#bidirectional).** Connected consciousness during anesthesia with neuromuscular blockade is a limit case: input may remain coupled while output is blocked. The asymmetry is diagnostic — it suggests the interface operates on multiple channels that can fail independently.
+- **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Connected consciousness during anesthesia with neuromuscular blockade is a limit case: input may remain coupled while output is blocked. The asymmetry is diagnostic — it suggests the interface operates on multiple channels that can fail independently.
 - **[Occam's Razor Has Limits](/tenets/#occams-limits).** The temptation to treat anesthetic unconsciousness as identical to phenomenal cessation is a parsimony move that outruns the evidence. Dissociable components, disconnected consciousness, and intraoperative awareness all complicate the clean "switch off" story. Simpler is not safer when the evidence is this layered.
-- **[Minimal Quantum Interaction](/tenets/#minimal-quantum).** The Map does not need any specific quantum mechanism to engage this void. The anesthesia evidence constrains interface models without requiring a particular implementation of the coupling.
+- **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** The Map does not need any specific quantum mechanism to engage this void. The anesthesia evidence constrains interface models without requiring a particular implementation of the coupling.
 
 The memory-failure defence — that consciousness persists through anesthesia but is not remembered — is another dualist option, and one a careful critic will press. Both readings posit something the anesthesia evidence alone cannot directly show: memory-failure posits unremembered experience, interface-disruption posits a coupling mechanism. Parsimony at the level of this single phenomenon does not clearly favour one over the other, and the Map should not pretend otherwise.
 

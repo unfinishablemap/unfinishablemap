@@ -22,7 +22,7 @@ description: Erik Hoel argues no scientific theory can attribute consciousness t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 00:00:00+00:00
+last_deep_review: 2026-06-26 09:44:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

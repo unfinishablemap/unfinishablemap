@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-26 00:13:00+00:00
+ai_modified: 2026-06-26 08:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -75,7 +75,7 @@ This is not merely a practical problem. The [hard problem](/topics/hard-problem-
 
 ### The T-Shirt Problem
 
-What Chalmers (1996, p. 214) calls the "t-shirt problem" names a deeper concern. Good fundamental laws fit on a t-shirt: F=ma, E=mc², S=k ln W. Psychophysical laws may resist this compression. The correlations between phenomenal states and physical states might be real but irreducibly complex—no elegant formula capturing them because the mapping reflects evolutionary contingency rather than fundamental simplicity.
+The "t-shirt problem" Schaffer presses against naturalistic dualism—so named because the fundamental laws could not be written legibly on a t-shirt—names a deeper concern. Good fundamental laws fit on a t-shirt: F=ma, E=mc², S=k ln W. Psychophysical laws may resist this compression. The correlations between phenomenal states and physical states might be real but irreducibly complex—no elegant formula capturing them because the mapping reflects evolutionary contingency rather than fundamental simplicity.
 
 Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws" (1996, p. 214). The Map shares this expectation: the specification gap is a problem to be solved, not a permanent feature of our epistemic situation.
 
@@ -97,7 +97,7 @@ This gives a recognisable control structure: a **proportional controller** where
 
 **Strengths**: Specific enough to generate predictions. Effort phenomenology tracks what the law says should happen: harder tasks require more intense attention, which the law translates into higher observation rates needed to maintain stability against stronger competing patterns. The OCD research of Schwartz et al. (1996) illustrates what confirmed predictions would look like: patients using mindful attention to redirect neural activity from compulsive circuits produced measurable metabolic changes in the caudate nucleus. This outcome is equally compatible with purely physicalist neuroplasticity and does not distinguish between the two frameworks, but it demonstrates the *kind* of evidence that could become discriminating once independent measures of attention intensity are available.
 
-**Limitations**: The Zeno mechanism faces the [decoherence](/concepts/decoherence/) timescale challenge. Tegmark's (2000) calculations yield decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural superpositions—the Zeno effect would require observation rates exceeding 10¹³ Hz to maintain coherence, a physically implausible demand for a biological system. Responses exist (Hameroff's corrected timescale estimates, post-decoherence selection at points where physics leaves outcomes undetermined), but none has been empirically confirmed. The law's proportionality assumption is also just that—an assumption. The true relationship might be nonlinear, threshold-dependent, or state-dependent. Without being able to independently measure both attention intensity and observation rate, the proportionality claim cannot be tested.
+**Limitations**: The Zeno mechanism faces the [decoherence](/concepts/decoherence/) timescale challenge. Tegmark's (2000) calculations yield decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural superpositions—the Zeno effect would require observation rates of roughly 10¹³ to 10²⁰ Hz across that range to maintain coherence (the faster end of the decoherence window demands the higher rate), a physically implausible demand for a biological system. Responses exist (Hameroff's corrected timescale estimates, post-decoherence selection at points where physics leaves outcomes undetermined), but none has been empirically confirmed. The law's proportionality assumption is also just that—an assumption. The true relationship might be nonlinear, threshold-dependent, or state-dependent. Without being able to independently measure both attention intensity and observation rate, the proportionality claim cannot be tested.
 
 ### Eccles' Intention-Probability Law
 
@@ -127,7 +127,7 @@ In control terms, this is a **switching controller**—the simplest possible con
 
 Whatever the psychophysical control law turns out to be, the Map's commitments and empirical constraints jointly require:
 
-**Bandwidth compatibility.** The law's information throughput must not exceed ~10 bits/second. This rules out laws where consciousness specifies neural activity at the level of individual neurons or synapses. Selection must be coarse-grained—at the level of action policies, attentional focus, or pattern stabilisation.
+**Bandwidth compatibility.** Insofar as the conscious-processing figure constrains the control channel, the law's information throughput must not exceed ~10 bits/second. The qualification matters: as noted above, the Zheng–Meister figure measures conscious processing behaviourally and need not equal the psychophysical channel's capacity—it is recruited here as a plausible working bound rather than an established identity. Taken as that bound, it rules out laws where consciousness specifies neural activity at the level of individual neurons or synapses. Selection must be coarse-grained—at the level of action policies, attentional focus, or pattern stabilisation.
 
 **Conservation compliance.** The law must not imply energy injection into the physical system. Probability reweighting, basis selection, and observation-rate modulation all satisfy this by operating within quantum indeterminacy rather than against physical law. A control law that required consciousness to *add* energy to neural systems would violate the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet and face empirical refutation.
 
@@ -135,7 +135,7 @@ Whatever the psychophysical control law turns out to be, the Map's commitments a
 
 **Phenomenological consistency.** The law must match what conscious effort feels like. If the law says doubling effort doubles physical effect, then harder tasks should feel twice as effortful as slightly hard ones. If the law implies a threshold, there should be a phenomenological correlate of crossing it. First-person experience provides an independent check on the law's form.
 
-**Falsifiability.** The law must predict something that could, in principle, turn out to be false. Stapp's proportionality claim predicts that sustained high-effort attention should show specific neural signatures distinguishable from low-effort processing. If these signatures cannot be found—or if they fully reduce to conventional neuroplasticity—the law loses empirical traction.
+**Falsifiability.** The law must predict something that could, in principle, turn out to be false. Stapp's proportionality claim predicts that sustained high-effort attention should show specific neural signatures distinguishable from low-effort processing. If these signatures cannot be found—or if they fully reduce to conventional neuroplasticity—the law loses empirical traction. This is in-principle falsifiability, not current discriminating power: as the Stapp and Schwartz discussions above concede, no presently available test separates the law's predictions from physicalist neuroplasticity, because we cannot yet independently measure the phenomenal inputs the law takes as its sensor channel. The framework's empirical content is therefore deferred and conditional—a promissory note that becomes a live test only once the measurement framework the Conceptual Asymmetry section calls for exists.
 
 ## Why Specification Matters
 
@@ -145,7 +145,7 @@ A psychophysical control law, even schematic, would:
 
 **Generate novel predictions.** If attention intensity maps to observation rate, meditation should produce measurable quantum-relevant effects in neural tissue. If policy selection is discrete, reaction time distributions should show quantisation effects absent from continuous-dynamics models.
 
-**Enable disconfirmation.** Without a law, any outcome can be reconciled with "consciousness selects." With a law, specific outcomes falsify specific predictions.
+**Enable disconfirmation.** Without a law, any outcome can be reconciled with "consciousness selects." With a law, specific outcomes falsify specific predictions—once the independent measurement of phenomenal inputs that the law requires becomes available. Until then the disconfirmation is in-principle rather than on the table; the law specifies *what* would count as falsifying evidence without yet making that evidence obtainable.
 
 **Distinguish the Map from epiphenomenalism.** Both the Map and [epiphenomenalists](/concepts/epiphenomenalism/) agree consciousness exists. The difference lies in causal efficacy—and that difference is invisible without specifiable, testable coupling between phenomenal and physical variables.
 
