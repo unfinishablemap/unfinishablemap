@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T20:10:29+00:00
+ai_modified: 2026-06-26T20:18:09+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T20:18:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/outer-reviewer-service-calibration]]
+- **Word count**: 1157 → 1403 (+246)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Note**: First deep review of this slug. Project meta-doc — fidelity-and-currency review, not tenets/citations. Verified ~20 source-fidelity claims against the 7 referenced review files (all 2026-05-10/11/12/14 cycles): every claim TRUE, including the verbatim "definitive masterclass" and "directly refuting Tegmark's femtosecond limits" Gemini quotes, the Claude-8 / ChatGPT-6 finding counts (Claude §3.1–3.8 confirmed), and the precise "Gemini missed Letheby while same-cycle Claude caught him" claim (Gemini names Letheby only in its own gap-meta-note; Claude 13×). No broken links. Reasoning-mode: N/A (no named-opponent refutations). Two medium currency-drift fixes: (1) model identity — doc named "Claude Opus 4.7" as the *current* reviewer of record; the Claude leg has run Fable 5 / Opus 4.8 since mid-June; split historical data (kept Opus 4.7) from model-agnostic role label; (2) the "Pre-Registered Calibration Question" was superseded — the commission-gemini-review skill already ships five anti-sycophancy guardrails prompted by an unrecorded 2026-05-16 phantom-limb third data-point; converted the section to a recorded resolution + narrowed residual question. Below soft threshold throughout (1403/2500w).
+- **Output**: [[reviews/deep-review-2026-06-26-outer-reviewer-service-calibration]]
 
 ## 2026-06-26T20:10:29+00:00 - deep-review
 - **Status**: Success
