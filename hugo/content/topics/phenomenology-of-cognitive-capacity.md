@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-26 22:47:38+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,6 +37,7 @@ related_articles:
 - '[[disappearance-voids]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[stapp-quantum-mind]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
 title: The Phenomenology of Cognitive Capacity
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -160,6 +161,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Why the interface has the bandwidth it does
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's hierarchy including anoetic consciousness, the residual awareness in automatised skills
 - [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/) — The felt dynamics of navigating competing demands
+- [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) — How different cognitive limits produce distinct experiential signatures, the diagnostic frame for capacity limits
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-06-25 18:00:15+00:00
+ai_modified: 2026-06-26 22:47:38+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,6 +25,7 @@ related_articles:
 - '[[thought-stream-void]]'
 - '[[edge-states-and-void-probes]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
+- '[[phenomenology-of-attention-to-absence]]'
 - '[[tenets]]'
 title: The Phenomenology of Linguistic Failure
 topics:
@@ -120,6 +121,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [tene
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — The general phenomenology of approaching cognitive limits
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether understanding has its own phenomenal character
 - [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) — How different cognitive limits produce distinct experiential signatures
+- [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/) — The felt structure of attending to what is missing, a sibling case of expression at the edge
 - [tenets](/tenets/) — The foundational commitments of the Map
 
 ## References

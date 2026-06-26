@@ -4,7 +4,7 @@ description: "Human+AI systematic mapping of how different cognitive limits feel
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-25T23:25:00+00:00
+ai_modified: 2026-06-26T22:47:38+00:00
 last_deep_review: 2026-06-25T23:25:00+00:00
 draft: false
 topics:
@@ -25,6 +25,8 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[phenomenology-of-linguistic-failure]]"
   - "[[creative-aesthetic-void]]"
+  - "[[phenomenology-of-attention-to-absence]]"
+  - "[[phenomenology-of-cognitive-capacity]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -136,6 +138,8 @@ The systematic mapping of limit phenomenologies connects to the Map's [[tenets]]
 - [[what-voids-reveal|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[self-opacity|Self-Opacity]] — Why consciousness cannot fully know itself, and the felt signatures of self-referential thought
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — Linguistic failure as a specific limit type with five distinct signatures
+- [[phenomenology-of-attention-to-absence|The Phenomenology of Attention to Absence]] — The felt structure of attending to what is missing, a further limit signature
+- [[phenomenology-of-cognitive-capacity|The Phenomenology of Cognitive Capacity]] — Capacity limits felt from inside as saturation and overflow
 - [[voids|Voids in the Map]] — The broader framework for cognitive dark spaces
 
 ## References

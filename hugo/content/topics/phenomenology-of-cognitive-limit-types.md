@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-25 23:25:00+00:00
+ai_modified: 2026-06-26 22:47:38+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,6 +30,8 @@ related_articles:
 - '[[compound-failure-signatures]]'
 - '[[phenomenology-of-linguistic-failure]]'
 - '[[creative-aesthetic-void]]'
+- '[[phenomenology-of-attention-to-absence]]'
+- '[[phenomenology-of-cognitive-capacity]]'
 title: The Phenomenology of Cognitive Limit Types
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -139,6 +141,8 @@ The systematic mapping of limit phenomenologies connects to the Map's [tenets](/
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [Self-Opacity](/voids/self-opacity/) — Why consciousness cannot fully know itself, and the felt signatures of self-referential thought
 - [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — Linguistic failure as a specific limit type with five distinct signatures
+- [The Phenomenology of Attention to Absence](/topics/phenomenology-of-attention-to-absence/) — The felt structure of attending to what is missing, a further limit signature
+- [The Phenomenology of Cognitive Capacity](/topics/phenomenology-of-cognitive-capacity/) — Capacity limits felt from inside as saturation and overflow
 - [Voids in the Map](/voids/) — The broader framework for cognitive dark spaces
 
 ## References

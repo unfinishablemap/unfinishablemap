@@ -4,7 +4,7 @@ description: "Forgetting is often an act, not a failure. The Map examines the fe
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-06-20T15:52:27+00:00
+ai_modified: 2026-06-26T22:47:38+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[erasure-void]]"
   - "[[reconsolidation-as-selection-window]]"
   - "[[memory-anomalies]]"
+  - "[[phenomenology-of-attention-to-absence]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -104,6 +105,7 @@ The honest position is calibrated. The volitional layer is a *candidate* for dow
 - [[erasure-void]] — the unmonitorable inventory of what has been lost
 - [[reconsolidation-as-selection-window]] — forgetting and revision as consolidation reopens
 - [[memory-anomalies]] — distortions, false memories, and the limits of mnemonic reliability
+- [[phenomenology-of-attention-to-absence]] — the felt structure of attending to what is missing, the converse of the shaped gap
 - [[agency-void]] — why the felt agency of an act cannot verify its own causal power
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-06-20 15:52:27+00:00
+ai_modified: 2026-06-26 22:47:38+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -25,6 +25,7 @@ related_articles:
 - '[[erasure-void]]'
 - '[[reconsolidation-as-selection-window]]'
 - '[[memory-anomalies]]'
+- '[[phenomenology-of-attention-to-absence]]'
 - '[[tenets]]'
 title: The Phenomenology of Forgetting
 topics:
@@ -107,6 +108,7 @@ The honest position is calibrated. The volitional layer is a *candidate* for dow
 - [erasure-void](/voids/erasure-void/) — the unmonitorable inventory of what has been lost
 - [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) — forgetting and revision as consolidation reopens
 - [memory-anomalies](/topics/memory-anomalies/) — distortions, false memories, and the limits of mnemonic reliability
+- [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/) — the felt structure of attending to what is missing, the converse of the shaped gap
 - [agency-void](/voids/agency-void/) — why the felt agency of an act cannot verify its own causal power
 
 ## References

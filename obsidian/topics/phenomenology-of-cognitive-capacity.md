@@ -4,7 +4,7 @@ description: "Cognitive overload and automatisation reveal consciousness as a ba
 created: 2026-02-15
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-26T22:47:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[disappearance-voids]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[stapp-quantum-mind]]"
+  - "[[phenomenology-of-cognitive-limit-types]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -158,6 +159,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 - [[bandwidth-of-consciousness]] — Why the interface has the bandwidth it does
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's hierarchy including anoetic consciousness, the residual awareness in automatised skills
 - [[consciousness-and-the-phenomenology-of-constraint-satisfaction]] — The felt dynamics of navigating competing demands
+- [[phenomenology-of-cognitive-limit-types]] — How different cognitive limits produce distinct experiential signatures, the diagnostic frame for capacity limits
 
 ## References
 

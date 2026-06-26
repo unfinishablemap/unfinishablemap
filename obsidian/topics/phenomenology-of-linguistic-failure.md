@@ -4,7 +4,7 @@ description: "What it feels like when words fail—the distinct experiential sig
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-06-25T18:00:15+00:00
+ai_modified: 2026-06-26T22:47:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[thought-stream-void]]"
   - "[[edge-states-and-void-probes]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
+  - "[[phenomenology-of-attention-to-absence]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -118,6 +119,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [[ten
 - [[edge-states-and-void-probes]] — The general phenomenology of approaching cognitive limits
 - [[cognitive-phenomenology]] — Whether understanding has its own phenomenal character
 - [[phenomenology-of-cognitive-limit-types]] — How different cognitive limits produce distinct experiential signatures
+- [[phenomenology-of-attention-to-absence]] — The felt structure of attending to what is missing, a sibling case of expression at the edge
 - [[tenets]] — The foundational commitments of the Map
 
 ## References

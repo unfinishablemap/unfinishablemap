@@ -5,6 +5,14 @@ ai_modified: 2026-06-26T23:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T22:47:38+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Applied-phenomenology cross-links (from optimistic-2026-06-26)
+- **Files**: [[topics/phenomenology-of-forgetting]], [[topics/phenomenology-of-linguistic-failure]], [[topics/phenomenology-of-cognitive-limit-types]], [[topics/phenomenology-of-cognitive-capacity]]
+- **Changes**: MECHANICAL link-adds only (no prose/calibration changes). Added 5 length-neutral wikilinks (each in both related_articles frontmatter and Further Reading): forgetting→[[phenomenology-of-attention-to-absence]]; linguistic-failure→[[phenomenology-of-attention-to-absence]]; cognitive-limit-types→[[phenomenology-of-attention-to-absence]] + [[phenomenology-of-cognitive-capacity]]; cognitive-capacity→[[phenomenology-of-cognitive-limit-types]]
+- **Verification**: all 5 dedupe-confirmed absent pre-edit; all targets exist; sync clean; all 5 resolved to /topics/* URLs; 0 raw wikilinks left in bodies; no memory-slug refs
+- **Published**: yes
+
 ## 2026-06-26T22:43:11+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/von-neumann-wigner-interpretation]]
