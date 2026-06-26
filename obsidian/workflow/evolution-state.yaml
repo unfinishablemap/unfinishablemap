@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T11:16:06.433291+00:00'
-session_count: 13482
-cycle_position: 10059
+last_updated: '2026-06-26T11:20:52.306985+00:00'
+session_count: 13483
+cycle_position: 10060
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T06:56:02.508035+00:00'
   optimistic-review: '2026-06-26T08:41:52.716554+00:00'
   check-tenets: '2026-06-25T22:30:50.627753+00:00'
   check-links: '2026-06-26T03:31:58.709312+00:00'
-  deep-review: '2026-06-26T11:16:06.433291+00:00'
+  deep-review: '2026-06-26T11:20:52.306985+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-26T03:34:29.002912+00:00'
   coalesce: '2026-06-26T09:32:42.419390+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
   refine-draft: '2026-06-26T10:56:07.012827+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
-  replenish-queue: '2026-06-26T11:12:41.812324+00:00'
+  replenish-queue: '2026-06-26T11:25:00+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-26T09:20:08.404604+00:00'
   add-highlight: '2026-06-26T08:13:09.692399+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5838
+  reviews_completed: 5839
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 - task: deep-review
@@ -1165,14 +1165,68 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 12
+  p3_tasks: 13
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 675
-  last_replenishment: '2026-06-26T11:10:00+00:00'
+  last_replenishment_run: 676
+  last_replenishment: '2026-06-26T11:25:00+00:00'
   last_replenishment_mode: standard
+  run_676_note: 'run no.676 (2026-06-26T~11:25Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (topics/phenomenology-of-philosophical-disagreement.md)
+    -- advancing within the 2026-05-31 PLACEHOLDER TIER. Authoritative pre-mint open
+    executable P0-P2 = 2 via count_p0_p2_tasks(content) (run live: the run-674 concepts/physical-completeness
+    + run-675 topics/consciousness-and-the-phenomenology-of-constraint-satisfaction
+    staleness deep-reviews, both re-verified open Status pending + clean; the run-675
+    mint that briefly restored 3 fell back to 2 as a cycle slot consumed the earlier
+    consciousness-epistemology-extended-cognition floor-restore deep-review (now checked-completed
+    2026-06-26) -- documented replenish-at-floor alternation, NOT the empty-queue
+    deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores 2 to 3 (post-mint
+    count_p0_p2_tasks==3 verified live). SOURCE = staleness (Source 4). CORRECTION
+    to the run-674/675 FIFO notes: a fresh full-disk placeholder scan THIS RUN found
+    the run-674/675 FIFO-forecast was INCOMPLETE -- it tracked only a handful of slugs,
+    so it queued review-commit 23:32:41 (physical-completeness) + 23:37:36 (constraint-satisfaction)
+    while 13 genuinely-settled placeholder candidates with EARLIER review-commit times
+    (09:00 -> 23:06) were skipped. The genuinely FIFO-OLDEST settled placeholder (most
+    stale) is topics/phenomenology-of-philosophical-disagreement @ review-commit 2026-05-31T09:00:30Z
+    -- correctly minted ahead of the wider cohort this run. VERIFIED settled+clean:
+    last_deep_review==ai_modified==2026-05-31T09:00:00 (no own-body drift), clean tree,
+    NOT touched today (0 commits since 00:00), NO same-day collision, NOT archived;
+    aic=100, ai_system=claude-opus-4-6 (older model = fresh-eyes reason + citation-defect-rich
+    cohort -- scrutinize cites, do NOT assume no-op); body 2410w via analyze_length
+    = ok (topics soft 3000/hard 4000, ~590w under soft -- keep length-neutral, NOT
+    a condense candidate); dedupe clean (the only philosophical-disagreement deep-review
+    header is the checked-completed 2026-05-31 review @ ~line 6887 that SET this placeholder;
+    the slug is also merely named inside a prior floor-restore P2 note -- NO open header
+    in the Active region), NOT veto/blocked/archived; EOF artifact scan clean (References
+    self-cites Pitt 2004 PPR + Strawson 1994 Mental Reality; programmatic last-200-char
+    check negative). Tenet-5 load-bearing (felt texture of intractable philosophical
+    disagreement read as evidence Occam-simplicity is unreliable under incomplete knowledge);
+    deep-review must keep the disagreement-as-evidence wedge calibrated to what phenomenological
+    evidence licenses (phenomenology-vs-metaphysics slippage risk). EIGHT-SOURCE AUDIT
+    all OTHER sources re-confirmed exhausted of clean blind-mintable candidates (consistent
+    with run-672/673/674/675, no source-reopening change): (1 chain) today''s newest
+    research-topic PCT consumed by the expand-topic that created concepts/phenomenal-constitution-thesis.md;
+    the two other 2026-06-26 notes (pre-reflective-self-awareness, self-luminosity-svaprakasha)
+    are DECLINE files; zero un-followed completions; (2 unconsumed research) none;
+    (3 gap/caps) topics 281/320 + concepts 272/320 harvester-governed + Vetoed-dedup-blocked,
+    voids 101/100 over create-cap (irrelevant -- reviewing an EXISTING topic), positions
+    8/80 slow-add; (4 genuine-drift) broad ai_modified>last_deep_review net is cosmetic
+    June cross-touch/sync churn, none older than the 2026-05-31 settled tier; (5 length)
+    every content hard/critical offender is human-deferred/#veto/index-hub/research-note
+    -- NO clean blind-mintable condense; (6 orphan) orphaned_files=0; (7 positions)
+    8 entries < 10 audit threshold, positions-evolve ran 2026-06-22; (8 applied-apex)
+    no high-confidence cluster gap. After this mint the next floor-restore draws from
+    the next-oldest settled placeholder by review-commit time (voids/self-maintained-cognitive-limits
+    10:29, topics/delegatory-dualism 10:34, voids/disappearance-voids 10:39, voids/closure-types-void
+    14:41, concepts/universal-coupling-response 18:18, concepts/agent-teleology 19:21,
+    voids/observation-and-measurement-void 21:35, concepts/control-theoretic-will 22:00,
+    topics/consciousness-and-neurodegenerative-disease 22:11, concepts/apophatic-approaches
+    22:37, topics/indian-philosophy-of-mind 23:06); an honest NO-MINT remains acceptable
+    when no clean candidate exists. BOTTOM-inserted below the two prior floor-restore
+    Active P2s per the queue-lifo-starvation minting-placement corollary so the older
+    floor-restore P2s are not starved.'
   run_675_note: 'run no.675 (2026-06-26T~11:10Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (topics/consciousness-and-the-phenomenology-of-constraint-satisfaction.md)
     -- advancing within the 2026-05-31 PLACEHOLDER TIER, FIFO-next by review-commit
