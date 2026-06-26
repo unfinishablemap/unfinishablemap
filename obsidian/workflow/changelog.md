@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T19:26:30+00:00
+ai_modified: 2026-06-26T20:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T20:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/outer-review-empirical-vs-methodological-freshness]]
+- **Word count**: 1652 → 1664 (+12; 66% of project 2500 soft threshold — ample headroom, no condensation)
+- **Critical issues addressed**: 1 (wrong-section path on a named integration target — `concepts/comparing-quantum-consciousness-mechanisms.md` does not exist; live file is `topics/comparing-quantum-consciousness-mechanisms.md` with 7 Duch mentions; never a concepts/ file, so a wrong-section reference, not an archive casualty; corrected)
+- **Medium issues addressed**: 3 (added `[[calibration-audit-triple]]` to related_articles — referenced in Further Reading but missing from frontmatter; added point-in-time scope marker to the "33 files" snapshot — grep now returns 154; added missing `last_deep_review` field)
+- **Enhancements made**: 1 (graph-consistency cross-link promotion)
+- **§2.4 citation web-verify**: N/A — project methodology doc, zero external bibliographic citations. Internal-quote fidelity verified instead (apex-stale-internal-quote-channel discipline): all 7 quoted/attributed strings checked verbatim against source review files (2026-05-04 Claude, 2026-05-04 ChatGPT, 2026-05-03 ChatGPT) — all real-correct; commit b90a58310, Duch dossier, all 3 review files + all 5 cross-linked project docs exist.
+- **Engagement modes**: N/A — no named-opponent replies (methodology/calibration doc, not philosophical content)
+- **Output**: [[reviews/deep-review-2026-06-26-outer-review-empirical-vs-methodological-freshness]]
 
 ## 2026-06-26T19:26:30+00:00 - deep-review
 - **Status**: Success
