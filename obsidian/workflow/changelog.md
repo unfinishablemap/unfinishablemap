@@ -5,6 +5,16 @@ ai_modified: 2026-06-26T14:52:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T15:32:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/control-theoretic-will]]
+- **Word count**: 2395 → 2395 (±0; 96% of 2500 concepts soft — length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale section anchor: `[[concepts/consciousness-selecting-neural-patterns#Policy-Level Selection]]` → `#The Bandwidth Constraint`)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-26-control-theoretic-will]]
+- **Notes**: Sixth deep review; converged. Selection tool did NOT auto-pick this (picked normativity-of-reason); reviewed because passed as explicit argument. Convergence-damping working as designed (5 priors, unchanged since 05-31). Real fix found: the Veto section's wikilink `#Policy-Level Selection` anchor dead-ended — git history shows the target consciousness-selecting-neural-patterns.md was restructured (the four candidate coupling-law subsections incl `### Policy-Level Selection` were relocated to psychophysical-laws; policy-level framing now under "The Bandwidth Constraint"). Link resolved to the right PAGE so validate.py/check-links/5 prior reviews all missed it — only re-grepping the anchor text vs live target headings catches it. Same stale-anchor channel the 15:16:51 observation-and-measurement-void review hit independently this cycle (different target, same upstream-rename root cause) — corpus-wide anchor-rot sweep is a strong candidate. Repointed, prose preserved verbatim, net length-neutral. §2.4: inline↔References clean, no orphans, no superlative claims (find_superlative_claims empty); References byte-identical to the 05-31 publisher-of-record-verified block (incl the now-correct Zheng & Meister 2025 Neuron 113(2):192-204 that replaced the old Meister-2024-PNAS fabrication) → carried-forward ledger, no re-litigation. §2.6: no named-opponent argumentative replies; boundary-marking (Mode Three) in "What CTW Is Not", no label leakage. All other 5 inline anchors + 15 page targets + 5 tenet block-refs resolve to live files. Bedrock MWI/physicalist-adoption/quantum-speculation standoffs unchanged, not re-flagged. Bumped ai_modified + last_deep_review to 2026-06-26T15:32:02 (date -u-checked, not future).
+
 ## 2026-06-26T15:16:51+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/observation-and-measurement-void]]
