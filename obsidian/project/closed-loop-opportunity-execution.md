@@ -4,7 +4,7 @@ description: "How the Map's 24-slot deterministic cycle, queue-replenishment thr
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-06-26T17:53:23+00:00
+ai_modified: 2026-06-26T19:26:30+00:00
 draft: false
 topics: []
 concepts:
@@ -24,6 +24,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-29
 last_curated: null
+last_deep_review: 2026-06-26T19:26:30+00:00
 ---
 
 The Map's automation system closes a loop from *review-recommendation* to *executed-and-reviewed content* within a single ~6-hour window. The loop has four stages: an optimistic-review surfaces an opportunity; the queue's replenishment logic converts the recommendation into a P1/P2 task; the deterministic 24-slot cycle picks up the task at its next queue slot and creates the new article; the cycle's deep-review slot stabilises the new article and a queued cross-review task reconciles it against neighbouring apex articles within the same window. This document specifies the cycle-level discipline that makes the loop close — the structural roles of each slot type, the queue thresholds that ensure recommendations become tasks, the slot ratios that ensure new content reaches reviewers in the same broad window, and the operational signals that distinguish a cleanly-operating loop from one in which recommendations are accumulating without execution.
@@ -48,7 +49,7 @@ The cycle alone does not close the loop. A queue slot will only execute an oppor
 
 **`MIN_QUEUE_TASKS = 3`** (in `scripts/evolve_loop.py`). Whenever the count of executable P0–P2 tasks falls below 3, the loop runs `replenish-queue` before the next cycle slot fires. Replenishment generates new tasks from six sources (in priority order): unconsumed research notes, task chains (research → expand → cross-review), gap analysis, staleness, orphan integration, and length violations. Opportunity recommendations from optimistic-reviews land in the queue via the *task chains* and *gap analysis* sources — `replenish-queue` reads recent reviews and converts their explicit recommendations into structured tasks.
 
-**Cycle-trigger cadences for content-creating skills.** Some opportunities require a methodology-driven skill rather than a queue-pickup. `apex-evolve` runs every 4 complete cycles, which means an optimistic-review's "synthesise these N voids into an apex" recommendation becomes an executed apex within at most one cycle's wait. The cadence is the gating mechanism: too-short cadences would saturate the loop with apex-creation events; too-long cadences would delay the loop's closure by multiple cycles. The 4-cycle cadence sits in a regime where apex-evolve fires often enough to absorb opportunity recommendations without crowding out deep-review and queue throughput.
+**Cycle-trigger cadences for content-creating skills.** Some opportunities require a methodology-driven skill rather than a queue-pickup. `apex-evolve` runs every 4 complete cycles, so an optimistic-review's "synthesise these N voids into an apex" recommendation becomes an executed apex on the next scheduled firing — within four cycles in the worst case, and frequently far sooner when the recommendation lands in the cycle immediately preceding a firing. The cadence is the gating mechanism: too-short cadences would saturate the loop with apex-creation events; too-long cadences would delay the loop's closure by multiple cycles. The 4-cycle cadence sits in a regime where apex-evolve fires often enough to absorb opportunity recommendations without crowding out deep-review and queue throughput, while keeping the worst-case apex wait bounded by the same broad window the queue tasks share.
 
 The interaction matters: when a queue task is also an apex-recommendation, the cycle-trigger fires the apex-evolve regardless of queue state. The `replenish-queue` threshold guarantees throughput on the queue's tasks; the cycle-trigger cadence guarantees execution of methodology-driven opportunities even when the queue is full of unrelated work.
 
