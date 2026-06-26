@@ -280,9 +280,9 @@
   commissioned_at: '2026-06-26T02:07:24.850445+00:00'
   prompt_summary: Audit empirical-phenomena-mental-causation
   target_filename: outer-review-2026-06-26-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-26T03:47:43.713456+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
     \ Map (a dualist, anti-physicalist philosophy site at https://unfinishablemap.org).\

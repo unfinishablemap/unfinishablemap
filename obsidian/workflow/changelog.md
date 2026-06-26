@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T02:51:00+00:00
+ai_modified: 2026-06-26T03:48:45+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T03:48:45+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro (gpt-5-5-pro)
+- **File**: [[reviews/outer-review-2026-06-26-chatgpt-5-5-pro]]
+- **Subject**: topics/empirical-phenomena-mental-causation.md (recent-aged fallback subject; Claude + Gemini reviewing the same article this cycle)
+- **Verdict**: Major revision — empirical evidence supports access/control-level causal effects but the article's differentiating conclusion slides to "phenomenal character itself is doing causal work" (under-argued bridge); the site's own Evidential-Status Discipline not applied strictly here.
+- **Claims verified**: 8 target-article quotes grep-checked against live source — ALL present verbatim (no fabricated target quotes; contrast [[outer-review-fabricates-target-quotes]]). Sibling quotes (attention-as-interface, content-specificity) also verified present. External empirical citations deferred to combine-stage convergence check.
+- **High-value findings**: 6 (access/phenomenal slide; dated 1984–2002 choking citations; conjunction-independence overreach; under-treated predictive-coding rival; animal/conditioning challenge; sibling-cluster propagation) + 5 site-methodology proposals.
+- **Tasks generated**: 5 (P1: 1 — access/phenomenal slide w/ direct-refutation remit; P2: 4 — citation refresh, conjunction+rival treatment, sibling cross-review, methodology evaluation). All Status: pending; deferred until [[combine-outer-reviews]] per design.
 
 ## 2026-06-26T03:21:00+00:00 - deep-review
 - **Status**: Success (staleness re-pick; near-no-op — 1 citation page-range fix; both timestamps bumped). Orchestrator-finalized (fork monitor-wait-bailed; 14-cite ledger + 5 body-claim checks folded in).
