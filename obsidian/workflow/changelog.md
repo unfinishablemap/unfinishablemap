@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T06:23:38+00:00
+ai_modified: 2026-06-26T06:48:19+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-06-26T06:33:00+00:00 - refine-draft
+## 2026-06-26T06:48:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/empirical-phenomena-mental-causation]]
-- **Word count**: 3565 → 3976 (+411; under 4000 hard ceiling, 24 to spare)
+- **Original score**: n/a (review tool path stale — `scripts/curate.py` gone; targeted citation-currency refine, not general quality pass)
+- **Word count**: 3976 → 3998 (+22 net; under 4000 hard ceiling, 2 to spare). NO net-add of citation content achieved by replacing dated cites + dropping 2 orphan refs + trimming restatement across the article. Began at 3976 (24-word margin), peaked at 4216 after adds, trimmed back under.
+- **Task**: Currency-drift fix flagged by convergent outer reviews 2026-06-26 (chatgpt + claude; priority upgraded P2→P1). Choking side rested on 1984–2002 sources; placebo side lacked the predictive-coding rival and modern neuroimaging. See [[reviews/outer-review-synthesis-2026-06-26]].
+- **Citation 3-state web-verification** (all at publisher of record; reviewer metadata treated as lead, not truth per [[ai_citation_metadata_unreliable]]):
+  - **ADDED — Büchel, Geuter, Sprenger & Eippert (2014). Placebo analgesia: A predictive coding perspective. *Neuron* 81(6), 1223-1239.** VERIFIED real-correct (PubMed 24656247, ScienceDirect S0896627314001925; volume/issue/pages exact). This is the convergent ≥2-reviewer "missing predictive-coding rival." Cited in the new placebo predictive-coding paragraph AND named as the placebo-side independent discriminator in "What Is Established."
+  - **ADDED — Zunhammer, Spisák, Wager, Bingel & Placebo Imaging Consortium (2021). Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data. *Nature Communications* 12, 1391.** VERIFIED real-correct (DOI 10.1038/s41467-021-21179-3; 603 participants, 20 studies; small/heterogeneous reductions — accurately characterised). NB reviewer's "fMRI heterogeneity" lead correct; journal is *Nat Commun* not the reviewer-implied venue — used verified venue.
+  - **ADDED — Yu, R. (2015). Choking under pressure: the neuropsychological mechanisms of incentive-induced performance decrements. *Frontiers in Behavioral Neuroscience* 9, 19.** VERIFIED real-correct (DOI 10.3389/fnbeh.2015.00019, PMC4322702; three explanation families = distraction / explicit monitoring / over-arousal, as cited).
+  - **ADDED — Smoulder, Pavlovsky, Marino et al. (2021). Monkeys exhibit a paradoxical decrease in performance in high-stakes scenarios. *PNAS* 118(35), e2109643118.** VERIFIED real-correct (PMC8536322 as reviewer gave; DOI 10.1073/pnas.2109643118; inverted-U with jackpot, "reached too cautiously" aligns with explicit-monitoring account).
+  - **ADDED — Smoulder, Marino, Oby et al. (2024). A neural basis of choking under pressure. *Neuron* 112(20), 3424-3433.e8.** VERIFIED real-correct (DOI 10.1016/j.neuron.2024.08.012, PubMed 37090659; motor-cortex preparatory state pushed past optimal zone at high reward — as cited). Same Batista/Yu lab as the 2021 PNAS paper (coherent pair, cited together).
+  - **RECLASSIFIED — Seymour & Mathers (2024).** VERIFIED it is self-described "Hypothesis and Theory" developing "Neuroplasticity Placebo Theory" (Frontiers in Psychiatry 14, 1301143; PMC10806142). Body text corrected from "A recent review suggests" (mischaracterised as empirical) → explicitly a hypothesis paper, not confirmatory data; reference entry tagged "(Hypothesis and Theory)". Note DOI suffix is fpsyt.2023.1301143 though pub year 2024 — kept published year 2024 per PubMed.
+  - **NORMALIZED — Hróbjartsson & Gøtzsche Cochrane cite:** added the version-of-record DOI suffix `.pub3` (CD003974 → CD003974.pub3). Kept year 2010 (PubMed 20091554 / version-of-record); the reviewer's "2022, Issue 4" is a Cochrane-page re-issue artifact, not the version of record — `.pub3` is the consistent version-of-record identifier.
+  - **DROPPED (orphan refs, not cited in body — pure word savings, no content loss):** Dreyfus & Dreyfus (1986) *Mind over Machine*; Merleau-Ponty (1945/1962) *Phenomenology of Perception*.
+  - **RETAINED dated cites still load-bearing in body:** Baumeister 1984 ("building on Baumeister"), Masters 1992, Beilock & Carr 2001, Beilock et al. 2002, Tulving 1985, Levine 1978, Goebel 2002, De la Fuente-Fernández 2001 — none replaceable without losing the specific finding they anchor.
+- **Trimming** (to keep net-add ≈ 0 under the ceiling): consolidated the duplicate "Joint cost to brute-law absorption" subsection into the epiphenomenalist section; tightened restatement across intro, open-label, How-the-Two-Cases, Relation-to-Site (Dualism/MQI), Interface-Revealed, Contemplative, and the Benedetti paragraph. No argument removed.
+- **Tenet alignment**: Tenet 1 (Dualism) — preserved; the established/not-established demarcation and cost-of-accommodation framing untouched.
+- **Verification**: no EOF tool-tag artifact; no editor-vocabulary/HTML-comment-log leakage; citation cross-check clean (every cited author has a matching reference entry, no orphans); ai_modified date -u-checked (not future); last_deep_review untouched (this is a refine).
+- **Published**: yes
 - **Task**: Fix the access/phenomenal slide (convergent outer reviews 2026-06-26, chatgpt + claude — dominant convergent finding of the cycle; see [[reviews/outer-review-synthesis-2026-06-26]])
 - **Changes**:
   - Restaged the headline limit section (renamed "What These Phenomena Cannot Show" → "What Is Established and What Is Not"). The old slide sentence "These phenomena demonstrate *that* consciousness causally affects physiological processes" (was L172) is replaced by an explicit established/not-established demarcation: *established* = content- and mode-specific access-level mental causation (expectation/learning/attention/control affecting physiology + performance); *not established by these studies* = that phenomenal character is load-bearing, plus the downstream theses riding on it (dualism, agent causation, MQI). Names the missing independent discriminator (predictive-coding for placebo, attentional-reinvestment for choking both account for the access-level effects).
