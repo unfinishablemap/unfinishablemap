@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Tell someone a sugar pill is a painkiller and their brain releases real opioids; tell a Parkinson's patient an inert shot will help and their striatum releases dopamine. A refreshed article reads placebo and choking as two-sided evidence that mind moves matter.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2070419395973730683  
 **Link**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
 
 ---
