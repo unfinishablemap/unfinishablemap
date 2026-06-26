@@ -5,6 +5,12 @@ ai_modified: 2026-06-26T07:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T09:10:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Phenomenal Constitution Thesis (PCT)
+- **Output**: [[research/phenomenal-constitution-thesis-2026-06-26]]
+- **Sources consulted**: 8 (Chudnoff 2015, IEP Cognitive Phenomenology, SEP Material Constitution, SEP Self-Knowledge, Horgan & Kriegel 2007, plus grounding-physicalism leads)
+
 ## 2026-06-26T08:46:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-psychophysical-control-law]]
