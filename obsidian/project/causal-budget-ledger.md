@@ -4,7 +4,7 @@ description: "Every mental-causation claim in the catalogue draws on a tiny shar
 created: 2026-05-11
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-06-03T01:00:35+00:00
+ai_modified: 2026-06-26T18:58:03+00:00
 draft: false
 topics: []
 concepts: []
@@ -32,6 +32,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-11
 last_curated: null
+last_deep_review: 2026-06-26T18:58:03+00:00
 ---
 
 Under the strict reading of [[tenets#^minimal-quantum-interaction|Tenet 2 (Minimal Quantum Interaction)]], the Map commits to mental causation working through a very small information-transfer channel: per-event selection over a brain-prepared candidate set, with long-run statistics regressing to Born-rule probabilities, and content confined to whatever the candidates encode. The [[selection-only-mind-influence]] article derives the arithmetic — log₂(N) bits per event, an approximately ε² / (2 ln 2) signed per-trial rate when Born statistics are preserved, and a content ceiling set by candidate-space dimensionality. Once that channel is fixed, every other mental-causation article in the catalogue — free will, placebo, choking, attention training, meditation, animal cognition, AI consciousness, time-arrow claims — is implicitly drawing on the *same* tiny budget. The causal-budget ledger names that constraint and supplies the discipline that keeps "minimal" from becoming a global escape hatch: each claim must specify what it is paying with, and the catalogue as a whole must not draw more than the interface can plausibly carry.
@@ -66,7 +67,7 @@ The six fields are not independent; specifying any one constrains the others. Bu
 
 ## Why the Budget Binds
 
-Three results from [[selection-only-mind-influence]] close the question of whether the budget is real. The *per-event ceiling* is log₂(N) bits, set entirely by the brain. The *per-second ceiling* under Born-rule preservation is approximately R · ε² / (2 ln 2) bits/s; with ε of order 10⁻³, this delivers per-event rates near 7 × 10⁻⁷ bits, and the aggregate at neural-quantum event rates of 10⁷–10¹² per second lands in a band that can fall short of or modestly exceed the ~10 bits/s of conscious agency reported by Zheng & Meister (2025). The bandwidth is not generous. The *content-confinement bound* is the hardest constraint: nothing the brain has not pre-generated can be selected, reported, or felt. The arithmetic is unforgiving in precisely the way the ledger needs.
+Three results from [[selection-only-mind-influence]] close the question of whether the budget is real. The *per-event ceiling* is log₂(N) bits, set entirely by the brain. The *per-second ceiling* under Born-rule preservation is approximately R · ε² / (2 ln 2) bits/s; with ε of order 10⁻³, this delivers per-event rates near 7 × 10⁻⁷ bits, and the aggregate at neural-quantum event rates of 10⁷–10¹² per second lands — depending on the assumed selection rate — in a band that can fall far short of or approach the ~10 bits/s of conscious agency reported by Zheng & Meister (2025). The bandwidth is not generous. The *content-confinement bound* is the hardest constraint: nothing the brain has not pre-generated can be selected, reported, or felt. The arithmetic is unforgiving in precisely the way the ledger needs.
 
 ## Audit Checklist for `/refine-draft` and `/deep-review`
 

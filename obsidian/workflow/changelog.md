@@ -5,6 +5,18 @@ ai_modified: 2026-06-26T18:32:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T18:58:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/causal-budget-ledger]]
+- **Word count**: 2731 → 2739 (+8; length-neutral, soft_warning, well under 3500 hard threshold)
+- **Critical issues addressed**: 0 (well-converged first review; no factual/attribution/contradiction/link defects)
+- **Medium issues addressed**: 1 (calibration: budget-band upper-end said "modestly exceed ~10 bits/s"; source [[selection-only-mind-influence]] derives "far below or comparable to" — re-scoped to "fall far short of or approach … depending on the assumed selection rate" so the discipline does not license more bandwidth than its own source allows)
+- **Enhancements made**: 0 (length-neutral; article already densely, accurately cross-linked)
+- **§2.4 citation web-verify**: all real-correct — Han & Choi 2016 (*Sci Rep* 6, 22986) ✓; Zheng & Meister 2025 (*Neuron* 113(2):192–204) ✓; Stapp QID PDF live at cited URL ✓ (minor n.d.-vs-*Zygon*-2005 deferred for cross-article consistency); outer-review-2026-05-11 attribution faithful (§1.1+§7 supply the six fields); internal Map cites all present. No orphans, no superseded superlatives. Arithmetic mirrors source exactly.
+- **§2.6 reasoning-mode**: not an opponent-reply article (methodology doc); no label leakage; six-field schema correctly named here (the schema-defining doc) with explicit instruction that applying articles use natural prose.
+- **Cross-ref accuracy**: characterizations of [[mechanism-cost-ledger]], [[mechanism-costs-cartography]], [[concepts/epiphenomenalism]] all verified against target content.
+- **Output**: [[reviews/deep-review-2026-06-26-causal-budget-ledger]]
+
 ## 2026-06-26T18:44:33+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Cross-cultural / non-Western philosophy-of-mind cluster (the convergence-on-irreducibility strand): african-philosophy-of-consciousness, indian-philosophy-of-mind, cross-traditional-convergence-on-consciousness-irreducibility (anchor), islamic-sufi-philosophy-of-consciousness; with the-hard-problem-in-non-western-philosophy, eastern-philosophy-consciousness, interaction-problem-across-traditions consulted for topology. African + Indian anchors were deep-reviewed earlier today (16:55 / 16:36 UTC) but the cluster had no recent optimistic pass.
