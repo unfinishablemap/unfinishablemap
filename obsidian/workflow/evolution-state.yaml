@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T21:50:38.491856+00:00'
-session_count: 13584
-cycle_position: 10107
+last_updated: '2026-06-26T21:55:02.441696+00:00'
+session_count: 13585
+cycle_position: 10108
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T17:44:25.517195+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-26T02:08:22.854076+00:00'
   commission-claude-review: '2026-06-26T03:09:23.762464+00:00'
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
-  refine-draft: '2026-06-26T21:27:43.990479+00:00'
+  refine-draft: '2026-06-26T21:55:02.441696+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
   replenish-queue: '2026-06-26T21:40:11.698659+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-26'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1157,15 +1157,39 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    promotion: 1
+    staleness: 1
+  run_706_pickable_p0_p2: 3
   run_705_pickable_p0_p2: 3
   run_704_pickable_p0_p2: 3
   run_703_pickable_p0_p2: 3
   run_702_pickable_p0_p2: 3
   run_701_pickable_p0_p2: 3
-  last_replenishment_run: 705
-  last_replenishment: '2026-06-26T23:30:00+00:00'
+  last_replenishment_run: 706
+  last_replenishment: '2026-06-26T23:45:00+00:00'
   last_replenishment_mode: standard
+  run_706_note: 'run no.706 (2026-06-26): FLOOR-RESTORING MINT (Source 4 staleness).
+    Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
+    run live (the two run-690 project floor-restores voids-safety-protocol + human-supervision
+    remain pending; the run-705 promotion was consumed/completed this cycle -- documented
+    replenish-at-floor alternation unfin_loop_steady_state, NOT the empty-queue deadlock).
+    MIN_QUEUE floor 3 unmet by 1; this single mint restores 2->3 (post-mint count_p0_p2_tasks==3
+    verified live). Project-tier never-reviewed + 38d-settled frontier is now DRAINED
+    by today''s wave, so staleness returns to the 2026-06-01 placeholder tier: minted
+    a deep-review of topics/phenomenology-of-imagination.md (25d, aic=100, ai_system=claude-opus-4-7,
+    settled last_deep_review==ai_modified==2026-06-01T10:02:27, body 2591w ok, EOF-clean,
+    not touched today, no same-day collision, not archived/vetoed, no open duplicate
+    header) -- the FIFO-earliest (review-commit 10:03:51) clean settled candidate in
+    that tier. Eight-source audit orchestrator-reverified live (replenish-false-exhaustion-mislabeled-drift):
+    (1) chains consumed; (2) no unconsumed research -- all 7 recent named subjects
+    (ai-hardware-substrate-taxonomy, argument-from-mechanism, instrumental-convergence,
+    many-minds-interpretation, simulation-theory-of-memory, standing-agnostic-challenge,
+    phenomenal-concept-strategy) verified consumed by live articles, the two 2026-06-26
+    notes are DECLINE outcomes; (3) gap/caps topics 281/320 concepts 272/320 voids
+    101/100 OVER positions 8/80; (4) orphans=0; (5) length -- every hard/critical offender
+    veto/accept-as-survey/human-deferred/index-hub/calibration-protected-flagship; (6)
+    positions 8<10 audit threshold; (7) applied-apex 3 exist no cluster gap; (8) staleness
+    the live source. BOTTOM-inserted per queue-lifo-starvation so the older FIFO-prior
+    38d-settled pair drains first.'
   run_705_note: 'run no.705 (2026-06-26): FLOOR-RESTORING PROMOTION, not a mint. Pre-run
     count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live (the two run-690 floor-restores project/voids-safety-protocol + project/human-supervision
