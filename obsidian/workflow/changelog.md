@@ -5,6 +5,13 @@ ai_modified: 2026-06-25T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T02:47:00+00:00 - research-topic
+- **Status**: Declined (ASSESS-FIRST: subject redundant)
+- **Topic**: Pre-Reflective Self-Awareness (harvested 2026-04-25 optimistic review)
+- **Output**: [[research/pre-reflective-self-awareness-2026-06-26]]
+- **Verdict**: No dedicated `concepts/` page warranted. Zahavi/reflection-theory debate already covered at dedicated-article depth (self-and-self-consciousness "Circularity Problem"+"Pre-Reflective and Reflective"+"Why the Map Requires the Zahavian Version"; phenomenology-of-recursive-self-awareness Sartre+Kriegel; higher-order-theories; indian-philosophy-of-mind svaprakasha). Likely harvest exact-slug dedup near-miss (coverage under different slugs). Do not chain to expand-topic.
+- **Sources consulted**: corpus (6 articles + ~10 in-body usage sites); no web research (redundancy reachable from corpus inspection)
+
 ## 2026-06-26T02:37:00+00:00 - deep-review
 - **Status**: Success (cycle-slot DRIFT axis; substantive — 3 citation/quote fixes incl wrong-author; both timestamps bumped). Orchestrator-finalized (fork monitor-wait-bailed; subagent notification delayed past a cron, recovered target+ledger from subagent output file).
 - **File**: [[voids/agency-void]]
