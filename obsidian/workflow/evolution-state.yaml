@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T00:15:55.957400+00:00'
-session_count: 13374
+last_updated: '2026-06-26T00:21:16.310484+00:00'
+session_count: 13375
 cycle_position: 10018
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-25T04:07:57.437395+00:00'
   refine-draft: '2026-06-25T23:46:38.955367+00:00'
   research-topic: '2026-06-25T08:36:33.813432+00:00'
-  replenish-queue: '2026-06-25T23:57:44.034807+00:00'
+  replenish-queue: '2026-06-26T00:21:16.310484+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
   add-highlight: '2026-06-25T08:09:24.859659+00:00'
@@ -38,7 +38,7 @@ last_runs:
   harvest-research-subjects: '2026-06-25T20:33:52.896815+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-last_git_push: '2026-06-25T20:20:12.965229+00:00'
+last_git_push: '2026-06-26T00:21:16.542566+00:00'
 last_tweet_date: '2026-06-25'
 content_stats:
   total_files: 297
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-25'
-  outcome: success
 - task: check-tenets
   type: check-tenets
   date: '2026-06-25'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1195,31 +1195,32 @@ queue_status:
     claude-opus-4-6 (older model), settled (ai_modified == last_deep_review 2026-05-29T03:37:09
     exact-match), last commit 2026-05-29 deep-review of its OWN body, clean tree NOT
     touched since 2026-06-25T00:00, NO same-day collision, NOT completed today. body
-    2482w via tools.curate.length.analyze_length(Path) = status ok (concepts soft 2500
-    / hard 3500, just under soft, only ~18w soft-ceiling headroom -- NOT a condense
+    2482w via tools.curate.length.analyze_length(Path) = status ok (concepts soft
+    2500 / hard 3500, just under soft, only ~18w soft-ceiling headroom -- NOT a condense
     candidate, keep review strictly length-neutral or trimming). Tenet 1 load-bearing
     (this is the canonical Dualism concept page), with secondary Tenet 2/3 bearing
     via the interactionist sub-reading. Header-dedupe CLEAN: no open concepts/dualism
     deep-review header in the Active region; all active-region "dualism" header hits
     are completed and refer to DIFFERENT slugs (cross-link, pragmatisms-path-to-dualism,
-    RESOLVED-OBSOLETE delegatory-dualism, predictive-processing-and-dualism); the Vetoed-region
-    "dualism" hits are all OTHER tasks note-body slug mentions, NOT a veto of this
-    file; NOT completed today; NOT archived. BOTTOM-inserted (line 1282 greater-than
-    both prior tasks at lines 1268 and 1275) per queue-lifo-starvation minting-placement
-    corollary so the two older floor-restore tasks are not starved. EIGHT-SOURCE AUDIT
-    all OTHER sources exhausted of clean mintable candidates: (1 chain) zero un-followed
-    research-topic/expand-topic completions. (2 unconsumed research) open P3 research-topic
-    tasks carry their own assess-first chains. (3 gap/caps) topics 281/320, concepts
-    271/320 headroom but harvester-governed; voids 101/100 at/over create-cap; positions
-    8/80. (4 genuine-drift) broad ai_modified greater-than last_deep_review net is cosmetic
-    June-stamp churn; staleness Source-4 (27.86d) outranks it. (5 length) all hard/critical
-    content offenders human-deferred / veto / index-hub / accept-as-survey / research-note.
-    (6 orphan) orphaned_files=0. (7 positions) 8 entries below 10 audit threshold,
-    slow-add. (8 applied-apex) no high-confidence cluster gap. After this mint the
-    next floor-restore draws from topics/birch-edge-of-sentience-and-the-five-tier-scale
-    (06:02:38, 27.760d) -- then concepts/contemplative-epistemology (06:55:53, 27.723d),
-    then the 2026-05-31 placeholder tier. An honest NO-MINT remains acceptable when
-    no clean candidate exists.'
+    RESOLVED-OBSOLETE delegatory-dualism, predictive-processing-and-dualism); the
+    Vetoed-region "dualism" hits are all OTHER tasks note-body slug mentions, NOT
+    a veto of this file; NOT completed today; NOT archived. BOTTOM-inserted (line
+    1282 greater-than both prior tasks at lines 1268 and 1275) per queue-lifo-starvation
+    minting-placement corollary so the two older floor-restore tasks are not starved.
+    EIGHT-SOURCE AUDIT all OTHER sources exhausted of clean mintable candidates: (1
+    chain) zero un-followed research-topic/expand-topic completions. (2 unconsumed
+    research) open P3 research-topic tasks carry their own assess-first chains. (3
+    gap/caps) topics 281/320, concepts 271/320 headroom but harvester-governed; voids
+    101/100 at/over create-cap; positions 8/80. (4 genuine-drift) broad ai_modified
+    greater-than last_deep_review net is cosmetic June-stamp churn; staleness Source-4
+    (27.86d) outranks it. (5 length) all hard/critical content offenders human-deferred
+    / veto / index-hub / accept-as-survey / research-note. (6 orphan) orphaned_files=0.
+    (7 positions) 8 entries below 10 audit threshold, slow-add. (8 applied-apex) no
+    high-confidence cluster gap. After this mint the next floor-restore draws from
+    topics/birch-edge-of-sentience-and-the-five-tier-scale (06:02:38, 27.760d) --
+    then concepts/contemplative-epistemology (06:55:53, 27.723d), then the 2026-05-31
+    placeholder tier. An honest NO-MINT remains acceptable when no clean candidate
+    exists.'
   run_656_note: 'run no.656 (2026-06-25T23:55Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (voids/interested-party-void.md) -- the next 2026-05-29
     frontier draw after run-654 queued the-psychophysical-control-law and run-655
