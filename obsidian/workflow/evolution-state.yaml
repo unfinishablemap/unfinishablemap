@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T12:34:38.715006+00:00'
-session_count: 13491
+last_updated: '2026-06-26T12:36:53.348534+00:00'
+session_count: 13492
 cycle_position: 10064
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-26T06:26:17.335769+00:00'
   collect-gemini-review: '2026-06-26T06:13:53.776272+00:00'
   positions-evolve: '2026-06-22T06:20:53.964896+00:00'
-  check-model-fallback: '2026-06-26T08:33:45.909493+00:00'
+  check-model-fallback: '2026-06-26T12:36:53.348534+00:00'
   harvest-research-subjects: '2026-06-26T08:50:54.073426+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-26'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1163,9 +1163,51 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 677
-  last_replenishment: '2026-06-26T11:50:00+00:00'
+  last_replenishment_run: 678
+  last_replenishment: '2026-06-26T12:15:00+00:00'
   last_replenishment_mode: standard
+  run_678_note: 'run no.678 (2026-06-26T~12:15Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (topics/delegatory-dualism.md) -- advancing within the
+    2026-05-31 PLACEHOLDER TIER, FIFO-next by review-commit time (10:34:59, after
+    run-676''s philosophical-disagreement @ 09:00 and run-677''s self-maintained-cognitive-limits
+    @ 10:29; clean FIFO gap verified -- the only deep-review commit between 10:29 and
+    10:34 is self-maintained''s own stamp). Authoritative pre-mint open executable
+    P0-P2 = 2 via count_p0_p2_tasks(content) (the run-676/677 floor-restore P2 deep-reviews,
+    both re-verified open + clean; a cycle slot consumed an earlier floor-restore --
+    documented replenish-at-floor alternation [[unfin_loop_steady_state]], NOT the
+    empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores 2->3 (post-mint
+    count_p0_p2_tasks==3 verified live). SOURCE = staleness (Source 4). VERIFIED settled+clean:
+    last_deep_review==ai_modified==2026-05-31T08:30:00 (no own-body drift), last commit
+    f0bd95e3f (2026-05-31T10:34:59Z auto(deep-review): cycle) is its OWN stamp-setting
+    deep-review, clean tree, NOT touched today (0 commits since 00:00), NO same-day
+    collision, NOT archived; aic=100, ai_system=claude-opus-4-5 (older model = fresh-eyes
+    reason + citation-defect-rich cohort, scrutinize cites -- esp. the load-bearing
+    Bradford Saad 2025 delegatory-dualism primary source + Chalmers 1996 + Kim 2005);
+    body 3827w via analyze_length = soft_warning (topics soft 3000/hard 4000, ~173w
+    under hard -- keep length-neutral, NOT a condense candidate); dedupe clean (every
+    delegatory-dualism deep-review/condense/refine header is done -- the RESOLVED-OBSOLETE
+    2026-06-02 review, the 2026-06-03 calibration-preserving condense, the 2026-05-25/26
+    calibration refines); NOT veto/blocked/archived; EOF artifact scan clean (References
+    self-cites Chalmers 1996 + Kim 2005). Tenet 1/3 load-bearing (delegatory causation
+    = candidate no-overdetermination route for consciousness->physical influence); keep
+    the delegation framing as a contested theoretical proposal, NOT established mechanism
+    ([[evidential-status-discipline]]). EIGHT-SOURCE AUDIT all OTHER sources re-confirmed
+    exhausted (consistent with runs 674-677): (1 chain) zero un-followed research-topic/expand-topic/cross-review
+    completions (today''s PCT research-topic consumed by the expand creating concepts/phenomenal-constitution-thesis.md;
+    pre-reflective-self-awareness + self-luminosity-svaprakasha are DECLINE files);
+    (2 unconsumed research) none; (3 gap/caps) topics 281/320 + concepts 272/320 harvester-governed
+    (harvester last ran 08:50, next ~14:50) + Vetoed-dedup-blocked, voids 101/100 over
+    create-cap, positions 8/80 slow-add; (4 genuine-drift) broad ai_modified>last_deep_review
+    net is predominantly cosmetic June cross-touch/sync churn, none older than the 2026-05-31
+    placeholder tier; (5 length) every content hard/critical offender is human-deferred/#veto/index-hub/research-note
+    -- NO clean blind-mintable condense; (6 orphan) orphaned_files=0; (7 positions)
+    8 entries < 10 audit threshold, positions-evolve ran 2026-06-22; (8 applied-apex)
+    no high-confidence cluster gap. After this mint the next floor-restore draws from
+    the next-oldest settled placeholder by review-commit time (voids/disappearance-voids
+    10:39, voids/closure-types-void 14:41, concepts/universal-coupling-response 18:18,
+    ...); an honest NO-MINT remains acceptable when no clean candidate exists. BOTTOM-inserted
+    below the two prior floor-restore Active P2s per the queue-lifo-starvation minting-placement
+    corollary so the older floor-restore P2s are not starved.'
   run_677_note: 'run no.677 (2026-06-26T~11:50Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (voids/self-maintained-cognitive-limits.md) -- advancing
     within the 2026-05-31 PLACEHOLDER TIER, FIFO-next by review-commit time (10:29:17,
