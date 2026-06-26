@@ -5,6 +5,12 @@ ai_modified: 2026-06-26T11:18:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T11:45:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-and-testimony]] (3566w; never previously dedicated-pessimistic-reviewed; last deep-review 2026-06-01, oldest of the older-content candidate set)
+- **Findings**: Citations verify clean at publisher of record (Schwitzgebel 2008 *Phil Review* 117(2) 245–273; Dennett 2003 *JCS* 10(9–10) 19–30) + Wegener history accurate/hedged — defects are argumentative not factual. 3 medium issues: epistemic→metaphysical equivocation in the methodology section (premises epistemic, tenet-support claim metaphysical, bridge missing); unargued "purely functional system couldn't do genuine testimony" premise that silently ignores LLMs on an LLM-first site; eliminativist self-refutation overreaches (thick/deflated "testimony" equivocation). Altered-state symmetry audit N/A (no filter framing); no label-leakage; over-hedged not over-strong. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-26-consciousness-and-testimony]]
+
 ## 2026-06-26T11:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/physical-completeness]]
