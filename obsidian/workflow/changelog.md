@@ -5,6 +5,16 @@ ai_modified: 2026-06-26T12:52:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T13:55:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-neurodegenerative-disease]]
+- **Word count**: 2737 → 2958 (+221; under 3000 soft threshold; length-neutral trims applied to offset currency additions)
+- **Critical issues addressed**: 2 — (1) empirical-record currency drift: the article's terminal/paradoxical-lucidity evidence base was framed as "anecdotal, no prospective studies, conditional on FUTURE prospective research," but the 2024–2026 literature has overtaken that (Karlawish 2024 prospective caregiver study; Tollock/Parnia 2025 multi-site prospective cohort, 61.6% lucidity; Levin 2026 population survey, 43.6% prevalence). Calibrated update across 3 passages: prospective documentation now exists and episodes are common, BUT mostly brief and NOT yet paired with post-mortem substrate measurement, so the core "cognition exceeds residual capacity?" puzzle is "documented but unresolved." Added new ref [6] Karlawish et al. 2024 Gerontologist 64(6) gnad170. (2) orphan citation [3] Tulving (1985) — present in References, cited nowhere inline across ≥6 commits, missed by all 4 prior deep reviews; repaired by inline attachment at the autonoetic-consciousness passage (Tulving's canonical trichotomy source).
+- **Medium issues addressed**: 0 new
+- **Enhancements made**: currency update of lucidity evidence base (3 passages) + new prospective ref [6]; orphan [3] repaired; length-neutral trims (decorative example-triple, disconfirmer #1, lucidity paragraph) to keep under soft threshold.
+- **Notes**: 5th deep review; opus-4-6 creation-stamp but 2026-05-31 (opus-4-8) pass had web-verified the 5 static cites clean — those NOT re-litigated (stable-References skip). The live thread was the lucidity *currency*, which is a separate channel and had genuinely drifted. This is empirical-record-currency drift (correct framing the world moved past), NOT fabrication and NOT bedrock disagreement — a tenet-accepting reviewer would still flag the stale "no prospective studies" claim. Update does NOT inflate evidence (strong dualist reading still explicitly conditional on absent substrate-correlation). Hygiene clean: EOF, no tool-tag, no dup keys, no "This is not X. It is Y." cliché, all wikilinks resolve to LIVE targets ([[interactionist-dualism]]→live concept not the archive copy; [[epiphenomenalism]]→live; 5 tenet sub-anchors canonical), no superlative-helper matches. All 6 refs now 1:1 inline↔References (no orphans either direction). Real body fix → both ai_modified + last_deep_review bumped to 2026-06-26T13:55:24Z (date -u-checked, not future).
+- **Output**: [[reviews/deep-review-2026-06-26-consciousness-and-neurodegenerative-disease]]
+
 ## 2026-06-26T13:44:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
