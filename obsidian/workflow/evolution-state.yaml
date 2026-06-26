@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T10:21:05.270259+00:00'
-session_count: 13471
+last_updated: '2026-06-26T10:25:45.689442+00:00'
+session_count: 13472
 cycle_position: 10054
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
   refine-draft: '2026-06-26T08:46:29.023316+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
-  replenish-queue: '2026-06-26T10:14:10.819723+00:00'
+  replenish-queue: '2026-06-26T10:25:45.689442+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-26T09:20:08.404604+00:00'
   add-highlight: '2026-06-26T08:13:09.692399+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-26'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1167,41 +1167,42 @@ queue_status:
   last_replenishment_run: 672
   last_replenishment: '2026-06-26T10:25:00+00:00'
   last_replenishment_mode: standard
-  run_672_note: 'run no.672 (2026-06-26T~10:25Z): GENUINE FLOOR-RESTORING MINT of 1
-    staleness deep-review (concepts/idealism.md) -- advancing within the 2026-05-31
+  run_672_note: 'run no.672 (2026-06-26T~10:25Z): GENUINE FLOOR-RESTORING MINT of
+    1 staleness deep-review (concepts/idealism.md) -- advancing within the 2026-05-31
     PLACEHOLDER TIER, FIFO-next after the run-670 phenomenology-of-cognitive-capacity
     (review-commit 19:40:20) + run-671 phenomenal-quality-void (20:27:03) mints. Authoritative
     pre-mint open executable P0-P2 = 2 via count_p0_p2_tasks(content) (run live: the
-    run-670 phenomenology-of-cognitive-capacity + run-671 phenomenal-quality-void staleness
-    deep-reviews, both re-verified open Status pending; the run-671 mint that briefly
-    restored 3 fell back to 2 as an intervening cycle slot consumed the scientific-revolutions
-    deep-review, commit 1816ec4e5 -- documented replenish-at-floor alternation, NOT
-    the empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1; this mint restores 2 to
-    3 (post-mint count_p0_p2_tasks==3 verified). SOURCE = staleness (Source 4). concepts/idealism
-    @ review-commit b8ef0f0b 2026-05-31T21:54:39 is the FIFO-next genuinely-unqueued
-    settled placeholder candidate. VERIFIED settled+clean: last_deep_review==ai_modified==2026-05-31T00:00:00
-    exact placeholder, clean tree, NOT touched today (0 commits since 00:00), NO same-day
-    collision, NOT in the 2026-06-26 review wave; aic=100, ai_system=claude-opus-4-6
-    (older model = fresh-eyes reason + citation-defect-rich cohort -- scrutinize cites,
-    do NOT assume no-op); body 2911w via analyze_length = soft_warning (concepts soft
-    2500/hard 3500, ~589w under hard, just over soft -- keep length-neutral, NOT a
-    condense candidate); dedupe clean (header hits NAME the slug as a cross-link/rival-framework
-    reference inside OTHER tasks'' notes only -- analytic-idealism, idealism-parity-trilemma,
-    rival-prediction lists -- NOT a deep-review header for concepts/idealism.md), NOT
-    veto/blocked/archived (fs-confirmed no archive/concepts/idealism.md); EOF artifact
-    scan clean (References self-cites Goff 2017 + Nagarjuna/Garfield 1995). EIGHT-SOURCE
-    AUDIT all OTHER sources re-confirmed exhausted of clean blind-mintable candidates
-    (consistent with run-671 minutes prior, no source-reopening change): (1 chain)
-    today''s newest research-topic PCT consumed by the expand-topic that created concepts/phenomenal-constitution-thesis.md
+    run-670 phenomenology-of-cognitive-capacity + run-671 phenomenal-quality-void
+    staleness deep-reviews, both re-verified open Status pending; the run-671 mint
+    that briefly restored 3 fell back to 2 as an intervening cycle slot consumed the
+    scientific-revolutions deep-review, commit 1816ec4e5 -- documented replenish-at-floor
+    alternation, NOT the empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1; this
+    mint restores 2 to 3 (post-mint count_p0_p2_tasks==3 verified). SOURCE = staleness
+    (Source 4). concepts/idealism @ review-commit b8ef0f0b 2026-05-31T21:54:39 is
+    the FIFO-next genuinely-unqueued settled placeholder candidate. VERIFIED settled+clean:
+    last_deep_review==ai_modified==2026-05-31T00:00:00 exact placeholder, clean tree,
+    NOT touched today (0 commits since 00:00), NO same-day collision, NOT in the 2026-06-26
+    review wave; aic=100, ai_system=claude-opus-4-6 (older model = fresh-eyes reason
+    + citation-defect-rich cohort -- scrutinize cites, do NOT assume no-op); body
+    2911w via analyze_length = soft_warning (concepts soft 2500/hard 3500, ~589w under
+    hard, just over soft -- keep length-neutral, NOT a condense candidate); dedupe
+    clean (header hits NAME the slug as a cross-link/rival-framework reference inside
+    OTHER tasks'' notes only -- analytic-idealism, idealism-parity-trilemma, rival-prediction
+    lists -- NOT a deep-review header for concepts/idealism.md), NOT veto/blocked/archived
+    (fs-confirmed no archive/concepts/idealism.md); EOF artifact scan clean (References
+    self-cites Goff 2017 + Nagarjuna/Garfield 1995). EIGHT-SOURCE AUDIT all OTHER
+    sources re-confirmed exhausted of clean blind-mintable candidates (consistent
+    with run-671 minutes prior, no source-reopening change): (1 chain) today''s newest
+    research-topic PCT consumed by the expand-topic that created concepts/phenomenal-constitution-thesis.md
     (fs-confirmed); the two other 2026-06-26 notes (pre-reflective-self-awareness,
     self-luminosity-svaprakasha) are DECLINE files (verdict-verified); zero un-followed
     completions; (2 unconsumed research) none; (3 gap/caps) topics 281/320 + concepts
     272/320 harvester-governed + Vetoed-dedup-blocked, voids 101/100 over create-cap
     (irrelevant -- reviewing an existing concept), positions 8/80 slow-add; (4 genuine-drift)
-    cosmetic June cross-touch churn only, staleness ~26d outranks; (5 length) all hard/critical
-    offenders human-deferred/veto/index-hub/research-note; (6 orphan) orphaned_files=0;
-    (7 positions) 8<10 audit threshold, last audit 2026-06-22; (8 applied-apex) no
-    high-confidence cluster gap. Next floor-restore draws from topics/consciousness-epistemology-extended-cognition
+    cosmetic June cross-touch churn only, staleness ~26d outranks; (5 length) all
+    hard/critical offenders human-deferred/veto/index-hub/research-note; (6 orphan)
+    orphaned_files=0; (7 positions) 8<10 audit threshold, last audit 2026-06-22; (8
+    applied-apex) no high-confidence cluster gap. Next floor-restore draws from topics/consciousness-epistemology-extended-cognition
     (review-commit 22:27:13), same placeholder tier, FIFO by review-commit time. BOTTOM-inserted
     below the two prior floor-restore Active P2s per the queue-lifo-starvation minting-placement
     corollary. An honest NO-MINT remains acceptable when no clean candidate exists.'

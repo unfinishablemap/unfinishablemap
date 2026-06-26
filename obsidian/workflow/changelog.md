@@ -5,6 +5,19 @@ ai_modified: 2026-06-26T07:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T10:27:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-cognitive-capacity]]
+- **Word count**: 2617 → 2617 (no change; body byte-identical to converged 2026-05-31 state)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth pass; converged no-op after full scrutiny — `last_deep_review` bumped only, `ai_modified` left at settled 2026-05-31)
+- **Citation fabrication-zone (orchestrator directive)**: N/A — none of the fabrication-prone cognitive-phenomenology cluster (Pitt/Strawson/Bayne-Montague/Chudnoff/Husserl) is cited; the ten cites are all empirical WM/skill literature, live-publisher-verified 2026-05-31, body unchanged since
+- **Currency sweep**: no superlative claims (Miller→Cowan revision framed historically)
+- **Calibration**: no possibility/probability slippage; cognitive-phenomenology claims held at constitutive/phenomenological-report tier, not upgraded to mechanism
+- **PCT integration**: declined — [[phenomenal-constitution-thesis]] (new this session) is about constitution of thought-content, not load-bearing in this capacity/bandwidth article; not forced per steering
+- **Output**: [[reviews/deep-review-2026-06-26-phenomenology-of-cognitive-capacity]]
+
 ## 2026-06-26T10:15:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-structure-of-scientific-revolutions]]
