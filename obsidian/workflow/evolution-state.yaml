@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T07:42:05.016465+00:00'
-session_count: 13445
-cycle_position: 10041
+last_updated: '2026-06-26T07:49:20.917700+00:00'
+session_count: 13446
+cycle_position: 10042
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T06:56:02.508035+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-26T02:08:22.854076+00:00'
   commission-claude-review: '2026-06-26T03:09:23.762464+00:00'
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
-  refine-draft: '2026-06-26T07:21:04.580925+00:00'
+  refine-draft: '2026-06-26T07:49:20.917700+00:00'
   research-topic: '2026-06-26T02:53:08.164129+00:00'
   replenish-queue: '2026-06-26T03:15:53.114627+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-26'
-  outcome: success
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-26'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1154,14 +1154,14 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 33
+  p2_tasks: 3
   p3_tasks: 9
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 664
-  last_replenishment: '2026-06-26T03:12:00+00:00'
+  last_replenishment_run: 665
+  last_replenishment: '2026-06-26T07:55:00+00:00'
   last_replenishment_mode: standard
   run_662_note: 'run no.662 (2026-06-26T02:00Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/trumping-preemption.md) -- advancing within the
@@ -1347,6 +1347,62 @@ queue_status:
     (17:01:42), within the same 2026-05-31 placeholder tier, FIFO-ordered, tie broken
     by review-commit time. An honest NO-MINT remains acceptable when no clean candidate
     exists.'
+  run_665_note: 'run no.665 (2026-06-26T07:55Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (voids/emotional-epistemology-void.md) -- advancing within
+    the 2026-05-31 PLACEHOLDER TIER now that the three earlier-review-commit picks
+    (concepts/trumping-preemption 09:57:27, voids/transformative-experience-void 10:25:02,
+    concepts/valence 13:43:48) were ALL deep-reviewed today (git-confirmed last_deep_review
+    now 2026-06-26). Authoritative pre-mint open executable P0-P2 = 2 via count_p0_p2_tasks
+    (the placebo cross-review empirical-phenomena-mental-causation/predictive-processing-and-dualism
+    from the 2026-06-26 outer-review synthesis + the Chalmers->Schaffer t-shirt-problem
+    refine from the 2026-06-26 pessimistic review -- both NOT outer-review-deferred,
+    synthesis-2026-06-26 exists and cycle resolved; P3s do not count). MIN_QUEUE floor
+    3 unmet by 1; this restores 2->3 (expected replenish-at-floor alternation, NOT
+    the empty-queue deadlock). SOURCE = staleness (Source 4). FRESH from-disk all-content-section
+    scan THIS RUN (topics/concepts/voids/apex/questions/arguments/tenets; reviews+positions
+    excluded) keyed on last_deep_review==2026-05-31T00:00:00 + settled (ai_modified==last_deep_review,
+    no own-body drift) + aic>50 + draft false: 8 settled placeholder candidates remain,
+    FIFO-ordered by the auto(deep-review) review-commit time that set the stamp --
+    voids/emotional-epistemology-void @ 15:22:18 is the EARLIEST genuinely-unqueued
+    one (next: hoel-llm 17:01:42, anesthesia-void 17:06:42, scientific-revolutions
+    18:02:59, phenomenology-of-cognitive-capacity 19:40:20, phenomenal-quality-void
+    20:27:03, idealism 21:54:39, consciousness-epistemology-extended-cognition 22:27:13)
+    -- exactly as the run_664_note predicted. Target settled+clean: last_deep_review==ai_modified==2026-05-31T00:00:00
+    exact placeholder, last commit 2026-05-31T15:22:18 is its OWN stamp-setting deep-review,
+    clean tree, NOT touched today, NO same-day collision, NOT in the 2026-06-26 wave.
+    ai_contribution=100, ai_system claude-opus-4-7 (older model = fresh-eyes reason).
+    body 1764w via analyze_length = status ok (voids soft 2000/hard 3000/critical 4000;
+    WELL under soft ~236w headroom -- NOT a condense candidate, keep length-neutral-to-trimming).
+    Reviews an EXISTING void (NOT a new void) so the voids-OVER-cap exclusion (101/100)
+    does NOT apply -- cap-safe. Dedupe CLEAN: zero open emotional-epistemology-void
+    deep-review HEADER in the Active region; only note-body cross-link refs; NOT veto/blocked;
+    NOT archived. EOF tool-tag artifact scan clean (grep=0). LONG-CONVERGED placeholder
+    -- metadata-only/near-no-op verdict acceptable+expected, do NOT over-hedge. Tenet
+    5 load-bearing (Occam''s Razor Has Limits -- emotional/affective knowing as cartographic
+    dark space), secondary Tenet 1. EIGHT-SOURCE AUDIT all OTHER sources re-confirmed
+    exhausted of clean blind-mintable candidates: (1 chain) the two newest research-topic
+    completions (2026-06-24 many-minds + phenomenal-concept-strategy) BOTH already consumed
+    -- topics/many-minds-interpretation.md created+deep-reviewed 2026-06-24 from the
+    note, and the PCS currency note''s two flagged refines (Carruthers-Veillet equivocation
+    reply + soften shows-it-fails framing) already present in BOTH concepts/phenomenal-concepts-strategy.md
+    and topics/phenomenal-concepts-as-materialist-response.md (grep-confirmed, refined
+    2026-06-24); zero un-followed completions. (2 unconsumed research) none. (3 gap/caps)
+    topics 281/320, concepts 271/320 harvester-governed (next harvest ~08:43Z) + Vetoed-dedup-blocked;
+    voids 101/100 at create-cap; positions 8/80. (4 genuine-drift) broad ai_modified>last_deep_review
+    net is cosmetic June cross-touch churn, none older than the placeholder tier; staleness
+    ~26.1d outranks. (5 length) every content hard/critical offender human-deferred
+    (epistemology-of-convergence DIVERTED, born-rule HUMAN-DECISION, qm-interpretations-beyond-many-worlds
+    DIVERTED flagship survey, clinical-dissociation DIVERTED, time-collapse churn-trap)
+    / #veto (phenomenal-output-causal-machinery-dissociation, composition-question-rivals
+    accept-as-survey) / index hub (apex-articles) / research-note -- NO clean blind-mintable
+    condense (chronic-churn born-rule/epistemology-of-convergence/introspection-architecture
+    explicitly excluded). (6 orphan) orphaned_files=0. (7 positions) 8<10 audit threshold,
+    positions-evolve ran 2026-06-22, slow-add. (8 applied-apex) no high-confidence cluster
+    gap. After this mint the next floor-restore draws from topics/hoel-llm-consciousness-continual-learning
+    (review-commit 17:01:42), then voids/anesthesia-void (17:06:42), within the same
+    2026-05-31 placeholder tier, FIFO-ordered by review-commit time. BOTTOM-inserted
+    per the queue-lifo-starvation minting-placement corollary. An honest NO-MINT remains
+    acceptable when no clean candidate exists.'
   run_661_note: 'run no.661 (2026-06-26T01:45Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (concepts/presence-type-and-absence-type-voids.md) -- advancing
     within the 2026-05-31 PLACEHOLDER TIER now that the 2026-05-29 frontier is drained
