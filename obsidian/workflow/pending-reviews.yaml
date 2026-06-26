@@ -329,3 +329,42 @@
   subject_articles:
   - topics/empirical-phenomena-mental-causation.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-26-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/5c62ade83aa35d63
+  commissioned_at: '2026-06-26T04:10:44.557314+00:00'
+  prompt_summary: Hostile referee audit of empirical-phenomena-mental-causation (placebo/choking)
+  target_filename: outer-review-2026-06-26-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/
+    (recent changes logged at https://unfinishablemap.org/workflow/changelog/, since
+    web-search indexing lags 24-48h); it argues that placebo effects and the choking-under-pressure
+    phenomenon together form a two-sided empirical case for mental causation that
+    constrains epiphenomenalism. The site argues for a non-reductive view of consciousness.
+    Do not describe the site''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure; those are project-internal and not
+    the subject of audit. Assess only the article''s empirical claims, citations,
+    counterargument coverage, and logical inferences. Discover its commitments by
+    reading it; do not pre-frame the article as a useful testbed for any theory. Audit:
+    (a) empirical accuracy against the 2020s placebo-neurobiology, expectancy, and
+    motor-skill-choking literature; (b) results it leans on that have been challenged,
+    retracted, or failed replication; (c) places where a framing is quietly bracketed
+    by a metaphysical assumption rather than argued, especially whether the data admit
+    deflationary physicalist readings; (d) untested counterarguments or competing
+    frameworks it dismisses too quickly. End your report with at least five specific
+    weaknesses. For each, cite at least one peer-reviewed source from 2020-2025 that
+    the article omits, contradicts, or mishandles. If you cannot find five, state
+    explicitly why none are visible - but the default expectation is that a careful
+    pre-publication audit of a contemporary topic finds five. End with a one-sentence
+    verdict on academic-submission readiness. Do not append summary praise or any
+    closing summary of the site''s strengths, methodology, or architecture.'
+  subject_type: recent
+  subject_title: Audit empirical-phenomena-mental-causation
+  subject_articles:
+  - topics/empirical-phenomena-mental-causation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-26-chatgpt-5-5-pro.md
