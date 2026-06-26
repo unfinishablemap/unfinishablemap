@@ -5,6 +5,16 @@ ai_modified: 2026-06-26T12:52:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T13:44:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Word count**: 4043 → 3997 (-46; length-neutral condense, back under 4000 hard cap → soft_warning)
+- **Critical issues addressed**: 0 (none found after full scrutiny)
+- **Medium issues addressed**: 1 (over the 4000 hard cap — resolved via redundancy trim)
+- **Enhancements made**: 4 length-neutral redundancy removals — (1) L71 dropped duplicated "more robust than IIT's empirical fortunes but not wholly independent of its framework" (same point made at paragraph close); (2) L69 merged trailing meta-parenthetical + dropped redundant "developed below" forward-ref (table follows immediately); (3) L85 removed duplicated per-philosopher method list (next sentence already names life/causal-powers/integrated-information criteria); (4) L85 tightened closing hedge clause. Every calibration qualifier preserved.
+- **Notes**: 7th deep review; drift-axis = LENGTH not citation. The 2026-06-05 review (6th, first full publisher-of-record audit of all 22 cites — clean except a Beni page-range fix) predicted this exact pass: it left the article 2 words under the 4000 cap and authorised a length-neutral condense if a future edit crossed it. Cross-link installs on 2026-06-07 (new siblings composition-question-rivals, mereology-of-mind, manyism) pushed it to 4043. git-diff confirmed References block byte-unchanged since the 2026-06-05 audit → §2.4 web-verify SKIPPED per the stable-References skip rule (not re-litigating an already-publisher-verified philosophy-secondary corpus). Pre-flight clean: 3 new wikilinks resolve, their sub-anchors map to explicit {#anchor} headings, 5 tenet sub-anchors canonical, no EOF tool-tag, no dup frontmatter keys, no "This is not X. It is Y." cliché, no editor-vocabulary label leakage. No superlative empirical-record claims (lone "so far" is rhetorical). No calibration slippage, no boundary-substitution. Real body edit → both ai_modified + last_deep_review bumped (timestamps date -u-checked, not future). NOT a human-length-decision flagship case (per prior note).
+- **Output**: [[reviews/deep-review-2026-06-26-consciousness-and-the-metaphysics-of-composition]]
+
 ## 2026-06-26T13:35:25+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/disappearance-voids]]
