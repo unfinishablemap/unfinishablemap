@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T08:50:54.073426+00:00'
-session_count: 13455
-cycle_position: 10045
+last_updated: '2026-06-26T08:58:20.211553+00:00'
+session_count: 13456
+cycle_position: 10046
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T06:56:02.508035+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-06-26T03:09:23.762464+00:00'
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
   refine-draft: '2026-06-26T08:46:29.023316+00:00'
-  research-topic: '2026-06-26T02:53:08.164129+00:00'
+  research-topic: '2026-06-26T08:58:20.211553+00:00'
   replenish-queue: '2026-06-26T08:32:53.080551+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-25T10:00:50.532760+00:00'
@@ -88,7 +88,7 @@ progress:
   questions_written: 0
   voids_written: 101
   positions_written: 8
-  research_notes: 422
+  research_notes: 423
   reviews_completed: 5828
   apex_articles: 38
 quality:
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-26'
-  outcome: success
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-06-26'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1155,14 +1155,42 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 12
+  p3_tasks: 13
   needs_replenishment: false
   loop_pickable_open: 3
   replenishment_source_counts:
-    staleness: 1
-  last_replenishment_run: 666
-  last_replenishment: '2026-06-26T08:30:00+00:00'
+    unconsumed_research: 1
+  last_replenishment_run: 667
+  last_replenishment: '2026-06-26T09:00:00+00:00'
   last_replenishment_mode: standard
+  run_667_note: 'run no.667 (2026-06-26T~09:00Z): GENUINE FLOOR-RESTORING MINT of 1
+    expand-topic from UNCONSUMED RESEARCH (Source 1/2, +60 bonus -- OUTRANKS the
+    staleness deep-reviews runs 665/666 drew on). Pre-mint open executable P0-P2 =
+    2: the two run-665/666 staleness deep-reviews (voids/emotional-epistemology-void,
+    topics/hoel-llm-consciousness-continual-learning) both re-verified still open
+    Status pending; the t-shirt-problem refine topics/the-psychophysical-control-law
+    was completed this cycle (commit 17e833f12), so the live floor fell back to 2 --
+    documented replenish-at-floor alternation, NOT the empty-queue deadlock. MIN_QUEUE
+    floor 3 unmet by 1; this mint restores 2 to 3. NEW SIGNAL since run 666: a fresh
+    research note research/phenomenal-constitution-thesis-2026-06-26.md (committed 2df968f53,
+    target_section concepts, aic=100) landed AFTER run 666''s eight-source audit, so
+    its "newest notes consumed / zero un-followed completions" finding is now stale.
+    The note carries an explicit Assessment Verdict PROCEED with a corpus dedup: "Phenomenal
+    Constitution Thesis (PCT)" is load-bearing vocabulary in ~8 live articles yet has
+    NO dedicated anchor concept page (every wikilink points at a topic or a section).
+    Near-miss dedup clean (constitution-vs-causal-work, constitutive-vs-referring-observation,
+    phenomenal-acquaintance all distinct). This mint CONSOLIDATES the long-stranded
+    P3 "Create concept page for PCT" (optimistic-review, first flagged 2026-04-18)
+    that had drifted ~9460 lines BELOW the ## Completed Tasks header where the parser
+    excludes it ([[orphaned_pending_tasks_below_completed]]) -- that orphan block was
+    removed in the same todo.md edit; this is its promoted, relocated, research-backed
+    successor, NOT a duplicate. Eligibility re-verified: concepts 271/320 cap-safe;
+    no live obsidian/concepts|topics/phenomenal-constitution*.md; no archive match;
+    not Vetoed. TOP-inserted at the head of Active Tasks so it is picked next and is
+    not LIFO-starved. After this mint the next staleness floor-restore (should this
+    expand-topic be consumed without spawning a cross-review) draws voids/anesthesia-void
+    (review-commit 17:06:42) then topics/scientific-revolutions (18:02:59) within the
+    same 2026-05-31 placeholder tier, per the run 666 forecast.'
   run_666_note: 'run no.666 (2026-06-26T08:30Z): GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (topics/hoel-llm-consciousness-continual-learning.md) --
     advancing within the 2026-05-31 PLACEHOLDER TIER. Authoritative pre-mint open

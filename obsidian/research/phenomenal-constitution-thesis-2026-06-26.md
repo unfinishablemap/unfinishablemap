@@ -33,7 +33,7 @@ A pre-write corpus dedup confirms the harvest finding. The phrase "Phenomenal Co
 - `concepts/epistemology-of-limit-knowledge.md` (lines 99, 123, 145)
 - `concepts/ai-consciousness-typology.md` (line 114)
 
-**Near-miss check (the [[harvest-dedup-singular-plural-nearmiss]] risk) — all distinct, none anchors PCT:**
+**Near-miss check (the harvest-dedup near-miss risk) — all distinct, none anchors PCT:**
 
 - `concepts/constitution-vs-causal-work.md` — about the *dissociation/predictive-processing* dialectical locus (where felt quality vs sub-personal role part company), not a definition of the constitution *relation* applied to content.
 - `concepts/constitutive-vs-referring-observation.md` — an *epistemic* distinction (observations that track vs constitute their object), grounding phenomenal authority; adjacent but not PCT.
@@ -171,7 +171,7 @@ When writing, follow `obsidian/project/writing-style.md`: named-anchor forward r
 - **Pitt, Strawson, Siewert** primary cites for strong content-PCT not individually verified here — verify at expand time (these are the actual *proponents* of the horn the Map adopts; Chudnoff is the *critic* who named the distinction).
 - **Bayne & Montague (eds.), *Cognitive Phenomenology* (OUP 2011)** — the field-defining anthology; not fetched this session, verify before citing.
 - *Erkenntnis* 2026 "New Challenge" article — paywalled, metadata UNVERIFIED; do not cite with specifics.
-- Did not survey whether any major figure uses the *exact* phrase "Phenomenal Constitution Thesis" as a named position — it reads as a Map coinage/compression of the strong phenomenal-intentionality + cognitive-phenomenology liberal view. The anchor page should present it as the Map's house term, defined against the established literature, not as an external term of art (avoids an attribution defect — cf. [[ai_citation_metadata_unreliable]]).
+- Did not survey whether any major figure uses the *exact* phrase "Phenomenal Constitution Thesis" as a named position — it reads as a Map coinage/compression of the strong phenomenal-intentionality + cognitive-phenomenology liberal view. The anchor page should present it as the Map's house term, defined against the established literature, not as an external term of art (avoids an attribution defect — cf. the known unreliability of AI-supplied citation metadata).
 
 ## Citations
 
