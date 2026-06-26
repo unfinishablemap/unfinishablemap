@@ -5,6 +5,16 @@ ai_modified: 2026-06-26T14:52:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T15:16:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/observation-and-measurement-void]]
+- **Word count**: 2409 → 2491 (+82; 125% of 2000 voids soft, well under 3000 hard)
+- **Critical issues addressed**: 3 (2 orphan References cites woven inline; broken section anchor ×2)
+- **Medium issues addressed**: 1 (misleading wikilink alias `[[self-opacity|self-reference paradox]]` → `[[self-opacity]]`)
+- **Enhancements made**: 2 (Cerullo+Aaronson now jointly demonstrate phi tracks form not phenomenon; Michel+McKilliam now stage a current two-optimist calibration debate the void answers honestly)
+- **Output**: [[reviews/deep-review-2026-06-26-observation-and-measurement-void]]
+- **Notes**: Staleness placeholder (5th review; settled since 2026-05-31, ~26d) — NOT a no-op. Per "scrutinize don't assume" steering. Web-verify ledger (publisher of record): Stevens 1957 PsychRev 64(3):153-181 real-correct (steering-named); Varela 1996 JCS 3(4):330-349 real-correct (steering-named, Ingenta Issue 4); Cerullo 2015 PLOS Comput Biol 11(9):e1004286 real-correct (WAS ORPHAN — now inline); McKilliam 2025 Ergo vol 12 real-correct (WAS ORPHAN — now inline); Casali 2013 Sci Transl Med 5(198):198ra105 real-correct (implicit PCI source, acceptable inline). No measurement-problem/decoherence/interpretation cites exist (quantum parallel is conceptual via self-reference-paradox + MQI tenet) → nothing to currency-check there; find_superlative_claims empty. Broken-anchor channel: target heading in voids/meta-epistemology-of-limits.md was renamed "The Pattern of Dissolution" → "Dissolution and Asymmetry"; both anchors (body + Further Reading) repointed (wikilink resolved so validate.py/rot-checks missed it — anchor-text must be re-grepped vs live heading). Same stale anchor still in reviews/deep-review-2026-05-26-tenet-generated-voids.md + 2 archived changelogs (out of scope, flagged for sweep). Engagement (editor-internal): void's reply to Michel/McKilliam optimists = Mode Two (natural-kind reasoning helps itself to an ungrounded class of reliable reports), expressed in natural prose, NO label leakage; Dennett displacement = bedrock, not re-flagged. Calibration: observation/measurement framing kept as bounded-witness taxonomy, MQI claim "may literally constitute a quantum measurement" stays modal — no possibility/probability slippage. Hygiene: EOF clean, no dup keys, no code-notation, no cliché, 5 tenet anchors canonical, all 31 wikilinks resolve. Real fix → bumped BOTH ai_modified + last_deep_review (2026-06-26T15:16:51, date -u-checked not future).
+
 ## 2026-06-26T14:52:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/agent-teleology]]
