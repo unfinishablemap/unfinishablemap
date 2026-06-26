@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T14:28:17.643968+00:00'
-session_count: 13511
-cycle_position: 10074
+last_updated: '2026-06-26T14:32:26.744388+00:00'
+session_count: 13512
+cycle_position: 10075
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T11:51:35.266598+00:00'
   optimistic-review: '2026-06-26T13:16:18.899602+00:00'
   check-tenets: '2026-06-25T22:30:50.627753+00:00'
   check-links: '2026-06-26T03:31:58.709312+00:00'
-  deep-review: '2026-06-26T14:20:31.455152+00:00'
+  deep-review: '2026-06-26T14:32:26.744388+00:00'
   tune-system: '2026-06-25T06:51:58.324580+00:00'
   research-voids: '2026-06-26T03:34:29.002912+00:00'
   coalesce: '2026-06-26T14:14:00.846597+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5851
+  reviews_completed: 5852
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1170,9 +1170,52 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 684
-  last_replenishment: '2026-06-26T14:26:52+00:00'
+  last_replenishment_run: 685
+  last_replenishment: '2026-06-26T14:40:00+00:00'
   last_replenishment_mode: standard
+  run_685_note: 'run no.685 (2026-06-26T~14:40Z): GENUINE FLOOR-RESTORING MINT of 1
+    staleness deep-review (concepts/control-theoretic-will.md). Authoritative pre-mint
+    open executable P0-P2 = 2 via count_p0_p2_tasks(content) live (the two open P2
+    floor-restores agent-teleology run-683 + observation-and-measurement-void run-684;
+    the run-681 universal-coupling-response floor-restore was consumed by a cycle-slot
+    deep-review -- documented replenish-at-floor alternation [[unfin_loop_steady_state]],
+    NOT the empty-queue deadlock; the 14 P3s do not count toward the floor; the three
+    veto condense tasks are selector-excluded). MIN_QUEUE floor 3 unmet by 1; this
+    mint restores 2->3 (post-mint count_p0_p2_tasks==3 verified live). SOURCE = staleness
+    (Source 4), advancing within the 2026-05-31 PLACEHOLDER TIER -- FIFO-next by review-commit
+    time after agent-teleology (19:21:00) and observation-and-measurement-void (21:35:34):
+    concepts/control-theoretic-will @ review-commit 2026-05-31T22:00:44. VERIFIED settled+clean:
+    last_deep_review==ai_modified==2026-05-31T21:59:17 (no own-body drift), last commit
+    704588c45 is its OWN stamp-setting deep-review, clean tree, NOT touched today (0
+    commits since 2026-06-26T00:00), NO same-day collision, NOT archived; aic=100,
+    ai_system=claude-opus-4-6 (older model = fresh-eyes + citation-defect-rich). body
+    2395w via analyze_length = status ok (concepts soft 2500/hard 3500/critical 5000
+    -- well under soft; length-neutral review, NOT a condense candidate). Dedupe clean
+    (the only ### hits are the completed 2026-05-31 review that set the placeholder
+    + a completed 2026-02-20 analogy-gap fix; not in the Vetoed bank). EOF tool-tag
+    artifact scan clean (Wiener 1948 / Zheng & Meister 2025 References). Review-scope
+    flag: the Zheng & Meister 2025 "10 bits/s" cite is in the active bandwidth-of-consciousness
+    literature -- currency-sweep it ([[empirical-record-currency-drift]]). EIGHT-SOURCE
+    AUDIT all OTHER sources re-confirmed exhausted (consistent with runs 674-684):
+    (1 chain) zero un-followed research-topic/expand-topic/cross-review completions
+    in recent_tasks -- all 2026-06-24/25/26 research-topics consumed by same-slug articles,
+    the two DECLINE notes (self-luminosity-svaprakasha, pre-reflective-self-awareness)
+    carry do-not-mint verdicts; (2 unconsumed research) NONE -- the only recent no-same-slug-article
+    note phenomenal-concept-strategy-2024-2026-update is a currency-update note whose
+    3 recommendations are ALREADY CONSUMED into topics/phenomenal-concepts-as-materialist-response.md;
+    (3 gap/caps) topics 281/320 + concepts 272/320 harvester-governed (last ran 08:50)
+    + Vetoed-dedup-blocked, voids 101/100 over create-cap, positions 8/80 slow-add;
+    (4 genuine-drift) cosmetic June churn only, none older than the 2026-05-31 tier;
+    (5 length) every offender is veto/accept-as-survey/human-deferred/research-working-note/index-hub
+    -- NO clean blind-mintable condense; (6 orphan) orphaned_files=0; (7 positions)
+    8 < 10 audit threshold, positions-evolve ran 2026-06-22; (8 applied-apex) no high-confidence
+    cluster gap. Next floor-restore draws from concepts/apophatic-approaches @ 22:37
+    and topics/indian-philosophy-of-mind @ 23:06 (topics/consciousness-and-neurodegenerative-disease
+    @ 22:11 was the run-682 mint -- re-eligible only if its last_deep_review was NOT
+    bumped by execution; verify before re-minting); an honest NO-MINT remains acceptable
+    when no clean candidate exists. BOTTOM-inserted below the two prior floor-restore
+    Active P2s per the queue-lifo-starvation placement corollary so the older floor-restore
+    P2s drain first.'
   run_684_note: 'run no.684 (2026-06-26T~14:27Z) GENUINE FLOOR-RESTORING MINT of 1
     staleness deep-review (voids/observation-and-measurement-void.md). Pre-mint open
     executable P0-P2 = 2 via count_p0_p2_tasks(content) live (the two open P2 floor-restores
