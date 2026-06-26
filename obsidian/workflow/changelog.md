@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T10:54:00+00:00
+ai_modified: 2026-06-26T11:03:53+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T11:03:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/idealism]]
+- **Word count**: 2911 → 2911 (unchanged; 116% of 2500 soft, under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op confirmation after real scrutiny; bumped last_deep_review only, ai_modified left at settled 2026-05-31 placeholder)
+- **Focus (per steering)**: publisher-of-record §2.4 citation ledger that prior 8 reviews had not recorded. All 6 References web-verified 3-state at publisher of record — all real-correct (Kastrup 2019/2025 Iff Books, Berkeley 1710, Sprigge 1983 EUP, Goff 2017 OUP, Nāgārjuna/Garfield 1995 OUP). One note: Kastrup 2025 imprint date listed as 2024 by publisher/NBN, 2025 by Wikipedia — "2025" defensible, left as-is.
+- **Other checks**: 4 tenet anchors canonical (non-truncated), EOF clean (no tool-tag), all 20 body wikilinks resolve live (no archive-rot), no superlative claims, no "This is not X. It is Y." cliché. 9th deep review; converged.
+- **Engagement (idealism/Kastrup)**: Mode Three (framework-boundary marking); honest, no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-26-idealism]]
 
 ## 2026-06-26T10:54:00+00:00 - refine-draft
 - **Status**: Success

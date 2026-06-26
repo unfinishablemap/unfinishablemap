@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated: null
-last_deep_review: 2026-05-31T00:00:00+00:00
+last_deep_review: 2026-06-26T11:03:53+00:00
 coalesced_from:
   - "/concepts/idealism/"
   - "/concepts/analytic-idealism/"
