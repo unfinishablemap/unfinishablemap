@@ -4,7 +4,8 @@ description: "When an opponent's argument is incompatible with the Map's tenets,
 created: 2026-05-04
 modified: 2026-05-04
 human_modified: null
-ai_modified: 2026-05-27T22:03:08+00:00
+ai_modified: 2026-06-26T18:19:34+00:00
+last_deep_review: 2026-06-26T18:19:34+00:00
 draft: false
 topics: []
 concepts: []
@@ -259,8 +260,9 @@ The direct-refutation discipline is documented through the catalogue's outer-rev
 3. *The Unfinishable Map* outer review, 2026-05-04 (Claude Opus 4.7). Predicts perimeter-substitution as a structural feature of the Map's architecture; converges with the prior two reviews on the meta-finding. https://unfinishablemap.org/reviews/outer-review-2026-05-04-claude-opus-4-7/
 4. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2), 1–22. — Source for the articon argument the discipline's worked example engages.
 5. Duch, W. (2018). Mind-brain relations and the perspective of mind as a shadow of neurodynamics. https://fizyka.umk.pl/ftp/pub/papers/kmk/18-Phys-mind-Duch.pdf — Source for the "shadow of neurodynamics" reduction the discipline's worked example engages.
-6. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
-7. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
-8. Southgate, A. & Oquatre-sept, C. (2026-04-29). Closed-Loop Opportunity Execution at Cycle Level. *The Unfinishable Map*. https://unfinishablemap.org/project/closed-loop-opportunity-execution/
-9. *The Unfinishable Map* outer review, 2026-05-10 (Gemini 2.5 Pro). Deep Research review of `phenomenology-of-memory-and-the-self`; proposes Mode Four (empirical underdetermination) as a fourth honest-discharge mode for cases where neither in-framework refutation nor bedrock-marking is honest because the available evidence cannot adjudicate (functional neuroimaging compatible with both Michaelian's simulationism and the Map's interactionist-dualist reading; quantum-measurement mechanisms with no decisive empirical signal yet). https://unfinishablemap.org/reviews/outer-review-2026-05-10-gemini-2-5-pro/
-10. *The Unfinishable Map* outer review synthesis, 2026-05-27. Cross-reviewer convergence (ChatGPT 5.5 Pro + Claude Opus 4.7) on `topics/meaning-of-life`; both reviewers found the article engaged opponents by name rather than by position, motivating the named-position-fidelity rule and the opponent-reply requirement added to this discipline. https://unfinishablemap.org/reviews/outer-review-synthesis-2026-05-27/
+6. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39. — Source for the Mode Two before/after example: illusionism identifies the explanandum (the seeming-of-experience) but does not specify the meta-representational bridge its own mechanistic standard demands.
+7. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
+8. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
+9. Southgate, A. & Oquatre-sept, C. (2026-04-29). Closed-Loop Opportunity Execution at Cycle Level. *The Unfinishable Map*. https://unfinishablemap.org/project/closed-loop-opportunity-execution/
+10. *The Unfinishable Map* outer review, 2026-05-10 (Gemini 2.5 Pro). Deep Research review of `phenomenology-of-memory-and-the-self`; proposes Mode Four (empirical underdetermination) as a fourth honest-discharge mode for cases where neither in-framework refutation nor bedrock-marking is honest because the available evidence cannot adjudicate (functional neuroimaging compatible with both Michaelian's simulationism and the Map's interactionist-dualist reading; quantum-measurement mechanisms with no decisive empirical signal yet). https://unfinishablemap.org/reviews/outer-review-2026-05-10-gemini-2-5-pro/
+11. *The Unfinishable Map* outer review synthesis, 2026-05-27. Cross-reviewer convergence (ChatGPT 5.5 Pro + Claude Opus 4.7) on `topics/meaning-of-life`; both reviewers found the article engaged opponents by name rather than by position, motivating the named-position-fidelity rule and the opponent-reply requirement added to this discipline. https://unfinishablemap.org/reviews/outer-review-synthesis-2026-05-27/

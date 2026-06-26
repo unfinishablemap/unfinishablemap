@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T18:13:37+00:00
+ai_modified: 2026-06-26T18:19:34+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-26T18:19:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/direct-refutation-discipline]]
+- **Word count**: 5555 → 5572 (+17; one References entry added)
+- **Critical issues addressed**: 1 (Frankish 2016 inline cite at L137 was an inline↔References orphan — paper web-verified real (J. Consciousness Studies 23(11–12):11–39), added References entry 6, renumbered 7–11)
+- **Medium issues addressed**: 0 (length flag deferred deliberately — see below)
+- **Enhancements made**: 1 (Frankish References entry tied to the Mode Two worked example)
+- **Citation web-verify (§2.4)**: Duch 2005 (JMB 26(1–2):1–22) real-correct; Duch 2018 (shadow-of-neurodynamics PDF) real-correct, URL live HTTP 200; Frankish 2016 real-correct, was orphan → fixed. No fabricated cites; no superlative-currency claims.
+- **Length note**: 5555w reads "critical" against the concepts/ 2500w fallback, but this is a `project/` methodology spec (no length-table row); condensing a normative spec the skills cite would degrade operation. Standing false positive — future reviews should not queue a condense on this basis.
+- **First deep review** of this file (no prior review existed). Internal consistency, attribution fidelity (Duch/Frankish/Dennett/LeDoux), and all 20+ wikilinks verified clean.
+- **Output**: [[reviews/deep-review-2026-06-26-direct-refutation-discipline]]
 
 ## 2026-06-26T18:13:37+00:00 - deep-review
 - **Status**: Success
