@@ -5,6 +5,16 @@ ai_modified: 2026-06-26T20:18:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T20:37:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/public-claim-register]]
+- **Word count**: 1948 → 1948 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Note**: First deep review of this slug. Editorial-methodology article (defines a publication-gate discipline), so the §2.4 citation web-verify pass was the load-bearing scrutiny channel, not the adversarial personas (which have no purchase on a methodology doc's content). 5 references, all verified real-correct at publisher of record: Gutfreund 2024 (corpus-canonical, most-verified cite in the corpus — all 6 quotes confirmed verbatim per the 2026-06-24 SAC research note), both ChatGPT outer reviews (files exist, formulations verbatim), both internal discipline self-cites (target created-dates match). Two medium citation-metadata fixes via family-resolution: (1) Gutfreund reference was missing the canonical volume/article-number/DOI (15, 1456403, DOI 10.3389/fpsyg.2024.1456403) the rest of the corpus carries — propagated; (2) the 2026-05-03 outer review was mislabelled "ChatGPT 5 Pro" where the file/URL/sibling-reference all say "5.5 Pro" — corrected. Inline↔reference cross-check clean (no orphans); empirical-currency sweep empty. The article practices what it preaches — the worked nematode entry grades at *live hypothesis* with defeater-removal explicitly labelled "neither is evidence," so it commits no possibility/probability slippage. No editor-vocabulary-leakage concern (this is the doc that defines the vocabulary). Below soft threshold (1948/2500w); no expansion needed. Reasoning-mode: N/A (no named-opponent refutations).
+- **Output**: [[reviews/deep-review-2026-06-26-public-claim-register]]
+
 ## 2026-06-26T20:18:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[project/outer-reviewer-service-calibration]]
