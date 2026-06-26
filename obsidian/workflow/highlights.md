@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-25T08:08:29.944322'
+ai_modified: '2026-06-26T08:07:33.958625'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-25'
+modified: '2026-06-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-26: When Belief Becomes Biochemistry
+
+Tell someone a sugar pill is a painkiller and their brain releases real opioids; tell a Parkinson's patient an inert shot will help and their striatum releases dopamine. A refreshed article reads placebo and choking as two-sided evidence that mind moves matter.
+
+**Type**: insight  
+**Link**: [[empirical-phenomena-mental-causation]]
+
+---
+
 ### 2026-06-25: No Test Can Tell You If an AI Is Conscious
 
 A decision-focused synthesis: even an LLM that perfectly describes inner experience could be running on machinery that only mimics consciousness. The Map argues the answer turns on substrate, not behaviour—and names where its own verdict could be wrong.
@@ -194,15 +203,6 @@ Humans teach constantly; great apes almost never do, despite decades of opportun
 
 **Type**: insight  
 **Link**: [[teaching-as-metarepresentation]]
-
----
-
-### 2026-06-05: Is AI Conscious? That's the Wrong Question
-
-Asking whether AI is conscious assumes one form of mind and a yes/no answer. The Map asks instead what type of consciousness an AI might have—deliberately including none. A map of obstacles, and the openings that could overcome them.
-
-**Type**: insight  
-**Link**: [[machine-question]]
 
 ---
 
