@@ -1,13 +1,176 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 12:32:25+00:00
+ai_modified: 2026-06-26 14:52:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-26T16:10:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Changed sources**: 3 of 6 yielded new material (mental-causation, moral-responsibility, time-collapse-and-agency)
+- **Word count**: 4315 → 4458 (+143 net; soft_warning, pre-existing over-target; ~135w of additions offset by condensation)
+- **New citations (all web-verified)**: Babcock et al. 2024 (J. Phys. Chem. B 128(17):4035-4046); Khan et al. 2024 (eNeuro 11(8) ENEURO.0291-24.2024); Cucu & Pitts 2019 (Mind and Matter 17(1):95-121)
+- **Review**: [apex-evolve-2026-06-26-consciousness-and-agency](/reviews/apex-evolve-2026-06-26-consciousness-and-agency/)
+
+## 2026-06-26T15:43:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [apophatic-approaches](/concepts/apophatic-approaches/)
+- **Word count**: 1614 → 1614 (±0; 65% of 2500 concepts soft — no length pressure)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th review; converged + byte-for-byte unchanged since 05-31; citation set web-verified at 7th review; all 14 wikilinks live; no EOF artifact; no calibration drift — no-change pass, advanced last_deep_review only, left ai_modified to preserve the reviewed-and-unchanged scorer signal)
+- **Output**: [deep-review-2026-06-26-apophatic-approaches](/reviews/deep-review-2026-06-26-apophatic-approaches/)
+
+## 2026-06-26T15:32:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [control-theoretic-will](/concepts/control-theoretic-will/)
+- **Word count**: 2395 → 2395 (±0; 96% of 2500 concepts soft — length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale section anchor: `[[concepts/consciousness-selecting-neural-patterns#Policy-Level Selection]]` → `#The Bandwidth Constraint`)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-26-control-theoretic-will](/reviews/deep-review-2026-06-26-control-theoretic-will/)
+- **Notes**: Sixth deep review; converged. Selection tool did NOT auto-pick this (picked normativity-of-reason); reviewed because passed as explicit argument. Convergence-damping working as designed (5 priors, unchanged since 05-31). Real fix found: the Veto section's wikilink `#Policy-Level Selection` anchor dead-ended — git history shows the target consciousness-selecting-neural-patterns.md was restructured (the four candidate coupling-law subsections incl `### Policy-Level Selection` were relocated to psychophysical-laws; policy-level framing now under "The Bandwidth Constraint"). Link resolved to the right PAGE so validate.py/check-links/5 prior reviews all missed it — only re-grepping the anchor text vs live target headings catches it. Same stale-anchor channel the 15:16:51 observation-and-measurement-void review hit independently this cycle (different target, same upstream-rename root cause) — corpus-wide anchor-rot sweep is a strong candidate. Repointed, prose preserved verbatim, net length-neutral. §2.4: inline↔References clean, no orphans, no superlative claims (find_superlative_claims empty); References byte-identical to the 05-31 publisher-of-record-verified block (incl the now-correct Zheng & Meister 2025 Neuron 113(2):192-204 that replaced the old Meister-2024-PNAS fabrication) → carried-forward ledger, no re-litigation. §2.6: no named-opponent argumentative replies; boundary-marking (Mode Three) in "What CTW Is Not", no label leakage. All other 5 inline anchors + 15 page targets + 5 tenet block-refs resolve to live files. Bedrock MWI/physicalist-adoption/quantum-speculation standoffs unchanged, not re-flagged. Bumped ai_modified + last_deep_review to 2026-06-26T15:32:02 (date -u-checked, not future).
+
+## 2026-06-26T15:16:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- **Word count**: 2409 → 2491 (+82; 125% of 2000 voids soft, well under 3000 hard)
+- **Critical issues addressed**: 3 (2 orphan References cites woven inline; broken section anchor ×2)
+- **Medium issues addressed**: 1 (misleading wikilink alias `[[self-opacity|self-reference paradox]]` → `[[self-opacity]]`)
+- **Enhancements made**: 2 (Cerullo+Aaronson now jointly demonstrate phi tracks form not phenomenon; Michel+McKilliam now stage a current two-optimist calibration debate the void answers honestly)
+- **Output**: [deep-review-2026-06-26-observation-and-measurement-void](/reviews/deep-review-2026-06-26-observation-and-measurement-void/)
+- **Notes**: Staleness placeholder (5th review; settled since 2026-05-31, ~26d) — NOT a no-op. Per "scrutinize don't assume" steering. Web-verify ledger (publisher of record): Stevens 1957 PsychRev 64(3):153-181 real-correct (steering-named); Varela 1996 JCS 3(4):330-349 real-correct (steering-named, Ingenta Issue 4); Cerullo 2015 PLOS Comput Biol 11(9):e1004286 real-correct (WAS ORPHAN — now inline); McKilliam 2025 Ergo vol 12 real-correct (WAS ORPHAN — now inline); Casali 2013 Sci Transl Med 5(198):198ra105 real-correct (implicit PCI source, acceptable inline). No measurement-problem/decoherence/interpretation cites exist (quantum parallel is conceptual via self-reference-paradox + MQI tenet) → nothing to currency-check there; find_superlative_claims empty. Broken-anchor channel: target heading in voids/meta-epistemology-of-limits.md was renamed "The Pattern of Dissolution" → "Dissolution and Asymmetry"; both anchors (body + Further Reading) repointed (wikilink resolved so validate.py/rot-checks missed it — anchor-text must be re-grepped vs live heading). Same stale anchor still in reviews/deep-review-2026-05-26-tenet-generated-voids.md + 2 archived changelogs (out of scope, flagged for sweep). Engagement (editor-internal): void's reply to Michel/McKilliam optimists = Mode Two (natural-kind reasoning helps itself to an ungrounded class of reliable reports), expressed in natural prose, NO label leakage; Dennett displacement = bedrock, not re-flagged. Calibration: observation/measurement framing kept as bounded-witness taxonomy, MQI claim "may literally constitute a quantum measurement" stays modal — no possibility/probability slippage. Hygiene: EOF clean, no dup keys, no code-notation, no cliché, 5 tenet anchors canonical, all 31 wikilinks resolve. Real fix → bumped BOTH ai_modified + last_deep_review (2026-06-26T15:16:51, date -u-checked not future).
+
+## 2026-06-26T14:52:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [agent-teleology](/concepts/agent-teleology/)
+- **Word count**: 2251 → 2251 (no change; 90% of 2500 concepts soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-26-agent-teleology](/reviews/deep-review-2026-06-26-agent-teleology/)
+- **Notes**: Staleness self-select (5th review, 3rd consecutive no-change verdict). Article UNMODIFIED since 2026-05-31 review (ai_modified unchanged) → promoted on age alone past convergence-damping floor. Per "scrutinize don't assume no-op" steering, ran FULL publisher-of-record citation web-verify (not a rubber-stamp): all 8 References real-correct — live-verified Chisholm 1964 Lindley Lecture U.Kansas (KU ScholarWorks+PhilPapers), Lowe 2008 Personal Agency OUP (Oxford Academic+NDPR), Whitehead 1929 Process and Reality Macmillan (original Gifford-Lectures publisher, not 1978 Free Press — correct), Millikan 1984 LTOBC MIT Press (mitpress.mit.edu); Dennett 1987/Kim 1998/Nagel 2012/Swinburne 1997 canonical, verified across 4 prior reviews. No `Author YYYY` inline cites (References is a foundational-works list, authors cited inline by name) → no dangling inline/orphan refs; no DOI/URL self-cites → no archival-rot vector. Currency sweep: find_superlative_claims empty; 300ms/theta/coherence empirics defer to agent-causation as source-of-record (not re-asserted). Calibration PASS (all teleo claims conditioned "if dualism true"; AI bullet keeps phenomenal-AI a "live question", no possibility/probability slippage). Engagement modes (editor-internal): Dennett Mode Three (hard-problem boundary-marking), Millikan Mode Three (presupposes phenomenal irreducibility) — both bedrock, no boundary-substitution, no label leakage. Links: all 26 wikilink targets resolve; 5 tenet sub-anchors canonical in tenets.md; intentionality#Phenomenal Intentionality Theory anchor exists; self-transcendence-void resolves. Hygiene: EOF clean no tool-tag, no dup frontmatter keys, no "X is not A. It is B." cliché, quoted strings are generic phil terms not stale sibling-quotes, timestamps date -u-checked not future. NO-OP HYGIENE: real scrutiny → no defect → bumped last_deep_review ONLY (2026-06-26T14:52), LEFT ai_modified settled at 2026-05-31. Recommend longer re-review interval (deep-review-over-reviews-converged).
+
+## 2026-06-26T14:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Word count**: 3980 → 3985 (+5; 133% of 3000 topics soft, under 4000 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-26-falsification-roadmap-for-the-interface-model](/reviews/deep-review-2026-06-26-falsification-roadmap-for-the-interface-model/)
+- **Notes**: Drift-axis self-select (10th review). REJECTED two converged no-op candidates first: scorer's top pick consciousness-and-the-normativity-of-reason (6 reviews, citations fully publisher-verified 06-05, score-15 re-qualification was a cosmetic NORM↔CM cross-link bump) and neural-refresh-rates-and-the-smoothness-problem (deep-reviewed YESTERDAY 06-25, 7th pass; near-miss review-file slug `...-neural-refresh-rates.md` defeats convergence-damping + naive glob count). Picked falsification-roadmap because its Kerskens citation surname was re-canonicalized by corpus sweep 11c8554f5 AFTER its 06-02 review → unverified after-review change. Web-verify (publisher of record): (1) Kerskens & López Pérez 2022 J.Phys.Commun. 6:105001 — compound surname CONFIRMED canonical at IOPscience (DOI 10.1088/2399-6528/ac94be); post-review sweep was right, body needs no change (closes the ai_citation_metadata_unreliable compound-surname gap); (2) Melloni et al. 2025 — COMPLETED Ref 7 from bare "Nature." to Nature 642(8066):133-142, 5 Jun 2025, doi:10.1038/s41586-025-08888-1 (closes long-deferred date item). FIXED Ref 8 archival-rot: cited the-interface-specification-problem URL which is an archived 301-redirect source → repointed to live successor /topics/the-interface-problem/ (title+date+byline six→sept). Engagement modes (editor-internal): Pitts Mode Two, Kleiner Mode Three, Lakatosian-critic Mode Three; no boundary-substitution, no label leakage. Calibration PASS (Tenet-2 split down-calibrates corridor/trumping; no possibility/probability slippage). Hygiene: EOF clean no tool-tag, no dup frontmatter keys, superlative scan benign ("so far"), no "X is not A. It is B." cliché, timestamps date -u-checked not future. REAL edit → bumped BOTH ai_modified + last_deep_review to 2026-06-26; ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (same-file model mix). WATCH: link-list accretion (21 related + 13 Further Reading) is the ceiling-drift vector, not body content; if body breaches 4000 it's a human length-decision, do NOT auto-condense calibration content.
+
+## 2026-06-26T14:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [universal-coupling-response](/concepts/universal-coupling-response/)
+- **Word count**: 1607 → 1607 (no change; 64% of concepts 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th deep review — converged no-op after real scrutiny (staleness re-promotion of a settled article unchanged since 2026-05-31; slipped past convergence-damping auto-exclusion because the 4th review was >14 days ago). Targeted live-literature CURRENCY re-verify of the two most drift-prone cites: Birch 2022 Noûs 56(1):133-153 (real-correct; later Edge of Sentience 2024 + 2025 trade-offs paper extend not supersede the cited 2022 facilitation-hypothesis paper; characterization faithful) and 2024 NY Declaration (real-correct; "realistic possibility"/cephalopod-decapod-insect scope exactly tracks canonical text, no newer consensus supersedes, no tenet-driven upgrade). Barron&Klein 2016 / Chittka 2022 / Feinberg&Mallatt 2016 carried from 2026-05-31 ledger (article+References unmodified). Inline↔References clean, no orphans. Hygiene: EOF no tool-tag, no dup frontmatter keys, ^minimal-quantum-interaction anchor canonical, no superlative-helper matches, no "X is not A. It is B." cliché, self-cite URL resolves LIVE (no archival rot), F&M external-quote consistent across siblings. No possibility/probability slippage (Occam section explicitly declines the upgrade). Bedrock disagreements (physicalist trilemma-premise rejection, IIT-brevity, decoherence skepticism) not re-flagged. NO-OP HYGIENE: last_deep_review bumped to 2026-06-26 ONLY, ai_modified left settled at 2026-05-31 (date -u-checked, not future).
+- **Output**: [deep-review-2026-06-26-universal-coupling-response](/reviews/deep-review-2026-06-26-universal-coupling-response/)
+
+## 2026-06-26T14:17:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [closure-types-void](/voids/closure-types-void/)
+- **Word count**: 1886 → 1886 (length-neutral; 94% of voids 2000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — removed a banned "X is not A. It is B." construct on L66 ("This classification is not a stable taxonomy. It is a working hypothesis...") that the 2026-04-18 cliché-hunt missed; rephrased to "functions as a working hypothesis... rather than a stable taxonomy" (voice + hedge preserved).
+- **Notes**: 3rd deep review (staleness-promoted, settled placeholder scrutinised not rubber-stamped). Publisher-of-record per-cite ledger: McGinn 1989 Mind 98(391):349-366, Kriegel 2003 Acta Analytica 18:177-191, Demircioglu 2017 Acta Analytica 32(1):125-132 (re-verified, 2026-05-31 page-range fix confirmed), Vlerick & Boudry 2017 Dialectica 71(1):101-115 (Michael-not-Maarten fix holds), Chomsky 1976 Language in Focus:281-357 (re-verified this pass, References-only background not orphan), meta-epistemology self-cite live (NOT archived, no rot) — all real-correct. Hygiene clean: EOF no tool-tag, no dup frontmatter keys, all 23 wikilinks resolve to LIVE Map slugs, no superlative-helper matches, tenets referenced by prose name not sub-anchor. No possibility/probability slippage (Tenet-1 dualism passage upgrades precision not evidential status; classification explicitly provisional/second-order-occluded). Bedrock disagreements (eliminative materialism, Madhyamaka, Dennett-unfalsifiability) not re-flagged per prior stability notes. Real fix → both ai_modified + last_deep_review bumped to 2026-06-26T14:17:11Z (date -u-checked, not future).
+- **Output**: [deep-review-2026-06-26-closure-types-void](/reviews/deep-review-2026-06-26-closure-types-void/)
+
+## 2026-06-26T13:55:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
+- **Word count**: 2737 → 2958 (+221; under 3000 soft threshold; length-neutral trims applied to offset currency additions)
+- **Critical issues addressed**: 2 — (1) empirical-record currency drift: the article's terminal/paradoxical-lucidity evidence base was framed as "anecdotal, no prospective studies, conditional on FUTURE prospective research," but the 2024–2026 literature has overtaken that (Karlawish 2024 prospective caregiver study; Tollock/Parnia 2025 multi-site prospective cohort, 61.6% lucidity; Levin 2026 population survey, 43.6% prevalence). Calibrated update across 3 passages: prospective documentation now exists and episodes are common, BUT mostly brief and NOT yet paired with post-mortem substrate measurement, so the core "cognition exceeds residual capacity?" puzzle is "documented but unresolved." Added new ref [6] Karlawish et al. 2024 Gerontologist 64(6) gnad170. (2) orphan citation [3] Tulving (1985) — present in References, cited nowhere inline across ≥6 commits, missed by all 4 prior deep reviews; repaired by inline attachment at the autonoetic-consciousness passage (Tulving's canonical trichotomy source).
+- **Medium issues addressed**: 0 new
+- **Enhancements made**: currency update of lucidity evidence base (3 passages) + new prospective ref [6]; orphan [3] repaired; length-neutral trims (decorative example-triple, disconfirmer #1, lucidity paragraph) to keep under soft threshold.
+- **Notes**: 5th deep review; opus-4-6 creation-stamp but 2026-05-31 (opus-4-8) pass had web-verified the 5 static cites clean — those NOT re-litigated (stable-References skip). The live thread was the lucidity *currency*, which is a separate channel and had genuinely drifted. This is empirical-record-currency drift (correct framing the world moved past), NOT fabrication and NOT bedrock disagreement — a tenet-accepting reviewer would still flag the stale "no prospective studies" claim. Update does NOT inflate evidence (strong dualist reading still explicitly conditional on absent substrate-correlation). Hygiene clean: EOF, no tool-tag, no dup keys, no "This is not X. It is Y." cliché, all wikilinks resolve to LIVE targets ([interactionist-dualism](/concepts/interactionist-dualism/)→live concept not the archive copy; [epiphenomenalism](/concepts/epiphenomenalism/)→live; 5 tenet sub-anchors canonical), no superlative-helper matches. All 6 refs now 1:1 inline↔References (no orphans either direction). Real body fix → both ai_modified + last_deep_review bumped to 2026-06-26T13:55:24Z (date -u-checked, not future).
+- **Output**: [deep-review-2026-06-26-consciousness-and-neurodegenerative-disease](/reviews/deep-review-2026-06-26-consciousness-and-neurodegenerative-disease/)
+
+## 2026-06-26T13:44:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Word count**: 4043 → 3997 (-46; length-neutral condense, back under 4000 hard cap → soft_warning)
+- **Critical issues addressed**: 0 (none found after full scrutiny)
+- **Medium issues addressed**: 1 (over the 4000 hard cap — resolved via redundancy trim)
+- **Enhancements made**: 4 length-neutral redundancy removals — (1) L71 dropped duplicated "more robust than IIT's empirical fortunes but not wholly independent of its framework" (same point made at paragraph close); (2) L69 merged trailing meta-parenthetical + dropped redundant "developed below" forward-ref (table follows immediately); (3) L85 removed duplicated per-philosopher method list (next sentence already names life/causal-powers/integrated-information criteria); (4) L85 tightened closing hedge clause. Every calibration qualifier preserved.
+- **Notes**: 7th deep review; drift-axis = LENGTH not citation. The 2026-06-05 review (6th, first full publisher-of-record audit of all 22 cites — clean except a Beni page-range fix) predicted this exact pass: it left the article 2 words under the 4000 cap and authorised a length-neutral condense if a future edit crossed it. Cross-link installs on 2026-06-07 (new siblings composition-question-rivals, mereology-of-mind, manyism) pushed it to 4043. git-diff confirmed References block byte-unchanged since the 2026-06-05 audit → §2.4 web-verify SKIPPED per the stable-References skip rule (not re-litigating an already-publisher-verified philosophy-secondary corpus). Pre-flight clean: 3 new wikilinks resolve, their sub-anchors map to explicit {#anchor} headings, 5 tenet sub-anchors canonical, no EOF tool-tag, no dup frontmatter keys, no "This is not X. It is Y." cliché, no editor-vocabulary label leakage. No superlative empirical-record claims (lone "so far" is rhetorical). No calibration slippage, no boundary-substitution. Real body edit → both ai_modified + last_deep_review bumped (timestamps date -u-checked, not future). NOT a human-length-decision flagship case (per prior note).
+- **Output**: [deep-review-2026-06-26-consciousness-and-the-metaphysics-of-composition](/reviews/deep-review-2026-06-26-consciousness-and-the-metaphysics-of-composition/)
+
+## 2026-06-26T13:35:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [disappearance-voids](/voids/disappearance-voids/)
+- **Word count**: 2669 → 2682 (+13; References metadata only, body length-neutral; 134% of 2000 soft, acceptable for coalesced 3-void article)
+- **Critical issues addressed**: 1 (wrong-author + truncated-title citation defect — Reference 5 "Sparby, T. (2024)" corrected to "Sparby, T. & Sacchet, M. D. (2024)", full title incl. subtitle, *Mindfulness* 15:1375-1394, publisher-verified Springer DOI 10.1007/s12671-024-02367-w; 3-state = real-wrong-metadata → fix not de-cite. Survived 3 prior reviews — 2026-05-31 flagged the entry as "weakest-anchored" but only as an orphan nit, never web-verified; corpus's other Sparby/Sacchet cites are DIFFERENT papers so no intra-corpus cross-check existed)
+- **Medium issues addressed**: 0 (Menon 2023 real-correct but lacks vol/issue — optional, not fixed)
+- **Enhancements made**: 0 body; family-resolution propagated the canonical Sparby & Sacchet form to live research note voids-absorption-void-2026-02-22.md (archive/voids/absorption-void.md left frozen)
+- **Notes**: 4th deep review of a converged article; scrutinized per steering not assumed no-op — found 1 real attribution defect. Web-verified 5 cites at publisher of record this pass: Sparby&Sacchet 2024 (fixed), Ciocan 2025 real-correct (Phenom. Cog. Sci. DOI 10.1007/s11097-025-10115-1), Killgore 2010 real-correct (Prog. Brain Res. 185:105-129), Menon 2023 real-correct, James 1890 quote verbatim & correctly attributed. No superlative claims (currency helper empty). All 29 wikilinks resolve (no archival rot), tenet sub-anchors canonical, no frontmatter dups, EOF clean, no cliché/editor-slugs. No calibration slippage; diagnostic test (tenet-accepting reviewer would not flag overstatement) re-applied clean. Bedrock disagreements (eliminative-materialist, physicalist) NOT re-flagged. Real fix → both ai_modified + last_deep_review bumped.
+- **Output**: [deep-review-2026-06-26-disappearance-voids](/reviews/deep-review-2026-06-26-disappearance-voids/)
+
+## 2026-06-26T13:22:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [delegatory-dualism](/topics/delegatory-dualism/)
+- **Word count**: 3827 → 3827 (no change; length-neutral, soft_warning under 4000 hard)
+- **Critical issues addressed**: 0 (none found — genuine no-op after full scrutiny)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 8th deep review of the oldest opus-4-5-build settled placeholder. Genuinely re-scrutinized per steering, NOT assumed no-op. Central Saad 2025 cite re-verified at Springer (Phil. Studies 182(3), 939-967, DOI 10.1007/s11098-025-02290-3; five constraints correctly Saad's; no Vaassen contamination). All 6 cites real-correct, verbatim Saad quotes re-grepped faithful against live research note, tenet anchors canonical, no frontmatter dups, no link rot, no cliché/editor-slugs, EOF clean. "to date" superlative is constitutive (observational-closure design), not a currency-drift candidate. No calibration slippage, no Mode/boundary-substitution defects. Engagements — physicalist: Mode Two (concedes cheaper non-ontology explanation, boundary-marks residue honestly); eliminativist: Mode Three (determinacy gap recorded as open question); illusionist: Mode Three (premise-denial boundary). Per no-op hygiene: last_deep_review bumped only, ai_modified left settled 2026-05-31.
+- **Output**: [deep-review-2026-06-26-delegatory-dualism](/reviews/deep-review-2026-06-26-delegatory-dualism/)
+
+## 2026-06-26T13:10:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: AI / LLM-consciousness cluster (6 articles) — quantum-randomness-channel-llm-consciousness, hoel-llm-consciousness-continual-learning, quantum-state-inheritance-in-ai, llm-consciousness, ai-epiphenomenalism, anti-correlation-probes-for-ai-consciousness. Third optimistic pass of the day on a distinct cluster (after applied-phenomenology and mental-causation clusters).
+- **Key finding**: Exemplary evidential restraint — Hardline Empiricist and Process Philosopher personas CONVERGE rather than conflict (honest possibility/probability boundary). Cluster repeatedly declines tenet-as-evidence-upgrade explicitly ("neither supported nor threatened"; "evidence, not proof"). RNG-falsifiability self-audit is the standout calibration passage. One minor parity note: quantum-state-inheritance-in-ai lacks the explicit "open empirical question" register-marker its siblings carry (not a refine-trigger).
+- **Tasks generated**: 3 (1× P3 refine-draft reciprocal cross-links; 1× P3 expand-topic quantum-hardware-AI-consciousness consolidation with calibration guardrail)
+- **Output**: [optimistic-2026-06-26c](/reviews/optimistic-2026-06-26c/)
+
+## 2026-06-26T13:02:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
+- **Word count**: 2432 → 2432 (+0; confirmed no-op — body + References UNCHANGED since 2026-05-31 review commit b033305a0, which was the last commit touching the file)
+- **Critical issues addressed**: 0 (none found; third consecutive deep review with zero critical, strongly converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (content no-op; `last_deep_review` bumped ONLY, `ai_modified` left at settled 2026-05-31T10:27:56+00:00)
+- **Citation web-verify**: References byte-identical to twice-verified version; re-confirmed the sole time-varying figure live — Burke, Martens & Faucher 2010 (*Pers. Soc. Psychol. Rev.* 14(2), 155–195, DOI 10.1177/1088868309352321): 164 articles / 277 experiments — real-correct. Wegner 1994 (101(1), 34–52), Golman et al. 2017 (JEL 55(1), 96–135), McGinn 1989 (*Mind* 98(391), 349–366) carry prior publisher verification; corpus-grep confirms McGinn tuple is the canonical stable form (no family-resolution needed). All 11 refs invoked, no orphans either direction. No superlative claims (currency-sweep N/A).
+- **Hygiene**: EOF tool-tag scan clean; 5 tenet sub-anchors canonical (match tenets.md exactly); agency-void#the-verification-circularity resolves; all wikilinks resolve; no dup frontmatter keys; no "is not X. It is Y." cliché; no stale internal sibling-quotes (only external citations quoted). Calibration: void claim consistently structural/phenomenological, no possibility/probability slippage (tenet-accepting reviewer would flag nothing).
+- **Length**: 2432 words / 2000 voids soft (122%, soft_warning); length-neutral, unchanged.
+- **Output**: [deep-review-2026-06-26-self-maintained-cognitive-limits](/reviews/deep-review-2026-06-26-self-maintained-cognitive-limits/)
+
+## 2026-06-26T12:52:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
+- **Word count**: 2410 → 2410 (+0; confirmed no-op — body UNCHANGED since the 2026-05-31 review which was the last commit touching the file; re-qualified by convergence-damping cross-link bump)
+- **Critical issues addressed**: 0 (none found; fifth deep review, deep convergence)
+- **Medium issues addressed**: 0 (line-86 "is not...It is" contrast deliberately retained per 2026-05-31 — analytical, natural, four reviews left it; editing = oscillation)
+- **Enhancements made**: 0 (content no-op)
+- **Citation web-verify**: per-cite publisher-of-record ledger run; Fogelin 1985 (Informal Logic VII.1, 3–11) and Pitt 2004 (PPR 69(1), 1–36, DOI 10.1111/j.1933-1592.2004.tb00382.x) re-verified live this pass — both real-correct. Kelly 2005 / Strawson 1994 / Chalmers 1996 carry 2026-05-31 clean verify (References unchanged). Inline↔References clean, no orphans. No superlative claims (currency-sweep N/A).
+- **Mechanical**: length 2410/3000 ok; EOF clean; 20/20 wikilinks live; tenet anchors canonical (^dualism/^bidirectional-interaction/^occams-limits); no label leakage; no archival rot.
+- **Calibration** (Tenet 5 load-bearing): honest — Occam's passage is named-parsimony-cost form, no possibility/probability slippage, no epistemic/metaphysical equivocation. No-op hygiene: `last_deep_review` bumped only, `ai_modified` left at settled 2026-05-31.
+- **Engagement modes**: functionalist objection answered Mode-Two (unearned "dispositional profile only" move) + Mode-Three boundary residue; no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-26-phenomenology-of-philosophical-disagreement](/reviews/deep-review-2026-06-26-phenomenology-of-philosophical-disagreement/)
+- **Stability**: deep convergence (5 reviews, 2 consecutive no-ops). Recommend lengthening staleness interval — metadata-only re-reviews now very low-yield.
+
+## 2026-06-26T12:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Word count**: 3994 → 3994 (+0; content no-op — body argument-completed earlier today by refine `72d97d9d7`, this pass verifies & web-verifies)
+- **Critical issues addressed**: 0 (none found; the today-refine already closed the three pessimistic-2026-06-26 argument gaps — verified sound: epistemic/metaphysical bridge marked, functional-system premise downgraded to framework commitment + LLM engaged, eliminativist reframed challenge-not-refutation; both counterargument acknowledgments present)
+- **Medium issues addressed**: 0 (length 3994/4000 flagged as watch-item — 6 words under hard ceiling, no addition headroom; this pass length-neutral)
+- **Enhancements made**: 0 (content no-op)
+- **Citation web-verify**: per-cite publisher-of-record ledger run; Jackson 1982 (PQ 32(127), 127–136) and Churchland 1981 (J.Phil 78(2), 67–90) re-verified live this pass — both real-correct. Schwitzgebel/Dennett/Chalmers/Coady/Hume/Reid/Lackey real-correct (prior live + canonical). Inline↔References cross-check clean, no orphans. No superlative claims (currency-sweep N/A).
+- **Engagement classification (editor-internal)**: Dennett heterophenomenology Mode Two (today-refine corrected prior over-reach to underdetermination claim); Churchland eliminativism Mode Two (debt named); MWI Mode Three (honestly tenet-grounded). No label leakage in body.
+- **Link/anchor check**: 27/27 wikilinks resolve; 5/5 tenet sub-anchors canonical (not truncated). EOF clean (no tool-tag artifact).
+- **Frontmatter**: last_deep_review bumped to 2026-06-26T12:50:00+00:00 (date -u-checked, not future); ai_modified LEFT at settled today-value 2026-06-26T12:18:51+00:00 per no-op-hygiene (no body edit this pass).
+- **Output**: [deep-review-2026-06-26-consciousness-and-testimony](/reviews/deep-review-2026-06-26-consciousness-and-testimony/)
 
 ## 2026-06-26T12:32:25+00:00 - deep-review
 - **Status**: Success

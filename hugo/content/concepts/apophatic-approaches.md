@@ -16,7 +16,7 @@ description: How apophatic methods — defining what something is not — provid
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 22:35:00+00:00
+last_deep_review: 2026-06-26 15:43:53+00:00
 modified: *id001
 related_articles:
 - '[[apophatic-cartography]]'

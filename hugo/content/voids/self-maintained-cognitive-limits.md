@@ -21,7 +21,7 @@ description: Consciousness actively participates in maintaining its own cognitiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 10:27:56+00:00
+last_deep_review: 2026-06-26 13:02:07+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

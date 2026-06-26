@@ -18,7 +18,7 @@ description: The dualist position that consciousness couples with all physical s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 18:16:44+00:00
+last_deep_review: 2026-06-26 14:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

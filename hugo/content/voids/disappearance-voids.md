@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-05-31 10:37:50+00:00
+ai_modified: 2026-06-26 13:35:25+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Three mechanisms by which phenomenal content vanishes from consciou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 10:37:50+00:00
+last_deep_review: 2026-06-26 13:35:25+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -186,7 +186,7 @@ Within the [voids framework](/voids/three-kinds-of-void/), these disappearance v
 2. Dreyfus, H. L. (2014). *Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action*. Oxford University Press.
 3. Gallagher, S. & Zahavi, D. (2012). *The Phenomenological Mind*. 2nd ed. Routledge.
 4. Menon, V. (2023). "20 years of the default mode network: A review and synthesis." *Neuron*.
-5. Sparby, T. (2024). "Toward a Unified Account of Advanced Concentrative Absorption Meditation." *Mindfulness*.
+5. Sparby, T. & Sacchet, M. D. (2024). "Toward a Unified Account of Advanced Concentrative Absorption Meditation: A Systematic Definition and Classification of Jhāna." *Mindfulness*, 15, 1375-1394.
 6. Shklovsky, V. (1917). "Art as Device." *Russian Formalist Criticism: Four Essays*, trans. Lee T. Lemon and Marion J. Reis (1965).
 7. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 8. Brickman, P., Coates, D., & Janoff-Bulman, R. (1978). "Lottery Winners and Accident Victims: Is Happiness Relative?" *Journal of Personality and Social Psychology*, 36(8), 917-927.
