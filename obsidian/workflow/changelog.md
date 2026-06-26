@@ -5,6 +5,14 @@ ai_modified: 2026-06-26T03:48:45+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T04:03:00+00:00 - deep-review
+- **Status**: Success (staleness re-pick; substantive — 1 cliché + 3 citation-metadata fixes; both timestamps bumped). Orchestrator-finalized (fork applied cliché fix then monitor-wait-bailed; citation subagent ledger folded in).
+- **File**: [[voids/transformative-experience-void]]
+- **Word count**: 2542 → 2582 (cliché merge + 3 reference metadata completions; both ai_modified + last_deep_review bumped 2026-05-31 → 2026-06-26)
+- **Critical issues addressed**: 0; **Medium**: 4 (1 cliché, 3 citation metadata); **Low**: 0
+- **Summary**: 2026-05-31 staleness frontier-tier pick. Fixes: (1) 7th banned cliché this session ("This is not preference updating... It is preference replacement" → "Rather than updating preferences..., transformation replaces them"); (2) Paul "Précis" wrong year 2022→2015 + venue (PPR 91(3):760-765), inline "Paul's (2022)"→"(2015)" too — no 2022 Précis exists; (3) Pettigrew incomplete metadata → added 2020 + full title + Becoming Someone New (Lambert & Schwenkler eds., OUP, 100-121, a chapter); (4) Harman incomplete → added 2015 + Res Philosophica 92(2):323-339. §2.4: 5/8 cites already clean (Paul 2014, Paul 2015 Replies, SEP, Villiger 2024, Jackson 1982); all 4 in-body attributions faithful (SEP def verbatim, Paul authenticity, Pettigrew third-party, Harman testimony). Length 2582w soft_warning under voids hard. EOF clean. Real edits → both timestamps bumped; date -u-verified 04:03 not future.
+- **Output**: [[reviews/deep-review-2026-06-26-transformative-experience-void]]
+
 ## 2026-06-26T03:48:45+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro (gpt-5-5-pro)
