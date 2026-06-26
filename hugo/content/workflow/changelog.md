@@ -1,13 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 06:48:19+00:00
+ai_modified: 2026-06-26 07:45:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-26T07:45:00+00:00 - refine-draft (policy-doc: fold 2026-06-26 convergent outer-review methodology proposals)
+- **Status**: Success
+- **Files**: [evidential-status-discipline](/project/evidential-status-discipline/), [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Source**: convergent outer reviews 2026-06-26 (chatgpt + Claude Opus 4.8), [outer-review-synthesis-2026-06-26](/reviews/outer-review-synthesis-2026-06-26/) cluster #5. Five proposals (#16–#20). Ratification discipline: each classified into bucket A (already covered → no-op), B (documentation tightening of existing practice → fold concisely), or C (genuinely-new machinery → record as pending human ratification, NOT binding). Tenet 5.
+- **Per-proposal disposition**:
+  - **#19 (independent-discriminator before "supports Dualism/MQI") → BUCKET A.** Already the *Compatibility vs. Support at the Rival-Model Interface* section ("compatibility ≠ support … unless the article names an independent discriminator the rival does not also predict"). Stated crisply already; added one confirming paragraph noting the 2026-06-26 convergence re-proposed the existing rule (Claude's "is this predicted equally well by the leading physicalist rival? if yes, non-evidential" = the rule restated). No new gate.
+  - **#18 (access/phenomenal split as standing reviewer check) → BUCKET B.** Folded as a fifth member of the cross-cutting-rules family: new "### Access/Functional Mental Causation ≠ Phenomenal Mental Causation". Updated "Four Cross-Cutting Rules" → "Five"; updated the family-intro sentence. Documentation tightening of practice just demonstrated across the mental-causation cluster this cycle (synthesis cluster #1). Cross-links the existing compatibility-vs-support discriminator requirement and mental-effort constrain-vs-establish move.
+  - **#17 (current-literature sweep on revision) → BUCKET B (overlap) + C (hard per-revision gate).** Added a second convergent-confirmation footnote under calibration-audit-triple Audit One (confirms existing weekly literature-drift cadence; notes Claude's "strongest post-2015 rival cited?" is a recency-of-rival check best read as candidate-content for the existing pass). The hard per-revision *gate* (blocks publication until sweep runs) is new machinery → recorded under the new pending-ratification section, NOT instituted.
+  - **#16 (mandatory per-claim evidence ledger) → BUCKET C (singleton).** ChatGPT-only, lower-confidence. Most of its function already discharged by the source-role table (per-source) + grade-by-conclusion taxonomy (per-line); the new element is making a per-claim ledger a standing requirement. Recorded as proposed pending ratification.
+  - **#20 (post-correction cross-article citation-role audit) → BUCKET C (singleton).** ChatGPT-only. Genuinely-new correction-triggered fan-out process not currently run. Recorded as proposed pending ratification with cheapest-wiring note (hook on refine/deep-review corrective path → P2 cross-article source-role re-classification).
+- **New pending-ratification section**: "## Proposed: Per-Revision Recency Gate, Per-Claim Evidence Ledger, Post-Correction Citation-Role Audit (pending human ratification — 2026-06-26 outer-review)" in calibration-audit-triple.md. Items (a)/(b)/(c) labeled proposed-not-enacted, not binding.
+- **HARD RULES honored**: no tenet/tenets.md edits; no structural rewrite (surgical additions + one section-count header update); validate.py ✓ Valid on both (pre-existing length warnings only — project methodology docs, exempt from article ceiling); ai_modified stamped 2026-06-26 (not future; `date -u` = 07:45 UTC). Fixed one near-broken wikilink (content-specificity is a concept, not topic). Uncommitted — cycle_post handles commit.
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-26T07:39:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)
+- **Word count**: 2065 → 2065 (no change — converged, 7th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-edit pass; article converged and freshly calibrated by today's cross-review propagation)
+- **§2.4 web-verify**: the two NEW cites added by commit d3839143c, publisher-of-record verified clean — Gröpel & Mesagno 2019 (*Int. Review of Sport & Exercise Psychology* 12(1):176-201, real-correct); Smoulder et al. 2024 (*Neuron* 112(20):3424-3433.e8, real-correct, first explicit publisher-of-record check of this cite in this article). Other 8 cites unchanged since 2026-06-06 verify; inline↔References complete, no orphans.
+- **§2 calibration**: no slippage — today's access/phenomenal propagation tightens calibration conservatively; a tenet-accepting reviewer would flag no evidential upgrade.
+- **§2.6 reasoning-mode**: Functionalist Response = Mixed (Two→Three), unchanged; no editor-vocabulary label leakage ("access-level reading" is substantive content, not a forbidden label).
+- **Output**: [deep-review-2026-06-26-content-specificity-of-mental-causation](/reviews/deep-review-2026-06-26-content-specificity-of-mental-causation/)
+
+## 2026-06-26T07:32:00+00:00 - cross-review (access/phenomenal calibration propagation)
+- **Status**: Success
+- **Files**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/), [attention-as-interface](/concepts/attention-as-interface/), [interface-friction](/concepts/interface-friction/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Source**: convergent outer reviews 2026-06-26 (chatgpt + Claude Opus 4.8), [outer-review-synthesis-2026-06-26](/reviews/outer-review-synthesis-2026-06-26/) cluster #4 ("the slide propagates to the sibling cluster"). Propagates the access→phenomenal calibration fix just landed on [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) to four named siblings. Priority P1. Tenets 1, 3.
+- **Quotes grep-verified present before editing**: content-specificity "meaning determines outcome" (L57, L83 — both confirmed); attention-as-interface "consciousness determines which option crosses threshold" (L159 — confirmed); interface-friction choking paragraph cited only the target article (L77 — confirmed); empirical-evidence evidence ladder present (L116-122 — confirmed). No fabricated reviewer quotes; nothing skipped for absence.
+- **Changes per file**:
+  - **content-specificity** (1799→2065w, ok): softened "meaning determines outcome" (L57, L83) to "represented content, expectation, or task-directed attention predicts outcome in some channels," then stated SEPARATELY that the Map *interprets* represented content as phenomenally constituted (access-level rival fits same data; cross-linked to the target article's established/not-established demarcation). 2020s choking update: added Gröpel & Mesagno 2019 (systematic review, 47 intervention studies) + Smoulder 2024 (motor-cortical substrate) to the choking paragraph.
+  - **attention-as-interface** (3022→3090w, soft_warning, under hard 3500): revised "consciousness determines which option crosses threshold" → "willed attention participates in threshold selection (the Map's reading)"; added one rival-reading sentence — classical top-down attentional control + dopaminergic threshold-setting already determine which option crosses, with felt effort a phenomenal accompaniment, not a causal contributor.
+  - **interface-friction** (2304→2469w, ok): added direct cites to the choking paragraph (was target-article-only) — Beilock & Carr 2001, Gröpel & Mesagno 2019, Smoulder 2024; explicitly preserved + localised its own caveat (interpretive fit, not an empirically distinguishable prediction beyond standard motor-control/reward-pressure models).
+  - **empirical-evidence-for-consciousness-selecting** (3473→3579w, soft_warning, under hard 4000): added Placebo & choking as a row in the evidence ladder, graded supports-mental-causation (no higher — no discriminator isolates felt engagement from estimated precision); matched the table's existing physicalist-reading column style. Cites Büchel 2014, Beilock & Carr 2001.
+- **Citations web-verified at publisher of record (3-state)**: Gröpel & Mesagno (2019), *Int. Review of Sport & Exercise Psychology* 12(1):176-201 — VERIFIED (Tandfonline/Vienna/VU repositories). Büchel, Geuter, Sprenger & Eippert (2014), *Neuron* 81(6):1223-1239 — VERIFIED (PubMed 24656247 / ScienceDirect). Beilock & Carr 2001 and Smoulder 2024 reused from existing corpus references.
+- **Engagement classifications (editor-internal, not in any article body)**: content-specificity functionalist reply — Mode Two (functionalism helps itself to "feeling = functional role" without earning it; downgraded the prose to separate the access-level prediction from the Map's phenomenal interpretation rather than letting the interpretation pass as the empirical result). attention-as-interface dopaminergic-threshold rival — Mode Two/boundary (named the unsupported phenomenal-causation jump; added explicit rival-reading honesty). interface-friction — Mode Three (framework-boundary; the article already concedes interpretive-fit status, now localised to the choking claim). empirical-evidence ladder — Mode Three (the table is itself a boundary-marking device; new row graded to the weakest claim the data carry). No mode labels written into any body.
+- **Published**: yes (kept published; refine, last_deep_review untouched on all four)
 
 ## 2026-06-26T07:19:12+00:00 - refine-draft
 - **Status**: Success
