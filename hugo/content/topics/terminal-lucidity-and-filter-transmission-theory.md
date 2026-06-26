@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-25 14:36:43+00:00
+ai_modified: 2026-06-26 22:57:03+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,6 +38,8 @@ related_articles:
 - '[[altered-states-as-interface-evidence]]'
 - '[[arguments-against-materialism]]'
 - '[[clinical-dissociation-as-systematic-evidence]]'
+- '[[bandwidth-of-consciousness]]'
+- '[[anaesthesia-and-the-consciousness-interface]]'
 title: Terminal Lucidity and Filter/Transmission Theory
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -171,6 +173,8 @@ Terminal lucidity's evidential force has grown substantially over two decades:
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased brain activity with expanded consciousness
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for brain-consciousness relations
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Covert consciousness and the interface distinction
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The complementary case: increased filtering eliminates experience
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The information-theoretic asymmetry filter theory resolves
 - [consciousness-interface-development](/topics/consciousness-interface-development/) — The sibling treatment that first absorbed the 2025 prospective lucidity data
 - [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis of altered state evidence for the filter model
 - [evidential-status-discipline](/project/evidential-status-discipline/) — Why the phenomenon constrains production models without establishing the filter alternative

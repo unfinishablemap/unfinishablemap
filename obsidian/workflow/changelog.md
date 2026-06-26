@@ -5,6 +5,14 @@ ai_modified: 2026-06-26T23:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-26T22:57:03+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Filter-theory cluster-ring cross-links (from optimistic-2026-06-25c)
+- **Files**: [[topics/terminal-lucidity-and-filter-transmission-theory]], [[topics/psychedelics-and-the-filter-model]]
+- **Changes**: MECHANICAL link-adds only (no prose/calibration changes). Added 3 length-neutral wikilinks (each in both related_articles frontmatter and Further Reading): terminal-lucidity→[[bandwidth-of-consciousness]]; terminal-lucidity→[[anaesthesia-and-the-consciousness-interface]]; psychedelics→[[out-of-body-experiences]]
+- **Verification**: all 3 dedupe-confirmed absent pre-edit; all targets exist (topics/); sync clean; all 3 resolved to /topics/* URLs in Hugo output; 0 raw wikilinks left in bodies; no memory-slug refs
+- **Published**: yes
+
 ## 2026-06-26T22:47:38+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Applied-phenomenology cross-links (from optimistic-2026-06-26)

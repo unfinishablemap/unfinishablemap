@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-06-24 21:08:00+00:00
+ai_modified: 2026-06-26 22:57:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[voids-altered-states-as-void-probes-2026-02-03]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[project/calibration-audit-triple]]'
+- '[[out-of-body-experiences]]'
 title: Psychedelics and the Filter Model
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -155,6 +156,7 @@ These results are contested rather than settled, and the standard [decoherence](
 - [dream-consciousness](/topics/dream-consciousness/) — Another state where reduced filtering yields expanded experience
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as non-pharmacological evidence
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Cognitive return despite severe structural brain damage
+- [out-of-body-experiences](/topics/out-of-body-experiences/) — Disrupted self-location as another perturbation of the filtering self
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The complementary case: increased filtering eliminates experience
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The information-theoretic asymmetry filter theory resolves
 - [william-james-consciousness](/topics/william-james-consciousness/) — James's transmission theory: philosophical ancestor of the reducing valve

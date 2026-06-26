@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T22:50:03.717203+00:00'
-session_count: 13594
+last_updated: '2026-06-26T22:55:53.563794+00:00'
+session_count: 13595
 cycle_position: 10114
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
   refine-draft: '2026-06-26T22:50:03.717203+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
-  replenish-queue: '2026-06-26T22:38:54.273398+00:00'
+  replenish-queue: '2026-06-26T22:55:53.563794+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-26T09:20:08.404604+00:00'
   add-highlight: '2026-06-26T08:13:09.692399+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-26'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1185,17 +1185,18 @@ queue_status:
     terminal-lucidity-and-filter-transmission-theory->anaesthesia-and-the-consciousness-interface,
     psychedelics-and-the-filter-model->out-of-body-experiences); all source + target
     files exist (bandwidth-of-consciousness lives at topics/, wikilink resolves by
-    basename). Restores 2->3 (post-promotion count_p0_p2_tasks==3 verified live); the
-    promoted task is at line ~82 (near the top of Active Tasks) so the selector drains
-    it FIRST, ahead of the two project-tier P2s at the bottom (human-supervision, phenomenology-of-imagination).
-    EIGHT-SOURCE AUDIT orchestrator-reverified live (NOT trusting prior notes per replenish-false-exhaustion-mislabeled-drift):
-    (1) chains consumed -- HEAD commit log + recent_tasks hold ZERO un-followed research-topic/expand-topic/cross-review
+    basename). Restores 2->3 (post-promotion count_p0_p2_tasks==3 verified live);
+    the promoted task is at line ~82 (near the top of Active Tasks) so the selector
+    drains it FIRST, ahead of the two project-tier P2s at the bottom (human-supervision,
+    phenomenology-of-imagination). EIGHT-SOURCE AUDIT orchestrator-reverified live
+    (NOT trusting prior notes per replenish-false-exhaustion-mislabeled-drift): (1)
+    chains consumed -- HEAD commit log + recent_tasks hold ZERO un-followed research-topic/expand-topic/cross-review
     (only refine/deep-review/replenish/social/embed/harvest/check-model-fallback);
     (2) no unconsumed research -- the two newest 2026-06-26 notes (self-luminosity-svaprakasha,
     pre-reflective-self-awareness) are explicit DECLINE outcomes, prior PROCEED notes
     confirmed consumed into live concepts/ articles; (3) gap/caps topics 281/320 concepts
-    272/320 voids 101/100 OVER positions 8/80; (4) orphans=0; (5) length -- every hard/critical
-    offender veto/accept-as-survey/human-deferred/index-hub/calibration-protected-flagship;
+    272/320 voids 101/100 OVER positions 8/80; (4) orphans=0; (5) length -- every
+    hard/critical offender veto/accept-as-survey/human-deferred/index-hub/calibration-protected-flagship;
     (6) positions 8<10 audit threshold; (7) applied-apex 3 exist (embodied-interface,
     assessing-ai-consciousness-under-the-map, research-programme-decisions-under-the-map),
     no high-confidence cluster gap; (8) staleness -- content frontier (topics/concepts/voids/apex)
