@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-26T17:11:22.907128+00:00'
-session_count: 13538
-cycle_position: 10083
+last_updated: '2026-06-26T17:19:08.653569+00:00'
+session_count: 13539
+cycle_position: 10084
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T11:51:35.266598+00:00'
   optimistic-review: '2026-06-26T13:16:18.899602+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-26T15:55:04.286116+00:00'
-  deep-review: '2026-06-26T17:08:44.503978+00:00'
+  deep-review: '2026-06-26T17:19:08.653569+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-26T15:57:40.536721+00:00'
   coalesce: '2026-06-26T14:14:00.846597+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5861
+  reviews_completed: 5862
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-26'
   outcome: success
 agentic_social:
@@ -1157,9 +1157,10 @@ queue_status:
   loop_pickable_open: 3
   replenishment_source_counts:
     staleness: 1
-  last_replenishment_run: 691
-  last_replenishment: '2026-06-26T17:05:00+00:00'
+  last_replenishment_run: 692
+  last_replenishment: '2026-06-26T17:22:00+00:00'
   last_replenishment_mode: standard
+  run_692_note: 'run no.692 (2026-06-26T~17:22Z): GENUINE FLOOR-RESTORING MINT of 1 staleness deep-review (project/automation.md). Pre-mint count_p0_p2_tasks==2 via tools.evolution.task_selector live this session (the two run-690 floor-restores project/voids-safety-protocol + project/human-supervision still pending; the run-691 floor-restore project/why-this-is-different.md was CONSUMED by the cycle-slot deep-review at HEAD 7524dffa9 minutes after minting, 3->2, documented replenish-at-floor alternation [[unfin_loop_steady_state]] NOT the empty-queue deadlock; the three veto condense tasks parser-excluded, the 15 P3s do not count toward the floor). MIN_QUEUE floor 3 unmet by 1; this single mint restores 2->3 (post-mint count_p0_p2_tasks==3 verified live). SOURCE=staleness (Source 4), project-tier frontier ([[staleness-audit-section-coverage-gap]]). project/automation.md is the OLDEST project-tier candidate by last_deep_review at 58d (2026-04-29T13:55) -- older than the run-690 38d pair and the consumed 41d why-this-is-different -- so TOP-inserted ABOVE the 38d pair for correct FIFO drain ([[queue-lifo-starvation]]). EFFECTIVELY SETTLED not genuine own-body drift: ai_modified 2026-05-15>last_deep_review but the only post-review touch (commit b4d6002a6) added a single [[why-this-is-different]] cross-link + one inbound sentence -- COSMETIC cross-touch, body unchanged since the 2026-04-29 review. VERIFIED clean: 0 commits today, no same-day collision, not archived/vetoed (Vetoed [[automation]] hits are false-positive cross-refs in other tasks notes), no open duplicate header, EOF scan clean. aic=100, ai_system=claude-opus-4-7. body 1301w status ok (project/ no cap, length-neutral review not a condense candidate). REAL review value expected: the 24-slot-cycle + five-cycle-trigger description is materially stale (check-model-fallback moved to 4h wall-clock; harvest-research-subjects, agentic-social, add-highlight, literature-drift-review, the three outer-review commission/collect services + combine-outer-reviews came online since the April review). EIGHT-SOURCE AUDIT reverified ([[replenish-false-exhaustion-mislabeled-drift]]): chains consumed (recent_tasks deep-review/replenish/maintenance only, zero research/expand/cross-review); no unconsumed research; gap/caps topics 281/320 + concepts 272/320 harvester-governed (harvester last 14:56, next ~20:56), voids 101/100 over-cap, positions 8/80 slow-add; orphans=0; length offenders all veto/accept-as-survey/human-deferred/research-note/index-hub; positions 8<10 audit threshold; applied-apex 3 exist no cluster gap; staleness the live source. Next project-tier FIFO: the 38d voids-safety-protocol + human-supervision pair, then the 40d settled tier (abandon-coalesce, mechanism-costs-cartography, testability-ledger, writing-style), excluding the recently-refined methodology docs (coherence-inflation-countermeasures, evidential-status-discipline) as touched-not-stale.'
   run_691_note: 'run no.691 (2026-06-26T~17:05Z): GENUINE FLOOR-RESTORING MINT of
     1 staleness deep-review (project/why-this-is-different.md). Pre-mint count_p0_p2_tasks==2
     via tools.evolution.task_selector live this session (the two run-690 floor-restores
