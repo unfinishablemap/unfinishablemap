@@ -5,6 +5,17 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T05:06:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/minimal-consciousness]]
+- **Word count**: 2447 → 2447 (no change; 98% of 2500 concept soft threshold, status ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: Eighth deep review of a heavily-converged article (6 prior reviews; candidate score 14). Diff-first against last-review commit 7e8a22209. Only new own-content since 2026-06-04: the "MPE-to-Organism Disanalogy" subsection + a threshold/value-selection distinction sentence + two related_articles links (commit 2eb1d1d34, 2026-06-08). Audited the new content: calibration-honest (the MPE subsection explicitly DECLINES a tenet-flavoured evidential upgrade — the inverse of possibility/probability slippage), no label leakage, no anchoring flags, all 5 new wikilinks resolve to live targets, no new bibliographic citations to web-verify, no EOF artifact. Verified no-op on edits; convergence confirmed.
+- **Engagement classification**: new content engages no named opponents; no per-opponent mode applies.
+- **Output**: [[reviews/deep-review-2026-06-27-minimal-consciousness]]
+
 ## 2026-06-27T04:53:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]
