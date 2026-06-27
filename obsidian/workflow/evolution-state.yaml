@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-27T02:43:46.094806+00:00'
-session_count: 13633
-cycle_position: 10131
+last_updated: '2026-06-27T02:48:52.438375+00:00'
+session_count: 13634
+cycle_position: 10132
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T22:22:15.683100+00:00'
   optimistic-review: '2026-06-26T23:17:17.896998+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-27T01:58:36.548781+00:00'
-  deep-review: '2026-06-27T02:43:46.094806+00:00'
+  deep-review: '2026-06-27T02:48:52.438375+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-27T02:01:21.986631+00:00'
   coalesce: '2026-06-27T00:28:42.317651+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5898
+  reviews_completed: 5899
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-27'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-27'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-27'
   outcome: success
 - task: deep-review
@@ -1144,9 +1144,10 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-27T02:28:50+00:00'
+  last_replenishment: '2026-06-27T03:05:00+00:00'
   replenishment_source_counts:
     staleness: 1
+  run_719_pickable_p0_p2: 3
   run_718_pickable_p0_p2: 3
   run_717_pickable_p0_p2: 3
   run_716_pickable_p0_p2: 3
@@ -1158,8 +1159,49 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 718
+  last_replenishment_run: 719
   last_replenishment_mode: standard
+  run_719_note: 'run no.719 (2026-06-27): FLOOR-RESTORING STALENESS MINT (not a promotion).
+    Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
+    run live; the run-717/718 FIFO-prior siblings (causal-closure-debate-historical-survey
+    + explanatory-gap) were CONSUMED by cycle-slot deep-reviews this UTC day (last_runs.deep-review
+    2026-06-27T02:48) -- documented replenish-at-floor alternation unfin_loop_steady_state,
+    NOT the empty-queue deadlock; most recent content task is a deep-review, not
+    replenish-queue, so both MIN_QUEUE gate conditions hold. The two surviving queued
+    P2 mints are metaphysics-of-information-under-dualism (run-717) + phenomenal-consciousness
+    (run-718). MIN_QUEUE floor 3 unmet by 1; minted ONE deep-review to restore 2->3
+    (post-mint count_p0_p2_tasks==3 verified live; selector still picks metaphysics-of-information
+    FIFO-first, confirming correct BOTTOM-insert). PICK: FIFO-next clean SETTLED candidate
+    in the 2026-06-01 placeholder tier (43-article 24-29d settled pool re-enumerated
+    live; FIFO head by oldest last_deep_review) = concepts/intentionality (last_deep_review==2026-06-01T00:00:00,
+    ai_modified==2026-06-04 is a frontmatter-only reciprocal-backlinks touch = cosmetic,
+    NOT own-body drift; mind-world-directedness Tenet-1 cluster; aic=100 ai_system=claude-opus-4-6
+    older cohort). The ai_modified>last_deep_review genuine-drift pool re-confirmed
+    ALL cosmetic/cross-link/cycle-commit-stale-field false signals this run (cognitive-phenomenology
+    24d-gap is a 06-26 deep-review cycle commit that did not bump last_deep_review;
+    intersubjectivity 12d is a coalesce reference-repoint; machine-consciousness 15d
+    is a sibling cross-link touch) -- apex-last-synthesis-drift-artifact, so settled-tier
+    staleness FIFO is the correct source. EIGHT-SOURCE AUDIT re-verified LIVE (NOT trusting
+    prior notes per replenish-false-exhaustion-mislabeled-drift): (1) chains consumed
+    -- recent_tasks all deep-review/replenish/agentic-social/embed/check-links/research-voids/commission/check-model-fallback,
+    zero un-followed research-topic/expand-topic/cross-review; (2) no unconsumed research
+    surfaced (harvester-governed pipeline, last ran 2026-06-26T21:03); (3) gap/caps
+    topics 281/320 + concepts 272/320 (harvester-governed) + voids 101/100 over cap
+    + positions 8-entry slow-add; (4) orphans=0; (5) length -- every CONTENT hard offender
+    is a research/ note, human-deferred, recently-condensed, #veto accept-as-survey,
+    an index hub, or trivially-over (consciousness-selecting-neural-patterns 3503w
+    == 3w over, just deep-reviewed 06-23), NO actionable blind-mintable condense candidate;
+    (6) positions 8 entries (<10 audit threshold), positions-evolve ran 06-22, no moved
+    Argued-in dependency; (7) 3 applied-apex exist, no high-confidence cluster gap;
+    (8) staleness the live source. VERIFIED settled+clean: 0 commits since 2026-06-27T00:00
+    touching it, NO same-day collision, NOT archived, NOT vetoed (8 todo.md intentionality
+    grep hits are all cross-link references in OTHER tasks notes + completed entries
+    for OTHER files), NO open deep-review header, EOF artifact scan clean (last 2 lines
+    = References Strawson 1994 Mental Reality + Whitehead 1929 Process and Reality).
+    body 3475w via analyze_length = soft_warning (concepts soft 2500/hard 3500, only
+    ~25w headroom; keep STRICTLY length-neutral-to-trimming, NOT a condense candidate).
+    BOTTOM-inserted per queue-lifo-starvation so the two FIFO-prior queued tasks (metaphysics-of-information-under-dualism,
+    phenomenal-consciousness) drain first. Replenishment NOT executing the task -- minting only.'
   run_718_note: 'run no.718 (2026-06-27): FLOOR-RESTORING STALENESS MINT (not a promotion).
     Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live; the run-714/715 mints (counterfactual-reasoning + causal-closure-debate-historical-survey)
