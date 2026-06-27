@@ -6,7 +6,7 @@ modified: 2026-04-24
 human_modified:
 ai_modified: 2026-06-19T00:00:00+00:00
 draft: false
-last_deep_review: 2026-05-31T19:29:31+00:00
+last_deep_review: 2026-06-27T00:41:05+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
