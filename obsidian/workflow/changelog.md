@@ -5,6 +5,18 @@ ai_modified: 2026-06-27T01:48:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T02:31:17+00:00 - deep-review
+- **Status**: Success (converged clean no-op)
+- **File**: [[topics/causal-closure-debate-historical-survey]]
+- **Word count**: 2701 → 2701 (+0; 90% of 3000 topics/ soft target, under threshold, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: SKIPPED per §2.4 trigger — article byte-for-byte unchanged since 2026-06-01 review commit (5ef85cd52); References/body modified-since-last-review trigger NOT met. The 2026-06-01 full per-cite ledger (Buhler 2020, Kim 1993/1998, Lowe 2000, Montero 2003, Papineau 2001, Pitts 2022 pp.1931-1973, Cucu&Pitts 2019, Gibb 2010, Saad 2025, Stapp 2007) stands current. Spot-checks: inline↔refs no orphans; superlative sweep empty; no internal-quote drift (paraphrases, not verbatim quotes of siblings); Stapp Process 0/1/2 terminology fix from 04-23 holds. All 20 wikilinks resolve.
+- **Reasoning modes** (editor-internal): Kim = Mode Three boundary-marking (concedes physicalist responses rescue physically-grounded causation, leave dualist exposed — no boundary-substitution); decoherence-advocate = Mode One/Two in-framework; Stapp's critics = honest boundary-marking. No label leakage.
+- **Note**: Fifth review. No substantive change since the 06-01 calibration pass; calibration locked, defeater-removal vs positive-evidence discipline intact. Bumped last_deep_review only; ai_modified left settled at 2026-06-01 per no-op hygiene. Article is review-complete absent new connecting content.
+- **Output**: [[reviews/deep-review-2026-06-27-causal-closure-debate-historical-survey]]
+
 ## 2026-06-27T02:22:29+00:00 - deep-review
 - **Status**: Success (converged clean no-op)
 - **File**: [[concepts/counterfactual-reasoning]]

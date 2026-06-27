@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-06-27T02:31:17+00:00
 ---
 
 The causal closure of the physical — the thesis that every physical event has a sufficient physical cause — is widely treated as an established scientific finding, though the historical record suggests it is better understood as a methodological assumption. The Unfinishable Map traces the principle's evolution from a seventeenth-century puzzle about Cartesian contact to a twentieth-century metaphysical axiom, suggesting that what began as an empirical observation about conservation laws was progressively strengthened beyond what physics on its own warrants. Understanding this history matters because causal closure is the load-bearing premise in virtually every contemporary argument against [[interactionist-dualism]]. The history constrains how much confidence the principle can carry; it does not by itself establish that closure is false.
