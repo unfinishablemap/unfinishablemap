@@ -5,6 +5,17 @@ ai_modified: 2026-06-27T01:48:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T02:46:54+00:00 - deep-review
+- **Status**: Success (converged clean no-op, verification pass)
+- **File**: [[concepts/explanatory-gap]]
+- **Word count**: 3445 → 3445 (+0; 138% of 2500 concepts/ soft target, under hard 3500, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: re-verified live this cycle. Strawson 2018 "The Consciousness Deniers" (NYRB Mar 13 2018) — real-correct, 06-01 fabrication-fix HELD (no re-introduction of the bogus "Silliest Claim / Routledge Handbook" form); body quote "the silliest claim ever made" faithful. Frankish 2016 "Illusionism as a Theory of Consciousness" JCS 23(11-12):11-39 — real-correct (vol/issue/pages exact). Levine 1983/2001, Chalmers 1996, Jackson 1982, McGinn 1989, Nagel 1974, Whitehead 1929 = canonical, verified 06-01, unchanged → carried forward. Superlative-currency sweep EMPTY. Inline↔References cross-check clean (Hutto/Myin/Nisbett/Wilson/Kripke/Dennett are name-checks pointing to other articles, not orphan refs). EOF clean.
+- **Note**: EIGHTH deep review. Git confirms article BYTE-IDENTICAL to 06-01 reviewed state (commit 4049e79df) — zero changes in 26 days; scorer would normally EXCLUDE it, this pass was operator-directed. No defects; no body edits (cosmetic additions to justify a pass are disallowed). Calibration honest (epistemic/ontological contestation kept explicit, five falsifiers). Recommend convergence-exclusion until body/References change materially.
+- **Output**: [[reviews/deep-review-2026-06-27-explanatory-gap]]
+
 ## 2026-06-27T02:41:48+00:00 - deep-review
 - **Status**: Success (converged clean no-op, verification pass)
 - **File**: [[topics/volitional-control]]
