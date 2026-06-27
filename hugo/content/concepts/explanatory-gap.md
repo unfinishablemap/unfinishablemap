@@ -22,7 +22,7 @@ description: Physical descriptions leave unexplained why neural activity feels l
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 03:55:00+00:00
+last_deep_review: 2026-06-27 02:46:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

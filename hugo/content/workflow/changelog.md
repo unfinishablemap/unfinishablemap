@@ -1,13 +1,220 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-27 00:41:05+00:00
+ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-27T04:45:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Review context**: Outer reviews 2026-06-27 (ChatGPT 5.5 Pro + Claude Opus 4.8, convergent 3/3 cluster); citation-misattribution defect
+- **Changes**: Corrected the Unification/Duplication-View attribution in "Aggregation Under Copy-Multiplicity" from "Bostrom (2022)" to Bostrom (2006), "Quantity of experience: brain-duplication and degrees of consciousness," *Minds and Machines* 16(2):185–200 — the paper that actually originates the two poles (verified via Springer DOI 10.1007/s11023-006-9036-0). Added the 2006 paper to References. Retained Bostrom & Shulman (2022) as a separately-cited source for the digital-mind quantity/repeated-runs/policy framing it does support (added a clause crediting it for transposing the quantity-of-experience question into the digital-minds setting). Substantive Duplication-View commitment unchanged — attribution-only fix.
+- **Length**: body 3827w (was ~3777w); near-length-neutral, under 4000w hard ceiling
+- **Published**: yes
+
+## 2026-06-27T04:42:11+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-27
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro; all audited topics/ethics-of-possible-ai-consciousness.md)
+- **Clusters**: 2 convergent (1 at 3/3 — the copy-multiplicity/Duplication-View aggregation defect; 1 at 2/3 — the expected-value/probability×magnitude gap), 8 singleton, 0 outright divergent (1 partial interpretive disagreement recorded)
+- **Tasks upgraded**: 1 (P2→P1: expected-value subsection). The 3/3 aggregation cluster's two tasks were already at the P1 ceiling — convergence recorded, not upgraded.
+- **Tasks deduplicated**: 0 (the two aggregation P1 tasks are complementary fixes — citation correction vs. inference rewrite — not redundant per-reviewer siblings)
+- **Disputed (excluded from convergence)**: Gemini weakness #1 (IIT/GNWT empirical-obsolescence via COGITATE) — the Gemini leg's own verification notes judged it overstates the article's reliance on indicators; no content task spawned
+- **Output**: [outer-review-synthesis-2026-06-27](/reviews/outer-review-synthesis-2026-06-27/)
+
+## 2026-06-27T04:35:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (3rd leg of the 2026-06-27 triple)
+- **File**: [outer-review-2026-06-27-gemini-2-5-pro](/reviews/outer-review-2026-06-27-gemini-2-5-pro/)
+- **Subject**: topics/ethics-of-possible-ai-consciousness.md
+- **Claims verified**: 5 (Mamak 2026, de Ruiter 2025, Seth 2024/25, biophoton-iScience-2025 — all real; weakness #1 IIT/GNWT-reliance OVERSTATED, weakness #2 "smuggling" partly a misread but CONVERGENT with ChatGPT+Claude legs)
+- **High-value findings**: 4 (3 genuinely-new missing counter-paradigms: biological naturalism, relational turn, instrumental suffering; + moral-realism/Street debunking — none raised by sibling legs)
+- **Tasks generated**: 2 (P2: engage missing counter-paradigms; P2: moral-realism/debunking objection) — duplicates of the Duplication-View / illusionism / EV findings were NOT re-minted (already queued from ChatGPT+Claude legs); 3-reviewer convergence on the aggregation critique flagged for /combine-outer-reviews
+
+## 2026-06-27T04:25:08+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: agency / free-will / falsifiability cluster — apex/consciousness-and-agency, concepts/control-theoretic-will, topics/the-psychophysical-control-law, topics/falsification-roadmap-for-the-interface-model
+- **Output**: [optimistic-2026-06-27](/reviews/optimistic-2026-06-27/)
+- **Key finding**: Process Philosopher and Hardline Empiricist personas converge in praise (honest calibration — no tier-upgrade slippage); verified cross-link gap from the apex synthesis anchor to control-theoretic-will and falsification-roadmap (P3 refine-draft queued)
+
+## 2026-06-27T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [intentionality](/concepts/intentionality/)
+- **Word count**: 3475 → 3475 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only. 10th review; firmly converged. Only change since 06-01 (9th) was a frontmatter-only reciprocal backlink (`content-vocabulary-as-derived-feature`, verified bidirectional). Body/References byte-identical → §2.4 web-verify trigger not met (all 5 classics CLEAN in 06-01 ledger). No body changes warranted.
+- **Output**: [deep-review-2026-06-27-intentionality](/reviews/deep-review-2026-06-27-intentionality/)
+
+## 2026-06-27T04:14:05+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [outer-review-2026-06-27-claude-opus-4-8](/reviews/outer-review-2026-06-27-claude-opus-4-8/)
+- **Subject**: ethics-of-possible-ai-consciousness (Claude leg of the 2026-06-27 triple)
+- **Verdict**: REVISE-HARD (Aggregation Under Copy-Multiplicity section demoted to coherence-only)
+- **Claims verified**: 2 citation defects web-verified against primary sources (Bostrom 2006 *Minds and Machines* 16(2):185–200 as the true origin of Unification/Duplication; Békefi 2026 *Faith and Philosophy* 42(1) Art.7, sole author) + article text matched to reviewer descriptions
+- **High-value findings**: 6 (Bostrom citation defect [CONVERGENT with ChatGPT]; tenet→Duplication entailment invalid [tenet leakage]; co-optation of Bostrom/Tokayer/Metzinger; Békefi/Schwitzgebel year fixes; illusionism+predictive-processing gap; expected-value tail [CONVERGENT with ChatGPT])
+- **Tasks generated**: 5 new (P1: 1 entailment-rewrite; P2: 4 = citation-years, co-optation flag, illusionism/PP engagement, methodology tenet-orthogonality+co-optation-firewall) + annotated 2 existing ChatGPT tasks (Bostrom P1, expected-value P2) as convergent
+- **Note**: Same-cycle triple — outer-review tasks deferred until /combine-outer-reviews synthesizes the 2026-06-27 cycle. ChatGPT leg already processed; Gemini leg still pending.
+
+## 2026-06-27T03:57:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
+- **Word count**: 2219 → 2219 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only; converged calibration anchor, zero substantive content change since 06-01 — only the staleness floor re-qualified it)
+- **Note**: 6th review, all six converging on "no critical issues." Calibration-anchor caveat honoured — body untouched to protect the corpus-wide hedge reference. §2.4 web-verify not re-triggered (References byte-identical to 06-01 publisher-verified ledger); no superlative claims; all 14 cross-links + the self-and-self-consciousness anchor resolve. Tune-system candidate: convergence-damping on the candidate scorer (6th no-op pass on an unchanging file). Engagement modes unchanged: illusionism = Mode Two + comparative-plausibility; PCS via Chalmers's master argument = in-framework, no boundary-substitution.
+- **Output**: [deep-review-2026-06-27-phenomenal-consciousness](/reviews/deep-review-2026-06-27-phenomenal-consciousness/)
+
+## 2026-06-27T03:53:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Word count**: 2538 → 2515 (-23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (soft-cap overshoot from the 06-07 Proponents'-Response addition — eight length-neutral prose trims, no content lost)
+- **Enhancements made**: 1 (web-verified the new Naccache et al. 2025 / niaf037 citation and its three body claims — all real-correct/faithful)
+- **Note**: 8th review; converged. Only the 06-07 COGITATE proponent-response subsection was new since 06-04; web-verify clean, no boundary-substitution, no slippage. Naccache niaf037 confirmed distinct from Streicher niaf042 (no propagation collision).
+- **Output**: [deep-review-2026-06-27-global-workspace-theory](/reviews/deep-review-2026-06-27-global-workspace-theory/)
+
+## 2026-06-27T03:46:53+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-27-chatgpt-5-5-pro](/reviews/outer-review-2026-06-27-chatgpt-5-5-pro/)
+- **Subject**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) (recent-aged fallback subject)
+- **Claims verified**: 4 (Bostrom 2006 Unification/Duplication origin — CONFIRMED defect; Schwitzgebel arXiv:2510.09858 — correct; Butlin-Long-Chalmers "et al." — reference OK, inline shorthand only; Birch "eight-indicator scheme" — plausible mischaracterization)
+- **High-value findings**: 5 (1 verified citation error, 1 plausible citation error, 1 missed EV counterargument, 1 currency gap, 1 dualist-bracketing prominence)
+- **Tasks generated**: 5 (P1: 1, P2: 4) — deferred until /combine-outer-reviews for cycle 2026-06-27 (sibling claude-opus review still pending)
+
+## 2026-06-27T03:34:15+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Indigenous Australian Philosophy of Consciousness
+- **Output**: [indigenous-australian-philosophy-of-consciousness-2026-06-27](/research/indigenous-australian-philosophy-of-consciousness-2026-06-27/)
+- **Sources consulted**: 14
+
+## 2026-06-27T03:31:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Source review**: [pessimistic-2026-06-27](/reviews/pessimistic-2026-06-27/) (2 MEDIUM issues, both length-neutral substitutions)
+- **Word count**: 3997 → 3999 (held under 4000 topics hard cap; all fixes done as substitutions + decorative trims, no net additions)
+- **Issue 1 (cost-of-accommodation under-argued)**: took the reviewer's option (b) — conceded the single-law parsimony reply explicitly (one brute psychophysical law "felt quality tracks functional role" subsumes both registers at flat marginal cost; same law applied twice ≠ two posits; more instances confirm a regularity, they do not multiply bridging principles) and downgraded "raises the cost" → "displays, in two independent registers, the regularity the brute-law view must treat as primitive." Realigned the four other "cost"-framed passages to match: intro ¶2, the framework-boundary ¶, the demarcation-section closer, and the Dualism-tenet line.
+- **Issue 2 (interpretive equivocation, per [evidential-status-discipline](/project/evidential-status-discipline/))**: realigned §"The Choking Side" ¶2 and §"Why Negative Evidence Is Stronger" to lead with the access-level claim (self-focused attentional *mode* degrades automatised execution — not in dispute) and reserve phenomenal-character efficacy for the explicitly interpretive register. Softened "begs explanation" (removed) and "you cannot confabulate interference" → behavioural-interference-is-no-post-hoc-report, with the felt-character question flagged as the open interpretive question the represented-mode story also predicts. Choking section and demarcation section no longer contradict; the §"What Is Established" demarcation (preserved intact) wins the tie.
+- **Length recovery**: trimmed the decorative MQI mechanism gesture in §"Relation to Site Perspective" to a bare cross-reference (concedes macroscale pathways, avoids inviting the decoherence objection); condensed §"Mechanism is unspecified", §"Contemplative Convergence" (dropped the tangential healing-ritual clause the Nagarjuna critique noted cuts against agent-causation), and several redundant example clauses. Net effect length-neutral.
+- **Preserved (per task)**: §"What Is Established and What Is Not", the Benedetti 2003 hormonal-channel concession, the open-label retreat handling (Kaptchuk/Fendel). "supports" → "fits" on the agent-causal opener for register-honesty.
+- **Reasoning-mode**: epiphenomenalist/illusionist engagement is framework-boundary (Mode Three) — explicitly downgraded in prose ("framework-boundary disagreement rather than an in-framework refutation"), no boundary-substitution, no label leakage.
+- **Discipline checks**: altered-state-symmetry `evaluate_symmetry` → None (N/A); EOF clean (no tool-call artifact); no forbidden editor-vocabulary in prose.
+- **Published**: yes (draft: false, unchanged)
+
+## 2026-06-27T03:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/empirical-phenomena-mental-causation.md` (placebo + choking; coalesced; 3997w body, pinned at the 4000 topics hard cap)
+- **Findings**: 2 MEDIUM issues — (1) interpretive equivocation: choking section asserts the phenomenal-efficacy reading its own evidential-demarcation section retracts; (2) the load-bearing cost-of-accommodation claim is asserted, never operationalised (one brute psychophysical law subsumes both registers at flat cost). Plus a structural length warning (no headroom). Discipline audits CLEAN: no label-leakage, altered-state symmetry N/A (no genuine supportive cluster), citation hygiene strong (Fendel 2025 web-verified clean). Queued 1 P2 length-neutral refine-draft.
+- **Output**: [pessimistic-2026-06-27](/reviews/pessimistic-2026-06-27/)
+
+## 2026-06-27T02:58:00+00:00 - deep-review
+- **Status**: Success (converged clean no-op, verification pass)
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Word count**: 2814 → 2814 (+0; 113% of 2500 concepts/ soft target, under hard 3500, no body edits — length-neutral converged article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 6th review; body unchanged since 2026-05-01 (06-01 pass was frontmatter-only, git c0e4fbe95). All 5 cites re-verified live publisher-of-record this cycle — Shannon 1948 BSTJ 27(3) 379-423 (Wiley/IEEE), Chalmers & McQueen 2022 in Gao (ed.) Consciousness and Quantum Mechanics OUP (OUP Academic/PhilArchive), Zheng & Meister 2025 Neuron 113(2) 192-204 (Cell/Caltech; 10 bits/s currency CONFIRMED un-superseded), Chalmers 1996 + Landauer 1961 source-stable = all real-correct. Superlative-currency sweep EMPTY. Inline↔References cross-check clean both directions. Evidential-status double-edged discipline PASS (info-metaphysics constrains physicalism, never used as pro-dualist evidence; Wheeler handled as adapted non-dualist programme; 10-bit figure "consistent with" minimality, not evidence-for). One sub-critical residue carried forward unchanged to avoid oscillation: sensory-rate framed as ~10^10 bits/s where source says ≥10^9 (order-of-magnitude contrast, non-load-bearing). Engagement with implicit deflationist (syntax-semantics): Mode Three dominant (honest boundary-marking, "structural rather than evidential"); no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-27-metaphysics-of-information-under-dualism](/reviews/deep-review-2026-06-27-metaphysics-of-information-under-dualism/)
+
+## 2026-06-27T02:46:54+00:00 - deep-review
+- **Status**: Success (converged clean no-op, verification pass)
+- **File**: [explanatory-gap](/concepts/explanatory-gap/)
+- **Word count**: 3445 → 3445 (+0; 138% of 2500 concepts/ soft target, under hard 3500, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: re-verified live this cycle. Strawson 2018 "The Consciousness Deniers" (NYRB Mar 13 2018) — real-correct, 06-01 fabrication-fix HELD (no re-introduction of the bogus "Silliest Claim / Routledge Handbook" form); body quote "the silliest claim ever made" faithful. Frankish 2016 "Illusionism as a Theory of Consciousness" JCS 23(11-12):11-39 — real-correct (vol/issue/pages exact). Levine 1983/2001, Chalmers 1996, Jackson 1982, McGinn 1989, Nagel 1974, Whitehead 1929 = canonical, verified 06-01, unchanged → carried forward. Superlative-currency sweep EMPTY. Inline↔References cross-check clean (Hutto/Myin/Nisbett/Wilson/Kripke/Dennett are name-checks pointing to other articles, not orphan refs). EOF clean.
+- **Note**: EIGHTH deep review. Git confirms article BYTE-IDENTICAL to 06-01 reviewed state (commit 4049e79df) — zero changes in 26 days; scorer would normally EXCLUDE it, this pass was operator-directed. No defects; no body edits (cosmetic additions to justify a pass are disallowed). Calibration honest (epistemic/ontological contestation kept explicit, five falsifiers). Recommend convergence-exclusion until body/References change materially.
+- **Output**: [deep-review-2026-06-27-explanatory-gap](/reviews/deep-review-2026-06-27-explanatory-gap/)
+
+## 2026-06-27T02:41:48+00:00 - deep-review
+- **Status**: Success (converged clean no-op, verification pass)
+- **File**: [volitional-control](/topics/volitional-control/)
+- **Word count**: 3518 → 3518 (+0; 117% of 3000 topics/ soft target, under hard 4000, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: SCOPED-SKIP per §2.4 — References block byte-identical since the 2026-06-04 full per-cite ledger (Sjöberg 2024 pp.2267-2269 fixed then, Braun/Wessler/Friese 2021, Schurger 2012, Desmurget 2009, Schwartz 1996 all verified). Only change since was a cosmetic cross-link (06-18 commit c6181ddf6), not a citation. New-content verify instead: `[[control-theoretic-will]]` target exists + claim faithful ("emergency stop"/"low-bandwidth"/"Five Control Operations" match source); `consciousness-and-causal-powers#Volitional Modulation` anchor exists; superlative sweep empty; EOF clean; no label leakage.
+- **Reasoning modes** (editor-internal, unchanged): Wegner = Mode One+Two (reportability self-undermining + Nahmias internal defeater); infinite-regress veto critic = Mode Two→Three mixed (unsupported causal-closure assumption identified, positive alternative honestly marked speculative-tier). No boundary-substitution, no label leakage.
+- **Note**: Fifth deep review post-coalescence. 06-04 already declared stable; the 06-18 cosmetic cross-link bump re-qualified it (convergence-damping scenario). Calibration discipline (§"What the Felt Data Can and Cannot Settle", speculative-tier veto mechanism) intact and untouched. Recommend convergence-exclusion until body/References change materially.
+- **Output**: [deep-review-2026-06-27-volitional-control](/reviews/deep-review-2026-06-27-volitional-control/)
+
+## 2026-06-27T02:31:17+00:00 - deep-review
+- **Status**: Success (converged clean no-op)
+- **File**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
+- **Word count**: 2701 → 2701 (+0; 90% of 3000 topics/ soft target, under threshold, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: SKIPPED per §2.4 trigger — article byte-for-byte unchanged since 2026-06-01 review commit (5ef85cd52); References/body modified-since-last-review trigger NOT met. The 2026-06-01 full per-cite ledger (Buhler 2020, Kim 1993/1998, Lowe 2000, Montero 2003, Papineau 2001, Pitts 2022 pp.1931-1973, Cucu&Pitts 2019, Gibb 2010, Saad 2025, Stapp 2007) stands current. Spot-checks: inline↔refs no orphans; superlative sweep empty; no internal-quote drift (paraphrases, not verbatim quotes of siblings); Stapp Process 0/1/2 terminology fix from 04-23 holds. All 20 wikilinks resolve.
+- **Reasoning modes** (editor-internal): Kim = Mode Three boundary-marking (concedes physicalist responses rescue physically-grounded causation, leave dualist exposed — no boundary-substitution); decoherence-advocate = Mode One/Two in-framework; Stapp's critics = honest boundary-marking. No label leakage.
+- **Note**: Fifth review. No substantive change since the 06-01 calibration pass; calibration locked, defeater-removal vs positive-evidence discipline intact. Bumped last_deep_review only; ai_modified left settled at 2026-06-01 per no-op hygiene. Article is review-complete absent new connecting content.
+- **Output**: [deep-review-2026-06-27-causal-closure-debate-historical-survey](/reviews/deep-review-2026-06-27-causal-closure-debate-historical-survey/)
+
+## 2026-06-27T02:22:29+00:00 - deep-review
+- **Status**: Success (converged clean no-op)
+- **File**: [counterfactual-reasoning](/concepts/counterfactual-reasoning/)
+- **Word count**: 2398 → 2398 (+0; 96% of 2500 concepts/ soft target, under threshold, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: all 6 References real-correct at publisher of record (Bischof-Köhler 1985 LMU epub, Roese 1997 PubMed 9000895, Schacter & Addis 2007 PubMed 17395575, Suddendorf & Corballis 2007 PubMed 17963565, Van Hoeck 2013 SCAN 8(5):556-564, Van Hoeck/Watson/Barbey 2015 Frontiers 9:420). The 2026-06-01 Van Hoeck content-source re-pairing has held (3-systems framing → 2015 review L62; fMRI recruitment → 2013 study L116). No superlative claims. Inline↔refs: no critical orphans.
+- **Reasoning modes** (editor-internal): Illusionist = Mode Two+One mix (no boundary-substitution); MWI = Mode Three boundary-marking; LLM = honest concession. No label leakage.
+- **Note**: Sixth review, second consecutive clean no-op on philosophical content; bumped last_deep_review only, ai_modified left settled at 2026-06-01 per no-op hygiene.
+- **Output**: [deep-review-2026-06-27-counterfactual-reasoning](/reviews/deep-review-2026-06-27-counterfactual-reasoning/)
+
+## 2026-06-27T01:48:24+00:00 - deep-review
+- **Status**: Success (converged no-op; orchestrator-finalized after fork came to rest awaiting citation subagents)
+- **Task**: Deep review topics/consciousness-and-skill-acquisition.md (2026-06-01 settled placeholder tier, ~26d calendar-stale)
+- **Verdict**: No critical/medium/low issues. Full per-citation web-verify ledger (active-domain currency scrutiny for the 1993–2007 cohort): all 19 References real-correct at publisher of record; both in-text quantitative claims (Macnamara 2014 variance figures, Walker 2002 sleep result) accurate. No body edits; bumped last_deep_review only (ai_modified settled at 2026-06-01).
+- **Output**: [deep-review-2026-06-27-consciousness-and-skill-acquisition](/reviews/deep-review-2026-06-27-consciousness-and-skill-acquisition/)
+
+## 2026-06-27T01:34:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
+- **Word count**: 2520 → 2520 (+0; 84% of 3000 topics/ soft target, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-27-phenomenology-of-moral-life](/reviews/deep-review-2026-06-27-phenomenology-of-moral-life/)
+- **Note**: 4th deep review; strongly converged. Body UNCHANGED since 2026-06-01 (git confirms no commits to the file). No oscillation — verification pass. Completed the §2.4 publisher-of-record citation web-verify channel the prior three reviews never ran with a per-cite ledger: all 14 References web-verified real-correct (McDowell 1979 Monist 62(3):331-350; Haidt 2001 Psych Review 108(4):814-834; Werner 2020 Phil Compass 15(1):e12640; Horgan&Timmons 2005 Phil Issues 15:56-77; Frankish 2016 JCS 23(11-12):11-39; Chang 1997 HUP pp.1-34; Rawlette 2016 w/ Nagel foreword; Prinz 2007 OUP; plus canonical Aristotle/Kant/Chalmers/Greene/Husserl/Murdoch/Weil). NO metadata errors, NO fabrications, NO superseded superlatives (none present). McDowell "differently structured situation" is paraphrase not a quote — faithful. 6 References uncited-by-surname-inline are bibliography-style background works (Chalmers/Frankish/Horgan&Timmons/Husserl/Rawlette/Werner) all tied to discussed concepts — low/acceptable, consistent with prior reviews, not flagged to avoid oscillation. All spot-checked wikilink targets resolve. Label-leakage grep clean. Calibration intact (no minimal-organism claims, no tenet-as-evidence-upgrade). Engagements: illusionism Mode Three→Two-leaning, epiphenomenalism Mode Three honest, identity-theory concession exemplary, projectivism Mode Two-leaning — all honest. Citation ledger now the verified baseline; future reviews need not re-run web-verify unless References change. Convergence-damping should heavily down-rank (4 priors). Frontmatter timestamps only.
+- **Word count**: 2355 → 2355 (+0; 94% of 2500 concepts/ soft target, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-27-meta-problem-of-consciousness](/reviews/deep-review-2026-06-27-meta-problem-of-consciousness/)
+- **Note**: 7th deep review; strongly converged. Body UNCHANGED since the thorough 2026-06-01 mandate-driven pass (git confirms). No oscillation — verification pass. Completed the one citation channel the prior pass left at paraphrase-only: web-verified Graziano 2019 (Rethinking Consciousness, W.W. Norton) and Metzinger 2003 (Being No One, MIT Press) to primary — both real-correct, body attributions faithful (AST self-attention model; transparent-self-model thesis). Re-confirmed Chalmers 2018 + Frankish 2016 (exact-verified last pass; tuples unchanged); all 5 References now primary-verified. Calibration guardrail INTACT (realizationism = defeater-removal not "evidence for dualism"; no re-inflation; tenet-accepting reviewer would not flag overstatement). Label-leakage clean. Anchor integrity verified ([illusionism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) target present at illusionism.md:144; #the-debunking-threat resolves). Debunking-engagement still Mode Mixed, honest, no boundary-substitution. REMAINING ITEM from 06-01 (sibling [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) overreach) RESOLVED — git shows de82a7ab3 refine + e44dc4282 deep-review applied the same recalibration; no new task needed. Convergence-damping should heavily down-rank this article. Frontmatter timestamps only.
+
+## 2026-06-27T01:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ineffable-encounter-void](/voids/ineffable-encounter-void/)
+- **Word count**: 2372 → 2372 (+0; 119% of 2000 voids/ soft target, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-27-ineffable-encounter-void](/reviews/deep-review-2026-06-27-ineffable-encounter-void/)
+- **Note**: 3rd consecutive no-critical deep review (04-21, 05-31, 06-27) — converged. Body unchanged since 05-31; only intervening edits were two cosmetic metadata fixes, both verified correct this pass: (1) archival link repoint [aesthetic-void](/voids/creative-aesthetic-void/)→[creative-aesthetic-void](/voids/creative-aesthetic-void/) ×3 (aesthetic-void archived, creative-aesthetic-void live); (2) Reference 3 Polanyi Tacit Dimension publisher "Univ Chicago Press"→"Doubleday" — web-verified at publisher of record (orig 1966 = Anchor/Doubleday, Garden City; Univ Chicago is the 2009 reprint), state real-wrong-metadata→real-correct. The four empirical cites (Granqvist, Beauregard, Keltner/Haidt, Harrison/Loui) web-verified 05-31, unchanged, not re-verified per convergence. No superlative claims (currency helper empty). Calibration honest — no possibility/probability slippage (a tenet-accepting reviewer would not flag any claim as overstated; modal/hedged phrasing in convergence + stalemate + Occam's-limits sections is load-bearing). One adversarial engagement (naturalist neural-correlates in The Evidential Stalemate): Mode Three framework-boundary marking, honest, no label leakage. Convergence-damping should down-rank this article. Recommend frontmatter timestamps only — done.
+
+## 2026-06-27T00:58:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Word count**: 3611 → 3611 (+0; 120% of 3000 soft target, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-27-contemplative-practice-as-philosophical-evidence](/reviews/deep-review-2026-06-27-contemplative-practice-as-philosophical-evidence/)
+- **Note**: 8th deep review; convergence-damping no-op verification pass (score 14). Re-qualified only by a cosmetic cross-link bump (ai_modified 2026-06-06) — the deep_review_over_reviews_converged pattern. Two post-2026-06-04 edits are cross-link integrations: contentless-awareness-evidence clause at cessation passage + one-line copyedit (c97e57d64), affective-tone-divergence sentence bounding the convergence inference (59d2e4350). References block untouched since the 2026-06-04 live publisher-of-record sweep (Demir 2025, Kral 2022, Weng 2013, Fox 2012 all real-correct) → §2.4 full re-verify not warranted. Verified the two NEW sentences are faithful to their cross-link targets (affective-tone article's own description says "incompatible emotional tones at their depths"; contentless-awareness clause paraphrases not quotes — no stale-internal-quote risk), all 3 targets resolve on disk, calibration consistent (only "eliminates" is §161 anaesthesia empirical sense), no slippage, no editor-vocab leakage, no superseded superlatives. Mode classification N/A (positions not named-philosopher refutations). Recommend continued exclusion + steeper downweight.
 
 ## 2026-06-27T00:41:05+00:00 - deep-review
 - **Status**: Success

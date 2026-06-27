@@ -24,7 +24,7 @@ description: Why do we think consciousness is hard to explain? Chalmers' meta-pr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 12:00:00+00:00
+last_deep_review: 2026-06-27 01:13:13+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'

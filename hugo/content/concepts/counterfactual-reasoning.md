@@ -24,7 +24,7 @@ description: Counterfactual reasoning imagines what could have been or might be.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 00:00:00+00:00
+last_deep_review: 2026-06-27 02:22:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

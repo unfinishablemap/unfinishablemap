@@ -26,7 +26,7 @@ description: The experience of willing tracks real causal architecture, not post
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 13:20:00+00:00
+last_deep_review: 2026-06-27 02:41:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
