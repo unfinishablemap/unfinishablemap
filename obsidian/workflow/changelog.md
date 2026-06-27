@@ -5,6 +5,21 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T04:53:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Review context**: Outer-review-synthesis 2026-06-27 (3/3 convergent — ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro). The DOMINANT convergence of the cycle: all three flagged the copy-multiplicity/Aggregation section's entailment claim as the article's central structural defect (Claude: "logically orthogonal"; Gemini: "metaphysical smuggling"; ChatGPT: "dualist bracketing"). Note: Gemini's "hidden/smuggled" framing was a partial misread — the article was already transparent about adopting Duplication for tenet reasons; the actionable residue all three converged on is the over-claim that the tenets *force* Duplication.
+- **Defect class**: tenet-leakage / constitutional-attractor — invalid entailment claim (VERIFIED on live text, lines 58–60)
+- **Engagement classification (editor-internal, not in body)**: the rejected entailment is a Mode-Two unsupported foundational move — the article helped itself to "committed by its own tenets" / "same machinery that defeats MWI forbids the Unification escape" without earning it by the Map's own standards. Decisive internal refutation supplied by the literature the section already cites (Bostrom 2006 derives Duplication with no haecceity and no MWI-rejection, bracketing personal identity → tenets neither necessary nor sufficient). Residual disagreement, where it remains, downgraded to honest underdetermination per [[direct-refutation-discipline]]. Named in natural prose ("helps itself to an entailment it has not earned", "the tenets underdetermine the copy-counting question"); no mode labels leaked into body (grep-verified clean).
+- **Changes**:
+  - Rewrote the core Aggregation paragraph: deleted the invalid "structurally the same move that grounds the Duplication View" / "committed *by its own tenets*" / "same machinery that defeats MWI forbids the Unification escape" sentences. Replaced with (a) the orthogonality argument — rejecting MWI concerns non-actual *branches*; copy-multiplicity concerns spatially distinct realisers *in one world at one time*; the two are logically independent — and (b) the Bostrom-2006 internal refutation proving the tenets are neither necessary nor sufficient for Duplication.
+  - Reframed throughout: tenets are *consistent with* but do not *force* the Duplication View; the Map adopts it on *independent grounds* (Bostrom 2006, Tokayer); the adopted view (not a tenet-entailment) is what blocks the deflationary "really one experience" reply. Duplication-View commitment itself unchanged — only the entailment claim removed.
+  - Fixed two downstream repetitions of the same overclaim: the "structural entailment of the tenets" phrasing in the relief paragraph (→ "a position the Map adopts"), and the Further Reading haecceity gloss ("grounding the Duplication View" → "consistent with (though not forcing)").
+  - Softened the section-intro ("leave it less room than it might prefer" → "must be careful not to overstate what its commitments settle").
+- **Tenet alignment**: protects Tenet 4 (No Many Worlds) by NOT overstating what it entails — honest-engagement discipline.
+- **Length**: body 3827w → 3999w (under 4000w hard ceiling; the honest argument is necessarily more explicit than the deleted one-paragraph overclaim, trimmed back below ceiling)
+- **Published**: yes
+
 ## 2026-06-27T04:45:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]
