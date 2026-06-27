@@ -1,13 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26 23:11:39+00:00
+ai_modified: 2026-06-27 00:41:05+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-27T00:41:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [creative-aesthetic-void](/voids/creative-aesthetic-void/)
+- **Word count**: 2240 → 2240 (+0; 112% of 2000 soft target, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 2nd deep review (post-coalescence); convergence-damping no-op pass. Sole delta since the 2026-05-31 review (commit 4545e7fbe) is one cosmetic Further-Reading cross-link added 2026-06-19 ([the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/)) — body/References byte-identical. §2.4 full web-verify not re-run (no citation added/modified; 2026-05-31 per-cite ledger stands: Kounios & Beeman, Pearson, Langland-Hassan, Kind 2022 #101 fix). Verified the one changed element: cross-link target exists (obsidian/topics/), is reciprocal (sublime article back-links twice), gloss honest (this void = sublime-as-cognitive-limit; sibling = sublime-as-value-dimension), no duplication. Self-cite archive URLs (#16/#17) resolve, no link rot. EOF clean (no tool-call artifact). No calibration slippage (strong claims argued from Hume/Nagel/McGinn, not tenets). Opponents engaged at framework boundary only (Mode Three), no label leakage. Eliminative-materialist/functionalist/empiricist objections to "void" framing = documented bedrock, not re-flagged.
+- **Output**: [deep-review-2026-06-27-creative-aesthetic-void](/reviews/deep-review-2026-06-27-creative-aesthetic-void/)
+
+## 2026-06-27T00:31:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/)
+- **Word count**: 2150 → 2150 (+0; 72% of 3000 soft target, status ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 7th review; no-op convergence pass. Article body UNCHANGED since the 2026-06-01 review commit (1db72ecc7) — git confirms no body edit since. §2.4 full web-verify not re-run (no citation added/modified; 2026-06-01 per-cite ledger stands: Nagel 1974, Varela 1996, Chang 2004, Chalmers 1996, Thompson 2007 all real-correct, no orphans, no superlative claims). Independent scrutiny clean: no internal contradiction, no dropped-qualifier/calibration slippage (modal register correctly "consistent with the dualist prediction" / "provides independent support", not evidence-elevation), EOF clean (no tool-call artifact), all tenet/void/inline anchors resolve. Engagements: operationalist Mode One/Two; Dennett/heterophenomenology Mode Three; no label leakage. Bedrock disagreements settled per all 6 prior passes — not re-flagged.
+- **Output**: [deep-review-2026-06-27-consciousness-and-the-problem-of-measurement-standards](/reviews/deep-review-2026-06-27-consciousness-and-the-problem-of-measurement-standards/)
+
+## 2026-06-27T00:25:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-imagination](/topics/phenomenology-of-imagination/)
+- **Word count**: 2591 → 2593 (+2; 86% of 3000 soft target, status ok)
+- **Critical issues addressed**: 1 (orphan reference Gendler 2000 — in References but never cited inline; anchored inline at the imaginative-resistance section, its canonical source. §2.4 step-5 cross-reference defect that survived 6 prior reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Gendler inline anchor adds scholarly precision)
+- **Note**: 7th review. Ran the full §2.4 publisher-of-record web-verify with per-cite ledger (NOT run in the 2 prior no-op passes): all 9 bib entries real-correct (Gendler 2000 J.Phil 97(2):55–81; Kay/Keogh/Pearson 2024 Conscious.Cogn 121:103694; Kind 2013 Erkenntnis 78(1):141–159; Kosslyn 1994 MIT; Radford&Weston 1975 PAS Supp 49:67–93; Walton 1990 Harvard; Zeman et al 2024 TiCS 28(5):467–480; Hume Treatise I.I.I; Husserl Ideas I §111 attribution verified faithful). No superlative claims (currency sweep n/a). Engagements: functionalism Mode Two→Mixed; physicalist indeterminate-face Mode One; materialist motor-imagery/resistance Mode Three. No label leakage, no calibration slippage. Core arguments converged.
+- **Output**: [deep-review-2026-06-27-phenomenology-of-imagination](/reviews/deep-review-2026-06-27-phenomenology-of-imagination/)
+
+## 2026-06-27T00:17:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Word count**: 3215 → 3215 (no change; no-op review, timestamps only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (license-to-no-op exercised)
+- **Note**: 8th review. Only change since 2026-06-04 (7th) was cosmetic cross-link install `[[volitional-control]]` (commit c6181ddf6) — the cosmetic-bump re-qualification pattern. Audited the new cross-link: resolves correctly (bare-slug → topics/volitional-control.md, corpus convention used by ~15 files), gloss faithful to target (clinical dissociations / "whether" model / intentional binding), no calibration drift. §2.4 citation web-verify skipped per trigger — References block unmodified since 2026-06-04's complete 16-cite publisher-of-record ledger. Engagements unchanged: Mode Two (mysterious/empirical/illusionist), Mode Three boundary-marking (compatibilism), Mode One (Buddhist). Converged. 129% of soft, under 3500 hard.
+- **Output**: [deep-review-2026-06-27-moral-responsibility](/reviews/deep-review-2026-06-27-moral-responsibility/)
 
 ## 2026-06-27T00:05:00+00:00 - deep-review
 - **Status**: Success

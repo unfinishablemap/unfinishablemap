@@ -26,7 +26,7 @@ description: Consciousness cannot generate genuinely novel phenomenal content, c
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 19:29:31+00:00
+last_deep_review: 2026-06-27 00:41:05+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

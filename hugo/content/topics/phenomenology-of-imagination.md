@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-01 10:02:27+00:00
+ai_modified: 2026-06-27 00:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: Imagination's distinctive phenomenal character—voluntary, quasi-p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 10:02:27+00:00
+last_deep_review: 2026-06-27 00:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ The affective side of this generativity has its own opacity. Imagined scenarios 
 
 ## Imaginative Resistance and Its Limits
 
-Not everything can be imagined with equal ease. Philosophers have noted *imaginative resistance*—difficulty imagining certain propositions as true even in fictional contexts. People readily imagine physically impossible scenarios (flying unaided) but resist imagining morally inverted worlds (where cruelty is virtuous). Logical contradictions prove harder still: try to vividly imagine a round square.
+Not everything can be imagined with equal ease. Philosophers have noted *imaginative resistance* (Gendler, 2000)—difficulty imagining certain propositions as true even in fictional contexts. People readily imagine physically impossible scenarios (flying unaided) but resist imagining morally inverted worlds (where cruelty is virtuous). Logical contradictions prove harder still: try to vividly imagine a round square.
 
 These asymmetries in imaginative capacity reveal the structural constraints consciousness operates under. Physical impossibilities are readily imagined because imagination can recombine perceptual features freely. Moral inversions resist because evaluative phenomenology—the felt wrongness of cruelty—cannot be simply switched off by imaginative fiat. Logical contradictions fail, perhaps, because imagination—like perception—seems to operate within a coherence framework that consciousness cannot voluntarily override, though the boundary between failing to imagine a contradiction and merely failing to *notice* that one has not imagined it is not easy to draw from the inside.
 
