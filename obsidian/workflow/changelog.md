@@ -5,6 +5,16 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T04:42:11+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-27
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro; all audited topics/ethics-of-possible-ai-consciousness.md)
+- **Clusters**: 2 convergent (1 at 3/3 — the copy-multiplicity/Duplication-View aggregation defect; 1 at 2/3 — the expected-value/probability×magnitude gap), 8 singleton, 0 outright divergent (1 partial interpretive disagreement recorded)
+- **Tasks upgraded**: 1 (P2→P1: expected-value subsection). The 3/3 aggregation cluster's two tasks were already at the P1 ceiling — convergence recorded, not upgraded.
+- **Tasks deduplicated**: 0 (the two aggregation P1 tasks are complementary fixes — citation correction vs. inference rewrite — not redundant per-reviewer siblings)
+- **Disputed (excluded from convergence)**: Gemini weakness #1 (IIT/GNWT empirical-obsolescence via COGITATE) — the Gemini leg's own verification notes judged it overstates the article's reliance on indicators; no content task spawned
+- **Output**: [[reviews/outer-review-synthesis-2026-06-27]]
+
 ## 2026-06-27T04:35:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (3rd leg of the 2026-06-27 triple)
