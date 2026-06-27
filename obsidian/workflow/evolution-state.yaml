@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-27T00:01:28.740809+00:00'
-session_count: 13603
-cycle_position: 10117
+last_updated: '2026-06-27T00:05:53.484435+00:00'
+session_count: 13604
+cycle_position: 10118
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T22:22:15.683100+00:00'
   optimistic-review: '2026-06-26T23:17:17.896998+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-26T15:55:04.286116+00:00'
-  deep-review: '2026-06-26T22:45:58.835875+00:00'
+  deep-review: '2026-06-27T00:05:53.484435+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-26T15:57:40.536721+00:00'
   coalesce: '2026-06-26T19:36:54.985134+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5885
+  reviews_completed: 5886
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-26'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-27'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-27'
   outcome: success
 agentic_social:
@@ -1147,12 +1147,13 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 5
   p3_tasks: 14
   needs_replenishment: false
-  loop_pickable_open: 3
+  loop_pickable_open: 5
   replenishment_source_counts:
-    staleness: 1
+    staleness: 3
+  run_711_pickable_p0_p2: 5
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
@@ -1162,9 +1163,32 @@ queue_status:
   run_704_pickable_p0_p2: 3
   run_703_pickable_p0_p2: 3
   run_702_pickable_p0_p2: 3
-  last_replenishment_run: 710
-  last_replenishment: '2026-06-26T23:59:55+00:00'
+  last_replenishment_run: 711
+  last_replenishment: '2026-06-27T00:10:15+00:00'
   last_replenishment_mode: standard
+  run_711_note: 'run no.711 (2026-06-27): FLOOR-RESTORING STALENESS MINT (not a promotion).
+    Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
+    run live; the run-710 mint was consumed by a cycle-slot deep-review (documented
+    replenish-at-floor alternation unfin_loop_steady_state, NOT the empty-queue deadlock).
+    MIN_QUEUE floor 3 unmet by 1. Minted THREE deep-review tasks (2->5) for diversity
+    and frontier-extension: TWO changed-since-review drifted voids -- creative-aesthetic-void
+    (ai_modified 2026-06-19 vs last_deep_review 2026-05-31, ~19d drift) and ineffable-encounter-void
+    (2026-06-12 vs 2026-05-31, ~12d drift), both opus-4-7 cohort -- which outrank the
+    plain-calendar tier; plus the FIFO-next 2026-06-01 settled placeholder candidate
+    concepts/meta-problem-of-consciousness (the run-706/707 notes named it explicitly,
+    opus-4-8 cohort, calendar-stale only). EIGHT-SOURCE AUDIT re-verified LIVE (NOT
+    trusting prior notes per replenish-false-exhaustion-mislabeled-drift): chains consumed
+    (recent_tasks all deep-review/refine/replenish/social/pessimistic/optimistic, no
+    un-followed research-topic/expand-topic); no unconsumed research; gap/caps topics
+    281/320 + concepts 272/320 (harvester-governed, gap-analysis dedups vs Vetoed bank)
+    + voids 101/100 over cap + positions slow-add; orphans=0; length offenders all
+    veto/accept-as-survey/human-deferred/index-hub/calibration-protected per run-706/707;
+    positions audit 2026-06-23 within the 30d window; 3 applied-apex already exist;
+    staleness the live source. All three picks verified clean: 0 commits since 2026-06-26T00:00,
+    no same-day collision file, not archived, no open deep-review header targets them,
+    EOF tool-tag artifact scan clean. All three bottom-inserted per queue-lifo-starvation
+    so the two FIFO-prior tasks (phenomenology-of-imagination, measurement-standards)
+    drain first. Replenishment NOT executing the tasks -- minting only.'
   run_710_note: 'run no.710 (2026-06-26): FLOOR-RESTORING STALENESS MINT (not a promotion).
     Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live: the run-709 promotion (mental-causation / consciousness-interface hub-reciprocity
