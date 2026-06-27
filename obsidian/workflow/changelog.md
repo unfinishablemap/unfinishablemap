@@ -5,6 +5,16 @@ ai_modified: 2026-06-27T00:17:58+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T00:25:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Word count**: 2591 → 2593 (+2; 86% of 3000 soft target, status ok)
+- **Critical issues addressed**: 1 (orphan reference Gendler 2000 — in References but never cited inline; anchored inline at the imaginative-resistance section, its canonical source. §2.4 step-5 cross-reference defect that survived 6 prior reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Gendler inline anchor adds scholarly precision)
+- **Note**: 7th review. Ran the full §2.4 publisher-of-record web-verify with per-cite ledger (NOT run in the 2 prior no-op passes): all 9 bib entries real-correct (Gendler 2000 J.Phil 97(2):55–81; Kay/Keogh/Pearson 2024 Conscious.Cogn 121:103694; Kind 2013 Erkenntnis 78(1):141–159; Kosslyn 1994 MIT; Radford&Weston 1975 PAS Supp 49:67–93; Walton 1990 Harvard; Zeman et al 2024 TiCS 28(5):467–480; Hume Treatise I.I.I; Husserl Ideas I §111 attribution verified faithful). No superlative claims (currency sweep n/a). Engagements: functionalism Mode Two→Mixed; physicalist indeterminate-face Mode One; materialist motor-imagery/resistance Mode Three. No label leakage, no calibration slippage. Core arguments converged.
+- **Output**: [[reviews/deep-review-2026-06-27-phenomenology-of-imagination]]
+
 ## 2026-06-27T00:17:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/moral-responsibility]]
