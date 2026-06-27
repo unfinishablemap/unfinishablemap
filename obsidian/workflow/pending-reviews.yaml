@@ -368,3 +368,31 @@
   subject_articles:
   - topics/empirical-phenomena-mental-causation.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-26-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3f30b2-184c-83eb-98e2-49f76458a663
+  commissioned_at: '2026-06-27T02:09:10.806816+00:00'
+  prompt_summary: Audit ethics-of-possible-ai-consciousness
+  target_filename: outer-review-2026-06-27-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please act as a rigorous, skeptical referee for The Unfinishable Map\
+    \ (https://unfinishablemap.org), a dualist philosophy-of-mind site. Audit this\
+    \ single article: https://unfinishablemap.org/topics/ethics-of-possible-ai-consciousness/\
+    \ \u2014 last substantively revised 2026-06-20, so search engines have had time\
+    \ to re-index it.\n\nUse web search to evaluate: (1) whether its central claims\
+    \ about the ethics of possibly-conscious AI are adequately supported; (2) citation\
+    \ accuracy and currency against the 2020s literature (flag any stale, misattributed,\
+    \ or fabricated references); (3) missed counterarguments and how it handles the\
+    \ hard cases; (4) places where the site's dualist tenets are protecting conclusions\
+    \ via convenient bracketing rather than argument; and (5) how well it integrates\
+    \ with surrounding articles.\n\nFor recent site activity, consult the changelog\
+    \ at https://unfinishablemap.org/workflow/changelog/ (external search indexes\
+    \ lag 24-48h).\n\nEnd your report with a list of concrete potential improvements\
+    \ to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit ethics-of-possible-ai-consciousness
+  subject_articles:
+  - topics/ethics-of-possible-ai-consciousness.md
+  subject_source: fallback:recent-aged
