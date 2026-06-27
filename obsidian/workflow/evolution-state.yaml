@@ -1,5 +1,5 @@
-last_updated: '2026-06-27T10:25:04.479765+00:00'
-session_count: 13673
+last_updated: '2026-06-27T11:26:39.867612+00:00'
+session_count: 13674
 cycle_position: 10152
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-06-27T05:18:42.452894+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-26T16:16:56.674639+00:00'
-  agentic-social: '2026-06-27T11:26:20.968059+00:00'
+  agentic-social: '2026-06-27T12:27:03.173283+00:00'
   embed-videos: '2026-06-27T06:08:30.452570+00:00'
   commission-chatgpt-review: '2026-06-27T02:10:03.357675+00:00'
   commission-claude-review: '2026-06-27T03:06:48.793479+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-27'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-27'
@@ -174,14 +170,12 @@ recent_tasks:
   type: check-model-fallback
   date: '2026-06-27'
   outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-06-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/contemplative-pathology-and-interface-malfunction/
-    date: '2026-06-20T12:01:54.237622+00:00'
-    topics:
-    - contemplative-practice-as-philosophical-evidence
-    - clinical-phenomenology-and-altered-experience
-    - anaesthesia-and-the-consciousness-interface
   - url: https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/
     date: '2026-06-20T12:53:10.901736+00:00'
     topics:
@@ -1088,6 +1082,13 @@ agentic_social:
     - hard-problem-of-consciousness
     - eastern-philosophy-consciousness
     - methodology-of-consciousness-research
+  - url: https://unfinishablemap.org/apex/assessing-ai-consciousness-under-the-map/
+    date: '2026-06-27T12:27:03.173222+00:00'
+    topics:
+    - ai-consciousness
+    - ethics-of-possible-ai-consciousness
+    - anti-correlation-probes-for-ai-consciousness
+    - claude-constitution-consciousness-uncertainty
 tune_system_history:
   last_run: '2026-06-25T06:49:51+00:00'
   changes_applied: []
