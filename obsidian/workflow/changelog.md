@@ -1,13 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-27T01:13:13+00:00
+ai_modified: 2026-06-27T01:34:42+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-06-27T01:13:13+00:00 - deep-review
+## 2026-06-27T01:34:42+00:00 - deep-review
 - **Status**: Success
-- **File**: [[concepts/meta-problem-of-consciousness]]
+- **File**: [[topics/phenomenology-of-moral-life]]
+- **Word count**: 2520 → 2520 (+0; 84% of 3000 topics/ soft target, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-27-phenomenology-of-moral-life]]
+- **Note**: 4th deep review; strongly converged. Body UNCHANGED since 2026-06-01 (git confirms no commits to the file). No oscillation — verification pass. Completed the §2.4 publisher-of-record citation web-verify channel the prior three reviews never ran with a per-cite ledger: all 14 References web-verified real-correct (McDowell 1979 Monist 62(3):331-350; Haidt 2001 Psych Review 108(4):814-834; Werner 2020 Phil Compass 15(1):e12640; Horgan&Timmons 2005 Phil Issues 15:56-77; Frankish 2016 JCS 23(11-12):11-39; Chang 1997 HUP pp.1-34; Rawlette 2016 w/ Nagel foreword; Prinz 2007 OUP; plus canonical Aristotle/Kant/Chalmers/Greene/Husserl/Murdoch/Weil). NO metadata errors, NO fabrications, NO superseded superlatives (none present). McDowell "differently structured situation" is paraphrase not a quote — faithful. 6 References uncited-by-surname-inline are bibliography-style background works (Chalmers/Frankish/Horgan&Timmons/Husserl/Rawlette/Werner) all tied to discussed concepts — low/acceptable, consistent with prior reviews, not flagged to avoid oscillation. All spot-checked wikilink targets resolve. Label-leakage grep clean. Calibration intact (no minimal-organism claims, no tenet-as-evidence-upgrade). Engagements: illusionism Mode Three→Two-leaning, epiphenomenalism Mode Three honest, identity-theory concession exemplary, projectivism Mode Two-leaning — all honest. Citation ledger now the verified baseline; future reviews need not re-run web-verify unless References change. Convergence-damping should heavily down-rank (4 priors). Frontmatter timestamps only.
 - **Word count**: 2355 → 2355 (+0; 94% of 2500 concepts/ soft target, no body edits)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0

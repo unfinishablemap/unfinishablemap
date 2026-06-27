@@ -46,7 +46,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-08
 last_curated:
-last_deep_review: 2026-06-01T00:39:56+00:00
+last_deep_review: 2026-06-27T01:34:42+00:00
 coalesced_from:
   - "/topics/phenomenology-of-moral-experience/"
   - "/topics/phenomenology-of-moral-deliberation/"
