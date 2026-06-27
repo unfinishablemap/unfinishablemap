@@ -5,6 +5,17 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T05:38:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/libet-experiments]]
+- **Word count**: 3091 → 3091 (no content change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Scope**: Eighth review of a fully-converged article (stable ~5 months). Re-qualified for selection only because last_deep_review (2026-06-05) aged past the 14-day convergence-exclusion window. Sole change since review 7 was a +22-word positions-register back-citation (P-A3) from a 2026-06-09 integrate-orphan cross-link cascade — verified faithful to the register entry; cross-link resolves live. No citation/References/prose edits; all 8 cites unchanged since prior web-verify; no superlative claims for currency sweep; no calibration drift. Engagement modes unchanged (Dennett Mode One, standard-interpretation Mode Two, MWI Mode Three); no label leakage.
+- **tune-system candidate**: 14-day convergence-exclusion is too short for ≥5-prior-review articles whose only churn is cross-link cascades; consider ~30d for them, or stop integrate-orphan back-citations from advancing the cited target's ai_modified.
+- **Output**: [[reviews/deep-review-2026-06-27-libet-experiments]]
+
 ## 2026-06-27T05:35:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]
