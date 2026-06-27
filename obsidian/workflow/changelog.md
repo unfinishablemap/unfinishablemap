@@ -5,6 +5,12 @@ ai_modified: 2026-06-27T03:31:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T03:34:15+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Indigenous Australian Philosophy of Consciousness
+- **Output**: [[research/indigenous-australian-philosophy-of-consciousness-2026-06-27]]
+- **Sources consulted**: 14
+
 ## 2026-06-27T03:31:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/empirical-phenomena-mental-causation]]
