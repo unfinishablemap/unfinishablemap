@@ -5,6 +5,20 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T05:21:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Word count**: 3986 → 3993 (under 4000 hard cap; +7w from citation-accuracy corrections only)
+- **Citation-accuracy fix (outer-review 2026-06-27 Claude Opus 4.8, Section A.2/A.3; verified against primary sources)**:
+  - (1) Line 102 wikilink display text "Detailed engagement with Cutter and Békefi (2025)" conflated two distinct authors and misdated Békefi. Corrected to "Detailed engagement with Cutter (2025) and Békefi's (2026) rebuttal" — Bálint Békefi (sole author), "No Ghost in the Machine: Doubting AI Ensoulment," *Faith and Philosophy* 42(1), Article 7 (2026), is a distinct paper rebutting Cutter, not a Cutter co-authorship.
+  - (2) Schwitzgebel "Repetition and Value in an Infinite Universe" cited 2023 (web-manuscript date); published 2024 in *Extreme Philosophy* (Routledge). Updated in-text cite (line 66) 2023→2024 and the References entry to show the Routledge publication with the URL relabelled as Manuscript. Substantive use of both sources unaltered.
+- **Sibling files checked for same "Cutter and Békefi" conflation (per orchestrator multi-file note)**:
+  - [[concepts/ai-ensoulment-hypothesis]] — already correct (Brian Cutter 2025 and Bálint Békefi 2026 presented as distinct authors with separate reference entries). No edit.
+  - [[dualism-as-ai-risk-mitigation]] — already correct ("Békefi (2026) replies critically"; separate Cutter 2025 / Békefi 2026 reference entries). No edit.
+- **Scope**: citation-accuracy only; no substantive content changed. The broader REVISE-HARD findings (Bostrom 2006 originating-source defect — note this article already cites Bostrom 2006 correctly in-text and in References, addressed in the prior 05:13 pass; tenet-leakage; co-optation; EV argument) were handled in the prior 2026-06-27T05:13:32 refine pass and are out of scope for this citation-accuracy task.
+- **Verification**: tools.curate.length.analyze_length → word_count 3993, status soft_warning (NOT over_hard). Tenet 5 (honest engagement) alignment maintained.
+- **Published**: yes
+
 ## 2026-06-27T05:13:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]
