@@ -50,7 +50,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-06-04T10:06:52+00:00
+last_deep_review: 2026-06-27T00:58:52+00:00
 coalesced_from:
   - "/topics/contemplative-evidence-for-consciousness/"
   - "/topics/contemplative-methods-as-philosophical-methodology/"
