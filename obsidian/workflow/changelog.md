@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-27T04:14:05+00:00
+ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-27T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/intentionality]]
+- **Word count**: 3475 → 3475 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only. 10th review; firmly converged. Only change since 06-01 (9th) was a frontmatter-only reciprocal backlink (`content-vocabulary-as-derived-feature`, verified bidirectional). Body/References byte-identical → §2.4 web-verify trigger not met (all 5 classics CLEAN in 06-01 ledger). No body changes warranted.
+- **Output**: [[reviews/deep-review-2026-06-27-intentionality]]
 
 ## 2026-06-27T04:14:05+00:00 - outer-review
 - **Status**: Success
