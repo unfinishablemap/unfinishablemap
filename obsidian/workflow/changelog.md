@@ -5,6 +5,16 @@ ai_modified: 2026-06-27T01:48:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T02:58:00+00:00 - deep-review
+- **Status**: Success (converged clean no-op, verification pass)
+- **File**: [[concepts/metaphysics-of-information-under-dualism]]
+- **Word count**: 2814 → 2814 (+0; 113% of 2500 concepts/ soft target, under hard 3500, no body edits — length-neutral converged article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 6th review; body unchanged since 2026-05-01 (06-01 pass was frontmatter-only, git c0e4fbe95). All 5 cites re-verified live publisher-of-record this cycle — Shannon 1948 BSTJ 27(3) 379-423 (Wiley/IEEE), Chalmers & McQueen 2022 in Gao (ed.) Consciousness and Quantum Mechanics OUP (OUP Academic/PhilArchive), Zheng & Meister 2025 Neuron 113(2) 192-204 (Cell/Caltech; 10 bits/s currency CONFIRMED un-superseded), Chalmers 1996 + Landauer 1961 source-stable = all real-correct. Superlative-currency sweep EMPTY. Inline↔References cross-check clean both directions. Evidential-status double-edged discipline PASS (info-metaphysics constrains physicalism, never used as pro-dualist evidence; Wheeler handled as adapted non-dualist programme; 10-bit figure "consistent with" minimality, not evidence-for). One sub-critical residue carried forward unchanged to avoid oscillation: sensory-rate framed as ~10^10 bits/s where source says ≥10^9 (order-of-magnitude contrast, non-load-bearing). Engagement with implicit deflationist (syntax-semantics): Mode Three dominant (honest boundary-marking, "structural rather than evidential"); no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-27-metaphysics-of-information-under-dualism]]
+
 ## 2026-06-27T02:46:54+00:00 - deep-review
 - **Status**: Success (converged clean no-op, verification pass)
 - **File**: [[concepts/explanatory-gap]]
