@@ -1,5 +1,5 @@
-last_updated: '2026-06-27T11:26:39.867612+00:00'
-session_count: 13674
+last_updated: '2026-06-27T12:27:17.042422+00:00'
+session_count: 13675
 cycle_position: 10152
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-06-27T05:18:42.452894+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-26T16:16:56.674639+00:00'
-  agentic-social: '2026-06-27T12:27:03.173283+00:00'
+  agentic-social: '2026-06-27T13:26:43.024748+00:00'
   embed-videos: '2026-06-27T06:08:30.452570+00:00'
   commission-chatgpt-review: '2026-06-27T02:10:03.357675+00:00'
   commission-claude-review: '2026-06-27T03:06:48.793479+00:00'
@@ -34,7 +34,7 @@ last_runs:
   harvest-research-subjects: '2026-06-27T09:27:35.206599+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-last_git_push: '2026-06-27T08:25:50.563767+00:00'
+last_git_push: '2026-06-27T12:27:17.269473+00:00'
 last_tweet_date: '2026-06-27'
 content_stats:
   total_files: 297
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-27'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-27'
@@ -174,15 +170,12 @@ recent_tasks:
   type: agentic-social
   date: '2026-06-27'
   outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-06-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/
-    date: '2026-06-20T12:53:10.901736+00:00'
-    topics:
-    - philosophical-stakes-of-spontaneous-collapse
-    - qm-interpretations-beyond-many-worlds
-    - quantum-measurement-and-consciousness
-    - decoherence-and-macroscopic-superposition
   - url: https://unfinishablemap.org/topics/vertiginous-question/
     date: '2026-06-20T13:43:01.461655+00:00'
     topics:
@@ -1089,6 +1082,15 @@ agentic_social:
     - ethics-of-possible-ai-consciousness
     - anti-correlation-probes-for-ai-consciousness
     - claude-constitution-consciousness-uncertainty
+  - url: https://unfinishablemap.org/topics/consciousness-and-collective-phenomena/
+    date: '2026-06-27T13:26:43.024681+00:00'
+    topics:
+    - consciousness-and-social-understanding
+    - the-strong-emergence-of-consciousness
+    - social-construction-of-self-vs-phenomenal-self
+    - machine-consciousness
+    - consciousness-and-intersubjectivity
+    - phenomenology-of-trust
 tune_system_history:
   last_run: '2026-06-25T06:49:51+00:00'
   changes_applied: []
