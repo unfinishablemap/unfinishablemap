@@ -5,6 +5,18 @@ ai_modified: 2026-06-27T01:48:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T02:41:48+00:00 - deep-review
+- **Status**: Success (converged clean no-op, verification pass)
+- **File**: [[topics/volitional-control]]
+- **Word count**: 3518 → 3518 (+0; 117% of 3000 topics/ soft target, under hard 4000, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: SCOPED-SKIP per §2.4 — References block byte-identical since the 2026-06-04 full per-cite ledger (Sjöberg 2024 pp.2267-2269 fixed then, Braun/Wessler/Friese 2021, Schurger 2012, Desmurget 2009, Schwartz 1996 all verified). Only change since was a cosmetic cross-link (06-18 commit c6181ddf6), not a citation. New-content verify instead: `[[control-theoretic-will]]` target exists + claim faithful ("emergency stop"/"low-bandwidth"/"Five Control Operations" match source); `consciousness-and-causal-powers#Volitional Modulation` anchor exists; superlative sweep empty; EOF clean; no label leakage.
+- **Reasoning modes** (editor-internal, unchanged): Wegner = Mode One+Two (reportability self-undermining + Nahmias internal defeater); infinite-regress veto critic = Mode Two→Three mixed (unsupported causal-closure assumption identified, positive alternative honestly marked speculative-tier). No boundary-substitution, no label leakage.
+- **Note**: Fifth deep review post-coalescence. 06-04 already declared stable; the 06-18 cosmetic cross-link bump re-qualified it (convergence-damping scenario). Calibration discipline (§"What the Felt Data Can and Cannot Settle", speculative-tier veto mechanism) intact and untouched. Recommend convergence-exclusion until body/References change materially.
+- **Output**: [[reviews/deep-review-2026-06-27-volitional-control]]
+
 ## 2026-06-27T02:31:17+00:00 - deep-review
 - **Status**: Success (converged clean no-op)
 - **File**: [[topics/causal-closure-debate-historical-survey]]

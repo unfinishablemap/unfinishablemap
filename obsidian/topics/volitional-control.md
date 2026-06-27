@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-06-04T13:20:00+00:00
+last_deep_review: 2026-06-27T02:41:48+00:00
 coalesced_from:
   - "/topics/phenomenology-of-volitional-control/"
   - "/topics/volitional-control-empirical-evidence/"

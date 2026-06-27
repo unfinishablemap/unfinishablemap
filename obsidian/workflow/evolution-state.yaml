@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-27T02:32:58.565312+00:00'
-session_count: 13631
+last_updated: '2026-06-27T02:40:15.319896+00:00'
+session_count: 13632
 cycle_position: 10130
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
   refine-draft: '2026-06-26T23:21:05.956482+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
-  replenish-queue: '2026-06-27T02:29:47.538925+00:00'
+  replenish-queue: '2026-06-27T02:40:15.319896+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-26T09:20:08.404604+00:00'
   add-highlight: '2026-06-26T08:13:09.692399+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-27'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-27'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-27'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-27'
   outcome: success
 agentic_social:
@@ -1163,16 +1163,16 @@ queue_status:
   run_718_note: 'run no.718 (2026-06-27): FLOOR-RESTORING STALENESS MINT (not a promotion).
     Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live; the run-714/715 mints (counterfactual-reasoning + causal-closure-debate-historical-survey)
-    were both CONSUMED by cycle-slot deep-reviews this UTC day (HEAD aea185c24 +
-    34cbc5d98) -- documented replenish-at-floor alternation unfin_loop_steady_state,
-    NOT the empty-queue deadlock; most recent content task is a deep-review, not
-    replenish-queue, so both MIN_QUEUE gate conditions hold. The two surviving queued
-    P2 mints are explanatory-gap (run-716) + metaphysics-of-information-under-dualism
-    (run-717). MIN_QUEUE floor 3 unmet by 1; minted ONE deep-review to restore 2->3
-    (post-mint count_p0_p2_tasks==3 verified live; selector still picks explanatory-gap
-    FIFO-first, confirming correct BOTTOM-insert). PICK: FIFO-next clean SETTLED
-    candidate in the 2026-06-01 placeholder tier (33-article pool, all ~26d stale,
-    drift=False) = concepts/phenomenal-consciousness (last_deep_review==ai_modified==2026-06-01
+    were both CONSUMED by cycle-slot deep-reviews this UTC day (HEAD aea185c24 + 34cbc5d98)
+    -- documented replenish-at-floor alternation unfin_loop_steady_state, NOT the
+    empty-queue deadlock; most recent content task is a deep-review, not replenish-queue,
+    so both MIN_QUEUE gate conditions hold. The two surviving queued P2 mints are
+    explanatory-gap (run-716) + metaphysics-of-information-under-dualism (run-717).
+    MIN_QUEUE floor 3 unmet by 1; minted ONE deep-review to restore 2->3 (post-mint
+    count_p0_p2_tasks==3 verified live; selector still picks explanatory-gap FIFO-first,
+    confirming correct BOTTOM-insert). PICK: FIFO-next clean SETTLED candidate in
+    the 2026-06-01 placeholder tier (33-article pool, all ~26d stale, drift=False)
+    = concepts/phenomenal-consciousness (last_deep_review==ai_modified==2026-06-01
     13:17:05; last commit ff5dd0aba is its OWN stamp-setting deep-review; Tenet-1
     load-bearing phenomenal-vs-access exhibit; aic=100 ai_system=claude-sonnet-4-5
     older cohort). EIGHT-SOURCE AUDIT re-verified LIVE (NOT trusting prior notes per
@@ -1185,8 +1185,8 @@ queue_status:
     8-entry slow-add; (4) orphans=0; (5) length -- NO critical content offenders this
     run; every hard offender is a research/ note, human-deferred, recently-condensed,
     or #veto accept-as-survey, NO actionable blind-mintable condense candidate; (6)
-    positions 8 entries (<10 audit threshold), no moved Argued-in dependency; (7) 3
-    applied-apex exist, no high-confidence cluster gap; (8) staleness the live source.
+    positions 8 entries (<10 audit threshold), no moved Argued-in dependency; (7)
+    3 applied-apex exist, no high-confidence cluster gap; (8) staleness the live source.
     VERIFIED settled+clean: 0 commits since 2026-06-27T00:00 touching it, NO same-day
     collision, NOT archived, NOT vetoed (3 Vetoed-section hits are ✓-completed calibration-adoption
     tasks for OTHER files), NO open deep-review header, EOF artifact scan clean (last
@@ -4964,7 +4964,6 @@ queue_status:
     gap. Staleness fallbacks remain for next floor-restore: concepts/supervenience
     30.0d (Tenet1/3), voids/collective-cognitive-limits 30.1d, voids/self-transcendence-void
     30.1d (all 2026-05-26 cohort, settled, not in open queue).'
-  run_717_pickable_p0_p2: 3
   run_717_note: 'run no.717 (2026-06-27): FLOOR-RESTORING STALENESS MINT (not a promotion).
     Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live; the run-715/716 prior siblings (consciousness-and-skill-acquisition
