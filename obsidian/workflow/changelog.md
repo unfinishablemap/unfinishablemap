@@ -5,6 +5,18 @@ ai_modified: 2026-06-27T01:48:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T02:22:29+00:00 - deep-review
+- **Status**: Success (converged clean no-op)
+- **File**: [[concepts/counterfactual-reasoning]]
+- **Word count**: 2398 → 2398 (+0; 96% of 2500 concepts/ soft target, under threshold, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: all 6 References real-correct at publisher of record (Bischof-Köhler 1985 LMU epub, Roese 1997 PubMed 9000895, Schacter & Addis 2007 PubMed 17395575, Suddendorf & Corballis 2007 PubMed 17963565, Van Hoeck 2013 SCAN 8(5):556-564, Van Hoeck/Watson/Barbey 2015 Frontiers 9:420). The 2026-06-01 Van Hoeck content-source re-pairing has held (3-systems framing → 2015 review L62; fMRI recruitment → 2013 study L116). No superlative claims. Inline↔refs: no critical orphans.
+- **Reasoning modes** (editor-internal): Illusionist = Mode Two+One mix (no boundary-substitution); MWI = Mode Three boundary-marking; LLM = honest concession. No label leakage.
+- **Note**: Sixth review, second consecutive clean no-op on philosophical content; bumped last_deep_review only, ai_modified left settled at 2026-06-01 per no-op hygiene.
+- **Output**: [[reviews/deep-review-2026-06-27-counterfactual-reasoning]]
+
 ## 2026-06-27T01:48:24+00:00 - deep-review
 - **Status**: Success (converged no-op; orchestrator-finalized after fork came to rest awaiting citation subagents)
 - **Task**: Deep review topics/consciousness-and-skill-acquisition.md (2026-06-01 settled placeholder tier, ~26d calendar-stale)
