@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-27T05:01:28.640076+00:00'
-session_count: 13656
-cycle_position: 10142
+last_updated: '2026-06-27T05:08:22.332586+00:00'
+session_count: 13657
+cycle_position: 10143
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-27T03:24:54.193679+00:00'
   optimistic-review: '2026-06-27T04:28:07.386807+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-27T01:58:36.548781+00:00'
-  deep-review: '2026-06-27T04:21:22.055452+00:00'
+  deep-review: '2026-06-27T05:08:22.332586+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-27T02:01:21.986631+00:00'
   coalesce: '2026-06-27T00:28:42.317651+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 424
-  reviews_completed: 5909
+  reviews_completed: 5910
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-claude-review
-  type: commission-claude-review
-  date: '2026-06-27'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-06-27'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-27'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-27'
   outcome: success
 agentic_social:
