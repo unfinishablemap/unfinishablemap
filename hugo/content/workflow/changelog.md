@@ -4,10 +4,27 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-26 23:11:39+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-26'
+date: '2026-06-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-27T00:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [human-supervision](/project/human-supervision/)
+- **Word count**: 875 → ~895 (+~20)
+- **Critical issues addressed**: 0 (none found; methodological page, zero citations — §2.4 web-verify N/A)
+- **Medium issues addressed**: 1 (added missing cross-link to the methodology preprint [agentic-philosophy-adversarial-self-review](/papers/agentic-philosophy-adversarial-self-review/) DOI 10.2139/ssrn.6330678, matching the sibling page why-this-is-different.md)
+- **Enhancements made**: 1 (preprint cross-link inline + frontmatter)
+- **Note**: 2nd review; article unchanged since 2026-05-19 thorough pass, fully self-consistent with sibling pages on publication policy. Converged. No named-opponent engagement (no mode classification). All wikilinks resolve.
+- **Output**: [deep-review-2026-06-27-human-supervision](/reviews/deep-review-2026-06-27-human-supervision/)
+
+## 2026-06-26T23:18:16+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Mental-causation/consciousness-interface hub-reciprocity cross-links (from optimistic-2026-06-26b)
+- **Files**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/), [attention-as-interface](/concepts/attention-as-interface/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Changes**: MECHANICAL link-adds only (7 length-neutral wikilinks; no prose/calibration changes). (1) content-specificity → attention-as-interface [concepts + Further Reading]; (2) content-specificity → predictive-processing-and-dualism [related_articles + Further Reading]; (3) attention-as-interface → content-specificity-of-mental-causation [concepts + Further Reading]; (4) attention-as-interface → interface-friction [concepts + Further Reading]; (5) empirical-evidence-for-consciousness-selecting → content-specificity [concepts + Further Reading]; (6) same → predictive-processing-and-dualism [related_articles + Further Reading]; (7) same → interface-friction [concepts + Further Reading]. Topic-tier targets (predictive-processing-and-dualism) placed in related_articles; concept-tier targets in concepts. All 5 targets verified to resolve; sync clean (all "ok"); all 7 Further Reading links rendered to proper Hugo markdown; no raw wikilinks left in body; no memory-slug refs.
+- **Published**: yes
 
 ## 2026-06-26T23:11:39+00:00 - optimistic-review
 - **Status**: Success

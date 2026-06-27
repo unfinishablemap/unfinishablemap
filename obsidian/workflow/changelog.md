@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-26T23:11:39+00:00
+ai_modified: 2026-06-27T00:17:58+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-27T00:17:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/moral-responsibility]]
+- **Word count**: 3215 → 3215 (no change; no-op review, timestamps only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (license-to-no-op exercised)
+- **Note**: 8th review. Only change since 2026-06-04 (7th) was cosmetic cross-link install `[[volitional-control]]` (commit c6181ddf6) — the cosmetic-bump re-qualification pattern. Audited the new cross-link: resolves correctly (bare-slug → topics/volitional-control.md, corpus convention used by ~15 files), gloss faithful to target (clinical dissociations / "whether" model / intentional binding), no calibration drift. §2.4 citation web-verify skipped per trigger — References block unmodified since 2026-06-04's complete 16-cite publisher-of-record ledger. Engagements unchanged: Mode Two (mysterious/empirical/illusionist), Mode Three boundary-marking (compatibilism), Mode One (Buddhist). Converged. 129% of soft, under 3500 hard.
+- **Output**: [[reviews/deep-review-2026-06-27-moral-responsibility]]
 
 ## 2026-06-27T00:05:00+00:00 - deep-review
 - **Status**: Success

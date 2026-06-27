@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-27T00:05:53.484435+00:00'
-session_count: 13604
+last_updated: '2026-06-27T00:15:41.138671+00:00'
+session_count: 13605
 cycle_position: 10118
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-26T04:11:44.458185+00:00'
   refine-draft: '2026-06-26T23:21:05.956482+00:00'
   research-topic: '2026-06-26T08:58:20.211553+00:00'
-  replenish-queue: '2026-06-27T00:01:28.740809+00:00'
+  replenish-queue: '2026-06-27T00:15:41.138671+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-06-26T09:20:08.404604+00:00'
   add-highlight: '2026-06-26T08:13:09.692399+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-26'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-27'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-27'
   outcome: success
 agentic_social:
@@ -1173,22 +1173,23 @@ queue_status:
     MIN_QUEUE floor 3 unmet by 1. Minted THREE deep-review tasks (2->5) for diversity
     and frontier-extension: TWO changed-since-review drifted voids -- creative-aesthetic-void
     (ai_modified 2026-06-19 vs last_deep_review 2026-05-31, ~19d drift) and ineffable-encounter-void
-    (2026-06-12 vs 2026-05-31, ~12d drift), both opus-4-7 cohort -- which outrank the
-    plain-calendar tier; plus the FIFO-next 2026-06-01 settled placeholder candidate
+    (2026-06-12 vs 2026-05-31, ~12d drift), both opus-4-7 cohort -- which outrank
+    the plain-calendar tier; plus the FIFO-next 2026-06-01 settled placeholder candidate
     concepts/meta-problem-of-consciousness (the run-706/707 notes named it explicitly,
     opus-4-8 cohort, calendar-stale only). EIGHT-SOURCE AUDIT re-verified LIVE (NOT
-    trusting prior notes per replenish-false-exhaustion-mislabeled-drift): chains consumed
-    (recent_tasks all deep-review/refine/replenish/social/pessimistic/optimistic, no
-    un-followed research-topic/expand-topic); no unconsumed research; gap/caps topics
-    281/320 + concepts 272/320 (harvester-governed, gap-analysis dedups vs Vetoed bank)
-    + voids 101/100 over cap + positions slow-add; orphans=0; length offenders all
-    veto/accept-as-survey/human-deferred/index-hub/calibration-protected per run-706/707;
-    positions audit 2026-06-23 within the 30d window; 3 applied-apex already exist;
-    staleness the live source. All three picks verified clean: 0 commits since 2026-06-26T00:00,
-    no same-day collision file, not archived, no open deep-review header targets them,
-    EOF tool-tag artifact scan clean. All three bottom-inserted per queue-lifo-starvation
-    so the two FIFO-prior tasks (phenomenology-of-imagination, measurement-standards)
-    drain first. Replenishment NOT executing the tasks -- minting only.'
+    trusting prior notes per replenish-false-exhaustion-mislabeled-drift): chains
+    consumed (recent_tasks all deep-review/refine/replenish/social/pessimistic/optimistic,
+    no un-followed research-topic/expand-topic); no unconsumed research; gap/caps
+    topics 281/320 + concepts 272/320 (harvester-governed, gap-analysis dedups vs
+    Vetoed bank) + voids 101/100 over cap + positions slow-add; orphans=0; length
+    offenders all veto/accept-as-survey/human-deferred/index-hub/calibration-protected
+    per run-706/707; positions audit 2026-06-23 within the 30d window; 3 applied-apex
+    already exist; staleness the live source. All three picks verified clean: 0 commits
+    since 2026-06-26T00:00, no same-day collision file, not archived, no open deep-review
+    header targets them, EOF tool-tag artifact scan clean. All three bottom-inserted
+    per queue-lifo-starvation so the two FIFO-prior tasks (phenomenology-of-imagination,
+    measurement-standards) drain first. Replenishment NOT executing the tasks -- minting
+    only.'
   run_710_note: 'run no.710 (2026-06-26): FLOOR-RESTORING STALENESS MINT (not a promotion).
     Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live: the run-709 promotion (mental-causation / consciousness-interface hub-reciprocity
