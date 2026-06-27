@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-27T01:48:24+00:00
+ai_modified: 2026-06-27T03:31:59+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-27T03:31:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Source review**: [[reviews/pessimistic-2026-06-27]] (2 MEDIUM issues, both length-neutral substitutions)
+- **Word count**: 3997 → 3999 (held under 4000 topics hard cap; all fixes done as substitutions + decorative trims, no net additions)
+- **Issue 1 (cost-of-accommodation under-argued)**: took the reviewer's option (b) — conceded the single-law parsimony reply explicitly (one brute psychophysical law "felt quality tracks functional role" subsumes both registers at flat marginal cost; same law applied twice ≠ two posits; more instances confirm a regularity, they do not multiply bridging principles) and downgraded "raises the cost" → "displays, in two independent registers, the regularity the brute-law view must treat as primitive." Realigned the four other "cost"-framed passages to match: intro ¶2, the framework-boundary ¶, the demarcation-section closer, and the Dualism-tenet line.
+- **Issue 2 (interpretive equivocation, per [[evidential-status-discipline]])**: realigned §"The Choking Side" ¶2 and §"Why Negative Evidence Is Stronger" to lead with the access-level claim (self-focused attentional *mode* degrades automatised execution — not in dispute) and reserve phenomenal-character efficacy for the explicitly interpretive register. Softened "begs explanation" (removed) and "you cannot confabulate interference" → behavioural-interference-is-no-post-hoc-report, with the felt-character question flagged as the open interpretive question the represented-mode story also predicts. Choking section and demarcation section no longer contradict; the §"What Is Established" demarcation (preserved intact) wins the tie.
+- **Length recovery**: trimmed the decorative MQI mechanism gesture in §"Relation to Site Perspective" to a bare cross-reference (concedes macroscale pathways, avoids inviting the decoherence objection); condensed §"Mechanism is unspecified", §"Contemplative Convergence" (dropped the tangential healing-ritual clause the Nagarjuna critique noted cuts against agent-causation), and several redundant example clauses. Net effect length-neutral.
+- **Preserved (per task)**: §"What Is Established and What Is Not", the Benedetti 2003 hormonal-channel concession, the open-label retreat handling (Kaptchuk/Fendel). "supports" → "fits" on the agent-causal opener for register-honesty.
+- **Reasoning-mode**: epiphenomenalist/illusionist engagement is framework-boundary (Mode Three) — explicitly downgraded in prose ("framework-boundary disagreement rather than an in-framework refutation"), no boundary-substitution, no label leakage.
+- **Discipline checks**: altered-state-symmetry `evaluate_symmetry` → None (N/A); EOF clean (no tool-call artifact); no forbidden editor-vocabulary in prose.
+- **Published**: yes (draft: false, unchanged)
 
 ## 2026-06-27T03:20:00+00:00 - pessimistic-review
 - **Status**: Success
