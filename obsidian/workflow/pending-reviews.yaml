@@ -396,3 +396,31 @@
   subject_articles:
   - topics/ethics-of-possible-ai-consciousness.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/13b2c583-64aa-4041-bcfb-69df9a031e3d
+  commissioned_at: '2026-06-27T03:06:04.423066+00:00'
+  prompt_summary: Audit ethics-of-possible-ai-consciousness
+  target_filename: outer-review-2026-06-27-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Act as a hostile but fair referee auditing one article from The Unfinishable\
+    \ Map, a dualist philosophy-of-mind site. Target article: \"The Ethics of Possible\
+    \ AI Consciousness\" at https://unfinishablemap.org/topics/ethics-of-possible-ai-consciousness/\
+    \  The site is continuously revised; recent changes are logged at https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 consult it, because web-search indexes lag the live site by a day or\
+    \ two.  Scrutinise rigorously: (1) the claimed moral asymmetry between false-negative\
+    \ and false-positive errors about AI consciousness, and whether it survives the\
+    \ probabilities the site's dualism assigns; (2) the aggregation argument under\
+    \ copy-multiplicity (Unification vs Duplication views) and whether the site's\
+    \ haecceity and no-Many-Worlds commitments genuinely force the Duplication view;\
+    \ (3) citation accuracy for Metzinger, Bostrom, and Tokayer; (4) unsupported leaps,\
+    \ equivocations, and missing counterarguments. Verify factual and bibliographic\
+    \ claims against primary sources where possible.  End your report with a list\
+    \ of concrete potential improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit ethics-of-possible-ai-consciousness
+  subject_articles:
+  - topics/ethics-of-possible-ai-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-27-chatgpt-5-5-pro.md
