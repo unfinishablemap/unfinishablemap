@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-06-01T12:00:00+00:00
+last_deep_review: 2026-06-27T01:13:13+00:00
 ---
 
 The meta-problem of consciousness asks: why do we *think* consciousness poses a hard problem? Where the [[hard-problem-of-consciousness|hard problem]] asks why there is subjective experience at all, and the [[explanatory-gap|explanatory gap]] asks why physical descriptions fail to capture it, the meta-problem asks why humans report, intuit, and philosophise about this difficulty in the first place. David Chalmers introduced the term in a 2018 paper, arguing that even those who deny the hard problem must explain why the problem *seems* so compelling.
