@@ -5,6 +5,12 @@ ai_modified: 2026-06-27T01:48:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T03:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/empirical-phenomena-mental-causation.md` (placebo + choking; coalesced; 3997w body, pinned at the 4000 topics hard cap)
+- **Findings**: 2 MEDIUM issues — (1) interpretive equivocation: choking section asserts the phenomenal-efficacy reading its own evidential-demarcation section retracts; (2) the load-bearing cost-of-accommodation claim is asserted, never operationalised (one brute psychophysical law subsumes both registers at flat cost). Plus a structural length warning (no headroom). Discipline audits CLEAN: no label-leakage, altered-state symmetry N/A (no genuine supportive cluster), citation hygiene strong (Fendel 2025 web-verified clean). Queued 1 P2 length-neutral refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-27]]
+
 ## 2026-06-27T02:58:00+00:00 - deep-review
 - **Status**: Success (converged clean no-op, verification pass)
 - **File**: [[concepts/metaphysics-of-information-under-dualism]]
