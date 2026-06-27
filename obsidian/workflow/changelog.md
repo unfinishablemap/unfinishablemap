@@ -5,6 +5,14 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T04:45:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Review context**: Outer reviews 2026-06-27 (ChatGPT 5.5 Pro + Claude Opus 4.8, convergent 3/3 cluster); citation-misattribution defect
+- **Changes**: Corrected the Unification/Duplication-View attribution in "Aggregation Under Copy-Multiplicity" from "Bostrom (2022)" to Bostrom (2006), "Quantity of experience: brain-duplication and degrees of consciousness," *Minds and Machines* 16(2):185–200 — the paper that actually originates the two poles (verified via Springer DOI 10.1007/s11023-006-9036-0). Added the 2006 paper to References. Retained Bostrom & Shulman (2022) as a separately-cited source for the digital-mind quantity/repeated-runs/policy framing it does support (added a clause crediting it for transposing the quantity-of-experience question into the digital-minds setting). Substantive Duplication-View commitment unchanged — attribution-only fix.
+- **Length**: body 3827w (was ~3777w); near-length-neutral, under 4000w hard ceiling
+- **Published**: yes
+
 ## 2026-06-27T04:42:11+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-27
