@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-27T02:29:47.538925+00:00'
-session_count: 13630
-cycle_position: 10129
+last_updated: '2026-06-27T02:32:58.565312+00:00'
+session_count: 13631
+cycle_position: 10130
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-26T22:22:15.683100+00:00'
   optimistic-review: '2026-06-26T23:17:17.896998+00:00'
   check-tenets: '2026-06-26T16:05:57.483939+00:00'
   check-links: '2026-06-27T01:58:36.548781+00:00'
-  deep-review: '2026-06-27T02:24:05.841780+00:00'
+  deep-review: '2026-06-27T02:32:58.565312+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-27T02:01:21.986631+00:00'
   coalesce: '2026-06-27T00:28:42.317651+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 423
-  reviews_completed: 5896
+  reviews_completed: 5897
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-27'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-27'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-27'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-27'
   outcome: success
 agentic_social:
@@ -1140,13 +1140,15 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 8
+  p2_tasks: 9
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
   last_replenishment: '2026-06-27T02:28:50+00:00'
   replenishment_source_counts:
     staleness: 1
+  run_718_pickable_p0_p2: 3
+  run_717_pickable_p0_p2: 3
   run_716_pickable_p0_p2: 3
   run_715_pickable_p0_p2: 3
   run_714_pickable_p0_p2: 3
@@ -1156,8 +1158,43 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 716
+  last_replenishment_run: 718
   last_replenishment_mode: standard
+  run_718_note: 'run no.718 (2026-06-27): FLOOR-RESTORING STALENESS MINT (not a promotion).
+    Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
+    run live; the run-714/715 mints (counterfactual-reasoning + causal-closure-debate-historical-survey)
+    were both CONSUMED by cycle-slot deep-reviews this UTC day (HEAD aea185c24 +
+    34cbc5d98) -- documented replenish-at-floor alternation unfin_loop_steady_state,
+    NOT the empty-queue deadlock; most recent content task is a deep-review, not
+    replenish-queue, so both MIN_QUEUE gate conditions hold. The two surviving queued
+    P2 mints are explanatory-gap (run-716) + metaphysics-of-information-under-dualism
+    (run-717). MIN_QUEUE floor 3 unmet by 1; minted ONE deep-review to restore 2->3
+    (post-mint count_p0_p2_tasks==3 verified live; selector still picks explanatory-gap
+    FIFO-first, confirming correct BOTTOM-insert). PICK: FIFO-next clean SETTLED
+    candidate in the 2026-06-01 placeholder tier (33-article pool, all ~26d stale,
+    drift=False) = concepts/phenomenal-consciousness (last_deep_review==ai_modified==2026-06-01
+    13:17:05; last commit ff5dd0aba is its OWN stamp-setting deep-review; Tenet-1
+    load-bearing phenomenal-vs-access exhibit; aic=100 ai_system=claude-sonnet-4-5
+    older cohort). EIGHT-SOURCE AUDIT re-verified LIVE (NOT trusting prior notes per
+    replenish-false-exhaustion-mislabeled-drift): (1) chains consumed -- recent_tasks
+    all deep-review/replenish/agentic-social/check-model-fallback/embed/check-links/research-voids/commission,
+    zero un-followed research-topic/expand-topic/cross-review; (2) no unconsumed research
+    -- the two 06-26 DECLINEs + the 06-26 phenomenal-constitution-thesis PROCEED (live
+    article disk-verified) + the 06-24/25 PROCEEDs all consumed; (3) gap/caps topics
+    281/320 + concepts 272/320 (harvester-governed) + voids 101/100 over cap + positions
+    8-entry slow-add; (4) orphans=0; (5) length -- NO critical content offenders this
+    run; every hard offender is a research/ note, human-deferred, recently-condensed,
+    or #veto accept-as-survey, NO actionable blind-mintable condense candidate; (6)
+    positions 8 entries (<10 audit threshold), no moved Argued-in dependency; (7) 3
+    applied-apex exist, no high-confidence cluster gap; (8) staleness the live source.
+    VERIFIED settled+clean: 0 commits since 2026-06-27T00:00 touching it, NO same-day
+    collision, NOT archived, NOT vetoed (3 Vetoed-section hits are ✓-completed calibration-adoption
+    tasks for OTHER files), NO open deep-review header, EOF artifact scan clean (last
+    line = References Lewis 1947 Miracles Geoffrey Bles). body 2219w via analyze_length
+    = ok (concepts soft 2500/hard 3500, ample headroom; length-neutral, NOT a condense
+    candidate). BOTTOM-inserted per queue-lifo-starvation so the two FIFO-prior queued
+    tasks (explanatory-gap, metaphysics-of-information-under-dualism) drain first.
+    Replenishment NOT executing the task -- minting only.'
   run_716_note: 'run no.716 (2026-06-27): FLOOR-RESTORING STALENESS MINT (not a promotion).
     Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live; the run-715 third sibling (consciousness-and-skill-acquisition) was
