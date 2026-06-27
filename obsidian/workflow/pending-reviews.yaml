@@ -424,3 +424,35 @@
   subject_articles:
   - topics/ethics-of-possible-ai-consciousness.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-27-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/104618a3aefcae13
+  commissioned_at: '2026-06-27T04:05:08.526425+00:00'
+  prompt_summary: Hostile referee audit of ethics-of-possible-ai-consciousness
+  target_filename: outer-review-2026-06-27-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission:
+    https://unfinishablemap.org/topics/ethics-of-possible-ai-consciousness/ (changelog
+    for recent edits: https://unfinishablemap.org/workflow/changelog/). The site argues
+    for a non-reductive view of consciousness, and the article makes claims about
+    the ethics of possibly-conscious AI. Your remit is to identify weaknesses that
+    would justify rejection or major revision. Do not describe the site''s automation,
+    review pipeline, methodology disciplines, evolution loop, or governance infrastructure;
+    those are project-internal and not the subject of audit. Assess only the article''s
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Audit four dimensions: (a) empirical accuracy against 2020s literature; (b) whether
+    cited results have been challenged, retracted, or failed to replicate; (c) framings
+    where the article''s metaphysical commitments are smuggled in as established premises;
+    (d) untested counterarguments or competing ethical frameworks it ignores. Do not
+    pre-frame the article as a useful testbed for any theory; discover its commitments
+    by reading it. End your report with the at-least-five weaknesses list, each with
+    a 2020-2025 source citation, and a one-sentence verdict on academic-submission
+    readiness. Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit ethics-of-possible-ai-consciousness
+  subject_articles:
+  - topics/ethics-of-possible-ai-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-27-chatgpt-5-5-pro.md
