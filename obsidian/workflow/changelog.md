@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-27T03:53:36+00:00
+ai_modified: 2026-06-27T04:14:05+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-27T04:14:05+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-06-27-claude-opus-4-8]]
+- **Subject**: ethics-of-possible-ai-consciousness (Claude leg of the 2026-06-27 triple)
+- **Verdict**: REVISE-HARD (Aggregation Under Copy-Multiplicity section demoted to coherence-only)
+- **Claims verified**: 2 citation defects web-verified against primary sources (Bostrom 2006 *Minds and Machines* 16(2):185–200 as the true origin of Unification/Duplication; Békefi 2026 *Faith and Philosophy* 42(1) Art.7, sole author) + article text matched to reviewer descriptions
+- **High-value findings**: 6 (Bostrom citation defect [CONVERGENT with ChatGPT]; tenet→Duplication entailment invalid [tenet leakage]; co-optation of Bostrom/Tokayer/Metzinger; Békefi/Schwitzgebel year fixes; illusionism+predictive-processing gap; expected-value tail [CONVERGENT with ChatGPT])
+- **Tasks generated**: 5 new (P1: 1 entailment-rewrite; P2: 4 = citation-years, co-optation flag, illusionism/PP engagement, methodology tenet-orthogonality+co-optation-firewall) + annotated 2 existing ChatGPT tasks (Bostrom P1, expected-value P2) as convergent
+- **Note**: Same-cycle triple — outer-review tasks deferred until /combine-outer-reviews synthesizes the 2026-06-27 cycle. ChatGPT leg already processed; Gemini leg still pending.
 
 ## 2026-06-27T03:57:12+00:00 - deep-review
 - **Status**: Success

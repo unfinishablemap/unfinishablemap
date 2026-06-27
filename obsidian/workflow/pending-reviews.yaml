@@ -401,9 +401,9 @@
   commissioned_at: '2026-06-27T03:06:04.423066+00:00'
   prompt_summary: Audit ethics-of-possible-ai-consciousness
   target_filename: outer-review-2026-06-27-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-27T04:13:50.689162+00:00'
   failure_reason: null
   prompt_text: "Act as a hostile but fair referee auditing one article from The Unfinishable\
     \ Map, a dualist philosophy-of-mind site. Target article: \"The Ethics of Possible\
