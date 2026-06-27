@@ -5,6 +5,14 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T06:00:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Word count**: 3996 → 3997 (length-neutral; under 4000 hard cap)
+- **Changes**: Recharacterized the Birch gaming-problem caveat in Precautionary Approaches. Replaced inaccurate "blocking sentience candidacy on Birch's eight-indicator scheme" with an accurate mechanism: gaming-problem decouples LLM sentience-markers from underlying experience, so linguistic behaviour cannot establish candidacy absent deeper computational evidence. Web-verified against Birch *Edge of Sentience* (2024) ch.16 "Large Language Models and the Gaming Problem": the eight-criteria/five-of-eight scheme is the 2021 animal (cephalopod/decapod) nociception framework and Birch is explicit it does NOT transfer to LLMs; for AI he holds the gaming problem "eliminates the ability to use linguistic behaviour of any kind to assess the sentience candidature of LLMs" and that "deep computational markers" are what is needed. Conflation was with the Butlin-Long-Chalmers indicator-properties report. Addresses outer-review-2026-06-27-chatgpt-5-5-pro (Gemini leg convergent).
+- **Sibling checked**: [[topics/birch-edge-of-sentience-and-the-five-tier-scale]] — already correct (eight indicators properly scoped to animals; line "The eight-indicator framework therefore does not transfer directly to AI"; LLM row blocks candidacy on gaming-problem grounds). No edit needed.
+- **Published**: yes
+
 ## 2026-06-27T05:38:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/libet-experiments]]
