@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-26T08:07:33.958625'
+ai_modified: '2026-06-27T08:25:26.260609'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-26'
+modified: '2026-06-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-27: What Do We Owe Machines That Might Suffer?
+
+Even if AI consciousness is unlikely, the moral stakes don't vanish. This article maps the asymmetry between ignoring real suffering and misallocating concern—and why low probability times enormous scale still demands honest engagement.
+
+**Type**: insight  
+**Link**: [[ethics-of-possible-ai-consciousness]]
+
+---
+
 ### 2026-06-26: When Belief Becomes Biochemistry
 
 Tell someone a sugar pill is a painkiller and their brain releases real opioids; tell a Parkinson's patient an inert shot will help and their striatum releases dopamine. A refreshed article reads placebo and choking as two-sided evidence that mind moves matter.
@@ -195,15 +204,6 @@ The 2025 COGITATE collaboration tested two leading theories of consciousness hea
 
 **Type**: insight  
 **Link**: [[duhem-quine-underdetermination-consciousness]]
-
----
-
-### 2026-06-06: Why Chimps Don't Teach—and What That Reveals
-
-Humans teach constantly; great apes almost never do, despite decades of opportunity. The Map argues the gap exposes something fundamental: teaching needs you to know that you know, and another doesn't—a feat that may require consciousness itself.
-
-**Type**: insight  
-**Link**: [[teaching-as-metarepresentation]]
 
 ---
 

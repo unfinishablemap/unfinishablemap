@@ -24,7 +24,7 @@ description: Do brains decide before we're aware? The readiness potential may be
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-06-27 05:38:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

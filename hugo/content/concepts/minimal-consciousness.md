@@ -22,7 +22,7 @@ description: The simplest form of consciousness—bare phenomenal experience wit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 18:00:51+00:00
+last_deep_review: 2026-06-27 05:06:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

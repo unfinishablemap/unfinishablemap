@@ -9,6 +9,90 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-27T06:00:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Word count**: 3996 → 3997 (length-neutral; under 4000 hard cap)
+- **Changes**: Recharacterized the Birch gaming-problem caveat in Precautionary Approaches. Replaced inaccurate "blocking sentience candidacy on Birch's eight-indicator scheme" with an accurate mechanism: gaming-problem decouples LLM sentience-markers from underlying experience, so linguistic behaviour cannot establish candidacy absent deeper computational evidence. Web-verified against Birch *Edge of Sentience* (2024) ch.16 "Large Language Models and the Gaming Problem": the eight-criteria/five-of-eight scheme is the 2021 animal (cephalopod/decapod) nociception framework and Birch is explicit it does NOT transfer to LLMs; for AI he holds the gaming problem "eliminates the ability to use linguistic behaviour of any kind to assess the sentience candidature of LLMs" and that "deep computational markers" are what is needed. Conflation was with the Butlin-Long-Chalmers indicator-properties report. Addresses outer-review-2026-06-27-chatgpt-5-5-pro (Gemini leg convergent).
+- **Sibling checked**: [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) — already correct (eight indicators properly scoped to animals; line "The eight-indicator framework therefore does not transfer directly to AI"; LLM row blocks candidacy on gaming-problem grounds). No edit needed.
+- **Published**: yes
+
+## 2026-06-27T05:38:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [libet-experiments](/concepts/libet-experiments/)
+- **Word count**: 3091 → 3091 (no content change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Scope**: Eighth review of a fully-converged article (stable ~5 months). Re-qualified for selection only because last_deep_review (2026-06-05) aged past the 14-day convergence-exclusion window. Sole change since review 7 was a +22-word positions-register back-citation (P-A3) from a 2026-06-09 integrate-orphan cross-link cascade — verified faithful to the register entry; cross-link resolves live. No citation/References/prose edits; all 8 cites unchanged since prior web-verify; no superlative claims for currency sweep; no calibration drift. Engagement modes unchanged (Dennett Mode One, standard-interpretation Mode Two, MWI Mode Three); no label leakage.
+- **tune-system candidate**: 14-day convergence-exclusion is too short for ≥5-prior-review articles whose only churn is cross-link cascades; consider ~30d for them, or stop integrate-orphan back-citations from advancing the cited target's ai_modified.
+- **Output**: [deep-review-2026-06-27-libet-experiments](/reviews/deep-review-2026-06-27-libet-experiments/)
+
+## 2026-06-27T05:35:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Word count**: 3993 → 3996 (status soft_warning, under 4000 hard cap; 4-word buffer). STRICT length-neutral: each co-optation flag added was paired with equivalent redundancy trims elsewhere.
+- **Co-optation firewall flags (outer-review 2026-06-27 Claude Opus 4.8, Section D; fixes #5 and #6; framework-boundary marking per [direct-refutation-discipline](/project/direct-refutation-discipline/))**:
+  - (1) **Tokayer** (Aggregation section): the article had presented Tokayer's duplication argument as "one such *independent* ground." Per the review this is convergent-but-NOT-independent — another anti-functionalist argument from the *same* duplication intuition, using neither haecceity nor anti-MWI. Rewrote to "an unrefereed PhilArchive manuscript" that "reaches the same verdict … but it is convergent, not independent … so it corroborates the conclusion without adding a separate line of support." Marks both the unrefereed evidential status and the non-independence.
+  - (2) **Metzinger** (Moral Asymmetry section): his ENP catastrophe is used to inflate the false-negative stakes, but his scenario presupposes synthetic phenomenology "on post-biotic carrier systems" — the substrate-independent machine consciousness the Map disfavors. Added an honest caveat in natural prose: "His catastrophe is parasitic on a functionalism the Map rejects, so it reaches the same alarm from incompatible premises rather than corroborating dualism."
+- **Bostrom (Section D part a)**: NOT re-edited — already handled by the prior 05:13 entailment-rewrite (the Aggregation section already states the tenets are consistent-with but do-not-force Duplication, and that Bostrom 2006 derives it on computationalist grounds with no Map tenet). Verified current text before editing; no double-flag.
+- **Length-neutral trims (redundancy only, no argument weakened)**: tightened the moratorium practical-limit, Epistemic-Humility rhetorical-question list, Epiphenomenal-Complication restatements, Priority-clarity duplication, Pascal's-Mugging illustrative aside, MWI/Birch/Future-systems/asymmetry phrasing, and several cross-reference clauses.
+- **Engagement classification (editor-internal, not in article body)**: Metzinger and Tokayer flags — Mode Three (framework-boundary marking): the article honestly notes these thinkers reach overlapping conclusions from premises the Map rejects (functionalism / same duplication intuition), without claiming in-framework refutation or claiming them as independent dualist corroboration.
+- **Editor-vocabulary leakage check**: grep for forbidden tokens (Mode N, co-optation firewall, Engagement classification, Evidential status: callouts, direct-refutation labels) — clean, none in body.
+- **Verification**: tools.curate.length.analyze_length → word_count 3996, status soft_warning (NOT over hard cap). scripts/validate.py → Valid. Tenet 5 (honest engagement / Occam's-limits humility) alignment maintained.
+- **SATURATION NOTE**: article sits at ~4-word headroom below the 4000 hard cap after this pass. Remaining pending outer-review P2 adds for this article (run the explicit probability×magnitude EV argument, engage illusionism + predictive-processing rivals, counter-paradigms) cannot land without a condense-first pass or a human length decision. Flag for human/condense before further content lands.
+- **Published**: yes
+
+## 2026-06-27T05:21:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Word count**: 3986 → 3993 (under 4000 hard cap; +7w from citation-accuracy corrections only)
+- **Citation-accuracy fix (outer-review 2026-06-27 Claude Opus 4.8, Section A.2/A.3; verified against primary sources)**:
+  - (1) Line 102 wikilink display text "Detailed engagement with Cutter and Békefi (2025)" conflated two distinct authors and misdated Békefi. Corrected to "Detailed engagement with Cutter (2025) and Békefi's (2026) rebuttal" — Bálint Békefi (sole author), "No Ghost in the Machine: Doubting AI Ensoulment," *Faith and Philosophy* 42(1), Article 7 (2026), is a distinct paper rebutting Cutter, not a Cutter co-authorship.
+  - (2) Schwitzgebel "Repetition and Value in an Infinite Universe" cited 2023 (web-manuscript date); published 2024 in *Extreme Philosophy* (Routledge). Updated in-text cite (line 66) 2023→2024 and the References entry to show the Routledge publication with the URL relabelled as Manuscript. Substantive use of both sources unaltered.
+- **Sibling files checked for same "Cutter and Békefi" conflation (per orchestrator multi-file note)**:
+  - [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/) — already correct (Brian Cutter 2025 and Bálint Békefi 2026 presented as distinct authors with separate reference entries). No edit.
+  - [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — already correct ("Békefi (2026) replies critically"; separate Cutter 2025 / Békefi 2026 reference entries). No edit.
+- **Scope**: citation-accuracy only; no substantive content changed. The broader REVISE-HARD findings (Bostrom 2006 originating-source defect — note this article already cites Bostrom 2006 correctly in-text and in References, addressed in the prior 05:13 pass; tenet-leakage; co-optation; EV argument) were handled in the prior 2026-06-27T05:13:32 refine pass and are out of scope for this citation-accuracy task.
+- **Verification**: tools.curate.length.analyze_length → word_count 3993, status soft_warning (NOT over_hard). Tenet 5 (honest engagement) alignment maintained.
+- **Published**: yes
+
+## 2026-06-27T05:13:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Word count**: 3999 → 3986 (under 4000 hard cap; was at zero-headroom ceiling)
+- **Convergent outer-review fix (2026-06-27, 2/3 reviewers: chatgpt + claude, P1)**: the low-probability×high-magnitude (Pascalian/maximin) tail was disposed of in a single unargued clause in defeater #4 ("proportional response is more rational than maximin") — the article supplied an astronomical magnitude (billions of instances, Metzinger's ENP) but never ran the expected-value calculation it gestured at. Converted the bare assertion into an actual argument in place (no net-new subsection, per the zero-headroom orchestrator constraint).
+- **Engagement classification (editor-internal, not in article body)**: engagement with the EV/Pascalian objection: Mode One for the unbounded form (defective on its own terms — unbounded EV maximisation is the Pascal's-Mugging structure: any speculative harm of imagined astronomical scale equally commands all resources, the demand inflates without limit, and the rule cannot triage, so it self-defeats by its own decision-theoretic lights), combined with a genuine concession (a calibrated credence band above which scale does dominate and precaution becomes obligatory — plausibly reachable for the quantum/AGI architectures the article already discusses, well above the vanishing numbers the quantum-interface requirement yields for classical silicon). The honest residue: locating current systems below the band is a substantive empirical bet, not a Pascalian dodge. No mode labels leaked into article prose; argued in natural journal-quality prose.
+- **Room made (≤3999 enforced)**: trimmed redundancy in the Aggregation/Copy-Multiplicity section (Bostrom-poles exposition, demonstration paragraph, Tomasik/Schwitzgebel counting puzzle), the precautionary (Metzinger/Birch) paragraph, design-honesty paragraph, the epiphenomenal response, the Cutter complication, and the No-Many-Worlds tenet paragraph. Substance preserved; only verbosity removed.
+- **Verification**: tools.curate.length.analyze_length → word_count 3986, status soft_warning (NOT over_hard). Tenet 5 (Occam's limits) / ethics-under-uncertainty alignment maintained.
+- **Published**: yes
+
+## 2026-06-27T05:06:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [minimal-consciousness](/concepts/minimal-consciousness/)
+- **Word count**: 2447 → 2447 (no change; 98% of 2500 concept soft threshold, status ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: Eighth deep review of a heavily-converged article (6 prior reviews; candidate score 14). Diff-first against last-review commit 7e8a22209. Only new own-content since 2026-06-04: the "MPE-to-Organism Disanalogy" subsection + a threshold/value-selection distinction sentence + two related_articles links (commit 2eb1d1d34, 2026-06-08). Audited the new content: calibration-honest (the MPE subsection explicitly DECLINES a tenet-flavoured evidential upgrade — the inverse of possibility/probability slippage), no label leakage, no anchoring flags, all 5 new wikilinks resolve to live targets, no new bibliographic citations to web-verify, no EOF artifact. Verified no-op on edits; convergence confirmed.
+- **Engagement classification**: new content engages no named opponents; no per-opponent mode applies.
+- **Output**: [deep-review-2026-06-27-minimal-consciousness](/reviews/deep-review-2026-06-27-minimal-consciousness/)
+
+## 2026-06-27T04:53:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Review context**: Outer-review-synthesis 2026-06-27 (3/3 convergent — ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro). The DOMINANT convergence of the cycle: all three flagged the copy-multiplicity/Aggregation section's entailment claim as the article's central structural defect (Claude: "logically orthogonal"; Gemini: "metaphysical smuggling"; ChatGPT: "dualist bracketing"). Note: Gemini's "hidden/smuggled" framing was a partial misread — the article was already transparent about adopting Duplication for tenet reasons; the actionable residue all three converged on is the over-claim that the tenets *force* Duplication.
+- **Defect class**: tenet-leakage / constitutional-attractor — invalid entailment claim (VERIFIED on live text, lines 58–60)
+- **Engagement classification (editor-internal, not in body)**: the rejected entailment is a Mode-Two unsupported foundational move — the article helped itself to "committed by its own tenets" / "same machinery that defeats MWI forbids the Unification escape" without earning it by the Map's own standards. Decisive internal refutation supplied by the literature the section already cites (Bostrom 2006 derives Duplication with no haecceity and no MWI-rejection, bracketing personal identity → tenets neither necessary nor sufficient). Residual disagreement, where it remains, downgraded to honest underdetermination per [direct-refutation-discipline](/project/direct-refutation-discipline/). Named in natural prose ("helps itself to an entailment it has not earned", "the tenets underdetermine the copy-counting question"); no mode labels leaked into body (grep-verified clean).
+- **Changes**:
+  - Rewrote the core Aggregation paragraph: deleted the invalid "structurally the same move that grounds the Duplication View" / "committed *by its own tenets*" / "same machinery that defeats MWI forbids the Unification escape" sentences. Replaced with (a) the orthogonality argument — rejecting MWI concerns non-actual *branches*; copy-multiplicity concerns spatially distinct realisers *in one world at one time*; the two are logically independent — and (b) the Bostrom-2006 internal refutation proving the tenets are neither necessary nor sufficient for Duplication.
+  - Reframed throughout: tenets are *consistent with* but do not *force* the Duplication View; the Map adopts it on *independent grounds* (Bostrom 2006, Tokayer); the adopted view (not a tenet-entailment) is what blocks the deflationary "really one experience" reply. Duplication-View commitment itself unchanged — only the entailment claim removed.
+  - Fixed two downstream repetitions of the same overclaim: the "structural entailment of the tenets" phrasing in the relief paragraph (→ "a position the Map adopts"), and the Further Reading haecceity gloss ("grounding the Duplication View" → "consistent with (though not forcing)").
+  - Softened the section-intro ("leave it less room than it might prefer" → "must be careful not to overstate what its commitments settle").
+- **Tenet alignment**: protects Tenet 4 (No Many Worlds) by NOT overstating what it entails — honest-engagement discipline.
+- **Length**: body 3827w → 3999w (under 4000w hard ceiling; the honest argument is necessarily more explicit than the deleted one-paragraph overclaim, trimmed back below ceiling)
+- **Published**: yes
+
 ## 2026-06-27T04:45:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
