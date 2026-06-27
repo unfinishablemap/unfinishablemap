@@ -5,6 +5,15 @@ ai_modified: 2026-06-27T03:31:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T03:46:53+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-27-chatgpt-5-5-pro]]
+- **Subject**: [[topics/ethics-of-possible-ai-consciousness]] (recent-aged fallback subject)
+- **Claims verified**: 4 (Bostrom 2006 Unification/Duplication origin — CONFIRMED defect; Schwitzgebel arXiv:2510.09858 — correct; Butlin-Long-Chalmers "et al." — reference OK, inline shorthand only; Birch "eight-indicator scheme" — plausible mischaracterization)
+- **High-value findings**: 5 (1 verified citation error, 1 plausible citation error, 1 missed EV counterargument, 1 currency gap, 1 dualist-bracketing prominence)
+- **Tasks generated**: 5 (P1: 1, P2: 4) — deferred until /combine-outer-reviews for cycle 2026-06-27 (sibling claude-opus review still pending)
+
 ## 2026-06-27T03:34:15+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Indigenous Australian Philosophy of Consciousness
