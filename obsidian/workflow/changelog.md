@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-27T03:31:59+00:00
+ai_modified: 2026-06-27T03:53:36+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-27T03:53:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Word count**: 2538 → 2515 (-23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (soft-cap overshoot from the 06-07 Proponents'-Response addition — eight length-neutral prose trims, no content lost)
+- **Enhancements made**: 1 (web-verified the new Naccache et al. 2025 / niaf037 citation and its three body claims — all real-correct/faithful)
+- **Note**: 8th review; converged. Only the 06-07 COGITATE proponent-response subsection was new since 06-04; web-verify clean, no boundary-substitution, no slippage. Naccache niaf037 confirmed distinct from Streicher niaf042 (no propagation collision).
+- **Output**: [[reviews/deep-review-2026-06-27-global-workspace-theory]]
 
 ## 2026-06-27T03:46:53+00:00 - outer-review
 - **Status**: Success

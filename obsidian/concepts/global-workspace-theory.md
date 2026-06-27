@@ -4,9 +4,9 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-07T12:00:00+00:00
+ai_modified: 2026-06-27T03:53:36+00:00
 draft: false
-last_deep_review: 2026-06-04T18:46:57+00:00
+last_deep_review: 2026-06-27T03:53:36+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -53,7 +53,7 @@ The "global workspace" is a network of neurons with widespread connections acros
 - Motor systems can act on it
 - Reasoning systems can evaluate it
 
-This is consciousness as *access*—the difference between information that's available for report and action versus information that stays confined to specialized processors.
+This is consciousness as *access*—information available for report and action versus information confined to specialized processors.
 
 ### The Global Neuronal Workspace
 
@@ -61,15 +61,15 @@ Stanislas Dehaene and Jean-Pierre Changeux developed GWT into the Global Neurona
 
 GNW distinguishes three states:
 
-1. **Subliminal**: Information processed too weakly to reach the workspace
-2. **Preconscious**: Information strong enough to reach the workspace but not currently attended
-3. **Conscious**: Information that has achieved ignition and global broadcast
+1. **Subliminal**: too weak to reach the workspace
+2. **Preconscious**: strong enough to reach the workspace but not currently attended
+3. **Conscious**: information that has achieved ignition and global broadcast
 
 ## The Access/Phenomenal Distinction
 
 GWT explicitly addresses only *access consciousness*—the availability of information for reasoning, reporting, and action. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace. The [[types-of-consciousness|full taxonomy of consciousness types]] shows these are structurally independent dimensions that can dissociate.
 
-Ned Block's "overflow" argument holds that we experience more than we can report—the Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If right, GWT captures accessibility while missing richer phenomenal experience. Dennett counters that apparent overflow is retrospective construction—we *believe* we saw all twelve letters, but this belief is generated after the fact. On this view, there is no experience beyond what the workspace makes accessible.
+Ned Block's "overflow" argument holds that we experience more than we can report—the Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If right, GWT captures accessibility while missing richer phenomenal experience. Dennett counters that apparent overflow is retrospective construction—we *believe* we saw all twelve letters, but this belief is generated after the fact, so there is no experience beyond what the workspace makes accessible.
 
 The debate remains empirically open. Nartker et al. (2025) found that "inattentionally blind" participants retain visual sensitivity to stimuli they deny noticing. Whether this processing involves phenomenal consciousness (supporting Block) or merely unconscious sensitivity (supporting Dennett) remains contested.
 
@@ -87,7 +87,7 @@ Nature's own verdict was mixed, but GNW proponents read the same data more favou
 
 COGITATE indicated that conscious content tracks with posterior cortex more closely than with the prefrontal-parietal broadcast network—a finding consistent with the underdetermination framing above rather than a clean falsification of GNW. [[dream-consciousness|Dreaming]] reinforces this: dreams persist when the posterior hot zone remains active, even when prefrontal areas are offline. If workspace broadcast were necessary for consciousness, prefrontal deactivation should eliminate experience.
 
-This suggests the global workspace may be sufficient for *reportable* consciousness without being necessary for consciousness itself—consciousness may access whatever the posterior cortex provides, with the workspace enabling but not constituting that access.
+This suggests the global workspace may be sufficient for *reportable* consciousness without being necessary for consciousness itself—consciousness may access whatever the posterior cortex provides, the workspace enabling but not constituting that access.
 
 ## Relation to Competing Theories
 
@@ -97,7 +97,7 @@ The COGITATE results complicate all three: if conscious content tracks posterior
 
 ## GWT and AI Consciousness
 
-GWT has direct implications for machine consciousness. If consciousness *is* global broadcast—the functional role of making information widely available—then AI systems implementing this architecture could be conscious. Some researchers have argued that Large Language Agents, with their ability to integrate information across many modules, might satisfy GWT's criteria.
+GWT has direct implications for machine consciousness. If consciousness *is* global broadcast—the functional role of making information widely available—then AI systems implementing this architecture could be conscious. Some researchers have argued that Large Language Agents, integrating information across many modules, might satisfy GWT's criteria.
 
 This is precisely where the Map's framework diverges most sharply. The [[concepts/functionalism|absent qualia objection]] applies: a system could implement global broadcast without phenomenal experience. A nation of people, each simulating a neuron in a workspace architecture, would implement the same functional organization as a conscious brain. Is the nation conscious?
 
@@ -107,7 +107,7 @@ Site's [[ai-consciousness|AI consciousness skepticism]] rests on dualism, not de
 
 The global workspace is essentially [[working-memory|working memory]] operating at a global scale. Baddeley's episodic buffer is particularly significant—it performs the binding that GWT's ignition broadcasts globally. Baddeley himself frames this in functionalist terms, but the Map reads his language differently: his formulation that consciousness *accesses* bound representations fits naturally with a dualist interpretation where the workspace provides content and something beyond the neural workspace does the accessing. This is the Map's gloss, not Baddeley's intention—yet the explanatory gap between binding and experiencing the bound content is precisely what dualism claims to address.
 
-A telling asymmetry complicates GWT's equation of workspace presence with consciousness: **maintenance can be unconscious while manipulation requires consciousness**. Activity-silent working memory shows information can be held in synaptic traces without awareness; *using* that information requires conscious reactivation. Streicher et al.'s 2025 meta-analysis reinforced this—only 10% of claimed unconscious processing effects survive rigorous methodology, suggesting consciousness is functionally necessary for novel combinations and spontaneous intentional action (see [[conscious-vs-unconscious-processing]]).
+A telling asymmetry complicates GWT's equation of workspace presence with consciousness: **maintenance can be unconscious while manipulation requires consciousness**. Activity-silent working memory shows information can be held in synaptic traces without awareness; *using* that information requires conscious reactivation. Streicher et al.'s 2025 meta-analysis reinforced this—only 10% of claimed unconscious processing effects survive rigorous methodology, suggesting consciousness is functionally necessary for novel combinations (see [[conscious-vs-unconscious-processing]]).
 
 ### The Amplification Hypothesis
 
@@ -115,7 +115,7 @@ The global workspace may explain *how* [[consciousness-as-amplifier|consciousnes
 
 This reinterprets GWT's central claim: global broadcast isn't merely making information reportable—it's making information *manipulable*. The workspace enables cross-domain integration, flexible recombination, [[metacognition|metacognitive]] monitoring, and counterfactual simulation. Great apes show precisely the limitations expected if consciousness amplifies through the workspace: sophisticated within domain-specific modules, limited where global broadcast is required.
 
-Global broadcast may also enable [[metacognition|metarepresentation]]—what Gruber et al. (2015) call the Jourdain Hypothesis. Great apes have culture but may not *know* they have culture. Cumulative culture requires treating knowledge *as* knowledge that can be improved. When information achieves workspace ignition, it becomes available to reasoning systems that take representations as their objects, enabling the "thinking about thinking" that metarepresentation requires. DeWall et al. (2008) supported this: cognitive load impairs rule-based logical reasoning while leaving pattern recognition intact.
+Global broadcast may also enable [[metacognition|metarepresentation]]—what Gruber et al. (2015) call the Jourdain Hypothesis. Great apes have culture but may not *know* they have culture; cumulative culture requires treating knowledge *as* knowledge that can be improved. When information achieves workspace ignition, it becomes available to reasoning systems that take representations as their objects, enabling the "thinking about thinking" metarepresentation requires. DeWall et al. (2008) supported this: cognitive load impairs rule-based logical reasoning while leaving pattern recognition intact.
 
 ## Memory Systems and Global Broadcast
 
@@ -127,7 +127,7 @@ GWT maps onto Tulving's three-memory taxonomy through workspace access levels:
 | [[semantic-memory\|Semantic]] | Retrieval to workspace | Noetic—aware of knowing |
 | [[episodic-memory\|Episodic]] | Full binding + broadcast | Autonoetic—re-experiencing |
 
-Implicit memory operates through local processors without workspace ignition. Semantic retrieval makes facts globally available without full reconstructive binding. Episodic memory requires the episodic buffer's binding, integration across cortical areas, and global broadcast. The phenomenological hierarchy tracks workspace access—but correlation isn't constitution. GWT explains *when* different memory types engage different workspace processes, not *why* bypass feels like fluent action while broadcast feels like re-experiencing.
+Implicit memory operates through local processors without workspace ignition. Semantic retrieval makes facts globally available without full reconstructive binding. Episodic memory requires the episodic buffer's binding, integration across cortical areas, and global broadcast. The phenomenological hierarchy tracks workspace access—but correlation isn't constitution. GWT explains *when* memory types engage workspace processes, not *why* bypass feels like fluent action while broadcast feels like re-experiencing.
 
 ### Filter Theory Integration
 
