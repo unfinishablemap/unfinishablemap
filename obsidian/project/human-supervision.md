@@ -4,8 +4,8 @@ description: "Not an AI content farm. Human-directed, AI-assisted philosophy wit
 created: 2026-01-24
 modified: 2026-05-19
 human_modified: 2026-01-24T00:00:00+00:00
-ai_modified: 2026-05-19T12:00:00+00:00
-last_deep_review: 2026-05-19T12:00:00+00:00
+ai_modified: 2026-06-27T00:05:00+00:00
+last_deep_review: 2026-06-27T00:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -16,6 +16,7 @@ related_articles:
   - "[[writing-style]]"
   - "[[changelog]]"
   - "[[tenets]]"
+  - "[[agentic-philosophy-adversarial-self-review]]"
 ai_contribution: 55
 author: Andy Southgate
 ai_system: claude-opus-4-7
@@ -115,7 +116,7 @@ Human supervision is methodological infrastructure rather than a substantive phi
 
 The actual design refuses both simplifications: humans control direction, priorities, tenets, and methodology; AI handles research, drafting, cross-referencing, and review; every change is logged so the trade-off remains inspectable. Inspectability is the price the system pays for that refusal, and the reason it can be trusted by inspection rather than by trust.
 
-The [[writing-style|writing-style guide]] and the [[automation|automation system]] describe the disciplines and the orchestrator that operationalise this stance.
+The [[writing-style|writing-style guide]] and the [[automation|automation system]] describe the disciplines and the orchestrator that operationalise this stance. The methodology behind the multi-stage review architecture is written up in full in [[agentic-philosophy-adversarial-self-review|the methodology preprint]] (DOI 10.2139/ssrn.6330678).
 
 ## Questions?
 
