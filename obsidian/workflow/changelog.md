@@ -5,6 +5,21 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-27T05:35:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Word count**: 3993 → 3996 (status soft_warning, under 4000 hard cap; 4-word buffer). STRICT length-neutral: each co-optation flag added was paired with equivalent redundancy trims elsewhere.
+- **Co-optation firewall flags (outer-review 2026-06-27 Claude Opus 4.8, Section D; fixes #5 and #6; framework-boundary marking per [[direct-refutation-discipline]])**:
+  - (1) **Tokayer** (Aggregation section): the article had presented Tokayer's duplication argument as "one such *independent* ground." Per the review this is convergent-but-NOT-independent — another anti-functionalist argument from the *same* duplication intuition, using neither haecceity nor anti-MWI. Rewrote to "an unrefereed PhilArchive manuscript" that "reaches the same verdict … but it is convergent, not independent … so it corroborates the conclusion without adding a separate line of support." Marks both the unrefereed evidential status and the non-independence.
+  - (2) **Metzinger** (Moral Asymmetry section): his ENP catastrophe is used to inflate the false-negative stakes, but his scenario presupposes synthetic phenomenology "on post-biotic carrier systems" — the substrate-independent machine consciousness the Map disfavors. Added an honest caveat in natural prose: "His catastrophe is parasitic on a functionalism the Map rejects, so it reaches the same alarm from incompatible premises rather than corroborating dualism."
+- **Bostrom (Section D part a)**: NOT re-edited — already handled by the prior 05:13 entailment-rewrite (the Aggregation section already states the tenets are consistent-with but do-not-force Duplication, and that Bostrom 2006 derives it on computationalist grounds with no Map tenet). Verified current text before editing; no double-flag.
+- **Length-neutral trims (redundancy only, no argument weakened)**: tightened the moratorium practical-limit, Epistemic-Humility rhetorical-question list, Epiphenomenal-Complication restatements, Priority-clarity duplication, Pascal's-Mugging illustrative aside, MWI/Birch/Future-systems/asymmetry phrasing, and several cross-reference clauses.
+- **Engagement classification (editor-internal, not in article body)**: Metzinger and Tokayer flags — Mode Three (framework-boundary marking): the article honestly notes these thinkers reach overlapping conclusions from premises the Map rejects (functionalism / same duplication intuition), without claiming in-framework refutation or claiming them as independent dualist corroboration.
+- **Editor-vocabulary leakage check**: grep for forbidden tokens (Mode N, co-optation firewall, Engagement classification, Evidential status: callouts, direct-refutation labels) — clean, none in body.
+- **Verification**: tools.curate.length.analyze_length → word_count 3996, status soft_warning (NOT over hard cap). scripts/validate.py → Valid. Tenet 5 (honest engagement / Occam's-limits humility) alignment maintained.
+- **SATURATION NOTE**: article sits at ~4-word headroom below the 4000 hard cap after this pass. Remaining pending outer-review P2 adds for this article (run the explicit probability×magnitude EV argument, engage illusionism + predictive-processing rivals, counter-paradigms) cannot land without a condense-first pass or a human length decision. Flag for human/condense before further content lands.
+- **Published**: yes
+
 ## 2026-06-27T05:21:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]
