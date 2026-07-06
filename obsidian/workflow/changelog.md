@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T17:08:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]]
+- **Word count**: 2724 → ~2735 (+11)
+- **Critical issues addressed**: 0 (tenth pass; body unchanged since ninth-pass convergence audit, full attribution/calibration/reasoning-mode audit carried forward clean)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — fired ninth-pass trigger (a): repointed the substantive PCT reference from `[[phenomenology-of-intellectual-life|Phenomenal Constitution Thesis]]` to the dedicated [[phenomenal-constitution-thesis]] concept page (created 2026-06-26, after the last review); added it to `concepts:` frontmatter and Further Reading. Linkage now bidirectional.
+- **Citation web-verify**: skipped-by-rule (References block unmodified since prior clean per-cite ledger; `find_superlative_claims` returned none — no currency exposure)
+- **Reasoning-mode**: Duch engagement carried forward as Mixed (Mode Three-dominant + honest Mode Two probe); no label leakage, no boundary-substitution
+- **Output**: [[reviews/deep-review-2026-07-06-cognitive-phenomenology-and-the-irreducibility-of-thought]]
+
 ## 2026-07-06T16:29:04+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[voids/transit-void]] + [[voids/thought-stream-void]] (one fragmented idea: both carried a "Two Faces of the Same Void" section; shared Smallwood-Schooler probe evidence and the "before-and-after access, no in-flight access" thesis)
