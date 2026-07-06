@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-25
 last_curated:
-last_deep_review: 2026-06-01T02:31:15+00:00
+last_deep_review: 2026-07-06T14:18:55+00:00
 coalesced_from:
   - "/voids/pre-conceptual-knowing/"
 ---

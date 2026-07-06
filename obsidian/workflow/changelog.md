@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T14:18:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/acquaintance-void]]
+- **Word count**: 2201 → 2201 (no change — converged, 4th pass, article unchanged since 06-01)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Convergence-confirmation pass on an article byte-unchanged since the 2026-06-01 review. Completed the outstanding citation web-verify: Kelly 2001 (Phil Review 110(3):397-420), Block 2011 (TICS 15(12):567-75), McGinn 1989 (Mind 98:349-66), Russell 1910 (Proc Aristotelian Soc 11:108-128) all real-correct at publisher of record; References block now web-verified clean end-to-end (Jackson/Lewis/Conee/Nemirow verified prior). No attribution errors, contradictions, or evidential-status slippage. Ability hypothesis engaged not strawmanned; eliminativist objection remains bedrock (not re-flagged). 2201w = 110% of voids soft (well under 3000 hard). last_deep_review bumped; ai_modified deliberately left at 06-01 (no content change).
+- **Output**: [[reviews/deep-review-2026-07-06-acquaintance-void]]
+
 ## 2026-07-06T14:07:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/constitutive-vs-referring-observation]]
