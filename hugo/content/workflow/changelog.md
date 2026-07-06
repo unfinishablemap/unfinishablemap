@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-06T20:50:45+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) (concepts-namespace duplicate)
+- **Target**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) (existing canonical superset; already coalesced the topics-namespace `perceptual-degradation` + `perceptual-fidelity`)
+- **Archived**: [perceptual-degradation-and-the-interface](/archive/concepts/perceptual-degradation-and-the-interface/)
+- **Note**: The concepts version was a redundant ~2050-word duplicate of the 3900-word topics article — all four failure signatures, blur paradox, anaesthesia dissociation, and interface-theory framing already covered. It cited the topics article as its own source. Everything unique was already present in the target, so no content was merged in; the duplicate was archived with a 301 to the canonical article.
+- **Redirect**: `/concepts/perceptual-degradation-and-the-interface/` → `/topics/perceptual-failure-and-the-interface/` (301); regenerated `hugo/static/_redirects` (499 rules). Also removed the stale live `hugo/content/concepts/perceptual-degradation-and-the-interface.md` that sync leaves behind.
+- **References repointed**: 6 live articles ([dualist-perception](/topics/dualist-perception/), [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/), [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/), [naturally-occluded](/concepts/naturally-occluded/), [perception](/concepts/perception/), [fitness-beats-truth](/concepts/fitness-beats-truth/)) — inbound wikilinks retargeted to the canonical article to prevent archival link rot. Review/workflow-archive references left as historical record.
+
 ## 2026-07-06T20:34:46+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ai-consciousness](/topics/ai-consciousness/)
