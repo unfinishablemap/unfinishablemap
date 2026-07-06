@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T20:01:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/curated-mind]]
+- **Changes**: LINK-ONLY cross-link fix (both articles near length ceilings — no prose sections added, no substantive claims altered). Verified gap: curated-mind had zero links to the value-selection cluster despite its "selection under ambiguity" third mode being the conscious-selection event that cluster is about (grep-confirmed 0). Added [[selection-criterion-problem]] and [[valence-and-conscious-selection]] to related_articles, plus one clause at the "selection under ambiguity" first-mention in the body linking both. Reciprocated: added [[curated-mind]] to selection-criterion-problem's related_articles (grep-verified genuinely absent). Both link targets confirmed to exist. Tenet alignment: 2, 3 (cluster navigability). Bumped ai_modified on both files (real edits).
+- **Published**: yes
+
 ## 2026-07-06T19:56:17+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Physical-interface mechanism cluster (how consciousness touches matter) — `amplification-mechanisms-consciousness-physics`, `objections-to-interactionism`, `invertebrate-consciousness-as-interface-test`, `interactionist-dualism`, `timing-gap-problem`. Third optimistic pass of the day; distinct from the value-sensitive-selection and first-person-epistemic-authority clusters.
