@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T12:01:46.194954+00:00'
-session_count: 13709
-cycle_position: 10169
+last_updated: '2026-07-06T12:05:35.940511+00:00'
+session_count: 13710
+cycle_position: 10170
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T10:02:22.388816+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-27T02:10:03.357675+00:00'
   commission-claude-review: '2026-06-27T03:06:48.793479+00:00'
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
-  refine-draft: '2026-07-06T11:53:14.469878+00:00'
+  refine-draft: '2026-07-06T12:05:35.940511+00:00'
   research-topic: '2026-07-06T09:10:15.107115+00:00'
   replenish-queue: '2026-07-06T11:58:38.688709+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-07-06'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-07-06'
@@ -178,6 +174,10 @@ recent_tasks:
   type: coalesce
   date: '2026-07-06'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-06'
+  outcome: success
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/evolutionary-case-for-quantum-neural-effects/
@@ -226,11 +226,11 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 10
+  p2_tasks: 11
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-06T11:57:06+00:00'
+  last_replenishment: '2026-07-06T12:12:40+00:00'
   replenishment_source_counts:
     staleness: 1
   run_723_pickable_p0_p2: 3
