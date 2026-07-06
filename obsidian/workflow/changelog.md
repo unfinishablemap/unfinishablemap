@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T15:30:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/necessary-opacity]]
+- **Word count**: 2441 → 2441 (+0)
+- **Critical issues addressed**: 1 (Ref #2 Battaglia — wrong volume: DOI ...12.009 is the original paper in *Phys. Life Rev.* vol. 52 pp.197–204, but the 2026-06-01 review had set it to vol. 54, which is the separate reply-to-comments; corrected 54→52, added pages. Publisher-of-record web-verify.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (5th review; article converged — confirmation pass)
+- **Engagement modes**: n/a (voids article, no named-opponent replies added; standing bedrock disagreements not re-flagged)
+- **Output**: [[reviews/deep-review-2026-07-06-necessary-opacity]]
+
 ## 2026-07-06T15:24:30+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: First-person epistemic-authority / methodology cluster — constitutive-vs-referring-observation, methodology-of-consciousness-research, mysterianism, social-construction-of-self-vs-phenomenal-self (all deep-reviewed/edited 2026-07-06). Distinct from the value-selection cluster in optimistic-2026-07-06.md.

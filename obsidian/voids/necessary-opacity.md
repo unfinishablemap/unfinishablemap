@@ -5,7 +5,7 @@ created: 2026-01-27
 modified: 2026-04-28
 human_modified:
  null
-ai_modified: 2026-06-01T06:55:00+00:00
+ai_modified: 2026-07-06T15:30:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-28
 last_curated: null
-last_deep_review: 2026-06-01T06:55:00+00:00
+last_deep_review: 2026-07-06T15:30:56+00:00
 coalesced_from:
   - "/voids/transparency-void/"
   - "/voids/destabilizing-self-knowledge/"
@@ -185,7 +185,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 ## References
 
 1. Alston, William P. "Epistemic Circularity." *Philosophy and Phenomenological Research* 47, no. 1 (1986): 1–30.
-2. Battaglia, S., Servajean, P., & Friston, K. J. (2025). "The paradox of the self-studying brain." *Physics of Life Reviews*, 54. https://doi.org/10.1016/j.plrev.2024.12.009
+2. Battaglia, S., Servajean, P., & Friston, K. J. (2025). "The paradox of the self-studying brain." *Physics of Life Reviews*, 52, 197–204. https://doi.org/10.1016/j.plrev.2024.12.009
 3. Bostrom, N. (2011). "Information Hazards: A Typology of Potential Harms from Knowledge." *Review of Contemporary Philosophy*, 10, 44-79.
 4. Hoffman, Donald D. "The Interface Theory of Perception." *Current Directions in Psychological Science* 25, no. 3 (2016): 157–161.
 5. James, W. (1902). *The Varieties of Religious Experience*. Lectures XVI-XVII.
