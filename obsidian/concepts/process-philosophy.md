@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-06-25T15:28:07+00:00
+ai_modified: 2026-07-06T16:58:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[the-steelman-for-process-monism]]"
+  - "[[hylomorphic-dualism-and-the-interaction-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -185,6 +186,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - [[hard-problem-of-consciousness]] — The puzzle process philosophy claims to dissolve
 - [[interaction-problem-across-traditions]] — Process dissolution as one of five recurring solution types
 - [[the-steelman-for-process-monism]] — The unified-process ontology built at full strength as the Map's strongest rival, then declined under acknowledged parsimony cost
+- [[hylomorphic-dualism-and-the-interaction-problem]] — A rival dissolution from the Aristotelian substance metaphysics process philosophy inverts: mind and body as form and matter of one substance rather than modes of one process, yet reaching the same anti-interface verdict the Map declines
 
 ## References
 

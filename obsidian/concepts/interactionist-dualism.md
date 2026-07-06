@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-06T16:58:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,6 +51,7 @@ related_articles:
   - "[[four-quadrant-dualism-taxonomy]]"
   - "[[dualism-as-ai-risk-mitigation]]"
   - "[[the-agent-shaped-hole]]"
+  - "[[hylomorphic-dualism-and-the-interaction-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -223,6 +224,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[tenets]] — The Map's foundational commitments
 - [[psychophysical-laws]] — Chalmers' framework and where the Map diverges
 - [[four-quadrant-dualism-taxonomy]] — Thickness axis: how much ontological weight each side carries
+- [[hylomorphic-dualism-and-the-interaction-problem]] — A neo-Aristotelian rival that dissolves the interaction problem this position locates an interface for: mind and body as co-principles of one substance, so on its account there is no gap to bridge
 
 **Mechanisms:**
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for consciousness-brain interaction

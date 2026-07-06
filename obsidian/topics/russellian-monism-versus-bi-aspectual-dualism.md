@@ -4,7 +4,7 @@ description: "Russellian monism and the dual-aspect tradition approach the Map's
 created: 2026-03-22
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-25T19:08:00+00:00
+ai_modified: 2026-07-06T16:58:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[consciousness-and-the-metaphysics-of-laws-and-dispositions]]"
   - "[[intrinsic-nature-void]]"
   - "[[four-quadrant-dualism-taxonomy]]"
+  - "[[hylomorphic-dualism-and-the-interaction-problem]]"
   - "[[russellian-monism-vs-bi-aspectual-dualism-2026-03-14]]"
   - "[[russellian-monism-bi-aspectual-dualism-supplement-2026-03-17]]"
   - "[[bi-aspectual-ontology-dual-aspect-traditions-2026-03-14]]"
@@ -157,6 +158,7 @@ This comparison engages all five of the Map's [[tenets]]:
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
 - [[wheelers-participatory-universe-and-it-from-bit]] — Wheeler's own rejection of many-worlds on ontological grounds, parallel to the Map's selection-ontology case
 - [[experimental-consciousness-science-2025-2026]] — Keppler's 2025 zero-point-field model is a live empirical instance of this fork, ambiguous between a panpsychist field with phenomenal character and consciousness interfacing via the field
+- [[hylomorphic-dualism-and-the-interaction-problem]] — A different non-Cartesian rival: where the dual-aspect tradition dissolves interaction by identity of aspects, neo-Aristotelian hylomorphism dissolves it by making mind and body co-principles of one substance — again declining the interaction the Map takes on
 
 ## References
 
