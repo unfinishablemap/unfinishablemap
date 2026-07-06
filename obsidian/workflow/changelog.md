@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T14:26:56+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/social-construction-of-self-vs-phenomenal-self.md` (oldest settled-stale topic, last_deep_review 2026-06-01)
+- **Findings**: 5 issues (2 Medium-High: dissolution≠priority, neonate/Rochat under-determination; 3 Medium: unsupported linguistic-universal, Butler over-read, decisive-regress boundary-substitution). Citations clean. Annotated the already-queued deep-review task rather than minting a duplicate refine-draft.
+- **Output**: [[pessimistic-2026-07-06-social-construction-of-self]]
+
 ## 2026-07-06T14:18:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/acquaintance-void]]
