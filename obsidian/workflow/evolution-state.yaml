@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T15:58:23.772622+00:00'
-session_count: 13754
-cycle_position: 10191
+last_updated: '2026-07-06T16:01:59.993628+00:00'
+session_count: 13755
+cycle_position: 10192
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T14:31:44.225798+00:00'
   optimistic-review: '2026-07-06T15:28:38.924788+00:00'
   check-tenets: '2026-06-27T06:16:56.452911+00:00'
   check-links: '2026-07-06T13:30:16.273090+00:00'
-  deep-review: '2026-07-06T15:58:23.772622+00:00'
+  deep-review: '2026-07-06T16:01:59.993628+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-07-06T13:33:09.106764+00:00'
   coalesce: '2026-07-06T12:01:46.194954+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 426
-  reviews_completed: 5938
+  reviews_completed: 5939
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-06'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-07-06'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-06'
   outcome: success
 - task: deep-review
@@ -266,9 +266,10 @@ queue_status:
   p3_tasks: 18
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-06T15:43:00+00:00'
+  last_replenishment: '2026-07-06T16:07:45+00:00'
   replenishment_source_counts:
     staleness: 1
+  run_732_pickable_p0_p2: 3
   run_731_pickable_p0_p2: 3
   run_730_pickable_p0_p2: 3
   run_729_pickable_p0_p2: 3
@@ -293,8 +294,29 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 730
+  last_replenishment_run: 732
   last_replenishment_mode: standard
+  run_732_note: 'run no.732 (2026-07-06): FLOOR-RESTORING STALENESS MINT. Live pre-run
+    canonical count_p0_p2_tasks==2 (state carried 3 from run 730/731 but cycle slots
+    drained the run-729/730 siblings quantum-indeterminacy-free-will + necessary-opacity
+    + social-construction-of-self since, leaving cognitive-phenomenology-and-the-irreducibility-of-thought
+    + meta-epistemology-of-limits as the only open pickable P2s; the 3 veto condense
+    tasks are parser-excluded, the ~20 P3s + NEEDS-HUMAN length deferrals do not count
+    toward the floor). MIN_QUEUE floor 3 unmet by 1 (last completed task at HEAD is
+    a deep-review not replenish-queue, so both gate conditions hold); minted ONE P2
+    deep-review (concepts/objections-to-interactionism, settled-stale ldr==aim 2026-06-02T21:56:59,
+    ai_contribution=100, ai_system=opus-4-5 older cohort, body 2903w under concepts
+    3500 hard, corpus home for the decoherence objection so citation-verify is the
+    priority scope) to restore 2 to 3 (post-mint canonical count_p0_p2_tasks==3 verified
+    live). Chosen for SECTION + TENET diversity: the queued pair covers Tenet-1 (topic)
+    + Tenet-5 (void); this restores the Tenet-2/3 interaction axis as a concept. Eight-source
+    audit reverified LIVE: chain consumed (both 2026-07-06 research-topic + expand-topic
+    completions already have published articles), unconsumed-research none genuine
+    (harvester-governed), gap none, staleness abundant (source used), orphans 0, length
+    all veto/deferred/accept-as-survey, positions 8<10 audit threshold, applied-apex-gap
+    none. Placed BELOW the two existing P2 mints so older floor-restore tasks drain
+    first (queue-lifo-starvation). Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT the empty-queue deadlock.'
   run_730_note: 'run no.730 (2026-07-06): FLOOR-RESTORING STALENESS MINT. Live pre-run
     canonical count_p0_p2_tasks==2 (state carried 3 from run 729 but a cycle slot
     completed the run-729-era social-construction-of-self deep-review since 14:56,
