@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-06-02T21:56:59+00:00
+last_deep_review: 2026-07-06T17:34:49+00:00
 ---
 
 [[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page treats each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] The Unfinishable Map adopts. The key finding: five objections have principled responses—some decisive on neutral ground (conservation, pairing), others decisive only given the Map's tenets and an honest standoff at the framework boundary otherwise (decoherence, exclusion)—and the sixth (evolution) actually targets [[concepts/epiphenomenalism]] rather than the interactionist, though it does not by itself favour the Map over physicalism. The Summary table marks which responses are which.
