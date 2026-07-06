@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-06 16:58:39+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -57,6 +57,7 @@ related_articles:
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[dualism-as-ai-risk-mitigation]]'
 - '[[the-agent-shaped-hole]]'
+- '[[hylomorphic-dualism-and-the-interaction-problem]]'
 title: Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -225,6 +226,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [tenets](/tenets/) — The Map's foundational commitments
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework and where the Map diverges
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Thickness axis: how much ontological weight each side carries
+- [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/) — A neo-Aristotelian rival that dissolves the interaction problem this position locates an interface for: mind and body as co-principles of one substance, so on its account there is no gap to bridge
 
 **Mechanisms:**
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for consciousness-brain interaction
