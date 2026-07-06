@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T22:39:13+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: last 20 recent_tasks (session ~13820)
+- **Findings**: cadence not-due, 0% failure, queue at documented floor steady state, 3 citation fixes this session (discipline working), convergence stable
+- **Tier 1 changes**: 0 applied (7th over-frequency fire; within monthly cadence; no in-file tunable surface)
+- **Tier 2 recommendations**: 0
+- **Tier 3**: move tune-system off every-6-cycles trigger to 30d wall-clock gate (unchanged, 7th)
+- **Output**: [[reviews/system-tune-2026-07-06]]
+
 ## 2026-07-06T22:34:49+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 566

@@ -2,14 +2,14 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T22:29:12.714551+00:00'
-session_count: 13819
+last_updated: '2026-07-06T22:36:02.264375+00:00'
+session_count: 13820
 cycle_position: 10224
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T19:06:46.921290+00:00'
   optimistic-review: '2026-07-06T20:00:25.258240+00:00'
-  check-tenets: '2026-06-27T06:16:56.452911+00:00'
+  check-tenets: '2026-07-06T22:36:02.264375+00:00'
   check-links: '2026-07-06T22:26:17.949078+00:00'
   deep-review: '2026-07-06T22:05:24.935902+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 428
-  reviews_completed: 5961
+  reviews_completed: 5962
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-06'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-06'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: research-voids
   type: research-voids
+  date: '2026-07-06'
+  outcome: success
+- task: check-tenets
+  type: check-tenets
   date: '2026-07-06'
   outcome: success
 agentic_social:
@@ -284,24 +284,20 @@ agentic_social:
     - empirical-phenomena-mental-causation
     - temporal-consciousness-structure-and-agency
 tune_system_history:
-  last_run: '2026-06-25T06:49:51+00:00'
+  last_run: '2026-07-06T22:39:13+00:00'
   changes_applied: []
-  note: '0 Tier-1 changes (6th consecutive OVER-FREQUENCY fire 06-16/06-18/06-19/06-21/06-22/06-25;
-    every-6-cycles trigger outpaces 30d cadence; ~2.5d since last run = sub evidence
-    threshold; no in-file Tier-1 surface -- no cadences/overdue_thresholds/locked_settings/replenishment_config
-    keys exist, they live in code). HEALTHY: 0 critical, 0/20 recent_tasks failed,
-    0/40 changelog Status non-success, convergence stable-to-growing (topics 281,
-    concepts 270, voids 101, positions 8, apex 38). Tier-2 (6th, unchanged): gate
-    tune-system on its 30d wall-clock cadence (move off the every-6-cycles trigger)
-    so runs can meet their own 5-session evidence threshold. Tier-3 corroborated this
-    /loop session: (a) collect-review no-backoff monopoly -- 13 consecutive collect-gemini-review
-    entries, stuck-at-launch Gemini DR mark_abandoned at ~2h to unblock combine (collect-review-no-backoff-monopolizes);
-    (b) check-tenets fork sub-delegation stall + 3/4 scan subagents died on transient
-    server-side rate-limit, orchestrator retried + synthesized clean (567 articles,
-    0 violations); (c) outer-review 3-way pipeline ran end-to-end, combined 2/3, 2
-    findings P2->P1, apex framework-coherence fixes executed; (d) ~7 web-verified
-    citation defects caught + 1 fork false-fix reverted (Berut page-range). Report
-    reviews/system-tune-2026-06-25.'
+  note: '0 Tier-1 changes (7th consecutive OVER-FREQUENCY fire; last genuine run 2026-06-26,
+    only 11d ago, inside 30d monthly cadence; every-6-cycles trigger outpaces cadence;
+    no in-file Tier-1 surface -- cadences/overdue_thresholds/replenishment weights live
+    in code, not state yaml). HEALTHY: 0 critical, 0 orphaned, 0/20 recent_tasks failed,
+    10 medium / 3 low, queue at floor P2=3/P3=19 (documented replenish-at-floor steady
+    state). This /loop session: revived research->expand pipeline end-to-end (harvest ->
+    3 research-topic mints -> 2 notes -> new integrated concepts/four-category-ontology.md);
+    3 genuine citation-metadata fixes on older-cohort/drifted articles (aphantasia Zeman2010
+    Brain->Neuropsychologia; neural-correlates COGITATE first-authorship; apex consciousness-and-agency
+    fresh cites verified); clean coalesce (perceptual-degradation concept subset). Tier-3
+    (7th, unchanged): move tune-system off the every-6-cycles trigger onto a 30d wall-clock
+    gate (as done for check-model-fallback + harvest-research-subjects). Report reviews/system-tune-2026-07-06.'
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
