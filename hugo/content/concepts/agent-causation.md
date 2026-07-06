@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-09 18:00:47+00:00
+ai_modified: 2026-07-06 11:03:24+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -83,7 +83,7 @@ This matters for [mental causation](/concepts/mental-causation-and-downward-caus
 
 ### Lowe's Framework
 
-Lowe's *Personal Agency* (2008) locates causation primarily at the substance level. Substances have *powers* (capacities to produce effects) and *liabilities* (susceptibilities to be affected). Free agents are "unmoved movers, or initiators of new causal chains": volitions have no *event-cause* but do have an *agent-cause*, so "uncaused" means uncaused by events, not uncaused simpliciter.
+Lowe's *Personal Agency* (2008) locates causation primarily at the substance level. Substances have *powers* (capacities to produce effects) and *liabilities* (susceptibilities to be affected). Free agents are "unmoved movers, or initiators of new causal chains": volitions have no *event-cause* but do have an *agent-cause*, so "uncaused" means uncaused by events, not uncaused simpliciter. The Map's [philosophy of action under dualism](/topics/philosophy-of-action-under-dualism/) applies this Lowe framework directly to action theory, casting the agent's basic act as a *volition* (a trying) that biases quantum outcome-selection—the point at which the disappearing-agent objection to the event-causal "standard story" pushes toward the agent-causal base.
 
 ### Why This Matters for Consciousness
 

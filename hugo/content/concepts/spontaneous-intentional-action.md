@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-07-06 11:27:12+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Actions that are genuinely intentional yet arise without prior deli
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 00:00:00+00:00
+last_deep_review: 2026-07-06 11:27:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-06-03 00:50:22+00:00
+ai_modified: 2026-07-06 11:44:29+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: How the Map's strictest reading of Tenet 2 dissolves Kim's overdete
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 00:50:22+00:00
+last_deep_review: 2026-07-06 11:44:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,6 +126,7 @@ The Map's broader strategy in [the epiphenomenalist threat](/topics/the-epipheno
 - [selection-only-mind-influence](/topics/selection-only-mind-influence/) — Information-theoretic limits and empirical signature corridor of the strict reading
 - [selection-only-channel](/concepts/selection-only-channel/) — Channel-theoretic specification of the per-event, Born-preservation, and content-confinement constraints
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — Where the slogan "consciousness influences outcomes where physics is silent" originates
+- [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) — Selection-only interactionism applied to the theory of action: the trying selects, it does not shove
 - [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) — Kim's exclusion argument and the broader response landscape
 - [delegatory-dualism](/topics/delegatory-dualism/) — The trumping/preemption alternative response to overdetermination
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — How delegation and selection-only fit together as structure and mechanism

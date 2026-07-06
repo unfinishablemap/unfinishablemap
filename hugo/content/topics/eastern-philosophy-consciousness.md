@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-06-20 13:19:23+00:00
+ai_modified: 2026-07-06 11:23:32+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -54,6 +54,7 @@ related_articles:
 - '[[cessation-versus-plenitude]]'
 - '[[affective-tone-divergence-across-meditative-traditions]]'
 - '[[void-as-ground-of-meaning]]'
+- '[[indigenous-australian-philosophy-of-consciousness]]'
 title: Eastern Philosophy and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -207,6 +208,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — How cultural frameworks shape the felt experience of willing and acting
 - [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/) — Relational and communal approaches to consciousness from African traditions
 - [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/) — From Avicenna's Flying Man to Sufi phenomenology of fana
+- [indigenous-australian-philosophy-of-consciousness](/topics/indigenous-australian-philosophy-of-consciousness/) — The located, relational self and the Dreaming: a non-dualist, panpsychist-leaning tradition that refuses reductive physicalism from outside the East-Asian and Indian frames
 - [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/) — Samkhya's radical separation of consciousness, mind, and matter
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The philosophical case for consciousness as causally efficacious
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels

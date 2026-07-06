@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-06-21 06:31:40+00:00
+ai_modified: 2026-07-06 11:03:24+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -210,6 +210,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 ## Further Reading
 
 - [agent-causation](/concepts/agent-causation/) — Why the Map's framework is agent-causal, including substance causation
+- [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) — The causal theory of action, volitionism, and why the Map selects a volitionist agent-causal hybrid
 - [control-theoretic-will](/concepts/control-theoretic-will/) — Consciousness as low-bandwidth controller of neural dynamics
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — Authored action without deliberation
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages genuine agency versus running on scripts

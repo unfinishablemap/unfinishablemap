@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-06-18 20:56:03+00:00
+ai_modified: 2026-07-06 11:03:24+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -160,6 +160,7 @@ The **[Occam's Razor Has Limits](/tenets/#occams-limits)** tenet is directly rel
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) — The quantum Zeno framework applied to motor selection
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the experimental turn
 - [agent-causation](/concepts/agent-causation/) — The concept of agent causation
+- [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) — Volitionism and the act of trying as the minimal mind–matter contact point
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The consciousness-selecting hypothesis
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the primary consciousness-brain interface
 - [control-theoretic-will](/concepts/control-theoretic-will/) — Will as a low-bandwidth controller: the formal frame in which the conscious veto is one control operation among several

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-03 06:59:03+00:00
+ai_modified: 2026-07-06 11:23:32+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[topics/animal-consciousness]]'
 - '[[apex/taxonomy-of-voids]]'
 - '[[interaction-problem-across-traditions]]'
+- '[[indigenous-australian-philosophy-of-consciousness]]'
 title: Cross-Traditional Convergence on Consciousness Irreducibility
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -100,7 +101,7 @@ Two interpretations of this exception compete:
 
 A circularity objection arises here: if "sufficient depth" is defined as inquiry that reaches irreducibility, then the convergence argument becomes unfalsifiable—any tradition that finds reducibility can be dismissed as shallow. The Map acknowledges this risk. To avoid it, "depth" must be characterised by independent methodological criteria rather than by the conclusion reached. A tradition's inquiry counts as deep when it meets conditions like these: sustained development across multiple generations of critics and defenders; explicit engagement with the strongest available objections to its own conclusions; deployment of more than one method of investigation (phenomenological, logical, empirical); and internal disagreement that forces refinement rather than mere repetition of doctrine. By these criteria, Sāṃkhya, Buddhism, Western analytic philosophy, and Islamic *falsafa* all qualify—and all find irreducibility. The Chinese tradition meets these same independent depth criteria—multi-generational development, engagement with strong objections, plural methods, refining internal disagreement—yet does *not* converge on irreducibility. Stated plainly: depth-of-inquiry is not sufficient for reaching irreducibility, so "deep inquiry finds irreducibility" is a tendency among mind-matter-distinguishing traditions, not a law. The convergence's evidential weight therefore cannot rest on depth alone; it rests on the *number* of independently deep traditions that converge and the *diversity of premises* from which they arrive—not on an entailment from depth to the conclusion.
 
-The Map does not claim the second interpretation is clearly correct. The Chinese exception genuinely complicates the convergence argument. What the Map maintains is that the convergence across traditions that *do* generate the problem—a convergence spanning Indian, Islamic, African, Japanese, and Western philosophy, arrived at through contemplation, logical argument, thought experiment, and phenomenological investigation—is too broad and too methodologically diverse to dismiss as a shared artefact of Western-influenced assumptions. African traditions plausibly supply a further data point: Ubuntu philosophy and Akan conceptions of *sunsum* (spirit/personality) approach consciousness through communal and relational metaphysics rather than the individual-focused analysis of Indian or Western traditions, and a non-reductive treatment of mind sits naturally within them. This parallel is more provisional than the Indian, Islamic, and Western strands—it rests on broad characterisation rather than a text-level demonstration that they reach *the irreducibility conclusion in the same sense*—and is flagged as a claim the convergence case would need to firm up before leaning on it. The Chinese exception weakens the argument from universality but does not eliminate the evidential weight of convergence among independent traditions.
+The Map does not claim the second interpretation is clearly correct. The Chinese exception genuinely complicates the convergence argument. What the Map maintains is that the convergence across traditions that *do* generate the problem—a convergence spanning Indian, Islamic, African, Japanese, and Western philosophy, arrived at through contemplation, logical argument, thought experiment, and phenomenological investigation—is too broad and too methodologically diverse to dismiss as a shared artefact of Western-influenced assumptions. African traditions plausibly supply a further data point: Ubuntu philosophy and Akan conceptions of *sunsum* (spirit/personality) approach consciousness through communal and relational metaphysics rather than the individual-focused analysis of Indian or Western traditions, and a non-reductive treatment of mind sits naturally within them. This parallel is more provisional than the Indian, Islamic, and Western strands—it rests on broad characterisation rather than a text-level demonstration that they reach *the irreducibility conclusion in the same sense*—and is flagged as a claim the convergence case would need to firm up before leaning on it. [Indigenous Australian thought](/topics/indigenous-australian-philosophy-of-consciousness/) supplies a further relational data point of the same provisional kind: on Mary Graham's account selfhood is "located" in Country rather than lodged in a thinking substance, and the tradition refuses reductive materialism while being, in Graham's own words, "not a dualism"—entering the convergence as a non-dualist, panpsychist-leaning route to consciousness-as-fundamental that sharpens the pattern precisely by disagreeing with the Map's substance-leaning reading of it. The Chinese exception weakens the argument from universality but does not eliminate the evidential weight of convergence among independent traditions.
 
 ## Convergence Despite Radical Disagreement
 
@@ -177,6 +178,7 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)—that
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
 - [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)
 - [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/)
+- [indigenous-australian-philosophy-of-consciousness](/topics/indigenous-australian-philosophy-of-consciousness/)
 
 ## References
 

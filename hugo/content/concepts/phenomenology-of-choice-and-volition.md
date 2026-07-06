@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-06-01 13:20:00+00:00
+ai_modified: 2026-07-06 12:30:55+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ description: 'The experiential arc from deliberation through decision to volitio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 13:20:00+00:00
+last_deep_review: 2026-07-06 12:30:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ topics:
 - '[[consciousness-and-causal-powers]]'
 ---
 
-Choosing feels like something. Willing feels like something. And the two feel different. When you deliberate between options and settle on one, there is a distinctive qualitative character — a phenomenology of decision that differs markedly from passively observing events unfold. When you then execute that decision — raising your arm, directing attention, suppressing an impulse — a further phenomenology of volitional control unfolds, with its own structure of initiation, sustained effort, and active inhibition. The Unfinishable Map treats this full arc, from deliberation through decision to execution, as evidence that consciousness is a genuine selector and controller rather than an epiphenomenal spectator. See [free will](/topics/free-will/) for the Map's agent-causal position that this phenomenology supports.
+Choosing feels like something. Willing feels like something. And the two feel different. When you deliberate between options and settle on one, there is a distinctive qualitative character — a phenomenology of decision that differs markedly from passively observing events unfold. When you then execute that decision — raising your arm, directing attention, suppressing an impulse — a further phenomenology of volitional control unfolds, with its own structure of initiation, sustained effort, and active inhibition. The Unfinishable Map treats this full arc, from deliberation through decision to execution, as evidence that consciousness is a genuine selector and controller rather than an epiphenomenal spectator. See [free will](/topics/free-will/) for the Map's agent-causal position that this phenomenology supports, and [philosophy of action under dualism](/topics/philosophy-of-action-under-dualism/) for how volitionism casts this willing—the act of *trying*—as the mind's minimal causal contact with matter.
 
 ## Deliberation: Options as Felt Possibilities
 

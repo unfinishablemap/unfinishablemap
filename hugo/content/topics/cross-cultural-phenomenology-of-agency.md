@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-03 01:40:01+00:00
+ai_modified: 2026-07-06 11:23:32+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[cross-cultural-convergence-on-mental-causation]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[consciousness-and-intersubjectivity]]'
+- '[[indigenous-australian-philosophy-of-consciousness]]'
 title: Cross-Cultural Phenomenology of Agency
 topics:
 - '[[topics/free-will]]'
@@ -118,6 +119,7 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 - [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — How the intersubjective gap complicates and strengthens cross-cultural phenomenological comparison
+- [indigenous-australian-philosophy-of-consciousness](/topics/indigenous-australian-philosophy-of-consciousness/) — The located, relational self: agency distributed across Country and kin rather than lodged in an individual willing subject
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how cross-cultural invariants join effort, selection, and holding in a unified phenomenological profile
 
 ## References

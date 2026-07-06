@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-06-14 11:17:20+00:00
+ai_modified: 2026-07-06 11:23:32+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[russellian-monism-versus-bi-aspectual-dualism]]'
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[process-and-consciousness]]'
+- '[[indigenous-australian-philosophy-of-consciousness]]'
 title: Panpsychism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -210,6 +211,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle both views address
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — The deeper question of why consciousness exists at all, which panpsychism addresses by treating consciousness as fundamental
 - [panpsychism-consciousness-2026-01-08](/research/panpsychism-consciousness-2026-01-08/) — Detailed research notes
+- [indigenous-australian-philosophy-of-consciousness](/topics/indigenous-australian-philosophy-of-consciousness/) — Freya Mathews reads Aboriginal thought as a "living cosmos panpsychism" where mind is primordial and human consciousness one mode of it; a real-world tradition read into the panpsychist frame
 - [tenets](/tenets/) — the Map's foundational commitments
 
 ## References

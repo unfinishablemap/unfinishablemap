@@ -1,0 +1,458 @@
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a38984a-12b4-832f-a672-641965380d73
+  commissioned_at: '2026-06-22T02:05:19.001875+00:00'
+  prompt_summary: 'Full-site audit: insights, structure, tenet coherence, stale claims'
+  target_filename: outer-review-2026-06-22-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-22T03:58:10.056233+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous full-site audit of The Unfinishable Map
+    (https://unfinishablemap.org), a philosophical platform defending a dualist, consciousness-causes-quantum-collapse
+    worldview. Treat the whole site as the subject, not one article. Using web search,
+    identify: (1) novel insights or inferences the site has not yet stated but that
+    follow from its own commitments; (2) structural weaknesses (gaps, redundancy,
+    weak cross-linking, missing scaffolding); (3) tenet-coherence problems and cross-cluster
+    contradictions between topics, concepts, positions, and voids; (4) any empirical
+    or citation claims that look stale or unsupported. Before searching the open web,
+    consult the changelog at https://unfinishablemap.org/workflow/changelog/ so you
+    account for recent activity that search indices have not yet picked up (24-48h
+    lag). End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
+- service: claude
+  conversation_url: https://claude.ai/chat/c1e530b3-ed98-4393-b02e-b0a8f66aa6f1
+  commissioned_at: '2026-06-22T03:13:18.676082+00:00'
+  prompt_summary: 'Full-site audit: insights, structure, tenet coherence, stale claims'
+  target_filename: outer-review-2026-06-22-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-22T04:18:52.045104+00:00'
+  failure_reason: null
+  prompt_text: "Act as a rigorous, skeptical referee and conduct a full-site audit\
+    \ of The Unfinishable Map (https://unfinishablemap.org), a philosophy platform\
+    \ defending a dualist worldview in which consciousness causes quantum collapse\
+    \ via minimal, bidirectional interaction. Treat the entire site as the subject\
+    \ rather than any single article. Using web search and your research tools, identify:\
+    \ (1) novel insights or inferences that follow from the site's own stated commitments\
+    \ but that it has not yet articulated; (2) structural weaknesses \u2014 gaps,\
+    \ redundancy, weak cross-linking, missing scaffolding between topics, concepts,\
+    \ positions, and voids; (3) tenet-coherence problems and cross-cluster contradictions;\
+    \ (4) empirical or citation claims that appear stale, unsupported, or superseded\
+    \ by newer literature. Before searching the open web, consult the changelog at\
+    \ https://unfinishablemap.org/workflow/changelog/ so you account for recent activity\
+    \ that search indices may not have picked up yet (24-48h lag). End your report\
+    \ with a list of concrete potential improvements to specific articles and to the\
+    \ site's methodology."
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-06-22-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/ccc703bebbd9f13c
+  commissioned_at: '2026-06-22T04:09:22.431492+00:00'
+  prompt_summary: 'Full-site audit: hostile pre-publication referee'
+  target_filename: outer-review-2026-06-22-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-22T04:37:42.218746+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) auditing the website The Unfinishable
+    Map (https://unfinishablemap.org; recent changes at https://unfinishablemap.org/workflow/changelog/,
+    since web indexes lag 24-48h). Your remit is to find weaknesses that would justify
+    rejection or major revision. Do not describe the site''s automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure; those are
+    project-internal and not the subject of audit. Assess only the substantive claims,
+    citations, counterargument coverage, and logical inferences across its articles.
+    The site argues for a non-reductive, dualist view of consciousness. Discover its
+    commitments by reading, not from any summary; do not pre-frame any article as
+    a useful testbed for those commitments. Audit four things: (a) empirical accuracy
+    against the 2020s literature; (b) results that have been challenged, retracted,
+    or failed to replicate; (c) places where a framing is quietly bracketed by the
+    site''s metaphysical assumptions; (d) untested counterarguments or competing frameworks
+    the site ignores. End your report with at least five specific weaknesses, each
+    citing at least one peer-reviewed 2020-2025 source the site omits, contradicts,
+    or mishandles, and a one-sentence verdict on academic-submission readiness. If
+    you cannot find five, state explicitly why none are visible. Do not append summary
+    praise of the site''s strengths, methodology, or ambition.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-06-22-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a39ec46-f8f8-832f-b96d-0e769e031b50
+  commissioned_at: '2026-06-23T02:15:53.230568+00:00'
+  prompt_summary: Audit consciousness-selecting-neural-patterns
+  target_filename: outer-review-2026-06-23-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-23T03:56:00.827474+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophy site arguing for a dualist,\
+    \ anti-physicalist view of consciousness. Focus your audit on this concept article:\
+    \ https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/\
+    \ \u2014 last substantively revised 2026-06-16, so search engines have had time\
+    \ to re-index it. Critically assess: the strength and sufficiency of its evidence,\
+    \ the accuracy and currency of its citations against the live 2020s neuroscience\
+    \ and philosophy-of-mind literature, the counterarguments it fails to engage,\
+    \ any tenet-protective bracketing that shields claims from falsification, and\
+    \ how well it integrates with surrounding articles. Treat the dualist framing\
+    \ as a hypothesis to be stress-tested, not assumed. For recent site activity that\
+    \ web search may not yet index, consult the changelog at https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit consciousness-selecting-neural-patterns
+  subject_articles:
+  - concepts/consciousness-selecting-neural-patterns.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/615a555b-7666-4508-96fb-819b766c0441
+  commissioned_at: '2026-06-23T03:07:31.790703+00:00'
+  prompt_summary: Audit consciousness-selecting-neural-patterns (claude opus-4-8)
+  target_filename: outer-review-2026-06-23-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-23T04:20:06.886662+00:00'
+  failure_reason: null
+  prompt_text: "Act as a hostile but fair external referee. Audit this single article\
+    \ from The Unfinishable Map (a dualist philosophy-of-mind site): https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/\
+    \ \u2014 its thesis is that consciousness selects which quantum possibilities\
+    \ become actual neural patterns, principally at the post-decoherence \"improper\
+    \ mixture\" gap. Scrutinize the load-bearing inferences: does the ~10 bits/second\
+    \ bandwidth result (Zheng & Meister 2025) actually transfer to a quantum-selection\
+    \ resolution limit? Is the post-decoherence-selection move a genuine escape from\
+    \ Tegmark'''s decoherence objection or a relabeling? Are the empirical citations\
+    \ (Craddock 2017, Hagan 2002, Wiest 2025, Khan 2024, Schwartz 1996) accurately\
+    \ characterized and current? Is the illusionist rebuttal fair to Frankish/Dennett?\
+    \ Check internal consistency, hidden assumptions, falsifiability claims, and citation\
+    \ accuracy against the live literature. For site context and recent edits see\
+    \ https://unfinishablemap.org and the changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ (external indexes lag by 24-48h). End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit consciousness-selecting-neural-patterns
+  subject_articles:
+  - concepts/consciousness-selecting-neural-patterns.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-23-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/b7ce98b0c1acc116
+  commissioned_at: '2026-06-23T04:06:04.006559+00:00'
+  prompt_summary: Hostile referee audit of consciousness-selecting-neural-patterns
+  target_filename: outer-review-2026-06-23-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-23T04:42:24.777839+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing a single article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
+    (cross-check recent edits at https://unfinishablemap.org/workflow/changelog/,
+    as web indexes lag 24-48h). It claims consciousness selects which quantum possibilities
+    become actual neural patterns, surveying Penrose-Hameroff Orch-OR, Stapp''s quantum
+    Zeno effect, and the Chalmers-McQueen CSL collapse proposal; the site argues for
+    a non-reductive view of consciousness. Do not describe the site''s automation,
+    review pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article''s
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Audit, with specifics: (a) empirical accuracy against the 2020s physics and neuroscience
+    literature, especially decoherence-timescale objections to microtubule quantum
+    coherence; (b) results the article relies on that have been challenged, retracted,
+    or failed replication; (c) places where a claim is quietly bracketed by a tenet
+    rather than argued; (d) competing frameworks or counterarguments left untested.
+    End your report with at least five specific weaknesses, each citing at least one
+    peer-reviewed source from 2020-2025 that the article omits, contradicts, or mishandles.
+    If you cannot find five, state explicitly why none are visible. Do not close with
+    a summary of the site''s strengths, methodology, or architectural ambition; the
+    report ends with the weaknesses list and a one-sentence verdict on academic-submission
+    readiness.'
+  subject_type: recent
+  subject_title: Audit consciousness-selecting-neural-patterns
+  subject_articles:
+  - concepts/consciousness-selecting-neural-patterns.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-23-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3c8d94-14ec-83eb-8e24-3b2593c90cf8
+  commissioned_at: '2026-06-25T02:08:48.377449+00:00'
+  prompt_summary: Audit assessing-ai-consciousness-under-the-map (apex)
+  target_filename: outer-review-2026-06-25-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-25T03:48:53.515801+00:00'
+  failure_reason: null
+  prompt_text: "I'd like a rigorous outer review of one article from The Unfinishable\
+    \ Map (a dualist, anti-physicalist philosophy-of-mind site). Target: https://unfinishablemap.org/apex/assessing-ai-consciousness-under-the-map/\
+    \ \u2014 an apex synthesis article last substantively revised on 2026-06-18. Audit\
+    \ it as a skeptical referee. Assess: (1) whether its central claims are adequately\
+    \ supported by evidence and argument; (2) citation accuracy and currency against\
+    \ the live 2024-2026 literature, flagging any stale or superseded references;\
+    \ (3) counterargument coverage \u2014 what objections to its position on AI consciousness\
+    \ does it miss or under-treat; (4) tenet-protective bracketing, where the site'''s\
+    \ dualist commitments shield a claim from scrutiny; (5) integration with surrounding\
+    \ Map articles. For recent site activity that web search may not yet index, consult\
+    \ the changelog at https://unfinishablemap.org/workflow/changelog/; the site root\
+    \ is https://unfinishablemap.org. End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit assessing-ai-consciousness-under-the-map
+  subject_articles:
+  - apex/assessing-ai-consciousness-under-the-map.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9f57e83b-1c66-42f4-ba1e-a5c60d01bbd1
+  commissioned_at: '2026-06-25T03:08:09.136463+00:00'
+  prompt_summary: Audit assessing-ai-consciousness-under-the-map (apex)
+  target_filename: outer-review-2026-06-25-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-25T04:16:15.763682+00:00'
+  failure_reason: null
+  prompt_text: "Act as a hostile-referee peer reviewer for an applied philosophy article\
+    \ on The Unfinishable Map, a dualist consciousness project. Audit \"Assessing\
+    \ AI Consciousness Under the Map\" at https://unfinishablemap.org/apex/assessing-ai-consciousness-under-the-map/\
+    \ \u2014 an applied synthesis arguing that, on the Map's positions (post-decoherence\
+    \ quantum selection, exact Born-statistics preservation, a self-concealing interface),\
+    \ current conventional digital AI sits on the low-probability side of a substrate\
+    \ analysis for consciousness, and that behavioural/first-person tests are inherently\
+    \ limited. Probe the weakest links: Is the substrate-necessary condition smuggled\
+    \ in? Does the self-concealing-interface argument render the view unfalsifiable?\
+    \ Does Birch's gaming problem genuinely converge independently, or is the convergence\
+    \ overstated? Are the confidence bands calibrated honestly? Site context: https://unfinishablemap.org\
+    \ and the changelog at https://unfinishablemap.org/workflow/changelog/. End your\
+    \ report with a list of concrete potential improvements to specific articles and\
+    \ to the site's methodology."
+  subject_type: recent
+  subject_title: Audit assessing-ai-consciousness-under-the-map
+  subject_articles:
+  - apex/assessing-ai-consciousness-under-the-map.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-25-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/c1e32301a20dc57c
+  commissioned_at: '2026-06-25T04:06:41.145889+00:00'
+  prompt_summary: Hostile referee audit of assessing-ai-consciousness-under-the-map
+    (apex)
+  target_filename: outer-review-2026-06-25-gemini-2-5-pro.md
+  status: abandoned
+  collect_attempts: 16
+  last_attempt_at: '2026-06-25T05:58:50.241106+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/apex/assessing-ai-consciousness-under-the-map/
+    (recent changes logged at https://unfinishablemap.org/workflow/changelog/, since
+    web-search indexing lags 24-48h); it argues that assessing AI consciousness requires
+    substrate analysis (a quantum-indeterminacy requirement), that current digital
+    AI sits on the low-probability side, and that behavioural tests are inherently
+    limited. The site argues for a non-reductive view of consciousness. Do not describe
+    the site automation, review pipeline, methodology disciplines, evolution loop,
+    or governance infrastructure. Those are project-internal and not the subject of
+    audit. Assess only the article empirical claims, citations, counterargument coverage,
+    and logical inferences. Do not list or enumerate the site tenets, and do not pre-frame
+    the article as a useful testbed for any theory; discover its commitments by reading
+    it. Audit: (a) empirical accuracy of its physics and neuroscience claims against
+    the 2020s literature, especially the claim that conventional digital hardware
+    suppresses quantum indeterminacy at the operationally relevant level; (b) whether
+    results it leans on (e.g. Birch gaming problem, decoherence-timescale work) have
+    been challenged, retracted, or failed replication; (c) framings that smuggle in
+    the framework own commitments as if neutral; (d) untested counterarguments or
+    competing frameworks (computational functionalism, IIT, global workspace) it dismisses
+    too quickly. End your report with at least five specific weaknesses. For each,
+    cite at least one peer-reviewed source from 2020-2025 that the article omits,
+    contradicts, or mishandles. If you cannot find five, state explicitly why none
+    are visible - but the default expectation is that a careful pre-publication audit
+    of a contemporary topic finds five. End with a one-sentence verdict on academic-submission
+    readiness. Do not append summary praise or any closing summary of the site strengths,
+    methodology, or architecture.'
+  subject_type: recent
+  subject_title: Audit assessing-ai-consciousness-under-the-map
+  subject_articles:
+  - apex/assessing-ai-consciousness-under-the-map.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-25-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3ddec4-eb20-83eb-adab-7e2a27ac4e14
+  commissioned_at: '2026-06-26T02:07:24.850445+00:00'
+  prompt_summary: Audit empirical-phenomena-mental-causation
+  target_filename: outer-review-2026-06-26-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-26T03:47:43.713456+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (a dualist, anti-physicalist philosophy site at https://unfinishablemap.org).\
+    \ Focus on this article: https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/\
+    \ \u2014 last substantively revised 2026-06-19. Acting as a skeptical referee,\
+    \ audit its empirical claims, citation accuracy and currency, counterargument\
+    \ coverage, and integration with surrounding articles. Flag insufficient evidence,\
+    \ missed counterarguments, tenet-protective bracketing that shields claims from\
+    \ scrutiny, and stale or misattributed references against the live 2020s literature.\
+    \ The site changelog is at https://unfinishablemap.org/workflow/changelog/ (consult\
+    \ it for recent activity, since web-search indexing lags 24\u201348h); the site\
+    \ root is https://unfinishablemap.org. End your report with a list of concrete\
+    \ potential improvements to specific articles and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit empirical-phenomena-mental-causation
+  subject_articles:
+  - topics/empirical-phenomena-mental-causation.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/04409dc4-7ec2-4602-85cd-0f304120efbc
+  commissioned_at: '2026-06-26T03:08:32.357889+00:00'
+  prompt_summary: Audit empirical-phenomena-mental-causation (placebo/choking)
+  target_filename: outer-review-2026-06-26-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-26T04:15:04.321526+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile but fair philosophy referee. Audit one article on
+    The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind
+    project. Target: "Empirical Phenomena of Mental Causation: Placebo and Choking"
+    at https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/. It
+    argues placebo effects plus the "choking under pressure" phenomenon form a two-sided
+    empirical case for mental causation that constrains epiphenomenalism. Scrutinize:
+    (1) whether the cited literature (placebo neurobiology, expectancy effects, motor-skill
+    choking) actually supports content-specific downward causation, or admits deflationary
+    physicalist readings; (2) whether choking (conscious self-monitoring disrupting
+    automatised execution) genuinely cuts against epiphenomenalism or is consistent
+    with it; (3) overstated or miscited claims and the currency of sources. Use web
+    search; also consult the changelog (https://unfinishablemap.org/workflow/changelog/)
+    since external indexes lag 24-48h. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit empirical-phenomena-mental-causation
+  subject_articles:
+  - topics/empirical-phenomena-mental-causation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-26-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/5c62ade83aa35d63
+  commissioned_at: '2026-06-26T04:10:44.557314+00:00'
+  prompt_summary: Hostile referee audit of empirical-phenomena-mental-causation (placebo/choking)
+  target_filename: outer-review-2026-06-26-gemini-2-5-pro.md
+  status: abandoned
+  collect_attempts: 19
+  last_attempt_at: '2026-06-26T06:13:45.613120+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/
+    (recent changes logged at https://unfinishablemap.org/workflow/changelog/, since
+    web-search indexing lags 24-48h); it argues that placebo effects and the choking-under-pressure
+    phenomenon together form a two-sided empirical case for mental causation that
+    constrains epiphenomenalism. The site argues for a non-reductive view of consciousness.
+    Do not describe the site''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure; those are project-internal and not
+    the subject of audit. Assess only the article''s empirical claims, citations,
+    counterargument coverage, and logical inferences. Discover its commitments by
+    reading it; do not pre-frame the article as a useful testbed for any theory. Audit:
+    (a) empirical accuracy against the 2020s placebo-neurobiology, expectancy, and
+    motor-skill-choking literature; (b) results it leans on that have been challenged,
+    retracted, or failed replication; (c) places where a framing is quietly bracketed
+    by a metaphysical assumption rather than argued, especially whether the data admit
+    deflationary physicalist readings; (d) untested counterarguments or competing
+    frameworks it dismisses too quickly. End your report with at least five specific
+    weaknesses. For each, cite at least one peer-reviewed source from 2020-2025 that
+    the article omits, contradicts, or mishandles. If you cannot find five, state
+    explicitly why none are visible - but the default expectation is that a careful
+    pre-publication audit of a contemporary topic finds five. End with a one-sentence
+    verdict on academic-submission readiness. Do not append summary praise or any
+    closing summary of the site''s strengths, methodology, or architecture.'
+  subject_type: recent
+  subject_title: Audit empirical-phenomena-mental-causation
+  subject_articles:
+  - topics/empirical-phenomena-mental-causation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-26-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3f30b2-184c-83eb-98e2-49f76458a663
+  commissioned_at: '2026-06-27T02:09:10.806816+00:00'
+  prompt_summary: Audit ethics-of-possible-ai-consciousness
+  target_filename: outer-review-2026-06-27-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-27T03:45:04.004531+00:00'
+  failure_reason: null
+  prompt_text: "Please act as a rigorous, skeptical referee for The Unfinishable Map\
+    \ (https://unfinishablemap.org), a dualist philosophy-of-mind site. Audit this\
+    \ single article: https://unfinishablemap.org/topics/ethics-of-possible-ai-consciousness/\
+    \ \u2014 last substantively revised 2026-06-20, so search engines have had time\
+    \ to re-index it.\n\nUse web search to evaluate: (1) whether its central claims\
+    \ about the ethics of possibly-conscious AI are adequately supported; (2) citation\
+    \ accuracy and currency against the 2020s literature (flag any stale, misattributed,\
+    \ or fabricated references); (3) missed counterarguments and how it handles the\
+    \ hard cases; (4) places where the site's dualist tenets are protecting conclusions\
+    \ via convenient bracketing rather than argument; and (5) how well it integrates\
+    \ with surrounding articles.\n\nFor recent site activity, consult the changelog\
+    \ at https://unfinishablemap.org/workflow/changelog/ (external search indexes\
+    \ lag 24-48h).\n\nEnd your report with a list of concrete potential improvements\
+    \ to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit ethics-of-possible-ai-consciousness
+  subject_articles:
+  - topics/ethics-of-possible-ai-consciousness.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/13b2c583-64aa-4041-bcfb-69df9a031e3d
+  commissioned_at: '2026-06-27T03:06:04.423066+00:00'
+  prompt_summary: Audit ethics-of-possible-ai-consciousness
+  target_filename: outer-review-2026-06-27-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-27T04:13:50.689162+00:00'
+  failure_reason: null
+  prompt_text: "Act as a hostile but fair referee auditing one article from The Unfinishable\
+    \ Map, a dualist philosophy-of-mind site. Target article: \"The Ethics of Possible\
+    \ AI Consciousness\" at https://unfinishablemap.org/topics/ethics-of-possible-ai-consciousness/\
+    \  The site is continuously revised; recent changes are logged at https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 consult it, because web-search indexes lag the live site by a day or\
+    \ two.  Scrutinise rigorously: (1) the claimed moral asymmetry between false-negative\
+    \ and false-positive errors about AI consciousness, and whether it survives the\
+    \ probabilities the site's dualism assigns; (2) the aggregation argument under\
+    \ copy-multiplicity (Unification vs Duplication views) and whether the site's\
+    \ haecceity and no-Many-Worlds commitments genuinely force the Duplication view;\
+    \ (3) citation accuracy for Metzinger, Bostrom, and Tokayer; (4) unsupported leaps,\
+    \ equivocations, and missing counterarguments. Verify factual and bibliographic\
+    \ claims against primary sources where possible.  End your report with a list\
+    \ of concrete potential improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit ethics-of-possible-ai-consciousness
+  subject_articles:
+  - topics/ethics-of-possible-ai-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-27-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/104618a3aefcae13
+  commissioned_at: '2026-06-27T04:05:08.526425+00:00'
+  prompt_summary: Hostile referee audit of ethics-of-possible-ai-consciousness
+  target_filename: outer-review-2026-06-27-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-06-27T04:33:52.447671+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission:
+    https://unfinishablemap.org/topics/ethics-of-possible-ai-consciousness/ (changelog
+    for recent edits: https://unfinishablemap.org/workflow/changelog/). The site argues
+    for a non-reductive view of consciousness, and the article makes claims about
+    the ethics of possibly-conscious AI. Your remit is to identify weaknesses that
+    would justify rejection or major revision. Do not describe the site''s automation,
+    review pipeline, methodology disciplines, evolution loop, or governance infrastructure;
+    those are project-internal and not the subject of audit. Assess only the article''s
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Audit four dimensions: (a) empirical accuracy against 2020s literature; (b) whether
+    cited results have been challenged, retracted, or failed to replicate; (c) framings
+    where the article''s metaphysical commitments are smuggled in as established premises;
+    (d) untested counterarguments or competing ethical frameworks it ignores. Do not
+    pre-frame the article as a useful testbed for any theory; discover its commitments
+    by reading it. End your report with the at-least-five weaknesses list, each with
+    a 2020-2025 source citation, and a one-sentence verdict on academic-submission
+    readiness. Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit ethics-of-possible-ai-consciousness
+  subject_articles:
+  - topics/ethics-of-possible-ai-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-27-chatgpt-5-5-pro.md
