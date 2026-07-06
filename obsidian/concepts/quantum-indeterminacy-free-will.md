@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-06-02T20:57:43+00:00
+last_deep_review: 2026-07-06T16:00:21+00:00
 ---
 
 Quantum mechanics provides the only genuine indeterminacy in fundamental physics—and this creates logical space for libertarian free will that determinism forecloses. The relationship is contested: critics argue that quantum randomness yields "random will" rather than "free will," no better than determinism. This page systematizes how quantum indeterminacy supports free will when combined with consciousness as selector, addressing the [[luck-objection|luck objection]] through [[agent-causation|agent-causal]] metaphysics within the Map's dualist framework.
