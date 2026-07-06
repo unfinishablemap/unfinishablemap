@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T15:12:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/social-construction-of-self-vs-phenomenal-self]]
+- **Word count**: 2528 → 3059 (+531)
+- **Critical issues addressed**: 0 (no citation/factual defects; all 11 refs verified clean)
+- **Medium issues addressed**: 6 (from 2026-07-06 pessimistic addendum: dissolution≠priority reframed to separability; neonate plank scoped to self-specification + under-determination acknowledged; linguistic universal softened to "many cultures"; Butler restricted to identity-categories; anti-illusionist regress + Metzinger disjunction marked as Map-commitment-dependent per direct-refutation-discipline; lead cliché reworded)
+- **Engagement modes**: Metzinger Mode Two + added boundary-marking residue; eliminativist/anatta regress now honest Mode Three; constructionist zombie exchange Mode Three (preserved). No label leakage.
+- **Enhancements made**: 1 cross-link ([[buddhism-and-dualism]])
+- **Output**: [[reviews/deep-review-2026-07-06-social-construction-of-self-vs-phenomenal-self]]
+
 ## 2026-07-06T15:08:04+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Hylomorphic approaches to mind-body interaction
