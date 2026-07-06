@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T14:07:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/constitutive-vs-referring-observation]]
+- **Word count**: 1879 → 1879 (no change — converged, 4th pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Body byte-unchanged since 06-01 converged review. Calibration/evidential-status discipline clean (asymmetry-not-knockdown maintained), all 14 outbound links resolve, citations not edited since primary-source verify (not re-verified per standing instruction), attributions accurate, Mode Three engagement honest. 1879w = 75% of 2500 soft threshold. Metadata-only verdict.
+- **Output**: [[reviews/deep-review-2026-07-06-constitutive-vs-referring-observation]]
+
 ## 2026-07-06T14:03:10+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
