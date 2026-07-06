@@ -4,8 +4,8 @@ description: "The brain curates what consciousness receives across vision, body,
 created: 2026-03-24
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-06-01T17:36:00+00:00
-last_deep_review: 2026-06-01T17:36:00+00:00
+ai_modified: 2026-07-06T10:48:52+00:00
+last_deep_review: 2026-07-06T10:48:52+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
