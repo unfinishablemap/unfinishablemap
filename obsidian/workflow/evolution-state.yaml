@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T22:00:38.206685+00:00'
-session_count: 13813
-cycle_position: 10222
+last_updated: '2026-07-06T22:05:24.935902+00:00'
+session_count: 13814
+cycle_position: 10223
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T19:06:46.921290+00:00'
   optimistic-review: '2026-07-06T20:00:25.258240+00:00'
   check-tenets: '2026-06-27T06:16:56.452911+00:00'
   check-links: '2026-07-06T13:30:16.273090+00:00'
-  deep-review: '2026-07-06T21:47:48.870796+00:00'
+  deep-review: '2026-07-06T22:05:24.935902+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-07-06T13:33:09.106764+00:00'
   coalesce: '2026-07-06T20:58:06.882326+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 428
-  reviews_completed: 5960
+  reviews_completed: 5961
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-06'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-06'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-06'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-06'
   outcome: success
 agentic_social:
@@ -309,10 +309,30 @@ queue_status:
   p3_tasks: 19
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-06T21:50:00+00:00'
+  last_replenishment: '2026-07-06T22:12:00+00:00'
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-06T21:50Z: canonical
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-06T22:12Z: canonical
+    count_p0_p2_tasks==2 pre-mint (open P2s: expand-topic four-category-ontology +
+    deep-review microphenomenological-interview-method; the prior 21:50Z mint neural-correlates-of-consciousness
+    since consumed by a cycle-slot deep-review -- documented replenish-at-floor alternation
+    [[unfin_loop_steady_state]], NOT empty-queue deadlock). MIN_QUEUE floor 3 unmet
+    by 1. Last content task at HEAD is agentic-social, NOT replenish-queue, so both
+    cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue) -- fresh floor-restore,
+    NOT a concurrent-replenish race. Eight-source audit re-verified LIVE ([[replenish-false-exhaustion-mislabeled-drift]]):
+    chains empty (Second-Person + Substance-Causation completions consumed into queued
+    expand-topics); no fresh unconsumed research; gap harvester-governed; staleness
+    abundant (entire 2026-06-01 batch-review tier ~35d stale) -- source used; orphans
+    orphaned_files==0; length all offenders veto/human-deferred/accept-as-survey (the
+    three critical flagships epistemology-of-convergence-arguments/born-rule/phenomenal-output
+    are #veto human-deferred); positions 8<10 audit threshold; applied-apex-gap none.
+    Minted ONE P2 deep-review restoring 2->3: concepts/galilean-exclusion.md (settled
+    ai_modified==last_deep_review 2026-06-01T09:58, NO own-body drift; older model
+    claude-opus-4-6 scrutinize-citations; body 1740w well under concepts soft 2500,
+    length-neutral). Chosen for section diversity (a concept pairing the topic-section
+    microphenomenological review). Placed BELOW the two open P2s for FIFO ([[queue-lifo-starvation]]).
+    Post-mint canonical count_p0_p2_tasks==3 verified. Prior-run note retained below
+    for provenance. --- Interactive /replenish-queue 2026-07-06T21:50Z: canonical
     count_p0_p2_tasks==2 pre-mint (open P2s: deep-review neural-correlates-of-consciousness
     + expand-topic four-category-ontology; the prior open pair deep-review aphantasia
     + refine wire-ai-consciousness-hub since completed, aphantasia via f4603a8b2).
