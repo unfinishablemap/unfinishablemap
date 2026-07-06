@@ -4,7 +4,7 @@ description: "How interactionist dualism reshapes the theory of action: a human-
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-06T09:30:40+00:00
+ai_modified: 2026-07-06T09:43:18+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -21,6 +21,7 @@ ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-06
+last_deep_review: 2026-07-06T09:43:18+00:00
 last_curated:
 ---
 
@@ -50,7 +51,7 @@ Adopting the skeleton, though, means inheriting its two standing difficulties.
 
 Suppose a climber wants to rid himself of the weight and danger of holding another man on a rope, and believes that loosening his grip would do it. This desire and belief so unnerve him that his hands loosen involuntarily, and the man falls. The right mental states caused the right movement—yet the climber did not *intentionally* let go. The cause ran through the *wrong route*: it worked by unnerving him rather than by his acting on it.
 
-Deviant causal chains are the causal theory's most persistent internal problem. "Caused by the right mental states" is not sufficient for action; the causation must also proceed *in the right way*. Decades of work has tried to specify what "the right way" comes to—appeals to the *sensitivity* of the movement to fine variations in the intention's content, to the *reliability* of the pathway, and (in more recent work) to reconceiving the intention as a *formal* rather than efficient cause. Brain–computer interfaces have made the problem concrete again: when an intention drives a prosthesis through an engineered signal path, which paths count as non-deviant is a live question rather than an armchair puzzle. No proposed repair commands consensus.
+Deviant causal chains are the causal theory's most persistent internal problem. "Caused by the right mental states" is not sufficient for action; the causation must also proceed *in the right way*. Decades of work has tried to specify what "the right way" comes to—appeals to the *sensitivity* of the movement to fine variations in the intention's content, to the *reliability* of the pathway, to reconceiving the intention as a *formal* rather than efficient cause, and (most recently) to analysing non-deviance through the *manifestation of the agent's dispositions* (Ward 2024). Brain–computer interfaces have made the problem concrete again: when an intention drives a prosthesis through an engineered signal path, which paths count as non-deviant is a live question rather than an armchair puzzle. No proposed repair commands consensus.
 
 ### The Disappearing Agent {#disappearing}
 
@@ -109,7 +110,7 @@ A tension worth stating plainly: agent causation invites the parsimony objection
 
 ## References
 
-1. Anscombe, G. E. M. (1957). *Intention*. Harvard University Press.
+1. Anscombe, G. E. M. (1957). *Intention*. Basil Blackwell.
 2. Chisholm, R. (1964). Human Freedom and the Self. *The Lindley Lecture*. University of Kansas.
 3. Davidson, D. (1963). Actions, Reasons, and Causes. *The Journal of Philosophy*, 60(23), 685–700.
 4. Hornsby, J. (1980). *Actions*. Routledge & Kegan Paul.
@@ -117,6 +118,6 @@ A tension worth stating plainly: agent causation invites the parsimony objection
 6. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 7. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
 8. Pereboom, D. (2014). The disappearing agent objection to event-causal libertarianism. *Philosophical Studies*, 169(1), 59–69.
-9. Ward, B. (2024). An attempt at a general solution to the problem of deviant causal chains. *Philosophy and Phenomenological Research*, 108(3).
+9. Ward, S. (2024). An attempt at a general solution to the problem of deviant causal chains. *Philosophy and Phenomenological Research*, 108(2), 374–395.
 10. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/
 11. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/

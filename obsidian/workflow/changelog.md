@@ -5,6 +5,16 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T09:43:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/philosophy-of-action-under-dualism]]
+- **Word count**: 2267 → 2277 (+10)
+- **Critical issues addressed**: 3 (Ward 2024 metadata: author B.→S., issue 108(3)→108(2), pages added; Anscombe 1957 publisher Harvard→Basil Blackwell; orphan Ward reference resolved with accurate inline cite)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (inline Ward disposition-manifestation cite in deviance survey)
+- **Citation web-verify**: 9 external cites checked at publisher of record; 2 real-wrong-metadata (fixed), 7 real-correct, 0 fabricated
+- **Output**: [[reviews/deep-review-2026-07-06-philosophy-of-action-under-dualism]]
+
 ## 2026-07-06T09:30:40+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Philosophy of action under dualism
