@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T20:17:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/philosophy-of-science-under-dualism]]
+- **Word count**: 2064 → 2064 (no change — converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review; converged no-op after REAL scrutiny (NO-OP HYGIENE: bumped last_deep_review only, ai_modified left at 2026-06-01). Todo note flagged claude-opus-4-6 origin cohort → non-assumed citation re-scrutiny. Web-verified the two detail-bearing cites at publisher of record: Fodor 1974 Synthese 28(2):97-115 (Springer DOI 10.1007/BF00485230) real-correct; Oppenheim & Putnam 1958 Minnesota Studies vol 2 pp.3-36 eds Feigl/Scriven/Maxwell real-correct. Other 4 canonical monographs unchanged since 2026-06-01 verify. No superlatives (currency sweep empty). All 13 wikilinks + 5 section anchors resolve live. Evidential-status discipline intact (compatibility not upgraded to support; Tenet-5 calibration held). No label leakage. Engagements: methodological-naturalism=Mode Two; Lakatosian=Mixed→Mode Three.
+- **Output**: [[reviews/deep-review-2026-07-06-philosophy-of-science-under-dualism]]
+- **Published**: yes
+
 ## 2026-07-06T20:01:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/curated-mind]]
