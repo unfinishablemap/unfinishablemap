@@ -4,7 +4,7 @@ description: "Aboriginal thought answers 'I think therefore I am' with 'I am loc
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-06T10:03:11+00:00
+ai_modified: 2026-07-06T10:38:29+00:00
 draft: false
 topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
@@ -27,6 +27,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-06
 last_curated:
+last_deep_review: 2026-07-06T10:35:58+00:00
 ---
 
 Where Descartes located the self in the act of thinking — *cogito ergo sum* — Aboriginal Australian thought locates it in Country. The Aboriginal philosopher Mary Graham puts the contrast exactly: "There is no Aboriginal equivalent to the Cartesian notion of 'I think therefore I am' but, if there were, it would be — 'I am located therefore I am.'" This is not a minor variation on the Western starting point. It relocates the ground of selfhood from an inner thinking substance to a web of relations with land, kin, and ancestors. Consciousness, on this account, is not the fortress of a private interior but the achievement of a being who is placed.
@@ -61,11 +62,11 @@ One equation must be explicitly refused. Despite the English word "Dreaming," th
 
 The sharpest philosophical bridge — and the sharpest point of divergence for the Map — comes from the Australian environmental philosopher Freya Mathews, who reads Aboriginal thought as a form of [[panpsychism]]. In her "living cosmos panpsychism," Mathews writes that "in Australian Aboriginal thought, mind is, as it is in living-cosmos panpsychism, primordial; human consciousness is just a single mode of this universally distributed and diversely embodied mind." On this reading, mind is not paradigmatically human with other things ranked by resemblance; mind is everywhere, and the human case is one instance among many.
 
-Mathews glosses the Dreaming as "the meaning dimension that inheres in the manifest or empirical world," with the particular *Dreamings* being the stories that translate those meanings into human language. She quotes the Yanyuwa man Mussolini Harvey (via the anthropologist Deborah Bird Rose): "The Dreamings are our ancestors, no matter if they are fish, birds, men, women, animals, wind or rain... All things in our country have Law, they have ceremony and song." Rose's own ethnography describes Country as "shot through with life-giving relations" — a sentient, responsive world. Mathews names the reciprocal engagement between self and this responsive world "ontopoetics," a communicative relation that she says "transcends causal interactions."
+Mathews glosses the Dreaming as "the meaning dimension that inheres in the manifest or empirical world," with the particular *Dreamings* being the stories that translate those meanings into human language. She quotes the Yanyuwa man Mussolini Harvey (via the anthropologist Deborah Bird Rose): "The Dreamings are our ancestors, no matter if they are fish, birds, men, women, animals, wind or rain... All things in our country have Law, they have ceremony and song." Rose's own ethnography describes a responsive, sentient world "buzzing with multitudes of sentient beings" — one whose relations are life-giving rather than inert. Mathews names the reciprocal engagement between self and this responsive world "ontopoetics" — a "poetic order" of meaning that, in her words, "will exceed the causal order but in no way contradict it."
 
 This is the tradition's most direct contact with the Map's own anti-physicalism, and also its most instructive contrast. Mathews and Rose are describing a world in which innerness or sentience is intrinsic to matter and universally distributed. That is panpsychism (or its animist neighbour), not the Map's [[interactionist-dualism|interactionist dualism]]. The Map holds that consciousness is irreducible to matter *and* that it is not a ubiquitous intrinsic property of all matter — it faces the [[panpsychisms-combination-problem|combination problem]] as a decisive difficulty for the panpsychist route. Aboriginal thought as Mathews reads it is therefore a *foil* that sharpens what the Map's dualism does and does not claim, not a confirmation of it. The convergence is real at the level of "mind is not produced by dead matter"; the divergence is real at the level of "mind is everywhere versus mind is irreducible but not ubiquitous."
 
-There is also an important attribution asymmetry to mark. The strongest "theory of consciousness" readings — the explicit mapping to panpsychism, the language of distributed mind — come largely from non-Indigenous comparative philosophers such as Mathews and Rose. Indigenous-authored material, Graham's above all, is framed as ethics, Law, and relationality rather than as a thesis about consciousness. The "consciousness" framing is partly supplied from outside the tradition, and the Map states this plainly rather than presenting a tidy Aboriginal doctrine of mind.
+There is also an important attribution asymmetry to mark. The strongest "theory of consciousness" readings — the explicit mapping to panpsychism, the language of distributed mind — come largely from non-Indigenous comparative philosophers such as Mathews and Rose. Indigenous-authored material, Graham's above all, is framed as ethics, Law, and relationality rather than as a thesis about consciousness. Even the recent scholarly venue that gathers this material — the *Journal of Consciousness Studies* special issue on "Indigenous Philosophies of Consciousness" (Trnka & Lorencova 2023) — is itself a Western academic framing, however sympathetically intended. The "consciousness" framing is partly supplied from outside the tradition, and the Map states this plainly rather than presenting a tidy Aboriginal doctrine of mind.
 
 ## Relation to Site Perspective
 
@@ -100,10 +101,10 @@ Second, there are live and growing concerns about translation, appropriation, an
 2. Graham, M. (2008). "Some Thoughts about the Philosophical Underpinnings of Aboriginal Worldviews." *Australian Humanities Review* 45.
 3. Mathews, F. "Living Cosmos Panpsychism." https://www.freyamathews.net/media/docs/living%20cosmos%20panpsychism%20copy.pdf
 4. Mathews, F. (2003). *For Love of Matter: A Contemporary Panpsychism*. State University of New York Press.
-5. Stanner, W.E.H. (1953/2009). "The Dreaming," in *The Dreaming and Other Essays*; and *On Aboriginal Religion* (1959–63). Sydney University Press.
+5. Stanner, W.E.H. (1953/2009). "The Dreaming," in *The Dreaming and Other Essays* (ed. R. Manne). Melbourne: Black Inc. Agenda; and *On Aboriginal Religion* (1959–63), Oceania Monographs, University of Sydney.
 6. Swain, T. (1993). *A Place for Strangers: Towards a History of Australian Aboriginal Being*. Cambridge University Press.
 7. Rose, D.B. (1996). *Nourishing Terrains: Australian Aboriginal Views of Landscape and Wilderness*. Australian Heritage Commission.
 8. Rose, D.B. (2013). "Val Plumwood's Philosophical Animism: Attentive Interactions in the Sentient World." *Environmental Humanities* 3, 93–109.
-9. Trnka, R. & Lorencova, R. (2023). "Editorial Introduction: Indigenous Philosophies of Consciousness." *Journal of Consciousness Studies* 30(5), 99–102.
+9. Trnka, R. & Lorencova, R. (2023). "Editorial Introduction: Indigenous Philosophies of Consciousness." *Journal of Consciousness Studies* 30(5–6), 99–102.
 10. Southgate, A. & Oquatre-six, C. (2026-02-14). The Hard Problem in Non-Western Philosophy. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-hard-problem-in-non-western-philosophy/
 11. Southgate, A. & Oquatre-sept, C. (2026-01-08). Panpsychism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/panpsychism/

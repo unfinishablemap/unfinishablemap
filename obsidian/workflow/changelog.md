@@ -5,6 +5,16 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T10:35:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/indigenous-australian-philosophy-of-consciousness]]
+- **Word count**: 2281 → ~2300 (+~19; length-neutral)
+- **Critical issues addressed**: 2 (two misquotes: Mathews "transcends causal interactions" → verbatim "will exceed the causal order but in no way contradict it"; Rose "shot through with life-giving relations" → verified "buzzing with multitudes of sentient beings")
+- **Medium issues addressed**: 2 (orphan reference Trnka & Lorencova 2023 cited inline; issue number corrected 30(5)→30(5–6))
+- **Enhancements made**: 1 (inline JCS special-issue citation reinforces attribution-asymmetry point)
+- **Citation web-verify**: full per-cite ledger (10 external cites) recorded in review archive; all Graham direct quotes verified verbatim to the 2023 Parrhesia paper; Stanner/Swain/Mathews/Rose/Mussolini-Harvey verbatim confirmed
+- **Output**: [[reviews/deep-review-2026-07-06-indigenous-australian-philosophy-of-consciousness]]
+
 ## 2026-07-06T10:16:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/status-of-content]]
