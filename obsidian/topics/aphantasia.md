@@ -4,8 +4,8 @@ description: "Human+AI exploration of aphantasia—the absence of voluntary ment
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-06-02T16:33:40+00:00
-last_deep_review: 2026-06-02T16:33:40+00:00
+ai_modified: 2026-07-06T21:42:21+00:00
+last_deep_review: 2026-07-06T21:42:21+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -65,7 +65,7 @@ At the opposite end of the spectrum, hyperphantasics describe imagery "as vivid 
 
 **The Würzburg School (c. 1900–1915).** Külpe, Marbe, Bühler, Ach, and Watt used "systematic experimental introspection" on rapid categorisation tasks and found that subjects could name a fruit—say, "apple"—swiftly without reporting any imagistic content. They posited *imageless thought* as a real category and gave it taxonomic structure (*Bewußtseinslagen*, *Bewußtheiten*, *Gedanken*). Wundt called the studies "sham experiments." The controversy helped end introspection as a respectable scientific method and ushered in behaviourism, which simply took the question off the table. The Würzburg observation was effectively forgotten for nearly a century.
 
-**Zeman's "MX" (2010) and the rediscovery.** A 2010 case report described a 65-year-old man, "MX," who lost his lifelong vivid imagery after coronary angioplasty while retaining semantic knowledge, dreams, and most cognitive function ([Zeman et al. 2010](https://academic.oup.com/brain/article/133/8/2230/305830)). The case prompted a 2015 paper coining the term *aphantasia* for the congenital variant. By 2020, follow-up surveys were yielding population estimates around 1% extreme-aphantasic and 3% extreme-hyperphantasic. By 2024, the Zeman group's *Trends in Cognitive Sciences* review summarised behavioural, physiological, and neural-imaging signatures across the spectrum.
+**Zeman's "MX" (2010) and the rediscovery.** A 2010 case report described a 65-year-old man, "MX," who lost his lifelong vivid imagery after coronary angioplasty while retaining semantic knowledge, dreams, and most cognitive function ([Zeman et al. 2010](https://www.sciencedirect.com/science/article/abs/pii/S0028393209003418)). The case prompted a 2015 paper coining the term *aphantasia* for the congenital variant. By 2020, follow-up surveys were yielding population estimates around 1% extreme-aphantasic and 3% extreme-hyperphantasic. By 2024, the Zeman group's *Trends in Cognitive Sciences* review summarised behavioural, physiological, and neural-imaging signatures across the spectrum.
 
 The Würzburg-aphantasia recurrence is itself worth noting: the same observation surfaced twice across a century, under different vocabularies and methods, and survived being declared methodologically unsound the first time. The territory keeps producing this shape.
 
@@ -131,7 +131,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 ## References
 
 1. Galton, F. (1880). Statistics of Mental Imagery. *Mind*, 5(19), 301–318. https://psychclassics.yorku.ca/Galton/imagery.htm
-2. Zeman, A. Z., Della Sala, S., Torrens, L. A., Gountouna, V.-E., McGonigle, D. J., & Logie, R. H. (2010). Loss of imagery phenomenology with intact visuo-spatial task performance: A case of "blind imagination." *Brain*, 133(8), 2230–2242. https://academic.oup.com/brain/article/133/8/2230/305830
+2. Zeman, A. Z., Della Sala, S., Torrens, L. A., Gountouna, V.-E., McGonigle, D. J., & Logie, R. H. (2010). Loss of imagery phenomenology with intact visuo-spatial task performance: A case of "blind imagination." *Neuropsychologia*, 48(1), 145–155. https://www.sciencedirect.com/science/article/abs/pii/S0028393209003418
 3. Zeman, A., Dewar, M., & Della Sala, S. (2015). Lives without imagery — Congenital aphantasia. *Cortex*, 73, 378–380. https://www.sciencedirect.com/science/article/abs/pii/S0010945215000106
 4. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
 5. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618

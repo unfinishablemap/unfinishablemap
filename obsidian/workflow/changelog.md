@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T21:42:21+00:00 - deep-review
+- **Status**: Success (real fix — wrong-venue citation corrected)
+- **File**: [[topics/aphantasia]]
+- **Word count**: 2460 → 2460 (±0, length-neutral)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-06-aphantasia]]
+- **Notes**: Older-cohort (opus-4-7) mandated full-tail publisher-of-record web-verify despite 34d-settled diff. Caught real-wrong-metadata: Zeman et al. 2010 "blind imagination" MX paper cited as *Brain* 133(8):2230–2242 (URL 404s) but is actually *Neuropsychologia* 48(1):145–155 (PubMed 19733188; Elsevier S0028393209003418). Title+authors correct; fixed venue/vol/pages/URL in body inline link AND reference #2. Survived the 2026-05-08 create and 2026-06-02 sweep because neither web-verified this cite — intra-corpus consistency ratified the wrong venue. Remaining 12 cites all real-correct (Galton 1880, Zeman 2015 Cortex 73:378–380, Zeman 2024 TiCS 28(5):467–480, Kay 2024 C&C 121:103694, Wicken 2021 Proc R Soc B 288(1946):20210267, Dawes 2020 Sci Rep 10:10022, Dance 2022 C&C 97:103243, Larner 2024 NBR 164:105819, Lennon 2023, Nanay/Scholz 2025 M&L 40(3), Schwitzgebel 2008 Phil Rev 117(2):245–273). Currency sweep clean; no stale internal-quote channel; all cross-links resolve live ([[mental-imagery]]→live coalesced slug, not archive); no evidential-status slippage (Tenet-1 calibration intact — aphantasia consistent-with, not evidence-for the interface reading). Bumped both ai_modified and last_deep_review.
+
 ## 2026-07-06T21:32:32+00:00 - deep-review
 - **Status**: Success (content-verification pass — post-06-26 apex-evolve content verified)
 - **File**: [[apex/consciousness-and-agency]]

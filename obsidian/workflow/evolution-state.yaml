@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T21:34:11.971245+00:00'
-session_count: 13809
+last_updated: '2026-07-06T21:41:36.205487+00:00'
+session_count: 13810
 cycle_position: 10221
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
   refine-draft: '2026-07-06T20:36:00.395846+00:00'
   research-topic: '2026-07-06T21:25:33.361658+00:00'
-  replenish-queue: '2026-07-06T20:47:02.371808+00:00'
+  replenish-queue: '2026-07-06T21:41:36.205487+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-06T15:50:52.202240+00:00'
   add-highlight: '2026-07-06T08:54:39.429699+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-06'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-06'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-06'
   outcome: success
 agentic_social:
@@ -324,19 +324,18 @@ queue_status:
     Minted ONE P2 expand-topic restoring 2->3: concepts/four-category-ontology.md
     (slug collision-free; NOT slug substance-causation which is archived + 301->agent-causation,
     [[check-slug-misses-archive-redirect-collisions]]). concepts 271/320 headroom;
-    placed BELOW the two open staleness P2s for FIFO ([[queue-lifo-starvation]]). Other
-    sources: gap harvester-governed; staleness abundant but already represented by
-    the two P2s (added source+section diversity instead); orphans orphaned_files==0;
+    placed BELOW the two open staleness P2s for FIFO ([[queue-lifo-starvation]]).
+    Other sources: gap harvester-governed; staleness abundant but already represented
+    by the two P2s (added source+section diversity instead); orphans orphaned_files==0;
     length all offenders veto/human-deferred/accept-as-survey; positions 8<10 audit
     threshold; applied-apex-gap none. Post-mint canonical count_p0_p2_tasks==3 verified.
     Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-06T20:14Z: canonical
-    count_p0_p2_tasks==2 pre-mint (open P2s: deep-review philosophy-of-science-under-dualism
-    + refine-draft wire-ai-consciousness-hub; three #veto condense P2s parser-excluded);
-    git HEAD == 3ada362ed auto(agentic-social), last task != replenish-queue so cycle_pick
-    gate holds (p0_p2<3 AND last_task!=replenish-queue). Prior replenish d9c24cfef
-    (19:54) fully committed with optimistic-review+refine-draft+agentic-social run
-    since -- fresh floor-restore, NOT a concurrent-replenish race, NOT empty-queue
+    2026-07-06T20:14Z: canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review
+    philosophy-of-science-under-dualism + refine-draft wire-ai-consciousness-hub;
+    three #veto condense P2s parser-excluded); git HEAD == 3ada362ed auto(agentic-social),
+    last task != replenish-queue so cycle_pick gate holds (p0_p2<3 AND last_task!=replenish-queue).
+    Prior replenish d9c24cfef (19:54) fully committed with optimistic-review+refine-draft+agentic-social
+    run since -- fresh floor-restore, NOT a concurrent-replenish race, NOT empty-queue
     deadlock; documented replenish-at-floor alternation ([[unfin_loop_steady_state]]).
     Full eight-source audit re-confirmed NO genuine new mint source except staleness:
     chain (recent_tasks zero research/expand/cross-review completions); unconsumed-research
