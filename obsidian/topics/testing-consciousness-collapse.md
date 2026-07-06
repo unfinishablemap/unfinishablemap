@@ -42,7 +42,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-06-05T23:55:35+00:00
+last_deep_review: 2026-07-06T23:31:56+00:00
 coalesced_from:
   - "/topics/consciousness-collapse-experimental-landscape/"
   - "/topics/experimental-design-for-consciousness-collapse-testing/"

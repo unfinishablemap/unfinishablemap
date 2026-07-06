@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T23:31:56+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Word count**: 3770 → 3770 (no change; soft_warning, below hard 4000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify (§2.4)**: older-cohort (claude-opus-4-6), 9th pass. Independently web-verified the 6 highest-fabrication-risk cites at publisher of record (NOT inherited): Pedalino et al. 2026 *Nature* 649:866–870 (DOI 10.1038/s41586-025-09917-9) — real-correct; Horchani 2025 arXiv:2512.02838 — real-correct; Carlesso & Donadi 2025 arXiv:2508.18822 — real-correct; Neven et al. 2024 *Entropy* 26(6):460 — real-correct; Albantakis et al. 2023 IIT-4.0 *PLOS Comput Biol* 19(10):e1011465 — real-correct; Chalmers & McQueen 2021 arXiv:2105.02314 — real-correct. Older spot-checks: Fein 2019 *Nat Phys* 15:1242 (real-correct, S. Pedalino co-author = 2026-record lead), Frauchiger-Renner 2018 *Nat Commun* 9:3711 (real-correct), Schlosshauer 2004 *RMP* 76 (canonical), Jahn-Dunne 2005 PEAR (cautionary framing appropriate). Zero fabricated/wrong-metadata cites.
+- **Currency sweep**: Pedalino 2026 megadalton record still standing (May 2026 press = same Vienna work); 10⁹–10¹¹ amu CSL gap preserved. No superseded superlatives.
+- **Other checks**: calibration/evidential-status clean (no possibility→probability slippage); reasoning-mode CLEAN (Tegmark Mode-One→in-framework, Deutsch-Wallace Mode-One; no label leakage); EOF-artifact scan clean; cross-links + `the-reverse-inference#the-empirical-horizon` retarget all resolve; no "not X. It is Y." cliché.
+- **Frontmatter**: last_deep_review bumped only (2026-06-05 → 2026-07-06); ai_modified unchanged (no-op).
+- **Output**: [[reviews/deep-review-2026-07-06-testing-consciousness-collapse]]
+
 ## 2026-07-06T23:20:50+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny)
 - **File**: [[concepts/galilean-exclusion]]
