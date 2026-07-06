@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T15:08:04+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Hylomorphic approaches to mind-body interaction
+- **Output**: [[research/hylomorphic-mind-body-interaction-2026-07-06]]
+- **Sources consulted**: 15
+
 ## 2026-07-06T15:03:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/marginal-organism-scope-of-value-sensitive-selection]]
