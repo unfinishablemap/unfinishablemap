@@ -4,7 +4,7 @@ description: "The sleep-wake transition reveals consciousness-brain coupling as 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-06-05T13:50:38+00:00
+ai_modified: 2026-07-06T13:23:12.056384+00:00
 last_deep_review: 2026-06-05T13:50:38+00:00
 draft: false
 topics:
@@ -34,11 +34,22 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
+embedded_videos:
+  - id: jPduDASCekI
+    url: https://www.youtube-nocookie.com/embed/jPduDASCekI
+    embedded: 2026-07-06T13:23:12.056384+00:00
+    source: notebooklm/0087-01-hypnagogic-phenomenology-and-interface-modulation
 ---
 
 The hypnagogic state—the transition from waking to sleep—reveals something that binary comparisons between consciousness and unconsciousness obscure: the consciousness-brain interface does not switch off. It disassembles. Voluntary attention weakens before imagery becomes autonomous. Reality-monitoring disengages before agency dissolves. The sense of self loosens before phenomenal experience fades. Each component of the interface appears to follow its own trajectory, and the order in which they disengage maps the architecture of consciousness-brain coupling more precisely than any other naturally occurring state.
 
 The Unfinishable Map's [[filter-theory|filter model]] interprets this graded dissolution as evidence that the brain constrains consciousness through multiple semi-independent channels. Hypnagogia is what happens when those channels close sequentially rather than simultaneously—unlike anaesthesia, which disrupts the interface chemically, or waking, where all channels operate together. The result is a phenomenological dissection of the interface itself, performed nightly by every sleeping human.
+
+<details class="yt-embed" data-video-id="jPduDASCekI">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/jPduDASCekI">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Phenomenology of Falling Asleep
 

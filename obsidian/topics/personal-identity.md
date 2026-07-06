@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-19T02:25:00+00:00
+ai_modified: 2026-07-06T13:23:12.056384+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,11 +40,22 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-06T00:00:00+00:00
+embedded_videos:
+  - id: Qj-SX6HmanM
+    url: https://www.youtube-nocookie.com/embed/Qj-SX6HmanM
+    embedded: 2026-07-06T13:23:12.056384+00:00
+    source: notebooklm/0084-01-personal-identity
 ---
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the [[infant-consciousness|infant you once were]] and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
 
 The Unfinishable Map gives a distinctive answer. The [[tenets#^no-many-worlds|No Many Worlds]] tenet's emphasis on indexical identity—that *this* conscious being matters, not just the pattern it instantiates—commits the Map to a view where personal identity is real and significant, not reducible to psychological or biological continuity.
+
+<details class="yt-embed" data-video-id="Qj-SX6HmanM">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Qj-SX6HmanM">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Standard Positions
 

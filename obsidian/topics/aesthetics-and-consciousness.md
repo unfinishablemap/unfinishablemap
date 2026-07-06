@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-23T03:20:00+00:00
+ai_modified: 2026-07-06T13:23:12.056384+00:00
 draft: false
 last_deep_review: 2026-06-23T03:20:00+00:00
 topics:
@@ -70,11 +70,22 @@ coalesced_from:
   - "/topics/aesthetic-irreducibility-arguments/"
   - "/topics/consciousness-and-aesthetic-creation/"
   - "/topics/binding-and-beauty/"
+embedded_videos:
+  - id: QeMrWdiIZ3I
+    url: https://www.youtube-nocookie.com/embed/QeMrWdiIZ3I
+    embedded: 2026-07-06T13:23:12.056384+00:00
+    source: notebooklm/0083-01-aesthetics-and-consciousness
 ---
 
 Beauty exists only for a subject. A sunset over an empty planet has wavelengths and atmospheric scattering but no beauty. Beauty arrives only when a conscious experiencer encounters these arrangements and something in the encounter carries evaluative charge. The Unfinishable Map argues that the aesthetic dimension of consciousness provides underappreciated evidence for [[tenets#^dualism|dualism]]—not through a single argument but through five converging lines that reinforce each other: aesthetic experience bundles every problematic feature of consciousness into a single phenomenon; beauty appears across physically unrelated substrates; formal precision sharpens rather than closes the explanatory gap; aesthetic binding exceeds ordinary perceptual unity; and the act of making art reveals consciousness causally shaping the physical world.
 
 Each of these arguments independently troubles physicalism. Their convergence in a single domain makes the trouble compounding rather than merely additive, making aesthetics the strongest single test case for the irreducibility of consciousness.
+
+<details class="yt-embed" data-video-id="QeMrWdiIZ3I">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/QeMrWdiIZ3I">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Pervasiveness of Aesthetic Quality
 

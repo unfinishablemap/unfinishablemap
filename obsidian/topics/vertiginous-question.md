@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-06-21T11:01:28.892543+00:00
+ai_modified: 2026-07-06T13:23:12.056384+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,11 +43,22 @@ last_curated:
 last_deep_review: 2026-06-13T16:31:14+00:00
 coalesced_from:
   - "/voids/indexical-void/"
+embedded_videos:
+  - id: fE9-J4pcIJc
+    url: https://www.youtube-nocookie.com/embed/fE9-J4pcIJc
+    embedded: 2026-07-06T13:23:12.056384+00:00
+    source: notebooklm/0073-01-vertiginous-question
 ---
 
 Why, of all the conscious beings that exist, am *I* this one? Benj Hellie named this "the vertiginous question" — vertiginous because attending to it induces a dizzying sense that something fundamental about existence resists explanation. The Unfinishable Map treats the same question under a second name: the *indexical void*, the cognitive boundary where first-person identity confronts its own inexplicability. The question appears meaningful, triggers characteristic philosophical vertigo, and defeats every available method of answer — not merely because we lack the answer, but because we cannot determine what kind of answer would satisfy the question.
 
 This problem holds a distinctive position in the Map's framework. The [[tenets#^no-many-worlds|No Many Worlds]] tenet explicitly cites the indexical problem as part of its rationale for rejecting many-worlds interpretations. The vertiginous question is thus a void whose reality the Map's foundational commitments take seriously — a void that partly *motivates* the tenets rather than merely following from them.
+
+<details class="yt-embed" data-video-id="fE9-J4pcIJc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/fE9-J4pcIJc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Question Stated
 

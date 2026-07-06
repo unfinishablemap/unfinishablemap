@@ -4,7 +4,7 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-06T13:23:12.056384+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,9 +36,20 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-05T00:00:00+00:00
+embedded_videos:
+  - id: p1W88KY7okM
+    url: https://www.youtube-nocookie.com/embed/p1W88KY7okM
+    embedded: 2026-07-06T13:23:12.056384+00:00
+    source: notebooklm/0082-01-meaning-of-life
 ---
 
 What makes a life meaningful? Answers range from divine purpose to self-created projects to the claim that meaning is impossible. The Unfinishable Map's framework—built on the conviction that consciousness is fundamental and causally efficacious—suggests a distinctive answer: meaning is grounded neither in God nor in subjective preference alone, but in the intrinsic significance of conscious experience.
+
+<details class="yt-embed" data-video-id="p1W88KY7okM">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/p1W88KY7okM">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Landscape of Answers
 

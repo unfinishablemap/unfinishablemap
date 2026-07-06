@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-05T21:38:33+00:00
+ai_modified: 2026-07-06T13:23:12.056384+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,9 +46,20 @@ coalesced_from:
   - "/topics/emotion-as-evidence-for-dualism/"
   - "/topics/philosophy-of-emotion-under-dualism/"
   - "/topics/void-of-self-knowledge-in-emotion/"
+embedded_videos:
+  - id: QTHO8WgPnUc
+    url: https://www.youtube-nocookie.com/embed/QTHO8WgPnUc
+    embedded: 2026-07-06T13:23:12.056384+00:00
+    source: notebooklm/0080-01-emotion-and-dualism
 ---
 
 Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia is the strongest evidence that these properties do genuine causal work: remove the felt quality and motivation collapses, even when all functional machinery remains intact. Emotion therefore offers the Map's strongest case that phenomenal properties are not only irreducible but *causally indispensable*—unifying two conclusions that standard arguments for dualism reach only separately. The Unfinishable Map treats this convergence of irreducibility and causal efficacy as the empirical backbone of its dualist framework.
+
+<details class="yt-embed" data-video-id="QTHO8WgPnUc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/QTHO8WgPnUc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Valence: The Irreducible Felt Quality
 
