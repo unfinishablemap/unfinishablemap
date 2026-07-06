@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T13:39:13.124748+00:00'
-session_count: 13728
-cycle_position: 10176
+last_updated: '2026-07-06T13:46:22.252440+00:00'
+session_count: 13729
+cycle_position: 10177
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T10:02:22.388816+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-27T02:10:03.357675+00:00'
   commission-claude-review: '2026-06-27T03:06:48.793479+00:00'
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
-  refine-draft: '2026-07-06T12:05:35.940511+00:00'
+  refine-draft: '2026-07-06T13:46:22.252440+00:00'
   research-topic: '2026-07-06T09:10:15.107115+00:00'
   replenish-queue: '2026-07-06T13:17:58.541759+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-07-06'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-06'
@@ -178,6 +174,10 @@ recent_tasks:
   type: apex-evolve
   date: '2026-07-06'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-06'
+  outcome: success
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/evolutionary-case-for-quantum-neural-effects/
@@ -238,13 +238,13 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 4
   p3_tasks: 18
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-06T13:16:20+00:00'
+  loop_pickable_open: 4
+  last_replenishment: '2026-07-06T13:50:54+00:00'
   replenishment_source_counts:
-    staleness: 1
+    staleness: 2
   run_727_pickable_p0_p2: 3
   run_726_pickable_p0_p2: 3
   run_725_pickable_p0_p2: 3
