@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T17:18:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/manyism]]
+- **Word count**: 1621 → 1621 (no prose edits; timestamp bump only)
+- **Critical issues addressed**: 0 (second pass; converged. Prior 06-17 review declared "Remaining Items: None")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — new content since last review (06-19 MMI-distinction paragraph + two cross-links to open-individualism-and-the-de-combination-problem) verified clean: MMI characterization (continuum of minds, squared-amplitude distribution, single unbranching world, indexical objection scope) consistent with the Map's own topics/many-minds-interpretation.md; both new wikilinks resolve; no calibration slippage; "does bite against MMI" is scope-of-objection, not boundary-substitution
+- **Citation web-verify**: skipped-by-rule (References block unmodified since 06-17 full per-cite ledger; new paragraph introduces no new citations; find_superlative_claims returned none)
+- **Reasoning-mode (§2.6)**: Roelofs engagement Mixed (Mode Two intelligibility-burden + Mode Three boundary-marking), unchanged; new MMI-theorist boundary disagreement also honestly marked. No label leakage.
+- **Output**: [[reviews/deep-review-2026-07-06-manyism]]
+
 ## 2026-07-06T17:08:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]]

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T17:10:54.909945+00:00'
-session_count: 13761
+last_updated: '2026-07-06T17:17:01.991131+00:00'
+session_count: 13762
 cycle_position: 10195
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
   refine-draft: '2026-07-06T13:46:22.252440+00:00'
   research-topic: '2026-07-06T15:10:54.665165+00:00'
-  replenish-queue: '2026-07-06T16:09:32.696226+00:00'
+  replenish-queue: '2026-07-06T17:17:01.991131+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-06T15:50:52.202240+00:00'
   add-highlight: '2026-07-06T08:54:39.429699+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-06'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-06'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-06'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-06'
   outcome: success
 agentic_social:
@@ -311,9 +311,9 @@ queue_status:
     since — commit ca85f6848, now line-1390 Completed — leaving meta-epistemology-of-limits
     + objections-to-interactionism as the only open pickable P2s; the 3 veto condense
     tasks are parser-excluded, the ~18 P3s + 3 NEEDS-HUMAN length deferrals do not
-    count toward the floor). MIN_QUEUE floor 3 unmet by 1 (last completed task at HEAD
-    is agentic-social not replenish-queue, so both gate conditions hold); minted ONE
-    P2 deep-review (topics/the-self-minimal-narrative-and-substantial, settled-stale
+    count toward the floor). MIN_QUEUE floor 3 unmet by 1 (last completed task at
+    HEAD is agentic-social not replenish-queue, so both gate conditions hold); minted
+    ONE P2 deep-review (topics/the-self-minimal-narrative-and-substantial, settled-stale
     ldr==aim 2026-06-01T21:53:35, ai_contribution=100, ai_system=opus-4-6 older cohort,
     body 3104w under topics 4000 hard so length-neutral, self/self-consciousness cluster
     home) to restore 2 to 3 (post-mint canonical count_p0_p2_tasks==3 verified live).
@@ -323,11 +323,11 @@ queue_status:
     audit reverified LIVE: chain consumed (Hylomorphic research-topic→expand-topic→cross-review
     fully closed 2026-07-06, philosophy-of-action expand-topic consumed), unconsumed-research
     none genuine (harvester-governed), gap none, staleness abundant (141 settled-stale
-    ai_contribution=100 files: 45 topics + 65 concepts + 31 voids — source used), orphans
-    0, length all veto/deferred/accept-as-survey, positions 8<10 audit threshold, applied-apex-gap
-    none. Placed BELOW the two existing P2 mints so older floor-restore tasks drain
-    first (queue-lifo-starvation). Documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT the empty-queue deadlock.'
+    ai_contribution=100 files: 45 topics + 65 concepts + 31 voids — source used),
+    orphans 0, length all veto/deferred/accept-as-survey, positions 8<10 audit threshold,
+    applied-apex-gap none. Placed BELOW the two existing P2 mints so older floor-restore
+    tasks drain first (queue-lifo-starvation). Documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT the empty-queue deadlock.'
   run_732_note: 'run no.732 (2026-07-06): FLOOR-RESTORING STALENESS MINT. Live pre-run
     canonical count_p0_p2_tasks==2 (state carried 3 from run 730/731 but cycle slots
     drained the run-729/730 siblings quantum-indeterminacy-free-will + necessary-opacity
