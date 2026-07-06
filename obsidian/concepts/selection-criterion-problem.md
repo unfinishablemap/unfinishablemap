@@ -4,8 +4,8 @@ description: "What makes one candidate outcome preferable to consciousness? A hu
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-07-06T20:01:04+00:00
-last_deep_review: 2026-06-06T01:19:59+00:00
+ai_modified: 2026-07-06T20:31:16+00:00
+last_deep_review: 2026-07-06T20:31:16+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -81,6 +81,7 @@ The selection criterion is not an isolated puzzle. Once named, it becomes visibl
 - **Moral status.** [[animal-consciousness|Animal consciousness]] ties valence to moral patienthood: a creature matters morally because states matter *to it*. The "mattering" that grounds moral status and the "mattering" that grounds selection are, on horn (iii), the same primitive seen from the ethical and the causal side.
 - **Mineness and memory.** [[mine-ness|Mine-ness]] and the memory cluster rely on the distinction between mere information and information *that matters to a subject in a particular way*. The selection criterion is what makes that distinction non-trivial: a subject selects, remembers, and owns according to a valuation the third-person record does not contain.
 - **Constraint phenomenology.** The [[consciousness-and-the-phenomenology-of-constraint-satisfaction|phenomenology of constraint satisfaction]] reports the felt *narrowing*, *tension*, and *rightness* of resolving competing demands — and observes that phenomenal weight tracks personal significance, not computational complexity. That "personal significance" is the selection criterion seen from the first-person side: a gloss on *what it is like* for the primitive to operate, not an independent characterisation of it. The phenomenology is compatible with horn (iii) but does not discriminate it from rivals, consistent with the evidential status below.
+- **Curation under ambiguity.** [[curated-mind|The curated mind]] names *selection under ambiguity* as one of three curation modes by which the brain-consciousness interface serves a recipient. Which candidate the interface resolves an ambiguous input toward is the selection criterion under yet another name — the primitive seen from the perspective of what the curation is *for*.
 
 The pattern is that "the manner in which it matters to a subject" recurs as an undischarged term throughout the corpus. The selection-criterion problem is the name for the debt all these usages share. Consolidating it here lets those articles reference a single open problem rather than each silently re-introducing the primitive.
 
@@ -105,6 +106,7 @@ The Map's contribution here is not a solution but a clean statement of the debt,
 - [[evaluative-phenomenal-character]] — The family of phenomenal properties the criterion would be irreducible to
 - [[decision-void]] — Why the criterion is hidden from the subject whose criterion it is
 - [[consciousness-and-the-phenomenology-of-constraint-satisfaction]] — The first-person gloss on the criterion: felt narrowing, tension, and rightness, tracking personal significance rather than computational complexity
+- [[curated-mind]] — Where the primitive appears as "selection under ambiguity," one of the interface's three curation modes
 - [[attention-as-causal-bridge]] — Where the primitive does implicit work in the attention cluster
 - [[evidential-status-discipline]] — Why the criterion is held at open-problem rather than supported status
 

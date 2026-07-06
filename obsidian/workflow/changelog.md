@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T20:31:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/selection-criterion-problem]]
+- **Word count**: 2262 → ~2320 (+~58)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-07-06-selection-criterion-problem]]
+- **Notes**: Third deep review of a doubly-converged article (both priors zero critical). Sole change since 2026-06-06 was a bare `[[curated-mind]]` injection into related_articles (hub-accretion). Fixed the three-location inconsistency by integrating it into "Where the Primitive Already Does Work" (curation-under-ambiguity bullet) + Further Reading; verified curated-mind links back reciprocally. §2.4 web-verify NOT re-triggered — References block byte-identical to the 2026-06-06 publisher-of-record-verified version (Chalmers 1996; Chalmers & McQueen 2021 arXiv:2105.02314; Kane 1996). Engagements unchanged: functionalist horn(i) + randomness horn(ii) both Mode Three. Evidential-status discipline intact; no calibration slippage; no label leakage.
+
 ## 2026-07-06T20:17:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/philosophy-of-science-under-dualism]]
