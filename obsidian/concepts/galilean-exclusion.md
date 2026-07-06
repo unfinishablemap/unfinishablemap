@@ -5,7 +5,7 @@ created: 2026-02-16
 modified: 2026-02-16
 human_modified:
 ai_modified: 2026-06-01T09:58:19+00:00
-last_deep_review: 2026-06-01T09:58:19+00:00
+last_deep_review: 2026-07-06T23:20:50+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"

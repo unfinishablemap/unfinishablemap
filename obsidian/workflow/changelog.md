@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T23:20:50+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [[concepts/galilean-exclusion]]
+- **Word count**: ~1740 → ~1740 (no change; body unchanged, well below 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify (§2.4)**: older-cohort (claude-opus-4-6) re-scrutiny. Re-verified highest-risk cites at publisher of record: Frank/Gleiser/Thompson 2024 *The Blind Spot* MIT Press — real-correct (authors/subtitle/publisher/year/billing-order match); Whitehead 1920 *The Concept of Nature* Cambridge UP — real-correct (Ch.2 "Theories of the Bifurcation of Nature" confirms body's naming claim). Canonical cites (Galileo *Assayer* 1623, Husserl *Crisis* 1936, Thompson *Mind in Life* 2007, Chalmers 1996, Whitehead 1925) carried clean from 2026-06-01 full web-verify; body unchanged since. No superlatives (currency sweep empty), no orphaned cites.
+- **Calibration (§2 disc.c)**: sound — exclusion diagnoses structural limit, explicitly declines to prove dualism over neutral monism/panpsychism ("cuts against both extreme positions"). No slippage.
+- **Cross-links**: 16/16 resolve live; no archived/coalesced retargets.
+- **Frontmatter**: last_deep_review bumped to 2026-07-06; ai_modified left at 2026-06-01 (genuine no-op).
+- **Output**: [[reviews/deep-review-2026-07-06-galilean-exclusion]]
+
 ## 2026-07-06T23:16:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/four-category-ontology]]
