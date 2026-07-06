@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T10:44:07.670274+00:00'
-session_count: 13696
-cycle_position: 10161
+last_updated: '2026-07-06T10:50:11.228767+00:00'
+session_count: 13697
+cycle_position: 10162
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T10:02:22.388816+00:00'
   optimistic-review: '2026-06-27T04:28:07.386807+00:00'
   check-tenets: '2026-06-27T06:16:56.452911+00:00'
   check-links: '2026-06-27T01:58:36.548781+00:00'
-  deep-review: '2026-07-06T10:38:58.121026+00:00'
+  deep-review: '2026-07-06T10:50:11.228767+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-06-27T02:01:21.986631+00:00'
   coalesce: '2026-06-27T05:18:42.452894+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 101
   positions_written: 8
   research_notes: 425
-  reviews_completed: 5916
+  reviews_completed: 5917
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-07-06'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-07-06'
@@ -178,6 +174,10 @@ recent_tasks:
   type: agentic-social
   date: '2026-07-06'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-07-06'
+  outcome: success
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/evolutionary-case-for-quantum-neural-effects/
@@ -222,9 +222,9 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-06T10:25:21+00:00'
+  last_replenishment: '2026-07-06T10:58:20+00:00'
   replenishment_source_counts:
-    staleness: 1
+    chain: 1
   run_723_pickable_p0_p2: 3
   run_722_pickable_p0_p2: 3
   run_721_pickable_p0_p2: 3
