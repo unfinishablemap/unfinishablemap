@@ -4,7 +4,7 @@ description: "The Map's substance-leaning is downstream of agent causation, not 
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-06-24T18:38:00+00:00
+ai_modified: 2026-07-06T22:14:47+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -69,6 +69,7 @@ The lean also interacts with [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has 
 
 - [[substance-property-dualism]] — The full comparison of the two ontologies, with the combination-problem and pairing-problem considerations the Map weighs
 - [[agent-causation]] — Why the Map's framework is agent-causal, and the substance-causation tradition (Reid, Chisholm, O'Connor, Lowe) that grounds the persisting-subject requirement
+- [[four-category-ontology]] — What that persisting subject *is*: Lowe's four-category grid and substance causation, the metaphysics behind the "agent qua substance" phrasing this page localises
 - [[free-will]] — The agency-cluster article where the substance-leaning is most load-bearing
 - [[interactionist-dualism]] — Where bare interactionism suffices and where the agent-causal pairing pulls in the substance reading
 - [[moral-implications-of-genuine-agency]] — How irreducible authorship in the moral arguments inherits the lean from the agency cluster

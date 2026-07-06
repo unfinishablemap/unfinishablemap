@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T22:14:47+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Substance causation grounded in Lowe's four-category ontology
+- **Output**: [[concepts/four-category-ontology]]
+- **Word count**: 1862 (body; within concepts 1500-2000 target)
+- **Based on research**: yes — [[research/substance-causation-and-lowes-four-category-ontology-2026-07-06]]
+- **Notes**: Highest-value fork angle (rec #3): Lowe's no-physics-gap fact-causation staged against Tenet 2 Minimal Quantum Interaction. Cited only the 4 publisher-verified Lowe works; excluded the 2 unverified dates. Bidirectional cross-links installed to agent-causation, where-the-substance-commitment-enters, causal-powers, substance-property-dualism, positions/agency-and-will (P-A2 Argued-in).
+
 ## 2026-07-06T22:03:17+00:00 - deep-review
 - **Status**: Success (real fix — COGITATE reference wrong-first-author corrected)
 - **File**: [[concepts/neural-correlates-of-consciousness]]

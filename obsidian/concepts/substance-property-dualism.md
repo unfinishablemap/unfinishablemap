@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-06-24T18:38:00+00:00
+ai_modified: 2026-07-06T22:14:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -185,6 +185,7 @@ The distinction matters less than it might seem for the Map's core commitments, 
 - [[concepts/epiphenomenalism]] — Property dualism's temptation that the Map refuses
 - [[illusionism]] — The radical challenge that questions whether qualia exist at all
 - [[haecceity]] — Primitive thisness that may ground the substance view
+- [[four-category-ontology]] — Lowe's Non-Cartesian Substance Dualism as the strongest *substance* option, congenial to the Map without being mandatory
 
 ## References
 

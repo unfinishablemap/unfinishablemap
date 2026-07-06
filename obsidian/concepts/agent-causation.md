@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-07-06T11:03:24+00:00
+ai_modified: 2026-07-06T22:14:47+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -185,6 +185,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 - [[luck-objection]], [[agency-void]] — The central objection and the verification-circularity limit
 - [[motor-selection]], [[attention-as-interface]], [[phenomenology-of-choice-and-volition]] — Empirical and phenomenological grounding
 - [[skill-delegation]], [[trumping-preemption]], [[mental-causation-and-downward-causation]], [[causal-closure]], [[causal-interface]] — Metaphysics of the interface
+- [[four-category-ontology]] — Lowe's substance-ontological foundation for the substance-causation this article rests on, and the fact-causation vs minimal-quantum-interaction fork
 - [[interactionist-dualism]], [[quantum-consciousness]] — Mind-body mechanism
 - [[argument-from-reason]], [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Non-phenomenological and clinical routes to mental causation
 - [[authentic-vs-inauthentic-choice]], [[consciousness-value-connection]], [[moral-implications-of-genuine-agency]] — Ethical implications

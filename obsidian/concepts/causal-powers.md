@@ -4,7 +4,7 @@ description: "Causal powers are intrinsic capacities of properties to produce ef
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-08T00:00:00+00:00
+ai_modified: 2026-07-06T22:14:47+00:00
 draft: false
 topics:
   - "[[consciousness-and-causal-powers]]"
@@ -99,6 +99,7 @@ For the broader question of mental causation, see [[mental-causation-and-downwar
 - [[epiphenomenalism]] — The contrary view that powers realism rules out as metaphysically impossible
 - [[causal-closure]] — Why physical causal closure is not absolute at quantum indeterminacies
 - [[agent-causation]] — Substance causation and the metaphysical foundation for free will
+- [[four-category-ontology]] — Lowe's ontology, where substances (not properties or events) are the bearers and exercisers of the powers this article describes
 - [[interactionist-dualism]] — The view that mind and body causally interact
 - [[objections-to-interactionism]] — Challenges to interactionism and responses
 - [[dualism-as-ai-risk-mitigation]] — How non-physical causal powers that escape physical-state description bear on AI alignment: outcomes passing through the [[mind-arena]] have uncomputable consequence-distributions
