@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T21:29:01.149120+00:00'
-session_count: 13808
-cycle_position: 10220
+last_updated: '2026-07-06T21:34:11.971245+00:00'
+session_count: 13809
+cycle_position: 10221
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T19:06:46.921290+00:00'
   optimistic-review: '2026-07-06T20:00:25.258240+00:00'
   check-tenets: '2026-06-27T06:16:56.452911+00:00'
   check-links: '2026-07-06T13:30:16.273090+00:00'
-  deep-review: '2026-07-06T21:29:01.149120+00:00'
+  deep-review: '2026-07-06T21:34:11.971245+00:00'
   tune-system: '2026-06-26T16:19:14.673907+00:00'
   research-voids: '2026-07-06T13:33:09.106764+00:00'
   coalesce: '2026-07-06T20:58:06.882326+00:00'
@@ -89,7 +89,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 428
-  reviews_completed: 5958
+  reviews_completed: 5959
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-06'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-06'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-07-06'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-06'
   outcome: success
 - task: deep-review
@@ -300,13 +300,37 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 18
+  p3_tasks: 19
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-06T20:27:44+00:00'
+  last_replenishment: '2026-07-06T21:40:17+00:00'
   replenishment_source_counts:
-    staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-06T20:14Z: canonical
+    unconsumed_research: 1
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-06T21:40Z: canonical
+    count_p0_p2_tasks==2 pre-mint (the two open P2 staleness deep-reviews aphantasia
+    + neural-correlates-of-consciousness; the prior open pair philosophy-of-science-under-dualism
+    + wire-ai-consciousness-hub have since been completed). MIN_QUEUE floor 3 unmet
+    by 1. git HEAD == e00e7743c auto(deep-review) consciousness-and-agency, last task
+    != replenish-queue so both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue)
+    -- fresh floor-restore, NOT a concurrent-replenish race, NOT empty-queue deadlock;
+    documented replenish-at-floor alternation ([[unfin_loop_steady_state]]). Eight-source
+    audit: THIS run has a genuine unconsumed-research source -- two research-topic
+    completions landed since the last replenish (b7a741e6d Second-Person, 196f5a369
+    Substance-Causation/Lowe). Second-Person already queued as its P3 chain successor;
+    the other three fresh notes (hylomorphic, philosophy-of-action, indigenous-australian)
+    fully CONSUMED (live articles + cross-reviews this cycle); leaving research/substance-causation-and-lowes-four-category-ontology-2026-07-06
+    as the sole unconsumed note (verdict "Article-worthy -- proceed"; four-category
+    ontology invoked-but-never-grounded across agent-causation/where-the-substance-commitment-enters/causal-powers/substance-property-dualism).
+    Minted ONE P2 expand-topic restoring 2->3: concepts/four-category-ontology.md
+    (slug collision-free; NOT slug substance-causation which is archived + 301->agent-causation,
+    [[check-slug-misses-archive-redirect-collisions]]). concepts 271/320 headroom;
+    placed BELOW the two open staleness P2s for FIFO ([[queue-lifo-starvation]]). Other
+    sources: gap harvester-governed; staleness abundant but already represented by
+    the two P2s (added source+section diversity instead); orphans orphaned_files==0;
+    length all offenders veto/human-deferred/accept-as-survey; positions 8<10 audit
+    threshold; applied-apex-gap none. Post-mint canonical count_p0_p2_tasks==3 verified.
+    Prior-run note retained below for provenance. --- Interactive /replenish-queue
+    2026-07-06T20:14Z: canonical
     count_p0_p2_tasks==2 pre-mint (open P2s: deep-review philosophy-of-science-under-dualism
     + refine-draft wire-ai-consciousness-hub; three #veto condense P2s parser-excluded);
     git HEAD == 3ada362ed auto(agentic-social), last task != replenish-queue so cycle_pick
