@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T19:32:48+00:00 - deep-review
+- **Status**: Success (no-op convergence check)
+- **File**: [[topics/amplification-mechanisms-consciousness-physics]]
+- **Word count**: 3927 → 3927 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh deep review. Content-stable 34d since the 2026-06-02 web-verify pass (only commit since is that pass's own citation fix). Because the article is claude-opus-4-6 cohort + citation-heavy, re-verified the three highest-risk cites live at publisher of record — Chakroun et al. 2023 Nat Commun 14:5369 (todo spot-check), Díaz Palencia 2025 AppliedMath 5(4):132, Keppler 2025 Front Hum Neurosci 19:1676585 — all real-correct; the 2026-06-02 wrong-author fixes hold. Superlative-currency sweep = 0 claims. Amplification-void paraphrase verified faithful vs live sibling (L57). All 26 wikilinks resolve; self-cite is the live research seed note (not a dangling dup); 33 inbound links; siblings reciprocate. Evidential-status framing intact (conditional mood, "What Remains Speculative" preserved). Length 3927w (131% soft, ~73w under 4000 hard — length-neutral, no additions). Only `last_deep_review` bumped; `ai_modified` left at 2026-06-02 (no content edit).
+- **Output**: [[reviews/deep-review-2026-07-06-amplification-mechanisms-consciousness-physics]]
+
 ## 2026-07-06T19:28:18+00:00 - deep-review
 - **Status**: Success (no-op convergence check)
 - **File**: [[topics/emotion-and-dualism]]

@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-06-02T20:13:50+00:00
+last_deep_review: 2026-07-06T19:32:48+00:00
 coalesced_from:
   - "/topics/stochastic-amplification-and-neural-selection/"
 ---
