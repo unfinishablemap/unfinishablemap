@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T12:19:30.402708+00:00'
-session_count: 13713
+last_updated: '2026-07-06T12:29:20.673739+00:00'
+session_count: 13714
 cycle_position: 10171
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
   refine-draft: '2026-07-06T12:05:35.940511+00:00'
   research-topic: '2026-07-06T09:10:15.107115+00:00'
-  replenish-queue: '2026-07-06T12:13:27.067608+00:00'
+  replenish-queue: '2026-07-06T12:29:20.673739+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-06T10:06:00.497364+00:00'
   add-highlight: '2026-07-06T08:54:39.429699+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-06'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-06'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-06'
   outcome: success
 agentic_social:
@@ -264,15 +264,15 @@ queue_status:
     P2 deep-review to restore 2 to 3 (post-mint canonical count==3 verified live).
     TARGET apex/living-with-the-map.md — deterministic next-oldest settled AI-heavy
     article at 35d past a GENUINE 2026-06-01 deep-review (not a midnight placeholder
-    unlike the two topic mints), settled (ai_modified 2026-05-14 well before
-    last_deep_review 2026-06-01), 3486w apex status ok, no commits or same-day review
-    collision today, not archived or vetoed, no open duplicate header. Eight-source
-    audit re-affirmed live: chains empty (both recent chains consumed), unconsumed
-    research exhausted, gaps harvester-governed with a P3 expand already queued,
-    orphans 0, positions 8 below the 10-entry audit threshold, every length offender
-    a protected-calibration flagship or vetoed condense, no applied-apex gap; staleness
-    the only clean live source. Scope steers the deep-review to the apex stale-internal-quote
-    channel plus standard citation and evidential-status discipline.'
+    unlike the two topic mints), settled (ai_modified 2026-05-14 well before last_deep_review
+    2026-06-01), 3486w apex status ok, no commits or same-day review collision today,
+    not archived or vetoed, no open duplicate header. Eight-source audit re-affirmed
+    live: chains empty (both recent chains consumed), unconsumed research exhausted,
+    gaps harvester-governed with a P3 expand already queued, orphans 0, positions
+    8 below the 10-entry audit threshold, every length offender a protected-calibration
+    flagship or vetoed condense, no applied-apex gap; staleness the only clean live
+    source. Scope steers the deep-review to the apex stale-internal-quote channel
+    plus standard citation and evidential-status discipline.'
   run_721_note: 'run no.721 (2026-07-06): FLOOR-RESTORING CHAIN + FRESH-CREATE-DEFECT-TAIL
     MINT. Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks
     run live (the two Gemini outer-review refine-drafts on ethics-of-possible-ai-consciousness.md,

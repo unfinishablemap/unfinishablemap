@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-07-06T11:03:24+00:00
+ai_modified: 2026-07-06T12:30:55+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -48,7 +48,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-22
 last_curated:
-last_deep_review: 2026-06-01T13:20:00+00:00
+last_deep_review: 2026-07-06T12:30:55+00:00
 coalesced_from:
   - "/concepts/phenomenology-of-choice/"
   - "/concepts/phenomenology-of-volition/"
