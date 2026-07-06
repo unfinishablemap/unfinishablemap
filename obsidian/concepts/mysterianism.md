@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-05-31T23:49:27+00:00
+last_deep_review: 2026-07-06T12:15:12+00:00
 coalesced_from:
   - "/topics/mysterianism-cognitive-closure/"
   - "/concepts/cognitive-closure/"
