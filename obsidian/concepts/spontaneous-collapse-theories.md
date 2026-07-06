@@ -4,9 +4,9 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-06-01T08:58:01+00:00
+ai_modified: 2026-07-06T14:43:35+00:00
 draft: false
-last_deep_review: 2026-06-01T08:58:01+00:00
+last_deep_review: 2026-07-06T14:43:35+00:00
 topics: []
 concepts:
   - "[[measurement-problem]]"
@@ -100,7 +100,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 
 **Evidence cited**:
 - Anesthetics bind to microtubule sites, correlating with consciousness loss
-- Revised coherence timescales (Hagan et al. 2002, disputed): 10⁻⁶ to 10⁻⁴ seconds (microseconds), not femtoseconds as Tegmark calculated—though this revision remains contested in the literature
+- Revised coherence timescales (Hagan et al. 2002, disputed): 10⁻⁵ to 10⁻⁴ seconds (tens of microseconds), not femtoseconds as Tegmark calculated—though this revision remains contested in the literature
 - Microtubule structure provides Debye layer screening and ordered water that may protect quantum states
 
 **Objections**:

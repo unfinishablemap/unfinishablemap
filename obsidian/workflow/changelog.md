@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T14:43:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/spontaneous-collapse-theories]]
+- **Word count**: 2632 → 2632 (single-figure correction, net zero)
+- **Critical issues addressed**: 1 (Hagan et al. 2002 coherence figure 10⁻⁶→10⁻⁵ to 10⁻⁴ s; order-of-magnitude lower-bound error, publisher-verified via arXiv quant-ph/0005025 / Phys Rev E 65:061901)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (parenthetical "microseconds"→"tens of microseconds" to match corrected range)
+- **Notes**: 8th review. Web-verified the microtubule/decoherence citation cluster (Tegmark 2000, Hagan et al. 2002, Hameroff & Penrose 2014, Penrose 1994) — the cites the thorough 2026-06-01 quantum-interface pass did NOT cover. Tegmark/Hameroff-Penrose/Penrose all real-correct; Hagan carried the figure error. Closes the last un-web-verified cite gap. No calibration slippage; no superlatives.
+- **Output**: [[reviews/deep-review-2026-07-06-spontaneous-collapse-theories]]
+
 ## 2026-07-06T14:33:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/epistemological-limits-occams-razor]]
