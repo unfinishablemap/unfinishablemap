@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-08
 last_curated:
-last_deep_review: 2026-06-01T21:53:35+00:00
+last_deep_review: 2026-07-06T17:50:54+00:00
 ---
 
 What kind of thing are you? Not what makes you persist over time—that is the question of [[personal-identity]]—but what you *are*, right now, at this moment. Three philosophical traditions offer competing answers. The **minimal self** says you are a bare first-person perspective, the structural "for-me-ness" that makes experience somebody's rather than nobody's. The **narrative self** says you are a story—an autobiographical construction woven from memory, intention, and cultural context. The **substantial self** says you are a genuine entity, an irreducible particular whose existence is not exhausted by perspective or story. This question matters because whatever the self turns out to be determines what [[topics/free-will|free will]] requires, what [[death-and-consciousness|death]] threatens, and whether the [[hard-problem-of-consciousness|hard problem of consciousness]] has a subject or only a puzzle.

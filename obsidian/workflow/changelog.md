@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T17:50:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-self-minimal-narrative-and-substantial]]
+- **Word count**: 3104 → 3104 (no prose edits; last_deep_review timestamp bump only, ai_modified left at 2026-06-01)
+- **Critical issues addressed**: 0 (seventh review; fully converged. Body unchanged since 06-01 review commit 2c8b0d68c — the only commit touching the file since the prior review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — convergence re-confirmation. All ~20 wikilinks + 2 self-and-self-consciousness anchors + 4 tenets block anchors + internal anchor resolve; four substantiality arguments correctly hedged (no possibility/probability slippage); single "emerges" applies to narrative self only (no emergentist drift); two low "not X. It is Y." instances deliberately preserved (no oscillation)
+- **Citation web-verify**: skipped-by-rule (References block unmodified since 06-01 full per-cite ledger; find_superlative_claims returned none)
+- **Output**: [[reviews/deep-review-2026-07-06-the-self-minimal-narrative-and-substantial]]
+
 ## 2026-07-06T17:34:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/objections-to-interactionism]]
