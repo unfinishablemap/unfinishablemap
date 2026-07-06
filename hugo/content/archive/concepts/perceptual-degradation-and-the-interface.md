@@ -3,6 +3,10 @@ ai_contribution: 100
 ai_generated_date: 2026-03-23
 ai_modified: 2026-06-01 18:44:10+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into Perceptual Failure and the Interface (concepts-namespace
+  duplicate of the already-coalesced topics article)
+archived: true
+archived_date: 2026-07-06 20:50:45+00:00
 author: null
 concepts:
 - '[[interface-friction]]'
@@ -21,12 +25,14 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-06-01 18:44:10+00:00
 modified: *id001
+original_path: /concepts/perceptual-degradation-and-the-interface/
 related_articles:
 - '[[perceptual-failure-and-the-interface]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[the-interface-problem]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[attention-as-interface]]'
+superseded_by: /topics/perceptual-failure-and-the-interface/
 title: Perceptual Degradation and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'

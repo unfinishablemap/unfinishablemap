@@ -4,7 +4,7 @@ description: "Hoffman, Singh & Prakash's formal proof that natural selection fav
 created: 2026-03-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-21T19:32:42+00:00
+ai_modified: 2026-07-06T20:50:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,6 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[perceptual-failure-and-the-interface]]"
-  - "[[perceptual-degradation-and-the-interface]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[naturally-occluded]]"
   - "[[tenets]]"
@@ -98,8 +97,7 @@ For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT
 - [[biological-cognitive-closure]] — How cognitive limits function as adaptive features shaped by natural selection
 - [[naturally-occluded]] — The broader framework of evolution-maintained cognitive boundaries and the fourth-kind void category for which FBT is the formal-mathematical anchor
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why experience conceals its own representational character
-- [[perceptual-failure-and-the-interface]] — Perceptual failure analysed through Hoffman's interface framework
-- [[perceptual-degradation-and-the-interface]] — What degraded perception reveals about the interface's architecture
+- [[perceptual-failure-and-the-interface]] — Perceptual failure analysed through Hoffman's interface framework: what degraded perception reveals about the interface's architecture
 - [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|The Quantitative Comprehension Void — magnitude and probability face]] — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
 - [[parsimony-epistemology]] — Why Occam's Razor lacks epistemic warrant in the consciousness debate; FBT supplies the evolutionary reason to distrust the simplicity intuition that analysis dismantles on domain-appropriateness grounds
 - [[mysterianism]] — McGinn's argument that the hard problem reflects cognitive closure

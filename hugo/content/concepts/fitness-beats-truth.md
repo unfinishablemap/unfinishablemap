@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-21 19:32:42+00:00
+ai_modified: 2026-07-06 20:50:45+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,6 @@ related_articles:
 - '[[biological-cognitive-closure]]'
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[perceptual-failure-and-the-interface]]'
-- '[[perceptual-degradation-and-the-interface]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[naturally-occluded]]'
 - '[[tenets]]'
@@ -101,8 +100,7 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How cognitive limits function as adaptive features shaped by natural selection
 - [naturally-occluded](/concepts/naturally-occluded/) — The broader framework of evolution-maintained cognitive boundaries and the fourth-kind void category for which FBT is the formal-mathematical anchor
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why experience conceals its own representational character
-- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — What degraded perception reveals about the interface's architecture
+- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework: what degraded perception reveals about the interface's architecture
 - [The Quantitative Comprehension Void — magnitude and probability face](/voids/the-quantitative-comprehension-void/#the-magnitude-and-probability-domain) — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why Occam's Razor lacks epistemic warrant in the consciousness debate; FBT supplies the evolutionary reason to distrust the simplicity intuition that analysis dismantles on domain-appropriateness grounds
 - [mysterianism](/concepts/mysterianism/) — McGinn's argument that the hard problem reflects cognitive closure

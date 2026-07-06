@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-06-20 20:40:01+00:00
+ai_modified: 2026-07-06 20:50:45+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/perceptual-degradation-and-the-interface/
 - /topics/perceptual-fidelity-and-the-interface/
+- /concepts/perceptual-degradation-and-the-interface/
 concepts:
 - '[[interface-friction]]'
 - '[[filter-theory]]'
@@ -22,7 +23,6 @@ concepts:
 - '[[altered-states-of-consciousness]]'
 - '[[default-mode-network]]'
 - '[[causal-closure]]'
-- '[[perceptual-degradation-and-the-interface]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
 - '[[consciousness-bandwidth-architecture]]'
 created: 2026-03-09
@@ -45,7 +45,6 @@ related_articles:
 - '[[visual-consciousness]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
-- '[[perceptual-degradation-and-the-interface]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
 - '[[curated-mind]]'
 - '[[psychedelics-and-the-filter-model]]'
@@ -86,7 +85,7 @@ If consciousness merely *accessed* neural representations—reading them the way
 
 This is not what happens. Perceptual degradation is overwhelmingly graded, partial, and compensated. Vision blurs before it disappears. Colour desaturates before it vanishes. Object recognition degrades through stages of increasing vagueness rather than switching off. Ian Phillips has argued that even [blindsight](/concepts/blindsight/)—long treated as the paradigm case of unconscious perception—may be better understood as "qualitatively degraded conscious vision" where subjects retain dim, impoverished experience but adopt conservative reporting criteria (Phillips, 2021). This reading is live and sharply contested—Michel and Lau (2021) pressed a direct rebuttal in the same journal issue (with Phillips's rejoinder following it), and Brogaard and Gatzia (2023) maintain that blindsight is genuinely unconscious perception. The argument does not require it: blindsight enters as one suggestive case among the graded-degradation phenomena, not a settled load-bearing premise.
 
-These patterns suggest a different model: consciousness receives perceptual information through a *transmission channel* with finite bandwidth. (The concept of [perceptual degradation and the interface](/concepts/perceptual-degradation-and-the-interface/) formalises these failure signatures.) When the channel degrades, information is progressively lost rather than categorically eliminated. The analogy is closer to a deteriorating radio signal than to a corrupted hard drive. Static increases, resolution drops, signal fades—but something continues to come through until the channel fails entirely.
+These patterns suggest a different model: consciousness receives perceptual information through a *transmission channel* with finite bandwidth. When the channel degrades, information is progressively lost rather than categorically eliminated. The analogy is closer to a deteriorating radio signal than to a corrupted hard drive. Static increases, resolution drops, signal fades—but something continues to come through until the channel fails entirely.
 
 ## Bandwidth Signatures
 
@@ -154,7 +153,6 @@ Where the multiplication is earned, if anywhere, is one level down—at the phen
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — the asymmetric bandwidth framework formalising transmission capacity
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — pharmacological case for filter theory invoked in Selective Preservation

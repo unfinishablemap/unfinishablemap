@@ -21,7 +21,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/vxL7OeBmSJM
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 10:26:44+00:00
+last_deep_review: 2026-07-06 18:22:35+00:00
 modified: *id001
 related_articles:
 - '[[quantum-neural-timing-constraints]]'

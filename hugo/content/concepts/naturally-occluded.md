@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-06 20:50:45+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ related_articles:
 - '[[confabulation-void]]'
 - '[[agency-void]]'
 - '[[compound-failure-signatures]]'
-- '[[perceptual-degradation-and-the-interface]]'
+- '[[perceptual-failure-and-the-interface]]'
 - '[[what-voids-reveal]]'
 - '[[tenets]]'
 title: Naturally Occluded
@@ -159,7 +159,7 @@ A bootstrapping problem remains: if the cognitive faculties identifying naturall
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The broader question of distinguishing evolved from designed limits
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — The motivational deflection that complements the structural opacity-features the category names
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Mapping different modes of cognitive failure
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — How Hoffman's interface theory connects to perceptual breakdown
+- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — How Hoffman's interface theory connects to perceptual breakdown
 - [narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [confabulation-void](/voids/confabulation-void/) — The introspection-architecture sub-cluster that reads as Naturally Occluded on the adaptive narrative-coherence hypothesis
 - [agency-void](/voids/agency-void/) — The void on which the Stapp-engagement reading deploys the category load-bearingly
 

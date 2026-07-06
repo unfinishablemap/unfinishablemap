@@ -113,7 +113,7 @@ A bootstrapping problem remains: if philosophical intuitions are fitness-shaped,
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy adaptive limits refine
 - [naturally-occluded](/concepts/naturally-occluded/) — The dedicated fourth-kind void concept anchored by FBT and the void-side counterpart to this article
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Mapping different modes of cognitive failure
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — How Hoffman's interface theory connects to perceptual breakdown
+- [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) — How Hoffman's interface theory connects to perceptual breakdown
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-06-02 16:40:07+00:00
+ai_modified: 2026-07-06 18:42:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -26,7 +26,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/yEbLx3KMclc
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 16:40:07+00:00
+last_deep_review: 2026-07-06 18:42:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,7 +127,7 @@ The constraints also bear on how the cross-architecture variation should be read
 
 ## Relation to Site Perspective
 
-**Dualism**: Invertebrate consciousness is not a puzzle to be solved by identifying which neural complexity "generates" consciousness. It is an interface question: which physical architectures support coupling, and how? The diversity of invertebrate neural organisation tests whether the interface is universal or heterogeneous—a question that arises only under dualism, since materialism identifies consciousness with neural processing directly.
+**Dualism**: Invertebrate consciousness poses an interface question rather than a generation puzzle: which physical architectures support coupling, and how? Where materialism searches for the neural complexity that "generates" consciousness, the Map asks which architectures the interface can couple with. The diversity of invertebrate neural organisation tests whether the interface is universal or heterogeneous—a question that arises only under dualism, since materialism identifies consciousness with neural processing directly.
 
 **Minimal Quantum Interaction**: If coupling operates at quantum indeterminacies in neural tissue, the mechanism should work in any neuron-bearing system. Invertebrates provide the test: quantum indeterminacies exist in all neural tissue regardless of species, and proposed coupling sites such as microtubules are conserved across phyla. However, the thermal and electromagnetic environment of a bee's million-neuron brain differs substantially from a human cortex, raising the question of whether decoherence constrains coupling differently across architectures—a challenge any quantum-level mechanism must address.
 

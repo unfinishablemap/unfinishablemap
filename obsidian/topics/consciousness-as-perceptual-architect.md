@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-16T00:00:00+00:00
+ai_modified: 2026-07-06T20:50:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,6 @@ related_articles:
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[the-binding-problem]]"
   - "[[perceptual-failure-and-the-interface]]"
-  - "[[perceptual-degradation-and-the-interface]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[three-dimensional-world-representation-problem]]"
   - "[[consciousness-and-the-phenomenology-of-place]]"
@@ -127,7 +126,7 @@ This attentional dependence connects perceptual learning to the Map's concept of
 
 Constancy and learning appear opposed — one stabilises, the other transforms — but they reveal the same underlying principle: consciousness actively shapes what is perceived rather than passively receiving neural outputs.
 
-**Constancy maintains invariance across conditions.** The banana stays yellow as lighting changes. Consciousness selects the stable distal interpretation, resisting the flux of proximal signals. When constancy fails — when perception [[perceptual-degradation-and-the-interface|degrades]] through blur, damage, or pharmacological disruption — the interface it normally conceals becomes visible, revealing bandwidth signatures and compensatory mechanisms that constancy holds below awareness.
+**Constancy maintains invariance across conditions.** The banana stays yellow as lighting changes. Consciousness selects the stable distal interpretation, resisting the flux of proximal signals. When constancy fails — when perception [[perceptual-failure-and-the-interface|degrades]] through blur, damage, or pharmacological disruption — the interface it normally conceals becomes visible, revealing bandwidth signatures and compensatory mechanisms that constancy holds below awareness.
 
 **Learning creates new invariants over time.** The sommelier develops stable perceptual categories — "minerality," "wet stone" — that persist across individual tasting experiences. Where constancy holds existing perceptual objects steady, learning constructs new ones.
 
@@ -156,8 +155,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [[consciousness-and-skill-acquisition]] — Skill acquisition, deliberate practice, and neural evidence for conscious engagement in plasticity
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
 - [[phenomenology-of-conceptual-frameworks]] — The cognitive parallel: how frameworks transform
-- [[perceptual-failure-and-the-interface]] — How faithfully perception tracks reality
-- [[perceptual-degradation-and-the-interface]] — Degradation as the complement to constancy: what failure reveals
+- [[perceptual-failure-and-the-interface]] — How faithfully perception tracks reality; degradation as the complement to constancy, and what failure reveals
 - [[phenomenal-transparency-opacity-spectrum]] — Constancy-breaking as a controlled transparency-to-opacity shift that reveals the representational medium
 - [[predictive-processing-and-dualism]] — Predictive coding and the Map's framework
 - [[filter-theory]] — Consciousness as selective filter

@@ -9,6 +9,204 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-06T20:34:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Change**: LENGTH-NEUTRAL link-only fix. Added down-links from §"Alignment Implications" to [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) and [instrumental-convergence](/topics/instrumental-convergence/) (the uncomputability-shield argument) via one natural clause in the existing alignment paragraph. Hub previously linked only sideways to experiential-alignment/ethics; safety subcluster linked up but hub did not link down. No substantive claims or calibration altered.
+- **Tenets**: 1 (Dualism) + 3 (Bidirectional Interaction)
+- **Published**: yes
+
+## 2026-07-06T20:31:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [selection-criterion-problem](/concepts/selection-criterion-problem/)
+- **Word count**: 2262 → ~2320 (+~58)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-07-06-selection-criterion-problem](/reviews/deep-review-2026-07-06-selection-criterion-problem/)
+- **Notes**: Third deep review of a doubly-converged article (both priors zero critical). Sole change since 2026-06-06 was a bare `[[curated-mind]]` injection into related_articles (hub-accretion). Fixed the three-location inconsistency by integrating it into "Where the Primitive Already Does Work" (curation-under-ambiguity bullet) + Further Reading; verified curated-mind links back reciprocally. §2.4 web-verify NOT re-triggered — References block byte-identical to the 2026-06-06 publisher-of-record-verified version (Chalmers 1996; Chalmers & McQueen 2021 arXiv:2105.02314; Kane 1996). Engagements unchanged: functionalist horn(i) + randomness horn(ii) both Mode Three. Evidential-status discipline intact; no calibration slippage; no label leakage.
+
+## 2026-07-06T20:17:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
+- **Word count**: 2064 → 2064 (no change — converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review; converged no-op after REAL scrutiny (NO-OP HYGIENE: bumped last_deep_review only, ai_modified left at 2026-06-01). Todo note flagged claude-opus-4-6 origin cohort → non-assumed citation re-scrutiny. Web-verified the two detail-bearing cites at publisher of record: Fodor 1974 Synthese 28(2):97-115 (Springer DOI 10.1007/BF00485230) real-correct; Oppenheim & Putnam 1958 Minnesota Studies vol 2 pp.3-36 eds Feigl/Scriven/Maxwell real-correct. Other 4 canonical monographs unchanged since 2026-06-01 verify. No superlatives (currency sweep empty). All 13 wikilinks + 5 section anchors resolve live. Evidential-status discipline intact (compatibility not upgraded to support; Tenet-5 calibration held). No label leakage. Engagements: methodological-naturalism=Mode Two; Lakatosian=Mixed→Mode Three.
+- **Output**: [deep-review-2026-07-06-philosophy-of-science-under-dualism](/reviews/deep-review-2026-07-06-philosophy-of-science-under-dualism/)
+- **Published**: yes
+
+## 2026-07-06T20:01:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Changes**: LINK-ONLY cross-link fix (both articles near length ceilings — no prose sections added, no substantive claims altered). Verified gap: curated-mind had zero links to the value-selection cluster despite its "selection under ambiguity" third mode being the conscious-selection event that cluster is about (grep-confirmed 0). Added [selection-criterion-problem](/concepts/selection-criterion-problem/) and [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) to related_articles, plus one clause at the "selection under ambiguity" first-mention in the body linking both. Reciprocated: added [curated-mind](/topics/curated-mind/) to selection-criterion-problem's related_articles (grep-verified genuinely absent). Both link targets confirmed to exist. Tenet alignment: 2, 3 (cluster navigability). Bumped ai_modified on both files (real edits).
+- **Published**: yes
+
+## 2026-07-06T19:56:17+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Physical-interface mechanism cluster (how consciousness touches matter) — `amplification-mechanisms-consciousness-physics`, `objections-to-interactionism`, `invertebrate-consciousness-as-interface-test`, `interactionist-dualism`, `timing-gap-problem`. Third optimistic pass of the day; distinct from the value-sensitive-selection and first-person-epistemic-authority clusters.
+- **Output**: [optimistic-2026-07-06c](/reviews/optimistic-2026-07-06c/)
+
+## 2026-07-06T19:43:51+00:00 - deep-review
+- **Status**: Success (no-op convergence check)
+- **File**: [witnessing-void](/voids/witnessing-void/)
+- **Word count**: 2160 → 2160 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Third deep review. Settled-stale 34d (last_deep_review==ai_modified==2026-06-02, no drift). claude-opus-4-7 cohort — scrutinized rather than assumed clean. Completed the citation ledger: the 2026-06-02 pass deferred the "older" cites, so this pass web-verified them at publisher of record — Drg-drshya-Viveka (real-correct; contested authorship, article correctly attributes none), Moore 1903 Mind 12(48) pp.433-453 (real-correct; origin of "diaphanous"), Zahavi 2005 Subjectivity and Selfhood MIT Press (real-correct), Shear & Jevning 1999 JCS 6(2-3) pp.189-210 (real-correct), Chalmers 1996 (terminology use, defensible). All 9 references now web-verified across two passes; no fabrication, no metadata errors. Superlative-currency sweep = 0 claims. Two dated-slug self-cites resolve to live self-opacity + witness-consciousness (not dangling; reciprocate). All wikilinks + 4 tenets anchors resolve. Dualism paragraph calibration intact ("interpretive rather than coercive", self-reference-physicalist parity) — no epistemic→metaphysical slippage. No cliché, no reasoning-mode label leakage (no named-opponent refutation). Length 2160w (108% voids soft, well under 3000 hard — no growth). Only last_deep_review bumped; ai_modified left at 2026-06-02.
+- **Output**: [deep-review-2026-07-06-witnessing-void](/reviews/deep-review-2026-07-06-witnessing-void/)
+
+## 2026-07-06T19:32:48+00:00 - deep-review
+- **Status**: Success (no-op convergence check)
+- **File**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Word count**: 3927 → 3927 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh deep review. Content-stable 34d since the 2026-06-02 web-verify pass (only commit since is that pass's own citation fix). Because the article is claude-opus-4-6 cohort + citation-heavy, re-verified the three highest-risk cites live at publisher of record — Chakroun et al. 2023 Nat Commun 14:5369 (todo spot-check), Díaz Palencia 2025 AppliedMath 5(4):132, Keppler 2025 Front Hum Neurosci 19:1676585 — all real-correct; the 2026-06-02 wrong-author fixes hold. Superlative-currency sweep = 0 claims. Amplification-void paraphrase verified faithful vs live sibling (L57). All 26 wikilinks resolve; self-cite is the live research seed note (not a dangling dup); 33 inbound links; siblings reciprocate. Evidential-status framing intact (conditional mood, "What Remains Speculative" preserved). Length 3927w (131% soft, ~73w under 4000 hard — length-neutral, no additions). Only `last_deep_review` bumped; `ai_modified` left at 2026-06-02 (no content edit).
+- **Output**: [deep-review-2026-07-06-amplification-mechanisms-consciousness-physics](/reviews/deep-review-2026-07-06-amplification-mechanisms-consciousness-physics/)
+
+## 2026-07-06T19:28:18+00:00 - deep-review
+- **Status**: Success (no-op convergence check)
+- **File**: [emotion-and-dualism](/topics/emotion-and-dualism/)
+- **Word count**: 2952 → 2952 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review. The ONLY change since the 2026-06-05 review was `auto(embed-videos)` — a cosmetic YouTube embed block + frontmatter; no prose/citation/argument changed (the `ai_modified` bump alone re-qualified it, a known cosmetic-re-qualification pattern). Fresh six-persona pessimistic + seven-persona optimistic passes surface nothing new; calibration ("on the Map's reading" hedging) intact from the 06-05 fix. §2.4 publisher-of-record web-verify legitimately skipped (References block byte-identical to the fully-verified 2026-05-28/06-05 ledger); superlative-currency sweep = 0 empirical claims. Length 2952w (98% of 3000 soft, length-neutral). Only `last_deep_review` bumped; `ai_modified` left at its embed-videos value (no content edit).
+- **Output**: [deep-review-2026-07-06-emotion-and-dualism](/reviews/deep-review-2026-07-06-emotion-and-dualism/)
+
+## 2026-07-06T19:14:25+00:00 - deep-review
+- **Status**: Success (no-op convergence check)
+- **File**: [haecceity](/concepts/haecceity/)
+- **Word count**: 2726 → 2726 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Ninth deep review; article UNCHANGED since the eighth (2026-06-02, whose commit was the last to touch the file). Fresh six-persona pessimistic + seven-persona optimistic passes surface nothing new. Integrity sweeps all clean: label-leakage, EOF tool-tag artifact, `[[n,k,d]]` bracket collision, phantom "Tallis 2016" residual. §2.4 publisher-of-record web-verify legitimately skipped (References block byte-identical to the fully-verified 2026-06-02 13-cite ledger); no superlative/empirical-currency claims present. Calibration stays honest (No-MWI framing as philosophical argument, not proof; anattā as reconciliation). Only `last_deep_review` bumped; `ai_modified` left at 2026-06-02 (no content edit). Recommend deprioritizing further deep reviews.
+- **Output**: [deep-review-2026-07-06-haecceity](/reviews/deep-review-2026-07-06-haecceity/)
+
+## 2026-07-06T19:10:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [indigenous-australian-philosophy-of-consciousness](/topics/indigenous-australian-philosophy-of-consciousness/)
+- **Original score**: n/a (pessimistic-review-driven surgical pass, not curate.py review)
+- **Changes**: Addressed pessimistic-2026-07-06-indigenous-australian-philosophy, three fixes, length-neutral, no restructure. (1) Interpretive equivocation [core]: split the ethical vs metaphysical readings of Graham's "not explained in reductionist materialist terms" in "Where it converges" — metaphysical anti-physicalism marked as a non-Indigenous overlay, downgraded to "ethical resonance that does not by itself bear on the metaphysical question"; softened the located-self "This is a metaphysical claim, not merely an ethical one" hinge to flag the interpretive choice rather than assert it (per evidential-status-discipline). (2) Overstatement: qualified "on every reading surveyed here, refuses reductive physicalism" — convergence now holds only for the metaphysical readings; the ethical-relational reading is silent on/compatible with physicalism. (3) Attribution WEB-VERIFIED: the Graham "matter of degree... not a dualism... not ontologically distinct" quote VERIFIES verbatim in Graham's Parrhesia 37 (2023) paper (ref 1) — reviewer's secondary-gloss suspicion was a false positive (citation-verify-false-negative cuts both ways); left as Graham's, tightened "Nor is it a dualism" → source's actual "it is not a dualism". Graham "I am located" + Mathews "primordial... single mode" quotes left untouched (verify verbatim). Rephrased two "not X but Y" constructs. Preserved appropriation/generalisation cautions, attribution-asymmetry honesty, Dreaming≠dream-sleep discipline.
+- **Published**: yes
+
+## 2026-07-06T19:03:28+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/indigenous-australian-philosophy-of-consciousness.md (fresh create 2026-07-06). Found interpretive equivocation (ethics/Law material recruited as metaphysical anti-physicalist evidence for Tenet 1), a self-contradicted "every reading refuses physicalism" overstatement, and an attribution risk on the Graham "not a dualism" quote cluster (possible secondary-commentary gloss). Two load-bearing quotes verified verbatim. Queued P2 refine-draft.
+- **Output**: [pessimistic-2026-07-06-indigenous-australian-philosophy](/reviews/pessimistic-2026-07-06-indigenous-australian-philosophy/)
+
+## 2026-07-06T18:51:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Word count**: 2370 → 2406 (+36; voids soft 2000 / hard 3000 — soft_warning, well under hard)
+- **Critical issues addressed**: 0 — converged (4th review), body unchanged since 2026-06-02
+- **Medium issues addressed**: 1 — grounded three orphan References never cited inline (Rescher 2010, Kant 1781/1787, Siderits 2007); prior citation web-verify covered only the new Buddhist cites, so this survived 3 reviews. Added minimal natural inline anchors per §2.4 step 5 (ground-or-remove); all three real, correctly-cited, thematically load-bearing → grounded not removed.
+- **Citation web-verify**: body/References unchanged since 2026-06-02 — that per-cite ledger (Sharf, Katz, MMK/Garfield, Nishitani, Forman, Stace VERIFIED) carries forward. No superlative/empirical-currency claims (helper: none — pure conceptual philosophy). Newly-anchored Rescher/Kant/Siderits real + metadata-correct.
+- **Reasoning-mode**: Contextualist Worry = Mode One (internal rebuttal to Katz/Sharf); *Anātman* Tension = Mode Three (framework-boundary). No label leakage, no boundary-substitution.
+- **Calibration**: PASS — "methodological sanity-check, not proof"; no possibility/probability slippage.
+- **Enhancements made**: 1 (Kant now completes the Western cognitive-limits lineage between Cusanus and modern entries)
+- **Output**: [deep-review-2026-07-06-void-as-ground-of-meaning](/reviews/deep-review-2026-07-06-void-as-ground-of-meaning/)
+
+## 2026-07-06T18:42:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)
+- **Word count**: 2767 → 2777 (+10; under topics 3000 soft)
+- **Critical issues addressed**: 0 — converged article, byte-stable body since 2026-06-02 citation baseline
+- **Medium issues addressed**: 1 — removed banned "not X. It is Y." cliché from the Dualism section (survived 3 prior deep-reviews); rephrased to state the positive claim directly. Both timestamps bumped (real fix).
+- **Citation web-verify**: Leung et al. 2021 PLoS Comput Biol 17(2):e1008722 = real-correct (PLOS/PMC/FlyBase/ADS); Marshall & Oberwinkler 1999 Nature 401:873-874 = real-correct (prior pass, unchanged). NYD signatory count = currency-verified STILL 599 on live NYU page (no drift; stale third-party 480 is an earlier snapshot). Remaining 6 cites carry forward the 2026-06-02 publisher-of-record ledger (body byte-unchanged). Self-cite Oquatre-six left as-is (intentional opus-4-6 pseudonym).
+- **Calibration**: PASS — interface-test framing held as calibrated probe, no possibility/probability slippage; Mode Three engagements honest, no label leakage.
+- **Enhancements made**: 0 beyond the cliché rephrase
+- **Output**: [deep-review-2026-07-06-invertebrate-consciousness-as-interface-test](/reviews/deep-review-2026-07-06-invertebrate-consciousness-as-interface-test/)
+
+## 2026-07-06T18:37:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
+- **Word count**: 1861 → 1861 (no prose edits; last_deep_review timestamp bump only, ai_modified left at 2026-06-18)
+- **Critical issues addressed**: 0 (second review; converged at creation. Only change since 06-18 review was one Further Reading cross-link add + ai_modified bump — cosmetic re-qualification pattern)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — metadata-only no-op. Mode Three boundary-marking re-confirmed; no editor-label leakage (re-scanned); no possibility/probability slippage (exemplary Tenet-5 "argue-don't-assert" discipline intact)
+- **Citation web-verify**: References block unmodified since 06-18 full 11-cite publisher-of-record ledger (§2.4 stable-list skip); find_superlative_claims returned none
+- **Anti-churn**: last_deep_review (07-06) > ai_modified (06-18), so staleness selection should stop re-picking this converged article until content changes
+- **Output**: [deep-review-2026-07-06-affective-forecasting-gap](/reviews/deep-review-2026-07-06-affective-forecasting-gap/)
+
+## 2026-07-06T18:22:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [timing-gap-problem](/concepts/timing-gap-problem/)
+- **Word count**: 1489 → 1489 (no prose edits; last_deep_review timestamp bump only, ai_modified left at 2026-06-02)
+- **Critical issues addressed**: 0 (seventh review; fully converged since third. No commit touching the file since the 06-02 review; ai_modified == last_deep_review == 06-02 confirmed unchanged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — metadata-only no-op. Calibration read clean (all mechanism responses hedged as speculative; post-decoherence-selection falsifiability cost named; no possibility/probability slippage); attribution accurate; no boundary-substitution; no editor-label leakage (grep-checked)
+- **Citation web-verify**: content unmodified since 06-02 full web-verify (§2.4 stable-list skip); Perry 2025 + Denton 2024 confirmed-real carried forward; find_superlative_claims returned none
+- **Anti-churn**: last_deep_review > ai_modified now, so staleness selection should stop re-picking this converged article until content changes
+- **Output**: [deep-review-2026-07-06-timing-gap-problem](/reviews/deep-review-2026-07-06-timing-gap-problem/)
+
+## 2026-07-06T18:02:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
+- **Word count**: 2037 → 2037 (no prose edits; last_deep_review timestamp bump only, ai_modified left at 2026-06-02)
+- **Critical issues addressed**: 0 (fifth review; fully converged. Article unchanged on disk since 06-02 review commit dc976ecab — the only commit touching the file since the prior review)
+- **Medium issues addressed**: 0 (prior apophatic-approaches→apophatic-cartography repoint held; all 18 body wikilinks resolve live)
+- **Enhancements made**: 0 — convergence re-confirmation; editing an unchanged 5th-pass article would risk oscillation. Structural-claim register + Tenet-5-bet framing intact; no possibility/probability slippage; functionalist/HOT engagements argue in-framework (no boundary-substitution); no editor-label leakage
+- **Citation web-verify**: References block unmodified since last review (§2.4 stable-list skip); spot-verified McGinn 1989 Mind 98:349-366 = real-correct; find_superlative_claims returned none
+- **Output**: [deep-review-2026-07-06-intrinsic-nature-void](/reviews/deep-review-2026-07-06-intrinsic-nature-void/)
+
+## 2026-07-06T17:50:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Word count**: 3104 → 3104 (no prose edits; last_deep_review timestamp bump only, ai_modified left at 2026-06-01)
+- **Critical issues addressed**: 0 (seventh review; fully converged. Body unchanged since 06-01 review commit 2c8b0d68c — the only commit touching the file since the prior review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — convergence re-confirmation. All ~20 wikilinks + 2 self-and-self-consciousness anchors + 4 tenets block anchors + internal anchor resolve; four substantiality arguments correctly hedged (no possibility/probability slippage); single "emerges" applies to narrative self only (no emergentist drift); two low "not X. It is Y." instances deliberately preserved (no oscillation)
+- **Citation web-verify**: skipped-by-rule (References block unmodified since 06-01 full per-cite ledger; find_superlative_claims returned none)
+- **Output**: [deep-review-2026-07-06-the-self-minimal-narrative-and-substantial](/reviews/deep-review-2026-07-06-the-self-minimal-narrative-and-substantial/)
+
+## 2026-07-06T17:34:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [objections-to-interactionism](/concepts/objections-to-interactionism/)
+- **Word count**: 2903 → 2903 (no prose edits; last_deep_review timestamp bump only, ai_modified left at 2026-06-02)
+- **Critical issues addressed**: 0 (eighth review; fully converged. Body byte-identical to seventh review's verified state — no commit has touched the file since 06-02 review commit e94a2eca0)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — convergence re-confirmation. All 18 outbound wikilinks resolve; no label leakage; calibration ratings (in-framework vs framework-boundary) preserved exactly; no possibility/probability slippage
+- **Citation web-verify**: skipped-by-rule (References block unmodified since 06-02 full per-cite ledger; find_superlative_claims returned none)
+- **Output**: [deep-review-2026-07-06-objections-to-interactionism](/reviews/deep-review-2026-07-06-objections-to-interactionism/)
+
+## 2026-07-06T17:23:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Word count**: 2758 → 2758 (no prose edits; last_deep_review timestamp bump only, ai_modified left at 2026-04-29)
+- **Critical issues addressed**: 0 (seventh review; converged. Body byte-identical to sixth review's verified state — only commit since 06-01 is that review's own metadata commit d6a1cef93)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — convergence re-confirmation. All body wikilinks resolve to live content (no archival link-rot); calibration scrupulous (suspended position, self-application of recursive trap to Map's own tenets); no possibility/probability slippage
+- **Citation web-verify**: skipped-by-rule (References block unmodified since 06-01 full per-cite ledger; find_superlative_claims returned none)
+- **Output**: [deep-review-2026-07-06-meta-epistemology-of-limits](/reviews/deep-review-2026-07-06-meta-epistemology-of-limits/)
+
+## 2026-07-06T17:18:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [manyism](/concepts/manyism/)
+- **Word count**: 1621 → 1621 (no prose edits; timestamp bump only)
+- **Critical issues addressed**: 0 (second pass; converged. Prior 06-17 review declared "Remaining Items: None")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — new content since last review (06-19 MMI-distinction paragraph + two cross-links to open-individualism-and-the-de-combination-problem) verified clean: MMI characterization (continuum of minds, squared-amplitude distribution, single unbranching world, indexical objection scope) consistent with the Map's own topics/many-minds-interpretation.md; both new wikilinks resolve; no calibration slippage; "does bite against MMI" is scope-of-objection, not boundary-substitution
+- **Citation web-verify**: skipped-by-rule (References block unmodified since 06-17 full per-cite ledger; new paragraph introduces no new citations; find_superlative_claims returned none)
+- **Reasoning-mode (§2.6)**: Roelofs engagement Mixed (Mode Two intelligibility-burden + Mode Three boundary-marking), unchanged; new MMI-theorist boundary disagreement also honestly marked. No label leakage.
+- **Output**: [deep-review-2026-07-06-manyism](/reviews/deep-review-2026-07-06-manyism/)
+
+## 2026-07-06T17:08:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
+- **Word count**: 2724 → ~2735 (+11)
+- **Critical issues addressed**: 0 (tenth pass; body unchanged since ninth-pass convergence audit, full attribution/calibration/reasoning-mode audit carried forward clean)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — fired ninth-pass trigger (a): repointed the substantive PCT reference from `[[phenomenology-of-intellectual-life|Phenomenal Constitution Thesis]]` to the dedicated [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/) concept page (created 2026-06-26, after the last review); added it to `concepts:` frontmatter and Further Reading. Linkage now bidirectional.
+- **Citation web-verify**: skipped-by-rule (References block unmodified since prior clean per-cite ledger; `find_superlative_claims` returned none — no currency exposure)
+- **Reasoning-mode**: Duch engagement carried forward as Mixed (Mode Three-dominant + honest Mode Two probe); no label leakage, no boundary-substitution
+- **Output**: [deep-review-2026-07-06-cognitive-phenomenology-and-the-irreducibility-of-thought](/reviews/deep-review-2026-07-06-cognitive-phenomenology-and-the-irreducibility-of-thought/)
+
 ## 2026-07-06T16:29:04+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [transit-void](/voids/transit-void/) + [thought-stream-void](/voids/thought-stream-void/) (one fragmented idea: both carried a "Two Faces of the Same Void" section; shared Smallwood-Schooler probe evidence and the "before-and-after access, no in-flight access" thesis)

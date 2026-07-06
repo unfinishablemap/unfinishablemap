@@ -67,12 +67,12 @@ None. The article is clean after the previous review's corrections.
 - [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) (line 67: body text reference)
 - [necessary-opacity](/voids/necessary-opacity/) (line 69: body text reference)
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) (line 74: body text reference)
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) (line 78: body text reference)
+- [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) (line 78: body text reference)
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) (line 64: body text reference)
 
 ### Cross-links Added (outbound)
 - [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
+- [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/)
 
 ## Remaining Items
 

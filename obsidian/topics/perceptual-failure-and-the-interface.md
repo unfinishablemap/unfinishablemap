@@ -4,7 +4,7 @@ description: "Perceptual degradation reveals the consciousness-brain interface: 
 created: 2026-03-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-06-20T20:40:01+00:00
+ai_modified: 2026-07-06T20:50:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,6 @@ concepts:
   - "[[altered-states-of-consciousness]]"
   - "[[default-mode-network]]"
   - "[[causal-closure]]"
-  - "[[perceptual-degradation-and-the-interface]]"
   - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[consciousness-bandwidth-architecture]]"
 related_articles:
@@ -38,7 +37,6 @@ related_articles:
   - "[[visual-consciousness]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
-  - "[[perceptual-degradation-and-the-interface]]"
   - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[curated-mind]]"
   - "[[psychedelics-and-the-filter-model]]"
@@ -54,6 +52,7 @@ last_deep_review: 2026-06-20T20:40:01+00:00
 coalesced_from:
   - "/topics/perceptual-degradation-and-the-interface/"
   - "/topics/perceptual-fidelity-and-the-interface/"
+  - "/concepts/perceptual-degradation-and-the-interface/"
 ---
 
 The Unfinishable Map holds that consciousness operates through an interface with the physical brain—a structured connection where mind and matter meet. Normal perception conceals this interface: experience feels like direct contact with reality. But when perception fails—through blur, neural damage, or pharmacological disruption—the interface becomes visible. The way perception breaks down is diagnostic: just as stress-testing a bridge reveals its load-bearing architecture, degrading the perceptual system reveals the architecture of the consciousness-brain interface. The patterns of failure—graded rather than binary, selective rather than uniform, compensated rather than passive—point toward a bandwidth-limited transmission channel rather than a simple read-off of neural states. And the failures produce a paradox: the less faithfully experience tracks the external world, the more visible the interface becomes.
@@ -84,7 +83,7 @@ If consciousness merely *accessed* neural representations—reading them the way
 
 This is not what happens. Perceptual degradation is overwhelmingly graded, partial, and compensated. Vision blurs before it disappears. Colour desaturates before it vanishes. Object recognition degrades through stages of increasing vagueness rather than switching off. Ian Phillips has argued that even [[blindsight]]—long treated as the paradigm case of unconscious perception—may be better understood as "qualitatively degraded conscious vision" where subjects retain dim, impoverished experience but adopt conservative reporting criteria (Phillips, 2021). This reading is live and sharply contested—Michel and Lau (2021) pressed a direct rebuttal in the same journal issue (with Phillips's rejoinder following it), and Brogaard and Gatzia (2023) maintain that blindsight is genuinely unconscious perception. The argument does not require it: blindsight enters as one suggestive case among the graded-degradation phenomena, not a settled load-bearing premise.
 
-These patterns suggest a different model: consciousness receives perceptual information through a *transmission channel* with finite bandwidth. (The concept of [[perceptual-degradation-and-the-interface|perceptual degradation and the interface]] formalises these failure signatures.) When the channel degrades, information is progressively lost rather than categorically eliminated. The analogy is closer to a deteriorating radio signal than to a corrupted hard drive. Static increases, resolution drops, signal fades—but something continues to come through until the channel fails entirely.
+These patterns suggest a different model: consciousness receives perceptual information through a *transmission channel* with finite bandwidth. When the channel degrades, information is progressively lost rather than categorically eliminated. The analogy is closer to a deteriorating radio signal than to a corrupted hard drive. Static increases, resolution drops, signal fades—but something continues to come through until the channel fails entirely.
 
 ## Bandwidth Signatures
 
@@ -152,7 +151,6 @@ Where the multiplication is earned, if anywhere, is one level down—at the phen
 - [[visual-consciousness]]
 - [[consciousness-disruption-and-the-mind-brain-interface]]
 - [[hypnagogic-phenomenology-and-interface-modulation]]
-- [[perceptual-degradation-and-the-interface]]
 - [[selective-correction-and-reconstruction-paradox]]
 - [[consciousness-bandwidth-architecture]] — the asymmetric bandwidth framework formalising transmission capacity
 - [[psychedelics-and-the-filter-model]] — pharmacological case for filter theory invoked in Selective Preservation

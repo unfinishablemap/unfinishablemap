@@ -54,7 +54,7 @@ topics: []
 ### Cross-links Added
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) (replaced archived evolved-cognitive-limits)
 - [compound-failure-signatures](/voids/compound-failure-signatures/) (replaced archived topology-of-cognitive-failure)
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) (new, relevant to Hoffman's interface theory)
+- [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) (new, relevant to Hoffman's interface theory)
 
 ## Remaining Items
 

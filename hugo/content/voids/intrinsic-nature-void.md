@@ -21,7 +21,7 @@ description: Physics describes what matter does but not what it is. Consciousnes
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 07:24:27+00:00
+last_deep_review: 2026-07-06 18:02:54+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

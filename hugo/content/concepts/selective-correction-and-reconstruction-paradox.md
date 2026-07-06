@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-05-21 12:00:00+00:00
+ai_modified: 2026-07-06 20:50:45+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -37,7 +37,6 @@ related_articles:
 - '[[illusionism]]'
 - '[[epiphenomenalism]]'
 - '[[perceptual-failure-and-the-interface]]'
-- '[[perceptual-degradation-and-the-interface]]'
 - '[[blindsight]]'
 - '[[curated-mind]]'
 title: Selective Correction and the Reconstruction Paradox
@@ -58,7 +57,7 @@ Colour constancy, size constancy, temporal binding, and motion interpolation fol
 
 ## What Passes Through
 
-Certain degradations bypass this editing process entirely. Optical blur from uncorrected vision reaches awareness exactly as the retina registers it — and as the [blur paradox](/topics/perceptual-failure-and-the-interface/) reveals, this degraded signal generates novel phenomenal qualities (the texture of blur, the softness of haziness) that belong to the experience rather than the external scene. No sharpening occurs despite the brain's sophisticated edge-detection machinery. Tinnitus presents a persistent neural signal the brain does not suppress even after years. Visual floaters cast real shadows on the retina, and consciousness sees them faithfully. [Perceptual degradation](/concepts/perceptual-degradation-and-the-interface/) operates primarily in this mode: blur, desaturation, and noise are faithfully transmitted rather than corrected, producing failure signatures that reveal the interface's bandwidth architecture.
+Certain degradations bypass this editing process entirely. Optical blur from uncorrected vision reaches awareness exactly as the retina registers it — and as the [blur paradox](/topics/perceptual-failure-and-the-interface/) reveals, this degraded signal generates novel phenomenal qualities (the texture of blur, the softness of haziness) that belong to the experience rather than the external scene. No sharpening occurs despite the brain's sophisticated edge-detection machinery. Tinnitus presents a persistent neural signal the brain does not suppress even after years. Visual floaters cast real shadows on the retina, and consciousness sees them faithfully. [Perceptual degradation](/topics/perceptual-failure-and-the-interface/) operates primarily in this mode: blur, desaturation, and noise are faithfully transmitted rather than corrected, producing failure signatures that reveal the interface's bandwidth architecture.
 
 The most revealing cases are cognitively impenetrable illusions. The Müller-Lyer illusion — lines of equal length appearing unequal — persists even when the observer knows with certainty that the lines are equal. Fodor (1983) called this *informational encapsulation*; Pylyshyn (1984) termed the closely related phenomenon *cognitive impenetrability*. Both recognised the same core fact: perceptual modules process input using only their own internal resources, deaf to corrections from higher cognition. The conscious mind knows the truth and cannot make itself see it.
 
@@ -120,8 +119,7 @@ Cognitive impenetrability is closely related to [phenomenal transparency](/conce
 
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The general framework for conscious selection at the neural level
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why the construction is invisible to consciousness
-- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — The four failure signatures of faithful transmission
+- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface: the four failure signatures of faithful transmission
 - [filter-theory](/concepts/filter-theory/) — Consciousness as filter rather than generator
 - [blindsight](/concepts/blindsight/) — Visual processing without conscious transmission
 - [dualist-perception](/topics/dualist-perception/) — How perception provides evidence for dualist frameworks

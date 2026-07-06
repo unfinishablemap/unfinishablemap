@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-17 (c)
 # Pessimistic Review
 
 **Date**: 2026-04-17 16:48 UTC
-**Content reviewed**: [topics/consciousness-interface-development.md](/topics/consciousness-interface-development/), [concepts/perceptual-degradation-and-the-interface.md](/concepts/perceptual-degradation-and-the-interface/), [voids/apophatic-cartography.md](/voids/apophatic-cartography/)
+**Content reviewed**: [topics/consciousness-interface-development.md](/topics/consciousness-interface-development/), [concepts/perceptual-degradation-and-the-interface.md](/topics/perceptual-failure-and-the-interface/), [voids/apophatic-cartography.md](/voids/apophatic-cartography/)
 
 ## Executive Summary
 
@@ -70,7 +70,7 @@ The development article's "same irreducible consciousness" persisting across sta
 
 ### Issue 2: Anaesthesia "dissociation" is asserted as categorical, but the empirical picture is graded
 
-- **File**: [concepts/perceptual-degradation-and-the-interface.md](/concepts/perceptual-degradation-and-the-interface/)
+- **File**: [concepts/perceptual-degradation-and-the-interface.md](/topics/perceptual-failure-and-the-interface/)
 - **Location**: §"The Anaesthesia Dissociation"
 - **Problem**: "Not gradual degradation but apparent disconnection" overstates the empirical case. Anaesthesia is titratable; sedation, dissociation, and surgical anaesthesia form a continuum of phenomenal states with documented partial-awareness phenomena (intraoperative awareness, dexmedetomidine sedation phenomenology, ketamine-induced dissociation). The argument needs a cleaner categorical break than the literature provides.
 - **Severity**: High (one of four supposedly converging signatures)
@@ -94,7 +94,7 @@ The development article's "same irreducible consciousness" persisting across sta
 
 ### Issue 5: Quantum mechanism claims are quantitatively empty
 
-- **File**: [concepts/perceptual-degradation-and-the-interface.md](/concepts/perceptual-degradation-and-the-interface/) and [topics/consciousness-interface-development.md](/topics/consciousness-interface-development/)
+- **File**: [concepts/perceptual-degradation-and-the-interface.md](/topics/perceptual-failure-and-the-interface/) and [topics/consciousness-interface-development.md](/topics/consciousness-interface-development/)
 - **Location**: §"Minimal Quantum Interaction" sections in both
 - **Problem**: Both articles invoke quantum selection sites and bandwidth ceilings without any commitment to magnitudes, timescales, or candidate physical mechanisms. The Tegmark decoherence objection is not engaged. "Interface friction" is a metaphor where a calculation is needed.
 - **Severity**: Medium (consistent with Map's general softness here, but worth flagging)

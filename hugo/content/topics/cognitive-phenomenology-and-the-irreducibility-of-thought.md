@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-06-02 09:15:00+00:00
+ai_modified: 2026-07-06 17:08:27+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
+- '[[phenomenal-constitution-thesis]]'
 - '[[phenomenology]]'
 - '[[intentionality]]'
 - '[[qualia]]'
@@ -32,7 +33,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/w-S0oHEGOGY
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 09:15:00+00:00
+last_deep_review: 2026-07-06 17:08:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +97,7 @@ The [self-stultification argument](/topics/self-stultification-as-master-argumen
 
 Cognitive phenomenology connects to a deeper issue: what makes thoughts *about* anything at all? The phenomenal intentionality thesis holds that genuine [intentionality](/concepts/intentionality/) — the "aboutness" of mental states — derives from phenomenal consciousness.
 
-The [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/) (PCT) takes this further: meaning is *constituted* by phenomenal character rather than merely accompanied by it. On the liberal reading the Map adopts, the "click" of understanding — the felt difference between grasping a concept and merely processing its definition — constitutes comprehension; conservatives redescribe the same event as a high-confidence transition in a precision-weighted predictive coder. If cognitive phenomenology exists and grounds intentionality (the PCT route), then the content of thought is determined by phenomenal character, not by functional role or causal covariance. What makes your thought about *rabbits* rather than *undetached rabbit parts* is the distinctive phenomenal character of thinking about rabbits — a qualitative difference no functional description captures. (PCT is contested even among cognitive-phenomenology liberals — Chudnoff (2015) distinguishes accompanying from constituting; weaker liberalisms leave content-determinacy to non-phenomenal machinery. The Map adopts PCT abductively, so the rabbits/undetached-rabbit-parts conclusion and the symbol-grounding application below are conditional on it.)
+The [Phenomenal Constitution Thesis](/concepts/phenomenal-constitution-thesis/) (PCT) takes this further: meaning is *constituted* by phenomenal character rather than merely accompanied by it. On the liberal reading the Map adopts, the "click" of understanding — the felt difference between grasping a concept and merely processing its definition — constitutes comprehension; conservatives redescribe the same event as a high-confidence transition in a precision-weighted predictive coder. If cognitive phenomenology exists and grounds intentionality (the PCT route), then the content of thought is determined by phenomenal character, not by functional role or causal covariance. What makes your thought about *rabbits* rather than *undetached rabbit parts* is the distinctive phenomenal character of thinking about rabbits — a qualitative difference no functional description captures. (PCT is contested even among cognitive-phenomenology liberals — Chudnoff (2015) distinguishes accompanying from constituting; weaker liberalisms leave content-determinacy to non-phenomenal machinery. The Map adopts PCT abductively, so the rabbits/undetached-rabbit-parts conclusion and the symbol-grounding application below are conditional on it.)
 
 This has a consequence that materialists rarely confront directly. If intentionality requires phenomenal consciousness, and phenomenal consciousness is irreducible, then *meaning itself* is irreducible to the physical. The aboutness of thought — the fact that your mental states point beyond themselves to objects, properties, and states of affairs — cannot be captured by any arrangement of non-conscious matter, however complex. This conclusion echoes from an unexpected direction: [pragmatism arrives at the same result](/topics/pragmatisms-path-to-dualism/) when applied reflexively, since evaluating whether a framework "works" requires the very cognitive phenomenology materialism cannot accommodate.
 
@@ -139,6 +140,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 ## Further Reading
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate: liberalism versus conservatism on the phenomenal character of thought
+- [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/) — The Map's house term for the constitution (not mere accompaniment) claim this article's intentionality argument rests on
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Five modes of phenomenal meaning
 - [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) — The felt texture of cognitive work
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — The normative gap: why logical "ought" requires conscious minds

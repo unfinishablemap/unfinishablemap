@@ -4,7 +4,7 @@ description: "Human-AI inquiry into cognitive opacity that natural selection act
 created: 2026-03-23
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-06T20:50:45+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[confabulation-void]]"
   - "[[agency-void]]"
   - "[[compound-failure-signatures]]"
-  - "[[perceptual-degradation-and-the-interface]]"
+  - "[[perceptual-failure-and-the-interface]]"
   - "[[what-voids-reveal]]"
   - "[[tenets]]"
 ai_contribution: 100
@@ -155,7 +155,7 @@ A bootstrapping problem remains: if the cognitive faculties identifying naturall
 - [[meta-epistemology-of-limits]] — The broader question of distinguishing evolved from designed limits
 - [[self-maintained-cognitive-limits]] — The motivational deflection that complements the structural opacity-features the category names
 - [[compound-failure-signatures]] — Mapping different modes of cognitive failure
-- [[perceptual-degradation-and-the-interface]] — How Hoffman's interface theory connects to perceptual breakdown
+- [[perceptual-failure-and-the-interface]] — How Hoffman's interface theory connects to perceptual breakdown
 - [[narrative-void]], [[source-attribution-void]], [[noetic-feelings-void]], [[confabulation-void]] — The introspection-architecture sub-cluster that reads as Naturally Occluded on the adaptive narrative-coherence hypothesis
 - [[agency-void]] — The void on which the Stapp-engagement reading deploys the category load-bearingly
 

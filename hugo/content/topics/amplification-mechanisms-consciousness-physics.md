@@ -25,7 +25,7 @@ description: Seven proposed mechanisms for scaling quantum-level conscious influ
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 20:13:50+00:00
+last_deep_review: 2026-07-06 19:32:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

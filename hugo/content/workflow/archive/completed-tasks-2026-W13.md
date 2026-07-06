@@ -1706,7 +1706,7 @@ Research completed in research/clinical-neuroplasticity-bidirectional-causation-
 
 ### ✓ 2026-03-23: Cross-review articles considering perceptual-degradation-and-the-interface.md
 - **Type**: cross-review
-- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md created 2026-03-23 via expand-topic. Review related articles for cross-linking: perception.md, selective-correction-and-reconstruction-paradox.md, perceptual-fidelity-and-the-interface.md, filter-theory.md, sensorimotor-contingencies-and-the-interface.md. Add [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) references where relevant.
+- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md created 2026-03-23 via expand-topic. Review related articles for cross-linking: perception.md, selective-correction-and-reconstruction-paradox.md, perceptual-fidelity-and-the-interface.md, filter-theory.md, sensorimotor-contingencies-and-the-interface.md. Add [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) references where relevant.
 - **Output**: obsidian/concepts/perceptual-degradation-and-the-interface.md -- Context: Cross-review articles considering perceptual-degradation-and-the-interface.md
 
 ### ✓ 2026-03-23: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness

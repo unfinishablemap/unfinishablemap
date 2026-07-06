@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-06 20:50:45+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,6 @@ related_articles:
 - '[[knowledge-argument]]'
 - '[[consciousness-as-perceptual-architect]]'
 - '[[perceptual-failure-and-the-interface]]'
-- '[[perceptual-degradation-and-the-interface]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[phenomenal-transparency-opacity-spectrum]]'
@@ -77,7 +76,7 @@ The strongest evidence that perception involves something beyond neural processi
 
 **Inattentional blindness** — failing to notice a gorilla walking through a basketball game — shows that retinal processing can be complete while conscious perception is absent (Simons & Chabris, 1999), though debates over [phenomenal-overflow](/concepts/phenomenal-overflow/) complicate the interpretation: viewers may experience more than they can simultaneously report, leaving open whether the gorilla was unseen or merely uncatalogued. Conversely, **lucid dreaming** demonstrates vivid perceptual experience largely decoupled from external sensory input. Processing without experience and experience without external sensory input establish that these are separable capabilities.
 
-**[Perceptual degradation](/concepts/perceptual-degradation-and-the-interface/)** reveals the interface from a different angle. When perception fails — through blur, neural damage, or pharmacological disruption — novel phenomenal properties emerge (the texture of haziness, the softness of degraded vision) that belong to the experiencing subject, not to external objects. The pattern of failure exhibits four signatures — graceful degradation, priority preservation, compensatory generation, and the anaesthesia dissociation — that collectively point toward a bandwidth-limited transmission channel connecting consciousness and the brain rather than an identity between them.
+**[Perceptual degradation](/topics/perceptual-failure-and-the-interface/)** reveals the interface from a different angle. When perception fails — through blur, neural damage, or pharmacological disruption — novel phenomenal properties emerge (the texture of haziness, the softness of degraded vision) that belong to the experiencing subject, not to external objects. The pattern of failure exhibits four signatures — graceful degradation, priority preservation, compensatory generation, and the anaesthesia dissociation — that collectively point toward a bandwidth-limited transmission channel connecting consciousness and the brain rather than an identity between them.
 
 **Bistable percepts** like the Necker cube add a third dimension: the same physical stimulus supports multiple perceptual interpretations, and consciousness alternates between them in ways that voluntary [attention](/concepts/attention-as-interface/) can bias. [predictive-processing](/concepts/predictive-processing/) accounts (Hohwy, Clark) explain the spontaneous switching well, through precision-weighting and active inference — the system resolving high model-uncertainty by sampling alternative hypotheses. Active inference is not passive, so the residual disagreement is narrower than it first appears: it concerns *voluntary* top-down biasing of which interpretation holds, where consciousness participates in determining *which* perception occurs in a way that may exceed what priors alone supply.
 
@@ -113,8 +112,7 @@ Perception is where the Map's [tenets](/tenets/) find their most concrete applic
 - [blindsight](/concepts/blindsight/) — The landmark dissociation between processing and experience
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — When experience outruns cognitive access
 - [filter-theory](/concepts/filter-theory/) — The brain as interface rather than generator
-- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — The four failure signatures as evidence for a transmission channel
+- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface: the four failure signatures as evidence for a transmission channel
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — Asymmetric perceptual editing as evidence of a conscious recipient
 - [predictive-processing](/concepts/predictive-processing/) — Perception as hierarchical Bayesian inference
 - [predictive-construction-void](/voids/predictive-construction-void/) — Why the boundary between what perception constructs and what it receives is structurally unknowable

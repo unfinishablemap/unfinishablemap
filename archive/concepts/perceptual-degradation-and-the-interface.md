@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-06-01T18:44:10+00:00
 last_deep_review: 2026-06-01T18:44:10+00:00
 draft: false
+archived: true
+archived_date: 2026-07-06T20:50:45+00:00
+superseded_by: "/topics/perceptual-failure-and-the-interface/"
+archive_reason: "Coalesced into Perceptual Failure and the Interface (concepts-namespace duplicate of the already-coalesced topics article)"
+original_path: "/concepts/perceptual-degradation-and-the-interface/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[dualist-perception]]"

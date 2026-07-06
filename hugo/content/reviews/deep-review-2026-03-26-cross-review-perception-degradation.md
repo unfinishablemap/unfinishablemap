@@ -18,12 +18,12 @@ topics: []
 
 **Date**: 2026-03-26
 **Type**: Cross-review
-**Trigger**: [Perceptual Degradation and the Interface](/concepts/perceptual-degradation-and-the-interface/)
+**Trigger**: [Perceptual Degradation and the Interface](/topics/perceptual-failure-and-the-interface/)
 **Articles reviewed**: [perception](/concepts/perception/), [dualist-perception](/topics/dualist-perception/), [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/), [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/)
 
 ## Cross-Review Purpose
 
-The concept article [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) provides a focused treatment of four failure signatures (graceful degradation, priority preservation, compensatory generation, anaesthesia dissociation) as evidence for a bandwidth-limited consciousness-brain interface. This cross-review ensures related perception articles properly reference and integrate this concept.
+The concept article [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) provides a focused treatment of four failure signatures (graceful degradation, priority preservation, compensatory generation, anaesthesia dissociation) as evidence for a bandwidth-limited consciousness-brain interface. This cross-review ensures related perception articles properly reference and integrate this concept.
 
 ## Articles Reviewed
 
@@ -57,7 +57,7 @@ The concept article [perceptual-degradation-and-the-interface](/concepts/percept
 Connection to perceptual degradation is too tenuous. Moral blindness is explored as a perceptual failure but operates at a different level (evaluative rather than sensory). No changes warranted.
 
 ### perceptual-failure-and-the-interface.md
-Already extensively cross-linked with the concept article — it references [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) in both body text and frontmatter. No changes needed.
+Already extensively cross-linked with the concept article — it references [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) in both body text and frontmatter. No changes needed.
 
 ## Consistency Check
 

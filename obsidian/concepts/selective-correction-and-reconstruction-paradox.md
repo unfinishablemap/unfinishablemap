@@ -4,7 +4,7 @@ description: "The brain handles sensory signals in three modes—silent correcti
 created: 2026-03-12
 modified: 2026-05-21
 human_modified:
-ai_modified: 2026-05-21T12:00:00+00:00
+ai_modified: 2026-07-06T20:50:45+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -27,7 +27,6 @@ related_articles:
   - "[[illusionism]]"
   - "[[epiphenomenalism]]"
   - "[[perceptual-failure-and-the-interface]]"
-  - "[[perceptual-degradation-and-the-interface]]"
   - "[[blindsight]]"
   - "[[curated-mind]]"
 ai_contribution: 100
@@ -55,7 +54,7 @@ Colour constancy, size constancy, temporal binding, and motion interpolation fol
 
 ## What Passes Through
 
-Certain degradations bypass this editing process entirely. Optical blur from uncorrected vision reaches awareness exactly as the retina registers it — and as the [[perceptual-failure-and-the-interface|blur paradox]] reveals, this degraded signal generates novel phenomenal qualities (the texture of blur, the softness of haziness) that belong to the experience rather than the external scene. No sharpening occurs despite the brain's sophisticated edge-detection machinery. Tinnitus presents a persistent neural signal the brain does not suppress even after years. Visual floaters cast real shadows on the retina, and consciousness sees them faithfully. [[perceptual-degradation-and-the-interface|Perceptual degradation]] operates primarily in this mode: blur, desaturation, and noise are faithfully transmitted rather than corrected, producing failure signatures that reveal the interface's bandwidth architecture.
+Certain degradations bypass this editing process entirely. Optical blur from uncorrected vision reaches awareness exactly as the retina registers it — and as the [[perceptual-failure-and-the-interface|blur paradox]] reveals, this degraded signal generates novel phenomenal qualities (the texture of blur, the softness of haziness) that belong to the experience rather than the external scene. No sharpening occurs despite the brain's sophisticated edge-detection machinery. Tinnitus presents a persistent neural signal the brain does not suppress even after years. Visual floaters cast real shadows on the retina, and consciousness sees them faithfully. [[perceptual-failure-and-the-interface|Perceptual degradation]] operates primarily in this mode: blur, desaturation, and noise are faithfully transmitted rather than corrected, producing failure signatures that reveal the interface's bandwidth architecture.
 
 The most revealing cases are cognitively impenetrable illusions. The Müller-Lyer illusion — lines of equal length appearing unequal — persists even when the observer knows with certainty that the lines are equal. Fodor (1983) called this *informational encapsulation*; Pylyshyn (1984) termed the closely related phenomenon *cognitive impenetrability*. Both recognised the same core fact: perceptual modules process input using only their own internal resources, deaf to corrections from higher cognition. The conscious mind knows the truth and cannot make itself see it.
 
@@ -117,8 +116,7 @@ Cognitive impenetrability is closely related to [[phenomenal-transparency-opacit
 
 - [[consciousness-selecting-neural-patterns]] — The general framework for conscious selection at the neural level
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why the construction is invisible to consciousness
-- [[perceptual-failure-and-the-interface]] — What degraded perception reveals about the interface
-- [[perceptual-degradation-and-the-interface]] — The four failure signatures of faithful transmission
+- [[perceptual-failure-and-the-interface]] — What degraded perception reveals about the interface: the four failure signatures of faithful transmission
 - [[filter-theory]] — Consciousness as filter rather than generator
 - [[blindsight]] — Visual processing without conscious transmission
 - [[dualist-perception]] — How perception provides evidence for dualist frameworks

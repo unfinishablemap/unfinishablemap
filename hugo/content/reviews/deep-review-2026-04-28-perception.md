@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Third review, conducted 36 days after the second. Since the previous review, the article gained a new paragraph on perceptual degradation (linking to [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)) and updated wikilinks from coalesce/rename operations. Article is at 61% of soft threshold (1530/2500 words) — well below capacity.
+Third review, conducted 36 days after the second. Since the previous review, the article gained a new paragraph on perceptual degradation (linking to [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/)) and updated wikilinks from coalesce/rename operations. Article is at 61% of soft threshold (1530/2500 words) — well below capacity.
 
 ## Pessimistic Analysis Summary
 

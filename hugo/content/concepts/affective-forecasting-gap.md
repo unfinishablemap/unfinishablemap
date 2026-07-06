@@ -13,7 +13,7 @@ description: If felt value selects outcomes, which valence does the work—the a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 10:19:38+00:00
+last_deep_review: 2026-07-06 18:37:14+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'

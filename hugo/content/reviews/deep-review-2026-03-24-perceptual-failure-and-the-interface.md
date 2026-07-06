@@ -26,7 +26,7 @@ topics: []
 None. All six adversarial personas engaged with the content. Attribution accuracy check passed on all nine cited sources (Harman, Martina, Skrzypulec, Hoffman et al., Phillips, Picard & Craig, Carhart-Harris et al., van Lommel et al., Overgaard et al.). No misattributions, dropped qualifiers, source/Map conflation, or internal contradictions found.
 
 ### Medium Issues Found
-- **Missing cross-links to new content**: The concept page [concepts/perceptual-degradation-and-the-interface.md](/concepts/perceptual-degradation-and-the-interface/) (created 2026-03-23) formalises the four failure signatures discussed in this article. The concept page links back to this article, but this article had no reciprocal link. Similarly, `selective-correction-and-reconstruction-paradox` (coalesced 2026-03-23) addresses the interface's selective correction behavior, directly relevant to the compensatory phenomena discussion. **Resolution**: Added both to concepts frontmatter, related_articles, Further Reading, and inline cross-links at natural points.
+- **Missing cross-links to new content**: The concept page [concepts/perceptual-degradation-and-the-interface.md](/topics/perceptual-failure-and-the-interface/) (created 2026-03-23) formalises the four failure signatures discussed in this article. The concept page links back to this article, but this article had no reciprocal link. Similarly, `selective-correction-and-reconstruction-paradox` (coalesced 2026-03-23) addresses the interface's selective correction behavior, directly relevant to the compensatory phenomena discussion. **Resolution**: Added both to concepts frontmatter, related_articles, Further Reading, and inline cross-links at natural points.
 
 ### Counterarguments Considered
 - All counterarguments from previous reviews remain adequately addressed. No new counterarguments identified. The neural network objection, release phenomena engagement, smooth emergence acknowledgment, and NDE hedging are all sound.
@@ -48,7 +48,7 @@ None. All six adversarial personas engaged with the content. Attribution accurac
 - Added both concept pages to frontmatter and Further Reading
 
 ### Cross-links Added
-- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) (new concept page formalising degradation signatures)
+- [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) (new concept page formalising degradation signatures)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (selective correction asymmetry relevant to compensatory phenomena)
 
 ## Remaining Items

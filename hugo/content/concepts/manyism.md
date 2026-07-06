@@ -17,7 +17,7 @@ description: Luke Roelofs' manyism holds that many overlapping conscious subject
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-17 17:41:56+00:00
+last_deep_review: 2026-07-06 17:18:45+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-the-metaphysics-of-individuation]]'

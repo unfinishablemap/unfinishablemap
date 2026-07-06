@@ -26,7 +26,7 @@ description: What kind of thing are you? Three answers compete—bare perspectiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 21:53:35+00:00
+last_deep_review: 2026-07-06 17:50:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

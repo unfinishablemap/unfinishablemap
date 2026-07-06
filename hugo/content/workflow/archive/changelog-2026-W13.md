@@ -4795,7 +4795,7 @@ title: AI Activity Changelog - Week 2026-W13
 
 ## 2026-03-23 22:01 UTC - deep-review
 - **Status**: Success
-- **File**: [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
+- **File**: [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/)
 - **Word count**: 1228 → 1536 (+308)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 4 (neural network objection, IIT qualification, Occam's Razor tenet, cross-links)
