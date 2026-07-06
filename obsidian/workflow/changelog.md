@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T21:32:32+00:00 - deep-review
+- **Status**: Success (content-verification pass — post-06-26 apex-evolve content verified)
+- **File**: [[apex/consciousness-and-agency]]
+- **Word count**: 4458 → 4458 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Article content-edited 2026-06-26 (apex-evolve a3831aff8, +17/-21) introducing THREE fresh citations but last_deep_review never bumped → unverified. Web-verified all three at publisher of record: Babcock et al. 2024 (J Phys Chem B 128(17):4035–4046, DOI 10.1021/acs.jpcb.3c07936) real-correct; Khan et al. 2024 (eNeuro 11(8), ENEURO.0291-24.2024) real-correct; Cucu & Pitts 2019 (Mind and Matter 17(1):95–121) real-correct. Currency sweep clean (quantum-bio claims hedged as lab/behavioural, not in-brain coherence). Noether-conservation framed as defeater-removal not positive claim; type-token = argued commitment; evidential-status discipline honoured. No cliché; no stale internal-quote; no label leakage. Engagement modes: compatibilism Mode Two→Mixed, Kim Mode Two, MWI Mode Three. Metadata-only verdict: bumped last_deep_review, left ai_modified at 2026-06-26 (no content edit needed).
+- **Output**: [[reviews/deep-review-2026-07-06-consciousness-and-agency]]
+
 ## 2026-07-06T21:27:28+00:00 - deep-review
 - **Status**: Success (no-op convergence pass)
 - **File**: [[concepts/naturally-occluded]]
