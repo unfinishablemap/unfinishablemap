@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T19:10:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/indigenous-australian-philosophy-of-consciousness]]
+- **Original score**: n/a (pessimistic-review-driven surgical pass, not curate.py review)
+- **Changes**: Addressed pessimistic-2026-07-06-indigenous-australian-philosophy, three fixes, length-neutral, no restructure. (1) Interpretive equivocation [core]: split the ethical vs metaphysical readings of Graham's "not explained in reductionist materialist terms" in "Where it converges" — metaphysical anti-physicalism marked as a non-Indigenous overlay, downgraded to "ethical resonance that does not by itself bear on the metaphysical question"; softened the located-self "This is a metaphysical claim, not merely an ethical one" hinge to flag the interpretive choice rather than assert it (per evidential-status-discipline). (2) Overstatement: qualified "on every reading surveyed here, refuses reductive physicalism" — convergence now holds only for the metaphysical readings; the ethical-relational reading is silent on/compatible with physicalism. (3) Attribution WEB-VERIFIED: the Graham "matter of degree... not a dualism... not ontologically distinct" quote VERIFIES verbatim in Graham's Parrhesia 37 (2023) paper (ref 1) — reviewer's secondary-gloss suspicion was a false positive (citation-verify-false-negative cuts both ways); left as Graham's, tightened "Nor is it a dualism" → source's actual "it is not a dualism". Graham "I am located" + Mathews "primordial... single mode" quotes left untouched (verify verbatim). Rephrased two "not X but Y" constructs. Preserved appropriation/generalisation cautions, attribution-asymmetry honesty, Dreaming≠dream-sleep discipline.
+- **Published**: yes
+
 ## 2026-07-06T19:03:28+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/indigenous-australian-philosophy-of-consciousness.md (fresh create 2026-07-06). Found interpretive equivocation (ethics/Law material recruited as metaphysical anti-physicalist evidence for Tenet 1), a self-contradicted "every reading refuses physicalism" overstatement, and an attribution risk on the Graham "not a dualism" quote cluster (possible secondary-commentary gloss). Two load-bearing quotes verified verbatim. Queued P2 refine-draft.
