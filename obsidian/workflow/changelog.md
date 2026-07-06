@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T22:03:17+00:00 - deep-review
+- **Status**: Success (real fix — COGITATE reference wrong-first-author corrected)
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Word count**: 3353 → 3353 (±0, metadata-only)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-07-06-neural-correlates-of-consciousness]]
+- **Notes**: Ninth review. Changed-since-review drift (last_deep_review 06-02, ai_modified 06-07) from two refine-drafts — both scrutinised specifically and found calibration-POSITIVE, defect-free: (1) bec68f9ad replaced a blanket "every NCC study presupposes report" overclaim with a graded six-item report-dependence taxonomy (all methodological examples accurate: binocular-rivalry/Sperling/OKN-pupillometry no-report/PCI-command-following/IIT-Φ); (2) 610f3f756 added a datum-vs-artefact hedge crediting the Type-A physicalist and marking the datum reading as a *posited stance* (anti-slippage). §2.4 web-verify re-checked the task-flagged COGITATE cite at publisher of record: *Nature* 642(8066):133-142, 30 Apr 2025, DOI 10.1038/s41586-025-08888-1 (PubMed 40307561). Title/venue/"decidedly mixed" framing faithful, BUT References entry mis-attributed first authorship to "Melloni, L." — leading authors are Ferrante & Gorska-Klimowska (Melloni is senior/corresponding). Fixed to consortium-paper form + volume/pages/URL. Currency sweep: "largest adversarial collaboration" still holds Jul-2026; mixed verdict not overturned. Prior-review verifications (Santander PNAS, Kuhn >200, Koch quote/2016) untouched, still valid. Evidential-status Tenet-1 correlate≠cause calibration intact; no cliché; cross-links live. Bumped both ai_modified and last_deep_review.
+- **Engagement modes** (editor-internal): report-dependence section — Mode Three (boundary-marking, concedes graded/indirect dependence); datum-vs-artefact — Mode Three (datum reading declared posited stance, not physicalist concession).
+
 ## 2026-07-06T21:42:21+00:00 - deep-review
 - **Status**: Success (real fix — wrong-venue citation corrected)
 - **File**: [[topics/aphantasia]]

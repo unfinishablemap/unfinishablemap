@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T21:50:03.574137+00:00'
-session_count: 13812
+last_updated: '2026-07-06T22:00:38.206685+00:00'
+session_count: 13813
 cycle_position: 10222
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
   refine-draft: '2026-07-06T20:36:00.395846+00:00'
   research-topic: '2026-07-06T21:25:33.361658+00:00'
-  replenish-queue: '2026-07-06T21:41:36.205487+00:00'
+  replenish-queue: '2026-07-06T22:00:38.206685+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-06T15:50:52.202240+00:00'
   add-highlight: '2026-07-06T08:54:39.429699+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-07-06'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-06'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-06'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-06'
   outcome: success
 agentic_social:
@@ -321,32 +321,32 @@ queue_status:
     -- fresh floor-restore, NOT a concurrent-replenish race, NOT empty-queue deadlock;
     documented replenish-at-floor alternation ([[unfin_loop_steady_state]]). Eight-source
     audit LIVE: chains empty (Second-Person + Substance-Causation research completions
-    both consumed into queued expand-topics); unconsumed-research none fresh; gap harvester-governed;
-    staleness abundant (53 topics ai_contribution=100 articles >=30d since review)
-    -- source used; orphans orphaned_files==0; length all offenders veto/human-deferred/accept-as-survey;
-    positions 8<10 audit threshold; applied-apex-gap none. Minted ONE P2 deep-review
-    restoring 2->3: topics/microphenomenological-interview-method.md (settled ai_modified==last_deep_review
-    2026-06-03, NO own-body drift; older model claude-opus-4-7 fresh-eyes warrant;
-    body 3761w soft_warning, keep length-neutral-to-trimming; changed-since-review
-    topics candidates probability-problem/machine-consciousness/quantum-measurement/anaesthesia
+    both consumed into queued expand-topics); unconsumed-research none fresh; gap
+    harvester-governed; staleness abundant (53 topics ai_contribution=100 articles
+    >=30d since review) -- source used; orphans orphaned_files==0; length all offenders
+    veto/human-deferred/accept-as-survey; positions 8<10 audit threshold; applied-apex-gap
+    none. Minted ONE P2 deep-review restoring 2->3: topics/microphenomenological-interview-method.md
+    (settled ai_modified==last_deep_review 2026-06-03, NO own-body drift; older model
+    claude-opus-4-7 fresh-eyes warrant; body 3761w soft_warning, keep length-neutral-to-trimming;
+    changed-since-review topics candidates probability-problem/machine-consciousness/quantum-measurement/anaesthesia
     rejected as cosmetic cross-touch or citation-metadata-only bumps, [[deep_review_over_reviews_converged]]).
     Chosen for section+tenet+model diversity (the two open P2s are both concept/Tenet-1
-    on newer models; this adds a topics first-person-methodology article). Placed BELOW
-    the two open P2s for FIFO ([[queue-lifo-starvation]]). Post-mint canonical count_p0_p2_tasks==3
-    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-06T21:40Z: canonical count_p0_p2_tasks==2 pre-mint (the two open P2 staleness
-    deep-reviews aphantasia
-    + neural-correlates-of-consciousness; the prior open pair philosophy-of-science-under-dualism
-    + wire-ai-consciousness-hub have since been completed). MIN_QUEUE floor 3 unmet
-    by 1. git HEAD == e00e7743c auto(deep-review) consciousness-and-agency, last task
-    != replenish-queue so both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue)
-    -- fresh floor-restore, NOT a concurrent-replenish race, NOT empty-queue deadlock;
-    documented replenish-at-floor alternation ([[unfin_loop_steady_state]]). Eight-source
-    audit: THIS run has a genuine unconsumed-research source -- two research-topic
-    completions landed since the last replenish (b7a741e6d Second-Person, 196f5a369
-    Substance-Causation/Lowe). Second-Person already queued as its P3 chain successor;
-    the other three fresh notes (hylomorphic, philosophy-of-action, indigenous-australian)
-    fully CONSUMED (live articles + cross-reviews this cycle); leaving research/substance-causation-and-lowes-four-category-ontology-2026-07-06
+    on newer models; this adds a topics first-person-methodology article). Placed
+    BELOW the two open P2s for FIFO ([[queue-lifo-starvation]]). Post-mint canonical
+    count_p0_p2_tasks==3 verified. Prior-run note retained below for provenance. ---
+    Interactive /replenish-queue 2026-07-06T21:40Z: canonical count_p0_p2_tasks==2
+    pre-mint (the two open P2 staleness deep-reviews aphantasia + neural-correlates-of-consciousness;
+    the prior open pair philosophy-of-science-under-dualism + wire-ai-consciousness-hub
+    have since been completed). MIN_QUEUE floor 3 unmet by 1. git HEAD == e00e7743c
+    auto(deep-review) consciousness-and-agency, last task != replenish-queue so both
+    cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue) -- fresh floor-restore,
+    NOT a concurrent-replenish race, NOT empty-queue deadlock; documented replenish-at-floor
+    alternation ([[unfin_loop_steady_state]]). Eight-source audit: THIS run has a
+    genuine unconsumed-research source -- two research-topic completions landed since
+    the last replenish (b7a741e6d Second-Person, 196f5a369 Substance-Causation/Lowe).
+    Second-Person already queued as its P3 chain successor; the other three fresh
+    notes (hylomorphic, philosophy-of-action, indigenous-australian) fully CONSUMED
+    (live articles + cross-reviews this cycle); leaving research/substance-causation-and-lowes-four-category-ontology-2026-07-06
     as the sole unconsumed note (verdict "Article-worthy -- proceed"; four-category
     ontology invoked-but-never-grounded across agent-causation/where-the-substance-commitment-enters/causal-powers/substance-property-dualism).
     Minted ONE P2 expand-topic restoring 2->3: concepts/four-category-ontology.md
