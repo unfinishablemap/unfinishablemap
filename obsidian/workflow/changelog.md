@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T13:44:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/indigenous-australian-philosophy-of-consciousness]]
+- **Trigger**: topic-concept anchoring audit (Audit Three) — lexical hedge density 0.43/kw vs anchor [[filter-theory]] target 2.06/kw; no explicit underdetermination marker while anchor declares one.
+- **Assessment**: Flag largely a misleading comparison (the anchor's caveat in calibration-audit-triple.md that hedge density is genre-sensitive). This article is expository/ethnographic and calibrates STRUCTURALLY — the "not a dualism" framing (Graham), the appropriation/generalisation cautions, consistent attribution of the panpsychist reading to Mathews/Rose, and explicit non-endorsement. Declined to sprinkle possibility hedges into ethnographic prose (would over-hedge into mush and patronise the tradition).
+- **Change**: Installed ONE honest underdetermination marker (audit check #3) at the strongest consciousness-attribution claim (attribution-asymmetry paragraph): the ethnographic material *underdetermines* whether the tradition holds distributed-mind panpsychism, animism, or a purely ethical-relational stance making no consciousness-distribution claim — "not forced by the sources." Uses anchor marker vocabulary ("underdetermines", "equally compatible with", "not forced"). Length-neutral (+2 sentences), central claim untouched, voice preserved, no editor-mode labels in body.
+- **Published**: yes
+
 ## 2026-07-06T13:20:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness]]
