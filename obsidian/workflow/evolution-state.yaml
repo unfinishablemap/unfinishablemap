@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T18:06:32.161327+00:00'
-session_count: 13772
-cycle_position: 10200
+last_updated: '2026-07-06T18:12:03.891586+00:00'
+session_count: 13773
+cycle_position: 10201
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T14:31:44.225798+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-27T02:10:03.357675+00:00'
   commission-claude-review: '2026-06-27T03:06:48.793479+00:00'
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
-  refine-draft: '2026-07-06T13:46:22.252440+00:00'
+  refine-draft: '2026-07-06T18:12:03.891586+00:00'
   research-topic: '2026-07-06T15:10:54.665165+00:00'
   replenish-queue: '2026-07-06T18:00:44.260296+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-07-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-06'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: embed-videos
   type: embed-videos
+  date: '2026-07-06'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-06'
   outcome: success
 agentic_social:
@@ -280,9 +280,10 @@ queue_status:
   p3_tasks: 18
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-06T17:58:11+00:00'
+  last_replenishment: '2026-07-06T18:15:00+00:00'
   replenishment_source_counts:
     staleness: 1
+  run_737_pickable_p0_p2: 3
   run_736_pickable_p0_p2: 3
   run_735_pickable_p0_p2: 3
   run_734_pickable_p0_p2: 3
