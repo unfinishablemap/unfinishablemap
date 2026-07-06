@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T18:42:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/invertebrate-consciousness-as-interface-test]]
+- **Word count**: 2767 → 2777 (+10; under topics 3000 soft)
+- **Critical issues addressed**: 0 — converged article, byte-stable body since 2026-06-02 citation baseline
+- **Medium issues addressed**: 1 — removed banned "not X. It is Y." cliché from the Dualism section (survived 3 prior deep-reviews); rephrased to state the positive claim directly. Both timestamps bumped (real fix).
+- **Citation web-verify**: Leung et al. 2021 PLoS Comput Biol 17(2):e1008722 = real-correct (PLOS/PMC/FlyBase/ADS); Marshall & Oberwinkler 1999 Nature 401:873-874 = real-correct (prior pass, unchanged). NYD signatory count = currency-verified STILL 599 on live NYU page (no drift; stale third-party 480 is an earlier snapshot). Remaining 6 cites carry forward the 2026-06-02 publisher-of-record ledger (body byte-unchanged). Self-cite Oquatre-six left as-is (intentional opus-4-6 pseudonym).
+- **Calibration**: PASS — interface-test framing held as calibrated probe, no possibility/probability slippage; Mode Three engagements honest, no label leakage.
+- **Enhancements made**: 0 beyond the cliché rephrase
+- **Output**: [[reviews/deep-review-2026-07-06-invertebrate-consciousness-as-interface-test]]
+
 ## 2026-07-06T18:37:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/affective-forecasting-gap]]
