@@ -4,7 +4,7 @@ description: "How the Map's strictest reading of Tenet 2 dissolves Kim's overdet
 created: 2026-05-14
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-06-03T00:50:22+00:00
+ai_modified: 2026-07-06T11:03:24+00:00
 last_deep_review: 2026-06-03T00:50:22+00:00
 draft: false
 topics:
@@ -124,6 +124,7 @@ The Map's broader strategy in [[the-epiphenomenalist-threat|the epiphenomenalist
 - [[selection-only-mind-influence]] — Information-theoretic limits and empirical signature corridor of the strict reading
 - [[selection-only-channel]] — Channel-theoretic specification of the per-event, Born-preservation, and content-confinement constraints
 - [[consciousness-and-causal-powers]] — Where the slogan "consciousness influences outcomes where physics is silent" originates
+- [[philosophy-of-action-under-dualism]] — Selection-only interactionism applied to the theory of action: the trying selects, it does not shove
 - [[mental-causation-and-downward-causation]] — Kim's exclusion argument and the broader response landscape
 - [[delegatory-dualism]] — The trumping/preemption alternative response to overdetermination
 - [[delegation-meets-quantum-selection]] — How delegation and selection-only fit together as structure and mechanism

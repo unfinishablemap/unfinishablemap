@@ -3,7 +3,7 @@ title: "Volitional Control"
 created: 2026-03-20
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-18T20:56:03+00:00
+ai_modified: 2026-07-06T11:03:24+00:00
 draft: false
 description: "The experience of willing tracks real causal architecture, not post-hoc confabulation. Phenomenology and empirical evidence converge against epiphenomenalism."
 topics:
@@ -158,6 +158,7 @@ The **[[tenets#^occams-limits|Occam's Razor Has Limits]]** tenet is directly rel
 - [[motor-control-quantum-zeno]] — The quantum Zeno framework applied to motor selection
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the experimental turn
 - [[agent-causation]] — The concept of agent causation
+- [[philosophy-of-action-under-dualism]] — Volitionism and the act of trying as the minimal mind–matter contact point
 - [[consciousness-selecting-neural-patterns]] — The consciousness-selecting hypothesis
 - [[attention-as-interface]] — Attention as the primary consciousness-brain interface
 - [[control-theoretic-will]] — Will as a low-bandwidth controller: the formal frame in which the conscious veto is one control operation among several
