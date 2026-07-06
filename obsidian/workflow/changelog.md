@@ -5,6 +5,17 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T12:49:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/structural-varieties-of-consciousness-and-ai-phenomenology]]
+- **Word count**: 2606 → ~2655 (+~49)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (three orphan References — Block 1995, Block 2025, Nagel 1974 — listed but never cited inline; wired each into existing prose where its concept already does work)
+- **Enhancements made**: 1 (full publisher-of-record citation ledger, §2.4, not previously done in full; all 8 external cites verified real-correct — no fabrication, wrong-author/year/venue, or currency drift)
+- **Key resolution**: Birch (2026) Shoggoth/Flicker attributions — on the monitoring list "pending full-text availability" through all five prior reviews — verified faithful against PhilArchive v4 (20 May 2026); monitoring item closed
+- **Output**: [[reviews/deep-review-2026-07-06-structural-varieties-of-consciousness-and-ai-phenomenology]]
+- Named-opponent engagement: functionalism / biological-naturalism contrast is Mode Three (framework-boundary marking), unchanged; no boundary-substitution, no label leakage.
+
 ## 2026-07-06T12:35:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/methodology-of-consciousness-research]]
