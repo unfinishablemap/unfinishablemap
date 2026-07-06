@@ -4,9 +4,9 @@ description: "Claire Petitmengin's disciplined second-person interview procedure
 created: 2026-04-19
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-06-03T00:42:00+00:00
+ai_modified: 2026-07-06T23:05:09+00:00
 draft: false
-last_deep_review: 2026-06-03T00:42:00+00:00
+last_deep_review: 2026-07-06T23:05:09+00:00
 topics: []
 concepts:
   - "[[phenomenological-evidence]]"
@@ -83,7 +83,7 @@ This taxonomic placement is not directly argued in the Petitmengin literature; i
 
 ## The Epilepsy Prodrome Studies
 
-Petitmengin, Navarro and Le Van Quyen (2006/2007), working in Varela's Salpêtrière team, used microphenomenology to interview patients with refractory epilepsy about the experiential run-up to seizures. The work distinguished two classes of premonitory experience: *auras* (sudden, intermittent, recognised in the clinical literature) and *prodromes* (continuous, hour-scale, largely unknown before the study).
+Petitmengin and colleagues (2006, 2007), working in Varela's Salpêtrière team, used microphenomenology to interview patients with refractory epilepsy about the experiential run-up to seizures. The work distinguished two classes of premonitory experience: *auras* (sudden, intermittent, recognised in the clinical literature) and *prodromes* (continuous, hour-scale, largely unknown before the study).
 
 Prodromes are what matters for the present discussion. They were invisible to casual introspection — patients did not spontaneously report them — and invisible to the third-person neurodynamic measurements available at the time. The microphenomenological interview surfaced them. Patients who learned to recognise their own prodromes could take counter-measures (relaxation, anti-convulsant adjustments, withdrawal from triggers) and, in the clinical follow-up, reduced seizure frequency non-pharmacologically.
 
@@ -173,8 +173,8 @@ The Map does *not* claim that Petitmengin or her collaborators hold any tenet th
 7a. Petitmengin, C. & Bitbol, M. (2009). The validity of first-person descriptions as authenticity and coherence. *Journal of Consciousness Studies*, 16(10–12), 363–404.
 7b. Lutz, A. (2002). Toward a neurophenomenology as an account of generative passages: A first empirical case study. *Phenomenology and the Cognitive Sciences*, 1(2), 133–167.
 7c. Froese, T., Gould, C., & Seth, A. K. (2011). Validating and calibrating first- and second-person methods in the science of consciousness. *Journal of Consciousness Studies*, 18(2), 38–64.
-8. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2006). Seizure anticipation: Are neurophenomenological approaches able to detect preictal symptoms? *Epilepsy and Behavior*.
-9. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Phenomenology and the Cognitive Sciences*.
+8. Petitmengin, C., Baulac, M., & Navarro, V. (2006). Seizure anticipation: Are neurophenomenological approaches able to detect preictal symptoms? *Epilepsy & Behavior*, 9(2), 298–306.
+9. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Consciousness and Cognition*, 16(3), 746–764.
 10. Petitmengin, C. (2019). Studying the experience of meditation through micro-phenomenology. *Current Opinion in Psychology*, 28, 54–59.
 11. Petitmengin, C., Remillieux, A., & Valenzuela-Moguillansky, C. (2019). Discovering the structures of lived experience: Towards a micro-phenomenological analysis method. *Phenomenology and the Cognitive Sciences*, 18(4), 691–730.
 12. Petitmengin, C., Remillieux, A., Cahour, B., & Carter-Thomas, S. (2013). A gap in Nisbett and Wilson's findings? A first-person access to our cognitive processes. *Consciousness and Cognition*, 22(2), 654–669.

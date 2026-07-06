@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T23:05:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/microphenomenological-interview-method]]
+- **Word count**: 3761 → 3759 (−2; length-neutral, soft_warning)
+- **Critical issues addressed**: 2 (ref 8 wrong third author Le Van Quyen→Baulac + vol/pages; ref 9 wrong venue *Phen. Cog. Sci.*→*Consciousness and Cognition* 16(3):746–764 + vol/pages; in-body combined citation re-worded to "Petitmengin and colleagues")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article, 4th review; publisher-of-record web-verify caught 2 metadata defects the 2026-06-03 ledger ratified as "plausible")
+- **Notes**: constraint (a) full publisher-verify on settled content paid off; (b) no superlatives; (c) evidential-channel calibration intact; (d) all 20 wikilinks resolve; (e) no cliché. engagement with Dennett/heterophenomenology: Mode Three (unchanged). Both timestamps bumped (real fix).
+- **Output**: [[reviews/deep-review-2026-07-06-microphenomenological-interview-method]]
+
 ## 2026-07-06T22:39:13+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: last 20 recent_tasks (session ~13820)
