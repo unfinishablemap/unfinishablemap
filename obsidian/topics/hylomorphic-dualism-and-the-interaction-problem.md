@@ -4,7 +4,8 @@ description: "A human-AI examination of hylomorphism as a serious rival to the M
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-06T15:47:28+00:00
+ai_modified: 2026-07-06T15:55:51+00:00
+last_deep_review: 2026-07-06T15:55:51+00:00
 draft: false
 topics: []
 concepts:
@@ -30,7 +31,7 @@ Taking this rival seriously matters more than dismissing it. If dissolution work
 
 Standard Aristotelian background is available to any reader; what matters here is the single distinction that bears on interaction. A natural substance, on the hylomorphic view, is a compound of *matter* (*hylē*) and *substantial form* (*morphē*). Form is not a second ingredient sitting alongside the matter—it is the organizing principle that makes the matter *this kind of thing* with *these characteristic powers*. The soul, for a living body, is its substantial form: the actuality of a body that has life potentially.
 
-The payoff for the mind-body problem is structural. Cartesian [[substance-property-dualism|substance dualism]] posits two complete substances—a thinking thing and an extended thing—and then cannot say how an immaterial substance pushes a material one. Hylomorphism blocks the question at its source. Edward Feser puts the contrast sharply: on hylemorphic dualism the immaterial (form) and material (matter) are "not two distinct substances" sharing only efficient causality but co-principles of one substance, so "there is no gap to bridge because mind and body were never two independent things." The demand for a mechanism by which the immaterial *pushes* the material, hylomorphists argue, smuggles in a mechanistic premise Aristotle never granted. Aristotelian metaphysics recognizes formal and final causation alongside efficient causation; the modern interaction problem assumes that efficient, push-pull causation is the only kind there is, and that assumption is exactly what the hylomorphist declines to make.
+The payoff for the mind-body problem is structural. Cartesian [[substance-property-dualism|substance dualism]] posits two complete substances—a thinking thing and an extended thing—and then cannot say how an immaterial substance pushes a material one. Hylomorphism blocks the question at its source. Edward Feser draws the contrast sharply: on hylemorphic dualism the immaterial (form) and material (matter) are not two distinct substances linked only by efficient causality but co-principles of one substance—the composite is, in his words, "a single, complete substance," and there is no gap to bridge because mind and body were never two independent things to begin with. The demand for a mechanism by which the immaterial *pushes* the material, hylomorphists argue, smuggles in a mechanistic premise Aristotle never granted. Aristotelian metaphysics recognizes formal and final causation alongside efficient causation; the modern interaction problem assumes that efficient, push-pull causation is the only kind there is, and that assumption is exactly what the hylomorphist declines to make.
 
 This is a genuinely different move from anything in the Map's toolkit. The Map, like the Cartesian, accepts that if mind influences matter there must be a *how*. Hylomorphism's reply is that the "how" question is malformed.
 
@@ -40,7 +41,7 @@ The word covers a spectrum wide enough that "hylomorphism solves the mind-body p
 
 ### Structure hylomorphism (near-physicalist)
 
-William Jaworski's *Structure and the Metaphysics of Mind* (2016) treats "structure" (hylomorphic form) as "a basic ontological and explanatory principle": living things are materials organized so as to confer developmental, metabolic, perceptive, and cognitive powers. Jaworski addresses mental causation through what he calls a *dual-explanandum* strategy. Actions have mental causes; actions have physical causes; these look like competing sufficient causes, threatening overdetermination. His resolution is telling. Jaworski *accepts* that the effects of hylomorphic substances "are fully necessitated by prior physical causes"—in a sense of "physical" that excludes emergent structure—and denies only that necessitation is *sufficient for explanation*. Structure earns its keep explanatorily, not by adding a competing causal push.
+William Jaworski's *Structure and the Metaphysics of Mind* (2016) treats "structure" (hylomorphic form) as "a basic ontological and explanatory principle": living things are materials organized so as to confer developmental, metabolic, perceptive, and cognitive powers. Jaworski addresses mental causation through a *dual-explananda* strategy. Actions have mental causes; actions have physical causes; these look like competing sufficient causes, threatening overdetermination. His resolution is telling. Jaworski *accepts* that the effects of hylomorphic substances are fully necessitated by prior physical causes—in a sense of "physical" that excludes emergent structure—and denies only that necessitation is *sufficient for explanation*. Reasons-explanations and mechanistic explanations, he argues, pick out causal factors of different sorts and so cannot overdetermine an action. Structure earns its keep explanatorily, not by adding a competing causal push.
 
 This makes structure hylomorphism the weakest fit for the Map, and worth flagging as such. Critics note that the dual-explanandum move is equally available to a physicalist, and that granting full physical necessitation is close to conceding causal closure. A framework that concedes closure does not deliver the irreducible, causally efficacious mind the Map's tenets require. Jaworski's structure is not obviously more than organization realized in matter—which is why his own view sits near the physicalist end of the spectrum, and why some readers class it as neither dualism nor physicalism but a third, naturalistic thing.
 
@@ -92,8 +93,8 @@ This selective borrowing sits alongside the Map's other engagements with non-Car
 1. Aquinas, Thomas. *Summa Theologiae*, Prima Pars, Q. 75, a. 2 ("Whether the human soul is something subsistent?"). Trans. Fathers of the English Dominican Province. https://www.newadvent.org/summa/1075.htm
 2. Jaworski, William. (2016). *Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem*. Oxford University Press. Review: https://ndpr.nd.edu/reviews/structure-and-the-metaphysics-of-mind-how-hylomorphism-solves-the-mind-body-problem/
 3. Feser, Edward. (2011). "Vallicella on hylemorphic dualism." http://edwardfeser.blogspot.com/2011/08/vallicella-on-hylemorphic-dualism.html
-4. Koons, Robert C. "Against Emergent Individualism." https://www.newdualism.org/papers-Jul2020/Koons-AgainstEmergentIndividualism.pdf
-5. Marmodoro, Anna. (2013). "Aristotle's hylomorphism without reconditioning." *Philosophical Inquiry* 37(1-2). https://philpapers.org/rec/MARAHW
+4. Koons, Robert C. (2018). "Against Emergent Individualism," in *The Blackwell Companion to Substance Dualism*, eds. Jonathan J. Loose, Angus J. L. Menuge & J. P. Moreland. Wiley-Blackwell, pp. 377–393. https://www.newdualism.org/papers-Jul2020/Koons-AgainstEmergentIndividualism.pdf
+5. Marmodoro, Anna. (2013). "Aristotle's hylomorphism without reconditioning." *Philosophical Inquiry* 37(1-2): 5–22. https://philpapers.org/rec/MARAHW
 6. Nussbaum, Martha C. & Putnam, Hilary. (1992). "Changing Aristotle's Mind," in *Essays on Aristotle's De Anima*, eds. Nussbaum & Rorty. Oxford University Press.
 7. Stanford Encyclopedia of Philosophy. "Form vs. Matter." https://plato.stanford.edu/entries/form-matter/
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/

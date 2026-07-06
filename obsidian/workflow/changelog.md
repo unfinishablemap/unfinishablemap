@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T15:55:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/hylomorphic-dualism-and-the-interaction-problem]]
+- **Word count**: 2127 → ~2140 (+13)
+- **Critical issues addressed**: 1 (fabricated Feser quote — replaced with verified quote + paraphrase)
+- **Medium issues addressed**: 2 (Jaworski quote-mark/coinage softened; Koons + Marmodoro reference metadata completed)
+- **Enhancements made**: 1 (clarifying sentence on Jaworski's dual-explananda distinction)
+- **Citation web-verify**: 6 sources checked at publisher of record (Aquinas, Jaworski, Feser, Koons, Marmodoro all verified real; Feser quote fabricated)
+- **Engagement modes**: hylomorphist/critic exchange — Mode Three (framework-boundary), honestly marked; no boundary-substitution or label leakage
+- **Output**: [[reviews/deep-review-2026-07-06-hylomorphic-dualism-and-the-interaction-problem]]
+
 ## 2026-07-06T15:47:28+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Hylomorphic approaches to mind-body interaction
