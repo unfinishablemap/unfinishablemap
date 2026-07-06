@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T20:34:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ai-consciousness]]
+- **Change**: LENGTH-NEUTRAL link-only fix. Added down-links from §"Alignment Implications" to [[dualism-as-ai-risk-mitigation]] and [[instrumental-convergence]] (the uncomputability-shield argument) via one natural clause in the existing alignment paragraph. Hub previously linked only sideways to experiential-alignment/ethics; safety subcluster linked up but hub did not link down. No substantive claims or calibration altered.
+- **Tenets**: 1 (Dualism) + 3 (Bidirectional Interaction)
+- **Published**: yes
+
 ## 2026-07-06T20:31:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/selection-criterion-problem]]
