@@ -53,7 +53,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-07-06T12:35:35+00:00
 coalesced_from:
   - "/topics/consciousness-and-scientific-methodology/"
   - "/topics/first-person-third-person-methodology/"

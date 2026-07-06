@@ -5,6 +5,16 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T12:35:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/methodology-of-consciousness-research]]
+- **Word count**: 3023 → 3023 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (12th pass, highly converged; sole change since 2026-06-01 was a cosmetic cross-link install from the primary-secondary-quality-boundary expand-topic — verified sound + target resolves; References unchanged so §2.4 web-verify skipped per trigger; no slippage, no label leakage; soft_warning at 101% of soft threshold, well under hard ceiling)
+- **Output**: [[reviews/deep-review-2026-07-06-methodology-of-consciousness-research]]
+- Engagement with Dennett (heterophenomenology): Mode One→Two; instability-of-neutrality dilemma earned on the opponent's own terms. Engagement with eliminativism (Frankish/Dennett 2016): Mode Two; self-undermining argument invokes opponent's own reliance on introspective reasoning. Both unchanged from prior pass, mode-honest, no label leakage.
+
 ## 2026-07-06T12:30:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenology-of-choice-and-volition]]
