@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T13:04:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/living-with-the-map]]
+- **Word count**: 3486 → 3486 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only. Fifth consecutive deep review with no issues. Body byte-identical to the converged 2026-06-01 state; only change since was an apex-evolve `apex_last_synthesis` frontmatter bump (known re-nomination artifact). Bumped `last_deep_review`; left `ai_modified` at 2026-05-14 (no content edit). §2.4 web-verify legitimately skipped (no bibliographic citations).
+- **Output**: [[reviews/deep-review-2026-07-06-living-with-the-map]]
+
 ## 2026-07-06T12:49:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/structural-varieties-of-consciousness-and-ai-phenomenology]]
