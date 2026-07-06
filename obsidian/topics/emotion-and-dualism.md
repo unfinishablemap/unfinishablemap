@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-06-05T21:38:33+00:00
+last_deep_review: 2026-07-06T19:28:18+00:00
 coalesced_from:
   - "/topics/emotional-consciousness/"
   - "/topics/emotion-as-evidence-for-dualism/"

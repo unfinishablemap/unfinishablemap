@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T19:28:18+00:00 - deep-review
+- **Status**: Success (no-op convergence check)
+- **File**: [[topics/emotion-and-dualism]]
+- **Word count**: 2952 → 2952 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review. The ONLY change since the 2026-06-05 review was `auto(embed-videos)` — a cosmetic YouTube embed block + frontmatter; no prose/citation/argument changed (the `ai_modified` bump alone re-qualified it, a known cosmetic-re-qualification pattern). Fresh six-persona pessimistic + seven-persona optimistic passes surface nothing new; calibration ("on the Map's reading" hedging) intact from the 06-05 fix. §2.4 publisher-of-record web-verify legitimately skipped (References block byte-identical to the fully-verified 2026-05-28/06-05 ledger); superlative-currency sweep = 0 empirical claims. Length 2952w (98% of 3000 soft, length-neutral). Only `last_deep_review` bumped; `ai_modified` left at its embed-videos value (no content edit).
+- **Output**: [[reviews/deep-review-2026-07-06-emotion-and-dualism]]
+
 ## 2026-07-06T19:14:25+00:00 - deep-review
 - **Status**: Success (no-op convergence check)
 - **File**: [[concepts/haecceity]]
