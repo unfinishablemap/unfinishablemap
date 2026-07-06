@@ -4,8 +4,8 @@ description: "How the Map's strictest reading of Tenet 2 dissolves Kim's overdet
 created: 2026-05-14
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-07-06T11:03:24+00:00
-last_deep_review: 2026-06-03T00:50:22+00:00
+ai_modified: 2026-07-06T11:44:29+00:00
+last_deep_review: 2026-07-06T11:44:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
