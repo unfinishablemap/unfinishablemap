@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-26
 last_curated:
-last_deep_review: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-07-06T10:16:03+00:00
 ---
 
 Paul Boghossian's 1990 paper "The Status of Content" advances what is widely regarded as the most sophisticated form of the self-refutation argument against eliminative materialism. The core move: arguments for irrealism about propositional-attitude content—the kind of content beliefs and desires possess—generalise to irrealism about content *tout court*, including the linguistic content of the eliminativist's own assertions. If the eliminativist's claim cannot have determinate content, the position cannot be coherently asserted. Devitt and Rey replied in 1991 that the argument presupposes a truth-conditional semantics the eliminativist can decline. The literature has not converged. The Map treats Boghossian's argument as the strongest version of self-refutation against eliminativism while declining to lean on it as decisive.
