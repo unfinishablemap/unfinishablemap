@@ -32,7 +32,7 @@ related_articles:
 - '[[tenets]]'
 - '[[mapping-mind-space]]'
 - '[[apophatic-approaches]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 - '[[noetic-feelings-void]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[mind-space-void]]'
@@ -41,7 +41,6 @@ related_articles:
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[phenomenology-of-linguistic-failure]]'
 - '[[ineffable-encounter-void]]'
-- '[[transit-void]]'
 - '[[aspect-perception-void]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[non-human-minds-as-void-explorers]]'
@@ -105,7 +104,7 @@ The [dualist](/tenets/#dualism) reading takes the same phenomenology and asks wh
 
 ## The Dissolving-Insight Phenomenon
 
-The [thought-stream void](/voids/thought-stream-void/) describes thoughts that vanish "not gradually but in the act of reaching for them." Edge-territory produces this reliably: meditators report insights clear in the moment of arising and unreconstructable moments later; psychedelic users describe understanding everything and being unable to say what they understood. Memories fade gradually and can often be cued; dissolving insights vanish instantly, as if they never existed—except that the sense of having had them persists.
+The [thought-stream void](/voids/transit-void/) describes thoughts that vanish "not gradually but in the act of reaching for them." Edge-territory produces this reliably: meditators report insights clear in the moment of arising and unreconstructable moments later; psychedelic users describe understanding everything and being unable to say what they understood. Memories fade gradually and can often be cued; dissolving insights vanish instantly, as if they never existed—except that the sense of having had them persists.
 
 One interpretation: these thoughts exist only at the boundary, requiring the edge-state to be thought at all. The mysterianism literature on cognitive closure—Kriegel and McGinn—distinguishes *psychological* closure (difficulty grasping) from *representational* closure (no conceptual container available). Dissolving insights may mark contact with representationally closed territory, unrecoverable for want of containers.
 
@@ -172,7 +171,7 @@ The deeper underdetermination is that edge-phenomenology does not even isolate d
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Edge-phenomenology as boundary-mapping data
 - [Minimal Consciousness](/concepts/minimal-consciousness/) — The lower edge
 - [The Silence Void](/voids/the-silence-void/) — Where cessation opens territory mapping cannot reach
-- [The Thought Stream Void](/voids/thought-stream-void/) — Slippage and dissolving insights
+- [The Transit Void](/voids/transit-void/) — Slippage and dissolving insights
 - [Phenomenology of Cognitive Limit Types](/topics/phenomenology-of-cognitive-limit-types/) — Edge-signature taxonomy
 - [Filter Theory](/concepts/filter-theory/) — The brain as receiver rather than producer
 

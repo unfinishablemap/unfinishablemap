@@ -21,7 +21,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[observation-and-measurement-void]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[self-opacity]]'
 - '[[necessary-opacity]]'
@@ -36,7 +36,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Some thoughts cannot be held still—not because they vanish into the [opacity of the thought stream](/voids/thought-stream-void/), or because we [flinch from them](/voids/self-maintained-cognitive-limits/), or because their [mechanisms are hidden](/voids/self-opacity/), but because they mutate. The act of thinking them transforms their content, so what arrives is never quite what was there before attention reached. The Map calls this the mutation void—terrain that reshapes itself under the cartographer's gaze.
+Some thoughts cannot be held still—not because they vanish into the [opacity of the thought stream](/voids/transit-void/), or because we [flinch from them](/voids/self-maintained-cognitive-limits/), or because their [mechanisms are hidden](/voids/self-opacity/), but because they mutate. The act of thinking them transforms their content, so what arrives is never quite what was there before attention reached. The Map calls this the mutation void—terrain that reshapes itself under the cartographer's gaze.
 
 The established evidence supports a weaker observer-effect claim: introspective access *often modifies* the experience accessed. The mutation void advances a stronger reading as its organising hypothesis—that for certain thought-contents the modification is *constitutive*, the act of attending transforming the content rather than merely disturbing or misreporting it. This is the Map's interpretive proposal, not an established result, and the article marks where the evidence reaches and where the hypothesis takes over. (How this organising claim separates the void from its near neighbours is drawn out under [Distinct From the Sibling Voids](#distinct-from-the-sibling-voids) below.) Whether one thought-bearer transforms in the reaching or two distinct thoughts succeed each other is a comparison introspection cannot settle, since the pre-attended state is by hypothesis never available for inspection.
 
@@ -83,7 +83,7 @@ Encountering a mutating thought has a distinctive phenomenology: the **shimmer**
 
 The mutation void's organising distinction is that access *alters the target content*. The family shares vocabulary, so the lines blur.
 
-- **[thought-stream-void](/voids/thought-stream-void/)** concerns the *temporal flow* of spontaneous thought—thoughts arriving unbidden and slipping away when reached for. The decisive contrast is *absent vs. present-and-changed*: you grasp for an almost-insight; if it is simply *gone*, that is slippage; if it *arrives but altered*, that is mutation. Slippage subtracts the content; mutation transforms it.
+- **[transit-void](/voids/transit-void/)** concerns the *temporal flow* of spontaneous thought—thoughts arriving unbidden and slipping away when reached for. The decisive contrast is *absent vs. present-and-changed*: you grasp for an almost-insight; if it is simply *gone*, that is slippage; if it *arrives but altered*, that is mutation. Slippage subtracts the content; mutation transforms it.
 - **[observation-and-measurement-void](/voids/observation-and-measurement-void/)** concerns *studying consciousness altering what is studied*—the predicament at the level of investigation. Mutation is its first-person, content-level instance; if mutation's constitutive claim is not earned, it collapses into that layer.
 - **[self-opacity](/voids/self-opacity/)** concerns the *structural limits of self-knowledge*—we access mental contents but never their producing mechanisms. Opacity hides the producer; mutation transforms the product. The two are orthogonal.
 - **[conceptual-metabolism-void](/voids/conceptual-metabolism-void/)** concerns transformation *through conceptual processing*—understanding digests new material into existing structure. That transformation is slow and operates on concepts; mutation is immediate and operates on phenomenal content.
@@ -142,7 +142,7 @@ Convergence across contemplative, philosophical, and empirical traditions is con
 ## Further Reading
 
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — The broader void where studying consciousness transforms what is studied
-- [thought-stream-void](/voids/thought-stream-void/) — Why thoughts arise unbidden and slip away when reached for
+- [transit-void](/voids/transit-void/) — Why thoughts arise unbidden and slip away when reached for
 - [self-opacity](/voids/self-opacity/) — Why we access mental contents but never their producing mechanisms
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Deflection from threatening content, distinct from involuntary transformation
 - [necessary-opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy

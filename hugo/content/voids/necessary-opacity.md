@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-06-01 06:55:00+00:00
+ai_modified: 2026-07-06 15:30:56+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: Consciousness cannot verify whether it accurately represents realit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 06:55:00+00:00
+last_deep_review: 2026-07-06 15:30:56+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,12 +37,11 @@ related_articles:
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[phenomenal-quality-void]]'
 - '[[compound-failure-signatures]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 - '[[edge-states-and-void-probes]]'
 - '[[observation-and-measurement-void]]'
 - '[[mutation-void]]'
 - '[[narrative-void]]'
-- '[[transit-void]]'
 - '[[erasure-void]]'
 - '[[witnessing-void]]'
 - '[[expertise-and-its-occlusion]]'
@@ -169,7 +168,6 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The parallel question of what matter is in itself
 - [mutation-void](/voids/mutation-void/) — When the act of attending transforms the content attended to
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Active blocking of cognitive access
-- [The Thought Stream Void](/voids/thought-stream-void/) — The phenomenology of slippage
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — Limit-experiences across traditions
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are permanent or merely current
 - [what-voids-reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
@@ -187,7 +185,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 ## References
 
 1. Alston, William P. "Epistemic Circularity." *Philosophy and Phenomenological Research* 47, no. 1 (1986): 1–30.
-2. Battaglia, S., Servajean, P., & Friston, K. J. (2025). "The paradox of the self-studying brain." *Physics of Life Reviews*, 54. https://doi.org/10.1016/j.plrev.2024.12.009
+2. Battaglia, S., Servajean, P., & Friston, K. J. (2025). "The paradox of the self-studying brain." *Physics of Life Reviews*, 52, 197–204. https://doi.org/10.1016/j.plrev.2024.12.009
 3. Bostrom, N. (2011). "Information Hazards: A Typology of Potential Harms from Knowledge." *Review of Contemporary Philosophy*, 10, 44-79.
 4. Hoffman, Donald D. "The Interface Theory of Perception." *Current Directions in Psychological Science* 25, no. 3 (2016): 157–161.
 5. James, W. (1902). *The Varieties of Religious Experience*. Lectures XVI-XVII.

@@ -52,7 +52,7 @@ Diagnostic test applied: would a tenet-accepting reviewer flag any claim as over
 
 ## Archival Link-Rot (the one substantive fix)
 
-`related_articles` contained `[[thoughts-that-slip-away]]`, whose target was coalesced into **The Thought Stream Void** ([thought-stream-void](/voids/thought-stream-void/)) and archived (`archive/voids/thoughts-that-slip-away.md`, `archive_reason: "Coalesced into The Thought Stream Void"`). The wikilink pointed at the archive-notice page rather than the live replacement.
+`related_articles` contained `[[thoughts-that-slip-away]]`, whose target was coalesced into **The Thought Stream Void** ([thought-stream-void](/voids/transit-void/)) and archived (`archive/voids/thoughts-that-slip-away.md`, `archive_reason: "Coalesced into The Thought Stream Void"`). The wikilink pointed at the archive-notice page rather than the live replacement.
 
 **Resolution**: repointed `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`. Confirmed `thought-stream-void` was not already present (no duplicate). This is the standing archival-link-rot pattern (repoint inbound links at the live replacement, not the archive notice).
 

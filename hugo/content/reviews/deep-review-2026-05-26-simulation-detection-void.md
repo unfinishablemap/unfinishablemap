@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken wikilink to archived article**: `[[thoughts-that-slip-away]]` appeared in both the frontmatter `related_articles` (line 19) and the body (line 78, Cognitive slippage). That article was archived 2026-04-17 with `archive_reason: "Coalesced into The Thought Stream Void"`. The live successor [voids/thought-stream-void.md](/voids/thought-stream-void/) carries the old URL as an alias (`/voids/thoughts-that-slip-away/`) and covers the exact slippage phenomenon cited ("content that won't consolidate into stable knowledge"). Fixed both occurrences → `[[thought-stream-void]]`. This is the one critical issue this review found.
+1. **Broken wikilink to archived article**: `[[thoughts-that-slip-away]]` appeared in both the frontmatter `related_articles` (line 19) and the body (line 78, Cognitive slippage). That article was archived 2026-04-17 with `archive_reason: "Coalesced into The Thought Stream Void"`. The live successor [voids/thought-stream-void.md](/voids/transit-void/) carries the old URL as an alias (`/voids/thoughts-that-slip-away/`) and covers the exact slippage phenomenon cited ("content that won't consolidate into stable knowledge"). Fixed both occurrences → `[[thought-stream-void]]`. This is the one critical issue this review found.
 
 ### Medium Issues Found
 

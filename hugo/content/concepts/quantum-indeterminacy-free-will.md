@@ -29,7 +29,7 @@ description: How quantum mechanics creates logical space for libertarian free wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 20:57:43+00:00
+last_deep_review: 2026-07-06 16:00:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

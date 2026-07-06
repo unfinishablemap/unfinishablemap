@@ -60,7 +60,7 @@ Inbound links to [distraction-void](/voids/transit-void/) added in:
 
 1. **[transit-void](/voids/transit-void/)** (§The Incompatibility Generalises → "Attention shifts") — positions distraction-void as the detailed treatment of the attention-shift case.
 2. **[phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)** (§Phase One: Wandering) — ties Phase One's phenomenological absence to the empirical ERP/probe-caught evidence.
-3. **[thought-stream-void](/voids/thought-stream-void/)** (§The Default Stream) — connects "zoning out" (wandering without awareness) to the void's territory.
+3. **[thought-stream-void](/voids/transit-void/)** (§The Default Stream) — connects "zoning out" (wandering without awareness) to the void's territory.
 4. **[attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)** (§The Attention-Consciousness Dissociation) — adds the complementary dissociation running in the opposite direction (report without in-flight access).
 5. **[structure-of-attention](/topics/structure-of-attention/)** (§Exogenous Attention) — grounds distraction-void in the exogenous-capture mode where "being pulled" is never itself available to experience.
 6. **[agency-verification-void](/voids/agency-void/)** (§The Timing Layer) — parallels the Libet timing gap with the MMN/P3a/P3b timing gap in the attentional domain.

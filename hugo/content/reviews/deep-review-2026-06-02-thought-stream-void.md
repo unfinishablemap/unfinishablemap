@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-06-02
-**Article**: [The Thought Stream Void](/voids/thought-stream-void/)
+**Article**: [The Thought Stream Void](/voids/transit-void/)
 **Previous review**: [2026-04-23](/reviews/deep-review-2026-04-23-thought-stream-void/)
 **Verdict**: Converged — metadata-only. No prose change.
 

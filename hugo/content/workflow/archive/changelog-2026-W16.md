@@ -1569,7 +1569,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Word count**: 2182 → 2211 (+29)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
-- **Enhancements made**: 1 (added cross-link to newly coalesced [thought-stream-void](/voids/thought-stream-void/) in generative-mystery paragraph and Further Reading, drawing the structural parallel between imagination's construction opacity and spontaneous thought's arrival-side opacity)
+- **Enhancements made**: 1 (added cross-link to newly coalesced [thought-stream-void](/voids/transit-void/) in generative-mystery paragraph and Further Reading, drawing the structural parallel between imagination's construction opacity and spontaneous thought's arrival-side opacity)
 - **Context**: Integrates the coalesced thought-stream-void (formed earlier today from spontaneous-thought-void + thoughts-that-slip-away) into the imagination cluster. Article has now reached convergence across three reviews
 - **Output**: [deep-review-2026-04-17-phenomenology-of-imagination](/reviews/deep-review-2026-04-17-phenomenology-of-imagination/)
 

@@ -34,12 +34,11 @@ related_articles:
 - '[[voids-between-minds]]'
 - '[[temporal-void]]'
 - '[[self-opacity]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 - '[[vertiginous-question]]'
 - '[[consciousness-and-memory]]'
 - '[[contemplative-epistemology]]'
 - '[[narrative-void]]'
-- '[[transit-void]]'
 - '[[infant-consciousness]]'
 - '[[erasure-void]]'
 - '[[observation-and-measurement-void]]'
@@ -96,7 +95,7 @@ The historical layer is doubled. *First*, we cannot determine whether consciousn
 
 Owen Barfield's *logomorphism* names the mechanism by which the historical void conceals itself. Consciousness presents itself as timeless. We do not merely fail to access past forms — we cannot recognise that there is something to access. The structure of modern consciousness makes its own contingency invisible: not passive ignorance but active concealment, of a piece with [defended territory](/voids/self-maintained-cognitive-limits/). Every attempt to interpret the past uses categories drawn from current consciousness; if those categories are historically contingent, every interpretation is contaminated by the thing it seeks to investigate.
 
-Three characteristic experiences arise: the "of course they were like us" intuition (logomorphism in action); a vertigo of difference when genuinely engaging with Jaynes or Snell; and an inability to sustain the thought — even when persuaded, we cannot *experience* the difference, and the thought slips away ([thought-stream-void](/voids/thought-stream-void/)).
+Three characteristic experiences arise: the "of course they were like us" intuition (logomorphism in action); a vertigo of difference when genuinely engaging with Jaynes or Snell; and an inability to sustain the thought — even when persuaded, we cannot *experience* the difference, and the thought slips away ([transit-void](/voids/transit-void/)).
 
 ### Approaches and AI
 

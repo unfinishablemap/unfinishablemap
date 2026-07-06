@@ -22,7 +22,7 @@ related_articles:
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
 - '[[self-maintained-cognitive-limits]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[apophatic-cartography]]'
 - '[[self-opacity]]'
@@ -78,7 +78,7 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 **Epistemic helplessness**: Unlike ordinary uncertainty, which motivates investigation, simulation uncertainty produces paralysis. We lack not just answers but any path to answers. The characteristic feeling is not "I don't know yet" but "I cannot know in principle."
 
-**Cognitive slippage**: Arguments about simulation seem compelling in the moment, then feel unreal hours later. This matches the [phenomenology of thoughts that slip away](/voids/thought-stream-void/)—content that won't consolidate into stable knowledge.
+**Cognitive slippage**: Arguments about simulation seem compelling in the moment, then feel unreal hours later. This matches the [phenomenology of thoughts that slip away](/voids/transit-void/)—content that won't consolidate into stable knowledge.
 
 ## Apophatic Approaches
 

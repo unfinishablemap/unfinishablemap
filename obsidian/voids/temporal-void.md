@@ -36,7 +36,7 @@ related_articles:
   - "[[time-consciousness-growing-block]]"
   - "[[binding-void]]"
   - "[[what-voids-reveal]]"
-  - "[[thought-stream-void]]"
+  - "[[transit-void]]"
   - "[[apophatic-approaches]]"
   - "[[topics/free-will]]"
   - "[[concepts/functionalism]]"

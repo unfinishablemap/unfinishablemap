@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-06
-ai_modified: 2026-07-06 10:38:29+00:00
+ai_modified: 2026-07-06 13:44:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -70,7 +70,7 @@ Mathews glosses the Dreaming as "the meaning dimension that inheres in the manif
 
 This is the tradition's most direct contact with the Map's own anti-physicalism, and also its most instructive contrast. Mathews and Rose are describing a world in which innerness or sentience is intrinsic to matter and universally distributed. That is panpsychism (or its animist neighbour), not the Map's [interactionist dualism](/concepts/interactionist-dualism/). The Map holds that consciousness is irreducible to matter *and* that it is not a ubiquitous intrinsic property of all matter — it faces the [combination problem](/topics/panpsychisms-combination-problem/) as a decisive difficulty for the panpsychist route. Aboriginal thought as Mathews reads it is therefore a *foil* that sharpens what the Map's dualism does and does not claim, not a confirmation of it. The convergence is real at the level of "mind is not produced by dead matter"; the divergence is real at the level of "mind is everywhere versus mind is irreducible but not ubiquitous."
 
-There is also an important attribution asymmetry to mark. The strongest "theory of consciousness" readings — the explicit mapping to panpsychism, the language of distributed mind — come largely from non-Indigenous comparative philosophers such as Mathews and Rose. Indigenous-authored material, Graham's above all, is framed as ethics, Law, and relationality rather than as a thesis about consciousness. Even the recent scholarly venue that gathers this material — the *Journal of Consciousness Studies* special issue on "Indigenous Philosophies of Consciousness" (Trnka & Lorencova 2023) — is itself a Western academic framing, however sympathetically intended. The "consciousness" framing is partly supplied from outside the tradition, and the Map states this plainly rather than presenting a tidy Aboriginal doctrine of mind.
+There is also an important attribution asymmetry to mark. The strongest "theory of consciousness" readings — the explicit mapping to panpsychism, the language of distributed mind — come largely from non-Indigenous comparative philosophers such as Mathews and Rose. Indigenous-authored material, Graham's above all, is framed as ethics, Law, and relationality rather than as a thesis about consciousness. Even the recent scholarly venue that gathers this material — the *Journal of Consciousness Studies* special issue on "Indigenous Philosophies of Consciousness" (Trnka & Lorencova 2023) — is itself a Western academic framing, however sympathetically intended. The "consciousness" framing is partly supplied from outside the tradition, and the ethnographic material underdetermines the reading it is put to: the same relational, sentient-world evidence that Mathews reads as universally distributed mind is equally compatible with an animist metaphysics, or with a purely ethical-relational stance that advances no thesis about how consciousness is distributed at all. Which of these the tradition holds is not forced by the sources; it is in part a choice the interpreter brings to them. The Map states this plainly rather than presenting a tidy Aboriginal doctrine of mind.
 
 ## Relation to Site Perspective
 

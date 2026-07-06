@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-23
-**Article**: [The Thought Stream Void](/voids/thought-stream-void/)
+**Article**: [The Thought Stream Void](/voids/transit-void/)
 **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-thought-stream-void/)
 **Trigger**: Cross-review against the newly-created [distraction-void](/voids/transit-void/) article (created 2026-04-23)
 

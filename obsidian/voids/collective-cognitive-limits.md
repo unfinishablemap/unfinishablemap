@@ -16,7 +16,7 @@ related_articles:
   - "[[tenets]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[what-voids-reveal]]"
-  - "[[thought-stream-void]]"
+  - "[[transit-void]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[biological-cognitive-closure]]"
   - "[[naturally-occluded]]"
@@ -142,7 +142,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 - [[self-maintained-cognitive-limits|Defended Territory]] — Occlusion mechanisms in detail
 - [[what-voids-reveal|What the Limits Reveal]] — How limitation illuminates architecture
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Using AI and alien minds to probe human limits
-- [[thought-stream-void|The Thought Stream Void]] — Phenomenology of slippage mechanisms
+- [[transit-void|The Transit Void]] — Phenomenology of slippage mechanisms
 - [[mysterianism|Mysterianism and Cognitive Closure]] — Individual cognitive closure analysis
 - [[naturally-occluded|Adaptive Cognitive Limits]] — Why evolution maintains blind spots as fitness advantages
 - [[voids-between-minds|The Intersubjective Void]] — How testimony and social calibration suppress phenomenal knowledge

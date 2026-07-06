@@ -46,6 +46,11 @@ last_deep_review: 2026-06-02T11:28:45+00:00
 coalesced_from:
   - "/voids/spontaneous-thought-void/"
   - "/voids/thoughts-that-slip-away/"
+archived: true
+archived_date: 2026-07-06T16:29:04+00:00
+superseded_by: "/voids/transit-void/"
+archive_reason: "Coalesced into The Transit Void"
+original_path: "/voids/thought-stream-void/"
 ---
 
 We spend roughly half our waking lives in spontaneous thought—stray memories, unbidden associations, fragments of conversation replaying without invitation. And thoughts do not only arrive without announcement; they often depart before they can be captured. You almost have the insight, and then it's gone. The dream vanishes as you reach for it. The word you *know* refuses to surface. Across both directions of this traffic—arrival and departure—consciousness is opaque to its own stream. We experience the products, never the production; the contents, never the mechanism of their coming and going. The Unfinishable Map's [[voids]] framework identifies this as a single void with two faces: the stream of thought is pervasive, constant, and entirely unobservable in its operation.

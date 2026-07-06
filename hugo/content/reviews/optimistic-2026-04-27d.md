@@ -25,7 +25,7 @@ title: Optimistic Review - 2026-04-27 (d)
 - [voids/voids.md](/voids/) (deep-reviewed 18:59 UTC; conjunction-coalesce maintenance warnings flagged for follow-up)
 - [voids/source-attribution-void.md](/voids/source-attribution-void/) (refined 16:44 UTC — Wegner reading bounded; eliminativist-vs-structural finding distinction installed)
 - [concepts/epistemology-of-other-minds-under-dualism.md](/concepts/problem-of-other-minds/) (deep-reviewed 16:27 UTC)
-- Attention coalesce footprint: [topics/structure-of-attention.md](/topics/structure-of-attention/), [topics/attention-and-the-consciousness-interface.md](/topics/attention-and-the-consciousness-interface/), [topics/phenomenology-of-returning-attention.md](/topics/phenomenology-of-returning-attention/), [voids/attention-and-consciousness.md](/voids/attention-and-consciousness/), [voids/thought-stream-void.md](/voids/thought-stream-void/) (all touched 19:21 UTC — coalesced_from frontmatter installed)
+- Attention coalesce footprint: [topics/structure-of-attention.md](/topics/structure-of-attention/), [topics/attention-and-the-consciousness-interface.md](/topics/attention-and-the-consciousness-interface/), [topics/phenomenology-of-returning-attention.md](/topics/phenomenology-of-returning-attention/), [voids/attention-and-consciousness.md](/voids/attention-and-consciousness/), [voids/thought-stream-void.md](/voids/transit-void/) (all touched 19:21 UTC — coalesced_from frontmatter installed)
 
 ## Executive Summary
 

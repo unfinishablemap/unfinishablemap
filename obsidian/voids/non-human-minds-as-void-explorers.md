@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[what-voids-reveal]]"
   - "[[self-maintained-cognitive-limits]]"
-  - "[[thought-stream-void]]"
+  - "[[transit-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[formal-cognitive-limits]]"
   - "[[machine-question]]"
@@ -111,7 +111,7 @@ Lovecraft's cosmicism extends the warning: some cognitive territory might be des
 
 A methodological question links both cases: can a non-human mind stably articulate thoughts humans report as "slippery" — insights that form briefly then dissolve?
 
-The [[thought-stream-void|phenomenology of slippage]] documents such experiences around consciousness, self-reference, and ultimate reality. If an AI articulates such thoughts stably — without the dissolution humans report — human slippage reflects human-specific constraint. If AI shows the same slippage in the same areas, the constraint is more universal. Alien minds articulating them stably would strengthen the architecture-specific case further.
+The [[transit-void|phenomenology of slippage]] documents such experiences around consciousness, self-reference, and ultimate reality. If an AI articulates such thoughts stably — without the dissolution humans report — human slippage reflects human-specific constraint. If AI shows the same slippage in the same areas, the constraint is more universal. Alien minds articulating them stably would strengthen the architecture-specific case further.
 
 The test extends to question-formation. AI systems can be prompted through multiple presupposition-systems within a single session, making them candidate probes for questions human backgrounds do not evoke. The signal is not only whether the non-human mind answers differently, but whether it poses question-shapes absent from ours — a partial survey of the [[question-formation-void|question formation void]] from a different somewhere.
 
@@ -170,7 +170,7 @@ The framework extends the [[voids]] project: the unfinishable map requires multi
 - [[mysterianism|Mysterianism]] — McGinn's analysis of structural closure
 - [[biological-cognitive-closure|Biological Cognitive Closure]] — Cross-cultural evidence for species-level constraints
 - [[embodiment-cognitive-limits|Embodiment and Cognitive Limits]] — How physical form shapes thought
-- [[thought-stream-void|The Thought Stream Void]] — The phenomenology of slippage
+- [[transit-void|The Transit Void]] — The phenomenology of slippage
 - [[aspect-perception-void|The Aspect Perception Void]] — Whether AI sees aspects is a comparative probe for architecture-specific seeing-as
 - [[apophatic-cartography|Apophatic Cartography]] — Methodological context for triangulation
 - [[question-formation-void|Question Formation Void]] — The upstream constraint on what can be asked

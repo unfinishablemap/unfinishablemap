@@ -148,7 +148,7 @@ The aspect perception void is primarily **unexplorable**, with **occluded** and 
 
 The void has the structural shape that has lately been recurring in the Map's voids work — multiple faces conjoining at a single seam.
 
-**Face 1 — The Dawning Face (transit-opacity).** The aspect-switching event itself cannot be observed; consciousness has access only to the result. The retinal image is unchanged, but a new perception is reported, and the *transition* is reflexively unavailable. This makes aspect-dawning a member of the family that includes [transit-void](/voids/transit-void/) and [thought-stream-void](/voids/thought-stream-void/).
+**Face 1 — The Dawning Face (transit-opacity).** The aspect-switching event itself cannot be observed; consciousness has access only to the result. The retinal image is unchanged, but a new perception is reported, and the *transition* is reflexively unavailable. This makes aspect-dawning a member of the family that includes [transit-void](/voids/transit-void/) and [thought-stream-void](/voids/transit-void/).
 
 **Face 2 — The Aspect-Blindness Face (architectural-asymmetry).** Wittgenstein's hypothetical aspect-blind person cannot see one thing as another. From inside an aspect-blind perspective, the missing aspects are not missed — they are simply not there. This is a structural inverse of the [mapping mind-space](/voids/mapping-mind-space/) problem: we cannot survey from within which aspects we ourselves may be blind to. The autism-perception literature, the AI-aspect-blindness debate (Friedland's "aesthetic robot's handicap"), and the comparative-mind question all converge here.
 
@@ -213,7 +213,7 @@ Based on this research, a voids article could:
 1. **Three faces, one seam (conjunction-coalesce cognate)**: lead with the dawning / aspect-blindness / constitution structure and argue the seam is the point. This continues the methodological lineage of [suspension-void](/voids/suspension-void/), [vagueness-void](/voids/vagueness-void/), [imagery-void](/voids/imagery-void/).
 2. **Aspect-perception as the privileged duck-rabbit of the Map**: stage the article around how the Map's own framework-shifts (e.g., process-vs-substance, dualist-vs-materialist) are themselves macro-aspect-switches, and we cannot inspect the shift from inside it.
 3. **The aspect-blindness mirror**: focus on what aspect-blindness reveals about aspect-seeing. The autistic-perception and AI-aspect-blindness literatures get sustained engagement; the Map gains a sharper articulation of comparative cognitive architectures (cf. [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)).
-4. **Dawning as a transit member**: position aspect-dawning explicitly as a sister case to [transit-void](/voids/transit-void/) and [thought-stream-void](/voids/thought-stream-void/) — same family, distinct mechanism (perceptual-conceptual integration rather than thought-arising or state-transition).
+4. **Dawning as a transit member**: position aspect-dawning explicitly as a sister case to [transit-void](/voids/transit-void/) and [thought-stream-void](/voids/transit-void/) — same family, distinct mechanism (perceptual-conceptual integration rather than thought-arising or state-transition).
 
 The conjunction-coalesce angle (#1) seems strongest given the recent methodological lineage; it produces the article most consonant with the post-2026-04-28 disciplinary turn.
 

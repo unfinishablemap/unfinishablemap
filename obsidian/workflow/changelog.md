@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T16:29:04+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[voids/transit-void]] + [[voids/thought-stream-void]] (one fragmented idea: both carried a "Two Faces of the Same Void" section; shared Smallwood-Schooler probe evidence and the "before-and-after access, no in-flight access" thesis)
+- **Target**: [[voids/transit-void]] (kept live — "The Transit Void" is a formally-cited term across the corpus; renaming would break that citation in anesthesia-void + prose in taxonomy-of-voids)
+- **Archived**: [[archive/voids/thought-stream-void]] (superseded_by /voids/transit-void/; redirect chain flattens spontaneous-thought-void + thoughts-that-slip-away → transit-void)
+- **Merged content**: absorbed thought-stream's unique material (default stream / DMN, slippage mechanisms, generator problem, content-specific slippage, illusionism, spontaneity-as-evidence) into transit's spine; deduped shared scaffold once; condensed 5566w naive-sum → 3999w (28% cut, under voids critical ceiling)
+- **Links repointed**: 27 live-content files (voids/topics) thought-stream-void → transit-void; deduped 6 duplicate frontmatter entries + 5 doubled Further-Reading bullets; fixed 8 "The Thought Stream Void" title-mislabels and the aspect-perception-void family-list conflation
+- **Fixes honored**: dangling [[spontaneous-thought-void]] body ref removed; removed stale hugo/content/voids/thought-stream-void.md duplicate (coalesce-stale-hugo-duplicate-urls); genuine review not staple+bump (coalesce-hides-review-debt); void-epistemics calibration preserved (evidential-status-discipline)
+- **References to review**: reviews/, research/, workflow/ historical logs left pointing at old slug (resolve via 301; not user-facing content)
+- **voids count**: 101 → 100 (back at cap)
+
 ## 2026-07-06T16:00:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-indeterminacy-free-will]]

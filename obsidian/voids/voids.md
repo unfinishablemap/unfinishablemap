@@ -154,7 +154,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[infant-consciousness|The Infant Consciousness Void]] — Why our own infant experience is more alien than another adult's mind
 - [[minimal-consciousness-void|The Minimal Consciousness Void]] — Why consciousness cannot investigate its own lower bound
 - [[amplification-void|The Amplification Void]] — Why the chain from quantum influence to neural effect cannot be traced
-- [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings: neither the onset of a mental act, nor the transition between states, nor the moment attention is captured (coalesced with distraction-void 2026-04-27)
+- [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings: neither the onset of a mental act, the transition between states, the moment attention is captured, nor the arrival and departure of thoughts (coalesced with distraction-void and thought-stream-void)
 - [[agency-void|The Agency Void]] — Two faces of agency's limit: consciousness cannot control most of its own states (involuntariness face) nor verify whether it causes anything at all (verification face)
 - [[decision-void|The Decision Void]] — The structural opacity of the deliberation→commitment crossing: three faces (closure / latency / reconstruction) at the most theoretically motivated site for any non-physical influence on the physical world; cognate to suspension-void and sister-regress to inference-void (created 2026-05-10)
 - [[thrownness-void|The Thrownness Void]] — Why consciousness cannot access the conditions under which it became conscious
@@ -168,7 +168,6 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[plurality-void|The Plurality Void]] — Why we cannot conceive being multiple subjects at once
 - [[resolution-void|The Resolution Void]] — The six-order-of-magnitude compression between available and accessed information
 - [[self-transcendence-void|The Self-Transcendence Void]] — Why consciousness cannot bootstrap itself beyond its own cognitive architecture
-- [[thought-stream-void|The Thought Stream Void]] — Why consciousness cannot observe how thoughts arise unbidden, nor how they vanish when reached for (coalesced from spontaneous-thought-void + thoughts-that-slip-away)
 - [[necessary-opacity|Necessary Opacity]] — Why consciousness cannot verify its own accuracy, and why exposing that opacity destabilises the system
 - [[self-maintained-cognitive-limits|Self-Maintained Cognitive Limits]] — Whether consciousness actively participates in maintaining its own limits, through defence mechanisms, motivated avoidance, and structural complicity
 - [[interested-party-void|The Interested Party Void]] — Why consciousness cannot neutrally investigate its own nature—it has existential stakes in every answer

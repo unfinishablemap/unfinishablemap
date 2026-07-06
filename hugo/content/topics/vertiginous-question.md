@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-06-21 11:01:28.892543+00:00
+ai_modified: 2026-07-06 13:23:12.056384+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -22,6 +22,11 @@ date: &id001 2026-05-31
 description: 'Why, of all conscious beings, am *I* this one? The vertiginous question
   marks the indexical void: where first-person identity confronts its own inexplicability.'
 draft: false
+embedded_videos:
+- embedded: 2026-07-06 13:23:12.056384+00:00
+  id: fE9-J4pcIJc
+  source: notebooklm/0073-01-vertiginous-question
+  url: https://www.youtube-nocookie.com/embed/fE9-J4pcIJc
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-13 16:31:14+00:00
@@ -50,6 +55,12 @@ topics:
 Why, of all the conscious beings that exist, am *I* this one? Benj Hellie named this "the vertiginous question" — vertiginous because attending to it induces a dizzying sense that something fundamental about existence resists explanation. The Unfinishable Map treats the same question under a second name: the *indexical void*, the cognitive boundary where first-person identity confronts its own inexplicability. The question appears meaningful, triggers characteristic philosophical vertigo, and defeats every available method of answer — not merely because we lack the answer, but because we cannot determine what kind of answer would satisfy the question.
 
 This problem holds a distinctive position in the Map's framework. The [No Many Worlds](/tenets/#no-many-worlds) tenet explicitly cites the indexical problem as part of its rationale for rejecting many-worlds interpretations. The vertiginous question is thus a void whose reality the Map's foundational commitments take seriously — a void that partly *motivates* the tenets rather than merely following from them.
+
+<details class="yt-embed" data-video-id="fE9-J4pcIJc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/fE9-J4pcIJc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Question Stated
 

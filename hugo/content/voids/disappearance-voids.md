@@ -34,7 +34,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[attention-and-consciousness]]'
 - '[[edge-states-and-void-probes]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[what-voids-reveal]]'
 - '[[consciousness-only-territories]]'
@@ -42,7 +42,6 @@ related_articles:
 - '[[sleep-consciousness-void]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[resolution-void]]'
-- '[[transit-void]]'
 - '[[recognition-void]]'
 - '[[anesthesia-void]]'
 title: 'The Disappearance Voids: Absorption, Habituation, and Fatigue'
@@ -170,10 +169,9 @@ Within the [voids framework](/voids/three-kinds-of-void/), these disappearance v
 - [attention-and-consciousness](/voids/attention-and-consciousness/) — How attention structurally creates voids
 - [self-opacity](/voids/self-opacity/) — The observer who cannot observe itself observing
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — How edge and altered states probe cognitive limits, and what approaching them feels like
-- [thought-stream-void](/voids/thought-stream-void/) — Related phenomenology of cognitive slippage: how thoughts vanish when reached for
 - [what-voids-reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate architecture
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
-- [transit-void](/voids/transit-void/) — The general case: consciousness cannot witness any of its own state transitions
+- [transit-void](/voids/transit-void/) — The general case: consciousness cannot witness any of its own crossings, from state transitions to the arrival and departure of thoughts
 - [anesthesia-void](/voids/anesthesia-void/) — The pharmacologically imposed gap and the three-states taxonomy
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The fatigue-sleep continuum and consciousness during sleep
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — When consciousness actively misrepresents its own narrowing

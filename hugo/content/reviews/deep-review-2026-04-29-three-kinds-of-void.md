@@ -19,13 +19,13 @@ topics: []
 **Date**: 2026-04-29
 **Article**: [Three Kinds of Void](/voids/three-kinds-of-void/)
 **Previous review**: [2026-04-23](/reviews/deep-review-2026-04-23-three-kinds-of-void/)
-**Context**: Sixth deep review. Article has been stable across the previous five and the prior review explicitly noted approach to a natural density ceiling. Today's review focused on link integrity following the 2026-04-17 coalesce of `thoughts-that-slip-away` into [thought-stream-void](/voids/thought-stream-void/).
+**Context**: Sixth deep review. Article has been stable across the previous five and the prior review explicitly noted approach to a natural density ceiling. Today's review focused on link integrity following the 2026-04-17 coalesce of `thoughts-that-slip-away` into [thought-stream-void](/voids/transit-void/).
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
 
-**Three broken wikilinks to archived `thoughts-that-slip-away`.** The article coalesced into [thought-stream-void](/voids/thought-stream-void/) on 2026-04-17 (per W16 changelog), but `three-kinds-of-void.md` still referenced the old slug in:
+**Three broken wikilinks to archived `thoughts-that-slip-away`.** The article coalesced into [thought-stream-void](/voids/transit-void/) on 2026-04-17 (per W16 changelog), but `three-kinds-of-void.md` still referenced the old slug in:
 
 1. Frontmatter `related_articles` (line 19)
 2. Body of the Occluded section: `[[thoughts-that-slip-away|phenomenology of slippage]]` (line 72)
@@ -78,7 +78,7 @@ None substantive — only the broken-link repair. The stability notes from prior
 
 ### Cross-links Added
 
-- Replaced (not added): three references to archived `thoughts-that-slip-away` redirected to [thought-stream-void](/voids/thought-stream-void/)
+- Replaced (not added): three references to archived `thoughts-that-slip-away` redirected to [thought-stream-void](/voids/transit-void/)
 
 ## Word Count
 

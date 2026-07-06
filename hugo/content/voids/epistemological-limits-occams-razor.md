@@ -15,7 +15,7 @@ description: Human+AI exploration of why Occam's Razor may be a cognitive bias m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 02:57:36+00:00
+last_deep_review: 2026-07-06 14:33:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

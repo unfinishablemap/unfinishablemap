@@ -27,7 +27,7 @@ related_articles:
   - "[[conceptual-scheme-void]]"
   - "[[source-attribution-void]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[thought-stream-void]]"
+  - "[[transit-void]]"
   - "[[edge-states-and-void-probes]]"
   - "[[apophatic-cartography]]"
   - "[[apophatic-cartography-four-criteria]]"

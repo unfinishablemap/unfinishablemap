@@ -25,7 +25,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink `[[thoughts-that-slip-away]]`**: target was archived 2026-04-17 (coalesced into [thought-stream-void](/voids/thought-stream-void/)). Redirected in both body text and `related_articles` frontmatter. Also updated Further Reading section.
+- **Broken wikilink `[[thoughts-that-slip-away]]`**: target was archived 2026-04-17 (coalesced into [thought-stream-void](/voids/transit-void/)). Redirected in both body text and `related_articles` frontmatter. Also updated Further Reading section.
 - **Broken wikilink `[[transition-void]]`**: target was archived 2026-04-16 (coalesced into [transit-void](/voids/transit-void/)). Redirected in body text (multi-edge bullet) and `related_articles` frontmatter.
 
 ### Medium Issues Found

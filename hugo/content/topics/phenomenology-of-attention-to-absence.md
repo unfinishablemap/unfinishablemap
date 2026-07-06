@@ -27,7 +27,7 @@ related_articles:
 - '[[structure-of-attention]]'
 - '[[temporal-consciousness-structure-and-agency]]'
 - '[[phenomenology-of-anticipation]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 title: The Phenomenology of Attention to Absence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -103,7 +103,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is implicated becau
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The structure of attention returning from absence
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The forward-directed experience that absence violates
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How attention shapes temporal experience and agency
-- [thought-stream-void](/voids/thought-stream-void/) — The opacity of consciousness's own stream, including thoughts that slip away
+- [transit-void](/voids/transit-void/) — The opacity of consciousness's own stream, including thoughts that slip away
 - [structure-of-attention](/topics/structure-of-attention/) — The architecture of attentional control
 - [intentionality](/concepts/intentionality/) — The directedness of consciousness toward objects
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, retention, and protention

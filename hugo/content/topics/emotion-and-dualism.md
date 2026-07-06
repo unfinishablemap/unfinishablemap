@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-05 21:38:33+00:00
+ai_modified: 2026-07-06 13:23:12.056384+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,6 +33,11 @@ description: Emotional consciousness provides the strongest empirical case for d
   Valence—the felt quality of good and bad—is irreducible, causally indispensable,
   and transforms the philosophy of emotion.
 draft: false
+embedded_videos:
+- embedded: 2026-07-06 13:23:12.056384+00:00
+  id: QTHO8WgPnUc
+  source: notebooklm/0080-01-emotion-and-dualism
+  url: https://www.youtube-nocookie.com/embed/QTHO8WgPnUc
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-05 21:38:33+00:00
@@ -52,6 +57,12 @@ topics:
 ---
 
 Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia is the strongest evidence that these properties do genuine causal work: remove the felt quality and motivation collapses, even when all functional machinery remains intact. Emotion therefore offers the Map's strongest case that phenomenal properties are not only irreducible but *causally indispensable*—unifying two conclusions that standard arguments for dualism reach only separately. The Unfinishable Map treats this convergence of irreducibility and causal efficacy as the empirical backbone of its dualist framework.
+
+<details class="yt-embed" data-video-id="QTHO8WgPnUc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/QTHO8WgPnUc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Valence: The Irreducible Felt Quality
 

@@ -49,13 +49,13 @@ None new. The "remaining items" from the prior review (MQI/No Many Worlds tenet 
 
 ### Enhancements Made
 
-1. **Cross-link to [thought-stream-void](/voids/thought-stream-void/)** — Added in the generative-mystery paragraph, drawing the structural parallel between imagination's construction opacity and spontaneous thought's arrival-side opacity. Both deliver finished content to awareness while concealing the construction process. This integrates the newly coalesced thought-stream-void (formed 2026-04-17 from spontaneous-thought-void + thoughts-that-slip-away) into the imagination cluster.
+1. **Cross-link to [thought-stream-void](/voids/transit-void/)** — Added in the generative-mystery paragraph, drawing the structural parallel between imagination's construction opacity and spontaneous thought's arrival-side opacity. Both deliver finished content to awareness while concealing the construction process. This integrates the newly coalesced thought-stream-void (formed 2026-04-17 from spontaneous-thought-void + thoughts-that-slip-away) into the imagination cluster.
 
-2. **Further Reading entry** — Added [thought-stream-void](/voids/thought-stream-void/) with a brief annotation distinguishing it from imagination-and-creativity-void.
+2. **Further Reading entry** — Added [thought-stream-void](/voids/transit-void/) with a brief annotation distinguishing it from imagination-and-creativity-void.
 
 ### Cross-links Added
 
-- [thought-stream-void](/voids/thought-stream-void/) — in generative-mystery paragraph and Further Reading
+- [thought-stream-void](/voids/transit-void/) — in generative-mystery paragraph and Further Reading
 
 ## Remaining Items
 

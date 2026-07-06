@@ -67,10 +67,10 @@ Per [evidential-status-discipline](/project/evidential-status-discipline/): the 
 - Anesthesia three-states integration from the 2026-04-17 cross-review (settled treatment, untouched).
 
 ### Enhancements Made
-- Repointed dead `[[thoughts-that-slip-away]]` link to the live [thought-stream-void](/voids/thought-stream-void/) in two locations, restoring a working inbound path to the coalesced replacement.
+- Repointed dead `[[thoughts-that-slip-away]]` link to the live [thought-stream-void](/voids/transit-void/) in two locations, restoring a working inbound path to the coalesced replacement.
 
 ### Cross-links Added
-- [thought-stream-void](/voids/thought-stream-void/) (replacing the archived target; net cross-link count unchanged).
+- [thought-stream-void](/voids/transit-void/) (replacing the archived target; net cross-link count unchanged).
 
 ## Length Management
 

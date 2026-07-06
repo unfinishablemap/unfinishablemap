@@ -27,7 +27,6 @@ related_articles:
 - '[[conceptual-scheme-void]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[mapping-mind-space]]'
-- '[[thought-stream-void]]'
 - '[[witnessing-void]]'
 - '[[suspension-void]]'
 - '[[vagueness-void]]'
@@ -55,7 +54,7 @@ The void exhibits the conjunction-coalesce structure used elsewhere for [suspens
 
 When the rabbit dawns where the duck was, the retinal image is unchanged and the new perception is reported, but the transition itself is reflexively unavailable. Wittgenstein writes: "The expression of a change of aspect is the expression of a new perception and at the same time of the perception's being unchanged." The viewer has access to the *before*, the *after*, and the *report* of the dawning—the felt "click" or "lighting up"—but any introspective probe arrives after the event or destabilises it. Trying to watch the switch as it happens biases perception toward whichever aspect the gaze settles on—Brentano's point that active introspection eliminates its object.
 
-The dawning face places aspect-perception in the family that includes [transit-void](/voids/transit-void/) (the unobservability of state-transitions in consciousness), [thought-stream-void](/voids/thought-stream-void/) (the unobservability of thought-arising), and [recognition-void](/voids/recognition-void/) (the dawning of *this-as-familiar*). The mechanism differs—perceptual-conceptual integration rather than thought-genesis or recognitional matching—but the structural shape is shared: consciousness has the endpoints, not the passage between them.
+The dawning face places aspect-perception in the family that includes the [transit-void](/voids/transit-void/) (the unobservability of state-transitions and of thought-arising in consciousness) and the [recognition-void](/voids/recognition-void/) (the dawning of *this-as-familiar*). The mechanism differs—perceptual-conceptual integration rather than thought-genesis or recognitional matching—but the structural shape is shared: consciousness has the endpoints, not the passage between them.
 
 The dawning face is *Unexplorable* in the sense the [three-kinds typology](/voids/three-kinds-of-void/) reserves for limits that resist mapping by their own architecture. The faculty that would observe the transition is the faculty in transition.
 
@@ -117,8 +116,7 @@ The void is also tenet-adjacent methodologically: the Map's framework-shifts (su
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [tacit-integration-void](/voids/tacit-integration-void/) — The from-to opacity that constitutes face 3
-- [transit-void](/voids/transit-void/) — Sister case: state-transitions resist witnessing
-- [thought-stream-void](/voids/thought-stream-void/) — Sister case: thought-arising resists witnessing
+- [transit-void](/voids/transit-void/) — Sister case: state-transitions and thought-arising resist witnessing
 - [predictive-construction-void](/voids/predictive-construction-void/) — Cognitive-penetration applied to perception
 - [conceptual-scheme-void](/voids/conceptual-scheme-void/) — Macro-level analogue at the level of frameworks
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Comparative aspect-architectures

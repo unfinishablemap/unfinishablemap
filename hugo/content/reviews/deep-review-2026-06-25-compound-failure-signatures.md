@@ -20,7 +20,7 @@ topics: []
 **Article**: [Compound Failure Signatures](/voids/compound-failure-signatures/)
 **Previous reviews**: [2026-05-26](/reviews/deep-review-2026-05-26-compound-failure-signatures/), [2026-03-30](/reviews/deep-review-2026-03-30-compound-failure-signatures/)
 
-Third deep review (~30-day staleness re-pick). No-op verification pass: no content changed since the 2026-05-26 review except a cosmetic corpus-wide wikilink repoint ([thoughts-that-slip-away](/voids/thought-stream-void/) → [thought-stream-void](/voids/thought-stream-void/) in frontmatter, 2026-05-31). The article remains converged. No critical or medium issues found. `last_deep_review` bumped to reset the staleness clock; `ai_modified` deliberately left unchanged because no body content was edited (no-op hygiene). The two prior fixes (Plotinus reframing, opening front-loading) remain intact and are not re-flagged.
+Third deep review (~30-day staleness re-pick). No-op verification pass: no content changed since the 2026-05-26 review except a cosmetic corpus-wide wikilink repoint ([thoughts-that-slip-away](/voids/thought-stream-void/) → [thought-stream-void](/voids/transit-void/) in frontmatter, 2026-05-31). The article remains converged. No critical or medium issues found. `last_deep_review` bumped to reset the staleness clock; `ai_modified` deliberately left unchanged because no body content was edited (no-op hygiene). The two prior fixes (Plotinus reframing, opening front-loading) remain intact and are not re-flagged.
 
 ## Pessimistic Analysis Summary
 
@@ -51,7 +51,7 @@ No misattribution, dropped qualifiers, or exploratory-to-committed slippage. Plo
 The article does not reply to named opponents in the in-framework-refutation sense; McGinn is engaged as a positive springboard (cognitive closure listed without compound investigation), not refuted. No mode labels in body; none warranted. No label leakage.
 
 ### Link & Anchor Integrity
-All 22 wikilink targets resolve to live files, including the repointed [thought-stream-void](/voids/thought-stream-void/). All four tenet block anchors (`^occams-limits`, `^dualism`, `^bidirectional-interaction`, `^minimal-quantum-interaction`) exist in tenets.md.
+All 22 wikilink targets resolve to live files, including the repointed [thought-stream-void](/voids/transit-void/). All four tenet block anchors (`^occams-limits`, `^dualism`, `^bidirectional-interaction`, `^minimal-quantum-interaction`) exist in tenets.md.
 
 ### EOF Integrity
 Precise last-2-lines scan: file ends cleanly at the Wittgenstein 1922 reference. No tool-call tag artifact.

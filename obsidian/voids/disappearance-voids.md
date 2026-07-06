@@ -25,7 +25,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[attention-and-consciousness]]"
   - "[[edge-states-and-void-probes]]"
-  - "[[thought-stream-void]]"
+  - "[[transit-void]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[what-voids-reveal]]"
   - "[[consciousness-only-territories]]"
@@ -33,7 +33,6 @@ related_articles:
   - "[[sleep-consciousness-void]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[resolution-void]]"
-  - "[[transit-void]]"
   - "[[recognition-void]]"
   - "[[anesthesia-void]]"
 ai_contribution: 100
@@ -168,10 +167,9 @@ Within the [[three-kinds-of-void|voids framework]], these disappearance voids ar
 - [[attention-and-consciousness]] — How attention structurally creates voids
 - [[self-opacity]] — The observer who cannot observe itself observing
 - [[edge-states-and-void-probes]] — How edge and altered states probe cognitive limits, and what approaching them feels like
-- [[thought-stream-void]] — Related phenomenology of cognitive slippage: how thoughts vanish when reached for
 - [[what-voids-reveal]] — How cognitive limits illuminate architecture
 - [[consciousness-only-territories]] — What only phenomenal experience can access
-- [[transit-void]] — The general case: consciousness cannot witness any of its own state transitions
+- [[transit-void]] — The general case: consciousness cannot witness any of its own crossings, from state transitions to the arrival and departure of thoughts
 - [[anesthesia-void]] — The pharmacologically imposed gap and the three-states taxonomy
 - [[sleep-consciousness-void]] — The fatigue-sleep continuum and consciousness during sleep
 - [[self-maintained-cognitive-limits]] — When consciousness actively misrepresents its own narrowing

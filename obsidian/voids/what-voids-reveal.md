@@ -31,7 +31,7 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[self-opacity]]"
   - "[[apophatic-approaches]]"
-  - "[[thought-stream-void]]"
+  - "[[transit-void]]"
   - "[[edge-states-and-void-probes]]"
   - "[[collective-cognitive-limits]]"
   - "[[void-as-ground-of-meaning]]"
@@ -137,7 +137,7 @@ Individual voids might dissolve—a neuroscientific breakthrough could close the
 
 ## Phenomenology of the Edge
 
-Approaching cognitive limits has a distinctive phenomenology, treated in detail under [[edge-states-and-void-probes]]. Five features recur: the *dissolving insight* (grasping that limits reveal structure is itself unstable—see [[thought-stream-void]]); *recognition without comprehension* (the gap is visible even when its contents are not, with [[boundary-and-projection]] providing a concrete case); the *vertigo of meta-inquiry* (wonder *at* wondering); the *sense of evidential significance* that persists even when unarticulated; and the *frustration of circularity* (every attempt to step outside the question lands inside it).
+Approaching cognitive limits has a distinctive phenomenology, treated in detail under [[edge-states-and-void-probes]]. Five features recur: the *dissolving insight* (grasping that limits reveal structure is itself unstable—see [[transit-void]]); *recognition without comprehension* (the gap is visible even when its contents are not, with [[boundary-and-projection]] providing a concrete case); the *vertigo of meta-inquiry* (wonder *at* wondering); the *sense of evidential significance* that persists even when unarticulated; and the *frustration of circularity* (every attempt to step outside the question lands inside it).
 
 The [[erasure-void]] shows the limiting case: when monitoring infrastructure shares fate with the capacities it monitors, loss can register no phenomenal signal at all. Some voids announce themselves; others operate without any felt edge.
 

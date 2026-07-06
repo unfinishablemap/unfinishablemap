@@ -51,7 +51,7 @@ related_articles:
 - '[[consciousness-and-cognitive-distinctiveness]]'
 - '[[topics/free-will]]'
 - '[[surprise-prediction-error-and-consciousness]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 - '[[meaning-void]]'
 - '[[narrative-void]]'
 - '[[ineffable-encounter-void]]'
@@ -135,7 +135,7 @@ Distinctive features:
 
 The incubation stage is a void—accessible through its products but not its process. Poincaré noted: "among the great numbers of combinations blindly formed by the subliminal self, almost all are without interest... only certain ones are harmonious." Something selects. If the selection mechanism were conscious, we would observe it selecting. We observe only results—ideas that have already passed some filter.
 
-We actively confabulate origin stories for our insights (Nisbett & Wilson, 1977), papering over the gap with false explanations. The [thought-stream-void](/voids/thought-stream-void/) reveals the same pattern in ordinary mentation—creativity is the dramatic instance of a pervasive condition. The process void may be structural: if creative selection involves the same consciousness that would observe it, observing would interfere with selecting.
+We actively confabulate origin stories for our insights (Nisbett & Wilson, 1977), papering over the gap with false explanations. The [transit-void](/voids/transit-void/) reveals the same pattern in ordinary mentation—creativity is the dramatic instance of a pervasive condition. The process void may be structural: if creative selection involves the same consciousness that would observe it, observing would interfere with selecting.
 
 ## The Phenomenology of the Wall
 
@@ -184,7 +184,7 @@ The creative-aesthetic void connects to the Map's [foundational commitments](/te
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [thought-stream-void](/voids/thought-stream-void/) — The same generative opacity pervading ordinary mentation
+- [transit-void](/voids/transit-void/) — The same generative opacity pervading ordinary mentation
 - [creative-consciousness](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
 - [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — The sublime as a value dimension (awe-with-terror), complementing the sublime-as-cognitive-limit treatment here

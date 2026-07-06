@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-06 13:23:12.056384+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,11 @@ date: &id001 2026-01-21
 description: What makes life meaningful? The Map suggests meaning is grounded in the
   intrinsic significance of conscious experience itself—neither God nor mere preference.
 draft: false
+embedded_videos:
+- embedded: 2026-07-06 13:23:12.056384+00:00
+  id: p1W88KY7okM
+  source: notebooklm/0082-01-meaning-of-life
+  url: https://www.youtube-nocookie.com/embed/p1W88KY7okM
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-05 00:00:00+00:00
@@ -41,6 +46,12 @@ topics:
 ---
 
 What makes a life meaningful? Answers range from divine purpose to self-created projects to the claim that meaning is impossible. The Unfinishable Map's framework—built on the conviction that consciousness is fundamental and causally efficacious—suggests a distinctive answer: meaning is grounded neither in God nor in subjective preference alone, but in the intrinsic significance of conscious experience.
+
+<details class="yt-embed" data-video-id="p1W88KY7okM">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/p1W88KY7okM">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Landscape of Answers
 

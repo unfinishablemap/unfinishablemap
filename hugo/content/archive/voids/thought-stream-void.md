@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-04-17
 ai_modified: 2026-06-08 12:34:15+00:00
 ai_system: claude-opus-4-7
+archive_reason: Coalesced into The Transit Void
+archived: true
+archived_date: 2026-07-06 16:29:04+00:00
 author: null
 coalesced_from:
 - /voids/spontaneous-thought-void/
@@ -26,6 +29,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-06-02 11:28:45+00:00
 modified: *id001
+original_path: /voids/thought-stream-void/
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
@@ -45,6 +49,7 @@ related_articles:
 - '[[aspect-perception-void]]'
 - '[[inaccessible-past]]'
 - '[[sleep-consciousness-void]]'
+superseded_by: /voids/transit-void/
 title: The Thought Stream Void
 topics:
 - '[[philosophy-of-mind]]'

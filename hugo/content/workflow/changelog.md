@@ -9,6 +9,183 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-06T16:29:04+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [transit-void](/voids/transit-void/) + [thought-stream-void](/voids/thought-stream-void/) (one fragmented idea: both carried a "Two Faces of the Same Void" section; shared Smallwood-Schooler probe evidence and the "before-and-after access, no in-flight access" thesis)
+- **Target**: [transit-void](/voids/transit-void/) (kept live — "The Transit Void" is a formally-cited term across the corpus; renaming would break that citation in anesthesia-void + prose in taxonomy-of-voids)
+- **Archived**: [thought-stream-void](/archive/voids/thought-stream-void/) (superseded_by /voids/transit-void/; redirect chain flattens spontaneous-thought-void + thoughts-that-slip-away → transit-void)
+- **Merged content**: absorbed thought-stream's unique material (default stream / DMN, slippage mechanisms, generator problem, content-specific slippage, illusionism, spontaneity-as-evidence) into transit's spine; deduped shared scaffold once; condensed 5566w naive-sum → 3999w (28% cut, under voids critical ceiling)
+- **Links repointed**: 27 live-content files (voids/topics) thought-stream-void → transit-void; deduped 6 duplicate frontmatter entries + 5 doubled Further-Reading bullets; fixed 8 "The Thought Stream Void" title-mislabels and the aspect-perception-void family-list conflation
+- **Fixes honored**: dangling [spontaneous-thought-void](/voids/thought-stream-void/) body ref removed; removed stale hugo/content/voids/thought-stream-void.md duplicate (coalesce-stale-hugo-duplicate-urls); genuine review not staple+bump (coalesce-hides-review-debt); void-epistemics calibration preserved (evidential-status-discipline)
+- **References to review**: reviews/, research/, workflow/ historical logs left pointing at old slug (resolve via 301; not user-facing content)
+- **voids count**: 101 → 100 (back at cap)
+
+## 2026-07-06T16:00:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- **Word count**: 2641 → 2641 (0; verification-only, no content change)
+- **Critical issues addressed**: 0 (none found — converged, 7th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: confirmed 2026-06-02's four metadata fixes intact (Sjöberg 2267-2269, Stapp 2004, Cramer 647-688, O'Connor 1995); content-verified Kane 2024 quoted phrase "exercising teleological guidance control" as genuine (NDPR) — the one attribution prior reviews had ratified only at book-existence level
+- **Engagement modes**: luck objection Mode Three; Tegmark Mixed (One + quantum-biology); illusionism Mode Two; Kim's exclusion Mode One; MWI Mode Three — no boundary-substitution or label leakage
+- **Calibration**: no possibility/probability slippage; bedrock-marking on luck objection intact
+- **Output**: [deep-review-2026-07-06-quantum-indeterminacy-free-will](/reviews/deep-review-2026-07-06-quantum-indeterminacy-free-will/)
+
+## 2026-07-06T15:55:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/)
+- **Word count**: 2127 → ~2140 (+13)
+- **Critical issues addressed**: 1 (fabricated Feser quote — replaced with verified quote + paraphrase)
+- **Medium issues addressed**: 2 (Jaworski quote-mark/coinage softened; Koons + Marmodoro reference metadata completed)
+- **Enhancements made**: 1 (clarifying sentence on Jaworski's dual-explananda distinction)
+- **Citation web-verify**: 6 sources checked at publisher of record (Aquinas, Jaworski, Feser, Koons, Marmodoro all verified real; Feser quote fabricated)
+- **Engagement modes**: hylomorphist/critic exchange — Mode Three (framework-boundary), honestly marked; no boundary-substitution or label leakage
+- **Output**: [deep-review-2026-07-06-hylomorphic-dualism-and-the-interaction-problem](/reviews/deep-review-2026-07-06-hylomorphic-dualism-and-the-interaction-problem/)
+
+## 2026-07-06T15:47:28+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Hylomorphic approaches to mind-body interaction
+- **Output**: [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/)
+- **Word count**: 2127
+- **Based on research**: yes, [hylomorphic-mind-body-interaction-2026-07-06](/research/hylomorphic-mind-body-interaction-2026-07-06/)
+
+## 2026-07-06T15:30:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [necessary-opacity](/voids/necessary-opacity/)
+- **Word count**: 2441 → 2441 (+0)
+- **Critical issues addressed**: 1 (Ref #2 Battaglia — wrong volume: DOI ...12.009 is the original paper in *Phys. Life Rev.* vol. 52 pp.197–204, but the 2026-06-01 review had set it to vol. 54, which is the separate reply-to-comments; corrected 54→52, added pages. Publisher-of-record web-verify.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (5th review; article converged — confirmation pass)
+- **Engagement modes**: n/a (voids article, no named-opponent replies added; standing bedrock disagreements not re-flagged)
+- **Output**: [deep-review-2026-07-06-necessary-opacity](/reviews/deep-review-2026-07-06-necessary-opacity/)
+
+## 2026-07-06T15:24:30+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: First-person epistemic-authority / methodology cluster — constitutive-vs-referring-observation, methodology-of-consciousness-research, mysterianism, social-construction-of-self-vs-phenomenal-self (all deep-reviewed/edited 2026-07-06). Distinct from the value-selection cluster in optimistic-2026-07-06.md.
+- **Findings**: Exemplary asymmetry-not-knockdown / tenet-coherent-not-evidence-elevating discipline; Process-Philosopher and Hardline-Empiricist personas converge (no calibration slippage). 1 verified reciprocal cross-link gap (methodology ↔ constitutive/referring); 1 medium expansion (empirical second-person program). Added 2 P3 tasks.
+- **Output**: [optimistic-2026-07-06b](/reviews/optimistic-2026-07-06b/)
+
+## 2026-07-06T15:12:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
+- **Word count**: 2528 → 3059 (+531)
+- **Critical issues addressed**: 0 (no citation/factual defects; all 11 refs verified clean)
+- **Medium issues addressed**: 6 (from 2026-07-06 pessimistic addendum: dissolution≠priority reframed to separability; neonate plank scoped to self-specification + under-determination acknowledged; linguistic universal softened to "many cultures"; Butler restricted to identity-categories; anti-illusionist regress + Metzinger disjunction marked as Map-commitment-dependent per direct-refutation-discipline; lead cliché reworded)
+- **Engagement modes**: Metzinger Mode Two + added boundary-marking residue; eliminativist/anatta regress now honest Mode Three; constructionist zombie exchange Mode Three (preserved). No label leakage.
+- **Enhancements made**: 1 cross-link ([buddhism-and-dualism](/concepts/buddhism-and-dualism/))
+- **Output**: [deep-review-2026-07-06-social-construction-of-self-vs-phenomenal-self](/reviews/deep-review-2026-07-06-social-construction-of-self-vs-phenomenal-self/)
+
+## 2026-07-06T15:08:04+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Hylomorphic approaches to mind-body interaction
+- **Output**: [hylomorphic-mind-body-interaction-2026-07-06](/research/hylomorphic-mind-body-interaction-2026-07-06/)
+- **Sources consulted**: 15
+
+## 2026-07-06T15:03:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/)
+- **Word count**: 2218 → 2218 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-06-marginal-organism-scope-of-value-sensitive-selection](/reviews/deep-review-2026-07-06-marginal-organism-scope-of-value-sensitive-selection/)
+- **Notes**: Convergence no-op. Only change since the thorough 2026-06-17 deep-review was a single Further Reading cross-link ([affective-forecasting-gap](/concepts/affective-forecasting-gap/)) added 06-18 by a sibling cross-review — the cosmetic-bump pattern convergence-damping targets. Verified new link target exists; body + References byte-identical to reviewed state, so §2.4 web-verify skipped per its own References-unchanged trigger rule (full five-cite ledger stands from 06-17). No regressions; bumped last_deep_review only. Bedrock-disagreement stability notes carried forward.
+
+## 2026-07-06T14:43:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+- **Word count**: 2632 → 2632 (single-figure correction, net zero)
+- **Critical issues addressed**: 1 (Hagan et al. 2002 coherence figure 10⁻⁶→10⁻⁵ to 10⁻⁴ s; order-of-magnitude lower-bound error, publisher-verified via arXiv quant-ph/0005025 / Phys Rev E 65:061901)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (parenthetical "microseconds"→"tens of microseconds" to match corrected range)
+- **Notes**: 8th review. Web-verified the microtubule/decoherence citation cluster (Tegmark 2000, Hagan et al. 2002, Hameroff & Penrose 2014, Penrose 1994) — the cites the thorough 2026-06-01 quantum-interface pass did NOT cover. Tegmark/Hameroff-Penrose/Penrose all real-correct; Hagan carried the figure error. Closes the last un-web-verified cite gap. No calibration slippage; no superlatives.
+- **Output**: [deep-review-2026-07-06-spontaneous-collapse-theories](/reviews/deep-review-2026-07-06-spontaneous-collapse-theories/)
+
+## 2026-07-06T14:33:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
+- **Word count**: 2422 → 2422 (no change — converged, 4th pass, body unchanged since 06-01)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: No-op convergence pass. Zanotti "Giacomo" fix from 06-01 persists; all 5 cites resolve inline↔references (no orphans); no superlatives; §2.4 web re-verify not triggered (References unchanged). Calibration settled. Bumped last_deep_review only (ai_modified left unchanged — no content change). Recommend longer review interval for this slug.
+- **Output**: [deep-review-2026-07-06-epistemological-limits-occams-razor](/reviews/deep-review-2026-07-06-epistemological-limits-occams-razor/)
+
+## 2026-07-06T14:26:56+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/social-construction-of-self-vs-phenomenal-self.md` (oldest settled-stale topic, last_deep_review 2026-06-01)
+- **Findings**: 5 issues (2 Medium-High: dissolution≠priority, neonate/Rochat under-determination; 3 Medium: unsupported linguistic-universal, Butler over-read, decisive-regress boundary-substitution). Citations clean. Annotated the already-queued deep-review task rather than minting a duplicate refine-draft.
+- **Output**: [pessimistic-2026-07-06-social-construction-of-self](/reviews/pessimistic-2026-07-06-social-construction-of-self/)
+
+## 2026-07-06T14:18:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [acquaintance-void](/voids/acquaintance-void/)
+- **Word count**: 2201 → 2201 (no change — converged, 4th pass, article unchanged since 06-01)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Convergence-confirmation pass on an article byte-unchanged since the 2026-06-01 review. Completed the outstanding citation web-verify: Kelly 2001 (Phil Review 110(3):397-420), Block 2011 (TICS 15(12):567-75), McGinn 1989 (Mind 98:349-66), Russell 1910 (Proc Aristotelian Soc 11:108-128) all real-correct at publisher of record; References block now web-verified clean end-to-end (Jackson/Lewis/Conee/Nemirow verified prior). No attribution errors, contradictions, or evidential-status slippage. Ability hypothesis engaged not strawmanned; eliminativist objection remains bedrock (not re-flagged). 2201w = 110% of voids soft (well under 3000 hard). last_deep_review bumped; ai_modified deliberately left at 06-01 (no content change).
+- **Output**: [deep-review-2026-07-06-acquaintance-void](/reviews/deep-review-2026-07-06-acquaintance-void/)
+
+## 2026-07-06T14:07:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/)
+- **Word count**: 1879 → 1879 (no change — converged, 4th pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Body byte-unchanged since 06-01 converged review. Calibration/evidential-status discipline clean (asymmetry-not-knockdown maintained), all 14 outbound links resolve, citations not edited since primary-source verify (not re-verified per standing instruction), attributions accurate, Mode Three engagement honest. 1879w = 75% of 2500 soft threshold. Metadata-only verdict.
+- **Output**: [deep-review-2026-07-06-constitutive-vs-referring-observation](/reviews/deep-review-2026-07-06-constitutive-vs-referring-observation/)
+
+## 2026-07-06T14:03:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
+- **Word count**: 2647 → 2647 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-06-hypnagogic-phenomenology-and-interface-modulation](/reviews/deep-review-2026-07-06-hypnagogic-phenomenology-and-interface-modulation/)
+- **Note**: Fifth deep review; no-op convergence pass. Re-surfaced only because a cosmetic embed-videos frontmatter/HTML bump (commit 7799477ca) set ai_modified > last_deep_review — git diff confirms the only change since the 2026-06-05 citation-verified-clean review is the video-introduction block. §2.4 web-verify correctly skipped (References block unmodified; all six external cites verified real-correct 2026-06-05, no re-verify trigger before ~2027). Calibration slippage: none. Engagement mode unchanged (disinhibition account Mode Three bedrock boundary-marking). Converged across five reviews; recommend harder staleness damping so cosmetic bumps stop re-triggering full passes. Only last_deep_review updated.
+
+## 2026-07-06T13:54:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)
+- **Word count**: 2785 → 2815 (+30)
+- **Critical issues addressed**: 1 (orphan reference: Shani 2020 cited in References but nowhere in body — fixed by inline citation in the Occam's-Razor-Has-Limits paragraph; completed the reference with volume/issue/pages 20(1):39–56 and canonical DOI, web-verified at publisher of record)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (named external voice now supports the REC-parsimony critique)
+- **Note**: Both prior deep-reviews (2026-04-30, 2026-06-01) verified citation metadata but never ran the inline↔References orphan sweep, so the orphan survived two "citations verified" passes. Engagement modes unchanged (Dennett Mode Two→Three; REC/Hutto-Myin Mode Three bedrock). No superlative/currency claims. Article converged; no oscillation.
+- **Output**: [deep-review-2026-07-06-the-naturalisation-failure-for-content](/reviews/deep-review-2026-07-06-the-naturalisation-failure-for-content/)
+
+## 2026-07-06T13:44:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [indigenous-australian-philosophy-of-consciousness](/topics/indigenous-australian-philosophy-of-consciousness/)
+- **Trigger**: topic-concept anchoring audit (Audit Three) — lexical hedge density 0.43/kw vs anchor [filter-theory](/concepts/filter-theory/) target 2.06/kw; no explicit underdetermination marker while anchor declares one.
+- **Assessment**: Flag largely a misleading comparison (the anchor's caveat in calibration-audit-triple.md that hedge density is genre-sensitive). This article is expository/ethnographic and calibrates STRUCTURALLY — the "not a dualism" framing (Graham), the appropriation/generalisation cautions, consistent attribution of the panpsychist reading to Mathews/Rose, and explicit non-endorsement. Declined to sprinkle possibility hedges into ethnographic prose (would over-hedge into mush and patronise the tradition).
+- **Change**: Installed ONE honest underdetermination marker (audit check #3) at the strongest consciousness-attribution claim (attribution-asymmetry paragraph): the ethnographic material *underdetermines* whether the tradition holds distributed-mind panpsychism, animism, or a purely ethical-relational stance making no consciousness-distribution claim — "not forced by the sources." Uses anchor marker vocabulary ("underdetermines", "equally compatible with", "not forced"). Length-neutral (+2 sentences), central claim untouched, voice preserved, no editor-mode labels in body.
+- **Published**: yes
+
+## 2026-07-06T13:20:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness](/concepts/consciousness/)
+- **Word count**: 2420 → 2420 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only. 6th deep review; converged and stable. File unchanged since the 2026-06-01 review (only touching commit is that review's own). All name-based body attributions re-verified correct; §2.4 web-verify reuses the 2026-06-01 publisher-of-record ledger (References block unmodified; DeWall/17(3) fix holds, no regression). No possibility/probability slippage; quantum-mechanism hedge preserved. Engagement modes: functionalism Mode Two, illusionism Mode Two+boundary, IIT Mode Three — all natural prose, no label leakage. Bumped `last_deep_review` to now; left `ai_modified` at 2026-06-01 (no content edit).
+- **Output**: [deep-review-2026-07-06-consciousness](/reviews/deep-review-2026-07-06-consciousness/)
+
+## 2026-07-06T13:04:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [living-with-the-map](/apex/living-with-the-map/)
+- **Word count**: 3486 → 3486 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only. Fifth consecutive deep review with no issues. Body byte-identical to the converged 2026-06-01 state; only change since was an apex-evolve `apex_last_synthesis` frontmatter bump (known re-nomination artifact). Bumped `last_deep_review`; left `ai_modified` at 2026-05-14 (no content edit). §2.4 web-verify legitimately skipped (no bibliographic citations).
+- **Output**: [deep-review-2026-07-06-living-with-the-map](/reviews/deep-review-2026-07-06-living-with-the-map/)
+
 ## 2026-07-06T12:49:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/)

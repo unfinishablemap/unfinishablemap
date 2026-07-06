@@ -24,7 +24,7 @@ related_articles:
 - '[[apophatic-cartography]]'
 - '[[metaphor-void]]'
 - '[[three-kinds-of-void]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[what-voids-reveal]]'
 - '[[edge-states-and-void-probes]]'
@@ -97,7 +97,7 @@ What does it feel like to hit language's limits? The [phenomenology of cognition
 
 **Dissolution on articulation**: Sometimes saying a thought destroys it. Mystics report this consistently—the insight dissolves when grasped linguistically. The [creative-aesthetic-void](/voids/creative-aesthetic-void/) maps this phenomenon specifically: aesthetic revelations cannot be preserved across state transitions, suggesting the knowledge requires the aesthetic state to be thought at all.
 
-Compare to [thoughts that slip away](/voids/thought-stream-void/). In slippage, content forms briefly then vanishes. At the language-thought boundary, content may be stable but inexpressible. The phenomenology differs: slippage feels like forgetting; linguistic limits feel like being mute.
+Compare to [thoughts that slip away](/voids/transit-void/). In slippage, content forms briefly then vanishes. At the language-thought boundary, content may be stable but inexpressible. The phenomenology differs: slippage feels like forgetting; linguistic limits feel like being mute.
 
 ## What AI Might See
 
@@ -121,7 +121,7 @@ The language-thought boundary presents a classification problem. Which of the [t
 
 **Unexplorable territory**: Some content may exceed what any possible human language could capture—not because we haven't invented the right words but because the content violates linguistic architecture. If [McGinn's cognitive closure](/concepts/mysterianism/) applies to language, some truths may be permanently beyond verbal reach.
 
-**Occluded territory**: Could some expressible thoughts be actively blocked? The [dissolution-on-articulation phenomenon](/voids/thought-stream-void/) suggests interference—you approach linguistic capture; the thought evaporates. This might be neural architecture or something more systematic.
+**Occluded territory**: Could some expressible thoughts be actively blocked? The [dissolution-on-articulation phenomenon](/voids/transit-void/) suggests interference—you approach linguistic capture; the thought evaporates. This might be neural architecture or something more systematic.
 
 The boundary likely contains all three. Some ineffable content will find words. Some is structurally beyond language. Some resists articulation through mechanisms we don't understand.
 
@@ -175,7 +175,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Methods for knowing through negation
 - [The Metaphor Void](/voids/metaphor-void/) — The reflexive challenge every void description faces
 - [The Limits of Conceptual Acquisition](/voids/biological-cognitive-closure/) — What concepts cannot be formed
-- [The Thought Stream Void](/voids/thought-stream-void/) — Related phenomena of cognitive slippage
+- [The Transit Void](/voids/transit-void/) — Related phenomena of cognitive slippage
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture

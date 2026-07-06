@@ -34,7 +34,7 @@ related_articles:
   - "[[affective-void]]"
   - "[[erasure-void]]"
   - "[[suspension-void]]"
-  - "[[thought-stream-void]]"
+  - "[[transit-void]]"
   - "[[noetic-feelings-void]]"
   - "[[conjunction-coalesce]]"
   - "[[inference-void]]"
@@ -95,7 +95,7 @@ The passive face has internal mechanism, visible where consciousness cannot prev
 
 **Rumination** concerns loop persistence. Nolen-Hoeksema, Wisco, and Lyubomirsky (2008) frame it as repetitive negative-mood-content thinking maintained partly through the very efforts to escape it—the same loop-sustains-itself pattern earworms and intrusive memories show across different timescales.
 
-The apophatic signature: detecting recurrence requires representing what one wants suppressed; noticing rumination supplies fresh ruminative content. The control surface and the surveillance surface are one surface. The same Wegner monitor logic recurs on the active side as the self-defeat of withholding judgment ([[suspension-void]] §"Action"). This is the operational complement of [[thought-stream-void|the thought-stream void's]] handling of *generation*; recurrence concerns *re-presentation*. The recurrence faces *constrain* the dualist reading without *establishing* it—Inzlicht and Schmeichel's (2012) resource-redeployment account accommodates the same dissociations within physicalism. What recurrence adds is sharper grain on the passive limit: a typology of *how* the inability operates.
+The apophatic signature: detecting recurrence requires representing what one wants suppressed; noticing rumination supplies fresh ruminative content. The control surface and the surveillance surface are one surface. The same Wegner monitor logic recurs on the active side as the self-defeat of withholding judgment ([[suspension-void]] §"Action"). This is the operational complement of [[transit-void|the thought-stream void's]] handling of *generation*; recurrence concerns *re-presentation*. The recurrence faces *constrain* the dualist reading without *establishing* it—Inzlicht and Schmeichel's (2012) resource-redeployment account accommodates the same dissociations within physicalism. What recurrence adds is sharper grain on the passive limit: a typology of *how* the inability operates.
 
 ## The Verification Circularity
 
@@ -173,7 +173,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[erasure-void]] — Clinical sister case: self-monitoring eroding alongside what it would monitor
 - [[suspension-void]] — Structural sister case: same self-investigator circularity
 - [[decision-void]] — Within-agency void at the deliberation→commitment crossing
-- [[thought-stream-void]] — Operational complement: thought *generation* vs recurrence's *re-presentation*
+- [[transit-void]] — Operational complement: thought *generation* vs recurrence's *re-presentation*
 - [[ownership-void]] — Mineness of the unbidden content
 - [[necessary-opacity]] — Representational sibling: this void asks whether the agent can verify it *caused* anything; necessary opacity, whether the medium reporting the answer *tracks reality* at all
 - [[noetic-feelings-void]] — The felt texture of intrusion as itself a noetic feeling

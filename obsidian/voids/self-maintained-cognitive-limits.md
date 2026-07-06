@@ -25,7 +25,7 @@ related_articles:
   - "[[conceptual-scheme-void]]"
   - "[[necessary-opacity]]"
   - "[[noetic-feelings-void]]"
-  - "[[thought-stream-void]]"
+  - "[[transit-void]]"
   - "[[edge-states-and-void-probes]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[simulation-detection-void]]"

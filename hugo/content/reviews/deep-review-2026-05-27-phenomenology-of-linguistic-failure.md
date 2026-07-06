@@ -26,7 +26,7 @@ topics: []
 None.
 
 ### Medium Issues Found
-- **Dead link to archived article**: Two links pointed at `[[thoughts-that-slip-away]]` — one in `related_articles` frontmatter, one in Further Reading. That article was coalesced into [The Thought Stream Void](/voids/thought-stream-void/) on 2026-04-17 (`superseded_by: /voids/thought-stream-void/`) and now exists only as an archive-notice page. This is the known archival link-rot pattern: inbound wikilinks survive a /coalesce but keep pointing at the archive notice rather than the live replacement. Resolution: repointed both links to `[[thought-stream-void]]`, which directly covers the "thoughts vanish as you reach for them" / slippage phenomenon the linking sentence referenced. Updated the Further Reading annotation accordingly.
+- **Dead link to archived article**: Two links pointed at `[[thoughts-that-slip-away]]` — one in `related_articles` frontmatter, one in Further Reading. That article was coalesced into [The Thought Stream Void](/voids/transit-void/) on 2026-04-17 (`superseded_by: /voids/thought-stream-void/`) and now exists only as an archive-notice page. This is the known archival link-rot pattern: inbound wikilinks survive a /coalesce but keep pointing at the archive notice rather than the live replacement. Resolution: repointed both links to `[[thought-stream-void]]`, which directly covers the "thoughts vanish as you reach for them" / slippage phenomenon the linking sentence referenced. Updated the Further Reading annotation accordingly.
 
 ### Counterarguments Considered
 - All six adversarial personas engaged. No new issues beyond the bedrock methodological disagreement already recorded in both prior reviews (treating introspective phenomenology as data is circular from the eliminativist/physicalist standpoint). Not re-flagged — bedrock, not fixable.
@@ -50,7 +50,7 @@ No slippage. The article makes phenomenological-descriptive claims framed as int
 - Confident but non-dogmatic voice; clean style-guide-compliant structure with front-loaded opening and substantive "Relation to Site Perspective".
 
 ### Enhancements Made
-- Repointed the slippage cross-reference to the live [thought-stream-void](/voids/thought-stream-void/) and enriched its Further Reading annotation.
+- Repointed the slippage cross-reference to the live [thought-stream-void](/voids/transit-void/) and enriched its Further Reading annotation.
 
 ### Cross-links Added
 - None new beyond the repoint. The link graph established in the two prior reviews remains intact and accurate.

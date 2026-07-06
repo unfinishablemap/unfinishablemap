@@ -116,7 +116,7 @@ For now, the Distraction Void remains a place where one direct empirical finding
 - [transit-void](/voids/transit-void/)
 - [recognition-void](/voids/recognition-void/)
 - [agency-void](/voids/agency-void/)
-- [thought-stream-void](/voids/thought-stream-void/)
+- [thought-stream-void](/voids/transit-void/)
 - [self-opacity](/voids/self-opacity/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-25 13:55:08+00:00
+ai_modified: 2026-07-06 13:23:12.056384+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,6 +37,11 @@ description: The 100-million-fold gap between neural processing and conscious ou
   reveals the shape of the mind-brain interface—a selection channel whose coarseness
   is architecturally required, not a defect.
 draft: false
+embedded_videos:
+- embedded: 2026-07-06 13:23:12.056384+00:00
+  id: -ZzU5zvhghA
+  source: notebooklm/0085-01-bandwidth-of-consciousness
+  url: https://www.youtube-nocookie.com/embed/-ZzU5zvhghA
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 13:55:08+00:00
@@ -62,6 +67,12 @@ topics:
 ---
 
 Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second—a ratio Zheng and Meister call the "sifting ratio," which runs to 100 million to one against total neural processing (and roughly a million to one against sensory transduction). The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: on the dualist reading, consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint may define the *shape* of the interface, distinguishing what consciousness does from what the brain does, and arguably exposing why production models face a problem that [filter](/concepts/filter-theory/) and [interactionist](/concepts/interactionist-dualism/) models appear to handle more naturally.
+
+<details class="yt-embed" data-video-id="-ZzU5zvhghA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/-ZzU5zvhghA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Measuring the Ceiling in Bits
 

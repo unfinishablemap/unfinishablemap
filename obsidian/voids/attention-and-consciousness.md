@@ -21,7 +21,6 @@ related_articles:
   - "[[tenets]]"
   - "[[medium-status-voids-in-cognition]]"
   - "[[transit-void]]"
-  - "[[thought-stream-void]]"
   - "[[self-opacity]]"
   - "[[edge-states-and-void-probes]]"
   - "[[what-voids-reveal]]"
@@ -141,7 +140,6 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [[attention-as-interface]] — The core hypothesis: attention as consciousness's bridge to matter
 - [[structure-of-attention]] — Three modes of attention and their neural signatures
 - [[disappearance-voids|The Habituation Void]] — A related void where familiarity, not attention, erases experience
-- [[thought-stream-void|The Thought Stream Void]] — Related phenomenology of cognitive slippage
 - [[self-opacity|The Unobservable Self]] — The observer who cannot observe itself observing
 - [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[contemplative-pathology-and-interface-malfunction]] — What happens when meditation pushes the interface beyond its limits

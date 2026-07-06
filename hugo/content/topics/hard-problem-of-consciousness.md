@@ -11,7 +11,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[concepts/functionalism]]'
 - '[[apophatic-approaches]]'
-- '[[thought-stream-void]]'
+- '[[transit-void]]'
 - '[[explanatory-gap]]'
 - '[[reductionism]]'
 - '[[concepts/materialism]]'

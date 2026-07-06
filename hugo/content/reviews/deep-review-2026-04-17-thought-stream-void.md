@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-17
-**Article**: [The Thought Stream Void](/voids/thought-stream-void/)
+**Article**: [The Thought Stream Void](/voids/transit-void/)
 **Previous review**: Never (first review of coalesced article)
 
 This is the first deep review of the coalesced article. Both source articles received prior reviews:

@@ -21,7 +21,7 @@ description: Human+AI exploration of the territory that descriptions and concept
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 02:31:15+00:00
+last_deep_review: 2026-07-06 14:18:55+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
