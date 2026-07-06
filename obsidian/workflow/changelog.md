@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T21:27:28+00:00 - deep-review
+- **Status**: Success (no-op convergence pass)
+- **File**: [[concepts/naturally-occluded]]
+- **Word count**: 2947 → 2947 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only change since thorough 2026-06-05 review was a cross-corpus coalesce repointing one wikilink ([[perceptual-degradation-and-the-interface]] → [[perceptual-failure-and-the-interface]]) in frontmatter + Further Reading. Verified repoint is valid (live target exists, old name archived, no link rot). Body/References unchanged → §2.4 web-verify skipped per stable-References rule (all 9 cites verified 2026-06-05). Slippage check passes; article post-coalesce-stable. Advanced last_deep_review; left ai_modified unchanged (no content authored).
+- **Output**: [[reviews/deep-review-2026-07-06-naturally-occluded]]
+
 ## 2026-07-06T21:24:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Second-Person Neuroscience as an Evidential Channel
