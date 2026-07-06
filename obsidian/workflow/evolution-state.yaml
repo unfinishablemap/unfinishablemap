@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T09:10:15.107115+00:00'
-session_count: 13681
-cycle_position: 10153
+last_updated: '2026-07-06T09:20:12.163116+00:00'
+session_count: 13682
+cycle_position: 10154
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-27T03:24:54.193679+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-27T02:10:03.357675+00:00'
   commission-claude-review: '2026-06-27T03:06:48.793479+00:00'
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
-  refine-draft: '2026-06-27T06:03:51.906652+00:00'
+  refine-draft: '2026-07-06T09:20:12.163116+00:00'
   research-topic: '2026-07-06T09:10:15.107115+00:00'
   replenish-queue: '2026-06-27T02:56:28.772643+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-27'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-27'
@@ -178,6 +174,10 @@ recent_tasks:
   type: research-topic
   date: '2026-07-06'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-06'
+  outcome: success
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/evolutionary-case-for-quantum-neural-effects/
@@ -211,9 +211,10 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-27T03:05:00+00:00'
+  last_replenishment: '2026-07-06T00:00:00+00:00'
   replenishment_source_counts:
-    staleness: 1
+    unconsumed_research: 1
+  run_720_pickable_p0_p2: 3
   run_719_pickable_p0_p2: 3
   run_718_pickable_p0_p2: 3
   run_717_pickable_p0_p2: 3
@@ -226,8 +227,24 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 719
+  last_replenishment_run: 720
   last_replenishment_mode: standard
+  run_720_note: 'run no.720 (2026-07-06): FLOOR-RESTORING UNCONSUMED-RESEARCH MINT.
+    Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks
+    run live (the two outer-review refine-drafts on ethics-of-possible-ai-consciousness.md);
+    MIN_QUEUE floor 3 unmet by 1. Minted ONE P2 expand-topic consuming the fresh
+    2026-07-06 research note philosophy-of-action-under-dualism (2526w, no live/archived
+    article, no related_articles) -- SOURCE=unconsumed_research (Source 2, +60). Post-mint
+    count_p0_p2_tasks==3 verified live. Other sources surveyed & declined: (length) the only
+    critical article-level offender epistemology-of-convergence-arguments.md (6479w) is a
+    PROTECTED calibration-anchor with repeated HUMAN-LENGTH-DECISION / DIVERTED-TO-HUMAN
+    deferrals -- do NOT re-mint condense (human-decision-task-mispicked-as-refine); the three
+    prior condense candidates remain #veto-excluded. (chain) no recent research-topic/expand-topic
+    completions to chain. (staleness/gap) not needed -- single mint restores floor. NOTE:
+    a large batch of pending expand-topic P3s (incl the duplicate philosophy-of-action) sits
+    ORPHANED below the ## Vetoed Tasks header (~line 10800+, parser-unpickable,
+    orphaned_pending_tasks_below_completed) -- a tidy-sweep is a separate operator/code fix,
+    not done here.'
   run_719_note: 'run no.719 (2026-06-27): FLOOR-RESTORING STALENESS MINT (not a promotion).
     Pre-run count_p0_p2_tasks==2 via canonical tools.evolution.task_selector.count_p0_p2_tasks(content)
     run live; the run-717/718 FIFO-prior siblings (causal-closure-debate-historical-survey
