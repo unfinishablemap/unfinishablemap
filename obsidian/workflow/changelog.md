@@ -5,6 +5,14 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T10:03:11+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Indigenous Australian philosophy of consciousness (the Dreaming, relational/place-bound self, panpsychist resonance)
+- **Output**: [[topics/indigenous-australian-philosophy-of-consciousness]]
+- **Word count**: 2281
+- **Based on research**: yes — [[research/indigenous-australian-philosophy-of-consciousness-2026-06-27]]
+- **Note**: Angle 1 (located self + the Dreaming). Two-channel discipline: Graham/Stanner/Swain/Mathews exposition kept separate from Map integration. Honest tenet framing — convergence on anti-physicalism, but marked as relational/animist and panpsychist-leaning (Mathews), NOT substance dualism (Graham: "not a dualism"). Flagged the Indigenous-ethics vs. non-Indigenous-"consciousness"-reading asymmetry, the 250+ language-group generalisation caution, the appropriation/sovereignty concern, and explicitly refused the Dreaming↔REM-sleep conflation.
+
 ## 2026-07-06T00:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/ethics-of-possible-ai-consciousness]] (flagship, ~4359w, over hard ceiling)
