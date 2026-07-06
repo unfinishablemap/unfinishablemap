@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T21:17:23+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Substance Causation and Lowe's Four-Category Ontology
+- **Output**: [[research/substance-causation-and-lowes-four-category-ontology-2026-07-06]]
+- **Sources consulted**: 7 (4 primary Lowe works verified at publisher of record: Four-Category Ontology OUP 2006, Personal Agency OUP 2008, "Substance Causation, Powers, and Human Agency" in Mental Causation and Ontology OUP 2013 ch.6 pp.153-172, "Non-Cartesian Substance Dualism and the Problem of Mental Causation" Erkenntnis 65:5-23 2006; plus Kistler HAL, SEP, IEP)
+- **Verdict**: Article-worthy — no existing Lowe/substance-causation file; framework invoked but ungrounded across agency cluster. Recommended concepts/ article framed on the fork between Lowe's no-physics-gap fact-causation and the Map's Tenet 2 minimal-quantum-interaction.
+
 ## 2026-07-06T20:50:45+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/perceptual-degradation-and-the-interface]] (concepts-namespace duplicate)
