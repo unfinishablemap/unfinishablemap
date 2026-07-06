@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T15:47:28+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Hylomorphic approaches to mind-body interaction
+- **Output**: [[topics/hylomorphic-dualism-and-the-interaction-problem]]
+- **Word count**: 2127
+- **Based on research**: yes, [[research/hylomorphic-mind-body-interaction-2026-07-06]]
+
 ## 2026-07-06T15:30:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/necessary-opacity]]
