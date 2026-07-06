@@ -5,6 +5,19 @@ ai_modified: 2026-06-27T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T09:14:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Source**: outer review 2026-06-27 (ChatGPT 5.5 Pro), actionable residue on the "dualist bracketing" critique
+- **Changes**:
+  - Added an early **Map-internal framing note** (after the opening) stating the low-probability verdict for current classical AI is conditional on the Map's dualism + Minimal Quantum Interaction + the bidirectional-interface requirement, and is NOT the consensus result of contemporary AI-consciousness science (Butlin et al. 2023 and TICS successors report open uncertainty, not structural near-exclusion).
+  - Imported the surrounding [[ai-consciousness]] article's admission that MQI is "a philosophical commitment, not an empirically grounded claim" and "supplies no present evidential weight against AI consciousness over biology" into the Framework-Dependent Assessment (the practical-conclusions point), per the reviewer's request that it appear prominently where the article draws practical conclusions.
+  - **Named positions by register**: P-AC1 (current digital AI on the low-probability side of the substrate analysis) in the Framework-Dependent Assessment; P-AC3 (conscious copies morally additive under closed individualism) in the copy-multiplicity section; added [[positions/ai-consciousness-scope]] to Further Reading.
+  - **Framework-boundary honesty for the binding/interface requirement** (direct-refutation-discipline remit; editor-internal classification Mode Three — framework-boundary marking): added natural-prose acknowledgment in the Epiphenomenal Complication section that the requirement is a foundational commitment of the Map's dualism argued in the quantum-interface register, not a neutral finding, and that a functionalist who denies it disagrees at the framework boundary — the article does not claim to refute that rival on its own terms. No mode-labels in the body.
+- **Not done (deliberate)**: no wholesale "major revision"; the article's framework-conditional ethics is a deliberate, self-aware stance (existing "transparency note" + reflexive [[possibility-probability-slippage]] discipline retained). Reviewer's "major revision" headline discounted per the review's own Verification Notes.
+- **Length**: additions kept tight but grew the article 3997→4359w (hard_warning, under 6000 critical). Article was already flagged saturated at ~4000 with "trimmable redundancy exhausted" (standing NEEDS-HUMAN length flag in todo.md). Recorded the new pressure against that existing human condense-first/split decision rather than minting a redundant auto-condense ([[human-decision-task-mispicked-as-refine]]).
+- **Published**: yes
+
 ## 2026-07-06T09:06:59+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Philosophy of action under dualism
