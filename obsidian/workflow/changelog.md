@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T21:24:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Second-Person Neuroscience as an Evidential Channel
+- **Output**: [[research/second-person-neuroscience-as-an-evidential-channel-2026-07-06]]
+- **Sources consulted**: 8 (5 citations verified at publisher of record by title+venue: Schilbach et al. "Toward a second-person neuroscience" BBS 36(4):393-414 2013; De Jaegher/Di Paolo/Gallagher "Can social interaction constitute social cognition?" TICS 14(10):441-447 2010; Fuchs & De Jaegher "Enactive intersubjectivity" Phen.Cog.Sci 8(4):465-486 2009; Fuchs 2013 same journal; Reddy "How Infants Know Minds" Harvard UP 2008 ISBN 9780674026667; plus Levinson interaction-engine chapter, Trevarthen primary-intersubjectivity classic UNVERIFIED, hyperscanning review)
+- **Verdict**: Article-worthy — no dedicated second-person/dyad article; distinct EPISTEMIC angle ("third evidential channel") avoids overlap with existing intersubjectivity content. Recommended topics/ article on Tenet 5 (limits of third-person science): endorse the channel, quarantine the enactivist constitutive metaphysics, keep evidential-status discipline (channel not proof of dualism).
+
 ## 2026-07-06T21:17:23+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Substance Causation and Lowe's Four-Category Ontology
