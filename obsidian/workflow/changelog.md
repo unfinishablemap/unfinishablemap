@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T13:20:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness]]
+- **Word count**: 2420 → 2420 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only. 6th deep review; converged and stable. File unchanged since the 2026-06-01 review (only touching commit is that review's own). All name-based body attributions re-verified correct; §2.4 web-verify reuses the 2026-06-01 publisher-of-record ledger (References block unmodified; DeWall/17(3) fix holds, no regression). No possibility/probability slippage; quantum-mechanism hedge preserved. Engagement modes: functionalism Mode Two, illusionism Mode Two+boundary, IIT Mode Three — all natural prose, no label leakage. Bumped `last_deep_review` to now; left `ai_modified` at 2026-06-01 (no content edit).
+- **Output**: [[reviews/deep-review-2026-07-06-consciousness]]
+
 ## 2026-07-06T13:04:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/living-with-the-map]]
