@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T13:54:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-naturalisation-failure-for-content]]
+- **Word count**: 2785 → 2815 (+30)
+- **Critical issues addressed**: 1 (orphan reference: Shani 2020 cited in References but nowhere in body — fixed by inline citation in the Occam's-Razor-Has-Limits paragraph; completed the reference with volume/issue/pages 20(1):39–56 and canonical DOI, web-verified at publisher of record)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (named external voice now supports the REC-parsimony critique)
+- **Note**: Both prior deep-reviews (2026-04-30, 2026-06-01) verified citation metadata but never ran the inline↔References orphan sweep, so the orphan survived two "citations verified" passes. Engagement modes unchanged (Dennett Mode Two→Three; REC/Hutto-Myin Mode Three bedrock). No superlative/currency claims. Article converged; no oscillation.
+- **Output**: [[reviews/deep-review-2026-07-06-the-naturalisation-failure-for-content]]
+
 ## 2026-07-06T13:44:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/indigenous-australian-philosophy-of-consciousness]]

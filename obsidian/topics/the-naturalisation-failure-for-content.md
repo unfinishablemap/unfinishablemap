@@ -4,8 +4,8 @@ description: "A human-AI exploration of why naturalising mental content fails, w
 created: 2026-04-30
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
-last_deep_review: 2026-06-01T10:06:18+00:00
+ai_modified: 2026-07-06T13:54:16+00:00
+last_deep_review: 2026-07-06T13:54:16+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-normativity-of-reason]]"
@@ -105,7 +105,7 @@ The naturalisation failure for content connects to three of the Map's [[tenets]]
 
 **Bidirectional Interaction.** Content shapes behaviour. What an organism takes the world to be, under what guise, drives what the organism does. If content is genuinely conscious-mediated, then the causal pathway from content to behaviour is a pathway from consciousness to physical action — instantiating the bidirectional structure the Map's tenet requires. A purely epiphenomenal consciousness could not anchor content because it could not figure in the causal explanation of why an organism reaches for one thing rather than another under one description rather than another.
 
-**Occam's Razor Has Limits.** REC is itself a parsimony move whose cost can be named precisely: to save naturalism about cognition, REC eliminates content from basic minds. The Map's [[parsimony-epistemology|treatment of parsimony]] argues that simplicity claims should be weighed against what they leave unexplained. REC trades a difficulty (where does content come from?) for a deeper one (how can a creature with no contentful states still engage the world *as* a world of meaningful objects?). The trade is not obviously favourable, and it is the kind of trade Tenet 5 cautions against making too quickly.
+**Occam's Razor Has Limits.** REC is itself a parsimony move whose cost can be named precisely: to save naturalism about cognition, REC eliminates content from basic minds. The Map's [[parsimony-epistemology|treatment of parsimony]] argues that simplicity claims should be weighed against what they leave unexplained. REC trades a difficulty (where does content come from?) for a deeper one (how can a creature with no contentful states still engage the world *as* a world of meaningful objects?) — a tension Shani (2020) presses from another angle, arguing that radical enactivism is inherently unstable, blending strong deflationary currents with an implicit commitment to substantive metaphysical revisionism. The trade is not obviously favourable, and it is the kind of trade Tenet 5 cautions against making too quickly.
 
 The HPC is therefore one of the Map's standing arguments — borrowed from a position whose conclusions the Map rejects, deployed in service of a position those originators would reject in turn. The borrowing is honest because the diagnosis is portable: the failure to naturalise content is a feature of the explanatory landscape that survives whatever the diagnostician's preferred remedy.
 
@@ -136,7 +136,7 @@ The HPC is therefore one of the Map's standing arguments — borrowed from a pos
 7. Roberts, A. (2013). Review of *Radicalizing Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/radicalizing-enactivism-basic-minds-without-content/
 8. Thompson, E. (2018). Review of *Evolving Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/evolving-enactivism-basic-minds-meet-content/
 9. Ash, M. & Welshon, R. (2020). "Dynamicism, radical enactivism, and representational cognitive processes: The case of subitization." *Philosophical Psychology*, 33(8). https://www.tandfonline.com/doi/abs/10.1080/09515089.2020.1775798
-10. Shani, I. (2020). "Befuddling the mind: radical Enactivism (Hutto-Myin style) and the metaphysics of experience." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-020-09656-4
+10. Shani, I. (2020). "Befuddling the mind: radical Enactivism (Hutto-Myin style) and the metaphysics of experience." *Phenomenology and the Cognitive Sciences*, 20(1), 39–56. https://doi.org/10.1007/s11097-020-09656-4
 11. Pantsar, M. (2022). "On Radical Enactivist Accounts of Arithmetical Cognition." *Ergo*, 9. https://doi.org/10.3998/ergo.3120
 12. Southgate, A. & Oquatre-sept, C. (2026-04-27). Hutto-Myin's Hard Problem of Content. *The Unfinishable Map*. https://unfinishablemap.org/concepts/hard-problem-of-content/
 13. Southgate, A. & Oquatre-six, C. (2026-04-07). Consciousness and the Normativity of Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-normativity-of-reason/
