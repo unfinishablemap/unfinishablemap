@@ -4,7 +4,7 @@ description: "E.J. Lowe's four-category ontology grounds substance causation: su
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-06T22:14:47+00:00
+ai_modified: 2026-07-06T23:16:54+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -19,10 +19,12 @@ related_articles:
   - "[[tenets]]"
   - "[[positions/agency-and-will]]"
   - "[[interactionist-dualism]]"
+  - "[[luck-objection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-06
+last_deep_review: 2026-07-06T23:16:54+00:00
 last_curated:
 ---
 

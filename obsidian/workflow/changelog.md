@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T23:16:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/four-category-ontology]]
+- **Word count**: 1862 → 1862 (no change; below soft threshold)
+- **Critical issues addressed**: 0 (fresh create; clean on arrival)
+- **Medium issues addressed**: 1 (added [[luck-objection]] to related_articles for body/frontmatter consistency)
+- **Enhancements made**: 1
+- **Citation web-verify (§2.4)**: 4/4 Lowe cites real-correct (Four-Category Ontology 2006; Erkenntnis 65(1):5–23 NCSD; Personal Agency 2008; Substance Causation ch.6 pp.153–172 in Gibb/Lowe/Ingthorsson 2013). Kistler + Gibb attributions correct. No orphans, no superlatives.
+- **Attribution (§2.5)**: "necessarily embodied" verified accurate against SEP (Lowe's self cannot exist independently of a body). No source/Map conflation — framework twice labeled "not empirical evidence". No possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-07-06-four-category-ontology]]
+
 ## 2026-07-06T23:05:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/microphenomenological-interview-method]]
