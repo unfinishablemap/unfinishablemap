@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-06-02T18:39:02+00:00
+last_deep_review: 2026-07-06T19:14:25+00:00
 coalesced_from:
   - "/concepts/process-haecceitism/"
 ---
