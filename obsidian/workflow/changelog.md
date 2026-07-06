@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-06T18:02:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/intrinsic-nature-void]]
+- **Word count**: 2037 → 2037 (no prose edits; last_deep_review timestamp bump only, ai_modified left at 2026-06-02)
+- **Critical issues addressed**: 0 (fifth review; fully converged. Article unchanged on disk since 06-02 review commit dc976ecab — the only commit touching the file since the prior review)
+- **Medium issues addressed**: 0 (prior apophatic-approaches→apophatic-cartography repoint held; all 18 body wikilinks resolve live)
+- **Enhancements made**: 0 — convergence re-confirmation; editing an unchanged 5th-pass article would risk oscillation. Structural-claim register + Tenet-5-bet framing intact; no possibility/probability slippage; functionalist/HOT engagements argue in-framework (no boundary-substitution); no editor-label leakage
+- **Citation web-verify**: References block unmodified since last review (§2.4 stable-list skip); spot-verified McGinn 1989 Mind 98:349-366 = real-correct; find_superlative_claims returned none
+- **Output**: [[reviews/deep-review-2026-07-06-intrinsic-nature-void]]
+
 ## 2026-07-06T17:50:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-self-minimal-narrative-and-substantial]]

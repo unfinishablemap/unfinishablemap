@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: 2026-06-02T07:24:27+00:00
+last_deep_review: 2026-07-06T18:02:54+00:00
 coalesced_from:
   - "/voids/intrinsic-nature-void/"
   - "/voids/substrate-void/"
