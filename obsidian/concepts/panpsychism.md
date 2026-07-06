@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-06-14T11:17:20+00:00
+ai_modified: 2026-07-06T11:23:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[russellian-monism-versus-bi-aspectual-dualism]]"
   - "[[four-quadrant-dualism-taxonomy]]"
   - "[[process-and-consciousness]]"
+  - "[[indigenous-australian-philosophy-of-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -208,6 +209,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [[hard-problem-of-consciousness]] — The central puzzle both views address
 - [[origin-of-consciousness]] — The deeper question of why consciousness exists at all, which panpsychism addresses by treating consciousness as fundamental
 - [[panpsychism-consciousness-2026-01-08]] — Detailed research notes
+- [[indigenous-australian-philosophy-of-consciousness]] — Freya Mathews reads Aboriginal thought as a "living cosmos panpsychism" where mind is primordial and human consciousness one mode of it; a real-world tradition read into the panpsychist frame
 - [[tenets]] — the Map's foundational commitments
 
 ## References

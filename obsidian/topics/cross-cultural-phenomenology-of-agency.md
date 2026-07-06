@@ -4,7 +4,7 @@ description: "How cultural frameworks shape the felt experience of authorship an
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-03T01:40:01+00:00
+ai_modified: 2026-07-06T11:23:32+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[cross-cultural-convergence-on-mental-causation]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[consciousness-and-intersubjectivity]]"
+  - "[[indigenous-australian-philosophy-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -116,6 +117,7 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 - [[cross-traditional-convergence-on-consciousness-irreducibility]]
 - [[cross-cultural-convergence-on-mental-causation]]
 - [[consciousness-and-intersubjectivity]] — How the intersubjective gap complicates and strengthens cross-cultural phenomenological comparison
+- [[indigenous-australian-philosophy-of-consciousness]] — The located, relational self: agency distributed across Country and kin rather than lodged in an individual willing subject
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: how cross-cultural invariants join effort, selection, and holding in a unified phenomenological profile
 
 ## References
