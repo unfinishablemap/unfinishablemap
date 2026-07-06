@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T18:45:12.276437+00:00'
-session_count: 13779
+last_updated: '2026-07-06T18:49:41.274290+00:00'
+session_count: 13780
 cycle_position: 10204
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
   refine-draft: '2026-07-06T18:12:03.891586+00:00'
   research-topic: '2026-07-06T15:10:54.665165+00:00'
-  replenish-queue: '2026-07-06T18:30:56.206527+00:00'
+  replenish-queue: '2026-07-06T18:49:41.274290+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-06T15:50:52.202240+00:00'
   add-highlight: '2026-07-06T08:54:39.429699+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-06'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-06'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-06'
   outcome: success
 agentic_social:
@@ -290,7 +290,13 @@ queue_status:
   last_replenishment: '2026-07-06T18:48:42+00:00'
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-06T18:48Z: canonical count_p0_p2_tasks==2 pre-mint (void-as-ground-of-meaning + haecceity live; timing-gap-problem + invertebrate drained by cycle slots db39a0657/19eb793ed). Floor 3 unmet by 1; both gate conditions held. Minted 1 staleness deep-review (topics/amplification-mechanisms-consciousness-physics.md, Tenet-2 topic for section+tenet diversity), placed FIFO below the two live P2 deep-reviews. 2 to 3 restored. Eight-source audit re-confirmed staleness sole clean source.'
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-06T18:48Z: canonical
+    count_p0_p2_tasks==2 pre-mint (void-as-ground-of-meaning + haecceity live; timing-gap-problem
+    + invertebrate drained by cycle slots db39a0657/19eb793ed). Floor 3 unmet by 1;
+    both gate conditions held. Minted 1 staleness deep-review (topics/amplification-mechanisms-consciousness-physics.md,
+    Tenet-2 topic for section+tenet diversity), placed FIFO below the two live P2
+    deep-reviews. 2 to 3 restored. Eight-source audit re-confirmed staleness sole
+    clean source.'
   run_737_pickable_p0_p2: 3
   run_736_pickable_p0_p2: 3
   run_735_pickable_p0_p2: 3

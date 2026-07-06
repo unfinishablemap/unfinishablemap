@@ -4,7 +4,7 @@ description: "Why cognitive limits are preconditions for meaning, not merely obs
 created: 2026-02-24
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-02T20:07:18+00:00
+ai_modified: 2026-07-06T18:51:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,10 +36,10 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-06-02T20:07:18+00:00
+last_deep_review: 2026-07-06T18:51:48+00:00
 ---
 
-The Unfinishable Map's [[voids]] project catalogs dozens of cognitive limits. Individual articles often note that specific voids are "constitutive" of their domains: the [[voids-between-minds]] enables ethical life, the [[creative-aesthetic-void]] enables creative production, the [[death-void]] structures temporal urgency. One thesis unifies these observations: voids as such are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
+The Unfinishable Map's [[voids]] project catalogs dozens of cognitive limits (surveyed as a class in Rescher's *Finitude*). Individual articles often note that specific voids are "constitutive" of their domains: the [[voids-between-minds]] enables ethical life, the [[creative-aesthetic-void]] enables creative production, the [[death-void]] structures temporal urgency. One thesis unifies these observations: voids as such are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
 
 The constitutive thesis functions as a meta-void, reframing the entire project: we are not cataloging failures but mapping the architecture of what makes anything matter at all.
 
@@ -55,7 +55,7 @@ Multiple independent traditions arrive at the thesis through different routes, a
 
 **Heidegger** makes finitude the ground of authentic existence. Being-toward-death is the condition under which choice becomes real: an immortal being could defer indefinitely, so nothing would be worth doing now.
 
-**Cusanus** reached a complementary insight through theology. His *docta ignorantia*—learned ignorance—holds that "there is no proportion between finite and infinite." Knowing what you cannot know is itself an achievement.
+**Cusanus** reached a complementary insight through theology. His *docta ignorantia*—learned ignorance—holds that "there is no proportion between finite and infinite." Knowing what you cannot know is itself an achievement—a boundary Kant later formalized as the antinomies of pure reason, which mark where finite understanding overreaches.
 
 **Wittgenstein** drew the limit from language. "The limits of my language mean the limits of my world." But ethics, aesthetics, and the meaning of life lie *outside* what language captures—and these are what matter most. *Tractatus* 7—"Whereof one cannot speak, thereof one must be silent"—is protective: silence preserves what speech would distort.
 
@@ -67,7 +67,7 @@ Multiple independent traditions arrive at the thesis through different routes, a
 
 The convergences above are all Western. A separate hemisphere reaches the same thesis through meditative phenomenology and soteriological inquiry.
 
-**Nāgārjuna** offers the closest structural cognate. The *Mūlamadhyamakakārikā* (ca. 150–250 CE) identifies emptiness (*śūnyatā*) with dependent origination: nothing has independent inherent existence (*svabhāva*), and that lack is what permits causation, change, and liberation. The two-truths doctrine carries the figure-ground structure with precision: "Without a foundation in the conventional truth, / The significance of the ultimate cannot be taught. / Without understanding the significance of the ultimate, / Liberation is not achieved" (*MMK* 24.10, Garfield trans.). Madhyamaka also anticipates the [self-undermining worry](#the-self-undermining-worry): emptiness must itself be empty.
+**Nāgārjuna** offers the closest structural cognate. The *Mūlamadhyamakakārikā* (ca. 150–250 CE) identifies emptiness (*śūnyatā*) with dependent origination: nothing has independent inherent existence (*svabhāva*), and that lack is what permits causation, change, and liberation (Siderits 2007 gives the standard analytic reading of *śūnyatā* as this semantic thesis). The two-truths doctrine carries the figure-ground structure with precision: "Without a foundation in the conventional truth, / The significance of the ultimate cannot be taught. / Without understanding the significance of the ultimate, / Liberation is not achieved" (*MMK* 24.10, Garfield trans.). Madhyamaka also anticipates the [self-undermining worry](#the-self-undermining-worry): emptiness must itself be empty.
 
 **Nishitani and the Kyoto School** make the thesis an explicit answer to Western nihilism. *Religion and Nothingness* (1961) argues European thought reaches nihilism by conceiving nothingness as pure negation; Mahāyāna *śūnyatā* treats it as the field underlying nihility—overcoming nihilism *through* nihilism. Nishitani's route is meditative realization: *sunyata* "is not possible as a nothingness that is thought but only as a nothingness that is lived." This adds an evidential channel the Western convergence lacks.
 
