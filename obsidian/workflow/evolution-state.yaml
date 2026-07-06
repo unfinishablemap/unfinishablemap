@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-06T14:57:34.002604+00:00'
-session_count: 13743
+last_updated: '2026-07-06T15:00:55.998736+00:00'
+session_count: 13744
 cycle_position: 10184
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-27T04:39:34.891451+00:00'
   positions-evolve: '2026-06-22T06:20:53.964896+00:00'
   check-model-fallback: '2026-07-06T12:59:09.363018+00:00'
-  harvest-research-subjects: '2026-07-06T08:56:59.896753+00:00'
+  harvest-research-subjects: '2026-07-06T15:00:55.998736+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
 last_git_push: '2026-07-06T12:57:47.610096+00:00'
@@ -98,10 +98,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-06'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-07-06'
@@ -176,6 +172,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-06'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-07-06'
   outcome: success
 agentic_social:

@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-05
 last_curated:
-last_deep_review: 2026-06-17T20:38:04+00:00
+last_deep_review: 2026-07-06T15:03:48+00:00
 ---
 
 [[valence-and-conscious-selection|Valence and the mechanism of conscious selection]] leaves one question explicitly open: if consciousness selects among physically underdetermined outcomes using **valence as the currency**, and if where consciousness acts is where teleology enters nature, then *how far down the tree of life does value-sensitive selection reach?* Does a rat's pain avoidance reflect conscious, valence-denominated selection—or merely value-blind reflex? Where is the boundary for a nematode with 302 neurons, a *Hydra* with a diffuse nerve net, a brainless slime mould that nonetheless habituates? This article develops that deferred "scope of teleology / scope of consciousness" question. Its central claim is calibrated and deflationary: **the boundary cannot currently be located, and the Map's tenets do not help locate it.** Tenet-coherence removes a defeater against marginal-organism consciousness; it supplies no positive evidence for it. Every boundary case below stays at the status of *live hypothesis* or *speculative integration*—never "realistic possibility" or higher—per [[evidential-status-discipline]].
