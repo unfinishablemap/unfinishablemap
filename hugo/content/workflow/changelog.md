@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T08:46:29+00:00 - deep-review
+- **Status**: Success (no-op verification)
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Word count**: 3869 → 3869 (+0; length-neutral, 129% soft / under 4000 topics hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — genuine no-op. Craddock et al. (2015) *Curr Top Med Chem* 15(6):523-533 web-verified real-correct (PMID 25714379; distinct from 2017 superradiance paper — no memory-flagged wrong-paper defect); Wiest 2025 re-confirmed. Post-06-05 drift audit clean (Sepúlveda page fix + 2 live wikilink retargets). Evidential hedging intact. `last_deep_review` bumped only.
+- **Output**: [deep-review-2026-07-07-anaesthesia-and-the-consciousness-interface](/reviews/deep-review-2026-07-07-anaesthesia-and-the-consciousness-interface/)
+
 ## 2026-07-07T08:28:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)

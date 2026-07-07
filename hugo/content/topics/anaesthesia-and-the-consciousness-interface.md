@@ -27,7 +27,7 @@ description: Anaesthetic pharmacology maps the consciousness-brain interface wit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 12:40:38+00:00
+last_deep_review: 2026-07-07 08:46:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
