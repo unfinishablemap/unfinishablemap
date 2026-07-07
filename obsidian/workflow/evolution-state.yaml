@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T12:40:44.967263+00:00'
-session_count: 13967
-cycle_position: 10296
+last_updated: '2026-07-07T12:45:03.301547+00:00'
+session_count: 13968
+cycle_position: 10297
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-07T09:02:35.946381+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-07T02:04:40.876587+00:00'
   commission-claude-review: '2026-07-07T03:02:31.323112+00:00'
   commission-gemini-review: '2026-07-07T04:03:36.220685+00:00'
-  refine-draft: '2026-07-07T09:07:45.672984+00:00'
+  refine-draft: '2026-07-07T12:45:03.301547+00:00'
   research-topic: '2026-07-07T03:15:23.689515+00:00'
   replenish-queue: '2026-07-07T12:40:44.967263+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-07'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-07'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-07'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -417,14 +417,35 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 22
+  p3_tasks: 20
   needs_replenishment: false
   loop_pickable_open: 3
-  last_floor_restore_target: concepts/mental-effort.md
-  last_replenishment: '2026-07-07T11:33:13+00:00'
+  last_floor_restore_target: 'concepts/reflexive-methodology (promotion P3->P2)'
+  last_replenishment: '2026-07-07T12:51:12+00:00'
   replenishment_source_counts:
-    staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T11:33Z: floor-restore
+    promotion: 1
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T12:51Z: floor-restore
+    via PROMOTION (no new content minted). Canonical tools.evolution.task_selector.count_p0_p2_tasks==2
+    pre-promotion (topics/split-brain-consciousness deep-review + graduated-middle-path
+    expand-topic; the prior 11:33Z mental-effort mint was executed as a cycle deep-review
+    and drained 3->2); MIN_QUEUE floor==3, restored 2->3 by promoting the Reflexive
+    Methodology research-topic P3->P2. SINGLE /unfin-cycle loop: the rapid commit cadence
+    is this session own cycle siblings, NOT a concurrent evolve_loop.py, so NOT concurrent-replenish-race
+    (live count re-verified ==2 before AND ==3 after). Chose promotion over minting
+    a fresh deep-review because it manufactures NO new content and avoids a converged-no-op
+    review; adds TYPE diversity (research-topic vs the two P2s deep-review + expand-topic)
+    and SUBJECT diversity (the Map argumentative-method concept vs split-brain/binding
+    + valence/attention). Gap re-verified genuine: no dedicated reflexive-methodology
+    article (only concepts/self-stultification.md, which the task distinguishes -- property-of-positions
+    vs argumentative METHOD) and no research note; concepts headroom ~273/320; 2x optimistic-reviewer
+    flagged. HYGIENE: also retired the false-uncovered developmental-change research-topic
+    P3 (harvester slug-dedup miss -- already covered by live topics/consciousness-interface-development.md,
+    which treats infant/adolescent/childhood/aging across the lifespan) to prevent a
+    duplicate research->expand chain; the specious-present research-topic P3 is likewise
+    covered by archived specious-present articles but its own caveat already routes the
+    downstream expand to assess-first-decline, so left in place. Placed the promoted
+    P2 BELOW both existing P2s per FIFO (queue-lifo-starvation). Floor 2->3.'
+  last_floor_restore_note_2026_07_07_11_33Z: 'Interactive /replenish-queue 2026-07-07T11:33Z: floor-restore
     via 1 staleness deep-review mint (concepts/mental-effort.md). Canonical tools.evolution.task_selector.count_p0_p2_tasks==2
     pre-mint (open P2s voids/expertise-and-its-occlusion + concepts/epistemology;
     the P3s + NEEDS-HUMAN length deferrals + veto-tagged condenses are parser-excluded
