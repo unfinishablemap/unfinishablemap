@@ -4,7 +4,8 @@ description: "Chinese organicism never split mind from matter, so the hard probl
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-07-07T17:58:55+00:00
+ai_modified: 2026-07-07T18:45:17+00:00
+last_deep_review: 2026-07-07T18:45:17+00:00
 draft: false
 topics:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
@@ -97,7 +98,7 @@ Finally, the Chinese case is a standing caution demanded by [[tenets#^occams-lim
 ## References
 
 1. Chan, Wing-tsit (1963). *A Source Book in Chinese Philosophy*. Princeton University Press.
-1. Wang, Yangming (2005). *Instructions for Practical Living and Other Neo-Confucian Writings* (*Chuanxilu*). Trans. Wing-tsit Chan. Columbia University Press. (Original conversations recorded 1518–1556; translation first published 1963.)
+1. Wang, Yangming (1963). *Instructions for Practical Living and Other Neo-Confucian Writings* (*Chuanxilu*). Trans. Wing-tsit Chan. New York: Columbia University Press. (Original conversations recorded 1518–1556.)
 1. Needham, Joseph (1956). *Science and Civilisation in China, Vol. 2: History of Scientific Thought*. Cambridge University Press.
 1. Van Norden, Bryan (2024). "Wang Yangming." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/wang-yangming/
 1. Thompson, Kirill. "Zhu Xi." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/zhu-xi/

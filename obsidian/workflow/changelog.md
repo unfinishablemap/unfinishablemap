@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T18:45:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/chinese-philosophy-of-mind]]
+- **Trigger**: CROSS-REVIEW (fresh opus-4-8 create this session) — independent-lens fresh-create-defect-tail pass
+- **Word count**: ~1520 → ~1520 (metadata-only fix; no body prose change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Chan translation reference-year metadata: leading "(2005)" → verified "1963", harmonized with inline "Chan 1963" cites and the confirmed Columbia UP first edition; no distinct 2005 edition exists)
+- **Enhancements made**: 0 (integration already complete)
+- **Citation web-verify (§2.4)**: 7-cite publisher-of-record ledger — 6 real-correct, 1 real-wrong-metadata (fixed). Re-confirmed SEP authors at plato.stanford.edu: "Wang Yangming" = Bryan Van Norden ✓, "Zhu Xi" = Kirill Thompson ✓ (creating fork's self-correction held). Needham Vol 2 (1956 CUP) ✓, Chan Source Book (1963 Princeton) ✓. No inline↔References orphans.
+- **Calibration guardrail**: HOLDS — basin-edge framing intact (neither defeat nor vindication); framework-dependence vs depth-of-inquiry competing/unsettled; no contradiction with anchor [[cross-traditional-convergence-on-consciousness-irreducibility]]; no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-07-07-chinese-philosophy-of-mind]]
+
 ## 2026-07-07T18:27:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/philosophy-of-habit-under-dualism]]
