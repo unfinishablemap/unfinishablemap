@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T03:53:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/philosophy-of-action-under-dualism]]
+- **Original score**: strong (no numeric score; pessimistic pass rated citations clean, discipline exemplary)
+- **Changes**: (1) Factual fix — body "Derek Pereboom" → **Derk** (line 58; References list already correct). (2) Deviance section reworded from "less room for a wrong route" to *relocated, not removed* — the selection-only mechanism (trying biases which neural outcome becomes actual) opens a new route at the mind→quantum-selection junction; agency-void circularity kept as the honest epistemic residue. (3) Lowe hybrid — added a clause discharging the "agent causes a trying" regress (substance-causation is basic, not relabeled event-causation; no prior event to dissolve into), fuller defence flagged as carried by [[agent-causation]]. Length-neutral; voice preserved; central claims untouched; all 4 citations left as-is (verified clean).
+- **Published**: yes
+
 ## 2026-07-07T03:50:12+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/philosophy-of-action-under-dualism]] (fresh 2026-07-06 create; dedicated adversarial pass)
