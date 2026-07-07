@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T13:11:56+00:00 - deep-review
+- **Status**: Success (STALENESS VERIFY-JOB; 5th review, converged; genuine no-op after real scrutiny)
+- **File**: [[topics/dualist-perception]]
+- **Word count**: 3729 → 3729 (0; no content edits — soft_warning, 124% of 3000 topics target, ~271w under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only: last_deep_review bumped, ai_modified left at 2026-07-06 per no-op hygiene; date -u-verified, not future-dated)
+- **Scrutiny**: (a) Genuine drift since 2026-06-12 = the new naturalist-relationalism rival paragraph (perception-cluster coalesce) + reciprocal chemosensory/tactile/vestibular/interaction-problem-across-traditions cross-links + perceptual-degradation→perceptual-failure link absorption. New paragraph assessed: source-consistent with the [[naturalist-relationalism]] concept page (Map-answers-not-ally framing exact), philosophically faithful (constituent view + disjunctivist reply to argument from illusion), honestly calibrated as a rival — engagement is Mode-Three boundary-marking, no boundary-substitution. PRESERVE. (b) Citation web-verify: content change added NO new cites; References block unchanged and previously fully verified; per §2.4 skip guidance a no-new-cite change on a stable list may skip. Standing ledger intact (Block 2007, Clark 2013, Marcel 1983, Sperling 1960, de Gelder et al. 1999, Jackson 1982, Nagel 1974, Weiskrantz 1986 all real-correct at publisher). Superlative currency sweep empty; no inline↔References orphans. (c) Evidential-status discipline PASS (2026-06-01 softened register intact; quantum-interaction double-hedged). (d) All body wikilinks resolve LIVE — perceptual-degradation coalesce left no link rot. (e) Tenet 1/2/3/4/5 routing present (7 anchor refs). (f) No "This is not X. It is Y." cliché; 0 "load-bearing"; no label leakage. EOF tool-tag scan clean.
+- **Output**: [[reviews/deep-review-2026-07-07-dualist-perception]]
+
 ## 2026-07-07T13:00:13+00:00 - deep-review
 - **Status**: Success (STALENESS VERIFY-JOB; 9th review, converged; genuine no-op after real scrutiny)
 - **File**: [[topics/split-brain-consciousness]]
