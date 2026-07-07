@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T12:43:30+00:00 - refine-draft
+- **Status**: Success (ANCHORING-CALIBRATION; Audit Three, calibration-audit-triple)
+- **File**: [[topics/the-second-person-evidential-channel]]
+- **Original score**: n/a (calibration refine, not quality review)
+- **Changes**: Topic-concept anchoring audit flagged this fresh-create (1841w) as under-hedged vs BOTH anchors — problem-of-other-minds (6.83/kw) and phenomenal-consciousness (6.76/kw), both firing hedge_density (floor 3.0/kw) + strong_assertions. Raised hedge density 1.63→3.25/kw via 3 marker-counted softenings framing empirical inferences as live hypotheses (evidential-status-discipline): "That implies predictive coupling"→"suggests"; "it indicates ... developmentally prior"→"suggests"; "what the channel reaches"→"may reach"; plus a non-counted prose softening ("These are observables"→"These appear to be observables"). Neutralised the 1 strong-assertion verb: "nor proves dualism"→"nor settles the case for dualism" (strong_assertion_density 0.54→0.0/kw). Central thesis (reciprocity as a genuine-but-bounded third evidential channel) preserved intact — added calibration, did NOT gut the claim. Re-ran evaluate_anchoring: 0 residual flags. Wikilinks all resolve; citations left as-authored. ai_modified + last_deep_review bumped to 07-07T12:43:30 (date -u-verified, not future-dated).
+- **Published**: yes
+
 ## 2026-07-07T12:18:45+00:00 - deep-review
 - **Status**: Success (STALENESS VERIFY-JOB; 11th review, converged; genuine no-op after real scrutiny)
 - **File**: [[concepts/emergence]]
