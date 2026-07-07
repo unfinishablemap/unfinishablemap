@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-07T12:10:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -44,7 +44,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-02T09:30:18+00:00
+last_deep_review: 2026-07-07T12:10:00+00:00
 ---
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is real, widely shared, and not a transparent window onto its own machinery. Felt effort genuinely costs something to hold attention on a topic, yet the empirical literature (set out below) shows the felt sense detaching, in several distinct ways, from the operation it ostensibly reports. The Unfinishable Map does not rest its case on effort alone: the dualist reading draws what force it has from cumulative convergence across the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]], not from this single datum, and it *constrains* materialist absorption rather than *establishing* dualism (see [[evidential-status-discipline]]).
@@ -176,6 +176,7 @@ If controlling attention genuinely costs something, something must be doing the 
 1. Inzlicht, M., Werner, K.M., Briskin, J.L., & Roberts, B.W. (2021). Integrating models of self-regulation. *Annual Review of Psychology*, 72, 319-345.
 1. James, W. (1890). *The Principles of Psychology*.
 1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
+1. Kral, T.R.A., Davis, K., Korponay, C., Hirshberg, M.J., Hoel, R., Tello, L.Y., Goldman, R.I., Rosenkranz, M.A., Lutz, A., & Davidson, R.J. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 1. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). An opportunity cost model of subjective effort and task performance. *Behavioral and Brain Sciences*, 36(6), 661-679.
 1. Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
 1. Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-07 12:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -30,7 +30,7 @@ description: Why controlling attention feels like work—and what this widely-sh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 09:30:18+00:00
+last_deep_review: 2026-07-07 12:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -178,6 +178,7 @@ If controlling attention genuinely costs something, something must be doing the 
 1. Inzlicht, M., Werner, K.M., Briskin, J.L., & Roberts, B.W. (2021). Integrating models of self-regulation. *Annual Review of Psychology*, 72, 319-345.
 1. James, W. (1890). *The Principles of Psychology*.
 1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
+1. Kral, T.R.A., Davis, K., Korponay, C., Hirshberg, M.J., Hoel, R., Tello, L.Y., Goldman, R.I., Rosenkranz, M.A., Lutz, A., & Davidson, R.J. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 1. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). An opportunity cost model of subjective effort and task performance. *Behavioral and Brain Sciences*, 36(6), 661-679.
 1. Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
 1. Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.

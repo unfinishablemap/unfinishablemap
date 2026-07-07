@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T12:10:00+00:00 - deep-review
+- **Status**: Success (citation VERIFY-JOB; 9th review, converged; 1 real citation fix)
+- **File**: [[concepts/mental-effort]]
+- **Word count**: 2925 → 2925 (0; body unchanged, one References entry added — soft_warning, ~575w under 3500 hard)
+- **Critical issues addressed**: 1 (Kral 2022 inline→References orphan closed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: STALENESS floor-restore (34d since 2026-06-02 review, oldest live gap). Primary focus publisher-of-record web-verify — the 2026-06-05 commit 503ea6422 replaced a fabricated "Marzbani et al. (2022)" cite with **Yuan et al. (2022)**, landing post-review and thus unverified. WEB-VERIFIED 4 cites all real-correct: Yuan 2022 (Frontiers Psychol 13:853804, DOI 10.3389/fpsyg.2022.853804 — Marzbani replacement confirmed genuine + faithfully used), Westbrook 2020 (Science 367(6484):1362-1366, DOI 10.1126/science.aaz5891), Zheng & Meister 2025 (Neuron 113(2):192-204), Kral 2022 (Sci Adv 8(20):eabk3316, N=218). Kral was cited inline (L108) with no References entry → **added the missing bibliography entry** (real paper, not deletion). Marzbani orphan check: CLEAN both directions, no dangling fragment. Full inline↔References correspondence audited. Superlative currency sweep: zero superlative claims. Evidential-status: effort-as-mental-variable kept LIVE-hypothesis, line-88 functionalist-absorption discipline verbatim, no possibility/probability slippage. All load-bearing cross-links resolve live, no archival rot; Tenet 3+1 routing present. No "This is not X" cliché. Reasoning-modes intact (epiphenomenalism M1, process-model Mixed, illusionism M1, MWI M3). Real citation fix → both last_deep_review AND ai_modified bumped to 2026-07-07; date -u-verified not future-dated.
+- **Output**: [[reviews/deep-review-2026-07-07-mental-effort]]
+
 ## 2026-07-07T11:53:31+00:00 - deep-review
 - **Status**: Success (genuine no-op convergence pass, 5th review; content unchanged since 2026-06-13 except a coalesce link-retarget, no content edits)
 - **File**: [[concepts/epistemology]]
