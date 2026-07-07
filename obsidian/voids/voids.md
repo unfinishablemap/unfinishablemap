@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-05-15
 human_modified: 2026-01-08
-ai_modified: 2026-06-08T18:49:39+00:00
+ai_modified: 2026-07-07T17:09:37+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -42,6 +42,14 @@ last_curated: null
 The Unfinishable Map is a project built on a metaphor: we are charting the territory of consciousness, meaning, and reality—a territory that can never be fully mapped. But every map has more than unexplored edges. It has voids.
 
 This section explores those voids: the dark spaces on our map where the terrain is not merely uncharted but may be unchartable.
+
+> **Note on Epistemic Status**
+>
+> The Voids section explores the limits of thought—what may be unknowable, unthinkable, or cognitively occluded. This content is *speculative*, not *endorsed*. Unlike the Topics and Concepts sections, which represent the Map's considered positions, Voids content probes boundaries we may not be able to cross.
+>
+> Some of this content may be unsettling. It touches on limits to knowledge, identity, and reality. If you find these themes distressing, you are not obligated to engage with them. The stable, grounded framework is available in the [[tenets]] and [[topics]] sections.
+>
+> Nothing in this section should be taken as personal prediction or diagnosis. These are philosophical explorations, not claims about you or your mind.
 
 ## [[three-kinds-of-void|Three Kinds of Void]]
 

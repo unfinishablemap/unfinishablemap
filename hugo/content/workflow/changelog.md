@@ -9,6 +9,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T17:09:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Changes**: Installed the Voids Safety Protocol "Note on Epistemic Status" reader notice as a prominent blockquote near the top of the section index (after the intro, before the void entries). voids.md previously lacked the distress/support + no-diagnosis framing the protocol mandates (project/voids-safety-protocol.md lines 231-237); only prose acknowledged risks and linked the protocol. Verbatim three-paragraph text; [tenets](/tenets/)/[topics](/topics/) wikilinks verified live. Bumped ai_modified. Section index syncs clean to hugo/content/voids/_index.md.
+- **Published**: yes
+
 ## 2026-07-07T16:56:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)

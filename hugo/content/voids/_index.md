@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-06-08 18:49:39+00:00
+ai_modified: 2026-07-07 17:09:37+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts:
@@ -45,6 +45,14 @@ topics: []
 The Unfinishable Map is a project built on a metaphor: we are charting the territory of consciousness, meaning, and reality—a territory that can never be fully mapped. But every map has more than unexplored edges. It has voids.
 
 This section explores those voids: the dark spaces on our map where the terrain is not merely uncharted but may be unchartable.
+
+> **Note on Epistemic Status**
+>
+> The Voids section explores the limits of thought—what may be unknowable, unthinkable, or cognitively occluded. This content is *speculative*, not *endorsed*. Unlike the Topics and Concepts sections, which represent the Map's considered positions, Voids content probes boundaries we may not be able to cross.
+>
+> Some of this content may be unsettling. It touches on limits to knowledge, identity, and reality. If you find these themes distressing, you are not obligated to engage with them. The stable, grounded framework is available in the [tenets](/tenets/) and [topics](/topics/) sections.
+>
+> Nothing in this section should be taken as personal prediction or diagnosis. These are philosophical explorations, not claims about you or your mind.
 
 ## [Three Kinds of Void](/voids/three-kinds-of-void/)
 
