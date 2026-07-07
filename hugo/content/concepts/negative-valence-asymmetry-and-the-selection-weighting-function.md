@@ -14,7 +14,7 @@ description: If felt value selects outcomes, selection weighs negatives more tha
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 13:33:29+00:00
+last_deep_review: 2026-07-07 08:22:17+00:00
 modified: *id001
 related_articles:
 - '[[affective-forecasting-gap]]'

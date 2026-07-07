@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T08:22:17+00:00 - deep-review
+- **Status**: Success (no-op convergence)
+- **File**: [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]]
+- **Word count**: 2197 → 2197 (+0; 88% of 2500 concepts soft target — no edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; 2nd deep review)
+- **Verified**: scorer-triggering 2026-06-22 `ai_modified` bump was the coalesce EOF tool-call-artifact sweep (commit a20d6f1ca removed `</content></invoke>` lines), NOT content drift — body+References byte-identical to the 2026-06-20 publisher-verified state. Citation ledger (12 cites, all real-correct) carried forward per prior review's stability note; References unchanged. Label-leakage scan clean; steelman engagement remains Mode Three w/ honest concession, no boundary-substitution; no possibility/probability slippage. 0 superlatives. Bumped last_deep_review only (left ai_modified to avoid false-modification artifact).
+- **Output**: [[reviews/deep-review-2026-07-07-negative-valence-asymmetry-and-the-selection-weighting-function]]
+
 ## 2026-07-07T08:10:02+00:00 - deep-review
 - **Status**: Success (no-op verification)
 - **File**: [[voids/boundary-and-projection]]
