@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T15:58:16+00:00 - deep-review (converged no-op, Letheby web-verify)
+- **Status**: Success
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Word count**: 3498 → 3498 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (genuine no-op — last_deep_review bumped only, ai_modified left at 2026-06-23)
+- **Scrutiny**: Sixth deep review; converged since 4th (2026-05-27). Web-verified the one genuine post-5th-review drift — the Chris Letheby self-fictionalism paragraph (added 2026-06-23) — at publisher of record: real-correct against Letheby & Gerrans (2018) "Self unbound" (*Neuroscience of Consciousness*) and Letheby, *Philosophy of Psychedelics* (Oxford, 2021); "self-fictionalism / high-precision Bayesian prior with no referent" is faithful, and the name-drop correctly routes to [[predictive-self-binding-and-the-naturalist-challenge]] which carries the full cite. All renamed/new wikilinks resolve live ([[reductionism]] rename correct — old slug coalesced away; essential-vs-contingent, predictive-self-binding, self-construction-constructor all present). 0 superlative claims; no evidential-status slippage (Letheby framed as "wager/discriminating bet", not evidence upgrade); no "This is not X" cliché; load-bearing ×2 both structurally apt. EOF clean.
+- **Engagement modes** (editor-internal): Letheby/self-binding — Mode Three (framework-boundary; empirical equivalence on altered-state data honestly conceded, discriminating persistence-of-minimal-self bet named). Metzinger/Duch/Mādhyamaka unchanged, mode-honest per prior reviews.
+- **Length**: 3498/3500 hard — standing item, 2 words under hard after the Letheby paragraph; next genuine addition should pair a length-neutral trim. No P-task (premature churn on converged article).
+- **Output**: [[reviews/deep-review-2026-07-07-self-and-self-consciousness]]
+
 ## 2026-07-07T15:46:40+00:00 - refine-draft (compact crux import, additive)
 - **Status**: Success
 - **File**: [[concepts/mental-causation-and-downward-causation]]

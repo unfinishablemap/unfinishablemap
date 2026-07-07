@@ -39,7 +39,7 @@ description: The minimal self is the structural for-me-ness of every conscious e
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-10 12:01:40+00:00
+last_deep_review: 2026-07-07 15:58:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
