@@ -87,6 +87,7 @@ Second-person engagement earns its place as a third evidential channel: it is de
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)
 - [explanatory-gap](/concepts/explanatory-gap/)
+- [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — a sibling "evidence beyond first-person report" channel; both read a contingency signal and channel-level dissociation the verbal report cannot supply, the pupil from an involuntary bodily signature, the second-person channel from live reciprocal coupling
 
 ## References
 

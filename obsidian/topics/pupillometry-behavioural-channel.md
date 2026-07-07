@@ -4,7 +4,7 @@ description: "Human+AI exploration of how pupil-dilation measurements expose the
 created: 2026-05-16
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-07-07T06:35:43+00:00
+ai_modified: 2026-07-07T14:59:08+00:00
 last_deep_review: 2026-07-07T06:35:43+00:00
 draft: false
 topics:
@@ -113,6 +113,8 @@ A final reflexive note. The article's case rests on the verbal-channel/bodily-ch
 - [[topics/introspection-architecture-independence-scoring]] — the methodological exhibit scoring the introspection-architecture cluster against the four criteria
 - [[concepts/heterophenomenology]] — the third-person methodological tradition that ingests pupillary data on neutral terms
 - [[concepts/introspection]] — the broader treatment of first-person methods and their contested status
+- [[the-second-person-evidential-channel]] — the sibling "evidence beyond first-person report" channel; both turn on a contingency signal registered outside verbal report and read channel-level dissociation as structural rather than as global unreliability
+- [[phenomenal-authority-and-first-person-evidence]] — the first-person channel this bodily channel complements, completing the first/second/third-person evidential triangle
 
 ## References
 

@@ -9,6 +9,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T14:59:08+00:00 - refine-draft (cross-link only)
+- **Status**: Success
+- **Files**: [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/), [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/)
+- **Changes**: Closed the cross-link gap in the evidential-channels cluster (3 additive Further Reading links, 0 prose/citation/calibration changes). (1) Reciprocal link both directions between pupillometry-behavioural-channel and the-second-person-evidential-channel — sibling "evidence beyond first-person report" channels sharing the contingency-signal / channel-level-dissociation logic. (2) pupillometry → phenomenal-authority-and-first-person-evidence, completing the first/second/third-person evidential triangle (the methodology hub already synthesises all three; no new page).
+- **Timestamps**: bumped ai_modified only on pupillometry (14:59:08Z); left last_deep_review unchanged. Deliberately did NOT bump ai_modified on the-second-person-evidential-channel.md (created+refined today) — a cross-link accretion is length-neutral churn and should not reset its drift tracking (hub-articles-accrete-crosslink-length pattern).
+- **Published**: yes
+
 ## 2026-07-07T14:31:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [parapsychology-firewall](/topics/parapsychology-firewall/)

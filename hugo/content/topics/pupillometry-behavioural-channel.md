@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-07-07 06:35:43+00:00
+ai_modified: 2026-07-07 14:59:08+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -116,6 +116,8 @@ A final reflexive note. The article's case rests on the verbal-channel/bodily-ch
 - [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) — the methodological exhibit scoring the introspection-architecture cluster against the four criteria
 - [heterophenomenology](/concepts/heterophenomenology/) — the third-person methodological tradition that ingests pupillary data on neutral terms
 - [introspection](/concepts/introspection/) — the broader treatment of first-person methods and their contested status
+- [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/) — the sibling "evidence beyond first-person report" channel; both turn on a contingency signal registered outside verbal report and read channel-level dissociation as structural rather than as global unreliability
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — the first-person channel this bodily channel complements, completing the first/second/third-person evidential triangle
 
 ## References
 
