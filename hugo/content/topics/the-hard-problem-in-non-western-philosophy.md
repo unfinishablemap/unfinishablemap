@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-07-07 17:58:55+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -161,6 +161,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 ## Further Reading
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The Western formulation of the problem
+- [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) — The Chinese counter-example expounded on its own terms: organicism, *qi/li/Dao*, Zhu Xi, and Wang Yangming
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Broader survey of Hindu, Buddhist, and Taoist engagement with consciousness
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Detailed compatibility analysis of Buddhist no-self and the Map's dualism
 - [witness-consciousness](/concepts/witness-consciousness/) — The Advaitic *sakṣin* and Buddhist witnessing traditions

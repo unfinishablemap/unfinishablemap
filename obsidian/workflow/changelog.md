@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T17:58:55+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Chinese Philosophy of Mind (organicism, qi/li/Dao, Wang Yangming) — the convergence argument's basin edge
+- **Output**: [[topics/chinese-philosophy-of-mind]]
+- **Word count**: 2062
+- **Based on research**: No (general knowledge; external citations web-verified 3-state at publishers of record — Chan 1963, Wang/Chuanxilu 1963, Needham 1956, SEP Wang Yangming/Zhu Xi authors corrected after fetch)
+- **Integration**: Bidirectional links added with [[cross-traditional-convergence-on-consciousness-irreducibility]] and [[the-hard-problem-in-non-western-philosophy]]; also links [[eastern-philosophy-consciousness]], [[common-cause-null]]
+
 ## 2026-07-07T17:20:03+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Quantum hardware and the AI consciousness coupling (when the coupling could change)

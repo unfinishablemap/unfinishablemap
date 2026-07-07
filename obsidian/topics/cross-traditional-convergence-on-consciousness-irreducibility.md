@@ -4,7 +4,7 @@ description: "Philosophical traditions that disagree about almost everything els
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-06T11:23:32+00:00
+ai_modified: 2026-07-07T17:58:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -165,6 +165,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]—that
 
 ## Further Reading
 
+- [[chinese-philosophy-of-mind]] — the basin edge expounded on its own terms: the deep tradition that shares the introspective architecture but never generates the irreducibility finding
 - [[the-hard-problem-in-non-western-philosophy]]
 - [[the-convergence-argument-for-dualism]]
 - [[epistemology-of-convergence-arguments]]

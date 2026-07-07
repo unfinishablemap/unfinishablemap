@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-06 11:23:32+00:00
+ai_modified: 2026-07-07 17:58:55+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -167,6 +167,7 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)—that
 
 ## Further Reading
 
+- [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) — the basin edge expounded on its own terms: the deep tradition that shares the introspective architecture but never generates the irreducibility finding
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)

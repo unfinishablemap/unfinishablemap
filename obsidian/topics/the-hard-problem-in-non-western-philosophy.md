@@ -4,7 +4,7 @@ description: "Indian, Islamic, African, and Japanese traditions independently re
 created: 2026-02-14
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-07-07T17:58:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -158,6 +158,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 ## Further Reading
 
 - [[hard-problem-of-consciousness]] — The Western formulation of the problem
+- [[chinese-philosophy-of-mind]] — The Chinese counter-example expounded on its own terms: organicism, *qi/li/Dao*, Zhu Xi, and Wang Yangming
 - [[eastern-philosophy-consciousness]] — Broader survey of Hindu, Buddhist, and Taoist engagement with consciousness
 - [[buddhism-and-dualism]] — Detailed compatibility analysis of Buddhist no-self and the Map's dualism
 - [[witness-consciousness]] — The Advaitic *sakṣin* and Buddhist witnessing traditions
