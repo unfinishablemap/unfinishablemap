@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T02:50:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/indigenous-australian-philosophy-of-consciousness]]
+- **Trigger**: topic-concept anchoring audit 2026-07-07 (Audit Three). Failed checks vs anchor [[filter-theory]]: hedge_density (0.40/kw vs 2.06/kw target) and underdetermination_markers (0 vs anchor's 1). Second flag vs [[interactionist-dualism]] (1.26/kw target) resolved by the same edits.
+- **Changes**: Added warranted, canonical hedging/underdetermination phrasing at the interpretively-loaded claims (Swain's contested precontact reconstruction; the metaphysical-vs-ethical reading of Graham's Law; the filter-theory pre-existence parallel; the indexical-identity resonance; the panpsychist-vs-animist-vs-ethical-relational reading of the ethnographic evidence). Installed two scanner-recognized markers ("compatible with either reading", "the evidence does not decisively adjudicate between them") where the article already argued underdetermination in non-canonical wording. No central claim weakened; substance was already well-calibrated — the gap was marker-vocabulary alignment with the anchor concept.
+- **Result**: hedge density 0.40 → 2.70/kw; underdetermination markers 0 → 2; strong assertions 0 (unchanged). `evaluate_anchoring` now returns 0 flags. Word count 2525 → 2594. No citations touched.
+- **Published**: yes
+
 ## 2026-07-07T02:35:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/tacit-integration-void]]
