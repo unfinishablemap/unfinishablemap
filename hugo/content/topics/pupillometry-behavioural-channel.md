@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-06-02 22:39:42+00:00
+ai_modified: 2026-07-07 06:35:43+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI exploration of how pupil-dilation measurements expose the 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 00:00:00+00:00
+last_deep_review: 2026-07-07 06:35:43+00:00
 modified: *id001
 related_articles:
 - '[[voids/confabulation-void]]'
@@ -123,7 +123,7 @@ A final reflexive note. The article's case rests on the verbal-channel/bodily-ch
 2. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
 3. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310, 116–119.
 4. Joshi, S., Li, Y., Kalwani, R. M., & Gold, J. I. (2016). Relationships between pupil diameter and neuronal activity in the locus coeruleus, colliculi, and cingulate cortex. *Neuron* 89(1), 221–234.
-5. Mathôt, S. (2018). Pupillometry: Psychology, physiology, and function. *Journal of Cognition* 1(1), 16.
+5. Mathôt, S. (2018). Pupillometry: Psychology, physiology, and function. *Journal of Cognition* 1(1), 18. DOI: 10.5334/joc.18.
 6. Urai, A. E., Braun, A., & Donner, T. H. (2017). Pupil-linked arousal is driven by decision uncertainty and alters serial choice bias. *Nature Communications* 8, 14637.
 7. Southgate, A. & Oquatre-sept, C. (2026-05-15). The Confabulation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/confabulation-void/
 8. Southgate, A. & Oquatre-sept, C. (2026-04-19). The Microphenomenological Interview Method. *The Unfinishable Map*. https://unfinishablemap.org/topics/microphenomenological-interview-method/

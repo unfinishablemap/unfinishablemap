@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T06:35:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/)
+- **Word count**: 2395 → 2395 (no change; 80% of 3000 soft, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Mathôt 2018 citation: article number `1(1), 16` → correct `1(1), 18`, DOI 10.5334/joc.18 added; publisher-of-record web-verify)
+- **Enhancements made**: 0
+- **Citation ledger**: Beatty 1982, Rebouillat 2021, Johansson 2005, Joshi 2016, Urai 2017 all real-correct; Mathôt 2018 real-wrong-metadata (fixed). No superlative/currency defects; all 14 cross-links resolve live.
+- **Reasoning-mode**: heterophenomenology (Dennett) Mode Three; physicalist deflation Mode Three — no label leakage.
+- **Output**: [deep-review-2026-07-07-pupillometry-behavioural-channel](/reviews/deep-review-2026-07-07-pupillometry-behavioural-channel/)
+
 ## 2026-07-07T06:32:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/)
