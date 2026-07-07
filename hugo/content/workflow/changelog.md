@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T11:23:03+00:00 - deep-review
+- **Status**: Success (no-op convergence pass, 11th review; cross-link accretion confirmed, no content edits)
+- **File**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Word count**: 3092 → 3092 (0; soft_warning, ~408w under 3500 concepts hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only drift since 2026-06-05 was c34536573 (2026-06-26) hub-reciprocity cross-links [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) + [interface-friction](/concepts/interface-friction/); both resolve LIVE and reciprocate. No editor-vocabulary/EOF leakage. Superlative currency sweep empty. Refs treated as freshly audited (2026-06-02 full VoR audit). last_deep_review bumped alone (ai_modified untouched).
+- **Output**: [deep-review-2026-07-07-attention-as-interface](/reviews/deep-review-2026-07-07-attention-as-interface/)
+
 ## 2026-07-07T11:07:22+00:00 - deep-review
 - **Status**: Success (no-op convergence pass; over-ceiling flagged as HUMAN LENGTH DECISION, no content edits)
 - **File**: [personal-identity](/topics/personal-identity/)

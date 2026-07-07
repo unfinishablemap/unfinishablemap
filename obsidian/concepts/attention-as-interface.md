@@ -66,7 +66,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-05T21:22:53+00:00
+last_deep_review: 2026-07-07T11:23:03+00:00
 coalesced_from:
   - "/concepts/attention/"
   - "/concepts/voluntary-attention/"
