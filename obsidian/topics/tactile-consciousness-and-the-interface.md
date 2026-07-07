@@ -4,7 +4,7 @@ description: "Touch supplies what the distance senses cannot: perception that re
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-06-22T01:30:00+00:00
+ai_modified: 2026-07-07T04:15:33+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-16
 last_curated:
-last_deep_review: 2026-06-20T14:20:30+00:00
+last_deep_review: 2026-07-07T04:15:33+00:00
 ---
 
 Philosophy of perception is overwhelmingly a philosophy of vision, and where it ventures beyond sight it has gone next to hearing and, more recently, to the chemical senses. Touch is the modality the [[dualist-perception|Map's treatment of perception]] names but does not develop—it concedes that perception extends across many modalities, touch among them, without working any of them out. This article is the tactile companion to [[auditory-consciousness-and-the-interface|the auditory case]] and [[chemosensory-consciousness-and-the-interface|the chemosensory case]], the fourth in the exteroceptive perception-modality series (vision → audition → chemosensation → touch), alongside the separately-developed proprioceptive treatment ([[dual-domain-capabilities-in-proprioception-and-spatial-imagination|proprioception and the body schema]]) and the inward [[interoceptive-consciousness-and-the-interface|interoceptive treatment]] (which inverts the cross-modal pattern this series traces); the [[vestibular-consciousness-and-the-interface|vestibular]] and [[thermal-consciousness-and-the-interface|thermal]] modalities now have their own treatments. Touch supplies four kinds of evidence the distance senses cannot: perception that constitutively requires *movement* (active haptics has no passive equivalent that delivers the same content), a perceiver who is simultaneously *perceived* (the touching hand is also a touched object), affect that is woven into the contact itself rather than appended downstream (the affective channel of cutaneous touch; pain), and a felt body whose *boundary can be moved* (the rubber-hand illusion). None of this, on the reading offered here, *settles* dualism over physicalism, which has a credible account of each. What touch does is press the [[explanatory-gap|explanatory gap]] in registers the distance senses leave untouched.
@@ -98,7 +98,7 @@ The Map does not claim touch settles dualism. It claims touch is evidence any ad
 - [[pain-consciousness-and-causal-power]] — pain's affect and causal role, of which this article uses only the constitutive-valence datum
 - [[evaluative-phenomenal-character]] — the claim that some phenomenal character is constitutively valenced, for which affective touch and pain are strong contact cases
 - [[the-binding-problem]] — the binding taxonomy that the unity of a felt object instantiates across submodalities and across exploratory time
-- [[cross-modal-capability-division]] — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); touch is where ownership is most vivid, a load-bearing disanalogy
+- [[cross-modal-capability-division]] — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); touch is where ownership is most vivid, a sharp disanalogy
 - [[vestibular-consciousness-and-the-interface]] — the vestibular companion: the limiting silent-frame case, whose stimulation modulates the same rubber-hand ownership this article uses
 - [[thermal-consciousness-and-the-interface]] — the thermal companion: where affective valence is state-indexed rather than fixed as it is for the C-tactile affective touch this article treats
 
