@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T20:24:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/falsification-roadmap-for-the-interface-model]]
+- **Word count**: 4018 (length-neutral; folded the redundant trailing sentence into the reframed clause)
+- **Changes**: Attribution-precision fix on the "conservation of energy challenge" paragraph (~L109). Closed the residual from the 2026-06-24 deep-review wrong-author correction (Gamez 2022 → Pitts 2020, Philosophia 48(2):673-707). Reframed the paragraph so Pitts is cited only for the causal-closure entailment he actually argues ("trivially nearly entail" — genuine quote, kept), made explicit that Pitts's own view treats mental causation as conservation-VIOLATING, and attributed the energetically-equivalent-selection open door to conservation-locality (a structural feature of the laws), not to any concession from Pitts. No citation metadata touched — reference entry (L207) already correct from the 2026-06-24 fix.
+- **Published**: yes
+
 ## 2026-07-07T20:06:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-mathematical-understanding]]
