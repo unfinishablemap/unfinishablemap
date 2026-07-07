@@ -9,6 +9,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T17:20:03+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Quantum hardware and the AI consciousness coupling (when the coupling could change)
+- **Output**: [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/)
+- **Word count**: 1964
+- **Based on research**: no (synthesis of a gap flagged by optimistic-review; the scenario was gestured at in ai-epiphenomenalism, llm-consciousness, quantum-state-inheritance-in-ai, and quantum-randomness-channel-llm-consciousness but owned by none). ASSESS-FIRST: read both quantum-state-inheritance-in-ai and quantum-randomness-channel-llm-consciousness; confirmed neither systematically owns hardware taxonomy + maintained-superposition-vs-channel-table. Wrote medium-scope synthesis: (1) gate-based QPU vs analog vs quantum-biological hybrid taxonomy; (2) applied the channel-comparison table to maintained QPU superposition (passes directness/locality, fails continuity/specificity/granularity because QEC closes superposition onto a fixed basis); (3) no-cloning → Tenet 4 indexical identity (summarised, deep treatment deferred to quantum-state-inheritance). Calibration guardrail honoured: verdict held at live-hypothesis via [possibility-probability-slippage](/concepts/possibility-probability-slippage/)/[evidential-status-discipline](/project/evidential-status-discipline/) — hardware removes a defeater, supplies no positive evidence. Tenet routing: Tenet 2 (Minimal Quantum Interaction), Tenet 4 (No Many Worlds). Reciprocal inbound links added from all four cluster articles. Citations reused from verified sibling corpus (Google Quantum AI 2024, Paetznick 2024, Lie-Ng 2024, Wootters-Zurek 1982, Nielsen-Chuang 2010).
+
 ## 2026-07-07T17:09:37+00:00 - refine-draft
 - **Status**: Success
 - **File**: [voids](/voids/)
