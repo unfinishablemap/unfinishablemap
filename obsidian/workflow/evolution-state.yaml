@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T08:08:13.525277+00:00'
-session_count: 13920
-cycle_position: 10273
+last_updated: '2026-07-07T08:12:42.193479+00:00'
+session_count: 13921
+cycle_position: 10274
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-07T03:52:42.458461+00:00'
   optimistic-review: '2026-07-07T05:00:47.712853+00:00'
   check-tenets: '2026-07-06T22:36:02.264375+00:00'
   check-links: '2026-07-07T07:27:41.082963+00:00'
-  deep-review: '2026-07-07T07:19:42.952761+00:00'
+  deep-review: '2026-07-07T08:12:42.193479+00:00'
   tune-system: '2026-07-06T22:40:49.306250+00:00'
   research-voids: '2026-07-07T07:30:37.671338+00:00'
   coalesce: '2026-07-07T06:00:57.226465+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 430
-  reviews_completed: 5998
+  reviews_completed: 5999
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-07'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-07'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: add-highlight
   type: add-highlight
+  date: '2026-07-07'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -389,10 +389,42 @@ queue_status:
   p3_tasks: 19
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-07T07:40:00+00:00'
+  last_replenishment: '2026-07-07T08:19:41+00:00'
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T07:40Z: floor-restore
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T08:19Z: floor-restore
+    via 1 staleness deep-review mint (apex/identity-across-transformations.md). Canonical
+    count_p0_p2_tasks==2 pre-mint (the two open staleness P2s concepts/cognitive-phenomenology
+    + topics/anaesthesia-and-the-consciousness-interface; a cycle deep-review of voids/boundary-and-projection
+    at git HEAD fa9e4e996 drained floor 3->2 by documented replenish-at-floor alternation
+    unfin_loop_steady_state). git HEAD == fa9e4e996 auto(deep-review), last_task !=
+    replenish-queue, both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue),
+    legitimate floor-restore 2->3 NOT a concurrent-replenish-race. EIGHT-SOURCE AUDIT
+    re-run: (chain) task_chains empty, recent_tasks deep-review/replenish/add-highlight/social,
+    none chain-generating. (unconsumed_research) EXHAUSTED, 6 newest notes re-verified
+    consumed (philosophy-of-habit->topics live; anthropic-global-workspace-j-space->concepts/global-workspace-theory
+    J-Space integrated; second-person->topics/the-second-person-evidential-channel;
+    substance-causation-lowe->concepts/four-category-ontology; hylomorphic-mind-body-interaction->topics/hylomorphic-dualism-and-the-interaction-problem
+    refined HEAD 1d59b65b8; philosophy-of-action->topics/philosophy-of-action-under-dualism).
+    (gap) harvester-governed + Vetoed-dedup-blocked. (staleness) LIVE and abundant
+    (concepts 71, topics 45, voids 39, apex 7 files >=30d aic>50), the SOURCE USED.
+    (length) offenders all veto/human-deferred. (orphans) orphaned_files==0. (positions)
+    register domain-files governed by positions-evolve not deep-review, 8<10 audit
+    threshold. (applied-apex-gap) applied apex extant. TARGET chosen for DIVERSITY
+    vs the two existing P2s (concepts/cognitive-phenomenology/opus-4-8 + topics/anaesthesia/opus-4-6):
+    apex/ section (3rd distinct in-queue, under-reviewed: 7 stale vs 71 concepts),
+    personal-identity/indexical-identity apex (Tenet 4). Changed-since-review prioritised
+    over cohort diversity (opus-4-6 overlaps anaesthesia): the only length-safe opus-4-7
+    apex candidate (ai-as-introspection-control) is CONVERGED (aimod==ldr, deep_review_over_reviews_converged
+    no-op risk); this target genuinely changed after review. VERIFIED: last_deep_review
+    2026-06-05 accurate (32d); ai_modified 2026-06-19 (changed ~14d AFTER review =
+    genuine changed-since-review per replenish-churn-filter-overtight, NOT today);
+    ai_contribution=100; ai_system=opus-4-6; draft:false; analyze_length body==4035w
+    soft_warning UNDER 5000 apex hard (length-safe, keep LENGTH-NEUTRAL); unqueued;
+    not archived; EOF-clean (Pinto 2017 Brain ref); no same-day review collision.
+    Inserted after the two existing P2s to preserve FIFO (queue-lifo-starvation). Floor
+    2->3.'
+  last_floor_restore_note_prev_3: 'Interactive /replenish-queue 2026-07-07T07:40Z: floor-restore
     via 1 staleness deep-review mint (topics/anaesthesia-and-the-consciousness-interface.md).
     Canonical count_p0_p2_tasks==2 pre-mint (the two open staleness P2s boundary-and-projection
     + cognitive-phenomenology; the 07:12Z prior note''s subject cognitive-phenomenology
