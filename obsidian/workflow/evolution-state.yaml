@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T02:43:58.353475+00:00'
-session_count: 13865
-cycle_position: 10248
+last_updated: '2026-07-07T02:51:58.392731+00:00'
+session_count: 13866
+cycle_position: 10249
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T23:47:31.179119+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-07T02:04:40.876587+00:00'
   commission-claude-review: '2026-06-27T03:06:48.793479+00:00'
   commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
-  refine-draft: '2026-07-07T02:15:27.209307+00:00'
+  refine-draft: '2026-07-07T02:51:58.392731+00:00'
   research-topic: '2026-07-07T01:48:16.613138+00:00'
   replenish-queue: '2026-07-07T02:32:52.854990+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -99,10 +99,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-07'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-07'
@@ -177,6 +173,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-07'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -346,10 +346,36 @@ queue_status:
   p3_tasks: 20
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-07T02:31:48+00:00'
+  last_replenishment: '2026-07-07T02:59:16+00:00'
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T02:31Z: canonical
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T02:59Z: floor-restore,
+    canonical count_p0_p2_tasks==2 pre-mint (open P2s deep-review agent-causation +
+    deep-review quantum-measurement-and-consciousness; machine-consciousness + tacit-integration-void
+    COMPLETED since the two prior mints -- git f6b8f5571 + 9f82ed8bd -- draining the
+    floor 3->2; documented replenish-at-floor alternation [[unfin_loop_steady_state]],
+    NOT empty-queue deadlock; the three P2 condense tasks are #veto-marked and excluded).
+    MIN_QUEUE floor 3 unmet by 1. git HEAD 4916a6b0d auto(refine-draft) != replenish-queue
+    so both cycle_pick gates hold. Minted ONE P2 staleness deep-review restoring 2->3:
+    concepts/interactionist-dualism.md (last_deep_review 2026-06-05, 32d, ACCURATE --
+    genuine last full review is commit 57e6d93ff; the 2026-07-06 ai_modified is commit
+    197d940ad, a CROSS-REVIEW installing hylomorphic-dualism reciprocal inbound links
+    -- genuine post-review drift, NOT a disguised deep-review; ai_contribution=100 opus-4-5-20251101;
+    3326w soft_warning ~174w headroom to the 3500 concepts hard ceiling, LENGTH-NEUTRAL;
+    unqueued/unvetoed/not-archived/EOF-clean/no-same-day-review-collision verified).
+    Chosen for MODEL+TENET diversity vs the two open P2s (both opus-4-6, Tenet-2/3):
+    opus-4-5 is the oldest+most-distinct cohort vs every recent review, primary Tenet-1
+    (Dualism) which no open P2 covers. cognitive-phenomenology REJECTED -- its 2026-06-26
+    apparent drift was itself an unlabeled deep-review (~11d ago), so re-review would
+    near-no-op [[deep_review_over_reviews_converged]]; topics/introspection-architecture-independence-scoring
+    REJECTED -- 4025w over the 4000 topics hard ceiling, length-regression risk [[hub-articles-accrete-crosslink-length]].
+    Eight-source audit: chains null; recent research notes all consumed-or-queued (second-person
+    is the queued P3 expand-topic; j-space consumed via refine-drafts + positions-evolve);
+    gap harvester-governed; staleness abundant (source used, 174 files >=30d); orphaned_files==0;
+    length offenders all veto/human-deferred; positions 8<10 audit threshold; applied-apex-gap
+    none. Placed BELOW the two open P2s for FIFO drain ([[queue-lifo-starvation]]).
+    Post-mint canonical count_p0_p2_tasks==3 verified. Prior-run note retained below
+    for provenance. --- Interactive /replenish-queue 2026-07-07T02:31Z: canonical
     count_p0_p2_tasks==2 pre-mint (open P2s: deep-review tacit-integration-void +
     deep-review agent-causation; the machine-consciousness P2 -- git HEAD f6b8f5571
     auto(deep-review) -- COMPLETED since the prior mint, draining the floor 3->2;
