@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T16:40:57+00:00 - refine-draft (cross-link-only, altered-states/filter-model cluster)
+- **Status**: Success
+- **Files**: [[apex/altered-states-as-interface-evidence]], [[topics/consciousness-and-neurodegenerative-disease]], [[topics/psychedelics-and-the-filter-model]]
+- **Scope**: Mechanical, length-neutral wikilink adds only — NO prose, NO calibration changes, NO citation touches. Reconnects the two empirical faces of filter theory (disease vs pharmacology) plus the apex that lists neurodegeneration as one of its six perturbation types.
+- **Changes**: (1) apex → added [[consciousness-and-neurodegenerative-disease]] to related_articles (apex already linked terminal-lucidity + psychedelics but not the disease-face article). (2) neurodegenerative-disease → added [[psychedelics-and-the-filter-model]] to related_articles (reciprocates the pharmacological face). (3) psychedelics-filter → added [[consciousness-and-neurodegenerative-disease]] to related_articles (reciprocal of #2).
+- **Constraints honored**: all 3 links verified absent 0/0/0 pre-edit and resolve to live slugs; ai_modified bumped minimally on all three; last_deep_review NOT bumped; apex_last_synthesis NOT reset (cross-link add is not a synthesis); EOF clean; not future-dated. Distinct from the 2026-06-26 22:57 refine (bandwidth/anaesthesia/OOB links).
+- **Published**: yes
+
 ## 2026-07-07T16:32:19+00:00 - refine-draft (3 net-neutral fixes, over-ceiling flagship)
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]

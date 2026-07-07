@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-06-26T22:57:03+00:00
+ai_modified: 2026-07-07T16:40:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[dream-consciousness]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
+  - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[altered-states-consciousness-2026-01-19]]"
   - "[[voids-altered-states-as-void-probes-2026-02-03]]"
   - "[[meta-epistemology-of-limits]]"

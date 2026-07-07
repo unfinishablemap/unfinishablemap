@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-06-25T14:44:32+00:00
+ai_modified: 2026-07-07T16:40:57+00:00
 draft: false
 description: "Six altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia, terminal lucidity—converge on the same multi-channel interface architecture, mapping consciousness-brain coupling through systematic perturbation."
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[terminal-lucidity-and-filter-transmission-theory]]"
+  - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[interface-specification-programme]]"
   - "[[the-convergence-argument-for-dualism]]"

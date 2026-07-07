@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-06-25 14:44:32+00:00
+ai_modified: 2026-07-07 16:40:57+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-06-25 14:44:32+00:00
 apex_sources:
@@ -58,6 +58,7 @@ related_articles:
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[terminal-lucidity-and-filter-transmission-theory]]'
+- '[[consciousness-and-neurodegenerative-disease]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[interface-specification-programme]]'
 - '[[the-convergence-argument-for-dualism]]'

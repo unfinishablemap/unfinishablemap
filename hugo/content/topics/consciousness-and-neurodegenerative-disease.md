@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-26 13:55:24+00:00
+ai_modified: 2026-07-07 16:40:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[pain-consciousness-and-causal-power]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
+- '[[psychedelics-and-the-filter-model]]'
 - '[[identity-across-transformations]]'
 - '[[testing-consciousness-collapse]]'
 title: Consciousness and Neurodegenerative Disease

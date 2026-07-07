@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-06-26 22:57:03+00:00
+ai_modified: 2026-07-07 16:40:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[tenets]]'
 - '[[dream-consciousness]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
+- '[[consciousness-and-neurodegenerative-disease]]'
 - '[[altered-states-consciousness-2026-01-19]]'
 - '[[voids-altered-states-as-void-probes-2026-02-03]]'
 - '[[meta-epistemology-of-limits]]'

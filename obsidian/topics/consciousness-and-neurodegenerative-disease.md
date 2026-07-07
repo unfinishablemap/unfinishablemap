@@ -4,7 +4,7 @@ description: "Neurodegenerative diseases progressively dismantle cognitive facul
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-26T13:55:24+00:00
+ai_modified: 2026-07-07T16:40:57+00:00
 last_deep_review: 2026-06-26T13:55:24+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ related_articles:
   - "[[pain-consciousness-and-causal-power]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
+  - "[[psychedelics-and-the-filter-model]]"
   - "[[identity-across-transformations]]"
   - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
