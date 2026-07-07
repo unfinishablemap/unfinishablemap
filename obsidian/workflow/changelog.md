@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T06:15:00+00:00 - deep-review
+- **Status**: Success (no-op — citation currency verified clean)
+- **File**: [[concepts/decoherence]]
+- **Word count**: 2803 → 2803 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: Luo 2025 (JACS, real-correct — confirms 06-16 Xu→Luo swap legitimate), Craddock 2017 (Sci Rep 7:9877, real-correct), Wiest 2025 (NoC niaf011, real-correct), Yang 2025 (Sci Adv eadr4492, 1.8 K confirmed). No superlative-currency drift. Thirteenth review; content converged, only last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-07-07-decoherence]]
+
 ## 2026-07-07T05:47:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The second-person evidential channel (we-mode / second-person neuroscience)
