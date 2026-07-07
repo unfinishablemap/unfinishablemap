@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T11:21:45.223288+00:00'
-session_count: 13953
-cycle_position: 10290
+last_updated: '2026-07-07T11:25:08.156659+00:00'
+session_count: 13954
+cycle_position: 10291
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-07T09:02:35.946381+00:00'
   optimistic-review: '2026-07-07T10:13:31.815641+00:00'
   check-tenets: '2026-07-06T22:36:02.264375+00:00'
   check-links: '2026-07-07T07:27:41.082963+00:00'
-  deep-review: '2026-07-07T11:11:00.801144+00:00'
+  deep-review: '2026-07-07T11:25:08.156659+00:00'
   tune-system: '2026-07-06T22:40:49.306250+00:00'
   research-voids: '2026-07-07T07:30:37.671338+00:00'
   coalesce: '2026-07-07T11:02:57.434736+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 430
-  reviews_completed: 6013
+  reviews_completed: 6014
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-07'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-07'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-07'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -413,10 +413,42 @@ queue_status:
   p3_tasks: 22
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-07T10:58:56+00:00'
+  last_floor_restore_target: concepts/mental-effort.md
+  last_replenishment: '2026-07-07T11:33:13+00:00'
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T10:58Z: floor-restore
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T11:33Z: floor-restore
+    via 1 staleness deep-review mint (concepts/mental-effort.md). Canonical
+    tools.evolution.task_selector.count_p0_p2_tasks==2 pre-mint (open P2s
+    voids/expertise-and-its-occlusion + concepts/epistemology; the P3s + NEEDS-HUMAN
+    length deferrals + veto-tagged condenses are parser-excluded from the floor).
+    The prior floor-restore attention-as-interface mint was executed as a cycle
+    deep-review (git HEAD a7a5e221a auto(deep-review): concepts/attention-as-interface.md)
+    draining 3->2. last_task==deep-review (!=replenish-queue); both cycle_pick gates
+    hold (p0_p2<3 AND last_task!=replenish-queue), legitimate floor-restore 2->3 NOT
+    a concurrent-replenish-race (tree carries only the pre-session evolution-state.yaml
+    edit; live count re-verified ==2 before AND ==3 after). EIGHT-SOURCE AUDIT: (chain)
+    task_chains.pending_articles/pending_cross_reviews both None. (unconsumed_research)
+    EXHAUSTED, newest notes re-verified consumed. (gap) harvester-governed +
+    Vetoed-dedup-blocked. (staleness) LIVE, the SOURCE USED. (length) offenders all
+    veto/human-deferred. (orphans) orphaned_files==0. (positions) 8<10 audit threshold.
+    (applied-apex-gap) applied apex extant. TARGET: mental-effort chosen for
+    subject-diversity (Tenet 3 cognitive-effort/agency vs both open P2s which are
+    Tenet-5 epistemology; distinct from todays quantum/introspection/cognitive-closure
+    cycle clusters) PLUS a GENUINE citation VERIFY-JOB not manufactured drift: the
+    06-05 own-body change is commit 503ea6422 fixing a fabricated Marzbani-2022 CBT
+    cite, landed AFTER the 06-02 review so UNVERIFIED by deep-review, on a concept
+    with prior fabricated-cite history, so a publisher-of-record currency pass has
+    real yield. Alternatives skipped: qbism (drift=8 but quantum-subject covered today
+    + 06-14 sibling propagation churn); inference-void + the void candidates (collinear
+    void/opus-4-7/cognitive-closure with the expertise P2); no clean topics/apex
+    headroom candidate (all over-length veto/human-length-decision items). VERIFIED:
+    last_deep_review 2026-06-02T09:30:18 accurate (34d); ai_modified 2026-06-05
+    (the citation fix, NOT today); ai_contribution=100; ai_system=claude-opus-4-7;
+    draft:false; NOT archived; unqueued (0 open P header names the slug); no same-day
+    collision; EOF-clean (Zheng & Meister 2025 Neuron ref); body==2925w concepts
+    soft_warning (~575w under the 3500 hard) length-neutral headroom. Floor 2->3.'
+  last_floor_restore_note_prev_1: 'Interactive /replenish-queue 2026-07-07T10:58Z: floor-restore
     via 1 staleness deep-review mint (voids/expertise-and-its-occlusion.md). Canonical
     tools.evolution.task_selector.count_p0_p2_tasks==2 pre-mint (open P2s topics/personal-identity
     + concepts/attention-as-interface; the 22 P3s + NEEDS-HUMAN length deferrals +
