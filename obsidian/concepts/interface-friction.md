@@ -4,7 +4,7 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-26T07:27:45+00:00
+ai_modified: 2026-07-07T22:02:24+00:00
 draft: false
 last_deep_review: 2026-06-25T21:13:11+00:00
 topics:
@@ -29,6 +29,7 @@ related_articles:
   - "[[embodied-consciousness]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[empirical-phenomena-mental-causation]]"
+  - "[[philosophy-of-habit-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -132,6 +133,7 @@ The filter model also generates a distinctive prediction: reduced neural constra
 - [[filter-theory]] — The filter model where friction has its natural home
 - [[phenomenology-of-resistance-across-domains]] — The broader pattern of which interface friction is one instance
 - [[phenomenology-of-agency-vs-passivity]] — Where friction's phenomenology sits on the basic agency axis
+- [[philosophy-of-habit-under-dualism]] — Habit as the low-friction extreme of the friction gradient
 
 ## References
 

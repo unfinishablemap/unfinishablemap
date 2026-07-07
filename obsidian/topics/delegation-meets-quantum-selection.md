@@ -4,7 +4,7 @@ description: "Causal delegation provides the logical structure of mental causati
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-06-25T16:39:56+00:00
+ai_modified: 2026-07-07T22:02:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[consciousness-physics-interface-formalism]]"
   - "[[entanglement-binding-hypothesis]]"
   - "[[skill-delegation]]"
+  - "[[philosophy-of-habit-under-dualism]]"
 last_deep_review: 2026-06-25T16:39:56+00:00
 ai_contribution: 100
 author:
@@ -121,6 +122,7 @@ The delegation-selection bridge integrates multiple tenets into a unified accoun
 - [[observational-closure]] — Why delegation-selection leaves no empirical trace
 - [[consciousness-physics-interface-formalism]] — Five constraints on any consciousness-physics coupling
 - [[entanglement-binding-hypothesis]] — Quantum entanglement as the physical substrate for unified experience
+- [[philosophy-of-habit-under-dualism]] — The delegation function observed at its most mundane and material, in habit
 
 ## References
 
