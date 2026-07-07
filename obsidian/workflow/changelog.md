@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T22:06:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/deep-computational-markers-for-machine-consciousness]]
+- **Target rationale**: last_deep_review 2026-06-20 but body modified 2026-07-07 by one refine-draft (890eefb2b) that added the J-space / Jacobian-lens material + Gurnee et al. 2026 citation — un-deep-reviewed citation-bearing drift.
+- **Word count**: 3159 → 3159 (length-neutral; soft_warning at 105% of 3000)
+- **Critical issues addressed**: 1 (attribution: Plunkett & Shiller mislabelled "architects of the theory-derived indicator framework"; only Butlin & Long are — corrected to co-commentators)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; length-neutral mode)
+- **Citations web-verified**: Gurnee et al. 2026 (Verbalizable Representations Form a Global Workspace in LLMs, Transformer Circuits Thread, 2026-07-06) — real-correct at publisher of record (title, 16-author list, venue/date, <10% variance, k≤25, verbatim no-position quote all confirmed); commentator attributions (Dehaene/Naccache, Butlin/Long/Plunkett/Shiller, Nanda replication) confirmed. Inline↔References: no orphans.
+- **Engagement modes**: illusionism (Frankish) — Mode Three, boundary-marking honest, unchanged; functionalist objection to necessary-not-sufficient — Mode Three, honest standoff. No label leakage.
+- **Output**: [[reviews/deep-review-2026-07-07-deep-computational-markers-for-machine-consciousness]]
+
 ## 2026-07-07T21:47:33+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Kabbalah and Tzimtzum as a Consciousness-Matter Framework
