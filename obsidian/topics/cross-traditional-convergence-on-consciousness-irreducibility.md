@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-06-03T23:55:00+00:00
+last_deep_review: 2026-07-07T00:11:31+00:00
 ---
 
 Philosophical traditions separated by millennia, geography, and fundamental metaphysical commitments converge on a single recognition: consciousness is not reducible to its physical substrate. The Unfinishable Map argues that this convergence pattern is itself a philosophical datum requiring explanation. Traditions that disagree about whether a self exists, whether matter is real, whether causation runs upward or downward, and whether the universe is one or many—all converge when they investigate consciousness through sustained, methodologically diverse, and self-critical inquiry. Irreducibility functions as an attractor of such inquiry. The most parsimonious explanation on offer is that these traditions are tracking something real—though how much weight it earns is governed by the common-cause null engaged below, whose verdict is calibrated rather than flat: premise-level common causes substantially weakened, a residual introspection-architecture common cause acknowledged.
