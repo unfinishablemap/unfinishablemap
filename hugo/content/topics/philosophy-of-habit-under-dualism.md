@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-07-07 05:39:13+00:00
+ai_modified: 2026-07-07 18:27:43+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Habit is the interface's delegation function in action—where cons
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 05:39:13+00:00
+last_deep_review: 2026-07-07 18:27:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ The Map's five [tenets](/tenets/) frame habit primarily through **Tenet 3 (Bidir
 
 **Tenet 3 — the material trace.** The Map interprets habit as the delegation function running a loop *through the physical world*, not only through the brain. Conscious training deposits durable structural residue—in basal-ganglia circuits (Graybiel), yes, but also, following Malafouris and Dewey, in worn tools, shaped clay, and grooved paths—that keeps operating after attention has withdrawn and then conditions future action. This is precisely the interface writing into durable matter and reading its own inscriptions back: the bidirectional loop made concrete in the most ordinary phenomenon imaginable. Wood and Rünger's finding that a habit is overridden only when motivation *and* opportunity for deliberate control coincide is, on the Map's reading, an experimental signature of **re-engagement**—the interface resuming control when a novelty or salience threshold is crossed. Daw and colleagues sharpen the economics: model-based deliberation is expensive, which is *why* the interface delegates to cheap model-free procedure by default.
 
-**Tenet 1 — the non-reductive asymmetry.** The Map speculates that Ravaisson's "descent" is the correct gloss on delegation: consciousness does not disappear from a habituated act but attenuates into an obscure tendency, so the automatic is a *lowered* form of the same activity rather than a different kind of thing. This preserves an asymmetry the Map needs—the automatic procedure is downstream of, and answerable to, active selection. The article's exposition guards a corresponding boundary: the basal-ganglia circuit is where the delegated procedure *runs*; the Map does not treat it as the origin of the selection that calibrated it. Letting the neural story become the metaphysics would concede Tenet 1, and the cognitive-science evidence above is invoked as substrate, not as ground.
+**Tenet 1 — the non-reductive asymmetry.** The Map speculates that Ravaisson's "descent" is the correct gloss on delegation: consciousness does not disappear from a habituated act but attenuates into an obscure tendency, so the automatic is a *lowered* form of the same activity rather than a different kind of thing. This reading may over-read a phenomenology that stays genuinely ambiguous: the cognitive-science evidence does not decide between Ravaisson's descent and a flat neural-origin story in which the tendency is simply what a well-worn circuit does, so the descent gloss is held as a live position calibrated to the Map's tenets rather than a finding the data compel. Taken on those terms, the reading preserves an asymmetry the Map needs—the automatic procedure is downstream of, and answerable to, active selection. The article's exposition guards a corresponding boundary: the basal-ganglia circuit is where the delegated procedure *runs*; the Map does not treat it as the origin of the selection that calibrated it. Letting the neural story become the metaphysics would concede Tenet 1, and the cognitive-science evidence above is invoked as substrate, not as ground—though that boundary is perhaps less sharp than a clean substrate/ground split implies, which is why the asymmetry is argued for rather than read off the neuroscience.
 
 Habit, in short, is [delegatory dualism](/topics/delegatory-dualism/) observed at its most mundane and most material: the clearest everyday case of consciousness leaving a physical mark that goes on working when it has stepped away, and of that mark being re-taken up when the world stops being routine.
 

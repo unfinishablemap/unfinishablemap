@@ -5,7 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-07-07T17:58:55+00:00 - expand-topic
+## 2026-07-07T18:27:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/philosophy-of-habit-under-dualism]]
+- **Trigger**: ANCHORING-CALIBRATION (topic-concept anchoring audit 2026-07-07); failed hedge_density + underdetermination_markers vs anchor [[delegatory-causation]]
+- **Changes**: Under-calibrated fresh-create relative to its anchor concept. Raised hedge density 0.48→1.38/kw (3 hedges, above 1.04 floor, below anchor 1.73 — not over-hedged) and installed 1 underdetermination marker ("the cognitive-science evidence does not decide between Ravaisson's descent and a flat neural-origin story"). Edits localized to the Tenet-1 (non-reductive asymmetry) paragraph: descent gloss now framed as a live position calibrated to the tenets, not a data-forced finding; substrate/ground boundary hedged. Central thesis (habit as delegated causation) untouched. Honours [[evidential-status-discipline]].
+- **Verification**: evaluate_anchoring returns 0 flags post-edit
+- **Published**: yes
 - **Status**: Success
 - **Topic**: Chinese Philosophy of Mind (organicism, qi/li/Dao, Wang Yangming) — the convergence argument's basin edge
 - **Output**: [[topics/chinese-philosophy-of-mind]]
