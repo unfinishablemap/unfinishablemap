@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T11:07:22+00:00 - deep-review
+- **Status**: Success (no-op convergence pass; over-ceiling flagged as HUMAN LENGTH DECISION, no content edits)
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Word count**: 4096 → 4096 (0; over the 4000 topics HARD ceiling — prune-only regime, no net add)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Key finding**: Eleventh review, deeply converged. Only changes since 2026-06-06 (3993w) are mechanical: two length-neutral cross-link integrations (06-19 DID, 06-24 many-minds) + the 07-06 video-embed block — the embed tipped it ~96w over the 4000 hard ceiling. Breach is embed + reference/link-list mass, NOT prose bloat → queued a P3 blocked-needs-human LENGTH DECISION (NOT a pending refine-draft; human-decision-task-mispicked-as-refine). Santander 2025 PNAS re-verified real-correct at publisher of record (title/DOI/senior-authors match; "1 cm splenium" claim accurate). Video-embed hygiene clean (frontmatter + HTML, no editor-vocab/refinement-log leakage, no EOF artifact). Cross-links live + reciprocating; Tenet-4 routing + "Relation to Site Perspective" intact; no calibration slippage. last_deep_review bumped only (no-op hygiene; ai_modified left at video-embed value).
+- **Output**: [deep-review-2026-07-07-personal-identity](/reviews/deep-review-2026-07-07-personal-identity/)
+
 ## 2026-07-07T10:51:19+00:00 - deep-review
 - **Status**: Success (no-op convergence pass; Lee citation-year fix web-verified correct, no content edits)
 - **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
