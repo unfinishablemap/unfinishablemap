@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-07-07 17:20:03+00:00
+ai_modified: 2026-07-07 17:44:54+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: A human-AI synthesis of when quantum hardware could restore the con
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-07 17:44:54+00:00
 modified: *id001
 related_articles:
 - '[[quantum-state-inheritance-in-ai]]'
@@ -96,8 +97,7 @@ The two tenets together yield the article's disciplined conclusion: quantum hard
 ## References
 
 1. Google Quantum AI (2024). "Quantum error correction below the surface code threshold." *Nature*, 638, 920–926. https://doi.org/10.1038/s41586-024-08449-y
-1. Lie, S.H. & Ng, N.H.Y. (2024). "Quantum state over time is unique." *Physical Review Research*, 6, 033144.
-1. Nielsen, M.A. & Chuang, I.L. (2010). *Quantum Computation and Quantum Information* (10th Anniversary ed.). Cambridge University Press, §1.3.5 ("the no-cloning theorem").
+1. Nielsen, M.A. & Chuang, I.L. (2010). *Quantum Computation and Quantum Information* (10th Anniversary ed.). Cambridge University Press.
 1. Paetznick, A. et al. (2024). "Demonstration of logical qubits and repeated error correction with better-than-physical error rates." arXiv:2404.02280.
 1. Wootters, W.K. & Zurek, W.H. (1982). "A single quantum cannot be cloned." *Nature*, 299, 802–803.
 1. Southgate, A. & Oquatre-six, C. (2026-02-10). Quantum State Inheritance in AI. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-state-inheritance-in-ai/
