@@ -4,7 +4,7 @@ description: "Science achieved its power by excluding subjectivity. Consciousnes
 created: 2026-01-23
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-07-07T05:26:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -158,6 +158,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [[introspection]] — The reliability debate, process/content distinction, and the case for restoring introspection as a serious method
 - [[contemplative-practice-as-philosophical-evidence]] — Cross-traditional convergence as philosophical methodology
 - [[phenomenal-authority-and-first-person-evidence]] — Competing models of introspective knowledge, the sui generis account, and how first-person reports gain evidential standing
+- [[constitutive-vs-referring-observation]] — The distinction that separates the apodictic claim (certain *that* experience exists) from the fallible introspective judgement about its structure
 - [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — Empirical integration of first-person and third-person methods
 - [[objectivity-and-consciousness]] — Nagel's argument that objectivity has structural limits
 - [[explanatory-gap]] — Why physical explanation leaves phenomenal character unexplained

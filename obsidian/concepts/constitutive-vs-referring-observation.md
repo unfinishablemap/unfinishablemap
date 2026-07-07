@@ -4,7 +4,7 @@ description: "Some observations track independent targets; others constitute the
 created: 2026-04-26
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-01T16:32:09+00:00
+ai_modified: 2026-07-07T05:26:00+00:00
 last_deep_review: 2026-07-06T14:07:26+00:00
 draft: false
 topics:
@@ -98,6 +98,7 @@ The distinction therefore identifies the location of the bedrock disagreement ra
 - [[philosophical-zombies]] — Conceivability illustration of the same structure
 - [[parsimony-epistemology]] — Why Tenet 5 limits parsimony's reach across constitutive/referring divides
 - [[self-stultification]] — Related framework for self-undermining-position arguments
+- [[methodology-of-consciousness-research]] — Where the distinction underwrites the split between introspection's fallible judgement and its apodictic certainty that experience exists
 
 ## References
 

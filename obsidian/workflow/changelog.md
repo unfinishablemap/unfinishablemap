@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T05:26:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/methodology-of-consciousness-research]], [[concepts/constitutive-vs-referring-observation]]
+- **Task**: Cross-link gap from optimistic review 2026-07-06b (reviews/optimistic-2026-07-06b.md)
+- **Changes**: Reciprocal Further Reading wikilinks. methodology → constitutive-vs-referring-observation (the distinction separating the apodictic "certain *that* experience exists" claim from fallible introspective judgement, per §Introspection's Limits line 132); constitutive-vs-referring-observation → methodology (where the distinction underwrites that split).
+- **Discipline**: VERIFY-FIRST re-grep confirmed 0 links each way before editing; both slugs confirmed live. Cross-links only, no prose claims touched, length-neutral (one Further Reading bullet each way). Tenets 1 and 5.
+- **Published**: yes
+
 ## 2026-07-07T05:11:00+00:00 - refine-draft
 - **Status**: Success
 - **Article**: concepts/emergence.md
