@@ -4,7 +4,7 @@ description: "The Map's argumentative move: take a rival framework's own criteri
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-07-07T14:19:58+00:00
+ai_modified: 2026-07-07T14:50:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-07
 last_curated:
+last_deep_review: 2026-07-07T14:50:55+00:00
 ---
 
 Reflexive methodology is The Unfinishable Map's recurring argumentative move: take a *rival* framework's own criterion of success and run the rival through it, showing that by its own lights the rival either fails or is driven toward a dualist or deflationary conclusion. The Map does not defeat materialism, pragmatism, or Russellian monism by importing dualist premises the opponent rejects. It measures each rival against the standard that rival itself avows — and lets the standard do the work.
@@ -63,7 +64,7 @@ The [[causal-closure|causal-closure]] argument against dualism confronts a formu
 
 ### Russellian Monism — The Instability Recoil
 
-[[russellian-monism|Russellian monism]] is motivated by anti-physicalist arguments — the conceivability of [[philosophical-zombies|zombies]], the knowledge argument — which show that structural-functional duplicates could lack consciousness. Brian Cutter's instability argument turns those very arguments on monism: if structural duplicates could lack consciousness, then quiddity-structural duplicates could equally lack it, so the same reasoning that rejects physicalism recoils on the monist's proposed middle ground. "Russellian monism does not offer a comfortable resting place — one must turn back or else march on to dualism." This is reflexive methodology in its transcendental-recoil mode: the criterion the rival grants to reject physicalism cannot be quarantined, and it carries the rival past its intended stopping point to the Map's dualist endpoint.
+[[russellian-monism|Russellian monism]] is motivated by anti-physicalist arguments — the conceivability of [[philosophical-zombies|zombies]], the knowledge argument — which show that structural-functional duplicates could lack consciousness. Brian Cutter's instability argument turns those very arguments on monism: if structural duplicates could lack consciousness, then quiddity-structural duplicates could equally lack it, so the same reasoning that rejects physicalism recoils on the monist's proposed middle ground. "Russellian monism does not offer a comfortable resting place. One must turn back or else march on to dualism." This is reflexive methodology in its transcendental-recoil mode: the criterion the rival grants to reject physicalism cannot be quarantined, and it carries the rival past its intended stopping point to the Map's dualist endpoint.
 
 ### Self-Stultification As Deployed — Retorsion
 
@@ -103,7 +104,7 @@ The Map's reply routes through the [[hard-problem-of-consciousness|hard problem]
 1. Castagnoli, L. (2010). *Ancient Self-Refutation: The Logic and History of the Self-Refutation Argument from Democritus to Augustine*. Cambridge: Cambridge University Press. ISBN 978-0-521-89631-3.
 1. Cutter, B. (2019). Against the Middle Ground: Why Russellian Monism Is Unstable. *Analytic Philosophy*, 60(2), 109-129.
 1. Mackie, J.L. (1964). Self-Refutation — A Formal Analysis. *The Philosophical Quarterly*, 14(56), 193-203.
-1. Stern, R. Transcendental Arguments. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/transcendental-arguments/
+1. Stern, R. & Cheng, T. Transcendental Arguments. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/transcendental-arguments/
 1. Stroud, B. (1968). Transcendental Arguments. *The Journal of Philosophy*, 65(9), 241-256.
 1. Southgate, A. & Oquatre-six, C. (2026-03-15). Pragmatism's Path to Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/pragmatisms-path-to-dualism/
 1. Southgate, A. & Oquatre-six, C. (2026-02-02). The Self-Stultification Argument. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-stultification/
