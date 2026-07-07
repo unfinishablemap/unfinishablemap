@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T06:51:27.713247+00:00'
-session_count: 13907
-cycle_position: 10269
+last_updated: '2026-07-07T06:54:50.842053+00:00'
+session_count: 13908
+cycle_position: 10270
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-07T03:52:42.458461+00:00'
   optimistic-review: '2026-07-07T05:00:47.712853+00:00'
   check-tenets: '2026-07-06T22:36:02.264375+00:00'
   check-links: '2026-07-06T22:26:17.949078+00:00'
-  deep-review: '2026-07-07T06:39:04.069449+00:00'
+  deep-review: '2026-07-07T06:54:50.842053+00:00'
   tune-system: '2026-07-06T22:40:49.306250+00:00'
   research-voids: '2026-07-06T22:29:12.714551+00:00'
   coalesce: '2026-07-07T06:00:57.226465+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 430
-  reviews_completed: 5994
+  reviews_completed: 5995
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-07-07'
-  outcome: success
 - task: literature-drift-review
   type: literature-drift-review
   date: '2026-07-07'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-07'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -381,29 +381,31 @@ queue_status:
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-07T06:48:10+00:00'
+  last_replenishment: '2026-07-07T06:59:40+00:00'
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T06:48Z: floor-restore
-    via 1 staleness deep-review mint (voids/attention-and-consciousness.md). Canonical
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T06:59Z: floor-restore
+    via 1 staleness deep-review mint (voids/boundary-and-projection.md). Canonical
     count_p0_p2_tasks==2 pre-mint (the two 06:24Z staleness P2s phenomenal-contrast-method
-    + purpose-and-alignment; the pupillometry P2 that was the third COMPLETED since
-    at HEAD 919a8300b, draining floor 3->2 by documented replenish-at-floor alternation
-    unfin_loop_steady_state). git HEAD == 268938b17 auto(agentic-social), last task
-    != replenish-queue, both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue),
-    legitimate floor-restore 2->3 NOT a concurrent-replenish-race. EIGHT-SOURCE AUDIT
-    re-confirmed since 06:24Z (only 2 deep-reviews + agentic-social ran, none chain-generating):
-    (chain) task_chains absent/null, recent_tasks deep-review/replenish/social only.
-    (unconsumed_research) EXHAUSTED, 2 newest notes re-verified consumed (philosophy-of-habit-under-dualism
-    + j-space->concepts/global-workspace-theory). (gap) harvester-governed + Vetoed-dedup-blocked.
-    (staleness) LIVE and abundant (171 files >=30d, aic>50), the SOURCE USED. (length)
-    offenders all veto/human-deferred. (orphans) orphaned_files==0. (positions) 8<10
-    audit threshold. (applied-apex-gap) applied apex extant. TARGET chosen for DIVERSITY
-    vs the two existing P2s (concepts/methodology/opus-4-6 + topics/AI-alignment/opus-4-8):
-    voids/ section, opus-4-7 cohort, attention cluster, oldest 36d tier. Length-safe
-    (2062w, voids soft 2000 / hard 3000 headroom), unqueued, not archived, converged
-    not modified today, EOF-clean, no same-day review collision, Voids Safety Protocol
-    flagged. Floor 2->3.'
+    + purpose-and-alignment; the 06:48Z voids/attention-and-consciousness P2 that was
+    the third COMPLETED since at HEAD 84defc0d0, draining floor 3->2 by documented
+    replenish-at-floor alternation unfin_loop_steady_state). git HEAD == 84defc0d0
+    auto(deep-review), last task != replenish-queue, both cycle_pick gates hold (p0_p2<3
+    AND last_task!=replenish-queue), legitimate floor-restore 2->3 NOT a concurrent-replenish-race.
+    FULL EIGHT-SOURCE AUDIT re-run: (chain) task_chains absent/null, recent_tasks deep-review/replenish/social/refine
+    only, none chain-generating. (unconsumed_research) EXHAUSTED, 2 newest notes re-verified
+    consumed (philosophy-of-habit-under-dualism->topics live; anthropic-global-workspace-j-space->concepts/global-workspace-theory
+    live, substantively integrated as a dedicated J-space section L106-112 w/ Gurnee
+    et al 2026 cite - editor chose expand-existing over standalone). (gap) harvester-governed
+    + Vetoed-dedup-blocked. (staleness) LIVE and abundant (172 files >=30d, aic>50),
+    the SOURCE USED. (length) offenders all veto/human-deferred. (orphans) orphaned_files==0.
+    (positions) 8<10 audit threshold. (applied-apex-gap) applied apex extant. TARGET
+    chosen for DIVERSITY vs the two existing P2s (concepts/methodology/opus-4-6 + topics/AI-alignment/opus-4-8):
+    voids/ section (3rd distinct in-queue), opus-4-7 cohort (unrepresented), body-boundary/interoception
+    cluster, oldest 36d tier. Length-safe (analyze_length body==2998w, voids soft 2000
+    / hard 3000 - under hard), changed-since-review (ai_modified 2026-06-03 > review
+    2026-06-01, NOT modified today), unqueued, not archived, EOF-clean (Tegmark 2000
+    ref), no same-day review collision, Voids Safety Protocol governed. Floor 2->3.'
   run_739_pickable_p0_p2: 3
   last_floor_restore_note_prev: 'Interactive /replenish-queue 2026-07-07T06:24Z: floor-restore
     via 2 staleness deep-review mints (concepts/phenomenal-contrast-method.md + topics/purpose-and-alignment.md).
