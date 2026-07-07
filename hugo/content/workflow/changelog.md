@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T09:42:50+00:00 - deep-review
+- **Status**: Success (no-op — converged, verified clean)
+- **File**: [resolution-void](/voids/resolution-void/)
+- **Word count**: 1852 → 1852 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified (§2.4)**: Lee, A. Y. (2024) "Consciousness & Continuity" PhilArchive LEECAC-14 — real-correct (unpublished ms; 2024 is corpus-canonical deposit year from family-resolution fix 6b581a337; quote verbatim-faithful to abstract; supersedes 2026-06-05 "Lee 2023" note — do NOT revert). Zheng & Meister (2025) Neuron 113(2):192–204 — real-correct + currency-current (online Dec 2024 / print Jan 2025; 10 bits/s figure not superseded). Wu 2016 / Sellars 1965 / VanRullen & Koch 2016 / Von Rospatt 1995 / Weber 1834 unchanged since 06-05 web-verify, not re-spent. Superlative helper: no matches. Inline↔References cross-check clean.
+- **Cross-links**: all 16 targets live; both quantitative-comprehension-void section anchors resolve; no archival link rot.
+- **Frontmatter**: last_deep_review bumped only (ai_modified left at 2026-06-24 — no body change). VOIDS SAFETY preserved (deliberate incompleteness intact).
+- **Output**: [deep-review-2026-07-07-resolution-void](/reviews/deep-review-2026-07-07-resolution-void/)
+
 ## 2026-07-07T09:36:59+00:00 - deep-review
 - **Status**: Success
 - **File**: [access-consciousness](/concepts/access-consciousness/)
