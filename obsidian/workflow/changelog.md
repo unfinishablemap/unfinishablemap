@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T22:24:03+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Kabbalah and Tzimtzum as a consciousness-matter framework
+- **Output**: [[topics/kabbalah-tzimtzum-consciousness-matter]]
+- **Word count**: 1873 (62% of 3000 topics target — ok)
+- **Based on research**: yes — [[research/kabbalah-tzimtzum-consciousness-matter-2026-07-07]]
+- **Calibration**: hedged cross-traditional RESONANCE, not tenet support. The three breakages are foregrounded in the opening (direction-inverts; monism-vs-dualism as the decisive divergence; Scholem/Idel interpretive instability) and developed in "Relation to Site Perspective" (Tenet 1 by CONTRAST, Tenet 2 by structural echo with direction caveat, Tenet 5 hedge). First Jewish-mystical node in the cross-traditional cluster.
+- **Citations**: only note-verified (Luria 1534–1572; Vital, *Etz Chaim* 1772; Scholem, *Major Trends* 1941; Idel, *New Perspectives* 1988; Maimonides, *Guide* c.1190). Wolfson/Cordovero NOT quoted. Maimonidean via-negativa cross-linked to [[apophatic-approaches]], not re-covered.
+- **Integration**: 3 reciprocal inbound links wired (delegatory-dualism, chinese-philosophy-of-mind, indigenous-australian-philosophy-of-consciousness); cross-review chain successor queued.
+
 ## 2026-07-07T22:06:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/deep-computational-markers-for-machine-consciousness]]

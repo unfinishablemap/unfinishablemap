@@ -94,6 +94,7 @@ Second, there are live and growing concerns about translation, appropriation, an
 - [[panpsychisms-combination-problem]]
 - [[cross-traditional-convergence-on-consciousness-irreducibility]]
 - [[eastern-philosophy-consciousness]]
+- [[kabbalah-tzimtzum-consciousness-matter]] — the Jewish-mystical node in the cross-traditional cluster: tzimtzum as creation-by-withdrawal
 
 ## References
 
