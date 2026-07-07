@@ -141,5 +141,3 @@ On 2026-07-06 Anthropic published (on Transformer Circuits Thread) an interpreta
 7. Butlin, P., Long, R., Bayne, T., Bengio, Y., et al. (2025). Identifying indicators of consciousness in AI systems. *Trends in Cognitive Sciences*. DOI 10.1016/j.tics.2025.10.011.
 8. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227–247.
 9. Open-source: Jacobian lens — github.com/anthropics/jacobian-lens ; demo — neuronpedia.org/jlens
-</content>
-</invoke>
