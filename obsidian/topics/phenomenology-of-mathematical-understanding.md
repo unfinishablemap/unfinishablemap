@@ -4,7 +4,7 @@ description: "Mathematical insight feels like something—and across cultures it
 created: 2026-04-14
 modified: 2026-06-13
 human_modified:
-ai_modified: 2026-07-07T19:05:40+00:00
+ai_modified: 2026-07-07T20:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-04-14
 last_curated:
-last_deep_review: 2026-06-13T00:31:52+00:00
+last_deep_review: 2026-07-07T20:06:00+00:00
 coalesced_from:
   - "/topics/comparative-phenomenology-of-mathematical-insight/"
   - "/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/"
@@ -129,7 +129,7 @@ The deflationary objection deserves prominent treatment, because it is strong an
 
 ### The Hardy Hinge
 
-This is where the case becomes interesting rather than merely romantic. Ramanujan's intuitions did not stay inside his head as unfalsifiable reports. They produced *checkable physical proofs*—written formulas that Hardy, Littlewood, and a century of subsequent mathematicians could verify, refute, or extend. Hardy is the external-validation hinge for a precise reason: he was an atheist hostile to the supernatural framing, a rigorous proof-demanding analyst, and initially sceptical that the letters were not a hoax. His judgement that the best formulas "could only be written by a mathematician of the highest class" is not a report of Ramanujan's experience; it is a third-party verdict on the *products*, deliverable independently of any view about how they were generated.
+This is where the case becomes interesting rather than merely romantic. Ramanujan's intuitions did not stay inside his head as unfalsifiable reports. They produced *checkable physical proofs*—written formulas that Hardy, Littlewood, and a century of subsequent mathematicians could verify, refute, or extend. Hardy is the external-validation hinge for a precise reason: he was an atheist hostile to the supernatural framing, a rigorous proof-demanding analyst, and initially sceptical that the letters were not a hoax. His judgement that the best formulas "could only be written down by a mathematician of the highest class" is not a report of Ramanujan's experience; it is a third-party verdict on the *products*, deliverable independently of any view about how they were generated.
 
 Notice exactly what the Hardy hinge does and does not do. It **does** rule out pure confabulation as a *complete* story: you cannot confabulate a true, deep, previously-unknown modular identity into existence, so the survivorship-bias reading explains the *recording* of successes but not the *existence* of so many that survive expert verification. It **does not** identify the mechanism: external validation gives us good reason to treat the pattern as real, but says nothing about whether the generating process was phenomenal consciousness doing irreducible epistemic work, an extraordinarily well-tuned but wholly computational subliminal search, or something else. The Hardy collaboration secures the *explanandum* and tells decisively against the *strongest* deflationary reading (that there is nothing to explain), while leaving the mechanism question wide open.
 

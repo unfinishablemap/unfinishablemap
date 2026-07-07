@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T20:06:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-mathematical-understanding]]
+- **Word count**: 3555 → 3556 (+1)
+- **Critical issues addressed**: 1 (coalesce-regressed verbatim Hardy quote — restored "written **down** by a mathematician of the highest class"; primary source verified at IITK excerptise of *Twelve Lectures*)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged merge of two already-reviewed source articles; first genuine pass on the coalesce seam)
+- **Citations**: Hardy "written down" corrected; "would have had", "(1.10)–(1.12) defeated me completely", letter dates 16 Jan/27 Feb 1913, prime-counting/Riemann-1859 error, ref #11 live-successor self-citation all re-verified real-correct; no superlative-currency claims
+- **Engagement modes**: deflationary confabulation — Mode One (Hardy external check) + Mode Three (mechanism residue), honestly marked; physicalist method-variation — bedrock boundary. No label leakage.
+- **Output**: [[reviews/deep-review-2026-07-07-phenomenology-of-mathematical-understanding]]
+
 ## 2026-07-07T19:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/reflexive-methodology]]
