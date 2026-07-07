@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T18:57:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [instrumental-convergence](/topics/instrumental-convergence/)
+- **Trigger**: CYCLE-SLOT staleness (self-selected). Top scorer (anti-correlation-probes) + #2 (deep-computational-markers) both excluded — ai_modified==2026-07-07 same-session set. Picked genuinely-drifted, citation-heavy target: one REAL post-review content commit (6d79ed6c0 scope-limit deflation), not connective/video/citation-fix churn.
+- **Word count**: 2526 → 2545 (+19; orphan-ref anchored inline)
+- **Critical issues addressed**: 1 (orphan Reference #12 Müller 2026 SEP — no inline cite; anchored in the debate paragraph rather than deleting a legitimate rev-2026-03-27 survey)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (style: de-duplicated "load-bearing" per writing-style overuse guard; kept the one structural use)
+- **Citation web-verify**: full 20-cite publisher-of-record ledger done 13d ago (2026-06-24 archive); drift paragraph adds no new cites; superlative currency-sweep empty; no re-verify defect. Cross-links (9) all resolve live; EOF clean; no possibility/probability slippage.
+- **Engagement modes** (editor-internal): Müller & Cannon = Mode Three reported-debate; convergence-to-takeover inference = Mode Two domain-restriction (no boundary-substitution, no label leakage).
+- **Output**: [deep-review-2026-07-07-instrumental-convergence](/reviews/deep-review-2026-07-07-instrumental-convergence/)
+
 ## 2026-07-07T18:45:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/)
