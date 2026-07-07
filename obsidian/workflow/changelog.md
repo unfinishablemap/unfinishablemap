@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T07:04:15+00:00 - deep-review
+- **Status**: Success (no-op; converged, 5th review)
+- **File**: [[concepts/phenomenal-contrast-method]]
+- **Word count**: 1947 → 1947 (no body edit; 78% of 2500 soft threshold, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation ledger**: Lennon 2023 (recently corrected venue) re-verified real-correct — Kriegel ed., *Oxford Studies in Philosophy of Mind* Vol. 3, pp. 131-155, OUP 2023 (prior *Erkenntnis* was the error, now fixed); Kay/Keogh/Pearson 2024 real-correct (*Consciousness and Cognition* 121, art. 103694); Zeman 2024 real-correct (*TiCS* 28(5), 467-480). Siegel/Strawson/Pitt/Bayne&Montague/Schwitzgebel unchanged, verified in prior passes. No superlative/currency defects.
+- **Drift**: only change since 2026-06-01 was the verified Lennon venue fix; no editor-vocab/refinement-log leakage; no EOF artifact. All cross-links (9 Further Reading + inline) resolve live.
+- **Evidential-status**: method scoped as first-person methodology, not proof; tenet section correctly declines tenet-as-evidence-upgrade; no possibility/probability slippage. last_deep_review bumped only.
+- **Output**: [[reviews/deep-review-2026-07-07-phenomenal-contrast-method]]
+
 ## 2026-07-07T06:53:21+00:00 - deep-review
 - **Status**: Success (no-op; converged)
 - **File**: [[voids/attention-and-consciousness]]
