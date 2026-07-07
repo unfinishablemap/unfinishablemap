@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-06T22:14:47+00:00
+ai_modified: 2026-07-07T06:20:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-07T17:32:37+00:00
+last_deep_review: 2026-07-07T06:20:41+00:00
 ---
 
 Dualism comes in two main varieties. Substance dualism holds that mind and body are different *kinds of thing*—distinct substances. Property dualism holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[concepts/materialism|materialism's]] claim that everything is ultimately physical, but disagree about the underlying metaphysical structure.
@@ -58,7 +58,7 @@ Modern substance dualists have resources unavailable to Descartes:
 
 **Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes; consciousness could select among possibilities without injecting energy (see [[conservation-laws-and-mental-causation]]), aligning with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet.
 
-**Naturalistic substance dualism** (E.J. Lowe, Dean Zimmerman) accepts that mental substances are part of the natural world, just not the physical world as physics describes it—avoiding the Cartesian separation between nature and mind while preserving ontological distinctness. By positing unified mental substances from the start, it also sidesteps the combination problem that pressures panpsychist property dualism.
+**Naturalistic substance dualism** ([[four-category-ontology|E.J. Lowe]], Dean Zimmerman) accepts that mental substances are part of the natural world, just not the physical world as physics describes it—avoiding the Cartesian separation between nature and mind while preserving ontological distinctness. By positing unified mental substances from the start, it also sidesteps the combination problem that pressures panpsychist property dualism.
 
 ## Property Dualism
 

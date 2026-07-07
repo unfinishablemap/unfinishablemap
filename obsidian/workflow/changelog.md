@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T06:20:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/substance-property-dualism]]
+- **Word count**: 2691 → 2691 (0, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (load-bearing reciprocal cross-link to freshly-created sibling [[concepts/four-category-ontology]] at the Lowe/NCSD mention)
+- **Post-review-edit verification**: Pautz 2019→2015 (corpus family-resolution, now consistent), Xu 2026→Luo 2025 swap, four-category-ontology Further Reading link — all landed cleanly, no leakage/EOF artifact.
+- **Citation web-verify**: Pautz 2015 (Alter & Nagasawa eds., OUP — real-correct, matches corpus), Luo et al. 2025 (JACS 147:43934, DOI 10.1021/jacs.5c15726 — real-correct), Zimmerman 2010 (Aristotelian Soc Suppl Vol 84 — venue refined, real-correct). No superlative-currency drift.
+- **Output**: [[reviews/deep-review-2026-07-07-substance-property-dualism]]
+
 ## 2026-07-07T06:15:00+00:00 - deep-review
 - **Status**: Success (no-op — citation currency verified clean)
 - **File**: [[concepts/decoherence]]

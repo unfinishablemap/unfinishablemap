@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-06 22:14:47+00:00
+ai_modified: 2026-07-07 06:20:41+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: 'Two forms of dualism: separate mental substances versus irreducibl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-07 17:32:37+00:00
+last_deep_review: 2026-07-07 06:20:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ Modern substance dualists have resources unavailable to Descartes:
 
 **Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes; consciousness could select among possibilities without injecting energy (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)), aligning with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
 
-**Naturalistic substance dualism** (E.J. Lowe, Dean Zimmerman) accepts that mental substances are part of the natural world, just not the physical world as physics describes it—avoiding the Cartesian separation between nature and mind while preserving ontological distinctness. By positing unified mental substances from the start, it also sidesteps the combination problem that pressures panpsychist property dualism.
+**Naturalistic substance dualism** ([E.J. Lowe](/concepts/four-category-ontology/), Dean Zimmerman) accepts that mental substances are part of the natural world, just not the physical world as physics describes it—avoiding the Cartesian separation between nature and mind while preserving ontological distinctness. By positing unified mental substances from the start, it also sidesteps the combination problem that pressures panpsychist property dualism.
 
 ## Property Dualism
 
