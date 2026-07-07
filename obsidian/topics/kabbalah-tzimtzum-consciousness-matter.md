@@ -26,6 +26,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-07
 last_curated:
+last_deep_review: 2026-07-07T22:35:56+00:00
 ---
 
 Lurianic Kabbalah opens creation with a withdrawal rather than an outpouring. Its central doctrine, *tzimtzum* (Hebrew: "contraction"), holds that the infinite divine—*Ein Sof*, "the without-end"—first *contracted itself* to make ontological room for a world that could be genuinely other. Creation begins with the creator getting out of the way. For The Unfinishable Map this creation-by-self-limitation structure rhymes suggestively with the Map's [[delegatory-dualism|delegation-withdrawal interface]] and with the minimal-influence discipline of [[tenets#^minimal-quantum-interaction|Tenet 2]]. But the rhyme is a resonance, not a confirmation, and three divergences—stated here at the outset so they are not mistaken for support—hold it apart from the Map's framework.
