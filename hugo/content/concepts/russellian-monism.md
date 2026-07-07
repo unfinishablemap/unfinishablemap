@@ -157,6 +157,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 - [combination-problem](/concepts/combination-problem/) — The central challenge for Russellian panpsychism
 - [illusionism](/concepts/illusionism/) — The rival view denying phenomenal properties exist
 - [mysterianism](/concepts/mysterianism/) — Whether cognitive closure explains the combination problem
+- [reflexive-methodology](/concepts/reflexive-methodology/) — The Map's method: Cutter's instability as its transcendental-recoil instance
 
 ## References
 

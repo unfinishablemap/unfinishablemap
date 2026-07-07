@@ -205,6 +205,7 @@ Epistemic self-defeat also constrains what counts as an adequate theory of consc
 ## Further Reading
 
 - [[self-stultification-as-master-argument]] — The unified pattern across four targets
+- [[reflexive-methodology]] — The Map's argumentative method that deploys self-stultification as one of its tools (property vs. method)
 - [[concepts/epiphenomenalism]] — The position most directly challenged by self-stultification
 - [[consciousness-and-the-normativity-of-reason]] — The normative gap that makes physicalism self-stultifying for reason
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism

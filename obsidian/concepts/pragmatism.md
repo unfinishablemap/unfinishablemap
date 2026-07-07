@@ -89,6 +89,7 @@ The Unfinishable Map treats pragmatism as a method that confirms its commitments
 - [[argument-from-reason]] — The parallel self-defeat argument from rationality
 - [[cognitive-phenomenology]] — The phenomenal character of evaluation and thought
 - [[functionalism]] — The dominant position pragmatism's reflexive argument undermines
+- [[reflexive-methodology]] — The Map's general method: this article is its immanent-critique instance
 
 ## References
 

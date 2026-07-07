@@ -211,6 +211,7 @@ Unlike "god of the gaps" reasoning, the gap here is one physics *describes*—be
 - [[causal-closure-debate-historical-survey]] — How causal closure evolved from a physics claim into a metaphysical axiom
 - [[physical-completeness]] — The structural-ontological gap: why structural completeness does not entail ontological completeness, reframing the closure equivocation
 - [[reductionism]] — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
+- [[reflexive-methodology]] — The Map's method: the closure argument judged by its own demand for a non-circular formulation
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Clinical neuroplasticity evidence challenging causal closure through pathway divergence; see [[clinical-neuroplasticity-evidence-for-bidirectional-causation#Route versus Direction|the route-versus-direction distinction]] for why input anatomy alone does not deflate the directional regularity (a defeater-blocker, not positive evidence)
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[emergence]] — The emergentist response to causal closure

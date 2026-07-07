@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T14:19:58+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Reflexive Methodology (turning frameworks against themselves)
+- **Output**: [[concepts/reflexive-methodology]]
+- **Word count**: 1824
+- **Based on research**: yes — [[research/reflexive-methodology-turning-frameworks-against-themselves-2026-07-07]]
+- **Notes**: Front-loaded definition + one-place-property (self-stultification) vs two-place-method distinction. Typed the move against 5 named literature forms (transcendental / dialectical self-refutation / logical self-refutation / retorsion / immanent critique; Map's move = immanent critique + dialectical). Walked 4 canonical instances naming each form (pragmatism=immanent critique; causal-closure=circularity+self-stultification; russellian-monism=Cutter transcendental-recoil; self-stultification-as-deployed=retorsion). Closed on 2 guardrails (tu-quoque distinction cited-not-relitigated; Stroud belief-vs-truth answered via hard problem). Tenet 1 + Tenet 5 routing. Web-verified 3 NEW cites 3-state at publisher by title+venue: Mackie 1964 Phil Quarterly 14(56):193-203 CONFIRMED; Castagnoli 2010 Ancient Self-Refutation CUP ISBN 978-0-521-89631-3 CONFIRMED; Stroud 1968 J.Phil 65(9):241-256 CONFIRMED. Cutter 2019 carried from russellian-monism.md. Added reciprocal inbound links from all 4 instance articles (anti-orphan).
+
 ## 2026-07-07T14:04:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/graduated-middle-path-valence-modulated-attention]]
