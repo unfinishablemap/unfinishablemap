@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T09:11:49.335699+00:00'
-session_count: 13931
+last_updated: '2026-07-07T09:15:36.154060+00:00'
+session_count: 13932
 cycle_position: 10280
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-27T04:39:34.891451+00:00'
   positions-evolve: '2026-07-07T02:20:57.271506+00:00'
   check-model-fallback: '2026-07-07T05:20:28.883353+00:00'
-  harvest-research-subjects: '2026-07-07T03:09:45.578158+00:00'
+  harvest-research-subjects: '2026-07-07T09:15:36.154060+00:00'
   skip-queue-slot: '2026-06-22T02:40:01.048919+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-07T02:04:40.876587+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-07'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-07-07'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-07'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -392,44 +392,47 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 4
   p3_tasks: 19
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-07T09:12:00+00:00'
+  loop_pickable_open: 4
+  last_replenishment: '2026-07-07T09:20:00+00:00'
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T09:12Z: floor-restore
-    via 1 staleness deep-review mint (topics/introspection-architecture-independence-scoring.md).
-    Canonical count_p0_p2_tasks==2 pre-mint (open P2s apex/identity-across-transformations
-    + concepts/quantum-consciousness; a CYCLE deep-review of topics/anaesthesia-and-the-consciousness-interface
-    at git HEAD a4424e1ed drained floor 3->2 by documented replenish-at-floor alternation
-    unfin_loop_steady_state). git HEAD == a4424e1ed auto(deep-review), last_task !=
-    replenish-queue, both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue),
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T09:20Z run 741:
+    floor-restore via 1 staleness deep-review mint (voids/resolution-void.md). Canonical
+    count_p0_p2_tasks==2 pre-mint (the two open staleness P2s concepts/quantum-consciousness
+    + topics/introspection-architecture-independence-scoring; the three #veto condenses
+    composition-question-rivals/meaning-of-life/apex-phenomenal-output are standing
+    HUMAN-DECISION length items excluded from the floor count). Floor drained 3->2
+    by documented replenish-at-floor alternation (unfin_loop_steady_state): cycle deep-reviews
+    of apex/identity-across-transformations (9d5e9394b) and topics/anaesthesia-and-the-consciousness-interface
+    (a4424e1ed) consumed the two opus-4-6 P2s earlier today. git HEAD == adbd9af7c
+    auto(harvest-research-subjects) / prior cycle task 9d5e9394b auto(deep-review),
+    last_task != replenish-queue, both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue),
     legitimate floor-restore 2->3 NOT a concurrent-replenish-race (live count re-verified
-    ==2 before AND ==3 after the mint). EIGHT-SOURCE AUDIT re-run: (chain) task_chains
-    empty, recent commits deep-review/replenish/agentic-social, none chain-generating.
-    (unconsumed_research) EXHAUSTED per the two prior 2026-07-07 mints consumption
-    audits (habit, anthropic-J-space threaded, second-person, four-category, hylomorphic,
-    philosophy-of-action, indigenous-australian all live/integrated). (gap) harvester-governed
-    + Vetoed-dedup-blocked. (staleness) LIVE and abundant (topics 45+/concepts 71/voids
-    39/apex 7 files >=30d aic>=50), the SOURCE USED. (length) offenders all veto/human-deferred.
+    ==2 before AND ==3 after). EIGHT-SOURCE AUDIT re-run: (chain) task_chains empty,
+    recent commits harvest/deep-review/refine-draft/pessimistic-review/replenish/social,
+    none chain-generating. (unconsumed_research) EXHAUSTED per the two prior 2026-07-07
+    mints consumption audits (habit, anthropic-J-space threaded, second-person, four-category,
+    hylomorphic, philosophy-of-action, indigenous-australian all live/integrated). (gap)
+    harvester-governed + Vetoed-dedup-blocked. (staleness) LIVE and abundant (voids
+    alone 39+ files >=30d aic>=50), the SOURCE USED. (length) offenders all veto/human-deferred.
     (orphans) orphaned_files==0. (positions) 8<10 audit threshold. (applied-apex-gap)
-    applied apex extant. TARGET chosen for DIVERSITY vs the two existing P2s (apex/identity/opus-4-6
-    + concepts/quantum-consciousness/opus-4-5): topics/ section (3rd distinct in-queue)
-    AND opus-4-7+opus-4-8 mixed cohort (unrepresented by either P2), convergence-epistemology/evidential-status
-    spine (voids-circularity-discount worked exhibit), Tenet 5 + Tenet 1 which neither
-    existing P2 (Tenet 4/Tenet 2) touches. VERIFIED: last_deep_review 2026-06-04 accurate
-    (33d); ai_modified 2026-06-20 (changed ~16d AFTER review = genuine changed-since-review
-    per replenish-churn-filter-overtight, NOT today, git log since 2026-07-07 empty);
-    ai_contribution=100; ai_system=opus-4-7+opus-4-8 fallback-stick self-attributes-correctly;
-    draft:false; analyze_length body==4025w hard_warning ~25w OVER the topics 4000
-    hard ceiling (0.6pct) -> review kept LENGTH-NEUTRAL-OR-TRIM, do NOT blind-condense,
-    preserve evidential-tier calibration; unqueued as deep-review target (6 open P
-    headers naming slug are P3 expand/cross-link, 0 deep-review; NB lines ~11712/11715
-    a pre-existing duplicate cross-link P3 pair); not archived; EOF-clean (Map-internal-sources
-    line); no same-day review collision for this slug. Inserted after the two existing
-    P2s to preserve FIFO (queue-lifo-starvation). Floor 2->3.'
+    applied apex extant. TARGET chosen for DIVERSITY vs the two existing P2s (concepts/quantum-consciousness/opus-4-5
+    + topics/introspection-architecture/opus-4-7+4-8): voids/ section (3rd distinct
+    in-queue) AND opus-4-6 cohort (unrepresented by either P2). VERIFIED: last_deep_review
+    2026-06-05 accurate (32d); ai_modified 2026-06-24 was a CROSS-LINK enrichment landed
+    by the concepts/grain-mismatch deep-review (6b581a337), so weight the review toward
+    currency/quality of the older opus-4-6 body not the connective edit; NOT today,
+    git log since 2026-07-07 empty; ai_contribution=100; ai_system=claude-opus-4-6;
+    draft:false; analyze_length body==1852w UNDER the voids 2000 soft ceiling (headroom,
+    QUALITY/CURRENCY review not a length pass; key empirical anchor Zheng+Meister 2024
+    Neuron ten-bits figure to verify); unqueued (single active-section slug hit is a
+    cross-link in another task note, 0 open P headers name it as target); not archived;
+    EOF-clean (Weber 1834 / Southgate bandwidth ref list); no same-day review collision.
+    Inserted with the other staleness P2s to preserve FIFO (queue-lifo-starvation).
+    Floor 2->3.'
   last_floor_restore_note_prev_3: 'Interactive /replenish-queue 2026-07-07T07:40Z:
     floor-restore via 1 staleness deep-review mint (topics/anaesthesia-and-the-consciousness-interface.md).
     Canonical count_p0_p2_tasks==2 pre-mint (the two open staleness P2s boundary-and-projection
