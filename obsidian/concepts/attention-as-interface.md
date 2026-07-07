@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-06-26T23:18:16+00:00
+ai_modified: 2026-07-07T13:21:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -247,7 +247,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 **Phenomenal properties**: [[qualia]], [[phenomenal-consciousness]], [[phenomenal-overflow]], [[explanatory-gap]], [[blindsight]]
 
-**Related domains**: [[meditation-and-consciousness-modes]], [[emotion-and-dualism]], [[creative-consciousness]], [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]], [[bandwidth-of-consciousness]]
+**Related domains**: [[meditation-and-consciousness-modes]], [[emotion-and-dualism]], [[creative-consciousness]], [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]], [[bandwidth-of-consciousness]], [[graduated-middle-path-valence-modulated-attention]] — how anticipated valence sets the gain and targeting of this interface channel, and why routing value through it yields only mediated causal relevance
 
 **Alternative perspectives**: [[illusionism]], [[mysterianism]], [[attention-schema-theory]], [[haecceity]]
 

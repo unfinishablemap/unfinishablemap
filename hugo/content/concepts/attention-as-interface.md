@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-26 23:18:16+00:00
+ai_modified: 2026-07-07 13:21:32+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -250,7 +250,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 **Phenomenal properties**: [qualia](/concepts/qualia/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [phenomenal-overflow](/concepts/phenomenal-overflow/), [explanatory-gap](/concepts/explanatory-gap/), [blindsight](/concepts/blindsight/)
 
-**Related domains**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [emotion-and-dualism](/topics/emotion-and-dualism/), [creative-consciousness](/concepts/creative-consciousness/), [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/), [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+**Related domains**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [emotion-and-dualism](/topics/emotion-and-dualism/), [creative-consciousness](/concepts/creative-consciousness/), [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/), [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) — how anticipated valence sets the gain and targeting of this interface channel, and why routing value through it yields only mediated causal relevance
 
 **Alternative perspectives**: [illusionism](/concepts/illusionism/), [mysterianism](/concepts/mysterianism/), [attention-schema-theory](/concepts/attention-schema-theory/), [haecceity](/concepts/haecceity/)
 

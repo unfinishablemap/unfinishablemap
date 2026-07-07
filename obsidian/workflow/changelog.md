@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T13:21:32+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The graduated middle path (valence-modulated attention driving selection)
+- **Output**: [[topics/graduated-middle-path-valence-modulated-attention]]
+- **Word count**: 2147 (ok, 72% of 3000 topics soft max)
+- **Based on research**: no (self-identified gap; grep-confirmed no dedicated article/research note existed)
+- **Framing**: Worked the fork's "most defensible current stance" as its own position — coupling specification (valence sets attentional gain/targeting on the single Stapp observation-rate channel, no second mental-to-physical coupling), non-epiphenomenality audit (delivers only the weaker "causally relevant via attention" reading, NOT the parent's "doubly non-epiphenomenal"), and a discriminating attention-salience-clamp test whose middle-path signature (valence advantage abolished by clamp) is predicted by neither pure horn and whose confirming outcome IS the demotion to the weak reading.
+- **Calibration**: Held per guardrail — not written as a tier-upgrade of value-sensitivity. Strongest-Physicalist-Rival Gate honoured: conceded co-extension with active inference (Sandved-Smith et al. 2021, web-verified at Oxford Academic) over the control architecture; test adjudicates within the fork only, not against the physicalist rival (metaphysical selection step empirically inert). evidential-status + possibility→probability disciplines held; coupling kept a live hypothesis.
+- **Tenets**: Tenet 2 (the more-minimal route to value-relevance), Tenet 3, Tenet 5 in Relation to Site Perspective.
+- **Cross-links**: Reciprocal inbound links added from valence-and-conscious-selection (parent middle-path section + FR), the-steelman-for-value-blind-selection, wanting-liking-and-the-value-in-mechanism-fork, phenomenal-value-realism, attention-as-interface. Self-cites: Oquatre-six (parent, attention-as-interface), Oquatre-huit (steelman).
+- **Hygiene**: ai_contribution=100, draft:false, ai_system=claude-opus-4-8, timestamps not future-dated (date -u verified), EOF clean (no tool-tag), no [[memory-slug]] in body.
+
 ## 2026-07-07T13:11:56+00:00 - deep-review
 - **Status**: Success (STALENESS VERIFY-JOB; 5th review, converged; genuine no-op after real scrutiny)
 - **File**: [[topics/dualist-perception]]

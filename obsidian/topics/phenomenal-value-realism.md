@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-06-24T08:56:09+00:00
+ai_modified: 2026-07-07T13:21:32+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -264,6 +264,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[the-sublime-and-negative-aesthetics]] — The sublime, tragedy, and disgust as the sharpest case for phenomenal value pluralism over hedonism
 - [[emotion-and-dualism]] — Valence as the felt quality of emotions
 - [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
+- [[graduated-middle-path-valence-modulated-attention]] — Why the fork's most defensible stance gives felt value only "causally relevant via attention" standing, one remove short of value being efficacious *as value*
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[illusionism]] — The strongest challenge to phenomenal consciousness
 - [[normative-void]] — Cognitive limits on moral knowledge

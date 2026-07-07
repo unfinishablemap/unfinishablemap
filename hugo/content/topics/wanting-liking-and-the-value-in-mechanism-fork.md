@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-06-18 11:42:00+00:00
+ai_modified: 2026-07-07 13:21:32+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -93,6 +93,7 @@ The Map holds the value-in-experience reading because of its prior commitments i
 - [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) — The external scientific case for mechanism-only value, steelmanned and declined
 - [affective-forecasting-gap](/concepts/affective-forecasting-gap/) — The predictive/forecasting form of the same predicted≠experienced-value structure: anticipated valence diverges from experienced valence just as "wanting" comes apart from "liking"
 - [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) — The sign-weighting form of the same value-in-mechanism question: does the negative bias live in felt value or in the mechanism that reads it?
+- [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) — The selection-side counterpart: if value acts on selection only through attention, the wanting/liking conflict test and the attention-clamp test are the same discriminating battery viewed from two angles
 
 ## References
 

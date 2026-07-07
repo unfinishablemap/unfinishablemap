@@ -4,7 +4,7 @@ description: "Built through human-AI refinement: the strongest external scientif
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-06-18T11:42:00+00:00
+ai_modified: 2026-07-07T13:21:32+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -114,6 +114,7 @@ The value of stating the rival this fully is exactly that it converts the Map's 
 - [[concepts/functionalism]] — The framework on which felt value reduces to functional role
 - [[evidential-status-discipline]] — Why the rival must be argued against, not assumed away
 - [[negative-valence-asymmetry-and-the-selection-weighting-function]] — How the loss-aversion asymmetry hands this steelman a free exhibit: the negative weighting is a feature of the reading mechanism, no felt asymmetry required
+- [[graduated-middle-path-valence-modulated-attention]] — The middle path this steelman's "valence only informs the channel" concession maps onto: valence modulates attention, attention selects, and the clamp test that keeps it from over-claiming
 
 ## References
 

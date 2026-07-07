@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-06-18T11:42:00+00:00
+ai_modified: 2026-07-07T13:21:32+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -149,6 +149,8 @@ This middle path preserves value's causal relevance (valence shapes attention, a
 
 The cost: if valence operates only through attention, then the selection law itself remains value-blind at the fundamental level. The teleological character emerges from the combination of value-sensitive attention and value-blind selection, not from the physics of selection itself. Whether this satisfies the Map's commitment to value's non-epiphenomenality is debatable. It makes value a cause of selection (via attention) rather than a bystander, but the causal chain runs through a value-neutral mechanism.
 
+This stance is worked as its own position in [[graduated-middle-path-valence-modulated-attention]], which specifies the valence→attention coupling through the Stapp observation-rate channel, audits whether it earns genuine non-epiphenomenality, and proposes a discriminating test: an attentional-salience clamp under which a valence selection advantage is *abolished* on the middle path, *persists* on the pure value-sensitive horn, and is *absent* on the pure value-blind horn — a signature predicted by neither pure horn, whose middle-path outcome confirms only the weaker "causally relevant via attention" reading.
+
 ## The Bandwidth Consideration
 
 Conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices. A common valence currency is compatible with this constraint: instead of evaluating outcomes along multiple incommensurable dimensions, consciousness evaluates along one, and ten bits per second is enough to compare a handful of options on a single dimension.
@@ -191,7 +193,7 @@ The Map's existing content leans value-sensitive without having committed. The [
 
 But the [[psychophysical-laws]] article develops only attention and intention as mechanisms with physical implementations (Stapp, Eccles). Valence is listed as a candidate but acknowledged as undeveloped. The mechanism gap is real: leaning value-sensitive without a mechanism is an aspiration, not a position.
 
-The graduated middle path—valence modulating attention, attention driving selection—is the most defensible current stance, but even this requires specifying how valence-attention coupling works and whether indirect causal relevance suffices for value's non-epiphenomenality.
+The [[graduated-middle-path-valence-modulated-attention|graduated middle path]]—valence modulating attention, attention driving selection—is the most defensible current stance, but even this requires specifying how valence-attention coupling works and whether indirect causal relevance suffices for value's non-epiphenomenality.
 
 ## Limits and Open Questions
 
@@ -232,6 +234,7 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 - [[consciousness-bandwidth-architecture]] — The ~10 bits/second constraint on conscious selection
 - [[consciousness-and-normative-force]] — The demand-character of experience as the mechanism through which valence grips and guides
 - [[selection-criterion-problem]] — The open problem this article supplies a candidate answer to: valence as the criterion by which consciousness ranks candidates
+- [[graduated-middle-path-valence-modulated-attention]] — The middle path worked as its own position: valence sets attentional gain, attention selects, plus the clamp test that decides which reading of non-epiphenomenality is earned
 - [[marginal-organism-scope-of-value-sensitive-selection]] — How far down the tree of life value-sensitive selection reaches: the deferred scope question developed
 - [[moral-architecture-of-consciousness]] — Apex synthesis: the value-sensitivity question within a unified moral framework
 
