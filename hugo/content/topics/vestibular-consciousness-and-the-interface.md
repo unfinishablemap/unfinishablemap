@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-21
-ai_modified: 2026-06-22 23:33:24+00:00
+ai_modified: 2026-07-07 10:45:42+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: The vestibular sense is nearly silent and has no primary cortex, ye
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 00:10:00+00:00
+last_deep_review: 2026-07-07 10:45:42+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'

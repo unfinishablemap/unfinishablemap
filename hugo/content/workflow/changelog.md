@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T10:45:42+00:00 - deep-review
+- **Status**: Success (no-op convergence pass, no content edits)
+- **File**: [vestibular-consciousness-and-the-interface](/topics/vestibular-consciousness-and-the-interface/)
+- **Word count**: 3023 → 3023 (0; length-neutral, soft_warning at 101% of 3000, well under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (motor-prediction inline-cite deferred again from 2026-06-22; low value, citation-discipline risk)
+- **Enhancements made**: 0
+- **Convergence**: 2nd deep-review; re-qualified only because a coalesce cycle (a20d6f1ca) bumped ai_modified while removing a trailing `</content></invoke>` EOF artifact — no substantive change since the 5-pass-converged 2026-06-22 first review. Body/References unchanged → §2.4 web-verify not re-triggered; prior all-real-correct ledger stands. Grepped clean for editor-vocab leakage, EOF artifacts, superlatives. Engagement (Bayesian-inference physicalist rival): Mode Three framework-boundary marking; honest.
+- **Output**: [deep-review-2026-07-07-vestibular-consciousness-and-the-interface](/reviews/deep-review-2026-07-07-vestibular-consciousness-and-the-interface/)
+
 ## 2026-07-07T10:33:53+00:00 - deep-review
 - **Status**: Success (1 archival-link-rot fix)
 - **File**: [biological-cognitive-closure](/voids/biological-cognitive-closure/)

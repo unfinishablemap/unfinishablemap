@@ -4,8 +4,8 @@ description: "The vestibular sense is nearly silent and has no primary cortex, y
 created: 2026-06-21
 modified: 2026-06-21
 human_modified:
-ai_modified: 2026-06-22T23:33:24+00:00
-last_deep_review: 2026-06-22T00:10:00+00:00
+ai_modified: 2026-07-07T10:45:42+00:00
+last_deep_review: 2026-07-07T10:45:42+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
