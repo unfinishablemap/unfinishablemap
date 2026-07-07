@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T15:46:40+00:00 - refine-draft (compact crux import, additive)
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Changes**: Imported a COMPACT version of the fact-causation vs difference-making crux that had lived only in four-category-ontology's "deliberate fork" section. Added ~55 words at the existing E.J. Lowe substance-causation passage (~line 156): Lowe's own four-category route takes the *fact-causation* branch (consciousness fixes *which kind* of movement, structuring facts about kinds, no token difference to the physical event-chain, no physics gap); the Map takes the *difference-making* branch (a minimal, statistically undetectable token difference at degenerate quantum outcomes) because a purely structuring cause risks collapsing into the epiphenomenalism the Map rejects. Added reciprocal [[four-category-ontology]] link (its fork section is the fuller treatment).
+- **Scope discipline**: Purely additive — no existing calibration/hedges/citations altered. Reciprocity confirmed: four-category-ontology already links back (frontmatter + Further Reading). Distinct from the same-day rival-metaphysics cross-link task (that added FR/hub survey lines; this imports the CONTRAST). Length-aware: body 3425→3487 words, under the concepts hard ceiling (3500). ai_modified bumped (2026-07-07T15:46:40+00:00); last_deep_review untouched. EOF clean; wikilinks verified against live slugs.
+- **Published**: yes
+
 ## 2026-07-07T15:32:00+00:00 - refine-draft (cross-link / survey-entry only)
 - **Status**: Success
 - **Files**: [[concepts/four-category-ontology]], [[topics/hylomorphic-dualism-and-the-interaction-problem]], [[topics/interaction-problem-across-traditions]]
