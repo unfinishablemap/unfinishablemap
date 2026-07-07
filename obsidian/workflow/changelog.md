@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T13:40:39+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Reflexive Methodology — Turning Frameworks Against Themselves
+- **Output**: [[research/reflexive-methodology-turning-frameworks-against-themselves-2026-07-07]]
+- **Assess-first verdict**: COVER — distinct from concepts/self-stultification (property-of-position, one-place) vs. the Map's argumentative method (turn a rival's own success-criterion against it, two-place); 4 canonical corpus instances confirmed (pragmatism, causal-closure, russellian-monism, self-stultification-as-deployed)
+- **Sources consulted**: 6 (SEP Transcendental Arguments; Mackie 1964 PQ; Castagnoli 2010 CUP; retorsion/performative-contradiction Apel-Habermas; immanent critique Hegel-Marx; tu-quoque vs retorsion guardrail) — Mackie + Castagnoli citations web-verified 3-state at publisher of record
+
 ## 2026-07-07T13:21:32+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The graduated middle path (valence-modulated attention driving selection)
