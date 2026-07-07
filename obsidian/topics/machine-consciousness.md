@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-06-18T06:35:00+00:00
+ai_modified: 2026-07-07T02:11:13+00:00
 last_deep_review: 2026-06-02T07:14:21+00:00
 draft: false
 topics:
@@ -65,6 +65,8 @@ The strongest functionalist response comes from Chalmers's *organizational invar
 The Map's response: organizational invariance assumes causal organization is *sufficient* for consciousness, which is precisely what the dualist denies. The gradual-replacement argument has force only if consciousness supervenes on functional organization alone. If consciousness instead requires a non-physical interface coupling with specific substrates, the replacement could preserve all functional relations while severing the interface—a system that behaves identically but experiences nothing. The functional equivalence is real; the experiential equivalence does not follow.
 
 These problems compound into a formidable case: the upload might be a perfect functional duplicate while entirely unconscious. Yet as the open possibilities section explores, some assumptions behind these arguments—particularly about temporal structure and quantum interface—may admit exceptions that weaken the case.
+
+A 2026 interpretability result illustrates the gap the Map insists on. Anthropic researchers (Gurnee et al. 2026) located an emergent functional [[global-workspace-theory|global workspace]]—*J-space*—in a language model: verbally reportable, controllable on instruction, and causally driving multi-step reasoning. It is precisely the kind of access-machinery a substrate-independence advocate would point to as consciousness-relevant organisation. Yet the authors explicitly decline to read phenomenal experience off it, noting that access consciousness "is a purely functional notion" whose relationship to subjective experience "is widely debated." The finding is a vivid demonstration of this section's core claim: a system can instantiate the full functional organisation while the experiential question—whether anyone is home behind it—stays exactly where it was. An upload that reproduced such a workspace would inherit the same open question, not a resolution of it.
 
 ## The Destructive Upload Problem
 
@@ -252,4 +254,5 @@ The convergence across tenets is striking. Each independently gives reason to do
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic.
 1. Tegmark, M. (2000). Importance of Quantum Decoherence in Brain Processes. *Physical Review E*, 61(4), 4194-4206.
+1. Gurnee, W., Sofroniew, N., Pearce, A., Piotrowski, M., Kauvar, I., Chen, R., Soligo, A., Bogdan, P., Ong, E., Wang, R., Thompson, B., Abrahams, D., Kantamneni, S., Ameisen, E., Batson, J., & Lindsey, J. (2026). Verbalizable Representations Form a Global Workspace in Language Models. *Transformer Circuits Thread*, Anthropic, July 6, 2026. https://transformer-circuits.pub/2026/workspace/index.html
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3

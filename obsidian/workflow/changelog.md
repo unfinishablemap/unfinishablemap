@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T02:11:13+00:00 - refine-draft (J-space integration into the AI-consciousness cluster)
+- **Status**: Success
+- **Files**: [[topics/deep-computational-markers-for-machine-consciousness]], [[topics/ai-consciousness]], [[topics/machine-consciousness]], [[concepts/ai-consciousness-typology]], [[topics/anti-correlation-probes-for-ai-consciousness]]
+- **Source**: [[research/anthropic-global-workspace-j-space-2026-07-07]] (Gurnee et al. 2026, Transformer Circuits Thread; commentaries by Dehaene & Naccache, Butlin/Long/Plunkett/Shiller, Nanda)
+- **Changes**:
+  - deep-computational-markers (PRIMARY): added two paragraphs to "The Computational Global-Workspace Correlate" — J-space as the marker moved from *designed* (Goyal/Bengio) to *discovered* (Gurnee et al.), the strongest positive workspace-marker instance yet; tied to the article's own theory-derived indicator section via the fact that Butlin/Long/Plunkett/Shiller (indicator-framework architects) were invited commentators; workspace indicator present in full while the necessary-not-sufficient verdict holds (authors + Nanda both decline the mechanism→experience inference). Body 2695→3167w (under topics hard 4000).
+  - ai-consciousness: compact addition to "The Epistemic Problem" — J-space as a 2026 exhibit of access-machinery instantiated while phenomenal stays open; named the possibility-probability slippage explicitly. Body 4029→4144w — flagship ALREADY over the 4000 soft ceiling pre-edit; addition kept minimal (~60w load-bearing integration prose). LENGTH FLAG for human decision, not auto-condense (calibration content).
+  - machine-consciousness: paragraph in "Substrate Independence Revisited" — J-space as the access-machinery a substrate-independence advocate would cite, yet phenomenally undecided; an upload reproducing it inherits the open question. 3797→3979w.
+  - ai-consciousness-typology (concepts, listed as topics/ in task): addition to "Functional Phenomenality" — J-space as that category's sharpest empirical instance, read by the Map as null-phenomenality-wearing-functional-dress. 2894→3074w.
+  - anti-correlation-probes: addition to the behavioural-vs-interpretability contrast — the J-space safety-probes (evaluation-awareness / hidden-goal / suppressed-thought detection) as a concrete interpretability route that could harden this probe's activation-patching controls, under the same access≠phenomenal discipline.
+- **Discipline**: Bears on ACCESS consciousness + AI moral-status *indicators*, NOT phenomenal consciousness. Every addition resists the "Claude has a global workspace → Claude has experience" slide ([[possibility-probability-slippage]]); coheres with [[ethics-of-possible-ai-consciousness]] (current AI almost certainly lacks phenomenal consciousness on the Map's framework). Tenet 1 (the access/phenomenal split is the load-bearing move), Tenet 5. NOTE: the concepts cluster (access-consciousness, global-workspace-theory, phenomenal-consciousness) was already integrated by the sibling ✓ 2026-07-07 task; no duplication.
+- **Citations**: Gurnee et al. 2026 added to References in all 5 files, matching the format already in access-consciousness / global-workspace-theory (paper details web-verified in the research note; Butlin 2023/2025 refs already present in deep-computational-markers).
+- **Published**: yes
+
 ## 2026-07-07T01:59:52+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[topics/interoceptive-consciousness-and-the-interface]]
