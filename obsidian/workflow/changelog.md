@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T00:32:00+00:00 - deep-review
+- **Status**: Success (8th review; recovery re-invoke — prior fork returned before its citation subagent finished; genuine no-op after full inline scrutiny)
+- **File**: [[concepts/self-reference-paradox]]
+- **Word count**: 2562 → 2562 (+0, length-neutral; 102% of concepts 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article unchanged since 06-01 Michel correction; `last_deep_review` bumped only, `ai_modified` left 2026-06-01)
+- **Citations (§2.4)**: publisher-of-record web-verify done INLINE (no subagent) — all loci real-correct, zero metadata errors. Alston 1986 PPR 47(1):1-30; Gödel 1931 Monatshefte 38:173-198 (DOI 10.1007/BF01700692); Lawvere 1969 LNM 92:134-145 Springer (DOI 10.1007/BFb0080769); Lucas 1961 Philosophy 36(137):112-127; Libet 1985 BBS 8(4):529-566 (DOI 10.1017/S0140525X00044903; target-article-proper 529-539, full-with-commentary 529-566 = standard BBS form); Metzinger 2003 Being No One MIT Press; Brentano 1874 / Hofstadter 1979,2007 / Hume 1739 canonical loci confirmed. Michel 2021 (829-850, stance corrected 06-01) unchanged. No superlatives → currency sweep skipped.
+- **Reasoning modes**: Dennett heterophenomenology (§Resists Dissolution) Mode Two/Three mix in natural prose; no boundary-substitution, no editor-vocab leakage.
+- **Calibration**: intact — Gödel/Tarski/Lawvere kept analogical; Lucas/Penrose anti-mechanism CONTESTED via consistency objection; QMP speculative; "does not prove any tenet" preserved. No possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-07-07-self-reference-paradox]]
+
 ## 2026-07-07T00:19:51+00:00 - deep-review
 - **Status**: Success (7th review; one real body edit — cliché rewrite)
 - **File**: [[concepts/skill-delegation]]

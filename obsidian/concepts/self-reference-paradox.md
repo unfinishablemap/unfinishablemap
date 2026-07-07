@@ -4,8 +4,8 @@ description: "Consciousness trying to know itself faces structural obstacles—f
 created: 2026-03-23
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-01T10:30:00+00:00
-last_deep_review: 2026-06-01T10:30:00+00:00
+ai_modified: 2026-07-07T00:33:34+00:00
+last_deep_review: 2026-07-07T00:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ Hume captured the phenomenological side: "I never can catch myself at any time w
 
 ## Empirical Confirmation
 
-Nisbett and Wilson (1977) demonstrated that subjects systematically misidentify the causes of their own mental states—pervasive, predictable failure. Steyvers & Peters (2025) find that metacognition and [[introspection]] are both subject to blind spots the system cannot detect, because detection would require the compromised capacity. Michel (2021) supplies the framework, distinguishing concordance calibration (comparing independent procedures) from model calibration (modelling the procedure itself); he argues—against the skeptics—that calibration is achievable. The paradox sides instead with those skeptics: every candidate procedure ultimately relies on introspective validation, because introspection is the only basic source of evidence about consciousness, so the instrument and the thing measured are the same.
+Nisbett and Wilson (1977) demonstrated that subjects systematically misidentify the causes of their own mental states—pervasive, predictable failure. Steyvers & Peters (2025) find that metacognition and [[introspection]] are both subject to blind spots the system cannot detect, because detection would require the compromised capacity. Michel (2023) supplies the framework, distinguishing concordance calibration (comparing independent procedures) from model calibration (modelling the procedure itself); he argues—against the skeptics—that calibration is achievable. The paradox sides instead with those skeptics: every candidate procedure ultimately relies on introspective validation, because introspection is the only basic source of evidence about consciousness, so the instrument and the thing measured are the same.
 
 ## Phenomenology of Self-Reference Failure
 
@@ -180,7 +180,7 @@ The paradox does not, by itself, prove any tenet. It identifies a stable shape t
 8. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529–566.
 9. Lucas, J. R. (1961). Minds, Machines and Gödel. *Philosophy*, 36(137), 112–127.
 10. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-11. Michel, M. (2021). "Calibration in Consciousness Science." *Erkenntnis*, 88(2), 829–850.
+11. Michel, M. (2023). "Calibration in Consciousness Science." *Erkenntnis*, 88(2), 829–850.
 12. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
 13. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 14. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
