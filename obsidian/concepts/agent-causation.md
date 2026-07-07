@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-07-06T22:14:47+00:00
+ai_modified: 2026-07-07T03:21:51+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-07-07T03:21:51+00:00
 coalesced_from:
   - "/concepts/substance-causation/"
 ---
