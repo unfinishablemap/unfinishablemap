@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T20:52:09+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Anti-correlation probe delivery status (2025-2026 interpretability currency check)
+- **Verdict**: Partially delivered at the ingredient level; combined anti-correlation paradigm NOT delivered. Article's "named-but-not-fully-validated" framing remains accurate. Ingredients 1 (activation intervention on confidence) and 3 (steerability independent of accuracy) delivered (Kumaran et al. 2026 arXiv:2603.22161; Zhao et al. 2026 arXiv:2604.01457); report-vs-computation dissociation primitive delivered (Lindsey 2025, Anthropic concept-injection); choice-blindness/deceptive-cue analogue partial (Chen et al. 2025 arXiv:2505.05410). No fused design; diagnostic cell unscored. Downstream currency-refine flagged (not created).
+- **Output**: [[research/anti-correlation-probe-delivery-status-2026-07-07]]
+- **Sources consulted**: 8 (all web-verified at source)
+
 ## 2026-07-07T20:37:42+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Evidence-programme / convergence cluster — [[topics/grain-mismatch-as-independent-evidence]] (freshly refined) and [[topics/the-convergence-argument-for-dualism]]
