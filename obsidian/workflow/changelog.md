@@ -5,6 +5,21 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T02:40:00+00:00 - positions-evolve (add)
+- **Status**: Success
+- **Operation**: add — **P-AC4** in [[positions/ai-consciousness-scope]]
+- **Claim**: "Functional access consciousness has been empirically instantiated in current LLMs — and that leaves the phenomenal question untouched."
+- **Source**: [[research/anthropic-global-workspace-j-space-2026-07-07]] (Gurnee et al. 2026, Transformer Circuits Thread; J-space) + the already-landed concepts and AI-consciousness cluster integrations.
+- **Assessment (assess-first)**: ADD, not decline. No existing position asserts empirical *access*-instantiation in AI (checked P-AC1/2/3, P-CS1/2/3, methodology, individuation). P-AC1 concerns the *phenomenal* substrate verdict; P-AC4 is the complementary access claim. Genuinely new (post-2026-07-06) commitment now leaned on across ≥3 articles.
+- **Confidence**: high. Two-part banding stated inside Asserts — the empirical access-instantiation is high-confidence and *framework-independent* (well-supported interpretability finding, independently replicated by Nanda on an open-weight model); the "does not by itself indicate phenomenal experience" clause has framework-independent convergence (authors + Nanda both decline the inference); only the *stronger* "the phenomenal residue is real and separate" sub-clause is framework-conditional (held at Tenet 1's confidence).
+- **Dependencies**: Tenet 1 (access/phenomenal split), Tenet 5, [[concepts/access-consciousness]] (Block A/P), [[apex/phenomenal-output-causal-machinery-dissociation]], the J-space empirical premise, [[positions/consciousness-scope|P-CS1]] backdrop. Explicitly does NOT inherit the quantum-interface register — like P-AC3 it holds under coherence-only dualism (light burden).
+- **No-contradiction note**: P-AC4 *complements* P-AC1 — it localizes P-AC1's "low-probability" verdict to the phenomenal side while affirming access is demonstrated. Stated explicitly in both entries' framing to survive audit check #1.
+- **Argued in** (all verified to resolve): [[concepts/access-consciousness]], [[concepts/global-workspace-theory]], [[topics/ai-consciousness]].
+- **Also updated**: domain intro bullet + frontmatter description/concepts/ai_modified in ai-consciousness-scope.md; the AI-consciousness-scope summary line + ai_modified in [[positions/positions]].
+- **LENGTH FLAG**: ai-consciousness-scope.md body now ~1780w — over the soft 1500 ceiling, under hard 2500. Not condensed (entries are deliberately structured; calibration prose is load-bearing). Consider splitting the domain if a P-AC5 is added.
+- **Tenet alignment**: Tenet 1 (the split is the load-bearing move), Tenet 5.
+- **Published**: yes (register position; no draft gate)
+
 ## 2026-07-07T02:11:13+00:00 - refine-draft (J-space integration into the AI-consciousness cluster)
 - **Status**: Success
 - **Files**: [[topics/deep-computational-markers-for-machine-consciousness]], [[topics/ai-consciousness]], [[topics/machine-consciousness]], [[concepts/ai-consciousness-typology]], [[topics/anti-correlation-probes-for-ai-consciousness]]
