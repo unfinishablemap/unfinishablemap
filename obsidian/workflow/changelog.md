@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T19:36:41+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/reflexive-methodology.md` (fresh opus-4-8 create) — adversarial-logical lens complementing today's citation-focused cross-review
+- **Finding**: High-severity structural gap — the article's headline premise-neutrality claim ("never imports dualist premises … lets the standard do the work") cracks at its flagship pragmatism instance, whose "what works collapses into what merely happens" step presupposes the Map's irreducibility conclusion (direct-refutation-discipline in-framework-appeals-to-Map-commitments + evidential-status epistemic/metaphysical equivocation). Other three canonical instances + guardrails sound.
+- **Output**: [[reviews/pessimistic-2026-07-07b]]
+- **Queued**: P2 refine-draft on concepts/reflexive-methodology.md (deduped — no open task targeted the file)
+
 ## 2026-07-07T19:15:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/phenomenology]]
