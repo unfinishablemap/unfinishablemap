@@ -9,6 +9,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T16:06:28+00:00 - refine-draft (cross-link only)
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Changes**: Added two additive cross-links (0 → 2 outbound to these targets). (1) Forward reference to [control-theoretic-will](/concepts/control-theoretic-will/) in "The Selector Model" section, framing the apex's selector as a control loop. (2) Pointer to [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) in "What Would Challenge This View?" intro, noting the tenet-by-tenet falsification treatment. No substantive claims, citations, or calibration touched. Both targets verified live (concepts/, topics/). Body ~4500w, under 5000w apex ceiling. ai_modified bumped; last_deep_review and apex_last_synthesis left untouched. EOF clean.
+- **Published**: yes
+
 ## 2026-07-07T15:58:16+00:00 - deep-review (converged no-op, Letheby web-verify)
 - **Status**: Success
 - **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)

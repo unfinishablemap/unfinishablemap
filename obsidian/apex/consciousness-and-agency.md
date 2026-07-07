@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-06-26T16:10:00+00:00
+ai_modified: 2026-07-07T16:06:28+00:00
 last_deep_review: 2026-07-06T21:32:32+00:00
 draft: false
 topics:
@@ -82,7 +82,7 @@ The Map's answer unfolds across several interlocking ideas: a model of how consc
 
 ## The Selector Model
 
-A crucial implication of the Map's framework: consciousness is primarily a *selector*. The brain does the computational work—representing possibilities, simulating consequences, preparing motor programs. Consciousness selects among these alternatives. It arbitrates; it does not construct from scratch.
+A crucial implication of the Map's framework: consciousness is primarily a *selector*. The brain does the computational work—representing possibilities, simulating consequences, preparing motor programs. Consciousness selects among these alternatives. It arbitrates; it does not construct from scratch. The [[control-theoretic-will|control-theoretic reading of will]] develops this selector as a control loop—consciousness setting reference values and biasing which trajectory the neural machinery settles into rather than driving effectors directly.
 
 This follows from two tenets. [[tenets#^minimal-quantum-interaction|Minimal quantum interaction]] demands that consciousness's influence be as small as possible. [[tenets#^bidirectional-interaction|Bidirectional interaction]] requires that consciousness genuinely affect outcomes. The resolution: consciousness exerts just enough influence to select among options that physics has already prepared.
 
@@ -178,7 +178,7 @@ If the framework is correct, you are not a passive spectator of determined event
 
 ## What Would Challenge This View?
 
-The framework is not unfalsifiable. Unlike the individual source articles, which list challenges to their specific claims, this synthesis faces challenges to the *combined* position—the claim that consciousness genuinely authors action through agent-causal selection.
+The framework is not unfalsifiable. Unlike the individual source articles, which list challenges to their specific claims, this synthesis faces challenges to the *combined* position—the claim that consciousness genuinely authors action through agent-causal selection. The [[falsification-roadmap-for-the-interface-model|falsification roadmap for the interface model]] works these through tenet by tenet, giving the systematic counterpart to the specific challenges gathered below.
 
 **Decisive neural prediction.** If voluntary choices could be predicted from prior neural states with near-perfect accuracy (>95%), the quantum gap the framework requires would close. Current prediction accuracy for simple binary choices remains around 60%—well short of this threshold.
 
