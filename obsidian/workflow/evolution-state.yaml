@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T04:01:20.443763+00:00'
-session_count: 13879
+last_updated: '2026-07-07T04:03:36.220685+00:00'
+session_count: 13880
 cycle_position: 10256
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -21,7 +21,7 @@ last_runs:
   embed-videos: '2026-07-07T02:38:35.656542+00:00'
   commission-chatgpt-review: '2026-07-07T02:04:40.876587+00:00'
   commission-claude-review: '2026-07-07T03:02:31.323112+00:00'
-  commission-gemini-review: '2026-06-27T04:05:57.492165+00:00'
+  commission-gemini-review: '2026-07-07T04:03:36.220685+00:00'
   refine-draft: '2026-07-07T03:54:41.854696+00:00'
   research-topic: '2026-07-07T03:15:23.689515+00:00'
   replenish-queue: '2026-07-07T03:48:07.500322+00:00'
@@ -40,6 +40,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-07T02:04:40.876587+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-07T03:02:31.323112+00:00'
+  commission-gemini-review-chrome-unavailable-at: '2026-07-07T04:03:36.220685+00:00'
 last_git_push: '2026-07-07T01:07:10.341036+00:00'
 last_tweet_date: '2026-07-06'
 content_stats:
@@ -100,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-07-07'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-07'
@@ -180,6 +177,10 @@ recent_tasks:
   type: deep-review
   date: '2026-07-07'
   outcome: success
+- task: commission-gemini-review
+  type: commission-gemini-review
+  date: '2026-07-07'
+  outcome: failed
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/evolutionary-case-for-quantum-neural-effects/
@@ -355,10 +356,28 @@ queue_status:
   p3_tasks: 20
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-07T04:05:00+00:00'
+  last_replenishment: '2026-07-07T04:13:55+00:00'
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T03:28Z: floor-restore,
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T04:13Z: floor-restore,
+    canonical count_p0_p2_tasks==2 pre-mint (open P2s: expand-topic philosophy-of-habit
+    + deep-review llm-consciousness; interactionist-dualism COMPLETED since the prior
+    mint via git 61136bbb8 auto(deep-review), draining floor 3->2; ~21 P3s + NEEDS-HUMAN
+    length deferrals + veto-marked condense P2s excluded). Minted ONE P2 staleness
+    deep-review restoring 2->3: concepts/decoherence.md (Tenet-2 minimal-quantum-interaction,
+    opus-4-6, last_deep_review 2026-06-05 ==32d ACCURATE, genuine ~11d post-review
+    drift via ce64fe795 cross-link/propagation touch, body 2803w ~697w headroom to
+    the 3500 concepts hard ceiling, unqueued/unvetoed/not-archived/EOF-clean/no-same-day-collision
+    verified). Chosen for TENET + subject diversity vs the two open P2s (a Tenet-1
+    AI-cluster review + a Tenet-3 create); the Tenet-2 overlap is only with the already-COMPLETED
+    quantum-measurement-and-consciousness, a distinct decoherence-objection argument.
+    quantum-consciousness.md (3551w over ceiling, churn-drift) + personal-identity.md
+    (4097w over ceiling, embed/cross-link churn) REJECTED as condense-traps; epistemology.md
+    REJECTED as converged (deep-reviewed 2026-06-07, only a reference-repoint since).
+    git HEAD cf0c7ac44 auto(commission-gemini-review) != replenish-queue so both cycle_pick
+    gates hold, NOT a concurrent-replenish-race. Placed BELOW the two open P2s for
+    FIFO drain. Post-mint canonical count_p0_p2_tasks==3 verified. Prior note retained
+    below for provenance. --- Interactive /replenish-queue 2026-07-07T03:28Z: floor-restore,
     canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review quantum-measurement-and-consciousness
     + deep-review interactionist-dualism; agent-causation COMPLETED since the two
     prior mints -- git HEAD 36fce3139 auto(deep-review) -- draining the floor 3->2;
