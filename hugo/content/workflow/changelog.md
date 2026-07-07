@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T14:31:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [parapsychology-firewall](/topics/parapsychology-firewall/)
+- **Word count**: 1677 → 1690 (+13; Stapp cite completed)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Stapp citation "(n.d.)" → Zygon 41(3):599–615, 2006, DOI added; preprint retained)
+- **Citation ledger**: 4 external cites web-verified at publisher by title+venue — Bösch/Steinkamp/Boller 2006 (Psych Bull 132(4):497–523) real-correct; Maier/Dechamps/Pflitsch 2018 (Front Psychol 9:379) real-correct; Han & Choi 2016 (Sci Rep 6:22986) real-correct; Stapp real-wrong-metadata(incomplete)→corrected. No inline↔ref orphans; no superlative claims.
+- **Enhancements made**: 1. All 11 wikilinks resolve live. Article exemplary on bidirectional slippage discipline; converged/stable.
+- **Output**: [deep-review-2026-07-07-parapsychology-firewall](/reviews/deep-review-2026-07-07-parapsychology-firewall/)
+
 ## 2026-07-07T14:19:58+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Reflexive Methodology (turning frameworks against themselves)
