@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T09:00:08+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/functionalism]] (~2,400 words; last deep review 2026-06-20)
+- **Findings**: 4 argumentative issues on a mature, self-aware article — unsupported "joint package" claim (line 99), one-sided semantic-externalism presentation omitting wide functionalism (line 65), unacknowledged symmetric interface-specification burden on the Map (§Specification Problem), and an unfalsifiable empirical "prediction" (line 161). Discipline checks clean (no label leakage; altered-state audit inapplicable). Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-07b-functionalism]]
+
 ## 2026-07-07T08:46:29+00:00 - deep-review
 - **Status**: Success (no-op verification)
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
