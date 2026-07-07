@@ -4,7 +4,7 @@ description: "Human+AI inquiry into three memory anomalies as a structural clust
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-06-20T17:32:54+00:00
+ai_modified: 2026-07-07T07:20:29.007207+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -34,11 +34,22 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-09
 last_curated:
 last_deep_review: 2026-06-20T18:05:00+00:00
+embedded_videos:
+  - id: Xn7m-hcEiEk
+    url: https://www.youtube-nocookie.com/embed/Xn7m-hcEiEk
+    embedded: 2026-07-07T07:20:29.007207+00:00
+    source: notebooklm/0088-01-memory-anomalies
 ---
 
 Déjà vu (a flash of false familiarity), jamais vu (a sudden alienation from something well-known), and cryptomnesia (a forgotten memory mistaken for original thought) are best read as one phenomenon viewed from three angles. Each appears to be a brief failure of source-monitoring — the cognitive process that tags a mental content with where it came from. In each case, the felt-quality survives the failure intact: the déjà vu sufferer feels certainty of pastness without any retrievable past; the jamais vu sufferer feels a familiar word as alien while still knowing it is a word; the cryptomnesiac feels a remembered idea as their own invention. The Unfinishable Map treats this trio as a structural cluster because it cleanly exhibits the gap between phenomenal output and the causal machinery that produces it. The felt certainty is the explanandum, not the evidence.
 
 This trio is unusually load-bearing for the Map's perspective on memory. The Map holds: subjective acquaintance, ownership, and pastness are *separable ingredients* of mental life rather than a unified given — and the conscious subject lacks direct access to the provenance of its own contents. The empirical traction of this position rests on the trio's reproducibility and on the source-monitoring framework that underwrites it; whether the deeper Bergsonian reading is correct remains a candidate explanation rather than a load-bearing commitment. The argument below moves from the cognitive architecture to the neural correlates to the philosophical residue, with a brief detour through Bergson's "memory of the present" treated as one candidate explanation rather than as a tenet-load-bearing commitment.
+
+<details class="yt-embed" data-video-id="Xn7m-hcEiEk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Xn7m-hcEiEk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Rotations on a Single Failure
 
