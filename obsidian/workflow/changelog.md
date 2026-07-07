@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T21:35:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-convergence-argument-for-dualism]] + [[topics/grain-mismatch-as-independent-evidence]]
+- **Task**: Multi-file cross-link — connect the measurement-based grain programme to the convergence argument.
+- **Changes**:
+  - grain-mismatch-as-independent-evidence: added reciprocal Further Reading link to [[the-convergence-argument-for-dualism]] (grain as the measurement-based route in the wider convergence catalogue). Has length room; no offset needed.
+  - the-convergence-argument-for-dualism: added reciprocal Further Reading link to [[grain-mismatch-as-independent-evidence]] (measurement-based route to irreducibility). Article was 3997/4000 body words with only 3 words headroom, and count_words counts wikilink markup + gloss as real words, so the bullet required an equal offset. Offset via two net-positive, non-calibration trims: removed the intro's rhetorical tail "rather than a rhetorical observation"; rephrased the continental-drift sentence to drop a mild "not because X but Y" cliché (style-guide compliance). Final body: 3998 words (≤4000, margin 2).
+  - Skipped the optional Priority-2 prose pointer: article is calibration-dense at the ceiling; a prose sentence + a second offset would compound calibration-regression risk, and the reciprocal FR link already routes readers. Task explicitly authorized skipping.
+  - Did NOT touch calibration content (COGITATE symmetry, common-cause-null, Barrett six) or citations (out of scope; owned by a separate deep-review).
+- **Published**: yes
+
 ## 2026-07-07T21:09:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/anti-correlation-probes-for-ai-consciousness]]

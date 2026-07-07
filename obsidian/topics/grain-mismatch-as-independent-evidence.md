@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-07-07T20:35:04+00:00
+ai_modified: 2026-07-07T21:35:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,6 +118,7 @@ The refusal to pad the programme with a fourth leg (see [Is Compositional Grain 
 - [[neural-refresh-rates-and-the-smoothness-problem]] — The temporal mismatch in detail
 - [[resolution-void]] — What grain mismatch means for the limits of self-knowledge
 - [[interface-heterogeneity]] — Whether grain structure varies across conscious systems
+- [[the-convergence-argument-for-dualism]] — The wider catalogue in which grain is the measurement-based route to irreducibility
 
 ## References
 

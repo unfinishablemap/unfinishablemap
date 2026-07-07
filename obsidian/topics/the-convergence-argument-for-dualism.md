@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on dualism from different 
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-06-22T08:30:00+00:00
+ai_modified: 2026-07-07T21:35:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,13 +45,13 @@ last_curated:
 last_deep_review: 2026-06-22T11:03:22+00:00
 ---
 
-No single philosophical argument achieves mathematical certainty. But when multiple independent arguments — starting from different premises, using different methods, targeting different features of consciousness — converge on the same conclusion, the case is substantially stronger than any single line. The Unfinishable Map holds this convergence is itself a powerful argument for [[dualism]], deserving analysis as an [[epistemology-of-convergence-arguments|epistemological pattern]] rather than a rhetorical observation.
+No single philosophical argument achieves mathematical certainty. But when multiple independent arguments — starting from different premises, using different methods, targeting different features of consciousness — converge on the same conclusion, the case is substantially stronger than any single line. The Unfinishable Map holds this convergence is itself a powerful argument for [[dualism]], deserving analysis as an [[epistemology-of-convergence-arguments|epistemological pattern]].
 
 The [[dualism|case for dualism]] catalogues the individual arguments: the [[explanatory-gap]], the [[knowledge-argument]], the conceivability argument via [[philosophical-zombies]], arguments from [[qualia]], [[intentionality]], the unity of consciousness, and Kripke's modal argument. Each faces objections. But the convergence pattern — arguments from epistemology, modality, phenomenology, semantics, and philosophy of science pointing the same direction — is a datum requiring explanation regardless of how one assesses any particular argument. This positive convergence is complemented by [[concession-convergence]]: physicalist theories independently retreat toward dualist-compatible positions through their own defensive modifications.
 
 ## Why Convergence Matters
 
-In the sciences, convergence of independent evidence is the gold standard. Continental drift was accepted not because any single line was conclusive, but because fossil distributions, geological formations, paleomagnetic data, and seafloor spreading all pointed the same way.
+In the sciences, convergence of independent evidence is the gold standard. Continental drift was accepted because fossil distributions, geological formations, paleomagnetic data, and seafloor spreading all pointed the same way — no single line was conclusive.
 
 The same principle applies in philosophy, though rarely made explicit. If the knowledge argument, conceivability argument, and explanatory gap argument all failed for *the same* reason — say, a shared equivocation on "physical" — convergence would be illusory. But these arguments exploit genuinely different features of consciousness through genuinely different logical routes.
 
@@ -187,6 +187,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[contemplative-practice-as-philosophical-evidence]] — Convergence across contemplative traditions
 - [[emotion-and-dualism]] — Emotional consciousness as an additional convergence point
 - [[the-strong-emergence-of-consciousness]] — Why consciousness cannot be weakly emergent
+- [[grain-mismatch-as-independent-evidence]] — The measurement-based route to irreducibility
 - [[quantum-measurement-and-consciousness]] — The measurement problem as an instance of the hard problem: convergence from quantum foundations
 - [[phenomenal-consciousness]] — The target explanandum that resists reduction
 - [[epistemology-of-convergence-arguments]] — The formal epistemology of convergence as philosophical method
