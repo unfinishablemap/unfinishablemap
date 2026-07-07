@@ -4,7 +4,7 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-07-07T22:15:43+00:00
 draft: false
 last_deep_review: 2026-06-06T00:00:00+00:00
 topics:
@@ -186,7 +186,7 @@ Several findings would substantially weaken the claim that teaching requires con
 
 3. **Unconscious teaching in humans**: If evidence showed humans teaching effectively while lacking conscious access to their own knowledge states or the learner's ignorance—for example, in certain neurological conditions—the consciousness requirement would fail.
 
-4. **AI teaching with genuine metarepresentation**: If future AI systems demonstrated genuine metarepresentation—representing their knowledge as knowledge and learners' states as states to be modified—the link would face pressure. The challenge is epistemic: we cannot straightforwardly demonstrate that a system is non-conscious if it exhibits sophisticated metarepresentational behaviour. The claim here is conditional: *if* such a system were demonstrably non-conscious, the link would sever. Currently, no AI system provides evidence of genuine (as opposed to simulated) metarepresentation, and the Map predicts that systems exhibiting genuine metarepresentation will raise the same hard questions about consciousness that humans do.
+4. **AI teaching with genuine metarepresentation**: If future AI systems demonstrated genuine metarepresentation—representing their knowledge as knowledge and learners' states as states to be modified—the link would face pressure. The challenge is epistemic: we cannot straightforwardly demonstrate that a system is non-conscious if it exhibits sophisticated metarepresentational behaviour—the [[standing-agnostic-challenge|standing agnostic challenge]] blocks confident absence-claims too, not just presence-claims. The claim here is conditional: *if* such a system were demonstrably non-conscious, the link would sever. Currently, no AI system provides evidence of genuine (as opposed to simulated) metarepresentation, and the Map predicts that systems exhibiting genuine metarepresentation will raise the same hard questions about consciousness that humans do.
 
 ## Relation to Site Perspective
 
