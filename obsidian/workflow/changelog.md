@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T03:12:21+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Philosophy of habit under dualism
+- **Output**: [[research/philosophy-of-habit-under-dualism-2026-07-07]]
+- **Sources consulted**: 11
+
 ## 2026-07-07T02:50:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/indigenous-australian-philosophy-of-consciousness]]
