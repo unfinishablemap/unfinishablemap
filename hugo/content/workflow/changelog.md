@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T01:44:32+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Anthropic's "global workspace / J-space" work (paper + three commentaries)
+- **Output**: [anthropic-global-workspace-j-space-2026-07-07](/research/anthropic-global-workspace-j-space-2026-07-07/)
+- **Sources consulted**: 6 (Anthropic paper + announcement, commentary PDF, Nanda/LessWrong review, trade coverage, Map internals)
+- **Recommendation**: New concepts/ article ("The J-Space / Verbalizable Global Workspace in LLMs") + integrate into access-consciousness, phenomenal-consciousness, global-workspace-theory, ai-consciousness/llm-consciousness. Caps allow (concepts ~273/320). Load-bearing caveat captured verbatim; authors take NO position on phenomenal consciousness — a gift to the access/phenomenal split, not a threat.
+
+## 2026-07-07T01:27:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Word count**: 2691 → 2691 (0; no-op after real scrutiny, no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Drift focus (Pautz family-resolution) VERIFIED CORRECT**: 12d drift = commit d7c642db2 (corpus Pautz citation family-resolution) + 8a97c393c (intrinsic-nature cross-touch restating Pautz 2017 ref). Independently web-verified both Pautz works at publisher of record: Pautz 2015 "A Dilemma for Russellian Monists about Consciousness" (Alter & Nagasawa, Consciousness in the Physical World, OUP) = real-correct; Pautz 2017 "How Is Constitutive Russellian Monism… better than dualism?" (manuscript, reply to Roelofs's comments on Pautz 2015) = real-correct. The pre-refine "Pautz (2019), Phil. Studies 176, 2921-2946" form was UNFINDABLE across 3 searches — the 2019 form was the defect and the family-resolution correctly fixed it (did NOT propagate an error, per barrett-eight-vs-six). The eighth review's "verified Pautz 2019 Phil Studies" was a false-positive, now superseded. No lingering "2019"/"Phil Studies" on Pautz (all remaining 2019s = distinct verified Cutter). Also re-verified Brown 2025 (Philosophia 53:995-1007), Cutter 2019 (Analytic Philosophy 60(2):109-129), Hashemi 2024 (Erkenntnis) — all real-correct. Currency sweep: no superlatives. Calibration: RM-instability register honest, no possibility/probability slippage. Cross-links resolve; no cliché/label leakage. No-op hygiene: last_deep_review bumped only, ai_modified left at 2026-06-25.
+- **Engagement modes**: Pautz parity = Mode Three; Cutter instability = Mode Two/Three; Howell/Robinson contingency = Mode Two. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-07-russellian-monism](/reviews/deep-review-2026-07-07-russellian-monism/)
+
+## 2026-07-07T01:18:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/)
+- **Word count**: 1798 → 1798 (0; stability-confirmation pass, no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Convergence**: third review; converged since 2026-05-31, web-verified 2026-06-16. Only changes since = two cosmetic Further Reading cross-links (afac9e1a1 tactile, aef2cbe9a cross-modal-capability-division); body + References byte-for-byte unchanged. Both new links resolve + reciprocate. References unchanged → §2.4 web-verify skip applies. Engagement: "the physicalist" (generic, no named opponent) = Mode Three throughout; no boundary-substitution, no label leakage. ai_modified left at 2026-06-20; only last_deep_review advanced.
+- **Output**: [deep-review-2026-07-07-auditory-consciousness-and-the-interface](/reviews/deep-review-2026-07-07-auditory-consciousness-and-the-interface/)
+
 ## 2026-07-07T01:00:06+00:00 - deep-review
 - **Status**: Success
 - **File**: [process-and-consciousness](/apex/process-and-consciousness/)

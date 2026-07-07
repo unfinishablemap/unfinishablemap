@@ -17,7 +17,7 @@ description: 'Hearing supplies what vision lacks: melody unfolding in time, audi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 01:11:16+00:00
+last_deep_review: 2026-07-07 01:18:32+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'

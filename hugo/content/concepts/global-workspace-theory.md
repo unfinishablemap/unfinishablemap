@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-27 03:53:36+00:00
+ai_modified: 2026-07-07 01:50:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -105,6 +105,14 @@ This is precisely where the Map's framework diverges most sharply. The [absent q
 
 Site's [AI consciousness skepticism](/topics/ai-consciousness/) rests on dualism, not denial that AI can implement workspace functions. The question is whether functional implementation suffices for experience.
 
+## A Computational Global Workspace: Anthropic's J-Space (2026)
+
+In July 2026, Anthropic interpretability researchers (Gurnee et al.) reported the first mechanistic instantiation of a global-workspace-like structure in an artificial system. Using a "Jacobian lens"—which traces, for each output token, the activation directions that most raise its likelihood—they isolated a sparse, emergent subspace they call *J-space*. It is small: on the order of a couple dozen concurrently active vectors (the authors observe roughly k≈25) accounting for never more than 10% of activation variance. Yet it behaves like Baars's workspace. Information there is verbally reportable, can be deliberately held or suppressed on instruction ("hold X in mind"), plays a causal role in multi-step reasoning, is flexibly reused across tasks, and is selectively engaged for deliberate reasoning rather than automatic fluency. Stanislas Dehaene and Lionel Naccache—the originators of the Global Neuronal Workspace—were invited as commentators and read J-space as a genuine computational workspace rather than a loose analogy.
+
+The authors are candid about the disanalogies with the brain's workspace: the broadcast happens within a single feedforward pass rather than through recurrent loops, there are no separable input processors competing for entry in the way the theatre metaphor supposes, and what serves as working memory is carried by attention rather than by sustained recurrent activity. Neel Nanda independently replicated the core phenomenon on an open-weight model and judged the mechanism real and safety-useful while cautioning that the consciousness framing is its weakest leg.
+
+For the Map, the decisive feature is what the authors decline to claim. They state plainly that "access consciousness is a purely functional notion; the relationship that it has with subjective experience (sometimes called phenomenal consciousness) is widely debated. In this paper, we take no position on this issue, and instead focus on the functional role played by consciously accessible information." J-space is therefore a vivid demonstration that the *access* side of the [access/phenomenal distinction](/concepts/access-consciousness/) can be instantiated fully and computationally while the phenomenal question stays exactly where dualism locates it—untouched. GWT gains an artificial instance of its central mechanism without the [hard problem](/topics/hard-problem-of-consciousness/) moving an inch. See [access-consciousness](/concepts/access-consciousness/#distinction) for how this worked example bears on Block's distinction.
+
 ## Working Memory as Workspace Content
 
 The global workspace is essentially [working memory](/concepts/working-memory/) operating at a global scale. Baddeley's episodic buffer is particularly significant—it performs the binding that GWT's ignition broadcasts globally. Baddeley himself frames this in functionalist terms, but the Map reads his language differently: his formulation that consciousness *accesses* bound representations fits naturally with a dualist interpretation where the workspace provides content and something beyond the neural workspace does the accessing. This is the Map's gloss, not Baddeley's intention—yet the explanatory gap between binding and experiencing the bound content is precisely what dualism claims to address.
@@ -199,3 +207,4 @@ A deeper methodological impasse: experiments detect consciousness only through r
 1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Gurnee, W., Sofroniew, N., Pearce, A., Piotrowski, M., Kauvar, I., Chen, R., Soligo, A., Bogdan, P., Ong, E., Wang, R., Thompson, B., Abrahams, D., Kantamneni, S., Ameisen, E., Batson, J., & Lindsey, J. (2026). Verbalizable Representations Form a Global Workspace in Language Models. *Transformer Circuits Thread*, Anthropic, July 6, 2026. https://transformer-circuits.pub/2026/workspace/index.html

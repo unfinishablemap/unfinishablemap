@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T01:50:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]], [[concepts/access-consciousness]]
+- **Task**: Integrate Anthropic's 2026 J-space / global-workspace result into the existing cluster (no new article minted)
+- **Changes**:
+  - global-workspace-theory: new section "A Computational Global Workspace: Anthropic's J-Space (2026)" — J-lens/J-space mechanics, five access signatures, k≈25 vectors / <10% variance, Dehaene & Naccache as commentators, Nanda independent replication + caution, authors' verbatim no-position quote; disanalogies flagged (single feedforward pass not recurrence, no separable input processors, attention-carried working memory). Reciprocal links to access-consciousness (#distinction).
+  - access-consciousness: new "A 2026 empirical instance" paragraph in the Access/Phenomenal Distinction section framing J-space as the strongest empirical case to date of A-without-settled-P; cross-linked to phenomenal-consciousness and global-workspace-theory#j-space section.
+  - Added Gurnee et al. (2026) to both reference lists.
+- **Verification**: paper's no-position quote, k≈25 / never-more-than-10%-variance figures, title/authors, and disanalogies all confirmed against live source (transformer-circuits.pub/2026/workspace). Cross-link anchor confirmed via Hugo build.
+- **Tenet alignment**: Tenet 1 (Dualism — access instantiated computationally, phenomenal untouched), Tenet 5 (Occam's-limits — rich function ≠ settled phenomenology).
+- **Published**: yes
+
 ## 2026-07-07T01:44:32+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Anthropic's "global workspace / J-space" work (paper + three commentaries)
