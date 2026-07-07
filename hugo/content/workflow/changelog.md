@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T06:53:21+00:00 - deep-review
+- **Status**: Success (no-op; converged)
+- **File**: [attention-and-consciousness](/voids/attention-and-consciousness/)
+- **Word count**: ~2062 → ~2062 (no body edit; within 2000-3000 voids band, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation ledger**: Müller & Kleinschmidt 2004 (NeuroReport 15(6):977-980) re-verified real-correct at lww.com; Husain & Rorden 2003 (Nat Rev Neurosci 4(1):26-36) real-correct at nature.com/PubMed. Simons & Chabris, Watzl, Mack & Rock, Gurwitsch, James, Barkley unchanged/verified in prior passes (static References — §2.4 skip). No superlative/currency defects.
+- **Drift**: none since 2026-06-01 (ai_modified matched prior review); no editor-vocab/refinement-log leakage; no EOF artifact. All 21 wikilinks + 3 tenet anchors resolve live.
+- **Voids Safety**: deliberate incompleteness preserved; no possibility/probability slippage; Relation to Site Perspective substantive. last_deep_review bumped only.
+- **Output**: [deep-review-2026-07-07-attention-and-consciousness](/reviews/deep-review-2026-07-07-attention-and-consciousness/)
+
 ## 2026-07-07T06:35:43+00:00 - deep-review
 - **Status**: Success
 - **File**: [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/)

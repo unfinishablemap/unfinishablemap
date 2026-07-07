@@ -21,7 +21,7 @@ description: Attending generates unattendable territory as a structural necessit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 03:21:20+00:00
+last_deep_review: 2026-07-07 06:53:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

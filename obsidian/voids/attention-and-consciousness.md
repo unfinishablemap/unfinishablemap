@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-30
 last_curated: null
-last_deep_review: 2026-06-01T03:21:20+00:00
+last_deep_review: 2026-07-07T06:53:21+00:00
 coalesced_from:
   - "/voids/attention-created-voids/"
   - "/voids/attention-disorders-and-consciousness/"
