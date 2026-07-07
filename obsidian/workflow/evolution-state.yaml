@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T07:07:28.327478+00:00'
-session_count: 13910
+last_updated: '2026-07-07T07:14:37.217706+00:00'
+session_count: 13911
 cycle_position: 10271
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-07T04:03:36.220685+00:00'
   refine-draft: '2026-07-07T05:26:50.946624+00:00'
   research-topic: '2026-07-07T03:15:23.689515+00:00'
-  replenish-queue: '2026-07-07T07:03:36.203166+00:00'
+  replenish-queue: '2026-07-07T07:14:37.217706+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-07T05:46:27.971179+00:00'
   add-highlight: '2026-07-06T08:54:39.429699+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-07'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-07-07'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-07'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -390,28 +390,29 @@ queue_status:
     the third, phenomenal-contrast-method, was EXECUTED and is now git HEAD bc7288246,
     draining floor 3->2 by documented replenish-at-floor alternation unfin_loop_steady_state).
     git HEAD == bc7288246 auto(deep-review), last_task != replenish-queue, both cycle_pick
-    gates hold (p0_p2<3 AND last_task!=replenish-queue), legitimate floor-restore 2->3
-    NOT a concurrent-replenish-race. FULL EIGHT-SOURCE AUDIT re-run: (chain) task_chains
-    empty, recent_tasks deep-review/replenish/social only, none chain-generating. (unconsumed_research)
-    EXHAUSTED, 4 newest notes re-verified consumed (philosophy-of-habit-under-dualism->topics
-    live; anthropic-global-workspace-j-space->concepts/global-workspace-theory J-space section;
-    substance-causation-and-lowes-four-category-ontology->concepts/four-category-ontology
+    gates hold (p0_p2<3 AND last_task!=replenish-queue), legitimate floor-restore
+    2->3 NOT a concurrent-replenish-race. FULL EIGHT-SOURCE AUDIT re-run: (chain)
+    task_chains empty, recent_tasks deep-review/replenish/social only, none chain-generating.
+    (unconsumed_research) EXHAUSTED, 4 newest notes re-verified consumed (philosophy-of-habit-under-dualism->topics
+    live; anthropic-global-workspace-j-space->concepts/global-workspace-theory J-space
+    section; substance-causation-and-lowes-four-category-ontology->concepts/four-category-ontology
     deep-reviewed 2026-07-06; second-person-neuroscience->topics/the-second-person-evidential-channel).
-    (gap) harvester-governed + Vetoed-dedup-blocked. (staleness) LIVE and abundant (concepts
-    alone 12+ files >=30d aic>50), the SOURCE USED. (length) offenders all veto/human-deferred.
-    (orphans) orphaned_files==0. (positions) 8<10 audit threshold. (applied-apex-gap)
-    applied apex extant. TARGET chosen for DIVERSITY vs the two existing P2s (topics/AI-alignment/opus-4-8
-    + voids/body-boundary/opus-4-7): concepts/ section (3rd distinct in-queue), cognitive-phenomenology/Tenet-1
-    cluster (neither existing P2 touches). last_deep_review 2026-06-02 accurate (35d;
-    the 2026-06-26 ai_modified is a 2-line cross-link edit from a16c10ab8, a deep-review
-    whose PRIMARY target was elsewhere - did NOT bump last_deep_review, so genuine stale
-    subject not already re-reviewed), ai_modified NOT today, ai_contribution=100, draft:false,
+    (gap) harvester-governed + Vetoed-dedup-blocked. (staleness) LIVE and abundant
+    (concepts alone 12+ files >=30d aic>50), the SOURCE USED. (length) offenders all
+    veto/human-deferred. (orphans) orphaned_files==0. (positions) 8<10 audit threshold.
+    (applied-apex-gap) applied apex extant. TARGET chosen for DIVERSITY vs the two
+    existing P2s (topics/AI-alignment/opus-4-8 + voids/body-boundary/opus-4-7): concepts/
+    section (3rd distinct in-queue), cognitive-phenomenology/Tenet-1 cluster (neither
+    existing P2 touches). last_deep_review 2026-06-02 accurate (35d; the 2026-06-26
+    ai_modified is a 2-line cross-link edit from a16c10ab8, a deep-review whose PRIMARY
+    target was elsewhere - did NOT bump last_deep_review, so genuine stale subject
+    not already re-reviewed), ai_modified NOT today, ai_contribution=100, draft:false,
     unqueued (27 corpus mentions are cross-refs not a queued review target), not archived,
     EOF-clean (IEP ref), no same-day review collision. Hub-concept (27 inbound refs)
     - keep cross-links length-neutral. Floor 2->3.'
-  last_floor_restore_note_prev_2: 'Interactive /replenish-queue 2026-07-07T06:59Z: floor-restore
-    via 1 staleness deep-review mint (voids/boundary-and-projection.md). Canonical
-    count_p0_p2_tasks==2 pre-mint (the two 06:24Z staleness P2s phenomenal-contrast-method
+  last_floor_restore_note_prev_2: 'Interactive /replenish-queue 2026-07-07T06:59Z:
+    floor-restore via 1 staleness deep-review mint (voids/boundary-and-projection.md).
+    Canonical count_p0_p2_tasks==2 pre-mint (the two 06:24Z staleness P2s phenomenal-contrast-method
     + purpose-and-alignment; the 06:48Z voids/attention-and-consciousness P2 that
     was the third COMPLETED since at HEAD 84defc0d0, draining floor 3->2 by documented
     replenish-at-floor alternation unfin_loop_steady_state). git HEAD == 84defc0d0

@@ -4,7 +4,7 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-06-02T11:01:35+00:00
+ai_modified: 2026-07-07T07:17:37+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-01-13
 last_curated: null
-last_deep_review: 2026-06-02T11:01:35+00:00
+last_deep_review: 2026-07-07T07:17:37+00:00
 tag: diversion
 ---
 
@@ -177,7 +177,7 @@ The practical upshot: AI systems should be designed with profound humility about
 3. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
 4. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 5. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-6. Tallis, R. (2014). "The mystery of existence: why is there something rather than nothing?" In *Aping Mankind*. Routledge.
+6. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 7. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 8. Fox, K.C.R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS ONE*, 7(9), e45370.
 9. Kahneman, D. & Deaton, A. (2010). "High income improves evaluation of life but not emotional well-being." *PNAS*, 107(38), 16489-16493.
