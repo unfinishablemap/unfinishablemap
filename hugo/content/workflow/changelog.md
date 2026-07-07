@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T13:00:13+00:00 - deep-review
+- **Status**: Success (STALENESS VERIFY-JOB; 9th review, converged; genuine no-op after real scrutiny)
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Word count**: 3209 → 3209 (0; no content edits — soft_warning, ~790w under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only: last_deep_review bumped, ai_modified left at 2026-06-16 per no-op hygiene; date -u-verified, not future-dated)
+- **Scrutiny**: (a) 2026-06-16 Gemini cross-link over-hedge check PASS — bistable phase-transition physicalist accommodation at the threshold argument landed cleanly, honest calibration not mush, exhibit-vs-proof spine intact. (b) Publisher-of-record web-verify: Santander et al. 2025 PNAS 122(43) e2520190122 real-correct (Tyler Santander first author, Michael B. Miller senior author confirmed via PubMed 41118210; "250 million axons / small bundle / full synchrony" quote verbatim to UCSB press release, correctly Miller); Pinto et al. 2017 Brain 140(5) 1231-1237 real-correct, stance faithful. No new orphans; no superlative currency issues. (c) Evidential-status discipline PASS (no possibility→probability slippage). (d) Cross-links resolve + reciprocate; new anaesthesia link non-reciprocated (low, optional). (e) Tenet 1+3 routing present. (f) No cliché / no "load-bearing" overuse; label-leakage clean.
+- **Engagements**: illusionism (Dennett/Frankish) Mixed; functionalism Mode Three — unchanged, no boundary-substitution.
+- **Output**: [deep-review-2026-07-07-split-brain-consciousness](/reviews/deep-review-2026-07-07-split-brain-consciousness/)
+
 ## 2026-07-07T12:43:30+00:00 - refine-draft
 - **Status**: Success (ANCHORING-CALIBRATION; Audit Three, calibration-audit-triple)
 - **File**: [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/)
