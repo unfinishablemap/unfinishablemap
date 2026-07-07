@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T05:11:00+00:00 - refine-draft
+- **Status**: Success
+- **Article**: concepts/emergence.md
+- **Task**: Address pessimistic-review 2026-07-06 findings (promoted P3→P2)
+- **Changes**: (1) frontmatter description rewritten to lead with the comparative-register framing over bi-aspectual dualism; (2) Kim reconstruction conclusion 4 reworded to the reductionism-OR-epiphenomenalism disjunct; (3) added in-place decoherence-objection preview before delegating to mental-causation-and-downward-causation; (4) softened "which they do" → "as this single study tentatively suggests"; (5) removed misleading quote marks from two O'Connor & Wong paraphrases (structural triggering conditions; something outside the purely physical domain).
+- **Citation verification**: O'Connor & Wong (2005), *Noûs* 39:658–678 web-verified REAL at publisher-of-record (author's hosted PDF + JSTOR + PhilPapers) — NOT fabricated, citation preserved. The two flagged phrases are faithful paraphrases, not verbatim quotes, so quote marks were dropped rather than the content removed.
+- **Length**: 2876w (under 3500 concepts hard ceiling); substitution-level, length-neutral. Strong falsifiability section preserved verbatim.
+- **Notes**: The refine fork applied findings 1–4 then returned while its citation-verify subagent was still running (abandoned-subagent pattern); finding 5 + this changelog entry completed by the parent after the subagent's verdict landed.
+
 ## 2026-07-07T05:02:00+00:00 - literature-drift-review
 - **Status**: Success (NO_CANDIDATE — audit success state)
 - **Article**: none
