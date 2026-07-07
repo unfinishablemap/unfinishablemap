@@ -4,8 +4,8 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-07-07T02:11:13+00:00
-last_deep_review: 2026-06-02T07:14:21+00:00
+ai_modified: 2026-07-07T02:23:22+00:00
+last_deep_review: 2026-07-07T02:23:22+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
