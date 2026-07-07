@@ -4,8 +4,8 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-20T04:22:27+00:00
-last_deep_review: 2026-06-04T00:57:14+00:00
+ai_modified: 2026-07-07T10:17:57+00:00
+last_deep_review: 2026-07-07T10:17:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -243,7 +243,7 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 31. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
 32. Seneca (1st c. CE). *De Ira*.
 33. Shankara (8th c. CE). *Brahma Sūtra Bhāṣya* — Adhyāsa Bhāṣya.
-34. Joo, H. R. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
+34. Joo, H. R. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4583.
 35. Sorabji, R. (2000). *Emotion and Peace of Mind*. OUP (Gifford Lectures).
 36. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In Newhauser (ed.), *In the Garden of Evil*.
 37. Hahami, E., Jain, L., & Sinha, I. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411.

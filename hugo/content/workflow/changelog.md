@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T10:17:57+00:00 - deep-review
+- **Status**: Success (1 citation fix + corpus propagation)
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Word count**: 4025 → 4025 (0; char-neutral fix — over 4000 hard ceiling, flagged HUMAN LENGTH DECISION, not auto-condensed)
+- **Critical issues addressed**: 1 (Joo et al. 2021 page range 4571–4578 → 4571–4583, real-wrong-metadata; publisher of record PMID 34473948 / DOI 10.1016/j.cub.2021.08.013). Propagated to [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/) (canonical source of the propagated error).
+- **Citations web-verified**: Lak 2014, Masset 2020, Joo 2021, Brown 2019, Le Pelley 2012 (the 5 changed since last review), plus Hahami 2025 + Lindsey 2025 re-confirmed. Ledger in review archive.
+- **Medium issues addressed**: 0 (10th pass, highly converged; no editor-vocab leakage, no slippage, no EOF artifact; new AI-substrate cross-links reciprocate)
+- **Output**: [deep-review-2026-07-07-introspection-architecture-independence-scoring](/reviews/deep-review-2026-07-07-introspection-architecture-independence-scoring/)
+
+## 2026-07-07T10:10:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The evidential-channels cluster — `topics/the-second-person-evidential-channel` (created today), `topics/pupillometry-behavioural-channel`, `topics/consciousness-and-intersubjectivity`, with the `methodology-of-consciousness-research` hub. Process-Philosopher / Hardline-Empiricist convergence: two articles decline a constitutive/enactivist tier-upgrade explicitly ("method without ontology"). One P3 cross-link task queued; no new page needed (hub already synthesises the three channels).
+- **Output**: [optimistic-2026-07-07c](/reviews/optimistic-2026-07-07c/)
+
 ## 2026-07-07T09:54:45+00:00 - deep-review
 - **Status**: Success (no-op — converged after 13 reviews; verified clean)
 - **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
