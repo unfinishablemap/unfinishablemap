@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T07:43:30+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/conjunction-coalesce]]
+- **Changed sources**: 1 ([[voids/transit-void]] — coalesced 2026-07-06, absorbing 6 sub-voids)
+- **Word count**: 4980 → 5242 (body; +262, net synthesis addition offset by one redundancy trim; within apex-corpus norm 4682–6875)
+- **Summary**: Integrated transit-void's 2026-07-06 coalesce as the discipline's newest and hardest case — a new subsection "The Transit Void: A Coalesce on the Boundary" treating it as a single-mechanism/conjunction boundary test rather than a ninth confirming instance; updated "A Cluster Awaiting the Move" and the source ledger; the eight-case count-calibration left intact.
+- **Review**: [[reviews/apex-evolve-2026-07-07-conjunction-coalesce]]
+
 ## 2026-07-07T07:17:37+00:00 - deep-review
 - **Status**: Success (1 citation-metadata fix; 7th review, otherwise converged)
 - **File**: [[topics/purpose-and-alignment]]

@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-06-21 15:15:05+00:00
-ai_system: claude-opus-4-7
-apex_last_synthesis: 2026-05-12 03:35:00+00:00
+ai_modified: 2026-07-07 07:43:30+00:00
+ai_system: claude-opus-4-8
+apex_last_synthesis: 2026-07-07 07:43:30+00:00
 apex_sources:
 - voids/agency-void
 - voids/voids-between-minds
@@ -28,7 +28,7 @@ apex_thesis: 'A distinctive methodological move has emerged in the Map''s voids 
 author: null
 concepts: []
 created: 2026-04-27
-date: &id001 2026-05-12
+date: &id001 2026-07-07
 description: When two voids are conjoined at a structural level, merging them into
   one article should keep the seam visible—because the seam itself is the claim. A
   methodological discipline distinct from standard coalesce.
@@ -118,6 +118,12 @@ Eight cases sharing a structural shape invite a convergence reading: the multi-f
 
 The same calibration exposes a slide the discipline must refuse in its own central clause. "Resists single-mechanism unification given current understanding" records that no unification has been found, not that one has been sought and failed—and treating the absence of a known unifying mechanism as evidence that a conjunction is irreducible would convert an epistemic situation into a structural claim the situation cannot support. The single-mechanism rivals are nameable now: limits of metacognitive monitoring, the architecture of report, general bounds on introspective access, linguistic coordination, and domain-general temporal processing each supply a candidate mechanism from which several cognates' faces might jointly derive. No cognate's article has yet run its faces against these rivals systematically. Until one does, each seam's "resists unification" clause stands at the weakest reading the words admit: unrefuted because untested.
 
+## The Transit Void: A Coalesce on the Boundary
+
+The catalogue's newest case is also its hardest. On 2026-07-06 the Map merged six finer-grained voids—`transition-void`, `initiation-void`, `distraction-void`, `thought-stream-void`, `spontaneous-thought-void`, and `thoughts-that-slip-away`—into [the transit void](/voids/transit-void/), keeping three faces visible (state transitions, act onsets, and the arrival-and-departure of the thought stream) and naming its own seam "the in-flight-access instance of the conjunction-coalesce."
+
+Yet the same article unifies all three faces under one architecture—*watching prevents crossing; crossing prevents watching*—which is exactly what the third refinement says should dissolve a seam: where faces derive from a single mechanism, the article should *be* the article on that mechanism, with the faces as consequences. So the transit void is either a conjunction whose faces resist derivation from in-flight-access, or the third refinement's recommended outcome miscalling itself a conjunction. The reading turns on one question: are act-onset opacity, state-transition opacity, and thought-stream opacity three distinct limits or three presentations of one incompatibility? The case adds no ninth confirming instance to the eight above; it furnishes the discipline's sharpest self-test, because the [rival-derivation test](#what-would-show-an-accepted-coalesce-wrong) can be run now—the candidate unifying mechanism is already named on the page. Until its three faces are shown to resist derivation from in-flight-access, the transit void is best held as a single-mechanism article wearing a conjunction's vocabulary, not a confirmed conjunction-coalesce.
+
 ## A Sub-Typology of Cognates by Seam-Relationship Type
 
 The cognates display at least four distinct seam-relationships. Naming the types clarifies what conjunction each seam performs; the typology applies symmetrically to the two coalesces, suggesting both draw on a shared inventory of seam-relationships.
@@ -146,7 +152,7 @@ The three articles—[the affective void](/voids/affective-void/), [the valence 
 
 The seam test rejected this on the first refinement: *structural conjunction is required, not thematic*. The three articles name three different *aspects* of affective experience, each opaque in its own way. Affective-void concerns *which* emotional ranges consciousness can access; valence-void concerns *what kind of structure* any accessed affect carries; mood-void concerns *the atmospheric medium* in which any witnessing occurs. These are partitions of subject matter, not conjoint limits. Each article already opens with explicit differentiation language, and the differentiation is doing real cognitive work that a merger would erase.
 
-The candidate joint claim was a redescription of "all three articles are about affect and all three involve opacity"—a topic label, not an analytical claim. Compare the voids-between-minds case, where the joint claim—*even granting existence, encounter still delivers what no inference can; even granting encounter, sharing remains open*—is an assertion the faces collectively support and none alone can state. The affective trio offered no analogue.
+The candidate joint claim was a redescription of "all three articles are about affect and all three involve opacity"—a topic label, not an analytical claim. Compare the voids-between-minds case, whose joint claim is an assertion the faces collectively support and none alone can state. The affective trio offered no analogue.
 
 The test discriminated three outcomes, not two: the articles were not redundant (their differentiations were doing analytical work) and the apparent conjunction did not make a stronger claim, so the verdict was *leave separate and modify no files*. This rejection-pattern—repeated across six further clusters the same session—is the record the [abandon-coalesce discipline](/project/abandon-coalesce/) subsequently named as a third verdict alongside redundancy-coalesce and conjunction-coalesce.
 
@@ -156,7 +162,7 @@ The Map currently maintains [the transit void](/voids/transit-void/), [the throw
 
 The three share a tenet connection (each engages [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Dualism](/tenets/#dualism) through a different temporal feature), a Husserlian literature (Transit and Temporal engage the retention-protention analysis; Thrownness draws on the reduction's bracketing instead), and a structural shape (each names a kind of *self-witnessing failure* indexed to a temporal mode). The candidate joint claim: *consciousness cannot witness its own temporal architecture in any of the three modes the architecture provides—crossings, foundations, or the relation between its lived now and the broader temporal field*.
 
-The seam test counsels caution. The joint claim is genuinely structural rather than thematic, but "self-witnessing failure indexed to a temporal mode" may be a shared structural feature rather than a single conjoint void. If temporal mode is the underlying mechanism, the three faces are consequences of one principle and the article should be on the principle—the third refinement in operation. The Map currently judges this cluster does *not* yet meet the test cleanly enough to warrant a merger.
+The seam test counsels caution. The joint claim is genuinely structural rather than thematic, but "self-witnessing failure indexed to a temporal mode" may be a shared structural feature rather than a single conjoint void. If temporal mode is the underlying mechanism, the three faces are consequences of one principle and the article should be on the principle—the third refinement in operation. The Map currently judges this cluster does *not* yet meet the test cleanly enough to warrant a merger. That transit has meanwhile coalesced its own sub-voids under one in-flight-access architecture ([above](#the-transit-void-a-coalesce-on-the-boundary)) sharpens the trio question rather than settling it: a transit face that already unifies internally makes an eventual three-way merger more likely a single-mechanism unification than a seam-preserving conjunction.
 
 The "not yet" verdict admits open-ended deferral, which the Map constrains by recording two tipping conditions. The verdict tips *toward* a conjunction-coalesce if a sustained reading surfaces a joint claim none of the three currently makes—a quadruple-bind no single article predicts. It tips *away* if a single-mechanism account derives all three from a unified principle—one spanning both the retention-protention flow grounding Transit and Temporal and the bracketing Thrownness draws on instead. The explicit conditions prevent "not yet" from operating as indefinite option-keeping.
 
@@ -232,7 +238,7 @@ This synthesis draws on the following Unfinishable Map articles. This list is th
 - [The Imagery Void](/voids/imagery-void/) (2026-04-28) — Fidelity / inter-subjective / function-phenomenology faces. https://unfinishablemap.org/voids/imagery-void/
 - [The Vagueness Void](/voids/vagueness-void/) (2026-04-30) — Sorites / introspective / higher-order faces with a reflexive seam. https://unfinishablemap.org/voids/vagueness-void/
 - [The Wholeheartedness Void](/voids/wholeheartedness-void/) (2026-05-11) — Regress / disownability / ambivalence-detection; second modal-categorical exemplar. https://unfinishablemap.org/voids/wholeheartedness-void/
-- [The Transit Void](/voids/transit-void/) (2026-03-05) — Cluster candidate: state transitions and act onsets. https://unfinishablemap.org/voids/transit-void/
+- [The Transit Void](/voids/transit-void/) (coalesced 2026-07-06) — Third coalesce and the discipline's boundary case: six sub-voids merged into three faces (state transitions, act onsets, thought stream) under one in-flight-access architecture. https://unfinishablemap.org/voids/transit-void/
 - [The Thrownness Void](/voids/thrownness-void/) — Cluster candidate: inaccessibility of the founding moment. https://unfinishablemap.org/voids/thrownness-void/
 - [The Temporal Void](/voids/temporal-void/) — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry. https://unfinishablemap.org/voids/temporal-void/
 - [A Taxonomy of Voids](/apex/taxonomy-of-voids/) (2026-03-10) — Methodological context for treating void structure as data. https://unfinishablemap.org/apex/taxonomy-of-voids/
