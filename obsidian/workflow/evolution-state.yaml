@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T07:47:11.580225+00:00'
-session_count: 13917
-cycle_position: 10272
+last_updated: '2026-07-07T07:55:07.657534+00:00'
+session_count: 13918
+cycle_position: 10273
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-07T03:52:42.458461+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-07T02:04:40.876587+00:00'
   commission-claude-review: '2026-07-07T03:02:31.323112+00:00'
   commission-gemini-review: '2026-07-07T04:03:36.220685+00:00'
-  refine-draft: '2026-07-07T05:26:50.946624+00:00'
+  refine-draft: '2026-07-07T07:55:07.657534+00:00'
   research-topic: '2026-07-07T03:15:23.689515+00:00'
   replenish-queue: '2026-07-07T07:14:37.217706+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-07'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-07'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-07'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -389,35 +389,36 @@ queue_status:
   p3_tasks: 19
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-07T07:12:00+00:00'
+  last_replenishment: '2026-07-07T07:40:00+00:00'
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T07:12Z: floor-restore
-    via 1 staleness deep-review mint (concepts/cognitive-phenomenology.md). Canonical
-    count_p0_p2_tasks==2 pre-mint (the two staleness P2s purpose-and-alignment + boundary-and-projection;
-    the third, phenomenal-contrast-method, was EXECUTED and is now git HEAD bc7288246,
-    draining floor 3->2 by documented replenish-at-floor alternation unfin_loop_steady_state).
-    git HEAD == bc7288246 auto(deep-review), last_task != replenish-queue, both cycle_pick
-    gates hold (p0_p2<3 AND last_task!=replenish-queue), legitimate floor-restore
-    2->3 NOT a concurrent-replenish-race. FULL EIGHT-SOURCE AUDIT re-run: (chain)
-    task_chains empty, recent_tasks deep-review/replenish/social only, none chain-generating.
-    (unconsumed_research) EXHAUSTED, 4 newest notes re-verified consumed (philosophy-of-habit-under-dualism->topics
-    live; anthropic-global-workspace-j-space->concepts/global-workspace-theory J-space
-    section; substance-causation-and-lowes-four-category-ontology->concepts/four-category-ontology
-    deep-reviewed 2026-07-06; second-person-neuroscience->topics/the-second-person-evidential-channel).
-    (gap) harvester-governed + Vetoed-dedup-blocked. (staleness) LIVE and abundant
-    (concepts alone 12+ files >=30d aic>50), the SOURCE USED. (length) offenders all
-    veto/human-deferred. (orphans) orphaned_files==0. (positions) 8<10 audit threshold.
-    (applied-apex-gap) applied apex extant. TARGET chosen for DIVERSITY vs the two
-    existing P2s (topics/AI-alignment/opus-4-8 + voids/body-boundary/opus-4-7): concepts/
-    section (3rd distinct in-queue), cognitive-phenomenology/Tenet-1 cluster (neither
-    existing P2 touches). last_deep_review 2026-06-02 accurate (35d; the 2026-06-26
-    ai_modified is a 2-line cross-link edit from a16c10ab8, a deep-review whose PRIMARY
-    target was elsewhere - did NOT bump last_deep_review, so genuine stale subject
-    not already re-reviewed), ai_modified NOT today, ai_contribution=100, draft:false,
-    unqueued (27 corpus mentions are cross-refs not a queued review target), not archived,
-    EOF-clean (IEP ref), no same-day review collision. Hub-concept (27 inbound refs)
-    - keep cross-links length-neutral. Floor 2->3.'
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T07:40Z: floor-restore
+    via 1 staleness deep-review mint (topics/anaesthesia-and-the-consciousness-interface.md).
+    Canonical count_p0_p2_tasks==2 pre-mint (the two open staleness P2s boundary-and-projection
+    + cognitive-phenomenology; the 07:12Z prior note''s subject cognitive-phenomenology
+    is still open, and the #veto condense P2s are correctly excluded from the count).
+    git HEAD == 1d59b65b8 auto(refine-draft), last_task != replenish-queue, both cycle_pick
+    gates hold (p0_p2<3 AND last_task!=replenish-queue), legitimate floor-restore 2->3
+    NOT a concurrent-replenish-race. EIGHT-SOURCE AUDIT re-run: (chain) task_chains
+    empty, recent_tasks refine-draft/deep-review/replenish/social, none chain-generating.
+    (unconsumed_research) EXHAUSTED, all 5 newest notes re-verified consumed this run
+    (habit->topics live; anthropic-global-workspace-j-space->integrated into global-workspace-theory
+    + ai-consciousness-typology + access-consciousness + llm-consciousness, integration
+    tasks done 2026-07-07; second-person->topics/the-second-person-evidential-channel;
+    substance-causation-lowe->concepts/four-category-ontology; the two 06-26 (Decline)
+    notes are deliberate declines). (gap) harvester-governed + Vetoed-dedup-blocked.
+    (staleness) LIVE and abundant, the SOURCE USED. (length) offenders all veto/human-deferred.
+    (orphans) orphaned_files==0 (recent creates 6-9 inbound each). (positions) 8<10
+    audit threshold. (applied-apex-gap) applied apex extant. TARGET chosen for DIVERSITY
+    vs the two existing P2s (voids/body-boundary/opus-4-7 + concepts/cognitive-phenomenology/opus-4-8):
+    topics/ section (3rd distinct in-queue), opus-4-6 cohort (unrepresented), clinical
+    anaesthesia / loss-and-recovery-of-consciousness / interface cluster (Tenet 1+3;
+    neither existing P2 touches). VERIFIED: last_deep_review 2026-06-05 accurate (32d);
+    ai_modified 2026-06-13 (changed ~8d AFTER review = genuine changed-since-review,
+    NOT today); ai_contribution=100; draft:false; analyze_length 3869w soft_warning
+    UNDER 4000 topics hard (length-safe, keep LENGTH-NEUTRAL); unqueued; not archived;
+    EOF-clean (Lewis 2018 eLife ref); no same-day review collision. Inserted after the
+    two existing P2s to preserve FIFO (queue-lifo-starvation). Floor 2->3.'
   last_floor_restore_note_prev_2: 'Interactive /replenish-queue 2026-07-07T06:59Z:
     floor-restore via 1 staleness deep-review mint (voids/boundary-and-projection.md).
     Canonical count_p0_p2_tasks==2 pre-mint (the two 06:24Z staleness P2s phenomenal-contrast-method
