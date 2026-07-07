@@ -62,7 +62,7 @@ description: Consciousness flows through time in the specious present—Bergson'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 14:00:02+00:00
+last_deep_review: 2026-07-07 10:51:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
