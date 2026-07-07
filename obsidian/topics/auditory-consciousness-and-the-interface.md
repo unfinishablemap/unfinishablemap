@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-05-31
 last_curated:
-last_deep_review: 2026-06-16T01:11:16+00:00
+last_deep_review: 2026-07-07T01:18:32+00:00
 ---
 
 Philosophy of perception is overwhelmingly a philosophy of vision. Colour, the inverted spectrum, blindsight, change blindness, the Molyneux problem—the canonical examples are visual, and the [[dualist-perception|Map's own treatment of perception]] concedes that "while vision dominates philosophical discussions, perception extends across modalities." This article develops the auditory case, because hearing supplies three kinds of evidence the visual case lacks or only weakly displays: experience that constitutively unfolds in time rather than presenting a frozen scene, a perceptual organisation problem (auditory scene analysis) that isolates binding from spatial layout, and qualities—pitch and timbre—that are vividly determinate yet appear to carry no intrinsic spatial character. None of these phenomena, on the reading offered here, *settles* dualism over physicalism, which has accounts of each. What they may do is sharpen what any theory must accommodate, and they suggest the Map's [[mind-matter-interface|interface]] reading extends cleanly beyond the visual paradigm that shaped it.
