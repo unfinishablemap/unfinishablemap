@@ -4,7 +4,7 @@ description: "Habit is the interface's delegation function in action—where con
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-07-07T04:25:29+00:00
+ai_modified: 2026-07-07T05:39:13+00:00
 draft: false
 topics:
   - "[[delegatory-dualism]]"
@@ -23,6 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-07
 last_curated:
+last_deep_review: 2026-07-07T05:39:13+00:00
 ---
 
 Habit is the everyday boundary at which conscious selection hands control to automatic procedure and, when novelty demands, takes it back. When you drive a familiar route while thinking about something else, reach for the light switch that a recent move relocated, or find your hand already halfway to a snack you did not decide to eat, you are watching the interface between consciousness and its physical substrate operate near its delegated extreme. The Unfinishable Map reads habit as the **delegation function** at work: the same interface that [[skill-delegation|delegates a trained skill]] also settles a cue-triggered disposition into the body and the world, and the philosophy of habit—running from Aristotle through Ravaisson, Bergson, Dewey, Merleau-Ponty, and Peirce—supplies a two-century record of thinkers refusing to reduce that settling to bare mechanism.
@@ -49,7 +50,7 @@ John Dewey's *Human Nature and Conduct* (1922) makes habit the organizing catego
 
 Lambros Malafouris's *How Things Shape the Mind* (2013) radicalizes the transactional insight through **Material Engagement Theory**. Cognition, Malafouris argues, arises *through* interaction with materials, tools, and environments, not solely inside the brain. The potter does not fully represent the pot in advance and impose it; the form emerges in the ongoing, habituated engagement of hand, wheel, and clay. Skill and habit are enacted at the **brain-body-thing** boundary, where the material scaffold is constitutive of the cognitive act rather than a mere external prop.
 
-Together, Dewey and Malafouris establish a claim the Map treats as load-bearing for its own reading: habit's traces are not only neural but *material*. The worn tool, the shaped clay, the grooved path are physical residues of past conscious engagement that then constrain and enable future action.
+Together, Dewey and Malafouris establish a claim the Map's own reading rests on: habit's traces are not only neural but *material*. The worn tool, the shaped clay, the grooved path are physical residues of past conscious engagement that then constrain and enable future action.
 
 ## The Cognitive-Science Signature: Cue-Triggered and Outcome-Insensitive
 

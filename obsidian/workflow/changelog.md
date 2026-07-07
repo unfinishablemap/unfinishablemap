@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T05:39:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/philosophy-of-habit-under-dualism]]
+- **Word count**: 2096 → 2096 (0; 70% of 3000-word topics target)
+- **Critical issues addressed**: 0 (none found — calibration-clean and citation-clean fresh create)
+- **Medium issues addressed**: 1 (style: "load-bearing" default-intensifier → "the Map's own reading rests on")
+- **Enhancements made**: 0 (article complete and well-scoped; no filler added)
+- **Citations**: all 11 References + 1 inline (Graybiel & Grafton 2015) web-verified real-correct at publisher of record. Graybiel 2008 ARN 31:359–387; Wood & Rünger 2016 ARP 67:289–314; Daw et al. 2011 Neuron 69(6):1204–1215; Graybiel & Grafton 2015 CSHPB 7(8):a021691; Ravaisson trans. Carlisle & Sinclair (Continuum 2008); Carlisle On Habit (Routledge 2014). No superlatives, no orphan cites.
+- **Engagement modes**: Peirce = Mode Three (honest framework-boundary marking; declines panpsychism). No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-07-philosophy-of-habit-under-dualism]]
+
 ## 2026-07-07T05:26:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/methodology-of-consciousness-research]], [[concepts/constitutive-vs-referring-observation]]
