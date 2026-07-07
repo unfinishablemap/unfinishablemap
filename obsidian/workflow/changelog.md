@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T20:35:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/grain-mismatch-as-independent-evidence]]
+- **Word count**: 2204 → 2645 (under 3000 soft cap)
+- **Changes**: Closed the article's own open question — whether "compositional grain" (the binding problem's part-structure mismatch) is a genuine fourth mismatch leg or reduces to the established three. Ran the independence test using the article's own three certification criteria. **Verdict: REDUCES.** (1) No own measurements — compositional grain is detected via neuroanatomy (spatial) + gamma-synchrony oscillation studies (temporal), the same two instruments as the spatial and temporal legs; opens no third measurement domain. (2) No own required physicalist response — the binding theory it demands is feature-integration/convergence (spatial) + binding-by-synchrony (temporal); discharging spatial + temporal burdens discharges it. (3) No own falsifier — dissolving it just is the conjunction of the spatial falsifier (continuous correlate) and temporal falsifier (continuity from periodicity). Where compositional grain seems to carry surplus content (felt unity), that surplus IS the common phenomenal source the "Why Convergence Matters" section already flags, not an independent observation. Added a new H2 section "Is Compositional Grain a Fourth Mismatch?" resolving it; removed the now-answered open-question paragraph from "Relation to Site Perspective" and replaced it with a two-sentence pointer framing the refusal-to-pad as the same calibration discipline. Result strengthens the programme: declines to inflate 3 legs into 4; three-leg programme declared complete, compositional grain a corollary.
+- **Wikilinks verified (all resolve)**: [[the-binding-problem]] (topics, per the two-same-title-articles rule), [[entanglement-binding-hypothesis]] (concepts), [[predictive-self-binding-and-the-naturalist-challenge]] (topics), [[combination-problem]] (concepts), plus in-page anchor to #why-convergence-matters.
+- **Citations**: none touched (no web-verify triggered). Evidential-status discipline preserved — framed as evidence-for/corollary, no possibility→probability slippage.
+- **Published**: yes
+
 ## 2026-07-07T20:24:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/falsification-roadmap-for-the-interface-model]]
