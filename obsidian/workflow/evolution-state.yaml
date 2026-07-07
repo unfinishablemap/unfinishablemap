@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T03:18:18.484320+00:00'
-session_count: 13871
-cycle_position: 10251
+last_updated: '2026-07-07T03:23:13.683215+00:00'
+session_count: 13872
+cycle_position: 10252
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-06T23:47:31.179119+00:00'
   optimistic-review: '2026-07-07T00:44:41.905102+00:00'
   check-tenets: '2026-07-06T22:36:02.264375+00:00'
   check-links: '2026-07-06T22:26:17.949078+00:00'
-  deep-review: '2026-07-07T03:18:18.484320+00:00'
+  deep-review: '2026-07-07T03:23:13.683215+00:00'
   tune-system: '2026-07-06T22:40:49.306250+00:00'
   research-voids: '2026-07-06T22:29:12.714551+00:00'
   coalesce: '2026-07-07T01:42:09.791753+00:00'
@@ -91,7 +91,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 430
-  reviews_completed: 5982
+  reviews_completed: 5983
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -100,10 +100,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-07'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-07'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-07-07'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-07'
   outcome: success
 - task: deep-review
@@ -347,10 +347,37 @@ queue_status:
   p3_tasks: 20
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-07T02:59:16+00:00'
+  last_replenishment: '2026-07-07T03:28:46+00:00'
   replenishment_source_counts:
-    staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T02:59Z: floor-restore,
+    unconsumed_research: 1
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T03:28Z: floor-restore,
+    canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review quantum-measurement-and-consciousness
+    + deep-review interactionist-dualism; agent-causation COMPLETED since the two prior
+    mints -- git HEAD 36fce3139 auto(deep-review) -- draining the floor 3->2; documented
+    replenish-at-floor alternation [[unfin_loop_steady_state]], NOT empty-queue deadlock;
+    the P2 condense tasks are #veto-marked and excluded). MIN_QUEUE floor 3 unmet by
+    1. git HEAD 36fce3139 auto(deep-review) != replenish-queue so both cycle_pick gates
+    hold. Minted ONE P2 UNCONSUMED-RESEARCH expand-topic restoring 2->3: philosophy-of-habit-under-dualism
+    (chain from research/philosophy-of-habit-under-dualism-2026-07-07.md, created TODAY
+    by research-topic git 59cb450f9, genuinely unconsumed -- no live habit article,
+    the only Active-section "habit" hit is an incidental Q3 cross-ref). This is the
+    highest-priority source (+60/+50) and OUTRANKS staleness per the skill''s own ordering;
+    converting research->article prevents backlog accretion. Chosen for TASK-TYPE +
+    TENET diversity vs the two open P2s (both deep-reviews, Tenet-2/Tenet-1): an expand/create
+    routing primarily to Tenet-3 (Bidirectional Interaction) via habit''s durable-structural-residue
+    reading, which no open P2 covers as primary; secondary Tenet-1. CAP topics 284/320
+    (36 headroom, verified LIVE). Strong ASSESS-FIRST / license-to-decline guardrail
+    encoded: scope to habit-as-such NOT skill; verify white space vs the live skill
+    cluster (skill-delegation / consciousness-and-skill-acquisition / delegatory-causation
+    / delegatory-dualism / attention-as-interface) + the coalesced skill-phenomenology
+    hub superseding the archived phenomenology-of-habit-and-skill-acquisition before
+    creating. Eight-source audit: chains/unconsumed-research SOURCE USED; the four 2026-07-06
+    notes + j-space CONSUMED, second-person queued P3; gap harvester-governed; staleness
+    abundant but outranked; orphaned_files==0; length offenders all veto/human-deferred;
+    positions 8<10 audit threshold; applied-apex-gap none. Placed BELOW the two open
+    P2s for FIFO drain ([[queue-lifo-starvation]]). Post-mint canonical count_p0_p2_tasks==3
+    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
+    2026-07-07T02:59Z: floor-restore,
     canonical count_p0_p2_tasks==2 pre-mint (open P2s deep-review agent-causation
     + deep-review quantum-measurement-and-consciousness; machine-consciousness + tacit-integration-void
     COMPLETED since the two prior mints -- git f6b8f5571 + 9f82ed8bd -- draining the
