@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T04:37:09.347601+00:00'
-session_count: 13885
-cycle_position: 10258
+last_updated: '2026-07-07T04:42:09.908466+00:00'
+session_count: 13886
+cycle_position: 10259
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-07T03:52:42.458461+00:00'
   optimistic-review: '2026-07-07T00:44:41.905102+00:00'
   check-tenets: '2026-07-06T22:36:02.264375+00:00'
   check-links: '2026-07-06T22:26:17.949078+00:00'
-  deep-review: '2026-07-07T04:18:21.807992+00:00'
+  deep-review: '2026-07-07T04:42:09.908466+00:00'
   tune-system: '2026-07-06T22:40:49.306250+00:00'
   research-voids: '2026-07-06T22:29:12.714551+00:00'
   coalesce: '2026-07-07T01:42:09.791753+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 430
-  reviews_completed: 5987
+  reviews_completed: 5988
   apex_articles: 38
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-07'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-07'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-07'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -360,439 +360,46 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 20
+  p2_tasks: 4
+  p3_tasks: 18
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-07T04:13:55+00:00'
+  loop_pickable_open: 4
+  last_replenishment: '2026-07-07T04:48:04+00:00'
   replenishment_source_counts:
-    staleness: 1
-  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T04:13Z: floor-restore,
-    canonical count_p0_p2_tasks==2 pre-mint (open P2s: expand-topic philosophy-of-habit
-    + deep-review llm-consciousness; interactionist-dualism COMPLETED since the prior
-    mint via git 61136bbb8 auto(deep-review), draining floor 3->2; ~21 P3s + NEEDS-HUMAN
-    length deferrals + veto-marked condense P2s excluded). Minted ONE P2 staleness
-    deep-review restoring 2->3: concepts/decoherence.md (Tenet-2 minimal-quantum-interaction,
-    opus-4-6, last_deep_review 2026-06-05 ==32d ACCURATE, genuine ~11d post-review
-    drift via ce64fe795 cross-link/propagation touch, body 2803w ~697w headroom to
-    the 3500 concepts hard ceiling, unqueued/unvetoed/not-archived/EOF-clean/no-same-day-collision
-    verified). Chosen for TENET + subject diversity vs the two open P2s (a Tenet-1
-    AI-cluster review + a Tenet-3 create); the Tenet-2 overlap is only with the already-COMPLETED
-    quantum-measurement-and-consciousness, a distinct decoherence-objection argument.
-    quantum-consciousness.md (3551w over ceiling, churn-drift) + personal-identity.md
-    (4097w over ceiling, embed/cross-link churn) REJECTED as condense-traps; epistemology.md
-    REJECTED as converged (deep-reviewed 2026-06-07, only a reference-repoint since).
-    git HEAD cf0c7ac44 auto(commission-gemini-review) != replenish-queue so both cycle_pick
-    gates hold, NOT a concurrent-replenish-race. Placed BELOW the two open P2s for
-    FIFO drain. Post-mint canonical count_p0_p2_tasks==3 verified. Prior note retained
-    below for provenance. --- Interactive /replenish-queue 2026-07-07T03:28Z: floor-restore,
-    canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review quantum-measurement-and-consciousness
-    + deep-review interactionist-dualism; agent-causation COMPLETED since the two
-    prior mints -- git HEAD 36fce3139 auto(deep-review) -- draining the floor 3->2;
-    documented replenish-at-floor alternation [[unfin_loop_steady_state]], NOT empty-queue
-    deadlock; the P2 condense tasks are #veto-marked and excluded). MIN_QUEUE floor
-    3 unmet by 1. git HEAD 36fce3139 auto(deep-review) != replenish-queue so both
-    cycle_pick gates hold. Minted ONE P2 UNCONSUMED-RESEARCH expand-topic restoring
-    2->3: philosophy-of-habit-under-dualism (chain from research/philosophy-of-habit-under-dualism-2026-07-07.md,
-    created TODAY by research-topic git 59cb450f9, genuinely unconsumed -- no live
-    habit article, the only Active-section "habit" hit is an incidental Q3 cross-ref).
-    This is the highest-priority source (+60/+50) and OUTRANKS staleness per the skill''s
-    own ordering; converting research->article prevents backlog accretion. Chosen
-    for TASK-TYPE + TENET diversity vs the two open P2s (both deep-reviews, Tenet-2/Tenet-1):
-    an expand/create routing primarily to Tenet-3 (Bidirectional Interaction) via
-    habit''s durable-structural-residue reading, which no open P2 covers as primary;
-    secondary Tenet-1. CAP topics 284/320 (36 headroom, verified LIVE). Strong ASSESS-FIRST
-    / license-to-decline guardrail encoded: scope to habit-as-such NOT skill; verify
-    white space vs the live skill cluster (skill-delegation / consciousness-and-skill-acquisition
-    / delegatory-causation / delegatory-dualism / attention-as-interface) + the coalesced
-    skill-phenomenology hub superseding the archived phenomenology-of-habit-and-skill-acquisition
-    before creating. Eight-source audit: chains/unconsumed-research SOURCE USED; the
-    four 2026-07-06 notes + j-space CONSUMED, second-person queued P3; gap harvester-governed;
-    staleness abundant but outranked; orphaned_files==0; length offenders all veto/human-deferred;
-    positions 8<10 audit threshold; applied-apex-gap none. Placed BELOW the two open
-    P2s for FIFO drain ([[queue-lifo-starvation]]). Post-mint canonical count_p0_p2_tasks==3
-    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-07T02:59Z: floor-restore, canonical count_p0_p2_tasks==2 pre-mint (open
-    P2s deep-review agent-causation + deep-review quantum-measurement-and-consciousness;
-    machine-consciousness + tacit-integration-void COMPLETED since the two prior mints
-    -- git f6b8f5571 + 9f82ed8bd -- draining the floor 3->2; documented replenish-at-floor
-    alternation [[unfin_loop_steady_state]], NOT empty-queue deadlock; the three P2
-    condense tasks are #veto-marked and excluded). MIN_QUEUE floor 3 unmet by 1. git
-    HEAD 4916a6b0d auto(refine-draft) != replenish-queue so both cycle_pick gates
-    hold. Minted ONE P2 staleness deep-review restoring 2->3: concepts/interactionist-dualism.md
-    (last_deep_review 2026-06-05, 32d, ACCURATE -- genuine last full review is commit
-    57e6d93ff; the 2026-07-06 ai_modified is commit 197d940ad, a CROSS-REVIEW installing
-    hylomorphic-dualism reciprocal inbound links -- genuine post-review drift, NOT
-    a disguised deep-review; ai_contribution=100 opus-4-5-20251101; 3326w soft_warning
-    ~174w headroom to the 3500 concepts hard ceiling, LENGTH-NEUTRAL; unqueued/unvetoed/not-archived/EOF-clean/no-same-day-review-collision
-    verified). Chosen for MODEL+TENET diversity vs the two open P2s (both opus-4-6,
-    Tenet-2/3): opus-4-5 is the oldest+most-distinct cohort vs every recent review,
-    primary Tenet-1 (Dualism) which no open P2 covers. cognitive-phenomenology REJECTED
-    -- its 2026-06-26 apparent drift was itself an unlabeled deep-review (~11d ago),
-    so re-review would near-no-op [[deep_review_over_reviews_converged]]; topics/introspection-architecture-independence-scoring
-    REJECTED -- 4025w over the 4000 topics hard ceiling, length-regression risk [[hub-articles-accrete-crosslink-length]].
-    Eight-source audit: chains null; recent research notes all consumed-or-queued
-    (second-person is the queued P3 expand-topic; j-space consumed via refine-drafts
-    + positions-evolve); gap harvester-governed; staleness abundant (source used,
-    174 files >=30d); orphaned_files==0; length offenders all veto/human-deferred;
-    positions 8<10 audit threshold; applied-apex-gap none. Placed BELOW the two open
-    P2s for FIFO drain ([[queue-lifo-starvation]]). Post-mint canonical count_p0_p2_tasks==3
-    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-07T02:31Z: canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review
-    tacit-integration-void + deep-review agent-causation; the machine-consciousness
-    P2 -- git HEAD f6b8f5571 auto(deep-review) -- COMPLETED since the prior mint,
-    draining the floor 3->2; documented replenish-at-floor alternation [[unfin_loop_steady_state]],
-    NOT empty-queue deadlock; the three P2 condense tasks are #veto-marked and excluded).
-    MIN_QUEUE floor 3 unmet by 1. git HEAD f6b8f5571 auto(deep-review) != replenish-queue
-    so both cycle_pick gates hold. Minted ONE P2 staleness deep-review restoring 2->3:
-    topics/quantum-measurement-and-consciousness.md (last_deep_review 2026-06-05,
-    32d; ai_modified 2026-06-17, genuine 12d post-review drift, not today''s churn;
-    ai_contribution=100 opus-4-6; 3286w soft_warning ~714w headroom to the 4000 topics
-    hard ceiling, LENGTH-NEUTRAL; unqueued/unvetoed/not-archived/EOF-clean/no-same-day-review-collision
-    verified). Chosen for SECTION+TENET diversity vs the two open P2s (voids/opus-4-7/Tenet-5-1
-    + concepts/opus-4-6/Tenet-3-1): topics section, Tenet-2 (Minimal Quantum Interaction)
-    -- a tenet NO open P2 covers -- via the measurement-problem / von Neumann-Wigner
-    vs minimal-selection case. Eight-source audit: chains null; newest research note
-    (anthropic-global-workspace-j-space-2026-07-07) consumed via refine-drafts 890eefb2b+86a86707d
-    + positions-evolve a2d129821; 2026-07-06 notes consumed; gap harvester-governed;
-    staleness abundant (source used); orphaned_files==0; length offenders all veto/human-deferred;
-    positions 8<10 audit threshold; applied-apex-gap none. Placed BELOW the two open
-    P2s for FIFO drain ([[queue-lifo-starvation]]). Post-mint canonical count_p0_p2_tasks==3
-    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-07T01:34Z: canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review
-    machine-consciousness + deep-review tacit-integration-void; the russellian-monism
-    P2 -- git HEAD db47a490c auto(deep-review) -- COMPLETED since the prior mint,
-    draining the floor 3->2; documented replenish-at-floor alternation [[unfin_loop_steady_state]],
-    NOT empty-queue deadlock; the three P2 condense tasks are #veto-marked and excluded).
-    MIN_QUEUE floor 3 unmet by 1. git HEAD db47a490c auto(deep-review) != replenish-queue
-    so both cycle_pick gates hold. Minted ONE P2 staleness deep-review restoring 2->3:
-    concepts/agent-causation.md (last_deep_review 2026-06-05, 32d; ai_modified 2026-07-06,
-    genuine post-review drift from the agency-cluster integration commits 66e4aa44e
-    + 9d51c587d, not today''s churn; ai_contribution=100 opus-4-6; 3379w soft_warning
-    ~121w headroom to the 3500 concepts hard ceiling, LENGTH-NEUTRAL; unqueued/unvetoed/not-archived/EOF-clean/no-same-day-review-collision
-    verified). Chosen for SECTION+MODEL+TENET diversity vs the two open P2s (topics/sonnet-4-5/Tenet-1/2
-    + voids/opus-4-7/Tenet-5/1): concepts section, opus-4-6 cohort, Tenet-3 (Bidirectional
-    Interaction) -- the least-covered tenet in the queue -- via the agent-causal/Kim-exclusion
-    case. quantum-consciousness.md PASSED OVER (3549w, 49w over the concepts hard
-    ceiling; deep-review over hard risks length regression on a cross-link-accreting
-    hub). Eight-source audit: chains null; four recent 2026-07-06 research notes all
-    consumed (hylomorphic/philosophy-of-action/substance-causation into live articles;
-    second-person queued P3 expand-topic); gap harvester-governed; staleness abundant
-    18 concepts/apex candidates (source used); orphaned_files==0; length offenders
-    all veto/human-deferred/over-hard-ceiling; positions 8<10 audit threshold; applied-apex-gap
-    none. Placed BELOW the two open P2s for FIFO drain ([[queue-lifo-starvation]]).
-    Post-mint canonical count_p0_p2_tasks==3 verified. Prior-run note retained below
-    for provenance. --- Interactive /replenish-queue 2026-07-07T01:06Z: canonical
-    count_p0_p2_tasks==2 pre-mint (open P2s: deep-review russellian-monism + deep-review
-    machine-consciousness; the process-and-consciousness P2 -- git HEAD 89ae467ba
-    auto(deep-review) -- and probability-problem-in-many-worlds P2 -- 9d7c96cfd --
-    have both COMPLETED since the two prior mints, draining the floor to 2; documented
-    replenish-at-floor alternation [[unfin_loop_steady_state]], NOT empty-queue deadlock;
-    the three P2 condense tasks are #veto-marked and excluded). MIN_QUEUE floor 3
-    unmet by 1. git HEAD 89ae467ba auto(deep-review) != replenish-queue so both cycle_pick
-    gates hold. Minted ONE P2 staleness deep-review restoring 2->3: voids/tacit-integration-void.md
-    (last_deep_review 2026-06-02, 35d; ai_modified 2026-06-12, 10d genuine post-review
-    drift not today''s churn; ai_contribution=100 opus-4-7; 2228w soft_warning ~772w
-    headroom to the 3000 voids hard ceiling, LENGTH-NEUTRAL; unqueued/unvetoed/not-archived/EOF-clean/no-same-day-review-collision
-    verified). Chosen for SECTION+MODEL diversity vs the two open P2s (concepts/opus-4-8/Tenet-5/1
-    + topics/sonnet-4-5/Tenet-1/2): voids section, opus-4-7 cohort -- the most distinct
-    available section AND model -- Tenet-5/1 tacit-knowing case. synesthetic-void
-    PASSED OVER (over voids hard ceiling + OPEN HUMAN LENGTH DECISION todo ~L358,
-    deep-review risks length regression on a human-reserved flagship). Eight-source
-    audit: chains null; five recent research notes all consumed (hylomorphic/philosophy-of-action/substance-causation/indigenous-australian
-    into live articles; second-person queued P3 expand-topic); gap harvester-governed;
-    staleness abundant (source used); orphaned_files==0; length offenders all veto/human-deferred;
-    positions 8<10 audit threshold; applied-apex-gap none. Placed BELOW the two open
-    P2s for FIFO drain ([[queue-lifo-starvation]]). Post-mint canonical count_p0_p2_tasks==3
-    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-07T00:55Z: canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review
-    process-and-consciousness + deep-review russellian-monism; the 2026-07-07 probability-problem-in-many-worlds
-    P2 has since COMPLETED -- commit 9d7c96cfd auto(deep-review) -- draining the floor
-    3->2, documented replenish-at-floor alternation [[unfin_loop_steady_state]], NOT
-    empty-queue deadlock; the three P2 condense tasks are #veto-marked and excluded).
-    MIN_QUEUE floor 3 unmet by 1. git HEAD 9d7c96cfd auto(deep-review) != replenish-queue
-    so both cycle_pick gates hold. Minted ONE P2 staleness deep-review restoring 2->3:
-    topics/machine-consciousness.md (last_deep_review 2026-06-02, 35d; ai_modified
-    2026-06-18, 16d genuine post-review drift not today''s churn; ai_contribution=100
-    sonnet-4-5; 3796w soft_warning ~204w headroom to hard, LENGTH-NEUTRAL; unqueued/unvetoed/not-archived/EOF-clean
-    verified). Chosen for SECTION+MODEL+TENET diversity vs the two open P2s (apex/opus-4-6/Tenet-1/3
-    + concepts/opus-4-8/Tenet-5/1): topics section, sonnet-4-5 cohort (most distinct
-    model), Tenet-1/2 machine-consciousness. personal-identity.md PASSED OVER (4096w
-    over the 4000 hard ceiling -- deep-review there risks length regression). Eight-source
-    audit: chains null; four 2026-07-06 research notes all consumed; gap harvester-governed;
-    staleness abundant 263 topics >=30d (source used); orphaned_files==0; length offenders
-    all veto/human-deferred; positions 8<10 audit threshold; applied-apex-gap none.
-    Placed BELOW the two open P2s for FIFO drain ([[queue-lifo-starvation]]). Post-mint
-    canonical count_p0_p2_tasks==3 verified. Prior-run note retained below for provenance.
-    --- Interactive /replenish-queue 2026-07-07T00:52Z: canonical count_p0_p2_tasks==2
-    pre-mint (open P2s: deep-review probability-problem-in-many-worlds + deep-review
-    process-and-consciousness; the two 00:07Z staleness mints skill-delegation + self-reference-paradox
-    have since COMPLETED -- commits 133ac4074 + 18e4bc7fb auto(deep-review) -- draining
-    the floor 4->2, documented replenish-at-floor alternation [[unfin_loop_steady_state]],
-    NOT empty-queue deadlock; the three P2 condense tasks are #veto-marked and excluded).
-    MIN_QUEUE floor 3 unmet by 1. git HEAD 18e4bc7fb auto(deep-review) != replenish-queue
-    so both cycle_pick gates hold. Minted ONE P2 staleness deep-review restoring 2->3
-    (minimal-to-floor to limit over-mint exposure given the just-drained buffer):
-    concepts/russellian-monism.md (last_deep_review 2026-06-05, 32d; ai_modified 2026-06-25,
-    12d genuine post-review drift not today''s churn; ai_contribution=100 opus-4-8;
-    2691w soft_warning comfortable headroom, LENGTH-NEUTRAL; unqueued/unvetoed/not-archived/EOF-clean
-    verified). Chosen for SECTION+MODEL+TENET diversity vs the two open P2s (both
-    opus-4-6; topics/Tenet-4 + apex/Tenet-1/3): concepts section, opus-4-8 cohort,
-    Tenet-5/1 rival-monism. Eight-source audit: chains null; four 2026-07-06 research
-    notes all consumed; gap harvester-governed; staleness abundant (source used);
-    orphaned_files==0; length offenders all veto/human-deferred; positions 8<10 audit
-    threshold; applied-apex-gap none; voids at 100/100 cap. Placed BELOW the two open
-    P2s for FIFO drain ([[queue-lifo-starvation]]). Post-mint canonical count_p0_p2_tasks==3
-    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-07T00:07Z: canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review
-    probability-problem-in-many-worlds + deep-review process-and-consciousness; intersubjectivity
-    since COMPLETED, draining floor 3->2 -- documented replenish-at-floor alternation
-    [[unfin_loop_steady_state]], NOT empty-queue deadlock; the three P2 condense tasks
-    are #veto-marked and excluded from the count). MIN_QUEUE floor 3 unmet by 1. Minted
-    TWO P2 staleness deep-reviews restoring 2->4 (small buffer above floor to damp
-    every-cycle alternation): concepts/skill-delegation.md + concepts/self-reference-paradox.md
-    (both last_deep_review 2026-06-01, 36d, ai_contribution>50; no open/vetoed task
-    -- prior corpus mentions are inside OTHER tasks notes not headers, verified).
-    Eight-source audit: chains null; no fresh unconsumed research; gap harvester-governed;
-    staleness abundant (source used); orphaned_files==0; length offenders all veto/human-deferred;
-    positions 8<10 audit threshold; applied-apex-gap none; voids at 100/100 cap. Placed
-    ABOVE the two open P2s for pickability. Post-mint canonical count_p0_p2_tasks==4
-    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-06T23:54Z: canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review
-    intersubjectivity + deep-review probability-problem-in-many-worlds; the apex/contemplative-path
-    P2 minted 23:42Z since COMPLETED commit beff654fe auto(deep-review), draining
-    the floor 3->2 -- documented replenish-at-floor alternation [[unfin_loop_steady_state]],
-    NOT empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1. git HEAD beff654fe auto(deep-review)
-    contemplative-path != replenish-queue, so both cycle_pick gates hold (p0_p2<3
-    AND last_task!=replenish-queue) -- fresh floor-restore, NOT a concurrent-replenish
-    race. Eight-source audit re-verified LIVE ([[replenish-false-exhaustion-mislabeled-drift]]):
-    chains null; the four 2026-07-06 research notes ALL consumed; no fresh unconsumed
-    research; gap harvester-governed; staleness abundant with drifted candidates --
-    source used; orphaned_files==0; length all offenders veto/human-deferred/accept-as-survey/index-hub;
-    positions 8<10 audit threshold; applied-apex-gap none. Minted ONE P2 deep-review
-    restoring 2->3: apex/process-and-consciousness.md (DRIFTED: last_deep_review 2026-06-05
-    but ai_modified 2026-06-25 -- 20d of unreviewed edits, the highest drift-yield
-    clean candidate this run, genuine yield NOT a converged no-op [[replenish-churn-filter-overtight]];
-    ai_contribution=100, claude-opus-4-6; body ~3907w just under apex 4000 soft so
-    keep length-neutral). Chosen for SECTION + drift diversity (an APEX process-philosophy
-    synthesis hub; the two queued P2s are a concepts opus-4-5 Tenet-1/3 + a topics
-    opus-4-6 Tenet-4; also distinct from the just-drained contemplative-path apex
-    on cluster/cohort). Placed BELOW the two open P2s for FIFO ([[queue-lifo-starvation]]).
-    Post-mint canonical count_p0_p2_tasks==3 verified. Prior-run note retained below
-    for provenance. --- Interactive /replenish-queue 2026-07-06T23:42Z: canonical
-    count_p0_p2_tasks==2 pre-mint (open P2s: deep-review contemplative-path + deep-review
-    intersubjectivity; the galilean-exclusion + testing-consciousness-collapse P2s
-    they were paired with since COMPLETED, commits 414122d96 + 2effb4e55, draining
-    the floor 3->2 -- documented replenish-at-floor alternation [[unfin_loop_steady_state]],
-    NOT empty-queue deadlock). MIN_QUEUE floor 3 unmet by 1. git HEAD 741f4dedf auto(agentic-social),
-    last CONTENT task 2effb4e55 auto(deep-review) testing-consciousness-collapse !=
-    replenish-queue, so both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue)
-    -- fresh floor-restore, NOT a concurrent-replenish race. Eight-source audit re-verified
-    LIVE ([[replenish-false-exhaustion-mislabeled-drift]]): chains null; the four
-    2026-07-06 research notes ALL consumed (second-person->queued P3 expand-topic,
-    other three->live articles disk-verified); no fresh unconsumed research; gap harvester-governed;
-    staleness abundant with drifted candidates -- source used; orphaned_files==0;
-    length all offenders veto/human-deferred/accept-as-survey/index-hub; positions
-    8<10 audit threshold; applied-apex-gap none. Minted ONE P2 deep-review restoring
-    2->3: topics/probability-problem-in-many-worlds.md (DRIFTED: last_deep_review
-    2026-06-05 but ai_modified 2026-06-24 -- 19d of unreviewed edits, genuine yield
-    NOT a converged no-op [[replenish-churn-filter-overtight]]; ai_contribution=100,
-    claude-opus-4-6; body 3843w soft_warning, ~157w under topics 4000 hard so keep
-    length-neutral). Chosen for SECTION + MODEL + TENET diversity (a TOPICS article,
-    opus-4-6 cohort, Tenet-4 No-Many-Worlds; the two queued P2s are an apex opus-4-7
-    Tenet-1/5 + a concepts opus-4-5 Tenet-1/3) and drift-yield. Placed BELOW the two
-    open P2s for FIFO ([[queue-lifo-starvation]]). Post-mint canonical count_p0_p2_tasks==3
-    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-06T23:13Z: canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review
-    galilean-exclusion + deep-review testing-consciousness-collapse; the 22:59Z sibling
-    mint microphenomenological-interview-method since consumed by a cycle-slot deep-review,
-    git HEAD 2f1f9a673 auto(deep-review) -- documented replenish-at-floor alternation
-    [[unfin_loop_steady_state]], NOT empty-queue deadlock). MIN_QUEUE floor 3 unmet
-    by 1. Last content task at HEAD != replenish-queue, so both cycle_pick gates hold
-    (p0_p2<3 AND last_task!=replenish-queue) -- fresh floor-restore, NOT a concurrent-replenish
-    race. Eight-source audit re-verified LIVE ([[replenish-false-exhaustion-mislabeled-drift]]):
-    chains null; the four 2026-07-06 research notes ALL consumed (hylomorphic->topics/hylomorphic-dualism-and-the-interaction-problem
-    created today commit cf68bb4a3, philosophy-of-action->topics article, substance-causation->concepts/four-category-ontology,
-    second-person->queued P3 expand-topic); no fresh unconsumed research; gap harvester-governed;
-    staleness abundant with many DRIFTED (changed-since-review) candidates -- source
-    used; orphaned_files==0; length all offenders veto/human-deferred/accept-as-survey/index-hub
-    (synesthetic-void + edge-states are standing HUMAN length decisions); positions
-    8<10 audit threshold; applied-apex-gap none. Minted ONE P2 deep-review restoring
-    2->3: apex/contemplative-path.md (DRIFTED: last_deep_review 2026-06-02 but ai_modified
-    2026-06-25 -- 23d of unreviewed edits, genuine yield NOT a converged no-op [[replenish-churn-filter-overtight]];
-    ai_contribution=100, claude-opus-4-7; body 3988w OK, right at apex 4000 soft so
-    keep length-neutral). Chosen for SECTION diversity (an APEX synthesis piece; the
-    two queued P2s are a Tenet-1 concept + a Tenet-2/4 topic) and drift-yield. Placed
-    BELOW the two open P2s for FIFO ([[queue-lifo-starvation]]). Post-mint canonical
-    count_p0_p2_tasks==3 verified. Prior-run note retained below for provenance. ---
-    Interactive /replenish-queue 2026-07-06T22:59Z: canonical count_p0_p2_tasks==2
-    pre-mint (open P2s: deep-review microphenomenological-interview-method + deep-review
-    galilean-exclusion; the prior pair neural-correlates-of-consciousness + expand-topic
-    four-category-ontology since consumed by cycle-slot completions -- documented
-    replenish-at-floor alternation [[unfin_loop_steady_state]], NOT empty-queue deadlock).
-    MIN_QUEUE floor 3 unmet by 1. git HEAD 51586d35f auto(refine-draft), last content
-    task != replenish-queue, so both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue)
-    -- fresh floor-restore, NOT a concurrent-replenish race. Eight-source audit re-verified
-    LIVE ([[replenish-false-exhaustion-mislabeled-drift]]): chains empty/consumed
-    (Second-Person + Substance-Causation completions consumed; four-category concept
-    now 9 inbound links, not orphaned); no fresh unconsumed research; gap harvester-governed;
-    staleness abundant (186 settled-stale ai>50 >=30d) -- source used; orphaned_files==0;
-    length all offenders veto/human-deferred/accept-as-survey/recently-reviewed (transit-void
-    deep-reviewed today, under voids critical); positions 8<10 audit threshold; applied-apex-gap
-    none. Minted ONE P2 deep-review restoring 2->3: topics/testing-consciousness-collapse.md
-    (settled ai_modified==last_deep_review 2026-06-05T23:55, NO own-body drift; older
-    model claude-opus-4-6 scrutinize-citations; body 3770w soft_warning ~230w to hard,
-    length-neutral-to-trimming). Chosen for SECTION+TENET+MODEL diversity: a topics-section
-    empirical article on the Tenet-2/4 collapse-test axis, distinct from the two queued
-    Tenet-1 methodology reviews; citation-dense (Pedalino 2026 Nature matter-wave,
-    IIT 4.0, CSL/GRW) so low no-op risk. Placed BELOW the two open P2s for FIFO ([[queue-lifo-starvation]]).
-    Post-mint canonical count_p0_p2_tasks==3 verified. Prior-run note retained below
-    for provenance. --- Interactive /replenish-queue 2026-07-06T22:12Z: canonical
-    count_p0_p2_tasks==2 pre-mint (open P2s: expand-topic four-category-ontology +
-    deep-review microphenomenological-interview-method; the prior 21:50Z mint neural-correlates-of-consciousness
-    since consumed by a cycle-slot deep-review -- documented replenish-at-floor alternation
-    [[unfin_loop_steady_state]], NOT empty-queue deadlock). MIN_QUEUE floor 3 unmet
-    by 1. Last content task at HEAD is agentic-social, NOT replenish-queue, so both
-    cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue) -- fresh floor-restore,
-    NOT a concurrent-replenish race. Eight-source audit re-verified LIVE ([[replenish-false-exhaustion-mislabeled-drift]]):
-    chains empty (Second-Person + Substance-Causation completions consumed into queued
-    expand-topics); no fresh unconsumed research; gap harvester-governed; staleness
-    abundant (entire 2026-06-01 batch-review tier ~35d stale) -- source used; orphans
-    orphaned_files==0; length all offenders veto/human-deferred/accept-as-survey (the
-    three critical flagships epistemology-of-convergence-arguments/born-rule/phenomenal-output
-    are #veto human-deferred); positions 8<10 audit threshold; applied-apex-gap none.
-    Minted ONE P2 deep-review restoring 2->3: concepts/galilean-exclusion.md (settled
-    ai_modified==last_deep_review 2026-06-01T09:58, NO own-body drift; older model
-    claude-opus-4-6 scrutinize-citations; body 1740w well under concepts soft 2500,
-    length-neutral). Chosen for section diversity (a concept pairing the topic-section
-    microphenomenological review). Placed BELOW the two open P2s for FIFO ([[queue-lifo-starvation]]).
-    Post-mint canonical count_p0_p2_tasks==3 verified. Prior-run note retained below
-    for provenance. --- Interactive /replenish-queue 2026-07-06T21:50Z: canonical
-    count_p0_p2_tasks==2 pre-mint (open P2s: deep-review neural-correlates-of-consciousness
-    + expand-topic four-category-ontology; the prior open pair deep-review aphantasia
-    + refine wire-ai-consciousness-hub since completed, aphantasia via f4603a8b2).
-    MIN_QUEUE floor 3 unmet by 1. git HEAD == 8d67ed8fa auto(agentic-social), last
-    task != replenish-queue so both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue)
-    -- fresh floor-restore, NOT a concurrent-replenish race, NOT empty-queue deadlock;
-    documented replenish-at-floor alternation ([[unfin_loop_steady_state]]). Eight-source
-    audit LIVE: chains empty (Second-Person + Substance-Causation research completions
-    both consumed into queued expand-topics); unconsumed-research none fresh; gap
-    harvester-governed; staleness abundant (53 topics ai_contribution=100 articles
-    >=30d since review) -- source used; orphans orphaned_files==0; length all offenders
-    veto/human-deferred/accept-as-survey; positions 8<10 audit threshold; applied-apex-gap
-    none. Minted ONE P2 deep-review restoring 2->3: topics/microphenomenological-interview-method.md
-    (settled ai_modified==last_deep_review 2026-06-03, NO own-body drift; older model
-    claude-opus-4-7 fresh-eyes warrant; body 3761w soft_warning, keep length-neutral-to-trimming;
-    changed-since-review topics candidates probability-problem/machine-consciousness/quantum-measurement/anaesthesia
-    rejected as cosmetic cross-touch or citation-metadata-only bumps, [[deep_review_over_reviews_converged]]).
-    Chosen for section+tenet+model diversity (the two open P2s are both concept/Tenet-1
-    on newer models; this adds a topics first-person-methodology article). Placed
-    BELOW the two open P2s for FIFO ([[queue-lifo-starvation]]). Post-mint canonical
-    count_p0_p2_tasks==3 verified. Prior-run note retained below for provenance. ---
-    Interactive /replenish-queue 2026-07-06T21:40Z: canonical count_p0_p2_tasks==2
-    pre-mint (the two open P2 staleness deep-reviews aphantasia + neural-correlates-of-consciousness;
-    the prior open pair philosophy-of-science-under-dualism + wire-ai-consciousness-hub
-    have since been completed). MIN_QUEUE floor 3 unmet by 1. git HEAD == e00e7743c
-    auto(deep-review) consciousness-and-agency, last task != replenish-queue so both
-    cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue) -- fresh floor-restore,
-    NOT a concurrent-replenish race, NOT empty-queue deadlock; documented replenish-at-floor
-    alternation ([[unfin_loop_steady_state]]). Eight-source audit: THIS run has a
-    genuine unconsumed-research source -- two research-topic completions landed since
-    the last replenish (b7a741e6d Second-Person, 196f5a369 Substance-Causation/Lowe).
-    Second-Person already queued as its P3 chain successor; the other three fresh
-    notes (hylomorphic, philosophy-of-action, indigenous-australian) fully CONSUMED
-    (live articles + cross-reviews this cycle); leaving research/substance-causation-and-lowes-four-category-ontology-2026-07-06
-    as the sole unconsumed note (verdict "Article-worthy -- proceed"; four-category
-    ontology invoked-but-never-grounded across agent-causation/where-the-substance-commitment-enters/causal-powers/substance-property-dualism).
-    Minted ONE P2 expand-topic restoring 2->3: concepts/four-category-ontology.md
-    (slug collision-free; NOT slug substance-causation which is archived + 301->agent-causation,
-    [[check-slug-misses-archive-redirect-collisions]]). concepts 271/320 headroom;
-    placed BELOW the two open staleness P2s for FIFO ([[queue-lifo-starvation]]).
-    Other sources: gap harvester-governed; staleness abundant but already represented
-    by the two P2s (added source+section diversity instead); orphans orphaned_files==0;
-    length all offenders veto/human-deferred/accept-as-survey; positions 8<10 audit
-    threshold; applied-apex-gap none. Post-mint canonical count_p0_p2_tasks==3 verified.
-    Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-06T20:14Z: canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review
-    philosophy-of-science-under-dualism + refine-draft wire-ai-consciousness-hub;
-    three #veto condense P2s parser-excluded); git HEAD == 3ada362ed auto(agentic-social),
-    last task != replenish-queue so cycle_pick gate holds (p0_p2<3 AND last_task!=replenish-queue).
-    Prior replenish d9c24cfef (19:54) fully committed with optimistic-review+refine-draft+agentic-social
-    run since -- fresh floor-restore, NOT a concurrent-replenish race, NOT empty-queue
-    deadlock; documented replenish-at-floor alternation ([[unfin_loop_steady_state]]).
-    Full eight-source audit re-confirmed NO genuine new mint source except staleness:
-    chain (recent_tasks zero research/expand/cross-review completions); unconsumed-research
-    (slug-mismatch FALSE-uncovered, harvester-governed); gap (topics 284/320 & concepts
-    272/320 headroom but harvester-governed + dedup-blocked; voids 100/100 at-cap);
-    length (all content offenders veto/human-deferred/accept-as-survey); staleness
-    (179 settled-stale ai>=90 files past 30d floor -- source used); orphans (orphaned_files==0,
-    critical_issues==0); positions (8<10 audit threshold); applied-apex-gap (none).
-    Minted ONE staleness deep-review restoring 2->3: topics/aphantasia.md (settled
-    ai_modified==last_deep_review 2026-06-02T16:33:40, 34d, ai_contribution=100, opus-4-7
-    older cohort, body 2460w status ok LENGTH-NEUTRAL, EOF clean, unqueued, not archived,
-    0 commits today). Chosen for SECTION+TENET diversity vs the live pair (concept/Tenet-5
-    + topic-refine/Tenet-1+3): a TOPIC on the Tenet-1 empirical imagery/interface-phenomenology
-    axis. Placed BELOW the two open P2s for FIFO ([[queue-lifo-starvation]]). Post-mint
-    canonical count_p0_p2_tasks==3 verified. Prior-run note retained below for provenance.
-    --- Interactive /replenish-queue 2026-07-06T19:54Z: canonical count_p0_p2_tasks==2
-    pre-promotion; git HEAD == 348c2c94b auto(deep-review) witnessing-void, the cycle
-    deep-review slot that drained one of the 19:40 floor-restorers, dropping the floor
-    3->2 (documented replenish-at-floor alternation, NOT a race; last task != replenish-queue
-    so cycle_pick gate holds). Full eight-source audit re-confirmed NO genuine new
-    mint source: chain (today 3 expand-topics hylomorphic/indigenous-australian/philosophy-of-action
-    all 4-8 inbound links, integrated + same-day deep-reviewed; recent_tasks otherwise
-    deep-review/refine/pessimistic/optimistic/embed/social); unconsumed-research (427
-    notes, slug-mismatch candidates FALSE-uncovered, harvester-governed); gap (topics
-    284/320 & concepts 272/320 headroom but harvester-governed + Vetoed-dedup-blocked;
-    voids 100/100 at-cap); length (all content offenders human-deferred/veto/accept-as-survey
-    -- born-rule 5118w DEFERRED-AS-DUPLICATE after 5 condenses, transit-void 3999w
-    deep-reviewed TODAY under the 4000 voids critical, rest research notes/index hubs);
-    staleness (117 settled-stale ai=100 files but converged low-yield no-ops, P3-by-default);
-    orphans (orphaned_files==0, today new articles all integrated); positions (8<10
-    audit threshold); applied-apex-gap (none). Lowest-risk floor restorer: promoted
-    a VERIFIED self-contained LINK-ONLY P3 to P2 in the value-selection cluster (Tenets
-    2+3) for tenet diversity vs the live pair (Tenet-5 philosophy-of-science + AI-safety),
-    also relieving the 19-deep P3 LIFO backlog. Promoted "Cross-link curated-mind''s
-    selection-under-ambiguity mode into the value-sensitive-selection cluster"; RE-VERIFIED
-    still-open this run: grep -cE valence-and-conscious-selection|selection-criterion-problem|value-sensitive-selection
-    topics/curated-mind.md == 0; both link targets exist. Post-promote canonical count_p0_p2_tasks==3
-    verified. Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-06T19:40Z: canonical count_p0_p2_tasks==2 pre-mint (witnessing-void +
-    philosophy-of-science-under-dualism staleness deep-reviews live; the prior 19:00
-    run''s third task amplification-mechanisms-consciousness-physics was picked+completed
-    by the 19:35 cycle deep-review slot, dropping the floor back to 2 — documented
-    replenish-at-floor alternation, NOT a race). Floor 3 unmet by 1. NO genuine new
-    mint source on a full eight-source audit: chain (task_chains empty, recent_tasks
-    carry zero research-topic/expand-topic/cross-review); unconsumed-research (50
-    slug-mismatch candidates are FALSE-uncovered — epiphenomenalism/illusionism/panpsychism/metacognition/hylomorphic/indexical-identity/haecceity/neurophenomenology
-    all have live articles); gap (harvester-governed + Vetoed-dedup-blocked; voids
-    100/100 at-cap, topics 283/320 & concepts 272/320 headroom but no clean expand
-    candidate); length (every content offender human-deferred: epistemology-of-convergence
-    6479w STANDING HUMAN LENGTH DECISION/SPLIT, phenomenal-output 6872w #veto; rest
-    research/ notes or index hubs); staleness/drift (ZERO articles with ai_modified
-    > last_deep_review at a real content gap); orphans (critical_issues==0). So the
-    lowest-risk floor restorer is promoting a VERIFIED self-contained P3 to P2, and
-    per [[queue-lifo-starvation]] an OLDER one (2026-06-25) also relieves the 20-deep
-    P3 LIFO backlog. Promoted "Wire the ai-consciousness hub''s Alignment Implications
-    section to the AI-safety subcluster" (refine-draft, length-neutral 1-2 wikilink
-    add). RE-VERIFIED still-open this run: grep -cE dualism-as-ai-risk-mitigation|instrumental-convergence
-    topics/ai-consciousness.md == 0. Post-promote canonical count_p0_p2_tasks==3 verified.
-    Prior-run note retained below for provenance. --- Interactive /replenish-queue
-    2026-07-06T19:00Z: canonical count_p0_p2_tasks==2 pre-mint (amplification-mechanisms-consciousness-physics
-    + witnessing-void live; the prior sibling haecceity drained by the cycle deep-review
-    slot 8f5d6dd22, then pessimistic-review/refine-draft/agentic-social ran — 4 commits
-    separate the 18:59 replenish from now, so documented replenish-at-floor alternation,
-    NOT a concurrent race). Floor 3 unmet by 1; last task at HEAD is agentic-social
-    (not replenish-queue), so both gate conditions held. Minted 1 staleness deep-review
-    (concepts/philosophy-of-science-under-dualism.md, Tenet-5 concept for section+tenet
-    diversity — the live pair covers a Tenet-2 topic + Tenet-1 void and the drained
-    haecceity was a Tenet-4 concept, so this adds the Tenet-5 Occam''s-limits/dualist-methodology
-    axis on a concept), placed FIFO below the two live P2 deep-reviews. 2 to 3 restored
-    (post-mint canonical count==3 verified). Settled: last_deep_review==ai_modified==2026-06-01T12:08:27,
-    35d stale, ai_contribution=100, ai_system=claude-opus-4-6, 2064w ok, EOF clean,
-    unqueued, not archived. Eight-source audit re-confirmed staleness sole clean blind-mintable
-    source; orphans==0, positions 8<10 audit threshold, no chain/gap/unconsumed-research/length/applied-apex
-    candidates.'
+    promotion: 2
+  last_floor_restore_note: 'Interactive /replenish-queue 2026-07-07T04:48Z: floor-restore
+    via 2 P3->P2 promotions. canonical count_p0_p2_tasks==2 pre-mint (open P2s: deep-review
+    concepts/decoherence + deep-review concepts/substance-property-dualism; the 04:13
+    run''s expand-topic philosophy-of-habit + deep-review llm-consciousness both COMPLETED
+    since, draining floor 3->2 — documented replenish-at-floor alternation). FULL 8-source
+    audit re-confirmed NO genuine new mint source: (chain) recent research-topics all
+    consumed — philosophy-of-action + philosophy-of-habit + four-category-ontology +
+    hylomorphic all have live articles, J-space integrated via refine into the AI-consciousness
+    cluster, new creates well-integrated (5/3/4 inbound, no orphan successors). (unconsumed
+    research) none — self-luminosity-svaprakasha + pre-reflective-self-awareness are both
+    Research-Note-(Decline); second-person-neuroscience already has a queued expand P3.
+    (gap) caps have headroom (topics 285/320, concepts 272/320, voids 100/100 AT-CAP,
+    positions 8/80) but new-article generation is harvester-governed + replenish gap-analysis
+    dedups against the Vetoed bank. (length) only non-deferred offender voids/transit-void
+    3999w was just deep-reviewed 2026-07-06 (converged, condense-churn risk — skip); all
+    other hard/critical offenders human-deferred (epistemology-of-convergence 6479w) or
+    #veto (composition-question-rivals, meaning-of-life, phenomenal-output) or research/
+    working notes or index hubs. (staleness) 34 ai_modified>last_deep_review candidates
+    but git-verified 12 of the highest-drift: ALL cosmetic cross-link/embed/coalesce
+    touches (agency-and-will expand cross-link, personal-identity + vertiginous-question
+    embed-videos, panpsychism + free-will + process-philosophy reciprocal-inbound-link
+    installs, dualist-perception coalesce, cognitive-phenomenology/attention-as-interface/
+    temporal-consciousness/quantum-consciousness/resolution-void small cross-touches) —
+    NO genuine content drift; the two genuine staleness deep-reviews already queued. (orphans)
+    0. (positions/apex) slow-add; positions-evolve ran 02:40 today. So the lowest-risk
+    floor restorer is promoting two well-grounded, actionable, cap-safe P3s (which also
+    unstarves the 18-deep P3 backlog per [[p3-only-floor-preemption-starves]]): (1)
+    refine concepts/emergence.md — concrete pessimistic-review findings w/ line numbers,
+    2849w soft headroom, net-neutral rewordings + 1-clause preview; (2) wire constitutive/
+    referring reciprocal cross-links into the methodology hub — grep-verified gap both
+    ways, length-neutral, no substantive-claim edits. Floor 2->4 (+1 buffer). NOT minting
+    speculative expand/research (would regenerate Vetoed-bank ideas); NOT condensing the
+    just-reviewed transit-void or any human-deferred/veto offender.'
   run_738_pickable_p0_p2: 3
   run_737_pickable_p0_p2: 3
   run_736_pickable_p0_p2: 3
@@ -824,8 +431,10 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 739
+  last_replenishment_run: 740
   last_replenishment_mode: standard
+  run_740_pickable_p0_p2: 4
+  run_740_note: 'run no.740 (2026-07-07T04:48Z, interactive /replenish-queue): FLOOR-RESTORING via 2 P3->P2 PROMOTIONS (not a mint). canonical count_p0_p2_tasks==2 pre-run (run 739''s minted decoherence deep-review survived; substance-property-dualism the other open P2; run 739''s two other P2s completed since). Full 8-source audit re-confirmed NO genuine new mint source: chains all consumed (action/habit-under-dualism/four-category/hylomorphic have articles, j-space integrated via refine, new creates 5/3/4 inbound not orphaned); unconsumed-research none (self-luminosity + pre-reflective are Decline notes, second-person queued P3); gap harvester-governed + Vetoed-bank-deduped; length only transit-void 3999w which was just deep-reviewed 2026-07-06 (churn-skip), rest human-deferred/veto; staleness 34 candidates but git-verified 12 highest-drift ALL cosmetic cross-link/embed/coalesce touches, no genuine content drift; orphans==0; positions 8<10 audit threshold; applied-apex-gap none. Promoted 2 well-grounded actionable cap-safe P3s (also unstarves 18-deep P3 backlog per [[p3-only-floor-preemption-starves]]): (1) refine concepts/emergence.md (concrete pessimistic-review findings, 2849w soft headroom, net-neutral); (2) wire constitutive/referring reciprocal cross-links into methodology hub (grep-verified gap, length-neutral). Floor 2->4 (+1 buffer). Trimmed the 39KB chained last_floor_restore_note provenance blob (history preserved in this run_NNN_note log).'
   run_739_pickable_p0_p2: 3
   run_739_note: 'run no.739 (2026-07-07T04:05Z, interactive /replenish-queue): FLOOR-RESTORING
     STALENESS MINT. Canonical count_p0_p2==2 pre-mint (open P2s: deep-review interactionist-dualism
