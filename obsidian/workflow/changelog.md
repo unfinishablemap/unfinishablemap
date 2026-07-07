@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T01:27:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/russellian-monism]]
+- **Word count**: 2691 → 2691 (0; no-op after real scrutiny, no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Drift focus (Pautz family-resolution) VERIFIED CORRECT**: 12d drift = commit d7c642db2 (corpus Pautz citation family-resolution) + 8a97c393c (intrinsic-nature cross-touch restating Pautz 2017 ref). Independently web-verified both Pautz works at publisher of record: Pautz 2015 "A Dilemma for Russellian Monists about Consciousness" (Alter & Nagasawa, Consciousness in the Physical World, OUP) = real-correct; Pautz 2017 "How Is Constitutive Russellian Monism… better than dualism?" (manuscript, reply to Roelofs's comments on Pautz 2015) = real-correct. The pre-refine "Pautz (2019), Phil. Studies 176, 2921-2946" form was UNFINDABLE across 3 searches — the 2019 form was the defect and the family-resolution correctly fixed it (did NOT propagate an error, per barrett-eight-vs-six). The eighth review's "verified Pautz 2019 Phil Studies" was a false-positive, now superseded. No lingering "2019"/"Phil Studies" on Pautz (all remaining 2019s = distinct verified Cutter). Also re-verified Brown 2025 (Philosophia 53:995-1007), Cutter 2019 (Analytic Philosophy 60(2):109-129), Hashemi 2024 (Erkenntnis) — all real-correct. Currency sweep: no superlatives. Calibration: RM-instability register honest, no possibility/probability slippage. Cross-links resolve; no cliché/label leakage. No-op hygiene: last_deep_review bumped only, ai_modified left at 2026-06-25.
+- **Engagement modes**: Pautz parity = Mode Three; Cutter instability = Mode Two/Three; Howell/Robinson contingency = Mode Two. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-07-russellian-monism]]
+
 ## 2026-07-07T01:18:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/auditory-consciousness-and-the-interface]]
