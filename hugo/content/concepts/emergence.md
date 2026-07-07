@@ -30,7 +30,7 @@ description: 'The Map uses strong-emergence vocabulary as a comparative register
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 01:12:17+00:00
+last_deep_review: 2026-07-07 12:18:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

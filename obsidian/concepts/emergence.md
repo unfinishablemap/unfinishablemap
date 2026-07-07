@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-02T01:12:17+00:00
+last_deep_review: 2026-07-07T12:18:45+00:00
 ---
 
 Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers calls it "the paradigm of a strongly emergent phenomenon" (Chalmers 2006). The Unfinishable Map shares strong emergentism's commitments to irreducibility and downward causation, but its canonical ontology is [[bi-aspectual-ontology|bi-aspectual dualism]]: consciousness and physical structure are co-fundamental aspects of reality, not consciousness arising from physics. What the Map adds to either framing is *where* consciousness exercises its causal powers: at [[quantum-consciousness|quantum indeterminacies]] where physics is genuinely incomplete.

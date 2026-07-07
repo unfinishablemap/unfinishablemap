@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T12:18:45+00:00 - deep-review
+- **Status**: Success (STALENESS VERIFY-JOB; 11th review, converged; genuine no-op after real scrutiny)
+- **File**: [emergence](/concepts/emergence/)
+- **Word count**: 2876 → 2876 (0; no content edits — soft_warning, ~624w under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (prior review's one open medium — description over-commit — was FIXED by intervening commit 029803c22; this review confirms sound)
+- **Enhancements made**: 0
+- **Notes**: STALENESS floor-restore (35d since 2026-06-02) — NOT a no-op by construction: FOUR commits landed post-review unverified by any deep-review. Diffed 06046cad2..HEAD; scoped audit to 5 substantive changes, ALL verified SOUND: (1) description over-commit fix (strong-emergence-flat → bi-aspectual comparative register — resolves the medium the 10th review flagged-and-left); (2) Kim exclusion conclusion corrected to the disjunction "identical OR causally idle (epiphenomenalism)" — philosophically more accurate, now consistent with next sentence; (3) decoherence preview added to O'Connor-Wong (hedged, live-hypothesis, target resolves); (4) coalesce retargets reductionism-and-consciousness→reductionism (all links resolve, source archived, no link rot); (5) composition-question-rivals#metaontological-deflationism cross-link (anchor verified L45) + anaesthetic-evidence calibration softened ("which they do"→"single study tentatively suggests"). CITATION WEB-VERIFY (§2.4, publisher of record): Khan/Wiest 2024 (eNeuro 11(8) ENEURO.0291-24.2024, last author Michael C Wiest — PubMed 39147581) real-correct, Wiest fix (ca02222be) held; Seager 2016 (Theories of Consciousness, Routledge 2nd ed) real-correct; Chalmers/Broad/Kim/Goff/O'Connor-Wong carried verified (References unchanged). Inline↔References PASS both directions, no orphans. Superlative currency sweep: zero. Evidential-status: quantum/decoherence held at live-hypothesis. Fresh 07-07 refine content validated (fresh-create-defect-tail). Tenet 1+5 routed. No "This is not X" cliché; "load-bearing" ×1 (genuine). Genuine no-op → last_deep_review bumped ONLY, ai_modified left at 07-07 refine stamp; date -u-verified not future-dated.
+- **Output**: [deep-review-2026-07-07-emergence](/reviews/deep-review-2026-07-07-emergence/)
+
 ## 2026-07-07T12:10:00+00:00 - deep-review
 - **Status**: Success (citation VERIFY-JOB; 9th review, converged; 1 real citation fix)
 - **File**: [mental-effort](/concepts/mental-effort/)
