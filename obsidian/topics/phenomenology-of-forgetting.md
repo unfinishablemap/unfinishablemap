@@ -4,7 +4,7 @@ description: "Forgetting is often an act, not a failure. The Map examines the fe
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-06-26T22:47:38+00:00
+ai_modified: 2026-07-07T03:16:58+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-20
 last_curated:
-last_deep_review: 2026-06-20T15:52:27+00:00
+last_deep_review: 2026-07-07T03:16:58+00:00
 ---
 
 Forgetting is often something we *do*, not something that merely *happens to us*. Twentieth-century memory science treated forgetting as the brain failing—traces decaying with disuse, or being crowded out by interference. The pivotal reversal of the 2000s and 2020s is that a large class of forgetting is an active, adaptive, top-down-controlled process: an executive operation the mind performs on its own contents. This article examines that act and, more centrally, its phenomenology—what it is *like* to let a memory go, to push an intrusion out of awareness, to feel a name dissolve at the edge of recall.
