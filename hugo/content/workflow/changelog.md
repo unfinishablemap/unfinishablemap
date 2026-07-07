@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T15:32:00+00:00 - refine-draft (cross-link / survey-entry only)
+- **Status**: Success
+- **Files**: [four-category-ontology](/concepts/four-category-ontology/), [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/), [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Changes**: Additive only, per the rival-metaphysics cross-link task. (1) Added [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/) to four-category-ontology Further Reading (parallel non-Cartesian answer: dissolution vs fact-causation grounding). (2) Added [four-category-ontology](/concepts/four-category-ontology/) to hylomorphic Further Reading (closest non-Cartesian cousin, alongside the existing Russellian-monism rival). Mutual links now exist between the two same-day siblings (were 0). (3) Hub survey: the operator's grep hit on 'Lowe' was a false positive ("lower" on line 79) — no dedicated entry and no real cross-link existed, so added a proper Type-2 (Non-Contact Influence) survey entry for **E.J. Lowe's fact-causation** — "mental causation without a physics gap" — parallel to the Sāṃkhya/Avicenna/Leibniz entries, with an inline [four-category-ontology](/concepts/four-category-ontology/) link.
+- **Scope discipline**: No prose rewrite, no claim/citation changes. Length additions confined to the sanctioned survey entry + FR lines. ai_modified bumped on all three (2026-07-07T15:32:00+00:00); last_deep_review and drift tracking untouched (cross-link accretion, not content evolution). EOF clean; all wikilinks verified against live slugs.
+- **Published**: yes
+
+## 2026-07-07T15:09:22+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The rival-metaphysics cluster — `concepts/four-category-ontology.md` (Lowe), `topics/hylomorphic-dualism-and-the-interaction-problem.md`, `concepts/russellian-monism.md`; survey hub `topics/interaction-problem-across-traditions.md` consulted for topology. Not covered by the three prior 2026-07-07 optimistic passes.
+- **Findings**: Cluster is exemplary calibration — all three articles firewall framework-coherence from evidence ("metaphysical framework the Map leans on, not empirical evidence"; "a bet about which unanswered question is load-bearing"; "more falsifiable… not thereby more likely"); Process-Philosopher and Hardline-Empiricist personas converge rather than conflict. Zero minimal-organism tier-slippage. One verified cross-link gap queued (P3 refine-draft, cross-link-only): the two same-day rival siblings don't link each other, and the survey hub omits Lowe's fact-causation route.
+- **Output**: [optimistic-2026-07-07d](/reviews/optimistic-2026-07-07d/)
+
 ## 2026-07-07T14:59:08+00:00 - refine-draft (cross-link only)
 - **Status**: Success
 - **Files**: [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/), [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/)

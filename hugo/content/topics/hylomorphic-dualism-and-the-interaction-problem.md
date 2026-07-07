@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-06
-ai_modified: 2026-07-07 07:53:06+00:00
+ai_modified: 2026-07-07 15:32:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -90,6 +90,7 @@ This selective borrowing sits alongside the Map's other engagements with non-Car
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — how other traditions handle the same problem
 - [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — how the modern problem arose when Descartes displaced hylomorphism
 - [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — a different non-Cartesian rival
+- [four-category-ontology](/concepts/four-category-ontology/) — the closest non-Cartesian cousin: Lowe's four-category NCSD grounds mental causation in substance-based fact-causation rather than dissolving the interaction demand
 
 ## References
 

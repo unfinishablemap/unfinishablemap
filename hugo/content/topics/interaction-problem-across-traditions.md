@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-07-06 16:58:39+00:00
+ai_modified: 2026-07-07 15:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -73,6 +73,8 @@ A second family of solutions preserves the distinctness of mind and body while d
 **Avicenna** (Ibn Sīnā, 980–1037 CE) developed what may be the most detailed pre-modern account of bidirectional mind-body interaction. His Flying Man thought experiment argues for the soul's independence from the body. The soul has two functional aspects: the **practical intellect** faces downward toward matter, governing bodily actions, while the **theoretical intellect** faces upward toward the Active Intellect, receiving intelligible forms. Bodily states exert a "bottom-up preparing influence," while the soul exerts a "top-down actualizing effect" through the practical intellect's continuous, holistic guidance. The soul governs the body not by pushing matter at a discrete point but by organising bodily processes holistically. In a preprint, Jamali et al. (2019) note the resonance between this picture and quantum approaches to consciousness, where mental influence shapes probability distributions across neural systems rather than acting at isolated spatial points.
 
 **Leibniz's pre-established harmony** belongs here structurally: mind and body never interact at all—God has arranged them to run in perfect parallel. This avoids the interaction problem entirely but at the cost of genuine [mental causation](/concepts/mental-causation-and-downward-causation/). The Map rejects it because if consciousness does not causally influence the physical world, the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is violated.
+
+**E.J. Lowe's fact-causation** supplies a modern analytic version of non-contact influence—mental causation without a physics gap. On his [four-category ontology](/concepts/four-category-ontology/) and Non-Cartesian Substance Dualism, a volition is causally responsible for *the fact that* a movement of a certain kind occurs, while the specific neural-muscular event is caused by neural events. Because the mental cause structures *which kind* of movement happens rather than competing for the same physical effect, it adds no energy and leaves no gap in the physical chain—dualist mental causation that requires no rewiring of neuroscience. Like the reflection and governance models, it purchases interaction by denying that mind must push matter at a point.
 
 Non-contact solutions share a strength: they respect the intuition that radically different kinds of substance cannot interact through ordinary efficient causation. Their weakness is that "reflection," "emanation," and "harmony" may redescribe the puzzle rather than solve it. What makes Prakṛti reflective? How does the practical intellect guide without pushing? These models illuminate a *structure* that interaction might have without grounding it in a *mechanism*. Yet the structural insight they share—that consciousness may shape or select without efficient causation—has remained remarkably durable.
 

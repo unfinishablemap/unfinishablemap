@@ -4,7 +4,7 @@ description: "E.J. Lowe's four-category ontology grounds substance causation: su
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-06T23:16:54+00:00
+ai_modified: 2026-07-07T15:32:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -91,6 +91,7 @@ A residual worry the Map inherits rather than settles: Lowe's "spontaneous" voli
 - [[substance-property-dualism]] — Why the Map stays neutral between substance and property dualism
 - [[mental-causation-and-downward-causation]] — The exclusion problem Lowe's fact-causation model answers
 - [[positions/agency-and-will]] — The Map's registered positions on agency, including the Libet timing interpretation
+- [[hylomorphic-dualism-and-the-interaction-problem]] — A parallel non-Cartesian substance-metaphysics answer: hylomorphism *dissolves* the interaction demand where the four-category ontology *grounds* fact-causation
 
 ## References
 

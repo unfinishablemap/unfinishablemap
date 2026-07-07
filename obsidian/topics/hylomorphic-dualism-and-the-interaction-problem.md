@@ -4,7 +4,7 @@ description: "A human-AI examination of hylomorphism as a serious rival to the M
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-07T07:53:06+00:00
+ai_modified: 2026-07-07T15:32:00+00:00
 last_deep_review: 2026-07-06T15:55:51+00:00
 draft: false
 topics: []
@@ -87,6 +87,7 @@ This selective borrowing sits alongside the Map's other engagements with non-Car
 - [[interaction-problem-across-traditions]] — how other traditions handle the same problem
 - [[history-of-the-interaction-problem]] — how the modern problem arose when Descartes displaced hylomorphism
 - [[russellian-monism-versus-bi-aspectual-dualism]] — a different non-Cartesian rival
+- [[four-category-ontology]] — the closest non-Cartesian cousin: Lowe's four-category NCSD grounds mental causation in substance-based fact-causation rather than dissolving the interaction demand
 
 ## References
 
