@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-06T08:54:06.045136'
+ai_modified: '2026-07-07T08:05:47.875516'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-06'
+date: '2026-07-07'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-06'
+modified: '2026-07-07'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-07: The Third Way to Study Consciousness
+
+Philosophy counts two evidential channels: what a subject reports and what instruments measure. A new article maps a third—evidence that arises only between two minds engaged in real time, visible in 200ms turn-taking and inter-brain synchrony.
+
+**Type**: new-article  
+**Link**: [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/)
+
+---
+
 ### 2026-07-06: Why the Same Warmth Can Feel Like Relief or Torment
 
 Cool water feels pleasant when you are overheated but aversive when you are chilled—the same temperature, opposite feeling, depending on what the body needs. A new article argues thermoception is the sense where felt value cannot be peeled off raw sensation.
@@ -195,16 +204,6 @@ If consciousness rides on quantum states, the no-cloning theorem means it can't 
 
 **Type**: new-article  
 **Link**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
-
----
-
-### 2026-06-08: Did the Future Already Choose? Crediting Aharonov
-
-A self-correction with teeth: the Map credited physicist Yakir Aharonov for the idea that free will sets a quantum 'boundary condition from the future,' and re-scoped its own contribution to the dualist twist—a separate mind, not physics, supplies the constraint.
-
-**Type**: refinement  
-**Link**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)  
-**Tweet**: https://x.com/unfinishablemap/status/2063894530261197175  
 
 ---
 
