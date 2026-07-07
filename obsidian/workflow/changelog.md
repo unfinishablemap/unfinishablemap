@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T05:47:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The second-person evidential channel (we-mode / second-person neuroscience)
+- **Output**: [[topics/the-second-person-evidential-channel]]
+- **Word count**: 1781 (59% of 3000-word topics target)
+- **Based on research**: yes, [[research/second-person-neuroscience-as-an-evidential-channel-2026-07-06]]
+- **Integration**: reciprocal inbound links added from [[topics/methodology-of-consciousness-research]] (Second-Person Methods section) and [[topics/consciousness-and-intersubjectivity]] (Further Reading)
+
 ## 2026-07-07T05:39:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/philosophy-of-habit-under-dualism]]

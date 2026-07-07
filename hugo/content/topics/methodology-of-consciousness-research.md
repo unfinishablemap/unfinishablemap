@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-07-07 05:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -118,6 +118,8 @@ The distinction between intersubjectivity and objectivity matters here. Objectiv
 
 Second-person methods may access phenomenal consciousness where purely third-person methods cannot. Objective methods succeed by eliminating perspective, but phenomenal consciousness *is* perspective. Intersubjective methods acknowledge this while showing that something can be shared despite it — a middle path between solipsism and [eliminativism](/topics/eliminative-materialism/). See [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) for how genuine understanding of another person requires phenomenal consciousness.
 
+Husserl's appresentation is the phenomenological root of this channel, but it has since acquired an empirical program. [Second-person neuroscience](/topics/the-second-person-evidential-channel/) (Schilbach et al., 2013) treats real-time reciprocal engagement as a distinct *evidential* channel — signed by contingent turn-taking timing and measurable as dyad-level inter-brain coupling in hyperscanning — that reaches what neither introspection nor third-person spectating can. The Map endorses the channel while declining the enactivist reading that would make interaction constitutive of consciousness rather than merely enabling of the evidence; even this widened evidence base does not deliver another's qualia, which the Map reads as further support for ontological difference.
+
 ## The Explanatory Gap and Epistemic Asymmetry
 
 The [explanatory-gap](/concepts/explanatory-gap/) (Levine, 1983) captures why third-person methods struggle with phenomenology. Even complete knowledge of neural mechanisms leaves unexplained why those mechanisms produce *this* particular phenomenal character. "Pain is C-fibre firing" may be physiologically correct, but it doesn't explain why C-fibre firing feels like *that* — the badness, the urgency, the specific quale of pain.
@@ -161,6 +163,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [introspection](/concepts/introspection/) — The reliability debate, process/content distinction, and the case for restoring introspection as a serious method
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Competing models of introspective knowledge, the sui generis account, and how first-person reports gain evidential standing
+- [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/) — The distinction that separates the apodictic claim (certain *that* experience exists) from the fallible introspective judgement about its structure
 - [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Empirical integration of first-person and third-person methods
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Nagel's argument that objectivity has structural limits
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanation leaves phenomenal character unexplained

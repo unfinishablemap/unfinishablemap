@@ -4,7 +4,7 @@ description: "Science achieved its power by excluding subjectivity. Consciousnes
 created: 2026-01-23
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-07-07T05:26:00+00:00
+ai_modified: 2026-07-07T05:47:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -114,6 +114,8 @@ Second-person approaches use empathic [[intersubjectivity]] to access others' ex
 The distinction between intersubjectivity and objectivity matters here. Objectivity aspires to the "view from nowhere" — perspective-free description that eliminates the observer. Intersubjectivity retains viewpoint while discovering that different perspectives converge. When you describe your experience of red and I recognise the description as matching mine, we achieve intersubjective agreement without either of us abandoning first-person perspective.
 
 Second-person methods may access phenomenal consciousness where purely third-person methods cannot. Objective methods succeed by eliminating perspective, but phenomenal consciousness *is* perspective. Intersubjective methods acknowledge this while showing that something can be shared despite it — a middle path between solipsism and [[eliminative-materialism|eliminativism]]. See [[consciousness-and-social-understanding]] for how genuine understanding of another person requires phenomenal consciousness.
+
+Husserl's appresentation is the phenomenological root of this channel, but it has since acquired an empirical program. [[the-second-person-evidential-channel|Second-person neuroscience]] (Schilbach et al., 2013) treats real-time reciprocal engagement as a distinct *evidential* channel — signed by contingent turn-taking timing and measurable as dyad-level inter-brain coupling in hyperscanning — that reaches what neither introspection nor third-person spectating can. The Map endorses the channel while declining the enactivist reading that would make interaction constitutive of consciousness rather than merely enabling of the evidence; even this widened evidence base does not deliver another's qualia, which the Map reads as further support for ontological difference.
 
 ## The Explanatory Gap and Epistemic Asymmetry
 

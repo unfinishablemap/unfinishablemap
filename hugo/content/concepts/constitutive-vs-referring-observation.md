@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-06-01 16:32:09+00:00
+ai_modified: 2026-07-07 05:26:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -101,6 +101,7 @@ The distinction therefore identifies the location of the bedrock disagreement ra
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability illustration of the same structure
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why Tenet 5 limits parsimony's reach across constitutive/referring divides
 - [self-stultification](/concepts/self-stultification/) — Related framework for self-undermining-position arguments
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Where the distinction underwrites the split between introspection's fallible judgement and its apodictic certainty that experience exists
 
 ## References
 

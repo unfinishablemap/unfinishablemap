@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-07-07 04:25:29+00:00
+ai_modified: 2026-07-07 05:39:13+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Habit is the interface's delegation function in action—where cons
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-07 05:39:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +53,7 @@ John Dewey's *Human Nature and Conduct* (1922) makes habit the organizing catego
 
 Lambros Malafouris's *How Things Shape the Mind* (2013) radicalizes the transactional insight through **Material Engagement Theory**. Cognition, Malafouris argues, arises *through* interaction with materials, tools, and environments, not solely inside the brain. The potter does not fully represent the pot in advance and impose it; the form emerges in the ongoing, habituated engagement of hand, wheel, and clay. Skill and habit are enacted at the **brain-body-thing** boundary, where the material scaffold is constitutive of the cognitive act rather than a mere external prop.
 
-Together, Dewey and Malafouris establish a claim the Map treats as load-bearing for its own reading: habit's traces are not only neural but *material*. The worn tool, the shaped clay, the grooved path are physical residues of past conscious engagement that then constrain and enable future action.
+Together, Dewey and Malafouris establish a claim the Map's own reading rests on: habit's traces are not only neural but *material*. The worn tool, the shaped clay, the grooved path are physical residues of past conscious engagement that then constrain and enable future action.
 
 ## The Cognitive-Science Signature: Cue-Triggered and Outcome-Insensitive
 

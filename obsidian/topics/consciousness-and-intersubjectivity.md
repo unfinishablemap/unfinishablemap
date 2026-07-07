@@ -4,7 +4,7 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-06-24T12:28:42+00:00
+ai_modified: 2026-07-07T05:47:00+00:00
 last_deep_review: 2026-06-24T12:28:42+00:00
 draft: false
 topics:
@@ -129,6 +129,7 @@ The Map's third position — ontologically individual, phenomenologically enrich
 - [[consciousness-and-collective-phenomena]] — "We-consciousness" and shared intentionality
 - [[voids-between-minds]] — Three structural limits on access between consciousnesses: existence, encounter, and sharing
 
+- [[the-second-person-evidential-channel]] — Reciprocal engagement as a distinct evidential channel for consciousness research, complementing first- and third-person methods
 - [[problem-of-other-minds]] — The epistemic puzzle that intersubjectivity addresses
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires phenomenal subjects
 - [[the-self-minimal-narrative-and-substantial]] — Three layers of selfhood and how intersubjective encounter operates across them

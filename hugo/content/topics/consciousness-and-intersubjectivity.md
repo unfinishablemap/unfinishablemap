@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-06-24 12:28:42+00:00
+ai_modified: 2026-07-07 05:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -131,6 +131,7 @@ The Map's third position — ontologically individual, phenomenologically enrich
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — "We-consciousness" and shared intentionality
 - [voids-between-minds](/voids/voids-between-minds/) — Three structural limits on access between consciousnesses: existence, encounter, and sharing
 
+- [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/) — Reciprocal engagement as a distinct evidential channel for consciousness research, complementing first- and third-person methods
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle that intersubjectivity addresses
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and how intersubjective encounter operates across them
