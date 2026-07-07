@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-07T18:14:31.922720+00:00'
-session_count: 14027
+last_updated: '2026-07-07T18:16:39.939792+00:00'
+session_count: 14028
 cycle_position: 10320
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-07-07T18:14:31.922720+00:00'
   deep-review: '2026-07-07T17:46:13.953614+00:00'
   tune-system: '2026-07-06T22:40:49.306250+00:00'
-  research-voids: '2026-07-07T07:30:37.671338+00:00'
+  research-voids: '2026-07-07T18:16:39.939792+00:00'
   coalesce: '2026-07-07T16:23:14.137318+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-07T07:45:47.069425+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-07'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-07'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: check-links
   type: check-links
+  date: '2026-07-07'
+  outcome: success
+- task: research-voids
+  type: research-voids
   date: '2026-07-07'
   outcome: success
 agentic_social:
@@ -458,10 +458,32 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 2
   p3_tasks: 20
   needs_replenishment: false
-  loop_pickable_open: 1
+  loop_pickable_open: 2
+  last_floor_restore_note_2026_07_07_18_23Z: 'Interactive /replenish-queue 2026-07-07T18:23Z:
+    floor-restore at floor 1 (SINGLE /unfin-cycle loop, NOT concurrent-replenish-race).
+    Minted exactly ONE task: P2 cross-review of topics/chinese-philosophy-of-mind.md,
+    the ~2062w opus-4-8 article CREATED THIS SESSION whose expand-topic skipped its
+    cross-review successor (expand-topic-skips-integration-chain). Grep-confirmed no
+    prior cross-review task named it (only the completed expand-topic at Completed line
+    ~1360). 2 reciprocal inbound links verified present (integration done: the-hard-problem-in-non-western-philosophy
+    + cross-traditional-convergence-on-consciousness-irreducibility both link in). Canonical
+    count_p0_p2_tasks==1 pre-mint (only delegatory-causation refine-draft P2 pickable),
+    restores 1->2 (expected replenish-at-floor alternation, single genuine mint NOT
+    filler-to-3). git HEAD == d07697335 auto(research-voids); last task != replenish-queue.
+    Scope: web-verify every external cite 3-state in-context (Chan 1963 A Source Book
+    in Chinese Philosophy Princeton; Wang Yangming Instructions for Practical Living/Chuanxilu
+    trans. Chan Columbia; Needham 1956 Science and Civilisation in China Vol 2 Cambridge;
+    SEP Van Norden Wang Yangming + SEP Thompson Zhu Xi -- the two SEP authors are highest-risk,
+    creating fork already self-corrected 2 fabricated SEP authors during creation);
+    confirm calibration guardrail (Chinese organicism = basin-edge falsification-test-that-SURVIVES,
+    framework-dependence vs depth-of-inquiry held as competing unsettled readings, must
+    NOT contradict anchor cross-traditional-convergence); verify Tenet 1+5 routing.
+    OTHER SEVEN SOURCES unchanged from 14:56Z audit and remain exhausted -- NO manufactured
+    converged-no-op deep-review, NO re-mint of reverted j-space/hylomorphism duplicates,
+    blocked flagship human-decision + human-coalesce candidates untouched.'
   last_no_mint_audit_2026_07_07_14_56Z: 'Interactive /replenish-queue 2026-07-07T14:56Z:
     HONEST NO-MINT at floor 0 (SINGLE /unfin-cycle loop, NOT concurrent-replenish-race;
     live count_p0_p2_tasks==0 re-verified -- the only P2 headers are the three #veto
@@ -512,7 +534,7 @@ queue_status:
     routing. OTHER SEVEN SOURCES unchanged from 14:56Z audit and remain exhausted
     -- NO manufactured converged-no-op deep-review, NO re-mint of reverted j-space/hylomorphism
     duplicates, blocked flagship human-decision + human-coalesce candidates untouched.'
-  last_replenishment: '2026-07-07T17:25:19+00:00'
+  last_replenishment: '2026-07-07T18:23:48+00:00'
   replenishment_source_counts:
     chain: 1
   last_floor_restore_note_2026_07_07_14_25Z: 'Interactive /replenish-queue 2026-07-07T14:25Z:
