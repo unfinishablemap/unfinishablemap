@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T09:54:45+00:00 - deep-review
+- **Status**: Success (no-op — converged after 13 reviews; verified clean)
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Word count**: 3549 → 3549 (no content change; last_deep_review bumped only, ai_modified left at 2026-06-24 per no-op hygiene)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified (§2.4)**: fast-moving quantum-bio/quantum-mind cluster all real-correct at publisher of record — Kerskens & López Pérez 2022 (J.Phys.Comm. 6(10):105001; corpus author-sweep López Pérez CONFIRMED correct); Denton et al. 2024 (Nat.Commun. 15:10823, DOI …55124-x); Fisher 2015 (Ann.Phys. 362:593–602); Tegmark 2000 (Phys.Rev.E 61:4194–4206); Wiest 2025 (Neurosci.Conscious. 2025(1):niaf011); Tomaz et al. 2025 (Philosophical Magazine, DOI …2601922); epothilone-B prose claim = eNeuro 11(8) 2024 (PMID 39147581). Escolà-Gascón 2025 (CSBJ 30:21–40) re-confirmed. No fabricated/wrong-metadata/currency-superseded cites; superlative scan empty. Duch section still Mode-Three (no boundary-substitution/label leakage). Drift since 2026-06-02 (parapsychology-firewall sentence + link, Kerskens sweep, prose tightenings) all cosmetic & clean; all touched wikilinks resolve; clean EOF.
+- **Length**: ~49w over concepts hard ceiling (reference/link-list mass, core prose ~2810 ≈ soft) → flagged as P3 HUMAN LENGTH DECISION, NOT auto-condensed
+- **Output**: [deep-review-2026-07-07-quantum-consciousness](/reviews/deep-review-2026-07-07-quantum-consciousness/)
+
 ## 2026-07-07T09:42:50+00:00 - deep-review
 - **Status**: Success (no-op — converged, verified clean)
 - **File**: [resolution-void](/voids/resolution-void/)

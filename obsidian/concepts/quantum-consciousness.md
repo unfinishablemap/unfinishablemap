@@ -42,7 +42,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-06-02T03:55:33+00:00
+last_deep_review: 2026-07-07T09:54:45+00:00
 ---
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level—still contested, proposing mechanisms for consciousness to influence brain activity without violating physical law.

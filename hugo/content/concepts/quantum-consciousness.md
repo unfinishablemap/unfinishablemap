@@ -27,7 +27,7 @@ description: 'How consciousness might interact with quantum mechanics: Orch OR m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 03:55:33+00:00
+last_deep_review: 2026-07-07 09:54:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
