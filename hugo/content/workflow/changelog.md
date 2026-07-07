@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T16:56:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Word count**: 3601 → 3601 (no prose change; honest no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: closed the gap the 2026-06-03 pass left — web-verified the 10 older foundational cites (Ramachandran 1992/1996/1998, Melzack 1990/1997, Flor 1995, Brugger 2000, Price 2006, Kiverstein 2022, Chan 2007) at publisher of record by title+venue. ALL real-correct; no metadata errors, no fabrications. Substantive citation set now fully verified (10 here + 5 on 2026-06-03).
+- **Currency sweep**: no superlatives flagged; Schone 2025 is the current cortical-map-stability frontier and framing is hedged.
+- **Convergence**: fourth-pass; calibration discipline intact, wikilinks resolve live, no style/EOF issues. `last_deep_review` bumped only (ai_modified unchanged, content untouched).
+- **Output**: [deep-review-2026-07-07-phantom-limb-phenomena](/reviews/deep-review-2026-07-07-phantom-limb-phenomena/)
+
 ## 2026-07-07T16:40:57+00:00 - refine-draft (cross-link-only, altered-states/filter-model cluster)
 - **Status**: Success
 - **Files**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/), [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/), [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)

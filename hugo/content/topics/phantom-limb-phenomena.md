@@ -22,7 +22,7 @@ description: Phantom limbs reveal that bodily experience is brain-constructed an
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 22:30:32+00:00
+last_deep_review: 2026-07-07 16:56:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
