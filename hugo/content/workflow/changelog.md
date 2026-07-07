@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T08:28:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Word count**: ~3130 → ~3130 (+0; length-neutral, below 3500 concepts hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (citation metadata completed for Fürst 2017 [added year/vol/pp], Fürst 2019 [vol/pp], Lennon 2023 [chapter-in-Kriegel-ed. not monograph]) via §2.4 publisher-of-record web-verify; 5 task-named cites (Chudnoff/Pitt/Strawson/Bayne-Montague/Horgan-Tienson) all real-correct
+- **Output**: [deep-review-2026-07-07-cognitive-phenomenology](/reviews/deep-review-2026-07-07-cognitive-phenomenology/)
+
 ## 2026-07-07T08:22:17+00:00 - deep-review
 - **Status**: Success (no-op convergence)
 - **File**: [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/)

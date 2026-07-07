@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-26 10:01:43+00:00
+ai_modified: 2026-07-07 08:28:29+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ description: Is there something it's like to think, beyond sensory accompaniment
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 09:30:00+00:00
+last_deep_review: 2026-07-07 08:28:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -247,8 +247,8 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 1. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
 1. Tye, M. (1995). *Ten Problems of Consciousness*. MIT Press.
-1. Fürst, M. On the Limits of the Method of Phenomenal Contrast. *Journal of the American Philosophical Association*.
-1. Fürst, M. (2019). On the Conceivability of a Cognitive Phenomenology Zombie. *Dialectica*.
-1. Lennon, P. (2023). Aphantasia and Conscious Thought. Oxford University Press.
+1. Fürst, M. (2017). On the Limits of the Method of Phenomenal Contrast. *Journal of the American Philosophical Association*, 3(2), 168-188.
+1. Fürst, M. (2019). On the Conceivability of a Cognitive Phenomenology Zombie. *Dialectica*, 73(1-2), 105-127.
+1. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press.
 1. Thomas, N. The Imageless Thought Controversy. In *Stanford Encyclopedia of Philosophy* (Mental Imagery).
 1. Internet Encyclopedia of Philosophy. Cognitive Phenomenology. https://iep.utm.edu/cognitive-phenomenology/

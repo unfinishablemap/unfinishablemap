@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T08:28:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cognitive-phenomenology]]
+- **Word count**: ~3130 → ~3130 (+0; length-neutral, below 3500 concepts hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (citation metadata completed for Fürst 2017 [added year/vol/pp], Fürst 2019 [vol/pp], Lennon 2023 [chapter-in-Kriegel-ed. not monograph]) via §2.4 publisher-of-record web-verify; 5 task-named cites (Chudnoff/Pitt/Strawson/Bayne-Montague/Horgan-Tienson) all real-correct
+- **Output**: [[reviews/deep-review-2026-07-07-cognitive-phenomenology]]
+
 ## 2026-07-07T08:22:17+00:00 - deep-review
 - **Status**: Success (no-op convergence)
 - **File**: [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]]
