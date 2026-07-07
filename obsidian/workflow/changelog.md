@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T00:49:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/probability-problem-in-many-worlds]]
+- **Word count**: 3843 → 3843 (0; pure verification pass, no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Drift-focus**: 2026-06-24 citation-normalization (Friederich & Dawid 2022 page range 711-736 → 711-721) web-verified at CrossRef (DOI 10.1093/bjps/axaa002) + RUG publisher-of-record — landed CORRECTLY (fixed the prior review's erroneous 711-736, no barrett-style regression). Zhang 2026 / Saunders 2021 / Short 2023 / Sebens-Carroll 2018 / Baker 2007 / Lewis 2007 re-verified real-correct; Wallace 2003 415-438 no regression; currency sweep empty; many-minds integration reciprocates; calibration + reasoning-mode + Tenet-4 register clean. Author-order Friederich/Dawid contested in the wild (CrossRef Dawid-first vs article/BJPS-blog Friederich-first) — left as-is, internally consistent, deprioritized dimension. Genuine no-op: last_deep_review bumped, ai_modified left at 2026-06-24.
+- **Output**: [[reviews/deep-review-2026-07-07-probability-problem-in-many-worlds]]
+
 ## 2026-07-07T01:05:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Recently-modified agency/substance-causation cluster ([[concepts/four-category-ontology]], created 2026-07-06) plus [[topics/testing-consciousness-collapse]], [[topics/cross-traditional-convergence-on-consciousness-irreducibility]], [[concepts/galilean-exclusion]]. Finding: exemplary calibration — Process Philosopher and Hardline Empiricist personas *converge* in praising four-category-ontology (substance-causal framing embraced, explicitly barred from evidential work: "a metaphysical framework the Map leans on, not empirical evidence for dualism"). No calibration concerns flagged. Corpus mature and near caps (topics ~285/320, concepts ~273/320); one P3 refine/cross-review task queued (consolidate structuring-vs-difference-making causation) rather than new pages.
