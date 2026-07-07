@@ -19,7 +19,7 @@ description: Temperature is the modality where felt valence is least separable f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 01:52:00+00:00
+last_deep_review: 2026-07-07 11:38:27+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'

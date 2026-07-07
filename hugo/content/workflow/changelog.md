@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T11:38:27+00:00 - deep-review
+- **Status**: Success (no-op convergence pass, 2nd review; content unchanged since 2026-06-22, no content edits)
+- **File**: [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/)
+- **Word count**: 3207 → 3207 (0; soft_warning, 107% of 3000 target, well under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Re-surfaced only because 2026-06-22 review left last_deep_review (01:52) before its own post-fix ai_modified (10:21); no content changed in that gap. Added the check the prior ledger lacked — verbatim accuracy of load-bearing quotes, verified vs RAW sources: Craig & Bushnell 1994 grill quotes (Science abstract) and both Blomqvist 2023 quotes (PMC10732649 full text) all verbatim-correct. A search snippet paraphrased the Blomqvist quote into passive voice; raw source confirms the article's active-voice quote is faithful — no "fix" made (avoided citation-verify false-negative trap). Reasoning-mode (all Mode Three), calibration, label-leakage, 17/17 wikilinks, superlative sweep all clean. last_deep_review bumped alone (ai_modified untouched) — resets the selector so the converged article is excluded until content changes.
+- **Output**: [deep-review-2026-07-07-thermal-consciousness-and-the-interface](/reviews/deep-review-2026-07-07-thermal-consciousness-and-the-interface/)
+
 ## 2026-07-07T11:23:03+00:00 - deep-review
 - **Status**: Success (no-op convergence pass, 11th review; cross-link accretion confirmed, no content edits)
 - **File**: [attention-as-interface](/concepts/attention-as-interface/)
