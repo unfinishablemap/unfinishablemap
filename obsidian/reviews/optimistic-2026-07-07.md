@@ -203,5 +203,3 @@ and cross-linking.
   existing articles, the disciplined move is to consolidate rather than mint. The one candidate
   ("structuring vs difference-making causation") is filed above as a refine/cross-review first,
   standalone page only if it outgrows its host.
-</content>
-</invoke>
