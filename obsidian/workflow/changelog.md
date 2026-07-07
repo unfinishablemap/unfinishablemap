@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T00:02:00+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — drift-verification pass)
+- **File**: [[concepts/intersubjectivity]]
+- **Word count**: 2632 → 2632 (+0, length-neutral at concepts 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Drift = one 2026-06-13 refine (coalesce repoint of `epistemology-of-other-minds-under-dualism` → `problem-of-other-minds`); landed cleanly, repoints to live replacement (superseded_by verified), anchor valid. Lutz et al. 2004 re-verified real-correct at PNAS; no superlative currency issues; evidential-status calibration intact (Mode Three Dennett engagement); no leakage. `last_deep_review` bumped only; `ai_modified` left 2026-06-13.
+- **Output**: [[reviews/deep-review-2026-07-07-intersubjectivity]]
+
 ## 2026-07-06T23:49:16+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny — drift-verification pass)
 - **File**: [[apex/contemplative-path]]

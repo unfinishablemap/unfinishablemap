@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review: 2026-06-01T09:30:00+00:00
+last_deep_review: 2026-07-07T00:02:00+00:00
 ---
 
 Intersubjectivity is the shared space between conscious minds—the domain where first-person experiences can be communicated, validated, and mutually understood without being reduced to third-person physical descriptions. For consciousness studies, intersubjectivity matters because it offers a middle path between solipsism (only my consciousness is accessible) and eliminativism (consciousness is just neural activity describable from outside). If phenomenal experience can be intersubjectively accessed, this supports the reality of consciousness while explaining how we can have genuine knowledge of other minds.
