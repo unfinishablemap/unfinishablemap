@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T09:04:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Original score**: n/a (mature article; targeted fixes from [[reviews/pessimistic-2026-07-07b-functionalism]])
+- **Word count**: ~3034 → 3353 (net +~320; under 3500 concepts hard ceiling, soft_warning)
+- **Changes**: (1) §Absent Qualia — supplied the bridging reason the cross-domain phenomenology/function dissociation cluster resists piecemeal multi-realizability absorption (function held matched by design; recurring residue is one structural pattern, weight in shared structure not headcount), replacing the bare "joint package" assertion. (2) §Semantic Externalism — added the wide/long-armed functionalism reply and the Map's judgement that it concedes too much (buys content by importing the external relations internal specification was meant to capture). (3) §Specification Problem — conceded the Map's own account owes an identical interface-specification burden (line 77); converted to an honest contrast: functionalism claims settled substrate-neutral closure the dilemma bites directly, the Map advertises the interface question as open/empirical. (4) §Empirical Tractability — reclassified the "AI asymmetries" line as a research-programme expectation to be operationalized (candidate: persistent shortfall on novel hard-problem-insight tasks at parity of scale), matching the discipline of §What Would Challenge This View?. Minor: line 51 "dominant position" → "leading account of the nature of mental states."
+- **Preserved**: contested-inference flagging, illusionism framework-boundary honesty, in-framework sufficiency-debt argument. Anti-functionalist case not weakened; citations not re-verified (vetted 2026-06-20).
+- **Published**: yes
+
 ## 2026-07-07T09:00:08+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/functionalism]] (~2,400 words; last deep review 2026-06-20)
