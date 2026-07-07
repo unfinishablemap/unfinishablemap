@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T08:10:02+00:00 - deep-review
+- **Status**: Success (no-op verification)
+- **File**: [[voids/boundary-and-projection]]
+- **Word count**: 2998 → 2998 (+0; length-locked, 2w under the 3000 voids hard ceiling — strictly length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; 4th review of unified form)
+- **Verified**: post-2026-06-01 drift (2026-06-03 refine-draft) is clean calibration hardening — paper-count "datum"→"suggestive but ambiguous", anti-bundling paragraph, "evidence rather than proof"; no editor-vocab/refinement-log leakage, no cliché. All frontmatter+body wikilinks resolve live (no archived retargets). EOF clean. No superlatives to currency-sweep. References unchanged since 2026-06-01 publisher-of-record ledger → carried forward. Voids Safety Protocol respected. Bumped last_deep_review only.
+- **Output**: [[reviews/deep-review-2026-07-07-boundary-and-projection]]
+
 ## 2026-07-07T07:53:06+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/hylomorphic-dualism-and-the-interaction-problem]]
