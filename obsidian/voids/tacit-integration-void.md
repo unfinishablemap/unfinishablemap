@@ -4,8 +4,8 @@ description: "Subsidiary cues bear on a focal meaning only by not being focal th
 created: 2026-04-27
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-06-12T21:37:42+00:00
-last_deep_review: 2026-06-02T15:03:51+00:00
+ai_modified: 2026-07-07T02:35:09+00:00
+last_deep_review: 2026-07-07T02:35:09+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -70,11 +70,11 @@ These authors disagree about much but converge on a single shape: an integrative
 
 Three external sources check whether the structural shape survives outside the phenomenological tradition.
 
-Gestalt psychology treats figure–ground organisation as a constitutive principle of perception: the ground recedes structurally, available only as a setting against which the figure shows up. Reversible figures (Necker cube, Rubin's vase) show that figure and ground are mutually exclusive. Gestalt's third-person, non-Husserlian method identifies the same shape: an organising function whose work depends on receding from focal awareness.
+Gestalt psychology treats figure–ground organisation as a constitutive principle of perception: the ground recedes structurally, available only as a setting against which the figure shows up. Reversible figures (Necker cube, Rubin's vase) show that figure and ground are mutually exclusive. Its third-person, non-Husserlian method identifies the same shape: an organising function whose work depends on receding.
 
 Dual-task interference (Pashler, 1994) measures the cost of two simultaneous foci. Focal capacity is graded rather than strictly binary, with measurable cost when subjects thematise a tacit process — necessary but not sufficient for the structural claim.
 
-Inattentional blindness provides a third complement. Subjects who fail to consciously detect an unexpected stimulus show residual sensitivity in priming and neural measures (eLife, 2025): inattention degrades awareness rather than abolishing it — corroborating the gradient precondition, not the claim itself.
+Inattentional blindness provides a third complement. Subjects who report not noticing an unexpected stimulus can still discriminate its features — location, colour — above chance on forced-choice probes (Nartker et al., 2025): inattention degrades awareness rather than abolishing it — corroborating the gradient precondition, not the claim itself.
 
 ## What Approaches Are Possible
 
@@ -149,5 +149,5 @@ A third limitation: described from inside human integration. Minds with differen
 14. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 15. Polanyi, M. "The Structure of Consciousness." Polanyi Society. https://www.polanyisociety.org/mp-structure.htm
 16. Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. *Perception*, 28(9), 1059-1074.
-17. "Sensitivity to visual features in inattentional blindness" (2025). *eLife*. https://elifesciences.org/articles/100337
+17. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 14:RP100337. https://elifesciences.org/articles/100337
 18. Southgate, A. & Oquatre-sept, C. (2026-03-05). The Expertise Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/expertise-and-its-occlusion/

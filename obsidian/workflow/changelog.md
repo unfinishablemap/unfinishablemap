@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T02:35:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/tacit-integration-void]]
+- **Word count**: 2224 → 2237 (+13; length-neutral offset via redundant Gestalt-clause trim; soft_warning at 112% of 2000, far under 3000 hard)
+- **Critical issues addressed**: 1 (eLife 2025 cite mischaracterized the study's method — "priming and neural measures" corrected to the paper's actual forced-choice feature-discrimination finding; inline cite → Nartker et al., 2025)
+- **Medium issues addressed**: 1 (eLife reference #17 was title-only — added authors Nartker, Firestone, Egeth & Phillips + RP100337 id)
+- **Enhancements made**: 0 (fourth review of a converged article; no expansion)
+- **Citation web-verify (§2.4, first per-cite ledger for this file)**: Pashler 1994 [116(2), 220–244], Lutz et al. 2008 [TiCS 12(4), 163–169], Simons & Chabris 1999 [Perception 28(9), 1059–1074], Polanyi 1966 [Doubleday — the 2026-06-12 publisher edit confirmed correct; UChicago is the 2009 reprint], Gurwitsch 1964, Gendlin 1981, James 1890 all real-correct. eLife 2025 was the only defect (real-wrong-metadata, corrected).
+- **Reasoning-mode**: no named-opponent engagement added/modified; existing materialist/functionalist reply Mode One, unchanged; no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-07-tacit-integration-void]]
+
 ## 2026-07-07T02:23:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/machine-consciousness]]
