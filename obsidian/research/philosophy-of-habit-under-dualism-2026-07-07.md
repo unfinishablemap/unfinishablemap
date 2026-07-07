@@ -202,7 +202,7 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the delegat
 - **No dedicated SEP entry on "habit"** exists; the tradition is distributed across entries (Peirce, pragmatism, Aristotle's ethics, phenomenology). The IEP has no single "habit" article either. Secondary synthesis relies on Carlisle (2014) and Sparrow & Hutchinson eds., *A History of Habit: From Aristotle to Bourdieu* (Lexington, 2013) — the latter was not fully verified this pass and should be checked before citing.
 - **Bourdieu's *habitus*** (sociology) was not researched; if the article touches the social-reproduction dimension of habit, verify *Outline of a Theory of Practice* (1977) / *The Logic of Practice* (1990) directly.
 - **Ryle's "knowing how"** and the intellectualism debate (Stanley & Williamson 2001) border the skill/habit line; verify if used, and keep the article on habit (disposition) rather than sliding into the skill/know-how literature the cluster already covers.
-- The Daw et al. 2011 page range (1204–1215) and Graybiel 2008 range (359–387) are from aggregator metadata; both are widely and consistently cited, but confirm against the publisher of record before final publication (see [[ai_citation_metadata_unreliable]]).
+- The Daw et al. 2011 page range (1204–1215) and Graybiel 2008 range (359–387) are from aggregator metadata; both are widely and consistently cited, but confirm against the publisher of record before final publication (AI-sourced citation metadata is not always reliable).
 
 ## Citations
 

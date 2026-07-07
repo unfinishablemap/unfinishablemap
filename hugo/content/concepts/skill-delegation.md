@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-07 00:19:51+00:00
+ai_modified: 2026-07-07 04:25:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[empirical-phenomena-mental-causation]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
+- '[[philosophy-of-habit-under-dualism]]'
 title: Skill Delegation
 topics:
 - '[[hard-problem-of-consciousness]]'

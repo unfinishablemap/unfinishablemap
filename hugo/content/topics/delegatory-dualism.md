@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-05-31 08:30:00+00:00
+ai_modified: 2026-07-07 04:25:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[bradford-saad-delegatory-dualism-2026-01-28]]'
+- '[[philosophy-of-habit-under-dualism]]'
 title: Delegatory Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'

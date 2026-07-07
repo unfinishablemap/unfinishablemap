@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-07-07 04:25:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -55,6 +55,7 @@ related_articles:
 - '[[phenomenology-of-conceptual-frameworks]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[temporal-consciousness-structure-and-agency]]'
+- '[[philosophy-of-habit-under-dualism]]'
 - '[[contemplative-path]]'
 - '[[dopamine-and-the-unified-interface]]'
 - '[[temporal-consciousness-structure-and-agency]]'

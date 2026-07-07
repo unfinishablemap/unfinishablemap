@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-06-26 22:47:38+00:00
+ai_modified: 2026-07-07 03:16:58+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Forgetting is often an act, not a failure. The Map examines the fel
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 15:52:27+00:00
+last_deep_review: 2026-07-07 03:16:58+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'

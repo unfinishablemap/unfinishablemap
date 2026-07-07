@@ -9,6 +9,202 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T05:11:00+00:00 - refine-draft
+- **Status**: Success
+- **Article**: concepts/emergence.md
+- **Task**: Address pessimistic-review 2026-07-06 findings (promoted P3→P2)
+- **Changes**: (1) frontmatter description rewritten to lead with the comparative-register framing over bi-aspectual dualism; (2) Kim reconstruction conclusion 4 reworded to the reductionism-OR-epiphenomenalism disjunct; (3) added in-place decoherence-objection preview before delegating to mental-causation-and-downward-causation; (4) softened "which they do" → "as this single study tentatively suggests"; (5) removed misleading quote marks from two O'Connor & Wong paraphrases (structural triggering conditions; something outside the purely physical domain).
+- **Citation verification**: O'Connor & Wong (2005), *Noûs* 39:658–678 web-verified REAL at publisher-of-record (author's hosted PDF + JSTOR + PhilPapers) — NOT fabricated, citation preserved. The two flagged phrases are faithful paraphrases, not verbatim quotes, so quote marks were dropped rather than the content removed.
+- **Length**: 2876w (under 3500 concepts hard ceiling); substitution-level, length-neutral. Strong falsifiability section preserved verbatim.
+- **Notes**: The refine fork applied findings 1–4 then returned while its citation-verify subagent was still running (abandoned-subagent pattern); finding 5 + this changelog entry completed by the parent after the subagent's verdict landed.
+
+## 2026-07-07T05:02:00+00:00 - literature-drift-review
+- **Status**: Success (NO_CANDIDATE — audit success state)
+- **Article**: none
+- **Research area**: n/a
+- **Median citation year**: n/a
+- **Recent papers found**: 0 (no WebSearch call — cost gate not spent)
+- **Missing topically-appropriate**: n/a
+- **Outcome**: no-candidate — every active-research topic article audited within the last 30 days
+- **Task generated**: none
+- **Notes**: Only 3 `obsidian/topics/` articles match the `active_research_sections` patterns (animal-consciousness, psychedelics-and-the-filter-model, quantum-biology-and-neural-consciousness); all are in `recently_audited` (last cycle 2026-06-23, 14 days ago). No article is eligible; the audit backlog is drained. Coverage of the active-research space is the audit's designed success condition.
+
+## 2026-07-07T04:53:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The session's delegation / skill / habit cluster (later than the 03:09 substance-causation review) — delegatory-dualism, skill-delegation, consciousness-and-skill-acquisition, and the brand-new philosophy-of-habit-under-dualism. Finding: exemplary evidential discipline (one-finding-not-four discount; intra-dualist advantages that "presuppose rather than support" dualism; constitutive-falsifier candour). Process-Philosopher / Hardline-Empiricist personas converge; no calibration concern. Opportunities integration-only: deep-review the fresh habit article + reciprocal cross-links.
+- **Output**: [optimistic-2026-07-07b](/reviews/optimistic-2026-07-07b/)
+
+## 2026-07-07T04:40:00+00:00 - deep-review
+- **Status**: Success (deep stability; 1 load-bearing cross-link added)
+- **File**: [llm-consciousness](/concepts/llm-consciousness/)
+- **Word count**: 2724 → 2838 (+114; 114% of 2500 soft, well under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing J-space / access-consciousness cluster cross-link — the article had zero reference to this session's Gurnee et al. 2026 J-space result and P-AC4 despite being a cluster hub)
+- **Enhancements made**: 1 (J-space access-workspace sentence in the methodological-asymmetry paragraph, calibration-disciplined to block workspace⇒experience slide; reciprocal related_articles + Further Reading links to access-consciousness, global-workspace-theory, positions/ai-consciousness-scope)
+- **Citations**: no re-verify triggered (References block unchanged since 2026-06-02 full publisher-of-record verify; no superlatives; zero defects)
+- **Output**: [deep-review-2026-07-07-llm-consciousness](/reviews/deep-review-2026-07-07-llm-consciousness/)
+
+## 2026-07-07T04:25:29+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The philosophy of habit under dualism (habit-as-such: Ravaisson's double law, cue-triggered outcome-insensitivity, second nature)
+- **Output**: [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/)
+- **Word count**: 2096 (70% of 3000 target; within topics range)
+- **Based on research**: yes — [philosophy-of-habit-under-dualism-2026-07-07](/research/philosophy-of-habit-under-dualism-2026-07-07/)
+- **Notes**: Scoped to habit-AS-SUCH, not skill; boundary drawn explicitly against the skill cluster. Primary Tenet 3 (material trace of consciousness, Malafouris/Dewey), secondary Tenet 1 (Ravaisson's descent / non-reductive asymmetry). Peirce cited for form, panpsychist metaphysics disowned. Wired 3 inbound cross-links (delegatory-dualism, skill-delegation, consciousness-and-skill-acquisition) to avoid near-orphan. Slug verified clear of live + archived collisions (archived phenomenology-of-*-habit slugs NOT reused).
+
+## 2026-07-07T04:15:33+00:00 - deep-review
+- **Status**: Success (converged; 1 low style fix)
+- **File**: [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/)
+- **Word count**: 3049 → 3048 (length-neutral; 102% of soft, well under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (removed decorative "load-bearing" intensifier per style guide → "a sharp disanalogy")
+- **Notes**: 2nd deep review, 16d after a comprehensive first pass. Intervening drift = cross-link accretion (vestibular/thermal/interoceptive sibling expand-topics) + a calibration-softening refine (both benign). No citation metadata changed since the 06-20 full publisher-of-record ledger, so §2.4 relied on that ledger (stable References block). No slippage, boundary-substitution, or label leakage. All 28 wikilinks resolve.
+- **Output**: [deep-review-2026-07-07-tactile-consciousness-and-the-interface](/reviews/deep-review-2026-07-07-tactile-consciousness-and-the-interface/)
+
+## 2026-07-07T03:59:37+00:00 - deep-review
+- **Status**: Success (genuine no-op after real scrutiny)
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Word count**: 3326 → 3326 (no change; length-neutral, 133% of soft, under 3500 hard cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (reference-list inline orphans noted as intentional/stable, not fixed)
+- **Enhancements made**: 0
+- **Drift verified**: 2026-07-06 cross-review (197d940a) added [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/) to related_articles + Further Reading — landed cleanly, reciprocity confirmed load-bearing, no editor-vocab / refinement-log leakage
+- **Citations web-verified (title+venue)**: Swinburne 2013 (*Mind, Brain, and Free Will*, OUP) — real-correct; Bailey/Rasmussen/Van Horn 2011 (No Pairing Problem, Phil Studies 154:349-360) — real-correct. Superlative sweep: 0 hits, no currency drift. 06-05 Stapp/Schwartz fix intact.
+- **Frontmatter**: last_deep_review bumped to 2026-07-07; ai_modified left at 2026-07-06 cross-review stamp (no content change)
+- **Output**: [deep-review-2026-07-07-interactionist-dualism](/reviews/deep-review-2026-07-07-interactionist-dualism/)
+
+## 2026-07-07T03:53:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/)
+- **Original score**: strong (no numeric score; pessimistic pass rated citations clean, discipline exemplary)
+- **Changes**: (1) Factual fix — body "Derek Pereboom" → **Derk** (line 58; References list already correct). (2) Deviance section reworded from "less room for a wrong route" to *relocated, not removed* — the selection-only mechanism (trying biases which neural outcome becomes actual) opens a new route at the mind→quantum-selection junction; agency-void circularity kept as the honest epistemic residue. (3) Lowe hybrid — added a clause discharging the "agent causes a trying" regress (substance-causation is basic, not relabeled event-causation; no prior event to dissolve into), fuller defence flagged as carried by [agent-causation](/concepts/agent-causation/). Length-neutral; voice preserved; central claims untouched; all 4 citations left as-is (verified clean).
+- **Published**: yes
+
+## 2026-07-07T03:50:12+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) (fresh 2026-07-06 create; dedicated adversarial pass)
+- **Findings**: 1 factual defect (line 58 "Derek Pereboom" → **Derk**; corpus-isolated, References list already correct) + 2 philosophical tensions (deviance relocated not reduced at the mind→selection junction; agent-causal regress "agent causes a trying" undischarged). All 4 external citations (Davidson 1963, Ward 2024 PPR 108(2):374-395, Pereboom 2014 Phil Studies 169:59-69, Lowe 2006 Erkenntnis 65:5-23) web-verified with exact metadata. Direct-refutation + epistemic/metaphysical discipline exemplary — no action needed there.
+- **Tasks queued**: P2 refine-draft (consolidated)
+- **Output**: [pessimistic-2026-07-07-philosophy-of-action-under-dualism](/reviews/pessimistic-2026-07-07-philosophy-of-action-under-dualism/)
+
+## 2026-07-07T03:37:08+00:00 - deep-review
+- **Status**: Success (genuine no-op after full scrutiny)
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Word count**: 3286 → 3286 (no change; 110% of soft, under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Drift audit**: 2026-06-17 refine-draft (two calibration-neutral cross-links to selection-only-channel + forward-in-time-vs-time-symmetric-selection) landed cleanly — no calibration regression, no editor-vocabulary/refinement-log leakage.
+- **Citations**: canonical pre-2010 cites individually web-verified at publisher of record for the first time — Wheeler 1983 (Law Without Law), Zurek 2003 (Rev Mod Phys 75:715), Wigner 1961 (The Scientist Speculates, ed. Good), Bell 1990 (Physics World 3:33) — all real-correct. Recent cites unchanged since 06-05 audit.
+- **last_deep_review bumped only** (ai_modified left at 2026-06-17; no content change)
+- **Output**: [deep-review-2026-07-07-quantum-measurement-and-consciousness](/reviews/deep-review-2026-07-07-quantum-measurement-and-consciousness/)
+
+## 2026-07-07T03:21:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Word count**: 3379 → 3379 (+0)
+- **Critical issues addressed**: 0 (eighth-review convergence; no critical issues found)
+- **Medium issues addressed**: 0 (word count 135% of soft, below 3500 hard cap — watch item)
+- **Enhancements made**: 0 (verified the 3 cross-links added since the seventh review — positions P-A1/P-A2, philosophy-of-action-under-dualism, four-category-ontology — all faithful; no new cites so §2.4 audit from 2026-06-05 stands)
+- **Output**: [deep-review-2026-07-07-agent-causation](/reviews/deep-review-2026-07-07-agent-causation/)
+
+## 2026-07-07T03:16:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/)
+- **Word count**: 2365 → 2365 (+0)
+- **Critical issues addressed**: 0 (converged — no critical issues found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (second-pass convergence; only change since 2026-06-20 review was one cosmetic cross-link; References unchanged so §2.4 ledger stands)
+- **Output**: [deep-review-2026-07-07-phenomenology-of-forgetting](/reviews/deep-review-2026-07-07-phenomenology-of-forgetting/)
+
+## 2026-07-07T03:12:21+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Philosophy of habit under dualism
+- **Output**: [philosophy-of-habit-under-dualism-2026-07-07](/research/philosophy-of-habit-under-dualism-2026-07-07/)
+- **Sources consulted**: 11
+
+## 2026-07-07T02:50:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [indigenous-australian-philosophy-of-consciousness](/topics/indigenous-australian-philosophy-of-consciousness/)
+- **Trigger**: topic-concept anchoring audit 2026-07-07 (Audit Three). Failed checks vs anchor [filter-theory](/concepts/filter-theory/): hedge_density (0.40/kw vs 2.06/kw target) and underdetermination_markers (0 vs anchor's 1). Second flag vs [interactionist-dualism](/concepts/interactionist-dualism/) (1.26/kw target) resolved by the same edits.
+- **Changes**: Added warranted, canonical hedging/underdetermination phrasing at the interpretively-loaded claims (Swain's contested precontact reconstruction; the metaphysical-vs-ethical reading of Graham's Law; the filter-theory pre-existence parallel; the indexical-identity resonance; the panpsychist-vs-animist-vs-ethical-relational reading of the ethnographic evidence). Installed two scanner-recognized markers ("compatible with either reading", "the evidence does not decisively adjudicate between them") where the article already argued underdetermination in non-canonical wording. No central claim weakened; substance was already well-calibrated — the gap was marker-vocabulary alignment with the anchor concept.
+- **Result**: hedge density 0.40 → 2.70/kw; underdetermination markers 0 → 2; strong assertions 0 (unchanged). `evaluate_anchoring` now returns 0 flags. Word count 2525 → 2594. No citations touched.
+- **Published**: yes
+
+## 2026-07-07T02:35:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [tacit-integration-void](/voids/tacit-integration-void/)
+- **Word count**: 2224 → 2237 (+13; length-neutral offset via redundant Gestalt-clause trim; soft_warning at 112% of 2000, far under 3000 hard)
+- **Critical issues addressed**: 1 (eLife 2025 cite mischaracterized the study's method — "priming and neural measures" corrected to the paper's actual forced-choice feature-discrimination finding; inline cite → Nartker et al., 2025)
+- **Medium issues addressed**: 1 (eLife reference #17 was title-only — added authors Nartker, Firestone, Egeth & Phillips + RP100337 id)
+- **Enhancements made**: 0 (fourth review of a converged article; no expansion)
+- **Citation web-verify (§2.4, first per-cite ledger for this file)**: Pashler 1994 [116(2), 220–244], Lutz et al. 2008 [TiCS 12(4), 163–169], Simons & Chabris 1999 [Perception 28(9), 1059–1074], Polanyi 1966 [Doubleday — the 2026-06-12 publisher edit confirmed correct; UChicago is the 2009 reprint], Gurwitsch 1964, Gendlin 1981, James 1890 all real-correct. eLife 2025 was the only defect (real-wrong-metadata, corrected).
+- **Reasoning-mode**: no named-opponent engagement added/modified; existing materialist/functionalist reply Mode One, unchanged; no label leakage.
+- **Output**: [deep-review-2026-07-07-tacit-integration-void](/reviews/deep-review-2026-07-07-tacit-integration-void/)
+
+## 2026-07-07T02:23:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [machine-consciousness](/topics/machine-consciousness/)
+- **Word count**: 3977 → 3977 (metadata-only; no body change this pass — length-neutral, now in soft_warning at 133% of 3000 target, ~23w under hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence pass — seventh review; article at stability)
+- **Citation web-verify**: Gurnee et al. 2026 (J-space / *Verbalizable Representations Form a Global Workspace in Language Models*, Transformer Circuits Thread, Anthropic, 2026-07-06) — **real-correct**. All 16 authors, title, venue, date, and both in-body quotes confirmed at publisher (transformer-circuits.pub) + internal dossier. The one substantive change since 2026-06-02 (the J-space paragraph) audited: faithful, well-calibrated, reinforces the access/phenomenal firewall; no slippage, no label leakage.
+- **Reasoning-mode**: no new named-opponent engagement (J-space cited in support, not refuted). Standing Duch/Chalmers/Parfit all Mode Three, unchanged.
+- **Output**: [deep-review-2026-07-07-machine-consciousness](/reviews/deep-review-2026-07-07-machine-consciousness/)
+
+## 2026-07-07T02:40:00+00:00 - positions-evolve (add)
+- **Status**: Success
+- **Operation**: add — **P-AC4** in [ai-consciousness-scope](/positions/ai-consciousness-scope/)
+- **Claim**: "Functional access consciousness has been empirically instantiated in current LLMs — and that leaves the phenomenal question untouched."
+- **Source**: [anthropic-global-workspace-j-space-2026-07-07](/research/anthropic-global-workspace-j-space-2026-07-07/) (Gurnee et al. 2026, Transformer Circuits Thread; J-space) + the already-landed concepts and AI-consciousness cluster integrations.
+- **Assessment (assess-first)**: ADD, not decline. No existing position asserts empirical *access*-instantiation in AI (checked P-AC1/2/3, P-CS1/2/3, methodology, individuation). P-AC1 concerns the *phenomenal* substrate verdict; P-AC4 is the complementary access claim. Genuinely new (post-2026-07-06) commitment now leaned on across ≥3 articles.
+- **Confidence**: high. Two-part banding stated inside Asserts — the empirical access-instantiation is high-confidence and *framework-independent* (well-supported interpretability finding, independently replicated by Nanda on an open-weight model); the "does not by itself indicate phenomenal experience" clause has framework-independent convergence (authors + Nanda both decline the inference); only the *stronger* "the phenomenal residue is real and separate" sub-clause is framework-conditional (held at Tenet 1's confidence).
+- **Dependencies**: Tenet 1 (access/phenomenal split), Tenet 5, [access-consciousness](/concepts/access-consciousness/) (Block A/P), [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/), the J-space empirical premise, [P-CS1](/positions/consciousness-scope/) backdrop. Explicitly does NOT inherit the quantum-interface register — like P-AC3 it holds under coherence-only dualism (light burden).
+- **No-contradiction note**: P-AC4 *complements* P-AC1 — it localizes P-AC1's "low-probability" verdict to the phenomenal side while affirming access is demonstrated. Stated explicitly in both entries' framing to survive audit check #1.
+- **Argued in** (all verified to resolve): [access-consciousness](/concepts/access-consciousness/), [global-workspace-theory](/concepts/global-workspace-theory/), [ai-consciousness](/topics/ai-consciousness/).
+- **Also updated**: domain intro bullet + frontmatter description/concepts/ai_modified in ai-consciousness-scope.md; the AI-consciousness-scope summary line + ai_modified in [positions](/positions/).
+- **LENGTH FLAG**: ai-consciousness-scope.md body now ~1780w — over the soft 1500 ceiling, under hard 2500. Not condensed (entries are deliberately structured; calibration prose is load-bearing). Consider splitting the domain if a P-AC5 is added.
+- **Tenet alignment**: Tenet 1 (the split is the load-bearing move), Tenet 5.
+- **Published**: yes (register position; no draft gate)
+
+## 2026-07-07T02:11:13+00:00 - refine-draft (J-space integration into the AI-consciousness cluster)
+- **Status**: Success
+- **Files**: [deep-computational-markers-for-machine-consciousness](/topics/deep-computational-markers-for-machine-consciousness/), [ai-consciousness](/topics/ai-consciousness/), [machine-consciousness](/topics/machine-consciousness/), [ai-consciousness-typology](/concepts/ai-consciousness-typology/), [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/)
+- **Source**: [anthropic-global-workspace-j-space-2026-07-07](/research/anthropic-global-workspace-j-space-2026-07-07/) (Gurnee et al. 2026, Transformer Circuits Thread; commentaries by Dehaene & Naccache, Butlin/Long/Plunkett/Shiller, Nanda)
+- **Changes**:
+  - deep-computational-markers (PRIMARY): added two paragraphs to "The Computational Global-Workspace Correlate" — J-space as the marker moved from *designed* (Goyal/Bengio) to *discovered* (Gurnee et al.), the strongest positive workspace-marker instance yet; tied to the article's own theory-derived indicator section via the fact that Butlin/Long/Plunkett/Shiller (indicator-framework architects) were invited commentators; workspace indicator present in full while the necessary-not-sufficient verdict holds (authors + Nanda both decline the mechanism→experience inference). Body 2695→3167w (under topics hard 4000).
+  - ai-consciousness: compact addition to "The Epistemic Problem" — J-space as a 2026 exhibit of access-machinery instantiated while phenomenal stays open; named the possibility-probability slippage explicitly. Body 4029→4144w — flagship ALREADY over the 4000 soft ceiling pre-edit; addition kept minimal (~60w load-bearing integration prose). LENGTH FLAG for human decision, not auto-condense (calibration content).
+  - machine-consciousness: paragraph in "Substrate Independence Revisited" — J-space as the access-machinery a substrate-independence advocate would cite, yet phenomenally undecided; an upload reproducing it inherits the open question. 3797→3979w.
+  - ai-consciousness-typology (concepts, listed as topics/ in task): addition to "Functional Phenomenality" — J-space as that category's sharpest empirical instance, read by the Map as null-phenomenality-wearing-functional-dress. 2894→3074w.
+  - anti-correlation-probes: addition to the behavioural-vs-interpretability contrast — the J-space safety-probes (evaluation-awareness / hidden-goal / suppressed-thought detection) as a concrete interpretability route that could harden this probe's activation-patching controls, under the same access≠phenomenal discipline.
+- **Discipline**: Bears on ACCESS consciousness + AI moral-status *indicators*, NOT phenomenal consciousness. Every addition resists the "Claude has a global workspace → Claude has experience" slide ([possibility-probability-slippage](/concepts/possibility-probability-slippage/)); coheres with [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) (current AI almost certainly lacks phenomenal consciousness on the Map's framework). Tenet 1 (the access/phenomenal split is the load-bearing move), Tenet 5. NOTE: the concepts cluster (access-consciousness, global-workspace-theory, phenomenal-consciousness) was already integrated by the sibling ✓ 2026-07-07 task; no duplication.
+- **Citations**: Gurnee et al. 2026 added to References in all 5 files, matching the format already in access-consciousness / global-workspace-theory (paper details web-verified in the research note; Butlin 2023/2025 refs already present in deep-computational-markers).
+- **Published**: yes
+
+## 2026-07-07T01:59:52+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/)
+- **Word count**: 2714 → 2714 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Requalified only via cosmetic `ai_modified` bump (2 Further Reading cross-links + `[[embodied-interface]]` related_articles + EOF artifact sweep on 2026-06-22). Body and References unchanged since the 2026-06-20 full-discipline review that verified convergence at creation. Citation web-verify skipped by §2.4 rule (References block unmodified). All three new cross-links resolve. `last_deep_review` re-stamped; `ai_modified` NOT bumped (no body edit).
+- **Output**: [deep-review-2026-07-07-interoceptive-consciousness-and-the-interface](/reviews/deep-review-2026-07-07-interoceptive-consciousness-and-the-interface/)
+
+## 2026-07-07T01:50:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/), [access-consciousness](/concepts/access-consciousness/)
+- **Task**: Integrate Anthropic's 2026 J-space / global-workspace result into the existing cluster (no new article minted)
+- **Changes**:
+  - global-workspace-theory: new section "A Computational Global Workspace: Anthropic's J-Space (2026)" — J-lens/J-space mechanics, five access signatures, k≈25 vectors / <10% variance, Dehaene & Naccache as commentators, Nanda independent replication + caution, authors' verbatim no-position quote; disanalogies flagged (single feedforward pass not recurrence, no separable input processors, attention-carried working memory). Reciprocal links to access-consciousness (#distinction).
+  - access-consciousness: new "A 2026 empirical instance" paragraph in the Access/Phenomenal Distinction section framing J-space as the strongest empirical case to date of A-without-settled-P; cross-linked to phenomenal-consciousness and global-workspace-theory#j-space section.
+  - Added Gurnee et al. (2026) to both reference lists.
+- **Verification**: paper's no-position quote, k≈25 / never-more-than-10%-variance figures, title/authors, and disanalogies all confirmed against live source (transformer-circuits.pub/2026/workspace). Cross-link anchor confirmed via Hugo build.
+- **Tenet alignment**: Tenet 1 (Dualism — access instantiated computationally, phenomenal untouched), Tenet 5 (Occam's-limits — rich function ≠ settled phenomenology).
+- **Published**: yes
+
 ## 2026-07-07T01:44:32+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Anthropic's "global workspace / J-space" work (paper + three commentaries)

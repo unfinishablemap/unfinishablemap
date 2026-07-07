@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-07 13:30:00+00:00
+ai_modified: 2026-07-07 05:11:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,8 +24,9 @@ concepts:
 - '[[measurement-problem]]'
 created: 2026-01-15
 date: &id001 2026-01-15
-description: 'Consciousness is the paradigm case of strong emergence: genuinely novel
-  properties not deducible from physical facts even in principle.'
+description: 'The Map uses strong-emergence vocabulary as a comparative register for
+  its bi-aspectual dualism: consciousness co-fundamental with physical structure,
+  not arising from it.'
 draft: false
 human_modified: null
 last_curated: null
@@ -72,7 +73,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary challenge 
 1. Physical events have sufficient physical causes (causal closure)
 2. Mental events cause physical events (common-sense premise)
 3. Mental causes don't systematically overdetermine physical events alongside physical causes
-4. Therefore, mental causes just *are* physical causes (reductionism)
+4. Therefore, mental causes are either identical to physical causes (reductionism) or causally idle (epiphenomenalism)
 
 For strong emergentists—and dualists—this forces a choice: deny that consciousness has causal powers ([epiphenomenalism](/concepts/epiphenomenalism/)), or deny that physics is causally closed. A third option is [causal delegation](/concepts/delegatory-causation/): the physical state delegates its causal work to the experience via [preemption](/concepts/delegatory-causation/), avoiding overdetermination while preserving mental causation.
 
@@ -84,7 +85,7 @@ The Map resolves this by denying causal closure—not everywhere, but at the spe
 
 Strong emergence requires [downward causation](/concepts/mental-causation-and-downward-causation/)—higher-level features genuinely influencing lower-level processes. Critics argue this violates physical laws; defenders reply that consciousness exercises powers not reducible to component-level causation.
 
-Timothy O'Connor and Hong Yu Wong develop a sophisticated account of strong emergence with genuine causal powers. Emergent properties are "fundamentally novel"—possessing new causal powers not present in parts. They propose "structural triggering conditions"—latent powers manifesting only when components organize appropriately.
+Timothy O'Connor and Hong Yu Wong develop a sophisticated account of strong emergence with genuine causal powers. Emergent properties are "fundamentally novel"—possessing new causal powers not present in parts. They propose structural triggering conditions—latent powers manifesting only when components organize appropriately.
 
 Their view requires rejecting causal closure: if consciousness possesses genuinely novel causal powers, then a person's conscious decision—say, to switch on a kettle—involves higher-level mental causation driving lower-level molecular changes. This is precisely what the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms—consciousness causally influences physical outcomes.
 
@@ -121,9 +122,9 @@ What the Map *does* provide that classical emergentism lacked is a principled an
 
 ## O'Connor-Wong and the Map's Framework
 
-O'Connor and Wong's account of emergent properties with novel causal powers aligns closely with the Map's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act.
+O'Connor and Wong's account of emergent properties with novel causal powers aligns closely with the Map's framework. Their structural triggering conditions parallel how quantum indeterminacies in neural systems provide openings for consciousness to act—though whether such indeterminacy survives neural-scale decoherence is the central physical objection, addressed in [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/).
 
-The difference: O'Connor and Wong acknowledge that strongly emergent properties require "something outside the purely physical domain" but leave the locus abstract. The Map identifies where that something operates—quantum indeterminacies—and surveys candidate [coupling mechanisms](/concepts/psychophysical-laws/), even though the specific coupling law remains open.
+The difference: O'Connor and Wong acknowledge that strongly emergent properties require something outside the purely physical domain—their emergentism explicitly denies causal closure—but leave the locus abstract. The Map identifies where that something operates—quantum indeterminacies—and surveys candidate [coupling mechanisms](/concepts/psychophysical-laws/), even though the specific coupling law remains open.
 
 ## Comparing Challenges
 
@@ -151,7 +152,7 @@ Three lines of empirical evidence bear on whether consciousness is strongly emer
 
 **Conservation law tests.** If consciousness genuinely selects among quantum outcomes, statistical analyses of quantum experiments involving conscious observation might reveal deviations from Born rule probabilities. Such deviations would confirm strong emergence with causal powers. Their absence does real evidential work: each null result at a given sensitivity constrains the *maximum* interaction strength, ruling out any coupling large enough to have shown up at that threshold. The honest cost is that no finite null can drive that ceiling to zero, so the position cannot be refuted outright by absence of signal—and treating "the effect must lie below current detection thresholds" as a standing reply would be an unfalsifiability escape, a theory accommodating any outcome and thereby predicting none. The Map declines that escape: rather than deploying the below-threshold move as a shield, it reads the experimental programme as fixing an ever-tighter upper bound, and accepts that a coupling pushed arbitrarily far below detection would be a genuine cost to the position's empirical content, not a vindication of it.
 
-**Anaesthetic and altered state evidence.** The 2024 microtubule-stabiliser study (epothilone B delaying anaesthetic unconsciousness in rats) tests predictions of quantum consciousness theories. If consciousness depends on quantum processes in microtubules, drugs affecting microtubule integrity should affect consciousness—which they do. Classical cytoskeletal mechanisms could account for the same effect, so the evidence is suggestive rather than decisive.
+**Anaesthetic and altered state evidence.** The 2024 microtubule-stabiliser study (epothilone B delaying anaesthetic unconsciousness in rats) tests predictions of quantum consciousness theories. If consciousness depends on quantum processes in microtubules, drugs affecting microtubule integrity should affect consciousness—as this single study tentatively suggests. Classical cytoskeletal mechanisms could account for the same effect, so the evidence is suggestive rather than decisive.
 
 Strong emergence isn't empirically proven, but neither is it empirically immune. The quantum framework identifies testable predictions that ongoing research can evaluate, even though the full coupling mechanism remains to be specified.
 
