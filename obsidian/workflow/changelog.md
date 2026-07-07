@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T11:44:15+00:00 - deep-review
+- **Status**: Success (genuine no-op convergence pass, 4th review; content unchanged since 2026-06-12, no content edits)
+- **File**: [[voids/expertise-and-its-occlusion]]
+- **Word count**: 2816 → 2816 (0; voids soft_warning, ~184w under 3000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: STALENESS floor-restore (34d since 2026-06-03 review). Only post-review change was commit 24004c2ad — a single References line (Polanyi 1966 publisher → "Doubleday"), which I web-verified at publisher of record as CORRECT for the 1966 first edition (Doubleday, Garden City, NY; based on the 1962 Terry Lectures) — a correction, not a defect. Prior 06-03 ledger web-verified all 13 cites; only the Polanyi line changed since, so the other 12 were not re-litigated. Superlative-currency sweep: zero claims. Calibration honest (void stays posited/occluded, epistemic not metaphysical; no possibility/probability slippage). All 16 load-bearing cross-links resolve live — no archival link rot. Materialist objection engaged honestly (no boundary-substitution/label-leakage). No style cliché, no "load-bearing" overuse. last_deep_review bumped ALONE (ai_modified left at 2026-06-12); stamp date -u-verified not future-dated.
+- **Output**: [[reviews/deep-review-2026-07-07-expertise-and-its-occlusion]]
+
 ## 2026-07-07T11:38:27+00:00 - deep-review
 - **Status**: Success (no-op convergence pass, 2nd review; content unchanged since 2026-06-22, no content edits)
 - **File**: [[topics/thermal-consciousness-and-the-interface]]

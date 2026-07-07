@@ -24,7 +24,7 @@ description: How deep expertise irreversibly transforms conscious experience and
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 01:12:38+00:00
+last_deep_review: 2026-07-07 11:44:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
