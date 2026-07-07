@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T01:00:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/process-and-consciousness]]
+- **Word count**: 3925 → 3925 (0; pure verification pass, no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Drift-focus**: post-06-05 drift confirmed = two inbound touches only. (1) `[[prehension]]` reciprocal link added to related_articles (f9c0ff9f2) — resolves + reciprocates. (2) bergson-and-duration review corrected a Bergson quote in this file (bb589e3c1): "Time is invention" → "Time is **an** invention or it is nothing at all" — web-verified CORRECT against *Creative Evolution* Ch. IV (Mitchell trans.); a fix, not a regression; sibling bergson-and-duration matches. No substantive claim altered.
+- **Web-verify**: Kent & Wittmann (2021, *Neuro. of Consciousness* niab011) freshly verified real-correct ("core issues" quote + 100–300 ms functional-window gloss faithful); the five cites in the 06-05 ledger (Kerskens & López Pérez 2022, Khan et al. 2024, Schurger et al. 2012, Sjöberg 2024, Stapp 2011) unchanged and carried forward real-correct. Currency sweep empty (no superlatives). Apex stale-quote channel N/A (quotes external sources only, no sibling-prose quotes). Evidential-status/reasoning-mode/label-leakage/cliché/refinement-log all clean. Length 98% of soft, length-neutral.
+- **No-op hygiene**: genuine no-op after real scrutiny — `last_deep_review` bumped to 2026-07-07, `ai_modified` left at 2026-06-25. Article converged after six reviews.
+- **Engagement modes** (editor-internal): functionalist reply to argument-from-reason = Mode Two; Everettian reply to phenomenological-MWI argument = Mode Three (explicit cost-marking). Both stable, no leakage.
+- **Output**: [[reviews/deep-review-2026-07-07-process-and-consciousness]]
+
 ## 2026-07-07T00:49:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/probability-problem-in-many-worlds]]
