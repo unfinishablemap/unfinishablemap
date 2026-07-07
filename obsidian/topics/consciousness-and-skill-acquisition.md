@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-07-07T04:25:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,6 +44,7 @@ related_articles:
   - "[[phenomenology-of-conceptual-frameworks]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[temporal-consciousness-structure-and-agency]]"
+  - "[[philosophy-of-habit-under-dualism]]"
   - "[[contemplative-path]]"
   - "[[dopamine-and-the-unified-interface]]"
   - "[[temporal-consciousness-structure-and-agency]]"

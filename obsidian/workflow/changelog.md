@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T04:25:29+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The philosophy of habit under dualism (habit-as-such: Ravaisson's double law, cue-triggered outcome-insensitivity, second nature)
+- **Output**: [[topics/philosophy-of-habit-under-dualism]]
+- **Word count**: 2096 (70% of 3000 target; within topics range)
+- **Based on research**: yes — [[research/philosophy-of-habit-under-dualism-2026-07-07]]
+- **Notes**: Scoped to habit-AS-SUCH, not skill; boundary drawn explicitly against the skill cluster. Primary Tenet 3 (material trace of consciousness, Malafouris/Dewey), secondary Tenet 1 (Ravaisson's descent / non-reductive asymmetry). Peirce cited for form, panpsychist metaphysics disowned. Wired 3 inbound cross-links (delegatory-dualism, skill-delegation, consciousness-and-skill-acquisition) to avoid near-orphan. Slug verified clear of live + archived collisions (archived phenomenology-of-*-habit slugs NOT reused).
+
 ## 2026-07-07T04:15:33+00:00 - deep-review
 - **Status**: Success (converged; 1 low style fix)
 - **File**: [[topics/tactile-consciousness-and-the-interface]]

@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-05-31T08:30:00+00:00
+ai_modified: 2026-07-07T04:25:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[conservation-laws-and-mental-causation]]"
   - "[[bradford-saad-delegatory-dualism-2026-01-28]]"
+  - "[[philosophy-of-habit-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101

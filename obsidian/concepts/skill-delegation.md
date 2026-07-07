@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-07T00:19:51+00:00
+ai_modified: 2026-07-07T04:25:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[empirical-phenomena-mental-causation]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
+  - "[[philosophy-of-habit-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
