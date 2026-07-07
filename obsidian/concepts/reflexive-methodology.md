@@ -4,7 +4,7 @@ description: "The Map's argumentative move: take a rival framework's own criteri
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-07-07T14:50:55+00:00
+ai_modified: 2026-07-07T19:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,10 +25,10 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-07
 last_curated:
-last_deep_review: 2026-07-07T14:50:55+00:00
+last_deep_review: 2026-07-07T19:45:00+00:00
 ---
 
-Reflexive methodology is The Unfinishable Map's recurring argumentative move: take a *rival* framework's own criterion of success and run the rival through it, showing that by its own lights the rival either fails or is driven toward a dualist or deflationary conclusion. The Map does not defeat materialism, pragmatism, or Russellian monism by importing dualist premises the opponent rejects. It measures each rival against the standard that rival itself avows — and lets the standard do the work.
+Reflexive methodology is The Unfinishable Map's recurring argumentative move: take a *rival* framework's own criterion of success and run the rival through it, showing that by its own lights the rival either fails or is driven toward a dualist or deflationary conclusion. Where it can, the Map defeats materialism, pragmatism, or Russellian monism without importing dualist premises the opponent rejects: it measures the rival against the standard that rival itself avows and lets the standard do the work. This premise-neutrality is real in the method's cleanest instances, but it is not uniform across all of them. In some instances a shared standard runs out and the reflexive move turns on a commitment the rival does not grant; the Map marks that boundary honestly rather than passing the engagement off as premise-neutral. Distinguishing the two kinds of instance is itself part of the method's discipline, and the sections below flag which is which.
 
 This is worth naming as a method because the same shape recurs across the corpus with different engines inside it. Pragmatism is judged by its own "what works" test and fails it; the causal-closure argument is judged by its own demand for a non-circular formulation and cannot supply one; Russellian monism is judged by the very anti-physicalist arguments that motivate it and is destabilised by them. One move, four theatres.
 
@@ -56,7 +56,9 @@ The Map's move sits closest to **immanent critique** combined with **dialectical
 
 ### Pragmatism — Immanent Critique
 
-[[pragmatism|Pragmatism]] evaluates ideas by their practical consequences: what works. The Map runs this criterion on the pragmatist's own materialism. Evaluation is itself a conscious activity — the felt sense that one framework illuminates while another obscures is what gives pragmatic assessment its normative force. Reduce evaluation to physical mechanism and "what works" collapses into "what merely happens to occur," because there is no longer any standpoint from which to judge that a problem has been *resolved*. Materialism about consciousness therefore fails pragmatism's *own* test, and the pragmatist criterion, applied consistently, points toward [[interactionist-dualism|dualism]]. This is immanent critique in textbook form: the rival is judged by its avowed norm, and the [[pragmatisms-path-to-dualism|full argument]] shows the norm generating a positive dualist successor rather than mere deadlock.
+[[pragmatism|Pragmatism]] evaluates ideas by their practical consequences: what works. The Map runs this criterion on the pragmatist's own materialism. Evaluation is itself a conscious activity — the felt sense that one framework illuminates while another obscures is what gives pragmatic assessment its normative force. Reduce evaluation to physical mechanism and "what works" threatens to collapse into "what merely happens to occur," because there is no longer any standpoint from which to judge that a problem has been *resolved*.
+
+This instance, unlike the closure and Cutter instances that follow, is not fully premise-neutral, and the Map should not bill it as if it were. A naturalist pragmatist in the line of Dewey or Rorty holds that evaluation and normativity are constituted by physical, functional, and social processes with no irreducible conscious standpoint required; on that view a physically-constituted standpoint simply *is* a genuine evaluative standpoint, and "what works" does not collapse. The collapse follows only given the Map's own commitment that a physically-constituted standpoint is *not* a genuine evaluative one — which is the irreducibility the wider argument is trying to reach, not a premise the pragmatist concedes. So this instance engages the physicalist at a framework boundary: it functions as immanent critique for a pragmatist who already grants that evaluation outruns physical mechanism, and as a marked disagreement, not a premise-neutral defeat, for one who does not. The [[pragmatisms-path-to-dualism|full argument]] carries that standpoint premise openly rather than smuggling it in, and shows the pragmatist norm generating a positive dualist successor once the premise is granted.
 
 ### Causal Closure — Circularity and Self-Stultification
 
@@ -70,7 +72,7 @@ The [[causal-closure|causal-closure]] argument against dualism confronts a formu
 
 When the rival's avowed standard is *rational justification itself*, the reflexive move deploys self-stultification, and its root is retorsive. The eliminativist who *asserts* there are no beliefs, the epiphenomenalist who *reports* their conviction, perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates. The [[self-stultification-as-master-argument|master argument]] shows this single structure defeating epiphenomenalism, physicalism, eliminativism, and global scepticism, each severing a different strand connecting consciousness to justification. Here the method borrows the property: reflexive methodology is the procedure, self-stultification the defect it exhibits in the rival.
 
-## Two Guardrails
+## Three Guardrails
 
 ### Not Tu Quoque
 
@@ -82,9 +84,13 @@ Barry Stroud's 1968 objection is the sharper threat. A reflexive or transcendent
 
 The Map's reply routes through the [[hard-problem-of-consciousness|hard problem]]. Phenomenal experience is not a belief that could be merely useful to hold — it is a *datum*, the condition under which any description or evaluation occurs at all. The pain, the redness, the felt grasp of why a conclusion follows are present before any theory about them and persist whatever theory wins. Stroud's gap opens between a required belief and an independent reality; it cannot open where the item in question is not a belief about reality but a feature of the reality being described. The reflexive argument does not merely show that we must *believe* in efficacious consciousness — it starts from consciousness as given and asks what any adequate framework must accommodate to remain sayable.
 
+### Datum Is Not Yet the Metaphysical Claim
+
+The Stroud reply secures a phenomenal *datum* — that evaluation, reasoning, and reporting are felt, conscious activities present before any theory. It does not on its own secure the stronger metaphysical *claim* that consciousness is irreducible to physical mechanism, and the two must not be run together. A physicalist can grant the datum in full — yes, evaluation is a felt activity — while denying the irreducibility, holding that the felt activity just *is* a physical, functional, or social process. So wherever a reflexive instance slides from "evaluation is a conscious, felt activity" to "evaluation cannot be reduced to physical mechanism," it has crossed from the granted datum to the contested claim, and that crossing is where the Map's own commitment enters rather than the rival's avowed standard. The pragmatism instance above is the clearest case: the datum is conceded, the irreducibility is the step the naturalist pragmatist refuses. Marking the crossing keeps the method honest about which of its instances are premise-neutral and which turn on a boundary the rival does not share.
+
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Reflexive methodology's payload is always dualist. Every instance lands in the same place — pragmatism's criterion points to dualism, closure's circularity clears the ground for it, monism's instability marches to it, self-stultification establishes the causal efficacy dualism requires. The method is how the Map argues *for* Tenet 1 without begging the question: it never assumes irreducibility, but repeatedly shows that rivals, held to their own standards, cannot stop short of it.
+**[[tenets#^dualism|Dualism]]**: Reflexive methodology's payload is always dualist. Every instance lands in the same place — pragmatism's criterion points to dualism, closure's circularity clears the ground for it, monism's instability marches to it, self-stultification establishes the causal efficacy dualism requires. The method is how the Map argues *for* Tenet 1 with the least question-begging available, but the neutrality is not uniform across instances. In its cleanest cases — closure's circularity and Cutter's monism recoil — it assumes no irreducibility and shows rivals unable to stop short of dualism on their own standards. Its pragmatism instance, and arguably the retorsive one, engage at a framework boundary where the shared standard runs out and the Map's own commitment enters; there the honest claim is not a premise-neutral defeat but a marked disagreement about whether a physically-constituted standpoint counts as a genuine evaluative one. Distinguishing the premise-neutral instances from the boundary instances is itself part of arguing for the tenet without pretending to more neutrality than the method has.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The immanent-critique framing is the direct expression of this tenet. The Map does not defeat simpler rivals by wielding a competing simplicity metric from outside — it shows they fail on their *own* terms. Parsimony that eliminates the standpoint from which parsimony is assessed is not a virtue but a structural flaw, and the reflexive method exposes exactly that internal collapse rather than adjudicating from an external vantage the tenet warns is unreliable under incomplete knowledge.
 

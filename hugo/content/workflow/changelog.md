@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T19:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [reflexive-methodology](/concepts/reflexive-methodology/)
+- **Addressed**: HIGH-severity premise-neutrality gap ([pessimistic-2026-07-07b](/reviews/pessimistic-2026-07-07b/)) — the headline "never imports dualist premises" claim cracked at the flagship pragmatism instance, whose "what works collapses into what merely happens" step presupposes the Map's irreducibility conclusion (a naturalist Dewey/Rorty pragmatist denies the collapse), plus a datum-vs-metaphysical-claim equivocation.
+- **Option taken**: (b) honest downgrade (not (a) — no genuine in-framework argument that naturalized normativity fails pragmatism's own test without presupposing irreducibility was available without hand-waving).
+- **Changes**:
+  1. Scoped the headline claim (opening para): premise-neutrality is real in the cleanest instances but not uniform; some instances turn on a commitment the rival does not grant, marked as a boundary rather than passed off as neutral.
+  2. Pragmatism instance: added a paragraph marking in natural prose that the collapse step engages the physicalist at a framework boundary (turns on the Map's commitment that a physically-constituted standpoint is not a genuine evaluative one, which the naturalist pragmatist denies); reframed as immanent critique only once that standpoint premise is granted, which the full-argument link carries openly.
+  3. Added a third guardrail ("Datum Is Not Yet the Metaphysical Claim"; heading updated Two→Three Guardrails) distinguishing the granted phenomenal datum (evaluation is felt) from the contested metaphysical claim (evaluation is irreducible).
+  4. Scoped the tenets Dualism section: distinguished the premise-neutral instances (closure circularity, Cutter recoil) from the framework-boundary ones (pragmatism, arguably retorsion).
+- **Preserved**: Cutter/closure/retorsion instances and the Stroud belief-vs-truth + tu-quoque guardrails untouched. Length 1909→2309w (under concepts 2500 soft cap).
+- **Published**: yes
+
+## 2026-07-07T19:36:41+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/reflexive-methodology.md` (fresh opus-4-8 create) — adversarial-logical lens complementing today's citation-focused cross-review
+- **Finding**: High-severity structural gap — the article's headline premise-neutrality claim ("never imports dualist premises … lets the standard do the work") cracks at its flagship pragmatism instance, whose "what works collapses into what merely happens" step presupposes the Map's irreducibility conclusion (direct-refutation-discipline in-framework-appeals-to-Map-commitments + evidential-status epistemic/metaphysical equivocation). Other three canonical instances + guardrails sound.
+- **Output**: [pessimistic-2026-07-07b](/reviews/pessimistic-2026-07-07b/)
+- **Queued**: P2 refine-draft on concepts/reflexive-methodology.md (deduped — no open task targeted the file)
+
 ## 2026-07-07T19:15:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology](/concepts/phenomenology/)
