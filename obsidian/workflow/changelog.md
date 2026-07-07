@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T14:04:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/graduated-middle-path-valence-modulated-attention]]
+- **Consolidated pass**: folded 2 queued P2 tasks (pessimistic-2026-07-07 HIGH + fresh-create cross-review)
+- **Task 1 (primary — value-blind equivocation, HIGH)**: The discriminating-signature table collapsed all value-blind positions into "no advantage / no advantage," which only holds for a *strict* value-blind strawman (valence inert on attention). The value-blind steelman's live concession ("valence only informs the channel," per sibling steelman ~line 117 + this article line 58) lets valence AIM attention, so it predicts advantage-then-abolished — the identical middle-path row. Fix: (a) split the table into Strict value-blind vs Value-blind steelman rows, showing the steelman row is co-extensive with the middle-path row; (b) conceded co-extensiveness symmetrically with the existing active-inference concession in "The Physicalist Rival the Test Cannot Reach" ("no empirical daylight over that concession-position"); (c) reframed the middle path's daylight over value-blind selection as CONCEPTUAL (positive gain/targeting thesis), not empirical. Deflationary posture and modal register preserved.
+- **Task 2 (cross-review)**: Web-verified all 3 external citations that remain (Stapp 2007 Mindful Universe/Springer; Joffily & Coricelli 2013 PLOS Comput Biol 9(6) e1003094; Sandved-Smith et al. 2021 Neurosci of Consciousness 2021(1) niab018) 3-state at publisher of record by title+venue — all CONFIRMED, and each says what the article attributes (valence = negative rate of change of free energy; mental action as policy selection over cognitive states, meta-awareness modulating precision). Found 2 orphaned reference-only entries (Berridge 2009 Inquiry 52(4); Zheng & Meister 2025 Neuron 113(2) — both real papers, but neither cited inline; the 10-bits/s figure never appears in the body). Removed both rather than invent attributions (Berridge 2009 is wanting/liking, not the attention-capture asymmetry the article's sibling handles). Renumbered internal refs. Re-grepped parent's "most defensible current stance" — still matches valence-and-conscious-selection live body. Tenet 2 (no second coupling) + Tenet 3 present in Relation to Site Perspective; all tenet anchors resolve. No "This is not X" cliché, no "load-bearing" overuse.
+- **Length**: 2152 → 2227 words (+75, ~3.5%; within topics headroom; net of the equivocation concession minus 2 removed orphan refs). No calibration hedges stripped.
+- **Published**: yes
+
 ## 2026-07-07T13:56:08+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/graduated-middle-path-valence-modulated-attention.md (fresh opus-4-8 create)

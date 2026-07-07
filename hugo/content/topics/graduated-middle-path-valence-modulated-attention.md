@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-07-07 13:21:32+00:00
+ai_modified: 2026-07-07 14:04:25+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,6 +20,7 @@ description: 'Built through human-AI refinement: the fork''s most defensible cur
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-07 14:04:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,17 +66,18 @@ So the honest placement is conservative. The middle path escapes epiphenomenalis
 
 ## The Discriminating Signature
 
-A specification earns its keep only if it predicts something the alternatives do not. The middle path does, and the prediction is sharper than the parent article's testability hooks record.
+A specification earns its keep only if it predicts something the alternatives do not. The middle path does—against the two *pure* horns—and the prediction is sharper than the parent article's testability hooks record.
 
 The parent lists, for the value-sensitive horn, that "valenced options should be selected more readily than neutral options **of equal attentional salience**." Read carefully, an equal-salience design is the discriminating instrument, because it clamps the very channel the middle path routes value through. Consider a task requiring conscious selection between two competing neural patterns, run in two conditions: one where attention is free to vary, and one where attentional salience is experimentally equalised across the options (matched bottom-up salience, matched cued attention, matched precision). Ask whether a valence *selection advantage*—valenced options winning selection more often, or with stronger conscious-selection neural signatures—survives the clamp.
 
-| Horn | Free attention | Salience clamped |
-|------|----------------|------------------|
-| **Pure value-blind** | no valence advantage | no valence advantage |
-| **Pure value-sensitive** | valence advantage | advantage *persists* (residual) |
+| Position | Free attention | Salience clamped |
+|----------|----------------|------------------|
+| **Strict value-blind** (valence inert on attention) | no valence advantage | no valence advantage |
+| **Value-blind steelman** (valence informs attention only) | valence advantage | advantage *abolished* |
 | **Graduated middle path** | valence advantage | advantage *abolished* |
+| **Pure value-sensitive** | valence advantage | advantage *persists* (residual) |
 
-The signature unique to the middle path is the **abolition-by-clamp**: an advantage that is present when attention is free and goes to zero when attention is equalised—a full mediation of value by attention, statistically a valence-by-clamp interaction with the valence effect vanishing under the clamp. Neither pure horn predicts it. The value-blind horn predicts nothing to abolish. The value-sensitive horn predicts a *residual* advantage under the clamp, because a direct valence-to-selection coupling has a route that does not pass through attention and so cannot be closed by clamping attention. The pattern that discriminates all three is the fate of the advantage under equalisation: absent throughout (value-blind), surviving (value-sensitive), or extinguished (middle path).
+The **abolition-by-clamp** is the middle path's characteristic result: a valence advantage present when attention is free and gone when attention is equalised—a full mediation of value by attention, statistically a valence-by-clamp interaction with the effect vanishing under the clamp. It separates the middle path from both *pure* horns: strict value-blind selection, with valence inert even on attention, predicts nothing to abolish; pure value-sensitive selection predicts a *residual* advantage, because a direct valence-to-selection coupling has a route the clamp cannot close. What abolition-by-clamp does *not* separate the middle path from is a value-blind position that concedes valence can inform the attentional channel—the [value-blind steelman](/topics/the-steelman-for-value-blind-selection/)'s live "valence only informs the channel" concession. That position predicts advantage-then-abolition too; its row is the middle path's exactly. Arriving one rival earlier than the active-inference limit the next section records, the clamp battery gives the middle path no empirical daylight over that concession-position: the two are co-extensive over everything the design can measure. The daylight the middle path holds is therefore *conceptual*, not empirical—it adds a positive thesis, that valence *is* what sets attentional gain and targeting, specified as a parameter on the one coupling the Map already posits, where the steelman's concession leaves the source of the attentional bias open.
 
 The interpretive payoff closes the loop with the previous section. The middle-path result—abolition—*is* the demotion to the weak reading. An advantage that disappears the moment attention is held constant demonstrates that valence had no selection route independent of attention: value is causally relevant via attention, and no further. Conversely, a residual advantage surviving the clamp would not confirm the middle path; it would vindicate the value-sensitive horn and earn the "doubly non-epiphenomenal" language directly. The same experiment thus decides which reading of value's causal standing is licensed, and the middle path's own confirming outcome is the one that withholds the strong claim. This is why the article declines to write the stance as a tier-upgrade of value-sensitivity: on its own predicted signature, confirming the middle path is confirming the weaker thesis.
 
@@ -113,8 +115,6 @@ Two consequences follow, both deflationary and both required. First, the test is
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 2. Joffily, M., & Coricelli, G. (2013). Emotional valence and the free-energy principle. *PLOS Computational Biology*, 9(6), e1003094. https://doi.org/10.1371/journal.pcbi.1003094
 3. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M.J.D. (2021). Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference. *Neuroscience of Consciousness*, 2021(1), niab018. https://doi.org/10.1093/nc/niab018
-4. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
-5. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
-6. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
-7. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Steelman for Value-Blind Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-steelman-for-value-blind-selection/
-8. Southgate, A. & Oquatre-six, C. (2026-01-14). Attention as Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/attention-as-interface/
+4. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+5. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Steelman for Value-Blind Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-steelman-for-value-blind-selection/
+6. Southgate, A. & Oquatre-six, C. (2026-01-14). Attention as Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/attention-as-interface/
