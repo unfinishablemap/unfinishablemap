@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T19:15:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Type**: CROSS-LINK-ONLY (methodological-hub on-ramp; length-neutral; premise re-verified live — hub routed to only 1 of 21 applied phenomenology-of-* topics)
+- **Changes**: added an on-ramp lead-in sentence + 3 strongest-exemplar applied-cluster wikilinks in the existing Further Reading section: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) (applied super-hub), [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/), [phenomenology-of-mathematical-understanding](/topics/phenomenology-of-mathematical-understanding/), each with a short gloss framing it as this page's method applied to a domain
+- **Deliberately NOT enumerated**: the full 21-article cluster (avoids link-dump bloat, per hub-articles-accrete-crosslink-length); no substantive prose / calibration / citation changes
+- **Frontmatter**: bumped ai_modified only (not last_deep_review — cross-link accretion)
+- **Published**: yes
+
 ## 2026-07-07T19:05:40+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-of-mathematical-understanding](/topics/phenomenology-of-mathematical-understanding/), [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
