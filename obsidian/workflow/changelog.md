@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T23:26:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Word count**: 3553 → 3553 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — genuine no-op. 6th review; scoped to the post-2026-06-19 integration content (3 sibling additions from expand-topic forks). All verified sound against source siblings: REBUS-as-EBH-successor (confirmed [[concepts/entropic-brain-hypothesis]] L62); self-fictionalism / three-pronged reply / Comforting-Delusion reversal (confirmed verbatim [[topics/predictive-self-binding-and-the-naturalist-challenge]] L31/33/53); compatibility-vs-support vs [[concepts/argument-from-mechanism]] distinction sound. All 4 new cross-links reciprocal — no expand-topic-skips-integration-chain gap.
+- **Citation web-verify**: No new verify owed. 24-entry ref set web-verified at publisher of record 2026-06-03 (Doss→Brain; Anderson→Prog Neurobiol; Gładziejewski→2023), unchanged since; the 3 integration additions cite only already-verified Carhart-Harris & Friston 2019 or link siblings. Anderson 2024 remains the single intentional References-only orphan. Currency sweep: 0 superlatives.
+- **Timestamp disposition**: last_deep_review bumped (2026-07-07T23:26:04+00:00); ai_modified NOT bumped (no content edit).
+- **Engagement classification**: Letheby (predictive self-binding) — Mode Two→Three mixed, natural prose, label-leakage clean.
+- **Output**: [[reviews/deep-review-2026-07-07-psychedelics-and-the-filter-model]]
+
 ## 2026-07-07T22:35:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/kabbalah-tzimtzum-consciousness-matter]]
