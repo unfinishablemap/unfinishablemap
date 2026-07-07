@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T00:19:51+00:00 - deep-review
+- **Status**: Success (7th review; one real body edit — cliché rewrite)
+- **File**: [[concepts/skill-delegation]]
+- **Word count**: 2115 → 2115 (+0, length-neutral; 85% of concepts 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (banned "not X. It is Y." construct in Phase-3 lede rewritten to "This capacity is observable rather than merely hypothetical—demonstrated…"; retained this pass, so both `ai_modified` and `last_deep_review` bumped)
+- **Citations (§2.4)**: publisher-of-record web-verify — all 7 refs real-correct, zero metadata errors (Saad 2025 Phil Studies 182(3):939-967 DOI 10.1007/s11098-025-02290-3 PMC12062107; Tulving 1985 Can Psych 26(1):1-12; Beilock & Carr 2001 JEP:General 130(4):701-725; Dreyfus & Dreyfus 1986 Mind over Machine, Free Press; Fitts & Posner 1967 Human Performance, Brooks/Cole). Both Southgate self-cites resolve live: implicit-memory direct; causal-delegation via _redirects 301 → delegatory-causation. No superlatives.
+- **Reasoning modes**: physicalist (choking, L75) Mode Two→Mixed; epiphenomenalist (L71) Mode Two; eliminative-materialist Mode Three bedrock. No boundary-substitution, no label leakage.
+- **Calibration**: intact — choking framed compatible/illustrative, not establishing dualism; no possibility/probability slippage. No refinement-log leakage.
+- **Output**: [[reviews/deep-review-2026-07-07-skill-delegation]]
+
 ## 2026-07-07T00:11:31+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny — cross-link convergence pass, 6th)
 - **File**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]]

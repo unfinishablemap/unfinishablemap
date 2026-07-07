@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-06-01T08:00:00+00:00
+ai_modified: 2026-07-07T00:19:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-06-01T08:00:00+00:00
+last_deep_review: 2026-07-07T00:19:51+00:00
 ---
 
 Skill delegation is the process by which consciousness trains a procedural system to perform a task, withdraws from active control, and retains the capacity to re-engage. A novice typist consciously selects each key; an expert's fingers move without reflective guidance. The skill has not vanished from consciousness—it has been *delegated*. The Unfinishable Map treats skill delegation as a central phenomenon for understanding mind-body interaction, because it reveals three things simultaneously: consciousness has genuine causal power (it trains the system), that power operates through an interface (it can withdraw), and the interface remains live (it can re-engage, sometimes disruptively).
@@ -58,7 +58,7 @@ This progressive withdrawal makes sense under the Map's framework: the low-bandw
 
 The defining feature of delegation—as opposed to mere loss—is that the delegator retains the capacity to re-engage. The expert typist can slow down and consciously select keys when typing an unfamiliar word. The skilled driver takes conscious control on black ice. The interface remains live.
 
-This capacity is not hypothetical. It is demonstrated empirically every time an expert consciously intervenes in an automatised skill—and, more dramatically, by the systematic disruption that occurs when re-engagement is involuntary.
+This capacity is observable rather than merely hypothetical—demonstrated every time an expert consciously intervenes in an automatised skill, and, more dramatically, by the systematic disruption that occurs when re-engagement is involuntary.
 
 ## The Choking Phenomenon as Evidence
 
