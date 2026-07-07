@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-24 18:38:00+00:00
+ai_modified: 2026-07-06 22:14:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -188,6 +188,7 @@ The distinction matters less than it might seem for the Map's core commitments, 
 - [epiphenomenalism](/concepts/epiphenomenalism/) — Property dualism's temptation that the Map refuses
 - [illusionism](/concepts/illusionism/) — The radical challenge that questions whether qualia exist at all
 - [haecceity](/concepts/haecceity/) — Primitive thisness that may ground the substance view
+- [four-category-ontology](/concepts/four-category-ontology/) — Lowe's Non-Cartesian Substance Dualism as the strongest *substance* option, congenial to the Map without being mandatory
 
 ## References
 

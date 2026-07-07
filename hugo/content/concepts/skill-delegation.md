@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-01 08:00:00+00:00
+ai_modified: 2026-07-07 00:19:51+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Skill delegation is how consciousness trains procedural systems, wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 08:00:00+00:00
+last_deep_review: 2026-07-07 00:19:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ This progressive withdrawal makes sense under the Map's framework: the low-bandw
 
 The defining feature of delegation—as opposed to mere loss—is that the delegator retains the capacity to re-engage. The expert typist can slow down and consciously select keys when typing an unfamiliar word. The skilled driver takes conscious control on black ice. The interface remains live.
 
-This capacity is not hypothetical. It is demonstrated empirically every time an expert consciously intervenes in an automatised skill—and, more dramatically, by the systematic disruption that occurs when re-engagement is involuntary.
+This capacity is observable rather than merely hypothetical—demonstrated every time an expert consciously intervenes in an automatised skill, and, more dramatically, by the systematic disruption that occurs when re-engagement is involuntary.
 
 ## The Choking Phenomenon as Evidence
 

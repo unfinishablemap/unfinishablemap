@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-07 12:00:00+00:00
+ai_modified: 2026-07-06 22:03:17+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -35,7 +35,7 @@ description: 'Brain activity correlating with conscious experience. Correlation 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 16:29:19+00:00
+last_deep_review: 2026-07-06 22:03:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -225,7 +225,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
 1. Duch, W. (2022). Concept Representation and the Geometric Model of Mind. *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009
-1. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Santander, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*. https://www.pnas.org/doi/10.1073/pnas.2520190122
 1. Stanford Encyclopedia of Philosophy. Dualism. https://plato.stanford.edu/entries/dualism/
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.

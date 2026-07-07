@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-06-08 00:00:00+00:00
+ai_modified: 2026-07-06 22:14:47+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -102,6 +102,7 @@ For the broader question of mental causation, see [mental causation](/concepts/m
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The contrary view that powers realism rules out as metaphysically impossible
 - [causal-closure](/concepts/causal-closure/) — Why physical causal closure is not absolute at quantum indeterminacies
 - [agent-causation](/concepts/agent-causation/) — Substance causation and the metaphysical foundation for free will
+- [four-category-ontology](/concepts/four-category-ontology/) — Lowe's ontology, where substances (not properties or events) are the bearers and exercisers of the powers this article describes
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The view that mind and body causally interact
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Challenges to interactionism and responses
 - [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — How non-physical causal powers that escape physical-state description bear on AI alignment: outcomes passing through the [mind-arena](/concepts/mind-arena/) have uncomputable consequence-distributions

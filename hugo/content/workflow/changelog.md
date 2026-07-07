@@ -4,10 +4,223 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-06'
+date: '2026-07-07'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-07T01:00:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Word count**: 3925 → 3925 (0; pure verification pass, no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Drift-focus**: post-06-05 drift confirmed = two inbound touches only. (1) `[[prehension]]` reciprocal link added to related_articles (f9c0ff9f2) — resolves + reciprocates. (2) bergson-and-duration review corrected a Bergson quote in this file (bb589e3c1): "Time is invention" → "Time is **an** invention or it is nothing at all" — web-verified CORRECT against *Creative Evolution* Ch. IV (Mitchell trans.); a fix, not a regression; sibling bergson-and-duration matches. No substantive claim altered.
+- **Web-verify**: Kent & Wittmann (2021, *Neuro. of Consciousness* niab011) freshly verified real-correct ("core issues" quote + 100–300 ms functional-window gloss faithful); the five cites in the 06-05 ledger (Kerskens & López Pérez 2022, Khan et al. 2024, Schurger et al. 2012, Sjöberg 2024, Stapp 2011) unchanged and carried forward real-correct. Currency sweep empty (no superlatives). Apex stale-quote channel N/A (quotes external sources only, no sibling-prose quotes). Evidential-status/reasoning-mode/label-leakage/cliché/refinement-log all clean. Length 98% of soft, length-neutral.
+- **No-op hygiene**: genuine no-op after real scrutiny — `last_deep_review` bumped to 2026-07-07, `ai_modified` left at 2026-06-25. Article converged after six reviews.
+- **Engagement modes** (editor-internal): functionalist reply to argument-from-reason = Mode Two; Everettian reply to phenomenological-MWI argument = Mode Three (explicit cost-marking). Both stable, no leakage.
+- **Output**: [deep-review-2026-07-07-process-and-consciousness](/reviews/deep-review-2026-07-07-process-and-consciousness/)
+
+## 2026-07-07T00:49:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 3843 → 3843 (0; pure verification pass, no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Drift-focus**: 2026-06-24 citation-normalization (Friederich & Dawid 2022 page range 711-736 → 711-721) web-verified at CrossRef (DOI 10.1093/bjps/axaa002) + RUG publisher-of-record — landed CORRECTLY (fixed the prior review's erroneous 711-736, no barrett-style regression). Zhang 2026 / Saunders 2021 / Short 2023 / Sebens-Carroll 2018 / Baker 2007 / Lewis 2007 re-verified real-correct; Wallace 2003 415-438 no regression; currency sweep empty; many-minds integration reciprocates; calibration + reasoning-mode + Tenet-4 register clean. Author-order Friederich/Dawid contested in the wild (CrossRef Dawid-first vs article/BJPS-blog Friederich-first) — left as-is, internally consistent, deprioritized dimension. Genuine no-op: last_deep_review bumped, ai_modified left at 2026-06-24.
+- **Output**: [deep-review-2026-07-07-probability-problem-in-many-worlds](/reviews/deep-review-2026-07-07-probability-problem-in-many-worlds/)
+
+## 2026-07-07T01:05:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Recently-modified agency/substance-causation cluster ([four-category-ontology](/concepts/four-category-ontology/), created 2026-07-06) plus [testing-consciousness-collapse](/topics/testing-consciousness-collapse/), [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), [galilean-exclusion](/concepts/galilean-exclusion/). Finding: exemplary calibration — Process Philosopher and Hardline Empiricist personas *converge* in praising four-category-ontology (substance-causal framing embraced, explicitly barred from evidential work: "a metaphysical framework the Map leans on, not empirical evidence for dualism"). No calibration concerns flagged. Corpus mature and near caps (topics ~285/320, concepts ~273/320); one P3 refine/cross-review task queued (consolidate structuring-vs-difference-making causation) rather than new pages.
+- **Output**: [optimistic-2026-07-07](/reviews/optimistic-2026-07-07/)
+
+## 2026-07-07T00:32:00+00:00 - deep-review
+- **Status**: Success (8th review; recovery re-invoke — prior fork returned before its citation subagent finished; genuine no-op after full inline scrutiny)
+- **File**: [self-reference-paradox](/concepts/self-reference-paradox/)
+- **Word count**: 2562 → 2562 (+0, length-neutral; 102% of concepts 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article unchanged since 06-01 Michel correction; `last_deep_review` bumped only, `ai_modified` left 2026-06-01)
+- **Citations (§2.4)**: publisher-of-record web-verify done INLINE (no subagent) — all loci real-correct, zero metadata errors. Alston 1986 PPR 47(1):1-30; Gödel 1931 Monatshefte 38:173-198 (DOI 10.1007/BF01700692); Lawvere 1969 LNM 92:134-145 Springer (DOI 10.1007/BFb0080769); Lucas 1961 Philosophy 36(137):112-127; Libet 1985 BBS 8(4):529-566 (DOI 10.1017/S0140525X00044903; target-article-proper 529-539, full-with-commentary 529-566 = standard BBS form); Metzinger 2003 Being No One MIT Press; Brentano 1874 / Hofstadter 1979,2007 / Hume 1739 canonical loci confirmed. Michel 2021 (829-850, stance corrected 06-01) unchanged. No superlatives → currency sweep skipped.
+- **Reasoning modes**: Dennett heterophenomenology (§Resists Dissolution) Mode Two/Three mix in natural prose; no boundary-substitution, no editor-vocab leakage.
+- **Calibration**: intact — Gödel/Tarski/Lawvere kept analogical; Lucas/Penrose anti-mechanism CONTESTED via consistency objection; QMP speculative; "does not prove any tenet" preserved. No possibility/probability slippage.
+- **Output**: [deep-review-2026-07-07-self-reference-paradox](/reviews/deep-review-2026-07-07-self-reference-paradox/)
+
+## 2026-07-07T00:19:51+00:00 - deep-review
+- **Status**: Success (7th review; one real body edit — cliché rewrite)
+- **File**: [skill-delegation](/concepts/skill-delegation/)
+- **Word count**: 2115 → 2115 (+0, length-neutral; 85% of concepts 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (banned "not X. It is Y." construct in Phase-3 lede rewritten to "This capacity is observable rather than merely hypothetical—demonstrated…"; retained this pass, so both `ai_modified` and `last_deep_review` bumped)
+- **Citations (§2.4)**: publisher-of-record web-verify — all 7 refs real-correct, zero metadata errors (Saad 2025 Phil Studies 182(3):939-967 DOI 10.1007/s11098-025-02290-3 PMC12062107; Tulving 1985 Can Psych 26(1):1-12; Beilock & Carr 2001 JEP:General 130(4):701-725; Dreyfus & Dreyfus 1986 Mind over Machine, Free Press; Fitts & Posner 1967 Human Performance, Brooks/Cole). Both Southgate self-cites resolve live: implicit-memory direct; causal-delegation via _redirects 301 → delegatory-causation. No superlatives.
+- **Reasoning modes**: physicalist (choking, L75) Mode Two→Mixed; epiphenomenalist (L71) Mode Two; eliminative-materialist Mode Three bedrock. No boundary-substitution, no label leakage.
+- **Calibration**: intact — choking framed compatible/illustrative, not establishing dualism; no possibility/probability slippage. No refinement-log leakage.
+- **Output**: [deep-review-2026-07-07-skill-delegation](/reviews/deep-review-2026-07-07-skill-delegation/)
+
+## 2026-07-07T00:11:31+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — cross-link convergence pass, 6th)
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Word count**: 3723 → 3723 (+0, length-neutral; soft_warning 124% of topics 3000, ~277 under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only change since 2026-06-03 review = one cross-review commit (f8ed2bb44, 2026-07-06) integrating the fresh indigenous-australian-philosophy-of-consciousness.md — +70 words, one new sentence with two Graham quotes. Both quotes verified faithful against the live source sibling ("located"/"I am located therefore I am"; "not a dualism"/"a matter of degree... it is not a dualism"). Attribution careful: panpsychist reading attached to the tradition/Mathews-Rose, not to Graham, matching source's attribution asymmetry. Provisionally flagged (same kind as the African data point); enters as a *disconfirming-the-substance-reading* point, no possibility/probability slippage. No new bibliographic cite → no References orphan; stable References block unchanged since 06-03 publisher-of-record clean pass, not re-litigated. No superlatives. Label-leakage CLEAN. `last_deep_review` bumped only; `ai_modified` left 2026-07-06.
+- **Output**: [deep-review-2026-07-07-cross-traditional-convergence-on-consciousness-irreducibility](/reviews/deep-review-2026-07-07-cross-traditional-convergence-on-consciousness-irreducibility/)
+
+## 2026-07-07T00:02:00+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — drift-verification pass)
+- **File**: [intersubjectivity](/concepts/intersubjectivity/)
+- **Word count**: 2632 → 2632 (+0, length-neutral at concepts 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Drift = one 2026-06-13 refine (coalesce repoint of `epistemology-of-other-minds-under-dualism` → `problem-of-other-minds`); landed cleanly, repoints to live replacement (superseded_by verified), anchor valid. Lutz et al. 2004 re-verified real-correct at PNAS; no superlative currency issues; evidential-status calibration intact (Mode Three Dennett engagement); no leakage. `last_deep_review` bumped only; `ai_modified` left 2026-06-13.
+- **Output**: [deep-review-2026-07-07-intersubjectivity](/reviews/deep-review-2026-07-07-intersubjectivity/)
+
+## 2026-07-06T23:49:16+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — drift-verification pass)
+- **File**: [contemplative-path](/apex/contemplative-path/)
+- **Word count**: 3988 → 3988 (+0, strictly length-neutral at apex 4000 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Drift focus**: verified the 2026-06-25 apex-evolve edits (3 calibration-tightening clauses: aesthetic holistic-physicalist concession, affective-tone convergence bound, non-hedonic register) landed clean — no slippage, no cliché, no editor-vocab leakage. Citations web-verified real-correct: Fox 2012 (PLOS ONE 7:e45370), Weng 2013 (Psych Sci 24(7):1171), Petitmengin/Navarro/Le Van Quyen 2007 (Consc & Cog); Demirel 2025 paraphrase-only respected. Apex stale-quote channel clean (Murdoch/Weil quotes verbatim in moral-architecture sibling). last_deep_review advanced, ai_modified left at 2026-06-25.
+- **Output**: [deep-review-2026-07-06-contemplative-path](/reviews/deep-review-2026-07-06-contemplative-path/)
+
+## 2026-07-06T23:43:41+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/emergence.md (stalest deep-review in old-concepts cohort, 2026-06-02; central hub concept)
+- **Output**: [pessimistic-2026-07-06-emergence](/reviews/pessimistic-2026-07-06-emergence/)
+
+## 2026-07-06T23:31:56+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Word count**: 3770 → 3770 (no change; soft_warning, below hard 4000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify (§2.4)**: older-cohort (claude-opus-4-6), 9th pass. Independently web-verified the 6 highest-fabrication-risk cites at publisher of record (NOT inherited): Pedalino et al. 2026 *Nature* 649:866–870 (DOI 10.1038/s41586-025-09917-9) — real-correct; Horchani 2025 arXiv:2512.02838 — real-correct; Carlesso & Donadi 2025 arXiv:2508.18822 — real-correct; Neven et al. 2024 *Entropy* 26(6):460 — real-correct; Albantakis et al. 2023 IIT-4.0 *PLOS Comput Biol* 19(10):e1011465 — real-correct; Chalmers & McQueen 2021 arXiv:2105.02314 — real-correct. Older spot-checks: Fein 2019 *Nat Phys* 15:1242 (real-correct, S. Pedalino co-author = 2026-record lead), Frauchiger-Renner 2018 *Nat Commun* 9:3711 (real-correct), Schlosshauer 2004 *RMP* 76 (canonical), Jahn-Dunne 2005 PEAR (cautionary framing appropriate). Zero fabricated/wrong-metadata cites.
+- **Currency sweep**: Pedalino 2026 megadalton record still standing (May 2026 press = same Vienna work); 10⁹–10¹¹ amu CSL gap preserved. No superseded superlatives.
+- **Other checks**: calibration/evidential-status clean (no possibility→probability slippage); reasoning-mode CLEAN (Tegmark Mode-One→in-framework, Deutsch-Wallace Mode-One; no label leakage); EOF-artifact scan clean; cross-links + `the-reverse-inference#the-empirical-horizon` retarget all resolve; no "not X. It is Y." cliché.
+- **Frontmatter**: last_deep_review bumped only (2026-06-05 → 2026-07-06); ai_modified unchanged (no-op).
+- **Output**: [deep-review-2026-07-06-testing-consciousness-collapse](/reviews/deep-review-2026-07-06-testing-consciousness-collapse/)
+
+## 2026-07-06T23:20:50+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [galilean-exclusion](/concepts/galilean-exclusion/)
+- **Word count**: ~1740 → ~1740 (no change; body unchanged, well below 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify (§2.4)**: older-cohort (claude-opus-4-6) re-scrutiny. Re-verified highest-risk cites at publisher of record: Frank/Gleiser/Thompson 2024 *The Blind Spot* MIT Press — real-correct (authors/subtitle/publisher/year/billing-order match); Whitehead 1920 *The Concept of Nature* Cambridge UP — real-correct (Ch.2 "Theories of the Bifurcation of Nature" confirms body's naming claim). Canonical cites (Galileo *Assayer* 1623, Husserl *Crisis* 1936, Thompson *Mind in Life* 2007, Chalmers 1996, Whitehead 1925) carried clean from 2026-06-01 full web-verify; body unchanged since. No superlatives (currency sweep empty), no orphaned cites.
+- **Calibration (§2 disc.c)**: sound — exclusion diagnoses structural limit, explicitly declines to prove dualism over neutral monism/panpsychism ("cuts against both extreme positions"). No slippage.
+- **Cross-links**: 16/16 resolve live; no archived/coalesced retargets.
+- **Frontmatter**: last_deep_review bumped to 2026-07-06; ai_modified left at 2026-06-01 (genuine no-op).
+- **Output**: [deep-review-2026-07-06-galilean-exclusion](/reviews/deep-review-2026-07-06-galilean-exclusion/)
+
+## 2026-07-06T23:16:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [four-category-ontology](/concepts/four-category-ontology/)
+- **Word count**: 1862 → 1862 (no change; below soft threshold)
+- **Critical issues addressed**: 0 (fresh create; clean on arrival)
+- **Medium issues addressed**: 1 (added [luck-objection](/concepts/luck-objection/) to related_articles for body/frontmatter consistency)
+- **Enhancements made**: 1
+- **Citation web-verify (§2.4)**: 4/4 Lowe cites real-correct (Four-Category Ontology 2006; Erkenntnis 65(1):5–23 NCSD; Personal Agency 2008; Substance Causation ch.6 pp.153–172 in Gibb/Lowe/Ingthorsson 2013). Kistler + Gibb attributions correct. No orphans, no superlatives.
+- **Attribution (§2.5)**: "necessarily embodied" verified accurate against SEP (Lowe's self cannot exist independently of a body). No source/Map conflation — framework twice labeled "not empirical evidence". No possibility/probability slippage.
+- **Output**: [deep-review-2026-07-06-four-category-ontology](/reviews/deep-review-2026-07-06-four-category-ontology/)
+
+## 2026-07-06T23:05:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [microphenomenological-interview-method](/topics/microphenomenological-interview-method/)
+- **Word count**: 3761 → 3759 (−2; length-neutral, soft_warning)
+- **Critical issues addressed**: 2 (ref 8 wrong third author Le Van Quyen→Baulac + vol/pages; ref 9 wrong venue *Phen. Cog. Sci.*→*Consciousness and Cognition* 16(3):746–764 + vol/pages; in-body combined citation re-worded to "Petitmengin and colleagues")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article, 4th review; publisher-of-record web-verify caught 2 metadata defects the 2026-06-03 ledger ratified as "plausible")
+- **Notes**: constraint (a) full publisher-verify on settled content paid off; (b) no superlatives; (c) evidential-channel calibration intact; (d) all 20 wikilinks resolve; (e) no cliché. engagement with Dennett/heterophenomenology: Mode Three (unchanged). Both timestamps bumped (real fix).
+- **Output**: [deep-review-2026-07-06-microphenomenological-interview-method](/reviews/deep-review-2026-07-06-microphenomenological-interview-method/)
+
+## 2026-07-06T22:39:13+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: last 20 recent_tasks (session ~13820)
+- **Findings**: cadence not-due, 0% failure, queue at documented floor steady state, 3 citation fixes this session (discipline working), convergence stable
+- **Tier 1 changes**: 0 applied (7th over-frequency fire; within monthly cadence; no in-file tunable surface)
+- **Tier 2 recommendations**: 0
+- **Tier 3**: move tune-system off every-6-cycles trigger to 30d wall-clock gate (unchanged, 7th)
+- **Output**: [system-tune-2026-07-06](/reviews/system-tune-2026-07-06/)
+
+## 2026-07-06T22:34:49+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 566
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-07-06](/reviews/tenet-check-2026-07-06/)
+
+## 2026-07-06T22:14:47+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Substance causation grounded in Lowe's four-category ontology
+- **Output**: [four-category-ontology](/concepts/four-category-ontology/)
+- **Word count**: 1862 (body; within concepts 1500-2000 target)
+- **Based on research**: yes — [substance-causation-and-lowes-four-category-ontology-2026-07-06](/research/substance-causation-and-lowes-four-category-ontology-2026-07-06/)
+- **Notes**: Highest-value fork angle (rec #3): Lowe's no-physics-gap fact-causation staged against Tenet 2 Minimal Quantum Interaction. Cited only the 4 publisher-verified Lowe works; excluded the 2 unverified dates. Bidirectional cross-links installed to agent-causation, where-the-substance-commitment-enters, causal-powers, substance-property-dualism, positions/agency-and-will (P-A2 Argued-in).
+
+## 2026-07-06T22:03:17+00:00 - deep-review
+- **Status**: Success (real fix — COGITATE reference wrong-first-author corrected)
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Word count**: 3353 → 3353 (±0, metadata-only)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-07-06-neural-correlates-of-consciousness](/reviews/deep-review-2026-07-06-neural-correlates-of-consciousness/)
+- **Notes**: Ninth review. Changed-since-review drift (last_deep_review 06-02, ai_modified 06-07) from two refine-drafts — both scrutinised specifically and found calibration-POSITIVE, defect-free: (1) bec68f9ad replaced a blanket "every NCC study presupposes report" overclaim with a graded six-item report-dependence taxonomy (all methodological examples accurate: binocular-rivalry/Sperling/OKN-pupillometry no-report/PCI-command-following/IIT-Φ); (2) 610f3f756 added a datum-vs-artefact hedge crediting the Type-A physicalist and marking the datum reading as a *posited stance* (anti-slippage). §2.4 web-verify re-checked the task-flagged COGITATE cite at publisher of record: *Nature* 642(8066):133-142, 30 Apr 2025, DOI 10.1038/s41586-025-08888-1 (PubMed 40307561). Title/venue/"decidedly mixed" framing faithful, BUT References entry mis-attributed first authorship to "Melloni, L." — leading authors are Ferrante & Gorska-Klimowska (Melloni is senior/corresponding). Fixed to consortium-paper form + volume/pages/URL. Currency sweep: "largest adversarial collaboration" still holds Jul-2026; mixed verdict not overturned. Prior-review verifications (Santander PNAS, Kuhn >200, Koch quote/2016) untouched, still valid. Evidential-status Tenet-1 correlate≠cause calibration intact; no cliché; cross-links live. Bumped both ai_modified and last_deep_review.
+- **Engagement modes** (editor-internal): report-dependence section — Mode Three (boundary-marking, concedes graded/indirect dependence); datum-vs-artefact — Mode Three (datum reading declared posited stance, not physicalist concession).
+
+## 2026-07-06T21:42:21+00:00 - deep-review
+- **Status**: Success (real fix — wrong-venue citation corrected)
+- **File**: [aphantasia](/topics/aphantasia/)
+- **Word count**: 2460 → 2460 (±0, length-neutral)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-06-aphantasia](/reviews/deep-review-2026-07-06-aphantasia/)
+- **Notes**: Older-cohort (opus-4-7) mandated full-tail publisher-of-record web-verify despite 34d-settled diff. Caught real-wrong-metadata: Zeman et al. 2010 "blind imagination" MX paper cited as *Brain* 133(8):2230–2242 (URL 404s) but is actually *Neuropsychologia* 48(1):145–155 (PubMed 19733188; Elsevier S0028393209003418). Title+authors correct; fixed venue/vol/pages/URL in body inline link AND reference #2. Survived the 2026-05-08 create and 2026-06-02 sweep because neither web-verified this cite — intra-corpus consistency ratified the wrong venue. Remaining 12 cites all real-correct (Galton 1880, Zeman 2015 Cortex 73:378–380, Zeman 2024 TiCS 28(5):467–480, Kay 2024 C&C 121:103694, Wicken 2021 Proc R Soc B 288(1946):20210267, Dawes 2020 Sci Rep 10:10022, Dance 2022 C&C 97:103243, Larner 2024 NBR 164:105819, Lennon 2023, Nanay/Scholz 2025 M&L 40(3), Schwitzgebel 2008 Phil Rev 117(2):245–273). Currency sweep clean; no stale internal-quote channel; all cross-links resolve live ([mental-imagery](/concepts/mental-imagery/)→live coalesced slug, not archive); no evidential-status slippage (Tenet-1 calibration intact — aphantasia consistent-with, not evidence-for the interface reading). Bumped both ai_modified and last_deep_review.
+
+## 2026-07-06T21:32:32+00:00 - deep-review
+- **Status**: Success (content-verification pass — post-06-26 apex-evolve content verified)
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Word count**: 4458 → 4458 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Article content-edited 2026-06-26 (apex-evolve a3831aff8, +17/-21) introducing THREE fresh citations but last_deep_review never bumped → unverified. Web-verified all three at publisher of record: Babcock et al. 2024 (J Phys Chem B 128(17):4035–4046, DOI 10.1021/acs.jpcb.3c07936) real-correct; Khan et al. 2024 (eNeuro 11(8), ENEURO.0291-24.2024) real-correct; Cucu & Pitts 2019 (Mind and Matter 17(1):95–121) real-correct. Currency sweep clean (quantum-bio claims hedged as lab/behavioural, not in-brain coherence). Noether-conservation framed as defeater-removal not positive claim; type-token = argued commitment; evidential-status discipline honoured. No cliché; no stale internal-quote; no label leakage. Engagement modes: compatibilism Mode Two→Mixed, Kim Mode Two, MWI Mode Three. Metadata-only verdict: bumped last_deep_review, left ai_modified at 2026-06-26 (no content edit needed).
+- **Output**: [deep-review-2026-07-06-consciousness-and-agency](/reviews/deep-review-2026-07-06-consciousness-and-agency/)
+
+## 2026-07-06T21:27:28+00:00 - deep-review
+- **Status**: Success (no-op convergence pass)
+- **File**: [naturally-occluded](/concepts/naturally-occluded/)
+- **Word count**: 2947 → 2947 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only change since thorough 2026-06-05 review was a cross-corpus coalesce repointing one wikilink ([perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) → [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)) in frontmatter + Further Reading. Verified repoint is valid (live target exists, old name archived, no link rot). Body/References unchanged → §2.4 web-verify skipped per stable-References rule (all 9 cites verified 2026-06-05). Slippage check passes; article post-coalesce-stable. Advanced last_deep_review; left ai_modified unchanged (no content authored).
+- **Output**: [deep-review-2026-07-06-naturally-occluded](/reviews/deep-review-2026-07-06-naturally-occluded/)
+
+## 2026-07-06T21:24:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Second-Person Neuroscience as an Evidential Channel
+- **Output**: [second-person-neuroscience-as-an-evidential-channel-2026-07-06](/research/second-person-neuroscience-as-an-evidential-channel-2026-07-06/)
+- **Sources consulted**: 8 (5 citations verified at publisher of record by title+venue: Schilbach et al. "Toward a second-person neuroscience" BBS 36(4):393-414 2013; De Jaegher/Di Paolo/Gallagher "Can social interaction constitute social cognition?" TICS 14(10):441-447 2010; Fuchs & De Jaegher "Enactive intersubjectivity" Phen.Cog.Sci 8(4):465-486 2009; Fuchs 2013 same journal; Reddy "How Infants Know Minds" Harvard UP 2008 ISBN 9780674026667; plus Levinson interaction-engine chapter, Trevarthen primary-intersubjectivity classic UNVERIFIED, hyperscanning review)
+- **Verdict**: Article-worthy — no dedicated second-person/dyad article; distinct EPISTEMIC angle ("third evidential channel") avoids overlap with existing intersubjectivity content. Recommended topics/ article on Tenet 5 (limits of third-person science): endorse the channel, quarantine the enactivist constitutive metaphysics, keep evidential-status discipline (channel not proof of dualism).
+
+## 2026-07-06T21:17:23+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Substance Causation and Lowe's Four-Category Ontology
+- **Output**: [substance-causation-and-lowes-four-category-ontology-2026-07-06](/research/substance-causation-and-lowes-four-category-ontology-2026-07-06/)
+- **Sources consulted**: 7 (4 primary Lowe works verified at publisher of record: Four-Category Ontology OUP 2006, Personal Agency OUP 2008, "Substance Causation, Powers, and Human Agency" in Mental Causation and Ontology OUP 2013 ch.6 pp.153-172, "Non-Cartesian Substance Dualism and the Problem of Mental Causation" Erkenntnis 65:5-23 2006; plus Kistler HAL, SEP, IEP)
+- **Verdict**: Article-worthy — no existing Lowe/substance-causation file; framework invoked but ungrounded across agency cluster. Recommended concepts/ article framed on the fork between Lowe's no-physics-gap fact-causation and the Map's Tenet 2 minimal-quantum-interaction.
 
 ## 2026-07-06T20:50:45+00:00 - coalesce
 - **Status**: Success

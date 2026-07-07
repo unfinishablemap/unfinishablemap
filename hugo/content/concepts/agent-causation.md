@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-06 11:03:24+00:00
+ai_modified: 2026-07-06 22:14:47+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -187,6 +187,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 - [luck-objection](/concepts/luck-objection/), [agency-void](/voids/agency-void/) — The central objection and the verification-circularity limit
 - [motor-selection](/concepts/motor-selection/), [attention-as-interface](/concepts/attention-as-interface/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Empirical and phenomenological grounding
 - [skill-delegation](/concepts/skill-delegation/), [trumping-preemption](/concepts/trumping-preemption/), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/), [causal-closure](/concepts/causal-closure/), [causal-interface](/voids/causal-interface/) — Metaphysics of the interface
+- [four-category-ontology](/concepts/four-category-ontology/) — Lowe's substance-ontological foundation for the substance-causation this article rests on, and the fact-causation vs minimal-quantum-interaction fork
 - [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/) — Mind-body mechanism
 - [argument-from-reason](/topics/argument-from-reason/), [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Non-phenomenological and clinical routes to mental causation
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/), [consciousness-value-connection](/concepts/consciousness-value-connection/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Ethical implications

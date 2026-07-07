@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-24 18:38:00+00:00
+ai_modified: 2026-07-06 22:14:47+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -72,6 +72,7 @@ The lean also interacts with [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occam
 
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The full comparison of the two ontologies, with the combination-problem and pairing-problem considerations the Map weighs
 - [agent-causation](/concepts/agent-causation/) — Why the Map's framework is agent-causal, and the substance-causation tradition (Reid, Chisholm, O'Connor, Lowe) that grounds the persisting-subject requirement
+- [four-category-ontology](/concepts/four-category-ontology/) — What that persisting subject *is*: Lowe's four-category grid and substance causation, the metaphysics behind the "agent qua substance" phrasing this page localises
 - [free-will](/topics/free-will/) — The agency-cluster article where the substance-leaning is most load-bearing
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Where bare interactionism suffices and where the agent-causal pairing pulls in the substance reading
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How irreducible authorship in the moral arguments inherits the lean from the agency cluster
