@@ -57,7 +57,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-07-07T03:59:37+00:00
 coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---

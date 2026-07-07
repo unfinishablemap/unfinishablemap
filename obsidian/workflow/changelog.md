@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T03:59:37+00:00 - deep-review
+- **Status**: Success (genuine no-op after real scrutiny)
+- **File**: [[concepts/interactionist-dualism]]
+- **Word count**: 3326 → 3326 (no change; length-neutral, 133% of soft, under 3500 hard cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (reference-list inline orphans noted as intentional/stable, not fixed)
+- **Enhancements made**: 0
+- **Drift verified**: 2026-07-06 cross-review (197d940a) added [[hylomorphic-dualism-and-the-interaction-problem]] to related_articles + Further Reading — landed cleanly, reciprocity confirmed load-bearing, no editor-vocab / refinement-log leakage
+- **Citations web-verified (title+venue)**: Swinburne 2013 (*Mind, Brain, and Free Will*, OUP) — real-correct; Bailey/Rasmussen/Van Horn 2011 (No Pairing Problem, Phil Studies 154:349-360) — real-correct. Superlative sweep: 0 hits, no currency drift. 06-05 Stapp/Schwartz fix intact.
+- **Frontmatter**: last_deep_review bumped to 2026-07-07; ai_modified left at 2026-07-06 cross-review stamp (no content change)
+- **Output**: [[reviews/deep-review-2026-07-07-interactionist-dualism]]
+
 ## 2026-07-07T03:53:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/philosophy-of-action-under-dualism]]
