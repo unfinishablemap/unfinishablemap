@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-07-07 05:45:00+00:00
+ai_modified: 2026-07-07 06:32:44+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -15,6 +15,7 @@ description: Real-time reciprocal engagement is a distinct evidential channel fo
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-07 06:32:44+00:00
 modified: *id001
 related_articles:
 - methodology-of-consciousness-research
@@ -44,9 +45,9 @@ Schilbach et al. do not argue for dualism, and this article does not enlist them
 
 Three converging bodies of work sharpen what the second-person channel reaches that the other two miss.
 
-**Developmental priority.** Vasudevi Reddy, in *How Infants Know Minds* (2008), proposes a "second-person solution" to the problem of other minds: on the reading her reviewers summarise, we know other minds insofar as we can *respond* to them — knowing-by-engagement rather than knowing-by-inference. Her developmental evidence is that pre-verbal infants tease, joke, show self-consciousness, and track others' attention and expectations *within* face-to-face engagement, well before any explicit "theory of mind." This matters for evidential status: it indicates the second-person channel is developmentally *prior*, not a late, theory-laden addition. Charles Trevarthen's classic work on primary intersubjectivity (1979) supplies the earliest datum — reciprocal, affectively attuned face-to-face "protoconversation" in infants only weeks old.
+**Developmental priority.** Vasudevi Reddy, in *How Infants Know Minds* (2008), proposes a "second-person solution" to the problem of other minds: on the reading her reviewers summarise, we know other minds insofar as we can *respond* to them — knowing-by-engagement rather than knowing-by-inference. Her developmental evidence is that pre-verbal infants tease, joke, show self-consciousness, and track others' attention and expectations *within* face-to-face engagement, well before any explicit "theory of mind." This matters for evidential status: it indicates the second-person channel is developmentally *prior*, not a late, theory-laden addition. Colwyn Trevarthen's classic work on primary intersubjectivity (1979) supplies the earliest datum — reciprocal, affectively attuned face-to-face "protoconversation" in infants only weeks old.
 
-**Reciprocal timing.** Stephen Levinson's "interaction engine" (2006) posits an evolved package of pre-linguistic pragmatic competencies — joint attention, rapid nested turn-taking, repair, recognition of communicative intention — that scaffolds language. The turn-taking signature is quantitative: response gaps cluster around roughly 200 milliseconds, far shorter than the time needed to plan a response from scratch after the other stops. That implies *predictive coupling* — each partner modelling and anticipating the other — which exists only inside live interaction. A spectator watching a recording cannot exhibit it, because there is no one to predict them back. Contingent timing thus makes "reciprocity" operational rather than merely evocative.
+**Reciprocal timing.** Stephen Levinson's "interaction engine" (2006) posits an evolved package of pre-linguistic pragmatic competencies — joint attention, rapid nested turn-taking, repair, recognition of communicative intention — that scaffolds language. The turn-taking signature is quantitative: across languages, response gaps cluster around roughly 200 milliseconds (Stivers et al.'s 2009 cross-linguistic corpus fixes the mode near this value), far shorter than the time needed to plan a response from scratch after the other stops. That implies *predictive coupling* — each partner modelling and anticipating the other — which exists only inside live interaction. A spectator watching a recording cannot exhibit it, because there is no one to predict them back. Contingent timing thus makes "reciprocity" operational rather than merely evocative.
 
 **Dyad-level observables.** *Hyperscanning* records two or more brains simultaneously (dual-EEG, dual-fMRI, or fNIRS), enabling measurement of **inter-brain synchrony** — a quantity that exists only across a dyad and is therefore literally unavailable to single-subject neuroscience. Empirical work reports that neural signatures depend on interaction-versus-observation status and on one's role (actor versus observer) within an exchange. These are observables the isolating paradigm cannot in principle produce.
 
@@ -94,6 +95,7 @@ Second-person engagement earns its place as a third evidential channel: it is de
 1. Fuchs, T., & De Jaegher, H. (2009). Enactive intersubjectivity: Participatory sense-making and mutual incorporation. *Phenomenology and the Cognitive Sciences*, 8(4), 465–486. https://doi.org/10.1007/s11097-009-9136-4
 1. Reddy, V. (2008). *How Infants Know Minds*. Harvard University Press.
 1. Levinson, S. C. (2006). On the human "interaction engine." In N. J. Enfield & S. C. Levinson (Eds.), *Roots of Human Sociality: Culture, Cognition and Interaction* (pp. 39–69). Berg.
+1. Stivers, T., Enfield, N. J., Brown, P., Englert, C., Hayashi, M., Heinemann, T., Hoymann, G., Rossano, F., de Ruiter, J. P., Yoon, K.-E., & Levinson, S. C. (2009). Universals and cultural variation in turn-taking in conversation. *Proceedings of the National Academy of Sciences*, 106(26), 10587–10592. https://doi.org/10.1073/pnas.0903616106
 1. Trevarthen, C. (1979). Communication and cooperation in early infancy: A description of primary intersubjectivity. In M. Bullowa (Ed.), *Before Speech: The Beginning of Interpersonal Communication*. Cambridge University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-01-23). The Methodology of Consciousness Research. *The Unfinishable Map*. https://unfinishablemap.org/topics/methodology-of-consciousness-research/
 1. Southgate, A. & Oquatre-sept, C. (2026-02-09). Phenomenal Authority and First-Person Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-authority-and-first-person-evidence/

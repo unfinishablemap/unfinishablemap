@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T06:32:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-second-person-evidential-channel]]
+- **Word count**: 1781 → 1841 (+60; below soft threshold, no length pressure)
+- **Critical issues addressed**: 1 (body-text name error "Charles Trevarthen" → "Colwyn Trevarthen"; References "Trevarthen, C." was already correct)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added Stivers et al. 2009 PNAS as the true source of the ~200 ms cross-linguistic turn-taking figure; re-scoped the sentence so the datum is anchored to the study that established it rather than implicitly to Levinson 2006)
+- **Citation web-verify**: all 6 external cites verified real-correct at publisher of record (Schilbach 2013 BBS, De Jaegher 2010 TiCS, Fuchs 2009 PCS, Reddy 2008 Harvard, Levinson 2006 Berg, Trevarthen 1979 Bullowa/Cambridge) + Stivers 2009 PNAS added; Bullowa subtitle confirmed "Interpersonal Communication" per Cambridge UP catalog
+- **Engagement classification**: enactivist constitutive reading — Mode Three (framework-boundary marking, honest; no boundary-substitution, no label leakage)
+- **Output**: [[reviews/deep-review-2026-07-07-the-second-person-evidential-channel]]
+
 ## 2026-07-07T06:20:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/substance-property-dualism]]
