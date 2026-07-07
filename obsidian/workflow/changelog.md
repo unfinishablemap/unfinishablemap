@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T01:44:32+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Anthropic's "global workspace / J-space" work (paper + three commentaries)
+- **Output**: [[anthropic-global-workspace-j-space-2026-07-07]]
+- **Sources consulted**: 6 (Anthropic paper + announcement, commentary PDF, Nanda/LessWrong review, trade coverage, Map internals)
+- **Recommendation**: New concepts/ article ("The J-Space / Verbalizable Global Workspace in LLMs") + integrate into access-consciousness, phenomenal-consciousness, global-workspace-theory, ai-consciousness/llm-consciousness. Caps allow (concepts ~273/320). Load-bearing caveat captured verbatim; authors take NO position on phenomenal consciousness — a gift to the access/phenomenal split, not a threat.
+
 ## 2026-07-07T01:27:24+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/russellian-monism]]

@@ -4,7 +4,7 @@ description: "Editorial standards for The Unfinishable Map: LLM-first structure,
 created: 2026-01-07
 modified: 2026-05-17
 human_modified: 2026-01-07
-ai_modified: 2026-06-25T07:14:06+00:00
+ai_modified: 2026-07-07T01:40:17+00:00
 last_deep_review: 2026-05-17T12:00:00+00:00
 draft: false
 topics: []
@@ -372,6 +372,15 @@ When writing about these subjects:
 - Ensure the Map's core argument would survive if the mechanism were disproven
 - Balance with alternative mechanisms or acknowledge uncertainty
 - Don't let articles become primers on the mechanism itself
+
+### Overused Words and Constructions
+
+Certain words and phrasings have become LLM tells through overuse; reach for them sparingly. This is a guide for *future* writing — there is no need to sweep existing uses out of the corpus.
+
+- **"Load-bearing"** — as a metaphor for "essential" or "the claim everything rests on," this has become a reflexive intensifier. It is fine where it does real work as a precise structural term (a premise a specific argument genuinely depends on, as in this guide's own methodology sections), but do not reach for it as a default emphasis word. Prefer plain alternatives — *central*, *essential*, *the claim the argument turns on* — or simply state why the point matters.
+- **"This is not X. It is Y."** — the negation-then-correction construct has become an overused LLM pattern that grates on readers. Rephrase to make the positive claim directly, or integrate the contrast more naturally.
+
+When a word starts appearing as a habitual flourish rather than for its precise meaning, drop it. The test is whether a plainer word would lose anything; if not, use the plainer word.
 
 ## Tenet Alignment
 

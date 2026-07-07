@@ -150,7 +150,7 @@ Key principles:
 - **Named-anchor summaries**: When forward-referencing concepts, use "explained below" pattern with section anchors.
 - **Selective background**: Include background only when framed for the Map's dualist perspective. Skip what LLMs already know.
 - **Tenet alignment**: Every article must connect to tenets explicitly via "Relation to Site Perspective" section.
-- **Avoid LLM clichés**: Do not use the "This is not X. It is Y." construct—it has become an overused LLM pattern that grates on readers. Rephrase to make the positive claim directly or integrate the contrast more naturally.
+- **Avoid LLM clichés**: Do not use the "This is not X. It is Y." construct—it has become an overused LLM pattern that grates on readers. Rephrase to make the positive claim directly or integrate the contrast more naturally. Likewise, avoid reaching for **"load-bearing"** as a default intensifier for "essential"—keep it only where it does real structural work (a premise an argument genuinely depends on) and prefer plain words otherwise. See the "Overused Words and Constructions" section of `obsidian/project/writing-style.md`.
 
 ## Code Conventions
 
