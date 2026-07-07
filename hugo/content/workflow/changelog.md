@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T09:36:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [access-consciousness](/concepts/access-consciousness/)
+- **Word count**: 2239 → 2244 (+5; precision reword on the fresh J-space paragraph)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (dissociation-language precision: "come apart" → "separability" on the new J-space paragraph — access realized, phenomenal left open, not a proven both-way dissociation)
+- **Enhancements made**: 1
+- **Citations web-verified**: Gurnee et al. 2026 (Transformer Circuits Thread / Anthropic, July 6 2026) — publisher-of-record real-correct: exact title, all 16 authors in order, verbatim quote confirmed. Pre-existing References verified in prior cycle; unchanged, not re-litigated.
+- **Output**: [deep-review-2026-07-07-access-consciousness](/reviews/deep-review-2026-07-07-access-consciousness/)
+
 ## 2026-07-07T09:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [identity-across-transformations](/apex/identity-across-transformations/)
