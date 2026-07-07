@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T11:53:31+00:00 - deep-review
+- **Status**: Success (genuine no-op convergence pass, 5th review; content unchanged since 2026-06-13 except a coalesce link-retarget, no content edits)
+- **File**: [epistemology](/concepts/epistemology/)
+- **Word count**: 1936 → 1936 (0; 77% of concepts soft threshold, comfortable headroom)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: STALENESS floor-restore (30d since 2026-06-07 review). Only post-review change was commit 7232398a3 — a coalesce link-RETARGET repointing `[[epistemology-of-other-minds-under-dualism]]` → live `[[problem-of-other-minds]]`; VERIFIED clean: all 3 refs (L28/L79/L110) hit the live coalesced target, anchor `#The Dualist's Dilemma` resolves to real heading (L112 of target), old target correctly archived. Web-verified Jackson 1982 (PQ 32(127),127-136, DOI 10.2307/2960077) + Levine 1983 (PPQ 64,354-361, DOI 10.1111/j.1468-0114.1983.tb00207.x) real-correct at publisher of record; Nagel 1974 / Chalmers 1996 / Southgate-Oquatre-six 2026 canonical, carried from 06-07 (References block byte-unchanged). No superlative claims → no currency sweep. Evidential-status discipline: convergence-vs-parsimony asymmetry + dualist other-minds framed as LIVE positions with partial-independence concession intact, no possibility/probability slippage. All 26 cross-links resolve live, no archival link rot. Tenet 5 routing present in "Relation to Site Perspective". No "This is not X" cliché; 2 "load-bearing" uses both structural, not overuse. last_deep_review bumped ALONE to 2026-07-07 (ai_modified left at 2026-06-13); stamp date -u-verified not future-dated.
+- **Output**: [deep-review-2026-07-07-epistemology](/reviews/deep-review-2026-07-07-epistemology/)
+
 ## 2026-07-07T11:44:15+00:00 - deep-review
 - **Status**: Success (genuine no-op convergence pass, 4th review; content unchanged since 2026-06-12, no content edits)
 - **File**: [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)

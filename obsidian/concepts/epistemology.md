@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-25
 last_curated:
-last_deep_review: 2026-06-07T00:00:00+00:00
+last_deep_review: 2026-07-07T11:53:31+00:00
 ---
 
 Epistemology — the study of knowledge, justification, and rational belief — takes on distinctive significance in The Unfinishable Map's framework because the consciousness debate is, at bottom, an epistemological crisis. The central dispute is not merely about what exists but about what kinds of evidence count, what methods of inquiry are appropriate, and whether the standard epistemic toolkit — third-person observation, parsimony, empirical prediction — is adequate for the domain it is being asked to adjudicate.
