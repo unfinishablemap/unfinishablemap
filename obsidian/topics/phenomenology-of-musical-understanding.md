@@ -4,7 +4,7 @@ description: "Musical understanding reveals consciousness as irreducibly tempora
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-15T13:13:30+00:00
+ai_modified: 2026-07-07T19:05:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,6 +139,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - [[topics/phenomenal-value-realism]] — Intrinsic value in conscious experience
 - [[binding-problem]] — The binding of experience into unified wholes
 - [[phenomenology-of-intellectual-life]] — Unified account of five phenomenal meaning modes, including aesthetic meaning through music
+- [[phenomenology-of-mathematical-understanding]] — The sibling case: non-propositional insight sharing the cognitive-phenomenology and temporal-unfolding structure
 - [[ineffable-encounter-void]] — Where musical meaning exceeds articulation entirely—the body registers what the intellect cannot unpack
 
 ## References

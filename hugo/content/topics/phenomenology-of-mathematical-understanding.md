@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-14
-ai_modified: 2026-06-13 00:31:52+00:00
+ai_modified: 2026-07-07 19:05:40+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -31,6 +31,8 @@ related_articles:
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[phenomenology-of-intellectual-life]]'
+- '[[phenomenology-of-musical-understanding]]'
+- '[[temporal-structure-of-understanding]]'
 - '[[cognitive-science-of-dualism]]'
 - '[[phenomenology-of-cognitive-capacity]]'
 - '[[concession-convergence-philosophy-of-mathematics]]'
@@ -166,6 +168,8 @@ The Map's honesty commitment requires the closing acknowledgement: the confabula
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — The sibling case: non-propositional, temporally-unfolding understanding sharing the cognitive-phenomenology concept
+- [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How insight unfolds temporally, the concept the reception phenomenology instantiates
 
 ## References
 

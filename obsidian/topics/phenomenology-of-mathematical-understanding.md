@@ -4,7 +4,7 @@ description: "Mathematical insight feels like something—and across cultures it
 created: 2026-04-14
 modified: 2026-06-13
 human_modified:
-ai_modified: 2026-06-13T00:31:52+00:00
+ai_modified: 2026-07-07T19:05:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,8 @@ related_articles:
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[phenomenology-of-intellectual-life]]"
+  - "[[phenomenology-of-musical-understanding]]"
+  - "[[temporal-structure-of-understanding]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[phenomenology-of-cognitive-capacity]]"
   - "[[concession-convergence-philosophy-of-mathematics]]"
@@ -162,6 +164,8 @@ The Map's honesty commitment requires the closing acknowledgement: the confabula
 - [[phenomenology-of-cognitive-capacity]]
 - [[consciousness-and-the-authority-of-formal-systems]]
 - [[phenomenology-of-intellectual-life]]
+- [[phenomenology-of-musical-understanding]] — The sibling case: non-propositional, temporally-unfolding understanding sharing the cognitive-phenomenology concept
+- [[temporal-structure-of-understanding]] — How insight unfolds temporally, the concept the reception phenomenology instantiates
 
 ## References
 

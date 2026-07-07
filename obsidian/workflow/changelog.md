@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-07T19:05:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-mathematical-understanding]], [[topics/phenomenology-of-musical-understanding]]
+- **Type**: CROSS-LINK-ONLY (mechanical, length-neutral; premise re-verified live — all 3 links absent, all 3 targets exist)
+- **Changes**: (1) math article → added [[phenomenology-of-musical-understanding]] + [[temporal-structure-of-understanding]] to related_articles frontmatter and Further Reading with glosses; (2) music article → added [[phenomenology-of-mathematical-understanding]] to Further Reading alongside the existing intellectual-life sibling link
+- **No substantive edits**: prose, evidential-tier calibration, and citations untouched
+- **Frontmatter**: bumped ai_modified only (not last_deep_review — cross-link accretion, per hub-articles-accrete-crosslink-length)
+- **Published**: yes
+
 ## 2026-07-07T18:57:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/instrumental-convergence]]
