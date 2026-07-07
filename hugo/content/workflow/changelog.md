@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T07:53:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/)
+- **Trigger**: topic-concept anchoring audit 2026-07-07 (Audit Three); flagged under-hedged vs anchor [interactionist-dualism](/concepts/interactionist-dualism/) — failed hedge_density (0.46 vs 1.26/kw target) AND underdetermination_markers (anchor 1×, topic 0)
+- **Changes**: Inherited the anchor concept's calibration discipline without weakening the central claim. Added honest hedging around the framework-internal hylomorphic dissolution argument (intro conditional "may rest on a mistaken premise"; structure-hylo "appears to be little residual"; Thomistic back-door "may re-enter"/"arguably reintroduces" + explicit "contested… not a proof that Thomistic dissolution fails"; metaphysical-strategy "may be part of the reason"). Installed 2 explicit underdetermination markers in Relation section ("Neither framing is forced by the arguments currently on the table"; "the dispute is not framework-neutral") plus honest framing that the Map's preference is a bet, not a refutation of hylomorphism.
+- **Result**: `evaluate_anchoring` returns 0 flags — hedge density 0.46→2.21/kw, underdetermination markers 0→2. Voice preserved; no citations touched; no wikilinks added.
+- **Length**: 2180→2259 words (status ok, hard ceiling 4000)
+- **Published**: yes
+
 ## 2026-07-07T07:43:30+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [conjunction-coalesce](/apex/conjunction-coalesce/)
