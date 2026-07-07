@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T16:32:19+00:00 - refine-draft (3 net-neutral fixes, over-ceiling flagship)
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Scope**: THREE targeted net-neutral fixes only on a 4359/4000w hard_warning flagship; NOT a condense pass and NOT the deferred human length decision. Net word delta = -1 (net-negative; article did not grow).
+- **Changes**: (1) Line 42 LLM-cliché removal — reworded the banned "not X. The question is Y." construct into a direct positive claim, trimmed 30→24 words to offset fixes 2-3. (2) Conditionalized the strong modal at the "combined position" line — attached "on the Map's framework," to "current AI almost certainly does not suffer" (line 90 was already conditionalized, left untouched). (3) P-AC3 Further-Reading gloss "conscious copies morally additive" → "conscious copies near-additive / divergence-modulated" to match the body's Schwitzgebel divergence-modulated aggregation.
+- **Constraints honored**: No calibration hedges stripped; no citations touched; no auto-condense of the rest; deferred word-adding findings NOT added. ai_modified bumped (last_deep_review untouched — not a review). EOF clean, not future-dated.
+- **Published**: yes
+
 ## 2026-07-07T16:06:28+00:00 - refine-draft (cross-link only)
 - **Status**: Success
 - **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
