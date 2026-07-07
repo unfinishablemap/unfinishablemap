@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-06-17 05:28:41+00:00
+ai_modified: 2026-07-07 10:33:53+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ description: 'Human cognitive limits have biological origins: evolution selects 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 08:37:22+00:00
+last_deep_review: 2026-07-07 10:33:53+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -40,7 +40,7 @@ related_articles:
 - '[[compound-failure-signatures]]'
 - '[[conceptual-impossibility]]'
 - '[[edge-states-and-void-probes]]'
-- '[[mind-space-void]]'
+- '[[mapping-mind-space]]'
 - '[[expertise-and-its-occlusion]]'
 - '[[self-opacity]]'
 - '[[consciousness-interface-development]]'

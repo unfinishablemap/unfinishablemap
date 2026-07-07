@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-07T10:33:53+00:00 - deep-review
+- **Status**: Success (1 archival-link-rot fix)
+- **File**: [biological-cognitive-closure](/voids/biological-cognitive-closure/)
+- **Word count**: 2097 → 2097 (0; length-neutral, soft_warning at 105% of 2000, under hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (related_articles `[[mind-space-void]]` was archive-only → repointed to live coalesced successor `[[mapping-mind-space]]`, which reciprocates; cf. archival-link-rot)
+- **Citations web-verified**: Hoffman/Singh/Prakash 2015, Petanjek 2011, Pizzorusso 2002 (all real-correct at publisher of record); McGinn 1989, Prakash 2021, Field & Bonsall 2018, Pronin & Hazel 2023 carried from 06-05 ledger. No superlatives flagged.
+- **Drift check**: post-06-05 edits (06-08 McGinn naturalist-hedge, 06-17 synesthesia hypothesis hedge) both clean calibration improvements — no editor-vocab/refinement-log leakage, no cliché, no EOF artifact
+- **Output**: [deep-review-2026-07-07-biological-cognitive-closure](/reviews/deep-review-2026-07-07-biological-cognitive-closure/)
+
 ## 2026-07-07T10:17:57+00:00 - deep-review
 - **Status**: Success (1 citation fix + corpus propagation)
 - **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
