@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T20:27:00+00:00 - check-tenets
+- **Status**: Success (clean — no misalignments)
+- **Files checked**: 580 content files (red-flag sweep) + 5 new-cluster articles (spot-check)
+- **Errors**: 0
+- **Warnings**: 0
+- **New cluster verified**: basal / plant / fish / enteric (Tenet-2 empirical-constraint minimality direction) / quantum-immortality (Tenet-4 indexical, not parsimony, framing) — all route tenets correctly
+- **Output**: [[reviews/tenet-check-2026-07-08]]
+
 ## 2026-07-08T19:35:00+00:00 - deep-review
 - **Status**: Success (verification-only no-op)
 - **File**: [[topics/synaesthesia]]
