@@ -4,7 +4,8 @@ description: "Plants count, remember, and signal across their whole body without
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T10:25:25+00:00
+ai_modified: 2026-07-08T10:52:37+00:00
+last_deep_review: 2026-07-08T10:52:37+00:00
 draft: false
 topics:
   - "[[marginal-organism-scope-of-value-sensitive-selection]]"
@@ -54,7 +55,7 @@ The structure of the dispute is worth naming plainly: everyone broadly agrees on
 
 The most contested empirical claims concern **learning**. Two experiments by Gagliano and colleagues became flashpoints.
 
-The first reported habituation in *Mimosa pudica* (Gagliano et al. 2014). Repeatedly dropping potted plants—a harmless shock—led the plants to stop closing their leaves in response, with the effect reportedly stimulus-specific and retained over weeks, and learning faster in low-light, resource-poor conditions. The authors read this as a basic, non-neural form of learning and memory. A 2018 response in the same journal disputed the interpretation, arguing the data show no genuine dishabituation, lack a control needed to establish stimulus specificity, and are largely explicable by motor fatigue rather than learning (Response to Gagliano et al., 2018).
+The first reported habituation in *Mimosa pudica* (Gagliano et al. 2014). Repeatedly dropping potted plants—a harmless shock—led the plants to stop closing their leaves in response, with the effect reportedly stimulus-specific and retained over weeks, and learning faster in low-light, resource-poor conditions. The authors read this as a basic, non-neural form of learning and memory. A 2018 response in the same journal disputed the interpretation, arguing the data show no genuine dishabituation, lack a control needed to establish stimulus specificity, and are largely explicable by motor fatigue rather than learning (Biegler 2018).
 
 The second, more ambitious claim reported **associative (Pavlovian) conditioning** in pea plants (Gagliano et al. 2016). A fan (a neutral cue) was paired with light (which plants grow toward); after training, plants reportedly grew toward the fan-predicted light source, as if the cue had come to signal the reward. This was widely described as the most convincing plant-conditioning result. But Markel's attempted replication found no associative-learning effect (Markel 2020), and the result remains unreplicated—including, by Markel's account, by the original laboratory. It stands as a cautionary case, not an established finding.
 
@@ -94,7 +95,7 @@ But the Map firmly rejects the *reason* the strongest skeptics give. Taiz et al.
 2. Alpi, A., Amrhein, N., et al. (36 authors) (2007). Plant neurobiology: no brain, no gain? *Trends in Plant Science*, 12(4), 135–136.
 3. Taiz, L., Alkon, D., Draguhn, A., Murphy, A., Blatt, M., Hawes, C., Thiel, G., & Robinson, D.G. (2019). Plants Neither Possess nor Require Consciousness. *Trends in Plant Science*, 24(8), 677–687.
 4. Gagliano, M., Renton, M., Depczynski, M., & Mancuso, S. (2014). Experience teaches plants to learn faster and forget slower in environments where it matters. *Oecologia*, 175(1), 63–72.
-5. Response to Gagliano et al. (2014): Insufficient evidence for habituation in *Mimosa pudica*. (2018). *Oecologia*, 186(1), 33–35.
+5. Biegler, R. (2018). Insufficient evidence for habituation in *Mimosa pudica*. Response to Gagliano et al. (2014). *Oecologia*, 186(1), 33–35.
 6. Gagliano, M., Vyazovskiy, V.V., Borbély, A.A., Grimonprez, M., & Depczynski, M. (2016). Learning by Association in Plants. *Scientific Reports*, 6, 38427.
 7. Markel, K. (2020). Lack of evidence for associative learning in pea plants. *eLife*, 9, e57614.
 8. Böhm, J., Scherzer, S., et al. (2016). The Venus Flytrap *Dionaea muscipula* Counts Prey-Induced Action Potentials to Induce Sodium Uptake. *Current Biology*, 26(3), 286–295.
