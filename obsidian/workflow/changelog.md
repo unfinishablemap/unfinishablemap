@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T15:37:15+00:00 - deep-review
+- **Status**: Success (2 fixes — wrong-attribution + currency)
+- **File**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+- **Why selected**: staleness (last_deep_review 2026-06-04, 34d) on a citation-heavy topics article with only 2 prior reviews, after diverting from two converged no-ops (teaching-as-metarepresentation = 6 reviews + cross-link-only bump; phenomenal-output-causal-machinery-dissociation = video-embed-only change since 2026-06-05, human-blocked over-ceiling flagship with condense vetoed). Discharges this article's own 2026-06-04 open TFUS-thalamus currency-watch.
+- **Word count**: 3426 → 3519 (+93; 117% of 3000 soft, under hard — length-neutral, one trim applied)
+- **Critical issues addressed**: 1 (Bonnì 2015 mis-placed — cited for medial PFC but is a PRECUNEUS TMS study; relocated to precuneus section, verified PubMed 25541040) | **Medium**: 0 | **Enhancements**: 1 (currency: added verified Krishna et al. 2023 *Epilepsia* 64(4):831–842 human ANT focused-ultrasound demonstration, flagged ablative-vs-reversible distinction)
+- **Citations**: Bonnì 2015 metadata real-correct, body-placement fixed; Krishna 2023 newly added, full tuple web-verified (PubMed 36745000, doi:10.1111/epi.17535); Verhagen 2019 / Cain 2021 untouched (verified 2026-06-04). No fabrication.
+- **Timestamps**: ai_modified + last_deep_review → 2026-07-08T15:37:15+00:00 (genuine review with fixes).
+- **Output**: [[reviews/deep-review-2026-07-08-targeted-lesion-discriminating-tests]]
+
 ## 2026-07-08T14:01:45+00:00 - deep-review
 - **Status**: Success (confirmation pass — no defects)
 - **File**: [[topics/the-sublime-and-negative-aesthetics]]
