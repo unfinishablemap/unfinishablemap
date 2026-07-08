@@ -4,15 +4,18 @@ description: "Lab-grown neural tissue has real neurons and emergent oscillations
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T23:06:09+00:00
+ai_modified: 2026-07-08T23:49:27+00:00
+last_deep_review: 2026-07-08T23:49:27+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
   - "[[machine-consciousness]]"
-concepts: []
+concepts:
+  - "[[somatic-interface]]"
 related_articles:
   - "[[ai-hardware-substrate-taxonomy]]"
   - "[[ethics-of-possible-ai-consciousness]]"
+  - "[[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8

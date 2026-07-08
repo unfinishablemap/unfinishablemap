@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T23:49:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-organoids-and-the-organoid-intelligence-question]]
+- **Pass type**: ARGUMENT/calibration cross-review (fresh opus-4-8 create; citations pre-verified this session, no citation subagent)
+- **Word count**: ~1887 → ~1887 (no body change)
+- **Critical issues addressed**: 0 — lead-overreach pattern from the neuron-less sibling was NOT present. The verdict stays held-open across all three readings; competence is never overclaimed as evidence FOR experience, and "no body/world/history" is never overclaimed as proof-of-ABSENCE (Tenet 2 explicitly "forbids confident denial"; Tenet 5 "does not claim to have shown organoids are non-conscious"). Kagan 2022 "sentience" intact as technical Fristonian active-inference (not phenomenal); Smirnova first-author attribution intact; ai-hardware-substrate-taxonomy differentiation preserved (orthogonal artifact-level question vs substrate-physics companion).
+- **Medium issues addressed**: 1 (connectivity) — `topics:` was already populated (ai-consciousness, machine-consciousness); added core concept `[[somatic-interface]]` (interface-localisation, previously unlinked) and mirror-image sibling `[[neuron-less-animals-...]]` to `related_articles`.
+- **Engagement modes**: DishBrain deflationary reading — Mode Three (endorses the discipline "learning ≠ experience" while marking the framework boundary against the physicalist "therefore nothing over and above computation"; dualism labelled as the Map's own commitment, no label leakage). All wikilinks resolve.
+- **Output**: no separate review archive (near-no-op calibration confirmation)
+
 ## 2026-07-08T23:39:59+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]]
