@@ -23,6 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-08
 last_curated:
+last_deep_review: 2026-07-08T17:07:42+00:00
 ---
 
 The quantum-suicide survival argument claims that on the Many-Worlds Interpretation (MWI) an observer should expect to survive any quantum-triggered lethal experiment indefinitely, because their experience only ever continues in branches where the trigger failed. This is **quantum immortality**. Almost no one, including its own architects, treats it as a real prediction. It is a reductio: an idealized scenario whose absurd conclusion exposes something wrong with naive MWI self-location. This article lays out the apparatus, its history, and the standard objections (the [measure problem](#the-measure-problem), explained below, is the decisive one), then shows why the Map's Tenet-4 framework—objective collapse with one-branch-at-a-time indexical realism—makes the immortality expectation never form in the first place. When the lethal outcome obtains, there is no surviving-branch self to anticipate into. Death is death, and the reductio is a cost MWI carries that collapse avoids.
