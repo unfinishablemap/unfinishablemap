@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T16:01:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Quantum immortality and the quantum-suicide survival argument
+- **Output**: [[research/quantum-immortality-and-the-quantum-suicide-survival-argument-2026-07-08]]
+- **Sources consulted**: 7 (Tegmark 1998, Moravec 1988, Marchal 1988, Lewis 2004, Papineau 2004, O'Brien 2025, Gao 2022; all web-verified except Gao full-text)
+
 ## 2026-07-08T15:37:15+00:00 - deep-review
 - **Status**: Success (2 fixes — wrong-attribution + currency)
 - **File**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
