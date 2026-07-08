@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T09:13:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/research-programme-decisions-under-the-map]]
+- **Selected**: First genuine deep-review (0 prior review files despite a `last_deep_review` set by apex-evolve at creation — phantom review-debt); citation-heavy applied apex on quantum-interface research directions (Tenet 2/3 load-bearing), 6.3d unverified drift.
+- **Word count**: 2961 → 2921 (-40; one inline clause added, three orphan references removed; length-neutral, 73% of 4000 apex soft threshold)
+- **Critical issues addressed**: 5 (citation cross-reference orphans) — orphan inline `Babcock-Hameroff (2025)` removed/rerouted (phantom author-year misattribution); 3 orphan References removed (Chalmers & McQueen 2022 [page range unverifiable + tangential], Zheng & Meister 2025 [off-topic residue], Schurger et al. 2012 [off-topic residue]); Torres Alegre 2025 orphan-reference grounded inline in Direction 1 (no-signalling↔Born-preservation, per register P-Q7).
+- **Citations web-verified (publisher of record)**: Donadi 2021 (NatPhys 17:74-78) ✓ · Tegmark 2000 (PRE 61:4194-4206) ✓ · Maier/Dechamps/Pflitsch 2018 (Front Psychol 9:379) ✓ · Torres Alegre 2025 (arXiv:2512.12636) ✓ · Chalmers & McQueen 2022 (OUP/Gao, real; pages unconfirmed) · Zheng & Meister 2025 (Neuron 113(2):192-204) ✓ · Schurger 2012 (PNAS 109(42):E2904-13) ✓. All surviving refs real-correct + inline↔References-consistent; only defects were orphans + one phantom cite.
+- **Family resolution (§2.4.6)**: `Babcock-Hameroff (2025)` phantom author-year swept from all 3 live files — apex rerouted; `topics/falsification-roadmap-for-the-interface-model` → "Hagan-Hameroff-Tuszynski 2002"; `topics/testing-consciousness-collapse` → "Babcock et al. …superradiance evidence (2024)". `ai_modified` bumped on all edited files.
+- **Internal-quote check**: All quoted positions-register bands (P-Q1 mod, P-Q3 mod, P-Q6 high, P-Q9 mod, P-Q10 high) and shift-conditions verified faithful to `positions/quantum-interface.md`; no stale apex-quote drift.
+- **Calibration**: Clean; article explicitly declines tenet-as-evidence-upgrade and pegs to evidential-status-discipline.
+- **Engagement modes**: No named-opponent in-framework refutation; bedrock disagreement (decoherence-only researcher) honestly declared. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-08-research-programme-decisions-under-the-map]]
+
 ## 2026-07-08T07:57:04+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/sorkin-delta-brain-internal-analogues]]
