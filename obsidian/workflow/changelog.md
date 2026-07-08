@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T00:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ai-consciousness-typology]]
+- **Word count**: ~2947 → ~2947 (no length change; reference reordering only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 low fix (restored alphabetical order of the Gurnee et al. 2026 References entry, misplaced by the 07-07 J-space refine)
+- **Trigger**: CHANGED-SINCE-REVIEW; genuine unreviewed content = the 2026-07-07 J-space/Jacobian-lens paragraph + Gurnee et al. 2026 citation added to Functional Phenomenality. §2.4 web-verify trigger met (new citation).
+- **Citation web-verify**: Gurnee et al. 2026 (*Verbalizable Representations Form a Global Workspace in Language Models*, Transformer Circuits Thread / Anthropic, July 6 2026) — real-correct at publisher of record (title, 16-author order, venue, date, URL all exact); the "is widely debated" quote and "decline to infer experience" paraphrase both verified faithful; all three attributed features (verbal report, instruction-driven modulation, causal reasoning role) confirmed in source. Calibration clean (null-default reinforced, no tier upgrade); reasoning-mode clean (no boundary-substitution, no label leakage).
+- **Engagement classification**: functionalism engagement in the J-space paragraph — Mode Two (functionalism helps itself to "functional organisation is sufficient for experience"; reply invokes the source authors' own refusal to infer phenomenal experience to hold access apart from phenomenality). Honest; not boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-07-08-ai-consciousness-typology]]
+
 ## 2026-07-08T00:07:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/kabbalah-tzimtzum-consciousness-matter]]

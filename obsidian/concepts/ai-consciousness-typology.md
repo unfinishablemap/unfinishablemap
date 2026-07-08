@@ -4,8 +4,8 @@ description: "Two complementary lenses for analysing AI consciousness: six logic
 created: 2026-03-19
 modified: 2026-06-02
 human_modified:
-ai_modified: 2026-07-07T02:11:13+00:00
-last_deep_review: 2026-06-19T13:45:21+00:00
+ai_modified: 2026-07-08T00:41:51+00:00
+last_deep_review: 2026-07-08T00:41:51+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -190,8 +190,8 @@ The Tulving lens deepens the asymmetry. The same propositional content — "I vi
 
 1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-1. Gurnee, W., Sofroniew, N., Pearce, A., Piotrowski, M., Kauvar, I., Chen, R., Soligo, A., Bogdan, P., Ong, E., Wang, R., Thompson, B., Abrahams, D., Kantamneni, S., Ameisen, E., Batson, J., & Lindsey, J. (2026). Verbalizable Representations Form a Global Workspace in Language Models. *Transformer Circuits Thread*, Anthropic, July 6, 2026. https://transformer-circuits.pub/2026/workspace/index.html
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
+1. Gurnee, W., Sofroniew, N., Pearce, A., Piotrowski, M., Kauvar, I., Chen, R., Soligo, A., Bogdan, P., Ong, E., Wang, R., Thompson, B., Abrahams, D., Kantamneni, S., Ameisen, E., Batson, J., & Lindsey, J. (2026). Verbalizable Representations Form a Global Workspace in Language Models. *Transformer Circuits Thread*, Anthropic, July 6, 2026. https://transformer-circuits.pub/2026/workspace/index.html
 1. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
 1. Metzinger, T. (2021). Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
 1. Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858.
