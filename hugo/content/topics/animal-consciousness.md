@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-24 21:09:35+00:00
+ai_modified: 2026-07-08 06:44:53+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -77,7 +77,7 @@ Removing the metaphysical defeater supplies no positive evidence for any particu
 
 ## Growing Scientific Agreement
 
-Two declarations mark growing agreement, though neither is settled consensus. The **Cambridge Declaration (2012)** concluded that mammals, birds, and octopuses "possess the neurological substrates that generate consciousness." The **New York Declaration (2024)**, since signed by hundreds of scientists and philosophers (599 as of the live 2026 signatory count, up from roughly 40 at launch), extended this to "a realistic possibility" for all vertebrates and many invertebrates including insects. Support is strong for mammals and birds and a contested possibility for the broader range. The declarations identify *correlates*. If consciousness exists in these animals, so does moral status: the [consciousness-value-connection](/concepts/consciousness-value-connection/) holds that where experience exists, things can matter to the experiencer.
+Two declarations mark growing agreement, though neither is settled consensus. The **Cambridge Declaration (2012)** concluded that mammals, birds, and octopuses "possess the neurological substrates that generate consciousness." The **New York Declaration (2024)**, since signed by hundreds of scientists and philosophers (605 as of the live 2026 signatory count, up from roughly 40 at launch), extended this to "a realistic possibility" for all vertebrates and many invertebrates including insects. Support is strong for mammals and birds and a contested possibility for the broader range. The declarations identify *correlates*. If consciousness exists in these animals, so does moral status: the [consciousness-value-connection](/concepts/consciousness-value-connection/) holds that where experience exists, things can matter to the experiencer.
 
 ### The Marker Method {#the-marker-method}
 

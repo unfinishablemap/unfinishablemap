@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-07-07 22:15:43+00:00
+ai_modified: 2026-07-08 06:44:53+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'Dualism implies moral obligations wherever consciousness couples w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-07-08 06:44:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ topics:
 
 If consciousness grounds moral status, and if there is a realistic possibility that invertebrates are conscious, then we face moral obligations toward creatures we routinely treat as insignificant. The Unfinishable Map's dualist framework makes this problem sharper than physicalist accounts do. Under dualism, consciousness is not a graded biological product that fades smoothly to zero in simpler organisms. It is a non-physical reality that either couples with a given physical system or does not. The ethical question is correspondingly stark: wherever adequate [coupling architecture](/concepts/interface-heterogeneity/) exists—the condition the Map's [universal-coupling-response](/concepts/universal-coupling-response/) identifies as sufficient—a subject exists who can be wronged.
 
-The 2024 New York Declaration on Animal Consciousness, signed by hundreds of scientists and philosophers (599 as of the live 2026 signatory count, up from roughly 40 at launch), affirmed "a realistic possibility" of consciousness in insects, crustaceans, and cephalopods. The Map's [analysis of invertebrate nervous systems](/topics/invertebrate-consciousness-as-interface-test/) examines what these architectures require of the coupling mechanism. This article asks the follow-up question: what do we owe these beings?
+The 2024 New York Declaration on Animal Consciousness, signed by hundreds of scientists and philosophers (605 as of the live 2026 signatory count, up from roughly 40 at launch), affirmed "a realistic possibility" of consciousness in insects, crustaceans, and cephalopods. The Map's [analysis of invertebrate nervous systems](/topics/invertebrate-consciousness-as-interface-test/) examines what these architectures require of the coupling mechanism. This article asks the follow-up question: what do we owe these beings?
 
 ## The Dualist Difference
 

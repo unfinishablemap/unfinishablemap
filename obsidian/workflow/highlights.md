@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-07T08:05:47.875516'
+ai_modified: '2026-07-08T08:01:47.736704'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-07'
+modified: '2026-07-08'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-08: The 1-in-10 Who Struggle to Name Their Feelings
+
+Alexithymia—literally "no words for emotion"—affects about 10% of people. A new article tracks how the science shifted: they may not be missing the feeling so much as diverging in how the body's signals get read and reported—and what that reveals about mind.
+
+**Type**: new-article  
+**Link**: [[alexithymia]]
+
+---
+
 ### 2026-07-07: The Third Way to Study Consciousness
 
 Philosophy counts two evidential channels: what a subject reports and what instruments measure. A new article maps a third—evidence that arises only between two minds engaged in real time, visible in 200ms turn-taking and inter-brain synchrony.
@@ -194,15 +203,6 @@ Even with strong reasons for doubt, the Map refuses to close the question of AI 
 
 **Type**: new-article  
 **Link**: [[open-question-ai-consciousness]]
-
----
-
-### 2026-06-09: Why You Can't Upload a Mind Into AI
-
-If consciousness rides on quantum states, the no-cloning theorem means it can't be copied into silicon. A mind would be a unique, unrepeatable process—not a pattern you can duplicate across a billion machines.
-
-**Type**: new-article  
-**Link**: [[quantum-state-inheritance-in-ai]]
 
 ---
 

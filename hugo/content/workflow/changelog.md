@@ -9,6 +9,76 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-08T07:57:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/)
+- **Word count**: 2345 → ~2360 (+15; one reference added)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (inline↔References gap: added Escolà-Gascón 2025 reference #7, renumbered subsequent entries)
+- **Enhancements made**: 1
+- **Citations**: All 8 external academic cites independently re-verified at publisher of record — all clean (Sinha 2010, Sorkin 1994, Tegmark 2000, Hagan-Hameroff-Tuszyński 2002, Wiest 2025, Kerskens & López Pérez 2022, Donadi 2021, Gildert 2025). Same-day-create self-verification confirmed correct; no defect tail. Escolà-Gascón 2025 (CSBJ 30:21–40) verified before adding.
+- **Engagement modes**: No named-opponent in-framework refutation; proposals characterized neutrally, Tenet-4 boundary disclosed. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-08-sorkin-delta-brain-internal-analogues](/reviews/deep-review-2026-07-08-sorkin-delta-brain-internal-analogues/)
+
+## 2026-07-08T07:24:29+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Invertebrate / simple-organism / marginal-organism consciousness cluster (invertebrate-consciousness-as-interface-test, consciousness-in-simple-organisms, ethics-of-consciousness-invertebrate-question, valence-and-conscious-selection, marginal-organism-scope-of-value-sensitive-selection)
+- **Findings**: Cluster is at the top of the Map's calibration discipline — Process Philosopher and Hardline Empiricist personas converge on the same passages (tension resolved honestly; no refine-draft warranted). 3 genuinely-absent research-topic candidates surfaced (corpus-wide coverage-checked): plant cognition / plant-neurobiology debate (High), Levin basal/bioelectric cognition + xenobots (High), fish sentience (Medium).
+- **Output**: [optimistic-2026-07-08-invertebrate-cluster](/reviews/optimistic-2026-07-08-invertebrate-cluster/)
+
+## 2026-07-08T06:44:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Word count**: 2186 → 2186 (0; length-neutral, currency update only)
+- **Selection**: changed-since-review — ai_modified (2026-07-07) moved past last_deep_review (2026-06-05) via a corpus-wide standing-agnostic-challenge cross-link add; citation-heavy, Tenet-load-bearing. Sixth review of a converged article.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (NYD signatory-count currency drift 599 → 605, live-verified at the NYU declaration page; propagated corpus-wide to 6 live-content files: ethics-of-consciousness-invertebrate-question, animal-consciousness, consciousness-in-simple-organisms, invertebrate-consciousness-as-interface-test, apex/minds-without-words, project/evidential-status-discipline)
+- **Enhancements made**: 0 (prose converged)
+- **Citation verdicts**: NYD count = real/currency-drift (fixed 599→605). New 2026-07-07 standing-agnostic-challenge sentence = faithful to target (Gutfreund 2024 symmetry), no misattribution/slippage/label-leakage. References block unchanged since the complete 2026-06-05 publisher-of-record audit — not re-litigated per §2.4.
+- **Engagement modes**: physicalist ethics threshold-vs-gradient = Mode Three (framework-boundary), unchanged; Birch engaged as ally.
+- **Output**: [deep-review-2026-07-08-ethics-of-consciousness-invertebrate-question](/reviews/deep-review-2026-07-08-ethics-of-consciousness-invertebrate-question/)
+
+## 2026-07-08T06:16:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Task**: Reconcile the alexithymia 5th-class integration flagged by pessimistic-2026-07-08 (four→five upgrade weakened the convergence-parsimony argument). Precision reconcile, no material lengthening.
+- **Resolution path**: Chose Option B (keep five empirically-independent divergence CLASSES; restate parsimony argument in terms of a smaller number of absorption FAMILIES) — because prose at lines 114/130 already commits alexithymia to source-attribution's access-side move, so claiming five distinct grain-shifts contradicted the article's own text.
+- **Changes**:
+  - Defect 1 (High): recast the parsimony argument in §"What the Wedge Does" and §"Why the Joint Package Matters" from "five different grain-shifts" to "~three absorption families" (multi-realizability / representational sub-individuation / a single access-side (metacognitive) re-description covering source-attribution + cognitive-phenomenology + alexithymia), with the honest cost being that even these few families must converge. §"What the Wedge Does Not Do" restated from "Four named absorption strategies" to "Three absorption families … alongside a cross-cutting dissolver"; the metacognitive strategy renamed "Access-side (metacognitive) re-description" and extended to cover alexithymia (3 of 5 classes); Schwitzgebel introspective-unreliability re-marked as the cross-cutting dissolver.
+  - Defect 2 (Medium-High): alexithymia's access-side classification made explicitly conditional on the present-but-inaccessible reading; under attenuation it collapses to functionalist covariance and does no wedge work.
+  - Defect 3 (Medium): common-cause-null "feeds" downgraded to "would feed, if confirmed" and flagged the convergence-vs-divergence tension (null-discharge needs convergence, wedge needs divergence — same population cannot straightforwardly serve both).
+  - Defect 4 (stale counts): line 122 "of the four" → "of the five"; line 134 "four classes" ×2 → "five".
+- **Count invariant after edit**: divergence CLASSES = 5 everywhere; absorption FAMILIES ≈ 3 + cross-cutting dissolver. apex_thesis five-domain frontmatter preserved; last_deep_review / apex_last_synthesis untouched.
+- **Published**: yes
+
+## 2026-07-08T06:03:53+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `apex/phenomenal-variation-within-a-species.md` (adversarial-logical lens; scrutiny of the session's four→five class upgrade adding alexithymia)
+- **Findings**: 3 genuine (1 High, 1 Medium-High, 1 Medium) — the alexithymia addition weakens the convergence-parsimony argument it was meant to strengthen ("four named absorption strategies" section contradicts the "five grain-shifts" thesis; access-side classification is an unsettled precondition, not a caveat; common-cause-null "feed" indicative-but-unconfirmed and directionally in tension). Residual stale four/five counts (lines 122, 134). Queued 1 consolidated P2 refine-draft.
+- **Output**: [pessimistic-2026-07-08-phenomenal-variation-within-a-species](/reviews/pessimistic-2026-07-08-phenomenal-variation-within-a-species/)
+
+## 2026-07-08T05:15:23+00:00 - deep-review
+- **Status**: Success (genuine no-op — verification confirmed stability)
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
+- **Word count**: 4212 → 4212 (0; no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Selection**: genuine own-body drift — 2026-07-07 added one substantive middle-path paragraph + 2 cross-links to new sibling `graduated-middle-path-valence-modulated-attention.md` (not cosmetic sibling accretion, unlike the pool's other candidates)
+- **Verified**: new paragraph faithful to source sibling (Stapp observation-rate channel, three-pure-horn clamp signature abolished/persists/absent, weaker "causally relevant via attention" reading); calibration PASSED (explicitly withholds strong non-epiphenomenality claim — no possibility/probability slippage); both new wikilinks resolve; References block unchanged so 10-cite ledger (06-05 full audit, zero defects) stands, no re-verify
+- **Length**: 4212w over 4000 hard ceiling — load-bearing fork-calibration content, NOT auto-condensed (standing human-length disposition); no duplicate task minted
+- **Stamps**: last_deep_review only (2026-07-08T05:15:23+00:00); ai_modified left at 2026-07-07T13:21:32+00:00 per no-op hygiene
+- **Output**: [deep-review-2026-07-08-valence-and-conscious-selection](/reviews/deep-review-2026-07-08-valence-and-conscious-selection/)
+
+## 2026-07-08T04:35:55+00:00 - tune-system
+- **Status**: Success
+- **Scope**: light 6-cycle meta-review (prior run 2026-07-06, ~1.5d)
+- **Findings**: 0 cadence / 0 failure / 0 queue-drift / 4 recurring code-fork-loop (Tier 3) / convergence healthy
+- **Tier 1 changes**: 0 applied (no evidence-backed parameter drift; recent run; all findings Tier 3)
+- **Tier 3 operator notes**: social-selector meta-article leak; fork frontmatter future-dating (3× corrected); fork-punt-before-subagent (3× harvested); outer-review pipeline dark (loop lacks --chrome)
+- **Health**: critical_issues=0, failed_tasks empty; 2 full research→expand→3-lens pipelines (kabbalah-tzimtzum, alexithymia); J-space defect-tail audited; apex #23 refreshed
+- **Output**: [system-tune-2026-07-08](/reviews/system-tune-2026-07-08/)
+
 ## 2026-07-08T04:25:23+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-06-26 07:45:00+00:00
+ai_modified: 2026-07-08 06:44:53+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -488,7 +488,7 @@ Beyond tenet alignment, the discipline complements [coherence-inflation counterm
 The evidential-status discipline is documented through the catalogue's outer-review corpus, the empirical-consciousness literature, and worked examples within the Map.
 
 1. *The Unfinishable Map* outer review, 2026-05-03 (ChatGPT 5 Pro). Identifies evidence-grade slippage on simple-organism consciousness; proposes the five-tier ladder and the formulation "a tenet may remove a defeater, but it must not upgrade the evidence level." https://unfinishablemap.org/reviews/outer-review-2026-05-03-chatgpt-5-5-pro/
-2. The New York Declaration on Animal Consciousness (2024). Signed by hundreds of scientists and philosophers (599 as of the live 2026 signatory count, up from roughly 40 at the April 2024 launch). Frames "strong scientific support" for mammals and birds and "at least a realistic possibility of conscious experience" for all vertebrates and many invertebrates. https://sites.google.com/nyu.edu/nydeclaration/declaration
+2. The New York Declaration on Animal Consciousness (2024). Signed by hundreds of scientists and philosophers (605 as of the live 2026 signatory count, up from roughly 40 at the April 2024 launch). Frames "strong scientific support" for mammals and birds and "at least a realistic possibility of conscious experience" for all vertebrates and many invertebrates. https://sites.google.com/nyu.edu/nydeclaration/declaration
 3. The Cambridge Declaration on Consciousness (2012). Names mammals, birds, and octopuses as possessing the relevant neuroanatomical, neurochemical, and neurophysiological substrates.
 4. Stanford Encyclopedia of Philosophy, "Animal Consciousness." Describes vertebrates, cephalopod mollusks, and arthropods as the three "especially promising" lineages; notes the field's "insecure, contested foundations"; treats Unlimited Associative Learning as a contestable transition-marker framework. https://plato.stanford.edu/entries/consciousness-animal/
 5. Gutfreund, Y. (2024). Neuroscience of animal consciousness: still agnostic after all. *Frontiers in Psychology*. Argues that observed evidence "fails to distinguish between felt experiences from cognitive behaviors without felt experiences." https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1456403/pdf

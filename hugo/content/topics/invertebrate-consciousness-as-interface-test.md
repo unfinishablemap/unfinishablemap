@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-07-06 18:42:42+00:00
+ai_modified: 2026-07-08 06:44:53+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -45,7 +45,7 @@ topics:
 
 Invertebrate consciousness poses the sharpest empirical test for The Unfinishable Map's dualist interface model. If consciousness couples with physical systems rather than being produced by them, three independently evolved neural architectures—the insect central complex, the cephalopod distributed nervous system, and the crustacean centralised brain—each demand an account of how that coupling works. A bee navigates with a million neurons. An octopus coordinates half a billion neurons distributed across semi-autonomous arms. A mantis shrimp processes visual information through 16 types of photoreceptor (Marshall & Oberwinkler, 1999). These architectures diverged over 500 million years ago, yet all three lineages display behaviours that current research increasingly associates with conscious experience. The question for dualism is direct: does consciousness couple with all three through the same mechanism, or has evolution independently developed multiple coupling architectures?
 
-The 2024 New York Declaration on Animal Consciousness, signed by hundreds of scientists and philosophers (599 as of the live 2026 signatory count, up from roughly 40 at launch), extended "a realistic possibility" of consciousness to insects, crustaceans, and cephalopods. This consensus shift transforms invertebrates from philosophical curiosities into urgent test cases for any theory of consciousness—including the Map's.
+The 2024 New York Declaration on Animal Consciousness, signed by hundreds of scientists and philosophers (605 as of the live 2026 signatory count, up from roughly 40 at launch), extended "a realistic possibility" of consciousness to insects, crustaceans, and cephalopods. This consensus shift transforms invertebrates from philosophical curiosities into urgent test cases for any theory of consciousness—including the Map's.
 
 <details class="yt-embed" data-video-id="yEbLx3KMclc">
 <summary>Video introduction</summary>
