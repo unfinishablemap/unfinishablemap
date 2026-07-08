@@ -5,6 +5,21 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T20:40:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
+- **Task**: ANCHORING-CALIBRATION refine (cycle-435 topic-concept anchoring audit, queue line 39). VERIFIED-LIVE: 2 anchors fired — many-worlds (hedge_density + strong_assertions) and interactionist-dualism (hedge_density + underdetermination_markers). Root cause: hedge_count=0 under the narrow recognized hedge lexicon; the article hedged structurally ('almost never', 'vanishingly small credence', 'defeasible') with vocabulary the lexical counter cannot see. Genuine lexical gap on a structurally-calibrated article.
+- **Changes**: Small, honest, voice-preserving; central dissolution claim untouched.
+  - 'confirms' → 'suggests' (line ~57): removed sole strong-assertion marker (a genuine mild overclaim — a paper cataloguing costs doesn't confirm motives) and added one recognized hedge.
+  - Added 4 more recognized hedges on interpretive (not empirical) claims: 'may import' (Marchal route), 'may be unable to rule…out' (MWI's resources), 'may have to ride' (Everettian mortalist's diagnosis), 'seems to impose no extra debt' (debt-structure claim). Tegmark's three conditions and the measure/amplitude math left un-hedged.
+  - Added one underdetermination marker: 'genuine-collapse interpretations that are otherwise empirically equivalent' (line ~37) — truthful; ensemble-level empirical indistinguishability is the article's own core point.
+- **Before/after (recognized-lexicon densities, per 1000w)**:
+  - Topic: hedge_count 0 → 5, hedge_density 0.00 → 2.29/kw; strong_assertion 1 → 0, strong_density 0.46 → 0.00/kw; underdetermination 0 → 1. Word count 2168 → 2180 (+12).
+  - many-worlds anchor: hedge floor 1.73/kw (was 0.00, FAIL → 2.29 PASS); strong ceiling 0.43/kw (was 0.46 FAIL → 0.00 PASS) → 0 failed checks.
+  - interactionist-dualism anchor: hedge floor 1.26/kw (was 0.00 FAIL → 2.29 PASS); underdetermination (was 0 FAIL → 1 PASS) → 0 failed checks.
+- **Flags cleared**: evaluate_anchoring re-run returns 0 flags; both anchors now have 0 failed checks (<2).
+- **Published**: yes
+
 ## 2026-07-08T20:27:00+00:00 - check-tenets
 - **Status**: Success (clean — no misalignments)
 - **Files checked**: 580 content files (red-flag sweep) + 5 new-cluster articles (spot-check)
