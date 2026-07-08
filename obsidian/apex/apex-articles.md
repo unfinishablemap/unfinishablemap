@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-06-22T10:21:15+00:00
+ai_modified: 2026-07-08T04:25:23+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -522,7 +522,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/voids-between-minds
 - voids/commensurability-void
 
-**Status**: Created 2026-05-08 (admitted as #23 — formalises the within-species-phenomenal-divergence cluster the catalogue's voids work has been articulating across multiple articles. Triggered by convergence of (a) the cluster's editorial maturity in `voids/imagery-void`, `voids/synesthetic-void`, and `concepts/phenomenology-vs-function-axis`; (b) the optimistic-2026-04-28b proposal naming the apex synthesis as load-bearing; (c) YouTube-guidance-2026-05-08 prioritising aphantasia and synaesthesia as high-confidence recruitment subjects, which licenses topic-tier source articles for both. Queued behind `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing). Evolved 2026-05-09 to integrate the newly-created `topics/source-attribution-divergence` source article — the cluster's third leg now has symmetric topic-tier coverage matching aphantasia and synaesthesia.
+**Status**: Created 2026-05-08 (admitted as #23 — formalises the within-species-phenomenal-divergence cluster the catalogue's voids work has been articulating across multiple articles. Triggered by convergence of (a) the cluster's editorial maturity in `voids/imagery-void`, `voids/synesthetic-void`, and `concepts/phenomenology-vs-function-axis`; (b) the optimistic-2026-04-28b proposal naming the apex synthesis as load-bearing; (c) YouTube-guidance-2026-05-08 prioritising aphantasia and synaesthesia as high-confidence recruitment subjects, which licenses topic-tier source articles for both. Queued behind `topics/aphantasia` and `topics/synaesthesia` expand-topic tasks landing). Evolved 2026-05-09 to integrate the newly-created `topics/source-attribution-divergence` source article — the cluster's third leg now has symmetric topic-tier coverage matching aphantasia and synaesthesia. Evolved 2026-07-08 to integrate the newly-created `concepts/alexithymia` as a fifth divergence class ("Emotional Access") — the emotional/interoceptive member, distinctive as the *access-layer* case where 2020s evidence (Van Bael et al. 2024 meta-analysis; Garfinkel et al. 2015 interoception tripartition) relocates the divergence from a phenomenal deficit to report/metacognition, so the wedge runs from the access side as well as the phenomenal side (the emotional analogue of the source-attribution option-3 reading) and feeds the common-cause null via the patient-population channel. Four→five throughout; condensed 135w to hold length discipline while protecting calibration hedges.
 
 ---
 

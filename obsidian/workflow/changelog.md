@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T04:25:23+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenal-variation-within-a-species]]
+- **Changed sources**: 1 (new `concepts/alexithymia` — the emotional/interoceptive fifth member of the phenomenal-divergence cluster)
+- **Action**: integrated alexithymia as the fifth divergence class ("Emotional Access"), the access-layer case where the wedge runs from report/metacognition rather than the phenomenal layer; four→five throughout; added Garfinkel 2015 + Van Bael 2024 refs
+- **Word count**: 4007 → 4348 (post-addition 4483, condensed 135w to protect calibration hedges)
+- **Review**: [[reviews/apex-evolve-2026-07-08-phenomenal-variation-within-a-species]]
+
 ## 2026-07-08T03:14:11+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-causation-and-downward-causation]]
