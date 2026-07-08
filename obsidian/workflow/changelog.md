@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T11:39:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/basal-and-bioelectric-cognition]]
+- **Context**: Addressed 3 argumentative defects from [[reviews/pessimistic-2026-07-08-marginal-organism-ladder-cluster]] on this session's fresh create. Precision repair — thesis, citations, two-channel structure, and Tenet 1/5 tie preserved.
+- **Changes**:
+  - Defect 1 (absence-of-assertion ≠ evidence-of-absence): §Decoupling — "cannot be *evidence* ... experience as absent or unknown" → "is uninformative about experience ... cannot by itself be *positive evidence* ... not a claim that experience has been shown to be decoupled or absent." And "which even Levin treats as functional rather than felt" → "which even Levin declines to characterise as felt" (bracketing ≠ denial).
+  - Defect 2 (over-generalisation past graded-credence practice): "unreliable markers ... *anywhere*" → "*defeasible, substrate-sensitive* markers ... decisive nowhere on their own, though not therefore worthless"; added clause that weighting toward phenomenal markers cannot mean discarding behavioural evidence, since there are no non-behavioural third-person markers (that absence *is* the explanatory gap); harmonised with the Map's graded practice via the sibling fish rung ("suggestive") and edge-of-sentience tiers.
+  - Defect 3 (resonance→evidence + functionalism strawman): §Relation to Site Perspective — "Dualism predicts exactly this separation" → "consistent with dualism ... does not on its own decide between dualism and a functionalism that locates experience in a specific functional organization rather than in goal-directedness as such"; removed "quantum of experience, readable off its goal-directedness."
+- **Word count**: 1927 → 2080 (well under 3000 soft threshold)
+- **Published**: yes
+
 ## 2026-07-08T11:17:49+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: Fresh marginal-organism-ladder cluster — basal-and-bioelectric-cognition.md + fish-sentience-and-the-teleost-pain-debate.md (both UNREVIEWED) + plant-cognition argument. Probed the cluster's "severing" thesis, Levin's bracketing-as-evidence, fish negative-move usability.
