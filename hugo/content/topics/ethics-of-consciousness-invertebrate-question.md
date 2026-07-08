@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-07 22:15:43+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -81,7 +81,7 @@ Crustaceans occupy a middle position. Decapod crustaceans show nociceptive behav
 
 Jonathan Birch's precautionary framework for animal sentience, developed for the UK government and extended in *The Edge of Sentience* (2024), offers a principled approach to moral uncertainty. The core idea: when there is a realistic possibility that an animal is sentient, that possibility should be given "appropriate weight in policy decisions," even without scientific certainty. The Map's dedicated comparison of Birch's two-tier scheme with its own [five-tier evidential scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) develops the action-versus-description complementarity in detail; the precautionary apparatus described here is what the Map adopts at the action layer.
 
-The Map's dualist framework provides an independent argument for this same conclusion. If consciousness is non-physical, then the absence of neural evidence for consciousness in an organism does not establish the absence of consciousness—it establishes only that we cannot detect it through physical observation. The explanatory gap between physical and phenomenal applies to invertebrates just as it applies to humans. Requiring certainty about invertebrate consciousness before extending moral consideration is epistemically unjustified precisely because the kind of certainty demanded—direct observation of another being's experience—is impossible in principle, not just in practice.
+The Map's dualist framework provides an independent argument for this same conclusion. If consciousness is non-physical, then the absence of neural evidence for consciousness in an organism does not establish the absence of consciousness—it establishes only that we cannot detect it through physical observation. This is the [standing agnostic challenge](/concepts/standing-agnostic-challenge/) cutting against absence-claims as sharply as against presence-claims: no third-person evidence can confirm felt experience or rule it out. The explanatory gap between physical and phenomenal applies to invertebrates just as it applies to humans. Requiring certainty about invertebrate consciousness before extending moral consideration is epistemically unjustified precisely because the kind of certainty demanded—direct observation of another being's experience—is impossible in principle, not just in practice.
 
 The Map's [fifth tenet](/tenets/#occams-limits) reinforces this point. Dismissing invertebrate consciousness because "simpler organisms probably are not conscious" appeals to parsimony in a domain where parsimony has no established warrant. The history of consciousness science is a history of expanding the recognised circle: from humans only, to great apes, to mammals broadly, to birds, and now to invertebrates. At each stage, the parsimony-based objection was advanced and then abandoned.
 

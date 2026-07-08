@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-06-25 02:36:34+00:00
+ai_modified: 2026-07-07 21:35:59+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -92,13 +92,27 @@ The evidence programme would be substantially weakened by:
 
 **A physicalist theory that *predicts* the grain ratios.** Currently, physicalist accounts explain that *some* compression exists ([Global Workspace Theory's](/concepts/global-workspace-theory/) serial broadcasting, for instance) without explaining why the compression has the specific magnitude it does. A theory that derived the ~10 bits/second figure from neural architecture — and explained why that specific bottleneck occurs at conscious access rather than elsewhere — would provide the kind of explanatory resource the programme claims physicalism lacks.
 
+## Is Compositional Grain a Fourth Mismatch?
+
+The [binding problem](/topics/the-binding-problem/) exhibits its own grain structure: multimodal inputs arrive at different speeds, in different formats, to different cortical regions, yet bind into unified experience. This *compositional grain* — where the parts of experience and the parts of neural processing are carved at incompatible joints — looks at first like a fourth candidate mismatch. The programme should certify or reject it by the same three criteria that establish the other legs: distinct measurements, a distinct physicalist response, and a distinct falsifier. Run honestly, all three tests fail, and the calibrated verdict is that compositional grain reduces to the spatial and temporal mismatches rather than adding to them.
+
+**Its own measurements?** No. The two joints at which neural processing is "carved" are spatial (distributed feature maps in separate cortical regions) and temporal (features tagged by gamma-band synchrony within shared time windows — see [the-binding-problem](/topics/the-binding-problem/)). Compositional grain is detected through neuroanatomy and oscillation measurement — the very instruments that operationalise the spatial and temporal legs. It opens no third measurement domain.
+
+**Its own required physicalist response?** No. The response the binding mismatch demands is a binding theory: feature-integration and convergence accounts (spatial) plus binding-by-synchrony (temporal). A physicalist who discharged the spatial and temporal explanatory burdens would thereby discharge the compositional one. It carries no distinct burden.
+
+**Its own falsifier?** No. What would dissolve the compositional mismatch is a successful reductive account of how distributed, asynchronous processing yields unified phenomenology — which just is the conjunction of the spatial falsifier (a genuinely continuous correlate) and the temporal falsifier (a theory deriving continuity from periodicity). No separate falsifier could retire compositional grain while leaving the other two standing.
+
+Compositional grain therefore *reduces* to the spatial and temporal legs. Where it seems to carry surplus content beyond them — the sheer felt unity of the bound whole — that surplus is precisely the common phenomenal source flagged under [Why Convergence Matters](#why-convergence-matters): not an independent fourth observation but the single unity of which the three legs each measure a facet. Quantum and predictive treatments of binding ([entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/), [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/)), and the panpsychist [combination-problem](/concepts/combination-problem/), all bear on *how* that unity arises, not on whether compositional grain is a separate measurement channel.
+
+This is a result the programme should welcome. A three-leg programme that declines to inflate into four when the fourth collapses into the others is better calibrated and more falsifiable than one that pads its evidence count — and the convergence claim under [Why Convergence Matters](#why-convergence-matters) stays honest precisely because the legs are counted at three, the number that survives the independence test. Compositional grain is best understood as a *corollary*: the spatial and temporal mismatches applied to phenomenal unity, a vivid illustration of the programme rather than a new pillar. The three-leg programme is, on this analysis, complete.
+
 ## Relation to Site Perspective
 
 The grain mismatch evidence programme directly supports [the Map's first tenet](/tenets/#dualism). Where other arguments for dualism rest on conceivability intuitions (zombies) or epistemic considerations (Mary's Room), the grain programme rests on structural measurements. Neural discreteness is measured. Conscious throughput is measured. Oscillatory periodicity is measured. The mismatches between these measurements and phenomenal properties are not thought experiments — they are empirical observations requiring explanation.
 
 The programme also illustrates [why Occam's Razor has limits](/tenets/#occams-limits). The "simpler" identity theory asserts that phenomenal properties just *are* neural properties. The grain programme shows this assertion is not merely unproven but structurally incoherent for property pairs with contradictory characteristics across three independent domains. Simplicity purchased at the cost of coherence is no bargain. This connects to the Map's broader case that [causal closure](/concepts/causal-closure/) assumptions cannot override structural incompatibilities — no amount of methodological commitment to physicalism resolves a logical mismatch between property types.
 
-The Map speculates that the grain mismatch programme may extend further. The [binding problem](/topics/the-binding-problem/) exhibits its own grain structure: multimodal inputs arrive at different speeds, in different formats, to different cortical regions, yet bind into unified experience. This is a fourth candidate mismatch — compositional grain, where the parts of experience and the parts of neural processing are carved at incompatible joints. Whether compositional grain is genuinely independent of the spatial and temporal mismatches or reduces to them is an open question the programme should address.
+The refusal to pad the programme with a fourth leg (see [Is Compositional Grain a Fourth Mismatch?](#is-compositional-grain-a-fourth-mismatch) above) reflects the same discipline. A dualism that inflated its evidence count would be easier to dismiss; a dualism that counts its structural evidence at exactly the number that survives an independence test earns the calibration it claims.
 
 ## Further Reading
 
@@ -107,6 +121,7 @@ The Map speculates that the grain mismatch programme may extend further. The [bi
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — The temporal mismatch in detail
 - [resolution-void](/voids/resolution-void/) — What grain mismatch means for the limits of self-knowledge
 - [interface-heterogeneity](/concepts/interface-heterogeneity/) — Whether grain structure varies across conscious systems
+- [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The wider catalogue in which grain is the measurement-based route to irreducibility
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-07-07 18:27:43+00:00
+ai_modified: 2026-07-07 22:02:24+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -96,6 +96,9 @@ Habit, in short, is [delegatory dualism](/topics/delegatory-dualism/) observed a
 - [delegatory-dualism](/topics/delegatory-dualism/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — the delegation function habit invokes, formalised as a loop through the physical world
+- [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/) — the same delegation structure read across coherence, prepared-option, and Born-rule registers
+- [interface-friction](/concepts/interface-friction/) — habit as the low-friction delegated extreme of the interface's friction gradient
 
 ## References
 

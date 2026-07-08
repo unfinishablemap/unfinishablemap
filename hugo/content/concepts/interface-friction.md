@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-26 07:27:45+00:00
+ai_modified: 2026-07-07 22:02:24+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[embodied-consciousness]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[empirical-phenomena-mental-causation]]'
+- '[[philosophy-of-habit-under-dualism]]'
 title: Interface Friction
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -135,6 +136,7 @@ The filter model also generates a distinctive prediction: reduced neural constra
 - [filter-theory](/concepts/filter-theory/) — The filter model where friction has its natural home
 - [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/) — The broader pattern of which interface friction is one instance
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Where friction's phenomenology sits on the basic agency axis
+- [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/) — Habit as the low-friction extreme of the friction gradient
 
 ## References
 

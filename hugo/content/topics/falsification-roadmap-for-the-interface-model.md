@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-06-26 14:38:28+00:00
+ai_modified: 2026-07-07 20:24:29+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -109,7 +109,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 *Moderate*: Comprehensive evidence that conscious awareness never precedes neural commitment in any decision type. If the brain always decides before consciousness registers, the case for downward causation weakens. Preregistered Bayesian evidence for the null on macroscopic micro-psychokinesis (Maier & Dechamps, 2018) has already partially foreclosed one visible branch of bidirectional interaction—large, unaided, intention-driven Born-rule violation of the PEAR variety. The Map's response is that Tenet 3 does not require this kind of large-signal effect; corridor-level biasing or suppressed deviations below current sensitivity remain compatible. The [Born-rule consciousness-interface article](/topics/born-rule-and-the-consciousness-interface/) maps what this empirical trajectory has and has not closed off.
 
-**The conservation of energy challenge**: Pitts (2020) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is the standard quantum-interactionist move that conservation laws, read as local and energetically-equivalent-respecting, leave open. Far from special pleading, this is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
+**The conservation of energy challenge**: Pitts (2020) argues that conservation laws "trivially nearly entail" causal closure, and reads that near-entailment as telling against mental causation rather than as leaving room for it—his own view treats mental causation as conservation-violating. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—turns not on any concession from Pitts but on a structural feature of the conservation laws themselves: read as local and energetically-equivalent-respecting, they permit selection among energetically equivalent alternatives without violation. Far from special pleading, this is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works.
 
 **Honest assessment**: The self-undermining argument against epiphenomenalism remains the strongest philosophical support (see [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) for why epiphenomenalism is the default destination of most consciousness theories and what genuine escape requires). If consciousness is causally inert, our beliefs *about* consciousness are causally disconnected from consciousness itself, making every report about experience accidentally right at best. The position appears epistemically [self-defeating](/concepts/epiphenomenalism/). Empirical support for bidirectional interaction is real but indirect: establishing that the functional role requires *non-physical* causation rather than complex physical processing seems extremely difficult, and on present evidence the two readings may be empirically equivalent at the level of behaviour and report.
 

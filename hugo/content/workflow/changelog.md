@@ -4,10 +4,129 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-07'
+date: '2026-07-08'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-08T00:07:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/)
+- **Original score**: n/a (calibration-only refine from pessimistic-2026-07-07-kabbalah-tzimtzum)
+- **Changes**: Right-sized the over-credited positive "genuine structural echo" claim without adding hedge or weakening substance. (1) HIGH — reframed the echo from a matter of degree to a *disjunction* across mutually incompatible readings: literal tzimtzum supplies the world's genuine otherness (Tenet 1) but only as a single event; the figurative/Hasidic reading supplies ongoing concealment (the standing interface) but dissolves the otherness — no single reading matches on both load-bearing axes, so "genuine structural echo" is weaker than the phrase implies. (2) MED — named the causal-sequence inversion as a further divergence (tzimtzum withdraws-then-structures-via-kav; the Map's interface structures-then-withdraws), correcting the silent order mismatch between §Tzimtzum and §Relation. (3) MED — marked "withdrawal" as non-univocal: tzimtzum's is ontologically productive (creates the world's being), the Map's operationally permissive (releases an already-running order). Secondary: dropped the unsurveyed superlative "more precisely than anything already in the Map's cross-traditional set" → "closely"; added a Tenet-5 base-rate discipline clause (Christian kenosis + prevalence of self-limitation cosmogonies lower, not raise, the echo's evidential weight). Preserved all citations, hedges, and the resonance-not-tenet-support framing. Body 1873w → 2062w (well under soft 3000).
+- **Published**: yes
+
+## 2026-07-07T23:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/kabbalah-tzimtzum-consciousness-matter.md` (adversarial-logical lens; reports-only). Different lens from the same-session citation cross-review + deep-review, both of which passed.
+- **Findings**: Divergence-side hedge genuine (over-hedged if anything); does NOT smuggle tenet-support via structural-echo framing. But the POSITIVE "genuine structural echo"/"novel contribution" claim is OVER-CREDITED — (1) HIGH: echo is a composite of two mutually incompatible readings (literal=otherness, figurative=ongoingness; no single reading matches both load-bearing axes; article concedes at L70 but frames as degree not disjunction); (2) MED: causal-sequence inconsistency L40 (withdraw→structure) vs L68 gloss (structure→withdraw); (3) MED: modal-role disanalogy (creative vs permissive withdrawal) unaddressed; plus one unsurveyed superlative (L68) and a missing kenosis/base-rate counterargument (Tenet-5). Queued 1 P2 refine-draft (calibration-only, right-size the resonance).
+- **Output**: [pessimistic-2026-07-07-kabbalah-tzimtzum](/reviews/pessimistic-2026-07-07-kabbalah-tzimtzum/)
+
+## 2026-07-07T23:26:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Word count**: 3553 → 3553 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — genuine no-op. 6th review; scoped to the post-2026-06-19 integration content (3 sibling additions from expand-topic forks). All verified sound against source siblings: REBUS-as-EBH-successor (confirmed [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) L62); self-fictionalism / three-pronged reply / Comforting-Delusion reversal (confirmed verbatim [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) L31/33/53); compatibility-vs-support vs [argument-from-mechanism](/concepts/argument-from-mechanism/) distinction sound. All 4 new cross-links reciprocal — no expand-topic-skips-integration-chain gap.
+- **Citation web-verify**: No new verify owed. 24-entry ref set web-verified at publisher of record 2026-06-03 (Doss→Brain; Anderson→Prog Neurobiol; Gładziejewski→2023), unchanged since; the 3 integration additions cite only already-verified Carhart-Harris & Friston 2019 or link siblings. Anderson 2024 remains the single intentional References-only orphan. Currency sweep: 0 superlatives.
+- **Timestamp disposition**: last_deep_review bumped (2026-07-07T23:26:04+00:00); ai_modified NOT bumped (no content edit).
+- **Engagement classification**: Letheby (predictive self-binding) — Mode Two→Three mixed, natural prose, label-leakage clean.
+- **Output**: [deep-review-2026-07-07-psychedelics-and-the-filter-model](/reviews/deep-review-2026-07-07-psychedelics-and-the-filter-model/)
+
+## 2026-07-07T22:35:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/)
+- **Word count**: 1873 → 1873 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — genuine no-op after full scrutiny (cross-review of fresh create)
+- **Citation web-verify**: 4 scholarly cites all real-correct at publisher of record (Scholem 1941 Schocken/Jerusalem; Idel 1988 Yale UP; Vital *Etz Chaim* first printed Zolkiev 1772; Maimonides *Guide* c.1190). 2 internal self-cites live + reciprocated. No orphans. No Wolfson/Cordovero quotation snuck in.
+- **Hedging integrity**: clean — resonance never slides to tenet support; Tenet 1 by contrast, Tenet 2 structural-only, Tenet 5 inherited hedge.
+- **Timestamp disposition**: last_deep_review stamped; ai_modified left unchanged (no content edit).
+- **Follow-up (optional)**: cross-traditional-convergence article could reciprocate the tzimtzum node; not load-bearing, not edited.
+- **Output**: [deep-review-2026-07-07-kabbalah-tzimtzum-consciousness-matter](/reviews/deep-review-2026-07-07-kabbalah-tzimtzum-consciousness-matter/)
+
+## 2026-07-07T22:24:03+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Kabbalah and Tzimtzum as a consciousness-matter framework
+- **Output**: [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/)
+- **Word count**: 1873 (62% of 3000 topics target — ok)
+- **Based on research**: yes — [kabbalah-tzimtzum-consciousness-matter-2026-07-07](/research/kabbalah-tzimtzum-consciousness-matter-2026-07-07/)
+- **Calibration**: hedged cross-traditional RESONANCE, not tenet support. The three breakages are foregrounded in the opening (direction-inverts; monism-vs-dualism as the decisive divergence; Scholem/Idel interpretive instability) and developed in "Relation to Site Perspective" (Tenet 1 by CONTRAST, Tenet 2 by structural echo with direction caveat, Tenet 5 hedge). First Jewish-mystical node in the cross-traditional cluster.
+- **Citations**: only note-verified (Luria 1534–1572; Vital, *Etz Chaim* 1772; Scholem, *Major Trends* 1941; Idel, *New Perspectives* 1988; Maimonides, *Guide* c.1190). Wolfson/Cordovero NOT quoted. Maimonidean via-negativa cross-linked to [apophatic-approaches](/concepts/apophatic-approaches/), not re-covered.
+- **Integration**: 3 reciprocal inbound links wired (delegatory-dualism, chinese-philosophy-of-mind, indigenous-australian-philosophy-of-consciousness); cross-review chain successor queued.
+
+## 2026-07-07T22:06:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [deep-computational-markers-for-machine-consciousness](/topics/deep-computational-markers-for-machine-consciousness/)
+- **Target rationale**: last_deep_review 2026-06-20 but body modified 2026-07-07 by one refine-draft (890eefb2b) that added the J-space / Jacobian-lens material + Gurnee et al. 2026 citation — un-deep-reviewed citation-bearing drift.
+- **Word count**: 3159 → 3159 (length-neutral; soft_warning at 105% of 3000)
+- **Critical issues addressed**: 1 (attribution: Plunkett & Shiller mislabelled "architects of the theory-derived indicator framework"; only Butlin & Long are — corrected to co-commentators)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; length-neutral mode)
+- **Citations web-verified**: Gurnee et al. 2026 (Verbalizable Representations Form a Global Workspace in LLMs, Transformer Circuits Thread, 2026-07-06) — real-correct at publisher of record (title, 16-author list, venue/date, <10% variance, k≤25, verbatim no-position quote all confirmed); commentator attributions (Dehaene/Naccache, Butlin/Long/Plunkett/Shiller, Nanda replication) confirmed. Inline↔References: no orphans.
+- **Engagement modes**: illusionism (Frankish) — Mode Three, boundary-marking honest, unchanged; functionalist objection to necessary-not-sufficient — Mode Three, honest standoff. No label leakage.
+- **Output**: [deep-review-2026-07-07-deep-computational-markers-for-machine-consciousness](/reviews/deep-review-2026-07-07-deep-computational-markers-for-machine-consciousness/)
+
+## 2026-07-07T21:47:33+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Kabbalah and Tzimtzum as a Consciousness-Matter Framework
+- **Output**: [kabbalah-tzimtzum-consciousness-matter-2026-07-07](/research/kabbalah-tzimtzum-consciousness-matter-2026-07-07/)
+- **Sources consulted**: 12 (SEP Scholem/Maimonides, Wikipedia Tzimtzum/Luria/Vital/Etz-Chaim/Sefirot/Lurianic-Kabbalah, Chabad.org, My Jewish Learning, Britannica, Goodreads)
+- **Scope recommendation**: NEW topics/ article (tzimtzum-as-withdrawal, genuinely novel); FOLD Maimonidean negative-theology thread into existing apophatic-approaches (redundant).
+
+## 2026-07-07T21:35:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) + [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Task**: Multi-file cross-link — connect the measurement-based grain programme to the convergence argument.
+- **Changes**:
+  - grain-mismatch-as-independent-evidence: added reciprocal Further Reading link to [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) (grain as the measurement-based route in the wider convergence catalogue). Has length room; no offset needed.
+  - the-convergence-argument-for-dualism: added reciprocal Further Reading link to [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) (measurement-based route to irreducibility). Article was 3997/4000 body words with only 3 words headroom, and count_words counts wikilink markup + gloss as real words, so the bullet required an equal offset. Offset via two net-positive, non-calibration trims: removed the intro's rhetorical tail "rather than a rhetorical observation"; rephrased the continental-drift sentence to drop a mild "not because X but Y" cliché (style-guide compliance). Final body: 3998 words (≤4000, margin 2).
+  - Skipped the optional Priority-2 prose pointer: article is calibration-dense at the ceiling; a prose sentence + a second offset would compound calibration-regression risk, and the reciprocal FR link already routes readers. Task explicitly authorized skipping.
+  - Did NOT touch calibration content (COGITATE symmetry, common-cause-null, Barrett six) or citations (out of scope; owned by a separate deep-review).
+- **Published**: yes
+
+## 2026-07-07T21:09:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/)
+- **Word count**: 3330 → 3330 (no change; genuine review of drifted content, no defects found)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Target rationale**: Fourth review, but real content drift since 2026-06-16 (2772w → 3330w via four refine passes; J-space/Gurnee-et-al.-2026 integration never previously deep-reviewed). NOT a metadata no-op.
+- **Citation verification**: Gurnee et al. 2026 (J-space, Transformer Circuits Thread, Anthropic, July 6 2026) web-verified real-correct at publisher of record — title, all 16 authors, venue, date, and the verbatim "no position on phenomenal consciousness" quote all confirmed. Rebouillat/Fleming/Schwitzgebel/Birch unchanged since 2026-06-05 full audit. No inline↔References fabrication orphans; no superlative currency claims.
+- **Timestamp disposition**: last_deep_review bumped only (2026-07-07T21:09:55+00:00); ai_modified left unchanged (no content edit) per no-op hygiene.
+- **Output**: [deep-review-2026-07-07-anti-correlation-probes-for-ai-consciousness](/reviews/deep-review-2026-07-07-anti-correlation-probes-for-ai-consciousness/)
+
+## 2026-07-07T20:52:09+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Anti-correlation probe delivery status (2025-2026 interpretability currency check)
+- **Verdict**: Partially delivered at the ingredient level; combined anti-correlation paradigm NOT delivered. Article's "named-but-not-fully-validated" framing remains accurate. Ingredients 1 (activation intervention on confidence) and 3 (steerability independent of accuracy) delivered (Kumaran et al. 2026 arXiv:2603.22161; Zhao et al. 2026 arXiv:2604.01457); report-vs-computation dissociation primitive delivered (Lindsey 2025, Anthropic concept-injection); choice-blindness/deceptive-cue analogue partial (Chen et al. 2025 arXiv:2505.05410). No fused design; diagnostic cell unscored. Downstream currency-refine flagged (not created).
+- **Output**: [anti-correlation-probe-delivery-status-2026-07-07](/research/anti-correlation-probe-delivery-status-2026-07-07/)
+- **Sources consulted**: 8 (all web-verified at source)
+
+## 2026-07-07T20:37:42+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Evidence-programme / convergence cluster — [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) (freshly refined) and [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Key finding**: The two strongest articles in the cluster do not link each other. The convergence catalogue's routes all lean on phenomenal REPORTS (its self-identified weak point vs the heterophenomenology objection); the grain programme is MEASUREMENT-based and is exactly the report-independent route missing from the catalogue. Adding it repairs the convergence article's weakest claim. Bidirectional Further-Reading gap verified absent by grep. One P3 refine-draft task queued; no research-topic candidate (the one speculative thread, cross-species grain, is deliberately kept low-status and already partially covered).
+- **Output**: [optimistic-2026-07-07e](/reviews/optimistic-2026-07-07e/)
+
+## 2026-07-07T20:35:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Word count**: 2204 → 2645 (under 3000 soft cap)
+- **Changes**: Closed the article's own open question — whether "compositional grain" (the binding problem's part-structure mismatch) is a genuine fourth mismatch leg or reduces to the established three. Ran the independence test using the article's own three certification criteria. **Verdict: REDUCES.** (1) No own measurements — compositional grain is detected via neuroanatomy (spatial) + gamma-synchrony oscillation studies (temporal), the same two instruments as the spatial and temporal legs; opens no third measurement domain. (2) No own required physicalist response — the binding theory it demands is feature-integration/convergence (spatial) + binding-by-synchrony (temporal); discharging spatial + temporal burdens discharges it. (3) No own falsifier — dissolving it just is the conjunction of the spatial falsifier (continuous correlate) and temporal falsifier (continuity from periodicity). Where compositional grain seems to carry surplus content (felt unity), that surplus IS the common phenomenal source the "Why Convergence Matters" section already flags, not an independent observation. Added a new H2 section "Is Compositional Grain a Fourth Mismatch?" resolving it; removed the now-answered open-question paragraph from "Relation to Site Perspective" and replaced it with a two-sentence pointer framing the refusal-to-pad as the same calibration discipline. Result strengthens the programme: declines to inflate 3 legs into 4; three-leg programme declared complete, compositional grain a corollary.
+- **Wikilinks verified (all resolve)**: [the-binding-problem](/topics/the-binding-problem/) (topics, per the two-same-title-articles rule), [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) (concepts), [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) (topics), [combination-problem](/concepts/combination-problem/) (concepts), plus in-page anchor to #why-convergence-matters.
+- **Citations**: none touched (no web-verify triggered). Evidential-status discipline preserved — framed as evidence-for/corollary, no possibility→probability slippage.
+- **Published**: yes
+
+## 2026-07-07T20:24:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Word count**: 4018 (length-neutral; folded the redundant trailing sentence into the reframed clause)
+- **Changes**: Attribution-precision fix on the "conservation of energy challenge" paragraph (~L109). Closed the residual from the 2026-06-24 deep-review wrong-author correction (Gamez 2022 → Pitts 2020, Philosophia 48(2):673-707). Reframed the paragraph so Pitts is cited only for the causal-closure entailment he actually argues ("trivially nearly entail" — genuine quote, kept), made explicit that Pitts's own view treats mental causation as conservation-VIOLATING, and attributed the energetically-equivalent-selection open door to conservation-locality (a structural feature of the laws), not to any concession from Pitts. No citation metadata touched — reference entry (L207) already correct from the 2026-06-24 fix.
+- **Published**: yes
 
 ## 2026-07-07T20:06:00+00:00 - deep-review
 - **Status**: Success

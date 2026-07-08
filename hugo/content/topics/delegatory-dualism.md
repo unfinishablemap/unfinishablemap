@@ -262,6 +262,7 @@ Saad's work offers the most internally coherent option for a dualism adopted on 
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why conservation doesn't block mental causation
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — Quantum entanglement as the physical substrate for unified experience
 - [bradford-saad-delegatory-dualism-2026-01-28](/research/bradford-saad-delegatory-dualism-2026-01-28/) — Research notes on Saad's work
+- [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/) — Lurianic self-withdrawal (tzimtzum) as a cross-traditional structural echo of the delegation-withdrawal move, with its emanationist monism marked as a divergence
 
 ## References
 

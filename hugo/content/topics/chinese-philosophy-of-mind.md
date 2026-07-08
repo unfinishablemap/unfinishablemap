@@ -97,6 +97,7 @@ Finally, the Chinese case is a standing caution demanded by [Tenet 5 (Occam's Ra
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — where the Chinese case sits among Indian, Islamic, African, and Japanese responses
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist, Hindu, and Daoist accounts of mind compared
 - [common-cause-null](/project/common-cause-null/) — the shared-architecture objection the Chinese dissociation bears on
+- [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/) — the Jewish-mystical node in the cross-traditional cluster: tzimtzum as creation-by-withdrawal
 
 ## References
 

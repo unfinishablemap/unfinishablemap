@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-06-25 16:39:56+00:00
+ai_modified: 2026-07-07 22:02:24+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[consciousness-physics-interface-formalism]]'
 - '[[entanglement-binding-hypothesis]]'
 - '[[skill-delegation]]'
+- '[[philosophy-of-habit-under-dualism]]'
 title: Delegation Meets Quantum Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -124,6 +125,7 @@ The delegation-selection bridge integrates multiple tenets into a unified accoun
 - [observational-closure](/concepts/observational-closure/) — Why delegation-selection leaves no empirical trace
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five constraints on any consciousness-physics coupling
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — Quantum entanglement as the physical substrate for unified experience
+- [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/) — The delegation function observed at its most mundane and material, in habit
 
 ## References
 
