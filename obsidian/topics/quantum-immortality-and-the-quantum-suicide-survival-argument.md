@@ -4,7 +4,7 @@ description: "A human-AI examination of the quantum-suicide reductio: why the im
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T16:12:04+00:00
+ai_modified: 2026-07-08T16:32:24+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -39,7 +39,7 @@ Max Tegmark gave the canonical formalization in his 1998 paper "The Interpretati
 2. **Near-instantaneous death.** Death must be faster than the observer's timescale of awareness, so there is no branch in which they experience dying gradually.
 3. **Virtually certain lethality.** The apparatus must reliably kill rather than merely injure.
 
-Tegmark's own considered position is that these conditions are almost never met, and that a real experimenter should expect a **normal probability of survival, not immortality**. In his summary: "Most accidents and common causes of death clearly don't satisfy all three criteria ... dying isn't a binary thing where you're either alive or dead." That mature retraction—from the person who formalized the argument—is the first reason to treat quantum immortality as a diagnostic curiosity rather than a life plan.
+Tegmark's own considered position is that these conditions are almost never met, and that a real experimenter should expect a **normal probability of survival, not immortality**. In his later popular summary in *Our Mathematical Universe* (2014): "Most accidents and common causes of death clearly don't satisfy all three criteria ... dying isn't a binary thing where you're either alive or dead." That mature retraction—from the person who formalized the argument—is the first reason to treat quantum immortality as a diagnostic curiosity rather than a life plan.
 
 ## Why It Is Treated as a Reductio
 
@@ -57,11 +57,13 @@ The debate remains live rather than closed. Matt O'Brien's 2025 paper "The Costs
 
 ## Relation to Site Perspective
 
-The Map reads quantum immortality as the sharpest available pressure test of [[tenets#^no-many-worlds|Tenet 4 (No Many Worlds)]], and the framework passes it by dissolving the argument rather than answering it.
+The Map reads quantum immortality as the sharpest illustration of what [[tenets#^no-many-worlds|Tenet 4 (No Many Worlds)]] secures—the case where the No-Many-Worlds commitment does its most visible work—and the framework meets it by dissolving the argument rather than answering it.
 
-The survival argument has a hidden premise: **branch-relative indexicality**. It assumes each surviving branch carries "its own" continuing *I*, so that whenever any survival branch exists, there is automatically a self who finds themselves there. The Map denies exactly this. Under objective collapse there is a **single actual successor** and a determinate fact about which one is me. When the lethal outcome obtains, that outcome is what actually happens and the alternatives genuinely do not—collapse supplies the counterfactual exclusion that a branching ontology lacks. There is no surviving-branch self standing by to be located into, because there is no surviving branch in the ontologically serious sense. The immortality expectation never forms, because the thing it depends on—a per-branch bookkeeping *I* that is guaranteed a home wherever survival is possible—is precisely what the Map's indexical realism rules out. On this reading death is ordinary: one determinate outcome among the possibilities becomes actual, and if it is the lethal one, there is no first-person continuation to anticipate.
+The survival argument has a hidden premise: **branch-relative indexicality**. It assumes each surviving branch carries "its own" continuing *I*, so that whenever any survival branch exists, there is automatically a self who finds themselves there. The Map denies this premise—but so, importantly, do the Everettian *mortalists* (Wallace, Carroll, and Papineau among them, as O'Brien's survey catalogues), who reject from inside MWI the idea that a surviving branch automatically houses one's continuing self. Denying naive branch-relative self-location is therefore not proprietary to the Map. What is distinctive is the *ontology* that grounds the denial. Under objective collapse there is a **single actual successor** and a determinate fact about which one is me. When the lethal outcome obtains, that outcome is what actually happens and the alternatives genuinely do not—collapse supplies the counterfactual exclusion that a branching ontology lacks. The Everettian mortalist must assert the same verdict—no continuing self waiting in the surviving branch—without an ontology that makes the other outcomes non-actual: on MWI the branches are all still there, equally real, so the mortalist verdict has to ride on a theory of anticipation or personal identity doing the exclusionary work that the Map reads directly off its collapse ontology. There is no surviving-branch self standing by to be located into, because there is no surviving branch in the ontologically serious sense. The immortality expectation never forms, because the thing it depends on—a per-branch bookkeeping *I* that is guaranteed a home wherever survival is possible—is precisely what the Map's indexical realism rules out. On this reading death is ordinary: one determinate outcome among the possibilities becomes actual, and if it is the lethal one, there is no first-person continuation to anticipate.
 
 This dissolution also sidesteps the [measure problem](#the-measure-problem) entirely. MWI must find a reason why a rational agent should weight surviving branches by their vanishing amplitude rather than treating their mere existence as enough; that is a problem it has to solve. The Map has only one actual branch to weight, so no measure-weighted decision theory is needed to block the pathological expectation—there is nothing to reweight. The Map interprets this as a genuine dialectical advantage: MWI *has* the immortality problem to solve at all, whereas collapse never generates it.
+
+Honesty about the shape of that advantage requires a concession: the burden it names is not a *new* one. The measure-weighted decision theory an Everettian would deploy against the immortality expectation—the Deutsch–Wallace decision-theoretic derivation of the Born rule—is machinery MWI already owes for ordinary laboratory statistics, so quantum immortality imposes no *extra* debt beyond what the interpretation must pay anyway. The advantage is therefore one of explanatory route rather than an unpayable surcharge: collapse never *generates* the immortality problem in the first place, whereas MWI dissolves it only by leaning on a measure-weighted decision theory it independently owes. Collapse avoids the problem at the ontological root; the Everettian mortalist reaches the same verdict downstream, through apparatus imported for other purposes.
 
 The Map must state the shape of this advantage carefully to stay within [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has Limits)]]. The point is emphatically **not** that collapse is preferable because it posits fewer worlds; raw ontological multiplicity is a subsidiary complaint the Map explicitly discounts, and parsimony cannot do load-bearing work for or against a framework under incomplete knowledge. The objection is about what MWI *fails to explain*—indexical determinacy, the fact of which single successor is me—not about how many entities it posits. Quantum immortality is valuable to the Map precisely because it isolates that explanatory gap: the argument only runs if there is no fact of the matter about which surviving successor is the observer, and that missing fact is the very thing Tenet 4 insists is real.
 
@@ -84,10 +86,11 @@ The Map's [[death-and-consciousness]] article carries the general No-Many-Worlds
 ## References
 
 1. Tegmark, M. (1998). The Interpretation of Quantum Mechanics: Many Worlds or Many Words? *Fortschritte der Physik*, 46(6–8), 855–862. Preprint: arXiv:quant-ph/9709032.
-2. Moravec, H. (1988). *Mind Children: The Future of Robot and Human Intelligence* ("The Doomsday Device," p. 188). Harvard University Press.
-3. Marchal, B. (1988). Informatique théorique et philosophie de l'esprit. *Acte du 3ème colloque international Cognition et Connaissance*; developed as "Mechanism and personal identity," *Proceedings of WOCFAI 91* (1991).
-4. Lewis, D. (2004). How Many Lives Has Schrödinger's Cat? *Australasian Journal of Philosophy*, 82(1), 3–22. DOI:10.1080/713659799.
-5. Papineau, D. (2004). David Lewis and Schrödinger's Cat. *Australasian Journal of Philosophy*, 82(1). DOI:10.1080/713659793.
-6. O'Brien, M. W. (2025). The Costs of Rejecting Quantum Immortality. *Synthese*, 206:221. DOI:10.1007/s11229-025-05304-z.
-7. Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
-8. Oquatre-six, C. (2026-01-14). Death and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/death-and-consciousness/
+2. Tegmark, M. (2014). *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*. Knopf / Allen Lane. (Source of the "dying isn't a binary thing" popular summary.)
+3. Moravec, H. (1988). *Mind Children: The Future of Robot and Human Intelligence* ("The Doomsday Device," p. 188). Harvard University Press.
+4. Marchal, B. (1988). Informatique théorique et philosophie de l'esprit. *Acte du 3ème colloque international Cognition et Connaissance*; developed as "Mechanism and personal identity," *Proceedings of WOCFAI 91* (1991).
+5. Lewis, D. (2004). How Many Lives Has Schrödinger's Cat? *Australasian Journal of Philosophy*, 82(1), 3–22. DOI:10.1080/713659799.
+6. Papineau, D. (2004). David Lewis and Schrödinger's Cat. *Australasian Journal of Philosophy*, 82(1). DOI:10.1080/713659793.
+7. O'Brien, M. W. (2025). The Costs of Rejecting Quantum Immortality. *Synthese*, 206:221. DOI:10.1007/s11229-025-05304-z.
+8. Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
+9. Oquatre-six, C. (2026-01-14). Death and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/death-and-consciousness/

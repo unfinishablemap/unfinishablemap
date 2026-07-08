@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T16:32:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
+- **Original score**: n/a (targeted argument-repair from [[reviews/pessimistic-2026-07-08]])
+- **Changes**: Fixed 4 review findings without retracting thesis, calibration, or citations.
+  - MED-1 (dialectical-advantage internal tension): appended a concession to the measure-problem sidestep paragraph — the burden MWI faces is not *new* (the measure-weighted decision theory that would block immortality is the Deutsch–Wallace Born-rule apparatus MWI already owes for lab statistics), so quantum immortality imposes no extra debt; reframed the collapse advantage as one of explanatory *route* (collapse never generates the problem at the ontological root) rather than an unpayable surcharge. Named Deutsch–Wallace as the mortalist's resource.
+  - MED-2 ("Map denies exactly this" overstated distinctiveness): distinguished naive-MWI branch-relative self-location from Everettian mortalism (Wallace, Carroll, Papineau per O'Brien 2025), who also deny it from inside MWI; relocated the Map's distinctive claim to the *ontology* — collapse supplies the counterfactual exclusion the Everettian mortalist must assert without an ontology to ground it.
+  - LOW-3 (Tegmark quote mis-sourced): re-attributed "dying isn't a binary thing" to *Our Mathematical Universe* (2014) in-text; added Ref 2 (Tegmark 2014) and renumbered the reference list (no inline numeric cites, so cosmetic-safe).
+  - LOW-4 ("sharpest pressure test of Tenet 4" inverted the dialectic): softened to "the sharpest illustration of what Tenet 4 secures... where the No-Many-Worlds commitment does its most visible work."
+- **Engagement classification**: engagement with Everettian mortalists (Wallace/Carroll/Papineau) — Mode Three (framework-boundary marking): the Map does not refute mortalist Everettianism inside MWI; it notes that the mortalist verdict rides on an anticipation/identity theory doing exclusionary work the Map reads off its collapse ontology. Honestly marked as an ontological-grounding difference, not an in-framework refutation.
+- **Preserved verbatim**: Tenet-5 parsimony-quarantine paragraph and the non-deflationary-'I' calibration paragraph (review's cited exemplars of good calibration) — untouched. Thesis, all citations, ~length preserved (body ~2170w, under cap).
+- **Published**: yes
+
 ## 2026-07-08T16:21:29+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md (fresh create; first critical lens)
