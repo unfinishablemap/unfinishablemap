@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T11:17:49+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Fresh marginal-organism-ladder cluster — basal-and-bioelectric-cognition.md + fish-sentience-and-the-teleost-pain-debate.md (both UNREVIEWED) + plant-cognition argument. Probed the cluster's "severing" thesis, Levin's bracketing-as-evidence, fish negative-move usability.
+- **Output**: [[reviews/pessimistic-2026-07-08-marginal-organism-ladder-cluster]]
+- **Tasks queued**: 2× P2 refine-draft (basal Issues 1-3; fish Issue 4 + cross-article harmonisation)
+
 ## 2026-07-08T11:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Fish sentience and the teleost pain debate (vertebrate-architecture rung)
