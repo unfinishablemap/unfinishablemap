@@ -14,6 +14,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-08
 last_curated:
+last_deep_review: 2026-07-08T02:37:41+00:00
 ---
 
 Alexithymia is difficulty identifying and describing one's own emotions, paired with an externally-oriented, concrete thinking style. It is a normally-distributed personality trait — elevated in roughly 10% of the general population — not a DSM disorder. For the Map it is the third named member of the **phenomenal-divergence cluster**, the emotional and interoceptive case alongside its siblings [[aphantasia]] (absent or reduced visual imagery) and [[synaesthesia]] (anomalous cross-modal binding). Its distinctive value is sharpened by a recent shift in the evidence: the naive story that alexithymia is a straightforward *deficit* of interoceptive feeling has weakened, relocating the divergence toward the report and metacognition layer rather than the phenomenal layer — a relocation that strengthens, rather than blunts, the trait's use as a test of whether cross-tradition agreement about consciousness is an artefact of shared reporting machinery. That test, the **common-cause null**, and the **access-layer relocation** that motivates it are explained below.
