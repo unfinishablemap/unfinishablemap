@@ -22,6 +22,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-08
 last_curated:
+last_deep_review: 2026-07-08T17:59:18+00:00
 ---
 
 The enteric nervous system (ENS) is a semi-autonomous network of roughly 500 million neurons embedded in the wall of the gut, organised into complete sensory-motor reflex circuits that keep digestion running even when the vagus nerve is severed. It is the only division of the peripheral nervous system that can operate independently of the brain and spinal cord, which earned it Michael Gershon's name, "the second brain." For a framework that holds consciousness to interface with the physical world through a *selection-only* channel at quantum junctures in the brain, this poses a sharp and previously unaddressed question: **where does that interface sit?** If a second nervous system this functionally complete runs without the brain, is the consciousness-physical interface still brain-only, or could it be distributed?
