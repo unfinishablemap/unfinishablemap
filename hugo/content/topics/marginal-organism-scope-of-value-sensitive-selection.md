@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-06-18 09:40:00+00:00
+ai_modified: 2026-07-08 11:01:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -68,6 +68,10 @@ The acellular slime mould *Physarum polycephalum*—a single giant multinucleate
 
 The slime mould forces a clean disjunction. *Either* valenced-looking behaviour can be produced by wholly value-blind, mechanistic processes—in which case approach/avoidance is **not** a reliable marker of value-sensitive selection anywhere, weakening the inference up the whole ladder—*or* the Map must extend conscious value-sensitive selection to a brainless cell, which strains the framework past any specified interface. The Map should take the first horn: *Physarum* is best read as a demonstration that valence-*like* behaviour underdetermines value-*sensitive selection*. This is the most defensible reading and it cuts against over-attribution.
 
+Between *Hydra*'s diffuse net and *Physarum*'s single cell sits a rung this ladder skips: the **multicellular, non-neural** case. [Plants](/topics/plant-cognition-and-the-plant-neurobiology-debate/) fill it—many-celled organisms that count (the Venus flytrap's action-potential tally), hold short-term electrical memory, and run systemic wound signalling, all without neurons, yet with even less claim to experience than the slime mould. They press the same disjunction from richer behavioural territory: more sophisticated non-neural processing, still no evidence of felt value. And [Levin's bioelectric programme](/topics/basal-and-bioelectric-cognition/) presses it from the opposite side—flatworm voltage memory and self-replicating xenobots supply engineering-grade *agency* whose *experience* even the principal investigator declines to assert, hardening the case that goal-directed behaviour is no reliable marker of value-sensitive selection.
+
+An orthogonal rung sits off to the side of this descent. The [teleost fish](/topics/fish-sentience-and-the-teleost-pain-debate/) are full vertebrates—nervous system, nociceptors, flexible behaviour all present—so they do not remove a prerequisite the way the rungs above do. What they vary is neural *architecture*: fish lack the laminated neocortex that houses the mammalian pain network, and skeptics infer from that absence that fish nociception is unfelt. That inference is the cortical-necessity premise in its sharpest published form, and the ladder's cleanest test of whether a specific structure, rather than neural processing in general, is load-bearing for felt value.
+
 ## What Each Test Removes
 
 | Organism | Has | Lacks (for value-sensitive selection) | Status |
@@ -115,6 +119,7 @@ Two limits are in-principle, not instrumental. Verifying the *absence* of valenc
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — How conscious selection re-introduces purpose into nature
 - [agent-teleology](/concepts/agent-teleology/) — Genuine purpose through conscious causation
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The calibration discipline this article enforces on boundary cases
+- [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/) — The orthogonal vertebrate-architecture rung: nociception fixed, cortical structure varied
 - [explanatory-gap](/concepts/explanatory-gap/) — Why the lower boundary is partly an unmeasurable void
 
 ## References

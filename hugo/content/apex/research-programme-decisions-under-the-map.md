@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-06-22 23:33:24+00:00
+ai_modified: 2026-07-08 09:13:51+00:00
 ai_system: claude-opus-4-8
 apex_decision_context: 'For a working scientist or philosopher who accepts the Map''s
   tenets: which research directions are most warranted by the framework''s confidence
@@ -41,7 +41,7 @@ description: 'An applied synthesis: given the confidence structure of the Map''s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 17:10:00+00:00
+last_deep_review: 2026-07-08 09:13:51+00:00
 modified: *id001
 related_articles:
 - '[[apex/interface-specification-programme]]'
@@ -77,13 +77,13 @@ The single most warranted direction is the one P-Q10 names: build a worked forma
 
 The leverage is structural rather than rhetorical. P-Q1's preference for post-decoherence selection is held "as a working stance rather than a settled result; no worked toy model of the mechanism currently exists." P-Q3 — the [bias-without-deviation dilemma](/positions/quantum-interface/#mechanism-debt) — states that "no worked toy model yet exhibits a causally robust yet aggregate-undetectable within-Born bias; until one does, the aggregate-undetectability is a real testability *cost*, not a neutral feature." A toy model that exhibited exactly that — token-level causal robustness with ensemble-level Born preservation — would do more than tighten one band. It would convert the Map's sharpest standing liability from an unpaid debt into a discharged one.
 
-This is the direction that most clearly distinguishes the Map's research programme from a mere defensive posture. The two descriptive programme syntheses — the [interface specification programme](/apex/interface-specification-programme/) and the [post-decoherence selection programme](/apex/post-decoherence-selection-programme/) — both acknowledge this gap and neither closes it; they specify *what a complete theory would require* without supplying the formal core. A scientist who can write down even a deliberately simplified coupling map that survives the no-signalling and Born constraints would be working at the exact joint the whole register pivots on. The honest scope: this is hard, and it may be that the mechanism cluster is destined to remain at programme level. P-Q10's own shift-condition includes the possibility that "the project explicitly decides the mechanism cluster will remain at programme-level and never aspire to a toy model." But until that decision is made, the toy model is the highest-expected-value direction the framework points to.
+This is the direction that most clearly distinguishes the Map's research programme from a mere defensive posture. The two descriptive programme syntheses — the [interface specification programme](/apex/interface-specification-programme/) and the [post-decoherence selection programme](/apex/post-decoherence-selection-programme/) — both acknowledge this gap and neither closes it; they specify *what a complete theory would require* without supplying the formal core. A scientist who can write down even a deliberately simplified coupling map that survives the no-signalling and Born constraints would be working at the exact joint the whole register pivots on — and those two constraints are not independent, since Torres Alegre's (2025) generalised-probabilistic-theories result shows that non-affine deviations from the Born map are exactly what would enable superluminal signalling, so a bias that preserves no-signalling is thereby pushed toward Born preservation. The honest scope: this is hard, and it may be that the mechanism cluster is destined to remain at programme level. P-Q10's own shift-condition includes the possibility that "the project explicitly decides the mechanism cluster will remain at programme-level and never aspire to a toy model." But until that decision is made, the toy model is the highest-expected-value direction the framework points to.
 
 ## Direction 2: Coherence-time calculations and mechanism re-ranking
 
 The second-most warranted direction targets P-Q1's mechanism preference directly. The register ranks post-decoherence selection above the pre-decoherence rivals (Stapp-Zeno, Orch-OR) on the strength of the decoherence-timescale objection that Tegmark (2000) pressed — but it holds that preference at **moderate** confidence and names the result that would overturn it: "a working coherence-time calculation supporting pre-decoherence proposals in neural tissue."
 
-This makes a specific, technical, publishable calculation decision-relevant. A coherence-time model for the relevant neural structures that survived review would not merely add detail; it would re-rank the entire mechanism cluster. P-Q4 (Stapp-Zeno demoted) and P-Q5 (Orch-OR demoted) both carry the same shift-condition — "a working coherence-time calculation for the relevant neural structures is published" — and both explicitly say a closing of the decoherence gap "would re-elevate" the demoted mechanism. So a single calculation has fan-out: it could move three positions at once. The contested Babcock-Hameroff (2025) line against Tegmark's original decoherence estimate, noted in the [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/), is exactly where this work is live.
+This makes a specific, technical, publishable calculation decision-relevant. A coherence-time model for the relevant neural structures that survived review would not merely add detail; it would re-rank the entire mechanism cluster. P-Q4 (Stapp-Zeno demoted) and P-Q5 (Orch-OR demoted) both carry the same shift-condition — "a working coherence-time calculation for the relevant neural structures is published" — and both explicitly say a closing of the decoherence gap "would re-elevate" the demoted mechanism. So a single calculation has fan-out: it could move three positions at once. The contested experimental line against Tegmark's original decoherence estimate — detailed in the [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) — is exactly where this work is live.
 
 The decision-relevance is symmetric, which is what makes it good science rather than advocacy. A coherence-time calculation that *confirmed* warm-wet decoherence is fast would further entrench post-decoherence selection and further demote the rivals — also a band-relevant result. Either way the direction pays, because either result moves the register. Contrast this with re-running PEAR-style aggregate micro-psychokinesis experiments: P-Q9 plus the Maier & Dechamps (2018) preregistered null already place that direction in the pre-committed-null zone, where neither outcome moves the Map.
 
@@ -154,7 +154,4 @@ And the positions register entry [Quantum Interface Positions](/positions/quantu
 1. Donadi, S. et al. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
 2. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 3. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379.
-4. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics* (pp. 11-63). Oxford University Press.
-5. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.
-6. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
-7. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
+4. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-19
-ai_modified: 2026-06-19 19:13:58+00:00
+ai_modified: 2026-07-08 10:15:16.125307+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,6 +19,11 @@ description: The sublime, tragedy, and disgust carry aesthetic value without hed
   pleasure—the sharpest test that aesthetic value is irreducible to pleasure (phenomenal
   value pluralism).
 draft: false
+embedded_videos:
+- embedded: 2026-07-08 10:15:16.125307+00:00
+  id: TkYTQHMH6jw
+  source: notebooklm/0089-01-the-sublime-and-negative-aesthetics
+  url: https://www.youtube-nocookie.com/embed/TkYTQHMH6jw
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-19 19:13:58+00:00
@@ -40,6 +45,12 @@ topics:
 Some of the most powerful aesthetic experiences are not pleasant. Standing beneath a thunderstorm in the mountains, watching a tragedy that leaves you devastated, encountering a work that disgusts and grips you at once—these carry unmistakable aesthetic weight while delivering little or no pleasure, sometimes the opposite. The Unfinishable Map argues that this fact is the sharpest available test of whether aesthetic value reduces to hedonic feeling. It does not. The sublime, the tragic, the ugly, and the disgusting are aesthetic *categories*, not merely failures of beauty or instances of disguised pleasure. Their existence is the strongest single case for [phenomenal value pluralism](/topics/phenomenal-value-realism/): the claim that experience carries several distinct, irreducible dimensions of intrinsic value, of which hedonic pleasure is only one.
 
 The argument matters precisely where hedonism is weakest. A theory that identifies aesthetic value with pleasure must do something with the sublime, tragedy, and disgust—either explain them away as concealed pleasures, redescribe them as non-aesthetic, or treat their felt structure as illusory. Each move discards exactly what needs explaining. The phenomenal structure of awe-with-terror, of grief sought out and prized, of fascinated revulsion, is the explanandum. This article reconstructs the historical analyses that isolated that structure, then argues that the structure resists hedonic reduction in a way that strengthens the Map's [dualist](/tenets/#dualism) reading of value.
+
+<details class="yt-embed" data-video-id="TkYTQHMH6jw">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/TkYTQHMH6jw">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Sublime as Negative Pleasure
 

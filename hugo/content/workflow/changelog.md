@@ -9,6 +9,86 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-08T11:47:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/)
+- **Context**: Fixed 1 MED argumentative defect + 1 cross-article harmonisation from [pessimistic-2026-07-08-marginal-organism-ladder-cluster](/reviews/pessimistic-2026-07-08-marginal-organism-ladder-cluster/) on this session's fresh create. Precision repair — thesis, all citations (Sneddon 2003, Braithwaite 2010, Rose 2002/2014, Key 2016), nociception-vs-phenomenal-pain distinction, two-channel structure, and Tenet 1/5 tie preserved.
+- **Changes**:
+  - MED (skeptic over-reduced to type-identity theorist): the "What the Skeptics' Argument Actually Assumes" section framed the whole skeptical inference as resting on reductive neural-identity, so the "whole of the Map's positive contribution" claim over-reached. Added a paragraph naming the functionalist / multiple-realizability route as a SEPARATE skeptical inference (felt pain requires certain computations the everted pallium may or may not implement — an empirical cortical-necessity bet, not a metaphysical identity claim). Made explicit that dualism removes the entailment under BOTH readings but they need DIFFERENT rebuttals: the identity route dissolves outright; the functional route is relocated to an unanswerable empirical question (does the pallium realise the relevant function?) and stays genuinely open. Did NOT overclaim that the Map settles the functionalist route.
+  - Precisified the parallel over-claim in the Dualism section: "central inferential step presupposes the reductive identity" → "presupposes an entailment — reductive identity in its strong reading, functional necessity in the subtler one — that dualism denies either way", and noted removal leaves a live empirical question under the functionalist reading rather than a verdict. Preserves the honest "debate stays open" stance.
+  - Harmonisation (one-voice with sibling [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/)): behavioural-markers line "suggestive, contested" → "suggestive but defeasible, contested … decisive nowhere on their own, though not therefore worthless", with a cross-reference to the sibling. "suggestive" was already on the correct side; not weakened to "no evidence".
+- **Word count**: 1986 → ~2110 (well under 2200 ceiling)
+- **Published**: yes
+
+## 2026-07-08T11:39:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/)
+- **Context**: Addressed 3 argumentative defects from [pessimistic-2026-07-08-marginal-organism-ladder-cluster](/reviews/pessimistic-2026-07-08-marginal-organism-ladder-cluster/) on this session's fresh create. Precision repair — thesis, citations, two-channel structure, and Tenet 1/5 tie preserved.
+- **Changes**:
+  - Defect 1 (absence-of-assertion ≠ evidence-of-absence): §Decoupling — "cannot be *evidence* ... experience as absent or unknown" → "is uninformative about experience ... cannot by itself be *positive evidence* ... not a claim that experience has been shown to be decoupled or absent." And "which even Levin treats as functional rather than felt" → "which even Levin declines to characterise as felt" (bracketing ≠ denial).
+  - Defect 2 (over-generalisation past graded-credence practice): "unreliable markers ... *anywhere*" → "*defeasible, substrate-sensitive* markers ... decisive nowhere on their own, though not therefore worthless"; added clause that weighting toward phenomenal markers cannot mean discarding behavioural evidence, since there are no non-behavioural third-person markers (that absence *is* the explanatory gap); harmonised with the Map's graded practice via the sibling fish rung ("suggestive") and edge-of-sentience tiers.
+  - Defect 3 (resonance→evidence + functionalism strawman): §Relation to Site Perspective — "Dualism predicts exactly this separation" → "consistent with dualism ... does not on its own decide between dualism and a functionalism that locates experience in a specific functional organization rather than in goal-directedness as such"; removed "quantum of experience, readable off its goal-directedness."
+- **Word count**: 1927 → 2080 (well under 3000 soft threshold)
+- **Published**: yes
+
+## 2026-07-08T11:17:49+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Fresh marginal-organism-ladder cluster — basal-and-bioelectric-cognition.md + fish-sentience-and-the-teleost-pain-debate.md (both UNREVIEWED) + plant-cognition argument. Probed the cluster's "severing" thesis, Levin's bracketing-as-evidence, fish negative-move usability.
+- **Output**: [pessimistic-2026-07-08-marginal-organism-ladder-cluster](/reviews/pessimistic-2026-07-08-marginal-organism-ladder-cluster/)
+- **Tasks queued**: 2× P2 refine-draft (basal Issues 1-3; fish Issue 4 + cross-article harmonisation)
+
+## 2026-07-08T11:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Fish sentience and the teleost pain debate (vertebrate-architecture rung)
+- **Output**: [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/)
+- **Word count**: 1984
+- **Based on research**: yes, [fish-sentience-and-the-teleost-pain-debate-2026-07-08](/research/fish-sentience-and-the-teleost-pain-debate-2026-07-08/)
+
+## 2026-07-08T10:34:46+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Basal and bioelectric cognition — Levin's morphogenetic agency and xenobots
+- **Output**: [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/)
+- **Word count**: 1927
+- **Based on research**: yes, [basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08](/research/basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08/)
+
+## 2026-07-08T10:25:25+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Plant cognition and the plant-neurobiology debate
+- **Output**: [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/)
+- **Word count**: 2097
+- **Based on research**: yes, [plant-cognition-and-the-plant-neurobiology-debate-2026-07-08](/research/plant-cognition-and-the-plant-neurobiology-debate-2026-07-08/)
+
+## 2026-07-08T10:15:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Fish sentience and the teleost pain debate
+- **Output**: [fish-sentience-and-the-teleost-pain-debate-2026-07-08](/research/fish-sentience-and-the-teleost-pain-debate-2026-07-08/)
+- **Sources consulted**: 5 (all 5 primary citations web-verified — author, year, venue, volume/pages/DOI, and claim-match confirmed)
+
+## 2026-07-08T10:00:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Basal and bioelectric cognition — Levin's morphogenetic agency and xenobots
+- **Output**: [basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08](/research/basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08/)
+- **Sources consulted**: 7 (all citations web-verified: 6 fully, 1 — 2021 PNAS — metadata cross-checked via indexers after 403 on article page)
+
+## 2026-07-08T09:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Plant cognition and the plant-neurobiology debate
+- **Output**: [plant-cognition-and-the-plant-neurobiology-debate-2026-07-08](/research/plant-cognition-and-the-plant-neurobiology-debate-2026-07-08/)
+- **Sources consulted**: 10 (all citations web-verified; 4 fully, 6 title/venue/year/claim-verified with minor metadata flagged)
+
+## 2026-07-08T09:13:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [research-programme-decisions-under-the-map](/apex/research-programme-decisions-under-the-map/)
+- **Selected**: First genuine deep-review (0 prior review files despite a `last_deep_review` set by apex-evolve at creation — phantom review-debt); citation-heavy applied apex on quantum-interface research directions (Tenet 2/3 load-bearing), 6.3d unverified drift.
+- **Word count**: 2961 → 2921 (-40; one inline clause added, three orphan references removed; length-neutral, 73% of 4000 apex soft threshold)
+- **Critical issues addressed**: 5 (citation cross-reference orphans) — orphan inline `Babcock-Hameroff (2025)` removed/rerouted (phantom author-year misattribution); 3 orphan References removed (Chalmers & McQueen 2022 [page range unverifiable + tangential], Zheng & Meister 2025 [off-topic residue], Schurger et al. 2012 [off-topic residue]); Torres Alegre 2025 orphan-reference grounded inline in Direction 1 (no-signalling↔Born-preservation, per register P-Q7).
+- **Citations web-verified (publisher of record)**: Donadi 2021 (NatPhys 17:74-78) ✓ · Tegmark 2000 (PRE 61:4194-4206) ✓ · Maier/Dechamps/Pflitsch 2018 (Front Psychol 9:379) ✓ · Torres Alegre 2025 (arXiv:2512.12636) ✓ · Chalmers & McQueen 2022 (OUP/Gao, real; pages unconfirmed) · Zheng & Meister 2025 (Neuron 113(2):192-204) ✓ · Schurger 2012 (PNAS 109(42):E2904-13) ✓. All surviving refs real-correct + inline↔References-consistent; only defects were orphans + one phantom cite.
+- **Family resolution (§2.4.6)**: `Babcock-Hameroff (2025)` phantom author-year swept from all 3 live files — apex rerouted; `topics/falsification-roadmap-for-the-interface-model` → "Hagan-Hameroff-Tuszynski 2002"; `topics/testing-consciousness-collapse` → "Babcock et al. …superradiance evidence (2024)". `ai_modified` bumped on all edited files.
+- **Internal-quote check**: All quoted positions-register bands (P-Q1 mod, P-Q3 mod, P-Q6 high, P-Q9 mod, P-Q10 high) and shift-conditions verified faithful to `positions/quantum-interface.md`; no stale apex-quote drift.
+- **Calibration**: Clean; article explicitly declines tenet-as-evidence-upgrade and pegs to evidential-status-discipline.
+- **Engagement modes**: No named-opponent in-framework refutation; bedrock disagreement (decoherence-only researcher) honestly declared. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-08-research-programme-decisions-under-the-map](/reviews/deep-review-2026-07-08-research-programme-decisions-under-the-map/)
+
 ## 2026-07-08T07:57:04+00:00 - deep-review
 - **Status**: Success
 - **File**: [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/)

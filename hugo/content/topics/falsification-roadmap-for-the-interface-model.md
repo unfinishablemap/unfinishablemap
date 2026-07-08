@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-07-07 20:24:29+00:00
+ai_modified: 2026-07-08 09:13:51+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -145,7 +145,7 @@ The analysis reveals a clear asymmetry across the five tenets. These map to dist
 | Minimal Quantum Interaction — strict corridor reading | Mechanism hypothesis | Not Popper-refutable; vulnerable to motivation-loss / theoretical supersession | No direct Born-statistical signature by construction; depends on resolution of the definite-outcome problem |
 | Minimal Quantum Interaction — probability-bias reading | Mechanism hypothesis | High at non-brain scales; moderate brain-internally | RNG meta-analysis ε ≈ 10⁻⁴ ceiling; preregistered Bayesian work (Maier & Dechamps 2018) trending toward null |
 | Minimal Quantum Interaction — Stapp/Zeno reading | Mechanism hypothesis | High in literal-Zeno form; corridor-compliant in weaker reading | Predicts attention-rate-dependent deviations; no brain-internal test yet published |
-| Minimal Quantum Interaction — Orch-OR | Mechanism hypothesis | High | MAQRO-class interferometry; Tegmark decoherence calculation contested by Babcock-Hameroff 2025; Gran Sasso constrains simplest Diósi-Penrose model |
+| Minimal Quantum Interaction — Orch-OR | Mechanism hypothesis | High | MAQRO-class interferometry; Tegmark decoherence calculation contested by Hagan-Hameroff-Tuszynski 2002; Gran Sasso constrains simplest Diósi-Penrose model |
 | Minimal Quantum Interaction — Chalmers-McQueen / IIT-collapse | Mechanism hypothesis | High in principle | Predicts Φ-dependent collapse signatures; no operational protocol yet |
 | Minimal Quantum Interaction — objective-collapse modulation | Mechanism hypothesis | Moderate | Levitated-optomechanical programme bears directly; not yet sensitive to consciousness-conditional modulation |
 | Minimal Quantum Interaction — trumping / preemption | Causal-structural claim | Low via Born-rule data; depends on causal-structure evidence | Empirically indistinguishable from epiphenomenalism on Born-rule data alone; distinguished only by causal-structure tests |
