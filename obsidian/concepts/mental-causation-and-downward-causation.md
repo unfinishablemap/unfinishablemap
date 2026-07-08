@@ -53,7 +53,7 @@ author: null
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-30
 last_curated: null
-last_deep_review: 2026-06-21T00:00:00+00:00
+last_deep_review: 2026-07-08T03:14:11+00:00
 coalesced_from:
   - "/concepts/mental-causation/"
   - "/concepts/downward-causation/"

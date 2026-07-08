@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T03:14:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Word count**: 3487 → 3487 (no change; genuine-drift verification pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op; verified the 2026-07-07 Lowe fact-causation consolidation is correct, well-calibrated, and properly sourced)
+- **Citations web-verified**: Lowe 2006 (Erkenntnis 65:5-23, DOI 10.1007/s10670-006-9012-3) real-correct at Springer; Lowe 2008 (Personal Agency, OUP) real-correct; no new orphan
+- **Stamps**: last_deep_review only (2026-07-08T03:14:11+00:00); ai_modified left at 2026-07-07T15:46:40+00:00
+- **Engagement**: Lowe contrast is ally-foil, not opponent; no mode applies; no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-07-08-mental-causation-and-downward-causation]]
+
 ## 2026-07-08T02:11:48+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Alexithymia (concepts/)
