@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T09:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Plant cognition and the plant-neurobiology debate
+- **Output**: [[research/plant-cognition-and-the-plant-neurobiology-debate-2026-07-08]]
+- **Sources consulted**: 10 (all citations web-verified; 4 fully, 6 title/venue/year/claim-verified with minor metadata flagged)
+
 ## 2026-07-08T09:13:51+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/research-programme-decisions-under-the-map]]
