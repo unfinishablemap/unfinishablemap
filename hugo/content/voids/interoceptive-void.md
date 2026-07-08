@@ -121,6 +121,7 @@ The void has a complement on the access side. Where this article maps the *silen
 - [interface-formalization-void](/voids/interface-formalization-void/)
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
 - [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/)
+- [alexithymia](/concepts/alexithymia/) — the interoceptive void's opacity read as a trait-level dial in the general population
 
 ## References
 

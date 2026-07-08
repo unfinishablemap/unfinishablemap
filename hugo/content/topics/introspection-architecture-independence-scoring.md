@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-07-07 10:17:57+00:00
+ai_modified: 2026-07-08 01:28:21+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8
 author: null
 coalesced_from:
@@ -101,7 +101,7 @@ The voids-circularity discount operates on (4) most directly: framework-independ
 
 Sorting anchors by *kind* of evidence isolates how far each channel can bear against the [common-cause null](/project/common-cause-null/).
 
-**Patient-population channel.** Gazzaniga split-brain, Schnider orbitofrontal, Hirstein anosognosia/Capgras. The hope is that these populations' introspective architecture *differs* from neurotypical, so convergence cannot run only through shared machinery — but the discharge works only if the divergence is in the introspective architecture itself rather than in some upstream *input* to a shared one. A common-cause theorist answers that the same confabulatory narration machine runs in patients and neurotypicals: a callosotomy removes an interhemispheric pathway, an orbitofrontal lesion damages a reality-filter — the lesions change the machine's *inputs*, not its *kind*. The lesion literature does not settle this, so the channel supplies the catalogue's most architecturally distinct human evidence without cleanly discharging the strongest null.
+**Patient-population channel.** Gazzaniga split-brain, Schnider orbitofrontal, Hirstein anosognosia/Capgras. The hope is that these populations' introspective architecture *differs* from neurotypical, so convergence cannot run only through shared machinery — but the discharge works only if the divergence is in the introspective architecture itself rather than in some upstream *input* to a shared one. A common-cause theorist answers that the same confabulatory narration machine runs in patients and neurotypicals: a callosotomy removes an interhemispheric pathway, an orbitofrontal lesion damages a reality-filter — the lesions change the machine's *inputs*, not its *kind*. The lesion literature does not settle this, so the channel supplies the catalogue's most architecturally distinct human evidence without cleanly discharging the strongest null. This same channel is the worked patient-population instance that [the cross-traditional convergence argument](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) names among the external tests its common-cause null still awaits — the exhibit standing in for that argument's residual introspection-architecture programme.
 
 **Healthy-adult experimental channel.** Nisbett-Wilson, Johansson-Hall, Rebouillat, Wheatley-Haidt, Wegner, Pronin — within-neurotypical paradigms on shared architecture. Cannot discharge an objection locating the shared upstream *in* that architecture, but adds diversity.
 
@@ -212,6 +212,7 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 - [common-cause-null](/project/common-cause-null/) — parent discipline supplying the despite-commitments / because-prediction split; [voids-circularity-discount](/project/voids-circularity-discount/) — its cluster-level application; [evidential-status-discipline](/project/evidential-status-discipline/) — the single-claim calibration layer; [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) — the four scoring criteria
 - [cross-review-2026-05-15-introspection-architecture-cluster-audit](/reviews/cross-review-2026-05-15-introspection-architecture-cluster-audit/) — the audit that named the cluster
 - [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/) — proxy-test design audit decomposing the cross-species channel; [neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels](/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/) — per-tradition Neoplatonist discount; [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — autonomic third-person verification; [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — frame for the Advaita material
+- [alexithymia](/concepts/alexithymia/) — the emotional-introspection patient-population exhibit whose access-layer divergence feeds this channel
 
 ## References
 

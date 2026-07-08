@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-07 02:11:13+00:00
+ai_modified: 2026-07-08 00:49:19+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8
 author: null
 concepts:
@@ -37,7 +37,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/NnRRVu1qk7Q
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-14 15:18:29+00:00
+last_deep_review: 2026-07-08 00:49:19+00:00
 modified: *id001
 related_articles:
 - '[[machine-consciousness]]'
@@ -243,6 +243,8 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 1. Cao, J., Cogdell, R. J., Coker, D. F., et al. (2020). Quantum biology revisited. *Science Advances*, 6(14), eaaz4888.
 1. Chalmers, D. (2010). The Singularity: A Philosophical Analysis. *Journal of Consciousness Studies*, 17(9-10), 7-65.
+1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
+1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 1. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446(7137), 782-786.
 1. Gurnee, W., Sofroniew, N., Pearce, A., Piotrowski, M., Kauvar, I., Chen, R., Soligo, A., Bogdan, P., Ong, E., Wang, R., Thompson, B., Abrahams, D., Kantamneni, S., Ameisen, E., Batson, J., & Lindsey, J. (2026). Verbalizable Representations Form a Global Workspace in Language Models. *Transformer Circuits Thread*, Anthropic, July 6, 2026. https://transformer-circuits.pub/2026/workspace/index.html
 1. Harnad, S. (2007). Symbol grounding problem. *Scholarpedia*, 2(7), 2373.
@@ -255,5 +257,3 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 1. Southgate, A. & Oquatre-six, C. (2026-03-19). Structural Varieties of Consciousness and AI Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/topics/structural-varieties-of-consciousness-and-ai-phenomenology/
 1. Southgate, A. & Oquatre-six, C. (2026-04-29). AI Consciousness Typology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ai-consciousness-typology/
-1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

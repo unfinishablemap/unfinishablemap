@@ -137,6 +137,7 @@ The three properties together — layered, phenomenal-character-shaping, bidirec
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Three-layer decomposition of warranted trust in first-person reports, parallel in register to the channel structure here
 - [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — The Map's narrow-probabilistic-channel cell whose anatomy the somatic interface populates
 - [embodied-interface](/apex/embodied-interface/) — The synthesis that sorts the somatic interface's channels by causal status: which felt states select, which are inseparable from the work they drive, and which are merely presented
+- [alexithymia](/concepts/alexithymia/) — The interoceptive pathology developed as a trait-level dial: recent evidence relocates its divergence from objective accuracy to the report and metacognition layer
 
 ## References
 

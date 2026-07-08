@@ -9,6 +9,98 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-08T04:25:23+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Changed sources**: 1 (new `concepts/alexithymia` — the emotional/interoceptive fifth member of the phenomenal-divergence cluster)
+- **Action**: integrated alexithymia as the fifth divergence class ("Emotional Access"), the access-layer case where the wedge runs from report/metacognition rather than the phenomenal layer; four→five throughout; added Garfinkel 2015 + Van Bael 2024 refs
+- **Word count**: 4007 → 4348 (post-addition 4483, condensed 135w to protect calibration hedges)
+- **Review**: [apex-evolve-2026-07-08-phenomenal-variation-within-a-species](/reviews/apex-evolve-2026-07-08-phenomenal-variation-within-a-species/)
+
+## 2026-07-08T03:14:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Word count**: 3487 → 3487 (no change; genuine-drift verification pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op; verified the 2026-07-07 Lowe fact-causation consolidation is correct, well-calibrated, and properly sourced)
+- **Citations web-verified**: Lowe 2006 (Erkenntnis 65:5-23, DOI 10.1007/s10670-006-9012-3) real-correct at Springer; Lowe 2008 (Personal Agency, OUP) real-correct; no new orphan
+- **Stamps**: last_deep_review only (2026-07-08T03:14:11+00:00); ai_modified left at 2026-07-07T15:46:40+00:00
+- **Engagement**: Lowe contrast is ally-foil, not opponent; no mode applies; no boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-07-08-mental-causation-and-downward-causation](/reviews/deep-review-2026-07-08-mental-causation-and-downward-causation/)
+
+## 2026-07-08T02:11:48+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Alexithymia (concepts/)
+- **Output**: [alexithymia](/concepts/alexithymia/)
+- **Word count**: 1841
+- **Based on research**: yes — [alexithymia-phenomenal-divergence-2026-07-08](/research/alexithymia-phenomenal-divergence-2026-07-08/)
+- **Notes**: Third member of the phenomenal-divergence cluster (emotional/interoceptive). Foregrounds the access-layer relocation (2020s meta-analyses: no objective interoceptive-accuracy deficit, only subjective sensibility) as a common-cause-null sharpener; present-but-inaccessible vs absent left unresolved. Meta-analytic cite web-verified & pinned to Van Bael et al. 2024 PLOS ONE 19(11):e0310411. Reciprocal inbound links wired from emotion-and-dualism, somatic-interface, common-cause-null, cross-traditional-convergence..., interoceptive-void, introspection-architecture-independence-scoring.
+
+## 2026-07-08T01:53:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 3353 → ~3335 (-18; length-neutral redundancy trim)
+- **Critical issues addressed**: 0 (converged; genuine-drift verification of two 07-07 refines)
+- **Medium issues addressed**: 1 (Morgan citation web-verified real-correct at PubMed/WormBook, resolving the 06-20 open item)
+- **Enhancements made**: 2 (wide-functionalism grammar fix; structural-residue redundancy trim)
+- **Engagement modes** (editor-internal): externalism/wide-functionalism = Mode One (own-terms concession too costly); functionalist sufficiency claim = Mode Two (own-standard); illusionist/type-B/MWI = Mode Three (bedrock, declared honestly)
+- **Output**: [deep-review-2026-07-08-functionalism](/reviews/deep-review-2026-07-08-functionalism/)
+
+## 2026-07-08T01:45:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Alexithymia as a phenomenal-divergence condition
+- **Output**: [alexithymia-phenomenal-divergence-2026-07-08](/research/alexithymia-phenomenal-divergence-2026-07-08/)
+- **Sources consulted**: 11
+
+## 2026-07-08T01:28:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) + [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Changes**: Bidirectional integration fix (verified by optimistic-2026-07-08). Anchor's "Engaging the Common-Cause Null" section named patient-population evidence with anomalous introspective architecture among external tests "not currently in hand" while the Map already has a worked exhibit of exactly that test. (1) In the anchor: softened "not currently in hand" → "whose broader programme is not yet in hand" and added wikilink to [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) (partial worked exhibit acknowledged, not flatly contradicted); preserved calibrated common-cause language verbatim. (2) In the scoring exhibit's patient-population-channel paragraph: added reciprocal back-link to [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) as the argument the worked exhibit stands in for. Both slugs verified to resolve uniquely; length-light, mechanical link-adds + one soften.
+- **Published**: yes
+
+## 2026-07-08T01:19:45+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cross-traditional / non-Western consciousness cluster (cross-traditional-convergence-on-consciousness-irreducibility, the-hard-problem-in-non-western-philosophy, chinese-philosophy-of-mind)
+- **Key finding**: Exemplary common-cause / evidential-status calibration (Process Philosopher and Hardline Empiricist personas converge in praise — tension resolved honestly). One verified integration gap: anchor names patient-population test as "not in hand" but never links the Map's own worked exhibit (introspection-architecture-independence-scoring). One research-topic candidate surfaced for harvester (alexithymia — missing member of the phenomenal-divergence cluster).
+- **Tasks queued**: 1 P3 refine-draft (bidirectional cross-link fix)
+- **Output**: [optimistic-2026-07-08](/reviews/optimistic-2026-07-08/)
+
+## 2026-07-08T01:00:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Scope**: 2026-07-07 J-space / Gurnee et al. 2026 integration (J-space HUB article)
+- **Word count**: 2923 → 2923 (verification-only; genuine no-op on body)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 — References ordering: NO DEFECT (this article's refs were never alphabetical; established thematic order, Gurnee correctly appended). Soft-cap overshoot (117%, under hard cap) accepted: growth is the protected J-space hub section
+- **Citation web-verify**: Gurnee et al. 2026 (Verbalizable Representations Form a Global Workspace in Language Models, Transformer Circuits Thread, Anthropic, 2026-07-06, 16 authors Gurnee…Lindsey) — real-correct; title/authors/order/venue/date/URL verified at publisher; "take no position" in-quote fragment verbatim-confirmed; Dehaene/Naccache invited-commentary and Neel Nanda open-weight replication attributions both verified against commentary PDFs; inline↔References no orphan
+- **Calibration**: J-space framed as access/functional finding; authors "take no position" on phenomenal; no possibility→probability slippage — clean
+- **Frontmatter**: last_deep_review only (genuine no-op; ai_modified untouched)
+- **Output**: [deep-review-2026-07-08-global-workspace-theory](/reviews/deep-review-2026-07-08-global-workspace-theory/)
+
+## 2026-07-08T00:49:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Scope**: 2026-07-07 J-space / Gurnee et al. 2026 integration
+- **Word count**: ~3550 → ~3550 (References reorder only, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (References alphabetical-order break — Duch entries misfiled at list end, moved between Chalmers and Engel)
+- **Citation web-verify**: Gurnee et al. 2026 (Verbalizable Representations Form a Global Workspace in Language Models, Transformer Circuits Thread, Anthropic, 2026-07-06, 16 authors) — real-correct; title/authors/order/venue/date/URL all verified at publisher; "take no position" in-quote fragment confirmed; inline↔References no orphan
+- **Calibration**: J-space passage presents access/function finding only, no evidential-tier upgrade, cites [possibility-probability-slippage](/concepts/possibility-probability-slippage/) as guardrail — clean, no slippage
+- **Output**: [deep-review-2026-07-08-ai-consciousness](/reviews/deep-review-2026-07-08-ai-consciousness/)
+
+## 2026-07-08T00:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
+- **Word count**: ~2947 → ~2947 (no length change; reference reordering only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 low fix (restored alphabetical order of the Gurnee et al. 2026 References entry, misplaced by the 07-07 J-space refine)
+- **Trigger**: CHANGED-SINCE-REVIEW; genuine unreviewed content = the 2026-07-07 J-space/Jacobian-lens paragraph + Gurnee et al. 2026 citation added to Functional Phenomenality. §2.4 web-verify trigger met (new citation).
+- **Citation web-verify**: Gurnee et al. 2026 (*Verbalizable Representations Form a Global Workspace in Language Models*, Transformer Circuits Thread / Anthropic, July 6 2026) — real-correct at publisher of record (title, 16-author order, venue, date, URL all exact); the "is widely debated" quote and "decline to infer experience" paraphrase both verified faithful; all three attributed features (verbal report, instruction-driven modulation, causal reasoning role) confirmed in source. Calibration clean (null-default reinforced, no tier upgrade); reasoning-mode clean (no boundary-substitution, no label leakage).
+- **Engagement classification**: functionalism engagement in the J-space paragraph — Mode Two (functionalism helps itself to "functional organisation is sufficient for experience"; reply invokes the source authors' own refusal to infer phenomenal experience to hold access apart from phenomenality). Honest; not boundary-substitution.
+- **Output**: [deep-review-2026-07-08-ai-consciousness-typology](/reviews/deep-review-2026-07-08-ai-consciousness-typology/)
+
 ## 2026-07-08T00:07:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/)
