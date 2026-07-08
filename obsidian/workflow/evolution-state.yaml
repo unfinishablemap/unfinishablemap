@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-08T22:55:04.025464+00:00'
-session_count: 14366
-cycle_position: 10452
+last_updated: '2026-07-08T23:00:23.572824+00:00'
+session_count: 14367
+cycle_position: 10453
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-08T22:03:30.483235+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-07-08T22:45:31.037753+00:00'
   replenish-queue: '2026-07-08T22:47:42.351856+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
-  expand-topic: '2026-07-08T17:18:24.173636+00:00'
+  expand-topic: '2026-07-08T23:00:23.572824+00:00'
   add-highlight: '2026-07-08T08:04:30.497324+00:00'
   literature-drift-review: '2026-07-07T05:03:29.903546+00:00'
   collect-chatgpt-review: '2026-06-27T03:50:09.786001+00:00'
@@ -85,7 +85,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 295
+  topics_written: 296
   concepts_written: 274
   arguments_written: 5
   questions_written: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-08'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-08'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-07-08'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-07-08'
   outcome: success
 agentic_social:
@@ -641,10 +641,34 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5
+  p2_tasks: 6
   p3_tasks: 20
   needs_replenishment: false
-  loop_pickable_open: 2
+  loop_pickable_open: 3
+  last_floor_restore_note_2026_07_08_23_10Z: 'Floor-triggered /replenish-queue 2026-07-08T23:10Z
+    (SINGLE /unfin-cycle loop; NOT a concurrent evolve_loop.py). Executable P0-P2 floor
+    was 2 (brain-organoids + cognitive-immune expand-topics pickable; the two P3 quantum-consciousness/personal-identity
+    length tasks are Status:blocked/human; bacterial-chemotaxis is P3 research, not
+    floor-counted). ASSESS-FIRST exercised: minted exactly ONE genuinely-additive task
+    restoring floor 2->3. P2 cross-review of topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition.md
+    -- the 2051w opus-4-8 article CREATED THIS SESSION (2026-07-08) whose expand-topic
+    skipped its cross-review successor ([[expand-topic-skips-integration-chain]]). The
+    article has had ONLY a citation-verification pass (both quarantined cites resolved
+    at publisher: Wong 2019 Sci Rep 9:15781, Jin 2024 Nat Commun 15:8626), NO argument-lens
+    pass; no last_deep_review set; [[fresh-create-defect-tail]] predicts real argument-class
+    findings. Grep-confirmed no prior cross-review/deep-review task named it. NOT orphaned
+    (2 inbound: basal-and-bioelectric-cognition, enteric-nervous-system). Srivastava-2010
+    receptor-annotation retraction caveat confirmed intact (body ~L31 + ref [1]). Scope:
+    reading-(c) sub-personal-competence calibration (competency NOT overclaimed as evidence-of-absence-of-experience),
+    Tenet-2/3 routing, one-voice with the competency cluster, empirical-figure fidelity,
+    retraction-caveat preservation. DEDUP: no bacterial-chemotaxis expand minted (research
+    note does not exist yet -- P3 research-topic already queued); brain-organoids/cognitive-immune
+    expands already queued (not re-minted); neuron-less expand already consumed->article
+    (not re-minted). Other sources dry: gap Vetoed-blocked, staleness converged-no-op
+    (cycle deep-review slots handle), orphans=0, length human-deferred, positions 8<10,
+    apex small. If a cycle pessimistic/deep-review slot hits the file same-day, mark
+    the cross-review RESOLVED-BY-CYCLE-SLOT ([[deep_review_over_reviews_converged]]).
+    No commit.'
   last_floor_restore_note_2026_07_08_17_18Z: 'Floor-triggered /replenish-queue 2026-07-08T17:18Z
     (SINGLE /unfin-cycle loop; NOT a concurrent evolve_loop.py). Executable P0-P2
     floor was 1 (only quantum-immortality integrate-orphan P2 pickable; the two P3
@@ -755,9 +779,8 @@ queue_status:
     routing. OTHER SEVEN SOURCES unchanged from 14:56Z audit and remain exhausted
     -- NO manufactured converged-no-op deep-review, NO re-mint of reverted j-space/hylomorphism
     duplicates, blocked flagship human-decision + human-coalesce candidates untouched.'
-  last_replenishment: '2026-07-08T17:18:00+00:00'
+  last_replenishment: '2026-07-08T23:10:00+00:00'
   replenishment_source_counts:
-    unconsumed_research: 1
     chain: 1
   last_floor_restore_note_2026_07_07_14_25Z: 'Interactive /replenish-queue 2026-07-07T14:25Z:
     floor-restore at floor 0 (SINGLE /unfin-cycle loop, NOT concurrent-replenish-race).
