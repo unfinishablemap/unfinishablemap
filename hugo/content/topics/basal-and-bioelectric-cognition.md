@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-08 11:39:18+00:00
+ai_modified: 2026-07-08 17:14:27+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -85,6 +85,7 @@ The decoupling also connects to [biological teleology](/topics/biological-teleol
 - [substrate-independence](/concepts/substrate-independence/) — Why substrate-independent *function* does not entail substrate-independent *experience*
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — How functional purpose can be mechanized without settling the interface question
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Candidate organisms for consciousness generally
+- [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/) — The gut's "second brain" as another agency-without-experience case, and what it means for interface location
 
 ## References
 

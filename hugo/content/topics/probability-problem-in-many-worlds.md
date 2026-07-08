@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-06-24 14:23:30+00:00
+ai_modified: 2026-07-08 16:12:04+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -166,6 +166,7 @@ Kent's observation—that Wallace's axioms are substantive claims, not rational 
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — The subjective dimension of quantum probability
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why consciousness is probability's prerequisite yet its worst reasoner
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How probability connects to consciousness across interpretations
+- [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/) — The probability problem pointed at the first person: why the survival argument is a reductio MWI carries and collapse avoids
 - [decoherence](/concepts/decoherence/) — What decoherence does and does not explain
 - [tenets](/tenets/) — The Map's foundational commitments
 

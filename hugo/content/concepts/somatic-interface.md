@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-22 10:21:15+00:00
+ai_modified: 2026-07-08 17:14:27+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -138,6 +138,7 @@ The three properties together — layered, phenomenal-character-shaping, bidirec
 - [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — The Map's narrow-probabilistic-channel cell whose anatomy the somatic interface populates
 - [embodied-interface](/apex/embodied-interface/) — The synthesis that sorts the somatic interface's channels by causal status: which felt states select, which are inseparable from the work they drive, and which are merely presented
 - [alexithymia](/concepts/alexithymia/) — The interoceptive pathology developed as a trait-level dial: recent evidence relocates its divergence from objective accuracy to the report and metacognition layer
+- [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/) — The gut's semi-autonomous "second brain" as a stress-test for where the consciousness-physical interface sits
 
 ## References
 

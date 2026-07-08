@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-22 21:42:43+00:00
+ai_modified: 2026-07-08 17:26:08+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -104,6 +104,8 @@ Quantum mechanics predicts that outcomes occur with specific probabilities given
 Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality (Kent 2010), and even granting the axioms, the derivation tells agents how to bet without explaining why laboratory records show Born-rule frequencies (Albert 2010). Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed (Lewis 2007). Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
 A deeper structural problem cuts across all three strategies: well-defined branches require [decoherence](/concepts/decoherence/), but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). Zhang (2026) identifies a unifying bottleneck: all five leading derivation strategies depend irreducibly on the assumption that probabilities of orthogonal outcomes are additive—itself a probabilistic postulate, making every derivation covertly circular. This problem has persisted from Everett's original 1957 thesis through Short's 2023 contribution to *Quantum*—nearly seven decades without resolution.
+
+Pointed at the first person, this same measure problem produces the [quantum-suicide survival argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/): without a compulsory measure-weighted decision theory, MWI cannot rule out an observer's expectation of surviving any lethal quantum experiment indefinitely—a reductio almost everyone, its own architects included, treats as exposing a defect in naive branch self-location rather than a genuine prediction.
 
 MWI bears this burden more acutely than collapse interpretations: collapse theories can honestly postulate the Born rule as a fundamental law, while MWI must derive it. Whether that derivation can succeed remains contested rather than closed—Wallace, Saunders, Sebens, and Carroll regard the decision-theoretic and self-locating programmes as live, and the Map's position is not that MWI *cannot* recover the Born rule but that the recoveries it has produced depend on identity and probability principles the Map rejects (branching indifference, and the cross-branch personal-identity relation examined above). The [broader pattern of Born rule derivation failures](/topics/born-rule-and-the-consciousness-interface/) and the [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) across every major framework suggest the rule may encode something about the consciousness-physics interface that no interpretation extracts from physics alone. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against all three recovery strategies, with which objections land in-framework and which mark the framework boundary, and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) for a concise catalogue of the four distinct probability objections.
 

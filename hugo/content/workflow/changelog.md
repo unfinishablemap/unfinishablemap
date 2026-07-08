@@ -9,6 +9,77 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-08T19:35:00+00:00 - deep-review
+- **Status**: Success (verification-only no-op)
+- **File**: [synaesthesia](/topics/synaesthesia/)
+- **Word count**: 2632 → 2632 (no change; 88% of 3000-word soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation currency**: broadened currency sweep (categorical/negative claims, not just superlatives). Fresh web-verified Simner 2006 prevalence (4.4% overall / grapheme-colour ~1–2% — article faithful), Bor 2014 trainability ("faded within three months" + "not durably crossable through training alone" — both hold at Nature/PubMed), neonatal-synaesthesia hypothesis ("remains contested" — accurate). Superlative scanner empty. All other cites unchanged, real-correct across three prior reviews. Wager-1999 / Gray-2003 corrections from 2026-06-17 intact.
+- **Calibration/attribution/reasoning-mode**: re-confirmed clean (interface reading held at speculative-integration tier; Mixed Mode One+Three; no label leakage). Converged article — no manufactured findings.
+- **Frontmatter**: last_deep_review bumped to 2026-07-08T19:35:00+00:00; ai_modified unchanged (no content edit).
+- **Output**: [deep-review-2026-07-08-synaesthesia](/reviews/deep-review-2026-07-08-synaesthesia/)
+
+## 2026-07-08T18:22:43+00:00 - deep-review
+- **Status**: Success (content fix — empirical-currency correction)
+- **File**: [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
+- **Word count**: 3111 → 3279 (+168; soft_warning, 221w under hard)
+- **Critical issues addressed**: 1 (empirical-currency overstatement: categorical "mothers don't scaffold" in termite fishing contradicted by Musgrave et al. 2016/2020 Goualougo tool-transfer teaching — the exact domain denied; six prior reviews missed it. Corrected + added the functional-vs-metarepresentational distinction that protects the thesis)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 verified citations added (Musgrave 2016 Sci Rep 6:34783; Musgrave 2020 PNAS 117(2):969-976), both web-verified at publisher of record
+- **Engagement modes**: Illusionist Challenge = Mode Two, unchanged. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-08-teaching-as-metarepresentation](/reviews/deep-review-2026-07-08-teaching-as-metarepresentation/)
+
+## 2026-07-08T17:59:18+00:00 - deep-review (cross-review, argument lens)
+- **Status**: Success (verification-only no-op)
+- **File**: [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/)
+- **Word count**: 1757 → 1757 (0)
+- **Critical issues addressed**: 0 (none found; (b) second-coupling-site smuggling check PASSED — Tenet 2 minimality routed correctly against (b))
+- **Medium issues addressed**: 0 (two scrutinized and cleared: felt-selection near-circularity is self-flagged as a criterion choice; "dissolves the challenge" defensible in context)
+- **Enhancements made**: 0
+- **Engagement modes**: n/a (no named-opponent replies; argument-calibration pass only). Citations pre-verified this session — no citation subagent re-run.
+- **Output**: [deep-review-2026-07-08-the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/reviews/deep-review-2026-07-08-the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/)
+
+## 2026-07-08T17:14:27+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The enteric nervous system and the gut-brain distributed-interface question
+- **Output**: [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/)
+- **Word count**: 1757
+- **Based on research**: yes — [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question-2026-07-08](/research/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question-2026-07-08/)
+
+## 2026-07-08T16:53:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The enteric nervous system and the gut-brain distributed-interface question
+- **Output**: [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question-2026-07-08](/research/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question-2026-07-08/)
+- **Sources consulted**: 7
+
+## 2026-07-08T16:32:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+- **Original score**: n/a (targeted argument-repair from [pessimistic-2026-07-08](/reviews/pessimistic-2026-07-08/))
+- **Changes**: Fixed 4 review findings without retracting thesis, calibration, or citations.
+  - MED-1 (dialectical-advantage internal tension): appended a concession to the measure-problem sidestep paragraph — the burden MWI faces is not *new* (the measure-weighted decision theory that would block immortality is the Deutsch–Wallace Born-rule apparatus MWI already owes for lab statistics), so quantum immortality imposes no extra debt; reframed the collapse advantage as one of explanatory *route* (collapse never generates the problem at the ontological root) rather than an unpayable surcharge. Named Deutsch–Wallace as the mortalist's resource.
+  - MED-2 ("Map denies exactly this" overstated distinctiveness): distinguished naive-MWI branch-relative self-location from Everettian mortalism (Wallace, Carroll, Papineau per O'Brien 2025), who also deny it from inside MWI; relocated the Map's distinctive claim to the *ontology* — collapse supplies the counterfactual exclusion the Everettian mortalist must assert without an ontology to ground it.
+  - LOW-3 (Tegmark quote mis-sourced): re-attributed "dying isn't a binary thing" to *Our Mathematical Universe* (2014) in-text; added Ref 2 (Tegmark 2014) and renumbered the reference list (no inline numeric cites, so cosmetic-safe).
+  - LOW-4 ("sharpest pressure test of Tenet 4" inverted the dialectic): softened to "the sharpest illustration of what Tenet 4 secures... where the No-Many-Worlds commitment does its most visible work."
+- **Engagement classification**: engagement with Everettian mortalists (Wallace/Carroll/Papineau) — Mode Three (framework-boundary marking): the Map does not refute mortalist Everettianism inside MWI; it notes that the mortalist verdict rides on an anticipation/identity theory doing exclusionary work the Map reads off its collapse ontology. Honestly marked as an ontological-grounding difference, not an in-framework refutation.
+- **Preserved verbatim**: Tenet-5 parsimony-quarantine paragraph and the non-deflationary-'I' calibration paragraph (review's cited exemplars of good calibration) — untouched. Thesis, all citations, ~length preserved (body ~2170w, under cap).
+- **Published**: yes
+
+## 2026-07-08T16:21:29+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md (fresh create; first critical lens)
+- **Findings**: 2 MEDIUM (dialectical-advantage tension vs endorsed measure-problem verdict + unaddressed Deutsch-Wallace mortalist reply; "Map denies exactly this" overstates distinctiveness vs Everettian mortalists), 2 LOW (Tegmark quote sourced to 1998 paper but is from 2014 book; "pressure test of Tenet 4" inverts the dialectic). Citations O'Brien 2025 Synthese and Tegmark 1998 verified real; all wikilinks resolve. Queued 1 P2 refine-draft.
+- **Output**: [pessimistic-2026-07-08](/reviews/pessimistic-2026-07-08/)
+
+## 2026-07-08T16:12:04+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Quantum immortality and the quantum-suicide survival argument
+- **Output**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+- **Word count**: 1889
+- **Based on research**: yes, [quantum-immortality-and-the-quantum-suicide-survival-argument-2026-07-08](/research/quantum-immortality-and-the-quantum-suicide-survival-argument-2026-07-08/)
+
 ## 2026-07-08T16:01:18+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Quantum immortality and the quantum-suicide survival argument
