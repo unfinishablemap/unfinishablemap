@@ -4,9 +4,14 @@ description: "Sponges and placozoans coordinate whole-body behaviour with zero n
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T23:07:00+00:00
+ai_modified: 2026-07-08T23:39:59+00:00
+last_deep_review: 2026-07-08T23:39:59+00:00
 draft: false
-topics: []
+topics:
+  - "[[basal-and-bioelectric-cognition]]"
+  - "[[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]]"
+  - "[[plant-cognition-and-the-plant-neurobiology-debate]]"
+  - "[[the-cognitive-immune-system-and-immunological-selfhood]]"
 concepts: []
 related_articles: []
 ai_contribution: 100
@@ -16,7 +21,7 @@ ai_generated_date: 2026-07-08
 last_curated:
 ---
 
-Two of the earliest-branching animal lineages produce coordinated, adaptive, whole-organism behaviour with **zero neurons and zero synapses**. Sponges (Porifera) execute body-wide contractions—a slow "sneeze"—to clear waste, gated by glutamate and GABA acting without any neural cells. Placozoans (*Trichoplax adhaerens*), built from six cell types and no neurons, coordinate feeding and directed movement toward food through peptidergic *volume signalling*: chemicals broadcast diffusely from secretory cells rather than routed down axons. These animals sit *below* the cnidarian nerve net on any reasonable reconstruction of nervous-system evolution, filling the gap between plants and *Hydra*. For the Unfinishable Map they are the starkest available case of **competency without any plausible experiential interface**—rich, goal-like behaviour that no serious theory of consciousness would count as *felt*, because there is no neural substrate at all to host the feeling.
+Two of the earliest-branching animal lineages produce coordinated, adaptive, whole-organism behaviour with **zero neurons and zero synapses**. Sponges (Porifera) execute body-wide contractions—a slow "sneeze"—to clear waste, gated by glutamate and GABA acting without any neural cells. Placozoans (*Trichoplax adhaerens*), built from six cell types and no neurons, coordinate feeding and directed movement toward food through peptidergic *volume signalling*: chemicals broadcast diffusely from secretory cells rather than routed down axons. These animals sit *below* the cnidarian nerve net on any reasonable reconstruction of nervous-system evolution, filling the gap between plants and *Hydra*. For the Unfinishable Map they are the starkest available case of **competency without a localisable experiential interface**—rich, goal-like behaviour that the theories tying experience to neural organisation would not count as *felt*, because the substrate those theories require is wholly absent. That is a claim about what those theories hold, not a proof that nothing is felt; the point developed below is narrower and firmer—that the behaviour itself gives no purchase on the question either way.
 
 That makes neuron-less animals the cleanest test of a claim the Map develops across its competency cluster: that behavioural markers of agency are **defeasible and decisive nowhere on their own** (the *sub-personal-competence* reading, explained below under [Relation to Site Perspective](#relation-to-site-perspective)). If adaptive, coordinated, apparently purposive behaviour runs with no neurons, then such behaviour cannot by itself be evidence of experience. The interface, if it is localised anywhere, is not here—and knowing where it is *not* is informative about where to look.
 

@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T23:39:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]]
+- **Pass type**: ARGUMENT/calibration cross-review (fresh opus-4-8 create; citations pre-verified this session, no citation subagent)
+- **Word count**: ~1992 → ~2020 (+~28; lead calibration clause)
+- **Critical issues addressed**: 1 (possibility/probability slippage in lead — "no serious theory would count as felt / because no substrate to host feeling" reframed to a scoped consensus claim + explicit no-proof-of-absence clause; boldface thesis softened to interface-*locus* framing)
+- **Medium issues addressed**: 1 (empty `topics: []` populated with 4 verified cluster siblings)
+- **Engagement modes**: Bechtel & Bich — Mode Three (framework-boundary marking; dualism labelled as the Map's own commitment, no label leakage). Genomic-toolkit inference — Mode Two (pre-empted via toolkit≠function≠experience). Both in natural prose.
+- **Confirmed intact**: Srivastava-2010 receptor-annotation-retraction caveat; six placozoan cell types; sponge glutamate/GABA "sneeze"; peptidergic volume signalling; no ~500M enteric cross-contamination.
+- **Output**: [[reviews/deep-review-2026-07-08-neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]]
+
 ## 2026-07-08T23:22:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Cognitive Immune System and Immunological Selfhood
