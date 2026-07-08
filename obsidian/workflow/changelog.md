@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T19:35:00+00:00 - deep-review
+- **Status**: Success (verification-only no-op)
+- **File**: [[topics/synaesthesia]]
+- **Word count**: 2632 → 2632 (no change; 88% of 3000-word soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation currency**: broadened currency sweep (categorical/negative claims, not just superlatives). Fresh web-verified Simner 2006 prevalence (4.4% overall / grapheme-colour ~1–2% — article faithful), Bor 2014 trainability ("faded within three months" + "not durably crossable through training alone" — both hold at Nature/PubMed), neonatal-synaesthesia hypothesis ("remains contested" — accurate). Superlative scanner empty. All other cites unchanged, real-correct across three prior reviews. Wager-1999 / Gray-2003 corrections from 2026-06-17 intact.
+- **Calibration/attribution/reasoning-mode**: re-confirmed clean (interface reading held at speculative-integration tier; Mixed Mode One+Three; no label leakage). Converged article — no manufactured findings.
+- **Frontmatter**: last_deep_review bumped to 2026-07-08T19:35:00+00:00; ai_modified unchanged (no content edit).
+- **Output**: [[reviews/deep-review-2026-07-08-synaesthesia]]
+
 ## 2026-07-08T18:22:43+00:00 - deep-review
 - **Status**: Success (content fix — empirical-currency correction)
 - **File**: [[concepts/teaching-as-metarepresentation]]
