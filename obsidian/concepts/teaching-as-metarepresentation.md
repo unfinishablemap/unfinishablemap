@@ -4,9 +4,9 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-07-07T22:15:43+00:00
+ai_modified: 2026-07-08T18:22:43+00:00
 draft: false
-last_deep_review: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-07-08T18:22:43+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
@@ -70,15 +70,15 @@ These mechanisms produce cultural traditions—different chimpanzee groups have 
 
 True teaching—active pedagogy—requires the knower to modify their behaviour specifically because the learner doesn't know. The evidence suggests great apes rarely if ever do this:
 
-**Chimpanzee nut-cracking**: Young chimpanzees take years to master stone-tool nut-cracking. Mothers tolerate their offspring's presence and even allow them to use their anvils and hammers. Boesch (1991) reported occasional facilitative behaviours—mothers repositioning stones or demonstrating cracking—which he interpreted as teaching, though this interpretation remains debated. Inoue-Nakamura & Matsuzawa (1997) found learning occurred primarily through observation and individual practice rather than active instruction. The weight of evidence suggests that learning happens largely through tolerated scrounging and observation, with at most rare and limited facilitation.
+**Chimpanzee nut-cracking**: Young chimpanzees take years to master stone-tool nut-cracking. Mothers tolerate their offspring's presence and let them use their anvils and hammers, and Boesch (1991) reported occasional facilitative behaviours—repositioning stones, demonstrating cracking—though whether these amount to teaching remains debated. Inoue-Nakamura & Matsuzawa (1997) found learning occurred primarily through observation and individual practice rather than active instruction, so acquisition rests largely on tolerated scrounging with at most limited facilitation.
 
-**Termite fishing**: Similarly, termite-fishing techniques are socially transmitted without deliberate teaching. Infants learn by watching mothers and manipulating abandoned probes. Mothers don't demonstrate, correct, or scaffold.
+**Termite fishing**: In most study populations, termite-fishing techniques are transmitted through observation—infants learn by watching mothers and manipulating abandoned probes, with little demonstration, correction, or scaffolding. One population is the striking exception, and it supplies the strongest documented case of great-ape teaching (discussed under *Rare Exceptions* below).
 
 **Tool manufacture**: Chimpanzees make complex tools—stripping leaves from stems, choosing appropriate materials. But there's no evidence they teach these manufacturing techniques. Each generation rediscovers the methods through individual trial-and-error guided by social exposure.
 
 ### Rare Exceptions?
 
-Some apparent teaching cases have been documented beyond nut-cracking: meerkats bring disabled prey to young for practice hunting; orcas beach themselves to demonstrate hunting technique. These cases remain debated, and even granting them as teaching, they are rare, limited, and qualitatively different from the constant, elaborate teaching in all human cultures. The contrast is not absence versus presence but near-absence versus ubiquity.
+The strongest documented case of great-ape teaching comes from termite fishing at the Goualougo Triangle, where chimpanzee mothers transfer fishing probes to their offspring in ways that meet the functional criteria for teaching: the act is costly to the donor, occurs in the learner's presence, and improves the recipient's performance (Musgrave et al., 2016). Such helping is more frequent in the population where the extraction task is more complex, suggesting sensitivity to the learner's need (Musgrave et al., 2020). Facilitative behaviours during nut-cracking (Boesch, 1991) and non-ape cases—meerkats bringing disabled prey to pups, orcas beaching to demonstrate hunting—add further examples. Crucially, these cases satisfy a *functional* definition of teaching—one defined by its effects on the learner—without showing that the donor represents the learner's ignorance as a state to be changed. Even granting all of them, the behaviours remain rare, population-specific, and qualitatively different from the constant, content-rich pedagogy of every human culture. The contrast is not absence versus presence but near-absence versus ubiquity.
 
 ## Why Teaching Requires Consciousness
 
@@ -228,6 +228,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Dean, L.G., et al. (2012). Identification of the social and cognitive processes underlying human cumulative culture. *Science*, 335(6072), 1114-1118.
 1. Inoue-Nakamura, N., & Matsuzawa, T. (1997). Development of stone tool use by wild chimpanzees (*Pan troglodytes*). *Journal of Comparative Psychology*, 111(2), 159-173.
 1. Kline, M.A. (2015). How to learn about teaching: An evolutionary framework for the study of teaching behavior in humans and other animals. *Behavioral and Brain Sciences*, 38, e31.
+1. Musgrave, S., Morgan, D., Lonsdorf, E., Mundry, R., & Sanz, C. (2016). Tool transfers are a form of teaching among chimpanzees. *Scientific Reports*, 6, 34783.
+1. Musgrave, S., Lonsdorf, E., Morgan, D., Prestipino, M., Bernstein-Kurtycz, L., Mundry, R., & Sanz, C. (2020). Teaching varies with task complexity in wild chimpanzees. *Proceedings of the National Academy of Sciences*, 117(2), 969-976.
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 1. Thornton, A., & Raihani, N.J. (2008). The evolution of teaching. *Animal Behaviour*, 75(6), 1823-1836.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.

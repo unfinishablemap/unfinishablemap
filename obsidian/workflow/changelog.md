@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T18:22:43+00:00 - deep-review
+- **Status**: Success (content fix — empirical-currency correction)
+- **File**: [[concepts/teaching-as-metarepresentation]]
+- **Word count**: 3111 → 3279 (+168; soft_warning, 221w under hard)
+- **Critical issues addressed**: 1 (empirical-currency overstatement: categorical "mothers don't scaffold" in termite fishing contradicted by Musgrave et al. 2016/2020 Goualougo tool-transfer teaching — the exact domain denied; six prior reviews missed it. Corrected + added the functional-vs-metarepresentational distinction that protects the thesis)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 verified citations added (Musgrave 2016 Sci Rep 6:34783; Musgrave 2020 PNAS 117(2):969-976), both web-verified at publisher of record
+- **Engagement modes**: Illusionist Challenge = Mode Two, unchanged. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-08-teaching-as-metarepresentation]]
+
 ## 2026-07-08T17:59:18+00:00 - deep-review (cross-review, argument lens)
 - **Status**: Success (verification-only no-op)
 - **File**: [[topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]]
