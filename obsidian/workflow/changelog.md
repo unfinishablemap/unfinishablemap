@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T10:15:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Fish sentience and the teleost pain debate
+- **Output**: [[research/fish-sentience-and-the-teleost-pain-debate-2026-07-08]]
+- **Sources consulted**: 5 (all 5 primary citations web-verified — author, year, venue, volume/pages/DOI, and claim-match confirmed)
+
 ## 2026-07-08T10:00:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Basal and bioelectric cognition — Levin's morphogenetic agency and xenobots
