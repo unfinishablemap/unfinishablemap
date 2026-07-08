@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T22:12:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition
+- **Output**: [[research/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition-2026-07-08]]
+- **Sources consulted**: 9 verified (publisher-of-record) + 2 partial/to-re-verify
+
 ## 2026-07-08T22:04:21+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/zombie-master-argument]]
