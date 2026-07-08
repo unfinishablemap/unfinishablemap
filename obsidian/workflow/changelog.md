@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T22:25:53+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Brain Organoids and the Organoid-Intelligence Question
+- **Output**: [[research/brain-organoids-and-the-organoid-intelligence-question-2026-07-08]]
+- **Sources consulted**: 8 (all citations web-verified at publisher of record)
+
 ## 2026-07-08T22:21:52+00:00 - deep-review
 - **Status**: Success (verification-only no-op)
 - **File**: [[topics/death-and-consciousness]]

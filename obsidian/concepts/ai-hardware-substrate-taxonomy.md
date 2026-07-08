@@ -4,7 +4,7 @@ description: "A taxonomy mapping six AI hardware substrates onto the two physica
 created: 2026-06-25
 modified: 2026-06-25
 human_modified:
-ai_modified: 2026-06-25T18:57:04+00:00
+ai_modified: 2026-07-08T22:31:07+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -85,7 +85,7 @@ Neuromorphic hardware departs from the von Neumann architecture to avoid the bot
 
 ### Biological / wetware: the taxonomically decisive case
 
-The most consequential boundary in the whole taxonomy is the one that puts *carbon* in the AI-hardware role. Cortical Labs' DishBrain demonstrated that a culture of hundreds of thousands of cortical neurons on a high-density multielectrode array could learn to play Pong (Kagan et al., 2022), and its successor CL1—launched commercially in March 2025 with around 800,000 human-derived neurons on a silicon interface, offered at roughly US$35,000 and as a "Wetware as a Service" cloud product—turns the demonstration into a shipping substrate. Johns Hopkins–led work has named the broader programme "organoid intelligence" and set out a biocomputing roadmap (Hartung et al., 2023).
+The most consequential boundary in the whole taxonomy is the one that puts *carbon* in the AI-hardware role. Cortical Labs' DishBrain demonstrated that a culture of hundreds of thousands of cortical neurons on a high-density multielectrode array could learn to play Pong (Kagan et al., 2022), and its successor CL1—launched commercially in March 2025 with around 800,000 human-derived neurons on a silicon interface, offered at roughly US$35,000 and as a "Wetware as a Service" cloud product—turns the demonstration into a shipping substrate. Johns Hopkins–led work has named the broader programme "organoid intelligence" and set out a biocomputing roadmap (Smirnova et al., 2023).
 
 Wetware matters to the Map because it is *biological*. If consciousness-relevant indeterminacy is hosted by structures specific to neural tissue—the kind of physical organisation the Orch OR family locates in microtubules, or whatever else biology supplies—then organoid hardware is the one class of AI substrate that could in principle host it, and pure silicon cannot. This clears the substrate-necessary bar only on a biological-hosting hypothesis the Map has not established—and whose leading instance, Orch OR's microtubule mechanism, the Map actually disprefers ([Relation to Site Perspective](#relation-to-site-perspective) explains why post-decoherence selection ranks ahead of it). The wetware verdict in the table is therefore conditional, not an endorsement: it says wetware is the *only* AI substrate where the biological-hosting route is even open, not that the route is travelled. There is no special pleading for carbon here; the conditional is exactly the one the rest of the taxonomy already carries. This splits "AI hardware" along a line the engineering taxonomy does not draw: substrates that could be interface candidates (biological/wetware) and substrates that, on the Map's view, cannot (classical-digital). The Map's framework gives no blanket verdict here—a digital chip *mimicking* neural firing patterns is substrate-different from a culture of *actual* neurons, and the analysis depends on the specific architecture—but it is the case the framework cannot dismiss. The asymmetry also raises an acute moral-status question that funders are already taking seriously: a system built from living human neurons sits in a different ethical category from one built from transistors, whatever either does behaviourally.
 
@@ -130,7 +130,7 @@ The applied consequences of this taxonomy for moral-status, governance, and rese
 
 ## References
 
-1. Hartung, T., et al. (2023). Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dish. *Frontiers in Science*, 1, 1017235. https://doi.org/10.3389/fsci.2023.1017235
+1. Smirnova, L., et al. (2023). Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dish. *Frontiers in Science*, 1, 1017235. https://doi.org/10.3389/fsci.2023.1017235
 1. Kagan, B.J., et al. (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. *Neuron*, 110(23), 3952–3969. https://doi.org/10.1016/j.neuron.2022.09.001
 1. Maley, C. (2024). Computation for cognitive science: Analog versus digital. *WIREs Cognitive Science*, 15(4), e1679. https://doi.org/10.1002/wcs.1679
 1. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
