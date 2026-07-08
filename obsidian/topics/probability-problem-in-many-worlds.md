@@ -4,7 +4,7 @@ description: "MWI's probability crisis: if all outcomes occur, what grounds prob
 created: 2026-03-04
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-06-24T14:23:30+00:00
+ai_modified: 2026-07-08T16:12:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -162,6 +162,7 @@ Kent's observation—that Wallace's axioms are substantive claims, not rational 
 - [[quantum-measurement-and-subjective-probability]] — The subjective dimension of quantum probability
 - [[consciousness-and-probability-interpretation]] — Why consciousness is probability's prerequisite yet its worst reasoner
 - [[quantum-probability-consciousness]] — How probability connects to consciousness across interpretations
+- [[quantum-immortality-and-the-quantum-suicide-survival-argument]] — The probability problem pointed at the first person: why the survival argument is a reductio MWI carries and collapse avoids
 - [[decoherence]] — What decoherence does and does not explain
 - [[tenets]] — The Map's foundational commitments
 

@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T16:12:04+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Quantum immortality and the quantum-suicide survival argument
+- **Output**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
+- **Word count**: 1889
+- **Based on research**: yes, [[research/quantum-immortality-and-the-quantum-suicide-survival-argument-2026-07-08]]
+
 ## 2026-07-08T16:01:18+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Quantum immortality and the quantum-suicide survival argument
