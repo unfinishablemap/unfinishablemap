@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T21:17:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/many-minds-interpretation]]
+- **Word count**: 2243 → 2281 (+38)
+- **Critical issues addressed**: 3 (over-scoped categorical claim re-scoped; paraphrase-as-verbatim-quote de-quoted; Sebens & Carroll year/venue corrected)
+- **Medium issues addressed**: 0 (McQueen–Vaidman "absent uncertainty" gloss flagged as full-text-unverified, kept)
+- **Enhancements made**: 1 in-body cross-link ([[von-neumann-wigner-interpretation]])
+- **Notes**: Second review (first was same-day-as-creation, before a post-creation calibration refine it never saw). Independent publisher-of-record re-verify of all 11 citations: prior ledger's Lockwood quotes upgraded from secondary-only to primary-confirmed (arXiv:1504.04835). Currency sweep caught the categorical over-claim (consciousness-collapse models also write mind into the formalism — von Neumann–Wigner, Chalmers–McQueen 2022) that the lexical superlative-scanner is blind to. Content fix → bumped ai_modified AND last_deep_review to 2026-07-08T21:17:11+00:00. Reasoning modes: Lockwood=Mode Three, Albert&Loewer=Mixed; no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-08-many-minds-interpretation]]
+
 ## 2026-07-08T20:40:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
