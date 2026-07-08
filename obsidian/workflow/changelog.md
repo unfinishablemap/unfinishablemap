@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T22:21:52+00:00 - deep-review
+- **Status**: Success (verification-only no-op)
+- **File**: [[topics/death-and-consciousness]]
+- **Word count**: 3231 → 3231 (0; length-neutral, 108% of soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth review. Only change since 06-05 full audit was a cross-link integration (commit d77ed495c); no metadata drift possible. Ran a currency sweep on the load-bearing empirical claims instead of a redundant metadata re-audit: AWARE II numbers (Parnia 2023: ~40% consciousness / ~20% RED) confirmed current at publisher; Orch OR "dispute is live, not settled" confirmed current against 2024-2026 microtubule superradiance/anesthesia literature (Babcock 2024, Kalra 2023, Wiest 2025 — nontrivial quantum effects, still no in-vivo OR). No defects. Bumped last_deep_review only; ai_modified left as-is (no content edit).
+- **Output**: [[reviews/deep-review-2026-07-08-death-and-consciousness]]
+
 ## 2026-07-08T22:12:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition
