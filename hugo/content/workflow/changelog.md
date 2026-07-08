@@ -9,6 +9,38 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-08T16:01:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Quantum immortality and the quantum-suicide survival argument
+- **Output**: [quantum-immortality-and-the-quantum-suicide-survival-argument-2026-07-08](/research/quantum-immortality-and-the-quantum-suicide-survival-argument-2026-07-08/)
+- **Sources consulted**: 7 (Tegmark 1998, Moravec 1988, Marchal 1988, Lewis 2004, Papineau 2004, O'Brien 2025, Gao 2022; all web-verified except Gao full-text)
+
+## 2026-07-08T15:37:15+00:00 - deep-review
+- **Status**: Success (2 fixes — wrong-attribution + currency)
+- **File**: [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)
+- **Why selected**: staleness (last_deep_review 2026-06-04, 34d) on a citation-heavy topics article with only 2 prior reviews, after diverting from two converged no-ops (teaching-as-metarepresentation = 6 reviews + cross-link-only bump; phenomenal-output-causal-machinery-dissociation = video-embed-only change since 2026-06-05, human-blocked over-ceiling flagship with condense vetoed). Discharges this article's own 2026-06-04 open TFUS-thalamus currency-watch.
+- **Word count**: 3426 → 3519 (+93; 117% of 3000 soft, under hard — length-neutral, one trim applied)
+- **Critical issues addressed**: 1 (Bonnì 2015 mis-placed — cited for medial PFC but is a PRECUNEUS TMS study; relocated to precuneus section, verified PubMed 25541040) | **Medium**: 0 | **Enhancements**: 1 (currency: added verified Krishna et al. 2023 *Epilepsia* 64(4):831–842 human ANT focused-ultrasound demonstration, flagged ablative-vs-reversible distinction)
+- **Citations**: Bonnì 2015 metadata real-correct, body-placement fixed; Krishna 2023 newly added, full tuple web-verified (PubMed 36745000, doi:10.1111/epi.17535); Verhagen 2019 / Cain 2021 untouched (verified 2026-06-04). No fabrication.
+- **Timestamps**: ai_modified + last_deep_review → 2026-07-08T15:37:15+00:00 (genuine review with fixes).
+- **Output**: [deep-review-2026-07-08-targeted-lesion-discriminating-tests](/reviews/deep-review-2026-07-08-targeted-lesion-discriminating-tests/)
+
+## 2026-07-08T14:01:45+00:00 - deep-review
+- **Status**: Success (confirmation pass — no defects)
+- **File**: [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/)
+- **Why selected**: candidate scorer #1 (score 28, 18d since review, 1 prior review — young fresh-create, lightly damped). Diverted from the heavily-converged top-drift candidates (russellian-monism-versus-bi-aspectual-dualism has 6 prior reviews + a "strongly deprioritize" recommendation; memory-anomalies/causal-powers/meaning-of-life all 5–13 reviews with cross-link/embed no-op drift).
+- **Word count**: 2694 → 2694 (no change; 90% of 3000 soft — ok)
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0
+- **Citations**: all 6 independently re-verified real-correct at publisher of record (Burke 1757, Kant 1790, Hume 1757, Korsmeyer 2011, Rawlette 2016, Gilmore 2025 SEP). Fresh-create defect tail now worked out (2 defects at/after creation → 0 this pass).
+- **Timestamps**: last_deep_review bumped to 2026-07-08T14:01:45+00:00; ai_modified unchanged (metadata-only no-op — content untouched).
+- **Output**: [deep-review-2026-07-08-the-sublime-and-negative-aesthetics](/reviews/deep-review-2026-07-08-the-sublime-and-negative-aesthetics/)
+
+## 2026-07-08T12:33:03+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: personal-identity / No-Many-Worlds (Tenet 4) and emotion/interoception clusters; close-read probability-problem-in-many-worlds, emotion-and-dualism, death-and-consciousness, egocentric-presentism + coverage-grep across topics/concepts/research
+- **Findings**: 1 high-priority gap (quantum immortality / quantum-suicide survival argument — CONFIRMED absent, Tenet-4-native), 1 medium (enteric nervous system / gut-brain distributed-interface angle — CONFIRMED absent, surrounding interoception well-covered); appraisal-theory excluded as already substantially covered. Strong calibration praise for the MWI-probability article's evidence-vs-refutation discipline.
+- **Output**: [optimistic-2026-07-08-nomwi-emotion-cluster](/reviews/optimistic-2026-07-08-nomwi-emotion-cluster/)
+
 ## 2026-07-08T11:47:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/)

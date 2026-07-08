@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-06-04 15:56:59+00:00
+ai_modified: 2026-07-08 15:37:15+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'Human+AI design-space inquiry: which focal-lesion or focal-stimula
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 15:56:59+00:00
+last_deep_review: 2026-07-08 15:37:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,17 +113,17 @@ The design space is structured by which region-pair dissociations would, if achi
 
 The medial prefrontal cortex is implicated in self-referential processing, autobiographical-memory retrieval, and the default-mode-network operations the autonoetic-channel literature treats as the substrate route for re-experiencing (Conway 2005; Andrews-Hanna et al. 2014). The lateral prefrontal cortex is implicated in semantic retrieval and executive control. Focal perturbation of medial PFC sparing lateral PFC should, on either reading, preferentially impair autonoetic re-experiencing while leaving semantic recognition intact. The discriminator is whether the autonoetic deficit takes the *channel-down* form predicted by the filter reading (autonoetic essentially unavailable, with semantic substitution where autonoetic content is requested) or the *channel-degraded* form predicted by the production reading (autonoetic available but degraded in proportion to the substrate damage).
 
-TMS studies targeting medial PFC during autobiographical-memory tasks have been conducted (Bonnì et al. 2015 and successors); the channel-state versus channel-degradation distinction has not yet been the primary outcome measure.
+TMS studies targeting medial PFC during autobiographical-memory tasks have been conducted, but the channel-state versus channel-degradation distinction has not yet been the primary outcome measure.
 
 ### Precuneus / Posterior Cingulate vs. Lateral Parietal Association
 
-The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. The depth and selectivity required for the precuneus/PCC target may have begun to come within reach of transcranial focused ultrasound (Verhagen et al. 2019; Cain et al. 2021), though the within-region specificity needed to spare lateral parietal association remains a calibration challenge.
+The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. Continuous theta-burst TMS to the precuneus has been shown to modulate source-memory retrieval (Bonnì et al. 2015), but not yet as a channel-state-versus-degradation discriminator. The depth and selectivity required for the precuneus/PCC target may have begun to come within reach of transcranial focused ultrasound (Verhagen et al. 2019; Cain et al. 2021), though the within-region specificity needed to spare lateral parietal association remains a calibration challenge.
 
 ### Anterior Thalamic Nuclei vs. Mediodorsal Thalamus
 
-The anterior thalamic nuclei are differentially implicated in episodic memory through the Papez circuit, with Korsakoff's syndrome and other diencephalic-amnesia cases as the clinical anchor (Aggleton and Brown 1999). The mediodorsal thalamus is differentially implicated in executive and semantic functions. Focal perturbation of anterior thalamic nuclei sparing mediodorsal thalamus is the kind of focal subcortical target focused ultrasound has begun to make accessible. The subcortical target is small enough that the spatial-selectivity requirement is more likely to be met than in cortical-pairs cases.
+The anterior thalamic nuclei are differentially implicated in episodic memory through the Papez circuit, with Korsakoff's syndrome and other diencephalic-amnesia cases as the clinical anchor (Aggleton and Brown 1999). The mediodorsal thalamus is differentially implicated in executive and semantic functions. Focal perturbation of anterior thalamic nuclei sparing mediodorsal thalamus is the kind of focal subcortical target focused ultrasound has begun to make accessible: human anterior-nucleus focused-ultrasound ablation has since been delivered in a phase 1 epilepsy trial (Krishna et al. 2023), demonstrating that the anterior nucleus is now a reachable focal target in humans — though the ablative-thalamotomy modality supplies the focal-lesion ingredient rather than the reversible neuromodulation a within-subject discriminator would prefer. The subcortical target is small enough that the spatial-selectivity requirement is more likely to be met than in cortical-pairs cases.
 
-These three pairings are candidate-rich rather than exhaustive — selected because existing functional-neuroimaging convergence on the autonoetic role of the named regions may make the design tractable and because the relevant perturbation modality appears to have reached, or to be approaching, the technological maturity that could deliver the test in humans.
+These three pairings are candidate-rich rather than exhaustive — selected because existing functional-neuroimaging convergence on the autonoetic role of the named regions may make the design tractable and because the relevant perturbation modality appears to be reaching the technological maturity that could deliver the test in humans.
 
 ## The Animal-Model Variant
 
@@ -176,6 +176,7 @@ The article engages three of the Map's tenets at the methodology layer rather th
 1. Hodges, J. R., Patterson, K., Oxbury, S., & Funnell, E. (1992). Semantic dementia: Progressive fluent aphasia with temporal lobe atrophy. *Brain*, 115(6), 1783–1806.
 1. Jouvet, M. (1962). Recherches sur les structures nerveuses et les mécanismes responsables des différentes phases du sommeil physiologique. *Archives Italiennes de Biologie*, 100, 125–206.
 1. Klein, S. B. (2014). *The Two Selves: Their Metaphysical Commitments and Functional Independence*. Oxford University Press.
+1. Krishna, V., Mindel, J., Sammartino, F., et al. (2023). A phase 1 open-label trial evaluating focused ultrasound unilateral anterior thalamotomy for focal onset epilepsy. *Epilepsia*, 64(4), 831–842. https://doi.org/10.1111/epi.17535
 1. Lai, Y. Y., & Siegel, J. M. (1990). Muscle tone suppression and stepping produced by stimulation of midbrain and rostral pontine reticular formation. *Journal of Neuroscience*, 10(8), 2727–2734.
 1. Markowitsch, H. J., Vandekerckhove, M. M., Lanfermann, H., & Russ, M. O. (2003). Engagement of lateral and medial prefrontal areas in the ecphory of sad and happy autobiographical memories. *Cortex*, 39(4–5), 643–665.
 1. Roth, B. L. (2016). DREADDs for neuroscientists. *Neuron*, 89(4), 683–694.

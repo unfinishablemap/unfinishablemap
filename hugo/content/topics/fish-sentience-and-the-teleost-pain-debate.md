@@ -14,6 +14,7 @@ description: 'Fish have nociceptors but lack a neocortex. The Map removes the sk
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-08 13:02:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
