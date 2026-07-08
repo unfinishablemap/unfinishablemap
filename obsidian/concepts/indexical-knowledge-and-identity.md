@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-06-17T23:00:08+00:00
+ai_modified: 2026-07-08T17:26:08+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -129,6 +129,8 @@ The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet finds these accounts u
 **The haecceitistic problem**: If personal identity involves [[haecceity]], then "which branch am I in?" asks about a haecceitistic fact. But many-worlds provides no such facts. All branches are equally real, all successors equally continuous with you. Nothing grounds the self-locating belief "I am in this branch."
 
 **The phenomenological mismatch**: You will experience one definite sequence of outcomes, not multiple incompatible ones. The felt reality of anticipating one future suggests an indexical fact that many-worlds cannot accommodate.
+
+The starkest test of these accounts is the [[quantum-immortality-and-the-quantum-suicide-survival-argument|quantum-suicide survival argument]]. If pre-measurement survival is genuine self-locating uncertainty over branch successors, an observer facing a lethal quantum trigger should expect to find themselves, indefinitely, only in branches where they survived. Almost everyone treats that conclusion as a reductio—which is exactly what the self-locating framework predicts when the missing fact (which successor is *me*) is one the indexical realist insists is real.
 
 Friederich and Dawid show that attempts to derive the Born rule from self-locating uncertainty (as in Sebens and Carroll's approach) rely on principles that tacitly assume what they're meant to prove. Self-locating uncertainty makes sense when there's a fact you don't know; in many-worlds, the supposed fact doesn't exist.
 
