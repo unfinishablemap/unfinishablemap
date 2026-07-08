@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T10:25:25+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Plant cognition and the plant-neurobiology debate
+- **Output**: [[topics/plant-cognition-and-the-plant-neurobiology-debate]]
+- **Word count**: 2097
+- **Based on research**: yes, [[research/plant-cognition-and-the-plant-neurobiology-debate-2026-07-08]]
+
 ## 2026-07-08T10:15:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Fish sentience and the teleost pain debate
