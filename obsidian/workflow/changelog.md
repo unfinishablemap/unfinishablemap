@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T07:57:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/sorkin-delta-brain-internal-analogues]]
+- **Word count**: 2345 → ~2360 (+15; one reference added)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (inline↔References gap: added Escolà-Gascón 2025 reference #7, renumbered subsequent entries)
+- **Enhancements made**: 1
+- **Citations**: All 8 external academic cites independently re-verified at publisher of record — all clean (Sinha 2010, Sorkin 1994, Tegmark 2000, Hagan-Hameroff-Tuszyński 2002, Wiest 2025, Kerskens & López Pérez 2022, Donadi 2021, Gildert 2025). Same-day-create self-verification confirmed correct; no defect tail. Escolà-Gascón 2025 (CSBJ 30:21–40) verified before adding.
+- **Engagement modes**: No named-opponent in-framework refutation; proposals characterized neutrally, Tenet-4 boundary disclosed. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-08-sorkin-delta-brain-internal-analogues]]
+
 ## 2026-07-08T07:24:29+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Invertebrate / simple-organism / marginal-organism consciousness cluster (invertebrate-consciousness-as-interface-test, consciousness-in-simple-organisms, ethics-of-consciousness-invertebrate-question, valence-and-conscious-selection, marginal-organism-scope-of-value-sensitive-selection)

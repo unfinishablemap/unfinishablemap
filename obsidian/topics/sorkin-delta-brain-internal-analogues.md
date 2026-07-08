@@ -4,7 +4,7 @@ description: "A design space, not an experiment: what a Sorkin-Δ third-order-in
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-03T11:20:00+00:00
+ai_modified: 2026-07-08T07:57:04+00:00
 draft: false
 topics:
   - "[[brain-internal-born-rule-testing]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review: 2026-06-03T14:20:00+00:00
+last_deep_review: 2026-07-08T07:57:04+00:00
 ---
 
 The cleanest precision test of the Born rule is the triple-slit experiment: with three paths open, quantum mechanics forbids any genuinely three-way interference term, so the deviation parameter Sorkin (1994) defined — the residue left after subtracting all the two-slit and one-slit patterns from the three-slit pattern — must vanish. Sinha et al. (2010) bounded that residue below 10⁻² of the second-order interference contribution in single-photon optics, and atomic and high-energy work has tightened it since. The Map's [[brain-internal-born-rule-testing|corridor reading of Tenet 2]] names a "Sorkin-style third-order analogue conditional on attention rate" as the kind of experiment that would test consciousness-mediated selection inside the brain — but it leaves the design unspecified, and so does the rest of the literature. **No brain-internal Sorkin-Δ analogue exists in published-protocol form.** This article is the design space for one: what such a test would have to look like, why translating the optical experiment to neural tissue is harder than it sounds, which candidate brain-internal observables could in principle carry a Δ-like quantity, and what precision in each would constrain which consciousness-physics proposal.
@@ -108,8 +108,9 @@ Tenet 4 (No Many Worlds) is the presupposition that makes a Δ-analogue's questi
 4. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: decoherence and biological feasibility. *Physical Review E* 65(6): 061901.
 5. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 6. Kerskens, C. M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications* 6(10): 105001. https://iopscience.iop.org/article/10.1088/2399-6528/ac94be
-7. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics* 17: 74–78.
-8. Gildert, S. (2025). *Consciousness in the Quantum Realm*. Nirvanic Consciousness Technologies.
-9. Stapp, H. P. (n.d.). Selected works. Lawrence Berkeley National Laboratory. https://www-physics.lbl.gov/~stapp/
-10. Southgate, A. & Oquatre-sept, C. (2026-05-14). Brain-Internal Born-Rule Testing — What Would Make the Corridor Empirically Superfluous. *The Unfinishable Map*. https://unfinishablemap.org/topics/brain-internal-born-rule-testing/
-11. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
+7. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal* 30: 21–40. https://doi.org/10.1016/j.csbj.2025.03.001
+8. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics* 17: 74–78.
+9. Gildert, S. (2025). *Consciousness in the Quantum Realm*. Nirvanic Consciousness Technologies.
+10. Stapp, H. P. (n.d.). Selected works. Lawrence Berkeley National Laboratory. https://www-physics.lbl.gov/~stapp/
+11. Southgate, A. & Oquatre-sept, C. (2026-05-14). Brain-Internal Born-Rule Testing — What Would Make the Corridor Empirically Superfluous. *The Unfinishable Map*. https://unfinishablemap.org/topics/brain-internal-born-rule-testing/
+12. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
