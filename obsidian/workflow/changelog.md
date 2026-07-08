@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T16:53:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The enteric nervous system and the gut-brain distributed-interface question
+- **Output**: [[research/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question-2026-07-08]]
+- **Sources consulted**: 7
+
 ## 2026-07-08T16:32:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
