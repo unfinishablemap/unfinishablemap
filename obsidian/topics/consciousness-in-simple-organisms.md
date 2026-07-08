@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-06-21T11:38:47+00:00
 human_modified: null
-ai_modified: 2026-06-24T21:09:35+00:00
+ai_modified: 2026-07-08T06:44:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ The Unfinishable Map's dualist framework gains unexpected support from this rese
 
 ## The 2024 New York Declaration
 
-In April 2024, the New York Declaration on Animal Consciousness was launched and has since been signed by hundreds of scientists and philosophers (599 as of the live 2026 signatory count, up from roughly 40 at launch), significantly expanding the 2012 Cambridge Declaration. Where Cambridge affirmed consciousness in mammals, birds, and cephalopods, New York extends to "a realistic possibility of conscious experience" in all vertebrates and many invertebrates, including insects, crustaceans, and other arthropods. Signatories include David Chalmers, Christof Koch, Peter Godfrey-Smith, Lars Chittka, and Anil Seth.
+In April 2024, the New York Declaration on Animal Consciousness was launched and has since been signed by hundreds of scientists and philosophers (605 as of the live 2026 signatory count, up from roughly 40 at launch), significantly expanding the 2012 Cambridge Declaration. Where Cambridge affirmed consciousness in mammals, birds, and cephalopods, New York extends to "a realistic possibility of conscious experience" in all vertebrates and many invertebrates, including insects, crustaceans, and other arthropods. Signatories include David Chalmers, Christof Koch, Peter Godfrey-Smith, Lars Chittka, and Anil Seth.
 
 The declaration's precautionary stance is notable: "If there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility." The Map endorses this epistemic humility—consistent with the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet.
 

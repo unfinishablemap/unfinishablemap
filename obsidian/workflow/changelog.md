@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T06:44:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Word count**: 2186 → 2186 (0; length-neutral, currency update only)
+- **Selection**: changed-since-review — ai_modified (2026-07-07) moved past last_deep_review (2026-06-05) via a corpus-wide standing-agnostic-challenge cross-link add; citation-heavy, Tenet-load-bearing. Sixth review of a converged article.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (NYD signatory-count currency drift 599 → 605, live-verified at the NYU declaration page; propagated corpus-wide to 6 live-content files: ethics-of-consciousness-invertebrate-question, animal-consciousness, consciousness-in-simple-organisms, invertebrate-consciousness-as-interface-test, apex/minds-without-words, project/evidential-status-discipline)
+- **Enhancements made**: 0 (prose converged)
+- **Citation verdicts**: NYD count = real/currency-drift (fixed 599→605). New 2026-07-07 standing-agnostic-challenge sentence = faithful to target (Gutfreund 2024 symmetry), no misattribution/slippage/label-leakage. References block unchanged since the complete 2026-06-05 publisher-of-record audit — not re-litigated per §2.4.
+- **Engagement modes**: physicalist ethics threshold-vs-gradient = Mode Three (framework-boundary), unchanged; Birch engaged as ally.
+- **Output**: [[reviews/deep-review-2026-07-08-ethics-of-consciousness-invertebrate-question]]
+
 ## 2026-07-08T06:16:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/phenomenal-variation-within-a-species]]
