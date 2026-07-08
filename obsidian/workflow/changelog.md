@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T01:28:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]] + [[topics/introspection-architecture-independence-scoring]]
+- **Changes**: Bidirectional integration fix (verified by optimistic-2026-07-08). Anchor's "Engaging the Common-Cause Null" section named patient-population evidence with anomalous introspective architecture among external tests "not currently in hand" while the Map already has a worked exhibit of exactly that test. (1) In the anchor: softened "not currently in hand" → "whose broader programme is not yet in hand" and added wikilink to [[introspection-architecture-independence-scoring]] (partial worked exhibit acknowledged, not flatly contradicted); preserved calibrated common-cause language verbatim. (2) In the scoring exhibit's patient-population-channel paragraph: added reciprocal back-link to [[cross-traditional-convergence-on-consciousness-irreducibility]] as the argument the worked exhibit stands in for. Both slugs verified to resolve uniquely; length-light, mechanical link-adds + one soften.
+- **Published**: yes
+
 ## 2026-07-08T01:19:45+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Cross-traditional / non-Western consciousness cluster (cross-traditional-convergence-on-consciousness-irreducibility, the-hard-problem-in-non-western-philosophy, chinese-philosophy-of-mind)

@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-07-07T10:17:57+00:00
+ai_modified: 2026-07-08T01:28:21+00:00
 last_deep_review: 2026-07-07T10:17:57+00:00
 draft: false
 topics:
@@ -96,7 +96,7 @@ The voids-circularity discount operates on (4) most directly: framework-independ
 
 Sorting anchors by *kind* of evidence isolates how far each channel can bear against the [[common-cause-null|common-cause null]].
 
-**Patient-population channel.** Gazzaniga split-brain, Schnider orbitofrontal, Hirstein anosognosia/Capgras. The hope is that these populations' introspective architecture *differs* from neurotypical, so convergence cannot run only through shared machinery — but the discharge works only if the divergence is in the introspective architecture itself rather than in some upstream *input* to a shared one. A common-cause theorist answers that the same confabulatory narration machine runs in patients and neurotypicals: a callosotomy removes an interhemispheric pathway, an orbitofrontal lesion damages a reality-filter — the lesions change the machine's *inputs*, not its *kind*. The lesion literature does not settle this, so the channel supplies the catalogue's most architecturally distinct human evidence without cleanly discharging the strongest null.
+**Patient-population channel.** Gazzaniga split-brain, Schnider orbitofrontal, Hirstein anosognosia/Capgras. The hope is that these populations' introspective architecture *differs* from neurotypical, so convergence cannot run only through shared machinery — but the discharge works only if the divergence is in the introspective architecture itself rather than in some upstream *input* to a shared one. A common-cause theorist answers that the same confabulatory narration machine runs in patients and neurotypicals: a callosotomy removes an interhemispheric pathway, an orbitofrontal lesion damages a reality-filter — the lesions change the machine's *inputs*, not its *kind*. The lesion literature does not settle this, so the channel supplies the catalogue's most architecturally distinct human evidence without cleanly discharging the strongest null. This same channel is the worked patient-population instance that [[cross-traditional-convergence-on-consciousness-irreducibility|the cross-traditional convergence argument]] names among the external tests its common-cause null still awaits — the exhibit standing in for that argument's residual introspection-architecture programme.
 
 **Healthy-adult experimental channel.** Nisbett-Wilson, Johansson-Hall, Rebouillat, Wheatley-Haidt, Wegner, Pronin — within-neurotypical paradigms on shared architecture. Cannot discharge an objection locating the shared upstream *in* that architecture, but adds diversity.
 
