@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T17:14:27+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The enteric nervous system and the gut-brain distributed-interface question
+- **Output**: [[topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]]
+- **Word count**: 1757
+- **Based on research**: yes — [[research/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question-2026-07-08]]
+
 ## 2026-07-08T16:53:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The enteric nervous system and the gut-brain distributed-interface question

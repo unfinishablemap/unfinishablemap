@@ -4,7 +4,7 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-06-21T22:06:00+00:00
 human_modified:
-ai_modified: 2026-06-22T10:21:15+00:00
+ai_modified: 2026-07-08T17:14:27+00:00
 last_deep_review: 2026-06-20T01:15:27+00:00
 draft: false
 topics:
@@ -136,6 +136,7 @@ The three properties together — layered, phenomenal-character-shaping, bidirec
 - [[mechanism-costs-dualism-thickness-quadrants]] — The Map's narrow-probabilistic-channel cell whose anatomy the somatic interface populates
 - [[embodied-interface]] — The synthesis that sorts the somatic interface's channels by causal status: which felt states select, which are inseparable from the work they drive, and which are merely presented
 - [[alexithymia]] — The interoceptive pathology developed as a trait-level dial: recent evidence relocates its divergence from objective accuracy to the report and metacognition layer
+- [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]] — The gut's semi-autonomous "second brain" as a stress-test for where the consciousness-physical interface sits
 
 ## References
 
