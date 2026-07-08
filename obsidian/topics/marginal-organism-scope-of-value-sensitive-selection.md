@@ -4,7 +4,7 @@ description: "Where does valence-denominated conscious selection bottom out—ra
 created: 2026-06-05
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-07-08T10:34:46+00:00
+ai_modified: 2026-07-08T11:01:00+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -67,6 +67,8 @@ The slime mould forces a clean disjunction. *Either* valenced-looking behaviour 
 
 Between *Hydra*'s diffuse net and *Physarum*'s single cell sits a rung this ladder skips: the **multicellular, non-neural** case. [[plant-cognition-and-the-plant-neurobiology-debate|Plants]] fill it—many-celled organisms that count (the Venus flytrap's action-potential tally), hold short-term electrical memory, and run systemic wound signalling, all without neurons, yet with even less claim to experience than the slime mould. They press the same disjunction from richer behavioural territory: more sophisticated non-neural processing, still no evidence of felt value. And [[basal-and-bioelectric-cognition|Levin's bioelectric programme]] presses it from the opposite side—flatworm voltage memory and self-replicating xenobots supply engineering-grade *agency* whose *experience* even the principal investigator declines to assert, hardening the case that goal-directed behaviour is no reliable marker of value-sensitive selection.
 
+An orthogonal rung sits off to the side of this descent. The [[fish-sentience-and-the-teleost-pain-debate|teleost fish]] are full vertebrates—nervous system, nociceptors, flexible behaviour all present—so they do not remove a prerequisite the way the rungs above do. What they vary is neural *architecture*: fish lack the laminated neocortex that houses the mammalian pain network, and skeptics infer from that absence that fish nociception is unfelt. That inference is the cortical-necessity premise in its sharpest published form, and the ladder's cleanest test of whether a specific structure, rather than neural processing in general, is load-bearing for felt value.
+
 ## What Each Test Removes
 
 | Organism | Has | Lacks (for value-sensitive selection) | Status |
@@ -114,6 +116,7 @@ Two limits are in-principle, not instrumental. Verifying the *absence* of valenc
 - [[biological-teleology-and-the-interface-framework]] — How conscious selection re-introduces purpose into nature
 - [[agent-teleology]] — Genuine purpose through conscious causation
 - [[evidential-status-discipline]] — The calibration discipline this article enforces on boundary cases
+- [[fish-sentience-and-the-teleost-pain-debate]] — The orthogonal vertebrate-architecture rung: nociception fixed, cortical structure varied
 - [[explanatory-gap]] — Why the lower boundary is partly an unmeasurable void
 
 ## References
