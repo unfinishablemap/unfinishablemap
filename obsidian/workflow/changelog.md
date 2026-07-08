@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T23:07:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Brain Organoids and the Organoid-Intelligence Question
+- **Output**: [[topics/brain-organoids-and-the-organoid-intelligence-question]]
+- **Word count**: 1877
+- **Based on research**: yes — [[research/brain-organoids-and-the-organoid-intelligence-question-2026-07-08]]
+
 ## 2026-07-08T22:56:14+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition

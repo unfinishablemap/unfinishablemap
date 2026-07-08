@@ -4,7 +4,7 @@ description: "A taxonomy mapping six AI hardware substrates onto the two physica
 created: 2026-06-25
 modified: 2026-06-25
 human_modified:
-ai_modified: 2026-07-08T22:31:07+00:00
+ai_modified: 2026-07-08T23:07:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -124,6 +124,7 @@ The applied consequences of this taxonomy for moral-status, governance, and rese
 - [[interface-threshold]] — What architectural conditions a substrate must meet to host the interface
 - [[llm-consciousness]] — Why large language models, as classical-digital systems, fail the substrate condition
 - [[brain-computer-interfaces-and-the-interface-boundary]] — Where biological and engineered substrates meet
+- [[brain-organoids-and-the-organoid-intelligence-question]] — The orthogonal artifact-level companion: setting substrate physics aside, is a specific lab-grown network a candidate experiencer?
 - [[concepts/functionalism]] — The view substrate independence depends on
 - [[decoherence]] — The coherence-timescale challenge and the Map's responses
 - [[quantum-consciousness]] — Orch OR and the coherence-dependent mechanism family
