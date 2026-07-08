@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T11:47:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/fish-sentience-and-the-teleost-pain-debate]]
+- **Context**: Fixed 1 MED argumentative defect + 1 cross-article harmonisation from [[reviews/pessimistic-2026-07-08-marginal-organism-ladder-cluster]] on this session's fresh create. Precision repair — thesis, all citations (Sneddon 2003, Braithwaite 2010, Rose 2002/2014, Key 2016), nociception-vs-phenomenal-pain distinction, two-channel structure, and Tenet 1/5 tie preserved.
+- **Changes**:
+  - MED (skeptic over-reduced to type-identity theorist): the "What the Skeptics' Argument Actually Assumes" section framed the whole skeptical inference as resting on reductive neural-identity, so the "whole of the Map's positive contribution" claim over-reached. Added a paragraph naming the functionalist / multiple-realizability route as a SEPARATE skeptical inference (felt pain requires certain computations the everted pallium may or may not implement — an empirical cortical-necessity bet, not a metaphysical identity claim). Made explicit that dualism removes the entailment under BOTH readings but they need DIFFERENT rebuttals: the identity route dissolves outright; the functional route is relocated to an unanswerable empirical question (does the pallium realise the relevant function?) and stays genuinely open. Did NOT overclaim that the Map settles the functionalist route.
+  - Precisified the parallel over-claim in the Dualism section: "central inferential step presupposes the reductive identity" → "presupposes an entailment — reductive identity in its strong reading, functional necessity in the subtler one — that dualism denies either way", and noted removal leaves a live empirical question under the functionalist reading rather than a verdict. Preserves the honest "debate stays open" stance.
+  - Harmonisation (one-voice with sibling [[basal-and-bioelectric-cognition]]): behavioural-markers line "suggestive, contested" → "suggestive but defeasible, contested … decisive nowhere on their own, though not therefore worthless", with a cross-reference to the sibling. "suggestive" was already on the correct side; not weakened to "no evidence".
+- **Word count**: 1986 → ~2110 (well under 2200 ceiling)
+- **Published**: yes
+
 ## 2026-07-08T11:39:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/basal-and-bioelectric-cognition]]
