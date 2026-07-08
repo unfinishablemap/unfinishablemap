@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T22:04:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/zombie-master-argument]]
+- **Original score**: n/a (targeted structural refine against pessimistic-2026-07-08 findings, not a fresh review-scored pass)
+- **Changes**:
+  - FIX 1 (med-high): added a paragraph to "The Zombie Argument and Bidirectional Interaction" distinguishing the *nomological* impossibility Tenet 3 introduces (zombies violate the Map's laws of psychophysical coupling) from the *metaphysical* modality the zombie argument trades in — zombies stay metaphysically possible (Step 2 holds) yet are nomologically impossible under the completed framework, dissolving the self-undermining bind without the rejected water/H₂O a-posteriori move.
+  - FIX 2 (med): softened the knowledge-argument subsumption claim ("Both converge on the same conclusion" → shared target but non-aligned defeaters) and noted the ability hypothesis (Lewis, Nemirow) blocks Mary without mapping onto any of the three zombie-denial steps. Citation named inline only, no venue/page added (metadata not web-verified; see AI-citation-reliability caution).
+  - FIX 3 (med): flagged the primary/secondary-intension coincidence in the 2D-semantics section as the contested premise the phenomenal concepts strategy denies, cross-referenced the PCS engagement below. Softened "the available denials are exhaustive" (now "denials of the three explicit steps appear jointly exhaustive — though a response can also contest the setup itself") and renamed heading "Why the Argument Resists Defeat" → "Why the Argument Has Been Hard to Defeat".
+  - Preserved the strong-illusionism treatment and the Type-Q honesty note (no regression).
+- **Word count**: 2049 → 2446 (concepts soft 2500 / hard 3500; within limits, no human length decision needed)
+- **ai_modified**: 2026-07-08T22:04:21+00:00 (last_deep_review untouched — refine, not review)
+- **Published**: yes
+
 ## 2026-07-08T21:59:05+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/zombie-master-argument.md (oldest-reviewed concept; last deep-review 2026-06-02, no dedicated pessimistic pass since)

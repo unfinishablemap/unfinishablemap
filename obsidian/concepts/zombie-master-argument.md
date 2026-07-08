@@ -4,7 +4,7 @@ description: "How the conceivability argument against physicalism functions as a
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-02T03:34:50+00:00
+ai_modified: 2026-07-08T22:04:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ Each step is independently defensible, and each generates a distinctive class of
 
 ### The Knowledge Argument as a Special Case
 
-Frank Jackson's knowledge argument — Mary the colour scientist who knows all physical facts but learns something new upon seeing red — targets the same logical joint. Mary's situation demonstrates conceivability: we can coherently describe complete physical knowledge that doesn't include phenomenal knowledge. If physical facts don't entail phenomenal facts conceptually, the zombie scenario follows directly. The knowledge argument establishes non-entailment through an epistemic route; the zombie argument establishes it through a modal route. Both converge on the same conclusion.
+Frank Jackson's knowledge argument — Mary the colour scientist who knows all physical facts but learns something new upon seeing red — targets the same logical joint. Mary's situation demonstrates conceivability: we can coherently describe complete physical knowledge that doesn't include phenomenal knowledge. If physical facts don't entail phenomenal facts conceptually, the zombie scenario follows directly. The knowledge argument establishes non-entailment through an epistemic route; the zombie argument establishes it through a modal route. The two share a target — the claim that physical facts fix phenomenal facts — but their defeaters do not fully align. The standard deflationary reply to Mary, the ability hypothesis (Lewis, Nemirow), grants that Mary gains know-how or a new mode of acquaintance rather than a new propositional fact, and so leaves physical-to-phenomenal entailment untouched. That reply blocks the knowledge argument without mapping onto any of the three zombie-denial steps below, so the subsumption holds for the *modal content* Mary and the zombie share, not for every response each argument invites.
 
 ### The Explanatory Gap as the Evidential Base
 
@@ -59,7 +59,7 @@ Saul Kripke's argument from *Naming and Necessity* (1980) — that pain cannot b
 
 ## The Physicalist Response Map
 
-The master argument's elegance is that it turns the debate into a decision tree. Every physicalist must deny at least one premise, and the available denials are exhaustive.
+The master argument's elegance is that it turns the debate into a decision tree. Every physicalist must deny at least one premise, and the denials of the three explicit steps appear jointly exhaustive — though a response can also contest the setup itself rather than any step, as the ability-hypothesis reply to Mary above and the illusionist challenge below both do.
 
 ### Type-A Physicalism: Deny Conceivability
 
@@ -85,9 +85,11 @@ Some physicalists accept zombie possibility but argue it doesn't refute physical
 
 Chalmers sharpened the master argument using two-dimensional semantics, distinguishing between *primary intensions* — what a concept picks out given how the actual world turns out — and *secondary intensions* — what it picks out as a matter of metaphysical necessity. The key move: for phenomenal concepts, the primary and secondary intensions coincide. When we think about "pain," what we mean (the qualitative feel) is the same across all possible worlds — there's no gap between how we conceive of pain and what pain is.
 
-This blocks the standard Type-B escape. With water, the primary intension (the watery stuff in our environment) comes apart from the secondary intension (H₂O) — explaining why zombies-with-water are conceivable despite water necessarily being H₂O. But with consciousness, no such gap opens. If zombies are primarily conceivable — conceivable under the epistemic reading — they are also secondarily conceivable and therefore metaphysically possible.
+This blocks the standard Type-B escape. With water, the primary intension (the watery stuff in our environment) comes apart from the secondary intension (H₂O) — explaining why zombies-with-water are conceivable despite water necessarily being H₂O. The master argument's claim is that with consciousness no such gap opens: if zombies are primarily conceivable — conceivable under the epistemic reading — they are also secondarily conceivable and therefore metaphysically possible.
 
-## Why the Argument Resists Defeat
+This coincidence of intensions is the load-bearing premise, and it is exactly what the [[phenomenal-concepts-strategy|phenomenal concepts strategy]] denies — holding that the *appearance* of coincidence is an artefact of how phenomenal concepts represent their referents rather than a feature of consciousness itself. The step is therefore contested rather than settled; the argument's force here is conditional on the coincidence holding, and the [[#Why the Argument Has Been Hard to Defeat|PCS engagement below]] takes up that denial directly.
+
+## Why the Argument Has Been Hard to Defeat
 
 The master argument has persisted for three decades not because philosophers haven't tried to refute it, but because its logical structure forces opponents into costly commitments. Each response sacrifices something the physicalist would prefer to keep:
 
@@ -110,6 +112,8 @@ There is an important tension between the zombie thought experiment and the Map'
 This is not a contradiction but a logical progression. The zombie argument does its work under *minimal dualism* — Tenet 1 alone — where the only claim is that consciousness is not entailed by physical facts. At that stage, before any commitment to bidirectional interaction, zombie conceivability establishes non-entailment and refutes physicalism. The argument's job is done once it shows that physical description doesn't exhaust reality.
 
 The Map then goes further. Having established dualism via the conceivability argument, it adds Tenet 3: consciousness is not merely non-physical but causally efficacious. At that point, zombies become impossible *as a consequence of the stronger theory*. A world physically identical to ours would require the same quantum outcome distributions, which under the Map's framework require conscious biasing. The zombie argument is a ladder that, once climbed, the full framework kicks away — not because the argument was wrong, but because it succeeded in establishing the dualism that makes bidirectional interaction possible.
+
+This ordering invites an objection: if the completed framework makes physically-identical zombies impossible, has the Map not produced a clearly-conceivable-yet-impossible case — the very thing Step 2 denies — rescuable only by the a-posteriori-impossibility move rejected as special pleading above? The bind dissolves once two modalities are kept apart. Tenet 3 introduces a *nomological* impossibility: physically-identical zombies violate the Map's laws of psychophysical coupling, the regularities by which consciousness biases quantum outcomes. The zombie argument trades in *metaphysical* modality: whether a world lacking consciousness is possible in the broadest sense, independent of any world's contingent laws. The two are compatible. Zombies remain metaphysically possible — Step 2 holds and physicalism is false — while being nomologically impossible under the Map's completed framework, just as a world where a dropped object falls upward is metaphysically possible yet nomologically impossible given actual physics. No a-posteriori collapse of the conceivability is needed, because the framework does not claim the zombie world is *metaphysically* impossible; it claims only that the Map's laws exclude it. That is a weaker and different claim than the Type-B physicalist needs, and it carries no commitment to the water/H₂O treatment rejected above.
 
 ### Occam's Razor
 
