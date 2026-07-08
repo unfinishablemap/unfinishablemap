@@ -207,6 +207,7 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 - [[common-cause-null]] — parent discipline supplying the despite-commitments / because-prediction split; [[voids-circularity-discount]] — its cluster-level application; [[evidential-status-discipline]] — the single-claim calibration layer; [[apophatic-cartography-four-criteria]] — the four scoring criteria
 - [[cross-review-2026-05-15-introspection-architecture-cluster-audit]] — the audit that named the cluster
 - [[topics/cross-species-behavioural-confidence-proxy-tests]] — proxy-test design audit decomposing the cross-species channel; [[topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]] — per-tradition Neoplatonist discount; [[topics/pupillometry-behavioural-channel]] — autonomic third-person verification; [[topics/indian-philosophy-of-mind]] — frame for the Advaita material
+- [[alexithymia]] — the emotional-introspection patient-population exhibit whose access-layer divergence feeds this channel
 
 ## References
 

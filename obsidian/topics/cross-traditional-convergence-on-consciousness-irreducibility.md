@@ -178,6 +178,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]—that
 - [[islamic-sufi-philosophy-of-consciousness]]
 - [[african-philosophy-of-consciousness]]
 - [[indigenous-australian-philosophy-of-consciousness]]
+- [[alexithymia]] — the emotional-introspection member of the anomalous-architecture patient-population test
 
 ## References
 

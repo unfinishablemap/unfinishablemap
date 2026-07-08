@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T02:11:48+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Alexithymia (concepts/)
+- **Output**: [[concepts/alexithymia]]
+- **Word count**: 1841
+- **Based on research**: yes — [[research/alexithymia-phenomenal-divergence-2026-07-08]]
+- **Notes**: Third member of the phenomenal-divergence cluster (emotional/interoceptive). Foregrounds the access-layer relocation (2020s meta-analyses: no objective interoceptive-accuracy deficit, only subjective sensibility) as a common-cause-null sharpener; present-but-inaccessible vs absent left unresolved. Meta-analytic cite web-verified & pinned to Van Bael et al. 2024 PLOS ONE 19(11):e0310411. Reciprocal inbound links wired from emotion-and-dualism, somatic-interface, common-cause-null, cross-traditional-convergence..., interoceptive-void, introspection-architecture-independence-scoring.
+
 ## 2026-07-08T01:53:34+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/functionalism]]

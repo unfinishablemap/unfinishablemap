@@ -173,6 +173,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [[pain-consciousness-and-causal-power]] — The inseparability of pain's phenomenal character and causal power
 - [[epistemic-emotions]] — Feelings directed at knowledge: curiosity, doubt, insight
 - [[valence-void]] — Why the evaluative dimension of experience resists all explanation
+- [[alexithymia]] — The emotional member of the phenomenal-divergence cluster: difficulty identifying and describing feelings as a report-layer, not sensor-layer, divergence
 - [[emotional-epistemology-void]] — Whether emotions constitute genuine knowledge about reality
 - [[affective-void]] — Emotions beyond human phenomenological reach
 - [[self-opacity|introspective opacity]] — The broader phenomenon of hidden cognitive processes
