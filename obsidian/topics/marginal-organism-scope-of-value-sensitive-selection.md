@@ -4,7 +4,7 @@ description: "Where does valence-denominated conscious selection bottom out—ra
 created: 2026-06-05
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-07-08T10:25:25+00:00
+ai_modified: 2026-07-08T10:34:46+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -65,7 +65,7 @@ The acellular slime mould *Physarum polycephalum*—a single giant multinucleate
 
 The slime mould forces a clean disjunction. *Either* valenced-looking behaviour can be produced by wholly value-blind, mechanistic processes—in which case approach/avoidance is **not** a reliable marker of value-sensitive selection anywhere, weakening the inference up the whole ladder—*or* the Map must extend conscious value-sensitive selection to a brainless cell, which strains the framework past any specified interface. The Map should take the first horn: *Physarum* is best read as a demonstration that valence-*like* behaviour underdetermines value-*sensitive selection*. This is the most defensible reading and it cuts against over-attribution.
 
-Between *Hydra*'s diffuse net and *Physarum*'s single cell sits a rung this ladder skips: the **multicellular, non-neural** case. [[plant-cognition-and-the-plant-neurobiology-debate|Plants]] fill it—many-celled organisms that count (the Venus flytrap's action-potential tally), hold short-term electrical memory, and run systemic wound signalling, all without neurons, yet with even less claim to experience than the slime mould. They press the same disjunction from richer behavioural territory: more sophisticated non-neural processing, still no evidence of felt value.
+Between *Hydra*'s diffuse net and *Physarum*'s single cell sits a rung this ladder skips: the **multicellular, non-neural** case. [[plant-cognition-and-the-plant-neurobiology-debate|Plants]] fill it—many-celled organisms that count (the Venus flytrap's action-potential tally), hold short-term electrical memory, and run systemic wound signalling, all without neurons, yet with even less claim to experience than the slime mould. They press the same disjunction from richer behavioural territory: more sophisticated non-neural processing, still no evidence of felt value. And [[basal-and-bioelectric-cognition|Levin's bioelectric programme]] presses it from the opposite side—flatworm voltage memory and self-replicating xenobots supply engineering-grade *agency* whose *experience* even the principal investigator declines to assert, hardening the case that goal-directed behaviour is no reliable marker of value-sensitive selection.
 
 ## What Each Test Removes
 

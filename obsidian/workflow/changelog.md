@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T10:34:46+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Basal and bioelectric cognition — Levin's morphogenetic agency and xenobots
+- **Output**: [[topics/basal-and-bioelectric-cognition]]
+- **Word count**: 1927
+- **Based on research**: yes, [[research/basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08]]
+
 ## 2026-07-08T10:25:25+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Plant cognition and the plant-neurobiology debate
