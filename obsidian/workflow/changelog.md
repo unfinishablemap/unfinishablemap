@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T22:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Cognitive Immune System and Immunological Selfhood
+- **Output**: [[research/the-cognitive-immune-system-and-immunological-selfhood-2026-07-08]]
+- **Sources consulted**: 8 (all citations web-verified at publisher of record / NASA ADS / PubMed)
+
 ## 2026-07-08T22:25:53+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Brain Organoids and the Organoid-Intelligence Question
