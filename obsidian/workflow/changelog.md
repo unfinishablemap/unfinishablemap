@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T06:16:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-variation-within-a-species]]
+- **Task**: Reconcile the alexithymia 5th-class integration flagged by pessimistic-2026-07-08 (four→five upgrade weakened the convergence-parsimony argument). Precision reconcile, no material lengthening.
+- **Resolution path**: Chose Option B (keep five empirically-independent divergence CLASSES; restate parsimony argument in terms of a smaller number of absorption FAMILIES) — because prose at lines 114/130 already commits alexithymia to source-attribution's access-side move, so claiming five distinct grain-shifts contradicted the article's own text.
+- **Changes**:
+  - Defect 1 (High): recast the parsimony argument in §"What the Wedge Does" and §"Why the Joint Package Matters" from "five different grain-shifts" to "~three absorption families" (multi-realizability / representational sub-individuation / a single access-side (metacognitive) re-description covering source-attribution + cognitive-phenomenology + alexithymia), with the honest cost being that even these few families must converge. §"What the Wedge Does Not Do" restated from "Four named absorption strategies" to "Three absorption families … alongside a cross-cutting dissolver"; the metacognitive strategy renamed "Access-side (metacognitive) re-description" and extended to cover alexithymia (3 of 5 classes); Schwitzgebel introspective-unreliability re-marked as the cross-cutting dissolver.
+  - Defect 2 (Medium-High): alexithymia's access-side classification made explicitly conditional on the present-but-inaccessible reading; under attenuation it collapses to functionalist covariance and does no wedge work.
+  - Defect 3 (Medium): common-cause-null "feeds" downgraded to "would feed, if confirmed" and flagged the convergence-vs-divergence tension (null-discharge needs convergence, wedge needs divergence — same population cannot straightforwardly serve both).
+  - Defect 4 (stale counts): line 122 "of the four" → "of the five"; line 134 "four classes" ×2 → "five".
+- **Count invariant after edit**: divergence CLASSES = 5 everywhere; absorption FAMILIES ≈ 3 + cross-cutting dissolver. apex_thesis five-domain frontmatter preserved; last_deep_review / apex_last_synthesis untouched.
+- **Published**: yes
+
 ## 2026-07-08T06:03:53+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `apex/phenomenal-variation-within-a-species.md` (adversarial-logical lens; scrutiny of the session's four→five class upgrade adding alexithymia)
