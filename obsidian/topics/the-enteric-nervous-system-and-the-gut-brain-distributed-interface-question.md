@@ -4,7 +4,7 @@ description: "The gut's ~500-million-neuron 'second brain' runs digestion withou
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T17:18:13+00:00
+ai_modified: 2026-07-08T22:56:14+00:00
 draft: false
 topics:
   - "[[basal-and-bioelectric-cognition]]"
@@ -78,6 +78,7 @@ This article bears primarily on **Tenet 3, [[tenets#^bidirectional-interaction|B
 - [[interoceptive-void]] — The structural opacity of the body's interior to the consciousness that occupies it
 - [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling, the backbone of reading (c)
 - [[plant-cognition-and-the-plant-neurobiology-debate]] — Information processing without a nervous system as another sub-personal-competence case
+- [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — Sponges and placozoans push the distributed-interface question to its limit: coordinated behaviour with no nervous system at all
 - [[pairing-problem]] — Why a mind is located where it causally interfaces
 - [[brain-interface-boundary]] — Why brains specifically serve as interfaces
 

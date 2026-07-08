@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T22:56:14+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition
+- **Output**: [[topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]]
+- **Word count**: 1979
+- **Based on research**: yes — [[research/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition-2026-07-08]]
+- **Citations**: 11 external (both quarantined cites #10/#11 web-verified at PubMed/PMC and included; #10 authorship corrected from note's "Conaco/Fahey" to Wong et al. 2019 Sci Rep 9:15781; #11 = Jin et al. 2024 Nat Commun 15:8626) + 2 self-citations
+- **Cross-links**: 5 outbound; 2 reciprocal inbound added (basal-and-bioelectric-cognition, enteric-nervous-system)
+
 ## 2026-07-08T22:40:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Cognitive Immune System and Immunological Selfhood
