@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-07-07T09:04:01+00:00
+ai_modified: 2026-07-08T01:53:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-06-20T09:23:42+00:00
+last_deep_review: 2026-07-08T01:53:34+00:00
 ---
 
 Functionalism is the leading account of the nature of mental states in contemporary [[philosophy-of-mind|philosophy of mind]]: the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
@@ -62,7 +62,7 @@ The key functionalist insight: the same mental state can be realized by differen
 
 In *Representation and Reality* (1988), Hilary Putnam argued that functionalism—which he himself had introduced in 1967—was fatally committed to an internalist conception of mental states that semantic externalism had discredited. If "meanings ain't in the head," no purely internal functional specification can capture what a mental state is.
 
-The argument's force is independent of its author. Two agents with identical internal functional organization can have different mental contents if their environments differ. In Putnam's Twin Earth case, the beliefs "water is wet" and "twater is wet" play identical internal functional roles yet refer to different substances. Functionalists have a live reply: roles can be individuated *widely*, folding environmental and causal-historical relations into the role itself (long-armed or wide functionalism). On that reading Oscar and Twin-Oscar do not share the relevant functional state after all, and externalism is absorbed rather than refuting. The Map's judgement is that this concedes too much to count as a rescue: wide individuation secures content only by importing the very external relations an *internal* specification was meant to capture, surrendering the substrate-neutral, internally-specifiable character that made functionalism attractive. It is narrow functional role—the version with substrate-neutral teeth—that underdetermines mental content.
+The argument's force is independent of its author. Two agents with identical internal functional organization can have different mental contents if their environments differ. In Putnam's Twin Earth case, the beliefs "water is wet" and "twater is wet" play identical internal functional roles yet refer to different substances. Functionalists have a live reply: roles can be individuated *widely*, folding environmental and causal-historical relations into the role itself (long-armed or wide functionalism). On that reading Oscar and Twin-Oscar do not share the relevant functional state after all, and the externalist challenge is absorbed rather than fatal. The Map's judgement is that this concedes too much to count as a rescue: wide individuation secures content only by importing the very external relations an *internal* specification was meant to capture, surrendering the substrate-neutral, internally-specifiable character that made functionalism attractive. It is narrow functional role—the version with substrate-neutral teeth—that underdetermines mental content.
 
 Putnam's own trajectory continued past rejecting functionalism toward "pragmatic realism," granting consciousness an ineliminable role in constituting the meaningful world (see [[pragmatisms-path-to-dualism|pragmatism's path to dualism]]). The Map reads this as one instance of [[concession-convergence]]—physicalist programmes independently retreating from positions unable to accommodate meaning, reference, or phenomenal character. This is a favoured interpretation, not one the data force: a committed physicalist can read Putnam's pragmatism as a course-correction *within* naturalism rather than a step toward dualism.
 
@@ -96,7 +96,7 @@ The deepest objection to functionalism concerns [[qualia]]—the qualitative cha
 
 If either is possible, functionalism is false: mental states have qualitative character not captured by functional role. The load-bearing step is the inference from *conceivability* to *metaphysical possibility*, which type-B physicalists contest—conceiving a zombie, they argue, no more establishes its possibility than conceiving water without H₂O establishes that water could lack it. The Map does not treat the inference as automatic; see [[arguments/functionalism-argument|Against Functionalism]] for where it is defended against the type-B response.
 
-The [[phenomenology-vs-function-axis|phenomenology-vs-function axis]] supplies empirical complements—aphantasic mental rotation, Wager's synaesthetic "extra qualia," Strawson's foreign-language case, and Wegner's I-Spy paradigm—where phenomenology and function come apart in documented rather than merely conceivable conditions. Functionalists can absorb any individual case via multi-realizability—positing a hidden functional difference that carries the phenomenal one. What resists piecemeal absorption is the structural feature the cases share: each is a paradigm in which function is *held matched by design*, yet a phenomenal difference survives anyway. The individual escape must therefore invent a distinct functional difference for each domain, ad hoc, precisely where the experimental control was meant to fix function. The recurrence is not a coincidence of unrelated escapes but the same residue—phenomenology varying under controlled functional equivalence—appearing across independent modalities: one pattern with multiple instances, not multiple problems. Its evidential weight lies in the shared structure, not the headcount.
+The [[phenomenology-vs-function-axis|phenomenology-vs-function axis]] supplies empirical complements—aphantasic mental rotation, Wager's synaesthetic "extra qualia," Strawson's foreign-language case, and Wegner's I-Spy paradigm—where phenomenology and function come apart in documented rather than merely conceivable conditions. Functionalists can absorb any individual case via multi-realizability—positing a hidden functional difference that carries the phenomenal one. What resists piecemeal absorption is the structural feature the cases share: each is a paradigm in which function is *held matched by design*, yet a phenomenal difference survives anyway. The escape must therefore invent a distinct functional difference for each domain, ad hoc, precisely where the experimental control was meant to fix function—the same residue (phenomenology varying under controlled functional equivalence) recurring across independent modalities, one pattern rather than many unrelated problems. Its evidential weight lies in that shared structure, not the headcount.
 
 ### The Illusionist Response
 

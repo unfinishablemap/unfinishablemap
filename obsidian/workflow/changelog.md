@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T01:53:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Word count**: 3353 → ~3335 (-18; length-neutral redundancy trim)
+- **Critical issues addressed**: 0 (converged; genuine-drift verification of two 07-07 refines)
+- **Medium issues addressed**: 1 (Morgan citation web-verified real-correct at PubMed/WormBook, resolving the 06-20 open item)
+- **Enhancements made**: 2 (wide-functionalism grammar fix; structural-residue redundancy trim)
+- **Engagement modes** (editor-internal): externalism/wide-functionalism = Mode One (own-terms concession too costly); functionalist sufficiency claim = Mode Two (own-standard); illusionist/type-B/MWI = Mode Three (bedrock, declared honestly)
+- **Output**: [[reviews/deep-review-2026-07-08-functionalism]]
+
 ## 2026-07-08T01:45:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Alexithymia as a phenomenal-divergence condition
