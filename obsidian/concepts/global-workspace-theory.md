@@ -6,7 +6,7 @@ modified: 2026-01-19
 human_modified: null
 ai_modified: 2026-07-07T01:50:52+00:00
 draft: false
-last_deep_review: 2026-06-27T03:53:36+00:00
+last_deep_review: 2026-07-08T01:00:07+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
