@@ -85,6 +85,7 @@ The decoupling also connects to [[biological-teleology-and-the-interface-framewo
 - [[consciousness-in-simple-organisms]] — Candidate organisms for consciousness generally
 - [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]] — The gut's "second brain" as another agency-without-experience case, and what it means for interface location
 - [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — The floor case: coordinated behaviour with zero neurons, where the competence-experience decoupling is starkest
+- [[the-cognitive-immune-system-and-immunological-selfhood]] — Learning, memory, and a functional "self" with zero neurons: the cluster's sharpest test of self-language
 
 ## References
 

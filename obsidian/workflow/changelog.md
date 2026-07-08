@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T23:22:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Cognitive Immune System and Immunological Selfhood
+- **Output**: [[topics/the-cognitive-immune-system-and-immunological-selfhood]]
+- **Word count**: 1890
+- **Based on research**: yes, [[research/the-cognitive-immune-system-and-immunological-selfhood-2026-07-08]]
+- **Citations**: Cohen 1992 (Immunol. Today 13(12):490-494); Cohen 2000 (Tending Adam's Garden); Tauber 1994 book + Immunol. Today 15(3):134-136; Matzinger 2002 (Science 296(5566):301-305); Burnet 1957 clonal selection; SEP Philosophy of Immunology. Whittingham & Mackay 1971 OMITTED (could not verify as homunculus antecedent; 1971 paper found is on pemphigus/thymus).
+- **Cross-links**: outbound to basal-and-bioelectric-cognition, plant-cognition, enteric-nervous-system, biological-teleology, somatic-interface, neuron-less-animals. Reciprocal inbound added from basal + enteric Further Reading.
+
 ## 2026-07-08T23:16:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-musical-understanding]]
