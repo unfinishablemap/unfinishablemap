@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T16:30:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/source-versus-leeway-incompatibilism]]
+- **Type**: cross-review (argument lens) of fresh 2026-07-09 create
+- **Word count**: 1911 → 1911 (no change; single-word metadata fix)
+- **Critical issues addressed**: 1 (citation metadata: SEP "Arguments for Incompatibilism" is single-authored by Vihvelin — removed false "et al.")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 7 (5 books + 2 SEP entries) at publisher of record; 6 real-correct, 1 real-wrong-metadata fixed; no fabricated DOIs
+- **Integration**: 4 reciprocal inbound links (consequence=leeway, manipulation=source, frankfurt=pivot, moral-responsibility=control/source) confirmed resolving and accurate
+- **Engagement modes**: Fischer semicompatibilism — Mode Three, granted as genuine rival not defeated; Pereboom luck objection — boundary-marked as plausibility judgement not proof. No label leakage.
+- **Output**: [[reviews/deep-review-2026-07-09-source-versus-leeway-incompatibilism]]
+
 ## 2026-07-09T16:17:28+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Source versus Leeway Incompatibilism

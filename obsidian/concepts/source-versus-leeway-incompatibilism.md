@@ -4,7 +4,7 @@ description: "Leeway incompatibilism requires alternative possibilities; source 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T16:17:28+00:00
+ai_modified: 2026-07-09T16:30:53+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -22,6 +22,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
+last_deep_review: 2026-07-09T16:30:53+00:00
 ---
 
 **Source versus leeway incompatibilism** is the taxonomy that divides the incompatibilist half of the free-will debate into two families, according to *what free will is taken to require*. **Leeway incompatibilism** holds that free will and moral responsibility require *alternative possibilities*—the ability to do otherwise, genuine open options—so that determinism threatens freedom by closing off the alternatives. **Source incompatibilism** holds that what matters is being the *ultimate source* or origin of one's action—an actual-sequence property—so that determinism threatens responsibility even if it should turn out that alternatives are not required at all. The distinction is neutral, shared machinery of the whole debate: it is a claim about the *structure* of the freedom condition, and by itself it carries no commitment to dualism, to determinism, or to any particular metaphysics. Compatibilists divide along the same seam. Understanding where an argument sits on this map is the first step to seeing what it can and cannot deliver—and, for the Map, where its own libertarianism is located among the options rather than proved by them.
@@ -100,7 +101,7 @@ The honest summary is that the taxonomy tells the Map *what kind* of freedom con
 1. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford: Oxford University Press. ISBN 9780199685516.
 1. Fischer, J. M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge: Cambridge University Press. ISBN 9780521775793.
 1. McKenna, M., & Pereboom, D. (2016). *Free Will: A Contemporary Introduction*. New York: Routledge. ISBN 9780415996877.
-1. Vihvelin, K. et al. "Arguments for Incompatibilism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-arguments/
+1. Vihvelin, K. "Arguments for Incompatibilism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-arguments/
 1. McKenna, M., & Coates, D. J. "Compatibilism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/compatibilism/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). Frankfurt Cases and the Principle of Alternate Possibilities. *The Unfinishable Map*. https://unfinishablemap.org/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). The Manipulation Argument and Hard Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-manipulation-argument-and-hard-incompatibilism/
