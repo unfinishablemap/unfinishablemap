@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-06-15T19:24:23+00:00
+last_deep_review: 2026-07-09T10:56:51+00:00
 ---
 
 The combination problem does more than embarrass panpsychism. It reveals something deep about the nature of subjectivity: consciousness resists composition. If billions of micro-experiences cannot intelligibly combine into a unified mind, the problem is not merely that panpsychists lack the right mechanism. The problem is that subjectivity—the having of a perspective, the being of a "someone"—may be the sort of thing that cannot be assembled from parts at all. The Unfinishable Map takes this lesson seriously. Where panpsychism and physicalism both attempt to build consciousness from constituents, the Map treats it as ontologically distinct—something that interacts with matter rather than arising from it.
