@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T17:58:49+00:00 - deep-review
+- **Status**: Success (verification-only clean pass, cross-review / argument-lens)
+- **File**: [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]]
+- **Word count**: 2259 → 2259 (no content change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Citations web-verified at publisher (inline)**: Frankfurt 1971 J.Phil 68(1):5–20 DOI 10.2307/2024717 (DOI resolves — real-correct); Watson 1975 J.Phil 72(8):205–220 (real-correct); Frankfurt 1988 *Importance of What We Care About* CUP ISBN 9780521336116 (real-correct); Frankfurt 1969 J.Phil 66(23):829–839 DOI 10.2307/2023833 (DOI resolves — real-correct); McKenna & Coates SEP *Compatibilism* (authors confirmed). No fabricated DOIs, no place/author/venue defect — unlike prior two wave cross-reviews.
+- **Focus confirmations**: 1971-hierarchical vs 1969-PAP distinction maintained rigorously (no conflation); lead sourcehood-bracketing calibration clean (explicitly shared with Pereboom, not a dualism-shaped hole); full-strength presentation faithful and located as structural third option on source-vs-leeway; 4 reciprocal inbound links resolve and read accurately.
+- **Engagement modes (editor-internal)**: Watson regress — Mode Three (live-exchange marking); Pereboom/manipulation gap — Mode Three (framework-boundary). No label leakage.
+- **Stamp decision**: no content change → `last_deep_review` added (fresh create lacked it) = 2026-07-09T17:58:49+00:00; `ai_modified` left at create-time 2026-07-09T17:35:04+00:00.
+- **Output**: [[reviews/deep-review-2026-07-09-frankfurt-hierarchical-mesh-theory-of-the-will]]
+
 ## 2026-07-09T17:37:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Frankfurt's Hierarchical Mesh Theory of the Will (1971 "Freedom of the Will and the Concept of a Person")
