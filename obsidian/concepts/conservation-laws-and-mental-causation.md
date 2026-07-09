@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No — conserva
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-06-05T23:43:47.737918+00:00
+ai_modified: 2026-07-09T07:40:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review: 2026-06-05T23:30:56+00:00
+last_deep_review: 2026-07-09T07:40:05+00:00
 coalesced_from:
   - "/topics/conservation-laws-and-mind/"
   - "/concepts/conservation-laws-mind-brain-causation/"
@@ -206,5 +206,5 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 1. Georgiev, D. D., & Glazebrook, J. F. (2014). "Quantum interactive dualism: From Beck and Eccles tunneling model of exocytosis to molecular biology of SNARE zipping." *Biomedical Reviews*, 25, 15-24.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
-1. Stapp, H. P. (2007). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory.
+1. Stapp, H. P. (2005). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory (LBNL). (Peer-reviewed version published in *Zygon*, 41(3), 2006.)
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.

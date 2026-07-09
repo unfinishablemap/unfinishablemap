@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T07:40:05+00:00 - deep-review (converged legacy, citation web-verify)
+- **Status**: Success
+- **File**: [[concepts/conservation-laws-and-mental-causation]]
+- **Word count**: 3304 → 3311 (+7, Stapp cite year fix + Zygon verifiability note)
+- **Critical issues addressed**: 1 (Stapp 2007→2005 wrong-year metadata, publisher-verified against LBNL/eScholarship 2005 report; survived 2026-05-27 "full web-verify" + 5 clean reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-damped)
+- **Citation web-verify**: all 10 References checked at publisher of record INLINE (no subagent) — 9 real-correct, 1 real-wrong-metadata fixed. Ledger in review file.
+- **Currency sweep**: zero superlatives flagged; Tegmark/Hagan decoherence figures + Beck-Eccles disconfirmation stable, no drift.
+- **Archival link-rot**: none — all wikilinks resolve to live targets.
+- **Stamps**: content fix → ai_modified AND last_deep_review both set to 2026-07-09T07:40:05+00:00 (≤ real date).
+- **Output**: [[reviews/deep-review-2026-07-09-conservation-laws-and-mental-causation]]
+
 ## 2026-07-09T07:26:25+00:00 - deep-review (cross-review, fresh-create defect-tail)
 - **Status**: Success
 - **File**: [[topics/the-aesthetics-of-nature-and-natural-beauty]]
