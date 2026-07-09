@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T17:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ai-hardware-substrate-taxonomy]]
+- **Mode**: Cycle-slot deep-review of genuine post-review drift (same-day conditional-wetware refine + 2026-07-08 Hartung→Smirnova citation correction, both postdating the only prior review)
+- **Word count**: 3026 → 3026 (+0; no-op, soft_warning under hard, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (clean convergence; well-calibrated, no possibility/probability slippage)
+- **Citations**: Smirnova et al. 2023 (Frontiers in Science 1:1017235) real-correct — Hartung→Smirnova correction verified faithful; Milinkovic & Aru 2026 (NBR 181:106524) real-correct; 5 prior-verified cites unchanged. No fabricated/superseded cites.
+- **Stamp**: last_deep_review bumped to 2026-07-09T17:10:00+00:00; ai_modified left at 2026-07-08T23:07 (no body change)
+- **Output**: [[reviews/deep-review-2026-07-09-ai-hardware-substrate-taxonomy]]
+
 ## 2026-07-09T16:52:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/reactive-attitudes-and-strawsonian-responsibility]]
