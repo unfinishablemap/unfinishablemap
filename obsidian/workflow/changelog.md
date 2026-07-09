@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T09:04:20+00:00 - deep-review (converged flagship hub, full citation web-verify)
+- **Status**: Success
+- **File**: [[concepts/mind-matter-interface]]
+- **Word count**: 2519 → 2519 (no content edit; verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (ninth review, convergence-damped no-op)
+- **Citation web-verify**: all 14 References checked at publisher of record INLINE (no subagent) — all 14 real-correct. Stapp 2007 *Mindful Universe* disambiguated by title (legit Springer 2007, NOT the 2005 LBNL paper — no blind correction). Reimers 2009 PNAS, McKemmish 2009 PRE, Schwartz 1996 Arch Gen Psych, Khan/Wiest 2024 eNeuro, Tallis 2024 Philosophy Now all confirmed. Per-cite ledger in review file.
+- **Currency sweep**: no superlatives; categorical/negative claims (avian magnetoreception, decoherence-timescale dispute) still current.
+- **Archival-link-rot check**: one delta since 8th review — coalesce repointed [[channel-width-third-axis]]→[[dualism-channel-width-axis]]; verified live successor, no rot. All 25 wikilinks live.
+- **Frontmatter**: last_deep_review → 2026-07-09T09:04:20+00:00; ai_modified NOT bumped (verification-only).
+- **Output**: [[reviews/deep-review-2026-07-09-mind-matter-interface]]
+
 ## 2026-07-09T07:40:05+00:00 - deep-review (converged legacy, citation web-verify)
 - **Status**: Success
 - **File**: [[concepts/conservation-laws-and-mental-causation]]

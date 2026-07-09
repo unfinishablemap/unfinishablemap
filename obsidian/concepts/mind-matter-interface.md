@@ -37,7 +37,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-06-05T22:44:25+00:00
+last_deep_review: 2026-07-09T09:04:20+00:00
 ---
 
 The Unfinishable Map employs two major frameworks for understanding consciousness's relationship to the physical world: [[filter-theory|filter theory]] (James, Bergson, Huxley) and [[quantum-consciousness|quantum selection mechanisms]] (Stapp, Penrose-Hameroff). These might appear to be separate explanatory strategies—even incompatible ones. Filter theory treats consciousness as something the brain *receives* or *transmits*; quantum selection treats consciousness as something that *acts* on quantum outcomes. One is about correlation without production; the other is about causal efficacy.
