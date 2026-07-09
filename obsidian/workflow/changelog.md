@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T23:47:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/disconnection-neuroscience]]
+- **Mode**: owed publisher-of-record citation web-verify (opus-4-7 cohort; both prior reviews did intra-corpus/frontmatter attribution only) + convergence pass
+- **Word count**: 1808 → 1808 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only)
+- **Citations**: 6 external neuroscience References web-verified at publisher of record — ALL real-correct, none previously publisher-checked. Geschwind 1965 *Brain* 88:237–294/585–644 (two-part, DOI 10.1093/brain/88.2.237); Dejerine 1892 *Mém. Soc. Biol.* 4:61–90 (title/venue/vol/pages EXACT); Catani & ffytche 2005 *Brain* 128:2224–2239; Sperry 1968 *Am. Psychol.* 23:723–733; Gazzaniga 2005 *Nat. Rev. Neurosci.* 6:653–659 (nrn1740); Schmahmann & Pandya 2006 *Fiber Pathways of the Brain* OUP. No metadata defects, no fabrication, no orphan refs. No superlative/currency exposure. No in-body author quotes.
+- **Stamp**: `last_deep_review` bumped only (2026-07-09T23:47:00+00:00); `ai_modified` left at 2026-06-05 (no body change). Calibration (two-layer established/live-hypothesis discipline) confirmed clean. Tenets 1/3.
+- **Output**: [[reviews/deep-review-2026-07-09-disconnection-neuroscience]]
+
 ## 2026-07-09T23:34:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/wavefunction-realism-vs-primitive-ontology]]

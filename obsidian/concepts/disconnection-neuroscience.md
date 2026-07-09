@@ -5,7 +5,7 @@ created: 2026-05-19
 modified: 2026-05-19
 human_modified:
 ai_modified: 2026-06-05T00:30:00+00:00
-last_deep_review: 2026-06-05T00:30:00+00:00
+last_deep_review: 2026-07-09T23:47:00+00:00
 draft: false
 topics:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
