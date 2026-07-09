@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T18:34:00+00:00 - deep-review
+- **Status**: Success (citation-verification clean pass; no-op content)
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Why reviewed**: genuine post-review drift — 5 refine-draft commits (incl. a 2020s citation refresh) landed 2026-06-26/27 after the 2026-06-19 review; §2.4 verify pass mandatory
+- **Word count**: 3999 → 3999 (no change; at topics/ hard threshold, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: Fendel 2025, Benedetti 2003, Zunhammer 2021, Smoulder 2021, Smoulder 2024, Hróbjartsson & Gøtzsche 2010 — all real-correct at publisher of record; no fabrications, no metadata errors, no orphans, no superlative-currency issues
+- **Stamp decision**: bumped last_deep_review only (2026-07-09T18:34:00+00:00, ≤ real clock); ai_modified left at 2026-06-27 (no content change)
+- **Output**: [[reviews/deep-review-2026-07-09-empirical-phenomena-mental-causation]]
+
 ## 2026-07-09T18:22:41+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Event-Causal Libertarianism and the Taxonomy of Libertarian Free Will
