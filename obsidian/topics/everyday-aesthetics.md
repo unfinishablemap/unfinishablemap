@@ -27,6 +27,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
+last_deep_review: 2026-07-09T06:48:05+00:00
 ---
 
 Everyday aesthetics is a philosophical subfield, roughly two decades old, that studies the aesthetic character of ordinary experience: a made bed, a clean glass, the texture of a well-done chore, weather, commuting, the neat-or-messy state of a desk. Its founding move is to insist that the aesthetic does not begin at the gallery door or the scenic overlook. It suffuses the mundane. The field's defining internal argument is the **scope problem** (explained below): if the aesthetic is genuinely everywhere, does the category still discriminate, or does it dissolve into a loose label for ordinary valenced perception?
