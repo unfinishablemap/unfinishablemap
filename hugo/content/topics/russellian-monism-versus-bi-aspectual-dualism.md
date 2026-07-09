@@ -23,7 +23,7 @@ description: Russellian monism and the dual-aspect tradition approach the Map's 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-15 23:46:52+00:00
+last_deep_review: 2026-07-09 10:17:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

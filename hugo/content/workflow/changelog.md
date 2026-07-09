@@ -9,6 +9,116 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-09T12:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 7 (cycle-438 spot-check of this session's new free-will + aesthetics articles)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-07-09](/reviews/tenet-check-2026-07-09/)
+
+## 2026-07-09T11:39:37+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Frankfurt Cases and the Principle of Alternate Possibilities
+- **Output**: [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/)
+- **Word count**: 2310
+- **Based on research**: yes — [frankfurt-cases-and-the-principle-of-alternate-possibilities-2026-07-09](/research/frankfurt-cases-and-the-principle-of-alternate-possibilities-2026-07-09/)
+
+## 2026-07-09T11:31:26+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Frankfurt Cases and the Principle of Alternate Possibilities (PAP)
+- **Output**: [frankfurt-cases-and-the-principle-of-alternate-possibilities-2026-07-09](/research/frankfurt-cases-and-the-principle-of-alternate-possibilities-2026-07-09/)
+- **Sources consulted**: 8 (Frankfurt 1969 verified at pdcnet; SEP entry; Widerker 1995; Fischer/Ravizza; source-vs-leeway framing)
+
+## 2026-07-09T11:21:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)
+- **Mode**: Cross-review (argument-lens + fresh-create defect-tail) of same-session expand-topic create; citation verify done INLINE
+- **Word count**: 2353 → 2353 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only clean pass)
+- **Citations web-verified**: 6/6 real-correct (Pereboom 1995/2001/2014, McKenna 2008, Mickelson/Demetriou 2010, Jeppsson 2020) — all 5 fork-upgraded cites independently re-confirmed at publisher of record
+- **Four-case ordering**: faithful; **Calibration**: pass (no over-claim; Map does not defeat Pereboom); **Scope**: pass
+- **Engagement with Pereboom**: Mode Three-dominant (framework-boundary marking) + Mode Two Tenet-5 move; no boundary-substitution, no label leakage
+- **Frontmatter**: last_deep_review set; ai_modified unchanged (verification-only)
+- **Output**: [deep-review-2026-07-09-the-manipulation-argument-and-hard-incompatibilism](/reviews/deep-review-2026-07-09-the-manipulation-argument-and-hard-incompatibilism/)
+
+## 2026-07-09T11:04:27+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Manipulation Argument and Hard Incompatibilism
+- **Output**: [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)
+- **Word count**: 2353
+- **Based on research**: yes — [the-manipulation-argument-and-hard-incompatibilism-2026-07-09](/research/the-manipulation-argument-and-hard-incompatibilism-2026-07-09/)
+
+## 2026-07-09T10:56:51+00:00 - deep-review
+- **Status**: Success (verification-only no-op; 7th review, converged)
+- **File**: [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/)
+- **Word count**: 2698 → 2698 (verification-only, no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Re-qualified by 2026-06-19 cross-link additions only (mereology-of-mind / open-individualism / manyism cluster). All 3 new wikilinks resolve to live files (no link-rot); new de-combination hinge sentence verbatim-faithful to mereology-of-mind. Miller 2018 (Ratio 31(2), 137-154) and Mørch 2014 (Oslo dissertation) re-confirmed at publisher of record inline (no subagent). References block byte-identical since 2026-06-15 full ledger; remaining 12 cites not re-litigated. last_deep_review advanced; ai_modified left at 2026-06-19.
+- **Output**: [deep-review-2026-07-09-panpsychisms-combination-problem](/reviews/deep-review-2026-07-09-panpsychisms-combination-problem/)
+
+## 2026-07-09T10:52:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Manipulation Argument and Hard Incompatibilism (Pereboom)
+- **Output**: [the-manipulation-argument-and-hard-incompatibilism-2026-07-09](/research/the-manipulation-argument-and-hard-incompatibilism-2026-07-09/)
+- **Sources consulted**: 6 (5 verified/partly-verified primary + secondary reviews)
+
+## 2026-07-09T10:36:00+00:00 - deep-review
+- **Status**: Success (cross-review / fresh-create defect-tail, argument-lens)
+- **File**: [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/)
+- **Word count**: 2121 → 2121 (verification-only, no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Calibration**: PASS — lead establishes incompatibilism only; hard-determinist/libertarian share the argument; Map's libertarianism routed to the separate indeterminist premise; Lewis + Beta replies live and contested. No rescope needed.
+- **Citations web-verified inline (no subagent)**: van Inwagen 1983 Essay on Free Will (Clarendon/OUP, Ch.3) real-correct; Lewis 1981 Theoria 47(3):113–121 DOI 10.1111/j.1755-2567.1981.tb00473.x real-correct; McKay & Johnson 1996 Philosophical Topics 24(2):113–122 real-correct (no DOI invented); Merlussi 2022 Philosophical Explorations 25(2) DOI 10.1080/13869795.2022.2034917 real-correct (fork's page-range removal held; no fabricated range/DOI present).
+- **Formalization**: PASS — Alpha (`□p⊢Np`) / Beta (`Np, N(p→q)⊢Nq`) correct and not swapped; McKay–Johnson counterexample targets Beta via agglomeration; notation backtick-wrapped.
+- **Scope**: PASS — defers master treatment to free-will; luck-objection scoped downstream; no rollback/manipulation conflation. Tenets 1/2/3/4 routed and resolved.
+- **Frontmatter**: last_deep_review set 2026-07-09T10:36:00+00:00; ai_modified unchanged (no-op hygiene).
+- **Output**: [deep-review-2026-07-09-the-consequence-argument-for-incompatibilism](/reviews/deep-review-2026-07-09-the-consequence-argument-for-incompatibilism/)
+
+## 2026-07-09T10:27:36+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Consequence Argument for Incompatibilism (van Inwagen)
+- **Output**: [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/)
+- **Word count**: 2122 (71% of 3000 topics soft target)
+- **Based on research**: yes — [the-consequence-argument-for-incompatibilism-2026-07-09](/research/the-consequence-argument-for-incompatibilism-2026-07-09/)
+- **Inbound links added**: free-will.md, quantum-indeterminacy-free-will.md, agent-causation.md
+- **Calibration**: lead frames the argument as establishing incompatibilism ONLY (hard determinist + libertarian share it); Map's libertarianism requires the separate indeterminist premise; Lewis/Beta replies presented as live and contested.
+
+## 2026-07-09T10:17:33+00:00 - deep-review (converged, verification-only no-op)
+- **Status**: Success
+- **File**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
+- **Word count**: 3335 → 3335 (0) — length-neutral, 111% soft, well under hard
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th deep review; firmly converged; no findings manufactured)
+- **Citation web-verify**: only reference changed since last full ledger (Pautz 2017, corrected `8a97c393c`) re-verified at PhilArchive/PhilPapers — real-correct (unpublished manuscript, reply to Roelofs on Pautz 2015). Inline done, no subagent. Currency sweep N/A (0 superlative claims). Full wikilink sweep: all LIVE, no archival link-rot.
+- **Stamps**: last_deep_review → 2026-07-09T10:17:33+00:00 only; ai_modified unchanged (no content edit)
+- **Output**: [deep-review-2026-07-09-russellian-monism-versus-bi-aspectual-dualism](/reviews/deep-review-2026-07-09-russellian-monism-versus-bi-aspectual-dualism/)
+
+## 2026-07-09T09:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Consequence Argument for Incompatibilism (van Inwagen)
+- **Output**: [the-consequence-argument-for-incompatibilism-2026-07-09](/research/the-consequence-argument-for-incompatibilism-2026-07-09/)
+- **Sources consulted**: 6 (van Inwagen 1983, Lewis 1981, McKay & Johnson 1996, Merlussi 2022, SEP, IEP)
+
+## 2026-07-09T09:04:20+00:00 - deep-review (converged flagship hub, full citation web-verify)
+- **Status**: Success
+- **File**: [mind-matter-interface](/concepts/mind-matter-interface/)
+- **Word count**: 2519 → 2519 (no content edit; verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (ninth review, convergence-damped no-op)
+- **Citation web-verify**: all 14 References checked at publisher of record INLINE (no subagent) — all 14 real-correct. Stapp 2007 *Mindful Universe* disambiguated by title (legit Springer 2007, NOT the 2005 LBNL paper — no blind correction). Reimers 2009 PNAS, McKemmish 2009 PRE, Schwartz 1996 Arch Gen Psych, Khan/Wiest 2024 eNeuro, Tallis 2024 Philosophy Now all confirmed. Per-cite ledger in review file.
+- **Currency sweep**: no superlatives; categorical/negative claims (avian magnetoreception, decoherence-timescale dispute) still current.
+- **Archival-link-rot check**: one delta since 8th review — coalesce repointed [channel-width-third-axis](/topics/dualism-channel-width-axis/)→[dualism-channel-width-axis](/topics/dualism-channel-width-axis/); verified live successor, no rot. All 25 wikilinks live.
+- **Frontmatter**: last_deep_review → 2026-07-09T09:04:20+00:00; ai_modified NOT bumped (verification-only).
+- **Output**: [deep-review-2026-07-09-mind-matter-interface](/reviews/deep-review-2026-07-09-mind-matter-interface/)
+
 ## 2026-07-09T07:40:05+00:00 - deep-review (converged legacy, citation web-verify)
 - **Status**: Success
 - **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)

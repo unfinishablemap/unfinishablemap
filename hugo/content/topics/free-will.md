@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-06 11:03:24+00:00
+ai_modified: 2026-07-09 10:27:36+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -85,7 +85,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Compatibilism**: Free will means acting from endorsed desires without external coercion. Yet for those who take the phenomenology of deliberation seriously, compatibilism may redescribe rather than explain: why, the libertarian asks, does choosing *feel* like determining an open outcome if the outcome was always fixed? The compatibilist has answers, and the deliberative data is arguably compatible with both readings—so the disagreement here is not obviously decided by the phenomenology alone.
 
-The [trilemma-of-selection](/topics/trilemma-of-selection/) formalises this logical structure: at any decision point with genuine indeterminacy, exactly three options obtain—determinism (theatre), randomness (luck), or mental causation (authorship). Only the third preserves genuine authorship, which is why the Map defends agent-causal libertarian free will. The Map registers these commitments explicitly in its [positions register](/positions/agency-and-will/) as P-A1 (agent-causal libertarian free will) and P-A2 (authorship requires agent causation, not merely event-causal indeterminism).
+The strongest case that free will is incompatible with determinism—shared by hard determinists and libertarians alike—is the [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/): if determinism is true, our acts are consequences of the remote past and the laws of nature, and we have no choice about either, so we have no choice about our acts. That argument establishes incompatibilism only; the Map's libertarian conclusion requires the separate premise that determinism is false. The [trilemma-of-selection](/topics/trilemma-of-selection/) formalises this logical structure: at any decision point with genuine indeterminacy, exactly three options obtain—determinism (theatre), randomness (luck), or mental causation (authorship). Only the third preserves genuine authorship, which is why the Map defends agent-causal libertarian free will. The Map registers these commitments explicitly in its [positions register](/positions/agency-and-will/) as P-A1 (agent-causal libertarian free will) and P-A2 (authorship requires agent causation, not merely event-causal indeterminism).
 
 ## The Neuroscientific Challenge
 
@@ -210,6 +210,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 ## Further Reading
 
 - [agent-causation](/concepts/agent-causation/) — Why the Map's framework is agent-causal, including substance causation
+- [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's four-case argument and the hard-incompatibilist claim that the libertarian escape also fails
 - [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) — The causal theory of action, volitionism, and why the Map selects a volitionist agent-causal hybrid
 - [control-theoretic-will](/concepts/control-theoretic-will/) — Consciousness as low-bandwidth controller of neural dynamics
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — Authored action without deliberation

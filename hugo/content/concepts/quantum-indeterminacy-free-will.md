@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-02 20:57:43+00:00
+ai_modified: 2026-07-09 10:27:36+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -53,7 +53,7 @@ Quantum mechanics breaks determinism. Before measurement, particles exist in sup
 
 This creates what Peter van Inwagen called the "libertarian dilemma":
 
-1. **If determinism is true**, free will fails (we couldn't have done otherwise)
+1. **If determinism is true**, free will fails (we couldn't have done otherwise)—the canonical case for this premise is the [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/)
 2. **If indeterminism is true**, outcomes are random (luck, not choice)
 3. **Either way**, genuine authorship seems impossible
 

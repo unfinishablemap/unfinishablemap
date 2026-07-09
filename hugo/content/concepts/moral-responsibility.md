@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-18 20:56:03+00:00
+ai_modified: 2026-07-09 11:39:37+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -179,6 +179,8 @@ This framework respects the ordinary intuition that people deserve praise and bl
 ## Further Reading
 
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum indeterminacy supports libertarian free will and responds to luck
+- [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's case that we lack the free will for basic-desert responsibility on determinism or indeterminism
+- [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) — Whether desert needs "could have done otherwise" at all; the 1969 PAP paper, distinct from the 1971 higher-order-desire paper cited above
 - [free-will](/topics/free-will/) — The broader free will question and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation in detail
 - [volitional-control](/topics/volitional-control/) — The empirical and phenomenological case that the "whether"-decision is genuine conscious control — the desert-grounding locus

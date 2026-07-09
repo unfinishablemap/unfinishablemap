@@ -26,7 +26,7 @@ description: A two-layer architecture unifying filter theory and quantum selecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 22:44:25+00:00
+last_deep_review: 2026-07-09 09:04:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
