@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T10:52:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Manipulation Argument and Hard Incompatibilism (Pereboom)
+- **Output**: [[research/the-manipulation-argument-and-hard-incompatibilism-2026-07-09]]
+- **Sources consulted**: 6 (5 verified/partly-verified primary + secondary reviews)
+
 ## 2026-07-09T10:36:00+00:00 - deep-review
 - **Status**: Success (cross-review / fresh-create defect-tail, argument-lens)
 - **File**: [[topics/the-consequence-argument-for-incompatibilism]]
