@@ -4,7 +4,7 @@ description: "The three-way split of libertarian free will—event-causal, agent
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T18:42:00+00:00
+ai_modified: 2026-07-09T18:54:44+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review:
+last_deep_review: 2026-07-09T18:54:44+00:00
 ---
 
 Libertarianism about free will is a genus with three species. All libertarians share two commitments—determinism is false, and some agents sometimes act freely and are morally responsible—and divide over a third question: what role does indeterminism play, and where does the freedom-grounding source of the action sit? The standard taxonomy, canonised in the Stanford Encyclopedia's "Incompatibilist (Nondeterministic) Theories of Free Will," sorts libertarians into **event-causal** (free actions are nondeterministically caused by agent-involving mental *events*, with no agent-as-substance cause added), **agent-causal** (the agent, an irreducible substance, is a cause over and above any event), and **non-causal** (free actions are basic and uncaused). This survey gives the event-causal wing—Robert Kane's self-forming actions above all—the detailed treatment it deserves, then follows the **luck** and **disappearing-agent** objection that bears hardest on it to locate the Map among the options.
@@ -111,7 +111,7 @@ The Map locates itself in the **agent-causal** wing, and reads event-causal libe
 1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
 1. Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press. ISBN 9780195159875.
 1. Pereboom, D. (2014). "The disappearing agent objection to event-causal libertarianism." *Philosophical Studies*, 169(1), 59–69. https://doi.org/10.1007/s11098-012-9899-2
-1. Clarke, R., & Capes, J. "Incompatibilist (Nondeterministic) Theories of Free Will." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-theories/
+1. Clarke, R., Capes, J., & Swenson, P. "Incompatibilist (Nondeterministic) Theories of Free Will." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-theories/
 1. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-18). The Luck Objection to Libertarian Free Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/luck-objection/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). Source versus Leeway Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/source-versus-leeway-incompatibilism/

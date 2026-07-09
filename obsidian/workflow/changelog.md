@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T18:54:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/event-causal-libertarianism]]
+- **Mode**: cross-review (argument-lens), free-will-deepening wave article 4 / FINALE — verification-only
+- **Word count**: 2319 → 2319 (+0)
+- **Critical issues addressed**: 1 (SEP reference dropped co-author Philip Swenson → "Clarke, Capes, & Swenson"; matches wave's citation-metadata defect pattern)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only; both timestamps bumped because a real citation fix was applied)
+- **Citation ledger**: all 8 external cites web-verified at publisher of record — Pereboom 2014 DOI re-confirmed exact (169(1):59-69, 10.1007/s11098-012-9899-2); Kane 1996 OUP, O'Connor 2000 ISBN 9780195133080, Ekstrom 2000 Westview, Clarke 2003 ISBN 9780195159875, Balaguer 2010 MIT, Chisholm 1964 Lindley, SEP entry — all real-correct except SEP metadata (fixed). No fabricated/invented DOIs.
+- **Engagement modes** (editor-internal): Pereboom = Mode Three (framework-boundary, honestly declared); event-causal wing = Mode Three (framework-relative, "not a proof"). No label leakage.
+- **Confirmed**: lead/RSP calibration holds (no phenomenal-absence over-claim, no possibility/probability slippage); complements not duplicates agent-causation + luck-objection; 3-way taxonomy faithful to SEP; 4 reciprocal inbound links resolve.
+- **Output**: [[reviews/deep-review-2026-07-09-event-causal-libertarianism]]
+
 ## 2026-07-09T18:42:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Event-Causal Libertarianism and the Taxonomy of Libertarian Free Will
