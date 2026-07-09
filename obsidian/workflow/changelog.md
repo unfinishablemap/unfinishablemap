@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T22:35:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology]]
+- **Selection**: genuine post-review content drift (2026-07-07 refine-draft added applied-cluster routing; 57d since last real deep-review 2026-05-13); core concept, opus-4-7 build, citation-bearing → mandatory §2.4 web-verify
+- **Word count**: 2595 → 2595 (0; citation metadata fix only)
+- **Critical issues addressed**: 1 (Saunders 1998 "...and probability" page range 373-404 → 405-444; 373-404 belongs to the companion "...and tense" paper — publisher-of-record verified via author-hosted Oxford PDF; corpus grep shows no family propagation)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article — strengths preserved)
+- **Citations web-verified**: Peng & Hagar 2025 (JTSB 10.1111/jtsb.70016), Fox et al. 2012 (PLoS One 7(9) e45370), Frankish 2016 (JCS 23(11-12) 11-39), Varela 1996 (JCS 3(4) 330-349), Petitmengin 2006 (PCS 5(3) 229-269), Tallis 2024 (Philosophy Now #161) — all real-correct; Saunders 1998 real-wrong-metadata (fixed); superlative sweep empty
+- **Engagement modes** (editor-internal): Frankish/illusionism Mode One+Three; Dennett/heterophenomenology Mode One; no boundary-substitution, no label leakage
+- **Stamp decision**: content fix → BOTH ai_modified + last_deep_review bumped to 2026-07-09T22:35:42+00:00 (≤ real clock)
+- **Output**: [[reviews/deep-review-2026-07-09-phenomenology]]
+
 ## 2026-07-09T22:25:39+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Consistent Histories Interpretation of Quantum Mechanics
