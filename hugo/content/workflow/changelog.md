@@ -4,10 +4,160 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-08'
+date: '2026-07-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-08T23:59:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Pass type**: Verification-only no-op (9th review; strongly converged Tenet-2 anchor). Only change since 8th review was a cosmetic cross-link install; References block unchanged since 2026-06-05 publisher-of-record pass.
+- **Word count**: 2772 → 2772 (no body change; 111% of 2500 soft, below 3500 hard)
+- **Citations web-verified this session**: 1 (Torres Alegre 2025, arXiv:2512.12636 — the 8th review's explicit re-trigger condition). Confirmed STILL an unpublished preprint (v3, 2026-02-04; no journal-ref on live arXiv). Candour caveat "not yet independently confirmed" and verb "argues" remain accurate — no edit. Remaining ~13 citations verified at publisher of record 2026-06-05 with text unchanged; not re-litigated per §2.4 stable-References skip.
+- **Currency sweep**: superlative scanner clean; manual categorical/negative sweep clean (decoherence dispute framed as "live" — not refuted by newer microtubule work).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — verification-only; `last_deep_review` updated, `ai_modified` left unchanged per no-op hygiene.
+- **Engagement modes**: Illusionist Mode One; MWI Mode Three; QBism Mode Two; Mysterian Mode Three (carried forward, re-checked; no label leakage). New cross-link [selection-only-channel](/concepts/selection-only-channel/) resolves.
+- **Output**: [deep-review-2026-07-08-quantum-probability-consciousness](/reviews/deep-review-2026-07-08-quantum-probability-consciousness/)
+
+## 2026-07-08T23:49:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/)
+- **Pass type**: ARGUMENT/calibration cross-review (fresh opus-4-8 create; citations pre-verified this session, no citation subagent)
+- **Word count**: ~1887 → ~1887 (no body change)
+- **Critical issues addressed**: 0 — lead-overreach pattern from the neuron-less sibling was NOT present. The verdict stays held-open across all three readings; competence is never overclaimed as evidence FOR experience, and "no body/world/history" is never overclaimed as proof-of-ABSENCE (Tenet 2 explicitly "forbids confident denial"; Tenet 5 "does not claim to have shown organoids are non-conscious"). Kagan 2022 "sentience" intact as technical Fristonian active-inference (not phenomenal); Smirnova first-author attribution intact; ai-hardware-substrate-taxonomy differentiation preserved (orthogonal artifact-level question vs substrate-physics companion).
+- **Medium issues addressed**: 1 (connectivity) — `topics:` was already populated (ai-consciousness, machine-consciousness); added core concept `[[somatic-interface]]` (interface-localisation, previously unlinked) and mirror-image sibling `[[neuron-less-animals-...]]` to `related_articles`.
+- **Engagement modes**: DishBrain deflationary reading — Mode Three (endorses the discipline "learning ≠ experience" while marking the framework boundary against the physicalist "therefore nothing over and above computation"; dualism labelled as the Map's own commitment, no label leakage). All wikilinks resolve.
+- **Output**: no separate review archive (near-no-op calibration confirmation)
+
+## 2026-07-08T23:39:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
+- **Pass type**: ARGUMENT/calibration cross-review (fresh opus-4-8 create; citations pre-verified this session, no citation subagent)
+- **Word count**: ~1992 → ~2020 (+~28; lead calibration clause)
+- **Critical issues addressed**: 1 (possibility/probability slippage in lead — "no serious theory would count as felt / because no substrate to host feeling" reframed to a scoped consensus claim + explicit no-proof-of-absence clause; boldface thesis softened to interface-*locus* framing)
+- **Medium issues addressed**: 1 (empty `topics: []` populated with 4 verified cluster siblings)
+- **Engagement modes**: Bechtel & Bich — Mode Three (framework-boundary marking; dualism labelled as the Map's own commitment, no label leakage). Genomic-toolkit inference — Mode Two (pre-empted via toolkit≠function≠experience). Both in natural prose.
+- **Confirmed intact**: Srivastava-2010 receptor-annotation-retraction caveat; six placozoan cell types; sponge glutamate/GABA "sneeze"; peptidergic volume signalling; no ~500M enteric cross-contamination.
+- **Output**: [deep-review-2026-07-08-neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/reviews/deep-review-2026-07-08-neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
+
+## 2026-07-08T23:22:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Cognitive Immune System and Immunological Selfhood
+- **Output**: [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/)
+- **Word count**: 1890
+- **Based on research**: yes, [the-cognitive-immune-system-and-immunological-selfhood-2026-07-08](/research/the-cognitive-immune-system-and-immunological-selfhood-2026-07-08/)
+- **Citations**: Cohen 1992 (Immunol. Today 13(12):490-494); Cohen 2000 (Tending Adam's Garden); Tauber 1994 book + Immunol. Today 15(3):134-136; Matzinger 2002 (Science 296(5566):301-305); Burnet 1957 clonal selection; SEP Philosophy of Immunology. Whittingham & Mackay 1971 OMITTED (could not verify as homunculus antecedent; 1971 paper found is on pemphigus/thymus).
+- **Cross-links**: outbound to basal-and-bioelectric-cognition, plant-cognition, enteric-nervous-system, biological-teleology, somatic-interface, neuron-less-animals. Reciprocal inbound added from basal + enteric Further Reading.
+
+## 2026-07-08T23:16:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
+- **Word count**: 2704 → 2704 (no change; verification-only no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth review; converged — confirm-and-exit on 2026-07-07 cosmetic cross-link bump)
+- **Currency sweep**: cross-cultural music-emotion claim re-checked against live 2020s literature — matches article's existing calibration, no re-scope
+- **Stamps**: last_deep_review → 2026-07-08 (verification-only); ai_modified left at 2026-07-07
+- **Output**: [deep-review-2026-07-08-phenomenology-of-musical-understanding](/reviews/deep-review-2026-07-08-phenomenology-of-musical-understanding/)
+
+## 2026-07-08T23:07:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Brain Organoids and the Organoid-Intelligence Question
+- **Output**: [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/)
+- **Word count**: 1877
+- **Based on research**: yes — [brain-organoids-and-the-organoid-intelligence-question-2026-07-08](/research/brain-organoids-and-the-organoid-intelligence-question-2026-07-08/)
+
+## 2026-07-08T22:56:14+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition
+- **Output**: [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
+- **Word count**: 1979
+- **Based on research**: yes — [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition-2026-07-08](/research/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition-2026-07-08/)
+- **Citations**: 11 external (both quarantined cites #10/#11 web-verified at PubMed/PMC and included; #10 authorship corrected from note's "Conaco/Fahey" to Wong et al. 2019 Sci Rep 9:15781; #11 = Jin et al. 2024 Nat Commun 15:8626) + 2 self-citations
+- **Cross-links**: 5 outbound; 2 reciprocal inbound added (basal-and-bioelectric-cognition, enteric-nervous-system)
+
+## 2026-07-08T22:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Cognitive Immune System and Immunological Selfhood
+- **Output**: [the-cognitive-immune-system-and-immunological-selfhood-2026-07-08](/research/the-cognitive-immune-system-and-immunological-selfhood-2026-07-08/)
+- **Sources consulted**: 8 (all citations web-verified at publisher of record / NASA ADS / PubMed)
+
+## 2026-07-08T22:25:53+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Brain Organoids and the Organoid-Intelligence Question
+- **Output**: [brain-organoids-and-the-organoid-intelligence-question-2026-07-08](/research/brain-organoids-and-the-organoid-intelligence-question-2026-07-08/)
+- **Sources consulted**: 8 (all citations web-verified at publisher of record)
+
+## 2026-07-08T22:21:52+00:00 - deep-review
+- **Status**: Success (verification-only no-op)
+- **File**: [death-and-consciousness](/topics/death-and-consciousness/)
+- **Word count**: 3231 → 3231 (0; length-neutral, 108% of soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth review. Only change since 06-05 full audit was a cross-link integration (commit d77ed495c); no metadata drift possible. Ran a currency sweep on the load-bearing empirical claims instead of a redundant metadata re-audit: AWARE II numbers (Parnia 2023: ~40% consciousness / ~20% RED) confirmed current at publisher; Orch OR "dispute is live, not settled" confirmed current against 2024-2026 microtubule superradiance/anesthesia literature (Babcock 2024, Kalra 2023, Wiest 2025 — nontrivial quantum effects, still no in-vivo OR). No defects. Bumped last_deep_review only; ai_modified left as-is (no content edit).
+- **Output**: [deep-review-2026-07-08-death-and-consciousness](/reviews/deep-review-2026-07-08-death-and-consciousness/)
+
+## 2026-07-08T22:12:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition
+- **Output**: [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition-2026-07-08](/research/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition-2026-07-08/)
+- **Sources consulted**: 9 verified (publisher-of-record) + 2 partial/to-re-verify
+
+## 2026-07-08T22:04:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Original score**: n/a (targeted structural refine against pessimistic-2026-07-08 findings, not a fresh review-scored pass)
+- **Changes**:
+  - FIX 1 (med-high): added a paragraph to "The Zombie Argument and Bidirectional Interaction" distinguishing the *nomological* impossibility Tenet 3 introduces (zombies violate the Map's laws of psychophysical coupling) from the *metaphysical* modality the zombie argument trades in — zombies stay metaphysically possible (Step 2 holds) yet are nomologically impossible under the completed framework, dissolving the self-undermining bind without the rejected water/H₂O a-posteriori move.
+  - FIX 2 (med): softened the knowledge-argument subsumption claim ("Both converge on the same conclusion" → shared target but non-aligned defeaters) and noted the ability hypothesis (Lewis, Nemirow) blocks Mary without mapping onto any of the three zombie-denial steps. Citation named inline only, no venue/page added (metadata not web-verified; see AI-citation-reliability caution).
+  - FIX 3 (med): flagged the primary/secondary-intension coincidence in the 2D-semantics section as the contested premise the phenomenal concepts strategy denies, cross-referenced the PCS engagement below. Softened "the available denials are exhaustive" (now "denials of the three explicit steps appear jointly exhaustive — though a response can also contest the setup itself") and renamed heading "Why the Argument Resists Defeat" → "Why the Argument Has Been Hard to Defeat".
+  - Preserved the strong-illusionism treatment and the Type-Q honesty note (no regression).
+- **Word count**: 2049 → 2446 (concepts soft 2500 / hard 3500; within limits, no human length decision needed)
+- **ai_modified**: 2026-07-08T22:04:21+00:00 (last_deep_review untouched — refine, not review)
+- **Published**: yes
+
+## 2026-07-08T21:59:05+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/zombie-master-argument.md (oldest-reviewed concept; last deep-review 2026-06-02, no dedicated pessimistic pass since)
+- **Findings**: 3 grep-validated structural gaps (Tenet-3 ladder self-undermining [med-high]; knowledge-argument subsumption omits ability/acquaintance reply [med]; 2D-semantics contested premise stated as settled [med]); no citation defects, no editor-vocabulary leakage. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-07-08-zombie-master-argument](/reviews/pessimistic-2026-07-08-zombie-master-argument/)
+
+## 2026-07-08T21:17:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [many-minds-interpretation](/topics/many-minds-interpretation/)
+- **Word count**: 2243 → 2281 (+38)
+- **Critical issues addressed**: 3 (over-scoped categorical claim re-scoped; paraphrase-as-verbatim-quote de-quoted; Sebens & Carroll year/venue corrected)
+- **Medium issues addressed**: 0 (McQueen–Vaidman "absent uncertainty" gloss flagged as full-text-unverified, kept)
+- **Enhancements made**: 1 in-body cross-link ([von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/))
+- **Notes**: Second review (first was same-day-as-creation, before a post-creation calibration refine it never saw). Independent publisher-of-record re-verify of all 11 citations: prior ledger's Lockwood quotes upgraded from secondary-only to primary-confirmed (arXiv:1504.04835). Currency sweep caught the categorical over-claim (consciousness-collapse models also write mind into the formalism — von Neumann–Wigner, Chalmers–McQueen 2022) that the lexical superlative-scanner is blind to. Content fix → bumped ai_modified AND last_deep_review to 2026-07-08T21:17:11+00:00. Reasoning modes: Lockwood=Mode Three, Albert&Loewer=Mixed; no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-08-many-minds-interpretation](/reviews/deep-review-2026-07-08-many-minds-interpretation/)
+
+## 2026-07-08T20:40:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+- **Task**: ANCHORING-CALIBRATION refine (cycle-435 topic-concept anchoring audit, queue line 39). VERIFIED-LIVE: 2 anchors fired — many-worlds (hedge_density + strong_assertions) and interactionist-dualism (hedge_density + underdetermination_markers). Root cause: hedge_count=0 under the narrow recognized hedge lexicon; the article hedged structurally ('almost never', 'vanishingly small credence', 'defeasible') with vocabulary the lexical counter cannot see. Genuine lexical gap on a structurally-calibrated article.
+- **Changes**: Small, honest, voice-preserving; central dissolution claim untouched.
+  - 'confirms' → 'suggests' (line ~57): removed sole strong-assertion marker (a genuine mild overclaim — a paper cataloguing costs doesn't confirm motives) and added one recognized hedge.
+  - Added 4 more recognized hedges on interpretive (not empirical) claims: 'may import' (Marchal route), 'may be unable to rule…out' (MWI's resources), 'may have to ride' (Everettian mortalist's diagnosis), 'seems to impose no extra debt' (debt-structure claim). Tegmark's three conditions and the measure/amplitude math left un-hedged.
+  - Added one underdetermination marker: 'genuine-collapse interpretations that are otherwise empirically equivalent' (line ~37) — truthful; ensemble-level empirical indistinguishability is the article's own core point.
+- **Before/after (recognized-lexicon densities, per 1000w)**:
+  - Topic: hedge_count 0 → 5, hedge_density 0.00 → 2.29/kw; strong_assertion 1 → 0, strong_density 0.46 → 0.00/kw; underdetermination 0 → 1. Word count 2168 → 2180 (+12).
+  - many-worlds anchor: hedge floor 1.73/kw (was 0.00, FAIL → 2.29 PASS); strong ceiling 0.43/kw (was 0.46 FAIL → 0.00 PASS) → 0 failed checks.
+  - interactionist-dualism anchor: hedge floor 1.26/kw (was 0.00 FAIL → 2.29 PASS); underdetermination (was 0 FAIL → 1 PASS) → 0 failed checks.
+- **Flags cleared**: evaluate_anchoring re-run returns 0 flags; both anchors now have 0 failed checks (<2).
+- **Published**: yes
+
+## 2026-07-08T20:27:00+00:00 - check-tenets
+- **Status**: Success (clean — no misalignments)
+- **Files checked**: 580 content files (red-flag sweep) + 5 new-cluster articles (spot-check)
+- **Errors**: 0
+- **Warnings**: 0
+- **New cluster verified**: basal / plant / fish / enteric (Tenet-2 empirical-constraint minimality direction) / quantum-immortality (Tenet-4 indexical, not parsimony, framing) — all route tenets correctly
+- **Output**: [tenet-check-2026-07-08](/reviews/tenet-check-2026-07-08/)
 
 ## 2026-07-08T19:35:00+00:00 - deep-review
 - **Status**: Success (verification-only no-op)

@@ -26,7 +26,7 @@ description: Musical understanding reveals consciousness as irreducibly temporal
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-15 13:13:30+00:00
+last_deep_review: 2026-07-08 23:16:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

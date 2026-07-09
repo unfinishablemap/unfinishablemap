@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-08 17:18:13+00:00
+ai_modified: 2026-07-08 22:56:14+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -81,6 +81,8 @@ This article bears primarily on **Tenet 3, [Bidirectional Interaction](/tenets/#
 - [interoceptive-void](/voids/interoceptive-void/) — The structural opacity of the body's interior to the consciousness that occupies it
 - [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling, the backbone of reading (c)
 - [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/) — Information processing without a nervous system as another sub-personal-competence case
+- [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/) — Learning, memory, and self/non-self discrimination with zero neurons: the same decoupling applied to the word "self"
+- [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — Sponges and placozoans push the distributed-interface question to its limit: coordinated behaviour with no nervous system at all
 - [pairing-problem](/concepts/pairing-problem/) — Why a mind is located where it causally interfaces
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 
