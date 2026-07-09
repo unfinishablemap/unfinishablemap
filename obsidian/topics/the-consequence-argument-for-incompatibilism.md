@@ -102,6 +102,7 @@ Finally, the [[tenets#^no-many-worlds|No Many Worlds]] tenet bears on how the Ma
 - [[quantum-indeterminacy-free-will]] — The separate indeterminist premise the libertarian conclusion requires
 - [[agent-causation]] — Why harnessed indeterminism can be the agent's doing rather than luck
 - [[luck-objection]] — The downstream challenge that arises once indeterminism is admitted
+- [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's harder incompatibilist cousin, which argues the libertarian escape also fails
 - [[causal-closure]] — Where the Map locates the failure of physical closure
 - [[moral-implications-of-genuine-agency]] — What is at stake practically if incompatibilism holds
 - [[tenets]] — The foundational commitments that make incompatibilism load-bearing for the Map

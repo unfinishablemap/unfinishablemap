@@ -177,6 +177,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 ## Further Reading
 
 - [[quantum-indeterminacy-free-will]] — How quantum indeterminacy supports libertarian free will and responds to luck
+- [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's case that we lack the free will for basic-desert responsibility on determinism or indeterminism
 - [[topics/free-will]] — The broader free will question and the Map's position
 - [[agent-causation]] — Agent vs. event causation in detail
 - [[volitional-control]] — The empirical and phenomenological case that the "whether"-decision is genuine conscious control — the desert-grounding locus

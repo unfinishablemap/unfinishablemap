@@ -207,6 +207,7 @@ Free will stands at the intersection of all five [[tenets]]:
 ## Further Reading
 
 - [[agent-causation]] — Why the Map's framework is agent-causal, including substance causation
+- [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's four-case argument and the hard-incompatibilist claim that the libertarian escape also fails
 - [[philosophy-of-action-under-dualism]] — The causal theory of action, volitionism, and why the Map selects a volitionist agent-causal hybrid
 - [[control-theoretic-will]] — Consciousness as low-bandwidth controller of neural dynamics
 - [[spontaneous-intentional-action]] — Authored action without deliberation

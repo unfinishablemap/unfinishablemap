@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T11:04:27+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Manipulation Argument and Hard Incompatibilism
+- **Output**: [[topics/the-manipulation-argument-and-hard-incompatibilism]]
+- **Word count**: 2353
+- **Based on research**: yes — [[research/the-manipulation-argument-and-hard-incompatibilism-2026-07-09]]
+
 ## 2026-07-09T10:56:51+00:00 - deep-review
 - **Status**: Success (verification-only no-op; 7th review, converged)
 - **File**: [[topics/panpsychisms-combination-problem]]

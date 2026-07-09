@@ -183,6 +183,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 - [[consciousness-and-agency]], [[process-and-consciousness]] — Apex syntheses
 - [[quantum-indeterminacy-free-will]] — Systematic treatment, Kane's 2024 convergence
 - [[luck-objection]], [[agency-void]] — The central objection and the verification-circularity limit
+- [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's empirical "wild coincidences" objection to agent-causal libertarianism
 - [[motor-selection]], [[attention-as-interface]], [[phenomenology-of-choice-and-volition]] — Empirical and phenomenological grounding
 - [[skill-delegation]], [[trumping-preemption]], [[mental-causation-and-downward-causation]], [[causal-closure]], [[causal-interface]] — Metaphysics of the interface
 - [[four-category-ontology]] — Lowe's substance-ontological foundation for the substance-causation this article rests on, and the fact-causation vs minimal-quantum-interaction fork

@@ -153,6 +153,7 @@ The luck objection directly challenges the Map's [[tenets#^bidirectional-interac
 
 - [[quantum-indeterminacy-free-will]] — Comprehensive systematization including Kane's 2024 convergence and motor selection evidence
 - [[topics/free-will]] — Broader treatment of free will and determinism
+- [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's disappearing-agent objection, the close cousin of this present-luck challenge
 - [[agent-causation]] — How agents cause actions as substances
 - [[mental-effort]] — The phenomenology of effort and quantum Zeno mechanism
 - [[volitional-control]] — The empirical and phenomenological case anchoring the effort-tracks-selection reply to luck
