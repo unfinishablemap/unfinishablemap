@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-08T23:59:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-probability-consciousness]]
+- **Pass type**: Verification-only no-op (9th review; strongly converged Tenet-2 anchor). Only change since 8th review was a cosmetic cross-link install; References block unchanged since 2026-06-05 publisher-of-record pass.
+- **Word count**: 2772 → 2772 (no body change; 111% of 2500 soft, below 3500 hard)
+- **Citations web-verified this session**: 1 (Torres Alegre 2025, arXiv:2512.12636 — the 8th review's explicit re-trigger condition). Confirmed STILL an unpublished preprint (v3, 2026-02-04; no journal-ref on live arXiv). Candour caveat "not yet independently confirmed" and verb "argues" remain accurate — no edit. Remaining ~13 citations verified at publisher of record 2026-06-05 with text unchanged; not re-litigated per §2.4 stable-References skip.
+- **Currency sweep**: superlative scanner clean; manual categorical/negative sweep clean (decoherence dispute framed as "live" — not refuted by newer microtubule work).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — verification-only; `last_deep_review` updated, `ai_modified` left unchanged per no-op hygiene.
+- **Engagement modes**: Illusionist Mode One; MWI Mode Three; QBism Mode Two; Mysterian Mode Three (carried forward, re-checked; no label leakage). New cross-link [[selection-only-channel]] resolves.
+- **Output**: [[reviews/deep-review-2026-07-08-quantum-probability-consciousness]]
+
 ## 2026-07-08T23:49:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-organoids-and-the-organoid-intelligence-question]]
