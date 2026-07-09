@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T02:56:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/competency-without-felt-experience]]
+- **Word count**: 3129 → 3239 (+110; five calibration tightenings offset by trimming three redundant recaps of the mirror-image/bidirectional point; well within apex 2500-4000 band)
+- **Changes**: Addressed 4 grep-validated pessimistic-review calibration findings + 1 cosmetic on the flagship apex:
+  - FIX 1 (HIGH, "two ceilings"): In the Synthesis, dropped "and points toward" from the framework-neutral claim so only "consistent with" survives the subtraction; added an explicit clause marking the stronger "points toward neural specificity" reading as framework-INTERNAL (what the Map's own interface commitment yields from inside), not a survivor of the framework-neutral subtraction. Both ceilings now stated at honest heights and bridged.
+  - FIX 2 (MEDIUM, abductive scope): Carried the Tenet-1 concession into the Synthesis — the abductive step tells only against *generic* functionalism; specific-functional theories (IIT, global-workspace) also decline to count bacteria/immune/organoids, so the data do not discriminate a neural interface from experience in a particular functional architecture.
+  - FIX 3 (MEDIUM, ENS overclaim): Softened the ENS ladder-bullet ("outside any felt agency" → open *distributed-interface question*, not a settled absence) and the Further-Reading gloss ("not a seat of experience" → "the open question of where the interface localises") to match the source's held-open readings; added a Tenet-2 clause noting the ENS withholding is licensed by absent felt agency, not absent substrate (it has ample substrate) — resolving the internal "no interface where no substrate" tension.
+  - FIX 4 (MEDIUM, invariance overstates): Re-rooted "invariant under third-person evidence of either sign" to behavioural-richness/architecture specifically, noting the verdict DOES flip (withhold↔open) on the third-person fact of neural-substrate presence — now "selective invariance".
+  - FIX 5 (COSMETIC): Harmonised ENS neuron count — "hundreds of millions" → "about half a billion" to match the opening's "Half a billion".
+- **Hedges/calibration preserved**: common-cause-null discount, defeasible-marker language, framework-relative verdicts, precautionary-parallel framing all intact; no synthesis gutting.
+- **Published**: yes
+
 ## 2026-07-09T01:49:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/default-mode-network]]
