@@ -4,7 +4,7 @@ description: "Everyday aesthetics studies the aesthetic character of the mundane
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T06:35:31+00:00
+ai_modified: 2026-07-09T07:15:52+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -84,6 +84,7 @@ One point sharpens the caution. Irvin is **dual-use**, not an ally. Her pervasiv
 
 - [[aesthetics-and-consciousness]] — The five-argument case this article develops; the "Pervasiveness of Aesthetic Quality" section is the point of contact
 - [[the-sublime-and-negative-aesthetics]] — Aesthetic value at the opposite extreme from the everyday: terror, tragedy, ugliness
+- [[the-aesthetics-of-nature-and-natural-beauty]] — The sibling "beyond-art" subfield focused on landscapes and wilderness rather than the mundane-domestic
 - [[the-comic-and-humor-as-an-aesthetic-category]] — Another everyday-pervasive aesthetic response, with the naturalizing rival named at full strength
 - [[aesthetic-testimony-and-the-acquaintance-principle]] — Why aesthetic value seems to require first-personal encounter
 - [[topics/phenomenal-value-realism]] — Value as intrinsic to experience rather than projected onto it

@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-07-09T04:44:29+00:00
+ai_modified: 2026-07-09T07:15:52+00:00
 draft: false
 last_deep_review: 2026-06-23T03:20:00+00:00
 topics:
@@ -162,6 +162,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [[everyday-aesthetics]] — The subfield that supplies the pervasiveness data for the section above, and the scope problem that cuts both ways for irreducibility
 - [[creative-aesthetic-void]] — Where articulation fails at beauty and sublimity
 - [[the-sublime-and-negative-aesthetics]] — The sublime, tragedy, ugliness, and disgust as the sharpest test that aesthetic value is irreducible to hedonic pleasure
+- [[the-aesthetics-of-nature-and-natural-beauty]] — Develops this article's opening sunset-with-no-observer intuition into the environmental-aesthetics debate: cognitivism, engagement, and the observer-dependence of natural beauty
 - [[the-comic-and-humor-as-an-aesthetic-category]] — Humor as a further non-beauty aesthetic category, and mirth as a candidate irreducible evaluative quale (with the computational rival named at full strength)
 - [[topics/phenomenal-value-realism]] — Value as intrinsic to experience
 - [[phenomenology-of-moral-life]] — Parallel analysis for moral value
