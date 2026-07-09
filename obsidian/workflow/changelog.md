@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T21:54:18+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/consciousness-and-agency]]
+- **Action**: Evolve — integrated this session's free-will subfield (8 new articles) into their natural hub
+- **Changed sources**: 8 (consequence-argument, manipulation-argument, frankfurt-cases, akrasia, source-versus-leeway, reactive-attitudes, frankfurt-hierarchical-mesh, event-causal-libertarianism)
+- **Word count**: 4510 → 4747 (net +237; ~120w redundancy trimmed to offset)
+- **Review**: [[reviews/apex-evolve-2026-07-09-consciousness-and-agency]]
+
 ## 2026-07-09T20:46:00+00:00 - deep-review
 - **Status**: Success (converged-clean no-op — citation-web-verify convergence check)
 - **File**: [[topics/cross-cultural-phenomenology-of-agency]]
