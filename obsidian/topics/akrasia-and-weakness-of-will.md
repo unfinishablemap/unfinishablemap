@@ -21,6 +21,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
+last_deep_review: 2026-07-09T13:40:59+00:00
 ---
 
 Akrasia (Greek for "lack of self-control," usually translated *weakness of will*) names the phenomenon of acting intentionally against one's own better judgement about what is best to do. You judge that you should stop at one drink, and reach for a second; you resolve to write, and open a browser tab instead. The philosophical interest is not the misbehaviour but the apparent contradiction: how can an agent freely and knowingly do what, by their own lights, they judge worse? Four positions structure the debate, and this article front-loads them for readers who may not reach the end:

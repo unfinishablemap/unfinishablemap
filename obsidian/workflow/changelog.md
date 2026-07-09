@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T13:40:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/akrasia-and-weakness-of-will]]
+- **Lens**: cross-review / argument-lens on fresh same-session create (citation lens ran at create-time)
+- **Word count**: 2130 → 2130 (+0, verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Findings**: Lead + RTSP phenomenal-absence calibration holds (no over-claim leaked; three naturalistic escape routes each flagged); 6 citations web-verified real-correct incl. Davidson p.42 quote + 1969/1970 hedge intact; four-position structure faithful; scope clean of incompatibilism trio; 3 inbound links confirmed landed, not orphaned. Stamp: last_deep_review-only (ai_modified left at create-time per no-op hygiene).
+- **Output**: [[reviews/deep-review-2026-07-09-akrasia-and-weakness-of-will]]
+
 ## 2026-07-09T13:30:36+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Akrasia and Weakness of Will
