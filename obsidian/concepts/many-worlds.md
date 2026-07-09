@@ -202,6 +202,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[quantum-measurement-and-consciousness]] — Why measurement resists physical solution: the hard-problem parallel
 - [[collapse-and-time]] — Time-symmetric alternatives and retrocausal solutions
 - [[topics/free-will]] — Why genuine selection requires collapse
+- [[wavefunction-realism-vs-primitive-ontology]] — Why wavefunction realism is Everett-congenial while primitive ontology stays single-world
 - [[many-worlds-argument|Against Many-Worlds]] — The formal argument structure with premises and conclusions
 - [[tenets]] — The foundational commitment against MWI
 - [[illusionism]] — The strongest physicalist challenge and why it doesn't help MWI

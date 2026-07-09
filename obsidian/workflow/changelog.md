@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T23:22:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Wavefunction Realism versus Primitive Ontology
+- **Output**: [[concepts/wavefunction-realism-vs-primitive-ontology]]
+- **Word count**: 1659
+- **Based on research**: yes, [[research/wavefunction-realism-vs-primitive-ontology-2026-07-09]]
+
 ## 2026-07-09T22:49:37+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Wavefunction Realism versus Primitive Ontology

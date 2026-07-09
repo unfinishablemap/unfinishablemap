@@ -228,6 +228,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 - [[many-worlds-argument|Against Many-Worlds]] — Cumulative case against MWI
 - [[completeness-in-physics-under-dualism]] — Structural vs ontological completeness
 - [[trumping-preemption]] / [[delegatory-causation]] — Authority-without-trajectory-change alternative
+- [[wavefunction-realism-vs-primitive-ontology]] — What the interface would select *among*: structure in `3N`-space versus local beables in 3D
 - [[ensemble-level-epiphenomenalism]] — Whether corridor single-event selection is a genuine channel or hidden idleness
 - [[pragmatist-quantum-foundations-and-the-agent]] — Pragmatist-family positions and Born preservation
 - [[brain-internal-born-rule-testing]] — What would foreclose the corridor reading, mechanism by mechanism

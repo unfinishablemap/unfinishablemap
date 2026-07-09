@@ -209,6 +209,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [[coupling-modes]] — Basis, timing, and probability control: how consciousness couples to physics
 - [[physics-as-disclosure]] — The measurement problem as boundary disclosure
 - [[self-reference-and-the-limits-of-physical-description]] — Gödel-quantum connections via Lawvere's theorem
+- [[wavefunction-realism-vs-primitive-ontology]] — What the wavefunction *is*: real high-dimensional field versus law over local beables in 3D
 - [[spontaneous-collapse-theories]] — GRW, CSL, and consciousness-modulated collapse
 - [[qm-interpretations-beyond-many-worlds]] — Comparative assessment of interpretations' consciousness compatibility
 - [[consistent-histories-interpretation]] — The single-world, observer-free reading that claims to dissolve the measurement problem

@@ -87,6 +87,7 @@ Two disciplines apply. First, this is a *possible extension to explore*, not a p
 - [[concepts/many-worlds|The Many-Worlds Interpretation]] — the single-world rival CH also rejects
 - [[quantum-darwinism-and-consciousness]] — a neighbouring decoherence-based account and its outcome gap
 - [[completeness-in-physics-under-dualism|Completeness in Physics Under Dualism]] — the third-person/first-person gap CH gives a formal instance of
+- [[wavefunction-realism-vs-primitive-ontology|Wavefunction Realism versus Primitive Ontology]] — the ontology dispute beneath every interpretation: is `Ψ` a real high-dimensional field or a law over 3D matter?
 
 ## References
 
