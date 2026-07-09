@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review: 2026-06-15T23:46:52+00:00
+last_deep_review: 2026-07-09T10:17:33+00:00
 ---
 
 The Unfinishable Map and [[russellian-monism|Russellian monism]] start from the same insight: physics describes only the relational structure of matter — what things *do* — not what they *are*. Both conclude that consciousness cannot be reduced to structural description. Then they diverge. Russellian monism says consciousness *is* the intrinsic nature of physical entities, making mind and body two faces of one stuff. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]] says consciousness is ontologically distinct from physical structure and causally interacts with it at quantum indeterminacies. This divergence — identity versus interaction — appears to shape everything downstream: whether the [[combination-problem|combination problem]] arises, whether consciousness does genuine causal work, and whether many-worlds interpretation remains viable. Recent work by Pautz (2017), Cutter (2019), and Kind (2015) argues that Russellian monism's middle path between physicalism and dualism is unstable. The broader dual-aspect tradition — Spinoza, Fechner, Pauli-Jung, Bohm — repeatedly approaches the Map's position but stops short of genuine interaction between aspects. On the reading this article develops, the Map's explicit interactionist dualism is the interactionist endpoint the dual-aspect tradition repeatedly declines to take while remaining monist — a reading that turns on whether the instability arguments below succeed, which is itself a contested question in the literature rather than a settled result.

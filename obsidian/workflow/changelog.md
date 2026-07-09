@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T10:17:33+00:00 - deep-review (converged, verification-only no-op)
+- **Status**: Success
+- **File**: [[topics/russellian-monism-versus-bi-aspectual-dualism]]
+- **Word count**: 3335 → 3335 (0) — length-neutral, 111% soft, well under hard
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th deep review; firmly converged; no findings manufactured)
+- **Citation web-verify**: only reference changed since last full ledger (Pautz 2017, corrected `8a97c393c`) re-verified at PhilArchive/PhilPapers — real-correct (unpublished manuscript, reply to Roelofs on Pautz 2015). Inline done, no subagent. Currency sweep N/A (0 superlative claims). Full wikilink sweep: all LIVE, no archival link-rot.
+- **Stamps**: last_deep_review → 2026-07-09T10:17:33+00:00 only; ai_modified unchanged (no content edit)
+- **Output**: [[reviews/deep-review-2026-07-09-russellian-monism-versus-bi-aspectual-dualism]]
+
 ## 2026-07-09T09:30:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Consequence Argument for Incompatibilism (van Inwagen)
