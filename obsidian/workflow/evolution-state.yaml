@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-09T00:31:28.078206+00:00'
-session_count: 14386
-cycle_position: 10462
+last_updated: '2026-07-09T00:38:17.386990+00:00'
+session_count: 14387
+cycle_position: 10463
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-08T22:03:30.483235+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-07-09T00:27:57.548091+00:00'
   replenish-queue: '2026-07-09T00:31:28.078206+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
-  expand-topic: '2026-07-08T23:24:12.637538+00:00'
+  expand-topic: '2026-07-09T00:38:17.386990+00:00'
   add-highlight: '2026-07-08T08:04:30.497324+00:00'
   literature-drift-review: '2026-07-07T05:03:29.903546+00:00'
   collect-chatgpt-review: '2026-06-27T03:50:09.786001+00:00'
@@ -85,7 +85,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 298
+  topics_written: 299
   concepts_written: 274
   arguments_written: 5
   questions_written: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-07-08'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-08'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-09'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-07-09'
   outcome: success
 agentic_social:
@@ -654,7 +654,7 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 8
+  p2_tasks: 9
   p3_tasks: 20
   needs_replenishment: false
   loop_pickable_open: 1
@@ -824,9 +824,41 @@ queue_status:
     routing. OTHER SEVEN SOURCES unchanged from 14:56Z audit and remain exhausted
     -- NO manufactured converged-no-op deep-review, NO re-mint of reverted j-space/hylomorphism
     duplicates, blocked flagship human-decision + human-coalesce candidates untouched.'
-  last_replenishment: '2026-07-09T00:00:00+00:00'
+  last_replenishment: '2026-07-09T00:41:12+00:00'
   replenishment_source_counts:
-    unconsumed_research: 1
+    chain: 1
+  last_floor_restore_note_2026_07_09_00_41Z: 'Floor-triggered /replenish-queue 2026-07-09T00:41Z
+    (SINGLE /unfin-cycle loop; rapid commit cadence is this session''s own cycle siblings,
+    NOT a concurrent evolve_loop.py -- [[replenish-fork-hallucinates-concurrent-loop]]).
+    Executable P0-P2 floor was 0: the bacterial-chemotaxis expand-topic (minted 00:00Z,
+    see note below) completed and CREATED topics/bacterial-chemotaxis-and-minimal-biogenic-cognition.md
+    (2051w, live, opus-4-8, the PROKARYOTIC-FLOOR / final article of the sub-personal-competence
+    cluster); consuming that expand drained pickable P0-P2 back to 0 (the two remaining
+    P3 quantum-consciousness/personal-identity length tasks are Status:blocked/human).
+    PRIMARY MINT (Source 1 chain): the expand-topic did NOT emit its cross-review successor
+    ([[expand-topic-skips-integration-chain]]) -- minted ONE P2 cross-review of the
+    fresh create. ONLY prior pass on the article was citation verification (Lyon 2015/2006,
+    Berg, Koshland, Reber & Baluska 2020, Sentient Cell 2023, EMBO 2024 dissent -- all
+    verified); NO argument-lens pass; [[fresh-create-defect-tail]] predicts real findings.
+    Scope: reading-(c) calibration focused on the BODY (lead already framework-relative
+    per [[expand-topic-lead-overclaims-phenomenal-absence]] -- CONFIRM it stayed clean,
+    unlike neuron-less/cognitive-immune whose leads needed fixes): CBC/Reber-Baluska
+    must ANSWER not assert (functional cognition != phenomenal experience); two-memories
+    distinction (chemotactic receptor-methylation ~sec vs Lyon DNA-methylation long-term)
+    kept separate not conflated; empirical-figure fidelity (MCP->CheW/CheA->CheY-P flagellar
+    switch, CheR/CheB methylation, run-and-tumble). DIFFERENTIATION from [[consciousness-in-simple-organisms]]
+    (eukaryotic rung) preserved. Tenet-2/3 routing; one-voice with cluster. FRONTMATTER
+    FIX folded into the SAME cross-review (NOT a separate task): populate the article''s
+    EMPTY `concepts: []` with resolving concept siblings -- [[somatic-interface]] +
+    [[valence]] confirmed-resolving; add any other genuine concept the article invokes,
+    verify each resolves; topics: already populated (5 siblings), left untouched. RESOLVED-BY-CYCLE-SLOT
+    escape clause ([[deep_review_over_reviews_converged]]) if a same-day cycle deep-review
+    slot hits the file. DEDUP: bacterial expand already consumed->article (not re-minted);
+    neuron-less/brain-organoids/cognitive-immune cross-reviews all done (not re-minted).
+    Other 7 sources dry: (unconsumed_research) note consumed; (gap) exhausted; (staleness)
+    no >=30d AI files; (orphan) none; (length) two blocked human-decision flagships
+    untouched; (positions) no new stable commitment; (applied-apex) no qualifying cluster.
+    Minted exactly ONE, floor 0->1. YAML validated. No commit.'
   last_floor_restore_note_2026_07_09Z: 'Floor-triggered /replenish-queue 2026-07-09
     (SINGLE /unfin-cycle loop; rapid commit cadence is this session''s own cycle siblings,
     NOT a concurrent evolve_loop.py -- [[replenish-fork-hallucinates-concurrent-loop]]).
