@@ -4,7 +4,7 @@ description: "Pereboom's four-case manipulation argument and hard incompatibilis
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T16:17:28+00:00
+ai_modified: 2026-07-09T17:37:02+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -75,6 +75,7 @@ Where the Map does have leverage is at the level of method, and this is a [[tene
 - [[the-consequence-argument-for-incompatibilism]] — The incompatibilist argument the Map shares with Pereboom; the modal cousin of this intuition-driven vehicle
 - [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — Whether responsibility needs alternatives at all; the source-vs-leeway pivot this article's luck objection presses on
 - [[source-versus-leeway-incompatibilism]] — Why this is a source argument, and why Pereboom holds the source premise yet denies free will
+- [[frankfurt-hierarchical-mesh-theory-of-the-will]] — The hierarchical-desire compatibilism Plum satisfies in all four cases; its ahistorical mesh is exactly what the manipulation argument exploits
 - [[luck-objection]] — The present-luck challenge to libertarianism, close kin to the disappearing-agent objection
 - [[free-will]] — The Map's agent-causal libertarian position, the target hard incompatibilism threatens
 - [[agent-causation]] — Whether harnessed indeterminism can be the agent's doing rather than chance

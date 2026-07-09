@@ -4,7 +4,7 @@ description: "Leeway incompatibilism requires alternative possibilities; source 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T16:39:36+00:00
+ai_modified: 2026-07-09T17:37:02+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -88,6 +88,7 @@ The honest summary is that the taxonomy tells the Map *what kind* of freedom con
 - [[the-consequence-argument-for-incompatibilism]] — The Map's leeway-wing argument: determinism forecloses alternatives
 - [[the-manipulation-argument-and-hard-incompatibilism]] — The Map's source-wing opponent: determinism poisons the causal history
 - [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — The pivot that pushed incompatibilism from leeway toward source
+- [[frankfurt-hierarchical-mesh-theory-of-the-will]] — A structural compatibilism that sits off both wings: it requires neither alternatives nor sourcehood, and brackets the source question the manipulation argument then presses
 - [[moral-responsibility]] — How agent-causal sourcehood grounds desert
 - [[agent-causation]] — Sourcehood as origination, the commitment underlying the Map's wide view
 - [[reasons-responsiveness]] — Fischer's actual-sequence condition, the compatibilist sibling of source incompatibilism

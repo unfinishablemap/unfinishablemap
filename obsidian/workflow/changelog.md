@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T17:37:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Frankfurt's Hierarchical Mesh Theory of the Will (1971 "Freedom of the Will and the Concept of a Person")
+- **Output**: [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]]
+- **Word count**: 2259
+- **Based on research**: yes, [[research/frankfurt-hierarchical-mesh-theory-of-the-will-2026-07-09]]
+- **Integration**: reciprocal inbound links added from concepts/moral-responsibility, topics/free-will, concepts/source-versus-leeway-incompatibilism, topics/the-manipulation-argument-and-hard-incompatibilism
+- **Notes**: 1971 hierarchical-will kept distinct from 1969 PAP/Frankfurt-cases (cross-referenced, not merged). Cites verified inline: Frankfurt 1971 DOI 10.2307/2024717 re-confirmed resolving to J.Phil 68(1):5–20.
+
 ## 2026-07-09T17:20:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Frankfurt's Hierarchical Mesh Theory of the Will (1971 "Freedom of the Will and the Concept of a Person")
