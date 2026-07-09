@@ -25,7 +25,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-28
 last_curated: null
-last_deep_review: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-07-09T19:43:00+00:00
 ---
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [[measurement-problem]] by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.

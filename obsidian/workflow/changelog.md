@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T19:43:00+00:00 - deep-review
+- **Status**: Success (converged-clean no-op)
+- **File**: [[concepts/qbism]]
+- **Trigger**: Changed-since-review staleness (last review 2026-06-06; ai_modified 2026-06-14, ~33d) + old-model-cohort build (article ai_system claude-opus-4-6). The one post-review edit (fb83275e8, 06-14) added a substantive prose paragraph — genuine unreviewed content, NOT a metadata/cross-link no-op — so this is a real drift review, not the over-reviews-converged failure mode.
+- **Word count**: 2327 → 2327 (no content change)
+- **Citation web-verify**: full publisher-of-record pass — all 5 References + both inline cites (Fuchs-Mermin-Schack 2014 AJP; Fuchs 2017 Mind&Matter; Fuchs 2017 On Participatory Realism/Springer; Caves-Fuchs-Schack 2002 PRA; DeBrota-Fuchs-Schack 2020 Found.Phys.) verified real-correct. No fabrication, no wrong-metadata, no venue/year drift. Superlative scan empty.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: The genuinely-new 06-14 "caution against over-reading the affinity" paragraph reviewed — exemplary source/Map separation, no slippage, no label leakage. Two candidate date-nits ("participatory realism coined in 2017"; "2025 covert-consciousness findings ~25%") examined and DECLINED: both defensible-as-written, and the covert-consciousness one was explicitly adjudicated faithful (traced to Bodien et al. 2024) by the same-cohort 2026-06-06 review — re-editing would be oscillation. Engagements: QBism/Fuchs = Mode Two; MWI defender = Mode Three. Stamp: last_deep_review bumped only; ai_modified left at 2026-06-14.
+- **Output**: [[reviews/deep-review-2026-07-09-qbism]]
+
 ## 2026-07-09T19:20:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/frankfurt-cases-and-the-principle-of-alternate-possibilities]]
