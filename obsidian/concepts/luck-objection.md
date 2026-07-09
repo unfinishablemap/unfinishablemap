@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-06-23T00:12:57+00:00
+ai_modified: 2026-07-09T18:42:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -155,6 +155,7 @@ The luck objection directly challenges the Map's [[tenets#^bidirectional-interac
 - [[topics/free-will]] — Broader treatment of free will and determinism
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's disappearing-agent objection, the close cousin of this present-luck challenge
 - [[agent-causation]] — How agents cause actions as substances
+- [[event-causal-libertarianism]] — The libertarian taxonomy showing why this objection bears hardest on the event-causal wing, and Kane's replies in full
 - [[mental-effort]] — The phenomenology of effort and quantum Zeno mechanism
 - [[volitional-control]] — The empirical and phenomenological case anchoring the effort-tracks-selection reply to luck
 - [[quantum-consciousness]] — The broader framework for consciousness-physics interaction

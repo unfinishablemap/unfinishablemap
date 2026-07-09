@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-07-09T10:27:36+00:00
+ai_modified: 2026-07-09T18:42:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -182,6 +182,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 
 - [[consciousness-and-agency]], [[process-and-consciousness]] — Apex syntheses
 - [[quantum-indeterminacy-free-will]] — Systematic treatment, Kane's 2024 convergence
+- [[event-causal-libertarianism]] — The libertarian taxonomy locating this wing against its event-causal and non-causal rivals, with Kane's self-forming actions in full
 - [[luck-objection]], [[agency-void]] — The central objection and the verification-circularity limit
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's empirical "wild coincidences" objection to agent-causal libertarianism
 - [[motor-selection]], [[attention-as-interface]], [[phenomenology-of-choice-and-volition]] — Empirical and phenomenological grounding

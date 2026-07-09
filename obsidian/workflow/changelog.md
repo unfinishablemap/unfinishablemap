@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T18:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Event-Causal Libertarianism and the Taxonomy of Libertarian Free Will
+- **Output**: [[topics/event-causal-libertarianism]]
+- **Word count**: 2319
+- **Based on research**: yes, [[event-causal-libertarianism-2026-07-09]]
+- **Integration**: reciprocal inbound links added from topics/free-will, concepts/agent-causation, concepts/luck-objection, concepts/source-versus-leeway-incompatibilism
+- **Citations**: Pereboom 2014 disappearing-agent DOI web-verified inline (Philosophical Studies 169(1):59-69, 10.1007/s11098-012-9899-2)
+
 ## 2026-07-09T18:34:00+00:00 - deep-review
 - **Status**: Success (citation-verification clean pass; no-op content)
 - **File**: [[topics/empirical-phenomena-mental-causation]]

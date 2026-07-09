@@ -4,7 +4,7 @@ description: "Leeway incompatibilism requires alternative possibilities; source 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T17:37:02+00:00
+ai_modified: 2026-07-09T18:42:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -92,6 +92,7 @@ The honest summary is that the taxonomy tells the Map *what kind* of freedom con
 - [[moral-responsibility]] — How agent-causal sourcehood grounds desert
 - [[agent-causation]] — Sourcehood as origination, the commitment underlying the Map's wide view
 - [[reasons-responsiveness]] — Fischer's actual-sequence condition, the compatibilist sibling of source incompatibilism
+- [[event-causal-libertarianism]] — The cross-cutting taxonomy of *what does the causing* (event, agent, or non-causal), into which the source/leeway split interlocks
 - [[free-will]] — The Map's agent-causal libertarian position located within this taxonomy
 - [[reactive-attitudes-and-strawsonian-responsibility]] — Strawsonian compatibilism as a source-neutral refusal of the question this taxonomy frames
 - [[tenets]] — The foundational commitments that motivate the Map's interest in both conditions

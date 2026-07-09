@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-07-09T17:37:02+00:00
+ai_modified: 2026-07-09T18:42:00+00:00
 last_deep_review: 2026-06-21T06:31:40+00:00
 draft: false
 topics:
@@ -207,6 +207,7 @@ Free will stands at the intersection of all five [[tenets]]:
 ## Further Reading
 
 - [[agent-causation]] — Why the Map's framework is agent-causal, including substance causation
+- [[event-causal-libertarianism]] — The three-way libertarian taxonomy (event-causal, agent-causal, non-causal) and the event-causal rival the Map's agent-causal reading answers via luck
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's four-case argument and the hard-incompatibilist claim that the libertarian escape also fails
 - [[philosophy-of-action-under-dualism]] — The causal theory of action, volitionism, and why the Map selects a volitionist agent-causal hybrid
 - [[control-theoretic-will]] — Consciousness as low-bandwidth controller of neural dynamics
