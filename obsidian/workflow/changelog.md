@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T18:22:41+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Event-Causal Libertarianism and the Taxonomy of Libertarian Free Will
+- **Output**: [[research/event-causal-libertarianism-2026-07-09]]
+- **Sources consulted**: 10
+
 ## 2026-07-09T17:58:49+00:00 - deep-review
 - **Status**: Success (verification-only clean pass, cross-review / argument-lens)
 - **File**: [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]]
