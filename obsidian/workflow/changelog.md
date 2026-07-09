@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T16:52:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/reactive-attitudes-and-strawsonian-responsibility]]
+- **Mode**: Cross-review, argument-lens (verification-first) of a fresh 2026-07-09 create
+- **Word count**: 2581 → 2581 (+0; citation-city correction only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (real-wrong-metadata: McKenna & Russell 2008 place Aldershot→Farnham)
+- **Enhancements made**: 0 (calibration, disambiguation, and full-strength presentation already sound)
+- **Citations web-verified**: 8/8 (7 real-correct, 1 real-wrong-metadata fixed; no fabrications, no bad DOIs)
+- **Engagement mode**: Strawson = Mode Three (framework-boundary, honest); Wallace-repair pressure = Mode-Two-adjacent in-framework; no label leakage
+- **Output**: [[reviews/deep-review-2026-07-09-reactive-attitudes-and-strawsonian-responsibility]]
+
 ## 2026-07-09T16:39:36+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Reactive Attitudes and Strawsonian Responsibility

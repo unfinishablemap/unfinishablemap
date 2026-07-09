@@ -4,7 +4,7 @@ description: "P.F. Strawson's 1962 dissolution of the free-will problem, present
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T16:39:36+00:00
+ai_modified: 2026-07-09T16:52:31+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -22,7 +22,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review:
+last_deep_review: 2026-07-09T16:52:31+00:00
 ---
 
 P.F. Strawson's "Freedom and Resentment" (1962) is the most influential attempt to *dissolve* the free-will problem rather than answer it. Its claim: moral responsibility is not read off a prior metaphysics of libertarian free will; it is **constituted by** our susceptibility to the "reactive attitudes"—resentment, indignation, gratitude, hurt feelings, guilt, love—which are the natural human responses to the quality of will others display toward us. Because these attitudes are woven so deeply into interpersonal life that we could not, and would not, abandon them wholesale, the theoretical question "does determinism undermine responsibility?" is, Strawson argues, idle. This article presents that dissolution at full strength, because it is a genuine compatibilist rival to the Map's libertarianism, not a strawman. The Map declines the dissolution—it holds that the metaphysical question is real and open—but that resistance is a *framework-relative* disagreement about what responsibility requires. **It is not evidence for dualism, and Strawson's account is not shown to be false.** What follows separates Strawson's argument (and its normative repairs) from the Map's reasons for keeping the metaphysical question open.
@@ -102,7 +102,7 @@ It is worth noting that Strawson is pressed from the *opposite* flank too. Free-
 1. Wallace, R. J. (1994). *Responsibility and the Moral Sentiments*. Cambridge, MA: Harvard University Press.
 1. Watson, G. (1987). "Responsibility and the Limits of Evil: Variations on a Strawsonian Theme." In F. Schoeman (ed.), *Responsibility, Character, and the Emotions: New Essays in Moral Psychology*. Cambridge: Cambridge University Press. (Reprinted in Watson, *Agency and Answerability*, Oxford University Press, 2004.)
 1. Fischer, J. M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge: Cambridge University Press.
-1. McKenna, M., & Russell, P. (eds.) (2008). *Free Will and Reactive Attitudes: Perspectives on P. F. Strawson's "Freedom and Resentment"*. Aldershot: Ashgate.
+1. McKenna, M., & Russell, P. (eds.) (2008). *Free Will and Reactive Attitudes: Perspectives on P. F. Strawson's "Freedom and Resentment"*. Farnham: Ashgate.
 1. Strawson, G. (1994). "The Impossibility of Moral Responsibility." *Philosophical Studies*, 75(1–2), 5–24. [Galen Strawson, included for disambiguation only.]
 1. Stanford Encyclopedia of Philosophy. "Compatibilism." https://plato.stanford.edu/entries/compatibilism/
 1. Stanford Encyclopedia of Philosophy. "Peter Frederick Strawson." https://plato.stanford.edu/entries/strawson/
