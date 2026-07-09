@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T10:36:00+00:00 - deep-review
+- **Status**: Success (cross-review / fresh-create defect-tail, argument-lens)
+- **File**: [[topics/the-consequence-argument-for-incompatibilism]]
+- **Word count**: 2121 → 2121 (verification-only, no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Calibration**: PASS — lead establishes incompatibilism only; hard-determinist/libertarian share the argument; Map's libertarianism routed to the separate indeterminist premise; Lewis + Beta replies live and contested. No rescope needed.
+- **Citations web-verified inline (no subagent)**: van Inwagen 1983 Essay on Free Will (Clarendon/OUP, Ch.3) real-correct; Lewis 1981 Theoria 47(3):113–121 DOI 10.1111/j.1755-2567.1981.tb00473.x real-correct; McKay & Johnson 1996 Philosophical Topics 24(2):113–122 real-correct (no DOI invented); Merlussi 2022 Philosophical Explorations 25(2) DOI 10.1080/13869795.2022.2034917 real-correct (fork's page-range removal held; no fabricated range/DOI present).
+- **Formalization**: PASS — Alpha (`□p⊢Np`) / Beta (`Np, N(p→q)⊢Nq`) correct and not swapped; McKay–Johnson counterexample targets Beta via agglomeration; notation backtick-wrapped.
+- **Scope**: PASS — defers master treatment to free-will; luck-objection scoped downstream; no rollback/manipulation conflation. Tenets 1/2/3/4 routed and resolved.
+- **Frontmatter**: last_deep_review set 2026-07-09T10:36:00+00:00; ai_modified unchanged (no-op hygiene).
+- **Output**: [[reviews/deep-review-2026-07-09-the-consequence-argument-for-incompatibilism]]
+
 ## 2026-07-09T10:27:36+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Consequence Argument for Incompatibilism (van Inwagen)

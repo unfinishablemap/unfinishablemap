@@ -21,6 +21,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
+last_deep_review: 2026-07-09T10:36:00+00:00
 ---
 
 The Consequence Argument, formulated by Peter van Inwagen in *An Essay on Free Will* (1983), is widely regarded as the strongest single argument for **incompatibilism**—the thesis that free will is incompatible with determinism. Its intuitive core is simple: if determinism is true, our present acts follow by natural law from events in the remote past; but we have no choice about the remote past, and no choice about the laws of nature; so we have no choice about our present acts. This is the master argument that the Map's [[free-will|free-will position]] presupposes but has never explicitly stated.
