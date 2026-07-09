@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T04:12:13+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Aesthetic Testimony and the Acquaintance Principle
+- **Output**: [[research/aesthetic-testimony-and-the-acquaintance-principle-2026-07-09]]
+- **Sources consulted**: 9 (SEP, Int'l Lexicon of Aesthetics, + 7 publisher/PhilPapers pages)
+
 ## 2026-07-09T03:26:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/vertiginous-question]]
