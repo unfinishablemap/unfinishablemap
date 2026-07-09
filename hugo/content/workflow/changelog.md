@@ -9,6 +9,95 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-09T16:06:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Source versus Leeway Incompatibilism
+- **Output**: [source-versus-leeway-incompatibilism-2026-07-09](/research/source-versus-leeway-incompatibilism-2026-07-09/)
+- **Sources consulted**: 8 (5 books web-verified at publisher of record; 2 SEP entries verified live; 1 textbook)
+
+## 2026-07-09T15:13:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
+- **Word count**: 2938 → 2938 (±0; References reordering + blank-line removal, body prose unchanged)
+- **Critical issues addressed**: 0 (converged; no critical issues found — a success)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 References-block alphabetical-ordering fixes (Esmaeilpour before Fisher; Mavromatos after Luo) + stray blank-line removal — the slug's known citation-churn failure zone
+- **Citation verify**: full ~33-cite list clean since 2026-06-04 publisher web-verify; this pass re-verified Esmaeilpour et al. 2025 (real-correct, still bioRxiv preprint 2025.08.23.671929 — venue current) and verified the new 2026-06-25 GABA_A-trafficking/isoflurane classical-reading sub-claim (accurate — KIF5/HAP1 microtubule transport). No superlatives to currency-check.
+- **Drift**: 2026-06-25 refine added calibration-tightening prose (Orch OR "contested", Wiest "partisan advocate", NV-centre "decade horizon") — verified defect-free, calibration-improving
+- **Output**: [deep-review-2026-07-09-quantum-biology-and-neural-mechanisms](/reviews/deep-review-2026-07-09-quantum-biology-and-neural-mechanisms/)
+
+## 2026-07-09T14:37:20+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: This session's free-will/incompatibilism wave (consequence-argument, manipulation-argument/hard-incompatibilism, frankfurt-cases/PAP, akrasia) with the surrounding free-will hub
+- **Output**: [optimistic-2026-07-09](/reviews/optimistic-2026-07-09/)
+- **Key finding**: Exceptionally well-calibrated cluster; Process-Philosopher and Hardline-Empiricist personas converge (no tenet-as-evidence-upgrade slippage). Named uncovered adjacent subjects for harvest: event-causal vs agent-causal libertarianism, source vs leeway incompatibilism, Strawsonian reactive attitudes, Fischer's semicompatibilism, free-will skepticism's constructive ethics, Frankfurt-1971 hierarchical/mesh theory of will
+
+## 2026-07-09T14:03:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Target rationale**: genuine post-review drift — `ai_modified` 2026-07-08 (refine `e84c29b55`) post-dates `last_deep_review` 2026-06-02; four substantive prose additions never seen by a deep-review lens (fresh-create-defect-tail on yesterday's refine that implemented the 2026-07-08 pessimistic review's three fixes). Not a converged-clean metadata no-op.
+- **Word count**: 2446 → 2472 (+26, length-neutral, 99% of soft threshold)
+- **Critical issues addressed**: 1 (internal-consistency: line-62 listed illusionism as a "contest-the-setup rather than any step" response while lines 66-68 classify it as Type-A / Step-1 denial; reworded to keep the ability hypothesis as the sole out-of-map example and reconcile illusionism as Type-A)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (three other fresh additions — ability-hypothesis subsumption qualifier, 2D-semantics contested-premise flag, nomological-vs-metaphysical modality paragraph — audited clean; the modality paragraph is a durable improvement, preserved)
+- **Citations**: 6 canonical References unchanged (verified across 5 prior reviews); new inline "ability hypothesis (Lewis, Nemirow)" attribution verified real-correct. No superlative/currency claims.
+- **Engagement modes** (editor-internal): ability-hypothesis reply — honest concession, no boundary-substitution; illusionism/Frankish — Mixed (Mode Two→One), carried forward; Tenet-3 ladder objection (line 116) — internal in-framework resolution, not named-opponent.
+- **Stamps**: both bumped (content fix), 2026-07-09T14:03:39+00:00 ≤ real UTC now.
+- **Output**: [deep-review-2026-07-09-zombie-master-argument](/reviews/deep-review-2026-07-09-zombie-master-argument/)
+
+## 2026-07-09T13:40:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/)
+- **Lens**: cross-review / argument-lens on fresh same-session create (citation lens ran at create-time)
+- **Word count**: 2130 → 2130 (+0, verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Findings**: Lead + RTSP phenomenal-absence calibration holds (no over-claim leaked; three naturalistic escape routes each flagged); 6 citations web-verified real-correct incl. Davidson p.42 quote + 1969/1970 hedge intact; four-position structure faithful; scope clean of incompatibilism trio; 3 inbound links confirmed landed, not orphaned. Stamp: last_deep_review-only (ai_modified left at create-time per no-op hygiene).
+- **Output**: [deep-review-2026-07-09-akrasia-and-weakness-of-will](/reviews/deep-review-2026-07-09-akrasia-and-weakness-of-will/)
+
+## 2026-07-09T13:30:36+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Akrasia and Weakness of Will
+- **Output**: [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/)
+- **Word count**: 2130
+- **Based on research**: yes, [akrasia-and-weakness-of-will-2026-07-09](/research/akrasia-and-weakness-of-will-2026-07-09/)
+
+## 2026-07-09T13:10:06+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Akrasia and Weakness of Will
+- **Output**: [akrasia-and-weakness-of-will-2026-07-09](/research/akrasia-and-weakness-of-will-2026-07-09/)
+- **Sources consulted**: 5 (SEP "Weakness of Will"; Davidson *Essays on Actions and Events* / OUP; Aristotle NE VII; Holton *Willing, Wanting, Waiting* / OUP; Plato *Protagoras*)
+
+## 2026-07-09T12:42:50+00:00 - deep-review
+- **Status**: Success (verification-only no-op; converged article, 7th+ review)
+- **File**: [meaning-of-life](/topics/meaning-of-life/)
+- **Word count**: 3998 → 3998 authored prose, unchanged (tool reports 4038 incl. 40-word embed-videos caption boilerplate)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (nominal hard-cap breach is video-caption boilerplate, not prose accretion — condense declined to avoid regressing calibrated content)
+- **Enhancements made**: 0
+- **Citations web-verified**: 22 inline at publisher of record — all real-correct. Precise-metadata cites confirmed: Kammerer 2022 Erkenntnis 87(2) 499–515 doi:10.1007/s10670-019-00204-4; Street 2006 Phil Studies 127(1) 109–166 doi:10.1007/s11098-005-1726-6; Frankish 2016 JCS 23(11–12) 11–39; Nagel 1971 J Phil 68(20) 716–727; Metz 2022 Oxford Handbook pp. 27–42; Tallis 2024 Philosophy Now 161 pp. 58–59; Metz 2019 CUP Elements; Olson 2014 OUP. No fabrications, no wrong-metadata, no orphans inline↔References.
+- **Currency sweep**: 0 superlative claims detected; no drift
+- **Archival link-rot**: none — all 28 wikilink targets resolve to live files
+- **Calibration**: clean — quantum mechanism / No-MWI / core-thesis separation all honestly tiered; no possibility/probability slippage
+- **Engagement modes** (editor-internal): Metz / error-theorist / Street / illusionist = Mixed (in-framework + honest boundary-marking); compatibilist / Everettian / Benatar / Nagel / neutral-nihilist = Mode Three; no label leakage
+- **Stamps**: last_deep_review only → 2026-07-09T12:42:50+00:00 (ai_modified unchanged at 2026-07-06 — verification-only)
+- **Output**: [deep-review-2026-07-09-meaning-of-life](/reviews/deep-review-2026-07-09-meaning-of-life/)
+
+## 2026-07-09T12:21:02+00:00 - deep-review
+- **Status**: Success (cross-review / fresh-create defect-tail, argument-lens)
+- **File**: [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/)
+- **Word count**: ~2388 → ~2388 (verification-only, no content edits)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 6 — Frankfurt 1969 (real-correct), Widerker 1995 (real-correct; corrected DOI resolves, no 404), Widerker & Goetz 2013 (real-correct), Fischer 1994 / Fischer & Ravizza 1998 / Kane 1996 (real-correct, book-level, no page cites)
+- **Calibration**: clean — source-vs-leeway key move present, labeled a "retreat", all three costs flagged; no over-claim, no rescope
+- **Engagement modes** (editor-internal): Fischer semicompatibilism = Mode Three (boundary-marking, honest); dilemma-defense first horn = Mode Two (unsupported-move / question-begging); no label leakage
+- **1969-vs-1971 conflation**: clean and reciprocal (moral-responsibility note both directions)
+- **Stamps**: last_deep_review only (ai_modified unchanged — verification-only clean)
+- **Output**: [deep-review-2026-07-09-frankfurt-cases-and-the-principle-of-alternate-possibilities](/reviews/deep-review-2026-07-09-frankfurt-cases-and-the-principle-of-alternate-possibilities/)
+
 ## 2026-07-09T12:00:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 7 (cycle-438 spot-check of this session's new free-will + aesthetics articles)

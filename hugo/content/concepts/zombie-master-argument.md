@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-08 22:04:21+00:00
+ai_modified: 2026-07-09 14:03:39+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: How the conceivability argument against physicalism functions as a 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 03:34:50+00:00
+last_deep_review: 2026-07-09 14:03:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ Saul Kripke's argument from *Naming and Necessity* (1980) — that pain cannot b
 
 ## The Physicalist Response Map
 
-The master argument's elegance is that it turns the debate into a decision tree. Every physicalist must deny at least one premise, and the denials of the three explicit steps appear jointly exhaustive — though a response can also contest the setup itself rather than any step, as the ability-hypothesis reply to Mary above and the illusionist challenge below both do.
+The master argument's elegance is that it turns the debate into a decision tree. Every physicalist must deny at least one premise, and the denials of the three explicit steps appear jointly exhaustive — though a response can also sidestep the step-denials entirely, as the ability-hypothesis reply to Mary above does: it blocks the knowledge argument without mapping onto any of the three zombie-denial steps. (The illusionist challenge, by contrast, does land on a step — it is the most developed Type-A denial of conceivability, treated below.)
 
 ### Type-A Physicalism: Deny Conceivability
 

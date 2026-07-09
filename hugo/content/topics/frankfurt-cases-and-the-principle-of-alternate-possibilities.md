@@ -17,6 +17,7 @@ description: Frankfurt's counterfactual-intervener counterexample to the princip
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-09 12:21:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

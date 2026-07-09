@@ -37,6 +37,7 @@ related_articles:
 - '[[the-steelman-for-value-blind-selection]]'
 - '[[affective-forecasting-gap]]'
 - '[[negative-valence-asymmetry-and-the-selection-weighting-function]]'
+- '[[akrasia-and-weakness-of-will]]'
 title: Valence and the Mechanism of Conscious Selection
 topics:
 - '[[topics/free-will]]'
@@ -46,6 +47,8 @@ topics:
 ---
 
 The Unfinishable Map commits to two claims that jointly force an unresolved question. First, consciousness causally selects among physically underdetermined outcomes ([Bidirectional Interaction](/tenets/#bidirectional-interaction)). Second, value resides in phenomenal experience—the felt badness of suffering is intrinsic, not projected ([consciousness-value-connection](/concepts/consciousness-value-connection/)). The question these commitments force: **does the selection mechanism operate guided by valence, or is it value-blind?**
+
+[Akrasia](/topics/akrasia-and-weakness-of-will/)—acting against one's own better judgement—sharpens the stakes: it is the case where selection demonstrably diverges from the agent's all-things-considered evaluation, which the value-blind horn accommodates readily and the value-sensitive horn must explain as a local failure of valence to guide the mechanism.
 
 If selection is *value-blind*, consciousness steers neural outcomes through attention and intention alone, treating these as neutral pointers. Valence is real but causally idle in the selection process itself—value becomes epiphenomenal to the very mechanism the Map claims consciousness operates through. If selection is *value-sensitive*, valence directly influences which outcomes get selected. The felt goodness or badness of anticipated states shapes which quantum possibilities become actual, making the Map's physics locally teleological: outcomes are selected *because they matter*, not merely *by* something to which things matter. The metaethical stakes are sharpened in [phenomenal value realism's case against epiphenomenal value](/topics/phenomenal-value-realism/#against-epiphenomenal-value): the metaethical position alone secures that value is real and grounded in conscious experience, but unless the *evaluative* dimension does selection work in its own right, value's non-epiphenomenality is weaker than the metaethics on its own delivers. This article states the fork explicitly, develops both horns, explores a middle path, and proposes how each would show up in testable predictions.
 

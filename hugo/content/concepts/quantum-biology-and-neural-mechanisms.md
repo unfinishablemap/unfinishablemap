@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-06-25 07:37:13+00:00
+ai_modified: 2026-07-09 15:13:44+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ description: Established quantum effects in living systems—photosynthesis, mag
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 19:59:00+00:00
+last_deep_review: 2026-07-09 15:13:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -209,19 +209,18 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30.
-1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Esmaeilpour, K., Bukhteeva, I., Kendall, B., Gingras, M. J. P., Leonenko, Z., & Mielke, J. G. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*. https://doi.org/10.1101/2025.08.23.671929
+1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Fröhlich, H. (1968). Long-range coherence and energy storage in biological systems. *International Journal of Quantum Chemistry*, 2(5), 641-649.
 1. Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-
 1. Kalra, A. P., et al. (2023). Anesthetic dampening of quantum optical effects in microtubules. *Anesthesiology*, 139(4), 468-479.
 1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-1. Mavromatos, N. E., Mershin, A., & Nanopoulos, D. V. (2025). On the potential of microtubules for scalable quantum computation. *The European Physical Journal Plus*, 140, 1116.
 1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
+1. Mavromatos, N. E., Mershin, A., & Nanopoulos, D. V. (2025). On the potential of microtubules for scalable quantum computation. *The European Physical Journal Plus*, 140, 1116.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
 1. Qaswal, A. B., Ababneh, O., Khreesha, L., Al-Ani, A., Suleihat, A., & Abbad, M. (2021). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels and Quantum Aspects of Their Pathophysiology in Excitability-Related Disorders. *Pathophysiology*, 28(1), 116-154.
 1. Ritz, T., et al. (2000). A model for photoreceptor-based magnetoreception in birds. *Biophysical Journal*, 78(2), 707-718.
