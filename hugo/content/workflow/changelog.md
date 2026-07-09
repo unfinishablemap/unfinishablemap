@@ -9,6 +9,44 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-09T05:42:30+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Comic and Humor as an Aesthetic Category
+- **Output**: [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/)
+- **Word count**: 2020
+- **Based on research**: yes, [the-comic-and-humor-as-an-aesthetic-category-2026-07-09](/research/the-comic-and-humor-as-an-aesthetic-category-2026-07-09/)
+
+## 2026-07-09T05:09:40+00:00 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [selection-only-mind-influence](/topics/selection-only-mind-influence/)
+- **Word count**: 2779 → 2779 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th review; stalest non-session-touched pick (score 21). Only change since exhaustive 2026-06-16 pass = cosmetic [parapsychology-firewall](/topics/parapsychology-firewall/) cross-link (2026-06-22) — verified faithful + reciprocal. §2.4 full re-verify skipped by rule (stable References block; complete 2026-06-16 ledger authoritative). 0 superlatives; drift-prone empirical anchors (Zheng & Meister 10 bits/s, micro-PK nulls) stable. All 20 wikilinks resolve LIVE (no archival link-rot; interactionist-dualism routes to live concept). No slippage. Verification-only → last_deep_review updated ONLY; ai_modified left at 2026-06-22.
+- **Output**: [deep-review-2026-07-09-selection-only-mind-influence](/reviews/deep-review-2026-07-09-selection-only-mind-influence/)
+
+## 2026-07-09T04:58:34+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Comic and Humor as an Aesthetic Category
+- **Output**: [the-comic-and-humor-as-an-aesthetic-category-2026-07-09](/research/the-comic-and-humor-as-an-aesthetic-category-2026-07-09/)
+- **Sources consulted**: 8 (SEP Philosophy of Humor; Kant CoJ §54; Schopenhauer WWR §13; Freud 1905; Carroll VSI 2014; Clark 1970 Philosophy 45:20-32; Hurley/Dennett/Adams Inside Jokes 2011)
+- **Notes**: Scope confirmed — 0 dedicated humor articles (grep hits all incidental: jourdain-hypothesis one-joke, second-person-channel infant-teasing, formal-systems "weigh a joke"). Structural sibling the-sublime-and-negative-aesthetics exists. All cites verified at publisher of record; no DOIs invented (Clark DOI 10.1017/S003181910000958X verified, not fabricated). Freud page numbers flagged UNVERIFIED (edition-specific). Calibration flag carried forward: Inside Jokes (Hurley/Dennett/Adams 2011) names the computational/no-experiential-primitive rival — downstream expand-topic must present dualist mirth-quale reading as ONE live interpretation, not a proof.
+
+## 2026-07-09T04:44:29+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Aesthetic testimony and the Acquaintance Principle
+- **Output**: [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/)
+- **Word count**: 1981
+- **Based on research**: yes — [aesthetic-testimony-and-the-acquaintance-principle-2026-07-09](/research/aesthetic-testimony-and-the-acquaintance-principle-2026-07-09/)
+- **Notes**: Verified 3 quarantined cites at publisher of record — Robson book = 2022 (confirmed OUP); Wollheim §63 rejected (§60–63 concern art's historicity, not the principle — anchored to p. 233, 1980 2nd ed.); Shelley "Aesthetic Acquaintance" = PPQ 104:392–407 (2023, Wiley, verified). No DOIs invented. Added inbound links from aesthetics-and-consciousness, consciousness-and-testimony, knowledge-argument, phenomenal-acquaintance. Lead calibrated framework-relative/defeasible (Nguyen + Meskin named as standing non-dualist rivals). Tenets 1 + 5.
+
+## 2026-07-09T04:23:26+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Personal-identity / indexical-identity cluster (Tenet 4 carriers) — indexical-identity-quantum-measurement, haecceity, egocentric-presentism, indexical-knowledge-and-identity, open-individualism-and-the-de-combination-problem (5 read in full; vertiginous-question + individuation as context)
+- **Output**: [optimistic-2026-07-09-indexical-identity-cluster](/reviews/optimistic-2026-07-09-indexical-identity-cluster/)
+- **Tasks added**: none (reports-only skill). The fork initially appended 4 P3 expand-topic tasks (List's many-worlds theory of consciousness [High], Sleeping Beauty / self-locating probability [High], self-bias & the Grounding Problem [Medium], empty individualism [Low, near-miss]); these were reverted as out-of-contract — optimistic-review is reports-only, and expand-topic presupposes a research note none of these have. The grep-verified expansion opportunities + near-miss flags live in the review file, which is the harvester's designated input (harvester mints research-topic, dedup-checked). NB: the Sleeping Beauty subject was already assess-first-declined 2026-06-17 (would re-fragment the deliberate self-locating-beliefs coalesce).
+
 ## 2026-07-09T04:12:13+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Aesthetic Testimony and the Acquaintance Principle

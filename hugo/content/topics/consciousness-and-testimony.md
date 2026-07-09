@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-26 12:18:51+00:00
+ai_modified: 2026-07-09 04:44:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -168,6 +168,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How consciousness converts experience into language
 - [voids-between-minds](/voids/voids-between-minds/) — The constitutive gap between consciousnesses
 - [knowledge-argument](/concepts/knowledge-argument/) — What testimony cannot convey about phenomenal experience
+- [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/) — Why testimony seems to fail specifically for aesthetic value: the Acquaintance Principle and the pessimism debate
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — Deciding without full information
 - [cumulative-culture](/concepts/cumulative-culture/) — How testimonial networks build civilisation
 

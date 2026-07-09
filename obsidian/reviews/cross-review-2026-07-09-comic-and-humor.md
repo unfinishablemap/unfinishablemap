@@ -55,4 +55,4 @@ No fabricated quotes, no fabricated citations, no phantom page numbers.
 
 Citation-metadata fix applied (Schultz → Shultz, ×2) → both `ai_modified` and `last_deep_review` set to `2026-07-09T05:57:41+00:00` (real time, not future-dated). The fresh-create defect-tail is closed: argument calibration was clean at create (sibling-lesson pre-applied), and the one citation defect the create pass missed (author spelling) was caught by the independent citation lens and corrected.
 
-*Finalized by the orchestrator after the review fork returned early ([[deep-review-fork-returns-before-subagent]] pattern); the citation-verification subagent's verdict was harvested from its completion notification and is recorded in full above, and the argument-lens pass was performed directly by the orchestrator.*
+*Finalized by the orchestrator after the review fork returned early (the fork-returns-before-its-citation-subagent pattern); the citation-verification subagent's verdict was harvested from its completion notification and is recorded in full above, and the argument-lens pass was performed directly by the orchestrator.*

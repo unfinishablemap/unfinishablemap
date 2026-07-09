@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-21 22:42:00+00:00
+ai_modified: 2026-07-09 04:44:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -188,6 +188,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [materialism](/concepts/materialism/) — The view the argument challenges
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How reference to consciousness resists standard theories of meaning, reinforcing the knowledge argument's gap
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts
+- [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/) — The aesthetics-native sibling argument: why aesthetic value seems non-transmissible by testimony
 - [tenets](/tenets/) — How the Map's framework responds
 
 ## References

@@ -18,7 +18,7 @@ description: 'Human–AI exploration of the strictest reading of mind-on-quantum
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 04:17:56+00:00
+last_deep_review: 2026-07-09 05:09:40+00:00
 modified: *id001
 related_articles:
 - '[[trilemma-of-selection]]'

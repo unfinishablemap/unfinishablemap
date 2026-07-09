@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-22 17:40:00+00:00
+ai_modified: 2026-07-09 04:44:29+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -164,6 +164,7 @@ A further caveat: acquaintance with pain positions you to know *what pain is lik
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure but not qualitative character
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap between physical and phenomenal
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic knowledge requires acquaintance across diverse substrates
+- [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/) — Wollheim's Acquaintance Principle: the aesthetics-side echo of acquaintance-knowledge's non-transmissibility
 - [acquaintance-void](/voids/acquaintance-void/) — The structural limits on what modes of acquaintance are possible
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — What acquaintance provides that symbol manipulation cannot
 

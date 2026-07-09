@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-06 13:23:12.056384+00:00
+ai_modified: 2026-07-09 04:44:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -165,6 +165,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 
 - [creative-aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — The sublime, tragedy, ugliness, and disgust as the sharpest test that aesthetic value is irreducible to hedonic pleasure
+- [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/) — Humor as a further non-beauty aesthetic category, and mirth as a candidate irreducible evaluative quale (with the computational rival named at full strength)
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - [the-binding-problem](/topics/the-binding-problem/) — The five standard varieties of phenomenal binding
@@ -176,6 +177,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Experiential evidence for consciousness theories
 - [creative-consciousness](/concepts/creative-consciousness/) — Aesthetic experience guiding scientific theory choice
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience
+- [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/) — Why aesthetic value seems non-transferable by testimony, and Wollheim's Acquaintance Principle
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Cross-traditional convergence on aesthetic and evaluative qualia, including Indian rasa theory
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [cognitive closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent
