@@ -4,8 +4,8 @@ description: "E. coli senses, remembers, and decides with zero neurons—the pro
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T00:34:08+00:00
-last_deep_review: 2026-07-09T00:34:08+00:00
+ai_modified: 2026-07-09T00:44:01+00:00
+last_deep_review: 2026-07-09T00:44:01+00:00
 draft: false
 topics:
   - "[[consciousness-in-simple-organisms]]"
@@ -13,7 +13,10 @@ topics:
   - "[[basal-and-bioelectric-cognition]]"
   - "[[plant-cognition-and-the-plant-neurobiology-debate]]"
   - "[[the-cognitive-immune-system-and-immunological-selfhood]]"
-concepts: []
+concepts:
+  - "[[phenomenology-vs-function-axis]]"
+  - "[[interface-threshold]]"
+  - "[[phenomenal-consciousness]]"
 related_articles: []
 ai_contribution: 100
 author:
