@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-06-18T20:56:03+00:00
+ai_modified: 2026-07-09T11:39:37+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -178,6 +178,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 
 - [[quantum-indeterminacy-free-will]] — How quantum indeterminacy supports libertarian free will and responds to luck
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's case that we lack the free will for basic-desert responsibility on determinism or indeterminism
+- [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — Whether desert needs "could have done otherwise" at all; the 1969 PAP paper, distinct from the 1971 higher-order-desire paper cited above
 - [[topics/free-will]] — The broader free will question and the Map's position
 - [[agent-causation]] — Agent vs. event causation in detail
 - [[volitional-control]] — The empirical and phenomenological case that the "whether"-decision is genuine conscious control — the desert-grounding locus

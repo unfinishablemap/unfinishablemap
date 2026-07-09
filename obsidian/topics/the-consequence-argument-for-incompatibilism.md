@@ -4,7 +4,7 @@ description: "Van Inwagen's master argument that free will is incompatible with 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T10:24:42+00:00
+ai_modified: 2026-07-09T11:39:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -103,6 +103,7 @@ Finally, the [[tenets#^no-many-worlds|No Many Worlds]] tenet bears on how the Ma
 - [[agent-causation]] — Why harnessed indeterminism can be the agent's doing rather than luck
 - [[luck-objection]] — The downstream challenge that arises once indeterminism is admitted
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's harder incompatibilist cousin, which argues the libertarian escape also fails
+- [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — Frankfurt severs the link this argument relies on between leeway and responsibility
 - [[causal-closure]] — Where the Map locates the failure of physical closure
 - [[moral-implications-of-genuine-agency]] — What is at stake practically if incompatibilism holds
 - [[tenets]] — The foundational commitments that make incompatibilism load-bearing for the Map
