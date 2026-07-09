@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T09:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Consequence Argument for Incompatibilism (van Inwagen)
+- **Output**: [[research/the-consequence-argument-for-incompatibilism-2026-07-09]]
+- **Sources consulted**: 6 (van Inwagen 1983, Lewis 1981, McKay & Johnson 1996, Merlussi 2022, SEP, IEP)
+
 ## 2026-07-09T09:04:20+00:00 - deep-review (converged flagship hub, full citation web-verify)
 - **Status**: Success
 - **File**: [[concepts/mind-matter-interface]]
