@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T06:57:32+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Aesthetics of Nature and Natural Beauty
+- **Output**: [[research/the-aesthetics-of-nature-and-natural-beauty-2026-07-09]]
+- **Sources consulted**: 7 (Hepburn 1966, Berleant 1992, Carroll 1993, Carlson 2000, Budd 2002, Brady 2003, SEP Environmental Aesthetics — all citation-verified except Budd flagged for OUP re-verify)
+
 ## 2026-07-09T06:48:05+00:00 - deep-review
 - **Status**: Success (cross-review: argument-lens + fresh-create defect-tail)
 - **File**: [[topics/everyday-aesthetics]]
