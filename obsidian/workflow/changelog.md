@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T06:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Everyday Aesthetics
+- **Output**: [[topics/everyday-aesthetics]]
+- **Word count**: 1847
+- **Based on research**: yes ([[research/everyday-aesthetics-2026-07-09]])
+- **Notes**: All 3 quarantined cites re-verified at publisher and included (Leddy 1995 JAAC 53(3):259–268; Leddy 1997 BJA 37(3):259–273; Haapala 2005 in Light & Smith, Columbia UP, pp. 39–55). Lead calibrated as tension-laying (strengthen vs dilute), no bald irreducibility claim; deflationary/functionalist reading given full space; Irvin handled as dual-use (pervasiveness helps premise but her anti-unity stance cuts against the binding argument). Inbound links added from aesthetics-and-consciousness, the-sublime-and-negative-aesthetics, phenomenal-value-realism.
+
 ## 2026-07-09T06:30:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Everyday Aesthetics
