@@ -4,7 +4,7 @@ description: "Sponges and placozoans coordinate whole-body behaviour with zero n
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T23:39:59+00:00
+ai_modified: 2026-07-09T00:34:08+00:00
 last_deep_review: 2026-07-08T23:39:59+00:00
 draft: false
 topics:
@@ -73,6 +73,7 @@ This is where the Map parts company with Bechtel and Bich, and the split is prec
 - [[somatic-interface]] — The interface-localisation concept this article stress-tests at its lower bound
 - [[marginal-organism-scope-of-value-sensitive-selection]] — Marginal-case scope for attributing value and experience
 - [[brain-organoids-and-the-organoid-intelligence-question]] — The opposite edge: neural substrate with no body or world, where these animals have behaviour with no substrate
+- [[bacterial-chemotaxis-and-minimal-biogenic-cognition]] — The prokaryotic floor beneath these neuron-less animals: the same competencies compressed into a single cell
 
 ## References
 

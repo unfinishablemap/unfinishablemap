@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T00:34:08+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Bacterial Chemotaxis and Minimal Biogenic Cognition
+- **Output**: [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]]
+- **Word count**: 2050
+- **Based on research**: yes — [[research/bacterial-chemotaxis-and-minimal-biogenic-cognition-2026-07-08]]
+- **Cluster**: FINAL article of the sub-personal-competence cluster (prokaryotic floor). Reciprocal inbound links added from [[consciousness-in-simple-organisms]] and [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]].
+
 ## 2026-07-09T00:30:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Bacterial Chemotaxis and Minimal Biogenic Cognition
