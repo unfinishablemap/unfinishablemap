@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T11:31:26+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Frankfurt Cases and the Principle of Alternate Possibilities (PAP)
+- **Output**: [[research/frankfurt-cases-and-the-principle-of-alternate-possibilities-2026-07-09]]
+- **Sources consulted**: 8 (Frankfurt 1969 verified at pdcnet; SEP entry; Widerker 1995; Fischer/Ravizza; source-vs-leeway framing)
+
 ## 2026-07-09T11:21:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-manipulation-argument-and-hard-incompatibilism]]
