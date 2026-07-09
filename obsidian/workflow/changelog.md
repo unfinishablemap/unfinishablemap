@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T01:49:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/default-mode-network]]
+- **Word count**: 2559 → 2601 (+42; currency fix + 1 citation, offset by a redundancy trim)
+- **Critical issues addressed**: 2 (archival link rot; citation currency drift)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (repointed rotted [[spontaneous-thought-void]] → live [[transit-void]] via traced coalesce chain; currency-updated Killingsworth & Gilbert 2010 "regardless of content" claim with Gross et al. 2025 *Emotion* replication, cite web-verified at PubMed 39418457)
+- **Convergence**: eighth pass; both fixes were latent pre-existing defects, not oscillation
+- **Output**: [[reviews/deep-review-2026-07-09-default-mode-network]]
+
 ## 2026-07-09T01:15:00+00:00 - apex-evolve
 - **Status**: Complete (create #35)
 - **Article**: [[apex/competency-without-felt-experience]]

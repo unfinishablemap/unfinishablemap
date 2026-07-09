@@ -4,8 +4,8 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-06-24T17:50:57+00:00
-last_deep_review: 2026-06-09T22:52:58+00:00
+ai_modified: 2026-07-09T01:49:44+00:00
+last_deep_review: 2026-07-09T01:49:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -136,13 +136,13 @@ Schizophrenia shows disrupted DMN connectivity and altered anticorrelation with 
 
 ## The Wandering Mind
 
-Mind-wandering—spontaneous, task-unrelated thought—activates the DMN. This has been interpreted negatively (distraction, rumination) and positively (creativity, future planning, consolidation). The [[spontaneous-thought-void]] maps the deeper puzzle: the DMN's structured-yet-opaque activity means we experience the *products* of spontaneous thought—memories surfacing, associations presenting themselves—but never the *production*. The most pervasive activity of consciousness is also the most opaque.
+Mind-wandering—spontaneous, task-unrelated thought—activates the DMN. This has been interpreted negatively (distraction, rumination) and positively (creativity, future planning, consolidation). The [[transit-void|transit void]] maps the deeper puzzle: the DMN's structured-yet-opaque activity means we experience the *products* of spontaneous thought—memories surfacing, associations presenting themselves—but never the *production*. The most pervasive activity of consciousness is also the most opaque.
 
 ### The Cost of Mind-Wandering
 
-Killingsworth and Gilbert's 2010 experience sampling study found that people spend approximately 47% of waking hours mind-wandering, and mind-wandering correlates with reduced happiness regardless of content. When attention escapes the present, wellbeing suffers.
+Killingsworth and Gilbert's 2010 experience sampling study found that people spend approximately 47% of waking hours mind-wandering, and mind-wandering correlated with reduced happiness across activities. A later conceptual replication (Gross et al., 2025) qualifies the content-independence: thought *valence*—whether the wandering runs toward pleasant or unpleasant material—substantially accounts for the mood cost, so what one wanders toward matters more than the original framing implied.
 
-This aligns with contemplative claims: the DMN's constant activity is not neutral but costly. The self-narrative it maintains may be useful for planning and social navigation while simultaneously being a source of suffering.
+This aligns with contemplative claims: the DMN's constant activity carries a cost, not merely a function.
 
 ### The Benefits of Mind-Wandering
 
@@ -231,5 +231,6 @@ Current evidence does not meet these conditions, but they define the space of po
 1. Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 1. Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
 1. Killingsworth, M. A., & Gilbert, D. T. (2010). A wandering mind is an unhappy mind. *Science*, 330(6006), 932.
+1. Gross, M., Raynes, S., Schooler, J. W., Guo, E., & Dobkins, K. (2025). When is a wandering mind unhappy? The role of thought valence. *Emotion*, 25(3), 671-682.
 1. Raichle, M. E., et al. (2001). A default mode of brain function. *PNAS*, 98(2), 676-682.
 1. Raichle, M. E. (2015). The brain's default mode network. *Annual Review of Neuroscience*, 38, 433-447.
