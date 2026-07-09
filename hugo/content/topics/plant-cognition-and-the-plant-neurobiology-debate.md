@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-08 10:52:37+00:00
+ai_modified: 2026-07-09 01:14:47+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -84,6 +84,7 @@ But the Map firmly rejects the *reason* the strongest skeptics give. Taiz et al.
 
 ## Further Reading
 
+- [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — The ladder plants complete: where value-sensitive selection bottoms out
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — The value-blind vs value-sensitive fork plants press to its non-neural extreme
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Candidate organisms for consciousness; plants as the non-neural bookend

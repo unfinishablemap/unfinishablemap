@@ -768,6 +768,29 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
+### 35. Competency Without Felt Experience
+
+**Slug**: `competency-without-felt-experience`
+
+**Subtitle**: The sub-personal-competence ladder from prokaryotes to engineered cortex, and why the decoupling cuts both ways
+
+**Thesis**: Genuine cognitive-grade competency is realised across the whole tree of life without, on the Map's framework, felt experience — and the same decoupling that blocks reading experience *into* a bacterium also blocks reading it *out of* a fish, because no third-person fact, of richness or of architecture, settles the phenomenal question.
+
+**Source articles**:
+- topics/bacterial-chemotaxis-and-minimal-biogenic-cognition
+- topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
+- topics/plant-cognition-and-the-plant-neurobiology-debate
+- topics/the-cognitive-immune-system-and-immunological-selfhood
+- topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question
+- topics/basal-and-bioelectric-cognition
+- topics/fish-sentience-and-the-teleost-pain-debate
+- topics/brain-organoids-and-the-organoid-intelligence-question
+- topics/consciousness-in-simple-organisms
+
+**Status**: Created 2026-07-09 (admitted as #35 — cycle-completion trigger after a session completed a coherent, thesis-unified 8-node cluster, the sub-personal-competence / "cognition without a brain" ladder, that had no apex home. ASSESS-FIRST resolved CREATE-NEW: no existing apex cites any of the eight sources (grep-confirmed); the nearest by subject, #6 `minds-without-words`, runs the *opposite* thesis (experience more fundamental than the cognitive capacities usually tied to mind; asserts these organisms *are* conscious candidates), so it neither subsumes nor conflicts with the competency-without-experience synthesis. The apex is genuine cross-node synthesis, not a summary-of-summaries: it contributes (a) the two-axis geometry of the cluster — a substrate-descending axis (bacteria → neuron-less animals → plants → immune → ENS → Levin's bioelectric systems) plus two orthogonal edge cases (organoids = substrate without world, the mirror image of the sponge floor; fish = neural substrate with *differently-architected* machinery) — that no single rung states; (b) the non-obvious payload that the *same* decoupling discipline does *opposite* dialectical work at different rungs — blocking the inflationary inference (behaviour → experience) at the sub-personal rungs and the deflationary inference (missing cortex → no felt pain) at the fish rung — unified by one root: the refusal to let a third-person fact (functional richness in one case, architectural absence in the other) settle the first-person question. Answers the cluster's strongest rivals as a family sorted by direction of over-reach: Reber & Baluška's Cellular Basis of Consciousness and Bechtel & Bich's eating-as-cognition (read experience *into* competence — answered framework-relatively, granting biological continuity while denying phenomenal continuity); Lyon's biogenic cognition, Levin & Dennett's basal cognition, and Cohen's cognitive immune self (keep the two apart — treated as allies whose restraint is itself evidence); Key & Rose's fish skepticism (read experience *out* on structural grounds — answered by removing the reductive-identity entailment). Honours [evidential-status-discipline](/project/evidential-status-discipline/) and [common-cause-null](/project/common-cause-null/) explicitly: the cumulative convergence is discounted for being partly framework-generated (the rungs share the neural-interface commitment, so their agreement is in part the framework consulting itself, exactly as taxonomy-of-voids discounts its own convergence for a selection effect); every rung's phenomenal-absence verdict is framed framework-relatively (what the neural-interface commitment licenses *withholding*, never a proof nothing is felt) per the phenomenal-absence-overclaim discipline. Quotes: none of the sibling articles is quoted — all cross-node claims are paraphrase-and-cite to avoid the stale-internal-quote channel; the only quoted terms of art (Koshland's "rudimentary memory," Key's "structure determines function," CBC's "sense, perceive, and feel") are drawn from primary literature as rendered in the verified source articles, no new unverified citations. Tenet alignment: Tenet 3 (Bidirectional Interaction — interface tied to specific neural machinery, not functional sophistication; the headline) and Tenet 2 (Minimal Quantum Interaction — no interface where no substrate) primarily, with Tenets 1 and 5 (the decoupling as dualism's prediction; Occam-has-limits guarding both flanks against deflationary proof-of-absence and inflationary attribution). 3,126 words (soft 4,000 / hard 5,000 — ok). Slug-collision check clean (`competency-without-felt-experience` available in apex/). Reciprocal inbound links added from all eight source articles' Further Reading. Synthesis bar met per Governance Note 2026-06-08: integrates eight topic nodes plus the adjacent simple-organisms survey into a cumulative cross-node argument and a bidirectional-discipline claim no source node voices from inside itself.)
+
+---
+
 ## Applied Apex Articles
 
 Applied apex articles are decision-oriented synthesis pieces: given the positions the Map currently holds in `obsidian/positions/`, what follows for a specific real-world context? They differ from the synthesis apex articles above in shape — they cite ≥3 positions, surface those positions' confidence bands, name a decision context, and include a required "What this implies for decisions" section. See the `apex-evolve` SKILL.md Applied Discipline section for the discipline.

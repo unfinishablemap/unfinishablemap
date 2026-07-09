@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-08 23:39:59+00:00
+ai_modified: 2026-07-09 01:14:47+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -70,12 +70,14 @@ This is where the Map parts company with Bechtel and Bich, and the split is prec
 
 ## Further Reading
 
+- [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — the cross-node synthesis this floor case feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling; the neuron-less animals are its floor case with no substrate at all
 - [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/) — The rung below on the ladder: processing without a nervous system, same competence-versus-experience tension
 - [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/) — Distributed-interface framing; here the distribution reaches all the way to *no* nervous system
 - [somatic-interface](/concepts/somatic-interface/) — The interface-localisation concept this article stress-tests at its lower bound
 - [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — Marginal-case scope for attributing value and experience
 - [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/) — The opposite edge: neural substrate with no body or world, where these animals have behaviour with no substrate
+- [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) — The prokaryotic floor beneath these neuron-less animals: the same competencies compressed into a single cell
 
 ## References
 

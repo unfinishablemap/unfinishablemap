@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-08 11:47:34+00:00
+ai_modified: 2026-07-09 01:14:47+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -85,6 +85,7 @@ This connects to the Map's account of [value-sensitive selection](/topics/valenc
 
 ## Further Reading
 
+- [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and how the decoupling runs in reverse here (removing the skeptics' entailment rather than withholding experience)
 - [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — The ladder this article's rung belongs to
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Nociception vs. felt pain via human pain asymbolia
 - [animal-consciousness](/topics/animal-consciousness/) — The general marker problem and the cortical higher-order argument

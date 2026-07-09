@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-08 23:49:27+00:00
+ai_modified: 2026-07-09 01:14:47+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -74,6 +74,7 @@ The common thread, which every author in this literature stresses, is a methodol
 
 ## Further Reading
 
+- [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — the cross-node synthesis this engineered edge feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) — The substrate-physics companion: whether the *class* of matter organoids are made of could host the interface, on the discrete-vs-continuous and classical-vs-quantum axes
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — The opposite edge: coordinated behaviour with zero neural substrate, where organoids have the substrate and lack the world
 - [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling, the backbone of the sub-personal-competence reading

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-09 00:09:38+00:00
+ai_modified: 2026-07-09 01:14:47+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -73,6 +73,7 @@ The throughline of the non-neural competency cluster is a single decoupling: wha
 
 ## Further Reading
 
+- [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — agency without a brain in Levin's morphogenetic systems
 - [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/) — information processing without a nervous system
 - [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/) — a second brain that is not a seat of experience

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-08 22:56:14+00:00
+ai_modified: 2026-07-09 01:14:47+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -76,6 +76,7 @@ This article bears primarily on **Tenet 3, [Bidirectional Interaction](/tenets/#
 
 ## Further Reading
 
+- [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [somatic-interface](/concepts/somatic-interface/) — The layered channel structure of bodily feeling and how felt states divide brain-side from mind-side labour
 - [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/) — How accessible visceral channels reach consciousness while most enteric traffic does not
 - [interoceptive-void](/voids/interoceptive-void/) — The structural opacity of the body's interior to the consciousness that occupies it

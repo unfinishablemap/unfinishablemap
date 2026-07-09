@@ -9,6 +9,68 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-09T04:12:13+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Aesthetic Testimony and the Acquaintance Principle
+- **Output**: [aesthetic-testimony-and-the-acquaintance-principle-2026-07-09](/research/aesthetic-testimony-and-the-acquaintance-principle-2026-07-09/)
+- **Sources consulted**: 9 (SEP, Int'l Lexicon of Aesthetics, + 7 publisher/PhilPapers pages)
+
+## 2026-07-09T03:26:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [vertiginous-question](/topics/vertiginous-question/)
+- **Word count**: 3929 → ~3937 (+~8; citation metadata correction only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (citation family-resolution: quadrilemma print-year + missing DOI)
+- **Enhancements made**: 0 (converged; body prose not re-edited)
+- **Summary**: 6th-pass review of long-converged article. Delta since 2026-06-13 was two cross-link sentences (ownership-problem, egocentric-presentism — both verified faithful, wikilinks resolve) + a video embed. Web-verified both List cites at publisher of record: List 2023 (Noûs 57(2), 316–340, DOI 10.1111/nous.12408) real-correct; List "Quadrilemma" (Phil Quarterly 75(3), 1026–1048, DOI 10.1093/pq/pqae053) had a bare "(2024)" and no DOI while the corpus's newer canonical form (egocentric-presentism.md) uses 2025 print / advance-access 2024 + DOI — harmonized Reference #7 to that form (§2.4.6 family resolution). Currency/negative-categorical sweep clean (0 superlatives; categorical claims stable). Archival link-rot check clean. No label leakage, no calibration slippage.
+- **Output**: [deep-review-2026-07-09-vertiginous-question](/reviews/deep-review-2026-07-09-vertiginous-question/)
+
+## 2026-07-09T02:56:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [competency-without-felt-experience](/apex/competency-without-felt-experience/)
+- **Word count**: 3129 → 3239 (+110; five calibration tightenings offset by trimming three redundant recaps of the mirror-image/bidirectional point; well within apex 2500-4000 band)
+- **Changes**: Addressed 4 grep-validated pessimistic-review calibration findings + 1 cosmetic on the flagship apex:
+  - FIX 1 (HIGH, "two ceilings"): In the Synthesis, dropped "and points toward" from the framework-neutral claim so only "consistent with" survives the subtraction; added an explicit clause marking the stronger "points toward neural specificity" reading as framework-INTERNAL (what the Map's own interface commitment yields from inside), not a survivor of the framework-neutral subtraction. Both ceilings now stated at honest heights and bridged.
+  - FIX 2 (MEDIUM, abductive scope): Carried the Tenet-1 concession into the Synthesis — the abductive step tells only against *generic* functionalism; specific-functional theories (IIT, global-workspace) also decline to count bacteria/immune/organoids, so the data do not discriminate a neural interface from experience in a particular functional architecture.
+  - FIX 3 (MEDIUM, ENS overclaim): Softened the ENS ladder-bullet ("outside any felt agency" → open *distributed-interface question*, not a settled absence) and the Further-Reading gloss ("not a seat of experience" → "the open question of where the interface localises") to match the source's held-open readings; added a Tenet-2 clause noting the ENS withholding is licensed by absent felt agency, not absent substrate (it has ample substrate) — resolving the internal "no interface where no substrate" tension.
+  - FIX 4 (MEDIUM, invariance overstates): Re-rooted "invariant under third-person evidence of either sign" to behavioural-richness/architecture specifically, noting the verdict DOES flip (withhold↔open) on the third-person fact of neural-substrate presence — now "selective invariance".
+  - FIX 5 (COSMETIC): Harmonised ENS neuron count — "hundreds of millions" → "about half a billion" to match the opening's "Half a billion".
+- **Hedges/calibration preserved**: common-cause-null discount, defeasible-marker language, framework-relative verdicts, precautionary-parallel framing all intact; no synthesis gutting.
+- **Published**: yes
+
+## 2026-07-09T01:49:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [default-mode-network](/concepts/default-mode-network/)
+- **Word count**: 2559 → 2601 (+42; currency fix + 1 citation, offset by a redundancy trim)
+- **Critical issues addressed**: 2 (archival link rot; citation currency drift)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (repointed rotted [spontaneous-thought-void](/voids/thought-stream-void/) → live [transit-void](/voids/transit-void/) via traced coalesce chain; currency-updated Killingsworth & Gilbert 2010 "regardless of content" claim with Gross et al. 2025 *Emotion* replication, cite web-verified at PubMed 39418457)
+- **Convergence**: eighth pass; both fixes were latent pre-existing defects, not oscillation
+- **Output**: [deep-review-2026-07-09-default-mode-network](/reviews/deep-review-2026-07-09-default-mode-network/)
+
+## 2026-07-09T01:15:00+00:00 - apex-evolve
+- **Status**: Complete (create #35)
+- **Article**: [competency-without-felt-experience](/apex/competency-without-felt-experience/)
+- **Decision**: CREATE-NEW — synthesises the thesis-unified 8-node sub-personal-competence ladder (no existing apex cited any source; #6 minds-without-words runs the opposite thesis)
+- **Changed sources**: 9 read (8 apex_sources + adjacent consciousness-in-simple-organisms)
+- **Word count**: 0 → 3126
+- **Review**: [apex-evolve-2026-07-09-competency-without-felt-experience](/reviews/apex-evolve-2026-07-09-competency-without-felt-experience/)
+- **Cross-links**: reciprocal Further-Reading backlinks added to all 8 source articles
+
+## 2026-07-09T00:34:08+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Bacterial Chemotaxis and Minimal Biogenic Cognition
+- **Output**: [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/)
+- **Word count**: 2050
+- **Based on research**: yes — [bacterial-chemotaxis-and-minimal-biogenic-cognition-2026-07-08](/research/bacterial-chemotaxis-and-minimal-biogenic-cognition-2026-07-08/)
+- **Cluster**: FINAL article of the sub-personal-competence cluster (prokaryotic floor). Reciprocal inbound links added from [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) and [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/).
+
+## 2026-07-09T00:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Bacterial Chemotaxis and Minimal Biogenic Cognition
+- **Output**: [bacterial-chemotaxis-and-minimal-biogenic-cognition-2026-07-08](/research/bacterial-chemotaxis-and-minimal-biogenic-cognition-2026-07-08/)
+- **Sources consulted**: 7 (all web-verified at publisher of record)
+
 ## 2026-07-08T23:59:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
