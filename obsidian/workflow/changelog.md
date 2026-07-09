@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T16:06:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Source versus Leeway Incompatibilism
+- **Output**: [[research/source-versus-leeway-incompatibilism-2026-07-09]]
+- **Sources consulted**: 8 (5 books web-verified at publisher of record; 2 SEP entries verified live; 1 textbook)
+
 ## 2026-07-09T15:13:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-biology-and-neural-mechanisms]]
