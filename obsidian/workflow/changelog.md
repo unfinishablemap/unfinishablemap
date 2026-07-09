@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T04:58:34+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Comic and Humor as an Aesthetic Category
+- **Output**: [[research/the-comic-and-humor-as-an-aesthetic-category-2026-07-09]]
+- **Sources consulted**: 8 (SEP Philosophy of Humor; Kant CoJ §54; Schopenhauer WWR §13; Freud 1905; Carroll VSI 2014; Clark 1970 Philosophy 45:20-32; Hurley/Dennett/Adams Inside Jokes 2011)
+- **Notes**: Scope confirmed — 0 dedicated humor articles (grep hits all incidental: jourdain-hypothesis one-joke, second-person-channel infant-teasing, formal-systems "weigh a joke"). Structural sibling the-sublime-and-negative-aesthetics exists. All cites verified at publisher of record; no DOIs invented (Clark DOI 10.1017/S003181910000958X verified, not fabricated). Freud page numbers flagged UNVERIFIED (edition-specific). Calibration flag carried forward: Inside Jokes (Hurley/Dennett/Adams 2011) names the computational/no-experiential-primitive rival — downstream expand-topic must present dualist mirth-quale reading as ONE live interpretation, not a proof.
+
 ## 2026-07-09T04:44:29+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Aesthetic testimony and the Acquaintance Principle
