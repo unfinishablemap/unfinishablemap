@@ -4,7 +4,7 @@ description: "How quantum mechanics creates logical space for libertarian free w
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-02T20:57:43+00:00
+ai_modified: 2026-07-09T10:27:36+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -51,7 +51,7 @@ Quantum mechanics breaks determinism. Before measurement, particles exist in sup
 
 This creates what Peter van Inwagen called the "libertarian dilemma":
 
-1. **If determinism is true**, free will fails (we couldn't have done otherwise)
+1. **If determinism is true**, free will fails (we couldn't have done otherwise)—the canonical case for this premise is the [[the-consequence-argument-for-incompatibilism|Consequence Argument]]
 2. **If indeterminism is true**, outcomes are random (luck, not choice)
 3. **Either way**, genuine authorship seems impossible
 

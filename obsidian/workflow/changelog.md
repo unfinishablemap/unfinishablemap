@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T10:27:36+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Consequence Argument for Incompatibilism (van Inwagen)
+- **Output**: [[topics/the-consequence-argument-for-incompatibilism]]
+- **Word count**: 2122 (71% of 3000 topics soft target)
+- **Based on research**: yes — [[research/the-consequence-argument-for-incompatibilism-2026-07-09]]
+- **Inbound links added**: free-will.md, quantum-indeterminacy-free-will.md, agent-causation.md
+- **Calibration**: lead frames the argument as establishing incompatibilism ONLY (hard determinist + libertarian share it); Map's libertarianism requires the separate indeterminist premise; Lewis/Beta replies presented as live and contested.
+
 ## 2026-07-09T10:17:33+00:00 - deep-review (converged, verification-only no-op)
 - **Status**: Success
 - **File**: [[topics/russellian-monism-versus-bi-aspectual-dualism]]
