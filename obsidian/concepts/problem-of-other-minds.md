@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-13T14:47:41+00:00
+last_deep_review: 2026-07-09T16:15:00+00:00
 coalesced_from:
   - "/concepts/problem-of-other-minds/"
   - "/concepts/epistemology-of-other-minds-under-dualism/"
