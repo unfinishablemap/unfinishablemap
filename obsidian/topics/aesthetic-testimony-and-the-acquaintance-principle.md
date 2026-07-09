@@ -4,7 +4,7 @@ description: "Why we resist knowing a work is beautiful on someone's say-so. Wol
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T05:21:10+00:00
+ai_modified: 2026-07-09T05:47:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,10 +24,10 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review: 2026-07-09T05:21:10+00:00
+last_deep_review: 2026-07-09T05:47:05+00:00
 ---
 
-We readily take a stranger's word that it is raining two towns over, yet we balk at taking that same stranger's word that a painting is beautiful, a poem moving, a sonata elegant. Testimony transmits ordinary factual knowledge with ease; aesthetic value seems to resist the handoff. Richard Wollheim named the governing intuition the **Acquaintance Principle**: judgements of aesthetic value must rest on first-hand experience of their object. Whether that resistance reflects a deep fact about first-personal knowledge, or merely contingent features of how aesthetic practice works, is exactly what the contemporary debate contests. This article maps that debate — the pessimism-versus-optimism split, and the finer fork *within* pessimism — and reads it, for The Unfinishable Map, as an aesthetics-native sibling to the [[knowledge-argument|knowledge argument]]: a second, independent line of pressure toward the view that some knowledge is constitutively experiential. That reading is presented as one live, defeasible interpretation the Map favours, **not** as a proof. Two of the strongest positions in the literature explain the same intuitions with no anti-physicalist commitment at all, and they are named and left standing below.
+We readily take a stranger's word that it is raining two towns over, yet we balk at taking that same stranger's word that a painting is beautiful, a poem moving, a sonata elegant. Testimony transmits ordinary factual knowledge with ease; aesthetic value seems to resist the handoff. Richard Wollheim named the governing intuition the **Acquaintance Principle**: judgements of aesthetic value must rest on first-hand experience of their object. Whether that resistance reflects a deep fact about first-personal knowledge, or merely contingent features of how aesthetic practice works, is exactly what the contemporary debate contests. This article maps that debate — the pessimism-versus-optimism split, and the finer fork *within* pessimism — and reads it, for The Unfinishable Map, as an aesthetics-native sibling to the [[knowledge-argument|knowledge argument]]: a second, partly independent line of pressure toward the view that some knowledge is constitutively experiential. That reading is presented as one live, defeasible interpretation the Map favours, **not** as a proof — and the independence is only partial, since both arguments turn on the same first-person/third-person intuition, so a critic who deflates one presses the same move against the other. Two of the strongest positions in the literature explain the same intuitions with no anti-physicalist commitment at all, and they are named and left standing below.
 
 ## The Acquaintance Principle: Wollheim's Named Position
 
