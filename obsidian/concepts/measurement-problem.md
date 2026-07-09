@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-06-20T06:05:00+00:00
+ai_modified: 2026-07-09T22:25:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -211,6 +211,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [[self-reference-and-the-limits-of-physical-description]] — Gödel-quantum connections via Lawvere's theorem
 - [[spontaneous-collapse-theories]] — GRW, CSL, and consciousness-modulated collapse
 - [[qm-interpretations-beyond-many-worlds]] — Comparative assessment of interpretations' consciousness compatibility
+- [[consistent-histories-interpretation]] — The single-world, observer-free reading that claims to dissolve the measurement problem
 - [[interactionist-dualism]], [[causal-closure]], [[mental-causation-and-downward-causation|mental causation]] — The broader framework
 - [[multi-mind-collapse-problem]], [[brain-interface-boundary]], [[prebiotic-collapse]] — Coordination puzzles
 - [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]] — How Zurek's framework specifies the menu while leaving the outcome gap open

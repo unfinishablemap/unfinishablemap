@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T22:25:39+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Consistent Histories Interpretation of Quantum Mechanics
+- **Output**: [[concepts/consistent-histories-interpretation]]
+- **Word count**: 1906
+- **Based on research**: yes, [[research/consistent-histories-interpretation-2026-07-09]]
+- **Citations**: Griffiths 1984 (DOI 10.1007/BF01015734) + Dowker–Kent 1996 (DOI 10.1007/BF02183396) re-verified inline; Omnès 1994, Griffiths 2002, Gell-Mann–Hartle 1990, SEP entry carried from research note
+- **Integration**: added CH section + comparative-table row + Further Reading + concept link to topics/qm-interpretations-beyond-many-worlds; reciprocal inbound links from concepts/measurement-problem and topics/completeness-in-physics-under-dualism
+
 ## 2026-07-09T22:22:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Consistent Histories Interpretation of Quantum Mechanics
