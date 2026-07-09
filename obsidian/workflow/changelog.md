@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T14:37:20+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: This session's free-will/incompatibilism wave (consequence-argument, manipulation-argument/hard-incompatibilism, frankfurt-cases/PAP, akrasia) with the surrounding free-will hub
+- **Output**: [[reviews/optimistic-2026-07-09]]
+- **Key finding**: Exceptionally well-calibrated cluster; Process-Philosopher and Hardline-Empiricist personas converge (no tenet-as-evidence-upgrade slippage). Named uncovered adjacent subjects for harvest: event-causal vs agent-causal libertarianism, source vs leeway incompatibilism, Strawsonian reactive attitudes, Fischer's semicompatibilism, free-will skepticism's constructive ethics, Frankfurt-1971 hierarchical/mesh theory of will
+
 ## 2026-07-09T14:03:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/zombie-master-argument]]
