@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T22:49:37+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Wavefunction Realism versus Primitive Ontology
+- **Output**: [[research/wavefunction-realism-vs-primitive-ontology-2026-07-09]]
+- **Sources consulted**: 10 (all key sources web-verified at publisher of record)
+
 ## 2026-07-09T22:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consistent-histories-interpretation]]
