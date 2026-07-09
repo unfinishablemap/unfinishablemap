@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T12:21:02+00:00 - deep-review
+- **Status**: Success (cross-review / fresh-create defect-tail, argument-lens)
+- **File**: [[topics/frankfurt-cases-and-the-principle-of-alternate-possibilities]]
+- **Word count**: ~2388 → ~2388 (verification-only, no content edits)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 6 — Frankfurt 1969 (real-correct), Widerker 1995 (real-correct; corrected DOI resolves, no 404), Widerker & Goetz 2013 (real-correct), Fischer 1994 / Fischer & Ravizza 1998 / Kane 1996 (real-correct, book-level, no page cites)
+- **Calibration**: clean — source-vs-leeway key move present, labeled a "retreat", all three costs flagged; no over-claim, no rescope
+- **Engagement modes** (editor-internal): Fischer semicompatibilism = Mode Three (boundary-marking, honest); dilemma-defense first horn = Mode Two (unsupported-move / question-begging); no label leakage
+- **1969-vs-1971 conflation**: clean and reciprocal (moral-responsibility note both directions)
+- **Stamps**: last_deep_review only (ai_modified unchanged — verification-only clean)
+- **Output**: [[reviews/deep-review-2026-07-09-frankfurt-cases-and-the-principle-of-alternate-possibilities]]
+
 ## 2026-07-09T12:00:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 7 (cycle-438 spot-check of this session's new free-will + aesthetics articles)
