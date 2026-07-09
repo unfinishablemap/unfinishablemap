@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T03:26:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/vertiginous-question]]
+- **Word count**: 3929 → ~3937 (+~8; citation metadata correction only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (citation family-resolution: quadrilemma print-year + missing DOI)
+- **Enhancements made**: 0 (converged; body prose not re-edited)
+- **Summary**: 6th-pass review of long-converged article. Delta since 2026-06-13 was two cross-link sentences (ownership-problem, egocentric-presentism — both verified faithful, wikilinks resolve) + a video embed. Web-verified both List cites at publisher of record: List 2023 (Noûs 57(2), 316–340, DOI 10.1111/nous.12408) real-correct; List "Quadrilemma" (Phil Quarterly 75(3), 1026–1048, DOI 10.1093/pq/pqae053) had a bare "(2024)" and no DOI while the corpus's newer canonical form (egocentric-presentism.md) uses 2025 print / advance-access 2024 + DOI — harmonized Reference #7 to that form (§2.4.6 family resolution). Currency/negative-categorical sweep clean (0 superlatives; categorical claims stable). Archival link-rot check clean. No label leakage, no calibration slippage.
+- **Output**: [[reviews/deep-review-2026-07-09-vertiginous-question]]
+
 ## 2026-07-09T02:56:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/competency-without-felt-experience]]

@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-07-06T13:23:12.056384+00:00
+ai_modified: 2026-07-09T03:26:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-26
 last_curated:
-last_deep_review: 2026-06-13T16:31:14+00:00
+last_deep_review: 2026-07-09T03:26:31+00:00
 coalesced_from:
   - "/voids/indexical-void/"
 embedded_videos:
@@ -224,7 +224,7 @@ The vertiginous question connects to the Map's [[tenets]] in a distinctive way: 
 4. Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304–320.
 5. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
 6. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316–340. https://doi.org/10.1111/nous.12408
-7. List, C. (2024). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048.
+7. List, C. (2025). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048. https://doi.org/10.1093/pq/pqae053 (Advance Access 2024; 2025 print issue.)
 8. Nagai, H. Various works. See https://nagai.philosophy-zoo.com/en/
 9. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 10. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
