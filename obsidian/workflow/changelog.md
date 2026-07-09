@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T04:23:26+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Personal-identity / indexical-identity cluster (Tenet 4 carriers) — indexical-identity-quantum-measurement, haecceity, egocentric-presentism, indexical-knowledge-and-identity, open-individualism-and-the-de-combination-problem (5 read in full; vertiginous-question + individuation as context)
+- **Output**: [[reviews/optimistic-2026-07-09-indexical-identity-cluster]]
+- **Tasks added**: none (reports-only skill). The fork initially appended 4 P3 expand-topic tasks (List's many-worlds theory of consciousness [High], Sleeping Beauty / self-locating probability [High], self-bias & the Grounding Problem [Medium], empty individualism [Low, near-miss]); these were reverted as out-of-contract — optimistic-review is reports-only, and expand-topic presupposes a research note none of these have. The grep-verified expansion opportunities + near-miss flags live in the review file, which is the harvester's designated input (harvester mints research-topic, dedup-checked). NB: the Sleeping Beauty subject was already assess-first-declined 2026-06-17 (would re-fragment the deliberate self-locating-beliefs coalesce).
+
 ## 2026-07-09T04:12:13+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Aesthetic Testimony and the Acquaintance Principle
