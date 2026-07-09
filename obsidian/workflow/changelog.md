@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T14:03:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/zombie-master-argument]]
+- **Target rationale**: genuine post-review drift — `ai_modified` 2026-07-08 (refine `e84c29b55`) post-dates `last_deep_review` 2026-06-02; four substantive prose additions never seen by a deep-review lens (fresh-create-defect-tail on yesterday's refine that implemented the 2026-07-08 pessimistic review's three fixes). Not a converged-clean metadata no-op.
+- **Word count**: 2446 → 2472 (+26, length-neutral, 99% of soft threshold)
+- **Critical issues addressed**: 1 (internal-consistency: line-62 listed illusionism as a "contest-the-setup rather than any step" response while lines 66-68 classify it as Type-A / Step-1 denial; reworded to keep the ability hypothesis as the sole out-of-map example and reconcile illusionism as Type-A)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (three other fresh additions — ability-hypothesis subsumption qualifier, 2D-semantics contested-premise flag, nomological-vs-metaphysical modality paragraph — audited clean; the modality paragraph is a durable improvement, preserved)
+- **Citations**: 6 canonical References unchanged (verified across 5 prior reviews); new inline "ability hypothesis (Lewis, Nemirow)" attribution verified real-correct. No superlative/currency claims.
+- **Engagement modes** (editor-internal): ability-hypothesis reply — honest concession, no boundary-substitution; illusionism/Frankish — Mixed (Mode Two→One), carried forward; Tenet-3 ladder objection (line 116) — internal in-framework resolution, not named-opponent.
+- **Stamps**: both bumped (content fix), 2026-07-09T14:03:39+00:00 ≤ real UTC now.
+- **Output**: [[reviews/deep-review-2026-07-09-zombie-master-argument]]
+
 ## 2026-07-09T13:40:59+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/akrasia-and-weakness-of-will]]

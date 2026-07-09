@@ -4,7 +4,7 @@ description: "How the conceivability argument against physicalism functions as a
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-08T22:04:21+00:00
+ai_modified: 2026-07-09T14:03:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-06-02T03:34:50+00:00
+last_deep_review: 2026-07-09T14:03:39+00:00
 ---
 
 The Unfinishable Map treats the [[philosophical-zombies|zombie argument]] not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [[knowledge-argument|knowledge argument]], the [[explanatory-gap|explanatory gap]], and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), showing that every major physicalist response maps onto denying a specific step in the argument's logical chain, and that each denial carries distinctive costs. (Chalmers develops this taxonomy primarily in terms of Type-A and Type-B responses; the treatment here adds a third category for completeness — see the [[#Type-Q Physicalism: Deny Non-Entailment|Type-Q section]] for a note on nomenclature.)
@@ -59,7 +59,7 @@ Saul Kripke's argument from *Naming and Necessity* (1980) — that pain cannot b
 
 ## The Physicalist Response Map
 
-The master argument's elegance is that it turns the debate into a decision tree. Every physicalist must deny at least one premise, and the denials of the three explicit steps appear jointly exhaustive — though a response can also contest the setup itself rather than any step, as the ability-hypothesis reply to Mary above and the illusionist challenge below both do.
+The master argument's elegance is that it turns the debate into a decision tree. Every physicalist must deny at least one premise, and the denials of the three explicit steps appear jointly exhaustive — though a response can also sidestep the step-denials entirely, as the ability-hypothesis reply to Mary above does: it blocks the knowledge argument without mapping onto any of the three zombie-denial steps. (The illusionist challenge, by contrast, does land on a step — it is the most developed Type-A denial of conceivability, treated below.)
 
 ### Type-A Physicalism: Deny Conceivability
 
