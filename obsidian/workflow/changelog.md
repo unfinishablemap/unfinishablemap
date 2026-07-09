@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T23:34:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/wavefunction-realism-vs-primitive-ontology]]
+- **Mode**: cross-review (argument-lens) + full publisher-of-record citation re-verify + new-domain physics accuracy check
+- **Word count**: 1659 → 1665 (+6; de-quote paraphrase)
+- **Critical issues addressed**: 1 (unverifiable direct-quote attributed to Albert — de-quoted to faithful paraphrase; underlying claim accurate and sourced)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only otherwise)
+- **Citations**: 9 References entries + Monton in-body + Ney quote re-verified at publisher of record — ALL real-correct; Tumulka 2006 (previously unconfirmed) RE-CONFIRMED exact (JSP 125:821–840, DOI 10.1007/s10955-006-9227-3). No metadata defects (contrast sibling wave creates this session).
+- **Confirmed**: lead/RTSP phenomenal-absence calibration (framework-relative question, not evidence-for-dualism); physics accuracy (WF-realism vs primitive-ontology, marvelous-point, GRWf/Bohm/GRWm variants); notation (`3N`/`Ψ` backtick-wrapping, no wikilink collision); 5 reciprocal inbound links resolve. Tenets 2/4/5.
+- **Output**: [[reviews/deep-review-2026-07-09-wavefunction-realism-vs-primitive-ontology]]
+
 ## 2026-07-09T23:22:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Wavefunction Realism versus Primitive Ontology

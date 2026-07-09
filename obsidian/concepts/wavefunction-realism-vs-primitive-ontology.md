@@ -4,7 +4,7 @@ description: "Human-AI exploration of quantum foundations' deepest ontology disp
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T23:22:00+00:00
+ai_modified: 2026-07-09T23:34:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -14,7 +14,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review:
+last_deep_review: 2026-07-09T23:34:00+00:00
 ---
 
 Wavefunction realism and primitive ontology are the two leading answers to a question that sits beneath every interpretation of quantum mechanics: what is the theory *fundamentally about*? Both camps are realist, both take the formalism seriously, and both are represented by first-rate philosophers of physics. They divide over the status of the wavefunction `Ψ` and, with it, the number of dimensions in fundamental reality. **Wavefunction realism** (David Albert, Alyssa Ney, Barry Loewer, Jill North) holds that `Ψ` is a real physical field living on a `3N`-dimensional configuration space, and that ordinary three-dimensional space is derivative. **Primitive ontology** (Detlef Dürr, Sheldon Goldstein, Nino Zanghì, Valia Allori, Roderich Tumulka, following John Bell) holds the reverse: the fundamental furniture is matter *in* ordinary 3D/4D spacetime, and `Ψ` is not a physical object at all but a law-like ("nomological") entity that governs how that matter moves.
@@ -23,7 +23,7 @@ This is a shared-ground dispute in the philosophy of physics — upstream of, an
 
 ## Wavefunction Realism: `3N`-Space as Fundamental
 
-Wavefunction realism reads the quantum formalism as literally as possible. For a universe of `N` particles, the wavefunction is a field defined not on three-dimensional space but on a `3N`-dimensional *configuration space* — one axis per position coordinate of every particle. Albert's founding move was to take that space as the real arena of the world: the wavefunction, he wrote, is "a physical object as real as a rock or a table," and it lives where the mathematics says it lives. Our apparent three-dimensionality is then not fundamental but emergent.
+Wavefunction realism reads the quantum formalism as literally as possible. For a universe of `N` particles, the wavefunction is a field defined not on three-dimensional space but on a `3N`-dimensional *configuration space* — one axis per position coordinate of every particle. Albert's founding move was to take that space as the real arena of the world: on his treatment the wavefunction is a genuinely physical object — a field as real as any rock or table, on a par with the classical electric and magnetic fields — that lives where the mathematics says it lives. Our apparent three-dimensionality is then not fundamental but emergent.
 
 Two arguments motivate the view. The first is *separability restoration* (Loewer, Albert): entanglement makes the three-dimensional world look irreducibly non-local and non-separable, but on the `3N`-dimensional picture the same physics is perfectly local and separable — the field has a definite value at each point of the high-dimensional space. Loewer takes this to rescue something like the Humean supervenience program he inherits from David Lewis. The second is the appeal to literalism itself: `Ψ` is the mathematically complete object the theory quantifies over, so realism about the theory is realism about it.
 
