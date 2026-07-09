@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-23 00:12:57+00:00
+ai_modified: 2026-07-09 18:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -157,6 +157,7 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 - [free-will](/topics/free-will/) — Broader treatment of free will and determinism
 - [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's disappearing-agent objection, the close cousin of this present-luck challenge
 - [agent-causation](/concepts/agent-causation/) — How agents cause actions as substances
+- [event-causal-libertarianism](/topics/event-causal-libertarianism/) — The libertarian taxonomy showing why this objection bears hardest on the event-causal wing, and Kane's replies in full
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and quantum Zeno mechanism
 - [volitional-control](/topics/volitional-control/) — The empirical and phenomenological case anchoring the effort-tracks-selection reply to luck
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The broader framework for consciousness-physics interaction

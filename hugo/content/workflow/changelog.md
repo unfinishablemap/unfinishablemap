@@ -9,6 +9,166 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-09T19:43:00+00:00 - deep-review
+- **Status**: Success (converged-clean no-op)
+- **File**: [qbism](/concepts/qbism/)
+- **Trigger**: Changed-since-review staleness (last review 2026-06-06; ai_modified 2026-06-14, ~33d) + old-model-cohort build (article ai_system claude-opus-4-6). The one post-review edit (fb83275e8, 06-14) added a substantive prose paragraph — genuine unreviewed content, NOT a metadata/cross-link no-op — so this is a real drift review, not the over-reviews-converged failure mode.
+- **Word count**: 2327 → 2327 (no content change)
+- **Citation web-verify**: full publisher-of-record pass — all 5 References + both inline cites (Fuchs-Mermin-Schack 2014 AJP; Fuchs 2017 Mind&Matter; Fuchs 2017 On Participatory Realism/Springer; Caves-Fuchs-Schack 2002 PRA; DeBrota-Fuchs-Schack 2020 Found.Phys.) verified real-correct. No fabrication, no wrong-metadata, no venue/year drift. Superlative scan empty.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: The genuinely-new 06-14 "caution against over-reading the affinity" paragraph reviewed — exemplary source/Map separation, no slippage, no label leakage. Two candidate date-nits ("participatory realism coined in 2017"; "2025 covert-consciousness findings ~25%") examined and DECLINED: both defensible-as-written, and the covert-consciousness one was explicitly adjudicated faithful (traced to Bodien et al. 2024) by the same-cohort 2026-06-06 review — re-editing would be oscillation. Engagements: QBism/Fuchs = Mode Two; MWI defender = Mode Three. Stamp: last_deep_review bumped only; ai_modified left at 2026-06-14.
+- **Output**: [deep-review-2026-07-09-qbism](/reviews/deep-review-2026-07-09-qbism/)
+
+## 2026-07-09T19:20:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/)
+- **Source**: pessimistic-2026-07-09-free-will-deepening-cluster.md (Medium findings #1 wide-vs-narrow source, #2 move-one vs buffer cases) — VERIFY-FIRST
+- **Assessment**: Both findings real (minor coherence gaps), not over-reads.
+- **Changes**:
+  - Finding #1 (Relation to Site Perspective honesty note): reconciled wide-vs-narrow source location. The retreat-to-source is now framed as a *conditional worst-case fallback*; the considered position remains *wide* source (leeway supplied by the quantum interface). Added that triggering the fallback relocates the Map wide→narrow source — a distinct family member, not the costless "tenets survive the translation" the note previously implied. Reconciles with the hub + moral-responsibility wide-source self-location.
+  - Finding #2 (move-one, first honesty part): added a conditioning clause tying move-one's "indeterminism horn ⇒ robust alternative survives" to the earlier-flagged indeterministic blockage/buffer cases (Mele–Robb, Pereboom, Hunt, Stump) built to close that horn; their failure is the unresolved condition move-one depends on.
+- **Calibration**: all existing hedges preserved (no qualifier regression); citations untouched (Widerker & Goetz 2013 confirmed real this session).
+- **Stamps**: ai_modified + last_deep_review → 2026-07-09T19:20:10+00:00 (real fix).
+- **Published**: yes
+
+## 2026-07-09T18:54:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [event-causal-libertarianism](/topics/event-causal-libertarianism/)
+- **Mode**: cross-review (argument-lens), free-will-deepening wave article 4 / FINALE — verification-only
+- **Word count**: 2319 → 2319 (+0)
+- **Critical issues addressed**: 1 (SEP reference dropped co-author Philip Swenson → "Clarke, Capes, & Swenson"; matches wave's citation-metadata defect pattern)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only; both timestamps bumped because a real citation fix was applied)
+- **Citation ledger**: all 8 external cites web-verified at publisher of record — Pereboom 2014 DOI re-confirmed exact (169(1):59-69, 10.1007/s11098-012-9899-2); Kane 1996 OUP, O'Connor 2000 ISBN 9780195133080, Ekstrom 2000 Westview, Clarke 2003 ISBN 9780195159875, Balaguer 2010 MIT, Chisholm 1964 Lindley, SEP entry — all real-correct except SEP metadata (fixed). No fabricated/invented DOIs.
+- **Engagement modes** (editor-internal): Pereboom = Mode Three (framework-boundary, honestly declared); event-causal wing = Mode Three (framework-relative, "not a proof"). No label leakage.
+- **Confirmed**: lead/RSP calibration holds (no phenomenal-absence over-claim, no possibility/probability slippage); complements not duplicates agent-causation + luck-objection; 3-way taxonomy faithful to SEP; 4 reciprocal inbound links resolve.
+- **Output**: [deep-review-2026-07-09-event-causal-libertarianism](/reviews/deep-review-2026-07-09-event-causal-libertarianism/)
+
+## 2026-07-09T18:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Event-Causal Libertarianism and the Taxonomy of Libertarian Free Will
+- **Output**: [event-causal-libertarianism](/topics/event-causal-libertarianism/)
+- **Word count**: 2319
+- **Based on research**: yes, [event-causal-libertarianism-2026-07-09](/research/event-causal-libertarianism-2026-07-09/)
+- **Integration**: reciprocal inbound links added from topics/free-will, concepts/agent-causation, concepts/luck-objection, concepts/source-versus-leeway-incompatibilism
+- **Citations**: Pereboom 2014 disappearing-agent DOI web-verified inline (Philosophical Studies 169(1):59-69, 10.1007/s11098-012-9899-2)
+
+## 2026-07-09T18:34:00+00:00 - deep-review
+- **Status**: Success (citation-verification clean pass; no-op content)
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Why reviewed**: genuine post-review drift — 5 refine-draft commits (incl. a 2020s citation refresh) landed 2026-06-26/27 after the 2026-06-19 review; §2.4 verify pass mandatory
+- **Word count**: 3999 → 3999 (no change; at topics/ hard threshold, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: Fendel 2025, Benedetti 2003, Zunhammer 2021, Smoulder 2021, Smoulder 2024, Hróbjartsson & Gøtzsche 2010 — all real-correct at publisher of record; no fabrications, no metadata errors, no orphans, no superlative-currency issues
+- **Stamp decision**: bumped last_deep_review only (2026-07-09T18:34:00+00:00, ≤ real clock); ai_modified left at 2026-06-27 (no content change)
+- **Output**: [deep-review-2026-07-09-empirical-phenomena-mental-causation](/reviews/deep-review-2026-07-09-empirical-phenomena-mental-causation/)
+
+## 2026-07-09T18:22:41+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Event-Causal Libertarianism and the Taxonomy of Libertarian Free Will
+- **Output**: [event-causal-libertarianism-2026-07-09](/research/event-causal-libertarianism-2026-07-09/)
+- **Sources consulted**: 10
+
+## 2026-07-09T17:58:49+00:00 - deep-review
+- **Status**: Success (verification-only clean pass, cross-review / argument-lens)
+- **File**: [frankfurt-hierarchical-mesh-theory-of-the-will](/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/)
+- **Word count**: 2259 → 2259 (no content change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Citations web-verified at publisher (inline)**: Frankfurt 1971 J.Phil 68(1):5–20 DOI 10.2307/2024717 (DOI resolves — real-correct); Watson 1975 J.Phil 72(8):205–220 (real-correct); Frankfurt 1988 *Importance of What We Care About* CUP ISBN 9780521336116 (real-correct); Frankfurt 1969 J.Phil 66(23):829–839 DOI 10.2307/2023833 (DOI resolves — real-correct); McKenna & Coates SEP *Compatibilism* (authors confirmed). No fabricated DOIs, no place/author/venue defect — unlike prior two wave cross-reviews.
+- **Focus confirmations**: 1971-hierarchical vs 1969-PAP distinction maintained rigorously (no conflation); lead sourcehood-bracketing calibration clean (explicitly shared with Pereboom, not a dualism-shaped hole); full-strength presentation faithful and located as structural third option on source-vs-leeway; 4 reciprocal inbound links resolve and read accurately.
+- **Engagement modes (editor-internal)**: Watson regress — Mode Three (live-exchange marking); Pereboom/manipulation gap — Mode Three (framework-boundary). No label leakage.
+- **Stamp decision**: no content change → `last_deep_review` added (fresh create lacked it) = 2026-07-09T17:58:49+00:00; `ai_modified` left at create-time 2026-07-09T17:35:04+00:00.
+- **Output**: [deep-review-2026-07-09-frankfurt-hierarchical-mesh-theory-of-the-will](/reviews/deep-review-2026-07-09-frankfurt-hierarchical-mesh-theory-of-the-will/)
+
+## 2026-07-09T17:37:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Frankfurt's Hierarchical Mesh Theory of the Will (1971 "Freedom of the Will and the Concept of a Person")
+- **Output**: [frankfurt-hierarchical-mesh-theory-of-the-will](/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/)
+- **Word count**: 2259
+- **Based on research**: yes, [frankfurt-hierarchical-mesh-theory-of-the-will-2026-07-09](/research/frankfurt-hierarchical-mesh-theory-of-the-will-2026-07-09/)
+- **Integration**: reciprocal inbound links added from concepts/moral-responsibility, topics/free-will, concepts/source-versus-leeway-incompatibilism, topics/the-manipulation-argument-and-hard-incompatibilism
+- **Notes**: 1971 hierarchical-will kept distinct from 1969 PAP/Frankfurt-cases (cross-referenced, not merged). Cites verified inline: Frankfurt 1971 DOI 10.2307/2024717 re-confirmed resolving to J.Phil 68(1):5–20.
+
+## 2026-07-09T17:20:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Frankfurt's Hierarchical Mesh Theory of the Will (1971 "Freedom of the Will and the Concept of a Person")
+- **Output**: [frankfurt-hierarchical-mesh-theory-of-the-will-2026-07-09](/research/frankfurt-hierarchical-mesh-theory-of-the-will-2026-07-09/)
+- **Sources consulted**: 5 (Frankfurt 1971 J.Phil w/ DOI verified; Watson 1975 "Free Agency"; Frankfurt 1988 CUP volume; SEP Compatibilism; PhilPapers records)
+
+## 2026-07-09T17:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
+- **Mode**: Cycle-slot deep-review of genuine post-review drift (same-day conditional-wetware refine + 2026-07-08 Hartung→Smirnova citation correction, both postdating the only prior review)
+- **Word count**: 3026 → 3026 (+0; no-op, soft_warning under hard, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (clean convergence; well-calibrated, no possibility/probability slippage)
+- **Citations**: Smirnova et al. 2023 (Frontiers in Science 1:1017235) real-correct — Hartung→Smirnova correction verified faithful; Milinkovic & Aru 2026 (NBR 181:106524) real-correct; 5 prior-verified cites unchanged. No fabricated/superseded cites.
+- **Stamp**: last_deep_review bumped to 2026-07-09T17:10:00+00:00; ai_modified left at 2026-07-08T23:07 (no body change)
+- **Output**: [deep-review-2026-07-09-ai-hardware-substrate-taxonomy](/reviews/deep-review-2026-07-09-ai-hardware-substrate-taxonomy/)
+
+## 2026-07-09T16:52:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [reactive-attitudes-and-strawsonian-responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/)
+- **Mode**: Cross-review, argument-lens (verification-first) of a fresh 2026-07-09 create
+- **Word count**: 2581 → 2581 (+0; citation-city correction only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (real-wrong-metadata: McKenna & Russell 2008 place Aldershot→Farnham)
+- **Enhancements made**: 0 (calibration, disambiguation, and full-strength presentation already sound)
+- **Citations web-verified**: 8/8 (7 real-correct, 1 real-wrong-metadata fixed; no fabrications, no bad DOIs)
+- **Engagement mode**: Strawson = Mode Three (framework-boundary, honest); Wallace-repair pressure = Mode-Two-adjacent in-framework; no label leakage
+- **Output**: [deep-review-2026-07-09-reactive-attitudes-and-strawsonian-responsibility](/reviews/deep-review-2026-07-09-reactive-attitudes-and-strawsonian-responsibility/)
+
+## 2026-07-09T16:39:36+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Reactive Attitudes and Strawsonian Responsibility
+- **Output**: [reactive-attitudes-and-strawsonian-responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/)
+- **Word count**: 2581
+- **Based on research**: yes — [reactive-attitudes-and-strawsonian-responsibility-2026-07-09](/research/reactive-attitudes-and-strawsonian-responsibility-2026-07-09/)
+
+## 2026-07-09T16:35:11+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Reactive Attitudes and Strawsonian Responsibility
+- **Output**: [reactive-attitudes-and-strawsonian-responsibility-2026-07-09](/research/reactive-attitudes-and-strawsonian-responsibility-2026-07-09/)
+- **Sources consulted**: 8 (P. F. Strawson 1962; SEP Strawson / Compatibilism / Moral Responsibility; Wallace 1994; Watson 1987; Fischer & Ravizza 1998; McKenna & Russell 2008)
+
+## 2026-07-09T16:30:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/)
+- **Type**: cross-review (argument lens) of fresh 2026-07-09 create
+- **Word count**: 1911 → 1911 (no change; single-word metadata fix)
+- **Critical issues addressed**: 1 (citation metadata: SEP "Arguments for Incompatibilism" is single-authored by Vihvelin — removed false "et al.")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 7 (5 books + 2 SEP entries) at publisher of record; 6 real-correct, 1 real-wrong-metadata fixed; no fabricated DOIs
+- **Integration**: 4 reciprocal inbound links (consequence=leeway, manipulation=source, frankfurt=pivot, moral-responsibility=control/source) confirmed resolving and accurate
+- **Engagement modes**: Fischer semicompatibilism — Mode Three, granted as genuine rival not defeated; Pereboom luck objection — boundary-marked as plausibility judgement not proof. No label leakage.
+- **Output**: [deep-review-2026-07-09-source-versus-leeway-incompatibilism](/reviews/deep-review-2026-07-09-source-versus-leeway-incompatibilism/)
+
+## 2026-07-09T16:17:28+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Source versus Leeway Incompatibilism
+- **Output**: [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/)
+- **Word count**: 1911
+- **Based on research**: yes, [source-versus-leeway-incompatibilism-2026-07-09](/research/source-versus-leeway-incompatibilism-2026-07-09/)
+- **Notes**: First article of the free-will-deepening wave. Concept hub for the three incompatibilism topics: Consequence Argument (leeway), Manipulation Argument (source), Frankfurt cases (pivot). Calibrated NEUTRAL — taxonomy is shared machinery, not evidence for dualism; Map located as ONE wide-source-libertarian position (Timpe neighbour); source incompatibilism ≠ libertarianism (Pereboom holds source premise yet denies free will). Tenets 3 + 5. Citations re-verified inline at publisher (Timpe 2008 Continuum; Pereboom 2001 CUP / 2014 OUP; Fischer & Ravizza 1998 CUP; McKenna & Pereboom 2016 Routledge; SEP). Reciprocal inbound links added from consequence-argument, manipulation-argument, frankfurt-cases, moral-responsibility.
+
+## 2026-07-09T16:15:00+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [problem-of-other-minds](/concepts/problem-of-other-minds/)
+- **Word count**: 3086 → 3086 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Reviewed on genuine post-review content drift (corpus audit routed the invertebrate absence-claim through standing-agnostic-challenge symmetry). Verified drift edit is calibration-honest (epistemic symmetry, not evidential upgrade — no possibility/probability slippage). Web-verified 2024 NY Declaration wording (real-correct); illusionist engagement Mode Two, no label leakage; all wikilinks resolve. No defect → last_deep_review bumped only, ai_modified left at 2026-07-07.
+- **Output**: [deep-review-2026-07-09-problem-of-other-minds](/reviews/deep-review-2026-07-09-problem-of-other-minds/)
+
 ## 2026-07-09T16:06:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Source versus Leeway Incompatibilism

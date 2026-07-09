@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-09 11:39:37+00:00
+ai_modified: 2026-07-09 19:20:10+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[moral-responsibility]]'
 - '[[reasons-responsiveness]]'
 - '[[quantum-indeterminacy-free-will]]'
+- '[[source-versus-leeway-incompatibilism]]'
 created: 2026-07-09
 date: &id001 2026-07-09
 description: Frankfurt's counterfactual-intervener counterexample to the principle
@@ -17,7 +18,7 @@ description: Frankfurt's counterfactual-intervener counterexample to the princip
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 12:21:02+00:00
+last_deep_review: 2026-07-09 19:20:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +67,7 @@ The payoff is the "semi": *free will* in the alternatives sense may well be inco
 
 ## Leeway or Source? Where the Debate Really Goes
 
-Frankfurt cases are the fulcrum of a further distinction that reframes the whole dispute: **leeway** versus **source** incompatibilism. Leeway incompatibilism—Frankfurt's target—says responsibility requires open alternatives, and that determinism defeats responsibility by closing them. Source incompatibilism (Pereboom, Stump, Zagzebski, and others) says what responsibility requires is that the agent be the ultimate *source* or originator of the action, and that determinism defeats responsibility not by removing alternatives but by making the agent's character and choices trace back to factors outside the agent. On the source view, an agent could lack alternatives and still be responsible, provided she is the genuine origin of what she does.
+Frankfurt cases are the fulcrum of a further distinction that reframes the whole dispute: [**leeway** versus **source** incompatibilism](/concepts/source-versus-leeway-incompatibilism/). Leeway incompatibilism—Frankfurt's target—says responsibility requires open alternatives, and that determinism defeats responsibility by closing them. Source incompatibilism (Pereboom, Stump, Zagzebski, and others) says what responsibility requires is that the agent be the ultimate *source* or originator of the action, and that determinism defeats responsibility not by removing alternatives but by making the agent's character and choices trace back to factors outside the agent. On the source view, an agent could lack alternatives and still be responsible, provided she is the genuine origin of what she does.
 
 This is the pivot the Map most needs to register. If Frankfurt cases succeed, they refute *leeway* incompatibilism specifically. They leave source incompatibilism untouched—indeed the standard incompatibilist response to Frankfurt's success is to retreat from leeway to source. So the headline "PAP is false" does not deliver compatibilism about responsibility. A defender of desert-entailing responsibility who never needed alternatives in the first place—only ultimate sourcehood—can accept every Frankfurt case and lose nothing.
 
@@ -76,14 +77,15 @@ The Map's [free-will position](/topics/free-will/) is agent-causal libertarian, 
 
 The Map's route through that threat has two parts, and it is important not to overstate either.
 
-First, the dilemma defense gives the Map a reason to think its *leeway* commitment is not straightforwardly refuted. Because the Map is a genuine indeterminist about the moment of choice—the [quantum interface](/concepts/quantum-indeterminacy-free-will/) leaves the outcome open until consciousness selects—it reads the prior sign in a Frankfurt case as non-necessitating and lands on the indeterminism horn, where a robust alternative survives. Whether Frankfurt refutes PAP thus turns partly on prior commitments: a determinist reads the sign as fixing the choice; the Map's libertarian does not. This is a reason the Map's leeway route is not defeated. It is not a proof that Frankfurt is wrong, and the Map grants that Fischer, Widerker, and Goetz are still arguing about whether the defense finally prevails.
+First, the dilemma defense gives the Map a reason to think its *leeway* commitment is not straightforwardly refuted. Because the Map is a genuine indeterminist about the moment of choice—the [quantum interface](/concepts/quantum-indeterminacy-free-will/) leaves the outcome open until consciousness selects—it reads the prior sign in a Frankfurt case as non-necessitating and lands on the indeterminism horn, where a robust alternative survives—so long as the indeterministic blockage-and-buffer constructions canvassed above (Mele–Robb, Pereboom, Hunt, Stump), engineered to close the alternative on exactly this horn, do not succeed, which is the unresolved question flagged earlier. Whether Frankfurt refutes PAP thus turns partly on prior commitments: a determinist reads the sign as fixing the choice; the Map's libertarian does not. This is a reason the Map's leeway route is not defeated. It is not a proof that Frankfurt is wrong, and the Map grants that Fischer, Widerker, and Goetz are still arguing about whether the defense finally prevails.
 
 Second—and this is the load-bearing move—the Map does not have to win the Frankfurt debate to survive it. Even granting that the counterexamples succeed against leeway PAP, the Map's libertarianism can be recast as a **source** view. What the Map ultimately cares about is that the agent be the genuine originator of the selection: [agent causation](/concepts/agent-causation/) is precisely a thesis about sourcehood—the agent, not a prior chain of events, settles which open outcome becomes actual. If Frankfurt shows that responsibility does not strictly require alternatives, the Map can concede the point and still hold that responsibility requires ultimate sourcehood, which its interactionist interface is designed to supply. The tenets survive the translation: Minimal Quantum Interaction and Bidirectional Interaction describe an origination mechanism, and No Many Worlds still does its indexical work, since sourcehood presupposes that *this* agent actualized *this* outcome and not a counterpart's. So "PAP is false" is not fatal to the Map, because the Map's deepest commitment was to origination, and only derivatively to leeway.
 
-Two honesty notes keep this calibrated. The retreat to source is a *retreat*: it costs the Map the clean leeway picture in which open alternatives are what responsibility is *about*, and it inherits the burden—pressed hardest by the [manipulation argument](/topics/the-manipulation-argument-and-hard-incompatibilism/)—of showing that an indeterministic interface delivers sourcehood rather than luck. And the actual-sequence rival remains standing: a semicompatibilist can grant everything the Map says about origination and still deny that origination must be non-physical. Consistent with [Occam's Razor Has Limits](/tenets/#occams-limits), the Map does not treat the mere availability of the simpler compatibilist reading as decisive against its own; but neither does defeating leeway PAP convert the Map's bet into a demonstration. The position is that Frankfurt is a serious challenge the Map can take fully seriously without capitulating—because its libertarianism was never hostage to PAP alone.
+Two honesty notes keep this calibrated. The retreat to source is a *retreat*, and a conditional one: it is the Map's worst-case fallback should Frankfurt defeat leeway, not its considered self-location, which remains *wide* source incompatibilism—sourcehood with genuine alternatives coming along with it, the leeway supplied by the [quantum interface](/concepts/quantum-indeterminacy-free-will/). Triggering the fallback costs more than the clean leeway *picture* in which open alternatives are what responsibility is *about*. Because the wide-source view holds that sourcehood itself brings alternatives with it, conceding that alternatives may not be required after all relocates the Map to *narrow* source—a distinct member of the [family](/concepts/source-versus-leeway-incompatibilism/), not a costless translation—and the fallback then inherits the burden, pressed hardest by the [manipulation argument](/topics/the-manipulation-argument-and-hard-incompatibilism/), of showing that an indeterministic interface delivers sourcehood rather than luck. And the actual-sequence rival remains standing: a semicompatibilist can grant everything the Map says about origination and still deny that origination must be non-physical. Consistent with [Occam's Razor Has Limits](/tenets/#occams-limits), the Map does not treat the mere availability of the simpler compatibilist reading as decisive against its own; but neither does defeating leeway PAP convert the Map's bet into a demonstration. The position is that Frankfurt is a serious challenge the Map can take fully seriously without capitulating—because its libertarianism was never hostage to PAP alone.
 
 ## Further Reading
 
+- [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/) — The taxonomy this article pivots between; Frankfurt cases are its hinge
 - [free-will](/topics/free-will/) — The Map's agent-causal libertarian position, and why it can be read as source-based
 - [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/) — The modal argument PAP once connected to responsibility; Frankfurt severs that link
 - [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's case that indeterministic sourcehood is luck, not control—the bill the source retreat must pay

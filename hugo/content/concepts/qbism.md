@@ -19,7 +19,7 @@ description: QBism interprets quantum states as subjective beliefs, not objectiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 00:00:00+00:00
+last_deep_review: 2026-07-09 19:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

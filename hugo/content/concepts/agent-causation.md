@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-09 10:27:36+00:00
+ai_modified: 2026-07-09 18:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -184,6 +184,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 
 - [consciousness-and-agency](/apex/consciousness-and-agency/), [process-and-consciousness](/apex/process-and-consciousness/) — Apex syntheses
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment, Kane's 2024 convergence
+- [event-causal-libertarianism](/topics/event-causal-libertarianism/) — The libertarian taxonomy locating this wing against its event-causal and non-causal rivals, with Kane's self-forming actions in full
 - [luck-objection](/concepts/luck-objection/), [agency-void](/voids/agency-void/) — The central objection and the verification-circularity limit
 - [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's empirical "wild coincidences" objection to agent-causal libertarianism
 - [motor-selection](/concepts/motor-selection/), [attention-as-interface](/concepts/attention-as-interface/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Empirical and phenomenological grounding

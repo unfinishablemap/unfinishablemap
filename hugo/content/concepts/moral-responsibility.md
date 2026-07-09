@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-09 11:39:37+00:00
+ai_modified: 2026-07-09 17:37:02+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[buddhism-and-dualism]]'
 - '[[compatibilist-symmetry-challenge]]'
+- '[[source-versus-leeway-incompatibilism]]'
 created: 2026-01-16
 date: &id001 2026-01-16
 description: How agent causation grounds genuine moral desert. Agents originate actions
@@ -41,7 +42,7 @@ Moral responsibility requires that agents deserve praise or blame for their acti
 
 ## The Traditional Problem
 
-Moral responsibility requires control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). Determinism threatens the first two: if every event follows necessarily from prior causes, no one could have done otherwise, and no one originates anything.
+Moral responsibility requires control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). Determinism threatens the first two: if every event follows necessarily from prior causes, no one could have done otherwise, and no one originates anything. These first two conditions correspond to the two families of incompatibilism—leeway (alternative possibilities) and [source](/concepts/source-versus-leeway-incompatibilism/) (ultimate origination); the Map's agent-causal account leans hardest on the second while wanting both.
 
 **Compatibilism** argues "could have done otherwise" means "would have, if different desires." But critics argue this doesn't ground *desert*—if your desires were determined by factors you didn't choose, how do you deserve blame for acting on them?
 
@@ -181,6 +182,8 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum indeterminacy supports libertarian free will and responds to luck
 - [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's case that we lack the free will for basic-desert responsibility on determinism or indeterminism
 - [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) — Whether desert needs "could have done otherwise" at all; the 1969 PAP paper, distinct from the 1971 higher-order-desire paper cited above
+- [frankfurt-hierarchical-mesh-theory-of-the-will](/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/) — The 1971 paper's positive account: identification with an effective higher-order desire, the person/wanton distinction, and why the mesh brackets sourcehood
+- [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/) — The taxonomy behind the control/sourcehood conditions, and where the Map's account sits
 - [free-will](/topics/free-will/) — The broader free will question and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation in detail
 - [volitional-control](/topics/volitional-control/) — The empirical and phenomenological case that the "whether"-decision is genuine conscious control — the desert-grounding locus
@@ -190,6 +193,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [decoherence](/concepts/decoherence/) — The quantum challenge and biological responses
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Responsibility without permanent selfhood
 - [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) — Named anti-slippage discipline: tenet-coherent, not moral-explanatory-superior
+- [reactive-attitudes-and-strawsonian-responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/) — P.F. Strawson's dissolution of the problem: responsibility constituted by the reactive attitudes, and why the Map declines the dissolution without refuting it
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Beyond desert: how genuine agency transforms obligation, character, and moral theory
 - [moral phenomenology and perception](/concepts/evaluative-phenomenal-character/) — The felt character of moral experience that grounds desert judgements
 - [tenets](/tenets/) — The foundational commitments grounding this view

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-09 10:27:36+00:00
+ai_modified: 2026-07-09 18:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -210,6 +210,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 ## Further Reading
 
 - [agent-causation](/concepts/agent-causation/) — Why the Map's framework is agent-causal, including substance causation
+- [event-causal-libertarianism](/topics/event-causal-libertarianism/) — The three-way libertarian taxonomy (event-causal, agent-causal, non-causal) and the event-causal rival the Map's agent-causal reading answers via luck
 - [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's four-case argument and the hard-incompatibilist claim that the libertarian escape also fails
 - [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) — The causal theory of action, volitionism, and why the Map selects a volitionist agent-causal hybrid
 - [control-theoretic-will](/concepts/control-theoretic-will/) — Consciousness as low-bandwidth controller of neural dynamics
@@ -218,6 +219,8 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages genuine agency versus running on scripts
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What genuine agency implies for obligation, character, and moral life
 - [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) — Why the Map's libertarian framing is distinguished by tenet-coherence rather than unique moral explanatory power
+- [frankfurt-hierarchical-mesh-theory-of-the-will](/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/) — Frankfurt's structural compatibilism: freedom as a mesh between effective desire and second-order volition, requiring neither alternatives nor sourcehood
+- [reactive-attitudes-and-strawsonian-responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/) — P.F. Strawson's compatibilist dissolution of the free-will problem, and the Map's framework-relative resistance to it
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How the framework addresses Kim's exclusion argument
 - [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/) — Why Kim's overdetermination worry dissolves under selection-only interactionism rather than needing an answer

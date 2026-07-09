@@ -32,7 +32,7 @@ description: How can we know others are conscious? Philosophical approaches to t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-13 14:47:41+00:00
+last_deep_review: 2026-07-09 16:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
