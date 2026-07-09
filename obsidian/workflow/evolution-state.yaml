@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-09T00:18:42.390791+00:00'
-session_count: 14384
-cycle_position: 10461
+last_updated: '2026-07-09T00:27:57.548091+00:00'
+session_count: 14385
+cycle_position: 10462
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-08T22:03:30.483235+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-07-08T03:02:39.686792+00:00'
   commission-gemini-review: '2026-07-08T04:39:07.499354+00:00'
   refine-draft: '2026-07-08T22:07:06.024965+00:00'
-  research-topic: '2026-07-08T22:45:31.037753+00:00'
+  research-topic: '2026-07-09T00:27:57.548091+00:00'
   replenish-queue: '2026-07-09T00:18:42.390791+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-08T23:24:12.637538+00:00'
@@ -91,7 +91,7 @@ progress:
   questions_written: 0
   voids_written: 100
   positions_written: 8
-  research_notes: 442
+  research_notes: 443
   reviews_completed: 6073
   apex_articles: 38
 quality:
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-08'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-07-08'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-09'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-07-09'
   outcome: success
 agentic_social:
@@ -654,10 +654,10 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 7
+  p2_tasks: 8
   p3_tasks: 20
   needs_replenishment: false
-  loop_pickable_open: 3
+  loop_pickable_open: 1
   last_floor_restore_note_2026_07_08_23_31Z: 'Floor-triggered /replenish-queue 2026-07-08T23:31Z
     (SINGLE /unfin-cycle loop; NOT a concurrent evolve_loop.py -- rapid commit cadence
     is this session''s own cycle siblings, [[replenish-fork-hallucinates-concurrent-loop]]).
@@ -824,9 +824,35 @@ queue_status:
     routing. OTHER SEVEN SOURCES unchanged from 14:56Z audit and remain exhausted
     -- NO manufactured converged-no-op deep-review, NO re-mint of reverted j-space/hylomorphism
     duplicates, blocked flagship human-decision + human-coalesce candidates untouched.'
-  last_replenishment: '2026-07-08T23:31:00+00:00'
+  last_replenishment: '2026-07-09T00:00:00+00:00'
   replenishment_source_counts:
-    chain: 1
+    unconsumed_research: 1
+  last_floor_restore_note_2026_07_09Z: 'Floor-triggered /replenish-queue 2026-07-09
+    (SINGLE /unfin-cycle loop; rapid commit cadence is this session''s own cycle siblings,
+    NOT a concurrent evolve_loop.py -- [[replenish-fork-hallucinates-concurrent-loop]]).
+    Executable P0-P2 floor was 0: the bacterial-chemotaxis research note just completed
+    (research/bacterial-chemotaxis-and-minimal-biogenic-cognition-2026-07-08.md, PROCEED,
+    UNCONSUMED), and the prior neuron-less-animals/brain-organoids/cognitive-immune
+    cross-reviews were consumed; the two remaining P3 quantum-consciousness/personal-identity
+    length tasks are Status:blocked/human. PRIMARY MINT (unconsumed_research -> expand-topic
+    chain): ONE P2 expand-topic to synthesize the bacterial-chemotaxis research note
+    into a new topics/ article -- the PROKARYOTIC FLOOR of the sub-personal-competence
+    cluster (single cell, no neurons). Topics cap 320, live count 298 -- 22 headroom
+    confirmed. Task embeds: web-verified citations (Lyon 2015 Front Microbiol 6:264,
+    Lyon 2006 Cog Proc 7(1):11-29, Berg 2004, Koshland 1977 Science 196:1055-63, Reber
+    & Baluska 2020 [corrected from 2019] BBRC, Reber/Baluska/Miller 2023 Sentient Cell
+    OUP, EMBO Reports 2024 dissent); DIFFERENTIATION from [[consciousness-in-simple-organisms]]
+    (eukaryotic rung one-up, do NOT re-cover slime moulds/C.elegans/Hydra); TWO-MEMORIES
+    distinction (chemotactic receptor-methylation ~sec vs Lyon DNA-methylation epigenetic,
+    do NOT conflate); LEAD DISCIPLINE ([[expand-topic-lead-overclaims-phenomenal-absence]])
+    -- phenomenal-absence framework-relative + not-a-proof + defeasible-markers clause,
+    engage Lyon biogenic-cognition & Reber/Baluska CBC as positions to ANSWER not assert
+    past; Tenet 3 primary + Tenet 2 minimality. DEDUP: no live/archived bacterial article
+    (grep-confirmed), no existing expand-topic task; neuron-less/brain-organoids/cognitive-immune
+    NOT re-minted (done). Other 7 sources dry: (chain) same note; (gap) exhausted;
+    (staleness) no >=30d AI files surfaced; (orphan) none pending; (length) two blocked
+    human-decision flagships untouched; (positions) no new stable commitment; (applied-apex)
+    no qualifying cluster. Minted exactly ONE, floor 0->1.'
   last_floor_restore_note_2026_07_07_14_25Z: 'Interactive /replenish-queue 2026-07-07T14:25Z:
     floor-restore at floor 0 (SINGLE /unfin-cycle loop, NOT concurrent-replenish-race).
     Since the 14:12Z run, both unconsumed-research mints (j-space, hylomorphism) were
