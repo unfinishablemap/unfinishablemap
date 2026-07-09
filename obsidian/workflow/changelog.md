@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T16:39:36+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Reactive Attitudes and Strawsonian Responsibility
+- **Output**: [[topics/reactive-attitudes-and-strawsonian-responsibility]]
+- **Word count**: 2581
+- **Based on research**: yes — [[research/reactive-attitudes-and-strawsonian-responsibility-2026-07-09]]
+
 ## 2026-07-09T16:35:11+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Reactive Attitudes and Strawsonian Responsibility

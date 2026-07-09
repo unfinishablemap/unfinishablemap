@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-07-09T10:27:36+00:00
+ai_modified: 2026-07-09T16:39:36+00:00
 last_deep_review: 2026-06-21T06:31:40+00:00
 draft: false
 topics:
@@ -215,6 +215,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[authentic-vs-inauthentic-choice]] — When choice engages genuine agency versus running on scripts
 - [[moral-implications-of-genuine-agency]] — What genuine agency implies for obligation, character, and moral life
 - [[compatibilist-symmetry-challenge]] — Why the Map's libertarian framing is distinguished by tenet-coherence rather than unique moral explanatory power
+- [[reactive-attitudes-and-strawsonian-responsibility]] — P.F. Strawson's compatibilist dissolution of the free-will problem, and the Map's framework-relative resistance to it
 - [[quantum-indeterminacy-free-will]] — How quantum mechanics supports libertarian free will
 - [[mental-causation-and-downward-causation|mental causation]] — How the framework addresses Kim's exclusion argument
 - [[overdetermination-dissolution-under-selection-only-interactionism]] — Why Kim's overdetermination worry dissolves under selection-only interactionism rather than needing an answer

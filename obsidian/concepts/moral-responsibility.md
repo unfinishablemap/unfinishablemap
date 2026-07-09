@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-09T16:17:28+00:00
+ai_modified: 2026-07-09T16:39:36+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -190,6 +190,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [[decoherence]] — The quantum challenge and biological responses
 - [[buddhism-and-dualism]] — Responsibility without permanent selfhood
 - [[compatibilist-symmetry-challenge]] — Named anti-slippage discipline: tenet-coherent, not moral-explanatory-superior
+- [[reactive-attitudes-and-strawsonian-responsibility]] — P.F. Strawson's dissolution of the problem: responsibility constituted by the reactive attitudes, and why the Map declines the dissolution without refuting it
 - [[moral-implications-of-genuine-agency]] — Beyond desert: how genuine agency transforms obligation, character, and moral theory
 - [[evaluative-phenomenal-character|moral phenomenology and perception]] — The felt character of moral experience that grounds desert judgements
 - [[tenets]] — The foundational commitments grounding this view
