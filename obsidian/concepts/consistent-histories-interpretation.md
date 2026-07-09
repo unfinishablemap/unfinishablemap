@@ -24,6 +24,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
+last_deep_review: 2026-07-09T22:40:00+00:00
 ---
 
 Consistent Histories (CH), also called Decoherent Histories, is a single-world, realist interpretation of quantum mechanics that removes measurement, observers, and wave-function collapse from the foundations. It treats quantum theory as a stochastic theory of *histories*—time-sequences of properties—and assigns ordinary, interference-free probabilities only to families of histories meeting a mathematical "consistency" condition. Presented on its own terms, CH is one of the most economical no-collapse interpretations that still keeps a single actual world: no many worlds, no hidden variables, no fundamental observer, and no added collapse dynamics.

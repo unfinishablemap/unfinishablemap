@@ -5,6 +5,22 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T22:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consistent-histories-interpretation]]
+- **Selection**: Cross-review (argument-lens + physics-accuracy + publisher-of-record citation re-verify) of a fresh 2026-07-09 create; quantum-foundations wave article 1; opus-4-8 build; new-domain create → full QM re-verify
+- **Word count**: 1906 → 1906 (0; verification-only, no content change)
+- **Critical issues addressed**: 0 (no defects surfaced)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (clean create — preserved)
+- **Citations web-verified**: Griffiths 1984 (JSP 36:219–272, 10.1007/BF01015734), Gell-Mann & Hartle 1990 (Zurek ed., Complexity Entropy and the Physics of Information, Addison-Wesley — book chapter, correctly NO DOI), Omnès 1994 (Princeton — disambiguated from his 1999 Understanding QM), Dowker & Kent 1996 (JSP 82:1575–1646, 10.1007/BF02183396, arXiv:gr-qc/9412067), Griffiths 2002 (CUP Consistent Quantum Theory), Griffiths SEP (2014-08-07, rev 2024-06-19 — dates match, quote faithful, self-authored slant noted in-text) — ALL real-correct; no invented DOIs; superlative sweep empty
+- **Physics-accuracy**: all load-bearing QM claims verified accurate — histories-as-projector-sequences, consistency/decoherence condition (medium decoherence ⇒ consistency), four principles (Liberty/Equality/Incompatibility/Utility) + unicity/pluricity coinage (verified vs SEP), single-framework rule, Dowker–Kent set-selection critique, CH positioning (single-world/no-collapse/no-MWI/no-HV/no-observer). No misstatement.
+- **Calibration** (editor-internal): lead + RTSP hold — consciousness-selected-framework kept a QUESTION the Map asks but does not answer in its favour ("speculates / possible extension / not a proof / low as evidence"); Dowker–Kent gap NOT converted to dualism-evidence; diagnostic test negative (tenet-accepting reviewer would flag nothing). No possibility/probability slippage. Opponent engagement Mode Three (framework-boundary honesty); no boundary-substitution, no label leakage.
+- **Integration**: CH section in qm-interpretations-beyond-many-worlds reads accurately + reciprocal link resolves; measurement-problem and completeness-in-physics-under-dualism inbound links resolve.
+- **Non-blocking note**: frontmatter `concepts:` lists quantum-darwinism-and-consciousness which lives in topics/ (link resolves by filename; cosmetic, left unedited to preserve verification-only stamping).
+- **Stamp decision**: NO content change → last_deep_review bumped to 2026-07-09T22:40:00+00:00 (≤ real clock 22:40:47) ONLY; ai_modified left at create-time 2026-07-09T22:25:39
+- **Output**: [[reviews/deep-review-2026-07-09-consistent-histories-interpretation]]
+
 ## 2026-07-09T22:35:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenology]]
