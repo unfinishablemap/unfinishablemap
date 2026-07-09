@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T13:10:06+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Akrasia and Weakness of Will
+- **Output**: [[research/akrasia-and-weakness-of-will-2026-07-09]]
+- **Sources consulted**: 5 (SEP "Weakness of Will"; Davidson *Essays on Actions and Events* / OUP; Aristotle NE VII; Holton *Willing, Wanting, Waiting* / OUP; Plato *Protagoras*)
+
 ## 2026-07-09T12:42:50+00:00 - deep-review
 - **Status**: Success (verification-only no-op; converged article, 7th+ review)
 - **File**: [[topics/meaning-of-life]]
