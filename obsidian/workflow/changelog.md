@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T19:20:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/frankfurt-cases-and-the-principle-of-alternate-possibilities]]
+- **Source**: pessimistic-2026-07-09-free-will-deepening-cluster.md (Medium findings #1 wide-vs-narrow source, #2 move-one vs buffer cases) — VERIFY-FIRST
+- **Assessment**: Both findings real (minor coherence gaps), not over-reads.
+- **Changes**:
+  - Finding #1 (Relation to Site Perspective honesty note): reconciled wide-vs-narrow source location. The retreat-to-source is now framed as a *conditional worst-case fallback*; the considered position remains *wide* source (leeway supplied by the quantum interface). Added that triggering the fallback relocates the Map wide→narrow source — a distinct family member, not the costless "tenets survive the translation" the note previously implied. Reconciles with the hub + moral-responsibility wide-source self-location.
+  - Finding #2 (move-one, first honesty part): added a conditioning clause tying move-one's "indeterminism horn ⇒ robust alternative survives" to the earlier-flagged indeterministic blockage/buffer cases (Mele–Robb, Pereboom, Hunt, Stump) built to close that horn; their failure is the unresolved condition move-one depends on.
+- **Calibration**: all existing hedges preserved (no qualifier regression); citations untouched (Widerker & Goetz 2013 confirmed real this session).
+- **Stamps**: ai_modified + last_deep_review → 2026-07-09T19:20:10+00:00 (real fix).
+- **Published**: yes
+
 ## 2026-07-09T18:54:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/event-causal-libertarianism]]
