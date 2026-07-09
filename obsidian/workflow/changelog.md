@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T11:21:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-manipulation-argument-and-hard-incompatibilism]]
+- **Mode**: Cross-review (argument-lens + fresh-create defect-tail) of same-session expand-topic create; citation verify done INLINE
+- **Word count**: 2353 → 2353 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only clean pass)
+- **Citations web-verified**: 6/6 real-correct (Pereboom 1995/2001/2014, McKenna 2008, Mickelson/Demetriou 2010, Jeppsson 2020) — all 5 fork-upgraded cites independently re-confirmed at publisher of record
+- **Four-case ordering**: faithful; **Calibration**: pass (no over-claim; Map does not defeat Pereboom); **Scope**: pass
+- **Engagement with Pereboom**: Mode Three-dominant (framework-boundary marking) + Mode Two Tenet-5 move; no boundary-substitution, no label leakage
+- **Frontmatter**: last_deep_review set; ai_modified unchanged (verification-only)
+- **Output**: [[reviews/deep-review-2026-07-09-the-manipulation-argument-and-hard-incompatibilism]]
+
 ## 2026-07-09T11:04:27+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Manipulation Argument and Hard Incompatibilism
