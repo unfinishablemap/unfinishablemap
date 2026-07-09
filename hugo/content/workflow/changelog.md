@@ -9,6 +9,81 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-09T07:40:05+00:00 - deep-review (converged legacy, citation web-verify)
+- **Status**: Success
+- **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Word count**: 3304 → 3311 (+7, Stapp cite year fix + Zygon verifiability note)
+- **Critical issues addressed**: 1 (Stapp 2007→2005 wrong-year metadata, publisher-verified against LBNL/eScholarship 2005 report; survived 2026-05-27 "full web-verify" + 5 clean reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-damped)
+- **Citation web-verify**: all 10 References checked at publisher of record INLINE (no subagent) — 9 real-correct, 1 real-wrong-metadata fixed. Ledger in review file.
+- **Currency sweep**: zero superlatives flagged; Tegmark/Hagan decoherence figures + Beck-Eccles disconfirmation stable, no drift.
+- **Archival link-rot**: none — all wikilinks resolve to live targets.
+- **Stamps**: content fix → ai_modified AND last_deep_review both set to 2026-07-09T07:40:05+00:00 (≤ real date).
+- **Output**: [deep-review-2026-07-09-conservation-laws-and-mental-causation](/reviews/deep-review-2026-07-09-conservation-laws-and-mental-causation/)
+
+## 2026-07-09T07:26:25+00:00 - deep-review (cross-review, fresh-create defect-tail)
+- **Status**: Success
+- **File**: [the-aesthetics-of-nature-and-natural-beauty](/topics/the-aesthetics-of-nature-and-natural-beauty/)
+- **Word count**: 1957 → 1957 (+0, verification-only clean pass)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Calibration**: CLEAN — no over-claim/over-hedge; Map's-own-move framing correct, no rescope
+- **Citations**: 8/8 verified real-correct at publisher (inline, no subagent); both high-risk book-chapter page ranges (Hepburn 285–310, Carroll 244–266) exact; SEP entry correctly attributed Parsons & Carlson
+- **Stamps**: last_deep_review only (no ai_modified bump — no content change)
+- **Output**: [deep-review-2026-07-09-the-aesthetics-of-nature-and-natural-beauty](/reviews/deep-review-2026-07-09-the-aesthetics-of-nature-and-natural-beauty/)
+
+## 2026-07-09T07:15:52+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Aesthetics of Nature and Natural Beauty
+- **Output**: [the-aesthetics-of-nature-and-natural-beauty](/topics/the-aesthetics-of-nature-and-natural-beauty/)
+- **Word count**: 1957
+- **Based on research**: yes, [the-aesthetics-of-nature-and-natural-beauty-2026-07-09](/research/the-aesthetics-of-nature-and-natural-beauty-2026-07-09/)
+- **Integration**: inbound links added from aesthetics-and-consciousness, the-sublime-and-negative-aesthetics, everyday-aesthetics
+
+## 2026-07-09T06:57:32+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Aesthetics of Nature and Natural Beauty
+- **Output**: [the-aesthetics-of-nature-and-natural-beauty-2026-07-09](/research/the-aesthetics-of-nature-and-natural-beauty-2026-07-09/)
+- **Sources consulted**: 7 (Hepburn 1966, Berleant 1992, Carroll 1993, Carlson 2000, Budd 2002, Brady 2003, SEP Environmental Aesthetics — all citation-verified except Budd flagged for OUP re-verify)
+
+## 2026-07-09T06:48:05+00:00 - deep-review
+- **Status**: Success (cross-review: argument-lens + fresh-create defect-tail)
+- **File**: [everyday-aesthetics](/topics/everyday-aesthetics/)
+- **Word count**: 1847 → 1847 (verification-only clean; no content changes)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 8/8 real-correct at publisher of record (Saito 2007/2017, Irvin 2008, Leddy 2012/1995/1997, Melchionne 2013, Haapala 2005)
+- **Calibration verdict**: lead presents strengthen-vs-dilute as genuine unresolved tension (no over-claim); deflationary/functionalist gloss at full strength; Irvin handled dual-use with selective-citation risk pre-empted
+- **Stamps**: last_deep_review bumped only; ai_modified left at create-time value
+- **Output**: [deep-review-2026-07-09-everyday-aesthetics](/reviews/deep-review-2026-07-09-everyday-aesthetics/)
+
+## 2026-07-09T06:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Everyday Aesthetics
+- **Output**: [everyday-aesthetics](/topics/everyday-aesthetics/)
+- **Word count**: 1847
+- **Based on research**: yes ([everyday-aesthetics-2026-07-09](/research/everyday-aesthetics-2026-07-09/))
+- **Notes**: All 3 quarantined cites re-verified at publisher and included (Leddy 1995 JAAC 53(3):259–268; Leddy 1997 BJA 37(3):259–273; Haapala 2005 in Light & Smith, Columbia UP, pp. 39–55). Lead calibrated as tension-laying (strengthen vs dilute), no bald irreducibility claim; deflationary/functionalist reading given full space; Irvin handled as dual-use (pervasiveness helps premise but her anti-unity stance cuts against the binding argument). Inbound links added from aesthetics-and-consciousness, the-sublime-and-negative-aesthetics, phenomenal-value-realism.
+
+## 2026-07-09T06:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Everyday Aesthetics
+- **Output**: [everyday-aesthetics-2026-07-09](/research/everyday-aesthetics-2026-07-09/)
+- **Sources consulted**: 6 (SEP "Aesthetics of the Everyday"; Irvin 2008 BJA; Saito 2007 & 2017 OUP; Leddy 2012 Broadview; Melchionne 2013 Contemporary Aesthetics — all core cites verified at publisher of record)
+
+## 2026-07-09T06:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- **Word count**: 2891 → 2891 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth review; verification-only no-op on fully-converged article; only post-fifth-review change was a cosmetic Further Reading cross-link)
+- **Verification**: all 26 wikilinks resolve, no archival link-rot; O'Brien-Kop 2023 re-verified fresh at Cambridge Core (DOI 10.1017/S0034412523000410); no currency drift; no calibration slippage. last_deep_review updated only (no body prose altered).
+- **Output**: [deep-review-2026-07-09-the-hard-problem-in-non-western-philosophy](/reviews/deep-review-2026-07-09-the-hard-problem-in-non-western-philosophy/)
+
 ## 2026-07-09T05:42:30+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Comic and Humor as an Aesthetic Category

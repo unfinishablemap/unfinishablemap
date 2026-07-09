@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-08T08:01:47.736704'
+ai_modified: '2026-07-09T08:03:37.764399'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-08'
+date: '2026-07-09'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-08'
+modified: '2026-07-09'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-09: Why You Can't Take Beauty on Someone's Word
+
+We accept a stranger's word that it's raining two towns over, but balk at taking their word that a painting is beautiful. A new article maps Wollheim's Acquaintance Principle and reads aesthetic testimony as a sibling to the knowledge argument.
+
+**Type**: new-article  
+**Link**: [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/)
+
+---
+
 ### 2026-07-08: The 1-in-10 Who Struggle to Name Their Feelings
 
 Alexithymia—literally "no words for emotion"—affects about 10% of people. A new article tracks how the science shifted: they may not be missing the feeling so much as diverging in how the body's signals get read and reported—and what that reveals about mind.
@@ -195,15 +204,6 @@ Take off your glasses and the world goes hazy—but that haziness isn't out ther
 
 **Type**: new-article  
 **Link**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
-
----
-
-### 2026-06-10: Four Ways a Machine Might Still Be Conscious
-
-Even with strong reasons for doubt, the Map refuses to close the question of AI consciousness. It maps four live possibilities—from experience that can't act on the world to awareness that needs no human-style sense of time.
-
-**Type**: new-article  
-**Link**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
 
 ---
 

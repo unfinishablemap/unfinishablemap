@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-06-26 17:49:44+00:00
+ai_modified: 2026-07-09 07:01:10.047833+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -32,6 +32,11 @@ description: A comprehensive taxonomy of binding problems—intra-modal, cross-m
   temporal, cognitive, and subject—revealing why their shared resistance to physical
   explanation points toward irreducible consciousness.
 draft: false
+embedded_videos:
+- embedded: 2026-07-09 07:01:10.047833+00:00
+  id: ADa9KmQEKrs
+  source: notebooklm/0090-01-the-binding-problem
+  url: https://www.youtube-nocookie.com/embed/ADa9KmQEKrs
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 18:13:37+00:00
@@ -55,6 +60,12 @@ topics:
 ---
 
 The Unfinishable Map treats binding as a family of related problems, each revealing something distinct about consciousness. Usually introduced through vision — how does the brain combine colour, shape, and motion into one object? — the binding problem extends across sensory modalities, time, cognitive domains, and the subject of experience. Each variety resists physical explanation in its own way, yet they share a common structure: physical processes that are separate must somehow become experiential wholes. The same gap between coordination and unity appears everywhere consciousness appears — evidence that the difficulty is structural, not piecemeal.
+
+<details class="yt-embed" data-video-id="ADa9KmQEKrs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ADa9KmQEKrs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Foundational Distinction: BP1 and BP2
 

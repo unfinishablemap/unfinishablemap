@@ -264,6 +264,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [free-will](/topics/free-will/) — Agency as intrinsically valuable phenomenal experience
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — What contemplative practice reveals about value and consciousness
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic value resists hedonistic reduction
+- [everyday-aesthetics](/topics/everyday-aesthetics/) — Whether pervasive low-key aesthetic value supports intrinsic phenomenal value or invites a deflationary functionalist gloss
 - [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — The sublime, tragedy, and disgust as the sharpest case for phenomenal value pluralism over hedonism
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the felt quality of emotions
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal and evaluative role
