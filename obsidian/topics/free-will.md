@@ -211,6 +211,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[philosophy-of-action-under-dualism]] — The causal theory of action, volitionism, and why the Map selects a volitionist agent-causal hybrid
 - [[control-theoretic-will]] — Consciousness as low-bandwidth controller of neural dynamics
 - [[spontaneous-intentional-action]] — Authored action without deliberation
+- [[akrasia-and-weakness-of-will]] — Acting against one's own better judgement: the limiting case of authorship diverging from evaluation
 - [[authentic-vs-inauthentic-choice]] — When choice engages genuine agency versus running on scripts
 - [[moral-implications-of-genuine-agency]] — What genuine agency implies for obligation, character, and moral life
 - [[compatibilist-symmetry-challenge]] — Why the Map's libertarian framing is distinguished by tenet-coherence rather than unique moral explanatory power

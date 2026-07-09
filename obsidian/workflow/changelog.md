@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T13:30:36+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Akrasia and Weakness of Will
+- **Output**: [[topics/akrasia-and-weakness-of-will]]
+- **Word count**: 2130
+- **Based on research**: yes, [[research/akrasia-and-weakness-of-will-2026-07-09]]
+
 ## 2026-07-09T13:10:06+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Akrasia and Weakness of Will

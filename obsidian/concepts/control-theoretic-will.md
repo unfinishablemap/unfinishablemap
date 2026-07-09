@@ -141,7 +141,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 **Formal specification.** What exactly is the control law? The Map identifies the controller's existence and its bandwidth, but the mapping from phenomenal states to control outputs—the psychophysical control law—remains unspecified. [[the-psychophysical-control-law|The psychophysical control law]] explores candidates, but none has been formalised in control-theoretic terms.
 
-**Stability conditions.** Under what parameter ranges does the consciousness-brain control loop remain stable? Can pathological conditions (addiction, compulsion, dissociation) be modelled as specific instabilities? This connects to [[attentional-economics#Implications for Moral Responsibility|moral responsibility]]—control failures may carry different moral weight than control refusals.
+**Stability conditions.** Under what parameter ranges does the consciousness-brain control loop remain stable? Can pathological conditions (addiction, compulsion, dissociation) be modelled as specific instabilities? [[akrasia-and-weakness-of-will|Akrasia]]—acting against one's own better judgement—is the paradigm case where the controller's selection diverges from the agent's all-things-considered evaluative state, though whether that divergence needs a non-physical controller is exactly what akrasia leaves open. This connects to [[attentional-economics#Implications for Moral Responsibility|moral responsibility]]—control failures may carry different moral weight than control refusals.
 
 **Adaptive control.** Does the controller's strategy change with experience? Meditation and attention training suggest it does—the controller becomes more efficient. Schwartz & Begley (2002) document how directed mental effort produces measurable neuroplastic changes in OCD patients, suggesting the controller can reshape the plant it governs. Adaptive control theory provides frameworks for modelling how a controller improves over time while maintaining stability.
 
@@ -160,6 +160,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [[agent-causation]] — The metaphysics of the controller as genuine cause
 - [[causal-closure]] — Why control requires gaps in physical determinism
 - [[wholeheartedness-void]] — What "stable preferences that move action" leaves out: the felt seam of identification the control frame cannot recover
+- [[akrasia-and-weakness-of-will]] — When selection diverges from the agent's own better judgement
 
 ## References
 
