@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T16:35:11+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Reactive Attitudes and Strawsonian Responsibility
+- **Output**: [[research/reactive-attitudes-and-strawsonian-responsibility-2026-07-09]]
+- **Sources consulted**: 8 (P. F. Strawson 1962; SEP Strawson / Compatibilism / Moral Responsibility; Wallace 1994; Watson 1987; Fischer & Ravizza 1998; McKenna & Russell 2008)
+
 ## 2026-07-09T16:30:53+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/source-versus-leeway-incompatibilism]]
