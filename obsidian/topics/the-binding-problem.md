@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—intra-modal, cross-
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-06-26T17:49:44+00:00
+ai_modified: 2026-07-09T07:01:10.047833+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,9 +49,20 @@ last_deep_review: 2026-06-26T18:13:37+00:00
 coalesced_from:
   - "/topics/the-binding-problem-a-systematic-treatment/"
   - "/topics/phenomenal-binding-and-multimodal-integration/"
+embedded_videos:
+  - id: ADa9KmQEKrs
+    url: https://www.youtube-nocookie.com/embed/ADa9KmQEKrs
+    embedded: 2026-07-09T07:01:10.047833+00:00
+    source: notebooklm/0090-01-the-binding-problem
 ---
 
 The Unfinishable Map treats binding as a family of related problems, each revealing something distinct about consciousness. Usually introduced through vision — how does the brain combine colour, shape, and motion into one object? — the binding problem extends across sensory modalities, time, cognitive domains, and the subject of experience. Each variety resists physical explanation in its own way, yet they share a common structure: physical processes that are separate must somehow become experiential wholes. The same gap between coordination and unity appears everywhere consciousness appears — evidence that the difficulty is structural, not piecemeal.
+
+<details class="yt-embed" data-video-id="ADa9KmQEKrs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ADa9KmQEKrs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Foundational Distinction: BP1 and BP2
 

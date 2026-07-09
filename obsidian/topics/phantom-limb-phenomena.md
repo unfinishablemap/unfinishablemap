@@ -4,7 +4,7 @@ description: "Phantom limbs reveal that bodily experience is brain-constructed a
 created: 2026-05-08
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-06-03T22:30:32+00:00
+ai_modified: 2026-07-09T07:01:10.047833+00:00
 last_deep_review: 2026-07-07T16:56:50+00:00
 draft: false
 topics:
@@ -33,11 +33,22 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-08
 last_curated:
+embedded_videos:
+  - id: fDp58eh1Y5w
+    url: https://www.youtube-nocookie.com/embed/fDp58eh1Y5w
+    embedded: 2026-07-09T07:01:10.047833+00:00
+    source: notebooklm/0086-01-phantom-limb-phenomena
 ---
 
 Phantom limb phenomena are conscious experiences of body parts that are absent — most often after amputation, but also in aplasia and spinal cord transection. Roughly 60–80% of amputees experience phantom sensations, and a similar proportion phantom limb pain (Ramachandran and Hirstein, 1998; Flor et al., 2006). The phantom can feel its position, attempt to move, ache, itch, cramp, and adopt impossible postures.
 
 The Map's reading: phantoms support the claim that the felt body is constructed by the brain rather than transmitted from the periphery. This appears to be the convergent view of modern pain science — neuromatrix, predictive processing, and the biopsychosocial tradition all share it within physicalism, so the base observation is not Map-distinctive and does not on its own embarrass twenty-first-century materialism. Three features extend the base observation: (i) phantom *qualia* seem as vivid as ordinary bodily qualia in a setting where central production conditions are unusually specifiable, without obviously narrowing the [[explanatory-gap|explanatory gap]] between specification and felt content; (ii) phantom pain can be modulated by purely visual interventions in some patients, suggesting evidence relevant to [[mental-causation-and-downward-causation|top-down causation]] — though Guémann et al. (2023) find no durable clinical effect in placebo-controlled RCTs, so the strength of the case is uncertain; (iii) congenital phantoms in a minority of aplasics suggest the bodily self-model may not be built up entirely from sensorimotor experience with one's own specific limb. These are differently-shaped extensions of one observation, not independent confirmations (see [[#common-cause-null-audit|audit]] below). None proves dualism; all sharpen what a theory of embodied consciousness must explain, and the evidence remains compatible with both interpretations.
+
+<details class="yt-embed" data-video-id="fDp58eh1Y5w">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/fDp58eh1Y5w">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What Phantoms Are Like
 
