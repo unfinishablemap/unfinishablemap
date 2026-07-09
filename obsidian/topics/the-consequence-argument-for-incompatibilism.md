@@ -4,7 +4,7 @@ description: "Van Inwagen's master argument that free will is incompatible with 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T11:39:37+00:00
+ai_modified: 2026-07-09T16:17:28+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[quantum-indeterminacy-free-will]]"
   - "[[luck-objection]]"
   - "[[causal-closure]]"
+  - "[[source-versus-leeway-incompatibilism]]"
 related_articles:
   - "[[tenets]]"
   - "[[moral-implications-of-genuine-agency]]"
@@ -80,7 +81,7 @@ Incompatibilists reply that the ability the compatibilist needs just *is* the ob
 
 It is worth stating plainly what a sound Consequence Argument would and would not show, because the temptation to over-read it is strong.
 
-It would show: **incompatibilism**—that free will (in the sense requiring genuine alternative possibilities) cannot coexist with determinism.
+It would show: **incompatibilism**—that free will (in the sense requiring genuine alternative possibilities) cannot coexist with determinism. That parenthetical marks the argument's place in the [[source-versus-leeway-incompatibilism|leeway-versus-source taxonomy]]: the Consequence Argument is a *leeway* argument, turning on foreclosed alternatives rather than on the agent's standing as ultimate source.
 
 It would *not* show: that we have free will; that determinism is false; that libertarianism is true; or that any particular positive account of free agency is correct. The hard determinist and the libertarian *share* the Consequence Argument. They agree that free will and determinism are incompatible. They diverge only on a further question the argument is silent about: whether determinism is, as a matter of fact, true. The hard determinist says yes and gives up free will; the libertarian says no and keeps it. This is the clearest possible demonstration that the argument yields incompatibilism, not libertarianism.
 
@@ -104,6 +105,7 @@ Finally, the [[tenets#^no-many-worlds|No Many Worlds]] tenet bears on how the Ma
 - [[luck-objection]] — The downstream challenge that arises once indeterminism is admitted
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's harder incompatibilist cousin, which argues the libertarian escape also fails
 - [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — Frankfurt severs the link this argument relies on between leeway and responsibility
+- [[source-versus-leeway-incompatibilism]] — Why this counts as a leeway argument, and how it contrasts with source arguments
 - [[causal-closure]] — Where the Map locates the failure of physical closure
 - [[moral-implications-of-genuine-agency]] — What is at stake practically if incompatibilism holds
 - [[tenets]] — The foundational commitments that make incompatibilism load-bearing for the Map

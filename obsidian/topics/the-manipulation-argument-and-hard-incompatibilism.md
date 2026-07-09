@@ -4,7 +4,7 @@ description: "Pereboom's four-case manipulation argument and hard incompatibilis
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T11:39:37+00:00
+ai_modified: 2026-07-09T16:17:28+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[moral-responsibility]]"
   - "[[luck-objection]]"
   - "[[quantum-indeterminacy-free-will]]"
+  - "[[source-versus-leeway-incompatibilism]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-consequence-argument-for-incompatibilism]]"
@@ -30,7 +31,7 @@ Derk Pereboom's **four-case manipulation argument** is the leading argument that
 
 Pereboom first published the argument in "Determinism al Dente" (1995) and developed it across two monographs, *Living Without Free Will* (2001) and *Free Will, Agency, and Meaning in Life* (2014). Its target is precise: not responsibility in every sense, but **basic-desert moral responsibility**. On Pereboom's characterisation, an agent is responsible in the basic-desert sense if she deserves blame or credit *just in virtue of* having performed the action with an understanding of its moral status—not because blaming her would produce good consequences, honour a contract, or serve some forward-looking aim. Basic desert is what would make backward-looking blame and retributive punishment fitting. It is a demanding notion, and it is the one the argument attacks.
 
-The four cases share a fixed core. Professor Plum murders Ms White for self-interested reasons, after a process of reasoning that is moderately responsive to reasons; he could have been swayed by sufficiently strong moral considerations but was not. He acts on desires he reflectively endorses, and his action flows from his own character. These are exactly the conditions leading compatibilists—reasons-responsiveness theorists, hierarchical-desire theorists—say suffice for responsibility. The cases differ only in the *causal route* by which Plum came to be the deliberator he is:
+The four cases share a fixed core. Professor Plum murders Ms White for self-interested reasons, after a process of reasoning that is moderately responsive to reasons; he could have been swayed by sufficiently strong moral considerations but was not. He acts on desires he reflectively endorses, and his action flows from his own character. These are exactly the conditions leading compatibilists—reasons-responsiveness theorists, hierarchical-desire theorists—say suffice for responsibility. The cases differ only in the *causal route* by which Plum came to be the deliberator he is—which is what makes this a [[source-versus-leeway-incompatibilism|source argument]] rather than a leeway one: it turns entirely on the actual causal history, never on whether alternatives were open:
 
 - **Case 1**: A team of neuroscientists manipulates Plum's brain in real time, tailoring his reasoning process so that it issues in the decision to kill. The manipulation works through his deliberation, not around it, and produces a moderately reasons-responsive agent.
 - **Case 2**: The neuroscientists did their work once, at the beginning of Plum's life—programming his character so that, in his circumstances, he would reason and decide exactly as he does. No real-time intervention is needed.
@@ -73,6 +74,7 @@ Where the Map does have leverage is at the level of method, and this is a [[tene
 
 - [[the-consequence-argument-for-incompatibilism]] — The incompatibilist argument the Map shares with Pereboom; the modal cousin of this intuition-driven vehicle
 - [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — Whether responsibility needs alternatives at all; the source-vs-leeway pivot this article's luck objection presses on
+- [[source-versus-leeway-incompatibilism]] — Why this is a source argument, and why Pereboom holds the source premise yet denies free will
 - [[luck-objection]] — The present-luck challenge to libertarianism, close kin to the disappearing-agent objection
 - [[free-will]] — The Map's agent-causal libertarian position, the target hard incompatibilism threatens
 - [[agent-causation]] — Whether harnessed indeterminism can be the agent's doing rather than chance

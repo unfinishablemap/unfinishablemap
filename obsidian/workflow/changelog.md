@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T16:17:28+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Source versus Leeway Incompatibilism
+- **Output**: [[concepts/source-versus-leeway-incompatibilism]]
+- **Word count**: 1911
+- **Based on research**: yes, [[research/source-versus-leeway-incompatibilism-2026-07-09]]
+- **Notes**: First article of the free-will-deepening wave. Concept hub for the three incompatibilism topics: Consequence Argument (leeway), Manipulation Argument (source), Frankfurt cases (pivot). Calibrated NEUTRAL — taxonomy is shared machinery, not evidence for dualism; Map located as ONE wide-source-libertarian position (Timpe neighbour); source incompatibilism ≠ libertarianism (Pereboom holds source premise yet denies free will). Tenets 3 + 5. Citations re-verified inline at publisher (Timpe 2008 Continuum; Pereboom 2001 CUP / 2014 OUP; Fischer & Ravizza 1998 CUP; McKenna & Pereboom 2016 Routledge; SEP). Reciprocal inbound links added from consequence-argument, manipulation-argument, frankfurt-cases, moral-responsibility.
+
 ## 2026-07-09T16:15:00+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[concepts/problem-of-other-minds]]

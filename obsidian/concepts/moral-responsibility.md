@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-09T11:39:37+00:00
+ai_modified: 2026-07-09T16:17:28+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[buddhism-and-dualism]]"
   - "[[compatibilist-symmetry-challenge]]"
+  - "[[source-versus-leeway-incompatibilism]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-moral-life]]"
@@ -39,7 +40,7 @@ Moral responsibility requires that agents deserve praise or blame for their acti
 
 ## The Traditional Problem
 
-Moral responsibility requires control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). Determinism threatens the first two: if every event follows necessarily from prior causes, no one could have done otherwise, and no one originates anything.
+Moral responsibility requires control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). Determinism threatens the first two: if every event follows necessarily from prior causes, no one could have done otherwise, and no one originates anything. These first two conditions correspond to the two families of incompatibilism—leeway (alternative possibilities) and [[source-versus-leeway-incompatibilism|source]] (ultimate origination); the Map's agent-causal account leans hardest on the second while wanting both.
 
 **Compatibilism** argues "could have done otherwise" means "would have, if different desires." But critics argue this doesn't ground *desert*—if your desires were determined by factors you didn't choose, how do you deserve blame for acting on them?
 
@@ -179,6 +180,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [[quantum-indeterminacy-free-will]] — How quantum indeterminacy supports libertarian free will and responds to luck
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's case that we lack the free will for basic-desert responsibility on determinism or indeterminism
 - [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — Whether desert needs "could have done otherwise" at all; the 1969 PAP paper, distinct from the 1971 higher-order-desire paper cited above
+- [[source-versus-leeway-incompatibilism]] — The taxonomy behind the control/sourcehood conditions, and where the Map's account sits
 - [[topics/free-will]] — The broader free will question and the Map's position
 - [[agent-causation]] — Agent vs. event causation in detail
 - [[volitional-control]] — The empirical and phenomenological case that the "whether"-decision is genuine conscious control — the desert-grounding locus

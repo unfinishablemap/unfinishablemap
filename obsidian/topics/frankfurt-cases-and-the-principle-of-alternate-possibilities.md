@@ -4,7 +4,7 @@ description: "Frankfurt's counterfactual-intervener counterexample to the princi
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T11:39:37+00:00
+ai_modified: 2026-07-09T16:17:28+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[moral-responsibility]]"
   - "[[reasons-responsiveness]]"
   - "[[quantum-indeterminacy-free-will]]"
+  - "[[source-versus-leeway-incompatibilism]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-consequence-argument-for-incompatibilism]]"
@@ -63,7 +64,7 @@ The payoff is the "semi": *free will* in the alternatives sense may well be inco
 
 ## Leeway or Source? Where the Debate Really Goes
 
-Frankfurt cases are the fulcrum of a further distinction that reframes the whole dispute: **leeway** versus **source** incompatibilism. Leeway incompatibilism—Frankfurt's target—says responsibility requires open alternatives, and that determinism defeats responsibility by closing them. Source incompatibilism (Pereboom, Stump, Zagzebski, and others) says what responsibility requires is that the agent be the ultimate *source* or originator of the action, and that determinism defeats responsibility not by removing alternatives but by making the agent's character and choices trace back to factors outside the agent. On the source view, an agent could lack alternatives and still be responsible, provided she is the genuine origin of what she does.
+Frankfurt cases are the fulcrum of a further distinction that reframes the whole dispute: [[source-versus-leeway-incompatibilism|**leeway** versus **source** incompatibilism]]. Leeway incompatibilism—Frankfurt's target—says responsibility requires open alternatives, and that determinism defeats responsibility by closing them. Source incompatibilism (Pereboom, Stump, Zagzebski, and others) says what responsibility requires is that the agent be the ultimate *source* or originator of the action, and that determinism defeats responsibility not by removing alternatives but by making the agent's character and choices trace back to factors outside the agent. On the source view, an agent could lack alternatives and still be responsible, provided she is the genuine origin of what she does.
 
 This is the pivot the Map most needs to register. If Frankfurt cases succeed, they refute *leeway* incompatibilism specifically. They leave source incompatibilism untouched—indeed the standard incompatibilist response to Frankfurt's success is to retreat from leeway to source. So the headline "PAP is false" does not deliver compatibilism about responsibility. A defender of desert-entailing responsibility who never needed alternatives in the first place—only ultimate sourcehood—can accept every Frankfurt case and lose nothing.
 
@@ -81,6 +82,7 @@ Two honesty notes keep this calibrated. The retreat to source is a *retreat*: it
 
 ## Further Reading
 
+- [[source-versus-leeway-incompatibilism]] — The taxonomy this article pivots between; Frankfurt cases are its hinge
 - [[free-will]] — The Map's agent-causal libertarian position, and why it can be read as source-based
 - [[the-consequence-argument-for-incompatibilism]] — The modal argument PAP once connected to responsibility; Frankfurt severs that link
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's case that indeterministic sourcehood is luck, not control—the bill the source retreat must pay
