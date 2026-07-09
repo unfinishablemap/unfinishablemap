@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T17:20:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Frankfurt's Hierarchical Mesh Theory of the Will (1971 "Freedom of the Will and the Concept of a Person")
+- **Output**: [[research/frankfurt-hierarchical-mesh-theory-of-the-will-2026-07-09]]
+- **Sources consulted**: 5 (Frankfurt 1971 J.Phil w/ DOI verified; Watson 1975 "Free Agency"; Frankfurt 1988 CUP volume; SEP Compatibilism; PhilPapers records)
+
 ## 2026-07-09T17:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/ai-hardware-substrate-taxonomy]]
