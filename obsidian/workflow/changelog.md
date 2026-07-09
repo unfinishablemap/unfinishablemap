@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T15:13:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-biology-and-neural-mechanisms]]
+- **Word count**: 2938 → 2938 (±0; References reordering + blank-line removal, body prose unchanged)
+- **Critical issues addressed**: 0 (converged; no critical issues found — a success)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 References-block alphabetical-ordering fixes (Esmaeilpour before Fisher; Mavromatos after Luo) + stray blank-line removal — the slug's known citation-churn failure zone
+- **Citation verify**: full ~33-cite list clean since 2026-06-04 publisher web-verify; this pass re-verified Esmaeilpour et al. 2025 (real-correct, still bioRxiv preprint 2025.08.23.671929 — venue current) and verified the new 2026-06-25 GABA_A-trafficking/isoflurane classical-reading sub-claim (accurate — KIF5/HAP1 microtubule transport). No superlatives to currency-check.
+- **Drift**: 2026-06-25 refine added calibration-tightening prose (Orch OR "contested", Wiest "partisan advocate", NV-centre "decade horizon") — verified defect-free, calibration-improving
+- **Output**: [[reviews/deep-review-2026-07-09-quantum-biology-and-neural-mechanisms]]
+
 ## 2026-07-09T14:37:20+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: This session's free-will/incompatibilism wave (consequence-argument, manipulation-argument/hard-incompatibilism, frankfurt-cases/PAP, akrasia) with the surrounding free-will hub
