@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T05:09:40+00:00 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [[topics/selection-only-mind-influence]]
+- **Word count**: 2779 → 2779 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th review; stalest non-session-touched pick (score 21). Only change since exhaustive 2026-06-16 pass = cosmetic [[parapsychology-firewall]] cross-link (2026-06-22) — verified faithful + reciprocal. §2.4 full re-verify skipped by rule (stable References block; complete 2026-06-16 ledger authoritative). 0 superlatives; drift-prone empirical anchors (Zheng & Meister 10 bits/s, micro-PK nulls) stable. All 20 wikilinks resolve LIVE (no archival link-rot; interactionist-dualism routes to live concept). No slippage. Verification-only → last_deep_review updated ONLY; ai_modified left at 2026-06-22.
+- **Output**: [[reviews/deep-review-2026-07-09-selection-only-mind-influence]]
+
 ## 2026-07-09T04:58:34+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Comic and Humor as an Aesthetic Category
