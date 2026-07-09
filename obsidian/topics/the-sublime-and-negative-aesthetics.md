@@ -106,6 +106,7 @@ A note on evidential weight. The claims here are phenomenological and philosophi
 ## Further Reading
 
 - [[aesthetics-and-consciousness]] — The five-argument case that aesthetic experience is the strongest test of consciousness's irreducibility; this article develops its negative-aesthetics frontier
+- [[the-comic-and-humor-as-an-aesthetic-category]] — The structural sibling: a further non-beauty aesthetic category, with mirth as a candidate irreducible evaluative quale
 - [[topics/phenomenal-value-realism]] — The metaethical position the sublime tests: value as intrinsic to experience, extended here to phenomenal value pluralism
 - [[creative-aesthetic-void]] — Where the sublime marks a *cognitive* limit (Kant's mathematically sublime as structural failure) rather than a value dimension
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on evaluative qualia, including the rasa tradition's treatment of grief and the fearsome as aesthetic

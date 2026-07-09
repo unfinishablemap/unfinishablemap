@@ -161,6 +161,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 
 - [[creative-aesthetic-void]] — Where articulation fails at beauty and sublimity
 - [[the-sublime-and-negative-aesthetics]] — The sublime, tragedy, ugliness, and disgust as the sharpest test that aesthetic value is irreducible to hedonic pleasure
+- [[the-comic-and-humor-as-an-aesthetic-category]] — Humor as a further non-beauty aesthetic category, and mirth as a candidate irreducible evaluative quale (with the computational rival named at full strength)
 - [[topics/phenomenal-value-realism]] — Value as intrinsic to experience
 - [[phenomenology-of-moral-life]] — Parallel analysis for moral value
 - [[the-binding-problem]] — The five standard varieties of phenomenal binding

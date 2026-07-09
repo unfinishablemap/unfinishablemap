@@ -81,6 +81,7 @@ The calibration is essential, and the Map states it plainly: the Acquaintance Pr
 - [[aesthetics-and-consciousness]] — The five converging arguments that make aesthetic experience a test case for irreducibility
 - [[phenomenal-acquaintance]] — The general acquaintance-knowledge relation this aesthetic principle structurally echoes
 - [[knowledge-argument]] — Mary's Room, the qualia-side sibling of the aesthetic argument
+- [[the-comic-and-humor-as-an-aesthetic-category]] — The acquaintance principle applied to the comic: being told a joke is funny is not amusement
 - [[consciousness-and-testimony]] — Testimony as a general epistemic source and what it cannot convey
 - [[consciousness-only-territories]] — Epistemic territory accessible only through first-person acquaintance
 - [[tenets]] — The five commitments this article routes to
