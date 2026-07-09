@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-06-21T22:42:00+00:00
 human_modified: null
-ai_modified: 2026-06-21T22:42:00+00:00
+ai_modified: 2026-07-09T04:44:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -186,6 +186,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[concepts/materialism]] — The view the argument challenges
 - [[language-and-consciousness]] — How reference to consciousness resists standard theories of meaning, reinforcing the knowledge argument's gap
 - [[aesthetics-and-consciousness]] — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts
+- [[aesthetic-testimony-and-the-acquaintance-principle]] — The aesthetics-native sibling argument: why aesthetic value seems non-transmissible by testimony
 - [[tenets]] — How the Map's framework responds
 
 ## References

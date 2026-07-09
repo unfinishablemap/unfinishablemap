@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T04:44:29+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Aesthetic testimony and the Acquaintance Principle
+- **Output**: [[topics/aesthetic-testimony-and-the-acquaintance-principle]]
+- **Word count**: 1981
+- **Based on research**: yes — [[research/aesthetic-testimony-and-the-acquaintance-principle-2026-07-09]]
+- **Notes**: Verified 3 quarantined cites at publisher of record — Robson book = 2022 (confirmed OUP); Wollheim §63 rejected (§60–63 concern art's historicity, not the principle — anchored to p. 233, 1980 2nd ed.); Shelley "Aesthetic Acquaintance" = PPQ 104:392–407 (2023, Wiley, verified). No DOIs invented. Added inbound links from aesthetics-and-consciousness, consciousness-and-testimony, knowledge-argument, phenomenal-acquaintance. Lead calibrated framework-relative/defeasible (Nguyen + Meskin named as standing non-dualist rivals). Tenets 1 + 5.
+
 ## 2026-07-09T04:23:26+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Personal-identity / indexical-identity cluster (Tenet 4 carriers) — indexical-identity-quantum-measurement, haecceity, egocentric-presentism, indexical-knowledge-and-identity, open-individualism-and-the-de-combination-problem (5 read in full; vertiginous-question + individuation as context)

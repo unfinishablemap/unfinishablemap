@@ -4,7 +4,7 @@ description: "Testimony requires consciousness to function yet cannot fully conv
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-06-26T12:18:51+00:00
+ai_modified: 2026-07-09T04:44:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -165,6 +165,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is
 - [[consciousness-and-language-interface]] — How consciousness converts experience into language
 - [[voids-between-minds]] — The constitutive gap between consciousnesses
 - [[knowledge-argument]] — What testimony cannot convey about phenomenal experience
+- [[aesthetic-testimony-and-the-acquaintance-principle]] — Why testimony seems to fail specifically for aesthetic value: the Acquaintance Principle and the pessimism debate
 - [[phenomenology-of-deliberation-under-uncertainty]] — Deciding without full information
 - [[cumulative-culture]] — How testimonial networks build civilisation
 

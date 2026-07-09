@@ -4,7 +4,7 @@ description: "Phenomenal acquaintance—the direct, non-inferential relation bet
 created: 2026-02-09
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-06-22T17:40:00+00:00
+ai_modified: 2026-07-09T04:44:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -161,6 +161,7 @@ A further caveat: acquaintance with pain positions you to know *what pain is lik
 - [[intrinsic-nature-void]] — Why physics describes structure but not qualitative character
 - [[explanatory-gap]] — The conceptual gap between physical and phenomenal
 - [[aesthetics-and-consciousness]] — Why aesthetic knowledge requires acquaintance across diverse substrates
+- [[aesthetic-testimony-and-the-acquaintance-principle]] — Wollheim's Acquaintance Principle: the aesthetics-side echo of acquaintance-knowledge's non-transmissibility
 - [[acquaintance-void]] — The structural limits on what modes of acquaintance are possible
 - [[symbol-grounding-problem]] — What acquaintance provides that symbol manipulation cannot
 
