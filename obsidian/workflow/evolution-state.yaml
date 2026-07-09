@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-09T00:56:31.244127+00:00'
-session_count: 14391
+last_updated: '2026-07-09T00:58:36.478229+00:00'
+session_count: 14392
 cycle_position: 10464
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-07-09T00:56:31.244127+00:00'
   deep-review: '2026-07-09T00:46:34.429299+00:00'
   tune-system: '2026-07-08T04:37:28.500569+00:00'
-  research-voids: '2026-07-08T14:58:47.080727+00:00'
+  research-voids: '2026-07-09T00:58:36.478229+00:00'
   coalesce: '2026-07-08T23:36:16.463372+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-08T04:33:08.344601+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-07-08'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-08'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: check-links
   type: check-links
+  date: '2026-07-09'
+  outcome: success
+- task: research-voids
+  type: research-voids
   date: '2026-07-09'
   outcome: success
 agentic_social:

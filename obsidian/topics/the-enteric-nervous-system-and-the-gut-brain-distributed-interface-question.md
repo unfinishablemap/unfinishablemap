@@ -4,7 +4,7 @@ description: "The gut's ~500-million-neuron 'second brain' runs digestion withou
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T22:56:14+00:00
+ai_modified: 2026-07-09T01:14:47+00:00
 draft: false
 topics:
   - "[[basal-and-bioelectric-cognition]]"
@@ -73,6 +73,7 @@ This article bears primarily on **Tenet 3, [[tenets#^bidirectional-interaction|B
 
 ## Further Reading
 
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [[somatic-interface]] — The layered channel structure of bodily feeling and how felt states divide brain-side from mind-side labour
 - [[interoceptive-consciousness-and-the-interface]] — How accessible visceral channels reach consciousness while most enteric traffic does not
 - [[interoceptive-void]] — The structural opacity of the body's interior to the consciousness that occupies it

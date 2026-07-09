@@ -4,7 +4,7 @@ description: "Plants count, remember, and signal across their whole body without
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T10:52:37+00:00
+ai_modified: 2026-07-09T01:14:47+00:00
 last_deep_review: 2026-07-08T10:52:37+00:00
 draft: false
 topics:
@@ -81,6 +81,7 @@ But the Map firmly rejects the *reason* the strongest skeptics give. Taiz et al.
 
 ## Further Reading
 
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [[marginal-organism-scope-of-value-sensitive-selection]] — The ladder plants complete: where value-sensitive selection bottoms out
 - [[valence-and-conscious-selection]] — The value-blind vs value-sensitive fork plants press to its non-neural extreme
 - [[consciousness-in-simple-organisms]] — Candidate organisms for consciousness; plants as the non-neural bookend

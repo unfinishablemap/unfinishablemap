@@ -4,7 +4,7 @@ description: "Fish have nociceptors but lack a neocortex. The Map removes the sk
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T11:47:34+00:00
+ai_modified: 2026-07-09T01:14:47+00:00
 last_deep_review: 2026-07-08T13:02:23+00:00
 draft: false
 topics:
@@ -82,6 +82,7 @@ This connects to the Map's account of [[valence-and-conscious-selection|value-se
 
 ## Further Reading
 
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — the cross-node synthesis this rung feeds: the whole ladder, and how the decoupling runs in reverse here (removing the skeptics' entailment rather than withholding experience)
 - [[marginal-organism-scope-of-value-sensitive-selection]] — The ladder this article's rung belongs to
 - [[pain-consciousness-and-causal-power]] — Nociception vs. felt pain via human pain asymbolia
 - [[animal-consciousness]] — The general marker problem and the cortical higher-order argument

@@ -4,7 +4,7 @@ description: "The immune system learns, remembers, and tells self from non-self 
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-09T00:09:38+00:00
+ai_modified: 2026-07-09T01:14:47+00:00
 last_deep_review: 2026-07-09T00:09:38+00:00
 draft: false
 topics:
@@ -70,6 +70,7 @@ The throughline of the non-neural competency cluster is a single decoupling: wha
 
 ## Further Reading
 
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [[basal-and-bioelectric-cognition]] — agency without a brain in Levin's morphogenetic systems
 - [[plant-cognition-and-the-plant-neurobiology-debate]] — information processing without a nervous system
 - [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]] — a second brain that is not a seat of experience

@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-09T01:15:00+00:00 - apex-evolve
+- **Status**: Complete (create #35)
+- **Article**: [[apex/competency-without-felt-experience]]
+- **Decision**: CREATE-NEW — synthesises the thesis-unified 8-node sub-personal-competence ladder (no existing apex cited any source; #6 minds-without-words runs the opposite thesis)
+- **Changed sources**: 9 read (8 apex_sources + adjacent consciousness-in-simple-organisms)
+- **Word count**: 0 → 3126
+- **Review**: [[reviews/apex-evolve-2026-07-09-competency-without-felt-experience]]
+- **Cross-links**: reciprocal Further-Reading backlinks added to all 8 source articles
+
 ## 2026-07-09T00:34:08+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Bacterial Chemotaxis and Minimal Biogenic Cognition

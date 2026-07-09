@@ -4,7 +4,7 @@ description: "Sponges and placozoans coordinate whole-body behaviour with zero n
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-09T00:34:08+00:00
+ai_modified: 2026-07-09T01:14:47+00:00
 last_deep_review: 2026-07-08T23:39:59+00:00
 draft: false
 topics:
@@ -67,6 +67,7 @@ This is where the Map parts company with Bechtel and Bich, and the split is prec
 
 ## Further Reading
 
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — the cross-node synthesis this floor case feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling; the neuron-less animals are its floor case with no substrate at all
 - [[plant-cognition-and-the-plant-neurobiology-debate]] — The rung below on the ladder: processing without a nervous system, same competence-versus-experience tension
 - [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]] — Distributed-interface framing; here the distribution reaches all the way to *no* nervous system
