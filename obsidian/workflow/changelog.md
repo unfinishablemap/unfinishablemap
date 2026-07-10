@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T22:06:05+00:00 - deep-review
+- **Status**: Success (verification-only; all 13 citations independently re-verified clean at publisher of record)
+- **File**: [[topics/quantum-neural-timing-constraints]]
+- **Word count**: 2657 → 2657 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 13/13 CLEAN at publisher of record (independent second pass on the flagged highest-risk quantum-consciousness cluster; confirms 2026-06-06 verdicts exactly). Tegmark 2000 (PhysRevE.61.4194), Hagan/Hameroff/Tuszynski 2002 (PhysRevE 65:061901), Hameroff & Penrose 2014 (Phys Life Rev 11:39-78, PMID 24070914), Sahu/Bandyopadhyay 2014 (Sci Rep 4:7303, srep07303), Perry 2025 (SSRN 5539838, exact title), Stapp 2008 (arXiv:0803.1633 — correctly disambiguated from Mindful Universe/QID), Schurger 2012 (pnas.1210467109), Schultze-Kraft 2016 (pnas.1513569112), Thura & Cisek 2014 (Neuron 81:1401, PMID 24656257), Rajan 2019 (Cereb Cortex 29(7):2832), Beck & Eccles 1992 (pnas.89.23.11357), Crick & Koch 1990, Libet 1983 (Brain 106(3):623). Known-defect checks: no Babcock-Hameroff 2025 phantom, no Craddock 613 THz, no Fisher 2015 in article. Argument-lens: no possibility→actuality slippage (post-decoherence selection explicitly metaphysical/non-falsifiable-by-timing). Integration: all 9 spot-checked wikilinks resolve; no [[n,k,d]] QEC notation. VERIFICATION-ONLY → last_deep_review bumped, ai_modified unchanged (2026-06-06).
+- **Output**: [[reviews/deep-review-2026-07-10-quantum-neural-timing-constraints]]
+
 ## 2026-07-10T20:57:28+00:00 - deep-review
 - **Status**: Success (1 citation defect fixed; completes 14-cite publisher-of-record ledger)
 - **File**: [[concepts/blindsight]]
