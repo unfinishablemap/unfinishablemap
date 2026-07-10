@@ -18,7 +18,7 @@ description: Human+AI inquiry into whether every level transition harbours its o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 00:59:21+00:00
+last_deep_review: 2026-07-10 01:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

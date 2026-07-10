@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-10 02:03:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Introspection accesses the content of mental states reliably; intro
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-07-10 02:03:00+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -53,7 +53,7 @@ The verbal-report study series collected cases where the experimenters had indep
 
 **Split-brain confabulation**, documented by Michael Gazzaniga and Joseph LeDoux through the 1970s and 1980s, demonstrates the same dissociation at neuroanatomical resolution. When stimuli are presented only to the right hemisphere of a callosotomy patient, the left-hemisphere "interpreter" produces fluent verbal explanations for behaviours it did not initiate and does not have causal information about. The interpreter does not report "I don't know why I did that"; it produces confident causal narratives that are demonstrably wrong. The generative process is not introspectively available; what introspection delivers is a confabulated reconstruction.
 
-**Recent phenomenal-control evidence** sharpens the picture. Lush and Dienes (2020) and the surrounding hypnotic-suggestibility literature argue that participants' phenomenal reports in suggestion-based paradigms (rubber hand illusion, mirror-touch effects) reflect demand characteristics and trait phenomenal-control capacity rather than purely bottom-up perceptual processes. The reports of *what is being experienced* may be genuine; the inference *that the experience was caused by the manipulation* often is not.
+**Recent phenomenal-control evidence** sharpens the picture. Lush (2020) and the surrounding hypnotic-suggestibility literature argue that participants' phenomenal reports in suggestion-based paradigms (rubber hand illusion, mirror-touch effects) reflect demand characteristics and trait phenomenal-control capacity rather than purely bottom-up perceptual processes. The reports of *what is being experienced* may be genuine; the inference *that the experience was caused by the manipulation* often is not.
 
 ## What the Distinction Actually Claims
 
@@ -119,7 +119,7 @@ The discipline is a craft of restraint. The content side carries genuine weight;
 1. Bem, D. J. (1972). Self-perception theory. *Advances in Experimental Social Psychology*, 6, 1-62.
 1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
 1. Gazzaniga, M. S. (1985). *The Social Brain: Discovering the Networks of the Mind*. Basic Books.
-1. Lush, P., & Dienes, Z. (2020). Demand characteristics confound the rubber hand illusion. *Collabra: Psychology*, 6(1), 22.
+1. Lush, P. (2020). Demand characteristics confound the rubber hand illusion. *Collabra: Psychology*, 6(1), 22.
 1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.

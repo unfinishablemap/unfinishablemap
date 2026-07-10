@@ -9,6 +9,47 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-10T03:53:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Word count**: 3781 → ~3795 (+~14; two orphan-resolving References entries)
+- **Critical issues addressed**: 2 (Pedalino et al. 2026 inline orphan → added References entry; Keppler 2025 inline orphan + stale "preprint" descriptor → added References entry, corrected to published Frontiers 2025)
+- **Medium issues addressed**: 0
+- **Enhancements made**: First publisher-of-record web-verify of this citation-dense quantum-testing article (prior reviews did intra-corpus/bibliographic only). All 17 external cites verified at publisher/DOI/PubMed/arXiv/PhilArchive; all real. Disambiguated Arana's two PhilArchive papers (ARATCQ-2 vs ARACQP — article cites the correct time-extended one). Confirmed Wiest niaf011 real.
+- **Output**: [deep-review-2026-07-10-brain-internal-born-rule-testing](/reviews/deep-review-2026-07-10-brain-internal-born-rule-testing/)
+
+## 2026-07-10T03:05:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 6 focused (quantum-foundations wave) + corpus-wide grep sweep (topics/, concepts/, positions/) + tenets source
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-07-10](/reviews/tenet-check-2026-07-10/)
+
+## 2026-07-10T02:03:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-content-distinction](/concepts/process-content-distinction/)
+- **Review type**: owed-web-verify (first live publisher-of-record citation pass in 3-review history; prior reviews checked cites only against known bibliographic data)
+- **Word count**: unchanged (citation-metadata fix only, length-neutral)
+- **Critical issues addressed**: 1 (real-wrong-metadata: Lush & Dienes 2020 → Lush 2020; "Demand Characteristics Confound the Rubber Hand Illusion", Collabra 6(1):22, DOI 10.1525/collabra.325, is solo-authored — fabricated co-author corrected inline + References)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged calibration-craft page; preserved)
+- **Citations verified**: 9 (Nisbett & Wilson 1977, Bem 1972, Block 2007, Gazzaniga 1985, Petitmengin 2006, Schwitzgebel 2011, 2 internal — real-correct; Lush 2020 — corrected). 2 verbatim N&W quotes + stocking figures (40/12%) verified against paper.
+- **Reasoning-mode**: heterophenomenology engagement Mode Three; pessimist-programme Mode One touch. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-10-process-content-distinction](/reviews/deep-review-2026-07-10-process-content-distinction/)
+
+## 2026-07-10T01:02:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- **Review type**: owed-web-verify (first live publisher-of-record citation pass in 5-review history)
+- **Word count**: 3119 → 3119 (unchanged; no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 7/7 References entries verified at publisher of record — ALL real-correct, zero defects. Broad 1925 (Kegan Paul/Trench/Trubner 1st ed.; "Routledge & Kegan Paul" reprint form acceptable), Chalmers 1996 (OUP), Chalmers 2006 ("Strong and Weak Emergence" in Clayton & Davies eds., *The Re-Emergence of Emergence*, OUP — confirmed at OUP Academic), Bedau 1997 (*Philosophical Perspectives* 11: 375-399, Blackwell — confirmed), Kim 1998 (MIT Press — confirmed), McGinn 1989 (*Mind* 98/391: 349-366 — confirmed at OUP Academic), Nagel 1986 (OUP). No superlatives (currency scan empty); no in-body verbatim quotes. Prior 5 reviews had only intra-corpus/frontmatter checks — this closes the web-verify debt.
+- **Reasoning modes** (changelog-internal): reductionist "just correlations between descriptions" reply = Mode Three (honest boundary-marking, no substitution); equivocation objection = Mode One/Mixed (attacks the clean phenomenal/dispositional cut on its own terms, then concedes the sharp-line reply survives). No label leakage.
+- **Stamp decision**: no content defect → bumped `last_deep_review` ONLY (2026-07-10T01:02:00+00:00, ≤ real clock 01:02:52); `ai_modified` left at 2026-06-18.
+- **Output**: [deep-review-2026-07-10-emergence-as-universal-hard-problem](/reviews/deep-review-2026-07-10-emergence-as-universal-hard-problem/)
+
 ## 2026-07-10T00:08:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [measurement-problem](/concepts/measurement-problem/), [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
