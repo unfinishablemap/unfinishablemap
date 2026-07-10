@@ -5,7 +5,7 @@ created: 2026-07-10
 modified: 2026-07-10
 human_modified:
 ai_modified: 2026-07-10T18:28:00+00:00
-last_deep_review: 2026-07-10T18:28:00+00:00
+last_deep_review: 2026-07-10T19:26:00+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"

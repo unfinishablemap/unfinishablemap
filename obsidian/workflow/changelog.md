@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T19:26:00+00:00 - deep-review
+- **Status**: Success (VERIFICATION-ONLY — clean; cross-review of same-cycle fresh create)
+- **File**: [[topics/jain-philosophy-of-mind]]
+- **Word count**: 2486 → 2486 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Argument lens**: all three honesty guardrails HOLD in the body (common-cause strengthens-not-confirms; karma-as-matter thematic/historical not quantum-mechanism; anekantavada as disciplined saptabhangi not relativism). Tenets 1+5 primary/honest, 3+4 demoted to thematic; no possibility/probability slippage.
+- **Citations**: web-verified at publisher of record. Gorisse SEP 2023 real-correct (all 6 quotes + 2 further fragments verbatim); Jaini 1979 UC Press (ISBN 9780520034594), Johnson 1995 Motilal Banarsidass, Wiley 2004 Scarecrow, Tattvartha Sutra c.150–400 CE all real-correct; Balcerowicz 2020 Brill real (title rendered as descriptor — not corrected to avoid a speculative new error). Soni confirmed still absent. Both self-cites resolve.
+- **Reasoning-mode**: no named-opponent refutations; Dharmakirti objection reported as live debate (honest boundary-marking), no label leakage.
+- **Wikilinks**: all resolve live; tenet anchors confirmed.
+- **Stamps**: last_deep_review bumped to 19:26; ai_modified left at 18:28 create stamp.
+- **Output**: [[reviews/deep-review-2026-07-10-jain-philosophy-of-mind]]
+
 ## 2026-07-10T18:46:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 3 focused (session's new articles) + corpus-wide contradiction sweep
