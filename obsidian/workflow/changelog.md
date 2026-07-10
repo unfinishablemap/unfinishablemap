@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T14:24:13+00:00 - deep-review (OWED-WEB-VERIFY: pre-2020 citation cluster)
+- **Status**: Success (CONTENT fix — 3 citation metadata defects corrected at publisher of record)
+- **File**: [[concepts/baseline-cognition]]
+- **Word count**: 2620 → 2620 (net length-neutral; +2w from Herrmann co-author addition, metadata only)
+- **Critical issues addressed**: 1 (Whiten-et-al-2010 famous-name substitution on the "Ratcheting up the ratchet" paper → Tennie, Call & Tomasello 2009, 364(1528))
+- **Medium issues addressed**: 2 (Tomasello-Kruger-Ratner 1993 end-page 511→552; Tomasello 2010 missing co-author Herrmann added)
+- **Scope**: All 16 references web-verified at publisher of record. The June pass verified only the recent cluster (Bohn/Gruber/Streicher) and trusted prior reviews for the ~13 pre-2020 canonical cites; this pass closed that seam. Per-cite ledger in review file.
+- **Citation**: 13 real-correct, 3 real-wrong-metadata (fixed), 0 fabricated. Ref #16 was a Whiten famous-name substitution — same failure mode as the Gruber/Whiten Jourdain conflation fixed here in June.
+- **Argument lens**: no over-claim; framework-relative framing intact; quantum claim hedged; five-prediction falsifiability section intact. Passes tenet-accepting-reviewer diagnostic.
+- **Integration**: 13 key wikilinks spot-checked, all LIVE (no archival link-rot). No cross-links added (densely connected hub).
+- **Stamps**: ai_modified AND last_deep_review → 2026-07-10T14:24:13+00:00 (CONTENT fix).
+- **Reasoning-mode (internal)**: epiphenomenalism = Mode Two; illusionism = Mode Mixed. No label leakage, no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-07-10-baseline-cognition]]
+
 ## 2026-07-10T12:55:00+00:00 - deep-review (accretion-targeted, citation + argument + integration lenses)
 - **Status**: Success (clean verification-only pass — no content defect in accreted material)
 - **File**: [[topics/interaction-problem-across-traditions]]
