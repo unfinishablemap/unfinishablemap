@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T02:03:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/process-content-distinction]]
+- **Review type**: owed-web-verify (first live publisher-of-record citation pass in 3-review history; prior reviews checked cites only against known bibliographic data)
+- **Word count**: unchanged (citation-metadata fix only, length-neutral)
+- **Critical issues addressed**: 1 (real-wrong-metadata: Lush & Dienes 2020 → Lush 2020; "Demand Characteristics Confound the Rubber Hand Illusion", Collabra 6(1):22, DOI 10.1525/collabra.325, is solo-authored — fabricated co-author corrected inline + References)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged calibration-craft page; preserved)
+- **Citations verified**: 9 (Nisbett & Wilson 1977, Bem 1972, Block 2007, Gazzaniga 1985, Petitmengin 2006, Schwitzgebel 2011, 2 internal — real-correct; Lush 2020 — corrected). 2 verbatim N&W quotes + stocking figures (40/12%) verified against paper.
+- **Reasoning-mode**: heterophenomenology engagement Mode Three; pessimist-programme Mode One touch. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-10-process-content-distinction]]
+
 ## 2026-07-10T01:02:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/emergence-as-universal-hard-problem]]
