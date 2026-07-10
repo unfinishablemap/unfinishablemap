@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T10:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Capgras delusion and the affective-recognition channel
+- **Output**: [[research/capgras-delusion-and-the-affective-recognition-channel-2026-07-10]]
+- **Sources consulted**: 5 web-verified (Ellis & Young 1990; Hirstein & Ramachandran 1997; Ellis, Young, Quayle & De Pauw 1997; Coltheart & Davies 2022; Corlett 2019)
+
 ## 2026-07-10T09:47:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/stochastic-emergence-as-quantum-interface-evidence]] (load-bearing quantum-interface evidential article; never previously the focus of a dedicated pessimistic review)
