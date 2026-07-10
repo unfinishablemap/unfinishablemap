@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T20:57:28+00:00 - deep-review
+- **Status**: Success (1 citation defect fixed; completes 14-cite publisher-of-record ledger)
+- **File**: [[concepts/blindsight]]
+- **Word count**: 2843 → 2843 (0)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 14/14 at publisher of record. Founding cites (Weiskrantz Warrington Sanders Marshall 1974 Brain 97, Cowey & Stoerig 1995 Nature 373, Stoerig & Cowey 1997 Brain 120, Cowey 2010 Exp Brain Res 200, Dehaene & Naccache 2001 Cognition 79, Weiskrantz 1986/1996 books/articles) all verified real-correct. One real-wrong-metadata: Weiskrantz "Consciousness Lost and Found" cited as 1998 → corrected to 1997 (no 1998 edition exists; hardback 1997, paperback 1999), inline L81 + References. No corpus propagation. The six contemporary cites (Block/Phillips/Persaud/Lau/de Gelder/Scott) re-confirmed from 2026-06-06 ledger.
+- **Argument-lens**: rival readings presented fairly; Map's use framework-relative (no "proves the interface" over-claim); no fix needed.
+- **Output**: [[reviews/deep-review-2026-07-10-blindsight]]
+
 ## 2026-07-10T19:37:59+00:00 - deep-review
 - **Status**: Success (VERIFICATION-ONLY — clean; completes 15-cite publisher-of-record ledger)
 - **File**: [[concepts/materialism]]
