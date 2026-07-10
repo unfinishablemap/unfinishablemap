@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T12:55:00+00:00 - deep-review (accretion-targeted, citation + argument + integration lenses)
+- **Status**: Success (clean verification-only pass — no content defect in accreted material)
+- **File**: [[topics/interaction-problem-across-traditions]]
+- **Word count**: 3262 → 3262 (no change; verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: Reviewed only the post-2026-06-18 accretion — E.J. Lowe fact-causation paragraph (added 2026-07-07, commit e96103358) + rival-metaphysics cross-links. Body not re-reviewed (converged).
+- **Citation**: Lowe fact/event causation, "no energy/no gap, consistent with CNS", four-category-ontology + NCSD attribution — all web-verified real-correct at Springer *Erkenntnis* (doi:10.1007/s10670-006-9012-3) + *Personal Agency* (OUP 2008); corroborated by the Map's own four-category-ontology article.
+- **Argument lens**: no over-claim — Lowe paragraph is framework-relative and non-triumphalist; family-weakness caveat follows immediately. Passes the tenet-accepting-reviewer diagnostic.
+- **Integration**: four-category-ontology, hylomorphic-dualism-and-the-interaction-problem, the-steelman-for-process-monism all LIVE (no archival link rot); links accurate, non-circular.
+- **Stamps**: last_deep_review → 2026-07-10T12:55:00+00:00; ai_modified UNCHANGED (2026-07-07T15:32:00+00:00) — verification-only.
+- **Output**: [[reviews/deep-review-2026-07-10-interaction-problem-across-traditions]]
+
 ## 2026-07-10T12:35:00+00:00 - deep-review (cross-review, argument lens)
 - **Status**: Success (clean pass — no valid content defect)
 - **File**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
