@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T05:56:00+00:00 - deep-review (cross-review, argument lens)
+- **Status**: Success
+- **File**: [[topics/ai-moral-agency-and-the-responsibility-gap-under-dualism]]
+- **Word count**: 2296 → 2358 (+62)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Sparrow characterization understated his subject/punishability criterion — reframed origination-side vs reception-side; 3 minimal edits, fairness to named opponent, distinctiveness claim preserved and sharpened; no citation change)
+- **Enhancements made**: 0 (integration chain already complete — inbound links reciprocal in machine-consciousness, responsibility-gradient, moral-implications; no contradiction, no parent-verdict strengthening)
+- **Engagement modes**: Tigard/Königs/Santoni de Sio & Mecacci/Sparrow — Mode Three (framework-boundary), natural prose, no label leakage
+- **Output**: [[reviews/deep-review-2026-07-10-ai-moral-agency-and-the-responsibility-gap-under-dualism]]
+
 ## 2026-07-10T05:38:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: AI moral agency and the responsibility gap under dualism
