@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T22:45:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Japanese Philosophy of Mind — The Kyoto School on Pure Experience and Absolute Nothingness
+- **Output**: [[research/kyoto-school-pure-experience-absolute-nothingness-2026-07-10]]
+- **Sources consulted**: 8
+
 ## 2026-07-10T22:06:05+00:00 - deep-review
 - **Status**: Success (verification-only; all 13 citations independently re-verified clean at publisher of record)
 - **File**: [[topics/quantum-neural-timing-constraints]]
