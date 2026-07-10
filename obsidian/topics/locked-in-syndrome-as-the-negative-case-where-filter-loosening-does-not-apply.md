@@ -19,6 +19,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-10
 last_curated:
+last_deep_review: 2026-07-10T12:35:00+00:00
 ---
 
 Locked-in syndrome is the case the Map marks as *not* filter-loosening evidence. It is worth stating that plainly up front, because much of the interest of clinical dissociation for a filter or transmission theory of mind runs the other way — toward cases where damage seems to *release* a wider consciousness (the "filter-loosening" reading applied to psychedelics, near-death experiences, or terminal lucidity). Locked-in syndrome does the opposite service. A ventral pontine lesion severs the descending motor pathway while leaving consciousness, cognition, and the ascending sensory channels intact. The patient is fully awake and receiving normal input but cannot act. Within the Map's framework — and this is a framework-relative reading, not a proof of anything — that makes locked-in syndrome an honest *negative* case: there is no filter to loosen here, because the receptive interface is undisturbed. The condition therefore *bounds* the filter model rather than confirming it, and it does one further thing, examined below under [the two arms of the interface](#the-two-arms-of-the-interface): it cleanly dissociates the input arm of the mind-brain interface from the output arm, which is the anatomical grain at which the Map's Bidirectional Interaction tenet lives.

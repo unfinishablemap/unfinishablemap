@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T12:35:00+00:00 - deep-review (cross-review, argument lens)
+- **Status**: Success (clean pass — no valid content defect)
+- **File**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+- **Word count**: 2208 → 2208 (no change; verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation**: Bodien et al. 2024 (6th cite, not in create-pass set) web-verified real-correct at NEJM/PubMed (391(7):598-608, PMID 39141852). Other 5 not re-litigated.
+- **Probes**: negative-case integrity HELD; two-arm claim sound + marked-as-interpretation; CMD dedup clean (defers to consciousness-disruption); happiness-paradox framed as context not evidence; cluster reciprocal links all present.
+- **Stamp**: last_deep_review only (no body edit); ai_modified left at create stamp 12:00:00.
+- **Output**: [[reviews/deep-review-2026-07-10-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+
 ## 2026-07-10T12:05:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Locked-in syndrome as the negative case where filter-loosening does not apply
