@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T05:08:00+00:00 - deep-review (owed-web-verify seam)
+- **Status**: Success
+- **File**: [[concepts/integration-as-activity]]
+- **Word count**: 2940 → 2940 (verification-only, no content change)
+- **Critical issues addressed**: 0 (clean-convergence verdict)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 12/12 real-correct at publisher of record (first publisher-verify in article history — prior 3 reviews were intra-corpus only). Highest-value fresh cite COGITATE Consortium 2025 confirmed *Nature* 642(8066), 133–142, DOI 10.1038/s41586-025-08888-1.
+- **Stamp**: last_deep_review only (ai_modified unchanged — no content edit)
+- **Output**: [[reviews/deep-review-2026-07-10-integration-as-activity]]
+
 ## 2026-07-10T04:52:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: AI moral agency and the "responsibility gap" under dualism

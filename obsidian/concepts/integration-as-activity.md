@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-11
 last_curated:
-last_deep_review: 2026-06-14T05:31:50+00:00
+last_deep_review: 2026-07-10T05:08:00+00:00
 ---
 
 Integration as activity is the discipline of treating the integration of conscious experience as something consciousness *does* rather than as a property consciousness *has* or *is*. The distinction sounds slight; it does most of the philosophical work in the Map's critique of [[integrated-information-theory|Integrated Information Theory (IIT)]]. IIT identifies consciousness with integrated information—a structural property of a physical system at an instant. The Map holds that integration is better understood as the active synthesis a conscious subject performs on what the brain presents. Recurrent processing theory, global workspace theory, predictive processing, and Whitehead's process philosophy each, in different vocabulary, treat integration as a temporally-extended process rather than as an instantaneous property. The description-level convergence is what makes the distinction load-bearing rather than idiosyncratic; the further reading of that process as the act of a *conscious subject* — explored below in [What "Activity" Adds](#what-activity-adds) and qualified in [A note on what the convergence shows](#a-note-on-what-the-convergence-shows) — is the Map's own and rests on dualist commitments three of the four frameworks do not share.
