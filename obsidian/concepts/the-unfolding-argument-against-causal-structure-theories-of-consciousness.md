@@ -17,6 +17,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-10
 last_curated:
+last_deep_review: 2026-07-10T17:09:00+00:00
 ---
 
 Within a functionalist framing of what science can measure, the **unfolding argument** (Doerig, Schurger, Hess & Herzog 2019) presses a sharp disjunction on any theory that fixes consciousness by a system's internal causal organisation: such a theory is *either false or unfalsifiable*. It is not a proof that Integrated Information Theory (IIT) is false. Its own conclusion is a disjunction, and each horn is contested. But the argument is one of the cleanest formal pressures ever put on structural physicalism about consciousness, and it repays careful, honest handling.

@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T17:09:00+00:00 - deep-review
+- **Status**: Success (cross-review of fresh create; verification-only, no content defect)
+- **File**: [[concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness]]
+- **Word count**: 2113 → 2113 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Argument-lens**: double-edged Map relation confirmed held in the body (both edges — UA functionalist premise vs naive Tenet 2/3, and IIT intrinsicality rebound onto Map anti-functionalism), Tenet 5 primary + framework-relative, no possibility/probability slippage, no physicalism-refutation over-claim, no boundary-substitution
+- **Citations**: 8/8 web-verified real-correct at publisher of record (Doerig 2019, Tsuchiya 2020, Hanson & Walker 2021, Kleiner & Tull 2021, Herzog 2022, Usher 2021, Albantakis 2023 IIT 4.0, O'Reilly-Shah 2026); Kleiner & Tull title is correct, not the earlier hallucinated variant
+- **Wikilinks**: 5/5 resolve live
+- **Stamps**: last_deep_review set; ai_modified (create stamp) left untouched per verification-only discipline
+- **Output**: [[reviews/deep-review-2026-07-10-the-unfolding-argument-against-causal-structure-theories-of-consciousness]]
+
 ## 2026-07-10T16:57:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The unfolding argument against causal-structure theories of consciousness
