@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T23:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Mesoamerican Nahua Philosophy of Mind — Teotl and the Tonalli-Teyolia-Ihiyotl Animating Forces
+- **Output**: [[nahua-philosophy-of-mind-teotl-tripartite-soul-2026-07-10]]
+- **Sources consulted**: 5 (Maffie 2014 UPC, Maffie IEP, León-Portilla 1963, López Austin 1988, Florentine Codex — all publisher-verified)
+
 ## 2026-07-10T23:13:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/japanese-philosophy-of-mind-kyoto-school]]
