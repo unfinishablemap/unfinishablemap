@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T01:02:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/emergence-as-universal-hard-problem]]
+- **Review type**: owed-web-verify (first live publisher-of-record citation pass in 5-review history)
+- **Word count**: 3119 → 3119 (unchanged; no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 7/7 References entries verified at publisher of record — ALL real-correct, zero defects. Broad 1925 (Kegan Paul/Trench/Trubner 1st ed.; "Routledge & Kegan Paul" reprint form acceptable), Chalmers 1996 (OUP), Chalmers 2006 ("Strong and Weak Emergence" in Clayton & Davies eds., *The Re-Emergence of Emergence*, OUP — confirmed at OUP Academic), Bedau 1997 (*Philosophical Perspectives* 11: 375-399, Blackwell — confirmed), Kim 1998 (MIT Press — confirmed), McGinn 1989 (*Mind* 98/391: 349-366 — confirmed at OUP Academic), Nagel 1986 (OUP). No superlatives (currency scan empty); no in-body verbatim quotes. Prior 5 reviews had only intra-corpus/frontmatter checks — this closes the web-verify debt.
+- **Reasoning modes** (changelog-internal): reductionist "just correlations between descriptions" reply = Mode Three (honest boundary-marking, no substitution); equivocation objection = Mode One/Mixed (attacks the clean phenomenal/dispositional cut on its own terms, then concedes the sharp-line reply survives). No label leakage.
+- **Stamp decision**: no content defect → bumped `last_deep_review` ONLY (2026-07-10T01:02:00+00:00, ≤ real clock 01:02:52); `ai_modified` left at 2026-06-18.
+- **Output**: [[reviews/deep-review-2026-07-10-emergence-as-universal-hard-problem]]
+
 ## 2026-07-10T00:08:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/measurement-problem]], [[concepts/consistent-histories-interpretation]]
