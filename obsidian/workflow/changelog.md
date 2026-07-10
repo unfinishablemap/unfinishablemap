@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T04:16:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Reinforcement-learning reward signals and machine valence (the reward–suffering link)
+- **Output**: [[research/reinforcement-learning-reward-signals-and-machine-valence-the-reward-suffering-link-2026-07-10]]
+- **Sources consulted**: 11
+
 ## 2026-07-10T03:53:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-internal-born-rule-testing]]
