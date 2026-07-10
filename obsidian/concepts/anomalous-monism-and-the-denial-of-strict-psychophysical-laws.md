@@ -19,6 +19,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-10
 last_curated:
+last_deep_review: 2026-07-10T18:00:00+00:00
 ---
 
 Anomalous monism is Donald Davidson's proposal that every mental event *is* a physical event, yet no strict law connects the mental to the physical. It is a subtle physicalist rival to the Map's law program, not a refutation of it and not a vindication of it. Davidson and the Map converge on one premise — strict *reductive* psychophysical bridge laws fail — and split on the verdict. Davidson concludes the mental is anomalous yet physical, governed by no psychophysical law at all. The Map concludes there is instead a *non-strict, probabilistic selection law* operating at the quantum measurement interface ([[tenets|Tenets 2 and 3]]). The pressure point that makes this contrast matter is the charge, first pressed by Honderich in 1982, that Davidson's view leaves mental *properties* causally idle — an epiphenomenalism of the mental qua mental. That objection is exactly why the Map wants a genuine law rather than mere token-identity, and it is developed at length below.
