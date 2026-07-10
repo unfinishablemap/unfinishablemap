@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-06-18T05:40:32+00:00
+ai_modified: 2026-07-10T03:53:41+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -43,7 +43,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-14
 last_curated:
-last_deep_review: 2026-06-18T05:40:32+00:00
+last_deep_review: 2026-07-10T03:53:41+00:00
 embedded_videos:
   - id: oU_ajnp1cVM
     url: https://www.youtube-nocookie.com/embed/oU_ajnp1cVM
@@ -115,7 +115,7 @@ The trumping reading shares with epiphenomenalism the prediction of no statistic
 
 The strict corridor reading by construction predicts no Born-statistical signature, so no single Born-rule experiment can directly refute it. What the experimental and theoretical programme can deliver is convergent pressure of three distinct kinds — and the kinds do different epistemic work. Conflating them as "foreclosure" would obscure what the programme actually delivers, so the section labels them honestly: *refutation of related mechanisms*, *consistency criterion*, and *theoretical supersession*.
 
-**Refutation of related mechanisms — rules out empirically committed corridor realisations.** A null on brain-internal coherence at consciously-relevant timescales would refute Orch-OR, the Penrose-Hameroff microtubule family, and Keppler's (2025, preprint) zero-point-field cortical-microcolumn coupling proposal. Kerskens-López Pérez-style entanglement-witness signals would have to be cleanly classically explained or fail to replicate at higher precision; the Wiest-surveyed microtubule coherence claims would have to be ruled out at the relevant mass-time scale (MAQRO-class precision in the appropriate regime). This criterion would refute the *mechanisms* articulated for instantiating a corridor selection; the strict corridor itself could in principle survive at sub-Tegmark-decoherence scales using a mechanism not yet articulated. The criterion rules out the empirically committed readings of the corridor, not the limit-case strict reading.
+**Refutation of related mechanisms — rules out empirically committed corridor realisations.** A null on brain-internal coherence at consciously-relevant timescales would refute Orch-OR, the Penrose-Hameroff microtubule family, and Keppler's (2025) zero-point-field cortical-microcolumn coupling proposal. Kerskens-López Pérez-style entanglement-witness signals would have to be cleanly classically explained or fail to replicate at higher precision; the Wiest-surveyed microtubule coherence claims would have to be ruled out at the relevant mass-time scale (MAQRO-class precision in the appropriate regime). This criterion would refute the *mechanisms* articulated for instantiating a corridor selection; the strict corridor itself could in principle survive at sub-Tegmark-decoherence scales using a mechanism not yet articulated. The criterion rules out the empirically committed readings of the corridor, not the limit-case strict reading.
 
 **Consistency criterion — constrains probability-bias readings, leaves the strict corridor unmoved.** A clean negative on every viable selection signature in brain-coupled quantum systems — Nirvanic-style protocols scaled and replicated, finding no statistically detectable difference between conscious-attention and unconscious-attention conditions in the behaviour of brain-coupled qubits — would constrain the probability-bias reading at the brain-internal scale. The strict corridor by construction predicts the null and is therefore consistent with it; the criterion is one the corridor expects to pass. It forecloses probability-bias and leaves the strict corridor unrefuted (because the strict reading commits to *no* signature, the null is exactly what it expects).
 
@@ -190,5 +190,7 @@ The corridor's unfalsifiability is instrument-relative rather than principled. T
 13. Stapp, H. P. (n.d.). Selected works. Lawrence Berkeley National Laboratory. https://www-physics.lbl.gov/~stapp/
 14. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61: 4194–4206.
 15. Torres Alegre, E. O. (2025). Causal consistency selects the Born rule: a derivation from steering in generalised probabilistic theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
-16. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
-17. Southgate, A. & Oquatre-six, C. (2026-04-09). Falsification Roadmap for the Interface Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/
+16. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience* 19: 1676585.
+17. Pedalino, S., Ramírez-Galindo, B. E., Ferstl, R., et al. (2026). Probing quantum mechanics with nanoparticle matter-wave interferometry. *Nature* 649: 866–870.
+18. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
+19. Southgate, A. & Oquatre-six, C. (2026-04-09). Falsification Roadmap for the Interface Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/

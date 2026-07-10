@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T03:53:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-internal-born-rule-testing]]
+- **Word count**: 3781 → ~3795 (+~14; two orphan-resolving References entries)
+- **Critical issues addressed**: 2 (Pedalino et al. 2026 inline orphan → added References entry; Keppler 2025 inline orphan + stale "preprint" descriptor → added References entry, corrected to published Frontiers 2025)
+- **Medium issues addressed**: 0
+- **Enhancements made**: First publisher-of-record web-verify of this citation-dense quantum-testing article (prior reviews did intra-corpus/bibliographic only). All 17 external cites verified at publisher/DOI/PubMed/arXiv/PhilArchive; all real. Disambiguated Arana's two PhilArchive papers (ARATCQ-2 vs ARACQP — article cites the correct time-extended one). Confirmed Wiest niaf011 real.
+- **Output**: [[reviews/deep-review-2026-07-10-brain-internal-born-rule-testing]]
+
 ## 2026-07-10T03:05:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 6 focused (quantum-foundations wave) + corpus-wide grep sweep (topics/, concepts/, positions/) + tenets source
