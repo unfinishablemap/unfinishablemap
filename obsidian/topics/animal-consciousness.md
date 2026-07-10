@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-08T06:44:53+00:00
+ai_modified: 2026-07-10T15:50:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -242,7 +242,7 @@ Whitehead's process philosophy proposes experience is fundamental—*actual occa
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Yoo, D. A., et al. (2025). "Complete sequencing of ape genomes." *Nature*, 641, 401-418.
-1. Tomasello, M. (2010). "Ape and human cognition: What's the difference?" *Current Directions in Psychological Science*, 19(1), 3-8.
+1. Tomasello, M., & Herrmann, E. (2010). "Ape and human cognition: What's the difference?" *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *Proceedings of the National Academy of Sciences*, 106(11), 4219-4224.

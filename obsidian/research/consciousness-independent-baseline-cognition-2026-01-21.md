@@ -299,7 +299,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 9. Seyfarth, R. M., & Cheney, D. L. (2013). Affiliation, empathy, and the origins of theory of mind. PNAS, 110(Supplement 2), 10349-10356.
 10. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? Behavioral and Brain Sciences, 30(3), 299-313.
 11. Tomasello, M. (2014). A Natural History of Human Thinking. Harvard University Press.
-12. Tomasello, M., Kruger, A. C., & Ratner, H. H. (1993). Cultural learning. Behavioral and Brain Sciences, 16(3), 495-511.
+12. Tomasello, M., Kruger, A. C., & Ratner, H. H. (1993). Cultural learning. Behavioral and Brain Sciences, 16(3), 495-552.
 13. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. Frontiers in Psychology, 6, 91.
 14. PMC8884361 (2022). The nature of blindsight: implications for current theories of consciousness.
 15. PMC9876876 (2023). Social cognition and metacognition in great apes: a theory.
