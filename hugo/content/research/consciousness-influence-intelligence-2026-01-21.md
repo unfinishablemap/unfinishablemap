@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-21
-date: '2026-01-21'
+date: '2026-07-10'
 draft: false
 related_articles: []
 title: Research Notes - Consciousness Influence on Intelligence
@@ -257,7 +257,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 8. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 9. Peper, A. (2020). A general theory of consciousness I: Consciousness and adaptation. *Communicative & Integrative Biology*, 13(1), 6-21. PMC7591160
 10. Robinson, W. (2023). Epiphenomenalism. *Stanford Encyclopedia of Philosophy*.
-11. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+11. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 12. Tomasello, M. (2023). Social cognition and metacognition in great apes: a theory. *Animal Cognition*, 26, 25-35. PMC9876876
 13. Van Gulick, R. (2022). Consciousness. *Stanford Encyclopedia of Philosophy*.
 14. PMC11628302 (2024). The function(s) of consciousness: an evolutionary perspective.

@@ -26,7 +26,7 @@ description: Five structural types of interaction solution recur across Western 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 08:49:12+00:00
+last_deep_review: 2026-07-10 12:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

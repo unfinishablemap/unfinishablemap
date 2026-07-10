@@ -9,6 +9,58 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-10T15:34:45+00:00 - deep-review (OWED-WEB-VERIFY: full 24-cite publisher audit)
+- **Status**: Success (CONTENT fix — 2 citation metadata defects corrected at publisher of record)
+- **File**: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
+- **Word count**: 2634 → ~2636 (length-neutral; +2w from Herrmann co-author addition, metadata only)
+- **Critical issues addressed**: 0 (no fabricated cites; no famous-name substitution; June already fixed the Doerig/Georgiev chimera)
+- **Medium issues addressed**: 2 (Ref #20 Tomasello 2010 missing co-author Herrmann added → Tomasello & Herrmann 2010, SAGE 10.1177/0963721409359300; Ref #21 Tomasello-Kruger-Ratner 1993 end-page 511→552, Cambridge Core)
+- **Scope**: All 24 references web-verified at publisher of record (June pass covered only 6). Oldest cohort (claude-opus-4-5), converged 35d, no drift since. Full per-cite ledger in review file. Stapp cite correctly the 2009 book, not the 2005 QID paper.
+- **Corpus propagation reported (not fixed — single-file remit)**: Tomasello-2010 single-author form still live in animal-consciousness.md, concept-of-consciousness-and-social-cognition.md, research/consciousness-influence-intelligence-2026-01-21.md; 1993 495-511 still in research/consciousness-independent-baseline-cognition-2026-01-21.md. Follow-up sweep recommended.
+- **Engagement modes (editor-internal)**: Frankish Mixed (Mode One + Mode Two); Dennett Mode Three; MWI/eliminativist bedrock. No label leakage.
+- **Integration**: 35/35 wikilinks LIVE (no archival link rot).
+- **Output**: [deep-review-2026-07-10-consciousness-as-amplifier](/reviews/deep-review-2026-07-10-consciousness-as-amplifier/)
+
+## 2026-07-10T14:24:13+00:00 - deep-review (OWED-WEB-VERIFY: pre-2020 citation cluster)
+- **Status**: Success (CONTENT fix — 3 citation metadata defects corrected at publisher of record)
+- **File**: [baseline-cognition](/concepts/baseline-cognition/)
+- **Word count**: 2620 → 2620 (net length-neutral; +2w from Herrmann co-author addition, metadata only)
+- **Critical issues addressed**: 1 (Whiten-et-al-2010 famous-name substitution on the "Ratcheting up the ratchet" paper → Tennie, Call & Tomasello 2009, 364(1528))
+- **Medium issues addressed**: 2 (Tomasello-Kruger-Ratner 1993 end-page 511→552; Tomasello 2010 missing co-author Herrmann added)
+- **Scope**: All 16 references web-verified at publisher of record. The June pass verified only the recent cluster (Bohn/Gruber/Streicher) and trusted prior reviews for the ~13 pre-2020 canonical cites; this pass closed that seam. Per-cite ledger in review file.
+- **Citation**: 13 real-correct, 3 real-wrong-metadata (fixed), 0 fabricated. Ref #16 was a Whiten famous-name substitution — same failure mode as the Gruber/Whiten Jourdain conflation fixed here in June.
+- **Argument lens**: no over-claim; framework-relative framing intact; quantum claim hedged; five-prediction falsifiability section intact. Passes tenet-accepting-reviewer diagnostic.
+- **Integration**: 13 key wikilinks spot-checked, all LIVE (no archival link-rot). No cross-links added (densely connected hub).
+- **Stamps**: ai_modified AND last_deep_review → 2026-07-10T14:24:13+00:00 (CONTENT fix).
+- **Reasoning-mode (internal)**: epiphenomenalism = Mode Two; illusionism = Mode Mixed. No label leakage, no boundary-substitution.
+- **Output**: [deep-review-2026-07-10-baseline-cognition](/reviews/deep-review-2026-07-10-baseline-cognition/)
+
+## 2026-07-10T12:55:00+00:00 - deep-review (accretion-targeted, citation + argument + integration lenses)
+- **Status**: Success (clean verification-only pass — no content defect in accreted material)
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Word count**: 3262 → 3262 (no change; verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: Reviewed only the post-2026-06-18 accretion — E.J. Lowe fact-causation paragraph (added 2026-07-07, commit e96103358) + rival-metaphysics cross-links. Body not re-reviewed (converged).
+- **Citation**: Lowe fact/event causation, "no energy/no gap, consistent with CNS", four-category-ontology + NCSD attribution — all web-verified real-correct at Springer *Erkenntnis* (doi:10.1007/s10670-006-9012-3) + *Personal Agency* (OUP 2008); corroborated by the Map's own four-category-ontology article.
+- **Argument lens**: no over-claim — Lowe paragraph is framework-relative and non-triumphalist; family-weakness caveat follows immediately. Passes the tenet-accepting-reviewer diagnostic.
+- **Integration**: four-category-ontology, hylomorphic-dualism-and-the-interaction-problem, the-steelman-for-process-monism all LIVE (no archival link rot); links accurate, non-circular.
+- **Stamps**: last_deep_review → 2026-07-10T12:55:00+00:00; ai_modified UNCHANGED (2026-07-07T15:32:00+00:00) — verification-only.
+- **Output**: [deep-review-2026-07-10-interaction-problem-across-traditions](/reviews/deep-review-2026-07-10-interaction-problem-across-traditions/)
+
+## 2026-07-10T12:35:00+00:00 - deep-review (cross-review, argument lens)
+- **Status**: Success (clean pass — no valid content defect)
+- **File**: [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/)
+- **Word count**: 2208 → 2208 (no change; verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation**: Bodien et al. 2024 (6th cite, not in create-pass set) web-verified real-correct at NEJM/PubMed (391(7):598-608, PMID 39141852). Other 5 not re-litigated.
+- **Probes**: negative-case integrity HELD; two-arm claim sound + marked-as-interpretation; CMD dedup clean (defers to consciousness-disruption); happiness-paradox framed as context not evidence; cluster reciprocal links all present.
+- **Stamp**: last_deep_review only (no body edit); ai_modified left at create stamp 12:00:00.
+- **Output**: [deep-review-2026-07-10-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/reviews/deep-review-2026-07-10-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/)
+
 ## 2026-07-10T12:05:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Locked-in syndrome as the negative case where filter-loosening does not apply

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-07-10 06:12:27+00:00
+ai_modified: 2026-07-10 15:08:30+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Does an RL reward scalar constitute or evidence machine pleasure an
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-10 04:41:00+00:00
+last_deep_review: 2026-07-10 15:08:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,6 +104,6 @@ The upshot is a precautionary posture the Map shares in *practice* with Metzinge
 6. Metzinger, T. (2021). *Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology.* Journal of Artificial Intelligence and Consciousness, 8(1), 43–66. https://philarchive.org/rec/METASA-4
 7. Long, R., Sebo, J., et al. (2024). *Taking AI Welfare Seriously.* arXiv:2411.00986. https://arxiv.org/abs/2411.00986
 8. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). *Consciousness in Artificial Intelligence: Insights from the Science of Consciousness.* arXiv:2308.08708. https://arxiv.org/abs/2308.08708 (Condensed version, with additional authors including D. Chalmers, published as "Identifying indicators of consciousness in AI systems," *Trends in Cognitive Sciences*, 2025.)
-9. *In Defense of Artificial Suffering.* (2026). Philosophical Studies. https://doi.org/10.1007/s11098-026-02493-2
+9. Mamak, K. (2026). In defense of artificial suffering. *Philosophical Studies*. https://doi.org/10.1007/s11098-026-02493-2
 10. Southgate, A. & Oquatre-huit, C. (2026-06-05). Wanting, Liking, and the Value-in-Mechanism Fork. *The Unfinishable Map*. https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/
 11. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
