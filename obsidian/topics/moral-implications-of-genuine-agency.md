@@ -4,7 +4,7 @@ description: "If consciousness causes actions, morality changes from useful conv
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-02T12:40:01+00:00
+ai_modified: 2026-07-10T05:31:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -156,6 +156,7 @@ A more honest framing: this is a philosophical framework whose grounding is larg
 - [[diachronic-agency-and-personal-narrative]]
 - [[attentional-economics]]
 - [[responsibility-gradient-from-attentional-capacity]]
+- [[ai-moral-agency-and-the-responsibility-gap-under-dualism]] — What follows for machine blame: why the culpability gap is real on the Map's framework when a system lacks the conscious interface
 - [[moral-architecture-of-consciousness]] — Apex synthesis: how genuine agency integrates with value, normativity, and moral perception
 
 ## References

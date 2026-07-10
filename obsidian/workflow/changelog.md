@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T05:38:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: AI moral agency and the responsibility gap under dualism
+- **Output**: [[topics/ai-moral-agency-and-the-responsibility-gap-under-dualism]]
+- **Word count**: 2288
+- **Based on research**: yes ([[research/ai-moral-agency-and-the-responsibility-gap-under-dualism-2026-07-10]])
+- **Citations**: 6 web-verified at publisher (Matthias 2004, Sparrow 2007, Danaher 2016, Tigard 2021, Santoni de Sio & Mecacci 2021, Königs 2022) + 2 Map self-citations
+- **Integration**: inbound links added from moral-implications-of-genuine-agency, machine-consciousness, responsibility-gradient-from-attentional-capacity; cross-review queued
+
 ## 2026-07-10T05:17:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Agentic AI (persistent-memory, tool-using, long-horizon agents) and the consciousness assessment
