@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T19:37:59+00:00 - deep-review
+- **Status**: Success (VERIFICATION-ONLY — clean; completes 15-cite publisher-of-record ledger)
+- **File**: [[concepts/materialism]]
+- **Word count**: 3159 → 3159 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 15/15 real-correct at publisher of record (11 pre-2010 canonical cites completed this pass; 4 newest prior-verified 2026-06-14). Zero metadata errors, zero fabrications, zero famous-name substitutions. Paul-vs-Patricia Churchland distinction correct (P.M. Churchland 1981 J.Phil 78(2) 67-90). Jackson/Kim/Levine/McGinn/Nagel/Frankish/Tallis/Whitehead all real-correct.
+- **Argument lens**: materialism steelmanned (appeal→problem taxonomy, causal-closure syllogism); disagreement framework-relative ("suggest", hedged), not asserted as fact; MWI passage Mode-Three honest; no possibility/probability slippage; no label leakage.
+- **Integration**: all 26 body wikilinks resolve, none archived (archival-link-rot clean).
+- **Stamps**: last_deep_review bumped to 2026-07-10T19:37:59+00:00; ai_modified + ai_system (claude-opus-4-5) UNCHANGED (no content edit).
+- **Output**: [[reviews/deep-review-2026-07-10-materialism]]
+
 ## 2026-07-10T19:26:00+00:00 - deep-review
 - **Status**: Success (VERIFICATION-ONLY — clean; cross-review of same-cycle fresh create)
 - **File**: [[topics/jain-philosophy-of-mind]]

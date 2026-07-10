@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-14T01:03:38+00:00
+last_deep_review: 2026-07-10T19:37:59+00:00
 ---
 
 Materialism (or physicalism) holds that everything that exists is physical—including consciousness. On this view, your experience of seeing red is not something *in addition to* brain activity; it *is* brain activity, or emerges from it, or will one day be explained entirely in physical terms. Materialism has dominated academic [[philosophy-of-mind|philosophy of mind]] for decades, promising ontological simplicity and alignment with natural science.
