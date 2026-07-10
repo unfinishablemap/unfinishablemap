@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-09T22:25:39+00:00
+ai_modified: 2026-07-10T00:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-20T06:05:00+00:00
+last_deep_review: 2026-07-10T00:08:00+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -132,7 +132,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 [[mental-effort|Mental effort]] protracts desired neural assemblies through the quantum Zeno effect—rapid, repeated observation preventing state evolution. This is consciousness selecting among quantum possibilities, not causing collapse from outside physics. The framework has an implicitly [[retrocausality|retrocausal]] dimension: the Zeno effect selects trajectories the system would not have followed under free evolution, compatible with [[retrocausality#The Atemporal Selection Model|atemporal selection]].
 
-**Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds), a [[timing-gap-problem|twelve-order-of-magnitude timing gap]]. Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but the mechanism generating such rapid observations in a warm brain remains unspecified.
+**Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds), a [[timing-gap-problem|ten-order-of-magnitude timing gap]]. Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but the mechanism generating such rapid observations in a warm brain remains unspecified.
 
 **The Map's position**: The Map's claim here is *structural*, not mechanistic: the measurement problem creates conceptual space for consciousness-selection where deterministic physics offers none—defending the *coherence* of the proposal, not establishing its truth, since no Zeno mechanism in a warm brain has been specified. This mechanistic modesty is distinct from the interpretive claim the disclosure reading advances later (that the gap is a boundary in reality); the two are not competing ceilings on one claim but different claims at different grades of support.
 

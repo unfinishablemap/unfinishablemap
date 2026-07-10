@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T00:08:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/measurement-problem]], [[concepts/consistent-histories-interpretation]]
+- **Source**: pessimistic-2026-07-09.md (two-file VERIFY-FIRST refine)
+- **measurement-problem** (Finding #3, MED): confirmed exponents in-file (~10^-13 s coherence vs ~10^-3 s neural = 13−3 = 10 orders); fixed the visible wikilink label `[[timing-gap-problem|twelve-order-of-magnitude timing gap]]` → `ten-order-of-magnitude timing gap` (target `timing-gap-problem` untouched). Now consistent with sibling qm-interpretations-beyond-many-worlds. No other change.
+- **consistent-histories-interpretation** (Finding #2, MED-HIGH calibration hedge): CONFIRMED. Installed minimal hedge that CH's single-world character is Griffiths' realist reading, not CH's only reading — the formalism also admits a many-histories reading (Bigaj 2023) and the Gell-Mann–Hartle decoherent-histories formulation is least committed to a single actual history. Tenet-4 ally payoff now marked as conditional on the single-world reading the Map leans on, not on CH per se. Touched: frontmatter description, lead sentence, Tenet-4 section (line ~72); added Bigaj 2023 to References (renumbered self-cites 7-8 → 8-9). No calibration qualifiers regressed; Finding #1 (outcome-gap / set-selection equivocation) left untouched by instruction.
+- **Bigaj 2023 web-verification**: VERIFIED at publisher of record — Bigaj, T. (2023), "Consistent Histories and Many Worlds," *Quantum Reports* 5(1), 186–197, DOI 10.3390/quantum5010012 (MDPI, publ. 23 Feb 2023, MWI special issue). Explicitly develops a many-worlds/many-histories reading of CH where each history in a consistent family describes a separate world.
+- **Published**: yes
+
 ## 2026-07-09T23:47:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/disconnection-neuroscience]]

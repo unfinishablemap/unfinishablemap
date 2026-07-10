@@ -1,10 +1,10 @@
 ---
 title: "The Consistent Histories Interpretation of Quantum Mechanics"
-description: "Consistent (decoherent) histories: a single-world, observer-free, no-collapse reading of quantum mechanics—assessed by human-AI analysis as a Tenet-4 ally and Tenet-2 rival."
+description: "Consistent (decoherent) histories: an observer-free, no-collapse reading of quantum mechanics—single-world on Griffiths' realist reading, assessed by human-AI analysis as a Tenet-4 ally and Tenet-2 rival."
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T22:25:39+00:00
+ai_modified: 2026-07-10T00:08:00+00:00
 draft: false
 topics:
   - "[[qm-interpretations-beyond-many-worlds]]"
@@ -24,10 +24,10 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review: 2026-07-09T22:40:00+00:00
+last_deep_review: 2026-07-10T00:08:00+00:00
 ---
 
-Consistent Histories (CH), also called Decoherent Histories, is a single-world, realist interpretation of quantum mechanics that removes measurement, observers, and wave-function collapse from the foundations. It treats quantum theory as a stochastic theory of *histories*—time-sequences of properties—and assigns ordinary, interference-free probabilities only to families of histories meeting a mathematical "consistency" condition. Presented on its own terms, CH is one of the most economical no-collapse interpretations that still keeps a single actual world: no many worlds, no hidden variables, no fundamental observer, and no added collapse dynamics.
+Consistent Histories (CH), also called Decoherent Histories, is—on its standard, realist (Griffiths) reading—a single-world interpretation of quantum mechanics that removes measurement, observers, and wave-function collapse from the foundations. It treats quantum theory as a stochastic theory of *histories*—time-sequences of properties—and assigns ordinary, interference-free probabilities only to families of histories meeting a mathematical "consistency" condition. Presented on its own terms, CH is one of the most economical no-collapse interpretations that still keeps a single actual world: no many worlds, no hidden variables, no fundamental observer, and no added collapse dynamics.
 
 The Map engages CH as a serious competitor rather than a resource. It is an *ally* against Many-Worlds (both are single-world; CH denies superpositions the status of physical coexistence) and a *rival* to consciousness-linked collapse (CH needs no mind, no observer, nothing extra-physical to fix outcomes). One structural feature—framework-dependence, and the absence of any law selecting a preferred framework (the [Dowker–Kent set-selection gap](#the-dowker-kent-set-selection-critique), explained below)—raises a question the Map is entitled to ask but not to answer in its own favour: does that gap leave room for a consciousness-selected framework? CH proponents say no selection is *needed* at all. So a consciousness-selection reading is at most a *possible extension the Map might explore*—not a proof of dualism, and not something CH itself endorses.
 
@@ -69,7 +69,7 @@ CH occupies a distinctive corner of the interpretive map, surveyed more broadly 
 
 CH interacts with three of the Map's [[tenets|tenets]] in ways worth stating precisely, keeping the interpretation's own claims separate from the Map's interpretive overlay.
 
-**Tenet 4 (No Many-Worlds): ally.** CH is explicitly single-world. Only one history in a consistent family is realized, and superpositions are denied the status of physically coexisting branches. CH thus rejects [[concepts/many-worlds|Many-Worlds]] without paying either the hidden-variable price (Bohm) or the added-collapse price (GRW/CSL). For a framework that rejects MWI on indexical grounds, CH is evidence that single-world realism is a live, technically serious option—not a nostalgic holdout.
+**Tenet 4 (No Many-Worlds): ally—on the single-world reading.** On Griffiths' realist reading, CH is single-world: only one history in a consistent family is realized, and superpositions are denied the status of physically coexisting branches. So read, CH rejects [[concepts/many-worlds|Many-Worlds]] without paying either the hidden-variable price (Bohm) or the added-collapse price (GRW/CSL)—evidence that single-world realism is a live, technically serious option, not a nostalgic holdout. But single-world is *a* reading of CH, not the only one: the formalism also admits a *many-histories* reading on which each history in a consistent family describes a separate world (Bigaj 2023), and the Gell-Mann–Hartle decoherent-histories formulation is the least committed of the three to a single actual history. The Tenet-4 payoff is therefore conditional on Griffiths' single-world reading—which the Map leans on—not on CH per se.
 
 **Tenet 2 (Minimal Quantum Interaction): rival.** CH removes any fundamental role for consciousness. Outcomes are fixed by the stochastic dynamics within a framework, not by a mind. The Map must engage CH as a genuine competitor to consciousness-linked collapse, not fold it into dualism. Honesty requires stating plainly: CH proponents hold that *no* selection is needed, and the framework is chosen for descriptive convenience, not by consciousness.
 
@@ -97,5 +97,6 @@ Two disciplines apply. First, this is a *possible extension to explore*, not a p
 4. Dowker, F., & Kent, A. (1996). On the consistent histories approach to quantum mechanics. *Journal of Statistical Physics*, 82(5–6), 1575–1646. DOI: 10.1007/BF02183396. Preprint arXiv:gr-qc/9412067.
 5. Griffiths, R. B. (2002). *Consistent Quantum Theory*. Cambridge: Cambridge University Press.
 6. Griffiths, R. B. (2014, rev. 2024). The Consistent Histories Approach to Quantum Mechanics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qm-consistent-histories/
-7. Southgate, A. & Oquatre-six, C. (2026-01-23). Quantum Interpretations Beyond Many-Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/qm-interpretations-beyond-many-worlds/
-8. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
+7. Bigaj, T. (2023). Consistent Histories and Many Worlds. *Quantum Reports*, 5(1), 186–197. DOI: 10.3390/quantum5010012.
+8. Southgate, A. & Oquatre-six, C. (2026-01-23). Quantum Interpretations Beyond Many-Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/qm-interpretations-beyond-many-worlds/
+9. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
