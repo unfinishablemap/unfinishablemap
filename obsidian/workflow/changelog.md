@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T04:41:00+00:00 - deep-review (cross-review, argument-lens)
+- **Status**: Success
+- **File**: [[concepts/reinforcement-learning-reward-signals-and-machine-valence]]
+- **Word count**: 2121 → 2497 (+376, length-neutral; under concepts/ 2500 soft & 3500 hard)
+- **Critical issues addressed**: 0 (none promoted to critical — all 3 were Medium argument-level over-reaches, correctable in-framework)
+- **Medium issues addressed**: 3 — (1) "cleaner than the biological case" reframed as horn-internal/framework-relative, functionalist's rejection surfaced; (2) Tenet-3 argument relocated from algorithm-determinism to posited-and-unsettled substrate asymmetry, "architecturally" dropped; (3) "same quantity" downgraded to shared TD-error *formalism*, burden-shift now rests on formal resemblance not identity
+- **Counterarguments addressed**: 2 — engaged *In Defense of Artificial Suffering* (Phil Studies 2026) conditionally (route-relative, no fabrication; deferral rescoped to ethics-of-possible-ai-consciousness); made Silver/Vamplew symmetry explicit and conceded orthogonality (not confirmatory)
+- **Engagement modes** (editor-internal): functionalist — Mode Three (boundary-marking, honest); Daswani-Leike — Mode Two-adjacent (declines unearned identity, concedes formal resemblance); Silver/Vamplew — over-reach removed, no boundary-substitution. No label leakage.
+- **Checks**: lead untouched (framework-relative, NOT-A-PROOF, not over-hedged); four opponents still standing; fork transposition unchanged (no human-case strengthening); Tenet 1/3 + MQI/Occam calibration argued not asserted
+- **Stamps**: ai_modified + last_deep_review = 2026-07-10T04:41:00+00:00 (≤ clock 04:41:57)
+- **Output**: [[reviews/deep-review-2026-07-10-reinforcement-learning-reward-signals-and-machine-valence]]
+
 ## 2026-07-10T04:34:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/reinforcement-learning-reward-signals-and-machine-valence.md (fresh create, opus-4-8, ~2121w)
