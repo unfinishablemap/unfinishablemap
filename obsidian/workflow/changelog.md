@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T23:13:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/japanese-philosophy-of-mind-kyoto-school]]
+- **Word count**: 2443 → 2444 (+1)
+- **Critical issues addressed**: 2 (Stone 2023 citation metadata: author N.→R., added co-author Altobrando, issue 54(3)→54(1–2):43–60 — real-wrong-metadata, fixed in place; Nishida quote translation-attribution mismatch — quoted Viglielmo 1960 wording under an Abe & Ives 1990 cite, replaced with verbatim Abe & Ives text)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (CONTENT fix — both ai_modified + last_deep_review bumped)
+- **Citations web-verified**: 8/8 at publisher of record — 6 real-correct (Nishida Abe&Ives Yale 1990; Place & Dialectic Krummel&Nagatomo OUP 2012 ISBN 9780199841172 re-confirmed; Nishitani Van Bragt UC Press 1982; Watsuji Yamamoto&Carter SUNY 1996 ISBN 9780791430941 re-confirmed; Heisig U Hawai'i 2001; SEP Maraldo 2005/2024 + SEP Davis 2006/2026 rev. Jul 3 2026), 1 real-wrong-metadata fixed (Stone). Superlative sweep: 0 candidates. All 11 wikilinks + James-bridge internal anchor live.
+- **Argument-lens (cross-review of fresh create)**: NON-dualist framing holds through the full body (lead, basho section, James neutral-monist boundary, fenced Relation-to-Site all consistent; "genuinely third framing" explicit); dissolve-vs-dodge posed early and left unadjudicated by design; common-cause caveat explicit (strengthens-not-confirms); Tenets 1+5 honest, no possibility/probability slippage. No dualist-conscription defect.
+- **Output**: [[reviews/deep-review-2026-07-10-japanese-philosophy-of-mind-kyoto-school]]
+
 ## 2026-07-10T23:01:10+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/source-attribution-divergence]]
