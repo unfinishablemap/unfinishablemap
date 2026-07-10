@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-06-24T18:15:14+00:00
+ai_modified: 2026-07-10T12:05:00+00:00
 last_deep_review: 2026-06-24T18:15:14+00:00
 draft: false
 topics:
@@ -214,6 +214,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [[mind-matter-interface]] — The two-layer architecture these dissociations map
 - [[clinical-phenomenology-and-altered-experience]] — How clinical disruptions as a class generate doubly grounded philosophical evidence
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Vegetative states, CMD, and locked-in syndrome test theories via consciousness-behaviour dissociation
+- [[locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]] — The pure-output dissociation (descending arm severed, ascending arm intact) as the negative case that bounds the filter model
 - [[anesthesia-void]] — The pharmacological route: three-states taxonomy and agent-specific channel failures
 - [[anaesthesia-and-the-consciousness-interface]] — Topic-level treatment of anesthesia as interface modulation
 - [[clinical-dissociation-as-systematic-evidence]] — Psychogenic dissociation reaching the same channel architecture without structural damage

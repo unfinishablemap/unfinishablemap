@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T12:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Locked-in syndrome as the negative case where filter-loosening does not apply
+- **Output**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+- **Word count**: 2208 (74% of 3000 topics target; well under 4000 hard ceiling)
+- **Based on research**: yes — [[research/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply-2026-07-10]]
+- **Notes**: NEGATIVE/bounding case — lead framework-relative + explicitly not-a-proof; honest-ledger point (production theory accommodates LIS equally → scope-limiting) present. All 5 citations web-verified at PubMed/publisher (Bauer 1979 PMID 92545, Smith & Delargy 2005 PMC549115, Bruno 2011 PMID 22021735, Silva 2024 PMID 38745103, Plum & Posner 1966 no-page). Dedup vs covert-consciousness/CMD (detection problem) held distinct. Reciprocal inbound links added from consciousness-disruption, neurological-dissociations, lived-objectified-body; cross-review queued (P2, argument-lens).
+
 ## 2026-07-10T11:56:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/somatic-interface]]

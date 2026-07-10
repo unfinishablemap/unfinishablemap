@@ -4,7 +4,7 @@ description: "Clinical evidence from anesthesia, coma, and disorders of consciou
 created: 2026-01-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-04T15:41:23+00:00
+ai_modified: 2026-07-10T12:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ DoC cases form a [[degrees-of-consciousness|spectrum]] that no theory predicted 
 
 **Minimally conscious state** (MCS) involves inconsistent but reproducible signs of awareness: visual tracking, localising responses to pain, or intermittent command-following. The boundaries between MCS and UWS are clinically ambiguous—misdiagnosis rates of approximately 40% have been reported in multiple studies.
 
-**Locked-in syndrome** presents the opposite dissociation: full consciousness with near-total motor paralysis, typically from ventral pontine lesions. Patients are aware—they think, remember, and feel—but can communicate only through eye movements or blinks, highlighting how easily consciousness and its behavioural expression are conflated.
+**Locked-in syndrome** presents the opposite dissociation: full consciousness with near-total motor paralysis, typically from ventral pontine lesions. Patients are aware—they think, remember, and feel—but can communicate only through eye movements or blinks, highlighting how easily consciousness and its behavioural expression are conflated. It is a *communication* problem rather than the *detection* problem of covert consciousness below, and it bounds the filter model rather than confirming it—[[locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]] develops this pure-output case as the honest negative bound.
 
 **Cognitive motor dissociation** (CMD) is the most philosophically significant category, examined in detail in the next section.
 
