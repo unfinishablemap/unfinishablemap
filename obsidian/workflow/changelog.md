@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T18:17:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Jain Philosophy of Mind — Jiva, Anekantavada, and the Plurality of Eternal Souls
+- **Output**: [[research/jain-philosophy-of-mind-2026-07-10]]
+- **Sources consulted**: 6 (SEP/Gorisse 2023, Tattvartha Sutra/Umasvati, Jaini 1979, Johnson 1995, Wiley 2004, Balcerowicz 2020)
+
 ## 2026-07-10T17:47:34+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Anomalous Monism and the Denial of Strict Psychophysical Laws
