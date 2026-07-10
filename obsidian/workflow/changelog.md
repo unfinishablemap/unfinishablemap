@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T11:04:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Capgras delusion and the affective-recognition channel
+- **Output**: [[topics/capgras-delusion-and-the-affective-recognition-channel]]
+- **Word count**: 2021
+- **Based on research**: yes — [[research/capgras-delusion-and-the-affective-recognition-channel-2026-07-10]]
+- **Citations**: 5 web-reverified at PubMed/publisher (Ellis & Young 1990; Hirstein & Ramachandran 1997; Ellis-Young-Quayle-De Pauw 1997; Coltheart & Davies 2022; Corlett 2019)
+- **Integration**: inbound links added from recognition-void, inventory-blindness, neurological-dissociations-as-interface-architecture; P2 cross-review queued
+
 ## 2026-07-10T10:55:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Capgras delusion and the affective-recognition channel

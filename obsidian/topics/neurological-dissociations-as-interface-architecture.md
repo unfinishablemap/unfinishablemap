@@ -206,6 +206,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [[blindsight]] — The paradigm ascending dissociation
 - [[capability-division-in-vision]] — How the two-streams dissociation maps brain-side vs mind-side visual capabilities
 - [[pain-asymbolia]] — Affective channel dissociation
+- [[capgras-delusion-and-the-affective-recognition-channel]] — A second affective-channel exhibit: felt familiarity selectively disconnected while perceptual identification stays intact, with the skin-conductance evidence and the Corlett challenge
 - [[split-brain-consciousness]] — Bilateral disconnection and unity
 - [[attention-as-interface]] — Attention as the gating mechanism
 - [[motor-selection]] — The descending channel in detail
