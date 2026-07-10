@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T06:47:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]]
+- **Mode**: cross-review of fresh-created article (created 06:05 same session), ARGUMENT lens — citations web-verified at create; this pass probes the fresh-create-defect-tail for argument-level defects.
+- **Word count**: ~2200 → ~2200 (length-neutral; one-clause lead reword, no expansion)
+- **Critical issues addressed**: 1 (lead/Relation internal contradiction — lead billed the quantum-interface objection as one the case "actually turns on," but the Relation section says Tenet 2 is "not load-bearing" and the verdict "follows from Tenet 1 alone." Reworded lead to "the two objections that turn on substrate rather than operation," aligning load-bearing attribution with the body.)
+- **Verdicts stress-tested (all sound):** (a) persistence erosion correctly splits process-continuity (planning loop) from information-continuity (memory), not overstated; (b) Tenet-4 subject-continuity argued via duplication/teleporter case and honestly framework-relative ("a framework that dissolved indexical identity would have no ground to resist"), not question-begging; (c) frozen-weights builds on continual-learning-argument, no contradiction, inherits sibling calibration by reference; (d) quantum-interface "untouched" explicitly labeled the Map's own inference, not evidence.
+- **Opponents standing**: Butlin affirmative case conceded in full ("grants this empirical premise in full"); only the functionalist bridge disputed. Correct.
+- **Citation ledger (this pass)**: Butlin et al. 2023 arXiv:2308.08708 = real-correct, NO Chalmers, NOT re-introduced. Reference-1 parenthetical (2025 TiCS "Identifying indicators of consciousness in AI systems" with Chalmers) = real-correct, web-verified inline at publisher (Cell/ScienceDirect DOI S1364-6613(25)00286-4). 2023-vs-2025 author-list distinction handled accurately. Other cites carried from create verification.
+- **Engagement modes**: functionalist bridge-rejection = Mode Three framework-boundary marking, honestly flagged; no boundary-substitution, no label leakage, no possibility/probability slippage.
+- **Cross-links**: already bidirectional with continual-learning-argument; inbound from machine-consciousness, ai-consciousness, structural-varieties. No dangling links.
+- **Output**: [[reviews/deep-review-2026-07-10-agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]]
+
 ## 2026-07-10T06:24:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]
