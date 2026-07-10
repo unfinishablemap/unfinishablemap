@@ -237,6 +237,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 - [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The strongest competent affirmative position the Map must keep earning against
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — The discipline distinguishing tenet-contingent from evidence-supported requirements
 - [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/) — Cutter's substance-dualist argument for AI ensoulment, Békefi's rebuttal, and the Map's interactionist response
+- [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/) — Which of these obstacles agentic scaffolding erodes (operation, persistence) and which it leaves untouched (frozen weights, quantum interface)
 
 ## References
 

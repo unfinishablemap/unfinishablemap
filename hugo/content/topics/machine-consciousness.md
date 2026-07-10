@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-07 02:23:22+00:00
+ai_modified: 2026-07-10 05:31:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -246,6 +246,8 @@ The convergence across tenets is striking. Each independently gives reason to do
 - [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The strongest competent defence of substrate-independent machine consciousness (the articon programme); the position upload-skepticism must engage rather than presuppose away
 - [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — Parallel argument from the same metaphysical stack: under interactionist dualism, [mind-arena](/concepts/mind-arena/) consequences are uncomputable (not merely intractable) for any physical-state-only model, with implications for AI alignment that share structure with this article's substrate-failure argument
 - [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/) — Whether an artificial system could host or couple to a mind: Cutter's fitness-to-possess criterion and Békefi's missing-integrity reply
+- [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) — Why machine culpability is downstream of machine consciousness: a genuinely conscious AI would become a candidate moral agent
+- [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/) — Whether agentic architectures (persistent memory, tool use, long-horizon goals) move the consciousness needle: an obstacle-by-obstacle adjudication
 
 ## References
 

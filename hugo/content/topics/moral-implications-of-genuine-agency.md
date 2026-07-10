@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-02 12:40:01+00:00
+ai_modified: 2026-07-10 05:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -159,6 +159,7 @@ A more honest framing: this is a philosophical framework whose grounding is larg
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
 - [attentional-economics](/concepts/attentional-economics/)
 - [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) — What follows for machine blame: why the culpability gap is real on the Map's framework when a system lacks the conscious interface
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: how genuine agency integrates with value, normativity, and moral perception
 
 ## References

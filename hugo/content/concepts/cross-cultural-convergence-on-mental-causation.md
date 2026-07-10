@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-04 23:00:22+00:00
+ai_modified: 2026-07-10 07:39:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Independent philosophical traditions across India, Africa, and the 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 23:00:22+00:00
+last_deep_review: 2026-07-10 07:39:05+00:00
 modified: *id001
 related_articles:
 - '[[downward-causation-mental-causation-2026-01-15]]'
@@ -127,7 +127,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is also relevant. T
 ## References
 
 1. Barrett, H.C. et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6).
-1. Barlev, M. & Shtulman, A. (2021). "Minds, Bodies, Spirits, and Gods: Does Widespread Belief in Disembodied Beings Imply That We Are Innate Dualists?" *Psychological Review*, 128(6): 1007-1021.
+1. Barlev, M. & Shtulman, A. (2021). "Minds, Bodies, Spirits, and Gods: Does Widespread Belief in Disembodied Beings Imply That We Are Inherent Dualists?" *Psychological Review*, 128(6): 1007-1021.
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Gyekye, K. (1995). *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Temple University Press.

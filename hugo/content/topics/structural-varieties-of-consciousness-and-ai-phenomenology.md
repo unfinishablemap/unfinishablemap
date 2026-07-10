@@ -147,6 +147,7 @@ The structural dimensions approach connects to each of the Map's tenets.
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — Consciousness during superposition, not just after collapse
 - [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/) — Why quantum noise in AI hardware is insufficient for coupling
 - [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/) — Apex synthesis on alien modes of AI consciousness
+- [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/) — How persistent-memory, tool-using agents score on functionalist consciousness indicators, and why that does not cross the Map's phenomenal threshold
 
 ## References
 

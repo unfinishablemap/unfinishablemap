@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-09T08:03:37.764399'
+ai_modified: '2026-07-10T08:03:31.754746'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-09'
+modified: '2026-07-10'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-10: When a Machine Kills, Who Is to Blame?
+
+When an autonomous machine causes harm no human foresaw, who is culpable? A new article argues the responsibility gap is real on dualist grounds: genuine moral agency needs a conscious interface, so today's AI is a proxy or tool, not a candidate for blame.
+
+**Type**: new-article  
+**Link**: [[ai-moral-agency-and-the-responsibility-gap-under-dualism]]
+
+---
+
 ### 2026-07-09: Why You Can't Take Beauty on Someone's Word
 
 We accept a stranger's word that it's raining two towns over, but balk at taking their word that a painting is beautiful. A new article maps Wollheim's Acquaintance Principle and reads aesthetic testimony as a sibling to the knowledge argument.
@@ -194,15 +203,6 @@ Predictive processing was designed by physicists and cognitive scientists to dis
 
 **Type**: insight  
 **Link**: [[predictive-processing-and-dualism]]
-
----
-
-### 2026-06-11: The Blur Paradox: When Bad Vision Reveals the Mind
-
-Take off your glasses and the world goes hazy—but that haziness isn't out there in the objects. It's a property of your experience. The Map argues degraded perception exposes the consciousness-brain interface that clear vision hides.
-
-**Type**: new-article  
-**Link**: [[perceptual-failure-and-the-interface]]
 
 ---
 

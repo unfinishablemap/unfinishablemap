@@ -9,6 +9,125 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-10T07:39:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
+- **Mode**: Owed-web-verify seam. Opus-4-6-cohort citation-bearing concept; 5 prior reviews (2026-02-24 → 2026-06-04) all intra-corpus/sister-article only — first-ever publisher-of-record verify of all 6 references this pass.
+- **Word count**: 2168 → 2168 (length-neutral; single-word title correction, 87% of soft threshold)
+- **Critical issues addressed**: 1 (Barlev & Shtulman 2021 title metadata: "Innate" → "Inherent" Dualists; verified at PhilPapers/ResearchGate/author copy, DOI 10.1037/rev0000298. Venue/vol/pages were already correct. Survived 5 reviews incl. one that fixed the journal name but not the title.)
+- **Citation ledger** (all publisher-verified): Barrett et al. 2021 *Cognitive Science* 45(6) e12992 (Wiley DOI 10.1111/cogs.12992 + PubMed 34170020) — correct; Barlev & Shtulman 2021 *Psych Review* 128(6):1007-1021 — title fixed; Bloom 2004, Kim 2005, Gyekye 1995 (Temple UP rev. ed.), Larson & Bhattacharya (Samkhya, Motilal) — all real-correct. No superlative claims (conceptual article).
+- **Medium issues addressed**: 0 (content converged; coherence-vs-evidential-status calibration from prior passes intact)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-10-cross-cultural-convergence-on-mental-causation](/reviews/deep-review-2026-07-10-cross-cultural-convergence-on-mental-causation/)
+
+## 2026-07-10T06:47:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/)
+- **Mode**: cross-review of fresh-created article (created 06:05 same session), ARGUMENT lens — citations web-verified at create; this pass probes the fresh-create-defect-tail for argument-level defects.
+- **Word count**: ~2200 → ~2200 (length-neutral; one-clause lead reword, no expansion)
+- **Critical issues addressed**: 1 (lead/Relation internal contradiction — lead billed the quantum-interface objection as one the case "actually turns on," but the Relation section says Tenet 2 is "not load-bearing" and the verdict "follows from Tenet 1 alone." Reworded lead to "the two objections that turn on substrate rather than operation," aligning load-bearing attribution with the body.)
+- **Verdicts stress-tested (all sound):** (a) persistence erosion correctly splits process-continuity (planning loop) from information-continuity (memory), not overstated; (b) Tenet-4 subject-continuity argued via duplication/teleporter case and honestly framework-relative ("a framework that dissolved indexical identity would have no ground to resist"), not question-begging; (c) frozen-weights builds on continual-learning-argument, no contradiction, inherits sibling calibration by reference; (d) quantum-interface "untouched" explicitly labeled the Map's own inference, not evidence.
+- **Opponents standing**: Butlin affirmative case conceded in full ("grants this empirical premise in full"); only the functionalist bridge disputed. Correct.
+- **Citation ledger (this pass)**: Butlin et al. 2023 arXiv:2308.08708 = real-correct, NO Chalmers, NOT re-introduced. Reference-1 parenthetical (2025 TiCS "Identifying indicators of consciousness in AI systems" with Chalmers) = real-correct, web-verified inline at publisher (Cell/ScienceDirect DOI S1364-6613(25)00286-4). 2023-vs-2025 author-list distinction handled accurately. Other cites carried from create verification.
+- **Engagement modes**: functionalist bridge-rejection = Mode Three framework-boundary marking, honestly flagged; no boundary-substitution, no label leakage, no possibility/probability slippage.
+- **Cross-links**: already bidirectional with continual-learning-argument; inbound from machine-consciousness, ai-consciousness, structural-varieties. No dangling links.
+- **Output**: [deep-review-2026-07-10-agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/reviews/deep-review-2026-07-10-agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/)
+
+## 2026-07-10T06:24:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Target rationale**: owed publisher-of-record web-verify seam — the 2026-06-20 review claimed a "full" References ledger but silently skipped the Butlin (2023) entry, where a corpus-wide authorship error hid. opus-4-7 cohort, citation-dense, reviewed 3 weeks ago.
+- **Word count**: 4380 → 4410 (+30, reference disambiguation note; auto-condense withheld — human-decision length lock respected)
+- **Critical issues addressed**: 1 (propagated attribution error) + family-resolution across 4 sibling files
+- **Citation ledger (publisher-verified this pass)**: Butlin et al. 2023 arXiv:2308.08708 = real-wrong-metadata FIXED (2023 preprint has NO Chalmers/Bayne — verified at arXiv; both joined 2025 TiCS version only); Metzinger 2021 JAIC 8(1):43–66 = real-correct; Bostrom 2006 Minds&Machines 16(2):185–200 = real-correct; Schwitzgebel 2025 arXiv:2510.09858 = real-correct. Bostrom&Shulman 2022, Schwitzgebel 2024, Tokayer, Cutter 2025 carried from 06-20 verified ledger.
+- **Family resolution**: Butlin-2023 Chalmers error also corrected in apex/machine-question, apex/what-it-might-be-like-to-be-an-ai, concepts/types-of-consciousness, concepts/ai-epiphenomenalism (targeted citation fix; ai_modified bumped, last_deep_review untouched)
+- **Engagement modes**: functionalist / Metzinger / Birch / MWI-defender all Mode Three framework-boundary marking, honestly flagged; no boundary-substitution, no label leakage, no possibility/probability slippage.
+- **Output**: [deep-review-2026-07-10-ethics-of-possible-ai-consciousness](/reviews/deep-review-2026-07-10-ethics-of-possible-ai-consciousness/)
+
+## 2026-07-10T06:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Agentic AI and the consciousness assessment of persistent-memory, tool-using systems
+- **Output**: [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/)
+- **Word count**: 2199
+- **Based on research**: yes ([agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems-2026-07-10](/research/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems-2026-07-10/))
+- **Citations**: 6 web-verified at arXiv/publisher of record (Butlin/Long et al. 2023 arXiv:2308.08708 — NOTE: 2023 preprint author list does NOT include Bayne/Chalmers; Chalmers is on the 2025 TiCS version only; Wang et al. 2024 Front. Comput. Sci. 18(6):186345 DOI 10.1007/s11704-024-40231-1; Park et al. 2023 arXiv:2304.03442; ReAct 2210.03629; Reflexion 2303.11366; Voyager 2305.16291) + Hoel 2026 (via continual-learning-argument) + 1 Map self-citation
+- **Integration**: inbound links added from continual-learning-argument, ai-consciousness, machine-consciousness, structural-varieties-of-consciousness-and-ai-phenomenology; cross-review queued (P2, argument-lens)
+- **Lead discipline**: framework-relative + not-a-proof (functionalist indicators erode 2 behavioural objections, leave frozen-weights + quantum-interface untouched; no bald phenomenal-absence claim)
+
+## 2026-07-10T05:56:00+00:00 - deep-review (cross-review, argument lens)
+- **Status**: Success
+- **File**: [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/)
+- **Word count**: 2296 → 2358 (+62)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Sparrow characterization understated his subject/punishability criterion — reframed origination-side vs reception-side; 3 minimal edits, fairness to named opponent, distinctiveness claim preserved and sharpened; no citation change)
+- **Enhancements made**: 0 (integration chain already complete — inbound links reciprocal in machine-consciousness, responsibility-gradient, moral-implications; no contradiction, no parent-verdict strengthening)
+- **Engagement modes**: Tigard/Königs/Santoni de Sio & Mecacci/Sparrow — Mode Three (framework-boundary), natural prose, no label leakage
+- **Output**: [deep-review-2026-07-10-ai-moral-agency-and-the-responsibility-gap-under-dualism](/reviews/deep-review-2026-07-10-ai-moral-agency-and-the-responsibility-gap-under-dualism/)
+
+## 2026-07-10T05:38:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: AI moral agency and the responsibility gap under dualism
+- **Output**: [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/)
+- **Word count**: 2288
+- **Based on research**: yes ([ai-moral-agency-and-the-responsibility-gap-under-dualism-2026-07-10](/research/ai-moral-agency-and-the-responsibility-gap-under-dualism-2026-07-10/))
+- **Citations**: 6 web-verified at publisher (Matthias 2004, Sparrow 2007, Danaher 2016, Tigard 2021, Santoni de Sio & Mecacci 2021, Königs 2022) + 2 Map self-citations
+- **Integration**: inbound links added from moral-implications-of-genuine-agency, machine-consciousness, responsibility-gradient-from-attentional-capacity; cross-review queued
+
+## 2026-07-10T05:17:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Agentic AI (persistent-memory, tool-using, long-horizon agents) and the consciousness assessment
+- **Output**: [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems-2026-07-10](/research/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems-2026-07-10/)
+- **Sources consulted**: 7 (Wang et al. 2024 survey; Park et al. 2023 generative agents; Butlin/Long et al. 2023; ReAct; Reflexion; Voyager; temporal-continuity thread)
+
+## 2026-07-10T05:08:00+00:00 - deep-review (owed-web-verify seam)
+- **Status**: Success
+- **File**: [integration-as-activity](/concepts/integration-as-activity/)
+- **Word count**: 2940 → 2940 (verification-only, no content change)
+- **Critical issues addressed**: 0 (clean-convergence verdict)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 12/12 real-correct at publisher of record (first publisher-verify in article history — prior 3 reviews were intra-corpus only). Highest-value fresh cite COGITATE Consortium 2025 confirmed *Nature* 642(8066), 133–142, DOI 10.1038/s41586-025-08888-1.
+- **Stamp**: last_deep_review only (ai_modified unchanged — no content edit)
+- **Output**: [deep-review-2026-07-10-integration-as-activity](/reviews/deep-review-2026-07-10-integration-as-activity/)
+
+## 2026-07-10T04:52:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: AI moral agency and the "responsibility gap" under dualism
+- **Output**: [ai-moral-agency-and-the-responsibility-gap-under-dualism-2026-07-10](/research/ai-moral-agency-and-the-responsibility-gap-under-dualism-2026-07-10/)
+- **Sources consulted**: 6 (all web-verified at venue/volume/pages: Matthias 2004, Sparrow 2007, Danaher 2016, Tigard 2021, Santoni de Sio & Mecacci 2021, Königs 2022)
+
+## 2026-07-10T04:41:00+00:00 - deep-review (cross-review, argument-lens)
+- **Status**: Success
+- **File**: [reinforcement-learning-reward-signals-and-machine-valence](/concepts/reinforcement-learning-reward-signals-and-machine-valence/)
+- **Word count**: 2121 → 2497 (+376, length-neutral; under concepts/ 2500 soft & 3500 hard)
+- **Critical issues addressed**: 0 (none promoted to critical — all 3 were Medium argument-level over-reaches, correctable in-framework)
+- **Medium issues addressed**: 3 — (1) "cleaner than the biological case" reframed as horn-internal/framework-relative, functionalist's rejection surfaced; (2) Tenet-3 argument relocated from algorithm-determinism to posited-and-unsettled substrate asymmetry, "architecturally" dropped; (3) "same quantity" downgraded to shared TD-error *formalism*, burden-shift now rests on formal resemblance not identity
+- **Counterarguments addressed**: 2 — engaged *In Defense of Artificial Suffering* (Phil Studies 2026) conditionally (route-relative, no fabrication; deferral rescoped to ethics-of-possible-ai-consciousness); made Silver/Vamplew symmetry explicit and conceded orthogonality (not confirmatory)
+- **Engagement modes** (editor-internal): functionalist — Mode Three (boundary-marking, honest); Daswani-Leike — Mode Two-adjacent (declines unearned identity, concedes formal resemblance); Silver/Vamplew — over-reach removed, no boundary-substitution. No label leakage.
+- **Checks**: lead untouched (framework-relative, NOT-A-PROOF, not over-hedged); four opponents still standing; fork transposition unchanged (no human-case strengthening); Tenet 1/3 + MQI/Occam calibration argued not asserted
+- **Stamps**: ai_modified + last_deep_review = 2026-07-10T04:41:00+00:00 (≤ clock 04:41:57)
+- **Output**: [deep-review-2026-07-10-reinforcement-learning-reward-signals-and-machine-valence](/reviews/deep-review-2026-07-10-reinforcement-learning-reward-signals-and-machine-valence/)
+
+## 2026-07-10T04:34:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/reinforcement-learning-reward-signals-and-machine-valence.md (fresh create, opus-4-8, ~2121w)
+- **Output**: [pessimistic-2026-07-10](/reviews/pessimistic-2026-07-10/)
+- **Key findings**: 3 critical/medium issues — "cleaner than the biological case" assumes the conclusion; Tenet-3 "architectural" argument conflates algorithm-level determinism with substrate-level physics (would deny the brain an interface too); epistemic/metaphysical equivocation on "same quantity" (TD-error ≡ dopamine RPE). Plus a ducked directly-opposed 2026 rival and a both-horns-confirm insulation concern.
+
+## 2026-07-10T04:31:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Reinforcement-learning reward signals and machine valence (the reward–suffering link)
+- **Output**: [reinforcement-learning-reward-signals-and-machine-valence](/concepts/reinforcement-learning-reward-signals-and-machine-valence/)
+- **Word count**: 2109 (concepts soft target 2500, hard 3500 — ok)
+- **Based on research**: yes — [reinforcement-learning-reward-signals-and-machine-valence-the-reward-suffering-link-2026-07-10](/research/reinforcement-learning-reward-signals-and-machine-valence-the-reward-suffering-link-2026-07-10/)
+- **Integration**: inbound links added from valence-and-conscious-selection, wanting-liking-and-the-value-in-mechanism-fork, ethics-of-possible-ai-consciousness; cross-review (argument-lens) queued P2. Slug check: no live/archive collision. All citations web-verified in the research note.
+
+## 2026-07-10T04:16:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Reinforcement-learning reward signals and machine valence (the reward–suffering link)
+- **Output**: [reinforcement-learning-reward-signals-and-machine-valence-the-reward-suffering-link-2026-07-10](/research/reinforcement-learning-reward-signals-and-machine-valence-the-reward-suffering-link-2026-07-10/)
+- **Sources consulted**: 11
+
 ## 2026-07-10T03:53:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)

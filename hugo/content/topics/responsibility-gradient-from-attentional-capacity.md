@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-19 11:20:20+00:00
+ai_modified: 2026-07-10 05:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -176,6 +176,7 @@ The moral implications extend in both directions. Where most discussions of grad
 - [Moral Phenomenology and Perception](/concepts/evaluative-phenomenal-character/) — How attention shapes the capacity to perceive moral reasons
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — Why consciousness must be causally efficacious, grounding the gradient's moral weight
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — The broader moral landscape when agency is genuine
+- [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) — The gradient's lower bound: systems with no conscious interface at all fall off the responsibility scale, grounding the AI culpability gap
 - [free-will](/topics/free-will/) — The broader framework of agency and determinism
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the responsibility gradient within a unified moral framework
 
