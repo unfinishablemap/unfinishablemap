@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T16:50:37+00:00 - deep-review (OWED-WEB-VERIFY: remaining 10 refs at publisher of record)
+- **Status**: Success (CONTENT fix — 1 conflated-citation defect corrected)
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Word count**: ~3293 → ~3299 (citation line only; length-neutral)
+- **Critical issues addressed**: 1 (reference 12 — Pitts/Metzler/niz005 was a three-source conflation → corrected to Montemayor & Haladjian 2019, Phil Trans R Soc B 374(1770), 20180517)
+- **Citations web-verified**: 10 unverified refs this run (Dehaene&Naccache 2001, Dehaene et al. 2006, Dehaene et al. 2017, Koch 2016, Kouider&Dehaene 2007, Lamme 2006, Lieberman 2007, Stapp 2007, Tomasello 2014 all real-correct; ref 12 metadata-fixed) — all 16 now publisher-confirmed across this + 2026-06-05 runs
+- **Propagation reported**: same wrong cite in research/neural-correlates-conscious-unconscious-processing-2026-01-23.md:182 (not fixed — out of scope)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; argument + integration clean)
+- **Output**: [[reviews/deep-review-2026-07-10-conscious-vs-unconscious-processing]]
+
 ## 2026-07-10T16:40:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Unfolding Argument Against Causal-Structure Theories of Consciousness
