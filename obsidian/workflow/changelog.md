@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T15:34:45+00:00 - deep-review (OWED-WEB-VERIFY: full 24-cite publisher audit)
+- **Status**: Success (CONTENT fix — 2 citation metadata defects corrected at publisher of record)
+- **File**: [[concepts/consciousness-as-amplifier]]
+- **Word count**: 2634 → ~2636 (length-neutral; +2w from Herrmann co-author addition, metadata only)
+- **Critical issues addressed**: 0 (no fabricated cites; no famous-name substitution; June already fixed the Doerig/Georgiev chimera)
+- **Medium issues addressed**: 2 (Ref #20 Tomasello 2010 missing co-author Herrmann added → Tomasello & Herrmann 2010, SAGE 10.1177/0963721409359300; Ref #21 Tomasello-Kruger-Ratner 1993 end-page 511→552, Cambridge Core)
+- **Scope**: All 24 references web-verified at publisher of record (June pass covered only 6). Oldest cohort (claude-opus-4-5), converged 35d, no drift since. Full per-cite ledger in review file. Stapp cite correctly the 2009 book, not the 2005 QID paper.
+- **Corpus propagation reported (not fixed — single-file remit)**: Tomasello-2010 single-author form still live in animal-consciousness.md, concept-of-consciousness-and-social-cognition.md, research/consciousness-influence-intelligence-2026-01-21.md; 1993 495-511 still in research/consciousness-independent-baseline-cognition-2026-01-21.md. Follow-up sweep recommended.
+- **Engagement modes (editor-internal)**: Frankish Mixed (Mode One + Mode Two); Dennett Mode Three; MWI/eliminativist bedrock. No label leakage.
+- **Integration**: 35/35 wikilinks LIVE (no archival link rot).
+- **Output**: [[reviews/deep-review-2026-07-10-consciousness-as-amplifier]]
+
 ## 2026-07-10T14:24:13+00:00 - deep-review (OWED-WEB-VERIFY: pre-2020 citation cluster)
 - **Status**: Success (CONTENT fix — 3 citation metadata defects corrected at publisher of record)
 - **File**: [[concepts/baseline-cognition]]
