@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T23:37:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Mesoamerican Nahua Philosophy of Mind
+- **Output**: [[mesoamerican-nahua-philosophy-of-mind]]
+- **Word count**: 2075
+- **Based on research**: yes, [[nahua-philosophy-of-mind-teotl-tripartite-soul-2026-07-10]]
+
 ## 2026-07-10T23:30:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Mesoamerican Nahua Philosophy of Mind — Teotl and the Tonalli-Teyolia-Ihiyotl Animating Forces

@@ -93,6 +93,7 @@ Second, there are live and growing concerns about translation, appropriation, an
 - [[consciousness-and-the-phenomenology-of-place]]
 - [[panpsychisms-combination-problem]]
 - [[cross-traditional-convergence-on-consciousness-irreducibility]]
+- [[mesoamerican-nahua-philosophy-of-mind]] — the other Indigenous node: Nahua teotl process-monism as a basin edge of the convergence argument
 - [[eastern-philosophy-consciousness]]
 - [[kabbalah-tzimtzum-consciousness-matter]] — the Jewish-mystical node in the cross-traditional cluster: tzimtzum as creation-by-withdrawal
 

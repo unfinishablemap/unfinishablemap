@@ -157,6 +157,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 
 ## Further Reading
 
+- [[mesoamerican-nahua-philosophy-of-mind]] — Nahua teotl process-monism and the tripartite tonalli/teyolia/ihiyotl soul: the Indigenous-Americas basin-edge node
 - [[jain-philosophy-of-mind]] — Jain substance-pluralist dualism, graded sentience, and anekantavada as a non-Western node
 - [[hard-problem-of-consciousness]] — The Western formulation of the problem
 - [[chinese-philosophy-of-mind]] — The Chinese counter-example expounded on its own terms: organicism, *qi/li/Dao*, Zhu Xi, and Wang Yangming

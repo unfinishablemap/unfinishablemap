@@ -87,6 +87,7 @@ So the Kyoto School is neither a defeat nor a vindication. It is a second, indep
 
 ## Further Reading
 
+- [[mesoamerican-nahua-philosophy-of-mind]] — a third basin-edge case: Nahua teotl process-monism, read alongside the Chinese and Kyoto cases
 - [[chinese-philosophy-of-mind]] — the first non-substantialist basin edge; read the two together as a pair
 - [[cross-traditional-convergence-on-consciousness-irreducibility]] — the structural argument the Kyoto case tests and qualifies
 - [[the-hard-problem-in-non-western-philosophy]] — where the Kyoto School sits among Indian, Islamic, African, and Japanese responses

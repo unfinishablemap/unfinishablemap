@@ -94,6 +94,7 @@ The honest summary: Jainism is a strong, premise-diverse addition to the cross-t
 
 ## Further Reading
 
+- [[mesoamerican-nahua-philosophy-of-mind]] — a further non-Western node: Nahua teotl monism and the distributed tonalli/teyolia/ihiyotl soul
 - [[indian-philosophy-of-mind]] — Sāṃkhya, Nyaya, and Vedanta; the three schools Jainism joins as a fourth Indian voice
 - [[samkhya-three-way-distinction]] — the nearest dualist-pluralist neighbour, and how Jainism's active soul differs from Sāṃkhya's passive witness
 - [[cross-traditional-convergence-on-consciousness-irreducibility]] — the structural argument to which Jainism adds a premise-diverse data point

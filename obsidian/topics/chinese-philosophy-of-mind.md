@@ -92,6 +92,7 @@ Finally, the Chinese case is a standing caution demanded by [[tenets#^occams-lim
 
 - [[cross-traditional-convergence-on-consciousness-irreducibility]] — the structural argument for which this tradition is the decisive test case
 - [[japanese-philosophy-of-mind-kyoto-school]] — the paired second basin edge: another non-substantialist tradition landing near irreducibility without dualism
+- [[mesoamerican-nahua-philosophy-of-mind]] — the organicist basin edge in the Indigenous Americas: teotl process-monism as a second dissociating test case
 - [[the-hard-problem-in-non-western-philosophy]] — where the Chinese case sits among Indian, Islamic, African, and Japanese responses
 - [[eastern-philosophy-consciousness]] — Buddhist, Hindu, and Daoist accounts of mind compared
 - [[common-cause-null]] — the shared-architecture objection the Chinese dissociation bears on
