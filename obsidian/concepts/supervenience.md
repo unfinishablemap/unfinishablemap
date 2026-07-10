@@ -4,7 +4,7 @@ description: "Supervenience defines when higher-level properties depend on lower
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-05-26T07:51:35+00:00
+ai_modified: 2026-07-10T17:47:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,6 +107,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is relevant because
 - [[concepts/materialism|materialism]]
 - [[causal-powers]]
 - [[the-strong-emergence-of-consciousness]]
+- [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] — Davidson's supervenience-without-reduction, and why the Map keeps its anti-reductive premise but rejects its no-law verdict
 
 ## References
 

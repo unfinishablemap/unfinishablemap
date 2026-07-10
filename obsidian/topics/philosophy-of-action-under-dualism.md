@@ -4,7 +4,7 @@ description: "How interactionist dualism reshapes the theory of action: a human-
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-07T03:53:25+00:00
+ai_modified: 2026-07-10T17:47:34+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -107,6 +107,7 @@ A tension worth stating plainly: agent causation invites the parsimony objection
 - [[spontaneous-intentional-action]]
 - [[phenomenology-of-choice-and-volition]]
 - [[agency-void]]
+- [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] — Davidson's causal theory of action as the physicalist backdrop the Map's dualist account departs from
 
 ## References
 

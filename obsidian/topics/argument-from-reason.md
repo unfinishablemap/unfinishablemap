@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-06-26T01:33:00+00:00
+ai_modified: 2026-07-10T17:47:34+00:00
 draft: false
 last_deep_review: 2026-06-26T01:33:00+00:00
 topics:
@@ -202,6 +202,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [[consciousness-and-normative-force]] - The gap between recognizing a fact and being bound by it requires phenomenal awareness
 - [[epistemic-advantages-of-dualism]] - Why positions that cannot be rationally held are epistemically self-defeating
 - [[eliminative-materialism]] - The limit case of physicalism, where the same self-stultification structure recurs against the denial of belief and intentional content
+- [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] - Davidson's token-physicalism, and why the property-epiphenomenalism charge against it parallels the argument from reason's worry about rational causation
 
 ## References
 

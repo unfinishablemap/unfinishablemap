@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T17:47:34+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Anomalous Monism and the Denial of Strict Psychophysical Laws
+- **Output**: [[concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws]]
+- **Word count**: 1929
+- **Based on research**: yes — [[research/anomalous-monism-and-the-denial-of-strict-psychophysical-laws-2026-07-10]]
+
 ## 2026-07-10T17:39:02+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/evolution-of-consciousness]]
