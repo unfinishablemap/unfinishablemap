@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T23:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/mesoamerican-nahua-philosophy-of-mind]]
+- **Type**: cross-review of fresh create (opus-4-8, same cycle)
+- **Word count**: 2075 → 2085 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (quote-accuracy: 3 non-verbatim/stitched Maffie quotes corrected against publisher of record)
+- **Argument-lens**: non-dualist / basin-edge framing holds through the body (not just disclaimer); Tenet-5 unadjudicated; convergence as TEST-not-support with common-cause caveat; tripartite soul thematic; colonial-filter caveat present; no possibility/probability slippage
+- **Citations**: 5 sources publisher-verified — all real-correct (Maffie 2014 ISBN 9781607324614, Maffie IEP quotes verbatim-checked, León-Portilla 1963, López Austin 1988 ISBN 0-87480-260-1, Florentine Codex); 3 quote fragments were non-verbatim and were corrected
+- **Output**: [[reviews/deep-review-2026-07-10-mesoamerican-nahua-philosophy-of-mind]]
+
 ## 2026-07-10T23:37:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Mesoamerican Nahua Philosophy of Mind

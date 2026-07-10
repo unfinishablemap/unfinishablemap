@@ -4,8 +4,8 @@ description: "Nahua thought made mind and matter guises of one power-in-motion, 
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-07-10T23:35:00+00:00
-last_deep_review: 2026-07-10T23:35:00+00:00
+ai_modified: 2026-07-10T23:50:00+00:00
+last_deep_review: 2026-07-10T23:50:00+00:00
 draft: false
 topics:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
@@ -32,11 +32,11 @@ Two cautions frame everything below. First, "Aztec philosophy" survives only thr
 
 ## Teotl: A World in Motion
 
-The organizing category of Nahua metaphysics, on Maffie's reconstruction, is teotl. Maffie glosses it as "a single, dynamic, vivifying, eternally self-generating and self-regenerating sacred power, energy or force" (Maffie, IEP). Reality consists of one thing and one *kind* of thing—teotl—which Maffie characterizes as "ontological and constitutional monism." Teotl is not a god standing behind the world, nor inert matter awaiting a mover; it is the world, understood as continually active energy-in-motion.
+The organizing category of Nahua metaphysics, on Maffie's reconstruction, is teotl. Maffie glosses it as "a single, dynamic, vivifying, eternally self-generating and self-regenerating sacred power, energy or force" (Maffie, IEP). Reality consists of one thing and one *kind* of thing: teotl. Maffie labels the first thesis "ontological monism"—there exists only one thing—and the second "constitutional monism"—that one thing is all of a single kind, namely power-in-motion. Teotl is not a god standing behind the world, nor inert matter awaiting a mover; it is the world, understood as continually active energy-in-motion.
 
-This is a process metaphysics rather than a substance metaphysics. Teotl, on Maffie's account, is more like a thunderstorm or a flowing river than a static, perduring thing: Nahua thought "embraces a metaphysics of becoming instead of a metaphysics of being." A thing *is* what it *does*. The many gods of the Mexica pantheon are, on this reading, aspects or guises of the one self-unfolding process—a pantheism rather than a polytheism, in which teotl is "both metaphysically immanent and transcendent" (Maffie, IEP): immanent in penetrating every detail of the cosmos, transcendent in never being exhausted by any single existing thing.
+This is a process metaphysics rather than a substance metaphysics. Teotl, on Maffie's account, is more like a thunderstorm or a flowing river than a static, perduring thing: Nahua thought embraces a metaphysics of becoming rather than of being. A thing *is* what it *does*. The many gods of the Mexica pantheon are, on this reading, aspects or guises of the one self-unfolding process—a pantheism rather than a polytheism, in which teotl is "both metaphysically immanent and transcendent" (Maffie, IEP): immanent in penetrating every detail of the cosmos, transcendent in never being exhausted by any single existing thing.
 
-Crucially for philosophy of mind, teotl "transcends dichotomies" that other traditions treat as fundamental—personal versus impersonal, animate versus inanimate, and, by extension, mind versus matter—existing instead as a "seamless totality" (Maffie, IEP). The Western hard problem needs two relata held apart: the physical, characterized structurally, and the phenomenal, characterized by what it is like. Nahua metaphysics, as reconstructed, supplies no such pair. Awareness and stone are teotl in different guises, and the question of how one produces the other has nowhere to lodge.
+Crucially for philosophy of mind, teotl transcends the dichotomies that other traditions treat as fundamental—personal versus impersonal, animate versus inanimate, and, by extension, mind versus matter—existing instead as a "seamless totality" (Maffie, IEP). The Western hard problem needs two relata held apart: the physical, characterized structurally, and the phenomenal, characterized by what it is like. Nahua metaphysics, as reconstructed, supplies no such pair. Awareness and stone are teotl in different guises, and the question of how one produces the other has nowhere to lodge.
 
 ## Olin, Malinalli, Nepantla: The Patterns of Process
 
