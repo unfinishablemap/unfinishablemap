@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T16:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Unfolding Argument Against Causal-Structure Theories of Consciousness
+- **Output**: [[research/unfolding-argument-against-causal-structure-theories-2026-07-10]]
+- **Sources consulted**: 9 (8 verified at publisher/DOI, 1 preprint flagged)
+
 ## 2026-07-10T15:34:45+00:00 - deep-review (OWED-WEB-VERIFY: full 24-cite publisher audit)
 - **Status**: Success (CONTENT fix — 2 citation metadata defects corrected at publisher of record)
 - **File**: [[concepts/consciousness-as-amplifier]]
