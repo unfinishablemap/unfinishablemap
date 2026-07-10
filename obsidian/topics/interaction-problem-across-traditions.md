@@ -134,6 +134,7 @@ The cross-traditional recurrence broadens the warrant for the *problem*—it sho
 
 ## Further Reading
 
+- [[jain-philosophy-of-mind]] — Jain karma-as-subtle-matter as a pre-modern two-way mind-matter interaction model
 - [[history-of-the-interaction-problem]]
 - [[the-hard-problem-in-non-western-philosophy]]
 - [[eastern-philosophy-consciousness]]

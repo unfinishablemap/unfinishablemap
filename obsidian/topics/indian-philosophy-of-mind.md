@@ -156,6 +156,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 
 ## Further Reading
 
+- [[jain-philosophy-of-mind]] — The fourth classical-Indian tradition: substance-pluralist dualism, infinitely many eternal souls, and karma as literal matter
 - [[the-hard-problem-in-non-western-philosophy]] — Cross-cultural convergence on the hard problem
 - [[eastern-philosophy-consciousness]] — Hindu, Buddhist, and Taoist perspectives
 - [[witness-consciousness]] — The *sakshi* tradition in Advaita and Buddhist meditation
