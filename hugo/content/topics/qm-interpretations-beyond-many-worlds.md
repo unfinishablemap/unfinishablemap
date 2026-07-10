@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-24 14:23:30+00:00
+ai_modified: 2026-07-09 22:25:39+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -15,6 +15,7 @@ concepts:
 - '[[concepts/many-worlds]]'
 - '[[qbism]]'
 - '[[relational-quantum-mechanics]]'
+- '[[consistent-histories-interpretation]]'
 - '[[spontaneous-collapse-theories]]'
 - '[[interactionist-dualism]]'
 - '[[atemporal-causation]]'
@@ -120,6 +121,14 @@ This challenge cuts across interpretations—von Neumann-Wigner consciousness-ca
 
 Zurek's quantum Darwinism is the most developed account of the quantum-to-classical transition and the natural extension of the decoherence challenge above. *Einselection* destroys all but the environmentally robust pointer states; redundant encoding then copies pointer-state information into many environmental fragments, so independent observers agree on what they find (Zurek 2009). This answers the preferred-basis problem and explains classical objectivity—but the *problem of outcomes* survives intact. The formalism yields a Born-weighted mixture of pointer states without determining which obtains. The Map reads this residual gap as the selection locus, while honouring the discipline above: quantum Darwinism *leaves room for* a selection role but does not *support* one—the outcome gap is the Map's interpretive overlay, not a result the formalism delivers. Zurek's own leanings are Everettian—the exact contrast this survey exists to draw. Full treatment: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/).
 
+## Consistent Histories: Single-World Realism Without an Observer
+
+The [Consistent (Decoherent) Histories interpretation](/concepts/consistent-histories-interpretation/) (Griffiths 1984; Omnès 1994; Gell-Mann & Hartle 1990) is the natural home for the single-world, observer-free, realist branch of the landscape. It treats quantum mechanics as a stochastic theory of *histories*—time-sequences of properties represented by projectors—and assigns interference-free probabilities only to families of histories meeting a "consistency" (decoherence) condition. There is no collapse, no hidden variable, no fundamental observer, and no many worlds: only one history in a consistent family is realized, and superpositions are denied physical coexistence.
+
+This makes CH a Tenet-4 *ally* against MWI and a Tenet-2 *rival* to consciousness-linked collapse in a single stroke. Its most contested feature is *framework-dependence*: many mutually incompatible consistent families exist for the same system, and no law selects a preferred one. Griffiths' single-framework rule forbids combining incompatible frameworks (blocking paradoxes) but treats the choice among them as pragmatic and question-relative. Dowker and Kent (1996) argue this leaves CH unable to deliver *unconditional* predictions—the unresolved "set-selection problem."
+
+That gap is the seam the Map probes: does framework-dependence leave room for a consciousness-selected framework, or does the single-framework rule exclude it? The discipline matters here—CH proponents deny any selection is *needed*, so a consciousness-selection reading is a possible extension to explore, not a proof and not something CH endorses. The full treatment, including the structural parallel with the measurement problem, is in [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/).
+
 ## Comparative Assessment
 
 | Interpretation | Collapse? | Consciousness Role | Map Compatibility |
@@ -133,6 +142,7 @@ Zurek's quantum Darwinism is the most developed account of the quantum-to-classi
 | GRW/CSL (Φ-modulated) | Physical process | Modulation | High tenet-fit, high speculative cost |
 | Penrose OR | Gravitational | Constituted by collapse | Moderate |
 | Quantum Darwinism | No (outcome gap) | Selection locus left open (Zurek leans Everettian) | Moderate as constraint, low as evidence |
+| Consistent Histories | No (single realized history) | None needed (framework chosen pragmatically); set-selection gap left open | Ally vs MWI, rival vs collapse; low as evidence |
 
 The pattern seems clear. Interpretations that eliminate the observer entirely (Bohmian) or treat observation as purely epistemic (QBism) leave the Map's questions unanswered. Interpretations that preserve real collapse and allow consciousness a role—whether as cause, selector, or modulator—may provide the framework the Map needs, though leaving room is not the same as supplying support.
 
@@ -171,6 +181,7 @@ No interpretation is proven, and the Map does not claim to know which is correct
 - [retrocausality](/concepts/retrocausality/)
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [process-philosophy](/concepts/process-philosophy/) — How actual occasions relate to quantum becoming
+- [Consistent (Decoherent) Histories](/concepts/consistent-histories-interpretation/) — single-world, observer-free realism and the set-selection gap
 - [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/) — Zurek's einselection and the outcome gap as selection locus
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-quantum interaction
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why the indexical gap persists across all interpretations

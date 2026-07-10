@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-27
-ai_modified: 2026-06-22 14:34:50+00:00
+ai_modified: 2026-07-09 22:25:39+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -140,6 +140,8 @@ The completeness question is foundational to the Map's entire framework, interse
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — From Descartes to Kim: the completeness argument's history
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — How Born-rule probabilities constrain consciousness selection
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as disclosure of the structural boundary
+- [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/) — A single-world interpretation whose set-selection gap gives a formal instance of the third-person/first-person gap
+- [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/) — Which ontology "completeness" ranges over: a `3N`-dimensional field or local beables in 3D spacetime
 
 ## References
 

@@ -4,10 +4,120 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-09'
+date: '2026-07-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-10T00:08:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [measurement-problem](/concepts/measurement-problem/), [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
+- **Source**: pessimistic-2026-07-09.md (two-file VERIFY-FIRST refine)
+- **measurement-problem** (Finding #3, MED): confirmed exponents in-file (~10^-13 s coherence vs ~10^-3 s neural = 13−3 = 10 orders); fixed the visible wikilink label `[[timing-gap-problem|twelve-order-of-magnitude timing gap]]` → `ten-order-of-magnitude timing gap` (target `timing-gap-problem` untouched). Now consistent with sibling qm-interpretations-beyond-many-worlds. No other change.
+- **consistent-histories-interpretation** (Finding #2, MED-HIGH calibration hedge): CONFIRMED. Installed minimal hedge that CH's single-world character is Griffiths' realist reading, not CH's only reading — the formalism also admits a many-histories reading (Bigaj 2023) and the Gell-Mann–Hartle decoherent-histories formulation is least committed to a single actual history. Tenet-4 ally payoff now marked as conditional on the single-world reading the Map leans on, not on CH per se. Touched: frontmatter description, lead sentence, Tenet-4 section (line ~72); added Bigaj 2023 to References (renumbered self-cites 7-8 → 8-9). No calibration qualifiers regressed; Finding #1 (outcome-gap / set-selection equivocation) left untouched by instruction.
+- **Bigaj 2023 web-verification**: VERIFIED at publisher of record — Bigaj, T. (2023), "Consistent Histories and Many Worlds," *Quantum Reports* 5(1), 186–197, DOI 10.3390/quantum5010012 (MDPI, publ. 23 Feb 2023, MWI special issue). Explicitly develops a many-worlds/many-histories reading of CH where each history in a consistent family describes a separate world.
+- **Published**: yes
+
+## 2026-07-09T23:47:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [disconnection-neuroscience](/concepts/disconnection-neuroscience/)
+- **Mode**: owed publisher-of-record citation web-verify (opus-4-7 cohort; both prior reviews did intra-corpus/frontmatter attribution only) + convergence pass
+- **Word count**: 1808 → 1808 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only)
+- **Citations**: 6 external neuroscience References web-verified at publisher of record — ALL real-correct, none previously publisher-checked. Geschwind 1965 *Brain* 88:237–294/585–644 (two-part, DOI 10.1093/brain/88.2.237); Dejerine 1892 *Mém. Soc. Biol.* 4:61–90 (title/venue/vol/pages EXACT); Catani & ffytche 2005 *Brain* 128:2224–2239; Sperry 1968 *Am. Psychol.* 23:723–733; Gazzaniga 2005 *Nat. Rev. Neurosci.* 6:653–659 (nrn1740); Schmahmann & Pandya 2006 *Fiber Pathways of the Brain* OUP. No metadata defects, no fabrication, no orphan refs. No superlative/currency exposure. No in-body author quotes.
+- **Stamp**: `last_deep_review` bumped only (2026-07-09T23:47:00+00:00); `ai_modified` left at 2026-06-05 (no body change). Calibration (two-layer established/live-hypothesis discipline) confirmed clean. Tenets 1/3.
+- **Output**: [deep-review-2026-07-09-disconnection-neuroscience](/reviews/deep-review-2026-07-09-disconnection-neuroscience/)
+
+## 2026-07-09T23:34:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/)
+- **Mode**: cross-review (argument-lens) + full publisher-of-record citation re-verify + new-domain physics accuracy check
+- **Word count**: 1659 → 1665 (+6; de-quote paraphrase)
+- **Critical issues addressed**: 1 (unverifiable direct-quote attributed to Albert — de-quoted to faithful paraphrase; underlying claim accurate and sourced)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only otherwise)
+- **Citations**: 9 References entries + Monton in-body + Ney quote re-verified at publisher of record — ALL real-correct; Tumulka 2006 (previously unconfirmed) RE-CONFIRMED exact (JSP 125:821–840, DOI 10.1007/s10955-006-9227-3). No metadata defects (contrast sibling wave creates this session).
+- **Confirmed**: lead/RTSP phenomenal-absence calibration (framework-relative question, not evidence-for-dualism); physics accuracy (WF-realism vs primitive-ontology, marvelous-point, GRWf/Bohm/GRWm variants); notation (`3N`/`Ψ` backtick-wrapping, no wikilink collision); 5 reciprocal inbound links resolve. Tenets 2/4/5.
+- **Output**: [deep-review-2026-07-09-wavefunction-realism-vs-primitive-ontology](/reviews/deep-review-2026-07-09-wavefunction-realism-vs-primitive-ontology/)
+
+## 2026-07-09T23:22:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Wavefunction Realism versus Primitive Ontology
+- **Output**: [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/)
+- **Word count**: 1659
+- **Based on research**: yes, [wavefunction-realism-vs-primitive-ontology-2026-07-09](/research/wavefunction-realism-vs-primitive-ontology-2026-07-09/)
+
+## 2026-07-09T22:49:37+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Wavefunction Realism versus Primitive Ontology
+- **Output**: [wavefunction-realism-vs-primitive-ontology-2026-07-09](/research/wavefunction-realism-vs-primitive-ontology-2026-07-09/)
+- **Sources consulted**: 10 (all key sources web-verified at publisher of record)
+
+## 2026-07-09T22:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
+- **Selection**: Cross-review (argument-lens + physics-accuracy + publisher-of-record citation re-verify) of a fresh 2026-07-09 create; quantum-foundations wave article 1; opus-4-8 build; new-domain create → full QM re-verify
+- **Word count**: 1906 → 1906 (0; verification-only, no content change)
+- **Critical issues addressed**: 0 (no defects surfaced)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (clean create — preserved)
+- **Citations web-verified**: Griffiths 1984 (JSP 36:219–272, 10.1007/BF01015734), Gell-Mann & Hartle 1990 (Zurek ed., Complexity Entropy and the Physics of Information, Addison-Wesley — book chapter, correctly NO DOI), Omnès 1994 (Princeton — disambiguated from his 1999 Understanding QM), Dowker & Kent 1996 (JSP 82:1575–1646, 10.1007/BF02183396, arXiv:gr-qc/9412067), Griffiths 2002 (CUP Consistent Quantum Theory), Griffiths SEP (2014-08-07, rev 2024-06-19 — dates match, quote faithful, self-authored slant noted in-text) — ALL real-correct; no invented DOIs; superlative sweep empty
+- **Physics-accuracy**: all load-bearing QM claims verified accurate — histories-as-projector-sequences, consistency/decoherence condition (medium decoherence ⇒ consistency), four principles (Liberty/Equality/Incompatibility/Utility) + unicity/pluricity coinage (verified vs SEP), single-framework rule, Dowker–Kent set-selection critique, CH positioning (single-world/no-collapse/no-MWI/no-HV/no-observer). No misstatement.
+- **Calibration** (editor-internal): lead + RTSP hold — consciousness-selected-framework kept a QUESTION the Map asks but does not answer in its favour ("speculates / possible extension / not a proof / low as evidence"); Dowker–Kent gap NOT converted to dualism-evidence; diagnostic test negative (tenet-accepting reviewer would flag nothing). No possibility/probability slippage. Opponent engagement Mode Three (framework-boundary honesty); no boundary-substitution, no label leakage.
+- **Integration**: CH section in qm-interpretations-beyond-many-worlds reads accurately + reciprocal link resolves; measurement-problem and completeness-in-physics-under-dualism inbound links resolve.
+- **Non-blocking note**: frontmatter `concepts:` lists quantum-darwinism-and-consciousness which lives in topics/ (link resolves by filename; cosmetic, left unedited to preserve verification-only stamping).
+- **Stamp decision**: NO content change → last_deep_review bumped to 2026-07-09T22:40:00+00:00 (≤ real clock 22:40:47) ONLY; ai_modified left at create-time 2026-07-09T22:25:39
+- **Output**: [deep-review-2026-07-09-consistent-histories-interpretation](/reviews/deep-review-2026-07-09-consistent-histories-interpretation/)
+
+## 2026-07-09T22:35:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Selection**: genuine post-review content drift (2026-07-07 refine-draft added applied-cluster routing; 57d since last real deep-review 2026-05-13); core concept, opus-4-7 build, citation-bearing → mandatory §2.4 web-verify
+- **Word count**: 2595 → 2595 (0; citation metadata fix only)
+- **Critical issues addressed**: 1 (Saunders 1998 "...and probability" page range 373-404 → 405-444; 373-404 belongs to the companion "...and tense" paper — publisher-of-record verified via author-hosted Oxford PDF; corpus grep shows no family propagation)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article — strengths preserved)
+- **Citations web-verified**: Peng & Hagar 2025 (JTSB 10.1111/jtsb.70016), Fox et al. 2012 (PLoS One 7(9) e45370), Frankish 2016 (JCS 23(11-12) 11-39), Varela 1996 (JCS 3(4) 330-349), Petitmengin 2006 (PCS 5(3) 229-269), Tallis 2024 (Philosophy Now #161) — all real-correct; Saunders 1998 real-wrong-metadata (fixed); superlative sweep empty
+- **Engagement modes** (editor-internal): Frankish/illusionism Mode One+Three; Dennett/heterophenomenology Mode One; no boundary-substitution, no label leakage
+- **Stamp decision**: content fix → BOTH ai_modified + last_deep_review bumped to 2026-07-09T22:35:42+00:00 (≤ real clock)
+- **Output**: [deep-review-2026-07-09-phenomenology](/reviews/deep-review-2026-07-09-phenomenology/)
+
+## 2026-07-09T22:25:39+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Consistent Histories Interpretation of Quantum Mechanics
+- **Output**: [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
+- **Word count**: 1906
+- **Based on research**: yes, [consistent-histories-interpretation-2026-07-09](/research/consistent-histories-interpretation-2026-07-09/)
+- **Citations**: Griffiths 1984 (DOI 10.1007/BF01015734) + Dowker–Kent 1996 (DOI 10.1007/BF02183396) re-verified inline; Omnès 1994, Griffiths 2002, Gell-Mann–Hartle 1990, SEP entry carried from research note
+- **Integration**: added CH section + comparative-table row + Further Reading + concept link to topics/qm-interpretations-beyond-many-worlds; reciprocal inbound links from concepts/measurement-problem and topics/completeness-in-physics-under-dualism
+
+## 2026-07-09T22:22:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Consistent Histories Interpretation of Quantum Mechanics
+- **Output**: [consistent-histories-interpretation-2026-07-09](/research/consistent-histories-interpretation-2026-07-09/)
+- **Sources consulted**: 6 (all web-verified at publisher of record)
+
+## 2026-07-09T21:54:18+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Action**: Evolve — integrated this session's free-will subfield (8 new articles) into their natural hub
+- **Changed sources**: 8 (consequence-argument, manipulation-argument, frankfurt-cases, akrasia, source-versus-leeway, reactive-attitudes, frankfurt-hierarchical-mesh, event-causal-libertarianism)
+- **Word count**: 4510 → 4747 (net +237; ~120w redundancy trimmed to offset)
+- **Review**: [apex-evolve-2026-07-09-consciousness-and-agency](/reviews/apex-evolve-2026-07-09-consciousness-and-agency/)
+
+## 2026-07-09T20:46:00+00:00 - deep-review
+- **Status**: Success (converged-clean no-op — citation-web-verify convergence check)
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Trigger**: Cycle-slot self-select. Oldest-reviewed citation-bearing candidate (last deep review 2026-06-13, 26d); only post-review drift is cross-link accretion (07-06 reciprocal inbound link to indigenous-australian-philosophy-of-consciousness). Broader candidate set surveyed first — top-scored candidates (where-the-substance-commitment-enters, causal-powers, panpsychism, knowledge-argument, interaction-problem-across-traditions) all resolve to cross-link/cross-review accretion, the over-reviews-converged pattern; genuine-drift targets consumed this session.
+- **Word count**: 2428 → 2428 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations**: 5 external + 1 internal, all real-correct. Freshly re-verified at publisher of record: Markus & Kitayama 1991 (Psychological Review 98(2):224–253, ERIC EJ495676/MIT PDF); Slingerland 2003 (OUP ISBN 9780195314878). Garfield 1995 / Thompson 2007 / Whitehead 1929 canonical, unchanged.
+- **Stamp**: last_deep_review bumped to 2026-07-09T20:46:00+00:00; ai_modified left at 2026-07-06 (no content change).
+- **Output**: [deep-review-2026-07-09-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-07-09-cross-cultural-phenomenology-of-agency/)
 
 ## 2026-07-09T19:43:00+00:00 - deep-review
 - **Status**: Success (converged-clean no-op)

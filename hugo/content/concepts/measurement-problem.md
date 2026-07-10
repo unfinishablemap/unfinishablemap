@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-20 06:05:00+00:00
+ai_modified: 2026-07-10 00:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,7 +36,7 @@ description: 'Quantum mechanics'' central puzzle: why measurement yields definit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 06:05:00+00:00
+last_deep_review: 2026-07-10 00:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -134,7 +134,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 [Mental effort](/concepts/mental-effort/) protracts desired neural assemblies through the quantum Zeno effect—rapid, repeated observation preventing state evolution. This is consciousness selecting among quantum possibilities, not causing collapse from outside physics. The framework has an implicitly [retrocausal](/concepts/retrocausality/) dimension: the Zeno effect selects trajectories the system would not have followed under free evolution, compatible with [atemporal selection](/concepts/retrocausality/#the-atemporal-selection-model).
 
-**Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds), a [twelve-order-of-magnitude timing gap](/concepts/timing-gap-problem/). Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but the mechanism generating such rapid observations in a warm brain remains unspecified.
+**Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds), a [ten-order-of-magnitude timing gap](/concepts/timing-gap-problem/). Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but the mechanism generating such rapid observations in a warm brain remains unspecified.
 
 **The Map's position**: The Map's claim here is *structural*, not mechanistic: the measurement problem creates conceptual space for consciousness-selection where deterministic physics offers none—defending the *coherence* of the proposal, not establishing its truth, since no Zeno mechanism in a warm brain has been specified. This mechanistic modesty is distinct from the interpretive claim the disclosure reading advances later (that the gap is a boundary in reality); the two are not competing ceilings on one claim but different claims at different grades of support.
 
@@ -211,8 +211,10 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness couples to physics
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel-quantum connections via Lawvere's theorem
+- [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/) — What the wavefunction *is*: real high-dimensional field versus law over local beables in 3D
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Comparative assessment of interpretations' consciousness compatibility
+- [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/) — The single-world, observer-free reading that claims to dissolve the measurement problem
 - [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental causation](/concepts/mental-causation-and-downward-causation/) — The broader framework
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — Coordination puzzles
 - [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/) — How Zurek's framework specifies the menu while leaving the outcome gap open

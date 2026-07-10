@@ -19,7 +19,7 @@ description: How cultural frameworks shape the felt experience of authorship and
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-13 23:32:00+00:00
+last_deep_review: 2026-07-09 20:46:00+00:00
 modified: *id001
 related_articles:
 - '[[diachronic-agency-and-personal-narrative]]'

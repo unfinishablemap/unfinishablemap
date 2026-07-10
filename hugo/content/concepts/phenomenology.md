@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-07 19:15:18+00:00
+ai_modified: 2026-07-09 22:35:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -35,7 +35,7 @@ description: The philosophical method of investigating consciousness through sys
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 19:38:00+00:00
+last_deep_review: 2026-07-09 22:35:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -200,6 +200,6 @@ For the method above applied to specific domains, see the applied phenomenology 
 1. Peng, R., & Hagar, A. (2025). Why cognitive science needs phenomenology: Rethinking the epistemology of consciousness through intuitive dualism. *Journal for the Theory of Social Behaviour*. Advance online publication. https://doi.org/10.1111/jtsb.70016
 1. Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
 1. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
-1. Saunders, S. (1998). Time, quantum mechanics, and probability. *Synthese*, 114(3), 373-404.
+1. Saunders, S. (1998). Time, quantum mechanics, and probability. *Synthese*, 114(3), 405-444.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
