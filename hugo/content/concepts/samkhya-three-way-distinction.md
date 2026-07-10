@@ -127,6 +127,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 
 ## Further Reading
 
+- [jain-philosophy-of-mind](/topics/jain-philosophy-of-mind/) — the neighbouring dualist-pluralist tradition, whose active soul contrasts with Samkhya's passive witness
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Samkhya, Nyaya, and Vedanta compared
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Cross-cultural convergence on irreducibility
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Non-Western solutions to mind-body interaction

@@ -118,6 +118,7 @@ The interface formalism concept connects directly to the Map's foundational comm
 - [interface-formalization-void](/voids/interface-formalization-void/) — Whether the specification gap is closable in principle
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule's underivability constrains the formalism
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Shows delegation satisfies Born-rule preservation (Constraint 1) structurally
+- [the-unfolding-argument-against-causal-structure-theories-of-consciousness](/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/) — Why a structural physicalist theory (IIT) that ties consciousness to internal causal structure faces a false-or-unfalsifiable dilemma; contrast with the interface formalism's mode C
 
 ## References
 

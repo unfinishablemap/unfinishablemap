@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-06
-ai_modified: 2026-07-07 03:53:25+00:00
+ai_modified: 2026-07-10 17:47:34+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -110,6 +110,7 @@ A tension worth stating plainly: agent causation invites the parsimony objection
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
 - [agency-void](/voids/agency-void/)
+- [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) — Davidson's causal theory of action as the physicalist backdrop the Map's dualist account departs from
 
 ## References
 

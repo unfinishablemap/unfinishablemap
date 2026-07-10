@@ -174,6 +174,7 @@ The mathematical structure of the consciousness-physics interface connects direc
 - [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/) — Research notes on what has and has not been tested, and which consciousness-collapse theorists require Born-violating physics
 - [trumping-preemption](/concepts/trumping-preemption/) — Schaffer's structural template for authority-without-trajectory-change, as a corridor-bypassing alternative
 - [delegatory-causation](/concepts/delegatory-causation/) — Saad's developed application: experiences authoritatively cause what their physical bases would independently suffice to produce
+- [the-unfolding-argument-against-causal-structure-theories-of-consciousness](/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/) — The unfolding argument and Kleiner & Tull's formalisation of IIT's mathematics, distinct from the experience-space formalism surveyed here
 
 ## References
 

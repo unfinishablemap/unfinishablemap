@@ -203,6 +203,7 @@ Publishing a falsification roadmap is itself an expression of the [tenets](/tene
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — Worked design-space exhibit of the roadmap's discipline at the memory-hierarchy tier: which focal-lesion or focal-stimulation experiments could discriminate production from filter readings, and why the existing data cannot yet deliver them
 - [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — The direction-axis discriminating-test design: a reversible focal perturbation applied in closing and reopening phases, whose channel orderings the rival readings predict oppositely
 - [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/) — The under-anaesthesia discriminating test as a falsification handle: it separates substrate-intact from substrate-damaged deficits robustly, but its reach into interface-vs-intra-cerebral is exactly where the roadmap's discipline applies
+- [the-unfolding-argument-against-causal-structure-theories-of-consciousness](/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/) — The formal false-or-unfalsifiable dilemma for IIT-style structural physicalism; a distinct sibling of the falsifiability challenges catalogued here, and a Tenet 5 case study
 
 ## References
 

@@ -5,7 +5,7 @@ ai_modified: 2026-06-02 16:22:55+00:00
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-06-02'
+date: '2026-07-10'
 draft: false
 human_modified: null
 related_articles: []
@@ -183,7 +183,7 @@ Overgaard, M., & Fazekas, P. (2022). "The Nature of Blindsight: Implications for
 
 Peters, M. A. K., & Lau, H. (2015). "Human Observers Have Optimal Introspective Access to Perceptual Processes Even for Visually Masked Stimuli." *eLife*, 4, e09651.
 
-Pitts, M. A., Metzler, S., & Hillyard, S. A. (2019). "Recurrent Processing Theory Versus Global Neuronal Workspace Theory: A Comment on 'The Relationship Between Attention and Consciousness: An Expanded Taxonomy and Implications for "No-Report" Paradigms.'" *Neuroscience of Consciousness*, 2019(1), niz005. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC6460080/
+Montemayor, C., & Haladjian, H. H. (2019). "Recurrent Processing Theory Versus Global Neuronal Workspace Theory: A Comment on 'The Relationship Between Attention and Consciousness: An Expanded Taxonomy and Implications for "No-Report" Paradigms' by Pitts et al." *Philosophical Transactions of the Royal Society B*, 374(1770), 20180517. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC6460080/
 
 Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). "Neural Correlates of Unconscious Processing in Functional Magnetic Resonance Imaging: Does Brain Activity Contain More Information Than Can Be Consciously Reported?" *Neuroscience of Consciousness*, 2025(1), niaf042. Available at: https://academic.oup.com/nc/article/2025/1/niaf042/8320572
 

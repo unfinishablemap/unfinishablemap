@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-05-28 21:46:49+00:00
+ai_modified: 2026-07-10 17:39:02+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'When did consciousness arise? Dualism avoids the strong emergence 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 00:00:00+00:00
+last_deep_review: 2026-07-10 17:39:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ Each possibility faces challenges. Panpsychism must explain [how micro-experienc
 
 ### The Phylogenetic Evidence
 
-The **Cambridge Declaration (2012)** affirmed that mammals, birds, and many invertebrates possess neurological substrates that generate consciousness. The **New York Declaration (2024)** extended this to "strong scientific support" for consciousness in all vertebrates and "realistic possibility" for many invertebrates including cephalopods, crustaceans, and insects.
+The **Cambridge Declaration (2012)** affirmed that mammals, birds, and many invertebrates possess neurological substrates that generate consciousness. The **New York Declaration (2024)** affirmed "strong scientific support" for consciousness in mammals and birds, and "a realistic possibility" of it in all other vertebrates (reptiles, amphibians, fishes) and many invertebrates including cephalopods, crustaceans, and insects.
 
 But neural correlates don't determine when consciousness first emerged. The scattered phylogenetic distribution—cephalopod consciousness evolved independently of vertebrate consciousness—suggests either (a) consciousness emerged multiple times through convergent evolution, or (b) consciousness was present in common ancestors and retained differentially.
 

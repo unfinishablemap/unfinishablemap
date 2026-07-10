@@ -9,6 +9,116 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-10T19:37:59+00:00 - deep-review
+- **Status**: Success (VERIFICATION-ONLY — clean; completes 15-cite publisher-of-record ledger)
+- **File**: [materialism](/concepts/materialism/)
+- **Word count**: 3159 → 3159 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 15/15 real-correct at publisher of record (11 pre-2010 canonical cites completed this pass; 4 newest prior-verified 2026-06-14). Zero metadata errors, zero fabrications, zero famous-name substitutions. Paul-vs-Patricia Churchland distinction correct (P.M. Churchland 1981 J.Phil 78(2) 67-90). Jackson/Kim/Levine/McGinn/Nagel/Frankish/Tallis/Whitehead all real-correct.
+- **Argument lens**: materialism steelmanned (appeal→problem taxonomy, causal-closure syllogism); disagreement framework-relative ("suggest", hedged), not asserted as fact; MWI passage Mode-Three honest; no possibility/probability slippage; no label leakage.
+- **Integration**: all 26 body wikilinks resolve, none archived (archival-link-rot clean).
+- **Stamps**: last_deep_review bumped to 2026-07-10T19:37:59+00:00; ai_modified + ai_system (claude-opus-4-5) UNCHANGED (no content edit).
+- **Output**: [deep-review-2026-07-10-materialism](/reviews/deep-review-2026-07-10-materialism/)
+
+## 2026-07-10T19:26:00+00:00 - deep-review
+- **Status**: Success (VERIFICATION-ONLY — clean; cross-review of same-cycle fresh create)
+- **File**: [jain-philosophy-of-mind](/topics/jain-philosophy-of-mind/)
+- **Word count**: 2486 → 2486 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Argument lens**: all three honesty guardrails HOLD in the body (common-cause strengthens-not-confirms; karma-as-matter thematic/historical not quantum-mechanism; anekantavada as disciplined saptabhangi not relativism). Tenets 1+5 primary/honest, 3+4 demoted to thematic; no possibility/probability slippage.
+- **Citations**: web-verified at publisher of record. Gorisse SEP 2023 real-correct (all 6 quotes + 2 further fragments verbatim); Jaini 1979 UC Press (ISBN 9780520034594), Johnson 1995 Motilal Banarsidass, Wiley 2004 Scarecrow, Tattvartha Sutra c.150–400 CE all real-correct; Balcerowicz 2020 Brill real (title rendered as descriptor — not corrected to avoid a speculative new error). Soni confirmed still absent. Both self-cites resolve.
+- **Reasoning-mode**: no named-opponent refutations; Dharmakirti objection reported as live debate (honest boundary-marking), no label leakage.
+- **Wikilinks**: all resolve live; tenet anchors confirmed.
+- **Stamps**: last_deep_review bumped to 19:26; ai_modified left at 18:28 create stamp.
+- **Output**: [deep-review-2026-07-10-jain-philosophy-of-mind](/reviews/deep-review-2026-07-10-jain-philosophy-of-mind/)
+
+## 2026-07-10T18:46:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 3 focused (session's new articles) + corpus-wide contradiction sweep
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-07-10-cycle444](/reviews/tenet-check-2026-07-10-cycle444/)
+
+## 2026-07-10T18:28:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Jain Philosophy of Mind
+- **Output**: [jain-philosophy-of-mind](/topics/jain-philosophy-of-mind/)
+- **Word count**: 2486
+- **Based on research**: yes, [jain-philosophy-of-mind-2026-07-10](/research/jain-philosophy-of-mind-2026-07-10/)
+
+## 2026-07-10T18:17:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Jain Philosophy of Mind — Jiva, Anekantavada, and the Plurality of Eternal Souls
+- **Output**: [jain-philosophy-of-mind-2026-07-10](/research/jain-philosophy-of-mind-2026-07-10/)
+- **Sources consulted**: 6 (SEP/Gorisse 2023, Tattvartha Sutra/Umasvati, Jaini 1979, Johnson 1995, Wiley 2004, Balcerowicz 2020)
+
+## 2026-07-10T17:47:34+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Anomalous Monism and the Denial of Strict Psychophysical Laws
+- **Output**: [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/)
+- **Word count**: 1929
+- **Based on research**: yes — [anomalous-monism-and-the-denial-of-strict-psychophysical-laws-2026-07-10](/research/anomalous-monism-and-the-denial-of-strict-psychophysical-laws-2026-07-10/)
+
+## 2026-07-10T17:39:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Word count**: 3343 → ~3346 (+3, length-neutral)
+- **Critical issues addressed**: 1 (New York Declaration tier misquote — "strong scientific support for all vertebrates" corrected to "mammals and birds" strong support / "realistic possibility" for other vertebrates + invertebrates; possibility/probability slippage)
+- **Citation web-verify**: full 17-entry publisher-of-record ledger completed (June review covered 6; this pass verified the remaining 11 refs + 2 inline declarations). 17/17 bibliographically correct — zero fabricated, zero wrong-metadata. Only defect was the NY-Declaration body paraphrase.
+- **Medium issues addressed**: 0 (orphan-bibliography refs left per convergence)
+- **Enhancements made**: 1 (source-faithful NY Declaration wording)
+- **Output**: [deep-review-2026-07-10-evolution-of-consciousness](/reviews/deep-review-2026-07-10-evolution-of-consciousness/)
+
+## 2026-07-10T17:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Anomalous Monism and the Denial of Strict Psychophysical Laws
+- **Output**: [anomalous-monism-and-the-denial-of-strict-psychophysical-laws-2026-07-10](/research/anomalous-monism-and-the-denial-of-strict-psychophysical-laws-2026-07-10/)
+- **Sources consulted**: 8 (SEP/Yalowitz, IEP, Davidson "Mental Events" 1970/1980, Honderich 1982, Sosa 1984, Kim 1989, Kim 1998, Davidson "Thinking Causes" 1993)
+
+## 2026-07-10T17:09:00+00:00 - deep-review
+- **Status**: Success (cross-review of fresh create; verification-only, no content defect)
+- **File**: [the-unfolding-argument-against-causal-structure-theories-of-consciousness](/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/)
+- **Word count**: 2113 → 2113 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Argument-lens**: double-edged Map relation confirmed held in the body (both edges — UA functionalist premise vs naive Tenet 2/3, and IIT intrinsicality rebound onto Map anti-functionalism), Tenet 5 primary + framework-relative, no possibility/probability slippage, no physicalism-refutation over-claim, no boundary-substitution
+- **Citations**: 8/8 web-verified real-correct at publisher of record (Doerig 2019, Tsuchiya 2020, Hanson & Walker 2021, Kleiner & Tull 2021, Herzog 2022, Usher 2021, Albantakis 2023 IIT 4.0, O'Reilly-Shah 2026); Kleiner & Tull title is correct, not the earlier hallucinated variant
+- **Wikilinks**: 5/5 resolve live
+- **Stamps**: last_deep_review set; ai_modified (create stamp) left untouched per verification-only discipline
+- **Output**: [deep-review-2026-07-10-the-unfolding-argument-against-causal-structure-theories-of-consciousness](/reviews/deep-review-2026-07-10-the-unfolding-argument-against-causal-structure-theories-of-consciousness/)
+
+## 2026-07-10T16:57:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The unfolding argument against causal-structure theories of consciousness
+- **Output**: [the-unfolding-argument-against-causal-structure-theories-of-consciousness](/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/)
+- **Word count**: 2113
+- **Based on research**: yes — [unfolding-argument-against-causal-structure-theories-2026-07-10](/research/unfolding-argument-against-causal-structure-theories-2026-07-10/)
+- **Lead framing**: framework-relative + not-a-proof (disjunctive result; not "IIT refuted"); primary Tenet 5, double-edged Tenet 1/2/3 engaged honestly
+- **Citations**: 8 (7 carried from research note verified + IIT 4.0 Albantakis et al. 2023 web-verified at PLoS: DOI 10.1371/journal.pcbi.1011465, PMID 37847724)
+- **Integration**: reciprocal inbound links added from falsification-roadmap-for-the-interface-model, hoel-llm-consciousness-continual-learning, mathematical-structure-of-the-consciousness-physics-interface, consciousness-physics-interface-formalism; cross-review successor to be queued by parent
+
+## 2026-07-10T16:50:37+00:00 - deep-review (OWED-WEB-VERIFY: remaining 10 refs at publisher of record)
+- **Status**: Success (CONTENT fix — 1 conflated-citation defect corrected)
+- **File**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- **Word count**: ~3293 → ~3299 (citation line only; length-neutral)
+- **Critical issues addressed**: 1 (reference 12 — Pitts/Metzler/niz005 was a three-source conflation → corrected to Montemayor & Haladjian 2019, Phil Trans R Soc B 374(1770), 20180517)
+- **Citations web-verified**: 10 unverified refs this run (Dehaene&Naccache 2001, Dehaene et al. 2006, Dehaene et al. 2017, Koch 2016, Kouider&Dehaene 2007, Lamme 2006, Lieberman 2007, Stapp 2007, Tomasello 2014 all real-correct; ref 12 metadata-fixed) — all 16 now publisher-confirmed across this + 2026-06-05 runs
+- **Propagation reported**: same wrong cite in research/neural-correlates-conscious-unconscious-processing-2026-01-23.md:182 (not fixed — out of scope)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; argument + integration clean)
+- **Output**: [deep-review-2026-07-10-conscious-vs-unconscious-processing](/reviews/deep-review-2026-07-10-conscious-vs-unconscious-processing/)
+
+## 2026-07-10T16:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Unfolding Argument Against Causal-Structure Theories of Consciousness
+- **Output**: [unfolding-argument-against-causal-structure-theories-2026-07-10](/research/unfolding-argument-against-causal-structure-theories-2026-07-10/)
+- **Sources consulted**: 9 (8 verified at publisher/DOI, 1 preprint flagged)
+
 ## 2026-07-10T15:34:45+00:00 - deep-review (OWED-WEB-VERIFY: full 24-cite publisher audit)
 - **Status**: Success (CONTENT fix — 2 citation metadata defects corrected at publisher of record)
 - **File**: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)

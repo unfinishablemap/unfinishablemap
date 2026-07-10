@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-26 01:33:00+00:00
+ai_modified: 2026-07-10 17:47:34+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -204,6 +204,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) - The gap between recognizing a fact and being bound by it requires phenomenal awareness
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) - Why positions that cannot be rationally held are epistemically self-defeating
 - [eliminative-materialism](/topics/eliminative-materialism/) - The limit case of physicalism, where the same self-stultification structure recurs against the denial of belief and intentional content
+- [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) - Davidson's token-physicalism, and why the property-epiphenomenalism charge against it parallels the argument from reason's worry about rational causation
 
 ## References
 

@@ -167,6 +167,7 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)—that
 
 ## Further Reading
 
+- [jain-philosophy-of-mind](/topics/jain-philosophy-of-mind/) — a premise-diverse fourth Indian data point: substance-pluralist dualism converging on irreducibility, held under the same common-cause caveat
 - [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) — the basin edge expounded on its own terms: the deep tradition that shares the introspective architecture but never generates the irreducibility finding
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
