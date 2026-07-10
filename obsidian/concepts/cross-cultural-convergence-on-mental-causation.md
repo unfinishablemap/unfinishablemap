@@ -4,7 +4,7 @@ description: "Independent philosophical traditions across India, Africa, and the
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-04T23:00:22+00:00
+ai_modified: 2026-07-10T07:39:05+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-06-04T23:00:22+00:00
+last_deep_review: 2026-07-10T07:39:05+00:00
 ---
 
 Philosophical traditions that developed in isolation—Indian, African, and Western—independently concluded that consciousness causally influences the physical world. This cross-cultural convergence on [[mental-causation-and-downward-causation|mental causation]] is evidentially significant. When independent lines of inquiry reach the same conclusion through different methods and frameworks, the probability that all are wrong drops substantially. The pattern supports [[interactionist-dualism]] not through any single tradition's authority, but through the collective weight of independent discovery.
@@ -124,7 +124,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is also relevant. T
 ## References
 
 1. Barrett, H.C. et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6).
-1. Barlev, M. & Shtulman, A. (2021). "Minds, Bodies, Spirits, and Gods: Does Widespread Belief in Disembodied Beings Imply That We Are Innate Dualists?" *Psychological Review*, 128(6): 1007-1021.
+1. Barlev, M. & Shtulman, A. (2021). "Minds, Bodies, Spirits, and Gods: Does Widespread Belief in Disembodied Beings Imply That We Are Inherent Dualists?" *Psychological Review*, 128(6): 1007-1021.
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Gyekye, K. (1995). *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Temple University Press.

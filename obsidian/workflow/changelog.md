@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T07:39:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cross-cultural-convergence-on-mental-causation]]
+- **Mode**: Owed-web-verify seam. Opus-4-6-cohort citation-bearing concept; 5 prior reviews (2026-02-24 → 2026-06-04) all intra-corpus/sister-article only — first-ever publisher-of-record verify of all 6 references this pass.
+- **Word count**: 2168 → 2168 (length-neutral; single-word title correction, 87% of soft threshold)
+- **Critical issues addressed**: 1 (Barlev & Shtulman 2021 title metadata: "Innate" → "Inherent" Dualists; verified at PhilPapers/ResearchGate/author copy, DOI 10.1037/rev0000298. Venue/vol/pages were already correct. Survived 5 reviews incl. one that fixed the journal name but not the title.)
+- **Citation ledger** (all publisher-verified): Barrett et al. 2021 *Cognitive Science* 45(6) e12992 (Wiley DOI 10.1111/cogs.12992 + PubMed 34170020) — correct; Barlev & Shtulman 2021 *Psych Review* 128(6):1007-1021 — title fixed; Bloom 2004, Kim 2005, Gyekye 1995 (Temple UP rev. ed.), Larson & Bhattacharya (Samkhya, Motilal) — all real-correct. No superlative claims (conceptual article).
+- **Medium issues addressed**: 0 (content converged; coherence-vs-evidential-status calibration from prior passes intact)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-10-cross-cultural-convergence-on-mental-causation]]
+
 ## 2026-07-10T06:47:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]]
