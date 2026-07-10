@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T17:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Anomalous Monism and the Denial of Strict Psychophysical Laws
+- **Output**: [[research/anomalous-monism-and-the-denial-of-strict-psychophysical-laws-2026-07-10]]
+- **Sources consulted**: 8 (SEP/Yalowitz, IEP, Davidson "Mental Events" 1970/1980, Honderich 1982, Sosa 1984, Kim 1989, Kim 1998, Davidson "Thinking Causes" 1993)
+
 ## 2026-07-10T17:09:00+00:00 - deep-review
 - **Status**: Success (cross-review of fresh create; verification-only, no content defect)
 - **File**: [[concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness]]
