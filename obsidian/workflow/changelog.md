@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T11:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/capgras-delusion-and-the-affective-recognition-channel]]
+- **Mode**: cross-review (argument lens) of a fresh create, run as deep-review
+- **Word count**: 2027 → 2061 (+34)
+- **Critical issues addressed**: 1 (Factor-1 section conflated two distinct "insufficiencies" — grounded metaphysical modesty in the two-factor model when the two-factor model grounds the clinical delusion-insufficiency; disentangled: clinical → two-factor, metaphysical → physicalist-rival underdetermination)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article already well-calibrated; lead framework-relative + physicalist rival left standing, Factor-1 narrowness held, Corlett live, no recognition-void duplication, integration chain complete)
+- **Citations**: unchanged (web-verified at publisher during create pass; not re-litigated)
+- **Output**: [[reviews/deep-review-2026-07-10-capgras-delusion-and-the-affective-recognition-channel]]
+
 ## 2026-07-10T11:16:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Cross-cultural / contemplative philosophy-of-mind cluster (Chinese, Indian/Sāṃkhya-Nyāya-Vedānta, Samkhya three-way distinction, contemplative-epistemology, non-Western hard problem, cross-traditional convergence, Buddhist, Eastern-philosophy survey, interaction-problem-across-traditions, Islamic Sufi)

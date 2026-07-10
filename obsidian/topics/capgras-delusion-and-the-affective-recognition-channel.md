@@ -4,7 +4,7 @@ description: "A human+AI reading of Capgras delusion as a selective disconnectio
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-07-10T11:04:00+00:00
+ai_modified: 2026-07-10T11:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-10
 last_curated:
+last_deep_review: 2026-07-10T11:26:00+00:00
 ---
 
 On the Map's interface picture, Capgras delusion is read as a selective disconnection of the **affective-familiarity channel**: the felt "mineness" or warmth that normally accompanies the sight of a loved one is severed while perceptual identification of the face stays intact. The patient looks at a spouse, correctly registers every feature, and concludes the person is an impostor — because the face is seen but no longer *felt*. This reading treats felt familiarity as a distinct contribution to recognition that can fail on its own, which is consistent with the Map's claim that experience has separable channels. It is not a demonstration that the channel is non-physical. A fully physicalist account — recognition as a bundle of information-processing streams, one of which happens to be damageable — explains the same clinical data, and that rival is left standing throughout this article. What Capgras supplies is a clean instance of felt familiarity coming apart from perceptual identification; what it does not supply is a verdict on the metaphysics of that separation.
@@ -53,7 +54,7 @@ An absent autonomic signal is a strange feeling, not yet a fixed false belief. M
 
 The model separates two deficits. **Factor 1** is the anomalous datum — here, the absent affective-familiarity signal. **Factor 2** is a separate impairment of belief evaluation, associated with right frontal (right dorsolateral prefrontal) damage, that lets the impostor hypothesis be adopted and then held against overwhelming counter-evidence. Factor 1 supplies the anomaly; Factor 2 is why an otherwise-rational person fails to reject the extraordinary explanation of it. The dissociation between the two is itself evidenced: some patients with ventromedial damage report the felt strangeness of familiar faces without forming any delusion, because their belief-evaluation stays intact.
 
-**Only Factor 1 is the Map's territory.** The channel-decomposition claim concerns the existence and separability of the felt-familiarity contribution — the anomalous datum, and the autonomic evidence for it. Factor 2, the belief-evaluation deficit that converts anomaly into fixed delusion, is a reasoning pathology the Map takes no position on; it is named here as the completion of the clinical explanation, not as evidence for interface architecture. Keeping the claim this narrow matters. Capgras does not show that the affective channel is conscious or independent all by itself — the two-factor model is precisely the reason a single strange feeling is insufficient. The Map's reading rests on Factor 1 alone, and it should not be read as reaching further.
+**Only Factor 1 is the Map's territory.** The channel-decomposition claim concerns the existence and separability of the felt-familiarity contribution — the anomalous datum, and the autonomic evidence for it. Factor 2, the belief-evaluation deficit that converts anomaly into fixed delusion, is a reasoning pathology the Map takes no position on; it is named here as the completion of the clinical explanation, not as evidence for interface architecture. Keeping the claim this narrow matters, and two distinct insufficiencies enforce the narrowness. Clinically, the two-factor model is precisely why a single strange feeling is insufficient *to produce the delusion*: the fixed impostor belief needs the separate belief-evaluation deficit. Metaphysically, even the isolated Factor-1 anomaly does not show the affective channel is conscious or non-physical — the physicalist functional decomposition explains it equally well, which is the underdetermination the closing section develops. The Map's reading rests on Factor 1 alone, and it should not be read as reaching further in either direction.
 
 ## The Challenge to Factor-1 Specificity
 
