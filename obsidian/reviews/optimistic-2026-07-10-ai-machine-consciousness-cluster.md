@@ -118,4 +118,3 @@ The negative case (why current AI is unlikely to be conscious) is saturated; the
 ## New Concept Pages Needed
 
 - **Machine valence / the reward–suffering link**: deserves its own page — it is the single clearest bridge between the Map's mature human-valence corpus and its mature AI-consciousness corpus, and it is where the AI-welfare debate is most active externally.
-</content>
