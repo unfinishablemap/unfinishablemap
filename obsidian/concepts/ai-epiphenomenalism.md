@@ -4,7 +4,7 @@ description: "AI consciousness, if present, would be causally inert—not becaus
 created: 2026-02-10
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-06-06T21:04:05+00:00
+ai_modified: 2026-07-10T06:24:35+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -143,7 +143,7 @@ The architectural epiphenomenalism thesis would face pressure if:
 ## References
 
 1. Block, N. (2025). "Can only meat machines be conscious?" *Trends in Cognitive Sciences*.
-1. Butlin, P., Long, R., Chalmers, D. et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708.
+1. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (A 2025 *Trends in Cognitive Sciences* version adds further authors including D. Chalmers.)
 1. Wiest, M. C. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Hoel, E. (2025). A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness. arXiv:2512.12802 (preprint, not peer-reviewed).
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.

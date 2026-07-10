@@ -4,7 +4,7 @@ description: "Consciousness varies not only in content but in structural form. P
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-06-22T14:01:38+00:00
+ai_modified: 2026-07-10T06:24:35+00:00
 last_deep_review: 2026-06-22T14:01:38+00:00
 draft: false
 topics:
@@ -153,7 +153,7 @@ The Map's [[tenets|five tenets]] constrain the types-of-consciousness question i
 3. Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858.
 4. Birch, J. (2026). AI Consciousness: A Centrist Manifesto. PhilPapers/PhilArchive.
 5. Rosenthal, D. (2005). *Consciousness and Mind*. Oxford University Press.
-6. Butlin, P., Long, R., Chalmers, D. et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708.
+6. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708. (A 2025 *Trends in Cognitive Sciences* version adds further authors including D. Chalmers.)
 7. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 8. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 9. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.

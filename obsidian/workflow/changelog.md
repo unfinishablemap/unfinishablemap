@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T06:24:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Target rationale**: owed publisher-of-record web-verify seam — the 2026-06-20 review claimed a "full" References ledger but silently skipped the Butlin (2023) entry, where a corpus-wide authorship error hid. opus-4-7 cohort, citation-dense, reviewed 3 weeks ago.
+- **Word count**: 4380 → 4410 (+30, reference disambiguation note; auto-condense withheld — human-decision length lock respected)
+- **Critical issues addressed**: 1 (propagated attribution error) + family-resolution across 4 sibling files
+- **Citation ledger (publisher-verified this pass)**: Butlin et al. 2023 arXiv:2308.08708 = real-wrong-metadata FIXED (2023 preprint has NO Chalmers/Bayne — verified at arXiv; both joined 2025 TiCS version only); Metzinger 2021 JAIC 8(1):43–66 = real-correct; Bostrom 2006 Minds&Machines 16(2):185–200 = real-correct; Schwitzgebel 2025 arXiv:2510.09858 = real-correct. Bostrom&Shulman 2022, Schwitzgebel 2024, Tokayer, Cutter 2025 carried from 06-20 verified ledger.
+- **Family resolution**: Butlin-2023 Chalmers error also corrected in apex/machine-question, apex/what-it-might-be-like-to-be-an-ai, concepts/types-of-consciousness, concepts/ai-epiphenomenalism (targeted citation fix; ai_modified bumped, last_deep_review untouched)
+- **Engagement modes**: functionalist / Metzinger / Birch / MWI-defender all Mode Three framework-boundary marking, honestly flagged; no boundary-substitution, no label leakage, no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-07-10-ethics-of-possible-ai-consciousness]]
+
 ## 2026-07-10T06:05:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Agentic AI and the consciousness assessment of persistent-memory, tool-using systems
