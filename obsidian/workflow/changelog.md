@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T11:42:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Locked-in syndrome as the negative case where filter-loosening does not apply
+- **Output**: [[research/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply-2026-07-10]]
+- **Sources consulted**: 7
+
 ## 2026-07-10T11:26:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/capgras-delusion-and-the-affective-recognition-channel]]
