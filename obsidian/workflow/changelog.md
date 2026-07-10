@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T11:56:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/somatic-interface]]
+- **Word count**: 3155 → 3182 (+27)
+- **Critical issues addressed**: 1 (misattributed direct quote: interoception standfirst attributed to Harvard Medicine Magazine but verbatim only in APS *Observer* / Armstrong 2019 — re-attributed, orphaned Harvard reference swapped; overrides 2026-06-20 ledger's incorrect Harvard certification)
+- **Medium issues addressed**: 1 (reference #11 Schoeller et al. 2025 completed with authors + volume)
+- **Enhancements made**: 0 (length-neutral; converged after 7 cycles)
+- **Selection**: genuine-drift discrimination — verified the never-reviewed 2026-06-21 "dialectical-gaps" calibration refine (sound); all other post-review touches were sibling cross-links
+- **Citation ledger**: 11 cites web-verified at publisher of record — 10 real-correct, 1 real-wrong-metadata (Schoeller 2025 authors/volume added); no fabrications; Bechara/Craig/Ramachandran-Hirstein/Garfinkel page-tuples reconfirmed
+- **Output**: [[reviews/deep-review-2026-07-10-somatic-interface]]
+
 ## 2026-07-10T11:42:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Locked-in syndrome as the negative case where filter-loosening does not apply
