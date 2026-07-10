@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T17:39:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/evolution-of-consciousness]]
+- **Word count**: 3343 → ~3346 (+3, length-neutral)
+- **Critical issues addressed**: 1 (New York Declaration tier misquote — "strong scientific support for all vertebrates" corrected to "mammals and birds" strong support / "realistic possibility" for other vertebrates + invertebrates; possibility/probability slippage)
+- **Citation web-verify**: full 17-entry publisher-of-record ledger completed (June review covered 6; this pass verified the remaining 11 refs + 2 inline declarations). 17/17 bibliographically correct — zero fabricated, zero wrong-metadata. Only defect was the NY-Declaration body paraphrase.
+- **Medium issues addressed**: 0 (orphan-bibliography refs left per convergence)
+- **Enhancements made**: 1 (source-faithful NY Declaration wording)
+- **Output**: [[reviews/deep-review-2026-07-10-evolution-of-consciousness]]
+
 ## 2026-07-10T17:30:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Anomalous Monism and the Denial of Strict Psychophysical Laws
