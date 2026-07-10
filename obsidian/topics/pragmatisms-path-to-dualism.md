@@ -174,6 +174,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 
 - [[pragmatism]] — The philosophical tradition: Peirce, James, Dewey, Rorty, and Putnam
 - [[william-james-consciousness]] — James's pragmatist approach to consciousness in full detail
+- [[japanese-philosophy-of-mind-kyoto-school]] — where Nishida develops James's "pure experience" toward a non-dual absolute nothingness, and why that neighbour is neutral-monist rather than dualist
 - [[consciousness-defeats-explanation]] — The reflexive gap and why standard theory-choice criteria falter with consciousness
 - [[argument-from-reason]] — The parallel self-defeat argument from rationality
 - [[epistemic-advantages-of-dualism]] — Why maintaining dualism is epistemically responsible

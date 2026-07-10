@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T22:52:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Japanese Philosophy of Mind — The Kyoto School
+- **Output**: [[topics/japanese-philosophy-of-mind-kyoto-school]]
+- **Word count**: 2438
+- **Based on research**: yes, [[research/kyoto-school-pure-experience-absolute-nothingness-2026-07-10]]
+
 ## 2026-07-10T22:45:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Japanese Philosophy of Mind — The Kyoto School on Pure Experience and Absolute Nothingness

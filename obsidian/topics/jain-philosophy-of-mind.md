@@ -98,6 +98,7 @@ The honest summary: Jainism is a strong, premise-diverse addition to the cross-t
 - [[samkhya-three-way-distinction]] — the nearest dualist-pluralist neighbour, and how Jainism's active soul differs from Sāṃkhya's passive witness
 - [[cross-traditional-convergence-on-consciousness-irreducibility]] — the structural argument to which Jainism adds a premise-diverse data point
 - [[the-hard-problem-in-non-western-philosophy]] — where Jainism sits among non-Western responses to the hard problem
+- [[japanese-philosophy-of-mind-kyoto-school]] — a further cross-cultural basin case, handled with the same non-cheerleading discipline
 - [[interaction-problem-across-traditions]] — comparative survey of mind-matter interaction models, now including Jaina karmic matter
 - [[common-cause-null]] — the shared-method objection that caps what convergence, Jainism included, can show
 
