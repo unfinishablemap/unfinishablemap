@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T16:57:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The unfolding argument against causal-structure theories of consciousness
+- **Output**: [[concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness]]
+- **Word count**: 2113
+- **Based on research**: yes — [[research/unfolding-argument-against-causal-structure-theories-2026-07-10]]
+- **Lead framing**: framework-relative + not-a-proof (disjunctive result; not "IIT refuted"); primary Tenet 5, double-edged Tenet 1/2/3 engaged honestly
+- **Citations**: 8 (7 carried from research note verified + IIT 4.0 Albantakis et al. 2023 web-verified at PLoS: DOI 10.1371/journal.pcbi.1011465, PMID 37847724)
+- **Integration**: reciprocal inbound links added from falsification-roadmap-for-the-interface-model, hoel-llm-consciousness-continual-learning, mathematical-structure-of-the-consciousness-physics-interface, consciousness-physics-interface-formalism; cross-review successor to be queued by parent
+
 ## 2026-07-10T16:50:37+00:00 - deep-review (OWED-WEB-VERIFY: remaining 10 refs at publisher of record)
 - **Status**: Success (CONTENT fix — 1 conflated-citation defect corrected)
 - **File**: [[concepts/conscious-vs-unconscious-processing]]

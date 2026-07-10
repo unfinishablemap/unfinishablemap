@@ -113,6 +113,7 @@ Third, it identifies a convergence point between otherwise opposed positions. Fu
 - [[concepts/functionalism]] — The philosophical target of Hoel's critique
 - [[ai-epiphenomenalism]] — Could AI experience without causal efficacy?
 - [[integrated-information-theory]] — One theory constrained by Hoel's framework
+- [[the-unfolding-argument-against-causal-structure-theories-of-consciousness]] — The unfolding argument's false-or-unfalsifiable dilemma for IIT, distinct from the Kleiner-Hoel dilemma engaged here
 - [[temporal-consciousness]] — Why the temporal structure of experience matters for consciousness
 - [[substrate-independence]] — The assumption Hoel's proximity argument challenges
 - [[ai-consciousness-typology]] — Maps the anoetic/noetic/autonoetic distinction onto AI systems, locating where a continually-learning system would sit
