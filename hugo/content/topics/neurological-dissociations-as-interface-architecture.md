@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-06-24 18:15:14+00:00
+ai_modified: 2026-07-10 12:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -209,6 +209,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [blindsight](/concepts/blindsight/) — The paradigm ascending dissociation
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — How the two-streams dissociation maps brain-side vs mind-side visual capabilities
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Affective channel dissociation
+- [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/) — A second affective-channel exhibit: felt familiarity selectively disconnected while perceptual identification stays intact, with the skin-conductance evidence and the Corlett challenge
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Bilateral disconnection and unity
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the gating mechanism
 - [motor-selection](/concepts/motor-selection/) — The descending channel in detail
@@ -216,6 +217,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture these dissociations map
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How clinical disruptions as a class generate doubly grounded philosophical evidence
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Vegetative states, CMD, and locked-in syndrome test theories via consciousness-behaviour dissociation
+- [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/) — The pure-output dissociation (descending arm severed, ascending arm intact) as the negative case that bounds the filter model
 - [anesthesia-void](/voids/anesthesia-void/) — The pharmacological route: three-states taxonomy and agent-specific channel failures
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Topic-level treatment of anesthesia as interface modulation
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — Psychogenic dissociation reaching the same channel architecture without structural damage

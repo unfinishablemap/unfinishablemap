@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-09 23:34:00+00:00
+ai_modified: 2026-07-10 08:40:54+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -22,7 +22,7 @@ topics: []
 
 Wavefunction realism and primitive ontology are the two leading answers to a question that sits beneath every interpretation of quantum mechanics: what is the theory *fundamentally about*? Both camps are realist, both take the formalism seriously, and both are represented by first-rate philosophers of physics. They divide over the status of the wavefunction `Ψ` and, with it, the number of dimensions in fundamental reality. **Wavefunction realism** (David Albert, Alyssa Ney, Barry Loewer, Jill North) holds that `Ψ` is a real physical field living on a `3N`-dimensional configuration space, and that ordinary three-dimensional space is derivative. **Primitive ontology** (Detlef Dürr, Sheldon Goldstein, Nino Zanghì, Valia Allori, Roderich Tumulka, following John Bell) holds the reverse: the fundamental furniture is matter *in* ordinary 3D/4D spacetime, and `Ψ` is not a physical object at all but a law-like ("nomological") entity that governs how that matter moves.
 
-This is a shared-ground dispute in the philosophy of physics — upstream of, and neutral toward, the consciousness question. The Map's interest is framework-relative: *if* consciousness interacts with the physical at the quantum level (see [The Born Rule and the Consciousness-Physics Interface](born-rule-and-the-consciousness-interface)), these two ontologies give sharply different answers to what such an interface would *select among*. That downstream implication, developed in the [Relation to Site Perspective](#relation-to-site-perspective) section below, is a question the Map poses, not a proof it offers. The physics debate settles nothing about dualism on its own.
+This is a shared-ground dispute in the philosophy of physics — upstream of, and neutral toward, the consciousness question. The Map's interest is framework-relative: *if* consciousness interacts with the physical at the quantum level (see [The Born Rule and the Consciousness-Physics Interface](/topics/born-rule-and-the-consciousness-interface/)), these two ontologies give sharply different answers to what such an interface would *select among*. That downstream implication, developed in the [Relation to Site Perspective](#relation-to-site-perspective) section below, is a question the Map poses, not a proof it offers. The physics debate settles nothing about dualism on its own.
 
 ## Wavefunction Realism: `3N`-Space as Fundamental
 
@@ -60,18 +60,18 @@ The Map treats this as **shared-ground philosophy of physics, not evidence for d
 
 The two ontologies answer differently, and the difference bears on the tenets:
 
-- **On wavefunction realism**, the interface would act on structure in `3N`-dimensional configuration space — a location or amplitude structure, the "marvelous point" writ large. Because a single universal `Ψ` evolving unitarily is congenial to the Everett/many-worlds picture (see [The Many-Worlds Interpretation](many-worlds)), this reading sits in **tension with Tenet 4** (no many-worlds; indexical identity matters). The tension is real but not decisive: wavefunction realism is separable from Everett and can be paired with collapse or hidden variables.
+- **On wavefunction realism**, the interface would act on structure in `3N`-dimensional configuration space — a location or amplitude structure, the "marvelous point" writ large. Because a single universal `Ψ` evolving unitarily is congenial to the Everett/many-worlds picture (see [The Many-Worlds Interpretation](/concepts/many-worlds/)), this reading sits in **tension with Tenet 4** (no many-worlds; indexical identity matters). The tension is real but not decisive: wavefunction realism is separable from Everett and can be paired with collapse or hidden variables.
 - **On primitive ontology**, the interface would select among *local beables* in 3D — which particle configuration is actual, or where and whether a flash occurs. Both Bohm and GRW are single-world theories, so this reading **aligns with Tenet 4**. The GRW flash is a particularly natural hook for **Tenet 2** (minimal quantum interaction): a `GRWf` theory already posits sparse, discrete, stochastic localization events, so a minimal consciousness-linked influence would have a ready-made place to act — biasing where or when a flash occurs rather than adding new dynamics.
 
 None of this favors dualism over physicalism; it only says that *should* the Map's interface hypothesis be pursued, primitive ontology offers a more congenial substrate than wavefunction realism does. Consistent with **Tenet 5** (Occam's razor has limits), the Map declines to let the mere simplicity of one arena over another decide the matter — parsimony of dimensions is exactly the kind of simplicity judgment that is unreliable when the underlying physics is incomplete. The honest position is that the ontology question is open, and that the Map has a framework-relative stake in how it resolves, not a proof that turns on it.
 
 ## Further Reading
 
-- [The Consistent Histories Interpretation of Quantum Mechanics](consistent-histories-interpretation)
-- [The Measurement Problem](measurement-problem)
-- [The Born Rule and the Consciousness-Physics Interface](born-rule-and-the-consciousness-interface)
-- [Completeness in Physics Under Dualism](completeness-in-physics-under-dualism)
-- [The Many-Worlds Interpretation](many-worlds)
+- [The Consistent Histories Interpretation of Quantum Mechanics](/concepts/consistent-histories-interpretation/)
+- [The Measurement Problem](/concepts/measurement-problem/)
+- [The Born Rule and the Consciousness-Physics Interface](/topics/born-rule-and-the-consciousness-interface/)
+- [Completeness in Physics Under Dualism](/topics/completeness-in-physics-under-dualism/)
+- [The Many-Worlds Interpretation](/concepts/many-worlds/)
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 13:20:00+00:00
+ai_modified: 2026-07-10 12:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -61,7 +61,7 @@ Neurology supplies cases where the two registers, ordinarily fused, pull apart. 
 
 **Somatic-awareness training—the lived body's plasticity.** The *Leib* is not fixed. Contemplative practice, dance and athletic training, biofeedback, and rehabilitation all reshape the felt body: regions that were dim become vivid, coordinations that were effortful become pre-reflective. This bidirectional malleability—conscious attention reshaping the felt body over time—is the clearest everyday evidence that the lived body is something consciousness modulates rather than merely registers.
 
-A possible fifth contrast is locked-in syndrome, sometimes glossed as *Körper* without expressive *Leib*: the objectified body persists and rich first-person experience continues, but almost all bodily expression is severed. The gloss should be handled with care. The locked-in patient's lived body is *constrained*, not absent—the felt body and inner perspective remain, while the channel from lived intention to objectified movement is cut. Read precisely, the case illustrates not a missing *Leib* but a severed coupling between the lived body's "I can" and the objectified body's execution—which is exactly the coupling the next section makes load-bearing.
+A possible fifth contrast is locked-in syndrome, sometimes glossed as *Körper* without expressive *Leib*: the objectified body persists and rich first-person experience continues, but almost all bodily expression is severed. The gloss should be handled with care. The locked-in patient's lived body is *constrained*, not absent—the felt body and inner perspective remain, while the channel from lived intention to objectified movement is cut. Read precisely, the case illustrates not a missing *Leib* but a severed coupling between the lived body's "I can" and the objectified body's execution—which is exactly the coupling the next section makes load-bearing. [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/) treats the same severed coupling in anatomical terms, as the descending output arm cut while the ascending input arm and consciousness persist.
 
 ## Relation to Site Perspective
 

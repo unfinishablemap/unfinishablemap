@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-19 19:28:25+00:00
+ai_modified: 2026-07-10 08:30:47.941256+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,6 +18,11 @@ description: Pain asymbolia dissociates nociceptive sensation from affective suf
   revealing that pain's felt awfulness is a distinct phenomenal layer—not reducible
   to sensory processing.
 draft: false
+embedded_videos:
+- embedded: 2026-07-10 08:30:47.941256+00:00
+  id: S_adBVpON7g
+  source: notebooklm/0091-01-pain-asymbolia
+  url: https://www.youtube-nocookie.com/embed/S_adBVpON7g
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-19 19:28:25+00:00
@@ -35,6 +40,12 @@ topics:
 ---
 
 Pain asymbolia is a neurological condition in which patients detect nociceptive stimuli—they can report that something is "painful"—but lack the felt awfulness that normally accompanies pain. They do not withdraw, guard injured limbs, or show distress. The Unfinishable Map holds that pain asymbolia is among the most philosophically significant clinical conditions in the study of consciousness, because it dissociates the sensory-discriminative dimension of pain from its affective-motivational dimension, exposing a phenomenal layer that physicalist accounts struggle to accommodate.
+
+<details class="yt-embed" data-video-id="S_adBVpON7g">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/S_adBVpON7g">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Clinical Presentation
 

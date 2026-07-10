@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-08 17:14:27+00:00
+ai_modified: 2026-07-10 11:56:08+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI exploration of the body's internal sensing channels as the
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 01:15:27+00:00
+last_deep_review: 2026-07-10 11:56:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ The somatic interface operates through several distinct but interacting systems,
 
 ### Interoception
 
-Interoception is the perception of the body's internal states—heartbeat, breathing, gut activity, temperature regulation, hunger, thirst. Research increasingly positions interoception as central to consciousness itself, not merely as an input channel. As Harvard Medicine Magazine notes: "Interoception—the ability to perceive the internal state of our bodies—is central to our thoughts, emotions, decision-making, and sense of self."
+Interoception is the perception of the body's internal states—heartbeat, breathing, gut activity, temperature regulation, hunger, thirst. Research increasingly positions interoception as central to consciousness itself, not merely as an input channel. As a review in the Association for Psychological Science's *Observer* summarises: "Interoception—the ability to perceive the internal state of our bodies—is central to our thoughts, emotions, decision-making, and sense of self."
 
 The interoceptive channel carries information about homeostatic state—the body's ongoing self-regulation. Antonio Damasio's somatic marker hypothesis — developed within a materialist framework — proposes that bodily feelings guide decision-making by marking options with positive or negative valence derived from past experience. The Map reinterprets this evidence through its [interactionist](/concepts/interactionist-dualism/) lens: the same data that Damasio reads as sophisticated neural computation, the interface reading treats as a structured channel between body and consciousness. Patients with ventromedial prefrontal cortex damage lose access to somatic markers and make catastrophically poor decisions despite intact logical reasoning—suggesting the body's felt signals carry information that deliberative cognition does not, in these patients, recover.
 
@@ -150,6 +150,6 @@ The three properties together — layered, phenomenal-character-shaping, bidirec
 6. Craig, A. D. (2009). "How Do You Feel—Now? The Anterior Insula and Human Awareness." *Nature Reviews Neuroscience*, 10(1), 59-70.
 7. Bechara, A., Damasio, H., Tranel, D., & Damasio, A. R. (1997). "Deciding Advantageously Before Knowing the Advantageous Strategy." *Science*, 275(5304), 1293-1295.
 8. Ramachandran, V. S., & Hirstein, W. (1998). "The Perception of Phantom Limbs." *Brain*, 121(9), 1603-1630.
-9. Harvard Medicine Magazine. "Making Sense of Interoception." https://magazine.hms.harvard.edu/articles/making-sense-interoception
+9. Armstrong, K. (2019). "Interoception: How We Understand Our Body's Inner Sensations." *Observer*, Association for Psychological Science. https://www.psychologicalscience.org/observer/interoception-how-we-understand-our-bodys-inner-sensations
 10. Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive awareness. *Biological Psychology*, 104, 65–74.
-11. There is no such thing as interoception. (2025). *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1488415/full
+11. Schoeller, F. A., Zhang, B., Garcia, T., & Reggente, N. (2025). "There is no such thing as interoception." *Frontiers in Psychology*, 16, 1488415. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1488415/full

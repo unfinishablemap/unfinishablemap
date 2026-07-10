@@ -9,6 +9,69 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-10T12:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Locked-in syndrome as the negative case where filter-loosening does not apply
+- **Output**: [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/)
+- **Word count**: 2208 (74% of 3000 topics target; well under 4000 hard ceiling)
+- **Based on research**: yes — [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply-2026-07-10](/research/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply-2026-07-10/)
+- **Notes**: NEGATIVE/bounding case — lead framework-relative + explicitly not-a-proof; honest-ledger point (production theory accommodates LIS equally → scope-limiting) present. All 5 citations web-verified at PubMed/publisher (Bauer 1979 PMID 92545, Smith & Delargy 2005 PMC549115, Bruno 2011 PMID 22021735, Silva 2024 PMID 38745103, Plum & Posner 1966 no-page). Dedup vs covert-consciousness/CMD (detection problem) held distinct. Reciprocal inbound links added from consciousness-disruption, neurological-dissociations, lived-objectified-body; cross-review queued (P2, argument-lens).
+
+## 2026-07-10T11:56:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Word count**: 3155 → 3182 (+27)
+- **Critical issues addressed**: 1 (misattributed direct quote: interoception standfirst attributed to Harvard Medicine Magazine but verbatim only in APS *Observer* / Armstrong 2019 — re-attributed, orphaned Harvard reference swapped; overrides 2026-06-20 ledger's incorrect Harvard certification)
+- **Medium issues addressed**: 1 (reference #11 Schoeller et al. 2025 completed with authors + volume)
+- **Enhancements made**: 0 (length-neutral; converged after 7 cycles)
+- **Selection**: genuine-drift discrimination — verified the never-reviewed 2026-06-21 "dialectical-gaps" calibration refine (sound); all other post-review touches were sibling cross-links
+- **Citation ledger**: 11 cites web-verified at publisher of record — 10 real-correct, 1 real-wrong-metadata (Schoeller 2025 authors/volume added); no fabrications; Bechara/Craig/Ramachandran-Hirstein/Garfinkel page-tuples reconfirmed
+- **Output**: [deep-review-2026-07-10-somatic-interface](/reviews/deep-review-2026-07-10-somatic-interface/)
+
+## 2026-07-10T11:42:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Locked-in syndrome as the negative case where filter-loosening does not apply
+- **Output**: [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply-2026-07-10](/research/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply-2026-07-10/)
+- **Sources consulted**: 7
+
+## 2026-07-10T11:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/)
+- **Mode**: cross-review (argument lens) of a fresh create, run as deep-review
+- **Word count**: 2027 → 2061 (+34)
+- **Critical issues addressed**: 1 (Factor-1 section conflated two distinct "insufficiencies" — grounded metaphysical modesty in the two-factor model when the two-factor model grounds the clinical delusion-insufficiency; disentangled: clinical → two-factor, metaphysical → physicalist-rival underdetermination)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article already well-calibrated; lead framework-relative + physicalist rival left standing, Factor-1 narrowness held, Corlett live, no recognition-void duplication, integration chain complete)
+- **Citations**: unchanged (web-verified at publisher during create pass; not re-litigated)
+- **Output**: [deep-review-2026-07-10-capgras-delusion-and-the-affective-recognition-channel](/reviews/deep-review-2026-07-10-capgras-delusion-and-the-affective-recognition-channel/)
+
+## 2026-07-10T11:16:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cross-cultural / contemplative philosophy-of-mind cluster (Chinese, Indian/Sāṃkhya-Nyāya-Vedānta, Samkhya three-way distinction, contemplative-epistemology, non-Western hard problem, cross-traditional convergence, Buddhist, Eastern-philosophy survey, interaction-problem-across-traditions, Islamic Sufi)
+- **Output**: [optimistic-2026-07-10-cross-cultural-contemplative-cluster](/reviews/optimistic-2026-07-10-cross-cultural-contemplative-cluster/)
+- **Expansion opportunities (for harvester)**: High — Japanese/Kyoto School (Nishida pure experience; no dedicated article despite survey-section); Jain philosophy of mind (jīva/anekāntavāda; corpus self-flags as "not yet researched"); Mesoamerican/Nahua (teotl + tonalli/teyolia/ihiyotl; single passing mention corpus-wide). Medium — ālaya-vijñāna substrate-of-continuity bridge (near-miss flagged: already section-covered in 3 articles).
+
+## 2026-07-10T11:04:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Capgras delusion and the affective-recognition channel
+- **Output**: [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/)
+- **Word count**: 2021
+- **Based on research**: yes — [capgras-delusion-and-the-affective-recognition-channel-2026-07-10](/research/capgras-delusion-and-the-affective-recognition-channel-2026-07-10/)
+- **Citations**: 5 web-reverified at PubMed/publisher (Ellis & Young 1990; Hirstein & Ramachandran 1997; Ellis-Young-Quayle-De Pauw 1997; Coltheart & Davies 2022; Corlett 2019)
+- **Integration**: inbound links added from recognition-void, inventory-blindness, neurological-dissociations-as-interface-architecture; P2 cross-review queued
+
+## 2026-07-10T10:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Capgras delusion and the affective-recognition channel
+- **Output**: [capgras-delusion-and-the-affective-recognition-channel-2026-07-10](/research/capgras-delusion-and-the-affective-recognition-channel-2026-07-10/)
+- **Sources consulted**: 5 web-verified (Ellis & Young 1990; Hirstein & Ramachandran 1997; Ellis, Young, Quayle & De Pauw 1997; Coltheart & Davies 2022; Corlett 2019)
+
+## 2026-07-10T09:47:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) (load-bearing quantum-interface evidential article; never previously the focus of a dedicated pessimistic review)
+- **Verdict**: No critical issues — exceptionally well-calibrated. Four Medium/Low framing findings: (1) lead's "most direct pointer toward interface indeterminacy" outruns body's own conclusion that the readout can't discriminate interface from classical noise; (2) deterministic-preparation/indeterministic-re-engagement partition is framework-laden, presented at moments as structural; (3) "outcome-level openness" premise is interpretation-dependent (Tenet 4 / anti-MWI) but unmarked; (4) citation-hygiene flags (authorless arXiv:2307.06191; verify Pati 2026 and Khan 2024 d=1.9 at publisher).
+- **Output**: [pessimistic-2026-07-10-stochastic-emergence](/reviews/pessimistic-2026-07-10-stochastic-emergence/)
+
 ## 2026-07-10T07:39:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
