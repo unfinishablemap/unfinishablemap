@@ -245,6 +245,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 - [[dualism-as-ai-risk-mitigation]] — Parallel argument from the same metaphysical stack: under interactionist dualism, [[mind-arena]] consequences are uncomputable (not merely intractable) for any physical-state-only model, with implications for AI alignment that share structure with this article's substrate-failure argument
 - [[ai-ensoulment-hypothesis]] — Whether an artificial system could host or couple to a mind: Cutter's fitness-to-possess criterion and Békefi's missing-integrity reply
 - [[ai-moral-agency-and-the-responsibility-gap-under-dualism]] — Why machine culpability is downstream of machine consciousness: a genuinely conscious AI would become a candidate moral agent
+- [[agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]] — Whether agentic architectures (persistent memory, tool use, long-horizon goals) move the consciousness needle: an obstacle-by-obstacle adjudication
 
 ## References
 

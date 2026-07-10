@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T06:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Agentic AI and the consciousness assessment of persistent-memory, tool-using systems
+- **Output**: [[topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]]
+- **Word count**: 2199
+- **Based on research**: yes ([[research/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems-2026-07-10]])
+- **Citations**: 6 web-verified at arXiv/publisher of record (Butlin/Long et al. 2023 arXiv:2308.08708 — NOTE: 2023 preprint author list does NOT include Bayne/Chalmers; Chalmers is on the 2025 TiCS version only; Wang et al. 2024 Front. Comput. Sci. 18(6):186345 DOI 10.1007/s11704-024-40231-1; Park et al. 2023 arXiv:2304.03442; ReAct 2210.03629; Reflexion 2303.11366; Voyager 2305.16291) + Hoel 2026 (via continual-learning-argument) + 1 Map self-citation
+- **Integration**: inbound links added from continual-learning-argument, ai-consciousness, machine-consciousness, structural-varieties-of-consciousness-and-ai-phenomenology; cross-review queued (P2, argument-lens)
+- **Lead discipline**: framework-relative + not-a-proof (functionalist indicators erode 2 behavioural objections, leave frozen-weights + quantum-interface untouched; no bald phenomenal-absence claim)
+
 ## 2026-07-10T05:56:00+00:00 - deep-review (cross-review, argument lens)
 - **Status**: Success
 - **File**: [[topics/ai-moral-agency-and-the-responsibility-gap-under-dualism]]

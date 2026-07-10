@@ -184,6 +184,7 @@ From the Map's perspective, continual learning is likely a *consequence* of cons
 - [[philosophical-zombies]] — The conceivability argument against functionalism
 - [[illusionism]] — The radical challenge that phenomenal consciousness is illusory
 - [[witness-consciousness]] — Contemplative perspectives on the observing awareness
+- [[agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]] — Why agentic scaffolding (external memory, tool use, planning loops) cannot evade the frozen-weights point this argument develops
 
 ## References
 
