@@ -240,6 +240,7 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 - [[graduated-middle-path-valence-modulated-attention]] — The middle path worked as its own position: valence sets attentional gain, attention selects, plus the clamp test that decides which reading of non-epiphenomenality is earned
 - [[marginal-organism-scope-of-value-sensitive-selection]] — How far down the tree of life value-sensitive selection reaches: the deferred scope question developed
 - [[moral-architecture-of-consciousness]] — Apex synthesis: the value-sensitivity question within a unified moral framework
+- [[reinforcement-learning-reward-signals-and-machine-valence]] — The machine case: why an RL reward scalar, lacking the coupling interface, does no selective work of the kind felt valence does here
 
 ## References
 

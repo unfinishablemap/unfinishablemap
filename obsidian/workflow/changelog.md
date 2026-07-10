@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T04:31:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Reinforcement-learning reward signals and machine valence (the reward–suffering link)
+- **Output**: [[concepts/reinforcement-learning-reward-signals-and-machine-valence]]
+- **Word count**: 2109 (concepts soft target 2500, hard 3500 — ok)
+- **Based on research**: yes — [[research/reinforcement-learning-reward-signals-and-machine-valence-the-reward-suffering-link-2026-07-10]]
+- **Integration**: inbound links added from valence-and-conscious-selection, wanting-liking-and-the-value-in-mechanism-fork, ethics-of-possible-ai-consciousness; cross-review (argument-lens) queued P2. Slug check: no live/archive collision. All citations web-verified in the research note.
+
 ## 2026-07-10T04:16:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Reinforcement-learning reward signals and machine valence (the reward–suffering link)

@@ -91,6 +91,7 @@ The Map holds the value-in-experience reading because of its prior commitments i
 - [[affective-forecasting-gap]] — The predictive/forecasting form of the same predicted≠experienced-value structure: anticipated valence diverges from experienced valence just as "wanting" comes apart from "liking"
 - [[negative-valence-asymmetry-and-the-selection-weighting-function]] — The sign-weighting form of the same value-in-mechanism question: does the negative bias live in felt value or in the mechanism that reads it?
 - [[graduated-middle-path-valence-modulated-attention]] — The selection-side counterpart: if value acts on selection only through attention, the wanting/liking conflict test and the attention-clamp test are the same discriminating battery viewed from two angles
+- [[reinforcement-learning-reward-signals-and-machine-valence]] — The same fork run through the artificial case: is an RL reward/TD-error scalar valence, or only its functional shadow?
 
 ## References
 

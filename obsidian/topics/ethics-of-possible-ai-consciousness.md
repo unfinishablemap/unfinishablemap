@@ -174,6 +174,7 @@ The combined position: on the Map's framework, current AI almost certainly does 
 - [[haecceity]] — Why thisness makes qualitatively identical copies numerically distinct subjects, consistent with (though not forcing) the Duplication View
 - [[consciousness-and-the-metaphysics-of-individuation]] — Why distinct experiencers do not collapse into a compound mind or a single count
 - [[positions/ai-consciousness-scope]] — The formal positions this article draws on: P-AC1 (current digital AI low-probability), P-AC2 (quantum-state inheritance), P-AC3 (conscious copies near-additive / divergence-modulated)
+- [[reinforcement-learning-reward-signals-and-machine-valence]] — Whether an RL reward/penalty scalar constitutes or evidences machine suffering: the reward–suffering link, calibrated against Tomasik, Daswani-Leike, and Metzinger
 
 ## References
 
