@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T04:52:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: AI moral agency and the "responsibility gap" under dualism
+- **Output**: [[research/ai-moral-agency-and-the-responsibility-gap-under-dualism-2026-07-10]]
+- **Sources consulted**: 6 (all web-verified at venue/volume/pages: Matthias 2004, Sparrow 2007, Danaher 2016, Tigard 2021, Santoni de Sio & Mecacci 2021, Königs 2022)
+
 ## 2026-07-10T04:41:00+00:00 - deep-review (cross-review, argument-lens)
 - **Status**: Success
 - **File**: [[concepts/reinforcement-learning-reward-signals-and-machine-valence]]
