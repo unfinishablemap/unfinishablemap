@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-10T05:17:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Agentic AI (persistent-memory, tool-using, long-horizon agents) and the consciousness assessment
+- **Output**: [[research/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems-2026-07-10]]
+- **Sources consulted**: 7 (Wang et al. 2024 survey; Park et al. 2023 generative agents; Butlin/Long et al. 2023; ReAct; Reflexion; Voyager; temporal-continuity thread)
+
 ## 2026-07-10T05:08:00+00:00 - deep-review (owed-web-verify seam)
 - **Status**: Success
 - **File**: [[concepts/integration-as-activity]]
