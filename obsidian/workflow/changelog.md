@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T01:09:30+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[concepts/phenomenal-sorites-problem]]
+- **Lens**: argument + citation cross-review of fresh create; chain successor to its expand-topic
+- **Verdict**: FIX — resolved real cross-article contradiction (interface-threshold existence/efficacy conflation)
+- **Word count**: 1886 → 2142 (+256)
+- **Critical issues addressed**: 1 (interface-threshold/existence-fact conflation, fixed across TWO files via explicit efficacy-vs-existence disambiguation)
+- **Medium issues addressed**: 1 (Antony-conditional debt vs composition-and-consciousness graded proxies — bridging clause added)
+- **Enhancements**: strengthened coupling-sorites-immunity counterargument (named graded-trigger residual risk); added Madhyamaka no-self stance as fourth option
+- **Citations**: 8 web-verified at publisher of record, all real-correct (Schwitzgebel 2023, Hall 2023, Tye 2021, Simon 2017, Antony 2006 ×2, Papineau 2002; subject-counting paper correctly flagged venue-unconfirmed). Research fork's corrections held.
+- **Second file**: [[concepts/interface-threshold]] — reciprocal back-link text fix (ai_modified bumped only)
+- **Output**: [[reviews/deep-review-2026-07-11-phenomenal-sorites-problem]]
+
 ## 2026-07-11T00:50:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The phenomenal-sorites problem / ontic vagueness of consciousness
