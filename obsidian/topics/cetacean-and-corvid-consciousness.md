@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-13
 last_curated:
-last_deep_review: 2026-06-25T07:17:56+00:00
+last_deep_review: 2026-07-11T09:22:00+00:00
 ---
 
 The [[consciousness-as-amplifier|amplification hypothesis]]—that consciousness transforms baseline cognition into flexible, metarepresentational intelligence—draws its primary evidence from the great ape-human comparison. But primates are a single lineage. If consciousness genuinely amplifies cognition, the effect should appear wherever consciousness interfaces with sufficiently complex neural systems, regardless of evolutionary history—the [[universal-coupling-response|universal coupling response]] formalises exactly this prediction. Cetaceans (dolphins, whales) and corvids (crows, ravens, jays) provide exactly this test. Both lineages evolved sophisticated cognition independently from primates, through radically different neural architectures, yet both display capacities the amplification hypothesis links to consciousness.

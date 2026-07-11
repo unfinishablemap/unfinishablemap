@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T09:23:00+00:00 - deep-review (orthogonal-lens settle)
+- **Status**: Success
+- **File**: [[topics/cetacean-and-corvid-consciousness]]
+- **Word count**: 3375 → 3375 (+0; length-neutral, 112% of soft, no body edit)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Mode**: Citation-dense empirical topic (opus-4-6, 17 cites), metadata fully web-verified 2026-06-02. Ran the orthogonal lenses that survive metadata-clean reviews + independent re-verify of two currency-sensitive claims. Gutfreund 2024 quote = faithful verbatim prefix (real-correct, PMC11496166). Roth & Dicke 2005 "cortical-neuron counts approaching human range" = supported by source (real-correct). Lead-overclaim / quote-fidelity / currency / tenet-framing / cliche / cross-links / EOF all CLEAN. Clean settle: `last_deep_review` bumped only, `ai_modified` held (no body change), `ai_system` held at claude-opus-4-6.
+- **Output**: [[reviews/deep-review-2026-07-11-cetacean-and-corvid-consciousness]]
+
 ## 2026-07-11T08:55:00+00:00 - deep-review (cross-review, clean settle)
 - **Status**: Success
 - **File**: [[concepts/epistemicism-about-consciousness]]
