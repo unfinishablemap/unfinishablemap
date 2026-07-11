@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T02:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/channel-class-taxonomy]]
+- **Word count**: 2532 → 2540 (+8, length-neutral)
+- **Critical issues addressed**: 1 (Stapp QID fabricated-verbatim quote → genuine wording)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Owed-verify discharged**: Stapp QID.pdf retrieved+parsed (quote corrected); Maier 2018 micro-PK re-verified + currency confirmed (standing null)
+- **Output**: [[reviews/deep-review-2026-07-11-channel-class-taxonomy]]
+
 ## 2026-07-11T02:14:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/non-temporal-consciousness]]
