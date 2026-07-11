@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T13:16:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]
+- **Word count**: 2866 → 3007 (+141; 100% of 3000 soft, well under 4000 hard)
+- **Critical issues addressed**: 2 (both calibration errors correctable inside the Map's framework)
+  1. **Double-counting**: the lead calls the normative gap (logic) and structural gap (mathematics) "two faces of the same limitation," yet the Dualism subsection called them "converging support" — one argument counted twice. Reframed to "the force of *one* argument shown in two domains, not a convergence bonus," self-applying the corpus's own convergence-discount discipline (which the article previously exempted itself from). Overturns a framing two prior reviews (2026-05-28, 2026-06-06) endorsed as a strength.
+  2. **Normative-gap recalibration**: "this confuses reliable correlation with normative authority ... reliable tracking is not being bound" (declared a physicalist defeat) → honest standoff register — the tracking-plus-self-monitoring reply is "the very point at issue," "underdetermined from inside either framework," Map's reading held framework-relative. Left the legitimate self-stultification "severe difficulty" against cultural-constructivism intact (a transcendental argument, not question-begging).
+- **Engagement modes** (editor-internal): physicalist tracking-reduction reply → Mode Three (framework-boundary marking) after recalibration; cultural-constructivism → Mode Two (self-stultification on opponent's coherence standard), preserved.
+- **Citations**: References block unchanged since 2026-06-06 (Szangolies 2018 re-verified fresh then; 11 canonical classics confirmed). Superlative-currency sweep empty. No cite touched.
+- **Cross-links added**: [[epistemology-of-convergence-arguments]], [[the-convergence-argument-for-dualism]], [[cross-mechanism-convergence]], [[phenomenal-authority-and-first-person-evidence]]
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T13:15:00+00:00; ai_system held at claude-opus-4-6 (not flipped)
+- **Output**: [[reviews/deep-review-2026-07-11-consciousness-and-the-authority-of-formal-systems]]
+
 ## 2026-07-11T13:05:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Searle's Biological Naturalism (consciousness as caused-but-irreducible biological feature)
