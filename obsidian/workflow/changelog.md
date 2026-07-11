@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T00:13:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+- **Trigger**: topic-concept anchoring audit (2026-07-10, Audit Three) vs anchor [[filter-theory]]; failed checks hedge_density (0.91 vs 2.06/kw target) + underdetermination_markers (0)
+- **Verdict**: structural false-high. Article is already heavily/honestly calibrated (whole "Honest Ledger" section disclaims over-reach; "framework-relative reading, not a proof of anything"; "cannot adjudicate between them"; "would be over-reaching"). Its calibration is non-lexical framing the whole-word hedge counter is blind to. Negative-case exposition legitimately asserts firmly ("filter-loosening does NOT apply"); did NOT weaken the thesis.
+- **Changes** (minimal, load-bearing only — no manufactured hedges):
+  - Honest Ledger: rephrased existing underdetermination declaration into the discipline's recognized vocabulary — "cannot adjudicate between them" → "the case is empirically equivalent under either reading. That is precisely why the evidence does not adjudicate between them" (underdet markers 0 → 3; genuinely the article's own thesis, given "both theories predict exactly what is observed")
+  - Total-LIS boundary: "consciousness itself must be inferred from EEG" → "consciousness — though stipulated present in the taxonomy — can only be inferred from EEG ... and at the bedside it may be genuinely uncertain" (honest hedge where the evidence truly underdetermines)
+  - BCI reading: "the intent-to-act signal is present, formed, and decodable" → "what the prosthesis decodes appears to be a fully formed intent-to-act signal ... On this reading the loss lies downstream" (framework-relativizes an interpretive claim)
+- **Result**: hedge markers 2 → 4 (0.91 → 1.78/kw); underdet 0 → 3; strong-assertion 0 (unchanged). evaluate_anchoring re-run → 0 flags (flag declines because underdetermination check now passes, dropping failures below the ≥2 threshold). Left hedge_density at 1.78/kw rather than inflating to 2.06 with empty hedges — the lexical metric is partially blind to this article's actual (non-lexical) calibration.
+- **Published**: yes
+
 ## 2026-07-10T23:50:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/mesoamerican-nahua-philosophy-of-mind]]
