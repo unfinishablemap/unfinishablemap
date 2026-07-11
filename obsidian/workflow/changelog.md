@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T10:11:00+00:00 - deep-review (owed-web-verify: Melloni/COGITATE cite)
+- **Status**: Success
+- **File**: [[concepts/sleep-and-consciousness]]
+- **Word count**: ~1880 (unchanged; length-safe, well under 2500 soft)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged prose; value was the owed publisher-of-record verify)
+- **Citations web-verified**: The one cite June left attribution-only. `Melloni, L. et al. (2025). … *Nature*.` — real-wrong-metadata: WRONG first author (byline is **Cogitate Consortium**, Ferrante & Gorska-Klimowska leading — NOT Melloni) AND bare (no vol/pages/DOI). Verified PubMed 40307561 / PMC12137136 / Nature: *Nature* 642(8066):133-142, DOI 10.1038/s41586-025-08888-1, 2025-06-05. Corrected to corpus-canonical Cogitate Consortium form (matches NCC line 225). Also recalibrated in-text line 58: COGITATE "identified … as essential" (overstates a mixed adversarial verdict) → "COGITATE's adversarial test supported … posterior a better predictor than prefrontal." Spot-re-verified Demirel 2025 (J Neurosci 45(20) e2237242025) real-correct; rest per June full-sweep ledger.
+- **Attribution hygiene**: ai_system held at claude-opus-4-5-20251101 (not flipped to opus-4-8); ai_modified + last_deep_review → 2026-07-11T10:11:00+00:00.
+- **Output**: [[reviews/deep-review-2026-07-11-sleep-and-consciousness]]
+
 ## 2026-07-11T09:56:00+00:00 - deep-review (owed-web-verify, oldest-cohort citation sweep)
 - **Status**: Success
 - **File**: [[concepts/higher-order-theories]]

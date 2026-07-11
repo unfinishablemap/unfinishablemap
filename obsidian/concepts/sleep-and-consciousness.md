@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-22T14:11:31+00:00
+ai_modified: 2026-07-11T10:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-06-22T14:11:31+00:00
+last_deep_review: 2026-07-11T10:11:00+00:00
 ---
 
 Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [[dream-consciousness#Lucid Dreaming: A Distinct State|Lucid dreaming]] restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second ceiling on serial conscious *behavioural throughput* (Zheng & Meister's bound on what conscious agents do, not a measured bandwidth of phenomenal experience itself), replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
@@ -55,7 +55,7 @@ The traditional dichotomy—awake means conscious, asleep means unconscious—is
 
 ### The Posterior Hot Zone
 
-High-density EEG studies reveal that [[dream-consciousness|dreaming]] during NREM correlates with reduced slow-wave activity in posterior cortical regions—the same "hot zone" identified by COGITATE (2025) as essential for waking conscious content. Two people in identical NREM Stage 3 may differ radically in consciousness depending on posterior hot zone activity.
+High-density EEG studies reveal that [[dream-consciousness|dreaming]] during NREM correlates with reduced slow-wave activity in posterior cortical regions—the posterior "hot zone" whose role in waking conscious content COGITATE's (2025) adversarial test supported, finding posterior cortex a better predictor of conscious percepts than prefrontal areas. Two people in identical NREM Stage 3 may differ radically in consciousness depending on posterior hot zone activity.
 
 ### The Consciousness Spectrum in Sleep
 
@@ -181,7 +181,7 @@ The Map's interpretation would face difficulty if:
 1. Evans-Wentz, W. Y. (1935). *Tibetan Yoga and Secret Doctrines*.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
-1. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872-878.
 1. Geva-Sagiv, M., Mankin, E. A. et al. (2023). Augmenting hippocampal–prefrontal neuronal synchrony during sleep enhances memory consolidation in humans. *Nature Neuroscience*, 26, 1100-1110.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
