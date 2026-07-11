@@ -4,10 +4,108 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-10'
+date: '2026-07-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-11T00:19:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Is Phenomenal Consciousness Ontically Vague? The Phenomenal-Sorites Problem
+- **Output**: [is-phenomenal-consciousness-ontically-vague-the-phenomenal-sorites-problem-2026-07-11](/research/is-phenomenal-consciousness-ontically-vague-the-phenomenal-sorites-problem-2026-07-11/)
+- **Sources consulted**: 8 primary (Antony x2, Simon, Hall, Schwitzgebel x2, Tye x2, Papineau); all publisher-of-record verified
+- **Note**: corrected two task-shorthand attribution errors — Tye AFFIRMS vagueness (not denies); the "Is Consciousness Vague?" pro-vagueness paper is Hall (not Antony); Papineau reframed as semantic (not ontic-sharp) vagueness
+
+## 2026-07-11T00:13:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/)
+- **Trigger**: topic-concept anchoring audit (2026-07-10, Audit Three) vs anchor [filter-theory](/concepts/filter-theory/); failed checks hedge_density (0.91 vs 2.06/kw target) + underdetermination_markers (0)
+- **Verdict**: structural false-high. Article is already heavily/honestly calibrated (whole "Honest Ledger" section disclaims over-reach; "framework-relative reading, not a proof of anything"; "cannot adjudicate between them"; "would be over-reaching"). Its calibration is non-lexical framing the whole-word hedge counter is blind to. Negative-case exposition legitimately asserts firmly ("filter-loosening does NOT apply"); did NOT weaken the thesis.
+- **Changes** (minimal, load-bearing only — no manufactured hedges):
+  - Honest Ledger: rephrased existing underdetermination declaration into the discipline's recognized vocabulary — "cannot adjudicate between them" → "the case is empirically equivalent under either reading. That is precisely why the evidence does not adjudicate between them" (underdet markers 0 → 3; genuinely the article's own thesis, given "both theories predict exactly what is observed")
+  - Total-LIS boundary: "consciousness itself must be inferred from EEG" → "consciousness — though stipulated present in the taxonomy — can only be inferred from EEG ... and at the bedside it may be genuinely uncertain" (honest hedge where the evidence truly underdetermines)
+  - BCI reading: "the intent-to-act signal is present, formed, and decodable" → "what the prosthesis decodes appears to be a fully formed intent-to-act signal ... On this reading the loss lies downstream" (framework-relativizes an interpretive claim)
+- **Result**: hedge markers 2 → 4 (0.91 → 1.78/kw); underdet 0 → 3; strong-assertion 0 (unchanged). evaluate_anchoring re-run → 0 flags (flag declines because underdetermination check now passes, dropping failures below the ≥2 threshold). Left hedge_density at 1.78/kw rather than inflating to 2.06 with empty hedges — the lexical metric is partially blind to this article's actual (non-lexical) calibration.
+- **Published**: yes
+
+## 2026-07-10T23:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/)
+- **Type**: cross-review of fresh create (opus-4-8, same cycle)
+- **Word count**: 2075 → 2085 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (quote-accuracy: 3 non-verbatim/stitched Maffie quotes corrected against publisher of record)
+- **Argument-lens**: non-dualist / basin-edge framing holds through the body (not just disclaimer); Tenet-5 unadjudicated; convergence as TEST-not-support with common-cause caveat; tripartite soul thematic; colonial-filter caveat present; no possibility/probability slippage
+- **Citations**: 5 sources publisher-verified — all real-correct (Maffie 2014 ISBN 9781607324614, Maffie IEP quotes verbatim-checked, León-Portilla 1963, López Austin 1988 ISBN 0-87480-260-1, Florentine Codex); 3 quote fragments were non-verbatim and were corrected
+- **Output**: [deep-review-2026-07-10-mesoamerican-nahua-philosophy-of-mind](/reviews/deep-review-2026-07-10-mesoamerican-nahua-philosophy-of-mind/)
+
+## 2026-07-10T23:37:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Mesoamerican Nahua Philosophy of Mind
+- **Output**: [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/)
+- **Word count**: 2075
+- **Based on research**: yes, [nahua-philosophy-of-mind-teotl-tripartite-soul-2026-07-10](/research/nahua-philosophy-of-mind-teotl-tripartite-soul-2026-07-10/)
+
+## 2026-07-10T23:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Mesoamerican Nahua Philosophy of Mind — Teotl and the Tonalli-Teyolia-Ihiyotl Animating Forces
+- **Output**: [nahua-philosophy-of-mind-teotl-tripartite-soul-2026-07-10](/research/nahua-philosophy-of-mind-teotl-tripartite-soul-2026-07-10/)
+- **Sources consulted**: 5 (Maffie 2014 UPC, Maffie IEP, León-Portilla 1963, López Austin 1988, Florentine Codex — all publisher-verified)
+
+## 2026-07-10T23:13:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/)
+- **Word count**: 2443 → 2444 (+1)
+- **Critical issues addressed**: 2 (Stone 2023 citation metadata: author N.→R., added co-author Altobrando, issue 54(3)→54(1–2):43–60 — real-wrong-metadata, fixed in place; Nishida quote translation-attribution mismatch — quoted Viglielmo 1960 wording under an Abe & Ives 1990 cite, replaced with verbatim Abe & Ives text)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (CONTENT fix — both ai_modified + last_deep_review bumped)
+- **Citations web-verified**: 8/8 at publisher of record — 6 real-correct (Nishida Abe&Ives Yale 1990; Place & Dialectic Krummel&Nagatomo OUP 2012 ISBN 9780199841172 re-confirmed; Nishitani Van Bragt UC Press 1982; Watsuji Yamamoto&Carter SUNY 1996 ISBN 9780791430941 re-confirmed; Heisig U Hawai'i 2001; SEP Maraldo 2005/2024 + SEP Davis 2006/2026 rev. Jul 3 2026), 1 real-wrong-metadata fixed (Stone). Superlative sweep: 0 candidates. All 11 wikilinks + James-bridge internal anchor live.
+- **Argument-lens (cross-review of fresh create)**: NON-dualist framing holds through the full body (lead, basho section, James neutral-monist boundary, fenced Relation-to-Site all consistent; "genuinely third framing" explicit); dissolve-vs-dodge posed early and left unadjudicated by design; common-cause caveat explicit (strengthens-not-confirms); Tenets 1+5 honest, no possibility/probability slippage. No dualist-conscription defect.
+- **Output**: [deep-review-2026-07-10-japanese-philosophy-of-mind-kyoto-school](/reviews/deep-review-2026-07-10-japanese-philosophy-of-mind-kyoto-school/)
+
+## 2026-07-10T23:01:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [source-attribution-divergence](/topics/source-attribution-divergence/)
+- **Word count**: 3455 → 3455 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (VERIFICATION-ONLY — no content change; last_deep_review bumped only)
+- **Citations web-verified**: 15/15 all real-correct at publisher (13 external academic + 2 internal); no defects, no propagation. Superlative sweep: 0 candidates. All 26 wikilink targets live.
+- **Output**: [deep-review-2026-07-10-source-attribution-divergence](/reviews/deep-review-2026-07-10-source-attribution-divergence/)
+
+## 2026-07-10T22:52:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Japanese Philosophy of Mind — The Kyoto School
+- **Output**: [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/)
+- **Word count**: 2438
+- **Based on research**: yes, [kyoto-school-pure-experience-absolute-nothingness-2026-07-10](/research/kyoto-school-pure-experience-absolute-nothingness-2026-07-10/)
+
+## 2026-07-10T22:45:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Japanese Philosophy of Mind — The Kyoto School on Pure Experience and Absolute Nothingness
+- **Output**: [kyoto-school-pure-experience-absolute-nothingness-2026-07-10](/research/kyoto-school-pure-experience-absolute-nothingness-2026-07-10/)
+- **Sources consulted**: 8
+
+## 2026-07-10T22:06:05+00:00 - deep-review
+- **Status**: Success (verification-only; all 13 citations independently re-verified clean at publisher of record)
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Word count**: 2657 → 2657 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 13/13 CLEAN at publisher of record (independent second pass on the flagged highest-risk quantum-consciousness cluster; confirms 2026-06-06 verdicts exactly). Tegmark 2000 (PhysRevE.61.4194), Hagan/Hameroff/Tuszynski 2002 (PhysRevE 65:061901), Hameroff & Penrose 2014 (Phys Life Rev 11:39-78, PMID 24070914), Sahu/Bandyopadhyay 2014 (Sci Rep 4:7303, srep07303), Perry 2025 (SSRN 5539838, exact title), Stapp 2008 (arXiv:0803.1633 — correctly disambiguated from Mindful Universe/QID), Schurger 2012 (pnas.1210467109), Schultze-Kraft 2016 (pnas.1513569112), Thura & Cisek 2014 (Neuron 81:1401, PMID 24656257), Rajan 2019 (Cereb Cortex 29(7):2832), Beck & Eccles 1992 (pnas.89.23.11357), Crick & Koch 1990, Libet 1983 (Brain 106(3):623). Known-defect checks: no Babcock-Hameroff 2025 phantom, no Craddock 613 THz, no Fisher 2015 in article. Argument-lens: no possibility→actuality slippage (post-decoherence selection explicitly metaphysical/non-falsifiable-by-timing). Integration: all 9 spot-checked wikilinks resolve; no n,k,d QEC notation. VERIFICATION-ONLY → last_deep_review bumped, ai_modified unchanged (2026-06-06).
+- **Output**: [deep-review-2026-07-10-quantum-neural-timing-constraints](/reviews/deep-review-2026-07-10-quantum-neural-timing-constraints/)
+
+## 2026-07-10T20:57:28+00:00 - deep-review
+- **Status**: Success (1 citation defect fixed; completes 14-cite publisher-of-record ledger)
+- **File**: [blindsight](/concepts/blindsight/)
+- **Word count**: 2843 → 2843 (0)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 14/14 at publisher of record. Founding cites (Weiskrantz Warrington Sanders Marshall 1974 Brain 97, Cowey & Stoerig 1995 Nature 373, Stoerig & Cowey 1997 Brain 120, Cowey 2010 Exp Brain Res 200, Dehaene & Naccache 2001 Cognition 79, Weiskrantz 1986/1996 books/articles) all verified real-correct. One real-wrong-metadata: Weiskrantz "Consciousness Lost and Found" cited as 1998 → corrected to 1997 (no 1998 edition exists; hardback 1997, paperback 1999), inline L81 + References. No corpus propagation. The six contemporary cites (Block/Phillips/Persaud/Lau/de Gelder/Scott) re-confirmed from 2026-06-06 ledger.
+- **Argument-lens**: rival readings presented fairly; Map's use framework-relative (no "proves the interface" over-claim); no fix needed.
+- **Output**: [deep-review-2026-07-10-blindsight](/reviews/deep-review-2026-07-10-blindsight/)
 
 ## 2026-07-10T19:37:59+00:00 - deep-review
 - **Status**: Success (VERIFICATION-ONLY — clean; completes 15-cite publisher-of-record ledger)

@@ -97,10 +97,12 @@ The honest summary: Jainism is a strong, premise-diverse addition to the cross-t
 
 ## Further Reading
 
+- [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/) — a further non-Western node: Nahua teotl monism and the distributed tonalli/teyolia/ihiyotl soul
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Sāṃkhya, Nyaya, and Vedanta; the three schools Jainism joins as a fourth Indian voice
 - [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/) — the nearest dualist-pluralist neighbour, and how Jainism's active soul differs from Sāṃkhya's passive witness
 - [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) — the structural argument to which Jainism adds a premise-diverse data point
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — where Jainism sits among non-Western responses to the hard problem
+- [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/) — a further cross-cultural basin case, handled with the same non-cheerleading discipline
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — comparative survey of mind-matter interaction models, now including Jaina karmic matter
 - [common-cause-null](/project/common-cause-null/) — the shared-method objection that caps what convergence, Jainism included, can show
 

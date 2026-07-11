@@ -20,7 +20,7 @@ description: Human+AI exploration of source-attribution divergence—the within-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 09:40:07+00:00
+last_deep_review: 2026-07-10 23:01:10+00:00
 modified: *id001
 related_articles:
 - '[[source-attribution-void]]'

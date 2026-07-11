@@ -192,6 +192,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [haecceity](/concepts/haecceity/) — The metaphysical concept of primitive thisness
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* conscious being?
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* tradition in Advaita Vedānta and Buddhist meditation
+- [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/) — Nishida's pure experience and absolute nothingness: the Japanese Buddhist–idealist synthesis in full
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing modes
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — Minimal phenomenal experience and the zero-person perspective
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams, lucid dreaming, and Tibetan dream yoga

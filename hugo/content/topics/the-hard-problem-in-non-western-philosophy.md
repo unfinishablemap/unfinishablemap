@@ -110,7 +110,7 @@ Nishida Kitarō (1870–1945), founder of Japan's Kyoto School, attempted to syn
 
 Nishida dissolves the hard problem by denying that consciousness needs to be explained by physical processes. Pure experience precedes and grounds both subject and object. The hard problem arises only when one starts from the object side and tries to derive the subject. Start from pure experience, and there is no gap to bridge.
 
-His later Logic of *Basho* (Place) develops this into a hierarchy: from the topos of being, through the topos of consciousness, to the topos of *absolute nothingness*—the formless ground within which all determinate reality takes place. This resonates with the [witness-consciousness](/concepts/witness-consciousness/) tradition's discovery that the observing subject always retreats beyond any attempt to objectify it.
+His later Logic of *Basho* (Place) develops this into a hierarchy: from the topos of being, through the topos of consciousness, to the topos of *absolute nothingness*—the formless ground within which all determinate reality takes place. This resonates with the [witness-consciousness](/concepts/witness-consciousness/) tradition's discovery that the observing subject always retreats beyond any attempt to objectify it. The Kyoto School—Nishida together with Nishitani, Tanabe, and Watsuji—receives a fuller treatment, including the dissolve-versus-dodge question and the James neutral-monist boundary, in [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/).
 
 ## African Philosophy: Consciousness as Relational
 
@@ -160,9 +160,11 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 
 ## Further Reading
 
+- [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/) — Nahua teotl process-monism and the tripartite tonalli/teyolia/ihiyotl soul: the Indigenous-Americas basin-edge node
 - [jain-philosophy-of-mind](/topics/jain-philosophy-of-mind/) — Jain substance-pluralist dualism, graded sentience, and anekantavada as a non-Western node
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The Western formulation of the problem
 - [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) — The Chinese counter-example expounded on its own terms: organicism, *qi/li/Dao*, Zhu Xi, and Wang Yangming
+- [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/) — The Kyoto School's pure experience and absolute nothingness as a second non-substantialist basin edge
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Broader survey of Hindu, Buddhist, and Taoist engagement with consciousness
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Detailed compatibility analysis of Buddhist no-self and the Map's dualism
 - [witness-consciousness](/concepts/witness-consciousness/) — The Advaitic *sakṣin* and Buddhist witnessing traditions
