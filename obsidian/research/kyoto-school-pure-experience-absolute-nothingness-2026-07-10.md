@@ -1,5 +1,5 @@
 ---
-title: Research Notes - Japanese Philosophy of Mind: The Kyoto School on Pure Experience and Absolute Nothingness
+title: "Research Notes - Japanese Philosophy of Mind: The Kyoto School on Pure Experience and Absolute Nothingness"
 created: 2026-07-10
 draft: false
 ai_contribution: 100
