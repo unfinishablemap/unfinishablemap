@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-05 15:09:15+00:00
+ai_modified: 2026-07-11 00:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ description: 'A comprehensive treatment of attention as consciousness''s interfa
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 15:09:15+00:00
+last_deep_review: 2026-07-11 00:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -211,7 +211,7 @@ The convergence argument identifies *where* consciousness might influence brain 
 
 9. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 
-10. Kim, K. & Chong, S.C. (2024). Visual experience is not rich, but not sparse. *Consciousness and Cognition*.
+10. Kim, C. & Chong, S.C. (2024). Partial blindness: Visual experience is not rich, but not sparse. *Psychonomic Bulletin & Review*, 31(4), 1558-1569.
 
 11. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 
