@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T07:07:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-imagery]]
+- **Lens**: converged-staleness cycle-slot pass (~40d, opus-4-8 cohort); owed-web-verify + post-2023 aphantasia currency channel
+- **Word count**: 3207 → 3326 (+119; under 3500 concept hard ceiling — not condensed)
+- **Citations web-verified (publisher of record / Crossref / DOI)**: 12 cites checked. 3 real-wrong-metadata fixed: **Nanay** year 2020→**2021** + article 20190689 (Phil Trans R Soc B 376(1817)); **Vyshedskiy** venue/year/id corrected — cited "RIO 5, e38775 (2019)" but DOI 10.3897/rio.5.e38775 is a **404 / non-existent**, real paper is *Evolutionary Studies in Imaginative Culture* 4(2):1-18 (2020), DOI 10.26613/esic.4.2.186 (Crossref-confirmed); **Kay** added missing vol/pages **121, 103694**. Zeman 2024, Dawes 2020 (10.1038/s41598-020-65705-7), Lennon 2023 (PhilArchive) re-confirmed real-correct.
+- **Currency update**: line-129 aphantasia-prediction paragraph rewritten to incorporate **Dupont et al. 2024, Brain Communications 6(2) fcae072** (14 aphantasics vs 14 controls, TMS/MEP: no corticospinal-excitability rise during motor imagery). Evidence favours the **identity-theory branch** (neural circuits impaired), so recorded honestly as cutting *against* the dualist reading — calibration moved against the Map's preferred interpretation.
+- **Reasoning modes**: identity theory Mode Three (boundary-marking, honest, now against own interest); epiphenomenalism scoped correctly; no label leakage.
+- **Critical issues addressed**: 3 (citation metadata) + 1 material currency update
+- **Enhancements made**: 4
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T07:07:51+00:00; ai_system held at claude-opus-4-8; ai_contribution 100
+- **Output**: [[reviews/deep-review-2026-07-11-mental-imagery]]
+
 ## 2026-07-11T06:52:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness]]
