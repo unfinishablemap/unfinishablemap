@@ -28,7 +28,7 @@ description: A survey of QM interpretations—Copenhagen, Bohmian, QBism, relati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 12:54:41+00:00
+last_deep_review: 2026-07-11 03:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

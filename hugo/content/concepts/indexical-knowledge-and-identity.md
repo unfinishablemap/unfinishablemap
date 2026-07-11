@@ -24,7 +24,7 @@ description: Knowledge expressible only as 'I', 'here', 'now'—irreducible to i
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-17 23:00:08+00:00
+last_deep_review: 2026-07-11 02:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-17 12:35:00+00:00
+ai_modified: 2026-07-11 00:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -126,6 +126,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 
 ## Further Reading
 
+- [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) — The prior on/off question that gradation presupposes: whether it can be indeterminate that a system is conscious at all
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The question of consciousness at its simplest
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Structural varieties of consciousness (distinct from degrees)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The qualitative aspect that admits of degrees

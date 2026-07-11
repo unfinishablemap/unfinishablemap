@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-02 18:36:06+00:00
+ai_modified: 2026-07-11 01:09:30+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -128,6 +128,7 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 
 ## Further Reading
 
+- [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) — The prior question of whether a subject exists at all, secured by the coupling's mere engagement rather than by this efficacy threshold, which has consciousness present on both sides
 - [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — The host article in which the threshold appears as the central explanatory mechanism
 - [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold) — The cluster of capacities crossing the threshold
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — What consciousness contributes once the threshold is crossed

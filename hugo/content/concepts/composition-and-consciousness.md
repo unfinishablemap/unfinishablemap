@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-01
-ai_modified: 2026-06-09 09:02:46+00:00
+ai_modified: 2026-07-11 00:50:00+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -133,6 +133,7 @@ The metaphysics of composition provides independent support for the Map's founda
 
 ## Further Reading
 
+- [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) — The inverse question: whether consciousness itself has the sharpness this argument borrows to answer mereological vagueness
 - [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) — The extended case that three composition theories independently converge on consciousness as the criterion for genuine wholes
 - [combination-problem](/concepts/combination-problem/) — The definitional treatment of panpsychism's central challenge
 - [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) — Extended analysis of why combination fails

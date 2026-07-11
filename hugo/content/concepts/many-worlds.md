@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-08 17:26:08+00:00
+ai_modified: 2026-07-11 03:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'Why the Map rejects MWI: it raises unanswerable questions about in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 21:42:43+00:00
+last_deep_review: 2026-07-11 03:38:00+00:00
 modified: *id001
 related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
@@ -177,7 +177,7 @@ None of these conditions currently obtain. The rejection of MWI remains well-mot
 
 ## Relation to Site Perspective
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet encodes this rejection. The tenet's rationale emphasizes indexical identity: "Why am I *this* instance and not another? The framework provides no resources to answer this, yet the question seems meaningful."
+The [No Many Worlds](/tenets/#no-many-worlds) tenet encodes this rejection. The tenet's rationale emphasizes indexical identity: "Why am I *this* branch rather than any of the others? ... The framework provides no resources to resolve this, yet the question seems meaningful."
 
 MWI conflicts with multiple site commitments:
 

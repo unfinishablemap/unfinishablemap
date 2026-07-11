@@ -9,6 +9,183 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-11T04:36:00+00:00 - deep-review
+- **Status**: Success (FIX)
+- **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Word count**: 4074 → 3999 (-75; back under the 4000 topics hard ceiling via redundancy/Further-Reading trims only — no argument content or calibration qualifier cut)
+- **Critical issues addressed**: 2 — (1) Hydra citation wrong-author: "Bhattacharjee, P., et al. 2023" corrected to single-author "Hanson, A. (2023), Animal Cognition 26(6), 1799-1816" (real-wrong-metadata; false-negative that survived the 2026-06-02 ledger); (2) NY Declaration quote-fidelity: misquoted "If there's…" corrected to verbatim "When there is a realistic possibility… in decisions affecting that animal."
+- **Grafts (2026-07-09, first review)**: standing-agnostic-challenge symmetric-agnosticism framing CLEAN (wikilink resolves; not slippage — preserves parsimony-favours-no-coupling default, no tenet-upgrade); evolution-under-dualism Fixed Domain/Co-Evolution/Unfolding taxonomy names match source exactly; signatory count 605 web-verified CURRENT (live NYU page "Signature count: 605").
+- **Owed-web-verify**: Becerra 2023, Chittka 2025, Godfrey-Smith 2024, Metzinger 2020, NY Declaration 2024 all real-correct at publisher of record; Hydra corrected (above). No inline↔References orphans. Currency sweep clean (0 superlative hits).
+- **Stamps**: ai_modified + last_deep_review bumped to 2026-07-11T04:36:00+00:00 (content edit); ai_system unchanged (claude-opus-4-7).
+- **Output**: [deep-review-2026-07-11-consciousness-in-simple-organisms](/reviews/deep-review-2026-07-11-consciousness-in-simple-organisms/)
+
+## 2026-07-11T04:21:00+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [free-will](/topics/free-will/)
+- **Word count**: 3694 → 3694 (length-neutral; ~306w under the 4000 topics hard ceiling)
+- **Critical issues addressed**: 0 (2026-07-09 drift was a clean cross-review graft: well-calibrated Consequence-Argument sentence + 6 live Further-Reading links; all graft wikilinks incl. positions/agency-and-will P-A1/P-A2 resolve)
+- **Medium issues addressed**: 0 (1 LOW deferred: James line 162 verbatim-vs-paraphrase, view faithfully James's, unchanged per convergence)
+- **Owed-web-verify**: full empirical canon fresh-verified at publisher of record — Libet 1983, Schurger 2012, Desmurget 2009, Sjöberg 2024, Suddendorf-Corballis 2007, Read 2008 all real-correct; Gallagher-Zahavi/Wegner/Schwitzgebel carried from 2026-06-21; inline↔References cross-check PASS, no orphans. Engagement modes (changelog-only): Consequence-Argument graft Mode Three (correct); eliminativist Mixed Mode-Two→Three; compatibilist/MWI Mode Three.
+- **Stamps**: last_deep_review bumped to 2026-07-11T04:20:00+00:00; ai_modified left at 2026-07-09 (no body edit); ai_system unchanged (claude-opus-4-5-20251101).
+- **Output**: [deep-review-2026-07-11-free-will](/reviews/deep-review-2026-07-11-free-will/)
+
+## 2026-07-11T04:04:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Word count**: 3974 → 3974 (length-neutral; 26w under the 4000 topics hard ceiling)
+- **Critical issues addressed**: 4 (Tomasello in-text sweep-miss → +Herrmann; Andrews/Birch/Sebo Science issue 6735→6736; Godfrey-Smith 2024 end page 1672→1666; Bayne 2023 altered quote "3–4 months/arises" → verbatim "early infancy/begin")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral, at soft-warning)
+- **Owed-web-verify**: 10 cites web-verified at publisher of record (3 metadata + 1 quote defect fixed; Yoo 2025 "12-15%" divergence currency-confirmed ~14.9%; NY Declaration tiering verified — no tier-inflation); classics group-confirmed. Engagement modes (changelog-only): Carruthers Mode Two; Frankish Mode Two; LeDoux Mode Three; MWI Mode Three.
+- **ai_system**: unchanged (claude-opus-4-7)
+- **Output**: [deep-review-2026-07-11-animal-consciousness](/reviews/deep-review-2026-07-11-animal-consciousness/)
+
+## 2026-07-11T03:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/)
+- **Word count**: 4990 → 4990 (length-neutral; Maier in-text fix is char-shorter)
+- **Critical issues addressed**: 1 (dropped-author attribution)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-11-machine-question](/reviews/deep-review-2026-07-11-machine-question/)
+- **Verdict**: FIX. Eighth review; owed-web-verify pass on the 2026-07-08..10 AI-consciousness currency refine. Web-verified the NEW cites at publisher of record: Hoel 2026 (arXiv:2512.12802) real-correct; Cerullo 2026 (PhilArchive rec CERWHD) retrieved, real-correct; Butlin 2023 (arXiv:2308.08708) correctly EXCLUDES Bayne/Chalmers; Butlin 2025 TiCS (DOI 10.1016/j.tics.2025.10.011) INCLUDES Bayne + Chalmers — the L127 "which David Chalmers joined" claim CONFIRMED. Quote "no obvious technical barriers" verified as the report's wording. FIXED: in-text "Maier & Dechamps 2018" dropped third author Pflitsch → corrected to "Maier et al. 2018" (References entry already had all 3; length-safe). No slippage, no label leakage, no cliché. ai_system unchanged (mixed claude-opus-4-7+claude-opus-4-8). 4990w, under 5000 apex ceiling.
+
+## 2026-07-11T03:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 3488 → 3492 (+4; length-neutral quote fix, under 3500 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (quote-fidelity)
+- **Enhancements made**: 0
+- **Verdict**: FIX. 17th review; targeted 2026-07-08 grafts + owed publisher-of-record verify. FIXED one quote-fidelity defect: line 178 tenet-rationale quote diverged from tenets.md ("instance"→"branch", "answer"→"resolve"); corrected to source verbatim. Full fresh publisher-verify of the MWI decision-theory/probability surface (Deutsch 1999, Wallace 2003/2012, Saunders 2010, Kent 2010, Albert 2010, Albert & Loewer 1988, Graham 1973, Lewis P.J. 2007, Baker 2007, Price 2010, Schlosshauer 2013, Sebens-Carroll 2018) — ALL real-correct; two-Lewis & two-Albert traps avoided. Grafts (quantum-suicide para L106, Many-Minds L160) calibration-clean + sibling-consistent (matches indexical-knowledge-and-identity + qm-interpretations, both reviewed clean this session). Born-rule critique correctly calibrated (live dispute, not "cannot recover"). Notation clean. ai_system unchanged (claude-opus-4-6). Flagged (human, length-blocked): Sebens-Carroll inline cite lacks References entry.
+- **Output**: [deep-review-2026-07-11-many-worlds](/reviews/deep-review-2026-07-11-many-worlds/)
+
+## 2026-07-11T03:14:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 4434 → 4434 (no change — converged no-op; STRICT length-neutral, human-reserved flagship; not grown/trimmed/condensed)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: CONVERGED NO-OP. Reviewed the 2026-07-08/09 many-minds/quantum-suicide graft. Publisher-verified 7 new/recent cites (Griffiths 1984, Omnès 1994, Gell-Mann & Hartle 1990, Dowker & Kent 1996, Albert & Loewer 1988, Kremnizer-Ranchin 2015, Okon-Sebastián 2020) — all real-correct. CH framing accurate + calibrated as rival (not endorsed ally); MMI reading faithful + consistent with sibling many-worlds.md (shared "actual continuant 'I'"). Schlosshauer-2013 currency hedge FAIR (July-2025 Nature survey confirms no-majority picture). Notation/quote-fidelity clean; ai_system mixed tag (opus-4-6+opus-4-8) unchanged. Flagged (human): 5 grafted inline cites lack References entries — surface for length decision, not auto-fixed.
+- **Engagement modes** (editor-internal): MMI/Albert-Loewer Mode Three; CH/Griffiths Mode Three; Φ-modulated CSL/Kent Mode One. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-11-qm-interpretations-beyond-many-worlds](/reviews/deep-review-2026-07-11-qm-interpretations-beyond-many-worlds/)
+
+## 2026-07-11T02:59:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+- **Word count**: 2348 → 2348 (no change — converged no-op, fix-verification)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review. Confirmed 2026-07-10 Tomasello&Herrmann sweep-fix (8b231778f) faithful at publisher of record (Herrmann was a genuinely-dropped co-author). Full publisher-of-record web-verify of all 6 load-bearing cites — all real-correct (Tomasello & Herrmann 2010 Curr Dir Psychol Sci 19(1):3-8; Apperly & Butterfill 2009 Psych Review 116(4):953-970; Buttelmann et al. 2017 PLoS ONE 12(4):e0173793; Call & Tomasello 2008 TiCS 12(5):187-192; Krupenye et al. 2016 Science 354(6308):110-114; Tomasello 2014 A Natural History of Human Thinking, Harvard UP). Quote fidelity clean (scare-quote terms-of-art, no paraphrase-in-quotes). Engagement with functionalist: Mode Three (framework-boundary marking). No calibration slippage. Stamped last_deep_review only; ai_modified + ai_system (opus-4-5) unchanged.
+- **Output**: [deep-review-2026-07-11-concept-of-consciousness-and-social-cognition](/reviews/deep-review-2026-07-11-concept-of-consciousness-and-social-cognition/)
+
+## 2026-07-11T02:48:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Word count**: 2436 → 2436 (no change — converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verified the 2026-07-08 quantum-suicide paragraph clean; not modified)
+- **Web-verify**: Jackson 1982 (Phil.Quarterly 32(127):127-136), Elga 2000 (Analysis 60(2):143-147), Lewis 2001 (Analysis 61(3):171-176) — all real-correct at publisher of record; thirder/halfer attribution faithful (Elga=1/3, Lewis=1/2)
+- **Quantum-suicide paragraph**: calibration-clean, framework-relative, wikilink resolves, sibling-consistent with many-worlds.md — Mode Three boundary-marking, no slippage
+- **Stamp**: last_deep_review only (ai_modified stays 2026-07-08); ai_system unchanged (claude-opus-4-6)
+- **Output**: [deep-review-2026-07-11-indexical-knowledge-and-identity](/reviews/deep-review-2026-07-11-indexical-knowledge-and-identity/)
+
+## 2026-07-11T02:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [channel-class-taxonomy](/concepts/channel-class-taxonomy/)
+- **Word count**: 2532 → 2540 (+8, length-neutral)
+- **Critical issues addressed**: 1 (Stapp QID fabricated-verbatim quote → genuine wording)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Owed-verify discharged**: Stapp QID.pdf retrieved+parsed (quote corrected); Maier 2018 micro-PK re-verified + currency confirmed (standing null)
+- **Output**: [deep-review-2026-07-11-channel-class-taxonomy](/reviews/deep-review-2026-07-11-channel-class-taxonomy/)
+
+## 2026-07-11T02:14:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Lens**: owed publisher-of-record citation web-verify + quote fidelity (opus-4-7, 34d converged since 2026-06-07; the June review DEFERRED the standing cite list to "six prior review ledgers" rather than fresh-verifying — deferred-verification residual, now discharged)
+- **Verdict**: FIX — two real defects corrected
+- **Quote-fidelity fix**: Husserl "absolute subjectivity" passage (line 53) was a paraphrase-in-quotes ("in accordance with that which is constituted… not something that is temporally objective. It is the absolute subjectivity") → corrected to canonical Brough wording ("in conformity with what is constituted, but it is not 'something in objective time.' It is absolute subjectivity"). Verified against altexploit transcription + IEP. Survived 7 prior reviews because cite metadata (Husserl 1991/Brough) was faithful while the quoted string had drifted
+- **Currency fix**: Frischhut advanced from advance-access → version of record; updated 2024→2026, added *Philosophical Quarterly* 76(1):127–150, clean DOI (both References entry + in-body year)
+- **Web-verified (publisher of record, all real-correct)**: Pinto 2017 (Brain 140(5):1231-1237), Lewis 2012 (PNAS 109(49):E3377-E3386, full 11-author list intact), Mashour 2012 (PNAS 109(49):19876-19877), Hoerl 2013 (PPR 86(2):376-411), Bayne 2010 (OUP), Katz 1978 (pp.22-74 OUP), Sharf 1995 (Numen 42(3):228-283), Sharf 2000 (JCS 7(11-12):267-287), Putnam 1967 (J.Phil 64(8):240-247), Maudlin 2007 (OUP), Mellor 1998 (Routledge), Price 1996 (OUP), Barbour 1999 (OUP), Petkov 2009 (2nd ed Springer), Rovelli 1996 (IJTP 35:1637-1678), 2025 layered-unity (Phil Studies)
+- **Quotes verbatim-checked**: Husserl "shocking (when not initially even absurd)" ✓, Katz "no pure (i.e., unmediated) experiences" ✓, Sharf "ritualization of experience… scripts for the performance of an eminently public religious drama" ✓, Pinto title ✓, Frischhut "timeless"/ENI ✓ — only the Husserl absolute-subjectivity quote was defective
+- **Currency sweep**: find_superlative_claims empty; no standing-record claims
+- **Inline vs punt**: verified INLINE (no subagent); ~13 targeted WebSearches + 3 WebFetches
+- **Word count**: 3515 → ~3512 (length-neutral; soft_warning, under 4000 hard)
+- **Output**: [deep-review-2026-07-11-non-temporal-consciousness](/reviews/deep-review-2026-07-11-non-temporal-consciousness/)
+
+## 2026-07-11T01:52:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)
+- **Lens**: owed publisher-of-record citation web-verify (last high-yield owed target this session; opus-4-6, 36d converged, June review's citation-verify signal was 0). Split cite set: modern scholarship hardest, Stapp disambiguation, Elisabeth primary-source quote fidelity
+- **Verdict**: FIX — one real quote-accuracy defect corrected: Elisabeth line 58 "neither is it all repugnant" → "neither is it at all repugnant" (dropped "at"; French "n'y répugnant point" = "not at all repugnant"). All web-verified cites real-correct
+- **Web-verified (publisher of record, all real-correct)**: Stencil 2023 (JMP 5, art.4), Janssen-Lauret 2018 (Cambridge, Early Modern Women on Metaphysics ch.9, 171-187), Cucu & Pitts 2019 (Mind and Matter 17(1):95-121), Pitts 2020 (Philosophia 48(2):673-707), Hameroff & Penrose 2014 (Phys Life Rev 11:39-78), Shapiro 2007 (Chicago), Ebbersmeyer & Hutton 2021 (Springer), PhilPapers 2020 (51.9%/32.1% ✓). Stapp 2007 correctly disambiguated = Mindful Universe (Springer book), NOT the 2005 QID paper
+- **Inline vs punt**: verified INLINE (no subagent); ~11 targeted WebSearches
+- **Word count**: 2420 → 2420 (no change; ok, 81% soft)
+- **Critical issues addressed**: 1 (quote-accuracy fix)
+- **Medium issues addressed**: 0 (one low author-order item at line 119 noted, left to avoid oscillation)
+- **Output**: [deep-review-2026-07-11-history-of-the-interaction-problem](/reviews/deep-review-2026-07-11-history-of-the-interaction-problem/)
+
+## 2026-07-11T01:41:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Lens**: genuine-body-drift target (citation-owed seam depleted this session). Verify the 2026-07-10 locked-in drift sentence against the now-live sibling [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/); secondary currency-sweep of active covert-consciousness cites
+- **Verdict**: NO-OP — drift sentence coherent with sibling (communication-vs-detection, bounds-not-confirms, pure-output, honest-negative-bound all map faithfully); wikilink unique/resolves/reciprocates (5 back-refs); distinction used consistently; 4 load-bearing cites June-verified, currency sweep clean (finder 0 matches, no superlatives)
+- **Word count**: 3995 → 3995 (no change; soft_warning, under hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Stamps**: last_deep_review → 2026-07-11; ai_modified left at 2026-07-10 (no content change)
+- **Output**: [deep-review-2026-07-11-consciousness-disruption-and-the-mind-brain-interface](/reviews/deep-review-2026-07-11-consciousness-disruption-and-the-mind-brain-interface/)
+
+## 2026-07-11T01:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cumulative-culture](/concepts/cumulative-culture/)
+- **Lens**: owed-web-verify-seam staleness (opus-4-5 oldest cohort, 38d converged, no body drift); publisher-of-record re-verify of the Tomasello/Whiten famous-name cluster
+- **Verdict**: NO-OP — sixth review, converged; all citations real + correct
+- **Citations web-verified inline**: Tennie/Call/Tomasello 2009 (pages 2405-2415 confirmed exact), Whiten et al. 1999 (Nature 399(6737):682-685), Gruber et al. 2015 (Front Psychol 6:91), Boyd & Richerson 1996 (Proc Br Acad 88:77-93) — all real + correct, 0 fabricated, 0 wrong-metadata
+- **Currency sweep**: no superlative claims detected; no drift
+- **Word count**: 3026 → 3026 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Stamps**: last_deep_review → 2026-07-11T01:30:00+00:00 (ai_modified unchanged at 2026-06-03T08:30:00)
+- **Output**: [deep-review-2026-07-11-cumulative-culture](/reviews/deep-review-2026-07-11-cumulative-culture/)
+
+## 2026-07-11T01:09:30+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/)
+- **Lens**: argument + citation cross-review of fresh create; chain successor to its expand-topic
+- **Verdict**: FIX — resolved real cross-article contradiction (interface-threshold existence/efficacy conflation)
+- **Word count**: 1886 → 2142 (+256)
+- **Critical issues addressed**: 1 (interface-threshold/existence-fact conflation, fixed across TWO files via explicit efficacy-vs-existence disambiguation)
+- **Medium issues addressed**: 1 (Antony-conditional debt vs composition-and-consciousness graded proxies — bridging clause added)
+- **Enhancements**: strengthened coupling-sorites-immunity counterargument (named graded-trigger residual risk); added Madhyamaka no-self stance as fourth option
+- **Citations**: 8 web-verified at publisher of record, all real-correct (Schwitzgebel 2023, Hall 2023, Tye 2021, Simon 2017, Antony 2006 ×2, Papineau 2002; subject-counting paper correctly flagged venue-unconfirmed). Research fork's corrections held.
+- **Second file**: [interface-threshold](/concepts/interface-threshold/) — reciprocal back-link text fix (ai_modified bumped only)
+- **Output**: [deep-review-2026-07-11-phenomenal-sorites-problem](/reviews/deep-review-2026-07-11-phenomenal-sorites-problem/)
+
+## 2026-07-11T00:50:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The phenomenal-sorites problem / ontic vagueness of consciousness
+- **Output**: [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/)
+- **Word count**: 1886
+- **Based on research**: yes — [is-phenomenal-consciousness-ontically-vague-the-phenomenal-sorites-problem-2026-07-11](/research/is-phenomenal-consciousness-ontically-vague-the-phenomenal-sorites-problem-2026-07-11/)
+- **Inbound links added**: composition-and-consciousness, degrees-of-consciousness, interface-threshold, vagueness-void
+
+## 2026-07-11T00:40:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [type-token-causation](/concepts/type-token-causation/)
+- **Word count**: 2916 → 2916 (converged no-op — no content/citation defect)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; 117% of soft, ~584w headroom)
+- **Note**: Owed-web-verify-seam cycle-slot on an opus-4-7 article converged 38d since 2026-06-03. Body git-confirmed settled (only change since June review = one anomalous-monism cross-link + timestamp bump on 2026-07-10). Individually web-verified ALL 10 external cites at publisher of record INLINE (no subagent punt): Davidson 1970, Frankish 2016, Kim 1998, Kim 2005, Loar 1990, Macdonald&Macdonald 1986, Papineau 2002, Peirce 1906, Saad 2025 (DOI re-affirmed), Yablo 1992 — all real-correct. June review had only DOI-verified Saad and "group-confirmed" the 8 canonical cites by heuristic; this pass completes the per-cite ledger. No superlative/currency claims; no calibration slippage (Tenet-3); reasoning modes unchanged; in-quote IIT string matches live sibling; new cross-link resolves+reciprocates; EOF clean. No-op hygiene: bumped last_deep_review ONLY (ai_modified left at 2026-07-10 cross-link touch).
+- **Output**: [deep-review-2026-07-11-type-token-causation](/reviews/deep-review-2026-07-11-type-token-causation/)
+
 ## 2026-07-11T00:34:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)

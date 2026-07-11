@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-06-07 12:33:18+00:00
+ai_modified: 2026-07-11 02:14:44+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Can consciousness exist outside time? Husserl's absolute flow, medi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-07 12:33:18+00:00
+last_deep_review: 2026-07-11 02:14:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,13 +52,13 @@ Consciousness may not be fundamentally temporal. The Map's treatment of [tempora
 
 Edmund Husserl identified three levels of temporal constitution. Transcendent objects exist in world time. Immanent unities are experiences within time — hearing a melody, feeling pain. Beneath both lies what Husserl called the **absolute flow**: the consciousness that constitutes temporal experience without itself being temporal. Husserl himself described the conclusion as "shocking (when not initially even absurd)" — Hoerl (2013) takes that self-assessment as the starting point for understanding what Husserl was attempting.
 
-The argument is one of regress. If the consciousness that constitutes our experience of time were itself temporal, it would need another consciousness to constitute *its* temporality, generating an infinite regress. The absolute flow stops the regress by being "standing-streaming" — it manifests temporality without itself occurring in sequence. As Husserl wrote: "This flow is something we speak of in accordance with that which is constituted, but it is nevertheless not something that is temporally objective. It is the absolute subjectivity."
+The argument is one of regress. If the consciousness that constitutes our experience of time were itself temporal, it would need another consciousness to constitute *its* temporality, generating an infinite regress. The absolute flow stops the regress by being "standing-streaming" — it manifests temporality without itself occurring in sequence. As Husserl wrote: "This flow is something we speak of in conformity with what is constituted, but it is not 'something in objective time.' It is absolute subjectivity."
 
 Temporal categories — succession, simultaneity, before and after — apply to what the flow produces, not to the flow itself. Retention, primal impression, and protention (the forward-directed structure examined in [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)) belong to immanent temporal unities, not to the absolute subjectivity that makes them possible.
 
 ## Meditative Evidence for Timelessness [Open]
 
-Husserl's argument is phenomenological and theoretical. Frischhut (2024) provides first-person corroboration: advanced meditators report deep states as "timeless" while remaining continuously alert. Her **Extended Now Interpretation (ENI)** resolves the apparent contradiction — "timelessness" means experiencing indeterminate duration without temporal structure. No succession, no change, no beginning, no end, yet alertness persists. The witness-layer surfacing when ordinary attention returns from wandering ([phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)) is the everyday correlate of what sustained practice cultivates as a content-free condition.
+Husserl's argument is phenomenological and theoretical. Frischhut (2026) provides first-person corroboration: advanced meditators report deep states as "timeless" while remaining continuously alert. Her **Extended Now Interpretation (ENI)** resolves the apparent contradiction — "timelessness" means experiencing indeterminate duration without temporal structure. No succession, no change, no beginning, no end, yet alertness persists. The witness-layer surfacing when ordinary attention returns from wandering ([phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)) is the everyday correlate of what sustained practice cultivates as a content-free condition.
 
 This is distinct from ordinary time distortion. When absorbed in a task, time seems to speed up — but succession persists. In deep meditative states, succession itself reportedly ceases. The brain operates temporally throughout meditation; neural oscillations continue; yet the meditator reports experience stripped of temporal character. If atemporality is constitutive rather than merely representational, this puts pressure on identity claims between experience and temporal neural process.
 
@@ -155,7 +155,7 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 1. Barbour, J. (1999). *The End of Time: The Next Revolution in Physics*. Oxford University Press.
 1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
-1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*. https://academic.oup.com/pq/advance-article-abstract/doi/10.1093/pq/pqae081/7718358
+1. Frischhut, A. (2026). Awareness without Time? *The Philosophical Quarterly*, 76(1), 127–150. https://doi.org/10.1093/pq/pqae081
 1. Hoerl, C. (2013). Husserl, the Absolute Flow, and Temporal Experience. *Philosophy and Phenomenological Research*, 86(2), 376-411.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (trans. Brough). Kluwer.
 1. Katz, S. T. (1978). Language, Epistemology, and Mysticism. In S. T. Katz (Ed.), *Mysticism and Philosophical Analysis* (pp. 22–74). Oxford University Press.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-06-03 08:28:41+00:00
+ai_modified: 2026-07-11 00:50:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -119,6 +119,7 @@ A reflexive consequence follows: every void article uses vague concepts (*struct
 
 ## Further Reading
 
+- [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) — vagueness applied to consciousness itself: whether there can be no fact of the matter whether a system is conscious at all
 - [suspension-void](/voids/suspension-void/) — analogous three-faced structure for the capacity to withhold judgement
 - [imagery-void](/voids/imagery-void/) — companion three-faced void in the imagery domain
 - [recognition-void](/voids/recognition-void/) — recognition's binary output absorbs vague extension into determinate verdict

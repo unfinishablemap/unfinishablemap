@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-12
-ai_modified: 2026-06-02 20:01:38+00:00
+ai_modified: 2026-07-11 02:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'A Shannon-channel taxonomy of mind-physical coupling: five classes
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 20:01:38+00:00
+last_deep_review: 2026-07-11 02:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Commitments required.** A mind that can distinguish among brain-prepared candidates and that participates in actualising one. Nothing else: the candidate set is brain-set, the weights are physics-set, and no energy crosses the interface.
 
-**Theories that occupy it.** The strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction); the channel-theoretic version of Stapp's outcome-level commitment when read without the basis-choice layer above it ("the mind would only have the option to choose the observable, not the option of selecting the measurement result in deviation from the Born's probability law"; Stapp n.d.); pure outcome-selection accounts of [post-decoherence selection](/concepts/post-decoherence-selection/).
+**Theories that occupy it.** The strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction); the channel-theoretic version of Stapp's outcome-level commitment when read without the basis-choice layer above it (in Stapp's framing the agent "chooses only the question" while "the answer is picked by 'Nature', in accordance with a specified statistical law", Stapp n.d. — at the outcome level, selection without deviation from Born statistics); pure outcome-selection accounts of [post-decoherence selection](/concepts/post-decoherence-selection/).
 
 **Conservation laws and no-signalling.** All conservation laws are satisfied without qualification: no energy, momentum, or charge is transferred. The no-signalling theorem is trivially respected — Born-rule preservation across many trials is the channel's defining constraint (Han & Choi 2016). Second-order interference is preserved by construction (Sorkin 1994). The class is the cleanest member of the formalism's [five-constraint corridor](/concepts/consciousness-physics-interface-formalism/).
 

@@ -27,7 +27,7 @@ description: Type-token causation distinguishes statistical type-level effects f
 draft: false
 human_modified: null
 last_curated: 2026-05-11
-last_deep_review: 2026-06-03 02:44:01+00:00
+last_deep_review: 2026-07-11 00:40:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
