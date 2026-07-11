@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T15:47:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/eliminative-materialism]]
+- **Word count**: 3905 → 3905 (0, verification-only)
+- **Critical issues addressed**: 0 (post-refine deltas verified clean)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verified**: Searle 1995 NYRB Moorean quote (verbatim-faithful at nybooks.com primary source); Dennett 1978 Synthese 38(3):415-456 (Springer DOI BF00486638, real-correct); Toon 2023 Mind as Metaphor OUP (Routledge→OUP correction held); reference renumber desynced no inline pointer (author-year corpus, zero `[N]` cites); Loginov/Morozov Moorean roles current. Stamped last_deep_review only; ai_system held at claude-opus-4-7 (no re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-11-eliminative-materialism]]
+
 ## 2026-07-11T15:28:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/competency-without-felt-experience]]
