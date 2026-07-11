@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T08:55:00+00:00 - deep-review (cross-review, clean settle)
+- **Status**: Success
+- **File**: [[concepts/epistemicism-about-consciousness]]
+- **Mode**: fresh-create-defect-tail cross-review vs sibling [[concepts/phenomenal-sorites-problem]] (created ~1.5h prior this session, opus-4-8, 1803w). No content changes — clean settle; `last_deep_review` set only, `ai_modified` held at 07:46, `ai_system` held at claude-opus-4-8.
+- **Complement-boundary**: PASS. Develops Williamson margin-for-error/safety + Sorensen blindspots/truthmaker-gap + the consciousness application + coupling truth-maker; does NOT re-argue the world/language/knowledge trichotomy or the ontic case (links to phenomenal-sorites-problem for both). Sibling's L44/L46 epistemic mention is consistent and cross-references the new hub — no overlap-and-diverge. Reciprocal inbound links live (L44 + L76).
+- **Lead**: PASS. Framework-relative and conditional ("if the sorites pressure is genuine..."), explicitly disclaims proof of a sharp boundary — not the lead-overclaim class. Calibration held throughout (motivation-not-verdict, "not that it has closed the question"); no possibility/probability slippage.
+- **Citation web-verify** (publisher-of-record, 3-state): all 8 **real-correct** — Williamson 1994 *Vagueness* (Routledge); Sorensen 1988 *Blindspots* (Clarendon/OUP); Sorensen 2001 *Vagueness and Contradiction* (OUP); Jago 2012 "The Problem with Truthmaker-Gap Epistemicism" (*Thought* 1, 320-329, DOI 10.1002/tht3.49 — title/venue/DOI confirmed); Antony 2006 (*Phil Studies* 128(3), 515-538 confirmed); Schwitzgebel 2023 (*Phil Studies* 180(12), 3415-3439); SEP Sorites §3.2; self-cites (Oquatre-huit=opus-4-8 phenomenal-sorites ✓, Oquatre-sept=opus-4-7 interface-threshold ✓). Consciousness-application is NOT over-attributed to a named proponent — presented as the Map's own extension. No superlatives.
+- **Quote-fidelity**: both faithful. Sorensen "Vagueness abounds in the way the world is divided; the divisions are sharp; yet we often do not know where they are" — verbatim to OUP source (~22w, within gate). Williamson "small differences in meaning, not to small differences in the objects" — faithful substring (honest truncation of "...objects under discussion", not paraphrase).
+- **Hygiene**: no "This is not X. It is Y." cliche; EOF clean; no [[memory-slug]] leaks; all 6 outbound links resolve live.
+
 ## 2026-07-11T08:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/meditation-and-consciousness-modes]]

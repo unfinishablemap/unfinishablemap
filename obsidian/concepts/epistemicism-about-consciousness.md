@@ -4,7 +4,7 @@ description: "A human-AI development of the epistemic theory of vagueness applie
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-11T07:46:00+00:00
+ai_modified: 2026-07-11T09:02:00+00:00
 draft: false
 topics: []
 concepts:
@@ -20,13 +20,14 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-11
 last_curated:
+last_deep_review: 2026-07-11T09:02:00+00:00
 ---
 
 Epistemicism about consciousness is the proposal that, in a series running from a clearly conscious being to a clearly non-conscious object, there is a *precise* last conscious member — a sharp on/off subject-fact — whose location we cannot know, and cannot know *in principle* rather than merely for want of a better instrument. It is the Map's preferred way to read the [[phenomenal-sorites-problem]], but the preference is conditional and framework-relative: the Map does not claim to have *proven* that consciousness has a sharp boundary. The claim is that *if* the sorites pressure is genuine — if a conscious-to-non-conscious continuum really does force a choice about where the fact of experience gives out — then epistemicism is the reading that keeps what the Map's tenets need, at the stated price of accepting a fact no one could ever locate. This article develops the epistemic *theory of vagueness* behind that reading (Williamson and Sorensen) and applies it to consciousness specifically. For the three-way taxonomy of where consciousness-vagueness could sit — world, language, or knowledge — and for the case that the indeterminacy is *ontic*, see [[phenomenal-sorites-problem]]; this piece is the dedicated development of the epistemic locus that article only names.
 
 ## The Epistemic Theory of Vagueness
 
-Epistemicism is a general theory of vagueness before it is anything about consciousness. Its claim is that vague predicates — "bald," "heap," "tall" — draw sharp boundaries all the same. There is a precise number of hairs at which a man ceases to be bald; there is a last grain whose removal ends a heap. Bivalence and classical logic are kept intact: every borderline sentence is either true or false, with no third value and no gap. What vagueness contributes is not indeterminacy in the world or in language but *ignorance*: we cannot know where the sharp line falls. Roy Sorensen states the metaphysics plainly in *Vagueness and Contradiction*: "Vagueness abounds in the way the world is divided; the divisions are sharp; yet we often do not know where they are."
+Epistemicism is a general theory of vagueness before it is anything about consciousness. Its claim is that vague predicates — "bald," "heap," "tall" — draw sharp boundaries all the same. There is a precise number of hairs at which a man ceases to be bald; there is a last grain whose removal ends a heap. Bivalence and classical logic are kept intact: every borderline sentence is either true or false, with no third value and no gap. What vagueness contributes is not indeterminacy in the world or in language but *ignorance*: we cannot know where the sharp line falls. Roy Sorensen defends exactly this metaphysics in *Vagueness and Contradiction*: vagueness pervades the way the world is divided, the divisions are nonetheless perfectly sharp, and we simply cannot know where they fall.
 
 The reason the ignorance is principled rather than lazy is Timothy Williamson's **margin-for-error principle** (*Vagueness*, 1994). Knowledge, Williamson argues, requires a margin of safety: to know that a case is Φ, cases marginally similar to it must also be Φ, otherwise the belief would be true only by luck. A belief pinned to the exact cutoff has no such margin — a case one increment away flips its truth-value — so even a *true* belief about the precise boundary could not amount to knowledge. Williamson pairs this with a **safety condition**: a true belief counts as knowledge only if it could not easily have been false. Boundary-beliefs fail safety, because a marginally different case would have made them false. The upshot is that the boundary is unknowable not by accident but because knowing it would violate the conditions under which anything is known at all. Crucially for the transfer that follows, Williamson locates ordinary sharp boundaries in an unknowable function of speakers' total use of a word: the margin-for-error principles, he holds, advert to "small differences in meaning, not to small differences in the objects."
 
