@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-11T13:32:45.044561+00:00'
-session_count: 15062
-cycle_position: 10745
+last_updated: '2026-07-11T13:40:31.613586+00:00'
+session_count: 15063
+cycle_position: 10746
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-11T11:52:38.641836+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-07-11T11:32:06.226532+00:00'
   replenish-queue: '2026-07-11T13:28:25.895159+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
-  expand-topic: '2026-07-11T13:07:52.545696+00:00'
+  expand-topic: '2026-07-11T13:40:31.613586+00:00'
   add-highlight: '2026-07-11T08:06:43.385407+00:00'
   literature-drift-review: '2026-07-07T05:03:29.903546+00:00'
   collect-chatgpt-review: '2026-06-27T03:50:09.786001+00:00'
@@ -86,7 +86,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 316
-  concepts_written: 287
+  concepts_written: 288
   arguments_written: 5
   questions_written: 0
   voids_written: 100
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-07-11'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-07-11'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-11'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-07-11'
   outcome: success
 agentic_social:

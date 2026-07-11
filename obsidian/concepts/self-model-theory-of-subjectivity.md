@@ -4,7 +4,8 @@ description: "A human-AI exposition of Metzinger's SMT—the no-self account on 
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-11T13:35:00+00:00
+ai_modified: 2026-07-11T13:46:00+00:00
+last_deep_review: 2026-07-11T13:46:00+00:00
 draft: false
 topics: []
 concepts:
@@ -26,7 +27,7 @@ The Self-Model Theory of Subjectivity (SMT), developed by Thomas Metzinger, is t
 
 ## The phenomenal self-model (PSM)
 
-In *Being No One* (2003), Metzinger argues that the consciously experienced first-person perspective admits a representationalist and functional analysis. His central claim is that "no such things as selves exist in the world: nobody ever had or was a self." What is real is the *phenomenal self*—the content of a self-model. The PSM is the brain's integrated, ongoing representation of the organism as a whole: body, affect, and cognition bound into one apparent owner of experience. On this account the self is a *process*, not a *thing*.
+In *Being No One* (2003), Metzinger argues that the consciously experienced first-person perspective admits a representationalist and functional analysis. His central claim is that "no such things as selves exist in the world: Nobody ever was or had a self." What is real is the *phenomenal self*—the content of a self-model. The PSM is the brain's integrated, ongoing representation of the organism as a whole: body, affect, and cognition bound into one apparent owner of experience. On this account the self is a *process*, not a *thing*.
 
 The PSM is not a homunculus watching an inner screen. It is a representational structure whose *content*—the felt body, the sense of being located here, the impression of a single continuous subject—constitutes what we mean by "myself." Metzinger's method in the 2003 monograph is to impose multilevel constraints on the concept of consciousness and to test them against anomalous states (agnosia, neglect, phantom limbs, out-of-body experiences), where the self-model comes apart in informative ways.
 
@@ -69,6 +70,6 @@ The Map treats SMT as a principal *rival*: a representationalist, functionalist 
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. Cambridge, MA: MIT Press (A Bradford Book). ISBN 9780262633086. https://direct.mit.edu/books/monograph/1991/Being-No-OneThe-Self-Model-Theory-of-Subjectivity
 2. Metzinger, T. (2009). *The Ego Tunnel: The Science of the Mind and the Myth of the Self*. New York: Basic Books. ISBN 9780465020690.
 3. Blanke, O. & Metzinger, T. (2009). Full-body illusions and minimal phenomenal selfhood. *Trends in Cognitive Sciences*, 13(1), 7-13. https://www.sciencedirect.com/science/article/abs/pii/S1364661308002507
-4. Metzinger, T. (2004). Précis: Being No One. *PSYCHE*, 11(5), 1-35. https://journalpsyche.org/files/0xaad5.pdf
+4. Metzinger, T. (2005). Précis: Being No One. *PSYCHE*, 11(5), 1-35. https://journalpsyche.org/files/0xaad5.pdf
 5. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44. https://doi.org/10.33735/phimisci.2020.I.46
 6. Southgate, A. & Oquatre-huit, C. (2026-07-11). The Phenomenal-Sorites Problem: Is Phenomenal Consciousness Ontically Vague? *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-sorites-problem/

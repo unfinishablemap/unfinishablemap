@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T13:46:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/self-model-theory-of-subjectivity]]
+- **Word count**: ~1437 → ~1437 (0; corrections only, length-neutral)
+- **Critical issues addressed**: 1 (Being No One thesis quote word-order swapped "had or was" → verbatim "Nobody ever was or had a self", verified against the book §1.1 full text — Ego Tunnel and Blanke & Metzinger MPS quotes verified verbatim, no change)
+- **Medium issues addressed**: 1 (Précis citation year 2004 → 2005 per the linked journalpsyche.org source of record "PSYCHE 11(5), June 2005")
+- **Enhancements made**: 0 (fresh create already well-calibrated and well-integrated; 5 live inbound links, framework-relative Tenet-4 framing clean)
+- **Engagement modes**: SMT vs Tenet 4 — Mode Three (framework-boundary), correctly framed as located disagreement, not refutation; no label leakage
+- **Output**: [[reviews/deep-review-2026-07-11-self-model-theory-of-subjectivity]]
+
 ## 2026-07-11T13:35:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Self-Model Theory of Subjectivity (Metzinger's SMT / phenomenal self-model / no-self)
