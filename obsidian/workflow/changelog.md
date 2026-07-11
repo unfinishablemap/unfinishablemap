@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T12:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/prebiotic-collapse]]
+- **Word count**: 3555 → 3488 (net -67 after +calibration register, -redundancy trims)
+- **Critical issues addressed**: 2 (overdetermination/completeness tension between outcome-complete OR and consciousness-determines-outcomes; Response-3 vs determination-claims contradiction)
+- **Medium issues addressed**: 1 (length: offset additions by removing duplicated tenet bullet list + verbatim-repeated framework sentence)
+- **Resolution chosen**: route (a) corridor/timing-basis reading — OR supplies collapse occurrence/timing/basis universally; physical noise fixes tokens (Born stats) only where no interface present; consciousness authors token-selection within the Born corridor where an interface-grade neural system is present. Inherits, not escapes, the token-vs-ensemble question.
+- **Cross-links added**: [[post-decoherence-selection-programme#the-bias-without-deviation-dilemma-open]], [[ensemble-level-epiphenomenalism]] (x2), [[delegatory-causation]]
+- **Citation verify**: Hameroff prebiotic-soup quote real-correct (ScienceDirect "Quantum Origin of Life"); Tegmark 2000 PRE 61:4194 real-correct
+- **Attribution**: ai_system held at claude-opus-4-6 (not flipped to reviewing model)
+- **Output**: [[reviews/deep-review-2026-07-11-prebiotic-collapse]]
+
 ## 2026-07-11T12:12:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: First-order representationalism about consciousness (Tye/Dretske)
