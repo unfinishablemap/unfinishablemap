@@ -4,7 +4,7 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-07-07T01:50:52+00:00
+ai_modified: 2026-07-11T12:35:00+00:00
 draft: false
 last_deep_review: 2026-07-08T01:00:07+00:00
 topics:
@@ -173,6 +173,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 
 - [[hard-problem-of-consciousness]] — The puzzle GWT doesn't address
 - [[higher-order-theories]] — Competitor theory requiring higher-order representation
+- [[recurrent-processing-theory]] — The local / first-order rival that dissociates phenomenality from the global access GWT makes constitutive
 - [[predictive-processing]] — Prediction-error framework integratable with GWT
 - [[attention-as-interface]] — Attention as the gateway to the workspace and the Map's proposed mind-matter interface
 - [[phenomenology-of-intellectual-life]] — Why availability isn't integration: the unity of understanding

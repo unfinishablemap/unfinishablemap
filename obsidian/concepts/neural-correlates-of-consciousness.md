@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-06T22:03:17+00:00
+ai_modified: 2026-07-11T12:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -198,6 +198,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [[explanatory-gap]] — The conceptual chasm NCC cannot bridge
 - [[filter-theory]] — The transmission model reinterpreting NCCs as interface points
 - [[integrated-information-theory]] — One major NCC-compatible theory
+- [[recurrent-processing-theory]] — The local / first-order NCC theory: phenomenal consciousness as re-entrant sensory-cortex processing
 - [[interactionist-dualism]] — How non-physical consciousness could interact with NCC
 - [[illusionism]] — The view that consciousness is a brain-generated illusion
 - [[degrees-of-consciousness]] — How consciousness varies in intensity and complexity — what NCCs track at different levels

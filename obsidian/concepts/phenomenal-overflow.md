@@ -4,7 +4,7 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-06-22T16:10:00+00:00
+ai_modified: 2026-07-11T12:35:00+00:00
 last_deep_review: 2026-06-22T16:10:00+00:00
 draft: false
 topics:
@@ -174,6 +174,7 @@ This connects to [[acquaintance-void|the broader void of pre-conceptual knowing]
 - [[access-consciousness]]—the functional aspect that overflow exceeds
 - [[phenomenal-consciousness]]—the "what it's like" that may overflow
 - [[global-workspace-theory]]—theory of access that may not capture full phenomenology
+- [[recurrent-processing-theory]]—Lamme's NCC theory whose Stage-3 reading predicts overflow on neural grounds, converging with Block's argument
 - [[introspection]]—the method by which we access (and possibly miss) experience
 - [[attention-as-interface]]—how attention mediates conscious selection from the phenomenal field
 - [[stapp-quantum-mind]]—a proposed mechanism for conscious selection from phenomenal overflow

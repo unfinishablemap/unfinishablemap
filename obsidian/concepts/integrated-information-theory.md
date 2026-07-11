@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-06-07T12:00:00+00:00
+ai_modified: 2026-07-11T12:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -219,6 +219,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [[panpsychism]] — A related view on consciousness's ubiquity
 - [[illusionism]] — The challenge IIT must answer
 - [[global-workspace-theory]] — IIT's main rival, also tested in COGITATE
+- [[recurrent-processing-theory]] — A fellow posterior-cortex theory, but a specific re-entrant-loop mechanism rather than a system-level Φ identity
 - [[emergence]] — Strong vs weak emergence and consciousness
 - [[concepts/functionalism]] — The view IIT rejects with substrate-dependence
 - [[consciousness-disruption-and-the-mind-brain-interface]] — How disorders of consciousness challenge IIT's predictions

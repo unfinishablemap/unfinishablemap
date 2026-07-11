@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T12:36:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Recurrent Processing Theory of Consciousness (Lamme's local-recurrency NCC theory)
+- **Output**: [[concepts/recurrent-processing-theory]]
+- **Word count**: 1562
+- **Based on research**: yes, [[research/recurrent-processing-theory-of-consciousness-2026-07-11]]
+- **Cross-links**: reciprocal inbound links added from neural-correlates-of-consciousness, global-workspace-theory, integrated-information-theory, higher-order-theories, phenomenal-overflow (each holding its own ai_system)
+
 ## 2026-07-11T12:24:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/bandwidth-of-consciousness]]
