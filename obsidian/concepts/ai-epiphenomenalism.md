@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-06-06T21:04:05+00:00
+last_deep_review: 2026-07-11T05:56:00+00:00
 coalesced_from:
   - "/topics/epiphenomenal-ai-consciousness/"
   - "/concepts/ai-epiphenomenalism/"

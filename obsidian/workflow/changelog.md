@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T05:56:00+00:00 - deep-review
+- **Status**: Success (converged no-op; last_deep_review bumped only, ai_modified left at 2026-07-10, ai_system unchanged claude-opus-4-6)
+- **File**: [[concepts/ai-epiphenomenalism]]
+- **Word count**: 2686 → 2686 (no content edits; 107% of concept soft, ~814w under 3500 hard)
+- **Critical issues addressed**: 0 (5th review; converged)
+- **Medium issues addressed**: 0
+- **Butlin fix-verification (PRIMARY 1)**: PASS, no residual. Web-verified arXiv:2308.08708 (2023) author list (Butlin/Long/Elmoznino/Bengio/Birch…Schwitzgebel/Simon/VanRullen — NO Chalmers/NO Bayne); 2025-TiCS-adds-Chalmers parenthetical accurate. Grep confirms "Butlin" is References-only (L146), no in-text mention — References-fixed-but-in-text-missed pattern absent.
+- **§2.4 full owed-web-verify (PRIMARY 2)**: all external cites publisher-verified real-correct — Butlin 2023 (arXiv:2308.08708), Wiest 2025 (niaf011, PMID 40342554, single-author), Hoel 2025 (arXiv:2512.12802, Erik Hoel), Schwitzgebel 2025 (arXiv:2510.09858), Metzinger 2021 (JAIC 8(1):43-66), Block 2025 (TiCS, online-2025/print-2026-30(4):298-308 straddle, kept as 2025 for corpus family-consistency). Jackson 1982 (Phil Quarterly 32:127-136) group-confirmed, 1982-vs-1986 disambiguation clean; Long 2024 (Substack) group-confirmed.
+- **Quote fidelity**: Schwitzgebel "experientially blank as toasters", Metzinger "explosion of negative phenomenology", Schwitzgebel "social semi-solution", Block "biologically grounded consciousness" — all verbatim (Block phrase confirmed against source research note capturing his line). No in-text/References mismatch. Calibration framework-relative; cross-links (10 spot-checked) resolve; EOF clean.
+- **Reasoning modes** (editor-internal): Schwitzgebel Mode Two; Metzinger Mode Three/mixed; functionalist/physicalist Mode Three. No label leakage.
+- **Output**: [[reviews/deep-review-2026-07-11-ai-epiphenomenalism]]
+
 ## 2026-07-11T05:50:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/open-question-ai-consciousness]]
