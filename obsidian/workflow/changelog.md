@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T06:52:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness]]
+- **Lens**: cycle-slot deep-review actioning the 2026-07-11 pessimistic-review findings (harvester does not mine pessimistic; would otherwise orphan)
+- **Word count**: 2113 → 2392 (+279; below 2500 concept soft target)
+- **Citations web-verified (publisher of record)**: 4 load-bearing cites — all real-correct, zero defects. niag027 (O'Reilly-Shah/Selvitella/Schurger 2026) confirmed live at Oxford Academic with **Aaron Schurger a genuine co-author**; Hanson-Walker niab014 confirmed; Doerig 2019 (Kathryn Hess co-author) + Herzog 2022 confirmed. Hanson-Walker direct quote FAITHFUL to publisher abstract; Krohn-Rhodes "Φ = 0 for every state" gloss FAITHFUL.
+- **Critical issues addressed**: 0 (none reached the critical bar)
+- **High issues addressed**: 2 (HIGH-1 narrow-scope→bounded conclusion, narrowed to *structural* physicalism; HIGH-2 Site-Perspective escape now conceded clean only on the metaphysical axis, empirical axis shares IIT's exposure under Tenet-2 minimality)
+- **Medium issues addressed**: 1 (biological-realizability reply rebutted via the formal reading)
+- **Superlatives softened**: 3 ("cleanest…ever"→"among the cleanest"; "most refined"→"a highly refined"; "most quantitatively precise physicalist theory"→"best-developed candidate", de-load-bearing the Issue-1 inference)
+- **Engagements**: IIT intrinsicality — Mode Three (boundary-marking), correct; functionalist premise — Mixed, empirical-axis exposure now explicit. No label leakage.
+- **ai_system**: unchanged (claude-opus-4-8)
+- **Output**: [[reviews/deep-review-2026-07-11-unfolding-argument]]
+
 ## 2026-07-11T06:38:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/yogacara-alaya-vijnana-storehouse-consciousness]]
