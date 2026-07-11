@@ -41,7 +41,7 @@ The taxonomy front-loaded above is the load-bearing distinction, so it is worth 
 
 **Semantic (conceptual) vagueness** holds that the underlying reality is determinate but our phenomenal concepts fail to pick out a unique property, so borderline verdicts reflect linguistic indeterminacy rather than a gap in the world.
 
-**Epistemicism** holds that there is a precise fact — a last conscious member of the series — that we simply cannot know. On this view the boundary is sharp but its location is hidden.
+**Epistemicism** holds that there is a precise fact — a last conscious member of the series — that we simply cannot know. On this view the boundary is sharp but its location is hidden. [[epistemicism-about-consciousness]] develops this locus in full — Williamson's margin-for-error and safety machinery, and why it is the Map's tenet-preserving reading of the sorites, at the cost of a permanently unknowable fact.
 
 Which locus one accepts decides everything downstream, including whether the Map's Tenet-4 concern is even engaged: a sharp-but-unknowable fact (epistemicism) preserves the determinate subject that Tenet 4 needs, whereas ontic vagueness removes it.
 
@@ -73,6 +73,7 @@ Antony's conditional constrains how the Map may buy its sharpness. Because sharp
 
 ## Further Reading
 
+- [[epistemicism-about-consciousness]] — the dedicated development of the epistemic locus named here: the sharp-but-unknowable phenomenal boundary and its Tenet-4 payoff
 - [[degrees-of-consciousness]] — gradation of experience, the question that presupposes the on/off fact this article isolates
 - [[composition-and-consciousness]] — the inverse move, borrowing consciousness's sharpness to answer mereological vagueness
 - [[interface-threshold]] — a *distinct*, later efficacy boundary with consciousness present on both sides; contrasted here with the coupling's mere engagement, which is what secures the on/off subject-fact

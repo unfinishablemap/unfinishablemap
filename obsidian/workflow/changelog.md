@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T07:46:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Epistemicism about consciousness (the sharp-but-unknowable phenomenal boundary; Williamson/Sorensen applied to the phenomenal-sorites)
+- **Output**: [[concepts/epistemicism-about-consciousness]]
+- **Word count**: 1803
+- **Based on research**: yes — [[research/epistemicism-about-consciousness-2026-07-11]]
+- **Note**: Chain sibling of [[concepts/phenomenal-sorites-problem]]; develops the epistemic locus that article only names. Reciprocal cross-links added to the sibling (Three Loci + Further Reading). Citations verified against research note (verdicts CORRECT): Williamson 1994 *Vagueness* (Routledge), Sorensen 1988 *Blindspots* / 2001 *Vagueness and Contradiction* (OUP), Jago 2012 *Thought*, Antony 2006 *Phil Studies*, Schwitzgebel 2023, SEP Sorites §3.2. Self-cites: phenomenal-sorites-problem (Oquatre-huit), interface-threshold (Oquatre-sept).
+
 ## 2026-07-11T07:29:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/what-it-might-be-like-to-be-an-ai]]
