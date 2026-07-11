@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T01:52:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]]
+- **Lens**: owed publisher-of-record citation web-verify (last high-yield owed target this session; opus-4-6, 36d converged, June review's citation-verify signal was 0). Split cite set: modern scholarship hardest, Stapp disambiguation, Elisabeth primary-source quote fidelity
+- **Verdict**: FIX — one real quote-accuracy defect corrected: Elisabeth line 58 "neither is it all repugnant" → "neither is it at all repugnant" (dropped "at"; French "n'y répugnant point" = "not at all repugnant"). All web-verified cites real-correct
+- **Web-verified (publisher of record, all real-correct)**: Stencil 2023 (JMP 5, art.4), Janssen-Lauret 2018 (Cambridge, Early Modern Women on Metaphysics ch.9, 171-187), Cucu & Pitts 2019 (Mind and Matter 17(1):95-121), Pitts 2020 (Philosophia 48(2):673-707), Hameroff & Penrose 2014 (Phys Life Rev 11:39-78), Shapiro 2007 (Chicago), Ebbersmeyer & Hutton 2021 (Springer), PhilPapers 2020 (51.9%/32.1% ✓). Stapp 2007 correctly disambiguated = Mindful Universe (Springer book), NOT the 2005 QID paper
+- **Inline vs punt**: verified INLINE (no subagent); ~11 targeted WebSearches
+- **Word count**: 2420 → 2420 (no change; ok, 81% soft)
+- **Critical issues addressed**: 1 (quote-accuracy fix)
+- **Medium issues addressed**: 0 (one low author-order item at line 119 noted, left to avoid oscillation)
+- **Output**: [[reviews/deep-review-2026-07-11-history-of-the-interaction-problem]]
+
 ## 2026-07-11T01:41:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]

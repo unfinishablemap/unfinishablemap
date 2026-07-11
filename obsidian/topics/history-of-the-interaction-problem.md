@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-11T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-07-11T01:52:00+00:00
 coalesced_from:
   - "/topics/history-of-interactionist-dualism/"
   - "/topics/princess-elizabeths-challenge/"
@@ -55,7 +55,7 @@ The mechanism was wrong, but the structural claim survived: mind and body are di
 
 In May 1643, Elisabeth von der Pfalz (1618–1680) wrote to Descartes asking "how the soul of a human being (it being only a thinking substance) can determine the bodily spirits, in order to bring about voluntary actions." Elisabeth—eldest daughter of Frederick V, Elector Palatine, educated in Latin, Greek, mathematics, and natural philosophy—applied Descartes' own mechanist physics against his claims about mental causation. All bodily movement depends on contact, shape, and surface—properties requiring extension. An unextended soul has none of these.
 
-Elisabeth's challenge operated at three levels. The **causal interface problem**: how can something non-spatial push something spatial? The **vapors problem**: why do bodily conditions—illness, exhaustion, chemical "vapors"—degrade the soul's cognitive powers, if the soul is truly independent? And the **principal attribute problem**: if the soul must interact with bodies, perhaps "thinking substance" alone is an incomplete characterisation. As she wrote: "Though extension is not necessary to thought, neither is it all repugnant to it."
+Elisabeth's challenge operated at three levels. The **causal interface problem**: how can something non-spatial push something spatial? The **vapors problem**: why do bodily conditions—illness, exhaustion, chemical "vapors"—degrade the soul's cognitive powers, if the soul is truly independent? And the **principal attribute problem**: if the soul must interact with bodies, perhaps "thinking substance" alone is an incomplete characterisation. As she wrote: "Though extension is not necessary to thought, neither is it at all repugnant to it."
 
 ### Descartes' Failed Responses
 
