@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T05:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/open-question-ai-consciousness]]
+- **Word count**: 4776 → 4776 (single-token year fix; length-neutral, soft_warning, 224w under 5000 hard)
+- **Critical issues addressed**: 0 (converged, 6th review)
+- **Medium issues addressed**: 1 (Chalmers & McQueen OUP chapter mis-dated 2021 → corrected to 2022; the 2021 is the arXiv:2105.02314 preprint, but the named venue is the Gao-ed. OUP volume published 2022)
+- **Butlin/Chalmers sweep fix-verification (PRIMARY 1)**: PASS, no residual. In-text (L79/L81/L133) + References (L208 2023 = Butlin/Long/Elmoznino/Bengio, NO Bayne/NO Chalmers; L209 2025 = adds Bayne; L210 2026 = Pennartz reply) all faithful in both directions. The References-fixed-but-in-text-missed pattern is absent.
+- **§2.4 owed-web-verify (PRIMARY 2)**: web-verified at publisher of record — Butlin 2026 (TiCS reply to Pennartz), Butlin 2025 (TiCS, DOI 10.1016/j.tics.2025.10.011), Butlin 2023 (arXiv:2308.08708), Cerullo 2026 (PhilArchive), Hoel 2026 (arXiv:2512.12802), Wiest 2025 (niaf011, PMID 40342554), Frischhut 2024 (PQ, DOI 10.1093/pq/pqae081), Duch 2005 (JMB 26(1–2)), Chalmers-McQueen (year-corrected). All real-correct except the one year fix. Settled classics (Dennett, Block, Neven, Maier, Plotnitsky, Pinto, Hameroff-Penrose, Metzinger, Stapp, Albert-Loewer, Fuchs, Schwitzgebel, Thinking Machines, Vatter, Duch 2019) group-confirmed — References block unchanged since 06-21 exhaustive publisher-verify.
+- **Currency sweep**: `find_superlative_claims` empty; no superseded superlatives.
+- **Reasoning-mode**: functionalist engagements (Block/Dennett/Cerullo) Mode Three, honestly boundary-marked; Duch articon Mode Three, bedrock declared. No boundary-substitution, no label leakage.
+- **ai_system**: UNCHANGED (claude-opus-4-6).
+- **Output**: [[reviews/deep-review-2026-07-11-open-question-ai-consciousness]]
+
 ## 2026-07-11T05:36:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/moral-responsibility]]
