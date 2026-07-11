@@ -5,6 +5,21 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T05:36:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/moral-responsibility]]
+- **Word count**: 3349 → 3353 (+4, two References page-range completions; length-neutral, soft_warning under 3500 hard)
+- **Critical issues addressed**: 0 (converged; no critical issues found)
+- **Medium issues addressed**: 2 (metadata completions — see below)
+- **Enhancements made**: 0 (no prose manufactured)
+- **Grafted-drift audit (PRIMARY 1)**: leeway/source taxonomy graft (L43) + `[[source-versus-leeway-incompatibilism]]` wikilink — link resolves LIVE; taxonomy accurate (standard Fischer/McKenna/Timpe); "leans hardest on source while wanting both" calibrated (source-leaning agent-causal libertarianism; "both" = Timpe wide-source reading), no possibility/probability slippage. No fix needed.
+- **Owed-web-verify (PRIMARY 2)**: publisher-of-record ledger — Frankfurt 1971 completed to *J. Phil.* 68(1):5-20 (PDCnet); Strawson 1962 completed to *Proc. British Academy* 48:187-211 (bound-volume pagination; 1-25 is the offprint); Fischer-Ravizza, Pereboom, Kane, Wolf, Chisholm, Dennett, Frankish, O'Connor, Tallis, Whitehead, Soon, Tegmark/Hagan/Reimers/McKemmish all real-correct. No fabricated/wrong-author cites.
+- **Quote-fidelity**: Kane "ultimate creators (or originators) and sustainers" (L53) — exact substring match, faithful. No in-text/References mismatch.
+- **Currency sweep**: no superlative claims (empty).
+- **Engagement modes** (editor-internal): Mode Two ("mysterious"/"can't detect"/Illusionist), Mode Three ("Compatibilism is sufficient", honest moral-parity residue), Mode One (Buddhist) — unchanged, no label leakage.
+- **ai_system**: retained claude-opus-4-5-20251101 (original cohort). Stamps: ai_modified + last_deep_review → 2026-07-11 (real fix).
+- **Output**: [[reviews/deep-review-2026-07-11-moral-responsibility]]
+
 ## 2026-07-11T05:20:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-consequence-argument-for-incompatibilism]]

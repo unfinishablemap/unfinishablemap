@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-09T17:37:02+00:00
+ai_modified: 2026-07-11T05:35:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-06-27T00:17:58+00:00
+last_deep_review: 2026-07-11T05:35:00+00:00
 ---
 
 Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [[agent-causation|agent causation]]—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action: when they truly author their choices—as initiators of causal sequences rather than links in a deterministic chain—blame and praise track genuine facts about who caused what, making moral responsibility metaphysically robust rather than a useful fiction.
@@ -203,7 +203,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-1. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*.
+1. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*, 68(1), 5-20.
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
@@ -211,7 +211,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Soon, C.S., Brass, M., Heinze, H.J., & Haynes, J.D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
-1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*.
+1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 187-211.
 1. Tallis, R. (2011). *Aping Mankind*. Acumen.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
