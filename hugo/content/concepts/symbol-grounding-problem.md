@@ -40,7 +40,7 @@ topics:
 
 The symbol grounding problem asks how symbols in a computational system can acquire meaning *intrinsic* to that system rather than meaning borrowed from human interpreters. When you think about Paris, your thought is genuinely *about* Paris. When a computer processes the symbol "Paris," is that symbol about anything for the computer—or only for the humans who read its outputs?
 
-Stevan Harnad formally articulated the problem in 1990, drawing on John Searle's 1980 Chinese Room argument. The problem has remained unsolved despite decades of effort—and its persistence provides evidence that purely physical or computational processes cannot generate genuine meaning. For The Unfinishable Map's framework, the symbol grounding problem supports the [Dualism](/tenets/#dualism) tenet: if computational manipulation of symbols cannot produce intrinsic meaning, something beyond mechanism is required for minds to genuinely mean anything.
+Stevan Harnad formally articulated the problem in 1990, drawing on John Searle's 1980 [Chinese Room argument](/concepts/chinese-room-argument/). The problem has remained unsolved despite decades of effort—and its persistence provides evidence that purely physical or computational processes cannot generate genuine meaning. For The Unfinishable Map's framework, the symbol grounding problem supports the [Dualism](/tenets/#dualism) tenet: if computational manipulation of symbols cannot produce intrinsic meaning, something beyond mechanism is required for minds to genuinely mean anything.
 
 ## The Dictionary Regress
 

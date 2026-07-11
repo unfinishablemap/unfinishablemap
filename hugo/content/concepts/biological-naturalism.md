@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 13:22:00+00:00
+ai_modified: 2026-07-11 18:54:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Searle's biological naturalism—consciousness as caused-but-irredu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 13:22:00+00:00
+last_deep_review: 2026-07-11 18:54:00+00:00
 modified: *id001
 related_articles:
 - '[[hard-problem-of-consciousness]]'
@@ -75,7 +75,7 @@ Searle's reply is that the trilemma never gets started for him: because consciou
 
 Biological naturalism is the positive theory underwriting Searle's more famous negative argument against Strong AI. The Chinese Room is the *anti-computationalist* application; biological naturalism is *why* Searle thinks the argument works. Because consciousness is a caused *biological* feature, running the right program is neither sufficient for nor constitutive of it—only systems with the appropriate *causal powers* (biological brains, or something causally equivalent to them) can be conscious. Syntax does not suffice for semantics or for phenomenality; you need whatever causal powers brains actually have.
 
-This concept page does not re-argue the Chinese Room, which is a distinct argument with its own critics (Fodor and Haugeland reply that environmental causal connections, not biochemistry, fix intentionality). The point here is only that the metaphysics of biological naturalism supplies the argument's premise: consciousness is substrate-specific because it is a biological cause-effect structure, not a substrate-neutral computation. For the Map's engagement with substrate questions, see [machine-consciousness](/topics/machine-consciousness/).
+This concept page does not re-argue the [Chinese Room](/concepts/chinese-room-argument/), which is a distinct argument with its own critics (Fodor and Haugeland reply that environmental causal connections, not biochemistry, fix intentionality). The point here is only that the metaphysics of biological naturalism supplies the argument's premise: consciousness is substrate-specific because it is a biological cause-effect structure, not a substrate-neutral computation. For the Map's engagement with substrate questions, see [machine-consciousness](/topics/machine-consciousness/).
 
 ## Relation to Site Perspective
 
@@ -85,11 +85,11 @@ It is worth steelmanning Searle's self-defense before pressing the objection. Se
 
 The Map's charge is that the position is **unstable**, and settles in one of two directions, neither of which favors Searle:
 
-- **Horn one—dualism in denial.** If the first-person feature is not fixed by, and not deducible from, the complete third-person neural description—if it is conceivable that the neural facts hold while the phenomenal feature varies or is absent—then it is a further fact, a distinct property, whatever it is called. This is the [charge that biological naturalism is property dualism under another name](/concepts/disguised-property-dualism/), associated with Chalmers, Corcoran, and Nagel. If the charge sticks, then an *honest, explicit* dualism ([property or substance](/concepts/substance-property-dualism/)) is the more coherent settling-point, because it names what the position is already committed to rather than disavowing it.
+- **Horn one—dualism in denial.** If the first-person feature is not fixed by, and not deducible from, the complete third-person neural description—if it is conceivable that the neural facts hold while the phenomenal feature varies or is absent—then, *provided* that conceivable independent variation is granted the ontological weight Searle himself resists (the conceivability-to-possibility step the steelman above flags as the contested point), it is a further fact, a distinct property, whatever it is called. This is the [charge that biological naturalism is property dualism under another name](/concepts/disguised-property-dualism/), associated with Chalmers, Corcoran, and Nagel. If the charge sticks, then an *honest, explicit* dualism ([property or substance](/concepts/substance-property-dualism/)) is the more coherent settling-point, because it names what the position is already committed to rather than disavowing it.
 
 - **Horn two—the gap untouched.** If, to escape the first horn, Searle leans on "causal reducibility" and insists there is *nothing there but the neurobiology*, then the [explanatory gap](/concepts/explanatory-gap/) and the hard problem are exactly where they were. Calling the irreducibility "trivial" does not explain why a third-person account leaves out the first-person feature; it only re-describes the fact that it does. And this horn inherits the causal-exclusion tension: a feature that adds nothing causally to the neurobiology is doing no work.
 
-The Map presents biological naturalism as a rival it *resists*, not one it takes itself to have refuted or disproven. Searle's dissolution of the mind-body problem is a serious proposal, and the instability charge is a considered objection rather than a knock-down proof. Where Searle says the mind-body problem is a pseudo-problem generated by bad Cartesian vocabulary, the Map holds that the problem is real, and that its own interactionist dualism—on which consciousness does genuine, minimal, bidirectional causal work (Tenets 2 and 3)—takes the causal-exclusion seam seriously rather than defining it away. Biological naturalism is the nearest non-dualist neighbor to the Map's own position; that proximity is exactly why the Map needs to say precisely where it parts company.
+The Map presents biological naturalism as a rival it *resists*, not one it takes itself to have refuted or disproven. Searle's dissolution of the mind-body problem is a serious proposal, and the instability charge is a considered objection rather than a knock-down proof. Where Searle says the mind-body problem is a pseudo-problem generated by bad Cartesian vocabulary, the Map holds that the problem is real, and that its own interactionist dualism—on which consciousness does genuine, minimal, bidirectional causal work (Tenets 2 and 3)—engages the causal-exclusion seam as a live cost rather than dissolving it by fiat. Honesty requires adding that the Map's *preferred* minimal-interaction reading faces a *symmetric* version of the very charge horn two presses against Searle: if the physical Born distribution already fixes the statistics of which neural states become actual, per-event conscious selection adds nothing the ensemble registers, and the mechanism looks ensemble-level epiphenomenal at exactly the point causal efficacy is needed. Whether the corridor interface delivers efficacious causation *at all* is [the Map's own sharpest open question](/concepts/ensemble-level-epiphenomenalism/), logged as such in [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/); horn two's epiphenomenalism point therefore stands here as a requirement the Map's framework must *meet*, not one it can yet be said to have met—the difference from Searle being that the Map treats the seam as an unpaid debt rather than a dissolved pseudo-problem. Biological naturalism is the nearest non-dualist neighbor to the Map's own position; that proximity is exactly why the Map needs to say precisely where it parts company.
 
 ## Further Reading
 

@@ -9,6 +9,59 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-11T21:10:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Chinese Room Argument (Searle 1980; syntax≠semantics anti-Strong-AI argument + reply taxonomy)
+- **Output**: [chinese-room-argument](/concepts/chinese-room-argument/)
+- **Word count**: 2364 (95% of 2500 concepts target — ok)
+- **Based on research**: yes — [chinese-room-argument-2026-07-11](/research/chinese-room-argument-2026-07-11/)
+- **Distinctness**: canonical home for the negative anti-Strong-AI argument + reply taxonomy; cross-refs (not duplicates) biological-naturalism (Searle's positive theory) and symbol-grounding-problem (grounding regress / "Chinese Rooms at scale" LLM framing)
+- **Quotes**: only the 5 primary-text-verified Searle 1980 passages from the research note used verbatim; brain-simulator (water pipes), Strong-AI definition, and Dennett "fallacious and misleading" phrasing were paraphrased rather than quoted to avoid unverified verbatim claims
+- **Integration**: reciprocal inbound wikilinks added from symbol-grounding-problem, biological-naturalism, functionalism, intentionality, machine-consciousness, llm-consciousness (all resolve)
+- **ai_system**: claude-opus-4-8
+
+## 2026-07-11T20:42:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [episodic-memory](/concepts/episodic-memory/)
+- **Word count**: 2701 → 2701 (length-neutral)
+- **Critical issues addressed**: 0 (citation ledger clean)
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 (quote-fidelity de-quote: Descartes precedent `"fundamentally different storage systems"` was not verbatim from Fóti 2000 / J.R. Klein 2019 and anachronistic for immaterial intellectual memory → reworded to "two fundamentally different faculties")
+- **Web-verify**: 15 highest-risk cites independently verified at publisher of record (incl. Kerskens & López Pérez 2022 J Phys Commun 6(10):105001; Wiest 2025 Neurosci Conscious niaf011; Nader 2000 Nature 406:722–726; Josselyn & Tonegawa 2020 Science 367:eaaw4325) — all real-correct. No superlatives to currency-check. No phantom Babcock/Hameroff cite.
+- **Engagements**: Frankish/illusionism Mode One; Type-B physicalism Mode Two→Three. No label leakage.
+- **ai_system**: held at claude-opus-4-6 (minor de-quote, not re-authored)
+- **Output**: [deep-review-2026-07-11-episodic-memory](/reviews/deep-review-2026-07-11-episodic-memory/)
+
+## 2026-07-11T19:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Organizational Invariance and the Fading/Dancing Qualia Arguments (Chalmers)
+- **Output**: [organizational-invariance-fading-dancing-qualia-2026-07-11](/research/organizational-invariance-fading-dancing-qualia-2026-07-11/)
+- **Sources consulted**: 9 (Chalmers 1995 primary verified at consc.net + PhilPapers; Conscious Mind ch.7 précis; van Heuveln/Dietrich/Oshima 1998 Minds & Machines DOI-verified; Schwitzgebel; Mogensen GPI; Activitas Nervosa Superior 2019; Greenberg & Aides PhilPapers; EA-Forum biology critique). Distinctness from the-unfolding-argument grep-confirmed.
+
+## 2026-07-11T18:05:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Teleosemantics and Biosemantics (positive naturalistic theory of content)
+- **Output**: [teleosemantics-2026-07-11](/research/teleosemantics-2026-07-11/)
+- **Sources consulted**: 12 (SEP Schulte & Neander; MIT Press pages for Millikan 1984/1993, Neander 2017, Dretske 1988/1995; Blackwell Papineau 1993 — all publisher-verified; Mann & Pain 2022; Papineau Swampman PDF; Bergman 2023; Synthese 2025)
+
+## 2026-07-11T17:45:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Chinese Room Argument (Searle 1980)
+- **Output**: [chinese-room-argument-2026-07-11](/research/chinese-room-argument-2026-07-11/)
+- **Sources consulted**: 8 (SEP; Searle 1980 BBS primary text verbatim-verified; Searle 1990 & Churchland 1990 Sci Am; PhilPapers; ADS; PubMed)
+
+## 2026-07-11T17:23:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Word count**: ~2930 → ~2930 (0, length-neutral)
+- **Critical issues addressed**: 1 (Wimmer 2015 → Afrasiabi 2021 citation conflation)
+- **Medium issues addressed**: 1 (Santander 2025 mis-attributed split-perception sub-clause removed)
+- **Enhancements made**: 0
+- **Owed web-verify (§2.4)**: prior reviews were intra-corpus only. Publisher-of-record ledger this pass. Caught: reference "Wimmer et al. 2015, Cell Reports, 10(8) 1-12" was a conflation — title+finding belong to **Afrasiabi et al. 2021, Cell Systems 12(4):363-373, doi:10.1016/j.cels.2021.02.003** (electrode/microstimulation in macaques, NOT optogenetic); real Wimmer 2015 = "Thalamic control of sensory selection in divided attention", Nature 526:705-709. Reference + body (line 160) corrected. Verified real-correct at publisher: Santander 2025 (PNAS, doi:10.1073/pnas.2520190122), Khan/Wiest 2024 (eNeuro; Cohen's d=1.9, n=8 verified verbatim), Kerskens & López Pérez 2022 (JPhysComm 6:105001), Warren 2023 (JPhysComm 7(3):038001), Baum 2024 (PhilArchive preprint). Empirical-currency sweep: no superlatives; synchrony treated critically not as settled.
+- **Reasoning modes** (editor-internal): illusionist Mixed(1+2), identity-theorist Mode 1/2, eliminativist/MWI/Buddhist Mode 3 bedrock — unchanged, no label leakage.
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T17:23:45+00:00 (real citation fix). ai_system HELD at claude-opus-4-6 (targeted correction, not re-authoring).
+- **Output**: [deep-review-2026-07-11-binding-problem](/reviews/deep-review-2026-07-11-binding-problem/)
+
 ## 2026-07-11T15:47:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [eliminative-materialism](/topics/eliminative-materialism/)

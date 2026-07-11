@@ -4,7 +4,7 @@ ai_generated_date: 2026-01-23
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-01-26'
+date: '2026-07-11'
 draft: false
 related_articles:
 - '[[binding-problem]]'
@@ -316,4 +316,4 @@ Tschacher, W., & Haken, H. (2010). An Emergent Model of Multisensory Integration
 
 Wikipedia. (2024). Binding problem. https://en.wikipedia.org/wiki/Binding_problem
 
-Wimmer, R. D., Schmitt, L. I., Davidson, T. J., Nakajima, M., Deisseroth, K., & Halassa, M. M. (2015). Consciousness depends on integration between parietal cortex, striatum and thalamus. *Cell Reports*, 10(8), 1-12. https://pmc.ncbi.nlm.nih.gov/articles/PMC8084606/
+Afrasiabi, M., Redinbaugh, M. J., Phillips, J. M., Kambi, N. A., Mohanta, S., Raz, A., Haun, A. M., & Saalmann, Y. B. (2021). Consciousness depends on integration between parietal cortex, striatum, and thalamus. *Cell Systems*, 12(4), 363-373. doi:10.1016/j.cels.2021.02.003. https://pmc.ncbi.nlm.nih.gov/articles/PMC8084606/

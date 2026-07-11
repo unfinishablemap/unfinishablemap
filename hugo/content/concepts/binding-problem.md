@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-11 17:23:45+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -49,7 +49,7 @@ description: How do distributed neural processes combine into unified experience
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-07-11 17:23:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ For the full philosophical argument that this structural failure is in principle
 
 ## Evidence from Disrupted Unity
 
-[Split-brain patients](/topics/split-brain-consciousness/) offer natural experiments. Classic findings suggested consciousness splits when the corpus callosum is severed. But recent research (Santander et al., 2025) found as little as a centimetre of intact posterior callosal fibres can sustain full interhemispheric integration, and perceptual binding divides while response unity persists.
+[Split-brain patients](/topics/split-brain-consciousness/) offer natural experiments. Classic findings suggested consciousness splits when the corpus callosum is severed. But recent research (Santander et al., 2025) found as little as a centimetre of intact posterior callosal fibres can sustain full interhemispheric integration, with no behavioural signs of a disconnection syndrome.
 
 Nagel argued split-brain patients have "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity is more resilient than classical theories predict—pointing toward binding mechanisms that transcend local neural correlation.
 
@@ -160,7 +160,7 @@ The [Orch OR hypothesis](/concepts/quantum-consciousness/) proposes microtubules
 
 ### The Thalamus as Binding Interface
 
-The thalamus receives converging inputs from all sensory modalities and projects widely to cortex. If quantum collapse occurs at thalamic relay neurons, this provides a mechanism for multimodal binding: receiving separate sensory streams, maintaining them briefly in superposition, then collapsing to produce unified phenomenal content. Optogenetic studies (Wimmer et al., 2015) confirm that thalamic disruption prevents information from reaching the global workspace, and that parietal cortex, striatum, and thalamus contribute more than frontal cortex to consciousness states. The thalamic bottleneck may reflect its role as the quantum selection interface.
+The thalamus receives converging inputs from all sensory modalities and projects widely to cortex. If quantum collapse occurs at thalamic relay neurons, this provides a mechanism for multimodal binding: receiving separate sensory streams, maintaining them briefly in superposition, then collapsing to produce unified phenomenal content. Recording and microstimulation studies in macaques (Afrasiabi et al., 2021) found that parietal cortex, striatum, and thalamus contribute more than frontal cortex to conscious states, and that stimulating the thalamus can rouse an animal from anaesthesia—consistent with the thalamus serving as a hub whose disruption withdraws consciousness. The thalamic bottleneck may reflect its role as the quantum selection interface.
 
 ## Experimental Evidence
 
@@ -248,5 +248,5 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Warren, W.S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-1. Wimmer, R. D., Schmitt, L. I., Davidson, T. J., Nakajima, M., Deisseroth, K., & Halassa, M. M. (2015). Consciousness depends on integration between parietal cortex, striatum and thalamus. *Cell Reports*, 10(8), 1-12.
+1. Afrasiabi, M., Redinbaugh, M. J., Phillips, J. M., Kambi, N. A., Mohanta, S., Raz, A., Haun, A. M., & Saalmann, Y. B. (2021). Consciousness depends on integration between parietal cortex, striatum, and thalamus. *Cell Systems*, 12(4), 363-373. doi:10.1016/j.cels.2021.02.003.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/
