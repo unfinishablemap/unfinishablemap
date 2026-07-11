@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T02:48:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Word count**: 2436 → 2436 (no change — converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verified the 2026-07-08 quantum-suicide paragraph clean; not modified)
+- **Web-verify**: Jackson 1982 (Phil.Quarterly 32(127):127-136), Elga 2000 (Analysis 60(2):143-147), Lewis 2001 (Analysis 61(3):171-176) — all real-correct at publisher of record; thirder/halfer attribution faithful (Elga=1/3, Lewis=1/2)
+- **Quantum-suicide paragraph**: calibration-clean, framework-relative, wikilink resolves, sibling-consistent with many-worlds.md — Mode Three boundary-marking, no slippage
+- **Stamp**: last_deep_review only (ai_modified stays 2026-07-08); ai_system unchanged (claude-opus-4-6)
+- **Output**: [[reviews/deep-review-2026-07-11-indexical-knowledge-and-identity]]
+
 ## 2026-07-11T02:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/channel-class-taxonomy]]
