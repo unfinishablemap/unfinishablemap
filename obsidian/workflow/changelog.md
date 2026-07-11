@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T02:59:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/concept-of-consciousness-and-social-cognition]]
+- **Word count**: 2348 → 2348 (no change — converged no-op, fix-verification)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review. Confirmed 2026-07-10 Tomasello&Herrmann sweep-fix (8b231778f) faithful at publisher of record (Herrmann was a genuinely-dropped co-author). Full publisher-of-record web-verify of all 6 load-bearing cites — all real-correct (Tomasello & Herrmann 2010 Curr Dir Psychol Sci 19(1):3-8; Apperly & Butterfill 2009 Psych Review 116(4):953-970; Buttelmann et al. 2017 PLoS ONE 12(4):e0173793; Call & Tomasello 2008 TiCS 12(5):187-192; Krupenye et al. 2016 Science 354(6308):110-114; Tomasello 2014 A Natural History of Human Thinking, Harvard UP). Quote fidelity clean (scare-quote terms-of-art, no paraphrase-in-quotes). Engagement with functionalist: Mode Three (framework-boundary marking). No calibration slippage. Stamped last_deep_review only; ai_modified + ai_system (opus-4-5) unchanged.
+- **Output**: [[reviews/deep-review-2026-07-11-concept-of-consciousness-and-social-cognition]]
+
 ## 2026-07-11T02:48:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/indexical-knowledge-and-identity]]
