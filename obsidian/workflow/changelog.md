@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T17:45:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Chinese Room Argument (Searle 1980)
+- **Output**: [[research/chinese-room-argument-2026-07-11]]
+- **Sources consulted**: 8 (SEP; Searle 1980 BBS primary text verbatim-verified; Searle 1990 & Churchland 1990 Sci Am; PhilPapers; ADS; PubMed)
+
 ## 2026-07-11T17:23:45+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/binding-problem]]
