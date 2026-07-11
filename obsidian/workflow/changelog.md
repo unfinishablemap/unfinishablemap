@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T11:23:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Biological Naturalism (John Searle)
+- **Output**: [[research/biological-naturalism-2026-07-11]]
+- **Sources consulted**: 4 primary Searle works (all publisher-verified) + Kim/Chalmers secondary + Wikipedia/Landscape-of-Consciousness
+
 ## 2026-07-11T11:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
