@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T07:58:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neural-implementation-specifics]]
+- **Word count**: 2413 → 2413 (no change; length-safe at 80% of target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (settle-verdict — durable stability)
+- **Citation web-verify**: full 11/11 publisher-of-record re-verification (six previously trusted on intra-corpus consistency now confirmed exact); all real-correct, zero fabrications/wrong-metadata/currency-drift. Wiest 2025 niaf011 confirmed real (not phantom); strong title claim lives only in References, body hedges. No notation collision (Posner/isotope notation uses parens+Unicode, no `[[` collision), no EOF artifact, all cross-links live.
+- **Stamps**: last_deep_review → 2026-07-11; ai_modified held 2026-06-05; ai_system held claude-opus-4-5-20251101 (verify pass, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-11-neural-implementation-specifics]]
+
 ## 2026-07-11T07:46:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Epistemicism about consciousness (the sharp-but-unknowable phenomenal boundary; Williamson/Sorensen applied to the phenomenal-sorites)
