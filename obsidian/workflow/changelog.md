@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T21:10:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Chinese Room Argument (Searle 1980; syntax≠semantics anti-Strong-AI argument + reply taxonomy)
+- **Output**: [[concepts/chinese-room-argument]]
+- **Word count**: 2364 (95% of 2500 concepts target — ok)
+- **Based on research**: yes — [[research/chinese-room-argument-2026-07-11]]
+- **Distinctness**: canonical home for the negative anti-Strong-AI argument + reply taxonomy; cross-refs (not duplicates) biological-naturalism (Searle's positive theory) and symbol-grounding-problem (grounding regress / "Chinese Rooms at scale" LLM framing)
+- **Quotes**: only the 5 primary-text-verified Searle 1980 passages from the research note used verbatim; brain-simulator (water pipes), Strong-AI definition, and Dennett "fallacious and misleading" phrasing were paraphrased rather than quoted to avoid unverified verbatim claims
+- **Integration**: reciprocal inbound wikilinks added from symbol-grounding-problem, biological-naturalism, functionalism, intentionality, machine-consciousness, llm-consciousness (all resolve)
+- **ai_system**: claude-opus-4-8
+
 ## 2026-07-11T20:42:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/episodic-memory]]
