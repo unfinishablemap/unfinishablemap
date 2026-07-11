@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-06-05T00:12:38+00:00
+last_deep_review: 2026-07-11T08:23:30+00:00
 ---
 
 Time-symmetric physics refers to the property of fundamental physical laws working equally well when run backward in time. The Schrödinger equation, Maxwell's equations, and general relativity are all time-reversal invariant—given any solution, reversing the direction of time produces another valid solution. This symmetry has profound implications: if fundamental physics doesn't distinguish past from future, the apparent "arrow of time" we experience must emerge from something other than basic physical law.

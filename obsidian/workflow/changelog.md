@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T08:24:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/time-symmetric-physics]]
+- **Word count**: ~2138 → ~2138 (no change; 85% of concepts/ 2500 soft threshold, length-safe)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: first-ever full publisher-of-record pass on the 9-entry References block (owed-web-verify seam; 8 prior reviews only intra-corpus-checked it). All 9 **real-correct**, zero defects: Aharonov-Bergmann-Lebowitz 1964 (Phys Rev 134(6B) B1410), Cramer 1986 (Rev Mod Phys 58(3) 647-688), Kastner 2012 (CUP), Price 1996 (OUP), Price 2012 (SHPS-B 43(2) 75-83), Wheeler-Feynman 1945 (Rev Mod Phys 17(2-3) 157-181), Stapp 1999 (JCS 6(8-9) 143-164, disambiguated by title), Vedovato et al. 2017 (Sci Adv 3(10) e1701180), SEP "Retrocausality in Quantum Mechanics" (live at slug). No wrong-metadata, no fabrications, no superseded superlatives. Settle-verdict: bumped last_deep_review only (ai_modified held at 2026-06-05 — no content changed); ai_system held at claude-opus-4-7; References "1." numbering artifact left as-is (renders correctly). No EOF artifact.
+- **Output**: [[reviews/deep-review-2026-07-11-time-symmetric-physics]]
+
 ## 2026-07-11T08:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/metacognition]]
