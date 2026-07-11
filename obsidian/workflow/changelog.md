@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T12:49:00+00:00 - deep-review
+- **Status**: Success (cross-review of fresh create; clean settle)
+- **File**: [[concepts/recurrent-processing-theory]]
+- **Word count**: 1562 → 1562 (no content change; length-safe vs concepts 2500/3500/5000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified (publisher of record, 3-state)**: Lamme & Roelfsema 2000 TiNS 23(11):571-579 PMID 11074267 — real-correct; Lamme 2006 "Towards a true neural stance ON consciousness" TiCS 10(11):494-501 — real-correct; Lamme 2010 "How neuroscience will change our view on consciousness" (non-reversed) Cog Neuro 1(3):204-220 — real-correct; Block 2011 TiCS 15(12):567-575 PMID 22078929 — real-correct; Cogitate Consortium (Ferrante et al.) 2025 Nature 642(8066):133-142 — real-correct (canonical Ferrante-first form, not Melloni)
+- **Quote-fidelity**: "probably incapable of yielding visual awareness" (Lamme & Roelfsema 2000) and "we are conscious of more than we can report or think about" (Block 2011) verbatim-confirmed at source
+- **Complement-boundary**: confirmed — develops the specific local/first-order Lamme theory (feedforward-sweep vs recurrent, four-stage model, Stage-3 overflow prediction) and positions against GWT/IIT/HOT/NCC rather than restating
+- **Lead**: framework-relative — physicalist NCC rival the Map engages/resists; recurrent loops flagged as explicit Map speculation (candidate coupling site); explanatory gap re-appears at Stage 3; overflow framed as partial convergence not endorsement. No phenomenal-absence over-claim, no possibility/probability slippage
+- **Hygiene**: 5 sibling inbound links live; self-cite pseudonyms match (NCC=Oquatre-cinq=opus-4-5, Phenomenal-Overflow=Oquatre-six=opus-4-6); 5 tenet `#^anchor` wikilinks + all outbound targets resolve; no cliche; EOF clean; ai_system held claude-opus-4-8
+- **Output**: no review archive (clean settle, no defects); last_deep_review stamped
+
 ## 2026-07-11T12:36:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Recurrent Processing Theory of Consciousness (Lamme's local-recurrency NCC theory)

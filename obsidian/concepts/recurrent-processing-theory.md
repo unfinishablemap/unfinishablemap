@@ -17,6 +17,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-11
 last_curated:
+last_deep_review: 2026-07-11T12:49:00+00:00
 ---
 
 Recurrent Processing Theory (RPT), developed by the Dutch neuroscientist Victor Lamme, holds that **localized recurrent processing — feedback, or re-entrant, signalling within sensory cortex — is the neural signature of phenomenal consciousness**, and that this signature is dissociable from the global broadcast and cognitive access emphasised by rival theories. It is the "local / first-order" member of the neural-correlates-of-consciousness big four, the alternative to [[global-workspace-theory]]'s global broadcast, [[integrated-information-theory]]'s system-level integration, and [[higher-order-theories]]' meta-representation. For the survey of that landscape, see [[neural-correlates-of-consciousness]]; this article positions RPT against those rivals rather than restating them.
