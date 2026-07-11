@@ -5,6 +5,21 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T06:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/yogacara-alaya-vijnana-storehouse-consciousness]]
+- **Lens**: cross-review (argument rival-not-ally + publisher-of-record citation web-verify) of a fresh create
+- **Word count**: 1634 → 1634 (+0; quote-fidelity fix only, length-neutral)
+- **Critical issues addressed**: 1 (quote-fidelity — restored Waldron's dropped hedge "thought to be" in the marked quote, verified at Project MUSE/Routledge)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (well-calibrated fresh create; no expansion warranted)
+- **Argument lens**: rival-not-ally CONFIRMED (lead, Relation-to-Site, AI analogy-not-identity, idealism/phenomenology held unadjudicated); no possibility/probability slippage
+- **Citations**: Vijnaptimatratasiddhi disambiguation HELD; no IEP-Yogacara phantom; Waldron ISBN 9780415298094 re-verified
+- **Siblings**: 4 integrations sanity-checked accurate + framework-relative; no regression, no hard-ceiling breach, no sibling edited
+- **Engagement mode**: framework-boundary (Mode Three), honestly marked; no boundary-substitution, no label leakage
+- **ai_system**: unchanged (claude-opus-4-8)
+- **Output**: [[reviews/deep-review-2026-07-11-yogacara-alaya-vijnana-storehouse-consciousness]]
+
 ## 2026-07-11T06:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Yogacara alaya-vijnana (storehouse consciousness) as a substrate-continuity theory of mind

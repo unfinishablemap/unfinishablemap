@@ -4,7 +4,8 @@ description: "How Yogacara Buddhism's eighth consciousness carries personal cont
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-11T06:30:00+00:00
+ai_modified: 2026-07-11T06:38:00+00:00
+last_deep_review: 2026-07-11T06:38:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -27,7 +28,7 @@ Orthodox Buddhist psychology recognised six consciousnesses (*vijnana*): the fiv
 3. **The seventh, *klista-manas*** — the "afflicted mind," a continuous, pre-reflective self-grasping (introduced below).
 4. **The eighth, *alaya-vijnana*** — the storehouse consciousness, a subliminal individual stream that stores karmic seeds (explained below).
 
-The two added layers each do explanatory work the six-consciousness model could not. As William Waldron puts it in *The Buddhist Unconscious*, Yogacara posits an eighth consciousness "to serve as the substratum of the seeds engendered by karma." The manas, meanwhile, supplies a mechanism for the felt sense of an enduring "I." Crucially, these are two distinct jobs handled by two distinct layers: one carries the continuity that is actually there, the other generates the *illusion* of a permanent self on top of it.
+The two added layers each do explanatory work the six-consciousness model could not. As William Waldron puts it in *The Buddhist Unconscious*, Yogacara posits an eighth consciousness "to serve as the substratum of the seeds thought to be engendered by karma." The manas, meanwhile, supplies a mechanism for the felt sense of an enduring "I." Crucially, these are two distinct jobs handled by two distinct layers: one carries the continuity that is actually there, the other generates the *illusion* of a permanent self on top of it.
 
 ## The Storehouse and Its Seeds: Continuity Without a Self
 
