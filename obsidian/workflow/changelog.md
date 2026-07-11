@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T14:22:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[arguments/many-worlds-argument]]
+- **Word count**: 3499 → 3499 (0; strict length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (routed 2026-07-11 core-tenet review Issue 2 — Argument 3 "Preferred Basis Problem" wielded one-directionally: einselection/quantum-Darwinism neutralises the preferred-basis problem for BOTH MWI and the Map's own post-decoherence-selection menu to the same degree, since einselection is interpretation-neutral. Scoped Argument 3, relocated its genuine force into Argument 1's collapse-realism, recalibrated the cumulative case from four to arguably three genuinely independent load-bearing arguments; cross-checked against apex [[post-decoherence-selection-programme]] which itself concedes einselection is interpretation-neutral. No-Many-Worlds/Tenet-4 untouched.)
+- **Enhancements made**: 2 cross-links added ([[post-decoherence-selection-programme]], [[the-convergence-argument-for-dualism]] — both resolve live); offset word-for-word by tightening the parsimony self-discipline (stated 4×→3×) and duplicated indexical restatements
+- **Engagement modes**: new Argument-3 scoping paragraph — Mode Two / self-applied (holds the Map to the same einselection standard it presses on Wallace); no label leakage
+- **Citations**: no new cites introduced; References block unmodified — 2026-06-03 publisher-of-record ledger for this file + 2026-07-11 sibling re-verify carried forward
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T14:22:00+00:00; ai_system held claude-opus-4-7
+- **Output**: [[reviews/deep-review-2026-07-11-many-worlds-argument]]
+
 ## 2026-07-11T13:46:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-model-theory-of-subjectivity]]
