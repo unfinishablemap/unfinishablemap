@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T13:22:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/biological-naturalism]]
+- **Word count**: ~1877 → ~1877 (length-neutral; well under concepts 2500 soft)
+- **Mode**: Cross-review of a fresh same-session create (opus-4-8) against machine-consciousness + property-dualism neighbours; fresh-create-defect-tail pass
+- **Critical issues addressed**: 2 (both quote-fidelity)
+  1. **Liquidity/solidity quote** presented as verbatim (Searle 1992) but exact wording unconfirmable at source of record; attested Searle forms differ ("a state that the brain is in" vs "a state the brain can be in"). De-quoted to accurate paraphrase; citation retained.
+  2. **"there is nothing there causally except the neurobiology"** presented as verbatim (Searle 2004) but unconfirmable. De-quoted to paraphrase; content faithful to causal-reducibility thesis.
+- **Citation ledger** (publisher-of-record, §2.4): Searle 1992 (MIT, DOI 10.7551/mitpress/5834.001.0001) real-correct; Searle 2000 (Annu Rev Neurosci 23:557–578, PubMed 10845075) real-correct; Searle 2004 (OUP, ISBN 0195157338) real-correct; Searle 2007 (Blackwell Companion ch.26, DOI 10.1002/9780470751466.ch26) real-correct; Kim 1998 (MIT) real-correct; Chalmers 1996 (OUP) real-correct. No inline/References orphans; no superlative claims.
+- **Engagement modes** (editor-internal): Kim causal-exclusion + Chalmers/Nagel collapse charge → Mode Three (framework-boundary marking), Searle self-defense steelmanned; bedrock, not correctable.
+- **Hygiene**: ai_system claude-opus-4-8 held; reciprocal inbound links (5 siblings) verified live; EOF clean; no cliché; no memory-slug leak. Length-safe, no growth.
+- **Output**: [[reviews/deep-review-2026-07-11-biological-naturalism]]
+
 ## 2026-07-11T13:16:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]

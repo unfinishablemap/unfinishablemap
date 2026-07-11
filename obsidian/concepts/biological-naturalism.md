@@ -4,7 +4,7 @@ description: "Searle's biological naturalism—consciousness as caused-but-irred
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-11T13:03:00+00:00
+ai_modified: 2026-07-11T13:22:00+00:00
 draft: false
 topics: []
 concepts:
@@ -19,6 +19,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-11
 last_curated:
+last_deep_review: 2026-07-11T13:22:00+00:00
 ---
 
 Biological naturalism is John Searle's theory that consciousness is a real, higher-level biological feature of the brain—*caused by* neuronal processes and *realized in* the brain as a system feature—that is **causally reducible but ontologically irreducible** to those processes. On Searle's account this dissolves the traditional mind-body problem: consciousness is a biological feature of the brain roughly the way digestion is a feature of the stomach, so there is no need to choose between dualism and materialism because the dichotomy that generates the problem is itself a Cartesian mistake. The Unfinishable Map treats biological naturalism as its most important *non-dualist* rival—the strongest attempt to keep subjectivity real and irreducible without accepting dualism—and argues, framework-relative to Searle's own commitments, that the position is unstable: it either collapses into property dualism in all but name, or leaves the [[hard-problem-of-consciousness|hard problem]] exactly where it found it.
@@ -41,7 +42,7 @@ The apparent tension—how can a feature be both ontologically irreducible (thes
 
 Searle's signature technical move is a distinction between two kinds of reduction (Searle 2004).
 
-A **causal reduction** explains a phenomenon entirely in terms of the behavior of its underlying elements. Liquidity is causally reducible to molecular behavior: the molecules moving as they do is what liquidity *is*, causally speaking. Searle grants that consciousness is causally reducible in just this sense—"there is nothing there causally except the neurobiology." The brain's neurons cause consciousness, and there is no additional causal ingredient.
+A **causal reduction** explains a phenomenon entirely in terms of the behavior of its underlying elements. Liquidity is causally reducible to molecular behavior: the molecules moving as they do is what liquidity *is*, causally speaking. Searle grants that consciousness is causally reducible in just this sense: causally speaking, there is nothing there but the neurobiology. The brain's neurons cause consciousness, and there is no additional causal ingredient.
 
 An **ontological reduction** goes further: it *redefines* the phenomenon in terms of its cause and discards the surface appearance as a mere subjective effect. Heat gets ontologically reduced to mean molecular kinetic energy; the *felt warmth* is relocated to the mind of the observer and dropped from the physics. Searle argues we could carry out this redefinitional move for consciousness too—but we *choose not to*, because with consciousness the first-person appearance *is* the subject matter. There is nothing to relocate to an observer, because the observer's appearances are the very thing under study. So consciousness is causally reducible but ontologically irreducible.
 
@@ -49,7 +50,7 @@ Crucially, Searle treats this irreducibility as "a trivial consequence" of how r
 
 ### The Liquidity Disanalogy
 
-Searle's favored analogy is that consciousness relates to neurons as liquidity relates to water molecules: "Consciousness is a state the brain can be in, in the way that liquidity and solidity are states that water can be in" (Searle 1992). Critics press hard on a disanalogy Searle himself concedes. Liquidity is *ontologically* reducible—once the molecular story is told, "liquid" adds nothing over and above it. Consciousness, by Searle's own lights, is not: even with the complete neural story, the first-person ontology remains unaccounted for. The liquidity analogy therefore illustrates thesis 1 (bottom-up causation) but breaks down at exactly the point that matters—thesis 3, irreducibility. Searle locates the disanalogy in the first-person/third-person ontology distinction and insists it still does not make consciousness *non-physical*. Whether that insistence is stable is the contested question.
+Searle's favored analogy is that consciousness relates to neurons as liquidity relates to water molecules: consciousness is a state the brain can be in, much as liquidity and solidity are states that water can be in (Searle 1992). Critics press hard on a disanalogy Searle himself concedes. Liquidity is *ontologically* reducible—once the molecular story is told, "liquid" adds nothing over and above it. Consciousness, by Searle's own lights, is not: even with the complete neural story, the first-person ontology remains unaccounted for. The liquidity analogy therefore illustrates thesis 1 (bottom-up causation) but breaks down at exactly the point that matters—thesis 3, irreducibility. Searle locates the disanalogy in the first-person/third-person ontology distinction and insists it still does not make consciousness *non-physical*. Whether that insistence is stable is the contested question.
 
 ## Rejecting Both Rivals
 
