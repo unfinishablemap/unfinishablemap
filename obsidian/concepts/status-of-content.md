@@ -77,6 +77,7 @@ The Map treats Boghossian's argument as a real but bounded weapon against elimin
 - [[hard-problem-of-content]] — Hutto and Myin's parallel argument that no naturalistic theory can explain how neural states acquire genuine semantic content; the second arm of the pincer
 - [[enactivism-challenge-to-interactionist-dualism]] — the broader Radical Enactive Cognition programme Hutto and Myin build atop the hard problem of content
 - [[intentionality]] — what content is and why it resists naturalisation
+- [[teleosemantics]] — the leading positive naturalistic theory of content, given its strongest form and its Tenet-1 limit
 - [[illusionism]] — the eliminativist position about phenomenal consciousness, where similar self-refutation worries apply
 - [[argument-from-reason]] — a structurally adjacent self-defeat argument against naturalism
 - [[arguments-against-materialism]] — the broader case in which Boghossian's argument is one move

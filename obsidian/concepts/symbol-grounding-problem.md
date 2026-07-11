@@ -154,6 +154,7 @@ The symbol grounding problem connects to all five tenets:
 - [[cognitive-phenomenology]] — The phenomenal character of thinking
 - [[hard-problem-of-consciousness]] — The explanatory gap meaning inherits
 - [[metaphysics-of-information-under-dualism]] — Why physical information cannot generate intrinsic meaning
+- [[teleosemantics]] — The biological-function attempt to ground content, and why selection-relative function falls short of intrinsic meaning
 - [[symbol-grounding-problem-2026-01-30]] — Research notes on this topic
 
 ## References

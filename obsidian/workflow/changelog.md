@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T22:50:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Teleosemantics and Biosemantics (positive naturalistic theory of mental content)
+- **Output**: [[concepts/teleosemantics]]
+- **Word count**: 2469 (99% of 2500 concepts soft target, ok)
+- **Based on research**: yes — [[teleosemantics-2026-07-11]]
+- **Discipline**: genuine steelman (Millikan/Neander/Dretske/Papineau given strongest form + best replies to disjunction/frog/Swampman/kimu) BEFORE Tenet-1 dissent (two-normativities: selection-relative malfunction ≠ rational normativity). No verbatim quotes — all positions paraphrased in Map voice per research-note quote gap. Neander 2017 subtitle "In Defense of Informational Teleosemantics" used. HPC/naturalisation-failure cross-referenced, not duplicated.
+- **Integration**: reciprocal inbound links added from intentionality, the-naturalisation-failure-for-content, hard-problem-of-content, status-of-content, symbol-grounding-problem, content-specificity-of-mental-causation (all verified resolving)
+
 ## 2026-07-11T21:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/chinese-room-argument]]

@@ -96,6 +96,7 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 - [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]] — Content-specificity in creative cognition
 - [[concepts/epiphenomenalism]] — The view content-specificity challenges most directly
 - [[intentionality]] — The aboutness of mental states; phenomenal intentionality theory links content to phenomenal character
+- [[teleosemantics]] — The naturalistic rival that grounds content in biological function rather than phenomenal character
 - [[bandwidth-of-consciousness]] — The architectural constraints on conscious selection: sparse bandwidth, semantically loaded content
 - [[attention-as-interface]] — Where consciousness exerts content-specific selection: the attentional channel through which meaning meets neural competition
 - [[predictive-processing-and-dualism]] — The precision-weighting reading of content-specificity, and where the Map's interpretation diverges from it

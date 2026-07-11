@@ -53,7 +53,7 @@ The objection is structural rather than detail-targeted: the resources that info
 
 ## The Teleosemantic Variant
 
-Millikan's teleosemantics aims to repair this by adding biological function. A neural state has content when it has the proper function of being tokened in response to a particular condition—where proper function is fixed by selection history. The state means *food present* because consumer mechanisms downstream of it were selected to use it as a sign of food.
+Millikan's [[teleosemantics]] aims to repair this by adding biological function. A neural state has content when it has the proper function of being tokened in response to a particular condition—where proper function is fixed by selection history. The state means *food present* because consumer mechanisms downstream of it were selected to use it as a sign of food.
 
 Hutto and Myin argue that teleosemantics inherits the covariational problem rather than solving it. The selection-historical fact that a state was selected to track food does not, on their reading, change the underlying point that the state's content is being read off causal and historical facts that are themselves silent about meaning. The teleosemantic theorist can specify *when* the consumer system is supposed to use the state, but "biology lacks the resources for specifying under which guise such states might represent" their targets (Roberts, NDPR review). The intensional dimension of content—the difference between representing something *as* food and representing it *as* the nutritionally optimal nearby item—does not fall out of evolutionary function.
 
