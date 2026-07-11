@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-10 16:50:37+00:00
+ai_modified: 2026-07-11 14:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -112,7 +112,7 @@ Evidence:
 
 Two major theories disagree about *how much* neural processing consciousness requires. [GNWT](/concepts/global-workspace-theory/) (Dehaene, Changeux) holds that consciousness requires widespread fronto-parietal broadcast—local sensory processing is unconscious until it triggers global ignition. Recurrent Processing Theory (Lamme, Block) holds that local recurrent processing within sensory areas suffices for [phenomenal experience](/concepts/phenomenal-consciousness/), with global broadcast needed only for [access and report](/concepts/access-consciousness/).
 
-The 2025 Nature adversarial collaboration (COGITATE; Melloni et al., 2025) tested GNW against [Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) and found neither fully vindicated: consciousness-related activity localized primarily to posterior cortex (challenging GNW's frontal emphasis and aligning with local theories like RPT), but frontal involvement remained for access. What both GNW and RPT agree on: recurrent processing distinguishes conscious from unconscious perception. Feedforward-only processing does not support consciousness.
+The 2025 Nature adversarial collaboration (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025) tested GNW against [Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) and found neither fully vindicated: consciousness-related activity localized primarily to posterior cortex (challenging GNW's frontal emphasis and aligning with local theories like RPT), but frontal involvement remained for access. What both GNW and RPT agree on: recurrent processing distinguishes conscious from unconscious perception. Feedforward-only processing does not support consciousness.
 
 The ["overflow hypothesis"](/concepts/phenomenal-overflow/) holds that phenomenal consciousness exceeds cognitive access—you experience more than you can report. Sperling's partial report paradigm suggests subjects see more letters than they can recall. But this claim is genuinely contested: deflationists argue subjects have only a gestalt impression of "letterishness," not specific letter-experiences, and mistake the *ability* to access any row for *having accessed* all rows. The overflow debate is examined in detail in [phenomenal-overflow](/concepts/phenomenal-overflow/).
 
@@ -288,7 +288,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Silverstein, B. H., Snodgrass, M., Shevrin, H., & Kushwaha, R. (2015). P3b, consciousness, and complex unconscious processing. *Cortex*, 73, 216-227.
 1. Lamme, V. A. F. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences*, 10(11), 494-501.
 1. Lieberman, M. D. (2007). Social cognitive neuroscience: A review of core processes. *Annual Review of Psychology*, 58, 259-289.
-1. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
+1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Naccache, L., & Marti, S. (2016). Why the P3b is still a plausible correlate of conscious access? A commentary on Silverstein et al., 2015. *Cortex*, 85, 126-128.
 1. Montemayor, C., & Haladjian, H. H. (2019). Recurrent processing theory versus global neuronal workspace theory: A comment on Pitts et al. *Philosophical Transactions of the Royal Society B*, 374(1770), 20180517.
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.

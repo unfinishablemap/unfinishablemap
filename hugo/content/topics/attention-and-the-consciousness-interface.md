@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-07-11 00:34:00+00:00
+ai_modified: 2026-07-11 14:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -91,7 +91,7 @@ These cases constrain any theory that ties consciousness too tightly to attentio
 
 Block's overflow argument sharpens the picture. In iconic memory experiments, subjects report seeing all 12 letters in a brief flash but can name only 3-4. If consciousness overflows what attention captures, its scope may exceed any functional mechanism — which would create problems for [functionalist](/concepts/functionalism/) theories. Kim and Chong (2024) propose visual experience is "not rich, but not sparse"; the question remains open, and the existing data are compatible with either reading. Neither interpretation is forced by the dissociations alone.
 
-The 2025 COGITATE adversarial collaboration (Melloni et al., *Nature*) found neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than prefrontal regions. The Map's [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes attention is how consciousness *engages* with matter, rather than what consciousness *is*. The interface model treats dissociation as expected — a driver and their steering wheel are separable — though the COGITATE findings as such constrain rival functional theories without by themselves establishing the interface reading.
+The 2025 COGITATE adversarial collaboration (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., *Nature*) found neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than prefrontal regions. The Map's [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes attention is how consciousness *engages* with matter, rather than what consciousness *is*. The interface model treats dissociation as expected — a driver and their steering wheel are separable — though the COGITATE findings as such constrain rival functional theories without by themselves establishing the interface reading.
 
 ## Engaging Attention Schema Theory
 
@@ -221,7 +221,7 @@ The convergence argument identifies *where* consciousness might influence brain 
 
 14. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 
-15. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
+15. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 
 16. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 

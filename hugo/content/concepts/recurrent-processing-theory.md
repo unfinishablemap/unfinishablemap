@@ -16,6 +16,7 @@ description: 'Lamme''s local-recurrency NCC theory: phenomenal consciousness as 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-11 12:49:00+00:00
 modified: *id001
 related_articles: []
 title: Recurrent Processing Theory of Consciousness

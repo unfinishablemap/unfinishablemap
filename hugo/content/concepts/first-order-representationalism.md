@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 12:07:00+00:00
+ai_modified: 2026-07-11 14:50:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,6 +18,7 @@ description: The Tye/Dretske thesis that phenomenal character just is first-orde
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-11 14:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +56,7 @@ The advertised payoff is a "completely naturalistic" account of phenomenal consc
 
 ## The Transparency Argument
 
-The primary positive case for first-order representationalism is the **transparency** (or diaphanousness) of experience, associated with Gilbert Harman ("The Intrinsic Quality of Experience," 1990) and endorsed by Tye. The observation: when you introspect a visual experience of a tree and try to attend to features *of the experience itself*, the only features you find are features of the presented tree—its green, its shape, its location. You look *through* the experience to its object; you never seem to encounter intrinsic non-representational properties of the experience. As Harman's example runs, in attending to the experience "the only features there to turn [your] attention to will be features of the presented tree."
+The primary positive case for first-order representationalism is the **transparency** (or diaphanousness) of experience, associated with Gilbert Harman ("The Intrinsic Quality of Experience," 1990) and endorsed by Tye. The observation: when you introspect a visual experience of a tree and try to attend to features *of the experience itself*, the only features you find are features of the presented tree—its green, its shape, its location. You look *through* the experience to its object; you never seem to encounter intrinsic non-representational properties of the experience. As Harman's example runs, in attending to the experience "the only features there to turn your attention to will be features of the presented tree."
 
 The representationalist's inference: the best explanation of transparency is that phenomenal character consists *entirely* in represented worldly properties. If experience had intrinsic non-representational features, introspection should be able to find them—and it cannot.
 

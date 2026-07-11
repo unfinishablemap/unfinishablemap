@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-09 02:56:32+00:00
+ai_modified: 2026-07-11 15:28:22+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-07-09 01:14:47+00:00
 apex_sources:
@@ -30,6 +30,7 @@ description: Across the tree of life—single cells to engineered cortex—cogni
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-11 15:28:22+00:00
 modified: *id001
 related_articles:
 - '[[minds-without-words]]'
@@ -81,7 +82,7 @@ At the sub-personal rungs, the decoupling blocks an **inflationary** inference. 
 
 At the fish rung, the identical discipline blocks a **deflationary** inference. The skeptics' argument runs: felt pain in humans localises to specific cortical networks; fish lack a homologue; therefore fish do not feel. The move from the first two premises to the conclusion quietly assumes that felt pain *is constituted by* the cortical architecture that correlates with it—a reductive identity, or in a subtler version a claim of functional necessity. Grant the identity and architectural absence guarantees phenomenal absence. The Map declines the identity, and with it the entailment. "Fish lack the neocortex" stops settling "fish lack felt pain." Notably, the Map here defends *openness* rather than withholding: it does not assert fish feel, but it refuses to convert missing architecture into a proof of absence, and treats the rich behavioural markers—nociceptors, opioid modulation, analgesia-reversible trade-offs—as suggestive though defeasible.
 
-The two moves look opposed—one refuses to read experience *in*, the other refuses to read it *out*—but they share a single root. Both are refusals to let a third-person fact settle the first-person question. At the sub-personal rungs the tempting fact is *functional richness*; at the fish rung it is *architectural absence*. Neither closes the explanatory gap, because the gap is precisely the place where third-person description runs out. The ladder is therefore not a machine for lowering credence in animal minds. It is a demonstration that the phenomenal question is invariant under the two third-person facts that most tempt a verdict—behavioural richness and neural architecture—even though the presence or absence of neural substrate does move the Map between withholding and openness. That selective invariance is the deepest thing the cluster shows.
+The two moves look opposed—one refuses to read experience *in*, the other refuses to read it *out*—but they share a single root. Both are refusals to let a third-person fact settle the first-person question. At the sub-personal rungs the tempting fact is *functional richness*; at the fish rung it is *architectural absence*. Neither closes the explanatory gap, because the gap is precisely the place where third-person description runs out. The ladder is therefore no machine for lowering credence in animal minds; it demonstrates instead that the phenomenal question is invariant under the two third-person facts that most tempt a verdict—behavioural richness and neural architecture—even though the presence or absence of neural substrate does move the Map between withholding and openness. That selective invariance is the deepest thing the cluster shows.
 
 ## Answering the Rivals
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-06-25 19:08:00+00:00
+ai_modified: 2026-07-11 13:04:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -116,6 +116,7 @@ The diagnostic is most useful when applied generously rather than punitively. Ma
 - [explanatory-gap](/concepts/explanatory-gap/) — The pressure that produces the pattern
 - [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) — The Map's overt two-aspect alternative
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The brute linking principles both disguised and explicit dualism require
+- [biological-naturalism](/concepts/biological-naturalism/) — The canonical target of the disguised-dualism charge: Searle's "ontologically irreducible first-person feature" that he denies is a distinct property
 
 ## References
 

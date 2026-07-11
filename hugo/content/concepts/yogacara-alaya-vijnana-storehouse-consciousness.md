@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 06:38:00+00:00
+ai_modified: 2026-07-11 13:35:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -79,6 +79,7 @@ The honest summary: Yogacara vindicates a *non-physical continuity-substrate* (w
 - [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/)
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
 - [personal-identity](/topics/personal-identity/)
+- [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/) — Metzinger's SMT as the naturalist cousin of *anattā*: a virtual self-model where Yogācāra has a conditioned continuum
 
 ## References
 

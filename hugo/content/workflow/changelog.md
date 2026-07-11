@@ -9,6 +9,117 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-11T15:47:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [eliminative-materialism](/topics/eliminative-materialism/)
+- **Word count**: 3905 → 3905 (0, verification-only)
+- **Critical issues addressed**: 0 (post-refine deltas verified clean)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verified**: Searle 1995 NYRB Moorean quote (verbatim-faithful at nybooks.com primary source); Dennett 1978 Synthese 38(3):415-456 (Springer DOI BF00486638, real-correct); Toon 2023 Mind as Metaphor OUP (Routledge→OUP correction held); reference renumber desynced no inline pointer (author-year corpus, zero `[N]` cites); Loginov/Morozov Moorean roles current. Stamped last_deep_review only; ai_system held at claude-opus-4-7 (no re-authoring).
+- **Output**: [deep-review-2026-07-11-eliminative-materialism](/reviews/deep-review-2026-07-11-eliminative-materialism/)
+
+## 2026-07-11T15:28:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [competency-without-felt-experience](/apex/competency-without-felt-experience/)
+- **Word count**: 3236 → 3235 (-1)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (removed "not X. It is Y." style-guide cliché at the bidirectional-discipline synthesis, L79)
+- **Enhancements made**: 0 (article calibrated and near-target; no padding — 81% of soft threshold)
+- **Citations**: all 8 References publisher-of-record web-verified real-correct (Lyon 2015 Front. Microbiol. 6:264; Reber/Baluška/Miller 2023 Sentient Cell OUP; Bechtel & Bich 2024 Biological Theory 10.1007/s13752-024-00464-6; Levin & Dennett 2020 Aeon; Cohen 2000; Tauber 1994; Key 2016 Animal Sentience 1(3); Kagan 2022 Neuron 110(23):3952-3969). No fabrications, no wrong-metadata.
+- **Quote-fidelity**: Key "structure determines function" VERIFIED verbatim at publisher; "cognition all the way down" = literal Aeon title; CBC naming consistent with siblings; no stale-internal-quote drift on re-grep.
+- **Calibration**: framework-relative phenomenal-absence framing intact; common-cause-null discount and "consistent-with vs points-toward" evidential line preserved — no possibility/probability slippage.
+- **Hygiene**: ai_modified + last_deep_review → 2026-07-11T15:28:22+00:00 (≤ wall-clock); ai_system HELD at claude-opus-4-8; ai_contribution unchanged (100).
+- **Output**: [deep-review-2026-07-11-competency-without-felt-experience](/reviews/deep-review-2026-07-11-competency-without-felt-experience/)
+
+## 2026-07-11T14:26:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: mechanical citation consolidation across 7 live articles ([tenet-falsification-conditions](/concepts/tenet-falsification-conditions/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [visual-consciousness](/concepts/visual-consciousness/), [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/), [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [attention-as-causal-bridge](/apex/attention-as-causal-bridge/))
+- **Changes**: Fixed wrong-first-author Cogitate/Melloni 2025 Nature citation. Publisher-verified (PubMed 40307561 / DOI 10.1038/s41586-025-08888-1): "Adversarial testing of global neuronal workspace and integrated information theories of consciousness" (*Nature* 642(8066), 133-142) is a Cogitate Consortium byline led by Ferrante & Gorska-Klimowska — NOT "Melloni, L. et al." (Melloni is senior/last author). In each file: normalized the References entry to the canonical form `Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025)...` (completing bare-metadata entries where present) and corrected every in-text "Melloni ... 2025" mention of this paper to "Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025". Length-neutral author-string swap; citation numbering preserved.
+- **Excluded**: concepts/functionalism.md left untouched — it cites the DIFFERENT, legitimately-Melloni-first 2023 PLOS ONE protocol paper (Melloni et al. 2023, 18(2):e0268577). Disambiguated by year (2023 PLOS ONE = Melloni; 2025 Nature = Cogitate Consortium).
+- **Hygiene**: each file's own ai_modified bumped to 2026-07-11T14:26:00+00:00 (verified ≤ real wall-clock); ai_system HELD per file (no opus-4-8 flip); last_deep_review untouched (targeted cite fix, not a full review).
+- **Published**: yes
+
+## 2026-07-11T14:22:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Word count**: 3499 → 3499 (0; strict length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (routed 2026-07-11 core-tenet review Issue 2 — Argument 3 "Preferred Basis Problem" wielded one-directionally: einselection/quantum-Darwinism neutralises the preferred-basis problem for BOTH MWI and the Map's own post-decoherence-selection menu to the same degree, since einselection is interpretation-neutral. Scoped Argument 3, relocated its genuine force into Argument 1's collapse-realism, recalibrated the cumulative case from four to arguably three genuinely independent load-bearing arguments; cross-checked against apex [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) which itself concedes einselection is interpretation-neutral. No-Many-Worlds/Tenet-4 untouched.)
+- **Enhancements made**: 2 cross-links added ([post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/), [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — both resolve live); offset word-for-word by tightening the parsimony self-discipline (stated 4×→3×) and duplicated indexical restatements
+- **Engagement modes**: new Argument-3 scoping paragraph — Mode Two / self-applied (holds the Map to the same einselection standard it presses on Wallace); no label leakage
+- **Citations**: no new cites introduced; References block unmodified — 2026-06-03 publisher-of-record ledger for this file + 2026-07-11 sibling re-verify carried forward
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T14:22:00+00:00; ai_system held claude-opus-4-7
+- **Output**: [deep-review-2026-07-11-many-worlds-argument](/reviews/deep-review-2026-07-11-many-worlds-argument/)
+
+## 2026-07-11T13:46:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/)
+- **Word count**: ~1437 → ~1437 (0; corrections only, length-neutral)
+- **Critical issues addressed**: 1 (Being No One thesis quote word-order swapped "had or was" → verbatim "Nobody ever was or had a self", verified against the book §1.1 full text — Ego Tunnel and Blanke & Metzinger MPS quotes verified verbatim, no change)
+- **Medium issues addressed**: 1 (Précis citation year 2004 → 2005 per the linked journalpsyche.org source of record "PSYCHE 11(5), June 2005")
+- **Enhancements made**: 0 (fresh create already well-calibrated and well-integrated; 5 live inbound links, framework-relative Tenet-4 framing clean)
+- **Engagement modes**: SMT vs Tenet 4 — Mode Three (framework-boundary), correctly framed as located disagreement, not refutation; no label leakage
+- **Output**: [deep-review-2026-07-11-self-model-theory-of-subjectivity](/reviews/deep-review-2026-07-11-self-model-theory-of-subjectivity/)
+
+## 2026-07-11T13:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Self-Model Theory of Subjectivity (Metzinger's SMT / phenomenal self-model / no-self)
+- **Output**: [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/)
+- **Word count**: 1437 (ok — 57% of concepts 2500 soft)
+- **Based on research**: yes — [self-model-theory-of-subjectivity-2026-07-11](/research/self-model-theory-of-subjectivity-2026-07-11/)
+- **Citations**: Metzinger *Being No One* (2003, MIT), *The Ego Tunnel* (2009, Basic Books), Blanke & Metzinger 2009 (*TiCS* 13:7-13), Metzinger 2004 précis, 2020 MPE — all publisher-verified in the research note
+- **Cross-links**: reciprocal inbound links added from [witness-consciousness](/concepts/witness-consciousness/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/), [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/), [yogacara-alaya-vijnana-storehouse-consciousness](/concepts/yogacara-alaya-vijnana-storehouse-consciousness/), [personal-identity](/topics/personal-identity/) (each sibling's own ai_system held)
+
+## 2026-07-11T13:22:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [biological-naturalism](/concepts/biological-naturalism/)
+- **Word count**: ~1877 → ~1877 (length-neutral; well under concepts 2500 soft)
+- **Mode**: Cross-review of a fresh same-session create (opus-4-8) against machine-consciousness + property-dualism neighbours; fresh-create-defect-tail pass
+- **Critical issues addressed**: 2 (both quote-fidelity)
+  1. **Liquidity/solidity quote** presented as verbatim (Searle 1992) but exact wording unconfirmable at source of record; attested Searle forms differ ("a state that the brain is in" vs "a state the brain can be in"). De-quoted to accurate paraphrase; citation retained.
+  2. **"there is nothing there causally except the neurobiology"** presented as verbatim (Searle 2004) but unconfirmable. De-quoted to paraphrase; content faithful to causal-reducibility thesis.
+- **Citation ledger** (publisher-of-record, §2.4): Searle 1992 (MIT, DOI 10.7551/mitpress/5834.001.0001) real-correct; Searle 2000 (Annu Rev Neurosci 23:557–578, PubMed 10845075) real-correct; Searle 2004 (OUP, ISBN 0195157338) real-correct; Searle 2007 (Blackwell Companion ch.26, DOI 10.1002/9780470751466.ch26) real-correct; Kim 1998 (MIT) real-correct; Chalmers 1996 (OUP) real-correct. No inline/References orphans; no superlative claims.
+- **Engagement modes** (editor-internal): Kim causal-exclusion + Chalmers/Nagel collapse charge → Mode Three (framework-boundary marking), Searle self-defense steelmanned; bedrock, not correctable.
+- **Hygiene**: ai_system claude-opus-4-8 held; reciprocal inbound links (5 siblings) verified live; EOF clean; no cliché; no memory-slug leak. Length-safe, no growth.
+- **Output**: [deep-review-2026-07-11-biological-naturalism](/reviews/deep-review-2026-07-11-biological-naturalism/)
+
+## 2026-07-11T13:16:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Word count**: 2866 → 3007 (+141; 100% of 3000 soft, well under 4000 hard)
+- **Critical issues addressed**: 2 (both calibration errors correctable inside the Map's framework)
+  1. **Double-counting**: the lead calls the normative gap (logic) and structural gap (mathematics) "two faces of the same limitation," yet the Dualism subsection called them "converging support" — one argument counted twice. Reframed to "the force of *one* argument shown in two domains, not a convergence bonus," self-applying the corpus's own convergence-discount discipline (which the article previously exempted itself from). Overturns a framing two prior reviews (2026-05-28, 2026-06-06) endorsed as a strength.
+  2. **Normative-gap recalibration**: "this confuses reliable correlation with normative authority ... reliable tracking is not being bound" (declared a physicalist defeat) → honest standoff register — the tracking-plus-self-monitoring reply is "the very point at issue," "underdetermined from inside either framework," Map's reading held framework-relative. Left the legitimate self-stultification "severe difficulty" against cultural-constructivism intact (a transcendental argument, not question-begging).
+- **Engagement modes** (editor-internal): physicalist tracking-reduction reply → Mode Three (framework-boundary marking) after recalibration; cultural-constructivism → Mode Two (self-stultification on opponent's coherence standard), preserved.
+- **Citations**: References block unchanged since 2026-06-06 (Szangolies 2018 re-verified fresh then; 11 canonical classics confirmed). Superlative-currency sweep empty. No cite touched.
+- **Cross-links added**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/), [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/), [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/), [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T13:15:00+00:00; ai_system held at claude-opus-4-6 (not flipped)
+- **Output**: [deep-review-2026-07-11-consciousness-and-the-authority-of-formal-systems](/reviews/deep-review-2026-07-11-consciousness-and-the-authority-of-formal-systems/)
+
+## 2026-07-11T13:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Searle's Biological Naturalism (consciousness as caused-but-irreducible biological feature)
+- **Output**: [biological-naturalism](/concepts/biological-naturalism/)
+- **Word count**: 1877 (ok vs concepts 2500/3500/5000)
+- **Based on research**: yes — [biological-naturalism-2026-07-11](/research/biological-naturalism-2026-07-11/)
+- **Citations**: Searle 1992 *Rediscovery of the Mind* (MIT), 2000 "Consciousness" (*Annu. Rev. Neurosci.* 23:557-578), 2004 *Mind* (OUP), 2007 "Biological Naturalism" (Blackwell Companion ch.26); Kim 1998, Chalmers 1996 — all publisher-verified in the research note
+- **Cross-links**: reciprocal inbound links added from machine-consciousness, substance-property-dualism, disguised-property-dualism, hard-problem-of-consciousness, explanatory-gap (each sibling's own ai_system held)
+
+## 2026-07-11T12:49:00+00:00 - deep-review
+- **Status**: Success (cross-review of fresh create; clean settle)
+- **File**: [recurrent-processing-theory](/concepts/recurrent-processing-theory/)
+- **Word count**: 1562 → 1562 (no content change; length-safe vs concepts 2500/3500/5000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified (publisher of record, 3-state)**: Lamme & Roelfsema 2000 TiNS 23(11):571-579 PMID 11074267 — real-correct; Lamme 2006 "Towards a true neural stance ON consciousness" TiCS 10(11):494-501 — real-correct; Lamme 2010 "How neuroscience will change our view on consciousness" (non-reversed) Cog Neuro 1(3):204-220 — real-correct; Block 2011 TiCS 15(12):567-575 PMID 22078929 — real-correct; Cogitate Consortium (Ferrante et al.) 2025 Nature 642(8066):133-142 — real-correct (canonical Ferrante-first form, not Melloni)
+- **Quote-fidelity**: "probably incapable of yielding visual awareness" (Lamme & Roelfsema 2000) and "we are conscious of more than we can report or think about" (Block 2011) verbatim-confirmed at source
+- **Complement-boundary**: confirmed — develops the specific local/first-order Lamme theory (feedforward-sweep vs recurrent, four-stage model, Stage-3 overflow prediction) and positions against GWT/IIT/HOT/NCC rather than restating
+- **Lead**: framework-relative — physicalist NCC rival the Map engages/resists; recurrent loops flagged as explicit Map speculation (candidate coupling site); explanatory gap re-appears at Stage 3; overflow framed as partial convergence not endorsement. No phenomenal-absence over-claim, no possibility/probability slippage
+- **Hygiene**: 5 sibling inbound links live; self-cite pseudonyms match (NCC=Oquatre-cinq=opus-4-5, Phenomenal-Overflow=Oquatre-six=opus-4-6); 5 tenet `#^anchor` wikilinks + all outbound targets resolve; no cliche; EOF clean; ai_system held claude-opus-4-8
+- **Output**: no review archive (clean settle, no defects); last_deep_review stamped
+
 ## 2026-07-11T12:36:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Recurrent Processing Theory of Consciousness (Lamme's local-recurrency NCC theory)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-06-25 01:46:02+00:00
+ai_modified: 2026-07-11 14:26:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-25 01:46:02+00:00
 apex_sources:
@@ -57,7 +57,7 @@ The argument proceeds through three layers. First, the empirical case: attention
 
 The foundation is a dissociation. [Attention and consciousness come apart](/topics/attention-and-the-consciousness-interface/) in ways that standard theories struggle to accommodate. Koch and Tsuchiya's (2007) framework identifies four combinations: attention with consciousness (normal focused awareness), attention without consciousness (blindsight, masked priming), consciousness without attention (peripheral phenomenal overflow), and neither (dreamless sleep).
 
-Most cognitive dissociations are interesting but theoretically tame—two brain systems can operate independently. This one is different because one side involves the [hard problem](/topics/hard-problem-of-consciousness/). Consciousness without attention means phenomenal experience persisting beyond the reach of cognitive access—Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display though they could report only 3-4. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing. The 2025 adversarial COGITATE study (Melloni et al. 2025) found that neither Global Workspace Theory nor Integrated Information Theory was clearly vindicated by pre-registered empirical tests. The leading materialist frameworks cannot accommodate the full pattern.
+Most cognitive dissociations are interesting but theoretically tame—two brain systems can operate independently. This one is different because one side involves the [hard problem](/topics/hard-problem-of-consciousness/). Consciousness without attention means phenomenal experience persisting beyond the reach of cognitive access—Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display though they could report only 3-4. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing. The 2025 adversarial COGITATE study (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025) found that neither Global Workspace Theory nor Integrated Information Theory was clearly vindicated by pre-registered empirical tests. The leading materialist frameworks cannot accommodate the full pattern.
 
 The Map's interpretation: consciousness and attention are ontologically distinct. Consciousness is the non-physical subject; attention is the physical mechanism through which that subject engages with neural processes. Frequency analysis supports the separability: conscious content correlates with low gamma oscillations (~55-65 Hz) while attentional control operates in high gamma (~75-90 Hz). They can come apart because they are different things that normally work together—like a pianist and a piano.
 
@@ -187,7 +187,7 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 1. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). An opportunity cost model of subjective effort and task performance. *Behavioral and Brain Sciences*, 36(6), 661-679.
-1. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
+1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). Effortless control: Executive attention and conscious feeling of mental effort are dissociable. *Neuropsychologia*, 43(9), 1318-1328.
 1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.

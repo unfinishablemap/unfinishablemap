@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 01:09:30+00:00
+ai_modified: 2026-07-11 13:35:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -82,6 +82,7 @@ Antony's conditional constrains how the Map may buy its sharpness. Because sharp
 - [interface-threshold](/concepts/interface-threshold/) — a *distinct*, later efficacy boundary with consciousness present on both sides; contrasted here with the coupling's mere engagement, which is what secures the on/off subject-fact
 - [vagueness-void](/voids/vagueness-void/) — the broader void where indeterminacy and the limits of decidability meet
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — the property whose sharpness is in dispute
+- [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/) — Metzinger's SMT, the parallel Tenet-4 threat: it attacks *whose* experience it is, where the sorites attacks *whether* experience is present
 - [tenets](/tenets/) — the five commitments, with Tenet 4 the primary stake here
 
 ## References

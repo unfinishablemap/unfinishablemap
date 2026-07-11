@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-10 17:47:34+00:00
+ai_modified: 2026-07-11 16:42:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -33,7 +33,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/3p6g3W_8h-Q
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 01:33:00+00:00
+last_deep_review: 2026-07-11 16:42:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
@@ -149,7 +149,7 @@ The argument from reason supports three of the Map's five tenets—conditionally
 
 **[Dualism](/tenets/#dualism)**: Normative properties (justification, logical entailment, truth) are irreducible to physical properties. Rational inference requires tracking these normative relationships, which means consciousness must involve something beyond physical causation. The argument is transcendental: the very possibility of rational thought requires irreducible mental properties, rather than property dualism smuggled in as a premise. [Pragmatism's self-defeat argument](/topics/pragmatisms-path-to-dualism/) reaches the same conclusion independently: if evaluation is fully physical, the pragmatic criterion of "what works" loses the [phenomenal normativity](/concepts/evaluative-phenomenal-character/) that gives it force.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reasoning causally influences beliefs and actions. If I conclude "Socrates is mortal" *because* the premises entail it, logical relationships must play a causal role—influencing which neural patterns become actual. This requires mind-to-brain causation, not merely brain-to-brain correlation. The [quantum framework](/concepts/quantum-consciousness/) offers one candidate for how such causation might operate: consciousness selecting among superposed neural states, collapsing indeterminacy toward patterns that respect logical relationships. This is a proposed mechanism rather than an established one—Minimal Quantum Interaction is the Map's working conjecture about the locus of mind-to-brain influence, and the argument from reason's case for that influence stands independently of whether this particular mechanism is correct.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reasoning causally influences beliefs and actions. If I conclude "Socrates is mortal" *because* the premises entail it, logical relationships must play a causal role—influencing which neural patterns become actual. This requires mind-to-brain causation, not merely brain-to-brain correlation. The [quantum framework](/concepts/quantum-consciousness/) offers one candidate for how such causation might operate: consciousness selecting among superposed neural states, collapsing indeterminacy toward patterns that respect logical relationships. This is a proposed mechanism rather than an established one—Minimal Quantum Interaction is the Map's working conjecture about the locus of mind-to-brain influence, and the argument from reason's case for that influence stands independently of whether this particular mechanism is correct. Honesty requires adding that the Map's *preferred* reading of that interface—corridor dualism, on which conscious selection averages exactly to the Born measure—faces a *symmetric* version of the very exclusion pressure this article presses against non-reductive physicalism: if the physical Born distribution already has all the credentials to fix which-belief-forms statistics, token-level selection adds nothing the ensemble registers, and the mechanism looks ensemble-level epiphenomenal at exactly the point rational efficacy is needed. Whether the corridor interface delivers content-efficacious causation *at all* is [the Map's own sharpest open question](/concepts/ensemble-level-epiphenomenalism/), logged as such in [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/); the argument from reason's conclusion—that consciousness must be causally efficacious—therefore stands here as a requirement the framework must *meet*, not as one the Map's default mechanism can yet be said to have met.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalism appears simpler—one ontological category instead of two. But this apparent simplicity is self-stultifying. A metaphysics that cannot account for rational justification cannot be *rationally accepted*. The simplicity is illusory when it eliminates the conditions for rational belief. This exemplifies how Occam's Razor misleads when knowledge is incomplete: the "simpler" theory undermines the very reasoning that might justify it.
 

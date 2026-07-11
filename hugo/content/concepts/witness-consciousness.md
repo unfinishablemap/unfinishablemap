@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-23 00:52:50+00:00
+ai_modified: 2026-07-11 13:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -212,6 +212,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness selects through attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful selection
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: first-person experiments probing witness consciousness and choice
+- [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/) — Metzinger's naturalist no-self rival: the witness read as a still-representational model of tonic alertness
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge
 - [haecceity](/concepts/haecceity/) — Why *this* witness cannot be replicated
 - [meditation-observer-witness-phenomenon-2026-01-18](/research/meditation-observer-witness-phenomenon-2026-01-18/) — Research notes

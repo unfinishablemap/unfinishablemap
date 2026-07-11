@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-07-10 12:05:00+00:00
+ai_modified: 2026-07-11 14:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -124,7 +124,7 @@ Each theory of consciousness makes predictions about when consciousness should b
 
 **Functionalism** identifies consciousness with functional organisation. CMD patients lack behavioural output yet retain phenomenal awareness detectable through neuroimaging. A functionalist can reply that CMD patients *do* have functional organisation—they process language and sustain attention—so the relevant architecture persists without motor output. This is internally consistent but creates pressure: if the "relevant" functional organisation can be present without any behavioural indicator, the theory needs independent criteria for which functions constitute consciousness, criteria hard to distinguish from simply pointing at neural correlates.
 
-**Global Neuronal Workspace Theory** holds that consciousness arises when information is broadcast widely across cortical regions via long-range connections, particularly involving prefrontal cortex. Patients with severe prefrontal damage sometimes retain awareness—challenging the broadcasting architecture GNWT considers essential. The COGITATE adversarial collaboration (Melloni et al., 2025) found limited representation of conscious content in prefrontal cortex and no clear "ignition" at stimulus onset, adding empirical weight to this challenge.
+**Global Neuronal Workspace Theory** holds that consciousness arises when information is broadcast widely across cortical regions via long-range connections, particularly involving prefrontal cortex. Patients with severe prefrontal damage sometimes retain awareness—challenging the broadcasting architecture GNWT considers essential. The COGITATE adversarial collaboration (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025) found limited representation of conscious content in prefrontal cortex and no clear "ignition" at stimulus onset, adding empirical weight to this challenge.
 
 **Integrated Information Theory** proposes that consciousness corresponds to integrated information (Φ). IIT's posterior cortex emphasis draws support from independent evidence that posterior hot zone activity better predicts conscious states than frontal activity. However, the COGITATE study also challenged IIT, failing to find the sustained synchronisation within posterior cortex that IIT predicted. CMD findings—where behaviourally unresponsive patients show evidence of awareness—create further tension: either these patients retain more integration than expected, or Φ may not be the complete story.
 
@@ -202,7 +202,7 @@ The Map's [tenets](/tenets/) converge on consciousness disruption as a domain wh
 ## References
 
 1. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
-2. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
+2. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 3. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*.
 4. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 5. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751-764. https://doi.org/10.1038/s41593-023-01290-y

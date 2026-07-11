@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-10 05:31:00+00:00
+ai_modified: 2026-07-11 13:04:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -248,6 +248,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 - [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/) — Whether an artificial system could host or couple to a mind: Cutter's fitness-to-possess criterion and Békefi's missing-integrity reply
 - [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) — Why machine culpability is downstream of machine consciousness: a genuinely conscious AI would become a candidate moral agent
 - [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/) — Whether agentic architectures (persistent memory, tool use, long-horizon goals) move the consciousness needle: an obstacle-by-obstacle adjudication
+- [biological-naturalism](/concepts/biological-naturalism/) — Searle's positive theory of consciousness as a caused-but-irreducible biological feature; the metaphysical engine behind his substrate-specific rejection of Strong AI
 
 ## References
 

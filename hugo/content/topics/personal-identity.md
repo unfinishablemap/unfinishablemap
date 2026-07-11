@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-06 13:23:12.056384+00:00
+ai_modified: 2026-07-11 13:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -203,6 +203,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [many-minds-interpretation](/topics/many-minds-interpretation/) — Where the quantum-interpretation debate bottoms out in personal identity (Lockwood's Parfitian conclusion)
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity isn't enough
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and Zahavi's pre-reflective givenness over Metzinger's self-model
+- [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/) — Metzinger's SMT in full: the transparent self-model and its challenge to indexical identity
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
