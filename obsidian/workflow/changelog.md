@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T15:28:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/competency-without-felt-experience]]
+- **Word count**: 3236 → 3235 (-1)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (removed "not X. It is Y." style-guide cliché at the bidirectional-discipline synthesis, L79)
+- **Enhancements made**: 0 (article calibrated and near-target; no padding — 81% of soft threshold)
+- **Citations**: all 8 References publisher-of-record web-verified real-correct (Lyon 2015 Front. Microbiol. 6:264; Reber/Baluška/Miller 2023 Sentient Cell OUP; Bechtel & Bich 2024 Biological Theory 10.1007/s13752-024-00464-6; Levin & Dennett 2020 Aeon; Cohen 2000; Tauber 1994; Key 2016 Animal Sentience 1(3); Kagan 2022 Neuron 110(23):3952-3969). No fabrications, no wrong-metadata.
+- **Quote-fidelity**: Key "structure determines function" VERIFIED verbatim at publisher; "cognition all the way down" = literal Aeon title; CBC naming consistent with siblings; no stale-internal-quote drift on re-grep.
+- **Calibration**: framework-relative phenomenal-absence framing intact; common-cause-null discount and "consistent-with vs points-toward" evidential line preserved — no possibility/probability slippage.
+- **Hygiene**: ai_modified + last_deep_review → 2026-07-11T15:28:22+00:00 (≤ wall-clock); ai_system HELD at claude-opus-4-8; ai_contribution unchanged (100).
+- **Output**: [[reviews/deep-review-2026-07-11-competency-without-felt-experience]]
+
 ## 2026-07-11T14:26:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: mechanical citation consolidation across 7 live articles ([[concepts/tenet-falsification-conditions]], [[concepts/conscious-vs-unconscious-processing]], [[concepts/visual-consciousness]], [[topics/consciousness-disruption-and-the-mind-brain-interface]], [[topics/falsification-roadmap-for-the-interface-model]], [[topics/attention-and-the-consciousness-interface]], [[apex/attention-as-causal-bridge]])
