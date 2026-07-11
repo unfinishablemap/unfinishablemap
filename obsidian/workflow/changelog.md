@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T03:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/many-worlds]]
+- **Word count**: 3488 → 3492 (+4; length-neutral quote fix, under 3500 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (quote-fidelity)
+- **Enhancements made**: 0
+- **Verdict**: FIX. 17th review; targeted 2026-07-08 grafts + owed publisher-of-record verify. FIXED one quote-fidelity defect: line 178 tenet-rationale quote diverged from tenets.md ("instance"→"branch", "answer"→"resolve"); corrected to source verbatim. Full fresh publisher-verify of the MWI decision-theory/probability surface (Deutsch 1999, Wallace 2003/2012, Saunders 2010, Kent 2010, Albert 2010, Albert & Loewer 1988, Graham 1973, Lewis P.J. 2007, Baker 2007, Price 2010, Schlosshauer 2013, Sebens-Carroll 2018) — ALL real-correct; two-Lewis & two-Albert traps avoided. Grafts (quantum-suicide para L106, Many-Minds L160) calibration-clean + sibling-consistent (matches indexical-knowledge-and-identity + qm-interpretations, both reviewed clean this session). Born-rule critique correctly calibrated (live dispute, not "cannot recover"). Notation clean. ai_system unchanged (claude-opus-4-6). Flagged (human, length-blocked): Sebens-Carroll inline cite lacks References entry.
+- **Output**: [[reviews/deep-review-2026-07-11-many-worlds]]
+
 ## 2026-07-11T03:14:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/qm-interpretations-beyond-many-worlds]]
