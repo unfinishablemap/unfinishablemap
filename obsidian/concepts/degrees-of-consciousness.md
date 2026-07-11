@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just in kind. 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-06-17T12:35:00+00:00
+ai_modified: 2026-07-11T00:50:00+00:00
 last_deep_review: 2026-06-17T00:00:00+00:00
 draft: false
 topics:
@@ -123,6 +123,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 
 ## Further Reading
 
+- [[phenomenal-sorites-problem]] — The prior on/off question that gradation presupposes: whether it can be indeterminate that a system is conscious at all
 - [[minimal-consciousness]] — The question of consciousness at its simplest
 - [[types-of-consciousness]] — Structural varieties of consciousness (distinct from degrees)
 - [[phenomenal-consciousness]] — The qualitative aspect that admits of degrees

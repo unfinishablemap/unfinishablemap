@@ -4,7 +4,7 @@ description: "When do parts form wholes, and why can't consciousness be assemble
 created: 2026-03-24
 modified: 2026-06-01
 human_modified:
-ai_modified: 2026-06-09T09:02:46+00:00
+ai_modified: 2026-07-11T00:50:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -130,6 +130,7 @@ The metaphysics of composition provides independent support for the Map's founda
 
 ## Further Reading
 
+- [[phenomenal-sorites-problem]] — The inverse question: whether consciousness itself has the sharpness this argument borrows to answer mereological vagueness
 - [[consciousness-and-the-metaphysics-of-composition]] — The extended case that three composition theories independently converge on consciousness as the criterion for genuine wholes
 - [[combination-problem]] — The definitional treatment of panpsychism's central challenge
 - [[panpsychisms-combination-problem]] — Extended analysis of why combination fails

@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T00:50:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The phenomenal-sorites problem / ontic vagueness of consciousness
+- **Output**: [[concepts/phenomenal-sorites-problem]]
+- **Word count**: 1886
+- **Based on research**: yes — [[research/is-phenomenal-consciousness-ontically-vague-the-phenomenal-sorites-problem-2026-07-11]]
+- **Inbound links added**: composition-and-consciousness, degrees-of-consciousness, interface-threshold, vagueness-void
+
 ## 2026-07-11T00:40:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/type-token-causation]]

@@ -4,7 +4,7 @@ description: "The architectural phase transition where the mind-brain interface 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-02T18:36:06+00:00
+ai_modified: 2026-07-11T00:50:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-cognitive-distinctiveness]]"
@@ -125,6 +125,7 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 
 ## Further Reading
 
+- [[phenomenal-sorites-problem]] — Why the on/off consciousness-fact needs a simple, non-graded coupling to resist ontic vagueness
 - [[consciousness-and-cognitive-distinctiveness]] — The host article in which the threshold appears as the central explanatory mechanism
 - [[metacognition#the-metarepresentation-threshold|metarepresentation threshold]] — The cluster of capacities crossing the threshold
 - [[consciousness-as-amplifier]] — What consciousness contributes once the threshold is crossed

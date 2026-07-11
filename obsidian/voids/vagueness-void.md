@@ -4,7 +4,7 @@ description: "Human+AI exploration of why almost every concept consciousness use
 created: 2026-04-30
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-03T08:28:41+00:00
+ai_modified: 2026-07-11T00:50:00+00:00
 last_deep_review: 2026-06-03T08:28:41+00:00
 draft: false
 topics:
@@ -116,6 +116,7 @@ A reflexive consequence follows: every void article uses vague concepts (*struct
 
 ## Further Reading
 
+- [[phenomenal-sorites-problem]] — vagueness applied to consciousness itself: whether there can be no fact of the matter whether a system is conscious at all
 - [[suspension-void]] — analogous three-faced structure for the capacity to withhold judgement
 - [[imagery-void]] — companion three-faced void in the imagery domain
 - [[recognition-void]] — recognition's binary output absorbs vague extension into determinate verdict
