@@ -4,9 +4,9 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-03T07:08:33+00:00
+ai_modified: 2026-07-11T09:56:00+00:00
 draft: false
-last_deep_review: 2026-06-04T00:00:00+00:00
+last_deep_review: 2026-07-11T09:56:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -96,7 +96,7 @@ Recent neuroscience provides empirical challenges to HOT beyond the philosophica
 
 ### Blindsight Revisited
 
-[[blindsight|Blindsight]]—above-chance visual discrimination without conscious experience—is usually cited as evidence that first-order states can exist without consciousness. Maniscalco and Lau (2012) propose an alternative: blindsight might reflect failure to update metacognitive information rather than absence of visual consciousness entirely. Either interpretation challenges HOT. On the Maniscalco-Lau reading, consciousness occurs without the metacognitive representation HOT requires; on the standard reading, first-order states drive behavior without higher-order representation.
+[[blindsight|Blindsight]]—above-chance visual discrimination without conscious experience—is usually cited as evidence that first-order states can exist without consciousness. Ko and Lau (2012) propose an alternative: blindsight might reflect failure to update metacognitive information rather than absence of visual consciousness entirely. Either interpretation challenges HOT. On the Ko-Lau reading, consciousness occurs without the metacognitive representation HOT requires; on the standard reading, first-order states drive behavior without higher-order representation.
 
 ### Blind Insight: The Inverse Dissociation
 
@@ -190,10 +190,10 @@ The hard problem remains hard.
 1. Armstrong, D. M. (1968). *A Materialist Theory of the Mind*. Routledge.
 1. Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
 1. Brown, R. (2025). *Consciousness as Representing One's Mind: The Higher-Order Approach to Consciousness Explained*. Oxford University Press.
-1. Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Psychology*, 31(8), 1183-1206.
+1. Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Studies*, 175(11), 2743-2761.
 1. Gennaro, R. J. (2012). *The Consciousness Paradox*. MIT Press.
 1. Lau, H. (2022). *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience*. Oxford University Press.
 1. Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
-1. Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
+1. Ko, Y., & Lau, H. (2012). A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition. *Philosophical Transactions of the Royal Society B*, 367(1594), 1401-1411.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
 1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

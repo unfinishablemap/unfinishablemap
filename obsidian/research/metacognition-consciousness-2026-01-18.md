@@ -4,7 +4,7 @@ created: 2026-01-18
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
-ai_modified: 2026-06-14T16:34:41+00:00
+ai_modified: 2026-07-11T09:56:00+00:00
 ---
 
 # Research: Metacognition and Consciousness
@@ -71,7 +71,7 @@ Metacognition—thinking about thinking—occupies a pivotal but contested posit
 - **Tenet alignment**: Supports Bidirectional Interaction (trainable metacognitive capacity)
 - **Quote**: "The differences in volumes in the anterior prefrontal cortex between lucid dreamers and non-lucid dreamers suggest that lucid dreaming and metacognition are indeed closely connected."
 
-### Maniscalco & Lau (2012): Blindsight and Metacognition
+### Ko & Lau (2012): Blindsight and Metacognition
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC3318762/
 - **Type**: Research article
 - **Key points**:
@@ -222,7 +222,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
 - Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 241-268.
 - Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Maniscalco, B., & Lau, H. (2012). A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
+- Ko, Y., & Lau, H. (2012). A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition. *Philosophical Transactions of the Royal Society B*, 367(1594), 1401-1411.
 - Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
 - Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
 - Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy*.

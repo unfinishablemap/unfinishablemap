@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-07-11T08:19:00+00:00
+ai_modified: 2026-07-11T09:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ This distinction matters for The Unfinishable Map's framework. If metacognition 
 
 ## Dissociation Evidence
 
-**Blindsight** patients with V1 damage lack conscious visual experience in portions of their visual field yet discriminate stimuli above chance when forced to guess. Whether this reflects absent phenomenology or merely failed metacognitive access (Maniscalco & Lau 2012), the case demonstrates dissociation: performance-guiding information exists while metacognitive confidence remains at chance.
+**Blindsight** patients with V1 damage lack conscious visual experience in portions of their visual field yet discriminate stimuli above chance when forced to guess. Whether this reflects absent phenomenology or merely failed metacognitive access (Ko & Lau 2012), the case demonstrates dissociation: performance-guiding information exists while metacognitive confidence remains at chance.
 
 **Blind insight** is the inverse: subjects show metacognitive sensitivity—confidence tracking accuracy—even when first-order performance is at chance. They "know they don't know" without consciously perceiving the stimulus that grounds this accuracy.
 
@@ -232,7 +232,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 1. Kapetaniou, G.E., Moisa, M., Ruff, C.C., Tobler, P.N., & Soutschek, A. (2025). Frontopolar cortex interacts with dorsolateral prefrontal cortex to causally guide metacognition. *Human Brain Mapping*, 46(2), e70146.
 1. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications. *Consciousness and Cognition*, 9(2), 149-171.
 1. Lieberman, M. D., Gaunt, R., Gilbert, D. T., & Trope, Y. (2002). Reflexion and Reflection: A Social Cognitive Neuroscience Approach to Attributional Inference. *Advances in Experimental Social Psychology*, 34, 199-249.
-1. Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
+1. Ko, Y., & Lau, H. (2012). A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition. *Philosophical Transactions of the Royal Society B*, 367(1594), 1401-1411.
 1. Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 1. Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004

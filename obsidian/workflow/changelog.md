@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T09:56:00+00:00 - deep-review (owed-web-verify, oldest-cohort citation sweep)
+- **Status**: Success
+- **File**: [[concepts/higher-order-theories]]
+- **Word count**: 2796 → 2802 (+6; corrected canonical titles, length-neutral, soft_warning, under 3500 hard)
+- **Critical issues addressed**: 2 (both citation defects, propagated corpus-wide)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged prose; value was the publisher-of-record web-verify)
+- **Citations web-verified**: Ko & Lau 2012 blindsight paper — CONFLATION fixed: References had "Maniscalco, B. & Lau, H. … A signal detection theoretic approach to understanding blindsight … 1430-1443"; correct = Ko, Y. & Lau, H. (2012) "A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition," *Phil. Trans. R. Soc. B* 367(1594):1401-1411 (PMID 22492756). Wrong author (Maniscalco→Ko), wrong title, wrong pages; body claim was faithful to Ko & Lau. Farrell 2018 — wrong venue fixed: *Philosophical Psychology* 31(8):1183-1206 → *Philosophical Studies* 175(11):2743-2761 (DOI 10.1007/s11098-017-0980-8 / PMC6190903). Block 2011 (*Analysis* 71(3):419-431), Brown 2025 (OUP), Lau 2022 (OUP), canonical books — real-correct.
+- **Propagation (family resolution)**: Ko/Lau fix applied to [[concepts/metacognition]] (in-text + refs), [[concepts/introspection]] (refs), [[research/metacognition-consciousness-2026-01-18]] (heading + refs). Farrell fix applied to [[research/higher-order-theories-consciousness-2026-01-14]]. blindsight.md's Persaud/Maniscalco/Lau 2011 NeuroImage cite is a different real paper — left untouched.
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T09:56:00+00:00; ai_system HELD at claude-opus-4-5-20251101.
+- **Engagement modes** (editor-internal): Rosenthal Mixed; Brown Mode Two; Lau Mode Two→Three; illusionism Mode Two. No label leakage.
+- **Output**: [[reviews/deep-review-2026-07-11-higher-order-theories]]
+
 ## 2026-07-11T09:29:00+00:00 - deep-review (owed-web-verify, fast-moving 10-bit/s cluster)
 - **Status**: Success
 - **File**: [[concepts/consciousness-bandwidth-architecture]]
