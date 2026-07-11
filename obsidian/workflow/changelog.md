@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T11:06:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Recurrent Processing Theory of Consciousness
+- **Output**: [[research/recurrent-processing-theory-of-consciousness-2026-07-11]]
+- **Sources consulted**: 6
+
 ## 2026-07-11T10:56:46+00:00 - research-topic
 - **Status**: Success
 - **Topic**: First-Order Representationalism about Consciousness
