@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-06-10 05:54:56+00:00
+ai_modified: 2026-07-11 10:41:58.464389+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-20 17:20:00+00:00
 apex_sources:
@@ -26,6 +26,11 @@ description: Composition and individuation are two faces of one mereological que
   the de-combination problem is the hinge where consciousness resists the part-whole
   relation both ways.
 draft: false
+embedded_videos:
+- embedded: 2026-07-11 10:41:58.464389+00:00
+  id: WHZ8drihW0c
+  source: notebooklm/0079-01-mereology-of-mind
+  url: https://www.youtube-nocookie.com/embed/WHZ8drihW0c
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-10 05:54:56+00:00
@@ -41,6 +46,12 @@ topics:
 - '[[consciousness-and-the-metaphysics-of-composition]]'
 - '[[consciousness-and-the-metaphysics-of-individuation]]'
 ---
+
+<details class="yt-embed" data-video-id="WHZ8drihW0c">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/WHZ8drihW0c">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 # The Mereology of Mind
 

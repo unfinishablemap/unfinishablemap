@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-04 12:00:00+00:00
+ai_modified: 2026-07-11 12:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -255,6 +255,7 @@ Intentionality connects to all five foundational tenets:
 - [binding-problem](/concepts/binding-problem/) — The binding dimension of understanding
 - [illusionism](/concepts/illusionism/) — The radical denial that intentionality and consciousness are real
 - [eliminative-materialism](/topics/eliminative-materialism/) — The two-channel challenge (classical eliminativism about propositional attitudes; illusionism about phenomenal consciousness) that PIT must answer
+- [first-order-representationalism](/concepts/first-order-representationalism/) — The reductive rival that inverts PIT: consciousness reduces to first-order aboutness, rather than aboutness deriving from consciousness
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning (the computational framing)
 - [meaning-void](/voids/meaning-void/) — Why the mechanism of reference and the felt character of comprehension are both structurally hidden
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and institutional facts require phenomenal consciousness

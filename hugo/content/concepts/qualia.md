@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-06-24 11:36:55+00:00
+ai_modified: 2026-07-11 12:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -221,6 +221,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 **Physicalist responses:**
 - [functionalism](/concepts/functionalism/) - Mental states as functional roles
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) - Locating the gap in concepts
+- [first-order-representationalism](/concepts/first-order-representationalism/) - The Tye/Dretske thesis that identifies qualia with first-order representational content, denying intrinsic non-representational feel
 - [illusionism](/concepts/illusionism/) - The radical denial of phenomenal properties
 
 **Extensions:**

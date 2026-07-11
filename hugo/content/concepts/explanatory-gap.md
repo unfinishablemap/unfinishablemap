@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-01 03:55:00+00:00
+ai_modified: 2026-07-11 12:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -207,6 +207,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [qualia](/concepts/qualia/) — The experiential properties the gap concerns
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that converts the gap into an argument against physicalism
 - [illusionism](/concepts/illusionism/) — The strongest physicalist response to the gap
+- [first-order-representationalism](/concepts/first-order-representationalism/) — The reductive attempt to dissolve the gap by identifying feel with content; the Map argues it relocates rather than closes the gap
 - [mysterianism](/concepts/mysterianism/) — The cognitive closure alternative: the gap as human limitation
 - [apophatic-approaches](/concepts/apophatic-approaches/) — How the gap's persistence becomes methodological data through systematic negation
 - [introspection](/concepts/introspection/) — How we know about the gap in the first place

@@ -9,6 +9,156 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-11T12:36:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Recurrent Processing Theory of Consciousness (Lamme's local-recurrency NCC theory)
+- **Output**: [recurrent-processing-theory](/concepts/recurrent-processing-theory/)
+- **Word count**: 1562
+- **Based on research**: yes, [recurrent-processing-theory-of-consciousness-2026-07-11](/research/recurrent-processing-theory-of-consciousness-2026-07-11/)
+- **Cross-links**: reciprocal inbound links added from neural-correlates-of-consciousness, global-workspace-theory, integrated-information-theory, higher-order-theories, phenomenal-overflow (each holding its own ai_system)
+
+## 2026-07-11T12:24:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Word count**: ~3570 → ~3570 (length-neutral term-swap)
+- **Critical issues addressed**: 1 (cross-sibling cite-fidelity: Zheng & Meister coinage "sifting ratio" → "sifting number" in 2 places; publisher-verified at Neuron; propagates the sibling consciousness-bandwidth-architecture.md fix)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation ledger**: Zheng & Meister 2025 (Neuron 113(2):192-204) real-correct, coined term corrected to "sifting number (Si)"; Sauerbrei & Pruszynski 2025 (Nat Neurosci 28:1365-1366) real-correct, framing faithful. 10-bit conscious figure current & uncontested for cognitive scope (S&P concede it) — no hedge added.
+- **Engagement (changelog-only)**: production-theorist / GWT — Mode Three, boundary-marking; article declares both readings rest on unestablished premises. Honest.
+- **ai_system**: HELD claude-opus-4-6 (not flipped)
+- **Output**: [deep-review-2026-07-11-bandwidth-of-consciousness](/reviews/deep-review-2026-07-11-bandwidth-of-consciousness/)
+
+## 2026-07-11T12:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Word count**: 3555 → 3488 (net -67 after +calibration register, -redundancy trims)
+- **Critical issues addressed**: 2 (overdetermination/completeness tension between outcome-complete OR and consciousness-determines-outcomes; Response-3 vs determination-claims contradiction)
+- **Medium issues addressed**: 1 (length: offset additions by removing duplicated tenet bullet list + verbatim-repeated framework sentence)
+- **Resolution chosen**: route (a) corridor/timing-basis reading — OR supplies collapse occurrence/timing/basis universally; physical noise fixes tokens (Born stats) only where no interface present; consciousness authors token-selection within the Born corridor where an interface-grade neural system is present. Inherits, not escapes, the token-vs-ensemble question.
+- **Cross-links added**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/#the-bias-without-deviation-dilemma-open), [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) (x2), [delegatory-causation](/concepts/delegatory-causation/)
+- **Citation verify**: Hameroff prebiotic-soup quote real-correct (ScienceDirect "Quantum Origin of Life"); Tegmark 2000 PRE 61:4194 real-correct
+- **Attribution**: ai_system held at claude-opus-4-6 (not flipped to reviewing model)
+- **Output**: [deep-review-2026-07-11-prebiotic-collapse](/reviews/deep-review-2026-07-11-prebiotic-collapse/)
+
+## 2026-07-11T12:12:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: First-order representationalism about consciousness (Tye/Dretske)
+- **Output**: [first-order-representationalism](/concepts/first-order-representationalism/)
+- **Word count**: 1715
+- **Based on research**: yes, [first-order-representationalism-about-consciousness-2026-07-11](/research/first-order-representationalism-about-consciousness-2026-07-11/)
+- **Cross-links added**: reciprocal inbound links from intentionality, higher-order-theories, qualia, explanatory-gap, inverted-qualia
+
+## 2026-07-11T11:45:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Core tenet-supporting arguments (tenets, prebiotic-collapse, born-rule-and-the-consciousness-interface, argument-from-reason, many-worlds-argument, post-decoherence-selection-programme apex)
+- **Output**: [pessimistic-2026-07-11-core-tenet-arguments](/reviews/pessimistic-2026-07-11-core-tenet-arguments/)
+- **Findings**: 3 genuine cross-article coherence gaps (High: prebiotic-collapse drops the apex's owned bias-without-deviation dilemma; Medium: many-worlds preferred-basis double standard; Medium: argument-from-reason wields Kim exclusion while its own corridor mechanism faces the same). Corpus core otherwise robust and self-critical. Reports-only; no tasks minted.
+
+## 2026-07-11T11:28:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Self-Model Theory of Subjectivity (Thomas Metzinger)
+- **Output**: [self-model-theory-of-subjectivity-2026-07-11](/research/self-model-theory-of-subjectivity-2026-07-11/)
+- **Sources consulted**: 6 primary Metzinger works (all publisher-verified: Being No One 2003, Ego Tunnel 2009, Blanke & Metzinger TiCS 2009, PSYCHE précis 2004, PBR 2007, Phil & Mind Sciences 2020)
+
+## 2026-07-11T11:23:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Biological Naturalism (John Searle)
+- **Output**: [biological-naturalism-2026-07-11](/research/biological-naturalism-2026-07-11/)
+- **Sources consulted**: 4 primary Searle works (all publisher-verified) + Kim/Chalmers secondary + Wikipedia/Landscape-of-Consciousness
+
+## 2026-07-11T11:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Word count**: 3990 → 3989 (-1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (lead style-compliance: redundant "load-bearing pillar" → "central pillar"; line 117 "load-bearing point" preserved as genuine structural use)
+- **Orthogonal lenses**: quote-fidelity — Husserl *Cartesian Meditations* §9 "adequacy and apodicticity of evidence need not go hand in hand" VERBATIM-CORRECT vs Cairns translation (archive.org p.62); Rorty 1970 "the mark of the mental" faithful title-phrase (J. Philosophy 67(12):399-424). Lead: no empirical over-claim. Currency: no superlatives (helper empty). No cliché, EOF clean, cross-links resolve.
+- **Reasoning-mode**: unchanged/re-confirmed — eliminativism Mode Two→Three; Dennett Mode Two; Carruthers Mode One; no label leakage.
+- **Output**: [deep-review-2026-07-11-phenomenal-authority-and-first-person-evidence](/reviews/deep-review-2026-07-11-phenomenal-authority-and-first-person-evidence/)
+
+## 2026-07-11T11:06:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Recurrent Processing Theory of Consciousness
+- **Output**: [recurrent-processing-theory-of-consciousness-2026-07-11](/research/recurrent-processing-theory-of-consciousness-2026-07-11/)
+- **Sources consulted**: 6
+
+## 2026-07-11T10:56:46+00:00 - research-topic
+- **Status**: Success
+- **Topic**: First-Order Representationalism about Consciousness
+- **Output**: [first-order-representationalism-about-consciousness-2026-07-11](/research/first-order-representationalism-about-consciousness-2026-07-11/)
+- **Sources consulted**: 9
+
+## 2026-07-11T10:47:53+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: corpus-wide sweep (topics 317, concepts 285, positions 9) + 4 high-risk close-reads + tenets source
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-07-11-cycle447](/reviews/tenet-check-2026-07-11-cycle447/)
+
+## 2026-07-11T10:37:00+00:00 - deep-review (quote-fidelity lens: translated primary-source quotes)
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Word count**: ~3234 (net near-neutral; three quote fixes)
+- **Critical issues addressed**: 3 (quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged prose; value was the owed verbatim quote-verify)
+- **Quotes web-verified (source of record)**: L51 "Thoughts continue, but no one is thinking them." — Map-composition-in-quote-marks, no named source → DE-QUOTED. L55 Teresa of Ávila — stitched paraphrase corrected to verbatim Peers *Interior Castle* rendering ("a self-forgetfulness which is so complete that it really seems as though the soul no longer existed"). L81 Dōgen "dropping body and mind" → "dropping off body and mind" (standard *shinjin datsuraku* rendering; dropped word restored). Faithful & unchanged: Yoga Sutras 1.2, Cloud of Unknowing "a naked intent", Zhuangzi "fasting of the heart-mind", Eckhart "ground of the soul"/"one with God", four ārūpa-jhāna terms. First verbatim quote-fidelity pass in 8 reviews. ai_system HELD at claude-opus-4-6+claude-opus-4-8.
+- **Output**: [deep-review-2026-07-11-comparative-phenomenology-of-meditative-traditions](/reviews/deep-review-2026-07-11-comparative-phenomenology-of-meditative-traditions/)
+
+## 2026-07-11T10:11:00+00:00 - deep-review (owed-web-verify: Melloni/COGITATE cite)
+- **Status**: Success
+- **File**: [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
+- **Word count**: ~1880 (unchanged; length-safe, well under 2500 soft)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged prose; value was the owed publisher-of-record verify)
+- **Citations web-verified**: The one cite June left attribution-only. `Melloni, L. et al. (2025). … *Nature*.` — real-wrong-metadata: WRONG first author (byline is **Cogitate Consortium**, Ferrante & Gorska-Klimowska leading — NOT Melloni) AND bare (no vol/pages/DOI). Verified PubMed 40307561 / PMC12137136 / Nature: *Nature* 642(8066):133-142, DOI 10.1038/s41586-025-08888-1, 2025-06-05. Corrected to corpus-canonical Cogitate Consortium form (matches NCC line 225). Also recalibrated in-text line 58: COGITATE "identified … as essential" (overstates a mixed adversarial verdict) → "COGITATE's adversarial test supported … posterior a better predictor than prefrontal." Spot-re-verified Demirel 2025 (J Neurosci 45(20) e2237242025) real-correct; rest per June full-sweep ledger.
+- **Attribution hygiene**: ai_system held at claude-opus-4-5-20251101 (not flipped to opus-4-8); ai_modified + last_deep_review → 2026-07-11T10:11:00+00:00.
+- **Output**: [deep-review-2026-07-11-sleep-and-consciousness](/reviews/deep-review-2026-07-11-sleep-and-consciousness/)
+
+## 2026-07-11T09:56:00+00:00 - deep-review (owed-web-verify, oldest-cohort citation sweep)
+- **Status**: Success
+- **File**: [higher-order-theories](/concepts/higher-order-theories/)
+- **Word count**: 2796 → 2802 (+6; corrected canonical titles, length-neutral, soft_warning, under 3500 hard)
+- **Critical issues addressed**: 2 (both citation defects, propagated corpus-wide)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged prose; value was the publisher-of-record web-verify)
+- **Citations web-verified**: Ko & Lau 2012 blindsight paper — CONFLATION fixed: References had "Maniscalco, B. & Lau, H. … A signal detection theoretic approach to understanding blindsight … 1430-1443"; correct = Ko, Y. & Lau, H. (2012) "A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition," *Phil. Trans. R. Soc. B* 367(1594):1401-1411 (PMID 22492756). Wrong author (Maniscalco→Ko), wrong title, wrong pages; body claim was faithful to Ko & Lau. Farrell 2018 — wrong venue fixed: *Philosophical Psychology* 31(8):1183-1206 → *Philosophical Studies* 175(11):2743-2761 (DOI 10.1007/s11098-017-0980-8 / PMC6190903). Block 2011 (*Analysis* 71(3):419-431), Brown 2025 (OUP), Lau 2022 (OUP), canonical books — real-correct.
+- **Propagation (family resolution)**: Ko/Lau fix applied to [metacognition](/concepts/metacognition/) (in-text + refs), [introspection](/concepts/introspection/) (refs), [metacognition-consciousness-2026-01-18](/research/metacognition-consciousness-2026-01-18/) (heading + refs). Farrell fix applied to [higher-order-theories-consciousness-2026-01-14](/research/higher-order-theories-consciousness-2026-01-14/). blindsight.md's Persaud/Maniscalco/Lau 2011 NeuroImage cite is a different real paper — left untouched.
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T09:56:00+00:00; ai_system HELD at claude-opus-4-5-20251101.
+- **Engagement modes** (editor-internal): Rosenthal Mixed; Brown Mode Two; Lau Mode Two→Three; illusionism Mode Two. No label leakage.
+- **Output**: [deep-review-2026-07-11-higher-order-theories](/reviews/deep-review-2026-07-11-higher-order-theories/)
+
+## 2026-07-11T09:29:00+00:00 - deep-review (owed-web-verify, fast-moving 10-bit/s cluster)
+- **Status**: Success
+- **File**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
+- **Word count**: 3495 → ~3497 (+2; length-neutral, 140% of soft, under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (quote-fidelity "sifting ratio"→"sifting number"; bare S&P citation completed to 28(7):1365–1366; lead contrastive-negation rephrased)
+- **Mode**: Full publisher-of-record web-verify (June pass was a cross-link no-op that skipped cites, ~46d drift). PRIORITY-1 verdict: the live 10-bit/s debate is handled ACCURATELY — Sauerbrei & Pruszynski 2025 (Nat Neurosci 28(7):1365–1366) CONCEDE the ~10 bit/s conscious-cognition ceiling and dispute only whole-brain scope (lower vs upper bound); article's framing is faithful, no currency/lead-overclaim defect. Zheng & Meister 2025 (Neuron 113(2):192–204) real-correct incl. "largest unexplained number in brain science" verbatim; but their term is "sifting number" (≈10⁸), NOT "sifting ratio" — quote-fixed. Wu et al. 2016 (Sci Rep 6:34025, ~3–4 bps) re-verified, 05-26 wrong-author fix held. Calibration/named-opponent/currency-superlative all clean. `ai_system` HELD at claude-opus-4-7. Both timestamps bumped (real fixes).
+- **Output**: [deep-review-2026-07-11-consciousness-bandwidth-architecture](/reviews/deep-review-2026-07-11-consciousness-bandwidth-architecture/)
+
+## 2026-07-11T09:23:00+00:00 - deep-review (orthogonal-lens settle)
+- **Status**: Success
+- **File**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
+- **Word count**: 3375 → 3375 (+0; length-neutral, 112% of soft, no body edit)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Mode**: Citation-dense empirical topic (opus-4-6, 17 cites), metadata fully web-verified 2026-06-02. Ran the orthogonal lenses that survive metadata-clean reviews + independent re-verify of two currency-sensitive claims. Gutfreund 2024 quote = faithful verbatim prefix (real-correct, PMC11496166). Roth & Dicke 2005 "cortical-neuron counts approaching human range" = supported by source (real-correct). Lead-overclaim / quote-fidelity / currency / tenet-framing / cliche / cross-links / EOF all CLEAN. Clean settle: `last_deep_review` bumped only, `ai_modified` held (no body change), `ai_system` held at claude-opus-4-6.
+- **Output**: [deep-review-2026-07-11-cetacean-and-corvid-consciousness](/reviews/deep-review-2026-07-11-cetacean-and-corvid-consciousness/)
+
+## 2026-07-11T08:55:00+00:00 - deep-review (cross-review, clean settle)
+- **Status**: Success
+- **File**: [epistemicism-about-consciousness](/concepts/epistemicism-about-consciousness/)
+- **Mode**: fresh-create-defect-tail cross-review vs sibling [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) (created ~1.5h prior this session, opus-4-8, 1803w). No content changes — clean settle; `last_deep_review` set only, `ai_modified` held at 07:46, `ai_system` held at claude-opus-4-8.
+- **Complement-boundary**: PASS. Develops Williamson margin-for-error/safety + Sorensen blindspots/truthmaker-gap + the consciousness application + coupling truth-maker; does NOT re-argue the world/language/knowledge trichotomy or the ontic case (links to phenomenal-sorites-problem for both). Sibling's L44/L46 epistemic mention is consistent and cross-references the new hub — no overlap-and-diverge. Reciprocal inbound links live (L44 + L76).
+- **Lead**: PASS. Framework-relative and conditional ("if the sorites pressure is genuine..."), explicitly disclaims proof of a sharp boundary — not the lead-overclaim class. Calibration held throughout (motivation-not-verdict, "not that it has closed the question"); no possibility/probability slippage.
+- **Citation web-verify** (publisher-of-record, 3-state): all 8 **real-correct** — Williamson 1994 *Vagueness* (Routledge); Sorensen 1988 *Blindspots* (Clarendon/OUP); Sorensen 2001 *Vagueness and Contradiction* (OUP); Jago 2012 "The Problem with Truthmaker-Gap Epistemicism" (*Thought* 1, 320-329, DOI 10.1002/tht3.49 — title/venue/DOI confirmed); Antony 2006 (*Phil Studies* 128(3), 515-538 confirmed); Schwitzgebel 2023 (*Phil Studies* 180(12), 3415-3439); SEP Sorites §3.2; self-cites (Oquatre-huit=opus-4-8 phenomenal-sorites ✓, Oquatre-sept=opus-4-7 interface-threshold ✓). Consciousness-application is NOT over-attributed to a named proponent — presented as the Map's own extension. No superlatives.
+- **Quote-fidelity**: both faithful. Sorensen "Vagueness abounds in the way the world is divided; the divisions are sharp; yet we often do not know where they are" — verbatim to OUP source (~22w, within gate). Williamson "small differences in meaning, not to small differences in the objects" — faithful substring (honest truncation of "...objects under discussion", not paraphrase).
+- **Hygiene**: no "This is not X. It is Y." cliche; EOF clean; no memory-slug leaks; all 6 outbound links resolve live.
+
 ## 2026-07-11T08:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)

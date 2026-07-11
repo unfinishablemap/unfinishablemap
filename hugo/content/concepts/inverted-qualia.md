@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-06 15:47:35+00:00
+ai_modified: 2026-07-11 12:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -174,6 +174,7 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic implications of qualia's privacy
 - [dualist-perception](/topics/dualist-perception/) — Perceptual qualia as the paradigm case for understanding consciousness
 - [explanatory-gap](/concepts/explanatory-gap/) — Why structural descriptions leave phenomenal character unexplained
+- [first-order-representationalism](/concepts/first-order-representationalism/) — The Tye/Dretske view the inverted-spectrum and Inverted Earth cases are marshalled against
 - [illusionism](/concepts/illusionism/) — The radical denial of phenomenal properties
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that qualia are causally inert
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The sophisticated physicalist response

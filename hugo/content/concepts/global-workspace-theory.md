@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-07 01:50:52+00:00
+ai_modified: 2026-07-11 12:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -175,6 +175,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle GWT doesn't address
 - [higher-order-theories](/concepts/higher-order-theories/) — Competitor theory requiring higher-order representation
+- [recurrent-processing-theory](/concepts/recurrent-processing-theory/) — The local / first-order rival that dissociates phenomenality from the global access GWT makes constitutive
 - [predictive-processing](/concepts/predictive-processing/) — Prediction-error framework integratable with GWT
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the gateway to the workspace and the Map's proposed mind-matter interface
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Why availability isn't integration: the unity of understanding

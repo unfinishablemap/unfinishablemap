@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-21 22:27:56+00:00
+ai_modified: 2026-07-11 11:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ description: First-person reports carry layered epistemic authority — apodicti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 22:27:56+00:00
+last_deep_review: 2026-07-11 11:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ topics:
 - '[[consciousness-and-scientific-explanation]]'
 ---
 
-When you report that you are in pain, that report carries a distinctive epistemic weight that no third-party observation can match. The Unfinishable Map holds that this *phenomenal authority* — the special epistemic standing of first-person reports about conscious experience — is a load-bearing pillar of the case for dualism. Michael Huemer's phenomenal conservatism provides the epistemological grounding: if it seems to you that something is the case, you have at least prima facie justification for believing it, unless you have specific reasons to doubt. Husserl's evidence taxonomy provides the structural framework: different layers of phenomenal evidence carry different degrees of warrant, and the Map's core arguments draw from where authority is strongest.
+When you report that you are in pain, that report carries a distinctive epistemic weight that no third-party observation can match. The Unfinishable Map holds that this *phenomenal authority* — the special epistemic standing of first-person reports about conscious experience — is a central pillar of the case for dualism. Michael Huemer's phenomenal conservatism provides the epistemological grounding: if it seems to you that something is the case, you have at least prima facie justification for believing it, unless you have specific reasons to doubt. Husserl's evidence taxonomy provides the structural framework: different layers of phenomenal evidence carry different degrees of warrant, and the Map's core arguments draw from where authority is strongest.
 
 ## Why Phenomenal Reports Are Indispensable
 

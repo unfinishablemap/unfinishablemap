@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-06-07 12:00:00+00:00
+ai_modified: 2026-07-11 12:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -221,6 +221,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [panpsychism](/concepts/panpsychism/) — A related view on consciousness's ubiquity
 - [illusionism](/concepts/illusionism/) — The challenge IIT must answer
 - [global-workspace-theory](/concepts/global-workspace-theory/) — IIT's main rival, also tested in COGITATE
+- [recurrent-processing-theory](/concepts/recurrent-processing-theory/) — A fellow posterior-cortex theory, but a specific re-entrant-loop mechanism rather than a system-level Φ identity
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
 - [functionalism](/concepts/functionalism/) — The view IIT rejects with substrate-dependence
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — How disorders of consciousness challenge IIT's predictions

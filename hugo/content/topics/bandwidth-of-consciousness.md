@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-07-06 13:23:12.056384+00:00
+ai_modified: 2026-07-11 12:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/-ZzU5zvhghA
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 13:55:08+00:00
+last_deep_review: 2026-07-11 12:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ topics:
 - '[[attention-and-the-consciousness-interface]]'
 ---
 
-Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second—a ratio Zheng and Meister call the "sifting ratio," which runs to 100 million to one against total neural processing (and roughly a million to one against sensory transduction). The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: on the dualist reading, consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint may define the *shape* of the interface, distinguishing what consciousness does from what the brain does, and arguably exposing why production models face a problem that [filter](/concepts/filter-theory/) and [interactionist](/concepts/interactionist-dualism/) models appear to handle more naturally.
+Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second—a quantity Zheng and Meister call the "sifting number," which runs to 100 million to one against total neural processing (and roughly a million to one against sensory transduction). The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: on the dualist reading, consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint may define the *shape* of the interface, distinguishing what consciousness does from what the brain does, and arguably exposing why production models face a problem that [filter](/concepts/filter-theory/) and [interactionist](/concepts/interactionist-dualism/) models appear to handle more naturally.
 
 <details class="yt-embed" data-video-id="-ZzU5zvhghA">
 <summary>Video introduction</summary>
@@ -100,7 +100,7 @@ All figures use Shannon information theory: entropy of the decision space divide
 
 The ceiling holds regardless of training, talent, or task type. Chunking (Miller 1956) works *around* channel capacity without removing it. Over seven decades of measurement, the ceiling has held—a structural feature, not an experimental artefact.
 
-Zheng and Meister call the ratio between sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting ratio"—"the largest unexplained number in brain science."
+Zheng and Meister call the ratio between sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting number"—"the largest unexplained number in brain science."
 
 Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynski (2025) accept the ~10 bits/s ceiling for conscious cognition but demonstrate that unconscious motor control vastly exceeds it. A runner's stride requires coordinating dozens of muscles at 250ms timescales; the cerebellum performs continuous real-time sensorimotor processing far exceeding the conscious ceiling. The bottleneck is specifically at *[conscious access](/concepts/access-consciousness/)*—not in the computational substrate surrounding it.
 

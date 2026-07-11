@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 07:46:00+00:00
+ai_modified: 2026-07-11 09:02:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: A human-AI development of the epistemic theory of vagueness applied
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-11 09:02:00+00:00
 modified: *id001
 related_articles:
 - '[[vagueness-void]]'
@@ -29,7 +30,7 @@ Epistemicism about consciousness is the proposal that, in a series running from 
 
 ## The Epistemic Theory of Vagueness
 
-Epistemicism is a general theory of vagueness before it is anything about consciousness. Its claim is that vague predicates — "bald," "heap," "tall" — draw sharp boundaries all the same. There is a precise number of hairs at which a man ceases to be bald; there is a last grain whose removal ends a heap. Bivalence and classical logic are kept intact: every borderline sentence is either true or false, with no third value and no gap. What vagueness contributes is not indeterminacy in the world or in language but *ignorance*: we cannot know where the sharp line falls. Roy Sorensen states the metaphysics plainly in *Vagueness and Contradiction*: "Vagueness abounds in the way the world is divided; the divisions are sharp; yet we often do not know where they are."
+Epistemicism is a general theory of vagueness before it is anything about consciousness. Its claim is that vague predicates — "bald," "heap," "tall" — draw sharp boundaries all the same. There is a precise number of hairs at which a man ceases to be bald; there is a last grain whose removal ends a heap. Bivalence and classical logic are kept intact: every borderline sentence is either true or false, with no third value and no gap. What vagueness contributes is not indeterminacy in the world or in language but *ignorance*: we cannot know where the sharp line falls. Roy Sorensen defends exactly this metaphysics in *Vagueness and Contradiction*: vagueness pervades the way the world is divided, the divisions are nonetheless perfectly sharp, and we simply cannot know where they fall.
 
 The reason the ignorance is principled rather than lazy is Timothy Williamson's **margin-for-error principle** (*Vagueness*, 1994). Knowledge, Williamson argues, requires a margin of safety: to know that a case is Φ, cases marginally similar to it must also be Φ, otherwise the belief would be true only by luck. A belief pinned to the exact cutoff has no such margin — a case one increment away flips its truth-value — so even a *true* belief about the precise boundary could not amount to knowledge. Williamson pairs this with a **safety condition**: a true belief counts as knowledge only if it could not easily have been false. Boundary-beliefs fail safety, because a marginally different case would have made them false. The upshot is that the boundary is unknowable not by accident but because knowing it would violate the conditions under which anything is known at all. Crucially for the transfer that follows, Williamson locates ordinary sharp boundaries in an unknowable function of speakers' total use of a word: the margin-for-error principles, he holds, advert to "small differences in meaning, not to small differences in the objects."
 

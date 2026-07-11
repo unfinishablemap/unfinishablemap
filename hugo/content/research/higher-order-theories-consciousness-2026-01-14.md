@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 23:00:00+00:00
+ai_modified: 2026-07-11 09:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -253,7 +253,7 @@ On the rock objection:
 
 2. Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
 
-3. Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Psychology*, 31(8), 1183-1206. https://pmc.ncbi.nlm.nih.gov/articles/PMC6190903/
+3. Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Studies*, 175(11), 2743-2761. https://pmc.ncbi.nlm.nih.gov/articles/PMC6190903/
 
 4. Gennaro, R. J. (2012). *The Consciousness Paradox*. MIT Press.
 

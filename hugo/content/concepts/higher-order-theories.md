@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-03 07:08:33+00:00
+ai_modified: 2026-07-11 12:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Mental states become conscious when we become aware of them. HOT ex
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 00:00:00+00:00
+last_deep_review: 2026-07-11 09:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ Recent neuroscience provides empirical challenges to HOT beyond the philosophica
 
 ### Blindsight Revisited
 
-[Blindsight](/concepts/blindsight/)—above-chance visual discrimination without conscious experience—is usually cited as evidence that first-order states can exist without consciousness. Maniscalco and Lau (2012) propose an alternative: blindsight might reflect failure to update metacognitive information rather than absence of visual consciousness entirely. Either interpretation challenges HOT. On the Maniscalco-Lau reading, consciousness occurs without the metacognitive representation HOT requires; on the standard reading, first-order states drive behavior without higher-order representation.
+[Blindsight](/concepts/blindsight/)—above-chance visual discrimination without conscious experience—is usually cited as evidence that first-order states can exist without consciousness. Ko and Lau (2012) propose an alternative: blindsight might reflect failure to update metacognitive information rather than absence of visual consciousness entirely. Either interpretation challenges HOT. On the Ko-Lau reading, consciousness occurs without the metacognitive representation HOT requires; on the standard reading, first-order states drive behavior without higher-order representation.
 
 ### Blind Insight: The Inverse Dissociation
 
@@ -173,6 +173,8 @@ The hard problem remains hard.
 
 ## Further Reading
 
+- [first-order-representationalism](/concepts/first-order-representationalism/) — The contrasting representationalist camp: phenomenal character is first-order world-directed content, needing no higher-order state
+- [recurrent-processing-theory](/concepts/recurrent-processing-theory/) — A first-order NCC rival: recurrent processing of sensory content suffices, with no meta-representation required
 - [metacognition](/concepts/metacognition/) — The metarepresentational distinction HOT may conflate
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle HOT doesn't solve
 - [global-workspace-theory](/concepts/global-workspace-theory/) — A complementary functionalist theory
@@ -192,10 +194,10 @@ The hard problem remains hard.
 1. Armstrong, D. M. (1968). *A Materialist Theory of the Mind*. Routledge.
 1. Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
 1. Brown, R. (2025). *Consciousness as Representing One's Mind: The Higher-Order Approach to Consciousness Explained*. Oxford University Press.
-1. Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Psychology*, 31(8), 1183-1206.
+1. Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Studies*, 175(11), 2743-2761.
 1. Gennaro, R. J. (2012). *The Consciousness Paradox*. MIT Press.
 1. Lau, H. (2022). *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience*. Oxford University Press.
 1. Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
-1. Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
+1. Ko, Y., & Lau, H. (2012). A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition. *Philosophical Transactions of the Royal Society B*, 367(1594), 1401-1411.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
 1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

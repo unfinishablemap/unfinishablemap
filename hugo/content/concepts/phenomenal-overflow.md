@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-06-22 16:10:00+00:00
+ai_modified: 2026-07-11 12:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -177,6 +177,7 @@ This connects to [the broader void of pre-conceptual knowing](/voids/acquaintanc
 - [access-consciousness](/concepts/access-consciousness/)—the functional aspect that overflow exceeds
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)—the "what it's like" that may overflow
 - [global-workspace-theory](/concepts/global-workspace-theory/)—theory of access that may not capture full phenomenology
+- [recurrent-processing-theory](/concepts/recurrent-processing-theory/)—Lamme's NCC theory whose Stage-3 reading predicts overflow on neural grounds, converging with Block's argument
 - [introspection](/concepts/introspection/)—the method by which we access (and possibly miss) experience
 - [attention-as-interface](/concepts/attention-as-interface/)—how attention mediates conscious selection from the phenomenal field
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)—a proposed mechanism for conscious selection from phenomenal overflow

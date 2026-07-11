@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-06-06 21:32:52+00:00
+ai_modified: 2026-07-11 09:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: The mind-brain interface delivers ~10⁹ bits/second of experience 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 21:32:52+00:00
+last_deep_review: 2026-07-11 09:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-The consciousness-brain interface has a sharply asymmetric architecture. Sensory systems deliver approximately 10⁹ bits per second to the brain, generating rich phenomenal experience. Conscious volitional influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one, and this eight-order-of-magnitude gap is not an incidental limitation—it is a defining structural feature with two faces. The first is the asymmetry itself: the inbound channel delivers constructed experience, the outbound channel permits selection. The second is the bandwidth problem: how does a 10-bit/second channel produce the specific, fine-grained behaviour we observe? The Unfinishable Map treats these as complementary aspects of a single architecture whose resolution—hierarchical selection among brain-prepared alternatives—carries substantial philosophical weight.
+The consciousness-brain interface has a sharply asymmetric architecture. Sensory systems deliver approximately 10⁹ bits per second to the brain, generating rich phenomenal experience. Conscious volitional influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one, and this eight-order-of-magnitude gap is a defining structural feature rather than an incidental limitation—one with two faces. The first is the asymmetry itself: the inbound channel delivers constructed experience, the outbound channel permits selection. The second is the bandwidth problem: how does a 10-bit/second channel produce the specific, fine-grained behaviour we observe? The Unfinishable Map treats these as complementary aspects of a single architecture whose resolution—hierarchical selection among brain-prepared alternatives—carries substantial philosophical weight.
 
 ## The Two Channels
 
@@ -107,7 +107,7 @@ The hierarchical structure addresses the grain problem directly. Consciousness o
 
 The asymmetric architecture constrains how consciousness can relate to the brain:
 
-**Production models** face a question. If the brain *produces* consciousness, the 10⁸-fold ratio between the machinery's internal bandwidth and its conscious output requires explanation. Zheng and Meister call this the "sifting ratio" and describe it as "the largest unexplained number in brain science." [Global Workspace Theory](/concepts/global-workspace-theory/) (Baars 1988, Dehaene & Naccache 2001) offers one account: consciousness is a serial broadcast from a "global workspace" that integrates information from parallel unconscious processors. The bottleneck, on this account, is the workspace's serial nature. This genuinely explains *a* bottleneck, but two residual puzzles remain. First, why ~10 bits per second specifically? Serial broadcast could in principle run faster. Second, the asymmetry is not merely between parallel processing and serial output—it is between the *richness of conscious experience* (inbound) and the *poverty of conscious control* (outbound). If consciousness just *is* the workspace broadcast, both directions should share the same bandwidth.
+**Production models** face a question. If the brain *produces* consciousness, the 10⁸-fold ratio between the machinery's internal bandwidth and its conscious output requires explanation. Zheng and Meister call this the "sifting number" and describe it as "the largest unexplained number in brain science." [Global Workspace Theory](/concepts/global-workspace-theory/) (Baars 1988, Dehaene & Naccache 2001) offers one account: consciousness is a serial broadcast from a "global workspace" that integrates information from parallel unconscious processors. The bottleneck, on this account, is the workspace's serial nature. This genuinely explains *a* bottleneck, but two residual puzzles remain. First, why ~10 bits per second specifically? Serial broadcast could in principle run faster. Second, the asymmetry is not merely between parallel processing and serial output—it is between the *richness of conscious experience* (inbound) and the *poverty of conscious control* (outbound). If consciousness just *is* the workspace broadcast, both directions should share the same bandwidth.
 
 **[Filter models](/concepts/filter-theory/)** accommodate the asymmetry naturally. If the brain constrains rather than produces consciousness, the outbound bottleneck is the filter itself—the narrow channel through which consciousness acts on the physical world. The inbound channel may represent the brain's capacity to *transmit to* consciousness, while the outbound channel represents consciousness's capacity to *influence* the brain. The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second at the point where consciousness participates—expected on the filter model.
 
@@ -191,7 +191,7 @@ The bandwidth architecture connects to all five tenets.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
-1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
+1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*, 28(7), 1365–1366.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Wu, T., Dufford, A.J., Mackie, M.-A., Egan, L.J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports*, 6, 34025.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
