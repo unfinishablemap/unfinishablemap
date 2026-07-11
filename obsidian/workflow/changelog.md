@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T11:28:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Self-Model Theory of Subjectivity (Thomas Metzinger)
+- **Output**: [[research/self-model-theory-of-subjectivity-2026-07-11]]
+- **Sources consulted**: 6 primary Metzinger works (all publisher-verified: Being No One 2003, Ego Tunnel 2009, Blanke & Metzinger TiCS 2009, PSYCHE précis 2004, PBR 2007, Phil & Mind Sciences 2020)
+
 ## 2026-07-11T11:23:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Biological Naturalism (John Searle)
