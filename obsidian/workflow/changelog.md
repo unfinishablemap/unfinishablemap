@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T14:26:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: mechanical citation consolidation across 7 live articles ([[concepts/tenet-falsification-conditions]], [[concepts/conscious-vs-unconscious-processing]], [[concepts/visual-consciousness]], [[topics/consciousness-disruption-and-the-mind-brain-interface]], [[topics/falsification-roadmap-for-the-interface-model]], [[topics/attention-and-the-consciousness-interface]], [[apex/attention-as-causal-bridge]])
+- **Changes**: Fixed wrong-first-author Cogitate/Melloni 2025 Nature citation. Publisher-verified (PubMed 40307561 / DOI 10.1038/s41586-025-08888-1): "Adversarial testing of global neuronal workspace and integrated information theories of consciousness" (*Nature* 642(8066), 133-142) is a Cogitate Consortium byline led by Ferrante & Gorska-Klimowska — NOT "Melloni, L. et al." (Melloni is senior/last author). In each file: normalized the References entry to the canonical form `Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025)...` (completing bare-metadata entries where present) and corrected every in-text "Melloni ... 2025" mention of this paper to "Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025". Length-neutral author-string swap; citation numbering preserved.
+- **Excluded**: concepts/functionalism.md left untouched — it cites the DIFFERENT, legitimately-Melloni-first 2023 PLOS ONE protocol paper (Melloni et al. 2023, 18(2):e0268577). Disambiguated by year (2023 PLOS ONE = Melloni; 2025 Nature = Cogitate Consortium).
+- **Hygiene**: each file's own ai_modified bumped to 2026-07-11T14:26:00+00:00 (verified ≤ real wall-clock); ai_system HELD per file (no opus-4-8 flip); last_deep_review untouched (targeted cite fix, not a full review).
+- **Published**: yes
+
 ## 2026-07-11T14:22:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[arguments/many-worlds-argument]]

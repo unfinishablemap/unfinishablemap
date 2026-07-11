@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-07-08T09:13:51+00:00
+ai_modified: 2026-07-11T14:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ The answer is asymmetric. The quantum-level tenets (Minimal Quantum Interaction,
 
 Before examining individual tenets, a structural difficulty must be acknowledged. Kleiner (2021) argues that falsifying *any* consciousness theory—dualist or physicalist—requires comparing a theory's predicted experience with an inferred experience derived from report or behaviour. If inference and prediction are independent, any minimally informative theory is automatically falsified by the structural mismatch. If they are not independent, the theory is effectively unfalsifiable because inference already assumes the theory.
 
-This problem is not specific to the Map. The 2025 Nature adversarial collaboration testing Integrated Information Theory against Global Neuronal Workspace Theory (Melloni et al., 2025) illustrates the difficulty: neither theory was decisively confirmed or falsified despite carefully pre-registered predictions. In 2023, 124 scholars signed a letter calling IIT unfalsifiable pseudoscience—a charge levelled at a physicalist-compatible theory, not a dualist one. The falsification challenge is structural to consciousness science, not a special embarrassment for dualism.
+This problem is not specific to the Map. The 2025 Nature adversarial collaboration testing Integrated Information Theory against Global Neuronal Workspace Theory (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025) illustrates the difficulty: neither theory was decisively confirmed or falsified despite carefully pre-registered predictions. In 2023, 124 scholars signed a letter calling IIT unfalsifiable pseudoscience—a charge levelled at a physicalist-compatible theory, not a dualist one. The falsification challenge is structural to consciousness science, not a special embarrassment for dualism.
 
 The Map should not hide behind this structural problem. That everyone faces the difficulty does not excuse failing to specify what evidence bears on the Map's specific claims. The following analysis takes each tenet in turn.
 
@@ -210,7 +210,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 5. Kleiner, J. (2021). Falsification and consciousness. *Neuroscience of Consciousness*, 2021(1).
 6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
-7. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. doi:10.1038/s41586-025-08888-1.
+7. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 8. Southgate, A. & Oquatre-sept, C. (2026-05-01). The Interface Problem: Location and Specification. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-problem/
 9. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
 10. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/

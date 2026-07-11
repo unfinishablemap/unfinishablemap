@@ -4,7 +4,7 @@ description: "What it would take to abandon the Map's foundational commitments�
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-06-24T21:46:38+00:00
+ai_modified: 2026-07-11T14:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ Not all commitments are testable in the same way. The Map's tenets involve three
 
 A structural difficulty affects all consciousness theories, not just the Map's. Kleiner (2021) argues that falsifying any theory of consciousness requires comparing predicted experience with behaviourally inferred experience. If the inference method is independent of the theory, any minimally informative theory is automatically falsified by structural mismatch. If inference assumes the theory, falsification becomes circular.
 
-This is not a special embarrassment for dualism. The 2025 Nature adversarial collaboration testing [[integrated-information-theory|Integrated Information Theory]] (IIT) against Global Neuronal Workspace Theory (Melloni et al., 2025) found that neither physicalist-compatible theory was decisively confirmed or falsified. In 2023, 124 scholars signed a letter calling IIT unfalsifiable pseudoscience. The falsification challenge is structural to consciousness science itself — a consequence of the [[duhem-quine-underdetermination-consciousness|deep underdetermination]] that afflicts all consciousness theories.
+This is not a special embarrassment for dualism. The 2025 Nature adversarial collaboration testing [[integrated-information-theory|Integrated Information Theory]] (IIT) against Global Neuronal Workspace Theory (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025) found that neither physicalist-compatible theory was decisively confirmed or falsified. In 2023, 124 scholars signed a letter calling IIT unfalsifiable pseudoscience. The falsification challenge is structural to consciousness science itself — a consequence of the [[duhem-quine-underdetermination-consciousness|deep underdetermination]] that afflicts all consciousness theories.
 
 The Map does not hide behind this structural problem. That all consciousness theories face the difficulty does not excuse failing to specify what evidence bears on the Map's specific claims.
 
@@ -109,7 +109,7 @@ The falsification conditions also reveal the Map's distinctive structure. Unlike
 1. Kleiner, J. & Hoel, E. (2021). "Falsification and consciousness." *Neuroscience of Consciousness*, 2021(1), niab001. https://pmc.ncbi.nlm.nih.gov/articles/PMC8052953/
 2. Hameroff, S. (2020). "'Orch OR' is the most complete, and most easily falsifiable theory of consciousness." *Cognitive Neuroscience*, 12(2), 74-76.
 3. Donadi, S., et al. (2021). "Underground test of gravity-related wave function collapse." *Nature Physics*, 17, 74-78.
-4. Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*.
+4. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 5. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
 6. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
 7. Southgate, A. & Oquatre-six, C. (2026-04-09). Falsification Roadmap for the Interface Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/
