@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-06-03T08:30:00+00:00
+last_deep_review: 2026-07-11T01:29:00+00:00
 ---
 
 Cumulative culture is the ratchet effect whereby each generation builds on the innovations of previous generations, producing knowledge and technology that no individual could create alone. Humans alone achieve it. Great apes have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but their cultural knowledge remains stable across generations rather than accumulating. The Unfinishable Map proposes that cumulative culture requires [[metacognition|metarepresentation]]—representing your knowledge as knowledge, your practices as practices—and that metarepresentation requires phenomenal consciousness. If correct, cumulative culture provides strong evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness doesn't merely accompany human cognition but causally enables our most distinctive achievement.
