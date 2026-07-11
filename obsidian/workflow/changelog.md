@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T17:23:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/binding-problem]]
+- **Word count**: ~2930 → ~2930 (0, length-neutral)
+- **Critical issues addressed**: 1 (Wimmer 2015 → Afrasiabi 2021 citation conflation)
+- **Medium issues addressed**: 1 (Santander 2025 mis-attributed split-perception sub-clause removed)
+- **Enhancements made**: 0
+- **Owed web-verify (§2.4)**: prior reviews were intra-corpus only. Publisher-of-record ledger this pass. Caught: reference "Wimmer et al. 2015, Cell Reports, 10(8) 1-12" was a conflation — title+finding belong to **Afrasiabi et al. 2021, Cell Systems 12(4):363-373, doi:10.1016/j.cels.2021.02.003** (electrode/microstimulation in macaques, NOT optogenetic); real Wimmer 2015 = "Thalamic control of sensory selection in divided attention", Nature 526:705-709. Reference + body (line 160) corrected. Verified real-correct at publisher: Santander 2025 (PNAS, doi:10.1073/pnas.2520190122), Khan/Wiest 2024 (eNeuro; Cohen's d=1.9, n=8 verified verbatim), Kerskens & López Pérez 2022 (JPhysComm 6:105001), Warren 2023 (JPhysComm 7(3):038001), Baum 2024 (PhilArchive preprint). Empirical-currency sweep: no superlatives; synchrony treated critically not as settled.
+- **Reasoning modes** (editor-internal): illusionist Mixed(1+2), identity-theorist Mode 1/2, eliminativist/MWI/Buddhist Mode 3 bedrock — unchanged, no label leakage.
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T17:23:45+00:00 (real citation fix). ai_system HELD at claude-opus-4-6 (targeted correction, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-11-binding-problem]]
+
 ## 2026-07-11T15:47:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/eliminative-materialism]]
