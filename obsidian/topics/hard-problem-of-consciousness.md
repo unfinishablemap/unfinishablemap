@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-06-23T00:52:50+00:00
+ai_modified: 2026-07-11T13:04:00+00:00
 draft: false
 topics: []
 concepts:
@@ -263,6 +263,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[clinical-phenomenology-and-altered-experience]] — How psychiatric conditions reveal structural features of consciousness that resist neural reduction
 - [[bandwidth-of-consciousness]] — The 100-million-fold gap between sensory input and conscious output as evidence for interface dualism
 - [[pain-consciousness-and-causal-power]] — Pain as the hard problem made personal: why phenomenal character resists reduction
+- [[biological-naturalism]] — Searle's claim to dissolve the mind-body problem, and why the Map argues his "causal reducibility without ontological reducibility" leaves the hard problem untouched
 - [[topics/phenomenal-value-realism]] — The hard problem extends to value: if phenomenal properties are irreducible, so is the goodness and badness they constitute
 - [[buddhism-and-dualism]] — How Buddhist philosophy engages with dualist frameworks
 - [[metaproblem-of-consciousness-under-dualism]] — How interactionism turns the metaproblem from threat to vindication

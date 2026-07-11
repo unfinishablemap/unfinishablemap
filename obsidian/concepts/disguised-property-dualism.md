@@ -4,7 +4,7 @@ description: "A diagnostic for physicalist theories that posit two irreducible d
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-06-25T19:08:00+00:00
+ai_modified: 2026-07-11T13:04:00+00:00
 last_deep_review: 2026-06-22T06:09:49+00:00
 draft: false
 topics:
@@ -113,6 +113,7 @@ The diagnostic is most useful when applied generously rather than punitively. Ma
 - [[explanatory-gap]] — The pressure that produces the pattern
 - [[bi-aspectual-ontology]] — The Map's overt two-aspect alternative
 - [[psychophysical-laws]] — The brute linking principles both disguised and explicit dualism require
+- [[biological-naturalism]] — The canonical target of the disguised-dualism charge: Searle's "ontologically irreducible first-person feature" that he denies is a distinct property
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-07T06:20:41+00:00
+ai_modified: 2026-07-11T13:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -186,6 +186,7 @@ The distinction matters less than it might seem for the Map's core commitments, 
 - [[illusionism]] — The radical challenge that questions whether qualia exist at all
 - [[haecceity]] — Primitive thisness that may ground the substance view
 - [[four-category-ontology]] — Lowe's Non-Cartesian Substance Dualism as the strongest *substance* option, congenial to the Map without being mandatory
+- [[biological-naturalism]] — Searle's non-dualist rival; the Map argues it is unstable and that an honest property or substance dualism is the more coherent settling-point
 
 ## References
 

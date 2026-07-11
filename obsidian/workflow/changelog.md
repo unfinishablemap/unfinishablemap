@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T13:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Searle's Biological Naturalism (consciousness as caused-but-irreducible biological feature)
+- **Output**: [[concepts/biological-naturalism]]
+- **Word count**: 1877 (ok vs concepts 2500/3500/5000)
+- **Based on research**: yes — [[research/biological-naturalism-2026-07-11]]
+- **Citations**: Searle 1992 *Rediscovery of the Mind* (MIT), 2000 "Consciousness" (*Annu. Rev. Neurosci.* 23:557-578), 2004 *Mind* (OUP), 2007 "Biological Naturalism" (Blackwell Companion ch.26); Kim 1998, Chalmers 1996 — all publisher-verified in the research note
+- **Cross-links**: reciprocal inbound links added from machine-consciousness, substance-property-dualism, disguised-property-dualism, hard-problem-of-consciousness, explanatory-gap (each sibling's own ai_system held)
+
 ## 2026-07-11T12:49:00+00:00 - deep-review
 - **Status**: Success (cross-review of fresh create; clean settle)
 - **File**: [[concepts/recurrent-processing-theory]]

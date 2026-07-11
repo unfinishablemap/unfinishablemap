@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-07-10T05:31:00+00:00
+ai_modified: 2026-07-11T13:04:00+00:00
 last_deep_review: 2026-07-07T02:23:22+00:00
 draft: false
 topics:
@@ -246,6 +246,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 - [[ai-ensoulment-hypothesis]] — Whether an artificial system could host or couple to a mind: Cutter's fitness-to-possess criterion and Békefi's missing-integrity reply
 - [[ai-moral-agency-and-the-responsibility-gap-under-dualism]] — Why machine culpability is downstream of machine consciousness: a genuinely conscious AI would become a candidate moral agent
 - [[agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]] — Whether agentic architectures (persistent memory, tool use, long-horizon goals) move the consciousness needle: an obstacle-by-obstacle adjudication
+- [[biological-naturalism]] — Searle's positive theory of consciousness as a caused-but-irreducible biological feature; the metaphysical engine behind his substrate-specific rejection of Strong AI
 
 ## References
 

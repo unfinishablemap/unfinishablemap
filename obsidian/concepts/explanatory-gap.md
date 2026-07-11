@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-11T12:07:00+00:00
+ai_modified: 2026-07-11T13:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -215,6 +215,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[topics/phenomenal-value-realism]] — The evaluative dimension of the gap: if phenomenal properties constitute value, physics cannot reach normativity either
 - [[evaluative-phenomenal-character|moral phenomenology and perception]] — The explanatory gap extended into the moral domain: why neural descriptions cannot capture felt wrongness
 - [[quantum-measurement-and-consciousness]] — The argument that the measurement problem is an instance of the same explanatory gap
+- [[biological-naturalism]] — Searle calls the irreducibility "trivial," but the Map argues this only re-describes the gap rather than closing it
 - [[noetic-feelings-void]] — Why explanation cannot explain itself: the recursive opacity that compounds the gap
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — How the gap constrains what we can know about the consciousness-matter interface
 - [[metaphysics-of-information-under-dualism]] — The syntax-semantics divide as an informational framing of the gap
