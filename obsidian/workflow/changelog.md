@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T00:19:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Is Phenomenal Consciousness Ontically Vague? The Phenomenal-Sorites Problem
+- **Output**: [[research/is-phenomenal-consciousness-ontically-vague-the-phenomenal-sorites-problem-2026-07-11]]
+- **Sources consulted**: 8 primary (Antony x2, Simon, Hall, Schwitzgebel x2, Tye x2, Papineau); all publisher-of-record verified
+- **Note**: corrected two task-shorthand attribution errors — Tye AFFIRMS vagueness (not denies); the "Is Consciousness Vague?" pro-vagueness paper is Hall (not Antony); Papineau reframed as semantic (not ontic-sharp) vagueness
+
 ## 2026-07-11T00:13:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
