@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-10T15:50:10+00:00
+ai_modified: 2026-07-11T04:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: 2026-05-25T11:43:34+00:00
-last_deep_review: 2026-06-22T11:13:37+00:00
+last_deep_review: 2026-07-11T04:03:00+00:00
 embedded_videos:
   - id: DnI0-3Z9EQE
     url: https://www.youtube-nocookie.com/embed/DnI0-3Z9EQE
@@ -81,7 +81,7 @@ Two declarations mark growing agreement, though neither is settled consensus. Th
 
 Andrews, Birch & Sebo (2025, *Science*) supply the operational counterpart to "realistic possibility" language. The marker method identifies a dimension of consciousness (pain, perception, valence), looks for behavioural and anatomical features correlating with it in humans, and asks whether analogues are present in the target species. Each marker is graded by context-dependent confidence; convergence across markers, not any single finding, raises confidence. Bayne, Carter & Seth (2024) supply a parallel theory-light/theory-heavy taxonomy.
 
-The same marker logic extends to the developmental case. Bayne, Frohlich, Cusack, Moser & Naci (2023, *Trends in Cognitive Sciences*) apply behavioural and neural markers to infants, arguing consciousness "is likely to be in place by 3–4 months of age and perhaps even arises before birth." This is a live constraint, not a confirmation: the infant removes the cross-species inference gap (no alien architecture), so a positive marker reading is firmer than for any non-human animal—yet still routes through markers calibrated on the verbal adult, inheriting the [[#the-standing-agnostic-challenge|standing agnostic challenge]]. Developmental and animal cases apply one method, not independent confirmations.
+The same marker logic extends to the developmental case. Bayne, Frohlich, Cusack, Moser & Naci (2023, *Trends in Cognitive Sciences*) apply behavioural and neural markers to infants, arguing consciousness "is likely to be in place by early infancy, and may even begin before birth." This is a live constraint, not a confirmation: the infant removes the cross-species inference gap (no alien architecture), so a positive marker reading is firmer than for any non-human animal—yet still routes through markers calibrated on the verbal adult, inheriting the [[#the-standing-agnostic-challenge|standing agnostic challenge]]. Developmental and animal cases apply one method, not independent confirmations.
 
 The instructive negative case is the LLM: linguistic behaviour is a strong marker in humans because it correlates with consciousness-relevant capacities, but in LLMs it appears decoupled and may fail to extend. The method is tenet-coherent—markers identify *correlates*, consistent with Dualism's commitment that no third-person feature *constitutes* consciousness, and context-dependent grading instantiates [[tenets#^occams-limits|Occam's Razor Has Limits]]. A methodologically strong framework does not, on its own, settle species verdicts.
 
@@ -135,7 +135,7 @@ Two discriminators (not refutations) mark where the readings diverge. The first 
 
 ## Consciousness and the Human-Ape Intelligence Gap
 
-Great apes are our closest relatives—98-99% identical at single-nucleotide variants, though post-2023 telomere-to-telomere comparisons (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%. Apes display sophisticated cognition, yet humans uniquely produce [[cumulative-culture|cumulative culture]] involving abstract mathematics and technology. Tomasello (2010) locates the difference not in any single cognitive primitive—apes share most—but in shared intentionality, the capacity for collaborative activity with joint goals; Gruber et al. (2015) add that apes have culture but do not know they do. Standard neuroscience attributes the gap to architecture (expanded DLPFC, arcuate-fasciculus connectivity), which neither forces nor rules out a dualistic reading.
+Great apes are our closest relatives—98-99% identical at single-nucleotide variants, though post-2023 telomere-to-telomere comparisons (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%. Apes display sophisticated cognition, yet humans uniquely produce [[cumulative-culture|cumulative culture]] involving abstract mathematics and technology. Tomasello & Herrmann (2010) locate the difference not in any single cognitive primitive—apes share most—but in shared intentionality, the capacity for collaborative activity with joint goals; Gruber et al. (2015) add that apes have culture but do not know they do. Standard neuroscience attributes the gap to architecture (expanded DLPFC, arcuate-fasciculus connectivity), which neither forces nor rules out a dualistic reading.
 
 The Map offers a complementary interpretation. The [[baseline-cognition]] hypothesis proposes great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access (full treatment: [[consciousness-as-amplifier]]). Supporting evidence: working-memory differences (Inoue & Matsuzawa 2007) about *deployment* rather than capacity; apes having culture but not *knowing* they have it; apes passing Level 1 theory of mind but struggling with Level 3 recursive mindreading; contested findings (DeWall et al. 2008) that rule-based reasoning depends on conscious processing.
 
@@ -231,10 +231,10 @@ Whitehead's process philosophy proposes experience is fundamental—*actual occa
 1. Stanford Encyclopedia of Philosophy. Animal Consciousness.
 1. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Ginsburg, S. & Jablonka, E. (2020). "Unlimited Associative Learning and the origins of consciousness: a primer and some predictions." *Biology & Philosophy*, 35(56).
-1. Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
+1. Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1666.
 1. Chittka, L. (2022). *The Mind of a Bee*. Princeton University Press.
 1. Chittka, L. et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*, 380(1939).
-1. Andrews, K., Birch, J., & Sebo, J. (2025). "Evaluating animal consciousness." *Science*, 387(6735), 822–824.
+1. Andrews, K., Birch, J., & Sebo, J. (2025). "Evaluating animal consciousness." *Science*, 387(6736), 822–824.
 1. Bayne, T., Carter, O., & Seth, A. K. (2024). "Tests for consciousness in humans and beyond." *Trends in Cognitive Sciences*, 28(5), 454–466.
 1. Bayne, T., Frohlich, J., Cusack, R., Moser, J., & Naci, L. (2023). "Consciousness in the cradle: on the emergence of infant experience." *Trends in Cognitive Sciences*, 27(12), 1135–1147.
 1. Wandrey, M.-M., & Halina, M. (2025). "The evolution of animal consciousness." *Philosophy Compass*.

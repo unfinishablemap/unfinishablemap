@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T04:04:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Word count**: 3974 → 3974 (length-neutral; 26w under the 4000 topics hard ceiling)
+- **Critical issues addressed**: 4 (Tomasello in-text sweep-miss → +Herrmann; Andrews/Birch/Sebo Science issue 6735→6736; Godfrey-Smith 2024 end page 1672→1666; Bayne 2023 altered quote "3–4 months/arises" → verbatim "early infancy/begin")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral, at soft-warning)
+- **Owed-web-verify**: 10 cites web-verified at publisher of record (3 metadata + 1 quote defect fixed; Yoo 2025 "12-15%" divergence currency-confirmed ~14.9%; NY Declaration tiering verified — no tier-inflation); classics group-confirmed. Engagement modes (changelog-only): Carruthers Mode Two; Frankish Mode Two; LeDoux Mode Three; MWI Mode Three.
+- **ai_system**: unchanged (claude-opus-4-7)
+- **Output**: [[reviews/deep-review-2026-07-11-animal-consciousness]]
+
 ## 2026-07-11T03:50:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/machine-question]]
