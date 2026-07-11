@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T05:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-consequence-argument-for-incompatibilism]]
+- **Trigger**: topic-concept anchoring audit (2026-07-11, Audit Three of calibration-audit-triple), anchor = luck-objection
+- **Verdict**: predominantly structural false-high (formal-argument exposition; lexical hedge-counter blind to "contested"/"far from defeated"/"the dialectic remains open"/"if sound") with genuine calibration headroom on soundness-conditionality and a missing compatibilist rival
+- **Strong-assertion verbs** (3, all retained as legitimate exposition; lead one framework-relativized): (1) "establishes incompatibilism only" → conditionalized "if sound... may be better read as conditionally supported than as settled"; (2) section heading "What the Argument Establishes" — neutral structure, kept; (3) "refutes this formulation" — accurate report of McKay–Johnson result (van Inwagen conceded Beta), kept
+- **Changes**: (a) lead now conditionalizes incompatibilist conclusion on soundness; (b) added dispositional-compatibilism engagement (Vihvelin 2013, Fara) as a second contested premise-point; (c) noted the open transfer-principle dialectic does not decide repairable-vs-irreparable Beta; (d) Relation-to-Site now flags the luck objection as pressing on the Map's own libertarian discharge, not spoils of clearing the compatibilist field; added Vihvelin reference
+- **Hedge density**: 1.82/kw → 4.43/kw (anchor 5.11); underdetermination markers 0 → 1; central claim (argument's validity/structure) and voice preserved — no empty hedges manufactured
+- **Anchoring evaluator re-run**: both flags (luck-objection, causal-closure) cleared (0 flags)
+- **Published**: yes
+
 ## 2026-07-11T04:54:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Epistemicism about Consciousness and the Sharp-but-Unknowable Boundary
