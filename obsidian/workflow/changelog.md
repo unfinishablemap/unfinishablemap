@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T00:34:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Word count**: 3999 → 3999 (net 0, citation metadata correction only)
+- **Critical issues addressed**: 1 (Reference 10 Kim & Chong — real-paper-wrong-metadata: author initial K→C, venue *Consciousness and Cognition* → *Psychonomic Bulletin & Review*, added 31(4):1558-1569; publisher-of-record verified vs PubMed 38151692)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral, converged)
+- **Note**: Owed-web-verify-seam cycle-slot. Independently live-verified 16 external cites at publisher of record (all post-2020 empirical + quantum trio + core clinical canon); did NOT trust prior pass's ledger, which had ratified the Kim & Chong venue error. Verified INLINE, no subagent punt. AST engagement Mixed/no boundary-substitution; no calibration slippage; EOF clean. Bumped both ai_modified + last_deep_review.
+- **Output**: [[reviews/deep-review-2026-07-11-attention-and-the-consciousness-interface]]
+
 ## 2026-07-11T00:19:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Is Phenomenal Consciousness Ontically Vague? The Phenomenal-Sorites Problem
