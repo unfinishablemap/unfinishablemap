@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T04:54:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Epistemicism about Consciousness and the Sharp-but-Unknowable Boundary
+- **Output**: [[research/epistemicism-about-consciousness-2026-07-11]]
+- **Sources consulted**: 12 (6 newly web-verified at publisher/SEP of record — Williamson 1994, Sorensen 1988 & 2001, Jago 2012, SEP Sorites & Vagueness; 6 reused-verified from the sibling phenomenal-sorites note. Distinctness verdict PROCEED — full Williamson epistemic theory + consciousness-application + fact-maker objection genuinely distinct from the ~2-sentence epistemic locus in concepts/phenomenal-sorites-problem.md)
+
 ## 2026-07-11T04:52:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Yogacara Alaya-vijnana (Storehouse Consciousness) as a Substrate-Continuity Theory of Mind
