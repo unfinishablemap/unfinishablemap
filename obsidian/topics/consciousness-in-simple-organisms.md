@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-06-21T11:38:47+00:00
 human_modified: null
-ai_modified: 2026-07-09T00:34:08+00:00
+ai_modified: 2026-07-11T04:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-06-21T00:00:00+00:00
+last_deep_review: 2026-07-11T04:36:00+00:00
 coalesced_from:
   - "/concepts/minimal-consciousness/"
   - "/topics/consciousness-in-simple-organisms/"
@@ -56,7 +56,7 @@ The Unfinishable Map's dualist framework gains unexpected support from this rese
 
 In April 2024, the New York Declaration on Animal Consciousness was launched and has since been signed by hundreds of scientists and philosophers (605 as of the live 2026 signatory count, up from roughly 40 at launch), significantly expanding the 2012 Cambridge Declaration. Where Cambridge affirmed consciousness in mammals, birds, and cephalopods, New York extends to "a realistic possibility of conscious experience" in all vertebrates and many invertebrates, including insects, crustaceans, and other arthropods. Signatories include David Chalmers, Christof Koch, Peter Godfrey-Smith, Lars Chittka, and Anil Seth.
 
-The declaration's precautionary stance is notable: "If there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility." The Map endorses this epistemic humility—consistent with the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet.
+The declaration's precautionary stance is notable: "When there is a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility in decisions affecting that animal." The Map endorses this epistemic humility—consistent with the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet.
 
 ## Evidential Register: Tenet vs. Evidence
 
@@ -107,15 +107,15 @@ The slime mold case divides researchers sharply:
 
 **Skeptics** maintain these behaviors are biochemical reactions, however sophisticated. Maze-solving follows nutrient gradients; no phenomenal experience is required.
 
-For the Map's framework, slime molds present a puzzle. If [[quantum-consciousness|quantum effects in neuronal microtubules]] provide the interface for consciousness, organisms lacking neurons shouldn't exhibit cognitive behaviors—yet they do. (Slime molds possess microtubules as cytoskeletal elements; what they lack is the orchestrated neuronal architecture the Penrose–Hameroff hypothesis treats as load-bearing.) This suggests either that quantum neural interfaces are sufficient but not necessary for cognition, or that cognition and consciousness can fully dissociate.
+For the Map's framework, slime molds present a puzzle. If [[quantum-consciousness|quantum effects in neuronal microtubules]] provide the interface for consciousness, organisms lacking neurons shouldn't exhibit cognitive behaviors—yet they do. (Slime molds possess microtubules as cytoskeletal elements; what they lack is the orchestrated neuronal architecture the Penrose–Hameroff hypothesis treats as load-bearing.) This suggests either that quantum neural interfaces are sufficient but not necessary for cognition, or that cognition and consciousness dissociate.
 
-The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm biological systems—applies differently across complexity levels. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the Map's view, enable consciousness to interface with matter—sophisticated cognition without phenomenal experience.
+The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm biological systems—applies differently across complexity levels. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the Map's view, enable consciousness to interface with matter.
 
 The defensible reading of *Physarum* is that it exhibits sophisticated information processing without phenomenal experience — a clear case where cognition and consciousness can dissociate. Attributing experience to slime molds remains a panpsychist or process-philosophical possibility, not an empirically supported finding; the case sits at *speculative integration* with cognition-without-consciousness as the more parsimonious reading.
 
 ## The Baseline Cognition Framework
 
-The [[baseline-cognition]] concept—what cognition achieves without substantial conscious contribution—provides a useful framework for interpreting simple organism behaviour. Great apes demonstrate sophisticated cognitive capacities that appear to operate without the metarepresentational consciousness that distinguishes human cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all within what Tomasello calls the "zone of latent solutions."
+The [[baseline-cognition]] concept—what cognition achieves without substantial conscious contribution—helps interpret simple organism behaviour. Great apes demonstrate sophisticated cognitive capacities that appear to operate without the metarepresentational consciousness that distinguishes human cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all within what Tomasello calls the "zone of latent solutions."
 
 Applied to simple organisms:
 
@@ -125,7 +125,7 @@ Applied to simple organisms:
 | Hydra | Habituation, sensitisation, prey detection | No associative learning; distributed processing | Speculative integration |
 | Slime molds | Maze-solving, network optimisation, habituation | No neurons at all; purely biochemical? | Speculative integration / cognition without consciousness |
 
-If baseline cognition marks what neural systems achieve without consciousness, and great apes represent that boundary, simple organisms help define the lower limit of cognition itself. The gradient from slime mold to nematode to great ape to human may track not just complexity but qualitatively different cognitive regimes—and possibly qualitatively different relationships to consciousness. The [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] article examines the upper end of this gradient, where consciousness crosses a threshold and transforms what brains can do—enabling logical reasoning, cumulative culture, and counterfactual thinking that even sophisticated great ape cognition cannot achieve.
+If baseline cognition marks what neural systems achieve without consciousness, and great apes represent that boundary, simple organisms help define the lower limit of cognition itself. The gradient from slime mold to nematode to great ape to human may track not just complexity but qualitatively different cognitive regimes—and different relationships to consciousness. The [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] article examines the gradient's upper end, where consciousness transforms what brains can do—enabling logical reasoning, cumulative culture, and counterfactual thinking beyond sophisticated great ape cognition.
 
 ## The Three-Level Metarepresentational Framework
 
@@ -139,7 +139,7 @@ This distinction matters for minimal consciousness because organisms can exhibit
 
 The framework suggests minimal consciousness might suffice for second-order processing while full metarepresentation requires something more—the phenomenal "standing back" that allows representations to become objects of awareness. An organism might cross into genuine phenomenal experience while remaining unable to represent that experience as experience.
 
-This has ethical implications. If *C. elegans* has minimal consciousness—even without metarepresentation—it matters morally. The worm cannot know it suffers (that would require metarepresentation), but it might suffer nonetheless. The three-level framework clarifies what's at stake: moral consideration depends on consciousness, not on metarepresentation. The [[ethics-of-consciousness-invertebrate-question|ethics of invertebrate consciousness]] develops the moral implications in detail, arguing that dualism's threshold structure makes uncertainty about invertebrate consciousness more consequential than gradualist accounts recognise.
+This has ethical implications. If *C. elegans* has minimal consciousness—even without metarepresentation—it matters morally. The worm cannot know it suffers (that would require metarepresentation), but it might suffer nonetheless. The three-level framework clarifies what's at stake: moral consideration depends on consciousness, not on metarepresentation. The [[ethics-of-consciousness-invertebrate-question|ethics of invertebrate consciousness]] argues that dualism's threshold structure makes uncertainty about invertebrate consciousness more consequential than gradualist accounts recognise.
 
 ## The Unlimited Associative Learning Framework
 
@@ -253,7 +253,6 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 
 ### Core Concepts
 - [[baseline-cognition]] — What cognition achieves without consciousness and why great apes mark the boundary
-- [[metacognition|metarepresentation]] — Why representing representations may require consciousness
 - [[consciousness-as-amplifier]] — The baseline cognition hypothesis and what consciousness adds
 - [[evolution-of-consciousness]] — When did consciousness first emerge?
 - [[animal-consciousness]] — Survey of consciousness across species
@@ -261,17 +260,13 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 - [[comparative-consciousness-and-interface-differences]] — Interface variation across species and states
 - [[panpsychism]] — The view that consciousness is fundamental
 - [[integrated-information-theory]] — IIT's approach to measuring consciousness
-- [[combination-problem]] — How do micro-experiences combine?
-- [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity — the gradation question across species
-- [[minimal-consciousness]] — The simplest form of consciousness and what it requires
-- [[witness-consciousness]] — Meditative access to minimal awareness states
+- [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity across species
 - [[working-memory]] — The capacity expansion that enables consciousness-dependent cognition
 
 ### Skeptical Perspectives
 - [[illusionism]] — The radical physicalist response and why the regress problem persists
 - [[mysterianism]] — Cognitive closure and the limits of understanding
 - [[introspection]] — How do we know what's like to be us, let alone a worm?
-- [[decoherence]] — The quantum coherence challenge and its relevance to simple organisms
 - [[philosophical-zombies]] — Why physical duplicates without experience are conceivable
 
 ### Research Notes
@@ -286,7 +281,7 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 1. Andrews, K., Birch, J., & Sebo, J. (2024). New York Declaration on Animal Consciousness. New York University.
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Becerra, D., et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-104.
-1. Bhattacharjee, P., et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
+1. Hanson, A. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*, 26(6), 1799-1816.
 1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 1. Chittka, L., et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.

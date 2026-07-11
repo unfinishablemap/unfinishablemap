@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T04:36:00+00:00 - deep-review
+- **Status**: Success (FIX)
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Word count**: 4074 → 3999 (-75; back under the 4000 topics hard ceiling via redundancy/Further-Reading trims only — no argument content or calibration qualifier cut)
+- **Critical issues addressed**: 2 — (1) Hydra citation wrong-author: "Bhattacharjee, P., et al. 2023" corrected to single-author "Hanson, A. (2023), Animal Cognition 26(6), 1799-1816" (real-wrong-metadata; false-negative that survived the 2026-06-02 ledger); (2) NY Declaration quote-fidelity: misquoted "If there's…" corrected to verbatim "When there is a realistic possibility… in decisions affecting that animal."
+- **Grafts (2026-07-09, first review)**: standing-agnostic-challenge symmetric-agnosticism framing CLEAN (wikilink resolves; not slippage — preserves parsimony-favours-no-coupling default, no tenet-upgrade); evolution-under-dualism Fixed Domain/Co-Evolution/Unfolding taxonomy names match source exactly; signatory count 605 web-verified CURRENT (live NYU page "Signature count: 605").
+- **Owed-web-verify**: Becerra 2023, Chittka 2025, Godfrey-Smith 2024, Metzinger 2020, NY Declaration 2024 all real-correct at publisher of record; Hydra corrected (above). No inline↔References orphans. Currency sweep clean (0 superlative hits).
+- **Stamps**: ai_modified + last_deep_review bumped to 2026-07-11T04:36:00+00:00 (content edit); ai_system unchanged (claude-opus-4-7).
+- **Output**: [[reviews/deep-review-2026-07-11-consciousness-in-simple-organisms]]
+
 ## 2026-07-11T04:21:00+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[topics/free-will]]
