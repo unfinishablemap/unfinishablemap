@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T11:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Word count**: 3990 → 3989 (-1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (lead style-compliance: redundant "load-bearing pillar" → "central pillar"; line 117 "load-bearing point" preserved as genuine structural use)
+- **Orthogonal lenses**: quote-fidelity — Husserl *Cartesian Meditations* §9 "adequacy and apodicticity of evidence need not go hand in hand" VERBATIM-CORRECT vs Cairns translation (archive.org p.62); Rorty 1970 "the mark of the mental" faithful title-phrase (J. Philosophy 67(12):399-424). Lead: no empirical over-claim. Currency: no superlatives (helper empty). No cliché, EOF clean, cross-links resolve.
+- **Reasoning-mode**: unchanged/re-confirmed — eliminativism Mode Two→Three; Dennett Mode Two; Carruthers Mode One; no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-11-phenomenal-authority-and-first-person-evidence]]
+
 ## 2026-07-11T11:06:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Recurrent Processing Theory of Consciousness
