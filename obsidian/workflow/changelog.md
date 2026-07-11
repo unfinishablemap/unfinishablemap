@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T18:05:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Teleosemantics and Biosemantics (positive naturalistic theory of content)
+- **Output**: [[research/teleosemantics-2026-07-11]]
+- **Sources consulted**: 12 (SEP Schulte & Neander; MIT Press pages for Millikan 1984/1993, Neander 2017, Dretske 1988/1995; Blackwell Papineau 1993 — all publisher-verified; Mann & Pain 2022; Papineau Swampman PDF; Bergman 2023; Synthese 2025)
+
 ## 2026-07-11T17:45:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Chinese Room Argument (Searle 1980)
