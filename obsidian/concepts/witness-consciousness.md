@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-23T00:52:50+00:00
+ai_modified: 2026-07-11T13:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -210,6 +210,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [[attention-as-interface]] — How consciousness selects through attention
 - [[mental-effort]] — The phenomenology of effortful selection
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: first-person experiments probing witness consciousness and choice
+- [[self-model-theory-of-subjectivity]] — Metzinger's naturalist no-self rival: the witness read as a still-representational model of tonic alertness
 - [[illusionism]] — The eliminativist challenge
 - [[haecceity]] — Why *this* witness cannot be replicated
 - [[meditation-observer-witness-phenomenon-2026-01-18]] — Research notes

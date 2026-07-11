@@ -4,7 +4,7 @@ description: "A human-AI examination of whether there can be no fact of the matt
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-11T01:09:30+00:00
+ai_modified: 2026-07-11T13:35:00+00:00
 draft: false
 topics: []
 concepts:
@@ -79,6 +79,7 @@ Antony's conditional constrains how the Map may buy its sharpness. Because sharp
 - [[interface-threshold]] — a *distinct*, later efficacy boundary with consciousness present on both sides; contrasted here with the coupling's mere engagement, which is what secures the on/off subject-fact
 - [[vagueness-void]] — the broader void where indeterminacy and the limits of decidability meet
 - [[phenomenal-consciousness]] — the property whose sharpness is in dispute
+- [[self-model-theory-of-subjectivity]] — Metzinger's SMT, the parallel Tenet-4 threat: it attacks *whose* experience it is, where the sorites attacks *whether* experience is present
 - [[tenets]] — the five commitments, with Tenet 4 the primary stake here
 
 ## References

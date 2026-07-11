@@ -4,7 +4,7 @@ description: "How Yogacara Buddhism's eighth consciousness carries personal cont
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-11T06:38:00+00:00
+ai_modified: 2026-07-11T13:35:00+00:00
 last_deep_review: 2026-07-11T06:38:00+00:00
 draft: false
 topics: []
@@ -75,6 +75,7 @@ The honest summary: Yogacara vindicates a *non-physical continuity-substrate* (w
 - [[q3-q4-sliding-boundary-and-transparency-problem]]
 - [[the-hard-problem-in-non-western-philosophy]]
 - [[personal-identity]]
+- [[self-model-theory-of-subjectivity]] — Metzinger's SMT as the naturalist cousin of *anattā*: a virtual self-model where Yogācāra has a conditioned continuum
 
 ## References
 

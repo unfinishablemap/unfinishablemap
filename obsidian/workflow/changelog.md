@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T13:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Self-Model Theory of Subjectivity (Metzinger's SMT / phenomenal self-model / no-self)
+- **Output**: [[concepts/self-model-theory-of-subjectivity]]
+- **Word count**: 1437 (ok — 57% of concepts 2500 soft)
+- **Based on research**: yes — [[research/self-model-theory-of-subjectivity-2026-07-11]]
+- **Citations**: Metzinger *Being No One* (2003, MIT), *The Ego Tunnel* (2009, Basic Books), Blanke & Metzinger 2009 (*TiCS* 13:7-13), Metzinger 2004 précis, 2020 MPE — all publisher-verified in the research note
+- **Cross-links**: reciprocal inbound links added from [[concepts/witness-consciousness]], [[concepts/self-and-self-consciousness]], [[concepts/phenomenal-sorites-problem]], [[concepts/yogacara-alaya-vijnana-storehouse-consciousness]], [[topics/personal-identity]] (each sibling's own ai_system held)
+
 ## 2026-07-11T13:22:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/biological-naturalism]]

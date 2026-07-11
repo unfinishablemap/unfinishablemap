@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-06T13:23:12.056384+00:00
+ai_modified: 2026-07-11T13:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -201,6 +201,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[many-minds-interpretation]] — Where the quantum-interpretation debate bottoms out in personal identity (Lockwood's Parfitian conclusion)
 - [[haecceity]] — Primitive thisness and why qualitative identity isn't enough
 - [[self-and-self-consciousness]] — The minimal self and Zahavi's pre-reflective givenness over Metzinger's self-model
+- [[self-model-theory-of-subjectivity]] — Metzinger's SMT in full: the transparent self-model and its challenge to indexical identity
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[split-brain-consciousness]] — Empirical evidence on consciousness unity and division
 - [[death-and-consciousness]] — What survival after death would require
