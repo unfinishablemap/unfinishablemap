@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T12:24:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Word count**: ~3570 → ~3570 (length-neutral term-swap)
+- **Critical issues addressed**: 1 (cross-sibling cite-fidelity: Zheng & Meister coinage "sifting ratio" → "sifting number" in 2 places; publisher-verified at Neuron; propagates the sibling consciousness-bandwidth-architecture.md fix)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation ledger**: Zheng & Meister 2025 (Neuron 113(2):192-204) real-correct, coined term corrected to "sifting number (Si)"; Sauerbrei & Pruszynski 2025 (Nat Neurosci 28:1365-1366) real-correct, framing faithful. 10-bit conscious figure current & uncontested for cognitive scope (S&P concede it) — no hedge added.
+- **Engagement (changelog-only)**: production-theorist / GWT — Mode Three, boundary-marking; article declares both readings rest on unestablished premises. Honest.
+- **ai_system**: HELD claude-opus-4-6 (not flipped)
+- **Output**: [[reviews/deep-review-2026-07-11-bandwidth-of-consciousness]]
+
 ## 2026-07-11T12:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/prebiotic-collapse]]
