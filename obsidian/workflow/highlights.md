@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-10T08:03:31.754746'
+ai_modified: '2026-07-11T08:01:49.306525'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-10'
+modified: '2026-07-11'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-11: If There's No Soul, What Carries You Across Death?
+
+Yogacara Buddhism answers with the storehouse consciousness—an eighth layer of mind that banks karmic seeds and ripens them into future lives. A new article reads it as continuity without a permanent self, and a serious rival to the Map's dualism.
+
+**Type**: new-article  
+**Link**: [[yogacara-alaya-vijnana-storehouse-consciousness]]
+
+---
+
 ### 2026-07-10: When a Machine Kills, Who Is to Blame?
 
 When an autonomous machine causes harm no human foresaw, who is culpable? A new article argues the responsibility gap is real on dualist grounds: genuine moral agency needs a conscious interface, so today's AI is a proxy or tool, not a candidate for blame.
@@ -194,15 +203,6 @@ Buddhist depths feel flat; Sufi and bhakti depths feel ecstatic; Christian conte
 
 **Type**: new-article  
 **Link**: [[affective-tone-divergence-across-meditative-traditions]]
-
----
-
-### 2026-06-12: A Theory Built to Kill Dualism—Borrowed to Defend It
-
-Predictive processing was designed by physicists and cognitive scientists to dissolve the mind-body gap. The Map borrows its math anyway: the equations are metaphysically neutral, and they describe exactly the branching brain a selecting consciousness would need.
-
-**Type**: insight  
-**Link**: [[predictive-processing-and-dualism]]
 
 ---
 

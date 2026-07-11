@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-06-25 07:37:13+00:00
+ai_modified: 2026-07-11 05:50:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-10 08:42:19+00:00
 apex_sources:
@@ -50,7 +50,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/5xFYI5HeoP8
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 11:24:20+00:00
+last_deep_review: 2026-07-11 05:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -217,7 +217,7 @@ This apex article synthesizes:
 1. Butlin, P., Long, R., Bayne, T., Bengio, Y., et al. (2025). Identifying indicators of consciousness in AI systems. *Trends in Cognitive Sciences*. DOI 10.1016/j.tics.2025.10.011.
 1. Butlin, P., Bayne, T., Fleming, S. M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2026). Consciousness indicators, mimicry, and internal variants. *Trends in Cognitive Sciences*. (Reply to Pennartz.)
 1. Cerullo, M. (2026). Why Hoel's Disproof of LLM Consciousness and Functionalism Fails. *PhilArchive*.
-1. Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Chalmers, D. & McQueen, K. (2022). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.
 1. Fuchs, T. (2007). The temporal structure of intentionality and its disturbance in schizophrenia. *Psychopathology*, 40(4), 229-235.

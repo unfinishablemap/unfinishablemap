@@ -25,7 +25,7 @@ description: Consciousness varies not only in content but in structural form. Ph
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 14:01:38+00:00
+last_deep_review: 2026-07-11 06:13:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'

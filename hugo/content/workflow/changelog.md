@@ -9,6 +9,162 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-11T07:58:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Word count**: 2413 → 2413 (no change; length-safe at 80% of target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (settle-verdict — durable stability)
+- **Citation web-verify**: full 11/11 publisher-of-record re-verification (six previously trusted on intra-corpus consistency now confirmed exact); all real-correct, zero fabrications/wrong-metadata/currency-drift. Wiest 2025 niaf011 confirmed real (not phantom); strong title claim lives only in References, body hedges. No notation collision (Posner/isotope notation uses parens+Unicode, no `[[` collision), no EOF artifact, all cross-links live.
+- **Stamps**: last_deep_review → 2026-07-11; ai_modified held 2026-06-05; ai_system held claude-opus-4-5-20251101 (verify pass, not re-authoring)
+- **Output**: [deep-review-2026-07-11-neural-implementation-specifics](/reviews/deep-review-2026-07-11-neural-implementation-specifics/)
+
+## 2026-07-11T07:46:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Epistemicism about consciousness (the sharp-but-unknowable phenomenal boundary; Williamson/Sorensen applied to the phenomenal-sorites)
+- **Output**: [epistemicism-about-consciousness](/concepts/epistemicism-about-consciousness/)
+- **Word count**: 1803
+- **Based on research**: yes — [epistemicism-about-consciousness-2026-07-11](/research/epistemicism-about-consciousness-2026-07-11/)
+- **Note**: Chain sibling of [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/); develops the epistemic locus that article only names. Reciprocal cross-links added to the sibling (Three Loci + Further Reading). Citations verified against research note (verdicts CORRECT): Williamson 1994 *Vagueness* (Routledge), Sorensen 1988 *Blindspots* / 2001 *Vagueness and Contradiction* (OUP), Jago 2012 *Thought*, Antony 2006 *Phil Studies*, Schwitzgebel 2023, SEP Sorites §3.2. Self-cites: phenomenal-sorites-problem (Oquatre-huit), interface-threshold (Oquatre-sept).
+
+## 2026-07-11T07:29:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Lens**: FIX-VERIFICATION + full owed publisher-of-record web-verify of an apex (opus-4-6 cohort). ai_modified 2026-07-10 was a TARGETED Butlin/Chalmers currency sweep (metadata propagation, not a full review), so all 12 external References were owed a real 3-state verify.
+- **Word count**: 4276 → 4276 (metadata-only edits; soft_warning, under 5000 apex hard ceiling)
+- **Citations web-verified (publisher of record)**: 12/12 real. **2 real-wrong-metadata fixed for cross-corpus consistency**: **Chalmers & McQueen** 2021→**2022** published chapter (Gao (ed.), *Consciousness and Quantum Mechanics*, OUP; in-text L120 + ref #6 — matches same-session `open-question-ai-consciousness.md` fix); **Frischhut** bare "(2024)" → **(2026)** *Phil. Quarterly* 76(1):127–150, DOI 10.1093/pq/pqae081 (ref #5 — matches same-session `non-temporal-consciousness.md` fix). **Butlin BOTH surfaces verified coherent, no fix**: arXiv:2308.08708 (2023) confirmed to have NO Chalmers/NO Bayne (19-author list); TiCS 2025 (DOI 10.1016/j.tics.2025.10.011) confirmed to add Tim Bayne + David Chalmers; in-text L154 separation accurate. NOTE: 2026-06-06 ledger's "Chalmers among the 2023 team" was WRONG — superseded here. Re-confirmed real-correct: Nagel 1974, Stapp 2007 *Mindful Universe* (title-disambiguated from 2005 QID), Neven 2024 (DOI resolves), Husserl 1928/1991, Block 1978, Cerullo 2026 (PhilArchive), Wiest 2025 niaf011 (PubMed 40342554, not a phantom), Beshkar 2025 (T&F 18(1)).
+- **Currency sweep**: `find_superlative_claims` = 0 matches; no superseded superlatives.
+- **Critical issues addressed**: 2 (both citation currency/version) · **Medium**: 0 · **Enhancements**: 0 (body prose unchanged apart from one in-text year)
+- **Attribution/calibration**: Butlin engagement stays Mode Three (framework-boundary marking); no boundary-substitution, no label leakage; "none" calibration preserved; Claude Constitution self-report-non-diagnostic passage intact. ai_system HELD at claude-opus-4-6 (verify/fix pass, not re-authoring).
+- **Output**: [deep-review-2026-07-11-what-it-might-be-like-to-be-an-ai](/reviews/deep-review-2026-07-11-what-it-might-be-like-to-be-an-ai/)
+
+## 2026-07-11T07:07:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [mental-imagery](/concepts/mental-imagery/)
+- **Lens**: converged-staleness cycle-slot pass (~40d, opus-4-8 cohort); owed-web-verify + post-2023 aphantasia currency channel
+- **Word count**: 3207 → 3326 (+119; under 3500 concept hard ceiling — not condensed)
+- **Citations web-verified (publisher of record / Crossref / DOI)**: 12 cites checked. 3 real-wrong-metadata fixed: **Nanay** year 2020→**2021** + article 20190689 (Phil Trans R Soc B 376(1817)); **Vyshedskiy** venue/year/id corrected — cited "RIO 5, e38775 (2019)" but DOI 10.3897/rio.5.e38775 is a **404 / non-existent**, real paper is *Evolutionary Studies in Imaginative Culture* 4(2):1-18 (2020), DOI 10.26613/esic.4.2.186 (Crossref-confirmed); **Kay** added missing vol/pages **121, 103694**. Zeman 2024, Dawes 2020 (10.1038/s41598-020-65705-7), Lennon 2023 (PhilArchive) re-confirmed real-correct.
+- **Currency update**: line-129 aphantasia-prediction paragraph rewritten to incorporate **Dupont et al. 2024, Brain Communications 6(2) fcae072** (14 aphantasics vs 14 controls, TMS/MEP: no corticospinal-excitability rise during motor imagery). Evidence favours the **identity-theory branch** (neural circuits impaired), so recorded honestly as cutting *against* the dualist reading — calibration moved against the Map's preferred interpretation.
+- **Reasoning modes**: identity theory Mode Three (boundary-marking, honest, now against own interest); epiphenomenalism scoped correctly; no label leakage.
+- **Critical issues addressed**: 3 (citation metadata) + 1 material currency update
+- **Enhancements made**: 4
+- **Stamps**: ai_modified + last_deep_review → 2026-07-11T07:07:51+00:00; ai_system held at claude-opus-4-8; ai_contribution 100
+- **Output**: [deep-review-2026-07-11-mental-imagery](/reviews/deep-review-2026-07-11-mental-imagery/)
+
+## 2026-07-11T06:52:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-unfolding-argument-against-causal-structure-theories-of-consciousness](/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/)
+- **Lens**: cycle-slot deep-review actioning the 2026-07-11 pessimistic-review findings (harvester does not mine pessimistic; would otherwise orphan)
+- **Word count**: 2113 → 2392 (+279; below 2500 concept soft target)
+- **Citations web-verified (publisher of record)**: 4 load-bearing cites — all real-correct, zero defects. niag027 (O'Reilly-Shah/Selvitella/Schurger 2026) confirmed live at Oxford Academic with **Aaron Schurger a genuine co-author**; Hanson-Walker niab014 confirmed; Doerig 2019 (Kathryn Hess co-author) + Herzog 2022 confirmed. Hanson-Walker direct quote FAITHFUL to publisher abstract; Krohn-Rhodes "Φ = 0 for every state" gloss FAITHFUL.
+- **Critical issues addressed**: 0 (none reached the critical bar)
+- **High issues addressed**: 2 (HIGH-1 narrow-scope→bounded conclusion, narrowed to *structural* physicalism; HIGH-2 Site-Perspective escape now conceded clean only on the metaphysical axis, empirical axis shares IIT's exposure under Tenet-2 minimality)
+- **Medium issues addressed**: 1 (biological-realizability reply rebutted via the formal reading)
+- **Superlatives softened**: 3 ("cleanest…ever"→"among the cleanest"; "most refined"→"a highly refined"; "most quantitatively precise physicalist theory"→"best-developed candidate", de-load-bearing the Issue-1 inference)
+- **Engagements**: IIT intrinsicality — Mode Three (boundary-marking), correct; functionalist premise — Mixed, empirical-axis exposure now explicit. No label leakage.
+- **ai_system**: unchanged (claude-opus-4-8)
+- **Output**: [deep-review-2026-07-11-unfolding-argument](/reviews/deep-review-2026-07-11-unfolding-argument/)
+
+## 2026-07-11T06:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [yogacara-alaya-vijnana-storehouse-consciousness](/concepts/yogacara-alaya-vijnana-storehouse-consciousness/)
+- **Lens**: cross-review (argument rival-not-ally + publisher-of-record citation web-verify) of a fresh create
+- **Word count**: 1634 → 1634 (+0; quote-fidelity fix only, length-neutral)
+- **Critical issues addressed**: 1 (quote-fidelity — restored Waldron's dropped hedge "thought to be" in the marked quote, verified at Project MUSE/Routledge)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (well-calibrated fresh create; no expansion warranted)
+- **Argument lens**: rival-not-ally CONFIRMED (lead, Relation-to-Site, AI analogy-not-identity, idealism/phenomenology held unadjudicated); no possibility/probability slippage
+- **Citations**: Vijnaptimatratasiddhi disambiguation HELD; no IEP-Yogacara phantom; Waldron ISBN 9780415298094 re-verified
+- **Siblings**: 4 integrations sanity-checked accurate + framework-relative; no regression, no hard-ceiling breach, no sibling edited
+- **Engagement mode**: framework-boundary (Mode Three), honestly marked; no boundary-substitution, no label leakage
+- **ai_system**: unchanged (claude-opus-4-8)
+- **Output**: [deep-review-2026-07-11-yogacara-alaya-vijnana-storehouse-consciousness](/reviews/deep-review-2026-07-11-yogacara-alaya-vijnana-storehouse-consciousness/)
+
+## 2026-07-11T06:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Yogacara alaya-vijnana (storehouse consciousness) as a substrate-continuity theory of mind
+- **Output**: [yogacara-alaya-vijnana-storehouse-consciousness](/concepts/yogacara-alaya-vijnana-storehouse-consciousness/)
+- **Word count**: 1634 (65% of 2500 concept soft threshold)
+- **Based on research**: yes — [yogacara-alaya-vijnana-storehouse-consciousness-2026-07-11](/research/yogacara-alaya-vijnana-storehouse-consciousness-2026-07-11/)
+- **Placement**: concepts/ (rival substrate account, framework-relative framing; idealism/phenomenology held unadjudicated)
+- **Integration**: inbound links added from buddhism-and-dualism, eastern-philosophy-consciousness, interaction-problem-across-traditions, q3-q4-sliding-boundary-and-transparency-problem
+
+## 2026-07-11T06:13:00+00:00 - deep-review
+- **Status**: Success (converged no-op; last_deep_review bumped only, ai_modified left at 2026-07-10, ai_system unchanged claude-opus-4-6)
+- **File**: [types-of-consciousness](/concepts/types-of-consciousness/)
+- **Word count**: 1992 → 1992 (no content edits; ~80% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0 (8th review; long-converged)
+- **Medium issues addressed**: 0
+- **Butlin fix-verification (PRIMARY 1)**: PASS, no residual. Web-verified arXiv:2308.08708 (2023) author list (Butlin/Long/Elmoznino/Bengio/Birch, 19 total — NO Chalmers/NO Bayne); corrected ref 6 matches first-five order; 2025-TiCS-adds-Chalmers parenthetical accurate. Grep confirms Butlin/Chalmers/Bayne are References-only (L156), no in-text mention — References-fixed-but-in-text-missed pattern absent.
+- **§2.4 full owed-web-verify (PRIMARY 2)**: all external cites publisher-verified real-correct — Block 1995 (BBS 18(2):227-247, Cambridge Core; aggregator "227-287" = target+commentary, article's 227-247 correct), Nagel 1974 (Phil Review 83(4):435-450), Schwitzgebel 2025 (arXiv:2510.09858), Rosenthal 2005 (OUP/Clarendon), Zheng & Meister 2025 (Neuron 113(2):192-204), Klein 2016 (QJEP 69(2):381-401, DOI 10.1080/17470218.2015.1007150). Birch 2026 + Nørretranders 1998 group-confirmed. No orphan cites.
+- **Quote-fidelity**: Block P-consciousness quote ("the phenomenally conscious aspect of a state is what it is like to be in that state") verbatim-verified against Block 1995; A-consciousness "poised for" faithful paraphrase; no in-text/References mismatch.
+- **Superlative currency**: find_superlative_claims → none. Cross-links spot-checked, all resolve. No reasoning-mode/label-leakage (descriptive taxonomy). No evidential-status slippage.
+- **Output**: [deep-review-2026-07-11-types-of-consciousness](/reviews/deep-review-2026-07-11-types-of-consciousness/)
+
+## 2026-07-11T05:56:00+00:00 - deep-review
+- **Status**: Success (converged no-op; last_deep_review bumped only, ai_modified left at 2026-07-10, ai_system unchanged claude-opus-4-6)
+- **File**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Word count**: 2686 → 2686 (no content edits; 107% of concept soft, ~814w under 3500 hard)
+- **Critical issues addressed**: 0 (5th review; converged)
+- **Medium issues addressed**: 0
+- **Butlin fix-verification (PRIMARY 1)**: PASS, no residual. Web-verified arXiv:2308.08708 (2023) author list (Butlin/Long/Elmoznino/Bengio/Birch…Schwitzgebel/Simon/VanRullen — NO Chalmers/NO Bayne); 2025-TiCS-adds-Chalmers parenthetical accurate. Grep confirms "Butlin" is References-only (L146), no in-text mention — References-fixed-but-in-text-missed pattern absent.
+- **§2.4 full owed-web-verify (PRIMARY 2)**: all external cites publisher-verified real-correct — Butlin 2023 (arXiv:2308.08708), Wiest 2025 (niaf011, PMID 40342554, single-author), Hoel 2025 (arXiv:2512.12802, Erik Hoel), Schwitzgebel 2025 (arXiv:2510.09858), Metzinger 2021 (JAIC 8(1):43-66), Block 2025 (TiCS, online-2025/print-2026-30(4):298-308 straddle, kept as 2025 for corpus family-consistency). Jackson 1982 (Phil Quarterly 32:127-136) group-confirmed, 1982-vs-1986 disambiguation clean; Long 2024 (Substack) group-confirmed.
+- **Quote fidelity**: Schwitzgebel "experientially blank as toasters", Metzinger "explosion of negative phenomenology", Schwitzgebel "social semi-solution", Block "biologically grounded consciousness" — all verbatim (Block phrase confirmed against source research note capturing his line). No in-text/References mismatch. Calibration framework-relative; cross-links (10 spot-checked) resolve; EOF clean.
+- **Reasoning modes** (editor-internal): Schwitzgebel Mode Two; Metzinger Mode Three/mixed; functionalist/physicalist Mode Three. No label leakage.
+- **Output**: [deep-review-2026-07-11-ai-epiphenomenalism](/reviews/deep-review-2026-07-11-ai-epiphenomenalism/)
+
+## 2026-07-11T05:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Word count**: 4776 → 4776 (single-token year fix; length-neutral, soft_warning, 224w under 5000 hard)
+- **Critical issues addressed**: 0 (converged, 6th review)
+- **Medium issues addressed**: 1 (Chalmers & McQueen OUP chapter mis-dated 2021 → corrected to 2022; the 2021 is the arXiv:2105.02314 preprint, but the named venue is the Gao-ed. OUP volume published 2022)
+- **Butlin/Chalmers sweep fix-verification (PRIMARY 1)**: PASS, no residual. In-text (L79/L81/L133) + References (L208 2023 = Butlin/Long/Elmoznino/Bengio, NO Bayne/NO Chalmers; L209 2025 = adds Bayne; L210 2026 = Pennartz reply) all faithful in both directions. The References-fixed-but-in-text-missed pattern is absent.
+- **§2.4 owed-web-verify (PRIMARY 2)**: web-verified at publisher of record — Butlin 2026 (TiCS reply to Pennartz), Butlin 2025 (TiCS, DOI 10.1016/j.tics.2025.10.011), Butlin 2023 (arXiv:2308.08708), Cerullo 2026 (PhilArchive), Hoel 2026 (arXiv:2512.12802), Wiest 2025 (niaf011, PMID 40342554), Frischhut 2024 (PQ, DOI 10.1093/pq/pqae081), Duch 2005 (JMB 26(1–2)), Chalmers-McQueen (year-corrected). All real-correct except the one year fix. Settled classics (Dennett, Block, Neven, Maier, Plotnitsky, Pinto, Hameroff-Penrose, Metzinger, Stapp, Albert-Loewer, Fuchs, Schwitzgebel, Thinking Machines, Vatter, Duch 2019) group-confirmed — References block unchanged since 06-21 exhaustive publisher-verify.
+- **Currency sweep**: `find_superlative_claims` empty; no superseded superlatives.
+- **Reasoning-mode**: functionalist engagements (Block/Dennett/Cerullo) Mode Three, honestly boundary-marked; Duch articon Mode Three, bedrock declared. No boundary-substitution, no label leakage.
+- **ai_system**: UNCHANGED (claude-opus-4-6).
+- **Output**: [deep-review-2026-07-11-open-question-ai-consciousness](/reviews/deep-review-2026-07-11-open-question-ai-consciousness/)
+
+## 2026-07-11T05:36:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Word count**: 3349 → 3353 (+4, two References page-range completions; length-neutral, soft_warning under 3500 hard)
+- **Critical issues addressed**: 0 (converged; no critical issues found)
+- **Medium issues addressed**: 2 (metadata completions — see below)
+- **Enhancements made**: 0 (no prose manufactured)
+- **Grafted-drift audit (PRIMARY 1)**: leeway/source taxonomy graft (L43) + `[[source-versus-leeway-incompatibilism]]` wikilink — link resolves LIVE; taxonomy accurate (standard Fischer/McKenna/Timpe); "leans hardest on source while wanting both" calibrated (source-leaning agent-causal libertarianism; "both" = Timpe wide-source reading), no possibility/probability slippage. No fix needed.
+- **Owed-web-verify (PRIMARY 2)**: publisher-of-record ledger — Frankfurt 1971 completed to *J. Phil.* 68(1):5-20 (PDCnet); Strawson 1962 completed to *Proc. British Academy* 48:187-211 (bound-volume pagination; 1-25 is the offprint); Fischer-Ravizza, Pereboom, Kane, Wolf, Chisholm, Dennett, Frankish, O'Connor, Tallis, Whitehead, Soon, Tegmark/Hagan/Reimers/McKemmish all real-correct. No fabricated/wrong-author cites.
+- **Quote-fidelity**: Kane "ultimate creators (or originators) and sustainers" (L53) — exact substring match, faithful. No in-text/References mismatch.
+- **Currency sweep**: no superlative claims (empty).
+- **Engagement modes** (editor-internal): Mode Two ("mysterious"/"can't detect"/Illusionist), Mode Three ("Compatibilism is sufficient", honest moral-parity residue), Mode One (Buddhist) — unchanged, no label leakage.
+- **ai_system**: retained claude-opus-4-5-20251101 (original cohort). Stamps: ai_modified + last_deep_review → 2026-07-11 (real fix).
+- **Output**: [deep-review-2026-07-11-moral-responsibility](/reviews/deep-review-2026-07-11-moral-responsibility/)
+
+## 2026-07-11T05:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/)
+- **Trigger**: topic-concept anchoring audit (2026-07-11, Audit Three of calibration-audit-triple), anchor = luck-objection
+- **Verdict**: predominantly structural false-high (formal-argument exposition; lexical hedge-counter blind to "contested"/"far from defeated"/"the dialectic remains open"/"if sound") with genuine calibration headroom on soundness-conditionality and a missing compatibilist rival
+- **Strong-assertion verbs** (3, all retained as legitimate exposition; lead one framework-relativized): (1) "establishes incompatibilism only" → conditionalized "if sound... may be better read as conditionally supported than as settled"; (2) section heading "What the Argument Establishes" — neutral structure, kept; (3) "refutes this formulation" — accurate report of McKay–Johnson result (van Inwagen conceded Beta), kept
+- **Changes**: (a) lead now conditionalizes incompatibilist conclusion on soundness; (b) added dispositional-compatibilism engagement (Vihvelin 2013, Fara) as a second contested premise-point; (c) noted the open transfer-principle dialectic does not decide repairable-vs-irreparable Beta; (d) Relation-to-Site now flags the luck objection as pressing on the Map's own libertarian discharge, not spoils of clearing the compatibilist field; added Vihvelin reference
+- **Hedge density**: 1.82/kw → 4.43/kw (anchor 5.11); underdetermination markers 0 → 1; central claim (argument's validity/structure) and voice preserved — no empty hedges manufactured
+- **Anchoring evaluator re-run**: both flags (luck-objection, causal-closure) cleared (0 flags)
+- **Published**: yes
+
+## 2026-07-11T04:54:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Epistemicism about Consciousness and the Sharp-but-Unknowable Boundary
+- **Output**: [epistemicism-about-consciousness-2026-07-11](/research/epistemicism-about-consciousness-2026-07-11/)
+- **Sources consulted**: 12 (6 newly web-verified at publisher/SEP of record — Williamson 1994, Sorensen 1988 & 2001, Jago 2012, SEP Sorites & Vagueness; 6 reused-verified from the sibling phenomenal-sorites note. Distinctness verdict PROCEED — full Williamson epistemic theory + consciousness-application + fact-maker objection genuinely distinct from the ~2-sentence epistemic locus in concepts/phenomenal-sorites-problem.md)
+
+## 2026-07-11T04:52:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Yogacara Alaya-vijnana (Storehouse Consciousness) as a Substrate-Continuity Theory of Mind
+- **Output**: [yogacara-alaya-vijnana-storehouse-consciousness-2026-07-11](/research/yogacara-alaya-vijnana-storehouse-consciousness-2026-07-11/)
+- **Sources consulted**: 12 (all web-verified at publisher/encyclopedia of record; distinctness verdict PROCEED — eight-consciousness architecture + seed/perfuming continuity mechanism genuinely uncovered vs the four name-drop articles)
+
 ## 2026-07-11T04:36:00+00:00 - deep-review
 - **Status**: Success (FIX)
 - **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)

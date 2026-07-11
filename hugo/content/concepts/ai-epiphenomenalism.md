@@ -25,7 +25,7 @@ description: AI consciousness, if present, would be causally inert—not because
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 21:04:05+00:00
+last_deep_review: 2026-07-11 05:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

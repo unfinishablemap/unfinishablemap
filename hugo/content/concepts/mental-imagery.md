@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-06-01 09:30:00+00:00
+ai_modified: 2026-07-11 07:07:51+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Voluntary imagery, aphantasia, and motor rehearsal evidence test wh
   consciousness does causal work—or only rides along as neural activity unfolds.
 draft: false
 human_modified: null
-last_deep_review: 2026-06-01 09:30:00+00:00
+last_deep_review: 2026-07-11 07:07:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ Research using internal vs. external perspective imagery finds that adopting a f
 
 ### The Aphantasia Prediction
 
-The dualist and identity-theory accounts generate different predictions about aphantasia. If phenomenal vividness is identical to the neural property doing the causal work, then individuals with intact LPFC function but reduced phenomenal imagery should show reduced benefits *only if* their neural imagery circuits are correspondingly impaired. If phenomenal vividness is a distinct causal property, then reduced phenomenal imagery should predict reduced benefits even when the neural circuits are intact. This is a testable divergence. Preliminary self-reports from aphantasics suggest weaker benefits from mental rehearsal,[^dawes] but this has not been confirmed with controlled studies measuring both neural activation and performance outcomes in the same subjects. Until such studies exist, this remains a prediction — one that could provide strong evidence for the dualist position if confirmed, but that currently cannot bear argumentative weight.
+The dualist and identity-theory accounts generate different predictions about aphantasia. If phenomenal vividness is identical to the neural property doing the causal work, then individuals with intact LPFC function but reduced phenomenal imagery should show reduced benefits *only if* their neural imagery circuits are correspondingly impaired. If phenomenal vividness is a distinct causal property, then reduced phenomenal imagery should predict reduced benefits even when the neural circuits are intact. This is a testable divergence. Preliminary self-reports from aphantasics suggested weaker benefits from mental rehearsal,[^dawes] and a controlled study has since sharpened the picture: aphantasics show no rise in corticospinal excitability during motor imagery, the neurophysiological signature reliably present in controls.[^dupont] That result bears on the divergence in a way that currently favours the identity-theory branch rather than the dualist one — it indicates the neural simulation circuits are themselves impaired in aphantasia, which is precisely the condition under which identity theory expects reduced benefit. Isolating a distinct phenomenal contribution would require the harder result — reduced rehearsal benefit despite *intact* neural circuits — and no study has yet paired longitudinal performance outcomes with neural activation in the same aphantasic subjects. The prediction therefore still cannot bear argumentative weight for the dualist position; if anything, the newest evidence points the other way, which is exactly the evidential restraint the Map's calibration demands.
 
 ### Self-Stultification
 
@@ -195,11 +195,11 @@ The attention-imagery interface connects to the Map's broader framework. Attenti
 
 ## References
 
-[^nanay]: Nanay, B. (2020). Unconscious mental imagery. *Philosophical Transactions of the Royal Society B*, 376(1817).
+[^nanay]: Nanay, B. (2021). Unconscious mental imagery. *Philosophical Transactions of the Royal Society B*, 376(1817), 20190689.
 
 [^zeman]: Zeman, A. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*, 28(5), 467-480.
 
-[^vyshedskiy]: Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory. *Research Ideas and Outcomes*, 5, e38775.
+[^vyshedskiy]: Vyshedskiy, A. (2020). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory. *Evolutionary Studies in Imaginative Culture*, 4(2), 1-18.
 
 [^jeannerod]: Jeannerod, M. (2001). Neural simulation of action: A unifying mechanism for motor cognition. *NeuroImage*, 14(1), S103-S109.
 
@@ -215,4 +215,6 @@ The attention-imagery interface connects to the Map's broader framework. Attenti
 
 [^dawes]: Dawes, A.J. et al. (2020). A cognitive profile of multi-sensory imagery, memory and dreaming in aphantasia. *Scientific Reports*, 10, 10022.
 
-[^kay]: Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*.
+[^kay]: Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*, 121, 103694.
+
+[^dupont]: Dupont, W., Papaxanthis, C., Madden-Lombardi, C., & Lebon, F. (2024). Explicit and implicit motor simulations are impaired in individuals with aphantasia. *Brain Communications*, 6(2), fcae072.
