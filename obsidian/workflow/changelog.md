@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T21:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/chinese-room-argument]]
+- **Word count**: 2364 → 2361 (-3; de-quote fix, below 2500 concepts soft target)
+- **Critical issues addressed**: 1 (quote-fidelity: de-quoted paraphrase-as-quote "I obviously do not understand" attributed to Searle — not in verbatim set, not verbatim in Searle 1980; converted to Map-voice)
+- **Quote-fidelity ledger**: 5 direct Searle quotes verbatim-matched to research-note verified set; 1 (L87) failed → fixed
+- **Citations**: 6 sources 3-state publisher-verified; all real-correct. Luminous Room attribution CONFIRMED = Churchlands (ADS 1990SciAm.262a..32C), not Searle. Searle 1990 start-page 26 confirmed (ADS ..26S)
+- **Complement-boundary**: clean — negative argument + reply taxonomy owned here; positive theory → biological-naturalism, grounding/LLM framing → symbol-grounding-problem
+- **Medium/Enhancements**: 0 (fresh create well-formed; framework-relative lead passes)
+- **Stamps**: ai_modified + last_deep_review both 2026-07-11T21:45:00+00:00; ai_system held claude-opus-4-8
+- **Output**: [[reviews/deep-review-2026-07-11-chinese-room-argument]]
+
 ## 2026-07-11T21:10:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Chinese Room Argument (Searle 1980; syntax≠semantics anti-Strong-AI argument + reply taxonomy)
