@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-07-11T09:56:00+00:00
+ai_modified: 2026-07-11T12:07:00+00:00
 draft: false
 last_deep_review: 2026-07-11T09:56:00+00:00
 topics:
@@ -171,6 +171,7 @@ The hard problem remains hard.
 
 ## Further Reading
 
+- [[first-order-representationalism]] — The contrasting representationalist camp: phenomenal character is first-order world-directed content, needing no higher-order state
 - [[metacognition]] — The metarepresentational distinction HOT may conflate
 - [[hard-problem-of-consciousness]] — The puzzle HOT doesn't solve
 - [[global-workspace-theory]] — A complementary functionalist theory

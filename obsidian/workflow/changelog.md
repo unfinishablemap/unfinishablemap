@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T12:12:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: First-order representationalism about consciousness (Tye/Dretske)
+- **Output**: [[concepts/first-order-representationalism]]
+- **Word count**: 1715
+- **Based on research**: yes, [[first-order-representationalism-about-consciousness-2026-07-11]]
+- **Cross-links added**: reciprocal inbound links from intentionality, higher-order-theories, qualia, explanatory-gap, inverted-qualia
+
 ## 2026-07-11T11:45:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: Core tenet-supporting arguments (tenets, prebiotic-collapse, born-rule-and-the-consciousness-interface, argument-from-reason, many-worlds-argument, post-decoherence-selection-programme apex)

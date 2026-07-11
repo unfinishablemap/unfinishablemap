@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-06-04T12:00:00+00:00
+ai_modified: 2026-07-11T12:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -252,6 +252,7 @@ Intentionality connects to all five foundational tenets:
 - [[binding-problem]] — The binding dimension of understanding
 - [[illusionism]] — The radical denial that intentionality and consciousness are real
 - [[eliminative-materialism]] — The two-channel challenge (classical eliminativism about propositional attitudes; illusionism about phenomenal consciousness) that PIT must answer
+- [[first-order-representationalism]] — The reductive rival that inverts PIT: consciousness reduces to first-order aboutness, rather than aboutness deriving from consciousness
 - [[symbol-grounding-problem]] — How symbols acquire intrinsic meaning (the computational framing)
 - [[meaning-void]] — Why the mechanism of reference and the felt character of comprehension are both structurally hidden
 - [[consciousness-and-collective-phenomena]] — How shared goals and institutional facts require phenomenal consciousness

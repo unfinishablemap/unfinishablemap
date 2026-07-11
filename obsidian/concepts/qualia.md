@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-06-24T11:36:55+00:00
+ai_modified: 2026-07-11T12:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -219,6 +219,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 **Physicalist responses:**
 - [[concepts/functionalism]] - Mental states as functional roles
 - [[phenomenal-concepts-strategy]] - Locating the gap in concepts
+- [[first-order-representationalism]] - The Tye/Dretske thesis that identifies qualia with first-order representational content, denying intrinsic non-representational feel
 - [[illusionism]] - The radical denial of phenomenal properties
 
 **Extensions:**

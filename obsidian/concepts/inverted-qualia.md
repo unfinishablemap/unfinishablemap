@@ -4,7 +4,7 @@ description: "What if your red looks like my green? Functionally identical being
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-06-06T15:47:35+00:00
+ai_modified: 2026-07-11T12:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -172,6 +172,7 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - [[problem-of-other-minds]] — The epistemic implications of qualia's privacy
 - [[dualist-perception]] — Perceptual qualia as the paradigm case for understanding consciousness
 - [[explanatory-gap]] — Why structural descriptions leave phenomenal character unexplained
+- [[first-order-representationalism]] — The Tye/Dretske view the inverted-spectrum and Inverted Earth cases are marshalled against
 - [[illusionism]] — The radical denial of phenomenal properties
 - [[concepts/epiphenomenalism]] — The view that qualia are causally inert
 - [[phenomenal-concepts-strategy]] — The sophisticated physicalist response
