@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T19:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Organizational Invariance and the Fading/Dancing Qualia Arguments (Chalmers)
+- **Output**: [[research/organizational-invariance-fading-dancing-qualia-2026-07-11]]
+- **Sources consulted**: 9 (Chalmers 1995 primary verified at consc.net + PhilPapers; Conscious Mind ch.7 précis; van Heuveln/Dietrich/Oshima 1998 Minds & Machines DOI-verified; Schwitzgebel; Mogensen GPI; Activitas Nervosa Superior 2019; Greenberg & Aides PhilPapers; EA-Forum biology critique). Distinctness from the-unfolding-argument grep-confirmed.
+
 ## 2026-07-11T18:05:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Teleosemantics and Biosemantics (positive naturalistic theory of content)
