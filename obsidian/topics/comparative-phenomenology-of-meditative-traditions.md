@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-06-23T02:30:00+00:00
+ai_modified: 2026-07-11T10:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-07
 last_curated:
-last_deep_review: 2026-06-23T02:30:00+00:00
+last_deep_review: 2026-07-11T10:37:00+00:00
 ---
 
 Meditators across radically different traditions report strikingly similar experiences. Buddhist monks in Thailand, Hindu yogis in Rishikesh, Christian contemplatives in Carmelite monasteries, and Sufi practitioners in Istanbul all describe states involving the dissolution of ordinary selfhood, the appearance of awareness without content, and the felt distinction between consciousness and its objects. These traditions disagree profoundly on what these experiences *mean*—whether they reveal Brahman, emptiness, God, or the divine Beloved—yet the phenomenological descriptions converge. The Unfinishable Map argues this convergence is evidence that meditation discovers structural features of consciousness rather than constructing tradition-specific artefacts.
@@ -48,11 +48,11 @@ This matters for consciousness studies because the convergence cannot be easily 
 
 Across traditions, advanced practitioners report that the sense of being a continuous, narrating "I" dissolves under sustained practice.
 
-**Buddhist vipassana** watches thoughts, sensations, and intentions arise and pass until no stable observer is found behind these events. Theravada calls this *anatta*—not-self. The phenomenological report: "Thoughts continue, but no one is thinking them."
+**Buddhist vipassana** watches thoughts, sensations, and intentions arise and pass until no stable observer is found behind these events. Theravada calls this *anatta*—not-self. Phenomenologically, thoughts continue while no one is found to be thinking them.
 
 **Advaita Vedanta** reaches a structurally similar experience by a different path. Self-inquiry (*atma vichara*) repeats "Who am I?" until what remains is pure awareness without attributes. Advaita interprets what remains as the true Self (*Atman*), not as absence.
 
-**Christian contemplative prayer**, in the Carmelite tradition of Teresa of Avila and John of the Cross, describes states where self-will surrenders entirely. Teresa describes the soul becoming "so forgetful of self that it really seems as though it no longer existed."
+**Christian contemplative prayer**, in the Carmelite tradition of Teresa of Avila and John of the Cross, describes states where self-will surrenders entirely. Teresa describes the soul reaching a self-forgetfulness so complete that it seems no longer to exist.
 
 **Sufi dhikr** (remembrance of God) produces *fana*—annihilation of the ego-self in divine presence, with individual identity dissolving into awareness of the Beloved.
 
@@ -78,7 +78,7 @@ A third convergence zone involves states where the ordinary distinction between 
 
 **Advaita's non-dual awareness** (*advaita* means "not-two") describes experience where the separation between subject and object collapses. Awareness no longer observes something; it simply is, without division into knower and known.
 
-**Zen's kensho/satori** points to the same structure: a sudden recognition where the distinction between the one who sees and what is seen vanishes. Dogen's "dropping body and mind" describes experience freed from the subject-object framework.
+**Zen's kensho/satori** points to the same structure: a sudden recognition where the distinction between the one who sees and what is seen vanishes. Dogen's "dropping off body and mind" describes experience freed from the subject-object framework.
 
 **Christian unitive experience**, as described by Meister Eckhart, involves the soul becoming "one with God"—a dissolution of the separation, not a relation between two entities. Eckhart writes of the "ground of the soul" where God and soul are indistinguishable.
 

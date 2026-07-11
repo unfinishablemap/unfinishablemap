@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T10:37:00+00:00 - deep-review (quote-fidelity lens: translated primary-source quotes)
+- **Status**: Success
+- **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
+- **Word count**: ~3234 (net near-neutral; three quote fixes)
+- **Critical issues addressed**: 3 (quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged prose; value was the owed verbatim quote-verify)
+- **Quotes web-verified (source of record)**: L51 "Thoughts continue, but no one is thinking them." — Map-composition-in-quote-marks, no named source → DE-QUOTED. L55 Teresa of Ávila — stitched paraphrase corrected to verbatim Peers *Interior Castle* rendering ("a self-forgetfulness which is so complete that it really seems as though the soul no longer existed"). L81 Dōgen "dropping body and mind" → "dropping off body and mind" (standard *shinjin datsuraku* rendering; dropped word restored). Faithful & unchanged: Yoga Sutras 1.2, Cloud of Unknowing "a naked intent", Zhuangzi "fasting of the heart-mind", Eckhart "ground of the soul"/"one with God", four ārūpa-jhāna terms. First verbatim quote-fidelity pass in 8 reviews. ai_system HELD at claude-opus-4-6+claude-opus-4-8.
+- **Output**: [[reviews/deep-review-2026-07-11-comparative-phenomenology-of-meditative-traditions]]
+
 ## 2026-07-11T10:11:00+00:00 - deep-review (owed-web-verify: Melloni/COGITATE cite)
 - **Status**: Success
 - **File**: [[concepts/sleep-and-consciousness]]

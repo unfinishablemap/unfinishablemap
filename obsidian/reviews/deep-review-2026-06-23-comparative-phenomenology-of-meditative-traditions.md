@@ -97,5 +97,3 @@ Long-carried minor items, still deferred (genuinely minor):
 - The cessation-vs-plenitude and witness-status divergences are **Pre-Kepler-stage constraints honestly named**, not flaws to fix. Future reviews should NOT re-flag them.
 - The Buddhist/Madhyamaka resistance to dualist substantialism is a **friendly-rival framework-boundary disagreement**, correctly conceded; do not re-flag.
 - Article is past soft threshold — **future modifications length-neutral**.
-</content>
-</invoke>
