@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T03:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Word count**: 4990 → 4990 (length-neutral; Maier in-text fix is char-shorter)
+- **Critical issues addressed**: 1 (dropped-author attribution)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-11-machine-question]]
+- **Verdict**: FIX. Eighth review; owed-web-verify pass on the 2026-07-08..10 AI-consciousness currency refine. Web-verified the NEW cites at publisher of record: Hoel 2026 (arXiv:2512.12802) real-correct; Cerullo 2026 (PhilArchive rec CERWHD) retrieved, real-correct; Butlin 2023 (arXiv:2308.08708) correctly EXCLUDES Bayne/Chalmers; Butlin 2025 TiCS (DOI 10.1016/j.tics.2025.10.011) INCLUDES Bayne + Chalmers — the L127 "which David Chalmers joined" claim CONFIRMED. Quote "no obvious technical barriers" verified as the report's wording. FIXED: in-text "Maier & Dechamps 2018" dropped third author Pflitsch → corrected to "Maier et al. 2018" (References entry already had all 3; length-safe). No slippage, no label leakage, no cliché. ai_system unchanged (mixed claude-opus-4-7+claude-opus-4-8). 4990w, under 5000 apex ceiling.
+
 ## 2026-07-11T03:38:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/many-worlds]]
