@@ -3,7 +3,7 @@ title: "The Mereology of Mind"
 created: 2026-06-07
 modified: 2026-06-07
 human_modified:
-ai_modified: 2026-06-10T05:54:56+00:00
+ai_modified: 2026-07-11T10:41:58.464389+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -34,7 +34,18 @@ apex_sources:
   - concepts/combination-problem
 apex_last_synthesis: 2026-06-20T17:20:00+00:00
 apex_thesis: "Composition (what makes a whole?) and individuation (what bounds a subject?) are two faces of a single mereological question that consciousness answers in a way physical mereology cannot, with the de-combination problem as the hinge that joins them."
+embedded_videos:
+  - id: WHZ8drihW0c
+    url: https://www.youtube-nocookie.com/embed/WHZ8drihW0c
+    embedded: 2026-07-11T10:41:58.464389+00:00
+    source: notebooklm/0079-01-mereology-of-mind
 ---
+
+<details class="yt-embed" data-video-id="WHZ8drihW0c">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/WHZ8drihW0c">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 # The Mereology of Mind
 
