@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-06-14T16:34:41+00:00
+ai_modified: 2026-07-11T08:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated: null
-last_deep_review: 2026-06-14T16:34:41+00:00
+last_deep_review: 2026-07-11T08:19:00+00:00
 coalesced_from:
   - "/concepts/metacognition/"
   - "/concepts/metarepresentation/"
@@ -137,7 +137,7 @@ Several lines of evidence suggest the transition is a qualitative shift rather t
 
 The comparative record shows no clear intermediate cases among well-studied species: great apes demonstrate procedural metacognition without declarative metarepresentation, and humans demonstrate both. Corvids and cetaceans occasionally invite metarepresentational interpretation, but the evidence remains contested and no species has been shown to occupy an intermediate position. This absence of gradation is striking given the otherwise gradual spectrum of cognitive abilities across species.
 
-Neurological evidence points the same way. The aPFC, particularly Brodmann area 10, is disproportionately enlarged in humans and specifically associated with metacognitive accuracy; damage impairs explicit metacognitive judgements while leaving first-order performance intact (Fleming et al. 2010). The substrate for metarepresentation appears to be an all-or-nothing anatomical feature rather than a gradually scalable capacity.
+Neurological evidence points the same way. The aPFC, particularly Brodmann area 10, is disproportionately enlarged in humans, and its grey-matter structure correlates with metacognitive accuracy independent of first-order performance (Fleming et al. 2010)—a dissociation that the causal frontopolar-stimulation result above (Kapetaniou et al. 2025) confirms at the level of intervention. The substrate for metarepresentation appears to be an all-or-nothing anatomical feature rather than a gradually scalable capacity.
 
 The [[baseline-cognition|baseline cognition hypothesis]] adds structural evidence. If consciousness were removed from human cognition, the remaining capacities would resemble great ape cognition: working memory of roughly 2±1 items, procedural but not declarative metacognition, product- but not process-oriented social learning. The selective pattern of the human-ape gap—dramatic differences on tasks requiring explicit representation, modest differences on perceptual speed and associative learning—matches what a [[consciousness-and-cognitive-distinctiveness|consciousness-driven threshold]] predicts rather than a uniform scaling effect.
 
@@ -226,6 +226,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Demirel, Ç., et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20), e2237242025. https://doi.org/10.1523/JNEUROSCI.2237-24.2025
 1. Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. Sage Publications.
+1. Fleming, S.M., Weil, R.S., Nagy, Z., Dolan, R.J., & Rees, G. (2010). Relating introspective accuracy to individual differences in brain structure. *Science*, 329(5998), 1541-1543. https://doi.org/10.1126/science.1191883
 1. Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 241-268.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Kapetaniou, G.E., Moisa, M., Ruff, C.C., Tobler, P.N., & Soutschek, A. (2025). Frontopolar cortex interacts with dorsolateral prefrontal cortex to causally guide metacognition. *Human Brain Mapping*, 46(2), e70146.

@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T08:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/metacognition]]
+- **Word count**: 3411 → 3449 (+38; under 3500 concepts hard threshold)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: full publisher-of-record pass (owed-web-verify seam). Found Fleming et al. 2010 (Science 329:1541-1543) real but **methodology-misattributed** — cited for a "damage impairs" lesion claim though it is a structural-MRI correlation study of 32 healthy participants (PMC3173849); also **orphaned** (inline cite had no References entry — the bibliography only held the uncited Fleming 2024 synthesis, which the 2026-06-14 ledger had wrongly recorded as the matching entry). Fixed: re-scoped the sentence to the structural claim Fleming 2010 supports, cross-referenced Kapetaniou 2025 (tACS) for the causal leg, added the missing Fleming 2010 References entry. Verified real-correct: Fleming 2024 (Annu Rev Psychol 75:241-268), Kapetaniou 2025 (Hum Brain Mapp 46:e70146), Demirel 2025 (J Neurosci 45(20):e2237242025), Fox 2012 (PLoS ONE 7:e45370). No currency drift (uses reversible tACS result, not contested Rounis 2010 TMS). ai_system held at claude-opus-4-6; no EOF artifact.
+- **Output**: [[reviews/deep-review-2026-07-11-metacognition]]
+
 ## 2026-07-11T07:58:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/neural-implementation-specifics]]
