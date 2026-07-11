@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated:
-last_deep_review: 2026-06-04T15:41:23+00:00
+last_deep_review: 2026-07-11T01:41:00+00:00
 coalesced_from:
   - "/topics/disorders-of-consciousness-as-test-cases/"
   - "/topics/loss-of-consciousness/"
