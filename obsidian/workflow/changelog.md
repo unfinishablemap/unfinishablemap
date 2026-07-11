@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T04:21:00+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[topics/free-will]]
+- **Word count**: 3694 → 3694 (length-neutral; ~306w under the 4000 topics hard ceiling)
+- **Critical issues addressed**: 0 (2026-07-09 drift was a clean cross-review graft: well-calibrated Consequence-Argument sentence + 6 live Further-Reading links; all graft wikilinks incl. positions/agency-and-will P-A1/P-A2 resolve)
+- **Medium issues addressed**: 0 (1 LOW deferred: James line 162 verbatim-vs-paraphrase, view faithfully James's, unchanged per convergence)
+- **Owed-web-verify**: full empirical canon fresh-verified at publisher of record — Libet 1983, Schurger 2012, Desmurget 2009, Sjöberg 2024, Suddendorf-Corballis 2007, Read 2008 all real-correct; Gallagher-Zahavi/Wegner/Schwitzgebel carried from 2026-06-21; inline↔References cross-check PASS, no orphans. Engagement modes (changelog-only): Consequence-Argument graft Mode Three (correct); eliminativist Mixed Mode-Two→Three; compatibilist/MWI Mode Three.
+- **Stamps**: last_deep_review bumped to 2026-07-11T04:20:00+00:00; ai_modified left at 2026-07-09 (no body edit); ai_system unchanged (claude-opus-4-5-20251101).
+- **Output**: [[reviews/deep-review-2026-07-11-free-will]]
+
 ## 2026-07-11T04:04:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/animal-consciousness]]
