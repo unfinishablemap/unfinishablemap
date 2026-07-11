@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-27 22:41:56+00:00
+ai_modified: 2026-07-11 08:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,11 +18,11 @@ concepts:
 created: 2026-01-18
 date: &id001 2026-01-21
 description: 'Two modes of consciousness: active selection through attention and passive
-  witnessing. Neuroscience confirms distinct brain signatures for each mode.'
+  witnessing. Neuroscience associates each mode with distinguishable neural correlates.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 00:00:00+00:00
+last_deep_review: 2026-07-11 08:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [mental effort](/concepts/mental-effort/). In another mode—passive witnessing—consciousness observes without intervening, allowing mental contents to arise and pass without selection. Meditation traditions have discovered and cultivated both modes, and neuroscience confirms they have distinct brain signatures.
+Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [mental effort](/concepts/mental-effort/). In another mode—passive witnessing—consciousness observes without intervening, allowing mental contents to arise and pass without selection. Meditation traditions have discovered and cultivated both modes, and converging neuroscientific evidence associates each with distinguishable neural correlates—though it establishes that meditative states differ neurally from rest and effortful cognition rather than delivering a clean double-dissociation of the two.
 
 This distinction extends The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Consciousness can causally influence the physical world—but it can also refrain from doing so. The capacity for selection includes the capacity to suspend selection.
 
@@ -43,7 +43,7 @@ This distinction extends The Unfinishable Map's [Bidirectional Interaction](/ten
 
 Active selection is the mode emphasized throughout the Map. Consciousness attends to something, and this [attention](/concepts/attention-as-interface/) influences which neural patterns persist. The proposed mechanism is the [quantum Zeno effect](/concepts/quantum-consciousness/): rapid observation would hold quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
 
-Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. This is not metaphor; effort does real work. Jeffrey Schwartz's OCD therapy provides suggestive evidence that directed attention can produce measurable neuroplasticity—though the original study was small (18 participants, 9 new) and has not been independently replicated. Attention is the interface through which consciousness acts on matter.
+Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. Effort does real work here rather than serving as a figure of speech. Jeffrey Schwartz's OCD therapy provides suggestive evidence that directed attention can produce measurable neuroplasticity—though the original study was small (18 participants, 9 new) and has not been independently replicated. Attention is the interface through which consciousness acts on matter.
 
 The neural signature of active selection includes:
 - Frontal theta oscillations (~4-8 Hz)
@@ -102,7 +102,7 @@ A 2020 study tracked alpha-theta dynamics across states:
 | Rest | Medium | Baseline |
 | Meditation | Low | "Mental emptiness," reduced executive processing |
 
-The pattern is clear: effortful cognition shows strong alpha-theta coupling; effortless meditation shows reduced coupling. This maps onto the two modes: selection engages the brain's executive systems; witnessing disengages them.
+Within this study, effortful cognition shows strong alpha-theta coupling while effortless meditation shows reduced coupling—a pattern that maps onto the two modes, with selection engaging the brain's executive systems and witnessing disengaging them.
 
 ## The Advaita Paradox
 
@@ -132,7 +132,7 @@ Early meditation requires constant selection: noticing distraction, redirecting 
 
 Through practice, the brain changes. Neural pathways supporting stable attention strengthen. Default tendencies toward distraction weaken. Eventually, the meditative state requires less continuous intervention. Like a trained pilot who no longer consciously monitors every instrument, the advanced meditator's effortlessness reflects mastery, not passivity.
 
-This explains the paradox: teachers describe meditation as effortless, yet beginners struggle. Initial effort trains the brain; later effortlessness reflects a trained brain requiring less correction. Consciousness has done its work; now it can observe without constantly intervening.
+This explains the paradox: teachers describe meditation as effortless, yet beginners struggle. Consciousness has done its work through initial effort; now it can observe without constantly intervening.
 
 ### Buddhist Phenomenology of the Two Modes
 
@@ -283,7 +283,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 
 ## References
 
-1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50).
+1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
 2. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440.
 3. Rodriguez-Larios, J., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics in experienced meditators during meditation, rest and arithmetic. *Scientific Reports*, 10, 5419.
 4. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

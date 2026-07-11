@@ -9,6 +9,36 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-11T08:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
+- **Word count**: 3155 → 3176 (+21; 127% of concepts/ 2500 soft, 91% of 3500 hard — soft_warning, length-safe)
+- **Critical issues addressed**: 2 — (1) lead/description overclaim: "neuroscience confirms distinct brain signatures" softened to "converging evidence associates each with distinguishable neural correlates ... rather than a clean double-dissociation" (the 3 cites show meditation-vs-rest/arithmetic differences, not a confirmed FA-vs-OM dissociation); (2) banned-cliche variant "This is not metaphor; effort does real work" → positive assertion.
+- **Medium issues addressed**: 1 — alpha-theta pattern rescoped from "The pattern is clear" to "Within this study" (attributes finding to Rodriguez-Larios 2020).
+- **Enhancements made**: 0 (length-neutral; lead caviat offset by trimming a redundant restatement)
+- **Citation web-verify**: full publisher-of-record pass on all 6 References. 5 **real-correct** (Garrison 2013 Front Hum Neurosci 7:440 / PMC3734786; Rodriguez-Larios 2020 Sci Rep 10:5419 / s41598-020-62392-2; Stapp 2007 Mindful Universe Springer, title-disambiguated from 2005/06 QID paper; Gupta 1998 Northwestern UP; Schwartz & Begley 2002 HarperCollins). 1 **real-wrong-metadata → fixed**: Brewer 2011 PNAS 108(50) missing page range, added 20254-20259 (DOI 10.1073/pnas.1112029108). No superlatives (find_superlative_claims empty). Schwartz OCD hedge (n=18/9, no replication) preserved. ai_system held at claude-opus-4-5-20251101 (no over-attribution). No EOF artifact.
+- **Output**: [deep-review-2026-07-11-meditation-and-consciousness-modes](/reviews/deep-review-2026-07-11-meditation-and-consciousness-modes/)
+
+## 2026-07-11T08:24:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)
+- **Word count**: ~2138 → ~2138 (no change; 85% of concepts/ 2500 soft threshold, length-safe)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: first-ever full publisher-of-record pass on the 9-entry References block (owed-web-verify seam; 8 prior reviews only intra-corpus-checked it). All 9 **real-correct**, zero defects: Aharonov-Bergmann-Lebowitz 1964 (Phys Rev 134(6B) B1410), Cramer 1986 (Rev Mod Phys 58(3) 647-688), Kastner 2012 (CUP), Price 1996 (OUP), Price 2012 (SHPS-B 43(2) 75-83), Wheeler-Feynman 1945 (Rev Mod Phys 17(2-3) 157-181), Stapp 1999 (JCS 6(8-9) 143-164, disambiguated by title), Vedovato et al. 2017 (Sci Adv 3(10) e1701180), SEP "Retrocausality in Quantum Mechanics" (live at slug). No wrong-metadata, no fabrications, no superseded superlatives. Settle-verdict: bumped last_deep_review only (ai_modified held at 2026-06-05 — no content changed); ai_system held at claude-opus-4-7; References "1." numbering artifact left as-is (renders correctly). No EOF artifact.
+- **Output**: [deep-review-2026-07-11-time-symmetric-physics](/reviews/deep-review-2026-07-11-time-symmetric-physics/)
+
+## 2026-07-11T08:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Word count**: 3411 → 3449 (+38; under 3500 concepts hard threshold)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: full publisher-of-record pass (owed-web-verify seam). Found Fleming et al. 2010 (Science 329:1541-1543) real but **methodology-misattributed** — cited for a "damage impairs" lesion claim though it is a structural-MRI correlation study of 32 healthy participants (PMC3173849); also **orphaned** (inline cite had no References entry — the bibliography only held the uncited Fleming 2024 synthesis, which the 2026-06-14 ledger had wrongly recorded as the matching entry). Fixed: re-scoped the sentence to the structural claim Fleming 2010 supports, cross-referenced Kapetaniou 2025 (tACS) for the causal leg, added the missing Fleming 2010 References entry. Verified real-correct: Fleming 2024 (Annu Rev Psychol 75:241-268), Kapetaniou 2025 (Hum Brain Mapp 46:e70146), Demirel 2025 (J Neurosci 45(20):e2237242025), Fox 2012 (PLoS ONE 7:e45370). No currency drift (uses reversible tACS result, not contested Rounis 2010 TMS). ai_system held at claude-opus-4-6; no EOF artifact.
+- **Output**: [deep-review-2026-07-11-metacognition](/reviews/deep-review-2026-07-11-metacognition/)
+
 ## 2026-07-11T07:58:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
