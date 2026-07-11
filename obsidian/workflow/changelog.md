@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T04:52:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Yogacara Alaya-vijnana (Storehouse Consciousness) as a Substrate-Continuity Theory of Mind
+- **Output**: [[research/yogacara-alaya-vijnana-storehouse-consciousness-2026-07-11]]
+- **Sources consulted**: 12 (all web-verified at publisher/encyclopedia of record; distinctness verdict PROCEED — eight-consciousness architecture + seed/perfuming continuity mechanism genuinely uncovered vs the four name-drop articles)
+
 ## 2026-07-11T04:36:00+00:00 - deep-review
 - **Status**: Success (FIX)
 - **File**: [[topics/consciousness-in-simple-organisms]]
