@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T02:14:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Lens**: owed publisher-of-record citation web-verify + quote fidelity (opus-4-7, 34d converged since 2026-06-07; the June review DEFERRED the standing cite list to "six prior review ledgers" rather than fresh-verifying — deferred-verification residual, now discharged)
+- **Verdict**: FIX — two real defects corrected
+- **Quote-fidelity fix**: Husserl "absolute subjectivity" passage (line 53) was a paraphrase-in-quotes ("in accordance with that which is constituted… not something that is temporally objective. It is the absolute subjectivity") → corrected to canonical Brough wording ("in conformity with what is constituted, but it is not 'something in objective time.' It is absolute subjectivity"). Verified against altexploit transcription + IEP. Survived 7 prior reviews because cite metadata (Husserl 1991/Brough) was faithful while the quoted string had drifted
+- **Currency fix**: Frischhut advanced from advance-access → version of record; updated 2024→2026, added *Philosophical Quarterly* 76(1):127–150, clean DOI (both References entry + in-body year)
+- **Web-verified (publisher of record, all real-correct)**: Pinto 2017 (Brain 140(5):1231-1237), Lewis 2012 (PNAS 109(49):E3377-E3386, full 11-author list intact), Mashour 2012 (PNAS 109(49):19876-19877), Hoerl 2013 (PPR 86(2):376-411), Bayne 2010 (OUP), Katz 1978 (pp.22-74 OUP), Sharf 1995 (Numen 42(3):228-283), Sharf 2000 (JCS 7(11-12):267-287), Putnam 1967 (J.Phil 64(8):240-247), Maudlin 2007 (OUP), Mellor 1998 (Routledge), Price 1996 (OUP), Barbour 1999 (OUP), Petkov 2009 (2nd ed Springer), Rovelli 1996 (IJTP 35:1637-1678), 2025 layered-unity (Phil Studies)
+- **Quotes verbatim-checked**: Husserl "shocking (when not initially even absurd)" ✓, Katz "no pure (i.e., unmediated) experiences" ✓, Sharf "ritualization of experience… scripts for the performance of an eminently public religious drama" ✓, Pinto title ✓, Frischhut "timeless"/ENI ✓ — only the Husserl absolute-subjectivity quote was defective
+- **Currency sweep**: find_superlative_claims empty; no standing-record claims
+- **Inline vs punt**: verified INLINE (no subagent); ~13 targeted WebSearches + 3 WebFetches
+- **Word count**: 3515 → ~3512 (length-neutral; soft_warning, under 4000 hard)
+- **Output**: [[reviews/deep-review-2026-07-11-non-temporal-consciousness]]
+
 ## 2026-07-11T01:52:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/history-of-the-interaction-problem]]
