@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T09:29:00+00:00 - deep-review (owed-web-verify, fast-moving 10-bit/s cluster)
+- **Status**: Success
+- **File**: [[concepts/consciousness-bandwidth-architecture]]
+- **Word count**: 3495 → ~3497 (+2; length-neutral, 140% of soft, under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (quote-fidelity "sifting ratio"→"sifting number"; bare S&P citation completed to 28(7):1365–1366; lead contrastive-negation rephrased)
+- **Mode**: Full publisher-of-record web-verify (June pass was a cross-link no-op that skipped cites, ~46d drift). PRIORITY-1 verdict: the live 10-bit/s debate is handled ACCURATELY — Sauerbrei & Pruszynski 2025 (Nat Neurosci 28(7):1365–1366) CONCEDE the ~10 bit/s conscious-cognition ceiling and dispute only whole-brain scope (lower vs upper bound); article's framing is faithful, no currency/lead-overclaim defect. Zheng & Meister 2025 (Neuron 113(2):192–204) real-correct incl. "largest unexplained number in brain science" verbatim; but their term is "sifting number" (≈10⁸), NOT "sifting ratio" — quote-fixed. Wu et al. 2016 (Sci Rep 6:34025, ~3–4 bps) re-verified, 05-26 wrong-author fix held. Calibration/named-opponent/currency-superlative all clean. `ai_system` HELD at claude-opus-4-7. Both timestamps bumped (real fixes).
+- **Output**: [[reviews/deep-review-2026-07-11-consciousness-bandwidth-architecture]]
+
 ## 2026-07-11T09:23:00+00:00 - deep-review (orthogonal-lens settle)
 - **Status**: Success
 - **File**: [[topics/cetacean-and-corvid-consciousness]]
