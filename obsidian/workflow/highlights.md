@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Yogacara Buddhism answers with the storehouse consciousness—an eighth layer of mind that banks karmic seeds and ripens them into future lives. A new article reads it as continuity without a permanent self, and a serious rival to the Map's dualism.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2075853910791589962  
 **Link**: [[yogacara-alaya-vijnana-storehouse-consciousness]]
 
 ---
