@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T00:40:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/type-token-causation]]
+- **Word count**: 2916 → 2916 (converged no-op — no content/citation defect)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; 117% of soft, ~584w headroom)
+- **Note**: Owed-web-verify-seam cycle-slot on an opus-4-7 article converged 38d since 2026-06-03. Body git-confirmed settled (only change since June review = one anomalous-monism cross-link + timestamp bump on 2026-07-10). Individually web-verified ALL 10 external cites at publisher of record INLINE (no subagent punt): Davidson 1970, Frankish 2016, Kim 1998, Kim 2005, Loar 1990, Macdonald&Macdonald 1986, Papineau 2002, Peirce 1906, Saad 2025 (DOI re-affirmed), Yablo 1992 — all real-correct. June review had only DOI-verified Saad and "group-confirmed" the 8 canonical cites by heuristic; this pass completes the per-cite ledger. No superlative/currency claims; no calibration slippage (Tenet-3); reasoning modes unchanged; in-quote IIT string matches live sibling; new cross-link resolves+reciprocates; EOF clean. No-op hygiene: bumped last_deep_review ONLY (ai_modified left at 2026-07-10 cross-link touch).
+- **Output**: [[reviews/deep-review-2026-07-11-type-token-causation]]
+
 ## 2026-07-11T00:34:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/attention-and-the-consciousness-interface]]
