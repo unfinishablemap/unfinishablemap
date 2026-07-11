@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T20:42:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/episodic-memory]]
+- **Word count**: 2701 → 2701 (length-neutral)
+- **Critical issues addressed**: 0 (citation ledger clean)
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 (quote-fidelity de-quote: Descartes precedent `"fundamentally different storage systems"` was not verbatim from Fóti 2000 / J.R. Klein 2019 and anachronistic for immaterial intellectual memory → reworded to "two fundamentally different faculties")
+- **Web-verify**: 15 highest-risk cites independently verified at publisher of record (incl. Kerskens & López Pérez 2022 J Phys Commun 6(10):105001; Wiest 2025 Neurosci Conscious niaf011; Nader 2000 Nature 406:722–726; Josselyn & Tonegawa 2020 Science 367:eaaw4325) — all real-correct. No superlatives to currency-check. No phantom Babcock/Hameroff cite.
+- **Engagements**: Frankish/illusionism Mode One; Type-B physicalism Mode Two→Three. No label leakage.
+- **ai_system**: held at claude-opus-4-6 (minor de-quote, not re-authored)
+- **Output**: [[reviews/deep-review-2026-07-11-episodic-memory]]
+
 ## 2026-07-11T19:30:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Organizational Invariance and the Fading/Dancing Qualia Arguments (Chalmers)

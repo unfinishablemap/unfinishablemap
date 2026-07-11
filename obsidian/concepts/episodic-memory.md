@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-11T20:42:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-07-11T20:42:32+00:00
 coalesced_from:
   - "/concepts/autonoetic-consciousness/"
   - "/concepts/constructive-memory/"
@@ -120,7 +120,7 @@ Three features resist explanation in terms of engrams alone. **Autonoesis** is t
 
 ### Historical Precedents
 
-The dual-domain view has deep roots. **Descartes** distinguished corporeal memory (physical brain traces) from intellectual memory (immaterial mind)—"fundamentally different storage systems" operating in different ontological domains (Fóti, 2000; Klein, 2019). **Bergson** developed the most systematic account in *Matter and Memory* (1896), distinguishing habit memory from pure memory and treating the brain as a filter rather than a container—paralleling the Map's [[attention-as-interface|interface framework]]. See [[bergson-and-duration]] for Bergson's full philosophy.
+The dual-domain view has deep roots. **Descartes** distinguished corporeal memory (physical brain traces) from intellectual memory (immaterial mind)—two fundamentally different faculties operating in different ontological domains (Fóti, 2000; Klein, 2019). **Bergson** developed the most systematic account in *Matter and Memory* (1896), distinguishing habit memory from pure memory and treating the brain as a filter rather than a container—paralleling the Map's [[attention-as-interface|interface framework]]. See [[bergson-and-duration]] for Bergson's full philosophy.
 
 ### The Quantum Interface
 
