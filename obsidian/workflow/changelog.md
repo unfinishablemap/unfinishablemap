@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T11:45:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Core tenet-supporting arguments (tenets, prebiotic-collapse, born-rule-and-the-consciousness-interface, argument-from-reason, many-worlds-argument, post-decoherence-selection-programme apex)
+- **Output**: [[reviews/pessimistic-2026-07-11-core-tenet-arguments]]
+- **Findings**: 3 genuine cross-article coherence gaps (High: prebiotic-collapse drops the apex's owned bias-without-deviation dilemma; Medium: many-worlds preferred-basis double standard; Medium: argument-from-reason wields Kim exclusion while its own corridor mechanism faces the same). Corpus core otherwise robust and self-critical. Reports-only; no tasks minted.
+
 ## 2026-07-11T11:28:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Self-Model Theory of Subjectivity (Thomas Metzinger)
