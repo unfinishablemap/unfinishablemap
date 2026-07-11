@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T06:13:00+00:00 - deep-review
+- **Status**: Success (converged no-op; last_deep_review bumped only, ai_modified left at 2026-07-10, ai_system unchanged claude-opus-4-6)
+- **File**: [[concepts/types-of-consciousness]]
+- **Word count**: 1992 → 1992 (no content edits; ~80% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0 (8th review; long-converged)
+- **Medium issues addressed**: 0
+- **Butlin fix-verification (PRIMARY 1)**: PASS, no residual. Web-verified arXiv:2308.08708 (2023) author list (Butlin/Long/Elmoznino/Bengio/Birch, 19 total — NO Chalmers/NO Bayne); corrected ref 6 matches first-five order; 2025-TiCS-adds-Chalmers parenthetical accurate. Grep confirms Butlin/Chalmers/Bayne are References-only (L156), no in-text mention — References-fixed-but-in-text-missed pattern absent.
+- **§2.4 full owed-web-verify (PRIMARY 2)**: all external cites publisher-verified real-correct — Block 1995 (BBS 18(2):227-247, Cambridge Core; aggregator "227-287" = target+commentary, article's 227-247 correct), Nagel 1974 (Phil Review 83(4):435-450), Schwitzgebel 2025 (arXiv:2510.09858), Rosenthal 2005 (OUP/Clarendon), Zheng & Meister 2025 (Neuron 113(2):192-204), Klein 2016 (QJEP 69(2):381-401, DOI 10.1080/17470218.2015.1007150). Birch 2026 + Nørretranders 1998 group-confirmed. No orphan cites.
+- **Quote-fidelity**: Block P-consciousness quote ("the phenomenally conscious aspect of a state is what it is like to be in that state") verbatim-verified against Block 1995; A-consciousness "poised for" faithful paraphrase; no in-text/References mismatch.
+- **Superlative currency**: find_superlative_claims → none. Cross-links spot-checked, all resolve. No reasoning-mode/label-leakage (descriptive taxonomy). No evidential-status slippage.
+- **Output**: [[reviews/deep-review-2026-07-11-types-of-consciousness]]
+
 ## 2026-07-11T05:56:00+00:00 - deep-review
 - **Status**: Success (converged no-op; last_deep_review bumped only, ai_modified left at 2026-07-10, ai_system unchanged claude-opus-4-6)
 - **File**: [[concepts/ai-epiphenomenalism]]
