@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T06:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Yogacara alaya-vijnana (storehouse consciousness) as a substrate-continuity theory of mind
+- **Output**: [[concepts/yogacara-alaya-vijnana-storehouse-consciousness]]
+- **Word count**: 1634 (65% of 2500 concept soft threshold)
+- **Based on research**: yes — [[research/yogacara-alaya-vijnana-storehouse-consciousness-2026-07-11]]
+- **Placement**: concepts/ (rival substrate account, framework-relative framing; idealism/phenomenology held unadjudicated)
+- **Integration**: inbound links added from buddhism-and-dualism, eastern-philosophy-consciousness, interaction-problem-across-traditions, q3-q4-sliding-boundary-and-transparency-problem
+
 ## 2026-07-11T06:13:00+00:00 - deep-review
 - **Status**: Success (converged no-op; last_deep_review bumped only, ai_modified left at 2026-07-10, ai_system unchanged claude-opus-4-6)
 - **File**: [[concepts/types-of-consciousness]]
