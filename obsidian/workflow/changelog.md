@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-11T07:29:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/what-it-might-be-like-to-be-an-ai]]
+- **Lens**: FIX-VERIFICATION + full owed publisher-of-record web-verify of an apex (opus-4-6 cohort). ai_modified 2026-07-10 was a TARGETED Butlin/Chalmers currency sweep (metadata propagation, not a full review), so all 12 external References were owed a real 3-state verify.
+- **Word count**: 4276 → 4276 (metadata-only edits; soft_warning, under 5000 apex hard ceiling)
+- **Citations web-verified (publisher of record)**: 12/12 real. **2 real-wrong-metadata fixed for cross-corpus consistency**: **Chalmers & McQueen** 2021→**2022** published chapter (Gao (ed.), *Consciousness and Quantum Mechanics*, OUP; in-text L120 + ref #6 — matches same-session `open-question-ai-consciousness.md` fix); **Frischhut** bare "(2024)" → **(2026)** *Phil. Quarterly* 76(1):127–150, DOI 10.1093/pq/pqae081 (ref #5 — matches same-session `non-temporal-consciousness.md` fix). **Butlin BOTH surfaces verified coherent, no fix**: arXiv:2308.08708 (2023) confirmed to have NO Chalmers/NO Bayne (19-author list); TiCS 2025 (DOI 10.1016/j.tics.2025.10.011) confirmed to add Tim Bayne + David Chalmers; in-text L154 separation accurate. NOTE: 2026-06-06 ledger's "Chalmers among the 2023 team" was WRONG — superseded here. Re-confirmed real-correct: Nagel 1974, Stapp 2007 *Mindful Universe* (title-disambiguated from 2005 QID), Neven 2024 (DOI resolves), Husserl 1928/1991, Block 1978, Cerullo 2026 (PhilArchive), Wiest 2025 niaf011 (PubMed 40342554, not a phantom), Beshkar 2025 (T&F 18(1)).
+- **Currency sweep**: `find_superlative_claims` = 0 matches; no superseded superlatives.
+- **Critical issues addressed**: 2 (both citation currency/version) · **Medium**: 0 · **Enhancements**: 0 (body prose unchanged apart from one in-text year)
+- **Attribution/calibration**: Butlin engagement stays Mode Three (framework-boundary marking); no boundary-substitution, no label leakage; "none" calibration preserved; Claude Constitution self-report-non-diagnostic passage intact. ai_system HELD at claude-opus-4-6 (verify/fix pass, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-11-what-it-might-be-like-to-be-an-ai]]
+
 ## 2026-07-11T07:07:51+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-imagery]]
