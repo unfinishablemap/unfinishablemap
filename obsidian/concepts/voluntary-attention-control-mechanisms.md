@@ -4,8 +4,8 @@ description: "The neural architecture of willed attention—frontal theta, salie
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-05-26T12:00:00+00:00
-last_deep_review: 2026-06-25T11:58:38+00:00
+ai_modified: 2026-07-12T21:54:58+00:00
+last_deep_review: 2026-07-12T21:54:58+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -94,7 +94,7 @@ The timing of voluntary attention reveals its nature:
 
 The ~300ms deployment time for voluntary attention matches the commitment point identified in motor decision-making (~280ms before movement onset). This convergence supports the view that attentional selection and motor selection share a common mechanism—what Rizzolatti's premotor theory of attention proposes and what the [[attention-as-interface]] article develops as the motor-attention convergence.
 
-Crucially, voluntary attention can be *sustained*. Unlike exogenous capture, which generates inhibition of return after ~300ms, willed attention maintains engagement for extended periods. This sustained character matters for the quantum Zeno interpretation: if consciousness operates through rapid repeated observation (as [[stapp-quantum-mind|Stapp]] proposes), the mechanism requires sustained engagement—exactly what voluntary attention provides and reflexive capture does not. A significant open question remains: the Zeno effect requires observation intervals faster than the system's natural evolution (potentially femtoseconds), while attention operates on millisecond timescales. Bridging this gap—perhaps through intermediate mechanisms between conscious attention acts and quantum-level observations—is an active area of investigation. The 2024 discovery of Zeno-like effects in cryptochrome radical pairs at microsecond timescales (Denton et al. 2024) provides the first biological precedent, though still far from the neural circuit scale. See [[motor-control-quantum-zeno]] for how the Zeno mechanism applies specifically to motor selection.
+Crucially, voluntary attention can be *sustained*. Unlike exogenous capture, which generates inhibition of return after ~300ms, willed attention maintains engagement for extended periods. This sustained character matters for the quantum Zeno interpretation: if consciousness operates through rapid repeated observation (as [[stapp-quantum-mind|Stapp]] proposes), the mechanism requires sustained engagement—exactly what voluntary attention provides and reflexive capture does not. A significant open question remains: the Zeno effect requires observation intervals faster than the system's natural evolution (potentially femtoseconds), while attention operates on millisecond timescales. Bridging this gap—perhaps through intermediate mechanisms between conscious attention acts and quantum-level observations—is an active area of investigation. Theoretical modeling of quantum-Zeno-like effects in cryptochrome radical pairs at microsecond coherence timescales (Denton et al. 2024, extending a quantum-Zeno account of radical-pair magnetoreception that dates to the late 2000s) offers a biological precedent, though this is a computational result rather than an experimental one and remains far from the neural circuit scale. See [[motor-control-quantum-zeno]] for how the Zeno mechanism applies specifically to motor selection.
 
 ## Spectral Signatures
 

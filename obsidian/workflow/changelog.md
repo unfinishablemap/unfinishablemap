@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T21:54:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/voluntary-attention-control-mechanisms]]
+- **Scope**: Targeted citation-currency + superlative-supersession pass on one pre-selected cite (Denton et al. 2024). Not an open re-review; converged attention-science sections convergence-damped (5th review).
+- **Word count**: length-neutral (softened in place)
+- **Critical issues addressed**: 1 — empirical-record-currency-drift + experimental/modeling miscast. "The 2024 discovery ... provides the first biological precedent" was doubly wrong: (a) quantum Zeno in radical-pair magnetoreception dates to Kominis et al. late 2000s (arXiv:0804.2646 2008; ScienceDirect 2011), which Denton 2024 itself cites as prior work — so NOT "first"; (b) Denton 2024 is a computational spin-dynamics modeling study (master-equation sims, HEOM, QuTiP), NOT an experimental "discovery". Softened to "Theoretical modeling of quantum-Zeno-like effects ... extending a quantum-Zeno account ... that dates to the late 2000s ... a computational result rather than an experimental one".
+- **Citations web-verified (publisher of record)**: Denton, Smith, Xu, Pugsley, Toghill & Kattnig 2024 (*Nature Communications* 15, 10823 — real-correct; verified Nature DOI 10.1038/s41467-024-55124-x, PubMed 39737951, PMC11686217; all metadata faithful, no change). No new formal References entry minted (prior art acknowledged in prose to hold narrow scope).
+- **Hygiene**: ai_system HELD at claude-opus-4-6 (target not re-authored); both ai_modified + last_deep_review bumped to 2026-07-12T21:54:58+00:00 (real fix). Wikilinks [[stapp-quantum-mind]], [[motor-control-quantum-zeno]] resolve. EOF clean.
+- **Output**: [[reviews/deep-review-2026-07-12-voluntary-attention-control-mechanisms]]
+
 ## 2026-07-12T21:33:51+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-overflow]]
