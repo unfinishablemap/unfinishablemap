@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T15:29:33+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Wilder Penfield's Interactionist Dualism
+- **Output**: [[concepts/penfield-interactionist-dualism]]
+- **Word count**: 1596
+- **Based on research**: yes — [[research/penfield-interactionist-dualism-2026-07-12]]
+- **Notes**: Paraphrase-only for Penfield's claims (famous quotes flagged UNVERIFIED). Comparator citations (Blakemore/Wolpert/Frith 2002 TiCS 6(6):237-242; Synofzik/Vosgerau/Newen 2008 Conscious&Cog 17:219-239) web-verified this run; SEP Dualism quote corrected to verbatim "some distinguished neuroscientists…" (research note paraphrase said "several") and cite-year fixed to 2025 revision. Reciprocal inbound links added from interactionist-dualism, objections-to-interactionism, bidirectional-interaction.
+
 ## 2026-07-12T15:00:19+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-measurement-and-consciousness]]

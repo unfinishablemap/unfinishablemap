@@ -232,6 +232,9 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms for bridging the quantum-to-neural gap
 - [[amplification-void]] — Why the quantum-to-neural chain is structurally untraceable
 
+**Clinical case:**
+- [[penfield-interactionist-dualism]] — Wilder Penfield's empirically grounded interactionism from cortical-stimulation surgery, and the comparator-model reply that keeps it framework-relative
+
 **Objections and responses:**
 - [[objections-to-interactionism]] — Comprehensive treatment of major objections
 - [[conservation-laws-and-mental-causation]] — Why the conservation objection fails

@@ -175,6 +175,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[dualism-as-ai-risk-mitigation]] — Why the two-way interface makes the dualist contribution to AI risk arguments load-bearing rather than incidental
 - [[baseline-cognition]] — The great ape comparison
 - [[tenets]] — The Map's foundational commitments
+- [[penfield-interactionist-dualism]] — Penfield's "mind programs the brain-computer" framing as a clinical illustration of downward mind→brain influence
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the reverse inference shows *where* bidirectional interaction occurs and *why* it is undetectable
 
 ## References
