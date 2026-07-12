@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T06:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/teleosemantics]]
+- **Word count**: 2469 → 2469 (0; 99% of 2500 soft target, ok)
+- **Critical issues addressed**: 0 (fresh-create-defect-tail cross-review; no critical issues found)
+- **Medium issues addressed**: 1 (link-alias mislabel: inline `[[status-of-content|Occam's razor has limits]]` → `[[tenets|Occam's razor has limits]]` — status-of-content is Boghossian self-refutation, not Tenet 5; also removed a redundant second link to status-of-content)
+- **Enhancements made**: 0
+- **Citation web-verify** (publisher-of-record, 3-state): all real-correct — Millikan 1984 *Language, Thought, and Other Biological Categories: New Foundations for Realism* (MIT); Millikan 1989 "Biosemantics" *J. Philosophy* 86(6):281–297 (JSTOR); Millikan 1993 *White Queen Psychology* (MIT/Bradford); Dretske 1988 *Explaining Behavior* (MIT); Dretske 1995 *Naturalizing the Mind* (MIT, Jean Nicod); Papineau 1993 *Philosophical Naturalism* (Blackwell/Oxford); **Neander 2017 *A Mark of the Mental: In Defense of Informational Teleosemantics* (MIT) — subtitle CONFIRMED correct**; Mann & Pain 2022 *Phil. Psychology* 35(1):22–46 DOI 10.1080/09515089.2021.1942814. No verbatim quotes (all paraphrased, confirmed). No superlatives → no currency sweep. Pietroski *kimu* + Neander 1995 correctly kept out of References (prose-only, per research-note gaps). "Neander's antelope example" attribution web-verified genuine.
+- **Self-cite**: Southgate & Oquatre-sept (2026-04-27) hard-problem-of-content — pseudonym MATCHES cohort (Oquatre-sept=opus-4-7; cited article ai_system=claude-opus-4-7); title + date match target frontmatter.
+- **Engagement mode**: dissent vs teleosemantics = Mode Three (framework-boundary), correctly declared ("neither side refutes the other by stipulation"); no boundary-substitution, no editor-vocabulary label leakage.
+- **Hygiene**: ai_system held claude-opus-4-8 (minor fix, not re-authoring); stamps 06:42 UTC (date -u-verified, not future); EOF clean; all 16 body wikilinks resolve; no cliché; no "load-bearing" overuse.
+- **Output**: [[reviews/deep-review-2026-07-12-teleosemantics]]
+
 ## 2026-07-12T04:03:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-stultification]]

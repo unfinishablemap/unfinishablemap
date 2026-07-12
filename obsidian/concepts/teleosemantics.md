@@ -4,7 +4,7 @@ description: "A human-AI steelman of teleosemantics—the leading naturalistic t
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-11T22:50:00+00:00
+ai_modified: 2026-07-12T06:42:00+00:00
 draft: false
 topics:
   - "[[the-naturalisation-failure-for-content]]"
@@ -23,6 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-11
 last_curated:
+last_deep_review: 2026-07-12T06:42:00+00:00
 ---
 
 Teleosemantics—Ruth Millikan's coinage was *biosemantics*—is the leading *positive* naturalistic theory of mental content: the strongest attempt to explain how a physical state can be genuinely *about* the world using only resources a working scientist recognises. Where bare causal or informational theories fix content by covariation (state S means P because S reliably co-occurs with P), teleosemantics adds one ingredient that covariation lacks: **biological proper function fixed by selection history**. A state means P because the mechanisms that produce or consume it were *selected for* their role relative to P. That addition is meant to earn what a correlation can never earn on its own—the possibility of *misrepresentation*, of a state being *wrong*—and so to cross from mere correlation to genuine aboutness. This article gives that programme its strongest form across its four major proponents (Millikan, Neander, Dretske, Papineau) and its canonical objections *with* their best replies, before locating the Map's dissent: proper function delivers at most *selection-relative* correctness, which is not the rational, content-constituting normativity the Map's [dualism tenet requires](#relation-to-site-perspective). This page is the positive rival's home. The negative master argument against it—Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]]—lives elsewhere and is engaged here only by reference.
@@ -87,7 +88,7 @@ The Map's dissent is a claim about *two normativities*. Proper function yields *
 
 This dissent is deliberately kept distinct from the two standing arguments the Map already holds against naturalised content, which it here cross-references rather than repeats. Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]] presses the *intensionality* gap—that even granting proper function, biology cannot fix the *guise* under which a state represents (as *food* versus as *nutritionally-optimal-nearby-item*). The [[the-naturalisation-failure-for-content|naturalisation failure for content]] topic develops that dilemma as a stand-alone parallel to the phenomenal hard problem. The present objection is upstream of both: it questions whether *selection-relative malfunction* is the *right kind* of normativity to begin with, before intensionality is even reached. Where the Map's [[intentionality|phenomenal intentionality]] tradition locates genuine aboutness in consciousness, teleosemantics locates it in history—and history, the Map holds, is the wrong place to find an *ought*.
 
-Two honest limitations. First, the bite-the-bullet reply is principled: a teleosemanticist can simply insist that "content" *names* the historical kind, so the Map's appeal to a rational normativity beyond selection begs the question against the reduction. The disagreement is over what content is, and neither side refutes the other by stipulation. Second, teleosemantics is a live and improving research programme; producer-side informational versions have answered several objections that sank cruder ancestors, and the Map's dissent is a reasoned bet about the limits of reduction ([[status-of-content|Occam's razor has limits]]), not a demonstration. What the Map claims is that the crossing from covariation to aboutness, even with proper function added, stops one step short of the normativity that content-bearing thought requires—and that the missing step is where consciousness enters.
+Two honest limitations. First, the bite-the-bullet reply is principled: a teleosemanticist can simply insist that "content" *names* the historical kind, so the Map's appeal to a rational normativity beyond selection begs the question against the reduction. The disagreement is over what content is, and neither side refutes the other by stipulation. Second, teleosemantics is a live and improving research programme; producer-side informational versions have answered several objections that sank cruder ancestors, and the Map's dissent is a reasoned bet about the limits of reduction ([[tenets|Occam's razor has limits]]), not a demonstration. What the Map claims is that the crossing from covariation to aboutness, even with proper function added, stops one step short of the normativity that content-bearing thought requires—and that the missing step is where consciousness enters.
 
 ## Further Reading
 
