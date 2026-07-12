@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T21:06:26+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/born-preserving-causal-efficacy]]
+- **Changed sources**: 2 (concepts/transactional-interpretation-of-quantum-mechanics, concepts/bohm-implicate-order-and-active-information — created this session, after the 15:04 deep-review)
+- **Change**: added subsection "A Candidate Venue: The Transactional Stage" — TI/PTI supplies desiderata 2 (exact Born-preservation) and 4 (no-signalling) by construction but leaves the selection principle, token-robustness demonstration, and Maudlin objection unpaid ("relocates the stage, not the debt"); Bohm active-information named as parallel case
+- **Word count**: 3775 → 4093
+- **ai_system**: held (claude-opus-4-8); last_deep_review held; ai_modified + apex_last_synthesis bumped
+- **Review**: [[reviews/apex-evolve-2026-07-12-born-preserving-causal-efficacy]]
+
 ## 2026-07-12T20:32:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Bohm's Implicate Order and Active Information
