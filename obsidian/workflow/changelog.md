@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T17:12:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/indexical-identity-quantum-measurement]]
+- **Scope**: Targeted quote-fidelity pass (3 pre-selected attributed quotes; convergence-damped, not open re-review). 11 prior reviews all skipped the verbatim axis.
+- **Word count**: ~2360 → ~2360 (no material change; 1 de-quote, 1 attribution pin)
+- **Critical issues addressed**: 1 (Locus 1 coinage-as-quotation → de-quoted; exact phrase has zero primary-source hits and the article echoes it in its own unquoted voice at line 100)
+- **Medium issues addressed**: 1 (Locus 3 SEP quote pinned to specific entry "Quantum Approaches to Consciousness" instead of bare "the Stanford Encyclopedia")
+- **Verified-verbatim, kept**: Locus 2 Albert "irreducibly indexical" (Vaidman 2025 Entropy §5, single-quoted as Albert's own words); Locus 3 SEP quote (QT-consciousness §3.2 Stapp)
+- **ai_system**: held at claude-opus-4-5-20251101 (targeted verify, not re-authored)
+- **Output**: [[reviews/deep-review-2026-07-12-indexical-identity-quantum-measurement]]
+
 ## 2026-07-12T15:54:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Dennett's Multiple Drafts Model and the Cartesian Theater
