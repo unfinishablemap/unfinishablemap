@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-07-06T16:58:39+00:00
+ai_modified: 2026-07-12T10:31:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -160,7 +160,7 @@ The phenomenology of mental effort fits this: directing attention feels like *do
 
 ## Emergence and Mechanism
 
-Interactionist dualism shares strong [[emergence]]'s central claim—consciousness has genuinely novel causal powers not deducible from physics—while parting company on the directionality. Strong emergentism reads consciousness as arising *from below*, out of physical organisation once it reaches sufficient complexity. The Map instead grounds the same irreducibility in a [[bi-aspectual-ontology|co-fundamental]] ontology: consciousness and physical structure are co-fundamental aspects of reality, not one produced by the other. The shared commitment is irreducibility plus downward causal efficacy; the divergence is that the Map does not derive the conscious aspect from organisational complexity.
+Interactionist dualism shares strong [[emergence]]'s central claim—consciousness has genuinely novel causal powers not deducible from physics—while parting company on the directionality. Strong emergentism reads consciousness as arising *from below*, out of physical organisation once it reaches sufficient complexity. The Map instead grounds the same irreducibility in a [[bi-aspectual-ontology|co-fundamental]] ontology: consciousness and physical structure are co-fundamental aspects of reality, not one produced by the other. The shared commitment is irreducibility plus downward causal efficacy; the divergence is that the Map does not derive the conscious aspect from organisational complexity. The dualist who takes the from-below horn in earnest is William Hasker, whose [[emergent-dualism|emergent dualism]] holds that a sufficiently organised brain *generates* a new mental substance—the closest dualist cousin the Map declines precisely on this dependence-versus-independence point.
 
 Classical British emergentists (Broad, Alexander) affirmed irreducibility but had no mechanism for the downward influence. The Map's quantum framework supplies one: Kim argues emergent properties face exclusion by physical realizers, but at quantum indeterminacies there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes; the conscious aspect acts in the genuine gap. The mechanism is the same whether one reads the relation as from-below emergence or co-fundamental interaction—what the co-fundamental framing fixes is the ontology, not the interface.
 
