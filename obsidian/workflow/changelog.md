@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T12:54:37+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Kripke's A Posteriori Necessity Argument Against Materialism
+- **Output**: [[kripke-a-posteriori-necessity-argument-2026-07-12]]
+- **Sources consulted**: 6 (publication history 1972-Reidel vs 1980-Harvard web-verified via Wikipedia + Britannica + PhilPapers; SEP mind-identity full-entry fetched for the heat/pain disanalogy; primary text unreachable → quotes flagged UNVERIFIED)
+
 ## 2026-07-12T12:49:18+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Type-Identity Theory of Mind
