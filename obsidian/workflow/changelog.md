@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T01:07:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/semantic-memory]]
+- **Word count**: 3123 → 3123 (length-neutral)
+- **Critical issues addressed**: 1 (quote-fidelity de-quote of unconfirmable verbatim Tallis string)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; body byte-stable since 2026-06-04)
+- **Web-verify**: 4 memory-neuroscience cites independently re-verified at publisher (Visser/Renoult/Martinelli/Pitt — all real-correct; June's Cerebral Cortex→JoCN Visser fix confirmed); superlative sweep empty
+- **Engagements**: illusionism (Dennett/Frankish) Mode One+Two; LLM equivalence Mode Three — unchanged, no label leakage
+- **Output**: [[reviews/deep-review-2026-07-12-semantic-memory]]
+
 ## 2026-07-12T00:22:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Attended Intermediate Representations (AIR) Theory of Consciousness (Prinz)

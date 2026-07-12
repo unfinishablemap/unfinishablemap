@@ -4,7 +4,7 @@ description: "Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-04T17:41:31+00:00
+ai_modified: 2026-07-12T01:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-06-04T17:41:31+00:00
+last_deep_review: 2026-07-12T01:07:00+00:00
 ---
 
 You know that Paris is the capital of France, that water freezes at 0°C, and that Napoleon lost at Waterloo. This knowledge is simply *available*—you don't mentally travel back to when you learned these facts. You don't re-experience sitting in geography class or reading a history book. The facts are just there, accessible without phenomenal replay. This is semantic memory, accompanied by what Endel Tulving called *noetic consciousness*: knowing without re-experiencing.
@@ -127,7 +127,7 @@ If noetic consciousness involves irreducible phenomenology, LLMs lack it despite
 
 Three responses defend the reality of noetic phenomenology:
 
-**The regress problem.** If the feeling of knowing is an illusion, something must experience this illusion. The seeming-to-know must seem *to* something. Either that something has genuine experience (in which case phenomenology exists), or it too merely seems to experience (generating a regress). Raymond Tallis captures this: "Misrepresentation presupposes presentation." The illusion of noetic consciousness requires some experience in which the illusion occurs.
+**The regress problem.** If the feeling of knowing is an illusion, something must experience this illusion. The seeming-to-know must seem *to* something. Either that something has genuine experience (in which case phenomenology exists), or it too merely seems to experience (generating a regress). Raymond Tallis captures this point: misrepresentation presupposes presentation. The illusion of noetic consciousness requires some experience in which the illusion occurs.
 
 **The phenomenology of [[introspection|introspection]].** When you attend carefully to a TOT state, the phenomenal character doesn't dissolve—it becomes more vivid. The frustration intensifies; the sense of imminence clarifies. Careful introspection reveals rather than eliminates noetic phenomenology. The illusionist must explain why closer examination intensifies rather than exposes the illusion.
 
