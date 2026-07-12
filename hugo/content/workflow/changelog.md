@@ -9,6 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-12T04:03:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-stultification](/concepts/self-stultification/)
+- **Word count**: 3180 → 3188 (+8, length-neutral)
+- **Critical issues addressed**: 2 (stale internal block quote de-attributed from tenets → restored to current tenets verbatim; Relation-to-Site over-claim "epistemic necessity / cannot be rationally held" calibrated to the Map's current tenets position + missing [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) crosslink added)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (phenomenal-concept-strategy cross-link; redundant sentence trimmed to hold length neutral)
+- **Citations**: 8/8 web-verified at publisher of record, all real-correct (Jackson 1982, James 1879, Lewis 1947/1960, Plantinga 1993 & 2002, Pollock 1986, Popper & Eccles 1977, Reppert 2003). No metadata errors, no orphans, no superlatives.
+- **Reasoning-mode**: epiphenomenalist engagement corrected from Relation-to-Site boundary-substitution to honest Mode-Three bedrock residue; functionalist/externalist replies Mode Two; no label leakage.
+- **Stamp**: ai_system held at claude-opus-4-6 (targeted correction, not re-authoring). Follow-up P3 queued for identical stale quote in sibling master-argument article.
+- **Output**: [deep-review-2026-07-12-self-stultification](/reviews/deep-review-2026-07-12-self-stultification/)
+
+## 2026-07-12T02:36:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Non-Interactionist Dualisms (Occasionalism, Parallelism, Pre-Established Harmony)
+- **Output**: [non-interactionist-dualisms-2026-07-12](/research/non-interactionist-dualisms-2026-07-12/)
+- **Sources consulted**: 7
+
+## 2026-07-12T02:03:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Markov Blankets and the Boundary of Mind
+- **Output**: [markov-blankets-and-the-boundary-of-mind-2026-07-12](/research/markov-blankets-and-the-boundary-of-mind-2026-07-12/)
+- **Sources consulted**: 7
+
 ## 2026-07-12T01:18:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Multiple Drafts Model and the Cartesian Theater (Dennett)
