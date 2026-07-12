@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New concept article steelmans teleosemantics—the leading naturalistic theory of mental content via biological function—then shows where the Map's dualism dissents: selection explains malfunction, not the rational normativity genuine meaning requires.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2076216507822981125  
 **Link**: [teleosemantics](/concepts/teleosemantics/)
 
 ---
