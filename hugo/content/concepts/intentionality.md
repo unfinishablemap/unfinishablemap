@@ -76,7 +76,7 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 **Causal theories** (Dretske, Fodor) propose that a mental state is about whatever reliably causes it. But the "disjunction problem" defeats this: a frog's snap response is caused by flies and by fly-like BBs alike. Causal history alone cannot determine content.
 
-**Teleosemantic theories** (Millikan) appeal to biological function: a representation is about what it was selected to track. But evolution selects for survival-relevant responses, not determinate contents. A frog's fly-detector needn't represent *flies* rather than *small dark moving things*—either content explains the selected behaviour.
+**[Teleosemantic theories](/concepts/teleosemantics/)** (Millikan) appeal to biological function: a representation is about what it was selected to track. But evolution selects for survival-relevant responses, not determinate contents. A frog's fly-detector needn't represent *flies* rather than *small dark moving things*—either content explains the selected behaviour.
 
 **Informational theories** encounter the problem that correlation isn't representation. A tree ring carries information about annual rainfall but is not *about* anything. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) sharpens this: physical information is purely syntactic, and syntax alone cannot generate semantic directedness.
 

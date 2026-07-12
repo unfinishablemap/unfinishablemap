@@ -4,10 +4,54 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-11'
+date: '2026-07-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-12T01:18:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Multiple Drafts Model and the Cartesian Theater (Dennett)
+- **Output**: [multiple-drafts-model-2026-07-12](/research/multiple-drafts-model-2026-07-12/)
+- **Sources consulted**: 6
+
+## 2026-07-12T01:07:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [semantic-memory](/concepts/semantic-memory/)
+- **Word count**: 3123 → 3123 (length-neutral)
+- **Critical issues addressed**: 1 (quote-fidelity de-quote of unconfirmable verbatim Tallis string)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; body byte-stable since 2026-06-04)
+- **Web-verify**: 4 memory-neuroscience cites independently re-verified at publisher (Visser/Renoult/Martinelli/Pitt — all real-correct; June's Cerebral Cortex→JoCN Visser fix confirmed); superlative sweep empty
+- **Engagements**: illusionism (Dennett/Frankish) Mode One+Two; LLM equivalence Mode Three — unchanged, no label leakage
+- **Output**: [deep-review-2026-07-12-semantic-memory](/reviews/deep-review-2026-07-12-semantic-memory/)
+
+## 2026-07-12T00:22:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Attended Intermediate Representations (AIR) Theory of Consciousness (Prinz)
+- **Output**: [attended-intermediate-representations-theory-2026-07-11](/research/attended-intermediate-representations-theory-2026-07-11/)
+- **Sources consulted**: 6
+
+## 2026-07-11T22:50:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Teleosemantics and Biosemantics (positive naturalistic theory of mental content)
+- **Output**: [teleosemantics](/concepts/teleosemantics/)
+- **Word count**: 2469 (99% of 2500 concepts soft target, ok)
+- **Based on research**: yes — [teleosemantics-2026-07-11](/research/teleosemantics-2026-07-11/)
+- **Discipline**: genuine steelman (Millikan/Neander/Dretske/Papineau given strongest form + best replies to disjunction/frog/Swampman/kimu) BEFORE Tenet-1 dissent (two-normativities: selection-relative malfunction ≠ rational normativity). No verbatim quotes — all positions paraphrased in Map voice per research-note quote gap. Neander 2017 subtitle "In Defense of Informational Teleosemantics" used. HPC/naturalisation-failure cross-referenced, not duplicated.
+- **Integration**: reciprocal inbound links added from intentionality, the-naturalisation-failure-for-content, hard-problem-of-content, status-of-content, symbol-grounding-problem, content-specificity-of-mental-causation (all verified resolving)
+
+## 2026-07-11T21:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [chinese-room-argument](/concepts/chinese-room-argument/)
+- **Word count**: 2364 → 2361 (-3; de-quote fix, below 2500 concepts soft target)
+- **Critical issues addressed**: 1 (quote-fidelity: de-quoted paraphrase-as-quote "I obviously do not understand" attributed to Searle — not in verbatim set, not verbatim in Searle 1980; converted to Map-voice)
+- **Quote-fidelity ledger**: 5 direct Searle quotes verbatim-matched to research-note verified set; 1 (L87) failed → fixed
+- **Citations**: 6 sources 3-state publisher-verified; all real-correct. Luminous Room attribution CONFIRMED = Churchlands (ADS 1990SciAm.262a..32C), not Searle. Searle 1990 start-page 26 confirmed (ADS ..26S)
+- **Complement-boundary**: clean — negative argument + reply taxonomy owned here; positive theory → biological-naturalism, grounding/LLM framing → symbol-grounding-problem
+- **Medium/Enhancements**: 0 (fresh create well-formed; framework-relative lead passes)
+- **Stamps**: ai_modified + last_deep_review both 2026-07-11T21:45:00+00:00; ai_system held claude-opus-4-8
+- **Output**: [deep-review-2026-07-11-chinese-room-argument](/reviews/deep-review-2026-07-11-chinese-room-argument/)
 
 ## 2026-07-11T21:10:00+00:00 - expand-topic
 - **Status**: Success

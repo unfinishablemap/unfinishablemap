@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 21:10:00+00:00
+ai_modified: 2026-07-11 21:45:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: 'Searle''s Chinese Room against Strong AI: syntax isn''t semantics,
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-11 21:45:00+00:00
 modified: *id001
 related_articles:
 - '[[functionalism]]'
@@ -87,7 +88,7 @@ The Churchlands' positive view is that classical rule-and-symbol AI is empirical
 
 ## The Intuition-Pump Charge
 
-Daniel Dennett labels the Chinese Room an *intuition pump*—a vivid story engineered to make a contestable conclusion feel obvious while hiding the work. His objections are that the scenario's cartoonish slowness smuggles in the sense that nothing that plodding could understand, whereas speed and complexity are of the essence for real cognition, and that a program considered as text does nothing at all—only a full *implementation* does, and a complete implementation of genuine understanding is precisely what would constitute a mind. Douglas Hofstadter, co-originator of the "intuition pump" label, presses the scale objection: the rulebook needed to pass as a native speaker would be astronomically vast, and executing it would amount to a mind at the system level. Searle's confident "I obviously do not understand," on this view, is a failure to imagine the true immensity of the implementing system—a variant of the Systems and virtual-mind replies.
+Daniel Dennett labels the Chinese Room an *intuition pump*—a vivid story engineered to make a contestable conclusion feel obvious while hiding the work. His objections are that the scenario's cartoonish slowness smuggles in the sense that nothing that plodding could understand, whereas speed and complexity are of the essence for real cognition, and that a program considered as text does nothing at all—only a full *implementation* does, and a complete implementation of genuine understanding is precisely what would constitute a mind. Douglas Hofstadter, co-originator of the "intuition pump" label, presses the scale objection: the rulebook needed to pass as a native speaker would be astronomically vast, and executing it would amount to a mind at the system level. Searle's confident insistence that he plainly understands nothing, on this view, is a failure to imagine the true immensity of the implementing system—a variant of the Systems and virtual-mind replies.
 
 ## Relation to Site Perspective
 
