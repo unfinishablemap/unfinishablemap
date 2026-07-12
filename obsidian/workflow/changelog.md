@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T14:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Kripke's A-Posteriori Necessity Argument Against Mind-Brain Identity
+- **Output**: [[concepts/kripke-a-posteriori-necessity-argument]]
+- **Word count**: 1646
+- **Based on research**: yes — [[research/kripke-a-posteriori-necessity-argument-2026-07-12]]
+- **Notes**: Paraphrase-only (no verbatim Kripke quotes — primary text unverifiable; pub history web-verified). Reciprocal inbound links added from type-identity-theory, knowledge-argument, philosophical-zombies, explanatory-gap. Cross-references phenomenal-concepts-strategy + conceivability-possibility-inference. Cross-review queued.
+
 ## 2026-07-12T14:21:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Wilder Penfield's Interactionist Dualism (empirical basis in awake cortical stimulation)

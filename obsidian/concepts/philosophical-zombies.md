@@ -204,6 +204,7 @@ The zombie argument connects to all five of the Map's tenets.
 - [[hard-problem-of-consciousness]] — The broader problem the zombie argument illuminates
 - [[explanatory-gap]] — Levine's analysis of why physical explanation leaves consciousness unexplained
 - [[knowledge-argument]] — The sibling conceivability-based argument (Mary's Room); both infer non-physical phenomenal facts
+- [[kripke-a-posteriori-necessity-argument]] — The modal-semantic sibling: turns rigid designation against mind-brain identity
 - [[conceivability-possibility-inference]] — The contested bridge premise both arguments share, and the replies that target it
 - [[qualia]] — The qualitative properties zombies lack
 - [[inverted-qualia]] — The parallel argument varying qualia's character rather than presence

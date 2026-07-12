@@ -73,6 +73,7 @@ Finally, the tool that broke type-identity is not the Map's tool. Multiple reali
 
 ## Further Reading
 
+- [[kripke-a-posteriori-necessity-argument]] — the modal argument against this theory, developed in full
 - [[functionalism]] — the successor position multiple realizability pushed the field toward
 - [[eliminative-materialism]] — the more radical materialist option: eliminate the mental kinds rather than identify them
 - [[biological-naturalism]] — Searle's attempt to keep consciousness biological without reductive identity
