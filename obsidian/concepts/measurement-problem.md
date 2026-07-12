@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-10T00:08:00+00:00
+ai_modified: 2026-07-12T20:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ Physical collapse according to modified dynamics. See [[spontaneous-collapse-the
 
 ### Hidden Variables (Bohmian Mechanics)
 
-Particles always have definite positions guided by a "pilot wave." Deterministic throughout—removes the opening for consciousness at collapse.
+Particles always have definite positions guided by a [[bohm-implicate-order-and-active-information|pilot wave]]. Deterministic throughout—removes the opening for consciousness at collapse.
 
 ### Consciousness-Based Interpretations
 

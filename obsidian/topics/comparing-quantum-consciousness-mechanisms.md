@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-06-21T06:54:07+00:00
+ai_modified: 2026-07-12T20:39:00+00:00
 last_deep_review: 2026-06-21T06:54:07+00:00
 draft: false
 topics:
@@ -57,7 +57,7 @@ Each mechanism is evaluated along two independent dimensions — scientific stan
 
 Why does consciousness need a quantum mechanism at all? [[decoherence|Decoherence]] suppresses interference and selects pointer states, but it does not determine which outcome actually obtains. After decoherence, the system is an *improper* mixture (d'Espagnat 1976; Schlosshauer 2004) — mathematically resembling classical ignorance but physically different, because no definite outcome has been actualised. This residual problem of outcomes (Schlosshauer 2004) requires supplementation by an interpretation.
 
-Five families of selection mechanism compete: (1) **consciousness-mediated collapse** (von Neumann, Wigner, Stapp, Chalmers-McQueen), (2) **objective collapse** (GRW, Penrose-Diósi, CSL), (3) **hidden variables** (de Broglie-Bohm), (4) **many worlds** (Everett), and (5) **history selection** (consistent histories, transactional). For the Map's interactionist dualism, families 2–5 either eliminate consciousness from selection, deny that selection occurs (ruled out by [[tenets#^no-many-worlds|Tenet 4]]), or remain ambiguous about consciousness's role. Only consciousness-mediated collapse locates a non-physical agent where physics leaves outcomes undetermined. The four mechanisms compared here are its candidate interfaces — Orch OR and Fisher only as strained members (objective collapse and physical-without-selection, respectively).
+Five families of selection mechanism compete: (1) **consciousness-mediated collapse** (von Neumann, Wigner, Stapp, Chalmers-McQueen), (2) **objective collapse** (GRW, Penrose-Diósi, CSL), (3) **hidden variables** ([[bohm-implicate-order-and-active-information|de Broglie-Bohm]]), (4) **many worlds** (Everett), and (5) **history selection** (consistent histories, transactional). For the Map's interactionist dualism, families 2–5 either eliminate consciousness from selection, deny that selection occurs (ruled out by [[tenets#^no-many-worlds|Tenet 4]]), or remain ambiguous about consciousness's role. Only consciousness-mediated collapse locates a non-physical agent where physics leaves outcomes undetermined. The four mechanisms compared here are its candidate interfaces — Orch OR and Fisher only as strained members (objective collapse and physical-without-selection, respectively).
 
 The gap is central to [[tenets#^minimal-quantum-interaction|Tenet 2 (Minimal Quantum Interaction)]]: consciousness need only select among outcomes that decoherence has prepared — the smallest possible non-physical influence. See [[post-decoherence-selection]] for the concept and [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] for a full synthesis.
 

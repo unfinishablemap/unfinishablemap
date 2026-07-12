@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-06-23T05:51:21+00:00
+ai_modified: 2026-07-12T20:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -63,7 +63,7 @@ All interpretations respond to the [[measurement-problem|measurement problem]]: 
 
 ### Bohmian Mechanics (Pilot-Wave Theory)
 
-**Core claims:** Particles have definite positions guided by a "pilot wave"; the wave function evolves unitarily forever (no collapse); fully deterministic, with apparent randomness reflecting ignorance of hidden variables.
+**Core claims:** Particles have definite positions guided by a [[bohm-implicate-order-and-active-information|pilot wave]]; the wave function evolves unitarily forever (no collapse); fully deterministic, with apparent randomness reflecting ignorance of hidden variables.
 
 **Consciousness role:** None—outcomes determined by the pilot wave.
 
