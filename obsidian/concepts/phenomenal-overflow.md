@@ -4,8 +4,8 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-07-11T12:35:00+00:00
-last_deep_review: 2026-06-22T16:10:00+00:00
+ai_modified: 2026-07-12T21:33:51+00:00
+last_deep_review: 2026-07-12T21:33:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,7 +84,7 @@ The deflationary reading isn't merely dismissive. It raises a genuine methodolog
 
 Subjects report "I saw all the letters"—but this report is itself an A-conscious judgment. If P-consciousness were truly richer than A-consciousness, we could never directly verify it through reports, since reports *are* access. The overflow hypothesis may be unfalsifiable.
 
-Cohen and Dennett argue: "Consciousness cannot be separated from function." If there's no functional difference between having rich phenomenology and merely believing one has rich phenomenology, the distinction may be empty.
+Cohen and Dennett argue that consciousness cannot be separated from function. If there's no functional difference between having rich phenomenology and merely believing one has rich phenomenology, the distinction may be empty.
 
 ## Additional Evidence {#evidence}
 
@@ -92,9 +92,9 @@ Beyond Sperling, several phenomena suggest phenomenal overflow:
 
 ### Inattentional Blindness
 
-In inattentional blindness experiments, subjects fail to notice salient stimuli (like a gorilla walking through a scene) when attention is engaged elsewhere. Yet recent work by Nartker et al. (2025) found that "inattentionally blind" participants retain visual sensitivity to stimuli they explicitly deny noticing—they can report location, colour, and shape of objects they claim not to have seen.
+In inattentional blindness experiments, subjects fail to notice salient stimuli (like a gorilla walking through a scene) when attention is engaged elsewhere. Yet in a large recent study, Nartker et al. (2025) found that "inattentionally blind" participants retain sensitivity to stimuli they explicitly deny noticing—when probed, they report location, colour, and shape above chance.
 
-This suggests phenomenology may persist even when workspace broadcast fails. But deflationary theorists respond that this residual sensitivity reflects degraded access rather than rich phenomenology outside access.
+This result is double-edged for overflow. Nartker and colleagues read it not as unconscious processing but as *residual conscious vision*—inattention degrades awareness rather than abolishing it—which challenges the premise, central to Global Workspace Theory, that awareness requires attention. But because those features can be reported when cued, the finding arguably shows degraded *access* rather than the phenomenology *outside* access that Block's thesis needs. The authors, skeptical of rich unconscious perception, present it as constraining the overflow debate more than settling it.
 
 ### The Fineness of Grain Argument
 

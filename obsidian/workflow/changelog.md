@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T21:33:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-overflow]]
+- **Scope**: Targeted citation-verify + currency + framing-accuracy pass (post-review drift on 2026-07-11 edit; 2025 cite in active overflow/inattentional-blindness debate). Stable Sperling/philosophy sections convergence-damped (7th review).
+- **Word count**: ~1710 → ~1730 (+~20, length-neutral in-place re-frame)
+- **Critical issues addressed**: 2 — (1) framing over-read of Nartker et al. 2025 re-framed to the paper's own double-edged "residual conscious vision" reading (subjects report features when probed → degraded access, not phenomenology outside access; authors skeptical of rich unconscious perception); (2) Cohen & Dennett 2011 paper-title de-quoted from an attributed argument-quote to paraphrase.
+- **Citations web-verified (publisher of record)**: Nartker et al. 2025 (eLife 13, RP100337 — real-correct, eLife+PubMed 40388213); Cohen & Dennett 2011 (TiCS 15(8):358-364 — real-correct, PubMed 21807333); Block 2011 / Sperling 1960 classics real-correct (not re-litigated). Zero wrong-metadata, zero fabricated, zero orphan cites.
+- **Engagement modes**: Cohen/Dennett engagement unchanged — their unfalsifiability charge stated as theirs (Mode Three, honest boundary); Map counter framed via Occam's-limits tenet, clearly Map-side. No label leakage, no boundary-substitution.
+- **Stamps**: ai_modified + last_deep_review both bumped to 2026-07-12T21:33:51+00:00 (real fixes). ai_system HELD at claude-opus-4-6 (not re-authored to reviewing model).
+- **Output**: [[reviews/deep-review-2026-07-12-phenomenal-overflow]]
+
 ## 2026-07-12T21:22:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Sellars' Manifest and Scientific Images
