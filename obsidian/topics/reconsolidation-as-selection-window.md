@@ -4,7 +4,7 @@ description: "Memory reconsolidation reopens a stored trace to revision each tim
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-16T12:34:35+00:00
+ai_modified: 2026-07-12T11:26:54+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review: 2026-06-16T12:34:35+00:00
+last_deep_review: 2026-07-12T11:26:54+00:00
 ---
 
 Every time a memory is recalled, the stored trace becomes briefly editable before it restabilises. This is **reconsolidation**: retrieval does not read a memory passively but reopens it, and during a window of several hours the trace can absorb new information, shift emotional valence, or lose detail. The lability is empirically robust—it is one of the better-established facts in the neuroscience of memory. The Map's interest is narrower and explicitly more speculative: this window is the most concrete physical occasion where a [[forward-in-time-conscious-selection|forward-in-time conscious selection]] could enter the reconstruction of a trace. The window is real; that consciousness supplies *directional* input to what happens inside it is the Map's posited reading, not something the lability data establish.
@@ -32,7 +32,7 @@ This article keeps those two claims separate throughout. The empirical signature
 
 ## The Empirical Signature: Retrieval Destabilises the Trace
 
-The foundational result is Nader, Schafe, and LeDoux (2000), titled "Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval" (*Nature* 406:722–726). Rats trained on a conditioned fear memory had that memory reactivated by a reminder cue; an inhibitor of protein synthesis (anisomycin) infused into the lateral and basal amygdala shortly after reactivation produced amnesia for the reactivated memory. A consolidated memory—one that had already been stabilised and was resistant to disruption—became disruptable again *because it had been retrieved*. The authors' summary is direct: "consolidated fear memories, when reactivated, return to a labile state in which they require de novo protein synthesis for reconsolidation."
+The foundational result is Nader, Schafe, and LeDoux (2000), titled "Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval" (*Nature* 406:722–726). Rats trained on a conditioned fear memory had that memory reactivated by a reminder cue; an inhibitor of protein synthesis (anisomycin) infused into the lateral and basal amygdala shortly after reactivation produced amnesia for the reactivated memory. A consolidated memory—one that had already been stabilised and was resistant to disruption—became disruptable again *because it had been retrieved*. The authors' finding, in summary, is that consolidated fear memories, when reactivated, return to a labile state in which they require de novo protein synthesis for reconsolidation—the claim compressed in the paper's title.
 
 Three features of this signature do real work in what follows:
 

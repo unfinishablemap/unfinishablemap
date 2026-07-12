@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T11:26:54+00:00 - deep-review
+- **Status**: Success — quote-fidelity CRITICAL fix (fresh verbatim check of the un-verified subset; prior passes cleared metadata only)
+- **File**: [[topics/reconsolidation-as-selection-window]]
+- **Word count**: 2284 → 2292 (+8; length-neutral replace-in-place)
+- **Critical issues addressed**: 1 (paraphrase-dressed-as-quotation)
+- **Nader quote verdict (line 35)**: NOT-verbatim → DOWNGRADED-to-paraphrase. Quoted string "consolidated fear memories, when reactivated, return to a labile state in which they require de novo protein synthesis for reconsolidation" is a stitched summary of the paper's thesis/title, NOT the abstract's actual wording (real abstract: "...return to a labile state in which infusion of anisomycin shortly after memory reactivation produces amnesia on later tests"). Result is real → removed quote marks, reframed as explicit paraphrase noting it tracks the paper's title. No wording invented, no result deleted (citation-verify-false-negative discipline).
+- **Citations (publisher-verified)**: Nader et al. 2000 *Nature* 406:722–726 (PMID 10963596) — real+correct (re-confirmed); Sinclair & Barense 2018 *Learning & Memory* 25:369–381 — real+correct (inherited from 06-03 ledger, References unchanged).
+- **Other quotes**: both remaining quoted strings are article TITLES (metadata), both verbatim-correct. No other attributed-words quotes.
+- **Empirical currency**: no literature superlative; "most anchored window" is a within-Map comparative. No supersession.
+- **Reasoning mode**: engagement with the fully-physical reading — Mode Three (framework-boundary marking), honest; no boundary-substitution, no label leakage. Unchanged.
+- **ai_system**: held at claude-opus-4-8 (targeted fix, not re-authored). Both ai_modified + last_deep_review bumped (real quote fix).
+- **Output**: [[reviews/deep-review-2026-07-12-reconsolidation-as-selection-window]]
+
 ## 2026-07-12T11:16:40+00:00 - refine-draft
 - **Status**: Success — FAMILY-RESOLUTION stale-internal-quote fix (apex-stale-internal-quote-channel class)
 - **File**: [[topics/self-stultification-as-master-argument]]
