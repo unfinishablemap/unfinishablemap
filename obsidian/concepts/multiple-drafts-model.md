@@ -4,7 +4,7 @@ description: "Dennett's Multiple Drafts Model rejects the Cartesian Theater. The
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-12T15:54:00+00:00
+ai_modified: 2026-07-12T18:39:55+00:00
 draft: false
 topics: []
 concepts: [heterophenomenology, illusionism, global-workspace-theory, unity-of-consciousness]
@@ -14,6 +14,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-12
 last_curated:
+last_deep_review: 2026-07-12T18:39:55+00:00
 ---
 
 Daniel Dennett's **Multiple Drafts Model (MDM)** is the most precise materialist statement of a view the Map must engage at full strength: that there is no place or moment in the brain where "it all comes together" for a central observer. Introduced in *Consciousness Explained* (1991) and formalised with Marcel Kinsbourne in "Time and the observer" (1992), MDM matters here because it targets exactly the picture the Map's dualism could be mistaken for — a consciousness that watches a screen. The Map's response, developed below, is to accept most of MDM's anti-homuncular neuroscience while declining the further eliminativist conclusion. Within Dennett's own framework the experiential residue the Map defends does not survive; the Map argues that framework itself imports a contestable step.
@@ -52,7 +53,7 @@ MDM is the primary rival to Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interac
 
 **Where the Map parts company.** The inference from "no Cartesian Theater" to "no phenomenal consciousness" is the contested step, and the Map declines it at the verificationist fault line. That an undetectable difference is no difference is not a neutral empirical result but a metaphysical premise — an instance of the failure Tenet 5 warns against, letting a simplicity or economy consideration exhaust ontology when knowledge is incomplete. Epistemic access need not fix what exists.
 
-The deeper structural point is that MDM **relocates** rather than dissolves the interface question. Even a purely retrospective, narratively-imposed unity requires a narrator — a subject *for whom* the draft is edited into a story. The Map develops this as the unity-of-consciousness response: the post-hoc construction presupposes exactly the subject whose experience MDM sets out to explain away (see [[unity-of-consciousness]]). MDM thus moves the hard question from "where does it all come together?" to "for whom is the narrative assembled?" — a relocation, not a resolution. On this reading MDM belongs with [[illusionism]] and the eliminativist family as an architectural sibling, sharing the machinery while the Map holds that the phenomenal residue survives the demolition of the theater. Its paired third-person method, [[heterophenomenology]], is the discipline whose report-data MDM is the positive model for — and the point at which the Map and Dennett agree on method (reports as data) while dividing on what the data support.
+The deeper structural point is where the Map and Dennett divide at the root. The Map develops its unity-of-consciousness response here: even a purely retrospective, narratively-imposed unity seems to require a narrator — a subject *for whom* the draft is edited into a story — so the post-hoc construction presupposes exactly the subject whose experience MDM sets out to explain away (see [[unity-of-consciousness]]). But Dennett has an explicit on-record answer to "for whom?", and honesty requires marking it. His cerebral-celebrity gloss (above) *is* that answer: a conscious content has no audience, only downstream influence over time, and the "subject for whom" the narrative is assembled is the Cartesian-theater spectator he denies exists. The narrator premise is therefore not a burden Dennett's own account concedes and then fails to discharge; it is a framework commitment — the subject-realism of Tenet 1 — that he rejects at the source. On his own terms MDM dissolves the interface question, since there is no for-whom to which it could be relocated; the Map reintroduces the subject as a foundational commitment and honestly presses a burden Dennett declines to grant. The disagreement bottoms out in whether there is a subject at all, not in MDM having left its own question unresolved. On this reading MDM belongs with [[illusionism]] and the eliminativist family as an architectural sibling, sharing the machinery while the Map holds that the phenomenal residue survives the demolition of the theater. Its paired third-person method, [[heterophenomenology]], is the discipline whose report-data MDM is the positive model for — and the point at which the Map and Dennett agree on method (reports as data) while dividing on what the data support.
 
 ## Further Reading
 
