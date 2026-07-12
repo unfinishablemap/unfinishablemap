@@ -114,6 +114,7 @@ Rational normativity connects to the Map's [[tenets]] at multiple points.
 - [[self-stultification-as-master-argument]]
 - [[consciousness-and-the-authority-of-formal-systems]]
 - [[reasons-responsiveness]]
+- [[sellars-manifest-and-scientific-images]] — The Sellarsian space of reasons and the manifest/scientific-image distinction behind it
 
 ## References
 

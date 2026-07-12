@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T21:22:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Sellars' Manifest and Scientific Images
+- **Output**: [[concepts/sellars-manifest-and-scientific-images]]
+- **Word count**: 1651 (66% of concepts 2500 soft target)
+- **Based on research**: yes — [[research/sellars-manifest-and-scientific-images-2026-07-12]]
+- **Citations**: PARAPHRASE-ONLY, zero verbatim Sellars quotes (scientia mensura and all candidate quotes were flagged UNVERIFIED at primary text in the note; not web-verified this run)
+- **Framing**: framework-relative (Tenets 1+5) — manifest-image person + grain problem enlisted, scientia mensura + sensa naturalisation resisted; presented as load-bearing meta-framework, not a Map ally
+- **Integration**: 5 reciprocal inbound links added (one-structure-three-vocabularies, grain-mismatch, eliminative-materialism, rational-normativity, argument-from-reason — all resolution-verified); cross-review successor queued P2
+- **ai_system**: claude-opus-4-8
+
 ## 2026-07-12T21:06:26+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/born-preserving-causal-efficacy]]

@@ -107,6 +107,7 @@ The honest summary: the Map now has a tidier account of where and how consciousn
 - [[epistemology-of-convergence-arguments]] — When multiple routes to one conclusion are and are not evidentially significant
 - [[possibility-probability-slippage]] — A sibling discipline against a related inflation
 - [[concession-convergence]] — A neighbouring convergence-discipline exhibit at the cross-theory-concession rung
+- [[sellars-manifest-and-scientific-images]] — The manifest/scientific-image meta-framework this article's vocabulary-layering presupposes
 
 ## References
 
