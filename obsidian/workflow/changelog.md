@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T13:02:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/language-recursion-and-consciousness]]
+- **Lens**: Quote-fidelity (owed axis; 6 prior reviews checked citation metadata, none verbatim-checked attributed quotes)
+- **Word count**: 3992 → 3992 (+0, length-neutral — article near topics hard ceiling)
+- **Critical issues addressed**: 1 (Baddeley episodic-buffer quote "accessed by" → verbatim "accessible to conscious awareness"; summary-as-quotation near-miss)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quote ledger**: Vadillo/Soto/Shanks 2026 (niaf046, N=531, 19 labs) — verbatim correct; Baddeley 2000 — corrected to verbatim
+- **ai_system**: held at claude-opus-4-5-20251101 (minor same-length fix, not re-authored)
+- **Output**: [[reviews/deep-review-2026-07-12-language-recursion-and-consciousness]]
+
 ## 2026-07-12T12:54:37+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Kripke's A Posteriori Necessity Argument Against Materialism
