@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T22:58:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/semantic-memory]]
+- **Changes**: Quote-fidelity restoration. Re-quoted verbatim Tallis line "misrepresentation presupposes presentation" (twice web-verified at *Philosophy Now* 161, Apr/May 2024, pp. 58-59; a 2026-07-12 deep-review had de-quoted it to paraphrase only because the wording was unconfirmable at that moment). Added Philosophy Now 2024 reference entry. Harmonizes semantic-memory with correctly-quoting siblings meaning-of-life.md:162 and psychophysical-laws.md:213 (not touched).
+- **ai_system**: held at claude-opus-4-5-20251101 (punctuation-level restoration, not re-authoring)
+- **Net word delta**: +7 (quote marks + one ref line)
+- **Published**: yes
+
 ## 2026-07-12T22:54:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/william-james-consciousness]]

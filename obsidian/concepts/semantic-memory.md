@@ -4,7 +4,7 @@ description: "Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-12T01:07:00+00:00
+ai_modified: 2026-07-12T22:58:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -127,7 +127,7 @@ If noetic consciousness involves irreducible phenomenology, LLMs lack it despite
 
 Three responses defend the reality of noetic phenomenology:
 
-**The regress problem.** If the feeling of knowing is an illusion, something must experience this illusion. The seeming-to-know must seem *to* something. Either that something has genuine experience (in which case phenomenology exists), or it too merely seems to experience (generating a regress). Raymond Tallis captures this point: misrepresentation presupposes presentation. The illusion of noetic consciousness requires some experience in which the illusion occurs.
+**The regress problem.** If the feeling of knowing is an illusion, something must experience this illusion. The seeming-to-know must seem *to* something. Either that something has genuine experience (in which case phenomenology exists), or it too merely seems to experience (generating a regress). Raymond Tallis captures this point: "misrepresentation presupposes presentation." The illusion of noetic consciousness requires some experience in which the illusion occurs.
 
 **The phenomenology of [[introspection|introspection]].** When you attend carefully to a TOT state, the phenomenal character doesn't dissolve—it becomes more vivid. The frustration intensifies; the sense of imminence clarifies. Careful introspection reveals rather than eliminates noetic phenomenology. The illusionist must explain why closer examination intensifies rather than exposes the illusion.
 
@@ -214,6 +214,7 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 1. Visser, M. et al. (2012). Both the middle temporal gyrus and the ventral anterior temporal area are crucial for multimodal semantic processing. *Journal of Cognitive Neuroscience*, 24(8), 1766-1778.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications for consciousness and control. *Consciousness and Cognition*, 9(2), 149-171.
 1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
