@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T19:22:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Sellars' Manifest and Scientific Images
+- **Output**: [[research/sellars-manifest-and-scientific-images-2026-07-12]]
+- **Sources consulted**: 7
+
 ## 2026-07-12T19:14:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
