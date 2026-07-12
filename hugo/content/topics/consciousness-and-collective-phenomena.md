@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-05 21:33:10+00:00
+ai_modified: 2026-07-12 18:07:16+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Groups are not conscious, but collective intentionality requires in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 21:33:10+00:00
+last_deep_review: 2026-07-12 18:07:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ If groups are not conscious, why does collective phenomena require consciousness
 
 ### Understanding, Not Just Tracking
 
-John Searle distinguishes "we-intentionality" from parallel individual intentions: each participant intends the joint activity *as* joint, aware that the other shares this intention. This is metarepresentational — a form of [metacognition](/concepts/metacognition/) requiring the capacity to represent representations *as* representations. You must represent the shared goal *as* shared, represent the other's commitment *as* a commitment, and represent your own role *as* a role in something larger. The "as" in each case marks where mere information processing becomes genuine understanding.
+John Searle distinguishes "we-intentions" from parallel individual intentions: each participant intends the joint activity *as* joint, aware that the other shares this intention. This is metarepresentational — a form of [metacognition](/concepts/metacognition/) requiring the capacity to represent representations *as* representations. You must represent the shared goal *as* shared, represent the other's commitment *as* a commitment, and represent your own role *as* a role in something larger. The "as" in each case marks where mere information processing becomes genuine understanding.
 
 Michael Bratman's account of shared cooperative activity requires mutual responsiveness, commitment to the joint activity, and commitment to mutual support — with sub-plans that mesh. The meshing requirement demands representing both the joint goal and the other's approach to it. The [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) thesis holds that genuine intentionality derives from phenomenal consciousness. If correct, the metarepresentational demands of collective intentionality inherit the consciousness requirement.
 
@@ -189,6 +189,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 1. Schmid, H. B. (2009). *Plural Action: Essays in Philosophy and Social Science*. Springer.
+1. Schmid, H. B. (2014). "Plural Self-Awareness." *Phenomenology and the Cognitive Sciences*, 13(1), 7-24.
 1. Zahavi, D. (2015). "You, Me, and We: The Sharing of Emotional Experiences." *Journal of Consciousness Studies*, 22(1-2), 84-101.
 1. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
 1. Husserl, E. (1931). *Cartesian Meditations*. Kluwer Academic Publishers.

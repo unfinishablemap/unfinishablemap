@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-07-07 17:58:55+00:00
+ai_modified: 2026-07-12 18:24:30+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Indian, Islamic, African, and Japanese traditions independently rec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 06:13:00+00:00
+last_deep_review: 2026-07-12 18:24:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ Ibn Sīnā (Avicenna, 980–1037 CE) produced one of the most important pre-mode
 
 Ibn Sīnā answers yes. The Flying Man would affirm his own existence without any awareness of his body. Since he is aware of himself but *not* aware of his body, self and body cannot be identical. Self-awareness is independent of bodily awareness.
 
-As Peter Adamson notes, "He takes it as obvious that this being would recognize its own existence without argumentative proof." The argument anticipates Descartes' *cogito* by six centuries and bears on the [explanatory-gap](/concepts/explanatory-gap/): physical processes are neither necessary nor sufficient for self-awareness.
+As Peter Adamson notes, Avicenna takes it as obvious that this being would recognize its own existence without argumentative proof. The argument anticipates Descartes' *cogito* by six centuries and bears on the [explanatory-gap](/concepts/explanatory-gap/): physical processes are neither necessary nor sufficient for self-awareness.
 
 Adamson identifies a counterargument: awareness of something without awareness of all its properties does not prove distinctness. One might simply fail to notice a property. This mirrors contemporary objections to conceivability arguments—the same dialectic, independently discovered.
 
@@ -106,7 +106,7 @@ The Map's response is that the explanatory gap surfaces even without Cartesian a
 
 Nishida Kitarō (1870–1945), founder of Japan's Kyoto School, attempted to synthesise Western philosophy with Zen Buddhism. His concept of *pure experience* (*junsui keiken*) goes to the root of the hard problem.
 
-"The word 'pure' signifies a condition of true experience itself without the addition of the least thought or reflection," Nishida writes in *An Inquiry Into the Good*. "It refers to that moment of seeing a color or hearing a sound before one has judged what color or sound it is." Subject and object are subsequent differentiations within pure experience, not its preconditions.
+"By pure I am referring to the state of experience just as it is without the least addition of deliberative discrimination," Nishida writes in *An Inquiry Into the Good*. "The moment of seeing a color or hearing a sound is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be." Subject and object are subsequent differentiations within pure experience, not its preconditions.
 
 Nishida dissolves the hard problem by denying that consciousness needs to be explained by physical processes. Pure experience precedes and grounds both subject and object. The hard problem arises only when one starts from the object side and tries to derive the subject. Start from pure experience, and there is no gap to bridge.
 

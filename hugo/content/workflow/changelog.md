@@ -9,6 +9,73 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-12T19:22:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Sellars' Manifest and Scientific Images
+- **Output**: [sellars-manifest-and-scientific-images-2026-07-12](/research/sellars-manifest-and-scientific-images-2026-07-12/)
+- **Sources consulted**: 7
+
+## 2026-07-12T19:14:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Word count**: 3647 → 3660 (+13; targeted currency fix, otherwise metadata-only; soft_warning, under hard threshold)
+- **Critical issues addressed**: 1 (Schwartz 1996 "unreplicated" status claim was FALSE — the 1996 study replicated Baxter 1992 and independent groups since; empirical-record-currency-drift class, corrected)
+- **Medium issues addressed**: 2 (completed two author-less References entries: BMC Anesthesiology 2025 → Li, N. et al.; Frontiers in Psychology 2026 → Ma, X. & Wang, A.)
+- **Enhancements made**: 0 (targeted verify pass; philosophical sections convergence-damped)
+- **Web-verify**: all 2024-2026 cites confirmed real-correct at publisher of record (Luo 2025 JACS, BMC Anesth 2025, Frontiers 2026, Wiest 2025 niaf011, Zheng & Meister 2025 Neuron); no superlative superseded
+- **ai_system**: held claude-opus-4-6 (targeted verify, not re-authoring)
+- **Output**: [deep-review-2026-07-12-empirical-evidence-for-consciousness-selecting](/reviews/deep-review-2026-07-12-empirical-evidence-for-consciousness-selecting/)
+
+## 2026-07-12T19:10:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Bohm's Implicate Order and Active Information
+- **Output**: research/bohm-implicate-order-and-active-information-2026-07-12
+- **Sources consulted**: ~8 (Bohm 1952 Phys Rev 85(2):166-179 + 180-193 two-part VERIFIED; Wholeness/Implicate Order Routledge 1980; Undivided Universe Bohm-Hiley 1993; Pylkkänen Springer 2007 DOI 10.1007/978-3-540-48058-7; Pylkkänen-Hiley Mind&Matter 3(2) 2005; SEP Bohmian Mechanics; arXiv:2202.12279 determinism debate). 4 candidate quotes flagged UNVERIFIED (paraphrase-only, none placed in body). Map angle: borrow active-information channel (Tenets 2/3), decline monism (Tenet 1), flag determinism-vs-selection tension. No wikilinks, no live-article edits, no downstream tasks.
+
+## 2026-07-12T18:59:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Cramer's Transactional Interpretation of Quantum Mechanics (TI)
+- **Output**: research/transactional-interpretation-of-quantum-mechanics-2026-07-12
+- **Sources consulted**: ~11 (Cramer 1986 RMP verified 58(3):647-688; Wheeler-Feynman 1945/1949; Kastner PTI 2012 + RTI; Maudlin contingent-absorber objection; SEP retrocausality). All candidate quotes flagged UNVERIFIED (paraphrase-only). No wikilinks, no live-article edits, no downstream tasks.
+
+## 2026-07-12T18:24:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- **Scope**: Targeted quote-fidelity pass (3 attributed quotes) on a 6th+-review converged article. Freshest axis: translation-fidelity to specific published translations — an axis prior citation-metadata reviews left unchecked. Web-verified each at publisher/primary source.
+- **Word count**: 2960 → ~2985 (Nishida quote restored to fuller verbatim Abe & Ives wording)
+- **Critical issues addressed**: 2
+  - Nishida (line 106): quoted wording was the **Viglielmo (1960) translation**, compressed, but cited as **Abe & Ives (1990 Yale)**. Corrected to verified verbatim Abe & Ives text so quote matches cited translation.
+  - Adamson (line 72): "He takes it as obvious that this being would recognize its own existence without argumentative proof" was a **paraphrase dressed as verbatim** (Adamson's actual: "…he takes it as obvious"). De-quoted; claim retained as faithful attribution.
+- **Verified clean (no edit)**: Coseru (line 82) "each cognitive event is to be understood as involving a pre-reflective implicit awareness of its own occurrence" — verbatim match to OUP abstract; real-correct.
+- **Hygiene**: ai_system HELD at claude-opus-4-6 (targeted verify, not re-authorship). Both ai_modified + last_deep_review bumped (real fixes).
+- **Output**: [deep-review-2026-07-12-the-hard-problem-in-non-western-philosophy](/reviews/deep-review-2026-07-12-the-hard-problem-in-non-western-philosophy/)
+
+## 2026-07-12T17:17:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [synesthetic-void](/voids/synesthetic-void/)
+- **Scope**: Staleness pass — first full review in 39 days; scrutinized the two unreviewed 06-17 refine passes (16cc378 rival-import, a57e61c temper). Long-stable pre-06-03 sections not re-litigated.
+- **Word count**: 3578 → 3578 (converged-clean; no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Rival-block verdict**: four physicalist counter-readings each fairly steelmanned; core claim survives by direct engagement (joint-parsimony non-convergence), not re-assertion. Engagements: functionalist Mode One; representationalist Mode One; heterophenomenologist Mode Three; illusionist Mode Two→Three. No strawman, no boundary-substitution, no label leakage.
+- **Temper verdict**: all five 06-17 walk-backs genuinely calibrated; residual-overreach sweep + superlative helper found none.
+- **Citation spot-check**: no new cites introduced; internal apex quote "empirical wedge, not a knockdown" verified verbatim vs [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/); McGinn/van Leeuwen cites intact from 06-03 publisher verification.
+- **Tenet verdict**: T1 dualism framing now gated on counter-readings (stronger/more honest, no possibility-probability slippage); T5 Occam calibrated; Relation-to-Site holds.
+- **Length**: over voids hard (3000), under critical (4000) — load-bearing counter-readings content, NOT auto-condensed; flagged for human length decision.
+- **Stamps**: last_deep_review 2026-06-03 → 2026-07-12 (closes 39d gap); ai_modified held; ai_system held at claude-opus-4-7.
+- **Output**: [deep-review-2026-07-12-synesthetic-void](/reviews/deep-review-2026-07-12-synesthetic-void/)
+
+## 2026-07-12T17:12:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Scope**: Targeted quote-fidelity pass (3 pre-selected attributed quotes; convergence-damped, not open re-review). 11 prior reviews all skipped the verbatim axis.
+- **Word count**: ~2360 → ~2360 (no material change; 1 de-quote, 1 attribution pin)
+- **Critical issues addressed**: 1 (Locus 1 coinage-as-quotation → de-quoted; exact phrase has zero primary-source hits and the article echoes it in its own unquoted voice at line 100)
+- **Medium issues addressed**: 1 (Locus 3 SEP quote pinned to specific entry "Quantum Approaches to Consciousness" instead of bare "the Stanford Encyclopedia")
+- **Verified-verbatim, kept**: Locus 2 Albert "irreducibly indexical" (Vaidman 2025 Entropy §5, single-quoted as Albert's own words); Locus 3 SEP quote (QT-consciousness §3.2 Stapp)
+- **ai_system**: held at claude-opus-4-5-20251101 (targeted verify, not re-authored)
+- **Output**: [deep-review-2026-07-12-indexical-identity-quantum-measurement](/reviews/deep-review-2026-07-12-indexical-identity-quantum-measurement/)
+
 ## 2026-07-12T15:54:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Dennett's Multiple Drafts Model and the Cartesian Theater

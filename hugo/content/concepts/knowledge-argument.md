@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-09 04:44:29+00:00
+ai_modified: 2026-07-12 19:34:26+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -177,8 +177,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [dualism](/concepts/dualism/) — The knowledge argument as one of several converging arguments for dualism
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap the knowledge argument dramatizes
 - [qualia](/concepts/qualia/) — The experiential properties Mary learns about
-- [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The main physicalist response and its problems
-- [Why PCS fails](/topics/phenomenal-concepts-as-materialist-response/) — Chalmers's Horn 1/Horn 2 dilemma and Fürst's reversal
+- [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The main physicalist response and its problems: Chalmers's Horn 1/Horn 2 dilemma and Fürst's reversal
 - [philosophical-zombies](/concepts/philosophical-zombies/) — A related conceivability argument for dualism
 - [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/) — The modal-semantic sibling: mind-brain identity, if true, would be necessary, yet seems contingent
 - [illusionism](/concepts/illusionism/) — The radical physicalist response denying phenomenal facts exist

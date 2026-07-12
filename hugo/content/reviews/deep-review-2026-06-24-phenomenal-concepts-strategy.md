@@ -47,7 +47,7 @@ publisher-of-record web-verify pass was run on the **new** citations this run.
 
 The three new-to-this-file but already-corpus-present cites (Chalmers 2006, Carruthers &
 Veillet 2007, Ball 2009) are corroborated by the sibling article's 2026-06-05 / 2026-06-21
-publisher-of-record ledger ([topics/phenomenal-concepts-as-materialist-response.md](/topics/phenomenal-concepts-as-materialist-response/) —
+publisher-of-record ledger ([topics/phenomenal-concepts-as-materialist-response.md](/concepts/phenomenal-concepts-strategy/) —
 all found real-correct there; the References blocks now match across both files). The two
 **2025** cites — never previously web-verified in this corpus, high fabrication-risk class
 — were independently verified at publisher of record this run:

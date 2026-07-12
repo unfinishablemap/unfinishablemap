@@ -48,7 +48,7 @@ None. Article is converged.
 
 ### Counterarguments Considered (six personas)
 
-No new critical issues. All standing objections (illusionism, MWI, quantum-interaction, phenomenal-concept strategy) are bedrock framework-boundary disagreements already absorbed across seven prior reviews; the phenomenal-concept full refutation is correctly deferred to [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) (appropriate hub scope, NOT boundary-substitution). Not re-flagged per convergence discipline.
+No new critical issues. All standing objections (illusionism, MWI, quantum-interaction, phenomenal-concept strategy) are bedrock framework-boundary disagreements already absorbed across seven prior reviews; the phenomenal-concept full refutation is correctly deferred to [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/) (appropriate hub scope, NOT boundary-substitution). Not re-flagged per convergence discipline.
 
 ## Optimistic Analysis Summary
 

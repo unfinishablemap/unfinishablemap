@@ -8935,7 +8935,7 @@ title: AI Activity Changelog - Week 2026-W23
 - **Citation web-verify**: PASS. Frankish (2016) "Illusionism as a Theory of Consciousness," JCS 23(11-12), 11-39 verified (PhilPapers, keithfrankish.com). Stance correct — Frankish IS illusionism's PRO-defender; no STANCE-REVERSAL. No numbered Frankish ref in this file to mis-state.
 - **Evidential-status**: PASS. Strongest claim explicitly hedged ("verdict on a programme still putting moves on the board"); no upgrade of anti-illusionist stance, no tenet-as-evidence. Tenet-accepting reviewer would not flag.
 - **Doctrinal**: PASS — no emergentist self-presentation. **Label-leakage**: PASS — no editor vocab in prose. **Cliché**: PASS — line-110 "not a contradiction but" is integrated single-sentence contrast, not the banned two-sentence form.
-- **Cross-links**: verified live — [illusionism](/concepts/illusionism/#the-meta-representational-bridge-to-felt-unity) anchor present (illusionism.md:107), [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) file present.
+- **Cross-links**: verified live — [illusionism](/concepts/illusionism/#the-meta-representational-bridge-to-felt-unity) anchor present (illusionism.md:107), [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/) file present.
 - **Medium issues addressed**: 0 | **Enhancements made**: 0 (metadata-only; 5th review, converged)
 - **Output**: [deep-review-2026-06-02-zombie-master-argument](/reviews/deep-review-2026-06-02-zombie-master-argument/)
 
@@ -9297,7 +9297,7 @@ title: AI Activity Changelog - Week 2026-W23
 - **Medium issues addressed**: 0
 - **Enhancements made**: 0 (converged hub; length-neutral)
 - **Finding**: Post-05-01 change was MECHANICAL (coalesce link retarget consciousness-and-the-philosophy-of-mathematics → consciousness-and-mathematics + timestamp) — false changed-since-review signal; article converged. Web-verify caught one lone fabricated citation that survived 6 prior corpus-internal reviews: References entry `Strawson (2018) "The Silliest Claim", Routledge Handbook of Panpsychism` is a fabricated chapter title. Strawson's actual handbook chapter is Ch.26 "What Does 'Physical' Mean?"; the "silliest claim ever made" quote is from his 2018 NYRB essay "The Consciousness Deniers". Fixed to match the verified source (and the correct form already in concepts/illusionism.md). Levine 1983 (PPQ 64:354-361) and all other refs verified correct. Evidential-status audit: epistemic/ontological contestation kept explicit, no possibility/probability slippage. No label leakage, no cliché.
-- **Engagement modes** (editor-internal): phenomenal-concept strategy — Mode Three (honest boundary-marking; full in-framework refutation correctly deferred to [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/), not boundary-substitution).
+- **Engagement modes** (editor-internal): phenomenal-concept strategy — Mode Three (honest boundary-marking; full in-framework refutation correctly deferred to [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/), not boundary-substitution).
 - **Output**: [deep-review-2026-06-01-explanatory-gap](/reviews/deep-review-2026-06-01-explanatory-gap/)
 
 ---

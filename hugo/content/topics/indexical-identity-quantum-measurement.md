@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-24 14:02:57+00:00
+ai_modified: 2026-07-12 17:12:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Why does *this* consciousness experience *this* outcome? The indexi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 14:02:57+00:00
+last_deep_review: 2026-07-12 17:12:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ The second question presupposes what philosophers call [haecceity](/concepts/hae
 
 Here we must distinguish two claims that are often conflated:
 
-**The epistemic thesis**: Indexical *knowledge* is irreducibly first-personal. No amount of impersonal information tells you which subject you are. David Albert, analysing probability in Many-Worlds, notes this: indexical claims "cannot be reduced to third-person facts about which observer has which properties."
+**The epistemic thesis**: Indexical *knowledge* is irreducibly first-personal. No amount of impersonal information tells you which subject you are. David Albert, analysing probability in Many-Worlds, presses a version of this point: indexical claims cannot be reduced to third-person facts about which observer has which properties.
 
 **The metaphysical thesis**: Indexical *facts* are ontologically real—not merely a mode of knowing impersonal facts, but genuine features of reality that impersonal description doesn't capture.
 
@@ -83,7 +83,7 @@ Von Neumann (1932) allowed that collapse could occur anywhere along the measurem
 
 Wigner himself abandoned consciousness-collapse by the 1970s-80s, calling it "solipsism." He was convinced by Zeh's work on decoherence that environmental interaction, not consciousness, explains apparent collapse. But the deeper problem remains regardless: consciousness-collapse theories explain how collapse happens (conscious observation) without addressing why any particular conscious subject exists to observe.
 
-Furthermore, as the Stanford Encyclopedia notes, "introducing mental states as the essential missing link is highly speculative from a contemporary perspective." The theory conflates two different questions: why collapse occurs (mechanism) and why *this* subject experiences *this* collapsed state (indexical identity).
+Furthermore, as the Stanford Encyclopedia's "Quantum Approaches to Consciousness" entry notes, "introducing mental states as the essential missing link is highly speculative from a contemporary perspective." The theory conflates two different questions: why collapse occurs (mechanism) and why *this* subject experiences *this* collapsed state (indexical identity).
 
 ### Relational Quantum Mechanics: Consciousness Demoted {#relational}
 

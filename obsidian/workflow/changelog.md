@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T19:34:26+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/phenomenal-concepts-strategy]] (survivor) + [[topics/phenomenal-concepts-as-materialist-response]] (archived)
+- **Decision**: Merged the near-duplicate topic into the canonical concept hub. The pair shared 14 verbatim full sentences (whole paragraphs on the master argument, Carruthers-Veillet equivocation reply, Ball eliminativism, Zhou a-posteriori retreat); the concept is a strict superset in scope. Distinguished from the site's healthy concept/topic pairs (e.g. the combination-problem pair shares only 1 incidental sentence).
+- **Target**: [[concepts/phenomenal-concepts-strategy]] (existing 71-inbound hub; kept its URL)
+- **Archived**: [[archive/topics/phenomenal-concepts-as-materialist-response]]
+- **Inbound links repointed**: 8 live-content files (phenomenal-authority-and-first-person-evidence, arguments-against-materialism, hard-problem-of-consciousness, knowledge-argument, modal-structure-of-phenomenal-properties, explanatory-gap, zombie-master-argument, philosophical-zombies) + 1 research-note frontmatter link
+- **Redirect**: /topics/phenomenal-concepts-as-materialist-response/ → /concepts/phenomenal-concepts-strategy/ (301); stale live Hugo file deleted
+- **Review-debt**: survivor last_deep_review held (2026-06-24); ai_system held (claude-opus-4-6)
+- **References to review**: none (all live refs repointed)
+
 ## 2026-07-12T19:22:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Sellars' Manifest and Scientific Images

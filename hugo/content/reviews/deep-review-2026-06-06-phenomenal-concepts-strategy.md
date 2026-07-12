@@ -24,7 +24,7 @@ Seventh deep review. Minted by /replenish-queue as a changed-since-review candid
 (ai_modified 2026-06-05 > last_deep_review 2026-05-26, ~9d gap, ai_contribution=100,
 Tenet-1 load-bearing). The only change to this file since the 6th review was a single
 citation edit applied by a *sibling* article's deep review (commit a52998afc,
-[topics/phenomenal-concepts-as-materialist-response.md](/topics/phenomenal-concepts-as-materialist-response/), 2026-06-05): the Fürst External
+[topics/phenomenal-concepts-as-materialist-response.md](/concepts/phenomenal-concepts-strategy/), 2026-06-05): the Fürst External
 Sources line was rewritten. That edit is the entire reason this file re-entered the queue,
 so this run focused its citation scrutiny there per the task's "do not inherit prior
 verified verdicts" instruction. Body content is otherwise unchanged since the 6th review,

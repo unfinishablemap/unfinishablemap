@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-07-11T11:10:00+00:00
+ai_modified: 2026-07-12T19:34:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
-  - "[[phenomenal-concepts-as-materialist-response]]"
+  - "[[phenomenal-concepts-strategy]]"
   - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
   - "[[ethics-under-dualism]]"
@@ -128,7 +128,7 @@ Applied to consciousness: pain *seems to hurt* — to have a qualitative feel be
 
 Chalmers argues that we stand in a basic epistemic relation of *acquaintance* with phenomenal states. Direct phenomenal concepts have their content partially constituted by the phenomenal quality itself — the concept of *this redness* is partly made of the redness it represents (Chalmers 2003). If phenomenal knowledge cannot be deduced *a priori* from physical truths, then phenomenal qualities are not physical properties. The [[knowledge-argument]] makes the same move: Mary, with all physical knowledge about colour vision, learns something new upon seeing red — phenomenal acquaintance with redness exceeds what physical description provides (Jackson 1982).
 
-The main physicalist response is the [[phenomenal-concepts-as-materialist-response|phenomenal concepts strategy]]: first-person concepts pick out physical states under a special mode of presentation, just as "water" and "H₂O" refer to the same substance under different guises. Chalmers' counter: if phenomenal concepts are constituted by phenomenal qualities, the concept/referent gap collapses. For consciousness, appearance *is* reality.
+The main physicalist response is the [[phenomenal-concepts-strategy|phenomenal concepts strategy]]: first-person concepts pick out physical states under a special mode of presentation, just as "water" and "H₂O" refer to the same substance under different guises. Chalmers' counter: if phenomenal concepts are constituted by phenomenal qualities, the concept/referent gap collapses. For consciousness, appearance *is* reality.
 
 The acquaintance relation has an ontological counterpart at the mechanism layer: an epistemology grounded in direct phenomenal acquaintance owes an ontology that can carry the relation. The [[mechanism-costs-dualism-thickness-quadrants#q1|Q1 cell of the mechanism-costs cartography]] identifies the corresponding debt as an *authority law* — a non-stipulative specification of what makes a mental rule authoritative over the physical state's default causal profile — and assigns the live open problem to the [[interface-formalization-void]]. Phenomenally-grounded epistemology and mechanism-grounded ontology are the same problem at different layers.
 
@@ -224,7 +224,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 - [[illusionism]] — The strongest denial of phenomenal consciousness
 - [[eliminative-materialism]] — Where the bedrock disagreement over theory-ladenness lives
 - [[constitutive-vs-referring-observation]] — Structural distinction underwriting layer-1's apodictic standing
-- [[phenomenal-concepts-as-materialist-response]] — The main physicalist response
+- [[phenomenal-concepts-strategy]] — The main physicalist response
 - [[argument-from-reason]] — The broader case against epiphenomenalism
 - [[observation-and-measurement-void]] — Why strict calibration is structurally impossible
 - [[galilean-exclusion]] — How modern science excluded the subjective

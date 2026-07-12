@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-06-21T22:42:00+00:00
 human_modified: null
-ai_modified: 2026-07-09T04:44:29+00:00
+ai_modified: 2026-07-12T19:34:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,8 +175,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[dualism]] — The knowledge argument as one of several converging arguments for dualism
 - [[explanatory-gap]] — The conceptual gap the knowledge argument dramatizes
 - [[qualia]] — The experiential properties Mary learns about
-- [[phenomenal-concepts-strategy]] — The main physicalist response and its problems
-- [[phenomenal-concepts-as-materialist-response|Why PCS fails]] — Chalmers's Horn 1/Horn 2 dilemma and Fürst's reversal
+- [[phenomenal-concepts-strategy]] — The main physicalist response and its problems: Chalmers's Horn 1/Horn 2 dilemma and Fürst's reversal
 - [[philosophical-zombies]] — A related conceivability argument for dualism
 - [[kripke-a-posteriori-necessity-argument]] — The modal-semantic sibling: mind-brain identity, if true, would be necessary, yet seems contingent
 - [[illusionism]] — The radical physicalist response denying phenomenal facts exist

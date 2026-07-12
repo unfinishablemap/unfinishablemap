@@ -4,10 +4,11 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-24T12:45:58+00:00
+ai_modified: 2026-07-12T19:34:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
+  - "[[arguments-against-materialism]]"
 concepts:
   - "[[qualia]]"
   - "[[explanatory-gap]]"
@@ -16,17 +17,21 @@ concepts:
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[knowledge-argument]]"
+  - "[[dualism]]"
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
   - "[[decoherence]]"
 related_articles:
   - "[[tenets]]"
+  - "[[modal-structure-of-phenomenal-properties]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-06-24T12:45:58+00:00
+coalesced_from:
+  - "/topics/phenomenal-concepts-as-materialist-response/"
 ---
 
 The phenomenal concepts strategy (PCS) is the most sophisticated physicalist response to the [[explanatory-gap|explanatory gap]]. Rather than denying that consciousness seems puzzling, PCS locates the puzzle in our *concepts* rather than in reality. The gap between physical descriptions and conscious experience, it claims, reflects how we think about experience—not something non-physical in experience itself.
@@ -189,6 +194,7 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 
 ### Site Content
 - [[language-and-consciousness]] — How reference to consciousness resists standard theories of meaning
+- [[modal-structure-of-phenomenal-properties]] — How the modal profile of phenomenal concepts sharpens the master argument
 - [[explanatory-gap]] — The gap PCS tries to explain away
 - [[philosophical-zombies]] — Chalmers's conceivability argument
 - [[qualia]] — The experiential properties at issue

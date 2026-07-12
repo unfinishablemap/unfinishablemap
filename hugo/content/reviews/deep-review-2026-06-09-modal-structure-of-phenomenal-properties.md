@@ -47,7 +47,7 @@ None. Fifth consecutive review with no critical issues.
 
 No misattributions, no dropped qualifiers, no source/Map conflation, no internal contradiction. No superlative/empirical-record claims present (the article is modal/conceptual, not empirical), so no currency sweep needed.
 
-**Note on the trigger's Loar/Stoljar premise**: the task notes asked to web-verify Loar/Stoljar attributions. This article does **not** cite Loar or Stoljar inline or in References. The phenomenal-concepts strategy is engaged here via Chalmers's "master argument" (correctly attributed to Chalmers 2006), with the full Loar-recognitional-concepts / Stoljar critique deferred to the linked concept page [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) and the dedicated topic [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/). The PCS concept page correctly attributes recognitional concepts to Brian Loar and cites Stoljar 2005 (*Mind & Language* 20(5):469-494). Division of labour is sound — this article supplies the modal backbone; it does not strawman PCS.
+**Note on the trigger's Loar/Stoljar premise**: the task notes asked to web-verify Loar/Stoljar attributions. This article does **not** cite Loar or Stoljar inline or in References. The phenomenal-concepts strategy is engaged here via Chalmers's "master argument" (correctly attributed to Chalmers 2006), with the full Loar-recognitional-concepts / Stoljar critique deferred to the linked concept page [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) and the dedicated topic [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/). The PCS concept page correctly attributes recognitional concepts to Brian Loar and cites Stoljar 2005 (*Mind & Language* 20(5):469-494). Division of labour is sound — this article supplies the modal backbone; it does not strawman PCS.
 
 ### Calibration Check (Possibility/Probability Slippage)
 
@@ -61,7 +61,7 @@ Type-B physicalism is engaged at full strength before rebuttal: "The type-B phys
 
 **Cross-link reciprocation gap** (deferred — requires editing sibling files, out of scope for length-neutral single-file review). The article links to the phenomenal-concepts / knowledge-argument / conceivability cluster, but four of those targets do not link back:
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — 0 back-links
-- [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) — 0 back-links
+- [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/) — 0 back-links
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — 0 back-links
 - [knowledge-argument](/concepts/knowledge-argument/) — 0 back-links
 - [zombie-master-argument](/concepts/zombie-master-argument/) — reciprocates (2 references). 
@@ -93,7 +93,7 @@ None in-article (all outbound links present and resolving). Reciprocation gap de
 
 ## Remaining Items
 
-- Deferred: reciprocate the cluster back-links from [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/), [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/), [knowledge-argument](/concepts/knowledge-argument/). P3 follow-up.
+- Deferred: reciprocate the cluster back-links from [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/), [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/), [knowledge-argument](/concepts/knowledge-argument/). P3 follow-up.
 
 ## Stability Notes
 

@@ -55,7 +55,7 @@ Named-opponent engagements in the materialist-responses section:
 
 - **Eliminativism (Churchland)**: Mode Two — self-undermining-move identification, with honest "eliminativists dispute this characterisation" caveat. Charitable.
 - **Illusionism (Frankish/Dennett)**: Mode Two — the regress objection ("seeming is itself experiential") derives from illusionism's own explanatory burden; metaproblem sharpening attributed correctly.
-- **Phenomenal Concepts Strategy (Loar/Papineau/Balog)**: Mode Two/mixed — circularity rejoinder from the strategy's own demonstrative account; defers full case to [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/).
+- **Phenomenal Concepts Strategy (Loar/Papineau/Balog)**: Mode Two/mixed — circularity rejoinder from the strategy's own demonstrative account; defers full case to [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/).
 - **Framework-dependence / Chinese-traditions challenge**: Mode Three — honestly marked as a live conceptual challenge ("What Would Challenge" #5), not dressed as refuted.
 
 No boundary-substitution. **No editor-label leakage** (grep confirmed: zero occurrences of forbidden vocabulary in article body).

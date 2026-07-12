@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-29
-**Article**: [Why Phenomenal Concepts Are Physicalism's Best Defence — and Why It Fails](/topics/phenomenal-concepts-as-materialist-response/)
+**Article**: [Why Phenomenal Concepts Are Physicalism's Best Defence — and Why It Fails](/concepts/phenomenal-concepts-strategy/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

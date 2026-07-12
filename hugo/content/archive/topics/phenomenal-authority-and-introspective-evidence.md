@@ -107,7 +107,7 @@ What would count as a defeater? A successful explanation of *why* experience pre
 
 The central question is whether the epistemic directness of phenomenal access implies the ontological distinctness of phenomenal states. Chalmers argues that it does. If direct phenomenal concepts are constituted by phenomenal qualities, and if phenomenal knowledge cannot be deduced *a priori* from physical truths, then phenomenal qualities are not physical properties (Chalmers 2003). The [knowledge-argument](/concepts/knowledge-argument/) makes the same move: Mary, who has all physical knowledge about colour vision, learns something new upon seeing red. What she gains—[phenomenal acquaintance](/concepts/phenomenal-acquaintance/) with redness—exceeds what physical description provides (Jackson 1982).
 
-The main physicalist response is the [phenomenal concepts strategy](/topics/phenomenal-concepts-as-materialist-response/): first-person concepts pick out physical states under a special mode of presentation, just as "water" and "H₂O" refer to the same substance under different guises. Chalmers' counter: if phenomenal concepts are constituted by phenomenal qualities (as the acquaintance model holds), the concept/referent gap collapses. For consciousness, appearance *is* reality—what it is like to see red just *is* the redness. The conceptual duality the physicalist needs has no room to operate.
+The main physicalist response is the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/): first-person concepts pick out physical states under a special mode of presentation, just as "water" and "H₂O" refer to the same substance under different guises. Chalmers' counter: if phenomenal concepts are constituted by phenomenal qualities (as the acquaintance model holds), the concept/referent gap collapses. For consciousness, appearance *is* reality—what it is like to see red just *is* the redness. The conceptual duality the physicalist needs has no room to operate.
 
 ## Rorty's Dilemma: The Unstable Middle Ground
 
@@ -168,7 +168,7 @@ How consciousness science treats phenomenal authority determines what it can dis
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as validation
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The broader case for taking non-materialist theories seriously
 - [illusionism](/concepts/illusionism/) — The strongest denial of phenomenal consciousness
-- [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) — The main physicalist response to phenomenal authority
+- [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/) — The main physicalist response to phenomenal authority
 - [argument-from-reason](/topics/argument-from-reason/) — The broader case against epiphenomenalism
 
 ## References

@@ -4,7 +4,7 @@ description: "Possibility, necessity, and conceivability reveal that phenomenal 
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-02T08:32:09+00:00
+ai_modified: 2026-07-12T19:34:26+00:00
 last_deep_review: 2026-06-09T22:07:46+00:00
 draft: false
 topics:
@@ -92,7 +92,7 @@ The [[phenomenal-concepts-strategy]] offers the most sophisticated physicalist r
 
 Chalmers's "master argument" against this strategy exploits modal structure directly. Consider a zombie: it would have the same brain states and therefore the same conceptual apparatus, including whatever makes phenomenal concepts "special." If that specialness is physically explicable, the zombie has it too — yet the zombie doesn't face a genuine hard problem. The physicalist must then explain why *we* find consciousness puzzling in exactly the way the zombie (mistakenly) does. If phenomenal concepts' specialness is *not* physically explicable, there is a non-physical element in our concepts — and the explanatory gap is real, not merely conceptual.
 
-The modal structure of the dilemma is precise: either the special feature of phenomenal concepts is modally entailed by physical properties (and zombies have it, making the gap illusory for them too) or it is not (making the gap ontological). No middle ground is available. For the full critical evaluation of how each PCS version fails this dilemma, see [[phenomenal-concepts-as-materialist-response|the case against the phenomenal concepts strategy]].
+The modal structure of the dilemma is precise: either the special feature of phenomenal concepts is modally entailed by physical properties (and zombies have it, making the gap illusory for them too) or it is not (making the gap ontological). No middle ground is available. For the full critical evaluation of how each PCS version fails this dilemma, see the [[phenomenal-concepts-strategy|phenomenal concepts strategy]] page.
 
 A more radical physicalist response — illusionism — bypasses the dilemma by denying that phenomenal properties exist in the form the modal arguments require. If there is nothing it is like to see red beyond the brain's *representing* that there is something it is like, then conceivability arguments lose their target. But illusionism faces its own modal problem: the representation itself is a physical state, and the question of why *that* physical state constitutes (or generates the illusion of) phenomenal consciousness re-enters through the same door.
 

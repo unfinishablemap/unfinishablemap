@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-06-26 23:18:16+00:00
+ai_modified: 2026-07-12 19:14:22+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Multiple independent empirical lines—evolutionary, cognitive, neu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 22:49:54+00:00
+last_deep_review: 2026-07-12 19:14:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ Clinical and neurosurgical evidence appears to separate conscious selection from
 
 **Supplementary motor area evidence.** Sjöberg's (2024) critical review of the supplementary motor area (SMA) resection literature argues that patients with the SMA resected retain the subjective sense of willing—reporting maximal effort to move—while losing voluntary movement execution. Automatic movements (walking, reading aloud) remain intact. If consciousness were identical to the neural machinery of movement initiation, removing that machinery should eliminate the experience of willing. It does not. The experience and the mechanism appear to come apart. (Sjöberg's piece synthesises the resection literature rather than reporting fresh clinical data, so the dissociation it draws inherits the limits of the underlying case series.)
 
-**OCD and directed attention.** Schwartz et al. (1996) found that patients who learn to cognitively reframe intrusive thoughts showed decreased caudate nucleus activity on PET imaging. The study was small (18 participants, only 9 new) and unreplicated, but the finding is suggestive: whatever performs the reframing has physical consequences. The directed attention producing these changes has the phenomenology of effort—patients report the reframing is difficult, requiring sustained concentration against compelling urges. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
+**OCD and directed attention.** Schwartz et al. (1996) found that patients who learn to cognitively reframe intrusive thoughts showed decreased caudate nucleus activity on PET imaging. The study was small (18 participants, only 9 new), but its caudate finding has been replicated—it confirmed an earlier result and independent groups have since reported similar changes—and remains suggestive: whatever performs the reframing has physical consequences. The directed attention producing these changes has the phenomenology of effort—patients report the reframing is difficult, requiring sustained concentration against compelling urges. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
 
 **Willed versus automatic attention.** Rajan et al. (2019) identified distinct neural signatures—frontal theta oscillations and bidirectional fronto-parietal coherence—present during willed attention but absent during instructed or automatic attention. These signatures appear about 300ms into the process, matching the motor commitment timescale (Thura & Cisek, 2014). Willed processing leaves a neural footprint that automatic processing does not.
 
@@ -196,8 +196,8 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 1. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency: Implications for anesthetic action and post-operative cognitive dysfunction. *Scientific Reports*, 7, 9877. https://doi.org/10.1038/s41598-017-09992-7
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
-1. *BMC Anesthesiology* (2025). Microtubule-modulating drugs alter sensitivity to isoflurane in mice. *BMC Anesthesiology*, 25, article 02956. https://doi.org/10.1186/s12871-025-02956-9
-1. *Frontiers in Psychology* (2026). Quantum theories of consciousness: a critical review of feasibility, philosophical sufficiency, and empirical testability. *Frontiers in Psychology*, 17, article 1730965. https://doi.org/10.3389/fpsyg.2026.1730965
+1. Li, N., You, Z., Ren, Y., et al. (2025). Microtubule-modulating drugs alter sensitivity to isoflurane in mice. *BMC Anesthesiology*, 25, article 02956. https://doi.org/10.1186/s12871-025-02956-9
+1. Ma, X., & Wang, A. (2026). Quantum theories of consciousness: a critical review of feasibility, philosophical sufficiency, and empirical testability. *Frontiers in Psychology*, 17, article 1730965. https://doi.org/10.3389/fpsyg.2026.1730965
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024. https://doi.org/10.1523/ENEURO.0291-24.2024

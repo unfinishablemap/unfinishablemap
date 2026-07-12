@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-06-08 21:03:30+00:00
+ai_modified: 2026-07-12 17:37:54+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: Knowledge expressed in action without conscious recollection. Choki
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-08 21:03:30+00:00
+last_deep_review: 2026-07-12 17:37:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ Implicit memory matters for The Unfinishable Map's framework because it reveals 
 
 Endel Tulving (1927-2023) distinguished [three forms of consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) associated with different memory systems, forming a hierarchy from unreflective action to temporal self-projection.
 
-**Anoetic consciousness** ("non-knowing") accompanies procedural and implicit memory. When you perform a well-learned skill, there is no self-reference, no sense of yourself as the subject of experience observing yourself act. The skill simply executes. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode—a non-reflective, quale-like character that Vandekerckhove and Panksepp (2009) later glossed as "non-reflective qualia." There is still something it is like to ride a bicycle expertly; it just doesn't involve representing yourself as the one riding.
+**Anoetic consciousness** ("non-knowing") accompanies procedural and implicit memory. When you perform a well-learned skill, there is no self-reference, no sense of yourself as the subject of experience observing yourself act. The skill simply executes. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode—a non-reflective, quale-like character that Vandekerckhove and Panksepp (2009) later characterised as genuine, pre-reflective phenomenal experience—qualia without self-reflection. There is still something it is like to ride a bicycle expertly; it just doesn't involve representing yourself as the one riding.
 
 **Noetic consciousness** ("knowing") accompanies [semantic memory](/concepts/semantic-memory/). You are aware of knowing—you know that Paris is in France—but without re-experiencing when you learned it. The fact is simply available.
 
@@ -180,7 +180,7 @@ The framework's claims about implicit memory and anoetic consciousness would be 
 Implicit memory illuminates all five tenets.
 
 ### Dualism
-Even Tulving's anoetic consciousness has phenomenal character—what Vandekerckhove and Panksepp call "non-reflective qualia." There is something it is like to perform automatized skills, however different from reflective experience. Consciousness isn't identical to self-aware cognition; it includes unreflective modes that procedural memory operates within.
+Even Tulving's anoetic consciousness has phenomenal character—what Vandekerckhove and Panksepp characterise as pre-reflective qualia, phenomenal experience without self-reflection. There is something it is like to perform automatized skills, however different from reflective experience. Consciousness isn't identical to self-aware cognition; it includes unreflective modes that procedural memory operates within.
 
 ### Minimal Quantum Interaction
 The [attention interface](/concepts/attention-as-interface/) explains why consciousness can delegate: once skills are calibrated, the low-bandwidth interface need not continuously engage. Procedural systems run on trained patterns; consciousness intervenes only when [selection among alternatives](/concepts/consciousness-selecting-neural-patterns/) is required.

@@ -43,7 +43,7 @@ None. Article is converged.
 
 ### Counterarguments Considered (six personas)
 
-No new critical issues. Phenomenal-concept strategy (the strongest physicalist reply) is engaged honestly: the "gap-in-concepts → gap-in-referents" inference is stated, with the full in-framework refutation deferred to [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) (link resolves). This is appropriate scope for a concept hub, NOT boundary-substitution. Illusionism, MWI, and quantum-interaction objections remain bedrock-boundary disagreements already absorbed in prior reviews — not re-flagged.
+No new critical issues. Phenomenal-concept strategy (the strongest physicalist reply) is engaged honestly: the "gap-in-concepts → gap-in-referents" inference is stated, with the full in-framework refutation deferred to [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/) (link resolves). This is appropriate scope for a concept hub, NOT boundary-substitution. Illusionism, MWI, and quantum-interaction objections remain bedrock-boundary disagreements already absorbed in prior reviews — not re-flagged.
 
 ## Optimistic Analysis Summary
 

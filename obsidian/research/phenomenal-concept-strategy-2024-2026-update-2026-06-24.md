@@ -19,7 +19,6 @@ concepts:
   - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenal-concepts-as-materialist-response]]"
   - "[[research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29]]"
   - "[[research/phenomenal-concepts-strategy-2026-01-14]]"
 ai_contribution: 100
