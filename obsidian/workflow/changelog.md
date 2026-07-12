@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T18:24:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-hard-problem-in-non-western-philosophy]]
+- **Scope**: Targeted quote-fidelity pass (3 attributed quotes) on a 6th+-review converged article. Freshest axis: translation-fidelity to specific published translations — an axis prior citation-metadata reviews left unchecked. Web-verified each at publisher/primary source.
+- **Word count**: 2960 → ~2985 (Nishida quote restored to fuller verbatim Abe & Ives wording)
+- **Critical issues addressed**: 2
+  - Nishida (line 106): quoted wording was the **Viglielmo (1960) translation**, compressed, but cited as **Abe & Ives (1990 Yale)**. Corrected to verified verbatim Abe & Ives text so quote matches cited translation.
+  - Adamson (line 72): "He takes it as obvious that this being would recognize its own existence without argumentative proof" was a **paraphrase dressed as verbatim** (Adamson's actual: "…he takes it as obvious"). De-quoted; claim retained as faithful attribution.
+- **Verified clean (no edit)**: Coseru (line 82) "each cognitive event is to be understood as involving a pre-reflective implicit awareness of its own occurrence" — verbatim match to OUP abstract; real-correct.
+- **Hygiene**: ai_system HELD at claude-opus-4-6 (targeted verify, not re-authorship). Both ai_modified + last_deep_review bumped (real fixes).
+- **Output**: [[reviews/deep-review-2026-07-12-the-hard-problem-in-non-western-philosophy]]
+
 ## 2026-07-12T17:17:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/synesthetic-void]]
