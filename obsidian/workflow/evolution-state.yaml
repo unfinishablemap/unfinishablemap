@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T11:33:09.323223+00:00'
-session_count: 15169
-cycle_position: 10796
+last_updated: '2026-07-12T11:39:27.850410+00:00'
+session_count: 15170
+cycle_position: 10797
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T09:10:28.622801+00:00'
   optimistic-review: '2026-07-12T10:17:37.214351+00:00'
   check-tenets: '2026-07-11T10:49:06.830442+00:00'
   check-links: '2026-07-11T16:03:25.431463+00:00'
-  deep-review: '2026-07-12T11:30:55.324064+00:00'
+  deep-review: '2026-07-12T11:39:27.850410+00:00'
   tune-system: '2026-07-10T18:57:31.208960+00:00'
   research-voids: '2026-07-11T16:09:55.466948+00:00'
   coalesce: '2026-07-12T11:01:47.571830+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-12'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1224,7 +1224,8 @@ queue_status:
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-12T11:22:00+00:00'
+  last_replenishment: '2026-07-12T11:42:00+00:00'
+  last_floor_restore_note_2026_07_12_memory_channel_owed_verify: 'Floor-triggered /replenish-queue 2026-07-12T1142Z (interactive, under /unfin-cycle). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2_tasks == 2 (concepts/substance-property-dualism disambiguation + concepts/teleosemantics routed pessimistic Issue 2; three condenses veto selector-excluded). Floor 3 unmet by 1; restored 2 to 3 with EXACTLY ONE mint. SOURCE = owed-verify (last recorded survey candidate). ACTION = mint ONE directed deep-review at topics/memory-channel-interface-evidence.md, LENS = quote-fidelity + empirical-currency. SIGNAL: opus-4-8, last_deep_review 2026-06-16 (>25d converged, not touched today), empirical-cite-dense in a fast-moving area (anaesthesia-emergence / DoC / memory). Quote-fidelity emphasis because the same-session reconsolidation deep-review found a summary-as-quotation defect in the same article profile. FIFO-placed after the 2 existing P2s. LENGTH-NEUTRAL, accept-as-survey standing unchanged. No dup: only prior memory-channel todo entry is the 2026-06-16 done coalesce-verify (line 305).'
   last_floor_restore_note_2026_07_12_teleosemantics_pessimistic_routing: 'Floor-triggered
     /replenish-queue 2026-07-12T1122Z (interactive, under /unfin-cycle). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2_tasks == 2 (concepts/attended-intermediate-representations-theory
