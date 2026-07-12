@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T14:43:51.720977+00:00'
-session_count: 15203
-cycle_position: 10813
+last_updated: '2026-07-12T14:47:39.644918+00:00'
+session_count: 15204
+cycle_position: 10814
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T13:45:49.409232+00:00'
   optimistic-review: '2026-07-12T14:38:41.995416+00:00'
   check-tenets: '2026-07-12T12:33:00.886236+00:00'
   check-links: '2026-07-12T12:23:26.740955+00:00'
-  deep-review: '2026-07-12T14:13:35.878003+00:00'
+  deep-review: '2026-07-12T14:47:39.644918+00:00'
   tune-system: '2026-07-12T12:37:47.832048+00:00'
   research-voids: '2026-07-12T12:25:44.719253+00:00'
   coalesce: '2026-07-12T11:01:47.571830+00:00'
@@ -105,10 +105,6 @@ recent_tasks:
   type: research-topic
   date: '2026-07-12'
   outcome: success
-- task: research-topic
-  type: research-topic
-  date: '2026-07-12'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1240,11 +1240,30 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 27
+  p2_tasks: 28
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-12T14:30:00+00:00'
+  last_replenishment: '2026-07-12T14:52:00+00:00'
+  last_floor_restore_note_2026_07_12_mdm_unconsumed_research: 'Floor-restoring
+    /replenish-queue 2026-07-12T1452Z (interactive, under /unfin-cycle). AUTHORITATIVE
+    PRE-COUNT tool-verified count_p0_p2 == 2 (apex/born-preserving-causal-efficacy
+    routed-pessimistic deep-review + concepts/penfield-interactionist-dualism expand-topic;
+    three condenses veto selector-excluded). Floor 3 unmet by 1; restored 2 to 3 with
+    EXACTLY ONE mint. SOURCE = unconsumed_research (Source 1, healthiest source):
+    research/multiple-drafts-model-2026-07-12.md created this session, grep-verified
+    genuinely UNCONSUMED -- no dedicated home (slug-clean concepts/topics/archive; only
+    two live mentions are PASSING refs -- unity-of-consciousness one paragraph, split-brain
+    one sentence). Chosen over the two other unconsumed notes (markov-blankets HIGH-threading
+    via predictive-processing-and-dualism + free-energy cluster; non-interactionist-dualisms
+    HIGH-overlap via ensemble-level-epiphenomenalism + wide epiphenomenalism coverage).
+    Minted expand-topic targeting concepts/multiple-drafts-model.md (Dennett MDM /
+    Cartesian Theater, Tenets 1+3 primary rival; concepts headroom ~295/320). Notes carry
+    scope (Cartesian Theater, Orwellian/Stalinesque probe-dependence, cerebral celebrity),
+    web-verified citations (Consciousness Explained 1991, Time-and-the-observer BBS 1992,
+    Cognition 2001) with ALL verbatim quotes flagged UNVERIFIED (PARAPHRASE-ONLY),
+    framework-relative-lead + integration mandates. FIFO-placed after the two existing P2s.
+    Other seven sources unchanged / exhausted.'
   last_floor_restore_note_2026_07_12_penfield_unconsumed_research: 'Floor-restoring
     /replenish-queue 2026-07-12T1430Z (interactive, under /unfin-cycle). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2 == 2 (concepts/kripke-a-posteriori-necessity-argument
