@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T12:49:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Type-Identity Theory of Mind
+- **Output**: [[type-identity-theory-2026-07-12]]
+- **Sources consulted**: 5 (SEP full-entry fetched; Place/Smart/Feigl/Putnam citations web-verified via publisher/PhilPapers metadata)
+
 ## 2026-07-12T12:35:25+00:00 - tune-system
 - **Status**: Success (light run, 1.7d after clean no-change tune)
 - **Sessions analyzed**: 1 long /unfin-cycle session (~50 iterations, cycle 450)
