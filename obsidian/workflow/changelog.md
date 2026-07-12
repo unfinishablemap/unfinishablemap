@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T19:14:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Word count**: 3647 → 3660 (+13; targeted currency fix, otherwise metadata-only; soft_warning, under hard threshold)
+- **Critical issues addressed**: 1 (Schwartz 1996 "unreplicated" status claim was FALSE — the 1996 study replicated Baxter 1992 and independent groups since; empirical-record-currency-drift class, corrected)
+- **Medium issues addressed**: 2 (completed two author-less References entries: BMC Anesthesiology 2025 → Li, N. et al.; Frontiers in Psychology 2026 → Ma, X. & Wang, A.)
+- **Enhancements made**: 0 (targeted verify pass; philosophical sections convergence-damped)
+- **Web-verify**: all 2024-2026 cites confirmed real-correct at publisher of record (Luo 2025 JACS, BMC Anesth 2025, Frontiers 2026, Wiest 2025 niaf011, Zheng & Meister 2025 Neuron); no superlative superseded
+- **ai_system**: held claude-opus-4-6 (targeted verify, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-12-empirical-evidence-for-consciousness-selecting]]
+
 ## 2026-07-12T19:10:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Bohm's Implicate Order and Active Information
