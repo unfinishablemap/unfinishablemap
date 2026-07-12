@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T16:50:35.980751+00:00'
-session_count: 15224
-cycle_position: 10825
+last_updated: '2026-07-12T16:56:20.619465+00:00'
+session_count: 15225
+cycle_position: 10826
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T13:45:49.409232+00:00'
   optimistic-review: '2026-07-12T14:38:41.995416+00:00'
   check-tenets: '2026-07-12T12:33:00.886236+00:00'
   check-links: '2026-07-12T12:23:26.740955+00:00'
-  deep-review: '2026-07-12T16:33:43.611439+00:00'
+  deep-review: '2026-07-12T16:56:20.619465+00:00'
   tune-system: '2026-07-12T12:37:47.832048+00:00'
   research-voids: '2026-07-12T12:25:44.719253+00:00'
   coalesce: '2026-07-12T15:25:29.696464+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-12'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1256,11 +1256,12 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 30
+  p2_tasks: 31
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-12T16:05:00+00:00'
+  last_replenishment: '2026-07-12T17:00:00+00:00'
+  last_floor_restore_note_2026_07_12_clinical_phenomenology_owed_web_verify: 'Floor-restoring /replenish-queue 2026-07-12T1700Z (interactive, under /unfin-cycle). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (voids/synesthetic-void staleness deep-review + concepts/implicit-memory owed-web-verify deep-review; three condenses veto selector-excluded; P3 research/human-length + wall-clock literature-drift do not restore the loop floor). Floor 3 unmet by 1; restored 2 to 3 with EXACTLY ONE mint. SOURCE = owed_web_verify (Source 6, quote-fidelity axis). TARGET topics/clinical-phenomenology-and-altered-experience.md (opus-4-6, ai_mod == ldr 2026-06-05, ~37d converged, reviewed only at creation, not session-touched). DEMONSTRABLE LOCI: two verbatim quoted phrases attributed inline to (Sass and Parnas, 2003) Schizophrenia Bulletin 29(3):427-444 (refs entry 4, no page locator) -- line 79 hyperreflexivity (popping-up/popping-out of tacit-background phenomena, with an embedded ellipsis to fidelity-check) and line 81 diminished self-affection (weakened sense of existing as a vital and self-coinciding source). DISTINCT axis from the parfit/altered-states/adaptive-computational-depth owed-verifies cleared earlier this session: the quoted authors ARE in References, so risk is quote FIDELITY (paraphrase-dressed-as-verbatim / ellipsis mis-stitch), not a missing citation. Secondary: line 85 EASE claims (Nelson et al. 2012, Parnas et al. 2011). Minted a TARGETED deep-review: verbatim-verify each string at publisher of record; three outcomes (verify+locator / dequote-if-paraphrase / soften-if-not-their-words); no content-deletion on first-search-miss; HOLD ai_system claude-opus-4-6. FIFO-placed after the two existing P2s. Other sources unchanged / exhausted.'
   last_floor_restore_note_2026_07_12_adaptive_computational_depth_owed_web_verify: 'Floor-restoring
     /replenish-queue 2026-07-12T1605Z (interactive, under /unfin-cycle). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2 == 2 (concepts/parfit-reductionism owed-verify
