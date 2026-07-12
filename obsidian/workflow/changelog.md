@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T20:10:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/integrated-information-theory]]
+- **Scope**: Targeted citation-verify + currency + COGITATE-framing pass (closes post-06-25 drift gap from later refine-draft sync)
+- **Word count**: ~3050 → ~3050 (length-neutral in-place cite completion)
+- **Critical issues addressed**: 1 (incomplete COGITATE 2025 reference — completed to Nature 642(8066):133-142, DOI 10.1038/s41586-025-08888-1, publisher/PubMed 40307561 verified)
+- **Citation ledger**: COGITATE Consortium 2025 = real-wrong-metadata (incomplete→completed); IIT-Concerned 2025 = real-correct (genuine 100+-signatory collective byline, Nature Neurosci 28:689-693 confirmed — NOT a fabrication)
+- **COGITATE-framing currency**: verdict accurate — no misframing (lack-of-sustained-posterior-synchronization + partial content-decoding + both-theories-challenged all match the 2025 Nature result; biological-implementation-not-formal-core hedge preserved)
+- **ai_system**: held at claude-opus-4-5-20251101 (targeted fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-12-integrated-information-theory]]
+
 ## 2026-07-12T19:34:26+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/phenomenal-concepts-strategy]] (survivor) + [[topics/phenomenal-concepts-as-materialist-response]] (archived)

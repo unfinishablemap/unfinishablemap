@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-07-11T12:35:00+00:00
+ai_modified: 2026-07-12T20:10:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-06-25T00:00:00+00:00
+last_deep_review: 2026-07-12T20:10:08+00:00
 ---
 
 Integrated Information Theory (IIT) proposes that consciousness *is* integrated information—not that it correlates with or emerges from it, but that consciousness and integrated information are identical. Developed by neuroscientist Giulio Tononi, IIT offers one of the most mathematically rigorous theories of consciousness, complete with a quantitative measure (phi/Φ) that purports to capture how conscious any system is.
@@ -234,7 +234,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: Integrated information theory 3.0. *PLOS Computational Biology*, 10(5), e1003588.
 1. Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
 1. Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized*.
-1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://doi.org/10.1038/s41586-025-08888-1
 1. Kerskens, C. M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 1. McQueen, K. J. (2019). Interpretation-neutral integrated information theory. *Journal of Consciousness Studies*, 26(1-2), 76-106.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
