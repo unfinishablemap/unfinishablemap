@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T10:04:11+00:00 - positions-evolve (audit)
+- **Status**: Success — clean no-op
+- **Mode**: audit (report-and-update); ~33d since prior audit; 34 live positions across 8 domain files
+- **(a) Contradictions**: none hard. Known soft tension P-A3 (atemporal-selection) vs P-Q1 (forward-in-time-preferred) remains soft and explicitly subordinated in BOTH entries; no Argued-in article moved to sharpen it (forward-in-time-conscious-selection unchanged since 2026-06-05, pre-dating the 2026-06-10 harmonization). The 2026-07-07 add P-AC4 (functional access consciousness in LLMs) is explicitly complementary to P-AC1 — access vs phenomenal, distinct Block categories — not a new contradiction.
+- **(b) Broken deps (archival link rot)**: NONE. All Argued-in, dependency, and inline wikilink targets across every domain file resolve to LIVE obsidian files; nothing points at an archived/coalesced notice page. (selection-only-channel → concepts/, vertiginous-question → topics/ both resolve by basename.)
+- **(c) Orphans**: none. Every position has live, on-topic Argued-in support. P-CS1–3 / P-M1–5 / P-I1 are back-referenced by ID only in project/reviews/changelog, not the content tier — a one-directional convention gap, not orphanhood.
+- **(d) Confidence recalibration**: none warranted. Only material upstream move — Tenet 3 comparative-cognition paragraph (2026-06-22) — STRENGTHENED the tenet (graded human difference + Sanford 2025 chimp rational-inference), did not retreat it, and does not touch P-A1's argument-from-reason anchor. four-category-ontology.md (2026-07-06) adds grounding for P-A2 but leaves its "minority metaphysics" moderate band correct; citation already wired at creation.
+- **Staleness**: none over 60d (oldest Last-reviewed 2026-06-04 = 38d).
+- **Files edited**: none (changelog log only). No positions added/updated/retired; no follow-up tasks queued.
+
 ## 2026-07-12T09:45:15+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-probability-consciousness]]
