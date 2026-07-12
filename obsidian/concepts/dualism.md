@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-06-26T01:12:56+00:00
+ai_modified: 2026-07-12T14:11:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -206,7 +206,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 
 **Core arguments:** [[explanatory-gap]], [[knowledge-argument]], [[philosophical-zombies]], [[inverted-qualia]], [[intentionality]], [[binding-problem]], [[argument-from-reason]]
 
-**Materialist responses:** [[concepts/materialism]], [[illusionism]], [[phenomenal-concepts-strategy]], [[heterophenomenology]], [[mysterianism]]
+**Materialist responses:** [[concepts/materialism]], [[type-identity-theory]], [[illusionism]], [[phenomenal-concepts-strategy]], [[heterophenomenology]], [[mysterianism]]
 
 **The Map's framework:** [[bi-aspectual-ontology]], [[interactionist-dualism]], [[the-reverse-inference]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemology]], [[epistemological-limits-of-occams-razor]], [[epistemological-limits-occams-razor]], [[parsimony-epistemology]], [[causal-closure]], [[mental-causation-and-downward-causation|mental causation]], [[topics/free-will]]
 

@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-01-19
 modified: 2026-06-17
 human_modified: null
-ai_modified: 2026-06-23T03:35:48+00:00
+ai_modified: 2026-07-12T14:11:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -197,6 +197,7 @@ The [[buddhism-and-dualism|Buddhist tradition]] converges from a further directi
 - [[hard-problem-of-consciousness]] — The distinction between easy and hard problems
 - [[concepts/materialism]] — The view that reductionism about consciousness underwrites
 - [[functionalism]] — The dominant framework for reducing mental states to causal roles
+- [[type-identity-theory]] — The classic mind-body case of reduction: mental types identified with brain types, and the paradigm the Map's first tenet denies
 - [[philosophical-zombies]] — The conceivability argument and its implications for physicalism
 - [[conceivability-possibility-inference]] — Whether conceivability entails metaphysical possibility
 - [[biological-computationalism]] — A physicalist framework that itself rejects functional reduction of consciousness

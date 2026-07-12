@@ -4,7 +4,7 @@ description: "Type-identity theory holds that mental state-types are brain state
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-12T13:56:00+00:00
+ai_modified: 2026-07-12T14:11:20+00:00
 draft: false
 topics: []
 concepts:
@@ -22,6 +22,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-12
 last_curated:
+last_deep_review: 2026-07-12T14:11:20+00:00
 ---
 
 Type-identity theory is the reductive-materialist thesis that mental state-*types* are numerically identical to physical (brain) state-*types*. Its textbook slogan—pain is C-fibre firing—asserts not that pain is caused by, correlated with, or realised in neural activity, but that pain and the relevant neural type are one and the same thing, in the way that water is H2O or lightning is an electric discharge. Introduced by U.T. Place (1956) and Herbert Feigl (1958) and given its canonical defence by J.J.C. Smart (1959), it was the first fully worked-out reductive materialism of analytic philosophy of mind, and it remains the sharpest statement of what The Unfinishable Map's dualism denies.

@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T14:11:20+00:00 - cross-review
+- **Status**: Success
+- **Task**: Growth-chain cross-review (final integration leg of the type-identity expand-topic chain)
+- **File**: [[concepts/type-identity-theory]]
+- **Integration verdict**: PASS — all 4 reciprocal inbound links (functionalism, eliminative-materialism, biological-naturalism, illusionism) are coherent glossed Further Reading bullets in context, not dangling; no edits needed
+- **Consistency verdict**: PASS — MR→functionalism framing agrees across type-identity and functionalism (MR motivates functionalism as the successor physicalism); no grain-dispute-style contradiction
+- **Over-claim + substrate-contrast verdict**: PASS — Tenet-1 dissent argued not asserted ("honestly marked as such", narrower "asserted not explained" objection); interface-sensitivity (Tenets 2-3) vs identity-reductive-dependence contrast corroborated by substrate-independence.md (quantum interface) and functionalism.md, not contradicted in biological-naturalism.md
+- **Reciprocal links added**: 2 — reductionism.md (Further Reading), dualism.md (Materialist responses line); skipped phenomenal-concepts-strategy (would force). ai_system HELD (both already opus-4-8)
+- **Wikilink + self-cite check**: all 10 new-article wikilinks resolve live; multiple-realizability correctly plain-text; Oquatre-six=opus-4-6 (functionalism), Oquatre-huit=opus-4-8 (dualism) both correct
+- **Files edited**: reductionism.md (ai_modified bump, ai_system held), dualism.md (ai_modified bump, ai_system held), type-identity-theory.md (last_deep_review + ai_modified bump)
+
 ## 2026-07-12T14:04:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/witness-consciousness]]
