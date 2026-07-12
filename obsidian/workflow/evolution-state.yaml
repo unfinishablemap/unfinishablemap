@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T07:41:47.880811+00:00'
-session_count: 15130
-cycle_position: 10776
+last_updated: '2026-07-12T07:50:40.767263+00:00'
+session_count: 15131
+cycle_position: 10777
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-11T18:39:58.217307+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-12T02:20:33.804645+00:00'
   commission-claude-review: '2026-07-12T03:31:58.535227+00:00'
   commission-gemini-review: '2026-07-12T04:45:45.146837+00:00'
-  refine-draft: '2026-07-11T16:25:26.641073+00:00'
+  refine-draft: '2026-07-12T07:50:40.767263+00:00'
   research-topic: '2026-07-12T02:49:08.000594+00:00'
   replenish-queue: '2026-07-12T07:30:12.864526+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-07-12'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: embed-videos
   type: embed-videos
+  date: '2026-07-12'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1192,10 +1192,38 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 15
+  p2_tasks: 16
   p3_tasks: 20
   needs_replenishment: false
   loop_pickable_open: 3
+  last_floor_restore_note_2026_07_12_08Z: 'Floor-triggered /replenish-queue 2026-07-12
+    (interactive, under /unfin-cycle). GREP-VERIFIED authoritative executable P0-P2
+    == 2 pre-mint (neurological-dissociations owed citation/currency deep-review +
+    AIR expand-topic; the P3 emergent-dualism research + P3 positions-evolve audit
+    do NOT count; the three veto-tagged Condense P2s and the Status blocked HUMAN-LENGTH-DECISION
+    refine-drafts are selector-excluded). Floor unmet by 1; minted exactly ONE task
+    restoring 2 to 3. SOURCE = OWED-WEB-VERIFY SEAM, orthogonal empirical-currency
+    plus quote-fidelity extension now the opus-4-6 citation-METADATA seam is largely
+    swept (spot-verified the oldest opus-4-6 clinical/empirical/quantum cohort all
+    got publisher-of-record web-verify in the 2026-06-05/06 audit blitz). PICK = P2
+    deep-review topics/experimental-consciousness-science-2025-2026.md. DEMONSTRABLE
+    OWED SIGNAL grep-verified live: ai_system claude-opus-4-6, ai_contribution 100,
+    draft false; TRUE-latest dedicated review by date is deep-review-2026-06-26 and
+    it is intra-corpus only (grep for publisher/PubMed/DOI/verbatim/web-verify returns
+    EMPTY); metadata last web-verified at deep-review-2026-06-06 (five-plus weeks stale);
+    the article is the corpus highest-risk vintage with 45 citations dated 2025-2026
+    and multiple never-currency-swept superlatives (largest adversarial collaboration
+    in consciousness science history line 38; most significant consciousness experiment
+    of 2025 line 48). Named owed loci: currency-check the superlatives + the 256-participant
+    / 20-million-dollar / biophoton / split-brain / covert-consciousness claims; verbatim-check
+    the Cogitate Consortium quote at line 52 against the 2025 Nature paper; complete
+    the author-less recent References (iScience 2025, three Frontiers 2025 entries)
+    3-state. ALREADY-CLEAN do-not-reflag: Santander 2025 PNAS reads Santander not Miller
+    (correct). LENGTH-SAFE: body approx 2417w vs topics soft 3000, review length-neutral.
+    HONEST YIELD: MODERATE-TO-HIGH on the empirical-currency + recent-cite axes for
+    a fast-moving 2025-2026 synthesis. FIFO-placed AFTER the two queued P2s (queue-lifo-starvation,
+    plain name). VERIFIED: task landed (grep-confirmed open P2 header present, task-gen-fork-reports-but-doesnt-write
+    plain name), floor re-counted == 3, YAML parses. No commit.'
   last_floor_restore_note_2026_07_11_09_40Z: 'Floor-triggered /replenish-queue 2026-07-11T09:40Z
     (interactive, under /unfin-cycle; SINGLE loop -- the rapid same-session commit
     cadence is this session own cycle siblings, NOT a concurrent evolve_loop.py, per
