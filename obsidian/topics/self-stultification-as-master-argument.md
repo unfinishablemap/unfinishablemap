@@ -4,8 +4,8 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-06-06T00:00:00+00:00
-last_deep_review: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-07-12T11:16:40+00:00
+last_deep_review: 2026-07-12T11:16:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,9 +72,9 @@ The position may still be *true*. Self-stultification is weaker than refutation 
 
 The most direct application. [[concepts/epiphenomenalism|Epiphenomenalism]] holds that consciousness causes nothing—brain states produce both behaviour and experience, but experience itself is inert.
 
-If true, then the epiphenomenalist's belief in epiphenomenalism was not caused by their conscious reasoning about the evidence. As the Map's [[tenets]] put it: "If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states." Introspective reports would be caused by brain states, not by the experiences they describe.
+If true, then the epiphenomenalist's belief in epiphenomenalism was not caused by their conscious reasoning about the evidence. As the Map's [[tenets]] put it: "If consciousness were epiphenomenal, beliefs *about* consciousness would not be caused by the experiences themselves." Introspective reports would be caused by brain states, not by the experiences they describe.
 
-The epiphenomenalist who presents arguments, responds to objections, and revises views on introspective evidence *performs* the falsity of their position—the very act of defending epiphenomenalism presupposes what it denies, that conscious evaluation of reasons influences what one believes.
+The epiphenomenalist who presents arguments, responds to objections, and revises views on introspective evidence *performs* the falsity of their position—the very act of defending epiphenomenalism presupposes what it denies, that conscious evaluation of reasons influences what one believes. The strongest resistance to this move is the [[phenomenal-concepts-strategy|phenomenal-concept strategy]]: if phenomenal concepts are physically realised representations referring to physical states of the same brain, reports are causally tied to their referents without any phenomenal causation, and the self-undermining charge relocates to whether that first-person mode of presentation can be exhaustively physical rather than refuting epiphenomenalism outright.
 
 [[illusionism#Structural Convergence with Epiphenomenalism|Illusionism]] inherits the same self-stultification because it preserves the causal structure that generates the problem—phenomenal properties remain causally idle whether declared inert or non-existent. Frankish's [[functional-seeming]] defence—that "seeming conscious" reduces to functional dispositions—reinforces rather than evades the problem: if the illusionist's own assessment of consciousness is merely functional, their reasoning is causally identical to a [[philosophical-zombies|zombie's]].
 

@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T11:16:40+00:00 - refine-draft
+- **Status**: Success — FAMILY-RESOLUTION stale-internal-quote fix (apex-stale-internal-quote-channel class)
+- **File**: [[topics/self-stultification-as-master-argument]]
+- **Word count**: 3256 → 3309 (+53; caveat sentence offset slightly by shorter repointed quote)
+- **Stale quote found (verbatim, ~line 75)**: `"If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states."` — no longer present in tenets.md after the 2026-05-11 tenets rewrite (phenomenal-concept-strategy foregrounding). Same defect this session's deep-review fixed in the concepts sibling [[self-stultification]].
+- **Fix (exact-repoint, option a)**: repointed to current verbatim tenets.md wording (first clause of the Bidirectional Interaction "deepest difficulty" passage): `"If consciousness were epiphenomenal, beliefs *about* consciousness would not be caused by the experiences themselves."`
+- **Phenomenal-concept caveat**: was NOT present in the epiphenomenalism subsection (article had general step-2 contestability at line 67 but not the specific reply); ADDED one length-controlled sentence naming the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] as the strongest resistance and relocating the dispute to the mode-of-presentation question — parallels the calibration fix in the concepts sibling.
+- **ai_system**: held at claude-opus-4-6 (not flipped)
+- **Stamps**: ai_modified + last_deep_review → 2026-07-12T11:16:40+00:00 (= date -u, not future-dated)
+- **Wikilinks**: [[tenets]] and [[phenomenal-concepts-strategy]] both resolve live; EOF clean
+- **Published**: yes
+
 ## 2026-07-12T11:07:00+00:00 - deep-review
 - **Status**: Success — real quote fix (Type-B verbatim/quote-fidelity pass)
 - **File**: [[concepts/intuitive-dualism]]
