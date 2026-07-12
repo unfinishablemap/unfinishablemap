@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T13:50:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/philosophy-of-time]]
+- **Lens**: Residual citation 3-state web-verify (8 References cites the 06-13 ledger left implicit) + opportunistic quote-fidelity
+- **Word count**: unchanged (no body edit; clean-convergence)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: metadata-only — `last_deep_review` bumped to 2026-07-12; `ai_modified` and `ai_system: claude-opus-4-6` held (deep-review-fork-over-attributes-ai-system)
+- **Citations**: Zimmerman 2011 (Oxford Handbook, Callender ed., real-correct), Stapp 2011 (Mindful Universe 2nd ed. Springer, real-correct), Fox et al. 2012 (PLOS ONE e45370, real-correct), Varela 1999 (Naturalizing Phenomenology chapter, real-correct), Mellor/Prior/Sider/Whitehead (canonical, real-correct). No fabrication, no wrong-metadata.
+- **Quotes**: Tomaz 2025 decoherence quote near-verbatim (preprint "on a mixture" vs article "in a mixture" — published-version copyedit, not a confirmable defect, unchanged); Tallis "Misrepresentation presupposes presentation" left as-is (consistent aphorism, cannot disprove); Newton "without relation to anything external" faithful.
+- **Output**: [[reviews/deep-review-2026-07-12-philosophy-of-time]]
+
 ## 2026-07-12T13:21:28+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/libet-experiments]]

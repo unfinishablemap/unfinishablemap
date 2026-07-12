@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-06-13T17:01:08+00:00
+last_deep_review: 2026-07-12T13:50:42+00:00
 ---
 
 Philosophy of time asks fundamental questions about time's nature: Does the past exist? Is there an objective present? Does time flow, or is "flow" an illusion? These questions matter for consciousness because the relationship between subjective temporal experience and physical time remains deeply puzzling. If consciousness participates in [[collapse-and-time|quantum collapse]]—and collapse introduces time's arrow—then consciousness may be implicated in the structure of time itself, not merely a passenger traveling through it.
