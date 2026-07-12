@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-07-12T19:50:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-16
 last_curated:
-last_deep_review: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-07-12T19:50:36+00:00
 coalesced_from:
   - "/topics/embodied-consciousness-and-the-interface/"
   - "/topics/phenomenology-of-embodiment-under-dualism/"
@@ -125,7 +125,7 @@ Proprioceptive dissociations offer direct evidence for this two-domain structure
 
 ## Bodily Absence and Skill Acquisition
 
-In skilled, absorbed activity the body disappears from awareness. A pianist does not feel her fingers—she feels the music. A cyclist does not attend to balance—she attends to the road. Drew Leder calls this "bodily absence": the body recedes precisely when functioning well, becoming a transparent medium.
+In skilled, absorbed activity the body disappears from awareness. A pianist does not feel her fingers—she feels the music. A cyclist does not attend to balance—she attends to the road. Drew Leder calls this "disappearance": the body recedes precisely when functioning well, becoming a transparent medium.
 
 But the body reappears when something goes wrong. Pain, fatigue, illness, injury—all force the body back into awareness. Leder calls this "dys-appearance": the body re-emerges as a problem. The analogy with the radio-antenna model is direct: you notice the antenna only when reception fails.
 
