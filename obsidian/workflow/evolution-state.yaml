@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T18:04:53.384904+00:00'
-session_count: 15236
-cycle_position: 10831
+last_updated: '2026-07-12T18:08:54.946877+00:00'
+session_count: 15237
+cycle_position: 10832
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T17:51:05.263398+00:00'
   optimistic-review: '2026-07-12T14:38:41.995416+00:00'
   check-tenets: '2026-07-12T12:33:00.886236+00:00'
   check-links: '2026-07-12T12:23:26.740955+00:00'
-  deep-review: '2026-07-12T18:04:53.384904+00:00'
+  deep-review: '2026-07-12T18:08:54.946877+00:00'
   tune-system: '2026-07-12T12:37:47.832048+00:00'
   research-voids: '2026-07-12T12:25:44.719253+00:00'
   coalesce: '2026-07-12T15:25:29.696464+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-12'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-12'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 - task: deep-review
@@ -1275,7 +1275,7 @@ queue_status:
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-12T17:27:00+00:00'
+  last_replenishment: '2026-07-12T18:14:00+00:00'
   last_floor_restore_note_2026_07_12_collective_phenomena_owed_web_verify: 'Floor-restoring
     /replenish-queue 2026-07-12T1727Z (interactive, under /unfin-cycle). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2 == 2 (concepts/implicit-memory owed-web-verify
@@ -1303,6 +1303,29 @@ queue_status:
     / soften-if-not-their-words); no content-deletion on first-search-miss; HOLD ai_system
     claude-opus-4-6; body ~3611w well under hard, do NOT condense. FIFO-placed after
     the two existing P2s. Other sources unchanged / exhausted.'
+  last_floor_restore_note_2026_07_12_embodied_consciousness_owed_web_verify: 'Floor-restoring
+    /replenish-queue 2026-07-12T1814Z (interactive). AUTHORITATIVE PRE-COUNT tool-verified
+    count_p0_p2 == 2 (concepts/naturalist-relationalism owed-web-verify + concepts/multiple-drafts-model
+    pessimistic-routed deep-review; three condenses veto selector-excluded; P3 research/human-length
+    + wall-clock literature-drift do not restore the loop floor). Floor 3 unmet by
+    1; restored 2 to 3 with EXACTLY ONE mint. SOURCE = owed_web_verify (Source 6,
+    coined-term axis). WHY NOT Source 4 staleness: skipped as a likely false seam per
+    the last two runs (all ai_modified>last_deep_review candidates were accretion/cross-touch
+    only, no genuine prose drift by diff). TARGET topics/embodied-consciousness.md
+    (created 2026-02-09, last deep-reviewed 2026-06-06 == 36d converged, the LONGEST
+    review-gap among the coined-term candidates, git-untouched since 2026-06-06 so
+    not session-touched and not on the 2026-07-12 touched list, ai_contribution 100,
+    NOT excluded, no open task targets it). DEMONSTRABLE LOCI: three grep-verified
+    X-calls-this-TERM coined-term constructions with NO date or page, intra-corpus-only-checked
+    (paraphrase-dressed-as-verbatim and WRONG-WORK early-book-vs-later-paper sub-patterns):
+    line 93 Zahavi pre-reflective self-awareness (lineage risk, Sartrean pre-reflective
+    cogito predates Zahavi), line 128 Leder bodily absence, line 130 Leder dys-appearance
+    (spelling + does the term debut in The Absent Body 1990 or a later refinement paper,
+    the WRONG-WORK guard mirroring the confirmed Sass-Parnas 2003-to-2007 and Schmid
+    2009-to-2014 cases). Verify at publisher of record / primary text ONLY. HOLD ai_system
+    claude-opus-4-8 on verify-only or minor citation fix; bump last_deep_review on
+    a clean verify, both stamps on a real content fix; stamps <= real date -u. FIFO-placed
+    after the two existing P2s. Other sources unchanged / exhausted.'
   last_floor_restore_note_2026_07_12_clinical_phenomenology_owed_web_verify: 'Floor-restoring
     /replenish-queue 2026-07-12T1700Z (interactive, under /unfin-cycle). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2 == 2 (voids/synesthetic-void staleness deep-review
