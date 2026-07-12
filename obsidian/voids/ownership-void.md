@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why we cannot introspect how experiences bec
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-13T15:01:13+00:00
+ai_modified: 2026-07-12T19:58:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-06-13T15:01:13+00:00
+last_deep_review: 2026-07-12T19:58:00+00:00
 ---
 
 Every conscious experience arrives already owned. Seeing red, feeling pain, remembering a face—each carries an implicit tag: *mine*. Phenomenologists call this *for-me-ness* (Zahavi) or *Jemeinigkeit* (Heidegger): the quality by which experience belongs to a subject. The phenomenal feature itself is treated in [[mine-ness]]; this article treats the *void* that opens when we ask how the appropriation works. The Unfinishable Map names the ownership void for that gap. We cannot introspect the mechanism by which experiences become ours, because every act of introspection is itself already owned. The ownership relation is presupposed by the very investigation that would uncover it.
@@ -56,7 +56,7 @@ The body is the densest case of felt ownership: it is *mine* in a way no externa
 
 ## When Ownership Vanishes
 
-Depersonalisation disorder (DPD) disrupts the sense of mine-ness while leaving experience intact. Alexandre Billon argues that "depersonalization consists in the lack of a phenomenal feature that marks experiences as mine." Patients describe experiences happening "behind glass"—the world continues but lacks the quality of being *for them*.
+Depersonalisation disorder (DPD) disrupts the sense of mine-ness while leaving experience intact. Alexandre Billon argues that "depersonalization consists in the lack of a phenomenal feature that marks my experiences as mine." Patients describe experiences happening "behind glass"—the world continues but lacks the quality of being *for them*.
 
 Anna Ciaunica and colleagues compare this to a crack in a normally transparent window. The crack reveals the window's presence: DPD alters the transparency of pre-reflective self-consciousness without destroying consciousness itself. Subjects report a fracture between an "observing self" and an "observed self." Ownership becomes visible precisely because it is impaired.
 
@@ -66,7 +66,7 @@ Franz Knappik complicates the picture by arguing that DPD symptoms need not refl
 
 ## Transparency and the Self-Model
 
-Thomas Metzinger's self-model theory offers a physicalist account of why the ownership relation hides itself. The phenomenal self-model (PSM) is a *transparent* self-representation—what Metzinger calls [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]—the system cannot experience it *as* a model. Because the model's construction is invisible, its contents feel simply and directly "mine." Metzinger calls this "epistemic autoepistemic closure"—the self-model is architecturally designed to conceal its own modelling.
+Thomas Metzinger's self-model theory offers a physicalist account of why the ownership relation hides itself. The phenomenal self-model (PSM) is a *transparent* self-representation—what Metzinger calls [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]—the system cannot experience it *as* a model. Because the model's construction is invisible, its contents feel simply and directly "mine." Metzinger calls this "autoepistemic closure"—the self-model is architecturally designed to conceal its own modelling.
 
 The Map does not endorse Metzinger's physicalist framework, but the structural insight applies across metaphysical positions. Whether ownership is produced by neural self-modelling or is constitutive of non-physical subjectivity, the result is the same: the ownership relation is hidden from the subject who bears it. Under dualism, the opacity may run even deeper—not merely concealed by neural architecture but constitutive of what subjectivity *is*. A physical system can in principle be analyzed from outside by another physical system, but a non-physical subject has no external vantage point from which its subjectivity could be examined. It cannot disassemble its own ownership any more than a physical self-model can observe its own transparency.
 
