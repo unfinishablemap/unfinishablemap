@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T00:22:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Attended Intermediate Representations (AIR) Theory of Consciousness (Prinz)
+- **Output**: [[attended-intermediate-representations-theory-2026-07-11]]
+- **Sources consulted**: 6
+
 ## 2026-07-11T22:50:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Teleosemantics and Biosemantics (positive naturalistic theory of mental content)
