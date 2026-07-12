@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T02:36:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Non-Interactionist Dualisms (Occasionalism, Parallelism, Pre-Established Harmony)
+- **Output**: [[research/non-interactionist-dualisms-2026-07-12]]
+- **Sources consulted**: 7
+
 ## 2026-07-12T02:03:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Markov Blankets and the Boundary of Mind
