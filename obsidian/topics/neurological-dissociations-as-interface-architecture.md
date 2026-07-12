@@ -5,7 +5,7 @@ created: 2026-03-10
 modified: 2026-03-10
 human_modified:
 ai_modified: 2026-07-10T12:05:00+00:00
-last_deep_review: 2026-06-24T18:15:14+00:00
+last_deep_review: 2026-07-12T08:16:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

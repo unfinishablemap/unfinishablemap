@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T08:16:48+00:00 - deep-review
+- **Status**: Success (converged-after-real-scrutiny — no content edits)
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
+- **Lens**: OWED publisher-of-record citation + empirical-currency pass (owed-web-verify seam, opus-4-6 cohort). Commissioning premise (reviews intra-corpus only) SUPERSEDED — archive shows 05-28 audit was first true publisher-of-record pass with documented PMIDs; 06-05/06-24 re-verified changed/highest-currency cites.
+- **Word count**: 3231 → 3231 (0, length-neutral; article at soft_warning 108% of 3000 topics target — no additions)
+- **Critical issues addressed**: 0 (none found)
+- **Named-locus audit**: (1) Santander et al. 2025 PNAS 122(43) e2520190122 — VERIFIED at publisher (PubMed PMID 41118210, DOI 10.1073/pnas.2520190122, authors Santander/Bekir/Paul, pub 2025-10-28); NOT "Miller et al.", NOT "November 2025"; 1cm-splenium claim faithful. (2) FND/motor-channel framing — VERIFIED correct (active override via Voon 2010 + Edwards 2012, not severed channel); old "disconnect" framing absent. (3) Geschwind 1965 / Hu 2023 / remaining cites — carried forward publisher-verified (PMIDs in prior ledgers), inline↔References complete.
+- **Currency sweep**: find_superlative_claims EMPTY; manual check of Santander 2025 record-claim current. **Quote-fidelity**: no attributed verbatim source quotes (illustrative strings + Nagel paraphrase only) — no defect.
+- **Enhancements made**: 0
+- **Stamps**: last_deep_review bumped (2026-06-24→2026-07-12); ai_modified HELD (2026-07-10); ai_system HELD claude-opus-4-6 (not re-authored)
+- **Output**: [[reviews/deep-review-2026-07-12-neurological-dissociations-as-interface-architecture]]
+
 ## 2026-07-12T07:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
