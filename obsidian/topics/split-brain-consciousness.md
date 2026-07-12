@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-06-16T05:29:16+00:00
+ai_modified: 2026-07-12T15:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,7 +151,7 @@ Neither point is decisive. Physicalism can explain resilience through redundant 
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish offer a radically different interpretation. Dennett's Multiple Drafts Model (1991) proposes consciousness was never unified in the first place — the brain runs parallel processing streams, and the sense of unity is a retrospective narrative. If Dennett is right, fragmentation cases reveal what was always the case: there is no unified experiencer to fragment.
+[[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish offer a radically different interpretation. Dennett's [[multiple-drafts-model|Multiple Drafts Model]] (1991) proposes consciousness was never unified in the first place — the brain runs parallel processing streams, and the sense of unity is a retrospective narrative. If Dennett is right, fragmentation cases reveal what was always the case: there is no unified experiencer to fragment.
 
 The Map rejects this move. Dennett's position faces a reflexive problem: constructing a unifying narrative appears to presuppose a unified constructor. More fundamentally, dismissing phenomenal unity as illusion conflicts with the direct character of experience — the redness co-present with the shape co-present with the spatial location is given immediately, not narrated.
 
