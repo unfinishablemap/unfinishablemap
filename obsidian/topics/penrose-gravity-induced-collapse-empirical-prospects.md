@@ -116,6 +116,7 @@ The partial falsification of the parameter-free DP model is instructive. It show
 - [[qm-interpretations-beyond-many-worlds]]
 - [[what-consciousness-tells-us-about-physics]]
 - [[decoherence-and-macroscopic-superposition]]
+- [[bohm-implicate-order-and-active-information]] — A no-collapse rival: Bohm dissolves the measurement problem by denying collapse rather than triggering it gravitationally
 - [[the-reverse-inference#the-empirical-horizon|The Reverse Inference: The Empirical Horizon]] — Why this gravitational-OR intersection is the reverse inference's one point of empirical contact
 
 ## References

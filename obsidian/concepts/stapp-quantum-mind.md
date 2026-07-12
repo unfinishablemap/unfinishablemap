@@ -182,6 +182,7 @@ Predictions 1, 2, 3, 5 and 6 test the attention-and-effort layer the model share
 - [[valence-and-conscious-selection]] — Whether valence could extend the Zeno mechanism beyond value-neutral attention
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Three converging clinical evidence streams, with honest assessment of Schwartz's OCD research limitations
 - [[stapp-mental-effort-mind-matter-2026-01-14]] — Detailed research notes
+- [[bohm-implicate-order-and-active-information]] — A pilot-wave rival where guidance is deterministic; the Map borrows its form-directs-energy channel rather than its selection story
 - [[qm-interpretations-beyond-many-worlds]] — How Stapp's Zeno mechanism fits within the broader interpretive landscape
 - [[amplification-mechanisms-consciousness-physics]] — Comparative survey: Stapp's Zeno approach alongside five other amplification mechanisms
 - [[born-rule-and-the-consciousness-interface]] — Where Stapp's Zeno picture sits in the corridor-vs-minimum-outside-corridor taxonomy, and what current experiments can and cannot foreclose

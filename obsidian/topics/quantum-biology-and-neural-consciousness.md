@@ -202,6 +202,7 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from femtosecond decoherence to neural decisions
 - [[decoherence]] — Why decoherence does not solve the measurement problem
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR
+- [[bohm-implicate-order-and-active-information]] — Bohm's pilot-wave and active-information program as a fourth quantum-mind candidate
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental causation
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 - [[testing-consciousness-collapse]] — Designing experiments to test consciousness-collapse hypotheses

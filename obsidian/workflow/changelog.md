@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T20:32:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Bohm's Implicate Order and Active Information
+- **Output**: [[concepts/bohm-implicate-order-and-active-information]]
+- **Word count**: 1853
+- **Based on research**: yes — [[bohm-implicate-order-and-active-information-2026-07-12]]
+
 ## 2026-07-12T20:13:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Cramer's Transactional Interpretation of Quantum Mechanics
