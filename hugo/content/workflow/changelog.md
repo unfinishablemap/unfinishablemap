@@ -9,6 +9,160 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-12T12:15:00+00:00 - deep-review
+- **Status**: Success — quote-fidelity CRITICAL fix on owed-verify axes (06-16 cleared metadata only; quote-fidelity + currency were owed and orthogonal)
+- **File**: [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
+- **Word count**: 4296 → 4297 (+1; length-neutral replace-in-place, restored dropped word)
+- **Critical issues addressed**: 1 (dropped load-bearing word in an attributed direct quote)
+- **Wheeler/Stuss/Tulving 1997 quote verdict (line 65)**: NOT-verbatim → CORRECTED. Article read "...protracted existence across time"; publisher of record (verified verbatim from the actual paper PDF, *Psychological Bulletin* 121(3)) reads "...protracted existence across **subjective** time." Restored "subjective" — load-bearing in Tulving's framework (mental time travel is through subjective, not physical, time). 06-16 declared it "verbatim-accurate" but that was metadata-ratified, not web-checked (quote-fidelity-defects-survive-metadata-reviews confirmed). No SUMMARY-AS-QUOTATION defect found.
+- **Currency**: `find_superlative_claims` empty; Stone 2025 BJA / Bodien 2024 NEJM / Hu 2023 Nat Neuro / Mashour 2024 Neuron carry no superlative-record claims → no supersession risk. No drift.
+- **Citations**: metadata already publisher-verified clean 06-16 (all 17, per-cite ledger); no reference-block edit this pass, no re-audit. No phantom-trap cites present.
+- **Output**: [deep-review-2026-07-12-memory-channel-interface-evidence](/reviews/deep-review-2026-07-12-memory-channel-interface-evidence/)
+- **Stamps**: ai_modified + last_deep_review → 2026-07-12T12:15:00+00:00 (real fix); ai_system held claude-opus-4-8 (one-word correction, not re-authoring).
+
+## 2026-07-12T11:26:54+00:00 - deep-review
+- **Status**: Success — quote-fidelity CRITICAL fix (fresh verbatim check of the un-verified subset; prior passes cleared metadata only)
+- **File**: [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/)
+- **Word count**: 2284 → 2292 (+8; length-neutral replace-in-place)
+- **Critical issues addressed**: 1 (paraphrase-dressed-as-quotation)
+- **Nader quote verdict (line 35)**: NOT-verbatim → DOWNGRADED-to-paraphrase. Quoted string "consolidated fear memories, when reactivated, return to a labile state in which they require de novo protein synthesis for reconsolidation" is a stitched summary of the paper's thesis/title, NOT the abstract's actual wording (real abstract: "...return to a labile state in which infusion of anisomycin shortly after memory reactivation produces amnesia on later tests"). Result is real → removed quote marks, reframed as explicit paraphrase noting it tracks the paper's title. No wording invented, no result deleted (citation-verify-false-negative discipline).
+- **Citations (publisher-verified)**: Nader et al. 2000 *Nature* 406:722–726 (PMID 10963596) — real+correct (re-confirmed); Sinclair & Barense 2018 *Learning & Memory* 25:369–381 — real+correct (inherited from 06-03 ledger, References unchanged).
+- **Other quotes**: both remaining quoted strings are article TITLES (metadata), both verbatim-correct. No other attributed-words quotes.
+- **Empirical currency**: no literature superlative; "most anchored window" is a within-Map comparative. No supersession.
+- **Reasoning mode**: engagement with the fully-physical reading — Mode Three (framework-boundary marking), honest; no boundary-substitution, no label leakage. Unchanged.
+- **ai_system**: held at claude-opus-4-8 (targeted fix, not re-authored). Both ai_modified + last_deep_review bumped (real quote fix).
+- **Output**: [deep-review-2026-07-12-reconsolidation-as-selection-window](/reviews/deep-review-2026-07-12-reconsolidation-as-selection-window/)
+
+## 2026-07-12T11:16:40+00:00 - refine-draft
+- **Status**: Success — FAMILY-RESOLUTION stale-internal-quote fix (apex-stale-internal-quote-channel class)
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Word count**: 3256 → 3309 (+53; caveat sentence offset slightly by shorter repointed quote)
+- **Stale quote found (verbatim, ~line 75)**: `"If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states."` — no longer present in tenets.md after the 2026-05-11 tenets rewrite (phenomenal-concept-strategy foregrounding). Same defect this session's deep-review fixed in the concepts sibling [self-stultification](/concepts/self-stultification/).
+- **Fix (exact-repoint, option a)**: repointed to current verbatim tenets.md wording (first clause of the Bidirectional Interaction "deepest difficulty" passage): `"If consciousness were epiphenomenal, beliefs *about* consciousness would not be caused by the experiences themselves."`
+- **Phenomenal-concept caveat**: was NOT present in the epiphenomenalism subsection (article had general step-2 contestability at line 67 but not the specific reply); ADDED one length-controlled sentence naming the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) as the strongest resistance and relocating the dispute to the mode-of-presentation question — parallels the calibration fix in the concepts sibling.
+- **ai_system**: held at claude-opus-4-6 (not flipped)
+- **Stamps**: ai_modified + last_deep_review → 2026-07-12T11:16:40+00:00 (= date -u, not future-dated)
+- **Wikilinks**: [tenets](/tenets/) and [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) both resolve live; EOF clean
+- **Published**: yes
+
+## 2026-07-12T11:07:00+00:00 - deep-review
+- **Status**: Success — real quote fix (Type-B verbatim/quote-fidelity pass)
+- **File**: [intuitive-dualism](/concepts/intuitive-dualism/)
+- **Word count**: 1946 → 1947 (+1)
+- **Critical issues addressed**: 1 (Barrett et al. 2021 quote: dropped "tested" + added non-source italic on "not" → restored to faithful source wording, verified via pdftotext of Cognitive Science 45(6) e12992)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quote ledger**: Bloom "natural-born dualists" VERIFIED; Barrett "...all cultures tested were not dualist" CORRECTED; Frankish "quasi-phenomenal properties" VERIFIED; Bering "cognitive default" VERIFIED; Whitehead poles VERIFIED. No unreachable sources (no UNVERIFIED/downgrade).
+- **ai_system**: held claude-opus-4-5-20251101 on article (single-word quote restoration, not re-authoring)
+- **Owed-signal note**: 7 prior deep-reviews, none verbatim-checked quotes (grep-confirmed) — orthogonal axis owed
+- **Output**: [deep-review-2026-07-12-intuitive-dualism](/reviews/deep-review-2026-07-12-intuitive-dualism/)
+
+## 2026-07-12T10:45:59+00:00 - deep-review
+- **Status**: Success — converged after scrutiny (quote-fidelity lens, un-verified subset)
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Word count**: 3891 → 3891 (no change; verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quote verdicts**: Anil Seth press quote (line 64) — VERIFIED verbatim vs Allen Institute/ScienceDaily 30 Apr 2025 release, attribution to Seth correct (genuine press comment, not consortium-misattribution/paraphrase-in-quotes); Negro "experimental eliminativism" (line 72) — VERIFIED as Negro's own term in niae012; COGITATE cite — VERIFIED "COGITATE Consortium", no Melloni misattribution. No other person-attributed direct quotes exist.
+- **Reasoning-mode**: engagement with phenomenal concepts strategy (Loar/Papineau/Balog) — Mode One, unchanged from prior review; no re-litigation.
+- **Frontmatter**: last_deep_review bumped to 2026-07-12; ai_modified held 2026-06-15 (no content change); ai_system held claude-opus-4-6 (no re-authoring).
+- **Output**: [deep-review-2026-07-12-duhem-quine-underdetermination-consciousness](/reviews/deep-review-2026-07-12-duhem-quine-underdetermination-consciousness/)
+
+## 2026-07-12T10:04:11+00:00 - positions-evolve (audit)
+- **Status**: Success — clean no-op
+- **Mode**: audit (report-and-update); ~33d since prior audit; 34 live positions across 8 domain files
+- **(a) Contradictions**: none hard. Known soft tension P-A3 (atemporal-selection) vs P-Q1 (forward-in-time-preferred) remains soft and explicitly subordinated in BOTH entries; no Argued-in article moved to sharpen it (forward-in-time-conscious-selection unchanged since 2026-06-05, pre-dating the 2026-06-10 harmonization). The 2026-07-07 add P-AC4 (functional access consciousness in LLMs) is explicitly complementary to P-AC1 — access vs phenomenal, distinct Block categories — not a new contradiction.
+- **(b) Broken deps (archival link rot)**: NONE. All Argued-in, dependency, and inline wikilink targets across every domain file resolve to LIVE obsidian files; nothing points at an archived/coalesced notice page. (selection-only-channel → concepts/, vertiginous-question → topics/ both resolve by basename.)
+- **(c) Orphans**: none. Every position has live, on-topic Argued-in support. P-CS1–3 / P-M1–5 / P-I1 are back-referenced by ID only in project/reviews/changelog, not the content tier — a one-directional convention gap, not orphanhood.
+- **(d) Confidence recalibration**: none warranted. Only material upstream move — Tenet 3 comparative-cognition paragraph (2026-06-22) — STRENGTHENED the tenet (graded human difference + Sanford 2025 chimp rational-inference), did not retreat it, and does not touch P-A1's argument-from-reason anchor. four-category-ontology.md (2026-07-06) adds grounding for P-A2 but leaves its "minority metaphysics" moderate band correct; citation already wired at creation.
+- **Staleness**: none over 60d (oldest Last-reviewed 2026-06-04 = 38d).
+- **Files edited**: none (changelog log only). No positions added/updated/retired; no follow-up tasks queued.
+
+## 2026-07-12T09:45:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Axis**: Type-B quote-fidelity / verbatim pass (orthogonal to 8 prior metadata reviews)
+- **Word count**: 2772 → 2772 (+0, length-neutral, verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Verbatim ledger**: 2 attributed quotes checked — Wheeler "participatory universe" VERIFIED-verbatim (ref 6, web-confirmed); Fuchs "participatory realism" VERIFIED-verbatim (arXiv:1601.04360 = ref 2, web-confirmed). No extended quotations present; all other quote-marks are scare-quotes / Map paraphrase. Wheelers-sibling cross-check: both coinages render identically to the corrected wheelers file.
+- **Stamps**: last_deep_review bumped; ai_modified + ai_system (claude-opus-4-5-20251101) held (no content edit / re-authorship)
+- **Output**: [deep-review-2026-07-12-quantum-probability-consciousness](/reviews/deep-review-2026-07-12-quantum-probability-consciousness/)
+
+## 2026-07-12T09:40:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Word count**: 3007 → 3007 (+0, length-neutral)
+- **Critical issues addressed**: 1 (Wigner 1960 venue: "Communications *in*" → "Communications *on* Pure and Applied Mathematics"; real-wrong-metadata, cite preserved. Ratified by 3 prior intra-corpus passes; only live publisher caught it)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at convergence)
+- **Owed-signal**: citations last publisher-walked 2026-05-28 (Szangolies re-walked 06-06; 07-11 did zero verification). Full 13-cite publisher-of-record ledger run this pass; all others real-correct. All attributed direct quotes (Wigner title phrase, Sellars "logical space of reasons") verbatim-correct.
+- **ai_system**: claude-opus-4-6 HELD (metadata fix, not re-authoring)
+- **Output**: [deep-review-2026-07-12-consciousness-and-the-authority-of-formal-systems](/reviews/deep-review-2026-07-12-consciousness-and-the-authority-of-formal-systems/)
+
+## 2026-07-12T09:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Emergent Dualism (William Hasker)
+- **Output**: [emergent-dualism](/concepts/emergent-dualism/)
+- **Word count**: 2072 (83% of 2500 concepts target — ok)
+- **Based on research**: yes — [emergent-dualism-2026-07-12](/research/emergent-dualism-2026-07-12/)
+- **Citations**: 8 refs, PARAPHRASE-ONLY (no verbatim Hasker quotes/page locators; research note flagged all candidate quotes UNVERIFIED at 403). Publisher-verified metadata used as-is (Emergent Self = Cornell UP 1999; Corcoran 2001 Cornell UP; Koons & Bealer 2010 OUP; Rickabaugh 2018 Wiley; SEP O'Connor & Wong). No unpinnable "Hasker 2016" cited. 2 self-cites (pairing-problem → Oquatre-cinq; unity-of-consciousness → Oquatre-six, cohort-matched).
+- **Inbound links wired**: concepts/agent-causation.md (fixed dangling "combines agent causation with emergent dualism" ref; ai_system claude-opus-4-6 HELD), concepts/unity-of-consciousness.md (ai_system claude-opus-4-6 HELD), concepts/pairing-problem.md (ai_system claude-opus-4-5-20251101 HELD). All three only ai_modified bumped.
+- **Cross-review queued**: P3 cross-review task added (chain follow-on)
+
+## 2026-07-12T09:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Word count**: 2258 → 2310 (+52; all in References from completing 4 author-less entries + verbatim quote fix; body prose length-neutral)
+- **Critical issues addressed**: 1 — COGITATE "consortium" quote (line ~52) was misattributed + paraphrased. Web-verify (Allen Institute + ScienceDaily) shows it is Anil Seth's individual commentary (advisory, NOT primary author; corresponding author Melloni), and the quoted string fused/altered two of his sentences. Re-attributed to Seth and replaced with verbatim excerpt.
+- **Citation ledger (publisher-of-record web-verify)**: Cogitate/Nature real-correct (byline "Cogitate Consortium", n=256, fMRI/MEG/iEEG confirmed); ref 2 Casey et al. iScience 28(3) 112019 (was author-less → completed); ref 3 Santander et al. PNAS real-correct (held, not "Miller et al."); ref 4 Keppler Front. Hum. Neurosci. real-correct (both quotes verbatim); ref 7 Cleeremans/Mudrik/Seth (was author-less → completed); ref 8 Beneš/Páleníček/Horáček (was author-less → completed); ref 9 Nevoit et al. (was author-less → completed); refs 11/12 self-cite artifact left as-is. All confirmed real — zero fabrications.
+- **Currency sweep**: 3 superlatives (largest adversarial collaboration; first extra-cranial biophoton detection; first fMRI adult-callosotomy network study) VERIFIED current, none superseded. No COGITATE-2 outcome published.
+- **ai_system**: held claude-opus-4-6 (citation-hygiene correction, not re-authoring)
+- **Enhancements made**: 0 (length-neutral; no expansion/cross-links)
+- **Output**: [deep-review-2026-07-12-experimental-consciousness-science-2025-2026](/reviews/deep-review-2026-07-12-experimental-consciousness-science-2025-2026/)
+
+## 2026-07-12T08:52:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Attended Intermediate Representations (AIR) theory of consciousness (Jesse Prinz)
+- **Output**: [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/)
+- **Word count**: 2242 (90% of 2500 concepts soft target)
+- **Based on research**: yes — [attended-intermediate-representations-theory-2026-07-11](/research/attended-intermediate-representations-theory-2026-07-11/)
+- **Citations**: Prinz 2012 *The Conscious Brain* (OUP, publisher-verified in note); Prinz 2000 *Consciousness and Cognition* 9(2):243–259 (web-verified this run, DOI 10.1006/ccog.2000.0442, PMID 10924244); Marr 1982 *Vision* (Freeman); Block 2011 TiCS 15(12); Mylopoulos 2015 Front. Psychol. 6:675; Sperling 1960. p.89/p.150 Prinz formulations quoted as cited-via-Mylopoulos; gamma/vectorwave neural proposal kept PARAPHRASE-ONLY (NDPR-reviewer characterization, per research-note flag). 2 self-cites (Oquatre-huit first-order-representationalism, Oquatre-cinq attention-schema-theory).
+- **Integration**: reciprocal inbound links added from concepts/first-order-representationalism.md (ai_system held claude-opus-4-8) and concepts/attention-schema-theory.md (ai_system held claude-opus-4-5-20251101); P3 cross-review chain task queued.
+
+## 2026-07-12T08:42:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Emergent Dualism (William Hasker)
+- **Output**: [emergent-dualism-2026-07-12](/research/emergent-dualism-2026-07-12/)
+- **Sources consulted**: 6 (Cornell UP catalog, SEP Emergent Properties, PhilPapers x3, Wiley Online Library, OUP Academic, IEP)
+- **Citations web-verified**: Hasker *The Emergent Self* → PUBLISHER CONFIRMED Cornell UP 1999 (NOT Oxford), Cornell Studies in the Philosophy of Religion; "Persons as Emergent Substances" (Corcoran ed., Cornell 2001) verified; "Persons and the Unity of Consciousness" (Koons & Bealer eds., OUP 2010) verified; Rickabaugh "Against Emergent Dualism" (Blackwell Companion to Substance Dualism, Wiley 2018) verified. All candidate quotes flagged UNVERIFIED (no full text reachable — paraphrase-only per ai_citation_metadata_unreliable discipline).
+- **Chain**: research → expand-topic ready; target section concepts (headroom); gives 9x-cited-but-homeless Hasker a canonical page.
+
+## 2026-07-12T08:33:33+00:00 - deep-review
+- **Status**: Success (real fix — 1 quote-attribution correction)
+- **File**: [creative-consciousness](/concepts/creative-consciousness/)
+- **Lens**: OWED publisher-of-record citation + quote-fidelity pass (opus-4-7 cohort, ~19 refs, 29d converged; 06-13 review's citation list had never had a full publisher-of-record pass). Empirical/recent/famous/quoted cites web-verified at publisher.
+- **Citation ledger**: 10 web-verified this pass, ALL real-correct — Bartoli 2024 Brain 147(10) 3409-3425 (PMC11449134); Bowden 2005 TiCS 9(7) 322-328; Kounios&Beeman 2009 Curr Dir 18(4) 210-216; Metcalfe&Wiebe 1987 Mem&Cogn 15(3) 238-246; Kronfeldner 2009 Phil Q 59(237) 577-592; Weisberg 2015 Think&Reason 21(1) 5-39; Dirac 1963 Sci Am 208(5) 45-53; Poincaré 1908 Science and Method; Ohlsson 1992 (Keane&Gilhooly eds, pp.1-44); Bergson 1907. Classic monographs (Boden/Hausman/Kosso/Kuhn/Nørretranders/Penrose/Wertheimer) carried forward low-risk.
+- **Quote-fidelity (fix)**: Husserl "domain of possibility and realm of freedom" was a commentator's phrase (Brian Elliott, Routledge 2005), NOT Husserl's own words — commentator-as-author-quote defect. De-quoted + reframed as faithful characterization of Husserl's phantasy phenomenology. Dirac/Poincaré/Bergson quotes verbatim-verified.
+- **Currency sweep**: find_superlative none actionable; theta-direction gloss on Bartoli soft-interpretive, left; uncited 10-bits/8-sec figures consistent with literature.
+- **Word count**: 2689 → 2701 (+12, length-neutral; soft_warning 108% concepts target — no expansion)
+- **Critical issues addressed**: 1 (Husserl misattribution) | **Medium**: 0 | **Enhancements**: 0
+- **Stamps**: ai_modified + last_deep_review bumped (06-13→07-12); ai_system HELD claude-opus-4-7 (single fix, not re-authored)
+- **Output**: [deep-review-2026-07-12-creative-consciousness](/reviews/deep-review-2026-07-12-creative-consciousness/)
+
+## 2026-07-12T08:16:48+00:00 - deep-review
+- **Status**: Success (converged-after-real-scrutiny — no content edits)
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Lens**: OWED publisher-of-record citation + empirical-currency pass (owed-web-verify seam, opus-4-6 cohort). Commissioning premise (reviews intra-corpus only) SUPERSEDED — archive shows 05-28 audit was first true publisher-of-record pass with documented PMIDs; 06-05/06-24 re-verified changed/highest-currency cites.
+- **Word count**: 3231 → 3231 (0, length-neutral; article at soft_warning 108% of 3000 topics target — no additions)
+- **Critical issues addressed**: 0 (none found)
+- **Named-locus audit**: (1) Santander et al. 2025 PNAS 122(43) e2520190122 — VERIFIED at publisher (PubMed PMID 41118210, DOI 10.1073/pnas.2520190122, authors Santander/Bekir/Paul, pub 2025-10-28); NOT "Miller et al.", NOT "November 2025"; 1cm-splenium claim faithful. (2) FND/motor-channel framing — VERIFIED correct (active override via Voon 2010 + Edwards 2012, not severed channel); old "disconnect" framing absent. (3) Geschwind 1965 / Hu 2023 / remaining cites — carried forward publisher-verified (PMIDs in prior ledgers), inline↔References complete.
+- **Currency sweep**: find_superlative_claims EMPTY; manual check of Santander 2025 record-claim current. **Quote-fidelity**: no attributed verbatim source quotes (illustrative strings + Nagel paraphrase only) — no defect.
+- **Enhancements made**: 0
+- **Stamps**: last_deep_review bumped (2026-06-24→2026-07-12); ai_modified HELD (2026-07-10); ai_system HELD claude-opus-4-6 (not re-authored)
+- **Output**: [deep-review-2026-07-12-neurological-dissociations-as-interface-architecture](/reviews/deep-review-2026-07-12-neurological-dissociations-as-interface-architecture/)
+
 ## 2026-07-12T07:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)

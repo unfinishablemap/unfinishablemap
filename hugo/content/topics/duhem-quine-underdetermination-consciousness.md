@@ -18,7 +18,7 @@ description: No experiment can isolate a consciousness theory for testing. Human
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-15 00:00:00+00:00
+last_deep_review: 2026-07-12 10:45:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

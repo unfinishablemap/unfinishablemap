@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-06-16 04:30:00+00:00
+ai_modified: 2026-07-12 12:13:12+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: Why memory channels fail in a fixed order across anaesthesia, sleep
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 04:30:00+00:00
+last_deep_review: 2026-07-12 12:13:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ The argument has the structure of an accommodation contest. Production theories 
 
 Endel Tulving's 1985 framework divides memory into three systems, each with its own mode of consciousness ([developed in detail at the concept tier](/concepts/anoetic-noetic-autonoetic-consciousness/)). The bare structure is what does the work here.
 
-**Anoetic consciousness** accompanies [procedural and implicit memory](/concepts/implicit-memory/): present-tense phenomenal fluency without self-representation, as in a skilled cyclist. **Noetic consciousness** accompanies [semantic memory](/concepts/semantic-memory/): a feeling of knowing (Paris is the capital of France) without re-experiencing any episode, made vivid by the tip-of-the-tongue phenomenon. **Autonoetic consciousness** accompanies [episodic memory](/concepts/episodic-memory/) and its future-directed counterpart: remembering a childhood afternoon involves *re-inhabiting* a perspective, the self appearing twice — present rememberer and past protagonist — with a felt sense of pastness that constitutes the experience. Wheeler, Stuss, and Tulving (1997) defined it as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across time."
+**Anoetic consciousness** accompanies [procedural and implicit memory](/concepts/implicit-memory/): present-tense phenomenal fluency without self-representation, as in a skilled cyclist. **Noetic consciousness** accompanies [semantic memory](/concepts/semantic-memory/): a feeling of knowing (Paris is the capital of France) without re-experiencing any episode, made vivid by the tip-of-the-tongue phenomenon. **Autonoetic consciousness** accompanies [episodic memory](/concepts/episodic-memory/) and its future-directed counterpart: remembering a childhood afternoon involves *re-inhabiting* a perspective, the self appearing twice — present rememberer and past protagonist — with a felt sense of pastness that constitutes the experience. Wheeler, Stuss, and Tulving (1997) defined it as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across subjective time."
 
 The three systems are doubly dissociable in the clinical literature. Patient K.C., after extensive bilateral brain damage, retained semantic and noetic awareness while losing episodic memory and autonoetic consciousness entirely (Tulving 2002); semantic dementia produces the inverse early in its course; skilled procedural performance can survive both. This is a layered architecture whose layers can be addressed separately, not a single continuum.
 

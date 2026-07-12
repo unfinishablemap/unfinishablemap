@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-07 13:21:32+00:00
+ai_modified: 2026-07-12 10:18:40+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -193,6 +193,8 @@ Focused attention (FA) meditation trains selection; open monitoring (OM) cultiva
 **Predictive Processing**: Treats attention as precision weighting—compatible with the interface hypothesis, where consciousness biases which precision signals win.
 
 **Attention Schema Theory**: AST explains how brains model computational attention but not why modelling should produce phenomenal attention. AST explains access to attention states but not phenomenal character.
+
+**Attended Intermediate Representations (AIR)**: Prinz's [AIR theory](/concepts/attended-intermediate-representations-theory/) makes attention *constitutive*—the attended intermediate perceptual representation *is* the experience—where the interface hypothesis reads the same attention-gating as *selection* among the representations the brain makes available.
 
 COGITATE (2025) found neither GWT nor IIT clearly vindicated—the Map's tenets point toward consciousness as an irreducible player using these mechanisms without being identical to them.
 

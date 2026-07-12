@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-07-11 13:15:00+00:00
+ai_modified: 2026-07-12 09:40:53+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: Logic compels and mathematics describes with extraordinary precisio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 13:15:00+00:00
+last_deep_review: 2026-07-12 09:40:53+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -168,7 +168,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 1. Russell, B. (1927). *The Analysis of Matter*. London: Kegan Paul.
 1. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
 1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.
-1. Wigner, E. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications in Pure and Applied Mathematics*, 13(1), 1–14.
+1. Wigner, E. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications on Pure and Applied Mathematics*, 13(1), 1–14.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.

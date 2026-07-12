@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-06-13 06:32:03+00:00
+ai_modified: 2026-07-12 08:33:33+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: Consciousness contributes to creativity by generating possibilities
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-13 06:32:03+00:00
+last_deep_review: 2026-07-12 08:33:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ One account treats consciousness as selector: the brain's unconscious processes 
 
 A rival account, owed to Bergson, treats consciousness as constitutively creative. For Bergson, [durée](/concepts/temporal-consciousness/) is "invention or it is nothing at all." Each moment of conscious experience genuinely differs from all that preceded it. The "options" consciousness selects from don't pre-exist the selection; they emerge through the process of conscious attention. Imagination doesn't rifle through a fixed catalogue but explores and thereby constitutes what's possible.
 
-The apparent opposition dissolves. Imagination and attention are two aspects of consciousness's creative contribution, not competing accounts of it. **Imagination generates possibility space:** Husserl called imagination the "domain of possibility and realm of freedom." When you imagine alternatives, you are not accessing a database but actively exploring what could be. **Attention actualises specific possibilities** through the [attention mechanism](/concepts/attention-as-interface/); the quantum Zeno mechanism is one candidate physical implementation. **These are unified rather than sequential.** Each imaginative move shapes what further possibilities become available; attention to one possibility opens some paths and closes others. The [phenomenology of deliberation](/concepts/phenomenology-of-choice-and-volition/) reveals this directly: options don't sit statically waiting to be picked — they evolve through consideration.
+The apparent opposition dissolves. Imagination and attention are two aspects of consciousness's creative contribution, not competing accounts of it. **Imagination generates possibility space:** Husserl's phenomenology of phantasy marks imagination as a domain of possibility and a realm of freedom, self-originated in a way perception is not. When you imagine alternatives, you are not accessing a database but actively exploring what could be. **Attention actualises specific possibilities** through the [attention mechanism](/concepts/attention-as-interface/); the quantum Zeno mechanism is one candidate physical implementation. **These are unified rather than sequential.** Each imaginative move shapes what further possibilities become available; attention to one possibility opens some paths and closes others. The [phenomenology of deliberation](/concepts/phenomenology-of-choice-and-volition/) reveals this directly: options don't sit statically waiting to be picked — they evolve through consideration.
 
 Margaret Boden's three types of creativity clarify the integration:
 

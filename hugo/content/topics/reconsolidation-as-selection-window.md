@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-16 12:34:35+00:00
+ai_modified: 2026-07-12 11:26:54+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Memory reconsolidation reopens a stored trace to revision each time
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 12:34:35+00:00
+last_deep_review: 2026-07-12 11:26:54+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-memory]]'
@@ -36,7 +36,7 @@ This article keeps those two claims separate throughout. The empirical signature
 
 ## The Empirical Signature: Retrieval Destabilises the Trace
 
-The foundational result is Nader, Schafe, and LeDoux (2000), titled "Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval" (*Nature* 406:722–726). Rats trained on a conditioned fear memory had that memory reactivated by a reminder cue; an inhibitor of protein synthesis (anisomycin) infused into the lateral and basal amygdala shortly after reactivation produced amnesia for the reactivated memory. A consolidated memory—one that had already been stabilised and was resistant to disruption—became disruptable again *because it had been retrieved*. The authors' summary is direct: "consolidated fear memories, when reactivated, return to a labile state in which they require de novo protein synthesis for reconsolidation."
+The foundational result is Nader, Schafe, and LeDoux (2000), titled "Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval" (*Nature* 406:722–726). Rats trained on a conditioned fear memory had that memory reactivated by a reminder cue; an inhibitor of protein synthesis (anisomycin) infused into the lateral and basal amygdala shortly after reactivation produced amnesia for the reactivated memory. A consolidated memory—one that had already been stabilised and was resistant to disruption—became disruptable again *because it had been retrieved*. The authors' finding, in summary, is that consolidated fear memories, when reactivated, return to a labile state in which they require de novo protein synthesis for reconsolidation—the claim compressed in the paper's title.
 
 Three features of this signature do real work in what follows:
 

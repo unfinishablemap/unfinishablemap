@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-11 12:35:00+00:00
+ai_modified: 2026-07-12 10:18:40+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -202,6 +202,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [filter-theory](/concepts/filter-theory/) — The transmission model reinterpreting NCCs as interface points
 - [integrated-information-theory](/concepts/integrated-information-theory/) — One major NCC-compatible theory
 - [recurrent-processing-theory](/concepts/recurrent-processing-theory/) — The local / first-order NCC theory: phenomenal consciousness as re-entrant sensory-cortex processing
+- [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/) — Prinz's AIR: a first-order, attention-based NCC candidate locating the correlate in attended intermediate-level sensory representations
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How non-physical consciousness could interact with NCC
 - [illusionism](/concepts/illusionism/) — The view that consciousness is a brain-generated illusion
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity and complexity — what NCCs track at different levels

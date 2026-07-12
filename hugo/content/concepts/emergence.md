@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-07 05:11:34+00:00
+ai_modified: 2026-07-12 10:31:57+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -59,6 +59,8 @@ Weak emergence is compatible with [physicalism](/concepts/materialism/) and [cau
 Higher-level properties are genuinely novel—not deducible even in principle from lower-level facts. Strong emergence is incompatible with physicalism. The emergent property supervenes with only *nomological* (natural law) necessity (see [supervenience](/concepts/supervenience/) for the distinction): same physical base could have different emergent properties under different laws. Or no emergent properties at all—the conceivability of [zombies](/concepts/philosophical-zombies/) illustrates this.
 
 C.D. Broad established emergence as a distinct philosophical position in 1925. His criterion: "the characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties in isolation.
+
+The most ambitious version of strong emergence posits not merely novel *properties* but a novel *individual*: William Hasker's [emergent dualism](/concepts/emergent-dualism/) holds that a sufficiently organised brain generates a new, non-composite mental substance, not just irreducible features of the brain.
 
 On the strong-emergence framing, consciousness counts as strongly emergent: no arrangement of neurons logically entails the presence of experience. This is the [hard problem](/topics/hard-problem-of-consciousness/)—the seeming impossibility of deriving phenomenal facts from physical facts. The Map endorses the irreducibility this framing captures, but its canonical reading is comparative rather than committal: as the closing sections set out, its own ontology is [bi-aspectual co-fundamentality](/concepts/bi-aspectual-ontology/) (consciousness does not *arise from* a physical base), and strong-emergence vocabulary is used here to locate the Map against rival positions, not to endorse a from-below derivation.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-11 13:04:00+00:00
+ai_modified: 2026-07-12 11:48:19+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: 'Two forms of dualism: separate mental substances versus irreducibl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 06:20:41+00:00
+last_deep_review: 2026-07-12 11:48:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ Property dualism holds that mental properties—the painfulness of pain, the red
 
 **[Russellian monism](/concepts/russellian-monism/)** holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or ground) the intrinsic nature physics doesn't capture. Critics argue it inherits dualism's difficulties: Pautz (2015) contends it requires brute "grounding laws" connecting quiddities to consciousness, structurally parallel to dualism's psychophysical laws—"Though called a physicalist view, it seems to have many of the vices of dualism." The Map names this pattern [disguised-property-dualism](/concepts/disguised-property-dualism/)—a theory doing property-dualist work without paying its conceptual rent—and accepts the structural commitment openly instead.
 
-**Emergent dualism** holds that mental properties [emerge](/concepts/emergence/) from physical complexity in ways unpredictable from physical theory alone. The emergence is ontological, not merely epistemic—mental properties are genuinely novel when complex systems arise.
+**Emergent dualism** holds that mental properties [emerge](/concepts/emergence/) from physical complexity in ways unpredictable from physical theory alone—ontological, not merely epistemic, emergence. The label spans two positions, though: this property-emergence variant, and [Hasker's canonical substance-emergence view](/concepts/emergent-dualism/), on which the brain generates a genuinely new mental *subject* with novel causal powers, not merely new properties.
 
 ### The Appeal of Property Dualism
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-24 18:54:42+00:00
+ai_modified: 2026-07-12 11:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Do humans naturally separate mind from body? Evidence is mixed—bu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 18:54:42+00:00
+last_deep_review: 2026-07-12 11:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ Bloom's conclusion: because these cognitive mechanisms operate independently, du
 
 ## The Cross-Cultural Challenge
 
-Barrett et al.'s 2021 study challenged Bloom's thesis. They recruited over 2,000 participants across six populations (North Americans, Ecuadorians, Fijians, Ghanaians, Thai Buddhists, Vanuatu Islanders). The key finding: "Most responses of most participants across all cultures were *not* dualist." Even in cultures with strong afterlife traditions, people intuitively expected mental states to cease with bodily death.
+Barrett et al.'s 2021 study challenged Bloom's thesis. They recruited over 2,000 participants across six populations (North Americans, Ecuadorians, Fijians, Ghanaians, Thai Buddhists, Vanuatu Islanders). The key finding: "Most responses of most participants across all cultures tested were not dualist." Even in cultures with strong afterlife traditions, people intuitively expected mental states to cease with bodily death.
 
 Barrett et al. proposed the cognitive default is actually **intuitive materialism**: the underlying systems for reasoning about minds produce judgments that mental states cease with death. Dualist beliefs require cultural transmission rather than expressing innate tendencies. This reverses the standard picture—dualism isn't the folk error to be corrected; it's a learned position.
 

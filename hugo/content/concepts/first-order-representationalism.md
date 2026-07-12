@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 14:50:00+00:00
+ai_modified: 2026-07-12 08:52:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -64,7 +64,7 @@ The representationalist's inference: the best explanation of transparency is tha
 
 Three distinctions keep "representationalism" from collapsing into a single position:
 
-- **First-order (Tye, Dretske, Harman; often Dennett)**: phenomenal character is the first-order content of the experience. No higher-order state is needed for feel; the feel is already present in the world-directed content.
+- **First-order (Tye, Dretske, Harman; often Dennett)**: phenomenal character is the first-order content of the experience. No higher-order state is needed for feel; the feel is already present in the world-directed content. Jesse Prinz's [AIR theory](/concepts/attended-intermediate-representations-theory/) is a neurofunctionalist cousin in this family: it keeps consciousness first-order and perceptual, but adds attention to a specific (intermediate) processing level as the gate that switches such content on.
 - **Higher-order ([Rosenthal's HOT, Lycan's inner-sense theory](/concepts/higher-order-theories/))**: a state is *conscious* in virtue of being represented by a suitable further mental state. William Lycan is a useful hybrid—representationalist about qualia at the first order, but higher-order about a state's *being conscious*—which is why he is not filed as a pure first-order theorist.
 - **Non-reductive (Tim Crane; David Chalmers's Fregean representationalism)**: phenomenal character covaries with representational content, but the content-property is not thereby *physically reduced*. Chalmers pairs representational structure with property dualism or panprotopsychism.
 
@@ -93,6 +93,7 @@ The honest counterweight: the representationalist has real advantages the Map sh
 ## Further Reading
 
 - [intentionality](/concepts/intentionality/) — The general "aboutness" of mental states; first-order representationalism is the narrower claim that consciousness reduces to first-order aboutness
+- [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/) — Prinz's attention-gated, neurofunctionalist first-order theory
 - [higher-order-theories](/concepts/higher-order-theories/) — The contrast class: consciousness as one state representing another (Rosenthal, Lycan)
 - [qualia](/concepts/qualia/) — The intrinsic phenomenal properties strong representationalism denies
 - [inverted-qualia](/concepts/inverted-qualia/) — The inverted-spectrum and Inverted Earth cases that pressure the view
