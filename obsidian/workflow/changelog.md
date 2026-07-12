@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T12:15:00+00:00 - deep-review
+- **Status**: Success — quote-fidelity CRITICAL fix on owed-verify axes (06-16 cleared metadata only; quote-fidelity + currency were owed and orthogonal)
+- **File**: [[topics/memory-channel-interface-evidence]]
+- **Word count**: 4296 → 4297 (+1; length-neutral replace-in-place, restored dropped word)
+- **Critical issues addressed**: 1 (dropped load-bearing word in an attributed direct quote)
+- **Wheeler/Stuss/Tulving 1997 quote verdict (line 65)**: NOT-verbatim → CORRECTED. Article read "...protracted existence across time"; publisher of record (verified verbatim from the actual paper PDF, *Psychological Bulletin* 121(3)) reads "...protracted existence across **subjective** time." Restored "subjective" — load-bearing in Tulving's framework (mental time travel is through subjective, not physical, time). 06-16 declared it "verbatim-accurate" but that was metadata-ratified, not web-checked (quote-fidelity-defects-survive-metadata-reviews confirmed). No SUMMARY-AS-QUOTATION defect found.
+- **Currency**: `find_superlative_claims` empty; Stone 2025 BJA / Bodien 2024 NEJM / Hu 2023 Nat Neuro / Mashour 2024 Neuron carry no superlative-record claims → no supersession risk. No drift.
+- **Citations**: metadata already publisher-verified clean 06-16 (all 17, per-cite ledger); no reference-block edit this pass, no re-audit. No phantom-trap cites present.
+- **Output**: [[reviews/deep-review-2026-07-12-memory-channel-interface-evidence]]
+- **Stamps**: ai_modified + last_deep_review → 2026-07-12T12:15:00+00:00 (real fix); ai_system held claude-opus-4-8 (one-word correction, not re-authoring).
+
 ## 2026-07-12T11:26:54+00:00 - deep-review
 - **Status**: Success — quote-fidelity CRITICAL fix (fresh verbatim check of the un-verified subset; prior passes cleared metadata only)
 - **File**: [[topics/reconsolidation-as-selection-window]]
