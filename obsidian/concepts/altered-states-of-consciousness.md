@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-23T00:52:50+00:00
+ai_modified: 2026-07-12T16:31:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-06-22T17:29:37+00:00
+last_deep_review: 2026-07-12T16:31:08+00:00
 coalesced_from:
   - "/topics/altered-states-consciousness/"
 ---
@@ -45,7 +45,7 @@ Altered states of consciousness (ASCs) constitute a diverse family of experience
 
 ## Defining Altered States
 
-Charles Tart's foundational definition (1969) identifies ASCs as "profound changes in the overall pattern of subjective experiences." This phenomenological approach avoids the question-begging implicit in some neuroscientific definitions that characterise ASCs as "increased tendency to produce misrepresentations." From The Unfinishable Map's perspective, some ASCs may involve *less filtered* access to reality rather than error. Whether such access genuinely transcends cognitive limits or merely maps their boundaries is explored in [[edge-states-and-void-probes]].
+Charles Tart's foundational definition (1969) identifies ASCs as profound changes in the overall pattern of subjective experiences. This phenomenological approach avoids the question-begging implicit in some neuroscientific definitions that characterise ASCs as involving an "increased tendency to produce misrepresentations" (Revonsuo, Kallio & Sikka, 2009). From The Unfinishable Map's perspective, some ASCs may involve *less filtered* access to reality rather than error. Whether such access genuinely transcends cognitive limits or merely maps their boundaries is explored in [[edge-states-and-void-probes]].
 
 Tart's taxonomy identifies ten dimensions along which consciousness can vary: sense of identity, body image, time perception, perception, cognition, memory, affect, sense of meaning, volition, and unconscious processing. ASCs shift multiple dimensions simultaneously—distinguishing them from ordinary variations in mood or attention. The 2025 thalamic nuclei research identified five specific thalamic nuclei orchestrating state transitions, with distinct connectivity patterns across anesthesia, sleep, and disorders of consciousness—neuroimaging confirmation that ASCs represent discrete modes rather than continuous variation.
 
@@ -202,6 +202,8 @@ Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-clas
 Kral, T. R. A., Davis, K., Korponay, C. et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 
 Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567.
+
+Revonsuo, A., Kallio, S. & Sikka, P. (2009). What is an altered state of consciousness? *Philosophical Psychology*, 22(2), 187-204.
 
 Rivas, T., Dirven, A. & Smit, R. (2023). *The Self Does Not Die: Verified Paranormal Phenomena from Near-Death Experiences*. IANDS Publications.
 
