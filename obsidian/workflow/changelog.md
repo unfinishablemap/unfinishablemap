@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T19:10:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Bohm's Implicate Order and Active Information
+- **Output**: research/bohm-implicate-order-and-active-information-2026-07-12
+- **Sources consulted**: ~8 (Bohm 1952 Phys Rev 85(2):166-179 + 180-193 two-part VERIFIED; Wholeness/Implicate Order Routledge 1980; Undivided Universe Bohm-Hiley 1993; Pylkkänen Springer 2007 DOI 10.1007/978-3-540-48058-7; Pylkkänen-Hiley Mind&Matter 3(2) 2005; SEP Bohmian Mechanics; arXiv:2202.12279 determinism debate). 4 candidate quotes flagged UNVERIFIED (paraphrase-only, none placed in body). Map angle: borrow active-information channel (Tenets 2/3), decline monism (Tenet 1), flag determinism-vs-selection tension. No wikilinks, no live-article edits, no downstream tasks.
+
 ## 2026-07-12T18:59:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Cramer's Transactional Interpretation of Quantum Mechanics (TI)
