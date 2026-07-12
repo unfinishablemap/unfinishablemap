@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-07-08 01:53:34+00:00
+ai_modified: 2026-07-12 07:21:45+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -187,6 +187,7 @@ None of these would logically refute dualism—the conceivability arguments woul
 - [illusionism](/concepts/illusionism/) — The radical defense of functionalism
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The moderate defense against qualia objections
 - [substrate-independence](/concepts/substrate-independence/) — Why the substrate matters for consciousness
+- [organizational-invariance](/concepts/organizational-invariance/) — Chalmers' fading/dancing-qualia argument that function fixes the distribution of consciousness—the sharpest pro-functionalist case
 - [concession-convergence](/concepts/concession-convergence/) — Physicalist theories retreating toward dualist commitments
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories for AI phenomenal experience
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — Empirical wedges where phenomenology and function come apart

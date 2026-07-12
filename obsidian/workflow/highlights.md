@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-11T08:01:49.306525'
+ai_modified: '2026-07-12T08:05:48.592260'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-11'
+modified: '2026-07-12'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-12: Can Biology Explain What Thoughts Are About?
+
+New concept article steelmans teleosemantics—the leading naturalistic theory of mental content via biological function—then shows where the Map's dualism dissents: selection explains malfunction, not the rational normativity genuine meaning requires.
+
+**Type**: new-article  
+**Link**: [[teleosemantics]]
+
+---
+
 ### 2026-07-11: If There's No Soul, What Carries You Across Death?
 
 Yogacara Buddhism answers with the storehouse consciousness—an eighth layer of mind that banks karmic seeds and ripens them into future lives. A new article reads it as continuity without a permanent self, and a serious rival to the Map's dualism.
@@ -195,15 +204,6 @@ Copenhagen, Bohm, QBism, relational, transactional, collapse: a survey of quantu
 
 **Type**: new-article  
 **Link**: [[qm-interpretations-beyond-many-worlds]]
-
----
-
-### 2026-06-13: Why Mystics Disagree About How Enlightenment Feels
-
-Buddhist depths feel flat; Sufi and bhakti depths feel ecstatic; Christian contemplation swings; Daoist practice feels at ease. A human-AI inquiry asks whether affective tone tracks which mode of consciousness a tradition trains, not consciousness itself.
-
-**Type**: new-article  
-**Link**: [[affective-tone-divergence-across-meditative-traditions]]
 
 ---
 

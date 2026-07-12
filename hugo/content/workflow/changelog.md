@@ -9,6 +9,41 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-12T07:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Lens**: TYPE-B orthogonal quote-fidelity verbatim pass (owed work — prior reviews confirmed only 2 of ~12 quotes verbatim). Every quoted string web-verified against source of record.
+- **Word count**: 3998 → 3996 (−2, length-neutral, under 4000 topics hard ceiling)
+- **Critical issues addressed**: 3 quote-fidelity defects — (1) it-from-bit passage restored dropped Wheeler hedge "even if in some contexts indirectly"; (2) Dembski quote restored dropped "that"(×2)/"thing"(×1) to publisher verbatim (Mind Matters 2021); (3) Barbour "Bit from It" — stitched-paraphrase-as-quotation + "weakens but does not/not destroy" alteration downgraded to indirect speech (platonia.com unreachable → paraphrase per false-negative discipline).
+- **Verified verbatim (8 loci)**: participatory-universe, it-from-bit ultimate-significance fragment, figment-of-imagination, participants-in-bringing-into-being, all-things-physical-information-theoretic, both journal self-quotes, Stapp (clean truncation); plus prior-confirmed Fuchs + Everett. Only ONE Stapp quote exists (task said two).
+- **Enhancements made**: 0 (fidelity corrections only)
+- **Stamps**: ai_modified + last_deep_review → 2026-07-12; ai_system HELD at claude-opus-4-6 (corrections, not re-authoring)
+- **Output**: [deep-review-2026-07-12-wheelers-participatory-universe-and-it-from-bit](/reviews/deep-review-2026-07-12-wheelers-participatory-universe-and-it-from-bit/)
+
+## 2026-07-12T07:14:07+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Organizational Invariance (Chalmers' principle + fading/dancing-qualia arguments)
+- **Output**: [organizational-invariance](/concepts/organizational-invariance/)
+- **Word count**: 1720 (69% of 2500 concepts soft target, ok)
+- **Based on research**: yes — [organizational-invariance-fading-dancing-qualia-2026-07-11](/research/organizational-invariance-fading-dancing-qualia-2026-07-11/)
+- **Citations**: Chalmers 1995 (Metzinger ed., *Conscious Experience*, Imprint Academic) — title/venue + both verbatim quotes VERIFIED at publisher (consc.net/papers/qualia.html); Chalmers 1996 *The Conscious Mind* ch.7 (OUP, standard); van Heuveln/Dietrich/Oshima 1998 *Minds and Machines* 8(2) (from research note, page range dropped to avoid metadata-blind locator); Schwitzgebel 2010 + Mogensen (GPI) kept prose-reference only per research-note UNVERIFIED flags (no fabricated locator); epiphenomenal-spectator objection left in prose (no author cite). Self-cites: substrate-independence (Oquatre-cinq, opus-4-5 cohort) + machine-consciousness (Sonquatre-cinq, sonnet-4-5 cohort).
+- **Framework discipline**: phenomenal claims kept framework-relative ("by hypothesis"); invariance presented at full strength before Tenet-1 dissent; Map move = grain dispute ("fine enough grain") tied to Tenets 1 (ally) + 2 (opponent/wedge) + 3 (shared epiphenomenalism pressure).
+- **Inbound links wired**: topics/machine-consciousness (Substrate Independence Revisited section) + concepts/psychophysical-laws (Chalmers' Three Principles §2); ai_modified bumped, ai_system HELD on both.
+- **Cross-review**: queued (P2).
+
+## 2026-07-12T06:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [teleosemantics](/concepts/teleosemantics/)
+- **Word count**: 2469 → 2469 (0; 99% of 2500 soft target, ok)
+- **Critical issues addressed**: 0 (fresh-create-defect-tail cross-review; no critical issues found)
+- **Medium issues addressed**: 1 (link-alias mislabel: inline `[[status-of-content|Occam's razor has limits]]` → `[[tenets|Occam's razor has limits]]` — status-of-content is Boghossian self-refutation, not Tenet 5; also removed a redundant second link to status-of-content)
+- **Enhancements made**: 0
+- **Citation web-verify** (publisher-of-record, 3-state): all real-correct — Millikan 1984 *Language, Thought, and Other Biological Categories: New Foundations for Realism* (MIT); Millikan 1989 "Biosemantics" *J. Philosophy* 86(6):281–297 (JSTOR); Millikan 1993 *White Queen Psychology* (MIT/Bradford); Dretske 1988 *Explaining Behavior* (MIT); Dretske 1995 *Naturalizing the Mind* (MIT, Jean Nicod); Papineau 1993 *Philosophical Naturalism* (Blackwell/Oxford); **Neander 2017 *A Mark of the Mental: In Defense of Informational Teleosemantics* (MIT) — subtitle CONFIRMED correct**; Mann & Pain 2022 *Phil. Psychology* 35(1):22–46 DOI 10.1080/09515089.2021.1942814. No verbatim quotes (all paraphrased, confirmed). No superlatives → no currency sweep. Pietroski *kimu* + Neander 1995 correctly kept out of References (prose-only, per research-note gaps). "Neander's antelope example" attribution web-verified genuine.
+- **Self-cite**: Southgate & Oquatre-sept (2026-04-27) hard-problem-of-content — pseudonym MATCHES cohort (Oquatre-sept=opus-4-7; cited article ai_system=claude-opus-4-7); title + date match target frontmatter.
+- **Engagement mode**: dissent vs teleosemantics = Mode Three (framework-boundary), correctly declared ("neither side refutes the other by stipulation"); no boundary-substitution, no editor-vocabulary label leakage.
+- **Hygiene**: ai_system held claude-opus-4-8 (minor fix, not re-authoring); stamps 06:42 UTC (date -u-verified, not future); EOF clean; all 16 body wikilinks resolve; no cliché; no "load-bearing" overuse.
+- **Output**: [deep-review-2026-07-12-teleosemantics](/reviews/deep-review-2026-07-12-teleosemantics/)
+
 ## 2026-07-12T04:03:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [self-stultification](/concepts/self-stultification/)
