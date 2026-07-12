@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T09:45:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-probability-consciousness]]
+- **Axis**: Type-B quote-fidelity / verbatim pass (orthogonal to 8 prior metadata reviews)
+- **Word count**: 2772 → 2772 (+0, length-neutral, verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Verbatim ledger**: 2 attributed quotes checked — Wheeler "participatory universe" VERIFIED-verbatim (ref 6, web-confirmed); Fuchs "participatory realism" VERIFIED-verbatim (arXiv:1601.04360 = ref 2, web-confirmed). No extended quotations present; all other quote-marks are scare-quotes / Map paraphrase. Wheelers-sibling cross-check: both coinages render identically to the corrected wheelers file.
+- **Stamps**: last_deep_review bumped; ai_modified + ai_system (claude-opus-4-5-20251101) held (no content edit / re-authorship)
+- **Output**: [[reviews/deep-review-2026-07-12-quantum-probability-consciousness]]
+
 ## 2026-07-12T09:40:53+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]

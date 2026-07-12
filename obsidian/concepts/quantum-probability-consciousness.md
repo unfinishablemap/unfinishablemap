@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-07-08T23:59:55+00:00
+last_deep_review: 2026-07-12T09:45:15+00:00
 coalesced_from:
   - "/concepts/quantum-probability-and-consciousness/"
   - "/concepts/subjective-probability-quantum-measurement/"
