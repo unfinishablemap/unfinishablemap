@@ -4,7 +4,7 @@ description: "Graziano's theory proposes consciousness is the brain's model of i
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-21T10:04:36+00:00
+ai_modified: 2026-07-12T08:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,8 @@ last_deep_review: 2026-06-21T09:45:35+00:00
 ---
 
 Attention Schema Theory (AST), developed by Princeton neuroscientist Michael Graziano, proposes that subjective awareness is the brain's schematic model of its own attention. Just as the body schema helps track and control limb position, an "attention schema" helps monitor and control attention. Because this model omits mechanism details—representing attention's effects rather than its neural implementation—the brain concludes it possesses a non-physical essence of awareness. Consciousness, on this view, is a functional caricature: a useful simplification that helps the brain manage attentional resources.
+
+AST should be distinguished from a neighbouring attention-based theory it is easily confused with: Jesse Prinz's [[attended-intermediate-representations-theory|AIR theory]]. AIR ties consciousness to attended *content*—an intermediate-level perceptual representation modulated by attention *is* the experience. AST ties awareness to a *model of* attention—consciousness is the brain's schematic self-description of its own attending, not the attending itself. AIR makes attention constitutive; AST makes a representation of attention constitutive of the *appearance* of experience.
 
 AST is a [[concepts/materialism|materialist]] theory that shares commitments with [[illusionism]]—the view that phenomenal consciousness (qualia, "what it's like") is systematically misrepresented by introspection. The Unfinishable Map rejects AST because it explains *reports about* consciousness, not consciousness itself. The appearance of experience must appear *to something*, and that something cannot be another model without infinite regress.
 
@@ -226,6 +228,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 - [[quantum-consciousness]] — the Map's alternative framework
 - [[ai-consciousness]] — Implications for artificial systems
 - [[global-workspace-theory]] — Competing neuroscientific theory of consciousness
+- [[attended-intermediate-representations-theory]] — Prinz's rival attention theory: attention constitutes the conscious content rather than modelling it
 - [[witness-consciousness]] — Contemplative evidence challenging AST
 - [[introspection]] — First-person methods and their reliability
 - [[haecceity]] — The indexical identity problem AST cannot address

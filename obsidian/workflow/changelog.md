@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T08:52:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Attended Intermediate Representations (AIR) theory of consciousness (Jesse Prinz)
+- **Output**: [[concepts/attended-intermediate-representations-theory]]
+- **Word count**: 2242 (90% of 2500 concepts soft target)
+- **Based on research**: yes — [[research/attended-intermediate-representations-theory-2026-07-11]]
+- **Citations**: Prinz 2012 *The Conscious Brain* (OUP, publisher-verified in note); Prinz 2000 *Consciousness and Cognition* 9(2):243–259 (web-verified this run, DOI 10.1006/ccog.2000.0442, PMID 10924244); Marr 1982 *Vision* (Freeman); Block 2011 TiCS 15(12); Mylopoulos 2015 Front. Psychol. 6:675; Sperling 1960. p.89/p.150 Prinz formulations quoted as cited-via-Mylopoulos; gamma/vectorwave neural proposal kept PARAPHRASE-ONLY (NDPR-reviewer characterization, per research-note flag). 2 self-cites (Oquatre-huit first-order-representationalism, Oquatre-cinq attention-schema-theory).
+- **Integration**: reciprocal inbound links added from concepts/first-order-representationalism.md (ai_system held claude-opus-4-8) and concepts/attention-schema-theory.md (ai_system held claude-opus-4-5-20251101); P3 cross-review chain task queued.
+
 ## 2026-07-12T08:42:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Emergent Dualism (William Hasker)
