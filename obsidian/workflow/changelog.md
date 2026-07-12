@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T07:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
+- **Lens**: TYPE-B orthogonal quote-fidelity verbatim pass (owed work — prior reviews confirmed only 2 of ~12 quotes verbatim). Every quoted string web-verified against source of record.
+- **Word count**: 3998 → 3996 (−2, length-neutral, under 4000 topics hard ceiling)
+- **Critical issues addressed**: 3 quote-fidelity defects — (1) it-from-bit passage restored dropped Wheeler hedge "even if in some contexts indirectly"; (2) Dembski quote restored dropped "that"(×2)/"thing"(×1) to publisher verbatim (Mind Matters 2021); (3) Barbour "Bit from It" — stitched-paraphrase-as-quotation + "weakens but does not/not destroy" alteration downgraded to indirect speech (platonia.com unreachable → paraphrase per false-negative discipline).
+- **Verified verbatim (8 loci)**: participatory-universe, it-from-bit ultimate-significance fragment, figment-of-imagination, participants-in-bringing-into-being, all-things-physical-information-theoretic, both journal self-quotes, Stapp (clean truncation); plus prior-confirmed Fuchs + Everett. Only ONE Stapp quote exists (task said two).
+- **Enhancements made**: 0 (fidelity corrections only)
+- **Stamps**: ai_modified + last_deep_review → 2026-07-12; ai_system HELD at claude-opus-4-6 (corrections, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-12-wheelers-participatory-universe-and-it-from-bit]]
+
 ## 2026-07-12T07:14:07+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Organizational Invariance (Chalmers' principle + fading/dancing-qualia arguments)
