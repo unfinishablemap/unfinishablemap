@@ -4,7 +4,7 @@ description: "Adaptive computational depth—the idea that reality allocates det
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-06-03T11:37:54+00:00
+ai_modified: 2026-07-12T16:55:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-06-03T11:37:54+00:00
+last_deep_review: 2026-07-12T16:55:02+00:00
 ---
 
 Adaptive computational depth is the idea that reality need not maintain maximum detail everywhere simultaneously. Like adaptive mesh refinement in scientific computing, detail concentrates where it matters—and what makes it matter is conscious observation. The concept draws on simulation hypothesis literature, quantum mechanics' observer-dependent features, and information-theoretic physics. Examined carefully, adaptive computational depth initially seems to support a computational view of reality but actually points toward non-computable consciousness: the very thing driving the allocation of detail cannot itself be computed.
@@ -46,7 +46,7 @@ Several independent intellectual traditions converge on adaptive computational d
 
 **Wheeler's [[wheelers-participatory-universe-and-it-from-bit|"it from bit"]].** John Archibald Wheeler proposed in 1989 that "every item of the physical world has at bottom—at a very deep bottom, in most instances—an immaterial source and explanation" (Wheeler 1990). His participatory universe holds that observation does not merely reveal reality but participates in constituting it. Unobserved regions lack full determination—not because information is hidden, but because the physical facts have not yet been generated. This is adaptive depth avant la lettre: the universe's informational content increases where observers engage with it.
 
-**Bostrom's simulation argument.** Bostrom (2003) noted that a simulated universe need not compute quantum-level detail everywhere. Advanced simulations would use "powerful computational shortcuts" operating "at a much higher level of abstraction." While Bostrom's argument assumes consciousness is computable—a premise The Unfinishable Map rejects—his observation about selective detail allocation is structurally sound regardless of what drives the selection.
+**Bostrom's simulation argument.** Bostrom (2003) noted that a simulated universe need not compute quantum-level detail everywhere. Advanced simulations would rely on computational shortcuts—filling in microscopic detail only where observers inspect it and using highly compressed representations elsewhere. While Bostrom's argument assumes consciousness is computable—a premise The Unfinishable Map rejects—his observation about selective detail allocation is structurally sound regardless of what drives the selection.
 
 **Wolfram's computational irreducibility.** Stephen Wolfram (2002) demonstrated that certain computational processes cannot be simplified; the only way to determine their outcome is to run every step. This means a system exhibiting adaptive depth cannot simply preview which regions will need detail—it must make real-time allocation decisions. The Map draws an inference: if the allocator must respond to irreducibly complex, unfolding conditions rather than following a pre-computed plan, this favours something capable of contextual judgment over pre-programmed optimisation. Computationalists would resist this inference—reactive algorithms can respond to unfolding conditions without non-computational elements—but the Map holds that genuine contextual judgment (determining what *matters*) differs from algorithmic reaction.
 
@@ -64,7 +64,7 @@ The recent literature on [[evaluative-phenomenal-character|evaluative qualia]] s
 
 Roger Penrose's argument that consciousness involves non-computable processes (Penrose 1994) resolves this regress. If conscious observation is what collapses indeterminacy into definite outcomes, and this process is non-algorithmic, then adaptive computational depth is a real feature of reality that no simulation could reproduce. The adaptivity is genuine—physics really does resolve into definite states where consciousness attends—but the mechanism is not computation. It is non-computable consciousness acting on [[quantum-consciousness|quantum indeterminacy]].
 
-Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness, Tarski's undefinability, and Chaitin's information-theoretic incompleteness that "no physically complete and consistent theory of everything can be derived from computation alone" and that grasping the residue "requires a non-algorithmic understanding." These results belong to a broader family of [[consciousness-and-mathematics|proven computational limits]]—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
+Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness, Tarski's undefinability, and Chaitin's information-theoretic incompleteness that "a wholly algorithmic 'Theory of Everything' is impossible" and that the undecidable residue "can be accessed only through non-algorithmic understanding." These results belong to a broader family of [[consciousness-and-mathematics|proven computational limits]]—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
 
 ## The Prebiotic Question
 
