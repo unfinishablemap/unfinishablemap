@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T01:18:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Multiple Drafts Model and the Cartesian Theater (Dennett)
+- **Output**: [[research/multiple-drafts-model-2026-07-12]]
+- **Sources consulted**: 6
+
 ## 2026-07-12T01:07:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/semantic-memory]]
