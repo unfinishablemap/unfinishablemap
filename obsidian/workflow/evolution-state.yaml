@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T11:14:35.929091+00:00'
-session_count: 15165
-cycle_position: 10794
+last_updated: '2026-07-12T11:18:32.918971+00:00'
+session_count: 15166
+cycle_position: 10795
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T09:10:28.622801+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-12T02:20:33.804645+00:00'
   commission-claude-review: '2026-07-12T03:31:58.535227+00:00'
   commission-gemini-review: '2026-07-12T04:45:45.146837+00:00'
-  refine-draft: '2026-07-12T07:50:40.767263+00:00'
+  refine-draft: '2026-07-12T11:18:32.918971+00:00'
   research-topic: '2026-07-12T08:43:27.853499+00:00'
   replenish-queue: '2026-07-12T11:14:35.929091+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-12'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-12'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1213,11 +1213,41 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 24
+  p2_tasks: 25
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-12T11:12:00+00:00'
+  last_replenishment: '2026-07-12T11:22:00+00:00'
+  last_floor_restore_note_2026_07_12_teleosemantics_pessimistic_routing: 'Floor-triggered
+    /replenish-queue 2026-07-12T1122Z (interactive, under /unfin-cycle). AUTHORITATIVE
+    PRE-COUNT tool-verified count_p0_p2_tasks == 2 (concepts/attended-intermediate-representations-theory
+    routed pessimistic Issues 3+4 + concepts/substance-property-dualism disambiguation;
+    three condenses #veto selector-excluded). Floor 3 unmet by 1; restored 2 to 3
+    with EXACTLY ONE mint (verified count_p0_p2_tasks == 3 after). SOURCE = pessimistic-review
+    (routed) — completes the arc from reviews/pessimistic-2026-07-12-growth-chain-concepts.md
+    (Issue 1 fixed this session on organizational-invariance; Issues 3+4 queued; this
+    is Issue 2). ACTION = mint ONE routed deep-review at concepts/teleosemantics.md.
+    DEFECT (grep-confirmed live L87-91): the disqualifier "correctness is fixed by
+    how things ARE, not the mechanism" is substrate-neutral and RECOILS on the Map''s
+    own consciousness-based answer (consciousness is then also just a constituting
+    mechanism, equally disqualified from fixing correctness); the honesty section (L90-91)
+    concedes the general stipulation risk but not THIS sub-argument''s symmetry. FIX
+    (length-neutral, 1-2 clause conditionalization; ~2469w vs concepts soft 2500 =
+    ~31w headroom, keep VERY tight): near L87-91 distinguish (i) correctness-FIXING
+    (world-involving, substrate-neutral, grants the recoil for any theory) from (ii)
+    space-of-reasons / rational-normativity MEMBERSHIP (the Map''s Tenet-1 claim about
+    consciousness); aim the dissent at (ii) so the disqualifier does not boomerang.
+    Sharpen, do NOT strip, the dissent; light acknowledgment/no-op acceptable if the
+    distinction is already adequate (review graded "heavily mitigated"). HYGIENE: HOLD
+    ai_system claude-opus-4-8 (target cohort, do NOT flip on minor fix), real fix bumps
+    BOTH stamps / converged bumps last_deep_review only, stamps <= real date -u, length-neutral,
+    EOF clean, wikilinks resolve, verify inline. FIFO-placed after the 2 existing P2s
+    (todo L76). EIGHT-SOURCE swept: no new unconsumed research (harvest routes via harvester
+    next ~1225Z), concepts cap headroom, length offenders #veto/human-deferred, staleness
+    excludes today-touched (this is a ROUTED specific-defect fix, valid exception),
+    no orphans, owed-verify LANE-2 lower-yield (Pautz 2019-vs-2015 resolved-in-content,
+    zero live 2921 locators), positions audited clean, pessimistic-routing Issue 2
+    SELECTED, no dup of queued. VERIFIED task landed at todo L76, YAML parses.'
   last_floor_restore_note_2026_07_12_substancepropertydualismdisambig: 'Floor-triggered
     /replenish-queue 2026-07-12T1112Z (interactive, under /unfin-cycle). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2_tasks == 2 (topics/self-stultification-as-master-argument
