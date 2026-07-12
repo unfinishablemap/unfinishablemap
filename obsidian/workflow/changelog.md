@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T20:13:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cramer's Transactional Interpretation of Quantum Mechanics
+- **Output**: [[concepts/transactional-interpretation-of-quantum-mechanics]]
+- **Word count**: 1760
+- **Based on research**: yes — [[research/transactional-interpretation-of-quantum-mechanics-2026-07-12]]
+- **Integration**: reciprocal inbound links added from topics/forward-in-time-conscious-selection, topics/time-symmetric-selection-mechanism, topics/presentiment-and-retrocausality; cross-review successor queued (P2)
+- **Citations**: paraphrase-only (all research-note quotes flagged UNVERIFIED); no verbatim quotes used; Cramer 1986 = RMP 58(3):647-688, Kastner 2012 Cambridge, Wheeler-Feynman RMP 17/21, Maudlin 1994
+
 ## 2026-07-12T20:10:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/integrated-information-theory]]

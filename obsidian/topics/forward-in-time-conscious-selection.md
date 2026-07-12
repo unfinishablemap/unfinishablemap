@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-05T17:05:00+00:00
+ai_modified: 2026-07-12T20:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -188,6 +188,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 - [[post-decoherence-selection]] — What post-decoherence selection is and why it matters
 - [[selection-only-mind-influence]] — Information-theoretic limits and empirical signatures
 - [[time-symmetric-selection-mechanism]] — The retrocausal alternative this article positions itself against
+- [[transactional-interpretation-of-quantum-mechanics]] — Cramer/Kastner offer-confirmation machinery the retrocausal pathway depends on
 - [[trilemma-of-selection]] — Why directed selection is the only option preserving authorship
 - [[quantum-measurement-and-consciousness]] — Convergence of the measurement problem and the hard problem
 - [[comparing-quantum-consciousness-mechanisms]] — How pre- and post-decoherence models compare

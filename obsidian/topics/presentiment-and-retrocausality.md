@@ -4,7 +4,7 @@ description: "Distinguishing physics-based retrocausality from contested parapsy
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-06-24T20:46:08+00:00
+ai_modified: 2026-07-12T20:13:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -114,6 +114,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] applies here too. D
 - [[time-symmetric-selection-mechanism]] — How time-symmetric physics enables conscious selection
 - [[libet-experiments]] — The temporal ordering puzzle and its resolution
 - [[quantum-consciousness]] — Mechanisms for consciousness-brain interaction
+- [[transactional-interpretation-of-quantum-mechanics]] — The transactional interpretation in full: offer/confirmation handshake, PTI, and the Maudlin objection
 - [[qm-interpretations-beyond-many-worlds]] — Transactional interpretation evaluated alongside other quantum interpretations
 - [[tenets]] — The Map's foundational commitments
 
