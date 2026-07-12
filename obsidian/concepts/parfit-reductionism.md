@@ -4,7 +4,7 @@ description: "Parfit claims identity is just pattern continuity with no further 
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-05T17:55:14+00:00
+ai_modified: 2026-07-12T16:21:52+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-06-05T17:55:14+00:00
+last_deep_review: 2026-07-12T16:21:52+00:00
 ---
 
 Derek Parfit's reductionism about personal identity holds that identity consists in nothing over and above bodily and psychological continuity. There is no further fact—no separate entity like a soul or ego—that persists through time. What matters for practical purposes isn't identity itself but "Relation R": psychological connectedness and continuity with the right kind of cause.
@@ -64,7 +64,7 @@ Parfit's view converges with the [[concepts/many-worlds]] interpretation: both t
 
 The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this. *I* experience one outcome, not all outcomes. Either I will wake up tomorrow or I won't. The indeterminacy seems to be in the theory, not in reality.
 
-The convergence is not merely a parallel the Map draws from outside. The [[many-minds-interpretation|Many-Minds Interpretation]] of quantum mechanics makes it explicit: Michael Lockwood concludes it is "senseless to ask which, of the many possible minds, are 'yours'" after a measurement, openly aligning his quantum view of identity with Parfit on the meaninglessness of "which person will I become?" That a leading quantum-foundations program reaches for Parfit by name is the clearest articulation in the literature of the view the Map argues against on both fronts at once.
+The convergence is not merely a parallel the Map draws from outside. The [[many-minds-interpretation|Many-Minds Interpretation]] of quantum mechanics makes it explicit: Michael Lockwood (1989) concludes that it is senseless to ask which of the many possible minds is 'yours' after a measurement, openly aligning his quantum view of identity with Parfit on the meaninglessness of "which person will I become?" That a leading quantum-foundations program reaches for Parfit by name is the clearest articulation in the literature of the view the Map argues against on both fronts at once.
 
 ### Causal History and Quantum Selection
 
@@ -164,3 +164,4 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 1. Johnston, M. (2010). *Surviving Death*. Princeton University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+1. Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.
