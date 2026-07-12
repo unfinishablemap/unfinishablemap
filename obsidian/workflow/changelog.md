@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T08:42:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Emergent Dualism (William Hasker)
+- **Output**: [[research/emergent-dualism-2026-07-12]]
+- **Sources consulted**: 6 (Cornell UP catalog, SEP Emergent Properties, PhilPapers x3, Wiley Online Library, OUP Academic, IEP)
+- **Citations web-verified**: Hasker *The Emergent Self* → PUBLISHER CONFIRMED Cornell UP 1999 (NOT Oxford), Cornell Studies in the Philosophy of Religion; "Persons as Emergent Substances" (Corcoran ed., Cornell 2001) verified; "Persons and the Unity of Consciousness" (Koons & Bealer eds., OUP 2010) verified; Rickabaugh "Against Emergent Dualism" (Blackwell Companion to Substance Dualism, Wiley 2018) verified. All candidate quotes flagged UNVERIFIED (no full text reachable — paraphrase-only per ai_citation_metadata_unreliable discipline).
+- **Chain**: research → expand-topic ready; target section concepts (headroom); gives 9x-cited-but-homeless Hasker a canonical page.
+
 ## 2026-07-12T08:33:33+00:00 - deep-review
 - **Status**: Success (real fix — 1 quote-attribution correction)
 - **File**: [[concepts/creative-consciousness]]
