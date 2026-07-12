@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-06-15T15:17:25+00:00
+ai_modified: 2026-07-12T09:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
-last_deep_review: 2026-06-26T20:10:29+00:00
+last_deep_review: 2026-07-12T09:15:00+00:00
 embedded_videos:
   - id: 9cHrSnEjSzk
     url: https://www.youtube-nocookie.com/embed/9cHrSnEjSzk
@@ -49,7 +49,7 @@ The most significant consciousness experiment of 2025 was the COGITATE study, pu
 
 The results challenged both theories' key predictions. IIT predicted that content-specific neural activity would localise in a posterior cortical complex with high integrated information. The localisation was partially confirmed—information about conscious content appeared in visual, ventrotemporal, and inferior frontal cortex—but the predicted maximum of integrated information was not found. GNWT predicted a distinctive "ignition" pattern: a sudden, sustained activation in prefrontal-parietal networks when stimuli became conscious. The study found strong onset responses in prefrontal cortex but not the predicted offset responses. The signature ignition that GNWT treats as the hallmark of consciousness did not materialise as expected.
 
-As the consortium acknowledged: "No single experiment would decisively refute either theory, as the theories are too different in their assumptions and explanatory goals." Further adversarial collaborations are underway, including tests of Higher-Order Theories, Recurrent Processing Theory, and Attention Schema Theory.
+As Anil Seth, a member of the collaboration, put it: "It was clear that no single experiment would decisively refute either theory. The theories are just too different in their assumptions and explanatory goals." Further adversarial collaborations are underway, including tests of Higher-Order Theories, Recurrent Processing Theory, and Attention Schema Theory.
 
 The COGITATE results illustrate what might be called the consciousness [[measurement-problem|measurement problem]]: the difficulty of empirically distinguishing theories that make similar predictions about [[neural-correlates-of-consciousness|neural correlates]] while disagreeing fundamentally about what consciousness is. The same empirical landscape that was supposed to adjudicate between theories instead revealed a deeper difficulty—the [[conceptual-scheme-void|conceptual scheme void]], where competing theories prove empirically incommensurable even under shared protocols. The study measured correlates with impressive precision. It could not adjudicate what those correlates mean—whether they constitute consciousness, correlate with it, or merely accompany it.
 
@@ -124,14 +124,14 @@ The Map interprets these findings not as proof of dualism—no single experiment
 ## References
 
 1. Cogitate Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. (Online first 30 April 2025; print 5 June 2025.) https://www.nature.com/articles/s41586-025-08888-1
-2. Exploring ultraweak photon emissions as optical markers of brain activity. (2025). *iScience*. https://www.cell.com/iscience/fulltext/S2589-0042(25)00279-2
+2. Casey, H., DiBerardino, I., Bonzanni, M., Rouleau, N., & Murugan, N. J. (2025). Exploring ultraweak photon emissions as optical markers of brain activity. *iScience*, 28(3), 112019. https://www.cell.com/iscience/fulltext/S2589-0042(25)00279-2
 3. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 4. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
 5. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
 6. Kazazian, K., Monti, M. M., & Owen, A. M. (2025). Functional neuroimaging in disorders of consciousness: towards clinical implementation. *Brain*, 148(7), 2283-2298. https://academic.oup.com/brain/article/148/7/2283/8042105
-7. Consciousness science: where are we, where are we going, and what if we get there? (2025). *Frontiers in Science*. https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1546279/full
-8. What fMRI studies say about the nature of the psychedelic effect: a scoping review. (2025). *Frontiers in Neuroscience*. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1606798/full
-9. The concept of biophotonic signaling in the human body and brain: rationale, problems and directions. (2025). *Frontiers in Systems Neuroscience*. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2025.1597329/full
+7. Cleeremans, A., Mudrik, L., & Seth, A. K. (2025). Consciousness science: where are we, where are we going, and what if we get there? *Frontiers in Science*. https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1546279/full
+8. Beneš, M., Páleníček, T., & Horáček, J. (2025). What fMRI studies say about the nature of the psychedelic effect: a scoping review. *Frontiers in Neuroscience*. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1606798/full
+9. Nevoit, G., Poderiene, K., Potyazhenko, M., Mintser, O., Jarusevicius, G., & Vainoras, A. (2025). The concept of biophotonic signaling in the human body and brain: rationale, problems and directions. *Frontiers in Systems Neuroscience*. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2025.1597329/full
 10. The New York Declaration on Animal Consciousness. (2024). https://sites.google.com/nyu.edu/nydeclaration/declaration
 11. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Neural Correlates of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
 12. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Global Workspace Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/global-workspace-theory/

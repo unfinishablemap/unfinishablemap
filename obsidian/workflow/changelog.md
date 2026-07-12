@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T09:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Word count**: 2258 → 2310 (+52; all in References from completing 4 author-less entries + verbatim quote fix; body prose length-neutral)
+- **Critical issues addressed**: 1 — COGITATE "consortium" quote (line ~52) was misattributed + paraphrased. Web-verify (Allen Institute + ScienceDaily) shows it is Anil Seth's individual commentary (advisory, NOT primary author; corresponding author Melloni), and the quoted string fused/altered two of his sentences. Re-attributed to Seth and replaced with verbatim excerpt.
+- **Citation ledger (publisher-of-record web-verify)**: Cogitate/Nature real-correct (byline "Cogitate Consortium", n=256, fMRI/MEG/iEEG confirmed); ref 2 Casey et al. iScience 28(3) 112019 (was author-less → completed); ref 3 Santander et al. PNAS real-correct (held, not "Miller et al."); ref 4 Keppler Front. Hum. Neurosci. real-correct (both quotes verbatim); ref 7 Cleeremans/Mudrik/Seth (was author-less → completed); ref 8 Beneš/Páleníček/Horáček (was author-less → completed); ref 9 Nevoit et al. (was author-less → completed); refs 11/12 self-cite artifact left as-is. All confirmed real — zero fabrications.
+- **Currency sweep**: 3 superlatives (largest adversarial collaboration; first extra-cranial biophoton detection; first fMRI adult-callosotomy network study) VERIFIED current, none superseded. No COGITATE-2 outcome published.
+- **ai_system**: held claude-opus-4-6 (citation-hygiene correction, not re-authoring)
+- **Enhancements made**: 0 (length-neutral; no expansion/cross-links)
+- **Output**: [[reviews/deep-review-2026-07-12-experimental-consciousness-science-2025-2026]]
+
 ## 2026-07-12T08:52:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Attended Intermediate Representations (AIR) theory of consciousness (Jesse Prinz)
