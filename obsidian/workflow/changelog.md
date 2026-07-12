@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T23:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/working-memory]]
+- **Word count**: 3394 → 3406 (+12; under 3500 concepts hard ceiling)
+- **Critical issues addressed**: 1 (quote-fidelity — Franco-Martínez et al. 2026 "compatible with no true effect" is NOT verbatim; corrected to the paper's actual wording "only provides inconclusive evidence for the existence of such an effect", confirmed at OUP niaf046 + PMC12814970)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (targeted currency/quote-fidelity/framing pass on the never-verified 2026 unconscious-WM cluster; contested-evidence calibration spine preserved, not a rewrite)
+- **Citation web-verify**: 2026 cluster fully publisher-verified. Quotes: Trübutschek 2019 (PMC6628638) verbatim-confirmed; Franco-Martínez "positively associated with perceptual sensitivity" verbatim-confirmed; "compatible with no true effect" corrected. Metadata real-correct: Franco-Martínez 2026 niaf046 (19 labs + ≈0.16 both confirmed; attribution-split confirmed — one Registered Report legitimately does BOTH the Gambarota-dataset pub-bias reanalysis AND the original 19-lab replication), Gambarota 2022 (gz≈0.54 "medium"), Soto 2011, Cogitate Consortium 2025 (quote verbatim, correct attribution), Zheng & Meister 2024, Silberberg & Kearns 2009, Hitch/Allen/Baddeley 2025. Citation-framing: skeptical result NOT over-read (article's gradient reading is weaker than the paper's own conclusion). ai_system HELD at opus-4-5 (not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-12-working-memory]]
+
 ## 2026-07-12T23:22:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-biology-and-neural-consciousness]]

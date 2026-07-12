@@ -4,7 +4,7 @@ description: "Working memory manipulation is far more tightly bound to conscious
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-06-24T19:52:40+00:00
+ai_modified: 2026-07-12T23:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-06-24T19:47:06+00:00
+last_deep_review: 2026-07-12T23:50:00+00:00
 coalesced_from:
   - "/concepts/working-memory/"
   - "/topics/working-memory-as-consciousness-amplifier/"
@@ -56,7 +56,7 @@ The episodic buffer is significant for consciousness research—and connects to 
 
 Research from 2011-2025 reveals a fundamental asymmetry in WM processing:
 
-**Maintenance can be unconscious—though how cleanly is contested.** Studies by Soto, Mäntylä, and Silvanto (2011) showed that observers could encode and maintain subliminal orientation cues—holding them "online" even with visible distractors—and perform above chance in subsequent tasks, suggesting information was in WM but never reached awareness. The strength of this evidence has since been questioned. Gambarota et al. (2022) meta-analysed the unconscious-WM literature and found a medium effect, but Franco-Martínez et al. (2026), re-analysing that same dataset for publication bias, recovered a bias-corrected estimate (≈0.16) "compatible with no true effect," and their own 19-laboratory Registered Report replication found unconscious WM "positively associated with perceptual sensitivity"—that is, entangled with residual conscious processing rather than a clean unconscious channel. The maintenance/manipulation asymmetry is best read as a robust *gradient* (manipulation is far more tightly bound to awareness than maintenance) rather than proof of fully non-conscious maintenance.
+**Maintenance can be unconscious—though how cleanly is contested.** Studies by Soto, Mäntylä, and Silvanto (2011) showed that observers could encode and maintain subliminal orientation cues—holding them "online" even with visible distractors—and perform above chance in subsequent tasks, suggesting information was in WM but never reached awareness. The strength of this evidence has since been questioned. Gambarota et al. (2022) meta-analysed the unconscious-WM literature and found a medium effect, but Franco-Martínez et al. (2026), re-analysing that same dataset for publication bias, recovered a bias-corrected estimate (≈0.16, its credible interval spanning zero) that "only provides inconclusive evidence for the existence of such an effect," and their own 19-laboratory Registered Report replication found unconscious WM "positively associated with perceptual sensitivity"—that is, entangled with residual conscious processing rather than a clean unconscious channel. The maintenance/manipulation asymmetry is best read as a robust *gradient* (manipulation is far more tightly bound to awareness than maintenance) rather than proof of fully non-conscious maintenance.
 
 This is supported by "activity-silent" WM research. Traditional theory assumed WM maintenance requires sustained neural firing. New evidence shows information can be maintained through short-term synaptic plasticity—residual calcium at synaptic terminals, rapid changes in synaptic weights—without sustained activity. These traces persist for roughly one second, spanning typical WM delays.
 
