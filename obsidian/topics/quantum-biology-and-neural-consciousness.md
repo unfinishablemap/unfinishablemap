@@ -4,7 +4,7 @@ description: "Evidence-grade-tiered survey of quantum biology and consciousness:
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-22T17:04:36+00:00
+ai_modified: 2026-07-12T23:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-06-22T17:04:36+00:00
+last_deep_review: 2026-07-12T23:22:00+00:00
 coalesced_from:
   - "/topics/quantum-biology-and-the-consciousness-debate/"
   - "/topics/quantum-biology-evidence-in-neural-systems/"
@@ -87,7 +87,7 @@ The most-cited pharmacological line linking quantum effects to consciousness com
 **Brain entanglement signatures.** Kerskens and López Pérez (2022) detected MRI signals in conscious subjects consistent with entangled proton spins, which disappeared during sleep and correlated with working memory. Warren (2023) countered that the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) from ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no classical account of why the signal tracks sleep versus waking. The dispute is unresolved and unreplicated.
 
 
-**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments reported "large and opposite effects on synaptic transmission" from the two isotopes (Esmaeilpour et al., 2025, preprint)—consistent with nuclear spin influencing neural activity, but unreplicated.
+**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments reported "a large and opposite effect on synaptic transmission" between the two isotopes (Esmaeilpour et al., 2025, preprint)—consistent with nuclear spin influencing neural activity, but unreplicated.
 
 **Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG to probe quantum effects on cognition (Escolà-Gascón, 2025); qubit entanglement in stimulus configurations explained 13.5% of accuracy variance. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement is unwarranted as stated.
 

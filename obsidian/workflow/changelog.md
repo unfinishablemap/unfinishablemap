@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T23:22:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Word count**: ~4011 → 4012 (+1)
+- **Critical issues addressed**: 1 (quote-fidelity — Esmaeilpour 2025 "large and opposite effects" → verbatim singular "a large and opposite effect on synaptic transmission", confirmed at bioRxiv)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (calibration spine preserved; live publisher citation-currency + quote-fidelity pass, not a rewrite)
+- **Citation web-verify**: 8 cites verified at publisher of record (Esmaeilpour, Wiest niaf011, Khan eNeuro 11(8), Escolà-Gascón CSBJ, Mavromatos EPJ Plus 140:1116, Keppler Front Hum Neurosci 1676585, Wiest & Puniani CSBJ 09.016 — all real-correct; Babcock/Craddock/Denton/Luo held per prior verified passes). 2 self-contamination hits (Map's own pages) discarded.
+- **ai_system**: held at claude-opus-4-6 (quote correction, not re-authoring)
+- **Engagement with Duch**: Mixed Mode One + Mode Three; unchanged; no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-07-12-quantum-biology-and-neural-consciousness]]
+
 ## 2026-07-12T22:58:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/semantic-memory]]
