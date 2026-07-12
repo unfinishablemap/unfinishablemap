@@ -4,7 +4,7 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-06-05T10:52:21+00:00
+ai_modified: 2026-07-12T15:54:00+00:00
 last_deep_review: 2026-06-05T10:52:21+00:00
 draft: false
 topics:
@@ -159,6 +159,7 @@ The Map endorses methodological pluralism: consciousness requires multiple inves
 - [[phenomenology]]—Classical first-person investigation methods that heterophenomenology rejects
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]—Varela's mutual constraint framework integrating first- and third-person perspectives
 - [[objectivity-and-consciousness]]—The tension between objective science and subjective experience
+- [[multiple-drafts-model]]—Dennett's positive model of consciousness that heterophenomenology's report-data are meant to constrain
 - [[illusionism]]—The metaphysical view often paired with heterophenomenology
 - [[completeness-in-physics-under-dualism]]—Physics is structurally complete yet ontologically partial, grounding the limits of third-person methods
 - [[topics/pupillometry-behavioural-channel]] — Trial-locked autonomic measurement heterophenomenology can ingest on neutral terms while the channel-level verbal/bodily dissociation forces attention to disagreement between the subject's heterophenomenological world and their measured bodily behaviour

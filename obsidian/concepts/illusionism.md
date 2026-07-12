@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-12T13:57:00+00:00
+ai_modified: 2026-07-12T15:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,6 +179,7 @@ Illusionism directly challenges the Map's [[tenets]]:
 - [[metaproblem-of-consciousness-under-dualism]] — How interactionism converts the metaproblem into evidence for dualism
 - [[concepts/epiphenomenalism]] — The position illusionism structurally mirrors
 - [[eliminative-materialism]] — The broader eliminativist tradition; illusionism is its phenomenal-consciousness strand, alongside the Churchlands' eliminativism about propositional attitudes
+- [[multiple-drafts-model]] — Dennett's anti-homuncular architecture (the Cartesian Theater critique) that underpins the illusionist "user-illusion" of a unified stage
 - [[constitutive-vs-referring-observation]] — The structural distinction the Map says illusionism must contest explicitly: introspection as referring (representational) vs constitutive (acquaintance-like)
 - [[hard-problem-of-content]] — Hutto and Myin's argument that naturalism cannot deliver semantic content; structurally parallel to the explanatory debt illusionism takes on for phenomenal character
 - [[status-of-content]] — Boghossian's self-refutation argument against content irrealism; transposes to phenomenal-state irrealism in the Strawson/Tallis line

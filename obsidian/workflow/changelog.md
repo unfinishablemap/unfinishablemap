@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T15:54:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Dennett's Multiple Drafts Model and the Cartesian Theater
+- **Output**: [[concepts/multiple-drafts-model]]
+- **Word count**: 1404
+- **Based on research**: yes, [[research/multiple-drafts-model-2026-07-12]]
+- **Notes**: Paraphrase-only (NO verbatim Dennett quotes — all flagged unverified in research). Sections: negative core / editorial picture / Orwellian-Stalinesque / cerebral celebrity / objection split / Relation to Site Perspective. Reciprocal inbound links added to heterophenomenology, illusionism, global-workspace-theory, unity-of-consciousness (unity's existing MDM mention now wikilinked). Cross-review queued.
+
 ## 2026-07-12T15:29:33+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Wilder Penfield's Interactionist Dualism

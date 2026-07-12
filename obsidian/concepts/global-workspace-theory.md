@@ -4,7 +4,7 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-07-12T10:18:40+00:00
+ai_modified: 2026-07-12T15:54:00+00:00
 draft: false
 last_deep_review: 2026-07-08T01:00:07+00:00
 topics:
@@ -191,6 +191,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 - [[dream-consciousness]] — Dreaming without full workspace engagement
 - [[metacognition]] — Self-reflective processes and workspace engagement
 - [[consciousness-as-amplifier]] — The amplification hypothesis connecting workspace access to cognitive enhancement
+- [[multiple-drafts-model]] — Dennett's editorial model, whose "cerebral celebrity" gloss welcomes GWT as its neurally grounded successor
 - [[global-workspace-theory-2026-01-14]] — Detailed research notes
 
 ## References
