@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-11T13:04:00+00:00
+ai_modified: 2026-07-12T11:48:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-07-07T06:20:41+00:00
+last_deep_review: 2026-07-12T11:48:19+00:00
 ---
 
 Dualism comes in two main varieties. Substance dualism holds that mind and body are different *kinds of thing*—distinct substances. Property dualism holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[concepts/materialism|materialism's]] claim that everything is ultimately physical, but disagree about the underlying metaphysical structure.
@@ -72,7 +72,7 @@ Property dualism holds that mental properties—the painfulness of pain, the red
 
 **[[russellian-monism|Russellian monism]]** holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or ground) the intrinsic nature physics doesn't capture. Critics argue it inherits dualism's difficulties: Pautz (2015) contends it requires brute "grounding laws" connecting quiddities to consciousness, structurally parallel to dualism's psychophysical laws—"Though called a physicalist view, it seems to have many of the vices of dualism." The Map names this pattern [[disguised-property-dualism]]—a theory doing property-dualist work without paying its conceptual rent—and accepts the structural commitment openly instead.
 
-**Emergent dualism** holds that mental properties [[emergence|emerge]] from physical complexity in ways unpredictable from physical theory alone. The emergence is ontological, not merely epistemic—mental properties are genuinely novel when complex systems arise.
+**Emergent dualism** holds that mental properties [[emergence|emerge]] from physical complexity in ways unpredictable from physical theory alone—ontological, not merely epistemic, emergence. The label spans two positions, though: this property-emergence variant, and [[emergent-dualism|Hasker's canonical substance-emergence view]], on which the brain generates a genuinely new mental *subject* with novel causal powers, not merely new properties.
 
 ### The Appeal of Property Dualism
 
