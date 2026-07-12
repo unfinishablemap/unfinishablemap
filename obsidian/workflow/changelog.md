@@ -5,6 +5,21 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T17:17:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/synesthetic-void]]
+- **Scope**: Staleness pass — first full review in 39 days; scrutinized the two unreviewed 06-17 refine passes (16cc378 rival-import, a57e61c temper). Long-stable pre-06-03 sections not re-litigated.
+- **Word count**: 3578 → 3578 (converged-clean; no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Rival-block verdict**: four physicalist counter-readings each fairly steelmanned; core claim survives by direct engagement (joint-parsimony non-convergence), not re-assertion. Engagements: functionalist Mode One; representationalist Mode One; heterophenomenologist Mode Three; illusionist Mode Two→Three. No strawman, no boundary-substitution, no label leakage.
+- **Temper verdict**: all five 06-17 walk-backs genuinely calibrated; residual-overreach sweep + superlative helper found none.
+- **Citation spot-check**: no new cites introduced; internal apex quote "empirical wedge, not a knockdown" verified verbatim vs [[phenomenal-variation-within-a-species]]; McGinn/van Leeuwen cites intact from 06-03 publisher verification.
+- **Tenet verdict**: T1 dualism framing now gated on counter-readings (stronger/more honest, no possibility-probability slippage); T5 Occam calibrated; Relation-to-Site holds.
+- **Length**: over voids hard (3000), under critical (4000) — load-bearing counter-readings content, NOT auto-condensed; flagged for human length decision.
+- **Stamps**: last_deep_review 2026-06-03 → 2026-07-12 (closes 39d gap); ai_modified held; ai_system held at claude-opus-4-7.
+- **Output**: [[reviews/deep-review-2026-07-12-synesthetic-void]]
+
 ## 2026-07-12T17:12:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/indexical-identity-quantum-measurement]]
