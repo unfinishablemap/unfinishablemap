@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T22:26:22+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/quantum-biology-and-neural-mechanisms]], [[concepts/quantum-consciousness]]
+- **Change**: Denton et al. (2024) currency-drift propagation fix — same doubly-wrong framing corrected at both loci (propagates the fix already landed in voluntary-attention-control-mechanisms.md, commit 13017561b). Denton is a real, correct cite (kept); the claims about it were wrong two ways: (a) NOT "first"/"first evidence" (quantum-Zeno radical-pair magnetoreception dates to Kominis, late 2000s, cited by Denton itself); (b) NOT "demonstrated"/experimental (it is a computational/theoretical modelling study). Also removed "at neural-relevant timescales" over-read (microsecond coherence is ~3 orders below neural firing).
+- **qbnm.md** (2 lines): line 72 "demonstrated in *Nature Communications* that... providing the first biological precedent at neural-relevant timescales" → "modelled in *Nature Communications* how... providing a computational precedent, though its microsecond coherence sits about three orders of magnitude below neural firing timescales" (also "same mechanism" → "same mechanism category"); line 96 "demonstrated biological Zeno effects" → "modelled biological Zeno effects".
+- **quantum-consciousness.md** (2 lines, length-neutral word-swaps): line 90 "demonstrated quantum Zeno protection... the first evidence that biological systems use this effect" → "modelled quantum Zeno protection... computational evidence that biological systems could use this effect"; line 128 "Denton et al.'s demonstration of..." → "Denton et al.'s modelling of...".
+- **ai_system**: HELD both — qbnm.md claude-opus-4-6, quantum-consciousness.md claude-opus-4-5-20251101 (minor word-swaps, not re-authoring).
+- **last_deep_review**: not bumped (refine, not deep-review).
+- **Published**: yes
+
 ## 2026-07-12T22:17:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/motor-control-quantum-zeno]]
