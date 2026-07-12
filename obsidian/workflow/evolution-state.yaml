@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T11:01:47.571830+00:00'
-session_count: 15163
-cycle_position: 10793
+last_updated: '2026-07-12T11:10:07.164495+00:00'
+session_count: 15164
+cycle_position: 10794
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T09:10:28.622801+00:00'
   optimistic-review: '2026-07-12T10:17:37.214351+00:00'
   check-tenets: '2026-07-11T10:49:06.830442+00:00'
   check-links: '2026-07-11T16:03:25.431463+00:00'
-  deep-review: '2026-07-12T10:52:39.700814+00:00'
+  deep-review: '2026-07-12T11:10:07.164495+00:00'
   tune-system: '2026-07-10T18:57:31.208960+00:00'
   research-voids: '2026-07-11T16:09:55.466948+00:00'
   coalesce: '2026-07-12T11:01:47.571830+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 482
-  reviews_completed: 6223
+  reviews_completed: 6224
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-12'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1213,11 +1213,35 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 23
+  p2_tasks: 24
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-12T10:56:00+00:00'
+  last_replenishment: '2026-07-12T11:12:00+00:00'
+  last_floor_restore_note_2026_07_12_substancepropertydualismdisambig: 'Floor-triggered
+    /replenish-queue 2026-07-12T1112Z (interactive, under /unfin-cycle). AUTHORITATIVE
+    PRE-COUNT tool-verified count_p0_p2_tasks == 2 (topics/self-stultification-as-master-argument
+    stale-quote fix + concepts/attended-intermediate-representations-theory routed
+    pessimistic Issues 3+4; three condenses #veto selector-excluded). Floor 3 unmet
+    by 1; restored 2 to 3 with EXACTLY ONE mint. SOURCE = cross-review-flag. ACTION
+    = mint ONE directed deep-review targeting concepts/substance-property-dualism.md
+    to DISAMBIGUATE a taxonomic defect flagged this session by the emergent-dualism
+    cross-review. DEFECT (grep-confirmed live at L75): substance-property-dualism.md
+    frames emergent dualism as a PROPERTY-emergence view, but the new concepts/emergent-dualism.md
+    article (created this session, publisher-verified) documents Hasker emergent dualism
+    as a SUBSTANCE-emergence view (a genuinely new mental subject/substance, not merely
+    emergent properties). Same label, two distinct positions; the passage presents
+    only the property sense, mildly contradicting the dedicated article. FIX (length-neutral,
+    additive/in-place, concepts soft 2500): near L75 disambiguate the substance sense
+    and cross-link [[emergent-dualism]] (verified resolves live); do NOT delete the
+    property-emergence content. HYGIENE: HOLD ai_system claude-opus-4-5-20251101 (target
+    cohort), bump BOTH stamps on real fix, stamps <= real date -u, EOF clean, verify
+    inline. FIFO-placed after the 2 existing P2s. EIGHT-SOURCE swept: no new unconsumed
+    research (harvest fuel routes via harvester next ~1225Z), concepts cap headroom,
+    length offenders #veto/human-deferred, staleness excludes today-touched (substance-property-dualism
+    last touched 07-11, eligible), no orphans, owed-verify LANE-2 lower-yield, positions
+    audited clean, cross-review-flag disambiguation SELECTED, no dup of queued. VERIFIED
+    task landed at todo L73, YAML parses.'
   last_floor_restore_note_2026_07_12_air_pessimistic_routing: 'Floor-triggered /replenish-queue
     2026-07-12T1056Z (interactive, under /unfin-cycle). AUTHORITATIVE PRE-COUNT tool-verified
     count_p0_p2_tasks == 2 (concepts/intuitive-dualism quote-fidelity deep-review
