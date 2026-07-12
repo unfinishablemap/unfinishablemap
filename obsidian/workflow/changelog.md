@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T15:00:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-consciousness]]
+- **Lens**: Targeted in-body quote-fidelity (orthogonal to reference-citation metadata swept 2026-07-07; 9th review)
+- **Word count**: 2680 → 2681 (+1, length-neutral quote correction)
+- **Critical issues addressed**: 1 (Wheeler aphorism non-verbatim)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Detail**: Wheeler quote (line 106) rendered "No phenomenon is a *real* phenomenon until it is an observed phenomenon" — web-verified as non-verbatim (drops "elementary", inserts "real"; the "real" form appears only in quote-aggregator sites). Corrected to canonical "Law Without Law" (1983, cited ref #16) form: "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon." Confirmed against Quanta 2024 + physics literature. Secondary body-quote scan: Bell/von Neumann are paraphrase-with-title (no quote-fidelity risk); Whitehead "actual occasions" is his correct term. ai_system held at claude-opus-4-6 (correction, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-12-quantum-measurement-and-consciousness]]
+
 ## 2026-07-12T14:42:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Kripke's A-Posteriori Necessity Argument Against Mind-Brain Identity
