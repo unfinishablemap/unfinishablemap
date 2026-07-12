@@ -4,7 +4,7 @@ description: "Knowledge expressed in action without conscious recollection. Chok
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-06-08T21:03:30+00:00
+ai_modified: 2026-07-12T17:37:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-06-08T21:03:30+00:00
+last_deep_review: 2026-07-12T17:37:54+00:00
 ---
 
 When you ride a bicycle, tie your shoes, or type on a keyboard, you act without reflective awareness. The skill executes smoothly; you don't observe yourself executing it. You don't mentally replay the lessons where you learned, nor do you consciously retrieve rules about pedal pressure or keystroke sequences. The knowledge is simply expressed in fluent action. This is implicit memory—knowledge that shows in performance rather than conscious recollection.
@@ -44,7 +44,7 @@ Implicit memory matters for The Unfinishable Map's framework because it reveals 
 
 Endel Tulving (1927-2023) distinguished [[anoetic-noetic-autonoetic-consciousness|three forms of consciousness]] associated with different memory systems, forming a hierarchy from unreflective action to temporal self-projection.
 
-**Anoetic consciousness** ("non-knowing") accompanies procedural and implicit memory. When you perform a well-learned skill, there is no self-reference, no sense of yourself as the subject of experience observing yourself act. The skill simply executes. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode—a non-reflective, quale-like character that Vandekerckhove and Panksepp (2009) later glossed as "non-reflective qualia." There is still something it is like to ride a bicycle expertly; it just doesn't involve representing yourself as the one riding.
+**Anoetic consciousness** ("non-knowing") accompanies procedural and implicit memory. When you perform a well-learned skill, there is no self-reference, no sense of yourself as the subject of experience observing yourself act. The skill simply executes. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode—a non-reflective, quale-like character that Vandekerckhove and Panksepp (2009) later characterised as genuine, pre-reflective phenomenal experience—qualia without self-reflection. There is still something it is like to ride a bicycle expertly; it just doesn't involve representing yourself as the one riding.
 
 **Noetic consciousness** ("knowing") accompanies [[semantic-memory|semantic memory]]. You are aware of knowing—you know that Paris is in France—but without re-experiencing when you learned it. The fact is simply available.
 
@@ -177,7 +177,7 @@ The framework's claims about implicit memory and anoetic consciousness would be 
 Implicit memory illuminates all five tenets.
 
 ### Dualism
-Even Tulving's anoetic consciousness has phenomenal character—what Vandekerckhove and Panksepp call "non-reflective qualia." There is something it is like to perform automatized skills, however different from reflective experience. Consciousness isn't identical to self-aware cognition; it includes unreflective modes that procedural memory operates within.
+Even Tulving's anoetic consciousness has phenomenal character—what Vandekerckhove and Panksepp characterise as pre-reflective qualia, phenomenal experience without self-reflection. There is something it is like to perform automatized skills, however different from reflective experience. Consciousness isn't identical to self-aware cognition; it includes unreflective modes that procedural memory operates within.
 
 ### Minimal Quantum Interaction
 The [[attention-as-interface|attention interface]] explains why consciousness can delegate: once skills are calibrated, the low-bandwidth interface need not continuously engage. Procedural systems run on trained patterns; consciousness intervenes only when [[concepts/consciousness-selecting-neural-patterns|selection among alternatives]] is required.
