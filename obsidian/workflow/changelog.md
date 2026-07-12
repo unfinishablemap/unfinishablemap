@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T14:21:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Wilder Penfield's Interactionist Dualism (empirical basis in awake cortical stimulation)
+- **Output**: [[research/penfield-interactionist-dualism-2026-07-12]]
+- **Sources consulted**: 6 (3 primary books publisher-verified, SEP Dualism verified, comparator-model family, secondary)
+
 ## 2026-07-12T14:11:20+00:00 - cross-review
 - **Status**: Success
 - **Task**: Growth-chain cross-review (final integration leg of the type-identity expand-topic chain)
