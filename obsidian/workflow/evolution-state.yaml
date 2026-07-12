@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T17:14:18.193534+00:00'
-session_count: 15228
-cycle_position: 10827
+last_updated: '2026-07-12T17:20:11.116793+00:00'
+session_count: 15229
+cycle_position: 10828
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T13:45:49.409232+00:00'
   optimistic-review: '2026-07-12T14:38:41.995416+00:00'
   check-tenets: '2026-07-12T12:33:00.886236+00:00'
   check-links: '2026-07-12T12:23:26.740955+00:00'
-  deep-review: '2026-07-12T17:14:18.193534+00:00'
+  deep-review: '2026-07-12T17:20:11.116793+00:00'
   tune-system: '2026-07-12T12:37:47.832048+00:00'
   research-voids: '2026-07-12T12:25:44.719253+00:00'
   coalesce: '2026-07-12T15:25:29.696464+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 485
-  reviews_completed: 6236
+  reviews_completed: 6237
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-12'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-12'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 - task: deep-review
@@ -1264,11 +1264,38 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 31
+  p2_tasks: 32
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-12T17:00:00+00:00'
+  last_replenishment: '2026-07-12T17:27:00+00:00'
+  last_floor_restore_note_2026_07_12_collective_phenomena_owed_web_verify: 'Floor-restoring
+    /replenish-queue 2026-07-12T1727Z (interactive, under /unfin-cycle). AUTHORITATIVE
+    PRE-COUNT tool-verified count_p0_p2 == 2 (concepts/implicit-memory owed-web-verify
+    deep-review + topics/clinical-phenomenology-and-altered-experience owed-web-verify
+    deep-review; three condenses veto selector-excluded; P3 research/human-length +
+    wall-clock literature-drift do not restore the loop floor). Floor 3 unmet by 1;
+    restored 2 to 3 with EXACTLY ONE mint. SOURCE = owed_web_verify (Source 6, quote-fidelity
+    axis). WHY NOT Source 4 staleness: checked-by-DIFF, every 30+d-reviewed candidate
+    with a post-review touch was ACCRETION-ONLY (interface-threshold/vagueness-void/inverted-qualia
+    = single-wikilink +2/-1; visual-consciousness = the completed Cogitate-Melloni
+    citation sweep; composition-and-consciousness = coalesce wikilink-repoint; dream-consciousness
+    = yt-embed), NO genuine prose drift, so a fresh-axis owed-verify is licensed. WHY
+    NOT mapping-mind-space (other strong Schwitzgebel-quote locus): outer-web-verified
+    3x on 2026-06-06/08, bibliography already web-checked, DISQUALIFIED from the seam.
+    TARGET topics/consciousness-and-collective-phenomena.md (opus-4-6, ai_mod == ldr
+    2026-06-05, ~37d converged, reviewed ONLY at creation, NEVER outer-reviewed so cites
+    only intra-corpus-checked, not session-touched). DEMONSTRABLE LOCI: line 78 verbatim
+    quoted phrase plural pre-reflective self-awareness attributed inline to Hans Bernhard
+    Schmid (refs entry Schmid 2009 Plural Action) -- source-tracing risk: the exact
+    term is most associated with Schmids LATER 2014 paper Plural Self-Awareness, not
+    the cited 2009 book. Secondary: line 108 we-intentionality attributed to Searle
+    (his coinage is more often we-intentions), line 130 status functions (genuine 1995
+    term, low risk). Minted a TARGETED deep-review: verbatim-verify at publisher of
+    record; three outcomes (verify+locator / dequote-if-paraphrase-or-wrong-work / soften-if-not-their-words);
+    no content-deletion on first-search-miss; HOLD ai_system claude-opus-4-6; body ~3611w
+    well under hard, do NOT condense. FIFO-placed after the two existing P2s. Other
+    sources unchanged / exhausted.'
   last_floor_restore_note_2026_07_12_clinical_phenomenology_owed_web_verify: 'Floor-restoring
     /replenish-queue 2026-07-12T1700Z (interactive, under /unfin-cycle). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2 == 2 (voids/synesthetic-void staleness deep-review
