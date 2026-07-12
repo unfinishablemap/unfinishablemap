@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T08:33:33+00:00 - deep-review
+- **Status**: Success (real fix — 1 quote-attribution correction)
+- **File**: [[concepts/creative-consciousness]]
+- **Lens**: OWED publisher-of-record citation + quote-fidelity pass (opus-4-7 cohort, ~19 refs, 29d converged; 06-13 review's citation list had never had a full publisher-of-record pass). Empirical/recent/famous/quoted cites web-verified at publisher.
+- **Citation ledger**: 10 web-verified this pass, ALL real-correct — Bartoli 2024 Brain 147(10) 3409-3425 (PMC11449134); Bowden 2005 TiCS 9(7) 322-328; Kounios&Beeman 2009 Curr Dir 18(4) 210-216; Metcalfe&Wiebe 1987 Mem&Cogn 15(3) 238-246; Kronfeldner 2009 Phil Q 59(237) 577-592; Weisberg 2015 Think&Reason 21(1) 5-39; Dirac 1963 Sci Am 208(5) 45-53; Poincaré 1908 Science and Method; Ohlsson 1992 (Keane&Gilhooly eds, pp.1-44); Bergson 1907. Classic monographs (Boden/Hausman/Kosso/Kuhn/Nørretranders/Penrose/Wertheimer) carried forward low-risk.
+- **Quote-fidelity (fix)**: Husserl "domain of possibility and realm of freedom" was a commentator's phrase (Brian Elliott, Routledge 2005), NOT Husserl's own words — commentator-as-author-quote defect. De-quoted + reframed as faithful characterization of Husserl's phantasy phenomenology. Dirac/Poincaré/Bergson quotes verbatim-verified.
+- **Currency sweep**: find_superlative none actionable; theta-direction gloss on Bartoli soft-interpretive, left; uncited 10-bits/8-sec figures consistent with literature.
+- **Word count**: 2689 → 2701 (+12, length-neutral; soft_warning 108% concepts target — no expansion)
+- **Critical issues addressed**: 1 (Husserl misattribution) | **Medium**: 0 | **Enhancements**: 0
+- **Stamps**: ai_modified + last_deep_review bumped (06-13→07-12); ai_system HELD claude-opus-4-7 (single fix, not re-authored)
+- **Output**: [[reviews/deep-review-2026-07-12-creative-consciousness]]
+
 ## 2026-07-12T08:16:48+00:00 - deep-review
 - **Status**: Success (converged-after-real-scrutiny — no content edits)
 - **File**: [[topics/neurological-dissociations-as-interface-architecture]]

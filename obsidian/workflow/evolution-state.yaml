@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T08:19:24.464620+00:00'
-session_count: 15135
+last_updated: '2026-07-12T08:25:41.572216+00:00'
+session_count: 15136
 cycle_position: 10778
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-12T04:45:45.146837+00:00'
   refine-draft: '2026-07-12T07:50:40.767263+00:00'
   research-topic: '2026-07-12T02:49:08.000594+00:00'
-  replenish-queue: '2026-07-12T08:23:46+00:00'
+  replenish-queue: '2026-07-12T08:25:41.572216+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-12T07:17:41.681016+00:00'
   add-highlight: '2026-07-12T08:08:31.251897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-07-12'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-12'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1218,9 +1218,9 @@ queue_status:
     emergent only once so is not a Hasker home page; Hasker grep-verified cited across
     9 dualism-family articles with no focused treatment. Eight-source audit -- caps
     (topics 316/320 near-cap, concepts 291/320 headroom, voids at cap), length (all
-    offenders veto or human-deferred), staleness (targets done or queued, exclude today-touched),
-    orphans (none), positions (audit already P3-queued), applied-apex (no gap). VERIFIED:
-    promote landed (grep-confirmed P2 header present, task-gen-fork-reports-but-doesnt-write
+    offenders veto or human-deferred), staleness (targets done or queued, exclude
+    today-touched), orphans (none), positions (audit already P3-queued), applied-apex
+    (no gap). VERIFIED: promote landed (grep-confirmed P2 header present, task-gen-fork-reports-but-doesnt-write
     plain name), floor re-counted == 3, YAML parses. No commit.'
   last_floor_restore_note_2026_07_12_08Z: 'Floor-triggered /replenish-queue 2026-07-12
     (interactive, under /unfin-cycle). GREP-VERIFIED authoritative executable P0-P2
