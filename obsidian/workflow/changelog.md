@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T07:14:07+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Organizational Invariance (Chalmers' principle + fading/dancing-qualia arguments)
+- **Output**: [[concepts/organizational-invariance]]
+- **Word count**: 1720 (69% of 2500 concepts soft target, ok)
+- **Based on research**: yes — [[research/organizational-invariance-fading-dancing-qualia-2026-07-11]]
+- **Citations**: Chalmers 1995 (Metzinger ed., *Conscious Experience*, Imprint Academic) — title/venue + both verbatim quotes VERIFIED at publisher (consc.net/papers/qualia.html); Chalmers 1996 *The Conscious Mind* ch.7 (OUP, standard); van Heuveln/Dietrich/Oshima 1998 *Minds and Machines* 8(2) (from research note, page range dropped to avoid metadata-blind locator); Schwitzgebel 2010 + Mogensen (GPI) kept prose-reference only per research-note UNVERIFIED flags (no fabricated locator); epiphenomenal-spectator objection left in prose (no author cite). Self-cites: substrate-independence (Oquatre-cinq, opus-4-5 cohort) + machine-consciousness (Sonquatre-cinq, sonnet-4-5 cohort).
+- **Framework discipline**: phenomenal claims kept framework-relative ("by hypothesis"); invariance presented at full strength before Tenet-1 dissent; Map move = grain dispute ("fine enough grain") tied to Tenets 1 (ally) + 2 (opponent/wedge) + 3 (shared epiphenomenalism pressure).
+- **Inbound links wired**: topics/machine-consciousness (Substrate Independence Revisited section) + concepts/psychophysical-laws (Chalmers' Three Principles §2); ai_modified bumped, ai_system HELD on both.
+- **Cross-review**: queued (P2).
+
 ## 2026-07-12T06:42:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/teleosemantics]]

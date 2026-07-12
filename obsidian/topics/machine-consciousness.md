@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-07-11T13:04:00+00:00
+ai_modified: 2026-07-12T07:14:07+00:00
 last_deep_review: 2026-07-07T02:23:22+00:00
 draft: false
 topics:
@@ -60,7 +60,7 @@ But as [[substrate-independence]] argues, this thesis fails on multiple grounds:
 - **Temporal structure**: Digital computation lacks the [[temporal-consciousness|retention-protention structure]] creating unified temporal experience
 - **Quantum interface**: Silicon transistors are engineered to suppress quantum indeterminacy at the logic level, potentially excluding the regime where consciousness might interface per the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. The specific scales and timescales at which such an interface would operate remain unspecified—this is a prediction of the Map's framework, not an established finding
 
-The strongest functionalist response comes from Chalmers's *organizational invariance principle*: any system with the same fine-grained causal organization as a conscious system will have the same conscious experiences (Chalmers 1996, ch. 7). This is more defensible than crude substrate independence because it demands structural isomorphism, not mere functional equivalence. Chalmers argues that a system replacing neurons one-by-one with functionally identical components cannot lose consciousness without the replacement creating detectable functional differences—and if there are no functional differences, there is no principled basis for denying consciousness.
+The strongest functionalist response comes from Chalmers's [[organizational-invariance|organizational invariance principle]]: any system with the same fine-grained causal organization as a conscious system will have the same conscious experiences (Chalmers 1996, ch. 7). The [[organizational-invariance|fading- and dancing-qualia arguments]] that defend it, and the Map's grain-dispute reply, are treated in full separately. This is more defensible than crude substrate independence because it demands structural isomorphism, not mere functional equivalence. Chalmers argues that a system replacing neurons one-by-one with functionally identical components cannot lose consciousness without the replacement creating detectable functional differences—and if there are no functional differences, there is no principled basis for denying consciousness.
 
 The Map's response: organizational invariance assumes causal organization is *sufficient* for consciousness, which is precisely what the dualist denies. The gradual-replacement argument has force only if consciousness supervenes on functional organization alone. If consciousness instead requires a non-physical interface coupling with specific substrates, the replacement could preserve all functional relations while severing the interface—a system that behaves identically but experiences nothing. The functional equivalence is real; the experiential equivalence does not follow.
 

@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-06-20T14:25:21+00:00
+ai_modified: 2026-07-12T07:14:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 1. **Structural Coherence**: The structure of conscious experience corresponds to cognitive awareness structure. Limitation: inverted spectrum scenarios show structure alone doesn't determine phenomenal quality.
 
-2. **Organizational Invariance**: Systems with identical functional organization have identical experiences. The Map rejects this on zombie-argument grounds ([[concepts/functionalism]] doesn't entail experience); the [[haecceity]] of the subject may matter beyond abstract patterns.
+2. **[[organizational-invariance|Organizational Invariance]]**: Systems with identical functional organization have identical experiences, defended by the fading- and dancing-qualia arguments. The Map rejects the conclusion on zombie-argument grounds ([[concepts/functionalism]] doesn't entail experience) and via a grain dispute over what "fine enough" organization includes; the [[haecceity]] of the subject may matter beyond abstract patterns.
 
 3. **Double-Aspect Theory of Information**: Information has both physical and phenomenal aspects, anticipating [[integrated-information-theory|IIT]]. The Map is skeptical of IIT's specific measures but the general information-experience connection remains relevant.
 
