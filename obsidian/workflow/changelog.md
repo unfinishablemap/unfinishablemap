@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T18:59:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Cramer's Transactional Interpretation of Quantum Mechanics (TI)
+- **Output**: research/transactional-interpretation-of-quantum-mechanics-2026-07-12
+- **Sources consulted**: ~11 (Cramer 1986 RMP verified 58(3):647-688; Wheeler-Feynman 1945/1949; Kastner PTI 2012 + RTI; Maudlin contingent-absorber objection; SEP retrocausality). All candidate quotes flagged UNVERIFIED (paraphrase-only). No wikilinks, no live-article edits, no downstream tasks.
+
 ## 2026-07-12T18:24:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-hard-problem-in-non-western-philosophy]]
