@@ -4,8 +4,8 @@ description: "A position is self-stultifying—epistemically self-defeating—wh
 created: 2026-02-02
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-06-05T17:50:18+00:00
-last_deep_review: 2026-06-05T17:50:18+00:00
+ai_modified: 2026-07-12T04:03:00+00:00
+last_deep_review: 2026-07-12T04:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,7 +106,7 @@ If your reports about consciousness are not caused by consciousness, why would t
 
 As the Map's [[tenets]] put it:
 
-> If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states. Our reports about the redness of red or the painfulness of pain would be produced by brain states that have no causal connection to the experiences themselves.
+> If consciousness were epiphenomenal, beliefs *about* consciousness would not be caused by the experiences themselves; reports about the redness of red would be produced by brain states with no causal traffic from the phenomenal facts.
 
 The [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis]]—that genuine aboutness derives from phenomenal character—deepens this problem: the belief in epiphenomenalism must be genuinely *about* consciousness—it must have determinate intentional content directed at phenomenal experience. If intentionality derives from phenomenal character, the position is doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character gives the denial its meaning.
 
@@ -168,7 +168,7 @@ Some philosophers accept self-defeat and bite the bullet: yes, the position cann
 
 ### Distinguishing Self-Defeat from Refutation
 
-Self-stultification doesn't prove a position false—it shows the position cannot be rationally held. Epiphenomenalism might be true while being impossible to believe rationally. This is a weaker conclusion than falsification but still epistemically devastating: a position that undermines its own rational credentials cannot command assent.
+Self-stultification doesn't prove a position false—it shows the position cannot be rationally held. This is a weaker conclusion than falsification but still epistemically devastating: a position that undermines its own rational credentials cannot command assent.
 
 ### The Performative Dimension
 
@@ -198,7 +198,7 @@ Epistemic self-defeat also constrains what counts as an adequate theory of consc
 
 ## Relation to Site Perspective
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Self-stultification provides decisive support for this tenet. If consciousness couldn't cause anything—if it were truly epiphenomenal—then we could not know it was epiphenomenal. The very fact that we discuss consciousness, form theories about it, and revise those theories based on introspective evidence suggests that consciousness causally influences our beliefs and reports. The Map's framework avoids self-stultification by affirming that consciousness genuinely causes things—specifically, it selects among quantum possibilities at neural indeterminacies. This allows introspective reports to be causally connected to the experiences they report, grounding their reliability in causal rather than merely correlational terms. Bidirectional Interaction is not merely a metaphysical commitment but an epistemic necessity: any theory of mind that denies it cannot be rationally held by the minds it describes.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Self-stultification provides decisive support for this tenet. If consciousness couldn't cause anything—if it were truly epiphenomenal—then we could not know it was epiphenomenal. The very fact that we discuss consciousness, form theories about it, and revise those theories based on introspective evidence suggests that consciousness causally influences our beliefs and reports. The Map's framework avoids self-stultification by affirming that consciousness genuinely causes things—specifically, it selects among quantum possibilities at neural indeterminacies. This allows introspective reports to be causally connected to the experiences they report, grounding their reliability in causal rather than merely correlational terms. The Map holds Bidirectional Interaction not because self-stultification refutes epiphenomenalism inside its own framework—the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] keeps the strongest version of the position in play, on which reports track their physical referents without phenomenal causation—but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than a minimal causal interface.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Epiphenomenalism and reductive physicalism appear simpler than [[interactionist-dualism]]—they require no mysterious mind-to-brain causation. But this apparent simplicity is self-stultifying. A theory that cannot be rationally believed gains nothing from being simple. Parsimony that eliminates the conditions for rational belief is not a theoretical virtue but a structural flaw.
 
