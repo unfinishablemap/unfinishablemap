@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-07-07T13:21:32+00:00
+ai_modified: 2026-07-12T10:18:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -190,6 +190,8 @@ Focused attention (FA) meditation trains selection; open monitoring (OM) cultiva
 **Predictive Processing**: Treats attention as precision weighting—compatible with the interface hypothesis, where consciousness biases which precision signals win.
 
 **Attention Schema Theory**: AST explains how brains model computational attention but not why modelling should produce phenomenal attention. AST explains access to attention states but not phenomenal character.
+
+**Attended Intermediate Representations (AIR)**: Prinz's [[attended-intermediate-representations-theory|AIR theory]] makes attention *constitutive*—the attended intermediate perceptual representation *is* the experience—where the interface hypothesis reads the same attention-gating as *selection* among the representations the brain makes available.
 
 COGITATE (2025) found neither GWT nor IIT clearly vindicated—the Map's tenets point toward consciousness as an irreducible player using these mechanisms without being identical to them.
 

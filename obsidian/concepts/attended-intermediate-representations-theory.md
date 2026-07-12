@@ -23,6 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-12
 last_curated:
+last_deep_review: 2026-07-12T10:18:40+00:00
 ---
 
 The Attended Intermediate Representations (AIR) theory, developed most fully by Jesse Prinz in *The Conscious Brain: How Attention Engenders Experience* (Oxford University Press, 2012), holds that a mental state is conscious when and only when an *intermediate-level* perceptual representation is *modulated by attention*. Two theses carry the account. The **intermediate-level thesis** locates consciousness at one specific stage of perceptual processing — neither the low-level feature detectors nor the high-level categorical abstractions, but the viewpoint-specific middle. The **attention thesis** makes attention the gate: an intermediate representation becomes conscious precisely when attention makes it available to working memory. Prinz's own formulation, as quoted in the secondary literature, is that "consciousness arises when and only when intermediate-level representations are modulated by attention" (Prinz 2012, p. 89, cited in Mylopoulos 2015).
