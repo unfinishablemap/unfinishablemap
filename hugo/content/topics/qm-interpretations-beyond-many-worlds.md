@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-09 22:25:39+00:00
+ai_modified: 2026-07-12 20:18:00+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -91,7 +91,7 @@ The Map's reading of this dialectic is honestly framework-boundary. RQM and the 
 
 ## Transactional Interpretation and TSVF: Time-Symmetric Selection
 
-The transactional interpretation (TI), developed by John Cramer (1986), treats quantum events as "handshakes" between retarded waves (travelling forward in time) and advanced waves (travelling backward). A transaction between emitter and absorber constitutes a measurement. The two-state vector formalism (TSVF), developed by Aharonov, Bergmann, and Lebowitz (1964), similarly requires both forward-evolving and backward-evolving quantum states for a complete description.
+The [transactional interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) (TI), developed by John Cramer (1986), treats quantum events as "handshakes" between retarded waves (travelling forward in time) and advanced waves (travelling backward). A transaction between emitter and absorber constitutes a measurement. The two-state vector formalism (TSVF), developed by Aharonov, Bergmann, and Lebowitz (1964), similarly requires both forward-evolving and backward-evolving quantum states for a complete description.
 
 These time-symmetric interpretations align closely with the Map's framework. The Map already invokes [retrocausality](/concepts/retrocausality/) to address the Libet problem—the finding that neural readiness potentials precede conscious awareness of a decision. If consciousness participates in collapse atemporally rather than at a single moment, the apparent temporal gap between neural activity and conscious choice dissolves.
 

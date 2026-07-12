@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-24 20:46:08+00:00
+ai_modified: 2026-07-12 20:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -116,6 +116,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) applies here too. D
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — How time-symmetric physics enables conscious selection
 - [libet-experiments](/concepts/libet-experiments/) — The temporal ordering puzzle and its resolution
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-brain interaction
+- [transactional-interpretation-of-quantum-mechanics](/concepts/transactional-interpretation-of-quantum-mechanics/) — The transactional interpretation in full: offer/confirmation handshake, PTI, and the Maudlin objection
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Transactional interpretation evaluated alongside other quantum interpretations
 - [tenets](/tenets/) — The Map's foundational commitments
 

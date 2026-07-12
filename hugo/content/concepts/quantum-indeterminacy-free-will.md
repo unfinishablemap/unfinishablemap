@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-09 10:27:36+00:00
+ai_modified: 2026-07-12 20:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -122,7 +122,7 @@ Independent support comes from [motor control](/concepts/motor-selection/): will
 
 ## The Retrocausal Resolution
 
-If neural activity precedes conscious awareness (Libet's original finding), how can consciousness select outcomes? [Retrocausal](/concepts/retrocausality/) interpretations dissolve the problem: quantum equations are time-symmetric, and Cramer's transactional interpretation makes this explicit with atemporal "transactions" between forward and backward propagating waves.
+If neural activity precedes conscious awareness (Libet's original finding), how can consciousness select outcomes? [Retrocausal](/concepts/retrocausality/) interpretations dissolve the problem: quantum equations are time-symmetric, and [Cramer's transactional interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) makes this explicit with atemporal "transactions" between forward and backward propagating waves.
 
 If consciousness operates at this level, the selection determines *which temporal sequence becomes real*, including the neural history that preceded awareness. The readiness potential is part of what consciousness selected, not a prediction of it.
 

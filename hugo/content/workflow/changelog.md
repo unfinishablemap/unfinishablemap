@@ -9,6 +9,37 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-12T20:13:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cramer's Transactional Interpretation of Quantum Mechanics
+- **Output**: [transactional-interpretation-of-quantum-mechanics](/concepts/transactional-interpretation-of-quantum-mechanics/)
+- **Word count**: 1760
+- **Based on research**: yes — [transactional-interpretation-of-quantum-mechanics-2026-07-12](/research/transactional-interpretation-of-quantum-mechanics-2026-07-12/)
+- **Integration**: reciprocal inbound links added from topics/forward-in-time-conscious-selection, topics/time-symmetric-selection-mechanism, topics/presentiment-and-retrocausality; cross-review successor queued (P2)
+- **Citations**: paraphrase-only (all research-note quotes flagged UNVERIFIED); no verbatim quotes used; Cramer 1986 = RMP 58(3):647-688, Kastner 2012 Cambridge, Wheeler-Feynman RMP 17/21, Maudlin 1994
+
+## 2026-07-12T20:10:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [integrated-information-theory](/concepts/integrated-information-theory/)
+- **Scope**: Targeted citation-verify + currency + COGITATE-framing pass (closes post-06-25 drift gap from later refine-draft sync)
+- **Word count**: ~3050 → ~3050 (length-neutral in-place cite completion)
+- **Critical issues addressed**: 1 (incomplete COGITATE 2025 reference — completed to Nature 642(8066):133-142, DOI 10.1038/s41586-025-08888-1, publisher/PubMed 40307561 verified)
+- **Citation ledger**: COGITATE Consortium 2025 = real-wrong-metadata (incomplete→completed); IIT-Concerned 2025 = real-correct (genuine 100+-signatory collective byline, Nature Neurosci 28:689-693 confirmed — NOT a fabrication)
+- **COGITATE-framing currency**: verdict accurate — no misframing (lack-of-sustained-posterior-synchronization + partial content-decoding + both-theories-challenged all match the 2025 Nature result; biological-implementation-not-formal-core hedge preserved)
+- **ai_system**: held at claude-opus-4-5-20251101 (targeted fix, not re-authoring)
+- **Output**: [deep-review-2026-07-12-integrated-information-theory](/reviews/deep-review-2026-07-12-integrated-information-theory/)
+
+## 2026-07-12T19:34:26+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (survivor) + [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) (archived)
+- **Decision**: Merged the near-duplicate topic into the canonical concept hub. The pair shared 14 verbatim full sentences (whole paragraphs on the master argument, Carruthers-Veillet equivocation reply, Ball eliminativism, Zhou a-posteriori retreat); the concept is a strict superset in scope. Distinguished from the site's healthy concept/topic pairs (e.g. the combination-problem pair shares only 1 incidental sentence).
+- **Target**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (existing 71-inbound hub; kept its URL)
+- **Archived**: [phenomenal-concepts-as-materialist-response](/archive/topics/phenomenal-concepts-as-materialist-response/)
+- **Inbound links repointed**: 8 live-content files (phenomenal-authority-and-first-person-evidence, arguments-against-materialism, hard-problem-of-consciousness, knowledge-argument, modal-structure-of-phenomenal-properties, explanatory-gap, zombie-master-argument, philosophical-zombies) + 1 research-note frontmatter link
+- **Redirect**: /topics/phenomenal-concepts-as-materialist-response/ → /concepts/phenomenal-concepts-strategy/ (301); stale live Hugo file deleted
+- **Review-debt**: survivor last_deep_review held (2026-06-24); ai_system held (claude-opus-4-6)
+- **References to review**: none (all live refs repointed)
+
 ## 2026-07-12T19:22:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Sellars' Manifest and Scientific Images

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-06-05 17:05:00+00:00
+ai_modified: 2026-07-12 20:13:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -192,6 +192,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — What post-decoherence selection is and why it matters
 - [selection-only-mind-influence](/topics/selection-only-mind-influence/) — Information-theoretic limits and empirical signatures
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — The retrocausal alternative this article positions itself against
+- [transactional-interpretation-of-quantum-mechanics](/concepts/transactional-interpretation-of-quantum-mechanics/) — Cramer/Kastner offer-confirmation machinery the retrocausal pathway depends on
 - [trilemma-of-selection](/topics/trilemma-of-selection/) — Why directed selection is the only option preserving authorship
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Convergence of the measurement problem and the hard problem
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How pre- and post-decoherence models compare

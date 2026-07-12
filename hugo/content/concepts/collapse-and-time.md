@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-24 23:23:00+00:00
+ai_modified: 2026-07-12 20:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -67,7 +67,7 @@ But decoherence doesn't solve the [measurement problem](/concepts/measurement-pr
 
 Several frameworks preserve fundamental [time-symmetry](/concepts/time-symmetric-physics/), treating "collapse" as constraint satisfaction across time rather than a moment when superposition ends. Whether time-symmetry forces this move is itself contested: Leifer and Pusey (2017) argue that, under a plausible independence assumption (λ-mediation), a time-symmetric ontology cannot avoid [retrocausality](/concepts/retrocausality/)—sharpening Price's earlier claim that time-symmetry and retrocausality travel together.
 
-**Cramer's transactional interpretation** models quantum events as "handshakes" between forward- and backward-propagating waves. Kastner's possibilist extension (PTI) relocates these to a pre-spacetime realm—spacetime itself *emerges* from actualized transactions. If consciousness selects which transaction completes, PTI provides a natural ontological home: consciousness operates in the pre-spacetime realm, selecting which possibilities become actual spacetime events.
+**[Cramer's transactional interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/)** models quantum events as "handshakes" between forward- and backward-propagating waves. Kastner's possibilist extension (PTI) relocates these to a pre-spacetime realm—spacetime itself *emerges* from actualized transactions. If consciousness selects which transaction completes, PTI provides a natural ontological home: consciousness operates in the pre-spacetime realm, selecting which possibilities become actual spacetime events.
 
 **Aharonov's Two-State Vector Formalism** (TSVF) describes systems using both forward-evolving and backward-evolving states, making [retrocausality](/concepts/retrocausality/) mathematically explicit. Consciousness could function as the source of post-selection in neural systems—what provides the future boundary completing the two-state description. Crucially, Aharonov, Cohen, and Shushi (2016) showed that retrocausality is compatible with libertarian free will: quantum indeterminism masks future states from present access.
 

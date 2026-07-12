@@ -21,7 +21,6 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenal-concepts-strategy]]'
 - '[[research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29]]'
 - '[[research/phenomenal-concepts-strategy-2026-01-14]]'
 title: Research Notes - The Phenomenal Concept Strategy (2024-2026 Currency Update)
