@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T08:11:17.834894+00:00'
-session_count: 15134
-cycle_position: 10777
+last_updated: '2026-07-12T08:19:24.464620+00:00'
+session_count: 15135
+cycle_position: 10778
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-11T18:39:58.217307+00:00'
   optimistic-review: '2026-07-11T22:21:00.555733+00:00'
   check-tenets: '2026-07-11T10:49:06.830442+00:00'
   check-links: '2026-07-11T16:03:25.431463+00:00'
-  deep-review: '2026-07-12T07:40:40.428155+00:00'
+  deep-review: '2026-07-12T08:19:24.464620+00:00'
   tune-system: '2026-07-10T18:57:31.208960+00:00'
   research-voids: '2026-07-11T16:09:55.466948+00:00'
   coalesce: '2026-07-12T01:51:59.128192+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-12T04:45:45.146837+00:00'
   refine-draft: '2026-07-12T07:50:40.767263+00:00'
   research-topic: '2026-07-12T02:49:08.000594+00:00'
-  replenish-queue: '2026-07-12T08:04:18.684961+00:00'
+  replenish-queue: '2026-07-12T08:23:46+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-12T07:17:41.681016+00:00'
   add-highlight: '2026-07-12T08:08:31.251897+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 481
-  reviews_completed: 6215
+  reviews_completed: 6216
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-chatgpt-review
-  type: commission-chatgpt-review
-  date: '2026-07-12'
-  outcome: failed
 - task: research-topic
   type: research-topic
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1200,6 +1200,28 @@ queue_status:
   p3_tasks: 20
   needs_replenishment: false
   loop_pickable_open: 3
+  last_floor_restore_note_2026_07_12_0823Z: 'Floor-triggered /replenish-queue 2026-07-12T08:23Z
+    (interactive, under /unfin-cycle). TOOL-VERIFIED authoritative count_p0_p2_tasks
+    == 2 pre-action (AIR expand-topic + experimental-consciousness-science owed deep-review;
+    the veto-tagged Condense P2s and the Status blocked HUMAN-LENGTH-DECISION refine-drafts
+    are selector-excluded; the P3 positions-audit + P3 self-stultification-quote do
+    NOT count). Floor unmet by 1. ACTION = PROMOTE (not mint): P3 Research Emergent
+    Dualism -> P2, restoring 2 pickable P0-P2 tasks to 3. PROMOTE-over-MINT chosen
+    deliberately -- Source 1 unconsumed research EXHAUSTED (AIR was the last genuine
+    note; the three second-wave siblings verified-threaded + declined), Source 6 owed-web-verify
+    seam LARGELY DEPLETED for the older cohort (the neurological-dissociations owed-verify
+    just converged as a NO-OP because its cites were already publisher-verified, so
+    a blind older-cohort mint risks another wasted slot). Feeding the healthiest source
+    instead (harvest->research->expand->cross-review, 3 lifecycle-complete articles
+    this session). Assess-first CONFIRMED genuinely uncovered: no live or archived
+    emergent-dualism article, no research note, and substance-property-dualism mentions
+    emergent only once so is not a Hasker home page; Hasker grep-verified cited across
+    9 dualism-family articles with no focused treatment. Eight-source audit -- caps
+    (topics 316/320 near-cap, concepts 291/320 headroom, voids at cap), length (all
+    offenders veto or human-deferred), staleness (targets done or queued, exclude today-touched),
+    orphans (none), positions (audit already P3-queued), applied-apex (no gap). VERIFIED:
+    promote landed (grep-confirmed P2 header present, task-gen-fork-reports-but-doesnt-write
+    plain name), floor re-counted == 3, YAML parses. No commit.'
   last_floor_restore_note_2026_07_12_08Z: 'Floor-triggered /replenish-queue 2026-07-12
     (interactive, under /unfin-cycle). GREP-VERIFIED authoritative executable P0-P2
     == 2 pre-mint (neurological-dissociations owed citation/currency deep-review +
@@ -1586,7 +1608,7 @@ queue_status:
     routing. OTHER SEVEN SOURCES unchanged from 14:56Z audit and remain exhausted
     -- NO manufactured converged-no-op deep-review, NO re-mint of reverted j-space/hylomorphism
     duplicates, blocked flagship human-decision + human-coalesce candidates untouched.'
-  last_replenishment: '2026-07-11T05:42:00+00:00'
+  last_replenishment: '2026-07-12T08:23:46+00:00'
   replenishment_source_counts:
     unconsumed_research: 1
   last_floor_restore_note_2026_07_09_00_41Z: 'Floor-triggered /replenish-queue 2026-07-09T00:41Z
