@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 18:54:00+00:00
+ai_modified: 2026-07-12 13:57:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -98,6 +98,7 @@ The Map presents biological naturalism as a rival it *resists*, not one it takes
 - [disguised-property-dualism](/concepts/disguised-property-dualism/) — the collapse charge, developed
 - [substance-property-dualism](/concepts/substance-property-dualism/) — the honest dualisms the Map offers as the more coherent settling-point
 - [machine-consciousness](/topics/machine-consciousness/) — biological naturalism as the engine behind Searle's rejection of Strong AI
+- [type-identity-theory](/concepts/type-identity-theory/) — the classic reductive identity Searle's biological naturalism positions itself against
 
 ## References
 

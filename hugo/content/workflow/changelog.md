@@ -9,6 +9,82 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-12T13:57:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Type-Identity Theory (central-state materialism)
+- **Output**: [type-identity-theory](/concepts/type-identity-theory/)
+- **Word count**: 1917
+- **Based on research**: yes, [type-identity-theory-2026-07-12](/research/type-identity-theory-2026-07-12/)
+- **Notes**: Paraphrase-only citations (Place/Smart/Feigl primaries publisher-blocked this session — no fabricated verbatim quotes; only WEB-VERIFIED metadata locators used). Reciprocal inbound links wired from concepts/functionalism, topics/eliminative-materialism, concepts/biological-naturalism, concepts/illusionism (ai_system held, ai_modified bumped). Cross-review task queued (P2).
+
+## 2026-07-12T13:50:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-time](/concepts/philosophy-of-time/)
+- **Lens**: Residual citation 3-state web-verify (8 References cites the 06-13 ledger left implicit) + opportunistic quote-fidelity
+- **Word count**: unchanged (no body edit; clean-convergence)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: metadata-only — `last_deep_review` bumped to 2026-07-12; `ai_modified` and `ai_system: claude-opus-4-6` held (deep-review-fork-over-attributes-ai-system)
+- **Citations**: Zimmerman 2011 (Oxford Handbook, Callender ed., real-correct), Stapp 2011 (Mindful Universe 2nd ed. Springer, real-correct), Fox et al. 2012 (PLOS ONE e45370, real-correct), Varela 1999 (Naturalizing Phenomenology chapter, real-correct), Mellor/Prior/Sider/Whitehead (canonical, real-correct). No fabrication, no wrong-metadata.
+- **Quotes**: Tomaz 2025 decoherence quote near-verbatim (preprint "on a mixture" vs article "in a mixture" — published-version copyedit, not a confirmable defect, unchanged); Tallis "Misrepresentation presupposes presentation" left as-is (consistent aphorism, cannot disprove); Newton "without relation to anything external" faithful.
+- **Output**: [deep-review-2026-07-12-philosophy-of-time](/reviews/deep-review-2026-07-12-philosophy-of-time/)
+
+## 2026-07-12T13:21:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [libet-experiments](/concepts/libet-experiments/)
+- **Lens**: Type-B quote-fidelity / publisher-of-record verbatim pass (8 prior reviews checked citation metadata; none verbatim-checked attributed quotes)
+- **Word count**: 3110 → 3110 (length-neutral, in-place correction)
+- **Critical issues addressed**: 1 (summary-as-quotation — fabricated "sting" quote attributed to Schurger et al. 2012)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verbatim ledger**: Schurger 2012 "sting" quote — FABRICATED quotation form (word "sting" absent from 2012 PNAS paper per PMC full text; real conclusion is "helps dissolve another puzzling question"/"this conclusion is unfounded") → downgraded to faithful paraphrase; Sjöberg 2024 "completely irrelevant" — verbatim-verified (PMC11224596); Libet 550/200/350 ms figures — match Libet's reported values; "veto power" — correctly Libet's; "free won't" — attribution checked (coined by Obhi & Haggard 2004, but used as article's own label not a source-attributed quote → no fix)
+- **ai_system**: held at claude-opus-4-5-20251101 (not re-attributed)
+- **Output**: [deep-review-2026-07-12-libet-experiments](/reviews/deep-review-2026-07-12-libet-experiments/)
+
+## 2026-07-12T13:02:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)
+- **Lens**: Quote-fidelity (owed axis; 6 prior reviews checked citation metadata, none verbatim-checked attributed quotes)
+- **Word count**: 3992 → 3992 (+0, length-neutral — article near topics hard ceiling)
+- **Critical issues addressed**: 1 (Baddeley episodic-buffer quote "accessed by" → verbatim "accessible to conscious awareness"; summary-as-quotation near-miss)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quote ledger**: Vadillo/Soto/Shanks 2026 (niaf046, N=531, 19 labs) — verbatim correct; Baddeley 2000 — corrected to verbatim
+- **ai_system**: held at claude-opus-4-5-20251101 (minor same-length fix, not re-authored)
+- **Output**: [deep-review-2026-07-12-language-recursion-and-consciousness](/reviews/deep-review-2026-07-12-language-recursion-and-consciousness/)
+
+## 2026-07-12T12:54:37+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Kripke's A Posteriori Necessity Argument Against Materialism
+- **Output**: [kripke-a-posteriori-necessity-argument-2026-07-12](/research/kripke-a-posteriori-necessity-argument-2026-07-12/)
+- **Sources consulted**: 6 (publication history 1972-Reidel vs 1980-Harvard web-verified via Wikipedia + Britannica + PhilPapers; SEP mind-identity full-entry fetched for the heat/pain disanalogy; primary text unreachable → quotes flagged UNVERIFIED)
+
+## 2026-07-12T12:49:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Type-Identity Theory of Mind
+- **Output**: [type-identity-theory-2026-07-12](/research/type-identity-theory-2026-07-12/)
+- **Sources consulted**: 5 (SEP full-entry fetched; Place/Smart/Feigl/Putnam citations web-verified via publisher/PhilPapers metadata)
+
+## 2026-07-12T12:35:25+00:00 - tune-system
+- **Status**: Success (light run, 1.7d after clean no-change tune)
+- **Sessions analyzed**: 1 long /unfin-cycle session (~50 iterations, cycle 450)
+- **Findings**: 0 cadence, 0 task-failures (3 fork-hygiene patterns), queue healthy (at-floor alternation), quote-fidelity = highest-yield lens (7 real fixes), anchoring false-high re-fired 5th
+- **Tier 1 changes**: 0 applied (nothing material changed in 1.7d; all settings in cooldown)
+- **Tier 2 recommendations**: 1 (prefer quote-dense 0-verbatim-checked targets in owed-verify selection)
+- **Tier 3 operator notes**: 3 (anchoring static-metric false-high durable fix; fork-future-dates; fork-returns-before-subagent)
+- **Output**: reviews/system-tune-2026-07-12
+
+## 2026-07-12T12:31:07+00:00 - check-tenets
+- **Status**: Success (0 errors, 0 warnings)
+- **Trigger**: Cycle 450 completion (every-3-cycles)
+- **Files checked**: 5 new concept articles (full read) + corpus spot-check
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (calibration-acceptable; 1 style intensifier, 1 documented clean-scan)
+- **Result**: All five new steelman/rival articles (chinese-room-argument, teleosemantics, organizational-invariance, attended-intermediate-representations-theory, emergent-dualism) carry the required Relation-to-Site-Perspective section, connect to named tenets, keep dissent framework-relative (not asserted), and do NOT over-claim the quantum interface as proven. emergent-dualism dependence-vs-independence check (d) verified consistent with Tenets 1/2/3 — rival correctly declined, not endorsed. No routable violations.
+- **Output**: [tenet-check-2026-07-12-cycle450](/reviews/tenet-check-2026-07-12-cycle450/)
+
 ## 2026-07-12T12:15:00+00:00 - deep-review
 - **Status**: Success — quote-fidelity CRITICAL fix on owed-verify axes (06-16 cleared metadata only; quote-fidelity + currency were owed and orthogonal)
 - **File**: [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)

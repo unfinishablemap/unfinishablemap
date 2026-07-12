@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-06-17 14:42:24+00:00
+ai_modified: 2026-07-12 13:57:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -172,6 +172,7 @@ Eliminativism persists because physicalism keeps failing to produce a satisfying
 - [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — the Map's topic-level argument that content resists naturalisation, paralleling the phenomenal hard problem and the normativity of reason
 - [status-of-content](/concepts/status-of-content/) — Boghossian's sophisticated self-refutation argument against eliminativism about propositional-attitude content
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — broader methodological context
+- [type-identity-theory](/concepts/type-identity-theory/) — the reductive-identity option eliminativism radicalises: identify the mental kinds rather than eliminate them
 
 ## References
 

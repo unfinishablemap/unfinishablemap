@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-06-22 18:53:48+00:00
+ai_modified: 2026-07-12 13:02:45+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Recursive language structure may require phenomenal consciousness. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 18:53:48+00:00
+last_deep_review: 2026-07-12 13:02:45+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -85,7 +85,7 @@ For recursive parsing, the critical operation is integration: combining the stor
 The [binding problem](/concepts/binding-problem/) asks how distributed neural processes combine into unified experience. The same problem arises in recursive parsing: how do separately processed clauses integrate into a single hierarchical representation?
 
 
-Baddeley's episodic buffer—the WM component that performs binding—is described as "accessed by conscious awareness." Whether binding into unified wholes requires *phenomenal* integration, rather than computational concatenation plus access, is the contested premise—argued for, not assumed, in the regress against illusionism developed later. Flagging it here as an open premise rather than a finding avoids circularity: this section states the explanandum, the illusionism regress supplies the argument.
+Baddeley's episodic buffer—the WM component that performs binding—is described as "accessible to conscious awareness." Whether binding into unified wholes requires *phenomenal* integration, rather than computational concatenation plus access, is the contested premise—argued for, not assumed, in the regress against illusionism developed later. Flagging it here as an open premise rather than a finding avoids circularity: this section states the explanandum, the illusionism regress supplies the argument.
 
 Recursive structure requires hierarchical binding—clause within clause, phrase within phrase, all maintaining their relationships—and the phenomenal character of understanding a recursive sentence may reflect the conscious binding process itself.
 

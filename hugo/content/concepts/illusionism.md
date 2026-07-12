@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-22 23:05:25+00:00
+ai_modified: 2026-07-12 13:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -188,6 +188,7 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 - [functional-seeming](/concepts/functional-seeming/) — Frankish's central defensive concept, and the Map's detailed objections
 - [materialism](/concepts/materialism/) — The view illusionism radically defends
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What illusionism claims to dissolve
+- [type-identity-theory](/concepts/type-identity-theory/) — The earlier reductive materialism; illusionism radicalises it by denying the phenomenal residue rather than identifying it with a brain type
 
 ### External Sources
 - Chalmers, D. J. (2018). "The Meta-Problem of Consciousness." *Journal of Consciousness Studies*, 25(9-10), 6-61.

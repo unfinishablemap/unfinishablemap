@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-07-12T07:21:45+00:00
+ai_modified: 2026-07-12T13:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -189,6 +189,7 @@ None of these would logically refute dualism—the conceivability arguments woul
 - [[ai-consciousness-typology]] — Six categories for AI phenomenal experience
 - [[phenomenology-vs-function-axis]] — Empirical wedges where phenomenology and function come apart
 - [[minimal-consciousness]] — Simple organisms reveal functionalism's limits
+- [[type-identity-theory]] — The reductive predecessor multiple realizability displaced in functionalism's favour
 
 ## References
 

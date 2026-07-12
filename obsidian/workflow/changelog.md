@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T13:57:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Type-Identity Theory (central-state materialism)
+- **Output**: [[concepts/type-identity-theory]]
+- **Word count**: 1917
+- **Based on research**: yes, [[research/type-identity-theory-2026-07-12]]
+- **Notes**: Paraphrase-only citations (Place/Smart/Feigl primaries publisher-blocked this session — no fabricated verbatim quotes; only WEB-VERIFIED metadata locators used). Reciprocal inbound links wired from concepts/functionalism, topics/eliminative-materialism, concepts/biological-naturalism, concepts/illusionism (ai_system held, ai_modified bumped). Cross-review task queued (P2).
+
 ## 2026-07-12T13:50:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/philosophy-of-time]]
