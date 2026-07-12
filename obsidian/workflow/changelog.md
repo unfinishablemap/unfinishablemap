@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T22:08:44+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/motor-control-quantum-zeno.md` (stalest Tenet-2/3 mechanism article, 36d since deep-review, opus-4-6, 32 inbound links, never a dedicated pessimistic pass)
+- **Sharpest finding**: "Agency Question" recruits Schurger's classical accumulator noise as the "raw material" the agent biases into "genuine physical indeterminacy" — but the classical model is causally closed, so the agent-as-resolver role is licensed only by the (contested, firewalled) quantum-Zeno layer, not by the mainstream neuroscience the article leans on. Epistemic→metaphysical equivocation; "level playing field" oversold.
+- **Also flagged**: Desmurget dissociation "supports irreducibility" overclaim (neural separability ≠ psychophysical irreducibility); "dissolved" lead/description vs hedged body; line-112 arithmetic (300ms/µs = ~300,000 obs, not ~1,000); Nørretranders bandwidth 10-50 vs ~10 bits/s inconsistency. Decoherence section, falsifiability, MWI engagement credited as strengths to preserve.
+- **Output**: [[reviews/pessimistic-2026-07-12-motor-control-quantum-zeno]]
+- **Contract**: Reports-only. Wrote review file + this changelog entry only. No task minted; no article modified.
+
 ## 2026-07-12T21:54:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/voluntary-attention-control-mechanisms]]
