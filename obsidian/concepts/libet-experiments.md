@@ -4,8 +4,8 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-06-09T18:00:47+00:00
-last_deep_review: 2026-06-27T05:38:52+00:00
+ai_modified: 2026-07-12T13:21:28+00:00
+last_deep_review: 2026-07-12T13:21:28+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -60,7 +60,7 @@ Schurger, Sitt, and Dehaene (2012) challenged the standard interpretation. They 
 
 **Evidence**: Schurger's model predicts that spontaneous actions should take longer when initiated from lower baseline neural activity, because the noise must accumulate further to reach threshold. This prediction was confirmed. The "Libetus interruptus" experiment—interrupting participants randomly and asking if they felt an urge—found that subjective urges correlated with neural fluctuation levels, not with any goal-directed buildup.
 
-The authors conclude: "This takes the sting out of the Libet argument against free will." If the RP is noise rather than decision, neural activity isn't predicting choices before consciousness—it's just showing that random fluctuations preceded the moment consciousness decided to act.
+The authors argue this undercuts the standard free-will worry: on their model, the unconscious decision the readiness potential was thought to reveal is unfounded, because the decision threshold isn't crossed until close to movement. If the RP is noise rather than decision, neural activity isn't predicting choices before consciousness—it's just showing that random fluctuations preceded the moment consciousness decided to act.
 
 ## Surgical Evidence: The SMA Resection Study
 

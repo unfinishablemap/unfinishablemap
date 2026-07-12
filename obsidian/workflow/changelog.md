@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T13:21:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/libet-experiments]]
+- **Lens**: Type-B quote-fidelity / publisher-of-record verbatim pass (8 prior reviews checked citation metadata; none verbatim-checked attributed quotes)
+- **Word count**: 3110 → 3110 (length-neutral, in-place correction)
+- **Critical issues addressed**: 1 (summary-as-quotation — fabricated "sting" quote attributed to Schurger et al. 2012)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verbatim ledger**: Schurger 2012 "sting" quote — FABRICATED quotation form (word "sting" absent from 2012 PNAS paper per PMC full text; real conclusion is "helps dissolve another puzzling question"/"this conclusion is unfounded") → downgraded to faithful paraphrase; Sjöberg 2024 "completely irrelevant" — verbatim-verified (PMC11224596); Libet 550/200/350 ms figures — match Libet's reported values; "veto power" — correctly Libet's; "free won't" — attribution checked (coined by Obhi & Haggard 2004, but used as article's own label not a source-attributed quote → no fix)
+- **ai_system**: held at claude-opus-4-5-20251101 (not re-attributed)
+- **Output**: [[reviews/deep-review-2026-07-12-libet-experiments]]
+
 ## 2026-07-12T13:02:45+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/language-recursion-and-consciousness]]
