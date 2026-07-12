@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-05-19T19:18:56+00:00
+ai_modified: 2026-07-12T22:54:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-06-20T01:45:18+00:00
+last_deep_review: 2026-07-12T22:54:26+00:00
 ---
 
 William James's (1842–1910) philosophy of consciousness prefigured several commitments the Map defends. His radical empiricism treated pure experience as the fundamental stuff of reality. His "stream of consciousness" described the temporal structure phenomenologists would later elaborate—influencing Husserl's treatment of time-consciousness. His theory of attention as effortful selection offers phenomenological grounds on which later quantum approaches to mind-matter interaction have tried to build. And his [[filter-theory|filter theory]]—the brain as possible transmitter rather than producer of consciousness—provides a framework the Map adopts, while noting (in "Neutral monism tensions" below) the unresolved tension with his own radical empiricism.
@@ -92,9 +92,9 @@ James distinguished passive attention (drawn by novelty or intensity) from volun
 
 > "The essential achievement of the will, in short, when it is most 'voluntary,' is to attend to a difficult object and hold it fast before the mind."
 
-This effort of sustained attention is, for James, the fundamental act of will. Freedom doesn't consist in uncaused decisions but in the power to hold one idea before the mind rather than another:
+This effort of sustained attention is, for James, the fundamental act of will. Freedom doesn't consist in uncaused decisions but in the power to hold one idea before the mind rather than another. He makes the stakes explicit in the free-will discussion that closes his chapter on attention in *The Principles of Psychology* (1890):
 
-> "The whole feeling of reality, the whole sting and excitement of our voluntary life, depends on our sense that in it things are really being decided from one moment to another, and that it is not the dull rattling off of a chain that was forged innumerably ages ago."
+> "The whole feeling of reality, the whole sting and excitement of our voluntary life, depends on our sense that in it things are really being decided from one moment to another, and that it is not the dull rattling off of a chain that was forged innumerable ages ago."
 
 Stapp's quantum Zeno mechanism offers a possible but contested interpretation of James's phenomenology: on Stapp's reading, voluntary attention involves quantum observation events that hold preferred neural patterns against the brain's tendency toward other states, so each moment of sustained attention selects among quantum possibilities, with felt effort corresponding to real causal engagement. Stapp's interpretation remains philosophically controversial among physicists and has not been experimentally distinguished from standard decoherence accounts; it should be read as a speculative fit for James's gap rather than as substantiating his account.
 

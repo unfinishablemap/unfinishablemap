@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T22:54:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/william-james-consciousness]]
+- **Word count**: 3062 → 3083 (+21; citation-completion lead-in)
+- **Critical issues addressed**: 1 (quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (bare quote pinned to primary source)
+- **Primary lens**: quote-fidelity + citation-verify at James's primary texts (prior six reviews were intra-corpus / References-tuple only; opus-4-5 article predating the quote-fidelity discipline). All 11 attributed direct quotes worked through to primary works with a self-contamination guard against unfinishablemap.org "confirmations".
+- **Fix**: L97 free-will quote "...forged **innumerably** ages ago" → "...forged **innumerable** ages ago" (grammatically impossible adverb form; genuine James verbatim-restored) AND the previously-bare quote pinned to *The Principles of Psychology* (1890), Ch. XI "Attention" free-will close. Quote confirmed genuine James via SEP (James entry, Summer-2005 ed., cites "sting and excitement of our voluntary life…" to PP, Attention chapter) — NOT the Will chapter as the surrounding prose implied.
+- **Cleared (not a defect)**: L85 "Millions of items **of** the outward order" — verified faithful to the York/1890 primary; aggregators drifted to "in", the article is correct. Do not "fix".
+- **Verified-correct**: "specious present" is correctly NOT attributed to James as coiner (article says "James helped develop"; Clay coinage lives in [[temporal-consciousness]]).
+- **ai_system**: held at claude-opus-4-5-20251101 (verbatim/citation fix, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-12-william-james-consciousness]]
+
 ## 2026-07-12T22:26:22+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/quantum-biology-and-neural-mechanisms]], [[concepts/quantum-consciousness]]
