@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T08:47:47.303895+00:00'
-session_count: 15139
-cycle_position: 10780
+last_updated: '2026-07-12T08:54:46.454424+00:00'
+session_count: 15140
+cycle_position: 10781
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-11T18:39:58.217307+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-07-12T08:43:27.853499+00:00'
   replenish-queue: '2026-07-12T08:47:47.303895+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
-  expand-topic: '2026-07-12T07:17:41.681016+00:00'
+  expand-topic: '2026-07-12T08:54:46.454424+00:00'
   add-highlight: '2026-07-12T08:08:31.251897+00:00'
   literature-drift-review: '2026-07-07T05:03:29.903546+00:00'
   collect-chatgpt-review: '2026-06-27T03:50:09.786001+00:00'
@@ -86,7 +86,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 316
-  concepts_written: 291
+  concepts_written: 292
   arguments_written: 5
   questions_written: 0
   voids_written: 100
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-gemini-review
-  type: commission-gemini-review
-  date: '2026-07-12'
-  outcome: failed
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-12'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1196,10 +1196,33 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 17
+  p2_tasks: 18
   p3_tasks: 20
   needs_replenishment: false
   loop_pickable_open: 3
+  last_replenishment: 2026-07-12T08:56:00+00:00
+  last_floor_restore_note_2026_07_12_owedverify: 'Floor-triggered /replenish-queue 2026-07-12T0856Z
+    (interactive, under /unfin-cycle). AUTHORITATIVE PRE-COUNT grep-verified count_p0_p2_tasks
+    == 2 pre-mint (experimental-consciousness owed deep-review + emergent-dualism expand-topic;
+    the three #veto Condense P2s composition-question-rivals/meaning-of-life/phenomenal-output
+    selector-excluded; the just-queued AIR cross-review + positions-audit + HUMAN-LENGTH-DECISION
+    tasks are P3/blocked and do NOT count). Floor 3 unmet by 1; minted exactly ONE task
+    restoring 2 to 3. SOURCE = owed-verify (Source 6), DEMONSTRABLE freshly-grepped
+    signal NOT blind older-cohort risk. PICK = P2 deep-review of concepts/quantum-probability-consciousness.md,
+    TYPE-B QUOTE-FIDELITY VERBATIM PASS. Verified signals: ai_system claude-opus-4-5
+    (older cohort), ai_modified 2026-06-05, last_deep_review 2026-07-08 (NOT touched
+    today), 8 dedicated review files (2026-02-27 .. 2026-07-08) of which ZERO grep-match
+    verbatim/quote-fidelity — the ~20 quoted passages were only ever metadata-checked.
+    CONCEPTS SIBLING of topics/wheelers-participatory-universe-and-it-from-bit whose
+    first-ever verbatim pass THIS SESSION found a REAL Barbour stitched-paraphrase-in-quotes
+    defect; the same Wheeler participatory-universe / Fuchs participatory-realism quote
+    seam is open here (propagation lead). NAMED LOCI in task notes: Wheeler participatory-universe
+    quotes, Fuchs 2017 participatory-realism attribution, every <=25-word attributed
+    quote; cross-check shared Wheeler quotes vs the corrected wheelers article. Length-neutral;
+    HOLD ai_system claude-opus-4-5; UNVERIFIED->downgrade-to-paraphrase, never invent
+    or delete real quotes; verify inline (no fork-and-return). FIFO-placed AFTER the
+    two existing P2s (queue-lifo-starvation). VERIFIED: task landed (grep-confirmed open
+    P2 header present), floor re-counted == 3, YAML parses. No commit.'
   last_floor_restore_note_2026_07_12_late: 'Floor-triggered /replenish-queue 2026-07-12
     (interactive, under /unfin-cycle). GREP-VERIFIED authoritative count_p0_p2_tasks
     == 2 pre-mint (AIR expand-topic + experimental-consciousness-science owed deep-review;
