@@ -25,6 +25,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-12
 last_curated:
+last_deep_review: 2026-07-12T07:21:45+00:00
 ---
 
 The **principle of organizational invariance** is David Chalmers' claim that any two systems sharing the same fine-grained functional organization have qualitatively identical conscious experiences—whatever they are made of. Chalmers defends it with two thought experiments, **fading qualia** and **dancing qualia**, that together form the sharpest pro-functionalist pressure any substrate-dependent theory of consciousness must answer. This article states the principle and both arguments at full strength before turning, in the [[#relation-to-site-perspective|Relation to Site Perspective]] section, to where The Unfinishable Map locates its disagreement: not in the arguments' logic, but in a single qualifying phrase—"at a fine enough grain."

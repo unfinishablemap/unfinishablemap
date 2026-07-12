@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-07-08T01:53:34+00:00
+ai_modified: 2026-07-12T07:21:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -184,6 +184,7 @@ None of these would logically refute dualism—the conceivability arguments woul
 - [[illusionism]] — The radical defense of functionalism
 - [[phenomenal-concepts-strategy]] — The moderate defense against qualia objections
 - [[substrate-independence]] — Why the substrate matters for consciousness
+- [[organizational-invariance]] — Chalmers' fading/dancing-qualia argument that function fixes the distribution of consciousness—the sharpest pro-functionalist case
 - [[concession-convergence]] — Physicalist theories retreating toward dualist commitments
 - [[ai-consciousness-typology]] — Six categories for AI phenomenal experience
 - [[phenomenology-vs-function-axis]] — Empirical wedges where phenomenology and function come apart

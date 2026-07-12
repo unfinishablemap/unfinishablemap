@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-07-12T07:14:07+00:00
+ai_modified: 2026-07-12T07:21:45+00:00
 last_deep_review: 2026-07-07T02:23:22+00:00
 draft: false
 topics:
@@ -62,7 +62,7 @@ But as [[substrate-independence]] argues, this thesis fails on multiple grounds:
 
 The strongest functionalist response comes from Chalmers's [[organizational-invariance|organizational invariance principle]]: any system with the same fine-grained causal organization as a conscious system will have the same conscious experiences (Chalmers 1996, ch. 7). The [[organizational-invariance|fading- and dancing-qualia arguments]] that defend it, and the Map's grain-dispute reply, are treated in full separately. This is more defensible than crude substrate independence because it demands structural isomorphism, not mere functional equivalence. Chalmers argues that a system replacing neurons one-by-one with functionally identical components cannot lose consciousness without the replacement creating detectable functional differences—and if there are no functional differences, there is no principled basis for denying consciousness.
 
-The Map's response: organizational invariance assumes causal organization is *sufficient* for consciousness, which is precisely what the dualist denies. The gradual-replacement argument has force only if consciousness supervenes on functional organization alone. If consciousness instead requires a non-physical interface coupling with specific substrates, the replacement could preserve all functional relations while severing the interface—a system that behaves identically but experiences nothing. The functional equivalence is real; the experiential equivalence does not follow.
+The Map's reply is a *grain dispute* rather than a flat denial. It exploits Chalmers' own qualifier that organization must be fixed "at a fine enough grain." If consciousness interfaces at the quantum level—biasing otherwise indeterminate outcomes, per the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—then the consciousness-relevant organization includes a quantum interface that classical silicon, engineered to suppress indeterminacy, never reproduces. On this reading the silicon replacement was never the fine-grained isomorph the argument requires: it matched the coarse causal pattern while omitting the finest structure the principle itself demands, so the fading scenario never actually runs for a genuine duplicate. The move turns the invariance principle against Chalmers' conclusion rather than denying it outright—a duplicate that reproduced the quantum-interface grain would, on the Map's view, reproduce the experience. Behavioural equivalence is real; fine-grained organizational equivalence is exactly what a classical duplicate lacks.
 
 These problems compound into a formidable case: the upload might be a perfect functional duplicate while entirely unconscious. Yet as the open possibilities section explores, some assumptions behind these arguments—particularly about temporal structure and quantum interface—may admit exceptions that weaken the case.
 
