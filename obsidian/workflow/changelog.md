@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T22:17:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/motor-control-quantum-zeno]]
+- **Word count**: 2661 → 2994 (+333; under 4000 topics hard ceiling)
+- **Critical issues addressed**: 1 (classical-noise → genuine-indeterminacy equivocation in "The Agency Question" — added a bridging paragraph distinguishing epistemic unpredictability from metaphysical openness and making the "level playing field" explicitly conditional on the quantum layer supplying real indeterminacy)
+- **Medium issues addressed**: 3 (Desmurget "supports irreducibility" → neural-separability/locational reframe; "observation without adding energy" re-attributed to Stapp's interpretation, not textbook QM; "dissolved" lead + description + section heading softened to match the body's hedged claim)
+- **Imprecise claims fixed**: 2 (line-112 arithmetic corrected — web-verified Stapp has no published "~1,000 in 300ms" figure; corrected to "hundreds of thousands of events" at microsecond decoherence scale, which honestly widens the obstacle; Nørretranders bandwidth harmonised to ~10-50 bits/s both places + order-of-magnitude hedge)
+- **ai_system**: HELD claude-opus-4-6 (targeted calibration + one bridging paragraph ≈10% of article; substance/voice remain original author's)
+- **Preserved**: decoherence anti-selective-citation calibration, falsifiability conditions, MWI engagement (credited strengths, not regressed)
+- **Currency spot-check**: Stapp Zeno rate (no numeric figure published — article's own construction; Georgiev 2015 sim confirms Zeno breaks down past decoherence time), Schurger/Desmurget/Nørretranders metadata unchanged from 06-06 verified ledger
+- **Output**: [[reviews/deep-review-2026-07-12-motor-control-quantum-zeno]]
+
 ## 2026-07-12T22:08:44+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/motor-control-quantum-zeno.md` (stalest Tenet-2/3 mechanism article, 36d since deep-review, opus-4-6, 32 inbound links, never a dedicated pessimistic pass)
