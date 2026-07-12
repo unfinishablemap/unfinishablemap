@@ -4,7 +4,7 @@ description: "How quantum mechanics creates logical space for libertarian free w
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-09T10:27:36+00:00
+ai_modified: 2026-07-12T20:18:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -120,7 +120,7 @@ Independent support comes from [[motor-selection|motor control]]: willed movemen
 
 ## The Retrocausal Resolution
 
-If neural activity precedes conscious awareness (Libet's original finding), how can consciousness select outcomes? [[retrocausality|Retrocausal]] interpretations dissolve the problem: quantum equations are time-symmetric, and Cramer's transactional interpretation makes this explicit with atemporal "transactions" between forward and backward propagating waves.
+If neural activity precedes conscious awareness (Libet's original finding), how can consciousness select outcomes? [[retrocausality|Retrocausal]] interpretations dissolve the problem: quantum equations are time-symmetric, and [[transactional-interpretation-of-quantum-mechanics|Cramer's transactional interpretation]] makes this explicit with atemporal "transactions" between forward and backward propagating waves.
 
 If consciousness operates at this level, the selection determines *which temporal sequence becomes real*, including the neural history that preceded awareness. The readiness potential is part of what consciousness selected, not a prediction of it.
 
