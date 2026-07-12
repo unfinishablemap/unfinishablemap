@@ -4,8 +4,8 @@ description: "Naive realism, the strongest non-dualist rival in perception, hold
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-06-16T02:27:47+00:00
-last_deep_review: 2026-06-16T02:27:47+00:00
+ai_modified: 2026-07-12T18:30:32+00:00
+last_deep_review: 2026-07-12T18:30:32+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -64,7 +64,7 @@ The signature liability of relationalism is the **problem of perception**: the a
 
 The argument from illusion runs: a white wall under yellow light looks yellow; the wall is not yellow; so the immediate object of awareness—the thing that *is* yellow—cannot be the wall. The premise doing the work is the "Phenomenal Principle": if something looks F, then something present to awareness actually *is* F.
 
-Brewer's reply denies the principle by giving "looks" an objective reading. An object *thinly looks* F, on his account, when it has the appropriate **visually relevant similarities** to paradigm examples of F, from the perceiver's viewpoint and in the circumstances of perception—"similarities in such things as the way in which light is reflected and transmitted from the objects in question and the way in which stimuli are handled by the visual system" (Brewer 2011). The white wall under yellow light genuinely has visually relevant similarities to paradigm yellow things under standard light. So it "looks yellow" without any inner yellow item existing anywhere. Illusion becomes a fact about the object-in-its-conditions, not evidence for a mental intermediary.
+Brewer's reply denies the principle by giving "looks" an objective reading. An object *thinly looks* F, on his account, when it has the appropriate **visually relevant similarities** to paradigm examples of F, from the perceiver's viewpoint and in the circumstances of perception—similarities in such things as the way light is reflected from the objects in question and the physical processes underlying vision that handle the resulting stimuli (Brewer 2011). The white wall under yellow light genuinely has visually relevant similarities to paradigm yellow things under standard light. So it "looks yellow" without any inner yellow item existing anywhere. Illusion becomes a fact about the object-in-its-conditions, not evidence for a mental intermediary.
 
 Ian Phillips extends this to the charge that naive realism is "hopelessly out of touch with vision science" (Phillips 2016). His abstract grants the complaint its due and offers a "partial reply," arguing that "careful reflection on a simple, empirically grounded model of illusion reveals heterodox ways of thinking about familiar illusions which are quite congenial to the naïve realist" (Phillips 2016). On the Müller-Lyer—two equal lines that look unequal because of their arrowhead fins—the relationalist reading treats the figure as bearing visually relevant similarities to genuinely unequal configurations, similarities that capture attention in context, rather than as an inner misrepresentation of length. This is the relationalist who most directly answers the vision-science objection, and so the version a serious critique must engage.
 
