@@ -4,7 +4,7 @@ description: "Reasoning is normative — it involves rules about what one ought 
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-06-20T23:13:05+00:00
+ai_modified: 2026-07-12T21:44:00+00:00
 draft: false
 topics:
   - "[[argument-from-reason]]"
@@ -70,7 +70,7 @@ The word "therefore" expresses a normative relation: given (1) and (2), you *oug
 
 **Content-sensitivity.** The inference depends on what the premises *mean*, not on their physical vehicle. "All humans are mortal" encoded in English neurons, Mandarin neurons, or silicon registers bears the same logical relations. Physical causation is sensitive to physical structure; logical validity is sensitive to semantic content. This is why [[consciousness-and-the-authority-of-formal-systems|formal systems]] can be implemented on any physical substrate — their authority derives from semantic relations, not from the hardware that executes them. The content-sensitivity of reasoning is thus a specific instance of the more general problem of how meaning gets into the physical world at all.
 
-Wilfrid Sellars captured this distinction by separating the "space of reasons" from the "space of causes." To characterise a mental state as knowledge, Sellars argued, is not to give an empirical description of it but to place it "in the logical space of reasons, of justifying and being able to justify what one says." The normative vocabulary of reasons, justification, and warrant operates in a different register from the causal vocabulary of forces, fields, and neural firings.
+[[sellars-manifest-and-scientific-images|Wilfrid Sellars]] captured this distinction by separating the "space of reasons" from the "space of causes." To characterise a mental state as knowledge, Sellars argued, is not to give an empirical description of it but to place it "in the logical space of reasons, of justifying and being able to justify what one says." The normative vocabulary of reasons, justification, and warrant operates in a different register from the causal vocabulary of forces, fields, and neural firings.
 
 ## Why the Map Holds Physical Processes Cannot Close the Gap
 

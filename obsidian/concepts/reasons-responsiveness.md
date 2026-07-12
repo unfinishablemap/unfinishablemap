@@ -4,7 +4,7 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-06-05T17:38:57+00:00
+ai_modified: 2026-07-12T21:44:00+00:00
 last_deep_review: 2026-06-05T17:38:57+00:00
 draft: false
 topics:
@@ -37,7 +37,7 @@ Reasons-responsiveness is the capacity to recognize normative relationships—th
 
 ## The Space of Reasons
 
-Wilfrid Sellars distinguished the "space of reasons" from the "space of causes." When we characterize a belief as knowledge, "we are placing it in the logical space of reasons, of justifying and being able to justify what one says." The space of reasons involves normative relationships: entailment, evidential support, justification. The space of causes involves efficient causation: one event producing another through physical mechanisms.
+[[sellars-manifest-and-scientific-images|Wilfrid Sellars]] distinguished the "space of reasons" from the "space of causes." When we characterize a belief as knowledge, "we are placing it in the logical space of reasons, of justifying and being able to justify what one says." The space of reasons involves normative relationships: entailment, evidential support, justification. The space of causes involves efficient causation: one event producing another through physical mechanisms.
 
 Reasons-responsiveness means operating in the space of reasons—being sensitive to what *follows from* what, to what *counts as* good evidence, to what conclusions are *warranted*. A thermostat is causally responsive to temperature but not reasons-responsive to it. A reasoner tracking why global warming follows from greenhouse gas emissions operates in a different space from the causal chain of neurons producing that tracking.
 

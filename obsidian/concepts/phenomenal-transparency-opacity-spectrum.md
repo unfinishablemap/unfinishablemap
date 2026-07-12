@@ -4,7 +4,7 @@ description: "Experience normally conceals itself as representation (transparenc
 created: 2026-02-09
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-06-06T15:33:18+00:00
+ai_modified: 2026-07-12T21:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ Imagination provides another case. Deliberately imagining a red triangle, you ex
 
 Phenomenal transparency explains why naive realism is the default human stance. If representations are transparent, experience presents itself as unmediated contact with reality. The philosophical conclusion that perception is mediated — by sensory organs, neural processing, cognitive frameworks — must be reached by argument, because it is invisible to experience.
 
-Wilfrid Sellars identified this problem in 1956 as the "Myth of the Given": the assumption that some knowledge arrives unmediated by concepts or inference. Sellars argued all perception is conceptually mediated. But phenomenal transparency explains *why* the myth persists — the mediation is experientially invisible. Sellars was right that perception is mediated; Metzinger explains why it doesn't feel that way.
+[[sellars-manifest-and-scientific-images|Wilfrid Sellars]] identified this problem in 1956 as the "Myth of the Given": the assumption that some knowledge arrives unmediated by concepts or inference. Sellars argued all perception is conceptually mediated. But phenomenal transparency explains *why* the myth persists — the mediation is experientially invisible. Sellars was right that perception is mediated; Metzinger explains why it doesn't feel that way.
 
 Kant's phenomena/noumena distinction occupies related territory — cognitive apparatus shapes all possible experience — but concerned the *structure* of cognition. Phenomenal transparency goes further: it concerns why we cannot even detect the structuring. The filter is invisible as a filter.
 
