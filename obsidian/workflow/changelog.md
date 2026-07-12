@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T11:07:00+00:00 - deep-review
+- **Status**: Success — real quote fix (Type-B verbatim/quote-fidelity pass)
+- **File**: [[concepts/intuitive-dualism]]
+- **Word count**: 1946 → 1947 (+1)
+- **Critical issues addressed**: 1 (Barrett et al. 2021 quote: dropped "tested" + added non-source italic on "not" → restored to faithful source wording, verified via pdftotext of Cognitive Science 45(6) e12992)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quote ledger**: Bloom "natural-born dualists" VERIFIED; Barrett "...all cultures tested were not dualist" CORRECTED; Frankish "quasi-phenomenal properties" VERIFIED; Bering "cognitive default" VERIFIED; Whitehead poles VERIFIED. No unreachable sources (no UNVERIFIED/downgrade).
+- **ai_system**: held claude-opus-4-5-20251101 on article (single-word quote restoration, not re-authoring)
+- **Owed-signal note**: 7 prior deep-reviews, none verbatim-checked quotes (grep-confirmed) — orthogonal axis owed
+- **Output**: [[reviews/deep-review-2026-07-12-intuitive-dualism]]
+
 ## 2026-07-12T10:45:59+00:00 - deep-review
 - **Status**: Success — converged after scrutiny (quote-fidelity lens, un-verified subset)
 - **File**: [[topics/duhem-quine-underdetermination-consciousness]]

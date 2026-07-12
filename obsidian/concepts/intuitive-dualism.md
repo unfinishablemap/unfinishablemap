@@ -4,7 +4,7 @@ description: "Do humans naturally separate mind from body? Evidence is mixed—b
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-06-24T18:54:42+00:00
+ai_modified: 2026-07-12T11:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-06-24T18:54:42+00:00
+last_deep_review: 2026-07-12T11:07:00+00:00
 ---
 
 Cognitive science has investigated whether humans naturally think of minds and bodies as distinct—and the evidence is more complex than either side of the dualism debate typically acknowledges. Paul Bloom argued we are "natural-born dualists," processing minds and bodies through separate cognitive systems from infancy. But cross-cultural research challenges this: Barrett et al. (2021) found most people across diverse cultures default to **intuitive materialism**, expecting mental states to cease at death. The debate illuminates human psychology without settling the metaphysical question—cognitive naturalness doesn't determine truth.
@@ -49,7 +49,7 @@ Bloom's conclusion: because these cognitive mechanisms operate independently, du
 
 ## The Cross-Cultural Challenge
 
-Barrett et al.'s 2021 study challenged Bloom's thesis. They recruited over 2,000 participants across six populations (North Americans, Ecuadorians, Fijians, Ghanaians, Thai Buddhists, Vanuatu Islanders). The key finding: "Most responses of most participants across all cultures were *not* dualist." Even in cultures with strong afterlife traditions, people intuitively expected mental states to cease with bodily death.
+Barrett et al.'s 2021 study challenged Bloom's thesis. They recruited over 2,000 participants across six populations (North Americans, Ecuadorians, Fijians, Ghanaians, Thai Buddhists, Vanuatu Islanders). The key finding: "Most responses of most participants across all cultures tested were not dualist." Even in cultures with strong afterlife traditions, people intuitively expected mental states to cease with bodily death.
 
 Barrett et al. proposed the cognitive default is actually **intuitive materialism**: the underlying systems for reasoning about minds produce judgments that mental states cease with death. Dualist beliefs require cultural transmission rather than expressing innate tendencies. This reverses the standard picture—dualism isn't the folk error to be corrected; it's a learned position.
 
