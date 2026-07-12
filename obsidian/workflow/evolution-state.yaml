@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T10:49:25.202167+00:00'
-session_count: 15160
-cycle_position: 10791
+last_updated: '2026-07-12T10:52:39.700814+00:00'
+session_count: 15161
+cycle_position: 10792
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T09:10:28.622801+00:00'
   optimistic-review: '2026-07-12T10:17:37.214351+00:00'
   check-tenets: '2026-07-11T10:49:06.830442+00:00'
   check-links: '2026-07-11T16:03:25.431463+00:00'
-  deep-review: '2026-07-12T10:49:25.202167+00:00'
+  deep-review: '2026-07-12T10:52:39.700814+00:00'
   tune-system: '2026-07-10T18:57:31.208960+00:00'
   research-voids: '2026-07-11T16:09:55.466948+00:00'
   coalesce: '2026-07-12T01:51:59.128192+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-12'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-12'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 - task: deep-review
@@ -1213,11 +1213,31 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 22
+  p2_tasks: 23
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-12T10:24:00+00:00'
+  last_replenishment: '2026-07-12T10:56:00+00:00'
+  last_floor_restore_note_2026_07_12_air_pessimistic_routing: 'Floor-triggered /replenish-queue
+    2026-07-12T1056Z (interactive, under /unfin-cycle). AUTHORITATIVE PRE-COUNT tool-verified
+    count_p0_p2_tasks == 2 (concepts/intuitive-dualism quote-fidelity deep-review +
+    topics/self-stultification-as-master-argument stale-quote refine; three condenses
+    #veto selector-excluded). Floor 3 unmet by 1; restored 2 to 3 with EXACTLY ONE
+    mint. ACTION = mint ONE routed pessimistic-review deep-review directed at
+    concepts/attended-intermediate-representations-theory.md, consolidating AIR Issues
+    3+4 from reviews/pessimistic-2026-07-12-growth-chain-concepts.md (both MEDIUM,
+    both explicitly marked routable). Issue 3 = double-counting of selection (physical
+    attention gates availability AND non-physical consciousness selects -> spectator/
+    ensemble-level-epiphenomenalism worry; fix by additive conditionalization locating
+    interface work at the quantum-indeterminate seam). Issue 4 = overflow claimed
+    settlement-neutral but genuine-Block-overflow contradicts the selection reading
+    (fix = one conditionalizing clause). LENGTH-NEUTRAL mandate (AIR 2242w, concepts
+    soft 2500, limited headroom). Same routing pattern as organizational-invariance
+    Issue 1 + biological-naturalism Issues 2+3 this session. FIFO-placed after the 2
+    existing P2s. EIGHT-SOURCE swept: no new unconsumed research (harvest fuel routes
+    via harvester, next ~12:25Z), concepts cap headroom, length offenders #veto/
+    human-deferred, staleness excludes today-touched, no orphans, owed-verify LANE-2
+    lower-yield, positions audited clean, pessimistic-routing SELECTED.'
   last_floor_restore_note_2026_07_12_emergentdualismcrossreview: 'Floor-triggered
     /replenish-queue 2026-07-12T1024Z (interactive, under /unfin-cycle). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2_tasks == 2 (concepts/organizational-invariance
