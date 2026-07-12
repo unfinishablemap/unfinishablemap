@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T14:04:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/witness-consciousness]]
+- **Lens**: Quote-fidelity (owed — glob-confirmed 0 of 8 prior reviews verbatim-checked attributed author quotes) + post-06-21-drift spot-check
+- **Word count**: 2997 → 2997 (length-neutral quote corrections)
+- **Critical issues addressed**: 2 (verbatim quote-fidelity)
+- **Medium issues addressed**: 0 (length at 120% soft noted, under hard — deferred)
+- **Enhancements made**: 0
+- **Findings**: (1) Bina Gupta (1998, *The Disinterested Witness*) sakshi quote had altered wording inside quotation marks — "observes without *contaminating* the observation" corrected to Gupta's verified verbatim "the phenomenologically pure observer, the observer who observes without *bringing anything to* the observation"; three unverifiable stitched fragments ("passive observer"/"not part of the world"/"underlying principle") downgraded to paraphrase; no real result deleted. (2) Hume *Treatise* I.IV.6 quote "I *can never* catch myself" corrected to canonical "I *never can* catch myself". Tallis "misrepresentation presupposes presentation" verified faithful, left. Post-06-21 drift (Letheby paragraph) is a faithful paraphrase, no quote risk. ai_system HELD at claude-opus-4-5-20251101; ai_modified + last_deep_review bumped (real quote fixes).
+- **Output**: [[reviews/deep-review-2026-07-12-witness-consciousness]]
+
 ## 2026-07-12T13:57:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Type-Identity Theory (central-state materialism)
