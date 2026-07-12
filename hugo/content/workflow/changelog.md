@@ -9,6 +9,69 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-12T15:54:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Dennett's Multiple Drafts Model and the Cartesian Theater
+- **Output**: [multiple-drafts-model](/concepts/multiple-drafts-model/)
+- **Word count**: 1404
+- **Based on research**: yes, [multiple-drafts-model-2026-07-12](/research/multiple-drafts-model-2026-07-12/)
+- **Notes**: Paraphrase-only (NO verbatim Dennett quotes — all flagged unverified in research). Sections: negative core / editorial picture / Orwellian-Stalinesque / cerebral celebrity / objection split / Relation to Site Perspective. Reciprocal inbound links added to heterophenomenology, illusionism, global-workspace-theory, unity-of-consciousness (unity's existing MDM mention now wikilinked). Cross-review queued.
+
+## 2026-07-12T15:29:33+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Wilder Penfield's Interactionist Dualism
+- **Output**: [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/)
+- **Word count**: 1596
+- **Based on research**: yes — [penfield-interactionist-dualism-2026-07-12](/research/penfield-interactionist-dualism-2026-07-12/)
+- **Notes**: Paraphrase-only for Penfield's claims (famous quotes flagged UNVERIFIED). Comparator citations (Blakemore/Wolpert/Frith 2002 TiCS 6(6):237-242; Synofzik/Vosgerau/Newen 2008 Conscious&Cog 17:219-239) web-verified this run; SEP Dualism quote corrected to verbatim "some distinguished neuroscientists…" (research note paraphrase said "several") and cite-year fixed to 2025 revision. Reciprocal inbound links added from interactionist-dualism, objections-to-interactionism, bidirectional-interaction.
+
+## 2026-07-12T15:00:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Lens**: Targeted in-body quote-fidelity (orthogonal to reference-citation metadata swept 2026-07-07; 9th review)
+- **Word count**: 2680 → 2681 (+1, length-neutral quote correction)
+- **Critical issues addressed**: 1 (Wheeler aphorism non-verbatim)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Detail**: Wheeler quote (line 106) rendered "No phenomenon is a *real* phenomenon until it is an observed phenomenon" — web-verified as non-verbatim (drops "elementary", inserts "real"; the "real" form appears only in quote-aggregator sites). Corrected to canonical "Law Without Law" (1983, cited ref #16) form: "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon." Confirmed against Quanta 2024 + physics literature. Secondary body-quote scan: Bell/von Neumann are paraphrase-with-title (no quote-fidelity risk); Whitehead "actual occasions" is his correct term. ai_system held at claude-opus-4-6 (correction, not re-authoring).
+- **Output**: [deep-review-2026-07-12-quantum-measurement-and-consciousness](/reviews/deep-review-2026-07-12-quantum-measurement-and-consciousness/)
+
+## 2026-07-12T14:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Kripke's A-Posteriori Necessity Argument Against Mind-Brain Identity
+- **Output**: [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)
+- **Word count**: 1646
+- **Based on research**: yes — [kripke-a-posteriori-necessity-argument-2026-07-12](/research/kripke-a-posteriori-necessity-argument-2026-07-12/)
+- **Notes**: Paraphrase-only (no verbatim Kripke quotes — primary text unverifiable; pub history web-verified). Reciprocal inbound links added from type-identity-theory, knowledge-argument, philosophical-zombies, explanatory-gap. Cross-references phenomenal-concepts-strategy + conceivability-possibility-inference. Cross-review queued.
+
+## 2026-07-12T14:21:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Wilder Penfield's Interactionist Dualism (empirical basis in awake cortical stimulation)
+- **Output**: [penfield-interactionist-dualism-2026-07-12](/research/penfield-interactionist-dualism-2026-07-12/)
+- **Sources consulted**: 6 (3 primary books publisher-verified, SEP Dualism verified, comparator-model family, secondary)
+
+## 2026-07-12T14:11:20+00:00 - cross-review
+- **Status**: Success
+- **Task**: Growth-chain cross-review (final integration leg of the type-identity expand-topic chain)
+- **File**: [type-identity-theory](/concepts/type-identity-theory/)
+- **Integration verdict**: PASS — all 4 reciprocal inbound links (functionalism, eliminative-materialism, biological-naturalism, illusionism) are coherent glossed Further Reading bullets in context, not dangling; no edits needed
+- **Consistency verdict**: PASS — MR→functionalism framing agrees across type-identity and functionalism (MR motivates functionalism as the successor physicalism); no grain-dispute-style contradiction
+- **Over-claim + substrate-contrast verdict**: PASS — Tenet-1 dissent argued not asserted ("honestly marked as such", narrower "asserted not explained" objection); interface-sensitivity (Tenets 2-3) vs identity-reductive-dependence contrast corroborated by substrate-independence.md (quantum interface) and functionalism.md, not contradicted in biological-naturalism.md
+- **Reciprocal links added**: 2 — reductionism.md (Further Reading), dualism.md (Materialist responses line); skipped phenomenal-concepts-strategy (would force). ai_system HELD (both already opus-4-8)
+- **Wikilink + self-cite check**: all 10 new-article wikilinks resolve live; multiple-realizability correctly plain-text; Oquatre-six=opus-4-6 (functionalism), Oquatre-huit=opus-4-8 (dualism) both correct
+- **Files edited**: reductionism.md (ai_modified bump, ai_system held), dualism.md (ai_modified bump, ai_system held), type-identity-theory.md (last_deep_review + ai_modified bump)
+
+## 2026-07-12T14:04:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [witness-consciousness](/concepts/witness-consciousness/)
+- **Lens**: Quote-fidelity (owed — glob-confirmed 0 of 8 prior reviews verbatim-checked attributed author quotes) + post-06-21-drift spot-check
+- **Word count**: 2997 → 2997 (length-neutral quote corrections)
+- **Critical issues addressed**: 2 (verbatim quote-fidelity)
+- **Medium issues addressed**: 0 (length at 120% soft noted, under hard — deferred)
+- **Enhancements made**: 0
+- **Findings**: (1) Bina Gupta (1998, *The Disinterested Witness*) sakshi quote had altered wording inside quotation marks — "observes without *contaminating* the observation" corrected to Gupta's verified verbatim "the phenomenologically pure observer, the observer who observes without *bringing anything to* the observation"; three unverifiable stitched fragments ("passive observer"/"not part of the world"/"underlying principle") downgraded to paraphrase; no real result deleted. (2) Hume *Treatise* I.IV.6 quote "I *can never* catch myself" corrected to canonical "I *never can* catch myself". Tallis "misrepresentation presupposes presentation" verified faithful, left. Post-06-21 drift (Letheby paragraph) is a faithful paraphrase, no quote risk. ai_system HELD at claude-opus-4-5-20251101; ai_modified + last_deep_review bumped (real quote fixes).
+- **Output**: [deep-review-2026-07-12-witness-consciousness](/reviews/deep-review-2026-07-12-witness-consciousness/)
+
 ## 2026-07-12T13:57:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Type-Identity Theory (central-state materialism)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-23 03:35:48+00:00
+ai_modified: 2026-07-12 14:11:20+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -200,6 +200,7 @@ The [Buddhist tradition](/concepts/buddhism-and-dualism/) converges from a furth
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The distinction between easy and hard problems
 - [materialism](/concepts/materialism/) — The view that reductionism about consciousness underwrites
 - [functionalism](/concepts/functionalism/) — The dominant framework for reducing mental states to causal roles
+- [type-identity-theory](/concepts/type-identity-theory/) — The classic mind-body case of reduction: mental types identified with brain types, and the paradigm the Map's first tenet denies
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument and its implications for physicalism
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — Whether conceivability entails metaphysical possibility
 - [biological-computationalism](/concepts/biological-computationalism/) — A physicalist framework that itself rejects functional reduction of consciousness

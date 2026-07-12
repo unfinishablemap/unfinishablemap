@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-26 01:12:56+00:00
+ai_modified: 2026-07-12 14:11:20+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -71,7 +71,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. As a position within [philosophy of mind](/concepts/philosophy-of-mind/), dualism is the first of The Unfinishable Map's [five foundational commitments](/tenets/#dualism). Multiple independent arguments support the position: the [explanatory-gap](/concepts/explanatory-gap/) between physical description and subjective experience, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) (Mary's Room), Kripke's modal arguments, Nagel's subjectivity argument, the [unity of consciousness](/concepts/binding-problem/), [intentionality](/concepts/intentionality/), and the [argument-from-reason](/topics/argument-from-reason/). Their convergence from different starting points strengthens the case beyond what any single argument achieves.
+Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. As a position within [philosophy of mind](/concepts/philosophy-of-mind/), dualism is the first of The Unfinishable Map's [five foundational commitments](/tenets/#dualism). Multiple independent arguments support the position: the [explanatory-gap](/concepts/explanatory-gap/) between physical description and subjective experience, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) (Mary's Room), [Kripke's modal argument](/concepts/kripke-a-posteriori-necessity-argument/), Nagel's subjectivity argument, the [unity of consciousness](/concepts/binding-problem/), [intentionality](/concepts/intentionality/), and the [argument-from-reason](/topics/argument-from-reason/). Their convergence from different starting points strengthens the case beyond what any single argument achieves.
 
 The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism on the consciousness question, and the arguments supporting it continue to develop alongside renewed attention to the limits of physicalism.
 
@@ -209,7 +209,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 
 **Core arguments:** [explanatory-gap](/concepts/explanatory-gap/), [knowledge-argument](/concepts/knowledge-argument/), [philosophical-zombies](/concepts/philosophical-zombies/), [inverted-qualia](/concepts/inverted-qualia/), [intentionality](/concepts/intentionality/), [binding-problem](/concepts/binding-problem/), [argument-from-reason](/topics/argument-from-reason/)
 
-**Materialist responses:** [materialism](/concepts/materialism/), [illusionism](/concepts/illusionism/), [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), [heterophenomenology](/concepts/heterophenomenology/), [mysterianism](/concepts/mysterianism/)
+**Materialist responses:** [materialism](/concepts/materialism/), [type-identity-theory](/concepts/type-identity-theory/), [illusionism](/concepts/illusionism/), [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), [heterophenomenology](/concepts/heterophenomenology/), [mysterianism](/concepts/mysterianism/)
 
 **The Map's framework:** [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/), [interactionist-dualism](/concepts/interactionist-dualism/), [the-reverse-inference](/topics/the-reverse-inference/), [quantum-consciousness](/concepts/quantum-consciousness/), [objections-to-interactionism](/concepts/objections-to-interactionism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [epistemology](/concepts/epistemology/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), [parsimony-epistemology](/concepts/parsimony-epistemology/), [causal-closure](/concepts/causal-closure/), [mental causation](/concepts/mental-causation-and-downward-causation/), [free-will](/topics/free-will/)
 

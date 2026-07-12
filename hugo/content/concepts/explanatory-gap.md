@@ -206,6 +206,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: the gap dramatized through a thought experiment
 - [qualia](/concepts/qualia/) — The experiential properties the gap concerns
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that converts the gap into an argument against physicalism
+- [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/) — The modal route to the same anti-reductive conclusion
 - [illusionism](/concepts/illusionism/) — The strongest physicalist response to the gap
 - [first-order-representationalism](/concepts/first-order-representationalism/) — The reductive attempt to dissolve the gap by identifying feel with content; the Map argues it relocates rather than closes the gap
 - [mysterianism](/concepts/mysterianism/) — The cognitive closure alternative: the gap as human limitation

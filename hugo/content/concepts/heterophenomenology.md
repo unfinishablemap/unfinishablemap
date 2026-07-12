@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-05 10:52:21+00:00
+ai_modified: 2026-07-12 15:54:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -161,6 +161,7 @@ The Map endorses methodological pluralism: consciousness requires multiple inves
 - [phenomenology](/concepts/phenomenology/)—Classical first-person investigation methods that heterophenomenology rejects
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)—Varela's mutual constraint framework integrating first- and third-person perspectives
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)—The tension between objective science and subjective experience
+- [multiple-drafts-model](/concepts/multiple-drafts-model/)—Dennett's positive model of consciousness that heterophenomenology's report-data are meant to constrain
 - [illusionism](/concepts/illusionism/)—The metaphysical view often paired with heterophenomenology
 - [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)—Physics is structurally complete yet ontologically partial, grounding the limits of third-person methods
 - [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — Trial-locked autonomic measurement heterophenomenology can ingest on neutral terms while the channel-level verbal/bodily dissociation forces attention to disagreement between the subject's heterophenomenological world and their measured bodily behaviour

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-17 21:38:26+00:00
+ai_modified: 2026-07-12 15:00:19+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: 'The measurement problem and the hard problem share an identical lo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 03:37:08+00:00
+last_deep_review: 2026-07-12 15:00:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +107,7 @@ Whether the wave function is real determines what collapse means. If ontic, coll
 
 ### The Agential Dimension
 
-If measurement requires an observer, and the observer's presence changes outcomes, then agency may be woven into physical law. Wheeler captured this: "No phenomenon is a *real* phenomenon until it is an observed phenomenon." [Process philosophy](/concepts/process-philosophy/) provides a metaphysical framework—Whitehead's "actual occasions" are moments where indeterminate possibility becomes determinate fact, structurally parallel to quantum measurement events.
+If measurement requires an observer, and the observer's presence changes outcomes, then agency may be woven into physical law. Wheeler captured this: "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon." [Process philosophy](/concepts/process-philosophy/) provides a metaphysical framework—Whitehead's "actual occasions" are moments where indeterminate possibility becomes determinate fact, structurally parallel to quantum measurement events.
 
 ## The Causal Closure Loophole
 

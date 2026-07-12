@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-11 13:35:00+00:00
+ai_modified: 2026-07-12 14:04:40+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Awareness that observes mental contents without identifying with th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 00:00:00+00:00
+last_deep_review: 2026-07-12 14:04:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ The witness concept suggests consciousness is not identical to its contents. If 
 
 ### Advaita Vedanta: Sakshi
 
-In Advaita Vedanta, the *sakshi* (witness-self) is pure awareness that observes without acting—self-luminous (*svayam-prakasha*), unchanging (*kutastha*), and never an object of observation. Shankara identifies the sakshi with Brahman—pure awareness beyond all mental modification. Bina Gupta characterises the sakshi as "a passive observer... the pure observer who observes without contaminating the observation," finding parallels with Kant's transcendental ego and Husserl's phenomenological residuum, yet noting the Advaita sakshi is "not part of the world" but its "underlying principle." The self-luminous, never-objectifiable sakshi is what carries the Advaita reading of dreamless sleep: it is the witness present throughout the blank that lets "I knew nothing" report a *known* absence rather than a mere gap. That move is the load-bearing premise of the [essential-consciousness thesis](/topics/essential-vs-contingent-consciousness/)—that the non-physical aspect cannot exist unconscious—against the Nyaya view that consciousness is an adventitious quality the self can lack. Whether that "known absence" can actually serve as evidence, given that the reporting apparatus is offline in the very state at issue, is examined in [what could count as evidence for contentless awareness](/topics/contentless-awareness-evidence/).
+In Advaita Vedanta, the *sakshi* (witness-self) is pure awareness that observes without acting—self-luminous (*svayam-prakasha*), unchanging (*kutastha*), and never an object of observation. Shankara identifies the sakshi with Brahman—pure awareness beyond all mental modification. Bina Gupta characterises the sakshi as a disinterested witness—"the phenomenologically pure observer, the observer who observes without bringing anything to the observation"—comparing it with kindred notions in Kant and Husserl, yet distinguishing the Advaita witness as the ground of experience rather than one more object within the world. The self-luminous, never-objectifiable sakshi is what carries the Advaita reading of dreamless sleep: it is the witness present throughout the blank that lets "I knew nothing" report a *known* absence rather than a mere gap. That move is the load-bearing premise of the [essential-consciousness thesis](/topics/essential-vs-contingent-consciousness/)—that the non-physical aspect cannot exist unconscious—against the Nyaya view that consciousness is an adventitious quality the self can lack. Whether that "known absence" can actually serve as evidence, given that the reporting apparatus is offline in the very state at issue, is examined in [what could count as evidence for contentless awareness](/topics/contentless-awareness-evidence/).
 
 ### Buddhist Perspectives
 
@@ -74,7 +74,7 @@ Advanced contemplatives in multiple traditions report something more radical: no
 
 [The Unobservable Self](/voids/self-opacity/) addresses this directly: the observing self cannot observe itself observing. Direct attention inward—attempt to observe your own observing. You become aware of awareness, but now there are two layers: awareness observed and awareness observing it. Each attempt creates a new layer; the regression has no endpoint. The [phenomenology of recursive self-awareness](/topics/phenomenology-of-recursive-self-awareness/) maps this layered structure in detail—Level 0 perception, Level 1 thought, Level 2 recursive awareness—and explores why the tower doesn't extend indefinitely with equal clarity at each level.
 
-David Hume: "I can never catch myself at any time without a perception." The catcher remains uncaught. This structural elusiveness holds regardless of theory—even granting [illusionism](/concepts/illusionism/), any system modeling its own modeling faces regress. The [witnessing-void](/voids/witnessing-void/) maps this structural impossibility as a void in its own right: witnessing *qua occurrent operation* cannot be objectified at the first order, not merely at high recursive depth.
+David Hume: "I never can catch myself at any time without a perception." The catcher remains uncaught. This structural elusiveness holds regardless of theory—even granting [illusionism](/concepts/illusionism/), any system modeling its own modeling faces regress. The [witnessing-void](/voids/witnessing-void/) maps this structural impossibility as a void in its own right: witnessing *qua occurrent operation* cannot be objectified at the first order, not merely at high recursive depth.
 
 This connects to why the [hard problem](/topics/hard-problem-of-consciousness/) is hard structurally, not contingently. The structure of consciousness precludes the observation that would generate a complete theory. The contemplative instruction to "look at the looker" (*rigpa* in Dzogchen) is not meant to find something but to *exhaust* the search—to rest in the looking without needing to locate what looks.
 

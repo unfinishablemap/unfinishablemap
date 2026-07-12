@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-06-02 08:52:17+00:00
+ai_modified: 2026-07-12 15:58:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -111,7 +111,7 @@ Three classes of evidence would distinguish independent triangulation from share
 
 The fourth case is the most informative. Cārvāka/Lokāyata is the one genuinely indigenous, pre-contact physicalist tradition: it holds that consciousness emerges when the four elements combine into a body. But it is a *broad* emergentism that never narrows toward type-specificity, and the type-specificity pressure in its debate came from its Nyāya opponents' "absent in parts" objection—drawn by dualists against it, not from its own internal logic. This inverts the concession-convergence dynamic: an independent physicalism that met absent-qualia-style pressure and did not ratchet inward. The reading is source-limited—Cārvāka survives only as fragments reconstructed largely from hostile sources, so the absence of a narrowing move may reflect the gappy record as much as the doctrine—and it is best read as a suggestive nuance, not a firm disconfirmation. The discriminator therefore remains a *gap*, not a failed test; looking harder confirmed the absence without filling it, and turned up one fragmentary contrary data point rather than any convergence.
 
-**Theories isolated from the framing.** Theorists who explicitly disavow the hard-problem framing yet still narrow are strong evidence the structure is forced. Dennett's heterophenomenology rejects the hard problem yet is forced to specify why some functional patterns generate phenomenal *reports*—"fame in the brain" mirrors GWT's architectural narrowing. Frankish's illusionism (2016) denies phenomenal character yet must narrow to specify why the *illusion* arises in some architectures and not others. Two cases is not full triangulation, but they are precisely the cases the discriminator selects for.
+**Theories isolated from the framing.** Theorists who explicitly disavow the hard-problem framing yet still narrow are strong evidence the structure is forced. Dennett's heterophenomenology rejects the hard problem yet is forced to specify why some functional patterns generate phenomenal *reports*—"[fame in the brain](/concepts/multiple-drafts-model/)" mirrors GWT's architectural narrowing. Frankish's illusionism (2016) denies phenomenal character yet must narrow to specify why the *illusion* arises in some architectures and not others. Two cases is not full triangulation, but they are precisely the cases the discriminator selects for.
 
 The aggregate verdict is *partial discharge with a salient gap*: partial on the first test, absent (now better-grounded) on the second, substantive on the third.
 

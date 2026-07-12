@@ -99,7 +99,7 @@ The Map's response targets premise 1. The [Minimal Quantum Interaction](/tenets/
 
 Several lines of argument suggest materialism cannot accommodate consciousness. Each functions as more than an objection: together they form [positive arguments for dualism](/concepts/dualism/) that converge on the same conclusion from independent directions. Precisely where materialism fails, [dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the largest single alternative to materialism.
 
-For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [dualism](/concepts/dualism/). For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [Against Materialism](/arguments/materialism-argument/).
+For a comprehensive treatment of these arguments, including [Kripke's modal argument](/concepts/kripke-a-posteriori-necessity-argument/), Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [dualism](/concepts/dualism/). For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [Against Materialism](/arguments/materialism-argument/).
 
 ### The Explanatory Gap
 

@@ -213,6 +213,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness can only select within its own brain
 - [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/) — Research notes for this article
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Five solution types across Western and non-Western philosophy
+- [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/) — Penfield's clinical case for interactionism, and how the comparator/efference-copy model absorbs his headline datum
 
 ## References
 

@@ -180,6 +180,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The main physicalist response and its problems
 - [Why PCS fails](/topics/phenomenal-concepts-as-materialist-response/) — Chalmers's Horn 1/Horn 2 dilemma and Fürst's reversal
 - [philosophical-zombies](/concepts/philosophical-zombies/) — A related conceivability argument for dualism
+- [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/) — The modal-semantic sibling: mind-brain identity, if true, would be necessary, yet seems contingent
 - [illusionism](/concepts/illusionism/) — The radical physicalist response denying phenomenal facts exist
 - [introspection](/concepts/introspection/) — How Mary recognizes she learned something new
 - [russellian-monism](/concepts/russellian-monism/) — The structure/intrinsic nature distinction underlying the argument

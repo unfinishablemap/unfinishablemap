@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-16 05:29:16+00:00
+ai_modified: 2026-07-12 15:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -154,7 +154,7 @@ Neither point is decisive. Physicalism can explain resilience through redundant 
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) like Daniel Dennett and Keith Frankish offer a radically different interpretation. Dennett's Multiple Drafts Model (1991) proposes consciousness was never unified in the first place — the brain runs parallel processing streams, and the sense of unity is a retrospective narrative. If Dennett is right, fragmentation cases reveal what was always the case: there is no unified experiencer to fragment.
+[Illusionists](/concepts/illusionism/) like Daniel Dennett and Keith Frankish offer a radically different interpretation. Dennett's [Multiple Drafts Model](/concepts/multiple-drafts-model/) (1991) proposes consciousness was never unified in the first place — the brain runs parallel processing streams, and the sense of unity is a retrospective narrative. If Dennett is right, fragmentation cases reveal what was always the case: there is no unified experiencer to fragment.
 
 The Map rejects this move. Dennett's position faces a reflexive problem: constructing a unifying narrative appears to presuppose a unified constructor. More fundamentally, dismissing phenomenal unity as illusion conflicts with the direct character of experience — the redness co-present with the shape co-present with the spatial location is given immediately, not narrated.
 

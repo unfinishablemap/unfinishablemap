@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-12 10:18:40+00:00
+ai_modified: 2026-07-12 15:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -193,6 +193,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 - [dream-consciousness](/topics/dream-consciousness/) — Dreaming without full workspace engagement
 - [metacognition](/concepts/metacognition/) — Self-reflective processes and workspace engagement
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The amplification hypothesis connecting workspace access to cognitive enhancement
+- [multiple-drafts-model](/concepts/multiple-drafts-model/) — Dennett's editorial model, whose "cerebral celebrity" gloss welcomes GWT as its neurally grounded successor
 - [global-workspace-theory-2026-01-14](/research/global-workspace-theory-2026-01-14/) — Detailed research notes
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-12 13:57:00+00:00
+ai_modified: 2026-07-12 15:54:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -181,6 +181,7 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionism converts the metaproblem into evidence for dualism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position illusionism structurally mirrors
 - [eliminative-materialism](/topics/eliminative-materialism/) — The broader eliminativist tradition; illusionism is its phenomenal-consciousness strand, alongside the Churchlands' eliminativism about propositional attitudes
+- [multiple-drafts-model](/concepts/multiple-drafts-model/) — Dennett's anti-homuncular architecture (the Cartesian Theater critique) that underpins the illusionist "user-illusion" of a unified stage
 - [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/) — The structural distinction the Map says illusionism must contest explicitly: introspection as referring (representational) vs constitutive (acquaintance-like)
 - [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's argument that naturalism cannot deliver semantic content; structurally parallel to the explanatory debt illusionism takes on for phenomenal character
 - [status-of-content](/concepts/status-of-content/) — Boghossian's self-refutation argument against content irrealism; transposes to phenomenal-state irrealism in the Strawson/Tallis line
