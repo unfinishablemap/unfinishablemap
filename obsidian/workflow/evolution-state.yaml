@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T15:57:33.913484+00:00'
-session_count: 15215
-cycle_position: 10821
+last_updated: '2026-07-12T16:01:09.618203+00:00'
+session_count: 15216
+cycle_position: 10822
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T13:45:49.409232+00:00'
   optimistic-review: '2026-07-12T14:38:41.995416+00:00'
   check-tenets: '2026-07-12T12:33:00.886236+00:00'
   check-links: '2026-07-12T12:23:26.740955+00:00'
-  deep-review: '2026-07-12T15:51:15.329277+00:00'
+  deep-review: '2026-07-12T16:01:09.618203+00:00'
   tune-system: '2026-07-12T12:37:47.832048+00:00'
   research-voids: '2026-07-12T12:25:44.719253+00:00'
   coalesce: '2026-07-12T15:25:29.696464+00:00'
@@ -105,10 +105,6 @@ recent_tasks:
   type: deep-review
   date: '2026-07-12'
   outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-07-12'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-12'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 agentic_social:
@@ -1252,7 +1252,36 @@ queue_status:
   p3_tasks: 17
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-12T15:44:00+00:00'
+  last_replenishment: '2026-07-12T16:05:00+00:00'
+  last_floor_restore_note_2026_07_12_adaptive_computational_depth_owed_web_verify: 'Floor-restoring
+    /replenish-queue 2026-07-12T1605Z (interactive, under /unfin-cycle). AUTHORITATIVE
+    PRE-COUNT tool-verified count_p0_p2 == 2 (concepts/parfit-reductionism owed-verify
+    deep-review + concepts/altered-states-of-consciousness owed-verify deep-review;
+    three condenses veto selector-excluded; P3 research/human-length + wall-clock literature-drift
+    do not restore the loop floor). Floor 3 unmet by 1; restored 2 to 3 with EXACTLY
+    ONE mint. SOURCE = owed_web_verify (Source 6, quote-fidelity axis). DIVERSIFIED
+    off the two queued owed-verify targets: both parfit (Lockwood) and altered-states
+    (Tart/Revonsuo) are the "attributed quote whose author is ABSENT from References"
+    pattern; a 3rd near-identical would stack. This target is a DIFFERENT axis -- the
+    quoted authors (Bostrom, Faizal et al.) ARE correctly in References, so risk is
+    paraphrase-dressed-as-verbatim fidelity + 2025-currency, not a missing citation.
+    (consciousness-physics-interface-formalism has the same absent-from-refs Atmanspacher
+    quote pattern as the two queued -- passed over for diversification.) Source 1 skipped
+    -- penfield/multiple-drafts already consumed into queued expands; markov-blankets
+    + non-interactionist-dualisms verified-threaded; content-externalism is P3 research-first.
+    Source 2 skipped -- Cramer/Bohm/Sellars are harvester-lane research-topic candidates,
+    no citation base. TARGET concepts/adaptive-computational-depth.md (opus-4-6, ai_mod
+    + ldr 2026-06-03, ~39d converged, not session-touched). DEMONSTRABLE LOCI: line
+    49 Bostrom (2003) two verbatim quoted phrases ("powerful computational shortcuts"
+    / "at a much higher level of abstraction", Phil Quarterly 53(211):243-255, refs
+    entry 2, no page locator); line 67 Faizal et al. (2025) two verbatim quoted phrases
+    ("no physically complete and consistent theory of everything can be derived from
+    computation alone" / "requires a non-algorithmic understanding", arXiv:2507.22950,
+    refs entry 6). Secondary: line 53 Irwin/Amaral/Chester 2020 "Principle of Efficient
+    Language". Minted a TARGETED deep-review: verbatim-verify each string at publisher
+    of record; three outcomes (verify+locator / dequote-if-paraphrase / soften-if-not-their-words);
+    no content-deletion on first-search-miss; HOLD ai_system claude-opus-4-6. FIFO-placed
+    after the two existing P2s. Other seven sources unchanged / exhausted.'
   last_floor_restore_note_2026_07_12_parfit_owed_web_verify: 'Floor-restoring /replenish-queue
     2026-07-12T1510Z (interactive, under /unfin-cycle). AUTHORITATIVE PRE-COUNT tool-verified
     count_p0_p2 == 2 (concepts/penfield-interactionist-dualism expand-topic + concepts/multiple-drafts-model
