@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-06-15T00:00:00+00:00
+last_deep_review: 2026-07-12T10:45:59+00:00
 ---
 
 The Duhem-Quine thesis holds that no scientific hypothesis is tested in isolation—every empirical test presupposes auxiliary assumptions, and when a prediction fails, logic alone cannot determine which assumption to revise. In consciousness science, this problem reaches an extreme form. Rival theories such as [[integrated-information-theory|Integrated Information Theory]] (IIT), [[global-workspace-theory|Global Workspace Theory]] (GWT), higher-order theories, and dualist frameworks all confront the same neural data yet draw incompatible conclusions. The 2025 COGITATE adversarial collaboration tested IIT against the Global Neuronal Workspace Theory (GNWT)—the specific, neurally-committed member of the broader GWT family—under pre-registered conditions and found that neither theory was decisively supported, with key predictions of both challenged by the data. The Unfinishable Map argues that while COGITATE illustrates the current state of the field, the underdetermination runs deeper than any single experiment's failure to discriminate. The philosophical arguments developed in the sections that follow—the layered theory-ladenness of consciousness data and the explanatory gap as an irresolvable auxiliary disagreement—suggest structural features of the consciousness problem that better experiments alone may be unlikely to dissolve.

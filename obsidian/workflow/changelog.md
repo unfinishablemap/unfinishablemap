@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T10:45:59+00:00 - deep-review
+- **Status**: Success — converged after scrutiny (quote-fidelity lens, un-verified subset)
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Word count**: 3891 → 3891 (no change; verification-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quote verdicts**: Anil Seth press quote (line 64) — VERIFIED verbatim vs Allen Institute/ScienceDaily 30 Apr 2025 release, attribution to Seth correct (genuine press comment, not consortium-misattribution/paraphrase-in-quotes); Negro "experimental eliminativism" (line 72) — VERIFIED as Negro's own term in niae012; COGITATE cite — VERIFIED "COGITATE Consortium", no Melloni misattribution. No other person-attributed direct quotes exist.
+- **Reasoning-mode**: engagement with phenomenal concepts strategy (Loar/Papineau/Balog) — Mode One, unchanged from prior review; no re-litigation.
+- **Frontmatter**: last_deep_review bumped to 2026-07-12; ai_modified held 2026-06-15 (no content change); ai_system held claude-opus-4-6 (no re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-12-duhem-quine-underdetermination-consciousness]]
+
 ## 2026-07-12T10:04:11+00:00 - positions-evolve (audit)
 - **Status**: Success — clean no-op
 - **Mode**: audit (report-and-update); ~33d since prior audit; 34 live positions across 8 domain files
