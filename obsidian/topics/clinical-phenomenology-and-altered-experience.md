@@ -4,7 +4,7 @@ description: "Clinical phenomenology uses psychiatric disruption as natural expe
 created: 2026-03-03
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-06-05T15:40:59+00:00
+ai_modified: 2026-07-12T18:03:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated: null
-last_deep_review: 2026-06-05T15:40:59+00:00
+last_deep_review: 2026-07-12T18:03:07+00:00
 coalesced_from:
   - "/topics/clinical-phenomenology-as-philosophical-evidence/"
   - "/topics/phenomenological-psychiatry-and-altered-experience/"
@@ -76,7 +76,7 @@ The most empirically developed programme in contemporary phenomenological psychi
 
 Two complementary processes characterise this disturbance:
 
-**Hyperreflexivity**: "An automatic popping-up or popping-out of phenomena and processes that would normally remain in the tacit background of awareness, [...] but that now come to be experienced in an objectified and alienated manner" (Sass & Parnas, 2003). Background features of experience become alien foreground objects—the mechanics of swallowing, the feel of your tongue, the process by which words form in your mind.
+**Hyperreflexivity**: "An automatic popping-up or popping-out of phenomena and processes that would normally remain in the tacit background of awareness, [...] but that now come to be experienced in an objectified and alienated manner" (Sass & Parnas, 2007). Background features of experience become alien foreground objects—the mechanics of swallowing, the feel of your tongue, the process by which words form in your mind.
 
 **Diminished self-affection**: "A weakened sense of existing as a vital and self-coinciding source of awareness and action" (Sass & Parnas, 2003). The normal sense that "I am the one having this experience" fades.
 
@@ -203,3 +203,4 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 12. Reinders, A. A. T. S., Willemsen, A. T. M., den Boer, J. A., Vos, H. P. J., Veltman, D. J., & Loewenstein, R. J. (2014). Opposite brain emotion-regulation patterns in identity states of dissociative identity disorder. *Psychiatry Research: Neuroimaging*, 223(3), 236–243.
 13. Vissia, E. M., Lawrence, A. J., Chalavi, S., Giesen, M. E., Draijer, N., Nijenhuis, E. R. S., Aleman, A., Veltman, D. J., & Reinders, A. A. T. S. (2022). Dissociative identity state-dependent working memory in dissociative identity disorder. *BJPsych Open*, 8(3), e82.
 14. Raballo, A., Henriksen, M. G., Poletti, M., & Parnas, J. (2025). Schizophrenia, Consciousness, and the Self — Twenty Years Later. *Schizophrenia Bulletin*, 51(5), 1187–1192.
+15. Sass, L. & Parnas, J. (2007). Explaining Schizophrenia: The Relevance of Phenomenology. In M. C. Chung, K. W. M. Fulford, & G. Graham (Eds.), *Reconceiving Schizophrenia* (pp. 63–96). Oxford University Press.
