@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-12T15:02:12.360875+00:00'
-session_count: 15206
-cycle_position: 10815
+last_updated: '2026-07-12T15:06:36.496520+00:00'
+session_count: 15207
+cycle_position: 10816
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-12T13:45:49.409232+00:00'
   optimistic-review: '2026-07-12T14:38:41.995416+00:00'
   check-tenets: '2026-07-12T12:33:00.886236+00:00'
   check-links: '2026-07-12T12:23:26.740955+00:00'
-  deep-review: '2026-07-12T15:02:12.360875+00:00'
+  deep-review: '2026-07-12T15:06:36.496520+00:00'
   tune-system: '2026-07-12T12:37:47.832048+00:00'
   research-voids: '2026-07-12T12:25:44.719253+00:00'
   coalesce: '2026-07-12T11:01:47.571830+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-12'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-12'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-12'
   outcome: success
 - task: deep-review
@@ -1240,11 +1240,30 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 28
+  p2_tasks: 29
   p3_tasks: 17
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-12T14:52:00+00:00'
+  loop_pickable_open: 4
+  last_replenishment: '2026-07-12T15:10:00+00:00'
+  last_floor_restore_note_2026_07_12_parfit_owed_web_verify: 'Floor-restoring /replenish-queue
+    2026-07-12T1510Z (interactive, under /unfin-cycle). AUTHORITATIVE PRE-COUNT tool-verified
+    count_p0_p2 == 2 (concepts/penfield-interactionist-dualism expand-topic + concepts/multiple-drafts-model
+    expand-topic; three condenses veto selector-excluded; P3 research/human-length +
+    wall-clock literature-drift do not restore the loop floor). Floor 3 unmet by 1;
+    restored 2 to 3 with EXACTLY ONE mint. SOURCE = owed_web_verify (Source 6 owed-verify
+    seam, the session highest-yield source). Source 1 skipped -- penfield already queued;
+    markov-blankets + non-interactionist-dualisms verified-threaded/redundant this session
+    (do NOT re-mint). Source 2 skipped -- freshly-named uncovered subjects (Cramer,
+    Bohm, Sellars) are harvester-lane research-topic candidates, no research note =
+    no citation base. TARGET concepts/parfit-reductionism.md (opus-4-5, 37d converged).
+    DEMONSTRABLE LOCUS -- line 67 verbatim Lockwood quote ("senseless to ask which,
+    of the many possible minds, are yours") with NO inline citation, NO Lockwood
+    References entry, inserted by an integrate-orphan pass (bf1c45336) and NEVER checked
+    by either dedicated deep review (2026-05-26 / 2026-06-05, both zero Lockwood mentions).
+    Minted a TARGETED deep-review: verbatim-verify against Lockwood 1989 Mind Brain
+    and the Quantum / 1996 BJPS 47(2):159-188; three outcomes (verify+cite / dequote-if-paraphrase
+    / soften-if-unsupported); HOLD ai_system; no content-deletion on first-search-miss.
+    FIFO-placed after the two existing P2s. Other seven sources unchanged / exhausted.'
   last_floor_restore_note_2026_07_12_mdm_unconsumed_research: 'Floor-restoring /replenish-queue
     2026-07-12T1452Z (interactive, under /unfin-cycle). AUTHORITATIVE PRE-COUNT tool-verified
     count_p0_p2 == 2 (apex/born-preserving-causal-efficacy routed-pessimistic deep-review
