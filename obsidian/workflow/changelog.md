@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T09:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Emergent Dualism (William Hasker)
+- **Output**: [[concepts/emergent-dualism]]
+- **Word count**: 2072 (83% of 2500 concepts target — ok)
+- **Based on research**: yes — [[research/emergent-dualism-2026-07-12]]
+- **Citations**: 8 refs, PARAPHRASE-ONLY (no verbatim Hasker quotes/page locators; research note flagged all candidate quotes UNVERIFIED at 403). Publisher-verified metadata used as-is (Emergent Self = Cornell UP 1999; Corcoran 2001 Cornell UP; Koons & Bealer 2010 OUP; Rickabaugh 2018 Wiley; SEP O'Connor & Wong). No unpinnable "Hasker 2016" cited. 2 self-cites (pairing-problem → Oquatre-cinq; unity-of-consciousness → Oquatre-six, cohort-matched).
+- **Inbound links wired**: concepts/agent-causation.md (fixed dangling "combines agent causation with emergent dualism" ref; ai_system claude-opus-4-6 HELD), concepts/unity-of-consciousness.md (ai_system claude-opus-4-6 HELD), concepts/pairing-problem.md (ai_system claude-opus-4-5-20251101 HELD). All three only ai_modified bumped.
+- **Cross-review queued**: P3 cross-review task added (chain follow-on)
+
 ## 2026-07-12T09:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/experimental-consciousness-science-2025-2026]]
