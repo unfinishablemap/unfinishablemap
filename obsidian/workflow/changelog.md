@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-12T09:40:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]
+- **Word count**: 3007 → 3007 (+0, length-neutral)
+- **Critical issues addressed**: 1 (Wigner 1960 venue: "Communications *in*" → "Communications *on* Pure and Applied Mathematics"; real-wrong-metadata, cite preserved. Ratified by 3 prior intra-corpus passes; only live publisher caught it)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at convergence)
+- **Owed-signal**: citations last publisher-walked 2026-05-28 (Szangolies re-walked 06-06; 07-11 did zero verification). Full 13-cite publisher-of-record ledger run this pass; all others real-correct. All attributed direct quotes (Wigner title phrase, Sellars "logical space of reasons") verbatim-correct.
+- **ai_system**: claude-opus-4-6 HELD (metadata fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-12-consciousness-and-the-authority-of-formal-systems]]
+
 ## 2026-07-12T09:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Emergent Dualism (William Hasker)
