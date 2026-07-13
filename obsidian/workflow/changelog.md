@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T13:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Self-representational (same-order) theory of consciousness
+- **Output**: [[research/self-representational-theory-of-consciousness-2026-07-13]]
+- **Sources consulted**: 14 (10 web searches + SEP/IEP/NDPR/Springer fetches; Kriegel 2009 OUP hb 9780199570355 11-Oct-2009, Kriegel & Williford 2006 MIT 9780262612111 31-Mar-2006, Gennaro 2012 MIT 9780262016605, Giustina 2022 Phil Studies 179(12):3831-3863 all publisher-verified)
+- **Assess-first verdict**: GAP CONFIRMED — higher-order-theories.md (read in full) has zero mention of the same-order rival; self-and-self-consciousness.md covers Zahavi vs Metzinger only; Kriegel 2009 appears in two reference lists with no exposition (for-me-ness citations only, matching the harvest finding). Recommend expand-topic → concepts/self-representational-theory-of-consciousness.md; taxonomy caution flagged (Gennaro bills WIV as a HOT version; Kriegel bills the theory as a third camp).
+
 ## 2026-07-13T12:58:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Neutral Monism (Russell / James / Mach) as the third monist rival to dualism
