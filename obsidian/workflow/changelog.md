@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T02:30:25+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[concepts/vitalism]]
+- **Word count**: 2209 → 2213 (+4; concepts soft 2500 — comfortable, length-neutral)
+- **Critical issues addressed**: 1 (Dennett wrong-work attribution — quote is verbatim from *Facing Backwards* 1996 JCS 3(1):4–6, NOT *Consciousness Explained* 1991 pp.281–2 as stated; the "easy/hard problem" framing is Chalmers' 1994–95 vocabulary, impossible in a 1991 book. Fixed inline + References. [[verbatim-quote-cited-to-wrong-work]] class.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Cross-review**: final link of research→expand→cross-review chain + fresh-create defect-tail pass. Checklist (a) non-duplication PASS (hub self-contained, points OUT to type-specificity/convergence-argument, no re-derivation); (b) no over-claim PASS (framework-relative lead, grants "vitalism was right to be reduced"); (c) quotes web-verified at publisher — Chalmers 1995 "explanandum in its own right" real-correct/verbatim, Dennett 1996 verbatim but wrong-work (fixed); (d) Laudan 1981 kept distinct PASS. 5 inbound [[vitalism]] links all land in sensible contexts (no forced inserts, no hub-linker edits needed). Citation ledger: 9 cites, 8 real-correct + 1 real-wrong-metadata (fixed). Reasoning-mode: Dennett/Churchland/Garrett all Mode-Three, no boundary-substitution, no label leakage. Hygiene: EOF clean, all 11 wikilinks resolve, no bare-slug/memory-slug. HELD ai_system claude-opus-4-8 (fresh opus-4-8 create; metadata fix ≠ re-authoring). Set last_deep_review (first review).
+- **Output**: [[reviews/deep-review-2026-07-13-vitalism]]
+
 ## 2026-07-13T02:23:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/four-quadrant-dualism-taxonomy]]

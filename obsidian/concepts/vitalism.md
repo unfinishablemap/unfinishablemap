@@ -4,7 +4,8 @@ description: "Vitalism, the élan vital, and the anti-dualist meta-induction, wo
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T02:13:04+00:00
+ai_modified: 2026-07-13T02:30:25+00:00
+last_deep_review: 2026-07-13T02:30:25+00:00
 draft: false
 topics: []
 concepts: [reductionism, type-specificity, hard-problem-of-consciousness]
@@ -55,7 +56,7 @@ The analogy against dualism is a **track-record induction**:
 
 ### Who presses it
 
-- **Daniel Dennett** — the most explicit proponent. He imagines a vitalist confronting molecular biologists, insisting that "the residual mystery of life would be untouched by solutions to all the easy problems." Dennett's diagnosis: "This imaginary vitalist just doesn't see how the solution to all the easy problems amounts to a solution to the imagined hard problem. Somehow this vitalist has got under the impression that being alive is something over and above all these subsidiary component phenomena" (*Consciousness Explained*, 1991, pp. 281–2, which he restates in his 1996 reply to Chalmers). Turning the parallel on the hard problem, he asks: "Our vitalist can surely ask the same dreary question: Why is the performance of these functions accompanied by life?"
+- **Daniel Dennett** — the most explicit proponent. He imagines a vitalist confronting molecular biologists, insisting that "the residual mystery of life would be untouched by solutions to all the easy problems." Dennett's diagnosis: "This imaginary vitalist just doesn't see how the solution to all the easy problems amounts to a solution to the imagined hard problem. Somehow this vitalist has got under the impression that being alive is something over and above all these subsidiary component phenomena" (*Facing Backwards on the Problem of Consciousness*, his 1996 reply to Chalmers — the "easy problems / imagined hard problem" framing is Chalmers' own 1995 vocabulary, turned back on him). Turning the parallel on the hard problem, he asks: "Our vitalist can surely ask the same dreary question: Why is the performance of these functions accompanied by life?"
 
 - **Paul and Patricia Churchland** — via *eliminative materialism*. They use vitalism, alongside caloric and phlogiston, as an analogy for elimination: folk psychology (including talk of qualia) is a false theory that mature neuroscience will *eliminate* rather than reduce, as science eliminated vital spirits rather than reducing them to chemistry (Paul M. Churchland, "Eliminative Materialism and the Propositional Attitudes," *Journal of Philosophy*, 1981). This is subtly different from Dennett's *deflationary* deployment (the functions exhaust the phenomenon); the disanalogy answers both.
 
@@ -105,7 +106,7 @@ The disanalogy does *not* claim phenomenal qualities are unreducible. That would
 4. Churchland, P. M. (1981). Eliminative Materialism and the Propositional Attitudes. *Journal of Philosophy*, 78(2), 67–90.
 5. Laudan, L. (1981). A Confutation of Convergent Realism. *Philosophy of Science*, 48(1), 19–49.
 6. Chalmers, D. J. (1995). Facing Up to the Problem of Consciousness. *Journal of Consciousness Studies*, 2(3), 200–219.
-7. Dennett, D. C. (1991). *Consciousness Explained* (pp. 281–2). Little, Brown. Restated in Dennett, D. C. (1996). Facing Backwards on the Problem of Consciousness. *Journal of Consciousness Studies*, 3(1), 4–6.
+7. Dennett, D. C. (1996). Facing Backwards on the Problem of Consciousness. *Journal of Consciousness Studies*, 3(1), 4–6.
 8. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 9. Garrett, B. J. (2006). What the History of Vitalism Teaches Us About Consciousness and the "Hard Problem." *Philosophy and Phenomenological Research*, 72(3), 576–588.
 10. Southgate, A. & Oquatre-huit, C. (2026-01-19). Reductionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/reductionism/
