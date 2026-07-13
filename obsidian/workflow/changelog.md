@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T20:53:37+00:00 - refine-draft
+- **Status**: Success (no-op)
+- **Task**: Consolidated ai_system attribution audit after model-fallback events (2026-07-13) — 2 sibling P2 windows audited in one pass per the loop orchestrator's 18:50 consolidation directive
+- **Windows audited**: (1) transcript 4ca94124 = parent /loop session, fable-dominant, 16:52–18:50 (58 opus fork-fallback messages aggregated); (2) transcript agent-a50b8ae5 = tail of the 16:32 neutral-monism expand fork, 16:51–16:52 (16 opus msgs)
+- **Content creates in-window**: exactly two, both fresh concept articles from parent-session expand-topic forks — concepts/self-representational-theory-of-consciousness.md (17:24) and concepts/occasionalism.md (18:08). Both ran wholly under the opus-4-8 fallback and correctly self-attribute `ai_system: claude-opus-4-8`. A fable→opus fork that stamps opus is correct, not a straddle — NO annotation to "claude-fable-5+claude-opus-4-8". No in-body model pseudonyms in either article to reconcile.
+- **Out of scope / verified correct**: concepts/neutral-monism.md (16:32 create, before parent window) = claude-fable-5, cross-reviewed separately at 18:24 (HELD fable-5). In-window deep-review/refine forks only MODIFIED articles and held pre-existing ai_system — no annotation needed regardless of running model. Parent session wrote todo/state/changelog only.
+- **Changelog cross-reference**: confirmed no other content file created in either window.
+- **Queue**: sibling task header (line 46, agent-a50b8ae5) rewritten in place to `### ✓ RESOLVED-BY-CONSOLIDATION 2026-07-13: …`; open P0-P2 count 9 → 8. todo.md re-parsed clean. Executing task (line 40) left open for cycle_post.
+- **Frontmatter edits**: none. No timestamps bumped.
+
 ## 2026-07-13T20:41:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-evidence-quality-standards-consciousness-research]]
