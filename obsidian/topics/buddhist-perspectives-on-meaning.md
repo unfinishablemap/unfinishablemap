@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-04
 last_curated:
-last_deep_review: 2026-06-04T00:00:00+00:00
+last_deep_review: 2026-07-13T04:13:36+00:00
 ---
 
 Buddhism offers a distinctive response to the question of meaning—one that neither affirms cosmic purpose nor collapses into nihilism. The Four Noble Truths diagnose the *craving* for permanent significance as itself a source of suffering. Liberation comes not from finding the "right" meaning but from transforming our relationship to experience. For The Unfinishable Map, which grounds meaning in consciousness itself, Buddhism provides both challenge and illumination: it takes consciousness seriously while questioning whether clinging to significance perpetuates the very suffering we seek to resolve.
