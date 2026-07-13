@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T03:33:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/compatibilism]]
+- **Type**: Cross-review of fresh create (research→expand→cross-review chain) + fresh-create defect-tail
+- **Word count**: 2502 → 2502 (length-neutral; no content change to target)
+- **Critical issues addressed**: 0 (converged clean on first pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 reciprocal inbound `[[compatibilism]]` links added to frankfurt-hierarchical-mesh-theory-of-the-will and reasons-responsiveness (held their live ai_system)
+- **Citations web-verified**: 9 (all real-correct; Fara/Vihvelin/List/Bourget&Chalmers verified at publisher of record; PhilPapers 59.2% confirmed as the correct 2020 tabulation vs the 62% exclusive-subset conflation)
+- **Stamps**: compatibilism last_deep_review set (ai_modified/ai_system held — no target content change); 2 siblings ai_modified bumped, ai_system + last_deep_review held
+- **Output**: [[reviews/deep-review-2026-07-13-compatibilism]]
+
 ## 2026-07-13T03:24:48+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Compatibilism (definitional hub for compatibilism-the-position + its variants)
