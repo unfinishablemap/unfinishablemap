@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T07:17:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/transactional-interpretation-of-quantum-mechanics]]
+- **Word count**: 1760 → 1760 (+0; length-neutral, 70% of concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Disposition**: CONVERGED-CLEAN-NOW-PUBLISHER-VERIFIED — fresh 2026-07-12 create, never deep-reviewed; all 7 citations verified real-correct at publisher of record (Cramer 1986 RMP 58:647-688; Cramer 2016 Springer; Wheeler-Feynman 1945 RMP 17:157-181 & 1949 RMP 21:425-433; Kastner 2012 CUP book w/ accurate 2012/2013 hedge; Kastner 2012 Found.Phys. 42:1094-1113; Maudlin 1994 Blackwell). Maudlin contingent-absorber objection, Cramer pseudotime-hierarchy patch, Kastner PTI/RTI reply (framed as her claim), Peter Lewis reconstruction, and Cramer/Kastner-are-physicalists consciousness disclaimer all verified accurate. No superlative/currency defects. ai_system held at claude-opus-4-8; ai_modified unchanged (no content edit); last_deep_review set.
+- **Output**: [[reviews/deep-review-2026-07-13-transactional-interpretation-of-quantum-mechanics]]
+
 ## 2026-07-13T07:09:53+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Conceptual Role Semantics and the Naturalisation of Content
