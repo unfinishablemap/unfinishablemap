@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T01:02:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Vitalism and the anti-dualist meta-induction ("consciousness is the modern élan vital")
+- **Output**: [[research/vitalism-2026-07-13]]
+- **Sources consulted**: 9 web-verified (Bergson 1907/1911, Driesch 1907-08 Gifford, Wöhler 1828 + legend caveat, Stahl/Bichat/Müller, Dennett 1996 JCS, Churchland 1981, Chalmers 1995/1996, Garrett 2006 PPR)
+
 ## 2026-07-13T00:42:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]
