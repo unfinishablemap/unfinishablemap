@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T06:19:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/logical-behaviourism]]
+- **Mode**: Independent publisher-of-record web-verify (fresh-create-defect-tail; quote-fidelity + citation-accuracy lens)
+- **Word count**: 2319 → 2319 (no change, length-neutral)
+- **Critical issues addressed**: 0 (all quotes verbatim + all cites correct at primary publishers)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Disposition**: CONVERGED-CLEAN-NOW-PUBLISHER-VERIFIED — Ryle Ch.1 quotes verbatim (Purdue primary PDF), SEP quotes verbatim (live SEP), Hempel/Carnap/Place/Smart/Putnam metadata correct, Hempel-disavowal calibration claim accurate. `last_deep_review` bumped; `ai_modified`/`ai_system` held.
+- **Output**: [[reviews/deep-review-2026-07-13-logical-behaviourism-publisher-verify]]
+
 ## 2026-07-13T06:04:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Content Externalism and the Twin Earth Argument
