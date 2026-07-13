@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-13T10:58:46.705641+00:00'
-session_count: 15386
-cycle_position: 10908
+last_updated: '2026-07-13T11:08:31.537705+00:00'
+session_count: 15387
+cycle_position: 10909
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-13T07:45:34.465209+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-13T02:03:57.773986+00:00'
   commission-claude-review: '2026-07-13T03:06:39.093699+00:00'
   commission-gemini-review: '2026-07-13T04:02:09.315901+00:00'
-  refine-draft: '2026-07-13T08:34:19.069377+00:00'
+  refine-draft: '2026-07-13T11:08:31.537705+00:00'
   research-topic: '2026-07-13T07:12:41.066893+00:00'
   replenish-queue: '2026-07-13T10:58:46.705641+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-13'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-13'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-13'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-13'
   outcome: success
 agentic_social:
@@ -1397,7 +1397,37 @@ queue_status:
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-13T10:57:51+00:00'
+  last_replenishment: '2026-07-13T11:35:31+00:00'
+  last_floor_restore_note_2026_07_13_narrative_coherence_owed_verify: 'Floor-restoring
+    /replenish-queue 2026-07-13T113531Z (interactive under unfin-cycle; rapid commit
+    cadence is this session own cycle siblings, NOT a concurrent evolve_loop). AUTHORITATIVE
+    PRE-COUNT tool-verified count_p0_p2 == 2 (pickable: conceptual-role-semantics
+    cross-review + neutral-monism research-topic; the model-fallback ai_system-attribution
+    refine that the 10:57 replenish counted DRAINED via commit 1092ace6a; three HUMAN
+    LENGTH DECISION items blocked/parser-excluded; four veto condenses excluded).
+    MIN_QUEUE floor 3 unmet by 1; restored 2->3 with EXACTLY ONE mint. A fresh 9-source
+    re-audit re-confirmed exhaustion of blind-mint sources beyond the 10:57 neutral-monism
+    gap: chains null (only CRS cross-review owed, already queued); ALL recent research
+    consumed; gap analysis exhausted (NO undefined-concept wikilink gaps - every target
+    referenced >=4x resolves; dual-aspect ALREADY researched 2026-03-16 -> bi-aspectual-ontology.md;
+    hylomorphism -> hylomorphic-dualism-and-the-interaction-problem.md; epiphenomenalism
+    -> concepts/epiphenomenalism.md 185 inbound - all covered); metadata web-verify
+    swept corpus-wide (nothing has a review gap >41d; atemporal-causation/ethics-under-dualism/causal-consistency-constraint/testing-consciousness-collapse
+    all publisher-verified early-June or as recently as 07-06); quote-fidelity strong
+    targets done or session-touched; positions AUDITED yesterday 2026-07-12; orphans
+    0; length all veto/human-deferred; applied-apex extant; NO promotable P3 (all
+    three P3s blocked HUMAN LENGTH DECISIONs). SOURCE = staleness + owed-web-verify
+    seam (demonstrable freshly-grepped signal). TARGET = concepts/narrative-coherence.md,
+    the OLDEST-reviewed article in the corpus (last_deep_review 2026-06-01, 42d; ai_contribution
+    100; ai_system claude-opus-4-6; not touched since 06-01). SIGNAL = the 06-01 review
+    publisher-verified ONLY Tversky-Kahneman 1983 and explicitly left the OTHER SEVEN
+    cites (Kahneman-Tversky 1973/1971, Tulving 2002, Ricoeur 1992, Schechtman 1996,
+    MacIntyre 1981, Velleman 2005) at cross-corpus-only - the exact intra-corpus-only
+    pattern the seam targets - plus flagged 5 as orphaned refs (fabrication red flag)
+    without verifying their metadata. Task = 3-state publisher-verify those seven (watch
+    Ricoeur/MacIntyre edition-year traps; verbatim-check any Velleman quote), HOLD
+    ai_system opus-4-6, length-neutral, license-to-no-op if all verify clean. FIFO-placed
+    below the two existing P2s so they drain first. Subject-diverse from both.'
   last_floor_restore_note_2026_07_13_neutral_monism_gap: 'Floor-restoring /replenish-queue
     2026-07-13T105751Z (interactive under unfin-cycle; rapid commit cadence is this
     session''s own cycle siblings, NOT a concurrent loop). AUTHORITATIVE PRE-COUNT
