@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-06-06 00:00:00+00:00
+ai_modified: 2026-07-12 22:17:13+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,13 +16,13 @@ concepts:
 - '[[decoherence]]'
 created: 2026-02-22
 date: &id001 2026-05-26
-description: 'How consciousness moves the body: converging neuroscience dissolves
-  the Libet challenge and reveals the architecture where a non-physical mind could
-  influence motor selection.'
+description: 'How consciousness moves the body: converging neuroscience levels the
+  Libet playing field and reveals where a non-physical mind could influence motor
+  selection.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 00:00:00+00:00
+last_deep_review: 2026-07-12 22:17:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-How does consciousness move the body? The Unfinishable Map holds that consciousness causally influences the physical world, and motor control is where this claim faces its sharpest test. Every voluntary movement—reaching for a glass, typing a sentence, turning your head—requires non-physical consciousness to produce physical effects. Converging neuroscience evidence now reveals the architecture where this could happen: the Libet challenge to conscious will has dissolved, attention and motor planning share neural substrates, and the brain's own motor selection system operates through competitive threshold-crossing that leaves room for a non-physical selector. The question is no longer whether the neuroscience permits a role for consciousness—it does—but what mechanism could fill that role.
+How does consciousness move the body? The Unfinishable Map holds that consciousness causally influences the physical world, and motor control is where this claim faces its sharpest test. Every voluntary movement—reaching for a glass, typing a sentence, turning your head—requires non-physical consciousness to produce physical effects. Converging neuroscience evidence now reveals the architecture where this could happen: the Libet challenge to conscious will has been substantially weakened—leaving the playing field more level rather than settling the matter—attention and motor planning share neural substrates, and the brain's own motor selection system operates through competitive threshold-crossing that leaves room for a non-physical selector. The question is no longer whether the neuroscience permits a role for consciousness—it does—but what mechanism could fill that role.
 
 This article explores the philosophical significance of motor selection for [interactionist-dualism](/concepts/interactionist-dualism/), building on the technical details in [motor-selection](/concepts/motor-selection/) and the broader [attention-as-interface](/concepts/attention-as-interface/) hypothesis.
 
@@ -49,7 +49,7 @@ The standard materialist account treats voluntary movement as fully determined b
 
 For decades, this finding anchored the argument that conscious will is illusory. The Map's framework requires an answer.
 
-## The Libet Challenge Dissolved
+## The Libet Challenge Weakened
 
 The answer has largely arrived from neuroscience itself, not from philosophy. Two lines of evidence have substantially weakened the Libet challenge.
 
@@ -80,7 +80,7 @@ The brain does not wait for consciousness to generate motor plans from scratch. 
 
 The basal ganglia implement a brake-release mechanism on these competing options. Tonic inhibition suppresses all motor programs by default; selection occurs when the brake is released on one program while competitors remain inhibited. The cortex generates ensembles of possible actions; the striatum selects.
 
-This architecture—option generation followed by competitive selection at threshold—is compatible with a role for consciousness as selector. Consciousness does not need to create motor programs. It biases which competing population wins the threshold race. The bandwidth constraint of conscious processing—estimated at roughly 10-50 bits/second (Nørretranders 1998)—matches this role: you consciously select "reach for the glass" but do not consciously direct individual motor neurons.
+This architecture—option generation followed by competitive selection at threshold—is compatible with a role for consciousness as selector. Consciousness does not need to create motor programs. It biases which competing population wins the threshold race. The bandwidth constraint of conscious processing—a widely-cited order-of-magnitude estimate of roughly 10-50 bits/second (Nørretranders 1998)—matches this role: you consciously select "reach for the glass" but do not consciously direct individual motor neurons.
 
 Dopamine further clarifies the architecture. A 2024 *Nature* study demonstrated that dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move." Dopamine marks options as worth pursuing and modulates decision thresholds, but does not itself determine which option is selected. This three-layer structure—neural computation generates options, dopamine marks salience and sets thresholds, consciousness selects—satisfies the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. Consciousness does not generate force; it resolves indeterminacy at the selection point.
 
@@ -98,11 +98,13 @@ The neuroscience reviewed here positions the agent at a specific juncture in the
 
 The Libet dissolution is crucial here. If the readiness potential were an unconscious decision, the agent would arrive too late. With Schurger's reinterpretation, stochastic neural fluctuations provide the raw material—noise accumulating toward threshold—and the agent's contribution is biasing which fluctuations reach threshold and when. The 200ms window of conscious awareness before movement is not a brief afterthought following an unconscious decision; it is the agent operating within a noisy system. See [Phenomenology of Volitional Control](/topics/volitional-control/) for the broader phenomenological structure of agency and veto that underlies this.
 
+One clarification keeps this from proving too much. Schurger's accumulator—like Cisek's affordance competition and the drift-diffusion models above—is a *classical* system: its noise is thermal and synaptic fluctuation, epistemically unpredictable but not metaphysically open. A classical accumulator is causally closed; the threshold-crossing is fixed by the prior microstate plus the noise realisation, leaving no free degree of freedom for a selector. So the neuroscience of stochastic fluctuation does not by itself hand the agent genuine indeterminacy to resolve—it shows only that outcomes are *unpredictable*, not that they are metaphysically *open*. Converting unpredictability into agent-resolvable openness requires reaching below the classical description, to the quantum layer discussed next. The "more level playing field" is therefore a conditional result: the Libet dissolution removes the strongest evidence *against* a conscious role, but the positive claim that consciousness *resolves* indeterminacy holds only if the physical substrate genuinely supplies some—which classical accumulator models do not. The quantum-Zeno proposal (or a successor mechanism that supplies real indeterminacy) is thus not optional decoration on an otherwise-complete classical story; it is where the agency argument's metaphysical opening actually comes from.
+
 ## A Candidate Mechanism: Quantum Zeno Stabilisation
 
 The neuroscience above identifies *where* consciousness could intervene—at the competitive selection threshold—but does not specify *how*. Henry Stapp's quantum Zeno proposal, building on the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/), offers one candidate mechanism: consciousness holds desired neural patterns stable through rapid observation, preventing them from dissipating before they reach the threshold for action.
 
-On this model, multiple competing motor programs exist as neural states that would naturally evolve and dissipate. By rapidly "observing" the desired program—attending to the intended action—consciousness prevents that program from decaying, giving it a sustained advantage in the threshold-crossing competition. The mechanism does not require consciousness to inject energy into the brain. Quantum observation shapes which state actualises without adding energy—it selects among existing possibilities (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for why this respects conservation laws). Nor does it require sustained quantum coherence across large brain regions. Each observation event is rapid; what consciousness sustains is the *rate* of observation, not a coherent quantum state. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the timing hierarchy and [decoherence](/concepts/decoherence/) for responses to the coherence objection.
+On this model, multiple competing motor programs exist as neural states that would naturally evolve and dissipate. By rapidly "observing" the desired program—attending to the intended action—consciousness prevents that program from decaying, giving it a sustained advantage in the threshold-crossing competition. The mechanism does not require consciousness to inject energy into the brain. On Stapp's reading, the relevant observation shapes which state actualises by selecting among existing possibilities rather than by adding energy. This is an interpretive commitment, not a plain consequence of the formalism: quantum projection is not in general energy-conserving, and "observation" in physics ordinarily denotes a physical measurement coupling rather than an agent's attention. That the selection can be made to respect conservation laws is therefore part of what the interpretation must argue (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)), not a free consequence of quantum mechanics. Nor does the mechanism require sustained quantum coherence across large brain regions. Each observation event is rapid; what consciousness sustains is the *rate* of observation, not a coherent quantum state. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the timing hierarchy and [decoherence](/concepts/decoherence/) for responses to the coherence objection.
 
 The phenomenology is suggestive. Sustaining motor intention feels effortful, and effort increases with the number of competing alternatives. The correspondence between felt effort and motor difficulty—novel movements feel harder than practiced ones, complex sequences harder than simple actions—is what one would expect if effort reflects observation rate. But suggestive phenomenology is not proof of mechanism; computational accounts of effort (resource allocation, opportunity cost) can explain similar patterns without quantum involvement.
 
@@ -112,7 +114,7 @@ This remains a candidate mechanism, not an established one. The Map's core argum
 
 The framework locates *where* consciousness might influence motor selection but does not fully explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is identified, not illuminated.
 
-For the quantum Zeno candidate specifically, the [decoherence](/concepts/decoherence/) objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—a [twelve-order-of-magnitude gap](/concepts/timing-gap-problem/) from the millisecond timescales of neural competition. Revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, but this still leaves a gap of roughly three orders of magnitude—and even those longer estimates are contested: Reimers et al. (2009) and McKemmish et al. (2009) argue Hagan's parameters rest on microtubule properties not empirically established. Citing Hagan as a settled rebuttal of Tegmark would be selective citation; the dispute is live, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. Stapp argues that his mechanism requires only that observation events outpace decoherence rather than sustaining coherence across the full decision interval—and if each observation cycle operates at microsecond timescales, approximately 1,000 observations within a 300-millisecond decision window would suffice—but no concrete model accounts for observation events occurring at the required microsecond-or-faster rates, and that gap relocates rather than closes the problem. This is the single largest empirical obstacle to the quantum Zeno candidate.
+For the quantum Zeno candidate specifically, the [decoherence](/concepts/decoherence/) objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—a [twelve-order-of-magnitude gap](/concepts/timing-gap-problem/) from the millisecond timescales of neural competition. Revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, but this still leaves a gap of roughly three orders of magnitude—and even those longer estimates are contested: Reimers et al. (2009) and McKemmish et al. (2009) argue Hagan's parameters rest on microtubule properties not empirically established. Citing Hagan as a settled rebuttal of Tegmark would be selective citation; the dispute is live, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. Stapp argues that his mechanism requires only that observation events outpace decoherence rather than sustaining coherence across the full decision interval—but this sharpens the burden rather than easing it. Outpacing decoherence at Hagan's revised microsecond scale requires observation intervals of a microsecond or shorter, so a single 300-millisecond decision window would demand on the order of hundreds of thousands of discrete observation events; no concrete model accounts for observation events recurring at anything like that rate, and that gap relocates rather than closes the problem. This is the single largest empirical obstacle to the quantum Zeno candidate.
 
 More broadly, the parallel between attention and motor control—while striking—does not prove they share a single mechanism through which consciousness acts. Shared timing and neural signatures could reflect computational similarities without any non-physical involvement. Reinforcement learning and Bayesian optimal control theory already explain much of motor selection without appealing to consciousness or quantum mechanics. The brain's dopamine system implements a well-characterised reward prediction error signal that biases selection computationally. Identifying what, specifically, these models fail to account for remains an open challenge.
 
@@ -120,9 +122,9 @@ What would strengthen the case? In Schurger-style self-paced movement tasks, sto
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The dissociation between motor intention (parietal) and motor execution (premotor) supports irreducibility. Conscious intention and physical movement come apart under stimulation—they are not the same process described at different levels.
+**[Dualism](/tenets/#dualism)**: The dissociation between motor intention (parietal) and motor execution (premotor) locates conscious intention and motor execution at distinct neural stages. This is neural separability, which materialism predicts equally well; on its own it is not evidence of psychophysical irreducibility. What the dissociation does is constrain *where* an interface would sit if one exists—at the intention stage, not the execution stage. It is consistent with an interface operating at the selection level; it does not, by itself, argue that one exists.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Motor selection exemplifies minimal interaction. Consciousness does not generate movement—it biases which of the brain's competing motor programs wins the threshold race. The ~10 bits/second bandwidth matches policy-level selection, not micromanagement of motor neurons.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Motor selection exemplifies minimal interaction. Consciousness does not generate movement—it biases which of the brain's competing motor programs wins the threshold race. The low (~10-50 bits/second) bandwidth matches policy-level selection, not micromanagement of motor neurons.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Motor control is where consciousness most visibly affects the physical world. Words appear on pages, bodies move through space. If the attention-motor interface is unified, the same mechanism connects consciousness to both perception and action.
 

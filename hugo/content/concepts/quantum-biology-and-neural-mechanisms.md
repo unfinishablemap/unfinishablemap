@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-07-09 15:13:44+00:00
+ai_modified: 2026-07-12 22:26:22+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -72,7 +72,7 @@ Engel et al. (2007) demonstrated quantum coherence in photosynthetic complexes o
 
 Migratory birds navigate using Earth's magnetic field through radical pair quantum effects in cryptochrome proteins. Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. Spin coherence persists for microseconds—vastly longer than femtosecond timescales often cited for biological decoherence.
 
-Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism Stapp proposes for mental causation, providing the first biological precedent at neural-relevant timescales.
+Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism category Stapp proposes for mental causation, providing a computational precedent, though its microsecond coherence sits about three orders of magnitude below neural firing timescales.
 
 Selection has propagated cryptochrome variants that exploit radical-pair quantum coherence for magnetic compass function—the strongest evidence that biological systems can retain quantum-coherent dynamics under selective pressure. The [evolutionary case](/topics/evolutionary-case-for-quantum-neural-effects/) examines whether the same logic licenses an inference to neural systems; the extension is a realistic possibility, not a demonstrated probability.
 
@@ -96,7 +96,7 @@ Turin proposed that smell detection involves inelastic electron tunneling spectr
 
 ### The Remaining Timescale Gap
 
-Even microsecond coherence remains three orders of magnitude below millisecond neural firing—a gap that matters for sustained-coherence proposals (Orch OR, Fröhlich-microtubule lines) but not for discrete-event mechanisms or [post-decoherence-selection](/apex/post-decoherence-selection-programme/) proposals, which locate the consciousness-relevant event in a different temporal regime. Two responses within the sustained-coherence frame: [Stapp's](/concepts/stapp-quantum-mind/) quantum Zeno mechanism uses rapid repeated mental "observations" to refresh superpositions faster than decoherence destroys them (Denton et al. 2024 demonstrated biological Zeno effects in cryptochrome). Alternatively, if consciousness selects among quantum alternatives many times per second, microsecond coherence windows suffice—see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
+Even microsecond coherence remains three orders of magnitude below millisecond neural firing—a gap that matters for sustained-coherence proposals (Orch OR, Fröhlich-microtubule lines) but not for discrete-event mechanisms or [post-decoherence-selection](/apex/post-decoherence-selection-programme/) proposals, which locate the consciousness-relevant event in a different temporal regime. Two responses within the sustained-coherence frame: [Stapp's](/concepts/stapp-quantum-mind/) quantum Zeno mechanism uses rapid repeated mental "observations" to refresh superpositions faster than decoherence destroys them (Denton et al. 2024 modelled biological Zeno effects in cryptochrome). Alternatively, if consciousness selects among quantum alternatives many times per second, microsecond coherence windows suffice—see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
 
 More fundamentally, decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/): it explains why superpositions appear classical but not why measurements yield definite outcomes.
 

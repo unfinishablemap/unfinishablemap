@@ -157,6 +157,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Attention and motor planning as unified selection
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — What prediction error feels like
 - [categorical-surprise](/concepts/categorical-surprise/) — When prediction fails at the framework level
+- [bohm-implicate-order-and-active-information](/concepts/bohm-implicate-order-and-active-information/) — Active information as a form-directs-energy channel, an ontological cousin of information-first mind–matter coupling
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's findings resist materialist closure
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Bandwidth limits and the interface
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — the four bandwidth signatures run against active inference: where the Map adopts PP's account of perceptual degradation and where the hard-problem residue remains

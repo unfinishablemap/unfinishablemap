@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-12 20:18:00+00:00
+ai_modified: 2026-07-12 20:39:00+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -61,7 +61,7 @@ Copenhagen's instrumentalism, however, conflicts with the Map's realist commitme
 
 ## Bohmian Mechanics: Determinism Without Collapse
 
-Bohmian mechanics restores determinism by adding hidden variables—particles always have definite positions, guided by a "pilot wave" that evolves according to the Schrödinger equation. There is no collapse. The measurement problem dissolves because particles always have trajectories; apparent randomness reflects ignorance of initial conditions.
+[Bohmian mechanics](/concepts/bohm-implicate-order-and-active-information/) restores determinism by adding hidden variables—particles always have definite positions, guided by a "pilot wave" that evolves according to the Schrödinger equation. There is no collapse. The measurement problem dissolves because particles always have trajectories; apparent randomness reflects ignorance of initial conditions.
 
 This appears to be the interpretation most hostile to the Map's framework. If Bohmian mechanics is correct, the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet has no work to do. There is no indeterminacy for consciousness to resolve, no collapse to participate in. Free will would require an entirely different mechanism.
 

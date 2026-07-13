@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-10 00:08:00+00:00
+ai_modified: 2026-07-12 20:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -124,7 +124,7 @@ Physical collapse according to modified dynamics. See [spontaneous-collapse-theo
 
 ### Hidden Variables (Bohmian Mechanics)
 
-Particles always have definite positions guided by a "pilot wave." Deterministic throughout—removes the opening for consciousness at collapse.
+Particles always have definite positions guided by a [pilot wave](/concepts/bohm-implicate-order-and-active-information/). Deterministic throughout—removes the opening for consciousness at collapse.
 
 ### Consciousness-Based Interpretations
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-22 17:04:36+00:00
+ai_modified: 2026-07-12 23:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ description: 'Evidence-grade-tiered survey of quantum biology and consciousness:
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 17:04:36+00:00
+last_deep_review: 2026-07-12 23:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ The most-cited pharmacological line linking quantum effects to consciousness com
 **Brain entanglement signatures.** Kerskens and López Pérez (2022) detected MRI signals in conscious subjects consistent with entangled proton spins, which disappeared during sleep and correlated with working memory. Warren (2023) countered that the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) from ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no classical account of why the signal tracks sleep versus waking. The dispute is unresolved and unreplicated.
 
 
-**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments reported "large and opposite effects on synaptic transmission" from the two isotopes (Esmaeilpour et al., 2025, preprint)—consistent with nuclear spin influencing neural activity, but unreplicated.
+**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments reported "a large and opposite effect on synaptic transmission" between the two isotopes (Esmaeilpour et al., 2025, preprint)—consistent with nuclear spin influencing neural activity, but unreplicated.
 
 **Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG to probe quantum effects on cognition (Escolà-Gascón, 2025); qubit entanglement in stimulus configurations explained 13.5% of accuracy variance. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement is unwarranted as stated.
 
@@ -204,6 +204,7 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to neural decisions
 - [decoherence](/concepts/decoherence/) — Why decoherence does not solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
+- [bohm-implicate-order-and-active-information](/concepts/bohm-implicate-order-and-active-information/) — Bohm's pilot-wave and active-information program as a fourth quantum-mind candidate
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental causation
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Designing experiments to test consciousness-collapse hypotheses

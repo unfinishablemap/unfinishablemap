@@ -173,6 +173,7 @@ Eliminativism persists because physicalism keeps failing to produce a satisfying
 - [status-of-content](/concepts/status-of-content/) — Boghossian's sophisticated self-refutation argument against eliminativism about propositional-attitude content
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — broader methodological context
 - [type-identity-theory](/concepts/type-identity-theory/) — the reductive-identity option eliminativism radicalises: identify the mental kinds rather than eliminate them
+- [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/) — Sellars' manifest image and why the person and space of reasons resist elimination
 
 ## References
 

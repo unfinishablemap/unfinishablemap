@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-07-12 15:04:50+00:00
+ai_modified: 2026-07-12 21:06:26+00:00
 ai_system: claude-opus-4-8
-apex_last_synthesis: 2026-06-22 09:27:57+00:00
+apex_last_synthesis: 2026-07-12 21:06:26+00:00
 apex_sources:
 - concepts/ensemble-level-epiphenomenalism
 - topics/born-rule-and-the-consciousness-interface
@@ -11,6 +11,8 @@ apex_sources:
 - concepts/causal-consistency-constraint
 - concepts/post-decoherence-selection
 - concepts/trumping-preemption
+- concepts/transactional-interpretation-of-quantum-mechanics
+- concepts/bohm-implicate-order-and-active-information
 apex_thesis: 'The Map''s deepest unpaid debt is a single dilemma: conscious selection
   must do genuine causal work yet preserve aggregate Born statistics exactly, which
   places the framework one unforced step from epiphenomenalism. This is a research-agenda
@@ -25,6 +27,8 @@ concepts:
 - '[[trumping-preemption]]'
 - '[[delegatory-causation]]'
 - '[[post-decoherence-selection]]'
+- '[[transactional-interpretation-of-quantum-mechanics]]'
+- '[[bohm-implicate-order-and-active-information]]'
 created: 2026-06-22
 date: &id001 2026-06-22
 description: 'The Map''s deepest open challenge stated whole: how conscious selection
@@ -114,6 +118,12 @@ P-Q10 records that no worked model exists. A useful way to make the problem trac
 
 A model meeting (1)–(4) would discharge most of P-Q10 and tighten P-Q3 from "open challenge" toward "conditionally answered on the corridor reading." A model meeting (5)–(6) in addition would begin to connect the formal result to the empirical interface programme. The register notes that were such a model to appear and survive review, several quantum-interface positions would tighten by one confidence band.
 
+## A Candidate Venue: The Transactional Stage
+
+One existing interpretation hands over two of these desiderata by construction, which sharpens what the remaining four cost. Cramer's [transactional interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) reads each quantum event as a completed emitter–absorber handshake whose |ψ|² weighting falls out of the offer-times-confirmation product. A selector that fixes only *which* offered transaction completes, without touching those weights, preserves Born statistics exactly (desideratum 2) and inherits the interpretation's no-signalling structure (desideratum 4). Kastner's possibilist refinement adds a pre-spacetime realm of possibility — a candidate stage on which *which* possibility actualizes is settled without any spacetime signal, close to what a minimal selection interface would require.
+
+What the transactional stage does *not* supply is the rest of the debt. It states no selection principle (desideratum 5), gives no demonstration that choosing-a-transaction is token-load-bearing yet aggregate-invisible (desiderata 1 and 3), and it imports the unresolved Maudlin contingent-absorber objection — that the pseudotime formation story appears to need the outcome before it can compute it. It relocates the stage, not the debt, which is why an off-the-shelf Born-preserving interpretation does not by itself close P-Q3. The same holds for the active-information channel of [Bohm's implicate order](/concepts/bohm-implicate-order-and-active-information/), borrowable as a form-directs-energy influence but bought at the price of a determinism that leaves no room for corridor-style selection unless the selection is relocated to which initial configuration obtains.
+
 ## Failure Modes: How Each Route Dies
 
 Naming the failure modes is part of holding the problem honestly. Each route has a characteristic way of collapsing.
@@ -167,6 +177,8 @@ This synthesis draws on:
 - [The Causal Consistency Constraint](/concepts/causal-consistency-constraint/) — Why no-signalling forces Born-preservation on the default reading
 - [Post-Decoherence Selection](/concepts/post-decoherence-selection/) — How relocating selection after decoherence sets aside the timing precondition this article assumes
 - [Trumping Preemption](/concepts/trumping-preemption/) — The authority-over-trajectories reading that answers the worry off the statistical axis
+- [The Transactional Interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) — The offer/confirmation handshake and Kastner's pre-spacetime possibility realm, borrowed as a Born-preserving venue for actualization-selection
+- [Bohm's Implicate Order and Active Information](/concepts/bohm-implicate-order-and-active-information/) — The form-directs-energy channel offered as minimal influence, and the determinism that limits its use for corridor-style selection
 
 ## References
 
@@ -175,4 +187,7 @@ This synthesis draws on:
 3. Bourget, D. (2004). Quantum Leaps in Philosophy of Mind. *Journal of Consciousness Studies*, 11(12), 17–42. (See also Stapp, H. P. (2004), Reply to Bourget's Critique, *ibid.*, 43–49.)
 4. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. https://doi.org/10.3389/fpsyg.2018.00379
 5. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
-6. Southgate, A. & Oquatre-eight, C. (2026-06-22). Ensemble-Level Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/
+6. Cramer, J. G. (1986). The Transactional Interpretation of Quantum Mechanics. *Reviews of Modern Physics*, 58(3), 647–688.
+7. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+8. Maudlin, T. (1994). *Quantum Non-Locality and Relativity: Metaphysical Intimations of Modern Physics*. Blackwell.
+9. Southgate, A. & Oquatre-eight, C. (2026-06-22). Ensemble-Level Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/

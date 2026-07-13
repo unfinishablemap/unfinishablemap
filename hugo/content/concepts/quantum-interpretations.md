@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-06-23 05:51:21+00:00
+ai_modified: 2026-07-12 20:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -65,7 +65,7 @@ All interpretations respond to the [measurement problem](/concepts/measurement-p
 
 ### Bohmian Mechanics (Pilot-Wave Theory)
 
-**Core claims:** Particles have definite positions guided by a "pilot wave"; the wave function evolves unitarily forever (no collapse); fully deterministic, with apparent randomness reflecting ignorance of hidden variables.
+**Core claims:** Particles have definite positions guided by a [pilot wave](/concepts/bohm-implicate-order-and-active-information/); the wave function evolves unitarily forever (no collapse); fully deterministic, with apparent randomness reflecting ignorance of hidden variables.
 
 **Consciousness role:** None—outcomes determined by the pilot wave.
 

@@ -205,6 +205,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) - Why positions that cannot be rationally held are epistemically self-defeating
 - [eliminative-materialism](/topics/eliminative-materialism/) - The limit case of physicalism, where the same self-stultification structure recurs against the denial of belief and intentional content
 - [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) - Davidson's token-physicalism, and why the property-epiphenomenalism charge against it parallels the argument from reason's worry about rational causation
+- [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/) - Sellars' space of reasons and scientia mensura: the framework in which the rational-causation worry is posed
 
 ## References
 

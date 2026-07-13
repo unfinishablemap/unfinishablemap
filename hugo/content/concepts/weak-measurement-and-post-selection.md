@@ -21,7 +21,7 @@ description: Weak measurement extracts partial quantum information across an ens
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 12:00:00+00:00
+last_deep_review: 2026-07-13 00:24:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

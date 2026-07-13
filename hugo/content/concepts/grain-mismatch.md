@@ -97,6 +97,7 @@ The Map proposes that the grain mismatch extends beyond spatial homogeneity into
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — Grain mismatch in the causal domain
 - [combination-problem](/concepts/combination-problem/) — How phenomenal properties combine, with grain implications
 - [neural-refresh-rates](/concepts/neural-refresh-rates/) — The temporal face of the grain mismatch: discrete oscillatory sampling versus smooth experience
+- [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/) — Sellars' grain problem: the pre-Chalmers source of the homogeneity-versus-particulate obstacle
 
 ## References
 

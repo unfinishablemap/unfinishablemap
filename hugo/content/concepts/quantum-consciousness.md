@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-06-24 18:02:00+00:00
+ai_modified: 2026-07-12 22:26:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -89,7 +89,7 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 - **Discrete, not sustained**: Unlike Orch OR, the Zeno mechanism operates through discrete observation cycles, not continuous coherence—sidestepping the decoherence timing gap entirely
 - **Attention as interface**: The [attention-consciousness dissociation](/concepts/attention-as-interface/) (Koch & Tsuchiya) shows attention is the mechanism consciousness uses, not consciousness itself
 - **Phenomenological match**: James documented that "sustained voluntary attention is a repetition of successive efforts"—exactly what the Zeno mechanism predicts
-- **Biological precedent**: Denton et al. (2024) demonstrated quantum Zeno protection in cryptochrome radical pairs—the first evidence that biological systems use this effect
+- **Biological precedent**: Denton et al. (2024) modelled quantum Zeno protection in cryptochrome radical pairs—computational evidence that biological systems could use this effect
 
 The [premotor theory of attention](/concepts/attention-as-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology. Two domains with identical selection architecture strengthens the case.
 
@@ -127,7 +127,7 @@ This is a separate challenge. Even granting that the measurement problem leaves 
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the timing gap because each event is instantaneous. However, even discrete mechanisms require coherent quantum states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
 
-**The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. **A critical assumption**: this requires that observations remain effective despite intervening decoherence—a point that requires empirical verification. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence. Denton et al.'s demonstration of biological Zeno effects in cryptochrome is consistent with this picture, but the neural case remains undemonstrated.
+**The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. **A critical assumption**: this requires that observations remain effective despite intervening decoherence—a point that requires empirical verification. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence. Denton et al.'s modelling of biological Zeno effects in cryptochrome is consistent with this picture, but the neural case remains undemonstrated.
 
 ## What These Theories Share
 
