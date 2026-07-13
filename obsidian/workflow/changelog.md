@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T20:41:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-evidence-quality-standards-consciousness-research]]
+- **Word count**: 2769 → 2803 (+34)
+- **Critical issues addressed**: 2 (Van Dam 2018 wrong-statistic 1%→9% [conflated with the outside-research-contexts figure]; orphan reference Schwartz-Stapp-Beauregard 2005 cited inline)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; targeted citation-integrity fixes only)
+- **Notes**: Owed-web-verify seam. All 16 references publisher-verified (prior passes verified only the changed quantum cites, and verified decoherence figures intra-corpus not at publisher). Van Dam 1%/9% is a currency/framing error — correct paper+metadata, wrong statistic — invisible to intra-corpus cross-check. ai_system held at opus-4-6 (targeted fixes, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-13-clinical-evidence-quality-standards-consciousness-research]]
+
 ## 2026-07-13T20:21:24+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Phenomenal Conservatism
