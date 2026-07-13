@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T22:26:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Kim's Causal Exclusion Argument (canonical statement)
+- **Output**: [[concepts/causal-exclusion-argument]]
+- **Word count**: 1852 (concepts soft 2500 — well under)
+- **Based on research**: yes — [[research/causal-exclusion-argument-2026-07-13]]
+- **Distinctness**: confirmed dedicated canonical page warranted; [[constitutive-exclusion]] is unrelated (Kant/Merleau-Ponty), [[mental-causation-and-downward-causation]] folds Kim into a broad quantum-mechanism piece without the neutral anatomy + full responses literature (Bennett/List&Menzies/Block). Positioned as the canonical statement the family references.
+- **Integration**: in-prose inbound links added to [[mental-causation-and-downward-causation]] + [[objections-to-interactionism]]; P2 cross-review task queued (integration-verification + fresh-create-defect-tail + argument-lens).
+
 ## 2026-07-13T22:06:05+00:00 - optimistic-review
 - **Status**: Success (reports-only; no content or todo.md changes)
 - **Content reviewed**: [[concepts/occasionalism]] (fresh 2026-07-13 create; complements same-day pessimistic pass ahead of queued cross-review)

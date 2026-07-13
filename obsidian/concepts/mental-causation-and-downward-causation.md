@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-07T15:46:40+00:00
+ai_modified: 2026-07-13T22:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -78,7 +78,7 @@ Jaegwon Kim's exclusion argument (*Physicalism, or Something Near Enough*, 2005)
 
 These premises are jointly inconsistent. If physical causes are sufficient (premise 1), and mental causes aren't identical to physical causes (premise 4), then mental causation either overdetermines effects (violating premise 3) or doesn't occur at all (denying premise 2).
 
-Kim concludes that mental properties—and all higher-level properties—are causally excluded by their physical realisers: either consciousness causes nothing ([[concepts/epiphenomenalism]]) or it just *is* its physical realiser ([[reductionism|reductionism]]). See [[reductionism#Kim's Challenge]] for the fuller argument.
+Kim concludes that mental properties—and all higher-level properties—are causally excluded by their physical realisers: either consciousness causes nothing ([[concepts/epiphenomenalism]]) or it just *is* its physical realiser ([[reductionism|reductionism]]). See [[reductionism#Kim's Challenge]] for the fuller argument, and [[causal-exclusion-argument]] for the canonical statement of the inconsistent set, the supervenience machinery, and the full responses literature (Bennett, List & Menzies, Block's drainage worry).
 
 ### The Drainage and Supervenience Problems
 

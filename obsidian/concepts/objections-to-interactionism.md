@@ -4,7 +4,7 @@ description: "Six challenges to dualism—pairing, conservation, parsimony, deco
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-07-12T10:31:57+00:00
+ai_modified: 2026-07-13T22:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -138,7 +138,7 @@ Epiphenomenalists respond that consciousness might be a "spandrel"—a by-produc
 
 ### The Objection
 
-Kim's exclusion argument: mental properties [[supervenience|supervene]] on physical properties. If physical property P is sufficient for effect E, mental property M seems causally redundant—P "screens off" M. Therefore, M either is identical to P (reductionism) or causes nothing (epiphenomenalism).
+Kim's exclusion argument: mental properties [[supervenience|supervene]] on physical properties. If physical property P is sufficient for effect E, mental property M seems causally redundant—P "screens off" M. Therefore, M either is identical to P (reductionism) or causes nothing (epiphenomenalism). The [[causal-exclusion-argument|canonical statement]] lays out the full inconsistent set and the mainstream responses; the survey below gives the Map's responses in brief.
 
 ### The Drainage Problem
 
