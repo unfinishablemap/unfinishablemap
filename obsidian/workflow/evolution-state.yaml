@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-13T21:06:56.955845+00:00'
-session_count: 15427
-cycle_position: 10930
+last_updated: '2026-07-13T21:27:20.748541+00:00'
+session_count: 15428
+cycle_position: 10931
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-13T19:38:57.691461+00:00'
   optimistic-review: '2026-07-13T08:44:30.000528+00:00'
   check-tenets: '2026-07-13T01:46:17.676142+00:00'
   check-links: '2026-07-13T06:43:05.417672+00:00'
-  deep-review: '2026-07-13T20:43:41.122117+00:00'
+  deep-review: '2026-07-13T21:27:20.748541+00:00'
   tune-system: '2026-07-12T12:37:47.832048+00:00'
   research-voids: '2026-07-13T06:44:13.289947+00:00'
   coalesce: '2026-07-13T13:24:40.914096+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 499
-  reviews_completed: 6288
+  reviews_completed: 6289
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-07-13'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-07-13'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-13'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-13'
   outcome: success
 agentic_social:
@@ -1373,11 +1373,30 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 42
+  p2_tasks: 43
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-13T18:40:28+00:00'
+  last_replenishment: '2026-07-13T21:37:00+00:00'
+  last_floor_restore_note_2026_07_13_causal_exclusion: 'Floor-restoring single mint
+    by /replenish-queue 2026-07-13T2137Z (interactive). PRE-COUNT actionable P0-P2 ==
+    2 (occasionalism fresh-create cross-review + dream-consciousness owed-verify deep-review;
+    veto condenses, P3 HUMAN-LENGTH, and NEEDS-HUMAN items excluded). MIN_QUEUE floor
+    3 unmet by 1. NEW unconsumed research created AFTER the 18:40 replenish: (a) causal-exclusion-argument-2026-07-13
+    (19:51) — no dedicated page, no archive; MINTED 1 P2 expand-topic to concepts/ (309/320,
+    headroom) with an explicit distinctness-check-before-writing note vs the dense
+    mental-causation/exclusion family (galilean-exclusion is Papineau''s version, not
+    Kim''s canonical supervenience/exclusion argument). (b) phenomenal-conservatism-2026-07-13
+    (20:21) — DECLINED: topic is in archive/ (archive/topics/phenomenal-conservatism-and-introspective-evidence.md,
+    coalesced) and substantively covered live in phenomenal-authority-and-first-person-evidence
+    + introspection + phenomenal-acquaintance (skill archive-filter rule). markov-blankets-and-the-boundary-of-mind-2026-07-12
+    NOT revived — deliberately declined by the 18:40 sibling replenish as high-overlap
+    with the free-energy cluster; re-minting a 3h-old same-evidence decline is churn,
+    deferred to that judgment. POST-COUNT actionable P0-P2 == 3 (floor met). Other sources
+    spot-confirmed exhausted: task-chains consumed (neutral-monism/self-representational/occasionalism
+    cross-reviews all done or queued), length offenders all veto/human-deferred, orphans
+    0, positions 8 entries below 10-audit threshold, applied-apex extant.'
+  last_replenishment_prev: '2026-07-13T18:40:28+00:00'
   last_floor_restore_note_2026_07_13_dream_consciousness_owed_verify: 'Floor-restoring
     single mint by /replenish-queue 2026-07-13T184028Z (interactive). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2_tasks == 2 (self-representational-theory +
