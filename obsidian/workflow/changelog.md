@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T04:36:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Finding**: routed pessimistic-2026-07-13 (HIGH) — lead + apex_thesis advertised programme-wide timing-escape, but only the atemporal TSVF variant escapes; the titular collapse-at-a-moment reading inherits a silent menu-refresh / selection-latency constraint (decoherence is a continuous rate; the pointer-state menu is a moving target at the ~280ms commitment point).
+- **Changes**: (1) PRIMARY — split the timing-escape claim by mechanism-variant in the lead and apex_thesis. Lead: "then the decoherence timescale is irrelevant" → "then the coherence-*lifetime* objection loses its force. That escape is complete only for the atemporal boundary-condition variant below; the primary collapse-at-a-moment reading trades the lifetime objection for an open menu-*refresh* constraint, as ongoing decoherence continuously renews the pointer-state options the ~280 ms commitment point selects among." Thesis: "sidestepping the timing objection…" → "dissolving the coherence-lifetime objection…—entirely for the atemporal boundary-condition variant, and for the collapse-at-a-moment reading only by trading it for a still-open menu-refresh constraint." Genuine result preserved (lifetime dissolution real for atemporal variant; discrete-event reading still sidesteps the sustained-coherence requirement — the "already-decohered mixture" framing carries this). (2) MEDIUM — MQI tenet "not merely asserted but *derived*" → "*motivated by* … rather than merely asserted" (quantum Darwinism constrains the environment, not consciousness's magnitude). (3) MEDIUM — Torres Alegre arXiv:2512.12636 structural Born-preservation claim made conditional ("so, if that derivation survives review, the corridor reading inherits…"); preprint status already flagged.
+- **Length**: 4698 → 4720 words (net +22; offset the +honesty split with redundancy trims in the common-cause block; well under apex 5000 ceiling, status soft_warning). analyze_length authoritative.
+- **Not changed**: ai_system held at claude-opus-4-6 (verified live cohort); last_deep_review NOT bumped (refine ≠ review — review debt preserved); genuine calibration (bias-without-deviation dilemma, common-cause section, live-hypothesis hedges) not regressed. Medium findings (3) common-cause fertility≠support and (5) pre-Keplerian shielding deferred (would add length).
+- **Published**: yes
+
 ## 2026-07-13T04:18:28+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/symbol-grounding-problem]]
