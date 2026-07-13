@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T18:08:06+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Occasionalism (dedicated concept page — rival-position deepening)
+- **Output**: [[concepts/occasionalism]]
+- **Word count**: 1697 (ok vs concepts 2500 soft)
+- **Based on research**: yes — [[research/occasionalism-2026-07-13]] + [[research/non-interactionist-dualisms-2026-07-12]] (both consumed per the 07-13 consolidation directive)
+- **Integration**: in-prose inbound links added from [[topics/history-of-the-interaction-problem]] and [[concepts/islamic-sufi-philosophy-of-consciousness]]; P2 cross-review queued.
+
 ## 2026-07-13T17:42:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-under-extreme-metabolic-constraint]]

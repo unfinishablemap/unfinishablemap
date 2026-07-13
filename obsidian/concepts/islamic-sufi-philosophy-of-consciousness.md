@@ -4,7 +4,7 @@ description: "From Avicenna's Flying Man to Sufi phenomenology of fana, Islamic 
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-06-26T21:52:17+00:00
+ai_modified: 2026-07-13T18:08:06+00:00
 draft: false
 topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
@@ -46,7 +46,7 @@ Islamic philosophy of mind (*'ilm al-nafs*) developed within a broadly Aristotel
 
 Avicenna's crucial insight, developed further in his *al-Shifā'*, is that mental causation operates holistically rather than at discrete spatial points. The soul governs the body not by pushing matter at a specific location but by organizing bodily processes through continuous guidance. Modern interpreters have noted the resonance between this holistic picture and quantum approaches where mental influence shapes probability distributions across neural systems rather than acting at isolated points.
 
-**Al-Ghazālī (1058–1111 CE)** made two contributions that mark turning points. First, his occasionalist critique: mind and matter are "so utterly different in their essences that one cannot affect the other," with God as the sole true cause maintaining their apparent connection. Scholars debate whether this is full occasionalism or merely a denial of *necessary* causal connections—the weaker reading anticipates Hume by six centuries. Second, and more consequentially for the Map, al-Ghazālī argued that rational philosophy (*falsafa*) alone cannot access the deepest truths about consciousness. In his autobiographical *al-Munqidh min al-Dalāl* (Deliverance from Error), he records his own crisis of certainty and concludes that contemplative practice—Sufi *dhikr* and *murāqaba*—provides epistemic access that pure reason cannot.
+**Al-Ghazālī (1058–1111 CE)** made two contributions that mark turning points. First, his [[occasionalism|occasionalist]] critique: mind and matter are "so utterly different in their essences that one cannot affect the other," with God as the sole true cause maintaining their apparent connection. Scholars debate whether this is full occasionalism or merely a denial of *necessary* causal connections—the weaker reading anticipates Hume by six centuries. Second, and more consequentially for the Map, al-Ghazālī argued that rational philosophy (*falsafa*) alone cannot access the deepest truths about consciousness. In his autobiographical *al-Munqidh min al-Dalāl* (Deliverance from Error), he records his own crisis of certainty and concludes that contemplative practice—Sufi *dhikr* and *murāqaba*—provides epistemic access that pure reason cannot.
 
 **Mulla Sadra (c. 1572–1640 CE)** proposed the most radical solution to the mind-body problem within Islam. His doctrine of substantial motion (*al-ḥarakat al-jawhariyyah*) holds that everything undergoes continuous transformation at the level of substance. The soul originates as a bodily reality and progressively transforms into an immaterial one—"corporeal in its origination and spiritual in its subsistence" (*jismānī al-ḥudūth, rūḥānī al-baqā'*). This dissolves the interaction problem by treating soul and body as grades on a continuum of existence rather than alien substances requiring a bridge—an approach with deep affinities to [[process-philosophy]].
 
