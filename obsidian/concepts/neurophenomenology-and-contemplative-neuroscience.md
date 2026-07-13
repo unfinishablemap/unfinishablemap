@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-06-18T21:15:31+00:00
+ai_modified: 2026-07-13T03:19:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author: Andy Southgate
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-18T21:15:31+00:00
+last_deep_review: 2026-07-13T03:19:17+00:00
 coalesced_from:
   - "/concepts/neurophenomenology/"
   - "/concepts/contemplative-neuroscience/"
@@ -74,7 +74,7 @@ Long-term meditators show altered brain structure and function:
 
 **Structural changes (under scrutiny)**: Earlier studies reported greater cortical thickness in frontal and temporal areas[^lazar], particularly right anterior ventral insula (meta-analysis of 25 MRI studies, Cohen's d ~ 0.8).[^pernet] However, Kral et al. (2022), testing 218 participants with both waitlist and active controls in *Science Advances*, found no structural brain changes from 8-week MBSR—no changes in grey matter volume, density, or cortical thickness. The earlier positive findings may reflect small samples, lack of active controls, and circular analysis. Cross-sectional differences in long-term practitioners may reflect pre-existing traits rather than practice-induced changes.
 
-**Functional connectivity**: Increased connectivity between [[default-mode-network|DMN]], salience network, and central executive network.[^parkinson] Changes persist at baseline resting state, not just during meditation.[^brewer][^muller]
+**Functional connectivity**: Increased connectivity between [[default-mode-network|DMN]], salience network, and central executive network.[^bremer2022] Changes persist at baseline resting state, not just during meditation.[^brewer][^muller]
 
 **Dose-response**: Weng et al. (2013) found that ~7 hours of compassion training (two weeks, 30 min daily) altered neural responses to suffering and increased altruistic behaviour.[^weng] However, 8-week MBSR may produce only functional changes; structural changes require sustained practice over months to years.[^pernet]
 
@@ -231,7 +231,7 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 1. Lutz, A., Greischar, L.L., Rawlings, N.B., Ricard, M., & Davidson, R.J. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*, 101(46), 16369-16373.
 1. Müller, V.I. et al. (2022). Meditation-induced effects on whole-brain structural and effective connectivity. *Brain Structure and Function*, 227, 2087-2102.
 1. Nisbett, R.E. & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
-1. Parkinson, T.D. et al. (2022). Mindfulness meditation increases default mode, salience, and central executive network connectivity. *Scientific Reports*, 12, 13219.
+1. Bremer, B. et al. (2022). Mindfulness meditation increases default mode, salience, and central executive network connectivity. *Scientific Reports*, 12, 13219.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
 1. Sandved-Smith, L., Bogotá, J.D., Hohwy, J., Kiverstein, J., & Lutz, A. (2025). Deep computational neurophenomenology: a methodological framework for investigating the how of experience. *Neuroscience of Consciousness*, 2025(1), niaf016.
 1. Pernet, C.R., Belov, N., Delorme, A., & Zammit, A. (2021). Mindfulness related changes in grey matter: a systematic review and meta-analysis. *Brain Imaging and Behavior*, 15(5), 2720-2730.
@@ -245,7 +245,7 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 [^lazar]: Lazar, S.W. et al. (2005). Meditation experience is associated with increased cortical thickness. https://pmc.ncbi.nlm.nih.gov/articles/PMC1361002/
 [^pernet]: Pernet, C.R. et al. (2021). Mindfulness related changes in grey matter. https://link.springer.com/article/10.1007/s11682-021-00453-4
 [^brewer]: Brewer, J.A. et al. (2011). Meditation experience and default mode network. https://www.pnas.org/doi/10.1073/pnas.1112029108
-[^parkinson]: Parkinson, T.D. et al. (2022). Mindfulness meditation network connectivity. https://www.nature.com/articles/s41598-022-17325-6
+[^bremer2022]: Bremer, B. et al. (2022). Mindfulness meditation network connectivity. https://www.nature.com/articles/s41598-022-17325-6
 [^muller]: Müller, V.I. et al. (2022). Meditation-induced effects on connectivity. https://pmc.ncbi.nlm.nih.gov/articles/PMC9232427/
 [^davidson]: Davidson, R.J. et al. Compassion meditation changes the brain. https://news.wisc.edu/study-shows-compassion-meditation-changes-the-brain/
 [^weng]: Weng, H.Y. et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180. https://journals.sagepub.com/doi/abs/10.1177/0956797612469537

@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T03:19:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
+- **Word count**: 3031 → 3031 (word-neutral; wrong-author metadata correction)
+- **Critical issues addressed**: 1 (wrong-author citation, corrected)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-13-neurophenomenology-and-contemplative-neuroscience]]
+- **Notes**: 9th pass; targeted citation/attribution/quote/currency pass on the DMN-connectivity cluster prior archives had not explicitly logged. ONE real wrong-author defect FIXED (survived 8 reviews): "Parkinson, T.D. et al. (2022), *Scientific Reports* 12:13219" is actually **Bremer, B. et al.** — title/venue/volume/DOI all correct, only first author wrong. Verified Nature + PMC9346127 (Bremer, Wu, Mora Álvarez, Hölzel...Koch); "Parkinson TD" is ref-38 INSIDE the Bremer paper → author-conflation (analogue of the 06-04 Pernet/Sezer fix), NOT fabrication. Reference + footnote re-attributed; footnote key `[^parkinson]`→`[^bremer2022]` (avoids `[^brewer]` collision). Also publisher-verified real-correct this pass: Garrison 2015 (CABN 15:712-720), Brewer 2011 (PNAS 108:20254-20259), Lazar 2005 (NeuroReport 16(17):1893-1897); Varela-1996 coinage + verbatim subtitle re-confirmed. `find_superlative_claims` empty → no currency action; Kral-2022 structural-null calibration intact; no possibility/probability slippage. Only body quote (Varela subtitle) verbatim-correct. ai_system HELD claude-opus-4-6 (metadata fix ≠ re-authoring); both ai_modified + last_deep_review bumped (real fix). Length soft_warning (121%) persists — human length-decision item, not auto-condense.
+
 ## 2026-07-13T03:01:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/epistemology-of-convergence-arguments]]
