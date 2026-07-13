@@ -20,6 +20,7 @@ description: Neutral monism (Mach, James, Russell) builds mind and matter from a
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-13 18:24:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

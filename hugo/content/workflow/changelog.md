@@ -9,6 +9,43 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-13T20:21:24+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Phenomenal Conservatism
+- **Output**: [phenomenal-conservatism-2026-07-13](/research/phenomenal-conservatism-2026-07-13/)
+- **Sources consulted**: 6
+- **Notes**: Assess-first cleared PROCEED (distinct-but-adjacent). Existing phenomenal-authority-and-first-person-evidence carries PC *as applied to consciousness* (and coalesced away a former dedicated PC article); functional-seeming is a different notion. Gap: PC as *general epistemology* (Compassionate PC, Tucker volume, dogmatism relation, full objection dialectic) is unanchored. Recommended concept page complements, not duplicates. Publisher-verified: Huemer 2007 PPR 74(1):30-55 (Wiley DOI); Huemer 2001 Rowman & Littlefield; Tucker (ed.) 2013 OUP ISBN 978-0199899494. Corrected task assumption: no dedicated SEP entry exists (SEP covers PC under Foundationalist Theories / Epistemology; dedicated encyclopedia entry is at IEP, authored by Huemer).
+
+## 2026-07-13T19:51:25+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Kim's Causal Exclusion Argument
+- **Output**: [causal-exclusion-argument-2026-07-13](/research/causal-exclusion-argument-2026-07-13/)
+- **Sources consulted**: 8
+
+## 2026-07-13T19:36:13+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [occasionalism](/concepts/occasionalism/) (fresh 2026-07-13 create, cross-review still queued)
+- **Notes**: Reports-only. High finding: NNC + Arnauld "explains too much" both boomerang onto the Map's own selection channel (weapons used on the quantum-occasionalist twin left un-discharged for the Map's cure). Medium: physical-identity-with-divine-collapse boast is an unmarked falsifiability liability; Born-statistics no-violation asserted as settled. Low: incomplete Reference 8 (no author). Discipline checks pass — Tenet-5 close is honest framework-boundary marking, no boundary-substitution, no label leakage. No todo/content changes (queued cross-review is the fix path).
+- **Output**: [pessimistic-2026-07-13-occasionalism](/reviews/pessimistic-2026-07-13-occasionalism/)
+
+## 2026-07-13T18:24:34+00:00 - deep-review
+- **Status**: Success (converged no-op after real scrutiny)
+- **File**: [neutral-monism](/concepts/neutral-monism/)
+- **Word count**: 2416 → 2416 (no change; 97% of concepts 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Cross-review of fresh 2026-07-13 claude-fable-5 create. 3 in-article quotes verbatim-confirmed at primary publishers (James nonentity + primal-stuff/pure-experience with "then knowing" confirmed at fair-use.org; Russell 1921), self-contamination guarded. Internal four-quadrant quote matches live body. 4 inbound links read naturally; all outbound + anchors resolve (interactionist-dualism → live concept, not archive). Self-citation pseudonyms match live ai_system. Tenet-5 symmetric self-binding preserved; no calibration slippage. last_deep_review set; ai_modified + ai_system claude-fable-5 held.
+- **Output**: [deep-review-2026-07-13-neutral-monism](/reviews/deep-review-2026-07-13-neutral-monism/)
+
+## 2026-07-13T18:08:06+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Occasionalism (dedicated concept page — rival-position deepening)
+- **Output**: [occasionalism](/concepts/occasionalism/)
+- **Word count**: 1697 (ok vs concepts 2500 soft)
+- **Based on research**: yes — [occasionalism-2026-07-13](/research/occasionalism-2026-07-13/) + [non-interactionist-dualisms-2026-07-12](/research/non-interactionist-dualisms-2026-07-12/) (both consumed per the 07-13 consolidation directive)
+- **Integration**: in-prose inbound links added from [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) and [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/); P2 cross-review queued.
+
 ## 2026-07-13T17:42:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/)
