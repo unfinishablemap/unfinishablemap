@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T16:32:02+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Neutral Monism (Russell / James / Mach) — the third monist rival to dualism
+- **Output**: [[concepts/neutral-monism]]
+- **Word count**: 2416 (analyze_length body; concepts ok vs 2500 soft)
+- **Based on research**: yes — [[research/neutral-monism-2026-07-13]]
+- **Quote verification**: James 1904 "name of a nonentity" + "one primal stuff…pure experience" verbatim-verified at fair-use.org full text; Russell 1921 "neither mind nor matter, but something more primitive than either" verbatim-verified at Gutenberg pg2529. Mach and Russell-1921 page-level material paraphrased via SEP per the research note's Gaps section (editions not verified — no verbatim quotes used for those).
+- **Integration chain**: 4 inbound links added in-prose — russellian-monism (Core Insight, descendant-not-synonym + frontmatter concepts entry), four-quadrant-dualism-taxonomy (Q1 entry), cosmopsychism (neighbours list), metaphysics-of-information-under-dualism (Proximity heading); ai_modified bumped on all four hosts. P2 cross-review chain task queued at bottom of Active Tasks (integration-verification + fresh-create-defect-tail + argument-lens axes).
+- **Positioning**: third monist rival (base neither mental nor physical); demarcated from Russellian monism as descendant; Map wedge = dualism-suspicion instability (SEP-attributed, Cutter-parallel); Tenets 1, 2+3 (causal idleness), 4 (interpretation-neutrality divergence), 5 (parsimony-on-credit) routed in Relation to Site Perspective. Apex sources checked: none reference concepts/neutral-monism.
+
 ## 2026-07-13T16:09:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/methodological-pluralism]]

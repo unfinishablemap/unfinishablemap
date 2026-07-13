@@ -4,7 +4,7 @@ description: "What is information's ontological status when mind and matter are 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-07-13T16:30:18+00:00
 last_deep_review: 2026-06-27T02:58:00+00:00
 draft: false
 topics:
@@ -90,7 +90,7 @@ The interface-medium position faces its own serious challenges:
 
 **The specification problem.** Saying information is the "medium" of interaction relocates rather than solves [[the-interface-problem|the interface specification problem]]. Which physical information states serve as interface points? What determines which neural patterns have phenomenal correlates and which do not? The view needs selection criteria it does not yet provide.
 
-**Proximity to neutral monism.** If information is the structural correspondence between physical and phenomenal, a critic can ask: what distinguishes this from Option 3 with different labelling? The Map's answer is that information-as-interface is a *relation* between two irreducible domains, not a *substance* underlying them. But this distinction is subtle, and the view must continually demonstrate it rather than merely assert it.
+**Proximity to [[neutral-monism|neutral monism]].** If information is the structural correspondence between physical and phenomenal, a critic can ask: what distinguishes this from Option 3 with different labelling? The Map's answer is that information-as-interface is a *relation* between two irreducible domains, not a *substance* underlying them. But this distinction is subtle, and the view must continually demonstrate it rather than merely assert it.
 
 **The direction problem.** The view claims consciousness biases which physical information states become actual. But "biasing" is itself an informational notion—it involves selecting among alternatives. If the interface medium is what makes selection possible, and selection is what produces the interface, the account risks circularity. Breaking this circle requires showing that the psychophysical laws governing the interface are fundamental rather than derived from either domain.
 

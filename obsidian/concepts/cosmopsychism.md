@@ -4,7 +4,7 @@ description: "Cosmopsychism is priority-monist panpsychism: the cosmos as the on
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T07:49:25+00:00
+ai_modified: 2026-07-13T16:30:18+00:00
 draft: false
 topics: []
 concepts: ["panpsychism", "combination-problem", "russellian-monism"]
@@ -45,7 +45,7 @@ Cosmopsychism is easily confused with four adjacent positions. Keeping them dist
 
 - **Micropsychism** locates fundamental consciousness at the *micro* level; macro-minds are combined from micro-minds. Cosmopsychism inverts the arrow — fundamentality sits at the *top*, and finite minds are decomposed from the whole. This is the sharpest contrast, and the one that generates cosmopsychism's signature problem (below).
 - **Analytic idealism** (mind-centric metaphysics; e.g. Kastrup) holds that consciousness is *all there is* and the physical is a representation within mind. Cosmopsychism is typically framed as a Russellian monism instead: it can keep a physical world whose *intrinsic* nature is experiential, rather than dissolving matter into mind. The boundary is porous — some read constitutive cosmopsychism as idealism by another name. The Map's survey of these options is in [[analytic-idealism-and-mind-centric-metaphysics|the mind-centric metaphysics comparison]].
-- **Neutral monism** makes the fundamental stuff neither mental nor physical but neutral. Cosmopsychism, by contrast, makes the cosmic base *phenomenal* (or protophenomenal), not neutral.
+- **[[neutral-monism|Neutral monism]]** makes the fundamental stuff neither mental nor physical but neutral. Cosmopsychism, by contrast, makes the cosmic base *phenomenal* (or protophenomenal), not neutral.
 - **Open individualism** (Kolak) claims there is numerically *one* subject who is *identical* across all persons. This is an **identity** thesis, and it is not the same as cosmopsychism's **grounding** thesis. Cosmopsychism says finite subjects are *grounded in* or *derived from* the cosmic subject — they can still be numerically distinct from it and from each other; open individualism says they literally *are* the same subject. The distinction is developed in [[open-individualism-and-the-de-combination-problem|the de-combination bridge article]], and it is worth holding onto: a grounding relation can hold between many things and one, whereas an identity relation collapses the many into the one.
 
 ## The De-Combination Problem

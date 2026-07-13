@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-18T16:49:06+00:00
+ai_modified: 2026-07-13T16:30:18+00:00
 draft: false
 topics:
   - dualism
@@ -85,7 +85,7 @@ A scope note before the quadrants: the taxonomy ranges over non-reductive positi
 *"Only what we need, on both sides, and no more."*
 
 - **Bradford Saad's delegatory dualism** (2025): experiences preempt physical states whose *default causal profiles* match them, so neither side inflates beyond what preemption requires. The underlying structural template is [[trumping-preemption]] — Schaffer's (2000) category of redundant causation in which a higher-order rule selects one of two sufficient processes as authoritative — which lets the physical base remain counterfactually sufficient (no max-physical move into hidden variables) while the experience adds only causal authority, not subliminal content (no max-mind move into thick mental layering). Saad's framework does not itself commit to a quantum interpretation, though the Map's reading integrates it with quantum indeterminacy (see [[delegatory-dualism]] and [[delegatory-causation]]). The most worked-out recent Q1 candidate in the literature known to us.
-- **Neutral monism** (Mach; late James; Russell's transitional phase): both mind and matter supervene on a neutral base, neither side ontologically primary. Technically monist but behaves like deflationary dualism along both axes.
+- **[[neutral-monism|Neutral monism]]** (Mach; late James; Russell's transitional phase): both mind and matter supervene on a neutral base, neither side ontologically primary. Technically monist but behaves like deflationary dualism along both axes — the dedicated page develops why the Map reads that behaviour as instability rather than economy.
 - **Deflationary readings of Russellian monism**: some readings treat quiddities as ontologically lean placeholders rather than full phenomenal stuff.
 - **Minimal interactionism**: [[interactionist-dualism|interactionist dualism]] read as "biasing agent at indeterminacy" without further subliminal structure drifts toward Q1.
 
