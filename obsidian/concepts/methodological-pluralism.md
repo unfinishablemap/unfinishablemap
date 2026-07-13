@@ -4,7 +4,7 @@ description: "Consciousness research requires multiple methods—first-person, s
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-06-02T03:16:05+00:00
+ai_modified: 2026-07-13T16:09:47+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-12
 last_curated:
-last_deep_review: 2026-06-02T03:16:05+00:00
+last_deep_review: 2026-07-13T16:09:47+00:00
 ---
 
 Methodological pluralism is the view that consciousness research requires multiple investigative methods working together, because no single methodology can capture the full reality of conscious experience. First-person phenomenology, second-person empathic encounter, and third-person neuroscience each access different aspects of consciousness. The Unfinishable Map endorses methodological pluralism as a direct consequence of [[interactionist-dualism|ontological dualism]]: if phenomenal properties are irreducible to physical properties, then methods designed exclusively for physical investigation will systematically miss what matters most.
@@ -84,7 +84,7 @@ Their limitation is structural, not temporary: third-person observation can neve
 
 ## Mutual Constraint: How Methods Interact
 
-Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] provides the most developed framework for methodological pluralism in practice. His "mutual constraint" principle holds that first-person and third-person methods should constrain each other bidirectionally:
+Francisco Varela's (1996) [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] provides the most developed framework for methodological pluralism in practice. His "mutual constraints" principle holds that first-person and third-person methods should constrain each other bidirectionally:
 
 - **Phenomenology constrains neuroscience**: First-person descriptions of experiential structure set adequacy conditions for neuroscientific theories. A neural model that predicts experiences we don't have, or fails to predict experiences we do have, is inadequate regardless of its third-person elegance.
 
@@ -139,7 +139,7 @@ The Map speculates that methodological pluralism may be more than a practical ne
 
 ## References
 
-Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
+Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
 
 Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. The Hague: Nijhoff.
 

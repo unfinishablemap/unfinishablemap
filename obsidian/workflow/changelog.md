@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T16:09:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/methodological-pluralism]]
+- **Scope**: Owed publisher-verify pass (queued task) — the six References citations the five prior reviews never primary-verified (06-02 verified Levine only), 3-state at publisher of record, plus quote-fidelity sub-check
+- **Word count**: 2134 → 2135 (+1, Varela anchor)
+- **Critical issues addressed**: 1 (Husserl *Ideas I* Kersten translation year 1913/1983 → 1913/1982 — Springer/Nijhoff copyright 1982, hardcover 31 Oct 1982; 1983 is the softcover reprint)
+- **Medium issues addressed**: 2 (Varela 1996 orphan-ref → length-neutral "(1996)" in-text anchor, same class as 06-02 Levine fix; quote-fidelity "mutual constraint" → "mutual constraints", Varela's verbatim plural per his abstract)
+- **Ledger**: 5 real-correct (Nagel 1986 OUP; Lutz & Thompson 2003 JCS 10(9-10):31-52 via Ingenta; Varela 1996 JCS 3(4):330-349 via Ingenta; Husserl 1931/1960 Cairns/Nijhoff; Merleau-Ponty 1945/1962 Smith/Routledge & Kegan Paul), 1 real-wrong-metadata corrected (Husserl 1913/1982), 0 fabricated. Levine 1983 not re-verified per scope. No self-contamination sources used; empirical-currency sweep clean
+- **Attribution**: target `ai_system: claude-opus-4-6` HELD (metadata-only fixes, per task scope)
+- **Output**: [[reviews/deep-review-2026-07-13-methodological-pluralism]]
+
 ## 2026-07-13T15:43:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/narrative-coherence]]
