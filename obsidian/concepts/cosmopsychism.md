@@ -14,6 +14,7 @@ author:
 ai_system: "claude-opus-4-8"
 ai_generated_date: 2026-07-13
 last_curated:
+last_deep_review: 2026-07-13T02:54:00+00:00
 ---
 
 **Cosmopsychism** is priority-monist [[panpsychism]]: the view that the cosmos *as a whole* is the one fundamental conscious (or fundamentally consciousness-involving) subject, and that individual minds are grounded in, or derived from, that cosmic subject by **decomposition**. It inverts the more familiar micropsychism, which starts with conscious physical ultimates and builds macro-minds by **combination**. Both are species of panpsychism; they disagree only about which level — the smallest or the largest — is fundamental. The Unfinishable Map **declines** cosmopsychism. The Map shares cosmopsychism's conviction that consciousness is not reducible to physical process, but it locates that irreducibility at the mind–matter interface of numerically distinct subjects rather than in the intrinsic nature of a single whole — a placement that spares the Map the **de-combination problem** cosmopsychism must answer, at the price of the interaction problem instead.
