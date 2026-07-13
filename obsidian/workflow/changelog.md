@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T02:13:04+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Vitalism (canonical vitalism-disanalogy hub)
+- **Output**: [[concepts/vitalism]]
+- **Word count**: 2209 (concepts: 88% of 2500 soft, well under 3500 hard)
+- **Based on research**: yes — [[research/vitalism-2026-07-13]]
+- **Cites web-verified**: Dennett "over and above / solution to the imagined hard problem" verbatim at LSE PDF of the 1996 JCS reply (source: Consciousness Explained 1991 pp.281-2, correctly attributed); Chalmers "explanandum in its own right" verbatim at consc.net/papers/facing.html; Garrett PPR 72(3):576-588 (2006) confirmed at Wiley. No fabricated block-quotes.
+- **Integration**: reciprocal [[vitalism]] inbound links added to reductionism, mysterianism, type-specificity, the-convergence-argument-for-dualism, epistemology-of-convergence-arguments; cross-review task queued (P2).
+
 ## 2026-07-13T01:45:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 11 read in full + corpus-wide red-flag grep (316 topics, 301 concepts, 9 positions)

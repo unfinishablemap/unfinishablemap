@@ -48,7 +48,7 @@ Type-specificity is what the placeholder *lacks*. Where the explanandum is "this
 
 ## The Vitalism Disanalogy {#vitalism}
 
-The original deployment is in [[the-convergence-argument-for-dualism|the convergence argument for dualism]]: type-specificity is what distinguishes the consciousness case from past reductive successes, including the case of vitalism.
+The original deployment is in [[the-convergence-argument-for-dualism|the convergence argument for dualism]]: type-specificity is what distinguishes the consciousness case from past reductive successes, including the case of [[vitalism]].
 
 A vitalist in 1820 could have observed accurately that the chemistry-life gap had not yet narrowed. The temporal observation — *no reduction has yet been found* — is symmetric across consciousness and vitalism. The disanalogy is not temporal. It is structural, and it lies in the shape of the explanandum:
 

@@ -156,7 +156,7 @@ The [[topics/animal-consciousness#why-the-inference-is-stronger-for-animals-than
 
 The convergence argument is not a proof. Several limitations deserve acknowledgment.
 
-**Convergence on falsehood is possible.** Independent arguments once converged on vitalism — the view that living things require a non-physical "vital force." Life seemed irreducible to chemistry, purposive behaviour resisted explanation, no mechanism for heredity was known. The convergence was genuine, but wrong.
+**Convergence on falsehood is possible.** Independent arguments once converged on [[vitalism]] — the view that living things require a non-physical "vital force." Life seemed irreducible to chemistry, purposive behaviour resisted explanation, no mechanism for heredity was known. The convergence was genuine, but wrong.
 
 A vitalist in 1820 could have accurately observed that the chemistry-life gap had not narrowed. The disanalogy distinguishing the consciousness case is not temporal but structural: the *specification structure of the explanandum*.
 
