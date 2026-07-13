@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T19:36:13+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/occasionalism]] (fresh 2026-07-13 create, cross-review still queued)
+- **Notes**: Reports-only. High finding: NNC + Arnauld "explains too much" both boomerang onto the Map's own selection channel (weapons used on the quantum-occasionalist twin left un-discharged for the Map's cure). Medium: physical-identity-with-divine-collapse boast is an unmarked falsifiability liability; Born-statistics no-violation asserted as settled. Low: incomplete Reference 8 (no author). Discipline checks pass — Tenet-5 close is honest framework-boundary marking, no boundary-substitution, no label leakage. No todo/content changes (queued cross-review is the fix path).
+- **Output**: [[reviews/pessimistic-2026-07-13-occasionalism]]
+
 ## 2026-07-13T18:24:34+00:00 - deep-review
 - **Status**: Success (converged no-op after real scrutiny)
 - **File**: [[concepts/neutral-monism]]
