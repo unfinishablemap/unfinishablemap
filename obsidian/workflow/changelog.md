@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T17:26:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Self-Representational (Same-Order) Theory of Consciousness — Kriegel's reductive rival
+- **Output**: [[concepts/self-representational-theory-of-consciousness]]
+- **Word count**: 1980 (analyze_length body; concepts ok vs 2500 soft)
+- **Based on research**: yes — [[research/self-representational-theory-of-consciousness-2026-07-13]]
+- **Attribution discipline**: Kept publisher-verified metadata precise (Kriegel 2009 OUP; Kriegel & Williford 2006 MIT; Gennaro 2012 MIT; Giustina 2022 Phil Studies 179(12) 3831-3863). Per the research note's Gaps section, did NOT assert Kriegel 2003 CJP pages, 2006-volume chapter titles, the Topoi author name, or Picciuto 2011 metadata — paraphrased rather than invent. Kriegel-2009 thesis given as short publisher-summary quote ("always represent themselves, whereas unconscious ones do not"). Aristotle "we perceive that we see and hear" + Brentano nebenbei/secondary-object with the "standardly claimed as the lineage" scholarly caution.
+- **Taxonomy precision**: Did not flatten — Kriegel/Williford (third camp) vs Gennaro WIV ("version of HOT theory") vs SEP (files under higher-order); tracked difference stated as whether the awareness-conferring component is itself conscious (Kriegel yes, peripherally; Gennaro no).
+- **Map reading**: framework-relative lead (no bald phenomenal-absence); same-order reflexivity describes for-me-ness but re-sites rather than closes the hard problem; strongest card = defenders' drift from representation to acquaintance (Williford, Giustina, later Kriegel) converging on phenomenal-presentation. Tenet 1 primary + Tenet 3 secondary in Relation to Site Perspective.
+- **Integration chain**: 2 inbound links added in-prose — higher-order-theories (Misrepresentation Problem section, same-order dodge) + phenomenology-of-recursive-self-awareness (regress-resolution paragraph); ai_modified bumped on both hosts (ai_system unchanged on both — minor cross-link edits, not re-authoring). P2 cross-review chain task queued at bottom of Active Tasks (integration-verification + fresh-create-defect-tail + argument-lens axes). Apex sources checked: none reference concepts/self-representational-theory-of-consciousness. 2 self-citations (higher-order-theories → Oquatre-cinq; phenomenal-presentation → Oquatre-huit).
+
 ## 2026-07-13T16:32:02+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Neutral Monism (Russell / James / Mach) — the third monist rival to dualism

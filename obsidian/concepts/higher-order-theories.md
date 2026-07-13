@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-07-11T12:35:00+00:00
+ai_modified: 2026-07-13T17:25:00+00:00
 draft: false
 last_deep_review: 2026-07-11T09:56:00+00:00
 topics:
@@ -65,6 +65,8 @@ If having a thought about something made it conscious, then thinking about a roc
 ### The Misrepresentation Problem
 
 What happens when a higher-order thought targets a mental state that doesn't exist? Rosenthal accepts consciousness can occur even without a first-order state—"targetless" higher-order thoughts produce genuine (if hallucinatory) experience. Critics argue this severs consciousness from its supposed grounding in first-order content.
+
+The [[self-representational-theory-of-consciousness|self-representational (same-order) theory]] was built to dodge exactly this objection: if a conscious state represents *itself* rather than being represented by a distinct higher-order state, it cannot target a non-existent state, because the target simply is the state doing the targeting. Whether that move genuinely escapes misrepresentation—or merely relocates it *inside* the complex state—is one of the standard disputes between the two camps.
 
 ### Animal and Infant Consciousness
 
