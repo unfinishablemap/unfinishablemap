@@ -67,6 +67,7 @@ This also clarifies the Map's relation to eliminativism. Where [[eliminative-mat
 - [[rational-normativity]] — The space of reasons and why normativity resists relocation into causes
 - [[eliminative-materialism]] — The reductive endpoint Sellars and the Map both refuse
 - [[argument-from-reason]] — Whether rational causation survives inside a purely physical order
+- [[conceptual-role-semantics]] — Brandom's inferentialism as the Sellarsian descendant, and why the Map resists its naturalising endpoint
 
 ## References
 

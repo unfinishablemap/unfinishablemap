@@ -245,6 +245,7 @@ Intentionality connects to all five foundational tenets:
 - [[hard-problem-of-consciousness]] — The explanatory gap that intentionality parallels
 - [[hard-problem-of-content]] — Hutto and Myin's structural argument that naturalism cannot deliver semantic content; PIT and REC are converse responses
 - [[the-naturalisation-failure-for-content]] — Topic-level treatment: the dilemma against covariation, teleosemantics, and predictive processing, and what the Map inherits from the diagnosis
+- [[conceptual-role-semantics]] — Content from inferential role, and the Map's reply that correct-inference norms are already semantic
 - [[ai-consciousness]] — Why original intentionality matters for AI
 - [[concepts/functionalism]] — A view that PIT challenges
 - [[qualia]] — The phenomenal properties that may ground intentionality

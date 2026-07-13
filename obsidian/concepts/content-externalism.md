@@ -55,6 +55,7 @@ One further connection, and one honest limitation. The connection is to mental c
 - [[functionalism]] — where the corpus already deploys the externalist move against narrow functional role
 - [[concession-convergence]] — the pattern of materialist programmes retreating from internalist physicalism
 - [[the-naturalisation-failure-for-content]] — the topic-level dilemma against covariation, teleosemantics, and predictive processing
+- [[conceptual-role-semantics]] — the two-factor split that pairs narrow inferential role with a wide referential factor to accommodate externalism
 
 ## References
 

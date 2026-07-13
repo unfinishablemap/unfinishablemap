@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T08:06:18+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Conceptual Role Semantics and the Naturalisation of Content
+- **Output**: [[concepts/conceptual-role-semantics]]
+- **Word count**: 1865 (75% of concepts 2500 soft)
+- **Based on research**: yes — [[research/conceptual-role-semantics-2026-07-13]]
+- **Integration**: 6 inbound links added (in-prose to topics/the-naturalisation-failure-for-content; Further Reading in concepts/hard-problem-of-content, teleosemantics, intentionality, sellars-manifest-and-scientific-images, content-externalism); cross-review owed
+
 ## 2026-07-13T07:49:25+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/cosmopsychism]]
