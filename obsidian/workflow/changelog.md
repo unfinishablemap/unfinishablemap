@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T06:04:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Content Externalism and the Twin Earth Argument
+- **Output**: [[research/content-externalism-twin-earth-2026-07-13]]
+- **Sources consulted**: 7 (all publisher-verified: Putnam 1975, Burge 1979, Burge 1986, Dretske 1995, Dretske 1996, Farkas 2008, SEP)
+
 ## 2026-07-13T05:48:15+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-normative-force]]
