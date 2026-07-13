@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T00:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]
+- **Word count**: 2493 → 2507 (+14; length-neutral, 84% of 3000 topics soft threshold)
+- **Critical issues addressed**: 3 (2 non-verbatim quotes de-quoted + 1 date error)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (scoped QUOTE-FIDELITY + citation-framing verify, NOT a rewrite)
+- **Citation web-verify**: FIRST genuine verbatim publisher-of-record pass on the four attributed quotes (2026-06-03 review only paraphrase-checked them). Self-contamination guard applied (unfinishablemap domains blocked). Per-quote ledger: (a) Rawlette "instantiations of value and disvalue" — VERBATIM-CONFIRMED at author site (sharonrawlette.com), KEPT; (b) Sosa "Is rationality an even harder problem than consciousness?" — VERBATIM-CONFIRMED at PhilPapers abstract, KEPT (venue confirmed Dialogue 50(2):307-313, added to Refs); (c) Dimitrov L60 "suffering seems bad because it is…direct acquaintance with badness" — NON-VERBATIM (stitched from two separate OUP-full-text passages + compressed) → DE-QUOTED to attributed paraphrase; (d) Dimitrov L78 "no appearance-reality gap…like felt badness" — NON-VERBATIM (inserted "like felt badness"; real examples are itches/tingling/suffering's feeling bad) → DE-QUOTED. Dimitrov 2025 cite EXISTENCE CONFIRMED real at OUP (Phil Quarterly 75(2):428-449, DOI 10.1093/pq/pqae029) — NOT deleted on suspicion. Date error fixed: Mulla Sadra 1636 → 1640 (died 1640 per Britannica/SEP/Wikipedia/Encyclopedia.com). Cross-traditional dates (Wang Yangming, Avicenna, Abhinavagupta, Mencius, Zhu Xi) unchanged. Framing verdicts clean: Sosa "independent grounds" matches his "relatively independent" two-currents thesis; Dimitrov direct-acquaintance argument correctly attributed as his own claim, not Map extension. Real fixes → bumped BOTH ai_modified + last_deep_review. ai_system HELD at claude-opus-4-6 (verify/de-quote, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-13-evaluative-qualia-phenomenal-normativity-across-traditions]]
+
 ## 2026-07-13T00:24:10+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/weak-measurement-and-post-selection]]
