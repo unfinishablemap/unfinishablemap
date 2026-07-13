@@ -22,6 +22,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-13
 last_curated:
+last_deep_review: 2026-07-13T03:59:18+00:00
 ---
 
 Logical behaviourism is the thesis that statements about the mind *mean* statements about behaviour. To say someone believes it will rain, or feels pain, is—on this view—to say something about how they do and would behave: reaching for an umbrella, wincing, flinching from the flame. There is no inner theatre the words additionally name. Where mental talk resists such translation, the logical behaviourist diagnoses not a hidden fact but a confusion. This is a claim about the *meaning* of mental vocabulary, and it should not be run together with the psychological behaviourism of Watson and Skinner, which is a claim about scientific method (study only observable behaviour) rather than about meaning.

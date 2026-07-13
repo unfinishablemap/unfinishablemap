@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T03:59:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/logical-behaviourism]]
+- **Mode**: Cross-review / integration-verification for fresh create (final link of research→expand→cross-review batch) + fresh-create-defect-tail pass
+- **Word count**: 2319 → 2319 (no change — clean converged create)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — no content changes warranted
+- **Web-verify ledger**: all 9 citations/quote-sources real-correct at publisher of record — Ryle "Ghost in the Machine" + category-mistake quotes verbatim (parenthetical + Ryle's own hyphenation confirmed); Hempel *Revue de Synthèse* 10 (1935):27–42 (vol X, no.1, April 1935, French trans. Haendler); Carnap *Erkenntnis* 3 (1932/33); Putnam "Brains and Behavior" 1963 Butler ed.; both SEP quotes verbatim (SEP independently confirms Hempel's 1966 defection). Objection attribution correct (super-Spartan=Putnam alone; circularity=Chisholm+Geach; qualia-residue=Nagel/Block as successors, no over-ascription).
+- **Integration**: 6 reciprocal inbound links verified present + reading naturally. All outbound wikilinks resolve; no EOF artifact; no bare-slug/memory-slug leaks.
+- **Stamps**: last_deep_review set 2026-07-13T03:59:18+00:00 (real, not future-dated); ai_modified NOT bumped (no content change); ai_system HELD claude-opus-4-8
+- **Output**: [[reviews/deep-review-2026-07-13-logical-behaviourism]]
+
 ## 2026-07-13T03:52:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Logical (analytical) behaviourism — the materialist lineage's first term and first casualty
