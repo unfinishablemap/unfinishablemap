@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T08:15:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/sellars-manifest-and-scientific-images]]
+- **Word count**: 1668 → 1668 (+0, length-neutral; 67% of concepts 2500 soft)
+- **Critical issues addressed**: 1 (O'Shea citation metadata — real-wrong-metadata, fixed in place)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (DEFECTS-FIXED on citation metadata only)
+- **Web-verify**: 3 verbatim quotes + physical₁/physical₂ gloss primary-source confirmed; 6 citations verified (5 real-correct, 1 real-wrong-metadata fixed). Steer's O'Shea "should be 2007 Polity book" hypothesis overturned — real 2009 deVries-ed. OUP chapter (verify-your-own-correction discipline). ai_system HELD claude-opus-4-8.
+- **Output**: [[reviews/deep-review-2026-07-13-sellars-manifest-and-scientific-images]]
+
 ## 2026-07-13T08:06:18+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Conceptual Role Semantics and the Naturalisation of Content
