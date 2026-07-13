@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T11:56:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/conceptual-role-semantics]]
+- **Word count**: 1865 → 1945 (+80; 78% of concepts 2500 soft — growth is the task-mandated proves-too-much disarm)
+- **Critical issues addressed**: 2 — (1) SIX bare-slug markdown links `[text](slug)` in body (404-in-Hugo class, pass validator/sync) → all converted to wikilinks; (2) AXIS-3 proves-too-much gap: regress horn ("correct inference presupposes contentful norms") could be turned on the Map's own reliance on inferential norms → explicit disarm added (presupposing norms is not the failure; presupposing them while claiming to have *naturalised* content is — the irreducibly normative start is what the Map affirms and a naturalisation programme cannot grant itself)
+- **Medium issues addressed**: 4 — IEP "Roughly" hedge restored ("avowedly rough formulation"); banned "This is not X; it is Y." construct rephrased; normativity-of-reason thread wikilinked to [[consciousness-and-the-normativity-of-reason]]; description trimmed 205→150 chars
+- **Quote-verify**: both verbatim quotes verified live at PRIMARY publisher this run (IEP core-thesis quote at iep.utm.edu; Sellars "logical space of reasons" at SEP) — NOT from a Map page (self-contamination guard passed). Field 1977 philpapers URL FINLMA-6 flagged (FIN≠Field prefix) but web-verified REAL-CORRECT (genuine irregular ID). Other 7 cites note-verified same-day, NOT re-verified per task constraint. Self-cite Oquatre-sept cohort matches cited article's ai_system claude-opus-4-7.
+- **Integration**: all 6 inbound links grep-verified live + natural in hosts (incl. the in-prose naturalisation-failure add); all outbound wikilinks resolve. Axis-4 Tenet-1 framing PASS unchanged (CRS a genuine rival owed a response; reply flagged as the Map's own construction). Engagement w/ constitutive CRS: Mixed — Mode Two core (helps itself to correct-inference norms it has not earned as naturalist currency) + Mode Three close on the socially-instituted-norms residue; holism section is intra-naturalist balance, un-strawmanned. No label leakage.
+- **ai_system**: HELD claude-opus-4-8 (minor fixes + one task-mandated paragraph; not re-authored). ai_modified + last_deep_review both bumped to 2026-07-13T11:55:15 (real fixes; stamps ≤ real date -u).
+- **Output**: [[reviews/deep-review-2026-07-13-conceptual-role-semantics]]
+
 ## 2026-07-13T08:30:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/content-externalism]]
