@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T08:22:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/bohm-implicate-order-and-active-information]]
+- **Word count**: 1853 → 1857 (+4, length-neutral; 74% of concepts 2500 soft)
+- **Critical issues addressed**: 0 (no framing/calibration defects; determinism-cost + Landsman hedge well-calibrated)
+- **Medium issues addressed**: 3 (citation metadata, all real-wrong-metadata fixed in place, nothing deleted)
+- **Enhancements made**: 3 metadata completions — Landsman 2022 (ref 8) authorless→"Landsman, K. … *Found. Phys.* 52, 73"; Bohm 1990 (ref 4) "vol. 3"→"3(2–3), 271–286"; Pylkkänen & Hiley 2005 (ref 5) +pp. 7–26; in-body arXiv attribution "(Landsman 2022, …)"
+- **Web-verify**: 8 cites publisher-verified (arXiv/Springer/d-nb.info/T&F/Helsinki portal/SEP). arXiv:2202.12279 resolved = Landsman 2022, Found. Phys. 52:73 — journal-of-publication claim TRUE. soma-significance term + Pylkkänen-monist framing verified faithful. Engagement w/ Bohm–Pylkkänen monism: Mode Three (framework-boundary), natural prose, no label leakage. DEFECTS-FIXED (metadata only; framing/calibration CONVERGED-CLEAN)
+- **ai_system**: HELD claude-opus-4-8 (live-confirmed; not flipped on minor fixes)
+- **Output**: [[reviews/deep-review-2026-07-13-bohm-implicate-order-and-active-information]]
+
 ## 2026-07-13T08:15:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/sellars-manifest-and-scientific-images]]

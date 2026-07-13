@@ -4,7 +4,7 @@ description: "David Bohm's pilot-wave ontology, active information, and implicat
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-12T20:32:00+00:00
+ai_modified: 2026-07-13T08:22:04+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -21,6 +21,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-12
 last_curated:
+last_deep_review: 2026-07-13T08:22:04+00:00
 ---
 
 David Bohm's work supplies one of the four standing quantum-mind rivals the Map catalogues (alongside [[stapp-quantum-mind|Stapp's quantum Zeno model]], Penrose–Hameroff Orch-OR, and [[quantum-biology-and-neural-consciousness|quantum biology]]). It is the one the Map borrows from most and hosts least. Bohm developed three interlocking bodies of thought — the 1952 pilot-wave interpretation, the reading of the "quantum potential" as *active information*, and the *implicate order* metaphysics — that together offer a candidate channel for the kind of small, energy-conserving influence the Map's tenets require. Against this, Bohm's own reading is a neutral monism the Map must decline, and his mechanics is deterministic in a way that sits in genuine tension with conscious selection. This article separates what the Map takes from what it leaves.
@@ -68,7 +69,7 @@ The Map's engagement with Bohm is deliberately selective, and it splits along th
 **The determinism-versus-selection tension (a genuine cost).** This is where honesty matters most, because it is easy to paper over. Bohmian mechanics is deterministic and hidden-variable: a fully specified pilot wave plus definite initial positions leaves *no* room for a Born-rule-preserving conscious selection at measurement, because the outcome is already fixed by the initial configuration. This is in direct tension with the Map's picture of consciousness selecting among quantum-compatible outcomes. Adopting Bohmian ontology wholesale would therefore *undercut* the Map's selection mechanism, not support it — unless consciousness is deliberately located in one of two layers:
 
 1. **In the guidance itself.** If the active information partly constituting the quantum potential has a mental or proto-mental component, then consciousness enters through the guiding field rather than at a collapse event. This keeps the theory's structure but abandons the strict physicalism of the field — closer to what the Map wants, though it makes "active information" carry heavy metaphysical weight.
-2. **In the choice of initial configuration.** There is a live debate over whether Bohmian mechanics is *genuinely* deterministic. A recent argument (arXiv:2202.12279) holds that reproducing Born statistics requires an external stochastic sampling of the quantum-equilibrium distribution, reintroducing irreducible contingency at the level of *which* initial condition obtains. If that is right, the selection of the actual initial configuration is a candidate seam where a Born-preserving conscious contribution could live without breaking the dynamics.
+2. **In the choice of initial configuration.** There is a live debate over whether Bohmian mechanics is *genuinely* deterministic. A recent argument (Landsman 2022, arXiv:2202.12279) holds that reproducing Born statistics requires an external stochastic sampling of the quantum-equilibrium distribution, reintroducing irreducible contingency at the level of *which* initial condition obtains. If that is right, the selection of the actual initial configuration is a candidate seam where a Born-preserving conscious contribution could live without breaking the dynamics.
 
 Neither seam is free, and the Map should not pretend otherwise: each buys compatibility with the tenets at a real theoretical price, and the second depends on an unsettled foundational dispute. The Map's stance is to catalogue Bohm's apparatus as a borrowable channel and an instructive rival, not to host it as its own mechanism. What survives the borrowing is the form-directs-energy idea; what does not is the determinism, the no-collapse ontology, and the single-ground monism.
 
@@ -86,9 +87,9 @@ Neither seam is free, and the Map should not pretend otherwise: each buys compat
 1. Bohm, D. (1952). A Suggested Interpretation of the Quantum Theory in Terms of "Hidden" Variables. I and II. *Physical Review*, 85(2), 166–179 and 180–193.
 2. Bohm, D. (1980). *Wholeness and the Implicate Order*. Routledge.
 3. Bohm, D. & Hiley, B. J. (1993). *The Undivided Universe: An Ontological Interpretation of Quantum Theory*. Routledge.
-4. Bohm, D. (1990). A New Theory of the Relationship of Mind and Matter. *Philosophical Psychology*, vol. 3.
-5. Pylkkänen, P. & Hiley, B. J. (2005). Can Mind Affect Matter Via Active Information? *Mind and Matter*, 3(2).
+4. Bohm, D. (1990). A New Theory of the Relationship of Mind and Matter. *Philosophical Psychology*, 3(2–3), 271–286.
+5. Pylkkänen, P. & Hiley, B. J. (2005). Can Mind Affect Matter Via Active Information? *Mind and Matter*, 3(2), 7–26.
 6. Pylkkänen, P. T. I. (2007). *Mind, Matter and the Implicate Order*. Springer (The Frontiers Collection).
 7. Goldstein, S. Bohmian Mechanics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qm-bohm/
-8. Bohmian mechanics is not deterministic (2022). *Foundations of Physics*. arXiv:2202.12279.
+8. Landsman, K. (2022). Bohmian Mechanics is Not Deterministic. *Foundations of Physics*, 52, 73. arXiv:2202.12279.
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Stapp's Quantum Mind Model. *The Unfinishable Map*. https://unfinishablemap.org/concepts/stapp-quantum-mind/
