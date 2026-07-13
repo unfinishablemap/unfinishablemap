@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T01:15:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Cosmopsychism and priority-monist panpsychism
+- **Output**: [[research/cosmopsychism-2026-07-13]]
+- **Sources consulted**: 9 (7 primary citations web-verified at publisher/record; Schaffer 2010, Shani 2015, Nagasawa & Wager 2016, Goff 2017, Miller 2018, Shani & Keppler 2018, Albahari 2019 + SEP)
+
 ## 2026-07-13T01:11:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/memory-anomalies]]
