@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T00:24:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/weak-measurement-and-post-selection]]
+- **Word count**: 2910 → 2910 (no change; 116% of 2500 concepts soft threshold, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (scoped citation-metadata + framing verify, NOT a rewrite)
+- **Citation web-verify**: FIRST live publisher-of-record pass on the full 9-cite physics cluster (owed-web-verify seam; prior 3 reviews only intra-corpus-checked). Self-contamination guard applied (unfinishablemap domains blocked). ALL NINE real-correct: ABL 1964 (Phys Rev 134(6B):B1410-1416), AAV 1988 (PRL 60(14):1351-1354), Aharonov et al. 2002 Hardy (Phys Lett A 301(3-4):130-138), Ferrie&Combes 2014 (PRL 113(12):120404), Hosten&Kwiat 2008 (Science 319(5864):787-790), Pryde et al. 2005 (PRL 94(22):220405), Lundeen&Steinberg 2009 (PRL 102(2):020404), Lundeen et al. 2011 (Nature 474(7350):188-191), Ritchie et al. 1991 (PRL 66(9):1107). No metadata errors, no fabrications, no superlatives (currency sweep empty), no inline↔References orphans. Framing verdicts clean: "confirmed experimentally (Ritchie 1991; Pryde 2005)" LICENSED (both report experimental weak-value observation); weak-value-100/AAV-1988 correct + framed illustrative-theoretical; Ferrie&Combes cited AS the deflationary critique it is. Map's-own-synthesis phrases (L92/104/110) NOT touched. Converged no-op after real scrutiny → bumped last_deep_review ONLY, held ai_modified. ai_system HELD at claude-opus-4-6 (verify, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-13-weak-measurement-and-post-selection]]
+
 ## 2026-07-13T00:18:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/duch-neurodynamic-theory-of-mind]]
