@@ -143,7 +143,7 @@ The disagreement is about *how* consciousness is fundamental—as the intrinsic 
 
 ## Analytic Idealism: An Alternative to Panpsychism
 
-[[idealism|Analytic idealism]], developed by Bernardo Kastrup, offers another anti-physicalist alternative that shares panpsychism's rejection of emergence but reaches a different conclusion. (For a systematic comparison of panpsychism, idealism, cosmopsychism, and dual-aspect monism, see [[analytic-idealism-and-mind-centric-metaphysics|the mind-centric metaphysics survey]].) Where panpsychism says every particle has micro-experience, idealism says there is one universal consciousness and individual minds (including particle-experiences) are dissociated fragments of it.
+[[idealism|Analytic idealism]], developed by Bernardo Kastrup, offers another anti-physicalist alternative that shares panpsychism's rejection of emergence but reaches a different conclusion. (For a systematic comparison of panpsychism, idealism, [[cosmopsychism]], and dual-aspect monism, see [[analytic-idealism-and-mind-centric-metaphysics|the mind-centric metaphysics survey]].) Where panpsychism says every particle has micro-experience, idealism says there is one universal consciousness and individual minds (including particle-experiences) are dissociated fragments of it.
 
 Idealism claims to solve the combination problem by inverting it. Rather than asking how many micro-experiences combine into unified consciousness, idealism asks how unified consciousness *divides* into separate experiences. Kastrup argues this dissociation problem is easier than the combination problem: we have an empirical model (dissociative identity disorder) for how unity becomes apparent plurality, but no model for how plurality becomes genuine unity.
 

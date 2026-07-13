@@ -63,7 +63,7 @@ Contemporary panpsychism comes in several varieties. [[russellian-monism|Russell
 
 ## Cosmopsychism: One Mind, Top Down
 
-Cosmopsychism inverts panpsychism's direction. Instead of building up unified consciousness from micro-experiences, it starts with a single cosmic consciousness and derives individual minds as aspects or limitations of the whole. The cosmos itself is conscious; individual minds are partial perspectives on cosmic experience.
+[[cosmopsychism|Cosmopsychism]] inverts panpsychism's direction. Instead of building up unified consciousness from micro-experiences, it starts with a single cosmic consciousness and derives individual minds as aspects or limitations of the whole. The cosmos itself is conscious; individual minds are partial perspectives on cosmic experience.
 
 This resembles idealism but retains physical structure as genuinely real—the cosmos has both mental and physical properties. Where idealism says matter is mere appearance, cosmopsychism says the physical universe is real but inherently experiential.
 

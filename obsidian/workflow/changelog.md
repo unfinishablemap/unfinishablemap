@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T02:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cosmopsychism (priority-monist panpsychism)
+- **Output**: [[concepts/cosmopsychism]]
+- **Word count**: 1911 (concepts soft 2500 — comfortable, well under 3500 hard max)
+- **Based on research**: yes, [[research/cosmopsychism-2026-07-13]]
+- **Notes**: Definitional concept page. Grounding-thesis (cosmopsychism) kept distinct from identity-thesis (open individualism); de-combination NOT re-derived (cross-refs open-individualism bridge). Coinage hedged (Shani 2015 "usually attributed"). Cites publisher-verified; Schaffer + Miller quotes verbatim; Zuboff forthcoming book OMITTED. Inbound links added from combination-problem, panpsychism, analytic-idealism, open-individualism. Cross-review queued.
+
 ## 2026-07-13T02:30:25+00:00 - deep-review (cross-review)
 - **Status**: Success
 - **File**: [[concepts/vitalism]]
