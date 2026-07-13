@@ -40,7 +40,7 @@ The division cross-cuts the more familiar [[source-versus-leeway-incompatibilism
 
 ## Event-Causal Libertarianism
 
-On the event-causal view, a free action is nondeterministically caused by agent-involving mental *events*—the agent's having certain desires, beliefs, reasons, and intentions. These accounts differ from event-causal *compatibilist* accounts only by adding that the relevant causation is indeterministic. Crucially, the agent is not an additional cause over and above these events; the agent's bringing about a choice reduces to states and events involving the agent. This is the reductive, broadly naturalist wing, and its proponents include Robert Kane, Laura Ekstrom, Alfred Mele (as a defended-but-not-endorsed model), Mark Balaguer, and Christopher Franklin.
+On the event-causal view, a free action is nondeterministically caused by agent-involving mental *events*—the agent's having certain desires, beliefs, reasons, and intentions. These accounts differ from event-causal *[[compatibilism|compatibilist]]* accounts only by adding that the relevant causation is indeterministic. Crucially, the agent is not an additional cause over and above these events; the agent's bringing about a choice reduces to states and events involving the agent. This is the reductive, broadly naturalist wing, and its proponents include Robert Kane, Laura Ekstrom, Alfred Mele (as a defended-but-not-endorsed model), Mark Balaguer, and Christopher Franklin.
 
 ### Kane's Self-Forming Actions
 

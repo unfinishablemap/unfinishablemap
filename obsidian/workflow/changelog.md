@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T03:24:48+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Compatibilism (definitional hub for compatibilism-the-position + its variants)
+- **Output**: [[concepts/compatibilism]]
+- **Word count**: 2502
+- **Based on research**: yes — [[research/compatibilism-2026-07-13]]
+- **Notes**: Organized by how each variant reinterprets "could have done otherwise" (reinterpret / bypass / relocate). New material in new-dispositionalism (Vihvelin, Fara) + neo-compatibilist emergentism (Dennett, List); existing free-will pages cross-referenced not re-derived. Cites web-verified: Frankfurt JPhil 68(1):5-20; PhilPapers ~59% (official 2020 main-results 59.16%, not the 62% secondary conflation). Reciprocal inbound links added from 6 sibling pages; cross-review queued (P2).
+
 ## 2026-07-13T03:19:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
