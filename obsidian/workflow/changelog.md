@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T14:15:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Occasionalism (dedicated-page deepening; companion to non-interactionist-dualisms-2026-07-12)
+- **Output**: [[research/occasionalism-2026-07-13]]
+- **Sources consulted**: 12 (7 web searches + SEP occasionalism fetch; Nadler 2011 OUP ISBN 9780198250081 xii+207 per PQ review, Malebranche Dialogues Jolley & Scott CUP 1997 ISBN 9780521574020, Harding 1993 AJISS 10(2):165-177, Plantinga 2011 OUP DCC, SEP entry Sukjae Lee 2008/rev-2019 all publisher-verified)
+- **Assess-first verdict**: GAP CONFIRMED WITH CONSOLIDATION — the 2026-07-13 harvest's dedupe missed research/non-interactionist-dualisms-2026-07-12.md (exact-slug near-miss: note slugged differently), which already surveys occasionalism; this note therefore adds only the flagged gaps (global/local distinction, Geulincx quod-nescis, Nadler scholarship, Dialogues metadata, quantum occasionalism credibility sort: Harding 1993 + Plantinga DCC/Russell NIODA citable, blogs not) and carries an explicit REPLENISH/CONSUMPTION DIRECTIVE: one article (concepts/occasionalism.md) consumes BOTH notes; do not mint two expands. Survey subsection in history-of-the-interaction-problem read in full — two paragraphs, dedicated page adds clear value and the survey should point to it. Malebranche true-cause quote upgraded to verified-per-SEP (Search 450 / OCM II 316).
+
 ## 2026-07-13T13:55:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Self-representational (same-order) theory of consciousness
