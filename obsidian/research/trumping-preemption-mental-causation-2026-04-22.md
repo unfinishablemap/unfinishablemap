@@ -3,7 +3,7 @@ title: "Research Notes - Trumping Preemption as Mental-Causation Mechanism"
 created: 2026-04-22
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-07-13T17:46:00+00:00
 draft: false
 description: "Research on Schaffer's trumping preemption and its use as a mechanism for dualist mental causation — solving the exclusion problem without overdetermination or causal competition."
 topics:
@@ -190,9 +190,11 @@ Trumping preemption is a fourth species of redundant causation introduced by Jon
 | 2003 | Lowe, "Physical Causal Closure and the Invisibility of Mental Causation" | Dualist model of systematic mind–body dependence without rampant overdetermination |
 | 2005 | Schaffer, "Contrastive Causation" | Extends trumping to a contrastive framework |
 | 2011 | Hitchcock, "Trumping and Contrastive Causation" | Critical engagement; partial rehabilitation |
+| 2007 | Bealer, "Mental Causation" (*Philosophical Perspectives*) | Earliest sustained preemption account of mental causation; appeals to the major–sergeant case (see Saad 2025 nn. 24, 27) |
 | 2014 | Bernstein, "A Closer Look at Trumping" | Reductive analysis: trumping is overdetermination-with-insensitivity |
-| 2024 | Vaassen, "Mental Causation for Standard Dualists" (*Australasian Journal of Philosophy*) | Interventionist defence of standard-dualist mental causation via preemption |
+| 2024 | Vaassen, "Mental Causation for Standard Dualists" (*Australasian Journal of Philosophy*) | Interventionist defence of standard-dualist mental causation — both mental and physical are causes; NO preemption (author confirmed 2026-07-11: contrast case to the trumping route, lawful-co-causation family) |
 | 2025 | Saad, "A Dualist Theory of Experience" (*Philosophical Studies*) | Delegatory dualism — the most developed trumping-based mental-causation account |
+| 2026 | Vaassen, "Dualist Approaches to Mental Causation" (*Philosophy Compass*) | Overview of dualist mental-causation approaches incl. preemption; situates the route in the wider literature |
 
 ## Potential Article Angles
 
@@ -232,7 +234,9 @@ When writing, follow `obsidian/project/writing-style.md`:
 - Lowe, E. J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In Walter & Heckmann (eds.), *Physicalism and Mental Causation*.
 - Mills, E. (1996). "Interactionism and Overdetermination." *American Philosophical Quarterly* 33: 105–115.
 - Paul, L. A. & Hall, N. (2013). *Causation: A User's Guide*. Oxford University Press. (Standard reference discussing trumping among preemption types.)
+- Bealer, G. (2007). "Mental Causation." *Philosophical Perspectives* 21(1): 23–54. https://onlinelibrary.wiley.com/doi/10.1111/j.1520-8583.2007.00119.x
 - Vaassen, B. (2024). "Mental Causation for Standard Dualists." *Australasian Journal of Philosophy* 102(4): 978–998. https://www.tandfonline.com/doi/full/10.1080/00048402.2024.2335325
+- Vaassen, B. (2026). "Dualist Approaches to Mental Causation." *Philosophy Compass*. https://doi.org/10.1111/phc3.70109
 - Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. https://link.springer.com/article/10.1007/s11098-025-02290-3 ; PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12062107/
 - Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 - Schaffer, J. (2005). "Contrastive Causation." *Philosophical Review* 114: 297–328.

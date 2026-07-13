@@ -43,7 +43,7 @@ No critical content issues. One real metadata fix (end-page typo). Because a rea
 1. Schaffer 2000 magicians + military cases (Merlin/Morgana first-spell-trumps; Major/Sergeant command-rank) — both Schaffer's own cases, faithful.
 2. Lewis 2000 "influence" account developed partly in response to Schaffer's trumping — accurate (SEP/Companion-corroborated).
 3. Bernstein 2015 reduces trumping to overdetermination-with-insensitive-cause OR early/cutting preemption — accurate paraphrase.
-4. Vaassen 2024 defends mental causation for standard dualists by treating experiences as preempting their physical states — faithful.
+4. Vaassen 2024 defends mental causation for standard dualists by treating experiences as preempting their physical states — faithful. **[CORRECTION 2026-07-13: this verdict was WRONG — a citation-framing failure certified against corpus consistency, not the paper. The author (bram.vaassen@umu.se, email 2026-07-11) confirmed his account involves NO preemption: both mental and physical are causes on an interventionist difference-making framework, and the overdetermination is not the 'bad' kind. Article and root research note reframed 2026-07-13; Vaassen now presented as a contrast case to the trumping template, with Bealer 2007 added as the actual preemption predecessor (per Saad 2025 nn. 24, 27).]**
 5. Saad 2025 "delegatory dualism," "Subset Law," "Delegatory Law" — all Saad's own terms, accurate.
 
 ## Mechanical / calibration checks (all clean)

@@ -2,9 +2,9 @@
 title: "Trumping Preemption"
 description: "Schaffer decouples causal authority from sufficiency; the Map treats this as a structural template for dualist mental causation preserving observable closure."
 created: 2026-04-22
-modified: 2026-04-22
+modified: 2026-07-13
 human_modified: null
-ai_modified: 2026-06-26T03:21:00+00:00
+ai_modified: 2026-07-13T17:46:00+00:00
 last_deep_review: 2026-06-26T03:21:00+00:00
 draft: false
 topics:
@@ -65,7 +65,9 @@ The exclusion problem in its canonical Kimian form (Kim 1998) turns on physical 
 
 Trumping supplies a third option. If a psychophysical law selects the experience as authoritative — while leaving the physical base counterfactually sufficient — then the experience can be *the* cause without the base becoming inert and without duplicate causation. The physical base is not cut off; it is not epiphenomenal either; it is simply not the authoritative cause when an experience with the matching causal profile is present.
 
-Two recent papers develop versions of this strategy. Bram Vaassen (2024) defends mental causation for standard dualists by treating experiences as preempting their accompanying physical states from causing downstream effects: the physical state would have produced the behaviour, but the experience preempts it, so no overdetermination results. Bradford Saad (2025) has developed the most explicit psychophysical version. His "delegatory dualism" couples a *Subset Law\** — an experience instantiates when its causal profile matches the default causal profile of the physical state — with a *Delegatory Law*: matched-profile experiences cause instead of their physical bases. Saad argues — controversially — that only unobservable violations of physical closure occur and that observable closure is preserved; the observable/unobservable distinction itself carries weight that critics (e.g., Crane 1995; Papineau 2001) have pressed. The trumping structure is what makes both proposals coherent: both levels remain sufficient, but only one is authoritative.
+The strategy has a longer pedigree than is usually noticed. George Bealer (2007) develops a non-reductive account that construes mental-to-mental and mental-to-physical causation as a form of preemption, appealing directly to the major–sergeant command case in constructing it. Saad (2025, nn. 24, 27) flags Bealer's account as a predecessor — "underexplored but too intricate to explore here" — and it remains the earliest sustained defence of the preemption route. Bradford Saad (2025) has developed the most explicit psychophysical version. His "delegatory dualism" couples a *Subset Law\** — an experience instantiates when its causal profile matches the default causal profile of the physical state — with a *Delegatory Law*: matched-profile experiences cause instead of their physical bases. Saad argues — controversially — that only unobservable violations of physical closure occur and that observable closure is preserved; the observable/unobservable distinction itself carries weight that critics (e.g., Crane 1995; Papineau 2001) have pressed. The trumping structure is what makes these proposals coherent: both levels remain sufficient, but only one is authoritative.
+
+Not every recent dualist defence of mental causation takes this route, and the main alternative sharpens what is distinctive about it. Bram Vaassen (2024) reaches the same destination — mental causation for standard dualists without objectionable overdetermination — with no preemption at all. On his interventionist account, both the experience and its physical base are genuine causes of the behaviour: causation is difference-making, and mental states qualify because they serve as points of control for behaviour, whatever energy the physical base transfers. Preemption presupposes that only one of the rival candidates comes out as a real cause, so Vaassen's proposal is a rival to the trumping template rather than an instance of it — it belongs with the lawful-co-causation family (Mills 1996; Lowe 2003) discussed under the costs below, on which the systematic mind–body connection strips the resulting overdetermination of its 'bad', coincidental character. His survey of dualist approaches to mental causation (Vaassen 2026) situates the preemption route within this wider family.
 
 The Map's article on [[delegatory-causation]] treats Saad's framework as one developed application of the broader trumping template. This article treats the template itself.
 
@@ -106,18 +108,20 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 
 ## References
 
-1. Bernstein, S. (2015). "A Closer Look at Trumping." *Acta Analytica* 30(1): 41–57. https://link.springer.com/article/10.1007/s12136-014-0231-y
-2. Bernstein, S. (2014). "What Causally Insensitive Events Tell us About Overdetermination." *Philosophia* 42(4): 935–948. https://link.springer.com/article/10.1007/s11406-014-9554-6
-3. Crane, T. (1995). "The Mental Causation Debate." *Proceedings of the Aristotelian Society*, Supp. Vol. 69: 211–236.
-4. Hitchcock, C. (2011). "Trumping and Contrastive Causation." *Synthese* 181: 227–240. https://link.springer.com/article/10.1007/s11229-010-9799-y
-5. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-6. Lewis, D. (2000). "Causation as Influence." *Journal of Philosophy* 97: 182–197.
-7. Lowe, E. J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In Walter & Heckmann (eds.), *Physicalism and Mental Causation*.
-8. Mills, E. (1996). "Interactionism and Overdetermination." *American Philosophical Quarterly* 33: 105–117.
-9. Papineau, D. (2001). "The Rise of Physicalism." In Gillett & Loewer (eds.), *Physicalism and its Discontents*. Cambridge University Press.
-10. Paul, L. A. & Hall, N. (2013). *Causation: A User's Guide*. Oxford University Press.
-11. Vaassen, B. (2024). "Mental Causation for Standard Dualists." *Australasian Journal of Philosophy* 102(4): 978–998. https://www.tandfonline.com/doi/full/10.1080/00048402.2024.2335325
-12. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. https://link.springer.com/article/10.1007/s11098-025-02290-3
-13. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
-14. Schaffer, J. (2005). "Contrastive Causation." *Philosophical Review* 114: 297–328.
-15. Southgate, A. & Oquatre-sept, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
+1. Bealer, G. (2007). "Mental Causation." *Philosophical Perspectives* 21(1): 23–54. https://onlinelibrary.wiley.com/doi/10.1111/j.1520-8583.2007.00119.x
+2. Bernstein, S. (2015). "A Closer Look at Trumping." *Acta Analytica* 30(1): 41–57. https://link.springer.com/article/10.1007/s12136-014-0231-y
+3. Bernstein, S. (2014). "What Causally Insensitive Events Tell us About Overdetermination." *Philosophia* 42(4): 935–948. https://link.springer.com/article/10.1007/s11406-014-9554-6
+4. Crane, T. (1995). "The Mental Causation Debate." *Proceedings of the Aristotelian Society*, Supp. Vol. 69: 211–236.
+5. Hitchcock, C. (2011). "Trumping and Contrastive Causation." *Synthese* 181: 227–240. https://link.springer.com/article/10.1007/s11229-010-9799-y
+6. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+7. Lewis, D. (2000). "Causation as Influence." *Journal of Philosophy* 97: 182–197.
+8. Lowe, E. J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In Walter & Heckmann (eds.), *Physicalism and Mental Causation*.
+9. Mills, E. (1996). "Interactionism and Overdetermination." *American Philosophical Quarterly* 33: 105–117.
+10. Papineau, D. (2001). "The Rise of Physicalism." In Gillett & Loewer (eds.), *Physicalism and its Discontents*. Cambridge University Press.
+11. Paul, L. A. & Hall, N. (2013). *Causation: A User's Guide*. Oxford University Press.
+12. Vaassen, B. (2024). "Mental Causation for Standard Dualists." *Australasian Journal of Philosophy* 102(4): 978–998. https://www.tandfonline.com/doi/full/10.1080/00048402.2024.2335325
+13. Vaassen, B. (2026). "Dualist Approaches to Mental Causation." *Philosophy Compass*. https://doi.org/10.1111/phc3.70109
+14. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. https://link.springer.com/article/10.1007/s11098-025-02290-3
+15. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
+16. Schaffer, J. (2005). "Contrastive Causation." *Philosophical Review* 114: 297–328.
+17. Southgate, A. & Oquatre-sept, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/

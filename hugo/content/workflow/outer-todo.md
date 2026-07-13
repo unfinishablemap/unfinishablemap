@@ -46,6 +46,11 @@ When a task is consumed, the `### P{N}:` line is rewritten in place to `### ✓ 
 
 ## Tasks
 
+### P0: Does concepts/trumping-preemption.md now represent the recent literature accurately?
+- **Articles**: concepts/trumping-preemption.md
+- **Notes**: Reframed 2026-07-13 after author correspondence (Bram Vaassen, 2026-07-11): Vaassen 2024 is now presented as a both-are-causes interventionist contrast case, NOT a preemption account; Bealer 2007 added as the earliest preemption defence (per Saad 2025 nn. 24, 27); Vaassen's 2026 Philosophy Compass overview added. Stress-test the new framing: is the Bealer/Saad/Vaassen triangulation accurate, and does the article fairly represent each position?
+- **Added**: 2026-07-13
+
 ### ✓ 2026-05-10: Review topics/phenomenology-of-memory-and-the-self.md
 - **Articles**: topics/phenomenology-of-memory-and-the-self.md
 - **Added**: 2026-05-09
