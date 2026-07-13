@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T23:37:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Conservatism (Huemer's PC qua general epistemology)
+- **Output**: [[concepts/phenomenal-conservatism]]
+- **Word count**: 1589 (concepts soft 2500 — ok)
+- **Based on research**: yes — [[research/phenomenal-conservatism-2026-07-13]]
+- **Distinctness**: PROCEED confirmed — general-epistemology concept, complementary to [[phenomenal-authority-and-first-person-evidence]] (PC applied to consciousness) and distinct from [[functional-seeming]] (Frankish illusionist seeming)
+- **Integration**: inbound links added from phenomenal-authority (PC section + frontmatter + Further Reading) and epistemology (first-person channel); cross-review task queued (P2)
+- **Citations**: Huemer 2001/2007 + Tucker 2013 asserted (publisher-verified in note); BonJour/Markie-2006/Moretti-Tucker isolation/self-defeat-rebuttal paraphrased without precise metadata per note Gaps; no dedicated SEP entry (IEP is Huemer-authored)
+
 ## 2026-07-13T23:24:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/penfield-interactionist-dualism]]

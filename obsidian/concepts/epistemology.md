@@ -4,7 +4,7 @@ description: "How we know what we know about consciousness—and why the standar
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-06-13T13:46:48+00:00
+ai_modified: 2026-07-13T23:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ The Map recognises two fundamentally different ways of knowing about consciousne
 
 **Third-person epistemology** — the standard scientific approach — yields knowledge through observation, measurement, and inference. Neuroscience, behavioural psychology, and computational modelling operate here. This channel excels at identifying neural correlates, mapping functional relationships, and building predictive models. It fails at a specific point: explaining why any physical process is accompanied by experience rather than proceeding "in the dark."
 
-**First-person epistemology** — [[introspection]], [[phenomenological-evidence|phenomenological report]], and contemplative inquiry — yields knowledge through direct [[phenomenal-acquaintance|acquaintance]] with experience. This channel provides the primary data that consciousness science seeks to explain. [[Phenomenological-evidence|Phenomenological evidence]] is not merely anecdotal colour added to the real science; it constitutes the explanandum itself. Without first-person reports, there would be no consciousness problem to solve.
+**First-person epistemology** — [[introspection]], [[phenomenological-evidence|phenomenological report]], and contemplative inquiry — yields knowledge through direct [[phenomenal-acquaintance|acquaintance]] with experience. Whether such seemings confer justification at all is the province of [[phenomenal-conservatism]], the general principle that appearances of every kind carry defeasible prima facie warrant absent defeaters. This channel provides the primary data that consciousness science seeks to explain. [[Phenomenological-evidence|Phenomenological evidence]] is not merely anecdotal colour added to the real science; it constitutes the explanandum itself. Without first-person reports, there would be no consciousness problem to solve.
 
 The tension between these channels is not resolvable by subordinating one to the other. Third-person methods cannot access the qualitative character of experience. [[heterophenomenology|Heterophenomenology]] disputes this, arguing that third-person methods can take first-person reports seriously without granting them infallibility — though this approach arguably reduces first-person data to behavioural evidence. First-person methods cannot establish the physical mechanisms underlying experience.
 

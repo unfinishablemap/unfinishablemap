@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-07-12T19:34:26+00:00
+ai_modified: 2026-07-13T23:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ topics:
 concepts:
   - "[[introspection]]"
   - "[[process-content-distinction]]"
+  - "[[phenomenal-conservatism]]"
   - "[[phenomenal-acquaintance]]"
   - "[[qualia]]"
   - "[[phenomenological-evidence]]"
@@ -120,7 +121,7 @@ The distinction matters because the deepest eliminativist arguments invoke "intr
 
 ## Phenomenal Conservatism
 
-Huemer formulates phenomenal conservatism (PC): if it seems to S that P, then, in the absence of defeaters, S thereby has at least some justification for believing that P. Seemings have a distinctive phenomenal "pushiness" toward their content that distinguishes them from wishes, guesses, or habits. Huemer's central argument is the [[self-stultification|self-defeat]] charge: any alternative epistemological principle must itself seem true to those who hold it. Denying PC while relying on it is self-undermining.
+Huemer formulates phenomenal conservatism (PC): if it seems to S that P, then, in the absence of defeaters, S thereby has at least some justification for believing that P. PC is a thesis in *general* epistemology, treating perceptual, introspective, intuitive, memorial, and moral seemings on a par; the [[phenomenal-conservatism]] concept page defines the principle, its 2001→2007 development, the self-defeat argument, and the standard objections at that general level. This section applies it to the introspective case. Seemings have a distinctive phenomenal "pushiness" toward their content that distinguishes them from wishes, guesses, or habits. Huemer's central argument is the [[self-stultification|self-defeat]] charge: any alternative epistemological principle must itself seem true to those who hold it. Denying PC while relying on it is self-undermining.
 
 Applied to consciousness: pain *seems to hurt* — to have a qualitative feel beyond what functional description captures. Visual experience *seems coloured*. PC says these seemings carry prima facie justificatory weight; to deny this — as [[illusionism]] does — requires positive defeaters, not mere theoretical preference for parsimony. PC is strongest when applied to *what experience presents*. The further claim that these qualities are *irreducible to physical processes* is a metaphysical judgement requiring additional work (the hard problem, conceivability, knowledge argument). PC secures the evidential base against dismissal; it does not replace those arguments.
 
@@ -213,6 +214,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 
 - [[phenomenal-acquaintance]] — The direct epistemic relation
 - [[knowledge-argument]] — Mary's room and the limits of physical knowledge
+- [[phenomenal-conservatism]] — The general-epistemology principle this article applies to consciousness
 - [[introspection]] — The reliability debate and the process/content distinction
 - [[process-content-distinction]] — The dedicated concept page on the asymmetric-reliability finding the calibration depends on
 - [[self-opacity]] — Where introspective access fails structurally
