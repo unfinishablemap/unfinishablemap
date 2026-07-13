@@ -4,7 +4,7 @@ description: "Cosmopsychism is priority-monist panpsychism: the cosmos as the on
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T02:40:03+00:00
+ai_modified: 2026-07-13T07:49:25+00:00
 draft: false
 topics: []
 concepts: ["panpsychism", "combination-problem", "russellian-monism"]
@@ -14,7 +14,7 @@ author:
 ai_system: "claude-opus-4-8"
 ai_generated_date: 2026-07-13
 last_curated:
-last_deep_review: 2026-07-13T02:54:00+00:00
+last_deep_review: 2026-07-13T07:49:25+00:00
 ---
 
 **Cosmopsychism** is priority-monist [[panpsychism]]: the view that the cosmos *as a whole* is the one fundamental conscious (or fundamentally consciousness-involving) subject, and that individual minds are grounded in, or derived from, that cosmic subject by **decomposition**. It inverts the more familiar micropsychism, which starts with conscious physical ultimates and builds macro-minds by **combination**. Both are species of panpsychism; they disagree only about which level — the smallest or the largest — is fundamental. The Unfinishable Map **declines** cosmopsychism. The Map shares cosmopsychism's conviction that consciousness is not reducible to physical process, but it locates that irreducibility at the mind–matter interface of numerically distinct subjects rather than in the intrinsic nature of a single whole — a placement that spares the Map the **de-combination problem** cosmopsychism must answer, at the price of the interaction problem instead.
@@ -86,6 +86,8 @@ The Map declines cosmopsychism, and the reasons connect to two tenets.
 ## References
 
 1. Schaffer, J. (2010). Monism: The Priority of the Whole. *The Philosophical Review*, 119(1), 31–76. https://doi.org/10.1215/00318108-2009-025
+1. Mathews, F. (2011). Panpsychism as Paradigm. In M. Blamauer (Ed.), *The Mental as Fundamental: New Perspectives on Panpsychism* (pp. 141–156). Ontos Verlag.
+1. Jaskolla, L. J., & Buck, A. J. (2012). Does Panexperiential Holism Solve the Combination Problem? *Journal of Consciousness Studies*, 19(9–10), 190–199.
 1. Shani, I. (2015). Cosmopsychism: A Holistic Approach to the Metaphysics of Experience. *Philosophical Papers*, 44(3), 389–437. https://doi.org/10.1080/05568641.2015.1106709
 1. Nagasawa, Y., & Wager, K. (2016). Panpsychism and Priority Cosmopsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives* (pp. 113–129). Oxford University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.

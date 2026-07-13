@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T07:49:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cosmopsychism]]
+- **Word count**: 1911 → 1956 (+45; two References lines only, body unchanged; 78% of concepts 2500 soft)
+- **Mode**: FRESH-CREATE-DEFECT-TAIL — independent publisher-of-record web-verify (verbatim quotes + citation-metadata + coinage-attribution + orphaned-inverse)
+- **Critical issues addressed**: 1 (orphaned-inverse: Mathews 2011 + Jaskolla & Buck 2012 cited in-body, absent from References — both publisher-verified real + contemporaneous top-down proposals, added to References)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral)
+- **Citations**: 9 external cites web-verified at primary publishers — all real-correct; both quotes (Schaffer 2010, Miller 2018) VERBATIM; Schaffer ellipsis-stitch legitimate (single-sentence elision); Miller citation-framing matches conclusion; Kolak + Shani&Keppler framing confirmed
+- **ai_system**: HELD claude-opus-4-8 (not flipped on reference fix)
+- **Output**: [[reviews/deep-review-2026-07-13-cosmopsychism]]
+
 ## 2026-07-13T07:31:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/content-externalism]]
