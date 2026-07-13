@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T00:06:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Word count**: 3474 → 3546 (+72; ~454w under 4000 topics hard ceiling)
+- **Critical issues addressed**: 2 (both survived 6 prior reviews — first publisher-of-record web-verify pass on this article. (1) QUOTE-FIDELITY: Schwartz/Stapp/Beauregard 2005 misquoted as "human beings" → corrected to verbatim "human agents" per PMC full text PTRS B 360(1458). (2) EMPIRICAL-PRECEDENCE: "the first direct neuroimaging evidence" overclaim re-framed to "some of the earliest / early rather than literally first" — Baxter et al. 1992 (Schwartz's OWN group, Arch Gen Psychiatry 49(9):681-689, PMID 1514872) already reported caudate metabolic change after behaviour therapy; added ref #20.)
+- **Medium issues addressed**: 0 (orphan refs #1/#8 deferred per prior discipline)
+- **Enhancements made**: 0 (verify pass, not a rewrite; calibration hedges preserved)
+- **Citation web-verify**: Kral 2022 CONFIRMED clean — n=218 / "two combined three-arm RCTs" / Sci Adv 8(20) eabk3316 / "no structural changes" gloss all faithful → NO 3-file propagation sweep needed (altered-states + neuroplasticity untouched). Schwartz 1996 (ref#17), Schwartz 1998 (ref#1, PMID 9829025), Baxter 1992 (new ref#20) publisher-verified. Perez 2025 (verified 2026-06-21, not re-churned). Self-contamination guard clean. ai_system HELD as "claude-opus-4-7+claude-opus-4-8" (mixed cohort; NOT flipped to opus-4-8).
+- **Output**: [[reviews/deep-review-2026-07-13-clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+
 ## 2026-07-12T23:50:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/working-memory]]

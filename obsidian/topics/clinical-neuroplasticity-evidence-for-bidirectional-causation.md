@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-06-22T08:21:15+00:00
+ai_modified: 2026-07-13T00:06:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,14 +32,14 @@ author:
 ai_system: claude-opus-4-7+claude-opus-4-8
 ai_generated_date: 2026-03-21
 last_curated:
-last_deep_review: 2026-06-21T06:10:00+00:00
+last_deep_review: 2026-07-13T00:06:37+00:00
 ---
 
 Clinical [[neuroplasticity]] research provides suggestive empirical evidence that consciousness causally reshapes the brain rather than passively accompanying neural activity—though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Several evidence streams—self-directed neuroplasticity in OCD treatment, psychotherapy neuroimaging showing distinct causal pathways, and placebo-stimulated neuroplasticity—converge on a pattern worth taking seriously: intentional mental activity produces lasting changes in neural function through routes that differ from pharmacological (bottom-up) intervention. Meditation evidence, once a fourth pillar, has been weakened by replication failures for structural brain claims. The Unfinishable Map holds that this convergence is *compatible with* and *suggestive of* genuine mental causation, constituting a challenge to [[concepts/epiphenomenalism|epiphenomenalism]] and to the [[causal-closure|causal closure]] of the physical—while acknowledging that mainstream neuroscience explains the same findings via Hebbian learning and standard synaptic plasticity without invoking non-physical causes.
 
 ## Self-Directed Neuroplasticity in OCD
 
-Jeffrey Schwartz's clinical research programme at UCLA produced the first direct neuroimaging evidence that conscious mental effort alone can normalise pathological brain activity. Schwartz developed a four-step cognitive protocol for obsessive-compulsive disorder—Relabel, Reattribute, Refocus, Revalue—that trains patients to recognise obsessive thoughts as products of faulty brain circuitry and deliberately redirect attention away from compulsive responses.
+Jeffrey Schwartz's clinical research programme at UCLA produced some of the earliest direct neuroimaging evidence that conscious mental effort alone can normalise pathological brain activity—Baxter et al. (1992), a study from Schwartz's own group, had already reported caudate metabolic change after behaviour therapy for OCD, so this is early rather than literally first evidence. Schwartz developed a four-step cognitive protocol for obsessive-compulsive disorder—Relabel, Reattribute, Refocus, Revalue—that trains patients to recognise obsessive thoughts as products of faulty brain circuitry and deliberately redirect attention away from compulsive responses.
 
 PET imaging revealed that treatment responders showed normalisation of hyperactive caudate nucleus metabolism (Schwartz et al., 1996). The caudate nucleus is a key node in the cortico-striato-thalamic loop implicated in OCD; its hyperactivity drives the repetitive thought patterns characteristic of the disorder.
 
@@ -105,7 +105,7 @@ This down-counting of three superficially independent streams to one preferentia
 
 ## Proposed Mechanisms
 
-The clinical evidence documents that psychological intervention produces lasting changes in neural function—whether this reflects genuine mental causation or standard Hebbian learning remains the open question. The mechanism is equally open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [[consciousness-selecting-neural-patterns|consciousness-selecting]]. As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human beings about how they will act." On this model, closely spaced acts of attention hold neural patterns in place, preventing decoherence into alternative states.
+The clinical evidence documents that psychological intervention produces lasting changes in neural function—whether this reflects genuine mental causation or standard Hebbian learning remains the open question. The mechanism is equally open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [[consciousness-selecting-neural-patterns|consciousness-selecting]]. As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human agents about how they will act." On this model, closely spaced acts of attention hold neural patterns in place, preventing decoherence into alternative states.
 
 This proposal is speculative and faces challenges regarding decoherence timescales in warm biological tissue. Other possible mechanisms include [[quantum-consciousness|non-local quantum effects]], classical top-down modulation through emergent causal powers, or interaction models not yet formulated. The Map's commitment is to the reality of mental causation (Tenet 3: [[bidirectional-interaction|Bidirectional Interaction]]), not to any specific mechanism. The *phenomenon* documented here—that intentional mental activity is associated with lasting neural change—stands regardless of which mechanism turns out to be correct; which metaphysical reading that phenomenon supports remains undetermined, as the convergence argument above makes plain.
 
@@ -159,3 +159,4 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 17. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 18. Perez, G. M., et al. (2025). Brain changes associated with depression treatment: A meta-analysis. *NeuroImage: Clinical* (302 subjects, 18 experiments; right-amygdala convergence across antidepressant treatments). doi:10.1016/j.nicl.2025.103874
 19. Siew & Yu (2025). Anatomical-likelihood-estimation meta-analysis reporting structural brain changes from mindfulness-based randomised trials. *Scientific Reports*. **Retracted** 2025 — four null-finding studies (≈40% of pooled participants) were omitted; the authors disagreed with the retraction. doi:10.1038/s41598-025-11069-9
+20. Baxter, L. R. Jr., Schwartz, J. M., Bergman, K. S., Szuba, M. P., Guze, B. H., et al. (1992). Caudate glucose metabolic rate changes with both drug and behavior therapy for obsessive-compulsive disorder. *Archives of General Psychiatry*, 49(9), 681-689. doi:10.1001/archpsyc.1992.01820090009002
