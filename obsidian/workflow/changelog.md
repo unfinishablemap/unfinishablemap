@@ -5,6 +5,21 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T05:02:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/temporal-consciousness-structure-and-agency]]
+- **Axis**: owed-web-verify seam — quote-fidelity + attribution-accuracy at PRIMARY PUBLISHERS. 12th review in lineage; FIRST to publisher-verify the in-body attributed quotes/coinages (prior 11 intra-corpus-checked only). ~38d converged, no post-review drift.
+- **Word count**: 3873 → 3880 (+7)
+- **Critical issues addressed**: 3 (all publisher-verified, all fixed)
+  1. James quote-fidelity: "chopped up **into** bits" → "chopped up **in** bits" (verbatim James 1890 ch. IX, psychclassics.yorku.ca).
+  2. Specious-present coinage: "William James identified the specious present" → "William James, crediting the phrase to E. R. Clay, described the specious present" (James explicitly credits Clay, 1890 ch. XV: "what Mr. E. R. Clay has well called 'the specious present'").
+  3. Attribution: Broad misclassified — "Retentionalists (Husserl, **Broad**)" → "(Husserl, **Brentano**)". Article's own cited ref #15 (SEP Temporal Consciousness / Dainton) classes Broad as Extensional; Husserl & Brentano are the paradigm Retentionalists.
+- **Per-quote ledger**: only 3 genuine attributed direct quotes exist — James "in bits" (fixed), Husserl "absolute flow"/"standing-streaming" (real-correct terms of art, Brough 1991), Kent & Wittmann "missing link" (real-correct, their title). Pöppel numbers, durée/khaṇika/kairos terms, Csikszentmihalyi/Eagleman paraphrases all real-correct. No self-contamination (no unfinishablemap.org sourcing).
+- **Engagement modes** (editor-internal): Water=H₂O Mode Two; predictive-processing Mode Two; many-worlds Mode Three. No boundary-substitution, no label leakage. Unchanged.
+- **Disposition**: ai_system HELD claude-opus-4-6 (word-level accuracy fixes, not re-authoring). ai_modified + last_deep_review → 2026-07-13T05:02:13+00:00.
+- **Length**: 3880 words (129% of 3000 soft; below 4000 hard). No condense needed.
+- **Output**: [[reviews/deep-review-2026-07-13-temporal-consciousness-structure-and-agency]]
+
 ## 2026-07-13T04:36:05+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/post-decoherence-selection-programme]]
