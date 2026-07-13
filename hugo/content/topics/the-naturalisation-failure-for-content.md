@@ -59,6 +59,8 @@ The third horn targets predictive processing and other recent representationalis
 
 The dilemma's joint pressure is what gives the HPC its bite. Whichever family of natural relations the naturalist leans on, the chokepoint is the same: causal and historical facts cannot, on their own, deliver the normative-cum-intensional facts that content requires.
 
+One naturalising family is not caught by this dilemma, because it does not start from covariance at all. [Conceptual role semantics](/concepts/conceptual-role-semantics/) constitutes content out of a state's inferential role rather than its world-tracking, and so steps out from under the covariance horns. It is therefore the strongest rival the HPC must answer separately; the [dedicated treatment](/concepts/conceptual-role-semantics/) argues that inferential role constitutes content only by presupposing already-contentful norms of correct inference (a regress) or by collapsing into interpretationist deflation (reproducing the covariance dilemma one level up).
+
 ## A Distinct Hard Problem
 
 The HPC is structurally similar to the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) but logically independent of it. Both arguments identify a feature of mind — phenomenality in one case, aboutness in the other — that resists derivation from physical resources. Both stay inside the naturalist's preferred framework and use the framework's own resources to expose its limits. Both have respectable defences from the other side and have not been refuted.

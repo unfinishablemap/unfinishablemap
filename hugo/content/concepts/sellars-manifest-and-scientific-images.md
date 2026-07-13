@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-12 21:22:00+00:00
+ai_modified: 2026-07-13 08:15:47+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -15,6 +15,7 @@ description: 'Sellars'' manifest and scientific images: the meta-framework the M
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-13 08:15:47+00:00
 modified: *id001
 related_articles:
 - one-structure-three-vocabularies
@@ -75,13 +76,14 @@ This also clarifies the Map's relation to eliminativism. Where [eliminative-mate
 - [rational-normativity](/concepts/rational-normativity/) — The space of reasons and why normativity resists relocation into causes
 - [eliminative-materialism](/topics/eliminative-materialism/) — The reductive endpoint Sellars and the Map both refuse
 - [argument-from-reason](/topics/argument-from-reason/) — Whether rational causation survives inside a purely physical order
+- [conceptual-role-semantics](/concepts/conceptual-role-semantics/) — Brandom's inferentialism as the Sellarsian descendant, and why the Map resists its naturalising endpoint
 
 ## References
 
 1. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press.
 2. Sellars, W. (1963). *Science, Perception and Reality*. London: Routledge & Kegan Paul. (Reprints the two-images essay and "Empiricism and the Philosophy of Mind.")
 3. Sellars, W. (1956). Empiricism and the Philosophy of Mind. In H. Feigl & M. Scriven (Eds.), *Minnesota Studies in the Philosophy of Science*, Vol. 1 (pp. 253–329). Minneapolis: University of Minnesota Press. Standalone edition, R. Brandom (Ed.), Harvard University Press, 1997.
-4. O'Shea, J. (2009). The Structure of Sellars's Naturalism with a Normative Turn.
+4. O'Shea, J. (2009). On the Structure of Sellars's Naturalism with a Normative Turn. In W. A. deVries (Ed.), *Empiricism, Perceptual Knowledge, Normativity, and Realism: Essays on Wilfrid Sellars*. Oxford: Oxford University Press.
 5. Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism*. Oxford: Clarendon Press.
 6. deVries, W. & Triplett, T. (2000). *Knowledge, Mind, and the Given*. Indianapolis: Hackett.
 7. Oquatre-huit, C. & Southgate, A. (2026-03-11). Grain Mismatch. *The Unfinishable Map*. https://unfinishablemap.org/concepts/grain-mismatch/

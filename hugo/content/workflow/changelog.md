@@ -9,6 +9,57 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-13T11:56:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [conceptual-role-semantics](/concepts/conceptual-role-semantics/)
+- **Word count**: 1865 → 1945 (+80; 78% of concepts 2500 soft — growth is the task-mandated proves-too-much disarm)
+- **Critical issues addressed**: 2 — (1) SIX bare-slug markdown links `[text](slug)` in body (404-in-Hugo class, pass validator/sync) → all converted to wikilinks; (2) AXIS-3 proves-too-much gap: regress horn ("correct inference presupposes contentful norms") could be turned on the Map's own reliance on inferential norms → explicit disarm added (presupposing norms is not the failure; presupposing them while claiming to have *naturalised* content is — the irreducibly normative start is what the Map affirms and a naturalisation programme cannot grant itself)
+- **Medium issues addressed**: 4 — IEP "Roughly" hedge restored ("avowedly rough formulation"); banned "This is not X; it is Y." construct rephrased; normativity-of-reason thread wikilinked to [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/); description trimmed 205→150 chars
+- **Quote-verify**: both verbatim quotes verified live at PRIMARY publisher this run (IEP core-thesis quote at iep.utm.edu; Sellars "logical space of reasons" at SEP) — NOT from a Map page (self-contamination guard passed). Field 1977 philpapers URL FINLMA-6 flagged (FIN≠Field prefix) but web-verified REAL-CORRECT (genuine irregular ID). Other 7 cites note-verified same-day, NOT re-verified per task constraint. Self-cite Oquatre-sept cohort matches cited article's ai_system claude-opus-4-7.
+- **Integration**: all 6 inbound links grep-verified live + natural in hosts (incl. the in-prose naturalisation-failure add); all outbound wikilinks resolve. Axis-4 Tenet-1 framing PASS unchanged (CRS a genuine rival owed a response; reply flagged as the Map's own construction). Engagement w/ constitutive CRS: Mixed — Mode Two core (helps itself to correct-inference norms it has not earned as naturalist currency) + Mode Three close on the socially-instituted-norms residue; holism section is intra-naturalist balance, un-strawmanned. No label leakage.
+- **ai_system**: HELD claude-opus-4-8 (minor fixes + one task-mandated paragraph; not re-authored). ai_modified + last_deep_review both bumped to 2026-07-13T11:55:15 (real fixes; stamps ≤ real date -u).
+- **Output**: [deep-review-2026-07-13-conceptual-role-semantics](/reviews/deep-review-2026-07-13-conceptual-role-semantics/)
+
+## 2026-07-13T08:30:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [content-externalism](/concepts/content-externalism/)
+- **Word count**: 1563 → 1725 (+162; concepts soft 2500 / hard 3500 — status ok, ample headroom; growth is the honest floor for giving Dretske his due)
+- **Finding addressed**: VERIFIED pessimistic-review ARGUMENT-LENS defect — the hybrid's phenomenal-internalist half was ARGUED but BEGGED THE QUESTION against Dretske's phenomenal externalism. (1) line ~42 asserted felt character "can be held fixed across the switch" as agreed fact — Dretske denies exactly this. (2) line ~46 rejected Dretske because phenomenal externalism "is precisely the view the Map must resist here, because it would dissolve the internal constitution…" — a Map-internal reason, not an argument Dretske must engage.
+- **Option implemented**: (a)+(b) combined. (a) Made Farkas 2008's first-person-authority / introspective-access charge (already cited at line ~36) the LOAD-BEARING INDEPENDENT reason; reframed switch-invariance as the internalist's *contested* claim (explicitly noting Dretske denies it) backed by that argument, not asserted as fact. (b) Downgraded the line ~46 register: resistance now rests on the introspective-authority argument, and where it runs out the Map declines phenomenal externalism as a framework commitment and acknowledges the case is not knock-down — no longer rejects Dretske merely for conflicting with the Map.
+- **Engagement classification** (editor-internal): reply to Dretske = Mixed — Mode Two opens (phenomenal externalism helps itself to letting felt character vary with facts the subject cannot detect, which the introspective-authority standard the opponent's own first-person data endorse tells against), closing with Mode Three boundary-marking (framework-commitment decline honestly noted, not dressed as refutation). Natural prose; no label leakage.
+- **Secondary**: Yli-Vakkuri & Hawthorne narrow-content tension already reconciled in existing text (internalist claim rests on phenomenal character, not a constructed narrow-content notion) — left as-is, length-neutral.
+- **Disposition**: ai_modified bumped 07:31:49 → 08:30:54; last_deep_review HELD at 2026-07-13T07:31:49 (refine≠review); ai_system HELD claude-opus-4-8. No new/non-resolving wikilinks (touched [intentionality](/concepts/intentionality/), [hard-problem-of-content](/concepts/hard-problem-of-content/) — both resolve).
+- **Published**: yes
+
+## 2026-07-13T08:22:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [bohm-implicate-order-and-active-information](/concepts/bohm-implicate-order-and-active-information/)
+- **Word count**: 1853 → 1857 (+4, length-neutral; 74% of concepts 2500 soft)
+- **Critical issues addressed**: 0 (no framing/calibration defects; determinism-cost + Landsman hedge well-calibrated)
+- **Medium issues addressed**: 3 (citation metadata, all real-wrong-metadata fixed in place, nothing deleted)
+- **Enhancements made**: 3 metadata completions — Landsman 2022 (ref 8) authorless→"Landsman, K. … *Found. Phys.* 52, 73"; Bohm 1990 (ref 4) "vol. 3"→"3(2–3), 271–286"; Pylkkänen & Hiley 2005 (ref 5) +pp. 7–26; in-body arXiv attribution "(Landsman 2022, …)"
+- **Web-verify**: 8 cites publisher-verified (arXiv/Springer/d-nb.info/T&F/Helsinki portal/SEP). arXiv:2202.12279 resolved = Landsman 2022, Found. Phys. 52:73 — journal-of-publication claim TRUE. soma-significance term + Pylkkänen-monist framing verified faithful. Engagement w/ Bohm–Pylkkänen monism: Mode Three (framework-boundary), natural prose, no label leakage. DEFECTS-FIXED (metadata only; framing/calibration CONVERGED-CLEAN)
+- **ai_system**: HELD claude-opus-4-8 (live-confirmed; not flipped on minor fixes)
+- **Output**: [deep-review-2026-07-13-bohm-implicate-order-and-active-information](/reviews/deep-review-2026-07-13-bohm-implicate-order-and-active-information/)
+
+## 2026-07-13T08:15:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/)
+- **Word count**: 1668 → 1668 (+0, length-neutral; 67% of concepts 2500 soft)
+- **Critical issues addressed**: 1 (O'Shea citation metadata — real-wrong-metadata, fixed in place)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (DEFECTS-FIXED on citation metadata only)
+- **Web-verify**: 3 verbatim quotes + physical₁/physical₂ gloss primary-source confirmed; 6 citations verified (5 real-correct, 1 real-wrong-metadata fixed). Steer's O'Shea "should be 2007 Polity book" hypothesis overturned — real 2009 deVries-ed. OUP chapter (verify-your-own-correction discipline). ai_system HELD claude-opus-4-8.
+- **Output**: [deep-review-2026-07-13-sellars-manifest-and-scientific-images](/reviews/deep-review-2026-07-13-sellars-manifest-and-scientific-images/)
+
+## 2026-07-13T08:06:18+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Conceptual Role Semantics and the Naturalisation of Content
+- **Output**: [conceptual-role-semantics](/concepts/conceptual-role-semantics/)
+- **Word count**: 1865 (75% of concepts 2500 soft)
+- **Based on research**: yes — [conceptual-role-semantics-2026-07-13](/research/conceptual-role-semantics-2026-07-13/)
+- **Integration**: 6 inbound links added (in-prose to topics/the-naturalisation-failure-for-content; Further Reading in concepts/hard-problem-of-content, teleosemantics, intentionality, sellars-manifest-and-scientific-images, content-externalism); cross-review owed
+
 ## 2026-07-13T07:49:25+00:00 - deep-review
 - **Status**: Success
 - **File**: [cosmopsychism](/concepts/cosmopsychism/)

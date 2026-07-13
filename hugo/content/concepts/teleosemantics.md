@@ -100,6 +100,7 @@ Two honest limitations. First, the bite-the-bullet reply is principled: a teleos
 - [intentionality](/concepts/intentionality/) — the aboutness of mental states and the phenomenal-intentionality alternative the Map endorses
 - [status-of-content](/concepts/status-of-content/) — Boghossian's companion argument that content irrealism is self-refuting
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — why functional grounding falls short of intrinsic meaning
+- [conceptual-role-semantics](/concepts/conceptual-role-semantics/) — the covariance-independent rival that constitutes content from inferential role rather than world-tracking
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — where represented content does empirically visible causal work
 - [rational-normativity](/concepts/rational-normativity/) — the sibling argument that the *ought* of inference resists naturalisation
 - [content-externalism](/concepts/content-externalism/) — the wide, environment-involving view of content, and the causal-relevance worry it shares with teleosemantics
