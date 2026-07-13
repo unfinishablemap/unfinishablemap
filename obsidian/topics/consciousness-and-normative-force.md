@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-06-02T22:35:00+00:00
+ai_modified: 2026-07-13T05:48:15+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -46,7 +46,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-06-02T22:35:00+00:00
+last_deep_review: 2026-07-13T05:48:15+00:00
 coalesced_from:
   - "/topics/phenomenology-of-normative-experience/"
   - "/topics/consciousness-and-the-grounds-of-normative-authority/"
@@ -64,7 +64,7 @@ The problem sharpens at the boundary of consciousness. A thermostat "recognises"
 
 ## Why Standard Accounts Fall Short
 
-**Rationalism** locates normative force in reason itself. But rational consistency is a formal property — you can be formally consistent while endorsing monstrous principles, provided you universalise them. The feeling of rational compulsion is itself a phenomenal state. A computer can verify logical consistency without experiencing normative pull. Rationalism presupposes consciousness rather than explaining normative force independently.
+**Rationalism** locates normative force in reason itself. But rational consistency is a formal property — you can be formally consistent while endorsing monstrous principles, provided you universalise them (Kant 1785). The feeling of rational compulsion is itself a phenomenal state. A computer can verify logical consistency without experiencing normative pull. Rationalism presupposes consciousness rather than explaining normative force independently.
 
 **Contractualism** grounds normative force in what rational agents would agree to under idealised conditions. But hypothetical agreement lacks phenomenal grip. Even Korsgaard's (1996) deeper appeal to practical identity — norms you endorse on reflection constitute who you are — faces the same question: what makes reflective endorsement *binding* rather than merely intellectual? The fact that idealised agents *would* agree does not explain why *you*, here, now, feel bound.
 
@@ -88,11 +88,11 @@ The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value plu
 
 ### Moral Normativity
 
-[[phenomenology-of-moral-life|Moral phenomenology]] presents wrongness as a feature of situations — immediate, unbidden, with motivational force. Its [[valence|hedonic valence]] is distinctive: moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed, concerning what one owes to others. And it carries a weight that resists trade-offs: "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
+[[phenomenology-of-moral-life|Moral phenomenology]] presents wrongness as a feature of situations — immediate, unbidden, with motivational force. Iris Murdoch located this in the moral agent's "just and loving gaze" upon a particular reality, where attention discloses value rather than projecting it (Murdoch 1970). Its [[valence|hedonic valence]] is distinctive: moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed, concerning what one owes to others. And it carries a weight that resists trade-offs: "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
 
 ### Epistemic Normativity
 
-Epistemic demands have their own phenomenal character. Encountering a valid argument whose conclusion you resist produces a felt pull toward acceptance — cooler and more impersonal than moral obligation, but equally insistent. This phenomenal rigidity is distinct from physical necessity and moral necessity. It belongs to [[cognitive-phenomenology|cognitive phenomenology]]: the felt character of thinking itself. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops this in detail: logical inference involves prescriptive force, universality, and content-sensitivity that resist physical description. Evidence contradicting a held belief registers as epistemic tension — a characteristic restlessness, the sense of instability.
+Epistemic demands have their own phenomenal character. Encountering a valid argument whose conclusion you resist produces a felt pull toward acceptance — cooler and more impersonal than moral obligation, but equally insistent. This has the presentational phenomenology Chudnoff (2013) attributes to intuition: the experience seems to make one aware of the very truth it presents, not merely to prompt a judgment about it. This phenomenal rigidity is distinct from physical necessity and moral necessity. It belongs to [[cognitive-phenomenology|cognitive phenomenology]]: the felt character of thinking itself. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops this in detail: logical inference involves prescriptive force, universality, and content-sensitivity that resist physical description. Evidence contradicting a held belief registers as epistemic tension — a characteristic restlessness, the sense of instability.
 
 ### Aesthetic Normativity
 
@@ -104,11 +104,11 @@ Prudential normativity has a gravitational quality — familiar, constant, pulli
 
 ## Shared Phenomenal Architecture
 
-Despite their differences, all four domains share common structure. Every normative experience presents its object as calling for response — what might be called **demand character**. Wrongness demands intervention; evidence demands belief revision; beauty demands attention; self-interest demands action. The demand is not causal pushing. Normative properties *address* the agent, involving recognition that the situation genuinely merits the response it calls for.
+Despite their differences, all four domains share common structure. Kriegel's (2015) survey treats cognitive, conative, emotional, and moral phenomenology as distinct irreducible varieties; the normative textures traced here cut across that taxonomy while sharing the architectural features that follow. Every normative experience presents its object as calling for response — what might be called **demand character**. Wrongness demands intervention; evidence demands belief revision; beauty demands attention; self-interest demands action. The demand is not causal pushing. Normative properties *address* the agent, involving recognition that the situation genuinely merits the response it calls for.
 
 Normative properties also present themselves as independent of preference — **resistance to preference**. Wrongness persists whether or not one cares; validity holds regardless of one's preferences about the conclusion. And they admit of degrees — **gradedness** — felt, not merely conceptual.
 
-If normativity were projected onto experience by external mechanisms, one would expect a single projection mechanism producing a single felt quality modulated only by intensity. The actual phenomenology — four distinct normative textures with shared architectural features — better fits intrinsic normativity. Four domains with distinct evolutionary histories and cultural contexts all presenting their objects with the same phenomenal character of demanding response is what [[evaluative-phenomenal-character|phenomenal normativity]] predicts and what projection cannot easily explain.
+If normativity were projected onto experience by external mechanisms — as the constructive sentimentalism of Prinz (2007) proposes, deriving moral properties from culturally shaped emotional responses — one would expect a single projection mechanism producing a single felt quality modulated only by intensity. The actual phenomenology — four distinct normative textures with shared architectural features — better fits intrinsic normativity. Four domains with distinct evolutionary histories and cultural contexts all presenting their objects with the same phenomenal character of demanding response is what [[evaluative-phenomenal-character|phenomenal normativity]] predicts and what projection cannot easily explain.
 
 ## When Normative Domains Collide
 
@@ -126,7 +126,7 @@ More structurally revealing is conflict between domains. A whistleblower faces t
 
 When multiple domains speak simultaneously, each with its own demand structure, how does a single conscious agent produce coherent action? This is structurally analogous to the perceptual [[binding-problem|binding problem]]: just as consciousness unifies colour, shape, and motion into a single visual object, it must unify competing normative demands into a single practical stance.
 
-**Priority views** assigning fixed orderings fail because normative conflicts do not feel like rule-application. People regularly sacrifice moral demands for epistemic ones or vice versa — and these are not always failures of reasoning. **Utilitarian reduction** to a single currency fails because the felt incommensurability of normative domains is a datum (Nagel 1979): moral guilt and aesthetic displeasure differ qualitatively, not quantitatively. **Faculty models** face a regress: what coordinates the faculties?
+**Priority views** assigning fixed orderings fail because normative conflicts do not feel like rule-application. People regularly sacrifice moral demands for epistemic ones or vice versa — and these are not always failures of reasoning. **Utilitarian reduction** to a single currency fails because the felt incommensurability of normative domains is a datum (Nagel 1979): moral guilt and aesthetic displeasure differ qualitatively, not quantitatively. Williams's (1973) integrity objection presses the same point — aggregation into one measure does violence to the agent's distinct commitments. **Faculty models** face a regress: what coordinates the faculties?
 
 Normative demands arrive within a single field of consciousness — already related, already experienced by the same subject who must act. Within this field, demands carry *felt weight* varying with context: moral demands press with urgency; epistemic demands present with impersonal rigidity; aesthetic demands draw attention; prudential demands pull with intimate gravity. These qualitative differences persist even as relative weights shift. The [[moral-architecture-of-consciousness|moral architecture of consciousness]] synthesises this phenomenology of conflict into a unified framework: normativity functions as one of four pillars — alongside value, agency, and moral perception — that depend on irreducible consciousness for their coherence. The tearing sensation of within-domain moral conflict and the oscillatory deliberation of cross-domain collision are not peripheral data but load-bearing evidence for that architecture.
 
@@ -152,7 +152,7 @@ The consciousness-based account would face pressure if:
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The shared demand character of normative experience resists physical explanation. Neural descriptions capture correlates but cannot capture the demand character itself — the felt pull of obligation, the compellingness of valid inference. This is an instance of the [[hard-problem-of-consciousness|hard problem]]: the simultaneous experience of qualitatively distinct demands within a unified experiential field adds a further dimension no brain-state account captures.
+**[[tenets#^dualism|Dualism]]**: The shared demand character of normative experience resists physical explanation. Neural descriptions capture correlates but cannot capture the demand character itself — the felt pull of obligation, the compellingness of valid inference. This is an instance of the [[hard-problem-of-consciousness|hard problem]] (Chalmers 1996): the simultaneous experience of qualitatively distinct demands within a unified experiential field adds a further dimension no brain-state account captures.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Normative experience motivates action across all domains. Resolving normative conflict is among the clearest cases of consciousness doing causal work — the agent adjudicates between demands and acts on the result. If consciousness were epiphenomenal, both the motivational power and the felt effort of navigating conflict would be causally inert decoration.
 

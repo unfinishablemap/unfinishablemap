@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T05:48:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-normative-force]]
+- **Axis**: owed-web-verify seam — citation-framing-accuracy + attributed-view fidelity + uncited-reference reconciliation at PRIMARY PUBLISHERS. 5th review; framing CONVERGED-CLEAN (Rawlette, Korsgaard, Nagel, Moore, Kant×2, Williams×3 all faithful at publisher of record). No genuine attributed quotes → no verbatim channel. DEFECTS-FIXED: 7 orphaned References entries reconciled.
+- **Word count**: 2747 → 2876 (+129)
+- **Critical issues addressed**: 1 (orphaned-references incompleteness defect — 7 bibliography entries with zero in-body citation, structurally invisible to intra-corpus review)
+  1. Added genuine inline cites (body leaned on each; no prune): Chalmers 1996 (hard problem), Prinz 2007 (constructive sentimentalism, named as the projectivist *opponent*), Murdoch 1970 (moral attention), Chudnoff 2013 (presentational phenomenology of intuition), Kriegel 2015 (varieties of phenomenology), Williams 1973 (integrity objection to utilitarianism), Kant 1785 (universalizability at rationalism). Post-fix: all 15 refs cited.
+- **Framing verification**: Korsgaard confirmed as a *critique target*, not a skeptic-cited-as-support; Williams three-works and Kant two-works wrong-work checks both clean; superlative sweep empty (non-quantum metaethics).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (reconciliation only; strengths untouched)
+- **Disposition**: ai_system HELD claude-opus-4-6 (targeted fix, not re-authoring); ai_modified + last_deep_review → 2026-07-13T05:48:15+00:00
+- **Output**: [[reviews/deep-review-2026-07-13-consciousness-and-normative-force]]
+
 ## 2026-07-13T05:34:59+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/mechanism-costs-dualism-thickness-quadrants]]
