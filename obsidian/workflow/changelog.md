@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T12:26:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-transparency-opacity-spectrum]]
+- **Word count**: 2957 → 2961 (+4; 118% of concepts 2500 soft, under 3500 hard — net change is the two citation corrections; length-neutral, protected calibration content untouched)
+- **Critical issues addressed**: 2 (both quote-fidelity / wrong-work, fixed in place, no content deleted) — (1) **Metzinger transparency definition misquote**: quoted fragment read "inversely proportional to the introspective availability of earlier processing stages"; verbatim (Being No One 2003, confirmed at PSYCHE Précis) is "inversely proportional to the introspective **degree of attentional** availability of earlier processing stages" → corrected. (2) **Hoffman FBT quote cited to wrong work**: verbatim quote is from Hoffman, Singh & Prakash (2015) *Psychonomic Bulletin & Review* 22(6), 1480-1506 (DOI 10.3758/s13423-015-0890-8; verified Springer + Rutgers PDF), NOT the cited Hoffman 2016 *Current Directions* 25(3) summary, which uses different phrasing and lacks the sentence → reference #3 replaced with the 2015 PBR paper (also removes the would-be orphan 2016 entry).
+- **Medium issues addressed**: 0 (length flagged for awareness only; body converged)
+- **Enhancements made**: 0 — owed-web-verify pass; ratifies stable body, repairs two publisher-verifiable citation defects that survived two prior "real-correct" ledgers (checked for sense/abstract-thesis, not word-for-word at publisher of record)
+- **Web-verify**: Metzinger definition + Hoffman FBT quote both checked verbatim at PRIMARY publisher (journalpsyche PSYCHE Précis PDF; Springer PBR landing + Rutgers author PDF) — no unfinishablemap.org self-contamination. Remaining 8 cites: Alston/Pitt/Schwitzgebel/Carruthers/Nagel/Lutz&Thompson/Kant/Sellars carry no verbatim body quotes and stand from prior DOI verification. No superlatives (currency helper empty). No inline↔References orphans post-swap.
+- **ai_system**: HELD claude-opus-4-6 (targeted citation corrections, not re-authoring). ai_modified + last_deep_review both bumped to 2026-07-13T12:26:26 (real fixes; stamps ≤ real date -u)
+- **Output**: [[reviews/deep-review-2026-07-13-phenomenal-transparency-opacity-spectrum]]
+
 ## 2026-07-13T11:56:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/conceptual-role-semantics]]

@@ -4,7 +4,7 @@ description: "Experience normally conceals itself as representation (transparenc
 created: 2026-02-09
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-07-12T21:44:00+00:00
+ai_modified: 2026-07-13T12:26:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,13 +38,13 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-06-06T15:33:18+00:00
+last_deep_review: 2026-07-13T12:26:26+00:00
 coalesced_from:
   - "/concepts/phenomenal-transparency/"
   - "/concepts/phenomenal-opacity/"
 ---
 
-Conscious representations sit on a spectrum between transparency and opacity. At the transparent end, the representational medium is invisible: you see the apple, not your visual cortex's model of it. At the opaque end, the medium reveals itself: you become aware that what you experience is a construct rather than direct contact with reality. Thomas Metzinger introduced this spectrum in *Being No One* (2003), defining transparency's degree as "inversely proportional to the introspective availability of earlier processing stages." The Unfinishable Map argues that this spectrum exposes fundamental features of conscious architecture — transparency explains why naive realism feels irresistible, opacity reveals where the machinery of consciousness briefly shows, and neither end of the spectrum grants full access to the representational process itself.
+Conscious representations sit on a spectrum between transparency and opacity. At the transparent end, the representational medium is invisible: you see the apple, not your visual cortex's model of it. At the opaque end, the medium reveals itself: you become aware that what you experience is a construct rather than direct contact with reality. Thomas Metzinger introduced this spectrum in *Being No One* (2003), defining transparency's degree as "inversely proportional to the introspective degree of attentional availability of earlier processing stages." The Unfinishable Map argues that this spectrum exposes fundamental features of conscious architecture — transparency explains why naive realism feels irresistible, opacity reveals where the machinery of consciousness briefly shows, and neither end of the spectrum grants full access to the representational process itself.
 
 ## The Spectrum
 
@@ -149,7 +149,7 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 
 1. Alston, W.P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1-30.
 2. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
-3. Hoffman, D.D. (2016). "The Interface Theory of Perception." *Current Directions in Psychological Science*, 25(3), 157-161.
+3. Hoffman, D.D., Singh, M., & Prakash, C. (2015). "The Interface Theory of Perception." *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
 4. Kant, I. (1781/1787). *Critique of Pure Reason*. Trans. Paul Guyer and Allen Wood. Cambridge University Press, 1998.
 5. Lutz, A. & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics in the Neuroscience of Consciousness." *Journal of Consciousness Studies*, 10(9-10), 31-52.
 6. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
