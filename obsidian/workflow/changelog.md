@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T15:14:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/kripke-a-posteriori-necessity-argument]]
+- **Word count**: 1646 → 1860 (+214)
+- **Critical issues addressed**: 3 (unverified-primary-text disclaimer resolved with verbatim p.152 quotes; "C-fibre firing" vs Kripke's "stimulation of C-fibers" fidelity note; conclusion re-framed to Kripke's own hedged claim p.155 + n.77)
+- **Medium issues addressed**: 2 (awkward self-reference tightened; References page locators added)
+- **Enhancements made**: 3 (verbatim quotes with locators; Kripke's own calibration wired into Tenet 5 paragraph; [[the-convergence-argument-for-dualism]] reciprocal cross-link)
+- **Citation web-verify**: full §2.4 ledger in review archive — Kripke 1972/1980 real-correct (1980 text verified page-by-page vs Harvard-edition scan, pp. 144–155), SEP Smart real-correct, 2 Map self-cites real-correct; superlative scan empty
+- **Engagement modes** (§2.6): identity theorist — Mode One (materialist's own semantic apparatus); phenomenal-concepts strategist — Mode Three residue honestly declared; no label leakage
+- **Output**: [[reviews/deep-review-2026-07-13-kripke-a-posteriori-necessity-argument]]
+
 ## 2026-07-13T14:15:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Occasionalism (dedicated-page deepening; companion to non-interactionist-dualisms-2026-07-12)
