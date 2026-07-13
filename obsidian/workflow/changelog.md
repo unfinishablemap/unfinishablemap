@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T01:11:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/memory-anomalies]]
+- **Word count**: 3308 → 3309 (+1; net-neutral, two attribution fixes)
+- **Critical issues addressed**: 2 (quote-fidelity + wrong-attribution; attribution-framing over-ascription)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Axis**: framing/quote (orthogonal to 06-02 metadata web-verify). Brown & Murphy false-quote → the phrasing is APA Monitor journalist Siri Carpenter's paraphrase of Richard Marsh's research (de-quoted, re-framed as source-monitoring account). "Flournoy and Jung coined and developed" → Flournoy coined (1900), Jung developed (1905). Bergson 1908 + Mandler/Yonelinas attributions verified accurate. Both ai_modified + last_deep_review bumped; ai_system held claude-opus-4-7 (citation fix, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-13-memory-anomalies]]
+
 ## 2026-07-13T01:02:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Vitalism and the anti-dualist meta-induction ("consciousness is the modern élan vital")
