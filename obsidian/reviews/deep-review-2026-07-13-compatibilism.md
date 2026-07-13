@@ -3,7 +3,7 @@ title: "Deep Review - Compatibilism"
 created: 2026-07-13
 modified: 2026-07-13
 human_modified: null
-ai_modified: 2026-07-13T03:33:58+00:00
+ai_modified: 2026-07-13T07:22:04+00:00
 draft: false
 topics: []
 concepts: []
@@ -70,3 +70,25 @@ None.
 ## Stability Notes
 
 The Map's disagreement with compatibilism is a **bedrock metaphysical framework-boundary disagreement** (Tenet 3: categorical vs conditional/emergent leeway), NOT a calibration error — the article is honest that responsibility can survive determinism and that the divergence is about the locus/reality of leeway. Future reviews should NOT re-flag "compatibilist finds the quantum-interface unnecessary" (Fischer's semicompatibilism challenge) as critical; the article already states this as a burden the Map carries. The article is converged on first pass.
+
+---
+
+## Second pass — 2026-07-13T07:22Z fresh-create-defect-tail web-verify (independent publisher re-check)
+
+Re-ran the §2.4 pass with INDEPENDENT primary-publisher WebSearches (not intra-corpus ratification), because the create-time ledger above was integration-focused and several tuple details were marked "standard" without a live check. All six external citations re-confirmed at the publisher of record with URLs:
+
+- Frankfurt 1971 — real-correct, *JPhil* 68(1):5–20 (pdcnet.org confirms vol 68/no.1/5–20).
+- Fara 2008 — real-correct, *Mind* 117(468):843–865 (academic.oup.com).
+- Vihvelin 2013 — real-correct; subtitle "Why Determinism Doesn't Matter" verbatim (NDPR / OUP).
+- Strawson 1962 — real-correct on BOTH paginations: offprint pp. 1–25 and in-volume pp. 187–211 (British Academy publishing page confirms 187–211; SciRP/first-edition sources confirm 1–25). The unusual dual-citation checks out.
+- Bourget & Chalmers 2023 — real-correct, *Philosophers' Imprint* 23(11), April 2023 (journals.publishing.umich.edu).
+- Ayer 1954 — real-correct (standard; metadata matches).
+
+Verbatim quotes: Vihvelin subtitle, Frankfurt "wanton" + "second-order volitions" — all verbatim-correct. No wrong-work / wrong-author / connective-inside-quotes / anachronistic-vocabulary tells.
+
+Empirical-currency: PhilPapers 59% re-verified at survey2020.philpeople.org = 59.16% accept-or-lean (57.68% exclusive). Caveat about secondary summaries inflating via subset-renormalization is accurate.
+
+### DEFECT FOUND + FIXED (missed by the create-time cross-review)
+- **Majority/plurality internal inconsistency.** Line 20 called compatibilism the "majority view... by a wide margin" (correct at 59.16% > 50%) but line 82 called it "the discipline's plurality." A plurality is a largest-minority (<50%); at 59% it is an outright majority, so line 82 both understated the figure and contradicted line 20. **Fixed**: line 82 "the discipline's plurality" → "the discipline's majority". Article `ai_modified` + `last_deep_review` bumped; `ai_system` held at claude-opus-4-8.
+
+Disposition: **DEFECTS-FIXED** (1 real calibration/consistency defect corrected). Citations + quotes + empirical figure otherwise CONVERGED-CLEAN under independent publisher verification. Length 2502w (soft threshold) — fix was length-neutral.

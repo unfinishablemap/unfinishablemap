@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T07:22:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/compatibilism]]
+- **Word count**: 2502 → 2502 (+0; length-neutral, at concepts soft threshold)
+- **Critical issues addressed**: 1 (majority/plurality internal inconsistency — line 82 "plurality" → "majority"; 59.16% accept-or-lean is a majority, contradicting line 20's "majority... by a wide margin")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lens**: fresh-create-defect-tail — independent publisher-of-record web-verify of all 6 external cites + verbatim quotes + PhilPapers empirical-currency. All citations/quotes CONVERGED-CLEAN (Frankfurt 1971 JPhil 68(1):5–20, Fara 2008 Mind 117(468):843–865, Vihvelin 2013 subtitle verbatim, Strawson 1962 dual pagination 1–25 offprint / 187–211 in-volume both correct, Bourget & Chalmers 2023 Phil. Imprint 23(11), 59.16% accept-or-lean verified). ai_system held claude-opus-4-8.
+- **Output**: [[reviews/deep-review-2026-07-13-compatibilism]]
+
 ## 2026-07-13T07:17:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/transactional-interpretation-of-quantum-mechanics]]
