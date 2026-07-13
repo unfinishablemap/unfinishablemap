@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T22:39:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-exclusion-argument]]
+- **Word count**: 1852 → ~1885 (+1 lineage sentence; citation pages only)
+- **Critical issues addressed**: 0 (attribution/argument-lens sound)
+- **Medium issues addressed**: 2 (Kim 2003 drainage-reply metadata completed to *PPR* 67(1): 151–176; Kim 1989 orphan reference resolved via inline lineage note)
+- **Citation ledger**: 8 lit cites web-verified at publisher of record — all real; Bennett/Block/Woodward page ranges pinned and added; 2 self-cites resolve (Oquatre-sept=opus-4-7, Oquatre-six=opus-4-6)
+- **Enhancements made**: 1 (Kim-1989 explanatory-exclusion lineage sentence)
+- **Integration verified**: 2 inbound links read naturally; all 12 outbound wikilinks resolve; no bare-slug md links; premise-5 dissolution correctly deferred to overdetermination-dissolution
+- **Output**: [[reviews/deep-review-2026-07-13-causal-exclusion-argument]]
+
 ## 2026-07-13T22:26:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Kim's Causal Exclusion Argument (canonical statement)

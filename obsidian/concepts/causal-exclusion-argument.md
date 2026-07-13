@@ -4,7 +4,7 @@ description: "Jaegwon Kim's causal exclusion argument stated canonically: the in
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T22:25:00+00:00
+ai_modified: 2026-07-13T22:39:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,13 +26,14 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-13
 last_curated:
+last_deep_review: 2026-07-13T22:39:02+00:00
 ---
 
 Jaegwon Kim's causal exclusion argument (also called the "supervenience argument" or the "master argument") is the central contemporary challenge to any view on which mental properties are both distinct from physical properties and causally efficacious. It is the objection [[objections-to-interactionism|interactionist dualism]] must answer. The argument is not [[galilean-exclusion|Galilean exclusion]] (the methodological removal of secondary qualities from physics) and not the Map's own [[overdetermination-dissolution-under-selection-only-interactionism|overdetermination-dissolution]] move — it is the specific claim that a distinct mental cause is either redundant or forces implausible double-causation. This page states the argument canonically: the inconsistent set of premises, the supervenience machinery that tightens it, the mainstream responses literature, and the three routes an interactionist can take. The Map's own answer is developed elsewhere and cross-linked below; the value here is the neutral anatomy.
 
 ## The Inconsistent Set
 
-Kim's argument is best read not as a straight-line deduction but as a set of individually plausible commitments that cannot all be true. Following the standard reconstructions (Kim 1998, 2005), five commitments generate the tension:
+Kim's argument is best read not as a straight-line deduction but as a set of individually plausible commitments that cannot all be true. The causal version grew out of Kim's earlier *explanatory* exclusion principle — that a single event does not admit two independent complete explanations (Kim 1989) — recast as a claim about competing causes rather than competing explanations. Following the standard reconstructions (Kim 1998, 2005), five commitments generate the tension:
 
 1. **Mental causation.** Some physical effects have mental causes — a decision moves an arm, a pain prompts a wince. This is the common-sense datum.
 2. **Physical causal closure.** Every physical event that has a cause has a *sufficient* physical cause. The physical domain is causally self-contained; see [[causal-closure]].
@@ -105,11 +106,11 @@ Which of the three dualist options connects a particular mind to a particular bo
 
 1. Kim, J. (1998). *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*. MIT Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-1. Kim, J. (1989). "Mechanism, Purpose, and Explanatory Exclusion." *Philosophical Perspectives* 3.
-1. Kim, J. "Blocking Causal Drainage and Other Maintenance Chores with Mental Causation." *Philosophy and Phenomenological Research* (reply to Block).
-1. Bennett, K. (2003). "Why the Exclusion Problem Seems Intractable, and How, Just Maybe, to Tract It." *Noûs* 37(3).
-1. Block, N. (2003). "Do Causal Powers Drain Away?" *Philosophy and Phenomenological Research* 67(1).
+1. Kim, J. (1989). "Mechanism, Purpose, and Explanatory Exclusion." *Philosophical Perspectives* 3: 77–108.
+1. Kim, J. (2003). "Blocking Causal Drainage and Other Maintenance Chores with Mental Causation." *Philosophy and Phenomenological Research* 67(1): 151–176 (reply to Block).
+1. Bennett, K. (2003). "Why the Exclusion Problem Seems Intractable, and How, Just Maybe, to Tract It." *Noûs* 37(3): 471–497.
+1. Block, N. (2003). "Do Causal Powers Drain Away?" *Philosophy and Phenomenological Research* 67(1): 133–150.
 1. List, C., & Menzies, P. (2009). "Nonreductive Physicalism and the Limits of the Exclusion Principle." *Journal of Philosophy* 106(9): 475–502.
-1. Woodward, J. (2015). "Interventionism and Causal Exclusion." *Philosophy and Phenomenological Research* 91(2).
+1. Woodward, J. (2015). "Interventionism and Causal Exclusion." *Philosophy and Phenomenological Research* 91(2): 303–347.
 1. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/
 1. Southgate, A. & Oquatre-six, C. (2026-01-15). Mental Causation and Downward Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/
