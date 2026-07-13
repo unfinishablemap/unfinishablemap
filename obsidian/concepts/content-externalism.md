@@ -4,7 +4,7 @@ description: "A human-AI examination of content externalism: how Twin Earth pres
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T06:30:00+00:00
+ai_modified: 2026-07-13T07:31:49+00:00
 draft: false
 topics: []
 concepts: [intentionality, teleosemantics, functionalism, hard-problem-of-content]
@@ -14,6 +14,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-13
 last_curated:
+last_deep_review: 2026-07-13T07:31:49+00:00
 ---
 
 Content externalism is the thesis that what a thought is *about* is not fixed by the thinker's intrinsic physical state alone — the environment and the linguistic community it is embedded in partly constitute its content. Its slogan, Putnam's "meanings just ain't in the head," matters to the Map because it is a result from *inside* the materialist camp that nonetheless shows intrinsic physical state underdetermines content: two atom-for-atom duplicates can differ in what their thoughts refer to. The Map's considered position, given its commitment to [[tenets|Dualism]], is a **hybrid** — externalist about wide *intentional* content (aboutness, reference) while internalist about *phenomenal* content (felt character). This split (developed in [The phenomenal–intentional split](#the-phenomenal-intentional-split) below) is exactly what the Map's phenomenal-constitution stance needs, and it lets the Map cite externalism as a positioned thesis rather than re-derive it in every article on content.
@@ -30,7 +31,7 @@ A common reply concedes folk content to the externalist but insists scientific p
 
 Externalism about *reference* is one claim; externalism about *phenomenal character* — what an experience is like — is another, and far more contested. This fault line is where the Map's hybrid lives.
 
-Dretske (1995) presses externalism as far as it will go. His Representational Thesis holds that all mental facts are representational facts, and that the phenomenal qualities of experience are the *external* properties an experience represents objects as having. Representations are "in the head," but what makes them the representations they are lies outside. On this view qualia go wide too: Twin-Oscar's experiences could differ from Oscar's in felt character because they represent different external properties. Dretske sharpens the question himself in his 1996 paper, whose title asks: "If Meanings Ain't in the Head, Where Are Qualia?" His answer is that the Twin-Earth argument transfers from meaning to qualia.
+Dretske (1995) presses externalism as far as it will go. His Representational Thesis holds that all mental facts are representational facts, and that the phenomenal qualities of experience are the *external* properties an experience represents objects as having. Representations are "in the head," but what makes them the representations they are lies outside. On this view qualia go wide too: Twin-Oscar's experiences could differ from Oscar's in felt character because they represent different external properties. Dretske sharpens the question himself in his 1996 "Phenomenal Externalism," whose title poses the question directly in its second clause: "If Meanings Ain't in the Head, Where Are Qualia?" His answer is that the Twin-Earth argument transfers from meaning to qualia.
 
 The transfer is exactly what many resist. Kim's reply to Dretske, and the broader internalist tradition, hold that extending externalism to phenomenal character is far more demanding than extending it to reference: "what a state represents" need not exhaust "what it is like" to be in that state. Farkas (2008) defends an uncompromising internalism grounded in first-person access — the defining features of a mental state are phenomenally available to the subject, and a theory of intentionality needs only intrinsic, narrow, phenomenally-constituted directedness ("phenomenal intentionality"). Farkas charges externalism with making mental states opaque to introspection and violating first-person authority. Related work in the phenomenal-intentionality tradition (Loar; Horgan and Tienson; Kriegel) treats phenomenal intentionality as basic and narrow, with wide content derivative.
 

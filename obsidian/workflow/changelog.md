@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T07:31:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/content-externalism]]
+- **Word count**: 1536 → 1536 (+0; well under concepts 2500 soft / 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Dretske 1996 in-body partial-title "If Meanings Ain't in the Head, Where Are Qualia?" risked reading as full title; reconciled to name short title "Phenomenal Externalism" + frame quote as title's second clause, matching fuller References form)
+- **Enhancements made**: 0
+- **Lens**: cross-review chain-successor (integration-verification + fresh-create-defect-tail). Integration: all 4 inbound links (functionalism §Semantic-Externalism L65, intentionality L261, teleosemantics L102, hard-problem-of-content L114) read naturally with accurate reciprocal framing; all 7 outbound wikilinks resolve. Quotes: Putnam "meanings just ain't in the head!" verbatim-faithful; Twin Earth XYZ/H₂O + "division of linguistic labour" faithful. Lead framework-relative (hybrid as Map's considered position given Tenet 1, not bald phenomenal-absence). Relation-to-Site-Perspective flags Putnam/Burge/Dretske as non-ally naturalists — no source/Map conflation, no possibility/probability slippage. Citation-metadata carried from publisher-verified research note (LOW-RISK, not re-web-verified exhaustively). ai_system held claude-opus-4-8; last_deep_review set (was blank). DEFECTS-FIXED (1 medium).
+- **Output**: [[reviews/deep-review-2026-07-13-content-externalism]]
+
 ## 2026-07-13T07:22:04+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/compatibilism]]
