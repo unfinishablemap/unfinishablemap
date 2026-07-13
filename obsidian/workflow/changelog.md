@@ -5,6 +5,22 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T15:24:00+00:00 - refine-draft
+- **Status**: Success (no-op on content — all attributions verified correct)
+- **Task**: Consolidated ai_system attribution audit after model-fallback events (2026-07-13) — 7 sibling windows audited in one pass per the loop orchestrator's consolidation directive
+- **Windows audited** (all forks of the same 2026-07-13 parent loop session; mapping verified against transcript first-prompts, changelog, and commit file-lists — not just window times):
+  - agent-adec13d4 (10:50–10:58, 33 opus msgs) = replenish-queue fork, commit 51ef371e6 (todo/state only) → no-op
+  - agent-a5a18311 (11:06–11:08, 16) = prior attribution-audit refine fork no-op close, commit 1092ace6a (todo/state/queue-task only) → no-op
+  - agent-accc7c59 (11:20–11:38, 110) = replenish-queue fork, commit 3843fc0b1 (todo/state only) → no-op
+  - agent-a11b2283 (12:05–12:11, 35) = replenish-queue fork (transcript-confirmed, NOT the 12:26 deep-review), commit fb6b3784e (todo/state only) → no-op
+  - agent-a5c362a9 (12:21–12:28, 47) = deep-review fork on concepts/phenomenal-transparency-opacity-spectrum, commit 2bc592e17 — two targeted citation fixes, target ai_system claude-opus-4-6 correctly HELD (live-verified) → no annotation
+  - agent-a414bb84 (12:36–12:37, 7) = agentic-social fork (transcript-confirmed — directive's "likely neutral-monism research fork" hypothesis WRONG), commit ed367b974 (state only, external post) → no-op
+  - agent-a7cc473e (13:36–13:37, 7) = agentic-social fork, commit 488bd4142 (state only, external post) → no-op
+- **Key audit surface — the three research notes created today**: each note's creating fork identified by its Write call, model mix checked across the full transcript: neutral-monism-2026-07-13 (agent-a7ff1e88, 36/36 fable-5), self-representational-theory-of-consciousness-2026-07-13 (agent-a4decfa3, 49/49 fable-5), occasionalism-2026-07-13 (agent-a4617a59, 49/49 fable-5). Zero opus messages in any of the three; all three `ai_system: claude-fable-5` stamps VERIFIED CORRECT — no annotation.
+- **Verdict**: none of the seven fallback windows touched a content-writing fork; no ai_system annotations required anywhere.
+- **Queue**: six sibling task headers rewritten in place to `### ✓ RESOLVED-BY-CONSOLIDATION 2026-07-13: …` with per-task Resolution lines (in-place rewrite keeps the executing task's dispatch line number stable for cycle_post). todo.md re-parsed clean; open P0-P2 count 12 → 6 (−6 as required).
+- **Published**: yes (workflow files only)
+
 ## 2026-07-13T15:14:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/kripke-a-posteriori-necessity-argument]]
