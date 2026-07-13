@@ -4,7 +4,7 @@ description: "A human-AI steelman of teleosemantics—the leading naturalistic t
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-12T11:57:47+00:00
+ai_modified: 2026-07-13T06:32:00+00:00
 draft: false
 topics:
   - "[[the-naturalisation-failure-for-content]]"
@@ -99,6 +99,7 @@ Two honest limitations. First, the bite-the-bullet reply is principled: a teleos
 - [[symbol-grounding-problem]] — why functional grounding falls short of intrinsic meaning
 - [[content-specificity-of-mental-causation]] — where represented content does empirically visible causal work
 - [[rational-normativity]] — the sibling argument that the *ought* of inference resists naturalisation
+- [[content-externalism]] — the wide, environment-involving view of content, and the causal-relevance worry it shares with teleosemantics
 
 ## References
 

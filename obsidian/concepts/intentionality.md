@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-07-11T12:07:00+00:00
+ai_modified: 2026-07-13T06:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -258,6 +258,7 @@ Intentionality connects to all five foundational tenets:
 - [[consciousness-and-collective-phenomena]] — How shared goals and institutional facts require phenomenal consciousness
 - [[direction-of-fit]] — Classifying intentional states by whether mind adapts to world or world adapts to mind
 - [[phenomenal-acquaintance]] — The direct epistemic relation to phenomenal qualities that may ground intentional content
+- [[content-externalism]] — Why intrinsic duplicates can differ in reference, and the Map's hybrid: externalist about intentional content, internalist about phenomenal character
 - [[language-and-consciousness]] — How philosophy of language reveals consciousness's irreducibility
 - [[metaphysics-of-information-under-dualism]] — Why physical information is syntactic and consciousness supplies semantics
 - [[intentionality-consciousness-2026-01-14]] — Research notes on this topic

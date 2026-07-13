@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T06:32:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Content Externalism and the Twin Earth Argument
+- **Output**: [[concepts/content-externalism]]
+- **Word count**: 1536
+- **Based on research**: yes — [[research/content-externalism-twin-earth-2026-07-13]]
+- **Integration**: 4 inbound cross-links added (functionalism, intentionality, teleosemantics, hard-problem-of-content); article links out to same hubs + concession-convergence + naturalisation-failure-for-content. Cross-review successor task owed.
+
 ## 2026-07-13T06:19:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/logical-behaviourism]]

@@ -4,7 +4,7 @@ description: "The argument by Hutto and Myin that no naturalistic theory can exp
 created: 2026-04-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-15T16:53:35+00:00
+ai_modified: 2026-07-13T06:32:00+00:00
 last_deep_review: 2026-06-15T16:53:35+00:00
 draft: false
 topics:
@@ -111,6 +111,7 @@ The honest limitation: Hutto and Myin would reject the Map's conclusion. They ar
 - [[predictive-processing]]
 - [[philosophy-of-language-under-dualism]]
 - [[the-naturalisation-failure-for-content]]
+- [[content-externalism]] — the externalist result that intrinsic physical state underdetermines content, complementing the intensionality gap from the other side
 - [[hutto-myin-hard-problem-of-content-2026-04-27]]
 
 ## References
