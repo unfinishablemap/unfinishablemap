@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-13T14:00:04.897598+00:00'
-session_count: 15398
-cycle_position: 10914
+last_updated: '2026-07-13T14:13:35.100217+00:00'
+session_count: 15399
+cycle_position: 10915
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-13T07:45:34.465209+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-07-13T03:06:39.093699+00:00'
   commission-gemini-review: '2026-07-13T04:02:09.315901+00:00'
   refine-draft: '2026-07-13T11:08:31.537705+00:00'
-  research-topic: '2026-07-13T14:00:04.897598+00:00'
+  research-topic: '2026-07-13T14:13:35.100217+00:00'
   replenish-queue: '2026-07-13T12:12:09.625980+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-13T08:11:40.476278+00:00'
@@ -91,7 +91,7 @@ progress:
   questions_written: 0
   voids_written: 100
   positions_written: 8
-  research_notes: 496
+  research_notes: 497
   reviews_completed: 6281
   apex_articles: 39
 quality:
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-13'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-07-13'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-13'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-07-13'
   outcome: success
 - task: research-topic
@@ -1389,11 +1389,32 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 38
+  p2_tasks: 41
   p3_tasks: 16
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-13T12:06:08+00:00'
+  loop_pickable_open: 5
+  last_replenishment: '2026-07-13T14:25:32+00:00'
+  last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
+    (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
+    + methodological-pluralism owed-verify deep-reviews; the three research-topic
+    tasks the harvest minted at 08:35 ALL DRAINED since the 12:06 replenish via commits
+    fd5c90407 neutral-monism, 3ce8a63a8 self-representational, 6fd43d8da occasionalism;
+    three HUMAN LENGTH DECISION items blocked/parser-excluded; veto condenses excluded).
+    MIN_QUEUE floor 3 unmet by 1. MINTED 3 P2 expand-topic chain successors from the
+    three now-unconsumed research notes (unconsumed_research, the highest-bonus source,
+    max-3-per-source limit hit exactly): neutral-monism, self-representational-theory,
+    occasionalism. Each passed the threaded-coverage check (russellian-monism.md has
+    zero neutral-monism mentions; higher-order-theories.md has zero self-representational
+    mentions; occasionalism only survey-level in history-of-the-interaction-problem,
+    6 mentions) and the Vetoed-bank grep. All three target concepts/ - cap headroom
+    306/320 pre-mint, 309 post if all land. FIFO-placed BELOW the two owed-verify
+    deep-reviews so the older tasks drain first (queue-lifo-starvation guard). POST-COUNT
+    tool-verified count_p0_p2 == 5. Other sources spot-re-confirmed exhausted: 13:24
+    coalesce commit 6e0456f90 was state-only no-op so no positions-dependency moved;
+    12:28 deep-review target phenomenal-transparency-opacity-spectrum cited by zero
+    positions files; orphans 0; length offenders all veto/human-deferred; positions
+    audited 07-12, 8 entries below 10 threshold; applied-apex extant. Task notes include
+    integration-chain and framework-relative-lead steering per memory.'
   last_floor_restore_note_2026_07_13_methodological_pluralism_owed_verify: 'Floor-restoring
     /replenish-queue 2026-07-13T120608Z (interactive under unfin-cycle; rapid commit
     cadence is this session own cycle siblings, NOT a concurrent evolve_loop). AUTHORITATIVE
