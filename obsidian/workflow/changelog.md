@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T00:18:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/duch-neurodynamic-theory-of-mind]]
+- **Word count**: 2510 → 2518 (+8; length-neutral, 84% of 3000 topics soft threshold)
+- **Critical issues addressed**: 1 (QUOTE-FIDELITY, line 71: English verbatim quote attributed to Duch's "blog statements" — but his relevant blog is Polish and the exact string is unconfirmed at any primary source. Same defect class the 2026-06-02 pass fixed at line 87. De-quoted to reported paraphrase; substance/calibration preserved.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (quote/verify pass, NOT a rewrite)
+- **Citation web-verify**: First TRUE publisher-of-record pass on the two anchor Duch-2005 quotes (prior 2026-06-02 pass only checked them as "consistent with the argument"). Pulled Duch's own institutional PDF (fizyka.umk.pl/publications/kmk/03-Brainins.pdf, author deposit, self-contamination clean). (1) "experience different qualities of internal states" — VERBATIM-CONFIRMED. (2) Chinese-room ellipsis quote — both fragments VERBATIM; ellipsis judged NON-MISLEADING (elides broadening "and other arguments…" connective within one contiguous sentence, no meaning flip). Blog post "Autorefleksja w Claude 3" confirmed real/Polish/2024-03-17, paraphrase faithful (stays a characterisation). Duch 1996/1998/2005/2017/2018/2019/2022 + Wiest 2025 (single-author, no "et al.") real-correct; inline↔References reciprocal. Milinkovic&Aru 2026 in-passing inline cite noted as residual (not a critical orphan). ai_system HELD at claude-opus-4-7 (de-quote is fidelity maintenance, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-13-duch-neurodynamic-theory-of-mind]]
+
 ## 2026-07-13T00:06:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
