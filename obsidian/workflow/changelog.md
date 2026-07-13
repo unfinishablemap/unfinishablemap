@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T08:30:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/content-externalism]]
+- **Word count**: 1563 → 1725 (+162; concepts soft 2500 / hard 3500 — status ok, ample headroom; growth is the honest floor for giving Dretske his due)
+- **Finding addressed**: VERIFIED pessimistic-review ARGUMENT-LENS defect — the hybrid's phenomenal-internalist half was ARGUED but BEGGED THE QUESTION against Dretske's phenomenal externalism. (1) line ~42 asserted felt character "can be held fixed across the switch" as agreed fact — Dretske denies exactly this. (2) line ~46 rejected Dretske because phenomenal externalism "is precisely the view the Map must resist here, because it would dissolve the internal constitution…" — a Map-internal reason, not an argument Dretske must engage.
+- **Option implemented**: (a)+(b) combined. (a) Made Farkas 2008's first-person-authority / introspective-access charge (already cited at line ~36) the LOAD-BEARING INDEPENDENT reason; reframed switch-invariance as the internalist's *contested* claim (explicitly noting Dretske denies it) backed by that argument, not asserted as fact. (b) Downgraded the line ~46 register: resistance now rests on the introspective-authority argument, and where it runs out the Map declines phenomenal externalism as a framework commitment and acknowledges the case is not knock-down — no longer rejects Dretske merely for conflicting with the Map.
+- **Engagement classification** (editor-internal): reply to Dretske = Mixed — Mode Two opens (phenomenal externalism helps itself to letting felt character vary with facts the subject cannot detect, which the introspective-authority standard the opponent's own first-person data endorse tells against), closing with Mode Three boundary-marking (framework-commitment decline honestly noted, not dressed as refutation). Natural prose; no label leakage.
+- **Secondary**: Yli-Vakkuri & Hawthorne narrow-content tension already reconciled in existing text (internalist claim rests on phenomenal character, not a constructed narrow-content notion) — left as-is, length-neutral.
+- **Disposition**: ai_modified bumped 07:31:49 → 08:30:54; last_deep_review HELD at 2026-07-13T07:31:49 (refine≠review); ai_system HELD claude-opus-4-8. No new/non-resolving wikilinks (touched [[intentionality]], [[hard-problem-of-content]] — both resolve).
+- **Published**: yes
+
 ## 2026-07-13T08:22:04+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/bohm-implicate-order-and-active-information]]
