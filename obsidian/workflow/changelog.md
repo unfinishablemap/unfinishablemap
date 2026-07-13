@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T07:09:53+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Conceptual Role Semantics and the Naturalisation of Content
+- **Output**: [[research/conceptual-role-semantics-2026-07-13]]
+- **Sources consulted**: 9
+
 ## 2026-07-13T06:32:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Content Externalism and the Twin Earth Argument
