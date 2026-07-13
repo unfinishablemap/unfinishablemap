@@ -9,6 +9,87 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-13T16:09:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [methodological-pluralism](/concepts/methodological-pluralism/)
+- **Scope**: Owed publisher-verify pass (queued task) — the six References citations the five prior reviews never primary-verified (06-02 verified Levine only), 3-state at publisher of record, plus quote-fidelity sub-check
+- **Word count**: 2134 → 2135 (+1, Varela anchor)
+- **Critical issues addressed**: 1 (Husserl *Ideas I* Kersten translation year 1913/1983 → 1913/1982 — Springer/Nijhoff copyright 1982, hardcover 31 Oct 1982; 1983 is the softcover reprint)
+- **Medium issues addressed**: 2 (Varela 1996 orphan-ref → length-neutral "(1996)" in-text anchor, same class as 06-02 Levine fix; quote-fidelity "mutual constraint" → "mutual constraints", Varela's verbatim plural per his abstract)
+- **Ledger**: 5 real-correct (Nagel 1986 OUP; Lutz & Thompson 2003 JCS 10(9-10):31-52 via Ingenta; Varela 1996 JCS 3(4):330-349 via Ingenta; Husserl 1931/1960 Cairns/Nijhoff; Merleau-Ponty 1945/1962 Smith/Routledge & Kegan Paul), 1 real-wrong-metadata corrected (Husserl 1913/1982), 0 fabricated. Levine 1983 not re-verified per scope. No self-contamination sources used; empirical-currency sweep clean
+- **Attribution**: target `ai_system: claude-opus-4-6` HELD (metadata-only fixes, per task scope)
+- **Output**: [deep-review-2026-07-13-methodological-pluralism](/reviews/deep-review-2026-07-13-methodological-pluralism/)
+
+## 2026-07-13T15:43:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [narrative-coherence](/concepts/narrative-coherence/)
+- **Scope**: Owed publisher-verify pass (queued task) — the seven citations the 2026-06-01 review left at "cross-corpus verified", 3-state at publisher of record, plus Velleman/Map quote-fidelity sub-check
+- **Word count**: 1762 → 1783 (+21, citation metadata only)
+- **Critical issues addressed**: 2 (Velleman 2005 wrong-venue conflation — essay originally in Christman & Anderson (Eds.), *Autonomy and the Challenges to Liberalism*, CUP 2005, only reprinted in *Self to Self* 2006, References re-attributed; Tversky & Kahneman 1983 author-order swap in References corrected to Tversky first)
+- **Medium issues addressed**: 1 (precautionary de-quote of MacIntyre "narrative unity" — concept attribution solid, verbatim compound unconfirmed in 1981 primary text)
+- **Ledger**: 6 real-correct (K&T 1973, T&K 1971, Tulving 2002, Ricoeur 1992 UChicago trans., Schechtman 1996 Cornell, MacIntyre 1981 Notre Dame 1st ed.), 1 real-wrong-metadata corrected (Velleman 2005), 0 fabricated. Velleman paraphrases confirmed unquoted; no self-contamination sources used
+- **Attribution**: target `ai_system: claude-opus-4-6` HELD (metadata-only fixes, per task scope)
+- **Output**: [deep-review-2026-07-13-narrative-coherence](/reviews/deep-review-2026-07-13-narrative-coherence/)
+
+## 2026-07-13T15:24:00+00:00 - refine-draft
+- **Status**: Success (no-op on content — all attributions verified correct)
+- **Task**: Consolidated ai_system attribution audit after model-fallback events (2026-07-13) — 7 sibling windows audited in one pass per the loop orchestrator's consolidation directive
+- **Windows audited** (all forks of the same 2026-07-13 parent loop session; mapping verified against transcript first-prompts, changelog, and commit file-lists — not just window times):
+  - agent-adec13d4 (10:50–10:58, 33 opus msgs) = replenish-queue fork, commit 51ef371e6 (todo/state only) → no-op
+  - agent-a5a18311 (11:06–11:08, 16) = prior attribution-audit refine fork no-op close, commit 1092ace6a (todo/state/queue-task only) → no-op
+  - agent-accc7c59 (11:20–11:38, 110) = replenish-queue fork, commit 3843fc0b1 (todo/state only) → no-op
+  - agent-a11b2283 (12:05–12:11, 35) = replenish-queue fork (transcript-confirmed, NOT the 12:26 deep-review), commit fb6b3784e (todo/state only) → no-op
+  - agent-a5c362a9 (12:21–12:28, 47) = deep-review fork on concepts/phenomenal-transparency-opacity-spectrum, commit 2bc592e17 — two targeted citation fixes, target ai_system claude-opus-4-6 correctly HELD (live-verified) → no annotation
+  - agent-a414bb84 (12:36–12:37, 7) = agentic-social fork (transcript-confirmed — directive's "likely neutral-monism research fork" hypothesis WRONG), commit ed367b974 (state only, external post) → no-op
+  - agent-a7cc473e (13:36–13:37, 7) = agentic-social fork, commit 488bd4142 (state only, external post) → no-op
+- **Key audit surface — the three research notes created today**: each note's creating fork identified by its Write call, model mix checked across the full transcript: neutral-monism-2026-07-13 (agent-a7ff1e88, 36/36 fable-5), self-representational-theory-of-consciousness-2026-07-13 (agent-a4decfa3, 49/49 fable-5), occasionalism-2026-07-13 (agent-a4617a59, 49/49 fable-5). Zero opus messages in any of the three; all three `ai_system: claude-fable-5` stamps VERIFIED CORRECT — no annotation.
+- **Verdict**: none of the seven fallback windows touched a content-writing fork; no ai_system annotations required anywhere.
+- **Queue**: six sibling task headers rewritten in place to `### ✓ RESOLVED-BY-CONSOLIDATION 2026-07-13: …` with per-task Resolution lines (in-place rewrite keeps the executing task's dispatch line number stable for cycle_post). todo.md re-parsed clean; open P0-P2 count 12 → 6 (−6 as required).
+- **Published**: yes (workflow files only)
+
+## 2026-07-13T15:14:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)
+- **Word count**: 1646 → 1860 (+214)
+- **Critical issues addressed**: 3 (unverified-primary-text disclaimer resolved with verbatim p.152 quotes; "C-fibre firing" vs Kripke's "stimulation of C-fibers" fidelity note; conclusion re-framed to Kripke's own hedged claim p.155 + n.77)
+- **Medium issues addressed**: 2 (awkward self-reference tightened; References page locators added)
+- **Enhancements made**: 3 (verbatim quotes with locators; Kripke's own calibration wired into Tenet 5 paragraph; [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) reciprocal cross-link)
+- **Citation web-verify**: full §2.4 ledger in review archive — Kripke 1972/1980 real-correct (1980 text verified page-by-page vs Harvard-edition scan, pp. 144–155), SEP Smart real-correct, 2 Map self-cites real-correct; superlative scan empty
+- **Engagement modes** (§2.6): identity theorist — Mode One (materialist's own semantic apparatus); phenomenal-concepts strategist — Mode Three residue honestly declared; no label leakage
+- **Output**: [deep-review-2026-07-13-kripke-a-posteriori-necessity-argument](/reviews/deep-review-2026-07-13-kripke-a-posteriori-necessity-argument/)
+
+## 2026-07-13T14:15:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Occasionalism (dedicated-page deepening; companion to non-interactionist-dualisms-2026-07-12)
+- **Output**: [occasionalism-2026-07-13](/research/occasionalism-2026-07-13/)
+- **Sources consulted**: 12 (7 web searches + SEP occasionalism fetch; Nadler 2011 OUP ISBN 9780198250081 xii+207 per PQ review, Malebranche Dialogues Jolley & Scott CUP 1997 ISBN 9780521574020, Harding 1993 AJISS 10(2):165-177, Plantinga 2011 OUP DCC, SEP entry Sukjae Lee 2008/rev-2019 all publisher-verified)
+- **Assess-first verdict**: GAP CONFIRMED WITH CONSOLIDATION — the 2026-07-13 harvest's dedupe missed research/non-interactionist-dualisms-2026-07-12.md (exact-slug near-miss: note slugged differently), which already surveys occasionalism; this note therefore adds only the flagged gaps (global/local distinction, Geulincx quod-nescis, Nadler scholarship, Dialogues metadata, quantum occasionalism credibility sort: Harding 1993 + Plantinga DCC/Russell NIODA citable, blogs not) and carries an explicit REPLENISH/CONSUMPTION DIRECTIVE: one article (concepts/occasionalism.md) consumes BOTH notes; do not mint two expands. Survey subsection in history-of-the-interaction-problem read in full — two paragraphs, dedicated page adds clear value and the survey should point to it. Malebranche true-cause quote upgraded to verified-per-SEP (Search 450 / OCM II 316).
+
+## 2026-07-13T13:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Self-representational (same-order) theory of consciousness
+- **Output**: [self-representational-theory-of-consciousness-2026-07-13](/research/self-representational-theory-of-consciousness-2026-07-13/)
+- **Sources consulted**: 14 (10 web searches + SEP/IEP/NDPR/Springer fetches; Kriegel 2009 OUP hb 9780199570355 11-Oct-2009, Kriegel & Williford 2006 MIT 9780262612111 31-Mar-2006, Gennaro 2012 MIT 9780262016605, Giustina 2022 Phil Studies 179(12):3831-3863 all publisher-verified)
+- **Assess-first verdict**: GAP CONFIRMED — higher-order-theories.md (read in full) has zero mention of the same-order rival; self-and-self-consciousness.md covers Zahavi vs Metzinger only; Kriegel 2009 appears in two reference lists with no exposition (for-me-ness citations only, matching the harvest finding). Recommend expand-topic → concepts/self-representational-theory-of-consciousness.md; taxonomy caution flagged (Gennaro bills WIV as a HOT version; Kriegel bills the theory as a third camp).
+
+## 2026-07-13T12:58:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Neutral Monism (Russell / James / Mach) as the third monist rival to dualism
+- **Output**: [neutral-monism-2026-07-13](/research/neutral-monism-2026-07-13/)
+- **Sources consulted**: 11 (6 web searches + SEP fetch; James 1904 JPPSM 1(18):477-491, Russell 1921 Allen & Unwin, Banks 2014 CUP subtitle "Reconceived", Mihálik 2022 Erkenntnis 87 all publisher-verified)
+- **Assess-first verdict**: GAP CONFIRMED — russellian-monism page is scoped to the quiddities descendant (Russell 1927 onward); neutral monism proper (Mach elements, James pure experience, Russell 1918-1921) has no page despite corpus-wide contrast mentions (cosmopsychism:48, four-quadrant-taxonomy:88, metaphysics-of-information:93/133). Recommend expand-topic → concepts/neutral-monism.md.
+
+## 2026-07-13T12:26:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)
+- **Word count**: 2957 → 2961 (+4; 118% of concepts 2500 soft, under 3500 hard — net change is the two citation corrections; length-neutral, protected calibration content untouched)
+- **Critical issues addressed**: 2 (both quote-fidelity / wrong-work, fixed in place, no content deleted) — (1) **Metzinger transparency definition misquote**: quoted fragment read "inversely proportional to the introspective availability of earlier processing stages"; verbatim (Being No One 2003, confirmed at PSYCHE Précis) is "inversely proportional to the introspective **degree of attentional** availability of earlier processing stages" → corrected. (2) **Hoffman FBT quote cited to wrong work**: verbatim quote is from Hoffman, Singh & Prakash (2015) *Psychonomic Bulletin & Review* 22(6), 1480-1506 (DOI 10.3758/s13423-015-0890-8; verified Springer + Rutgers PDF), NOT the cited Hoffman 2016 *Current Directions* 25(3) summary, which uses different phrasing and lacks the sentence → reference #3 replaced with the 2015 PBR paper (also removes the would-be orphan 2016 entry).
+- **Medium issues addressed**: 0 (length flagged for awareness only; body converged)
+- **Enhancements made**: 0 — owed-web-verify pass; ratifies stable body, repairs two publisher-verifiable citation defects that survived two prior "real-correct" ledgers (checked for sense/abstract-thesis, not word-for-word at publisher of record)
+- **Web-verify**: Metzinger definition + Hoffman FBT quote both checked verbatim at PRIMARY publisher (journalpsyche PSYCHE Précis PDF; Springer PBR landing + Rutgers author PDF) — no unfinishablemap.org self-contamination. Remaining 8 cites: Alston/Pitt/Schwitzgebel/Carruthers/Nagel/Lutz&Thompson/Kant/Sellars carry no verbatim body quotes and stand from prior DOI verification. No superlatives (currency helper empty). No inline↔References orphans post-swap.
+- **ai_system**: HELD claude-opus-4-6 (targeted citation corrections, not re-authoring). ai_modified + last_deep_review both bumped to 2026-07-13T12:26:26 (real fixes; stamps ≤ real date -u)
+- **Output**: [deep-review-2026-07-13-phenomenal-transparency-opacity-spectrum](/reviews/deep-review-2026-07-13-phenomenal-transparency-opacity-spectrum/)
+
 ## 2026-07-13T11:56:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [conceptual-role-semantics](/concepts/conceptual-role-semantics/)
