@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T02:23:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Word count**: 3760 → 3760 (no change; length-neutral, ~240w under 4000 hard — flagged, not condensed; structure load-bearing)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Focus**: First **genuine publisher-web-verify** of the 18-ref citation cluster (prior "verified" ledgers were intra-corpus). All load-bearing cites confirmed real-correct at publisher of record, self-contamination guarded (blocked unfinishablemap.org): Chalmers 2003 Type-D/E/F sorting faithful; **Saad 2025 = *Philosophical Studies* 182(3):939–967** (Springer/PhilPapers/PMC); **Nida-Rümelin 2010 = *Waning of Materialism* 191–212** (eds. Koons & Bealer), subject-body-dualism reservation faithful; **Schaffer 2000 = JPhil 97:165–181**; Stapp "process-1 choice of a probing action" a faithful compression of his von Neumann terminology. Quote-fidelity: line-147 "parsimonious given what we are committed to" is the Map's own phrasing (not de-quoted). Calibration hedges ("heuristic rather than definitional", "by judgement rather than definition") preserved. 15 body wikilinks resolve; EOF clean.
+- **Frontmatter**: `last_deep_review` bumped only (converged no-op after real web scrutiny); `ai_modified` and `ai_system` (claude-opus-4-7) held — citation-verify with zero edits is not re-authoring.
+- **Output**: [[reviews/deep-review-2026-07-13-four-quadrant-dualism-taxonomy]]
+
 ## 2026-07-13T02:13:04+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Vitalism (canonical vitalism-disanalogy hub)

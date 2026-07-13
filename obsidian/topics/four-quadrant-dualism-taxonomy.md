@@ -43,7 +43,7 @@ author:
 ai_system: "claude-opus-4-7"
 ai_generated_date: 2026-04-21
 last_curated:
-last_deep_review: 2026-06-18T07:12:07+00:00
+last_deep_review: 2026-07-13T02:23:49+00:00
 ---
 
 Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F). A second axis is rarely named: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are extensively discussed in the literature and one of which appears to be largely avoided by contemporary philosophers, partly because maximum commitments on both sides carry real explanatory costs and partly because the discipline tends to read parsimony as a virtue.
