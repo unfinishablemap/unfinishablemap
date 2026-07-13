@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T23:24:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/penfield-interactionist-dualism]]
+- **Word count**: ~1310 → ~1315 (length-neutral; two framing-clause edits)
+- **Critical issues addressed**: 0 (fresh create; well-calibrated, no attribution/slippage defects)
+- **Medium issues addressed**: 2 (comparator output "ownership"→"sense of agency"; Synofzik 2008 "refined"→"extended and in part challenged")
+- **Enhancements made**: 0 new content; 2 citation-framing precision fixes
+- **Citations**: first publisher-web-verify pass — 6/6 real-correct (SEP dualism quote VERBATIM EXACT @ plato.stanford.edu; Blakemore/Wolpert/Frith 2002 TICS 6(6):237-242; Synofzik/Vosgerau/Newen 2008 Conscious&Cog 17(1):219-239; Penfield 1975/1950/1954 books all exact)
+- **Engagement (editor-internal)**: physicalist/comparator reply — Mode Three (honest framework-boundary marking; underdetermination conceded); no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-07-13-penfield-interactionist-dualism]]
+
 ## 2026-07-13T22:39:02+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/causal-exclusion-argument]]
