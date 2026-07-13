@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-05-20 09:42:34+00:00
+ai_modified: 2026-07-13 00:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Multiple philosophical traditions independently discovered that eva
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 23:03:28+00:00
+last_deep_review: 2026-07-13 00:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ Neo-Confucian philosophy develops a framework where moral feelings (*qíng* 情)
 
 Zhu Xi (1130–1200) systematised this into a framework where evaluative moral awareness emerges at the intersection of *lǐ* (principle/pattern) and *qì* (vital force/material energy). The structural parallel to dualism is suggestive: *lǐ* and *qì* are ontologically distinct principles whose interaction is held to produce the moral phenomenology of human experience. Evaluative consciousness, on this picture, is where pattern meets material force—a structural homology, not an identity of doctrine.
 
-Wang Yangming (1472–1529) pushed further with *liángzhī* (良知)—innate moral knowledge that is phenomenally immediate. Moral knowledge is not inferred from experience but directly present in it. When you witness cruelty, the felt wrongness is not a judgment *about* the experience; it *is* the experience. This anticipates Dimitrov's 2025 argument that "suffering seems bad because it is, and what makes it true is our direct acquaintance with badness."
+Wang Yangming (1472–1529) pushed further with *liángzhī* (良知)—innate moral knowledge that is phenomenally immediate. Moral knowledge is not inferred from experience but directly present in it. When you witness cruelty, the felt wrongness is not a judgment *about* the experience; it *is* the experience. This anticipates Dimitrov's 2025 argument that suffering seems bad on introspection because it is—what makes that judgment true is our direct acquaintance with a judgment-independent evaluative property the experience instantiates.
 
 The Confucian framework is not strictly dualist—*lǐ* and *qì* are interdependent aspects of one reality rather than separate substances. But the phenomenological claim seems to align closely with the [evaluative qualia](/concepts/evaluative-phenomenal-character/) thesis: evaluative character is treated as constitutive of experience rather than projected onto it.
 
@@ -74,11 +74,11 @@ This framework treats evaluative phenomenal character as more revealing of consc
 
 ## Islamic Knowledge-as-Existence: Evaluative Participation
 
-Avicenna's (980–1037) flying man argument is widely taken to support the conclusion that self-awareness is pure first-personality, independent of bodily sensation—a conclusion that, if granted, directly supports the Map's Dualism tenet. The argument is contested—physicalist responses dispute the conceivability premise it relies on—and the Map cites it as a serious classical line of support rather than a settled demonstration. The tradition's contribution to evaluative qualia runs deeper through Mulla Sadra's (1571–1636) radical epistemology.
+Avicenna's (980–1037) flying man argument is widely taken to support the conclusion that self-awareness is pure first-personality, independent of bodily sensation—a conclusion that, if granted, directly supports the Map's Dualism tenet. The argument is contested—physicalist responses dispute the conceivability premise it relies on—and the Map cites it as a serious classical line of support rather than a settled demonstration. The tradition's contribution to evaluative qualia runs deeper through Mulla Sadra's (1571–1640) radical epistemology.
 
 Sadra argues that knowledge is not representation but a mode of existence—what the tradition calls *ʿilm al-ḥuḍūrī* (knowledge by presence). In knowing, the intellect is said to become ontologically unified with the intelligible form—a transformation of the knowing subject. On this account evaluative knowledge is not abstraction from experience but participation in modes of being. To know goodness is not to have a belief *about* goodness but to participate in the mode of being that goodness constitutes. The parallel to [knowledge by acquaintance](/concepts/phenomenal-acquaintance/) in Western epistemology appears striking: both frameworks hold that evaluative knowledge is constituted by direct contact rather than inference, though the metaphysical packaging differs sharply.
 
-Sadra's framework implies that the appearance-reality gap that plagues representational theories of value may not arise for evaluative experience. You do not *represent* felt badness and then wonder whether your representation is accurate—on this view you participate in badness as a mode of existence. This structural conclusion, reached through Islamic philosophical theology, appears to parallel Dimitrov's analytic argument that there is "no appearance-reality gap for simple, nonrepresentational phenomenal states like felt badness."
+Sadra's framework implies that the appearance-reality gap that plagues representational theories of value may not arise for evaluative experience. You do not *represent* felt badness and then wonder whether your representation is accurate—on this view you participate in badness as a mode of existence. This structural conclusion, reached through Islamic philosophical theology, appears to parallel Dimitrov's analytic argument that there is no appearance-reality gap for introspective judgments about simple, nonrepresentational phenomenal states such as suffering's feeling bad.
 
 ## Western Analytic Philosophy: The Recent Crystallisation
 
@@ -130,9 +130,9 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [te
 
 ## References
 
-1. Dimitrov, M. (2025). Direct Acquaintance with Intrinsic Value. *The Philosophical Quarterly*, 75(2), 428ff.
+1. Dimitrov, M. (2025). Direct Acquaintance with Intrinsic Value. *The Philosophical Quarterly*, 75(2), 428–449.
 2. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
-3. Sosa, D. (2011). Two Forms of Dualism. *Dialogue: Canadian Philosophical Review*.
+3. Sosa, D. (2011). Two Forms of Dualism. *Dialogue: Canadian Philosophical Review*, 50(2), 307–313.
 4. Kriegel, U. (2022). Phenomenal Grounds of Epistemic Value. *Philosophy Compass*.
 5. Onof, C. (2008). Property Dualism, Epistemic Normativity, and the Limits of Naturalism. *Philosophy and Phenomenological Research*, 76(1), 60–85.
 6. Abhinavagupta. (c. 1000 CE). *Abhinavabhāratī* and *Locana*. Commentaries on Bharata's *Nāṭyaśāstra* and Ānandavardhana's *Dhvanyāloka*.

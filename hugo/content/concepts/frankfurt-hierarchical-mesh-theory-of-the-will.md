@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-09 17:35:04+00:00
+ai_modified: 2026-07-13 03:33:58+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -27,7 +27,7 @@ topics:
 - '[[free-will]]'
 ---
 
-**Frankfurt's hierarchical (or "mesh") theory of the will** is a structural account of free will, set out in his 1971 paper "Freedom of the Will and the Concept of a Person." Its central move is to locate freedom not in the ability to do otherwise, and not in the causal history of one's desires, but in a *synchronic relation among mental states*: an agent's will is free when the desire that actually moves her to act is the one she *wants* to be effective. The theory is built from **first-order desires** (desires to do things), **second-order desires** (desires about which desires to have), and the pivotal **second-order volition** (wanting a certain desire to be one's *will*). A being with second-order volitions is a **person**; one with first-order desires but no second-order volitions is a **wanton**. This article presents that account at full strength as a paradigm of **structural compatibilism**, states its two canonical objections (the *regress* objection and the *manipulation / authority* objection, both explained below), and locates it on the [source-versus-leeway taxonomy](/concepts/source-versus-leeway-incompatibilism/)—where its ahistorical character becomes the point of contact with the Map's interests.
+**Frankfurt's hierarchical (or "mesh") theory of the will** is a structural account of free will, set out in his 1971 paper "Freedom of the Will and the Concept of a Person." Its central move is to locate freedom not in the ability to do otherwise, and not in the causal history of one's desires, but in a *synchronic relation among mental states*: an agent's will is free when the desire that actually moves her to act is the one she *wants* to be effective. The theory is built from **first-order desires** (desires to do things), **second-order desires** (desires about which desires to have), and the pivotal **second-order volition** (wanting a certain desire to be one's *will*). A being with second-order volitions is a **person**; one with first-order desires but no second-order volitions is a **wanton**. This article presents that account at full strength as a paradigm of **structural [compatibilism](/concepts/compatibilism/)**, states its two canonical objections (the *regress* objection and the *manipulation / authority* objection, both explained below), and locates it on the [source-versus-leeway taxonomy](/concepts/source-versus-leeway-incompatibilism/)—where its ahistorical character becomes the point of contact with the Map's interests.
 
 ## Two Distinct Frankfurt Contributions
 

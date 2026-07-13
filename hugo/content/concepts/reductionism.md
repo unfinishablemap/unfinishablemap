@@ -164,7 +164,7 @@ This diagnosis is a claim about category, distinct from [mysterianism](/concepts
 
 ## The Vitalism Objection
 
-The most common reductionist retort invokes vitalism: "People said life was irreducible too, and they were wrong. Consciousness will go the same way."
+The most common reductionist retort invokes [vitalism](/concepts/vitalism/): "People said life was irreducible too, and they were wrong. Consciousness will go the same way."
 
 This fails on its own terms. Vitalism posited an extra *force*—something functionally characterised (what makes organisms move, grow, reproduce). Once biochemistry showed how ordinary chemistry could perform those functions, the vital force became redundant: vitalism was a functional hypothesis that lost to a better functional explanation.
 

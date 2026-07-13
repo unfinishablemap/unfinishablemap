@@ -23,7 +23,7 @@ description: How symbols acquire meaning intrinsic to a system rather than paras
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 00:18:22+00:00
+last_deep_review: 2026-07-13 04:18:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

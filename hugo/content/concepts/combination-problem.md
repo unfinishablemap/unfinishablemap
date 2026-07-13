@@ -110,7 +110,7 @@ This risks collapsing into emergence: if macro-consciousness *emerges* from micr
 
 ### Cosmopsychism
 
-Philip Goff (in later work) and Itay Shani propose inverting the problem. Rather than building consciousness "up" from micro-subjects, cosmopsychism holds that the universe as a whole is conscious, and individual minds are aspects or "fragments" of universal consciousness.
+Philip Goff (in later work) and Itay Shani propose inverting the problem. Rather than building consciousness "up" from micro-subjects, [cosmopsychism](/concepts/cosmopsychism/) holds that the universe as a whole is conscious, and individual minds are aspects or "fragments" of universal consciousness.
 
 This trades the combination problem for a "[decombination problem](/topics/open-individualism-and-the-de-combination-problem/)": how does one cosmic subject differentiate into many individual subjects? Gregory Miller argues this is no easier than the original problem—we still face the puzzle of subjects as parts of other subjects (see [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) for the in-depth treatment of de-combination as the structural mirror of combination).
 

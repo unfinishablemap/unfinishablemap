@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-12 14:11:20+00:00
+ai_modified: 2026-07-13 03:51:30+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -34,7 +34,7 @@ This article presents the theory at full strength before turning to the objectio
 
 ## The Thesis and Its Founders
 
-The identity theory arose to answer a specific problem for materialism. Behaviourism had tried to analyse mental talk into dispositions to behave, and had failed to accommodate the felt character of sensations—an after-image or a pain seems to be an inner occurrence, not merely a disposition. The identity theorists granted that sensations are inner occurrences and then made the bold move: those inner occurrences simply *are* brain processes.
+The identity theory arose to answer a specific problem for materialism. [Logical behaviourism](/concepts/logical-behaviourism/) had tried to analyse mental talk into dispositions to behave, and had failed to accommodate the felt character of sensations—an after-image or a pain seems to be an inner occurrence, not merely a disposition. The identity theorists granted that sensations are inner occurrences and then made the bold move: those inner occurrences simply *are* brain processes.
 
 Place framed the claim as a contingent, *a posteriori* identity—true, if true, as a matter of empirical discovery rather than meaning. He distinguished the "is" of composition ("a table is a cloud of molecules") from the "is" of definition, and located the identity thesis with the former. Against the objection that experience-talk cannot be about brain processes because we know nothing of our brains when we report a sensation, Place diagnosed a *phenomenological fallacy*: the mistake of inferring, from the fact that we describe an experience in phenomenal terms, that there must exist a phenomenal *object* answering to the description.
 

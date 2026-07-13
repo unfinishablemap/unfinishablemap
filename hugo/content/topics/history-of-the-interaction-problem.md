@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-11 01:52:00+00:00
+ai_modified: 2026-07-13 03:51:30+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -98,7 +98,7 @@ No seventeenth-century thinker found a way to preserve all three commitments: ge
 
 ## The Materialist Eclipse
 
-The twentieth century brought convergence against dualism. Logical positivism dismissed mind-body problems as pseudo-questions. Behaviourism denied inner mental states. Identity theory proposed that mental states simply *are* brain states. Functionalism characterised mental states by causal roles. All shared the assumption of [causal-closure](/concepts/causal-closure/): every physical event has sufficient physical causes.
+The twentieth century brought convergence against dualism. Logical positivism dismissed mind-body problems as pseudo-questions. [Logical behaviourism](/concepts/logical-behaviourism/) denied inner mental states. Identity theory proposed that mental states simply *are* brain states. Functionalism characterised mental states by causal roles. All shared the assumption of [causal-closure](/concepts/causal-closure/): every physical event has sufficient physical causes.
 
 Jaegwon Kim crystallised the problem:
 

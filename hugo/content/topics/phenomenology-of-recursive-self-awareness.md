@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-06-05 19:09:14+00:00
+ai_modified: 2026-07-13 01:35:55+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: Recursive self-awareness transforms phenomenal experience through r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 19:09:14+00:00
+last_deep_review: 2026-07-13 01:35:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +96,7 @@ This collapse reveals something structural. The [recursion-void](/voids/recursio
 
 When I think about the tree, there is a clean division: I am the subject, the tree is the object. When I think about my thinking, this division threatens to collapse. The thought I am examining was just now the subject doing the thinking, and the thought now examining it will shortly become an object for further examination.
 
-This temporal asymmetry has phenomenal consequences. The thought I catch is always already past — by the time I observe it, a new observing-thought has taken its place. As [self-opacity](/voids/self-opacity/) documents in detail, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing. David Hume put it empirically: "I can never catch myself at any time without a perception."
+This temporal asymmetry has phenomenal consequences. The thought I catch is always already past — by the time I observe it, a new observing-thought has taken its place. As [self-opacity](/voids/self-opacity/) documents in detail, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing. David Hume put it empirically: "I never can catch myself at any time without a perception."
 
 Despite this asymmetry, recursive thought involves a distinctive "doubled awareness." When thinking about thinking, we do not simply have a thought about a prior thought; we have a sense of *being the one thinking* while simultaneously *observing the thinking*. This bifurcation of the self into observer and observed — both experienced as aspects of oneself — generates the characteristic phenomenology of recursive awareness. Contemplative traditions describe this precisely: the instruction to "observe the observer" does not produce an infinite regress in practice. Instead, meditators report that at some point the observer-observed distinction collapses into a more fundamental awareness that encompasses both — [witness-consciousness](/concepts/witness-consciousness/) without an object.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-07-07 07:20:29.007207+00:00
+ai_modified: 2026-07-13 01:11:12+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/Xn7m-hcEiEk
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 18:05:00+00:00
+last_deep_review: 2026-07-13 01:11:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ This dual-process picture is the convenient scaffolding for the trio, but it is 
 
 Cleary's gestalt familiarity hypothesis (2008, 2012) makes the architecture testable. Subjects are exposed to virtual environments that share configural layout with environments they will see later but cannot consciously recall. When the layout matches, they reliably report déjà vu — and, strikingly, also report a sense of premonition, a feeling of "knowing what comes next" that does not in fact predict what comes next. In the Map's reading, this may be the most useful empirical fact in the entire literature: a configurational match in the brain appears to produce felt premonition without any actual future-knowledge. The phenomenology and the truth-tracking come apart cleanly.
 
-Cryptomnesia follows the same architectural logic from a different angle. Marsh and Bower's puzzle-task paradigm suggests that subjects under cognitive load reliably claim previously-presented items as their own ideas. The defect appears not to be in retrieval — the content comes back fine — but in the *source tag* attached to it. Brown and Murphy frame cryptomnesia as "a failure to simultaneously engage in creative thinking and monitor where incoming ideas are coming from." Source-monitoring is metabolically expensive; under load, it seems to be the first thing to slip.
+Cryptomnesia follows the same architectural logic from a different angle. Marsh and Bower's puzzle-task paradigm suggests that subjects under cognitive load reliably claim previously-presented items as their own ideas. The defect appears not to be in retrieval — the content comes back fine — but in the *source tag* attached to it. On this source-monitoring account, cryptomnesia is a failure to simultaneously engage in creative thinking and monitor where incoming ideas are coming from. Source-monitoring is metabolically expensive; under load, it seems to be the first thing to slip.
 
 ## The Temporal Lobe Evidence
 
@@ -102,7 +102,7 @@ This points to a structural fact the Map takes seriously: the conscious subject 
 
 ## What These Anomalies Are Not Evidence For
 
-The phenomenology of déjà vu has a long history of being recruited for paranormal claims — past lives, precognitive dreams, ancestral memory. The Map's dualism is principled and does not extend to those claims. The Cleary-style gestalt-match account already explains the felt premonition that often accompanies déjà vu without any genuine future-knowledge: when the configural layout matches, the subject's prediction system outputs both "I have seen this before" and "I know what comes next," and both feelings are equally well-explained by the match. Selective recall plus retrofitting (a known cryptomnesia-adjacent effect) accounts for most "precognitive dream" reports. The Map's commitment is to take the phenomenology seriously without endorsing the unbounded paranormal channels that early spiritualist literature drew from it. Flournoy and Jung, who coined and developed the term *cryptomnesia*, used it precisely to deflate such claims.
+The phenomenology of déjà vu has a long history of being recruited for paranormal claims — past lives, precognitive dreams, ancestral memory. The Map's dualism is principled and does not extend to those claims. The Cleary-style gestalt-match account already explains the felt premonition that often accompanies déjà vu without any genuine future-knowledge: when the configural layout matches, the subject's prediction system outputs both "I have seen this before" and "I know what comes next," and both feelings are equally well-explained by the match. Selective recall plus retrofitting (a known cryptomnesia-adjacent effect) accounts for most "precognitive dream" reports. The Map's commitment is to take the phenomenology seriously without endorsing the unbounded paranormal channels that early spiritualist literature drew from it. Flournoy, who coined the term *cryptomnesia*, and Jung, who developed it, used it precisely to deflate such claims.
 
 ## Relation to Site Perspective
 

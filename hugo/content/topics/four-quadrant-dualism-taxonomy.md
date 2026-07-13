@@ -19,7 +19,7 @@ description: Two-axis taxonomy sorting dualist positions by how much ontological
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 07:12:07+00:00
+last_deep_review: 2026-07-13 02:23:49+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'

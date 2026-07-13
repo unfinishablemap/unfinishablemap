@@ -167,7 +167,7 @@ Dennett and the Churchlands argue mysterianism discourages investigation. The my
 
 ### The Vitalism Analogy
 
-"Life" once seemed as mysterious as consciousness; biology dissolved the mystery through chemistry. But life's "mystery" was explaining coordinated behavior—functional properties that turned out to be mechanistically explicable. Consciousness's mystery is why there's subjective experience at all—not a functional property but the existence of an inner perspective.
+"Life" once seemed as mysterious as consciousness; biology dissolved the mystery through chemistry. But life's "mystery" was explaining coordinated behavior—functional properties that turned out to be mechanistically explicable. Consciousness's mystery is why there's subjective experience at all—not a functional property but the existence of an inner perspective. For the full structural disanalogy, see [vitalism](/concepts/vitalism/).
 
 ### The Squirrel Objection
 

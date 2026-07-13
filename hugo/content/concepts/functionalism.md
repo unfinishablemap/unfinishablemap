@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-07-12 13:57:00+00:00
+ai_modified: 2026-07-13 03:51:30+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -193,6 +193,7 @@ None of these would logically refute dualism—the conceivability arguments woul
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — Empirical wedges where phenomenology and function come apart
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Simple organisms reveal functionalism's limits
 - [type-identity-theory](/concepts/type-identity-theory/) — The reductive predecessor multiple realizability displaced in functionalism's favour
+- [logical-behaviourism](/concepts/logical-behaviourism/) — The earlier predecessor whose circularity objection functionalism resolves by admitting other mental states into each definition
 
 ## References
 
