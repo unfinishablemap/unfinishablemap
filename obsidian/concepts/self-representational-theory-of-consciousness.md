@@ -4,7 +4,7 @@ description: "Kriegel's same-order theory holds a state is conscious when it rep
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T17:24:00+00:00
+ai_modified: 2026-07-13T21:25:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-13
 last_curated:
+last_deep_review: 2026-07-13T21:25:38+00:00
 ---
 
 The **self-representational theory of consciousness** holds that a mental state is phenomenally conscious just when it represents *itself* in the right way. One state does both jobs at once: it is directed at the world (the coffee, the blue sky) and, in the same act, directed at itself. Uriah Kriegel is its leading proponent. The theory is "same-order" rather than "higher-order": where [[higher-order-theories|higher-order theories]] make a state conscious by having a *separate* thought or perception target it, self-representationalism folds the awareness-conferring work back into the one state, so no second state is needed.
@@ -108,7 +109,7 @@ The Map's verdict: self-representationalism is the best structural map yet drawn
 2. Kriegel, U., & Williford, K. (Eds.). (2006). *Self-Representational Approaches to Consciousness*. MIT Press.
 3. Gennaro, R. J. (2012). *The Consciousness Paradox: Consciousness, Concepts, and Higher-Order Thoughts*. MIT Press.
 4. Levine, J. (2010). Review of *Subjective Consciousness: A Self-Representational Theory*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/subjective-consciousness-a-self-representational-theory/
-5. Weisberg, J. (2008). Same old, same old: The same-order representational theory of consciousness and the division of phenomenal labor. *Synthese*, 160(2), 161-181.
+5. Weisberg, J. (2008). Same old, same old: The same-order representation theory of consciousness and the division of phenomenal labor. *Synthese*, 160(2), 161-181.
 6. Williford, K. (2019). Self-acquaintance and three regress arguments. *ProtoSociology*, 36, 368-412.
 7. Giustina, A. (2022). An acquaintance alternative to self-representationalism. *Philosophical Studies*, 179(12), 3831-3863.
 8. Zahavi, D., & Kriegel, U. (2015). For-me-ness: What it is and what it is not. In D. Dahlstrom, A. Elpidorou, & W. Hopp (Eds.), *Philosophy of Mind and Phenomenology: Conceptual and Empirical Approaches* (pp. 36-53). Routledge.

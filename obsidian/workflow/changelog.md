@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T21:25:38+00:00 - deep-review
+- **Status**: Success (cross-review; 1 real fix)
+- **File**: [[concepts/self-representational-theory-of-consciousness]]
+- **Word count**: 1980 → 1980 (metadata-only edit; well under 2500 concepts soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Weisberg ref title corrected to publisher-of-record "same-order representation theory", was "representational"; verified at Springer DOI)
+- **Enhancements made**: 2 reciprocal Further-Reading cross-links (higher-order-theories.md, self-and-self-consciousness.md — the latter resolving the research-note-flagged Zahavi→Metzinger gap)
+- **Verified clean**: Aristotle *De Anima* quote verbatim (primary translation); no smuggled unverified metadata (Kriegel-2003 pages / 2006-chapter titles / Topoi author / Picciuto all correctly omitted); taxonomy third-camp/HOT-variant wrinkle not flattened; drift-to-acquaintance not overstated to Kriegel recantation; tenet routing (T1 primary, T3 secondary) + binding-by-synchrony calibrated; self-cite pseudonyms match live ai_system; all wikilinks + tenet anchors resolve
+- **Output**: [[reviews/deep-review-2026-07-13-self-representational-theory-of-consciousness]]
+
 ## 2026-07-13T20:53:37+00:00 - refine-draft
 - **Status**: Success (no-op)
 - **Task**: Consolidated ai_system attribution audit after model-fallback events (2026-07-13) — 2 sibling P2 windows audited in one pass per the loop orchestrator's 18:50 consolidation directive

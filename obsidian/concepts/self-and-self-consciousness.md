@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-07-11T13:35:00+00:00
+ai_modified: 2026-07-13T21:25:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -207,6 +207,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 - [[indexical-knowledge-and-identity]] — Why "I," "here," "now" resist impersonal translation
 - [[phenomenal-authority-and-first-person-evidence]] — Husserl's evidence taxonomy
 - [[self-model-theory-of-subjectivity]] — Metzinger's SMT, the representationalist no-self account this minimal-self view is the realist foil to
+- [[self-representational-theory-of-consciousness]] — Kriegel's reductive same-order option sitting between Zahavi's non-representational pre-reflective self-awareness and the eliminativists; the Map credits its structural analysis while siding with Zahavi
 - [[haecceity]] — The diachronic thisness the Map adds to Zahavi's synchronic account
 - [[self-construction-constructor]] — Apex synthesis where Henrich's reflection-model circularity becomes the general argument that the constructor cannot be the last construction: every attempt to build the subject from non-self-conscious parts smuggles the subject back in
 
