@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T17:42:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-under-extreme-metabolic-constraint]]
+- **Word count**: 2641 → 2641 (net-neutral; citation-metadata fixes)
+- **Critical issues addressed**: 1 (wrong-author misattribution — "Shulman, Hyder & Rothman 2018" was actually single-authored by Robert Pepperell; re-attributed inline + References. Survived 5 corpus-only prior reviews; caught only by publisher web-verify.)
+- **Medium issues addressed**: 3 (inline "Cerri et al. 2017" → single-author "Cerri, 2017"; Stender reference completed with vol/pages 35(1) 58–65; Nahm et al. 2012 orphan reference resolved with an inline cite)
+- **Enhancements made**: 0 (calibration-stable; no expansion/trim warranted)
+- **Web-verify**: all 12 references publisher-verified this pass (full per-cite ledger in review archive). Owed-web-verify seam: opus-4-6, 38d converged, 5 prior reviews none of which checked at publisher.
+- **ai_system**: held claude-opus-4-6 (citation fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-13-consciousness-under-extreme-metabolic-constraint]]
+
 ## 2026-07-13T17:26:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Self-Representational (Same-Order) Theory of Consciousness — Kriegel's reductive rival

@@ -4,7 +4,7 @@ description: "Consciousness persists at surprising metabolic thresholds and some
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-13T17:42:20+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -26,14 +26,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-05
 last_curated:
-last_deep_review: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-07-13T17:42:20+00:00
 ---
 
 If the brain produces consciousness the way a generator produces electricity, then cutting the fuel supply should dim the lights proportionally. It does not. Across minimally conscious states, psychedelic suppression of the default mode network, anaesthesia, cardiac arrest, deep hypothermia, and hibernation, consciousness follows a pattern that production models struggle to explain: selective component failures, sharp non-linear thresholds, and paradoxical intensification precisely when metabolic supply is collapsing. The Unfinishable Map argues that this pattern is compatible with [[filter-theory|filter theory]]—the brain constrains and channels consciousness rather than generating it, and metabolic crisis disrupts the constraint rather than the source. The evidence does not prove filter theory, but it identifies specific anomalies that production models must accommodate through auxiliary hypotheses.
 
 ## The Production Model's Prediction
 
-The dominant physicalist position treats consciousness as a product of neural computation, which requires metabolic energy. Shulman et al. (2018) articulate this directly: cerebral energy metabolism organises the neural activity from which consciousness emerges. If this is correct, reducing metabolic supply should reduce consciousness—perhaps not in strict proportion, since network models allow graceful degradation and threshold effects, but broadly tracking metabolic decline. The prediction is directional: less fuel, less consciousness, with no room for paradoxical intensification.
+The dominant physicalist position treats consciousness as a product of neural computation, which requires metabolic energy. Pepperell (2018) articulates this directly: consciousness is a physical process caused by the organisation of energetic activity in the brain. If this is correct, reducing metabolic supply should reduce consciousness—perhaps not in strict proportion, since network models allow graceful degradation and threshold effects, but broadly tracking metabolic decline. The prediction is directional: less fuel, less consciousness, with no room for paradoxical intensification.
 
 This prediction is testable. Multiple clinical and experimental settings create precisely the conditions needed: brains operating under severe metabolic constraint, with both metabolic rates and consciousness levels measurable. The results are not what production models predict.
 
@@ -87,7 +87,7 @@ The five anomalies above involve *acute* metabolic disruption—rapid, global ch
 
 The filter model offers an account of both patterns—though the ease with which it accommodates opposite outcomes warrants scrutiny (see the falsifiability section). Acute metabolic collapse disrupts the filtering apparatus globally and suddenly—the constraint lifts, and consciousness may briefly expand. Chronic degeneration destroys the interface structure itself—the hardware through which filtered consciousness is expressed. A radio whose power supply fails suddenly may produce a burst of static and signal; one whose circuits corrode over years simply grows quieter. The distinction between *filter dissolution* (acute) and *interface degradation* (chronic) explains why not all metabolic reduction enhances consciousness, resolving what would otherwise be an asymmetry problem for filter theory.
 
-[[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]] bridges the two patterns. Patients with severe neurodegeneration—massive neuronal loss, widespread cortical atrophy—suddenly recover mental clarity, memory, and personality shortly before death. Batthyány and Greyson (2020) documented 124 cases in which more than 80% showed complete cognitive remission, with the majority of patients dying within hours to days of the lucid episode. The production model faces a structural problem: if the neural substrate for complex cognition has been destroyed over years, there is no machinery left to produce a final episode of coherent consciousness. The filter model has no such difficulty—dying may involve a final acute disruption of whatever filtering capacity remained, briefly releasing consciousness through a degraded but still partially functional interface. Terminal lucidity is the chronic case suddenly behaving like an acute one, and the [[terminal-lucidity-and-filter-transmission-theory|theoretical implications]] are explored in detail elsewhere on the Map.
+[[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]] bridges the two patterns. Patients with severe neurodegeneration—massive neuronal loss, widespread cortical atrophy—suddenly recover mental clarity, memory, and personality shortly before death; the phenomenon is documented across a review and case collection by Nahm et al. (2012). Batthyány and Greyson (2020) documented 124 cases in which more than 80% showed complete cognitive remission, with the majority of patients dying within hours to days of the lucid episode. The production model faces a structural problem: if the neural substrate for complex cognition has been destroyed over years, there is no machinery left to produce a final episode of coherent consciousness. The filter model has no such difficulty—dying may involve a final acute disruption of whatever filtering capacity remained, briefly releasing consciousness through a degraded but still partially functional interface. Terminal lucidity is the chronic case suddenly behaving like an acute one, and the [[terminal-lucidity-and-filter-transmission-theory|theoretical implications]] are explored in detail elsewhere on the Map.
 
 ## What Would Challenge the Filter Model
 
@@ -107,7 +107,7 @@ These are not exotic scenarios. Several are empirically testable with current me
 
 ## Hibernation and the Lower Bound
 
-Torpor presents an instructive limit case. Hibernating animals reduce metabolic demand to as low as 2% of basal metabolic rate (Cerri et al., 2017). EEG during deep torpor is near-isoelectric—effectively flat. At first glance, this supports the production model: no metabolism, no consciousness.
+Torpor presents an instructive limit case. Hibernating animals reduce metabolic demand to as low as 2% of basal metabolic rate (Cerri, 2017). EEG during deep torpor is near-isoelectric—effectively flat. At first glance, this supports the production model: no metabolism, no consciousness.
 
 But hibernating animals periodically arouse to euthermia—brief returns to normal body temperature and metabolic rate—before re-entering torpor. The purpose of these energetically expensive arousals remains debated. One possibility: continuous metabolic suppression below the threshold is tolerable for the body but not for the consciousness-brain interface. The periodic arousals may be necessary to re-establish the filtering relationship, not to restart consciousness production. If the filter degrades without periodic metabolic maintenance, the animal must periodically restore it.
 
@@ -135,9 +135,9 @@ The metabolic evidence connects to three of the Map's [[tenets]].
 
 ## References
 
-1. Shulman, R. G., Hyder, F., & Rothman, D. L. (2018). Consciousness as a Physical Process Caused by the Organization of Energy in the Brain. *Frontiers in Psychology*, 9, 2091.
+1. Pepperell, R. (2018). Consciousness as a Physical Process Caused by the Organization of Energy in the Brain. *Frontiers in Psychology*, 9, 2091.
 2. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19).
-3. Stender, J., et al. (2014). Quantitative rates of brain glucose metabolism distinguish minimally conscious from vegetative state patients. *Journal of Cerebral Blood Flow & Metabolism*.
+3. Stender, J., et al. (2014). Quantitative rates of brain glucose metabolism distinguish minimally conscious from vegetative state patients. *Journal of Cerebral Blood Flow & Metabolism*, 35(1), 58–65. (Epub 2014; print 2015.)
 4. Mashour, G. A., Lee, U., Pal, D., & Li, D. (2024). Consciousness and the Dying Brain. *Anesthesiology*, 140(6), 1221–1231.
 5. Carhart-Harris, R. L., et al. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
 6. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
