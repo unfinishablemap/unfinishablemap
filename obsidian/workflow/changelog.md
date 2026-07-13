@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T03:01:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Word count**: 6479 → 6481 (+2; verbatim quote-fidelity correction, length-neutral in intent)
+- **Critical issues addressed**: 2 (both quote-fidelity, corrected)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th pass; first to run the PRIMARY-PUBLISHER verbatim lens (prior passes verified citation metadata, not quoted strings). Web-verified every quoted string at publisher of record (consc.net Chalmers PDF; Cambridge/KCL O'Brien-Kop; gwern-hosted Barrett PDF), self-contamination guard applied (discarded unfinishablemap.org SERP hit). TWO real Chalmers-2020 quote infidelities FIXED: (1) stray "for" captured inside quote marks → moved outside; (2) "about consciousness" silently dropped from "a realist about consciousness such as myself" → restored. All other strings VERBATIM-confirmed: Chalmers "obviously"/"never seems to have been raised"/"probably false"/"taken up in a certain way"/"disputable empirical claims"/"did not really get a grip"/"common among illusionists"; O'Brien-Kop "does not contain sensation, feeling, or experience" (closes 6-review unconfirmed flag); Barrett "possible mode of thought enabled by evolved human psychology"/"does not constitute a default mode of thought". Framing FAITHFUL: Chalmers four-theses (rejects judgment + individual-intuition universality, defends population-intuition + source universality) accurate; Berent two-bias (Dualism × Essentialism) her actual argument; realist/illusionist common-ground correctly attributed to Chalmers not Map-glossed; Barrett double-edged result read even-handedly. Length remains STANDING HUMAN split/accept decision — NOT re-queued. ai_system held claude-opus-4-6 (quote fix ≠ re-authoring). Engagement modes unchanged; Chalmers-on-divergence Mode Three now verbatim-verified honest.
+- **Output**: [[reviews/deep-review-2026-07-13-epistemology-of-convergence-arguments]]
+
 ## 2026-07-13T02:54:00+00:00 - deep-review (cross-review)
 - **Status**: Success
 - **File**: [[concepts/cosmopsychism]]
