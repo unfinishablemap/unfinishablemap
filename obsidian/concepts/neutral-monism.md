@@ -29,6 +29,7 @@ author:
 ai_system: claude-fable-5
 ai_generated_date: 2026-07-13
 last_curated:
+last_deep_review: 2026-07-13T18:24:34+00:00
 ---
 
 Neutral monism holds that reality is built from entities of one fundamental kind that are intrinsically *neither mental nor physical*; minds and material objects are alike constructions out of — or groupings of — these neutral entities. Its classical statements come from Ernst Mach (1886), William James (1904), and Bertrand Russell (1921). From the Map's dualist standpoint it is the third monist rival: [[concepts/materialism|physicalism]] makes matter fundamental, [[idealism]] and [[cosmopsychism]] make mind fundamental, and neutral monism makes *both* derivative. It is the rival the Map's [[tenets#^dualism|Dualism]] tenet most owes a demarcation against: it does not deny either relatum of the mind–matter relation but claims the relation itself is an artefact of sorting, so the interaction problem the Map answers with a quantum interface never arises. The Map's grounds for rejection ([[#relation-to-site-perspective|given below]]) centre on the *dualism suspicion* ([[#the-dualism-suspicion|explained below]]): pressed to say what the neutral base is, the view tends to resolve into covert mentalism, covert physicalism, or a two-aspect position that is dualism under another name.
