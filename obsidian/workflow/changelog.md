@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T20:21:24+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Phenomenal Conservatism
+- **Output**: [[phenomenal-conservatism-2026-07-13]]
+- **Sources consulted**: 6
+- **Notes**: Assess-first cleared PROCEED (distinct-but-adjacent). Existing phenomenal-authority-and-first-person-evidence carries PC *as applied to consciousness* (and coalesced away a former dedicated PC article); functional-seeming is a different notion. Gap: PC as *general epistemology* (Compassionate PC, Tucker volume, dogmatism relation, full objection dialectic) is unanchored. Recommended concept page complements, not duplicates. Publisher-verified: Huemer 2007 PPR 74(1):30-55 (Wiley DOI); Huemer 2001 Rowman & Littlefield; Tucker (ed.) 2013 OUP ISBN 978-0199899494. Corrected task assumption: no dedicated SEP entry exists (SEP covers PC under Foundationalist Theories / Epistemology; dedicated encyclopedia entry is at IEP, authored by Huemer).
+
 ## 2026-07-13T19:51:25+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Kim's Causal Exclusion Argument
