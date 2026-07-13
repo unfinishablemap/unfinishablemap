@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-11 12:07:00+00:00
+ai_modified: 2026-07-13 06:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -261,6 +261,7 @@ Intentionality connects to all five foundational tenets:
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and institutional facts require phenomenal consciousness
 - [direction-of-fit](/concepts/direction-of-fit/) — Classifying intentional states by whether mind adapts to world or world adapts to mind
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation to phenomenal qualities that may ground intentional content
+- [content-externalism](/concepts/content-externalism/) — Why intrinsic duplicates can differ in reference, and the Map's hybrid: externalist about intentional content, internalist about phenomenal character
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals consciousness's irreducibility
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why physical information is syntactic and consciousness supplies semantics
 - [intentionality-consciousness-2026-01-14](/research/intentionality-consciousness-2026-01-14/) — Research notes on this topic

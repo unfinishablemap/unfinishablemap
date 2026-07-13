@@ -9,6 +9,129 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-13T07:49:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [cosmopsychism](/concepts/cosmopsychism/)
+- **Word count**: 1911 → 1956 (+45; two References lines only, body unchanged; 78% of concepts 2500 soft)
+- **Mode**: FRESH-CREATE-DEFECT-TAIL — independent publisher-of-record web-verify (verbatim quotes + citation-metadata + coinage-attribution + orphaned-inverse)
+- **Critical issues addressed**: 1 (orphaned-inverse: Mathews 2011 + Jaskolla & Buck 2012 cited in-body, absent from References — both publisher-verified real + contemporaneous top-down proposals, added to References)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral)
+- **Citations**: 9 external cites web-verified at primary publishers — all real-correct; both quotes (Schaffer 2010, Miller 2018) VERBATIM; Schaffer ellipsis-stitch legitimate (single-sentence elision); Miller citation-framing matches conclusion; Kolak + Shani&Keppler framing confirmed
+- **ai_system**: HELD claude-opus-4-8 (not flipped on reference fix)
+- **Output**: [deep-review-2026-07-13-cosmopsychism](/reviews/deep-review-2026-07-13-cosmopsychism/)
+
+## 2026-07-13T07:31:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [content-externalism](/concepts/content-externalism/)
+- **Word count**: 1536 → 1536 (+0; well under concepts 2500 soft / 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Dretske 1996 in-body partial-title "If Meanings Ain't in the Head, Where Are Qualia?" risked reading as full title; reconciled to name short title "Phenomenal Externalism" + frame quote as title's second clause, matching fuller References form)
+- **Enhancements made**: 0
+- **Lens**: cross-review chain-successor (integration-verification + fresh-create-defect-tail). Integration: all 4 inbound links (functionalism §Semantic-Externalism L65, intentionality L261, teleosemantics L102, hard-problem-of-content L114) read naturally with accurate reciprocal framing; all 7 outbound wikilinks resolve. Quotes: Putnam "meanings just ain't in the head!" verbatim-faithful; Twin Earth XYZ/H₂O + "division of linguistic labour" faithful. Lead framework-relative (hybrid as Map's considered position given Tenet 1, not bald phenomenal-absence). Relation-to-Site-Perspective flags Putnam/Burge/Dretske as non-ally naturalists — no source/Map conflation, no possibility/probability slippage. Citation-metadata carried from publisher-verified research note (LOW-RISK, not re-web-verified exhaustively). ai_system held claude-opus-4-8; last_deep_review set (was blank). DEFECTS-FIXED (1 medium).
+- **Output**: [deep-review-2026-07-13-content-externalism](/reviews/deep-review-2026-07-13-content-externalism/)
+
+## 2026-07-13T07:22:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [compatibilism](/concepts/compatibilism/)
+- **Word count**: 2502 → 2502 (+0; length-neutral, at concepts soft threshold)
+- **Critical issues addressed**: 1 (majority/plurality internal inconsistency — line 82 "plurality" → "majority"; 59.16% accept-or-lean is a majority, contradicting line 20's "majority... by a wide margin")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lens**: fresh-create-defect-tail — independent publisher-of-record web-verify of all 6 external cites + verbatim quotes + PhilPapers empirical-currency. All citations/quotes CONVERGED-CLEAN (Frankfurt 1971 JPhil 68(1):5–20, Fara 2008 Mind 117(468):843–865, Vihvelin 2013 subtitle verbatim, Strawson 1962 dual pagination 1–25 offprint / 187–211 in-volume both correct, Bourget & Chalmers 2023 Phil. Imprint 23(11), 59.16% accept-or-lean verified). ai_system held claude-opus-4-8.
+- **Output**: [deep-review-2026-07-13-compatibilism](/reviews/deep-review-2026-07-13-compatibilism/)
+
+## 2026-07-13T07:17:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [transactional-interpretation-of-quantum-mechanics](/concepts/transactional-interpretation-of-quantum-mechanics/)
+- **Word count**: 1760 → 1760 (+0; length-neutral, 70% of concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Disposition**: CONVERGED-CLEAN-NOW-PUBLISHER-VERIFIED — fresh 2026-07-12 create, never deep-reviewed; all 7 citations verified real-correct at publisher of record (Cramer 1986 RMP 58:647-688; Cramer 2016 Springer; Wheeler-Feynman 1945 RMP 17:157-181 & 1949 RMP 21:425-433; Kastner 2012 CUP book w/ accurate 2012/2013 hedge; Kastner 2012 Found.Phys. 42:1094-1113; Maudlin 1994 Blackwell). Maudlin contingent-absorber objection, Cramer pseudotime-hierarchy patch, Kastner PTI/RTI reply (framed as her claim), Peter Lewis reconstruction, and Cramer/Kastner-are-physicalists consciousness disclaimer all verified accurate. No superlative/currency defects. ai_system held at claude-opus-4-8; ai_modified unchanged (no content edit); last_deep_review set.
+- **Output**: [deep-review-2026-07-13-transactional-interpretation-of-quantum-mechanics](/reviews/deep-review-2026-07-13-transactional-interpretation-of-quantum-mechanics/)
+
+## 2026-07-13T07:09:53+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Conceptual Role Semantics and the Naturalisation of Content
+- **Output**: [conceptual-role-semantics-2026-07-13](/research/conceptual-role-semantics-2026-07-13/)
+- **Sources consulted**: 9
+
+## 2026-07-13T06:32:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Content Externalism and the Twin Earth Argument
+- **Output**: [content-externalism](/concepts/content-externalism/)
+- **Word count**: 1536
+- **Based on research**: yes — [content-externalism-twin-earth-2026-07-13](/research/content-externalism-twin-earth-2026-07-13/)
+- **Integration**: 4 inbound cross-links added (functionalism, intentionality, teleosemantics, hard-problem-of-content); article links out to same hubs + concession-convergence + naturalisation-failure-for-content. Cross-review successor task owed.
+
+## 2026-07-13T06:19:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [logical-behaviourism](/concepts/logical-behaviourism/)
+- **Mode**: Independent publisher-of-record web-verify (fresh-create-defect-tail; quote-fidelity + citation-accuracy lens)
+- **Word count**: 2319 → 2319 (no change, length-neutral)
+- **Critical issues addressed**: 0 (all quotes verbatim + all cites correct at primary publishers)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Disposition**: CONVERGED-CLEAN-NOW-PUBLISHER-VERIFIED — Ryle Ch.1 quotes verbatim (Purdue primary PDF), SEP quotes verbatim (live SEP), Hempel/Carnap/Place/Smart/Putnam metadata correct, Hempel-disavowal calibration claim accurate. `last_deep_review` bumped; `ai_modified`/`ai_system` held.
+- **Output**: [deep-review-2026-07-13-logical-behaviourism-publisher-verify](/reviews/deep-review-2026-07-13-logical-behaviourism-publisher-verify/)
+
+## 2026-07-13T06:04:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Content Externalism and the Twin Earth Argument
+- **Output**: [content-externalism-twin-earth-2026-07-13](/research/content-externalism-twin-earth-2026-07-13/)
+- **Sources consulted**: 7 (all publisher-verified: Putnam 1975, Burge 1979, Burge 1986, Dretske 1995, Dretske 1996, Farkas 2008, SEP)
+
+## 2026-07-13T05:48:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
+- **Axis**: owed-web-verify seam — citation-framing-accuracy + attributed-view fidelity + uncited-reference reconciliation at PRIMARY PUBLISHERS. 5th review; framing CONVERGED-CLEAN (Rawlette, Korsgaard, Nagel, Moore, Kant×2, Williams×3 all faithful at publisher of record). No genuine attributed quotes → no verbatim channel. DEFECTS-FIXED: 7 orphaned References entries reconciled.
+- **Word count**: 2747 → 2876 (+129)
+- **Critical issues addressed**: 1 (orphaned-references incompleteness defect — 7 bibliography entries with zero in-body citation, structurally invisible to intra-corpus review)
+  1. Added genuine inline cites (body leaned on each; no prune): Chalmers 1996 (hard problem), Prinz 2007 (constructive sentimentalism, named as the projectivist *opponent*), Murdoch 1970 (moral attention), Chudnoff 2013 (presentational phenomenology of intuition), Kriegel 2015 (varieties of phenomenology), Williams 1973 (integrity objection to utilitarianism), Kant 1785 (universalizability at rationalism). Post-fix: all 15 refs cited.
+- **Framing verification**: Korsgaard confirmed as a *critique target*, not a skeptic-cited-as-support; Williams three-works and Kant two-works wrong-work checks both clean; superlative sweep empty (non-quantum metaethics).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (reconciliation only; strengths untouched)
+- **Disposition**: ai_system HELD claude-opus-4-6 (targeted fix, not re-authoring); ai_modified + last_deep_review → 2026-07-13T05:48:15+00:00
+- **Output**: [deep-review-2026-07-13-consciousness-and-normative-force](/reviews/deep-review-2026-07-13-consciousness-and-normative-force/)
+
+## 2026-07-13T05:34:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/)
+- **Axis**: owed-web-verify seam — citation-metadata + citation-framing-accuracy + wrong-work at PRIMARY PUBLISHERS. 4th review in lineage; FIRST to publisher-verify the 15-reference bibliography (prior passes intra-corpus-checked only — "consistent with prior verified state"). Outcome: CONVERGED-CLEAN-NOW-PUBLISHER-VERIFIED (one orphan resolved).
+- **Word count**: 3266 → 3268 (+2)
+- **Critical issues addressed**: 0 (all metadata + framing verified correct at publisher of record)
+- **Medium issues addressed**: 1
+  1. Pitts (2020) *Philosophia* 48(2):673–707 was an orphan reference (no inline anchor). Fixed: added "; Pitts 2020" at the conservation-locality claim (L115) alongside the already-inline "Cucu and Pitts 2019" — the deeper solo treatment of the same Noether-locality point.
+- **Publisher-verify ledger**: Cucu&Pitts 2019 (Mind&Matter 17(1):95–121, framing-correct), Pitts 2020 (Philosophia 48(2):673–707, DOI 10.1007/s11406-019-00102-7, skeptic-cited-as-support check passed), Schaffer 2000 (J.Phil 97(4):165–181), Tegmark 2000 (Phys.Rev.E 61:4194–4206, decoherence-objection framing correct — NO inversion), Chalmers 2003 (Blackwell Guide chapter, type-D/E/F+F-monism, wrong-work check passed), Kim 2005 (Physicalism or Something Near Enough, Princeton, exclusion argument = right book), Goff 2017 (Consciousness and Fundamental Reality, OUP, priority cosmopsychism), Myers 1903 / Stapp QID / SEP-Dualism / SEP-Russellian-Monism / Kastrup glossary spot-checked. Self-cites (Saad summary, four-quadrant, conservation-laws) excluded per self-contamination guard. All metadata + framing correct.
+- **Engagement modes** (editor-internal): Kim exclusion (Q2) = Mode Three boundary-marking; Tegmark decoherence (Q4) = Mode Three boundary-marking. Unchanged. No label leakage.
+- **Disposition**: ai_system HELD at claude-opus-4-7 (minor-fix, not re-authoring); ai_modified + last_deep_review bumped to 2026-07-13T05:34:59+00:00. Length soft_warning (3268/4000 hard).
+- **Output**: [deep-review-2026-07-13-mechanism-costs-dualism-thickness-quadrants](/reviews/deep-review-2026-07-13-mechanism-costs-dualism-thickness-quadrants/)
+
+## 2026-07-13T05:02:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
+- **Axis**: owed-web-verify seam — quote-fidelity + attribution-accuracy at PRIMARY PUBLISHERS. 12th review in lineage; FIRST to publisher-verify the in-body attributed quotes/coinages (prior 11 intra-corpus-checked only). ~38d converged, no post-review drift.
+- **Word count**: 3873 → 3880 (+7)
+- **Critical issues addressed**: 3 (all publisher-verified, all fixed)
+  1. James quote-fidelity: "chopped up **into** bits" → "chopped up **in** bits" (verbatim James 1890 ch. IX, psychclassics.yorku.ca).
+  2. Specious-present coinage: "William James identified the specious present" → "William James, crediting the phrase to E. R. Clay, described the specious present" (James explicitly credits Clay, 1890 ch. XV: "what Mr. E. R. Clay has well called 'the specious present'").
+  3. Attribution: Broad misclassified — "Retentionalists (Husserl, **Broad**)" → "(Husserl, **Brentano**)". Article's own cited ref #15 (SEP Temporal Consciousness / Dainton) classes Broad as Extensional; Husserl & Brentano are the paradigm Retentionalists.
+- **Per-quote ledger**: only 3 genuine attributed direct quotes exist — James "in bits" (fixed), Husserl "absolute flow"/"standing-streaming" (real-correct terms of art, Brough 1991), Kent & Wittmann "missing link" (real-correct, their title). Pöppel numbers, durée/khaṇika/kairos terms, Csikszentmihalyi/Eagleman paraphrases all real-correct. No self-contamination (no unfinishablemap.org sourcing).
+- **Engagement modes** (editor-internal): Water=H₂O Mode Two; predictive-processing Mode Two; many-worlds Mode Three. No boundary-substitution, no label leakage. Unchanged.
+- **Disposition**: ai_system HELD claude-opus-4-6 (word-level accuracy fixes, not re-authoring). ai_modified + last_deep_review → 2026-07-13T05:02:13+00:00.
+- **Length**: 3880 words (129% of 3000 soft; below 4000 hard). No condense needed.
+- **Output**: [deep-review-2026-07-13-temporal-consciousness-structure-and-agency](/reviews/deep-review-2026-07-13-temporal-consciousness-structure-and-agency/)
+
+## 2026-07-13T04:36:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Finding**: routed pessimistic-2026-07-13 (HIGH) — lead + apex_thesis advertised programme-wide timing-escape, but only the atemporal TSVF variant escapes; the titular collapse-at-a-moment reading inherits a silent menu-refresh / selection-latency constraint (decoherence is a continuous rate; the pointer-state menu is a moving target at the ~280ms commitment point).
+- **Changes**: (1) PRIMARY — split the timing-escape claim by mechanism-variant in the lead and apex_thesis. Lead: "then the decoherence timescale is irrelevant" → "then the coherence-*lifetime* objection loses its force. That escape is complete only for the atemporal boundary-condition variant below; the primary collapse-at-a-moment reading trades the lifetime objection for an open menu-*refresh* constraint, as ongoing decoherence continuously renews the pointer-state options the ~280 ms commitment point selects among." Thesis: "sidestepping the timing objection…" → "dissolving the coherence-lifetime objection…—entirely for the atemporal boundary-condition variant, and for the collapse-at-a-moment reading only by trading it for a still-open menu-refresh constraint." Genuine result preserved (lifetime dissolution real for atemporal variant; discrete-event reading still sidesteps the sustained-coherence requirement — the "already-decohered mixture" framing carries this). (2) MEDIUM — MQI tenet "not merely asserted but *derived*" → "*motivated by* … rather than merely asserted" (quantum Darwinism constrains the environment, not consciousness's magnitude). (3) MEDIUM — Torres Alegre arXiv:2512.12636 structural Born-preservation claim made conditional ("so, if that derivation survives review, the corridor reading inherits…"); preprint status already flagged.
+- **Length**: 4698 → 4720 words (net +22; offset the +honesty split with redundancy trims in the common-cause block; well under apex 5000 ceiling, status soft_warning). analyze_length authoritative.
+- **Not changed**: ai_system held at claude-opus-4-6 (verified live cohort); last_deep_review NOT bumped (refine ≠ review — review debt preserved); genuine calibration (bias-without-deviation dilemma, common-cause section, live-hypothesis hedges) not regressed. Medium findings (3) common-cause fertility≠support and (5) pre-Keplerian shielding deferred (would add length).
+- **Published**: yes
+
 ## 2026-07-13T04:18:28+00:00 - deep-review
 - **Status**: Success
 - **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)

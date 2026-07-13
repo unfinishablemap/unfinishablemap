@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-06-25 07:37:13+00:00
+ai_modified: 2026-07-13 04:36:05+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-22 15:39:58+00:00
 apex_sources:
@@ -14,9 +14,11 @@ apex_thesis: Five components of one speculative architecture—the post-decohere
   selection gap, quantum Darwinism's menu specification, contextuality's structural
   constraints, weak measurement's boundary-condition alternative, and stochastic amplification's
   causal bridge—together constitute a physics research programme that specifies how
-  consciousness could act after decoherence, sidestepping the timing objection that
-  has stalled quantum consciousness theories for two decades. Their alignment is a
-  common-cause artefact of shared upstream framework, not independent evidential triangulation.
+  consciousness could act after decoherence, dissolving the coherence-lifetime objection
+  that has stalled quantum consciousness theories for two decades—entirely for the
+  atemporal boundary-condition variant, and for the collapse-at-a-moment reading only
+  by trading it for a still-open menu-refresh constraint. Their alignment is a common-cause
+  artefact of shared upstream framework, not independent evidential triangulation.
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -61,7 +63,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The strongest empirical objection to quantum consciousness theories is the [timing gap](/concepts/timing-gap-problem/): decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. The response takes the form of a research programme rather than a single hypothesis, assembled from five components: the [post-decoherence selection](/concepts/post-decoherence-selection/) gap that decoherence leaves, [quantum Darwinism's](/topics/quantum-darwinism-and-consciousness/) specification of the menu, [quantum contextuality's](/concepts/contextual-selection-in-quantum-foundations/) structural constraints on what selection can mean, [weak measurement and post-selection's](/concepts/weak-measurement-and-post-selection/) alternative mechanism through boundary conditions, and [stochastic amplification's](/topics/amplification-mechanisms-consciousness-physics/) causal bridge from quantum bias to neural behaviour. These are five parts of one speculative architecture, not five independent lines of evidence that happen to converge on it. They appear to point the same way because they were assembled *from* a single framework, not because separate inquiries arrived at it from their own starting points—and several of them (Zurek's quantum Darwinism, Kochen-Specker contextuality) are interpretation-neutral physics whose originators lean Everettian or physicalist, so they do not independently favour the Map's dualist reading. Their alignment is therefore a [common-cause artefact](/project/common-cause-null/) of shared upstream architecture, and the honest claim is the weaker one: together the components specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
+The strongest empirical objection to quantum consciousness theories is the [timing gap](/concepts/timing-gap-problem/): decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the coherence-*lifetime* objection loses its force. That escape is complete only for the atemporal boundary-condition variant below; the primary collapse-at-a-moment reading trades the lifetime objection for an open menu-*refresh* constraint, as ongoing decoherence continuously renews the pointer-state options the ~280 ms commitment point selects among. The response is a research programme, not a single hypothesis, assembled from five components: the [post-decoherence selection](/concepts/post-decoherence-selection/) gap that decoherence leaves, [quantum Darwinism's](/topics/quantum-darwinism-and-consciousness/) specification of the menu, [quantum contextuality's](/concepts/contextual-selection-in-quantum-foundations/) structural constraints on what selection can mean, [weak measurement and post-selection's](/concepts/weak-measurement-and-post-selection/) alternative mechanism through boundary conditions, and [stochastic amplification's](/topics/amplification-mechanisms-consciousness-physics/) causal bridge from quantum bias to neural behaviour. These are five parts of one speculative architecture, not five independent lines of evidence that converge on it: they point the same way because they were assembled *from* a single framework, and several of them (Zurek's quantum Darwinism, Kochen-Specker contextuality) are interpretation-neutral physics whose originators lean Everettian or physicalist, so they do not independently favour the Map's dualist reading. Their alignment is therefore a [common-cause artefact](/project/common-cause-null/), and the honest claim is the weaker one: together the components specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
 
 <details class="yt-embed" data-video-id="oWWgbZPoD9Q">
 <summary>Video introduction</summary>
@@ -87,7 +89,7 @@ For the Map's framework, quantum Darwinism specifies three constraints on consci
 
 The *menu is fixed*. Einselection determines which states survive environmental monitoring. Consciousness cannot select a quantum state that the environment would immediately destroy. The options are the robust, classically distinguishable alternatives that the environment has already prepared—no more, no less.
 
-The *probabilities are fixed*. The Born rule constrains the statistical distribution of outcomes. If consciousness selects among pointer states, it must respect Born-rule statistics over the long run: consciousness biases individual outcomes without altering aggregate distributions—a conjunction whose conceptual cost the next section confronts directly. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sharpens this: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
+The *probabilities are fixed*. The Born rule constrains the statistical distribution of outcomes. If consciousness selects among pointer states, it must respect Born-rule statistics over the long run: consciousness biases individual outcomes without altering aggregate distributions—a conjunction whose conceptual cost the next section confronts directly. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sharpens this: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so, if that derivation survives review, the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 
@@ -171,7 +173,7 @@ The post-decoherence selection programme serves all five tenets while revealing 
 
 **[Dualism](/tenets/#dualism)** creates the programme's central question. If consciousness is irreducible to physics, and physics terminates at an improper mixture without explaining why one outcome obtains, then the gap between formalism and actuality is precisely where a non-physical principle operates. Quantum Darwinism strengthens this: the most sophisticated account of the quantum-to-classical transition still cannot close the outcome gap. If the best physics available leaves the gap open, the gap may not be closable by physics alone.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is not merely asserted but *derived* from the programme's structure. Quantum Darwinism shows that the environment does the heavy lifting—basis selection, probability assignment, intersubjective agreement. What remains for consciousness is the single act of actualisation: the smallest possible intervention consistent with genuine causal influence.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is *motivated by* the programme's structure rather than merely asserted. Quantum Darwinism shows that the environment does the heavy lifting—basis selection, probability assignment, intersubjective agreement. What remains for consciousness is the single act of actualisation: the smallest possible intervention consistent with genuine causal influence.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds its physical grounding. Post-decoherence selection is the mechanism by which consciousness causally influences the physical world. Stochastic amplification shows how that influence cascades into behaviour. The programme specifies not merely that consciousness acts but how its action propagates through twelve orders of magnitude to produce the movements, words, and choices that constitute a human life.
 

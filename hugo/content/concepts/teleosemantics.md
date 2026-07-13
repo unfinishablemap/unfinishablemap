@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-12 11:57:47+00:00
+ai_modified: 2026-07-13 06:32:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -102,6 +102,7 @@ Two honest limitations. First, the bite-the-bullet reply is principled: a teleos
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — why functional grounding falls short of intrinsic meaning
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — where represented content does empirically visible causal work
 - [rational-normativity](/concepts/rational-normativity/) — the sibling argument that the *ought* of inference resists naturalisation
+- [content-externalism](/concepts/content-externalism/) — the wide, environment-involving view of content, and the causal-relevance worry it shares with teleosemantics
 
 ## References
 

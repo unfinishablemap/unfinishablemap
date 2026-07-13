@@ -16,7 +16,7 @@ description: 'Logical behaviourism—the thesis that mental terms mean behaviour
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 03:59:18+00:00
+last_deep_review: 2026-07-13 06:19:31+00:00
 modified: *id001
 related_articles:
 - '[[type-identity-theory]]'

@@ -18,6 +18,7 @@ description: Cramer's offer/confirmation handshake and Kastner's possibilist ref
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-13 07:17:32+00:00
 modified: *id001
 related_articles: []
 title: Transactional Interpretation of Quantum Mechanics

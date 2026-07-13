@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-06-05 20:40:51+00:00
+ai_modified: 2026-07-13 05:02:13+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ description: How consciousness constitutes temporal structure, how attention res
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 20:40:51+00:00
+last_deep_review: 2026-07-13 05:02:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,13 +84,13 @@ The paradox: temporal integration must unite elements that don't co-exist. The j
 
 ## The Specious Present
 
-Consciousness doesn't occur in durationless instants. William James identified the [specious present](/concepts/temporal-consciousness/)—a brief interval (roughly 100–750ms, extending to 2–3 seconds for some phenomena) within which we experience succession as unified wholes. Pöppel's (1997) hierarchical model locates these durations in successive integration windows, from ~30ms elementary units up to the 2–3 second window of subjective presence. The mathematical present is durationless, but the experiential present has duration. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected.
+Consciousness doesn't occur in durationless instants. William James, crediting the phrase to E. R. Clay, described the [specious present](/concepts/temporal-consciousness/)—a brief interval (roughly 100–750ms, extending to 2–3 seconds for some phenomena) within which we experience succession as unified wholes. Pöppel's (1997) hierarchical model locates these durations in successive integration windows, from ~30ms elementary units up to the 2–3 second window of subjective presence. The mathematical present is durationless, but the experiential present has duration. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected.
 
 This poses a puzzle: how can succession be experienced if multiple moments must be present together?
 
 **Extensionalists** (Dainton, Foster) hold that experiences are genuinely temporally extended—unified duration-blocks where the stream consists of overlapping segments.
 
-**Retentionalists** (Husserl, Broad) hold that each moment contains intentional content directed at past and future. Husserl identified three inseparable components: **retention** (the just-past echoing in awareness), **primal impression** (the strictly present), and **protention** (openness toward the about-to-arrive).
+**Retentionalists** (Husserl, Brentano) hold that each moment contains intentional content directed at past and future. Husserl identified three inseparable components: **retention** (the just-past echoing in awareness), **primal impression** (the strictly present), and **protention** (openness toward the about-to-arrive).
 
 The Map suggests a synthesis: experience is genuinely extended, but the extension involves [quantum collapse](/concepts/collapse-and-time/). The duration-block is constituted by collapses with retrocausal constraints—the past echoes in the present because retrocausal boundary conditions link them.
 
@@ -108,7 +108,7 @@ Retention isn't memory—it's the immediate awareness of what just happened, sti
 
 ### Meso-Integration: Experiential Continuity
 
-The specious present itself must be integrated with its predecessors and successors. Experience across a conversation or a walk maintains continuity despite shifting content. Each specious present overlaps with its neighbours—James's stream flowing rather than "chopped up into bits." But what makes this bridge experiential rather than merely informational? A recording device stores overlapping segments without experiencing continuity. The [explanatory-gap](/concepts/explanatory-gap/) reappears: information overlap is one thing; experienced flow is another.
+The specious present itself must be integrated with its predecessors and successors. Experience across a conversation or a walk maintains continuity despite shifting content. Each specious present overlaps with its neighbours—James's stream flowing rather than "chopped up in bits." But what makes this bridge experiential rather than merely informational? A recording device stores overlapping segments without experiencing continuity. The [explanatory-gap](/concepts/explanatory-gap/) reappears: information overlap is one thing; experienced flow is another.
 
 ### Macro-Integration: The Temporal Self
 

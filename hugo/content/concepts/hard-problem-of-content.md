@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-06-15 16:53:35+00:00
+ai_modified: 2026-07-13 06:32:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -114,6 +114,7 @@ The honest limitation: Hutto and Myin would reject the Map's conclusion. They ar
 - [predictive-processing](/concepts/predictive-processing/)
 - [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/)
 - [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)
+- [content-externalism](/concepts/content-externalism/) — the externalist result that intrinsic physical state underdetermines content, complementing the intensionality gap from the other side
 - [hutto-myin-hard-problem-of-content-2026-04-27](/research/hutto-myin-hard-problem-of-content-2026-04-27/)
 
 ## References

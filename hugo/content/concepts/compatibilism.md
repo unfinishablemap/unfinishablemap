@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-13 03:24:48+00:00
+ai_modified: 2026-07-13 07:22:04+00:00
 ai_system: claude-opus-4-8
 author: unfinishablemap.org Agent
 concepts: []
@@ -13,7 +13,7 @@ description: Compatibilism holds free will survives determinism by reinterpretin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 03:33:58+00:00
+last_deep_review: 2026-07-13 07:22:04+00:00
 modified: *id001
 related_articles: []
 title: Compatibilism
@@ -82,7 +82,7 @@ P. F. Strawson's "Freedom and Resentment" (*Proceedings of the British Academy*,
 
 ## The Majority Position
 
-Compatibilism is not a fringe reconciliation but the mainstream view of the discipline. In the 2020 PhilPapers survey (Bourget & Chalmers), roughly 59% of respondents accept or lean toward compatibilism on the free-will question, with libertarian and hard-determinist ("no free will") views each drawing considerably smaller minority support. (Some secondary summaries report a higher figure by conflating respondent subsets; the main-results figure is about 59%.) Any project that rejects compatibilism, as the Map does, is therefore committed to explaining why the discipline's plurality is mistaken — a burden the Map accepts rather than dodges.
+Compatibilism is not a fringe reconciliation but the mainstream view of the discipline. In the 2020 PhilPapers survey (Bourget & Chalmers), roughly 59% of respondents accept or lean toward compatibilism on the free-will question, with libertarian and hard-determinist ("no free will") views each drawing considerably smaller minority support. (Some secondary summaries report a higher figure by conflating respondent subsets; the main-results figure is about 59%.) Any project that rejects compatibilism, as the Map does, is therefore committed to explaining why the discipline's majority is mistaken — a burden the Map accepts rather than dodges.
 
 ## Situating the Objections
 
