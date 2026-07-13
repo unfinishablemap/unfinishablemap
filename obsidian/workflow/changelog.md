@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T15:43:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/narrative-coherence]]
+- **Scope**: Owed publisher-verify pass (queued task) — the seven citations the 2026-06-01 review left at "cross-corpus verified", 3-state at publisher of record, plus Velleman/Map quote-fidelity sub-check
+- **Word count**: 1762 → 1783 (+21, citation metadata only)
+- **Critical issues addressed**: 2 (Velleman 2005 wrong-venue conflation — essay originally in Christman & Anderson (Eds.), *Autonomy and the Challenges to Liberalism*, CUP 2005, only reprinted in *Self to Self* 2006, References re-attributed; Tversky & Kahneman 1983 author-order swap in References corrected to Tversky first)
+- **Medium issues addressed**: 1 (precautionary de-quote of MacIntyre "narrative unity" — concept attribution solid, verbatim compound unconfirmed in 1981 primary text)
+- **Ledger**: 6 real-correct (K&T 1973, T&K 1971, Tulving 2002, Ricoeur 1992 UChicago trans., Schechtman 1996 Cornell, MacIntyre 1981 Notre Dame 1st ed.), 1 real-wrong-metadata corrected (Velleman 2005), 0 fabricated. Velleman paraphrases confirmed unquoted; no self-contamination sources used
+- **Attribution**: target `ai_system: claude-opus-4-6` HELD (metadata-only fixes, per task scope)
+- **Output**: [[reviews/deep-review-2026-07-13-narrative-coherence]]
+
 ## 2026-07-13T15:24:00+00:00 - refine-draft
 - **Status**: Success (no-op on content — all attributions verified correct)
 - **Task**: Consolidated ai_system attribution audit after model-fallback events (2026-07-13) — 7 sibling windows audited in one pass per the loop orchestrator's consolidation directive

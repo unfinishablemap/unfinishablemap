@@ -4,7 +4,7 @@ description: "Narrative coherence is the felt quality of a life making sense as 
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-01T10:36:21+00:00
+ai_modified: 2026-07-13T15:41:45+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-06-01T10:36:21+00:00
+last_deep_review: 2026-07-13T15:41:45+00:00
 ---
 
 Narrative coherence is the felt quality of a life making sense as a unified story—the phenomenological experience of choices, events, and commitments fitting together into an intelligible whole. What matters is how your life feels from the inside, irrespective of whether your autobiography would read well. When narrative coherence obtains, your past decisions explain your present situation and your present efforts point toward a recognisable future. When it breaks down, as in severe depression or traumatic dissociation, life becomes a sequence of disconnected episodes that happen to the same body but compose no meaningful pattern.
@@ -46,7 +46,7 @@ Narrative coherence has three distinguishing features.
 
 ## Narrative Coherence and Probability
 
-Narrative coherence shapes reasoning in ways that extend beyond personal identity. Research by Kahneman and Tversky demonstrated that the conjunction fallacy—judging "feminist bank teller" more probable than "bank teller"—occurs because narrative coherence overrides formal logic. The story makes sense, so it feels likely. As the [[consciousness-and-probability-interpretation]] article explores, this reveals something about consciousness's architecture: it engages the world through meaning and pattern rather than through probability.
+Narrative coherence shapes reasoning in ways that extend beyond personal identity. Research by Tversky and Kahneman (1983) demonstrated that the conjunction fallacy—judging "feminist bank teller" more probable than "bank teller"—occurs because narrative coherence overrides formal logic. The story makes sense, so it feels likely. As the [[consciousness-and-probability-interpretation]] article explores, this reveals something about consciousness's architecture: it engages the world through meaning and pattern rather than through probability.
 
 This may be more than a cognitive bias to be corrected. If narrative pattern-matching were merely a heuristic shortcut—useful but dispensable—one would expect training to eliminate it. Yet the conjunction fallacy persists even among statistically literate subjects. Narrative coherence appears to be a default mode through which consciousness engages the world, with probabilistic reasoning as an acquired overlay that never fully displaces it. Base rate neglect (Kahneman & Tversky, 1973), the law of small numbers (Tversky & Kahneman, 1971), and apophenia—the tendency to perceive meaningful patterns in random data—all point in the same direction: consciousness gravitates toward stories over statistics. Whether this reflects something fundamental about conscious architecture or merely deep cognitive habit is debatable—but either way, the phenomenon is real and resistant to correction.
 
@@ -54,7 +54,7 @@ This may be more than a cognitive bias to be corrected. If narrative pattern-mat
 
 [[parfit-reductionism|Parfit's reductionism]] holds that personal identity consists in overlapping chains of psychological continuity—memory, intention, character. But psychological continuity provides connection without organisation. Two agents with identical psychological *elements*—same memories, same standing intentions, same character traits—could differ in narrative coherence. One experiences their choices as composing a meaningful life; the other finds the same repertoire of memories and commitments disconnected and unintelligible. The difference would show up in how they describe their lives, which choices they find salient, and whether they experience continuity as *going somewhere*—but Parfit's framework, which catalogues elements rather than their integration, lacks the resources to capture it.
 
-Narrative coherence is a *relational* property—how psychological states are organised into a meaningful whole, not the states themselves. It requires a subject who grasps their temporal arc as a unity: who can ask "Does this choice fit the life I am living?" rather than merely "Do I want this now?" This is the intuition that the narrative tradition in personal-identity theory has pressed: Ricoeur (1992) locates selfhood in the temporal configuration through which a life is emplotted; MacIntyre (1981) argues that intelligible action presupposes a "narrative unity" of a life; and Schechtman (1996) develops a narrative self-constitution view on which one becomes a person by organising experiences into a self-narrative. Where the Map departs from these accounts is on what does the organising. This is where narrative coherence connects to [[haecceity]]—the irreducible *thisness* of being a particular self. The subject who experiences coherence is not a generic narrative-processing function but *this* person, whose specific life is at stake.
+Narrative coherence is a *relational* property—how psychological states are organised into a meaningful whole, not the states themselves. It requires a subject who grasps their temporal arc as a unity: who can ask "Does this choice fit the life I am living?" rather than merely "Do I want this now?" This is the intuition that the narrative tradition in personal-identity theory has pressed: Ricoeur (1992) locates selfhood in the temporal configuration through which a life is emplotted; MacIntyre (1981) argues that intelligible action presupposes the narrative unity of a life; and Schechtman (1996) develops a narrative self-constitution view on which one becomes a person by organising experiences into a self-narrative. Where the Map departs from these accounts is on what does the organising. This is where narrative coherence connects to [[haecceity]]—the irreducible *thisness* of being a particular self. The subject who experiences coherence is not a generic narrative-processing function but *this* person, whose specific life is at stake.
 
 This is why diachronic agency depends on narrative coherence rather than psychological continuity alone. Sustaining a project through difficulty—writing a book, maintaining a relationship, pursuing a career—requires not just remembering the initial commitment (continuity) but experiencing the present effort as a meaningful continuation of it (coherence). When the connection between past commitment and present effort becomes merely causal rather than narratively intelligible, perseverance becomes willpower without reason. The [[phenomenology-of-choice-and-volition|phenomenology of choice]] under these conditions shifts accordingly: decisions feel arbitrary rather than authored, imposed rather than flowing from one's ongoing commitments.
 
@@ -102,7 +102,7 @@ Narrative coherence connects to the Map's foundational commitments through its d
 1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
 1. MacIntyre, A. (1981). *After Virtue*. University of Notre Dame Press.
 1. Kahneman, D., & Tversky, A. (1973). "On the Psychology of Prediction." *Psychological Review*, 80(4), 237-251.
-1. Kahneman, D., & Tversky, A. (1983). "Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment." *Psychological Review*, 90(4), 293-315.
+1. Tversky, A., & Kahneman, D. (1983). "Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment." *Psychological Review*, 90(4), 293-315.
 1. Tulving, E. (2002). "Episodic Memory: From Mind to Brain." *Annual Review of Psychology*, 53, 1-25.
 1. Tversky, A., & Kahneman, D. (1971). "Belief in the Law of Small Numbers." *Psychological Bulletin*, 76(2), 105-110.
-1. Velleman, J. D. (2005). "The Self as Narrator." In *Self to Self: Selected Essays*. Cambridge University Press.
+1. Velleman, J. D. (2005). "The Self as Narrator." In J. Christman & J. Anderson (Eds.), *Autonomy and the Challenges to Liberalism: New Essays*. Cambridge University Press. Reprinted in *Self to Self: Selected Essays* (Cambridge University Press, 2006).
