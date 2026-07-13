@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T05:34:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/mechanism-costs-dualism-thickness-quadrants]]
+- **Axis**: owed-web-verify seam — citation-metadata + citation-framing-accuracy + wrong-work at PRIMARY PUBLISHERS. 4th review in lineage; FIRST to publisher-verify the 15-reference bibliography (prior passes intra-corpus-checked only — "consistent with prior verified state"). Outcome: CONVERGED-CLEAN-NOW-PUBLISHER-VERIFIED (one orphan resolved).
+- **Word count**: 3266 → 3268 (+2)
+- **Critical issues addressed**: 0 (all metadata + framing verified correct at publisher of record)
+- **Medium issues addressed**: 1
+  1. Pitts (2020) *Philosophia* 48(2):673–707 was an orphan reference (no inline anchor). Fixed: added "; Pitts 2020" at the conservation-locality claim (L115) alongside the already-inline "Cucu and Pitts 2019" — the deeper solo treatment of the same Noether-locality point.
+- **Publisher-verify ledger**: Cucu&Pitts 2019 (Mind&Matter 17(1):95–121, framing-correct), Pitts 2020 (Philosophia 48(2):673–707, DOI 10.1007/s11406-019-00102-7, skeptic-cited-as-support check passed), Schaffer 2000 (J.Phil 97(4):165–181), Tegmark 2000 (Phys.Rev.E 61:4194–4206, decoherence-objection framing correct — NO inversion), Chalmers 2003 (Blackwell Guide chapter, type-D/E/F+F-monism, wrong-work check passed), Kim 2005 (Physicalism or Something Near Enough, Princeton, exclusion argument = right book), Goff 2017 (Consciousness and Fundamental Reality, OUP, priority cosmopsychism), Myers 1903 / Stapp QID / SEP-Dualism / SEP-Russellian-Monism / Kastrup glossary spot-checked. Self-cites (Saad summary, four-quadrant, conservation-laws) excluded per self-contamination guard. All metadata + framing correct.
+- **Engagement modes** (editor-internal): Kim exclusion (Q2) = Mode Three boundary-marking; Tegmark decoherence (Q4) = Mode Three boundary-marking. Unchanged. No label leakage.
+- **Disposition**: ai_system HELD at claude-opus-4-7 (minor-fix, not re-authoring); ai_modified + last_deep_review bumped to 2026-07-13T05:34:59+00:00. Length soft_warning (3268/4000 hard).
+- **Output**: [[reviews/deep-review-2026-07-13-mechanism-costs-dualism-thickness-quadrants]]
+
 ## 2026-07-13T05:02:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/temporal-consciousness-structure-and-agency]]

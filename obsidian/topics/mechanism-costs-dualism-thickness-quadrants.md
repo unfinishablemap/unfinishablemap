@@ -4,8 +4,8 @@ description: "Each min/max cell of the mind-side × physical-side thickness taxo
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-04T12:00:00+00:00
-last_deep_review: 2026-06-04T12:00:00+00:00
+ai_modified: 2026-07-13T05:34:59+00:00
+last_deep_review: 2026-07-13T05:34:59+00:00
 draft: false
 topics:
   - dualism
@@ -112,7 +112,7 @@ Q4 inhabitants — Cartesian substance dualism, Aristotelian–Thomistic hylomor
 
 **Interface specification.** Q4 appears to owe the heaviest interface debt. With both sides thick, the interface is the locus where the two rich realms touch — and the historical difficulty of specifying such a contact non-arbitrarily (Princess Elisabeth's challenge to Descartes; the Stanford Encyclopedia of Philosophy's "Dualism" entry's discussion of the interaction problem) seems to be Q4's signature burden. Hylomorphic dualism handles this by treating mind and matter as constitutive principles of one substance rather than two interacting substances — moving the interface problem from "between two things" to "internal to one." Whether that move dissolves the difficulty or merely renames it is a long-standing dispute the Map does not adjudicate here.
 
-**Conservation engagement.** Q4 appears to owe the heaviest conservation engagement. With thick mind and thick physics, the mind's causal contribution may be most naturally read as an energy-bearing influence, which puts the Cartesian objection in what seems its most pointed form. Q4 inhabitants pay either by accepting that conservation is *local and symmetry-conditional* (Noether's theorem, Cucu and Pitts 2019) — and thus that interactionist intervention breaks symmetry at the interface — or by routing influence through a probabilistic channel (Stapp's quantum-Zeno mechanism) that is structurally Q1-like even when sitting in a Q4 ontology. This narrow-channel-in-a-thick-ontology pattern is what the [[dualism-channel-width-axis|channel-width third axis]] isolates as its own coordinate: interface narrowness varies independently of pole thickness, so Stapp's thick endpoints and Saad's thin ones can share a channel class. The Map's treatment of [[conservation-laws-and-mental-causation|the conservation argument]] applies most directly here.
+**Conservation engagement.** Q4 appears to owe the heaviest conservation engagement. With thick mind and thick physics, the mind's causal contribution may be most naturally read as an energy-bearing influence, which puts the Cartesian objection in what seems its most pointed form. Q4 inhabitants pay either by accepting that conservation is *local and symmetry-conditional* (Noether's theorem, Cucu and Pitts 2019; Pitts 2020) — and thus that interactionist intervention breaks symmetry at the interface — or by routing influence through a probabilistic channel (Stapp's quantum-Zeno mechanism) that is structurally Q1-like even when sitting in a Q4 ontology. This narrow-channel-in-a-thick-ontology pattern is what the [[dualism-channel-width-axis|channel-width third axis]] isolates as its own coordinate: interface narrowness varies independently of pole thickness, so Stapp's thick endpoints and Saad's thin ones can share a channel class. The Map's treatment of [[conservation-laws-and-mental-causation|the conservation argument]] applies most directly here.
 
 Q4 appears under-discussed in contemporary analytic philosophy, perhaps because the full bill on all three questions is high and possibly because parsimony norms penalise paying it. Whether the bill is worth paying turns on what each ontological commitment buys in explanatory power — a case-by-case question the [[parsimony-case-for-interactionist-dualism|parsimony argument]] treats specifically for the Map's commitments.
 
