@@ -4,7 +4,7 @@ description: "Eliminative materialism holds beliefs and qualia are theoretical f
 created: 2026-04-26
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-07-12T13:57:00+00:00
+ai_modified: 2026-07-13T03:51:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,6 +169,7 @@ Eliminativism persists because physicalism keeps failing to produce a satisfying
 - [[the-naturalisation-failure-for-content]] — the Map's topic-level argument that content resists naturalisation, paralleling the phenomenal hard problem and the normativity of reason
 - [[status-of-content]] — Boghossian's sophisticated self-refutation argument against eliminativism about propositional-attitude content
 - [[methodology-of-consciousness-research]] — broader methodological context
+- [[logical-behaviourism]] — the materialist lineage's first term: the earlier attempt to dissolve the mental into behaviour that identity theory and functionalism reacted against
 - [[type-identity-theory]] — the reductive-identity option eliminativism radicalises: identify the mental kinds rather than eliminate them
 - [[sellars-manifest-and-scientific-images]] — Sellars' manifest image and why the person and space of reasons resist elimination
 

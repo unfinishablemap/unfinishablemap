@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-11T01:52:00+00:00
+ai_modified: 2026-07-13T03:51:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ No seventeenth-century thinker found a way to preserve all three commitments: ge
 
 ## The Materialist Eclipse
 
-The twentieth century brought convergence against dualism. Logical positivism dismissed mind-body problems as pseudo-questions. Behaviourism denied inner mental states. Identity theory proposed that mental states simply *are* brain states. Functionalism characterised mental states by causal roles. All shared the assumption of [[causal-closure]]: every physical event has sufficient physical causes.
+The twentieth century brought convergence against dualism. Logical positivism dismissed mind-body problems as pseudo-questions. [[logical-behaviourism|Logical behaviourism]] denied inner mental states. Identity theory proposed that mental states simply *are* brain states. Functionalism characterised mental states by causal roles. All shared the assumption of [[causal-closure]]: every physical event has sufficient physical causes.
 
 Jaegwon Kim crystallised the problem:
 

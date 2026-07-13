@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T03:52:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Logical (analytical) behaviourism — the materialist lineage's first term and first casualty
+- **Output**: [[concepts/logical-behaviourism]]
+- **Word count**: 2319 (concepts soft 2500 / hard 3500 — ok)
+- **Based on research**: yes — [[research/logical-behaviourism-2026-07-13]]
+- **Cites web-verified**: Hempel *Revue de Synthèse* re-checked at publisher/HAL → tome X (10), 1935, pp. 27–42 (now cited with pinpoint pages). Ryle "Ghost in the Machine" + "category-mistake" quotes used verbatim per research note's primary-source read of *The Concept of Mind* Ch.1. Putnam super-Spartan attributed to Putnam alone; circularity to Chisholm + Geach; qualia-residue sharpenings credited to Nagel/Block not a behaviourism-era author.
+- **Integration**: 6 reciprocal inbound links added (type-identity-theory, cognitive-science-of-dualism, history-of-the-interaction-problem inline; functionalism, eliminative-materialism, biological-naturalism Further Reading) — held their live ai_system, bumped ai_modified only. Cross-review task queued.
+
 ## 2026-07-13T03:33:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/compatibilism]]

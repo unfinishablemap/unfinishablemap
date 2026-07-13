@@ -4,7 +4,7 @@ description: "Type-identity theory holds that mental state-types are brain state
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-12T14:11:20+00:00
+ai_modified: 2026-07-13T03:51:30+00:00
 draft: false
 topics: []
 concepts:
@@ -31,7 +31,7 @@ This article presents the theory at full strength before turning to the objectio
 
 ## The Thesis and Its Founders
 
-The identity theory arose to answer a specific problem for materialism. Behaviourism had tried to analyse mental talk into dispositions to behave, and had failed to accommodate the felt character of sensations—an after-image or a pain seems to be an inner occurrence, not merely a disposition. The identity theorists granted that sensations are inner occurrences and then made the bold move: those inner occurrences simply *are* brain processes.
+The identity theory arose to answer a specific problem for materialism. [[logical-behaviourism|Logical behaviourism]] had tried to analyse mental talk into dispositions to behave, and had failed to accommodate the felt character of sensations—an after-image or a pain seems to be an inner occurrence, not merely a disposition. The identity theorists granted that sensations are inner occurrences and then made the bold move: those inner occurrences simply *are* brain processes.
 
 Place framed the claim as a contingent, *a posteriori* identity—true, if true, as a matter of empirical discovery rather than meaning. He distinguished the "is" of composition ("a table is a cloud of molecules") from the "is" of definition, and located the identity thesis with the former. Against the objection that experience-talk cannot be about brain processes because we know nothing of our brains when we report a sensation, Place diagnosed a *phenomenological fallacy*: the mistake of inferring, from the fact that we describe an experience in phenomenal terms, that there must exist a phenomenal *object* answering to the description.
 

@@ -4,7 +4,7 @@ description: "Searle's biological naturalism—consciousness as caused-but-irred
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-12T13:57:00+00:00
+ai_modified: 2026-07-13T03:51:30+00:00
 draft: false
 topics: []
 concepts:
@@ -96,6 +96,7 @@ The Map presents biological naturalism as a rival it *resists*, not one it takes
 - [[substance-property-dualism]] — the honest dualisms the Map offers as the more coherent settling-point
 - [[machine-consciousness]] — biological naturalism as the engine behind Searle's rejection of Strong AI
 - [[type-identity-theory]] — the classic reductive identity Searle's biological naturalism positions itself against
+- [[logical-behaviourism]] — the materialist lineage's first term, whose failure to accommodate the felt inner occurrence set the agenda Searle's later account inherits
 
 ## References
 

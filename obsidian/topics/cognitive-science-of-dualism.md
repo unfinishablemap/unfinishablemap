@@ -4,7 +4,7 @@ description: "Cognitive science presupposes methodological materialism, yet its 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-06-09T15:03:16+00:00
+ai_modified: 2026-07-13T03:51:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ Cognitive science operates under methodological materialism — it studies the m
 
 ## The Methodological Assumption
 
-Cognitive science inherits from behaviourism and computational theory of mind a commitment to third-person explanation. Neural correlates, information processing, and functional organisation are the currency of explanation. This works for perception, memory, and motor control. It does not work — at least not yet, and perhaps not in principle — for phenomenal [[consciousness]].
+Cognitive science inherits from [[logical-behaviourism|behaviourism]] and computational theory of mind a commitment to third-person explanation. Neural correlates, information processing, and functional organisation are the currency of explanation. This works for perception, memory, and motor control. It does not work — at least not yet, and perhaps not in principle — for phenomenal [[consciousness]].
 
 The problem is not that cognitive science uses third-person methods. All empirical science does. The problem is the inference from "our methods don't detect non-physical causation" to "non-physical causation doesn't exist." This is like concluding that radio waves don't exist because a thermometer can't measure them. The analogy is imperfect — radio waves were eventually detected by other physical instruments — but the logical point stands: absence of evidence within a restricted methodology is not evidence of absence. The [[methodology-of-consciousness-research|methodological gap]] between first-person phenomenology and third-person neuroscience may track a genuine ontological distinction rather than a temporary limitation.
 
