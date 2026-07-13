@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-13T12:58:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Neutral Monism (Russell / James / Mach) as the third monist rival to dualism
+- **Output**: [[research/neutral-monism-2026-07-13]]
+- **Sources consulted**: 11 (6 web searches + SEP fetch; James 1904 JPPSM 1(18):477-491, Russell 1921 Allen & Unwin, Banks 2014 CUP subtitle "Reconceived", Mihálik 2022 Erkenntnis 87 all publisher-verified)
+- **Assess-first verdict**: GAP CONFIRMED — russellian-monism page is scoped to the quiddities descendant (Russell 1927 onward); neutral monism proper (Mach elements, James pure experience, Russell 1918-1921) has no page despite corpus-wide contrast mentions (cosmopsychism:48, four-quadrant-taxonomy:88, metaphysics-of-information:93/133). Recommend expand-topic → concepts/neutral-monism.md.
+
 ## 2026-07-13T12:26:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-transparency-opacity-spectrum]]
