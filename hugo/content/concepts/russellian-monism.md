@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-25 19:08:00+00:00
+ai_modified: 2026-07-13 16:30:18+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[panpsychism]]'
+- '[[neutral-monism]]'
 - '[[concepts/materialism]]'
 - '[[substance-property-dualism]]'
 - '[[bi-aspectual-ontology]]'
@@ -46,7 +47,7 @@ The Unfinishable Map shares Russellian monism's insight that physics is silent o
 
 ## The Core Insight: Physics Is Structural
 
-Bertrand Russell (1927) and Arthur Eddington (1928) observed that physics describes only what things *do*—their causal and relational properties—not what they *are* intrinsically. Mass is defined by gravitational and inertial behavior; charge by electromagnetic interactions. No physical description tells us what these properties *are* in themselves. Eddington called physics "a world of shadows"—equations relating symbols without revealing what those symbols represent. The Map's [physical-completeness](/concepts/physical-completeness/) article develops this further: physics is *structurally exhaustive* while leaving an ontological gap where consciousness operates. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) explores why this gap may be unfillable in principle.
+Bertrand Russell (1927) and Arthur Eddington (1928) observed that physics describes only what things *do*—their causal and relational properties—not what they *are* intrinsically. Mass is defined by gravitational and inertial behavior; charge by electromagnetic interactions. No physical description tells us what these properties *are* in themselves. Eddington called physics "a world of shadows"—equations relating symbols without revealing what those symbols represent. The Map's [physical-completeness](/concepts/physical-completeness/) article develops this further: physics is *structurally exhaustive* while leaving an ontological gap where consciousness operates. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) explores why this gap may be unfillable in principle. Russell reached this structuralism from his own earlier [neutral monism](/concepts/neutral-monism/) — the doctrine that the world's basic stuff is neither mental nor physical — of which Russellian monism is a descendant rather than a synonym.
 
 This creates space for consciousness. If physics captures only structure, something must *realize* that structure. Russellian monists propose quiddities—the intrinsic natures of fundamental entities—as that realizer. Since consciousness is the one intrinsic nature we know directly (through [introspection](/concepts/introspection/)), perhaps consciousness *is* quiddity, or is grounded in it.
 

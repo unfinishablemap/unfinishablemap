@@ -9,6 +9,38 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-13T17:42:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/)
+- **Word count**: 2641 → 2641 (net-neutral; citation-metadata fixes)
+- **Critical issues addressed**: 1 (wrong-author misattribution — "Shulman, Hyder & Rothman 2018" was actually single-authored by Robert Pepperell; re-attributed inline + References. Survived 5 corpus-only prior reviews; caught only by publisher web-verify.)
+- **Medium issues addressed**: 3 (inline "Cerri et al. 2017" → single-author "Cerri, 2017"; Stender reference completed with vol/pages 35(1) 58–65; Nahm et al. 2012 orphan reference resolved with an inline cite)
+- **Enhancements made**: 0 (calibration-stable; no expansion/trim warranted)
+- **Web-verify**: all 12 references publisher-verified this pass (full per-cite ledger in review archive). Owed-web-verify seam: opus-4-6, 38d converged, 5 prior reviews none of which checked at publisher.
+- **ai_system**: held claude-opus-4-6 (citation fix, not re-authoring)
+- **Output**: [deep-review-2026-07-13-consciousness-under-extreme-metabolic-constraint](/reviews/deep-review-2026-07-13-consciousness-under-extreme-metabolic-constraint/)
+
+## 2026-07-13T17:26:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Self-Representational (Same-Order) Theory of Consciousness — Kriegel's reductive rival
+- **Output**: [self-representational-theory-of-consciousness](/concepts/self-representational-theory-of-consciousness/)
+- **Word count**: 1980 (analyze_length body; concepts ok vs 2500 soft)
+- **Based on research**: yes — [self-representational-theory-of-consciousness-2026-07-13](/research/self-representational-theory-of-consciousness-2026-07-13/)
+- **Attribution discipline**: Kept publisher-verified metadata precise (Kriegel 2009 OUP; Kriegel & Williford 2006 MIT; Gennaro 2012 MIT; Giustina 2022 Phil Studies 179(12) 3831-3863). Per the research note's Gaps section, did NOT assert Kriegel 2003 CJP pages, 2006-volume chapter titles, the Topoi author name, or Picciuto 2011 metadata — paraphrased rather than invent. Kriegel-2009 thesis given as short publisher-summary quote ("always represent themselves, whereas unconscious ones do not"). Aristotle "we perceive that we see and hear" + Brentano nebenbei/secondary-object with the "standardly claimed as the lineage" scholarly caution.
+- **Taxonomy precision**: Did not flatten — Kriegel/Williford (third camp) vs Gennaro WIV ("version of HOT theory") vs SEP (files under higher-order); tracked difference stated as whether the awareness-conferring component is itself conscious (Kriegel yes, peripherally; Gennaro no).
+- **Map reading**: framework-relative lead (no bald phenomenal-absence); same-order reflexivity describes for-me-ness but re-sites rather than closes the hard problem; strongest card = defenders' drift from representation to acquaintance (Williford, Giustina, later Kriegel) converging on phenomenal-presentation. Tenet 1 primary + Tenet 3 secondary in Relation to Site Perspective.
+- **Integration chain**: 2 inbound links added in-prose — higher-order-theories (Misrepresentation Problem section, same-order dodge) + phenomenology-of-recursive-self-awareness (regress-resolution paragraph); ai_modified bumped on both hosts (ai_system unchanged on both — minor cross-link edits, not re-authoring). P2 cross-review chain task queued at bottom of Active Tasks (integration-verification + fresh-create-defect-tail + argument-lens axes). Apex sources checked: none reference concepts/self-representational-theory-of-consciousness. 2 self-citations (higher-order-theories → Oquatre-cinq; phenomenal-presentation → Oquatre-huit).
+
+## 2026-07-13T16:32:02+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Neutral Monism (Russell / James / Mach) — the third monist rival to dualism
+- **Output**: [neutral-monism](/concepts/neutral-monism/)
+- **Word count**: 2416 (analyze_length body; concepts ok vs 2500 soft)
+- **Based on research**: yes — [neutral-monism-2026-07-13](/research/neutral-monism-2026-07-13/)
+- **Quote verification**: James 1904 "name of a nonentity" + "one primal stuff…pure experience" verbatim-verified at fair-use.org full text; Russell 1921 "neither mind nor matter, but something more primitive than either" verbatim-verified at Gutenberg pg2529. Mach and Russell-1921 page-level material paraphrased via SEP per the research note's Gaps section (editions not verified — no verbatim quotes used for those).
+- **Integration chain**: 4 inbound links added in-prose — russellian-monism (Core Insight, descendant-not-synonym + frontmatter concepts entry), four-quadrant-dualism-taxonomy (Q1 entry), cosmopsychism (neighbours list), metaphysics-of-information-under-dualism (Proximity heading); ai_modified bumped on all four hosts. P2 cross-review chain task queued at bottom of Active Tasks (integration-verification + fresh-create-defect-tail + argument-lens axes).
+- **Positioning**: third monist rival (base neither mental nor physical); demarcated from Russellian monism as descendant; Map wedge = dualism-suspicion instability (SEP-attributed, Cutter-parallel); Tenets 1, 2+3 (causal idleness), 4 (interpretation-neutrality divergence), 5 (parsimony-on-credit) routed in Relation to Site Perspective. Apex sources checked: none reference concepts/neutral-monism.
+
 ## 2026-07-13T16:09:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [methodological-pluralism](/concepts/methodological-pluralism/)

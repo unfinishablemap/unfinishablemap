@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-07-13 01:35:55+00:00
+ai_modified: 2026-07-13 17:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -128,7 +128,7 @@ But the phenomenology of recursive thought suggests HOT has the relationship bac
 
 The [metarepresentation](/concepts/metacognition/) literature distinguishes functional meta-states (adjusting confidence, monitoring uncertainty) from genuine metarepresentation (representing representations *as* representations). Great apes show the former without clear evidence of the latter. This suggests recursive self-awareness is a *development* of consciousness, not its foundation.
 
-The regress resolves in practice not through unconscious higher-order thoughts (as Rosenthal proposes) but through the self-luminous character of consciousness itself. In meditation, one can observe thoughts arising without needing a further thought about the observation. Awareness may be self-illuminating in a way that physical light is not. Yet even this resolution faces the calibration problem that [self-opacity](/voids/self-opacity/) identifies: evaluating whether self-luminous awareness is *reliable* requires using the very capacity under evaluation.
+Between Rosenthal's higher-order route and the self-luminous view sits the [same-order self-representational theory](/concepts/self-representational-theory-of-consciousness/) (Kriegel), which keeps the representational analysis but folds the awareness-conferring work into a single self-directed state — dropping the second thought without abandoning representation. Yet the phenomenology here suggests the regress-stopping work is done by whatever primitive self-presence one posits, not by the reflexive architecture as such. The regress resolves in practice not through unconscious higher-order thoughts (as Rosenthal proposes) but through the self-luminous character of consciousness itself. In meditation, one can observe thoughts arising without needing a further thought about the observation. Awareness may be self-illuminating in a way that physical light is not. Yet even this resolution faces the calibration problem that [self-opacity](/voids/self-opacity/) identifies: evaluating whether self-luminous awareness is *reliable* requires using the very capacity under evaluation.
 
 ## Contemplative Evidence
 
