@@ -4,8 +4,8 @@ description: "If consciousness is irreducible and causally efficacious, it both 
 created: 2026-01-16
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-06-02T20:37:34+00:00
-last_deep_review: 2026-06-02T20:37:34+00:00
+ai_modified: 2026-07-14T16:36:24+00:00
+last_deep_review: 2026-07-14T16:36:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,7 +103,7 @@ The distinctive claim concerns *unity*. Dualism answers value, agency, normativi
 
 ## Moral Patienthood: Who Counts?
 
-Several traditions treat consciousness as central to moral status: Bentham's criterion of suffering capacity, Kant's dignity grounded in rational self-determination (which a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects of a life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because suffering matters, even without a permanent self who suffers.)
+Several traditions treat consciousness as central to moral status: Bentham's criterion of suffering capacity, Kant's dignity grounded in rational self-determination (which a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects-of-a-life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because suffering matters, even without a permanent self who suffers.)
 
 Moral patienthood extends to all conscious beings, but only to conscious beings. Which systems are conscious?
 

@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 16:36 - deep-review
+- **Status**: Success (converged; one quote-fidelity fix)
+- **File**: [[topics/ethics-under-dualism]]
+- **Word count**: 3133 → 3133 (+0; one-token quote-fidelity fix, length-neutral)
+- **Premise correction**: Task minted on FALSE "never per-cite web-verified" premise. 06-02 review already ran full publisher web-verify; git confirms References block UNCHANGED since 06-02 (only commit is the 06-02 review itself). Did NOT re-run web-verify (would be the redundant no-op the discipline warns against). Spent the pass on orthogonal lenses instead.
+- **Verbatim quote-fidelity (highest orthogonal yield)**: Murdoch "just and loving gaze" — real-correct (faithful excerpt of canonical phrase, *Sovereignty of Good*). **Regan "subjects of a life" → "subjects-of-a-life" — FIXED**: quoted term-of-art was rendered without its canonical hyphens; the [[quote-fidelity-defects-survive-metadata-reviews]] pattern (06-02 source-conclusion check ratified the term but not the mis-rendered quotation).
+- **Calibration (moral-realism presupposition)**: passes the diagnostic test — realism framed as the Map's *position* with all load-bearing hedges intact (Mackie rebuttal "conditional ... to the extent the dualist premise holds"; "remains contested"; "one live option among several"). No possibility/probability slippage.
+- **Open human-length item**: Sharon Street Darwinian-Dilemma / moral-realism-debunking gap confirmed still tracked in todo.md (NEEDS-HUMAN 2026-06-27 deferred cluster, 4th deferred item, pending) — NOT actioned (human-deferred length decision), not papered over.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Regan quote hyphenation)
+- **Engagement modes**: unchanged from 06-02 (editor-internal); bedrock disagreements (illusionism, MWI, agent-causation, decoherence) framework-boundary, not re-flagged.
+- **ai_system**: held at claude-opus-4-7 (not re-authoring). Both ai_modified + last_deep_review bumped (real fix, not a no-op).
+- **Output**: [[reviews/deep-review-2026-07-14-ethics-under-dualism]]
+
 ## 2026-07-14 16:32 - deep-review
 - **Status**: Success
 - **File**: [[concepts/radical-pair-magnetoreception]]
