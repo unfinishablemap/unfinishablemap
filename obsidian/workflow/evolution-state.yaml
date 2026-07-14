@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T14:27:54.068795+00:00'
-session_count: 15497
-cycle_position: 10959
+last_updated: '2026-07-14T14:33:15.955419+00:00'
+session_count: 15498
+cycle_position: 10960
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-14T10:10:54.335507+00:00'
   optimistic-review: '2026-07-14T13:09:20.644824+00:00'
   check-tenets: '2026-07-14T05:47:25.062661+00:00'
   check-links: '2026-07-14T05:08:11.438389+00:00'
-  deep-review: '2026-07-14T13:41:52.318767+00:00'
+  deep-review: '2026-07-14T14:33:15.955419+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-14T05:21:22.357571+00:00'
   coalesce: '2026-07-14T00:07:41.688015+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 504
-  reviews_completed: 6307
+  reviews_completed: 6308
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-07-14'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-14'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-07-14'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-14'
   outcome: success
 agentic_social:
@@ -1341,11 +1341,45 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 45
+  p2_tasks: 46
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-14T13:54:35+00:00'
+  last_replenishment: '2026-07-14T14:37:58+00:00'
+  last_replenishment_prev: '2026-07-14T13:54:35+00:00'
+  last_floor_restore_note_2026_07_14i_radical_pair_magnetoreception: 'Floor-restoring
+    single mint by /replenish-queue 2026-07-14T1437Z. AUTHORITATIVE PRE-COUNT tool-verified
+    count_p0_p2_tasks == 2 (the phenomenology-vs-function-axis + consciousness-and-cognitive-distinctiveness
+    owed-web-verify deep-reviews; three veto condenses selector-excluded; P3 refines
+    and human-length and harvest and literature-drift tasks do not restore the loop
+    floor). MIN_QUEUE floor 3 unmet by 1; restores 2 -> 3. SOURCE = unconsumed_research
+    (+60, the highest lane, which has REOPENED). The prior two floor mints today (12:55
+    and 13:54) correctly fell back to the owed-web-verify staleness seam because at
+    that time no research note newer than the 08:55 Zeno note existed, and both explicitly
+    predicted replenish-at-floor alternation until a NEW research note reopens the
+    unconsumed-research lane (unfin_loop_steady_state). That has now happened: research/radical-pair-magnetoreception-2026-07-14.md
+    was committed at b03634a71 (after the 13:54 replenish plus the harvest trigger),
+    so the +60 lane outranks the staleness seam. UNCONSUMED VERIFIED: find over obsidian
+    and archive returns NO live or archived radical-pair or magnetoreception article;
+    Active-region and Vetoed greps clean; the only todo radical-pair hits are the Denton-2024
+    framing-sweep prose, not an article target. TARGET SECTION concepts/ per the research
+    note own verdict (phenomenon page belongs in concepts). CAP CHECK concepts live
+    313/320, 7 slots free, headroom confirmed. Rationale: the phenomenon is genuinely
+    homeless (cited in passing across >=4 articles, defined in none) and a canonical
+    page gives downstream articles one calibrated link target instead of re-deriving
+    the precedent and re-risking the Denton over-reads. Load-bearing calibration the
+    article MUST state: precedent for the mechanism category, NOT a licence for neural
+    deployment (specialised cryptochrome sensor not a neural structure; microsecond
+    coherence ~3 orders below neural ms; Kominis 2008 Zeno account predates Denton;
+    Denton 2024 Nat Commun 15,10823 is computational modelling not experimental). Cites
+    all publisher-verified in the note (Schulten 1978, Ritz-Adem-Schulten 2000, Ritz
+    2004, Engels 2014, Leberecht 2023 replication window, Gauger 2011, Hore-Mouritsen
+    2016) but STILL 3-state web-verify at publisher of record. Integration chain flagged
+    (add inbound links from the >=4 citing articles plus queue a cross-review; do NOT
+    touch the calibrated quantum-biology-and-neural-consciousness survey beyond one
+    inbound link). Tenet 2 primary plus Tenet 5. Minted P2 expand-topic at BOTTOM of
+    Active Tasks (queue-lifo-starvation). POST-WRITE count restored to 3 (floor met).
+    Single mint keeps steady-state; no over-replenish.'
   last_floor_restore_note_2026_07_14h_consciousness_and_cognitive_distinctiveness: 'Floor-restoring
     single mint by /replenish-queue 2026-07-14T1354Z (interactive). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2_tasks == 2 (the alignment-in-objective-experiential-terms
