@@ -23,6 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-14
 last_curated:
+last_deep_review: 2026-07-14T12:40:51+00:00
 ---
 
 Quantum divine action (QDA) is the theological program that locates God's special action at the point of quantum measurement: God fixes which physically-permitted outcome becomes actual, injecting no energy and breaking no law. It is the single closest live rival to the position this site defends, because it agrees with the Map's physics *exactly* and disagrees only on the agent. The Map holds that a creaturely mind biases quantum outcomes ([[tenets#^bidirectional-interaction|Tenet 3]]); QDA assigns that same biasing to God. Since the two proposals are physically co-located—both work at the indeterminacy the collapse of the wave function leaves open—no experiment can distinguish a divine selector from a creaturely one. That empirical indistinguishability is the honest predicament this article confronts, and it forces the Map to state, openly, that it takes its side on non-empirical, framework-relative grounds rather than on evidence or parsimony.

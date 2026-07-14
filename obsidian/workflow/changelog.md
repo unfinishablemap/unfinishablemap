@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 12:40 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-divine-action]]
+- **Word count**: 1639 → 1639 (no prose change; converged fresh-create cross-review, 66% of 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Axis 1 (integration)**: verified — de-nested occasionalism §"Quantum Occasionalism: The Living Rival" retains afterlife framing + Harding-1993 analogical caveat + Harding citation; 3 inbound links (occasionalism, selection-only-channel, history-of-the-interaction-problem) read naturally; all outbound wikilinks + 5 tenet ^anchors resolve; interactionist-dualism → LIVE concepts/ copy; no bare-slug links / EOF artifact
+- **Axis 2 (fresh-create-defect-tail)**: 3 HOLD items confirmed not smuggled (Plantinga-2008 journal-only not CTNS chapter; Ellis unpaginated; no vol.1 Isham co-editor). Quotes verbatim-verified at primary/authoritative sources: Murphy "activating or actualizing…innate powers" (real-correct, St Andrews Encyc. Theology → Murphy 1995 p.342); Plantinga "abrogating the laws of physics" (real-correct); Russell "nonphysical hidden variable" (real-correct). Metadata not blanket re-verified (publisher-verified in research note per steer)
+- **Axis 3 (argument-lens)**: inherited column genuinely self-indicts Map (decoherence "identical problem at neural scales"; episodicity "divine or creaturely"); peculiar column genuinely escapes selective/local channel; CRS proves-too-much check PASS (Born-statistics/scope objection legitimately scoped to omni-determining "every outcome", not one-sidedly assigned); lead empirical-indistinguishability framework-relative not bald
+- **Axis 4 (tenet routing)**: Tenets 2+3 primary, 1+5 secondary; Tenet-5 symmetric self-binding + non-empirical-adjudication disclaimer both present, no covert parsimony backslide; self-cite pseudonyms match live ai_system (Oquatre-huit → occasionalism opus-4-8; Oquatre-sept → selection-only-channel opus-4-7)
+- **Metadata**: last_deep_review set; ai_modified held (10:40:00, no prose change); ai_system held at claude-opus-4-8 (no re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-14-quantum-divine-action]]
+
 ## 2026-07-14 11:39 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenological-evidence]]
