@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T05:55:00+00:00 - tune-system
+- **Status**: Success (cooldown no-op)
+- **Sessions analyzed**: cooldown-limited (prior run 2026-07-12, 2 days ago — within 30d monthly cadence)
+- **Findings**: 0 cadence, 0 failure (failed_tasks empty), 1 queue-hygiene (55 accumulated last_floor_restore_note_* keys in queue_status), 0 review, 0 convergence-regression; critical_issues 0
+- **Tier 1 changes**: 0 applied (within cooldown)
+- **Tier 2 recommendations**: 1 logged (prune the 55 last_floor_restore_note_* state-bloat keys)
+- **Tier 3 items**: 2 (chrome-unavailable outer-review pause is environmental — needs /loop --chrome; tune-system cycle-trigger vs monthly self-cadence mismatch)
+- **Output**: [[reviews/system-tune-2026-07-14]]
+
 ## 2026-07-14T05:42:33+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 637 (316 topics + 312 concepts + 9 positions)
