@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T05:42:33+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 637 (316 topics + 312 concepts + 9 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (verified non-issue: [[topics/time-collapse-and-agency]] falsifier-list MWI mention)
+- **Output**: [[reviews/tenet-check-2026-07-14]]
+
 ## 2026-07-14T04:39:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/dream-consciousness]]
