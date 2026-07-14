@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 15:30 - expand-topic
+- **Status**: Success
+- **Topic**: Radical-Pair Magnetoreception (canonical phenomenon page)
+- **Output**: [[concepts/radical-pair-magnetoreception]]
+- **Word count**: 1718
+- **Based on research**: yes — [[research/radical-pair-magnetoreception-2026-07-14]]
+- **Notes**: Precedent-not-licence calibration front-loaded; all 8 core citations 3-state web-verified at publisher of record (Schulten 1978, Ritz 2000, Ritz 2004, Engels 2014, Leberecht 2023, Gauger 2011, Hore & Mouritsen 2016, Denton 2024 — all title+venue correct). Denton framed as computational/modelled (not experimental); Kominis 2008 credited as predating Denton. Inbound [[radical-pair-magnetoreception]] links added from quantum-zeno-effect, quantum-biology-and-neural-consciousness, evolutionary-case-for-quantum-neural-effects, quantum-biology-and-neural-mechanisms. Cross-review successor owed (queued).
+
 ## 2026-07-14 15:13 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/self-representational-theory-of-consciousness]]

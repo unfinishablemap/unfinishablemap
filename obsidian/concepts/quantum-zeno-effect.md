@@ -4,7 +4,7 @@ description: "The quantum Zeno effect—frequent measurement freezing quantum ev
 created: 2026-07-14
 modified: 2026-07-14
 human_modified:
-ai_modified: 2026-07-14T13:39:00+00:00
+ai_modified: 2026-07-14T15:28:00+00:00
 draft: false
 topics:
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -53,7 +53,7 @@ The anti-Zeno effect is the honest caveat that consciousness-based accounts tend
 
 ## Biological Precedents
 
-The strongest evidence that warm, wet biology can host Zeno-like dynamics comes from radical-pair magnetoreception—the leading model of how migratory birds sense the Earth's magnetic field. Iannis Kominis first framed radical-pair reaction dynamics as a quantum Zeno phenomenon in the late 2000s (arXiv:0806.0739, 2008; later in *Physical Review E*, 2009), arguing that the effect stabilises the radical-pair spin state and protects the magnetic compass against certain decohering interactions. This is the biological precedent that genuinely predates later cryptochrome work by roughly fifteen years.
+The strongest evidence that warm, wet biology can host Zeno-like dynamics comes from [[radical-pair-magnetoreception|radical-pair magnetoreception]]—the leading model of how migratory birds sense the Earth's magnetic field. Iannis Kominis first framed radical-pair reaction dynamics as a quantum Zeno phenomenon in the late 2000s (arXiv:0806.0739, 2008; later in *Physical Review E*, 2009), arguing that the effect stabilises the radical-pair spin state and protects the magnetic compass against certain decohering interactions. This is the biological precedent that genuinely predates later cryptochrome work by roughly fifteen years.
 
 Denton and colleagues (2024) extended the picture with a computational study of tightly bound radical pairs in cryptochrome, concluding that the quantum Zeno effect enables their magnetosensitivity. Three qualifications keep this precedent calibrated, and this page is meant to be its authoritative home:
 

@@ -4,7 +4,7 @@ description: "Established quantum effects in living systems—photosynthesis, ma
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-07-12T22:26:22+00:00
+ai_modified: 2026-07-14T15:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,7 +67,7 @@ Engel et al. (2007) demonstrated quantum coherence in photosynthetic complexes o
 
 ### Avian Magnetoreception
 
-Migratory birds navigate using Earth's magnetic field through radical pair quantum effects in cryptochrome proteins. Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. Spin coherence persists for microseconds—vastly longer than femtosecond timescales often cited for biological decoherence.
+Migratory birds navigate using Earth's magnetic field through [[radical-pair-magnetoreception|radical pair quantum effects]] in cryptochrome proteins. Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. Spin coherence persists for microseconds—vastly longer than femtosecond timescales often cited for biological decoherence.
 
 Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism category Stapp proposes for mental causation, providing a computational precedent, though its microsecond coherence sits about three orders of magnitude below neural firing timescales.
 
