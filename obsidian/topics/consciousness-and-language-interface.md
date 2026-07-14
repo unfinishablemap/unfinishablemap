@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-06-09T19:37:39+00:00
+last_deep_review: 2026-07-14T18:22:39+00:00
 coalesced_from:
   - "/topics/consciousness-and-language-interface/"
   - "/topics/consciousness-and-language-under-dualism/"
