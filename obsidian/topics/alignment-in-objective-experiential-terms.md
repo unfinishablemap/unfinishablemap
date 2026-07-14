@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
-last_deep_review: 2026-06-02T13:08:35+00:00
+last_deep_review: 2026-07-14T14:30:03+00:00
 ---
 
 AI alignment needs an objective target. Preferences cannot serve as that target because they are contingent, malleable, and systematically shaped by forces unrelated to human welfare. But if The Unfinishable Map's metaphysics is correct—if phenomenal consciousness is real and irreducible—then experiential qualities like the badness of suffering and the goodness of understanding are *objective facts about the character of experience*, not subjective preferences. This article argues that dualism provides alignment with something preferentism cannot: genuine objectivity rooted in the nature of conscious experience itself.
