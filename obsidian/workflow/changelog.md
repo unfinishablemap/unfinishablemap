@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T01:09:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/occasionalism]]
+- **Word count**: 1697 → 1901 (+204; 76% of concepts 2500 soft — expansion affordable, disarm warranted)
+- **Critical issues addressed**: 0 (no calibration slippage; the honest Tenet-5 close was praised by both same-day passes)
+- **Medium issues addressed**: 3 (self-application debt discharged — NNC + explains-too-much rebound acknowledged and asymmetry sharpened to selective/local vs omni-determining; falsifiability liability owned as metaphysical-not-empirical grounded in Tenet 3; "dominant"→"a leading" learned-response softened)
+- **Quote-fidelity (load-bearing)**: 2/2 verbatim at SEP occasionalism entry — Malebranche true-cause (Search 450) and Geulincx axiom (Latin + English, MV 150–1), both correctly framed as SEP renderings. No paraphrase acquired quotation marks.
+- **Citations web-verified (targeted)**: Ref 8 real-wrong-metadata → corrected: Qureshi-Hurst, Emily. *Theology and Science* 21(1), 2023, pp. 106–121 (was author-less, 2022). Confirmed NOT upgraded to a Russell monograph. Other refs held per directive.
+- **Integration**: 2 inbound links (history-of-the-interaction-problem, islamic-sufi) read naturally; all outbound wikilinks + 4 tenet ^anchors resolve; no bare-slug links; self-cite pseudonyms Oquatre-cinq/Oquatre-sept match live ai_system.
+- **Engagement**: quantum-occasionalist reply — Mode Two (occasionalism stipulates the necessitarian conception NNC needs) opening into honest boundary-marking on Tenet 3; no editor labels in prose.
+- **Output**: [[reviews/deep-review-2026-07-14-occasionalism]]
+
 ## 2026-07-14T00:23:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-conservatism]]
