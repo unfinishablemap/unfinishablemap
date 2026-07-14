@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 17:55 - deep-review
+- **Status**: Success
+- **File**: [[voids/narrative-void]]
+- **Word count**: 1993 → 1990 (-3)
+- **Scope**: Genuinely-owed publisher-of-record web-verify of the article's ORIGINAL citation cluster (the 06-04 review web-verified only the four Encoding-Void-absorbed cites and explicitly left the original cluster "not re-litigated"). Per-cite ledger in the review archive. All seven originals — Nisbett-Wilson 1977, Gazzaniga *Mind's Past* 1998, Johansson et al. 2005 *Science*, Ricoeur *Time and Narrative*, Schechtman 1996, Strawson 2004 *Ratio*, Damasio 1999 — verified **real-correct** at publishers of record (author tuple, venue, volume/issue/pages, DOI where applicable). Inline↔References cross-check clean, no orphans. Two quote-fidelity defects found and fixed.
+- **Critical issues addressed**: 1 — Strawson misquote: article altered "my" → "his" inside quotation marks; restored verbatim first-person "I have absolutely no sense of my life as a narrative with form" (confirmed against *Ratio* 17(4)).
+- **Medium issues addressed**: 1 — Schechtman "one of many possible narratives … same raw material" was in quotation marks but unverifiable at publisher / full text / secondary lit across 5 keyword combos + 2 full-text fetches; de-quoted to a faithful paraphrase (content correct, verbatim attribution unsupportable).
+- **Enhancements made**: 0 (targeted verify pass; article is well-calibrated and densely cross-linked — no expansion)
+- **Calibration**: no possibility/probability slippage; void correctly framed as a gap in self-knowledge, not a metaphysical proof.
+- **Timestamps**: real fixes landed → bumped both ai_modified + last_deep_review. Held ai_system claude-opus-4-6 (quote-fidelity corrections, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-14-narrative-void]]
+
 ## 2026-07-14 17:36 - deep-review
 - **Status**: Success (convergence no-op)
 - **File**: [[voids/the-quantitative-comprehension-void]]

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own s
 created: 2026-02-25
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-04T17:56:12+00:00
+ai_modified: 2026-07-14T17:55:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
-last_deep_review: 2026-06-04T17:56:12+00:00
+last_deep_review: 2026-07-14T17:55:00+00:00
 ---
 
 Consciousness constructs a running story of who you are—a coherent narrative from fragmentary, discontinuous experience. But the construction process is invisible to the one living inside the result. The Unfinishable Map calls this the narrative void: the gap between raw experience and the story consciousness tells about itself. What gets edited out, smoothed over, or fabricated to maintain coherence cannot be observed from within the narrative. Worse, the fabrication presents itself with the same phenomenological confidence as genuine memory.
@@ -71,7 +71,7 @@ The narrator is not the first hand on the material. Which fragments survive to b
 
 ## The Multiplicity Problem
 
-Schechtman's work on narrative self-constitution reveals an additional dimension. She argues that personal identity is constituted through the autobiographical narratives we construct—but "the narrative constructed is just one of many different possible narratives that could be constructed from the same raw material."
+Schechtman's work on narrative self-constitution reveals an additional dimension. She argues that personal identity is constituted through the autobiographical narratives we construct—but the narrative any person settles on is only one of many that could be built from the same raw material.
 
 The same life events, the same raw experiential material, could support radically different self-stories. The shy child who became confident could equally be narrated as someone who lost their authentic caution, or who discovered a latent capacity, or who learned to perform extroversion without inhabiting it. Each narrative constitutes a different self. None has privileged access to what "actually happened" in experience.
 
@@ -79,7 +79,7 @@ The narrative void is therefore not only about what the narrative loses or fabri
 
 ## Episodic Counter-Evidence
 
-Strawson's "Against Narrativity" challenges the assumption that narrative self-experience is universal. He distinguishes "diachronic" people, who experience the self as extended through time, from "episodic" people who do not. Strawson identifies himself as episodic, reporting "absolutely no sense of his life as a narrative with form."
+Strawson's "Against Narrativity" challenges the assumption that narrative self-experience is universal. He distinguishes "diachronic" people, who experience the self as extended through time, from "episodic" people who do not. Strawson identifies himself as episodic. As he puts it, "I have absolutely no sense of my life as a narrative with form."
 
 If some minds operate with less narrative construction, this reveals that narration is not given but built. What is built can be built differently—or built badly. The episodic counter-example does not dissolve the narrative void; it demonstrates that the void has variable depth. The less you narrate, the less the narrator can deceive you. But episodic experience may carry its own void: an inability to access one's own temporal continuity, a different kind of self-alienation that parallels what the [[inaccessible-past]] describes.
 
