@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 14:48 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology-vs-function-axis]]
+- **Word count**: 3049 → 3049 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th-pass convergence; file unchanged since 2026-06-17, would normally be selection-excluded)
+- **Quote-fidelity web-verified**: Kay/Keogh/Pearson 2024 ("visual imagery is not crucial...") and Lennon 2023 ("sensory reduction base" / "falsifies the sensory constraint") both faithful at publisher — the lens prior metadata passes did not run. Editor-vocabulary scan clean; no superlatives to currency-check. Cross-file Gray-2003 follow-up from 2026-06-17 confirmed landed in synaesthesia.md + phenomenal-variation apex.
+- **Engagement modes**: functionalist absorption = Mode Three + in-framework constraint (unchanged, no leakage)
+- **Frontmatter**: `last_deep_review` → 2026-07-14T14:48:07+00:00; `ai_modified` left at 2026-06-17 (no body change)
+- **Output**: [[reviews/deep-review-2026-07-14-phenomenology-vs-function-axis]]
+
 ## 2026-07-14 14:30 - deep-review
 - **Status**: Success
 - **File**: [[topics/alignment-in-objective-experiential-terms]]
