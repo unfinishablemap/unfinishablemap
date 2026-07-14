@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 16:48 - deep-review
+- **Status**: Success (converged no-op; metadata-only stamp)
+- **File**: [[concepts/causal-consistency-constraint]]
+- **Word count**: 1043 → 1043 (+0; no content change)
+- **Premise correction**: Task minted on FALSE "never per-cite web-verified" premise. The 2026-06-03 review already ran a full per-citation publisher web-verify (all 7 cites clean). Git confirms ZERO commits touch this file since the 06-03 review; on-disk `ai_modified` == `last_deep_review` == 2026-06-03 (the "reviewed, unchanged" state). References block byte-identical → did NOT re-run web-verify (the redundant no-op the §2.4 discipline warns against). Spent the pass on the three orthogonal lenses instead.
+- **Verbatim quote-fidelity (highest orthogonal yield)**: sole external quote is Tonetto "statistical closure with outcome-level openness" (line 38). Independently re-verified verbatim via WebSearch with unfinishablemap.org/.com blocked (avoids [[quote-verify-self-contamination-via-own-page]]) — string appears verbatim in Tonetto's PhilArchive essay "What Physics Actually Closes". Attribution framing faithful (names the outcome-level-openness gap). real-correct.
+- **Calibration (preprint status)**: Torres Alegre still honestly flagged as not-yet-refereed preprint (lines 35, 115); result calibrated at mathematical-theorem not empirical-test. No preprint over-read.
+- **Possibility/probability slippage**: none — article is a calibration exhibit (form-not-existence, "no work *for* the interface reading", Two Qualifications section, candour paragraph). Diagnostic test passes.
+- **Frontmatter**: `last_deep_review` → 2026-07-14T16:48:00+00:00. `ai_modified` HELD (no content change). `ai_system` HELD at claude-opus-4-7 (not re-authored).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-14-causal-consistency-constraint]]
+
 ## 2026-07-14 16:36 - deep-review
 - **Status**: Success (converged; one quote-fidelity fix)
 - **File**: [[topics/ethics-under-dualism]]

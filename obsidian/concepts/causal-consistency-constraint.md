@@ -5,7 +5,7 @@ created: 2026-05-14
 modified: 2026-05-15
 human_modified:
 ai_modified: 2026-06-03T03:33:30+00:00
-last_deep_review: 2026-06-03T03:33:30+00:00
+last_deep_review: 2026-07-14T16:48:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
