@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T15:08:59.130088+00:00'
-session_count: 15507
-cycle_position: 10964
+last_updated: '2026-07-14T15:16:37.948706+00:00'
+session_count: 15508
+cycle_position: 10965
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-14T10:10:54.335507+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review: '2026-07-14T04:05:59.973844+00:00'
-  refine-draft: '2026-07-14T06:52:05.328125+00:00'
+  refine-draft: '2026-07-14T15:16:37.948706+00:00'
   research-topic: '2026-07-14T14:27:54.068795+00:00'
   replenish-queue: '2026-07-14T15:04:08.956145+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-14'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-14'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-14'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-14'
   outcome: success
 agentic_social:
@@ -1342,12 +1342,40 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 46
+  p2_tasks: 47
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-14T14:51:00+00:00'
-  last_replenishment_prev: '2026-07-14T14:37:58+00:00'
+  last_replenishment: '2026-07-14T15:20:47+00:00'
+  last_replenishment_prev: '2026-07-14T14:51:00+00:00'
+  last_floor_restore_note_2026_07_14k_ethics_under_dualism: 'Floor-restoring single
+    mint by /replenish-queue 2026-07-14T15:20Z. AUTHORITATIVE PRE-COUNT tool-verified
+    count_p0_p2_tasks == 2 (open P2s = radical-pair-magnetoreception expand + buddhism-and-dualism
+    owed-web-verify deep-review; the 14:51 third counter consciousness-and-cognitive-distinctiveness
+    was DRAINED by a loop slot at commit d719e732c; three veto condenses selector-excluded;
+    P3 Denton-sweep + Fechner refines + human-length + harvest + literature-drift do
+    not restore the loop floor). MIN_QUEUE floor 3 unmet by 1; restores 2 -> 3. SOURCE
+    = owed-web-verify deep-review seam (staleness). The +60 unconsumed_research lane
+    is DRY: newest research note is radical-pair-magnetoreception-2026-07-14 (consumed
+    by the open radical-pair expand); quantum-zeno-effect / quantum-divine-action /
+    phenomenal-conservatism / causal-exclusion-argument all have live articles; pre-established-harmony
+    = RECOMMEND-FOLD (standing consumption directive); psychophysical-parallelism =
+    ALREADY-COVERED (yielded only the open P3 Fechner refine). No note newer than radical-pair.
+    TARGET = topics/ethics-under-dualism.md: ai_system claude-opus-4-7, last_deep_review
+    2026-06-02 (the OLDEST stamp in the whole candidate cohort, ~42d, pre web-verify
+    discipline) with ZERO dedicated review files (stamp is a staleness metadata bump,
+    never a per-cite verify), ai_contribution 100, body 3138w (topics soft 3000 / hard
+    4000 -- over soft but ~860w under hard, length-safe, no condense confound). Diverse
+    from both open P2s (radical-pair = Tenet 2 quantum phenomenon; buddhism = Tenet
+    1 Buddhist concept) -- a normative-ethics/metaethics cite cluster (Railton 1986,
+    Frankish 2016, Birch 2024, Rawlette 2016, Cambridge/NY Declarations, Bentham/Moore/Mackie/Korsgaard/Parfit/Foot)
+    orthogonal to the consciousness-science + quantum clusters recent sweeps hit. NOT
+    the File-target of any open task (prose hits are the ethics-of-possible-ai-consciousness
+    human-length block citing it as background, not a review); NOT in Vetoed. Length-neutral
+    deep-review; note the KNOWN open human-length item about the Street Darwinian-Dilemma
+    moral-realism gap (do NOT close it here, do NOT paper over it). FIFO-placed at BOTTOM
+    of Active Tasks. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    expected to continue until a new research note reopens the unconsumed lane.'
   last_floor_restore_note_2026_07_14j_buddhism_and_dualism: 'Floor-restoring single
     mint by /replenish-queue 2026-07-14T14:51Z. AUTHORITATIVE PRE-COUNT tool-verified
     count_p0_p2_tasks == 2 (open P2s = consciousness-and-cognitive-distinctiveness
