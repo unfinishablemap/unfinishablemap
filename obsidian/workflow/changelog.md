@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T03:40:00+00:00 - research-topic
+- **Status**: Success (assess-first verdict: RECOMMEND-FOLD)
+- **Topic**: Pre-Established Harmony (Leibniz)
+- **Output**: [[research/pre-established-harmony-2026-07-14]]
+- **Sources consulted**: 6 (SEP Leibniz's Philosophy of Mind [verbatim-verified]; SEP Leibniz; Britannica preestablished harmony; Scott "Leibniz and the Two Clocks" MUSE/PhilPapers; Nadler ed. 1993; primary texts New System 1695 / Basnage de Beauval 1696 / Monadology 1714)
+- **Verdict**: Do NOT mint standalone concepts/pre-established-harmony.md. PEH already carried in occasionalism.md sibling section + history-of-the-interaction-problem H3 + 2 research notes; standing consumption directive (occasionalism-2026-07-13) forbids a second PEH/parallelism expand unless the occ subsection proves insufficient; concepts near cap (312/320); PEH overlaps parallelism (two candidates, one gap). Concrete yield = publisher-verified metadata (two-clocks source = Postscript to Basnage de Beauval 1696; SEP 3-thesis PEH definition; windowless monads Monadology §7; Leibniz NOT a substance dualist). If ever overridden, make ONE PEH+parallelism page, not two. Two-clocks verbatim still extraction-blocked (Yale PDF binary) — paraphrase remains safe.
+
 ## 2026-07-14T02:45:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Quantum Divine Action (NIODA and divine collapse-causation)
