@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T02:30:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Word count**: 4213 → 4226 (+13; over 4000 hard, settled editorial state across 3 reviews — no condense, oscillation-avoidance)
+- **Critical issues addressed**: 1 — wrong-statistic: Tegmark decoherence gap floor "13–20 orders of magnitude" overstated (mistook the decoherence exponents for the gap size); independently web-verified at Tegmark 2000 (10⁻¹³–10⁻²⁰ s vs 10⁻³–10⁻¹ s dynamics = ~10–19 orders); corrected to "roughly ten to twenty orders of magnitude" with self-checking explicit endpoints. Corpus siblings (qm-interpretations "ten orders", attention-interface "twelve to twenty") confirm the ~10 floor. Survived the 2026-06-08 "currency-checked: faithful" ratification.
+- **Seam**: citation-metadata exhausted (2026-06-08 18-cite publisher ledger); this pass ran the orthogonal quote-fidelity + citation-framing lenses independently.
+- **Quote-fidelity / attribution**: "powerful qualities" (Martin/Heil) and "powers all the way down" (pandispositionalism label; Bird/Shoemaker) both faithful; verified term-standing in external literature not via the Map's own self-page (self-contamination avoided).
+- **Citation-framing verified**: Taylor 2018 collapse argument (powerful qualities = pure powers) faithfully deployed for the collapse horn; Cutter/Pautz/Howell/Mørch Russellian-instability cluster faithful; no skeptic-paper-as-Map-support over-read.
+- **Calibration/reasoning-mode**: clean, unchanged — cross-product framed as internal-coherence result not evidential upgrade; MWI/eliminativism Mode Three; no label leakage. HELD ai_system (opus-4-7) — single-statistic fix, not re-authoring.
+- **Output**: [[reviews/deep-review-2026-07-14-consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+
 ## 2026-07-14T01:09:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/occasionalism]]

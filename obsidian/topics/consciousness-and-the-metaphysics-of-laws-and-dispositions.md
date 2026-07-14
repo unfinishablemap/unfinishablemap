@@ -4,9 +4,9 @@ description: "What laws of nature are and what fundamental properties are determ
 created: 2026-02-16
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-08T12:06:52+00:00
+ai_modified: 2026-07-14T02:30:21+00:00
 draft: false
-last_deep_review: 2026-06-08T12:06:52+00:00
+last_deep_review: 2026-07-14T02:30:21+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[interactionist-dualism]]"
@@ -147,7 +147,7 @@ The combination supplies both halves. The governing view contributes *nomic nece
 
 If consciousness has genuine causal powers, those powers have a dispositional structure: consciousness is *disposed* to bias certain quantum outcomes when triggered by indeterminacies in appropriate neural systems—what the Map calls the [[brain-interface-boundary|interface]]—and the manifestation is a shift in which quantum outcome actualises. Reducing consciousness to this disposition alone would collapse into pandispositionalism; the qualitative aspect remains identical with it rather than absorbed into it.
 
-This dispositional analysis is hostage to a physical premise: that quantum indeterminacies survive in the warm wet brain long enough to be biased. Tegmark (2000) and the decoherence literature (Schlosshauer 2007) argue thermal noise collapses superpositions in neural tissue on timescales 13–20 orders of magnitude shorter than neural information processing—so whatever indeterminacy exists is averaged out before it could host a triggering condition for any phenomenal disposition. The Map engages this objection in [[quantum-biology-and-neural-mechanisms]] and [[penrose-gravity-induced-collapse-empirical-prospects]], arguing that Tegmark's calculation is correct for toy systems but does not foreclose biological architectures evolved to maintain coherence. The dispositional framing here presupposes that defence; if it fails, the Map needs a different account of how psychophysical laws operate.
+This dispositional analysis is hostage to a physical premise: that quantum indeterminacies survive in the warm wet brain long enough to be biased. Tegmark (2000) and the decoherence literature (Schlosshauer 2007) argue thermal noise collapses superpositions in neural tissue on timescales roughly ten to twenty orders of magnitude shorter than neural information processing (decoherence at 10⁻¹³–10⁻²⁰ s against dynamical timescales of 10⁻³–10⁻¹ s)—so whatever indeterminacy exists is averaged out before it could host a triggering condition for any phenomenal disposition. The Map engages this objection in [[quantum-biology-and-neural-mechanisms]] and [[penrose-gravity-induced-collapse-empirical-prospects]], arguing that Tegmark's calculation is correct for toy systems but does not foreclose biological architectures evolved to maintain coherence. The dispositional framing here presupposes that defence; if it fails, the Map needs a different account of how psychophysical laws operate.
 
 ## The Dispositional Modality Problem
 
