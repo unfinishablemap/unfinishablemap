@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T08:53:20+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Quantum Zeno Effect
+- **Output**: [[research/quantum-zeno-effect-2026-07-14]]
+- **Verdict**: CREATE WARRANTED (canonical concepts/quantum-zeno-effect.md) — mechanism mentioned in ~50 articles but defined canonically in none; Misra-Sudarshan 1977, Itano 1990, anti-Zeno effect, and Kominis all ABSENT from corpus. Cap caveat: concepts at 312/320.
+- **Sources consulted**: 7 (all citation metadata publisher-verified: Misra-Sudarshan JMP 18:756, Itano PhysRevA 41:2295, Kaulakys-Gontis PhysRevA 56:1131, Fischer et al. PRL 87:040402, Kominis PRE 80:056115, Denton Nat Commun 15:10823, Stapp Mindful Universe 2007)
+
 ## 2026-07-14T08:44:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-completeness]]
