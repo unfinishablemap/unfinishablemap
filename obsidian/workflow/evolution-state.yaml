@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T09:22:01.460743+00:00'
-session_count: 15475
-cycle_position: 10948
+last_updated: '2026-07-14T09:49:10.405716+00:00'
+session_count: 15476
+cycle_position: 10949
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-13T19:38:57.691461+00:00'
   optimistic-review: '2026-07-13T22:08:39.517619+00:00'
   check-tenets: '2026-07-14T05:47:25.062661+00:00'
   check-links: '2026-07-14T05:08:11.438389+00:00'
-  deep-review: '2026-07-14T08:46:08.597383+00:00'
+  deep-review: '2026-07-14T09:49:10.405716+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-14T05:21:22.357571+00:00'
   coalesce: '2026-07-14T00:07:41.688015+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 503
-  reviews_completed: 6300
+  reviews_completed: 6301
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-07-14'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-14'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-14'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-14'
   outcome: success
 agentic_social:
@@ -1349,7 +1349,30 @@ queue_status:
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-14T09:09:37+00:00'
+  last_replenishment: '2026-07-14T09:55:47+00:00'
+  last_floor_restore_note_2026_07_14e_phenomenological_evidence: 'Floor-restoring single
+    mint by /replenish-queue 2026-07-14T0955Z (interactive). AUTHORITATIVE PRE-COUNT
+    tool-verified count_p0_p2_tasks == 2 (the Quantum Divine Action expand + the quantum
+    Zeno effect expand; the active-reboot owed-web-verify deep-review that was the third
+    counted P2 at 09:09 was DRAINED by a loop deep-review slot, commit d0117899c, dropping
+    the live floor 3->2). MIN_QUEUE floor 3 unmet by 1; restores 2 -> 3. Documented
+    replenish-at-floor alternation, NOT deadlock. SOURCE = owed-web-verify deep-review
+    seam (staleness). unconsumed_research is now GENUINELY exhausted (not false-exhaustion):
+    all four 2026-07-14 notes dispositioned (QDA + Zeno minted as the two expands above;
+    pre-established-harmony RECOMMEND-FOLD; psychophysical-parallelism ALREADY-COVERED),
+    and every 2026-07-13 note disk-verified consumed into a live article; no note newer
+    than the 08:55 Zeno note exists. Reverts to the SAME owed-web-verify seam active-reboot
+    came from. TARGET concepts/phenomenological-evidence.md, grep-verified live: ai_system
+    claude-opus-4-7 (older cohort), last_deep_review 2026-06-04 (40d converged), ai_modified
+    == last_deep_review (settled, no drift), ai_contribution 100, 2728w soft_warning
+    (length-safe, no condense pressure), 10 prior review files of which ZERO ran a per-cite
+    publisher verify (the converged-not-verified pattern that yielded defects on dopamine
+    + active-reboot this cohort). Quantum-foundations high-citation cluster (retrocausality,
+    forward-in-time, quantum-state-inheritance) and dopamine EXCLUDED as already-publisher-verified
+    this cohort. NOT in any open queue task, NOT vetoed (todo hits are all below Completed/Blocked/Vetoed
+    headers and concern OTHER articles). Diversity: a concepts methodology page distinct
+    from the two quantum-topic expands. Minted P2 deep-review at BOTTOM of Active Tasks
+    (FIFO). POST-WRITE count tool-verified == 3 (floor met).'
   last_floor_restore_note_2026_07_14d_quantum_zeno: 'Floor-restoring single mint by
     /replenish-queue 2026-07-14T0909Z (interactive). AUTHORITATIVE PRE-COUNT tool-verified
     count_p0_p2_tasks == 2 (active-reboot deep-review + Quantum Divine Action expand;
