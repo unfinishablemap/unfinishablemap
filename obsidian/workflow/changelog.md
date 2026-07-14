@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/quantum-zeno-effect.md (fresh 2026-07-14 opus-4-8 create; reviewed for the fresh-create defect tail)
+- **Findings**: 2 medium issues, both on the same seam — the article treats wavefunction collapse / the projection postulate as essential to the Zeno EFFECT when the physics is interpretation-neutral and only the consciousness reading needs collapse. (1) "The effect presupposes genuine collapse" (No Many Worlds, line 82) overclaims vs unitary derivability — hands the MWI defender a real internal inconsistency. (2) Itano 1990 presented as grounding the projection-postulate mechanism (line 46) omits the Ballentine 1991 unitary-account controversy. Both fixable in one length-neutral refine pass. Article is otherwise unusually well-calibrated (correct Kominis-not-Denton first-precedent credit; strong anti-Zeno caveat; clean citations).
+- **Task added**: P2 refine-draft (relocate collapse-dependence to the reading + add Ballentine caveat)
+- **Output**: [[reviews/pessimistic-2026-07-14]]
+
 ## 2026-07-14 16:48 - deep-review
 - **Status**: Success (converged no-op; metadata-only stamp)
 - **File**: [[concepts/causal-consistency-constraint]]
