@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-06-11T00:00:00+00:00
+last_deep_review: 2026-07-14T18:10:24+00:00
 ---
 
 The moment you notice your mind has wandered and bring attention back to the breath, the book, the conversation — this is among the most revealing micro-events in conscious life. Meditators perform it thousands of times. Most people do it daily without reflection. Yet the phenomenology of returning attention contains a structure that resists easy materialist explanation: a gap where no one was watching, a spontaneous noticing that seems to come from nowhere, and a deliberate re-engagement that feels like genuine agency. The Unfinishable Map's framework — in which consciousness selects among physical possibilities through [[attention-as-interface|attention]] — predicts exactly this structure and illuminates why it feels the way it does.

@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 18:10 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-returning-attention]]
+- **Word count**: 2571 → 2571 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op — 6th review; timestamp-only `last_deep_review` stamp, `ai_modified` deliberately NOT bumped)
+- **Notes**: Task minted on false "never per-cite web-verified" premise — both 2026-05-27 and 2026-06-11 passes already web-verified all 5 cites at publisher of record. References block byte-unchanged since (`git log -p --since=2026-06-11` empty), so redundant metadata verify SKIPPED per §2.4. Spent pass on orthogonal lenses: (1) verbatim quote-fidelity — no defect, all quote-marked strings are the article's own first-person illustrations, Schooler "meta-consciousness" phrasing faithful to paper title, no de-quoting; (2) calibration — no slippage, underdetermination explicit, fMRI evidence framed supporting-not-proving; (3) currency — zero superlative claims, no drift flag. ai_system HELD at claude-opus-4-6 (no re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-14-phenomenology-of-returning-attention]]
+
 ## 2026-07-14 18:05 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Quantum-binding / composition / biological-precedent cluster — [[topics/quantum-holism-and-phenomenal-unity]], [[concepts/composition-and-consciousness]], [[concepts/radical-pair-magnetoreception]] (all deep-reviewed or freshly created 2026-07-14; distinct from the morning's quantum-zeno-effect/quantum-divine-action pass)
