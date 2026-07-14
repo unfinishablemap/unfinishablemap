@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 17:29 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [[concepts/composition-and-consciousness]]
+- **Word count**: 2443 → 2443 (no content change)
+- **Scope**: Third deep review. Both prior passes (06-01 full publisher web-verify of all 6 cites, 06-09 re-confirm) converged. Only changes since 06-09 are cosmetic cross-links: 06-15 coalesce repointed 3 sibling links to `[[composition-question-rivals]]` with section anchors; 07-11 expand-topic added one `[[phenomenal-sorites-problem]]` Further Reading link. Re-selection = predicted cosmetic re-qualification (35d, outside 14d exclusion, only 2 priors → damped score 44).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (editing a twice-converged article risks oscillation — clean no-op is correct)
+- **Verified**: 3 changed link targets resolve; 3 composition-question-rivals section anchors match `{#...}` headers exactly; label-leakage grep clean. §2.4 web-verify NOT re-triggered (References/inline cites git-unchanged since 06-01 ledger).
+- **Engagements** (editor-internal, unchanged): materialist physical-analogies Mode One; functionalist/James Mixed Mode Two/Three; panpsychism/combination Mode One.
+- **Output**: [[reviews/deep-review-2026-07-14-composition-and-consciousness]]
+
 ## 2026-07-14 17:15 - deep-review
 - **Status**: Success
 - **File**: [[voids/sleep-consciousness-void]]
