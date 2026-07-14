@@ -9,6 +9,43 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-14T07:23:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
+- **Word count**: 3714 → 3717 (+3, length-neutral)
+- **Critical issues addressed**: 1 (Denton 2024 study-type over-read: "demonstrated ... confirmed biological counterpart" → "modelled ... computational precedent ... not a neural demonstration"; harmonised with calibrated siblings quantum-biology-and-neural-mechanisms + quantum-consciousness)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (framing verb corrected to match verified paper's study type)
+- **Web-verify**: Denton 2024 (real-correct metadata; spin-dynamics simulation confirmed computational), Khan/Wiest 2024 (real-correct, 69s / d=1.9, Khan-first order confirmed), Tegmark 2000 (real-correct), Hagan/Hameroff/Tuszynski 2002 (real-correct), Reimers/McKemmish 2009 standing critique intact. Quote-fidelity clean.
+- **ai_system**: held at claude-opus-4-6 (framing fix, not re-authoring)
+- **Output**: [deep-review-2026-07-14-quantum-holism-and-phenomenal-unity](/reviews/deep-review-2026-07-14-quantum-holism-and-phenomenal-unity/)
+
+## 2026-07-14T06:23:01+00:00 - literature-drift-review
+- **Status**: Success (NO_CANDIDATE)
+- **Article**: none
+- **Research area**: n/a
+- **Outcome**: no-candidate — every topic article matching `active_research_sections` patterns is already in `recently_audited`
+- **Detail**: Only 3 topic files match the current pattern list (`psychedelics-and-the-filter-model`, `animal-consciousness`, `quantum-biology-and-neural-consciousness`), all present in `recently_audited`. Patterns `animal-cognition`, `iit`, `consciousness-measurement`, `neural-complexity` match zero filenames. The pattern universe is smaller than the 30-entry `recently_audited` ring, so the audit is effectively exhausted until `active_research_sections` is broadened or entries age off — flagged for `/tune-system`.
+- **Task generated**: none
+- **State**: `last_runs["literature-drift-review"]` bumped to today; audit_triple counters untouched (no article audited)
+
+## 2026-07-14T05:55:00+00:00 - tune-system
+- **Status**: Success (cooldown no-op)
+- **Sessions analyzed**: cooldown-limited (prior run 2026-07-12, 2 days ago — within 30d monthly cadence)
+- **Findings**: 0 cadence, 0 failure (failed_tasks empty), 1 queue-hygiene (55 accumulated last_floor_restore_note_* keys in queue_status), 0 review, 0 convergence-regression; critical_issues 0
+- **Tier 1 changes**: 0 applied (within cooldown)
+- **Tier 2 recommendations**: 1 logged (prune the 55 last_floor_restore_note_* state-bloat keys)
+- **Tier 3 items**: 2 (chrome-unavailable outer-review pause is environmental — needs /loop --chrome; tune-system cycle-trigger vs monthly self-cadence mismatch)
+- **Output**: [system-tune-2026-07-14](/reviews/system-tune-2026-07-14/)
+
+## 2026-07-14T05:42:33+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 637 (316 topics + 312 concepts + 9 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (verified non-issue: [time-collapse-and-agency](/topics/time-collapse-and-agency/) falsifier-list MWI mention)
+- **Output**: [tenet-check-2026-07-14](/reviews/tenet-check-2026-07-14/)
+
 ## 2026-07-14T04:39:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [dream-consciousness](/topics/dream-consciousness/)

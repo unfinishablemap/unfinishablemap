@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-06-17 21:29:00+00:00
+ai_modified: 2026-07-14 07:23:27+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: Classical binding mechanisms coordinate separate processes but cann
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-17 15:05:06+00:00
+last_deep_review: 2026-07-14 07:23:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ This objection has been contested but not settled either way. In 2002, Hagan, Ha
 
 The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Luo et al. (2025) provided computational support through QM/MM simulations showing that protein and solvent reorganization stabilizes the separated radical pair that underlies this coherence. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
-A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. Denton et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism proposed for consciousness-brain interaction has a confirmed biological counterpart.
+A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—a computational precedent for the mechanism category proposed for consciousness-brain interaction, not a neural demonstration.
 
 Most fundamentally, decoherence does not solve the measurement problem. As Schlosshauer's authoritative 2019 review notes, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes. Consciousness could participate at this collapse point regardless of prior decoherence.
 

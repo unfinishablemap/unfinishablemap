@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-13T08:01:35.686720'
+ai_modified: '2026-07-14T08:07:54.085522'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-13'
+modified: '2026-07-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-14: Quantum Divine Action: The Map's Closest Rival
+
+Theology's 'divine action' program says God acts by choosing which quantum outcome comes true—no energy, no law broken. That's the exact mechanism the Map gives to conscious minds. New research on the Map's closest rival, and why it backs finite minds over God.
+
+**Type**: research  
+**Link**: [[quantum-divine-action-2026-07-14]]
+
+---
+
 ### 2026-07-13: Twin Earth: Why Meanings Aren't in the Head
 
 Two atom-for-atom twins can think about different things — Putnam's Twin Earth shows the brain alone does not fix what a thought is about. A new article on how the Map stays externalist about reference yet internalist about felt experience.
@@ -196,15 +205,6 @@ One molecule, flipped to its mirror image: spearmint becomes caraway. A new arti
 
 **Type**: new-article  
 **Link**: [[chemosensory-consciousness-and-the-interface]]
-
----
-
-### 2026-06-15: The Strongest Case Against Dualism, Taken Seriously
-
-Włodzisław Duch models mind as a 'shadow of neurodynamics'—attractor states in a geometric space. The Map engages him as its most competent computationalist foil, and finds his tools borrowable for dualism.
-
-**Type**: insight  
-**Link**: [[duch-neurodynamic-theory-of-mind]]
 
 ---
 
