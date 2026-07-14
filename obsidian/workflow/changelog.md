@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T04:39:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dream-consciousness]]
+- **Word count**: 3258 → 3258 (±0; length-neutral, soft_warning under hard 4000)
+- **Mode**: Owed publisher-of-record web-verify pass (staleness→owed-web-verify seam), 12th deep review
+- **Citations web-verified at publisher**: 9 (Konkoly 2021 Curr Biol 31(7); Konkoly 2026 Neurosci Consc niaf067; Baird 2018 Sci Rep 8:17798; Haar Horowitz 2023 Sci Rep 13:7319; Cai 2009 PNAS 106(25); Lacaux 2021 Sci Adv 7(50); Bilzer & Monzel 2025 Vision 9(2); Demirel 2025 J Neurosci 45(20); LaBerge 1990). 8 real-correct; 1 real-wrong-metadata fixed.
+- **Critical issues addressed**: 1 (LaBerge 1990 editor surname "Bootzen" → "Bootzin, Kihlstrom & Schacter"; propagated fix to archive/topics/lucid-dreaming-and-consciousness.md)
+- **Verified no regression**: Bilzer & Monzel (no "Fazekas" revert); Konkoly 2026 42%/17% + p-value calibration intact; Demirel gamma/interhemispheric framing verbatim-accurate
+- **AXIS-2 note**: no William James quote exists in article (task premise was cross-article confusion); no print-anchored quotes to verify
+- **Engagement modes** (editor-internal, unchanged): Illusionism Mode Two; Epiphenomenalism Mode Mixed; no label leakage
+- **Output**: [[reviews/deep-review-2026-07-14-dream-consciousness]]
+
 ## 2026-07-14T04:24:00+00:00 - research-topic
 - **Status**: Success (assess-first verdict: RECOMMEND-FOLD — ALREADY-COVERED)
 - **Topic**: Psychophysical Parallelism
