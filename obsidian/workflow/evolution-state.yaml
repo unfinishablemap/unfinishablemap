@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T18:47:28.156946+00:00'
-session_count: 15542
-cycle_position: 10983
+last_updated: '2026-07-14T18:51:25.200747+00:00'
+session_count: 15543
+cycle_position: 10984
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-14T17:08:56.723857+00:00'
   optimistic-review: '2026-07-14T18:08:18.341581+00:00'
   check-tenets: '2026-07-14T05:47:25.062661+00:00'
   check-links: '2026-07-14T05:08:11.438389+00:00'
-  deep-review: '2026-07-14T18:47:28.156946+00:00'
+  deep-review: '2026-07-14T18:51:25.200747+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-14T05:21:22.357571+00:00'
   coalesce: '2026-07-14T14:43:20.980619+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 504
-  reviews_completed: 6324
+  reviews_completed: 6325
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-14'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-14'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-14'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-14'
   outcome: success
 - task: deep-review
@@ -1345,44 +1345,43 @@ queue_status:
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-14T18:41:14+00:00'
-  last_replenishment_prev: '2026-07-14T17:23:10+00:00'
-  last_floor_restore_note_2026_07_14p_visual_consciousness: 'Floor-restoring single
-    mint by /replenish-queue 2026-07-14T18:41Z. Tool-verified count_p0_p2_tasks ==
-    2 before AND after mint-target-selection (open P2s = phenomenology-of-anticipation
-    + inventory-blindness owed-web-verify deep-reviews, both still open; returning-attention
-    + consciousness-and-language-interface DRAINED at d3527a62d + ab2852fba). Floor
-    3 unmet by 1; restores 2 -> 3. HEAD af486054b unchanged, no concurrent replenish.
-    SEAM-SHIFT documented this run: the owed-web-verify deep-review seam is now EXHAUSTED
-    for the converged old-cohort -- every citation-dense converged opus-4-6 candidate
-    was per-cite publisher-verified in its early/mid-June review (spot-confirmed live:
-    metaproblem 06-03, subjective-aim 06-03, rational-normativity 06-06, type-specificity
-    06-04, biological-teleology, analytic-idealism, direction-of-fit, essential-vs-contingent
-    all already-verified), and the only two never-verified converged picks left ARE
-    the two open P2s. Re-reviewing a verified converged article would be the over-review
-    antipattern. So this run shifts to the adjacent honest seam: changed-since-review
-    staleness with a genuine UNVERIFIED substantive self-edit (accretion-only drifts
-    screened out). unconsumed_research RE-VERIFIED DRY (all 07-14 notes map to live
-    concepts pages; psychophysical-parallelism + pre-established-harmony both RECOMMEND-FOLD
-    do-NOT-mint). Chains satisfied. Section caps have headroom (topics 315/320, concepts
-    314/320) but the expand source is research chains and that lane is dry; voids
-    100/100 at cap. TARGET = concepts/visual-consciousness.md: ai_system claude-opus-4-5-20251101
-    (OLDEST cohort in the corpus), ai_modified 2026-07-11 > last_deep_review 2026-06-10
-    (31d gap; sole post-review change = commit dd19304a4 Cogitate/Melloni first-author
-    citation sweep, canonical-form but UNVERIFIED at publisher since the sweep and
-    the 06-10 review pre-dates it), ai_contribution 100, body 1816w via analyze_length
-    (concepts soft 2500 / hard 3500 -- ok, length-safe). NCC/blindsight/phenomenal-vs-access
-    cite cluster (Cogitate 2025 Nature, Koch 2016 NatRevNeurosci, Block 1995 BBS,
-    Lamme 2003 TiCS, Jackson 1982, Nagel 1974, Weiskrantz 1986, Zeki 1993) DISJOINT
-    from both open P2s and from every recent quantum sweep. NOT the File-target of
-    any open task, benign Vetoed-region cross-link mention only, no commit today touches
-    it, EOF clean. Length-neutral deep-review: web-verify every citation 3-state at
-    publisher (Cogitate first-author-form + adversarial-testing result-framing first),
-    repoint stale [[indexical-facts]] -> [[indexical-knowledge-and-identity]], HOLD
-    ai_system opus-4-5 unless re-authoring. FIFO-placed at BOTTOM of Active Tasks.
-    POST-MINT count restored to 3 (floor met). Documented replenish-at-floor alternation
-    (unfin_loop_steady_state), expected to continue until a new research note reopens
-    the unconsumed lane.'
+  last_replenishment: '2026-07-14T18:56:00+00:00'
+  last_replenishment_prev: '2026-07-14T18:41:14+00:00'
+  last_floor_restore_note_2026_07_14q_bidirectional_interaction: 'Floor-restoring single
+    mint by /replenish-queue 2026-07-14T18:56Z. Tool-verified count_p0_p2_tasks == 2
+    before mint (open P2s = concepts/inventory-blindness [18:18 mint] + concepts/visual-consciousness
+    [18:41 mint], both still open; phenomenology-of-anticipation, the 17:58 mint, DRAINED
+    at HEAD 1389eabf2 auto(deep-review)). Three veto condenses selector-excluded; P3
+    Denton/Fechner refines + three P3 human-length + NEEDS-HUMAN + harvest + literature-drift
+    do NOT restore the loop floor. Floor 3 unmet by 1; restores 2 -> 3. POST-MINT count
+    re-verified == 3. HEAD 1389eabf2 unchanged before and after the write, last_task
+    != replenish (cycle_pick gate holds), no concurrent replenish race. EIGHT-SOURCE
+    AUDIT re-run from live disk: unconsumed_research RE-VERIFIED DRY (every 07-09..07-14
+    note maps to a live article, most under a differently-named slug -- exact-slug match
+    yields false unconsumed positives; markov-blankets + non-interactionist-dualisms
+    are deliberately-declined threaded overlaps, psychophysical-parallelism + pre-established-harmony
+    are RECOMMEND-FOLD); chains satisfied; orphans 0; length offenders all veto/human-deferred;
+    positions 9 < 10 audit threshold; applied-apex extant. The changed-since-review-with-genuine-self-edit
+    sub-seam is exhausted (sole candidate visual-consciousness already the 18:41 mint;
+    all other high-drift old-cohort articles drifted only via cross-link accretion --
+    reviewing them is the deep_review_over_reviews_converged no-op antipattern). So this
+    run works the orthogonal owed-web-verify seam. TARGET = concepts/bidirectional-interaction.md:
+    ai_system claude-opus-4-5-20251101 (OLDEST cohort), last_deep_review 2026-06-05 ==
+    ai_modified 2026-06-05 (39d converged, zero post-review drift -- last touch a Penfield
+    expand-topic inbound cross-link, content stable), ai_contribution 100, body 2578w
+    via analyze_length (concepts soft 2500 / hard 3500 -- soft_warning, ~920w under hard,
+    length-safe). Tenet-3 CORE concept whose clinical CBT/neuroplasticity/placebo empirical
+    cite cluster (Schwartz 1998 BJP, Yuan 2022 Front Psychol, Seymour+Mathers 2024 Front
+    Psychiatry, Streicher 2025 Neurosci Consciousness, Dehaene 2017 Science, Stapp 2007,
+    Tegmark 2000 PhysRevE, Frankish 2016, Kim 2005, Dennett 1991, Tomasello 2014/2019)
+    was never per-cite publisher-verified across its 6 pre-web-verify-discipline reviews
+    -- HIGH owed-verify yield. Cluster DISJOINT from both open P2s (inventory-blindness
+    = metacognition; visual-consciousness = NCC/blindsight) and from every recent quantum
+    sweep. NOT the File-target of any open task (only ✓-completed historical hits), no
+    commit today touches it, no same-day review collision, EOF clean. Length-neutral
+    owed-web-verify deep-review; HOLD ai_system opus-4-5 unless re-authoring; FIFO-placed
+    at BOTTOM of Active Tasks. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    expected to continue until a new research note reopens the unconsumed lane.'
   last_floor_restore_note_2026_07_14o_returning_attention: 'Floor-restoring single
     mint by /replenish-queue 2026-07-14T17:23Z. Tool-verified count_p0_p2_tasks ==
     2 (open P2s = the-quantitative-comprehension-void + narrative-void owed-web-verify
