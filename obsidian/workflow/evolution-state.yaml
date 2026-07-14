@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T20:24:43.846605+00:00'
-session_count: 15556
-cycle_position: 10989
+last_updated: '2026-07-14T20:28:51.317458+00:00'
+session_count: 15557
+cycle_position: 10990
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-14T17:08:56.723857+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review: '2026-07-14T04:05:59.973844+00:00'
-  refine-draft: '2026-07-14T20:24:43.846605+00:00'
+  refine-draft: '2026-07-14T20:28:51.317458+00:00'
   research-topic: '2026-07-14T14:27:54.068795+00:00'
   replenish-queue: '2026-07-14T19:58:07.127249+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-14'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-14'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-14'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-14'
   outcome: success
 - task: refine-draft
@@ -1333,9 +1333,32 @@ queue_status:
   p2_tasks: 49
   p3_tasks: 16
   needs_replenishment: false
-  loop_pickable_open: 1
-  last_replenishment: '2026-07-14T19:48:00+00:00'
-  last_replenishment_prev: '2026-07-14T19:21:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment: '2026-07-14T20:35:00+00:00'
+  last_replenishment_prev: '2026-07-14T19:48:00+00:00'
+  last_floor_restore_note_2026_07_14t_zero_mint: 'ZERO-MINT floor audit by /replenish-queue
+    2026-07-14T20:35Z. PRE-COUNT authoritative == 2 live pickable P0-P2 (concepts/reasons-responsiveness
+    verbatim-quote verify [19:21 mint, still open] + zero-lag-gamma-synchrony research-topic
+    [harvested this session]). Floor 3 unmet by 1. HEAD 265073874 auto(refine-draft)
+    unchanged before and after; todo.md clean pre-write (no sibling replenish race
+    -- memory concurrent-replenish-race); last_task != replenish so cycle_pick gate
+    held, NOT a concurrent evolve_loop (memory replenish-fork-hallucinates-concurrent-loop).
+    FULL EIGHT-SOURCE AUDIT re-run from live disk, only ~47min after the 19:48 zero-mint
+    audit whose conclusion still holds -- no new research note, no new fresh content
+    create since; only harvest minted zero-lag-gamma, lifting count 1 -> 2. unconsumed_research
+    DRY (all 07-09..07-14 notes map to live pages; the new zero-lag-gamma research-topic
+    already queued -- do NOT double-mint); chains satisfied; orphans 0; length offenders
+    all veto/human-deferred (no re-mint of flagship human-length decisions -- memory
+    human-decision-task-mispicked-as-refine); positions 8 < 10 audit threshold; applied-apex
+    extant. Both verify sub-seams remain EXHAUSTED per the 19:48 ledger: owed-CITE-METADATA
+    verify has caught up on the converged old cohort, and the sole genuine VERBATIM-QUOTE
+    target (reasons-responsiveness Sellars EPM) is already the open 19:21 mint working
+    that lane. Minting a second speculative verify task would be a false-premise mint,
+    worse than sitting 1 under floor per explicit steer and SKILL discipline. MINT
+    ZERO -- the floor at 2 is documented replenish-at-floor alternation (memory unfin_loop_steady_state),
+    expected to persist until zero-lag-gamma executes and reopens the research -> expand
+    chain, or a new research note reopens the unconsumed lane. POST-AUDIT live pickable
+    P0-P2 == 2 (unchanged; no mint).'
   last_floor_restore_note_2026_07_14s_zero_mint: 'ZERO-MINT floor audit by /replenish-queue
     2026-07-14T19:48Z. PRE-COUNT tool-verified == 1 live pickable P0-P2 (sole open
     = concepts/reasons-responsiveness verbatim-quote verify, the 19:21 mint; the two
