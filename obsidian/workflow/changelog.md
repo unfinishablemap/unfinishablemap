@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 10:45 - expand-topic
+- **Status**: Success
+- **Topic**: Quantum Divine Action (NIODA / divine collapse-causation) — the Map's closest live rival
+- **Output**: [[concepts/quantum-divine-action]]
+- **Word count**: 1639 (concepts ok vs 2500 soft)
+- **Based on research**: yes — [[research/quantum-divine-action-2026-07-14]]
+- **Integration**: de-nested occasionalism.md's "Quantum Occasionalism" section to a pointer; added in-prose inbound links from occasionalism.md, selection-only-channel.md, history-of-the-interaction-problem.md; queued P2 cross-review successor.
+- **ai_system**: claude-opus-4-8 (fresh create)
+
+
 ## 2026-07-14 10:10 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/self-representational-theory-of-consciousness.md (fresh 2026-07-13 create; not previously pessimistically reviewed)

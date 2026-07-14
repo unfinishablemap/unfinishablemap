@@ -4,7 +4,7 @@ description: "Information-channel framing of selection-only mind-influence: per-
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-17T13:15:59+00:00
+ai_modified: 2026-07-14T10:43:00+00:00
 last_deep_review: 2026-06-17T13:15:59+00:00
 draft: false
 topics:
@@ -115,7 +115,7 @@ The asymmetry is intrinsic: the forward and reverse channels have different capa
 
 The selection-only channel is the cleanest formal expression of the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. It commits to the *smallest* deviation from physical dynamics — one whose channel-theoretic signature is that the candidate set, the Born-rule distribution, and the energetic balance are all left untouched. The interface acts only through the act of selection itself.
 
-[[tenets#^bidirectional-interaction|Tenet 3 (Bidirectional Interaction)]] is preserved as channel direction: information flows from mind to physical (the realised candidate) and from physical to mind (the candidate set the mind can choose from). The forward and reverse directions are both genuine information channels; they are bounded differently. The content-confinement constraint expresses the reverse direction's bound; the per-event capacity and Born-preservation constraints express the forward direction's bound.
+[[tenets#^bidirectional-interaction|Tenet 3 (Bidirectional Interaction)]] is preserved as channel direction: information flows from mind to physical (the realised candidate) and from physical to mind (the candidate set the mind can choose from). The forward and reverse directions are both genuine information channels; they are bounded differently. The content-confinement constraint expresses the reverse direction's bound; the per-event capacity and Born-preservation constraints express the forward direction's bound. Placing a *divine* rather than a creaturely selector at this same channel yields [[quantum-divine-action]], the Map's closest live rival: it accepts every constraint above and differs only on who does the selecting.
 
 [[tenets#^dualism|Tenet 1 (Dualism)]] is presupposed by the channel's existence — there must be a non-physical selector for the input alphabet to be distinct from the output alphabet, and for the act of selection to be more than a redescription of brain dynamics. [[tenets#^no-many-worlds|Tenet 4 (No Many Worlds)]] is presupposed by the channel's output semantics: selection is meaningful only if one candidate becomes actual rather than all of them.
 

@@ -4,7 +4,7 @@ description: "Occasionalism makes God the sole true cause, dissolving mind-body 
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-14T01:09:36+00:00
+ai_modified: 2026-07-14T10:42:00+00:00
 last_deep_review: 2026-07-14T01:09:36+00:00
 draft: false
 topics:
@@ -59,9 +59,9 @@ Occasionalism belongs to a family of theories that keep the dualist *distinction
 
 ## Quantum Occasionalism: The Living Rival
 
-Occasionalism's most interesting afterlife is the one that touches the Map directly. Contemporary *divine-action* theology relocates the classical move to the quantum joint. Alvin Plantinga's **divine collapse-causation** proposes that whenever a quantum collapse occurs, God decides its outcome—supplying the determination physics leaves open without injecting energy or breaking any law. Robert John Russell's **non-interventionist objective divine action** (NIODA) makes the same structural claim: God acts objectively by determining otherwise-underdetermined quantum events, law-respecting throughout. (An older analogical literature, beginning with Harding's 1993 comparison of al-Ghazālī's causal occasionalism to Copenhagen indeterminacy, is illustrative rather than a mechanism proposal.)
+Occasionalism's most interesting afterlife is the one that touches the Map directly. Contemporary *divine-action* theology relocates the classical move to the quantum joint, in the program the Map calls [[quantum-divine-action]]—Alvin Plantinga's **divine collapse-causation** and Robert John Russell's **non-interventionist objective divine action** (NIODA), on which God fixes otherwise-undetermined quantum outcomes without injecting energy or breaking any law. (An older analogical literature, beginning with Harding's 1993 comparison of al-Ghazālī's causal occasionalism to Copenhagen indeterminacy, is illustrative rather than a mechanism proposal.)
 
-This is the sharpest dialectical material the rival offers, because it agrees with the Map on physics and disagrees only on the agent. Divine collapse-causation and NIODA use the *same causal joint* the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] identifies—quantum indeterminacy as a real, law-respecting opening for non-physical determination—but assign the selecting to God rather than to creaturely minds. Occasionalism's modern form thus concedes the Map's key physical claim while re-running the classical relocation of agency to God. Because the two proposals share their physics exactly, no experiment could distinguish a divine selector from a creaturely one: the disagreement is metaphysical rather than empirical, and the Map takes its side on the agency-preserving grounds set out below rather than on evidence. Usefully, the traffic runs both ways: some objections to divine collapse-causation (its episodicity, its dependence on an unsettled measurement problem) transfer to any quantum-interface proposal, and the article can note which pressures the Map inherits and which are peculiar to an omni-determining agent.
+This is the sharpest dialectical material the rival offers, because it agrees with the Map on physics and disagrees only on the agent: quantum divine action uses the *same causal joint* the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] identifies but assigns the selecting to God rather than to creaturely minds. The dedicated [[quantum-divine-action]] article develops the full program and its objection ledger—sorting which pressures the Map inherits from the shared joint and which are peculiar to an omni-determining divine agent that the Map's selective, creaturely channel escapes.
 
 ## Relation to Site Perspective
 
