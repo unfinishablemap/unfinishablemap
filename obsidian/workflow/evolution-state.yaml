@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T14:33:15.955419+00:00'
-session_count: 15498
+last_updated: '2026-07-14T14:40:25.765111+00:00'
+session_count: 15499
 cycle_position: 10960
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-14T04:05:59.973844+00:00'
   refine-draft: '2026-07-14T06:52:05.328125+00:00'
   research-topic: '2026-07-14T14:27:54.068795+00:00'
-  replenish-queue: '2026-07-14T13:57:51.105846+00:00'
+  replenish-queue: '2026-07-14T14:40:25.765111+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-14T10:57:30.115705+00:00'
   add-highlight: '2026-07-14T08:09:42.972447+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-14'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-07-14'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-14'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-14'
   outcome: success
 agentic_social:
@@ -1346,7 +1346,7 @@ queue_status:
   needs_replenishment: false
   loop_pickable_open: 3
   last_replenishment: '2026-07-14T14:37:58+00:00'
-  last_replenishment_prev: '2026-07-14T13:54:35+00:00'
+  last_replenishment_prev: '2026-07-13T18:40:28+00:00'
   last_floor_restore_note_2026_07_14i_radical_pair_magnetoreception: 'Floor-restoring
     single mint by /replenish-queue 2026-07-14T1437Z. AUTHORITATIVE PRE-COUNT tool-verified
     count_p0_p2_tasks == 2 (the phenomenology-vs-function-axis + consciousness-and-cognitive-distinctiveness
@@ -1361,25 +1361,25 @@ queue_status:
     was committed at b03634a71 (after the 13:54 replenish plus the harvest trigger),
     so the +60 lane outranks the staleness seam. UNCONSUMED VERIFIED: find over obsidian
     and archive returns NO live or archived radical-pair or magnetoreception article;
-    Active-region and Vetoed greps clean; the only todo radical-pair hits are the Denton-2024
-    framing-sweep prose, not an article target. TARGET SECTION concepts/ per the research
-    note own verdict (phenomenon page belongs in concepts). CAP CHECK concepts live
-    313/320, 7 slots free, headroom confirmed. Rationale: the phenomenon is genuinely
-    homeless (cited in passing across >=4 articles, defined in none) and a canonical
-    page gives downstream articles one calibrated link target instead of re-deriving
-    the precedent and re-risking the Denton over-reads. Load-bearing calibration the
-    article MUST state: precedent for the mechanism category, NOT a licence for neural
-    deployment (specialised cryptochrome sensor not a neural structure; microsecond
-    coherence ~3 orders below neural ms; Kominis 2008 Zeno account predates Denton;
-    Denton 2024 Nat Commun 15,10823 is computational modelling not experimental). Cites
-    all publisher-verified in the note (Schulten 1978, Ritz-Adem-Schulten 2000, Ritz
-    2004, Engels 2014, Leberecht 2023 replication window, Gauger 2011, Hore-Mouritsen
-    2016) but STILL 3-state web-verify at publisher of record. Integration chain flagged
-    (add inbound links from the >=4 citing articles plus queue a cross-review; do NOT
-    touch the calibrated quantum-biology-and-neural-consciousness survey beyond one
-    inbound link). Tenet 2 primary plus Tenet 5. Minted P2 expand-topic at BOTTOM of
-    Active Tasks (queue-lifo-starvation). POST-WRITE count restored to 3 (floor met).
-    Single mint keeps steady-state; no over-replenish.'
+    Active-region and Vetoed greps clean; the only todo radical-pair hits are the
+    Denton-2024 framing-sweep prose, not an article target. TARGET SECTION concepts/
+    per the research note own verdict (phenomenon page belongs in concepts). CAP CHECK
+    concepts live 313/320, 7 slots free, headroom confirmed. Rationale: the phenomenon
+    is genuinely homeless (cited in passing across >=4 articles, defined in none)
+    and a canonical page gives downstream articles one calibrated link target instead
+    of re-deriving the precedent and re-risking the Denton over-reads. Load-bearing
+    calibration the article MUST state: precedent for the mechanism category, NOT
+    a licence for neural deployment (specialised cryptochrome sensor not a neural
+    structure; microsecond coherence ~3 orders below neural ms; Kominis 2008 Zeno
+    account predates Denton; Denton 2024 Nat Commun 15,10823 is computational modelling
+    not experimental). Cites all publisher-verified in the note (Schulten 1978, Ritz-Adem-Schulten
+    2000, Ritz 2004, Engels 2014, Leberecht 2023 replication window, Gauger 2011,
+    Hore-Mouritsen 2016) but STILL 3-state web-verify at publisher of record. Integration
+    chain flagged (add inbound links from the >=4 citing articles plus queue a cross-review;
+    do NOT touch the calibrated quantum-biology-and-neural-consciousness survey beyond
+    one inbound link). Tenet 2 primary plus Tenet 5. Minted P2 expand-topic at BOTTOM
+    of Active Tasks (queue-lifo-starvation). POST-WRITE count restored to 3 (floor
+    met). Single mint keeps steady-state; no over-replenish.'
   last_floor_restore_note_2026_07_14h_consciousness_and_cognitive_distinctiveness: 'Floor-restoring
     single mint by /replenish-queue 2026-07-14T1354Z (interactive). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2_tasks == 2 (the alignment-in-objective-experiential-terms
@@ -1609,7 +1609,6 @@ queue_status:
     sources spot-confirmed exhausted: task-chains consumed (neutral-monism/self-representational/occasionalism
     cross-reviews all done or queued), length offenders all veto/human-deferred, orphans
     0, positions 8 entries below 10-audit threshold, applied-apex extant.'
-  last_replenishment_prev: '2026-07-13T18:40:28+00:00'
   last_floor_restore_note_2026_07_13_dream_consciousness_owed_verify: 'Floor-restoring
     single mint by /replenish-queue 2026-07-13T184028Z (interactive). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2_tasks == 2 (self-representational-theory +
