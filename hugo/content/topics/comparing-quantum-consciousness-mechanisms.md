@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-07-12 20:39:00+00:00
+ai_modified: 2026-07-14 15:33:28+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -82,7 +82,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 Henry Stapp proposes that consciousness operates through orthodox quantum mechanics. Multiple neural firing patterns exist in superposition; mental effort acts as repeated quantum observation, exploiting the Zeno effect to hold desired patterns stable. No new physics is required — the mechanism uses standard von Neumann quantum mechanics with the observer-system boundary placed within the brain.
 
-**Decoherence vulnerability: Low.** The model requires only discrete observation events, not sustained coherence. Stapp estimates ~1000 observations per 300ms (Stapp 2007), though this is a modelling assumption rather than an independent prediction. Decoherence between observations resets the state without invalidating the mechanism — though Georgiev's Monte Carlo critique (2015) questions re-engagement effectiveness at biological decoherence rates. The 2024 cryptochrome Zeno effect demonstration (Denton et al.) provides biological precedent, though in magnetoreception rather than neural decision-making.
+**Decoherence vulnerability: Low.** The model requires only discrete observation events, not sustained coherence. Stapp estimates ~1000 observations per 300ms (Stapp 2007), though this is a modelling assumption rather than an independent prediction. Decoherence between observations resets the state without invalidating the mechanism — though Georgiev's Monte Carlo critique (2015) questions re-engagement effectiveness at biological decoherence rates. The 2024 cryptochrome Zeno effect modelling (Denton et al.) provides a biological precedent, though in [magnetoreception](/concepts/radical-pair-magnetoreception/) rather than neural decision-making.
 
 **Phenomenological fit: Strong (accommodative).** The model accommodates what attention feels like: sustained effort, continuous re-engagement, fatigue. William James observed that "sustained voluntary attention is a repetition of successive efforts" — precisely the Zeno phenomenology. Willed attention requires conscious observation (high Zeno rate); automatic processes proceed without it. Schwartz's neuroplasticity findings — OCD patients reshaping circuits through directed effort — are consistent with this picture. However, Stapp began with James's phenomenology and identified a quantum mechanism that could be interpreted to match it — this is accommodation of known phenomena, not a novel prediction derived independently from the theory. Classical neuroscience accounts (prefrontal sustained firing, anterior cingulate conflict monitoring, executive resource depletion) explain the same phenomenological features without quantum supplementation.
 

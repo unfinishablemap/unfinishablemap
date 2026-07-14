@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-07-14 07:23:27+00:00
+ai_modified: 2026-07-14 15:33:28+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -128,7 +128,7 @@ The standard objection to quantum consciousness is [decoherence](/concepts/decoh
 
 This objection has been contested but not settled either way. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium conditions equivalent to death. Using corrected estimates for dielectric properties and realistic model parameters, they derived coherence times of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer** than Tegmark calculated. But Reimers et al. (2009) and McKemmish et al. (2009) re-examined that recalibration and found its parameter assumptions either rely on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue. The dispute is live, not closed; citing Hagan as a settled rebuttal would be selective citation. The Map's interest in microtubule-scale coherence is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
-The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Luo et al. (2025) provided computational support through QM/MM simulations showing that protein and solvent reorganization stabilizes the separated radical pair that underlies this coherence. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
+The biological precedent strengthens the case. [Avian magnetoreception](/concepts/radical-pair-magnetoreception/) relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Luo et al. (2025) provided computational support through QM/MM simulations showing that protein and solvent reorganization stabilizes the separated radical pair that underlies this coherence. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
 A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—a computational precedent for the mechanism category proposed for consciousness-brain interaction, not a neural demonstration.
 

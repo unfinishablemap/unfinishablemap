@@ -19,7 +19,7 @@ description: A cross-cutting taxonomic axis identifying voids where phenomenal c
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-17 05:14:14+00:00
+last_deep_review: 2026-07-14 14:48:07+00:00
 modified: *id001
 related_articles:
 - '[[taxonomy-of-voids]]'

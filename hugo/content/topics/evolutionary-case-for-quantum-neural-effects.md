@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-06-20 11:40:59+00:00
+ai_modified: 2026-07-14 15:28:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -46,7 +46,7 @@ This article examines the evolutionary argument specifically—not the mechanism
 
 Three established quantum biological effects demonstrate that selection can propagate, refine, and maintain quantum-exploiting variants in warm, wet biological conditions:
 
-**Avian magnetoreception** uses quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—vastly longer than the femtosecond timescales Tegmark calculated for *microtubule superpositions of conformational states* (Tegmark, 2000), the specific structures Penrose-Hameroff theory requires. A 2025 Princeton computational study confirmed the electron transfer pathway spanning over 18 angstroms, showing how protein structure stabilises radical pairs for magnetic sensing (Luo et al., 2025). The selected protein geometry tracks the angstrom level at which quantum coherence is preserved.
+**[Avian magnetoreception](/concepts/radical-pair-magnetoreception/)** uses quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—vastly longer than the femtosecond timescales Tegmark calculated for *microtubule superpositions of conformational states* (Tegmark, 2000), the specific structures Penrose-Hameroff theory requires. A 2025 Princeton computational study confirmed the electron transfer pathway spanning over 18 angstroms, showing how protein structure stabilises radical pairs for magnetic sensing (Luo et al., 2025). The selected protein geometry tracks the angstrom level at which quantum coherence is preserved.
 
 **Enzyme catalysis** exploits quantum tunnelling to accelerate hydrogen transfer reactions. Selection has propagated active-site geometries that maximise tunnelling probability through precise control of donor-acceptor distances and vibrational coupling.
 

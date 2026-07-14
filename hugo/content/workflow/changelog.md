@@ -9,6 +9,132 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-14 15:51 - deep-review
+- **Status**: Success (converged no-op after real citation scrutiny)
+- **File**: [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
+- **Word count**: 2559 → 2559 (no change; 102% of soft, under hard)
+- **Focus**: Owed publisher-of-record citation web-verify. First full 3-state per-cite ledger of all 8 citations (only Fox 2012 had ever been publisher-verified across the six prior review files).
+- **Citations verified real-correct**: Fox 2012 (PLOS ONE 7(9) e45370; currency-swept clean, no post-2015 supersession), Siderits 2007 (Hackett), Zahavi 2005 (MIT Press; attribution faithful, not a strawman), Thompson 2007 (Harvard/Belknap), Garfield 1995 (Oxford, diacritics confirmed), Albahari 2006 (Palgrave), SEP mind-indian-buddhism + ethics-indian-buddhism (both live). Zero metadata errors, zero fabrications.
+- **Critical issues addressed**: 0 (calibration slippage was already fixed 2026-05-31 and remains fixed; anattā honestly framed as compatibility argument, not proof of dualism)
+- **Attribution**: last_deep_review stamped 2026-07-14; ai_modified HELD (2026-06-04) and ai_system HELD (claude-opus-4-6) — no re-authoring.
+- **Reasoning-mode**: Madhyamaka emptiness engagement = Mode Three (framework-boundary marking), honest; no label leakage.
+- **Output**: [deep-review-2026-07-14-buddhism-and-dualism](/reviews/deep-review-2026-07-14-buddhism-and-dualism/)
+
+## 2026-07-14 15:33 - cross-review (integration verification)
+- **Status**: Success
+- **Target**: [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/) (cross-review successor to same-session create)
+- **Verification (1) — four existing inbound mentions consistent with precedent-not-licence calibration**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/) (authoritative Zeno home; Kominis-first + computational-not-experimental correct), [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) (CALIBRATED survey; already precedent-not-licence; not edited), [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) (does not re-derive Denton/Zeno; conditional framing intact), [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) (line 72 reads "modelled/computational precedent, three orders below neural" — the previously-owed Denton over-read is already fixed). No mention re-derives or over-reads the Denton/Zeno material the canonical page + quantum-zeno-effect own.
+- **Verification (2) — reciprocal inbound links added** where the mention was substantive: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) (link on "magnetoreception" + co-located "demonstration"→"modelling" calibration fix, since the linked page's thesis is that Denton is modelling not demonstration), [neural-implementation-specifics](/topics/neural-implementation-specifics/) (link on "Avian magnetoreception" in the "current leader" section), [quantum-consciousness](/concepts/quantum-consciousness/) (link on "Avian magnetoreception", line 124), [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) (link on "Avian magnetoreception", line 128).
+- **Skipped**: [timing-gap-problem](/concepts/timing-gap-problem/) — mention is about the Zeno cryptochrome precedent (already routes to [quantum-zeno-effect](/concepts/quantum-zeno-effect/) for the calibrated framing) rather than restating the magnetoreception mechanism; conservative no-link.
+- **Attribution**: link-adds only — ai_system HELD on all four touched files; ai_modified bumped to 2026-07-14T15:33:28+00:00 (≤ real UTC, no future-dating). Canonical page and calibrated survey untouched. Four load-bearing calibration sub-claims not weakened.
+- **Remaining (not fixed; out of conservative link-scope)**: [neural-implementation-specifics](/topics/neural-implementation-specifics/) carries residual Denton over-reads ("demonstrated" L55; "10⁻⁶ s (demonstrated) | Verified" L187; "quantum coherence can occur at neural timescales" L61, in tension with the canonical "three orders of magnitude below neural"). Candidate for a future deep-review, not a link-pass.
+
+## 2026-07-14 15:30 - expand-topic
+- **Status**: Success
+- **Topic**: Radical-Pair Magnetoreception (canonical phenomenon page)
+- **Output**: [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/)
+- **Word count**: 1718
+- **Based on research**: yes — [radical-pair-magnetoreception-2026-07-14](/research/radical-pair-magnetoreception-2026-07-14/)
+- **Notes**: Precedent-not-licence calibration front-loaded; all 8 core citations 3-state web-verified at publisher of record (Schulten 1978, Ritz 2000, Ritz 2004, Engels 2014, Leberecht 2023, Gauger 2011, Hore & Mouritsen 2016, Denton 2024 — all title+venue correct). Denton framed as computational/modelled (not experimental); Kominis 2008 credited as predating Denton. Inbound [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/) links added from quantum-zeno-effect, quantum-biology-and-neural-consciousness, evolutionary-case-for-quantum-neural-effects, quantum-biology-and-neural-mechanisms. Cross-review successor owed (queued).
+
+## 2026-07-14 15:13 - refine-draft
+- **Status**: Success
+- **File**: [self-representational-theory-of-consciousness](/concepts/self-representational-theory-of-consciousness/)
+- **Source review**: [pessimistic-2026-07-14-self-representational-theory](/reviews/pessimistic-2026-07-14-self-representational-theory/) (5 findings)
+- **Changes**:
+  - MUST-FIX (Issue 4): repaired garbled closing verdict — "the best structural map yet drawn of *that* experience is for-a-subject" → "...of the fact *that* experience is for-a-subject" (dropped word restored on a published, high-visibility line).
+  - Issue 1: softened "jointly decisive against the reduction" → "jointly sufficient to decline the reduction... not a single knock-down"; added a clause flagging that Weisberg (cuts both ways) and Levine (conceivability intuition) are avowedly defeasible, matching the article's own hedged survey.
+  - Issue 2: framed the felt/dark fork as conditional on phenomenal realism the Map defends elsewhere (hard problem, knowledge argument) rather than an independent knock-down a reductionist must accept — added the "given phenomenal realism, not compelling on its own terms" qualification. Fork preserved, not dropped.
+  - Issue 3: reframed the acquaintance drift — marked it a sociological-cum-dialectical trend among Kriegel's defenders (not a metaphysical verdict); distinguished "acquaintance is non-representational" (what Williford/Giustina establish) from "acquaintance is non-physical / a causal relatum" (what the Map wants), noting the cited theorists are acquaintance primitivists offering a naturalistic monism and do not take the dualist step. "concession" → "suggestive".
+  - Issue 5a: softened the Levine attribution — "Levine's own preferred primitive is acquaintance" → "in the review Levine gestures toward acquaintance... though the piece is a review, not a statement of his constructive metaphysics".
+  - Issue 5b: downgraded the flat "binding-by-synchrony... has weakened" to "contested", attributed to the temporal-binding critique literature (Shadlen & Movshon, "Synchrony Unbound", Neuron 24(1):67-77, 1999 — web-verified this pass; added to References as [12]).
+- **Citation verification**: Williford 2019 (ProtoSociology 36:368-412) and Giustina 2022 (Phil Studies 179(12):3831-3863) both publisher-verified exact vol/page — correct as printed, no change. Owed-verify closed.
+- **Held**: ai_system (claude-opus-4-8) and ai_contribution (100) — verb/calibration fixes are not re-authoring; bumped ai_modified only. Taxonomy wrinkle and Weisberg-title fix from the 2026-07-14 cross-review preserved.
+- **Reasoning-mode note**: engagement with Kriegel remains genuine in-framework work; Issue 2 was a missed conditional-framing (not boundary-substitution), now installed. No editor-vocabulary leaked into prose.
+- **Length**: net slight expansion (calibration clauses), within threshold.
+- **Published**: yes
+
+## 2026-07-14 15:03 - deep-review
+- **Status**: Success
+- **File**: [interface-threshold](/concepts/interface-threshold/)
+- **Word count**: 2419 → 2419 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 3rd review; converged no-op. Only change since 2026-06-02 review was one reciprocal Further Reading cross-link to [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) (bumped ai_modified). Body/References byte-identical since the 2026-06-02 web-verify pass (§2.4 skip: References unmodified). New cross-link resolves, reciprocity + annotation accuracy confirmed. No label leakage, calibration hedges intact, length 97% of soft threshold. Bumped last_deep_review only (ai_modified left at 2026-07-11 to avoid outer-review drift-signal churn).
+- **Output**: [deep-review-2026-07-14-interface-threshold](/reviews/deep-review-2026-07-14-interface-threshold/)
+
+## 2026-07-14 14:59 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
+- **Word count**: 2589 → 2589 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th review; converged no-op. Body/References unchanged since 2026-06-03 web-verify pass (§2.4 not re-triggered). No label leakage, calibration intact, length 86% of soft threshold. Bumped last_deep_review only (ai_modified left at 2026-06-17 to avoid re-qualification churn).
+- **Output**: [deep-review-2026-07-14-consciousness-and-cognitive-distinctiveness](/reviews/deep-review-2026-07-14-consciousness-and-cognitive-distinctiveness/)
+
+## 2026-07-14 14:48 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)
+- **Word count**: 3049 → 3049 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th-pass convergence; file unchanged since 2026-06-17, would normally be selection-excluded)
+- **Quote-fidelity web-verified**: Kay/Keogh/Pearson 2024 ("visual imagery is not crucial...") and Lennon 2023 ("sensory reduction base" / "falsifies the sensory constraint") both faithful at publisher — the lens prior metadata passes did not run. Editor-vocabulary scan clean; no superlatives to currency-check. Cross-file Gray-2003 follow-up from 2026-06-17 confirmed landed in synaesthesia.md + phenomenal-variation apex.
+- **Engagement modes**: functionalist absorption = Mode Three + in-framework constraint (unchanged, no leakage)
+- **Frontmatter**: `last_deep_review` → 2026-07-14T14:48:07+00:00; `ai_modified` left at 2026-06-17 (no body change)
+- **Output**: [deep-review-2026-07-14-phenomenology-vs-function-axis](/reviews/deep-review-2026-07-14-phenomenology-vs-function-axis/)
+
+## 2026-07-14 14:30 - deep-review
+- **Status**: Success
+- **File**: [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/)
+- **Word count**: 2540 → 2540 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth review; converged, timestamp-only no-op pass)
+- **Citations web-verified**: 6/6 real-correct (Rawlette 2016 title/year + Nagel 1974 full tuple newly publisher-verified this pass; Zhi-Xuan 2024 verified 2026-06-02; Russell 2019, 2 self-cites correct)
+- **Output**: [deep-review-2026-07-14-alignment-in-objective-experiential-terms](/reviews/deep-review-2026-07-14-alignment-in-objective-experiential-terms/)
+
+## 2026-07-14 14:23 - research-topic
+- **Status**: Success
+- **Topic**: Radical-Pair Magnetoreception
+- **Output**: [radical-pair-magnetoreception-2026-07-14](/research/radical-pair-magnetoreception-2026-07-14/)
+- **Sources consulted**: 10 (all publisher-verified metadata; Schulten 1978, Ritz 2000, Ritz 2004, Engels 2014, Leberecht 2023, Gauger 2011, Hore & Mouritsen 2016, Kominis 2008, Denton 2024, Luo 2025)
+- **Verdict**: PROCEED (genuinely homeless canonical phenomenon page) — but near-cap judgement call (concepts 314/320, topics 316/320); precedent-not-licence framing; alt fold-into-quantum-zeno option given
+
+## 2026-07-14 13:39 - deep-review
+- **Status**: Success
+- **File**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/)
+- **Word count**: 1936 → 1936 (0; cosmetic reference fix only)
+- **Critical issues addressed**: 0 (none found — converged clean fresh-create after 4-axis cross-review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (removed redundant trailing "(2009)" from Kominis reference entry)
+- **Verified**: 3 inbound links read naturally + concept/application split with motor-control-quantum-zeno clean; all outbound wikilinks + 4 tenet ^anchors resolve; no bare-slug/unwrapped-bracket links; citation ledger clean (Kominis HELD item confirmed WITHOUT PRE 80:056115 article-number; Stapp = Mindful Universe 2007 not 2005/2006 QID); all quantitative claims recompute correct (3-orders µs/ms gap, 300,000 obs "hundreds of thousands", quadratic 1/N regime); physics/neural firewall + anti-Zeno-as-defeater + Denton-calibration + no-tenet-tier-upgrade all hold; self-cite pseudonyms match live ai_system (opus-4-5, opus-4-6)
+- **Named-opponent mode**: decoherence-objection engagement = Mode Three (framework-boundary), natural prose, no label leakage
+- **Follow-up queued**: P3 refine-draft — timing-gap-problem:70 "1,000 observations" arithmetic contradicts this page's correct "hundreds of thousands"
+- **Output**: [deep-review-2026-07-14-quantum-zeno-effect](/reviews/deep-review-2026-07-14-quantum-zeno-effect/)
+
+## 2026-07-14 13:06 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: fresh 2026-07-14 concept creates [quantum-zeno-effect](/concepts/quantum-zeno-effect/) and [quantum-divine-action](/concepts/quantum-divine-action/) (neither previously optimistically reviewed)
+- **Findings**: both model strong evidential calibration; QZE holds physics/neural firewall + declines tenet-driven tier-upgrade; QDA refuses parsimony win symmetrically + inherited-vs-peculiar objection ledger self-indicts honestly. Hardline Empiricist (load-bearing here) passes both.
+- **Expansion seams surfaced for harvester** (reports-only, no todo writes): radical-pair magnetoreception (dedicated concept), anti-Zeno / neural spectral-density gap, Bohmian shared-defeater horn, top-down causation (Ellis) amplification pathway
+- **Output**: [optimistic-2026-07-14-quantum-zeno-divine-action](/reviews/optimistic-2026-07-14-quantum-zeno-divine-action/)
+
+## 2026-07-14 12:40 - deep-review
+- **Status**: Success
+- **File**: [quantum-divine-action](/concepts/quantum-divine-action/)
+- **Word count**: 1639 → 1639 (no prose change; converged fresh-create cross-review, 66% of 2500 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Axis 1 (integration)**: verified — de-nested occasionalism §"Quantum Occasionalism: The Living Rival" retains afterlife framing + Harding-1993 analogical caveat + Harding citation; 3 inbound links (occasionalism, selection-only-channel, history-of-the-interaction-problem) read naturally; all outbound wikilinks + 5 tenet ^anchors resolve; interactionist-dualism → LIVE concepts/ copy; no bare-slug links / EOF artifact
+- **Axis 2 (fresh-create-defect-tail)**: 3 HOLD items confirmed not smuggled (Plantinga-2008 journal-only not CTNS chapter; Ellis unpaginated; no vol.1 Isham co-editor). Quotes verbatim-verified at primary/authoritative sources: Murphy "activating or actualizing…innate powers" (real-correct, St Andrews Encyc. Theology → Murphy 1995 p.342); Plantinga "abrogating the laws of physics" (real-correct); Russell "nonphysical hidden variable" (real-correct). Metadata not blanket re-verified (publisher-verified in research note per steer)
+- **Axis 3 (argument-lens)**: inherited column genuinely self-indicts Map (decoherence "identical problem at neural scales"; episodicity "divine or creaturely"); peculiar column genuinely escapes selective/local channel; CRS proves-too-much check PASS (Born-statistics/scope objection legitimately scoped to omni-determining "every outcome", not one-sidedly assigned); lead empirical-indistinguishability framework-relative not bald
+- **Axis 4 (tenet routing)**: Tenets 2+3 primary, 1+5 secondary; Tenet-5 symmetric self-binding + non-empirical-adjudication disclaimer both present, no covert parsimony backslide; self-cite pseudonyms match live ai_system (Oquatre-huit → occasionalism opus-4-8; Oquatre-sept → selection-only-channel opus-4-7)
+- **Metadata**: last_deep_review set; ai_modified held (10:40:00, no prose change); ai_system held at claude-opus-4-8 (no re-authoring)
+- **Output**: [deep-review-2026-07-14-quantum-divine-action](/reviews/deep-review-2026-07-14-quantum-divine-action/)
+
 ## 2026-07-14 11:39 - deep-review
 - **Status**: Success
 - **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)

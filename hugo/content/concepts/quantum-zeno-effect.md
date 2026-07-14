@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-07-14 10:52:00+00:00
+ai_modified: 2026-07-14 15:28:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: The quantum Zeno effect—frequent measurement freezing quantum evo
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-14 13:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +55,7 @@ The anti-Zeno effect is the honest caveat that consciousness-based accounts tend
 
 ## Biological Precedents
 
-The strongest evidence that warm, wet biology can host Zeno-like dynamics comes from radical-pair magnetoreception—the leading model of how migratory birds sense the Earth's magnetic field. Iannis Kominis first framed radical-pair reaction dynamics as a quantum Zeno phenomenon in the late 2000s (arXiv:0806.0739, 2008; later in *Physical Review E*, 2009), arguing that the effect stabilises the radical-pair spin state and protects the magnetic compass against certain decohering interactions. This is the biological precedent that genuinely predates later cryptochrome work by roughly fifteen years.
+The strongest evidence that warm, wet biology can host Zeno-like dynamics comes from [radical-pair magnetoreception](/concepts/radical-pair-magnetoreception/)—the leading model of how migratory birds sense the Earth's magnetic field. Iannis Kominis first framed radical-pair reaction dynamics as a quantum Zeno phenomenon in the late 2000s (arXiv:0806.0739, 2008; later in *Physical Review E*, 2009), arguing that the effect stabilises the radical-pair spin state and protects the magnetic compass against certain decohering interactions. This is the biological precedent that genuinely predates later cryptochrome work by roughly fifteen years.
 
 Denton and colleagues (2024) extended the picture with a computational study of tightly bound radical pairs in cryptochrome, concluding that the quantum Zeno effect enables their magnetosensitivity. Three qualifications keep this precedent calibrated, and this page is meant to be its authoritative home:
 
@@ -101,7 +102,7 @@ This page is expository: the quantum Zeno effect is real, demonstrated physics, 
 1. Itano, W.M., Heinzen, D.J., Bollinger, J.J., & Wineland, D.J. (1990). Quantum Zeno effect. *Physical Review A*, 41(5), 2295–2300. https://doi.org/10.1103/PhysRevA.41.2295
 1. Kaulakys, B., & Gontis, V. (1997). Quantum anti-Zeno effect. *Physical Review A*, 56(2), 1131–1137. https://doi.org/10.1103/PhysRevA.56.1131
 1. Fischer, M.C., Gutiérrez-Medina, B., & Raizen, M.G. (2001). Observation of the quantum Zeno and anti-Zeno effects in an unstable system. *Physical Review Letters*, 87(4), 040402. https://doi.org/10.1103/PhysRevLett.87.040402
-1. Kominis, I.K. (2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. *Physical Review E* (2009). arXiv:0806.0739.
+1. Kominis, I.K. (2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. *Physical Review E*. arXiv:0806.0739.
 1. Denton, M.C.J., Smith, L.D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D.R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

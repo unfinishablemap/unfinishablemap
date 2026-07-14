@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-12 23:22:00+00:00
+ai_modified: 2026-07-14 15:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -54,7 +54,7 @@ Max Tegmark's influential 2000 calculation estimated that [decoherence](/concept
 
 The assumption proved false. Nature had already solved the decoherence problem multiple times:
 
-**Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field, with radical pairs maintaining coherence for microseconds. A 2024 *Nature Communications* study showed the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—repeated observation stabilising quantum states—enables this magnetosensitivity (Denton et al., 2024; computational confirmation, Luo et al., 2025). This establishes that warm Zeno-type quantum effects *can* occur in a specific, specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
+**[Avian magnetoreception](/concepts/radical-pair-magnetoreception/)** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field, with radical pairs maintaining coherence for microseconds. A 2024 *Nature Communications* study showed the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—repeated observation stabilising quantum states—enables this magnetosensitivity (Denton et al., 2024; computational confirmation, Luo et al., 2025). This establishes that warm Zeno-type quantum effects *can* occur in a specific, specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
 
 **Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷ (confirmed by kinetic isotope effects). **Photosynthetic energy transfer** exploits quantum coherence (Fleming et al., 2007), though coherence times are shorter than once thought.
 
