@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T00:23:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-conservatism]]
+- **Word count**: 1589 → 1593 (+4; length-neutral, well under concepts 2500 soft)
+- **Critical issues addressed**: 1 (quote-fidelity: Huemer 2007 formulation restored dropped "degree of" inside the verbatim quote)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged after real scrutiny; integration chain already complete)
+- **Citations web-verified**: 7/7 real-correct at publisher of record (Huemer 2001 R&L; Huemer 2007 PPR 74(1):30–55; IEP/Huemer; Tucker 2013 OUP; Markie 2005 Phil Studies 126(3):347–373; Siegel 2012 Noûs 46(2):201–222; Siegel 2017 OUP)
+- **Integration verified**: all outbound wikilinks + both tenet anchors resolve; inbound links from phenomenal-authority + epistemology reciprocate; applied/general division of labour clean; no bare-slug links
+- **Output**: [[reviews/deep-review-2026-07-14-phenomenal-conservatism]]
+
 ## 2026-07-13T23:37:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenal Conservatism (Huemer's PC qua general epistemology)

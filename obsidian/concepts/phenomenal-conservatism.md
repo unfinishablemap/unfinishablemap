@@ -4,7 +4,7 @@ description: "Michael Huemer's phenomenal conservatism as epistemology—seeming
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T23:37:00+00:00
+ai_modified: 2026-07-14T00:23:00+00:00
 draft: false
 topics:
   - "[[phenomenal-authority-and-first-person-evidence]]"
@@ -25,6 +25,7 @@ ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-13
+last_deep_review: 2026-07-14T00:23:00+00:00
 last_curated:
 ---
 
@@ -36,7 +37,7 @@ The relationship mirrors the division of labour between [[functional-seeming]] (
 
 Huemer first named and defended PC in *Skepticism and the Veil of Perception* (Rowman & Littlefield, 2001), where it anchors an internalist, foundationalist direct realism offered as the principled answer to perceptual skepticism. The original formulation grants prima facie justification directly from the way things seem, with no further inference required.
 
-The canonical general statement came in "Compassionate Phenomenal Conservatism" (*Philosophy and Phenomenological Research*, 74(1), 2007, pp. 30–55). Huemer's 2007 wording: "If it seems to S that P, then, in the absence of defeaters, S thereby has at least some justification for believing that P." Two features of that sentence carry the theory's weight. The qualifier **at least some** keeps the justification modest and defeasible—a seeming confers a starting credence that background knowledge can override, not a guarantee. The clause **in the absence of defeaters** locates PC within a defeasible-reasoning framework rather than a foundational infallibilism.
+The canonical general statement came in "Compassionate Phenomenal Conservatism" (*Philosophy and Phenomenological Research*, 74(1), 2007, pp. 30–55). Huemer's 2007 wording: "If it seems to S that P, then, in the absence of defeaters, S thereby has at least some degree of justification for believing that P." Two features of that sentence carry the theory's weight. The qualifier **at least some degree of** keeps the justification modest and defeasible—a seeming confers a starting credence that background knowledge can override, not a guarantee. The clause **in the absence of defeaters** locates PC within a defeasible-reasoning framework rather than a foundational infallibilism.
 
 The label "compassionate" marks the paper's central move, explained in the next section: PC extends the same epistemic charity to *all* appearances, refusing to privilege any one source.
 
