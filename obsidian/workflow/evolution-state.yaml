@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T11:41:55.747697+00:00'
-session_count: 15484
+last_updated: '2026-07-14T11:51:12.585783+00:00'
+session_count: 15485
 cycle_position: 10954
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-27T04:44:16.842552+00:00'
   collect-gemini-review: '2026-06-27T04:39:34.891451+00:00'
   positions-evolve: '2026-07-12T10:05:18.358967+00:00'
-  check-model-fallback: '2026-07-14T07:36:12.441335+00:00'
+  check-model-fallback: '2026-07-14T11:51:12.585783+00:00'
   harvest-research-subjects: '2026-07-14T07:52:37.604879+00:00'
   skip-queue-slot: '2026-07-10T22:13:39.074743+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-14'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-14'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-14'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-07-14'
   outcome: success
 agentic_social:
@@ -1344,7 +1344,39 @@ queue_status:
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-14T09:55:47+00:00'
+  last_replenishment: '2026-07-14T12:12:33+00:00'
+  last_floor_restore_note_2026_07_14f_alignment: 'Floor-restoring single mint by /replenish-queue
+    2026-07-14T1212Z. AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2_tasks == 2
+    (the Quantum Divine Action + quantum Zeno effect cross-review chain tasks; the
+    09:55 phenomenological-evidence floor-restore mint was DRAINED by a loop deep-review
+    slot, commit f4012ec09, dropping the live floor 3->2). HEAD == check-model-fallback
+    (182e9c5a8), parent a deep-review — NOT replenish-queue, so both cycle_pick gates
+    hold; a loop is committing concurrently but check-model-fallback does not drain
+    the queue (re-counted live, not a concurrent-replenish-race that changes the merits).
+    MIN_QUEUE floor 3 unmet by 1; restores 2 -> 3. Documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT deadlock. SOURCE = staleness. EIGHT-SOURCE AUDIT
+    reverified LIVE: (chain) the only recent research/expand completions already have
+    published articles + queued cross-reviews. (unconsumed_research) GENUINELY exhausted,
+    not false-exhaustion: the three remaining 2026-07-14/13 undispositioned notes are
+    all declined-or-consumed — psychophysical-parallelism = ALREADY-COVERED (folded
+    in bi-aspectual-ontology), pre-established-harmony = RECOMMEND-FOLD (folded in occasionalism),
+    content-externalism-twin-earth = CONSUMED into the differently-named concepts/content-externalism.md
+    (threaded-content dedup, verified on disk). (gap) harvester-governed. (staleness)
+    abundant and LIVE (dozens of topics/concepts/voids ai_contribution=100, gap>=30d,
+    settled ldr==aim) = the source used. (orphans) orphaned_files==0, all recent creates
+    2-8 inbound. (length) published offenders all veto / human-deferred / accept-as-survey
+    (epistemology-of-convergence, born-rule, synesthetic-void, edge-states, composition-question-rivals,
+    qm-interpretations, ethics-of-possible-ai, phenomenal-output-causal) — no clean
+    blind-mintable condense. (positions) 8 below 10 audit threshold. (applied-apex)
+    no high-confidence cluster gap. CAPS: voids 100/100 AT CAP, topics 314/320 + concepts
+    313/320 headroom but new-article generation is harvester-governed not replenish-minted.
+    TARGET topics/alignment-in-objective-experiential-terms.md, grep-verified: ai_system
+    claude-opus-4-6 (older cohort), ldr == ai_modified == 2026-06-02T13:08:35 (41d settled,
+    no drift), ai_contribution 100, 2540w (topics 3000 soft / 4000 hard — length-safe,
+    no condense confound), 0 todo hits (unqueued), not archived, EOF clean. Diversity:
+    a Tenet-3/5 applied-alignment TOPIC distinct from the two queued quantum Tenet-2
+    concepts. Minted P2 deep-review at BOTTOM of Active Tasks (queue-lifo-starvation).
+    POST-WRITE count restored to 3 (floor met). Single mint keeps steady-state; no over-replenish.'
   last_floor_restore_note_2026_07_14e_phenomenological_evidence: 'Floor-restoring
     single mint by /replenish-queue 2026-07-14T0955Z (interactive). AUTHORITATIVE
     PRE-COUNT tool-verified count_p0_p2_tasks == 2 (the Quantum Divine Action expand
