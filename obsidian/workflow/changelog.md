@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 17:15 - deep-review
+- **Status**: Success
+- **File**: [[voids/sleep-consciousness-void]]
+- **Word count**: 2797 → 2810 (+13; citation-fidelity corrections)
+- **Scope**: Orthogonal-lens pass. Task premise ("reviews predate web-verify") was FALSE — 06-05 review already ran a thorough per-cite publisher verify. References block git-confirmed UNCHANGED since 06-05, so publisher metadata verify NOT re-run (would be redundant no-op). Spent pass on verbatim quote-fidelity, calibration, and 2020s currency.
+- **Critical issues addressed**: 3 (all quote-fidelity). (1) "No Scenery/Void" verbatim quote cited to wrong work — it is the 2021 pilot's label, not the 2022 study's (whose own term is "nothingness phase"); re-attributed. (2) restored silently-elided "the presence of" inside the Alcaraz-Sánchez et al. 2022 characteristics quote. (3) de-quoted the unattributed/unverifiable "illogicalities..." string.
+- **Verified verbatim (no change)**: Gelernter, Locke, Budson & Paller "below the surface", Russell "about a hundred". Currency: no superlatives; Gamma & Metzinger "some 1,400 meditators" = n=1,403 usable, accurate. Calibration: modal register intact, upgrade explicitly declined — clean.
+- **Held**: ai_system claude-opus-4-6 (quote-fidelity fixes, not re-authorship). Bumped ai_modified + last_deep_review (real fixes landed).
+- **Output**: [[reviews/deep-review-2026-07-14-sleep-consciousness-void]]
+
 ## 2026-07-14 17:11 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/quantum-zeno-effect]]
