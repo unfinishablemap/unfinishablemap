@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T09:45:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/active-reboot]]
+- **Word count**: 2701 → 2768 (+67)
+- **Critical issues addressed**: 3 (all citation metadata, publisher-verified)
+  - Wrong-author: eLife 10 e59525 "Recovery of consciousness and cognition after general anesthesia" is Mashour et al. 2021, NOT "Bhatt, Bowen, Rossiter" (same fabricated-Bhatt-onto-Mashour pattern 06-02 caught for the 2024 Neuron paper, missed here).
+  - Wrong year/volume/pages: Mashour/Pal/Brown TINS "Prefrontal cortex as a key node in arousal circuitry" is 2022, 45(10), 722–732 — not 2021, 44(11), 909–921.
+  - Misattributed claim: "40% UWS misdiagnosis rate" is Schnakers et al. 2009 (BMC Neurology 9:35), not Cruse 2011 (covert-awareness cohort). Split cite; added Schnakers as ref 18. Also fixed Cruse issue 9809→9805.
+- **Enhancements**: resolved 2 orphaned refs (Mashour 2024, Montupil 2023) via "reviewed in" parenthetical at §Anaesthesia as the Worked Exhibit.
+- **Verified real-correct (no change)**: Hu 2023 (load-bearing exhibit; "active reboot" attribution to authors web-confirmed TRUE), Redinbaugh 2020, Friedman 2010, Onoda/Breyton/Van Maldegem 2025, Montupil 2023, Sepúlveda 2019.
+- **Calibration**: preserved (two-tier evidential status, defeater-removal framing, symmetry-branch falsifiability untouched). No slippage.
+- **ai_system**: held claude-opus-4-7 (citation fixes ≠ re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-14-active-reboot]]
+
 ## 2026-07-14T08:53:20+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Quantum Zeno Effect
