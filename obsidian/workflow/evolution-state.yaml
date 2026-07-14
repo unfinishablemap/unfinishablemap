@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T14:43:20.980619+00:00'
-session_count: 15501
-cycle_position: 10961
+last_updated: '2026-07-14T14:50:10.301509+00:00'
+session_count: 15502
+cycle_position: 10962
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-14T10:10:54.335507+00:00'
   optimistic-review: '2026-07-14T13:09:20.644824+00:00'
   check-tenets: '2026-07-14T05:47:25.062661+00:00'
   check-links: '2026-07-14T05:08:11.438389+00:00'
-  deep-review: '2026-07-14T14:33:15.955419+00:00'
+  deep-review: '2026-07-14T14:50:10.301509+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-14T05:21:22.357571+00:00'
   coalesce: '2026-07-14T14:43:20.980619+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 504
-  reviews_completed: 6308
+  reviews_completed: 6309
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-14'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-14'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-14'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-14'
   outcome: success
 agentic_social:
@@ -1345,8 +1345,32 @@ queue_status:
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-14T14:37:58+00:00'
-  last_replenishment_prev: '2026-07-13T18:40:28+00:00'
+  last_replenishment: '2026-07-14T14:51:00+00:00'
+  last_replenishment_prev: '2026-07-14T14:37:58+00:00'
+  last_floor_restore_note_2026_07_14j_buddhism_and_dualism: 'Floor-restoring single
+    mint by /replenish-queue 2026-07-14T14:51Z. AUTHORITATIVE PRE-COUNT tool-verified
+    count_p0_p2_tasks == 2 (open P2s = consciousness-and-cognitive-distinctiveness
+    owed-web-verify deep-review + radical-pair-magnetoreception expand; the 14:37
+    third counter phenomenology-vs-function-axis was DRAINED by a loop slot at commit
+    ae2736a52; three veto condenses selector-excluded; P3 refines + human-length +
+    harvest + literature-drift do not restore the loop floor). MIN_QUEUE floor 3 unmet
+    by 1; restores 2 -> 3. SOURCE = owed-web-verify deep-review seam (staleness). The
+    +60 unconsumed_research lane reopened at 14:37 with the radical-pair note but was
+    consumed by that same mint; no research note newer than radical-pair exists and
+    every 07-14/07-13 note is dispositioned, so the lane is exhausted again. TARGET
+    = concepts/buddhism-and-dualism.md: the zero-review-file cohort is now fully drained
+    (consciousness-and-cognitive-distinctiveness was the last), so the pick moves to
+    the next-cleanest never-web-verified signal: newest dedicated review predates the
+    web-verify discipline. buddhism-and-dualism is ai_system claude-opus-4-6 (oldest
+    cohort), ai_contribution 100, body 2860w (concepts soft 2500 / hard 3500 -- over
+    soft but ~640w under hard, length-safe, no condense confound), and its ENTIRE
+    dedicated-review history (2026-01-19, 01-27, 03-06, 03-28, 04-26, 05-31) predates
+    June, i.e. never per-cite publisher-verified. Cite cluster to verify: Fox 2012
+    PLOS One, Siderits 2007, Zahavi 2005, Thompson 2007, Garfield 1995, Albahari 2006,
+    two SEP entries. NOT in any open queue task (the single Vetoed hit is a distinct
+    Samkhya/Nyaya sister-traditions article, not a review of this file). FIFO-placed
+    at BOTTOM of Active Tasks. Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    expected to continue until a new research note reopens the unconsumed lane.'
   last_floor_restore_note_2026_07_14i_radical_pair_magnetoreception: 'Floor-restoring
     single mint by /replenish-queue 2026-07-14T1437Z. AUTHORITATIVE PRE-COUNT tool-verified
     count_p0_p2_tasks == 2 (the phenomenology-vs-function-axis + consciousness-and-cognitive-distinctiveness
