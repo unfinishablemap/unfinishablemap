@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-13 17:25:00+00:00
+ai_modified: 2026-07-13 21:25:38+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -176,6 +176,7 @@ The hard problem remains hard.
 ## Further Reading
 
 - [first-order-representationalism](/concepts/first-order-representationalism/) — The contrasting representationalist camp: phenomenal character is first-order world-directed content, needing no higher-order state
+- [self-representational-theory-of-consciousness](/concepts/self-representational-theory-of-consciousness/) — The same-order sibling: one state represents both the world and itself, collapsing the two-state structure to dodge the misrepresentation problem
 - [recurrent-processing-theory](/concepts/recurrent-processing-theory/) — A first-order NCC rival: recurrent processing of sensory content suffices, with no meta-representation required
 - [metacognition](/concepts/metacognition/) — The metarepresentational distinction HOT may conflate
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle HOT doesn't solve

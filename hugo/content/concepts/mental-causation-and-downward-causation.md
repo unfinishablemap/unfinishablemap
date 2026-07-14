@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-07-07 15:46:40+00:00
+ai_modified: 2026-07-13 22:26:00+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -81,7 +81,7 @@ Jaegwon Kim's exclusion argument (*Physicalism, or Something Near Enough*, 2005)
 
 These premises are jointly inconsistent. If physical causes are sufficient (premise 1), and mental causes aren't identical to physical causes (premise 4), then mental causation either overdetermines effects (violating premise 3) or doesn't occur at all (denying premise 2).
 
-Kim concludes that mental properties—and all higher-level properties—are causally excluded by their physical realisers: either consciousness causes nothing ([epiphenomenalism](/concepts/epiphenomenalism/)) or it just *is* its physical realiser ([reductionism](/concepts/reductionism/)). See [reductionism](/concepts/reductionism/#kims-challenge) for the fuller argument.
+Kim concludes that mental properties—and all higher-level properties—are causally excluded by their physical realisers: either consciousness causes nothing ([epiphenomenalism](/concepts/epiphenomenalism/)) or it just *is* its physical realiser ([reductionism](/concepts/reductionism/)). See [reductionism](/concepts/reductionism/#kims-challenge) for the fuller argument, and [causal-exclusion-argument](/concepts/causal-exclusion-argument/) for the canonical statement of the inconsistent set, the supervenience machinery, and the full responses literature (Bennett, List & Menzies, Block's drainage worry).
 
 ### The Drainage and Supervenience Problems
 

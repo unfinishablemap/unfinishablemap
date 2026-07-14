@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-12 15:29:33+00:00
+ai_modified: 2026-07-13 23:24:50+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: A human-AI examination of Wilder Penfield's clinical case for inter
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-13 23:24:50+00:00
 modified: *id001
 related_articles: []
 title: Wilder Penfield's Interactionist Dualism
@@ -54,7 +55,7 @@ The pairing with Eccles is especially apt, and the two are complementary. Eccles
 
 ## The physicalist reply
 
-The clinical facts Penfield reported are not seriously contested; their interpretation is. The strongest challenge to his dualist reading comes from the comparator, or efference-copy, model of the sense of agency developed in cognitive neuroscience (Blakemore, Wolpert, and Frith and collaborators around 2000–2002; refined by Synofzik, Vosgerau, and Newen in 2008). On this model, a voluntary motor command dispatches an *efference copy* to a forward model that predicts the movement's sensory consequences; when prediction matches the actual sensory feedback, the system generates the feeling of ownership.
+The clinical facts Penfield reported are not seriously contested; their interpretation is. The strongest challenge to his dualist reading comes from the comparator, or efference-copy, model of the sense of agency developed in cognitive neuroscience (Blakemore, Wolpert, and Frith and collaborators around 2000–2002; extended, and in part challenged, by Synofzik, Vosgerau, and Newen's multifactorial two-step account in 2008). On this model, a voluntary motor command dispatches an *efference copy* to a forward model that predicts the movement's sensory consequences; when prediction matches the actual sensory feedback, the system generates the sense of agency—the feeling that the movement is one's own doing.
 
 This account handles Penfield's headline datum directly and on purely physical terms. An electrode-evoked movement bypasses the normal motor-command pathway, so no efference copy is generated, so no prediction is available to match the feedback—and the comparator correctly flags the movement as not-self. The disowned evoked movement is exactly what a physical prediction-based agency system should produce. The negative observation is similarly absorbable: that no single stimulation site yields a "decision" is consistent with the will being a *distributed, prediction-dependent process* rather than a non-physical element—there would be no point-stimulable will-site even if agency were wholly physical.
 

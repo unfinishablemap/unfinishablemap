@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-13 20:41:48+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: When does clinical and neurological evidence bear on metaphysical q
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-07-13 20:41:48+00:00
 modified: *id001
 related_articles:
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
@@ -46,7 +46,7 @@ Consciousness research borrows clinical methodology but asks a fundamentally dif
 
 The gap has three components:
 
-**Underdetermination.** Clinical findings in consciousness research are typically compatible with both dualist and physicalist interpretations. Schwartz's OCD PET data — caudate metabolic normalisation after cognitive-behavioural intervention — is consistent with genuine [mental causation](/concepts/mental-causation-and-downward-causation/) (a conscious decision reshapes the brain) and with Hebbian learning (changed behaviour changes neural firing patterns through standard [synaptic plasticity](/concepts/neuroplasticity/)). The data alone cannot adjudicate. This underdetermination is not a flaw in the studies but a structural feature of the domain: any third-person measurement of a system that may include irreducible first-person aspects will be interpretable from within a framework that denies those aspects.
+**Underdetermination.** Clinical findings in consciousness research are typically compatible with both dualist and physicalist interpretations. Schwartz's OCD PET data — caudate metabolic normalisation after cognitive-behavioural intervention — is consistent with genuine [mental causation](/concepts/mental-causation-and-downward-causation/) (a conscious decision reshapes the brain — the reading Schwartz, Stapp & Beauregard (2005) formalise within a quantum mind–brain model) and with Hebbian learning (changed behaviour changes neural firing patterns through standard [synaptic plasticity](/concepts/neuroplasticity/)). The data alone cannot adjudicate. This underdetermination is not a flaw in the studies but a structural feature of the domain: any third-person measurement of a system that may include irreducible first-person aspects will be interpretable from within a framework that denies those aspects.
 
 **The missing comparator.** In drug trials, placebo controls isolate the active ingredient. In consciousness research, there is no "consciousness placebo" — no way to run a clinical intervention with all the same physical components minus the conscious experience. Every human participant is conscious during therapy. This makes it impossible to construct the control condition that would directly test whether consciousness contributes to the outcome.
 
@@ -66,7 +66,7 @@ The corrective is straightforward: calibrate philosophical weight to replication
 
 ### The Active Control Problem
 
-Many consciousness-relevant studies compare intervention against waitlist or no-treatment controls. Van Dam et al. (2018) documented that only approximately 1% of mindfulness studies compare against active treatments. Without active controls, observed effects may reflect non-specific factors — social contact, expectation, structured activity — rather than anything specific to the consciousness-relevant intervention.
+Many consciousness-relevant studies compare intervention against waitlist or no-treatment controls. Van Dam et al. (2018), applying the NIH stage model, documented that only approximately 9% of mindfulness studies reach the stage of testing efficacy against an active control (and only 1% have been tested outside research settings). Without active controls, observed effects may reflect non-specific factors — social contact, expectation, structured activity — rather than anything specific to the consciousness-relevant intervention.
 
 The JAMA meta-analysis by Goyal et al. (2014) is instructive: meditation shows moderate efficacy for anxiety and depression, but no superiority over exercise, CBT, or other active treatments. This does not mean meditation lacks therapeutic value, but it means the evidence cannot support the stronger claim that meditation works *because consciousness reshapes the brain* — the active controls achieve comparable results through presumably different mechanisms.
 

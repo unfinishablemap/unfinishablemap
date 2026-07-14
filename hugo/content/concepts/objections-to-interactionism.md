@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-12 10:31:57+00:00
+ai_modified: 2026-07-13 22:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -140,7 +140,7 @@ Epiphenomenalists respond that consciousness might be a "spandrel"—a by-produc
 
 ### The Objection
 
-Kim's exclusion argument: mental properties [supervene](/concepts/supervenience/) on physical properties. If physical property P is sufficient for effect E, mental property M seems causally redundant—P "screens off" M. Therefore, M either is identical to P (reductionism) or causes nothing (epiphenomenalism).
+Kim's exclusion argument: mental properties [supervene](/concepts/supervenience/) on physical properties. If physical property P is sufficient for effect E, mental property M seems causally redundant—P "screens off" M. Therefore, M either is identical to P (reductionism) or causes nothing (epiphenomenalism). The [canonical statement](/concepts/causal-exclusion-argument/) lays out the full inconsistent set and the mainstream responses; the survey below gives the Map's responses in brief.
 
 ### The Drainage Problem
 

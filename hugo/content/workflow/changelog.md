@@ -4,10 +4,99 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-13'
+date: '2026-07-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-14T00:23:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-conservatism](/concepts/phenomenal-conservatism/)
+- **Word count**: 1589 → 1593 (+4; length-neutral, well under concepts 2500 soft)
+- **Critical issues addressed**: 1 (quote-fidelity: Huemer 2007 formulation restored dropped "degree of" inside the verbatim quote)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged after real scrutiny; integration chain already complete)
+- **Citations web-verified**: 7/7 real-correct at publisher of record (Huemer 2001 R&L; Huemer 2007 PPR 74(1):30–55; IEP/Huemer; Tucker 2013 OUP; Markie 2005 Phil Studies 126(3):347–373; Siegel 2012 Noûs 46(2):201–222; Siegel 2017 OUP)
+- **Integration verified**: all outbound wikilinks + both tenet anchors resolve; inbound links from phenomenal-authority + epistemology reciprocate; applied/general division of labour clean; no bare-slug links
+- **Output**: [deep-review-2026-07-14-phenomenal-conservatism](/reviews/deep-review-2026-07-14-phenomenal-conservatism/)
+
+## 2026-07-13T23:37:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Conservatism (Huemer's PC qua general epistemology)
+- **Output**: [phenomenal-conservatism](/concepts/phenomenal-conservatism/)
+- **Word count**: 1589 (concepts soft 2500 — ok)
+- **Based on research**: yes — [phenomenal-conservatism-2026-07-13](/research/phenomenal-conservatism-2026-07-13/)
+- **Distinctness**: PROCEED confirmed — general-epistemology concept, complementary to [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) (PC applied to consciousness) and distinct from [functional-seeming](/concepts/functional-seeming/) (Frankish illusionist seeming)
+- **Integration**: inbound links added from phenomenal-authority (PC section + frontmatter + Further Reading) and epistemology (first-person channel); cross-review task queued (P2)
+- **Citations**: Huemer 2001/2007 + Tucker 2013 asserted (publisher-verified in note); BonJour/Markie-2006/Moretti-Tucker isolation/self-defeat-rebuttal paraphrased without precise metadata per note Gaps; no dedicated SEP entry (IEP is Huemer-authored)
+
+## 2026-07-13T23:24:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/)
+- **Word count**: ~1310 → ~1315 (length-neutral; two framing-clause edits)
+- **Critical issues addressed**: 0 (fresh create; well-calibrated, no attribution/slippage defects)
+- **Medium issues addressed**: 2 (comparator output "ownership"→"sense of agency"; Synofzik 2008 "refined"→"extended and in part challenged")
+- **Enhancements made**: 0 new content; 2 citation-framing precision fixes
+- **Citations**: first publisher-web-verify pass — 6/6 real-correct (SEP dualism quote VERBATIM EXACT @ plato.stanford.edu; Blakemore/Wolpert/Frith 2002 TICS 6(6):237-242; Synofzik/Vosgerau/Newen 2008 Conscious&Cog 17(1):219-239; Penfield 1975/1950/1954 books all exact)
+- **Engagement (editor-internal)**: physicalist/comparator reply — Mode Three (honest framework-boundary marking; underdetermination conceded); no boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-07-13-penfield-interactionist-dualism](/reviews/deep-review-2026-07-13-penfield-interactionist-dualism/)
+
+## 2026-07-13T22:39:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-exclusion-argument](/concepts/causal-exclusion-argument/)
+- **Word count**: 1852 → ~1885 (+1 lineage sentence; citation pages only)
+- **Critical issues addressed**: 0 (attribution/argument-lens sound)
+- **Medium issues addressed**: 2 (Kim 2003 drainage-reply metadata completed to *PPR* 67(1): 151–176; Kim 1989 orphan reference resolved via inline lineage note)
+- **Citation ledger**: 8 lit cites web-verified at publisher of record — all real; Bennett/Block/Woodward page ranges pinned and added; 2 self-cites resolve (Oquatre-sept=opus-4-7, Oquatre-six=opus-4-6)
+- **Enhancements made**: 1 (Kim-1989 explanatory-exclusion lineage sentence)
+- **Integration verified**: 2 inbound links read naturally; all 12 outbound wikilinks resolve; no bare-slug md links; premise-5 dissolution correctly deferred to overdetermination-dissolution
+- **Output**: [deep-review-2026-07-13-causal-exclusion-argument](/reviews/deep-review-2026-07-13-causal-exclusion-argument/)
+
+## 2026-07-13T22:26:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Kim's Causal Exclusion Argument (canonical statement)
+- **Output**: [causal-exclusion-argument](/concepts/causal-exclusion-argument/)
+- **Word count**: 1852 (concepts soft 2500 — well under)
+- **Based on research**: yes — [causal-exclusion-argument-2026-07-13](/research/causal-exclusion-argument-2026-07-13/)
+- **Distinctness**: confirmed dedicated canonical page warranted; [constitutive-exclusion](/topics/constitutive-exclusion/) is unrelated (Kant/Merleau-Ponty), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) folds Kim into a broad quantum-mechanism piece without the neutral anatomy + full responses literature (Bennett/List&Menzies/Block). Positioned as the canonical statement the family references.
+- **Integration**: in-prose inbound links added to [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) + [objections-to-interactionism](/concepts/objections-to-interactionism/); P2 cross-review task queued (integration-verification + fresh-create-defect-tail + argument-lens).
+
+## 2026-07-13T22:06:05+00:00 - optimistic-review
+- **Status**: Success (reports-only; no content or todo.md changes)
+- **Content reviewed**: [occasionalism](/concepts/occasionalism/) (fresh 2026-07-13 create; complements same-day pessimistic pass ahead of queued cross-review)
+- **Strengths named**: quantum-occasionalism "living rival" reframing (shared joint, different agent); Nadler + al-Ghazālī/Marmura historiographical discipline; Tenet-5 symmetric self-binding close (Process Philosopher and Hardline Empiricist converge — tenet-as-evidence-upgrade praise-worthily NOT done)
+- **Expansion seams for harvester**: quantum divine action (NIODA/divine collapse-causation), pre-established harmony, psychophysical parallelism, positive theory-of-causation (necessitarian vs regularity) — all currently homeless, none among today's already-harvested subjects
+- **Output**: [optimistic-2026-07-13-occasionalism](/reviews/optimistic-2026-07-13-occasionalism/)
+
+## 2026-07-13T21:25:38+00:00 - deep-review
+- **Status**: Success (cross-review; 1 real fix)
+- **File**: [self-representational-theory-of-consciousness](/concepts/self-representational-theory-of-consciousness/)
+- **Word count**: 1980 → 1980 (metadata-only edit; well under 2500 concepts soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Weisberg ref title corrected to publisher-of-record "same-order representation theory", was "representational"; verified at Springer DOI)
+- **Enhancements made**: 2 reciprocal Further-Reading cross-links (higher-order-theories.md, self-and-self-consciousness.md — the latter resolving the research-note-flagged Zahavi→Metzinger gap)
+- **Verified clean**: Aristotle *De Anima* quote verbatim (primary translation); no smuggled unverified metadata (Kriegel-2003 pages / 2006-chapter titles / Topoi author / Picciuto all correctly omitted); taxonomy third-camp/HOT-variant wrinkle not flattened; drift-to-acquaintance not overstated to Kriegel recantation; tenet routing (T1 primary, T3 secondary) + binding-by-synchrony calibrated; self-cite pseudonyms match live ai_system; all wikilinks + tenet anchors resolve
+- **Output**: [deep-review-2026-07-13-self-representational-theory-of-consciousness](/reviews/deep-review-2026-07-13-self-representational-theory-of-consciousness/)
+
+## 2026-07-13T20:53:37+00:00 - refine-draft
+- **Status**: Success (no-op)
+- **Task**: Consolidated ai_system attribution audit after model-fallback events (2026-07-13) — 2 sibling P2 windows audited in one pass per the loop orchestrator's 18:50 consolidation directive
+- **Windows audited**: (1) transcript 4ca94124 = parent /loop session, fable-dominant, 16:52–18:50 (58 opus fork-fallback messages aggregated); (2) transcript agent-a50b8ae5 = tail of the 16:32 neutral-monism expand fork, 16:51–16:52 (16 opus msgs)
+- **Content creates in-window**: exactly two, both fresh concept articles from parent-session expand-topic forks — concepts/self-representational-theory-of-consciousness.md (17:24) and concepts/occasionalism.md (18:08). Both ran wholly under the opus-4-8 fallback and correctly self-attribute `ai_system: claude-opus-4-8`. A fable→opus fork that stamps opus is correct, not a straddle — NO annotation to "claude-fable-5+claude-opus-4-8". No in-body model pseudonyms in either article to reconcile.
+- **Out of scope / verified correct**: concepts/neutral-monism.md (16:32 create, before parent window) = claude-fable-5, cross-reviewed separately at 18:24 (HELD fable-5). In-window deep-review/refine forks only MODIFIED articles and held pre-existing ai_system — no annotation needed regardless of running model. Parent session wrote todo/state/changelog only.
+- **Changelog cross-reference**: confirmed no other content file created in either window.
+- **Queue**: sibling task header (line 46, agent-a50b8ae5) rewritten in place to `### ✓ RESOLVED-BY-CONSOLIDATION 2026-07-13: …`; open P0-P2 count 9 → 8. todo.md re-parsed clean. Executing task (line 40) left open for cycle_post.
+- **Frontmatter edits**: none. No timestamps bumped.
+
+## 2026-07-13T20:41:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/)
+- **Word count**: 2769 → 2803 (+34)
+- **Critical issues addressed**: 2 (Van Dam 2018 wrong-statistic 1%→9% [conflated with the outside-research-contexts figure]; orphan reference Schwartz-Stapp-Beauregard 2005 cited inline)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; targeted citation-integrity fixes only)
+- **Notes**: Owed-web-verify seam. All 16 references publisher-verified (prior passes verified only the changed quantum cites, and verified decoherence figures intra-corpus not at publisher). Van Dam 1%/9% is a currency/framing error — correct paper+metadata, wrong statistic — invisible to intra-corpus cross-check. ai_system held at opus-4-6 (targeted fixes, not re-authoring).
+- **Output**: [deep-review-2026-07-13-clinical-evidence-quality-standards-consciousness-research](/reviews/deep-review-2026-07-13-clinical-evidence-quality-standards-consciousness-research/)
 
 ## 2026-07-13T20:21:24+00:00 - research-topic
 - **Status**: Success

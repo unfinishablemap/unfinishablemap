@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-13 17:24:00+00:00
+ai_modified: 2026-07-13 21:25:38+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: 'Kriegel''s same-order theory holds a state is conscious when it re
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-13 21:25:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +112,7 @@ The Map's verdict: self-representationalism is the best structural map yet drawn
 2. Kriegel, U., & Williford, K. (Eds.). (2006). *Self-Representational Approaches to Consciousness*. MIT Press.
 3. Gennaro, R. J. (2012). *The Consciousness Paradox: Consciousness, Concepts, and Higher-Order Thoughts*. MIT Press.
 4. Levine, J. (2010). Review of *Subjective Consciousness: A Self-Representational Theory*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/subjective-consciousness-a-self-representational-theory/
-5. Weisberg, J. (2008). Same old, same old: The same-order representational theory of consciousness and the division of phenomenal labor. *Synthese*, 160(2), 161-181.
+5. Weisberg, J. (2008). Same old, same old: The same-order representation theory of consciousness and the division of phenomenal labor. *Synthese*, 160(2), 161-181.
 6. Williford, K. (2019). Self-acquaintance and three regress arguments. *ProtoSociology*, 36, 368-412.
 7. Giustina, A. (2022). An acquaintance alternative to self-representationalism. *Philosophical Studies*, 179(12), 3831-3863.
 8. Zahavi, D., & Kriegel, U. (2015). For-me-ness: What it is and what it is not. In D. Dahlstrom, A. Elpidorou, & W. Hopp (Eds.), *Philosophy of Mind and Phenomenology: Conceptual and Empirical Approaches* (pp. 36-53). Routledge.
