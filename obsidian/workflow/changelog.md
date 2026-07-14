@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 19:11 - deep-review
+- **Status**: Success (converged no-op after real web-verify)
+- **File**: [[concepts/inventory-blindness]]
+- **Word count**: 1513 → 1513 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Genuinely-owed §2.4 pass — prior 4 reviews (03-22/03-23/04-28/06-01) never ran publisher-of-record verification (staleness/coherence only). Full 3-state ledger at publishers: McGinn 1989 (Mind 98(391):349-366, DOI 10.1093/mind/XCVIII.391.349) — real-correct; Stanford 2006 (Exceeding Our Grasp, OUP, ISBN 9780195174083) — real-correct; Kruger & Dunning 1999 (JPSP 77(6):1121-1134) — real-correct. No fabrications, no metadata errors, no superseded superlatives. Quote-fidelity: no external verbatim quotes (all quoted strings are article's own paraphrases). Calibration clean (defeater-removal framing, not evidence-upgrade; Tenet-5 cognitive-limit exhibit not dualism proof). Stamped last_deep_review only; ai_modified NOT bumped (zero content change); ai_system held claude-opus-4-6.
+- **Output**: [[reviews/deep-review-2026-07-14-inventory-blindness]]
+
 ## 2026-07-14 18:49 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[topics/phenomenology-of-anticipation]]
