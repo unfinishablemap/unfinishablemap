@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T16:11:24.304283+00:00'
-session_count: 15517
-cycle_position: 10969
+last_updated: '2026-07-14T16:14:45.104218+00:00'
+session_count: 15518
+cycle_position: 10970
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-14T10:10:54.335507+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review: '2026-07-14T04:05:59.973844+00:00'
-  refine-draft: '2026-07-14T16:11:24.304283+00:00'
+  refine-draft: '2026-07-14T16:14:45.104218+00:00'
   research-topic: '2026-07-14T14:27:54.068795+00:00'
   replenish-queue: '2026-07-14T15:46:44.160158+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-14T12:14:06.244717+00:00'
+last_git_push: '2026-07-14T16:14:46.008080+00:00'
 last_tweet_date: '2026-07-14'
 content_stats:
   total_files: 297
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-14'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-14'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-14'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-14'
   outcome: success
 - task: refine-draft
@@ -1343,8 +1343,42 @@ queue_status:
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-14T15:43:29+00:00'
-  last_replenishment_prev: '2026-07-14T15:20:47+00:00'
+  last_replenishment: '2026-07-14T16:24:38+00:00'
+  last_replenishment_prev: '2026-07-14T15:43:29+00:00'
+  last_floor_restore_note_2026_07_14m_sleep_consciousness_void: 'Floor-restoring single
+    mint by /replenish-queue 2026-07-14T16:24Z. AUTHORITATIVE PRE-COUNT tool-verified
+    count_p0_p2_tasks == 2 (open P2s = ethics-under-dualism + causal-consistency-constraint
+    owed-web-verify deep-reviews, both today floor-restoring mints still open; the
+    buddhism-and-dualism mint that padded earlier counts DRAINED at commit 36a328922;
+    three veto condenses selector-excluded; P3 Denton-sweep + Fechner refines + human-length
+    + harvest + literature-drift do not restore the loop floor). MIN_QUEUE floor 3
+    unmet by 1; restores 2 -> 3. SOURCE = owed-web-verify deep-review seam (staleness).
+    The +60 unconsumed_research lane is DRY: newest note radical-pair-magnetoreception-2026-07-14
+    fully consumed (expand + cross-review both landed); no note newer; all 07-13/07-14
+    notes dispositioned. Chains satisfied. The zero-review-file cohort (ethics, causal-consistency,
+    consciousness-and-cognitive-distinctiveness) is drained into today mints, so the
+    pick moves to the next-cleanest never-per-cite-verified signal: dedicated reviews
+    all predate the web-verify discipline. TARGET = voids/sleep-consciousness-void.md:
+    ai_system claude-opus-4-6 (OLDEST cohort), last_deep_review == ai_modified 2026-06-05
+    (~39d converged, no drift), THREE dedicated reviews (2026-04-06, 05-26, 06-05)
+    all pre-web-verify-discipline staleness/coherence passes, ai_contribution 100,
+    analyze_length body 2797w (voids soft 2000 / hard 3000 -- soft_warning, ~200w under
+    hard, length-safe, no condense confound). Diverse from both open P2s (ethics =
+    normative/metaethics; causal-consistency = QM-foundations) -- a sleep/dream-neuroscience
+    + micro-phenomenology cite cluster (Demirel 2025 J Sleep Res, Budson-Paller 2025
+    Nature Reviews, Hobson 2009 Nat Rev Neurosci 10(11):803-813, Alcaraz-Sanchez 2021/2022,
+    Gamma-Metzinger 2021 MPE-92M, Metzinger 2020, Izadifar 2022, Datta 2022 Yoga Nidra,
+    Windt 2015/2020) orthogonal to the normative-ethics + foundational-QM + quantum-biology
+    clusters recent sweeps hit, so genuinely never-web-verified at publisher of record.
+    NOT the File-target of any open task (the two ### sleep-consciousness-void hits
+    are completed review entries; other hits are cross-link mentions in other tasks
+    notes); NOT in Vetoed; EOF clean. Length-neutral deep-review, web-verify every
+    citation 3-state at publisher, honour evidential-status-discipline (state-dependent
+    inaccessibility is a Tenet-1 phenomenal-structure exhibit, contentless-awareness
+    reports stay contested; do not launder a phenomenological datum into a metaphysical
+    proof). FIFO-placed at BOTTOM of Active Tasks (selector still picks ethics-under-dualism
+    first, verified). Documented replenish-at-floor alternation (unfin_loop_steady_state),
+    expected to continue until a new research note reopens the unconsumed lane.'
   last_floor_restore_note_2026_07_14l_causal_consistency_constraint: 'Floor-restoring
     single mint by /replenish-queue 2026-07-14T15:43Z. AUTHORITATIVE PRE-COUNT tool-verified
     count_p0_p2_tasks == 2 (open P2s = buddhism-and-dualism + ethics-under-dualism
