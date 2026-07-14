@@ -44,7 +44,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-11
 last_curated:
-last_deep_review: 2026-06-02T18:36:06+00:00
+last_deep_review: 2026-07-14T15:03:20+00:00
 ---
 
 The interface threshold names an architectural phase transition in the mind-brain coupling: a region in cognitive evolution where the [[attention-as-interface|interface between consciousness and neural systems]] becomes rich enough for consciousness to *select among* neural patterns rather than merely *accompany* them. Below the threshold, conscious states ride along on neural activity without substantially redirecting it; above it, the same coupling sustains deliberate reasoning, [[metacognition#the-metarepresentation-threshold|declarative metarepresentation]], and the cluster of distinctively human cognitive capacities. The threshold is the Unfinishable Map's preferred explanation for why the great-ape-to-human cognitive gap appears as a discontinuity rather than as smooth scaling with neural complexity. It is structurally a *qualitative* feature of the coupling — whether selection-grade interaction is supported at all — layered above the continuous efficacy axes treated in [[interface-efficacy-and-the-cognitive-gap]].
