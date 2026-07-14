@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T04:24:00+00:00 - research-topic
+- **Status**: Success (assess-first verdict: RECOMMEND-FOLD — ALREADY-COVERED)
+- **Topic**: Psychophysical Parallelism
+- **Output**: [[research/psychophysical-parallelism-2026-07-14]]
+- **Sources consulted**: 4 (SEP "Spinoza's Theory of Attributes" [verbatim-verified: IIp7 + 3P2, Curley]; Fechner Elemente der Psychophysik 1860 / Wozniak intro; Wundt adaptation [search-corroborated]; sibling PEH note pre-established-harmony-2026-07-14)
+- **Verdict**: Do NOT mint concepts/psychophysical-parallelism.md, and DECLINE the combined PEH+parallelism page (Option A rejected). Resolves as Option B. The Map-relevant disambiguation (bi-aspectual vocabulary vs no-interaction reading) is already carried in bi-aspectual-ontology.md's "Spinozist Parallelism" subsection ("The Map rejects this parallelism") + occasionalism.md's sibling paragraph ("the one to watch"). Sibling PEH task reached RECOMMEND-FOLD (PEH = species of parallelism genus); coherence forces the genus to fold too. Standing occasionalism-2026-07-13 consumption directive bar unmet; concepts at 312/320. Concrete yield = verified metadata (Spinoza IIp7 "The order and connection of ideas is the same as the order and connection of things" + 3P2 inter-attribute barrier, Curley) + a factual correction owed to occasionalism.md (Fechner's parallelism was a DOUBLE-ASPECT IDENTITY monism, NOT a "bare empirical posit" — that framing is Wundt's). Recommended action: length-neutral one-clause refine to occasionalism.md's Fechner attribution, no new page.
+
 ## 2026-07-14T03:40:00+00:00 - research-topic
 - **Status**: Success (assess-first verdict: RECOMMEND-FOLD)
 - **Topic**: Pre-Established Harmony (Leibniz)
