@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 14:23 - research-topic
+- **Status**: Success
+- **Topic**: Radical-Pair Magnetoreception
+- **Output**: [[research/radical-pair-magnetoreception-2026-07-14]]
+- **Sources consulted**: 10 (all publisher-verified metadata; Schulten 1978, Ritz 2000, Ritz 2004, Engels 2014, Leberecht 2023, Gauger 2011, Hore & Mouritsen 2016, Kominis 2008, Denton 2024, Luo 2025)
+- **Verdict**: PROCEED (genuinely homeless canonical phenomenon page) — but near-cap judgement call (concepts 314/320, topics 316/320); precedent-not-licence framing; alt fold-into-quantum-zeno option given
+
 ## 2026-07-14 13:39 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-zeno-effect]]
