@@ -26,7 +26,7 @@ description: When do parts form wholes, and why can't consciousness be assembled
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-09 09:02:46+00:00
+last_deep_review: 2026-07-14 17:29:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

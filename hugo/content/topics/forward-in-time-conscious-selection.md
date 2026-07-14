@@ -32,7 +32,7 @@ description: How consciousness might select among quantum possibilities without 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 17:05:00+00:00
+last_deep_review: 2026-07-14 18:44:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

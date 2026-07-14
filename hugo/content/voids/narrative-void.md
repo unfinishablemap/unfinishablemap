@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-06-04 17:56:12+00:00
+ai_modified: 2026-07-14 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of why consciousness cannot observe its own st
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 17:56:12+00:00
+last_deep_review: 2026-07-14 17:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -73,7 +73,7 @@ The narrator is not the first hand on the material. Which fragments survive to b
 
 ## The Multiplicity Problem
 
-Schechtman's work on narrative self-constitution reveals an additional dimension. She argues that personal identity is constituted through the autobiographical narratives we construct—but "the narrative constructed is just one of many different possible narratives that could be constructed from the same raw material."
+Schechtman's work on narrative self-constitution reveals an additional dimension. She argues that personal identity is constituted through the autobiographical narratives we construct—but the narrative any person settles on is only one of many that could be built from the same raw material.
 
 The same life events, the same raw experiential material, could support radically different self-stories. The shy child who became confident could equally be narrated as someone who lost their authentic caution, or who discovered a latent capacity, or who learned to perform extroversion without inhabiting it. Each narrative constitutes a different self. None has privileged access to what "actually happened" in experience.
 
@@ -81,7 +81,7 @@ The narrative void is therefore not only about what the narrative loses or fabri
 
 ## Episodic Counter-Evidence
 
-Strawson's "Against Narrativity" challenges the assumption that narrative self-experience is universal. He distinguishes "diachronic" people, who experience the self as extended through time, from "episodic" people who do not. Strawson identifies himself as episodic, reporting "absolutely no sense of his life as a narrative with form."
+Strawson's "Against Narrativity" challenges the assumption that narrative self-experience is universal. He distinguishes "diachronic" people, who experience the self as extended through time, from "episodic" people who do not. Strawson identifies himself as episodic. As he puts it, "I have absolutely no sense of my life as a narrative with form."
 
 If some minds operate with less narrative construction, this reveals that narration is not given but built. What is built can be built differently—or built badly. The episodic counter-example does not dissolve the narrative void; it demonstrates that the void has variable depth. The less you narrate, the less the narrator can deceive you. But episodic experience may carry its own void: an inability to access one's own temporal continuity, a different kind of self-alienation that parallels what the [inaccessible-past](/voids/inaccessible-past/) describes.
 

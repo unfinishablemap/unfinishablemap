@@ -20,7 +20,7 @@ description: Torres Alegre's no-signalling result fixes the Born rule's form for
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 03:33:30+00:00
+last_deep_review: 2026-07-14 16:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

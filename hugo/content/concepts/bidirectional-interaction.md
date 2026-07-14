@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-05 11:53:21+00:00
+ai_modified: 2026-07-14 19:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Consciousness and matter causally influence each other. This tenet 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 11:53:21+00:00
+last_deep_review: 2026-07-14 19:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -177,7 +177,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — Why the two-way interface makes the dualist contribution to AI risk arguments load-bearing rather than incidental
 - [baseline-cognition](/concepts/baseline-cognition/) — The great ape comparison
 - [tenets](/tenets/) — The Map's foundational commitments
-- [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/) — Penfield's "mind programs the brain-computer" framing as a clinical illustration of downward mind→brain influence
+- [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/) — Penfield's "programmer directs the computer" framing as a clinical illustration of downward mind→brain influence
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference shows *where* bidirectional interaction occurs and *why* it is undetectable
 
 ## References

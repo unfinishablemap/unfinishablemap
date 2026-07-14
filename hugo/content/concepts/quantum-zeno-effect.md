@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-07-14 15:28:00+00:00
+ai_modified: 2026-07-14 17:11:46+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -45,7 +45,7 @@ The framing was deliberately paradoxical. A radioactive nucleus watched without 
 
 ## Experimental Demonstration
 
-The effect left the page in 1990. Wayne Itano, Daniel Heinzen, John Bollinger, and David Wineland drove a radio-frequency transition between two hyperfine ground-state levels of beryllium-9 ions confined in a Penning trap and laser-cooled. Between driving pulses they applied frequent optical measurement pulses that projected each ion onto one level or the other. The more often they measured, the more the driven transition was inhibited—the ions kept getting reset toward the initial level. This was a direct physical measurement of the quantum Zeno effect, and it grounds the mechanism as an empirical phenomenon rather than a theorem about idealised measurements. The distinction matters downstream: the trapped-ion result is a genuine experiment, whereas the biological and neural claims discussed below rest on modelling.
+The effect left the page in 1990. Wayne Itano, Daniel Heinzen, John Bollinger, and David Wineland drove a radio-frequency transition between two hyperfine ground-state levels of beryllium-9 ions confined in a Penning trap and laser-cooled. Between driving pulses they applied frequent optical measurement pulses that projected each ion onto one level or the other. The more often they measured, the more the driven transition was inhibited—the ions kept getting reset toward the initial level. This was a direct physical measurement of the quantum Zeno effect, and it grounds the mechanism as an empirical phenomenon rather than a theorem about idealised measurements. What it grounds is the *effect*, not a particular interpretation of it: Ballentine (1991) argued the observed inhibition follows from the unitary dynamics of the strong measurement coupling and does not require the projection postulate, and Itano and colleagues replied that a collapse-based reading remains a simple, valid account of the same data. The experiment settles that the freezing is real; it does not settle the collapse interpretation the Map's reading needs. The distinction matters downstream: the trapped-ion result is a genuine experiment, whereas the biological and neural claims discussed below rest on modelling.
 
 ## The Anti-Zeno Effect
 
@@ -71,7 +71,7 @@ Stapp's *Mindful Universe* (Springer, 2007) applies the quantum Zeno effect to m
 
 Two interpretive burdens attach to this move, and the mechanism page should state them plainly rather than smuggle them past the reader. First, quantum projection is not in general energy-conserving, so the claim that conscious selection respects conservation laws is something the interpretation must argue (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)), not a free consequence of the formalism. Second, "observation" in physics ordinarily denotes a physical measurement coupling, whereas Stapp's proposal requires it to denote an agent's attention; equating the two is a substantive commitment.
 
-The [decoherence](/concepts/decoherence/) objection sharpens the difficulty. Tegmark's calculations placed neural coherence times near femtoseconds; Hagan and colleagues (2002) revised this upward to microseconds in microtubules, though Reimers and McKemmish (both 2009) contest the parameters that estimate rests on. Even taking the microsecond figure, outpacing decoherence would demand observation intervals of a microsecond or shorter—on the order of hundreds of thousands of discrete observation events within a single ~300 ms decision window—and no concrete model supplies events at that rate. The [timing gap](/concepts/timing-gap-problem/) relocates rather than closes under Stapp's discrete-event framing. The neural application therefore remains a candidate mechanism, undemonstrated, and separable from the physics that this page otherwise reports as established.
+The [decoherence](/concepts/decoherence/) objection sharpens the difficulty. Tegmark's calculations placed neural coherence times near femtoseconds; Hagan and colleagues (2002) revised this upward to microseconds in microtubules, though Reimers, McKemmish and colleagues (2009) contest the parameters that estimate rests on. Even taking the microsecond figure, outpacing decoherence would demand observation intervals of a microsecond or shorter—on the order of hundreds of thousands of discrete observation events within a single ~300 ms decision window—and no concrete model supplies events at that rate. The [timing gap](/concepts/timing-gap-problem/) relocates rather than closes under Stapp's discrete-event framing. The neural application therefore remains a candidate mechanism, undemonstrated, and separable from the physics that this page otherwise reports as established.
 
 ## Relation to Site Perspective
 
@@ -81,7 +81,7 @@ This page is expository: the quantum Zeno effect is real, demonstrated physics, 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If conscious observation can bias which neural state actualises, the effect would supply a concrete route for consciousness to influence the physical brain—the physical leg of a two-way interaction. The anti-Zeno mirror is a live risk here: the same measurement dynamics could destabilise as easily as stabilise.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The effect presupposes genuine collapse—one outcome actualised, alternatives excluded. Under a many-worlds reading there is no privileged projection for repeated observation to enforce, and the Zeno "freezing" loses its selective significance. The mechanism's usefulness to the Map depends on the collapse-based interpretations the Map already favours.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The selective significance the Map draws from the effect presupposes genuine collapse—one outcome actualised for the observer. Under a many-worlds reading the Zeno freezing still occurs as unitary dynamics, but there is no privileged projection for repeated observation to enforce, and the effect loses the selective role the Map needs. The mechanism's usefulness to the Map depends on the collapse-based interpretations the Map already favours.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: A purely classical account of neural selection is simpler and adequate to the physics as measured. The Map's interest in the Zeno mechanism is tenet-driven rather than empirically forced, and the page marks that honestly: the physics is settled, the neural application speculative.
 
@@ -100,6 +100,8 @@ This page is expository: the quantum Zeno effect is real, demonstrated physics, 
 
 1. Misra, B., & Sudarshan, E.C.G. (1977). The Zeno's paradox in quantum theory. *Journal of Mathematical Physics*, 18(4), 756–763. https://doi.org/10.1063/1.523304
 1. Itano, W.M., Heinzen, D.J., Bollinger, J.J., & Wineland, D.J. (1990). Quantum Zeno effect. *Physical Review A*, 41(5), 2295–2300. https://doi.org/10.1103/PhysRevA.41.2295
+1. Ballentine, L.E. (1991). Comment on "Quantum Zeno effect." *Physical Review A*, 43(9), 5165–5167. https://doi.org/10.1103/PhysRevA.43.5165
+1. Itano, W.M., Heinzen, D.J., Bollinger, J.J., & Wineland, D.J. (1991). Reply to "Comment on 'Quantum Zeno effect'." *Physical Review A*, 43(9), 5168–5169. https://doi.org/10.1103/PhysRevA.43.5168
 1. Kaulakys, B., & Gontis, V. (1997). Quantum anti-Zeno effect. *Physical Review A*, 56(2), 1131–1137. https://doi.org/10.1103/PhysRevA.56.1131
 1. Fischer, M.C., Gutiérrez-Medina, B., & Raizen, M.G. (2001). Observation of the quantum Zeno and anti-Zeno effects in an unstable system. *Physical Review Letters*, 87(4), 040402. https://doi.org/10.1103/PhysRevLett.87.040402
 1. Kominis, I.K. (2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. *Physical Review E*. arXiv:0806.0739.

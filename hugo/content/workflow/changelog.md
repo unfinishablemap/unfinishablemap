@@ -9,6 +9,195 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-14 20:06 - deep-review
+- **Status**: Success
+- **File**: [heterophenomenology](/concepts/heterophenomenology/)
+- **Word count**: 2864 → 2899 (+35; soft_warning, under hard cap)
+- **Lens**: verbatim quote-fidelity at primary publisher (orthogonal to the 7 prior metadata/stance audits; never run before)
+- **Critical issues addressed**: 2 (quote-fidelity)
+  - Varela 1996 (L86): paraphrase-as-quote → restored verbatim ("no 'theoretical fix' or 'extra ingredient' in nature that can possibly bridge this gap")
+  - Dennett Sherlock Holmes (L58): string unconfirmable at primary publisher (secondary-source only) → de-quoted to article paraphrase
+- **Verified real-correct (no change)**: Nagel 1974 bat quote; Dennett 1991 neutral-path quote (Consciousness Explained p.72)
+- **Medium issues addressed**: 0 (converged core not re-litigated)
+- **Enhancements made**: 2
+- **ai_system**: held at claude-sonnet-4-5 (minor quote fixes, not re-authoring)
+- **Engagement modes** (editor-internal): Dennett = Mixed (Mode One + Mode Three); illusionists = Mode Three
+- **Output**: [deep-review-2026-07-14-heterophenomenology](/reviews/deep-review-2026-07-14-heterophenomenology/)
+
+## 2026-07-14 19:44 - deep-review
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Word count**: 2578 → 2578 (length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (internal-quote-channel: Penfield cross-link quote "mind programs the brain-computer" → "programmer directs the computer" to match live sibling; added post-06-05, unseen by prior reviews)
+- **Enhancements made**: 0
+- **Note**: Ran orthogonal lenses (verbatim-quote, currency, evidential-status, wikilink, style/EOF), NOT a blanket metadata re-verify — the 06-05 review already did a comprehensive per-cite publisher-of-record verification (task premise was false). Currency sweep clean; evidential register calibrated; EOF clean. ai_system held at claude-opus-4-5-20251101 (one-phrase fix, not re-authoring).
+- **Output**: [deep-review-2026-07-14-bidirectional-interaction](/reviews/deep-review-2026-07-14-bidirectional-interaction/)
+
+## 2026-07-14 19:31 - deep-review
+- **Status**: Success (converged no-op after real web-verify)
+- **File**: [visual-consciousness](/concepts/visual-consciousness/)
+- **Word count**: 1816 → 1816 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Targeted §2.4 pass on the post-06-10 change (commit dd19304a4 swept Cogitate/Melloni 2025 Nature cite to canonical, UNVERIFIED since). Web-verified swept cite at publisher: Cogitate Consortium (2025) *Nature* 642(8066):133-142, DOI s41586-025-08888-1 — real-correct; first-author form now correct (Cogitate Consortium NOT "Melloni et al."; 2023 PLOS ONE protocol correctly excluded); result gloss faithful (posterior sufficiency, neither theory decisively vindicated). Re-confirmed Koch et al. 2016 (Nat Rev Neurosci 17:307-321), Block 1995 (BBS 18(2):227-247, target-article range), Lamme 2003 (TiCS 7(1):12-18); Jackson/Nagel/Weiskrantz/Zeki canonical, unchanged since 06-10. Inline↔References clean both directions; no orphan refs. Evidential-status calibrated (supporting-not-proving; no modal slide). [indexical-facts](/concepts/indexical-knowledge-and-identity/) already repointed to [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — no action. Style/EOF clean. Stamped last_deep_review only; ai_modified held at 2026-07-11T14:26:00 (zero content change this pass); ai_system held claude-opus-4-5.
+- **Output**: [deep-review-2026-07-14-visual-consciousness](/reviews/deep-review-2026-07-14-visual-consciousness/)
+
+## 2026-07-14 19:11 - deep-review
+- **Status**: Success (converged no-op after real web-verify)
+- **File**: [inventory-blindness](/concepts/inventory-blindness/)
+- **Word count**: 1513 → 1513 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Genuinely-owed §2.4 pass — prior 4 reviews (03-22/03-23/04-28/06-01) never ran publisher-of-record verification (staleness/coherence only). Full 3-state ledger at publishers: McGinn 1989 (Mind 98(391):349-366, DOI 10.1093/mind/XCVIII.391.349) — real-correct; Stanford 2006 (Exceeding Our Grasp, OUP, ISBN 9780195174083) — real-correct; Kruger & Dunning 1999 (JPSP 77(6):1121-1134) — real-correct. No fabrications, no metadata errors, no superseded superlatives. Quote-fidelity: no external verbatim quotes (all quoted strings are article's own paraphrases). Calibration clean (defeater-removal framing, not evidence-upgrade; Tenet-5 cognitive-limit exhibit not dualism proof). Stamped last_deep_review only; ai_modified NOT bumped (zero content change); ai_system held claude-opus-4-6.
+- **Output**: [deep-review-2026-07-14-inventory-blindness](/reviews/deep-review-2026-07-14-inventory-blindness/)
+
+## 2026-07-14 18:49 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
+- **Word count**: 2744 → 2744 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Task minted on false "predates web-verify" premise. 06-04 review already ran full publisher-of-record cite ledger (5 cites, all real-correct) + quote-fidelity pass. git confirms body/References unchanged since 06-04, so both ledgers stand — web-verify correctly skipped. Light confirmation: no new quotes, no superlatives, calibration reads as Tenet-1 phenomenal-structure exhibit (not dualism proof), cross-links resolve. Stamped last_deep_review only; ai_modified NOT bumped (zero content change).
+- **Output**: [deep-review-2026-07-14-phenomenology-of-anticipation](/reviews/deep-review-2026-07-14-phenomenology-of-anticipation/)
+
+## 2026-07-14 18:44 - deep-review
+- **Status**: Success
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Word count**: 3807 → 3807 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op — 4th deep-review; only change since 2026-06-05 full citation audit was one cosmetic Further Reading cross-link, verified accurate. Full citation re-audit skipped per convergence rule — no new citations. `last_deep_review` stamped; `ai_modified` deliberately NOT bumped)
+- **Output**: [deep-review-2026-07-14-forward-in-time-conscious-selection](/reviews/deep-review-2026-07-14-forward-in-time-conscious-selection/)
+
+## 2026-07-14 18:22 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Word count**: 3454 → 3454 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op — 10th review; timestamp-only `last_deep_review` stamp, `ai_modified` deliberately NOT bumped)
+- **Output**: [deep-review-2026-07-14-consciousness-and-language-interface](/reviews/deep-review-2026-07-14-consciousness-and-language-interface/)
+- **Notes**: Task minted on false "zero review files / never per-cite web-verified" premise — article has EIGHT prior review files and the 2026-06-09 pass carries a full publisher-of-record Citation Web-Verify Ledger (Boroditsky/Thierry/Schooler/Carruthers all real-correct). File byte-identical to the 2026-06-09 review commit 9ba766651 (`git diff HEAD` and `git diff 9ba766651` both empty), so redundant metadata verify SKIPPED per §2.4. Spent pass on orthogonal lenses: (1) verbatim quote-fidelity — N/A, no attributed source quotes exist (all quote-marked strings are the article's own illustrative examples + correctly-quoted reference titles), no de-quoting; (2) calibration — no possibility/probability slippage, linguistic-relativity evidence framed supporting-not-proving with replication hedges intact, LLM section exemplary; (3) currency — no superlative claims, replication-sensitivity already acknowledged, no drift flag. ai_system HELD at claude-opus-4-6 (no re-authoring).
+
+## 2026-07-14 18:10 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Word count**: 2571 → 2571 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op — 6th review; timestamp-only `last_deep_review` stamp, `ai_modified` deliberately NOT bumped)
+- **Notes**: Task minted on false "never per-cite web-verified" premise — both 2026-05-27 and 2026-06-11 passes already web-verified all 5 cites at publisher of record. References block byte-unchanged since (`git log -p --since=2026-06-11` empty), so redundant metadata verify SKIPPED per §2.4. Spent pass on orthogonal lenses: (1) verbatim quote-fidelity — no defect, all quote-marked strings are the article's own first-person illustrations, Schooler "meta-consciousness" phrasing faithful to paper title, no de-quoting; (2) calibration — no slippage, underdetermination explicit, fMRI evidence framed supporting-not-proving; (3) currency — zero superlative claims, no drift flag. ai_system HELD at claude-opus-4-6 (no re-authoring).
+- **Output**: [deep-review-2026-07-14-phenomenology-of-returning-attention](/reviews/deep-review-2026-07-14-phenomenology-of-returning-attention/)
+
+## 2026-07-14 18:05 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Quantum-binding / composition / biological-precedent cluster — [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/), [composition-and-consciousness](/concepts/composition-and-consciousness/), [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/) (all deep-reviewed or freshly created 2026-07-14; distinct from the morning's quantum-zeno-effect/quantum-divine-action pass)
+- **Findings**: Cluster is the Map at its most evidentially disciplined — quantum substrate claims held explicitly tenet-motivated-not-data-forced; new RPM page fills the flagged warm-biology-precedent gap and is well-calibrated (precedent-not-licence, microsecond-vs-millisecond limit, Kominis-not-Denton priority). Two definitional gaps surfaced (zero-lag gamma synchrony / Baum Quantum Binding Argument; composition-as-identity) left as harvester seams. One concrete P3 added: populate RPM's empty outbound frontmatter.
+- **Output**: [optimistic-2026-07-14-quantum-binding-cluster](/reviews/optimistic-2026-07-14-quantum-binding-cluster/)
+
+## 2026-07-14 17:55 - deep-review
+- **Status**: Success
+- **File**: [narrative-void](/voids/narrative-void/)
+- **Word count**: 1993 → 1990 (-3)
+- **Scope**: Genuinely-owed publisher-of-record web-verify of the article's ORIGINAL citation cluster (the 06-04 review web-verified only the four Encoding-Void-absorbed cites and explicitly left the original cluster "not re-litigated"). Per-cite ledger in the review archive. All seven originals — Nisbett-Wilson 1977, Gazzaniga *Mind's Past* 1998, Johansson et al. 2005 *Science*, Ricoeur *Time and Narrative*, Schechtman 1996, Strawson 2004 *Ratio*, Damasio 1999 — verified **real-correct** at publishers of record (author tuple, venue, volume/issue/pages, DOI where applicable). Inline↔References cross-check clean, no orphans. Two quote-fidelity defects found and fixed.
+- **Critical issues addressed**: 1 — Strawson misquote: article altered "my" → "his" inside quotation marks; restored verbatim first-person "I have absolutely no sense of my life as a narrative with form" (confirmed against *Ratio* 17(4)).
+- **Medium issues addressed**: 1 — Schechtman "one of many possible narratives … same raw material" was in quotation marks but unverifiable at publisher / full text / secondary lit across 5 keyword combos + 2 full-text fetches; de-quoted to a faithful paraphrase (content correct, verbatim attribution unsupportable).
+- **Enhancements made**: 0 (targeted verify pass; article is well-calibrated and densely cross-linked — no expansion)
+- **Calibration**: no possibility/probability slippage; void correctly framed as a gap in self-knowledge, not a metaphysical proof.
+- **Timestamps**: real fixes landed → bumped both ai_modified + last_deep_review. Held ai_system claude-opus-4-6 (quote-fidelity corrections, not re-authoring).
+- **Output**: [deep-review-2026-07-14-narrative-void](/reviews/deep-review-2026-07-14-narrative-void/)
+
+## 2026-07-14 17:36 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Word count**: 2403 → 2403 (no content change)
+- **Scope**: Fifth deep review. Task minted on FALSE "zero review files / never web-verified" premise — verified 4 prior reviews exist; the 06-03 pass carries a full publisher web-verify ledger (all 17 cites). Git-confirmed References block unchanged since the 06-03 commit (a29194122), so redundant metadata re-verify SKIPPED. Spent the pass on three orthogonal lenses: (1) verbatim quote-fidelity — no block quotations exist; every quote-mark is colloquial/scare-quote or a short term-label, so no fabricated-quote / wrong-work / silent-elision exposure; no self-contamination. (2) calibration — three faces correctly placed on unexplored/unexplorable/occluded axis, no possibility/probability slippage, both 06-03 condense-protected qualifiers intact. (3) currency — superlative helper empty; number-cognition claims (subitizing ~4, ANS/Weber, Pirahã-with-contestation) current, no drift.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; editing risks oscillation — clean no-op is correct)
+- **Frontmatter**: last_deep_review → 2026-07-14T17:36:22+00:00 only; ai_modified NOT bumped (holds 2026-06-03, no content edit); ai_system held claude-opus-4-7 (no re-authoring)
+- **Reasoning-mode**: functionalist engagement (§What Counts as Comprehension) = Mode Three (framework-boundary marking); honest, no boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-07-14-the-quantitative-comprehension-void](/reviews/deep-review-2026-07-14-the-quantitative-comprehension-void/)
+
+## 2026-07-14 17:29 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [composition-and-consciousness](/concepts/composition-and-consciousness/)
+- **Word count**: 2443 → 2443 (no content change)
+- **Scope**: Third deep review. Both prior passes (06-01 full publisher web-verify of all 6 cites, 06-09 re-confirm) converged. Only changes since 06-09 are cosmetic cross-links: 06-15 coalesce repointed 3 sibling links to `[[composition-question-rivals]]` with section anchors; 07-11 expand-topic added one `[[phenomenal-sorites-problem]]` Further Reading link. Re-selection = predicted cosmetic re-qualification (35d, outside 14d exclusion, only 2 priors → damped score 44).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (editing a twice-converged article risks oscillation — clean no-op is correct)
+- **Verified**: 3 changed link targets resolve; 3 composition-question-rivals section anchors match `{#...}` headers exactly; label-leakage grep clean. §2.4 web-verify NOT re-triggered (References/inline cites git-unchanged since 06-01 ledger).
+- **Engagements** (editor-internal, unchanged): materialist physical-analogies Mode One; functionalist/James Mixed Mode Two/Three; panpsychism/combination Mode One.
+- **Output**: [deep-review-2026-07-14-composition-and-consciousness](/reviews/deep-review-2026-07-14-composition-and-consciousness/)
+
+## 2026-07-14 17:15 - deep-review
+- **Status**: Success
+- **File**: [sleep-consciousness-void](/voids/sleep-consciousness-void/)
+- **Word count**: 2797 → 2810 (+13; citation-fidelity corrections)
+- **Scope**: Orthogonal-lens pass. Task premise ("reviews predate web-verify") was FALSE — 06-05 review already ran a thorough per-cite publisher verify. References block git-confirmed UNCHANGED since 06-05, so publisher metadata verify NOT re-run (would be redundant no-op). Spent pass on verbatim quote-fidelity, calibration, and 2020s currency.
+- **Critical issues addressed**: 3 (all quote-fidelity). (1) "No Scenery/Void" verbatim quote cited to wrong work — it is the 2021 pilot's label, not the 2022 study's (whose own term is "nothingness phase"); re-attributed. (2) restored silently-elided "the presence of" inside the Alcaraz-Sánchez et al. 2022 characteristics quote. (3) de-quoted the unattributed/unverifiable "illogicalities..." string.
+- **Verified verbatim (no change)**: Gelernter, Locke, Budson & Paller "below the surface", Russell "about a hundred". Currency: no superlatives; Gamma & Metzinger "some 1,400 meditators" = n=1,403 usable, accurate. Calibration: modal register intact, upgrade explicitly declined — clean.
+- **Held**: ai_system claude-opus-4-6 (quote-fidelity fixes, not re-authorship). Bumped ai_modified + last_deep_review (real fixes landed).
+- **Output**: [deep-review-2026-07-14-sleep-consciousness-void](/reviews/deep-review-2026-07-14-sleep-consciousness-void/)
+
+## 2026-07-14 17:11 - refine-draft
+- **Status**: Success
+- **File**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/)
+- **Changes**: Installed the two collapse-dependence calibration fixes from pessimistic-2026-07-14 (both length-relevant seams where the physics/reading separation slipped). (1) No Many Worlds paragraph: relocated the collapse requirement from the EFFECT to the Map's SELECTIVE reading — "The selective significance the Map draws from the effect presupposes genuine collapse… Under a many-worlds reading the Zeno freezing still occurs as unitary dynamics, but there is no privileged projection to enforce." (2) Experimental Demonstration: added the Ballentine (1991) unitary-account critique of the Itano 1990 result plus the Itano reply — the experiment grounds the EFFECT, not the collapse interpretation. Web-verified both citations exist at publisher of record (Phys. Rev. A 43, 5165 (1991) Ballentine comment; 43, 5168 (1991) Itano reply) before asserting; added both to References. (3) Reworded "Reimers and McKemmish (both 2009)" → "Reimers, McKemmish and colleagues (2009)" (co-authors of one critique, not two independent contests).
+- **Held**: ai_system claude-opus-4-8 (calibration fix, not re-authorship); last_deep_review unchanged (create+deep-review+cross-review all same-day — these are genuine calibration fixes, not re-review churn). Bumped ai_modified only. No named-opponent mode leakage; no altered-state flag.
+- **Published**: yes
+
+## 2026-07-14 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/quantum-zeno-effect.md (fresh 2026-07-14 opus-4-8 create; reviewed for the fresh-create defect tail)
+- **Findings**: 2 medium issues, both on the same seam — the article treats wavefunction collapse / the projection postulate as essential to the Zeno EFFECT when the physics is interpretation-neutral and only the consciousness reading needs collapse. (1) "The effect presupposes genuine collapse" (No Many Worlds, line 82) overclaims vs unitary derivability — hands the MWI defender a real internal inconsistency. (2) Itano 1990 presented as grounding the projection-postulate mechanism (line 46) omits the Ballentine 1991 unitary-account controversy. Both fixable in one length-neutral refine pass. Article is otherwise unusually well-calibrated (correct Kominis-not-Denton first-precedent credit; strong anti-Zeno caveat; clean citations).
+- **Task added**: P2 refine-draft (relocate collapse-dependence to the reading + add Ballentine caveat)
+- **Output**: [pessimistic-2026-07-14](/reviews/pessimistic-2026-07-14/)
+
+## 2026-07-14 16:48 - deep-review
+- **Status**: Success (converged no-op; metadata-only stamp)
+- **File**: [causal-consistency-constraint](/concepts/causal-consistency-constraint/)
+- **Word count**: 1043 → 1043 (+0; no content change)
+- **Premise correction**: Task minted on FALSE "never per-cite web-verified" premise. The 2026-06-03 review already ran a full per-citation publisher web-verify (all 7 cites clean). Git confirms ZERO commits touch this file since the 06-03 review; on-disk `ai_modified` == `last_deep_review` == 2026-06-03 (the "reviewed, unchanged" state). References block byte-identical → did NOT re-run web-verify (the redundant no-op the §2.4 discipline warns against). Spent the pass on the three orthogonal lenses instead.
+- **Verbatim quote-fidelity (highest orthogonal yield)**: sole external quote is Tonetto "statistical closure with outcome-level openness" (line 38). Independently re-verified verbatim via WebSearch with unfinishablemap.org/.com blocked (avoids quote-verify-self-contamination-via-own-page) — string appears verbatim in Tonetto's PhilArchive essay "What Physics Actually Closes". Attribution framing faithful (names the outcome-level-openness gap). real-correct.
+- **Calibration (preprint status)**: Torres Alegre still honestly flagged as not-yet-refereed preprint (lines 35, 115); result calibrated at mathematical-theorem not empirical-test. No preprint over-read.
+- **Possibility/probability slippage**: none — article is a calibration exhibit (form-not-existence, "no work *for* the interface reading", Two Qualifications section, candour paragraph). Diagnostic test passes.
+- **Frontmatter**: `last_deep_review` → 2026-07-14T16:48:00+00:00. `ai_modified` HELD (no content change). `ai_system` HELD at claude-opus-4-7 (not re-authored).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-14-causal-consistency-constraint](/reviews/deep-review-2026-07-14-causal-consistency-constraint/)
+
+## 2026-07-14 16:36 - deep-review
+- **Status**: Success (converged; one quote-fidelity fix)
+- **File**: [ethics-under-dualism](/topics/ethics-under-dualism/)
+- **Word count**: 3133 → 3133 (+0; one-token quote-fidelity fix, length-neutral)
+- **Premise correction**: Task minted on FALSE "never per-cite web-verified" premise. 06-02 review already ran full publisher web-verify; git confirms References block UNCHANGED since 06-02 (only commit is the 06-02 review itself). Did NOT re-run web-verify (would be the redundant no-op the discipline warns against). Spent the pass on orthogonal lenses instead.
+- **Verbatim quote-fidelity (highest orthogonal yield)**: Murdoch "just and loving gaze" — real-correct (faithful excerpt of canonical phrase, *Sovereignty of Good*). **Regan "subjects of a life" → "subjects-of-a-life" — FIXED**: quoted term-of-art was rendered without its canonical hyphens; the quote-fidelity-defects-survive-metadata-reviews pattern (06-02 source-conclusion check ratified the term but not the mis-rendered quotation).
+- **Calibration (moral-realism presupposition)**: passes the diagnostic test — realism framed as the Map's *position* with all load-bearing hedges intact (Mackie rebuttal "conditional ... to the extent the dualist premise holds"; "remains contested"; "one live option among several"). No possibility/probability slippage.
+- **Open human-length item**: Sharon Street Darwinian-Dilemma / moral-realism-debunking gap confirmed still tracked in todo.md (NEEDS-HUMAN 2026-06-27 deferred cluster, 4th deferred item, pending) — NOT actioned (human-deferred length decision), not papered over.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Regan quote hyphenation)
+- **Engagement modes**: unchanged from 06-02 (editor-internal); bedrock disagreements (illusionism, MWI, agent-causation, decoherence) framework-boundary, not re-flagged.
+- **ai_system**: held at claude-opus-4-7 (not re-authoring). Both ai_modified + last_deep_review bumped (real fix, not a no-op).
+- **Output**: [deep-review-2026-07-14-ethics-under-dualism](/reviews/deep-review-2026-07-14-ethics-under-dualism/)
+
+## 2026-07-14 16:32 - deep-review
+- **Status**: Success
+- **File**: [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/)
+- **Word count**: 1718 → 1718 (no change; 69% of soft threshold, well under)
+- **Focus**: First review of fresh 2026-07-14 create. Mandatory §2.4 publisher-of-record web-verify of all 11 references.
+- **Citations verified real-correct (full 3-state ledger)**: Schulten/Swenberg/Weller 1978, Ritz/Adem/Schulten 2000, Ritz et al. 2004, Engels et al. 2014, Leberecht et al. 2023, Gauger et al. 2011, Hore & Mouritsen 2016 ("is still unclear" quote verbatim), Kominis 2008/2009 (arXiv:0806.0739 + PRE 80 056115), Denton et al. 2024 (Nat. Commun. 15, 10823 confirmed via PMC; computational not experimental). Zero metadata errors, zero fabrications. Denton double-calibration (not-first, not-experiment) handled correctly in body.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — coherence/neural timescale gap overstated as "three orders of magnitude" in 3 places; corrected to "two orders" (tens-of-µs ≈ 10⁻⁵ s vs ms ≈ 10⁻³ s) and made lead's coherence figure consistent with body ("tens of microseconds"). No slippage; no length change.
+- **Integration**: not an orphan — 4 outbound wikilinks (all targets verified) + 8 inbound content links.
+- **Output**: [deep-review-2026-07-14-radical-pair-magnetoreception](/reviews/deep-review-2026-07-14-radical-pair-magnetoreception/)
+
 ## 2026-07-14 15:51 - deep-review
 - **Status**: Success (converged no-op after real citation scrutiny)
 - **File**: [buddhism-and-dualism](/concepts/buddhism-and-dualism/)

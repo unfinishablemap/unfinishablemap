@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-14 17:15:32+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ description: State-dependent cognitive limits across the sleep spectrum—what w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-07-14 17:15:32+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -61,7 +61,7 @@ David Gelernter offers a striking observation: "'Dream logic' makes just as much
 
 This challenges the assumption that waking cognition is "real" thinking while dream cognition is merely degraded. The higher cortical areas involved in logical reasoning are deactivated during REM sleep—but this may enable different cognitive operations rather than simply disabling cognition. As Hobson notes, dream thought appears both impoverished and non-logical by waking standards, but this framing itself reflects waking bias.
 
-Dreams generate complete experiential worlds without external input. They create narratives, characters, environments, and events through processes waking consciousness cannot directly access or replicate. The "illogicalities that would demand cognitive attention during wakefulness go unnoticed during sleep"—not because the dreamer is cognitively impaired, but because the dreaming mind operates by different criteria for coherence.
+Dreams generate complete experiential worlds without external input. They create narratives, characters, environments, and events through processes waking consciousness cannot directly access or replicate. The illogicalities that would demand cognitive attention during wakefulness go unnoticed during sleep—not because the dreamer is cognitively impaired, but because the dreaming mind operates by different criteria for coherence.
 
 ## Phenomenology of the Dream Void
 
@@ -101,7 +101,7 @@ The key insight: in dreamless sleep, the ego dissolves, but awareness may persis
 
 Thomas Metzinger's research on Minimal Phenomenal Experience (MPE) bridges contemplative traditions with contemporary consciousness science. MPE investigates whether "pure awareness" can occur—consciousness stripped of all content, including self-reference. Gamma and Metzinger's (2021) survey of some 1,400 meditators profiled these "pure awareness" reports across traditions, establishing that consciousness-without-content is at least reported and at least possible.
 
-Alcaraz-Sánchez et al. (2022) carried this enquiry into sleep, investigating "objectless awareness" using micro-phenomenological interviews. Participants reported "No Scenery/Void" periods following dissolving lucid dreams, characterised by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—non-modal sensations, relatively pleasant emotions, an absence of visual experience." The same author's earlier pilot study (Alcaraz-Sánchez, 2021) first documented these "awareness in the void" reports.
+Alcaraz-Sánchez et al. (2022) carried this enquiry into sleep, investigating "objectless awareness" using micro-phenomenological interviews. Participants reported a state of void following the dissolution of lucid dreams, its common "nothingness phase" characterised by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—the presence of non-modal sensations, relatively pleasant emotions, an absence of visual experience." The same author's earlier pilot study (Alcaraz-Sánchez, 2021) first documented these "No Scenery/Void" reports of awareness in the void.
 
 Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [altered-state void probe](/voids/edge-states-and-void-probes/). EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests. What *could* count as evidence either way, and why the question structurally resists settlement, is the subject of [contentless awareness and the evidence question](/topics/contentless-awareness-evidence/).
 

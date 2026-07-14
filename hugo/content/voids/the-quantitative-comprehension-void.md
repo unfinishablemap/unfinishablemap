@@ -22,7 +22,7 @@ description: A structural family of cognitive limits—cardinality, magnitudes, 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 04:50:28+00:00
+last_deep_review: 2026-07-14 17:36:22+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
