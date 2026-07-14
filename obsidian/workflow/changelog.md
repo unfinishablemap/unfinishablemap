@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 19:31 - deep-review
+- **Status**: Success (converged no-op after real web-verify)
+- **File**: [[concepts/visual-consciousness]]
+- **Word count**: 1816 → 1816 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Targeted §2.4 pass on the post-06-10 change (commit dd19304a4 swept Cogitate/Melloni 2025 Nature cite to canonical, UNVERIFIED since). Web-verified swept cite at publisher: Cogitate Consortium (2025) *Nature* 642(8066):133-142, DOI s41586-025-08888-1 — real-correct; first-author form now correct (Cogitate Consortium NOT "Melloni et al."; 2023 PLOS ONE protocol correctly excluded); result gloss faithful (posterior sufficiency, neither theory decisively vindicated). Re-confirmed Koch et al. 2016 (Nat Rev Neurosci 17:307-321), Block 1995 (BBS 18(2):227-247, target-article range), Lamme 2003 (TiCS 7(1):12-18); Jackson/Nagel/Weiskrantz/Zeki canonical, unchanged since 06-10. Inline↔References clean both directions; no orphan refs. Evidential-status calibrated (supporting-not-proving; no modal slide). [[indexical-facts]] already repointed to [[indexical-knowledge-and-identity]] — no action. Style/EOF clean. Stamped last_deep_review only; ai_modified held at 2026-07-11T14:26:00 (zero content change this pass); ai_system held claude-opus-4-5.
+- **Output**: [[reviews/deep-review-2026-07-14-visual-consciousness]]
+
 ## 2026-07-14 19:11 - deep-review
 - **Status**: Success (converged no-op after real web-verify)
 - **File**: [[concepts/inventory-blindness]]
