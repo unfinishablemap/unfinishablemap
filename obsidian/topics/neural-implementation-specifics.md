@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-07-14T15:33:28+00:00
+ai_modified: 2026-07-14T22:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ This hierarchy reflects current evidence, not ultimate truth. A single well-desi
 
 ## Radical Pairs: The Current Leader
 
-Radical pair mechanisms have the firmest experimental foundation among quantum neural proposals. Denton et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in tightly bound cryptochrome radical pairs—showing computationally that Zeno-protected quantum states can operate in a biological context.
+Radical pair mechanisms have the firmest empirical grounding among quantum neural proposals. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in tightly bound cryptochrome radical pairs—showing computationally that Zeno-protected quantum states can operate in a biological context.
 
 ### What Makes Radical Pairs Compelling
 
