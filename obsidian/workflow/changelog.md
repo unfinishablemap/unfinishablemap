@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 21:30 - expand-topic
+- **Status**: Success
+- **Topic**: Zero-lag gamma synchrony and the quantum binding argument
+- **Output**: [[concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument]]
+- **Word count**: 1710
+- **Based on research**: yes — [[research/zero-lag-gamma-synchrony-and-the-quantum-binding-argument-2026-07-14]]
+- **Notes**: Calibrated three-layer spine (real phenomenon → classical relay-hub explanation given full weight → narrow contested phenomenal-unity residual). Feature/representational binding kept sharply separate from phenomenal unity. Zero-lag synchrony NOT presented as evidence for a quantum mechanism; Orch OR "exceeds computational models" claim presented as proponents' claim with classical rebuttal. All 9 external citations publisher-verified (Gray 1989, Singer & Gray 1995, Roelfsema 1997, Shadlen-Movshon 1999, Fries 2005/2015, Vicente 2008, Viriyopase 2012, Hameroff-Penrose 2014); the 4 flagged-for-reverify cites (Gray, Singer&Gray, Hameroff-Penrose, Fries 2015) confirmed at primary publishers this session. 2 self-citations (binding-problem, entanglement-binding-hypothesis).
+
 ## 2026-07-14 20:49 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[concepts/reasons-responsiveness]]
