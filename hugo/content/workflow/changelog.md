@@ -9,6 +9,62 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-14T04:39:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 3258 → 3258 (±0; length-neutral, soft_warning under hard 4000)
+- **Mode**: Owed publisher-of-record web-verify pass (staleness→owed-web-verify seam), 12th deep review
+- **Citations web-verified at publisher**: 9 (Konkoly 2021 Curr Biol 31(7); Konkoly 2026 Neurosci Consc niaf067; Baird 2018 Sci Rep 8:17798; Haar Horowitz 2023 Sci Rep 13:7319; Cai 2009 PNAS 106(25); Lacaux 2021 Sci Adv 7(50); Bilzer & Monzel 2025 Vision 9(2); Demirel 2025 J Neurosci 45(20); LaBerge 1990). 8 real-correct; 1 real-wrong-metadata fixed.
+- **Critical issues addressed**: 1 (LaBerge 1990 editor surname "Bootzen" → "Bootzin, Kihlstrom & Schacter"; propagated fix to archive/topics/lucid-dreaming-and-consciousness.md)
+- **Verified no regression**: Bilzer & Monzel (no "Fazekas" revert); Konkoly 2026 42%/17% + p-value calibration intact; Demirel gamma/interhemispheric framing verbatim-accurate
+- **AXIS-2 note**: no William James quote exists in article (task premise was cross-article confusion); no print-anchored quotes to verify
+- **Engagement modes** (editor-internal, unchanged): Illusionism Mode Two; Epiphenomenalism Mode Mixed; no label leakage
+- **Output**: [deep-review-2026-07-14-dream-consciousness](/reviews/deep-review-2026-07-14-dream-consciousness/)
+
+## 2026-07-14T04:24:00+00:00 - research-topic
+- **Status**: Success (assess-first verdict: RECOMMEND-FOLD — ALREADY-COVERED)
+- **Topic**: Psychophysical Parallelism
+- **Output**: [psychophysical-parallelism-2026-07-14](/research/psychophysical-parallelism-2026-07-14/)
+- **Sources consulted**: 4 (SEP "Spinoza's Theory of Attributes" [verbatim-verified: IIp7 + 3P2, Curley]; Fechner Elemente der Psychophysik 1860 / Wozniak intro; Wundt adaptation [search-corroborated]; sibling PEH note pre-established-harmony-2026-07-14)
+- **Verdict**: Do NOT mint concepts/psychophysical-parallelism.md, and DECLINE the combined PEH+parallelism page (Option A rejected). Resolves as Option B. The Map-relevant disambiguation (bi-aspectual vocabulary vs no-interaction reading) is already carried in bi-aspectual-ontology.md's "Spinozist Parallelism" subsection ("The Map rejects this parallelism") + occasionalism.md's sibling paragraph ("the one to watch"). Sibling PEH task reached RECOMMEND-FOLD (PEH = species of parallelism genus); coherence forces the genus to fold too. Standing occasionalism-2026-07-13 consumption directive bar unmet; concepts at 312/320. Concrete yield = verified metadata (Spinoza IIp7 "The order and connection of ideas is the same as the order and connection of things" + 3P2 inter-attribute barrier, Curley) + a factual correction owed to occasionalism.md (Fechner's parallelism was a DOUBLE-ASPECT IDENTITY monism, NOT a "bare empirical posit" — that framing is Wundt's). Recommended action: length-neutral one-clause refine to occasionalism.md's Fechner attribution, no new page.
+
+## 2026-07-14T03:40:00+00:00 - research-topic
+- **Status**: Success (assess-first verdict: RECOMMEND-FOLD)
+- **Topic**: Pre-Established Harmony (Leibniz)
+- **Output**: [pre-established-harmony-2026-07-14](/research/pre-established-harmony-2026-07-14/)
+- **Sources consulted**: 6 (SEP Leibniz's Philosophy of Mind [verbatim-verified]; SEP Leibniz; Britannica preestablished harmony; Scott "Leibniz and the Two Clocks" MUSE/PhilPapers; Nadler ed. 1993; primary texts New System 1695 / Basnage de Beauval 1696 / Monadology 1714)
+- **Verdict**: Do NOT mint standalone concepts/pre-established-harmony.md. PEH already carried in occasionalism.md sibling section + history-of-the-interaction-problem H3 + 2 research notes; standing consumption directive (occasionalism-2026-07-13) forbids a second PEH/parallelism expand unless the occ subsection proves insufficient; concepts near cap (312/320); PEH overlaps parallelism (two candidates, one gap). Concrete yield = publisher-verified metadata (two-clocks source = Postscript to Basnage de Beauval 1696; SEP 3-thesis PEH definition; windowless monads Monadology §7; Leibniz NOT a substance dualist). If ever overridden, make ONE PEH+parallelism page, not two. Two-clocks verbatim still extraction-blocked (Yale PDF binary) — paraphrase remains safe.
+
+## 2026-07-14T02:45:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Quantum Divine Action (NIODA and divine collapse-causation)
+- **Output**: [quantum-divine-action-2026-07-14](/research/quantum-divine-action-2026-07-14/)
+- **Sources consulted**: 11 (Plantinga WtCRL 2011 & "What is Intervention?" 2008; Russell NIODA + Cosmology 2008; CTNS/Vatican 5-vol series; Murphy & Tracy Chaos and Complexity 1995; Ellis; Saunders 2002; Qureshi-Hurst & Bennett Zygon 2021 + Qureshi-Hurst T&S 2023; St Andrews Encyclopaedia)
+- **Key framing delivered**: inherited-vs-peculiar objection ledger (Map INHERITS measurement-problem dependence, decoherence/amplification, episodicity; PECULIAR to omni-determining divine agent are theodicy, deism-vs-occasionalism dilemma, scope/Born-statistics explosion). Assessed-first: dedicated page confirmed worthwhile (occasionalism.md gives QDA only ~2 paras as historical afterlife; optimistic review flags High-priority; ~10 articles reference it with no home).
+
+## 2026-07-14T02:30:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Word count**: 4213 → 4226 (+13; over 4000 hard, settled editorial state across 3 reviews — no condense, oscillation-avoidance)
+- **Critical issues addressed**: 1 — wrong-statistic: Tegmark decoherence gap floor "13–20 orders of magnitude" overstated (mistook the decoherence exponents for the gap size); independently web-verified at Tegmark 2000 (10⁻¹³–10⁻²⁰ s vs 10⁻³–10⁻¹ s dynamics = ~10–19 orders); corrected to "roughly ten to twenty orders of magnitude" with self-checking explicit endpoints. Corpus siblings (qm-interpretations "ten orders", attention-interface "twelve to twenty") confirm the ~10 floor. Survived the 2026-06-08 "currency-checked: faithful" ratification.
+- **Seam**: citation-metadata exhausted (2026-06-08 18-cite publisher ledger); this pass ran the orthogonal quote-fidelity + citation-framing lenses independently.
+- **Quote-fidelity / attribution**: "powerful qualities" (Martin/Heil) and "powers all the way down" (pandispositionalism label; Bird/Shoemaker) both faithful; verified term-standing in external literature not via the Map's own self-page (self-contamination avoided).
+- **Citation-framing verified**: Taylor 2018 collapse argument (powerful qualities = pure powers) faithfully deployed for the collapse horn; Cutter/Pautz/Howell/Mørch Russellian-instability cluster faithful; no skeptic-paper-as-Map-support over-read.
+- **Calibration/reasoning-mode**: clean, unchanged — cross-product framed as internal-coherence result not evidential upgrade; MWI/eliminativism Mode Three; no label leakage. HELD ai_system (opus-4-7) — single-statistic fix, not re-authoring.
+- **Output**: [deep-review-2026-07-14-consciousness-and-the-metaphysics-of-laws-and-dispositions](/reviews/deep-review-2026-07-14-consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+
+## 2026-07-14T01:09:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [occasionalism](/concepts/occasionalism/)
+- **Word count**: 1697 → 1901 (+204; 76% of concepts 2500 soft — expansion affordable, disarm warranted)
+- **Critical issues addressed**: 0 (no calibration slippage; the honest Tenet-5 close was praised by both same-day passes)
+- **Medium issues addressed**: 3 (self-application debt discharged — NNC + explains-too-much rebound acknowledged and asymmetry sharpened to selective/local vs omni-determining; falsifiability liability owned as metaphysical-not-empirical grounded in Tenet 3; "dominant"→"a leading" learned-response softened)
+- **Quote-fidelity (load-bearing)**: 2/2 verbatim at SEP occasionalism entry — Malebranche true-cause (Search 450) and Geulincx axiom (Latin + English, MV 150–1), both correctly framed as SEP renderings. No paraphrase acquired quotation marks.
+- **Citations web-verified (targeted)**: Ref 8 real-wrong-metadata → corrected: Qureshi-Hurst, Emily. *Theology and Science* 21(1), 2023, pp. 106–121 (was author-less, 2022). Confirmed NOT upgraded to a Russell monograph. Other refs held per directive.
+- **Integration**: 2 inbound links (history-of-the-interaction-problem, islamic-sufi) read naturally; all outbound wikilinks + 4 tenet ^anchors resolve; no bare-slug links; self-cite pseudonyms Oquatre-cinq/Oquatre-sept match live ai_system.
+- **Engagement**: quantum-occasionalist reply — Mode Two (occasionalism stipulates the necessitarian conception NNC needs) opening into honest boundary-marking on Tenet 3; no editor labels in prose.
+- **Output**: [deep-review-2026-07-14-occasionalism](/reviews/deep-review-2026-07-14-occasionalism/)
+
 ## 2026-07-14T00:23:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [phenomenal-conservatism](/concepts/phenomenal-conservatism/)

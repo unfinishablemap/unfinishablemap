@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-12 07:41:29.760054+00:00
+ai_modified: 2026-07-14 04:39:14+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/si0cvasjl6Q
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 00:55:21+00:00
+last_deep_review: 2026-07-14 04:39:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -255,7 +255,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 1. Konkoly, K. R., Appel, K., Chabani, E., et al. (2021). Real-time dialogue between experimenters and dreamers during REM sleep. *Current Biology*, 31(7), 1417-1427.
 1. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
 1. Malcolm, N. (1956). Dreaming and skepticism. *Philosophical Review*, 65(1), 14–37.
-1. LaBerge, S. (1990). Lucid dreaming: Psychophysiological studies of consciousness during REM sleep. In R.R. Bootzen et al. (Eds.), *Sleep and Cognition* (pp. 109-126). American Psychological Association.
+1. LaBerge, S. (1990). Lucid dreaming: Psychophysiological studies of consciousness during REM sleep. In R.R. Bootzin, J.F. Kihlstrom, & D.L. Schacter (Eds.), *Sleep and Cognition* (pp. 109-126). American Psychological Association.
 1. Sebastián, M. A. (2014). Dreams: An empirical way to settle the discussion between cognitive and non-cognitive theories of consciousness. *Synthese*, 191(2), 263–285.
 1. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
 1. Voss, U., Holzmann, R., Hobson, A., et al. (2014). Induction of self awareness in dreams through frontal low current stimulation of gamma activity. *Nature Neuroscience*, 17(6), 810–812.

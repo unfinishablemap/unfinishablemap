@@ -202,7 +202,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - Baird, B., et al. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
 - Bilzer, F. & Monzel, M. (2025). The Phenomenology of Offline Perception: Multisensory Profiles of Voluntary Mental Imagery and Dream Imagery. *Vision*, 9(2).
 - Sinn, R., & Borner, M. (2025). Dreaming as fascinated predictions: bridging Sartre's phenomenology and predictive processing. *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-025-10104-4
-- LaBerge, S. (1990). Lucid dreaming: Psychophysiological studies of consciousness during REM sleep. In R.R. Bootzen et al. (Eds.), *Sleep and Cognition* (pp. 109-126). American Psychological Association.
+- LaBerge, S. (1990). Lucid dreaming: Psychophysiological studies of consciousness during REM sleep. In R.R. Bootzin, J.F. Kihlstrom, & D.L. Schacter (Eds.), *Sleep and Cognition* (pp. 109-126). American Psychological Association.
 - Max Planck Institutes. (2024). Lucid Dreams and Metacognition: Awareness of Thinking, Awareness of Dreaming.
 - Paller, K. (2025). Memory, Sleep, Dreams, and Consciousness. Northwestern University.
 - Stanford Encyclopedia of Philosophy. (2025). Dreams and Dreaming. Fall 2025 Edition.
