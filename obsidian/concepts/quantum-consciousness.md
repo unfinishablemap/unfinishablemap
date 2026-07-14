@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-07-12T22:26:22+00:00
+ai_modified: 2026-07-14T15:33:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ See [[decoherence]] for comprehensive analysis. Two distinct questions arise, an
 
 This is a separate challenge. Even granting that the measurement problem leaves room for consciousness, specific mechanisms must maintain the right kind of quantum states in biological conditions. The decoherence objection targets this empirical claim directly.
 
-**Biology exploits quantum effects, but the neural case is unproven.** Avian magnetoreception, photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [[quantum-biology-and-neural-mechanisms|Quantum biology]] establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [[decoherence-and-macroscopic-superposition]] for the experimental evidence that the quantum-classical boundary keeps receding.
+**Biology exploits quantum effects, but the neural case is unproven.** [[radical-pair-magnetoreception|Avian magnetoreception]], photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [[quantum-biology-and-neural-mechanisms|Quantum biology]] establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [[decoherence-and-macroscopic-superposition]] for the experimental evidence that the quantum-classical boundary keeps receding.
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the timing gap because each event is instantaneous. However, even discrete mechanisms require coherent quantum states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]] for five distinct mechanisms spanning this spectrum.
 

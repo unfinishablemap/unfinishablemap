@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-14T15:33:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ Radical pair mechanisms have the firmest experimental foundation among quantum n
 
 ### What Makes Radical Pairs Compelling
 
-**Established biological precedent.** Avian magnetoreception—how migratory birds navigate using Earth's magnetic field—operates through quantum spin coherence in cryptochrome proteins. Birds don't merely detect magnetic fields; they see them, overlaying directional information onto visual perception. This isn't theoretical; it's working biology.
+**Established biological precedent.** [[radical-pair-magnetoreception|Avian magnetoreception]]—how migratory birds navigate using Earth's magnetic field—operates through quantum spin coherence in cryptochrome proteins. Birds don't merely detect magnetic fields; they see them, overlaying directional information onto visual perception. This isn't theoretical; it's working biology.
 
 **Microsecond coherence times.** Spin-correlated radical pairs maintain coherence for microseconds (10⁻⁶ seconds), seven orders of magnitude longer than Tegmark's femtosecond estimates for ion channels. Importantly, Tegmark's objection concerned quantum *computation*—the maintenance of superpositions that affect neural processing—not quantum effects per se. Radical pairs demonstrate that biologically relevant quantum coherence can occur at neural timescales, though whether they participate in computation remains unestablished.
 

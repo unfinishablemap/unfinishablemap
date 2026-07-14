@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 15:33 - cross-review (integration verification)
+- **Status**: Success
+- **Target**: [[concepts/radical-pair-magnetoreception]] (cross-review successor to same-session create)
+- **Verification (1) — four existing inbound mentions consistent with precedent-not-licence calibration**: [[concepts/quantum-zeno-effect]] (authoritative Zeno home; Kominis-first + computational-not-experimental correct), [[topics/quantum-biology-and-neural-consciousness]] (CALIBRATED survey; already precedent-not-licence; not edited), [[topics/evolutionary-case-for-quantum-neural-effects]] (does not re-derive Denton/Zeno; conditional framing intact), [[concepts/quantum-biology-and-neural-mechanisms]] (line 72 reads "modelled/computational precedent, three orders below neural" — the previously-owed Denton over-read is already fixed). No mention re-derives or over-reads the Denton/Zeno material the canonical page + quantum-zeno-effect own.
+- **Verification (2) — reciprocal inbound links added** where the mention was substantive: [[topics/comparing-quantum-consciousness-mechanisms]] (link on "magnetoreception" + co-located "demonstration"→"modelling" calibration fix, since the linked page's thesis is that Denton is modelling not demonstration), [[topics/neural-implementation-specifics]] (link on "Avian magnetoreception" in the "current leader" section), [[concepts/quantum-consciousness]] (link on "Avian magnetoreception", line 124), [[topics/quantum-holism-and-phenomenal-unity]] (link on "Avian magnetoreception", line 128).
+- **Skipped**: [[concepts/timing-gap-problem]] — mention is about the Zeno cryptochrome precedent (already routes to [[quantum-zeno-effect]] for the calibrated framing) rather than restating the magnetoreception mechanism; conservative no-link.
+- **Attribution**: link-adds only — ai_system HELD on all four touched files; ai_modified bumped to 2026-07-14T15:33:28+00:00 (≤ real UTC, no future-dating). Canonical page and calibrated survey untouched. Four load-bearing calibration sub-claims not weakened.
+- **Remaining (not fixed; out of conservative link-scope)**: [[topics/neural-implementation-specifics]] carries residual Denton over-reads ("demonstrated" L55; "10⁻⁶ s (demonstrated) | Verified" L187; "quantum coherence can occur at neural timescales" L61, in tension with the canonical "three orders of magnitude below neural"). Candidate for a future deep-review, not a link-pass.
+
 ## 2026-07-14 15:30 - expand-topic
 - **Status**: Success
 - **Topic**: Radical-Pair Magnetoreception (canonical phenomenon page)
