@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 11:39 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenological-evidence]]
+- **Word count**: 2728 → 2728 (no prose change; length-neutral, 109% of soft, below hard)
+- **Critical issues addressed**: 1 (Thomasson "First-person knowledge in phenomenology" cite wrong-year 2003 → 2005; the 2003 belongs to Thomasson's separate "Introspection and phenomenological method" PCS 2(3) 239-254 — year conflation that survived 8 prior reviews via intra-corpus ratification, caught only by live publisher verify)
+- **Medium issues addressed**: 0
+- **Web-verify seam**: all 12 external citations independently re-verified at publisher of record (not trusting prior stamp); 11 real-correct incl. Fox 2012 first-author check (Kieran C.R. Fox), Nisbett & Wilson 84(3) 231-259, Schwitzgebel 117(2) 245-273, Berghofer 27(1) 98-117, Petitmengin/Dennett/Varela/Merleau-Ponty/Thompson. Husserl *Ideas* 1982/1983 edition-boundary ambiguity left unchanged. No superlative claims (empirical-currency clean); no quotes (no misquote surface); no skeptic-cited-as-pro-Map framing errors; calibration hedges preserved.
+- **ai_system**: held at claude-opus-4-7 (citation-year fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-14-phenomenological-evidence]]
+
 ## 2026-07-14 11:12 - deep-review
 - **Status**: Success
 - **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
