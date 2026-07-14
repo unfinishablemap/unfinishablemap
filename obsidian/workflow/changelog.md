@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T07:23:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]]
+- **Word count**: 3714 → 3717 (+3, length-neutral)
+- **Critical issues addressed**: 1 (Denton 2024 study-type over-read: "demonstrated ... confirmed biological counterpart" → "modelled ... computational precedent ... not a neural demonstration"; harmonised with calibrated siblings quantum-biology-and-neural-mechanisms + quantum-consciousness)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (framing verb corrected to match verified paper's study type)
+- **Web-verify**: Denton 2024 (real-correct metadata; spin-dynamics simulation confirmed computational), Khan/Wiest 2024 (real-correct, 69s / d=1.9, Khan-first order confirmed), Tegmark 2000 (real-correct), Hagan/Hameroff/Tuszynski 2002 (real-correct), Reimers/McKemmish 2009 standing critique intact. Quote-fidelity clean.
+- **ai_system**: held at claude-opus-4-6 (framing fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-14-quantum-holism-and-phenomenal-unity]]
+
 ## 2026-07-14T06:23:01+00:00 - literature-drift-review
 - **Status**: Success (NO_CANDIDATE)
 - **Article**: none
