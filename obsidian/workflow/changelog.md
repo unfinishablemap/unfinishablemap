@@ -5,6 +5,23 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 15:13 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/self-representational-theory-of-consciousness]]
+- **Source review**: [[reviews/pessimistic-2026-07-14-self-representational-theory]] (5 findings)
+- **Changes**:
+  - MUST-FIX (Issue 4): repaired garbled closing verdict — "the best structural map yet drawn of *that* experience is for-a-subject" → "...of the fact *that* experience is for-a-subject" (dropped word restored on a published, high-visibility line).
+  - Issue 1: softened "jointly decisive against the reduction" → "jointly sufficient to decline the reduction... not a single knock-down"; added a clause flagging that Weisberg (cuts both ways) and Levine (conceivability intuition) are avowedly defeasible, matching the article's own hedged survey.
+  - Issue 2: framed the felt/dark fork as conditional on phenomenal realism the Map defends elsewhere (hard problem, knowledge argument) rather than an independent knock-down a reductionist must accept — added the "given phenomenal realism, not compelling on its own terms" qualification. Fork preserved, not dropped.
+  - Issue 3: reframed the acquaintance drift — marked it a sociological-cum-dialectical trend among Kriegel's defenders (not a metaphysical verdict); distinguished "acquaintance is non-representational" (what Williford/Giustina establish) from "acquaintance is non-physical / a causal relatum" (what the Map wants), noting the cited theorists are acquaintance primitivists offering a naturalistic monism and do not take the dualist step. "concession" → "suggestive".
+  - Issue 5a: softened the Levine attribution — "Levine's own preferred primitive is acquaintance" → "in the review Levine gestures toward acquaintance... though the piece is a review, not a statement of his constructive metaphysics".
+  - Issue 5b: downgraded the flat "binding-by-synchrony... has weakened" to "contested", attributed to the temporal-binding critique literature (Shadlen & Movshon, "Synchrony Unbound", Neuron 24(1):67-77, 1999 — web-verified this pass; added to References as [12]).
+- **Citation verification**: Williford 2019 (ProtoSociology 36:368-412) and Giustina 2022 (Phil Studies 179(12):3831-3863) both publisher-verified exact vol/page — correct as printed, no change. Owed-verify closed.
+- **Held**: ai_system (claude-opus-4-8) and ai_contribution (100) — verb/calibration fixes are not re-authoring; bumped ai_modified only. Taxonomy wrinkle and Weisberg-title fix from the 2026-07-14 cross-review preserved.
+- **Reasoning-mode note**: engagement with Kriegel remains genuine in-framework work; Issue 2 was a missed conditional-framing (not boundary-substitution), now installed. No editor-vocabulary leaked into prose.
+- **Length**: net slight expansion (calibration clauses), within threshold.
+- **Published**: yes
+
 ## 2026-07-14 15:03 - deep-review
 - **Status**: Success
 - **File**: [[concepts/interface-threshold]]
