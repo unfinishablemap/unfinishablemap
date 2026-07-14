@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14T02:45:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Quantum Divine Action (NIODA and divine collapse-causation)
+- **Output**: [[research/quantum-divine-action-2026-07-14]]
+- **Sources consulted**: 11 (Plantinga WtCRL 2011 & "What is Intervention?" 2008; Russell NIODA + Cosmology 2008; CTNS/Vatican 5-vol series; Murphy & Tracy Chaos and Complexity 1995; Ellis; Saunders 2002; Qureshi-Hurst & Bennett Zygon 2021 + Qureshi-Hurst T&S 2023; St Andrews Encyclopaedia)
+- **Key framing delivered**: inherited-vs-peculiar objection ledger (Map INHERITS measurement-problem dependence, decoherence/amplification, episodicity; PECULIAR to omni-determining divine agent are theodicy, deism-vs-occasionalism dilemma, scope/Born-statistics explosion). Assessed-first: dedicated page confirmed worthwhile (occasionalism.md gives QDA only ~2 paras as historical afterlife; optimistic review flags High-priority; ~10 articles reference it with no home).
+
 ## 2026-07-14T02:30:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
