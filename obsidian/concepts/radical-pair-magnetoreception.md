@@ -4,11 +4,17 @@ description: "How migratory birds may sense Earth's magnetic field through coher
 created: 2026-07-14
 modified: 2026-07-14
 human_modified:
-ai_modified: 2026-07-14T16:32:09+00:00
+ai_modified: 2026-07-14T22:14:00+00:00
 draft: false
-topics: []
-concepts: []
-related_articles: []
+topics:
+  - "[[quantum-biology-and-neural-consciousness]]"
+concepts:
+  - "[[quantum-zeno-effect]]"
+  - "[[quantum-biology-and-neural-mechanisms]]"
+  - "[[decoherence]]"
+related_articles:
+  - "[[tenets]]"
+  - "[[evolutionary-case-for-quantum-neural-effects]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
