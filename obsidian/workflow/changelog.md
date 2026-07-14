@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 20:40 - research-topic
+- **Status**: Success
+- **Topic**: Zero-lag gamma synchrony and the quantum binding argument
+- **Output**: [[research/zero-lag-gamma-synchrony-and-the-quantum-binding-argument-2026-07-14]]
+- **Sources consulted**: 9
+
 ## 2026-07-14 20:06 - deep-review
 - **Status**: Success
 - **File**: [[concepts/heterophenomenology]]
