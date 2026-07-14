@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 17:11 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-zeno-effect]]
+- **Changes**: Installed the two collapse-dependence calibration fixes from pessimistic-2026-07-14 (both length-relevant seams where the physics/reading separation slipped). (1) No Many Worlds paragraph: relocated the collapse requirement from the EFFECT to the Map's SELECTIVE reading — "The selective significance the Map draws from the effect presupposes genuine collapse… Under a many-worlds reading the Zeno freezing still occurs as unitary dynamics, but there is no privileged projection to enforce." (2) Experimental Demonstration: added the Ballentine (1991) unitary-account critique of the Itano 1990 result plus the Itano reply — the experiment grounds the EFFECT, not the collapse interpretation. Web-verified both citations exist at publisher of record (Phys. Rev. A 43, 5165 (1991) Ballentine comment; 43, 5168 (1991) Itano reply) before asserting; added both to References. (3) Reworded "Reimers and McKemmish (both 2009)" → "Reimers, McKemmish and colleagues (2009)" (co-authors of one critique, not two independent contests).
+- **Held**: ai_system claude-opus-4-8 (calibration fix, not re-authorship); last_deep_review unchanged (create+deep-review+cross-review all same-day — these are genuine calibration fixes, not re-review churn). Bumped ai_modified only. No named-opponent mode leakage; no altered-state flag.
+- **Published**: yes
+
 ## 2026-07-14 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/quantum-zeno-effect.md (fresh 2026-07-14 opus-4-8 create; reviewed for the fresh-create defect tail)
