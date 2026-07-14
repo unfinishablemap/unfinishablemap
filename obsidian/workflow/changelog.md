@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 15:51 - deep-review
+- **Status**: Success (converged no-op after real citation scrutiny)
+- **File**: [[concepts/buddhism-and-dualism]]
+- **Word count**: 2559 → 2559 (no change; 102% of soft, under hard)
+- **Focus**: Owed publisher-of-record citation web-verify. First full 3-state per-cite ledger of all 8 citations (only Fox 2012 had ever been publisher-verified across the six prior review files).
+- **Citations verified real-correct**: Fox 2012 (PLOS ONE 7(9) e45370; currency-swept clean, no post-2015 supersession), Siderits 2007 (Hackett), Zahavi 2005 (MIT Press; attribution faithful, not a strawman), Thompson 2007 (Harvard/Belknap), Garfield 1995 (Oxford, diacritics confirmed), Albahari 2006 (Palgrave), SEP mind-indian-buddhism + ethics-indian-buddhism (both live). Zero metadata errors, zero fabrications.
+- **Critical issues addressed**: 0 (calibration slippage was already fixed 2026-05-31 and remains fixed; anattā honestly framed as compatibility argument, not proof of dualism)
+- **Attribution**: last_deep_review stamped 2026-07-14; ai_modified HELD (2026-06-04) and ai_system HELD (claude-opus-4-6) — no re-authoring.
+- **Reasoning-mode**: Madhyamaka emptiness engagement = Mode Three (framework-boundary marking), honest; no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-14-buddhism-and-dualism]]
+
 ## 2026-07-14 15:33 - cross-review (integration verification)
 - **Status**: Success
 - **Target**: [[concepts/radical-pair-magnetoreception]] (cross-review successor to same-session create)

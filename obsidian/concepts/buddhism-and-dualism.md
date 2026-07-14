@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-06-14T12:03:40+00:00
+last_deep_review: 2026-07-14T15:51:19+00:00
 ---
 
 Buddhism rejects a permanent self while taking consciousness seriously. The Unfinishable Map commits to irreducible consciousness interacting with matter. Are these positions compatible? The answer depends on distinguishing what each actually claims—and what each actually denies.
