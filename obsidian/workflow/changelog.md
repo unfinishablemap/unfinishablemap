@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 16:32 - deep-review
+- **Status**: Success
+- **File**: [[concepts/radical-pair-magnetoreception]]
+- **Word count**: 1718 → 1718 (no change; 69% of soft threshold, well under)
+- **Focus**: First review of fresh 2026-07-14 create. Mandatory §2.4 publisher-of-record web-verify of all 11 references.
+- **Citations verified real-correct (full 3-state ledger)**: Schulten/Swenberg/Weller 1978, Ritz/Adem/Schulten 2000, Ritz et al. 2004, Engels et al. 2014, Leberecht et al. 2023, Gauger et al. 2011, Hore & Mouritsen 2016 ("is still unclear" quote verbatim), Kominis 2008/2009 (arXiv:0806.0739 + PRE 80 056115), Denton et al. 2024 (Nat. Commun. 15, 10823 confirmed via PMC; computational not experimental). Zero metadata errors, zero fabrications. Denton double-calibration (not-first, not-experiment) handled correctly in body.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — coherence/neural timescale gap overstated as "three orders of magnitude" in 3 places; corrected to "two orders" (tens-of-µs ≈ 10⁻⁵ s vs ms ≈ 10⁻³ s) and made lead's coherence figure consistent with body ("tens of microseconds"). No slippage; no length change.
+- **Integration**: not an orphan — 4 outbound wikilinks (all targets verified) + 8 inbound content links.
+- **Output**: [[reviews/deep-review-2026-07-14-radical-pair-magnetoreception]]
+
 ## 2026-07-14 15:51 - deep-review
 - **Status**: Success (converged no-op after real citation scrutiny)
 - **File**: [[concepts/buddhism-and-dualism]]

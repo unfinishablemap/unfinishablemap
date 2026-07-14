@@ -4,7 +4,7 @@ description: "How migratory birds may sense Earth's magnetic field through coher
 created: 2026-07-14
 modified: 2026-07-14
 human_modified:
-ai_modified: 2026-07-14T15:29:00+00:00
+ai_modified: 2026-07-14T16:32:09+00:00
 draft: false
 topics: []
 concepts: []
@@ -14,11 +14,12 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-14
 last_curated:
+last_deep_review: 2026-07-14T16:32:09+00:00
 ---
 
 Radical-pair magnetoreception (RPM) is the leading model of how night-migratory birds sense the direction of Earth's magnetic field. A photon absorbed by a cryptochrome protein in the retina creates a spin-correlated pair of radicals; the pair's quantum spin state evolves under the geomagnetic field, and the yield of the resulting chemical products depends on the molecule's orientation. It is a chemical compass built from coherent electron spins.
 
-The single point this page exists to fix, and which downstream articles should link here for rather than re-derive: **RPM is a real, behaviourally-attested, mechanistically-still-debated warm-temperature quantum effect in biology — a precedent for the mechanism category (warm quantum effects *can* occur in living systems), not a licence for any neural deployment of them.** Four features enforce that limit, each developed below: it is a specialised photoactivated sensor in one molecule, not a neural structure; its coherence lasts microseconds, roughly three orders of magnitude below the millisecond timescales of neural signalling; the quantum-Zeno framing of radical-pair dynamics was Iannis Kominis's (2008), not a recent discovery; and the most cited computational demonstration of Zeno-enabled magnetosensitivity (Denton et al. 2024) is a model, not an experiment.
+The single point this page exists to fix, and which downstream articles should link here for rather than re-derive: **RPM is a real, behaviourally-attested, mechanistically-still-debated warm-temperature quantum effect in biology — a precedent for the mechanism category (warm quantum effects *can* occur in living systems), not a licence for any neural deployment of them.** Four features enforce that limit, each developed below: it is a specialised photoactivated sensor in one molecule, not a neural structure; its coherence lasts tens of microseconds, roughly two orders of magnitude below the millisecond timescales of neural signalling; the quantum-Zeno framing of radical-pair dynamics was Iannis Kominis's (2008), not a recent discovery; and the most cited computational demonstration of Zeno-enabled magnetosensitivity (Denton et al. 2024) is a model, not an experiment.
 
 ## The Mechanism
 
@@ -46,7 +47,7 @@ RPM is best supported for the directional *compass*. A separate magnetite-based 
 
 The quantum-biology interest in RPM is a timescale problem. For the observed compass precision to hold, the radical pair's superposition must survive long enough for the field to bias the spin dynamics before recombination. Gauger, Rieper, Morton, Benjamin and Vedral (2011) estimated that superposition and entanglement must be sustained for **at least tens of microseconds** at avian body temperature — longer than the best comparable man-made molecular systems achieved at the time. This is the crisp statement of the "warm, wet, noisy" puzzle: quantum coherence persisting in biology where naive thermal reasoning says it should not.
 
-That figure — tens of microseconds — is the number downstream Map articles should quote, and it is also the number that grounds the transfer limit. Neural signalling operates on millisecond timescales, roughly three orders of magnitude slower. A coherence budget that suffices for a photochemical sensor says nothing about superpositions persisting through a neural decision window.
+That figure — tens of microseconds — is the number downstream Map articles should quote, and it is also the number that grounds the transfer limit. Neural signalling operates on millisecond timescales, roughly two orders of magnitude slower. A coherence budget that suffices for a photochemical sensor says nothing about superpositions persisting through a neural decision window.
 
 ## The Quantum-Zeno Sub-Framing
 
@@ -66,7 +67,7 @@ Hore and Mouritsen's authoritative 2016 review states the position plainly: the 
 
 RPM matters to the Map on two tenets, and on both it cuts in a calibrating rather than a licensing direction.
 
-**Minimal Quantum Interaction (Tenet 2).** RPM is the Map's headline warm-biology precedent: a genuine quantum effect that produces a macroscopic biological output at body temperature through coherent spin dynamics rather than energetic dominance — the `50 µT ≪ kT` structure that mirrors the tenet's "smallest possible non-physical influence." That resonance is exactly why the precedent is attractive. Yet the same details bound it. RPM is a photoactivated sensor in one molecule; its coherence sits about three orders of magnitude below neural timescales; it is silent on neural superpositions. The Map reads it as a precedent for the mechanism category, not as support for any consciousness-interface proposal. Transferring a specialised retinal sensor's coherence to deep-brain, non-photonic structures would be an unearned leap.
+**Minimal Quantum Interaction (Tenet 2).** RPM is the Map's headline warm-biology precedent: a genuine quantum effect that produces a macroscopic biological output at body temperature through coherent spin dynamics rather than energetic dominance — the `50 µT ≪ kT` structure that mirrors the tenet's "smallest possible non-physical influence." That resonance is exactly why the precedent is attractive. Yet the same details bound it. RPM is a photoactivated sensor in one molecule; its coherence sits about two orders of magnitude below neural timescales; it is silent on neural superpositions. The Map reads it as a precedent for the mechanism category, not as support for any consciousness-interface proposal. Transferring a specialised retinal sensor's coherence to deep-brain, non-photonic structures would be an unearned leap.
 
 **Occam's Razor Has Limits (Tenet 5).** RPM is the standard refutation of the false parsimony that "warm biology must be classical." It shows a simplicity assumption can be wrong when knowledge is incomplete. The Map carries that lesson with a symmetric caution: the radiofrequency-replication dispute shows the evidence base is itself unsettled, so the anti-parsimony point must not be overdrawn either. The honest position tracks the evidence in both directions.
 
