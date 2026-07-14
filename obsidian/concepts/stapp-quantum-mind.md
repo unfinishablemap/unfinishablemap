@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-20T00:00:00+00:00
+ai_modified: 2026-07-14T10:53:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -49,7 +49,7 @@ The model has several notable features. It explains why controlling attention fe
 
 Stapp builds on von Neumann's formulation of quantum mechanics, placing the observer-observed boundary within the brain—at neural processes where consciousness interfaces with quantum indeterminacies. His model is the most sophisticated successor to the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]], retaining von Neumann's mathematical framework while specifying a concrete mechanism.
 
-The quantum Zeno effect is well-established: when a quantum system is observed repeatedly at short intervals, its evolution is suppressed. Each observation collapses the superposition; rapid observations keep the system effectively stationary.
+The [[quantum-zeno-effect]] is well-established: when a quantum system is observed repeatedly at short intervals, its evolution is suppressed. Each observation collapses the superposition; rapid observations keep the system effectively stationary. (The dedicated page also covers the anti-Zeno regime, in which frequent measurement can instead accelerate evolution—a caveat any neural-observation account must confront.)
 
 Stapp proposes that neural firing patterns exist in superposition until "observed" by attention:
 

@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 10:53 - expand-topic
+- **Status**: Success
+- **Topic**: The Quantum Zeno Effect — canonical mechanism/definition page (physics-first; Misra-Sudarshan 1977, Itano 1990, anti-Zeno, calibrated Denton/Kominis precedent)
+- **Output**: [[concepts/quantum-zeno-effect]]
+- **Word count**: 1936 (concepts ok vs 2500 soft)
+- **Based on research**: yes — [[research/quantum-zeno-effect-2026-07-14]]
+- **Integration**: inbound links added from topics/motor-control-quantum-zeno, concepts/stapp-quantum-mind, concepts/timing-gap-problem (Denton "demonstrated"→"modelled/computational" over-claim also fixed there); P2 cross-review queued; P3 Denton-sweep task updated (timing-gap-problem locus done)
+
 ## 2026-07-14 10:45 - expand-topic
 - **Status**: Success
 - **Topic**: Quantum Divine Action (NIODA / divine collapse-causation) — the Map's closest live rival

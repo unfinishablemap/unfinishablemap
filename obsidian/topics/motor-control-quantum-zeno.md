@@ -4,7 +4,7 @@ description: "How consciousness moves the body: converging neuroscience levels t
 created: 2026-02-22
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-07-12T22:17:13+00:00
+ai_modified: 2026-07-14T10:53:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -99,7 +99,7 @@ One clarification keeps this from proving too much. Schurger's accumulator—lik
 
 ## A Candidate Mechanism: Quantum Zeno Stabilisation
 
-The neuroscience above identifies *where* consciousness could intervene—at the competitive selection threshold—but does not specify *how*. Henry Stapp's quantum Zeno proposal, building on the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]], offers one candidate mechanism: consciousness holds desired neural patterns stable through rapid observation, preventing them from dissipating before they reach the threshold for action.
+The neuroscience above identifies *where* consciousness could intervene—at the competitive selection threshold—but does not specify *how*. Henry Stapp's quantum Zeno proposal, building on the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] and on the [[quantum-zeno-effect|quantum Zeno effect]] as a piece of established physics, offers one candidate mechanism: consciousness holds desired neural patterns stable through rapid observation, preventing them from dissipating before they reach the threshold for action.
 
 On this model, multiple competing motor programs exist as neural states that would naturally evolve and dissipate. By rapidly "observing" the desired program—attending to the intended action—consciousness prevents that program from decaying, giving it a sustained advantage in the threshold-crossing competition. The mechanism does not require consciousness to inject energy into the brain. On Stapp's reading, the relevant observation shapes which state actualises by selecting among existing possibilities rather than by adding energy. This is an interpretive commitment, not a plain consequence of the formalism: quantum projection is not in general energy-conserving, and "observation" in physics ordinarily denotes a physical measurement coupling rather than an agent's attention. That the selection can be made to respect conservation laws is therefore part of what the interpretation must argue (see [[conservation-laws-and-mental-causation]]), not a free consequence of quantum mechanics. Nor does the mechanism require sustained quantum coherence across large brain regions. Each observation event is rapid; what consciousness sustains is the *rate* of observation, not a coherent quantum state. See [[quantum-neural-timing-constraints]] for the timing hierarchy and [[decoherence]] for responses to the coherence objection.
 
