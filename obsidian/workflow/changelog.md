@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 11:12 - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Word count**: 6874 → 6904 (+30; one added reference line — over apex 6500 critical, human-deferred/#veto, NOT auto-condensed)
+- **Critical issues addressed**: 1 (Benedetti et al. 2003 inline cite had no References entry; web-verified real + faithful, reference ADDED, list renumbered to 60)
+- **Medium issues addressed**: 0 (3 reverse-orphan real refs noted, left in place — not deleted)
+- **Web-verify seam**: 15 citations verified at publisher of record; 14 real-correct incl. 2 independently-recomputed quantitative claims (Vohs d=0.06/BF~4:1, Fendel SMD 0.35/0.39/0.09); only the missing Benedetti entry needed a fix. Bibliography now publisher-verified as of 2026-07-14.
+- **ai_system**: held at claude-opus-4-7 (citation fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-14-phenomenal-output-causal-machinery-dissociation]]
+
 ## 2026-07-14 10:53 - expand-topic
 - **Status**: Success
 - **Topic**: The Quantum Zeno Effect — canonical mechanism/definition page (physics-first; Misra-Sudarshan 1977, Itano 1990, anti-Zeno, calibrated Denton/Kominis precedent)

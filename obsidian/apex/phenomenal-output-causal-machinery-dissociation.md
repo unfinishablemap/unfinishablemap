@@ -3,8 +3,8 @@ title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
 modified: 2026-06-02
 human_modified: null
-ai_modified: 2026-06-19T10:34:41.633189+00:00
-last_deep_review: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-14T11:12:20+00:00
+last_deep_review: 2026-07-14T11:12:20+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — one of the catalogue's most developed instances of the cumulative-convergence argument."
 topics:
@@ -234,60 +234,61 @@ The unifying picture: phenomenal output and causal machinery are dissociable acr
 
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 2. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
-3. Bergson, H. (1908). "Le souvenir du présent et la fausse reconnaissance." *Revue Philosophique*.
-4. Block, N. (1995). "On a confusion about a function of consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247.
-5. Bruce, V. & Young, A. (1986). "Understanding face recognition." *British Journal of Psychology*, 77(3), 305–327.
-6. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
-7. Chalmers, D. J. (1995). "Facing up to the problem of consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
-8. Cipolotti, L., Spanò, B., Healy, C., et al. (2016). "Inhibition processes are dissociable and lateralized in human prefrontal cortex." *Neuropsychologia*, 93(A), 1–12.
-9. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
-10. Cleary, A. M. (2008). "Recognition Memory, Familiarity, and Déjà Vu Experiences." *Current Directions in Psychological Science*, 17(5), 353–357.
-11. Cleary, A. M. & Claxton, A. B. (2018). "Déjà vu: An illusion of prediction." *Psychological Science*, 29(4), 635–644.
-12. Cleary, A. M., Huebert, A. M., McNeely-White, K. L., & Spahr, K. S. (2019). "A postdictive bias associated with déjà vu." *Psychonomic Bulletin & Review*, 26(4), 1433–1439.
-13. Cleary, A. M. & Schwartz, B. L. (2021). *Tip-of-the-Tongue States and Related Phenomena*. Cambridge University Press.
-14. Cutini, S. & Bonato, M. (2012). "Subitizing and visual short-term memory in human and non-human species: a common shared system?" *Frontiers in Psychology*, 3, 469.
-15. Dang, J. et al. (2021). "A multilab replication of the ego depletion effect." *Social Psychological and Personality Science*, 12(1), 14–24.
-16. De Brigard, F. (2024). "Episodic memory without autonoetic consciousness." *Philosophical Transactions of the Royal Society B*, 379(1913), 20230410.
-17. Dehaene, S. & Naccache, L. (2001). "Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework." *Cognition*, 79(1–2), 1–37.
-18. Desantis, A., Hughes, G., & Waszak, F. (2012). "Intentional binding is driven by the mere presence of an action and not by motor prediction." *PLoS ONE*, 7(1), e29557.
-19. Fellows, L. K. & Farah, M. J. (2005). "Is anterior cingulate cortex necessary for cognitive control?" *Brain*, 128(4), 788–796.
-20. Fendel, J. C., Tiersch, C., Sölder, P., Gaab, J., & Schmidt, S. (2025). "Effects of open-label placebos across populations and outcomes: an updated systematic review and meta-analysis of randomized controlled trials." *Scientific Reports*, 15, 29940.
-21. Fodor, J. A. (1983). *The Modularity of Mind*. MIT Press.
-22. Gardiner, J. M. (1988). "Functional aspects of recollective experience." *Memory & Cognition*, 16(4), 309–313.
-23. Hagger, M. S. et al. (2016). "A multilab preregistered replication of the ego-depletion effect." *Perspectives on Psychological Science*, 11(4), 546–573.
-24. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
-25. Howard, E. E., Edwards, S. G., & Bayliss, A. P. (2016). "Physical and mental effort disrupts the implicit sense of agency." *Cognition*, 157, 114–125.
-26. Hróbjartsson, A. & Gøtzsche, P. C. (2010). "Placebo interventions for all clinical conditions." *Cochrane Database of Systematic Reviews*, (1), CD003974.
-27. Inzlicht, M. & Schmeichel, B. J. (2012). "What is ego depletion? Toward a mechanistic revision of the resource model of self-control." *Perspectives on Psychological Science*, 7(5), 450–463.
-28. Inzlicht, M., Werner, K. M., Briskin, J. L., & Roberts, B. W. (2021). "Integrating models of self-regulation." *Annual Review of Psychology*, 72, 319–345.
-29. Koriat, A. (2000). "The feeling of knowing: Some metatheoretical implications for consciousness and control." *Consciousness and Cognition*, 9(2), 149–171.
-30. Kurzban, R., Duckworth, A., Kable, J. W., & Myers, J. (2013). "An opportunity cost model of subjective effort and task performance." *Behavioral and Brain Sciences*, 36(6), 661–679.
-31. Lau, H. (2022). *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience*. Oxford University Press.
-32. Levine, J. (1983). "Materialism and qualia: The explanatory gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
-33. Liu, W., Zheng, P., Huang, S., & Cicchini, G. M. (2020). "Subitizing, unlike estimation, does not process sets in parallel." *Scientific Reports*, 10, 15689.
-34. Marr, D. (1982). *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*. W. H. Freeman.
-35. Naccache, L. (2018). "Why and how access consciousness can account for phenomenal consciousness." *Philosophical Transactions of the Royal Society B*, 373(1755), 20170357.
-36. Naccache, L., Dehaene, S., Cohen, L., et al. (2005). "Effortless control: Executive attention and conscious feeling of mental effort are dissociable." *Neuropsychologia*, 43(9), 1318–1328.
-37. Nisbett, R. E. & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231–259.
-38. Piazza, M., Fumarola, A., Chinello, A., & Melcher, D. (2011). "Subitizing reflects visuo-spatial object individuation capacity." *Cognition*, 121(1), 147–153.
-39. Pitt, D. (2004). "The phenomenology of cognition, or, what is it like to think that P?" *Philosophy and Phenomenological Research*, 69(1), 1–36.
-40. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
-41. Pratte, M. S. & Rouder, J. N. (2012). "Assessing the dissociability of recollection and familiarity in recognition memory." *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 38(6), 1591–1607.
-42. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). "Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference." *Neuroscience of Consciousness*, 2021(1), niab018.
-43. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). "Autonoesis and episodicity: Perspectives from philosophy of memory." *WIREs Cognitive Science*, 15(6), e1665.
-44. Schwartz, B. L. (1999). "Sparkling at the end of the tongue: The etiology of tip-of-the-tongue phenomenology." *Psychonomic Bulletin & Review*, 6(3), 379–393.
-45. Schwengerer, L. (2019). "Self-Knowledge in a Predictive Processing Framework." *Review of Philosophy and Psychology*, 10(3), 563–585.
-46. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-47. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
-48. Strawson, G. (1994). *Mental Reality*. MIT Press.
-49. Thompson, V. A., Prowse Turner, J. A., & Pennycook, G. (2011). "Intuition, reason, and metacognition." *Cognitive Psychology*, 63(3), 107–140.
-50. Trick, L. M. & Pylyshyn, Z. W. (1994). "Why are small and large numbers enumerated differently?" *Psychological Review*, 101(1), 80–102.
-51. Tulving, E. (1985). "Memory and consciousness." *Canadian Psychology*, 26(1), 1–12.
-52. Vohs, K. D. et al. (2021). "A multisite preregistered paradigmatic test of the ego-depletion effect." *Psychological Science*, 32(10), 1566–1581.
-53. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
-54. Wen, W. & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
-55. Westbrook, A. et al. (2020). "Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work." *Science*, 367(6484), 1362–1366.
-56. Wixted, J. T. (2007). "Dual-process theory and signal-detection theory of recognition memory." *Psychological Review*, 114(1), 152–176.
-57. Wixted, J. T. & Mickes, L. (2010). "A continuous dual-process model of remember/know judgments." *Psychological Review*, 117(4), 1025–1054.
-58. Southgate, A. & Oquatre-sept, C. (2026-05-09). Memory Anomalies. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-anomalies/
-59. Southgate, A. & Oquatre-sept, C. (2026-05-08). Empirical Phenomena of Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/
+3. Benedetti, F., Pollo, A., Lopiano, L., Lanotte, M., Vighetti, S., & Rainero, I. (2003). "Conscious expectation and unconscious conditioning in analgesic, motor, and hormonal placebo/nocebo responses." *Journal of Neuroscience*, 23(10), 4315–4323.
+4. Bergson, H. (1908). "Le souvenir du présent et la fausse reconnaissance." *Revue Philosophique*.
+5. Block, N. (1995). "On a confusion about a function of consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247.
+6. Bruce, V. & Young, A. (1986). "Understanding face recognition." *British Journal of Psychology*, 77(3), 305–327.
+7. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+8. Chalmers, D. J. (1995). "Facing up to the problem of consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
+9. Cipolotti, L., Spanò, B., Healy, C., et al. (2016). "Inhibition processes are dissociable and lateralized in human prefrontal cortex." *Neuropsychologia*, 93(A), 1–12.
+10. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
+11. Cleary, A. M. (2008). "Recognition Memory, Familiarity, and Déjà Vu Experiences." *Current Directions in Psychological Science*, 17(5), 353–357.
+12. Cleary, A. M. & Claxton, A. B. (2018). "Déjà vu: An illusion of prediction." *Psychological Science*, 29(4), 635–644.
+13. Cleary, A. M., Huebert, A. M., McNeely-White, K. L., & Spahr, K. S. (2019). "A postdictive bias associated with déjà vu." *Psychonomic Bulletin & Review*, 26(4), 1433–1439.
+14. Cleary, A. M. & Schwartz, B. L. (2021). *Tip-of-the-Tongue States and Related Phenomena*. Cambridge University Press.
+15. Cutini, S. & Bonato, M. (2012). "Subitizing and visual short-term memory in human and non-human species: a common shared system?" *Frontiers in Psychology*, 3, 469.
+16. Dang, J. et al. (2021). "A multilab replication of the ego depletion effect." *Social Psychological and Personality Science*, 12(1), 14–24.
+17. De Brigard, F. (2024). "Episodic memory without autonoetic consciousness." *Philosophical Transactions of the Royal Society B*, 379(1913), 20230410.
+18. Dehaene, S. & Naccache, L. (2001). "Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework." *Cognition*, 79(1–2), 1–37.
+19. Desantis, A., Hughes, G., & Waszak, F. (2012). "Intentional binding is driven by the mere presence of an action and not by motor prediction." *PLoS ONE*, 7(1), e29557.
+20. Fellows, L. K. & Farah, M. J. (2005). "Is anterior cingulate cortex necessary for cognitive control?" *Brain*, 128(4), 788–796.
+21. Fendel, J. C., Tiersch, C., Sölder, P., Gaab, J., & Schmidt, S. (2025). "Effects of open-label placebos across populations and outcomes: an updated systematic review and meta-analysis of randomized controlled trials." *Scientific Reports*, 15, 29940.
+22. Fodor, J. A. (1983). *The Modularity of Mind*. MIT Press.
+23. Gardiner, J. M. (1988). "Functional aspects of recollective experience." *Memory & Cognition*, 16(4), 309–313.
+24. Hagger, M. S. et al. (2016). "A multilab preregistered replication of the ego-depletion effect." *Perspectives on Psychological Science*, 11(4), 546–573.
+25. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
+26. Howard, E. E., Edwards, S. G., & Bayliss, A. P. (2016). "Physical and mental effort disrupts the implicit sense of agency." *Cognition*, 157, 114–125.
+27. Hróbjartsson, A. & Gøtzsche, P. C. (2010). "Placebo interventions for all clinical conditions." *Cochrane Database of Systematic Reviews*, (1), CD003974.
+28. Inzlicht, M. & Schmeichel, B. J. (2012). "What is ego depletion? Toward a mechanistic revision of the resource model of self-control." *Perspectives on Psychological Science*, 7(5), 450–463.
+29. Inzlicht, M., Werner, K. M., Briskin, J. L., & Roberts, B. W. (2021). "Integrating models of self-regulation." *Annual Review of Psychology*, 72, 319–345.
+30. Koriat, A. (2000). "The feeling of knowing: Some metatheoretical implications for consciousness and control." *Consciousness and Cognition*, 9(2), 149–171.
+31. Kurzban, R., Duckworth, A., Kable, J. W., & Myers, J. (2013). "An opportunity cost model of subjective effort and task performance." *Behavioral and Brain Sciences*, 36(6), 661–679.
+32. Lau, H. (2022). *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience*. Oxford University Press.
+33. Levine, J. (1983). "Materialism and qualia: The explanatory gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
+34. Liu, W., Zheng, P., Huang, S., & Cicchini, G. M. (2020). "Subitizing, unlike estimation, does not process sets in parallel." *Scientific Reports*, 10, 15689.
+35. Marr, D. (1982). *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*. W. H. Freeman.
+36. Naccache, L. (2018). "Why and how access consciousness can account for phenomenal consciousness." *Philosophical Transactions of the Royal Society B*, 373(1755), 20170357.
+37. Naccache, L., Dehaene, S., Cohen, L., et al. (2005). "Effortless control: Executive attention and conscious feeling of mental effort are dissociable." *Neuropsychologia*, 43(9), 1318–1328.
+38. Nisbett, R. E. & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231–259.
+39. Piazza, M., Fumarola, A., Chinello, A., & Melcher, D. (2011). "Subitizing reflects visuo-spatial object individuation capacity." *Cognition*, 121(1), 147–153.
+40. Pitt, D. (2004). "The phenomenology of cognition, or, what is it like to think that P?" *Philosophy and Phenomenological Research*, 69(1), 1–36.
+41. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
+42. Pratte, M. S. & Rouder, J. N. (2012). "Assessing the dissociability of recollection and familiarity in recognition memory." *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 38(6), 1591–1607.
+43. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). "Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference." *Neuroscience of Consciousness*, 2021(1), niab018.
+44. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). "Autonoesis and episodicity: Perspectives from philosophy of memory." *WIREs Cognitive Science*, 15(6), e1665.
+45. Schwartz, B. L. (1999). "Sparkling at the end of the tongue: The etiology of tip-of-the-tongue phenomenology." *Psychonomic Bulletin & Review*, 6(3), 379–393.
+46. Schwengerer, L. (2019). "Self-Knowledge in a Predictive Processing Framework." *Review of Philosophy and Psychology*, 10(3), 563–585.
+47. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+48. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
+49. Strawson, G. (1994). *Mental Reality*. MIT Press.
+50. Thompson, V. A., Prowse Turner, J. A., & Pennycook, G. (2011). "Intuition, reason, and metacognition." *Cognitive Psychology*, 63(3), 107–140.
+51. Trick, L. M. & Pylyshyn, Z. W. (1994). "Why are small and large numbers enumerated differently?" *Psychological Review*, 101(1), 80–102.
+52. Tulving, E. (1985). "Memory and consciousness." *Canadian Psychology*, 26(1), 1–12.
+53. Vohs, K. D. et al. (2021). "A multisite preregistered paradigmatic test of the ego-depletion effect." *Psychological Science*, 32(10), 1566–1581.
+54. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
+55. Wen, W. & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
+56. Westbrook, A. et al. (2020). "Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work." *Science*, 367(6484), 1362–1366.
+57. Wixted, J. T. (2007). "Dual-process theory and signal-detection theory of recognition memory." *Psychological Review*, 114(1), 152–176.
+58. Wixted, J. T. & Mickes, L. (2010). "A continuous dual-process model of remember/know judgments." *Psychological Review*, 117(4), 1025–1054.
+59. Southgate, A. & Oquatre-sept, C. (2026-05-09). Memory Anomalies. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-anomalies/
+60. Southgate, A. & Oquatre-sept, C. (2026-05-08). Empirical Phenomena of Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/
