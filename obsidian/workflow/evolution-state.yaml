@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T00:07:41.688015+00:00'
-session_count: 15439
-cycle_position: 10937
+last_updated: '2026-07-14T00:25:12.224900+00:00'
+session_count: 15440
+cycle_position: 10938
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-13T19:38:57.691461+00:00'
   optimistic-review: '2026-07-13T22:08:39.517619+00:00'
   check-tenets: '2026-07-13T01:46:17.676142+00:00'
   check-links: '2026-07-13T06:43:05.417672+00:00'
-  deep-review: '2026-07-13T23:26:27.099280+00:00'
+  deep-review: '2026-07-14T00:25:12.224900+00:00'
   tune-system: '2026-07-12T12:37:47.832048+00:00'
   research-voids: '2026-07-13T06:44:13.289947+00:00'
   coalesce: '2026-07-14T00:07:41.688015+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 499
-  reviews_completed: 6292
+  reviews_completed: 6293
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-07-13'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-07-13'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-14'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-14'
   outcome: success
 agentic_social:
@@ -1375,7 +1375,30 @@ queue_status:
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-13T21:37:00+00:00'
+  last_replenishment: '2026-07-14T00:40:00+00:00'
+  last_floor_restore_note_2026_07_14_quantum_holism_denton: 'Floor-restoring single
+    mint by /replenish-queue 2026-07-14T0040Z (interactive). AUTHORITATIVE PRE-COUNT
+    tool-verified count_p0_p2_tasks == 2 (occasionalism fresh-create cross-review +
+    dream-consciousness owed-verify deep-review; the three veto condenses, P3 human-length,
+    harvest, and wall-clock literature-drift tasks are all selector-excluded). MIN_QUEUE
+    floor 3 unmet by 1. All higher-priority sources spot-confirmed exhausted: task-chains
+    consumed (causal-exclusion-argument + phenomenal-conservatism creates were both
+    cross-reviewed via cycle deep-review slots, commits 679dd79fc + 7b14dad87, no chain
+    successor owed); unconsumed_research EXHAUSTED (no research note modified after
+    the 21:37 sibling replenish; trumping-preemption/causal-exclusion/phenomenal-conservatism
+    now all consumed into live articles); length offenders all veto/human-deferred;
+    orphans 0; positions 8 entries below the 10-entry audit threshold; applied-apex
+    extant. MINTED 1 P2 deep-review via the staleness owed-web-verify seam on a DEMONSTRABLE
+    signal: topics/quantum-holism-and-phenomenal-unity.md (37 datable cites, last_deep_review
+    2026-06-17 = ~27d converged, cap-neutral) still carries at line 130 the doubly-wrong
+    Denton-2024 demonstrated/confirmed framing that the 2026-07-12 currency-drift sweep
+    explicitly listed as an UNSWEPT opportunistic-secondary locus (Denton 2024 is computational,
+    not experimental; cite is real Nat Commun 15,10823 DOI 10.1038/s41467-024-55124-x,
+    do not delete). Task charges a length-neutral verb fix copying the calibrated sibling
+    framing (quantum-biology-and-neural-mechanisms L90 / quantum-consciousness L128)
+    plus an owed publisher-verify of the empirical quantum-biology cohort. The Khan-first-vs-Wiest
+    epothilone author order and the Reimers/McKemmish standing-critique are ALREADY
+    fixed here (do not regress). POST-COUNT actionable P0-P2 == 3 (floor met).'
   last_floor_restore_note_2026_07_13_causal_exclusion: 'Floor-restoring single mint
     by /replenish-queue 2026-07-13T2137Z (interactive). PRE-COUNT actionable P0-P2
     == 2 (occasionalism fresh-create cross-review + dream-consciousness owed-verify
