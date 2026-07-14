@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 10:10 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/self-representational-theory-of-consciousness.md (fresh 2026-07-13 create; not previously pessimistically reviewed)
+- **Output**: [[reviews/pessimistic-2026-07-14-self-representational-theory]]
+
+
 ## 2026-07-14T09:45:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/active-reboot]]
