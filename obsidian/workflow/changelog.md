@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 23:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/out-of-body-experiences]]
+- **Word count**: 3090 → 3089 (−1, length-neutral)
+- **Lens**: verbatim-quote fidelity (untested; metadata ledger already verified 06-03/06-22)
+- **Critical issues addressed**: 1 (Ehrsson 2007 misquote — quotation marks + p.1048 cite wrapped a paraphrase "perceptual illusion of being located outside one's physical body" that does not appear in the paper; corrected to the verbatim span "center of awareness, or 'self,' is located outside their physical bodies", publisher-verified at neuro.ki.se/ehrsson)
+- **Verbatim-verified real-correct**: Blanke et al. 2002 (Nature 419:269) all three patient quotes ("sinking into the bed", "falling from a height", "I see myself lying in bed, from above, but I only see my legs and lower trunk"); Lenggenhager 2007 "Video ergo sum" title
+- **Medium issues**: 1 noted, not changed (L67 "load-bearing" intensifier — borderline-defensible structural metaphor, left to avoid oscillation)
+- **ai_system held** at claude-opus-4-7 (targeted fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-14-out-of-body-experiences]]
+
 ## 2026-07-14 22:25 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/terminal-lucidity-and-filter-transmission-theory]] — well-calibrated overall (constrain-vs-establish discipline explicit; altered-state symmetry audit passes all 3 checks; Popperian unfalsifiability cost named openly). One genuine finding: load-bearing recent citation Tollock et al. (2025) is a GSA conference abstract (Innovation in Aging 9 Suppl_2, igaf122.2914) framed as a landmark peer-reviewed prospective study without flagging source type (self-penalizing, not over-claiming). Wrote 1 P3 refine-draft task.
