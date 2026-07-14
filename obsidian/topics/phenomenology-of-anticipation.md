@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-06-04T17:15:53+00:00
+last_deep_review: 2026-07-14T18:49:28+00:00
 ---
 
 Every moment of conscious experience leans forward. When you hear the opening notes of a familiar melody, something in your experience already reaches toward the next note—not as a thought about what will come, but as a felt directedness woven into the present itself. Husserl called this *protention*: the forward-directed structure of temporal consciousness that makes each moment pregnant with what it anticipates. Unlike [[prospective-memory|episodic future thinking]], which deliberately constructs scenarios, protention operates pre-reflectively, shaping the texture of present experience before reflection begins. The Unfinishable Map argues that protention reveals something essential about the relationship between consciousness and time: minds don't merely register the present and then project forward—they inhabit a present already structured by anticipation.
