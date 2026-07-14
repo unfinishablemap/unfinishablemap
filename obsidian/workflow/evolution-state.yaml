@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-14T17:13:01.694317+00:00'
-session_count: 15527
-cycle_position: 10975
+last_updated: '2026-07-14T17:21:49.329064+00:00'
+session_count: 15528
+cycle_position: 10976
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-14T17:08:56.723857+00:00'
   optimistic-review: '2026-07-14T13:09:20.644824+00:00'
   check-tenets: '2026-07-14T05:47:25.062661+00:00'
   check-links: '2026-07-14T05:08:11.438389+00:00'
-  deep-review: '2026-07-14T16:50:41.344920+00:00'
+  deep-review: '2026-07-14T17:21:49.329064+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-14T05:21:22.357571+00:00'
   coalesce: '2026-07-14T14:43:20.980619+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 504
-  reviews_completed: 6316
+  reviews_completed: 6317
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-14'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-14'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-14'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-14'
   outcome: success
 agentic_social:
@@ -1338,12 +1338,43 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 47
+  p2_tasks: 48
   p3_tasks: 16
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-14T17:00:59+00:00'
-  last_replenishment_prev: '2026-07-14T16:24:38+00:00'
+  last_replenishment: '2026-07-14T17:23:10+00:00'
+  last_replenishment_prev: '2026-07-14T17:00:59+00:00'
+  last_floor_restore_note_2026_07_14o_returning_attention: 'Floor-restoring single
+    mint by /replenish-queue 2026-07-14T17:23Z. Tool-verified count_p0_p2_tasks ==
+    2 (open P2s = the-quantitative-comprehension-void + narrative-void owed-web-verify
+    deep-reviews, both still open; the sleep-consciousness-void mint DRAINED at commit
+    5b7da6267 HEAD). Three veto condenses selector-excluded; P3 refines + human-length
+    + NEEDS-HUMAN + harvest + literature-drift do not restore the loop floor. Floor
+    3 unmet by 1; restores 2 -> 3. SOURCE = owed-web-verify deep-review seam (staleness).
+    Unconsumed_research lane RE-VERIFIED DRY (no note newer than fully-consumed radical-pair-magnetoreception;
+    pre-established-harmony RECOMMEND-FOLD, psychophysical-parallelism ALREADY-COVERED;
+    all other recent notes map to live concepts pages). Chains satisfied. TARGET =
+    topics/phenomenology-of-returning-attention.md: ai_system claude-opus-4-6 (OLDEST
+    cohort), last_deep_review == ai_modified 2026-06-11 (~33d converged, no drift),
+    5 dedicated reviews (02-15, 03-16, 04-16, 05-27, 06-11) all PRE web-verify discipline
+    (never per-cite verified), ai_contribution 100, body 2571w via analyze_length (topics
+    soft 3000 / hard 4000 -- ok status, ~1400w headroom, length-safe, no condense confound).
+    Chosen over the higher-cite quantum candidates (forward-in-time-conscious-selection
+    19-cite, the-reverse-inference 10-cite) because THEIR cite backbones are quantum-collapse
+    (Stapp/Chalmers-McQueen/Donadi/Neven) already worked in the fortnight quantum sweeps
+    -- LOW marginal yield -- whereas the contemplative-attention / mind-wandering neuroscience
+    cluster (Hasenkamp 2012 NeuroImage, Brefczynski-Lewis 2007 PNAS, Lutz 2008 TiCS,
+    Schooler 2002 TiCS, Smallwood-Schooler 2015 Annu Rev Psychol) is never-swept and
+    orthogonal to both open void P2s (number-cognition/phil-math; memory-selection/choice-blindness)
+    and to the AST concept cohort. NOT the File-target of any open task (Active-region
+    grep == 0), NOT a File veto, no commit today touches it, EOF clean (ends on Smallwood-Schooler
+    2015 reference). Length-neutral deep-review, web-verify every citation 3-state at
+    publisher (title+venue both directions), honour evidential-status-discipline (return-of-attention
+    phenomenology is a Tenet-1 exhibit, do not launder meditation-fMRI evidence into
+    a metaphysical proof). FIFO-placed at BOTTOM of Active Tasks (selector still picks
+    the-quantitative-comprehension-void first). POST-MINT count restored to 3 (floor
+    met). Documented replenish-at-floor alternation (unfin_loop_steady_state), expected
+    to continue until a new research note reopens the unconsumed lane.'
   last_floor_restore_note_2026_07_14n_narrative_void: 'Floor-restoring single mint
     by /replenish-queue 2026-07-14T17:00Z. AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2_tasks
     == 2 (open P2s = sleep-consciousness-void + the-quantitative-comprehension-void
