@@ -106,6 +106,13 @@ evidence-backed cadence/threshold/weight adjustment warranted.
   under `queue_status`, or add a rolling-cap to the replenish note-writer so it
   self-prunes.
 
+### literature-drift-review is permanently stalled (pattern/filename mismatch)
+- **Observed** (surfaced by the 2026-07-14 literature-drift NO_CANDIDATE run, independently verified): `audit_triple.literature_drift.active_research_sections` = `[psychedelics, animal-cognition, animal-consciousness, iit, quantum-biology, consciousness-measurement, neural-complexity]`, but only **3** topic files match any pattern (`animal-consciousness`, `psychedelics-and-the-filter-model`, `quantum-biology-and-neural-consciousness`). Four patterns — `animal-cognition`, `iit`, `consciousness-measurement`, `neural-complexity` — match **zero** topic files (e.g. `consciousness-and-integrated-information` contains no `iit` substring; measurement articles use `measurement`). All 3 matchable files are already in `recently_audited`, so no candidate can ever surface again. `audit_triple.last_audit_date` has been frozen at **2026-06-23** (`total_audits: 4`) since.
+- **Proposed change**: broaden `active_research_sections` to substrings that actually match filenames — `quantum` (surfaces ~18 topic files vs 1 today), `integrated-information` (matches `consciousness-and-integrated-information`), `measurement`; and/or make `recently_audited` age out by date (e.g. 30-day cooldown) rather than persist indefinitely.
+- **Rationale**: restores a currently-dead weekly audit that catches empirical-citation drift — the exact defect class this session's deep-reviews kept finding.
+- **Risk**: Medium — broadening to `quantum` makes ~18 articles eligible for weekly WebSearch audits (a cost increase), so a human should confirm the intended scope/cost before applying. Not auto-applied (config/behavior change beyond tune-system's Tier-1 scope, and it alters which articles incur WebSearch cost).
+- **To approve**: edit `audit_triple.literature_drift.active_research_sections` in `evolution-state.yaml` to filename-matching substrings, or teach the selector to age `recently_audited`.
+
 ## Items for Human Review (Tier 3)
 
 ### Outer-review pipeline paused this session (environmental)
