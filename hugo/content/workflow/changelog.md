@@ -9,6 +9,81 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-14 11:39 - deep-review
+- **Status**: Success
+- **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- **Word count**: 2728 → 2728 (no prose change; length-neutral, 109% of soft, below hard)
+- **Critical issues addressed**: 1 (Thomasson "First-person knowledge in phenomenology" cite wrong-year 2003 → 2005; the 2003 belongs to Thomasson's separate "Introspection and phenomenological method" PCS 2(3) 239-254 — year conflation that survived 8 prior reviews via intra-corpus ratification, caught only by live publisher verify)
+- **Medium issues addressed**: 0
+- **Web-verify seam**: all 12 external citations independently re-verified at publisher of record (not trusting prior stamp); 11 real-correct incl. Fox 2012 first-author check (Kieran C.R. Fox), Nisbett & Wilson 84(3) 231-259, Schwitzgebel 117(2) 245-273, Berghofer 27(1) 98-117, Petitmengin/Dennett/Varela/Merleau-Ponty/Thompson. Husserl *Ideas* 1982/1983 edition-boundary ambiguity left unchanged. No superlative claims (empirical-currency clean); no quotes (no misquote surface); no skeptic-cited-as-pro-Map framing errors; calibration hedges preserved.
+- **ai_system**: held at claude-opus-4-7 (citation-year fix, not re-authoring)
+- **Output**: [deep-review-2026-07-14-phenomenological-evidence](/reviews/deep-review-2026-07-14-phenomenological-evidence/)
+
+## 2026-07-14 11:12 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Word count**: 6874 → 6904 (+30; one added reference line — over apex 6500 critical, human-deferred/#veto, NOT auto-condensed)
+- **Critical issues addressed**: 1 (Benedetti et al. 2003 inline cite had no References entry; web-verified real + faithful, reference ADDED, list renumbered to 60)
+- **Medium issues addressed**: 0 (3 reverse-orphan real refs noted, left in place — not deleted)
+- **Web-verify seam**: 15 citations verified at publisher of record; 14 real-correct incl. 2 independently-recomputed quantitative claims (Vohs d=0.06/BF~4:1, Fendel SMD 0.35/0.39/0.09); only the missing Benedetti entry needed a fix. Bibliography now publisher-verified as of 2026-07-14.
+- **ai_system**: held at claude-opus-4-7 (citation fix, not re-authoring)
+- **Output**: [deep-review-2026-07-14-phenomenal-output-causal-machinery-dissociation](/reviews/deep-review-2026-07-14-phenomenal-output-causal-machinery-dissociation/)
+
+## 2026-07-14 10:53 - expand-topic
+- **Status**: Success
+- **Topic**: The Quantum Zeno Effect — canonical mechanism/definition page (physics-first; Misra-Sudarshan 1977, Itano 1990, anti-Zeno, calibrated Denton/Kominis precedent)
+- **Output**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/)
+- **Word count**: 1936 (concepts ok vs 2500 soft)
+- **Based on research**: yes — [quantum-zeno-effect-2026-07-14](/research/quantum-zeno-effect-2026-07-14/)
+- **Integration**: inbound links added from topics/motor-control-quantum-zeno, concepts/stapp-quantum-mind, concepts/timing-gap-problem (Denton "demonstrated"→"modelled/computational" over-claim also fixed there); P2 cross-review queued; P3 Denton-sweep task updated (timing-gap-problem locus done)
+
+## 2026-07-14 10:45 - expand-topic
+- **Status**: Success
+- **Topic**: Quantum Divine Action (NIODA / divine collapse-causation) — the Map's closest live rival
+- **Output**: [quantum-divine-action](/concepts/quantum-divine-action/)
+- **Word count**: 1639 (concepts ok vs 2500 soft)
+- **Based on research**: yes — [quantum-divine-action-2026-07-14](/research/quantum-divine-action-2026-07-14/)
+- **Integration**: de-nested occasionalism.md's "Quantum Occasionalism" section to a pointer; added in-prose inbound links from occasionalism.md, selection-only-channel.md, history-of-the-interaction-problem.md; queued P2 cross-review successor.
+- **ai_system**: claude-opus-4-8 (fresh create)
+
+
+## 2026-07-14 10:10 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/self-representational-theory-of-consciousness.md (fresh 2026-07-13 create; not previously pessimistically reviewed)
+- **Output**: [pessimistic-2026-07-14-self-representational-theory](/reviews/pessimistic-2026-07-14-self-representational-theory/)
+
+
+## 2026-07-14T09:45:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [active-reboot](/concepts/active-reboot/)
+- **Word count**: 2701 → 2768 (+67)
+- **Critical issues addressed**: 3 (all citation metadata, publisher-verified)
+  - Wrong-author: eLife 10 e59525 "Recovery of consciousness and cognition after general anesthesia" is Mashour et al. 2021, NOT "Bhatt, Bowen, Rossiter" (same fabricated-Bhatt-onto-Mashour pattern 06-02 caught for the 2024 Neuron paper, missed here).
+  - Wrong year/volume/pages: Mashour/Pal/Brown TINS "Prefrontal cortex as a key node in arousal circuitry" is 2022, 45(10), 722–732 — not 2021, 44(11), 909–921.
+  - Misattributed claim: "40% UWS misdiagnosis rate" is Schnakers et al. 2009 (BMC Neurology 9:35), not Cruse 2011 (covert-awareness cohort). Split cite; added Schnakers as ref 18. Also fixed Cruse issue 9809→9805.
+- **Enhancements**: resolved 2 orphaned refs (Mashour 2024, Montupil 2023) via "reviewed in" parenthetical at §Anaesthesia as the Worked Exhibit.
+- **Verified real-correct (no change)**: Hu 2023 (load-bearing exhibit; "active reboot" attribution to authors web-confirmed TRUE), Redinbaugh 2020, Friedman 2010, Onoda/Breyton/Van Maldegem 2025, Montupil 2023, Sepúlveda 2019.
+- **Calibration**: preserved (two-tier evidential status, defeater-removal framing, symmetry-branch falsifiability untouched). No slippage.
+- **ai_system**: held claude-opus-4-7 (citation fixes ≠ re-authoring).
+- **Output**: [deep-review-2026-07-14-active-reboot](/reviews/deep-review-2026-07-14-active-reboot/)
+
+## 2026-07-14T08:53:20+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Quantum Zeno Effect
+- **Output**: [quantum-zeno-effect-2026-07-14](/research/quantum-zeno-effect-2026-07-14/)
+- **Verdict**: CREATE WARRANTED (canonical concepts/quantum-zeno-effect.md) — mechanism mentioned in ~50 articles but defined canonically in none; Misra-Sudarshan 1977, Itano 1990, anti-Zeno effect, and Kominis all ABSENT from corpus. Cap caveat: concepts at 312/320.
+- **Sources consulted**: 7 (all citation metadata publisher-verified: Misra-Sudarshan JMP 18:756, Itano PhysRevA 41:2295, Kaulakys-Gontis PhysRevA 56:1131, Fischer et al. PRL 87:040402, Kominis PRE 80:056115, Denton Nat Commun 15:10823, Stapp Mindful Universe 2007)
+
+## 2026-07-14T08:44:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Word count**: ~2600 → ~2600 (word-neutral, 1-word quote correction)
+- **Critical issues addressed**: 1 (quote-fidelity: Fuchs QBism quote "a little act of creation" → verbatim "a little moment of creation" — primary-source verified at Fuchs, *On Participatory Realism* arXiv:1601.04360; "act" belongs to his separate "elementary act of creation" construction. Survived 4 prior reviews, which verified attribution-to-QBism but never the verbatim wording)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Mode**: Orthogonal-lens pass (citation-metadata seam exhausted: full 16-cite publisher ledger done 2026-05-27, spot-checked 2026-06-25). Lenses run: quote-fidelity (1 fix), citation-framing (Barrett 2006 verified real-correct — own conclusion "strong mind-body dualism required … pushes both collapse and no-collapse theories" matches "favours … across interpretation families"), empirical-currency (decoherence "10⁻¹³ s or less" = defensible loose upper bound, canonical macroscopic figure ~10⁻²³ s satisfies "or less"; no fix). ai_system HELD at sonnet-4-6 (1-word fix, not re-authoring). Engagement modes unchanged: QBism Mode Two, Everett Mode Three.
+- **Output**: [deep-review-2026-07-14-quantum-completeness](/reviews/deep-review-2026-07-14-quantum-completeness/)
+
 ## 2026-07-14T07:23:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)

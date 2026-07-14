@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-06-04 13:10:00+00:00
+ai_modified: 2026-07-14 11:39:52+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: First-person experience reports are genuine evidence for consciousn
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 13:10:00+00:00
+last_deep_review: 2026-07-14 11:39:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -236,7 +236,7 @@ Petitmengin, C. (2006). Describing one's subjective experience in the second per
 
 Schwitzgebel, E. (2008). The unreliability of naive introspection. *Philosophical Review*, 117(2), 245-273.
 
-Thomasson, A. L. (2003). First-person knowledge in phenomenology. In D. W. Smith & A. L. Thomasson (Eds.), *Phenomenology and Philosophy of Mind*. Oxford University Press.
+Thomasson, A. L. (2005). First-person knowledge in phenomenology. In D. W. Smith & A. L. Thomasson (Eds.), *Phenomenology and Philosophy of Mind*. Oxford University Press.
 
 Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 

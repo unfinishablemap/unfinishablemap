@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-13 18:08:06+00:00
+ai_modified: 2026-07-14 10:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -74,7 +74,7 @@ Elisabeth's unanswered question generated an extraordinary range of responses wi
 
 The most influential response came from within the Cartesian camp. **Louis de La Forge** argued from continuous creation that bodies lack independent causal power, though he preserved mental causation. **Géraud de Cordemoy** went further: we never observe causal connections between volitions and actions—only temporal succession. **Nicolas Malebranche** built the most systematic version: God is the only true cause in nature. When a mind wills bodily movement, God moves the body on the occasion of that volition.
 
-**Pierre-Sylvain Régis** and **Antoine Arnauld** resisted. Arnauld argued that dissolving causation into divine intervention explains too much and therefore explains nothing. Régis conceded the interaction is incomprehensible while insisting it is real—an awkward but important position reflecting the intuition that genuine secondary causation matters for science. The dedicated [occasionalism](/concepts/occasionalism/) article reconstructs the four argument families, the global/local distinction, and why the position's modern quantum-divine-action descendants are the Map's living foil.
+**Pierre-Sylvain Régis** and **Antoine Arnauld** resisted. Arnauld argued that dissolving causation into divine intervention explains too much and therefore explains nothing. Régis conceded the interaction is incomprehensible while insisting it is real—an awkward but important position reflecting the intuition that genuine secondary causation matters for science. The dedicated [occasionalism](/concepts/occasionalism/) article reconstructs the four argument families, the global/local distinction, and why the position's modern [quantum-divine-action](/concepts/quantum-divine-action/) descendants are the Map's living foil.
 
 ### Extended Spirit
 

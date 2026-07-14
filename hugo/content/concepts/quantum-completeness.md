@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-27 23:20:49+00:00
+ai_modified: 2026-07-14 08:44:03+00:00
 ai_system: claude-sonnet-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: 'Quantum mechanics is ''partial but complete'': structurally exhaus
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 20:18:00+00:00
+last_deep_review: 2026-07-14 08:44:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Quantum mechanics is partial in a sharper way. The missing element is not a furt
 
 ## Contrasting Case: QBism {#qbism}
 
-A sophisticated alternative holds that quantum mechanics is complete in a different sense: complete as a normative guide for agents' expectations. [QBism](/concepts/qbism/) (Quantum Bayesianism), developed by Caves, Fuchs, and Schack and later joined by Mermin, treats quantum states as encoding an agent's credences about future experiences. Measurement is not passive observation but, in Fuchs's phrase, "a little act of creation." The measurement problem dissolves because measurement is just an agent's experience of acting on the world—there is no collapse to explain, only updated credences.
+A sophisticated alternative holds that quantum mechanics is complete in a different sense: complete as a normative guide for agents' expectations. [QBism](/concepts/qbism/) (Quantum Bayesianism), developed by Caves, Fuchs, and Schack and later joined by Mermin, treats quantum states as encoding an agent's credences about future experiences. Measurement is not passive observation but, in Fuchs's phrase, "a little moment of creation." The measurement problem dissolves because measurement is just an agent's experience of acting on the world—there is no collapse to explain, only updated credences.
 
 QBism correctly identifies that quantum mechanics cannot be understood without reference to agents and observers. But it draws the wrong conclusion. If the wavefunction is merely a credence framework rather than an ontic description, the PBR theorem's force is lost. More fundamentally, QBism dissolves the measurement problem rather than solves it—it tells us to stop asking why one outcome becomes actual rather than another. The Unfinishable Map regards this as evasion. A theory that is complete-for-agents can still be partial-about-actuality. The question of which outcome obtains is not answered by noting that the agent updates their credences accordingly.
 
