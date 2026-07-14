@@ -5,6 +5,21 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-14 20:06 - deep-review
+- **Status**: Success
+- **File**: [[concepts/heterophenomenology]]
+- **Word count**: 2864 → 2899 (+35; soft_warning, under hard cap)
+- **Lens**: verbatim quote-fidelity at primary publisher (orthogonal to the 7 prior metadata/stance audits; never run before)
+- **Critical issues addressed**: 2 (quote-fidelity)
+  - Varela 1996 (L86): paraphrase-as-quote → restored verbatim ("no 'theoretical fix' or 'extra ingredient' in nature that can possibly bridge this gap")
+  - Dennett Sherlock Holmes (L58): string unconfirmable at primary publisher (secondary-source only) → de-quoted to article paraphrase
+- **Verified real-correct (no change)**: Nagel 1974 bat quote; Dennett 1991 neutral-path quote (Consciousness Explained p.72)
+- **Medium issues addressed**: 0 (converged core not re-litigated)
+- **Enhancements made**: 2
+- **ai_system**: held at claude-sonnet-4-5 (minor quote fixes, not re-authoring)
+- **Engagement modes** (editor-internal): Dennett = Mixed (Mode One + Mode Three); illusionists = Mode Three
+- **Output**: [[reviews/deep-review-2026-07-14-heterophenomenology]]
+
 ## 2026-07-14 19:44 - deep-review
 - **Status**: Success
 - **File**: [[concepts/bidirectional-interaction]]

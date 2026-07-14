@@ -4,8 +4,8 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-07-12T15:54:00+00:00
-last_deep_review: 2026-06-05T10:52:21+00:00
+ai_modified: 2026-07-14T20:06:29+00:00
+last_deep_review: 2026-07-14T20:06:29+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -55,7 +55,7 @@ The method has three steps:
 
 ### The Sherlock Holmes Analogy
 
-Dennett's analogy is revealing: "Just as it can be an objective fact that Sherlock Holmes resided at 221B Baker St., despite the great detective's fictitious nature, we can treat the subject's introspective report as establishing a set of objective facts about a fictional world."
+Dennett's analogy is revealing. Just as it can be an objective fact within Conan Doyle's fiction that Sherlock Holmes resided at 221B Baker Street—despite the detective's fictitious nature—heterophenomenology treats a subject's introspective report as establishing a set of objective facts about that subject's own fictional world.
 
 Within heterophenomenology, first-person authority establishes *what the subject claims*—the contents of the heterophenomenological world—but not whether those claims correspond to real phenomenal properties. Science grants subjects authority about what they mean but not about whether phenomenology exists.
 
@@ -83,7 +83,7 @@ Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophen
 
 Heterophenomenology rejects mutual constraint. There is no genuine first-person data requiring integration with neuroscience, only third-person data (verbal reports) requiring third-person explanation.
 
-As Varela wrote, "There is no theoretical fix for the absence of a disciplined approach to experience." Heterophenomenology proposes precisely such a theoretical fix: eliminate first-person phenomenology in favor of third-person reports about phenomenology.
+As Varela put it, there is "no 'theoretical fix' or 'extra ingredient' in nature that can possibly bridge this gap"—the remedy he proposed was a disciplined method for investigating experience, not a theory that dispenses with it. Heterophenomenology proposes precisely such a theoretical fix: eliminate first-person phenomenology in favor of third-person reports about phenomenology.
 
 The contrast reveals heterophenomenology's eliminativist tendency. [[neurophenomenology-and-contemplative-neuroscience#advanced-practice|Neurophenomenology]] studies meditators' first-person reports of jhana states, finding they correlate with distinct neural signatures. Heterophenomenology would study only what meditators *say* about jhanas, treating the phenomenology itself as potentially non-existent. The same contrast is treated more briefly in the epistemological register at [[phenomenal-authority-and-first-person-evidence#Methodological Implications|phenomenal authority's "Methodological Implications" section]], which routes the Varela / Dennett disagreement through the layered-authority framework rather than developing the meditator case.
 
