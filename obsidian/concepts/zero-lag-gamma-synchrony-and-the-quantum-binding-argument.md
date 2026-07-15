@@ -20,6 +20,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-14
 last_curated:
+last_deep_review: 2026-07-15T06:25:37+00:00
 ---
 
 Zero-lag gamma synchrony is a real and replicated neuroscience phenomenon: spatially distant cortical populations lock their 30–80 Hz oscillations into near-zero phase difference despite conduction delays of tens of milliseconds. Some proponents of quantum theories of consciousness treat this near-instantaneous long-range synchrony as anomalous for classical brains and therefore as motivation for a non-classical, entanglement-based binding substrate. The honest assessment is more restrained. Mainstream classical neuroscience posed the "how, despite delays?" puzzle and largely answered it, so the phenomenon is not evidence *for* a quantum mechanism. The Map's genuine interest lies in a narrower and more careful place: the residual gap between classical *feature* binding, which the mechanism plausibly serves, and [[#phenomenal-unity|phenomenal unity]] (explained below), which it does not touch.
