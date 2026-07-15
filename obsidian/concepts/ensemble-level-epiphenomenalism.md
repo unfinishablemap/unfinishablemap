@@ -4,8 +4,8 @@ description: "The corridor reading's sharpest open question, refined through hum
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-22T14:25:15+00:00
-last_deep_review: 2026-06-22T14:25:15+00:00
+ai_modified: 2026-07-15T11:20:00+00:00
+last_deep_review: 2026-07-15T11:20:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -49,6 +49,8 @@ The first escape route relocates conscious efficacy off the statistical axis ent
 
 Rated against the evidential-status discipline, the trumping route is **interface-compatible** but explicitly **not interface-discriminating**: it is empirically silent by construction, distinguishable from epiphenomenalism only on the metaphysics of causal structure, not on any measurement. Its honest cost is that it answers the worry by accepting the premise — the ensemble shows nothing — and re-describing what efficacy *is* so that ensemble-invisibility is no longer disqualifying. The full bill, stated plainly: under the corridor-plus-trumping reading the distinction between genuine conscious authorship and outright epiphenomenalism becomes *entirely* metaphysical, with no possible empirical consequence at any scale — "consciousness is a cause" and "consciousness is epiphenomenal" make no predictively distinct claims. The Map adopts this knowingly as a deliberate cost; it is not a difference it has *earned* against the physicalist, only one it has *relocated* off the terrain where the physicalist can contest it. A critic may fairly reply that this dissolves the worry by fiat rather than meeting it on the original terrain; the Map's position is that the original terrain (efficacy = statistical signature) is a physicalist assumption the dualist need not grant — but granting that the price of declining it is predictive indistinguishability.
 
+A subtler internal seam accompanies this cost, developed in [[interventionist-and-counterfactual-dualism]]. The corridor's own per-trial selection — consciousness fixing *which* outcome actualises among genuinely open alternatives — is itself a difference-making act, structurally continuous with the minimum-outside-corridor route and the co-causation family and discontinuous with trumping's difference-making-free authority. Reading that selection through the trumping lens therefore layers two structurally different channels rather than one, a mild tension the Map holds open rather than resolves.
+
 ## The Minimum-Outside-the-Corridor Route
 
 The second escape route bites the first horn of the dilemma deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. The catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum Zeno rate, Chalmers-McQueen Φ-dependent collapse, Penrose-Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting, which recovers standard Born statistics as λ → 0.
@@ -77,6 +79,7 @@ The Map does not resolve the worry here. It states it cleanly, names the two esc
 - [[trumping-preemption]] — The authority-over-trajectories reading that answers the worry off the statistical axis
 - [[delegatory-causation]] — Saad's preemption-of-the-default-causal-profile mechanism, the metaphysical engine of the trumping route
 - [[selection-only-mind-influence]] — Information-theoretic limits on what a single-event selection channel can transfer
+- [[interventionist-and-counterfactual-dualism]] — Why the corridor's own selection is a difference-making channel, in mild tension with layering the trumping route on top
 - [[parapsychology-firewall]] — The complementary edge: the same self-concealment that immunises the Map against spectacular psi is what exposes it to this idleness worry
 - [[epiphenomenalism]] — The classical view this concept is carefully distinguished from
 

@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T11:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ensemble-level-epiphenomenalism]]
+- **Type**: Coherence cross-review vs the 2026-07-15 trumping-preemption + delegatory-causation rewrite (commit 82cfaf43) and the new [[topics/interventionist-and-counterfactual-dualism]].
+- **Verdict**: Already-coherent on the primary axis (the article never framed trumping as an instance-of the quantum-selection channel; it already treats the trumping route and the minimum-outside-corridor route as distinct routes that "trade the same liability back and forth"). One small calibration applied.
+- **Word count**: 1922 → 2017 (+95)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added a 2-sentence, length-neutral acknowledgement to §The Trumping Route that the corridor's own per-trial selection is itself a difference-making act — structurally continuous with co-causation / minimum-outside-corridor, discontinuous with trumping — so layering trumping on the corridor stacks two structurally-different channels; the mild internal tension [[topics/interventionist-and-counterfactual-dualism]] develops)
+- **Cross-links added**: [[interventionist-and-counterfactual-dualism]] (inline + Further Reading; completes the back-link — the interventionist article already linked here)
+- **Quote-fidelity (Q3)**: [[trumping-preemption]] and [[delegatory-causation]] resolve; the article's characterisations ("authorship not frequencies"; "preempts the default causal profile … leaving every empirical regularity intact") match the rewritten current siblings. No stale quotes.
+- **Engagements**: physicalist (efficacy = statistical signature) Mode Three, honest boundary-marking (unchanged); token/type objector Mixed (unchanged). Label-leakage clean.
+- **Held**: ai_system claude-opus-4-7 (original author; calibration does not re-author). Evidential-status ratings unchanged (no slippage). References block unchanged — carried forward the twice-verified publisher-of-record ledger (Saad 2025, Chalmers-McQueen 2022, Maier et al. 2018).
+- **Output**: [[reviews/deep-review-2026-07-15-ensemble-level-epiphenomenalism]]
+
 ## 2026-07-15T11:09:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/constitutive-exclusion]]
