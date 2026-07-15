@@ -19,7 +19,7 @@ description: The argument by Hutto and Myin that no naturalistic theory can expl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-15 16:53:35+00:00
+last_deep_review: 2026-07-14 21:46:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

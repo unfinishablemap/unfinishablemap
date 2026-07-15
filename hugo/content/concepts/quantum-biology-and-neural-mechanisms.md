@@ -142,7 +142,7 @@ A critical distinction: some mechanisms require sustained superposition (Orch OR
 
 The [binding problem](/concepts/binding-problem/) asks how distributed brain processes combine into unified consciousness. Classical mechanisms—gamma synchrony, thalamocortical loops, integrated information—explain correlation without explaining unity. Neurons firing together remain separate neurons. Quantum entanglement provides ontological holism: the whole is prior to parts.
 
-Baum (2024) formalised this: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. The argument remains speculative but crystallises the structural problem.
+Baum (2024) formalised this: [zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/) (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. The argument remains speculative but crystallises the structural problem; the peer-reviewed classical literature (dynamical relaying via a shared hub) in fact reproduces zero-lag synchrony without quantum resources, so the empirical premise is contested.
 
 ## Experimental Convergence
 

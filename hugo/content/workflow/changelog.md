@@ -4,10 +4,80 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-14'
+date: '2026-07-15'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-15 00:08 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Lens**: verbatim-quote fidelity (orthogonal channel the prior 6 reviews never fully ran; metadata web-verify DONE 2026-06-19, refs unchanged → TEST satisfied, not re-litigated)
+- **Word count**: 3063 → 3063 (byte-neutral; punctuation-only)
+- **Critical issues addressed**: 0
+- **Fidelity fixes**: 1 — Russell quote (§Structuralism) colon → semicolon to match *An Outline of Philosophy* (1927), verbatim. Poincaré aesthetic-filtration quote (§Poincaré Phenomenon) web-verified verbatim against Halsted trans. of "Mathematical Creation" (*Science and Method*, 1908) — real-correct, no change.
+- **ai_system**: held at claude-opus-4-6 (punctuation fix, not re-authoring)
+- **Output**: [deep-review-2026-07-15-consciousness-and-mathematics](/reviews/deep-review-2026-07-15-consciousness-and-mathematics/)
+
+## 2026-07-14 23:28 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) (opus-4-6 cohort, ~19d converged; not optimistically reviewed in the recent window)
+- **Verdict**: Strong and well-calibrated — Process Philosopher and Hardline Empiricist personas converge (no evidential-status slippage; simple-organism boundary held "genuinely open", sharp-boundary claim explicitly framework-relative). Citations spot-clean. No refine-draft task written (zero single-article defect).
+- **Uncovered subjects named for harvester**: (1) Consciousness and the Major Evolutionary Transitions (Maynard Smith & Szathmáry) — genuinely uncovered, high-priority; (2) Is "Conscious Being" a Natural Kind? HPC vs the dualist boundary — genuinely uncovered, medium.
+- **Output**: [optimistic-2026-07-14-consciousness-evolution-biology](/reviews/optimistic-2026-07-14-consciousness-evolution-biology/)
+
+## 2026-07-14 23:00 - deep-review
+- **Status**: Success
+- **File**: [out-of-body-experiences](/topics/out-of-body-experiences/)
+- **Word count**: 3090 → 3089 (−1, length-neutral)
+- **Lens**: verbatim-quote fidelity (untested; metadata ledger already verified 06-03/06-22)
+- **Critical issues addressed**: 1 (Ehrsson 2007 misquote — quotation marks + p.1048 cite wrapped a paraphrase "perceptual illusion of being located outside one's physical body" that does not appear in the paper; corrected to the verbatim span "center of awareness, or 'self,' is located outside their physical bodies", publisher-verified at neuro.ki.se/ehrsson)
+- **Verbatim-verified real-correct**: Blanke et al. 2002 (Nature 419:269) all three patient quotes ("sinking into the bed", "falling from a height", "I see myself lying in bed, from above, but I only see my legs and lower trunk"); Lenggenhager 2007 "Video ergo sum" title
+- **Medium issues**: 1 noted, not changed (L67 "load-bearing" intensifier — borderline-defensible structural metaphor, left to avoid oscillation)
+- **ai_system held** at claude-opus-4-7 (targeted fix, not re-authoring)
+- **Output**: [deep-review-2026-07-14-out-of-body-experiences](/reviews/deep-review-2026-07-14-out-of-body-experiences/)
+
+## 2026-07-14 22:25 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — well-calibrated overall (constrain-vs-establish discipline explicit; altered-state symmetry audit passes all 3 checks; Popperian unfalsifiability cost named openly). One genuine finding: load-bearing recent citation Tollock et al. (2025) is a GSA conference abstract (Innovation in Aging 9 Suppl_2, igaf122.2914) framed as a landmark peer-reviewed prospective study without flagging source type (self-penalizing, not over-claiming). Wrote 1 P3 refine-draft task.
+- **Output**: [pessimistic-2026-07-14-terminal-lucidity](/reviews/pessimistic-2026-07-14-terminal-lucidity/)
+
+## 2026-07-14 21:46 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [hard-problem-of-content](/concepts/hard-problem-of-content/)
+- **Word count**: 2187 → 2187 (0)
+- **Lens**: verbatim quote-fidelity (untested orthogonal lens; metadata web-verified 2026-06-01, References unchanged, only post-review change = cross-link accretion so metadata not re-owed)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quote-fidelity ledger**: 4 load-bearing quotes verified real-correct at primary sources (Roberts NDPR ×2; Hutto & Myin *Radicalizing Enactivism* preface p.xv covariance quote — attribution confirmed as direct H&M wording via independent review, NOT a paraphrase; Hutto & Myin *Evolving Enactivism* p.145 ×2 via Thompson NDPR). No fabrication, no misattribution.
+- **Engagement modes**: functionalist reply Mode Two (unsupported-move: normativity as interpreter-projected slides content into eliminativism); Mann–Pain teleosemantic reply Mode Three (boundary, concedes rather than refutes) — both already calibrated in prose, no change.
+- **Frontmatter**: last_deep_review stamped; ai_modified held at HEAD (no content edit); ai_system held (claude-opus-4-7)
+- **Output**: [deep-review-2026-07-14-hard-problem-of-content](/reviews/deep-review-2026-07-14-hard-problem-of-content/)
+
+## 2026-07-14 21:30 - expand-topic
+- **Status**: Success
+- **Topic**: Zero-lag gamma synchrony and the quantum binding argument
+- **Output**: [zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)
+- **Word count**: 1710
+- **Based on research**: yes — [zero-lag-gamma-synchrony-and-the-quantum-binding-argument-2026-07-14](/research/zero-lag-gamma-synchrony-and-the-quantum-binding-argument-2026-07-14/)
+- **Notes**: Calibrated three-layer spine (real phenomenon → classical relay-hub explanation given full weight → narrow contested phenomenal-unity residual). Feature/representational binding kept sharply separate from phenomenal unity. Zero-lag synchrony NOT presented as evidence for a quantum mechanism; Orch OR "exceeds computational models" claim presented as proponents' claim with classical rebuttal. All 9 external citations publisher-verified (Gray 1989, Singer & Gray 1995, Roelfsema 1997, Shadlen-Movshon 1999, Fries 2005/2015, Vicente 2008, Viriyopase 2012, Hameroff-Penrose 2014); the 4 flagged-for-reverify cites (Gray, Singer&Gray, Hameroff-Penrose, Fries 2015) confirmed at primary publishers this session. 2 self-citations (binding-problem, entanglement-binding-hypothesis).
+
+## 2026-07-14 20:49 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [reasons-responsiveness](/concepts/reasons-responsiveness/)
+- **Word count**: ~1780 → ~1780 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Orthogonal-lens pass on cross-link-only drift since 06-05 full citation audit. Wikilink hygiene (both new links resolve; compatibilism reciprocates), Sellars quote byte-identical to 06-05-verified wording, calibration honest (irreducible-vs-derivative + tenet-coherence), style/EOF clean. Stamped last_deep_review only; held ai_modified (2026-07-13T03:33:58) and ai_system (claude-opus-4-5-20251101).
+- **Output**: [deep-review-2026-07-14-reasons-responsiveness](/reviews/deep-review-2026-07-14-reasons-responsiveness/)
+
+## 2026-07-14 20:40 - research-topic
+- **Status**: Success
+- **Topic**: Zero-lag gamma synchrony and the quantum binding argument
+- **Output**: [zero-lag-gamma-synchrony-and-the-quantum-binding-argument-2026-07-14](/research/zero-lag-gamma-synchrony-and-the-quantum-binding-argument-2026-07-14/)
+- **Sources consulted**: 9
 
 ## 2026-07-14 20:06 - deep-review
 - **Status**: Success

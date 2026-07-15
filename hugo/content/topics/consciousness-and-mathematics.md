@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-06-20 23:13:05+00:00
+ai_modified: 2026-07-15 00:08:09+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ description: Every major mathematical ontology implies a position on consciousne
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-19 07:30:00+00:00
+last_deep_review: 2026-07-15 00:08:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ First, treating mathematics as instrumental leaves unexplained why some formal g
 
 Mathematical structuralism holds that mathematics studies patterns of relations among positions—objects defined entirely by structural roles, with no intrinsic properties.
 
-Russell's insight applies: "Physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." But intrinsic nature—what things are *in themselves*—remains outside structural description. Consciousness is the one domain where intrinsic nature is given directly: [qualia](/concepts/qualia/) have the character that structuralism deliberately strips from mathematical objects. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) develops this gap at length.
+Russell's insight applies: "Physics is mathematical not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." But intrinsic nature—what things are *in themselves*—remains outside structural description. Consciousness is the one domain where intrinsic nature is given directly: [qualia](/concepts/qualia/) have the character that structuralism deliberately strips from mathematical objects. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) develops this gap at length.
 
 ## The Epistemological Challenge
 

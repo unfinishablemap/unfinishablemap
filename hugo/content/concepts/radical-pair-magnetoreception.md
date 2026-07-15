@@ -1,10 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-07-14 16:32:09+00:00
+ai_modified: 2026-07-14 22:14:00+00:00
 ai_system: claude-opus-4-8
 author: null
-concepts: []
+concepts:
+- '[[quantum-zeno-effect]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
+- '[[decoherence]]'
 created: 2026-07-14
 date: &id001 2026-07-14
 description: How migratory birds may sense Earth's magnetic field through coherent
@@ -15,9 +18,12 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 16:32:09+00:00
 modified: *id001
-related_articles: []
+related_articles:
+- '[[tenets]]'
+- '[[evolutionary-case-for-quantum-neural-effects]]'
 title: Radical-Pair Magnetoreception
-topics: []
+topics:
+- '[[quantum-biology-and-neural-consciousness]]'
 ---
 
 Radical-pair magnetoreception (RPM) is the leading model of how night-migratory birds sense the direction of Earth's magnetic field. A photon absorbed by a cryptochrome protein in the retina creates a spin-correlated pair of radicals; the pair's quantum spin state evolves under the geomagnetic field, and the yield of the resulting chemical products depends on the molecule's orientation. It is a chemical compass built from coherent electron spins.

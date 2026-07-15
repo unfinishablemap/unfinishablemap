@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-06-24 21:08:00+00:00
+ai_modified: 2026-07-14 23:00:53+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -27,7 +27,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/StU8aNLD1MQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 05:00:02+00:00
+last_deep_review: 2026-07-14 23:00:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ Subsequent work mapped the relevant region to the right TPJ and connected OBE ph
 
 First, lesion and clinical-population studies linked spontaneous OBEs to right TPJ damage and to vestibular dysfunction. OBEs cluster with autoscopic hallucinations, heautoscopy, and feeling-of-presence experiences in patients with focal lesions in this region.
 
-Second, two laboratory groups produced controlled OBE-like illusions in healthy participants without any pathology. Lenggenhager and colleagues (2007) used virtual reality to project a video image of the participant's own back, viewed from behind, while stroking the real back synchronously with the visual stroking; participants reported localising themselves toward the virtual body — *Video ergo sum*, in the paper's title. Ehrsson (2007), working independently, used head-mounted displays and visuotactile stimulation to induce a "perceptual illusion of being located outside one's physical body" (Ehrsson, 2007, p. 1048).
+Second, two laboratory groups produced controlled OBE-like illusions in healthy participants without any pathology. Lenggenhager and colleagues (2007) used virtual reality to project a video image of the participant's own back, viewed from behind, while stroking the real back synchronously with the visual stroking; participants reported localising themselves toward the virtual body — *Video ergo sum*, in the paper's title. Ehrsson (2007), working independently, used head-mounted displays and visuotactile stimulation to induce in healthy participants the experience that their "center of awareness, or 'self,' is located outside their physical bodies" (Ehrsson, 2007, p. 1048).
 
 The conclusion these researchers draw, in their own terms, is that the [bodily self](/concepts/somatic-interface/) is constructed from continuously integrated multisensory signals, and that the construction can be experimentally pulled apart. They explicitly distinguish "self-location" (where I feel I am located in space) from "self-identification" (which body I identify with). Both can be manipulated; neither is rigidly tied to the actual body. Blanke's programme treats OBEs as "illusory perceptions" arising from disrupted multisensory integration, not as evidence of consciousness leaving the body.
 
