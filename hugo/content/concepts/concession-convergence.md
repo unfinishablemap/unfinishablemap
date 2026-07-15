@@ -22,7 +22,7 @@ description: Physicalist theories of consciousness independently concede the dua
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 20:04:48+00:00
+last_deep_review: 2026-07-15 05:52:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

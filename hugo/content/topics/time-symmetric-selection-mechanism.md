@@ -23,7 +23,7 @@ description: Consciousness selects quantum outcomes atemporally via transactiona
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 09:46:32+00:00
+last_deep_review: 2026-07-15 07:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

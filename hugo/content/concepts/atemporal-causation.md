@@ -27,7 +27,7 @@ description: Causation outside temporal sequence — consciousness selects which
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 21:45:00+00:00
+last_deep_review: 2026-07-15 05:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

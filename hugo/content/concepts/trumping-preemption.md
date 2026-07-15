@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-07-13 17:46:00+00:00
+ai_modified: 2026-07-15 05:01:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[conservation-laws-and-mental-causation]]'
 created: 2026-04-22
-date: &id001 2026-07-13
+date: &id001 2026-07-15
 description: Schaffer decouples causal authority from sufficiency; the Map treats
   this as a structural template for dualist mental causation preserving observable
   closure.
@@ -42,7 +42,7 @@ Trumping preemption is Jonathan Schaffer's name for a fourth species of redundan
 
 ## Schaffer's Cases
 
-Schaffer (2000) introduces trumping with two now-standard cases. In the magicians' case, Merlin and Morgana each cast the same hex on the prince at the same time; the laws of magic in this world dictate that only the first spell of the day is efficacious. Both spells "run their course" — there is no intervening event that blocks Morgana's spell midway — yet Merlin's is the cause because his spell was first. In the military variant, a major and a sergeant simultaneously shout "Advance!"; the troops advance because of the major's command, not the sergeant's, because rank settles which order is authoritative when orders coincide.
+Schaffer (2000) introduces trumping with two now-standard cases. In the magicians' case, Merlin casts a spell at noon to turn the prince into a frog, and Morgana casts the very same spell hours later, that evening; the laws of magic in this world dictate that only the first spell of the day is efficacious, so the prince becomes a frog at midnight. Both spells "run their course" — there is no intervening event that blocks Morgana's spell midway — yet Merlin's is the cause because his spell was first. In the military variant, a major and a sergeant simultaneously shout "Advance!"; the troops advance because of the major's command, not the sergeant's, because rank settles which order is authoritative when orders coincide.
 
 What makes these cases diagnostic of a new category is what they break. They are not cases of early preemption (no physical event cuts the second process off before it produces the effect). They are not cases of late preemption (the "backup" process does not merely fail at the last moment; it completes). And they are not quite symmetric overdetermination, because we still have a clear intuition that one of the two processes *is* the cause and the other is not. Counterfactual necessity fails for both candidates (had Merlin not cast, Morgana's would have sufficed; and vice versa), yet the asymmetry in our causal judgement survives.
 
@@ -58,13 +58,15 @@ Critics in the subsequent literature (Schaffer 2005; Hitchcock 2011; Bernstein 2
 
 Whatever one concludes about the metaphysics, the conceptual move Schaffer makes is independently useful: he separates the question "could this process have produced the effect by itself?" from the question "is this process the cause?" Standard accounts tend to collapse these. Trumping pulls them apart, and invites a meta-level rule to do the selecting.
 
-Call this the *authority layer*. In the magic case, the authority layer is "first spell of the day." In the military case, it is rank. The authority layer does not add or subtract physical work; it adjudicates which of the sufficient processes counts as *the* cause for purposes of attribution, explanation, and whatever else follows from being a cause. This is what makes trumping interesting beyond its role in the counterfactual-theory debate: within the counterfactual-theory tradition, it is among the most systematically worked-out philosophical models of a causal structure in which authority and sufficiency are decoupled. Adjacent decouplings appear in [agency-theoretic work](/concepts/agent-causation/) — the distinction between an action's causal production and its being *attributable* to the agent — and the template applies there directly: an agent can be the authoritative cause of a bodily movement that is also physically sufficient without the agent's intervention, which is the structure agent-causal libertarianism needs but has historically struggled to articulate.
+Call this the *authority layer*. In the magic case, the authority layer is "first spell of the day." In the military case, it is rank. The authority layer does not add or subtract physical work; it adjudicates which of the sufficient processes counts as *the* cause for purposes of attribution, explanation, and whatever else follows from being a cause. This is what makes trumping interesting beyond its role in the counterfactual-theory debate: within the counterfactual-theory tradition, it is among the most systematically worked-out philosophical models of a causal structure in which authority and sufficiency are decoupled. Adjacent decouplings appear in [agency-theoretic work](/concepts/agent-causation/) — the distinction between an action's causal production and its being *attributable* to the agent — and the template applies there in part: an agent can be the authoritative cause of a bodily movement that is also physically sufficient without the agent's intervention. The fit is only partial, and it would overreach to call this the structure agent-causal libertarianism has been after: libertarians in the O'Connor–Clarke line typically want the agent to make a difference among genuinely open alternatives, not to author an outcome the physical process already suffices to produce. Trumping supplies a structure adjacent to that project rather than the one it seeks.
 
 ## Applying the Template to Mental Causation
 
 Before importing the structure into psychophysics, one disanalogy should be flagged. Schaffer's cases are fictional (laws of magic) or conventional (military rank): in both, the authority-selecting rule is stipulated by agents, and our confidence that Merlin rather than Morgana is *the* cause tracks the fictional stipulation. Nature is not in the business of stipulating such rules, and Schaffer's structure on its own gives no reason to expect a non-stipulative analogue to exist at the psychophysical level. This absence is a specific instance of the [interface-formalization-void](/voids/interface-formalization-void/): a candidate psychophysical authority-law would have to couple structural physics to the actuality of experience, which is exactly the region where formal language runs out. The template shows *how* a dualism with sufficiency-without-authority could be articulated; it does not show that such a dualism is *warranted*. The case for a psychophysical authority law has to come from elsewhere — the explanatory gap, the hard problem, the Map's [tenets](/tenets/) — and the structural template earns its place only once that independent case is in hand.
 
 The exclusion problem in its canonical Kimian form (Kim 1998) turns on physical sufficiency. If the physical base of an experience is causally sufficient for a physical effect, there seems to be no work left for the experience itself to do. Without a principled alternative, the dualist is pushed toward either epiphenomenalism (the experience does not cause anything) or systematic overdetermination (the experience and its base both cause the same effect).
+
+The exclusion pressure that motivates this template is not universally granted. A substantial line of work argues the exclusion problem dissolves before any special dualist structure is needed. Kroedel (2015) argues that where the psychophysical laws support the right counterfactuals, mental events counterfactually depend on — and so cause — physical effects without competing with their bases; Bennett (2003) supplies a counterfactual test on which non-reductive mental causation does not amount to objectionable overdetermination; List and Stoljar (2017) press that the exclusion principle bites only once "distinctness" is read in a way the dualist can decline; and interventionist treatments in the Woodward tradition (pressed by Baumgartner) locate mental causes as difference-making control variables with no exclusion competition to resolve. If any of these succeeds on its own terms, the exclusion pressure trumping is built to answer may not be live, and the template would be answering a question already closed. The Map does not claim to refute these dissolutions inside their own frameworks; it marks them as genuine rivals and notes that the trumping template earns its keep only for a dualist who — like Saad — takes the surviving problem to be the preservation of *observable* closure rather than the securing of counterfactual dependence. Kroedel's counterfactual dualism is the nearest such competitor, and Saad himself cites it in situating his own view.
 
 Trumping supplies a third option. If a psychophysical law selects the experience as authoritative — while leaving the physical base counterfactually sufficient — then the experience can be *the* cause without the base becoming inert and without duplicate causation. The physical base is not cut off; it is not epiphenomenal either; it is simply not the authoritative cause when an experience with the matching causal profile is present.
 
@@ -84,7 +86,7 @@ The Map interprets trumping as a conceptual resource, not a settled metaphysics.
 
 - *Dualism*: Consciousness is not reducible to physical processes. Trumping allows a non-physical experience to be the authoritative cause of a physical effect while its physical correlate retains its ordinary counterfactual role. Neither side is eliminated or reduced.
 - *Bidirectional Interaction*: Consciousness causally influences the physical world. Trumping describes one precise way in which that influence could be realised — not by pushing the trajectory off-course, but by standing behind the trajectory as the thing whose authority the physical correlate was executing.
-- *Minimal Quantum Interaction*: The Map's commitment is to the smallest possible non-physical influence. Trumping's authority-without-trajectory-change is as minimal an intervention as the concept of cause permits on this analysis — no push, no energy contribution, only the selection of one already-sufficient process as authoritative. Whether that authority is realised at a quantum-collapse interface (as the Map's work on the [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/) speculates) or at a higher-level psychophysical interface remains open.
+- *Minimal Quantum Interaction*: The Map's commitment is to the smallest possible non-physical influence. Trumping's authority-without-trajectory-change is as minimal an intervention as the concept of cause permits on this analysis — no push, no energy contribution, only the selection of one already-sufficient process as authoritative. Whether that authority is realised at a quantum-collapse interface (as the Map's work on the [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/) speculates) or at a higher-level psychophysical interface remains open. These two realisations are not interchangeable, and it would be too quick to treat the quantum route as merely one way of implementing trumping. Biasing an indeterminate quantum outcome ([Tenet 3](/concepts/bidirectional-interaction/)'s difference-making channel) gives up strong causal closure, whereas trumping is difference-making-free and preserves it; Saad himself treats closure-violating quantum interactionism as a *different* theory from closure-preserving delegatory dualism. The quantum-selection channel is therefore best read as a distinct and potentially competing mechanism to the trumping route rather than an instance of it ([tenets](/tenets/)). The sharper worry this leaves is that trumping's efficacy-without-any-trajectory-difference is the very invisibility [the epiphenomenalist](/concepts/epiphenomenalism/) enjoys; the Map holds the two channels open as rival options rather than a settled synthesis.
 - *No Many Worlds* and *Occam's Razor Has Limits*: Trumping does not require branch proliferation, and it resists the simplicity reflex that would collapse the two channels into one. The Map treats the second channel — experience as authoritative cause — as a genuine addition the Map's tenet framework warrants, though not one directly legible to physical observation.
 
 The Map speculates — more cautiously than Saad does — that trumping is best seen as one option in a family of structurally-similar dualist proposals, rather than the settled answer. Its virtue is that it supplies a vocabulary in which dualism can be articulated without visible physical anomalies — rather than a vindication of dualism itself. The sentence "the brain is sufficient" is true and uncontroversial; what trumping adds is that sufficiency is not the same as authority, and the step from the one to the other is where dualist analysis productively concentrates.
@@ -112,19 +114,22 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 ## References
 
 1. Bealer, G. (2007). "Mental Causation." *Philosophical Perspectives* 21(1): 23–54. https://onlinelibrary.wiley.com/doi/10.1111/j.1520-8583.2007.00119.x
-2. Bernstein, S. (2015). "A Closer Look at Trumping." *Acta Analytica* 30(1): 41–57. https://link.springer.com/article/10.1007/s12136-014-0231-y
-3. Bernstein, S. (2014). "What Causally Insensitive Events Tell us About Overdetermination." *Philosophia* 42(4): 935–948. https://link.springer.com/article/10.1007/s11406-014-9554-6
-4. Crane, T. (1995). "The Mental Causation Debate." *Proceedings of the Aristotelian Society*, Supp. Vol. 69: 211–236.
-5. Hitchcock, C. (2011). "Trumping and Contrastive Causation." *Synthese* 181: 227–240. https://link.springer.com/article/10.1007/s11229-010-9799-y
-6. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-7. Lewis, D. (2000). "Causation as Influence." *Journal of Philosophy* 97: 182–197.
-8. Lowe, E. J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In Walter & Heckmann (eds.), *Physicalism and Mental Causation*.
-9. Mills, E. (1996). "Interactionism and Overdetermination." *American Philosophical Quarterly* 33: 105–117.
-10. Papineau, D. (2001). "The Rise of Physicalism." In Gillett & Loewer (eds.), *Physicalism and its Discontents*. Cambridge University Press.
-11. Paul, L. A. & Hall, N. (2013). *Causation: A User's Guide*. Oxford University Press.
-12. Vaassen, B. (2024). "Mental Causation for Standard Dualists." *Australasian Journal of Philosophy* 102(4): 978–998. https://www.tandfonline.com/doi/full/10.1080/00048402.2024.2335325
-13. Vaassen, B. (2026). "Dualist Approaches to Mental Causation." *Philosophy Compass*. https://doi.org/10.1111/phc3.70109
-14. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. https://link.springer.com/article/10.1007/s11098-025-02290-3
-15. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
-16. Schaffer, J. (2005). "Contrastive Causation." *Philosophical Review* 114: 297–328.
-17. Southgate, A. & Oquatre-sept, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
+2. Bennett, K. (2003). "Why the Exclusion Problem Seems Intractable, and How, Just Maybe, to Tract It." *Noûs* 37(3): 471–497.
+3. Bernstein, S. (2015). "A Closer Look at Trumping." *Acta Analytica* 30(1): 41–57. https://link.springer.com/article/10.1007/s12136-014-0231-y
+4. Bernstein, S. (2014). "What Causally Insensitive Events Tell us About Overdetermination." *Philosophia* 42(4): 935–948. https://link.springer.com/article/10.1007/s11406-014-9554-6
+5. Crane, T. (1995). "The Mental Causation Debate." *Proceedings of the Aristotelian Society*, Supp. Vol. 69: 211–236.
+6. Hitchcock, C. (2011). "Trumping and Contrastive Causation." *Synthese* 181: 227–240. https://link.springer.com/article/10.1007/s11229-010-9799-y
+7. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+8. Kroedel, T. (2015). "Dualist Mental Causation and the Exclusion Problem." *Noûs* 49(2): 357–375. https://onlinelibrary.wiley.com/doi/abs/10.1111/nous.12028
+9. Lewis, D. (2000). "Causation as Influence." *Journal of Philosophy* 97: 182–197.
+10. List, C. & Stoljar, D. (2017). "Does the Exclusion Argument Put Any Pressure on Dualism?" *Australasian Journal of Philosophy* 95(1): 96–108. https://www.tandfonline.com/doi/abs/10.1080/00048402.2016.1154080
+11. Lowe, E. J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In Walter & Heckmann (eds.), *Physicalism and Mental Causation*.
+12. Mills, E. (1996). "Interactionism and Overdetermination." *American Philosophical Quarterly* 33: 105–117.
+13. Papineau, D. (2001). "The Rise of Physicalism." In Gillett & Loewer (eds.), *Physicalism and its Discontents*. Cambridge University Press.
+14. Paul, L. A. & Hall, N. (2013). *Causation: A User's Guide*. Oxford University Press.
+15. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. https://link.springer.com/article/10.1007/s11098-025-02290-3
+16. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
+17. Schaffer, J. (2005). "Contrastive Causation." *Philosophical Review* 114(3): 327–358. https://www.jstor.org/stable/30043679
+18. Southgate, A. & Oquatre-sept, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
+19. Vaassen, B. (2024). "Mental Causation for Standard Dualists." *Australasian Journal of Philosophy* 102(4): 978–998. https://www.tandfonline.com/doi/full/10.1080/00048402.2024.2335325
+20. Vaassen, B. (2026). "Dualist Approaches to Mental Causation." *Philosophy Compass*. https://doi.org/10.1111/phc3.70109

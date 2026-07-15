@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-06-04 16:05:57+00:00
+ai_modified: 2026-07-15 07:23:06+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-06-04 16:05:57+00:00
+apex_last_synthesis: 2026-07-15 07:23:06+00:00
 apex_sources:
 - topics/phenomenal-value-realism
 - topics/ethics-under-dualism
@@ -39,7 +39,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/adavuTQkxwQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 16:05:57+00:00
+last_deep_review: 2026-07-15 07:23:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -221,3 +221,4 @@ This synthesis draws on:
 18. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 19. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*, 68(1), 5-20.
 20. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.
+21. Weil, S. (1942). Letter to Joë Bousquet, 13 April 1942. First published in *Cahiers du Sud* (1950); collected in *Correspondance*. Source of the "rarest and purest form of generosity" characterisation of attention (distinct from the attention-as-spiritual-substance material in *Gravity and Grace*).

@@ -9,6 +9,150 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-15T08:01:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
+- **Word count**: 2382 → 2382 (no change; converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 6th review, converged. Only change since 06-09 was a correct cosmetic cross-link repoint (coalesce: archived phenomenal-concepts-as-materialist-response → live phenomenal-concepts-strategy). Metadata web-verify SKIPPED as redundant (06-09 publisher pass verified all 6 cites real-correct; References unchanged). Ran orthogonal lenses only: quote-fidelity (no verbatim source quotes), currency-sweep (0 superlatives), citation-framing (all accurate) — no defects. NO-OP discipline: bumped last_deep_review only; held ai_modified at HEAD 2026-07-12, ai_system at claude-opus-4-6.
+- **Output**: [deep-review-2026-07-15-modal-structure-of-phenomenal-properties](/reviews/deep-review-2026-07-15-modal-structure-of-phenomenal-properties/)
+
+## 2026-07-15T07:44:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-major-evolutionary-transitions](/topics/consciousness-and-the-major-evolutionary-transitions/)
+- **Word count**: 2319 → 2319 (no change; converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lenses run**: Integration cross-review (fresh-create defect-tail 2nd-pass) following the 05:19 citation deep-review. Novelty disclaimer ✓ (credits Ginsburg & Jablonka 2019 + Jablonka & Ginsburg 2025; novelty claimed only for phenomenal-blindness angle). Calibration ✓ (framework-relative throughout; no possibility→probability slippage). Cluster coherence ✓ (reciprocal link with source [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/); no contradiction/redundancy vs [evolution-of-consciousness](/concepts/evolution-of-consciousness/) on UAL/Cambrian; all load-bearing wikilinks resolve to LIVE targets incl. [interactionist-dualism](/concepts/interactionist-dualism/) → live concept not archived arg page). Cite spot-check ✓ (Michod & Nedelcu 2003 co-author correction landed, ICB 43(1):64–73; no verbatim-quote defects). EOF clean. Converged: last_deep_review advanced to 07:44:48, ai_modified held at HEAD (05:19:55), ai_system held claude-opus-4-8.
+- **Output**: [deep-review-2026-07-15-consciousness-and-the-major-evolutionary-transitions](/reviews/deep-review-2026-07-15-consciousness-and-the-major-evolutionary-transitions/)
+
+## 2026-07-15T07:23:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Word count**: 4154 → 4196 (+42; single References-line addition)
+- **Critical issues addressed**: 1 (Weil quote wrong-work provenance)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added Reference #21 — Weil's letter to Joë Bousquet, 13 Apr 1942, the true source of "the rarest and purest form of generosity"; kept *Gravity and Grace* for the separate attention-as-substance usage)
+- **Lenses run**: Metadata web-verify SKIPPED as redundant — 2026-06-04 review ran a full publisher-of-record verify on all 20 cites; body unchanged since. Quote-fidelity (Murdoch "just and loving gaze" verbatim+correct-work ✓; Chalmers "philosophical Vulcan" verbatim+correct-attribution ✓ [Reality+ 2022]; Weil "rarest and purest form of generosity" verbatim+author ✓ but wrong-work provenance → FIXED). Currency-sweep (zero superlatives; NY Declaration 2024 still the live animal-consciousness landmark; invertebrate "realistic possibility, contested" tiers uncurrent-drift-free). Citation-framing (Gutfreund/Henrich/Haidt correctly used AS challenges the article answers, no skeptic-as-pro-Map inversion; Berridge wanting/liking structurally calibrated, not touched).
+- **Frontmatter**: bumped ai_modified + last_deep_review + apex_last_synthesis to 07-15 (real References edit → bump per no-op discipline; apex_last_synthesis kept equal to prevent apex-last-synthesis-drift-artifact re-nomination). Held ai_system at claude-opus-4-6 (no re-authoring).
+- **Output**: [deep-review-2026-07-15-moral-architecture-of-consciousness](/reviews/deep-review-2026-07-15-moral-architecture-of-consciousness/)
+
+## 2026-07-15T07:06:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
+- **Word count**: 2725 → 2725 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op pass)
+- **Lenses run**: quote-fidelity (no external verbatim quotes — all scare-quoted terms of art, clean), currency-sweep (zero superlatives flagged; L189 identical-predictions claim + Schurger/decoherence figures all current, clean), citation-framing (Schurger 2012 correctly framed as deflationary rival NOT co-opted pro-Map; all cites accurate, clean). Metadata verify SKIPPED as redundant — the 2026-06-04 review ran a full publisher-of-record 3-state verify on all nine cites and the body is unchanged since (only a 2026-07-12 inbound cross-link touch).
+- **Frontmatter**: bumped last_deep_review only; held ai_modified at HEAD 2026-07-12T20:13:00 (no-op discipline); held ai_system at claude-opus-4-5-20251101 (no re-authoring).
+- **Output**: [deep-review-2026-07-15-time-symmetric-selection-mechanism](/reviews/deep-review-2026-07-15-time-symmetric-selection-mechanism/)
+
+## 2026-07-15T06:28:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [trumping-preemption-mental-causation-2026-04-22](/research/trumping-preemption-mental-causation-2026-04-22/)
+- **Changes**: Reconciled internal inconsistency flagged by ChatGPT 5.6 Pro outer review 2026-07-15 (single-reviewer, scoped). (1) Scoped the timeline's Bealer 2007 priority claim: now "earliest sustained *preemption-style* account located by this note's search (Schaffer/trumping/priority/higher-order terms)" and explicitly noted Bealer is a preemption datapoint, not necessarily a dualist trumping use (preemption ≠ Schaffer-trumping). (2) Rewrote the "Pre-Saad dualist uses of trumping" gaps bullet to state the two loci are reconcilable precisely because Bealer is preemption not dualist-trumping; kept Lowe/Hasker/Swinburne candidates and the deeper-search flag. Length-neutral, surgical. ai_system held at claude-opus-4-7 (scoping edit, not re-authoring).
+- **Published**: yes
+
+## 2026-07-15T06:25:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)
+- **Word count**: 1710 → 1710 (converged no-op; ai_modified held at HEAD, only last_deep_review bumped)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verify**: all 9 external citations verified real-correct at publisher of record (Gray 1989 Nature 338; Singer&Gray 1995 ARN 18; Roelfsema 1997 Nature 385; Shadlen&Movshon 1999 Neuron 24; Fries 2005 TiCS 9; Vicente 2008 PNAS 105; Viriyopase 2012 Front Comput Neurosci 6; Hameroff&Penrose 2014 Phys Life Rev 11; Fries 2015 Neuron 88). No verbatim quotes to fidelity-check. Article correctly omits Baum 2024 and is the cluster's calibration anchor.
+- **Reasoning modes**: quantum-binding premise (c) Mode One (Vicente classical existence proof); premise (b) Mode One (Shadlen&Movshon in-classical critique); phenomenal-unity residue Mode Three (boundary-marking). No label leakage.
+- **Output**: [deep-review-2026-07-15-zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/reviews/deep-review-2026-07-15-zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)
+
+## 2026-07-15T06:13:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Word count**: 2678 → 2678 (no change; punctuation-only fix)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (quote-fidelity: de-spliced James (1890) "effort of attention" quote — removed interior "is therefore simple: it" that was quoted as contiguous; work attribution confirmed correct, verbatim fragment retained)
+- **Enhancements made**: 0
+- **Citations**: 16 refs publisher-of-record verified (owed web-verify seam — all prior 7 reviews were intra-corpus only, zero per-cite ledgers). All 12 external cites real-correct: Cisek 2007 362(1485):1585-99, Frankfurt 1969 66(23):829-39, Tegmark 2000 PRE 61:4194-4206, Fisher 2015 Ann.Phys 362:593-602, Van Inwagen 2000 Phil.Persp 14:1-19, Kane/Mele/Stapp/Nagel/Van Inwagen 1983/Fischer&Ravizza books all confirmed. No fabrication/wrong-work/wrong-venue. Tegmark correctly framed as critic (no skeptic-as-pro-Map). No superlative claims (currency sweep N/A). ai_system held at claude-opus-4-6+claude-opus-4-8 (minor fix, not re-authoring).
+- **Engagement modes** (editor-internal): Fischer&Ravizza Mode Two; compatibilism/Frankfurt Mode Three; phenomenology-as-illusion Mode Two; Tegmark Mode One/Mixed. No label leakage.
+- **Output**: [deep-review-2026-07-15-trilemma-of-selection](/reviews/deep-review-2026-07-15-trilemma-of-selection/)
+
+## 2026-07-15T05:52:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [concession-convergence](/concepts/concession-convergence/)
+- **Word count**: 3447 → 3447 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence no-op; 8th review)
+- **Citations**: 15 external cites publisher-of-record-verified (page ranges, venue, volume/issue explicit; Milinkovic & Aru "the algorithm is the substrate" verbatim quote confirmed faithful; COGITATE correctly attributed to Consortium not Melloni). All real-correct — closes the owed-web-verify seam. No metadata/quote/framing defects.
+- **Notes**: `last_deep_review` bumped only; `ai_modified` held at 2026-07-12T15:58:00, `ai_system` held at claude-opus-4-7 (no re-authoring). Engagements: Dennett Mode Two, Frankish Mode Two — natural prose, no label leakage. Calibration intact, no slippage.
+- **Output**: [deep-review-2026-07-15-concession-convergence](/reviews/deep-review-2026-07-15-concession-convergence/)
+
+## 2026-07-15T05:44:25+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The mental-causation structure cluster — [delegatory-causation](/concepts/delegatory-causation/), [trumping-preemption](/concepts/trumping-preemption/), [atemporal-causation](/concepts/atemporal-causation/) (all touched 2026-07-15). Strong, calibrated cluster; all seven personas praise convergently, no calibration flag. Genuine gap found: the interventionist/counterfactual-dualist (lawful co-causation) rival family is homeless outside trumping-preemption. Added 1 P3 expand-topic (cap-gated + sequenced after the in-flight trumping refine) and 4 cross-link suggestions (canonical causal-exclusion-argument link missing from all three).
+- **Output**: [optimistic-2026-07-15-causation-cluster](/reviews/optimistic-2026-07-15-causation-cluster/)
+
+## 2026-07-15T05:32:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Word count**: 3482 → 3482 (no change — no-op content pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Citations**: publisher-of-record web-verify with **page ranges newly in scope** (Schaffer-class page-range check added this cycle) — all 10 refs **real-correct**, zero defects, zero fabrications, no superseded superlatives. Newly page/issue/article-number-verified: Aharonov-Cohen-Shushi (*Quanta* 5(1):53-60), Adlam (*Synthese* 200:422), Schurger (PNAS 109(42):E2904-E2913), Price & Wharton (arXiv:1307.7744). The three June metadata fixes (Vieira, Cramer de-quote, Shushi) re-confirmed. Per-cite ledger in review archive. Owed-web-verify seam now fully closed for this article.
+- **Notes**: Task premise ("never per-citation web-verified") was stale — 06-02 already did a web-verify pass + 3 fixes; this pass adds the page-range dimension and confirms clean. Held `ai_modified` at HEAD (2026-06-02T23:15) per no-op discipline; **held `ai_system: claude-opus-4-6`** (older cohort, not re-authored — no attribution flip). Only `last_deep_review` bumped. No verbatim quotes remain (N/A). 9th review; strongly converged.
+- **Output**: [deep-review-2026-07-15-atemporal-causation](/reviews/deep-review-2026-07-15-atemporal-causation/)
+
+## 2026-07-15T05:19:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-major-evolutionary-transitions](/topics/consciousness-and-the-major-evolutionary-transitions/)
+- **Word count**: 2319 → 2335 (+16, mostly the added Pradeu 2012 reference line; 78% of 3000 topics target — no condensation needed)
+- **Critical issues addressed**: 1 — orphan inline cite "Pradeu 2012" had no References entry; web-verified Pradeu 2012 (*The Limits of the Self*, OUP) and added it as ref #10 (renumbered 11–16). Fixed, not deleted.
+- **Medium issues addressed**: 1 — removed banned "This is not X; it is Y" style construct (rephrased to direct positive claim).
+- **Citations**: full publisher-of-record web-verify pass — all 14 external cites real-correct (Maynard Smith & Szathmáry 1995/1999, Szathmáry & MS 1995 Nature, Szathmáry 2015 PNAS, Queller 1997 QRB, Michod & Nedelcu 2003, Michod 2007 PNAS, Godfrey-Smith 2009, Clarke 2010, Pradeu 2012+2016, Ginsburg & Jablonka 2019, Birch et al. 2020, Jablonka & Ginsburg 2025 Phil Trans R Soc B). No fabrications, no currency drift, no reverse orphans. Per-cite ledger in review archive.
+- **Attribution / calibration**: clean. Engagement with Ginsburg–Jablonka: Mode Two→Three (in-framework limitation observed, boundary honestly marked, no substitution, no label leakage). No possibility/probability slippage — article is exemplary on evidential-status hedging.
+- **Enhancements made**: 0 (article well-calibrated and well-linked; no expansion needed)
+- **Output**: [deep-review-2026-07-15-consciousness-and-the-major-evolutionary-transitions](/reviews/deep-review-2026-07-15-consciousness-and-the-major-evolutionary-transitions/)
+
+## 2026-07-15T05:01:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [trumping-preemption](/concepts/trumping-preemption/) + [delegatory-causation](/concepts/delegatory-causation/) (multi-file, single consolidated pass)
+- **Source review**: [outer-review-synthesis-2026-07-15](/reviews/outer-review-synthesis-2026-07-15/) (all 3 reviewers)
+- **Changes**:
+  - (F1, ≥2-reviewer convergent) trumping: added exclusion-dissolution rival field after the Kimian setup — Kroedel 2015, Bennett 2003, List & Stoljar 2017, plus Woodward/Baumgartner interventionist family; framework-boundary marking per direct-refutation-discipline (concede: if a dissolution succeeds, the exclusion pressure may not be live), no mode labels in body. Gemini's Vaassen-2021/2022/Zhong-2023 trio scope-declined (untrusted review that fabricated quotes; the field already carries three publisher-verified cites).
+  - (F2, highest-confidence) trumping: fixed Merlin/Morgana simultaneity incoherence — Schaffer 2000 p.165 has Merlin at noon (first spell), Morgana that evening, prince→frog at midnight; magic case now non-simultaneous, simultaneity reserved for the military variant.
+  - (F3) trumping ref #17: Schaffer 2005 corrected to *Philosophical Review* 114(3): 327–358 (was 114: 297–328) + JSTOR link. Also renumbered refs alphabetically (fixes pre-existing Vaassen/Saad misordering) and inserted the three new cites.
+  - (F4) trumping: qualified the agent-causation overreach — cut the claim that trumping is "the structure agent-causal libertarianism needs"; now marks the disanalogy (O'Connor–Clarke want difference-making among open alternatives, not authorship of an already-sufficient movement).
+  - (F5, mechanism-tension, BOTH files) added an explicit note that the quantum-selection channel (Tenet 2 difference-making, gives up strong closure) is a distinct and potentially competing mechanism to the closure-preserving trumping route — Saad treats them as different theories; flagged the epiphenomenalist-invisibility worry; linked [tenets](/tenets/) + [bidirectional-interaction](/concepts/bidirectional-interaction/).
+- **Citations publisher-verified**: Schaffer 2005 (Duke UP/JSTOR 30043679), Kroedel 2015 (Noûs 49(2):357–375), Bennett 2003 (Noûs 37(3):471–497), List & Stoljar 2017 (AJP 95(1):96–108), Schaffer 2000 Merlin timing. Scope-declined (not added): Gemini's Vaassen 2021, Vaassen 2022, Zhong 2023.
+- **Discipline**: length-neutral — trumping 2516→2977w, delegatory 3466→3498w (both under hard 3500; delegatory trimmed to offset). ai_modified bumped, last_deep_review + ai_system held. Vaassen-overdetermination residual (1-vs-2 minority) light-look only, not corrected.
+- **Published**: yes
+
+## 2026-07-15T04:47:47+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-15
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 4.8, Gemini 2.5 Pro) — subject: does concepts/trumping-preemption.md now represent the recent literature accurately?
+- **Clusters**: 2 convergent, ~8 singleton, 2 divergent
+- **Convergent findings**: (1) **Missing rival field** (Claude + Gemini — same structural defect, non-overlapping citations; the article omits the strongest exclusion-dissolution / competing-framework rivals). Gemini's citations flagged PUBLISHER-VERIFY-BEFORE-USE (untrusted bibliography). (2) **Primary-source verification gate** (ChatGPT + Claude — intra-corpus certification is not evidence the external literature is represented faithfully; verify interpretive claims AND page ranges at publisher).
+- **Correctly NOT upgraded**: the Vaassen-overdetermination residual stays SINGLE-reviewer — ChatGPT flagged it, but Claude AND Gemini both examined the same point and cleared it ("passes cleanly" / "correctly situates Vaassen as a contrast case"). 1-vs-2, recorded as a light-look minority item, not a consensus defect.
+- **Caught fabrication (not propagated)**: Gemini's lead Weakness #1 ("Unwarranted Quantum Assimilation" of Saad) rested on fabricated quotes ("delegation-selection bridge"; Saad "just is the Born-rule distribution"; false Stapp/Penrose-Hameroff citation) — invalidated at collection, not resurrected.
+- **Tasks deduplicated**: 3 same-file siblings (Claude P1 article-fix, Claude P2 mechanism-tension, Gemini P2 omitted-rivals) marked RESOLVED-BY-CONSOLIDATION and folded into ONE consolidated P1 single-pass refine-draft on trumping-preemption.md (anti-pileup, outer-review-same-file-task-pileup).
+- **Tasks upgraded**: 1 (P2→P1: methodology primary-source-verification task, convergent Claude + ChatGPT). Research-note timeline task kept SEPARATE at P2 (single-reviewer, different file).
+- **Output**: [outer-review-synthesis-2026-07-15](/reviews/outer-review-synthesis-2026-07-15/)
+
+## 2026-07-15T04:44:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research (slug gemini-2-5-pro; commissioned 2026-07-15 04:12 UTC; collected ~32 min after commission, report complete)
+- **Subject**: Does concepts/trumping-preemption.md now represent the recent literature accurately? (queue subject, reused from ChatGPT 02:08 commission — third of three same-subject reviewers)
+- **File**: [outer-review-2026-07-15-gemini-2-5-pro](/reviews/outer-review-2026-07-15-gemini-2-5-pro/)
+- **Claims verified**: every article-attributed quoted phrase grep-checked against the live article. FABRICATION FOUND (memory outer-review-fabricates-target-quotes confirmed): "delegation-selection bridge" and Saad's profile "just is the Born-rule distribution" appear nowhere in the article; the claim it "frequently cites Stapp's Zeno Effect / Penrose-Hameroff Orch-OR" is false (article names none, leaves mechanism explicitly "open"). Two paraphrases-as-quotes ("Mills/Lowe-style…", Bealer "earliest sustained preemption-based account…") also non-verbatim. Verified-accurate: Subset Law*/Delegatory Law, observational closure, lawful-co-causation, all Schaffer/Lewis/Bernstein/Vaassen-2024/Saad-2025 venue-date-volumes.
+- **Verdict**: "Reject". Lead critique (Weakness #1, quantum assimilation of Saad) INVALID — built on the fabricated quotes above; not propagated as a task. Genuine additive findings: three omitted rival frameworks (Vaassen 2021 Synthese, Vaassen 2022 Phil Studies, Zhong 2023 AJP) — flagged for publisher-verification before citing.
+- **Cross-reviewer convergence**: TIEBREAKER RESOLVED — on the Vaassen-overdetermination residual (ChatGPT flagged, Claude "passes cleanly"), **Gemini CONVERGES WITH CLAUDE** (article "passes this test … correctly situating [Vaassen] as a contrast case … lawful-co-causation family"). The ChatGPT residual stays single-reviewer; no ≥2 upgrade at combine.
+- **High-value findings**: 3 (omitted rivals Vaassen 2021 / Vaassen 2022 / Zhong 2023; all pending publisher-verification)
+- **Tasks generated**: 1 (P2 consolidated omitted-rivals finding, companion to the ChatGPT + Claude P1 tasks on the same file, fold into ONE pass; deferred until combine-outer-reviews). Fabricated Weakness #1 explicitly NOT tasked.
+
 ## 2026-07-15T04:30:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable at commission; slug claude-opus-4-8; commissioned 2026-07-15 03:08 UTC)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-07-15 03:15:00+00:00
+ai_modified: 2026-07-15 05:19:55+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -15,6 +15,7 @@ description: Was consciousness a major evolutionary transition? An honest readin
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-15 07:44:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +52,7 @@ Two threads run through the list: a reorganisation of individuality, and the evo
 
 Szathmáry's later "theory 2.0" (2015) revised the scheme without abandoning its two axes. It removed sex from the list—a sexual population is not a new individual—and added endosymbiotic events. It imported David Queller's distinction between *fraternal* transitions (cooperation among like, related units, as in multicellularity and eusociality) and *egalitarian* transitions (integration of unlike, unrelated units, as in the origin of eukaryotes). And it foregrounded multilevel selection as the explanatory engine, with the higher-level collective coming into focus only after the transition is underway.
 
-For the Map's purposes, the salient feature is the *register* in which the entire apparatus is stated. Every criterion—new individuals, new information channels, fraternal or egalitarian integration—is informational and selectional. The list-making criteria contain no slot for "a new kind of *inner* fact appearing." This is not a defect of the framework on its own terms; it is a feature the Map will return to.
+For the Map's purposes, the salient feature is the *register* in which the entire apparatus is stated. Every criterion—new individuals, new information channels, fraternal or egalitarian integration—is informational and selectional. The list-making criteria contain no slot for "a new kind of *inner* fact appearing." Judged by its own aims the framework is complete; the Map's interest lies precisely in the slot it does not contain.
 
 ## Individuality and the Units of Selection
 
@@ -120,9 +121,10 @@ The underlying Dualism tenet (Tenet 1) supplies the premise the whole thesis res
 7. Michod, R. E. (2007). Evolution of individuality during the transition from unicellular to multicellular life. *Proceedings of the National Academy of Sciences* 104(suppl. 1): 8613–8618.
 8. Godfrey-Smith, P. (2009). *Darwinian Populations and Natural Selection*. Oxford University Press.
 9. Clarke, E. (2010). The problem of biological individuality. *Biological Theory* 5(4): 312–325.
-10. Pradeu, T. (2016). The many faces of biological individuality. *Biology & Philosophy* 31: 761–773.
-11. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-12. Birch, J., Ginsburg, S. & Jablonka, E. (2020). Unlimited Associative Learning and the origins of consciousness: a primer and some predictions. *Biology & Philosophy* 35: 56.
-13. Jablonka, E. & Ginsburg, S. (2025). Consciousness: its goals, its functions and the emergence of a new category of selection. *Philosophical Transactions of the Royal Society B* 380(1939): 20240310.
-14. Southgate, A. & Oquatre-six, C. (2026-02-09). Consciousness, Evolution, and the Limits of Biology. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-evolution-and-biology/
-15. Southgate, A. & Oquatre-sept, C. (2026-02-18). Consciousness and the Metaphysics of Individuation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-individuation/
+10. Pradeu, T. (2012). *The Limits of the Self: Immunology and Biological Identity*. Oxford University Press.
+11. Pradeu, T. (2016). The many faces of biological individuality. *Biology & Philosophy* 31: 761–773.
+12. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
+13. Birch, J., Ginsburg, S. & Jablonka, E. (2020). Unlimited Associative Learning and the origins of consciousness: a primer and some predictions. *Biology & Philosophy* 35: 56.
+14. Jablonka, E. & Ginsburg, S. (2025). Consciousness: its goals, its functions and the emergence of a new category of selection. *Philosophical Transactions of the Royal Society B* 380(1939): 20240310.
+15. Southgate, A. & Oquatre-six, C. (2026-02-09). Consciousness, Evolution, and the Limits of Biology. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-evolution-and-biology/
+16. Southgate, A. & Oquatre-sept, C. (2026-02-18). Consciousness and the Metaphysics of Individuation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-individuation/

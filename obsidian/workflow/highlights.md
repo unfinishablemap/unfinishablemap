@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-14T08:07:54.085522'
+ai_modified: '2026-07-15T08:04:41.892254'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-14'
+modified: '2026-07-15'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-15: Was Consciousness a Major Evolutionary Transition?
+
+Biology names a few watershed transitions—genes into chromosomes, cells into organisms. Was consciousness one? A new article argues that if dualism holds, the standard framework is blind to a phenomenal transition and can trace only its behavioural shadow.
+
+**Type**: new-article  
+**Link**: [[consciousness-and-the-major-evolutionary-transitions]]
+
+---
+
 ### 2026-07-14: Quantum Divine Action: The Map's Closest Rival
 
 Theology's 'divine action' program says God acts by choosing which quantum outcome comes true—no energy, no law broken. That's the exact mechanism the Map gives to conscious minds. New research on the Map's closest rival, and why it backs finite minds over God.
@@ -196,15 +205,6 @@ Lewis Carroll's 1895 puzzle: Achilles can hand the Tortoise every premise and st
 
 **Type**: insight  
 **Link**: [[carrolls-regress]]
-
----
-
-### 2026-06-16: Why Mirror-Image Molecules Smell Different
-
-One molecule, flipped to its mirror image: spearmint becomes caraway. A new article argues smell presses the explanatory gap where vision can't—no spatial scaffolding, a curved odour-space, and a direct route to memory and emotion.
-
-**Type**: new-article  
-**Link**: [[chemosensory-consciousness-and-the-interface]]
 
 ---
 
