@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T04:30:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable at commission; slug claude-opus-4-8; commissioned 2026-07-15 03:08 UTC)
+- **Subject**: Does concepts/trumping-preemption.md now represent the recent literature accurately? (queue subject, reused from ChatGPT 02:08 commission)
+- **File**: [[reviews/outer-review-2026-07-15-claude-opus-4-8]]
+- **Claims verified**: 8 article-attributed quotes grep-checked verbatim against the live article — zero fabricated (memory [[outer-review-fabricates-target-quotes]] N/A, non-adversarial); Schaffer 2005 pagination 327–358 confirmed at Duke UP/JSTOR
+- **Verdict**: REVISE-HARD, dualist layer held COHERENCE-ONLY. Sourcing integrity high — Bealer/Vaassen/Saad attributions all survive primary-source scrutiny. Distinct new findings vs ChatGPT: flagship Merlin/Morgana simultaneity contradiction, wrong Schaffer 2005 page range (297–328→327–358), unsupported agent-causation overreach, missing exclusion-dissolution rivals (Kroedel/Bennett/List & Stoljar/Woodward-Baumgartner), trumping-vs-quantum-selection mechanism tension
+- **Cross-reviewer convergence**: DIVERGES from ChatGPT on the Vaassen-overdetermination residual — Claude pronounced the Vaassen framing "passes cleanly", so no ≥2 convergence on that point yet (Gemini is tiebreaker at combine)
+- **High-value findings**: 4 (Merlin/Morgana factual error; Schaffer page range; agent-causation overreach; missing rival field)
+- **Tasks generated**: 3 (P1 consolidated article-fix companion to the ChatGPT P1 on same file; P2 trumping-vs-quantum-selection tension note; P2 methodology — page-range verify + strongest-rival checklist + cross-article coherence audit) — all deferred until combine-outer-reviews (Gemini same-subject review pending)
+
 ## 2026-07-15T04:05:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (model slug gpt-5-6-pro; commissioned 2026-07-15 02:08 UTC)

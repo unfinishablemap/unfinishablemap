@@ -32,9 +32,9 @@
   commissioned_at: '2026-07-15T03:08:08.976951+00:00'
   prompt_summary: 'trumping-preemption: Bealer/Saad/Vaassen reframing accuracy'
   target_filename: outer-review-2026-07-15-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-15T04:22:38.943837+00:00'
   failure_reason: null
   prompt_text: 'I''d like a rigorous, skeptical outer review of one article on The
     Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind site.
