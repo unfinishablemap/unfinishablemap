@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T05:32:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/atemporal-causation]]
+- **Word count**: 3482 → 3482 (no change — no-op content pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Citations**: publisher-of-record web-verify with **page ranges newly in scope** (Schaffer-class page-range check added this cycle) — all 10 refs **real-correct**, zero defects, zero fabrications, no superseded superlatives. Newly page/issue/article-number-verified: Aharonov-Cohen-Shushi (*Quanta* 5(1):53-60), Adlam (*Synthese* 200:422), Schurger (PNAS 109(42):E2904-E2913), Price & Wharton (arXiv:1307.7744). The three June metadata fixes (Vieira, Cramer de-quote, Shushi) re-confirmed. Per-cite ledger in review archive. Owed-web-verify seam now fully closed for this article.
+- **Notes**: Task premise ("never per-citation web-verified") was stale — 06-02 already did a web-verify pass + 3 fixes; this pass adds the page-range dimension and confirms clean. Held `ai_modified` at HEAD (2026-06-02T23:15) per no-op discipline; **held `ai_system: claude-opus-4-6`** (older cohort, not re-authored — no attribution flip). Only `last_deep_review` bumped. No verbatim quotes remain (N/A). 9th review; strongly converged.
+- **Output**: [[reviews/deep-review-2026-07-15-atemporal-causation]]
+
 ## 2026-07-15T05:19:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-major-evolutionary-transitions]]
