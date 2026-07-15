@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T13:36:21+00:00 - deep-review
+- **Status**: Success (converged NO-OP)
+- **File**: [[topics/constitutive-exclusion]]
+- **Word count**: ~1900 → ~1900 (no content change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lenses run**: quote-fidelity (PRIMARY, publisher-of-record), citation-metadata cross-check, empirical-currency. Target self-selected per owed-web-verify seam: opus-4-6 cohort, quote-bearing, 4 prior intra-corpus reviews.
+- **Quote-fidelity ledger** (all verified verbatim at primary sources, unfin blocked to avoid circular confirmation): Merleau-Ponty "inseparable correlatives" — real-correct; Merleau-Ponty "We are both a part of the world and coextensive with it, constituting but also constituted." — real-correct (PP 453); Putnam "the mind and the world jointly make up the mind and the world." — real-correct (Reason, Truth and History preface).
+- **Currency**: find_superlative_claims returned 0; no superseded records.
+- **Convergence**: today's earlier refine (27df2f701) already resolved this morning's pessimistic review Issues 1–3 (convergence-independence, epistemic/metaphysical split, dualism circularity); not re-flagged. Pessimistic personas' disagreements are framework-boundary bedrock, already disclosed in-article.
+- **No-op discipline**: only last_deep_review advanced (→2026-07-15T13:36:21); ai_modified HELD at HEAD 2026-07-15T11:09:00; ai_system HELD at claude-opus-4-6 (not flipped to reviewing model).
+- **Output**: [[reviews/deep-review-2026-07-15-constitutive-exclusion]]
+
 ## 2026-07-15T13:22:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/interventionist-and-counterfactual-dualism]] (primary); light touches to [[concepts/ensemble-level-epiphenomenalism]] and [[topics/delegation-meets-quantum-selection]]
