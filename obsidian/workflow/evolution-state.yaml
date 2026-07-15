@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-15T20:35:19.852922+00:00'
-session_count: 15787
-cycle_position: 11082
+last_updated: '2026-07-15T20:39:36.223573+00:00'
+session_count: 15788
+cycle_position: 11083
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-15T16:46:56.563038+00:00'
   optimistic-review: '2026-07-15T17:54:22.485289+00:00'
   check-tenets: '2026-07-15T02:02:37.495677+00:00'
   check-links: '2026-07-15T09:23:07.143198+00:00'
-  deep-review: '2026-07-15T20:35:19.852922+00:00'
+  deep-review: '2026-07-15T20:39:36.223573+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-15T09:26:30.070669+00:00'
   coalesce: '2026-07-15T20:30:43.929909+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 508
-  reviews_completed: 6375
+  reviews_completed: 6376
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-15'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-07-15'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-15'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-15'
   outcome: success
 - task: deep-review
@@ -1343,12 +1343,40 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 56
+  p2_tasks: 57
   p3_tasks: 14
   needs_replenishment: false
-  loop_pickable_open: 4
-  last_replenishment: '2026-07-15T20:24:00+00:00'
-  last_replenishment_prev: '2026-07-15T10:46:00+00:00'
+  loop_pickable_open: 3
+  last_replenishment: '2026-07-15T20:45:12+00:00'
+  last_replenishment_prev: '2026-07-15T20:24:00+00:00'
+  last_floor_restore_note_2026_07_15r_staleness_panpsychism_exhaustion: 'EXACT-FLOOR
+    +1 restore by /replenish-queue 2026-07-15T20:45Z (4th replenish this session). AUTHORITATIVE
+    tool-verified count_p0_p2_tasks == 2 immediately before this write, == 3 after (single
+    restorer, exactly MIN_QUEUE 3 — conservative exact-floor per operator directive,
+    no padding). The two open P2s before this were the two voids staleness deep-reviews
+    minted at 20:24Z (noetic-feelings-void + source-attribution-void); this run adds
+    ONE section/cohort-diversity pick OFF today already-reviewed cohort. SOURCE = staleness
+    (Source 4), the ONLY viable source — full audit re-run: (1 chain) recent_tasks has
+    ZERO research-topic/expand-topic/cross-review completions; (2 unconsumed research)
+    the three fresh 2026-07-15 notes are ALL consumed (live interventionist-and-counterfactual-dualism.md,
+    is-conscious-being-a-natural-kind.md, consciousness-and-the-major-evolutionary-transitions.md);
+    (3 gap/caps) topics 317/320 + concepts 316/320 thin, voids 100/100 capped; (5 orphan)
+    orphaned_files == 0; (6/7 positions) last audit 2026-07-12 <30d not overdue; (8 applied-apex)
+    no high-confidence cluster gap. CHOSEN: concepts/panpsychism.md (last_deep_review
+    2026-06-14, 31d; ai_system claude-opus-4-7, aic 100, body ~3302w — concepts hard
+    3500, LENGTH-SAFE). HONEST CONVERGENCE NOTE: post-review drift since 06-14 is CROSS-LINK
+    ACCRETION ONLY (f8ed2bb44 + 6175e3fd8, both length-neutral), not content drift —
+    a convergence-DAMPED re-review whose yield is the ORTHOGONAL citation lenses (quote-fidelity
+    on Strawson/Chalmers/Whitehead verbatim quotes + citation-currency on the 2024 NY
+    Declaration wording), not drift-verification. Both other genuine-drift candidates
+    (causal-powers, panpsychism) turned out to be cross-link-accretion drift on inspection;
+    panpsychism chosen as the higher-yield quote-dense flagship. OPERATOR STANDING FINDING
+    REPEATS: productive sources remain cap-governed/exhausted; the staleness seam is
+    the sole floor-restore feeder across all 4 replenishes this session — config-level
+    action (lower MIN_QUEUE, slow replenish cadence, or route the 6h harvester into the
+    topics/concepts cap headroom) is warranted, not the replenish agent. Not in any
+    open/vetoed task; not a recent outer-review target. Concurrent /loop may hold this
+    file dirty; targeted Edit preserves in-flight writes.'
   last_floor_restore_note_2026_07_15q_staleness_voids_drift: 'TWO-task floor restore
     by /replenish-queue 2026-07-15T20:24Z. AUTHORITATIVE tool-verified count_p0_p2_tasks
     == 2 immediately before this write, == 4 after (two restorers, one above MIN_QUEUE
