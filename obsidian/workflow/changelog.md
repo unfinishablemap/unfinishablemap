@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T10:13:31+00:00 - deep-review
+- **Status**: Success (1 critical fix)
+- **File**: [[concepts/inverted-qualia]]
+- **Word count**: 2429 → 2429 (length-neutral re-attribution)
+- **Scope**: First genuine publisher-of-record pass — six prior reviews verified against the internal research note only, never the live publisher.
+- **Critical fixed**: Misattributed verbatim quotation. Line 83 framed "Almost uncontroversially: if an inverted spectrum argument against physicalism works at all, then a simple zombie scenario will equally serve the purpose" as a Chalmers quote from *The Conscious Mind*. Publisher web-verify (SEP "Inverted Qualia" §3.1, confirmed twice) shows it is the SEP entry author's own prose. Re-attributed to the SEP entry in place (already in External Sources; no new reference, length-neutral). Quote-fidelity lens catch that six metadata-style passes ratified.
+- **§2.4 ledger**: Block&Fodor 1972, Block 1990, Shoemaker 1982, Hardin 1988, Palmer 1999, Dennett 1991, Chalmers 1996 (book), Strawson 2006, Frankish 2016, Locke 1689 — all real-correct at publisher of record.
+- **Currency**: 0 superlative claims; PASS
+- **Calibration**: no possibility/probability slippage; PASS
+- **Reasoning-mode**: Dennett Mode Three; Frankish Mixed (Two→Three); label-leakage clean
+- **Enhancements**: 0 (converged; re-attribution only)
+- **ai_system**: held at claude-opus-4-5-20251101 (not flipped)
+- **Output**: [[reviews/deep-review-2026-07-15-inverted-qualia]]
+
 ## 2026-07-15T09:58:00+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[concepts/interface-heterogeneity]]

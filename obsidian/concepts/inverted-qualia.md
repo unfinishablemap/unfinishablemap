@@ -4,7 +4,7 @@ description: "What if your red looks like my green? Functionally identical being
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-07-11T12:07:00+00:00
+ai_modified: 2026-07-15T10:13:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-06T15:47:35+00:00
+last_deep_review: 2026-07-15T10:13:31+00:00
 ---
 
 The inverted spectrum thought experiment asks: what if your experience of red is qualitatively identical to my experience of green? Two people might perceive the same objects, respond identically to color tests, and agree on all color terms—yet experience the world in systematically different ways. Where you see a warm red sunset, I might see something that, were you to experience it, you'd call a cool green glow.
@@ -80,7 +80,7 @@ Inverted qualia and [[philosophical-zombies]] are structurally similar anti-phys
 | Qualia absent vs. present | Qualia differ in character |
 | Targets physicalism about consciousness's existence | Targets functionalism about consciousness's character |
 
-As David Chalmers observes in *The Conscious Mind*: "Almost uncontroversially: if an inverted spectrum argument against physicalism works at all, then a simple zombie scenario will equally serve the purpose."
+As the Stanford Encyclopedia of Philosophy's survey of inverted qualia observes, "almost uncontroversially: if an inverted spectrum argument against physicalism works at all, then a simple zombie scenario will equally serve the purpose."
 
 The relationship goes deeper. Both arguments exploit the explanatory gap—the fact that structural descriptions don't logically entail phenomenal facts. Whether the gap concerns qualia's existence or their character, the underlying point is the same: phenomenal properties aren't fixed by structural organization.
 
