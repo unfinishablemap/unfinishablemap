@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T06:28:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/trumping-preemption-mental-causation-2026-04-22]]
+- **Changes**: Reconciled internal inconsistency flagged by ChatGPT 5.6 Pro outer review 2026-07-15 (single-reviewer, scoped). (1) Scoped the timeline's Bealer 2007 priority claim: now "earliest sustained *preemption-style* account located by this note's search (Schaffer/trumping/priority/higher-order terms)" and explicitly noted Bealer is a preemption datapoint, not necessarily a dualist trumping use (preemption ≠ Schaffer-trumping). (2) Rewrote the "Pre-Saad dualist uses of trumping" gaps bullet to state the two loci are reconcilable precisely because Bealer is preemption not dualist-trumping; kept Lowe/Hasker/Swinburne candidates and the deeper-search flag. Length-neutral, surgical. ai_system held at claude-opus-4-7 (scoping edit, not re-authoring).
+- **Published**: yes
+
 ## 2026-07-15T06:25:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument]]

@@ -3,7 +3,7 @@ title: "Research Notes - Trumping Preemption as Mental-Causation Mechanism"
 created: 2026-04-22
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-07-13T17:46:00+00:00
+ai_modified: 2026-07-15T06:28:43+00:00
 draft: false
 description: "Research on Schaffer's trumping preemption and its use as a mechanism for dualist mental causation — solving the exclusion problem without overdetermination or causal competition."
 topics:
@@ -190,7 +190,7 @@ Trumping preemption is a fourth species of redundant causation introduced by Jon
 | 2003 | Lowe, "Physical Causal Closure and the Invisibility of Mental Causation" | Dualist model of systematic mind–body dependence without rampant overdetermination |
 | 2005 | Schaffer, "Contrastive Causation" | Extends trumping to a contrastive framework |
 | 2011 | Hitchcock, "Trumping and Contrastive Causation" | Critical engagement; partial rehabilitation |
-| 2007 | Bealer, "Mental Causation" (*Philosophical Perspectives*) | Earliest sustained preemption account of mental causation; appeals to the major–sergeant case (see Saad 2025 nn. 24, 27) |
+| 2007 | Bealer, "Mental Causation" (*Philosophical Perspectives*) | Earliest sustained *preemption-style* account of mental causation located by this note's search (Schaffer/trumping/priority/higher-order terms); appeals to the major–sergeant case (see Saad 2025 nn. 24, 27). Note: this is a preemption datapoint, not necessarily a *dualist trumping* use — Bealer's mental causation is not obviously dualist, and preemption ≠ Schaffer-trumping specifically |
 | 2014 | Bernstein, "A Closer Look at Trumping" | Reductive analysis: trumping is overdetermination-with-insensitivity |
 | 2024 | Vaassen, "Mental Causation for Standard Dualists" (*Australasian Journal of Philosophy*) | Interventionist defence of standard-dualist mental causation — both mental and physical are causes; NO preemption (author confirmed 2026-07-11: contrast case to the trumping route, lawful-co-causation family) |
 | 2025 | Saad, "A Dualist Theory of Experience" (*Philosophical Studies*) | Delegatory dualism — the most developed trumping-based mental-causation account |
@@ -218,7 +218,7 @@ When writing, follow `obsidian/project/writing-style.md`:
 ## Gaps in Research
 
 - **Empirical tests**: No searches turned up empirical or neuroscientific proposals for distinguishing trumping-based dualism from ordinary physicalism. The trumping view is intentionally designed to be empirically indistinguishable at the trajectory level, so this is by design — but the Map should be explicit about it.
-- **Pre-Saad dualist uses of trumping**: Unclear whether anyone before Saad explicitly invoked Schaffer's trumping for mental causation. Possible candidates: Lowe's "invisible causation" framing, Hasker's emergent dualism, Swinburne. Worth a deeper literature search if writing an article.
+- **Pre-Saad dualist uses of trumping**: The 2007 Bealer datapoint in the timeline above is a *preemption-style* account, not necessarily a *dualist trumping* use, so it does not settle this question — no pre-Saad source located in this note's search explicitly invoked Schaffer's trumping *for dualist* mental causation. Possible candidates for a deeper search: Lowe's "invisible causation" framing, Hasker's emergent dualism, Swinburne. Worth a deeper literature search if writing an article.
 - **Connection to quantum collapse models**: The Map's existing content on Stapp and on [[attention-motor-planning-quantum-interface-2026-01-23]] treats the interaction interface as quantum-level. Whether trumping-style authority can be *realized* at a quantum collapse interface (vs. being purely an attribution-level story) is an open question this research did not resolve.
 - **Access to paywalled sources**: Saad's *Australasian Journal of Philosophy* paper (2024) and Bernstein's papers were not directly accessible; summaries rely on abstracts and secondary discussion.
 - **Formal semantics of "authority"**: The key move — a law selecting one of several sufficient causes as authoritative — is not yet given a standard formal semantics. Potential gap the Map could flag.
