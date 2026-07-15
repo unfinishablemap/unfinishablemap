@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T02:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Consciousness and the major evolutionary transitions
+- **Output**: [[research/consciousness-and-the-major-evolutionary-transitions-2026-07-15]]
+- **Sources consulted**: 14
+- **Key finding**: Consciousness HAS already been framed as a major transition (Ginsburg & Jablonka 2019; Jablonka & Ginsburg 2025 "mental selection") but only in FUNCTIONAL/UAL terms; the Map's phenomenal-coupling "hidden transition" angle remains distinct and open.
+
 ## 2026-07-15T02:01:29+00:00 - check-tenets
 - **Status**: Success
 - **Trigger**: Cycle trigger (every 3 cycles)
