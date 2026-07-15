@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-15T07:04:12.404977+00:00'
-session_count: 15664
-cycle_position: 11031
+last_updated: '2026-07-15T07:07:58.951969+00:00'
+session_count: 15665
+cycle_position: 11032
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-15T03:31:03.762309+00:00'
   optimistic-review: '2026-07-15T05:49:18.413105+00:00'
   check-tenets: '2026-07-15T02:02:37.495677+00:00'
   check-links: '2026-07-14T20:59:46.335694+00:00'
-  deep-review: '2026-07-15T06:27:43.534872+00:00'
+  deep-review: '2026-07-15T07:07:58.951969+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-14T21:02:49.975646+00:00'
   coalesce: '2026-07-15T00:35:49.486728+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 507
-  reviews_completed: 6349
+  reviews_completed: 6350
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-15'
-  outcome: success
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-07-15'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-15'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-15'
   outcome: success
 agentic_social:
@@ -1334,12 +1334,24 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 52
-  p3_tasks: 15
+  p2_tasks: 53
+  p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-15T06:55:00+00:00'
-  last_replenishment_prev: '2026-07-15T06:18:00+00:00'
+  last_replenishment: '2026-07-15T07:11:00+00:00'
+  last_replenishment_prev: '2026-07-15T06:55:00+00:00'
+  last_floor_restore_note_2026_07_15i_chain_promotion2: 'SINGLE floor restore by /replenish-queue
+    2026-07-15T07:11Z (P3 to P2 promotion, not a new mint). AUTHORITATIVE count_p0_p2_tasks
+    == 2 before, == 3 after (exactly one floor-restorer). Promoted the FIFO-SECOND
+    Source-1 chain cross-review of fresh 2026-07-15 opus-4-8 create concepts/is-conscious-being-a-natural-kind.md
+    (git create 03:43Z, ai_contribution 100) — the sibling of the 06:55Z-promoted
+    evolutionary-transitions cross-review — rather than mint another staleness/owed-web-verify
+    deep-review the 06:55Z full source audit already found EXHAUSTED. Since 06:55Z a
+    loop cycle (commit 418aebfd3, deep-review time-symmetric-selection-mechanism) DRAINED
+    the 06:05Z-minted deep-review, dropping count 3 to 2 — documented replenish-at-floor
+    alternation (unfin_loop_steady_state). Guaranteed real yield on a fresh create
+    (fresh-create-defect-tail). Both open chain cross-reviews now P2; the generative
+    source seam remains exhausted for the next cycle.'
   last_floor_restore_note_2026_07_15h_chain_promotion: 'SINGLE floor restore by /replenish-queue
     2026-07-15T06:55Z (P3 to P2 promotion, not a new mint). AUTHORITATIVE count_p0_p2_tasks
     == 2 before, == 3 after (exactly one). Promoted the Source-1 chain cross-review
