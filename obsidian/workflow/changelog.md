@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T22:10:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenal-variation-within-a-species]]
+- **Selection**: apex cluster (not hit today); genuine drift since 06-22 review (four-class 4001w → five-class 4538w via alexithymia integration commits 0c238ec8e/bb2831f0a); two new citations never web-verified
+- **Word count**: 4538 → 4538 (one-phrase fix, length-neutral)
+- **Critical issues addressed**: 1 (stale "next class" forward-reference — Cognitive Phenomenology, not alexithymia, is the section after Reality-Monitoring; fixed to "catalogued below")
+- **Citation web-verify**: Garfinkel 2015 (Biol Psychology 104:65–74) real-correct; Van Bael 2024 (PLOS ONE 19(11) e0310411) real-correct — 7,819-participant figure and "subjective-not-task-based" framing both confirmed exact at PMC/publisher
+- **Enhancements made**: 1
+- **ai_system**: held at claude-opus-4-7 (one-phrase fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-15-phenomenal-variation-within-a-species]]
+
 ## 2026-07-15T22:02:02+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Near-perfect adaptation and control-theoretic competency without experience

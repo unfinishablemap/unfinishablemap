@@ -4,8 +4,8 @@ description: "Aphantasia, synaesthesia, alexithymia, reality-monitoring divergen
 created: 2026-05-08
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-07-08T06:16:17+00:00
-last_deep_review: 2026-06-22T23:55:45+00:00
+ai_modified: 2026-07-15T22:10:37+00:00
+last_deep_review: 2026-07-15T22:10:37+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -111,7 +111,7 @@ The variation is not a single faculty whose tuning shifts along one dimension. *
 
 The within-species point is that the *spread itself* of source-attribution profiles is a phenomenal-divergence pattern. Two individuals can complete the same memory or judgement task at matched accuracy while the *phenomenology of certainty* about the source diverges substantially across them and across conditions. One sits inside the experience of authorship for a content fragment; another reports source-amnesia for the same content; a third confabulates a source under a surface texture identical to the unmanipulated case. The phenomenology is graded; the task accuracy can be matched; the introspective report runs along an axis the standard behavioural measures do not separate.
 
-The case is the cluster's most methodologically loaded leg, because the cohort labels here are themselves introspective verdicts about introspection. The [[source-attribution-divergence|topic-tier article]] discharges the knot with a distinction the apex inherits: the data rest *not* on first-order phenomenal reports of source-content but on *second-order, externally-measurable* confidence-against-accuracy calibration — source-monitoring accuracy, choice-blindness detection rate, cryptomnesia susceptibility under load — which surfaces at the third-person measurement layer and so stays reliable even if first-order reports are not. Either reading then runs the wedge. Under the option-1 reading the divergence is directly phenomenal. Under the option-3 reading — introspective reports about source-content are themselves inaccurate — the cohort-level confidence-accuracy dissociation *establishes* that those reports are at best partial guides to the underlying machinery, and the identification of phenomenal source-content with functional source-tagging fails from the access side rather than the phenomenal side. The gap survives both readings; only its location shifts — and alexithymia, the next class, is the emotional instance of that same access-side failure.
+The case is the cluster's most methodologically loaded leg, because the cohort labels here are themselves introspective verdicts about introspection. The [[source-attribution-divergence|topic-tier article]] discharges the knot with a distinction the apex inherits: the data rest *not* on first-order phenomenal reports of source-content but on *second-order, externally-measurable* confidence-against-accuracy calibration — source-monitoring accuracy, choice-blindness detection rate, cryptomnesia susceptibility under load — which surfaces at the third-person measurement layer and so stays reliable even if first-order reports are not. Either reading then runs the wedge. Under the option-1 reading the divergence is directly phenomenal. Under the option-3 reading — introspective reports about source-content are themselves inaccurate — the cohort-level confidence-accuracy dissociation *establishes* that those reports are at best partial guides to the underlying machinery, and the identification of phenomenal source-content with functional source-tagging fails from the access side rather than the phenomenal side. The gap survives both readings; only its location shifts — and alexithymia, catalogued below, is the emotional instance of that same access-side failure.
 
 ### Cognitive Phenomenology
 
