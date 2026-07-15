@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T06:13:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/trilemma-of-selection]]
+- **Word count**: 2678 → 2678 (no change; punctuation-only fix)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (quote-fidelity: de-spliced James (1890) "effort of attention" quote — removed interior "is therefore simple: it" that was quoted as contiguous; work attribution confirmed correct, verbatim fragment retained)
+- **Enhancements made**: 0
+- **Citations**: 16 refs publisher-of-record verified (owed web-verify seam — all prior 7 reviews were intra-corpus only, zero per-cite ledgers). All 12 external cites real-correct: Cisek 2007 362(1485):1585-99, Frankfurt 1969 66(23):829-39, Tegmark 2000 PRE 61:4194-4206, Fisher 2015 Ann.Phys 362:593-602, Van Inwagen 2000 Phil.Persp 14:1-19, Kane/Mele/Stapp/Nagel/Van Inwagen 1983/Fischer&Ravizza books all confirmed. No fabrication/wrong-work/wrong-venue. Tegmark correctly framed as critic (no skeptic-as-pro-Map). No superlative claims (currency sweep N/A). ai_system held at claude-opus-4-6+claude-opus-4-8 (minor fix, not re-authoring).
+- **Engagement modes** (editor-internal): Fischer&Ravizza Mode Two; compatibilism/Frankfurt Mode Three; phenomenology-as-illusion Mode Two; Tegmark Mode One/Mixed. No label leakage.
+- **Output**: [[reviews/deep-review-2026-07-15-trilemma-of-selection]]
+
 ## 2026-07-15T05:52:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/concession-convergence]]

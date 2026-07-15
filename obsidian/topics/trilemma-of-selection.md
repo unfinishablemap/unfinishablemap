@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-06-15T20:42:33+00:00
+ai_modified: 2026-07-15T06:13:05+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-10
 last_curated:
-last_deep_review: 2026-06-15T20:42:33+00:00
+last_deep_review: 2026-07-15T06:13:05+00:00
 ---
 
 When a neural decision point involves genuine indeterminacy, exactly three options obtain. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three exhaust the logical space. No fourth possibility exists.
@@ -74,7 +74,7 @@ Three features distinguish this from randomness:
 
 **Reasons-guidance.** [[reasons-responsiveness|Selection tracks reasons]]—goals, values, considerations that bear on the decision. The [[valence-and-conscious-selection|valence of anticipated outcomes]] provides the common metric by which consciousness evaluates competing options. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome (alternatives remained possible), but they *guided* it. This makes the choice contrastively explicable in a way randomness cannot be.
 
-**Phenomenology of effort.** Random processes don't feel like anything. But choosing feels effortful, and the effort scales with difficulty. William James observed that "the free will question relates solely to the amount of effort of attention." The felt cost corresponds to genuine causal engagement—consciousness doing work to stabilise the selected option against competitors.
+**Phenomenology of effort.** Random processes don't feel like anything. But choosing feels effortful, and the effort scales with difficulty. William James observed that the free-will question "relates solely to the amount of effort of attention." The felt cost corresponds to genuine causal engagement—consciousness doing work to stabilise the selected option against competitors.
 
 **Neural distinctiveness.** Willed action shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or instructed processing. The brain distinguishes between what the agent chooses and what merely happens. If consciousness contributed nothing, this distinction would serve no purpose.
 
