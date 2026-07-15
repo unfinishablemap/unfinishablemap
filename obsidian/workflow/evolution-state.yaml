@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-15T10:34:53.874371+00:00'
-session_count: 15696
-cycle_position: 11043
+last_updated: '2026-07-15T10:44:12.832516+00:00'
+session_count: 15697
+cycle_position: 11044
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-15T03:31:03.762309+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-07-15T08:57:03.884195+00:00'
   replenish-queue: '2026-07-15T10:34:53.874371+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
-  expand-topic: '2026-07-15T03:43:19.977207+00:00'
+  expand-topic: '2026-07-15T10:44:12.832516+00:00'
   add-highlight: '2026-07-15T08:05:49.690113+00:00'
   literature-drift-review: '2026-07-14T06:25:17.065196+00:00'
   collect-chatgpt-review: '2026-07-15T04:07:36.118757+00:00'
@@ -85,7 +85,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 316
+  topics_written: 317
   concepts_written: 316
   arguments_written: 5
   questions_written: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-07-15'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-07-15'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-15'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-07-15'
   outcome: success
 agentic_social:
@@ -1337,8 +1337,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-15T09:54:56+00:00'
-  last_replenishment_prev: '2026-07-15T09:05:00+00:00'
+  last_replenishment: '2026-07-15T10:46:00+00:00'
+  last_replenishment_prev: '2026-07-15T09:54:56+00:00'
   last_floor_restore_note_2026_07_15n_chain_trumping_rewrite: 'SINGLE floor restore
     by /replenish-queue 2026-07-15T09:54Z. AUTHORITATIVE tool-verified count_p0_p2_tasks
     == 2 before, == 3 after (exactly one restorer). Productive sources dry/governed
@@ -1356,6 +1356,27 @@ queue_status:
     or open a new generative source (re-point at newer opus-4-8 creates past the 7-day
     SEO buffer, or let the 6h harvester feed research->expand into the 4-slot topics/concepts
     cap headroom).'
+  last_floor_restore_note_2026_07_15o_chain_delegation_coherence: 'SINGLE floor restore
+    by /replenish-queue 2026-07-15T10:46Z. AUTHORITATIVE tool-verified count_p0_p2_tasks
+    == 2 before, == 3 after (exactly one restorer, MIN_QUEUE 3). Since the 09:54Z (7_15n)
+    restore: the interface-heterogeneity converged-staleness deep-review DRAINED (commit
+    d93bb5f11) and the interventionist-and-counterfactual-dualism expand-topic EXECUTED
+    (commit 2481b9b50) — the expand added its OWN cross-review chain successor (top of
+    Active), leaving pickable == 2 (interventionist cross-review + the 7_15n ensemble-level-epiphenomenalism
+    cross-review). HEAD 2481b9b50 is that expand-topic, NOT a replenish, so the consecutive-replenish
+    guard holds. SOURCE = chain (+50, highest-value AVAILABLE; productive sources dry
+    — 8-source audit in the task Promoted note): minted a P2 cross-review of topics/delegation-meets-quantum-selection.md
+    for coherence with today''s consolidated trumping-preemption.md + delegatory-causation.md
+    mechanism-tension rewrite. That article is the one that most directly builds the
+    delegation<->quantum-selection identification the reframe complicates (it calls the
+    two frameworks "mutually completing" / "a single event"), and it is covered by NEITHER
+    already-queued cross-review — a distinct, non-duplicate chain successor, not churn.
+    Concurrent /loop in-flight state write preserved via targeted Edit ([[concurrent-replenish-race]]).
+    REPEATED OPERATOR FINDING (6th flag this session): productive replenish sources are
+    exhausted and floor-restore mints are increasingly chain-only; config-level action
+    (lower MIN_QUEUE, reduce replenish cadence, or open a new generative source once the
+    newer opus-4-8 cohort ages past the 7-day SEO buffer / via the 6h harvester into the
+    4-slot cap headroom) is warranted — not the replenish agent''s call.'
   last_floor_restore_note_2026_07_15m_unconsumed_research: 'SINGLE floor restore by
     /replenish-queue 2026-07-15T09:05Z. AUTHORITATIVE tool-verified count_p0_p2_tasks
     == 2 before, == 3 after (exactly one restorer). The 08:17Z interface-heterogeneity
