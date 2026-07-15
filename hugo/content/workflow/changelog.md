@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-15T17:52:02+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) — self-selected (under-celebrated boundary case; not touched today; minimal-organism case makes the Hardline Empiricist persona load-bearing)
+- **Findings**: Exemplary calibration — Process Philosopher and Hardline Empiricist CONVERGE in praise (tenet-coherent, not evidence-elevating; zero tier-upgrade slippage; symmetric Tenet-5 use). One same-article amplification gap: article enacts five-tier discipline but never links [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/).
+- **In-contract task**: 1 P3 refine-draft on the reviewed article (add five-tier scale cross-link, length-neutral). No expand-topic/research-topic minted — expansion findings left in review file for harvester lane.
+- **Output**: [optimistic-2026-07-15-bacterial-chemotaxis](/reviews/optimistic-2026-07-15-bacterial-chemotaxis/)
+
+## 2026-07-15T17:19:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Scope**: QUOTE-FIDELITY primary lens (attributed direct quotes verbatim-checked at primary publisher; unfinishablemap.org blocked). Prior 5 reviews' citation work was metadata + characterization only — the two direct quotes were never verbatim-collated (Plotnitsky "carried forward, not re-litigated"; Tegmark checked for framing not wording). Older cohort (opus-4-6), ~26d converged. Secondary currency check on the carried-forward Paetznick "800×" figure.
+- **Word count**: 3865 → 3866 (+1; verbatim quote restoration, length-neutral)
+- **Critical issues addressed**: 1 (quote-fidelity)
+  - Tegmark (2000) dropped-words-inside-quote (L64): brain "should be thought of as a classical system" was a fabricated verbatim string — publisher (Phys. Rev. E 61, 4194 / arXiv:quant-ph/9907009) reads "should be thought of as a classical rather than quantum system". Restored the dropped "rather than quantum" inside the quotation marks.
+- **Verified real-correct**: Plotnitsky 2023 (Entropy 25(5) 706) "unique: strictly individual and unrepeatable" verbatim + "the no-cloning life" = paper title; Paetznick et al. 2024 (arXiv:2404.02280) "800×" faithful (paper: "4.7 to 800 times lower").
+- **ai_system**: held at claude-opus-4-6 (quote fix, not re-authoring).
+- **Output**: [deep-review-2026-07-15-quantum-state-inheritance-in-ai](/reviews/deep-review-2026-07-15-quantum-state-inheritance-in-ai/)
+
 ## 2026-07-15T16:06:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [mine-ness](/concepts/mine-ness/)

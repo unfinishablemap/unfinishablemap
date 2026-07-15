@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T18:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]]
+- **Type**: AMPLIFY-A-STRENGTH (from 2026-07-15 optimistic review); strict length-neutral scope
+- **Changes**: Added one clause + wikilink in the Tenet 5 paragraph naming where the bacterial rung sits on the Map's evidential scale — links [[birch-edge-of-sentience-and-the-five-tier-scale|five-tier evidential scale]] and places the rung at the *speculative-integration floor* (lowest tier, tenet-coherence rather than positive evidence). Target slug verified live and basename-unique; wikilink converts to /topics/birch-edge-of-sentience-and-the-five-tier-scale/. No existing hedge/calibration qualifier touched; CBC empirical dispute not re-opened. ai_system held at claude-opus-4-8 (link-add, not re-authoring).
+- **Published**: yes
+
 ## 2026-07-15T17:52:02+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]] — self-selected (under-celebrated boundary case; not touched today; minimal-organism case makes the Hardline Empiricist persona load-bearing)
