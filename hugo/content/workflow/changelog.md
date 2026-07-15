@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-15T20:04:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
+- **Lens**: quote-fidelity (publisher-of-record verbatim check; metadata seam exhausted, not re-run as primary). unfinishablemap.org blocked as circular source.
+- **Word count**: ~2760 → ~2760 (+2 words; fidelity fix only)
+- **Critical issues addressed**: 1 — unmarked ellipsis inside an internal direct quote (L73). Article fused two non-adjacent spans of the [Tenet-Dependency Matrix](/tenets/) instruction inside one pair of quotes ("should not import [dropped: interactionism, agent-causal subject, or] any mechanism-specific commitment as background"). Fixed by quoting only the two genuinely contiguous verbatim spans; "should not import"/"and should" moved outside the quotes.
+- **Quote ledger (all verbatim-correct at publisher)**: Butlin/Long 2023 arXiv:2308.08708 "no current AI systems are conscious" + "no obvious technical barriers..." ✓ (Butlin & Long co-first authors — memory butlin-2308-08708 re-confirmed); Long/Sebo 2024 arXiv:2411.00986 "a realistic possibility that some AI systems will be conscious and/or robustly agentic in the near future" ✓; Seth BBS 2025 "unlikely along current trajectories" ✓; IIT digital simulation "would experience next to nothing" ✓. Both paper titles verbatim-correct.
+- **Engagement modes** (editor-internal): Birch — Mode Three (boundary-marking, convergence-limits declared, no boundary-substitution); Seth/IIT — independent-route citation, mechanism honestly conceded non-load-bearing. No label leakage.
+- **Timestamps**: ai_modified + last_deep_review → 2026-07-15T20:04:24+00:00; ai_system HELD at claude-opus-4-7 (fidelity fix, not re-authoring).
+- **Output**: [deep-review-2026-07-15-assessing-ai-consciousness-under-the-map](/reviews/deep-review-2026-07-15-assessing-ai-consciousness-under-the-map/)
+
+## 2026-07-15T18:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/)
+- **Type**: AMPLIFY-A-STRENGTH (from 2026-07-15 optimistic review); strict length-neutral scope
+- **Changes**: Added one clause + wikilink in the Tenet 5 paragraph naming where the bacterial rung sits on the Map's evidential scale — links [five-tier evidential scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) and places the rung at the *speculative-integration floor* (lowest tier, tenet-coherence rather than positive evidence). Target slug verified live and basename-unique; wikilink converts to /topics/birch-edge-of-sentience-and-the-five-tier-scale/. No existing hedge/calibration qualifier touched; CBC empirical dispute not re-opened. ai_system held at claude-opus-4-8 (link-add, not re-authoring).
+- **Published**: yes
+
 ## 2026-07-15T17:52:02+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) — self-selected (under-celebrated boundary case; not touched today; minimal-organism case makes the Hardline Empiricist persona load-bearing)
