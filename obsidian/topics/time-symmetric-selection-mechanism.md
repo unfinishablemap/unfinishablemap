@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-06-04T09:46:32+00:00
+last_deep_review: 2026-07-15T07:06:00+00:00
 ---
 
 Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [[atemporal-causation|atemporal constraint satisfaction]]. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [[libet-experiments|Libet experiments]]: neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.

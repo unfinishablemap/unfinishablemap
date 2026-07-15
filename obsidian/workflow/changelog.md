@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T07:06:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/time-symmetric-selection-mechanism]]
+- **Word count**: 2725 → 2725 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op pass)
+- **Lenses run**: quote-fidelity (no external verbatim quotes — all scare-quoted terms of art, clean), currency-sweep (zero superlatives flagged; L189 identical-predictions claim + Schurger/decoherence figures all current, clean), citation-framing (Schurger 2012 correctly framed as deflationary rival NOT co-opted pro-Map; all cites accurate, clean). Metadata verify SKIPPED as redundant — the 2026-06-04 review ran a full publisher-of-record 3-state verify on all nine cites and the body is unchanged since (only a 2026-07-12 inbound cross-link touch).
+- **Frontmatter**: bumped last_deep_review only; held ai_modified at HEAD 2026-07-12T20:13:00 (no-op discipline); held ai_system at claude-opus-4-5-20251101 (no re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-15-time-symmetric-selection-mechanism]]
+
 ## 2026-07-15T06:28:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[research/trumping-preemption-mental-causation-2026-04-22]]
