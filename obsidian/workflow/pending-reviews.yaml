@@ -27,3 +27,31 @@
   subject_articles:
   - concepts/trumping-preemption.md
   subject_source: outer-todo.md:L48
+- service: claude
+  conversation_url: https://claude.ai/chat/b64625ec-8f72-449b-9cb2-ebb7ad54974a
+  commissioned_at: '2026-07-15T03:08:08.976951+00:00'
+  prompt_summary: 'trumping-preemption: Bealer/Saad/Vaassen reframing accuracy'
+  target_filename: outer-review-2026-07-15-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'I''d like a rigorous, skeptical outer review of one article on The
+    Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind site.
+    Focus on the concept article "Trumping Preemption": https://unfinishablemap.org/concepts/trumping-preemption/.
+    Central question: does it now represent the recent philosophical literature on
+    trumping and causal preemption accurately? Pay particular attention to how it
+    characterizes the work of George Bealer, Bram Vaassen, and Bradford Saad, especially
+    whether Vaassen''s 2024 account is framed correctly as an interventionist "both
+    are causes" view rather than as a case of preemption. Check every attribution,
+    date, venue, and quoted claim against primary sources, and flag any misrepresentation,
+    anachronism, or overreach. Use web search; note that search indexes lag the site
+    by 24-48 hours, so also consult the changelog at https://unfinishablemap.org/workflow/changelog/.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: queue
+  subject_title: Does concepts/trumping-preemption.md now represent the recent literature
+    accurately?
+  subject_articles:
+  - concepts/trumping-preemption.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-15-chatgpt-5-5-pro.md
