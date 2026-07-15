@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-15T05:29:25.833552+00:00'
-session_count: 15652
-cycle_position: 11026
+last_updated: '2026-07-15T05:34:40.798611+00:00'
+session_count: 15653
+cycle_position: 11027
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-15T03:31:03.762309+00:00'
   optimistic-review: '2026-07-14T23:30:59.928243+00:00'
   check-tenets: '2026-07-15T02:02:37.495677+00:00'
   check-links: '2026-07-14T20:59:46.335694+00:00'
-  deep-review: '2026-07-15T05:22:19.064835+00:00'
+  deep-review: '2026-07-15T05:34:40.798611+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-14T21:02:49.975646+00:00'
   coalesce: '2026-07-15T00:35:49.486728+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 507
-  reviews_completed: 6344
+  reviews_completed: 6345
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-15'
-  outcome: success
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-07-15'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-15'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-15'
   outcome: success
 agentic_social:
@@ -1336,9 +1336,28 @@ queue_status:
   p2_tasks: 50
   p3_tasks: 16
   needs_replenishment: false
-  loop_pickable_open: 4
-  last_replenishment: '2026-07-15T05:15:01+00:00'
-  last_replenishment_prev: '2026-07-15T03:24:02+00:00'
+  loop_pickable_open: 5
+  last_replenishment: '2026-07-15T05:39:38+00:00'
+  last_replenishment_prev: '2026-07-15T05:15:01+00:00'
+  last_floor_restore_note_2026_07_15e_staleness_mint: 'SINGLE-MINT floor restore by
+    /replenish-queue 2026-07-15T05:39Z (26th this session; 5th of 07-15 UTC). AUTHORITATIVE
+    count_p0_p2_tasks == 2 before, == 3 after (exactly one mint). Open P0-P2 pre-mint:
+    the P2 trilemma-of-selection staleness deep-review (minted 05:15) + the P2 trumping-preemption
+    research-note timeline/gaps reconcile (outer-review 07-15). The 05:15 note''s P1
+    methodology primary-source-gate task DRAINED into commit 0f8593f36 auto(refine-draft),
+    dropping the count from 3 back to 2. Minted ONE staleness deep-review: concepts/concession-convergence.md
+    — most citation-dense (~38 refs) stale intra-corpus-only article, last_deep_review
+    2026-06-03 (42d), converged on own content (2026-07-12 touch was an inbound cross-link
+    add only, not a content edit), no dedicated outer-review file → high-yield owed-web-verify
+    target. 8-source audit: (chain) two newest research notes (is-conscious-being-a-natural-kind,
+    consciousness-and-the-major-evolutionary-transitions) already consumed into 07-15
+    articles with P3 cross-reviews queued; older research notes consumed. (unconsumed_research)
+    none. (gap) none fresh. (staleness) reliable source — mint above. (orphan) n/a.
+    (length) exhausted — real-article over-runs are marginal hub/flagship items already
+    tracked as HUMAN LENGTH DECISION P3s or #veto''d condense tasks (memory unfin_loop_steady_state).
+    (positions) no fresh implied-position or dependency-change. (applied-apex) none.
+    No concurrent loop conflict (git status pre-edit clean except this state file).
+    Exact-floor restore (not +1 buffer) chosen this pass.'
   last_floor_restore_note_2026_07_15d_staleness_mint: 'GENUINE 2-MINT floor restore
     by /replenish-queue 2026-07-15T05:15Z (25th this session; 4th of 07-15 UTC). AUTHORITATIVE
     PRE-COUNT == 2 live pickable P0-P2 (open: the P1 methodology primary-source-gate
