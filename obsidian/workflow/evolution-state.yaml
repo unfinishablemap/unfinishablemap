@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-15T20:14:38.625455+00:00'
-session_count: 15783
-cycle_position: 11079
+last_updated: '2026-07-15T20:19:59.088222+00:00'
+session_count: 15784
+cycle_position: 11080
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-15T16:46:56.563038+00:00'
   optimistic-review: '2026-07-15T17:54:22.485289+00:00'
   check-tenets: '2026-07-15T02:02:37.495677+00:00'
   check-links: '2026-07-15T09:23:07.143198+00:00'
-  deep-review: '2026-07-15T20:06:57.803261+00:00'
+  deep-review: '2026-07-15T20:19:59.088222+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-15T09:26:30.070669+00:00'
   coalesce: '2026-07-15T13:52:01.989273+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 508
-  reviews_completed: 6373
+  reviews_completed: 6374
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-07-15'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-15'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-15'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-15'
   outcome: success
 agentic_social:
@@ -1346,9 +1346,37 @@ queue_status:
   p2_tasks: 56
   p3_tasks: 14
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-15T10:46:00+00:00'
-  last_replenishment_prev: '2026-07-15T09:54:56+00:00'
+  loop_pickable_open: 4
+  last_replenishment: '2026-07-15T20:24:00+00:00'
+  last_replenishment_prev: '2026-07-15T10:46:00+00:00'
+  last_floor_restore_note_2026_07_15q_staleness_voids_drift: 'TWO-task floor restore
+    by /replenish-queue 2026-07-15T20:24Z. AUTHORITATIVE tool-verified count_p0_p2_tasks
+    == 2 immediately before this write, == 4 after (two restorers, one above MIN_QUEUE
+    3 for a next-slot buffer so replenish does not immediately re-trigger). SOURCE =
+    staleness (Source 4). The two open P2s above are today staleness deep-reviews of
+    topics/the-reverse-inference (converged) + concepts/prospective-memory (converged);
+    minted two SECTION-DIVERSITY voids picks with GENUINE post-review drift (higher
+    yield than converged re-review, dodges deep_review_over_reviews_converged churn):
+    voids/noetic-feelings-void.md (last_deep_review 2026-06-02, ai_modified 2026-06-05
+    == ~3d unverified drift, 16 cites, 2981w) and voids/source-attribution-void.md
+    (last_deep_review 2026-06-03, ai_modified 2026-06-04 == ~1.75d drift, 18 cites,
+    2877w). Both length-safe (voids soft 2000 / hard 3000), routed length-neutral to
+    quote-fidelity + citation-currency + framing lenses. Neither is in any open/vetoed
+    task (todo hits are a June-completed cross-review note referencing cross-links into
+    them, not deep-review tasks) and neither is a recent outer-review target. FIFO-placed
+    BELOW the two older same-priority staleness tasks so they drain first (queue-lifo-starvation).
+    Eight-source audit: (1 chain) no un-emitted successor this cycle. (2 unconsumed
+    research) cap-governed, not replenish job. (3 gap/caps) topics 317/320 + concepts
+    316/320 thin headroom but harvester/Vetoed-bank-governed; voids 100/100 capped.
+    (4 staleness) CHOSEN. (5 orphan) orphaned_files == 0. (6/7 positions) last audit
+    2026-07-12 (<30d, NOT overdue per replenish-positions-audit-false-overdue); no dependency-changed
+    update pending. (8 applied-apex) no high-confidence cluster gap. REPEATED OPERATOR
+    FINDING: productive sources remain cap-governed/exhausted and floor-restore mints
+    lean on the staleness seam; config-level action (lower MIN_QUEUE, reduce replenish
+    cadence, or let the 6h harvester feed research->expand into the topics/concepts
+    cap headroom) is warranted, not the replenish agent call. Concurrent /loop may hold
+    this file dirty; targeted Edit preserves in-flight writes (concurrent-replenish-race,
+    replenish-note-bare-hash-breaks-yaml).'
   last_floor_restore_note_2026_07_15p_chain_epiphenomenalist_threat: 'SINGLE floor
     restore by /replenish-queue 2026-07-15T13:10Z. AUTHORITATIVE tool-verified count_p0_p2_tasks
     == 2 immediately before this write, == 3 after (exactly one restorer, MIN_QUEUE
