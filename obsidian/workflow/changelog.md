@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T22:34:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/quantum-holism-and-phenomenal-unity]] (cycle-slot selection; argument-dense flagship, last pessimistically reviewed pre-05-22, deep-reviewed 07-14 but not touched today)
+- **Key findings**: HIGH — Leibniz "mill" category-mismatch argument proves too much: it forbids ANY physical structure (quantum holism included, per the article's own "still *physical* holism" concession) from constituting phenomenal unity, contradicting the lead's "substrate structurally matching unity" framing; claim needs to be recast as analogical+locational, not constitutive. MEDIUM — epistemic→metaphysical equivocation on "ontological unity at the level of physics itself, not mere correlation" (non-separability is formal; the monist reading is interpretation-dependent). MEDIUM — two argument-from-ignorance moves (Warren "no alternative classical explanation"; epothilone "no classical mechanism explains"). Minor: Neven authority restates contested premise, Whitehead alignment undefended, zombie reformulation assumes what illusionists deny, two of five falsifiers untestable in practice. Strengths: exemplary LLM-first lead, high citation honesty (Baum/Vicente, Denton-computational, Hagan/Reimers-live all already calibrated), no label leakage.
+- **Task queued**: P2 refine-draft on the reviewed article (in-contract)
+- **Output**: [[reviews/pessimistic-2026-07-15-quantum-holism-and-phenomenal-unity]]
+
 ## 2026-07-15T22:29:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/noetic-feelings-void]]
