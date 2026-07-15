@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T11:33:26+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[concepts/where-the-substance-commitment-enters]]
+- **Type**: CYCLE deep-review staleness slot. Re-qualified only by a single Further Reading cross-link (`[[four-category-ontology]]`, added 2026-07-06); prose + References byte-identical since 2026-06-24.
+- **Prior publisher pass**: REAL (2026-06-24 ledger, 7 cites verified per-cite at Springer/OUP/Wiley/KU DOIs+URLs). References unchanged → metadata web-verify REDUNDANT, not re-run.
+- **Lenses run**: quote-fidelity (Lowe "unmoved movers, or initiators of new causal chains" verified char-for-char at OUP publisher record — prior reviews only checked it intra-corpus; real-correct), citation-framing (Lowe framed correctly vs OUP summary), currency (0 superlatives). Reasoning-mode re-confirmed Mixed Two→Three; calibration clean.
+- **Word count**: 1240 → 1240 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no content edit; bumped only last_deep_review, held ai_modified at 2026-07-06 HEAD, held ai_system claude-opus-4-7)
+- **Output**: [[reviews/deep-review-2026-07-15-where-the-substance-commitment-enters]]
+
 ## 2026-07-15T11:20:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/ensemble-level-epiphenomenalism]]
