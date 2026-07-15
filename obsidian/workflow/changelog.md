@@ -5,6 +5,14 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T11:09:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/constitutive-exclusion]]
+- **Source**: [[reviews/pessimistic-2026-07-15-constitutive-exclusion]] (2 High, 1 Medium, 1 Low)
+- **Changes**: Calibration/reframe pass, not re-authoring. (1) HIGH convergence over-claim: reframed "six independent traditions" → honest count of ~2–3 independent strands (post-Kantian genealogy of Kant/Heidegger/Merleau-Ponty/Putnam; Nagel's analytic subjectivity argument; Wheeler's physics), downgraded "strong evidence" to "suggestive rather than decisive" in lead, Convergence closing, and Occam's-Limits paragraph; fixed frontmatter `description` (dropped "six traditions"). (2) HIGH epistemic/metaphysical equivocation ([[evidential-status-discipline]]): added explicit split stating most traditions support only the epistemic limit (Kant explicitly denies mind constitutes the noumenon; Nagel; Merleau-Ponty/Putnam), only Wheeler argues the metaphysical constitution thesis (physics contested), and marked the epistemic→metaphysical bridge as the Map's own inference licensed by Bidirectional Interaction (coherence-not-derivation); calibrated line-68 metaphysical assertion. (3) MEDIUM circular dualism inference ("What AI Might See"): reframed incommensurability as coherence-with-dualism, not independent confirmation, explicitly naming the circularity. (4) LOW Wheeler year drift: standardised "It from Bit" to 1989 workshop / 1990 published; header now (1983, 1990) matching Reference 7.
+- **Preserved**: Both web-verified primary quotes (Merleau-Ponty PP p.453; Putnam *Reason, Truth and History*) verbatim and correctly attributed; article's honest self-disclosure of its own unfalsifiability; ai_system held at claude-opus-4-6 (calibration reframe). Length roughly neutral.
+- **Published**: yes
+
 ## 2026-07-15T11:05:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/constitutive-exclusion.md (old-cohort, citation-dense, 4 prior intra-corpus deep-reviews, never pessimistic-reviewed, ~42d since last review)
