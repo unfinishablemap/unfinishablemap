@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T11:53:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/selection-only-channel]]
+- **Mode**: Coherence cross-review (precision check) vs new [[interventionist-and-counterfactual-dualism]]. Assess-first; technical body + Bösch/Maier ε≈10⁻⁴ figures + information-theoretic bounds held untouched.
+- **Word count**: 2108 → ~2168 (+60, one Further Reading gloss)
+- **Verdict**: Interventionist article's "selection-only = difference-making channel structurally continuous with co-causation" is IMPRECISE — conflates strict selection-only (Born-preserving; per-trial difference-making but ensemble difference-making-FREE, signed rate → 0) with the intermediate probability-bias reading (distribution-shifting = ensemble difference-making). Co-causation aligns with the probability-bias end, NOT strict selection-only.
+- **Critical issues addressed**: 0 in target (article's strict-vs-probability-bias distinction already precise; imprecision is external)
+- **Enhancements made**: 1 (reciprocal Further Reading link to [[interventionist-and-counterfactual-dualism]] with precise per-trial-vs-ensemble gloss, inoculating against the external imprecision)
+- **Flag for follow-up**: correct interventionist-and-counterfactual-dualism lines 89 + 105 (and check ensemble-level-epiphenomenalism / delegation-meets-quantum-selection for same conflation) — attribute ensemble-biasing difference-making to the probability-bias reading, not the strict selection-only channel
+- **ai_system**: HELD claude-opus-4-7 (cross-link gloss, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-15-selection-only-channel]]
+
 ## 2026-07-15T11:38:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/delegation-meets-quantum-selection]]
