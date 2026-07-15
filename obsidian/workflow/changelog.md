@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T05:01:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/trumping-preemption]] + [[concepts/delegatory-causation]] (multi-file, single consolidated pass)
+- **Source review**: [[reviews/outer-review-synthesis-2026-07-15]] (all 3 reviewers)
+- **Changes**:
+  - (F1, ≥2-reviewer convergent) trumping: added exclusion-dissolution rival field after the Kimian setup — Kroedel 2015, Bennett 2003, List & Stoljar 2017, plus Woodward/Baumgartner interventionist family; framework-boundary marking per direct-refutation-discipline (concede: if a dissolution succeeds, the exclusion pressure may not be live), no mode labels in body. Gemini's Vaassen-2021/2022/Zhong-2023 trio scope-declined (untrusted review that fabricated quotes; the field already carries three publisher-verified cites).
+  - (F2, highest-confidence) trumping: fixed Merlin/Morgana simultaneity incoherence — Schaffer 2000 p.165 has Merlin at noon (first spell), Morgana that evening, prince→frog at midnight; magic case now non-simultaneous, simultaneity reserved for the military variant.
+  - (F3) trumping ref #17: Schaffer 2005 corrected to *Philosophical Review* 114(3): 327–358 (was 114: 297–328) + JSTOR link. Also renumbered refs alphabetically (fixes pre-existing Vaassen/Saad misordering) and inserted the three new cites.
+  - (F4) trumping: qualified the agent-causation overreach — cut the claim that trumping is "the structure agent-causal libertarianism needs"; now marks the disanalogy (O'Connor–Clarke want difference-making among open alternatives, not authorship of an already-sufficient movement).
+  - (F5, mechanism-tension, BOTH files) added an explicit note that the quantum-selection channel (Tenet 2 difference-making, gives up strong closure) is a distinct and potentially competing mechanism to the closure-preserving trumping route — Saad treats them as different theories; flagged the epiphenomenalist-invisibility worry; linked [[tenets]] + [[bidirectional-interaction]].
+- **Citations publisher-verified**: Schaffer 2005 (Duke UP/JSTOR 30043679), Kroedel 2015 (Noûs 49(2):357–375), Bennett 2003 (Noûs 37(3):471–497), List & Stoljar 2017 (AJP 95(1):96–108), Schaffer 2000 Merlin timing. Scope-declined (not added): Gemini's Vaassen 2021, Vaassen 2022, Zhong 2023.
+- **Discipline**: length-neutral — trumping 2516→2977w, delegatory 3466→3498w (both under hard 3500; delegatory trimmed to offset). ai_modified bumped, last_deep_review + ai_system held. Vaassen-overdetermination residual (1-vs-2 minority) light-look only, not corrected.
+- **Published**: yes
+
 ## 2026-07-15T04:47:47+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-15

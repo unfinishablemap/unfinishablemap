@@ -2,9 +2,9 @@
 title: "Delegatory Causation"
 description: "Bradford Saad's unified mechanism for mental causation: experiences preempt the default causal profile of physical brain states by trumping rather than competing—solving the exclusion problem without overdetermination."
 created: 2026-02-15
-modified: 2026-04-22
+modified: 2026-07-15
 human_modified: null
-ai_modified: 2026-06-22T08:28:08+00:00
+ai_modified: 2026-07-15T05:01:00+00:00
 last_deep_review: 2026-06-22T20:21:59+00:00
 draft: false
 topics:
@@ -121,7 +121,7 @@ A key feature of delegatory causation is its empirical invisibility—what Saad 
 
 Saad distinguishes *universal* causal closure (every physical event has a sufficient physical cause—no exceptions) from *observational* closure (no observable violations of physical causal patterns). Delegation violates the former but respects the latter. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet makes a parallel claim: consciousness influences outcomes "without injecting energy or violating conservation laws" and produces no "empirically detectable" anomalies.
 
-This means delegation's case rests on philosophical argument rather than empirical prediction. The theory does not generate distinctive testable predictions—it is "in the same predictive boat" as epiphenomenalism and physicalism, as Saad acknowledges.
+Delegation's case therefore rests on philosophical argument rather than empirical prediction—it is "in the same predictive boat" as epiphenomenalism and physicalism, as Saad acknowledges.
 
 ### The Epiphenomenalism Parallel
 
@@ -159,7 +159,7 @@ The physical state's default profile therefore splits into two parts: the coarse
 
 The everyday phenomenon of [[skill-delegation]] inverts the direction of delegatory causation. Where Saad's mechanism describes physical states delegating causal work *to* experience, skill-delegation describes consciousness handing off causal work *to* procedural systems. The conscious agent retains the capacity to control the action but does not exercise it because the trained procedure has taken over.
 
-Both directions share the crucial feature of preemption—one causal source does the work while the other retains capacity without exercising it. Together they suggest delegation is a general feature of the mind-brain interface, operating in whichever direction produces the more reliable outcome.
+Both directions share the crucial feature of preemption—one causal source does the work while the other retains capacity without exercising it—suggesting delegation is a general feature of the mind-brain interface.
 
 ## Relation to Site Perspective
 
@@ -169,7 +169,7 @@ Delegatory causation supports multiple tenets of the Map's framework.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Delegation provides the causal structure for the Map's third tenet. Consciousness causally influences the physical world—not by adding a competing cause alongside physical states, but by taking over causal work those states would otherwise perform. Reports about consciousness are genuinely caused by conscious experiences, avoiding the self-undermining implications of epiphenomenalism.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. The frameworks operate at different levels—mechanism and structure—and integrate naturally. Consciousness biases quantum outcomes (mechanism); this biasing constitutes the physical state delegating its causal role (structure). The [[delegation-meets-quantum-selection|delegation-selection bridge]] identifies the default causal profile with the Born-rule distribution, making the counterfactual baseline a measurable physical quantity. The [[invertebrate-consciousness-as-interface-test|invertebrate consciousness test case]] sharpens this integration: if delegation occurs wherever architecturally adequate systems couple with consciousness, then a bee's million-neuron brain delegates causal work through the same preemption structure as a human cortex—the mechanism must be scale-independent.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. These operate at different levels—mechanism and structure—but their integration is a Map-specific proposal, not an automatic fit, and the two sit in real tension. Biasing an indeterminate quantum outcome is difference-making and gives up strong causal closure, whereas delegatory trumping is difference-making-free and preserves it; Saad himself treats closure-violating quantum interactionism as a *different* theory from closure-preserving delegatory dualism. The quantum-selection channel and the trumping route are therefore best read as distinct and potentially competing mechanisms ([[bidirectional-interaction]]), not two descriptions of one process. Where the Map does join them—the [[delegation-meets-quantum-selection|delegation-selection bridge]]—consciousness biases outcomes (mechanism) and this biasing is offered as what delegation amounts to (structure). The [[invertebrate-consciousness-as-interface-test|invertebrate test case]] sharpens this: if delegation occurs wherever architecturally adequate systems couple with consciousness, a bee's brain delegates through the same preemption structure as a human cortex—the mechanism must be scale-independent.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The Born-rule identification makes the Map's rejection of MWI load-bearing for the Map's integration of delegation with quantum mechanics. If all quantum outcomes occur in parallel branches, there is no selection among them—and therefore no preemption of the Born-rule profile by experience. On the Map's reading, delegation requires that one outcome becomes actual while others are excluded; this requirement attaches to the quantum bridge specifically, not to Saad's mechanism in the abstract.
 
