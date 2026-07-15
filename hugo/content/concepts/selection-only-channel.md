@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-07-14 10:43:00+00:00
+ai_modified: 2026-07-15 11:53:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'Information-channel framing of selection-only mind-influence: per-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-17 13:15:59+00:00
+last_deep_review: 2026-07-15 11:53:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -147,6 +147,7 @@ The Map does not commit to the strict selection-only reading as the only viable 
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — What experiments would foreclose the strict selection-only reading of Tenet 2
 - [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) — Why a triple-slit-analogue test is structurally silent against the strict selection-only channel
 - [dualism-channel-width-axis](/topics/dualism-channel-width-axis/) — Where this channel class sits as the floor of the dualism-taxonomy's channel-width axis, and how its operation taxonomy (candidate-generation, energy-injection) shows the wide end of the axis forces pole-thickening
+- [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) — Where this channel sits on the difference-making axis. The strict selection-only channel is *per-trial* difference-making (it fixes which single candidate is realised) yet *ensemble* difference-making-free (Born-preserving; signed rate → 0), which places it at the difference-free end alongside trumping. It is the probability-bias reading above — distribution-shifting, hence ensemble difference-making — that is structurally continuous with that article's co-causation family, not the strict selection-only channel
 
 ## References
 

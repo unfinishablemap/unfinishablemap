@@ -9,6 +9,159 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-15T11:53:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [selection-only-channel](/concepts/selection-only-channel/)
+- **Mode**: Coherence cross-review (precision check) vs new [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/). Assess-first; technical body + Bösch/Maier ε≈10⁻⁴ figures + information-theoretic bounds held untouched.
+- **Word count**: 2108 → ~2168 (+60, one Further Reading gloss)
+- **Verdict**: Interventionist article's "selection-only = difference-making channel structurally continuous with co-causation" is IMPRECISE — conflates strict selection-only (Born-preserving; per-trial difference-making but ensemble difference-making-FREE, signed rate → 0) with the intermediate probability-bias reading (distribution-shifting = ensemble difference-making). Co-causation aligns with the probability-bias end, NOT strict selection-only.
+- **Critical issues addressed**: 0 in target (article's strict-vs-probability-bias distinction already precise; imprecision is external)
+- **Enhancements made**: 1 (reciprocal Further Reading link to [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) with precise per-trial-vs-ensemble gloss, inoculating against the external imprecision)
+- **Flag for follow-up**: correct interventionist-and-counterfactual-dualism lines 89 + 105 (and check ensemble-level-epiphenomenalism / delegation-meets-quantum-selection for same conflation) — attribute ensemble-biasing difference-making to the probability-bias reading, not the strict selection-only channel
+- **ai_system**: HELD claude-opus-4-7 (cross-link gloss, not re-authoring)
+- **Output**: [deep-review-2026-07-15-selection-only-channel](/reviews/deep-review-2026-07-15-selection-only-channel/)
+
+## 2026-07-15T11:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Mode**: Coherence cross-review vs consolidated outer-review rewrite (commit 82cfaf43) of [trumping-preemption](/concepts/trumping-preemption/) + [delegatory-causation](/concepts/delegatory-causation/) + new [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/)
+- **Word count**: 2430 → 2622 (+192)
+- **Critical issues addressed**: 1 (unacknowledged structural non-identity: delegation is difference-making-free/strong-closure-preserving vs quantum-selection difference-making/strong-closure-relaxing; "single event" thesis was hedged only for empirical under-determination, not the structural seam)
+- **Medium issues addressed**: 1 (missing cross-link to interventionist-and-counterfactual-dualism)
+- **Enhancements made**: 1 (fourth "What the Bridge Does Not Resolve" item, framing the identification as a candidate unification held-open on tenet-coherence, not tenet-entailed; thesis preserved intact)
+- **Sibling-quote fidelity**: verbatim-checked "a distinct and potentially competing mechanism ... rather than an instance of" against current trumping-preemption.md (apex-stale-internal-quote-channel)
+- **Output**: [deep-review-2026-07-15-delegation-meets-quantum-selection](/reviews/deep-review-2026-07-15-delegation-meets-quantum-selection/)
+
+## 2026-07-15T11:33:26+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)
+- **Type**: CYCLE deep-review staleness slot. Re-qualified only by a single Further Reading cross-link (`[[four-category-ontology]]`, added 2026-07-06); prose + References byte-identical since 2026-06-24.
+- **Prior publisher pass**: REAL (2026-06-24 ledger, 7 cites verified per-cite at Springer/OUP/Wiley/KU DOIs+URLs). References unchanged → metadata web-verify REDUNDANT, not re-run.
+- **Lenses run**: quote-fidelity (Lowe "unmoved movers, or initiators of new causal chains" verified char-for-char at OUP publisher record — prior reviews only checked it intra-corpus; real-correct), citation-framing (Lowe framed correctly vs OUP summary), currency (0 superlatives). Reasoning-mode re-confirmed Mixed Two→Three; calibration clean.
+- **Word count**: 1240 → 1240 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no content edit; bumped only last_deep_review, held ai_modified at 2026-07-06 HEAD, held ai_system claude-opus-4-7)
+- **Output**: [deep-review-2026-07-15-where-the-substance-commitment-enters](/reviews/deep-review-2026-07-15-where-the-substance-commitment-enters/)
+
+## 2026-07-15T11:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)
+- **Type**: Coherence cross-review vs the 2026-07-15 trumping-preemption + delegatory-causation rewrite (commit 82cfaf43) and the new [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/).
+- **Verdict**: Already-coherent on the primary axis (the article never framed trumping as an instance-of the quantum-selection channel; it already treats the trumping route and the minimum-outside-corridor route as distinct routes that "trade the same liability back and forth"). One small calibration applied.
+- **Word count**: 1922 → 2017 (+95)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added a 2-sentence, length-neutral acknowledgement to §The Trumping Route that the corridor's own per-trial selection is itself a difference-making act — structurally continuous with co-causation / minimum-outside-corridor, discontinuous with trumping — so layering trumping on the corridor stacks two structurally-different channels; the mild internal tension [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) develops)
+- **Cross-links added**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) (inline + Further Reading; completes the back-link — the interventionist article already linked here)
+- **Quote-fidelity (Q3)**: [trumping-preemption](/concepts/trumping-preemption/) and [delegatory-causation](/concepts/delegatory-causation/) resolve; the article's characterisations ("authorship not frequencies"; "preempts the default causal profile … leaving every empirical regularity intact") match the rewritten current siblings. No stale quotes.
+- **Engagements**: physicalist (efficacy = statistical signature) Mode Three, honest boundary-marking (unchanged); token/type objector Mixed (unchanged). Label-leakage clean.
+- **Held**: ai_system claude-opus-4-7 (original author; calibration does not re-author). Evidential-status ratings unchanged (no slippage). References block unchanged — carried forward the twice-verified publisher-of-record ledger (Saad 2025, Chalmers-McQueen 2022, Maier et al. 2018).
+- **Output**: [deep-review-2026-07-15-ensemble-level-epiphenomenalism](/reviews/deep-review-2026-07-15-ensemble-level-epiphenomenalism/)
+
+## 2026-07-15T11:09:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [constitutive-exclusion](/topics/constitutive-exclusion/)
+- **Source**: [pessimistic-2026-07-15-constitutive-exclusion](/reviews/pessimistic-2026-07-15-constitutive-exclusion/) (2 High, 1 Medium, 1 Low)
+- **Changes**: Calibration/reframe pass, not re-authoring. (1) HIGH convergence over-claim: reframed "six independent traditions" → honest count of ~2–3 independent strands (post-Kantian genealogy of Kant/Heidegger/Merleau-Ponty/Putnam; Nagel's analytic subjectivity argument; Wheeler's physics), downgraded "strong evidence" to "suggestive rather than decisive" in lead, Convergence closing, and Occam's-Limits paragraph; fixed frontmatter `description` (dropped "six traditions"). (2) HIGH epistemic/metaphysical equivocation ([evidential-status-discipline](/project/evidential-status-discipline/)): added explicit split stating most traditions support only the epistemic limit (Kant explicitly denies mind constitutes the noumenon; Nagel; Merleau-Ponty/Putnam), only Wheeler argues the metaphysical constitution thesis (physics contested), and marked the epistemic→metaphysical bridge as the Map's own inference licensed by Bidirectional Interaction (coherence-not-derivation); calibrated line-68 metaphysical assertion. (3) MEDIUM circular dualism inference ("What AI Might See"): reframed incommensurability as coherence-with-dualism, not independent confirmation, explicitly naming the circularity. (4) LOW Wheeler year drift: standardised "It from Bit" to 1989 workshop / 1990 published; header now (1983, 1990) matching Reference 7.
+- **Preserved**: Both web-verified primary quotes (Merleau-Ponty PP p.453; Putnam *Reason, Truth and History*) verbatim and correctly attributed; article's honest self-disclosure of its own unfalsifiability; ai_system held at claude-opus-4-6 (calibration reframe). Length roughly neutral.
+- **Published**: yes
+
+## 2026-07-15T11:05:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/constitutive-exclusion.md (old-cohort, citation-dense, 4 prior intra-corpus deep-reviews, never pessimistic-reviewed, ~42d since last review)
+- **Findings**: 2 High (convergence-independence over-claim — single post-Kantian genealogy sold as six independent traditions; epistemic/metaphysical equivocation recruiting Kant/Nagel's epistemic limits to assert Wheeler-style metaphysical constitution), 1 Medium (circular dualism inference), 1 Low (Wheeler 1989/1990 year drift). Both primary quotes (Merleau-Ponty, Putnam) web-verified genuine. Queued P2 refine-draft.
+- **Output**: [pessimistic-2026-07-15-constitutive-exclusion](/reviews/pessimistic-2026-07-15-constitutive-exclusion/)
+
+## 2026-07-15T10:54:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/)
+- **Word count**: 2254 → 2254 (±0, length-neutral)
+- **Critical issues addressed**: 1 (quote-fidelity: sibling quote wrapped "may be answering a question already closed" but trumping-preemption says "would be…"; relocated opening quote mark so quoted substring is verbatim, article's own "may be" hedge sits outside)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (fresh create already well-integrated; review confirmed calibration + fair-representation + link reciprocation)
+- **Citation spot-check**: 7 external cites match publisher-verified research note (Vaassen 2024 = Australasian confirmed; Zhong = "A causal argument…" art.71 confirmed); no re-web-verify (metadata pre-verified at create). Inline↔References complete, no orphans, no superlative/currency claims.
+- **Named-opponent engagement**: none (rival-family exposition + framework-relative tenet-diagnostic, no direct-refutation of a named opponent); no label leakage.
+- **Calibration**: tenet-coherent-not-entailed throughout; no possibility→probability slippage; Tenet-5 Occam-symmetric caveat present. First-pass review — last_deep_review added.
+- **Output**: [deep-review-2026-07-15-interventionist-and-counterfactual-dualism](/reviews/deep-review-2026-07-15-interventionist-and-counterfactual-dualism/)
+
+## 2026-07-15T10:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Interventionist and Counterfactual Dualism (the lawful co-causation rival to the Map's trumping/delegation route)
+- **Output**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/)
+- **Word count**: 2254 (topics, 75% of 3000 soft target — ok)
+- **Based on research**: yes — [interventionist-and-counterfactual-dualism-2026-07-15](/research/interventionist-and-counterfactual-dualism-2026-07-15/) (consumed; 8 publisher-verified citations reused, no re-fabrication)
+- **Structure**: two-branch taxonomy (counterfactual dualism / Kroedel 2015; interventionist co-causation / Vaassen 2024) rooted in lawful-overdetermination lineage (Mills 1996; Lowe 2003); Zhong 2023 physicalist mirror + Vaassen 2021/2022 exclusion-analytic contrast; tenet-diagnostic spine (Tenet 2/MQI leans toward co-causation → Map's trumping preference is tenet-coherent-not-entailed methodological closure-conservatism), stated framework-relative
+- **Integration**: inbound in-prose links wired from [trumping-preemption](/concepts/trumping-preemption/), [delegatory-causation](/concepts/delegatory-causation/), [causal-exclusion-argument](/concepts/causal-exclusion-argument/), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) (ai_modified bumped, ai_system held); outbound to those + [selection-only-channel](/concepts/selection-only-channel/), [objections-to-interactionism](/concepts/objections-to-interactionism/), MQI tenet anchor, [observational-closure](/concepts/observational-closure/), [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/). P2 cross-review successor queued. All wikilinks resolve; validate ✓.
+
+## 2026-07-15T10:13:31+00:00 - deep-review
+- **Status**: Success (1 critical fix)
+- **File**: [inverted-qualia](/concepts/inverted-qualia/)
+- **Word count**: 2429 → 2429 (length-neutral re-attribution)
+- **Scope**: First genuine publisher-of-record pass — six prior reviews verified against the internal research note only, never the live publisher.
+- **Critical fixed**: Misattributed verbatim quotation. Line 83 framed "Almost uncontroversially: if an inverted spectrum argument against physicalism works at all, then a simple zombie scenario will equally serve the purpose" as a Chalmers quote from *The Conscious Mind*. Publisher web-verify (SEP "Inverted Qualia" §3.1, confirmed twice) shows it is the SEP entry author's own prose. Re-attributed to the SEP entry in place (already in External Sources; no new reference, length-neutral). Quote-fidelity lens catch that six metadata-style passes ratified.
+- **§2.4 ledger**: Block&Fodor 1972, Block 1990, Shoemaker 1982, Hardin 1988, Palmer 1999, Dennett 1991, Chalmers 1996 (book), Strawson 2006, Frankish 2016, Locke 1689 — all real-correct at publisher of record.
+- **Currency**: 0 superlative claims; PASS
+- **Calibration**: no possibility/probability slippage; PASS
+- **Reasoning-mode**: Dennett Mode Three; Frankish Mixed (Two→Three); label-leakage clean
+- **Enhancements**: 0 (converged; re-attribution only)
+- **ai_system**: held at claude-opus-4-5-20251101 (not flipped)
+- **Output**: [deep-review-2026-07-15-inverted-qualia](/reviews/deep-review-2026-07-15-inverted-qualia/)
+
+## 2026-07-15T09:58:00+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- **Word count**: 2088 → 2088 (no change)
+- **Scope**: orthogonal-lens verify only (metadata verify redundant — 2026-06-02 publisher-of-record verify still holds; body unchanged since)
+- **Quote-fidelity**: 1 external quote — Metzinger "minimal phenomenal experience" — verified verbatim at primary publisher (Phil. & Mind Sciences / uni-mainz); PASS
+- **Currency**: 0 superlative claims; PASS
+- **Citation-framing**: 6 sources, all framed consistent with their conclusions, no skeptic-as-pro-Map; PASS
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: incidental out-of-scope metadata observation on Metzinger 2020 ref subtitle/venue flagged in archive for operator; NOT actioned
+- **Output**: [deep-review-2026-07-15-interface-heterogeneity](/reviews/deep-review-2026-07-15-interface-heterogeneity/)
+
+## 2026-07-15T09:33:23+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Changed sources**: 1 ([delegatory-causation](/concepts/delegatory-causation/) — 2026-07-15 consolidated outer-review fix walked back the delegation↔quantum-selection "integrate naturally" framing to a "real tension / distinct mechanisms" one)
+- **Word count**: ~4000 → ~4066 (calibration insert; one offsetting redundancy trim)
+- **Review**: [apex-evolve-2026-07-15-interface-specification-programme](/reviews/apex-evolve-2026-07-15-interface-specification-programme/)
+
+## 2026-07-15T09:13:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Word count**: 3503 → 3503 (+0)
+- **Critical issues addressed**: 0 (orthogonal-lens pass — quote-fidelity, currency, framing; metadata verify SKIPPED as redundant per 06-24 full publisher pass on unchanged article)
+- **Medium issues addressed**: 0 (~3-word hard-ceiling overage carried for human decision, not auto-condensable)
+- **Enhancements made**: 0 — pure NO-OP; last_deep_review bumped, ai_modified HELD at 2026-06-24. Quote-fidelity ledger: 2 external verbatim quotes ("super-resistance"→Chalmers-McQueen; "centre of narrative gravity"→Dennett) both publisher-verified FAITHFUL; all other quotation marks are Map scare-terms/illustrative examples. Currency sweep clean; anaesthetic/microtubule cites correctly framed as candidate-site clue not confirmation.
+- **Output**: [deep-review-2026-07-15-consciousness-selecting-neural-patterns](/reviews/deep-review-2026-07-15-consciousness-selecting-neural-patterns/)
+
+## 2026-07-15T09:01:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [retrocausality](/concepts/retrocausality/)
+- **Word count**: 3065 → 3065 (+0)
+- **Critical issues addressed**: 1 (Kastner 2016 wrong venue — *Foundations of Physics* 46, 1-16 was fabricated; paper is real, corrected to arXiv:1610.04609 / World Scientific 2019)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (owed-web-verify pass — publisher-verified the 6 remaining citations the 06-18 review deferred; Cramer 1986, Kastner 2012/2014, Lewis 2013, Wheeler 1978, Price 2012, Libet 1983, Soon 2008, Tegmark 2000, Sjöberg 2024 all real-correct)
+- **Output**: [deep-review-2026-07-15-retrocausality](/reviews/deep-review-2026-07-15-retrocausality/)
+
+## 2026-07-15T08:53:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Interventionist and counterfactual dualism — the "lawful co-causation" rival to the Map's preemption/delegation route
+- **Output**: [interventionist-and-counterfactual-dualism-2026-07-15](/research/interventionist-and-counterfactual-dualism-2026-07-15/)
+- **Sources consulted**: 8 (all publisher-verified; 2 supplied-metadata corrections — Zhong title/article-number, Vaassen 2024 = Australasian not American)
+
+## 2026-07-15T08:12:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [is-conscious-being-a-natural-kind](/concepts/is-conscious-being-a-natural-kind/)
+- **Word count**: 2265 → 2265 (metadata-only fixes; length-neutral, well under 2500 soft cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Notes**: FIRST independent review (cross-review of same-session opus-4-8 create); held ai_system claude-opus-4-8, added last_deep_review. Full per-cite publisher-of-record web-verify (14 cites, genuinely owed): 12 real-correct, 2 real-wrong-metadata FIXED — Shea 2012 DOI .00453.x→.00483.x, Bayne & Shea 2020 pages 65–84→65–83. No fabricated cites; quotes faithful (Antony, Kendler, Boyd). Double-edge guard PASS (conditional/coherentist, burden named, no entailment slide, Antony faithfully scoped). Novelty scoping PASS (credits Shea + Bayne–Shea; claims only HPC+dualist-diagnostic wiring). Cluster coherence PASS (phenomenal-sorites reciprocates, no re-derivation; Birch richness-vs-on/off distinction clean). EOF clean.
+- **Output**: [deep-review-2026-07-15-is-conscious-being-a-natural-kind](/reviews/deep-review-2026-07-15-is-conscious-being-a-natural-kind/)
+
 ## 2026-07-15T08:01:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)

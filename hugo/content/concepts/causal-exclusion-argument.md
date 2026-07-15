@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-13 22:39:02+00:00
+ai_modified: 2026-07-15 10:41:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -73,7 +73,7 @@ Three response families are standard, summarized here before the Map's own optio
 Against the inconsistent set, an interactionist committed to genuine mental efficacy must reject at least one premise. Three routes are available.
 
 1. **Deny closure (premise 2).** Straightforward interactionism holds the physical is not causally complete; mind injects influence. The cost is apparent friction with conservation laws and the empirical success of physics. A softer variant denies only *observational* closure (Saad) — physics is complete for what experiments detect, not absolutely; see [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/) and the [history of the closure debate](/topics/causal-closure-debate-historical-survey/).
-2. **Accept systematic overdetermination (reject premise 5).** Some dualists bite this bullet, arguing that the supervenience dependence between mental and physical makes the overdetermination benign, unlike the coincidental firing-squad case.
+2. **Accept systematic overdetermination (reject premise 5).** Some dualists bite this bullet, arguing that the supervenience dependence between mental and physical makes the overdetermination benign, unlike the coincidental firing-squad case. This is the two-cause co-causation family — counterfactual dualism (Kroedel) and interventionist co-causation (Vaassen), rooted in the lawful-overdetermination lineage (Mills, Lowe) — developed in [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/).
 3. **Locate the mental cause where physics is genuinely insufficient.** The Map's preferred route denies premise 2's *sufficiency* at a specific joint rather than everywhere. At quantum indeterminacies, physics fixes probabilities but not which outcome actualizes, so there is no *sufficient* physical cause of the specific outcome for a mental cause to be redundant to. There is nothing to exclude because the exclusion principle's "screening-off" premise presupposes a sufficient physical cause that, at that joint, does not exist. The [delegatory-preemption](/concepts/delegatory-causation/) reply is a complementary, quantum-independent option: only one cause operates over the preempted causal subset.
 
 ## Relation to Site Perspective

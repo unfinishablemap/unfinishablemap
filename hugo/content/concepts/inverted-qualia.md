@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-11 12:07:00+00:00
+ai_modified: 2026-07-15 10:13:31+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: What if your red looks like my green? Functionally identical beings
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 15:47:35+00:00
+last_deep_review: 2026-07-15 10:13:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ Inverted qualia and [philosophical-zombies](/concepts/philosophical-zombies/) ar
 | Qualia absent vs. present | Qualia differ in character |
 | Targets physicalism about consciousness's existence | Targets functionalism about consciousness's character |
 
-As David Chalmers observes in *The Conscious Mind*: "Almost uncontroversially: if an inverted spectrum argument against physicalism works at all, then a simple zombie scenario will equally serve the purpose."
+As the Stanford Encyclopedia of Philosophy's survey of inverted qualia observes, "almost uncontroversially: if an inverted spectrum argument against physicalism works at all, then a simple zombie scenario will equally serve the purpose."
 
 The relationship goes deeper. Both arguments exploit the explanatory gap—the fact that structural descriptions don't logically entail phenomenal facts. Whether the gap concerns qualia's existence or their character, the underlying point is the same: phenomenal properties aren't fixed by structural organization.
 

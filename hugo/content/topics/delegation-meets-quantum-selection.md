@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-07-07 22:02:24+00:00
+ai_modified: 2026-07-15 11:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Causal delegation provides the logical structure of mental causatio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 16:39:56+00:00
+last_deep_review: 2026-07-15 11:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,9 @@ The bandwidth constraint also constrains the Subset Law*. The experience's causa
 
 ## What the Bridge Does Not Resolve
 
-Combining delegation with quantum selection does not dissolve every difficulty. Three problems remain open.
+Combining delegation with quantum selection does not dissolve every difficulty. Four problems remain open.
+
+**The structural non-identity of delegation and selection.** Beyond the empirical under-determination noted above, the bridge's central identification faces a distinct *structural* tension. Delegation as [trumping](/concepts/trumping-preemption/) is difference-making-*free* and preserves strong causal closure — the physical state completes, and an authority law selects it as the cause — whereas quantum selection, the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) channel, is difference-*making* and relaxes strong closure by biasing which indeterminate outcome becomes actual. Reading these as "the causal structure and the physical implementation of a single event," as this article's thesis does, is therefore a substantive unification the Map *proposes* at the quantum joint rather than a seamless identity — the very seam the rewritten [trumping-preemption](/concepts/trumping-preemption/) now flags in treating the quantum-selection channel as "a distinct and potentially competing mechanism ... rather than an instance of" the trumping route, a note [delegatory-causation](/concepts/delegatory-causation/) now carries as well. The [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) article develops the point: identifying a difference-making-free structure with a difference-making physical channel is a candidate identity the Map holds open on grounds of tenet-coherence, not one the tenets entail.
 
 **The specificity problem.** If consciousness selects within Born-rule probabilities, how does it produce *adaptive* behaviour rather than merely biased randomness? The Born rule constrains but does not direct. The [amplification-void](/voids/amplification-void/) names this gap: how a weak post-decoherence bias scales into coherent, reasons-guided action. Delegation reframes the problem — experience takes over the causal work of producing adaptive outcomes — but reframing does not explain *how* experience achieves this.
 
@@ -117,6 +119,7 @@ The delegation-selection bridge integrates multiple tenets into a unified accoun
 - [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/) — The default causal profile, prepared options, and Born-rule weights as one structure in three registers (coherence, not confirmation)
 - [delegatory-causation](/concepts/delegatory-causation/) — The causal structure: preemption, default causal profile, and the Subset Law*
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory including five constraints
+- [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) — Why difference-making co-causation is a structurally distinct rival to the trumping route the bridge assumes
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule encodes the consciousness-physics interface
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — Selection after decoherence removes the coherence requirement

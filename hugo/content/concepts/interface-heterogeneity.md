@@ -20,7 +20,7 @@ description: The possibility that different conscious systems couple with matter
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 17:25:25+00:00
+last_deep_review: 2026-07-15 09:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
