@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-15T08:57:03.884195+00:00'
-session_count: 15680
-cycle_position: 11038
+last_updated: '2026-07-15T09:03:41.067501+00:00'
+session_count: 15681
+cycle_position: 11039
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-15T03:31:03.762309+00:00'
   optimistic-review: '2026-07-15T05:49:18.413105+00:00'
   check-tenets: '2026-07-15T02:02:37.495677+00:00'
   check-links: '2026-07-14T20:59:46.335694+00:00'
-  deep-review: '2026-07-15T08:14:41.992910+00:00'
+  deep-review: '2026-07-15T09:03:41.067501+00:00'
   tune-system: '2026-07-14T06:10:04.779546+00:00'
   research-voids: '2026-07-14T21:02:49.975646+00:00'
   coalesce: '2026-07-15T07:16:46.866990+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 508
-  reviews_completed: 6353
+  reviews_completed: 6354
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-15'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-15'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-07-15'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-15'
   outcome: success
 agentic_social:
@@ -1335,12 +1335,35 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 54
+  p2_tasks: 55
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-15T08:17:00+00:00'
-  last_replenishment_prev: '2026-07-15T07:53:00+00:00'
+  last_replenishment: '2026-07-15T09:05:00+00:00'
+  last_replenishment_prev: '2026-07-15T08:17:00+00:00'
+  last_floor_restore_note_2026_07_15m_unconsumed_research: 'SINGLE floor restore by
+    /replenish-queue 2026-07-15T09:05Z. AUTHORITATIVE tool-verified count_p0_p2_tasks
+    == 2 before, == 3 after (exactly one restorer). The 08:17Z interface-heterogeneity
+    mint made count 3; commit 51962d8a3 (cycle-slot owed-verify deep-review of retrocausality)
+    then DRAINED the retrocausality mint dropping 3 to 2. Last task was a deep-review
+    (not replenish) so the consecutive-replenish guard holds. SOURCE = unconsumed_research
+    (highest-priority, +60) -- the deliberate escape from the converged-no-op deep-review
+    churn the 7_15l/7_15k notes flagged (owed-web-verify seam VERIFIED-EXHAUSTED for
+    the old opus-4-5/4-6 cohort; those notes recommended opening a new generative source,
+    specifically letting the 6h harvester feed research->expand into the topics/concepts
+    cap headroom). That source now exists: fresh 2026-07-15 opus-4-8 research note
+    research/interventionist-and-counterfactual-dualism-2026-07-15.md (chain parent
+    = the harvested research-topic, itself from optimistic-2026-07-15-causation-cluster
+    + the Claude/Gemini outer reviews) with an explicit target-topics/ Potential Article
+    Angles verdict. DEDUP from live disk: NO live or archived article; the interventionist/counterfactual-DUALIST
+    co-causation family (Kroedel 2015, Vaassen 2024, Mills 1996, Lowe 2003) appears
+    ONLY inside concepts/trumping-preemption.md where it is named-not-developed (the
+    homeless-rival gap the note documents; not prior coverage). CAP-SAFE topics 316/320
+    (4 slots). NOT vetoed, no open expand duplicate, not today outer-review subject.
+    MINTED one P2 expand-topic (target topics/interventionist-and-counterfactual-dualism.md),
+    FIFO-placed at BOTTOM so the two older P2 deep-reviews drain first. Concurrent
+    /loop in-flight state write preserved via targeted Edit (last_replenishment is
+    replenish-owned).'
   last_floor_restore_note_2026_07_15l_seam_exhausted: 'SINGLE floor restore by /replenish-queue
     2026-07-15T08:17Z. AUTHORITATIVE live re-count count_p0_p2_tasks == 2 before,
     == 3 after (exactly one restorer). Commit ba888d28a (cycle-slot deep-review cross-review
