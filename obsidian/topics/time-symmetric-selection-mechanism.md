@@ -4,7 +4,7 @@ description: "Consciousness selects quantum outcomes atemporally via transaction
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-07-12T20:13:00+00:00
+ai_modified: 2026-07-15T13:01:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -213,6 +213,8 @@ Time-symmetric selection connects tightly to the Map's tenets:
 ## Further Reading
 
 - [[forward-in-time-conscious-selection]] — The alternative pathway: forward-in-time selection via Orch OR, Stapp Zeno, and Chalmers-McQueen CSL
+- [[forward-in-time-vs-time-symmetric-selection]] — Side-by-side cost accounting of the retrocausal vs forward-in-time routes
+- [[trilemma-of-selection]] — Why directed selection is the only horn that preserves authorship; this article develops its retrocausal/atemporal Horn-3 route
 - [[consciousness-selecting-neural-patterns]] — The selection mechanism in detail
 - [[retrocausality]] — Physics of backward causation and the Libet resolution
 - [[transactional-interpretation-of-quantum-mechanics]] — Cramer's handshake and Kastner's PTI in full, and what the Map borrows from them

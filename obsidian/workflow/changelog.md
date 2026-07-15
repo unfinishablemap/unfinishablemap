@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T13:01:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/time-symmetric-selection-mechanism]], [[topics/trilemma-of-selection]]
+- **Changes**: LINK-ONLY reciprocal cross-links across the temporal-selection cluster (optimistic-review 2026-07-15 finding). time-symmetric-selection-mechanism → added Further Reading links to [[forward-in-time-vs-time-symmetric-selection]] (side-by-side cost accounting) and [[trilemma-of-selection]] (its Horn-3 retrocausal route). trilemma-of-selection → added Further Reading links to [[time-symmetric-selection-mechanism]] (Horn-3 retrocausal route developed) and [[selection-criterion-problem]] (#4 ADDED — distinct criterion-level sub-trilemma; selection-criterion-problem already back-links trilemma and frames the two as distinct levels, so the complementary-but-distinct gloss is precise). No body prose changed. ai_system HELD on both (cross-link edit, not re-authoring): time-symmetric = claude-opus-4-5-20251101, trilemma = claude-opus-4-6+claude-opus-4-8. last_deep_review untouched. All 4 added slugs verified unique + resolving.
+- **Published**: yes
+
 ## 2026-07-15T12:33:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Temporal-structure-of-selection cluster — [[topics/trilemma-of-selection]], [[topics/time-symmetric-selection-mechanism]], [[topics/forward-in-time-conscious-selection]] (complement to the morning causation-cluster review's *how* axis; this covers the *when*/temporal-direction axis)
