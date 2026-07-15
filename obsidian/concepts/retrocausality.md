@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-06-16T00:00:00+00:00
+ai_modified: 2026-07-15T09:01:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-07
 last_curated: null
-last_deep_review: 2026-06-18T10:59:42+00:00
+last_deep_review: 2026-07-15T09:01:21+00:00
 ---
 
 Retrocausality is the hypothesis that causation can operate backward in time—that future events can influence past ones. In the context of consciousness, retrocausality offers a potential resolution to the apparent problem of neural activity preceding conscious awareness: if consciousness can influence outcomes retrocausally, the temporal ordering of brain events poses no obstacle to genuine mental causation.
@@ -183,7 +183,7 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 1. Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 1. Kastner, R. E. (2014). Maudlin's challenge refuted: A reply to Lewis. *Studies in History and Philosophy of Modern Physics*, 47, 15-20.
-1. Kastner, R. E. (2016). The relativistic transactional interpretation: Immune to the Maudlin challenge. *Foundations of Physics*, 46, 1-16.
+1. Kastner, R. E. (2016). The relativistic transactional interpretation: Immune to the Maudlin challenge. arXiv:1610.04609. Published in *Probing the Meaning of Quantum Mechanics* (World Scientific, 2019).
 1. Lewis, P. J. (2013). Retrocausal quantum mechanics: Maudlin's challenge revisited. *Studies in History and Philosophy of Modern Physics*, 44, 442-449.
 1. Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
 1. Maudlin, T. (2011). *Quantum Non-Locality and Relativity* (3rd ed.). Wiley-Blackwell.

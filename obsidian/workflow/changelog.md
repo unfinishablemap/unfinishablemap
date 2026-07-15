@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T09:01:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/retrocausality]]
+- **Word count**: 3065 → 3065 (+0)
+- **Critical issues addressed**: 1 (Kastner 2016 wrong venue — *Foundations of Physics* 46, 1-16 was fabricated; paper is real, corrected to arXiv:1610.04609 / World Scientific 2019)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (owed-web-verify pass — publisher-verified the 6 remaining citations the 06-18 review deferred; Cramer 1986, Kastner 2012/2014, Lewis 2013, Wheeler 1978, Price 2012, Libet 1983, Soon 2008, Tegmark 2000, Sjöberg 2024 all real-correct)
+- **Output**: [[reviews/deep-review-2026-07-15-retrocausality]]
+
 ## 2026-07-15T08:53:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Interventionist and counterfactual dualism — the "lawful co-causation" rival to the Map's preemption/delegation route
