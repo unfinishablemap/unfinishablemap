@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T11:05:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/constitutive-exclusion.md (old-cohort, citation-dense, 4 prior intra-corpus deep-reviews, never pessimistic-reviewed, ~42d since last review)
+- **Findings**: 2 High (convergence-independence over-claim — single post-Kantian genealogy sold as six independent traditions; epistemic/metaphysical equivocation recruiting Kant/Nagel's epistemic limits to assert Wheeler-style metaphysical constitution), 1 Medium (circular dualism inference), 1 Low (Wheeler 1989/1990 year drift). Both primary quotes (Merleau-Ponty, Putnam) web-verified genuine. Queued P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-15-constitutive-exclusion]]
+
 ## 2026-07-15T10:54:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/interventionist-and-counterfactual-dualism]]
