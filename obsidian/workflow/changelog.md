@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T07:23:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/moral-architecture-of-consciousness]]
+- **Word count**: 4154 → 4196 (+42; single References-line addition)
+- **Critical issues addressed**: 1 (Weil quote wrong-work provenance)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added Reference #21 — Weil's letter to Joë Bousquet, 13 Apr 1942, the true source of "the rarest and purest form of generosity"; kept *Gravity and Grace* for the separate attention-as-substance usage)
+- **Lenses run**: Metadata web-verify SKIPPED as redundant — 2026-06-04 review ran a full publisher-of-record verify on all 20 cites; body unchanged since. Quote-fidelity (Murdoch "just and loving gaze" verbatim+correct-work ✓; Chalmers "philosophical Vulcan" verbatim+correct-attribution ✓ [Reality+ 2022]; Weil "rarest and purest form of generosity" verbatim+author ✓ but wrong-work provenance → FIXED). Currency-sweep (zero superlatives; NY Declaration 2024 still the live animal-consciousness landmark; invertebrate "realistic possibility, contested" tiers uncurrent-drift-free). Citation-framing (Gutfreund/Henrich/Haidt correctly used AS challenges the article answers, no skeptic-as-pro-Map inversion; Berridge wanting/liking structurally calibrated, not touched).
+- **Frontmatter**: bumped ai_modified + last_deep_review + apex_last_synthesis to 07-15 (real References edit → bump per no-op discipline; apex_last_synthesis kept equal to prevent apex-last-synthesis-drift-artifact re-nomination). Held ai_system at claude-opus-4-6 (no re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-15-moral-architecture-of-consciousness]]
+
 ## 2026-07-15T07:06:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/time-symmetric-selection-mechanism]]

@@ -4,8 +4,8 @@ description: "How irreducible consciousness unifies value, agency, normativity, 
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-06-04T16:05:57+00:00
-last_deep_review: 2026-06-04T16:05:57+00:00
+ai_modified: 2026-07-15T07:23:06+00:00
+last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -46,7 +46,7 @@ apex_sources:
   - concepts/moral-responsibility
   - topics/animal-consciousness
   - topics/valence-and-conscious-selection
-apex_last_synthesis: 2026-06-04T16:05:57+00:00
+apex_last_synthesis: 2026-07-15T07:23:06+00:00
 apex_thesis: "If consciousness is irreducible and causally efficacious, it provides a unified moral architecture—grounding what has value, who bears responsibility, why moral claims bind, and how moral properties are perceived—that materialist ethics cannot achieve."
 embedded_videos:
   - id: adavuTQkxwQ
@@ -217,3 +217,4 @@ This synthesis draws on:
 18. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 19. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*, 68(1), 5-20.
 20. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.
+21. Weil, S. (1942). Letter to Joë Bousquet, 13 April 1942. First published in *Cahiers du Sud* (1950); collected in *Correspondance*. Source of the "rarest and purest form of generosity" characterisation of attention (distinct from the attention-as-spiritual-substance material in *Gravity and Grace*).
