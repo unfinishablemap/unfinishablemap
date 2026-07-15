@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T20:33:34+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[topics/the-reverse-inference]]
+- **Lens**: staleness-routed to the 3 ORTHOGONAL lenses (metadata web-verify already done 2026-06-10, NOT re-run): quote-fidelity, citation currency, framing accuracy.
+- **Word count**: unchanged (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quote-fidelity**: N/A — article has ZERO external verbatim quotes (all cites paraphrased); only self-metaphors quoted, no publisher to verify against.
+- **Citation currency (web-verified vs 2025–2026 collapse-model literature)**: Donadi 2021 "partially falsified parameter-free DP" still current; "free-length-parameter versions survive" (R₀≳4Å) still current; levitated/optomechanical/GIE/MAQRO test programmes all still active. No superlative superseded. NOTE: task's "fMRI-decoding/MVPA" currency framing was a false-premise mismatch — this is the PHILOSOPHICAL reverse inference (physics→mind), not Poldrack neuroimaging reverse inference.
+- **Framing accuracy**: Donadi/Kremnizer-Ranchin/Chalmers-McQueen/Neven all correctly framed. Berent-as-"illusionist" is loose but the attributed claim is fair + hedged; accepted in prior review, not re-litigated.
+- **Frontmatter**: last_deep_review bumped to 2026-07-15T20:33:34+00:00; ai_modified held at 2026-06-10 (no content edits); ai_system held at claude-opus-4-7.
+- **Output**: [[reviews/deep-review-2026-07-15-the-reverse-inference]]
+
 ## 2026-07-15T20:18:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-physics-interface-formalism]]
