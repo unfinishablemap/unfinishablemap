@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T14:16:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]
+- **Scope**: directed cross-review for coherence with the per-trial-vs-ensemble / difference-making-vs-trumping reframe (NOT a metadata web-verify — citation seam exhausted; References byte-unchanged since 2026-06-03 publisher pass)
+- **Word count**: 2809 → 2913 (+104)
+- **Coherence verdict**: core thesis PASS — per-trial token efficacy preserved, ensemble Born-preservation is what avoids a second competing cause, selection-only correctly placed in the difference-making family and discontinuous from trumping. No Kim/overdetermination misframing, no spliced quote.
+- **Critical issues addressed**: 0
+- **Coherence gap corrected**: 1 — article claimed epiphenomenalist-well escape but stopped at classical/token epiphenomenalism and omitted the ensemble-level residue plus both reframed anchors ([[concepts/ensemble-level-epiphenomenalism]] and P-Q3 [[positions/quantum-interface#^mechanism-debt|mechanism debt]]). Added one Relation-to-Site-Perspective paragraph naming the token-level escape, the held-open ensemble-level-epiphenomenalism worry, and the P-Q3 mechanism debt — aligning with the-epiphenomenalist-threat's own token→ensemble qualification.
+- **Reasoning mode**: added paragraph is Mode Three (honest framework-boundary residue). No label leakage.
+- **ai_system**: held at claude-opus-4-7 (one-paragraph integration touch, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-15-overdetermination-dissolution-under-selection-only-interactionism]]
+
 ## 2026-07-15T14:00:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-epiphenomenalist-threat]]
