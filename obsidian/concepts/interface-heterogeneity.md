@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-06-02T17:25:25+00:00
+last_deep_review: 2026-07-15T09:58:00+00:00
 ---
 
 Interface heterogeneity is the possibility that different conscious systems couple with matter through fundamentally different mechanisms. Where a homogeneous interface model assumes one universal coupling mechanism operating across all conscious organisms, interface heterogeneity holds that multiple distinct mechanisms may exist—just as flight evolved independently through feathers, membranes, and chitin, consciousness-matter coupling might take different physical forms in different systems. This concept is central to The Unfinishable Map's dualist framework, where consciousness is not produced by physical processes but interfaces with them.
