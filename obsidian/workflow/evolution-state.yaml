@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-15T12:59:50.505148+00:00'
-session_count: 15716
-cycle_position: 11052
+last_updated: '2026-07-15T13:03:47.611557+00:00'
+session_count: 15717
+cycle_position: 11053
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-15T11:07:43.927580+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-15T02:10:01.998816+00:00'
   commission-claude-review: '2026-07-15T03:09:07.938726+00:00'
   commission-gemini-review: '2026-07-15T04:13:48.072739+00:00'
-  refine-draft: '2026-07-15T11:13:05.038706+00:00'
+  refine-draft: '2026-07-15T13:03:47.611557+00:00'
   research-topic: '2026-07-15T08:57:03.884195+00:00'
   replenish-queue: '2026-07-15T12:59:50.505148+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-07-15'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-15'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-15'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-15'
   outcome: success
 agentic_social:
@@ -1340,6 +1340,45 @@ queue_status:
   loop_pickable_open: 3
   last_replenishment: '2026-07-15T10:46:00+00:00'
   last_replenishment_prev: '2026-07-15T09:54:56+00:00'
+  last_floor_restore_note_2026_07_15p_chain_epiphenomenalist_threat: 'SINGLE floor
+    restore by /replenish-queue 2026-07-15T13:10Z. AUTHORITATIVE tool-verified count_p0_p2_tasks
+    == 2 immediately before this write, == 3 after (exactly one restorer, MIN_QUEUE
+    3). Documented replenish-at-floor alternation (unfin_loop_steady_state), NOT a
+    deadlock; consecutive-replenish guard satisfied (HEAD 861688ce4 is auto(refine-draft)
+    reciprocal cross-links across the temporal-selection cluster, NOT a replenish).
+    Concurrent /loop active (uncommitted M evolution-state.yaml on disk at edit time);
+    this is an APPEND-ONLY new note key via load-modify-save, and last_replenishment
+    was deliberately left untouched, so the loop in-flight write is preserved (concurrent-replenish-race,
+    replenish-note-bare-hash-breaks-yaml). Eight-source audit this cycle: (1 chain)
+    FIRES and is the chosen source. The two open P2s (interventionist per-trial-vs-ensemble
+    refine-draft + P-Q3 positions update) both orbit the quantum-selection cluster;
+    a third same-cluster CONCEPT edit would be over-mint churn. Instead minted the
+    genuinely distinct coherence successor the reframe most directly destabilises:
+    a cross-review of topics/the-epiphenomenalist-threat.md, which uses the delegatory/trumping
+    route (section How the Map Escapes, line ~135) as its POSITIVE epiphenomenalism
+    escape, against today consolidated trumping-preemption + delegatory-causation +
+    ensemble-level-epiphenomenalism reframe surfacing the worry that trumping difference-making-FREE
+    invisibility equals epiphenomenalist invisibility. That article was last reviewed
+    2026-06-20, is NOT among the 29 articles changed today, is NOT in any open task
+    (all todo hits are June-completed), NOT vetoed, and is distinct from today outer-review
+    subject (trumping-preemption). FIFO-placed at BOTTOM so the two older P2s drain
+    first (queue-lifo-starvation). (2 unconsumed research) EXHAUSTED, verified 8x this
+    session. (3 gap/caps) topics 317/320 + concepts 316/320 headroom but new-article
+    generation is harvester-governed + Vetoed-bank-deduped, NOT replenish job; voids
+    100/100 capped. (4 length) every hard/critical offender is veto or standing HUMAN
+    LENGTH DECISION. (5 orphan) orphaned_files == 0. (6/7b positions) all dependency-changed
+    candidates are no-ops: P-Q3 already queued for ensemble-level-epiphenomenalism;
+    trilemma-of-selection change today was a trivial quote-punctuation fix (not the
+    horn-3 taxonomy P-A1/P-A2 depend on); mental-causation-and-downward-causation change
+    was a single-sentence cross-link integration; selection-only-channel is the quantum-interface
+    cluster already saturated by P-Q3. (7 applied-apex) no high-confidence cluster
+    gap. (8 staleness) old opus-4-5/4-6 owed-web-verify seam VERIFIED-EXHAUSTED this
+    session, newer opus-4-8 creates inside the 7-day SEO buffer. REPEATED OPERATOR
+    FINDING (9th flag this session): productive replenish sources remain exhausted/governed
+    and floor-restore mints are chain/dependency-only; config-level action (lower MIN_QUEUE,
+    reduce replenish cadence, OR re-point at the newer opus-4-8 cohort once it ages
+    past the 7-day buffer / let the 6h harvester feed research into the topics/concepts
+    cap headroom) is warranted, not the replenish agent call.'
   last_floor_restore_note_2026_07_15n_chain_trumping_rewrite: 'SINGLE floor restore
     by /replenish-queue 2026-07-15T09:54Z. AUTHORITATIVE tool-verified count_p0_p2_tasks
     == 2 before, == 3 after (exactly one restorer). Productive sources dry/governed
