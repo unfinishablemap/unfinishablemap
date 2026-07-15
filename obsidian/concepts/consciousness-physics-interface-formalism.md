@@ -4,7 +4,7 @@ description: "The formal mathematical components and constraints any theory of c
 created: 2026-03-19
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-04T15:51:03+00:00
+ai_modified: 2026-07-15T20:18:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-06-04T15:51:03+00:00
+last_deep_review: 2026-07-15T20:18:05+00:00
 ---
 
 Any theory claiming that consciousness interacts with physics must specify three formal components: a state space for consciousness, a state space for physics, and a mathematical coupling between them. The Unfinishable Map holds that this coupling is real and causal — not merely correlational — but that quantum foundations impose five constraints on its mathematical form wherever the standard quantum postulates hold. These constraints follow from the structure of quantum mechanics rather than from philosophical preference; they are theorems conditional on premises that have been confirmed across photon, atom, and qubit regimes but not inside living neural tissue during a conscious act of selection. Within that tested regime the constraints are non-negotiable; whether they bind the brain-internal interface is the empirically open question the parent [[born-rule-and-the-consciousness-interface]] article holds as a live fork. This article defines the formal components and bounds that any adequate interface formalism must satisfy where they apply.
@@ -129,7 +129,7 @@ The interface formalism concept connects directly to the Map's foundational comm
 
 5. Sorkin, R.D. (1994). "Quantum Mechanics as Quantum Measure Theory." *Modern Physics Letters A*, 9(33), 3119–3127.
 
-6. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+6. Tonetto, B. (2026). "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
 
 7. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
 

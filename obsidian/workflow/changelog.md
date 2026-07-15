@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T20:18:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-physics-interface-formalism]]
+- **Lens**: staleness-routed to the 3 ORTHOGONAL lenses (metadata web-verify already done 2026-06-04, NOT re-run): quote-fidelity, citation currency, framing accuracy. unfinishablemap.org blocked as circular source.
+- **Word count**: 2437 → 2437 (+1 token; References year only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — Tonetto References entry (#6) missing year; added "(2026)" (PhilArchive archived 2026-03-09). Inline already said "Tonetto (2026)".
+- **Quote-fidelity ledger (both verbatim-correct at primary publisher)**: "statistical closure with outcome-level openness" (Tonetto, verified at PhilArchive/ResearchGate, NOT our page) ✓; "quantum mind without quantum brain" (Atmanspacher, verified at SEP qt-consciousness) ✓.
+- **Currency**: Pati 2026 (arXiv:2601.13012) still v1/no-journal-ref as of today → "preprint, not yet peer-reviewed" CORRECT, no modal upgrade due; Torres Alegre 2025 (arXiv:2512.12636) now v3 but still no journal-ref → "not yet independently confirmed" CORRECT. find_superlative_claims() empty.
+- **Framing**: Tonetto (anti-closure, sympathetic — faithfully used); Atmanspacher (framed as in-tension, matches source) — no skeptic-as-pro-Map co-option.
+- **Timestamps**: ai_modified + last_deep_review → 2026-07-15T20:18:05+00:00; ai_system HELD at claude-opus-4-6 (one-token metadata fix, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-15-consciousness-physics-interface-formalism]]
+
 ## 2026-07-15T20:04:24+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/assessing-ai-consciousness-under-the-map]]
