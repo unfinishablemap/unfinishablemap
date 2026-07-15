@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T09:33:23+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/interface-specification-programme]]
+- **Changed sources**: 1 ([[concepts/delegatory-causation]] — 2026-07-15 consolidated outer-review fix walked back the delegation↔quantum-selection "integrate naturally" framing to a "real tension / distinct mechanisms" one)
+- **Word count**: ~4000 → ~4066 (calibration insert; one offsetting redundancy trim)
+- **Review**: [[reviews/apex-evolve-2026-07-15-interface-specification-programme]]
+
 ## 2026-07-15T09:13:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-selecting-neural-patterns]]
