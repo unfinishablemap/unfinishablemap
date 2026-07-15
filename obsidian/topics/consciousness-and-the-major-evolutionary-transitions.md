@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-15
 last_curated:
-last_deep_review: 2026-07-15T05:19:55+00:00
+last_deep_review: 2026-07-15T07:44:48+00:00
 ---
 
 Evolutionary biology recognises a small set of watershed events—the *major evolutionary transitions*—at which formerly independent replicators became parts of a new, higher-level reproducing whole: genes into chromosomes, cells into organisms, organisms into societies. A natural question follows: was the arrival of consciousness one of these transitions? The honest answer begins with a concession. The general move has already been made. Simona Ginsburg and Eva Jablonka proposed consciousness as a major transition in *The Evolution of the Sensitive Soul* (2019), and Jablonka and Ginsburg (2025) extended it with a new category of selection. The Unfinishable Map does not claim novelty for the idea that consciousness is a transition.

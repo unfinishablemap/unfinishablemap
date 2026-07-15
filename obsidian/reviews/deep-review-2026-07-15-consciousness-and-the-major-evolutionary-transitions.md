@@ -89,3 +89,14 @@ None. Length 2319 words (77% of the 3000 topics target) — comfortable headroom
 
 - The Dualism/reductive-functionalism split is bedrock: a reductive functionalist will hold that UAL or mental selection *constitutes* the transition, dissolving the blindness thesis. The article states this explicitly ("the claim is exactly as strong as the dualism it assumes"). Future reviews should NOT re-flag this as a critical defect — it is an honestly-declared framework-boundary disagreement, not a calibration error.
 - Citations are now web-verified at the publisher of record; absent new content, future reviews may rely on this ledger rather than re-litigating the same cites.
+
+## Integration Cross-Review (07:44, same session, integration lens)
+
+Second-pass integration cross-review (fresh-create defect-tail lens), following the 05:19 citation deep-review. No article content changed — converged no-op; `last_deep_review` advanced to 2026-07-15T07:44:48+00:00, `ai_modified` held at HEAD (05:19:55), `ai_system` held at claude-opus-4-8.
+
+Checks passed:
+- **Novelty disclaimer** — opening explicitly credits Ginsburg & Jablonka 2019 (UAL) + Jablonka & Ginsburg 2025 (mental selection) for the general "consciousness as a major transition" move; claims novelty only for the phenomenal-transition-blindness angle. No originality over-claim.
+- **Calibration** — thesis reads as framework-relative throughout ("hypothesis not result", "tenet-coherent not tenet-entailed", conditional on dualism). No possibility→probability slippage.
+- **Cluster coherence** — reciprocal link with source [[consciousness-evolution-and-biology]] confirmed (source lists this article in its related_articles). No contradiction or redundant re-derivation against [[evolution-of-consciousness]] (both date UAL to Cambrian ~540 Mya, both hedge UAL as a debated outside proxy; complementary registers). All load-bearing wikilinks resolve to LIVE targets — notably [[interactionist-dualism]] resolves to the live concept, not the archived "For Interactionist Dualism" argument page (no archival link rot).
+- **Cite spot-check** — Michod & Nedelcu 2003 solo→co-author correction confirmed landed (body §Individuality + References #6, ICB 43(1):64–73). No directly-quoted verbatim source strings requiring re-verification (Michod "focus of adaptation" is faithful paraphrase; mental-selection wording is paraphrase, not quoted).
+- **Fresh-create defect-tail** — no calibration slide, no dropped-word defects, no EOF tool-call-tag artifact (file ends cleanly at References #16).
