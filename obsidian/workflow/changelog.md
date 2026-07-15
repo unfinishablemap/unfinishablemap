@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T02:33:32+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Is conscious being a natural kind — homeostatic property clusters versus the dualist boundary
+- **Output**: [[research/is-conscious-being-a-natural-kind-homeostatic-property-clusters-versus-the-dualist-boundary-2026-07-15]]
+- **Sources consulted**: 13
+- **Key finding**: HPC (Boyd 1991/1999) entails boundary-VAGUE kinds; this maps onto the existing, unresolved "is 'phenomenally conscious' vague or sharp?" debate (Antony 2006, Simon 2017 pro-sharp; Papineau pro-vague). Consciousness HAS been argued to be a natural kind (Shea 2012; Bayne & Shea 2020) but via "nomological clusters," NOT Boyd HPC, and never as a dualism-diagnostic — so the Map's HPC-vs-sharp-joint framing is a genuinely NOVEL synthesis (connection, not discovery). CALIBRATION: Antony argues sharpness threatens dualism too; the article's real burden is showing interactionist dualism escapes the vague-supervenience-base problem. Do NOT slide "dualism predicts sharp" into "HPC-failure proves dualism."
+
 ## 2026-07-15T02:30:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Consciousness and the major evolutionary transitions
