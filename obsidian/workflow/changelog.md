@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15 01:05 - deep-review
+- **Status**: Success
+- **File**: [[concepts/lived-objectified-body-distinction]]
+- **Lens**: verbatim-quote fidelity (orthogonal channel; 06-25 review ran metadata ledger — refs unchanged since → TEST satisfied, metadata not re-litigated)
+- **Word count**: 1892 → 1915 (+23; de-quote + brief paraphrase completion)
+- **Critical issues addressed**: 1
+- **Fidelity fixes**: 1 — Sacks leg quote (§Clinical Exhibits) was a secondary-summary paraphrase dressed as a verbatim first-person quote ("his body" in a first-person memoir = tell). De-quoted to honest paraphrase; no aggregator-only "alienation" quote injected (quote-verify discipline). Christina "disembodied" verified real (kept); Merleau-Ponty/Husserl short quotes faithful (kept).
+- **Output**: [[reviews/deep-review-2026-07-15-lived-objectified-body-distinction]]
+- **ai_system**: held at claude-opus-4-7 (targeted quote fix, not re-authoring)
+
 ## 2026-07-15 00:08 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-mathematics]]

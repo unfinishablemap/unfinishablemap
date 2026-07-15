@@ -4,7 +4,7 @@ description: "A human+AI canonical statement of the Husserl/Merleau-Ponty distin
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-07-10T12:05:00+00:00
+ai_modified: 2026-07-15T01:05:46+00:00
 draft: false
 topics:
   - "[[embodied-consciousness]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-06-25T19:40:04+00:00
+last_deep_review: 2026-07-15T01:05:46+00:00
 ---
 
 The body shows up to consciousness in two registers. There is the body I *am*—the felt, first-person body I inhabit, that anchors my "here," reaches without my watching it reach, and carries the weight, warmth, and ache of being a creature. And there is the body I *have*—the object on the examination table, weighable, dissectible, observable from outside like any other physical thing. Phenomenology names these the **lived body** (Husserl's *Leib*, Merleau-Ponty's *corps propre*) and the **objectified body** (*Körper*, *corps objectif*). The distinction is one of the most secure findings in the phenomenology of embodiment, and it is the canonical anchor through which The Unfinishable Map's embodiment articles route their treatment of the felt body.
@@ -52,7 +52,7 @@ Neurology supplies cases where the two registers, ordinarily fused, pull apart. 
 
 **Proprioception loss—the lived body emptied (Christina).** Oliver Sacks's "The Disembodied Lady" (in *The Man Who Mistook His Wife for a Hat*, 1985) describes Christina, a young woman who lost proprioception entirely through an acute polyneuropathy. Her *Körper* was intact—muscles, nerves of movement, intelligence, consciousness all preserved—yet she described herself as "disembodied," unable to feel her body as her own. She learned to move only by watching her limbs and monitoring her voice, operating her body as one operates an external instrument. The *Leib* had drained out of a body the *Körper* still fully occupied: a body had, while the body-I-am had thinned almost to nothing.
 
-**The limb that drops out (Sacks's own leg).** In *A Leg to Stand On* (1984), Sacks records his own experience after a severe leg injury: following surgery, the leg "uncannily no longer felt part of his body." The *Körper* was present and visible; the *Leib* had ceased to claim it. Recovery was, phenomenologically, the leg's re-entry into the lived body—the felt reabsorption of an object back into the subject.
+**The limb that drops out (Sacks's own leg).** In *A Leg to Stand On* (1984), Sacks records his own experience after a severe leg injury: following surgery, the leg uncannily no longer felt part of his body, presenting as an inert, foreign object rather than his own. The *Körper* was present and visible; the *Leib* had ceased to claim it. Recovery was, phenomenologically, the leg's re-entry into the lived body—the felt reabsorption of an object back into the subject.
 
 **Phantom limb—the lived body outlasting the objectified one.** After amputation, patients often continue to feel a vivid limb that no longer exists as *Körper*. Here the relation inverts: a lived limb persists with no objectified limb to anchor it. Neuroscience explains this through persistent cortical body-maps and reorganisation (Ramachandran & Hirstein 1998). In the *Leib*/*Körper* idiom, the lived body retains a structure the objectified body has lost—the felt body and the physical body have come apart in the opposite direction from Christina's case. (The Map's full treatment is in [[phantom-limb-phenomena]].)
 
