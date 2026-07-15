@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T23:10:18+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[topics/fish-sentience-and-the-teleost-pain-debate]]
+- **Word count**: 2199 → 2199 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lens**: publisher-of-record citation web-verify + quote-fidelity, at a citation-dense, empirically anchored, single-prior-review target
+- **Citation ledger**: all 5 real-correct — Sneddon/Braithwaite/Gentle 2003 (Proc R Soc B 270(1520):1115–1121, DOI 10.1098/rspb.2003.2349), Braithwaite 2010 (*Do Fish Feel Pain?* OUP), Rose 2002 (Rev Fish Sci 10(1):1–38), Rose et al. 2014 (Fish and Fisheries 15(1):97–133, DOI 10.1111/faf.12010), Key 2016 (Animal Sentience 1(3):art.1). No fabrication, no wrong-metadata, no superseded superlative.
+- **Quote ledger**: 3 verbatim-correct at primary publisher — Key's "neurocytoarchitecture, microcircuitry, and structural connectivity"; "structure determines function" (Key's principle); Braithwaite & Droege commentary title "Why human pain can't tell us whether fish feel pain". No paraphrase-as-quote, no word-substitution.
+- **Engagement modes**: Key/Rose — Mode Two (unsupported foundational move: the "structure determines function → structure determines feeling" slide presupposes reductive identity) opening into Mode Three (functionalist route left as open empirical question). Natural prose, no label leakage, no boundary-substitution.
+- **Calibration**: exemplary — "removing a defeater is not the same as supplying positive evidence"; no possibility/probability slippage. Held ai_system=claude-opus-4-8, ai_modified unchanged; bumped last_deep_review only.
+- **Output**: [[reviews/deep-review-2026-07-15-fish-sentience-and-the-teleost-pain-debate]]
+
 ## 2026-07-15T22:58:25+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/source-attribution-void]]
