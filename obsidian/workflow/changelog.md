@@ -5,6 +5,19 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T20:38:02+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[concepts/prospective-memory]]
+- **Lens**: staleness-routed to 3 ORTHOGONAL lenses (metadata web-verified 2026-06-14, NOT re-run): quote-fidelity (PRIMARY — 18 cites, densest stale-cohort cluster), citation currency, framing accuracy.
+- **Quote-fidelity ledger**: KC "blank" (Tulving) — real-correct; Conway et al. 2016 "extended present" (RIS) — real-correct; Whitehead vocabulary (subjective aim / eternal objects / concrescence / prehends) — real-correct. Both genuine verbatim quotes verified at primary publisher (unfinishablemap domains blocked to avoid self-contamination).
+- **Currency**: find_superlative_claims → none. Framing: Szpunar 2014 (taxonomy≠behavioural demonstration), Frankish 2016 (illusionist challenge not co-opted) — accurate.
+- **Word count**: 2940 → 2940 (no content edits; References-driven soft_warning, prose under soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: bumped last_deep_review only; held ai_modified (no content edit) and ai_system claude-opus-4-5-20251101 (not re-authored)
+- **Output**: [[reviews/deep-review-2026-07-15-prospective-memory]]
+
 ## 2026-07-15T20:33:34+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[topics/the-reverse-inference]]
