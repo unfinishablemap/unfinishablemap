@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T14:32:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/carrolls-regress]]
+- **Scope**: QUOTE-FIDELITY primary lens (verbatim strings checked at primary publisher, unfinishablemap.org blocked). Prior 5 reviews were intra-corpus + citation-*metadata* web-verify only; verbatim quote fidelity had never been exercised. NOT a re-run of the metadata ledger (that seam is complete/stable here).
+- **Word count**: 2173 → ~2185 (+~12; near-neutral)
+- **Critical issues addressed**: 2 (both quote-fidelity)
+  - Carroll's propositions A/B/Z/C/D were compressed/altered inside quotation marks vs the 1895 *Mind* text; restored verbatim. Load-bearing: C/D had dropped the modal **"must be true"** ("...Z is true" → "...Z must be true"), removing the necessitation the Tortoise's refusal turns on. Verified at Fair Use Repository reproduction of *Mind* 4(14): 278–280.
+  - Polanyi "we know more than we can tell" was implicitly sourced (via the article's only Polanyi ref, "The Logic of Tacit Inference," *Philosophy* 41(155)) to the wrong 1966 work; the line is the canonical opening of *The Tacit Dimension* (1966, Chicago, p. 4). Added *The Tacit Dimension* as ref #4, attributed the quote to it in-body, kept the journal article for the tacit-inference argument; renumbered refs 4–9.
+- **Quotes verified faithful (no change)**: Wittgenstein PI §201 ("every course of action" — correct for the cited Anscombe translation) and §219 ("I obey the rule blindly").
+- **Enhancements made**: 0 new content; verbatim restoration only. No `ai_system` flip (stays claude-opus-4-7 — fidelity corrections are not re-authorship).
+- **Output**: [[reviews/deep-review-2026-07-15-carrolls-regress]]
+
 ## 2026-07-15T14:16:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]
