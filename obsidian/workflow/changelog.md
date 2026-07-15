@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T23:20:48+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Near-perfect adaptation and control-theoretic competency without experience
+- **Output**: [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]
+- **Word count**: 2011
+- **Based on research**: yes — [[research/near-perfect-adaptation-and-control-theoretic-competency-without-experience-2026-07-15]]
+- **Citations web-verified at primary publisher**: Barkai & Leibler 1997 (Nature 387(6636):913–917, article/43199) and Alon/Surette/Barkai/Leibler 1999 (Nature 397(6715):168–171, article/16483) — both confirmed, year corrected to 1999 (note flagged Yi abstract's "1998"); Seth & Tsakiris 2018 (TiCS 22(11):969–981); Aoki et al./Khammash 2019 (Nature 570:533–537, PubMed 31217585). Yi/Huang/Simon/Doyle 2000 quotes used verbatim from research note's PMC read. Man & Damasio 2019 attributed as paraphrase (not a fabricated verbatim quote — abstract wording varied across secondary sources).
+- **Integration chain**: added inbound Further Reading links from bacterial-chemotaxis (topics/) and control-theoretic-will (concepts/), grep-verified; queued P2 cross-review. Siblings' ai_system left unchanged (no over-attribution).
+
 ## 2026-07-15T23:14:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Single-cell proto-agency and the evidence problem

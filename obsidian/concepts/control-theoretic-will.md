@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-06-26T15:32:02+00:00
+ai_modified: 2026-07-15T23:20:48+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -159,6 +159,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [[the-psychophysical-control-law]] — Candidate coupling laws (control laws in this framing)
 - [[agent-causation]] — The metaphysics of the controller as genuine cause
 - [[causal-closure]] — Why control requires gaps in physical determinism
+- [[near-perfect-adaptation-and-control-theoretic-competency-without-experience]] — the mirror-image use of control theory: where this article runs the analogy *toward* consciousness, that concept uses the same primitive to show what robust regulation *fails to entail*
 - [[wholeheartedness-void]] — What "stable preferences that move action" leaves out: the felt seam of identification the control frame cannot recover
 - [[akrasia-and-weakness-of-will]] — When selection diverges from the agent's own better judgement
 
