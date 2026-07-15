@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T10:54:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/interventionist-and-counterfactual-dualism]]
+- **Word count**: 2254 → 2254 (±0, length-neutral)
+- **Critical issues addressed**: 1 (quote-fidelity: sibling quote wrapped "may be answering a question already closed" but trumping-preemption says "would be…"; relocated opening quote mark so quoted substring is verbatim, article's own "may be" hedge sits outside)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (fresh create already well-integrated; review confirmed calibration + fair-representation + link reciprocation)
+- **Citation spot-check**: 7 external cites match publisher-verified research note (Vaassen 2024 = Australasian confirmed; Zhong = "A causal argument…" art.71 confirmed); no re-web-verify (metadata pre-verified at create). Inline↔References complete, no orphans, no superlative/currency claims.
+- **Named-opponent engagement**: none (rival-family exposition + framework-relative tenet-diagnostic, no direct-refutation of a named opponent); no label leakage.
+- **Calibration**: tenet-coherent-not-entailed throughout; no possibility→probability slippage; Tenet-5 Occam-symmetric caveat present. First-pass review — last_deep_review added.
+- **Output**: [[reviews/deep-review-2026-07-15-interventionist-and-counterfactual-dualism]]
+
 ## 2026-07-15T10:42:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Interventionist and Counterfactual Dualism (the lawful co-causation rival to the Map's trumping/delegation route)

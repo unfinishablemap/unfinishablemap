@@ -4,7 +4,7 @@ description: "The lawful co-causation rival to the Map's trumping route: two-cau
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-07-15T10:40:00+00:00
+ai_modified: 2026-07-15T10:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-15
 last_curated:
+last_deep_review: 2026-07-15T10:54:00+00:00
 ---
 
 Interventionist and counterfactual dualism names the Map's single most important live rival to its own preferred structure for mental causation. Where the Map favours the closure-preserving [[trumping-preemption|trumping]] route — one authoritative cause, no trajectory change — this rival family holds that a non-physical experience and its physical base are *both* genuine causes of behaviour, standing alongside one another rather than one being selected over the other by an authority law. Its members share a single structural commitment: **two causes, not one**. The exclusion worry that motivates trumping is answered not by decoupling authority from sufficiency, but by showing that causation is difference-making (or counterfactual dependence), which a systematic mind–body law can supply without the resulting overlap counting as the "bad", coincidental kind of overdetermination.
@@ -75,7 +76,7 @@ The clean way to locate every position is the number of genuine causes it posits
 - **Trumping / delegation** ([[delegatory-causation|the Map's preference]]): *one* authoritative cause. Both the experience and its physical base remain counterfactually sufficient, but a higher-order psychophysical law selects the experience as *the* cause. The base is not cut off and not epiphenomenal; it is simply not authoritative when a matching experience is present. Efficacy is relocated onto an authority axis with no trajectory signature.
 - **Co-causation** (this family): *two* genuine causes. The experience makes a difference (Vaassen), or the effect depends on it (Kroedel), or the law makes their joint production non-coincidental (Mills/Lowe). No selection is needed because there is no competition to adjudicate — closure, read as an energy claim, was never in tension with a non-energetic difference-maker.
 
-The [[causal-exclusion-argument|exclusion argument]] in its canonical Kimian form pushes the dualist toward epiphenomenalism or systematic overdetermination. Both routes claim a third option, but they take opposite exits. Trumping keeps *one* cause and pays for it with an authority law whose non-stipulative ground is an open problem. Co-causation accepts *two* causes and pays for it by arguing the overlap is benign. A dualist who accepts Kroedel's or Vaassen's dissolution on its own terms could drop trumping entirely — which is exactly why trumping "may be answering a question already closed," as the [[trumping-preemption]] article concedes.
+The [[causal-exclusion-argument|exclusion argument]] in its canonical Kimian form pushes the dualist toward epiphenomenalism or systematic overdetermination. Both routes claim a third option, but they take opposite exits. Trumping keeps *one* cause and pays for it with an authority law whose non-stipulative ground is an open problem. Co-causation accepts *two* causes and pays for it by arguing the overlap is benign. A dualist who accepts Kroedel's or Vaassen's dissolution on its own terms could drop trumping entirely — which is exactly why trumping may be "answering a question already closed," as the [[trumping-preemption]] article concedes.
 
 ## The Tenet-Diagnostic {#the-tenet-diagnostic}
 
