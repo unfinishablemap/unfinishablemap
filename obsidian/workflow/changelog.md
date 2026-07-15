@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T03:15:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Major Evolutionary Transitions
+- **Output**: [[topics/consciousness-and-the-major-evolutionary-transitions]]
+- **Word count**: 2319
+- **Based on research**: yes — [[research/consciousness-and-the-major-evolutionary-transitions-2026-07-15]]
+- **Novelty disclaimed**: Ginsburg & Jablonka (2019) + Jablonka & Ginsburg (2025) precedent explicitly acknowledged; the "consciousness as a major transition" move is NOT claimed as novel. The Map's phenomenal-transition-blindness thesis is flagged framework-relative/speculative throughout (tenet-coherent, not tenet-entailed).
+- **Citations publisher-verified**: Michod & Nedelcu 2003 ICB 43(1):64–73 (OUP — corrected: co-authored with Nedelcu, not solo); Queller 1997 QRB 72(2):184–188 (uchicago DOI 10.1086/419766); Clarke 2010 Biological Theory 5(4):312–325 (DOI 10.1162/BIOT_a_00068, publisher page auth-gated, cross-confirmed). Others cited as in research note.
+- **Tenet section**: Tenets 3 (interaction not just replication), 2 (where coupling-transition sits), 5 (parsimony-blindness), 1 (premise). Framed coherent, not entailed.
+
 ## 2026-07-15T02:52:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/predictive-processing-and-dualism]]

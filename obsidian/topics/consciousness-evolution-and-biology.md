@@ -36,6 +36,7 @@ related_articles:
   - "[[animal-consciousness]]"
   - "[[topics/free-will]]"
   - "[[evolution-under-dualism]]"
+  - "[[consciousness-and-the-major-evolutionary-transitions]]"
   - "[[causal-closure]]"
   - "[[biological-teleology-and-the-interface-framework]]"
   - "[[consciousness-value-connection]]"
