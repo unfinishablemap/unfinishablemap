@@ -4,8 +4,8 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-16T00:00:00+00:00
-last_deep_review: 2026-06-16T00:00:00+00:00
+ai_modified: 2026-07-15T16:06:39+00:00
+last_deep_review: 2026-07-15T16:06:39+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-ownership-problem]]"
@@ -39,7 +39,7 @@ This article defines mine-ness as a concept—its scope, its evidence, its disso
 
 ## Defining the Feature
 
-Mine-ness, on Zahavi's account, is the dimension of pre-reflective self-awareness that accompanies every conscious state: "in being aware of thoughts, actions, emotions, perceptions, memories, and bodily experiences, one is aware of them as being one's own." The "for-me" character is not added by reflection or by second-order monitoring. It is constitutive of the experiential character of conscious states from the outset.
+Mine-ness, on Zahavi's account, is the dimension of pre-reflective self-awareness that accompanies every conscious state: "In being aware of a thought, action, emotion, perceptual experience, memory, bodily experience (and also my body itself), I am aware of it as being my own." The "for-me" character is not added by reflection or by second-order monitoring. It is constitutive of the experiential character of conscious states from the outset.
 
 Three clarifications keep the concept from sliding into adjacent notions:
 
@@ -105,7 +105,7 @@ Several adjacent concepts deserve explicit distinction.
 
 ### Dualism
 
-The [[tenets#^dualism|Dualism]] tenet finds direct support in mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "completely irrelational"—not a relation between an experience and a subject who has it, but a feature constitutive of experience itself. A feature with no internal structure, no constituent parts, and no functional decomposition is exactly what dualism predicts: a basic property of consciousness that physicalist accounts can describe in their functional shadow but not capture in their phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model in the first place.
+The [[tenets#^dualism|Dualism]] tenet finds direct support in mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "irrelational"—not a relation between an experience and a subject who has it, but a feature constitutive of experience itself. A feature with no internal structure, no constituent parts, and no functional decomposition is exactly what dualism predicts: a basic property of consciousness that physicalist accounts can describe in their functional shadow but not capture in their phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model in the first place.
 
 ### Bidirectional Interaction
 

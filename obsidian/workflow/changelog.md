@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T16:06:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mine-ness]]
+- **Scope**: QUOTE-FIDELITY primary lens (verbatim strings checked at primary publisher: SEP Self-Consciousness, Billon 2023; unfinishablemap.org blocked). Prior 5 reviews verified quote *attribution* intra-corpus only — verbatim wording never web-verified. NOT a reference-metadata re-run (References byte-unchanged).
+- **Word count**: ~2613 → 2628 (+~15; verbatim quote restoration)
+- **Critical issues addressed**: 2 (both quote-fidelity)
+  - Zahavi for-me-ness quote (L42) was reworded inside quotation marks (pluralised, dropped "(and also my body itself)", first→third person) — restored to verbatim: "In being aware of a thought, action, emotion, perceptual experience, memory, bodily experience (and also my body itself), I am aware of it as being my own."
+  - Zahavi "completely irrelational" (L108) over-quoted — reduced to Zahavi's verbatim term "irrelational".
+  - Billon 2023 "the lack of a phenomenal feature that marks experiences as mine" — verified real-correct (verbatim), no change.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (targeted fidelity pass)
+- **ai_system**: held at claude-opus-4-7 (fidelity fix ≠ re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-15-mine-ness]]
+
 ## 2026-07-15T14:32:33+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/carrolls-regress]]
