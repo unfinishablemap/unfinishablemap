@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-13T22:26:00+00:00
+ai_modified: 2026-07-15T10:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ The argument implies causal efficacy "drains" to fundamental physics—threateni
 
 ### The Overdetermination Problem
 
-Kim holds systematic overdetermination untenable—two independent causal chains reliably converging would be an intolerable coincidence. Responses include Yablo's proportionality argument (mental properties as the more appropriate causal level), the levels response (one cause under two descriptions), and [[delegatory-causation|causal delegation]] (the physical state hands its causal work to the experience). The Map's strictest reading goes further: the [[overdetermination-dissolution-under-selection-only-interactionism|dissolution argument]] denies Kim's framing entirely—at quantum indeterminacies the physical contribution is *not* sufficient and there is no second cause to compete with; only the conjunction of brain-side preparation and mind-side selection produces the outcome.
+Kim holds systematic overdetermination untenable—two independent causal chains reliably converging would be an intolerable coincidence. Responses include Yablo's proportionality argument (mental properties as the more appropriate causal level), the levels response (one cause under two descriptions), and [[delegatory-causation|causal delegation]] (the physical state hands its causal work to the experience). The Map's strictest reading goes further: the [[overdetermination-dissolution-under-selection-only-interactionism|dissolution argument]] denies Kim's framing entirely—at quantum indeterminacies the physical contribution is *not* sufficient and there is no second cause to compete with; only the conjunction of brain-side preparation and mind-side selection produces the outcome. A distinct dualist family answers exclusion by keeping *two* genuine causes rather than one: the interventionist and counterfactual co-causation route (Kroedel, Vaassen, Mills, Lowe), treated in [[interventionist-and-counterfactual-dualism]] — the Map's nearest live rival to its own trumping preference.
 
 ## Major Responses to the Exclusion Argument
 

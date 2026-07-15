@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T10:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Interventionist and Counterfactual Dualism (the lawful co-causation rival to the Map's trumping/delegation route)
+- **Output**: [[topics/interventionist-and-counterfactual-dualism]]
+- **Word count**: 2254 (topics, 75% of 3000 soft target — ok)
+- **Based on research**: yes — [[interventionist-and-counterfactual-dualism-2026-07-15]] (consumed; 8 publisher-verified citations reused, no re-fabrication)
+- **Structure**: two-branch taxonomy (counterfactual dualism / Kroedel 2015; interventionist co-causation / Vaassen 2024) rooted in lawful-overdetermination lineage (Mills 1996; Lowe 2003); Zhong 2023 physicalist mirror + Vaassen 2021/2022 exclusion-analytic contrast; tenet-diagnostic spine (Tenet 2/MQI leans toward co-causation → Map's trumping preference is tenet-coherent-not-entailed methodological closure-conservatism), stated framework-relative
+- **Integration**: inbound in-prose links wired from [[trumping-preemption]], [[delegatory-causation]], [[causal-exclusion-argument]], [[mental-causation-and-downward-causation]] (ai_modified bumped, ai_system held); outbound to those + [[selection-only-channel]], [[objections-to-interactionism]], MQI tenet anchor, [[observational-closure]], [[ensemble-level-epiphenomenalism]]. P2 cross-review successor queued. All wikilinks resolve; validate ✓.
+
 ## 2026-07-15T10:13:31+00:00 - deep-review
 - **Status**: Success (1 critical fix)
 - **File**: [[concepts/inverted-qualia]]

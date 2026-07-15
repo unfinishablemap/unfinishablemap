@@ -4,7 +4,7 @@ description: "Bradford Saad's unified mechanism for mental causation: experience
 created: 2026-02-15
 modified: 2026-07-15
 human_modified: null
-ai_modified: 2026-07-15T05:01:00+00:00
+ai_modified: 2026-07-15T10:41:00+00:00
 last_deep_review: 2026-06-22T20:21:59+00:00
 draft: false
 topics:
@@ -113,7 +113,7 @@ Several causal structures could model mental causation. Delegation has distinct 
 - **Constitution** treats the mental cause as the physical cause under a different description. Dualists reject this as collapsing into reductionism; constitutionalists would respond that they preserve genuine mental properties under a non-reductive physicalist framework.
 - **Delegation** preserves the physical state's capacity while denying it exercises that capacity. The experience does the actual work. This violates strict [[causal-closure]] but respects what Saad calls observational closure: no experiment can detect the difference, because the experience causes exactly what the physical state would have caused by default.
 
-Each of these structures has serious defenders. Delegation's comparative advantage depends on which theoretical costs one finds most acceptable.
+Each of these structures has serious defenders. Delegation's comparative advantage depends on which theoretical costs one finds most acceptable. The most developed dualist form of joint causation — the interventionist and counterfactual route, on which experience and its physical base are *both* genuine causes — is treated in [[interventionist-and-counterfactual-dualism]], the nearest rival to the delegation template and the route a literal reading of the Map's own tenets arguably favours.
 
 ## Observational Closure
 
