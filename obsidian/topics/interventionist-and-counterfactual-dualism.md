@@ -4,7 +4,7 @@ description: "The lawful co-causation rival to the Map's trumping route: two-cau
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-07-15T10:54:00+00:00
+ai_modified: 2026-07-15T11:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,6 +106,7 @@ Two honest caveats bound the diagnostic. First, "leans toward" is not "entails":
 - [[objections-to-interactionism]] — Survey of the responses dualism can make to exclusion
 - [[observational-closure]] — The invisibility both routes preserve, by different means
 - [[ensemble-level-epiphenomenalism]] — Whether trumping's difference-free efficacy is a genuine channel
+- [[delegation-meets-quantum-selection]] — The Map's proposed unification of delegation (structure) with quantum selection (mechanism) as a "single event"; the difference-making analysis here is the structural seam that candidate identity spans
 - [[tenets]] — The Map's five foundational commitments
 
 ## References
