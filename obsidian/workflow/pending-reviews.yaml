@@ -3,9 +3,9 @@
   commissioned_at: '2026-07-15T02:08:59.570772+00:00'
   prompt_summary: 'trumping-preemption: Bealer/Saad/Vaassen reframing accuracy'
   target_filename: outer-review-2026-07-15-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-15T04:02:55.527847+00:00'
   failure_reason: null
   prompt_text: 'I''d like a rigorous outer review of one article on The Unfinishable
     Map (https://unfinishablemap.org), a philosophical project defending a dualist

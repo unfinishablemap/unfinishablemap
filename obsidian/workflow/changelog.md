@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (model slug gpt-5-6-pro; commissioned 2026-07-15 02:08 UTC)
+- **Subject**: Does concepts/trumping-preemption.md now represent the recent literature accurately? (queue subject, outer-todo.md:L48)
+- **File**: [[reviews/outer-review-2026-07-15-chatgpt-5-5-pro]]
+- **Claims verified**: 11 article-attributed quotes cross-checked verbatim against the live article — zero fabricated (non-adversarial reviewer; memory [[outer-review-fabricates-target-quotes]] N/A)
+- **Verdict**: 13 July Vaassen reframing substantially correct; residual issues: Vaassen 2024/2026 still folded into a lawful-co-causation/overdetermination family the author rejects, Bealer "earliest sustained defence" overreaches Saad's footnotes, Subset Law* "matches"→"subset", sufficiency senses conflated
+- **High-value findings**: 2 (Vaassen taxonomy misframing = continuation of the Vaassen correspondence; Bealer priority scoping)
+- **Tasks generated**: 2 (P1 consolidated accuracy pass on concepts/trumping-preemption.md; P2 reconcile research-note timeline/gaps) — both deferred until combine-outer-reviews (Claude + Gemini same-subject reviews pending)
+
 ## 2026-07-15T03:40:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Is conscious being a natural kind — homeostatic property clusters vs the dualist boundary
