@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T21:27:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Single-cell proto-agency and the evidence problem (harvested; targets the question [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]] deliberately parks)
+- **Key finding**: The "stochastic noise vs genuine proto-choice" dichotomy is unstable — single-cell FRET/motor-coordination literature shows CheY-P noise is functionally integrated INTO the search mechanism (up to ~73% shallow-gradient gain), so "just noise" is not a deflation. Distinction plausibly empirically intractable at the prokaryotic floor → Tenet-5 result, hands off to [[voids/agency-verification-void]]. Note: EMBO dissent co-author Sourjik measured the very noise he reads as non-choice.
+- **Output**: [[research/single-cell-proto-agency-and-the-evidence-problem-2026-07-15]]
+- **Sources consulted**: 14
+
 ## 2026-07-15T21:04:31+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[topics/plant-cognition-and-the-plant-neurobiology-debate]]
