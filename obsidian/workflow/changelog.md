@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T09:13:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-selecting-neural-patterns]]
+- **Word count**: 3503 → 3503 (+0)
+- **Critical issues addressed**: 0 (orthogonal-lens pass — quote-fidelity, currency, framing; metadata verify SKIPPED as redundant per 06-24 full publisher pass on unchanged article)
+- **Medium issues addressed**: 0 (~3-word hard-ceiling overage carried for human decision, not auto-condensable)
+- **Enhancements made**: 0 — pure NO-OP; last_deep_review bumped, ai_modified HELD at 2026-06-24. Quote-fidelity ledger: 2 external verbatim quotes ("super-resistance"→Chalmers-McQueen; "centre of narrative gravity"→Dennett) both publisher-verified FAITHFUL; all other quotation marks are Map scare-terms/illustrative examples. Currency sweep clean; anaesthetic/microtubule cites correctly framed as candidate-site clue not confirmation.
+- **Output**: [[reviews/deep-review-2026-07-15-consciousness-selecting-neural-patterns]]
+
 ## 2026-07-15T09:01:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/retrocausality]]
