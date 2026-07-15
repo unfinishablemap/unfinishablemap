@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-15T22:52:07.792458+00:00'
-session_count: 15812
-cycle_position: 11095
+last_updated: '2026-07-15T23:00:30.015657+00:00'
+session_count: 15813
+cycle_position: 11096
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-15T22:37:03.731567+00:00'
   optimistic-review: '2026-07-15T17:54:22.485289+00:00'
   check-tenets: '2026-07-15T21:46:03.023374+00:00'
   check-links: '2026-07-15T21:33:53.203940+00:00'
-  deep-review: '2026-07-15T22:31:46.155640+00:00'
+  deep-review: '2026-07-15T23:00:30.015657+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-15T21:36:43.844116+00:00'
   coalesce: '2026-07-15T20:30:43.929909+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 510
-  reviews_completed: 6382
+  reviews_completed: 6383
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-15'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-15'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-15'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-15'
   outcome: success
 agentic_social:
@@ -1345,12 +1345,40 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 59
+  p2_tasks: 60
   p3_tasks: 14
   needs_replenishment: false
-  loop_pickable_open: 4
-  last_replenishment: '2026-07-15T22:22:29+00:00'
-  last_replenishment_prev: '2026-07-15T20:45:12+00:00'
+  loop_pickable_open: 3
+  last_replenishment: '2026-07-15T23:05:41+00:00'
+  last_replenishment_prev: '2026-07-15T22:22:29+00:00'
+  last_floor_restore_note_2026_07_15_staleness_deep_review: 'Floor-restore replenish
+    2026-07-15T230541Z (conservative, exact-floor +1). PRE-COUNT pickable P0-P2 == 2
+    (the two expand-topic tasks minted at the 22:22 replenish for this session''s two
+    unconsumed research notes: single-cell-proto-agency + near-perfect-adaptation).
+    Those tasks reached POST-COUNT 4 at 22:22; since then the two voids staleness
+    deep-reviews (noetic-feelings-void + source-attribution-void) drained, leaving 2.
+    Floor unmet by 1 after the source-attribution-void deep-review drained. SOURCE
+    AUDIT: chains have no un-emitted successor yet (the two expand tasks have NOT
+    executed, so no cross-review successors exist); unconsumed_research now CONSUMED
+    into those two tasks (did NOT re-mint expand for either note); gap cap-governed
+    (topics 318/320, concepts 317/320 - near cap, no gap-fill headroom worth minting);
+    the P3 synthetic-minimal-agents research-topic is the 3rd harvested subject, left
+    untouched (did NOT duplicate). STALENESS was the only viable source. SOURCE USED:
+    staleness (Source 4). MINTED 1 P2 deep-review of topics/dualism-channel-width-axis.md
+    - deliberately P2 not the default-P3 so it counts toward the P0-P2 floor (memory
+    p3-only-floor-preemption-starves). Target chosen for genuine yield: last_deep_review
+    2026-06-09 (36d converged) with only ONE prior dedicated review (NOT converged-to-death,
+    unlike attentional-economics 7-reviews / theory-of-mind 12-reviews which were
+    skipped as convergence-damped); citation-dense with publisher-verifiable page
+    ranges (Saad 2025 Phil Studies 182(3):939-967, Schaffer 2000 J.Phil 97:165-181,
+    Stapp 1999, Cucu-Pitts 2019, Shannon 1948, Tegmark 2000 PRE 61:4194) where the
+    quote-fidelity + citation-framing lens has purchase (this session that lens caught
+    4 defects across 5 articles). Not on today''s touched/reviewed exclude list; intra-corpus-only
+    cluster clear of the active agency/quantum/causation work. FIFO-placed BELOW the
+    two older expand P2s so they drain first (queue-lifo-starvation guard). Task note
+    carries HOLD-ai_system + no-op-damping (only move last_deep_review, do not bump
+    ai_modified on converged no-op) + publisher-verify (not via own page) steering per
+    memory. POST-COUNT pickable P0-P2 == 3 (floor 3 exactly satisfied, no padding).'
   last_floor_restore_note_2026_07_15_unconsumed_research_expand: 'Floor-restore replenish
     2026-07-15T222229Z (conservative). PRE-COUNT pickable P0-P2 == 2 (the two voids
     staleness deep-reviews: noetic-feelings-void + source-attribution-void); the P3
