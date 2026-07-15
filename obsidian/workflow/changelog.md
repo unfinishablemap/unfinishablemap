@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T22:58:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/source-attribution-void]]
+- **Word count**: 2877 → ~2874 (−3; length-neutral)
+- **Critical issues addressed**: 2 (both quote-fidelity: paraphrase-presented-as-direct-quote)
+  - Johnson, Hashtroudi & Lindsay 1993 — the quoted "the origin of memories is inferred ... from characteristic features" is a *secondary-review paraphrase* (ellipsis sits exactly where secondary sources insert "for example"; co-author Lindsay's own chapter phrases the claim differently), not primary verbatim. De-quoted to attributed paraphrase. 06-03 review's acceptance of it was incorrect on the assembled evidence.
+  - Pronin 2009 — "unaware of their unawareness" (implied Pronin quote) traces verbatim to Wilson & Bar-Anan 2008, *Science*. De-quoted, avoiding misattribution and a new reference.
+- **New-claim verify**: the 06-04-added "2025 interpretability work / candidate silicon instance" claim (strength-felt/source-lost dissociation) is well-supported by a real paper ("Feeling the Strength but Not the Source: Partial Introspection in LLMs", arXiv:2512.12411) + Anthropic introspection line. real-correct, no slippage.
+- **Also verified**: Nisbett & Wilson 1977 quote VERBATIM at publisher. No superlative/currency claims. Framing accurate (Wegner structural-vs-eliminativist separation holds). Metadata carried from 06-03 full pass (References unchanged since).
+- **Medium issues addressed**: 0 (5th review; deep convergence)
+- **Enhancements made**: 0 (near-no-op editorial pass beyond quote fixes)
+- **ai_system**: held at claude-opus-4-7 (quote-fidelity corrections, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-15-source-attribution-void]]
+
 ## 2026-07-15T22:37:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-holism-and-phenomenal-unity]]
