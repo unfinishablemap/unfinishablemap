@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-05T07:33:45+00:00
+ai_modified: 2026-07-15T22:29:17+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -62,7 +62,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-24
 last_curated:
-last_deep_review: 2026-06-02T15:03:51+00:00
+last_deep_review: 2026-07-15T22:29:17+00:00
 coalesced_from:
   - "/voids/understanding-void/"
   - "/voids/obviousness-void/"
@@ -87,7 +87,7 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of confidence** — sense that a judgment is reliable. Gates commitment to action.
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
-Loev calls these "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. Arango-Muñoz (2019) marks the seam where this family adjoins the cognitive-phenomenology question: noetic feelings concern the *accessibility* of a verdict consciousness cannot audit, while cognitive phenomenology concerns whether the thinking the verdict gates has a proprietary phenomenal kind at all—an ontology-of-the-phenomenal question (see [[cognitive-phenomenology-and-the-irreducibility-of-thought]]) that the boundary between the two does not settle. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop—the felt click of having-decided is one such verdict, while the underlying deliberation→commitment closure that the click marks is the [[decision-void]]. The [[the-quantitative-comprehension-void#a-shared-signature-multiple-faces|shared signature of the quantitative comprehension void]] names the same output-without-operation shape outside the affective family.
+Loev calls these "mild affective experiences" whose felt character "tends to elude us" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. Arango-Muñoz (2019) marks the seam where this family adjoins the cognitive-phenomenology question: noetic feelings concern the *accessibility* of a verdict consciousness cannot audit, while cognitive phenomenology concerns whether the thinking the verdict gates has a proprietary phenomenal kind at all—an ontology-of-the-phenomenal question (see [[cognitive-phenomenology-and-the-irreducibility-of-thought]]) that the boundary between the two does not settle. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop—the felt click of having-decided is one such verdict, while the underlying deliberation→commitment closure that the click marks is the [[decision-void]]. The [[the-quantitative-comprehension-void#a-shared-signature-multiple-faces|shared signature of the quantitative comprehension void]] names the same output-without-operation shape outside the affective family.
 
 ## How the Feelings Are Produced
 
@@ -121,7 +121,7 @@ Beneath the phenomenal dimension lies a structural one. Any chain of explanation
 
 ## Philosophical Convergence on the Obvious
 
-Multiple traditions identified the phenomenology of obviousness before cognitive science named its mechanism. Wittgenstein insisted that "the very things that are most obvious can become the most difficult to understand"—the obstacle volitional, not intellectual. Heidegger described how the ready-to-hand withdraws from attention precisely by functioning well: what is ontically closest is "ontologically the farthest." Schutz analysed the "natural attitude" of the life-world, where taken-for-grantedness is structural. The cognitive-science mechanism (fluency → felt truth → obviousness) and the phenomenological description (withdrawal of the well-functioning) point at one structure from different angles.
+Multiple traditions identified the phenomenology of obviousness before cognitive science named its mechanism. Wittgenstein insisted that "the very things which are most obvious may become the hardest of all to understand"—the obstacle volitional, not intellectual. Heidegger described how the ready-to-hand withdraws from attention precisely by functioning well: what is ontically closest is "ontologically the farthest." Schutz analysed the "natural attitude" of the life-world, where taken-for-grantedness is structural. The cognitive-science mechanism (fluency → felt truth → obviousness) and the phenomenological description (withdrawal of the well-functioning) point at one structure from different angles.
 
 ## The Self-Concealing Structure
 

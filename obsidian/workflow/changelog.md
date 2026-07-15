@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T22:29:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/noetic-feelings-void]]
+- **Selection**: staleness re-review — last_deep_review 2026-06-02 but ai_modified 2026-06-05 (edit never re-verified). The 06-05 edit (edge-states sentence + cross-link) confirmed conceptual-only, no source claims. Metadata verify done corpus-wide → routed to quote-fidelity / currency / framing lenses
+- **Word count**: 2981 → 2981 (net 0; two length-neutral verbatim quote fixes)
+- **Critical issues addressed**: 2 (quote-fidelity, both caught only by publisher-of-record web-verify). (1) Wittgenstein misquote "the very things that are most obvious can become the most difficult to understand" → verbatim Winch "…which are most obvious may become the hardest of all to understand". (2) Loev paraphrase-in-quotes: "introspectively" was appended inside the quoted phrase "tends to elude us"; removed to match source ("their affective nature tends to elude us")
+- **Quote/citation web-verify**: Koriat 2000 "inferential heuristics that operate implicitly and unintentionally" real-correct (verbatim); Loev "mild affective experiences" real-correct; Heidegger "ontically closest"/"ontologically the farthest" real-correct (M&R); Rozenblit & Keil "illusion of explanatory depth" real-correct. No superlative/currency exposure (empirical-currency helper empty)
+- **Enhancements made**: 0 (structurally converged; only the two fidelity fixes)
+- **Note**: Heidegger locus imprecision (ontically-closest aphorism is Intro §5, ready-to-hand is Div I §15) noted in review as within interpretive latitude — not edited
+- **Output**: [[reviews/deep-review-2026-07-15-noetic-feelings-void]]
+
 ## 2026-07-15T22:18:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/panpsychism]]
