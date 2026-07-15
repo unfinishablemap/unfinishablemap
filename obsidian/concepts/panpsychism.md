@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-06T11:23:32+00:00
+ai_modified: 2026-07-15T22:18:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-06-14T11:17:20+00:00
+last_deep_review: 2026-07-15T22:18:32+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -74,7 +74,7 @@ The process tradition suggests panpsychism needn't treat micro-experiences as st
 
 Panpsychists propose that consciousness—or something proto-conscious—is what quiddities are. The view splits into two main variants:
 
-**Panpsychist Russellian monism** holds that quiddities are genuinely phenomenal—every electron has some micro-experience. Galen Strawson champions this view: "Why posit non-experiential concrete reality with zero evidence?"
+**Panpsychist Russellian monism** holds that quiddities are genuinely phenomenal—every electron has some micro-experience. Galen Strawson champions this view, rejecting any commitment to wholly non-experiential stuff "for which there is absolutely no evidence whatever."
 
 **Panprotopsychist Russellian monism** (Chalmers's distinction) holds that quiddities are "protophenomenal"—non-experiential properties that jointly constitute phenomenal properties in complex combinations. Electrons don't have experience; they have something that yields experience when organized appropriately.
 

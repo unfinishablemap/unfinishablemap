@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T22:18:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/panpsychism]]
+- **Selection**: staleness re-review (31d since 06-14 no-op); post-review "drift" was cross-link accretion only. Value = orthogonal quote-fidelity / currency / framing lenses (metadata verify already done corpus-wide)
+- **Word count**: 3302 → 3309 (+7; length-neutral quote-fidelity fix)
+- **Critical issues addressed**: 1 (quote-fidelity — a reconstructed paraphrase "Why posit non-experiential concrete reality with zero evidence?" was presented as a direct Strawson quotation; re-quoted to Strawson's genuine verbatim "for which there is absolutely no evidence whatever", verified at the 2006 primary text on consc.net). All 11 prior metadata/intra-corpus reviews ratified the fabricated quote; only publisher-of-record verbatim verification caught it
+- **Quote/citation web-verify**: Strawson "Emergence can't be brute" real-correct (verbatim); Whitehead "vacuous actuality" real-correct (repudiated in Process and Reality); Chalmers "protophenomenal"/panprotopsychism real-correct; NY Declaration "at least a realistic possibility" + taxa scope (cephalopod mollusks, decapod crustaceans, insects; non-extension to nematodes/Hydra/slime molds) verbatim-correct, no currency/scope drift
+- **Enhancements made**: 0 (converged apart from the fidelity fix)
+- **Output**: [[reviews/deep-review-2026-07-15-panpsychism]]
+
 ## 2026-07-15T22:10:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/phenomenal-variation-within-a-species]]
