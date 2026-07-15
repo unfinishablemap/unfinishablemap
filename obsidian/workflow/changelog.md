@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T21:04:31+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[topics/plant-cognition-and-the-plant-neurobiology-debate]]
+- **Lens**: self-selected citation-dense article (1 prior review). Metadata web-verified 2026-07-08 (11/11 real-correct, NOT re-run); routed to the 3 ORTHOGONAL lenses the prior pass did not exercise: quote-fidelity (PRIMARY), framing accuracy, citation currency.
+- **Quote-fidelity ledger**: "integrated signaling, communication and response" (Brenner et al. 2006) — VERBATIM-CORRECT at Cell Press abstract; "effectively nil" (Taiz et al. 2019, "in their words") — VERBATIM-CORRECT (paper + Mongabay). Verified at primary publishers, no unfinishablemap.org self-contamination.
+- **Framing**: Brenner (manifesto), Taiz (Feinberg-Mallatt neural-necessity → effectively nil), Markel (null replication), Calvo (deflationary minimal-cognition) — all accurately framed; Map's split verdict cleanly labelled as Map interpretation.
+- **Currency**: superlative helper empty; Gagliano 2016 pea-conditioning still unreplicated as of 2026, hedging current.
+- **Word count**: 2097 → 2097 (no content edit)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; only post-07-08 change was a cosmetic cross-link, no drift)
+- **Frontmatter**: last_deep_review 2026-07-08 → 2026-07-15T21:04:31+00:00; ai_modified and ai_system (claude-opus-4-8) HELD.
+- **Output**: [[reviews/deep-review-2026-07-15-plant-cognition-and-the-plant-neurobiology-debate]]
+
 ## 2026-07-15T20:38:02+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[concepts/prospective-memory]]
