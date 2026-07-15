@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T03:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Is conscious being a natural kind — homeostatic property clusters vs the dualist boundary
+- **Output**: [[concepts/is-conscious-being-a-natural-kind]]
+- **Word count**: 2265
+- **Based on research**: yes, [[research/is-conscious-being-a-natural-kind-homeostatic-property-clusters-versus-the-dualist-boundary-2026-07-15]]
+
 ## 2026-07-15T03:29:42+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/evolutionary-case-for-quantum-neural-effects.md — well-calibrated; Luo et al. 2025 citation web-verified (holds); zero tasks minted (no real gap)
