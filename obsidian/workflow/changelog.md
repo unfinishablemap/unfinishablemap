@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T14:00:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-epiphenomenalist-threat]]
+- **Scope**: directed cross-review for coherence with the per-trial-vs-ensemble / difference-making-vs-trumping reframe (NOT a metadata web-verify — citation seam exhausted)
+- **Word count**: ~3286 → 3301 (+15)
+- **Critical issues addressed**: 0
+- **Coherence findings**: framing already correct — invisibility located in ensemble Born-preservation while per-trial/token efficacy preserved ("token-interactionist but threatening to be type-epiphenomenal"), no over-concession; no spliced/misframed quote
+- **Cross-links**: +1 — deep-linked the P-Q3 [[positions/quantum-interface#^mechanism-debt|mechanism-debt]] register anchor in the ensemble-worry paragraph (register's own downstream-deep-link convention); ensemble-level-epiphenomenalism already linked
+- **Attribution**: ai_system HELD at claude-opus-4-6 (single reciprocal cross-link, not re-authoring); ai_modified + last_deep_review bumped
+- **Output**: [[reviews/deep-review-2026-07-15-the-epiphenomenalist-threat]]
+
 ## 2026-07-15T13:38:00+00:00 - positions-evolve (update)
 - **Status**: Success
 - **Position**: P-Q3 (bias-without-deviation dilemma) in [[positions/quantum-interface]]
