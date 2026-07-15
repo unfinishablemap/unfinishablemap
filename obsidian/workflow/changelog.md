@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T02:52:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Word count**: 4015 → 3998 (-17; article was found OVER the 4000 hard ceiling, restored under)
+- **Lens**: publisher-of-record QUOTE-FIDELITY (orthogonal to the 06-22 metadata pass)
+- **Critical issues addressed**: 2 — (1) Beni (2021) misquote: "could not"→"cannot" + truncated "from our theories of scientific models"→"from our theories" (verified PMC7885977); fixed to faithful partial quote. (2) "is not itself a theory of consciousness" was attributed to Hohwy (2013) but is verbatim from Hohwy & Seth (2020) — wrong-work attribution; removed duplicate quote, reattached (Hohwy, 2013) cite to the claim it supports.
+- **Real-correct quotes confirmed**: Hohwy & Seth 2020, Austin 1962 ("moderate-sized specimens of dry goods"), Clark/Friston/Wilkinson 2019 title, Friston/Wiese/Hobson 2020 ("Markovian monism"/"mutually reductive")
+- **Length**: -17w via 2 fidelity fixes + 1 redundant sentence + 2 filler intensifiers; no qualifier/hedge/citation touched
+- **Output**: [[reviews/deep-review-2026-07-15-predictive-processing-and-dualism]]
+
 ## 2026-07-15T02:33:32+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Is conscious being a natural kind — homeostatic property clusters versus the dualist boundary
