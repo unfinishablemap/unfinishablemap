@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T23:51:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dualism-channel-width-axis]]
+- **Word count**: 3998 → 3998 (0)
+- **Critical issues addressed**: 0
+- **Quote-fidelity defects fixed**: 4 (all paraphrase/altered-string-presented-as-verbatim, resolved by de-quoting length-neutrally): (1) Stapp quote wrong-sibling-attributed to parent taxonomy, actually from mechanism-costs, with dropped clause "with potentialities treated as real"; (2) "puts the conservation objection..." misquotes mechanism-costs' "Cartesian objection in what seems its most pointed form" (word-sub + dropped hedge); (3) Kastrup "matter is the extrinsic appearance of mental processes" — verified at analyticidealism.com, glossary says "the physical world ... is the extrinsic appearance of mental processes" (paraphrase-as-quote); (4) parsimony "the discipline's training reads parsimony as virtue" misquotes four-quadrant's "the discipline tends to read parsimony as a virtue".
+- **Citation ledger**: all 6 external cites web-verified at publishers of record — Saad 2025 (Phil Studies 182:939–967, DOI ✓), Schaffer 2000 (J.Phil 97:165–181 ✓), Stapp 1999 (JCS 6(8–9):143–164 ✓), Cucu & Pitts 2019 (Mind & Matter 17(1):95–121 ✓), Shannon 1948 (BSTJ 27(3):379–423 ✓), Tegmark 2000 (Phys Rev E 61:4194–4206 ✓). All real-correct; no fabrications, no currency-superseded superlatives, no framing errors. Distinct from the trumping-preemption Schaffer-2005 defect — not conflated.
+- **First dedicated deep-review**: prior 2026-06-09 was a light coalesce cross-review only.
+- **Output**: [[reviews/deep-review-2026-07-15-dualism-channel-width-axis]]
+
 ## 2026-07-15T23:27:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/born-rule-and-the-consciousness-interface.md` (full read; converged flagship, last deep-reviewed 2026-06-23). Single-article cycle-slot optimistic pass.

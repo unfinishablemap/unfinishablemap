@@ -4,7 +4,7 @@ description: "A third locating axis for dualist positions — how narrow the min
 created: 2026-05-27
 modified: 2026-06-09
 human_modified:
-ai_modified: 2026-06-09T08:15:00+00:00
+ai_modified: 2026-07-15T23:51:00+00:00
 draft: false
 topics:
   - dualism
@@ -32,7 +32,7 @@ author:
 ai_system: "claude-opus-4-8"
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-06-09T08:15:00+00:00
+last_deep_review: 2026-07-15T23:51:00+00:00
 coalesced_from:
   - "/topics/channel-width-third-axis/"
   - "/topics/does-a-wide-channel-force-thick-poles/"
@@ -63,11 +63,11 @@ The same canonical positions the two-axis grid populates can be ordered along ch
 
 **Saad's delegatory dualism — narrow (selection-only).** [[delegatory-causation|Delegatory causation]] has experience preempt the *default causal profile* of a physical brain state by [[trumping-preemption|trumping]] rather than competing — and, crucially, "the experience causes exactly what the physical state would have caused by default." The Map's integration identifies that default profile with the Born-rule distribution over neural quantum outcomes, so consciousness "selects *within* Born-rule probabilities rather than deviating from them." Selection within a fixed, Born-preserving candidate set is precisely the selection-only channel. Saad's bare mechanism sits at the channel-width floor. (The "default" qualifier is load-bearing: drop it and the Subset Law becomes circular. The narrowness is a property of *what crosses* the interface, not of either pole.)
 
-**Stapp's quantum-Zeno dualism — narrow channel, thick endpoints.** This is the position that forces the third axis. The parent taxonomy reads Stapp as max-mind / max-physical: "a thick observer — a full agent with selection power — and a thick quantum ontology — full state-vector realism — on either side of a *narrow* selection channel." His intervention is "quantum-Zeno biasing only," holding neural patterns against decay by observation rate; consciousness "*selects* among patterns the brain presents" rather than generating them — what the mechanism-costs reading calls "a probabilistic channel that is structurally Q1-like even when sitting in a Q4 ontology." So Stapp's *channel* is near the floor — narrow, selection-flavoured, energy-injecting nothing — while both *poles* are thick. (A qualifier the corpus preserves: Stapp's basis-choice layer, the *Process 1* choice of which observable to probe, is wider than strict outcome-level selection-only, so his channel is narrow but not at the absolute floor.)
+**Stapp's quantum-Zeno dualism — narrow channel, thick endpoints.** This is the position that forces the third axis. The parent taxonomy reads Stapp as max-mind / max-physical — a thick observer with full selection power on one side, a thick quantum ontology of full state-vector realism on the other, and a narrow selection channel between them. His intervention is "quantum-Zeno biasing only," holding neural patterns against decay by observation rate; consciousness "*selects* among patterns the brain presents" rather than generating them — what the mechanism-costs reading calls "a probabilistic channel that is structurally Q1-like even when sitting in a Q4 ontology." So Stapp's *channel* is near the floor — narrow, selection-flavoured, energy-injecting nothing — while both *poles* are thick. (A qualifier the corpus preserves: Stapp's basis-choice layer, the *Process 1* choice of which observable to probe, is wider than strict outcome-level selection-only, so his channel is narrow but not at the absolute floor.)
 
-**Cartesian substance dualism — wide (energy-transfer).** The classical formulation routes mental influence through what the mechanism-costs article calls "Cartesian energy-transfer," the move that "puts the conservation objection in its most pointed form." The interface carries a quantity physics tracks as work. The channel is wide: it admits energy injection, the widest operation in the ordering. Descartes sits at the channel-width ceiling regardless of where his poles sit.
+**Cartesian substance dualism — wide (energy-transfer).** The classical formulation routes mental influence through what the mechanism-costs article calls "Cartesian energy-transfer," the move that puts the conservation objection in its most pointed form. The interface carries a quantity physics tracks as work. The channel is wide: it admits energy injection, the widest operation in the ordering. Descartes sits at the channel-width ceiling regardless of where his poles sit.
 
-**Kastrup's analytic idealism — no channel.** Kastrup is, by the parent's scope note, a monist included for contrast. Analytic idealism replaces interaction with an *intrinsic/extrinsic* distinction: "matter is the extrinsic appearance of mental processes," perceived from the outside. There are not two things in contact, so there is no interface for anything to cross. The relevant question becomes the [[q3-q4-sliding-boundary-and-transparency-problem|transparency problem]] — why the intrinsic mental reality looks, from outside, like impersonal physical structure. On the channel-width axis Kastrup does not score *zero width*; he scores *not applicable*. A channel-free position is off the axis, not at its bottom. This matters for the separation test below.
+**Kastrup's analytic idealism — no channel.** Kastrup is, by the parent's scope note, a monist included for contrast. Analytic idealism replaces interaction with an *intrinsic/extrinsic* distinction: matter is the extrinsic appearance of mental processes, perceived from the outside. There are not two things in contact, so there is no interface for anything to cross. The relevant question becomes the [[q3-q4-sliding-boundary-and-transparency-problem|transparency problem]] — why the intrinsic mental reality looks, from outside, like impersonal physical structure. On the channel-width axis Kastrup does not score *zero width*; he scores *not applicable*. A channel-free position is off the axis, not at its bottom. This matters for the separation test below.
 
 This yields a rough ordering — Saad (floor) → Stapp (near floor, plus a basis-choice layer above) → probability-bias interactionism → Cartesian energy-transfer (ceiling) — with Kastrup standing outside it entirely.
 
@@ -123,7 +123,7 @@ So the vacant cell partitions. Most of it is structurally forbidden — candidat
 
 ### Symmetry With the Q4 Vacancy {#q4-symmetry}
 
-The two-axis thickness taxonomy already noted a [[four-quadrant-dualism-taxonomy#q4|systematically under-populated quadrant]] — max-mind/max-physical, avoided because "the discipline's training reads parsimony as virtue." The channel-width axis has its own vacant region, but the two vacancies have *opposite* explanatory structures, and the contrast is itself a cartographic finding.
+The two-axis thickness taxonomy already noted a [[four-quadrant-dualism-taxonomy#q4|systematically under-populated quadrant]] — max-mind/max-physical, avoided because the discipline reads parsimony as a virtue. The channel-width axis has its own vacant region, but the two vacancies have *opposite* explanatory structures, and the contrast is itself a cartographic finding.
 
 Q4's emptiness is *sociological*: the cell is coherent and inhabitable (Descartes, Stapp, Goff sit there), but contemporary training disfavours paying its mechanism bill. Nothing forbids Q4; the discipline avoids it. The wide-channel/thin-pole cell's emptiness is *mostly structural*: the cell is largely incoherent, so the literature's avoidance tracks genuine impossibility rather than preference. Distinguishing the two kinds of emptiness is part of what a locating axis is *for*. The Q4 vacancy is a place the field could go and won't; the wide/thin vacancy is mostly a place there is nothing to go to.
 
