@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T13:38:00+00:00 - positions-evolve (update)
+- **Status**: Success
+- **Position**: P-Q3 (bias-without-deviation dilemma) in [[positions/quantum-interface]]
+- **Mode**: update — dependency re-verification against one changed article
+- **Trigger**: today's cross-review of [[concepts/ensemble-level-epiphenomenalism]] (commit 1288d3603) added the difference-making-vs-trumping layering seam (the corridor's own per-trial selection is itself a difference-making act, continuous with the minimum-outside-corridor route and discontinuous with trumping's authority).
+- **Change**: extended the `Argued in` gloss with one clause tracking the newly-added layering tension; added an `Updated 2026-07-15` history note; bumped `Last reviewed` 2026-06-16 → 2026-07-15.
+- **Confidence**: UNCHANGED (moderate). The article change sharpens the same open dilemma rather than resolving or shifting it.
+- **Verification**: both `Argued in` wikilinks re-grepped live (resolve); `^mechanism-debt` anchor and all 10 P-Q IDs intact and in order; no split/re-order.
+- **Discipline**: ai_system HELD at claude-opus-4-8 (my model — no re-attribution); ai_modified → 2026-07-15T13:38:00 (≤ real UTC); YAML re-parsed OK; clean EOF.
+- **Cascade**: P-Q3 is a dependency of P-Q1 (inherits its open dilemma) and is ranged over by meta-position P-Q10; the gloss-only change does not alter P-Q3's assertion, confidence, or dependencies, so no downstream update tasks queued.
+
 ## 2026-07-15T13:36:21+00:00 - deep-review
 - **Status**: Success (converged NO-OP)
 - **File**: [[topics/constitutive-exclusion]]
