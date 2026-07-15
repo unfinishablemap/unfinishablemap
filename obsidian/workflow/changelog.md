@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T08:12:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/is-conscious-being-a-natural-kind]]
+- **Word count**: 2265 → 2265 (metadata-only fixes; length-neutral, well under 2500 soft cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Notes**: FIRST independent review (cross-review of same-session opus-4-8 create); held ai_system claude-opus-4-8, added last_deep_review. Full per-cite publisher-of-record web-verify (14 cites, genuinely owed): 12 real-correct, 2 real-wrong-metadata FIXED — Shea 2012 DOI .00453.x→.00483.x, Bayne & Shea 2020 pages 65–84→65–83. No fabricated cites; quotes faithful (Antony, Kendler, Boyd). Double-edge guard PASS (conditional/coherentist, burden named, no entailment slide, Antony faithfully scoped). Novelty scoping PASS (credits Shea + Bayne–Shea; claims only HPC+dualist-diagnostic wiring). Cluster coherence PASS (phenomenal-sorites reciprocates, no re-derivation; Birch richness-vs-on/off distinction clean). EOF clean.
+- **Output**: [[reviews/deep-review-2026-07-15-is-conscious-being-a-natural-kind]]
+
 ## 2026-07-15T08:01:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/modal-structure-of-phenomenal-properties]]

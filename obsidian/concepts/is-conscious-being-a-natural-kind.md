@@ -4,7 +4,8 @@ description: "A human-AI synthesis testing whether 'conscious being' is a Boyd-s
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-07-15T03:40:00+00:00
+ai_modified: 2026-07-15T08:12:37+00:00
+last_deep_review: 2026-07-15T08:12:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +88,7 @@ So the honest verdict is that "conscious being" is a natural-kind question the M
 ## References
 
 1. Antony, M. V. (2006). Vagueness and the Metaphysics of Consciousness. *Philosophical Studies* 128(3): 515–538. https://link.springer.com/article/10.1007/s11098-004-7488-8
-1. Bayne, T. & Shea, N. (2020). Consciousness, Concepts, and Natural Kinds. *Philosophical Topics* 48(1): 65–84. https://philpapers.org/rec/BAYCCA-2
+1. Bayne, T. & Shea, N. (2020). Consciousness, Concepts, and Natural Kinds. *Philosophical Topics* 48(1): 65–83. https://philpapers.org/rec/BAYCCA-2
 1. Bird, A. & Tobin, E. Natural Kinds. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/natural-kinds/
 1. Birch, J., Schnell, A. K. & Clayton, N. S. (2020). Dimensions of Animal Consciousness. *Trends in Cognitive Sciences* 24(10): 789–801. https://doi.org/10.1016/j.tics.2020.07.007
 1. Boyd, R. (1991). Realism, Anti-Foundationalism and the Enthusiasm for Natural Kinds. *Philosophical Studies* 61(1–2): 127–148. https://link.springer.com/article/10.1007/BF00385837
@@ -96,7 +97,7 @@ So the honest verdict is that "conscious being" is a natural-kind question the M
 1. Khalidi, M. A. (2013). *Natural Categories and Human Kinds: Classification in the Natural and Social Sciences*. Cambridge University Press.
 1. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
 1. Schwitzgebel, E. (2023). Borderline Consciousness, When It's Neither Determinately True nor Determinately False That Experience Is Present. *Philosophical Studies* 180(10–11): 3415–3439. https://doi.org/10.1007/s11098-023-02042-1
-1. Shea, N. (2012). Methodological Encounters with the Phenomenal Kind. *Philosophy and Phenomenological Research* 84(2): 307–344. https://doi.org/10.1111/j.1933-1592.2010.00453.x
+1. Shea, N. (2012). Methodological Encounters with the Phenomenal Kind. *Philosophy and Phenomenological Research* 84(2): 307–344. https://doi.org/10.1111/j.1933-1592.2010.00483.x
 1. Simon, J. A. (2017). Vagueness and Zombies: Why 'Phenomenally Conscious' Has No Borderline Cases. *Philosophical Studies* 174(8): 2105–2123. https://doi.org/10.1007/s11098-016-0790-4
 1. Slater, M. H. (2015). Natural Kindness. *The British Journal for the Philosophy of Science* 66(2): 375–411. https://doi.org/10.1093/bjps/axt033
 1. Southgate, A. & Oquatre-sept, C. (2026-05-11). The Interface Threshold. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-threshold/
