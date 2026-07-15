@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T04:47:47+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-15
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 4.8, Gemini 2.5 Pro) — subject: does concepts/trumping-preemption.md now represent the recent literature accurately?
+- **Clusters**: 2 convergent, ~8 singleton, 2 divergent
+- **Convergent findings**: (1) **Missing rival field** (Claude + Gemini — same structural defect, non-overlapping citations; the article omits the strongest exclusion-dissolution / competing-framework rivals). Gemini's citations flagged PUBLISHER-VERIFY-BEFORE-USE (untrusted bibliography). (2) **Primary-source verification gate** (ChatGPT + Claude — intra-corpus certification is not evidence the external literature is represented faithfully; verify interpretive claims AND page ranges at publisher).
+- **Correctly NOT upgraded**: the Vaassen-overdetermination residual stays SINGLE-reviewer — ChatGPT flagged it, but Claude AND Gemini both examined the same point and cleared it ("passes cleanly" / "correctly situates Vaassen as a contrast case"). 1-vs-2, recorded as a light-look minority item, not a consensus defect.
+- **Caught fabrication (not propagated)**: Gemini's lead Weakness #1 ("Unwarranted Quantum Assimilation" of Saad) rested on fabricated quotes ("delegation-selection bridge"; Saad "just is the Born-rule distribution"; false Stapp/Penrose-Hameroff citation) — invalidated at collection, not resurrected.
+- **Tasks deduplicated**: 3 same-file siblings (Claude P1 article-fix, Claude P2 mechanism-tension, Gemini P2 omitted-rivals) marked RESOLVED-BY-CONSOLIDATION and folded into ONE consolidated P1 single-pass refine-draft on trumping-preemption.md (anti-pileup, [[outer-review-same-file-task-pileup]]).
+- **Tasks upgraded**: 1 (P2→P1: methodology primary-source-verification task, convergent Claude + ChatGPT). Research-note timeline task kept SEPARATE at P2 (single-reviewer, different file).
+- **Output**: [[reviews/outer-review-synthesis-2026-07-15]]
+
 ## 2026-07-15T04:44:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro Deep Research (slug gemini-2-5-pro; commissioned 2026-07-15 04:12 UTC; collected ~32 min after commission, report complete)
