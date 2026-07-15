@@ -55,3 +55,42 @@
   subject_articles:
   - concepts/trumping-preemption.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-15-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/fb15b19cca4d3485
+  commissioned_at: '2026-07-15T04:12:56.515631+00:00'
+  prompt_summary: 'trumping-preemption: Bealer/Saad/Vaassen reframing accuracy'
+  target_filename: outer-review-2026-07-15-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, Philosophical Studies) assessing this article for submission;\
+    \ your remit is to find weaknesses that would justify rejection or major revision.\
+    \ The article is at https://unfinishablemap.org/concepts/trumping-preemption/\
+    \ and makes claims about causation \u2014 trumping, causal preemption, and their\
+    \ bearing on mental causation; the site argues for a non-reductive view of consciousness.\
+    \ Search indexes lag the site by 24-48 hours, so also consult https://unfinishablemap.org/workflow/changelog/.\
+    \ Assess only the article'''s substance: (a) empirical and scholarly accuracy\
+    \ against the 2020-2025 literature; (b) reliance on results that were challenged,\
+    \ retracted, or failed to replicate; (c) framings merely bracketed by the site'''s\
+    \ own commitments rather than defended; (d) untested counterarguments or competing\
+    \ frameworks it ignores. Scrutinize in particular how it characterizes George\
+    \ Bealer, Bram Vaassen, and Bradford Saad \u2014 whether Vaassen'''s 2024 account\
+    \ is correctly framed as an interventionist \"both are causes\" view rather than\
+    \ a case of preemption, and whether every attribution, date, and venue checks\
+    \ out. Do not describe the site'''s automation, review pipeline, methodology disciplines,\
+    \ evolution loop, or governance infrastructure; those are project-internal and\
+    \ not the subject of audit. Do not list the site'''s tenets or pre-frame the article\
+    \ as a testbed for any theory. End your report with at least five specific weaknesses,\
+    \ each citing at least one peer-reviewed source from 2020-2025 that the article\
+    \ omits, contradicts, or mishandles; if you cannot find five, state explicitly\
+    \ why none are visible. Close with a one-sentence verdict on academic-submission\
+    \ readiness. Do not append summary praise of the site'''s strengths, methodology,\
+    \ or architectural ambition."
+  subject_type: queue
+  subject_title: Does concepts/trumping-preemption.md now represent the recent literature
+    accurately?
+  subject_articles:
+  - concepts/trumping-preemption.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-15-chatgpt-5-5-pro.md
