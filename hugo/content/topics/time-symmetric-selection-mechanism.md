@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-07-12 20:13:00+00:00
+ai_modified: 2026-07-15 13:01:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -216,6 +216,8 @@ Time-symmetric selection connects tightly to the Map's tenets:
 ## Further Reading
 
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — The alternative pathway: forward-in-time selection via Orch OR, Stapp Zeno, and Chalmers-McQueen CSL
+- [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/) — Side-by-side cost accounting of the retrocausal vs forward-in-time routes
+- [trilemma-of-selection](/topics/trilemma-of-selection/) — Why directed selection is the only horn that preserves authorship; this article develops its retrocausal/atemporal Horn-3 route
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [retrocausality](/concepts/retrocausality/) — Physics of backward causation and the Libet resolution
 - [transactional-interpretation-of-quantum-mechanics](/concepts/transactional-interpretation-of-quantum-mechanics/) — Cramer's handshake and Kastner's PTI in full, and what the Map borrows from them

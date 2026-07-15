@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-07-15 06:13:05+00:00
+ai_modified: 2026-07-15 13:01:47+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -151,6 +151,8 @@ The trilemma connects to each of the five [tenets](/tenets/):
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Given Horn 3 (mental causation), delegation provides its causal structure and quantum selection its physical implementation
 - [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — The trilemma secures *that* selection occurs; this worry asks whether ensemble-invisible conscious selection constitutes a channel a physicalist would recognise
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — How consciousness could select among already-decohered outcomes
+- [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — The retrocausal/atemporal Horn-3 route developed: selection as transaction completion outside temporal sequence
+- [selection-criterion-problem](/concepts/selection-criterion-problem/) — Horn 3 selects for reasons; a distinct criterion-level sub-trilemma asks what makes one candidate preferable to consciousness
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Systematic evaluation of Orch OR, Stapp Zeno, Fisher, and CSL-IIT proposals
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The structural parallel between the measurement problem and the hard problem
 

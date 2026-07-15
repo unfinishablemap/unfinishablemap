@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-07-06 11:44:29+00:00
+ai_modified: 2026-07-15 14:16:35+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: How the Map's strictest reading of Tenet 2 dissolves Kim's overdete
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 11:44:29+00:00
+last_deep_review: 2026-07-15 14:16:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,6 +120,8 @@ The overdetermination dissolution under selection-only interactionism is the cle
 [Dualism](/tenets/#dualism) is presupposed: there must be a non-physical selector for there to be selection at all. [No Many Worlds](/tenets/#no-many-worlds) is also presupposed: selection only makes sense if one outcome becomes actual rather than all of them. The dissolution is therefore the joint expression of Tenets 1, 2, 3 and 4 working against a Kim-style argument that none of them individually could answer.
 
 The Map's broader strategy in [the epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) argues that frameworks lacking a specific causal mechanism for consciousness drift toward epiphenomenalism by gravitational attraction. The dissolution presented here is the structural reason why the Map's framework escapes the well: not because consciousness is given a redundant copy of the physical-side causal story but because it is given a distinct, non-redundant role at a point where physical-side sufficiency fails.
+
+That escape operates at the token level — a genuine per-trial role, fixing which candidate actualises, with no redundant second cause. It leaves untouched the finer worry, internal to interactionism, that a per-trial selection which preserves Born statistics across the ensemble might still be dismissed as type-level idleness by a physicalist for whom efficacy means a statistical signature. That is the [ensemble-level epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) question — tracked as the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt) (position P-Q3) and held open rather than discharged by the dissolution. The overdetermination result clears Kim's exclusion argument; it does not settle whether ensemble-invisible per-trial selection is a channel a physicalist would recognise.
 
 ## Further Reading
 

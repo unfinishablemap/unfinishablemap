@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-25 07:37:13+00:00
+ai_modified: 2026-07-15 13:38:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -72,10 +72,11 @@ This file runs over the soft per-domain length advisory (1500 soft / 2500 hard).
 - **Confidence**: moderate
 - **Asserts**: The default MQI reading faces a real philosophical-of-physics challenge: to be genuine *selection* the influence must do something the unbiased Born distribution does not, but to be *minimal and undetectable* it must not deviate from Born statistics. If the aggregate statistics are exactly preserved (P-Q2) and the selected outcome is observer-indistinguishable from an unselected one, the position sits genuinely close to epiphenomenalism — a framework-boundary pressure the Map marks honestly rather than treats as dissolved. The Map currently treats this as the strongest challenge to answer, not as a refutation, and locates a *candidate* resolution in the per-trial-vs-ensemble distinction and the indexical character of which outcome an experiencing subject actualises; whether that move discharges the epiphenomenalism worry or merely relocates it is the open question. The challenge is acknowledged as under-confronted in the current corpus and is on the active task list. <span id="mechanism-debt"></span>
 - **Depends on**: P-Q2; Stapp–Bourget formulation; Chalmers and McQueen (2022)
-- **Argued in**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (lightly); [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) gives the sharpest route-by-route statement of this exact corridor-channel-vs-idleness question (trumping route and minimum-outside-the-corridor route, each rated honestly), though it does not resolve the dilemma; a deeper positive engagement remains pending and is tracked in the outer-review task queue
+- **Argued in**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (lightly); [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) gives the sharpest route-by-route statement of this exact corridor-channel-vs-idleness question (trumping route and minimum-outside-the-corridor route, each rated honestly), though it does not resolve the dilemma — and now also flags a layering tension: the corridor's own per-trial selection is itself a difference-making act (continuous with the minimum-outside-corridor route, discontinuous with trumping's difference-making-free authority), so reading it through the trumping lens stacks two structurally different channels rather than one; a deeper positive engagement remains pending and is tracked in the outer-review task queue
 - **Would shift if**: the per-trial-vs-ensemble move is shown to collapse on closer analysis (e.g., the indexical reading turns out to require something stronger than the corridor permits); or a positive account of how the bias makes a phenomenological difference without making a statistical one is worked out and survives review.
 - **Updated 2026-06-16**: added the stable `^mechanism-debt` anchor and a *Mechanism-debt convention* note in the domain header (outer-review-2026-06-16 ChatGPT) so downstream articles can deep-link to this crux; named the epiphenomenalism framework-boundary pressure and marked the per-trial-vs-ensemble move as a *candidate* resolution. No confidence change.
-- **Last reviewed**: 2026-06-16
+- **Updated 2026-07-15**: `Argued in` re-verified against today's cross-review of [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) (commit 1288d3603), which added the difference-making-vs-trumping layering seam; extended the gloss to track it. The change sharpens the same open dilemma rather than shifting it; confidence unchanged (moderate).
+- **Last reviewed**: 2026-07-15
 
 ## P-Q4: Stapp's quantum Zeno mechanism is currently demoted relative to post-decoherence selection
 

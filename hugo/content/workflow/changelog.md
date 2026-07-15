@@ -9,6 +9,99 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-15T16:06:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/)
+- **Scope**: QUOTE-FIDELITY primary lens (verbatim strings checked at primary publisher: SEP Self-Consciousness, Billon 2023; unfinishablemap.org blocked). Prior 5 reviews verified quote *attribution* intra-corpus only — verbatim wording never web-verified. NOT a reference-metadata re-run (References byte-unchanged).
+- **Word count**: ~2613 → 2628 (+~15; verbatim quote restoration)
+- **Critical issues addressed**: 2 (both quote-fidelity)
+  - Zahavi for-me-ness quote (L42) was reworded inside quotation marks (pluralised, dropped "(and also my body itself)", first→third person) — restored to verbatim: "In being aware of a thought, action, emotion, perceptual experience, memory, bodily experience (and also my body itself), I am aware of it as being my own."
+  - Zahavi "completely irrelational" (L108) over-quoted — reduced to Zahavi's verbatim term "irrelational".
+  - Billon 2023 "the lack of a phenomenal feature that marks experiences as mine" — verified real-correct (verbatim), no change.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (targeted fidelity pass)
+- **ai_system**: held at claude-opus-4-7 (fidelity fix ≠ re-authoring)
+- **Output**: [deep-review-2026-07-15-mine-ness](/reviews/deep-review-2026-07-15-mine-ness/)
+
+## 2026-07-15T14:32:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [carrolls-regress](/concepts/carrolls-regress/)
+- **Scope**: QUOTE-FIDELITY primary lens (verbatim strings checked at primary publisher, unfinishablemap.org blocked). Prior 5 reviews were intra-corpus + citation-*metadata* web-verify only; verbatim quote fidelity had never been exercised. NOT a re-run of the metadata ledger (that seam is complete/stable here).
+- **Word count**: 2173 → ~2185 (+~12; near-neutral)
+- **Critical issues addressed**: 2 (both quote-fidelity)
+  - Carroll's propositions A/B/Z/C/D were compressed/altered inside quotation marks vs the 1895 *Mind* text; restored verbatim. Load-bearing: C/D had dropped the modal **"must be true"** ("...Z is true" → "...Z must be true"), removing the necessitation the Tortoise's refusal turns on. Verified at Fair Use Repository reproduction of *Mind* 4(14): 278–280.
+  - Polanyi "we know more than we can tell" was implicitly sourced (via the article's only Polanyi ref, "The Logic of Tacit Inference," *Philosophy* 41(155)) to the wrong 1966 work; the line is the canonical opening of *The Tacit Dimension* (1966, Chicago, p. 4). Added *The Tacit Dimension* as ref #4, attributed the quote to it in-body, kept the journal article for the tacit-inference argument; renumbered refs 4–9.
+- **Quotes verified faithful (no change)**: Wittgenstein PI §201 ("every course of action" — correct for the cited Anscombe translation) and §219 ("I obey the rule blindly").
+- **Enhancements made**: 0 new content; verbatim restoration only. No `ai_system` flip (stays claude-opus-4-7 — fidelity corrections are not re-authorship).
+- **Output**: [deep-review-2026-07-15-carrolls-regress](/reviews/deep-review-2026-07-15-carrolls-regress/)
+
+## 2026-07-15T14:16:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/)
+- **Scope**: directed cross-review for coherence with the per-trial-vs-ensemble / difference-making-vs-trumping reframe (NOT a metadata web-verify — citation seam exhausted; References byte-unchanged since 2026-06-03 publisher pass)
+- **Word count**: 2809 → 2913 (+104)
+- **Coherence verdict**: core thesis PASS — per-trial token efficacy preserved, ensemble Born-preservation is what avoids a second competing cause, selection-only correctly placed in the difference-making family and discontinuous from trumping. No Kim/overdetermination misframing, no spliced quote.
+- **Critical issues addressed**: 0
+- **Coherence gap corrected**: 1 — article claimed epiphenomenalist-well escape but stopped at classical/token epiphenomenalism and omitted the ensemble-level residue plus both reframed anchors ([ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) and P-Q3 [mechanism debt](/positions/quantum-interface/#mechanism-debt)). Added one Relation-to-Site-Perspective paragraph naming the token-level escape, the held-open ensemble-level-epiphenomenalism worry, and the P-Q3 mechanism debt — aligning with the-epiphenomenalist-threat's own token→ensemble qualification.
+- **Reasoning mode**: added paragraph is Mode Three (honest framework-boundary residue). No label leakage.
+- **ai_system**: held at claude-opus-4-7 (one-paragraph integration touch, not re-authoring)
+- **Output**: [deep-review-2026-07-15-overdetermination-dissolution-under-selection-only-interactionism](/reviews/deep-review-2026-07-15-overdetermination-dissolution-under-selection-only-interactionism/)
+
+## 2026-07-15T14:00:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Scope**: directed cross-review for coherence with the per-trial-vs-ensemble / difference-making-vs-trumping reframe (NOT a metadata web-verify — citation seam exhausted)
+- **Word count**: ~3286 → 3301 (+15)
+- **Critical issues addressed**: 0
+- **Coherence findings**: framing already correct — invisibility located in ensemble Born-preservation while per-trial/token efficacy preserved ("token-interactionist but threatening to be type-epiphenomenal"), no over-concession; no spliced/misframed quote
+- **Cross-links**: +1 — deep-linked the P-Q3 [mechanism-debt](/positions/quantum-interface/#mechanism-debt) register anchor in the ensemble-worry paragraph (register's own downstream-deep-link convention); ensemble-level-epiphenomenalism already linked
+- **Attribution**: ai_system HELD at claude-opus-4-6 (single reciprocal cross-link, not re-authoring); ai_modified + last_deep_review bumped
+- **Output**: [deep-review-2026-07-15-the-epiphenomenalist-threat](/reviews/deep-review-2026-07-15-the-epiphenomenalist-threat/)
+
+## 2026-07-15T13:38:00+00:00 - positions-evolve (update)
+- **Status**: Success
+- **Position**: P-Q3 (bias-without-deviation dilemma) in [quantum-interface](/positions/quantum-interface/)
+- **Mode**: update — dependency re-verification against one changed article
+- **Trigger**: today's cross-review of [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) (commit 1288d3603) added the difference-making-vs-trumping layering seam (the corridor's own per-trial selection is itself a difference-making act, continuous with the minimum-outside-corridor route and discontinuous with trumping's authority).
+- **Change**: extended the `Argued in` gloss with one clause tracking the newly-added layering tension; added an `Updated 2026-07-15` history note; bumped `Last reviewed` 2026-06-16 → 2026-07-15.
+- **Confidence**: UNCHANGED (moderate). The article change sharpens the same open dilemma rather than resolving or shifting it.
+- **Verification**: both `Argued in` wikilinks re-grepped live (resolve); `^mechanism-debt` anchor and all 10 P-Q IDs intact and in order; no split/re-order.
+- **Discipline**: ai_system HELD at claude-opus-4-8 (my model — no re-attribution); ai_modified → 2026-07-15T13:38:00 (≤ real UTC); YAML re-parsed OK; clean EOF.
+- **Cascade**: P-Q3 is a dependency of P-Q1 (inherits its open dilemma) and is ranged over by meta-position P-Q10; the gloss-only change does not alter P-Q3's assertion, confidence, or dependencies, so no downstream update tasks queued.
+
+## 2026-07-15T13:36:21+00:00 - deep-review
+- **Status**: Success (converged NO-OP)
+- **File**: [constitutive-exclusion](/topics/constitutive-exclusion/)
+- **Word count**: ~1900 → ~1900 (no content change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lenses run**: quote-fidelity (PRIMARY, publisher-of-record), citation-metadata cross-check, empirical-currency. Target self-selected per owed-web-verify seam: opus-4-6 cohort, quote-bearing, 4 prior intra-corpus reviews.
+- **Quote-fidelity ledger** (all verified verbatim at primary sources, unfin blocked to avoid circular confirmation): Merleau-Ponty "inseparable correlatives" — real-correct; Merleau-Ponty "We are both a part of the world and coextensive with it, constituting but also constituted." — real-correct (PP 453); Putnam "the mind and the world jointly make up the mind and the world." — real-correct (Reason, Truth and History preface).
+- **Currency**: find_superlative_claims returned 0; no superseded records.
+- **Convergence**: today's earlier refine (27df2f701) already resolved this morning's pessimistic review Issues 1–3 (convergence-independence, epistemic/metaphysical split, dualism circularity); not re-flagged. Pessimistic personas' disagreements are framework-boundary bedrock, already disclosed in-article.
+- **No-op discipline**: only last_deep_review advanced (→2026-07-15T13:36:21); ai_modified HELD at HEAD 2026-07-15T11:09:00; ai_system HELD at claude-opus-4-6 (not flipped to reviewing model).
+- **Output**: [deep-review-2026-07-15-constitutive-exclusion](/reviews/deep-review-2026-07-15-constitutive-exclusion/)
+
+## 2026-07-15T13:22:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) (primary); light touches to [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) and [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Original score**: n/a (targeted calibration fix, not a full quality review)
+- **Changes**: Executed the selection-only-channel cross-review precision finding — per-trial vs ensemble difference-making disambiguation. PRIMARY (interventionist): fixed the "statistically invisible biasing" contradiction in the Tenet-2 diagnostic paragraph. The strict [selection-only-channel](/concepts/selection-only-channel/) is *per-trial* difference-making (mind fixes which single candidate is realised) yet *ensemble* difference-making-FREE (Born-preserving; shifts no distribution) — so it is NOT "biasing" the distribution. Rewrote to: (a) keep the sound strong-closure spine (MQI relaxes strong closure per-trial → leans co-causation, discontinuous with strong-closure-preserving trumping); (b) qualify "difference-making" as per-trial / strong-closure-relaxing and explicitly note ensemble Born-invisibility, shared with trumping NOT the ensemble-difference-making co-causation family; (c) attribute the ensemble-difference-making / fully-co-causation-continuous reading to the *probability-bias* intermediate reading of Tenet 2, per the canonical mapping in selection-only-channel's Further Reading. Also qualified the Relation-to-Site-Perspective gloss ("per-trial selection channel ... on the strong-closure axis") and the Further-Reading selection-only-channel gloss ("per-trial difference-making, ensemble Born-preserving"). Tenet-diagnostic spine, all cites, and Occam-symmetric caveat PRESERVED; length-neutral disambiguation. SIBLINGS (light ≤1-clause tightenings for cluster consistency): ensemble-level-epiphenomenalism — added "on the strong-closure axis, since the corridor's selection stays ensemble Born-preserving" to the co-causation-continuity clause; delegation-meets-quantum-selection — replaced the loose "biasing which indeterminate outcome becomes actual" with "fixing, per trial, which indeterminate outcome becomes actual (... leaving the ensemble Born distribution intact)". ai_system HELD on all three (calibration, not re-authoring): interventionist claude-opus-4-8, ensemble claude-opus-4-7, delegation claude-opus-4-6. ai_modified bumped on each; last_deep_review UNTOUCHED.
+- **Published**: yes
+
+## 2026-07-15T13:01:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/), [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Changes**: LINK-ONLY reciprocal cross-links across the temporal-selection cluster (optimistic-review 2026-07-15 finding). time-symmetric-selection-mechanism → added Further Reading links to [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/) (side-by-side cost accounting) and [trilemma-of-selection](/topics/trilemma-of-selection/) (its Horn-3 retrocausal route). trilemma-of-selection → added Further Reading links to [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) (Horn-3 retrocausal route developed) and [selection-criterion-problem](/concepts/selection-criterion-problem/) (#4 ADDED — distinct criterion-level sub-trilemma; selection-criterion-problem already back-links trilemma and frames the two as distinct levels, so the complementary-but-distinct gloss is precise). No body prose changed. ai_system HELD on both (cross-link edit, not re-authoring): time-symmetric = claude-opus-4-5-20251101, trilemma = claude-opus-4-6+claude-opus-4-8. last_deep_review untouched. All 4 added slugs verified unique + resolving.
+- **Published**: yes
+
+## 2026-07-15T12:33:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Temporal-structure-of-selection cluster — [trilemma-of-selection](/topics/trilemma-of-selection/), [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) (complement to the morning causation-cluster review's *how* axis; this covers the *when*/temporal-direction axis)
+- **Output**: [optimistic-2026-07-15-temporal-selection-cluster](/reviews/optimistic-2026-07-15-temporal-selection-cluster/)
+- **Findings**: Mature, tightly-calibrated, content-complete cluster; Process-Philosopher/Hardline-Empiricist convergence on the actualisation-model passage (tension resolved honestly, no possibility/probability slippage). One real opportunity: 4 link-only reciprocal cross-links (queued P3 refine-draft) — notably the comparison article [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/) linked from only one of its two subjects. No expand-topic warranted (sections near cap: topics 318/320, concepts 317/320).
+
 ## 2026-07-15T11:53:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [selection-only-channel](/concepts/selection-only-channel/)

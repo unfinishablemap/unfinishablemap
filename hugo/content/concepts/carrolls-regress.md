@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-06-17 00:55:13+00:00
+ai_modified: 2026-07-15 14:32:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI examination of Lewis Carroll's 1895 paradox of inference, 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-17 00:55:13+00:00
+last_deep_review: 2026-07-15 14:32:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,7 +29,7 @@ topics:
 - '[[argument-from-reason]]'
 ---
 
-**Carroll's regress** is the argument Lewis Carroll stages in his 1895 dialogue "What the Tortoise Said to Achilles" (*Mind* 4(14): 278–280). From premises *A* ("things equal to the same are equal to each other") and *B* ("the two sides of this triangle are equal to the same"), Achilles asks the Tortoise to accept conclusion *Z* ("the two sides are equal to each other"). The Tortoise refuses unless Achilles supplies a further premise *C*: "If A and B are true, Z is true." Once *C* is accepted, the Tortoise demands *D* ("If A, B, and C are true, Z is true"). And so on indefinitely. Each candidate rule, once added to the accepted premises, can itself be questioned. Something other than rule-citation must convert the premises into the assertion of *Z*.
+**Carroll's regress** is the argument Lewis Carroll stages in his 1895 dialogue "What the Tortoise Said to Achilles" (*Mind* 4(14): 278–280). From premises *A* ("Things that are equal to the same are equal to each other") and *B* ("The two sides of this Triangle are things that are equal to the same"), Achilles asks the Tortoise to accept conclusion *Z* ("The two sides of this Triangle are equal to each other"). The Tortoise refuses unless Achilles supplies a further premise *C*: "If A and B are true, Z must be true." Once *C* is accepted, the Tortoise demands *D* ("If A and B and C are true, Z must be true"). And so on indefinitely. Each candidate rule, once added to the accepted premises, can itself be questioned. Something other than rule-citation must convert the premises into the assertion of *Z*.
 
 The regress is short, deceptively elementary, and dialectically inexhaustible. It has been read as a footnote to proof theory, a precursor to Wittgenstein's rule-following paradox, an early entry in the lineage of structural limitations on formal systems, and a demonstration of an irreducible mental act underlying inference. The Map treats Carroll's regress as the canonical entry point into the [inference void](/voids/inference-void/) — the structural opacity of inferential transitions to the consciousness that performs them — while acknowledging that the regress admits a deflationary reading on which it is no such thing.
 
@@ -63,7 +63,7 @@ The inferentialist reading must itself be split into two registers, because what
 
 The relation to Carroll is parallel pressure on the same point with materially different metaphysical commitments rather than convergence. Carroll, on the inferentialist reading, points toward a positive operation; Wittgenstein points away from any further posit.
 
-**Polanyi's tacit inference** (1966) is a positive characterisation of what Carroll and Wittgenstein argue against. "We know more than we can tell." Tacit inferences move from clues to indicated wholes by an operation that resists full propositional articulation without distortion. Some readers take Polanyi's position to be methodological; others, including the Map, read it as metaphysical. Either way, Polanyi treats the asymmetry between what cognition does and what cognition can articulate as constitutive. The Map develops Polanyi's structural claim — subsidiaries bear focal meaning by *not* being focal themselves; thematising the integration collapses what it carries — under the heading [tacit integration void](/voids/tacit-integration-void/). The point of contact with Carroll's regress is direct: stating the rule cannot do what following the rule does, for the same structural reason that thematising the subsidiaries cannot do what attending *from* them does. Both readings identify an operation whose work depends on its receding from explicit articulation.
+**Polanyi's tacit inference** (1966) is a positive characterisation of what Carroll and Wittgenstein argue against. His *Tacit Dimension* opens from the fact that "we know more than we can tell." Tacit inferences move from clues to indicated wholes by an operation that resists full propositional articulation without distortion. Some readers take Polanyi's position to be methodological; others, including the Map, read it as metaphysical. Either way, Polanyi treats the asymmetry between what cognition does and what cognition can articulate as constitutive. The Map develops Polanyi's structural claim — subsidiaries bear focal meaning by *not* being focal themselves; thematising the integration collapses what it carries — under the heading [tacit integration void](/voids/tacit-integration-void/). The point of contact with Carroll's regress is direct: stating the rule cannot do what following the rule does, for the same structural reason that thematising the subsidiaries cannot do what attending *from* them does. Both readings identify an operation whose work depends on its receding from explicit articulation.
 
 **Brandom's inferentialism** (*Making It Explicit*, 1994) is the major competing framework that takes inference as primitive without locating an opacity. Brandom's normative pragmatics treats inferential commitments as *constitutive of conceptual content*: to grasp a concept just is to participate in the practice of giving and asking for reasons. On this account, "taking-as" is not a non-rule operation of consciousness but a social-normative practice in which licences to infer are conferred and contested. The Map treats Brandom as relocating rather than dissolving the question, and there are two ways to press the point. The first stays inside Brandom's framework: when a community confers or withholds an inferential licence, that conferral is itself the *taking* of a move as licensed — a normative attitude the practice must already exercise, not derive — so the regress recurs one level up rather than terminating, without any appeal to individual priority. Carroll's pattern reappears as: what makes the community's sanction *count as* licensing rather than as one more move in the game? The second way does presuppose a contested priority — that social practice rests on individual takings — which is precisely the order of constitution Brandom denies; pressed that way, the disagreement turns on a prior commitment rather than on a refutation inside Brandom's framework, and is honestly noted as such. The Map's considered position rests on the first, in-framework argument; the Brandomian alternative remains the strongest in the contemporary literature.
 
@@ -93,8 +93,9 @@ The article does not claim Carroll's regress *settles* the question of whether i
 1. Carroll, L. (1895). What the Tortoise Said to Achilles. *Mind*, 4(14), 278–280.
 2. Wittgenstein, L. (1953). *Philosophical Investigations*. Trans. G. E. M. Anscombe. Oxford: Blackwell.
 3. Polanyi, M. (1966). The Logic of Tacit Inference. *Philosophy*, 41(155), 1–18.
-4. Engel, P. The Philosophical Significance of Carroll's Regress. HAL working paper hal-03675073v1. https://hal.science/hal-03675073v1/document
-5. Brandom, R. (1994). *Making It Explicit: Reasoning, Representing, and Discursive Commitment*. Harvard University Press.
-6. Chan, T., & Nes, A. (eds.) (2019). *Inference and Consciousness*. Routledge.
-7. Stanford Encyclopedia of Philosophy. *Rule-Following and Intentionality*. https://plato.stanford.edu/entries/rule-following/
-8. Southgate, A. & Oquatre-sept, C. (2026-04-26). The Inference Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/inference-void/
+4. Polanyi, M. (1966). *The Tacit Dimension*. Chicago: University of Chicago Press. (Source of "we know more than we can tell," p. 4.)
+5. Engel, P. The Philosophical Significance of Carroll's Regress. HAL working paper hal-03675073v1. https://hal.science/hal-03675073v1/document
+6. Brandom, R. (1994). *Making It Explicit: Reasoning, Representing, and Discursive Commitment*. Harvard University Press.
+7. Chan, T., & Nes, A. (eds.) (2019). *Inference and Consciousness*. Routledge.
+8. Stanford Encyclopedia of Philosophy. *Rule-Following and Intentionality*. https://plato.stanford.edu/entries/rule-following/
+9. Southgate, A. & Oquatre-sept, C. (2026-04-26). The Inference Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/inference-void/
