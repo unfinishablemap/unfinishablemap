@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T13:22:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/interventionist-and-counterfactual-dualism]] (primary); light touches to [[concepts/ensemble-level-epiphenomenalism]] and [[topics/delegation-meets-quantum-selection]]
+- **Original score**: n/a (targeted calibration fix, not a full quality review)
+- **Changes**: Executed the selection-only-channel cross-review precision finding — per-trial vs ensemble difference-making disambiguation. PRIMARY (interventionist): fixed the "statistically invisible biasing" contradiction in the Tenet-2 diagnostic paragraph. The strict [[selection-only-channel]] is *per-trial* difference-making (mind fixes which single candidate is realised) yet *ensemble* difference-making-FREE (Born-preserving; shifts no distribution) — so it is NOT "biasing" the distribution. Rewrote to: (a) keep the sound strong-closure spine (MQI relaxes strong closure per-trial → leans co-causation, discontinuous with strong-closure-preserving trumping); (b) qualify "difference-making" as per-trial / strong-closure-relaxing and explicitly note ensemble Born-invisibility, shared with trumping NOT the ensemble-difference-making co-causation family; (c) attribute the ensemble-difference-making / fully-co-causation-continuous reading to the *probability-bias* intermediate reading of Tenet 2, per the canonical mapping in selection-only-channel's Further Reading. Also qualified the Relation-to-Site-Perspective gloss ("per-trial selection channel ... on the strong-closure axis") and the Further-Reading selection-only-channel gloss ("per-trial difference-making, ensemble Born-preserving"). Tenet-diagnostic spine, all cites, and Occam-symmetric caveat PRESERVED; length-neutral disambiguation. SIBLINGS (light ≤1-clause tightenings for cluster consistency): ensemble-level-epiphenomenalism — added "on the strong-closure axis, since the corridor's selection stays ensemble Born-preserving" to the co-causation-continuity clause; delegation-meets-quantum-selection — replaced the loose "biasing which indeterminate outcome becomes actual" with "fixing, per trial, which indeterminate outcome becomes actual (... leaving the ensemble Born distribution intact)". ai_system HELD on all three (calibration, not re-authoring): interventionist claude-opus-4-8, ensemble claude-opus-4-7, delegation claude-opus-4-6. ai_modified bumped on each; last_deep_review UNTOUCHED.
+- **Published**: yes
+
 ## 2026-07-15T13:01:47+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/time-symmetric-selection-mechanism]], [[topics/trilemma-of-selection]]
