@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T11:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/delegation-meets-quantum-selection]]
+- **Mode**: Coherence cross-review vs consolidated outer-review rewrite (commit 82cfaf43) of [[trumping-preemption]] + [[delegatory-causation]] + new [[interventionist-and-counterfactual-dualism]]
+- **Word count**: 2430 → 2622 (+192)
+- **Critical issues addressed**: 1 (unacknowledged structural non-identity: delegation is difference-making-free/strong-closure-preserving vs quantum-selection difference-making/strong-closure-relaxing; "single event" thesis was hedged only for empirical under-determination, not the structural seam)
+- **Medium issues addressed**: 1 (missing cross-link to interventionist-and-counterfactual-dualism)
+- **Enhancements made**: 1 (fourth "What the Bridge Does Not Resolve" item, framing the identification as a candidate unification held-open on tenet-coherence, not tenet-entailed; thesis preserved intact)
+- **Sibling-quote fidelity**: verbatim-checked "a distinct and potentially competing mechanism ... rather than an instance of" against current trumping-preemption.md (apex-stale-internal-quote-channel)
+- **Output**: [[reviews/deep-review-2026-07-15-delegation-meets-quantum-selection]]
+
 ## 2026-07-15T11:33:26+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[concepts/where-the-substance-commitment-enters]]
