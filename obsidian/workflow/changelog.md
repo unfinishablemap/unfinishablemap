@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T08:53:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Interventionist and counterfactual dualism — the "lawful co-causation" rival to the Map's preemption/delegation route
+- **Output**: [[research/interventionist-and-counterfactual-dualism-2026-07-15]]
+- **Sources consulted**: 8 (all publisher-verified; 2 supplied-metadata corrections — Zhong title/article-number, Vaassen 2024 = Australasian not American)
+
 ## 2026-07-15T08:12:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/is-conscious-being-a-natural-kind]]
