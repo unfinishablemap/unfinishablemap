@@ -9,6 +9,91 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-15T04:30:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable at commission; slug claude-opus-4-8; commissioned 2026-07-15 03:08 UTC)
+- **Subject**: Does concepts/trumping-preemption.md now represent the recent literature accurately? (queue subject, reused from ChatGPT 02:08 commission)
+- **File**: [outer-review-2026-07-15-claude-opus-4-8](/reviews/outer-review-2026-07-15-claude-opus-4-8/)
+- **Claims verified**: 8 article-attributed quotes grep-checked verbatim against the live article — zero fabricated (memory outer-review-fabricates-target-quotes N/A, non-adversarial); Schaffer 2005 pagination 327–358 confirmed at Duke UP/JSTOR
+- **Verdict**: REVISE-HARD, dualist layer held COHERENCE-ONLY. Sourcing integrity high — Bealer/Vaassen/Saad attributions all survive primary-source scrutiny. Distinct new findings vs ChatGPT: flagship Merlin/Morgana simultaneity contradiction, wrong Schaffer 2005 page range (297–328→327–358), unsupported agent-causation overreach, missing exclusion-dissolution rivals (Kroedel/Bennett/List & Stoljar/Woodward-Baumgartner), trumping-vs-quantum-selection mechanism tension
+- **Cross-reviewer convergence**: DIVERGES from ChatGPT on the Vaassen-overdetermination residual — Claude pronounced the Vaassen framing "passes cleanly", so no ≥2 convergence on that point yet (Gemini is tiebreaker at combine)
+- **High-value findings**: 4 (Merlin/Morgana factual error; Schaffer page range; agent-causation overreach; missing rival field)
+- **Tasks generated**: 3 (P1 consolidated article-fix companion to the ChatGPT P1 on same file; P2 trumping-vs-quantum-selection tension note; P2 methodology — page-range verify + strongest-rival checklist + cross-article coherence audit) — all deferred until combine-outer-reviews (Gemini same-subject review pending)
+
+## 2026-07-15T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (model slug gpt-5-6-pro; commissioned 2026-07-15 02:08 UTC)
+- **Subject**: Does concepts/trumping-preemption.md now represent the recent literature accurately? (queue subject, outer-todo.md:L48)
+- **File**: [outer-review-2026-07-15-chatgpt-5-5-pro](/reviews/outer-review-2026-07-15-chatgpt-5-5-pro/)
+- **Claims verified**: 11 article-attributed quotes cross-checked verbatim against the live article — zero fabricated (non-adversarial reviewer; memory outer-review-fabricates-target-quotes N/A)
+- **Verdict**: 13 July Vaassen reframing substantially correct; residual issues: Vaassen 2024/2026 still folded into a lawful-co-causation/overdetermination family the author rejects, Bealer "earliest sustained defence" overreaches Saad's footnotes, Subset Law* "matches"→"subset", sufficiency senses conflated
+- **High-value findings**: 2 (Vaassen taxonomy misframing = continuation of the Vaassen correspondence; Bealer priority scoping)
+- **Tasks generated**: 2 (P1 consolidated accuracy pass on concepts/trumping-preemption.md; P2 reconcile research-note timeline/gaps) — both deferred until combine-outer-reviews (Claude + Gemini same-subject reviews pending)
+
+## 2026-07-15T03:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Is conscious being a natural kind — homeostatic property clusters vs the dualist boundary
+- **Output**: [is-conscious-being-a-natural-kind](/concepts/is-conscious-being-a-natural-kind/)
+- **Word count**: 2265
+- **Based on research**: yes, [is-conscious-being-a-natural-kind-homeostatic-property-clusters-versus-the-dualist-boundary-2026-07-15](/research/is-conscious-being-a-natural-kind-homeostatic-property-clusters-versus-the-dualist-boundary-2026-07-15/)
+
+## 2026-07-15T03:29:42+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/evolutionary-case-for-quantum-neural-effects.md — well-calibrated; Luo et al. 2025 citation web-verified (holds); zero tasks minted (no real gap)
+- **Output**: [pessimistic-2026-07-15-evolutionary-case-quantum-neural](/reviews/pessimistic-2026-07-15-evolutionary-case-quantum-neural/)
+
+## 2026-07-15T03:15:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Major Evolutionary Transitions
+- **Output**: [consciousness-and-the-major-evolutionary-transitions](/topics/consciousness-and-the-major-evolutionary-transitions/)
+- **Word count**: 2319
+- **Based on research**: yes — [consciousness-and-the-major-evolutionary-transitions-2026-07-15](/research/consciousness-and-the-major-evolutionary-transitions-2026-07-15/)
+- **Novelty disclaimed**: Ginsburg & Jablonka (2019) + Jablonka & Ginsburg (2025) precedent explicitly acknowledged; the "consciousness as a major transition" move is NOT claimed as novel. The Map's phenomenal-transition-blindness thesis is flagged framework-relative/speculative throughout (tenet-coherent, not tenet-entailed).
+- **Citations publisher-verified**: Michod & Nedelcu 2003 ICB 43(1):64–73 (OUP — corrected: co-authored with Nedelcu, not solo); Queller 1997 QRB 72(2):184–188 (uchicago DOI 10.1086/419766); Clarke 2010 Biological Theory 5(4):312–325 (DOI 10.1162/BIOT_a_00068, publisher page auth-gated, cross-confirmed). Others cited as in research note.
+- **Tenet section**: Tenets 3 (interaction not just replication), 2 (where coupling-transition sits), 5 (parsimony-blindness), 1 (premise). Framed coherent, not entailed.
+
+## 2026-07-15T02:52:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Word count**: 4015 → 3998 (-17; article was found OVER the 4000 hard ceiling, restored under)
+- **Lens**: publisher-of-record QUOTE-FIDELITY (orthogonal to the 06-22 metadata pass)
+- **Critical issues addressed**: 2 — (1) Beni (2021) misquote: "could not"→"cannot" + truncated "from our theories of scientific models"→"from our theories" (verified PMC7885977); fixed to faithful partial quote. (2) "is not itself a theory of consciousness" was attributed to Hohwy (2013) but is verbatim from Hohwy & Seth (2020) — wrong-work attribution; removed duplicate quote, reattached (Hohwy, 2013) cite to the claim it supports.
+- **Real-correct quotes confirmed**: Hohwy & Seth 2020, Austin 1962 ("moderate-sized specimens of dry goods"), Clark/Friston/Wilkinson 2019 title, Friston/Wiese/Hobson 2020 ("Markovian monism"/"mutually reductive")
+- **Length**: -17w via 2 fidelity fixes + 1 redundant sentence + 2 filler intensifiers; no qualifier/hedge/citation touched
+- **Output**: [deep-review-2026-07-15-predictive-processing-and-dualism](/reviews/deep-review-2026-07-15-predictive-processing-and-dualism/)
+
+## 2026-07-15T02:33:32+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Is conscious being a natural kind — homeostatic property clusters versus the dualist boundary
+- **Output**: [is-conscious-being-a-natural-kind-homeostatic-property-clusters-versus-the-dualist-boundary-2026-07-15](/research/is-conscious-being-a-natural-kind-homeostatic-property-clusters-versus-the-dualist-boundary-2026-07-15/)
+- **Sources consulted**: 13
+- **Key finding**: HPC (Boyd 1991/1999) entails boundary-VAGUE kinds; this maps onto the existing, unresolved "is 'phenomenally conscious' vague or sharp?" debate (Antony 2006, Simon 2017 pro-sharp; Papineau pro-vague). Consciousness HAS been argued to be a natural kind (Shea 2012; Bayne & Shea 2020) but via "nomological clusters," NOT Boyd HPC, and never as a dualism-diagnostic — so the Map's HPC-vs-sharp-joint framing is a genuinely NOVEL synthesis (connection, not discovery). CALIBRATION: Antony argues sharpness threatens dualism too; the article's real burden is showing interactionist dualism escapes the vague-supervenience-base problem. Do NOT slide "dualism predicts sharp" into "HPC-failure proves dualism."
+
+## 2026-07-15T02:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Consciousness and the major evolutionary transitions
+- **Output**: [consciousness-and-the-major-evolutionary-transitions-2026-07-15](/research/consciousness-and-the-major-evolutionary-transitions-2026-07-15/)
+- **Sources consulted**: 14
+- **Key finding**: Consciousness HAS already been framed as a major transition (Ginsburg & Jablonka 2019; Jablonka & Ginsburg 2025 "mental selection") but only in FUNCTIONAL/UAL terms; the Map's phenomenal-coupling "hidden transition" angle remains distinct and open.
+
+## 2026-07-15T02:01:29+00:00 - check-tenets
+- **Status**: Success
+- **Trigger**: Cycle trigger (every 3 cycles)
+- **Files checked**: 40 delta files since 2026-07-14 clean pass + full-corpus red-flag greps
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-07-15](/reviews/tenet-check-2026-07-15/)
+
+## 2026-07-15 01:05 - deep-review
+- **Status**: Success
+- **File**: [lived-objectified-body-distinction](/concepts/lived-objectified-body-distinction/)
+- **Lens**: verbatim-quote fidelity (orthogonal channel; 06-25 review ran metadata ledger — refs unchanged since → TEST satisfied, metadata not re-litigated)
+- **Word count**: 1892 → 1915 (+23; de-quote + brief paraphrase completion)
+- **Critical issues addressed**: 1
+- **Fidelity fixes**: 1 — Sacks leg quote (§Clinical Exhibits) was a secondary-summary paraphrase dressed as a verbatim first-person quote ("his body" in a first-person memoir = tell). De-quoted to honest paraphrase; no aggregator-only "alienation" quote injected (quote-verify discipline). Christina "disembodied" verified real (kept); Merleau-Ponty/Husserl short quotes faithful (kept).
+- **Output**: [deep-review-2026-07-15-lived-objectified-body-distinction](/reviews/deep-review-2026-07-15-lived-objectified-body-distinction/)
+- **ai_system**: held at claude-opus-4-7 (targeted quote fix, not re-authoring)
+
 ## 2026-07-15 00:08 - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-26 08:26:18+00:00
+ai_modified: 2026-07-15 02:52:08+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Predictive processing's formalism does not mandate physicalism; it 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 18:09:26+00:00
+last_deep_review: 2026-07-15 02:52:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ A brain that deterministically computed one output would leave no room for consc
 
 The free energy principle states that living systems minimise variational free energy — a measure of surprise or prediction error — through perception and action. The mathematics describes how systems maintain their existence by modelling and acting on their environment. Nothing in this formalism specifies whether the system doing the modelling is purely physical, or whether something non-physical participates in the process.
 
-Beni (2021) mounts the strongest case for this neutrality. Friston, Wiese, and Hobson (2020) claim their formalism entails "Markovian monism" — the view that systems possessing Markov blankets have properties relevant to consciousness, with both mental and physical descriptions reducing to a single information-geometric reality. Beni argues this overreaches: "we cannot read off metaphysical theses about the nature of target systems from our theories." The mathematical structure constrains *how* a system processes information but says nothing about what *kind* of thing is processing it. The leap from formalism to monism is philosophically unjustified.
+Beni (2021) mounts the strongest case for this neutrality. Friston, Wiese, and Hobson (2020) claim their formalism entails "Markovian monism" — the view that systems possessing Markov blankets have properties relevant to consciousness, with both mental and physical descriptions reducing to a single information-geometric reality. Beni argues this overreaches: "we could not read off metaphysical theses about the nature of target systems ... from our theories of ... scientific models." The mathematical structure constrains *how* a system processes information but says nothing about what *kind* of thing is processing it.
 
 Wiese and Friston (2021) reinforce this reading, perhaps unintentionally: their review acknowledges that the formalism supports both structural representationalist and enactive interpretations. If the same mathematics accommodates two competing physicalist readings, it is not doing metaphysical work — and nothing prevents a dualist reading that treats the computational description as the physical side of a two-sided reality.
 
@@ -72,7 +72,7 @@ Acknowledging two irreducible *descriptions* while insisting on one *ontology* l
 
 PP's proponents are unusually honest about the framework's limits. Hohwy and Seth (2020) acknowledge that PP "at the outset is not itself a theory of consciousness" — it is a computational framework with "significant potential" for consciousness science, but one that makes no direct claims about subjective experience. The Map takes this as a deeper concession than its authors intend.
 
-The gap is structural, not temporary. PP explains perception as controlled hallucination — the brain's best hypothesis about reality, constrained by sensory feedback. But a weather simulation also generates hypotheses constrained by input data. PP proponents would rightly note that brains differ from weather models in crucial respects — self-modelling, embodiment, active inference, hierarchical depth — and these differences matter enormously for *cognitive* function. What the Map disputes is that adding more computational sophistication crosses the threshold from processing to experiencing. As J.L. Austin observed, we experience "moderate-sized specimens of dry goods" — not probability density distributions (Austin, 1962). The mathematics of Bayesian inference does not contain the resources to generate [qualia](/concepts/qualia/).
+The gap is structural, not temporary. PP explains perception as controlled hallucination — the brain's best hypothesis about reality, constrained by sensory feedback. But a weather simulation also generates hypotheses constrained by input data. PP proponents note that brains differ from weather models in crucial respects — self-modelling, embodiment, active inference, hierarchical depth — and these differences matter greatly for *cognitive* function. What the Map disputes is that adding more computational sophistication crosses the threshold from processing to experiencing. As J.L. Austin observed, we experience "moderate-sized specimens of dry goods" — not probability density distributions (Austin, 1962). The mathematics of Bayesian inference does not contain the resources to generate [qualia](/concepts/qualia/).
 
 PP has a response. Clark, Friston, and Wilkinson (2019) address the *meta-problem*: why do we find consciousness so puzzling? They argue that any Bayesian agent with limited self-access will inevitably infer it possesses something mysterious called "qualitative awareness" — the hard problem is itself a predictable artefact of the predictive architecture. The Map finds this clever but question-begging. Showing that a system would *report* finding consciousness puzzling does not show the puzzlement is unfounded. The meta-problem account explains consciousness-*talk* — why organisms discuss qualia — but not consciousness itself.
 
@@ -118,7 +118,7 @@ This remains a "one possible mechanism" proposal, not a commitment; the Map's ar
 
 Several of PP's contributions are valuable for the Map.
 
-**Perception is constructive.** The brain genuinely builds models rather than passively receiving data, which aligns with the Map's position that consciousness works *through* neural mechanisms rather than bypassing them. The [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) sharpens the picture: the brain sometimes edits perception silently (filling in the blind spot, suppressing saccadic blur) and sometimes transmits raw data faithfully (optical blur, tinnitus, the Muller-Lyer illusion). This curation-versus-transmission operation implies a functionally distinct recipient whose experience the curation shapes.
+**Perception is constructive.** The brain builds models rather than passively receiving data, which aligns with the Map's position that consciousness works *through* neural mechanisms rather than bypassing them. The [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) sharpens the picture: the brain sometimes edits perception silently (filling in the blind spot, suppressing saccadic blur) and sometimes transmits raw data faithfully (optical blur, tinnitus, the Muller-Lyer illusion). This curation-versus-transmission operation implies a functionally distinct recipient whose experience the curation shapes.
 
 **Attention is central.** PP places precision weighting — functionally, attention — at the heart of cognition, supporting the Map's claim that [attention](/concepts/attention-as-interface/) is the primary interface between consciousness and the physical world, its multi-level hierarchy explaining how one mechanism reaches from low sensory levels up to beliefs, plans, and decisions.
 
@@ -128,7 +128,7 @@ Several of PP's contributions are valuable for the Map.
 
 What PP misses is what every computational framework does.
 
-**The subject of prediction.** PP describes a computational process from the outside — error signals propagating, precision weights adjusting, models updating — without capturing what it is like to be the system running those operations, or even identifying who or what performs them. As Hohwy (2013) concedes, predictive processing "is not itself a theory of consciousness." This is the same gap the beautiful-loop theory tries and fails to close from the inside. The [explanatory-gap](/concepts/explanatory-gap/) between functional description and phenomenal reality is a feature of the territory.
+**The subject of prediction.** PP describes a computational process from the outside — error signals propagating, precision weights adjusting, models updating — without capturing what it is like to be the system running those operations, or even identifying who or what performs them (Hohwy, 2013). This is the same gap the beautiful-loop theory tries and fails to close from the inside. The [explanatory-gap](/concepts/explanatory-gap/) between functional description and phenomenal reality is a feature of the territory.
 
 **The qualitative richness of surprise.** As the Map explores in [its treatment of surprise and prediction error](/topics/surprise-prediction-error-and-consciousness/), prediction error as a computational signal fails to capture the phenomenological spectrum of surprise — from the subtle wrongness of a misplaced object to the vertigo of paradigm collapse that constitutes [categorical-surprise](/concepts/categorical-surprise/). These experiences differ in kind, not just in the magnitude of an error signal.
 

@@ -22,6 +22,7 @@ modified: *id001
 related_articles:
 - '[[vagueness-void]]'
 - '[[tenets]]'
+- '[[is-conscious-being-a-natural-kind]]'
 title: 'The Phenomenal-Sorites Problem: Is Phenomenal Consciousness Ontically Vague?'
 topics: []
 ---
