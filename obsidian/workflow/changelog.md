@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T05:19:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-major-evolutionary-transitions]]
+- **Word count**: 2319 → 2335 (+16, mostly the added Pradeu 2012 reference line; 78% of 3000 topics target — no condensation needed)
+- **Critical issues addressed**: 1 — orphan inline cite "Pradeu 2012" had no References entry; web-verified Pradeu 2012 (*The Limits of the Self*, OUP) and added it as ref #10 (renumbered 11–16). Fixed, not deleted.
+- **Medium issues addressed**: 1 — removed banned "This is not X; it is Y" style construct (rephrased to direct positive claim).
+- **Citations**: full publisher-of-record web-verify pass — all 14 external cites real-correct (Maynard Smith & Szathmáry 1995/1999, Szathmáry & MS 1995 Nature, Szathmáry 2015 PNAS, Queller 1997 QRB, Michod & Nedelcu 2003, Michod 2007 PNAS, Godfrey-Smith 2009, Clarke 2010, Pradeu 2012+2016, Ginsburg & Jablonka 2019, Birch et al. 2020, Jablonka & Ginsburg 2025 Phil Trans R Soc B). No fabrications, no currency drift, no reverse orphans. Per-cite ledger in review archive.
+- **Attribution / calibration**: clean. Engagement with Ginsburg–Jablonka: Mode Two→Three (in-framework limitation observed, boundary honestly marked, no substitution, no label leakage). No possibility/probability slippage — article is exemplary on evidential-status hedging.
+- **Enhancements made**: 0 (article well-calibrated and well-linked; no expansion needed)
+- **Output**: [[reviews/deep-review-2026-07-15-consciousness-and-the-major-evolutionary-transitions]]
+
 ## 2026-07-15T05:01:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/trumping-preemption]] + [[concepts/delegatory-causation]] (multi-file, single consolidated pass)
