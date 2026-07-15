@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T05:52:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/concession-convergence]]
+- **Word count**: 3447 → 3447 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence no-op; 8th review)
+- **Citations**: 15 external cites publisher-of-record-verified (page ranges, venue, volume/issue explicit; Milinkovic & Aru "the algorithm is the substrate" verbatim quote confirmed faithful; COGITATE correctly attributed to Consortium not Melloni). All real-correct — closes the owed-web-verify seam. No metadata/quote/framing defects.
+- **Notes**: `last_deep_review` bumped only; `ai_modified` held at 2026-07-12T15:58:00, `ai_system` held at claude-opus-4-7 (no re-authoring). Engagements: Dennett Mode Two, Frankish Mode Two — natural prose, no label leakage. Calibration intact, no slippage.
+- **Output**: [[reviews/deep-review-2026-07-15-concession-convergence]]
+
 ## 2026-07-15T05:44:25+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The mental-causation structure cluster — [[concepts/delegatory-causation]], [[concepts/trumping-preemption]], [[concepts/atemporal-causation]] (all touched 2026-07-15). Strong, calibrated cluster; all seven personas praise convergently, no calibration flag. Genuine gap found: the interventionist/counterfactual-dualist (lawful co-causation) rival family is homeless outside trumping-preemption. Added 1 P3 expand-topic (cap-gated + sequenced after the in-flight trumping refine) and 4 cross-link suggestions (canonical causal-exclusion-argument link missing from all three).

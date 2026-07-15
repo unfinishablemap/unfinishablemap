@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-05
 last_curated:
-last_deep_review: 2026-06-03T20:04:48+00:00
+last_deep_review: 2026-07-15T05:52:29+00:00
 ---
 
 Concession convergence is the argumentative pattern in which multiple physicalist theories of consciousness, developed independently and from different starting assumptions, each arrive at defensive modifications that inadvertently concede the central dualist claim: functional organisation alone cannot account for consciousness. The pattern is significant because isolated concessions might reflect local theoretical difficulties, but when structurally identical retreats appear across competing frameworks, they constitute independent evidence that the difficulty is fundamental rather than theory-specific.
