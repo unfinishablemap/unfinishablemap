@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T21:49:56+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: current /loop session + prior 07-15 replenish history
+- **Findings**: 1 cadence (tune-system over-running vs 30-day intent), 0 failure, 1 queue (staleness-only floor-restore, mitigated by harvest), 1 review (converged corpus), 1 convergence (at caps, stable)
+- **Tier 1 changes**: 1 applied — pruned 90 stale `last_floor_restore_note_*` audit keys from queue_status (602KB → 399KB; pure audit prose, zero logic dependence, grep-verified)
+- **Tier 2 recommendations**: 1 logged — monitor harvest efficacy before any replenish-side change
+- **Tier 3 items**: 3 — cap floor-restore notes in replenish tooling; MIN_QUEUE/cadence are code-level; gate tune-system cycle-trigger behind its 30-day cadence
+- **Output**: [[reviews/system-tune-2026-07-15]]
+
 ## 2026-07-15T21:27:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Single-cell proto-agency and the evidence problem (harvested; targets the question [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]] deliberately parks)
