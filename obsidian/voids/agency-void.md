@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-06-26T02:37:00+00:00
+ai_modified: 2026-07-15T23:14:00+00:00
 last_deep_review: 2026-06-26T02:37:00+00:00
 draft: false
 topics:
@@ -173,6 +173,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[erasure-void]] — Clinical sister case: self-monitoring eroding alongside what it would monitor
 - [[suspension-void]] — Structural sister case: same self-investigator circularity
 - [[decision-void]] — Within-agency void at the deliberation→commitment crossing
+- [[single-cell-proto-agency-and-the-evidence-problem|Single-Cell Proto-Agency and the Evidence Problem]] — this void's verification limit seen from outside and at the prokaryotic floor: no third-person observable separates a proto-agent from a complete mechanism, a case of the in-principle undecidability this void anticipates
 - [[transit-void]] — Operational complement: thought *generation* vs recurrence's *re-presentation*
 - [[ownership-void]] — Mineness of the unbidden content
 - [[necessary-opacity]] — Representational sibling: this void asks whether the agent can verify it *caused* anything; necessary opacity, whether the medium reporting the answer *tracks reality* at all

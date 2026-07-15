@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T23:14:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Single-cell proto-agency and the evidence problem
+- **Output**: [[topics/single-cell-proto-agency-and-the-evidence-problem]]
+- **Word count**: 2137
+- **Based on research**: yes — [[research/single-cell-proto-agency-and-the-evidence-problem-2026-07-15]]
+- **Citations web-verified at primary publisher**: EMBO Reports 2024 (Robinson/Mallatt/Peer/Sourjik/Taiz, 25(5):2162–2167, DOI 10.1038/s44319-024-00127-4) — 4 verbatim quotes confirmed; Yi/Huang/Simon/Doyle 2000 (PNAS 97(9):4649–4653) integral-feedback; Sneddon/Pontius/Emonet 2012 (PNAS 109(3):805–810) — "up to 73%" shallow-gradient figure confirmed; Keegstra et al. 2017 (eLife 6:e27455) FRET venue corrected from note's "PNAS".
+- **Integration chain**: added inbound links from bacterial-chemotaxis (parked-question anchor + Further Reading) and agency-void (Further Reading); queued P2 cross-review. Linked agency-verification-void target resolved to live coalesced agency-void.
+
 ## 2026-07-15T23:10:18+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[topics/fish-sentience-and-the-teleost-pain-debate]]
