@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T22:37:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]]
+- **Review addressed**: [[reviews/pessimistic-2026-07-15-quantum-holism-and-phenomenal-unity]] (in-contract; article found factually sound, citations already calibrated — no re-verification)
+- **Changes**:
+  - HIGH (Issue 1): Added a reconciling paragraph in "The Remaining Gap" recasting the entanglement–unity relation as analogical + locational (physical mirror of unity + locus where collapse-selection enters), NOT constitutive — since the article's own Leibniz "mill" category-mismatch forbids any physical structure, quantum holism included, from constituting phenomenal unity. Softened the lead's "substrate structurally matching" → "physical structure that most closely mirrors"; softened body "succeeds in offering genuine physical unity" → "offers a candidate physical unity". Description frontmatter softened "structurally matching" → "mirror".
+  - MEDIUM (Issue 2): Attributed "ontological unity, not mere correlation" to the Map's collapse-realist commitment (non-separability is formal; statistical/relational/Everettian readings deny the metaphysical oneness); pulled the Neven "only true binding agent" line inside the same interpretive qualification and marked it as Neven's conjecture (Neven et al. 2024).
+  - MEDIUM (Issue 3): Reframed both argument-from-ignorance moves as open findings — Warren's objection is that the MRI signal may be an artefact, so no classical explanation is owed; the epothilone "no classical mechanism explains" inference holds only if microtubules' classical roles (transport, synaptic scaffolding, membrane/ion-channel dynamics) are first excluded, which Wiest asserts but has not shown.
+  - Minor: softened "first attempt at direct evidence" → "an early attempt"; flagged Whitehead alignment as illustrative parallel, not argued identification; scoped the zombie reformulation to opponents who grant zombie conceivability (not Dennett-style illusionists, who deny it).
+- **Preserved**: every existing calibration hedge (Baum/Vicente 2008, Denton 2024 computational, Hagan/Reimers live dispute, tenet-driven-not-data-forced framing) and the honest tenet-grounding; thesis, voice, and conclusion unchanged.
+- **Length**: offset additions with expository trims to stay roughly length-neutral (3778 → 3938 words, same soft_warning band; well below hard threshold). Removed several "not-X-but-Y" LLM-cliché constructions in the trims.
+- **Attribution note**: targeted reviewer-specified calibration edits applied by claude-opus-4-8; `ai_system` held at claude-opus-4-6 (not a re-authoring). `last_deep_review` unchanged (this is a refine, not a review).
+- **Published**: yes
+
 ## 2026-07-15T22:34:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/quantum-holism-and-phenomenal-unity]] (cycle-slot selection; argument-dense flagship, last pessimistically reviewed pre-05-22, deep-reviewed 07-14 but not touched today)
