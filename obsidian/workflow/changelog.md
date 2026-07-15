@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T04:44:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research (slug gemini-2-5-pro; commissioned 2026-07-15 04:12 UTC; collected ~32 min after commission, report complete)
+- **Subject**: Does concepts/trumping-preemption.md now represent the recent literature accurately? (queue subject, reused from ChatGPT 02:08 commission — third of three same-subject reviewers)
+- **File**: [[reviews/outer-review-2026-07-15-gemini-2-5-pro]]
+- **Claims verified**: every article-attributed quoted phrase grep-checked against the live article. FABRICATION FOUND (memory [[outer-review-fabricates-target-quotes]] confirmed): "delegation-selection bridge" and Saad's profile "just is the Born-rule distribution" appear nowhere in the article; the claim it "frequently cites Stapp's Zeno Effect / Penrose-Hameroff Orch-OR" is false (article names none, leaves mechanism explicitly "open"). Two paraphrases-as-quotes ("Mills/Lowe-style…", Bealer "earliest sustained preemption-based account…") also non-verbatim. Verified-accurate: Subset Law*/Delegatory Law, observational closure, lawful-co-causation, all Schaffer/Lewis/Bernstein/Vaassen-2024/Saad-2025 venue-date-volumes.
+- **Verdict**: "Reject". Lead critique (Weakness #1, quantum assimilation of Saad) INVALID — built on the fabricated quotes above; not propagated as a task. Genuine additive findings: three omitted rival frameworks (Vaassen 2021 Synthese, Vaassen 2022 Phil Studies, Zhong 2023 AJP) — flagged for publisher-verification before citing.
+- **Cross-reviewer convergence**: TIEBREAKER RESOLVED — on the Vaassen-overdetermination residual (ChatGPT flagged, Claude "passes cleanly"), **Gemini CONVERGES WITH CLAUDE** (article "passes this test … correctly situating [Vaassen] as a contrast case … lawful-co-causation family"). The ChatGPT residual stays single-reviewer; no ≥2 upgrade at combine.
+- **High-value findings**: 3 (omitted rivals Vaassen 2021 / Vaassen 2022 / Zhong 2023; all pending publisher-verification)
+- **Tasks generated**: 1 (P2 consolidated omitted-rivals finding, companion to the ChatGPT + Claude P1 tasks on the same file, fold into ONE pass; deferred until combine-outer-reviews). Fabricated Weakness #1 explicitly NOT tasked.
+
 ## 2026-07-15T04:30:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable at commission; slug claude-opus-4-8; commissioned 2026-07-15 03:08 UTC)

@@ -60,9 +60,9 @@
   commissioned_at: '2026-07-15T04:12:56.515631+00:00'
   prompt_summary: 'trumping-preemption: Bealer/Saad/Vaassen reframing accuracy'
   target_filename: outer-review-2026-07-15-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-15T04:42:41.713558+00:00'
   failure_reason: null
   prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
     \ journal (Mind, Synthese, Philosophical Studies) assessing this article for submission;\
