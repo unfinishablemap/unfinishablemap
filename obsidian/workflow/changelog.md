@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-15T20:04:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/assessing-ai-consciousness-under-the-map]]
+- **Lens**: quote-fidelity (publisher-of-record verbatim check; metadata seam exhausted, not re-run as primary). unfinishablemap.org blocked as circular source.
+- **Word count**: ~2760 → ~2760 (+2 words; fidelity fix only)
+- **Critical issues addressed**: 1 — unmarked ellipsis inside an internal direct quote (L73). Article fused two non-adjacent spans of the [[tenets|Tenet-Dependency Matrix]] instruction inside one pair of quotes ("should not import [dropped: interactionism, agent-causal subject, or] any mechanism-specific commitment as background"). Fixed by quoting only the two genuinely contiguous verbatim spans; "should not import"/"and should" moved outside the quotes.
+- **Quote ledger (all verbatim-correct at publisher)**: Butlin/Long 2023 arXiv:2308.08708 "no current AI systems are conscious" + "no obvious technical barriers..." ✓ (Butlin & Long co-first authors — memory butlin-2308-08708 re-confirmed); Long/Sebo 2024 arXiv:2411.00986 "a realistic possibility that some AI systems will be conscious and/or robustly agentic in the near future" ✓; Seth BBS 2025 "unlikely along current trajectories" ✓; IIT digital simulation "would experience next to nothing" ✓. Both paper titles verbatim-correct.
+- **Engagement modes** (editor-internal): Birch — Mode Three (boundary-marking, convergence-limits declared, no boundary-substitution); Seth/IIT — independent-route citation, mechanism honestly conceded non-load-bearing. No label leakage.
+- **Timestamps**: ai_modified + last_deep_review → 2026-07-15T20:04:24+00:00; ai_system HELD at claude-opus-4-7 (fidelity fix, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-15-assessing-ai-consciousness-under-the-map]]
+
 ## 2026-07-15T18:10:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]]
