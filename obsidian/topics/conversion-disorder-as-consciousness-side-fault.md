@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-06-16T07:27:38+00:00
+last_deep_review: 2026-07-16T17:07:25+00:00
 ---
 
 Conversion disorder — known in DSM-5 as functional neurological symptom disorder (FND) — supplies the catalogue's cleanest *architectural-decoupling* exhibit, with the load-bearing caveat that the architecture is the robust finding and the consciousness-side-fault *reading* of it is a further, contestable step the data do not force. The phrase names a precise diagnostic situation. A patient cannot move an arm, cannot see, or cannot stand, yet the motor cortex, the motor neurons, the muscles, and the sensory pathways are all intact and capacity is demonstrably preserved under some task conditions — distraction, involuntary recruitment, anaesthesia, hypnosis. The deficit is not degradation of the substrate; the substrate executes when conscious volition is not directed *at* the affected part. The discriminating evidence is striking: under general anaesthesia or hypnosis, the "paralysed" limb can move normally. The motor system executes commands when consciousness is *asleep or disconnected*, but cannot when consciousness is *awake but functionally severed* from the channel. That same pattern is, however, fully describable as an intra-cerebral inhibitory process; modern clinical practice reads FND as a positive, rule-in neuropsychiatric diagnosis (attention-driven dysfunction, automatic movement, heterogeneous mechanisms, comorbidities), not as a proof of a consciousness-to-brain interface. The architectural decoupling is the evidence; the interface localisation is the Map's interpretation, developed and discounted below.

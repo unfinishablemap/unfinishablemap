@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T17:07:25+00:00 - deep-review
+- **Status**: Success (clean no-op convergence pass, after real older-cohort scrutiny)
+- **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
+- **Word count**: ~3104 → ~3104 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Key finding**: 4th deep review; settled-30d staleness pick (last_deep_review == ai_modified == 2026-06-16, content unchanged). Task steered scrutiny because of the older `ai_system: claude-opus-4-7`. Applied it: fresh publisher-of-record re-verification of the four FND-author cites flagged by the wrong-first-author warning — Voon et al. 2011 (*Mov Disord* 26:2396–2403, increased amygdala–SMA coupling), Edwards et al. 2012 (*Brain* 135(11):3495–3512), Marshall et al. 1997 (*Cognition* 64(1):B1–B8, left-sided, orbitofrontal/ACC) — all CONFIRMED; plus first-time web-verify of the previously-unledgered uncited Hoover's-sign figure (63% sens / 100% spec) — CONFIRMED against the Stone-group prospective cohort. Citation-framing firewall holds (physicalist FND research explicitly marked as borrowed, line 71/97; no rival-as-ally). No calibration slippage; two-tier discount clean. All 16 wikilinks resolve. Engagement modes unchanged (functionalist Mode Three, epiphenomenalist Mode Three). Bumped ONLY `last_deep_review`; held `ai_modified` (2026-06-16) and `ai_system: claude-opus-4-7` (not re-authored). Strong convergence-exclusion candidate.
+- **Output**: [[reviews/deep-review-2026-07-16-conversion-disorder-as-consciousness-side-fault]]
+
 ## 2026-07-16T17:00:56+00:00 - deep-review
 - **Status**: Success (clean no-op convergence pass)
 - **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
