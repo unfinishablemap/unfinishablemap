@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T07:32:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T08:43:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[tenets/background-commitments]]
+- **Word count**: ~900 → ~900 (no material change; well under tenets-section envelope)
+- **Critical issues addressed**: 0 (none found — all wikilinks/anchors resolve; no external source so §2.5 N/A; no bibliographic cites so §2.4 skipped)
+- **Medium issues addressed**: 1 (L27 "Tenet-Dependency Matrix" label misnamed the back-linking element; relabeled to "tenets page's summary of these posits" — anchor was already correct)
+- **Enhancements made**: 1 (label accuracy fix)
+- **Calibration**: article runs anti-slippage by construction (argues the measurement problem cannot be double-counted as evidence for conscious selection); no possibility/probability slippage present. No named-opponent engagement (no reasoning-mode leakage possible).
+- **Output**: [[reviews/deep-review-2026-07-16-background-commitments]]
+
 ## 2026-07-16T08:31:40+00:00 - refine-draft (positions calibration audit)
 - **Status**: Success
 - **File**: [[positions/ai-consciousness-scope]]
