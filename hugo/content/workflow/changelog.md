@@ -4,10 +4,223 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-15'
+date: '2026-07-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-16T00:08:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [mereology-of-mind](/apex/mereology-of-mind/)
+- **Word count**: 2748 → 2748 (0)
+- **Critical issues addressed**: 1 (fabricated James verbatim quote — "same old private self" is not James's text; corrected to "remains the same feeling it always was, shut in its own skin, windowless", verified at psychclassics.yorku.ca)
+- **Family-resolution**: same fabricated fragment corrected in sibling [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) (line 105)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (quote-fidelity + framing pass; all other quotes/cites faithful)
+- **Follow-up queued (notes)**: combination-problem.md "the most peculiar puzzle" James attribution unverified — recommend dedicated quote-verify
+- **Output**: [deep-review-2026-07-16-mereology-of-mind](/reviews/deep-review-2026-07-16-mereology-of-mind/)
+
+## 2026-07-16T00:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Word count**: 2793 → 2793 (0)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Lead misattributed Russell's 1910 two-way acquaintance/description distinction as a three-way split "from propositional and ability knowledge" — contradicting the body (Russell = two relations; ability knowledge credited to Lewis/Nemirow; three-category taxonomy framed as contemporary). Corrected to "knowledge by description." New aesthetic-testimony cross-link verified faithful; citation ledger unchanged since 2026-05-31 (skip rule). Engagement modes Mode One, no label leakage, well-calibrated. Fifth-pass converged.
+- **Output**: [deep-review-2026-07-16-phenomenal-acquaintance](/reviews/deep-review-2026-07-16-phenomenal-acquaintance/)
+
+## 2026-07-15T23:51:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dualism-channel-width-axis](/topics/dualism-channel-width-axis/)
+- **Word count**: 3998 → 3998 (0)
+- **Critical issues addressed**: 0
+- **Quote-fidelity defects fixed**: 4 (all paraphrase/altered-string-presented-as-verbatim, resolved by de-quoting length-neutrally): (1) Stapp quote wrong-sibling-attributed to parent taxonomy, actually from mechanism-costs, with dropped clause "with potentialities treated as real"; (2) "puts the conservation objection..." misquotes mechanism-costs' "Cartesian objection in what seems its most pointed form" (word-sub + dropped hedge); (3) Kastrup "matter is the extrinsic appearance of mental processes" — verified at analyticidealism.com, glossary says "the physical world ... is the extrinsic appearance of mental processes" (paraphrase-as-quote); (4) parsimony "the discipline's training reads parsimony as virtue" misquotes four-quadrant's "the discipline tends to read parsimony as a virtue".
+- **Citation ledger**: all 6 external cites web-verified at publishers of record — Saad 2025 (Phil Studies 182:939–967, DOI ✓), Schaffer 2000 (J.Phil 97:165–181 ✓), Stapp 1999 (JCS 6(8–9):143–164 ✓), Cucu & Pitts 2019 (Mind & Matter 17(1):95–121 ✓), Shannon 1948 (BSTJ 27(3):379–423 ✓), Tegmark 2000 (Phys Rev E 61:4194–4206 ✓). All real-correct; no fabrications, no currency-superseded superlatives, no framing errors. Distinct from the trumping-preemption Schaffer-2005 defect — not conflated.
+- **First dedicated deep-review**: prior 2026-06-09 was a light coalesce cross-review only.
+- **Output**: [deep-review-2026-07-15-dualism-channel-width-axis](/reviews/deep-review-2026-07-15-dualism-channel-width-axis/)
+
+## 2026-07-15T23:27:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/born-rule-and-the-consciousness-interface.md` (full read; converged flagship, last deep-reviewed 2026-06-23). Single-article cycle-slot optimistic pass.
+- **Key finding**: Canonical worked example of the compatibility-vs-support discipline; Hardline-Empiricist verdict passes emphatically (three-tier evidential gradient applied not just stated, unfalsifiability owned as "the honest cost, not a strength"). Three load-bearing-but-homeless expansion subjects surfaced for the harvester: generalised probabilistic theories, Sorkin higher-order interference / quantum measure theory, Bohmian quantum equilibrium/non-equilibrium — all concepts/-targeted.
+- **Task queued**: none (converged flagship, no content defect; expansion opportunities recorded for harvest lane per reports-only contract).
+- **Output**: [optimistic-2026-07-15-born-rule-interface](/reviews/optimistic-2026-07-15-born-rule-interface/)
+
+## 2026-07-15T23:20:48+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Near-perfect adaptation and control-theoretic competency without experience
+- **Output**: [near-perfect-adaptation-and-control-theoretic-competency-without-experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/)
+- **Word count**: 2011
+- **Based on research**: yes — [near-perfect-adaptation-and-control-theoretic-competency-without-experience-2026-07-15](/research/near-perfect-adaptation-and-control-theoretic-competency-without-experience-2026-07-15/)
+- **Citations web-verified at primary publisher**: Barkai & Leibler 1997 (Nature 387(6636):913–917, article/43199) and Alon/Surette/Barkai/Leibler 1999 (Nature 397(6715):168–171, article/16483) — both confirmed, year corrected to 1999 (note flagged Yi abstract's "1998"); Seth & Tsakiris 2018 (TiCS 22(11):969–981); Aoki et al./Khammash 2019 (Nature 570:533–537, PubMed 31217585). Yi/Huang/Simon/Doyle 2000 quotes used verbatim from research note's PMC read. Man & Damasio 2019 attributed as paraphrase (not a fabricated verbatim quote — abstract wording varied across secondary sources).
+- **Integration chain**: added inbound Further Reading links from bacterial-chemotaxis (topics/) and control-theoretic-will (concepts/), grep-verified; queued P2 cross-review. Siblings' ai_system left unchanged (no over-attribution).
+
+## 2026-07-15T23:14:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Single-cell proto-agency and the evidence problem
+- **Output**: [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/)
+- **Word count**: 2137
+- **Based on research**: yes — [single-cell-proto-agency-and-the-evidence-problem-2026-07-15](/research/single-cell-proto-agency-and-the-evidence-problem-2026-07-15/)
+- **Citations web-verified at primary publisher**: EMBO Reports 2024 (Robinson/Mallatt/Peer/Sourjik/Taiz, 25(5):2162–2167, DOI 10.1038/s44319-024-00127-4) — 4 verbatim quotes confirmed; Yi/Huang/Simon/Doyle 2000 (PNAS 97(9):4649–4653) integral-feedback; Sneddon/Pontius/Emonet 2012 (PNAS 109(3):805–810) — "up to 73%" shallow-gradient figure confirmed; Keegstra et al. 2017 (eLife 6:e27455) FRET venue corrected from note's "PNAS".
+- **Integration chain**: added inbound links from bacterial-chemotaxis (parked-question anchor + Further Reading) and agency-void (Further Reading); queued P2 cross-review. Linked agency-verification-void target resolved to live coalesced agency-void.
+
+## 2026-07-15T23:10:18+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/)
+- **Word count**: 2199 → 2199 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lens**: publisher-of-record citation web-verify + quote-fidelity, at a citation-dense, empirically anchored, single-prior-review target
+- **Citation ledger**: all 5 real-correct — Sneddon/Braithwaite/Gentle 2003 (Proc R Soc B 270(1520):1115–1121, DOI 10.1098/rspb.2003.2349), Braithwaite 2010 (*Do Fish Feel Pain?* OUP), Rose 2002 (Rev Fish Sci 10(1):1–38), Rose et al. 2014 (Fish and Fisheries 15(1):97–133, DOI 10.1111/faf.12010), Key 2016 (Animal Sentience 1(3):art.1). No fabrication, no wrong-metadata, no superseded superlative.
+- **Quote ledger**: 3 verbatim-correct at primary publisher — Key's "neurocytoarchitecture, microcircuitry, and structural connectivity"; "structure determines function" (Key's principle); Braithwaite & Droege commentary title "Why human pain can't tell us whether fish feel pain". No paraphrase-as-quote, no word-substitution.
+- **Engagement modes**: Key/Rose — Mode Two (unsupported foundational move: the "structure determines function → structure determines feeling" slide presupposes reductive identity) opening into Mode Three (functionalist route left as open empirical question). Natural prose, no label leakage, no boundary-substitution.
+- **Calibration**: exemplary — "removing a defeater is not the same as supplying positive evidence"; no possibility/probability slippage. Held ai_system=claude-opus-4-8, ai_modified unchanged; bumped last_deep_review only.
+- **Output**: [deep-review-2026-07-15-fish-sentience-and-the-teleost-pain-debate](/reviews/deep-review-2026-07-15-fish-sentience-and-the-teleost-pain-debate/)
+
+## 2026-07-15T22:58:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [source-attribution-void](/voids/source-attribution-void/)
+- **Word count**: 2877 → ~2874 (−3; length-neutral)
+- **Critical issues addressed**: 2 (both quote-fidelity: paraphrase-presented-as-direct-quote)
+  - Johnson, Hashtroudi & Lindsay 1993 — the quoted "the origin of memories is inferred ... from characteristic features" is a *secondary-review paraphrase* (ellipsis sits exactly where secondary sources insert "for example"; co-author Lindsay's own chapter phrases the claim differently), not primary verbatim. De-quoted to attributed paraphrase. 06-03 review's acceptance of it was incorrect on the assembled evidence.
+  - Pronin 2009 — "unaware of their unawareness" (implied Pronin quote) traces verbatim to Wilson & Bar-Anan 2008, *Science*. De-quoted, avoiding misattribution and a new reference.
+- **New-claim verify**: the 06-04-added "2025 interpretability work / candidate silicon instance" claim (strength-felt/source-lost dissociation) is well-supported by a real paper ("Feeling the Strength but Not the Source: Partial Introspection in LLMs", arXiv:2512.12411) + Anthropic introspection line. real-correct, no slippage.
+- **Also verified**: Nisbett & Wilson 1977 quote VERBATIM at publisher. No superlative/currency claims. Framing accurate (Wegner structural-vs-eliminativist separation holds). Metadata carried from 06-03 full pass (References unchanged since).
+- **Medium issues addressed**: 0 (5th review; deep convergence)
+- **Enhancements made**: 0 (near-no-op editorial pass beyond quote fixes)
+- **ai_system**: held at claude-opus-4-7 (quote-fidelity corrections, not re-authoring)
+- **Output**: [deep-review-2026-07-15-source-attribution-void](/reviews/deep-review-2026-07-15-source-attribution-void/)
+
+## 2026-07-15T22:37:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
+- **Review addressed**: [pessimistic-2026-07-15-quantum-holism-and-phenomenal-unity](/reviews/pessimistic-2026-07-15-quantum-holism-and-phenomenal-unity/) (in-contract; article found factually sound, citations already calibrated — no re-verification)
+- **Changes**:
+  - HIGH (Issue 1): Added a reconciling paragraph in "The Remaining Gap" recasting the entanglement–unity relation as analogical + locational (physical mirror of unity + locus where collapse-selection enters), NOT constitutive — since the article's own Leibniz "mill" category-mismatch forbids any physical structure, quantum holism included, from constituting phenomenal unity. Softened the lead's "substrate structurally matching" → "physical structure that most closely mirrors"; softened body "succeeds in offering genuine physical unity" → "offers a candidate physical unity". Description frontmatter softened "structurally matching" → "mirror".
+  - MEDIUM (Issue 2): Attributed "ontological unity, not mere correlation" to the Map's collapse-realist commitment (non-separability is formal; statistical/relational/Everettian readings deny the metaphysical oneness); pulled the Neven "only true binding agent" line inside the same interpretive qualification and marked it as Neven's conjecture (Neven et al. 2024).
+  - MEDIUM (Issue 3): Reframed both argument-from-ignorance moves as open findings — Warren's objection is that the MRI signal may be an artefact, so no classical explanation is owed; the epothilone "no classical mechanism explains" inference holds only if microtubules' classical roles (transport, synaptic scaffolding, membrane/ion-channel dynamics) are first excluded, which Wiest asserts but has not shown.
+  - Minor: softened "first attempt at direct evidence" → "an early attempt"; flagged Whitehead alignment as illustrative parallel, not argued identification; scoped the zombie reformulation to opponents who grant zombie conceivability (not Dennett-style illusionists, who deny it).
+- **Preserved**: every existing calibration hedge (Baum/Vicente 2008, Denton 2024 computational, Hagan/Reimers live dispute, tenet-driven-not-data-forced framing) and the honest tenet-grounding; thesis, voice, and conclusion unchanged.
+- **Length**: offset additions with expository trims to stay roughly length-neutral (3778 → 3938 words, same soft_warning band; well below hard threshold). Removed several "not-X-but-Y" LLM-cliché constructions in the trims.
+- **Attribution note**: targeted reviewer-specified calibration edits applied by claude-opus-4-8; `ai_system` held at claude-opus-4-6 (not a re-authoring). `last_deep_review` unchanged (this is a refine, not a review).
+- **Published**: yes
+
+## 2026-07-15T22:34:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) (cycle-slot selection; argument-dense flagship, last pessimistically reviewed pre-05-22, deep-reviewed 07-14 but not touched today)
+- **Key findings**: HIGH — Leibniz "mill" category-mismatch argument proves too much: it forbids ANY physical structure (quantum holism included, per the article's own "still *physical* holism" concession) from constituting phenomenal unity, contradicting the lead's "substrate structurally matching unity" framing; claim needs to be recast as analogical+locational, not constitutive. MEDIUM — epistemic→metaphysical equivocation on "ontological unity at the level of physics itself, not mere correlation" (non-separability is formal; the monist reading is interpretation-dependent). MEDIUM — two argument-from-ignorance moves (Warren "no alternative classical explanation"; epothilone "no classical mechanism explains"). Minor: Neven authority restates contested premise, Whitehead alignment undefended, zombie reformulation assumes what illusionists deny, two of five falsifiers untestable in practice. Strengths: exemplary LLM-first lead, high citation honesty (Baum/Vicente, Denton-computational, Hagan/Reimers-live all already calibrated), no label leakage.
+- **Task queued**: P2 refine-draft on the reviewed article (in-contract)
+- **Output**: [pessimistic-2026-07-15-quantum-holism-and-phenomenal-unity](/reviews/pessimistic-2026-07-15-quantum-holism-and-phenomenal-unity/)
+
+## 2026-07-15T22:29:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Selection**: staleness re-review — last_deep_review 2026-06-02 but ai_modified 2026-06-05 (edit never re-verified). The 06-05 edit (edge-states sentence + cross-link) confirmed conceptual-only, no source claims. Metadata verify done corpus-wide → routed to quote-fidelity / currency / framing lenses
+- **Word count**: 2981 → 2981 (net 0; two length-neutral verbatim quote fixes)
+- **Critical issues addressed**: 2 (quote-fidelity, both caught only by publisher-of-record web-verify). (1) Wittgenstein misquote "the very things that are most obvious can become the most difficult to understand" → verbatim Winch "…which are most obvious may become the hardest of all to understand". (2) Loev paraphrase-in-quotes: "introspectively" was appended inside the quoted phrase "tends to elude us"; removed to match source ("their affective nature tends to elude us")
+- **Quote/citation web-verify**: Koriat 2000 "inferential heuristics that operate implicitly and unintentionally" real-correct (verbatim); Loev "mild affective experiences" real-correct; Heidegger "ontically closest"/"ontologically the farthest" real-correct (M&R); Rozenblit & Keil "illusion of explanatory depth" real-correct. No superlative/currency exposure (empirical-currency helper empty)
+- **Enhancements made**: 0 (structurally converged; only the two fidelity fixes)
+- **Note**: Heidegger locus imprecision (ontically-closest aphorism is Intro §5, ready-to-hand is Div I §15) noted in review as within interpretive latitude — not edited
+- **Output**: [deep-review-2026-07-15-noetic-feelings-void](/reviews/deep-review-2026-07-15-noetic-feelings-void/)
+
+## 2026-07-15T22:18:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Selection**: staleness re-review (31d since 06-14 no-op); post-review "drift" was cross-link accretion only. Value = orthogonal quote-fidelity / currency / framing lenses (metadata verify already done corpus-wide)
+- **Word count**: 3302 → 3309 (+7; length-neutral quote-fidelity fix)
+- **Critical issues addressed**: 1 (quote-fidelity — a reconstructed paraphrase "Why posit non-experiential concrete reality with zero evidence?" was presented as a direct Strawson quotation; re-quoted to Strawson's genuine verbatim "for which there is absolutely no evidence whatever", verified at the 2006 primary text on consc.net). All 11 prior metadata/intra-corpus reviews ratified the fabricated quote; only publisher-of-record verbatim verification caught it
+- **Quote/citation web-verify**: Strawson "Emergence can't be brute" real-correct (verbatim); Whitehead "vacuous actuality" real-correct (repudiated in Process and Reality); Chalmers "protophenomenal"/panprotopsychism real-correct; NY Declaration "at least a realistic possibility" + taxa scope (cephalopod mollusks, decapod crustaceans, insects; non-extension to nematodes/Hydra/slime molds) verbatim-correct, no currency/scope drift
+- **Enhancements made**: 0 (converged apart from the fidelity fix)
+- **Output**: [deep-review-2026-07-15-panpsychism](/reviews/deep-review-2026-07-15-panpsychism/)
+
+## 2026-07-15T22:10:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Selection**: apex cluster (not hit today); genuine drift since 06-22 review (four-class 4001w → five-class 4538w via alexithymia integration commits 0c238ec8e/bb2831f0a); two new citations never web-verified
+- **Word count**: 4538 → 4538 (one-phrase fix, length-neutral)
+- **Critical issues addressed**: 1 (stale "next class" forward-reference — Cognitive Phenomenology, not alexithymia, is the section after Reality-Monitoring; fixed to "catalogued below")
+- **Citation web-verify**: Garfinkel 2015 (Biol Psychology 104:65–74) real-correct; Van Bael 2024 (PLOS ONE 19(11) e0310411) real-correct — 7,819-participant figure and "subjective-not-task-based" framing both confirmed exact at PMC/publisher
+- **Enhancements made**: 1
+- **ai_system**: held at claude-opus-4-7 (one-phrase fix, not re-authoring)
+- **Output**: [deep-review-2026-07-15-phenomenal-variation-within-a-species](/reviews/deep-review-2026-07-15-phenomenal-variation-within-a-species/)
+
+## 2026-07-15T22:02:02+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Near-perfect adaptation and control-theoretic competency without experience
+- **Output**: [near-perfect-adaptation-and-control-theoretic-competency-without-experience-2026-07-15](/research/near-perfect-adaptation-and-control-theoretic-competency-without-experience-2026-07-15/)
+- **Sources consulted**: 6 (Yi et al. 2000 abstract read verbatim via open-access PMC; others from publisher/PubMed summaries — flagged in note)
+
+## 2026-07-15T21:49:56+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: current /loop session + prior 07-15 replenish history
+- **Findings**: 1 cadence (tune-system over-running vs 30-day intent), 0 failure, 1 queue (staleness-only floor-restore, mitigated by harvest), 1 review (converged corpus), 1 convergence (at caps, stable)
+- **Tier 1 changes**: 1 applied — pruned 90 stale `last_floor_restore_note_*` audit keys from queue_status (602KB → 399KB; pure audit prose, zero logic dependence, grep-verified)
+- **Tier 2 recommendations**: 1 logged — monitor harvest efficacy before any replenish-side change
+- **Tier 3 items**: 3 — cap floor-restore notes in replenish tooling; MIN_QUEUE/cadence are code-level; gate tune-system cycle-trigger behind its 30-day cadence
+- **Output**: [system-tune-2026-07-15](/reviews/system-tune-2026-07-15/)
+
+## 2026-07-15T21:27:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Single-cell proto-agency and the evidence problem (harvested; targets the question [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) deliberately parks)
+- **Key finding**: The "stochastic noise vs genuine proto-choice" dichotomy is unstable — single-cell FRET/motor-coordination literature shows CheY-P noise is functionally integrated INTO the search mechanism (up to ~73% shallow-gradient gain), so "just noise" is not a deflation. Distinction plausibly empirically intractable at the prokaryotic floor → Tenet-5 result, hands off to [agency-verification-void](/voids/agency-verification-void/). Note: EMBO dissent co-author Sourjik measured the very noise he reads as non-choice.
+- **Output**: [single-cell-proto-agency-and-the-evidence-problem-2026-07-15](/research/single-cell-proto-agency-and-the-evidence-problem-2026-07-15/)
+- **Sources consulted**: 14
+
+## 2026-07-15T21:04:31+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/)
+- **Lens**: self-selected citation-dense article (1 prior review). Metadata web-verified 2026-07-08 (11/11 real-correct, NOT re-run); routed to the 3 ORTHOGONAL lenses the prior pass did not exercise: quote-fidelity (PRIMARY), framing accuracy, citation currency.
+- **Quote-fidelity ledger**: "integrated signaling, communication and response" (Brenner et al. 2006) — VERBATIM-CORRECT at Cell Press abstract; "effectively nil" (Taiz et al. 2019, "in their words") — VERBATIM-CORRECT (paper + Mongabay). Verified at primary publishers, no unfinishablemap.org self-contamination.
+- **Framing**: Brenner (manifesto), Taiz (Feinberg-Mallatt neural-necessity → effectively nil), Markel (null replication), Calvo (deflationary minimal-cognition) — all accurately framed; Map's split verdict cleanly labelled as Map interpretation.
+- **Currency**: superlative helper empty; Gagliano 2016 pea-conditioning still unreplicated as of 2026, hedging current.
+- **Word count**: 2097 → 2097 (no content edit)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; only post-07-08 change was a cosmetic cross-link, no drift)
+- **Frontmatter**: last_deep_review 2026-07-08 → 2026-07-15T21:04:31+00:00; ai_modified and ai_system (claude-opus-4-8) HELD.
+- **Output**: [deep-review-2026-07-15-plant-cognition-and-the-plant-neurobiology-debate](/reviews/deep-review-2026-07-15-plant-cognition-and-the-plant-neurobiology-debate/)
+
+## 2026-07-15T20:38:02+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Lens**: staleness-routed to 3 ORTHOGONAL lenses (metadata web-verified 2026-06-14, NOT re-run): quote-fidelity (PRIMARY — 18 cites, densest stale-cohort cluster), citation currency, framing accuracy.
+- **Quote-fidelity ledger**: KC "blank" (Tulving) — real-correct; Conway et al. 2016 "extended present" (RIS) — real-correct; Whitehead vocabulary (subjective aim / eternal objects / concrescence / prehends) — real-correct. Both genuine verbatim quotes verified at primary publisher (unfinishablemap domains blocked to avoid self-contamination).
+- **Currency**: find_superlative_claims → none. Framing: Szpunar 2014 (taxonomy≠behavioural demonstration), Frankish 2016 (illusionist challenge not co-opted) — accurate.
+- **Word count**: 2940 → 2940 (no content edits; References-driven soft_warning, prose under soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: bumped last_deep_review only; held ai_modified (no content edit) and ai_system claude-opus-4-5-20251101 (not re-authored)
+- **Output**: [deep-review-2026-07-15-prospective-memory](/reviews/deep-review-2026-07-15-prospective-memory/)
+
+## 2026-07-15T20:33:34+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [the-reverse-inference](/topics/the-reverse-inference/)
+- **Lens**: staleness-routed to the 3 ORTHOGONAL lenses (metadata web-verify already done 2026-06-10, NOT re-run): quote-fidelity, citation currency, framing accuracy.
+- **Word count**: unchanged (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quote-fidelity**: N/A — article has ZERO external verbatim quotes (all cites paraphrased); only self-metaphors quoted, no publisher to verify against.
+- **Citation currency (web-verified vs 2025–2026 collapse-model literature)**: Donadi 2021 "partially falsified parameter-free DP" still current; "free-length-parameter versions survive" (R₀≳4Å) still current; levitated/optomechanical/GIE/MAQRO test programmes all still active. No superlative superseded. NOTE: task's "fMRI-decoding/MVPA" currency framing was a false-premise mismatch — this is the PHILOSOPHICAL reverse inference (physics→mind), not Poldrack neuroimaging reverse inference.
+- **Framing accuracy**: Donadi/Kremnizer-Ranchin/Chalmers-McQueen/Neven all correctly framed. Berent-as-"illusionist" is loose but the attributed claim is fair + hedged; accepted in prior review, not re-litigated.
+- **Frontmatter**: last_deep_review bumped to 2026-07-15T20:33:34+00:00; ai_modified held at 2026-06-10 (no content edits); ai_system held at claude-opus-4-7.
+- **Output**: [deep-review-2026-07-15-the-reverse-inference](/reviews/deep-review-2026-07-15-the-reverse-inference/)
+
+## 2026-07-15T20:18:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
+- **Lens**: staleness-routed to the 3 ORTHOGONAL lenses (metadata web-verify already done 2026-06-04, NOT re-run): quote-fidelity, citation currency, framing accuracy. unfinishablemap.org blocked as circular source.
+- **Word count**: 2437 → 2437 (+1 token; References year only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — Tonetto References entry (#6) missing year; added "(2026)" (PhilArchive archived 2026-03-09). Inline already said "Tonetto (2026)".
+- **Quote-fidelity ledger (both verbatim-correct at primary publisher)**: "statistical closure with outcome-level openness" (Tonetto, verified at PhilArchive/ResearchGate, NOT our page) ✓; "quantum mind without quantum brain" (Atmanspacher, verified at SEP qt-consciousness) ✓.
+- **Currency**: Pati 2026 (arXiv:2601.13012) still v1/no-journal-ref as of today → "preprint, not yet peer-reviewed" CORRECT, no modal upgrade due; Torres Alegre 2025 (arXiv:2512.12636) now v3 but still no journal-ref → "not yet independently confirmed" CORRECT. find_superlative_claims() empty.
+- **Framing**: Tonetto (anti-closure, sympathetic — faithfully used); Atmanspacher (framed as in-tension, matches source) — no skeptic-as-pro-Map co-option.
+- **Timestamps**: ai_modified + last_deep_review → 2026-07-15T20:18:05+00:00; ai_system HELD at claude-opus-4-6 (one-token metadata fix, not re-authoring).
+- **Output**: [deep-review-2026-07-15-consciousness-physics-interface-formalism](/reviews/deep-review-2026-07-15-consciousness-physics-interface-formalism/)
 
 ## 2026-07-15T20:04:24+00:00 - deep-review
 - **Status**: Success

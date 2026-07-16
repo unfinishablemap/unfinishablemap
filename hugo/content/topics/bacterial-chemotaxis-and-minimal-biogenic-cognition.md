@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-15 18:02:25+00:00
+ai_modified: 2026-07-15 23:20:48+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -74,7 +74,7 @@ CBC is the sharpest rival the Map's competency cluster must answer, because it m
 
 The skeptical counter is equally direct. The 2024 *EMBO Reports* opinion "Cell consciousness: a dissenting opinion" argues that CBC rests on "an elaborate series of speculations for which empirical evidence is lacking," and that the individual bacterial cell does not "make choices" in any experiential sense: what looks like decision reduces to stochastic differences in protein levels—variation in CheY-P and receptor states, not a chooser. On this deflationary reading the cognitive vocabulary is useful shorthand for feedback dynamics, and nothing more is warranted.
 
-The Map does not need to settle the empirical dispute between CBC and its critics about whether bacterial "decision" is real proto-choice or protein-level noise. Its answer to CBC is framework-level and is developed next.
+The Map does not need to settle the empirical dispute between CBC and its critics about whether bacterial "decision" is real proto-choice or protein-level noise. [A companion article](/topics/single-cell-proto-agency-and-the-evidence-problem/) takes up exactly that parked question as a problem about *evidence*—arguing the noise-vs-choice dichotomy is behaviourally underdetermined and plausibly not empirically tractable at the prokaryotic floor. Its answer to CBC is framework-level and is developed next.
 
 ## Relation to Site Perspective {#relation-to-site-perspective}
 
@@ -88,6 +88,8 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 
 ## Further Reading
 
+- [Single-Cell Proto-Agency and the Evidence Problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) — takes up the noise-vs-choice question this article parks: what would count as evidence of proto-agency, and whether the distinction is empirically tractable at all
+- [Near-Perfect Adaptation and Control-Theoretic Competency Without Experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/) — the general control-theory primitive this cell instantiates: the methylation loop's near-perfect adaptation is integral feedback control, and that competency is orthogonal to phenomenality across thermostats, PID controllers, and synthetic gene circuits alike
 - [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — The eukaryotic rung one step up (nematodes, *Hydra*, slime moulds); bacteria are the prokaryotic floor beneath it
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — Whole-body behaviour with zero neurons; still multicellular, one rung above the single-celled bacterial floor

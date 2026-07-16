@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-06-04 15:51:03+00:00
+ai_modified: 2026-07-15 20:18:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'The formal mathematical components and constraints any theory of c
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 15:51:03+00:00
+last_deep_review: 2026-07-15 20:18:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +132,7 @@ The interface formalism concept connects directly to the Map's foundational comm
 
 5. Sorkin, R.D. (1994). "Quantum Mechanics as Quantum Measure Theory." *Modern Physics Letters A*, 9(33), 3119–3127.
 
-6. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+6. Tonetto, B. (2026). "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
 
 7. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
 

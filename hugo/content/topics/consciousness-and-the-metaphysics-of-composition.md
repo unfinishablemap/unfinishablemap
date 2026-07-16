@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-06-26 13:44:42+00:00
+ai_modified: 2026-07-16 00:08:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -105,7 +105,7 @@ Second, where the evidence runs out, the choice between dualist interaction and 
 
 The convergence on consciousness as the composition criterion connects to a deeper structural fact: consciousness resists mereological analysis in both directions.
 
-**Bottom-up failure.** The [combination-problem](/concepts/combination-problem/) suggests that micro-experiences—if they exist—do not readily compose into macro-experiences. William James put the difficulty in 1890: "Take a hundred of them, shuffle them and pack them as close together as you can... each remains the same old private self." The [phenomenal non-compositionality](/concepts/composition-and-consciousness/) thesis generalises this: no operation sums independent subjects the way vector addition or superposition combines magnitudes. The stronger reading—that no such subject-summing *can* occur—is a further bet, not an established result, and it owes an account of split-brain and dissociative-identity cases that arguably display subjects dividing or coexisting; the [sibling treatment](/concepts/combination-problem/) frames this as a contested asymmetry rather than a flat impossibility, and this article inherits that more cautious key.
+**Bottom-up failure.** The [combination-problem](/concepts/combination-problem/) suggests that micro-experiences—if they exist—do not readily compose into macro-experiences. William James put the difficulty in 1890: "Take a hundred of them, shuffle them and pack them as close together as you can... still each remains the same feeling it always was, shut in its own skin, windowless." The [phenomenal non-compositionality](/concepts/composition-and-consciousness/) thesis generalises this: no operation sums independent subjects the way vector addition or superposition combines magnitudes. The stronger reading—that no such subject-summing *can* occur—is a further bet, not an established result, and it owes an account of split-brain and dissociative-identity cases that arguably display subjects dividing or coexisting; the [sibling treatment](/concepts/combination-problem/) frames this as a contested asymmetry rather than a flat impossibility, and this article inherits that more cautious key.
 
 **Top-down failure.** Conscious experience resists decomposition into independent parts. The [unity-of-consciousness](/concepts/unity-of-consciousness/) is not a sum of features but a primitive wholeness that cannot be reconstructed from components. Bayne and Chalmers (2003) showed that phenomenal unity involves conjoint phenomenology—a "what it is like" to experience features together that is not derivable from the individual features. The [binding-problem](/concepts/binding-problem/) makes the point empirically: neuroscience can explain how distributed features are computationally coordinated (BP1), but not why that coordination produces unified phenomenal experience (BP2). Classical neural mechanisms—synchrony, thalamocortical broadcasting, information integration—coordinate parts that remain metaphysically separate. Coordination is not composition.
 

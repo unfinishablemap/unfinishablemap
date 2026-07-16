@@ -29,7 +29,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/Bok4EVB_LeA
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-10 15:04:59+00:00
+last_deep_review: 2026-07-15 20:33:34+00:00
 modified: *id001
 related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'

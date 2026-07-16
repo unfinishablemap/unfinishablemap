@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-26 15:32:02+00:00
+ai_modified: 2026-07-15 23:20:48+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -162,6 +162,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate coupling laws (control laws in this framing)
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of the controller as genuine cause
 - [causal-closure](/concepts/causal-closure/) — Why control requires gaps in physical determinism
+- [near-perfect-adaptation-and-control-theoretic-competency-without-experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/) — the mirror-image use of control theory: where this article runs the analogy *toward* consciousness, that concept uses the same primitive to show what robust regulation *fails to entail*
 - [wholeheartedness-void](/voids/wholeheartedness-void/) — What "stable preferences that move action" leaves out: the felt seam of identification the control frame cannot recover
 - [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/) — When selection diverges from the agent's own better judgement
 

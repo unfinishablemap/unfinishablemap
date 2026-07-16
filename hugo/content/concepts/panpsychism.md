@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-06 11:23:32+00:00
+ai_modified: 2026-07-15 22:18:32+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-14 11:17:20+00:00
+last_deep_review: 2026-07-15 22:18:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ The process tradition suggests panpsychism needn't treat micro-experiences as st
 
 Panpsychists propose that consciousness—or something proto-conscious—is what quiddities are. The view splits into two main variants:
 
-**Panpsychist Russellian monism** holds that quiddities are genuinely phenomenal—every electron has some micro-experience. Galen Strawson champions this view: "Why posit non-experiential concrete reality with zero evidence?"
+**Panpsychist Russellian monism** holds that quiddities are genuinely phenomenal—every electron has some micro-experience. Galen Strawson champions this view, rejecting any commitment to wholly non-experiential stuff "for which there is absolutely no evidence whatever."
 
 **Panprotopsychist Russellian monism** (Chalmers's distinction) holds that quiddities are "protophenomenal"—non-experiential properties that jointly constitute phenomenal properties in complex combinations. Electrons don't have experience; they have something that yields experience when organized appropriately.
 

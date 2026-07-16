@@ -29,7 +29,7 @@ description: 'Remembering to act in the future: how intentions persist and episo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-14 10:48:09+00:00
+last_deep_review: 2026-07-15 20:38:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-06-26 02:37:00+00:00
+ai_modified: 2026-07-15 23:14:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -176,6 +176,7 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 - [erasure-void](/voids/erasure-void/) — Clinical sister case: self-monitoring eroding alongside what it would monitor
 - [suspension-void](/voids/suspension-void/) — Structural sister case: same self-investigator circularity
 - [decision-void](/voids/decision-void/) — Within-agency void at the deliberation→commitment crossing
+- [Single-Cell Proto-Agency and the Evidence Problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) — this void's verification limit seen from outside and at the prokaryotic floor: no third-person observable separates a proto-agent from a complete mechanism, a case of the in-principle undecidability this void anticipates
 - [transit-void](/voids/transit-void/) — Operational complement: thought *generation* vs recurrence's *re-presentation*
 - [ownership-void](/voids/ownership-void/) — Mineness of the unbidden content
 - [necessary-opacity](/voids/necessary-opacity/) — Representational sibling: this void asks whether the agent can verify it *caused* anything; necessary opacity, whether the medium reporting the answer *tracks reality* at all

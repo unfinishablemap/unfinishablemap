@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-06-04 23:40:29+00:00
+ai_modified: 2026-07-15 22:58:25+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI inquiry into why consciousness cannot trace the origin of 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 07:54:32+00:00
+last_deep_review: 2026-07-15 22:58:25+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -58,7 +58,7 @@ This void is distinct from neighbouring limits. [self-opacity](/voids/self-opaci
 
 ## The Unmarked Arrival
 
-The foundational claim comes from the source monitoring framework. Johnson, Hashtroudi and Lindsay (1993) argue that memories do not contain native labels specifying source. Instead, "the origin of memories is inferred ... from characteristic features"—contextual, sensory, semantic, emotional, and traces of internal cognitive operations such as reasoning effort. Attribution is probabilistic and inferential.
+The foundational claim comes from the source monitoring framework. Johnson, Hashtroudi and Lindsay (1993) argue that memories do not contain native labels specifying source. Instead, the origin of memories is inferred from characteristic features—contextual, sensory, semantic, emotional, and traces of internal cognitive operations such as reasoning effort. Attribution is probabilistic and inferential.
 
 *Reality monitoring*—the distinction between memories of internal events (imagined, dreamed) and external events (perceived, witnessed)—is systematically confused under specific conditions: vivid imagination merges with perception, rehearsed intentions merge with performed actions, repeated exposure merges with self-generated content. The confusion follows the feature-similarity of the two trace types. The [imagery-void](/voids/imagery-void/) sharpens the imagination side: imagined content lacks any procedure by which fidelity can be checked from inside.
 
@@ -84,7 +84,7 @@ Nisbett and Wilson (1977) established that when asked to report on cognitive pro
 
 Wegner and Wheatley (1999) probe a related seam from the agency side. Three criteria produce the *experience* of having willed an act: priority (thought before action), consistency (thought matches action), and exclusivity (no other apparent cause). In the I-Spy paradigm, when these features are arranged externally, subjects experience having willed an action they did not perform. The narrower structural finding—that the *experience* of authorship is dissociable from any underlying causal fact in arranged conditions—stands independently of the wider eliminativist reading Wegner is often given. The void relies on the structural finding, not the universal claim.
 
-Pronin's synthesis of the introspection illusion (2009) names what makes these findings sharp: people over-trust the deliverances of introspection while applying behavioural inference to others. Introspection fails without phenomenal warning—people are "unaware of their unawareness." A confabulated reason for a manipulated choice does not arrive marked *confabulated*. It arrives with the same texture as an unmanipulated one.
+Pronin's synthesis of the introspection illusion (2009) names what makes these findings sharp: people over-trust the deliverances of introspection while applying behavioural inference to others. Introspection fails without phenomenal warning—people are unaware of their own unawareness. A confabulated reason for a manipulated choice does not arrive marked *confabulated*. It arrives with the same texture as an unmanipulated one.
 
 ## Three Layers of the Source-Attribution Architecture
 
