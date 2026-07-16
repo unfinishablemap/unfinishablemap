@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T11:04:23+00:00
+ai_modified: 2026-07-16T11:46:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T11:46:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Driven by**: [[reviews/pessimistic-2026-07-16-born-rule-and-the-consciousness-interface]] (4 medium issues + 2 unsupported-claim wording fixes)
+- **Changes**:
+  - Fix 1 (tier reconciliation): downgraded §Compatibility-vs-Support line 93 from "marginally *interface-suggestive*" to *interface-compatible* (not reaching suggestive), since every candidate component is matched by a named rival's equal move; reconciled §What This Does Not Establish (line 194) to bank the SIC how-sketch only as "suggestive-if-granted", not as an achieved tier.
+  - Fix 2 (Lakatos): replaced the Popper-only falsifiability discussion in §What Negative Results with a Popper→Lakatos escalation — named the *degenerating-programme* charge (unfalsifiable core + disavowed falsifiable belt + planned content-reducing retreat) and answered it with the interface programme's *progressive* content (mechanism-by-mechanism novel signatures via brain-internal-born-rule-testing). Integrated by rewriting existing prose, not appended.
+  - Fix 3 (Wiest quote): attached "macroscopic quantum entangled state in the living human brain" to the Kerskens proton-spin result Wiest *reports*, separated Wiest's own microtubule case; stops the quote double-booking Kerskens.
+  - Fix 4 (epistemic/metaphysical split, line 68): marked "expressive limit on physics's formalism" (epistemic) vs "real ontological boundary" (metaphysical), and that the bridge is tenet-coherence, not the underivability pattern.
+  - Wording: line 152 "causal-consistency has been *tested*" → causal consistency is a *theorem*; no-signalling is the empirically-tested premise. "seven orders above Tegmark's" → "eight orders above the ~10⁻¹³ s" (10⁻⁵ vs 10⁻¹³), noting the higher figure is the Orch-OR advocates', not neutral. Pinned one nickname ("Torres Alegre steering result") for arXiv:2512.12636 in place of "GPT-steering". Restored full Wiest title in ref 5 ("…and solves the binding and epiphenomenalism problems"), verified at OUP niaf011. Thinned one redundant "-load-bearing" coinage.
+- **Engagement classification (editor-internal)**: Lakatos/Popper (§What Negative Results): Mode Three — framework-boundary; the reply honestly concedes the corridor's unfalsifiability as a cost while pointing to the programme's progressive content, not claiming to refute the degenerating-programme charge on the critic's terms.
+- **Length**: +156 words net (5158→5314; still ~177% of the 3000-word hub target). All clear redundancy offset (trimmed duplicated compatibility-discipline restatements in §Compatibility, closer, §Occam, §MQI-commits, lead ¶3, and the micro-PK clause in §Brain-Internal Gap); residual growth is the irreducible floor of the required new Lakatos engagement + Wiest disambiguation + epistemic/metaphysical bridge. Calibration qualifiers and citation-framing preserved (not cut to save words) per task constraint.
+- **Published**: yes
 
 ## 2026-07-16T11:35:42+00:00 - pessimistic-review
 - **Status**: Success
