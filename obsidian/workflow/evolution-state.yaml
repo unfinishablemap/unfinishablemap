@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T03:31:58.649943+00:00'
-session_count: 15861
+last_updated: '2026-07-16T03:35:57.973844+00:00'
+session_count: 15862
 cycle_position: 11123
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-15T04:13:48.072739+00:00'
   refine-draft: '2026-07-16T02:53:27.282795+00:00'
   research-topic: '2026-07-16T03:27:08.687720+00:00'
-  replenish-queue: '2026-07-16T02:39:19.568095+00:00'
+  replenish-queue: '2026-07-16T03:35:57.973844+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-15T23:24:31.250152+00:00'
   add-highlight: '2026-07-15T08:05:49.690113+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1355,13 +1355,12 @@ queue_status:
   last_replenishment_prev: '2026-07-16T02:36:00+00:00'
   last_floor_restore_note_2026_07_16_unconsumed_research_gpt_expand_12: 'Floor-restore
     replenish 2026-07-16T0333Z (conservative, exact-floor +1). PRE-COUNT canonical
-    count_p0_p2_tasks == 2 (single-cell-proto-agency cross-review + the
-    self-reference-and-the-limits-of-physical-description staleness deep-review minted
-    0236Z, both open); the concepts/illusionism.md deep-review that was the 2nd floor
-    task the prior cycle has since executed and drained the slot, dropping the floor
-    to 2. Floor 3 unmet by 1. SOURCE AUDIT: unlike the prior two floor-restores this
-    cycle, UNCONSUMED_RESEARCH is now LIVE again - this session wrote TWO fresh research
-    notes with no corresponding article: generalised-probabilistic-theories-and-the-born-rule-2026-07-16
+    count_p0_p2_tasks == 2 (single-cell-proto-agency cross-review + the self-reference-and-the-limits-of-physical-description
+    staleness deep-review minted 0236Z, both open); the concepts/illusionism.md deep-review
+    that was the 2nd floor task the prior cycle has since executed and drained the
+    slot, dropping the floor to 2. Floor 3 unmet by 1. SOURCE AUDIT: unlike the prior
+    two floor-restores this cycle, UNCONSUMED_RESEARCH is now LIVE again - this session
+    wrote TWO fresh research notes with no corresponding article: generalised-probabilistic-theories-and-the-born-rule-2026-07-16
     and sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16 (both
     assess-first HIGH, passed). SOURCE USED: unconsumed_research (Source 2, highest-priority
     +60). MINTED 1 P2 expand-topic for the GPT note ONLY (the strongest of the two:
@@ -1369,8 +1368,8 @@ queue_status:
     it fixes a live over-statement in published content - the Map slogan no-signalling-forces-the-Born-rule
     is too strong per Galley-Masanes 2018, forced only with purification/local-tomography).
     Sorkin DELIBERATELY NOT minted this pass to keep floor-restore conservative (exact
-    +1). CAP+MERGE FLAG carried into the task: concepts ~318/320 (~2 free slots); both
-    notes recommend Sorkin+GPT be MERGED into one post-quantum-probability concept
+    +1). CAP+MERGE FLAG carried into the task: concepts ~318/320 (~2 free slots);
+    both notes recommend Sorkin+GPT be MERGED into one post-quantum-probability concept
     if only one slot is free - GPT-only vs merged vs both architecture decision left
     to operator/later mint, not silently pre-committed. P3 Bohmian sibling still awaiting
     its research task, not minted. Dedupe verified: no live/archived generalised-probabilistic-theories
