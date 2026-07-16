@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T04:47:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (claude-opus-4-8)
+- **File**: [[reviews/outer-review-2026-07-16-claude-opus-4-8]]
+- **Subject**: Full-site audit (reuse:pending-reviews — same subject as the ChatGPT 5.6 Pro sibling)
+- **Extraction**: js-dom via Chrome; 38,005-char research-artifact body Blob-downloaded (body-stability sentinel stable at 36,247 across two 10s samples; artifact "Adversarial Peer-Review Audit… Disclosure as Substitute for Deletion", 256 sources)
+- **Verdict**: REVISE-HARD. Core thesis — "the site has built a magnificent disclosure apparatus and is using disclosure as a substitute for deletion": it names the constitutional-attractor effect, convergence-independence, mechanism debt, unfalsifiability risk, and citation-fabrication tendency, then largely proceeds as before. Calibration ≠ correction.
+- **Claims verified**: 5 LIVE + 2 STALE checked against the live vault. LIVE: PP/active-inference not engaged as a framework-level rival (no steelman apex); interactionist-dualism runs explanatory-gap/conceivability/knowledge-argument as three "independent" streams (line ~97) when they are one intuition; pairing problem disposed in one sentence (line ~189); voids convergence-as-evidence apparatus banks-not-deducts the common-cause-null discount; No-MWI ignores Sebens–Carroll/Zurek. STALE (NOT tasked): the "Hameroff et al. (2025) confirm experimentally" fabrication is already gone (quantum-biology-and-neural-mechanisms treats the dispute honestly; Wiest 2025 flagged as partisan advocacy) and the "positions register ~90% empty" claim is web-index lag (agency-and-will P-A1..P-A5, consciousness-scope, voids-as-evidence, methodology-and-calibration all seeded; P-A3 exists).
+- **High-value findings**: disclosure-banked-not-deducted (constitutional-attractor at scale); PP/active-inference as unaddressed total physicalist rival; evidential-independence failure in the "seven arguments converge" structure; substance-dualist pairing problem under-treated; Butlin/Birch co-optation-firewall breach + gaming problem; No-MWI Sebens–Carroll/Zurek asymmetry; P-Q1 "selection indistinguishable from chance" → confidence-downgrade candidate.
+- **Tasks generated**: 6 (all P2 — PP-rival apex + attention-as-causal-bridge caveat; voids convergence→coherence-only; interactionist-dualism de-dup + mechanism-debt + pairing; AI co-optation/gaming-problem; No-MWI Sebens–Carroll [CONVERGENT w/ ChatGPT sibling]; P-Q1 confidence downgrade [CONVERGENT-adjacent w/ ChatGPT born-preserving]). All DEFERRED until [[combine-outer-reviews]] runs for the 2026-07-16 cycle (Gemini 2.5 Pro still pending); combine should dedup/upgrade the two convergent findings.
+
 ## 2026-07-16T04:06:31+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro)
