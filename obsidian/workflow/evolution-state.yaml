@@ -1342,42 +1342,40 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T22:31:24+00:00'
-  last_replenishment_prev: '2026-07-16T22:05:07+00:00'
-  last_floor_restore_note_2026_07_16_staleness_affective_void_2132: 'Floor-restore
-    replenish 2026-07-16T2132Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text()) ==
-    2 verified LIVE immediately before AND 3 after this single write. MIN_QUEUE floor
+  last_replenishment: '2026-07-16T22:41:00+00:00'
+  last_replenishment_prev: '2026-07-16T22:31:24+00:00'
+  last_floor_restore_note_2026_07_16_staleness_suspension_void_2241: 'Floor-restore
+    replenish 2026-07-16T2241Z (interactive agent, conservative exact-floor +1). Timestamp
+    is the REAL date -u wall clock. AUTHORITATIVE PRE-COUNT count_p0_p2_tasks(todo.read_text())
+    == 2 verified LIVE immediately before AND 3 after this single write. MIN_QUEUE floor
     3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (ps -ef clean); tree
-    clean at mint (only todo.md dirty); HEAD 399427d33 is an agentic-social cycle_post
-    pre-replenish tree-clean, i.e. this IS the /unfin-cycle replenish leg. concurrent-replenish-race
-    guard: revert the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT re-run
-    LIVE: chain none (recent_tasks all deep-review/replenish/agentic-social); unconsumed_research
-    BLOCKED (target sections AT CAP); gap capped (topics 320/320, concepts 320/320,
-    voids 100/100 all AT CAP by live file-count; positions 8/80); orphan 0; length
-    all veto/human-deferred; positions audit ran 2026-07-12 (< 30d, not overdue),
-    8 < 10 audit floor (prokaryotic-floor register P3 already queued); no applied-apex-gap.
-    SOURCE = staleness (Source 4). MINTED 1 P2 deep-review voids/affective-void.md
-    -- the corpus-oldest un-queued settled last_deep_review 2026-06-02T10:52Z (44-day
-    gap; commit d5b9b7eb0 is its most recent review, reconciled vs frontmatter), fully
-    settled (ai_modified 2026-06-02 == last_deep_review then 44d untouched, zero same-session-churn
-    risk -- NOT part of the 2026-07-16 value/meaning refine which touched only apex/living-with-the-map
-    + apex/moral-architecture, grep-verified), ai_contribution 100, ai_system claude-opus-4-5-20
-    (OLDER cohort than either open P2 -- mattering-void opus-4-7, reductionism opus-4-8
-    -- and the owed-web-verify-seam-deep-review-targeting high-yield profile: older-cohort
-    + citation-dense (24 reference lines) + >25d-converged + intra-corpus), 1982 body
-    words (under voids soft 2000, no condense risk), EOF scan CLEAN (ends on Cytowic
-    1995 Psyche + Scarantino 2010 BJPS 61(4):729-768). Axis = affect / felt-emotional-quality
-    / affects-beyond-human-reach -- distinct from both open P2 axes (value-mattering-significance,
-    reductionism/Tenet-1) for section + cohort + content diversity (adjacent to but
-    NOT the same as mattering-void). Verify-job: web-verify citations by TITLE+venue
-    (ai_citation_metadata_unreliable + citation-verify-false-negative), quote-fidelity
-    at publisher, cross-link reciprocity, tenet routing, style. HOLD ai_system + no
-    ai_modified bump on a no-op (deep-review-fork-over-attributes-ai-system + deep-review-fork-bumps-ai-modified-on-noop).
-    POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied, no padding). BOTTOM-inserted
-    below the two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore
-    note (subjective_aim_1955) to keep the most-recent 3 (bloat control, zero logic
-    dep).'
+    clean at mint; HEAD 56e41eab2 is a deep-review cycle_post pre-replenish tree-clean,
+    i.e. this IS the /unfin-cycle replenish leg. concurrent-replenish-race guard: revert
+    the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT re-run LIVE: chain
+    none; unconsumed_research BLOCKED (sections AT CAP); gap capped (topics 320/320,
+    concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length all
+    veto/human-deferred; positions audit ran 2026-07-12 (<30d), 8<10 audit floor; no
+    applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review voids/suspension-void.md
+    -- the HIGHEST un-web-verified citation seam in the 06-02..06-04 cohort (STEERING
+    this session overturns the prior mint premise that this cohort is a spent web-verify
+    batch: affective-void, SAME cohort, just yielded THREE real citation defects). suspension-void
+    last deep-review 2026-06-04 web-verified only 4 of 19 refs (own log: "not web-verified
+    this session") -- ~15 refs never publisher-checked. last_deep_review 2026-06-04T12:20Z
+    (42-day gap), ai_modified 2026-06-04 == last_deep_review, NOT touched this session,
+    ai_contribution 100, ai_system claude-opus-4-7 (cohort UNREPRESENTED by open P2s
+    -- direction opus-4-8, perceptual-failure opus-4-6), voids section (UNREPRESENTED),
+    2917 body words (under voids 3000 hard, no condense risk), EOF CLEAN (ends ref 19
+    legitimate Southgate & Oquatre-sept Map self-cite pseudonym). Axis = epistemic suspension
+    / need-for-closure / diagnostic premature-closure, Tenet 5 -- distinct from both
+    open P2 axes (anaesthesia-direction, NDE-perceptual-failure). Verify-job: web-verify
+    the ~15 un-checked refs by TITLE+venue (highest-suspicion Deco 2009 NRN vol-12 =
+    2011 dual-venue red flag; Webster & Kruglanski 1994; Mannetti 2002; Tognoli & Kelso
+    2014; Greenberg 1986; Grajzel 2025; Yao 2023), quote-fidelity at publisher, cross-link
+    reciprocity, tenet routing (Tenet 5 + 4), style. HOLD ai_system + no ai_modified
+    bump on a genuine no-op. POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied).
+    BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard). Pruned the
+    oldest floor-restore note (affective_void_2132) to keep the most-recent 3 (bloat
+    control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_evolutionary_quantum_2143: 'Floor-restore
     replenish 2026-07-16T2143Z (interactive agent, conservative exact-floor +1). Timestamp
     is the REAL date -u wall clock. AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text())
