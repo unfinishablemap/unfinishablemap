@@ -4,7 +4,7 @@ description: "Pain asymbolia dissociates nociceptive sensation from affective su
 created: 2026-02-15
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-07-16T08:14:00+00:00
+ai_modified: 2026-07-16T20:26:40+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-06-19T19:28:25+00:00
+last_deep_review: 2026-07-16T20:26:40+00:00
 embedded_videos:
   - id: S_adBVpON7g
     url: https://www.youtube-nocookie.com/embed/S_adBVpON7g
@@ -128,9 +128,9 @@ Together, these dissociations show that pain's dimensions can be independently m
 ## References
 
 1. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
-1. Duval, A. & Klein, C. (2025). "Pain Asymbolia Is Probably Still Pain." *Philosophy of Science* (discussion note). https://doi.org/10.1017/S0031824825100986
+1. Duval, A. & Klein, C. (2025). "Pain Asymbolia Is Probably Still Pain." *Philosophy of Science*, 93(1), 221–229 (discussion note). https://doi.org/10.1017/psa.2025.10098
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
-1. Griffith, T. & Kind, A. (2024). "Pain Asymbolia is Not Pain." *Philosophy of Science*, 91(3), 561–578. https://doi.org/10.1017/S0031824823001678
+1. Griffith, T. & Kind, A. (2024). "Pain Asymbolia is Not Pain." *Philosophy of Science*, 91(3), 561–578. https://doi.org/10.1017/psa.2023.167
 1. Rainville, P., Carrier, B., Hofbauer, R. K., Bushnell, M. C., & Duncan, G. H. (1999). "Dissociation of Sensory and Affective Dimensions of Pain Using Hypnotic Modulation." *Pain*, 82(2), 159–171.
 1. Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
 1. Geschwind, N. (1965). "Disconnexion Syndromes in Animals and Man." *Brain*, 88(2), 237–294.

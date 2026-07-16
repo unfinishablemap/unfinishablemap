@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T20:26:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/pain-asymbolia]]
+- **Word count**: 2292 → 2292 (+0; metadata-only fix)
+- **Critical issues addressed**: 2 (wrong DOIs on two new citations)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added volume/pages to Duval & Klein entry)
+- **Notes**: Legitimate re-qualification (7th review) — a 2026-07-16 refine-draft added new body prose + two new citations (Griffith & Kind 2024, Duval & Klein 2025), modifying References and triggering the §2.4 publisher-of-record web-verify. Both new cites carried Cambridge internal content-IDs mislabeled as DOIs (both 404 at doi.org); papers/authors/year/venue/pages all correct. Corrected to canonical DOIs verified live: Griffith & Kind → 10.1017/psa.2023.167 (was S0031824823001678); Duval & Klein → 10.1017/psa.2025.10098 (was S0031824825100986). Five prior cites unchanged since 2026-06-02 verification. No mode classification (third-party classificatory dispute, not a Map opponent-reply). New paragraph REDUCES overclaim (calibration-tightening); no slippage. `ai_system` (claude-opus-4-6) HELD — metadata fix, not re-authoring.
+- **Output**: [[reviews/deep-review-2026-07-16-pain-asymbolia]]
+
 ## 2026-07-16T20:14:29+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[voids/predictive-construction-void]]
