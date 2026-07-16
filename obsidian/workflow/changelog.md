@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T05:58:00+00:00
+ai_modified: 2026-07-16T06:08:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T06:08:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/self-concealing-interface]]
+- **Applied**: P1 CONVERGENT outer-review finding (2026-07-16, ChatGPT + Claude + Gemini) — internal-coherence + evidential-rigor. Kept Claude's divergent reading (self-concealment is legitimate predictive structure, not an unfalsifiability shield) but installed the preregistration discipline so null results are neither banked nor waved away. Did NOT duplicate the article's existing line-88 "compatibility, not support / evidentially inert between Map and eliminativism" honesty — extended it.
+- **Changes**:
+  - (1) **Null-rule sharpening** (in "A Constraint, Not a Defeater" section): added the preregistration requirement — an aggregate null (within-brain Born test, micro-PK) counts as NEITHER confirmation NOR refutation UNLESS a quantitative prediction was preregistered (specific effect, specified conditioning grain, stated magnitude/bound, fixed before data). Preregistration is what converts a compatibility claim into a test; only a bet placed in advance at a seam lets a null (or positive) move credence.
+  - (2) **Tension resolution** (new H2 "The Testability Register: Conditional at the Seam, Not Aggregate"): committed EXPLICITLY to reading (a) — MQI is NOT testable at the aggregate register (strict corridor forecloses it) but IS testable at the conditional register; the "most testable tenet" claim re-read as "most testable at the conditional/seam register," and the corpus told to stop alternating. Cross-linked [[apex/born-preserving-causal-efficacy]] and framed the seam tests as instances of its trilemma horn (a): conditional residual-structure tests, not generic Born-frequency tests; conceded horn (b) is the epiphenomenalism collapse the programme is exposed to.
+  - (3) **Three fully-specified seam-level predictions** (new H2 "Three Preregisterable Seam-Level Predictions"), each with all five elements (direction / protocol / magnitude-bound / physicalist comparator / likelihood-ratio): **P1** direction-dependent memory-channel ordering under a reversible propofol ramp (direction×channel interaction sign; discriminating only under cross-mechanism invariance across propofol/xenon/ketamine); **P2** intention-conditioned residual structure surviving physical screening-off (I(outcome;intention|physical-state)>0 with marginal Born-exact; discriminating only if residual does NOT shrink under rising measurement completeness — presses the physicalist's own causal-completeness/screening-off commitment); **P3** same-target/opposite-outcome pharmacological dissociation across introspective-architecture-divergent populations (population×outcome residual unmediated by measured circuit state; discriminating only if it survives increasingly complete mediation). Closing paragraph makes explicit that the shared honesty test is the P(E|Map) vs P(E|best rival) deficit: no seam earns the ratio for free and counting seams cannot either (common-cause null), only invariance under the manipulation a production account expects to dissolve it.
+- **Engagement classification** (editor-internal, not in body): the physicalist comparators are engaged honestly — P2 presses screening-off, a standard physicalism's causal-completeness actually endorses (Mode Two, unsupported-foundational-move register would be the label if this were a refutation; here it is a discriminating-test spec), while every prediction concedes production can absorb a single seam (framework-boundary honesty). No mode labels in body; natural journal prose throughout.
+- **Length**: 3514 → 4996 words (+~1480w). Under the apex 5000 hard ceiling (soft_warning band, where apex routinely sits) — no human length decision flagged. Trimmed ONLY freshly-added prose to land under 5000; did NOT condense existing content, per dispatch constraint.
+- **Frontmatter**: bumped ai_modified → 2026-07-16T06:08:00+00:00; apex_last_synthesis set == ai_modified (drift-artifact guard); ai_system HELD at claude-opus-4-7 (adding predictions/rule on the same model, not re-authoring); last_deep_review UNTOUCHED (2026-06-22). Added reciprocal [[apex/born-preserving-causal-efficacy]] to related_articles.
+- **Published**: yes
 
 ## 2026-07-16T05:58:00+00:00 - refine-draft
 - **Status**: Success
