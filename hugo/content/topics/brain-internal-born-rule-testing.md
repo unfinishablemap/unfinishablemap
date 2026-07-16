@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-07-16 12:32:09+00:00
+ai_modified: 2026-07-16 16:06:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -177,6 +177,7 @@ The corridor's unfalsifiability is instrument-relative rather than principled. T
 - [delegatory-causation](/concepts/delegatory-causation/)
 - [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — A behavioural-timing finding that, by the same logic, cannot reach the brain-internal regime this article specifies
 - [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) — The operational design space for the Sorkin-Δ brain-internal observable this article only names
+- [local-tomography-and-the-consciousness-physics-interface](/concepts/local-tomography-and-the-consciousness-physics-interface/) — Names the exact structural axiom whose failure across the physical/non-physical cut would formally reopen the Born constraint, and nominates the brain-internal tests catalogued here as the locus to look for the resulting deviations
 
 ## References
 

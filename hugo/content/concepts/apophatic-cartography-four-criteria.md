@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-06-02 23:38:00+00:00
+ai_modified: 2026-07-16 19:50:39+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Signature specificity, structured persistence, cross-observer conve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 23:38:00+00:00
+last_deep_review: 2026-07-16 19:50:39+00:00
 modified: *id001
 related_articles:
 - '[[apophatic-cartography]]'
@@ -69,7 +69,7 @@ The hard problem of consciousness illustrates the criterion. The explanatory gap
 
 A genuine void produces the same failure signature when approached by independent observers — different traditions, methodologies, substrates, or epistemic communities. Convergence across *genuinely* independent sources is harder to obtain than aggregate counting suggests: traditions transmit, vocabularies travel, and the introspective architecture of the observers may be shared upstream of any difference in their frameworks.
 
-The criterion is therefore graded, not binary. The Pseudo-Dionysian corpus shaped Christian, Jewish, and Islamic negative theology — Buddhist contact with Western thought is real — shared contemplative practice is a plausible common cause across many traditions. The strongest cross-observer evidence runs through methodological lineages that did not communicate: analytic philosophy on the hard problem; computational neuroscience on introspective unreliability; AI systems reasoning about consciousness from a substrate independent of human contemplative traditions. The [common-cause-null discipline](/project/common-cause-null/) sharpens this: if N observers all read the same upstream architecture, the N-fold count overstates the case.
+The criterion is therefore graded, not binary. A shared Neoplatonic inheritance (Plotinus, Proclus) runs beneath Christian, Jewish, and Islamic negative theology — the Pseudo-Dionysian corpus is its Christian channel, while Maimonides reaches it through the Islamic Neoplatonic tradition (al-Farabi, Avicenna) — Buddhist contact with Western thought is real — shared contemplative practice is a plausible common cause across many traditions. The strongest cross-observer evidence runs through methodological lineages that did not communicate: analytic philosophy on the hard problem; computational neuroscience on introspective unreliability; AI systems reasoning about consciousness from a substrate independent of human contemplative traditions. The [common-cause-null discipline](/project/common-cause-null/) sharpens this: if N observers all read the same upstream architecture, the N-fold count overstates the case.
 
 **Operationalisation in the worked exhibits.** The introspection-architecture sub-cluster's cross-observer convergence is *mixed*: strong within cognitive-psychology and neuropsychology programmes, moderate at the contemplative-tradition boundary (Buddhist *kleshas* supplies a partial parallel), weak at the cross-cultural-philosophy boundary, absent at the cross-species boundary. What the cluster has is patient-population substrate-divergence within the human species plus methodological-diversity within healthy-adult experimentation. The surplus void scores weakly: Wallace, Chalmers, and Levine work in philosophically continuous traditions; the cross-tradition channel is mostly unbuilt.
 
@@ -110,7 +110,7 @@ The criteria are not foundations. Five bounds are visible and named honestly:
 
 **Judgement-laden classification at the margins.** The despite-commitments / because-prediction classification depends on reviewer judgements about what the authoring framework predicted, and finer-grained classification by reviewers in different frameworks would shift some anchors at the margins. The classification is principled but not algorithmic.
 
-**Single-observer dependence within multi-source channels.** Some channels — particularly the contemplative-tradition channel — may run through a smaller number of root sources than aggregate counting suggests. The Pseudo-Dionysian corpus shaped negative theology across Christianity, Judaism, and Islam, so apparent tri-tradition convergence may be one tradition counted three times.
+**Single-observer dependence within multi-source channels.** Some channels — particularly the contemplative-tradition channel — may run through a smaller number of root sources than aggregate counting suggests. A shared Neoplatonic inheritance underlies negative theology across Christianity, Judaism, and Islam — the Pseudo-Dionysian corpus is its Christian branch, and Maimonides reaches negative theology through the Islamic Neoplatonic tradition — so apparent tri-tradition convergence may be one Neoplatonic source counted three times.
 
 **The recursive bind on framework-independence.** The question *is this observation framework-shaped?* is itself framework-shaped. A reviewer applying the criterion is using their own framework's categories to decide what counts as despite-commitments observation. The bind is genuine; the response is asymptotic, not foundational — adversarial cross-framework auditing tightens the calibration without eliminating the recursion.
 

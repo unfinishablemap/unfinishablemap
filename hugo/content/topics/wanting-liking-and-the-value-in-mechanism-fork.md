@@ -18,7 +18,7 @@ description: Berridge's wanting/liking dissociation refutes a single value-curre
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 19:20:29+00:00
+last_deep_review: 2026-07-16 19:27:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

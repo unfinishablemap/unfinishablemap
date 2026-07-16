@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-06-03 12:00:00+00:00
+ai_modified: 2026-07-16 16:51:06+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: Consciousness cannot fully know itself—six thinkers from divergen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 02:01:01+00:00
+last_deep_review: 2026-07-16 16:51:06+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -118,7 +118,7 @@ Three interpretations compete. The **illusion** reading: "will" is post-hoc narr
 
 ## Error Recognition and the Bootstrap Problem
 
-Schulz articulates the central insight: "Being wrong doesn't feel like anything." Beliefs function by presenting their content as true; a belief signalling "I might be false" would be doubt, not belief. Dunning-Kruger deepens this: competence in X includes the ability to distinguish good from bad X, so incompetence structurally guarantees error-blindness.
+Schulz articulates the central insight: "being wrong feels exactly like being right." Beliefs function by presenting their content as true; a belief signalling "I might be false" would be doubt, not belief. Dunning-Kruger deepens this: competence in X includes the ability to distinguish good from bad X, so incompetence structurally guarantees error-blindness.
 
 Yet we recognise errors. Recognising that belief B is wrong requires standard S against which B is judged—but S comes from the same system that produced B. External feedback partially resolves this; none eliminates circularity. Žižek notes a temporal paradox: before discovering you were wrong, you had "a belief," experienced as true. Only after correction does the prior state become "the error." We have rich access to *realising* we were wrong, none to *being* wrong—the same "feeling of being right" accompanies both states.
 
@@ -152,7 +152,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 
 **[Dualism](/tenets/#dualism)** receives support from both formal and phenomenological routes. If the self is non-physical, its systematic absence from introspective and empirical investigation reflects an ontological boundary, not merely a cognitive one. The convergence of six independent traditions—and the uniformity of introspective opacity across cognitive processes regardless of neural substrate—points beyond engineering limitation to ontological distinction. Wittgenstein's formulation, the subject as the limit of the world, maps onto interactionist dualism's central insight.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the constitutive thesis. If consciousness causally influences the physical world, the mechanism of that influence might be structurally hidden from the consciousness that exercises it. Libet himself took "an explicitly dualistic view" of the veto process. Epistemic emotions do causal work motivating inquiry and revision; if consciousness were epiphenomenal, why would error recognition have phenomenal character?
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the constitutive thesis. If consciousness causally influences the physical world, the mechanism of that influence might be structurally hidden from the consciousness that exercises it. Libet himself took an explicitly dualistic view of the veto process. Epistemic emotions do causal work motivating inquiry and revision; if consciousness were epiphenomenal, why would error recognition have phenomenal character?
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: if consciousness's influence affects quantum probabilities at femtosecond and molecular scales, the interaction would be too small, too fast, and too fundamental for introspection to track. The opacity would follow from the mechanism's nature.
 

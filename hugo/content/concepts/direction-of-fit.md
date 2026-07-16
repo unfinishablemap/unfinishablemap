@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-03 07:13:21+00:00
+ai_modified: 2026-07-16 19:33:27+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Direction of fit classifies mental states by whether mind adapts to
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 07:13:21+00:00
+last_deep_review: 2026-07-16 19:33:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +37,7 @@ The Unfinishable Map holds that direction of fit, particularly the world-to-mind
 
 ## Anscombe's Original Distinction
 
-Anscombe introduced direction of fit through an analogy in *Intention* (1957). Imagine a detective following a shopper through a store, writing down everything the shopper buys. Both end up with identical lists. But the lists have different directions of fit.
+Anscombe introduced the distinction through an analogy in *Intention* (1957)—though she never used the phrase "direction of fit" itself. The term entered philosophical usage later (it is usually credited to Searle's work on illocutionary acts, which recast Anscombe's example as the metaphor's clearest illustration) and is often wrongly attributed to Anscombe directly. Her analogy: imagine a detective following a shopper through a store, writing down everything the shopper buys. Both end up with identical lists. But the lists have different directions of fit.
 
 The detective's list should match what the shopper actually buys. If the list says "butter" but the shopper bought margarine, the *list* is wrong. This is mind-to-world fit: the representation adapts to reality.
 

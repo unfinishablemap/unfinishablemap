@@ -22,7 +22,7 @@ description: Apes have culture but may not know they have culture. The gap betwe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 11:00:24+00:00
+last_deep_review: 2026-07-16 18:33:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

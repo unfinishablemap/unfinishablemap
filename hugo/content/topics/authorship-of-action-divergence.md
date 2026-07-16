@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-22
-ai_modified: 2026-06-16 00:00:00+00:00
+ai_modified: 2026-07-16 19:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI iterative exploration of the choice-blindness paradigm as 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 00:00:00+00:00
+last_deep_review: 2026-07-16 19:05:00+00:00
 modified: *id001
 related_articles:
 - '[[source-attribution-divergence]]'
@@ -59,7 +59,7 @@ The decade-and-a-half following 2005 produced a substantial replication and exte
 
 **Within-condition spread.** Detection rates vary across subjects within a single condition. What drives the spread is unsettled: the Maastricht choice-blindness group has shown that memory impairment is not sufficient to produce choice blindness, so differences in memory capacity do not by themselves account for who detects the swap, leaving attention and metacognition among the candidates the data do not yet adjudicate (Sagana, Sauerland, and Merckelbach 2014). The [cluster's independence-scoring page](/topics/introspection-architecture-independence-scoring/) treats the spread itself as one of its despite-commitments anchors: standard rationality-and-choice models did not predict that detection would vary at all, and the bare existence of the spread has reached *strongly supported* tier through cross-laboratory replication, even though the predictors of an individual's position within it remain contested.
 
-**Pupillometric corroboration.** Pärnamets et al. (2015) and subsequent work showed pupil-dilation signatures distinguishing undetected swap trials from baseline at the autonomic level, even when verbal reports show no awareness of mismatch. *Something* in the subject's processing has registered the mismatch the verbal channel has not. The [pupillometric behavioural channel](/topics/pupillometry-behavioural-channel/) article develops this as a channel-level dissociation between bodily and verbal registers. The result sits at *contested but real* register: cross-laboratory replication is solid; interpretive disputes about which mismatch features the pupil tracks remain live.
+**Pupillometric corroboration.** Grassi et al. (2025) recorded pupil-dilation signatures distinguishing manipulated (swapped) trials from control trials at the autonomic level, with the pupil registering the manipulation even on trials where the verbal report showed no awareness of mismatch. *Something* in the subject's processing has registered the mismatch the verbal channel has not—evidence the authors read as covert detection rather than an outright failure to detect. The [pupillometric behavioural channel](/topics/pupillometry-behavioural-channel/) article develops this as a channel-level dissociation between bodily and verbal registers. The result sits at *contested but real* register: the autonomic dissociation is a recent finding whose interpretation—covert detection the subject declines to report, versus a lower-level surprise signal that never reaches report-eligibility—remains live.
 
 The composite picture: the original non-detection rate is robust and substantially modulable by paradigm parameters; a within-condition spread exists but its predictors are not yet settled, with memory capacity shown to be insufficient on its own to account for it; bodily signals can register mismatches the verbal channel does not flag. The findings collectively sit at *strongly supported* tier; particular interpretations of what causes the non-detection sit at *contested but real* with multiple live readings.
 
@@ -137,7 +137,7 @@ Honest scope demands explicit statement of what the case does not deliver. Three
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
-1. Pärnamets, P., Johansson, P., Hall, L., Balkenius, C., Spivey, M. J., & Richardson, D. C. (2015). Biasing moral decisions by exploiting the dynamics of eye gaze. *Proceedings of the National Academy of Sciences*, 112(13), 4170–4175.
+1. Grassi, P. R., Hoeppe, L., Baytimur, E., & Bartels, A. (2025). Restoring sight in choice blindness: pupillometry and behavioral evidence of covert detection. *Frontiers in Psychology*, 16, 1598254.
 1. Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 1. Sagana, A., Sauerland, M., & Merckelbach, H. (2014). Memory impairment is not sufficient for choice blindness to occur. *Frontiers in Psychology*, 5, 449.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.

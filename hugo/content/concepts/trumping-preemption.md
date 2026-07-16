@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-07-16 10:56:00+00:00
+ai_modified: 2026-07-16 18:00:29+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Schaffer decouples causal authority from sufficiency; the Map treat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 03:21:00+00:00
+last_deep_review: 2026-07-16 18:00:29+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-causation]]'
@@ -44,7 +44,7 @@ Trumping preemption is Jonathan Schaffer's name for a fourth species of redundan
 
 Schaffer (2000) introduces trumping with two now-standard cases. In the magicians' case, Merlin casts a spell at noon to turn the prince into a frog, and Morgana casts the very same spell hours later, that evening; the laws of magic in this world dictate that only the first spell of the day is efficacious, so the prince becomes a frog at midnight. Both spells "run their course" — there is no intervening event that blocks Morgana's spell midway — yet Merlin's is the cause because his spell was first. In the military variant, a major and a sergeant simultaneously shout "Advance!"; the troops advance because of the major's command, not the sergeant's, because rank settles which order is authoritative when orders coincide.
 
-What makes these cases diagnostic of a new category is what they break. They are not cases of early preemption (no physical event cuts the second process off before it produces the effect). They are not cases of late preemption (the "backup" process does not merely fail at the last moment; it completes). And they are not quite symmetric overdetermination, because we still have a clear intuition that one of the two processes *is* the cause and the other is not. Counterfactual necessity fails for both candidates (had Merlin not cast, Morgana's would have sufficed; and vice versa), yet the asymmetry in our causal judgement survives.
+What makes these cases diagnostic of a new category is what they break, measured against the standard taxonomy of redundant causation (Paul and Hall 2013). They are not cases of early preemption (no physical event cuts the second process off before it produces the effect). They are not cases of late preemption (the "backup" process does not merely fail at the last moment; it completes). And they are not quite symmetric overdetermination, because we still have a clear intuition that one of the two processes *is* the cause and the other is not. Counterfactual necessity fails for both candidates (had Merlin not cast, Morgana's would have sufficed; and vice versa), yet the asymmetry in our causal judgement survives.
 
 Schaffer's (2000) diagnosis is that causation admits of a further mode — one in which a law-like rule ranks the contending processes. He treats the Merlin case as showing that sufficiency-plus-counterfactual-dependence cannot be the whole story about causation.
 
@@ -66,7 +66,7 @@ Before importing the structure into psychophysics, one disanalogy should be flag
 
 The exclusion problem in its canonical Kimian form (Kim 1998) turns on physical sufficiency. If the physical base of an experience is causally sufficient for a physical effect, there seems to be no work left for the experience itself to do. Without a principled alternative, the dualist is pushed toward either epiphenomenalism (the experience does not cause anything) or systematic overdetermination (the experience and its base both cause the same effect).
 
-The exclusion pressure that motivates this template is not universally granted. A substantial line of work argues the exclusion problem dissolves before any special dualist structure is needed. Kroedel (2015) argues that where the psychophysical laws support the right counterfactuals, mental events counterfactually depend on — and so cause — physical effects without competing with their bases; Bennett (2003) supplies a counterfactual test on which non-reductive mental causation does not amount to objectionable overdetermination; List and Stoljar (2017) press that the exclusion principle bites only once "distinctness" is read in a way the dualist can decline; and interventionist treatments in the Woodward tradition (pressed by Baumgartner) locate mental causes as difference-making control variables with no exclusion competition to resolve. If any of these succeeds on its own terms, the exclusion pressure trumping is built to answer may not be live, and the template would be answering a question already closed. The Map does not claim to refute these dissolutions inside their own frameworks; it marks them as genuine rivals and notes that the trumping template earns its keep only for a dualist who — like Saad — takes the surviving problem to be the preservation of *observable* closure rather than the securing of counterfactual dependence. Kroedel's counterfactual dualism is the nearest such competitor, and Saad himself cites it in situating his own view.
+The exclusion pressure that motivates this template is not universally granted. A substantial line of work argues the exclusion problem dissolves before any special dualist structure is needed. Kroedel (2015) argues that where the psychophysical laws support the right counterfactuals, mental events counterfactually depend on — and so cause — physical effects without competing with their bases; Bennett (2003) supplies a counterfactual test on which non-reductive mental causation does not amount to objectionable overdetermination; List and Stoljar (2017) press that the exclusion principle bites only once "distinctness" is read in a way the dualist can decline; and interventionist treatments in the Woodward tradition locate mental causes as difference-making control variables with no exclusion competition to resolve (Baumgartner presses the contrary — that interventionism, strictly applied, does not rescue non-reductive causation, keeping the exclusion pressure live). If any of these succeeds on its own terms, the exclusion pressure trumping is built to answer may not be live, and the template would be answering a question already closed. The Map does not claim to refute these dissolutions inside their own frameworks; it marks them as genuine rivals and notes that the trumping template earns its keep only for a dualist who — like Saad — takes the surviving problem to be the preservation of *observable* closure rather than the securing of counterfactual dependence. Kroedel's counterfactual dualism is the nearest such competitor, and Saad himself cites it in situating his own view.
 
 Trumping supplies a third option. If a psychophysical law selects the experience as authoritative — while leaving the physical base counterfactually sufficient — then the experience can be *the* cause without the base becoming inert and without duplicate causation. The physical base is not cut off; it is not epiphenomenal either; it is simply not the authoritative cause when an experience with the matching causal profile is present.
 

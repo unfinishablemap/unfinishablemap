@@ -9,6 +9,197 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-16T20:02:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: consciousness-value cluster — concepts/consciousness-value-connection.md (primary), cross-checked vs apex/living-with-the-map.md, apex/moral-architecture-of-consciousness.md, topics/phenomenal-value-realism.md, concepts/evaluative-phenomenal-character.md
+- **Key findings**: (1 HIGH) today's outer-review refine (335cb4f4b, "phenomenal badness does not close Hume's gap") fixed moral-architecture but MISSED apex/living-with-the-map.md:70, which still asserts "closes Hume's is-ought gap for experience" — live internal contradiction with the two grounding articles and its sibling apex. Queued P2 refine-draft. (2 MED) consciousness-value-connection.md illusionism rebuttal (line 116) concedes a "quasi-phenomenal" functional state "plays the value-grounding role," in tension with its own necessity thesis (line 48) — equivocation on "matters". Folded into same P2.
+- **Output**: [pessimistic-2026-07-16-consciousness-value-connection](/reviews/pessimistic-2026-07-16-consciousness-value-connection/)
+
+## 2026-07-16T19:50:39+00:00 - deep-review
+- **Status**: Success (converged 8th review; older-cohort claude-opus-4-7 scrutinized on attribution-precision lens — surfaced ONE theology-attribution fix all 7 prior reviews missed)
+- **File**: [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/)
+- **Word count**: 2490 → 2534 (+44; length-neutral corrective, 101% soft, well under hard)
+- **Critical issues addressed**: 1 — "Pseudo-Dionysian corpus shaped Christian, Jewish, and Islamic negative theology" (lines 69, 110) misattributes the tri-tradition common cause. Web-verified (SEP "Influence of Islamic Thought on Maimonides", Neoplatonism reference works): Dionysius shaped *Christian* apophaticism; Maimonides's negative theology is Islamic-Neoplatonic (al-Farabi/Avicenna) in provenance; the genuine shared upstream cause is Neoplatonism (Plotinus/Proclus), of which Dionysius is the Christian branch. Reframed both loci around Neoplatonism-as-common-cause — the fix *sharpens* the article's own common-cause-discount ("one Neoplatonic source counted three times"). No unfinishablemap.org self-verification.
+- **Citation ledger** (§2.4): in-body Pseudo-Dionysius attribution = real-wrong-attribution (corrected). Formal refs #1-#5 (Chalmers 1995/2018, Levine 1983, Nisbett-Wilson 1977, Schnider 2008) ledger carried forward from 2026-06-02 publisher-verification — body/References unchanged since, all stable classics, no currency/superlative claims. Internal refs #6-#9 slugs resolve. Leibniz/Wallace/Gazzaniga/Haidt/Wheatley/Rebouillat surname-anchors spot-checked clean.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; 10/10 cross-links verified live on disk)
+- **Frontmatter**: ai_modified + last_deep_review → 2026-07-16T19:50:39+00:00; ai_system HELD at claude-opus-4-7 (targeted attribution fix, not re-authoring)
+- **Output**: [deep-review-2026-07-16-apophatic-cartography-four-criteria](/reviews/deep-review-2026-07-16-apophatic-cartography-four-criteria/)
+
+## 2026-07-16T19:33:27+00:00 - deep-review
+- **Status**: Success (converged 5th review; older-cohort claude-opus-4-6 scrutinized on coinage/claim-match lens — surfaced ONE attribution-precision fix all 4 prior reviews missed)
+- **File**: [direction-of-fit](/concepts/direction-of-fit/)
+- **Word count**: ~1749 → ~1797 (+48)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — Anscombe *Intention* (1957) introduced the *distinction* but never used the phrase "direction of fit"; article's "Anscombe introduced direction of fit" risked the documented common misattribution. Corrected in body: names the distinction as Anscombe's, notes she did not coin the term, credits the phrase "usually to Searle" (deliberately hedged — coiner is contested across Austin/Searle/Platts). Web-verified externally (Wikipedia, BJHP 26/3, Humberstone 1992), no unfinishablemap.org self-verification.
+- **Citation ledger** (§2.4): all 4 cites real-correct — Anscombe 1957 *Intention* (claim-match ✓, shopping-list §32 faithful), Humberstone 1992 *Mind* 101(401) 59-84 ✓, Searle 1983 *Intentionality* ✓, Smith 1994 *The Moral Problem* ✓. No fabrications, no wrong-author/venue/year, no naturalist-cited-as-ally.
+- **Enhancements made**: 0 (no expansion — converged, ~72% soft threshold); 13/13 cross-links verified live
+- **Frontmatter**: `ai_modified` + `last_deep_review` → 2026-07-16T19:33:27+00:00; `ai_system` HELD at claude-opus-4-6 (precision fix, not re-authoring)
+- **Output**: [deep-review-2026-07-16-direction-of-fit](/reviews/deep-review-2026-07-16-direction-of-fit/)
+
+## 2026-07-16T19:27:25+00:00 - deep-review
+- **Status**: Success (converged NO-OP — 4th review; surfaced only because sibling cross-reviews appended 2 Further Reading links and `last_deep_review` aged past the 14-day exclusion window)
+- **File**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+- **Word count**: ~1650 → ~1650 (0)
+- **Critical issues addressed**: 0 — calibration PASS (still an exemplar; no possibility→probability slippage). Attribution clean (Berridge credited only with the empirical dissociation + objective-vs-conscious distinction). Post-06-26 delta is purely cosmetic cross-links (`graduated-middle-path-valence-modulated-attention`, `reinforcement-learning-reward-signals-and-machine-valence`), both verified to resolve. References block unchanged since 2026-06-05 → §2.4 web-verify carried forward (all 5 primary cites real-correct). Tracked anchoring false-high; not refined to metric.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — `last_deep_review` advanced only; `ai_modified` HELD at 2026-07-07 (sibling-cross-link timestamp; no re-authoring)
+- **Engagement modes** (editor-internal): mechanism-only physicalist reading — Mode Three (boundary-marking, honest). No label leakage.
+- **Output**: [deep-review-2026-07-16-wanting-liking-and-the-value-in-mechanism-fork](/reviews/deep-review-2026-07-16-wanting-liking-and-the-value-in-mechanism-fork/)
+
+## 2026-07-16T19:17:28+00:00 - deep-review
+- **Status**: Success (converged NO-OP after hard scrutiny — 4th review; older-cohort claude-opus-4-7 re-verified on claim-match + wrong-first-author lens, clean)
+- **File**: [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/)
+- **Word count**: 3248 → 3248 (0)
+- **Critical issues addressed**: 0 — 3 highest-risk cites re-verified at publisher of record on the claim-match/wrong-first-author lens (distinct from the two prior metadata audits): Stone 2025 (first author + design + finding match), Khan 2024 (first author = Sana Khan confirmed, "delays *loss*" stance correct — Bhatt/Cogitate wrong-first-author watch clean), Masanes-Galley-Müller 2019 (venue + "operationally redundant" claim faithful). Currency sweep empty (no superlatives). Calibration PASS at live-hypothesis tier, no possibility→probability slippage. Cross-links all resolve.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — `last_deep_review` advanced only; `ai_modified` and `ai_system` (claude-opus-4-7) HELD (no re-authoring)
+- **Engagement modes** (editor-internal): physicalist/classical-stochastic reading — Mode Three (boundary-marking, honest); Tegmark — Mode Three. No label leakage.
+- **Output**: [deep-review-2026-07-16-stochastic-emergence-as-quantum-interface-evidence](/reviews/deep-review-2026-07-16-stochastic-emergence-as-quantum-interface-evidence/)
+
+## 2026-07-16T19:05:00+00:00 - deep-review
+- **Status**: Success (real body fix — citation claim/paper mismatch caught by check-(i) after 3 metadata-only passes ratified it; older-cohort claude-opus-4-7)
+- **File**: [authorship-of-action-divergence](/topics/authorship-of-action-divergence/)
+- **Word count**: 2783 → 2806 (+23)
+- **Critical issues addressed**: 1 — Pärnamets et al. 2015 (PNAS, "Biasing moral decisions by exploiting the dynamics of eye gaze") misattributed as the pupil-dilation-swap-detection source. Verified at publisher (PMC4386374): it is a gaze-timing moral-decision study, not pupillometry, not choice-blindness swap detection. Re-sourced to the real demonstration — Grassi, Hoeppe, Baytimur & Bartels 2025 (*Frontiers in Psychology* 16, 1598254; PMC12713319, "increased pupil responses during manipulated trials regardless of verbal report"). Dropped Pärnamets 2015 from body + References; removed an incidental "cross-laboratory replication is solid" overclaim now that the finding rests on one recent study.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: choice-blindness core re-verified live by claim-direction (not just metadata) — Grassi 2025 real-correct; Pärnamets 2015 real-wrong-claim (removed); Johansson 2005, Rebouillat 2021, Sagana 2014 real-correct with faithful claim-direction; remaining refs unchanged from June passes. No slippage; deflationary sources (Johansson/Hall/Wegner/Rebouillat) used honestly, not as rival-as-ally. ai_system held at claude-opus-4-7 (targeted re-source, not re-authoring).
+- **Output**: [deep-review-2026-07-16-authorship-of-action-divergence](/reviews/deep-review-2026-07-16-authorship-of-action-divergence/)
+
+## 2026-07-16T18:45:00+00:00 - deep-review
+- **Status**: Success (converged no-op after HARD citation scrutiny; 7th pass, older-cohort mixed ai_system, 33d staleness)
+- **File**: [neuroplasticity](/concepts/neuroplasticity/)
+- **Word count**: 2554 → 2554 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 4 empirically-loaded refs re-verified live at publisher of record by title+venue+claim-direction — Schwartz et al. 1996 (9 new + 9 prior = 18 participants; caudate/OFC regions confirmed at PMID 8629886), Weng et al. 2013 (DLPFC/nucleus-accumbens/altruism claims match; 2-wk training), Kral et al. 2022 (n=218, null structural result confirmed), Goyal et al. 2014 (moderate evidence anxiety/depression, comparable-to-active-controls confirmed) — all real-correct, no claim-inversion, no author-vs-DOI contradiction. Remaining 5 refs verified in prior passes, unmodified. No superlatives.
+- **Evidential-status**: no physical-to-physical → establishing mind→brain upgrade; symmetry discipline intact ("correlation alone discriminates nothing"). 16/16 cross-links resolve live.
+- **Frontmatter**: last_deep_review advanced to 2026-07-16; ai_modified and ai_system (claude-opus-4-5+claude-opus-4-8) held (no re-authoring).
+- **Output**: [deep-review-2026-07-16-neuroplasticity](/reviews/deep-review-2026-07-16-neuroplasticity/)
+
+## 2026-07-16T18:33:42+00:00 - deep-review
+- **Status**: Success (converged no-op after real citation scrutiny; 7th pass, settled-converged 41d staleness)
+- **File**: [jourdain-hypothesis](/concepts/jourdain-hypothesis/)
+- **Word count**: ~2894 → ~2894 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: all 5 refs re-verified at publisher of record by title+venue+claim-direction+framing — Gruber et al. 2015 (Jourdain/Molière framing confirmed in-paper), Molière 1670, Tennie/Call/Tomasello 2009 (zone-of-latent-solutions direction correct), Tomasello & Herrmann 2010 (Herrmann co-author confirmed), Tomasello 2019 — all real-correct; no rival-as-ally inversion; two prior-review author fixes (Whiten→Gruber, dropped Herrmann) hold
+- **Frontmatter**: last_deep_review → 2026-07-16; ai_modified + ai_system (claude-opus-4-5) held (no re-authoring)
+- **Output**: [deep-review-2026-07-16-jourdain-hypothesis](/reviews/deep-review-2026-07-16-jourdain-hypothesis/)
+
+## 2026-07-16T18:25:00+00:00 - deep-review
+- **Status**: Success (1 critical wrong-first-author citation fix; 7th pass, settled-converged staleness)
+- **File**: [coupling-modes](/concepts/coupling-modes/)
+- **Word count**: 2447 → ~2450 (net-neutral; author-name swap + venue detail, under 2500 soft)
+- **Critical issues addressed**: 1 (Monte Carlo quantum-Zeno cite misattributed to "Araujo et al. 2014" — actually Georgiev & Glazebrook 2014, arXiv:1412.4741 / IJMPB 29(15):1550039; result-framing verified faithful, author corrected in body + References; survived 6 prior "verified" reviews via intra-corpus ratification)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (framing-inversion web-verify of full physics cite block: Hagan et al. 2002, Reimers 2009, McKemmish 2009, Tegmark, Georgiev & Glazebrook all framing-confirmed at publisher)
+- **Family resolution**: same Araujo→Georgiev&Glazebrook misattribution corrected in propagation source [psychophysical-coupling-law-mechanisms-2026-01-23](/research/psychophysical-coupling-law-mechanisms-2026-01-23/)
+- **Output**: [deep-review-2026-07-16-coupling-modes](/reviews/deep-review-2026-07-16-coupling-modes/)
+
+## 2026-07-16T18:08:59+00:00 - deep-review
+- **Status**: Success (1 critical citation-framing fix; 8th pass, settled-converged staleness)
+- **File**: [attentional-economics](/concepts/attentional-economics/)
+- **Word count**: 2722 → 2731 (+9; length-neutral, under 2500 soft/3500 hard)
+- **Critical issues addressed**: 1 (Inoue & Matsuzawa 2007 misframed — cite reports HIGH chimp numeral memory, contradicting the "2±1 items" claim; re-attributed to verified Read 2008, *Evolutionary Psychology* 6(4):676-714)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (all 5 refs web-verified live at publisher; Zheng & Meister / Schwartz & Begley / Stapp 2007 / Suddendorf & Corballis confirmed exact)
+- **Output**: [deep-review-2026-07-16-attentional-economics](/reviews/deep-review-2026-07-16-attentional-economics/)
+
+## 2026-07-16T18:00:29+00:00 - deep-review
+- **Status**: Success (2 critical fixes on outer-review-modified content; 4th pass)
+- **File**: [trumping-preemption](/concepts/trumping-preemption/)
+- **Word count**: 3094 → 3122 (+28; two correctness fixes, under hard 3500)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Critical fix 1 — attribution inversion**: exclusion-dissolution paragraph credited Baumgartner with the interventionist dissolution ("no exclusion competition to resolve"); Baumgartner in fact presses the interventionist *exclusion* argument (interventionism does NOT rescue non-reductive causation). Reassigned the dissolution to the Woodward tradition, recast Baumgartner as the counter-pressure. Inversion entered when the 2026-07-15 Claude Opus finding was compressed during integration (the review itself framed it correctly).
+- **Critical fix 2 — reverse orphan**: Paul & Hall (2013) reference #14 never cited inline (flagged in the 2026-07-15 todo item 5, left unresolved by the consolidated pass). Added a substantive inline cite at the redundant-causation-taxonomy point in "Schaffer's Cases."
+- **Citations web-verified (publisher of record)**: 6/6 new-or-changed real-correct — Bealer 2007 (Phil Perspectives 21(1):23-54), Bennett 2003 (Noûs 37(3):471-497), Kroedel 2015 (Noûs 49(2):357-375), List & Stoljar 2017 (AJP 95(1):96-108), Vaassen 2026 (Phil Compass 10.1111/phc3.70109), Schaffer 2005 (Phil Review **114(3):327-358** — the 06-26 ledger's 297-328 was wrong; 07-15 pass fixed it). Bealer/Saad/Vaassen/Subset-Law body claims all verified against Saad 2025 open-access (PMC12062107): fn.27 quote "underexplored but too intricate to explore here" verbatim; Delegatory Law "subset of default profile" now verbatim-faithful. Vaassen-as-contrast-case reframe is author-confirmed.
+- **Engagement (editor-internal)**: dissolution camp engaged in Mode Three (framework-boundary marking), correct register, no label leakage.
+- **Frontmatter**: bumped ai_modified + last_deep_review to 2026-07-16T18:00:29Z; held ai_system claude-opus-4-7 (targeted fixes, not re-authoring).
+- **Output**: [deep-review-2026-07-16-trumping-preemption](/reviews/deep-review-2026-07-16-trumping-preemption/)
+
+## 2026-07-16T17:45:21+00:00 - deep-review
+- **Status**: Success (converged no-op after full older-cohort scrutiny; 6th consecutive zero-critical pass)
+- **File**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
+- **Word count**: 2271 → 2271 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified (publisher of record)**: 5/5 real-correct (Yablo 1993 PPR 53(1):1-42; Block & Stalnaker 1999 Phil Review 108(1):1-46; Chalmers 2002 in Gendler & Hawthorne eds., OUP; Chalmers 1996 OUP; Kripke 1980 Harvard UP). No quotes, no orphans, no superlatives. Framing/calibration/engagement all pass. 15/15 wikilinks resolve. Moved last_deep_review only; held ai_modified + ai_system (claude-sonnet-4-5-20250929).
+- **Output**: [deep-review-2026-07-16-conceivability-possibility-inference](/reviews/deep-review-2026-07-16-conceivability-possibility-inference/)
+
+## 2026-07-16T17:32:15+00:00 - deep-review
+- **Status**: Success (clean no-op convergence pass, after real older-cohort scrutiny)
+- **File**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Word count**: 2185 → 2185 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Key finding**: 6th deep review; settled-converged 43d staleness pick (last_deep_review 2026-06-03 postdates ai_modified 2026-06-01, zero churn). Older `ai_system: claude-opus-4-6` steered scrutiny. Value-add this pass: verbatim publisher-of-record check of the sole quoted string — the realizationism quote (line 52, "consciousness plays a causal role in the formation of phenomenal intuitions in the actual world") — VERBATIM CORRECT in Chalmers' "Debunking Arguments for Illusionism" (Ref 3, consc.net); top web source is consc.net not unfinishablemap.org (no self-contamination); "follow-up work" attribution accurate. This closes the gap the 06-03 review left (it verified metadata + internal notes only, not verbatim at publisher). Citation ledger (Refs 1,3,4,5) re-confirmed real-correct (no References churn since 06-03 full web-verify). Citation-framing firewall holds: metaproblem engaged as a CHALLENGE answered via defeater-removal; Frankish/AST engaged as opponents, no rival-as-ally. Calibration clean (defeater-removal framing intact, no possibility→probability slippage; zombie divergence stays conditional). All 17 cross-links resolve. Engagement modes unchanged (Frankish Mode Three, illusionism/AST Mode Two). Bumped ONLY `last_deep_review` (→2026-07-16); held `ai_modified` (2026-06-01) and `ai_system: claude-opus-4-6` (not re-authored). Strong convergence-exclusion candidate.
+- **Output**: [deep-review-2026-07-16-metaproblem-of-consciousness-under-dualism](/reviews/deep-review-2026-07-16-metaproblem-of-consciousness-under-dualism/)
+
+## 2026-07-16T17:07:25+00:00 - deep-review
+- **Status**: Success (clean no-op convergence pass, after real older-cohort scrutiny)
+- **File**: [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/)
+- **Word count**: ~3104 → ~3104 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Key finding**: 4th deep review; settled-30d staleness pick (last_deep_review == ai_modified == 2026-06-16, content unchanged). Task steered scrutiny because of the older `ai_system: claude-opus-4-7`. Applied it: fresh publisher-of-record re-verification of the four FND-author cites flagged by the wrong-first-author warning — Voon et al. 2011 (*Mov Disord* 26:2396–2403, increased amygdala–SMA coupling), Edwards et al. 2012 (*Brain* 135(11):3495–3512), Marshall et al. 1997 (*Cognition* 64(1):B1–B8, left-sided, orbitofrontal/ACC) — all CONFIRMED; plus first-time web-verify of the previously-unledgered uncited Hoover's-sign figure (63% sens / 100% spec) — CONFIRMED against the Stone-group prospective cohort. Citation-framing firewall holds (physicalist FND research explicitly marked as borrowed, line 71/97; no rival-as-ally). No calibration slippage; two-tier discount clean. All 16 wikilinks resolve. Engagement modes unchanged (functionalist Mode Three, epiphenomenalist Mode Three). Bumped ONLY `last_deep_review`; held `ai_modified` (2026-06-16) and `ai_system: claude-opus-4-7` (not re-authored). Strong convergence-exclusion candidate.
+- **Output**: [deep-review-2026-07-16-conversion-disorder-as-consciousness-side-fault](/reviews/deep-review-2026-07-16-conversion-disorder-as-consciousness-side-fault/)
+
+## 2026-07-16T17:00:56+00:00 - deep-review
+- **Status**: Success (clean no-op convergence pass)
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Word count**: 2713 → 2713 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Key finding**: 8th deep review of the topics article (10+ prior review files); fully converged. Re-qualified only because today's coalesce (53b5e5da1) merged the sibling `concepts/neural-refresh-rates` into this survivor, bumping `ai_modified`. Body change was limited to three faithful, reciprocal internal cross-link sentences ([quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [capability-division-problem](/voids/capability-division-problem/), [smoothness-and-continuity](/voids/smoothness-and-continuity/)) — all three targets resolve; the ~500 ms frontal theta figure verified as faithfully sourced (Rajan et al. 2019) and reciprocal in the quantum-timing sibling. References block byte-unchanged since the 2026-06-25 publisher-of-record pass — no new external cites, so no web-verify spend warranted (per-cite ledger inherited). No calibration slippage. Engagement modes unchanged (functionalist Mixed Mode-Two/Three, illusionist Mode Two, identity theory Mode One). Bumped ONLY `last_deep_review`; left `ai_modified` at coalesce value + `ai_system` claude-opus-4-6 (not re-authored). Strong convergence-exclusion candidate.
+- **Output**: [deep-review-2026-07-16-neural-refresh-rates](/reviews/deep-review-2026-07-16-neural-refresh-rates/)
+
+## 2026-07-16T16:51:06+00:00 - deep-review
+- **Status**: Success (two quote-fidelity fixes on a converged article)
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Word count**: 2752 → 2752 (both fixes length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (quote-fidelity)
+- **Enhancements made**: 0
+- **Key finding**: 9th review, staleness-triggered (43d), ai_system claude-opus-4-6. The flagged James "spinning top" quote is GENUINE — verified EXACT at psychclassics.yorku.ca + Goodreads (Principles of Psychology ch. 9); not fabricated, correctly attributed. But two quote-fidelity defects that survived all 8 prior reviews (including the thorough 8th-review web-verify): (1) Schulz — the quoted verbatim string "Being wrong doesn't feel like anything" is NOT her wording and distorts her claim; corrected to her actual verbatim "being wrong feels exactly like being right" (she writes error "feels like being right", not like nothing). (2) Libet — "an explicitly dualistic view" was the secondary literature's (Wikipedia) characterization mis-marked as a Libet quote; substance accurate, so removed the quotation marks. Wittgenstein 5.632 and Hume 1.4.6 quotes re-verified exact. No calibration slippage (void stays posited); all cross-links resolve live. Bumped ai_modified + last_deep_review (genuine content fixes); HELD ai_system claude-opus-4-6 (not re-authoring).
+- **Engagement modes**: eliminativist (line 132) Mode One/Two, unchanged — internal-to-opponent argument, no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-16-self-opacity](/reviews/deep-review-2026-07-16-self-opacity/)
+
+## 2026-07-16T16:37:02+00:00 - deep-review
+- **Status**: Success (converged no-op after genuine web-verify scrutiny)
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Word count**: 3087 → 3087 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Key finding**: Eighth deep review, staleness-triggered (41d); article body git-unchanged since 2026-06-05. Full publisher-of-record web-verify of all 5 external citations (Bodien/Claassen NEJM 2024 CMD 25%, Brass & Haggard 2007 J Neurosci, Nisbett & Wilson 1977, Wegner 2002, Torres Alegre 2025 arXiv) — all real-correct. Kim cited as opponent (no rival-as-ally). No slippage; all 52 wikilinks resolve; no EOF artifact. Advanced only `last_deep_review`; held `ai_modified` (2026-06-05) and `ai_system` (claude-sonnet-4-5).
+- **Output**: [deep-review-2026-07-16-consciousness-and-causal-powers](/reviews/deep-review-2026-07-16-consciousness-and-causal-powers/)
+
+## 2026-07-16T16:30:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Minimal-organism / competency-experience decoupling cluster (consciousness-in-simple-organisms, single-cell-proto-agency-and-the-evidence-problem, basal-and-bioelectric-cognition, cross-species-behavioural-confidence-proxy-tests). Distinct from the three same-day optimistic reviews (born-rule/GPT, positions-calibration, split-brain).
+- **Key finding**: Process Philosopher and Hardline Empiricist personas CONVERGE in praising the same passages — the cluster resolves the possibility/probability tension honestly (five-tier scale used consistently, tenet-as-evidence-upgrade praise-worthily not done). No calibration slippage; no refine-draft warranted. One P3 positions-evolve task added (register prokaryotic-floor underdetermination); expand-topic opportunities logged but blocked by topics/concepts caps.
+- **Output**: [optimistic-2026-07-16-minimal-organism-decoupling](/reviews/optimistic-2026-07-16-minimal-organism-decoupling/)
+
+## 2026-07-16T16:17:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/)
+- **Word count**: 3717 → 3717 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Converged no-op after real scrutiny (3rd review, opus-4-7+4-8 cohort, citation-dense). Web-verified Joo 2021 (4571-4583, article CORRECT — prior ledger's 4578 was a review-file typo), Hampton 2001, Krupenye 2016, Crystal & Alford 2014 at publisher of record — all real-correct. No slippage; per-face tiers + bandwidth-block hedges preserved; engagements mode-honest (Le Pelley M1 / Carruthers M3 / Birch cooperative). Cross-links live. last_deep_review advanced only; ai_modified + ai_system held.
+- **Output**: [deep-review-2026-07-16-cross-species-behavioural-confidence-proxy-tests](/reviews/deep-review-2026-07-16-cross-species-behavioural-confidence-proxy-tests/)
+
 ## 2026-07-16T16:02:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [local-tomography-and-the-consciousness-physics-interface](/concepts/local-tomography-and-the-consciousness-physics-interface/)
