@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-06-22
 human_modified: null
-ai_modified: 2026-07-16T05:28:00+00:00
+ai_modified: 2026-07-16T11:20:58+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -200,7 +200,7 @@ This synthesis draws on:
 - [[ensemble-level-epiphenomenalism|Ensemble-Level Epiphenomenalism]] — The route-by-route statement of the worry and the trumping / minimum-outside-corridor escapes
 - [[born-rule-and-the-consciousness-interface|The Born Rule and the Consciousness Interface]] — The corridor / minimum-outside-corridor / trumping taxonomy and the experimental programmes bearing on each
 - [[selection-only-mind-influence|Selection-Only Mind-Influence]] — Information-theoretic limits on what a single-event selection channel can transfer
-- [[causal-consistency-constraint|The Causal Consistency Constraint]] — Why no-signalling forces Born-preservation on the default reading
+- [[causal-consistency-constraint|The Causal Consistency Constraint]] — Why no-signalling *under purification* forces Born-preservation on the default reading
 - [[post-decoherence-selection|Post-Decoherence Selection]] — How relocating selection after decoherence sets aside the timing precondition this article assumes
 - [[trumping-preemption|Trumping Preemption]] — The authority-over-trajectories reading that answers the worry off the statistical axis
 - [[transactional-interpretation-of-quantum-mechanics|The Transactional Interpretation]] — The offer/confirmation handshake and Kastner's pre-spacetime possibility realm, borrowed as a Born-preserving venue for actualization-selection

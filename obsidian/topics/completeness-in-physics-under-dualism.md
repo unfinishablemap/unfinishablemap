@@ -4,7 +4,7 @@ description: "Physics is complete about structure but silent on actuality. Prope
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-07-09T22:25:39+00:00
+ai_modified: 2026-07-16T11:20:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ But "structurally finished" is not "ontologically finished." Stapp's (2005) refi
 
 This is what "partial but complete" means. Physics is complete within its domain—structure and statistics—while being partial about what lies at the domain's boundary: the emergence of definite actuality from quantum possibility. The gap is not a deficiency in current physics. It is a boundary inherent in what physical description does. Additional physics would add more structure. It would not bridge the gap between structure and actuality, because actuality-selection is not the kind of thing structure describes.
 
-Independent evidence for this boundary comes from the [[born-rule-and-the-consciousness-interface|Born rule's peculiar status]]. Torres Alegre (2025), in a recent arXiv preprint not yet peer-reviewed, argues that, *given* the structure of a generalised probabilistic theory satisfying purification, steering, and exact no-signalling, the Born rule appears to be the unique probability assignment consistent with relativistic causality—the result fixes the rule's *form*, not its existence, and assumes probabilistic structure rather than deriving it. Yet every attempt to derive the rule from non-probabilistic premises appears to smuggle in observer-dependent assumptions. The Born rule is thus arguably form-fixed and underivable from below: a pattern that may be compatible with—though it does not uniquely demonstrate—the reading that it encodes a genuine interface between structure and something beyond structure, rather than a fundamental physical law awaiting deeper explanation.
+Independent evidence for this boundary comes from the [[born-rule-and-the-consciousness-interface|Born rule's peculiar status]]. Torres Alegre (2025), in a recent arXiv preprint not yet peer-reviewed, argues that, *given* the structure of a [[generalised-probabilistic-theories|generalised probabilistic theory]] satisfying purification, steering, and exact no-signalling, the Born rule appears to be the unique probability assignment consistent with relativistic causality—the result fixes the rule's *form*, not its existence, and assumes probabilistic structure rather than deriving it. Yet every attempt to derive the rule from non-probabilistic premises appears to smuggle in observer-dependent assumptions. The Born rule is thus arguably form-fixed and underivable from below: a pattern that may be compatible with—though it does not uniquely demonstrate—the reading that it encodes a genuine interface between structure and something beyond structure, rather than a fundamental physical law awaiting deeper explanation.
 
 ## Why the Gap Is Not God-of-the-Gaps
 
