@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T09:02:45+00:00
+ai_modified: 2026-07-16T09:15:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T09:15:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Hemispherectomy and the resilience of unified consciousness
+- **Output**: [[research/hemispherectomy-resilience-unified-consciousness-2026-07-16]]
+- **Sources consulted**: 6 (all peer-reviewed published articles: Vining 1997 Pediatrics, Pulsifer 2004 Epilepsia, Curtiss & de Bode 2003 Brain & Language, Kliemann 2019 Cell Reports, Granovetter 2022 PNAS, Kim 2022 Frontiers in Neurology)
 
 ## 2026-07-16T09:02:45+00:00 - optimistic-review
 - **Status**: Success

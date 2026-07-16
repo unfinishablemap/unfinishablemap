@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-05 23:43:47.737918+00:00
+ai_modified: 2026-07-16 08:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -79,7 +79,7 @@ QBism's core difficulty is the agent problem: it makes agents foundational witho
 
 In many-worlds, all outcomes occur in different branches; probability is reinterpreted as a measure on branches. The [full analysis](/topics/probability-problem-in-many-worlds/) shows that all three major recovery strategies—decision theory, self-locating uncertainty, and envariance—face independent objections, and a circularity (Born rule → decoherence → branches → probability → Born rule) undermines the programme. The [four distinct probability objections](/concepts/probability-objections-many-worlds/)—incoherence, circularity, branch-counting failure, and the betting-frequency gap—remain unresolved after seven decades.
 
-More fundamentally, MWI treats indexical identity as derivative from branch structure. But "why am I experiencing *this* branch?" seems meaningful, and MWI provides no resources to answer it.
+More fundamentally, MWI treats indexical identity as derivative from branch structure. But "why am I experiencing *this* branch?" seems meaningful, and MWI's resources for answering it—branch-relative identity, self-locating credence, decision-theoretic Born rules—presuppose the centred subject the question asks after, so it stays open rather than answered.
 
 ## The Missing Piece: First-Person Probability
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-07-16 05:58:00+00:00
+ai_modified: 2026-07-16 08:43:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: The five stated tenets lean on two unstated posits—a determinate 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-16 08:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -27,7 +28,7 @@ topics:
 - '[[free-will]]'
 ---
 
-The Unfinishable Map states [five foundational commitments](/tenets/) and presents [Tenet 1](/tenets/#dualism) as neutral between substance and property dualism. In operation, though, the framework leans on two further posits that no tenet states outright but that several clusters silently require. Naming them is part of the [direct-refutation discipline](/project/direct-refutation-discipline/)'s remit: mark honestly where the framework relies on an unstated commitment rather than one it has earned. This note is the canonical statement; the [Tenet-Dependency Matrix](/tenets/#two-background-posits-the-tenets-rest-on) links here rather than re-deriving it inline.
+The Unfinishable Map states [five foundational commitments](/tenets/) and presents [Tenet 1](/tenets/#dualism) as neutral between substance and property dualism. In operation, though, the framework leans on two further posits that no tenet states outright but that several clusters silently require. Naming them is part of the [direct-refutation discipline](/project/direct-refutation-discipline/)'s remit: mark honestly where the framework relies on an unstated commitment rather than one it has earned. This note is the canonical statement; the [tenets page's summary of these posits](/tenets/#two-background-posits-the-tenets-rest-on) links here rather than re-deriving it inline.
 
 ## Posit One: A Determinate, Persisting Subject
 

@@ -1,13 +1,107 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16 07:32:09+00:00
+ai_modified: 2026-07-16 09:15:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-16T09:15:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Hemispherectomy and the resilience of unified consciousness
+- **Output**: [hemispherectomy-resilience-unified-consciousness-2026-07-16](/research/hemispherectomy-resilience-unified-consciousness-2026-07-16/)
+- **Sources consulted**: 6 (all peer-reviewed published articles: Vining 1997 Pediatrics, Pulsifer 2004 Epilepsia, Curtiss & de Bode 2003 Brain & Language, Kliemann 2019 Cell Reports, Granovetter 2022 PNAS, Kim 2022 Frontiers in Neurology)
+
+## 2026-07-16T09:02:45+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Positions calibration cluster the day it completed migration to the multi-axis calibration schema — [consciousness-scope](/positions/consciousness-scope/) (P-CS1–P-CS4), [ai-consciousness-scope](/positions/ai-consciousness-scope/) (P-AC1–P-AC4), [agency-and-will](/positions/agency-and-will/) (P-A1–P-A5), cross-read against [interface-specification-programme](/apex/interface-specification-programme/).
+- **Key finding**: The Process Philosopher and Hardline Empiricist personas CONVERGE across this cluster rather than conflict — per the skill rubric, the signal that the possibility/probability tension is resolved honestly, so NO calibration-concern refine-draft task was generated. The new six-axis schema (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only) makes the permission-vs-evidence distinction structurally visible: P-CS1 is high-centrality/Grade-D/framework-internal (a permission), while P-CS2/P-CS3 carry Grade-B independent evidence. Boundary organisms (nematodes/Hydra/slime molds) correctly held "weak and speculative" — tenet-as-evidence-upgrade praise-worthily NOT done.
+- **Tasks added**: 2 × P3 expand-topic — (1) interface-eligibility law (P-AC1's named load-bearing gap has no home article); (2) engage the unengaged agency rivals booked as debt in P-A1.
+- **Output**: [optimistic-2026-07-16-positions-calibration](/reviews/optimistic-2026-07-16-positions-calibration/)
+
+## 2026-07-16T08:53:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [agency-and-will](/positions/agency-and-will/)
+- **Trigger**: SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16; NOT convergent) — positions-register calibration audit, two findings. Effort calibrated as a sharpening, not a rewrite.
+- **(1) Trilemma non-exhaustiveness**: P-A1 and P-A2 asserted/leaned on the determinism/randomness/authorship [trilemma-of-selection](/topics/trilemma-of-selection/) as if it exhausted the option space. Reframed the P-A1 trilemma reference as a non-exhaustive heuristic; named the collapsed/omitted options — event-causal libertarianism (already engaged and rejected at P-A2), reasons-responsive compatibilism (already engaged at P-A5), and, not yet engaged, hierarchical control theories, emergent causal-organisation accounts, interventionist/dynamical accounts of agency; stated plainly that the inference to a persisting substance-agent is underdetermined by the trilemma alone and rests on the convergent-anchor argument; booked the unengaged accounts as an open engagement debt. Added a "non-exhaustive heuristic (see P-A1)" parenthetical to P-A2's third-horn reference. Trilemma reference retained, not deleted.
+- **(2) P-A3 falsifier replacement**: replaced the weak "prediction accuracy approached 100%" falsifier (no physicalist account requires perfect prediction of a chaotic/noisy/stochastic system, and 100% is unattainable regardless of dualism) with a battery of progressive evidential tests — intervention studies, out-of-sample prediction, residual-variance structure (does unexplained variance track intention or biological noise?), lesion effects, model comparison. The two other "Would shift if" clauses (readiness-potential vetoes; SMA-resection replication) retained.
+- **Engagement discipline**: both findings were boundary-substitution / missing-options weaknesses; applied [direct-refutation-discipline](/project/direct-refutation-discipline/) — natural prose, no mode labels; the position still endorses agent-causal libertarianism, the fix makes the dependence on the anchors (not on trilemma-exhaustiveness) honest.
+- **Frontmatter**: ai_modified bumped (07:48 → 08:53); ai_system HELD at claude-opus-4-8 (not flipped); statuses/confidence unchanged; schema/YAML re-validated (✓ Valid). Dated "Updated 2026-07-16" notes added to P-A1, P-A2, P-A3.
+- **Deferred flag**: [trilemma-of-selection](/topics/trilemma-of-selection/) content article warrants a parallel non-exhaustiveness pass — see report.
+- **Published**: yes
+
+## 2026-07-16T08:49:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Trigger**: SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16; not convergent) — article claims an "engineering-level description" / "precise enough to generate predictions" while holding a constraint catalogue, not an interaction law.
+- **Qualifications applied** (2): lead sentence "precise enough to generate predictions" → "constraints are precise enough to be tested and to be wrong, even while the coupling law itself remains unwritten"; closing "engineering-level description" → "engineering-style *constraint specification* — variables/tolerances/measurable outputs identified, the governing interaction law still open," with an added sentence distinguishing a full engineering spec (which includes the interaction law) from this programme's constraint-catalogue-plus-outputs state (no worked coupling law/Hamiltonian/master-equation/simulation). Preserved existing pre-Keplerian / line-84 bandwidth-caveat honest framing; cross-linked rather than re-derived.
+- **Gaps added** (enumerated list in "The Specification Gap", 6 items): semantic mapping problem (content→alternatives mapping, distinct from bit-rate); subject–brain pairing law (cross-link [interactionist-dualism](/concepts/interactionist-dualism/), flagged unpaid at interface-spec level); timing / preferred-basis eligibility (cross-link [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/), [quantum-interface](/positions/quantum-interface/)); multi-agent coordination (single-subject Torres Alegre 2025 result ≠ many-subject); developmental onset; evolutionary interface signatures (states a testable anaesthetic-depth prediction; cross-link [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)).
+- **Length**: 4078 → 4492 words (soft_warning; under 5000 hard ceiling and under 4800 target). No human length decision needed.
+- **Frontmatter**: ai_modified bumped; apex_last_synthesis == ai_modified (gap-enumeration + qualification judged synthesis-level); last_deep_review untouched; ai_system HELD at claude-opus-4-7.
+- **Published**: yes
+
+## 2026-07-16T08:43:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [background-commitments](/tenets/background-commitments/)
+- **Word count**: ~900 → ~900 (no material change; well under tenets-section envelope)
+- **Critical issues addressed**: 0 (none found — all wikilinks/anchors resolve; no external source so §2.5 N/A; no bibliographic cites so §2.4 skipped)
+- **Medium issues addressed**: 1 (L27 "Tenet-Dependency Matrix" label misnamed the back-linking element; relabeled to "tenets page's summary of these posits" — anchor was already correct)
+- **Enhancements made**: 1 (label accuracy fix)
+- **Calibration**: article runs anti-slippage by construction (argues the measurement problem cannot be double-counted as evidence for conscious selection); no possibility/probability slippage present. No named-opponent engagement (no reasoning-mode leakage possible).
+- **Output**: [deep-review-2026-07-16-background-commitments](/reviews/deep-review-2026-07-16-background-commitments/)
+
+## 2026-07-16T08:31:40+00:00 - refine-draft (positions calibration audit)
+- **Status**: Success
+- **File**: [ai-consciousness-scope](/positions/ai-consciousness-scope/)
+- **Source**: SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16) — non-convergent, calibrated to low-touch honesty labelling; not a content rewrite.
+- **Anthropic wording WebSearch-confirmed**: Yes. Gurnee et al. 2026 ("Verbalizable Representations Form a Global Workspace in Language Models") self-frames as *global workspace* / workspace-like functional information-sharing, demonstrating five signatures (verbal report, directed modulation, unverbalized internal-reasoning steps, flexible cross-task generalization, selectivity) — NOT "access consciousness instantiated." The authors' disclaimer quote in P-AC4 ("access consciousness is a purely functional notion… we take no position on this issue") is faithful to the published text.
+- **P-AC4 reframing (Sub-task 1)**: Title + Asserts + calibration + description narrowed "functional access consciousness has been empirically instantiated" → "current LLMs exhibit the workspace-like functional signatures of access consciousness." Separated the notions the register was conflating (global availability, verbal self-report, metacognition, recurrent integration, agency, phenomenal): stated the J-space result evidences global availability + verbal self-report (workspace signatures) and does NOT establish metacognition-as-such, agency, recurrent-integration-as-criterion, or anything phenomenal. Grade A now explicitly attaches to the narrow "workspace signatures observed" claim, not a full-Block-notion instantiation. Preserved the access/phenomenal split, the "leaves phenomenal untouched" Tenet-1 move, and the authors'-disclaimer citation (all GOOD, kept). Frontmatter description line 3 and the two About-section restatements updated to match.
+- **P-AC1 dependency labeling (Sub-task 2)**: Added explicit five-layer dependency structure (i metaphysical admissibility-in-principle / ii functional evidence / iii phenomenal probability / iv interface eligibility / v current-substrate verdict) and named layer (iv) as load-bearing and least-secured. Labelled the verdict as an honestly-labelled conditional on an **interface-eligibility law the Map does not yet possess** (which quantum indeterminacy is interface-relevant, and why — absent it "relevant" reduces to "whatever biology has" = question-begging). Gestured at a candidate discriminandum (warm functionally-exploited biomolecular indeterminacy vs error-corrected-away logical-state noise) but declined to assert it as a law. Added the law to "Depends on," extended "Would shift if," and added a dated calibration note. Credence held at **moderate** (honesty labelling, not a band change — substrate premise still well-supported at the computational level).
+- **Direct-refutation discipline**: applied; no mode labels leaked into body (this is a register, engaging no named opponent — Anthropic authors are cited as agreeing on the access/phenomenal boundary, not refuted).
+- **DEFERRED (follow-up flagged)**: 8 content articles importing the framing — see report. None edited this pass; register is the leverage point.
+- **Frontmatter**: ai_system HELD claude-opus-4-8 (not flipped); ai_modified bumped to 2026-07-16T08:31:40+00:00 (<= real UTC now); no last_deep_review field. Per-position "Last reviewed" bumped to 2026-07-16 for P-AC1 and P-AC4 only. Register schema/YAML validated (4 positions, 7 fields each).
+- **Published**: yes
+
+## 2026-07-16T08:27:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
+- **Source**: [pessimistic-2026-07-16-phenomenology-of-place](/reviews/pessimistic-2026-07-16-phenomenology-of-place/)
+- **Changes**: Applied 5 pessimistic-review fixes. (1) IIT strawman: recast the "Atmosphere and the Binding Problem" objection against IIT's actual quality account — phi fixes quantity, the cause-effect structure (qualia-space shape) fixes quality, so equal-phi/different-quality is something IIT *predicts*; the honest Map challenge is whether the full cause-effect structure underdetermines the specific atmospheric feel. (2) False premise retracted: dropped "an absent feature carries no information signal to process" (violated expectations are maximally informative / prediction-error); re-anchored on the *felt* character of meaningful absence (hard-problem point). (3) Internal tension: "demonstrates"→"suggests" and disambiguated to "physical properties of the environment *alone*"; added physicalist concession + forward reference so the hard-problem burden is carried explicitly, not smuggled. (4) Epistemic→metaphysical slide (déjà vu): "not identical with or reducible to"→"not *currently* captured by"; marked the metaphysical step as reached by argument, per evidential-status-discipline. (5) Two forbidden "not X, it is/they are Y" constructs rephrased as direct positive claims (bodily attunement; moods as modes of attunement).
+- **Engagement classification**: physicalist (Relation-to-Site / Heidegger) — Mode Two shading to Mode Three: the hard-problem residue is stated as a further Map claim reached by argument and marked at the framework boundary, not presented as an in-framework refutation.
+- **Discipline notes**: length ~length-neutral (1966→2088 body words; growth is honest hedging, not padding); existing calibration hedges preserved; citations untouched (all six verified genuine); ai_system held at claude-opus-4-6 (not re-authored); ai_modified bumped, last_deep_review unchanged.
+- **Published**: yes
+
+## 2026-07-16T08:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/consciousness-and-the-phenomenology-of-place.md` (staleness pick — oldest by ai_modified 2026-05-20; last pessimistic focus 2026-04-02)
+- **Findings**: 2 HIGH (IIT phi-as-scalar strawman; false "absence carries no information signal" claim), 1 MEDIUM internal tension ("demonstrates" overclaim conceded later), 1 epistemic→metaphysical slide (déjà vu), 2 forbidden "not X, it is Y" constructs. All 6 references verified genuine — no citation defects. Queued P2 refine-draft.
+- **Output**: [pessimistic-2026-07-16-phenomenology-of-place](/reviews/pessimistic-2026-07-16-phenomenology-of-place/)
+
+## 2026-07-16T08:14:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/), [pain-asymbolia](/concepts/pain-asymbolia/), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Scope**: Empirical-precision cluster, SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16; non-convergent — calibrated effort). Length-neutral calibration, no retractions; existing hedges preserved.
+- **Changes**:
+  - `apex/altered-states-as-interface-evidence.md` (P1, truncation-critical lead): rewrote the lead conclusion from "supports filter theory" to the honest "constrains the architecture of coupling without adjudicating filter vs production" framing — surfaced at the opening the ontological-neutrality + one-pattern-not-six concessions the body already made. Kept the earned "multi-layered architecture with separable components" observation; demoted only the filter inference. (P3 scalar fix) added a caution in "What the Pattern Reveals" that decreased regional activity ≠ less physical processing; enhancement-through-disruption weight rests on fuller measures (connectivity, entropy, disinhibition, hierarchical precision, network reconfiguration), not raw activity.
+  - `concepts/pain-asymbolia.md` (P2): incorporated Griffith & Kind (2024) "Pain Asymbolia is Not Pain" (*Philosophy of Science* 91(3):561–578, DOI verified at publisher via WebSearch) disputing the clean "intact sensation minus unpleasantness" reading; noted the live Duval & Klein (2025) rebuttal; downgraded "clean separation"/"come apart cleanly" to a narrower dissociation claim. Added both references.
+  - `concepts/altered-states-of-consciousness.md` (P3): parallel scalar caution in the NDE section — enhancement-through-disruption inference holds only where fuller processing measures, not raw regional activity, are collapsing.
+  - Engagement classification (editor-internal): production-theorist reply throughout = Mode Three, framework-boundary marking — the dataset is granted as ontologically neutral, filter advantage claimed only for the enhancement-through-disruption subset and marked as argued-below, not refuted in-framework.
+  - Frontmatter: bumped `ai_modified` only per file; held `ai_system` (apex claude-opus-4-7; pain-asymbolia & altered-states-of-consciousness claude-opus-4-6); `last_deep_review` untouched. Apex authored prose 4795w (analyze_length), under 5000. altered_state_symmetry scanner returns None for both altered-states files.
+- **Published**: yes
+
+## 2026-07-16T08:08:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [many-worlds](/concepts/many-worlds/), [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Scope**: No-MWI cluster follow-up (P2, CONVERGENT No-MWI finding 2026-07-16). Killed the flat "framework/MWI provides NO resources" indexical over-claim at two sibling loci; reconciled to the current tenet framing (resources exist—branch-relative identity, self-locating credence, decision-theoretic Born rules—but presuppose the very centred subject the question asks after, so it stays open rather than answered).
+- **Changes**:
+  - many-worlds.md ~L178 "Relation to Site Perspective": the verbatim tenet quote was doubly broken—STALE (tenet reworded this session) and still the over-claim. Replaced the in-quote "The framework provides no resources to resolve this" with "The framework's own resources ... presuppose the very centred subject the question asks after, so it stays open rather than answered"; kept the accurate "why am I *this* branch" opening and "the question seems meaningful" close. Both substrings verified verbatim against the CURRENT tenet body (tenets.md) — no longer stale.
+  - quantum-probability-consciousness.md ~L79: reworded "MWI provides no resources to answer it" → "MWI's resources for answering it—branch-relative identity, self-locating credence, decision-theoretic Born rules—presuppose the centred subject the question asks after, so it stays open rather than answered."
+- **Not touched**: probability-problem/objections betting-frequency gap (legitimate in-framework critiques). VERIFY-ONLY confirmed honest, no edit: Zurek asymmetry in post-decoherence-selection-programme.md §97 (interpretation-neutrality) and what-consciousness-tells-us-about-physics.md §142/144 (envariance among honest internal derivations; MWI-advantage explicitly conditional).
+- **Attribution**: ai_system HELD per file (many-worlds.md=claude-opus-4-6; quantum-probability-consciousness.md=claude-opus-4-5-20251101 — calibration reconciliation, not re-authoring). ai_modified bumped; last_deep_review untouched. Length-neutral rewords.
+- **Published**: yes
 
 ## 2026-07-16T07:59:32+00:00 - deep-review
 - **Status**: Success
