@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T02:58:37+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Generalised probabilistic theories and the Born rule
+- **Output**: [[research/generalised-probabilistic-theories-and-the-born-rule-2026-07-16]]
+- **Sources consulted**: 9 (Hardy 2001, Barrett 2007, Chiribella-D'Ariano-Perinotti 2011, Masanes-Müller 2011, Galley-Masanes 2018 [publisher-verified], Plávala 2023, Torres Alegre 2025, Causal-Rigidity 2026, Gleason 1957)
+- **Key finding**: No-signalling ALONE does not force the Born rule (Galley-Masanes 2018 construct no-signalling-preserving modifications; Barrett's boxworld is a no-signalling non-quantum theory). The Born rule is forced only with purification and/or local tomography added. Sharpens the Map's "any agent is Born-constrained by relativistic causality" slogan into a defensible conjunction. Verdict: distinct from the inline GPT treatment in [[causal-consistency-constraint]] and worth a concepts/ home (high confidence); medium confidence it should win one of ~2 remaining slots at the 318/320 cap.
+
 ## 2026-07-16T02:46:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/epistemology-of-convergence-arguments]]
