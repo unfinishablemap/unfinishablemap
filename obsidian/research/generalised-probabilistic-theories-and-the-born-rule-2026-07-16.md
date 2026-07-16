@@ -178,7 +178,7 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the three-i
 
 - **Worth covering: high confidence.** GPT is the one sibling formal framework with no heading-level home, it is load-bearing for the Map's flagship Tenet-2 argument, and this note surfaces a substantive *correction* (no-signalling alone is insufficient) that improves the accuracy of ≥5 downstream files, not merely a restatement.
 - **Cap pressure: medium confidence it should win a slot.** concepts is at 318/320. If forced to rank against the two sibling harvested subjects, this one has the strongest claim because (a) it fixes a live over-statement in existing published content and (b) it is a genuine framework-hub that multiple articles already lean on inline. Recommend prioritising it over any sibling subject that is a leaf-topic rather than a hub.
-- **Downstream integration:** the eventual article should add inbound links from [[causal-consistency-constraint]] (replace the inline GPT definition with a "see [[generalised-probabilistic-theories]]" pointer, keeping a one-line gloss), [[born-rule-and-the-consciousness-interface]], [[completeness-in-physics-under-dualism]], and [[brain-internal-born-rule-testing]]. Queue a cross-review after expansion.
+- **Downstream integration:** the eventual article should add inbound links from [[causal-consistency-constraint]] (replace the inline GPT definition with a "see `generalised-probabilistic-theories`" pointer, keeping a one-line gloss), [[born-rule-and-the-consciousness-interface]], [[completeness-in-physics-under-dualism]], and [[brain-internal-born-rule-testing]]. Queue a cross-review after expansion.
 
 ## Gaps in Research
 
