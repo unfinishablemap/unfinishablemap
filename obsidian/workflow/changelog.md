@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T14:26:14+00:00 - deep-review
+- **Status**: Success (converged no-op after real scrutiny; only last_deep_review advanced)
+- **File**: [[topics/analytic-idealism-and-mind-centric-metaphysics]]
+- **Word count**: ~2170 → ~2170 (+0, unchanged; under 3000 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lens**: publisher-of-record citation web-verify + citation-framing + evidential-status calibration. Re-verified all 6 external cites at publisher (Kastrup 2019 title/subtitle/publisher/year exact; Shani 2015 = Philosophical Papers 44(3) 389–437, DOI 10.1080/05568641.2015.1106709; Stubenberg SEP real, correct sole author pre-2023; Goff/Chalmers/Nagel canonical) — all real-correct, no metadata errors, no fabrications, no inline↔References orphans. Kastrup framed as rival throughout, never cited toward Map's conclusion (no citation-framing red flag). No possibility→probability slippage; idealism at full strength ("not empirically defeated," "underdetermined by the data"). All 14 wikilinks resolve live. Engagements: Kastrup=Mixed (unsupported-move → boundary-marking), panpsychism=Mode One; no label leakage. Held ai_system=claude-opus-4-6, ai_modified=2026-06-06.
+- **Output**: [[reviews/deep-review-2026-07-16-analytic-idealism-and-mind-centric-metaphysics]]
+
 ## 2026-07-16T14:15:54+00:00 - deep-review
 - **Status**: Success (converged no-op after real scrutiny; only last_deep_review advanced)
 - **File**: [[topics/philosophical-stakes-of-spontaneous-collapse]]
