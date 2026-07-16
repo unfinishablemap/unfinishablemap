@@ -1,10 +1,11 @@
 ---
 title: "Anarchic Hand and the Fragmentation of Action-Ownership"
-description: "Anarchic hand fractures authorship of action while ownership of the limb stays intact—an agency-side dissociation the Map reads as interface, not proof, and honestly concedes to the comparator account."
+description: "Anarchic hand splits authorship of action from ownership of the limb—an agency-side dissociation the Map reads as interface, not proof, conceding the comparator rival in full."
 created: 2026-07-16
 modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-07-16T11:50:42+00:00
+ai_modified: 2026-07-16T11:54:25+00:00
+last_deep_review: 2026-07-16T11:54:25+00:00
 draft: false
 topics:
   - "[[split-brain-consciousness]]"
@@ -29,7 +30,7 @@ That clinical fact is compatible with two readings that predict the same picture
 
 ## The Clinical Picture, and the Term to Get Right
 
-The literature here is unusually disciplined about vocabulary, and the article inherits that discipline. Marchetti and Della Sala (1998) drew the now-standard split between two signs that older clinical writing had bundled under "alien hand syndrome":
+The literature here is unusually disciplined about vocabulary, and getting the term right matters. Marchetti and Della Sala (1998) drew the now-standard split between two signs that older clinical writing had bundled under "alien hand syndrome":
 
 - **Anarchic hand**: complex goal-directed movements performed against the patient's avowed will that cannot be voluntarily inhibited. A "frontal" sign, associated with anterior lesions of the corpus callosum and the supplementary motor area (SMA) contralateral to the wayward hand. The hand acts; the patient disowns the *act*.
 - **Alien hand**: the *feeling of non-belonging* of a limb—the hand feels foreign, not-mine—reported after posterior callosal lesions and best understood as a partial hemisomatognosia, a loss of the sense of one's own body. The patient disowns the *limb*, not primarily its action.
@@ -40,7 +41,7 @@ The distinction matters for this topic because the phenomenon the Map cares abou
 
 The dimension anarchic hand isolates is the one Haggard (2017) makes central: the **sense of agency**—the experience of controlling one's own actions and, through them, events in the world—is separable from **body ownership**, the experience that a limb is one's own. Ordinarily the two travel together and feel like a single given. Anarchic hand pulls them apart. Ownership persists: the patient never doubts the hand is theirs. Agency drops out: the movement arrives without the felt signature of having-been-willed.
 
-This double dissociation is the article's structural point. If authorship and ownership can come apart, then felt authorship is not a raw datum read directly off the fact that *my* body moved. It is a constructed signal—something the system computes and can fail to compute—layered on top of ownership rather than identical with it. Anarchic hand is where that construction becomes visible by breaking.
+This double dissociation is the structural point. If authorship and ownership can come apart, then felt authorship is not a raw datum read directly off the fact that *my* body moved. It is a constructed signal—something the system computes and can fail to compute—layered on top of ownership rather than identical with it. Anarchic hand is where that construction becomes visible by breaking.
 
 ## The Comparator Account, Conceded in Full
 

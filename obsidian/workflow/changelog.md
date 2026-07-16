@@ -5,6 +5,17 @@ ai_modified: 2026-07-16T11:50:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T11:54:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/anarchic-hand-and-action-ownership]]
+- **Word count**: 1927 → 1926 (-1)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (removed 2 self-referential "the article" phrasings; tightened meta description)
+- **Enhancements made**: 2
+- **Citations**: all 7 external cites web-verified real-correct at publisher of record (Marchetti & Della Sala 1998, Della Sala/Marchetti/Spinnler 1991, Feinberg et al. 1992, Goldberg et al. 1981, Assal et al. 2007, Frith/Blakemore/Wolpert 2000, Haggard 2017); inline↔References clean; no superlatives
+- **Engagement**: comparator/forward-model account — Mode Three (framework-boundary marking, honest concession); no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-07-16-anarchic-hand-and-action-ownership]]
+
 ## 2026-07-16T11:50:42+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Anarchic Hand and the Fragmentation of Action-Ownership
