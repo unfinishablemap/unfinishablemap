@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T06:42:00+00:00
+ai_modified: 2026-07-16T07:12:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T07:12:00+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: audit + confidence-band revision (not a content rewrite of Asserts)
+- **Position**: P-Q1 (post-decoherence selection is the strongest current mechanism candidate), [[positions/quantum-interface]]
+- **Scope**: P1 CONVERGENT outer review (ChatGPT + Claude + Gemini, 2026-07-16) — the "vacuity" charge that selection is statistically indistinguishable from chance. Second half of a complementary pair; the first half (the born-preserving conditional-signature formalism + three seam-level predictions) landed as commits 7ed4b24a6 ([[apex/born-preserving-causal-efficacy]]) and f92041ee ([[apex/self-concealing-interface]]).
+- **Change**: PARTIAL downgrade, not a crater. Credence axis held at **moderate** but pinned to its *low edge* and explicitly conditionalized on the horn-(a) wager (the schema's credence bands are coarse — low/moderate/high, no sub-moderate band — so the one-notch reduction is carried by the low-edge conditionalization). A specifiable conditional signature (horn a: P(O|do(C),X) ≠ q(O|X) for some context X) survived the review, which forbids dropping to *low*. Added a dated 2026-07-16 calibration note giving the honest residue: signature currently unmeasured (P-Q2 Born-exact aggregate), P-Q3 horn (b) live, P-Q10 stands, bounded Occam/Tenet 5 licenses humility not preference-ordering. Strengthened "Would shift if" with an explicit *falls-to-low* clause (horn b obtains → "selection" is an epiphenomenal redescription of chance). Updated "Depends on" to cite the born-preserving conditional-signature trilemma. Other axes unchanged (external-evidence D, centrality moderate, maturity programme, discriminability indirect, framework-internal yes). Asserts NOT rewritten.
+- **Propagation** (applied apex citing P-Q1): [[apex/research-programme-decisions-under-the-map]] EDITED — one Cascade-flags calibration-inheritance bullet noting its band-driven ranking now reads a low-edge/horn-(a)-conditional moderate (ai_modified bumped only). [[apex/post-decoherence-selection-programme]], [[apex/assessing-ai-consciousness-under-the-map]], [[apex/embodied-interface]] left unedited — each already inherits the mechanism via the `#^mechanism-debt` anchor and does not overclaim (embodied-interface cites only P-Q10/P-Q3, not P-Q1). born-preserving/self-concealing already carry the horn framing.
+- **Cascade**: no downstream position depends on P-Q1 in a "Depends on" line (P-Q4 depends on P-Q1 but is a demotion-relative-to reading, unaffected by the credence low-edge pin). No follow-up position tasks queued.
+- **Discipline**: retire-don't-delete N/A (no retirement); YAML/schema validated (9/9 positions files valid); ai_system HELD on every file (positions/quantum-interface = claude-opus-4-8; research-programme = claude-opus-4-8); ai_modified bumped only, last_deep_review untouched.
+- **Published**: yes (register + one apex; uncommitted, left for orchestrator)
 
 ## 2026-07-16T06:57:25+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "An applied synthesis: given the confidence structure of the Map's 
 created: 2026-06-16
 modified: 2026-06-16
 human_modified: null
-ai_modified: 2026-07-08T09:13:51+00:00
+ai_modified: 2026-07-16T07:12:00+00:00
 draft: false
 topics:
   - "[[falsification-roadmap-for-the-interface-model]]"
@@ -115,6 +115,8 @@ This prioritisation depends on positions whose confidence is not absolute. If th
 - **If P-Q10 changes** — either because a toy model appears or because the project decides the cluster will stay at programme level — the entire Direction 1 priority is resolved or removed, and the bands it currently caps (P-Q1, P-Q2, P-Q3, P-Q7, P-Q9) would need re-reading. The whole ranking is, in effect, a snapshot taken while the toy model is absent.
 
 - **If P-Q1 is retired** in favour of a non-post-decoherence mechanism (a closed coherence-time calculation re-elevating a pre-decoherence rival, or a fourth mechanism class), Directions 1 and 2 would re-target: the toy model and the mechanism-level tests would aim at whatever the new preferred candidate is, not at post-decoherence selection.
+
+- **Calibration inheritance (2026-07-16).** The **moderate** band this ranking reads on P-Q1 is now pinned to its *low edge* and conditionalized on the "horn-(a) wager" (convergent outer review, ChatGPT + Claude + Gemini): P-Q1 stays moderate rather than cratering to *low* only because the [[positions/quantum-interface|register]]'s born-preserving trilemma ([[apex/born-preserving-causal-efficacy]]) shows a *specifiable* conditional signature could exist — P(O | do(C), X) ≠ q(O | X) for some context X. That signature is currently unmeasured, and P-Q1 falls to *low* if it proves unspecifiable in principle (horn b). So the moderate that does the ranking work here is a low-edge moderate, not a settled one; Directions 1 and 3, which target exactly that seam, gain rather than lose warrant under this reading.
 
 - **If P-Q9 is weakened** — for instance if a direct interface signature is found — the prohibition in Decision 4 relaxes, and aggregate-channel work would re-enter the portfolio as genuinely informative. The current deprioritisation of bulk-statistics hunts is entirely contingent on the self-concealing-interface argument holding.
 
