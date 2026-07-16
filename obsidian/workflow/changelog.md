@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T16:02:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/local-tomography-and-the-consciousness-physics-interface]]
+- **Word count**: 2040 → 2040 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (harmonized Hardy & Wootters in-text citation year 2010 → 2012 to match the article's publication-year convention and its own References entry)
+- **Enhancements made**: 0 (already well-integrated; all 7 wikilinks resolve)
+- **Web-verify**: full publisher-of-record pass — all 5 external citations real-correct with verbatim quotes and correct metadata (Hardy-Wootters, Barnum-Wilce, Renou, Hoffreumon-Woods, Galley-Masanes); inline↔References complete, no orphans. Model-grade evidential-status discipline; no possibility/probability slippage. No named-opponent engagements requiring reasoning-mode classification (physics dispute presented neutrally).
+- **Output**: [[reviews/deep-review-2026-07-16-local-tomography-and-the-consciousness-physics-interface]]
+
 ## 2026-07-16T15:57:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Local Tomography and the Consciousness-Physics Interface

@@ -4,7 +4,7 @@ description: "A human-AI account of local tomography — the axiom that a compos
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-07-16T15:57:00+00:00
+ai_modified: 2026-07-16T16:02:22+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -20,6 +20,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-16
 last_curated:
+last_deep_review: 2026-07-16T16:02:22+00:00
 ---
 
 **Local tomography** (equivalently *tomographic locality*) is the axiom that the state of a composite system is completely determined by the statistics of *local* measurements on its parts, together with the correlations between those local outcomes. Complex quantum mechanics satisfies it; real and quaternionic quantum theories do not. The axiom matters to the Map because it is one of exactly two structural principles whose failure would formally reopen the Born-rule constraint the Map leans on at the consciousness-physics interface. Whether local tomography holds across a physical/non-physical composite is unknown and untested — so the [[#the-interface-question|interface reading below]] is a Map open question that *sharpens* Tenet 2, not evidence for it. That status is part of the claim, not a footnote to it.
@@ -42,7 +43,7 @@ What makes local tomography interesting is that it is not universal. It has conc
 
 When local tomography fails, a composite has a **global degree of freedom** — a component of the joint state that no product of local effects can read out. The state carries more information than any amount of separate local measurement on A and on B can recover; that surplus is accessible only through genuinely *joint* measurements across the parts.
 
-The cleanest concrete model is **real-vector-space quantum theory** — quantum mechanics rebuilt over the real numbers instead of the complex ones. Hardy and Wootters (2010) proved that it fails local tomography, but only barely: "real-vector-space quantum theory, while not locally tomographic, is bilocally tomographic." A theory is *bilocally* (2-locally) tomographic if pairwise-joint statistics on pairs of components suffice to fix the state, even though single-component statistics do not. Real quantum theory is therefore *more holistic* than complex quantum theory: its composites carry global information recoverable from joint measurements on pairs, but not from separate measurements on individuals. Hardy and Wootters name this residual "limited holism," and the amount of holism is precisely the gap between d_AB and d_A · d_B.
+The cleanest concrete model is **real-vector-space quantum theory** — quantum mechanics rebuilt over the real numbers instead of the complex ones. Hardy and Wootters (2012) proved that it fails local tomography, but only barely: "real-vector-space quantum theory, while not locally tomographic, is bilocally tomographic." A theory is *bilocally* (2-locally) tomographic if pairwise-joint statistics on pairs of components suffice to fix the state, even though single-component statistics do not. Real quantum theory is therefore *more holistic* than complex quantum theory: its composites carry global information recoverable from joint measurements on pairs, but not from separate measurements on individuals. Hardy and Wootters name this residual "limited holism," and the amount of holism is precisely the gap between d_AB and d_A · d_B.
 
 **Quaternionic quantum theory** fails in the opposite direction: its natural tensor product is the wrong size to even define the product effects a locally-tomographic composite needs. Global degrees of freedom are then unavoidable by construction.
 
