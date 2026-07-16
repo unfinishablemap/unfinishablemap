@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-06-03 03:33:30+00:00
+ai_modified: 2026-07-16 10:54:40+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -42,7 +42,7 @@ The constraint is *derivational* rather than empirical, and it determines the ru
 
 ## What Torres Alegre Argues
 
-Torres Alegre (2025) works within the generalised probabilistic theories (GPT) framework. A GPT specifies a state space, a set of measurement effects, and a probability function mapping state-effect pairs to numbers in [0, 1]. Quantum mechanics is one GPT among many in this framework; classical probability theory is another; counterfactual exotic theories with nonlinear probability functions are admissible candidates.
+Torres Alegre (2025) works within the [generalised probabilistic theories (GPT) framework](/concepts/generalised-probabilistic-theories/). A GPT specifies a state space, a set of measurement effects, and a probability function mapping state-effect pairs to numbers in [0, 1] (the framework, and the crucial fact that no-signalling *alone* does not force the Born rule, are treated in full in [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/)). Quantum mechanics is one GPT among many in this framework; classical probability theory is another; counterfactual exotic theories with nonlinear probability functions are admissible candidates.
 
 The theorem assumes two structural conditions on the GPT:
 

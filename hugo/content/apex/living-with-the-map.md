@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-07-16 09:55:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-06-21 20:15:00+00:00
+apex_last_synthesis: 2026-07-16 09:55:00+00:00
 apex_sources:
 - topics/meaning-of-life
 - topics/ethics-under-dualism
@@ -54,7 +54,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-You wake up tomorrow. What matters about that day? One materialist implication: nothing, ultimately—you're patterns of neural firing that will dissolve, in a universe indifferent to your existence. Some materialists resist this conclusion, but the logic pulls toward it: if consciousness is just what brains do, significance has no ground beyond the biological drives that produced it. The Unfinishable Map offers a different answer: what matters is the quality of your conscious experience, and that quality is something you genuinely influence through choices that are yours to make.
+You wake up tomorrow. What matters about that day? One picture treats the answer as *nothing, ultimately*—you're patterns of neural firing that will dissolve, in a universe indifferent to your existence. But this nihilist conclusion is not forced by physicalism. Physicalist moral realists, ethical naturalists, constructivists, contractualists, and reasons-first theorists all locate genuine value within a physical world; the live disagreement is not materialism-versus-meaning but which theory of value is correct. The Unfinishable Map offers its own answer—a value realism grounded in consciousness: what matters is the quality of your conscious experience, and that quality is something you genuinely influence through choices that are yours to make. The Map defends that grounding against these rival value theories rather than assuming their frameworks collapse into nihilism.
 
 Philosophy can seem remote from daily life—abstract puzzles debated by specialists. The Map rejects this separation. If consciousness is fundamental rather than accidental, if your choices genuinely author your life rather than merely decorating a predetermined script, then understanding your situation becomes practically urgent. What you are, why you exist, what you should do—these questions matter not as intellectual exercises but as prerequisites for living well.
 
@@ -70,7 +70,7 @@ What follows draws together what this framework implies for daily existence. Not
 
 The Map's [Dualism tenet](/tenets/#dualism) asserts that consciousness is not reducible to physical processes. You are not merely what your neurons are doing. There is something it is like to be you—a subjective perspective, a felt quality to experience—that physical description cannot capture.
 
-This matters practically because it grounds the significance of your experience. If [illusionism](/concepts/illusionism/) were correct—if phenomenal consciousness were merely a representational fiction—then what seems to matter about your life wouldn't really matter. The joy you feel, the suffering you endure, the meaning you discover: all would be shadows cast by neural activity signifying nothing.
+This matters practically because it grounds the significance of your experience in phenomenal character. If [illusionism](/concepts/illusionism/) were correct—if phenomenal consciousness were a representational fiction rather than a real feature—then this particular grounding would be unavailable. Illusionists such as Frankish and Dennett do not deny that people suffer, feel distress, or have reasons to avoid harm; they deny a specific philosophical characterisation of what phenomenal properties are, and offer functional or representational accounts of why suffering matters in its place. The disagreement is over the *ground* of mattering, not over whether anything matters at all. What illusionism removes is the Map's phenomenal-realist account of that ground—the claim that the badness of suffering is a felt quality of experience itself rather than a functional role.
 
 [Phenomenal value realism](/topics/phenomenal-value-realism/) offers the opposite view: the goodness of pleasure and the badness of suffering are features of conscious experience itself. [Phenomenal normativity](/concepts/evaluative-phenomenal-character/) provides the answer to why: when you attend to what pain feels like—not abstractly, but in lived experience—you are directly acquainted with something bad. The badness is constitutive of pain's phenomenal character, not inferred from it or projected onto neutral sensation. Pleasure works the same way: the goodness is what you're experiencing, not a separate evaluation attached from outside. This closes Hume's is-ought gap for experience—the phenomenal "is" already contains normativity.
 
@@ -196,7 +196,7 @@ This apex article draws together practical implications from all five tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The proposed mechanism—biasing quantum outcomes—offers a candidate account of how consciousness can be causally efficacious without violating physical law. If correct, this supplies the physics behind libertarian free will.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting Many Worlds preserves the weight of choice. You selected this option; the alternatives were genuinely rejected, not routed to other branches. This grounds moral responsibility and personal identity.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting Many Worlds preserves the weight of choice. Branching theories are not without resources here—they can assign significance branch-relatively (your choice matters in *this* branch) or by measure-weighting (expected value conserved across branches). The Map judges these inadequate on indexical grounds: measure-weighting answers how much value a branch carries but not why *this* branch's outcome is *mine* rather than a counterpart's, and branch-relative value routes the very outcomes a choice was meant to avoid into other equally-actual branches. On the single-world picture the alternatives were genuinely rejected, not routed elsewhere, which is what lets a choice bear the full weight of authorship. This grounds moral responsibility and personal identity.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Accepting that simplicity is unreliable licenses taking the phenomena seriously even when explanation is difficult. The framework is complex because consciousness is complex.
 

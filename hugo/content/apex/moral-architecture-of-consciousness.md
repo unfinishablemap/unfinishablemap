@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-07-15 07:23:06+00:00
+ai_modified: 2026-07-16 09:55:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-07-15 07:23:06+00:00
+apex_last_synthesis: 2026-07-16 09:55:00+00:00
 apex_sources:
 - topics/phenomenal-value-realism
 - topics/ethics-under-dualism
@@ -101,7 +101,9 @@ The convergence with value matters: under dualism, consciousness is both where v
 
 ### Normativity Is Built into Experience
 
-[Moral normativity](/topics/consciousness-and-normative-force/)—the binding force of "ought"—closes the gap between recognising a fact and being bound by it. You can know a bridge is unsound (descriptive) and know you ought not to cross it (normative); what transforms information into obligation is something present in the conscious experience of recognising suffering, danger, or wrong. Pain's badness is constitutive of what pain feels like, not a judgement layered on top of a neutral sensation.
+[Moral normativity](/topics/consciousness-and-normative-force/)—the binding force of "ought"—finds in conscious experience a candidate *source* of reasons rather than a mere report of facts. You can know a bridge is unsound (descriptive) and know you ought not to cross it (normative); what the Map proposes as the origin of that obligation is something present in the conscious experience of recognising suffering, danger, or wrong. Pain's badness is constitutive of what pain feels like, not a judgement layered on top of a neutral sensation.
+
+This is best read as a proposed grounding relation, not a closure of Hume's is-ought gap. Felt badness can supply *first-person* reasons—why *I* have reason to avoid *my* suffering—but several bridges are still owed before it yields a full ethics: why *your* suffering gives *me* a reason (impartial, interpersonal obligation), how to weigh many subjects' welfare against one another (aggregation), what grounds rights and distributive principles, and how to act under moral uncertainty are not delivered by the felt quality alone. Phenomenal normativity is the candidate ground on which those further bridges are built, not a derivation that renders them unnecessary.
 
 Four normative domains—moral, epistemic, aesthetic, prudential—share a common phenomenal architecture while retaining distinct textures. Moral outrage burns, epistemic compulsion pulls with impersonal rigidity, aesthetic experience draws through invitation, prudential concern gravitates with intimate familiarity. Despite these differences, all four exhibit three architectural features: **demand character** (each presents its object as calling for response, *addressing* the agent rather than merely informing), **resistance to preference** (the demand persists whether or not the agent cares), and **gradedness** (felt, not merely conceptual). If normative force were projection, one would expect a single mechanism producing one felt quality modulated only by intensity; the actual phenomenology—four distinct textures sharing the same architecture—is what [phenomenal normativity](/concepts/evaluative-phenomenal-character/) predicts and what projection cannot easily explain.
 

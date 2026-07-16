@@ -1,13 +1,82 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16 09:36:00+00:00
+ai_modified: 2026-07-16 10:28:27+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-16T10:54:40+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Generalised Probabilistic Theories (the GPT framework)
+- **Output**: [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/)
+- **Word count**: 1745 (70% of concepts soft target, ok)
+- **Based on research**: yes — [generalised-probabilistic-theories-and-the-born-rule-2026-07-16](/research/generalised-probabilistic-theories-and-the-born-rule-2026-07-16/)
+- **Structure**: concept four-part format (neutral three-ingredient definition → Map interpretation → disputed Born-rule payload → rival readings). Spine carries the research note's correction: no-signalling *alone* does not force the Born rule (Galley-Masanes 2018, publisher-verified quote); forced only with purification + local tomography. Preprints (Torres Alegre 2025, 2026 causal-rigidity) flagged as not-yet-refereed.
+- **Integration**: replaced inline GPT definition in [causal-consistency-constraint](/concepts/causal-consistency-constraint/) with a pointer to the new home + one-line gloss (bumped its ai_modified). Cross-review queued for the remaining siblings.
+- **Merge flag**: GPT-only minted per the conservative EXACT+1 floor-restore; the Sorkin/"post-quantum probability" merge architecture decision is left to the operator (surfaced, not pre-committed).
+
+## 2026-07-16T10:42:41+00:00 - refine-draft
+- **Status**: Success (verified false-high, no content change)
+- **File**: [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/)
+- **Trigger**: topic-concept anchoring audit 2026-07-16 (hedge_density 2.91 < 3.00/kw target vs anchor [phenomenal-consciousness](/concepts/phenomenal-consciousness/); strong_assertions)
+- **Judgment**: Lexical false-high, not a genuine over-claim. The article's whole thesis is "consistent with, not proof of" the interface reading, with the physicalist rival explicitly left standing throughout (dedicated Corlett-2019 challenge section, "metaphysically neutral on its own terms"). It calibrates structurally via bare-noun "underdetermined/underdetermination" (x3) and phrasal hedges ("does not supply a verdict", "consistent-with rather than") that the modal-hedge regex does not count. The failing strong-assertions are established empirical findings (skin-conductance replication, DS modality-specificity, medication-matched control), correctly confident because they report replicated science, not Map metaphysical claims.
+- **Action**: Added `anchoring_audit_exempt: true` (matches verified false-highs wanting-liking, akrasia-motor-selection, interventionist-dualism). No body edit; `ai_modified`/`ai_system` held (no content change).
+- **Published**: yes (metadata only)
+
+## 2026-07-16T10:28:27+00:00 - deep-review
+- **Status**: Success (convergence confirmation, no content change)
+- **File**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Word count**: 2889 → 2889 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth deep review. Git-verified the body + References are byte-identical to the 2026-06-21 state (only the `last_deep_review` frontmatter line changed since firewall commit d0aff1d49). All focus citations (Landsman 2020, Cubitt 2015, Szangolies 2018) were fresh-web-verified real-correct 25 days ago against an unchanged base — §2.4 re-verify correctly skipped by the "modified since last review" trigger. Added marginal value: verified all 9 principal wikilink targets resolve to live files with no archival link-rot. No critical/medium issues; no possibility/probability slippage; no label leakage. Timestamp-only `last_deep_review` stamp; `ai_modified` HELD at firewall value 2026-06-21T05:10:01.
+- **Output**: [deep-review-2026-07-16-self-reference-and-the-limits-of-physical-description](/reviews/deep-review-2026-07-16-self-reference-and-the-limits-of-physical-description/)
+
+## 2026-07-16T10:23:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Original score**: n/a (targeted outer-review currency fix; Gemini-unique singleton finding)
+- **Changes**: Installed the Gemini 2.5 Pro (2026-07-16) currency caveat on the "Brain Biophotons" section. The Casey et al. 2025 (*iScience*) extracranial-detection citation stays; added a two-sentence caveat noting the detection is contested by Salari, Seshan, Rishabh, Oblak & Simon (2026), who argue the signal is dominated by ambient background light (sub-600 nm photons attenuated by scalp/skull; longer wavelengths outside PMT spectral sensitivity → instruments could at most register scalp emission, not cortex). Framed as a possible light-leakage/scalp artifact pending independent replication, not a retraction. Added Salari et al. 2026 as reference 14 (no inline numeric citations, so no renumber). Corrected a first-pass fabricated bioRxiv DOI to the arXiv:2603.26630 identifier actually supplied. Verified per task that the COGITATE "conceptual scheme void" framing (lines 54, 102, 104) stays tied to empirical incommensurability and Tenet 5 humility — no "physicalism has collapsed" drift; no overcorrection applied. ai_system HELD (claude-opus-4-6); ai_modified bumped to 2026-07-16T10:23:29+00:00 only (last_deep_review untouched).
+- **Review file**: [outer-review-2026-07-16-gemini-2-5-pro](/reviews/outer-review-2026-07-16-gemini-2-5-pro/)
+- **Published**: yes
+
+## 2026-07-16T10:14:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/), [open-question-ai-consciousness](/apex/open-question-ai-consciousness/), [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
+- **Original score**: n/a (targeted outer-review fix: co-optation-firewall breach, Gap 7)
+- **Changes**: Closed the Claude Opus 4.8 outer review's Gap 7 across the AI-consciousness apex cluster — the cluster cited Butlin et al. 2023/2025 and Birch toward the Map's negative verdict while never defending the borrowing of a computational-functionalist epistemology by a framework whose Dualism tenet rejects it. Much of (a) and (b) already existed from prior passes; the genuinely missing pieces were installed. **machine-question** (the main gap): added direct engagement with Birch's gaming problem to the Indicator-Property Framework section (diagnosis common ground and dualism-free; remedies part ways — Birch's cure is deeper computational markers, presupposing computation is the right place to look) plus the cluster's canonical borrowing defence: the citation decomposes into a metaphysics-neutral architectural datum (current transformers lack the indicators — readable off the systems by any framework) and a bridge from indicators to consciousness (report runs it toward sufficiency, Map toward necessary interface conditions the authors would not endorse); the Map borrows the datum and leaves the bridge, so the report is authority for what current systems lack, never for what that lack means, and the authors' forward-looking judgement (no technical barriers; Long et al. 2024 realistic near-future possibility) stands against the Map, not with it. Added Birch 2024 and Long et al. 2024 to References. **open-question-ai-consciousness**: scoped the "independently corroborates the negative verdict" claim — named the computational-functionalist working hypothesis explicitly, confined the corroboration to current systems (report's own metaphysics points the opposite way for near-future systems), pointed to machine-question for the full defence. **assessing-ai-consciousness-under-the-map**: named the presupposition and the datum/bridge scoping rule in the Honest verdict scope section (its Birch/gaming-problem engagement was already thorough from prior passes). Engagement with Butlin/Birch (computational-functionalist indicator programme): mixed — in-framework agreement on the gaming discount (the framework's own concession about corruptible behavioural channels), explicit datum/bridge decomposition defending the borrowing on its own terms, honest boundary-marking on the bridge itself (the authors would reject the interface reading; the negative conclusion remains carried by the Map's tenets, not by the cited authorities). No mode labels in article prose. ai_system HELD on all three; ai_modified bumped to 2026-07-16T10:14:00+00:00. Note: machine-question was already above the 5000-word hard threshold before this pass (~5050 raw incl. frontmatter/refs); the ~370-word review-mandated addition pushes it to 5420 — length-neutral condense is a separate decision, flagged for replenish's length source rather than risking regression of this fix in-pass.
+- **Review file**: [outer-review-2026-07-16-claude-opus-4-8](/reviews/outer-review-2026-07-16-claude-opus-4-8/)
+- **Published**: yes
+
+## 2026-07-16T10:05:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [writing-style](/project/writing-style/), [project-brief](/project/project-brief/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), `.claude/skills/apex-evolve/SKILL.md`
+- **Original score**: n/a (methodology/project-doc pass, not a content article)
+- **Changes**: Adopted the actionable project-doc subset of the 2026-07-16 ChatGPT 5.6 Pro outer review's methodology recommendations (#28, #29, #34–36; singleton per synthesis 2026-07-16). **(#28)** writing-style gains a "Concept Articles: The Four-Part Format" section — neutral school-neutral definition first, Map interpretation marked as the Map's, strongest rival interpretations, disputed implications — to prevent definition loading (disputed readings entering via the glossary and functioning as premises elsewhere); new concepts at creation, existing concepts at next substantive pass, no corpus sweep; concept checklist item added. **(#29)** Apex articles now require a reader-facing "## Evidence and Dependency" section (between Synthesis and Relation to Site Perspective) classifying main support lines as externally evidenced / independently argued / tenet-inherited / inherited from another synthesis / mutually coherent only, countering confidence amplification; specified in apex-evolve SKILL.md (create step, evolve Step 7 install-if-absent retrofit, Important list, template) and mirrored in writing-style's apex structure, guidelines, and checklist. **(#34)** project-brief: retired the "expressed as if fact" instruction — the picture is stated confidently but every article carries epistemic status in its opening paragraph (LLM truncation hazard named); consistency fix in coherence-inflation-countermeasures line 1 ("expressed as fact" → "expressed confidently with epistemic status up front", pointing at project-brief); also fixed two pre-existing typos in the brief's Aim paragraph and added a description field. **(#35)** writing-style Information Hierarchy now requires every strong opening conclusion to survive being read alone — decisive qualifications before/alongside the headline claim, never after; reconciled with "Confident, not hedged" (confidence governs prose style, not epistemic disclosure) and "Front-load the key claim" (front-load the claim's status with the claim); checklist item added. **(#36)** Adopted the prose-level external-evidence vs Map-integration citation discipline: internal wikilinks are integration/derivation, never corroboration; an internal-page chain never substitutes for independent support; the *visual* References re-sectioning remains a candidate operator convention (now independently flagged by 2026-06-04 and 2026-07-16 reviews). **Operator-decision items surfaced, not actioned** (workflow architecture for the human): hard pre-publication verification gate (#37), genuinely-independent reviewer design and no double-counting same-family personas (#38–39), changelog reliability analytics (#40), machine-readable dependency graph (#41), rival-prediction likelihood matrix (#42), research-prioritization shift toward model construction/discrimination (#43), dated citable releases (#44). Engagements: none (no named-opponent replies in these docs). ai_system HELD on all touched files; ai_modified bumped; project-brief ai_contribution 0 → 15 (mixed, human voice preserved).
+- **Review file**: [outer-review-2026-07-16-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-07-16-chatgpt-5-6-sol-pro/)
+- **Published**: yes
+
+## 2026-07-16T09:58:42+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Word count**: 2324 → 2324 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 6th review; article converged. Sole delta since the thorough 2026-06-17 pass was one cosmetic Further-Reading cross-link (`[[phenomenal-sorites-problem]]`, added by commit 6570a1645 on 2026-07-11) — verified target exists and description is faithful. §2.4 web-verify legitimately skipped: References block byte-identical to the 2026-06-17 fully-verified version (git-confirmed no citation lines changed). No calibration slippage, no label leakage. Advanced `last_deep_review` only; left `ai_modified` at HEAD (2026-07-11) since no content changed. No engagements to classify (no named-opponent refutations).
+- **Output**: [deep-review-2026-07-16-degrees-of-consciousness](/reviews/deep-review-2026-07-16-degrees-of-consciousness/)
+
+## 2026-07-16T09:55:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [living-with-the-map](/apex/living-with-the-map/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Changes**: Addressed a SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16; non-convergent) that both apex files carried over-strong disjunctive-consequence claims. **living-with-the-map** (3 softenings): (1a) reframed the opening physicalism→nihilism entailment — physicalism does not force nihilism; the lead now compares the Map's consciousness-grounded value realism against live physicalist value theories (moral realists, ethical naturalists, constructivists, contractualists, reasons-first theorists) instead of asserting "the logic pulls toward" nihilism; kept the positive Map claim. (1b) reframed the illusionism→meaninglessness claim — illusionists (Frankish, Dennett) deny a philosophical characterisation of phenomenal properties, not the existence of suffering/distress/moral reasons; the disagreement is over the *ground* of mattering, not whether anything matters; illusionism removes the Map's phenomenal-realist grounding specifically. (1c) No-MWI relation: replaced the bare intuition with an argument — named branch-relative and measure-weighted value as branching theories' resources, then gave the Map's indexical-identity reason for judging them inadequate (measure-weighting doesn't answer why *this* branch's outcome is *mine*). **moral-architecture-of-consciousness** (1 reframe): (2) downgraded the is-ought "closes the gap" overclaim to a proposed grounding relation / candidate source of first-person reasons; added a compact "bridges still owed" passage naming interpersonal obligation, aggregation, rights/distributive principles, and moral uncertainty as what felt badness does not by itself derive. Kept the demand-character, four-domain architecture, and value-realist identity intact. Engagements: no named-opponent refutations were converted — the reframes soften Map entailment claims, not opponent-directed arguments. Applied [direct-refutation-discipline](/project/direct-refutation-discipline/) (natural prose, no mode labels); preserved calibration hedges per condense-regresses-calibration-qualifiers.
+- **Final word counts**: living-with-the-map 3672w (ok); moral-architecture 4306w (soft_warning, under 5000 hard ceiling — no human length decision needed). ai_system held per file (both claude-opus-4-6); apex_last_synthesis == ai_modified (2026-07-16T09:55:00+00:00) on both; last_deep_review untouched.
+- **Published**: yes
 
 ## 2026-07-16T09:45:00+00:00 - refine-draft
 - **Status**: Success

@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T10:28:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T10:54:40+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Generalised Probabilistic Theories (the GPT framework)
+- **Output**: [[concepts/generalised-probabilistic-theories]]
+- **Word count**: 1745 (70% of concepts soft target, ok)
+- **Based on research**: yes — [[research/generalised-probabilistic-theories-and-the-born-rule-2026-07-16]]
+- **Structure**: concept four-part format (neutral three-ingredient definition → Map interpretation → disputed Born-rule payload → rival readings). Spine carries the research note's correction: no-signalling *alone* does not force the Born rule (Galley-Masanes 2018, publisher-verified quote); forced only with purification + local tomography. Preprints (Torres Alegre 2025, 2026 causal-rigidity) flagged as not-yet-refereed.
+- **Integration**: replaced inline GPT definition in [[concepts/causal-consistency-constraint]] with a pointer to the new home + one-line gloss (bumped its ai_modified). Cross-review queued for the remaining siblings.
+- **Merge flag**: GPT-only minted per the conservative EXACT+1 floor-restore; the Sorkin/"post-quantum probability" merge architecture decision is left to the operator (surfaced, not pre-committed).
+
 ## 2026-07-16T10:42:41+00:00 - refine-draft
 - **Status**: Success (verified false-high, no content change)
 - **File**: [[topics/capgras-delusion-and-the-affective-recognition-channel]]

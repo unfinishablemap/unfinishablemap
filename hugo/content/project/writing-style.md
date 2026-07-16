@@ -1,12 +1,12 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-07-07 01:40:17+00:00
+ai_modified: 2026-07-16 10:05:20+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
 created: 2026-01-07
-date: &id001 2026-05-17
+date: &id001 2026-07-16
 description: 'Editorial standards for The Unfinishable Map: LLM-first structure, named-anchor
   summaries, evidential calibration, section-specific length guidelines, AI pseudonym
   table, and the disciplines that keep human-AI collaboration honest.'
@@ -50,6 +50,8 @@ Humans browsing the Map directly also benefit from front-loaded information and 
 Every article follows this structure:
 
 1. **Opening summary** (1-2 paragraphs): State the core claim or question. Be confident and direct. This is the most important part—if the chatbot truncates, this survives.
+
+   **The opening must survive being read alone.** Because truncation is the normal case, a strong opening conclusion must be honest *without* the rest of the article. Any decisive qualification the article's own body establishes—contested evidence, a rival account the data cannot discriminate against, a conclusion that holds only inside the Map's framework—belongs before or alongside the headline claim, never after it. State the claim's epistemic status in the opening itself: a conclusion that is honest only in the light of paragraph twelve is not honest in retrieval. (Adopted 2026-07-16 from an outer-review recommendation: front-loaded certainty survives retrieval while later caveats are truncated away, and LLM readers may then repeat a Map-conditioned inference as an externally established result.)
 
 2. **Major sections** (H2 headings): Explore different aspects of the topic. Each section should be comprehensible on its own.
 
@@ -103,6 +105,21 @@ Section-specific soft targets are enforced by the curation length tool (`tools/c
 
 Reach the soft target with substantive treatment; above it, prefer condensation. Hard maximum across all sections is 50,000 tokens (the LLM context-window limit). Prefer depth over breadth: a thorough treatment of one aspect beats shallow coverage of many.
 
+### Concept Articles: The Four-Part Format
+
+Concept articles define the Map's working vocabulary, which creates a specific hazard the corpus must guard against: **definition loading**. Terms such as "quantum indeterminacy," "causal closure," "selection," "access consciousness," and "subjecthood" each admit multiple live interpretations. If a concept article opens with the Map's preferred reading as though it were the neutral one, the disputed reading enters through the glossary and then functions as an unexamined premise wherever the concept is cited. Cross-linking then creates the *appearance* of inferential support among pages that in fact share the same starting assumption.
+
+Every substantive concept article therefore separates four things (adopted 2026-07-16 from an outer-review recommendation):
+
+1. **Neutral definition first.** Open with a minimal, school-neutral definition—the reading every live camp accepts. This doubles as good front-loading: the truncation-surviving fragment is the uncontroversial core.
+2. **The Map's interpretation, marked as the Map's.** State the preferred reading explicitly as the Map's proposal, connected to the tenets that motivate it—never presented as what the term simply means.
+3. **Strongest rival interpretations.** Present the major competing readings at their strongest, not as foils.
+4. **Disputed implications.** Distinguish what follows from the neutral definition alone from what follows *only if* the Map's interpretation is accepted.
+
+The four parts need not use these labels as literal headers—descriptive headers are better—but the four functions must be present and separable, and the neutral definition must precede the Map's reading. This does not conflict with the Map's opinionated voice: the article still argues for the Map's interpretation; it just does not smuggle that interpretation in as a definition.
+
+New concept articles follow this structure at creation. Existing concepts adopt it at their next substantive pass (deep-review, refine, coalesce) rather than through a corpus-wide sweep.
+
 ### Apex Articles
 
 Apex articles are human-readable synthesis pieces in the [/apex/](/apex/) section. They integrate multiple topics, concepts, and arguments into coherent narratives for readers who want an integrated view rather than atomic deep dives. The [Apex Articles Index](/apex/apex-articles/) lists all approved subjects with their theses and source articles.
@@ -127,14 +144,16 @@ Apex articles are human-readable synthesis pieces in the [/apex/](/apex/) sectio
 1. **Thesis statement** (1 paragraph): The integrated claim this article defends
 2. **Narrative sections** (H2): Build the argument progressively, drawing on multiple Map articles
 3. **Synthesis**: Show how the pieces fit together in a way individual articles don't
-4. **Relation to Site Perspective**: Connect to tenets (as with all articles)
-5. **Source Articles**: List the topics/concepts this apex article synthesises
+4. **Evidence and Dependency** (required): A brief reader-facing ledger classifying the synthesis's main lines of support—externally evidenced, independently argued, inherited from a tenet, inherited from another synthesis piece, or mutually coherent only. See the apex-evolve skill for format and length.
+5. **Relation to Site Perspective**: Connect to tenets (as with all articles)
+6. **Source Articles**: List the topics/concepts this apex article synthesises
 
 **Writing guidelines:**
 - **Link extensively** to source articles—apex articles are integration points, not standalone treatments
 - **Assume some familiarity**—unlike topics, apex articles can build on what other Map articles establish
 - **Prioritise narrative**—these are for humans reading start-to-finish, not LLMs extracting fragments
 - **Show the connections**—the value is in demonstrating how separate pieces form a coherent whole
+- **Show the dependency structure**—synthesis pieces are especially vulnerable to *confidence amplification*: when agency, altered states, quantum interpretation, subjecthood, and value all draw on the same five tenets, their convergence is one premise package producing five mutually compatible outputs, not five independent reasons. The Evidence and Dependency section (adopted 2026-07-16 from an outer-review recommendation) makes this explicit so the synthesis cannot count coherence as evidence by construction.
 
 ## Voice and Tone
 
@@ -142,7 +161,7 @@ Apex articles are human-readable synthesis pieces in the [/apex/](/apex/) sectio
 
 - **Accessible but rigorous.** No unnecessary jargon, but don't dumb down. Assume intelligent readers unfamiliar with technical philosophy.
 
-- **Confident, not hedged.** The Map takes positions. Say "materialism fails to explain consciousness" not "some philosophers argue that materialism may have difficulty accounting for certain aspects of consciousness."
+- **Confident, not hedged.** The Map takes positions. Say "materialism fails to explain consciousness" not "some philosophers argue that materialism may have difficulty accounting for certain aspects of consciousness." Confidence governs prose style, not epistemic disclosure: a qualification the conclusion genuinely depends on is part of the claim and appears with it in the opening (see *Information Hierarchy*), stated plainly rather than in hedge-stacked academic prose.
 
 - **Exploratory rather than dogmatic.** Acknowledge genuine uncertainty. Present opposing views fairly before taking a position. Distinguish between claims the Map asserts confidently and areas where evidence is uncertain.
 
@@ -305,7 +324,7 @@ Neuroscience moves faster than philosophy. A neuroimaging generalization that re
 
 These principles help chatbots extract useful information:
 
-- **Front-load the key claim.** First paragraph should contain the article's main point. If nothing else survives truncation, this should.
+- **Front-load the key claim.** First paragraph should contain the article's main point. If nothing else survives truncation, this should. Front-load the claim's *status* along with the claim: any qualification the conclusion depends on is part of the key claim, not an appendix to it.
 
 - **Use explicit section headings.** Chatbots can navigate by heading. "The Hard Problem" is better than "The Core Difficulty."
 
@@ -461,7 +480,14 @@ Guidelines for self-citations:
 - Self-citations go in the References section alongside external citations
 - The in-text reference uses standard wikilinks as usual; the formal citation goes in References
 
-**Map-integration / external-evidence separation (human/operator convention candidate — not yet adopted).** The 2026-06-04 ChatGPT 5.5 Pro outer review of `clinical-dissociation-as-systematic-evidence` proposed splitting Map-internal cross-links out of the References section under a separate "Map integration" heading, so a reader does not mistake an internal wikilink for an independent external corroboration. The concern is real and continuous with the corpus's existing anti-double-count discipline (see [evidential-status-discipline](/project/evidential-status-discipline/)'s *Coherence vs. Evidential Status* and [common-cause-null](/project/common-cause-null/)): a self-citation to another Map article is framework-internal coherence, not framework-independent evidence, and the current "alongside external citations" convention above can blur that. This is recorded as a *candidate* convention only — adopting it is a corpus-wide reference-list reformatting decision for the human/operator, not an autonomous edit. Until adopted, the existing convention stands; refine passes should not pre-emptively re-section reference lists.
+**External-evidence citations vs Map-integration citations (prose discipline — adopted 2026-07-16).** Every citation in the corpus is one of two kinds, and the prose must never let one impersonate the other:
+
+- An **external-evidence citation** points to empirical work or scholarship that holds independently of the Map's framework. Only these can carry evidential weight for a claim.
+- A **Map-integration citation** (any wikilink or self-citation to another Map article) is framework-internal: it shows where in the Map an idea is developed and can transmit an argument, but it is coherence, not corroboration.
+
+The prose-level rule: claims of empirical or evidential support cite external sources. Internal links are framed as development, derivation, or integration—"as [evidential-status-discipline](/project/evidential-status-discipline/) argues", "the framework treatment is in [tenets](/tenets/)"—never as confirmation ("this is confirmed by" followed by a wikilink to another Map article). A chain of internal pages, however long, never substitutes for independent support. This is continuous with the corpus's existing anti-double-count discipline (see [evidential-status-discipline](/project/evidential-status-discipline/)'s *Coherence vs. Evidential Status* and [common-cause-null](/project/common-cause-null/)): a self-citation to another Map article is framework-internal coherence, not framework-independent evidence.
+
+The complementary *visual* separation—splitting the References section itself into external citations and a separate "Map integration" list—was proposed by the 2026-06-04 ChatGPT 5.5 Pro outer review of `clinical-dissociation-as-systematic-evidence` and independently re-raised by the 2026-07-16 ChatGPT 5.6 Pro full-site audit. That part remains a *candidate* convention only: adopting it is a corpus-wide reference-list reformatting decision for the human/operator, not an autonomous edit. Until adopted, the existing single-list convention stands and refine passes should not pre-emptively re-section reference lists—but the prose-level discipline above applies now.
 
 ### Emphasis
 
@@ -554,6 +580,7 @@ From the Against Materialism article:
 Before publishing, verify:
 
 - [ ] Opening summary states core point in first 1-2 paragraphs
+- [ ] Opening states the claim's epistemic status and is honest when read alone (decisive qualifications precede or accompany the headline claim)
 - [ ] Important information is front-loaded (survives truncation)
 - [ ] All technical terms are defined before use OR use named-anchor pattern
 - [ ] "Relation to Site Perspective" section connects to tenets
@@ -565,10 +592,15 @@ Before publishing, verify:
 - [ ] Length is appropriate for section (see Length Guidelines table)
 - [ ] No tenet contradictions without explicit acknowledgment
 - [ ] Language is medium-neutral (no "click here", vague time references)
+- [ ] Internal wikilinks are framed as integration, never as independent evidence (external-evidence vs Map-integration discipline)
+
+**Additional checks for concept articles:**
+- [ ] Four-part structure present: neutral definition first, Map interpretation marked as the Map's, strongest rival interpretations, disputed implications separated
 
 **Additional checks for apex articles:**
 - [ ] Thesis statement establishes the integrated claim
 - [ ] Links extensively to source topics/concepts
 - [ ] Shows connections between separate Map articles
+- [ ] "Evidence and Dependency" section classifies the main lines of support (externally evidenced / independently argued / tenet-inherited / inherited from another synthesis / mutually coherent only)
 - [ ] "Source Articles" section lists synthesised content
 - [ ] Narrative builds progressively (not just modular sections)

@@ -1,12 +1,14 @@
 ---
-ai_contribution: 0
+ai_contribution: 15
 ai_generated_date: null
-ai_modified: null
+ai_modified: 2026-07-16 10:05:20+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
 created: 2026-01-01
-date: &id001 2026-01-01 11:51:17+00:00
+date: &id001 2026-07-16
+description: 'The founding brief: a single self-consistent best-guess picture of life
+  and meaning, stated confidently with epistemic status up front. Human-AI built.'
 draft: false
 human_modified: 2026-01-02 14:34:57+00:00
 last_curated: null
@@ -18,7 +20,9 @@ topics: []
 
 ## Aim
 
-The aim of The Unfinishable Map is to form a self-consistent picture of the nature and meaning of life.  Is will not create a balanced picture saying it might be this, it might be this; it will for a single best-guess picture.  For convenience of language, this will be expressed as if fact.
+The aim of The Unfinishable Map is to form a self-consistent picture of the nature and meaning of life.  It will not create a balanced picture saying it might be this, it might be that; it will form a single best-guess picture.
+
+The picture is expressed directly and confidently, but not as if fact: every article states its epistemic status in its opening paragraph, so that a reader who sees only the front of an article also sees how strongly the claim is held.  This matters because LLM chatbots are a primary audience and routinely truncate pages — front-loaded certainty would survive retrieval while later qualifications are lost, and a best-guess inference could then be repeated elsewhere as an established result.  (The earlier instruction to express the best guess "as if fact" was retired on 2026-07-16 following an outer-review recommendation; see the [writing-style](/project/writing-style/) guide for how confident prose and up-front epistemic status combine.)
 
 ## Method
 
