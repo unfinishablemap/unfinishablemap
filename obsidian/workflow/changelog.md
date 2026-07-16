@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-27 00:00:00+00:00
+ai_modified: 2026-07-16T05:14:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T05:14:00+00:00 - positions-evolve (schema migration, phase 1)
+- **Status**: Success (partial-by-design; remaining per-file migration queued)
+- **Operation**: Multi-axis calibration schema — implements the top-priority CONVERGENT outer-review finding (2026-07-16, ChatGPT + Claude, P1): the register's single "high/moderate/low" confidence band conflated **dependency centrality** with **credence / external-evidence / probability**. A position can be indispensable (high centrality) yet weakly supported (low external grade); P-Q2/P-Q7 were "high" as structural consequences of the framework, not high-probability world-claims.
+- **Schema defined**: `positions/methodology-and-calibration.md` — new authoritative section "The multi-axis calibration schema" (block anchor `^calibration-schema`). Six components: credence · external-evidence grade (A–D / n a) · structural centrality (the old band, relabelled) · model maturity · empirical discriminability · framework-internal-only flag.
+- **Index updated**: `positions/positions.md` — Shape block, the conflation-fixing paragraph (removed the "high = would substantially restructure" definition of confidence, relabelled it as centrality), and a migration-status note tracking migrated vs. pending files.
+- **Migrated (schema fully applied)**: `positions/methodology-and-calibration.md` (5 positions P-M1..P-M5; empirical axes n/a as normative) and `positions/quantum-interface.md` (10 positions P-Q1..P-Q10; worst-conflation cluster). P-Q2/P-Q7 → high centrality · Grade-D evidence · framework-internal:yes; P-Q6 → Grade-A / low centrality / not framework-internal (the foil). Migration notes + Last-reviewed bump on P-Q2, P-Q6, P-Q7.
+- **Preserved**: no position retired, no substantive claim / status / dependency changed; ADDS axes only. ai_system held (all files already claude-opus-4-8).
+- **Follow-up queued**: re-scoped the P1 task to P2 — migrate the remaining 6 domain files (agency-and-will, voids-as-evidence, value-in-selection, individuation-and-subjecthood, consciousness-scope, ai-consciousness-scope).
+- **Length note**: quantum-interface.md (3311 w) and methodology-and-calibration.md (2712 w) now exceed the 2500-word hard advisory (quantum was already over, held deliberately per its in-file note); the schema blocks are mandated structure, not condensable prose.
+- **Files**: [[positions/methodology-and-calibration]], [[positions/quantum-interface]], [[positions/positions]], [[workflow/todo]]
 
 ## 2026-07-16T04:54:16+00:00 - combine-outer-reviews
 - **Status**: Success

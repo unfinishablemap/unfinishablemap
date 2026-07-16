@@ -4,7 +4,7 @@ description: "The Map's explicit, maintained register of positions it currently 
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-07-07T00:00:00+00:00
+ai_modified: 2026-07-16T05:14:00+00:00
 draft: false
 topics: []
 concepts:
@@ -23,7 +23,7 @@ last_curated: 2026-06-04
 
 ## What a position is
 
-A **position** is an explicit claim the Map currently holds, recorded as a register entry rather than as an essay. Each position has a status (live / superseded / retired), a confidence band (low / moderate / high), the tenets and prior positions it depends on, the apex/topic/concept articles that argue for it, and the conditions that would shift it.
+A **position** is an explicit claim the Map currently holds, recorded as a register entry rather than as an essay. Each position has a status (live / superseded / retired), a multi-axis calibration (credence, external-evidence grade, structural centrality, model maturity, empirical discriminability, and a framework-internal-only flag — see below), the tenets and prior positions it depends on, the apex/topic/concept articles that argue for it, and the conditions that would shift it.
 
 Positions are the visible commitments of the project. They are what changes if the Map is wrong about something specific. They are also what an applied apex article can build on when generating a decision-relevant verdict: rather than re-arguing every premise, the applied piece cites the positions it leans on and surfaces their confidence so the reader sees what the verdict turns on.
 
@@ -36,7 +36,7 @@ Each domain file in this section is a short register of positions of the form:
 ```markdown
 ## P-NN: <claim, stated assertively>
 - **Status**: live | superseded | retired
-- **Confidence**: low | moderate | high
+- **Calibration**: credence <low/moderate/high> · external-evidence grade <A/B/C/D/n a> · structural centrality <low/moderate/high> · model maturity <formalised/developed/programme> · empirical discriminability <direct/indirect/in-principle/none-by-construction/n a> · framework-internal only: <yes/no>
 - **Asserts**: <one paragraph; what the position commits to>
 - **Depends on**: <tenets, other positions, key arguments>
 - **Argued in**: [[apex/...]], [[topics/...]], [[concepts/...]]
@@ -44,7 +44,9 @@ Each domain file in this section is a short register of positions of the form:
 - **Last reviewed**: YYYY-MM-DD
 ```
 
-Confidence bands follow [[evidential-status-discipline]]: *low* = held provisionally pending key evidence; *moderate* = held with sustained support but live alternatives; *high* = the Map would substantially restructure if this were overturned. Hedging language in the **Asserts** paragraph should match the band — a *low*-confidence position should not be phrased as a settled result.
+Calibration follows the multi-axis schema defined authoritatively in [[methodology-and-calibration#^calibration-schema|Methodology and calibration]]. An outer-review convergence finding (2026-07-16, ChatGPT + Claude) showed the register's original single **Confidence** band conflated two independent things: it was defined by *how much the Map would restructure if the position were overturned* — which is **structural centrality**, not confidence, evidential support, or probability. A position can be highly central to the framework yet weakly supported by independent evidence (the quantum-interface positions P-Q2 and P-Q7 are the clearest cases). Each entry is therefore calibrated on six components: **credence** (the Map's subjective probability the claim is true), **external-evidence grade** (A–D strength of *independent* empirical support, or *n/a* for normative/meta positions), **structural centrality** (the old single band, correctly relabelled), **model maturity**, **empirical discriminability**, and a **framework-internal only** flag (set where a claim follows primarily from the tenets rather than independent evidence). Hedging language in the **Asserts** paragraph should match the *credence* and *external-evidence* axes, not the centrality one. See [[evidential-status-discipline]] for the underlying evidence vocabulary.
+
+**Calibration schema migration status (2026-07-16).** The multi-axis schema is fully applied in [[methodology-and-calibration|Methodology and calibration]] (its definitional home) and [[quantum-interface|Quantum interface]] (the domain the conflation finding targeted most directly). The remaining domain files still carry the legacy single **Confidence** band and are queued for per-file migration: [[agency-and-will|Agency and will]], [[voids-as-evidence|Voids as evidence]], [[value-in-selection|Value in selection]], [[individuation-and-subjecthood|Individuation and subjecthood]], [[consciousness-scope|Consciousness scope]], and [[ai-consciousness-scope|AI consciousness scope]]. Until each is migrated, read its single **Confidence** band as *structural centrality*, not as credence or external likelihood.
 
 ## Domains
 
