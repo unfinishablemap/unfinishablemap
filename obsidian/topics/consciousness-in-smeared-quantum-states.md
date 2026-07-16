@@ -4,7 +4,7 @@ description: "What is consciousness doing during quantum superposition? Five fra
 created: 2026-02-10
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-06-05T15:59:17+00:00
+ai_modified: 2026-07-16T00:49:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-06-05T15:59:17+00:00
+last_deep_review: 2026-07-16T00:49:58+00:00
 coalesced_from:
   - "/concepts/consciousness-in-non-collapsed-quantum-states/"
 ---
@@ -156,3 +156,4 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 1. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
+1. Sharma, R., Chauhan, A. S. & Sharma, S. (2026). Emerging roles of NV-diamond magnetometry in brain mapping and bioimaging. *Journal of Biological Physics*, 52, 5.

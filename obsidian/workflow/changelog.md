@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T00:49:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-in-smeared-quantum-states]]
+- **Word count**: 2686 → ~2700 (+14, one References line; 90% of 3000 soft threshold, length-neutral in effect)
+- **Critical issues addressed**: 0 (converged; 6th pass; line-78 calibration fix from 2026-06-05 held)
+- **Medium issues addressed**: 1 (completed citation apparatus — inline NV-diamond review "reviewed in J. Biol. Phys. 2026" had no References entry; verified + added Sharma, Chauhan & Sharma 2026, §2.4 step-5)
+- **Web-verify ledger**: Chalmers & McQueen 2021 quote VERBATIM-exact; Neven et al. 2024 (Entropy 26(6):460) real-correct, no "binding agent" over-claim present; Wiest 2025 framing currency-clean and more cautious than source; Wiest & Puniani 2025 covers the task-flagged "unnamed 2025 active-inference" inline claim; Sharma et al. 2026 (J. Biol. Phys. 52,5) verified + added to References; Denton 2024 not cited (N/A)
+- **Engagement modes**: Dennett (definiteness premise) Mode Three; Tegmark decoherence Mixed — both honest, no label leakage
+- **ai_system**: held at claude-opus-4-8 (single reference-completion edit is not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-16-consciousness-in-smeared-quantum-states]]
+
 ## 2026-07-16T00:45:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/aesthetics-and-consciousness]]
