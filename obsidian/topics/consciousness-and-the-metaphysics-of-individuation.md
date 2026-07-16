@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-19T21:25:00+00:00
+ai_modified: 2026-07-16T01:12:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-06-20T22:11:54+00:00
+last_deep_review: 2026-07-16T01:12:48+00:00
 ---
 
 Why does consciousness come in discrete subjects? Every conscious being has a private phenomenal field—a bounded perspective that is *this* perspective rather than any other. But what draws these boundaries? What determines that the world contains billions of separate conscious subjects rather than one vast field of experience, or none at all? The Unfinishable Map's dualist framework makes this question especially acute: if consciousness is not identical to the body, the body cannot be what individuates it.
@@ -52,7 +52,7 @@ The individuation question is distinct from—and more fundamental than—the qu
 
 William James identified the core puzzle in 1890. Consider his thought experiment: give twelve men one word each from a sentence. "Nowhere will there be a consciousness of the whole sentence." Private minds do not aggregate into a compound mind. Experiences do not sum.
 
-James's observation cuts in both directions. If experiences cannot combine upward into larger subjects, can a unified subject be decomposed downward into smaller ones? The answer appears to be no—or at least, not cleanly. [[split-brain-consciousness|Split-brain patients]], whose corpus callosum has been severed, display what Thomas Nagel characterised as "too much unity ... to say 'two', yet too much separation ... to say 'one'." The subject count is not determined by the anatomy.
+James's observation cuts in both directions. If experiences cannot combine upward into larger subjects, can a unified subject be decomposed downward into smaller ones? The answer appears to be no—or at least, not cleanly. [[split-brain-consciousness|Split-brain patients]], whose corpus callosum has been severed, display what Thomas Nagel characterised as too much unity to count them as two subjects, yet too much separation to count them as one—for him there is no whole number of centres of consciousness in such cases. The subject count is not determined by the anatomy.
 
 This creates a puzzle that no physical criterion resolves. The boundary of a conscious subject cannot be the boundary of a body (conjoined twins share bodies; split-brain patients may harbour more than one consciousness in a single skull). It cannot be the boundary of a brain region (no sharp neural threshold separates "one subject" from "two"). And it cannot be the boundary of a causal process, since many causal processes cross between subjects (conversation, shared environments, entangled neural responses) without merging their consciousnesses.
 

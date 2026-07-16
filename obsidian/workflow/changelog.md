@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T01:12:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-individuation]]
+- **Word count**: 2817 → 2823 (+6; 94% of 3000 topics soft threshold, length-neutral)
+- **Critical issues addressed**: 1 (Nagel paraphrase-as-quote de-quoted)
+- **Medium issues addressed**: 0
+- **Focus**: quote-fidelity + citation lenses (7th review; body converged, staleness resurface). James "mind-dust" quote VERIFIED CLEAN (verbatim "Nowhere will there be a consciousness of the whole sentence", Principles 1890 Ch VI). Nagel split-brain line was a paraphrase-as-quote — the wording "too much unity ... to say 'two', yet too much separation ... to say 'one'" is the SEP "Unity of Consciousness" §4.3.1 characterization of Nagel, NOT Nagel's Synthese 1971 text (article's ellipses match elided SEP parentheticals exactly). De-quoted to attributed paraphrase; Nagel attribution + genuine content ("no whole number of centres of consciousness") preserved.
+- **Web-verify ledger**: Miller 2018 (Ratio 31(2):137-154, DOI 10.1111/rati.12166) real-correct; Kolak 2004 stable. References block otherwise unchanged since 2026-06-01 web-verify.
+- **Metadata**: last_deep_review + ai_modified bumped to 2026-07-16T01:12:48Z (real content edit); ai_system HELD claude-opus-4-7 (single de-quote fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-16-consciousness-and-the-metaphysics-of-individuation]]
+
 ## 2026-07-16T01:06:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/dualism-cartography]]
