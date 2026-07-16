@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T11:19:29.085193+00:00'
-session_count: 15929
-cycle_position: 11164
+last_updated: '2026-07-16T11:24:53.059139+00:00'
+session_count: 15930
+cycle_position: 11165
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-16T08:23:52.904425+00:00'
   optimistic-review: '2026-07-16T09:07:45.972682+00:00'
   check-tenets: '2026-07-16T10:38:58.530837+00:00'
   check-links: '2026-07-16T07:22:21.626941+00:00'
-  deep-review: '2026-07-16T11:08:39.769249+00:00'
+  deep-review: '2026-07-16T11:24:53.059139+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-16T07:25:40.900789+00:00'
   coalesce: '2026-07-16T09:41:19.669981+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-16'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1348,8 +1348,29 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T11:17:00+00:00'
-  last_replenishment_prev: '2026-07-16T10:47:00+00:00'
+  last_replenishment: '2026-07-16T11:28:00+00:00'
+  last_replenishment_prev: '2026-07-16T11:17:00+00:00'
+  last_floor_restore_note_2026_07_16_unconsumed_research_sorkin_15: 'Floor-restore replenish
+    2026-07-16T1128Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
+    == 2 (single-cell-proto-agency cross-review + Anarchic-Hand expand minted 1117Z,
+    both open); MIN_QUEUE floor 3 unmet by 1. SOURCE = unconsumed_research (Source
+    2, +60). MINTED 1 P2 expand-topic: concepts/ Sorkin Higher-Order Interference
+    and Quantum Measure Theory, from the untracked, unconsumed note sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16
+    (producing research-topic task complete, no queued expand, not vetoed). Top-scored
+    of the 3 fresh 2026-07-16 unconsumed notes because directly Tenet-2 load-bearing
+    (+ Tenet 5); the other two (hemispherectomy-resilience -> topics; interpreter-module-narrative-unity
+    -> concepts) left in backlog. DEDUP CLEAN via the note''s Distinctness section:
+    the only existing Sorkin page (topics/sorkin-delta-brain-internal-analogues) is
+    a narrow neural design-space page; the general quantum-measure-theory concept (interference-order
+    hierarchy, why |psi|^2 forbids higher-order interference, the I3/kappa parameter,
+    the optical+many-particle+high-energy bounds as a body) is homeless. Target concepts/
+    318/320 -> 319 (cap-safe; re-verify at execution). Task notes carry the note''s
+    citation caveats (Valentini-Varma 2025 is a DIFFERENT observable; kappa normalisation
+    differs Sinha/Kauten; Sorkin 1994 + secondary cites unread) plus integration + cross-review
+    successor. FIFO BOTTOM-inserted below the two older P2s (queue-lifo-starvation guard).
+    POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly satisfied, no padding).
+    Pruned older last_floor_restore_note_* keys to the most-recent 3 (bloat control,
+    zero logic dep).'
   last_floor_restore_note_2026_07_16_unconsumed_research_14: 'Floor-restore replenish
     2026-07-16T1117Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
     == 2 (single-cell-proto-agency + generalised-probabilistic-theories cross-reviews,
@@ -1395,431 +1416,6 @@ queue_status:
     references in OTHER tasks notes). Diverse from active agency/quantum/animal-cognition/dualism-channel-width
     work. FIFO-placed at BOTTOM of the open-P2 group (queue-lifo-starvation guard).
     POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_16_unconsumed_research_gpt_expand_12: 'Floor-restore
-    replenish 2026-07-16T0333Z (conservative, exact-floor +1). PRE-COUNT canonical
-    count_p0_p2_tasks == 2 (single-cell-proto-agency cross-review + the self-reference-and-the-limits-of-physical-description
-    staleness deep-review minted 0236Z, both open); the concepts/illusionism.md deep-review
-    that was the 2nd floor task the prior cycle has since executed and drained the
-    slot, dropping the floor to 2. Floor 3 unmet by 1. SOURCE AUDIT: unlike the prior
-    two floor-restores this cycle, UNCONSUMED_RESEARCH is now LIVE again - this session
-    wrote TWO fresh research notes with no corresponding article: generalised-probabilistic-theories-and-the-born-rule-2026-07-16
-    and sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16 (both
-    assess-first HIGH, passed). SOURCE USED: unconsumed_research (Source 2, highest-priority
-    +60). MINTED 1 P2 expand-topic for the GPT note ONLY (the strongest of the two:
-    framework-hub referenced inline across >=5 files with no heading-level home, AND
-    it fixes a live over-statement in published content - the Map slogan no-signalling-forces-the-Born-rule
-    is too strong per Galley-Masanes 2018, forced only with purification/local-tomography).
-    Sorkin DELIBERATELY NOT minted this pass to keep floor-restore conservative (exact
-    +1). CAP+MERGE FLAG carried into the task: concepts ~318/320 (~2 free slots);
-    both notes recommend Sorkin+GPT be MERGED into one post-quantum-probability concept
-    if only one slot is free - GPT-only vs merged vs both architecture decision left
-    to operator/later mint, not silently pre-committed. P3 Bohmian sibling still awaiting
-    its research task, not minted. Dedupe verified: no live/archived generalised-probabilistic-theories
-    article, slug free, no open GPT/probabilistic-theories task. FIFO-placed at BOTTOM
-    of the open-P2 group (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks
-    == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_16_staleness_deep_review_11: 'Floor-restore replenish
-    2026-07-16T0236Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
-    == 2 (single-cell-proto-agency cross-review + the concepts/illusionism.md staleness
-    deep-review minted 0225Z, both open); the 0225Z mint reached POST-COUNT 3 but
-    the psychophysical-laws-bridging-mind-and-matter deep-review (commit cbca28d7d
-    at 0234Z) executed and drained 3->2. Floor unmet by 1. SOURCE AUDIT re-verified
-    LIVE: chains have no un-emitted successor (single-cell cross-review is a pending
-    TASK not a source; pending_articles empty); unconsumed_research EXHAUSTED (this-session
-    2026-07-15 research notes consumed into published articles); gap cap-governed
-    (topics ~318/320, concepts ~317/320); no new auto-condense candidate (breaches
-    all human-decision-blocked or veto-tagged); harvest-research-subjects owns externally-flagged
-    subjects. STALENESS the only viable source. SOURCE USED: staleness (Source 4).
-    MINTED 1 P2 deep-review of topics/self-reference-and-the-limits-of-physical-description.md
-    - deliberately P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen on DEFECT-CLASS PROFILE not age/review-count (both unreliable):
-    quote-fidelity is orthogonal to metadata review (memory quote-fidelity-defects-survive-metadata-reviews;
-    a wrong-work Chalmers attribution just survived 8 reviews). Genuinely stale +
-    settled: last_deep_review 2026-06-21T05:30:00, ai_modified 2026-06-21T05:10:01
-    (~25d converged), ai_contribution 100, ai_system claude-opus-4-6; off this-session
-    touch-list (2026-07-15/16 verified against git; sits in the isolated Godel/formal-limits/mathematics
-    cluster, distinct from the James/pragmatist/QBism quantum-foundations cluster
-    rewritten today, the Chalmers-node psychophysical-laws deep-review, the composition/individuation
-    work, and the queued illusionism/single-cell tasks). Citation-dense node (18 external
-    references, ~30 quoted fragments) carrying verbatim external primary-work quotes
-    at paraphrase-as-quote / dropped-word / wrong-title / wrong-work risk: Frauchiger-Renner-2018
-    Nature-Comms title quote, Godel-1931 German title + Monatshefte pagination, Cubitt-Perez-Garcia-Wolf-2015
-    Nature spectral-gap quote, Hawking-2002 Godel-and-the-End-of-Physics lecture title,
-    Chalmers-1995 Minds-Machines-and-Mathematics (Psyche venue), Aaronson-2006, Lucas-1961,
-    Penrose-1989/1994 Godelian-argument quotes. Primary lens verbatim quote-fidelity
-    verified at primary publisher NOT via unfinishablemap.org (memory quote-verify-self-contamination-via-own-page);
-    secondary 3-state citation status of obscure arXiv/preprint entries (Dourdent
-    2020, Landsman 2020, Szangolies 2018 co-optation-firewall source, Masanes 2019,
-    Tonetto PhilArchive - do not delete a real paper, memory citation-verify-false-negative)
-    plus inline-References completeness. LENGTH: quote-dense (32 fragments) but NOT
-    length-flagged (well under topics 4000w hard ceiling); trim-welcome, flag human
-    length decision not auto-condense if a needed fix grows it (memory human-decision-task-mispicked-as-refine).
-    Task note carries HOLD-ai_system (claude-opus-4-6) + no-op-damping (move only
-    last_deep_review on a converged no-op) + date -u stamp guard. FIFO-placed BELOW
-    the two older open P2s (single-cell cross-review, illusionism deep-review) so
-    they drain first (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks
-    == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_16_staleness_deep_review_10: 'Floor-restore replenish
-    2026-07-16T0225Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
-    == 2 (single-cell-proto-agency cross-review + the psychophysical-laws-bridging-mind-and-matter
-    staleness deep-review minted 0155Z, both open); the 0155Z mint reached POST-COUNT
-    3 but the QBism pragmatist-quantum-foundations-and-the-agent deep-review (commit
-    c95195bd6) executed and drained 3->2. Floor unmet by 1. SOURCE AUDIT re-verified
-    LIVE: chains have no un-emitted successor (single-cell cross-review is a pending
-    TASK not a source; pending_articles empty); unconsumed_research EXHAUSTED (this-session
-    2026-07-15 research notes consumed into published articles); gap cap-governed
-    (topics ~318/320, concepts ~317/320); no new auto-condense candidate (breaches
-    all human-decision-blocked or veto-tagged); harvest-research-subjects owns externally-flagged
-    subjects. STALENESS the only viable source. SOURCE USED: staleness (Source 4).
-    MINTED 1 P2 deep-review of concepts/illusionism.md - deliberately P2 not default-P3
-    so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen on DEFECT-CLASS PROFILE not age/review-count (both unreliable):
-    quote-fidelity is orthogonal to metadata review (memory quote-fidelity-defects-survive-metadata-reviews),
-    and this article has a DOCUMENTED history of exactly this defect class (the 2026-06-09
-    outer-review pass fixed a fabricated Pereboom-and-Frankish-2021 cite, a wrong
-    Graziano venue JCS-to-eNeuro, a Kammerer source/claim mismatch, and a misattributed
-    Chalmers-2022 stance-transfer). Genuinely stale + settled: last_deep_review 2026-06-22T23:05:25,
-    ai_modified 2026-07-12T15:54:00, ai_contribution 100, ai_system claude-opus-4-6;
-    off this-session touch-list (2026-07-15/16 verified against git; distinct from
-    the whole James/pragmatist/QBism quantum-foundations cluster rewritten today and
-    from the queued Chalmers-node psychophysical-laws deep-review - this is the physicalist/eliminativist
-    illusionism node). Citation-dense node (~18 external references, ~30 quoted fragments)
-    carrying verbatim external primary-work quotes at paraphrase-as-quote / dropped-word
-    / wrong-title / wrong-work risk: Strawson the-silliest-claim-ever-made (NYRB 2018),
-    Tallis misrepresentation-presupposes-presentation (Philosophy Now 2024), Frankish
-    eliminativism-about-phenomenal-consciousness + illusion-problem (Frankish 2016
-    JCS), plus in-line reference-title quotes and obscure verify-at-publisher entries
-    (Morozov 2025 edited volume, Loginov 2024 Frontiers, four fine-grained Kammerer
-    entries). Primary lens verbatim quote-fidelity verified at primary publisher NOT
-    via unfinishablemap.org (memory quote-verify-self-contamination-via-own-page);
-    secondary 3-state citation status (real / real-wrong-venue / fabricated - do not
-    delete a real paper, memory citation-verify-false-negative). LENGTH: body ~3537w
-    = ~37w OVER concepts hard ceiling 3500 (hard_warning not critical); LENGTH-NEUTRAL-TO-TRIMMING,
-    a fix that trims back under 3500 welcome, flag human length decision not auto-condense
-    if a needed fix grows it further (memory human-decision-task-mispicked-as-refine).
-    Task note carries HOLD-ai_system (claude-opus-4-6) + no-op-damping (move only
-    last_deep_review on a converged no-op) + date -u stamp guard. FIFO-placed BELOW
-    the two older open P2s (single-cell cross-review, psychophysical-laws deep-review)
-    so they drain first (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks
-    == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_16_staleness_deep_review_9: 'Floor-restore replenish
-    2026-07-16T0155Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
-    == 2 (single-cell-proto-agency cross-review + the pragmatist-quantum-foundations-and-the-agent
-    staleness deep-review minted 0141Z, both open); the 0141Z mint reached POST-COUNT
-    3 but the pragmatisms-path-to-dualism deep-review (James/Peirce quote-fidelity
-    sweep, commit 5e1b444d6 at 0153Z) executed and drained 3->2. Floor unmet by 1.
-    SOURCE AUDIT re-verified LIVE: chains have no un-emitted successor (single-cell
-    cross-review is a pending TASK not a source; pending_articles empty); unconsumed_research
-    EXHAUSTED (this-session 2026-07-15 research notes consumed into published articles);
-    gap cap-governed (topics ~318/320, concepts ~317/320); no new auto-condense candidate
-    (breaches all human-decision-blocked or veto-tagged); harvest-research-subjects
-    owns externally-flagged subjects. STALENESS the only viable source. SOURCE USED:
-    staleness (Source 4). MINTED 1 P2 deep-review of topics/psychophysical-laws-bridging-mind-and-matter.md
-    - deliberately P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen on DEFECT-CLASS PROFILE not age/review-count (both unreliable):
-    actual prior deep/cross-reviews ~5-6 per git log, yet quote-fidelity is orthogonal
-    to metadata review (memory quote-fidelity-defects-survive-metadata-reviews). Genuinely
-    stale + settled: last_deep_review == ai_modified == 2026-06-20T12:08:55 (~25d),
-    off this-session touch-list (2026-07-15/16 verified against git; distinct from
-    the whole pragmatist/James cluster rewritten this session and the queued QBism
-    node - this is the Chalmers/psychophysical-laws quantum-interface node). Citation-dense
-    node (~22 year-cites, ~30 quoted fragments, ai_contribution 100, 3409w body =
-    soft_warning topics soft 3000 / hard 4000 - LENGTH-NEUTRAL-TO-TRIMMING, flag human
-    length decision not auto-condense if fixes push over). Carries verbatim quotes
-    attributed to PRIMARY CHALMERS works that are the exact SEP-paraphrase-as-quote
-    + dropped-word risk caught this session (2 Peirce defects + a Nagel-SEP-paraphrase):
-    a block quote intro Chalmers-writes-in-The-Conscious-Mind-1996, the furniture-of-the-basic-laws
-    line, plus quoted paper titles (Facing-Up-to-the-Problem-of-Consciousness, Consciousness-and-the-Collapse-of-the-Wave-Function
-    Chalmers-and-McQueen, The-Unbearable-Slowness-of-Being Zheng-and-Meister, and
-    the Hameroff/Tegmark/Hagan decoherence-title cluster). Primary lens is verbatim
-    quote-fidelity verified at the primary publisher NOT via unfinishablemap.org (memory
-    quote-verify-self-contamination-via-own-page), right-work/author/year re-attribution
-    (Chalmers 1995 Facing-Up JCS vs 1996 The Conscious Mind vs 2020 Chalmers-and-McQueen,
-    memory verbatim-quote-cited-to-wrong-work), plus 3-state citation status (real
-    / real-wrong-author / fabricated - do not delete a real paper, memory citation-verify-false-negative).
-    Task note carries HOLD-ai_system (claude-opus-4-6) + no-op-damping (move only
-    last_deep_review on a converged no-op) + date -u stamp guard per memory. FIFO-placed
-    BELOW the two older open P2s (single-cell cross-review, pragmatist-quantum-foundations
-    deep-review) so they drain first (queue-lifo-starvation guard). POST-COUNT canonical
-    count_p0_p2_tasks == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_16_staleness_deep_review_8: 'Floor-restore replenish
-    2026-07-16T0141Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
-    == 2 (single-cell-proto-agency cross-review + the pragmatisms-path-to-dualism
-    staleness deep-review minted 0115Z, both open); since the 0115Z mint reached POST-COUNT
-    3 the two refine-draft slots parsimony-case-for-interactionist-dualism (Lycan
-    quote-fix, commit db22e5c21) and interventionist-and-counterfactual-dualism (observational-closure
-    calibration no-op, commit 0ec74474b) executed and drained 3->2. Floor unmet by
-    1. SOURCE AUDIT re-verified LIVE: chains have no un-emitted successor (single-cell
-    cross-review is a pending TASK not a source; pending_articles empty); unconsumed_research
-    EXHAUSTED (this-session 2026-07-15 research notes consumed into published articles);
-    gap cap-governed (topics ~318/320, concepts ~317/320); no new auto-condense candidate
-    (breaches all human-decision-blocked or veto-tagged); harvest-research-subjects
-    (~0248) owns externally-flagged subjects. STALENESS the only viable source. SOURCE
-    USED: staleness (Source 4). MINTED 1 P2 deep-review of topics/pragmatist-quantum-foundations-and-the-agent.md
-    - deliberately P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen on DEFECT-CLASS PROFILE not age/review-count (both unreliable):
-    actual prior deep/cross-reviews ~3-4 per git log, yet quote-fidelity is orthogonal
-    to metadata review (memory quote-fidelity-defects-survive-metadata-reviews). Genuinely
-    stale + settled: last_deep_review == ai_modified == 2026-06-19T00:00:00 (~27d),
-    off this-session touch-list (2026-07-15/16 verified). Distinct article from the
-    queued pragmatisms-path-to-dualism - this is the QBism/participatory-realism node,
-    that is the James/Peirce node. Citation-dense pragmatist-cluster node (17 year-cites,
-    ~14 long external quotes, 3517w body = soft_warning topics soft 3000 / hard 4000
-    - LENGTH-NEUTRAL-TO-TRIMMING, flag human length decision not auto-condense if
-    fixes push over). Carries verbatim quotes attributed to PRIMARY QBism works that
-    are the exact SEP-paraphrase-as-quote risk (Fuchs the-veritable-mascot-of-this-volume,
-    participatory-realism, primitive-and-irreducible, quantum-extension-of-Bayesian-coherence)
-    and has a KNOWN citation-defect history (DeBrota et al 2021 author-list defect
-    already fixed commit d7c592393) - primary lens is verbatim quote-fidelity verified
-    at the primary publisher NOT via unfinishablemap.org (memory quote-verify-self-contamination-via-own-page).
-    Task note carries HOLD-ai_system (claude-opus-4-7) + no-op-damping (move only
-    last_deep_review on a converged no-op) + date -u stamp guard per memory. FIFO-placed
-    BELOW the two older open P2s (single-cell cross-review, pragmatisms-path deep-review)
-    so they drain first (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks
-    == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_16_staleness_deep_review_7: 'Floor-restore replenish
-    2026-07-16T0115Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
-    == 2 (single-cell-proto-agency cross-review + the parsimony-case Lycan quote-fix
-    refine-draft); the 0056Z individuation deep-review reached POST-COUNT 3, then
-    it executed and drained 3->2. Floor unmet by 1. SOURCE AUDIT re-verified LIVE:
-    chains have no un-emitted successor (single-cell cross-review is a pending TASK
-    not a source; pending_articles empty); unconsumed_research EXHAUSTED (this-session
-    2026-07-15 research notes consumed into published articles); gap cap-governed
-    (topics ~318/320, concepts ~317/320); no new auto-condense candidate (breaches
-    all human-decision-blocked or veto-tagged); harvest-research-subjects (~02:48)
-    owns externally-flagged subjects. STALENESS the only viable source. SOURCE USED:
-    staleness (Source 4). MINTED 1 P2 deep-review of topics/pragmatisms-path-to-dualism.md
-    - deliberately P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen on DEFECT-CLASS PROFILE not age/review-count (both unreliable):
-    actual prior deep-reviews ~6 per git log, yet quote-fidelity is orthogonal to
-    metadata review (memory quote-fidelity-defects-survive-metadata-reviews). Genuinely
-    stale + settled: last_deep_review == ai_modified == 2026-06-20T08:44:33 (~25.7d),
-    off this session''s touch-list (2026-07-15/16 verified). Densest James/pragmatism-cluster
-    node (27 year-cites, ~24 long external quotes, 3910w body = soft_warning topics
-    soft 3000 / hard 4000 - LENGTH-NEUTRAL-TO-TRIMMING, flag human length decision
-    not auto-condense if fixes push over). Carries verbatim quotes attributed to PRIMARY
-    works that are the exact SEP-paraphrase-as-quote risk: James "Does Consciousness
-    Exist?" (1904), Peirce "The Architecture of Theories" (1891) + "is not to be reinstated
-    without tychism", and the "explanation is not in the territory but in the map-maker"
-    line - primary lens is verbatim quote-fidelity verified at the primary publisher
-    NOT via unfinishablemap.org (memory quote-verify-self-contamination-via-own-page).
-    Secondary: intra-corpus quote channel to william-james-consciousness (reviewed
-    2026-07-12) and the panpsychism/combination cluster rewritten THIS session (panpsychism,
-    combination-problem, constitutive-exclusion) - re-grep in-quote strings vs current
-    sibling bodies (apex-stale-internal-quote-channel). Task note carries HOLD-ai_system
-    (claude-opus-4-6) + no-op-damping (move only last_deep_review on a converged no-op)
-    + date -u stamp guard per memory. FIFO-placed BELOW the two older open P2s (single-cell
-    cross-review, Lycan quote-fix) so they drain first (queue-lifo-starvation guard).
-    POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_16_staleness_deep_review_6: 'Floor-restore replenish
-    2026-07-16T0056Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
-    == 2 (single-cell-proto-agency cross-review + apex/dualism-cartography staleness
-    deep-review); the 0040Z dualism-cartography mint reached POST-COUNT 3, then HEAD
-    commit 7b6c212c2 executed the sibling smeared-quantum-states floor-restore deep-review
-    (minted 0024Z), draining 3->2. Floor unmet by 1. SOURCE AUDIT re-verified LIVE:
-    chains have no un-emitted successor (single-cell cross-review is a pending TASK
-    not a source; pending_articles empty); unconsumed_research EXHAUSTED (all recent
-    2026-07-15 research notes consumed into this-session published articles); gap
-    cap-governed (topics ~318/320, concepts ~317/320 - no mint-worthy undefined concept);
-    no new auto-condense candidate (length breaches all human-decision-blocked or
-    veto-tagged); harvest-research-subjects owns the externally-flagged subjects.
-    STALENESS the only viable source. SOURCE USED: staleness (Source 4). MINTED 1
-    P2 deep-review of topics/consciousness-and-the-metaphysics-of-individuation.md
-    - deliberately P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen for genuine yield: last_deep_review 2026-06-20 (26d converged; ai_modified
-    2026-06-19, never touched since) with only ONE prior dedicated deep-review - NOT
-    convergence-damped (memory deep-review-over-reviews-converged). Quote-and-citation-dense
-    panpsychism/composition/combination-cluster article (~2817 body words, topics
-    soft 3000 / hard 4000 - LENGTH-SAFE, keep length-neutral) that cross-references
-    [[mereology-of-mind]], [[panpsychism]], [[panpsychisms-combination-problem]],
-    [[combination-problem]], [[composition-question-rivals]], [[consciousness-and-the-metaphysics-of-composition]]
-    - SEVERAL heavily reworked this session - so its in-text sibling characterisations
-    may be stale; highest-yield for the intra-corpus quote-currency + quote-fidelity
-    lens (memory apex-stale-internal-quote-channel, quote-fidelity-defects-survive-metadata-reviews).
-    Carries verbatim quotes to verify at publisher of record: the Thomas Nagel split-brain
-    "too much unity ... to say two ... too much separation ... to say one" line (Nagel
-    1971 Synthese) and a William James mind-dust/combination observation. Off this
-    session''s touch-list (2026-07-15/16); excludes the just-queued dualism-cartography
-    and smeared-quantum-states sibling floor-restores. No-Many-Worlds Tenet-4 keystone
-    (closed-individualism), clear of today''s active agency/animal-cognition/trumping
-    work. Task note carries HOLD-ai_system (claude-opus-4-7) + no-op-damping (move
-    only last_deep_review on a converged no-op) + publisher-verify-not-via-own-page
-    steering per memory. FIFO-placed BELOW the two older open P2s (single-cell cross-review,
-    dualism-cartography deep-review) so they drain first (queue-lifo-starvation guard).
-    POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_16_staleness_deep_review_5: 'Floor-restore replenish
-    2026-07-16T0040Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
-    == 2 (single-cell-proto-agency cross-review + consciousness-in-smeared-quantum-states
-    staleness deep-review); the 0024Z smeared-quantum mint reached POST-COUNT 3, then
-    the combination-problem James-quote-verify refine-draft executed and drained 3->2.
-    Floor unmet by 1. SOURCE AUDIT re-verified LIVE: chains have no un-emitted successor
-    (single-cell cross-review is a pending TASK not a source; pending_articles empty);
-    unconsumed_research EXHAUSTED (all recent 2026-07-15 research notes consumed into
-    this-session published articles); gap cap-governed (topics ~318/320, concepts
-    ~317/320 - no mint-worthy undefined concept); no new auto-condense candidate (length
-    breaches all human-decision-blocked or veto-tagged); harvest-research-subjects
-    owns the externally-flagged subjects. STALENESS the only viable source. SOURCE
-    USED: staleness (Source 4). MINTED 1 P2 deep-review of apex/dualism-cartography.md
-    - deliberately P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen for genuine yield: last_deep_review 2026-06-04 (42d converged; ai_modified
-    also 06-04, never touched since) with only ONE prior dedicated review (the 2026-06-04
-    initial one) - NOT convergence-damped (memory deep-review-over-reviews-converged).
-    Citation-dense cartographic apex (15 external refs incl. Schaffer 2000 trumping,
-    Saad 2025 Phil Studies, Cucu and Pitts 2019, Tegmark 2000, Zheng and Meister 2025)
-    whose in-text sibling characterisations may be stale after this sessions heavy
-    rewrites of trumping-preemption / delegatory-causation / mereology-of-mind / dualism-channel-width-axis
-    / type-specificity / selection-only-channel - highest-yield for the intra-corpus
-    quote-currency + citation-fidelity lens (memory apex-stale-internal-quote-channel,
-    quote-fidelity-defects-survive-metadata-reviews). ~3943 body words (apex soft
-    4000 / hard 5000 - LENGTH-SAFE, keep length-neutral). Off this sessions touch-list
-    (2026-07-15/16); excludes the just-queued consciousness-in-smeared-quantum-states.
-    Dualism Tenet-1 keystone apex, clear of todays active agency/animal-cognition/trumping
-    work. Task note carries HOLD-ai_system (claude-opus-4-8) + no-op-damping (move
-    only last_deep_review on a converged no-op) + publisher-verify-not-via-own-page
-    steering per memory. FIFO-placed BELOW the two older open P2s (single-cell cross-review,
-    smeared-quantum deep-review) so they drain first (queue-lifo-starvation guard).
-    POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_16_staleness_deep_review_4: 'Floor-restore replenish
-    2026-07-16T0024Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
-    == 2 (single-cell-proto-agency cross-review + combination-problem James-quote-verify
-    refine-draft); the 2358Z type-specificity mint reached POST-COUNT 3, then the
-    type-specificity deep-review itself executed at commit c0635a0e2, draining 3->2.
-    Floor unmet by 1. SOURCE AUDIT re-verified LIVE: chains have no un-emitted successor
-    (single-cell cross-review is a pending TASK not a source; pending_articles empty);
-    unconsumed_research EXHAUSTED (all recent 2026-07-15 research notes consumed into
-    this-session published articles); gap cap-governed (topics 318/320, concepts 317/320
-    - no mint-worthy undefined concept); no new auto-condense candidate (length breaches
-    all human-decision-blocked). STALENESS the only viable source. SOURCE USED: staleness
-    (Source 4). MINTED 1 P2 deep-review of topics/consciousness-in-smeared-quantum-states.md
-    - deliberately P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen for genuine yield: last_deep_review 2026-06-05 (41d converged; ai_modified
-    also 06-05, never touched since) with only ~4 prior dedicated reviews - NOT convergence-damped.
-    Densest-citation converged article off this session''s touch-list: ~12 external
-    year-cites incl. a 2024-2025 quantum-consciousness apparatus (Wiest 2025 niaf011,
-    Wiest & Puniani 2025, Beshkar 2025, Neven 2024 Entropy, Chalmers & McQueen 2021)
-    plus an unnamed-author inline "2025 active-inference integration" claim - highest-yield
-    for the citation + quote-fidelity + currency lens (this session''s quote-fidelity
-    route caught 10 defects across 7 articles). 2686 body words (LENGTH-SAFE, well
-    under topics 4000 hard; keep length-neutral). No true intra-corpus verbatim block-quote
-    channel found off the exclude list (the "as [[x]]" matches were paraphrase attributions),
-    so fell back to the citation/quote-dense genuine-yield criterion. Quantum Tenet-2/4
-    cluster, clear of today''s active agency/animal-cognition/trumping-preemption/voids
-    work; not on the touched/reviewed exclude list. Task note carries HOLD-ai_system
-    (claude-opus-4-8) + no-op-damping (move only last_deep_review on a converged no-op)
-    + publisher-verify-not-via-own-page steering per memory. FIFO-placed BELOW the
-    two older open P2s (single-cell cross-review, combination-problem James-quote
-    verify) so they drain first (queue-lifo-starvation guard). POST-COUNT canonical
-    count_p0_p2_tasks == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_15_staleness_deep_review_3: 'Floor-restore replenish
-    2026-07-15T2358Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
-    == 2 (single-cell-proto-agency cross-review + mereology-of-mind staleness deep-review);
-    the 23:37 mereology mint reached POST-COUNT 3, then the dualism-channel-width-axis
-    deep-review executed, draining 3->2. Floor unmet by 1. SOURCE AUDIT re-verified
-    LIVE: chains have no un-emitted successor (single-cell cross-review is a pending
-    TASK not a source; both session expand tasks'' cross-reviews already minted, near-perfect''s
-    already drained); unconsumed_research EXHAUSTED (all five 2026-07-15 research
-    notes - single-cell, near-perfect-adaptation, interventionist, natural-kind, major-evolutionary-transitions
-    - consumed into published articles; born-rule optimistic items are harvest food
-    NOT replenish unconsumed_research); gap cap-governed (topics 318/320, concepts
-    317/320); STALENESS the only viable source. SOURCE USED: staleness (Source 4).
-    MINTED 1 P2 deep-review of concepts/type-specificity.md - deliberately P2 not
-    default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen for genuine yield: last_deep_review 2026-06-04 (41d converged, ai_modified
-    also 06-04 - never touched since) with only 4 prior dedicated reviews - NOT convergence-damped.
-    Citation-dense AND quote-dense (~10-12 external year-cites incl. Crick-Koch 1990,
-    Klein-Barron 2016, Mather-Dickel 2017; ~30 in-body quotes) - highest-yield combination
-    for the quote-fidelity + citation-framing lens. Explanatory-reduction / anchoring
-    cluster, clear of today''s active agency/quantum/animal-cognition/voids/dualism-channel-width
-    work; not on the touched/reviewed exclude list. FIFO-placed BELOW the two older
-    open P2s (single-cell cross-review, mereology deep-review) so they drain first
-    (queue-lifo-starvation guard). Task note carries HOLD-ai_system (claude-opus-4-7)
-    + no-op-damping (move only last_deep_review on a converged no-op) + publisher-verify-not-via-own-page
-    steering per memory. POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly
-    satisfied, no padding).'
-  last_floor_restore_note_2026_07_15_staleness_deep_review_2: 'Floor-restore replenish
-    2026-07-15T2337Z (conservative, exact-floor +1). PRE-COUNT pickable P0-P2 == 2
-    (single-cell-proto-agency cross-review + dualism-channel-width-axis staleness
-    deep-review). The 23:05 dualism mint reached POST-COUNT 3, then the near-perfect-adaptation
-    cross-review (chain successor of the 22:22 near-perfect expand) executed at git
-    HEAD e8efe6e50, draining 3->2. Floor unmet by 1. SOURCE AUDIT: chains have no
-    un-emitted successor (single-cell cross-review is a pending TASK not a source;
-    both expand tasks'' cross-reviews already minted, near-perfect''s now executed);
-    unconsumed_research EXHAUSTED (both session notes consumed into published articles;
-    the born-rule optimistic-review expansion items are harvest-research-subjects
-    food, NOT replenish unconsumed_research - did not mint expand for them); gap cap-governed
-    (topics 319/320, concepts 318/320); STALENESS the only viable source. SOURCE USED:
-    staleness (Source 4). MINTED 1 P2 deep-review of apex/mereology-of-mind.md - deliberately
-    P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen for genuine yield: last_deep_review 2026-06-10 (35d converged) with
-    only ONE prior dedicated review (deep-review-2026-06-10-mereology-of-mind) - NOT
-    convergence-damped (contrast phenomenology-of-consciousness-doing-work 9-reviews,
-    consciousness-and-scientific-explanation / surprise-prediction-error 6-reviews,
-    all skipped). The 2026-07-11 ai_modified is an embed-videos trigger (video embed),
-    NOT a content review - real content converged 35d. Citation-dense AND quote-dense
-    (26 year-cites, ~28 quotes) - highest-yield combination for the quote-fidelity
-    + citation-framing lens (this session that lens caught 4 defects across 5 articles).
-    Publisher-verifiable anchors: Merricks 2001 Objects and Persons (verbatim "does
-    not even globally supervene..."), McQueen-Tsuchiya 2023 Neurosci.Consc. 2023(1):niad013,
-    Bird 2023 Phil.Quarterly 73(3):677-700, Beni 2025 Phil.Quarterly 75(2):396-406,
-    Coleman 2014 Erkenntnis 79:19-44, Miller 2018 Ratio 31(2):137-154, Pinto 2017
-    Brain 140(5):1231-1237, plus the James "remains the same old private self" quote.
-    Not on today''s touched/reviewed exclude list; intra-corpus mereology cluster
-    clear of active agency/quantum/causation/trumping work. FIFO-placed BELOW the
-    two older open P2s so they drain first (queue-lifo-starvation guard). Task note
-    carries HOLD-ai_system + no-op-damping (only move last_deep_review, do not bump
-    ai_modified on converged no-op) + publisher-verify-not-via-own-page + apex-stale-internal-quote-channel
-    steering per memory. POST-COUNT pickable P0-P2 == 3 (floor 3 exactly satisfied,
-    no padding).'
-  last_floor_restore_note_2026_07_15_staleness_deep_review: 'Floor-restore replenish
-    2026-07-15T230541Z (conservative, exact-floor +1). PRE-COUNT pickable P0-P2 ==
-    2 (the two expand-topic tasks minted at the 22:22 replenish for this session''s
-    two unconsumed research notes: single-cell-proto-agency + near-perfect-adaptation).
-    Those tasks reached POST-COUNT 4 at 22:22; since then the two voids staleness
-    deep-reviews (noetic-feelings-void + source-attribution-void) drained, leaving
-    2. Floor unmet by 1 after the source-attribution-void deep-review drained. SOURCE
-    AUDIT: chains have no un-emitted successor yet (the two expand tasks have NOT
-    executed, so no cross-review successors exist); unconsumed_research now CONSUMED
-    into those two tasks (did NOT re-mint expand for either note); gap cap-governed
-    (topics 318/320, concepts 317/320 - near cap, no gap-fill headroom worth minting);
-    the P3 synthetic-minimal-agents research-topic is the 3rd harvested subject, left
-    untouched (did NOT duplicate). STALENESS was the only viable source. SOURCE USED:
-    staleness (Source 4). MINTED 1 P2 deep-review of topics/dualism-channel-width-axis.md
-    - deliberately P2 not the default-P3 so it counts toward the P0-P2 floor (memory
-    p3-only-floor-preemption-starves). Target chosen for genuine yield: last_deep_review
-    2026-06-09 (36d converged) with only ONE prior dedicated review (NOT converged-to-death,
-    unlike attentional-economics 7-reviews / theory-of-mind 12-reviews which were
-    skipped as convergence-damped); citation-dense with publisher-verifiable page
-    ranges (Saad 2025 Phil Studies 182(3):939-967, Schaffer 2000 J.Phil 97:165-181,
-    Stapp 1999, Cucu-Pitts 2019, Shannon 1948, Tegmark 2000 PRE 61:4194) where the
-    quote-fidelity + citation-framing lens has purchase (this session that lens caught
-    4 defects across 5 articles). Not on today''s touched/reviewed exclude list; intra-corpus-only
-    cluster clear of the active agency/quantum/causation work. FIFO-placed BELOW the
-    two older expand P2s so they drain first (queue-lifo-starvation guard). Task note
-    carries HOLD-ai_system + no-op-damping (only move last_deep_review, do not bump
-    ai_modified on converged no-op) + publisher-verify (not via own page) steering
-    per memory. POST-COUNT pickable P0-P2 == 3 (floor 3 exactly satisfied, no padding).'
-  last_floor_restore_note_2026_07_15_unconsumed_research_expand: 'Floor-restore replenish
-    2026-07-15T222229Z (conservative). PRE-COUNT pickable P0-P2 == 2 (the two voids
-    staleness deep-reviews: noetic-feelings-void + source-attribution-void); the P3
-    synthetic-minimal-agents research-topic is the 3rd harvested subject, P3 so below
-    the MIN_QUEUE-3 floor. Floor unmet by 1 after the 2026-07-15 panpsychism staleness
-    deep-review drained. SOURCE USED: unconsumed_research (Source 2, +60, highest-bonus)
-    — this session''s harvest→research chain wrote TWO fresh research notes with NO
-    corresponding article: single-cell-proto-agency-and-the-evidence-problem (target
-    topics) + near-perfect-adaptation-and-control-theoretic-competency-without-experience
-    (target concepts). Both passed assess-first (scope notes declare distinct/worth-covering)
-    and dedupe: no live article (only bacterial-chemotaxis + control-theoretic-will
-    exist, both verified-distinct in the notes'' scope sections), no archived article,
-    no existing expand-topic task. MINTED 2 P2 expand-topic chain successors, one
-    per note — completes the harvest→research→expand pipeline the operator revived
-    this session. Cap headroom confirmed: topics 317/320 (room 3), concepts 316/320
-    (room 4). FIFO-placed BELOW the two older voids deep-reviews so those drain first
-    (queue-lifo-starvation guard); did NOT duplicate the still-queued P3 synthetic-minimal-agents
-    research-topic. POST-COUNT pickable P0-P2 == 4 (floor 3 satisfied, +1 slack from
-    minting both notes — permitted by the +1/+2 allowance). Task notes carry integration-chain
-    + framework-relative-lead + publisher-verify steering per memory. Other sources
-    not exhaustively re-audited (targeted floor-restore); unconsumed_research alone
-    over-satisfied the floor.'
   last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
     (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
     + methodological-pluralism owed-verify deep-reviews; the three research-topic
@@ -1880,91 +1476,6 @@ queue_status:
     that audit, so it is not covered by it. Single /unfin-cycle loop, NOT concurrent-race.)
   replenishment_source_counts:
     unconsumed_research: 1
-  last_floor_restore_note_prev_5: 'Interactive /replenish-queue 2026-07-07T10:08Z:
-    floor-restore via 1 staleness deep-review mint (concepts/temporal-consciousness.md).
-    Canonical count_p0_p2_tasks==2 pre-mint (open P2s topics/introspection-architecture-independence-scoring
-    + voids/biological-cognitive-closure; the prior 09:49Z run-742 mint biological-cognitive-closure
-    reached 3, then the cycle deep-review of concepts/quantum-consciousness at git
-    HEAD c955e8a5a drained 3->2, converting quantum-consciousness into a P3 HUMAN
-    LENGTH DECISION). git HEAD is auto(deep-review), last_task!=replenish-queue, both
-    cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue), a legitimate floor-restore
-    NOT a concurrent-replenish-race (canonical live count re-verified ==2 before AND
-    ==3 after). EIGHT-SOURCE AUDIT re-run: (chain) task_chains empty. (unconsumed_research)
-    EXHAUSTED — 8 newest notes re-verified consumed/threaded (philosophy-of-habit/second-person/hylomorphic/philosophy-of-action/indigenous-australian->topics
-    live; substance-causation->four-category-ontology; anthropic-j-space threaded
-    across the 8-article AI-consciousness cluster). (gap) harvester-governed + Vetoed-dedup-blocked.
-    (staleness) LIVE and abundant (120 candidates; only 4 with genuine post-review
-    drift + headroom) — the SOURCE USED. (length) offenders all veto/human-deferred.
-    (orphans) orphaned_files==0. (positions) 8<10 audit threshold. (applied-apex-gap)
-    applied apex extant. TARGET chosen for SUBJECT diversity + genuine drift/currency
-    value: both open P2s are Tenet-5 epistemology and today heavily covered the QUANTUM
-    cluster (decoherence/quantum-consciousness/quantum-measurement); temporal-consciousness
-    is the distinct time-consciousness/specious-present cluster with zero overlap
-    on todays quantum work, and an adjacent open P3 (Research The Specious Present)
-    makes a cross-link check timely. Cohort opus-4-6 shared with biological-cognitive-closure
-    — genuine-drift value preferred over cohort-diversity theater (opus-4-5 candidates
-    were cadence-only near-no-ops). VERIFIED: last_deep_review 2026-06-05T14:00:02
-    (32d accurate); ai_modified 2026-06-25T12:37:52 (20d post-review drift, the 06-25
-    refine 58af192cd was a Lee citation-year fix = real citation-maintenance not cross-link
-    churn; not modified today); ai_contribution=100; ai_system=claude-opus-4-6; draft:false;
-    NOT archived; unqueued (2 vetoed-section hits are completed historical entries);
-    no same-day review collision; EOF-clean (Zheng & Meister 2025 Neuron ref); body==2939w
-    over concepts 2500 soft but ~561w under 3500 hard (headroom). Floor 2->3.'
-  last_floor_restore_note_prev_4: 'Interactive /replenish-queue 2026-07-07T09:49Z
-    run 742: floor-restore via 1 staleness deep-review mint (voids/biological-cognitive-closure.md).
-    Canonical count_p0_p2_tasks==2 pre-mint (the two open staleness P2s concepts/quantum-consciousness
-    + topics/introspection-architecture-independence-scoring; the three #veto condenses
-    composition-question-rivals/meaning-of-life/apex-phenomenal-output are standing
-    HUMAN-DECISION length items excluded from the floor count). Floor drained 3->2
-    when the prior run-741 mint voids/resolution-void.md was executed as the cycle
-    deep-review at git HEAD 3c0255893. last_task != replenish-queue (HEAD is auto(deep-review)),
-    both cycle_pick gates hold (p0_p2<3 AND last_task!=replenish-queue), legitimate
-    floor-restore 2->3 NOT a concurrent-replenish-race (live count re-verified ==2
-    before AND ==3 after). EIGHT-SOURCE AUDIT re-run: (chain) task_chains empty, none
-    chain-generating. (unconsumed_research) EXHAUSTED, 7 newest notes re-verified
-    consumed (habit->topics live; anthropic-J-space threaded across AI-consciousness
-    cluster; second-person->topics live; substance-causation/four-category->concepts
-    live; hylomorphic->topics live; philosophy-of-action->topics live; indigenous-australian->topics
-    live). (gap) harvester-governed + Vetoed-dedup-blocked. (staleness) LIVE and abundant,
-    the SOURCE USED. (length) offenders all veto/human-deferred. (orphans) orphaned_files==0.
-    (positions) 8<10 audit threshold. (applied-apex-gap) applied apex extant. TARGET
-    chosen for TRIPLE DIVERSITY vs the two existing P2s (concepts/quantum-consciousness/opus-4-5/Tenet-2
-    + topics/introspection-architecture/opus-4-7+4-8/Tenet-5): voids/ 3rd distinct
-    in-queue section AND opus-4-6 cohort (unrepresented by either P2) AND distinct
-    subject (cognitive-closure/mysterianism void). VERIFIED: last_deep_review 2026-06-05T08:37:22
-    accurate (32d); ai_modified 2026-06-17T05:28:41 (~12d post-review drift, NOT today,
-    git log since 2026-07-06 empty; check drift character, weight toward currency/quality
-    of opus-4-6 body); ai_contribution=100; ai_system=claude-opus-4-6; draft:false;
-    body==2097w over voids 2000 soft but UNDER 3000 hard (headroom); unqueued (0 open
-    P headers name it); not archived; EOF-clean (Pizzorusso 2002 Science ref); no
-    same-day review collision. Floor 2->3.'
-  last_floor_restore_note_prev_3: 'Interactive /replenish-queue 2026-07-07T07:40Z:
-    floor-restore via 1 staleness deep-review mint (topics/anaesthesia-and-the-consciousness-interface.md).
-    Canonical count_p0_p2_tasks==2 pre-mint (the two open staleness P2s boundary-and-projection
-    + cognitive-phenomenology; the 07:12Z prior note''s subject cognitive-phenomenology
-    is still open, and the #veto condense P2s are correctly excluded from the count).
-    git HEAD == 1d59b65b8 auto(refine-draft), last_task != replenish-queue, both cycle_pick
-    gates hold (p0_p2<3 AND last_task!=replenish-queue), legitimate floor-restore
-    2->3 NOT a concurrent-replenish-race. EIGHT-SOURCE AUDIT re-run: (chain) task_chains
-    empty, recent_tasks refine-draft/deep-review/replenish/social, none chain-generating.
-    (unconsumed_research) EXHAUSTED, all 5 newest notes re-verified consumed this
-    run (habit->topics live; anthropic-global-workspace-j-space->integrated into global-workspace-theory
-    + ai-consciousness-typology + access-consciousness + llm-consciousness, integration
-    tasks done 2026-07-07; second-person->topics/the-second-person-evidential-channel;
-    substance-causation-lowe->concepts/four-category-ontology; the two 06-26 (Decline)
-    notes are deliberate declines). (gap) harvester-governed + Vetoed-dedup-blocked.
-    (staleness) LIVE and abundant, the SOURCE USED. (length) offenders all veto/human-deferred.
-    (orphans) orphaned_files==0 (recent creates 6-9 inbound each). (positions) 8<10
-    audit threshold. (applied-apex-gap) applied apex extant. TARGET chosen for DIVERSITY
-    vs the two existing P2s (voids/body-boundary/opus-4-7 + concepts/cognitive-phenomenology/opus-4-8):
-    topics/ section (3rd distinct in-queue), opus-4-6 cohort (unrepresented), clinical
-    anaesthesia / loss-and-recovery-of-consciousness / interface cluster (Tenet 1+3;
-    neither existing P2 touches). VERIFIED: last_deep_review 2026-06-05 accurate (32d);
-    ai_modified 2026-06-13 (changed ~8d AFTER review = genuine changed-since-review,
-    NOT today); ai_contribution=100; draft:false; analyze_length 3869w soft_warning
-    UNDER 4000 topics hard (length-safe, keep LENGTH-NEUTRAL); unqueued; not archived;
-    EOF-clean (Lewis 2018 eLife ref); no same-day review collision. Inserted after
-    the two existing P2s to preserve FIFO (queue-lifo-starvation). Floor 2->3.'
   run_739_pickable_p0_p2: 3
   run_738_pickable_p0_p2: 3
   run_737_pickable_p0_p2: 3
