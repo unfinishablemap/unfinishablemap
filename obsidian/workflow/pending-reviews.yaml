@@ -154,9 +154,9 @@
   prompt_summary: 'Full-site audit: hostile referee, empirical/citation/counterargument
     gaps'
   target_filename: outer-review-2026-07-16-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-16T04:42:42.913458+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies), auditing the arguments at https://unfinishablemap.org
