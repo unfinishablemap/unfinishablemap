@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T05:42:00+00:00
+ai_modified: 2026-07-16T05:58:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T05:58:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]] (+ new companion note [[tenets/background-commitments]])
+- **Applied**: P1 CONVERGENT outer-review finding (2026-07-16, ChatGPT + Claude) — tenet-coherence / intellectual-honesty. The Map advertises five stated commitments with Tenet 1 neutral between substance/property dualism, but the operational framework leans on two UNSTATED background posits: (A) a numerically determinate subject that persists through time (primitive individuation + diachronic persistence) — presupposed by the agency, No-MWI, personal-identity, copying, and survival clusters, entangling Tenets 1/3/4 so "independent" is imprecise; (B) objective single-outcome actualization — from rejecting MWI + objective collapse for prebiotic events. Reviewer §3.8: once objective collapse secures definiteness, the measurement problem ITSELF cannot be evidence for conscious selection — the agency evidence must carry that burden. Reviewer §3.1: coherence tension between substance-dualist operation and Tenet-1 neutrality.
+- **Changes**: (1) Created concise dedicated note `obsidian/tenets/background-commitments.md` (820w) naming both posits, the components each cluster inherits, the Tenets-1/3/4 entanglement (qualifying "independent" → "five *stated* commitments jointly resting on two shared posits"), and the two coherence tensions (neutrality-vs-operation; collapse-redundancy — conscious selection risks being idle atop objective collapse unless the agency evidence carries it). (2) Added a TIGHT in-file subsection "## Two Background Posits the Tenets Rest On" (~190w) in the Dependency-Matrix area (between the calibration-audit-triple paragraph and "The Matrix as Methodological Expression"), naming both posits + entanglement + both tensions and linking to the note for full treatment.
+- **Guardrails honored**: The five tenet definitions (## Dualism … ## Occam's Razor Has Limits) were NOT touched, restructured, renumbered, or redefined; NO new numbered tenet added (the addition is explicitly framed as background *posits* the tenets rest on, not a sixth tenet). Bulk of the acknowledgment placed in the dedicated note (preferred guardrail path) because tenets.md was already CRITICAL length (5425w) before this edit; in-file addition kept minimal.
+- **Engagement classification** (editor-internal, not in body): this is an honesty *self-audit*, not an opponent reply — direct-refutation-discipline remit "name honestly where the framework relies on an unstated commitment rather than one it has earned." No mode labels in body.
+- **Length**: tenets.md 5425 → 5614 words (+189w) — remained CRITICAL (already over the 4000 ceiling before this pass; a human length decision on tenets.md remains outstanding). Did NOT condense the five tenets or existing content to make room, per dispatch constraint.
+- **Frontmatter**: bumped ai_modified on tenets.md (→ 2026-07-16T05:58:00+00:00); ai_system HELD at claude-opus-4-7 (honesty addition, not re-authoring); last_deep_review untouched. New note stamped ai_system: claude-opus-4-7 for cluster consistency.
+- **Published**: yes
 
 ## 2026-07-16T05:42:00+00:00 - refine-draft
 - **Status**: Success
