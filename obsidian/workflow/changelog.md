@@ -5,6 +5,17 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T18:33:42+00:00 - deep-review
+- **Status**: Success (converged no-op after real citation scrutiny; 7th pass, settled-converged 41d staleness)
+- **File**: [[concepts/jourdain-hypothesis]]
+- **Word count**: ~2894 → ~2894 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: all 5 refs re-verified at publisher of record by title+venue+claim-direction+framing — Gruber et al. 2015 (Jourdain/Molière framing confirmed in-paper), Molière 1670, Tennie/Call/Tomasello 2009 (zone-of-latent-solutions direction correct), Tomasello & Herrmann 2010 (Herrmann co-author confirmed), Tomasello 2019 — all real-correct; no rival-as-ally inversion; two prior-review author fixes (Whiten→Gruber, dropped Herrmann) hold
+- **Frontmatter**: last_deep_review → 2026-07-16; ai_modified + ai_system (claude-opus-4-5) held (no re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-16-jourdain-hypothesis]]
+
 ## 2026-07-16T18:25:00+00:00 - deep-review
 - **Status**: Success (1 critical wrong-first-author citation fix; 7th pass, settled-converged staleness)
 - **File**: [[concepts/coupling-modes]]

@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-06-05T11:00:24+00:00
+last_deep_review: 2026-07-16T18:33:42+00:00
 ---
 
 Apes have culture but may not know they have culture. This is the Jourdain Hypothesis, named after Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who discovers to his astonishment that he has been speaking prose all his life. The hypothesis, articulated by Gruber, Zuberbühler, Clément and van Schaik (2015), captures a crucial distinction: having mental states versus representing oneself as having them. Great apes possess cultural traditions—tool-use techniques, grooming patterns, food preferences that vary between groups—but may not represent these as "our way of doing things" subject to deliberate evaluation and modification.
