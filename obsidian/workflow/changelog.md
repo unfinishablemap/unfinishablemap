@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T22:16:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T23:23:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/perceptual-failure-and-the-interface]]
+- **Word count**: 3765 → 3804 (+39; 127% of 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Notes**: Queued for link-rot + citation sweep. LINK-ROT: the flagged "stale related_articles at L53/55" are actually `coalesced_from` provenance (archived degradation/fidelity predecessors carry superseded_by → this article); they drive redirects — correct as-is, no change. All 16 related_articles resolve live. Body predecessor wikilinks already repointed (8e7d93266). LENGTH: not over ceiling (analyze_length 3765, not the raw ~4061); no trim forced. CITATIONS (publisher-of-record ledger): CRITICAL — Overgaard quote "fully conscious, two degrees of 'degraded' consciousness, or not conscious at all" is from Overgaard & Overgaard 2010 (Frontiers 1:164), NOT Overgaard et al. 2006; re-attributed, verbatim fidelity restored, 2010 added to References (kept 2006 for the PAS, no orphan). MEDIUM — van Lommel "thinking more clearly than ever" de-quoted (paraphrase tracks his 2010 book, not 2001 Lancet) → "heightened clarity and enhanced cognition". MINOR — Picard & Craig reworded to anterior-insula emphasis (their actual thesis, not "temporal lobe and insula"). Hoffman/Skrzypulec quotes verbatim-confirmed; Martina/Carhart-Harris/Michel-Lau/Phillips/Brogaard-Gatzia real-correct. NDE framing does NOT over-claim (explicitly discounts van Lommel). ai_system held claude-opus-4-6.
+- **Output**: [[reviews/deep-review-2026-07-16-perceptual-failure-and-the-interface]]
+
 ## 2026-07-16T23:00:46+00:00 - deep-review
 - **Status**: Success (no-op after full scrutiny)
 - **File**: [[concepts/direction-of-interface-change]]
