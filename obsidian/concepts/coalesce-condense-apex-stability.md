@@ -6,6 +6,7 @@ modified: 2026-04-29
 human_modified: null
 ai_modified: 2026-06-17T19:16:03+00:00
 draft: false
+social_eligible: false  # internal automation/editorial-methodology meta-article — off-voice for the social network
 topics: []
 concepts:
   - "[[conjunction-coalesce]]"

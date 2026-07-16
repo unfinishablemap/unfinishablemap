@@ -392,6 +392,19 @@ def get_published_articles() -> list[Path]:
                 # Must have frontmatter
                 if not content.startswith("---"):
                     continue
+                # Honour an explicit social opt-out. Internal
+                # automation/editorial-methodology articles (e.g.
+                # concepts/coalesce-condense-apex-stability) carry empty
+                # `topics: []`, so they slip the naming-based index guards
+                # above AND bypass the topic-overlap dedup below (which is
+                # skipped when article_topics is empty) — becoming the sole
+                # `random.choice` survivor once the 7-day window saturates
+                # the topic pool. They are off-voice for the network, so let
+                # any article mark itself out with `social_eligible: false`.
+                if re.search(
+                    r'^social_eligible:\s*false\b', content[:800], re.MULTILINE
+                ):
+                    continue
                 # Skip curated index pages whose title ends in "Index"
                 # (defense-in-depth alongside the stem-naming check above).
                 title_match = re.search(
