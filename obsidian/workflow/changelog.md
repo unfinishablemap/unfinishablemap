@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T20:35:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/vagueness-void]]
+- **Word count**: 3022 → 2998 (-24; length-neutral trim)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (over-hard-ceiling length from 07-11 cross-link accretion, restored under 3000)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-16-vagueness-void]]
+- **Notes**: Convergence pass (4th deep review). Only change since 06-03 was the 2026-07-11 `[[phenomenal-sorites-problem]]` Further-Reading cross-link — verified faithful (gloss matches target's ontic-vagueness lead; reciprocal link present). Cross-link bumped body to 3022, over the voids 3000 hard ceiling ([[hub-articles-accrete-crosslink-length]] pattern); length-neutral redundancy trims restored it to 2998 (where 06-03 landed it), no argument/hedge/cite removed. Fresh publisher web-verify of the two previously-unchecked cites: Cobreros & Tranchini (Cambridge chapter, COBSSA) CLEAN; Antony "Papineau on the Vagueness of Phenomenal Concepts" (Dialectica 60(4) 2006) CLEAN + in-body "argument fails" claim matches paper. Attribution-precision sweep of all named figures clean; no S0031824-form Phil Sci DOI present; no superlatives. Void register calibrated, no possibility→probability slippage. `ai_system` (claude-opus-4-7) HELD — trims, not re-authoring.
+
 ## 2026-07-16T20:26:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/pain-asymbolia]]
