@@ -5,6 +5,14 @@ ai_modified: 2026-07-16T10:28:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T10:42:41+00:00 - refine-draft
+- **Status**: Success (verified false-high, no content change)
+- **File**: [[topics/capgras-delusion-and-the-affective-recognition-channel]]
+- **Trigger**: topic-concept anchoring audit 2026-07-16 (hedge_density 2.91 < 3.00/kw target vs anchor [[phenomenal-consciousness]]; strong_assertions)
+- **Judgment**: Lexical false-high, not a genuine over-claim. The article's whole thesis is "consistent with, not proof of" the interface reading, with the physicalist rival explicitly left standing throughout (dedicated Corlett-2019 challenge section, "metaphysically neutral on its own terms"). It calibrates structurally via bare-noun "underdetermined/underdetermination" (x3) and phrasal hedges ("does not supply a verdict", "consistent-with rather than") that the modal-hedge regex does not count. The failing strong-assertions are established empirical findings (skin-conductance replication, DS modality-specificity, medication-matched control), correctly confident because they report replicated science, not Map metaphysical claims.
+- **Action**: Added `anchoring_audit_exempt: true` (matches verified false-highs wanting-liking, akrasia-motor-selection, interventionist-dualism). No body edit; `ai_modified`/`ai_system` held (no content change).
+- **Published**: yes (metadata only)
+
 ## 2026-07-16T10:28:27+00:00 - deep-review
 - **Status**: Success (convergence confirmation, no content change)
 - **File**: [[topics/self-reference-and-the-limits-of-physical-description]]

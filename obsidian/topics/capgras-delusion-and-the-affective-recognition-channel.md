@@ -6,6 +6,7 @@ modified: 2026-07-10
 human_modified:
 ai_modified: 2026-07-10T11:26:00+00:00
 draft: false
+anchoring_audit_exempt: true  # verified false-high vs phenomenal-consciousness: whole thesis is "consistent with, not proof of" the interface reading with the physicalist rival left standing throughout; calibrates structurally via bare-noun "underdetermined/underdetermination" (x3) + phrasal hedges the lexical checks miss, and the failing strong-assertions are established empirical findings (skin-conductance replication, modality-specificity), not Map metaphysical claims; refining would over-hedge and regress the voice
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[dualist-perception]]"
