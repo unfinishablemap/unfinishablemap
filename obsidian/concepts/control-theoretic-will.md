@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-07-15T23:20:48+00:00
+ai_modified: 2026-07-16T12:07:49+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -154,6 +154,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism the controller employs
 - [[attentional-economics]] — The economics of the controller's scarce bandwidth
 - [[motor-selection]] — How the unified attention-motor system implements control
+- [[anarchic-hand-and-action-ownership]] — The clinical case where this controller loses write-access to one motor channel: felt authorship drops out while the limb stays owned
 - [[mental-effort]] — The phenomenology of control effort
 - [[phenomenology-of-choice-and-volition]] — The experiential structure of willing: initiation, sustained control, effort, and veto
 - [[the-psychophysical-control-law]] — Candidate coupling laws (control laws in this framing)

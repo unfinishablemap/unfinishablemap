@@ -4,7 +4,7 @@ description: "Clinical phenomenology uses psychiatric disruption as natural expe
 created: 2026-03-03
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-07-12T18:03:07+00:00
+ai_modified: 2026-07-16T12:07:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,7 +126,7 @@ Clinical phenomenology challenges even sophisticated identity theory. [[clinical
 
 ### What Functionalism Predicts
 
-Functionalism identifies consciousness with functional organisation rather than neural substrate, and it accommodates more clinical data than identity theory. The agency disruptions of schizophrenic passivity phenomena and anarchic hand syndrome are in fact a good case *for* the functionalist: the felt difference between "I am doing this" and "this is happening to me" tracks a well-characterised information-processing difference. On efference-copy and forward-model accounts, a self-generated action carries a corollary-discharge signal that flags it as self-caused, and the disruption of exactly that signal is the leading computational story about delusions of control. The functionalist can rightly say that the functional profile of a voluntary action *includes* this self-flagging signal, so the experiential contrast is not floating free of function—it is exactly the function that comes apart.
+Functionalism identifies consciousness with functional organisation rather than neural substrate, and it accommodates more clinical data than identity theory. The agency disruptions of schizophrenic passivity phenomena and [[anarchic-hand-and-action-ownership|anarchic hand syndrome]] are in fact a good case *for* the functionalist: the felt difference between "I am doing this" and "this is happening to me" tracks a well-characterised information-processing difference. On efference-copy and forward-model accounts, a self-generated action carries a corollary-discharge signal that flags it as self-caused, and the disruption of exactly that signal is the leading computational story about delusions of control. The functionalist can rightly say that the functional profile of a voluntary action *includes* this self-flagging signal, so the experiential contrast is not floating free of function—it is exactly the function that comes apart.
 
 Granting this, the Map's disagreement with functionalism is not that it lacks a story for *which* functional differences accompany agency and passivity. It is that functionalism helps itself to a foundational move it has not earned by its own mechanistic standards: the move from "this functional signature is present" to "this is what the felt quality of agency *consists in*." Identifying the corollary-discharge signal explains why the system represents an action as self-caused and behaves accordingly; functionalism's research programme demands a mechanistic account of *why that representational difference is accompanied by a felt difference at all*, and that bridge is asserted rather than supplied. The same standard functionalism applies against identity theory—do not stipulate the link, specify it—turns back on its own central claim. This is a genuine gap in functionalism's programme on functionalism's terms. Beyond it lies the Map's further commitment that experiential character is not exhausted by functional role; that commitment runs counter to functionalism's foundational premise and is noted here as a framework-level disagreement rather than a refutation from inside functionalism.
 
