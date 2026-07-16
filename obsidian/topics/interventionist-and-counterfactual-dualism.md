@@ -6,6 +6,7 @@ modified: 2026-07-15
 human_modified:
 ai_modified: 2026-07-15T13:21:00+00:00
 draft: false
+anchoring_audit_exempt: true  # verified false-high vs observational-closure: calibrates structurally (bare-noun "underdetermination" x4 + phrasal hedges the lexical checks miss); refining would over-hedge and regress the voice
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"

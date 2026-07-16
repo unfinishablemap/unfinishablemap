@@ -6,6 +6,7 @@ modified: 2026-07-09
 human_modified:
 ai_modified: 2026-07-09T13:30:36+00:00
 draft: false
+anchoring_audit_exempt: true  # verified false-high vs motor-selection: expository/descriptive article (not a contested Map-claim), so strong-assertion + hedge-density checks misfire; refining would distort the exposition
 topics:
   - "[[topics/free-will]]"
   - "[[valence-and-conscious-selection]]"

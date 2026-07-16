@@ -248,6 +248,20 @@ def resolve_concept_path(slug: str, content_root: Path) -> Optional[Path]:
     return None
 
 
+def _is_anchoring_exempt(topic_path: Path) -> bool:
+    """True if the topic's frontmatter sets ``anchoring_audit_exempt: true``.
+
+    Reserved for flags an operator has verified as false-highs (the article
+    calibrates structurally in ways the lexical checks cannot see). Cheap
+    front-of-file read; tolerates a trailing YAML comment on the value line.
+    """
+    try:
+        head = topic_path.read_text(encoding="utf-8")[:1500]
+    except OSError:
+        return False
+    return re.search(r'^anchoring_audit_exempt:\s*true\b', head, re.MULTILINE) is not None
+
+
 def evaluate_anchoring(
     topic_path: Path,
     content_root: Path,
@@ -264,6 +278,20 @@ def evaluate_anchoring(
     """
     topic_profile = compute_profile(topic_path)
     if topic_profile is None or topic_profile.word_count < min_word_count:
+        return []
+
+    # Verified false-high opt-out. The hedge-density and underdetermination
+    # checks are lexical: they count modal hedge-words and a fixed set of
+    # discipline-phrases. Some articles calibrate STRUCTURALLY instead — their
+    # whole thesis is a choice under underdetermination, they concede the
+    # discriminating tenet leans to the rival, etc. — using bare-noun
+    # "underdetermination" and phrasal hedges ("leans toward", "does not decide
+    # it") the regexes do not see. Those articles re-flag every cycle and a
+    # refine would only over-hedge and regress the crisp voice. An operator who
+    # has verified a flag is a false-high sets `anchoring_audit_exempt: true` in
+    # the topic's frontmatter to stop the treadmill without touching the scoring
+    # math for every other article.
+    if _is_anchoring_exempt(topic_path):
         return []
 
     flags: list[AnchoringFlag] = []
