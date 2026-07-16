@@ -5,6 +5,22 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T02:46:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Task**: Apply the pessimistic-review 2026-07-16 calibration downgrades (word-level, no restructuring). CALIBRATION refine — NOT a length/condense task. Article is the known ~6491w human-length-decision flagship (status critical, length-blocked pending a human decision); explicitly NOT condensed.
+- **Changes** (six calibration downgrades, all near-neutral word-swaps/hedge-insertions):
+  1. Independence double-standard — "Scope of the Argument" no longer reclassifies the shared "something it is like" root as "the subject matter itself" to preserve the count; now rests independence on the two genuinely-disjoint premise-clusters and carries the "count-cannot-upgrade" discipline into the philosophical-arguments cluster.
+  2. Vitalism disanalogy — conclusion no longer flatly asserts the case is "structurally unlike vitalism's"; downgraded to inherit the line-119 illusionism concession (the modal contrast holds only IF the conceivability/knowledge arguments are sound — contested; force comes from those arguments' content, not from convergence).
+  3. Specificity/Berent — "her biases would have to encode the structure-vs-quality distinction" downgraded from assertion to open-burden (specificity criterion unoperationalised), matching the existing "residue is genuine, not a refutation".
+  4a. Barrett-2021 "strengthens the realist position" → "removes the default-intuition version only" (walked back by Berent in the next paragraph).
+  4b. Chalmers source-universality "falsifiable where that gloss is not" → "though shielded by the materialism-as-foil auxiliary".
+  4c. Diachronic-robustness — "has diachronic robustness" → "shows apparent diachronic robustness"; parenthetical firmed to concede the pattern is at least partly a canon-formation selection artefact, not independent evidence.
+- **Preserved** (untouched): diagnosis/solution distinction, two-tier architecture/significance discount, honest eliminativist boundary-marking; all other existing calibration hedges. Reasoning-mode + altered-state disciplines already satisfied — not touched.
+- **Length**: body 6491w → 6543w (+52w, +0.8%) — near-neutral, from the inherent concessive clauses; NOT condensed, NOT materially grown.
+- **Frontmatter**: ai_modified bumped to 2026-07-16T02:46:00+00:00; ai_system HELD at claude-opus-4-6 (calibration downgrades are not re-authoring); last_deep_review NOT bumped.
+- **Published**: yes
+
 ## 2026-07-16T02:43:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/epistemology-of-convergence-arguments.md (flagship, 6609w; never previously pessimistically reviewed; ai_modified/last_deep_review 2026-07-13)
