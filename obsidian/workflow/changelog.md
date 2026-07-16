@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T21:36:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/mattering-void]]
+- **Word count**: 2241 → 2240 (−1)
+- **Critical issues addressed**: 1 (quote-fidelity: Frankfurt verbatim quote not verifiable at publisher → de-quoted, re-framed as paraphrase; claim preserved, cite retained)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Higher-yield claim-match/quote-fidelity/citation-framing pass (metadata lens exhausted across two prior reviews). Publisher-verified verbatim: Vervaeke/Jaeger et al. 2024 ("present in all organisms, from bacteria to humans" / "impredicative" / "co-constructive" / "fundamentally not computational") — real-correct, DOI 10.3389/fpsyg.2024.1362658 confirmed; Ratcliffe 2008 ("constitute ways of relating to the world as a whole") — real-correct. Frankfurt "what we care about helps constitute who we are" — unverifiable as verbatim (modern-paraphrase tell); de-quoted. No calibration slippage; no citation-framing errors (skeptics not cited as pro-Map). `ai_system` held at claude-opus-4-7 (one-phrase fix, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-16-mattering-void]]
+
 ## 2026-07-16T21:22:25+00:00 - deep-review
 - **Status**: Success (no-op after scrutiny)
 - **File**: [[concepts/causal-powers]]

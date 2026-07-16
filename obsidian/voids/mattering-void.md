@@ -4,8 +4,8 @@ description: "Human+AI exploration of why the felt weight of significance — th
 created: 2026-04-29
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
-last_deep_review: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-07-16T21:36:00+00:00
+last_deep_review: 2026-07-16T21:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ Independent intellectual traditions have arrived at remarkably similar pictures,
 
 **Heidegger.** In *Being and Time*, care (*Sorge*) is presented as the fundamental ontological structure of Dasein — not an emotion among emotions but the being of human existence. *Befindlichkeit* (attunement) discloses how entities matter to us before reflective thought occurs; we always already find ourselves in a world where things show up as relevant. Heidegger's analysis of anxiety (*Angst*) is the relevant probe here. Anxiety is described as a state in which everyday mattering breaks down and affordances show up "as of no consequence." Crucially, this is not the *removal* of mattering but a distinctive mode of it: everything is experienced as lacking ultimate and intrinsic mattering. Anxiety briefly exposes the care-structure by making it falter, but it does not render the structure visible while operational, and it is unstable — significance rapidly re-engages.
 
-**Frankfurt.** Harry Frankfurt's *The Importance of What We Care About* argues that caring is identity-constitutive: "what we care about helps constitute who we are." Caring, on Frankfurt's account, is not reducible to desire — it involves a hierarchical structure of second-order volitions and is internally related to importance. Frankfurt does not claim mattering is opaque to introspection; that interpretive move belongs to the Map. But his framework establishes that mattering is not an overlay on a pre-existing self that could be removed without remainder.
+**Frankfurt.** Harry Frankfurt's *The Importance of What We Care About* argues that caring is identity-constitutive — what a person cares about helps define the will that makes them who they are. Caring, on Frankfurt's account, is not reducible to desire — it involves a hierarchical structure of second-order volitions and is internally related to importance. Frankfurt does not claim mattering is opaque to introspection; that interpretive move belongs to the Map. But his framework establishes that mattering is not an overlay on a pre-existing self that could be removed without remainder.
 
 **Ratcliffe.** Matthew Ratcliffe's work on *existential feelings* describes bodily feelings that "constitute ways of relating to the world as a whole" — not emotions about specific objects but background orientations structuring all experience. They determine, in his framing, the kinds of significant possibility we are receptive to. In severe depression, Ratcliffe argues, what changes is not that specific things have become sad but that the field of *possibilities-of-mattering* itself has narrowed or warped. The opacity of existential feelings to ordinary introspection is the phenomenological face of the mattering void.
 
