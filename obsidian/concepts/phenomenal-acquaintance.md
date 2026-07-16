@@ -4,7 +4,7 @@ description: "Phenomenal acquaintance—the direct, non-inferential relation bet
 created: 2026-02-09
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-07-09T04:44:29+00:00
+ai_modified: 2026-07-16T00:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,13 +33,13 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-06-22T17:40:00+00:00
+last_deep_review: 2026-07-16T00:05:00+00:00
 coalesced_from:
   - "/concepts/acquaintance-knowledge/"
   - "/concepts/phenomenal-acquaintance/"
 ---
 
-Phenomenal acquaintance is the direct, non-inferential epistemic relation between a conscious subject and the qualitative character of experience. When you taste coffee, something is immediately present to you—not a proposition about coffee, not a concept of bitterness, but the qualitative character itself. The *knowledge* this relation yields—knowing *what it is like* to see red, feel pain, or taste coffee—is **acquaintance knowledge**, the category Bertrand Russell distinguished from propositional and ability knowledge in 1910. The Unfinishable Map holds that phenomenal acquaintance is epistemically fundamental: it provides a form of access to reality that no amount of third-person description can replicate. Its irreducibility is central to the Map's case not merely for the reality of phenomenal properties—which non-reductive physicalists also accept—but for substance dualism: the claim that what acquaintance reveals belongs to a domain that physical description cannot in principle reach.
+Phenomenal acquaintance is the direct, non-inferential epistemic relation between a conscious subject and the qualitative character of experience. When you taste coffee, something is immediately present to you—not a proposition about coffee, not a concept of bitterness, but the qualitative character itself. The *knowledge* this relation yields—knowing *what it is like* to see red, feel pain, or taste coffee—is **acquaintance knowledge**, the category Bertrand Russell distinguished from knowledge by description in 1910. The Unfinishable Map holds that phenomenal acquaintance is epistemically fundamental: it provides a form of access to reality that no amount of third-person description can replicate. Its irreducibility is central to the Map's case not merely for the reality of phenomenal properties—which non-reductive physicalists also accept—but for substance dualism: the claim that what acquaintance reveals belongs to a domain that physical description cannot in principle reach.
 
 ## Russell's Original Distinction
 

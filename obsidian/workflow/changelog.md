@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T00:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-acquaintance]]
+- **Word count**: 2793 → 2793 (0)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Lead misattributed Russell's 1910 two-way acquaintance/description distinction as a three-way split "from propositional and ability knowledge" — contradicting the body (Russell = two relations; ability knowledge credited to Lewis/Nemirow; three-category taxonomy framed as contemporary). Corrected to "knowledge by description." New aesthetic-testimony cross-link verified faithful; citation ledger unchanged since 2026-05-31 (skip rule). Engagement modes Mode One, no label leakage, well-calibrated. Fifth-pass converged.
+- **Output**: [[reviews/deep-review-2026-07-16-phenomenal-acquaintance]]
+
 ## 2026-07-15T23:51:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/dualism-channel-width-axis]]
