@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T14:15:54+00:00
+ai_modified: 2026-07-16T21:52:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T21:52:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/sensorimotor-contingencies-and-the-interface]]
+- **Word count**: 3289 → 3291 (+2, length-neutral; soft_warning 110%)
+- **Critical issues addressed**: 1 (orphan reference: Noë 2004 *Action in Perception* listed in References but never cited/named in body — the 2026-06-20 pass wrongly asserted it was "substantively discussed" and declared no orphans; anchored inline at theory intro "(2001; developed at book length in Noë 2004)", reference retained not deleted)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh (converged-tier) review, VERIFICATION mode. Full publisher-of-record web-verify of all 7 citations — all real-correct (O'Regan & Noë 2001 BBS 24; Lederman & Klatzky 1987 Cog Psych 19:342-368; Bach-y-Rita & Kercel 2003 TiCS 7(12):541-546 DOI 10.1016/j.tics.2003.10.013; Ramachandran & Rogers-Ramachandran 1996 Proc R Soc B 263(1369):377-386 DOI 10.1098/rspb.1996.0058; Noë 2004 MIT Press; Noë 2009 Hill and Wang; Merleau-Ponty 1945/2012 Routledge). Claim-matches confirmed (Lederman & Klatzky EPs; Ramachandran mirror box; Noë "you are not your brain" faithful to subtitle). No calibration slippage, no reasoning-mode boundary-substitution, no label leakage, no superlative-currency claims. Engagement modes: Mode One (two-horn dilemma) + Mode Three (enactivist boundary) = mixed. `ai_system` held at claude-opus-4-6 (2-word fix, not re-authoring). Both `ai_modified` and `last_deep_review` bumped (real fix).
+- **Output**: [[reviews/deep-review-2026-07-16-sensorimotor-contingencies-and-the-interface]]
 
 ## 2026-07-16T21:36:00+00:00 - deep-review
 - **Status**: Success
