@@ -5,6 +5,12 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T03:24:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Sorkin higher-order interference and quantum measure theory
+- **Output**: [[research/sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16]]
+- **Sources consulted**: 9 (Sorkin 1994; Sinha 2010 + Kauten 2017 bounds; Valentini-Varma 2025 corrected proposal-not-measurement; non-classical-path caveat; GPT bridge)
+
 ## 2026-07-16T03:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/edge-states-and-void-probes]]
