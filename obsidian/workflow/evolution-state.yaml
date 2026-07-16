@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T13:18:31.616764+00:00'
-session_count: 15949
-cycle_position: 11178
+last_updated: '2026-07-16T13:24:08.955171+00:00'
+session_count: 15950
+cycle_position: 11179
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-16T11:37:59.771113+00:00'
   optimistic-review: '2026-07-16T12:27:59.739052+00:00'
   check-tenets: '2026-07-16T10:38:58.530837+00:00'
   check-links: '2026-07-16T07:22:21.626941+00:00'
-  deep-review: '2026-07-16T12:52:02.262089+00:00'
+  deep-review: '2026-07-16T13:24:08.955171+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-16T07:25:40.900789+00:00'
   coalesce: '2026-07-16T13:11:29.020567+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1346,12 +1346,12 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 72
+  p2_tasks: 73
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T12:37:00+00:00'
-  last_replenishment_prev: '2026-07-16T12:12:00+00:00'
+  last_replenishment: '2026-07-16T13:33:00+00:00'
+  last_replenishment_prev: '2026-07-16T12:37:00+00:00'
   last_floor_restore_note_2026_07_16_unconsumed_research_hemispherectomy_16: 'Floor-restore
     replenish 2026-07-16T1212Z (conservative, exact-floor +1; no concurrent loop,
     pgrep clean). PRE-COUNT canonical count_p0_p2_tasks == 2 (single-cell-proto-agency
@@ -1376,27 +1376,27 @@ queue_status:
     guard). POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly satisfied,
     no padding). Pruned the oldest floor-restore note (staleness_deep_review_13) to
     keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_unconsumed_research_sorkin_15: 'Floor-restore
-    replenish 2026-07-16T1128Z (conservative, exact-floor +1). PRE-COUNT canonical
-    count_p0_p2_tasks == 2 (single-cell-proto-agency cross-review + Anarchic-Hand
-    expand minted 1117Z, both open); MIN_QUEUE floor 3 unmet by 1. SOURCE = unconsumed_research
-    (Source 2, +60). MINTED 1 P2 expand-topic: concepts/ Sorkin Higher-Order Interference
-    and Quantum Measure Theory, from the untracked, unconsumed note sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16
-    (producing research-topic task complete, no queued expand, not vetoed). Top-scored
-    of the 3 fresh 2026-07-16 unconsumed notes because directly Tenet-2 load-bearing
-    (+ Tenet 5); the other two (hemispherectomy-resilience -> topics; interpreter-module-narrative-unity
-    -> concepts) left in backlog. DEDUP CLEAN via the note''s Distinctness section:
-    the only existing Sorkin page (topics/sorkin-delta-brain-internal-analogues) is
-    a narrow neural design-space page; the general quantum-measure-theory concept
-    (interference-order hierarchy, why |psi|^2 forbids higher-order interference,
-    the I3/kappa parameter, the optical+many-particle+high-energy bounds as a body)
-    is homeless. Target concepts/ 318/320 -> 319 (cap-safe; re-verify at execution).
-    Task notes carry the note''s citation caveats (Valentini-Varma 2025 is a DIFFERENT
-    observable; kappa normalisation differs Sinha/Kauten; Sorkin 1994 + secondary
-    cites unread) plus integration + cross-review successor. FIFO BOTTOM-inserted
-    below the two older P2s (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks
-    == 3 (floor 3 exactly satisfied, no padding). Pruned older last_floor_restore_note_*
-    keys to the most-recent 3 (bloat control, zero logic dep).'
+  last_floor_restore_note_2026_07_16_staleness_spontaneous_collapse_18: 'Floor-restore
+    replenish 2026-07-16T1333Z (interactive, conservative exact-floor +1). PRE-COUNT
+    canonical count_p0_p2_tasks == 2 (single-cell-proto-agency + interpreter-module
+    cross-reviews, both open; the hemispherectomy cross-review 3rd floor task drained
+    at commit e97cf64cb). MIN_QUEUE floor 3 unmet by 1; no concurrent loop (pgrep
+    clean), live re-count 2 before write. SOURCE = staleness (Source 4): unconsumed_research
+    (+60 top lane) EXHAUSTED — all five fresh 2026-07-16 notes consumed to live articles
+    (anarchic-hand, interpreter-module, hemispherectomy, sorkin); the lone slug-unmatched
+    born-rule note is content-consumed by the live concepts/generalised-probabilistic-theories
+    (differently-named-slug false-uncovered, memory replenish-unconsumed-research-dedup-misses-threaded-content).
+    Top drift tier all cosmetic-crosslink converged (memory deep_review_over_reviews_converged),
+    so chose a settled-stale target. MINTED 1 P2 deep-review: topics/philosophical-stakes-of-spontaneous-collapse.md
+    — settled-converged 41d (ldr == ai_modified 2026-06-05), ai_contribution 100,
+    ai_system opus-4-6 older cohort, 11 citation-heavy physics references (GRW / Pearle
+    / CSL plus 2024-25 collapse-test cites, high owed-web-verify + currency-drift surface),
+    body 2438w vs topics 4000 hard (length-neutral). Chosen for Tenet-2 quantum diversity
+    vs the two open agency/self cross-reviews. Distinct from the sibling concepts/spontaneous-collapse-theories
+    mechanism page (reviewed 2026-07-06). POST-COUNT canonical count_p0_p2_tasks ==
+    3 (floor exactly satisfied, no padding). FIFO BOTTOM-inserted below the two older
+    open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (sorkin_15)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_unconsumed_research_interpreter_17: 'Floor-restore
     replenish 2026-07-16T1237Z (conservative, exact-floor +1; no concurrent loop,
     pgrep clean). PRE-COUNT canonical count_p0_p2_tasks == 2 (single-cell-proto-agency
