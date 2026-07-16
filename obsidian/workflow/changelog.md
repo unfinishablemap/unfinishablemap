@@ -5,6 +5,12 @@ ai_modified: 2026-07-16T11:04:23+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T11:35:42+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/born-rule-and-the-consciousness-interface.md (coalesced hub; citation-dense)
+- **Findings**: 4 medium issues (suggestive-tier vs own concessions; unaddressed Lakatos degenerating-programme charge; mis-framed Wiest microtubule/proton-spin quote; epistemic→metaphysical slide at line 68) + 2 unsupported-claim wording fixes. Citations all web-verified REAL (Torres Alegre 2512.12636, Zhang 2603.06211, Agrawal-Wilson 2511.21355, Neumaier, Wiest niaf011). Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-16-born-rule-and-the-consciousness-interface]]
+
 ## 2026-07-16T11:04:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/essential-vs-contingent-consciousness]]
