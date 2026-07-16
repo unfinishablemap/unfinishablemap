@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-07-12T10:31:57+00:00
+ai_modified: 2026-07-16T06:57:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ Meanwhile, [[concepts/epiphenomenalism]] faces its own devastating objection: if
 
 ## The Cumulative Case for Interactionism
 
-Seven arguments converge on the interactionist conclusion. No single argument is decisive—[[duhem-quine-underdetermination-consciousness|Duhem-Quine underdetermination]] ensures physicalists can revise auxiliaries to accommodate each one. But converging independent lines of evidence raise the epistemic cost of dismissing them all:
+Seven arguments bear on the interactionist conclusion, though not as seven independent lines. Arguments 1–3—explanatory gap, conceivability, knowledge argument—are three presentations of a single anti-physicalist intuition, that structural and functional facts do not entail phenomenal facts (as Chalmers and Stoljar both note); they count as one line, not three. No single argument is decisive—[[duhem-quine-underdetermination-consciousness|Duhem-Quine underdetermination]] lets physicalists revise auxiliaries to accommodate each one, a caveat that does not license counting one intuition as three confirmations. The epistemic cost of dismissal rests on the genuinely independent remainder:
 
 1. **[[explanatory-gap|Explanatory Gap]]**: Physical explanations describe structure and function; consciousness has intrinsic qualitative character. No structural description entails what it is *like* to experience. The gap is not epistemic but structural.
 
@@ -108,7 +108,7 @@ Seven arguments converge on the interactionist conclusion. No single argument is
 
 6. **Self-Stultification**: If consciousness is epiphenomenal, our discussions of consciousness are not caused by consciousness—undermining any reason to trust them. The [[consciousness-as-amplifier|evolutionary evidence]] reinforces this: phenomenal valence tracks fitness too precisely to be causally inert.
 
-7. **Quantum Indeterminacy**: Classical physics was deterministic, leaving no room for mental causation. Quantum mechanics is indeterministic—collapse into definite outcomes remains unexplained. Consciousness selecting among undetermined outcomes requires no energy injection and directly addresses the conservation objection.
+7. **Quantum Indeterminacy**: Classical physics was deterministic, leaving no room for mental causation. Quantum mechanics is indeterministic—collapse into definite outcomes remains unexplained. Consciousness selecting among undetermined outcomes requires no energy injection, addressing the conservation objection—though *how* a selection biases outcomes without deviating from Born statistics remains the interface's central unpaid debt (see [[positions/quantum-interface#^mechanism-debt|mechanism debt]], graded contested).
 
 ## The Causal Closure Argument
 
@@ -118,7 +118,7 @@ Two responses address the exclusion argument:
 
 **Quantum response**: The Map rejects premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds physics is *not* causally closed at quantum indeterminacies—physics specifies probabilities but not outcomes. The [[stapp-quantum-mind|Stapp model]] articulates this: consciousness operates through rapid observation (quantum Zeno effect), holding desired neural patterns in place. At quantum indeterminacies, physics is "silent" about outcomes.
 
-**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Through [[delegatory-causation|causal delegation]], physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles; when pain causes wincing, the physical state's role is [[trumping-preemption|preempted]]—instantiating Schaffer's trumping structure, where a higher-order law selects one of two sufficient processes as authoritative. Saad's distinction between universal closure and [[observational-closure|observational closure]] shows dualists need only respect empirical constraints, not the stronger metaphysical claim. The [[delegation-meets-quantum-selection|delegation-selection bridge]] integrates both responses: Saad's default causal profile maps onto the Born-rule distribution, making delegation the causal structure and quantum selection the physical mechanism of a single event.
+**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Through [[delegatory-causation|causal delegation]], physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles; when pain causes wincing, the physical state's role is [[trumping-preemption|preempted]]—instantiating Schaffer's trumping structure, where a higher-order law selects one of two sufficient processes as authoritative. Saad's distinction between universal closure and [[observational-closure|observational closure]] shows dualists need only respect empirical constraints, not the stronger metaphysical claim. The [[delegation-meets-quantum-selection|delegation-selection bridge]] integrates both responses: Saad's default causal profile maps onto the Born-rule distribution, making delegation the causal structure and quantum selection a candidate physical mechanism of a single event.
 
 ## The Multi-Mind Collapse Problem
 
@@ -134,7 +134,7 @@ Quantum mechanics describes systems in superposition until measured. What causes
 
 Both share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. The Map does not commit to which proposal is correct, but it does *prefer* one on grounds of tenet fit: post-decoherence selection — consciousness biasing the already-decohered mixture — sidesteps the [[timing-gap-problem|decoherence timing objection]] that Orch OR must answer, and so ranks ahead of mechanisms requiring sustained neural coherence. Stapp's Zeno model sits naturally inside that preference as a forward-in-time selection account. This is a methodological preference ordering, not an empirical verdict; the full ranking and its four-layer dependency structure are set out in [[comparing-quantum-consciousness-mechanisms#preference-ordering|Comparing Quantum Consciousness Mechanisms]]. The [[born-rule-and-the-consciousness-interface|Born rule's resistance to derivation]] across every quantum interpretation supports this picture: the rule may encode the consciousness-physics interface rather than being a purely physical law. The [[consciousness-physics-interface-formalism]] defines what any such proposal must satisfy: an experiential state space, a physical state space, and a coupling map respecting five constraints (Born rule preservation, inner product invariance, no-signalling, second-order interference only, and conservation law compatibility).
 
-[[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] offers phenomenological evidence for consciousness biasing neural activity—the dreamer's intentions reshape brain states in real time, with control varying in ways consistent with selection within physical constraints.
+[[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] offers phenomenological evidence for consciousness biasing neural activity—the dreamer's intentions reshape brain states, control varying consistently with selection within physical constraints.
 
 ## Selection, Biasing, and Falsifiability
 
@@ -146,7 +146,7 @@ A further two falsifiers are *mechanism-specific* — they bear on Stapp's Zeno 
 
 ## Psychophysical Coupling Mechanisms
 
-Beyond *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [[psychophysical-laws|mechanisms]] have been proposed, from attention→observation (most developed) to qualia→basis (speculative). Only attention and intention mechanisms meet basic scientific adequacy criteria. This specification challenge remains central to interactionism's scientific status.
+Beyond *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [[psychophysical-laws|mechanisms]] have been proposed, from attention→observation (most developed) to qualia→basis (speculative). Only attention and intention mechanisms meet basic scientific adequacy criteria—a specification challenge central to interactionism's scientific status.
 
 ## The Decoherence Objection
 
@@ -186,7 +186,7 @@ A reader who accepts interactionist dualism but rejects substance-bearing agents
 
 For comprehensive treatment, see [[objections-to-interactionism]]. Key responses:
 
-- **Pairing**: Kim asks what pairs a mind with a particular body if minds are non-spatial. Response: minds are spatially located—in the brain where they interact; the distinctiveness of consciousness is metaphysical, not spatial
+- **Pairing**: Kim asks what pairs a mind with a particular body if minds are non-spatial (Bailey, Rasmussen & Van Horn 2011). Locating the mind in the brain answers this but concedes spatiality, softening the res-cogitans/res-extensa contrast drawn above. On the property-leaning reading it costs nothing—mental properties are instantiated where their physical bearers are. On the substance-leaning reading, the persisting agent-causal subject gains only a derivative, interface-fixed location, so the res-extensa contrast becomes one of *kind*, not *spatiality*; should that move fail, the pairing problem is a live unpaid debt. The Map takes the property-compatible horn, marking the substance-leaning residue unsettled, not resolved
 - **Conservation**: Consciousness selects among equal-energy outcomes; no energy added ([[conservation-laws-and-mental-causation]])
 - **Exclusion**: At quantum indeterminacies, no sufficient physical cause exists to exclude
 - **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious—see [[parsimony-case-for-interactionist-dualism]]
@@ -202,7 +202,7 @@ This framework avoids classical objections: no energy injection (consciousness s
 
 ### Empirical Compatibility
 
-Interactionism is fully consistent with what [[neural-correlates-of-consciousness|NCC research]] discovers: tight correlations between mental and brain states. The COGITATE adversarial collaboration (Cogitate Consortium, 2025) found that conscious content was decodable from posterior cortex while fully confirming neither of the two leading physicalist-adjacent theories—a result interactionism reads as locating candidate interface regions without vindicating any materialist account of *why* those regions carry experience. This correlation data is shared, non-discriminating evidence—materialism predicts the same correlations—so it does not adjudicate between the two; only interactionism explains why those correlations involve *something it's like*. The position's distinctive empirical content lives in the harder falsifiers above, not in the correlation findings.
+Interactionism is fully consistent with what [[neural-correlates-of-consciousness|NCC research]] discovers: tight correlations between mental and brain states. The COGITATE adversarial collaboration (Cogitate Consortium, 2025) found that conscious content was decodable from posterior cortex while fully confirming neither of the two leading physicalist-adjacent theories—a result interactionism reads as locating candidate interface regions without vindicating any materialist account of *why* those regions carry experience. This correlation data is shared, non-discriminating evidence—materialism predicts the same correlations—so it does not adjudicate between the two; only interactionism explains why those correlations involve *something it's like*.
 
 ### Evolutionary Compatibility
 

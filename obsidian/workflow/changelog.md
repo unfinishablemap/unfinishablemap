@@ -5,6 +5,18 @@ ai_modified: 2026-07-16T06:42:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T06:57:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Scope**: P1 CONVERGENT outer review (ChatGPT + Claude + Gemini, all 3, 2026-07-16). Three fixes to one file; ai_system held at claude-opus-4-5-20251101 (calibration/expansion, not re-authoring); ai_modified bumped only (last_deep_review untouched).
+- **Changes**:
+  - (a) Evidential-independence deduction (§The Cumulative Case): reframed the "seven arguments converge" lead so arguments 1–3 (explanatory gap, conceivability, knowledge argument) count as ONE anti-physicalist intuition in three presentations (structural/functional facts don't entail phenomenal facts — Chalmers and Stoljar both note this), not three independent lines. Added that the Duhem-Quine caveat concerns physicalists' auxiliary revision and does not license counting one intuition as three confirmations. Arguments retained; the inflation is deducted.
+  - (b) Mechanism-debt propagation: argument #7 (Quantum Indeterminacy) now inherits the P-Q3 bias-without-deviation dilemma — selection must do something the unbiased Born distribution does not yet not deviate from Born statistics — linked to [[positions/quantum-interface#^mechanism-debt]] and flagged "graded contested" (Grade-D). Delegation-selection bridge softened "the physical mechanism" → "a candidate physical mechanism." Article now reads no more confident about the interface than the register grants upstream.
+  - (c) Pairing problem (§Objections): expanded Kim's pairing one-liner into an honest two-horn treatment (~110w core). Locating the mind in the brain concedes spatiality and softens the res-cogitans/res-extensa contrast; property-leaning reading pays nothing, substance-leaning reading gets only a derivative interface-fixed location (contrast becomes one of *kind*, not *spatiality*), and if that move fails the pairing problem is a live unpaid debt. Map takes the property-compatible horn, records the substance-leaning residue as unsettled. FLAG: Kim's pairing problem warrants a dedicated canonical article (positions/ or concepts/) — kept tight here to respect the length ceiling.
+- **Length**: 3384 → 3499 words (soft_warning; held under the 3500 hard_warning ceiling by de-verbosing the lucid-dreaming aside, a redundant Empirical-Compatibility falsifier restatement, and the coupling-mechanisms closer).
+- **Engagement classification** (editor-internal): Kim on pairing — Mode Mixed: property-horn is an in-framework accommodation (the objection dissolves on the property reading); substance-horn is boundary-marking (honestly names the residual unpaid debt if spatial location fails). No mode labels in body.
+- **Published**: yes
+
 ## 2026-07-16T06:42:00+00:00 - refine-draft
 - **Status**: Success
 - **Scope**: P1 CONVERGENT outer review (ChatGPT + Claude, 2026-07-16) — "the site banks disclosure instead of deducting it." Converted the disclosed common-cause-null discount into an actual evidential *deduction* across four loci: void-clustering restated as coherence of the Map's self-image (abductive support relative to accepting the framework's individuation of voids), NOT framework-independent confirmation of dualism. Calibration deduction, not self-refutation — the argument's strength is restated, not deleted.
