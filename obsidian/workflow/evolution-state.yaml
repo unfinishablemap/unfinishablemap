@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T14:13:53.267710+00:00'
-session_count: 15957
-cycle_position: 11182
+last_updated: '2026-07-16T14:17:25.559371+00:00'
+session_count: 15958
+cycle_position: 11183
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-16T11:37:59.771113+00:00'
   optimistic-review: '2026-07-16T12:27:59.739052+00:00'
   check-tenets: '2026-07-16T10:38:58.530837+00:00'
   check-links: '2026-07-16T07:22:21.626941+00:00'
-  deep-review: '2026-07-16T14:08:00.526144+00:00'
+  deep-review: '2026-07-16T14:17:25.559371+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-16T07:25:40.900789+00:00'
   coalesce: '2026-07-16T13:11:29.020567+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 515
-  reviews_completed: 6422
+  reviews_completed: 6423
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-16'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1351,30 +1351,31 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T14:11:00+00:00'
-  last_replenishment_prev: '2026-07-16T13:57:00+00:00'
-  last_floor_restore_note_2026_07_16_staleness_spontaneous_collapse_18: 'Floor-restore
-    replenish 2026-07-16T1333Z (interactive, conservative exact-floor +1). PRE-COUNT
-    canonical count_p0_p2_tasks == 2 (single-cell-proto-agency + interpreter-module
-    cross-reviews, both open; the hemispherectomy cross-review 3rd floor task drained
-    at commit e97cf64cb). MIN_QUEUE floor 3 unmet by 1; no concurrent loop (pgrep
-    clean), live re-count 2 before write. SOURCE = staleness (Source 4): unconsumed_research
-    (+60 top lane) EXHAUSTED — all five fresh 2026-07-16 notes consumed to live articles
-    (anarchic-hand, interpreter-module, hemispherectomy, sorkin); the lone slug-unmatched
-    born-rule note is content-consumed by the live concepts/generalised-probabilistic-theories
-    (differently-named-slug false-uncovered, memory replenish-unconsumed-research-dedup-misses-threaded-content).
-    Top drift tier all cosmetic-crosslink converged (memory deep_review_over_reviews_converged),
-    so chose a settled-stale target. MINTED 1 P2 deep-review: topics/philosophical-stakes-of-spontaneous-collapse.md
-    — settled-converged 41d (ldr == ai_modified 2026-06-05), ai_contribution 100,
-    ai_system opus-4-6 older cohort, 11 citation-heavy physics references (GRW / Pearle
-    / CSL plus 2024-25 collapse-test cites, high owed-web-verify + currency-drift
-    surface), body 2438w vs topics 4000 hard (length-neutral). Chosen for Tenet-2
-    quantum diversity vs the two open agency/self cross-reviews. Distinct from the
-    sibling concepts/spontaneous-collapse-theories mechanism page (reviewed 2026-07-06).
-    POST-COUNT canonical count_p0_p2_tasks == 3 (floor exactly satisfied, no padding).
-    FIFO BOTTOM-inserted below the two older open P2s (queue-lifo-starvation guard).
-    Pruned the oldest floor-restore note (sorkin_15) to keep the most-recent 3 (bloat
-    control, zero logic dep).'
+  last_replenishment: '2026-07-16T14:21:00+00:00'
+  last_replenishment_prev: '2026-07-16T14:11:00+00:00'
+  last_floor_restore_note_2026_07_16_staleness_biological_teleology_21: 'Floor-restore
+    replenish 2026-07-16T1421Z (interactive, conservative exact-floor +1). PRE-COUNT
+    canonical count_p0_p2_tasks == 2 (the two open P2 deep-reviews: analytic-idealism-and-mind-centric-metaphysics
+    + consciousness-value-connection, both open; the single-cell-proto-agency cross-review
+    3rd floor task has drained since the 1411Z restore). MIN_QUEUE floor 3 unmet by
+    1; no concurrent loop (pgrep evolve_loop/unfin-cycle clean), live re-count 2 before
+    write, 3 after. EIGHT-SOURCE AUDIT: unconsumed_research (+60) EXHAUSTED — every
+    newest research note has a live article (anarchic-hand, interpreter-module, hemispherectomy,
+    sorkin, generalised-probabilistic-theories, near-perfect-adaptation, single-cell-proto-agency,
+    pragmatist all slug-verified consumed); chain no un-followed tail; gap capped (topics
+    320/320, voids 100/100, concepts 319/320 slot earmarked); orphan 0; length all
+    veto/human-deferred; positions 8 < 10 audit floor; no applied-apex-gap. SOURCE
+    = staleness (Source 4). MINTED 1 P2 deep-review: topics/biological-teleology-and-the-interface-framework.md
+    — settled-converged 40d (ldr == ai_modified 2026-06-06T00:38:28), ai_contribution
+    100, ai_system opus-4-6 older cohort, citation-verifiable (Millikan 1984 / Neander
+    1991 Philosophy of Science / DeWall 2008 Consc&Cog 17(3) / Lieberman 2002 the discriminator
+    paper — publisher-verify yield + teleosemantics-not-laundered-into-allies scrutiny),
+    body ~1997w vs topics 4000 hard (ample headroom, length-neutral). Chosen for Tenet-3
+    agency/teleology/downward-causation axis vs the two open Tenet-1 dualism-rival +
+    value/normativity P2s. POST-COUNT canonical count_p0_p2_tasks == 3 (floor exactly
+    satisfied, no padding). FIFO BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
+    guard). Pruned the oldest floor-restore note (spontaneous_collapse_18, 1333Z) to
+    keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_value_connection_20: 'Floor-restore
     replenish 2026-07-16T1411Z (interactive, conservative exact-floor +1). PRE-COUNT
     canonical count_p0_p2_tasks == 2 (the two open P2 deep-reviews: philosophical-stakes-of-spontaneous-collapse
