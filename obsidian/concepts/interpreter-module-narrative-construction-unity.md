@@ -4,11 +4,20 @@ description: "Gazzaniga's left-hemisphere interpreter confabulates reasons for a
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-07-16T11:05:00+00:00
+ai_modified: 2026-07-16T13:37:16+00:00
+last_deep_review: 2026-07-16T13:37:16+00:00
 draft: false
-topics: []
-concepts: []
-related_articles: []
+topics:
+  - "[[split-brain-consciousness]]"
+  - "[[the-self-minimal-narrative-and-substantial]]"
+concepts:
+  - "[[illusionism]]"
+  - "[[narrative-coherence]]"
+  - "[[unity-of-consciousness]]"
+related_articles:
+  - "[[split-brain-consciousness]]"
+  - "[[illusionism]]"
+  - "[[steelmanning-as-method]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
