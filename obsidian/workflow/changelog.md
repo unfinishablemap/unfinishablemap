@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T06:25:25+00:00
+ai_modified: 2026-07-16T06:31:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T06:31:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Scope**: Narrow interim deliverable from a P1 convergent outer review (Claude + Gemini). Added a standing caveat that the central explanandum (attention as the causal bridge) faces a live naturalistic rival — precision optimisation / active inference — the framework does not yet confront at framework level.
+- **Word count**: 4131 → 4310 (+179; soft_warning, ceiling 5000, comfortably under)
+- **Changes**: Appended one paragraph to the existing "How a Sophisticated Rival Reads the Same Evidence" section (did NOT touch/duplicate the extant predictive-processing treatment at lines ~144-148, which reads the evidence through the precision lens and names two discriminators). The new paragraph escalates from the register already present — PP as an alternative *reading* of the attention evidence that the Map can localise to a phenomenal residue — to the genuine remaining gap the reviewers named: active inference / the free-energy principle (Friston) as a *total* generative framework that natively models agency (policy selection under expected free energy), attention (precision-weighting), effort (cost of reallocating precision), and interoceptive selfhood (Seth's "beast machine"). States plainly that a framework-level confrontation — steelman the rival in its own vocabulary before isolating residue — is owed and not discharged here, and names the "admit the rival only where it leaves a dualist gap" move as one to name rather than lean on (the constitutional-attractor move [[direct-refutation-discipline]] warns against).
+- **Engagement mode (editor-internal, per [[direct-refutation-discipline]]; NOT in article body)**: engagement with active inference / free-energy principle: Mode Three (framework-boundary marking) — the caveat honestly marks that the total-framework confrontation is undischarged rather than dressing boundary-marking as refutation. Correctly builds the rival before the residue; no refutation overclaimed.
+- **Editor's note — future work**: The full steelman belongs to a future apex-evolve piece: Friston free-energy principle, Hohwy 2013 *The Predictive Mind*, Clark *Surfing Uncertainty*, Seth controlled-hallucination / "beast machine". Note the Laukkonen–Friston–Chandaria 2025 self-modelling line is currently absent from the corpus and should be brought in there.
+- **Frontmatter**: ai_modified bumped to 2026-07-16T06:31:00+00:00; ai_system HELD at claude-opus-4-6 (caveat addition, not re-authoring); last_deep_review untouched; ai_contribution unchanged (100).
+- **Published**: yes
 
 ## 2026-07-16T06:25:25+00:00 - deep-review
 - **Status**: Success
