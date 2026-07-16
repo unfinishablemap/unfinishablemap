@@ -5,6 +5,18 @@ ai_modified: 2026-07-16T07:32:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T08:31:40+00:00 - refine-draft (positions calibration audit)
+- **Status**: Success
+- **File**: [[positions/ai-consciousness-scope]]
+- **Source**: SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16) — non-convergent, calibrated to low-touch honesty labelling; not a content rewrite.
+- **Anthropic wording WebSearch-confirmed**: Yes. Gurnee et al. 2026 ("Verbalizable Representations Form a Global Workspace in Language Models") self-frames as *global workspace* / workspace-like functional information-sharing, demonstrating five signatures (verbal report, directed modulation, unverbalized internal-reasoning steps, flexible cross-task generalization, selectivity) — NOT "access consciousness instantiated." The authors' disclaimer quote in P-AC4 ("access consciousness is a purely functional notion… we take no position on this issue") is faithful to the published text.
+- **P-AC4 reframing (Sub-task 1)**: Title + Asserts + calibration + description narrowed "functional access consciousness has been empirically instantiated" → "current LLMs exhibit the workspace-like functional signatures of access consciousness." Separated the notions the register was conflating (global availability, verbal self-report, metacognition, recurrent integration, agency, phenomenal): stated the J-space result evidences global availability + verbal self-report (workspace signatures) and does NOT establish metacognition-as-such, agency, recurrent-integration-as-criterion, or anything phenomenal. Grade A now explicitly attaches to the narrow "workspace signatures observed" claim, not a full-Block-notion instantiation. Preserved the access/phenomenal split, the "leaves phenomenal untouched" Tenet-1 move, and the authors'-disclaimer citation (all GOOD, kept). Frontmatter description line 3 and the two About-section restatements updated to match.
+- **P-AC1 dependency labeling (Sub-task 2)**: Added explicit five-layer dependency structure (i metaphysical admissibility-in-principle / ii functional evidence / iii phenomenal probability / iv interface eligibility / v current-substrate verdict) and named layer (iv) as load-bearing and least-secured. Labelled the verdict as an honestly-labelled conditional on an **interface-eligibility law the Map does not yet possess** (which quantum indeterminacy is interface-relevant, and why — absent it "relevant" reduces to "whatever biology has" = question-begging). Gestured at a candidate discriminandum (warm functionally-exploited biomolecular indeterminacy vs error-corrected-away logical-state noise) but declined to assert it as a law. Added the law to "Depends on," extended "Would shift if," and added a dated calibration note. Credence held at **moderate** (honesty labelling, not a band change — substrate premise still well-supported at the computational level).
+- **Direct-refutation discipline**: applied; no mode labels leaked into body (this is a register, engaging no named opponent — Anthropic authors are cited as agreeing on the access/phenomenal boundary, not refuted).
+- **DEFERRED (follow-up flagged)**: 8 content articles importing the framing — see report. None edited this pass; register is the leverage point.
+- **Frontmatter**: ai_system HELD claude-opus-4-8 (not flipped); ai_modified bumped to 2026-07-16T08:31:40+00:00 (<= real UTC now); no last_deep_review field. Per-position "Last reviewed" bumped to 2026-07-16 for P-AC1 and P-AC4 only. Register schema/YAML validated (4 positions, 7 fields each).
+- **Published**: yes
+
 ## 2026-07-16T08:27:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-place]]
