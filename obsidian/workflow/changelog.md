@@ -5,6 +5,13 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T14:30:00+00:00 - refine-draft (anchoring audit false-high, no body change)
+- **Status**: Success (VERIFIED FALSE-HIGH — exempt applied, body untouched)
+- **File**: [[topics/anarchic-hand-and-action-ownership]]
+- **Disposition**: Anchoring audit (2026-07-16) flagged hedge_density + strong_assertions vs control-theoretic-will / interface-heterogeneity / witness-consciousness. Verified false-high: the article contains ZERO modal-hedge lexemes (counter reads 0.00/kw) yet calibrates entirely phrasal/structurally — "not a proof", "does not contest/license", "No current datum decides", "possibility-preservation", "honestly compatible", "the evidence does not let us discriminate". The 3 strong-assertion verbs are empirical-fact reports of the replicated clinical dissociation (l.29, l.72) or negated to REJECT over-claims (l.64 "proves", l.72 "does not demonstrate what the experiencer is") — no over-confident Map metaphysics. Two same-day reviews (deep + cross) rated it a "model of the Map's calibration discipline".
+- **Change**: Added `anchoring_audit_exempt: true` to frontmatter (placed in first 1500 chars so `_is_anchoring_exempt` reads it). No body edit; held ai_modified / ai_system. Confirmed `evaluate_anchoring` → 0 flags.
+- **Published**: no content change
+
 ## 2026-07-16T14:26:14+00:00 - deep-review
 - **Status**: Success (converged no-op after real scrutiny; only last_deep_review advanced)
 - **File**: [[topics/analytic-idealism-and-mind-centric-metaphysics]]

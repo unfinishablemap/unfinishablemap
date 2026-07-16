@@ -22,6 +22,16 @@ author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-16
 last_curated: null
+anchoring_audit_exempt: true  # Verified false-high (anchoring audit 2026-07-16)
+# vs control-theoretic-will / interface-heterogeneity / witness-consciousness.
+# Calibration is entirely phrasal/structural — "not a proof", "does not
+# contest/license", "No current datum decides", "possibility-preservation",
+# "honestly compatible", "the evidence does not let us discriminate" — so the
+# modal-hedge counter reads 0.00/kw despite exemplary calibration (two same-day
+# reviews, deep + cross, rated it a "model of the Map's calibration discipline").
+# The 3 strong-assertion verbs are empirical-fact reports of the replicated
+# clinical dissociation, or are negated to REJECT over-claims — not
+# over-confident Map metaphysics.
 ---
 
 In anarchic hand, one hand performs complex, well-coordinated, goal-directed acts that the patient did not intend, disowns, and cannot voluntarily inhibit: it reaches for objects, unbuttons a shirt the other hand has just buttoned, or raises a cup of tea the patient knows to be too hot to drink. Crucially, the patient still recognises the limb as their own—body *ownership* is intact—while denying authorship of its movements. The sense of *agency* is what fractures. This makes anarchic hand the agency-side complement to split-brain's perception-side dissociation: the interface between conscious volition and motor execution comes apart while the subject remains a single experiencer who narrates, resents, and physically restrains the wayward hand.
