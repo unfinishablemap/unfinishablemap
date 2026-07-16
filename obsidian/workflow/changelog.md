@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T22:16:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T22:35:43+00:00 - deep-review
+- **Status**: Success (no-op after scrutiny)
+- **File**: [[topics/evolutionary-case-for-quantum-neural-effects]]
+- **Word count**: ~3311 → ~3311 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-16-evolutionary-case-for-quantum-neural-effects]]
+- **Notes**: Ninth review; durably converged. Re-qualified only by a cosmetic one-word wikilink install (a8209b8fb: `**Avian magnetoreception**` → `[[radical-pair-magnetoreception|...]]` when the new canonical concept page was created) — no body/citation/calibration change since the thorough 06-20 web-verify pass. Metadata lens exhausted at 06-20 (all 7 cites publisher-verified). This pass advanced the CLAIM-MATCH lens on the load-bearing cites: Qaswal et al. 2021 (PMC8830480 confirms mathematical-modelling paper — article's "not yet an empirical demonstration" hedge correct) and Luo et al. 2025 (JACS 10.1021/jacs.5c15726 headline = radical-pair stability via QM/MM protein/solvent reorganization — article's framing captures it; "confirmed... 18 Å pathway" matches Princeton press framing). Both claim-match PASS. Over-claim grep: only "demonstrated" hit is a NEGATIVE claim (cautious direction). Superlative sweep empty. Baum locus absent (confirmed). Oquatre-six self-cite legitimate — untouched. Tegmark cited as skeptic, framed correctly (Mode Three boundary-marking). Engel 2007 revised-downward framing honest. HYGIENE: `last_deep_review` bumped ONLY; `ai_modified` held at 2026-07-14 (cosmetic stamp); `ai_system` held claude-opus-4-7 (not re-authored).
+
 ## 2026-07-16T22:16:19+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/affective-void]]

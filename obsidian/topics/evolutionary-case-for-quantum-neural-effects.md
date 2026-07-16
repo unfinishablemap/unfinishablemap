@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review: 2026-06-20T11:40:59+00:00
+last_deep_review: 2026-07-16T22:35:43+00:00
 ---
 
 Selection has propagated quantum-exploiting variants in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic licenses neural quantum effects as a realistic possibility, since the computational payoffs of quantum effects in neural systems could be substantial relative to those in a compass or a faster enzyme. If natural selection retained quantum solutions for navigation and chemistry, the question is not whether it *could* retain them for neural computation, but whether the requisite variation arose under selective pressures strong enough to fix it.
