@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T00:45:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/aesthetics-and-consciousness]]
+- **Word count**: 2842 → 2844 (+2, length-neutral; 95% of 3000 soft threshold)
+- **Critical issues addressed**: 1 (Chalmers 1996 orphan reference — cited only in References, never inline; anchored inline at the zombie-conceivability passage, §2.4 step-5)
+- **Medium issues addressed**: 0 (converged; sixth review)
+- **Enhancements made**: 0 (calibration hedges held per 2026-06-18 convergence; no oscillation)
+- **Web-verify ledger**: Byrne & Hilbert 2003, Plomp & Levelt 1965, Ramachandran & Hirstein 1999, Birkhoff 1933, Jackson 1982 — all real-correct at publisher of record; remaining classic works metadata-faithful; no superlative/currency claims
+- **ai_system**: held at claude-opus-4-6 (2-word citation fix is not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-16-aesthetics-and-consciousness]]
+
 ## 2026-07-16T00:34:00+00:00 - refine-draft (scoped quote-verify)
 - **Status**: Success
 - **File**: [[concepts/combination-problem]]

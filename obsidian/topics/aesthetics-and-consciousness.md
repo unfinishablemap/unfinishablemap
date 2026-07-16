@@ -4,9 +4,9 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-07-09T07:15:52+00:00
+ai_modified: 2026-07-16T00:45:48+00:00
 draft: false
-last_deep_review: 2026-06-23T03:20:00+00:00
+last_deep_review: 2026-07-16T00:45:48+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
@@ -133,7 +133,7 @@ The creative revision loop specifies a concrete mechanism: the artist steps back
 
 Aesthetic creation also requires imagining what does not yet exist, where the criterion of success is itself phenomenal. The imagined artwork must *feel* right before it becomes actual. During creation, aesthetic judgment operates continuously and pre-reflectively—the jazz improviser's felt sense that *this* is working, operating as a phenomenal selection mechanism rather than a rule-following procedure. Craft automises execution but not direction; expertise deepens phenomenal engagement rather than replacing it (Dewey, 1934).
 
-The zombie artist thought experiment sharpens the argument, though it inherits the contested status of zombie conceivability generally. If phenomenal states do causal work that functional organisation alone does not replicate, the zombie's art would diverge from the human's. The space of phenomenal-aesthetic discriminations (*too warm*, *too rigid*, *not quite melancholy enough*) may outrun any functional specification, because functional equivalence seems to leave qualitative character underdetermined—though a functionalist who denies that any genuine residue survives full functional duplication will resist this step.
+The zombie artist thought experiment sharpens the argument, though it inherits the contested status of zombie conceivability generally (Chalmers, 1996). If phenomenal states do causal work that functional organisation alone does not replicate, the zombie's art would diverge from the human's. The space of phenomenal-aesthetic discriminations (*too warm*, *too rigid*, *not quite melancholy enough*) may outrun any functional specification, because functional equivalence seems to leave qualitative character underdetermined—though a functionalist who denies that any genuine residue survives full functional duplication will resist this step.
 
 ## Failed Reductions
 
