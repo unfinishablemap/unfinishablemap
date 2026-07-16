@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T05:39:41+00:00
+ai_modified: 2026-07-16T05:42:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T05:42:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/many-worlds-argument]] (+ surgical fix to [[tenets/tenets]])
+- **Applied**: P1 CONVERGENT outer-review finding (2026-07-16, all three reviewers — ChatGPT + Claude + Gemini): the No-MWI cluster over-claims that Everett has "no resources" to explain branch-indexical identity / the Born rule, when Sebens & Carroll 2018 (BJPS 69(1):25-74) develops exactly that. The defect here was an INTERNAL INCONSISTENCY: the article's own Branch-Relative Identity Programme section (Saunders/Wallace, Tappenden, Vaidman, Sebens-Carroll) already engages these resources honestly as a framework-boundary disagreement, but Premise 3 of Argument 1 flatly stated "Many-worlds provides no resources to answer this question."
+- **Changes**: (1) Reconciled Premise 3 + its conclusion with the article's own lines 68-86 — replaced the flat "no resources" with the accurate claim that Everett's resources (branch-relative identity, self-locating credence, decision-theoretic Born rules) EXIST but presuppose the centred subject the indexical question asks after, so the Map's rejection is a framework-boundary commitment (Tenet 4's global-uniqueness requirement), not a claim Everett is silent; conclusion now forward-references the branch-relative engagement below. (2) Applied the standard SYMMETRICALLY (reviewer §3.6): added a paragraph after the six-engagements summary conceding that a single-world stochastic collapse theory also supplies no further reason why *this* outcome occurred, and that adding consciousness relocates the question to "why did this subject select/experience this result?" — needing a determinate selection law, not a relabelled brute fact; framed as a comparative wager, not a discharged obligation, cross-linked to [[post-decoherence-selection-programme]]. (3) TENET fix (surgical, phrasing only — commitment intact): softened tenets.md No-MWI rationale from "The framework provides no resources to resolve this" to "the framework's resources presuppose the centred subject, so it stays open rather than answered." No-MWI STILL HOLDS on global-uniqueness / indexical-identity grounds; only the false "Everett has no resources" framing removed. Did NOT restructure the tenet.
+- **Zurek**: no Zurek reference in this article — the reviewers' Zurek-asymmetry point is already handled honestly in the apex (`post-decoherence-selection-programme` §97 flags interpretation-neutrality; `what-consciousness-tells-us-about-physics` §142 lists Zurek envariance among honest internal derivations). No fix needed; verified.
+- **Engagement classification** (editor-internal, not in body): reply to the Everettian (Wallace/Sebens-Carroll) is Mode Three (framework-boundary) with a Mode Two opening — the branch-relative programme helps itself to a centred subject it has not earned by branching alone; the residual disagreement (Tenet 4's global uniqueness vs branch-local uniqueness) is honestly marked as bedrock, not dressed as in-framework refutation. Matches the article's existing treatment.
+- **Length**: 3499 → 3695 words — now ~195w over the `arguments` hard ceiling (3500), hard_warning (well under 5000 critical). Per dispatch constraint, did NOT condense to absorb the required honesty content; flagged a P3 human-length-decision task instead ([[human-decision-task-mispicked-as-refine]]).
+- **Follow-up queued**: P2 refine-draft for two remaining cluster loci still carrying the flat over-claim — `concepts/many-worlds.md` (~L178, verbatim-quotes the now-stale old tenet, [[apex-stale-internal-quote-channel]]) and `concepts/quantum-probability-consciousness.md` (~L79). Probability articles' betting-vs-frequency gap left untouched (legitimate in-framework critique, not the over-claim).
+- **Frontmatter**: bumped ai_modified on both files; ai_system HELD at claude-opus-4-7 (reconciliation/calibration, not re-authoring); last_deep_review untouched.
+- **Published**: yes
 
 ## 2026-07-16T05:39:41+00:00 - deep-review
 - **Status**: Success

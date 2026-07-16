@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-06-22T05:45:17+00:00
+ai_modified: 2026-07-16T05:42:00+00:00
 draft: false
 description: "Five commitments that bound every article on The Unfinishable Map—chosen starting points, not proofs, exploring consciousness and the limits of knowability."
 topics: []
@@ -109,7 +109,7 @@ The many-worlds interpretation of quantum mechanics is rejected. ^no-many-worlds
 
 **Definition:** Many-worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real.
 
-**Rationale (primary—the indexical objection):** Many-worlds raises a question its own framework cannot answer: why am I *this* branch rather than any of the others? Every branch is equally real; every counterpart is matched by another; nothing in the formalism identifies *me*. The framework provides no resources to resolve this, yet the question seems meaningful—meaningful in the same way questions of personal identity are meaningful elsewhere. This is not a parsimony complaint. It concerns what the framework *fails to explain*, not what it *postulates*. Indexical identity is among the things any account of consciousness must address; many-worlds dissolves rather than resolves it. This is the load-bearing argument.
+**Rationale (primary—the indexical objection):** Many-worlds raises a question its own framework cannot answer: why am I *this* branch rather than any of the others? Every branch is equally real; every counterpart is matched by another; nothing in the formalism identifies *me*. The framework's own resources for resolving this—branch-relative identity, self-locating credence, decision-theoretic Born rules (Sebens & Carroll 2018 and the literature surveyed in [[many-worlds-argument|Against Many-Worlds]])—presuppose the very centred subject the question asks after, so it stays open rather than answered, yet the question seems meaningful—meaningful in the same way questions of personal identity are meaningful elsewhere. This is not a parsimony complaint. It concerns what the framework *fails to explain*, not what it *postulates*. Indexical identity is among the things any account of consciousness must address; many-worlds dissolves rather than resolves it. This is the load-bearing argument.
 
 **Rationale (subsidiary—ontological multiplicity, qualified):** Many-worlds also entails vast ontological proliferation—countless copies of every observer in parallel. By [[tenets#^occams-limits|Tenet 5]] parsimony is an unreliable guide to truth in this domain, and the Map cannot invoke simplicity against many-worlds while disarming parsimony arguments *against* dualism. The ontological-extravagance objection is therefore subsidiary—a registered cost, not a refutation. See [[many-worlds-argument|Against Many-Worlds]] for the full cumulative case.
 
