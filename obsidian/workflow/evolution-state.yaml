@@ -1353,8 +1353,37 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T17:50:00+00:00'
-  last_replenishment_prev: '2026-07-16T16:55:00+00:00'
+  last_replenishment: '2026-07-16T18:28:00+00:00'
+  last_replenishment_prev: '2026-07-16T17:50:00+00:00'
+  last_floor_restore_note_2026_07_16_staleness_authorship_of_action_1828: 'Floor-restore
+    replenish 2026-07-16T1828Z (interactive, conservative exact-floor +1). AUTHORITATIVE
+    PRE-COUNT count_p0_p2_tasks == 2, re-verified LIVE twice before write (open P2
+    deep-reviews jourdain-hypothesis + neuroplasticity; coupling-modes DRAINED via
+    cycle deep-review commit fcd1b5f62). MIN_QUEUE floor 3 unmet by 1; restores 2 to
+    3. NO concurrent evolve_loop.py (pgrep clean); tree clean; last real replenish
+    commit 8922ecd21 predates the coupling-modes drain, so first to breach (the d00039bd2
+    HEAD grep-match on replenish is a deep-review bookkeeping commit, not a replenish).
+    concurrent-replenish-race guard: re-count 2 before AND 3 after this single write,
+    revert if a sibling mint lands. EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks
+    all deep-reviews); unconsumed_research EXHAUSTED (target sections AT CAP); gap capped
+    (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan
+    0; length all veto/human-deferred; positions 8 < 10 audit floor; no applied-apex-gap.
+    SOURCE = staleness (Source 4): 63 settled-converged candidates. MINTED 1 P2 deep-review
+    topics/authorship-of-action-divergence.md — converged 30d (ldr == ai_modified 2026-06-16),
+    ai_contribution 100, ai_system claude-opus-4-7 (older cohort, scrutinize citations
+    hard), 23 year-parens = HIGHEST citation-verify yield in pool; the choice-blindness
+    / confabulation cohort here (Johansson-Hall, Rebouillat 2021, Sauerland-Schell-Leugers-Sagana
+    2020, Wegner, Nisbett-Wilson) has a DOCUMENTED intra-corpus citation-propagation
+    defect history (Coutinho to Rebouillat mis-attribution, Sauerland 2020 unlocatable-cite
+    — both previously fixed here). Chosen for introspective-authorship-tracking / choice-blindness
+    axis diversity vs the two open P2s (jourdain Tenet-1 metacognition + neuroplasticity
+    Tenet-3 clinical-plasticity) and the drained coupling-modes (Tenet-2 quantum). PRESERVE
+    the scoped-honestly framing per evidential-status-discipline — choice-blindness
+    data is evidence of introspective unreliability, no upgrade to an establishing dualism
+    argument. POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied, no padding).
+    BOTTOM-inserted below the two older open P2s (queue-lifo-starvation guard). Pruned
+    the oldest floor-restore note (conversion_disorder_1641) to keep the most-recent
+    3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_jourdain_1750: 'Floor-restore replenish
     2026-07-16T1750Z (conservative exact-floor +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks
     == 2, re-verified LIVE before write (open P2 deep-reviews attentional-economics
@@ -1402,33 +1431,6 @@ queue_status:
     exactly satisfied, no padding). BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
     guard). Pruned the oldest floor-restore note (causal_powers_25) to keep the most-recent
     3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_conversion_disorder_1641: 'Floor-restore
-    replenish 2026-07-16T1641Z (interactive, conservative exact-floor +1). AUTHORITATIVE
-    PRE-COUNT canonical count_p0_p2_tasks == 2, re-verified LIVE before write (the
-    two open P2 deep-reviews: conceivability-possibility-inference + self-opacity;
-    the third floor task consciousness-and-causal-powers drained via cycle deep-review
-    slot commit 0338e440d at 1638Z). MIN_QUEUE floor 3 unmet by 1; restores 2 to 3.
-    LIVE LOOP RUNNING (auto commits every ~6min, last content commit 0338e440d 1638Z);
-    NO replenish commit landed since the 1638Z drain (first to the breach); live re-count
-    2 immediately before AND intended after this single write (concurrent-replenish-race
-    guard, revert if a sibling mint also lands). EIGHT-SOURCE AUDIT re-run LIVE: chain
-    no un-followed tail; unconsumed_research (+60) EXHAUSTED (newest note interface-eligibility-law
-    targets topics/ AT CAP, no mintable expand); gap capped (topics 320/320, concepts
-    320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length all veto/human-deferred;
-    positions 8 < 10 audit floor; no applied-apex-gap. SOURCE = staleness (Source
-    4). MINTED 1 P2 deep-review: topics/conversion-disorder-as-consciousness-side-fault.md
-    - settled-converged 30d (ldr == ai_modified 2026-06-16T07:27:38), ai_contribution
-    100, ai_system claude-opus-4-7 (older cohort, scrutinize citations hard), citation-dense
-    clinical/FND literature (high web-verify yield), 3104w vs topics 3000 soft / 4000
-    hard (length-neutral-to-trimming). Chosen for Tenet-3 bidirectional / clinical-evidence
-    axis diversity vs the two open P2s (conceivability Tenet-1 modal-epistemology
-    + self-opacity Tenet-5 introspection). PRESERVE the article evidential calibration
-    (substrate-intact motor decoupling robust; consciousness-side-interface reading
-    a contestable further step) per evidential-status-discipline, no tier-upgrade
-    to establishing dualism. POST-COUNT canonical count_p0_p2_tasks == 3 (floor exactly
-    satisfied, no padding). BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
-    guard). Pruned the two oldest floor-restore notes (cross_species_proxy_24, local_tomography_23)
-    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
     (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
     + methodological-pluralism owed-verify deep-reviews; the three research-topic
