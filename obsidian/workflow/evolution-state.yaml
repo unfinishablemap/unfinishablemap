@@ -1340,8 +1340,42 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T21:01:00+00:00'
-  last_replenishment_prev: '2026-07-16T21:30:00+00:00'
+  last_replenishment: '2026-07-16T21:32:00+00:00'
+  last_replenishment_prev: '2026-07-16T21:01:00+00:00'
+  last_floor_restore_note_2026_07_16_staleness_affective_void_2132: 'Floor-restore replenish
+    2026-07-16T2132Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
+    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text()) == 2
+    verified LIVE immediately before AND 3 after this single write. MIN_QUEUE floor
+    3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (ps -ef clean); tree
+    clean at mint (only todo.md dirty); HEAD 399427d33 is an agentic-social cycle_post
+    pre-replenish tree-clean, i.e. this IS the /unfin-cycle replenish leg. concurrent-replenish-race
+    guard: revert the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT re-run
+    LIVE: chain none (recent_tasks all deep-review/replenish/agentic-social); unconsumed_research
+    BLOCKED (target sections AT CAP); gap capped (topics 320/320, concepts 320/320,
+    voids 100/100 all AT CAP by live file-count; positions 8/80); orphan 0; length
+    all veto/human-deferred; positions audit ran 2026-07-12 (< 30d, not overdue), 8
+    < 10 audit floor (prokaryotic-floor register P3 already queued); no applied-apex-gap.
+    SOURCE = staleness (Source 4). MINTED 1 P2 deep-review voids/affective-void.md
+    -- the corpus-oldest un-queued settled last_deep_review 2026-06-02T10:52Z (44-day
+    gap; commit d5b9b7eb0 is its most recent review, reconciled vs frontmatter), fully
+    settled (ai_modified 2026-06-02 == last_deep_review then 44d untouched, zero same-session-churn
+    risk -- NOT part of the 2026-07-16 value/meaning refine which touched only apex/living-with-the-map
+    + apex/moral-architecture, grep-verified), ai_contribution 100, ai_system claude-opus-4-5-20
+    (OLDER cohort than either open P2 -- mattering-void opus-4-7, reductionism opus-4-8
+    -- and the owed-web-verify-seam-deep-review-targeting high-yield profile: older-cohort
+    + citation-dense (24 reference lines) + >25d-converged + intra-corpus), 1982 body
+    words (under voids soft 2000, no condense risk), EOF scan CLEAN (ends on Cytowic
+    1995 Psyche + Scarantino 2010 BJPS 61(4):729-768). Axis = affect / felt-emotional-quality
+    / affects-beyond-human-reach -- distinct from both open P2 axes (value-mattering-significance,
+    reductionism/Tenet-1) for section + cohort + content diversity (adjacent to but
+    NOT the same as mattering-void). Verify-job: web-verify citations by TITLE+venue
+    (ai_citation_metadata_unreliable + citation-verify-false-negative), quote-fidelity
+    at publisher, cross-link reciprocity, tenet routing, style. HOLD ai_system + no
+    ai_modified bump on a no-op (deep-review-fork-over-attributes-ai-system + deep-review-fork-bumps-ai-modified-on-noop).
+    POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied, no padding). BOTTOM-inserted
+    below the two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore
+    note (subjective_aim_1955) to keep the most-recent 3 (bloat control, zero logic
+    dep).'
   last_floor_restore_note_2026_07_16_staleness_reductionism_2101: 'Floor-restore replenish
     2026-07-16T2101Z (interactive agent, conservative exact-floor +1). Timestamp is
     the REAL date -u wall clock; the prior legs (1937/1955/2130) were fork-future-dated
@@ -1407,30 +1441,6 @@ queue_status:
     == 3 (floor exactly satisfied, no padding). BOTTOM- inserted below the two open
     P2s (queue-lifo-starvation guard). Replaced the oldest floor- restore note (apophatic_cartography_1912)
     to keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_subjective_aim_1955: 'Floor-restore
-    replenish 2026-07-16T1955Z (interactive, conservative exact-floor +1). AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks == 2 (open P2 deep-reviews
-    predictive-construction-void + vagueness-void; the 19:37 mint apophatic-cartography-four-criteria
-    + direction-of-fit DRAINED via cycle deep-reviews commits 6d18ed2a2 + 7df237be5).
-    MIN_QUEUE floor 3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (ps
-    clean); tree clean. EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks all
-    deep-review/replenish/agentic-social/embed-videos); unconsumed_research BLOCKED
-    (target sections AT CAP so no expand-topic can land); gap capped (topics 320/320,
-    concepts 320/320, voids 100/100 all AT CAP by live file-count; positions 8/80);
-    orphan 0; length all veto/human-deferred (three #veto condenses); positions 8
-    < 10 audit floor (prokaryotic-floor register P3 already queued); no applied-apex-gap.
-    SOURCE = staleness (Source 4). MINTED 1 P2 deep-review concepts/subjective-aim.md
-    — oldest settled un-queued last_deep_review 2026-06-03 (43d gap), genuinely converged
-    (ai_modified 2026-05-26 = 51d untouched, low churn-no-op risk), ai_contribution
-    100, ai_system claude-opus-4-6, 1796w (length ok). Chosen for SECTION + CONTENT-AXIS
-    diversity vs the two open P2 voids (predictive-processing/active-inference + sorites/phenomenal-vagueness):
-    concepts/ Whiteheadian process-philosophy / subjective-aim / final-causation axis.
-    HOLD ai_system (deep-review-fork-over-attributes-ai-system); no ai_modified bump
-    on a metadata no-op (deep-review-fork-bumps-ai-modified-on-noop). POST-COUNT count_p0_p2_tasks
-    == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two older
-    open P2s (queue-lifo-starvation guard). Replaced the oldest floor-restore note
-    (stochastic_emergence_1839) to keep the most-recent 3 (bloat control, zero logic
-    dep).'
   last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
     (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
     + methodological-pluralism owed-verify deep-reviews; the three research-topic
