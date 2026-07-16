@@ -9,6 +9,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-16T09:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Changes**: Resolved a live internal contradiction with the [agency-and-will](/positions/agency-and-will/) register (P-A1/P-A2 now treat the determinism/randomness/authorship trilemma as a non-exhaustive heuristic). Retitled "## Why the Trilemma Is Exhaustive" → "## What the Trilemma Assumes — and the Positions It Sets Aside"; reframed it to name the two assumptions the partition depends on (authorship secured at the instant of micro-resolution; probabilistic causation by prior reasons-states counted as luck) and to name the omitted/collapsed positions as an open engagement debt — event-causal libertarianism (not simply Horn 2), reasons-responsive compatibilism, hierarchical control theories, emergent causal-organisation accounts, interventionist/dynamical accounts — set aside, not refuted; the article still engages only the "partly determined, partly random" mixture. Softened the lead ("These three exhaust the logical space. No fourth possibility exists" → heuristic framing) and the frontmatter description. Reworked the Dualism relation so the substance-agent conclusion is best-explanation-given-the-convergent-anchors, not forced by an exhaustive partition; cross-linked [agency-and-will](/positions/agency-and-will/) as the register booking the debt. Adjusted "What the Trilemma Secures" to the narrower secure claim (determinism/randomness/mixture cannot deliver authorship) without reasserting exhaustion. Engagement with the compatibilist: Mode Three (framework-boundary) for the Horn-1 disagreement, stated as such rather than as refutation. Length near-neutral (2714→3019 body words; growth is the required naming of five set-aside positions). ai_system held at claude-opus-4-6+claude-opus-4-8; ai_modified bumped, last_deep_review untouched.
+- **Published**: yes
+
 ## 2026-07-16T09:36:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Anarchic hand and the fragmentation of action-ownership

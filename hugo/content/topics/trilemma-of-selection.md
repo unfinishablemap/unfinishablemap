@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-07-15 13:01:47+00:00
+ai_modified: 2026-07-16 09:45:00+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -19,9 +19,10 @@ concepts:
 - '[[post-decoherence-selection]]'
 created: 2026-03-10
 date: &id001 2026-03-10
-description: 'At any decision point involving genuine indeterminacy, exactly three
-  options obtain: determinism, randomness, or mental causation. Human-AI analysis
-  of why only the third preserves authorship.'
+description: At a decision point of genuine indeterminacy the trilemma foregrounds
+  three horns—determinism, randomness, mental causation. Human-AI analysis of why
+  only directed selection preserves authorship, treated as a heuristic not a complete
+  partition.
 draft: false
 human_modified: null
 last_curated: null
@@ -41,7 +42,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-When a neural decision point involves genuine indeterminacy, exactly three options obtain. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three exhaust the logical space. No fourth possibility exists.
+When a neural decision point involves genuine indeterminacy, three options come to the fore. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three are the horns the trilemma foregrounds—a working heuristic, not a complete partition of the space. Several further positions on agency reject the assumptions the trilemma builds in and are set aside rather than defeated, as the section "What the Trilemma Assumes" below spells out.
 
 The Unfinishable Map argues that only the third horn preserves the [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/)—the felt difference between authoring a decision and merely watching one happen. This trilemma sharpens what Kane (1996) called "the significance of free will": the question is not whether we feel free, but whether anything in the architecture of decision-making could make that feeling veridical.
 
@@ -81,18 +82,18 @@ Three features distinguish this from randomness:
 
 **Neural distinctiveness.** Willed action shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or instructed processing. The brain distinguishes between what the agent chooses and what merely happens. If consciousness contributed nothing, this distinction would serve no purpose.
 
-## Why the Trilemma Is Exhaustive
+## What the Trilemma Assumes — and the Positions It Sets Aside
 
-The three horns partition the logical space completely. At any point where a decision resolves:
+The three horns look like a complete partition, but they partition the space only under two assumptions the trilemma quietly builds in. First, that authorship must be secured *at the instant of indeterminate micro-resolution*—the moment physics leaves the outcome open. Second, that probabilistic causation of an outcome by prior reasons-states counts as "luck" (this drives Horn 2). Grant both, and the mapping holds:
 
 1. The outcome was determined by prior states (Horn 1), or it was not.
-2. If not determined, *something* resolves the indeterminacy. That something is either:
-   - Nothing directed—pure chance (Horn 2), or
-   - Something directed—a selector acting for reasons (Horn 3).
+2. If not determined, *something* resolves the indeterminacy—either nothing directed (pure chance, Horn 2) or something directed (a selector acting for reasons, Horn 3).
 
-There is no fourth option. "Partly determined, partly random" is a mixture of Horns 1 and 2 that inherits both problems: the determined component removes authorship over that portion; the random component adds arbitrariness to the rest. Only a directed resolution of genuine indeterminacy preserves authorship.
+Reject either assumption and further positions open up that the trilemma does not touch. **Event-causal libertarianism** holds the resolution *is* probabilistically caused by prior reasons-states and disputes that this is mere luck—so it is not simply Horn 2. **Reasons-responsive compatibilism** denies authorship needs indeterminism at all, relocating the question rather than answering it on the trilemma's terms. **Hierarchical control theories**, **emergent causal-organisation accounts**, and **interventionist or dynamical (temporally-extended) accounts** locate agency at a level other than the instant of micro-resolution, so the first assumption does not bind them. These are *set aside* by the trilemma, not *refuted* by it; the Map books them as an open engagement debt in the [agency-and-will](/positions/agency-and-will/) register (see P-A1). The argument below engages only one member of the wider family—the "partly determined, partly random" mixture—which the trilemma does dispatch.
 
-Compatibilists may object that the trilemma smuggles in an assumption—that "genuine" freedom requires metaphysical openness. On their view, the trilemma's first horn is perfectly liveable: determined choices flowing from endorsed desires *are* free choices. The Map acknowledges this as a coherent position but maintains it fails to explain the phenomenological data. The felt difference between choosing and observing, the effort that scales with difficulty, the depletion that requires recovery—these features of experience are precisely what one would expect if consciousness genuinely selects, and precisely what one would not expect if it passively accompanies predetermined outcomes.
+That mixture combines Horns 1 and 2 and inherits both problems: the determined component removes authorship over that portion; the random component adds arbitrariness to the rest. Against *this* option the trilemma's pressure holds—only a directed resolution of genuine indeterminacy preserves authorship over the open portion.
+
+Reasons-responsive compatibilism is the most developed of these set-aside positions, and the [Compatibilist Objections](#compatibilist-objections) section below engages it directly. The disagreement there is at the framework boundary: the Map does not claim the trilemma refutes the compatibilist, only that the compatibilist reading fails to explain the phenomenological data—the effort that scales with difficulty, the depletion that requires recovery—which is what one would expect if consciousness genuinely selects and not what one would expect if it passively accompanies predetermined outcomes.
 
 ## The Mechanism Question
 
@@ -118,7 +119,7 @@ This does not prove that consciousness is required for grasping—that remains t
 
 ## What the Trilemma Secures
 
-The trilemma does not prove that consciousness selects among quantum possibilities. Its conclusion is more modest, and for that reason more secure: *if* genuine authorship exists, it requires something with the character of Horn 3. The [Consciousness and Agency](/apex/consciousness-and-agency/) synthesis develops the full implications of this conditional. Neither determinism nor randomness, on this reading, can deliver authorship, however they are refined or combined.
+The trilemma does not prove that consciousness selects among quantum possibilities, nor—as the framing above concedes—that Horn 3 is the *only* route to authorship, since positions rejecting its two assumptions are set aside rather than closed off. Its secure conclusion is narrower: neither pure determinism, nor pure randomness, nor a "partly determined, partly random" mixture can deliver authorship over the open portion of a decision, however refined or combined. Within that space, a directed resolution with the character of Horn 3 is what authorship needs. The [Consciousness and Agency](/apex/consciousness-and-agency/) synthesis develops the implications.
 
 This matters because it clarifies the stakes. The question is not whether determinism or indeterminism is true—that is an empirical matter for physics, and the present evidence does not adjudicate which obtains at neural decision points. The question is what follows from each option. And what follows is that genuine authorship requires a third element: directed resolution of open possibilities by a selector acting for reasons. Whether that selector exists is the hard question. Dismissing it, the trilemma suggests, leaves only theatrical deliberation or arbitrary outcomes.
 
@@ -126,7 +127,7 @@ This matters because it clarifies the stakes. The question is not whether determ
 
 The trilemma connects to each of the five [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: Horn 3 requires consciousness to be something beyond the physical processes it influences. A purely physical selector would inherit the determinism of physical law (Horn 1) or contribute only randomness (Horn 2). The selector must be the kind of thing that can act for reasons without being causally determined to do so—which is precisely what substance dualism provides. The standard physicalist objection—that [causal closure](/concepts/causal-closure/) of the physical leaves no room for non-physical influence—assumes what the trilemma contests: that determinism or randomness exhausts the options at points of genuine indeterminacy.
+**[Dualism](/tenets/#dualism)**: Horn 3 requires consciousness to be something beyond the physical processes it influences. The move to a substance-agent selector is not *forced* by the trilemma exhausting the options—as the section above concedes, it does not. It is offered as the best explanation of a convergent set of anchors—the phenomenology of effort and willing, neural data distinguishing willed from instructed action, the argument from reason, and the failure of the "partly determined, partly random" mixture to deliver an authored part—given which the selector must be able to act for reasons without being causally determined to do so, as substance dualism allows. The [agency-and-will](/positions/agency-and-will/) register books the inference the same way, resting it on the convergent anchors rather than on the horns being exhaustive. The physicalist objection—that [causal closure](/concepts/causal-closure/) leaves no room for non-physical influence—engages the same disagreement at the framework boundary; the Map's reply is that closure is contested at the point of genuine indeterminacy rather than settled there.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The trilemma derives the need for consciousness to bias outcomes at points of genuine indeterminacy. The smallest possible influence at the decision point—biasing which already-prepared option actualises—is exactly what the tenet specifies. The [Born rule analysis](/topics/born-rule-and-the-consciousness-interface/) specifies what that indeterminacy looks like in quantum mechanics: the Born rule governs the probability distribution over outcomes, but which outcome actualises remains open—precisely the gap where Horn 3's conscious selection operates.
 
