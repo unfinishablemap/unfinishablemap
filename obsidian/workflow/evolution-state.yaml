@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T17:43:09.865559+00:00'
-session_count: 15996
-cycle_position: 11202
+last_updated: '2026-07-16T17:46:51.077140+00:00'
+session_count: 15997
+cycle_position: 11203
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-16T15:40:27.577123+00:00'
   optimistic-review: '2026-07-16T16:34:38.481403+00:00'
   check-tenets: '2026-07-16T10:38:58.530837+00:00'
   check-links: '2026-07-16T14:36:17.114963+00:00'
-  deep-review: '2026-07-16T17:33:47.201922+00:00'
+  deep-review: '2026-07-16T17:46:51.077140+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-16T14:39:18.362355+00:00'
   coalesce: '2026-07-16T17:29:31.018578+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 517
-  reviews_completed: 6436
+  reviews_completed: 6437
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-07-16'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1349,8 +1349,30 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T16:55:00+00:00'
-  last_replenishment_prev: '2026-07-16T16:41:00+00:00'
+  last_replenishment: '2026-07-16T17:50:00+00:00'
+  last_replenishment_prev: '2026-07-16T16:55:00+00:00'
+  last_floor_restore_note_2026_07_16_staleness_jourdain_1750: 'Floor-restore replenish
+    2026-07-16T1750Z (conservative exact-floor +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks
+    == 2, re-verified LIVE before write (open P2 deep-reviews attentional-economics
+    + coupling-modes; conceivability-possibility-inference DRAINED via cycle deep-review
+    commit 754015203 1746Z, conversion-disorder DRAINED 1708Z). MIN_QUEUE floor 3
+    unmet by 1; restores 2 to 3. LIVE LOOP RUNNING (~5min cadence, last content commit
+    754015203 1746Z); NO replenish landed since d01c42ee3 1743 (first to breach);
+    concurrent-replenish-race guard: re-count 2 before AND 3 after this single write,
+    revert if a sibling mint lands. EIGHT-SOURCE AUDIT re-run LIVE: chain none; unconsumed_research
+    EXHAUSTED (newest notes map to live articles or capped sections); gap capped (topics
+    320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0;
+    length all veto/human-deferred; positions 8 < 10 audit floor; no applied-apex-gap.
+    SOURCE = staleness (Source 4): 60 settled-converged candidates. MINTED 1 P2 deep-review
+    concepts/jourdain-hypothesis.md — converged 41d (ldr == ai_modified 2026-06-05),
+    ai_contribution 100, ai_system claude-opus-4-5-20251101 (ONLY pure oldest-cohort
+    concept in the settled pool, scrutinize citations hardest), metacognition-threshold
+    / functional-phenomenal-decoupling axis (diverse from attentional-economics Tenet-3
+    + coupling-modes Tenet-2). PRESERVE evidential calibration on the human/animal
+    metacognition gap per evidential-status-discipline. POST-COUNT count_p0_p2_tasks
+    == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two older
+    open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (self_opacity_31)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_attentional_economics_1655: 'Floor-restore
     replenish 2026-07-16T1655Z (interactive, conservative exact-floor +1). PRE-COUNT
     count_p0_p2_tasks == 2, re-verified LIVE before write (open P2 deep-reviews: conceivability-possibility-inference
@@ -1403,22 +1425,6 @@ queue_status:
     satisfied, no padding). BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
     guard). Pruned the two oldest floor-restore notes (cross_species_proxy_24, local_tomography_23)
     to keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_self_opacity_31: 'Floor-restore replenish
-    2026-07-16T1631Z (interactive, conservative exact-floor +1). PRE-COUNT open loop-pickable
-    P0-P2 == 2 (conceivability-possibility-inference + consciousness-and-causal-powers;
-    cross-species-behavioural-confidence-proxy-tests drained via cycle deep-review
-    commit a92f220d0). MIN_QUEUE floor 3 unmet by 1; restores 2 to 3. Eight-source
-    audit re-run LIVE: unconsumed-research EXHAUSTED (newest notes have articles or
-    target capped topics/), gap capped (topics 320/320, concepts 320/320, voids 100/100
-    all AT CAP; positions 8/80), orphan 0, length veto/human-deferred, positions 8
-    < 10 audit floor, no applied-apex-gap. SOURCE = staleness (Source 4): 67 converged-stale
-    candidates. MINTED 1 P2 deep-review voids/self-opacity.md — converged 43d (ldr==ai_modified
-    2026-06-03), ai_contribution 100, ai_system claude-opus-4-6 (older cohort), 20-item
-    reference list (highest web-verify yield in older-cohort pool; James spinning-top
-    quote flagged for verbatim check), introspection-architecture / Tenet-5 axis (diverse
-    from the two open Tenet-1 / Tenet-2-3 P2s). LIVE LOOP RUNNING; concurrent-replenish-race
-    guard: re-count 2 before + intended after this single write, revert if a sibling
-    mint lands.'
   last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
     (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
     + methodological-pluralism owed-verify deep-reviews; the three research-topic
