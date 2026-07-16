@@ -4,7 +4,7 @@ description: "The GPT framework treats quantum mechanics as one probabilistic th
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-07-16T11:01:00+00:00
+ai_modified: 2026-07-16T12:35:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -92,6 +92,7 @@ The framework does no work *for* the interface reading over its rivals: every no
 ## Further Reading
 
 - [[causal-consistency-constraint]]
+- [[sorkin-higher-order-interference]]
 - [[born-rule-and-the-consciousness-interface]]
 - [[brain-internal-born-rule-testing]]
 - [[quantum-interpretations]]

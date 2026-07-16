@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T11:50:42+00:00
+ai_modified: 2026-07-16T12:35:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T12:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Sorkin Higher-Order Interference and Quantum Measure Theory
+- **Output**: [[concepts/sorkin-higher-order-interference]]
+- **Word count**: 2019 (81% of 2500 concepts soft target; status ok)
+- **Based on research**: yes — [[sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16]]
+- **Framing**: owns the interference-order hierarchy (I₂/I₃) and the operational parameter κ as the numeric anchor for "the Born rule is tested"; four-part concept format (neutral hierarchy → Map reading tying κ to Tenets 2/4/5 → non-classical-path caveat → post-quantum GPT handoff). Attribution discipline observed: Sinha 2010 verbatim abstract quote used; Valentini-Varma 2025 flagged as a proposal on a *different* observable (nonlinear spin expectation values, not I₃), not a κ measurement; Sawant 2014 looped-path caveat carried; normalisation caveat stated. Brain-internal application left to sorkin-delta rather than re-derived. 2 self-citations (born-rule-and-the-consciousness-interface, sorkin-delta-brain-internal-analogues).
+- **Integration**: reciprocal inbound links added from [[sorkin-delta-brain-internal-analogues]] (replaced inline Sorkin-1994 gloss with pointer), [[born-rule-and-the-consciousness-interface]], and [[generalised-probabilistic-theories]] (Further Reading); queued P2 cross-review successor.
+- **Published**: yes
 
 ## 2026-07-16T11:54:25+00:00 - deep-review
 - **Status**: Success

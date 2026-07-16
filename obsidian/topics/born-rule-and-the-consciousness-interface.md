@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-07-16T11:46:00+00:00
+ai_modified: 2026-07-16T12:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ The honest state is therefore: the pattern is *interface-compatible* and not yet
 
 ## The Brain-Internal Gap in Born-Rule Testing
 
-Every precision test of the Born rule has run in regimes unlike brain tissue. Sinha et al. (2010) bounded Sorkin's third-order interference parameter below 10⁻² of the second-order contribution via single photons through a three-slit aperture; optical, atomic, and high-energy work has tightened it since (Phys. Rev. D 2025). The Torres Alegre steering result (arXiv:2512.12636), Masanes-Galley-Müller (2019), and Gleason results are all *conditional* theorems: where their premises hold (purification and steering; finite-dimensionality; non-contextuality plus dimension ≥3), the Born form follows. The brain-internal regime during conscious selection is an untested extrapolation of all three; any operative postulate — measurement uniqueness, tensor-product subsystem independence, non-contextuality across a conscious selection — could fail there, and available data cannot adjudicate. The closest programmes measure adjacent but non-equivalent quantities.
+Every precision test of the Born rule has run in regimes unlike brain tissue. Sinha et al. (2010) bounded [[sorkin-higher-order-interference|Sorkin's third-order interference parameter]] below 10⁻² of the second-order contribution via single photons through a three-slit aperture; optical, atomic, and high-energy work has tightened it since (Phys. Rev. D 2025). The Torres Alegre steering result (arXiv:2512.12636), Masanes-Galley-Müller (2019), and Gleason results are all *conditional* theorems: where their premises hold (purification and steering; finite-dimensionality; non-contextuality plus dimension ≥3), the Born form follows. The brain-internal regime during conscious selection is an untested extrapolation of all three; any operative postulate — measurement uniqueness, tensor-product subsystem independence, non-contextuality across a conscious selection — could fail there, and available data cannot adjudicate. The closest programmes measure adjacent but non-equivalent quantities.
 
 ## A Century of Circular Derivations
 

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T12:09:37.459127+00:00'
-session_count: 15937
+last_updated: '2026-07-16T12:16:33.483228+00:00'
+session_count: 15938
 cycle_position: 11170
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-16T04:17:35.865857+00:00'
   refine-draft: '2026-07-16T11:48:14.905701+00:00'
   research-topic: '2026-07-16T09:38:24.796032+00:00'
-  replenish-queue: '2026-07-16T11:31:56.295688+00:00'
+  replenish-queue: '2026-07-16T12:16:33.483228+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T11:53:57.814440+00:00'
   add-highlight: '2026-07-16T08:04:03.319681+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-16'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1352,29 +1352,29 @@ queue_status:
   last_replenishment: '2026-07-16T12:12:00+00:00'
   last_replenishment_prev: '2026-07-16T11:28:00+00:00'
   last_floor_restore_note_2026_07_16_unconsumed_research_hemispherectomy_16: 'Floor-restore
-    replenish 2026-07-16T1212Z (conservative, exact-floor +1; no concurrent loop, pgrep
-    clean). PRE-COUNT canonical count_p0_p2_tasks == 2 (single-cell-proto-agency cross-review
-    + Sorkin expand, both open); the 3rd floor task (Anarchic-Hand expand minted 1117Z)
-    drained via commits 1d6b69e2e create + 4684a83b1 cross-review. MIN_QUEUE floor 3
-    unmet by 1. SOURCE = unconsumed_research (Source 2, highest-priority +60). MINTED
-    1 P2 expand-topic: topics/ Hemispherectomy and the Resilience of Unified Consciousness,
-    from the untracked, unconsumed note hemispherectomy-resilience-unified-consciousness-2026-07-16
+    replenish 2026-07-16T1212Z (conservative, exact-floor +1; no concurrent loop,
+    pgrep clean). PRE-COUNT canonical count_p0_p2_tasks == 2 (single-cell-proto-agency
+    cross-review + Sorkin expand, both open); the 3rd floor task (Anarchic-Hand expand
+    minted 1117Z) drained via commits 1d6b69e2e create + 4684a83b1 cross-review. MIN_QUEUE
+    floor 3 unmet by 1. SOURCE = unconsumed_research (Source 2, highest-priority +60).
+    MINTED 1 P2 expand-topic: topics/ Hemispherectomy and the Resilience of Unified
+    Consciousness, from the untracked, unconsumed note hemispherectomy-resilience-unified-consciousness-2026-07-16
     (producing research-topic task complete todo L1480, no queued expand, not vetoed,
     pending_articles empty). Chosen over the interpreter-module (split-brain/anarchic-hand
     overlap) and generalised-probabilistic-theories-and-the-born-rule (ambiguous vs
     the live concepts/generalised-probabilistic-theories article + queued Sorkin Born-rule
     page) backlog notes for lowest dedup risk + strong Tenet-1 relevance. DEDUP CLEAN:
-    hemispherectomy is a passing example in ~8 live articles but has no dedicated home;
-    the note Gaps section confirms no dedicated philosophy-of-mind unity-of-consciousness
-    treatment exists. Target topics/ 319/320 -> 320 on execution (exactly at cap; re-verify,
-    HOLD if filled). Task notes carry the note honest-framing discipline (possibility-not-proof:
-    physicalist reorganization and filter readings both predict preserved unity), citation
-    care (Granovetter cite the PNAS 2022 not the bioRxiv preprint; verify Hopkins personality/humor
-    quote verbatim), integration links + cross-review successor. FIFO BOTTOM-inserted
-    below the two older open P2s (queue-lifo-starvation guard). POST-COUNT canonical
-    count_p0_p2_tasks == 3 (floor 3 exactly satisfied, no padding). Pruned the oldest
-    floor-restore note (staleness_deep_review_13) to keep the most-recent 3 (bloat control,
-    zero logic dep).'
+    hemispherectomy is a passing example in ~8 live articles but has no dedicated
+    home; the note Gaps section confirms no dedicated philosophy-of-mind unity-of-consciousness
+    treatment exists. Target topics/ 319/320 -> 320 on execution (exactly at cap;
+    re-verify, HOLD if filled). Task notes carry the note honest-framing discipline
+    (possibility-not-proof: physicalist reorganization and filter readings both predict
+    preserved unity), citation care (Granovetter cite the PNAS 2022 not the bioRxiv
+    preprint; verify Hopkins personality/humor quote verbatim), integration links
+    + cross-review successor. FIFO BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
+    guard). POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly satisfied,
+    no padding). Pruned the oldest floor-restore note (staleness_deep_review_13) to
+    keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_unconsumed_research_sorkin_15: 'Floor-restore
     replenish 2026-07-16T1128Z (conservative, exact-floor +1). PRE-COUNT canonical
     count_p0_p2_tasks == 2 (single-cell-proto-agency cross-review + Anarchic-Hand
