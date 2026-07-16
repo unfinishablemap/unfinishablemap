@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T09:15:00+00:00
+ai_modified: 2026-07-16T09:19:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T09:19:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The interpreter module and the narrative construction of unity
+- **Output**: [[research/the-interpreter-module-narrative-unity-2026-07-16]]
+- **Sources consulted**: 8 (Gazzaniga & LeDoux 1978 Integrated Mind; Gazzaniga 1985 Social Brain, 2000 Brain, 2011 Who's in Charge?; Johansson et al. 2005 Science; Dennett 1992 narrative gravity; Pinto et al. 2017 Brain + Pinto/de Haan/Lamme 2017 TiCS)
 
 ## 2026-07-16T09:15:00+00:00 - research-topic
 - **Status**: Success
