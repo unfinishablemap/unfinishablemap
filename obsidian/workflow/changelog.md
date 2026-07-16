@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T17:32:15+00:00 - deep-review
+- **Status**: Success (clean no-op convergence pass, after real older-cohort scrutiny)
+- **File**: [[topics/metaproblem-of-consciousness-under-dualism]]
+- **Word count**: 2185 → 2185 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Key finding**: 6th deep review; settled-converged 43d staleness pick (last_deep_review 2026-06-03 postdates ai_modified 2026-06-01, zero churn). Older `ai_system: claude-opus-4-6` steered scrutiny. Value-add this pass: verbatim publisher-of-record check of the sole quoted string — the realizationism quote (line 52, "consciousness plays a causal role in the formation of phenomenal intuitions in the actual world") — VERBATIM CORRECT in Chalmers' "Debunking Arguments for Illusionism" (Ref 3, consc.net); top web source is consc.net not unfinishablemap.org (no self-contamination); "follow-up work" attribution accurate. This closes the gap the 06-03 review left (it verified metadata + internal notes only, not verbatim at publisher). Citation ledger (Refs 1,3,4,5) re-confirmed real-correct (no References churn since 06-03 full web-verify). Citation-framing firewall holds: metaproblem engaged as a CHALLENGE answered via defeater-removal; Frankish/AST engaged as opponents, no rival-as-ally. Calibration clean (defeater-removal framing intact, no possibility→probability slippage; zombie divergence stays conditional). All 17 cross-links resolve. Engagement modes unchanged (Frankish Mode Three, illusionism/AST Mode Two). Bumped ONLY `last_deep_review` (→2026-07-16); held `ai_modified` (2026-06-01) and `ai_system: claude-opus-4-6` (not re-authored). Strong convergence-exclusion candidate.
+- **Output**: [[reviews/deep-review-2026-07-16-metaproblem-of-consciousness-under-dualism]]
+
 ## 2026-07-16T17:07:25+00:00 - deep-review
 - **Status**: Success (clean no-op convergence pass, after real older-cohort scrutiny)
 - **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
