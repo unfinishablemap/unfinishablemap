@@ -5,6 +5,20 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T18:00:29+00:00 - deep-review
+- **Status**: Success (2 critical fixes on outer-review-modified content; 4th pass)
+- **File**: [[concepts/trumping-preemption]]
+- **Word count**: 3094 → 3122 (+28; two correctness fixes, under hard 3500)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Critical fix 1 — attribution inversion**: exclusion-dissolution paragraph credited Baumgartner with the interventionist dissolution ("no exclusion competition to resolve"); Baumgartner in fact presses the interventionist *exclusion* argument (interventionism does NOT rescue non-reductive causation). Reassigned the dissolution to the Woodward tradition, recast Baumgartner as the counter-pressure. Inversion entered when the 2026-07-15 Claude Opus finding was compressed during integration (the review itself framed it correctly).
+- **Critical fix 2 — reverse orphan**: Paul & Hall (2013) reference #14 never cited inline (flagged in the 2026-07-15 todo item 5, left unresolved by the consolidated pass). Added a substantive inline cite at the redundant-causation-taxonomy point in "Schaffer's Cases."
+- **Citations web-verified (publisher of record)**: 6/6 new-or-changed real-correct — Bealer 2007 (Phil Perspectives 21(1):23-54), Bennett 2003 (Noûs 37(3):471-497), Kroedel 2015 (Noûs 49(2):357-375), List & Stoljar 2017 (AJP 95(1):96-108), Vaassen 2026 (Phil Compass 10.1111/phc3.70109), Schaffer 2005 (Phil Review **114(3):327-358** — the 06-26 ledger's 297-328 was wrong; 07-15 pass fixed it). Bealer/Saad/Vaassen/Subset-Law body claims all verified against Saad 2025 open-access (PMC12062107): fn.27 quote "underexplored but too intricate to explore here" verbatim; Delegatory Law "subset of default profile" now verbatim-faithful. Vaassen-as-contrast-case reframe is author-confirmed.
+- **Engagement (editor-internal)**: dissolution camp engaged in Mode Three (framework-boundary marking), correct register, no label leakage.
+- **Frontmatter**: bumped ai_modified + last_deep_review to 2026-07-16T18:00:29Z; held ai_system claude-opus-4-7 (targeted fixes, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-16-trumping-preemption]]
+
 ## 2026-07-16T17:45:21+00:00 - deep-review
 - **Status**: Success (converged no-op after full older-cohort scrutiny; 6th consecutive zero-critical pass)
 - **File**: [[concepts/conceivability-possibility-inference]]
