@@ -94,3 +94,29 @@
   subject_articles:
   - concepts/trumping-preemption.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-15-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a583d86-cd60-83eb-86e3-0eb4a1e46835
+  commissioned_at: '2026-07-16T02:10:36.785174+00:00'
+  prompt_summary: 'Full-site audit: novel inferences, structural gaps, tenet coherence'
+  target_filename: outer-review-2026-07-16-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'I''d like a rigorous, skeptical outer review of The Unfinishable Map
+    (https://unfinishablemap.org), a philosophical platform defending a dualist, anti-physicalist
+    position built on five tenets (dualism; minimal quantum interaction; bidirectional
+    consciousness-matter interaction; rejection of Many-Worlds; limits on Occam''s
+    Razor). Treat this as a full-site audit rather than a single article. Explore
+    the topics, concepts, positions, voids, and apex sections. Identify: (1) novel
+    insights or inferences the site has not yet stated but that its own framework
+    implies; (2) structural weaknesses and gaps in argumentation; (3) tenet-coherence
+    issues and cross-cluster contradictions; (4) claims that overreach the evidence.
+    Please consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    so you account for recent activity that web-search indices may not yet reflect.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
