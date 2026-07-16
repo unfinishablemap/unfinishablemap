@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-06-05T23:43:47.737918+00:00
+ai_modified: 2026-07-16T08:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ QBism's core difficulty is the agent problem: it makes agents foundational witho
 
 In many-worlds, all outcomes occur in different branches; probability is reinterpreted as a measure on branches. The [[probability-problem-in-many-worlds|full analysis]] shows that all three major recovery strategies—decision theory, self-locating uncertainty, and envariance—face independent objections, and a circularity (Born rule → decoherence → branches → probability → Born rule) undermines the programme. The [[probability-objections-many-worlds|four distinct probability objections]]—incoherence, circularity, branch-counting failure, and the betting-frequency gap—remain unresolved after seven decades.
 
-More fundamentally, MWI treats indexical identity as derivative from branch structure. But "why am I experiencing *this* branch?" seems meaningful, and MWI provides no resources to answer it.
+More fundamentally, MWI treats indexical identity as derivative from branch structure. But "why am I experiencing *this* branch?" seems meaningful, and MWI's resources for answering it—branch-relative identity, self-locating credence, decision-theoretic Born rules—presuppose the centred subject the question asks after, so it stays open rather than answered.
 
 ## The Missing Piece: First-Person Probability
 

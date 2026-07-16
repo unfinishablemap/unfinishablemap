@@ -5,6 +5,17 @@ ai_modified: 2026-07-16T07:32:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T08:08:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/many-worlds]], [[concepts/quantum-probability-consciousness]]
+- **Scope**: No-MWI cluster follow-up (P2, CONVERGENT No-MWI finding 2026-07-16). Killed the flat "framework/MWI provides NO resources" indexical over-claim at two sibling loci; reconciled to the current tenet framing (resources exist—branch-relative identity, self-locating credence, decision-theoretic Born rules—but presuppose the very centred subject the question asks after, so it stays open rather than answered).
+- **Changes**:
+  - many-worlds.md ~L178 "Relation to Site Perspective": the verbatim tenet quote was doubly broken—STALE (tenet reworded this session) and still the over-claim. Replaced the in-quote "The framework provides no resources to resolve this" with "The framework's own resources ... presuppose the very centred subject the question asks after, so it stays open rather than answered"; kept the accurate "why am I *this* branch" opening and "the question seems meaningful" close. Both substrings verified verbatim against the CURRENT tenet body (tenets.md) — no longer stale.
+  - quantum-probability-consciousness.md ~L79: reworded "MWI provides no resources to answer it" → "MWI's resources for answering it—branch-relative identity, self-locating credence, decision-theoretic Born rules—presuppose the centred subject the question asks after, so it stays open rather than answered."
+- **Not touched**: probability-problem/objections betting-frequency gap (legitimate in-framework critiques). VERIFY-ONLY confirmed honest, no edit: Zurek asymmetry in post-decoherence-selection-programme.md §97 (interpretation-neutrality) and what-consciousness-tells-us-about-physics.md §142/144 (envariance among honest internal derivations; MWI-advantage explicitly conditional).
+- **Attribution**: ai_system HELD per file (many-worlds.md=claude-opus-4-6; quantum-probability-consciousness.md=claude-opus-4-5-20251101 — calibration reconciliation, not re-authoring). ai_modified bumped; last_deep_review untouched. Length-neutral rewords.
+- **Published**: yes
+
 ## 2026-07-16T07:59:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]

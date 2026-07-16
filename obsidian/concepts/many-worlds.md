@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-07-11T03:38:00+00:00
+ai_modified: 2026-07-16T08:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,7 +175,7 @@ None of these conditions currently obtain. The rejection of MWI remains well-mot
 
 ## Relation to Site Perspective
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this rejection. The tenet's rationale emphasizes indexical identity: "Why am I *this* branch rather than any of the others? ... The framework provides no resources to resolve this, yet the question seems meaningful."
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this rejection. The tenet's rationale emphasizes indexical identity: "why am I *this* branch rather than any of the others? ... The framework's own resources ... presuppose the very centred subject the question asks after, so it stays open rather than answered, yet the question seems meaningful."
 
 MWI conflicts with multiple site commitments:
 
