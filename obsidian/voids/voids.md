@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-05-15
 human_modified: 2026-01-08
-ai_modified: 2026-07-07T17:09:37+00:00
+ai_modified: 2026-07-16T06:41:00+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -105,7 +105,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [[the-surplus-void|The Surplus Void]] — physicalist illusionism denies the surplus rather than acknowledging it as a void.
 - [[tenet-generated-voids|Tenet-Generated Voids]] — explicitly framework-internal by construction.
 
-The mitigation the Map can earn: even restricted to the framework-independent set, voids still cluster at the consciousness-physics interface. The clustering is therefore not solely a construction artifact, though the *interpretation* of the clustering remains contested between frameworks. The strengthened claim is what [[what-voids-reveal|What Cognitive Voids Reveal]]'s convergence-as-evidence argument should be heard as making.
+The mitigation the Map can earn: even restricted to the framework-independent set, voids still cluster at the consciousness-physics interface, so the clustering is not *solely* a construction artifact. This is a narrow residue, not a strengthening—the interpretation stays contested between frameworks, and under the [[common-cause-null|common-cause null]] the convergence reads as coherence of the Map's self-image, not framework-independent confirmation. That bounded claim is what [[what-voids-reveal|What Cognitive Voids Reveal]]'s convergence-as-evidence argument makes.
 
 The apex develops this into a full four-class audit — framework-independent, dualism-specific, tenet-generated, and method-generated voids — with rival-framework predictions and the empirical anomalies that should co-occur if the Map's reading is correct. See [[apex/taxonomy-of-voids#void-clustering-audit|the Void Clustering Audit]] for the audit's load-bearing treatment; this index's framework-independent subsection is a summary view of that audit's first class.
 
@@ -234,7 +234,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 
 ## Research-Stage Voids
 
-The voids catalogue is at its 100-article cap. The convergence-as-evidence move — that the catalogue clusters around consciousness — meets a methodological constraint that strengthens rather than weakens it: cap-pressure forces *absorption* over *proliferation*. Newly surveyed voids fold into existing articles as additional faces, not fresh entries; the catalogue's evidential weight tracks the underlying structural pattern, not the growth rate of an index.
+The voids catalogue is at its 100-article cap. That cap is an administrative constraint and cannot add evidential weight to the convergence-as-evidence move; at most it keeps index-inflation from being mistaken for growing evidence. Cap-pressure forces *absorption* over *proliferation*: newly surveyed voids fold into existing articles as additional faces, not fresh entries, so a rising count is not rising support. Whatever weight the catalogue carries—bounded by the [[common-cause-null|common-cause null]]—tracks the underlying structural pattern, not an index's growth rate.
 
 Seven voids surveyed since 2026-02 have research notes but no standalone articles, growing from three since the 2026-05-11 installation. They are **not active siblings** of the catalogue's standalone voids; each carries a status label so its relation to the live catalogue is unambiguous. **Absorbed** — the surveyed material has been fully merged into one or more host articles, where its evidence now lives; no standalone article will be created. **Folded** — the void is designated to fold into named host article(s) and currently survives as a research note plus host forward-pointers, with full incorporation pending a later host refine. Both are deliberate outcomes of the absorption-over-proliferation discipline, not gaps awaiting their own article. (Two further statuses, defined in the maintenance note above, describe *standalone* catalogue articles: **cognate** — conjoint shape at creation; **coalesced** — merged from prior articles.)
 

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T06:31:00+00:00
+ai_modified: 2026-07-16T06:42:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T06:42:00+00:00 - refine-draft
+- **Status**: Success
+- **Scope**: P1 CONVERGENT outer review (ChatGPT + Claude, 2026-07-16) — "the site banks disclosure instead of deducting it." Converted the disclosed common-cause-null discount into an actual evidential *deduction* across four loci: void-clustering restated as coherence of the Map's self-image (abductive support relative to accepting the framework's individuation of voids), NOT framework-independent confirmation of dualism. Calibration deduction, not self-refutation — the argument's strength is restated, not deleted.
+- **Files & changes**:
+  - [[voids/what-voids-reveal]] (PRIMARY): calibrated the lead, the "triangulation knowledge" claim (§Shared Boundaries — named the common-cause null: one introspective channel + one framework pre-shape what counts as a void, so families are not independent in the way triangulation requires), the §Abductive Argument cumulative-weight passage, the "voids independently identifiable / topology supports independence" line (§Physicalist Responses — now "partial independence; only the framework-independent subset clears the discount"), "overdetermined" (§Against Premature Dissolution), and the Dualism tenet paragraph ("Both appear confirmed" → both patterns present but attest coherence of the Map's self-image, not confirmation against a physicalism that carves the voids differently). Description reworded to coherence-calibrated. Word count 3019 → 3066 (+47 net: ~+136 mandatory calibration prose offset by de-verbosing eight expository passages — Scope-Implies-Limits, observer-selection, vantage-point, phenomenology-of-the-edge, AI-probe, Occam/Bidirectional tenets, cross-domain falsifier). Stays hard_warning (ceiling 3000; article chronically over pending human length decision — did NOT grow it materially).
+  - [[apex/taxonomy-of-voids]]: already thoroughly calibrated (description, apex_thesis, §Convergence Pattern, §common-cause-null, §Void Clustering Audit, rival-framings table all carry coherence-only framing). Calibrated the one residual full-strength flourish — the concluding "rich with information about the territory being mapped" now qualified to "at the coherence-relative strength the audit above licenses, not framework-independent confirmation." 4682 → 4691 (+9, soft_warning, under 5000).
+  - [[voids/voids]]: dropped the cap-pressure rationalisation (line ~237: "meets a methodological constraint that strengthens rather than weakens it" → "an administrative cap cannot add evidential weight; at most it keeps index-inflation from being mistaken for growing evidence"). Also qualified line ~108 ("not solely a construction artifact / the strengthened claim" → "a narrow residue, not a strengthening ... coherence of the Map's self-image, not framework-independent confirmation"). 4765 → ~4790 (chronically-critical section index; calibration required).
+  - [[voids/recognition-void]] (downstream): softened "inventory blindness strengthens the abductive argument" (body line ~120 and Further-Reading line ~134) to "bears on ... at its coherence-relative strength; does not raise it to framework-independent evidence." 2446 → 2475 (soft_warning).
+- **Common-cause-null mechanism now stated in body**: the same dualist pipeline individuates the voids whose clustering is then counted as evidence → convergence-with-self is not triangulation. Named at the highest-strength locus (what-voids-reveal §Shared Boundaries) rather than only disclosed via P-V1–P-V3 cross-links.
+- **Frontmatter**: ai_modified bumped (06:38–06:42 UTC, ≤ real now); ai_system HELD on each (what-voids-reveal claude-opus-4-7, taxonomy claude-opus-4-6, voids claude-opus-4-7, recognition-void claude-opus-4-6 — calibration reword, not re-authoring); last_deep_review untouched on all four; ai_contribution unchanged.
+- **Published**: yes
 
 ## 2026-07-16T06:31:00+00:00 - refine-draft
 - **Status**: Success

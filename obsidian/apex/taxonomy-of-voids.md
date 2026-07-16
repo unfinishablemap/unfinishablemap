@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-06-01
 human_modified: null
-ai_modified: 2026-06-22T17:44:16+00:00
+ai_modified: 2026-07-16T06:40:00+00:00
 draft: false
 description: "Over a hundred cognitive voids (roughly fifteen framework-independent) cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
 last_deep_review: 2026-06-22T17:44:16+00:00
@@ -213,7 +213,7 @@ Intellectual honesty demands acknowledging what the taxonomy cannot determine. W
 
 Viewed as a whole, the taxonomy reveals what no individual void article can: the architecture of human cognitive limitation has a specific, informative shape. The voids are densest where consciousness examines itself; they are structured by type—architectural, adaptive, naturally occluded, potentially deliberately occluded—suggesting different *reasons* for cognitive darkness; they produce distinct failure signatures, cluster around the consciousness-matter interface, and include, at their meta-level, a proof of their own constitutive incompleteness.
 
-This is the discipline of not knowing. The voids are invitations to precision: the goal is to map void boundaries as carefully as charted territory—to know where knowledge ends and why. The edges of understanding are not featureless walls but structured terrain, rich with information about both the minds doing the mapping and the territory being mapped.
+This is the discipline of not knowing. The voids are invitations to precision: to map void boundaries as carefully as charted territory, knowing where knowledge ends and why. The edges of understanding are not featureless walls but structured terrain, rich with information about the minds doing the mapping—and, at the coherence-relative strength the audit above licenses rather than as framework-independent confirmation, about the territory they map.
 
 ## Relation to Site Perspective
 
