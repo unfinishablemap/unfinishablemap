@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review: 2026-06-03T12:48:47+00:00
+last_deep_review: 2026-07-16T23:00:46+00:00
 ---
 
 Direction-of-interface-change signatures are an evidence type in which the *direction* the system is moving — not the substrate state at a single moment — is the load-bearing variable. When consciousness is disrupted and then restored, the order in which channels degrade is often *not* the mirror image of the order in which they recover, and the same anaesthetic concentration corresponds to different conscious outcomes depending on whether the brain is descending into or climbing out of unconsciousness. This concept page names the family so that the Unfinishable Map's catalogue can cite one node rather than restate the methodology in each article — and, equally important, so that the family's central limitation can be stated once, prominently, in the one place every citation passes through. The signatures *constrain* the space of readings of consciousness-state transitions; they do not *establish* any one reading, and they are not a tally of independent confirmations. Both qualifications are inherited verbatim from [[memory-channel-interface-evidence|the recovery-order-asymmetry article]], where the family is first developed, and from [[evidential-status-discipline|the evidential-status discipline]].
