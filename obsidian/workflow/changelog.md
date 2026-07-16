@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T10:23:29+00:00
+ai_modified: 2026-07-16T10:28:27+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T10:28:27+00:00 - deep-review
+- **Status**: Success (convergence confirmation, no content change)
+- **File**: [[topics/self-reference-and-the-limits-of-physical-description]]
+- **Word count**: 2889 → 2889 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth deep review. Git-verified the body + References are byte-identical to the 2026-06-21 state (only the `last_deep_review` frontmatter line changed since firewall commit d0aff1d49). All focus citations (Landsman 2020, Cubitt 2015, Szangolies 2018) were fresh-web-verified real-correct 25 days ago against an unchanged base — §2.4 re-verify correctly skipped by the "modified since last review" trigger. Added marginal value: verified all 9 principal wikilink targets resolve to live files with no archival link-rot. No critical/medium issues; no possibility/probability slippage; no label leakage. Timestamp-only `last_deep_review` stamp; `ai_modified` HELD at firewall value 2026-06-21T05:10:01.
+- **Output**: [[reviews/deep-review-2026-07-16-self-reference-and-the-limits-of-physical-description]]
 
 ## 2026-07-16T10:23:29+00:00 - refine-draft
 - **Status**: Success

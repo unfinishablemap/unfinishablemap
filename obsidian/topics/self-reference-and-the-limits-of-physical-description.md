@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-06-21T05:30:00+00:00
+last_deep_review: 2026-07-16T10:28:27+00:00
 coalesced_from:
   - "/topics/self-reference-and-the-limits-of-physical-description/"
   - "/topics/godel-measurement-problem-analogy/"
