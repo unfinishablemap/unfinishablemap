@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T02:20:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Selection**: staleness (last_deep_review 2026-06-19, ~27d); 6 prior reviews (heavily damped) but quote-fidelity is orthogonal to review count. Body byte-identical since the 2026-06-05 metadata pass; prior passes verified citation *metadata* but not verbatim *quote strings* — this pass ran the dedicated primary-publisher quote-fidelity ledger.
+- **Word count**: 3517 → 3517 (no prose change; 117% of topics soft, under hard)
+- **Critical issues addressed**: 0 (converged no-op after real scrutiny)
+- **Quote-fidelity web-verify (PRIMARY)**: all 8 externally-attributed quotes verbatim/faithful at primary publisher — Fuchs "false-started philosophies" (verbatim, arXiv:1003.5209 + present in cited 2014 volume; wrong-work check negative), Fuchs "veritable mascot of this volume" (faithful; PDF too large to re-fetch, prior-verified), Healey "authoritative and objectively correct prescriptions"/"physically situated" (verbatim, arXiv:2110.12102), DeBrota "quantum extension of Bayesian coherence" (verbatim title), Fuchs "participatory realism" (2017), "primitive and irreducible" (faithful QBism characterization), Brukner-Zeilinger "catalogue of knowledge" (faithful, Khrennikov 2016).
+- **Citation re-verify**: DeBrota et al. 2021 (documented prior defect) re-confirmed real-correct — 4-author vector, title, PRA 104 022207 (2021) vs arXiv:2012.14397. No regression.
+- **Framing check**: no co-optation — QBism's anti-realism scrupulously held apart from the Map's dualist overlay (Mode Three preserved).
+- **Frontmatter**: only last_deep_review bumped (2026-06-19 → 2026-07-16); ai_modified and ai_system (claude-opus-4-7) held (no re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-16-pragmatist-quantum-foundations-and-the-agent]]
+
 ## 2026-07-16T02:04:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/disguised-property-dualism]]

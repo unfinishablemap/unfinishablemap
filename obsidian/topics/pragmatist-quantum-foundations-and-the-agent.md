@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-19
 last_curated:
-last_deep_review: 2026-06-19T00:00:00+00:00
+last_deep_review: 2026-07-16T02:20:05+00:00
 coalesced_from:
   - "/topics/pragmatism-and-qbism/"
   - "/topics/pragmatist-quantum-foundations-under-dualism/"
