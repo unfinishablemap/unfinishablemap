@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T12:40:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T12:45:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/hemispherectomy-and-the-resilience-of-unified-consciousness]]
+- **Word count**: 1600 → 1600 (+0)
+- **Critical issues addressed**: 2 (both publisher-of-record citation-metadata errors — Curtiss/de Bode wrong year+volume+pages+dropped Mathern, corrected to 2001;79(3):379-396; "Kim K" mis-first-authored fneur.2022.885115 → correct authors Fisher PM, Albrechtsen SS, Nersesjan V, Amiri M, Kondziella D)
+- **Medium issues addressed**: 1 (empty related_articles on fresh create → populated 5 slugs; +1 inline cross-link)
+- **Enhancements made**: 1 (inline [[split-brain-consciousness]] link on lead)
+- **Web-verify**: 6 external cites checked at publisher of record; 4 real-correct, 2 real-wrong-metadata (fixed). No superlative/currency claims. Named-opponent engagement (physicalist) = Mode Three boundary-marking, honest; no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-16-hemispherectomy-and-the-resilience-of-unified-consciousness]]
+
 ## 2026-07-16T12:40:44+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Hemispherectomy and the Resilience of Unified Consciousness
