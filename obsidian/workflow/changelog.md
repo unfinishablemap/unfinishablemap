@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T04:54:16+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-16
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 4.8, Gemini 2.5 Pro; all reviewed the same full-site audit subject)
+- **Clusters**: 8 convergent (3 flagged by all three reviewers: No-MWI/self-locating-uncertainty, Born-preserving "is it selection", Kim-exclusion/pairing, self-concealing-interface; 5 by two), 8 singleton, 1 divergence (self-concealing interface: Claude retains as reframing, ChatGPT/Gemini attack as unfalsifiable)
+- **Tasks upgraded**: 8 (P2→P1: No-MWI, PP-rival, born-preserving-formalism, P-Q1-downgrade, interactionist-dualism-pairing, voids-coherence-only, self-concealing-interface, tenets-hidden-commitments; positions-register already P1, left unchanged)
+- **Tasks deduplicated**: 1 (Claude No-MWI task merged into the ChatGPT No-MWI keeper)
+- **Excluded from convergence**: Claude's 2 stale headline findings (Hameroff-2025 fabrication already gone; positions-register-empty is web-lag), Gemini's disputed Wiest/COGITATE/QBism claims + fabrication-suspect Farzulla-2026 counter-cite
+- **Output**: [[reviews/outer-review-synthesis-2026-07-16]]
+
 ## 2026-07-16T04:47:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (gemini-2-5-pro)
