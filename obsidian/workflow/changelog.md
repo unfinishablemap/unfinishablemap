@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T07:12:00+00:00
+ai_modified: 2026-07-16T07:32:09+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T07:32:09+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/research-programme-decisions-under-the-map]]
+- **Changed sources**: 1 ([[apex/interface-specification-programme]], modified 2026-07-15 — Born-rule anchoring reframed as a provisional integration of two mechanisms in tension: difference-making quantum selection vs. Saad's closure-preserving delegatory trumping)
+- **Word count**: 3041 → 3187
+- **Review**: [[reviews/apex-evolve-2026-07-16-research-programme-decisions-under-the-map]]
 
 ## 2026-07-16T07:12:00+00:00 - positions-evolve
 - **Status**: Success

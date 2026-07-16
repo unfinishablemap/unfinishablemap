@@ -4,7 +4,7 @@ description: "An applied synthesis: given the confidence structure of the Map's 
 created: 2026-06-16
 modified: 2026-06-16
 human_modified: null
-ai_modified: 2026-07-16T07:12:00+00:00
+ai_modified: 2026-07-16T07:32:09+00:00
 draft: false
 topics:
   - "[[falsification-roadmap-for-the-interface-model]]"
@@ -42,7 +42,7 @@ apex_sources:
   - topics/brain-internal-born-rule-testing
   - topics/comparing-quantum-consciousness-mechanisms
   - positions/quantum-interface
-apex_last_synthesis: 2026-06-16T17:10:00+00:00
+apex_last_synthesis: 2026-07-16T07:32:09+00:00
 apex_thesis: "Given the Map's confidence structure, the research directions most warranted are those that would move a position across a confidence band or discharge the mechanism debt — which ranks mechanism-level work (toy models, coherence-time calculations, brain-internal Born-rule tests) above aggregate-statistics tests that the self-concealing interface predicts will read null."
 
 apex_decision_context: "For a working scientist or philosopher who accepts the Map's tenets: which research directions are most warranted by the framework's confidence structure, and which would yield the most decision-relevant evidence?"
@@ -95,6 +95,8 @@ This direction also clarifies what *not* to over-invest in. P-Q8 holds at **mode
 Not every warranted direction is an experiment. P-Q3 is a philosophical-of-physics position, and its shift-condition is conceptual: the dilemma "would shift if the per-trial-vs-ensemble move is shown to collapse on closer analysis... or a positive account of how the bias makes a phenomenological difference without making a statistical one is worked out and survives review." Either outcome is a paper a philosopher could write, and either would move a **moderate**-confidence position.
 
 This is the direction where the [[apex/self-concealing-interface|self-concealing interface]] argument and the [[ensemble-level-epiphenomenalism|ensemble-level epiphenomenalism]] treatment already do the spadework, and where the [[positions/quantum-interface#^mechanism-debt|mechanism-debt crux]] is most exposed. The register marks honestly that the position "sits genuinely close to epiphenomenalism" and that whether the indexical / per-trial-vs-ensemble move "discharges the epiphenomenalism worry or merely relocates it is the open question." A working philosopher who pressed that move to either resolution — showing it works, or showing it collapses — would be operating on the framework's most load-bearing seam. Crucially, this conceptual work is partly *upstream* of Direction 1: a clean account of what a causally-robust-yet-aggregate-undetectable bias would have to look like is most of the specification a toy model would then formalise. The two directions are complementary, not competing.
+
+The [[apex/interface-specification-programme|interface specification programme]] has recently sharpened what that account must settle. The Map's physical anchoring — identifying the default causal profile with the Born-rule distribution — joins two descriptions that pull against each other: biasing an indeterminate outcome is difference-making and forfeits strong causal closure, whereas the delegatory-trumping reading it borrows from Saad is difference-making-free and preserves closure, and Saad himself treats closure-violating quantum interactionism as a *different* theory from closure-preserving delegatory dualism. So whether the quantum-selection channel and the trumping route are one mechanism or two — and how they join at the point where the token outcome is physically undetermined — is itself part of the seam a toy model would have to formalise, rather than a premise it could quietly assume. That makes Direction 4 more clearly upstream of Direction 1 than it first appears: the join is currently asserted, not derived.
 
 ## What this implies for decisions
 
