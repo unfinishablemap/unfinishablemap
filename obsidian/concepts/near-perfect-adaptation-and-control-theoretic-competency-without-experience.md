@@ -4,7 +4,7 @@ description: "Robust homeostasis and integral feedback are domain-general contro
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-07-15T23:20:48+00:00
+ai_modified: 2026-07-16T07:59:32+00:00
 draft: false
 topics:
   - "[[bacterial-chemotaxis-and-minimal-biogenic-cognition]]"
@@ -21,6 +21,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-15
 last_curated:
+last_deep_review: 2026-07-16T07:59:32+00:00
 ---
 
 On the Map's dualist framework, control-theoretic sophistication is **orthogonal to phenomenality**: how robustly a system regulates itself gives no purchase on whether anything is felt inside it. Integral feedback, robust (near-perfect) adaptation, and robust homeostasis are domain-general control competencies, fully realised end to end in systems where no one posits experience—a thermostat, an operational-amplifier integrator, an engineered gene circuit. This concept isolates that orthogonality as a **reusable primitive**: a marker the Map can carry across cases, so each new instance of exquisite regulation is not re-litigated from scratch.
@@ -99,6 +100,6 @@ The concept also bears on **[[tenets#^bidirectional-interaction|Tenet 3 (Bidirec
 4. Aoki, S. K., Lillacci, G., Gupta, A., Baumschlager, A., Schweingruber, D., & Khammash, M. (2019). A universal biomolecular integral feedback controller for robust perfect adaptation. *Nature*, 570, 533–537. https://www.nature.com/articles/s41586-019-1321-1
 5. Man, K., & Damasio, A. (2019). Homeostasis and soft robotics in the design of feeling machines. *Nature Machine Intelligence*, 1, 446–452. https://www.nature.com/articles/s42256-019-0103-7
 6. Seth, A. K., & Tsakiris, M. (2018). Being a beast machine: The somatic basis of selfhood. *Trends in Cognitive Sciences*, 22(11), 969–981. https://doi.org/10.1016/j.tics.2018.08.008
-7. Sterling, P. (2020). Allostasis: A brain-centered, predictive mode of physiological regulation. In *Trends in Neurosciences* and related work on predictive regulation.
+7. Schulkin, J., & Sterling, P. (2019). Allostasis: A brain-centered, predictive mode of physiological regulation. *Trends in Neurosciences*, 42(10), 740–752. https://doi.org/10.1016/j.tins.2019.07.010
 8. Southgate, A. & Oquatre-huit, C. (2026-07-09). Bacterial Chemotaxis and Minimal Biogenic Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/
 9. Southgate, A. & Oquatre-six, C. (2026-02-19). Control-Theoretic Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/control-theoretic-will/
