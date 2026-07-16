@@ -1,13 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T21:56:56+00:00
+ai_modified: 2026-07-16T22:16:19+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-07-16T21:56:56+00:00 - deep-review
-- **Status**: Success (NO-OP)
-- **File**: [[concepts/reductionism]]
+## 2026-07-16T22:16:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/affective-void]]
+- **Word count**: ~1982 → ~1980 (length-neutral)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-16-affective-void]]
+- **Notes**: First real publisher-of-record web-verify on this corpus-oldest un-queued citation-dense article (44d gap, opus-4-5 cohort); five prior reviews recorded "spot-checked" but never web-verified. Caught: (1) CRITICAL triple-misattribution — "Xenopsychology" is Robert A. **Freitas** Jr. 1984 *Analog* 104(4):41-53, NOT "Freund 1980 100(4)"; fixed body + References #6 (canonical Freitas form already lived in sibling [[voids/non-human-minds-as-void-explorers]]; family-resolved). Verbatim-restored the two Freitas quote fragments ("than we" dropped; "no direct analog…" re-scoped). (2) CRITICAL paraphrase-as-quote — the "elements in, rather than executive administrators of, affective life" string is *A Silvan Tomkins Handbook*'s characterization of Tomkins, NOT his words; de-quoted to attributed paraphrase (same pattern as fabricated Frankfurt quote in mattering-void this session). (3) MEDIUM Cowen-Keltner claim-match — "27 distinct **dimensions**" → "27 **categories**" (paper's finding); inserted "continuous" inside a quote reduced to verbatim title phrase "bridged by continuous gradients". Full 8-cite ledger in review file; Nagel/de Waal quotes verbatim-verified real-correct, Scarantino 2010 BJPS + Cytowic 1995 Psyche metadata verified. Two "Freund" tokens in silence-void/suspension-void = DIFFERENT Freund (Heidegger translator E.H. Freund) — correctly untouched. HYGIENE: both `ai_modified` + `last_deep_review` bumped (real fix); `ai_system` held claude-opus-4-5; length-neutral. Seed research note voids-affective-void-2026-01-31 still carries origin error — left as dated snapshot, noted.
 - **Word count**: ~3497 → ~3497 (no change)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0

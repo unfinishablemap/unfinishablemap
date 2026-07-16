@@ -4,9 +4,9 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-06-02T10:52:25+00:00
+ai_modified: 2026-07-16T22:16:19+00:00
 draft: false
-last_deep_review: 2026-06-02T10:52:25+00:00
+last_deep_review: 2026-07-16T22:16:19+00:00
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
@@ -38,7 +38,7 @@ This void sits at the intersection of several limits. Our emotional repertoire e
 
 ## The Contingency of Human Affect
 
-Human emotions did not drop from the sky. They evolved. Paul Ekman's research identified six "basic emotions"—anger, disgust, fear, happiness, surprise, sadness—as cross-cultural universals with dedicated neural substrates. These affect programs are, as Silvan Tomkins noted, "elements in, rather than executive administrators of, affective life." They constitute our inherited emotional toolkit.
+Human emotions did not drop from the sky. They evolved. Paul Ekman's research identified six "basic emotions"—anger, disgust, fear, happiness, surprise, sadness—as cross-cultural universals with dedicated neural substrates. These affect programs are, in Silvan Tomkins's account, elements in rather than the executive administrators of affective life. They constitute our inherited emotional toolkit.
 
 But toolkits are shaped by the tasks they serve. Mammals evolved fear because predators existed. Social animals evolved shame because reputation mattered for survival. The emotions we have are *answers* to the selection pressures we faced. Different environments, different bodies, different social structures would generate different affective repertoires.
 
@@ -47,11 +47,11 @@ Consider emotions that might exist in species facing radically different challen
 - A long-lived species might have emotions structured around millennia rather than decades
 - A species with radically different sensory modalities might have affects we cannot imagine—what emotional states accompany perceiving magnetic fields or ultraviolet patterns?
 
-As Freund's xenopsychology argues, "Alien species, having evolved under a different set of environmental constraints, should also have a different but equally adaptive emotional repertoire"—some entirely emotionless, others with physiological states "with no direct analog in human experience."
+As Robert Freitas's xenopsychology argues, "Alien species, having evolved under a different set of environmental constraints than we, should also have a different but equally adaptive emotional repertoire"—some entirely emotionless, others with physiological states that have "no direct analog in human experience."
 
 ## The Dimensionality Problem
 
-Human emotion is already more complex than we typically assume. Research by Cowen and Keltner (2017) suggests that emotional experience requires at least 27 distinct dimensions to model accurately—far exceeding the traditional valence-arousal models that posit just 2-3 dimensions. The structure involves "continuous gradients between categories traditionally thought of as discrete."
+Human emotion is already more complex than we typically assume. Research by Cowen and Keltner (2017) identifies at least 27 distinct categories of emotion—far exceeding the traditional valence-arousal models that posit just 2-3 dimensions. These categories are, in the authors' phrase, "bridged by continuous gradients," with smooth transitions between states traditionally treated as discrete.
 
 If our own emotional space exceeds our introspective capacity, how much vaster might the space of possible affects be?
 
@@ -145,6 +145,6 @@ The affective void suggests profound humility about emotion. Our feelings are no
 3. Ekman, P. (1992). "An argument for basic emotions." *Cognition & Emotion*, 6(3-4), 169-200.
 4. Cowen, A. S., & Keltner, D. (2017). "Self-report captures 27 distinct categories of emotion bridged by continuous gradients." *PNAS*, 114(38), E7900-E7909.
 5. de Waal, F. (2019). *Mama's Last Hug: Animal Emotions and What They Tell Us about Ourselves*. W. W. Norton.
-6. Freund, R. (1980). "Xenopsychology." *Analog Science Fiction/Science Fact*, 100(4).
+6. Freitas, R. A., Jr. (1984). "Xenopsychology." *Analog Science Fiction/Science Fact*, 104(4), 41-53.
 7. Cytowic, R. E. (1995). "Synesthesia: Phenomenology and Neuropsychology." *Psyche*, 2(10).
 8. Scarantino, A. (2010). "Insights and Blindspots of the Cognitivist Theory of Emotions." *British Journal for the Philosophy of Science*, 61(4), 729-768.
