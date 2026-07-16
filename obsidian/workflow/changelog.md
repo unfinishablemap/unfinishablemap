@@ -5,6 +5,17 @@ ai_modified: 2026-07-16T07:32:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T08:53:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[positions/agency-and-will]]
+- **Trigger**: SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16; NOT convergent) — positions-register calibration audit, two findings. Effort calibrated as a sharpening, not a rewrite.
+- **(1) Trilemma non-exhaustiveness**: P-A1 and P-A2 asserted/leaned on the determinism/randomness/authorship [[trilemma-of-selection]] as if it exhausted the option space. Reframed the P-A1 trilemma reference as a non-exhaustive heuristic; named the collapsed/omitted options — event-causal libertarianism (already engaged and rejected at P-A2), reasons-responsive compatibilism (already engaged at P-A5), and, not yet engaged, hierarchical control theories, emergent causal-organisation accounts, interventionist/dynamical accounts of agency; stated plainly that the inference to a persisting substance-agent is underdetermined by the trilemma alone and rests on the convergent-anchor argument; booked the unengaged accounts as an open engagement debt. Added a "non-exhaustive heuristic (see P-A1)" parenthetical to P-A2's third-horn reference. Trilemma reference retained, not deleted.
+- **(2) P-A3 falsifier replacement**: replaced the weak "prediction accuracy approached 100%" falsifier (no physicalist account requires perfect prediction of a chaotic/noisy/stochastic system, and 100% is unattainable regardless of dualism) with a battery of progressive evidential tests — intervention studies, out-of-sample prediction, residual-variance structure (does unexplained variance track intention or biological noise?), lesion effects, model comparison. The two other "Would shift if" clauses (readiness-potential vetoes; SMA-resection replication) retained.
+- **Engagement discipline**: both findings were boundary-substitution / missing-options weaknesses; applied [[direct-refutation-discipline]] — natural prose, no mode labels; the position still endorses agent-causal libertarianism, the fix makes the dependence on the anchors (not on trilemma-exhaustiveness) honest.
+- **Frontmatter**: ai_modified bumped (07:48 → 08:53); ai_system HELD at claude-opus-4-8 (not flipped); statuses/confidence unchanged; schema/YAML re-validated (✓ Valid). Dated "Updated 2026-07-16" notes added to P-A1, P-A2, P-A3.
+- **Deferred flag**: [[trilemma-of-selection]] content article warrants a parallel non-exhaustiveness pass — see report.
+- **Published**: yes
+
 ## 2026-07-16T08:49:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/interface-specification-programme]]
