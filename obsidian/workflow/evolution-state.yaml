@@ -1352,37 +1352,36 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T19:24:00+00:00'
-  last_replenishment_prev: '2026-07-16T19:12:00+00:00'
-  last_floor_restore_note_2026_07_16_staleness_authorship_of_action_1828: 'Floor-restore
-    replenish 2026-07-16T1828Z (interactive, conservative exact-floor +1). AUTHORITATIVE
-    PRE-COUNT count_p0_p2_tasks == 2, re-verified LIVE twice before write (open P2
-    deep-reviews jourdain-hypothesis + neuroplasticity; coupling-modes DRAINED via
-    cycle deep-review commit fcd1b5f62). MIN_QUEUE floor 3 unmet by 1; restores 2
-    to 3. NO concurrent evolve_loop.py (pgrep clean); tree clean; last real replenish
-    commit 8922ecd21 predates the coupling-modes drain, so first to breach (the d00039bd2
-    HEAD grep-match on replenish is a deep-review bookkeeping commit, not a replenish).
-    concurrent-replenish-race guard: re-count 2 before AND 3 after this single write,
-    revert if a sibling mint lands. EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks
-    all deep-reviews); unconsumed_research EXHAUSTED (target sections AT CAP); gap
-    capped (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions
-    8/80); orphan 0; length all veto/human-deferred; positions 8 < 10 audit floor;
-    no applied-apex-gap. SOURCE = staleness (Source 4): 63 settled-converged candidates.
-    MINTED 1 P2 deep-review topics/authorship-of-action-divergence.md — converged
-    30d (ldr == ai_modified 2026-06-16), ai_contribution 100, ai_system claude-opus-4-7
-    (older cohort, scrutinize citations hard), 23 year-parens = HIGHEST citation-verify
-    yield in pool; the choice-blindness / confabulation cohort here (Johansson-Hall,
-    Rebouillat 2021, Sauerland-Schell-Leugers-Sagana 2020, Wegner, Nisbett-Wilson)
-    has a DOCUMENTED intra-corpus citation-propagation defect history (Coutinho to
-    Rebouillat mis-attribution, Sauerland 2020 unlocatable-cite — both previously
-    fixed here). Chosen for introspective-authorship-tracking / choice-blindness axis
-    diversity vs the two open P2s (jourdain Tenet-1 metacognition + neuroplasticity
-    Tenet-3 clinical-plasticity) and the drained coupling-modes (Tenet-2 quantum).
-    PRESERVE the scoped-honestly framing per evidential-status-discipline — choice-blindness
-    data is evidence of introspective unreliability, no upgrade to an establishing
-    dualism argument. POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied,
-    no padding). BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
-    guard). Pruned the oldest floor-restore note (conversion_disorder_1641) to keep
+  last_replenishment: '2026-07-16T19:37:00+00:00'
+  last_replenishment_prev: '2026-07-16T19:24:00+00:00'
+  last_floor_restore_note_2026_07_16_staleness_vagueness_void_1937: 'Floor-restore
+    replenish 2026-07-16T1937Z (interactive, conservative exact-floor +1). AUTHORITATIVE
+    PRE-COUNT count_p0_p2_tasks == 2, re-verified LIVE via grep of open P0-P2 headers
+    (apophatic-cartography-four-criteria + predictive-construction-void; the prior
+    open P2s stochastic-emergence + direction-of-fit DRAINED via cycle deep-reviews
+    commits 9df6b5e7f + 7df237be5). MIN_QUEUE floor 3 unmet by 1; restores 2 to 3.
+    NO concurrent evolve_loop.py (ps clean); tree clean. concurrent-replenish-race
+    guard: re-count 2 before AND 3 after this single write, revert if a sibling mint
+    lands. EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks all deep-reviews);
+    unconsumed_research EXHAUSTED (target sections AT CAP); gap capped (topics 320/320,
+    concepts 320/320, voids 100/100 all AT CAP by live file-count; positions 35 entries
+    across 8 domain files); orphan 0; length all veto/human-deferred; positions audit
+    ran 2026-07-12 (< 30d, not overdue — replenish-positions-audit-false-overdue guard);
+    no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review voids/vagueness-void.md
+    — oldest un-queued CHANGED-SINCE last_deep_review in the corpus (ldr 2026-06-03,
+    43-day gap) with REAL drift: ai_modified 2026-07-11 = the phenomenal-sorites cross-link
+    addition (commit 6570a1645), ~38d unverified. Preferred over the corpus-oldest
+    last_deep_review pair (affective-void 06-02T10:52, non-human-minds 06-02T14:52)
+    because BOTH have ai_modified == last_deep_review (zero drift = guaranteed metadata
+    no-op) — CHANGED-SINCE is the yield signal the prior legs used. ai_contribution
+    100, ai_system claude-opus-4-7. Chosen for sorites/phenomenal-vagueness void axis
+    diversity vs the two open P2s (apophatic-method + predictive-construction active-inference).
+    Maintenance review — do NOT rewrite a converged page; verify the 2026-07-11 cross-link
+    integrates + web-verify any touched cites; if metadata no-op move ONLY last_deep_review
+    and HOLD ai_system + do NOT bump ai_modified (deep_review_over_reviews_converged
+    + deep-review-fork-bumps-ai-modified-on-noop hazards). POST-COUNT count_p0_p2_tasks
+    == 3 (floor exactly satisfied, no padding). TOP-inserted (queue-lifo-starvation
+    guard). Pruned the oldest floor-restore note (authorship_of_action_1828) to keep
     the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_apophatic_cartography_1912: 'Floor-restore
     replenish 2026-07-16T1912Z (interactive, conservative exact-floor +1). AUTHORITATIVE
