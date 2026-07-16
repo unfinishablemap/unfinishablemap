@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T19:27:25+00:00 - deep-review
+- **Status**: Success (converged NO-OP — 4th review; surfaced only because sibling cross-reviews appended 2 Further Reading links and `last_deep_review` aged past the 14-day exclusion window)
+- **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
+- **Word count**: ~1650 → ~1650 (0)
+- **Critical issues addressed**: 0 — calibration PASS (still an exemplar; no possibility→probability slippage). Attribution clean (Berridge credited only with the empirical dissociation + objective-vs-conscious distinction). Post-06-26 delta is purely cosmetic cross-links (`graduated-middle-path-valence-modulated-attention`, `reinforcement-learning-reward-signals-and-machine-valence`), both verified to resolve. References block unchanged since 2026-06-05 → §2.4 web-verify carried forward (all 5 primary cites real-correct). Tracked anchoring false-high; not refined to metric.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — `last_deep_review` advanced only; `ai_modified` HELD at 2026-07-07 (sibling-cross-link timestamp; no re-authoring)
+- **Engagement modes** (editor-internal): mechanism-only physicalist reading — Mode Three (boundary-marking, honest). No label leakage.
+- **Output**: [[reviews/deep-review-2026-07-16-wanting-liking-and-the-value-in-mechanism-fork]]
+
 ## 2026-07-16T19:17:28+00:00 - deep-review
 - **Status**: Success (converged NO-OP after hard scrutiny — 4th review; older-cohort claude-opus-4-7 re-verified on claim-match + wrong-first-author lens, clean)
 - **File**: [[topics/stochastic-emergence-as-quantum-interface-evidence]]
