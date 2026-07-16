@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-07-16T11:04:23+00:00
 ---
 
 The Map commits to dualism: consciousness is irreducible to physical process. That commitment leaves a question it has not resolved. Granting a non-physical aspect of mind, *is consciousness constitutive of it* — so that the non-physical aspect cannot exist without being conscious — *or is consciousness a quality it sometimes bears and sometimes lacks*, so that the non-physical aspect can persist unconscious, as in dreamless sleep? The first is the **essential-consciousness** thesis; the second the **contingent-consciousness** thesis. They are compatible with the same dualist starting point and divide three of the most sophisticated traditions ever to examine the question.

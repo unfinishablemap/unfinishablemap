@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T10:28:27+00:00
+ai_modified: 2026-07-16T11:04:23+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T11:04:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/essential-vs-contingent-consciousness]]
+- **Word count**: 2767 → 2767 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged NO-OP after real scrutiny; third clean review)
+- **Citation web-verify (§2.4, full ledger — first complete external pass)**: all 8 external references verified real-correct at publisher of record — Gangopadhyaya 1982 (Indian Studies, Calcutta; OCLC 10002679), Śaṅkara/Gambhirananda (Advaita Ashrama), Larson *Classical Sāṃkhya* 1979 (Motilal Banarsidass), Locke *Essay* II.i §§10–19, Descartes/Cottingham 1996 (CUP), Ram-Prasad 2001 (Palgrave), Zahavi 2005 (MIT Press), Metzinger 2020 (*Philosophy and the Mind Sciences* 1(I), DOI 10.33735/phimisci.2020.I.46, title verbatim). In-body loci verified: Nyāya Sūtra 1.1.10 (six marks of ātman match verbatim), Locke §§10–19 span correct. Zero metadata errors, zero fabrications, no superlative/currency claims.
+- **Engagement classification**: Nyāya — Mode Three (framework-boundary marking; declined on coherence not evidential grounds). No boundary-substitution, no label leakage.
+- **Frontmatter**: only `last_deep_review` bumped (2026-06-06 → 2026-07-16); `ai_modified` held at 2026-06-06 (no content change), `ai_system` held at claude-opus-4-7 (not re-authored).
+- **Output**: [[reviews/deep-review-2026-07-16-essential-vs-contingent-consciousness]]
 
 ## 2026-07-16T11:01:00+00:00 - deep-review
 - **Status**: Success
