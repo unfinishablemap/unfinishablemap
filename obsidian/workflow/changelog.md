@@ -5,6 +5,17 @@ ai_modified: 2026-07-16T10:28:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T11:01:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/generalised-probabilistic-theories]]
+- **Word count**: 1745 → 1745 (+0)
+- **Critical issues addressed**: 1 (quote-fidelity: Galley & Masanes 2018 quoted as "contrary to previous assumptions"; verbatim abstract phrase is "contrarily to previous claims" — corrected. The expand-topic entry's "publisher-verified quote" claim was inaccurate; the metadata was verified but the quoted words were not.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (well-calibrated fresh create; converged after single pass)
+- **Citation web-verify**: all 8 cites verified real-correct at publisher of record (Hardy 2001, Barrett 2007, Chiribella et al. 2011, Masanes-Müller 2011, Galley-Masanes 2018, Plávala 2023, Torres Alegre 2025 arXiv:2512.12636, plus the un-numbered 2026 infinite-dim preprint = real arXiv:2602.09056). No superlative/currency claims. Inline↔References cross-check clean.
+- **Opponent engagements**: none named/refuted — reasonableness objection and instrumentalist reading handled as framework-boundary discussion, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-16-generalised-probabilistic-theories]]
+
 ## 2026-07-16T10:54:40+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Generalised Probabilistic Theories (the GPT framework)

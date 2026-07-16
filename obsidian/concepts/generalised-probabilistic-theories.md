@@ -4,7 +4,7 @@ description: "The GPT framework treats quantum mechanics as one probabilistic th
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-07-16T10:54:40+00:00
+ai_modified: 2026-07-16T11:01:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -20,6 +20,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-16
 last_curated:
+last_deep_review: 2026-07-16T11:01:00+00:00
 ---
 
 A **generalised probabilistic theory** (GPT) is an operational framework in which any physical theory — classical probability, quantum mechanics, and a continuum of exotic alternatives — is specified by three ingredients: a set of states, a set of measurements, and a rule pairing them to yield probabilities. Quantum mechanics is one point in this landscape; classical theory is another; still others describe worlds that have never been observed. This is the neutral, school-independent definition every camp accepts.
@@ -62,7 +63,7 @@ Second, the Map reads the interface's signature — a consciousness-physics coup
 
 Here the Map corrects a slogan it has sometimes leaned on. The tempting claim is: *no-signalling forces the Born rule, so any agent — physical or non-physical — coupling to quantum outcomes is Born-constrained.* The GPT literature shows the first half of that sentence is false as stated.
 
-No-signalling **alone** does not force the Born rule. Boxworld (Barrett 2007) is a non-quantum theory that respects no-signalling, and Galley and Masanes established in 2018 that the Born measurement rule can be modified while preserving no-signalling — "contrary to previous assumptions," as their paper puts it. Their result is titled: "Any modification of the Born rule leads to a violation of the purification and local tomography principles." The Born rule becomes forced only once **purification and/or local tomography** are added to no-signalling.
+No-signalling **alone** does not force the Born rule. Boxworld (Barrett 2007) is a non-quantum theory that respects no-signalling, and Galley and Masanes established in 2018 that the Born measurement rule can be modified while preserving no-signalling — "contrarily to previous claims," as their paper puts it. Their result is titled: "Any modification of the Born rule leads to a violation of the purification and local tomography principles." The Born rule becomes forced only once **purification and/or local tomography** are added to no-signalling.
 
 This is why the Map's existing anchor, the [[causal-consistency-constraint]], is stated carefully. Torres Alegre's 2025 steering-based derivation — an arXiv preprint, not yet peer-reviewed — shows that *within GPTs satisfying purification*, the Born rule is the unique no-signalling-compatible probability assignment. The purification assumption is doing the real work; the theorem inherits exactly the Galley-Masanes gap. A 2026 preprint extending the result to infinite-dimensional theories suggests the selection line is being generalised rather than overturned, though it too awaits refereeing.
 
