@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T00:08:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/mereology-of-mind]]
+- **Word count**: 2748 → 2748 (0)
+- **Critical issues addressed**: 1 (fabricated James verbatim quote — "same old private self" is not James's text; corrected to "remains the same feeling it always was, shut in its own skin, windowless", verified at psychclassics.yorku.ca)
+- **Family-resolution**: same fabricated fragment corrected in sibling [[topics/consciousness-and-the-metaphysics-of-composition]] (line 105)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (quote-fidelity + framing pass; all other quotes/cites faithful)
+- **Follow-up queued (notes)**: combination-problem.md "the most peculiar puzzle" James attribution unverified — recommend dedicated quote-verify
+- **Output**: [[reviews/deep-review-2026-07-16-mereology-of-mind]]
+
 ## 2026-07-16T00:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-acquaintance]]
