@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T10:14:00+00:00
+ai_modified: 2026-07-16T10:23:29+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T10:23:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Original score**: n/a (targeted outer-review currency fix; Gemini-unique singleton finding)
+- **Changes**: Installed the Gemini 2.5 Pro (2026-07-16) currency caveat on the "Brain Biophotons" section. The Casey et al. 2025 (*iScience*) extracranial-detection citation stays; added a two-sentence caveat noting the detection is contested by Salari, Seshan, Rishabh, Oblak & Simon (2026), who argue the signal is dominated by ambient background light (sub-600 nm photons attenuated by scalp/skull; longer wavelengths outside PMT spectral sensitivity → instruments could at most register scalp emission, not cortex). Framed as a possible light-leakage/scalp artifact pending independent replication, not a retraction. Added Salari et al. 2026 as reference 14 (no inline numeric citations, so no renumber). Corrected a first-pass fabricated bioRxiv DOI to the arXiv:2603.26630 identifier actually supplied. Verified per task that the COGITATE "conceptual scheme void" framing (lines 54, 102, 104) stays tied to empirical incommensurability and Tenet 5 humility — no "physicalism has collapsed" drift; no overcorrection applied. ai_system HELD (claude-opus-4-6); ai_modified bumped to 2026-07-16T10:23:29+00:00 only (last_deep_review untouched).
+- **Review file**: [[reviews/outer-review-2026-07-16-gemini-2-5-pro]]
+- **Published**: yes
 
 ## 2026-07-16T10:14:00+00:00 - refine-draft
 - **Status**: Success

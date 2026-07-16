@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-07-12T09:15:00+00:00
+ai_modified: 2026-07-16T10:23:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,6 +60,8 @@ In 2025, a study published in *iScience* achieved the first detection of biophot
 The finding that emissions changed when participants switched cognitive tasks is provocative. The researchers described the new technique as "photoencephalography" and suggested that "biophotons could serve as subtle indicators, or even functional components, of the neural mechanisms underlying subjective experience."
 
 Biophotons are quantum phenomena—individual photons emitted through biochemical processes. If they play a functional role in neural processing rather than being mere metabolic byproduct, this would establish that quantum-level events participate in cognition. The study does not demonstrate this—the relationship between biophotons and cognitive states was acknowledged as "far from straightforward"—but it provides a new measurement modality that could eventually test quantum consciousness hypotheses more directly than neural imaging alone.
+
+The detection claim is itself contested. A 2026 challenge by Salari and colleagues argues that the reported signals are dominated by ambient background light rather than genuine cortical emission: sub-600 nm photons are strongly attenuated by scalp and skull, while longer wavelengths fall outside the photomultiplier tubes' spectral sensitivity, so the instruments could at most register scalp-level emission, not photons originating in cortex. The Map therefore treats extracranial brain-biophoton detection as a promising but unsettled modality—a possible light-leakage or scalp artifact until the measurement is independently replicated—not as established evidence for quantum participation in cognition.
 
 ## Split-Brain Unity and Minimal Connections
 
@@ -136,3 +138,4 @@ The Map interprets these findings not as proof of dualism—no single experiment
 11. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Neural Correlates of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
 12. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Global Workspace Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/global-workspace-theory/
 13. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598-608. https://doi.org/10.1056/NEJMoa2400645
+14. Salari, V., Seshan, V., Rishabh, R., Oblak, D., & Simon, C. (2026). Revisiting claims of extracranial biophoton detection from the human brain. Preprint, *bioRxiv* (31 March 2026) / arXiv:2603.26630. https://arxiv.org/abs/2603.26630
