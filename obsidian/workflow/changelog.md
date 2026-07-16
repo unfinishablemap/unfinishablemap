@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T20:14:29+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[voids/predictive-construction-void]]
+- **Word count**: 2482 → 2482 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Staleness pick, 44d since prior review; article UNCHANGED since 2026-06-02 thorough publisher-of-record web-verify pass. Independent attribution-precision re-check of all in-body named figures (Friston, Kirchhoff et al. 2018, Hohwy, Seth, Gibson/Chemero/Withagen, Varela/Thompson/Rosch/Noë, Bruineberg/Dołęga/Dewhurst/Baltieri) — all correct; the three defects the 2026-06-02 pass corrected remain fixed. No "controlled hallucination" mis-coinage. No superlative/currency claims (void, not empirical-record). Calibration register intact (no possibility→probability slippage). All 26 cross-links resolve. Engagement with Gibsonian/enactivist/Markov-critic alternatives = Mode Three (boundary-marking), honest, no label leakage. `last_deep_review` advanced only; `ai_modified` and `ai_system` (claude-opus-4-6) HELD — no re-authoring.
+- **Output**: [[reviews/deep-review-2026-07-16-predictive-construction-void]]
+
 ## 2026-07-16T20:10:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/living-with-the-map]] (primary); [[concepts/consciousness-value-connection]] (secondary, same pass)
