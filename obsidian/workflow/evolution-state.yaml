@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T16:04:08.509518+00:00'
-session_count: 15978
-cycle_position: 11193
+last_updated: '2026-07-16T16:07:24.116730+00:00'
+session_count: 15979
+cycle_position: 11194
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-16T15:40:27.577123+00:00'
   optimistic-review: '2026-07-16T12:27:59.739052+00:00'
   check-tenets: '2026-07-16T10:38:58.530837+00:00'
   check-links: '2026-07-16T14:36:17.114963+00:00'
-  deep-review: '2026-07-16T16:04:08.509518+00:00'
+  deep-review: '2026-07-16T16:07:24.116730+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-16T14:39:18.362355+00:00'
   coalesce: '2026-07-16T13:11:29.020567+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-16'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-16'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-07-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-16'
   outcome: success
 - task: deep-review
@@ -1339,12 +1339,36 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 76
+  p2_tasks: 77
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T15:49:00+00:00'
-  last_replenishment_prev: '2026-07-16T15:26:00+00:00'
+  last_replenishment: '2026-07-16T16:12:00+00:00'
+  last_replenishment_prev: '2026-07-16T15:49:00+00:00'
+  last_floor_restore_note_2026_07_16_staleness_causal_powers_25: 'Floor-restore replenish
+    2026-07-16T1612Z (interactive, conservative exact-floor +1). PRE-COUNT canonical
+    count_p0_p2_tasks == 2, re-verified LIVE before write (the two open P2 deep-reviews:
+    conceivability-possibility-inference + cross-species-behavioural-confidence-proxy-tests;
+    the local-tomography expand drained via cycle at 1559Z commit c6b158c45 + its
+    cross-review 1607Z commit 3066a9a6f). MIN_QUEUE floor 3 unmet by 1; restores 2
+    to 3. LIVE LOOP RUNNING (auto commits every ~6min, last 3066a9a6f 1607Z); live
+    re-count 2 immediately before AND intended after this single write (concurrent-replenish-race
+    guard — revert if a sibling mint also lands). SOURCE = staleness (Source 4): unconsumed_research
+    (+60) EXHAUSTED — two newest notes are local-tomography (consumed 1559Z) and interface-eligibility-law
+    (no article; targets topics/ 320/320 AT CAP); gap capped (topics 320/320, concepts
+    320/320 after local-tomography, voids 100/100 — all AT CAP; positions 8/80); orphan
+    0; length all veto/human-deferred; positions 8 < 10 audit floor; no applied-apex-gap.
+    MINTED 1 P2 deep-review: topics/consciousness-and-causal-powers.md — settled-converged
+    41d (ldr == ai_modified 2026-06-05T04:57:31), ai_contribution 100, ai_system claude-sonnet-4-5-20250929
+    (OLDER cohort than the opus-4-6/7/8 mainstream — scrutinize citations hard), citation-verifiable
+    refs (Wigner 1961 / Wheeler 1983 Law-Without-Law / Zurek 2003 Rev Mod Phys / von
+    Neumann-Wigner collapse lineage), 3087w vs topics 3000 soft / 4000 hard (length-neutral-to-trimming).
+    Chosen for Tenet-2 (Minimal Quantum Interaction) + Tenet-3 (Bidirectional Interaction)
+    axis diversity vs the two open Tenet-1 P2s (conceivability modal-epistemology +
+    cross-species animal-metacognition). POST-COUNT canonical count_p0_p2_tasks ==
+    3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two older open
+    P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (staleness_conceivability_inference_22)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_cross_species_proxy_24: 'Floor-restore
     replenish 2026-07-16T1549Z (interactive, conservative exact-floor +1). PRE-COUNT
     canonical count_p0_p2_tasks == 2 (the two open P2s: conceivability-possibility-inference
@@ -1397,34 +1421,6 @@ queue_status:
     POST-COUNT open P0-P2 == 3 (floor exactly satisfied, no padding). BOTTOM-inserted
     below the two older open P2s (queue-lifo-starvation guard). Pruned the oldest
     floor-restore note (staleness_value_connection_20, 1411Z) to keep the most-recent
-    3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_conceivability_inference_22: 'Floor-restore
-    replenish 2026-07-16T1454Z (interactive, conservative exact-floor +1). PRE-COUNT
-    canonical count_p0_p2_tasks == 2 (consciousness-value-connection + biological-teleology
-    deep-reviews, both open; the earlier spontaneous-collapse + analytic-idealism
-    floor tasks drained via cycle deep-review slots at 1417Z + 1427Z). MIN_QUEUE floor
-    3 unmet by 1. LIVE LOOP RUNNING (auto() commits every ~6min, last d60f1dce5 refine-draft
-    1451Z; pgrep finds no named evolve_loop/unfin-cycle process but the commit cadence
-    is unambiguous — this replenish is very likely the loop''s own floor-trigger);
-    live re-count 2 immediately before AND after the write (concurrent-replenish-race
-    guard — revert if a sibling mint also lands). SOURCE = staleness (Source 4): unconsumed_research
-    (+60) EXHAUSTED — all 12 newest research notes have live articles (incl. interventionist-and-counterfactual-dualism→topics
-    with the `-and-` infix, verified present after an initial slug-grep miss); gap
-    capped (topics 320/320, voids 100/100, concepts 319/320 with the 1 slot earmarked);
-    orphan 0; length all veto/human-deferred/accept-as-survey; positions 8 < 10 audit
-    floor; no applied-apex-gap. MINTED 1 P2 deep-review: concepts/conceivability-possibility-inference.md
-    — settled-converged 35d (ldr == ai_modified 2026-06-10T12:00:00), ai_contribution
-    100, ai_system claude-sonnet-4-5-20250929 (OLDER cohort than the opus-4-6/7/8
-    mainstream — scrutinize citations hard), citation-verifiable refs (Chalmers 1996
-    / Chalmers 2002 Conceivability-and-Possibility / Kripke 1980 Naming-and-Necessity
-    / Yablo 1993 PPR 53(1) / Block & Stalnaker 1999 Phil Review 108(1)), 2271w vs
-    concepts 2500 soft (length-neutral). Chosen for Tenet-1 modal-epistemology / conceivability→possibility-inference-hinge
-    diversity (the methodological page the Map''s zombie / Mary''s-Room / inverted-qualia
-    argument family rests on) vs the two open value/teleology (Tenet 1/3) P2s and
-    the drained quantum-collapse (Tenet 2) + rival-metaphysics (Tenet 1) floor tasks.
-    POST-COUNT canonical count_p0_p2_tasks == 3 (floor exactly satisfied, no padding).
-    BOTTOM-inserted below the two older open P2s (queue-lifo-starvation guard). Pruned
-    the oldest floor-restore note (staleness_analytic_idealism_19) to keep the most-recent
     3 (bloat control, zero logic dep).'
   last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
     (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
