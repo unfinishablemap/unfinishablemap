@@ -20,7 +20,7 @@ description: Is the non-physical aspect of mind essentially conscious, or only c
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 00:00:00+00:00
+last_deep_review: 2026-07-16 11:04:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

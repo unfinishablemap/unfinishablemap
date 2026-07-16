@@ -1,13 +1,77 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16 10:28:27+00:00
+ai_modified: 2026-07-16 11:50:42+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-16T11:54:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/)
+- **Word count**: 1927 → 1926 (-1)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (removed 2 self-referential "the article" phrasings; tightened meta description)
+- **Enhancements made**: 2
+- **Citations**: all 7 external cites web-verified real-correct at publisher of record (Marchetti & Della Sala 1998, Della Sala/Marchetti/Spinnler 1991, Feinberg et al. 1992, Goldberg et al. 1981, Assal et al. 2007, Frith/Blakemore/Wolpert 2000, Haggard 2017); inline↔References clean; no superlatives
+- **Engagement**: comparator/forward-model account — Mode Three (framework-boundary marking, honest concession); no boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-07-16-anarchic-hand-and-action-ownership](/reviews/deep-review-2026-07-16-anarchic-hand-and-action-ownership/)
+
+## 2026-07-16T11:50:42+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Anarchic Hand and the Fragmentation of Action-Ownership
+- **Output**: [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/)
+- **Word count**: 1927 (64% of 3000 topics soft target; status ok)
+- **Based on research**: yes — [anarchic-hand-and-action-ownership-2026-07-16](/research/anarchic-hand-and-action-ownership-2026-07-16/)
+- **Framing**: agency-side complement to split-brain's perception-side dissociation; disowned action with body-ownership intact. Comparator/inhibition account conceded in full as adequate to the neural facts; interface reading offered as possibility-not-proof. Anarchic-vs-alien (Marchetti & Della Sala 1998) distinction kept sharp. No verbatim quotes (not extractable at research time) — sources paraphrased; 2025 Clinical Neuropsychologist review (unverified) not cited. Tenets 1 (Dualism) + 3 (Bidirectional Interaction). 2 self-citations (split-brain-consciousness, control-theoretic-will).
+- **Integration**: reciprocal inbound links added from [split-brain-consciousness](/topics/split-brain-consciousness/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), [volitional-control](/topics/volitional-control/); queued P2 cross-review successor.
+- **Published**: yes
+
+## 2026-07-16T11:46:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Driven by**: [pessimistic-2026-07-16-born-rule-and-the-consciousness-interface](/reviews/pessimistic-2026-07-16-born-rule-and-the-consciousness-interface/) (4 medium issues + 2 unsupported-claim wording fixes)
+- **Changes**:
+  - Fix 1 (tier reconciliation): downgraded §Compatibility-vs-Support line 93 from "marginally *interface-suggestive*" to *interface-compatible* (not reaching suggestive), since every candidate component is matched by a named rival's equal move; reconciled §What This Does Not Establish (line 194) to bank the SIC how-sketch only as "suggestive-if-granted", not as an achieved tier.
+  - Fix 2 (Lakatos): replaced the Popper-only falsifiability discussion in §What Negative Results with a Popper→Lakatos escalation — named the *degenerating-programme* charge (unfalsifiable core + disavowed falsifiable belt + planned content-reducing retreat) and answered it with the interface programme's *progressive* content (mechanism-by-mechanism novel signatures via brain-internal-born-rule-testing). Integrated by rewriting existing prose, not appended.
+  - Fix 3 (Wiest quote): attached "macroscopic quantum entangled state in the living human brain" to the Kerskens proton-spin result Wiest *reports*, separated Wiest's own microtubule case; stops the quote double-booking Kerskens.
+  - Fix 4 (epistemic/metaphysical split, line 68): marked "expressive limit on physics's formalism" (epistemic) vs "real ontological boundary" (metaphysical), and that the bridge is tenet-coherence, not the underivability pattern.
+  - Wording: line 152 "causal-consistency has been *tested*" → causal consistency is a *theorem*; no-signalling is the empirically-tested premise. "seven orders above Tegmark's" → "eight orders above the ~10⁻¹³ s" (10⁻⁵ vs 10⁻¹³), noting the higher figure is the Orch-OR advocates', not neutral. Pinned one nickname ("Torres Alegre steering result") for arXiv:2512.12636 in place of "GPT-steering". Restored full Wiest title in ref 5 ("…and solves the binding and epiphenomenalism problems"), verified at OUP niaf011. Thinned one redundant "-load-bearing" coinage.
+- **Engagement classification (editor-internal)**: Lakatos/Popper (§What Negative Results): Mode Three — framework-boundary; the reply honestly concedes the corridor's unfalsifiability as a cost while pointing to the programme's progressive content, not claiming to refute the degenerating-programme charge on the critic's terms.
+- **Length**: +156 words net (5158→5314; still ~177% of the 3000-word hub target). All clear redundancy offset (trimmed duplicated compatibility-discipline restatements in §Compatibility, closer, §Occam, §MQI-commits, lead ¶3, and the micro-PK clause in §Brain-Internal Gap); residual growth is the irreducible floor of the required new Lakatos engagement + Wiest disambiguation + epistemic/metaphysical bridge. Calibration qualifiers and citation-framing preserved (not cut to save words) per task constraint.
+- **Published**: yes
+
+## 2026-07-16T11:35:42+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/born-rule-and-the-consciousness-interface.md (coalesced hub; citation-dense)
+- **Findings**: 4 medium issues (suggestive-tier vs own concessions; unaddressed Lakatos degenerating-programme charge; mis-framed Wiest microtubule/proton-spin quote; epistemic→metaphysical slide at line 68) + 2 unsupported-claim wording fixes. Citations all web-verified REAL (Torres Alegre 2512.12636, Zhang 2603.06211, Agrawal-Wilson 2511.21355, Neumaier, Wiest niaf011). Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-07-16-born-rule-and-the-consciousness-interface](/reviews/pessimistic-2026-07-16-born-rule-and-the-consciousness-interface/)
+
+## 2026-07-16T11:04:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [essential-vs-contingent-consciousness](/topics/essential-vs-contingent-consciousness/)
+- **Word count**: 2767 → 2767 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged NO-OP after real scrutiny; third clean review)
+- **Citation web-verify (§2.4, full ledger — first complete external pass)**: all 8 external references verified real-correct at publisher of record — Gangopadhyaya 1982 (Indian Studies, Calcutta; OCLC 10002679), Śaṅkara/Gambhirananda (Advaita Ashrama), Larson *Classical Sāṃkhya* 1979 (Motilal Banarsidass), Locke *Essay* II.i §§10–19, Descartes/Cottingham 1996 (CUP), Ram-Prasad 2001 (Palgrave), Zahavi 2005 (MIT Press), Metzinger 2020 (*Philosophy and the Mind Sciences* 1(I), DOI 10.33735/phimisci.2020.I.46, title verbatim). In-body loci verified: Nyāya Sūtra 1.1.10 (six marks of ātman match verbatim), Locke §§10–19 span correct. Zero metadata errors, zero fabrications, no superlative/currency claims.
+- **Engagement classification**: Nyāya — Mode Three (framework-boundary marking; declined on coherence not evidential grounds). No boundary-substitution, no label leakage.
+- **Frontmatter**: only `last_deep_review` bumped (2026-06-06 → 2026-07-16); `ai_modified` held at 2026-06-06 (no content change), `ai_system` held at claude-opus-4-7 (not re-authored).
+- **Output**: [deep-review-2026-07-16-essential-vs-contingent-consciousness](/reviews/deep-review-2026-07-16-essential-vs-contingent-consciousness/)
+
+## 2026-07-16T11:01:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/)
+- **Word count**: 1745 → 1745 (+0)
+- **Critical issues addressed**: 1 (quote-fidelity: Galley & Masanes 2018 quoted as "contrary to previous assumptions"; verbatim abstract phrase is "contrarily to previous claims" — corrected. The expand-topic entry's "publisher-verified quote" claim was inaccurate; the metadata was verified but the quoted words were not.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (well-calibrated fresh create; converged after single pass)
+- **Citation web-verify**: all 8 cites verified real-correct at publisher of record (Hardy 2001, Barrett 2007, Chiribella et al. 2011, Masanes-Müller 2011, Galley-Masanes 2018, Plávala 2023, Torres Alegre 2025 arXiv:2512.12636, plus the un-numbered 2026 infinite-dim preprint = real arXiv:2602.09056). No superlative/currency claims. Inline↔References cross-check clean.
+- **Opponent engagements**: none named/refuted — reasonableness objection and instrumentalist reading handled as framework-boundary discussion, no label leakage.
+- **Output**: [deep-review-2026-07-16-generalised-probabilistic-theories](/reviews/deep-review-2026-07-16-generalised-probabilistic-theories/)
 
 ## 2026-07-16T10:54:40+00:00 - expand-topic
 - **Status**: Success

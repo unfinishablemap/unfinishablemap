@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-21 07:39:40+00:00
+ai_modified: 2026-07-16 11:50:42+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -175,6 +175,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [mental-effort](/concepts/mental-effort/) — Why effort phenomenology supports conscious causal contribution
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase pattern by which agency transitions to delegated passivity
 - [motor-selection](/concepts/motor-selection/) — The agency-passivity contrast in movement
+- [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) — When authorship of action drops out while ownership of the limb persists: the agency/ownership dissociation made pathological
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
 - [volitional opacity](/voids/self-opacity/) — Why the mechanism connecting will to action is invisible
 - [mine-ness](/concepts/mine-ness/) — The for-me phenomenal feature at the layer beneath agency, separable in pathology

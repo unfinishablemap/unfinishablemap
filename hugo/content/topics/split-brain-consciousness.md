@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-12 15:58:00+00:00
+ai_modified: 2026-07-16 11:50:42+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -205,6 +205,7 @@ Perhaps what the cases really show: consciousness is neither a simple unity that
 ## Further Reading
 
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through split-brain, anesthesia, altered states, and death
+- [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) — The agency-side complement: disowned action with ownership intact, where volition rather than perception loses its interface
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — How split-brain and other dissociations map the functional anatomy of the mind-brain channel
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — Systematic treatment of dissociative evidence
 - [phenomenal unity](/concepts/unity-of-consciousness/) — The three dimensions of experiential unity that split-brain cases stress-test

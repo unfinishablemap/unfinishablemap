@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-07-16 05:28:00+00:00
+ai_modified: 2026-07-16 11:20:58+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
@@ -206,7 +206,7 @@ This synthesis draws on:
 - [Ensemble-Level Epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — The route-by-route statement of the worry and the trumping / minimum-outside-corridor escapes
 - [The Born Rule and the Consciousness Interface](/topics/born-rule-and-the-consciousness-interface/) — The corridor / minimum-outside-corridor / trumping taxonomy and the experimental programmes bearing on each
 - [Selection-Only Mind-Influence](/topics/selection-only-mind-influence/) — Information-theoretic limits on what a single-event selection channel can transfer
-- [The Causal Consistency Constraint](/concepts/causal-consistency-constraint/) — Why no-signalling forces Born-preservation on the default reading
+- [The Causal Consistency Constraint](/concepts/causal-consistency-constraint/) — Why no-signalling *under purification* forces Born-preservation on the default reading
 - [Post-Decoherence Selection](/concepts/post-decoherence-selection/) — How relocating selection after decoherence sets aside the timing precondition this article assumes
 - [Trumping Preemption](/concepts/trumping-preemption/) — The authority-over-trajectories reading that answers the worry off the statistical axis
 - [The Transactional Interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) — The offer/confirmation handshake and Kastner's pre-spacetime possibility realm, borrowed as a Born-preserving venue for actualization-selection
