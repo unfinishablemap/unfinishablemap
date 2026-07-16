@@ -1353,8 +1353,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T19:55:00+00:00'
-  last_replenishment_prev: '2026-07-16T19:37:00+00:00'
+  last_replenishment: '2026-07-16T20:21:00+00:00'
+  last_replenishment_prev: '2026-07-16T19:55:00+00:00'
   last_floor_restore_note_2026_07_16_staleness_vagueness_void_1937: 'Floor-restore
     replenish 2026-07-16T1937Z (interactive, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2, re-verified LIVE via grep of open P0-P2 headers
