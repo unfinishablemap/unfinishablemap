@@ -5,6 +5,17 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T19:50:39+00:00 - deep-review
+- **Status**: Success (converged 8th review; older-cohort claude-opus-4-7 scrutinized on attribution-precision lens — surfaced ONE theology-attribution fix all 7 prior reviews missed)
+- **File**: [[concepts/apophatic-cartography-four-criteria]]
+- **Word count**: 2490 → 2534 (+44; length-neutral corrective, 101% soft, well under hard)
+- **Critical issues addressed**: 1 — "Pseudo-Dionysian corpus shaped Christian, Jewish, and Islamic negative theology" (lines 69, 110) misattributes the tri-tradition common cause. Web-verified (SEP "Influence of Islamic Thought on Maimonides", Neoplatonism reference works): Dionysius shaped *Christian* apophaticism; Maimonides's negative theology is Islamic-Neoplatonic (al-Farabi/Avicenna) in provenance; the genuine shared upstream cause is Neoplatonism (Plotinus/Proclus), of which Dionysius is the Christian branch. Reframed both loci around Neoplatonism-as-common-cause — the fix *sharpens* the article's own common-cause-discount ("one Neoplatonic source counted three times"). No unfinishablemap.org self-verification.
+- **Citation ledger** (§2.4): in-body Pseudo-Dionysius attribution = real-wrong-attribution (corrected). Formal refs #1-#5 (Chalmers 1995/2018, Levine 1983, Nisbett-Wilson 1977, Schnider 2008) ledger carried forward from 2026-06-02 publisher-verification — body/References unchanged since, all stable classics, no currency/superlative claims. Internal refs #6-#9 slugs resolve. Leibniz/Wallace/Gazzaniga/Haidt/Wheatley/Rebouillat surname-anchors spot-checked clean.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; 10/10 cross-links verified live on disk)
+- **Frontmatter**: ai_modified + last_deep_review → 2026-07-16T19:50:39+00:00; ai_system HELD at claude-opus-4-7 (targeted attribution fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-16-apophatic-cartography-four-criteria]]
+
 ## 2026-07-16T19:33:27+00:00 - deep-review
 - **Status**: Success (converged 5th review; older-cohort claude-opus-4-6 scrutinized on coinage/claim-match lens — surfaced ONE attribution-precision fix all 4 prior reviews missed)
 - **File**: [[concepts/direction-of-fit]]
