@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T02:21:52.822737+00:00'
-session_count: 15849
+last_updated: '2026-07-16T02:27:37.761764+00:00'
+session_count: 15850
 cycle_position: 11116
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-15T04:13:48.072739+00:00'
   refine-draft: '2026-07-16T01:35:17.172345+00:00'
   research-topic: '2026-07-15T22:06:26.550584+00:00'
-  replenish-queue: '2026-07-16T01:58:29.739769+00:00'
+  replenish-queue: '2026-07-16T02:27:37.761764+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-15T23:24:31.250152+00:00'
   add-highlight: '2026-07-15T08:05:49.690113+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1358,41 +1358,41 @@ queue_status:
     c95195bd6) executed and drained 3->2. Floor unmet by 1. SOURCE AUDIT re-verified
     LIVE: chains have no un-emitted successor (single-cell cross-review is a pending
     TASK not a source; pending_articles empty); unconsumed_research EXHAUSTED (this-session
-    2026-07-15 research notes consumed into published articles); gap cap-governed (topics
-    ~318/320, concepts ~317/320); no new auto-condense candidate (breaches all human-decision-blocked
-    or veto-tagged); harvest-research-subjects owns externally-flagged subjects. STALENESS
-    the only viable source. SOURCE USED: staleness (Source 4). MINTED 1 P2 deep-review
-    of concepts/illusionism.md - deliberately P2 not default-P3 so it counts toward
-    the P0-P2 floor (memory p3-only-floor-preemption-starves). Target chosen on DEFECT-CLASS
-    PROFILE not age/review-count (both unreliable): quote-fidelity is orthogonal to
-    metadata review (memory quote-fidelity-defects-survive-metadata-reviews), and this
-    article has a DOCUMENTED history of exactly this defect class (the 2026-06-09 outer-review
-    pass fixed a fabricated Pereboom-and-Frankish-2021 cite, a wrong Graziano venue
-    JCS-to-eNeuro, a Kammerer source/claim mismatch, and a misattributed Chalmers-2022
-    stance-transfer). Genuinely stale + settled: last_deep_review 2026-06-22T23:05:25,
+    2026-07-15 research notes consumed into published articles); gap cap-governed
+    (topics ~318/320, concepts ~317/320); no new auto-condense candidate (breaches
+    all human-decision-blocked or veto-tagged); harvest-research-subjects owns externally-flagged
+    subjects. STALENESS the only viable source. SOURCE USED: staleness (Source 4).
+    MINTED 1 P2 deep-review of concepts/illusionism.md - deliberately P2 not default-P3
+    so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
+    Target chosen on DEFECT-CLASS PROFILE not age/review-count (both unreliable):
+    quote-fidelity is orthogonal to metadata review (memory quote-fidelity-defects-survive-metadata-reviews),
+    and this article has a DOCUMENTED history of exactly this defect class (the 2026-06-09
+    outer-review pass fixed a fabricated Pereboom-and-Frankish-2021 cite, a wrong
+    Graziano venue JCS-to-eNeuro, a Kammerer source/claim mismatch, and a misattributed
+    Chalmers-2022 stance-transfer). Genuinely stale + settled: last_deep_review 2026-06-22T23:05:25,
     ai_modified 2026-07-12T15:54:00, ai_contribution 100, ai_system claude-opus-4-6;
-    off this-session touch-list (2026-07-15/16 verified against git; distinct from the
-    whole James/pragmatist/QBism quantum-foundations cluster rewritten today and from
-    the queued Chalmers-node psychophysical-laws deep-review - this is the physicalist/eliminativist
+    off this-session touch-list (2026-07-15/16 verified against git; distinct from
+    the whole James/pragmatist/QBism quantum-foundations cluster rewritten today and
+    from the queued Chalmers-node psychophysical-laws deep-review - this is the physicalist/eliminativist
     illusionism node). Citation-dense node (~18 external references, ~30 quoted fragments)
     carrying verbatim external primary-work quotes at paraphrase-as-quote / dropped-word
     / wrong-title / wrong-work risk: Strawson the-silliest-claim-ever-made (NYRB 2018),
     Tallis misrepresentation-presupposes-presentation (Philosophy Now 2024), Frankish
-    eliminativism-about-phenomenal-consciousness + illusion-problem (Frankish 2016 JCS),
-    plus in-line reference-title quotes and obscure verify-at-publisher entries (Morozov
-    2025 edited volume, Loginov 2024 Frontiers, four fine-grained Kammerer entries).
-    Primary lens verbatim quote-fidelity verified at primary publisher NOT via unfinishablemap.org
-    (memory quote-verify-self-contamination-via-own-page); secondary 3-state citation
-    status (real / real-wrong-venue / fabricated - do not delete a real paper, memory
-    citation-verify-false-negative). LENGTH: body ~3537w = ~37w OVER concepts hard ceiling
-    3500 (hard_warning not critical); LENGTH-NEUTRAL-TO-TRIMMING, a fix that trims back
-    under 3500 welcome, flag human length decision not auto-condense if a needed fix
-    grows it further (memory human-decision-task-mispicked-as-refine). Task note carries
-    HOLD-ai_system (claude-opus-4-6) + no-op-damping (move only last_deep_review on a
-    converged no-op) + date -u stamp guard. FIFO-placed BELOW the two older open P2s
-    (single-cell cross-review, psychophysical-laws deep-review) so they drain first
-    (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks == 3 (floor
-    3 exactly satisfied, no padding).'
+    eliminativism-about-phenomenal-consciousness + illusion-problem (Frankish 2016
+    JCS), plus in-line reference-title quotes and obscure verify-at-publisher entries
+    (Morozov 2025 edited volume, Loginov 2024 Frontiers, four fine-grained Kammerer
+    entries). Primary lens verbatim quote-fidelity verified at primary publisher NOT
+    via unfinishablemap.org (memory quote-verify-self-contamination-via-own-page);
+    secondary 3-state citation status (real / real-wrong-venue / fabricated - do not
+    delete a real paper, memory citation-verify-false-negative). LENGTH: body ~3537w
+    = ~37w OVER concepts hard ceiling 3500 (hard_warning not critical); LENGTH-NEUTRAL-TO-TRIMMING,
+    a fix that trims back under 3500 welcome, flag human length decision not auto-condense
+    if a needed fix grows it further (memory human-decision-task-mispicked-as-refine).
+    Task note carries HOLD-ai_system (claude-opus-4-6) + no-op-damping (move only
+    last_deep_review on a converged no-op) + date -u stamp guard. FIFO-placed BELOW
+    the two older open P2s (single-cell cross-review, psychophysical-laws deep-review)
+    so they drain first (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks
+    == 3 (floor 3 exactly satisfied, no padding).'
   last_floor_restore_note_2026_07_16_staleness_deep_review_9: 'Floor-restore replenish
     2026-07-16T0155Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
     == 2 (single-cell-proto-agency cross-review + the pragmatist-quantum-foundations-and-the-agent

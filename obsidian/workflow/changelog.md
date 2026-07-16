@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T02:31:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
+- **Selection**: staleness (last_deep_review 2026-06-20, ~26d); 8 prior reviews (heavily damped) but quote-fidelity is orthogonal to review count — steered to QUOTE-FIDELITY (primary) + citation-title verify. The two prior passes (06-05, 06-20) ran full citation *metadata* audits; neither verbatim-checked the quoted strings against the *cited* work.
+- **Word count**: 3407 → 3407 (attribution swap + short rephrase; 114% of topics soft, under hard)
+- **Critical issues addressed**: 1 — **wrong-work quote attribution FIXED.** Chalmers "A nonreductive theory of experience will add new principles to the furniture of the basic laws of nature" was cited to *The Conscious Mind* (1996); verified verbatim at Chalmers' own consc.net as belonging to "Facing Up to the Problem of Consciousness" (1995), Section 6. Quote genuine + author right, work wrong ([[verbatim-quote-cited-to-wrong-work]]). Both prior metadata passes self-ratified the 1996 attribution (found the phrase online — it lives in the 1995 paper — and matched it to the existing book cite without catching the year/work mismatch). Re-attributed to the 1995 paper; adjusted next subsection opener to "In the same 1995 paper," (avoids double title mention). *Conscious Mind* (1996) remains in References cited by-topic (intro electromagnetism-analogy), not orphaned.
+- **Quote-fidelity web-verify (PRIMARY)**: Chalmers "furniture" line — verbatim, wrong-work → fixed. Chalmers & McQueen "a research program worth exploring" — real-correct (faithful extract of "there is a research program here worth exploring," arXiv 2105.02314). Schaffer "t-shirt problem" — real-correct. No verbatim sibling-quotes in body (stale-internal-quote channel N/A).
+- **Citation-title verify (SECONDARY)**: Zheng & Meister "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" Neuron 113(2) 192-204 — real-correct (cell.com + arXiv 2408.10234). Chalmers & McQueen collapse-paper title — real-correct. Remaining 11 refs unchanged since 06-20 metadata ledger; spot-confirmed, no currency drift.
+- **Frontmatter**: ai_modified + last_deep_review bumped (2026-06-20 → 2026-07-16); ai_system held at claude-opus-4-6 (attribution fix is not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-16-psychophysical-laws-bridging-mind-and-matter]]
+
 ## 2026-07-16T02:20:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
