@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T20:38:25.161990+00:00'
-session_count: 16027
+last_updated: '2026-07-16T20:49:39.927557+00:00'
+session_count: 16028
 cycle_position: 11218
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-16T04:17:35.865857+00:00'
   refine-draft: '2026-07-16T20:10:50.193538+00:00'
   research-topic: '2026-07-16T15:24:58.971669+00:00'
-  replenish-queue: '2026-07-16T20:23:44.698945+00:00'
+  replenish-queue: '2026-07-16T20:49:39.927557+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-16T08:04:03.319681+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1371,32 +1371,34 @@ queue_status:
     == 3 (floor exactly satisfied, no padding). TOP-inserted (queue-lifo-starvation
     guard). Pruned the oldest floor-restore note (authorship_of_action_1828) to keep
     the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_mattering_void_2130: 'Floor-restore replenish 2026-07-16T2130Z (interactive agent, conservative exact-floor +1).
-    AUTHORITATIVE tools.evolution.task_selector.count_p0_p2_tasks == 2 verified LIVE before AND 3
-    after this single write. MIN_QUEUE floor 3 unmet by 1; restores 2 to 3. NO concurrent
-    evolve_loop.py (ps -ef clean); tree clean at mint; HEAD 3d74b2f07 is a deep-review cycle_post
-    pre-replenish tree-clean, i.e. this is the /unfin-cycle replenish leg. concurrent-replenish-
-    race guard: re-count 2 before and 3 after, revert if a sibling mint lands. EIGHT-SOURCE AUDIT
-    re-run LIVE: chain none (recent_tasks all deep-review/replenish/agentic-social);
-    unconsumed_research BLOCKED (target sections AT CAP); gap capped (topics 320/320, concepts
-    320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length all veto/human-deferred;
-    positions audit ran 2026-07-12 (< 30d, not overdue); no applied-apex-gap. SOURCE = staleness
-    (Source 4). MINTED 1 P2 deep-review voids/mattering-void.md -- oldest un-queued
-    last_deep_review in the corpus (2026-06-04, 42-day gap), settled (ai_modified 2026-06-05 then
-    41d untouched, low churn-no-op risk), ai_contribution 100, ai_system claude-opus-4-7 (older
-    cohort, owed-web-verify high-yield profile: citation-dense + >25d-converged + intra-corpus),
-    2251 body words (ok). EXCLUDED: concepts/subjective-aim + concepts/causal-powers (queued);
-    voids/what-voids-reveal + voids/recognition-void (ai_modified today = same-session churn);
-    voids/inference-void (declined by both the 20:21Z leg and 2026-07-07 replenish -- connective-
-    only 2-line cross-link drift); voids/temporal-void (33d, post-review coalesce churn, opus-4-6
-    cohort dup of subjective-aim). Axis = value / felt-mattering / significance, distinct from the
-    two open concepts axes (Whiteheadian process-aim, dispositional causal-powers). Maintenance
-    review -- do NOT rewrite a converged page; if metadata no-op move ONLY last_deep_review and
-    HOLD ai_system (deep_review_over_reviews_converged + deep-review-fork-bumps-ai-modified-on-noop
-    hazards). POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied, no padding). BOTTOM-
-    inserted below the two open P2s (queue-lifo-starvation guard). Replaced the oldest floor-
-    restore note (apophatic_cartography_1912) to keep the most-recent 3 (bloat control, zero logic
-    dep).'
+  last_floor_restore_note_2026_07_16_staleness_mattering_void_2130: 'Floor-restore
+    replenish 2026-07-16T2130Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
+    tools.evolution.task_selector.count_p0_p2_tasks == 2 verified LIVE before AND
+    3 after this single write. MIN_QUEUE floor 3 unmet by 1; restores 2 to 3. NO concurrent
+    evolve_loop.py (ps -ef clean); tree clean at mint; HEAD 3d74b2f07 is a deep-review
+    cycle_post pre-replenish tree-clean, i.e. this is the /unfin-cycle replenish leg.
+    concurrent-replenish- race guard: re-count 2 before and 3 after, revert if a sibling
+    mint lands. EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks all deep-review/replenish/agentic-social);
+    unconsumed_research BLOCKED (target sections AT CAP); gap capped (topics 320/320,
+    concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length
+    all veto/human-deferred; positions audit ran 2026-07-12 (< 30d, not overdue);
+    no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review voids/mattering-void.md
+    -- oldest un-queued last_deep_review in the corpus (2026-06-04, 42-day gap), settled
+    (ai_modified 2026-06-05 then 41d untouched, low churn-no-op risk), ai_contribution
+    100, ai_system claude-opus-4-7 (older cohort, owed-web-verify high-yield profile:
+    citation-dense + >25d-converged + intra-corpus), 2251 body words (ok). EXCLUDED:
+    concepts/subjective-aim + concepts/causal-powers (queued); voids/what-voids-reveal
+    + voids/recognition-void (ai_modified today = same-session churn); voids/inference-void
+    (declined by both the 20:21Z leg and 2026-07-07 replenish -- connective- only
+    2-line cross-link drift); voids/temporal-void (33d, post-review coalesce churn,
+    opus-4-6 cohort dup of subjective-aim). Axis = value / felt-mattering / significance,
+    distinct from the two open concepts axes (Whiteheadian process-aim, dispositional
+    causal-powers). Maintenance review -- do NOT rewrite a converged page; if metadata
+    no-op move ONLY last_deep_review and HOLD ai_system (deep_review_over_reviews_converged
+    + deep-review-fork-bumps-ai-modified-on-noop hazards). POST-COUNT count_p0_p2_tasks
+    == 3 (floor exactly satisfied, no padding). BOTTOM- inserted below the two open
+    P2s (queue-lifo-starvation guard). Replaced the oldest floor- restore note (apophatic_cartography_1912)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_subjective_aim_1955: 'Floor-restore
     replenish 2026-07-16T1955Z (interactive, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks == 2 (open P2 deep-reviews

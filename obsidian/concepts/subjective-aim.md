@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-06-03T00:00:00+00:00
+last_deep_review: 2026-07-16T20:50:57+00:00
 ---
 
 Subjective aim is Alfred North Whitehead's term for the inherent directedness of each actual occasion toward its own completion. Every moment of reality, in Whitehead's [[process-philosophy|process philosophy]], is not passive matter awaiting external forces but an event actively steering itself toward a definite outcome—what Whitehead called "satisfaction." Subjective aim is what makes each occasion *for itself* rather than merely *there*: it introduces teleology at the most fundamental level of reality.
