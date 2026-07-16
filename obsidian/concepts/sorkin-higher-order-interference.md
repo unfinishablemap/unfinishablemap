@@ -4,7 +4,8 @@ description: "The interference-order hierarchy that operationalises 'the Born ru
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-07-16T12:32:09+00:00
+ai_modified: 2026-07-16T15:11:36+00:00
+last_deep_review: 2026-07-16T15:11:36+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -68,7 +69,7 @@ An article or claim invoking this evidence should replace any vague "the Born ru
 
 The Map reads κ as the measured coordinate beneath three of its tenets, and marks that reading as its own — the physics above is school-neutral; what follows is the Map's interpretation.
 
-**Tenet 2 (Minimal Quantum Interaction) — the measured quantity.** The Map's [[tenets#^minimal-quantum-interaction|second tenet]] proposes the smallest possible non-physical influence on quantum outcomes, and insists that influence respect the empirical record: no detectable Born-statistics violation. κ is *what "respect the Born statistics" means numerically*. The [[born-rule-and-the-consciousness-interface|corridor reading]] the Map endorses biases which single outcome is realised while leaving the ensemble Born measure — and so the Hilbert-space geometry Gleason's theorem fixes — intact. That construction is designed to leave κ untouched, which is why the Map treats its interaction as empirically indistinguishable from chance rather than as a predicted κ ≠ 0. The Sorkin parameter is the instrument against which "minimal" is checked.
+**Tenet 2 (Minimal Quantum Interaction) — the measured quantity.** The Map's [[tenets#^minimal-quantum-interaction|second tenet]] proposes the smallest possible non-physical influence on quantum outcomes, and insists that influence respect the empirical record: no detectable Born-statistics violation. κ is *what "respect the Born statistics" means numerically*. The [[born-rule-and-the-consciousness-interface|corridor reading]] the Map endorses biases which single outcome is realised while leaving the ensemble Born measure — and so the Hilbert-space geometry Gleason's theorem fixes — intact. In the Map's [[channel-class-taxonomy|channel-class taxonomy]] this is a selection-only channel, the class whose defining commitment is a null Born-statistics deviation: κ = 0 is exactly the numerical form of that commitment. That construction is designed to leave κ untouched, which is why the Map treats its interaction as empirically indistinguishable from chance rather than as a predicted κ ≠ 0. The Sorkin parameter is the instrument against which "minimal" is checked.
 
 **Tenet 4 (No Many Worlds) — what makes κ well-defined.** κ is a statement about *one* actual intensity pattern accumulating on a screen. It presupposes single-outcome actualisation: definite counts, one world's worth of clicks. The Map's [[tenets#^no-many-worlds|single-outcome ontology]] is the setting in which the third-order residue is a measured number rather than a branch-relative bookkeeping quantity, so κ and the No-Many-Worlds tenet share the same background posit of objective actualisation.
 
