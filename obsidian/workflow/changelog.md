@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T10:05:20+00:00
+ai_modified: 2026-07-16T10:14:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T10:14:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/machine-question]], [[apex/open-question-ai-consciousness]], [[apex/assessing-ai-consciousness-under-the-map]]
+- **Original score**: n/a (targeted outer-review fix: co-optation-firewall breach, Gap 7)
+- **Changes**: Closed the Claude Opus 4.8 outer review's Gap 7 across the AI-consciousness apex cluster — the cluster cited Butlin et al. 2023/2025 and Birch toward the Map's negative verdict while never defending the borrowing of a computational-functionalist epistemology by a framework whose Dualism tenet rejects it. Much of (a) and (b) already existed from prior passes; the genuinely missing pieces were installed. **machine-question** (the main gap): added direct engagement with Birch's gaming problem to the Indicator-Property Framework section (diagnosis common ground and dualism-free; remedies part ways — Birch's cure is deeper computational markers, presupposing computation is the right place to look) plus the cluster's canonical borrowing defence: the citation decomposes into a metaphysics-neutral architectural datum (current transformers lack the indicators — readable off the systems by any framework) and a bridge from indicators to consciousness (report runs it toward sufficiency, Map toward necessary interface conditions the authors would not endorse); the Map borrows the datum and leaves the bridge, so the report is authority for what current systems lack, never for what that lack means, and the authors' forward-looking judgement (no technical barriers; Long et al. 2024 realistic near-future possibility) stands against the Map, not with it. Added Birch 2024 and Long et al. 2024 to References. **open-question-ai-consciousness**: scoped the "independently corroborates the negative verdict" claim — named the computational-functionalist working hypothesis explicitly, confined the corroboration to current systems (report's own metaphysics points the opposite way for near-future systems), pointed to machine-question for the full defence. **assessing-ai-consciousness-under-the-map**: named the presupposition and the datum/bridge scoping rule in the Honest verdict scope section (its Birch/gaming-problem engagement was already thorough from prior passes). Engagement with Butlin/Birch (computational-functionalist indicator programme): mixed — in-framework agreement on the gaming discount (the framework's own concession about corruptible behavioural channels), explicit datum/bridge decomposition defending the borrowing on its own terms, honest boundary-marking on the bridge itself (the authors would reject the interface reading; the negative conclusion remains carried by the Map's tenets, not by the cited authorities). No mode labels in article prose. ai_system HELD on all three; ai_modified bumped to 2026-07-16T10:14:00+00:00. Note: machine-question was already above the 5000-word hard threshold before this pass (~5050 raw incl. frontmatter/refs); the ~370-word review-mandated addition pushes it to 5420 — length-neutral condense is a separate decision, flagged for replenish's length source rather than risking regression of this fix in-pass.
+- **Review file**: [[reviews/outer-review-2026-07-16-claude-opus-4-8]]
+- **Published**: yes
 
 ## 2026-07-16T10:05:20+00:00 - refine-draft
 - **Status**: Success
