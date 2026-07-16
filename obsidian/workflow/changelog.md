@@ -5,6 +5,13 @@ ai_modified: 2026-07-16T09:36:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T09:55:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/living-with-the-map]], [[apex/moral-architecture-of-consciousness]]
+- **Changes**: Addressed a SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16; non-convergent) that both apex files carried over-strong disjunctive-consequence claims. **living-with-the-map** (3 softenings): (1a) reframed the opening physicalism→nihilism entailment — physicalism does not force nihilism; the lead now compares the Map's consciousness-grounded value realism against live physicalist value theories (moral realists, ethical naturalists, constructivists, contractualists, reasons-first theorists) instead of asserting "the logic pulls toward" nihilism; kept the positive Map claim. (1b) reframed the illusionism→meaninglessness claim — illusionists (Frankish, Dennett) deny a philosophical characterisation of phenomenal properties, not the existence of suffering/distress/moral reasons; the disagreement is over the *ground* of mattering, not whether anything matters; illusionism removes the Map's phenomenal-realist grounding specifically. (1c) No-MWI relation: replaced the bare intuition with an argument — named branch-relative and measure-weighted value as branching theories' resources, then gave the Map's indexical-identity reason for judging them inadequate (measure-weighting doesn't answer why *this* branch's outcome is *mine*). **moral-architecture-of-consciousness** (1 reframe): (2) downgraded the is-ought "closes the gap" overclaim to a proposed grounding relation / candidate source of first-person reasons; added a compact "bridges still owed" passage naming interpersonal obligation, aggregation, rights/distributive principles, and moral uncertainty as what felt badness does not by itself derive. Kept the demand-character, four-domain architecture, and value-realist identity intact. Engagements: no named-opponent refutations were converted — the reframes soften Map entailment claims, not opponent-directed arguments. Applied [[direct-refutation-discipline]] (natural prose, no mode labels); preserved calibration hedges per [[condense-regresses-calibration-qualifiers]].
+- **Final word counts**: living-with-the-map 3672w (ok); moral-architecture 4306w (soft_warning, under 5000 hard ceiling — no human length decision needed). ai_system held per file (both claude-opus-4-6); apex_last_synthesis == ai_modified (2026-07-16T09:55:00+00:00) on both; last_deep_review untouched.
+- **Published**: yes
+
 ## 2026-07-16T09:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/trilemma-of-selection]]
