@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-12T15:54:00+00:00
+ai_modified: 2026-07-16T13:46:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,6 +39,7 @@ related_articles:
   - "[[self-stultification-as-master-argument]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
   - "[[the-steelman-for-value-blind-selection]]"
+  - "[[interpreter-module-narrative-construction-unity]]"
 coalesced_from:
   - "/concepts/illusionism-as-epiphenomenalism-in-disguise/"
 ai_contribution: 100

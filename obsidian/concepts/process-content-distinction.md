@@ -4,7 +4,7 @@ description: "Introspection accesses the content of mental states reliably; intr
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-10T02:03:00+00:00
+ai_modified: 2026-07-16T13:46:56+00:00
 last_deep_review: 2026-07-10T02:03:00+00:00
 draft: false
 topics:
@@ -48,7 +48,7 @@ The verbal-report study series collected cases where the experimenters had indep
 
 **The post-decision rationalisation literature** that Daryl Bem (1972) developed in his self-perception theory work converges on the same shape. People given small inducements to perform attitude-discrepant behaviour come to report attitudes consistent with the behaviour, and they report those attitudes as if they had been there all along. The inference from behaviour to attitude — the actual generative process — is not introspectively accessible; what is accessible is the resulting content, which the subject treats as if it had been the input rather than the output.
 
-**Split-brain confabulation**, documented by Michael Gazzaniga and Joseph LeDoux through the 1970s and 1980s, demonstrates the same dissociation at neuroanatomical resolution. When stimuli are presented only to the right hemisphere of a callosotomy patient, the left-hemisphere "interpreter" produces fluent verbal explanations for behaviours it did not initiate and does not have causal information about. The interpreter does not report "I don't know why I did that"; it produces confident causal narratives that are demonstrably wrong. The generative process is not introspectively available; what introspection delivers is a confabulated reconstruction.
+**Split-brain confabulation**, documented by Michael Gazzaniga and Joseph LeDoux through the 1970s and 1980s, demonstrates the same dissociation at neuroanatomical resolution. When stimuli are presented only to the right hemisphere of a callosotomy patient, the left-hemisphere [[interpreter-module-narrative-construction-unity|"interpreter"]] produces fluent verbal explanations for behaviours it did not initiate and does not have causal information about. The interpreter does not report "I don't know why I did that"; it produces confident causal narratives that are demonstrably wrong. The generative process is not introspectively available; what introspection delivers is a confabulated reconstruction.
 
 **Recent phenomenal-control evidence** sharpens the picture. Lush (2020) and the surrounding hypnotic-suggestibility literature argue that participants' phenomenal reports in suggestion-based paradigms (rubber hand illusion, mirror-touch effects) reflect demand characteristics and trait phenomenal-control capacity rather than purely bottom-up perceptual processes. The reports of *what is being experienced* may be genuine; the inference *that the experience was caused by the manipulation* often is not.
 

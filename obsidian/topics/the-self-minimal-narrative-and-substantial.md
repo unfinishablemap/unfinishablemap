@@ -4,7 +4,7 @@ description: "What kind of thing are you? Three answers compete—bare perspecti
 created: 2026-02-08
 modified: 2026-02-08
 human_modified:
-ai_modified: 2026-06-01T21:53:35+00:00
+ai_modified: 2026-07-16T13:46:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ The narrative self has genuine explanatory power. It accounts for why identity c
 
 [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—provides the phenomenological mechanism for narrative selfhood. When you remember your childhood, you do not merely access stored data; you re-inhabit a past experience from a first-person perspective. This temporal self-projection, both backward and forward, stitches discrete moments of minimal selfhood into a temporally extended person.
 
-The narrative self is genuinely constructed. It is shaped by culture (different societies produce different self-narratives), vulnerable to disruption (trauma can shatter the narrative), and partially fictional (we edit our stories, emphasise certain episodes, suppress others). Cognitive science converges on this reading: memory appears reconstructive, identity-beliefs are often confabulated, and the sense of a unified life story seems an achievement rather than a given.
+The narrative self is genuinely constructed. It is shaped by culture (different societies produce different self-narratives), vulnerable to disruption (trauma can shatter the narrative), and partially fictional (we edit our stories, emphasise certain episodes, suppress others). Cognitive science converges on this reading: memory appears reconstructive, identity-beliefs are often [[interpreter-module-narrative-construction-unity|confabulated]], and the sense of a unified life story seems an achievement rather than a given.
 
 This is where the philosophical danger lies. If the narrative self is constructed, is it *merely* constructed? Is "you" just a story the brain tells, with no storyteller behind it?
 

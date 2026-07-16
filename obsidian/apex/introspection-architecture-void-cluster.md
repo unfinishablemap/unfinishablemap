@@ -4,7 +4,7 @@ description: "Five voids name distinct architectural mechanisms by which introsp
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-25T02:00:51+00:00
+ai_modified: 2026-07-16T13:46:56+00:00
 last_deep_review: 2026-06-25T02:00:51+00:00
 draft: false
 topics:
@@ -72,7 +72,7 @@ This synthesis walks from storytelling to source-tag to gating-signal to fabrica
 
 The five voids each isolate one face of a common architecture. Abstractly: a sub-personal system performs an operation whose endpoint reaches consciousness as a verdict; the verdict is phenomenally given with felt-rightness calibrated to its content rather than to its accuracy; the operation that produced the verdict is not exposed to introspection. The shared architecture is *bounded-access introspection*. Each void picks out a different operation the access is bounded around.
 
-- **Storytelling** ([[narrative-void]]). Consciousness constructs a coherent autobiographical narrative from fragmentary experience; the constructing process is invisible from inside the result. Gazzaniga's left-hemisphere interpreter, Nisbett-Wilson's verbal-reports findings, and Johansson-Hall's choice-blindness paradigm demonstrate the construction face: the storyteller operates without ever appearing as one of the items in the story. The [[process-content-distinction|process/content distinction]] supplies the formal naming the cluster's storytelling face presupposes — Nisbett-Wilson's founding statement was deliberately narrow (process-access reports are unreliable in ways subjects cannot detect from inside), and the cluster's broader structural claim builds on that backbone.
+- **Storytelling** ([[narrative-void]]). Consciousness constructs a coherent autobiographical narrative from fragmentary experience; the constructing process is invisible from inside the result. [[interpreter-module-narrative-construction-unity|Gazzaniga's left-hemisphere interpreter]], Nisbett-Wilson's verbal-reports findings, and Johansson-Hall's choice-blindness paradigm demonstrate the construction face: the storyteller operates without ever appearing as one of the items in the story. The [[process-content-distinction|process/content distinction]] supplies the formal naming the cluster's storytelling face presupposes — Nisbett-Wilson's founding statement was deliberately narrow (process-access reports are unreliable in ways subjects cannot detect from inside), and the cluster's broader structural claim builds on that backbone.
 
 - **Origin-tag failure** ([[source-attribution-void]]). Mental content lacks native origin tags. Whether a thought is self-generated, primed, retrieved, suggested, or confabulated cannot be read off the content itself; source is inferred from fluency, vividness, and narrative fit with self-image. Johnson, Hashtroudi and Lindsay's source-monitoring framework supplies the architectural statement; cryptomnesia (Brown and Murphy 1989) and source amnesia (Schacter, Harbluk and McLachlan 1984) supply the seam phenomena.
 
