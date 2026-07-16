@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T17:00:56+00:00 - deep-review
+- **Status**: Success (clean no-op convergence pass)
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Word count**: 2713 → 2713 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Key finding**: 8th deep review of the topics article (10+ prior review files); fully converged. Re-qualified only because today's coalesce (53b5e5da1) merged the sibling `concepts/neural-refresh-rates` into this survivor, bumping `ai_modified`. Body change was limited to three faithful, reciprocal internal cross-link sentences ([[quantum-neural-timing-constraints]], [[capability-division-problem]], [[smoothness-and-continuity]]) — all three targets resolve; the ~500 ms frontal theta figure verified as faithfully sourced (Rajan et al. 2019) and reciprocal in the quantum-timing sibling. References block byte-unchanged since the 2026-06-25 publisher-of-record pass — no new external cites, so no web-verify spend warranted (per-cite ledger inherited). No calibration slippage. Engagement modes unchanged (functionalist Mixed Mode-Two/Three, illusionist Mode Two, identity theory Mode One). Bumped ONLY `last_deep_review`; left `ai_modified` at coalesce value + `ai_system` claude-opus-4-6 (not re-authored). Strong convergence-exclusion candidate.
+- **Output**: [[reviews/deep-review-2026-07-16-neural-refresh-rates]]
+
 ## 2026-07-16T16:51:06+00:00 - deep-review
 - **Status**: Success (two quote-fidelity fixes on a converged article)
 - **File**: [[voids/self-opacity]]

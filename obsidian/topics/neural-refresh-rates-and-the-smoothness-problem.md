@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-06-25T00:00:00+00:00
+last_deep_review: 2026-07-16T17:00:56+00:00
 coalesced_from:
   - "/concepts/neural-refresh-rates/"
 ---
