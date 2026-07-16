@@ -5,6 +5,12 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T20:02:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: consciousness-value cluster — concepts/consciousness-value-connection.md (primary), cross-checked vs apex/living-with-the-map.md, apex/moral-architecture-of-consciousness.md, topics/phenomenal-value-realism.md, concepts/evaluative-phenomenal-character.md
+- **Key findings**: (1 HIGH) today's outer-review refine (335cb4f4b, "phenomenal badness does not close Hume's gap") fixed moral-architecture but MISSED apex/living-with-the-map.md:70, which still asserts "closes Hume's is-ought gap for experience" — live internal contradiction with the two grounding articles and its sibling apex. Queued P2 refine-draft. (2 MED) consciousness-value-connection.md illusionism rebuttal (line 116) concedes a "quasi-phenomenal" functional state "plays the value-grounding role," in tension with its own necessity thesis (line 48) — equivocation on "matters". Folded into same P2.
+- **Output**: [[reviews/pessimistic-2026-07-16-consciousness-value-connection]]
+
 ## 2026-07-16T19:50:39+00:00 - deep-review
 - **Status**: Success (converged 8th review; older-cohort claude-opus-4-7 scrutinized on attribution-precision lens — surfaced ONE theology-attribution fix all 7 prior reviews missed)
 - **File**: [[concepts/apophatic-cartography-four-criteria]]
