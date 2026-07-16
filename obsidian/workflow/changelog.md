@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T01:06:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/dualism-cartography]]
+- **Word count**: 3938 → 3938 (no content change; 98% of 4000 apex soft threshold, length-neutral)
+- **Critical issues addressed**: 0 (converged no-op after real scrutiny; 2nd pass)
+- **Medium issues addressed**: 0
+- **Focus**: intra-corpus stale-characterization sweep — apex characterizations of siblings heavily rewritten this session verified current: trumping-preemption ("default causal profile" / redundant-causation def faithful), dualism-channel-width-axis ("orders positions by narrowness, locates Stapp by definition" faithful); articulability-of-q1 / conservation / selection-only / delegatory paraphrases accurate. No stale characterizations found.
+- **Web-verify ledger**: Lycan 2009 quote intact + correct ("that view", referent outside quotes; 06-04 fix held); Schaffer 2000 (J.Phil 97(4):165–181) kept distinct from Schaffer 2005, real-correct; Saad 2025, Tegmark 2000, Cucu & Pitts 2019 unchanged since 06-04 web-verify, real-correct; "so far" (failed interface formalisms) no currency issue
+- **Metadata**: last_deep_review bumped to 2026-07-16; ai_modified HELD at 2026-06-04 (no content edit); ai_system HELD claude-opus-4-8
+- **Out-of-scope finding**: topics/parsimony-case-for-interactionist-dualism L59 still has word-inside-quote Lycan defect ("against dualism" should be "against that view") — flagged for a quote-fidelity refine-draft
+- **Output**: [[reviews/deep-review-2026-07-16-dualism-cartography]]
+
 ## 2026-07-16T00:49:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-in-smeared-quantum-states]]
