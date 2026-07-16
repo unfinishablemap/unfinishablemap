@@ -4,7 +4,7 @@ description: "What consciousness-first philosophy means for daily life. The Map 
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-07-16T09:55:00+00:00
+ai_modified: 2026-07-16T20:10:00+00:00
 last_deep_review: 2026-07-06T13:04:39+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ apex_sources:
   - concepts/moral-responsibility
   - concepts/nihilism-and-existentialism
   - topics/free-will
-apex_last_synthesis: 2026-07-16T09:55:00+00:00
+apex_last_synthesis: 2026-07-16T20:10:00+00:00
 apex_thesis: "If consciousness is fundamental and our choices genuinely matter, then the quest to understand our situation—what we are, why we exist, what we should do—becomes the essential precursor to every meaningful decision. The Map offers not just a metaphysical picture but practical guidance: pursue answers because they may be within reach, and let that pursuit inform how you live."
 embedded_videos:
   - id: sgXxVi3Qlmw
@@ -67,7 +67,7 @@ The Map's [[tenets#^dualism|Dualism tenet]] asserts that consciousness is not re
 
 This matters practically because it grounds the significance of your experience in phenomenal character. If [[illusionism|illusionism]] were correct—if phenomenal consciousness were a representational fiction rather than a real feature—then this particular grounding would be unavailable. Illusionists such as Frankish and Dennett do not deny that people suffer, feel distress, or have reasons to avoid harm; they deny a specific philosophical characterisation of what phenomenal properties are, and offer functional or representational accounts of why suffering matters in its place. The disagreement is over the *ground* of mattering, not over whether anything matters at all. What illusionism removes is the Map's phenomenal-realist account of that ground—the claim that the badness of suffering is a felt quality of experience itself rather than a functional role.
 
-[[topics/phenomenal-value-realism|Phenomenal value realism]] offers the opposite view: the goodness of pleasure and the badness of suffering are features of conscious experience itself. [[evaluative-phenomenal-character|Phenomenal normativity]] provides the answer to why: when you attend to what pain feels like—not abstractly, but in lived experience—you are directly acquainted with something bad. The badness is constitutive of pain's phenomenal character, not inferred from it or projected onto neutral sensation. Pleasure works the same way: the goodness is what you're experiencing, not a separate evaluation attached from outside. This closes Hume's is-ought gap for experience—the phenomenal "is" already contains normativity.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] offers the opposite view: the goodness of pleasure and the badness of suffering are features of conscious experience itself. [[evaluative-phenomenal-character|Phenomenal normativity]] provides the answer to why: when you attend to what pain feels like—not abstractly, but in lived experience—you are directly acquainted with something bad. The badness is constitutive of pain's phenomenal character, not inferred from it or projected onto neutral sensation. Pleasure works the same way: the goodness is what you're experiencing, not a separate evaluation attached from outside. The phenomenal-value realist does not *derive* an ought from an is; it *identifies* the normative fact with the phenomenal fact—the badness *is* a feature of the experience, not deduced from it. This dissolves the demand for a bridge rather than achieving a formal closure of Hume's logical gap, which still stands: felt badness supplies *first-person* reasons, with the interpersonal, aggregative, and rights bridges to a full ethics still owed (see [[moral-architecture-of-consciousness]]).
 
 This grounding goes beyond simple hedonism. Multiple features of conscious experience carry intrinsic value: hedonic valence, aesthetic quality, meaning, agency, understanding, and connection. This *phenomenal value pluralism* means a good life isn't simply maximising pleasure—it's cultivating richness across multiple dimensions of experience.
 

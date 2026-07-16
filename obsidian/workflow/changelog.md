@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T20:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/living-with-the-map]] (primary); [[concepts/consciousness-value-connection]] (secondary, same pass)
+- **Original score**: n/a (targeted contradiction fix from pessimistic-2026-07-16-consciousness-value-connection)
+- **Changes**:
+  - living-with-the-map:70 — replaced the "This closes Hume's is-ought gap for experience" overclaim with the identity-not-derivation framing already used in the grounding articles: the phenomenal-value realist does not *derive* an ought from an is but *identifies* the normative fact with the phenomenal fact, dissolving the demand for a bridge rather than achieving a formal closure of Hume's logical gap ("which still stands"), and notes the still-owed interpersonal/aggregative/rights bridges (cross-links to moral-architecture). Now consistent with moral-architecture:102, phenomenal-value-realism:82, evaluative-phenomenal-character:86. Phenomenal-realist substance (badness constitutive, directly acquainted, not projected) preserved. Length-neutral, apex voice held.
+  - consciousness-value-connection:116 — split the equivocation on "matters" in the illusionism rebuttal: a quasi-phenomenal functional state can play the *practical* value-*tracking* role, but that is not what intrinsic mattering *consists in* (the felt quality is), restating the necessity thesis (line 48) rather than conceding against it.
+- **Attribution**: ai_system HELD on both (targeted fix, not re-authoring); ai_modified bumped; living-with-the-map apex_last_synthesis kept == ai_modified.
+- **Published**: yes
+
 ## 2026-07-16T20:02:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: consciousness-value cluster — concepts/consciousness-value-connection.md (primary), cross-checked vs apex/living-with-the-map.md, apex/moral-architecture-of-consciousness.md, topics/phenomenal-value-realism.md, concepts/evaluative-phenomenal-character.md
