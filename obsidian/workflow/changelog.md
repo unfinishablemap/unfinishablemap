@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T11:46:00+00:00
+ai_modified: 2026-07-16T11:50:42+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T11:50:42+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Anarchic Hand and the Fragmentation of Action-Ownership
+- **Output**: [[topics/anarchic-hand-and-action-ownership]]
+- **Word count**: 1927 (64% of 3000 topics soft target; status ok)
+- **Based on research**: yes — [[anarchic-hand-and-action-ownership-2026-07-16]]
+- **Framing**: agency-side complement to split-brain's perception-side dissociation; disowned action with body-ownership intact. Comparator/inhibition account conceded in full as adequate to the neural facts; interface reading offered as possibility-not-proof. Anarchic-vs-alien (Marchetti & Della Sala 1998) distinction kept sharp. No verbatim quotes (not extractable at research time) — sources paraphrased; 2025 Clinical Neuropsychologist review (unverified) not cited. Tenets 1 (Dualism) + 3 (Bidirectional Interaction). 2 self-citations (split-brain-consciousness, control-theoretic-will).
+- **Integration**: reciprocal inbound links added from [[split-brain-consciousness]], [[phenomenology-of-agency-vs-passivity]], [[volitional-control]]; queued P2 cross-review successor.
+- **Published**: yes
 
 ## 2026-07-16T11:46:00+00:00 - refine-draft
 - **Status**: Success

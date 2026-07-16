@@ -3,7 +3,7 @@ title: "Volitional Control"
 created: 2026-03-20
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-07-06T11:03:24+00:00
+ai_modified: 2026-07-16T11:50:42+00:00
 draft: false
 description: "The experience of willing tracks real causal architecture, not post-hoc confabulation. Phenomenology and empirical evidence converge against epiphenomenalism."
 topics:
@@ -74,7 +74,7 @@ The strongest empirical evidence that the sense of agency tracks real causal str
 
 **Schizophrenic delusions of control.** Patients with first-rank symptoms report that their bodies move but that someone or something else is causing the movements. Gallagher (2000) analysed this phenomenology: ownership remains intact — "this is my arm" — while agency vanishes — "I am not the one moving it." The comparator model developed by Frith (1992) and refined by Blakemore, Wolpert, and Frith (2002) explains why. In normal voluntary action, the motor system generates an efference copy — a prediction of the sensory consequences of the intended movement. When feedback matches prediction, the movement is experienced as self-generated. In schizophrenia, the comparator malfunctions: predicted and actual feedback diverge, and the movement is attributed to an external source. Blakemore et al. (1998) confirmed this: healthy subjects cannot tickle themselves because efference copy attenuates self-generated sensation. Schizophrenic patients *can* tickle themselves — the same comparator failure that produces delusions of control.
 
-**Anarchic hand syndrome.** Patients with medial frontal or callosal lesions experience a hand that performs goal-directed actions — reaching for objects, unbuttoning clothes — that the patient does not intend and cannot stop. Ownership is preserved: "that is my hand." Agency is absent: "I am not doing this." Della Sala, Marchetti, and Spinnler (1991) documented cases where the anarchic hand actively opposed the patient's voluntary actions with the other hand.
+**[[anarchic-hand-and-action-ownership|Anarchic hand syndrome]].** Patients with medial frontal or callosal lesions experience a hand that performs goal-directed actions — reaching for objects, unbuttoning clothes — that the patient does not intend and cannot stop. Ownership is preserved: "that is my hand." Agency is absent: "I am not doing this." Della Sala, Marchetti, and Spinnler (1991) documented cases where the anarchic hand actively opposed the patient's voluntary actions with the other hand.
 
 **Anosognosia for hemiplegia.** After right-hemisphere stroke, some patients deny that their paralysed limb is impaired, insisting they have just moved it when they have not (Berti et al., 2005). Here agency is falsely present while execution is absent — the mirror image of anarchic hand.
 

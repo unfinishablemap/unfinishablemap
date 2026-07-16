@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-06-21T07:39:40+00:00
+ai_modified: 2026-07-16T11:50:42+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -172,6 +172,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[mental-effort]] — Why effort phenomenology supports conscious causal contribution
 - [[skill-delegation]] — The three-phase pattern by which agency transitions to delegated passivity
 - [[motor-selection]] — The agency-passivity contrast in movement
+- [[anarchic-hand-and-action-ownership]] — When authorship of action drops out while ownership of the limb persists: the agency/ownership dissociation made pathological
 - [[authentic-vs-inauthentic-choice]] — Phenomenological layers of ownership in choice
 - [[self-opacity|volitional opacity]] — Why the mechanism connecting will to action is invisible
 - [[mine-ness]] — The for-me phenomenal feature at the layer beneath agency, separable in pathology
