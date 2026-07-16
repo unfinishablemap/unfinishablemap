@@ -5,6 +5,13 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T02:43:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/epistemology-of-convergence-arguments.md (flagship, 6609w; never previously pessimistically reviewed; ai_modified/last_deep_review 2026-07-13)
+- **Findings**: 2 High + 1 Medium critical issues, all "stated-flat-in-conclusion-vs-conceded-contested-in-body" over-statements: (1) independence condition deflated for rival clusters but relaxed for the Map's own philosophical cluster via the "subject matter itself" reclassification; (2) vitalism disanalogy asserted flatly at line 185 whose modal force is borrowed from separately-contested conceivability/knowledge arguments (line 119 concedes illusionism has "real force"); (3) load-bearing specificity criterion admittedly unoperationalised yet carries the Berent/McGinn rebuttals. Plus 3 unsupported-claim softenings (Barrett-2021 over-read, Chalmers "falsifiable" over-claim, diachronic-robustness canon-selection concession). Reasoning-mode discipline SATISFIED (no boundary-substitution, no label leakage); altered-state symmetry audit PASSES (compound-signature section refuses N-fold counting).
+- **Task queued**: 1 in-contract refine-draft on the reviewed article (P2, consolidating all findings — convergent downgrades, not new content)
+- **Output**: [[reviews/pessimistic-2026-07-16-epistemology-of-convergence-arguments]]
+
 ## 2026-07-16T02:31:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
