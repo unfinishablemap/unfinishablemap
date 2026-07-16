@@ -4,7 +4,7 @@ description: "The Map's positions on free will and agency: the agent-causal libe
 created: 2026-06-08
 modified: 2026-06-08
 human_modified: 2026-06-08
-ai_modified: 2026-07-06T22:14:47+00:00
+ai_modified: 2026-07-16T07:48:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -37,12 +37,14 @@ These positions cover what the Map holds about agency: whether choices are genui
 
 **Mechanism debt inherited, not discharged.** Where these positions assert that consciousness *authors* or *selects* — that it does genuine causal work — they inherit the open mechanism debt logged in the quantum-interface register: no worked toy model of how selection couples to a neural quantum state, and the bias-without-deviation dilemma (selection that does real work while preserving Born statistics exactly) sitting close to epiphenomenalism until a positive account lands. The agency case is held to survive even if the specific quantum mechanism is wrong, so these positions do not *depend* on the debt being paid; but they should not read more confident about the metaphysics of causal work than the upstream register does. Full statement of the crux: [[positions/quantum-interface#^mechanism-debt|the quantum-interface register's mechanism-debt anchor]].
 
+**Calibration schema (2026-07-16).** Every position below now carries the [[methodology-and-calibration#^calibration-schema|multi-axis calibration block]] (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only) in place of the former single confidence band, following the outer-review conflation finding (ChatGPT + Claude, 2026-07-16) that the single band measured structural centrality rather than credence or external evidence. Substantive claims, statuses, and dependencies are unchanged. *Updated 2026-07-16: calibration migration.*
+
 ## Positions
 
 ## P-A1: The Map holds agent-causal libertarian free will
 
 - **Status**: live
-- **Confidence**: moderate
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence moderate · external-evidence grade C (neural willed-vs-instructed data and the argument from reason; the phenomenology/cross-cultural anchors are discounted under the intuitive-dualism common-cause null) · structural centrality high (the agency register's spine — P-A2, P-A3, P-A5 hang from it) · model maturity developed · empirical discriminability indirect · framework-internal only: no
 - **Asserts**: The Map commits to libertarian free will of an *agent-causal* kind: the conscious agent, as a persisting subject, directly originates at least some choices, irreducibly to prior mental or physical events. The case rests on a convergent set of anchors — the phenomenology of effort and willing, neural data distinguishing willed from instructed action, the argument from reason, clinical neuroplasticity, and cross-cultural convergence on substance-causal accounts of persons — no one of which is privileged, and on the [[trilemma-of-selection]] (determinism, randomness, or authorship exhaust the options at an indeterminate decision point). The phenomenology and cross-cultural anchors are discounted for the intuitive-dualism common-cause null — [[concepts/intuitive-dualism]] reads such convergence as evolved cognitive architecture, which screens off the inference from "everyone believes it" to "it is true" (the same discipline [[positions/voids-as-evidence]] applies to the void catalogue) — so the convergence claim rests on the genuinely independent subset, the neural willed-vs-instructed data and the argument from reason. The position is held as the best explanation of the convergent evidence rather than as a proven result; it is contested at the agent-causal step, and the Map concedes that the deliberative phenomenology alone settles nothing between libertarian and compatibilist readings — the felt data being compatible with either taken on its own, so that the agent-causal step is presently underdetermined by the evidence and rests on the convergence of anchors rather than on any single one.
 - **Depends on**: Tenets 1 and 3; the [[trilemma-of-selection]]; the convergent-anchor argument in [[concepts/agent-causation]]; P-A4 (verification limit caps the confidence)
 - **Argued in**: [[topics/free-will]], [[concepts/agent-causation]], [[apex/consciousness-and-agency]]
@@ -54,7 +56,7 @@ These positions cover what the Map holds about agency: whether choices are genui
 ## P-A2: Authorship requires agent causation, not merely event-causal indeterminism
 
 - **Status**: live
-- **Confidence**: moderate
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence moderate · external-evidence grade D (a metaphysical requirement claim — substance/immanent causation in Chisholm's and Lowe's sense; no independent empirical support) · structural centrality moderate · model maturity developed · empirical discriminability none · framework-internal only: yes
 - **Asserts**: The Map holds that genuine authorship is not delivered by event-causal libertarianism (free actions caused by nondeterministic mental events), because if prior mental events the agent did not choose cause the decision, the causal chain traces back beyond the agent's control. Authorship requires *immanent* (agent-as-substance) causation in Chisholm's and Lowe's sense: the agent is the causal source, an "uncaused cause" in the sense of uncaused-by-events. This is the third horn of the [[trilemma-of-selection]] and the Map's reading of the [[luck-objection]] — active choosing, reasons-guided and effortful, differs in kind from passive reception of a random outcome. The commitment is held with moderate confidence: substance causation is a live but minority metaphysics, and the luck objection is answered rather than dissolved.
 - **Depends on**: P-A1; substance causation (Lowe 2008); the [[luck-objection]] response; Tenet 1
 - **Argued in**: [[concepts/agent-causation]], [[concepts/four-category-ontology]], [[concepts/luck-objection]], [[topics/free-will]]
@@ -67,7 +69,7 @@ These positions cover what the Map holds about agency: whether choices are genui
 ## P-A3: Libet-style timing data does not refute conscious causation
 
 - **Status**: live
-- **Confidence**: moderate
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence moderate · external-evidence grade B (independent Libet-reinterpretation literature — Schurger 2012, Sjöberg 2024, Desmurget 2009, Soon 2008 — weakens the standard reading; the atemporal-selection add-on is held weakly) · structural centrality low · model maturity developed · empirical discriminability direct · framework-internal only: no
 - **Asserts**: The Map holds that the Libet/Soon readiness-potential findings do not establish that conscious will is epiphenomenal. The standard interpretation has been substantially weakened on independent grounds the Map accepts as constraining-but-not-decisive: Schurger et al. (2012) reinterpret the readiness potential as an accumulator artefact of neural noise; Sjöberg (2024) finds SMA-resection patients retain voluntary agency; Desmurget (2009) dissociates parietal intention from premotor execution; and Soon's ~60% prediction accuracy leaves residual variance. The Map's own resolution adds an initiation/selection distinction (consciousness selects among brain-prepared options) and, more speculatively, an atemporal-selection reading that dissolves the timing puzzle. The empirical critiques are held with more confidence than the atemporal reading, which is flagged as a hypothesis. The atemporal reading belongs to the time-symmetric / retrocausal family; where the Map expresses a *mechanism* preference it favours forward-in-time post-decoherence selection (P-Q1, [[topics/forward-in-time-conscious-selection]]), against which the retrocausal route is the foil. The atemporal reading is therefore a subordinate, weakly-held fallback within this position — a way of dissolving the timing puzzle *if* the forward-in-time preference fails — not a competing primary mechanism claim, and the initiation/selection distinction (which is mechanism-agnostic) carries the main load.
 - **Depends on**: P-A1; Schurger 2012, Sjöberg 2024, Desmurget 2009, Soon 2008; the atemporal-selection hypothesis (held weakly, subordinate to the forward-in-time mechanism preference in P-Q1)
 - **Argued in**: [[concepts/libet-experiments]], [[topics/free-will]]; cross-domain: [[positions/quantum-interface]] P-Q1, [[topics/forward-in-time-conscious-selection]]
@@ -78,7 +80,7 @@ These positions cover what the Map holds about agency: whether choices are genui
 ## P-A4: Conscious causal efficacy cannot be verified from the first person
 
 - **Status**: live
-- **Confidence**: high
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence high · external-evidence grade n/a (meta-epistemic — constrains how the case can be argued, asserts nothing about the world) · structural centrality high (caps the achievable confidence of P-A1) · model maturity developed · empirical discriminability n/a (meta-epistemic) · framework-internal only: no
 - **Asserts**: The Map holds that no agent can certify its own causal efficacy by introspection, because every such check is performed by the faculty whose causal status is in question. This verification limit is symmetric: epiphenomenalism cannot verify itself either, since on that view the belief "consciousness is inert" was not caused by consciousness. The Map treats this as a structural feature of the territory — the [[agency-void]] — not a defect of the agent-causal view, and it is the reason the case for P-A1 rests on convergent structural anchors rather than on introspective proof. The position is meta-epistemic: it constrains *how* the agency case can be argued and caps the achievable confidence, rather than asserting anything about the world.
 - **Depends on**: the verification-circularity argument; [[voids/agency-void]]; honest accounting
 - **Argued in**: [[voids/agency-void]], [[concepts/agent-causation]], [[topics/free-will]]
@@ -88,7 +90,7 @@ These positions cover what the Map holds about agency: whether choices are genui
 ## P-A5: The agency case is distinguished from compatibilism by tenet-coherence, not unique moral explanatory power
 
 - **Status**: live
-- **Confidence**: moderate
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence moderate · external-evidence grade n/a (normative — a discipline against over-claiming) · structural centrality low · model maturity developed · empirical discriminability n/a (normative) · framework-internal only: no
 - **Asserts**: The Map holds, as a discipline against over-claiming, that its libertarian framing does *not* do unique explanatory work over sophisticated reasons-responsive compatibilism (Frankfurt, Fischer & Ravizza, Wolf) at the level of moral practice: the same deliberative phenomenology, praise/blame practices, and character-formation arc are plausibly securable on a compatibilist scaffold. What distinguishes the libertarian reading is its coherence with the Map's other tenets — adopted on grounds beyond moral theory — together with a narrow residue where libertarian agency may do separating work: ultimate desert in retributive contexts, certain readings of "could have done otherwise," and the metaphysics of genuine alternatives. This is the [[compatibilist-symmetry-challenge]], registered explicitly so the moral case is not overstated.
 - **Depends on**: P-A1; the [[compatibilist-symmetry-challenge]]; [[project/evidential-status-discipline]]
 - **Argued in**: [[concepts/compatibilist-symmetry-challenge]], [[topics/free-will]], [[topics/moral-implications-of-genuine-agency]]

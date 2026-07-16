@@ -4,7 +4,7 @@ description: "The Map's explicit, maintained register of positions it currently 
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-07-16T05:14:00+00:00
+ai_modified: 2026-07-16T07:48:00+00:00
 draft: false
 topics: []
 concepts:
@@ -46,7 +46,7 @@ Each domain file in this section is a short register of positions of the form:
 
 Calibration follows the multi-axis schema defined authoritatively in [[methodology-and-calibration#^calibration-schema|Methodology and calibration]]. An outer-review convergence finding (2026-07-16, ChatGPT + Claude) showed the register's original single **Confidence** band conflated two independent things: it was defined by *how much the Map would restructure if the position were overturned* — which is **structural centrality**, not confidence, evidential support, or probability. A position can be highly central to the framework yet weakly supported by independent evidence (the quantum-interface positions P-Q2 and P-Q7 are the clearest cases). Each entry is therefore calibrated on six components: **credence** (the Map's subjective probability the claim is true), **external-evidence grade** (A–D strength of *independent* empirical support, or *n/a* for normative/meta positions), **structural centrality** (the old single band, correctly relabelled), **model maturity**, **empirical discriminability**, and a **framework-internal only** flag (set where a claim follows primarily from the tenets rather than independent evidence). Hedging language in the **Asserts** paragraph should match the *credence* and *external-evidence* axes, not the centrality one. See [[evidential-status-discipline]] for the underlying evidence vocabulary.
 
-**Calibration schema migration status (2026-07-16).** The multi-axis schema is fully applied in [[methodology-and-calibration|Methodology and calibration]] (its definitional home) and [[quantum-interface|Quantum interface]] (the domain the conflation finding targeted most directly). The remaining domain files still carry the legacy single **Confidence** band and are queued for per-file migration: [[agency-and-will|Agency and will]], [[voids-as-evidence|Voids as evidence]], [[value-in-selection|Value in selection]], [[individuation-and-subjecthood|Individuation and subjecthood]], [[consciousness-scope|Consciousness scope]], and [[ai-consciousness-scope|AI consciousness scope]]. Until each is migrated, read its single **Confidence** band as *structural centrality*, not as credence or external likelihood.
+**Calibration schema migration status (2026-07-16).** The multi-axis schema is now applied across **all** domain files. It was first landed in [[methodology-and-calibration|Methodology and calibration]] (its definitional home) and [[quantum-interface|Quantum interface]] (the domain the conflation finding targeted most directly), then extended to the six remaining files on 2026-07-16: [[agency-and-will|Agency and will]], [[voids-as-evidence|Voids as evidence]], [[value-in-selection|Value in selection]], [[individuation-and-subjecthood|Individuation and subjecthood]], [[consciousness-scope|Consciousness scope]], and [[ai-consciousness-scope|AI consciousness scope]]. Every live position now carries the multi-axis calibration block in place of the legacy single **Confidence** band; the migration is complete.
 
 ## Domains
 

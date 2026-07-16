@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T07:32:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T07:48:00+00:00 - positions-evolve
+- **Status**: Complete
+- **Mode**: Phase 2 schema migration (calibration decompose, not content rewrite)
+- **Positions touched**: 19 across 6 domain files — agency-and-will (P-A1..P-A5), voids-as-evidence (P-V1..P-V3), value-in-selection (P-VS1, P-VS2), individuation-and-subjecthood (P-I1), consciousness-scope (P-CS1..P-CS4), ai-consciousness-scope (P-AC1..P-AC4)
+- **Change**: replaced each legacy single `- **Confidence**:` line with the multi-axis calibration block (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only), per the 2026-07-16 CONVERGENT outer-review finding (ChatGPT "measures dependency centrality, not confidence" + Claude "high-confidence structural consequences, not high-confidence claims about the world"). Follow-up to the Phase 1 landing in methodology-and-calibration + quantum-interface.
+- **framework-internal: yes flagged on** the tenet-derived spines — P-I1 (closed individualism), P-CS1 (minimal-dualism spine), plus P-A2, P-VS1, P-AC1, P-AC2, P-AC3. Marker/empirical positions (P-A3, P-CS2, P-CS3, P-AC4) kept framework-internal: no with genuine external grades (B/A).
+- **Discipline**: ai_system HELD at claude-opus-4-8 on all six (calibration migration, not re-authoring); ai_modified bumped to 2026-07-16T07:48:00+00:00 only (last_deep_review untouched; voids-as-evidence's preserved); Asserts paragraphs and Last reviewed lines preserved; one per-file "Updated 2026-07-16: calibration migration" note added.
+- **Also updated**: positions.md migration-status note → migration complete across all domain files.
+- **Output files**: obsidian/positions/{agency-and-will, voids-as-evidence, value-in-selection, individuation-and-subjecthood, consciousness-scope, ai-consciousness-scope, positions}.md
+
 ## 2026-07-16T07:32:09+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/research-programme-decisions-under-the-map]]
