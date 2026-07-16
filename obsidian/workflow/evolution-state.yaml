@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T01:09:34.671647+00:00'
-session_count: 15836
-cycle_position: 11110
+last_updated: '2026-07-16T01:14:30.220578+00:00'
+session_count: 15837
+cycle_position: 11111
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-15T22:37:03.731567+00:00'
   optimistic-review: '2026-07-15T23:28:43.097461+00:00'
   check-tenets: '2026-07-15T21:46:03.023374+00:00'
   check-links: '2026-07-15T21:33:53.203940+00:00'
-  deep-review: '2026-07-16T01:09:34.671647+00:00'
+  deep-review: '2026-07-16T01:14:30.220578+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-15T21:36:43.844116+00:00'
   coalesce: '2026-07-16T00:14:43.887670+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 510
-  reviews_completed: 6392
+  reviews_completed: 6393
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-07-15'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-07-15'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-07-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-16'
   outcome: success
 - task: deep-review
@@ -1346,12 +1346,46 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 65
+  p2_tasks: 66
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T00:56:00+00:00'
-  last_replenishment_prev: '2026-07-16T00:40:00+00:00'
+  last_replenishment: '2026-07-16T01:15:00+00:00'
+  last_replenishment_prev: '2026-07-16T00:56:00+00:00'
+  last_floor_restore_note_2026_07_16_staleness_deep_review_7: 'Floor-restore replenish
+    2026-07-16T0115Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
+    == 2 (single-cell-proto-agency cross-review + the parsimony-case Lycan quote-fix
+    refine-draft); the 0056Z individuation deep-review reached POST-COUNT 3, then it
+    executed and drained 3->2. Floor unmet by 1. SOURCE AUDIT re-verified LIVE: chains
+    have no un-emitted successor (single-cell cross-review is a pending TASK not a source;
+    pending_articles empty); unconsumed_research EXHAUSTED (this-session 2026-07-15
+    research notes consumed into published articles); gap cap-governed (topics ~318/320,
+    concepts ~317/320); no new auto-condense candidate (breaches all human-decision-blocked
+    or veto-tagged); harvest-research-subjects (~02:48) owns externally-flagged subjects.
+    STALENESS the only viable source. SOURCE USED: staleness (Source 4). MINTED 1 P2
+    deep-review of topics/pragmatisms-path-to-dualism.md - deliberately P2 not default-P3
+    so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves). Target
+    chosen on DEFECT-CLASS PROFILE not age/review-count (both unreliable): actual prior
+    deep-reviews ~6 per git log, yet quote-fidelity is orthogonal to metadata review
+    (memory quote-fidelity-defects-survive-metadata-reviews). Genuinely stale + settled:
+    last_deep_review == ai_modified == 2026-06-20T08:44:33 (~25.7d), off this session''s
+    touch-list (2026-07-15/16 verified). Densest James/pragmatism-cluster node (27 year-cites,
+    ~24 long external quotes, 3910w body = soft_warning topics soft 3000 / hard 4000
+    - LENGTH-NEUTRAL-TO-TRIMMING, flag human length decision not auto-condense if fixes
+    push over). Carries verbatim quotes attributed to PRIMARY works that are the exact
+    SEP-paraphrase-as-quote risk: James "Does Consciousness Exist?" (1904), Peirce "The
+    Architecture of Theories" (1891) + "is not to be reinstated without tychism", and
+    the "explanation is not in the territory but in the map-maker" line - primary lens
+    is verbatim quote-fidelity verified at the primary publisher NOT via unfinishablemap.org
+    (memory quote-verify-self-contamination-via-own-page). Secondary: intra-corpus quote
+    channel to william-james-consciousness (reviewed 2026-07-12) and the panpsychism/combination
+    cluster rewritten THIS session (panpsychism, combination-problem, constitutive-exclusion)
+    - re-grep in-quote strings vs current sibling bodies (apex-stale-internal-quote-channel).
+    Task note carries HOLD-ai_system (claude-opus-4-6) + no-op-damping (move only last_deep_review
+    on a converged no-op) + date -u stamp guard per memory. FIFO-placed BELOW the two
+    older open P2s (single-cell cross-review, Lycan quote-fix) so they drain first (queue-lifo-starvation
+    guard). POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly satisfied, no
+    padding).'
   last_floor_restore_note_2026_07_16_staleness_deep_review_6: 'Floor-restore replenish
     2026-07-16T0056Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
     == 2 (single-cell-proto-agency cross-review + apex/dualism-cartography staleness
