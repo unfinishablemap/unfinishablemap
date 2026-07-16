@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T01:50:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Word count**: 3910 → 3921 (+11; 131% of 3000 topics soft, under 4000 hard — length-neutral-to-marginal)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (both verbatim quote-fidelity, primary-publisher verified — survived 7 prior metadata/stance reviews per [[quote-fidelity-defects-survive-metadata-reviews]])
+  1. **Peirce dropped-word**: consciousness "is not to be reinstated without tychism" → restored verbatim "is not to be **so** reinstated without tychism" (primary text: "Consciousness is not to be so reinstated without tychism; nor can the work be accomplished by assigning to the mind an occult power"). "so" is anaphoric (= reinstated *as a factor of the universe*); supplied the antecedent inline. Attribution to Peirce's tychism corpus correct; substance genuine.
+  2. **Peirce paraphrase-as-quote**: universe "suffused with mind" is NOT verbatim Peirce (genuine phrases: "matter is effete mind", "perfused with signs"). De-quoted to the article's own paraphrase.
+- **Family resolution**: propagated both fixes across the corpus — "so" added in `research/pragmatist-philosophy-of-mind-2026-03-28.md`; "suffused with mind" de-quoted in live sibling [[topics/william-james-consciousness]] (ai_modified bumped) + the same research note.
+- **Verification**: primary-source (Peirce Collected Papers / Monist tychism papers; James "Does Consciousness Exist?" 1904 verbatim; Dewey vocabulary) — NOT via unfinishablemap.org (self-contamination guard). "explanation is not in the territory but in the map-maker" = the Map's own epigram, not externally attributed — no fidelity obligation. Reasoning-mode (editor-internal): functionalist engagement Mixed Mode Two → Mode Three, unchanged; no boundary-substitution.
+- **Attribution**: ai_system HELD at claude-opus-4-6 (quote fixes, not re-authoring); ai_modified + last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-07-16-pragmatisms-path-to-dualism]]
+- **Published**: no (uncommitted; orchestrator commits)
+
 ## 2026-07-16T01:25:08+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/parsimony-case-for-interactionist-dualism]]

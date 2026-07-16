@@ -63,7 +63,7 @@ Classical pragmatism (Peirce, James, Dewey) offers unexpectedly rich resources f
   - **Synechism**: continuity is fundamental — denies mind-matter dualism but also denies pure materialism
   - "The Law of Mind" (1892): ideas spread, affect other ideas, lose intensity but gain generality
   - Peirce's cosmological evolution: law develops out of chance, consciousness is a factor reinstated through tychism
-- **Tenet alignment**: Tychism strongly aligns with Tenet 2 (minimal quantum interaction) as a philosophical predecessor. Peirce's claim that "consciousness is not to be reinstated without tychism" directly parallels the Map's argument that quantum indeterminism opens space for mental causation
+- **Tenet alignment**: Tychism strongly aligns with Tenet 2 (minimal quantum interaction) as a philosophical predecessor. Peirce's claim that "consciousness is not to be so reinstated without tychism" directly parallels the Map's argument that quantum indeterminism opens space for mental causation
 - **Quote**: "The positive part of the argument shows what can be done to reinstate consciousness as a factor of the universe when once tychism is admitted"
 
 ### Wikipedia — Neopragmatism; IEP — Richard Rorty
@@ -91,7 +91,7 @@ Classical pragmatism (Peirce, James, Dewey) offers unexpectedly rich resources f
 - **Type**: Encyclopedia
 - **Key points**:
   - James both promoted and criticized panpsychism — supported the intuition but raised the "mind dust" objection (combination problem)
-  - Peirce's psycho-physical monism: the universe is "suffused with mind," associated with spontaneity and freedom
+  - Peirce's psycho-physical monism: the universe suffused with mind, associated with spontaneity and freedom
   - F.C.S. Schiller offered pragmatist defense of panpsychism through analogical arguments
   - The combination problem (how micro-experiences form macro-consciousness) traces to James himself
 - **Tenet alignment**: Relevant to prebiotic collapse discussion. James's ambivalence mirrors the Map's position: sympathetic to proto-experiential properties but wary of the combination problem. Peirce's version, linking mind to indeterminism, aligns particularly well with Tenet 2

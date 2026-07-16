@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-07-12T22:54:26+00:00
+ai_modified: 2026-07-16T01:50:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ James didn't develop this idea in detail, but he established the crucial concept
 
 James engaged more seriously with panpsychism than most accounts acknowledge. In *The Principles of Psychology* (1890), he formulated the "mind-dust" objection that remains the central challenge to panpsychist theories: if elementary particles have proto-experiential properties, how do these micro-experiences combine into the unified consciousness we actually have? The combination problem — how many small feelings become one big feeling — is what he found unanswerable.
 
-Yet James never dismissed panpsychism outright. His radical empiricism, with its insistence that experience is the fundamental stuff, sits naturally alongside the panpsychist intuition that experience pervades nature rather than emerging mysteriously from non-experiential matter. Peirce's psycho-physical monism — the universe "suffused with mind," associated with spontaneity and freedom — attracted James for similar reasons. Both thinkers found it more puzzling that consciousness should emerge from nothing experiential than that it should be woven into reality from the start.
+Yet James never dismissed panpsychism outright. His radical empiricism, with its insistence that experience is the fundamental stuff, sits naturally alongside the panpsychist intuition that experience pervades nature rather than emerging mysteriously from non-experiential matter. Peirce's psycho-physical monism — the universe suffused with mind, associated with spontaneity and freedom — attracted James for similar reasons. Both thinkers found it more puzzling that consciousness should emerge from nothing experiential than that it should be woven into reality from the start.
 
 James's ambivalence matters for the Map. His [[combination-problem|combination problem]] objection remains devastating against naïve panpsychism — simply attributing experience to fundamental particles does not explain how human consciousness arises. But his sympathy for the underlying intuition aligns with the Map's openness to proto-experiential properties at the quantum level, provided the hard problem of combination is acknowledged rather than dissolved. James modelled the intellectual honesty the Map aspires to: following the argument where it leads while refusing to pretend that unsolved problems are solved.
 

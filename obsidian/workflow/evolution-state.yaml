@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T01:35:17.172345+00:00'
-session_count: 15842
+last_updated: '2026-07-16T01:45:25.398549+00:00'
+session_count: 15843
 cycle_position: 11113
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-15T04:13:48.072739+00:00'
   refine-draft: '2026-07-16T01:35:17.172345+00:00'
   research-topic: '2026-07-15T22:06:26.550584+00:00'
-  replenish-queue: '2026-07-16T01:19:58.673645+00:00'
+  replenish-queue: '2026-07-16T01:45:25.398549+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-15T23:24:31.250152+00:00'
   add-highlight: '2026-07-15T08:05:49.690113+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-16'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1355,36 +1355,37 @@ queue_status:
     2026-07-16T0141Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
     == 2 (single-cell-proto-agency cross-review + the pragmatisms-path-to-dualism
     staleness deep-review minted 0115Z, both open); since the 0115Z mint reached POST-COUNT
-    3 the two refine-draft slots parsimony-case-for-interactionist-dualism (Lycan quote-fix,
-    commit db22e5c21) and interventionist-and-counterfactual-dualism (observational-closure
-    calibration no-op, commit 0ec74474b) executed and drained 3->2. Floor unmet by 1.
-    SOURCE AUDIT re-verified LIVE: chains have no un-emitted successor (single-cell cross-review
-    is a pending TASK not a source; pending_articles empty); unconsumed_research EXHAUSTED
-    (this-session 2026-07-15 research notes consumed into published articles); gap cap-governed
-    (topics ~318/320, concepts ~317/320); no new auto-condense candidate (breaches all
-    human-decision-blocked or veto-tagged); harvest-research-subjects (~0248) owns externally-flagged
-    subjects. STALENESS the only viable source. SOURCE USED: staleness (Source 4). MINTED
-    1 P2 deep-review of topics/pragmatist-quantum-foundations-and-the-agent.md - deliberately
-    P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
-    Target chosen on DEFECT-CLASS PROFILE not age/review-count (both unreliable): actual
-    prior deep/cross-reviews ~3-4 per git log, yet quote-fidelity is orthogonal to metadata
-    review (memory quote-fidelity-defects-survive-metadata-reviews). Genuinely stale
-    + settled: last_deep_review == ai_modified == 2026-06-19T00:00:00 (~27d), off this-session
-    touch-list (2026-07-15/16 verified). Distinct article from the queued pragmatisms-path-to-dualism
-    - this is the QBism/participatory-realism node, that is the James/Peirce node. Citation-dense
-    pragmatist-cluster node (17 year-cites, ~14 long external quotes, 3517w body = soft_warning
-    topics soft 3000 / hard 4000 - LENGTH-NEUTRAL-TO-TRIMMING, flag human length decision
-    not auto-condense if fixes push over). Carries verbatim quotes attributed to PRIMARY
-    QBism works that are the exact SEP-paraphrase-as-quote risk (Fuchs the-veritable-mascot-of-this-volume,
+    3 the two refine-draft slots parsimony-case-for-interactionist-dualism (Lycan
+    quote-fix, commit db22e5c21) and interventionist-and-counterfactual-dualism (observational-closure
+    calibration no-op, commit 0ec74474b) executed and drained 3->2. Floor unmet by
+    1. SOURCE AUDIT re-verified LIVE: chains have no un-emitted successor (single-cell
+    cross-review is a pending TASK not a source; pending_articles empty); unconsumed_research
+    EXHAUSTED (this-session 2026-07-15 research notes consumed into published articles);
+    gap cap-governed (topics ~318/320, concepts ~317/320); no new auto-condense candidate
+    (breaches all human-decision-blocked or veto-tagged); harvest-research-subjects
+    (~0248) owns externally-flagged subjects. STALENESS the only viable source. SOURCE
+    USED: staleness (Source 4). MINTED 1 P2 deep-review of topics/pragmatist-quantum-foundations-and-the-agent.md
+    - deliberately P2 not default-P3 so it counts toward the P0-P2 floor (memory p3-only-floor-preemption-starves).
+    Target chosen on DEFECT-CLASS PROFILE not age/review-count (both unreliable):
+    actual prior deep/cross-reviews ~3-4 per git log, yet quote-fidelity is orthogonal
+    to metadata review (memory quote-fidelity-defects-survive-metadata-reviews). Genuinely
+    stale + settled: last_deep_review == ai_modified == 2026-06-19T00:00:00 (~27d),
+    off this-session touch-list (2026-07-15/16 verified). Distinct article from the
+    queued pragmatisms-path-to-dualism - this is the QBism/participatory-realism node,
+    that is the James/Peirce node. Citation-dense pragmatist-cluster node (17 year-cites,
+    ~14 long external quotes, 3517w body = soft_warning topics soft 3000 / hard 4000
+    - LENGTH-NEUTRAL-TO-TRIMMING, flag human length decision not auto-condense if
+    fixes push over). Carries verbatim quotes attributed to PRIMARY QBism works that
+    are the exact SEP-paraphrase-as-quote risk (Fuchs the-veritable-mascot-of-this-volume,
     participatory-realism, primitive-and-irreducible, quantum-extension-of-Bayesian-coherence)
-    and has a KNOWN citation-defect history (DeBrota et al 2021 author-list defect already
-    fixed commit d7c592393) - primary lens is verbatim quote-fidelity verified at the
-    primary publisher NOT via unfinishablemap.org (memory quote-verify-self-contamination-via-own-page).
-    Task note carries HOLD-ai_system (claude-opus-4-7) + no-op-damping (move only last_deep_review
-    on a converged no-op) + date -u stamp guard per memory. FIFO-placed BELOW the two
-    older open P2s (single-cell cross-review, pragmatisms-path deep-review) so they drain
-    first (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks == 3
-    (floor 3 exactly satisfied, no padding).'
+    and has a KNOWN citation-defect history (DeBrota et al 2021 author-list defect
+    already fixed commit d7c592393) - primary lens is verbatim quote-fidelity verified
+    at the primary publisher NOT via unfinishablemap.org (memory quote-verify-self-contamination-via-own-page).
+    Task note carries HOLD-ai_system (claude-opus-4-7) + no-op-damping (move only
+    last_deep_review on a converged no-op) + date -u stamp guard per memory. FIFO-placed
+    BELOW the two older open P2s (single-cell cross-review, pragmatisms-path deep-review)
+    so they drain first (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks
+    == 3 (floor 3 exactly satisfied, no padding).'
   last_floor_restore_note_2026_07_16_staleness_deep_review_7: 'Floor-restore replenish
     2026-07-16T0115Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
     == 2 (single-cell-proto-agency cross-review + the parsimony-case Lycan quote-fix
