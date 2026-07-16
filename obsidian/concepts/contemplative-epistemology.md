@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-06-26T01:54:23+00:00
+last_deep_review: 2026-07-16T23:54:03+00:00
 coalesced_from:
   - "/concepts/contemplative-epistemology/"
   - "/concepts/contemplative-reliability/"

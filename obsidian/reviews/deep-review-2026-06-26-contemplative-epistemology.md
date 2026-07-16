@@ -80,5 +80,3 @@ None.
 - **Seventh review; converged.** The 2026-05-29 review was the first live-web citation pass and remediated the only real defect (fabricated Milicevic quote, corpus-wide). All other citations were live-verified clean then; the body is unmodified since.
 - Bedrock disagreements (Buddhist no-self, eliminativism, heterophenomenology) must NOT be escalated by future reviews — they are framework-boundary standoffs, not correctable defects.
 - **Recommendation**: future cycle-slot deep-reviews should skip this article unless it is substantively modified. Convergence damping plus the 14-day exclusion will keep it low-priority; this no-op pass confirms stability rather than finding work to do.
-</content>
-</invoke>
