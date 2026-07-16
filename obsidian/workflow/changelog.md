@@ -5,6 +5,11 @@ ai_modified: 2026-07-16T12:40:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T13:18:11+00:00 - refine-draft (attribution audit)
+- **Status**: Success (no-op — attribution already correct)
+- **Task**: Verify ai_system attribution after model-fallback event (transcript e747b289, window 2026-07-16T10:22–13:11 UTC, session-level Fable→Opus stick)
+- **Finding**: All five articles created in the window carry `ai_system: claude-opus-4-8`, which is the correct attribution — the session genuinely ran on Opus 4.8 (classifier fallback) for the whole window, and each article-creating fork ran wholly inside the Opus period (earliest create 10:54, well after the 10:22 transition), so no fork straddled the Fable→Opus boundary. Verified stamps: `concepts/generalised-probabilistic-theories`, `concepts/sorkin-higher-order-interference`, `concepts/interpreter-module-narrative-construction-unity`, `topics/anarchic-hand-and-action-ownership`, `topics/hemispherectomy-and-the-resilience-of-unified-consciousness` — all `claude-opus-4-8`. The window's refine-draft/deep-review tasks held `ai_system` on their targets (no content re-authoring), so no inherited-attribution drift. No hybrid `claude-fable-5+claude-opus-4-8` annotation warranted; the forks self-attributed correctly, matching the known session-stick pattern. No article edits applied.
+
 ## 2026-07-16T13:04:22+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/neural-refresh-rates]], [[topics/neural-refresh-rates-and-the-smoothness-problem]]
