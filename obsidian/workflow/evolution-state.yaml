@@ -1338,12 +1338,12 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 79
+  p2_tasks: 80
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T22:41:00+00:00'
-  last_replenishment_prev: '2026-07-16T22:31:24+00:00'
+  last_replenishment: '2026-07-16T23:07:00+00:00'
+  last_replenishment_prev: '2026-07-16T22:41:00+00:00'
   last_floor_restore_note_2026_07_16_staleness_suspension_void_2241: 'Floor-restore
     replenish 2026-07-16T2241Z (interactive agent, conservative exact-floor +1). Timestamp
     is the REAL date -u wall clock. AUTHORITATIVE PRE-COUNT count_p0_p2_tasks(todo.read_text())
@@ -1376,46 +1376,41 @@ queue_status:
     == 3 (floor exactly satisfied). BOTTOM-inserted below the two open P2s (queue-lifo-starvation
     guard). Pruned the oldest floor-restore note (affective_void_2132) to keep the
     most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_evolutionary_quantum_2143: 'Floor-restore
-    replenish 2026-07-16T2143Z (interactive agent, conservative exact-floor +1). Timestamp
+  last_floor_restore_note_2026_07_16_staleness_contemplative_epistemology_2307: 'Floor-restore
+    replenish 2026-07-16T2307Z (interactive agent, conservative exact-floor +1). Timestamp
     is the REAL date -u wall clock. AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text())
     == 2 verified LIVE immediately before AND 3 after this single write. MIN_QUEUE
-    floor 3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (ps -ef clean,
-    checked twice); tree clean at mint; HEAD c1476ea9f is a deep-review cycle_post
-    pre-replenish tree-clean, i.e. this IS the /unfin-cycle replenish leg (the session
-    cycle just drained voids/mattering-void, commit 983ea0252, NOT concurrent-replenish-race).
-    concurrent-replenish-race guard: revert the redundant add if a sibling mint lands.
-    EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks all deep-review/replenish/agentic-social/pessimistic/refine);
-    unconsumed_research BLOCKED (target sections AT CAP); gap capped (topics 320/320,
-    concepts 320/320, voids 100/100 all AT CAP by live file-count; positions 8/80);
-    orphan 0; length all veto/human-deferred; positions audit ran 2026-07-12 (< 30d,
-    not overdue); no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2
-    deep-review topics/evolutionary-case-for-quantum-neural-effects.md -- chosen for
-    genuine web-verify yield + section/cohort/axis diversity over strict-oldest metadata
-    no-ops: the strict-corpus-oldest un-queued (voids/non-human-minds-as-void-explorers,
-    last_deep_review 2026-06-02, ai_modified == last_deep_review 44d untouched) is
-    a pure no-op (deep_review_over_reviews_converged trap); voids/temporal-void (06-12)
-    SKIPPED as connective-only reciprocal-cross-link drift + would be a 3rd voids
-    alongside affective-void; inference-void declined twice; what-voids-reveal/recognition-void
-    churning THIS session (ai_modified 2026-07-16). evolutionary-case: last_deep_review
-    2026-06-20 (26-day settled gap), ai_modified 2026-07-14 (settled 2 days, low churn
-    risk), ai_contribution 100, ai_system claude-opus-4-7 (cohort unrepresented by
-    the two open P2s -- reductionism opus-4-8, affective-void opus-4-5), 3311 body
-    words (soft_warning, well under topics hard 4000, NO condense risk), EOF scan
-    CLEAN (Tegmark 2000 + a Map self-cite). Axis = quantum-biology / neural quantum
-    effects / evolutionary selection, Tenet 2 load-bearing, distinct from both open
-    P2 axes (reductionism Tenet-1, affective-void affect). owed-web-verify high-yield
-    profile (citation-dense + quantum-biology high cite-defect base rate + >25d converged
-    + intra-corpus). CONCRETE verify-job spotted at mint: the final reference carries
-    a garbled self-cite author Oquatre-six (an opus-4-6 model-name artifact in French
-    leaking as a fake co-author) to repair; plus web-verify Qaswal 2021 + Tegmark
-    2000 at publisher, cross-link reciprocity into the quantum-consciousness cluster,
-    tenet routing, style. NO Baum zero-lag-synchrony locus here (grep-confirmed).
-    HOLD ai_system + no ai_modified bump on a no-op (deep-review-fork-over-attributes-ai-system
-    + deep-review-fork-bumps-ai-modified-on-noop). POST-COUNT count_p0_p2_tasks ==
-    3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two open P2s
-    (queue-lifo-starvation guard). Replaced the oldest floor-restore note (reductionism_2101)
-    to keep the most-recent 3 (bloat control, zero logic dep).'
+    floor 3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (ps -ef clean);
+    tree clean at mint; HEAD 6d1b0ba71 is a deep-review cycle_post pre-replenish
+    tree-clean, i.e. this IS the /unfin-cycle replenish leg. concurrent-replenish-race
+    guard: revert the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT re-run
+    LIVE: chain none; unconsumed_research BLOCKED (target sections AT CAP); gap capped
+    (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80);
+    orphan 0; length all veto/human-deferred; positions audit ran 2026-07-12 (<30d),
+    8<10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1
+    P2 deep-review concepts/contemplative-epistemology.md -- HIGHEST un-web-verified
+    citation seam among converged older-cohort articles (owed-web-verify-seam-deep-review-targeting:
+    the opus-4-5/4-6/4-7 cohort keeps yielding real publisher defects -- affective-void
+    3, stapp-quantum-mind 4 -- that survived intra-corpus clean reviews; opus-4-8 tends
+    already-clean). ai_system claude-opus-4-6, ai_modified 2026-05-29 (48-day settled
+    gap, NOT touched this session 2026-07-16), last_deep_review 2026-06-26 (a staleness
+    pass; its ENTIRE review history is intra-corpus cross-linking + one internal citation
+    fix, NEVER a live publisher web-verify), ai_contribution 100. concepts section
+    + opus-4-6 cohort UNREPRESENTED by the two open P2s (perceptual-failure topics,
+    suspension-void voids/opus-4-7). 41 external empirical meditation-neuroscience
+    refs with publisher-checkable volume/issue/page specifics (highest cite-defect
+    base rate). Body under concepts 3500 hard ceiling -- NOT a condense task. Verify-job
+    (full detail in todo Notes): web-verify each ref at publisher by TITLE+venue not
+    author+year (highest-suspicion Baird 2014 JEP:General 143(5):1972-1979; Brewer
+    2011 PNAS 108(50) full author list not truncated; Fox 2012 PLoS One 7(9):e45370;
+    Johansson 2005 Science 310(5745):116-119; Kok & Singer 2017 Mindfulness 8(1)),
+    verbatim-check quotes, evidential-status calibration (no introspection-to-interface
+    upgrade), cross-link reciprocity, tenet routing. HOLD ai_system + no ai_modified
+    bump on a genuine no-op (deep-review-fork-over-attributes-ai-system + deep-review-fork-bumps-ai-modified-on-noop).
+    POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied, no padding). BOTTOM-inserted
+    below the two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore
+    note (evolutionary_quantum_2143) to keep the most-recent 3 (bloat control, zero
+    logic dep).'
   last_floor_restore_note_2026_07_16_staleness_perceptual_failure_2231: 'Floor-restore
     replenish 2026-07-16T2231Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     count_p0_p2_tasks == 2 verified LIVE before AND 3 after this single write; MIN_QUEUE
