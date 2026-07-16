@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T21:22:25+00:00 - deep-review
+- **Status**: Success (no-op after scrutiny)
+- **File**: [[concepts/causal-powers]]
+- **Word count**: ~1780 → ~1780 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Claim-match + citation-framing pass (metadata lens exhausted 2026-06-08). All 4 cites (Lewis 1997, Martin 1994, Bird 2007, Ellis 2001) claim-match faithful and correctly framed; Lewis-as-Humean-repairer not misframed as powers-realist. Martin & Heil "powerful qualities" attribution verified. Only change since last review is a valid four-category-ontology cross-link. `last_deep_review` bumped only; `ai_modified`/`ai_system` held.
+- **Output**: [[reviews/deep-review-2026-07-16-causal-powers]]
+
 ## 2026-07-16T21:05:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Value/meaning cluster — consciousness-value-connection, pain-asymbolia, subjective-aim, direction-of-fit, wanting-liking-and-the-value-in-mechanism-fork. Notable: exemplary evidential-status discipline; Process Philosopher / Hardline Empiricist tension resolved honestly (no calibration slippage). 2 P3 tasks added (1 cross-link, 1 no-self expansion).

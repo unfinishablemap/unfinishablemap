@@ -23,7 +23,7 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review: 2026-06-08T00:00:00+00:00
+last_deep_review: 2026-07-16T21:22:25+00:00
 ---
 
 A causal power is a property's capacity to bring about effects or produce changes in other things. When we say that fire has the power to melt ice, or that consciousness has the power to select among neural patterns, we're attributing causal powers—intrinsic capacities that explain how and why certain causes produce certain effects. The concept sits at the intersection of metaphysics and philosophy of mind: understanding what causal powers *are* shapes how we understand what entities (including consciousness) can *do*.
