@@ -4,7 +4,7 @@ description: "The GPT framework treats quantum mechanics as one probabilistic th
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-07-16T12:35:00+00:00
+ai_modified: 2026-07-16T15:57:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -45,7 +45,7 @@ The framework's original purpose was **reconstruction**: deriving the Hilbert-sp
 
 Hardy's 2001 "Quantum Theory From Five Reasonable Axioms" founded the modern programme. Hardy characterises a theory by two numbers: a dimension *N* (the states distinguishable in one measurement) and a count *K* of independent parameters needed to specify a state. Classical theory has *K = N*; quantum theory has *K = N²*. Four of Hardy's axioms are consistent with both classical and quantum theory; the fifth — the existence of *continuous* reversible transformations between pure states — is what selects quantum over classical. Delete the word "continuous," Hardy notes, and the reconstruction lands back in classical probability.
 
-Two 2011 reconstructions sharpened this. Chiribella, D'Ariano and Perinotti derive quantum theory from six informational principles, of which five define a broad class of "standard" information-processing theories and one — **purification**, the requirement that every mixed state be the marginal of a pure state on a larger system — singles out quantum theory within that class. Masanes and Müller derive the formalism from five physical requirements and explain group-theoretically why a qubit's state space is precisely the three-dimensional Bloch ball. Barrett's 2007 operational treatment introduced boxworld and the assumption of **local tomography** (a composite system's state is fixed by measurements on its parts).
+Two 2011 reconstructions sharpened this. Chiribella, D'Ariano and Perinotti derive quantum theory from six informational principles, of which five define a broad class of "standard" information-processing theories and one — **purification**, the requirement that every mixed state be the marginal of a pure state on a larger system — singles out quantum theory within that class. Masanes and Müller derive the formalism from five physical requirements and explain group-theoretically why a qubit's state space is precisely the three-dimensional Bloch ball. Barrett's 2007 operational treatment introduced boxworld and the assumption of **local tomography** (a composite system's state is fixed by measurements on its parts); its failure regimes and interface-relevance are developed in [[local-tomography-and-the-consciousness-physics-interface]].
 
 Two recurring axioms — **purification** and **local tomography** — will do the decisive work below.
 

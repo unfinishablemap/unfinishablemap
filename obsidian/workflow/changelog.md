@@ -5,6 +5,15 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T15:57:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Local Tomography and the Consciousness-Physics Interface
+- **Output**: [[concepts/local-tomography-and-the-consciousness-physics-interface]]
+- **Word count**: 2040 (ok, 82% of 2500 concepts target)
+- **Based on research**: yes — [[research/local-tomography-and-the-consciousness-physics-interface-2026-07-16]]
+- **Citations**: Hardy-Wootters, Barnum-Wilce, Renou, Hoffreumon-Woods all arXiv-verified at creation (verbatim quotes confirmed). Real-QM falsification framed as contested-as-of-2026 per Hoffreumon-Woods.
+- **Integration**: reciprocal inbound links added from [[generalised-probabilistic-theories]] (inline gloss → pointer) and [[born-rule-and-the-consciousness-interface]] (Further Reading); P2 cross-review queued.
+
 ## 2026-07-16T15:43:48+00:00 - deep-review
 - **Status**: Success (converged no-op after fresh publisher-of-record web-verify)
 - **File**: [[topics/biological-teleology-and-the-interface-framework]]

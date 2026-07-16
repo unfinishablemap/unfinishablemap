@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-07-16T12:35:00+00:00
+ai_modified: 2026-07-16T15:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -223,6 +223,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 - [[phenomenology-of-consciousness-doing-work]] — Apex synthesis tying interface, causal powers, and effort together
 - [[consciousness-physics-interface-formalism]] — Five non-negotiable coupling constraints
 - [[causal-consistency-constraint]] — Torres Alegre's no-signalling derivation of the Born form
+- [[local-tomography-and-the-consciousness-physics-interface]] — The other axiom whose failure would reopen the Born constraint at the interface
 - [[quantum-probability-consciousness]] — The Born rule as interface structure
 - [[probability-problem-in-many-worlds]] — The Born rule gap at its widest
 - [[many-worlds-argument|Against Many-Worlds]] — Cumulative case against MWI
