@@ -1345,39 +1345,49 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T23:28:00+00:00'
-  last_replenishment_prev: '2026-07-16T23:07:00+00:00'
-  last_floor_restore_note_2026_07_16_staleness_suspension_void_2241: 'Floor-restore
-    replenish 2026-07-16T2241Z (interactive agent, conservative exact-floor +1). Timestamp
+  last_replenishment: '2026-07-16T23:44:00+00:00'
+  last_replenishment_prev: '2026-07-16T23:28:00+00:00'
+  last_floor_restore_note_2026_07_16_staleness_theory_of_mind_2344: 'Floor-restore
+    replenish 2026-07-16T2344Z (interactive agent, conservative exact-floor +1). Timestamp
     is the REAL date -u wall clock. AUTHORITATIVE PRE-COUNT count_p0_p2_tasks(todo.read_text())
-    == 2 verified LIVE immediately before AND 3 after this single write. MIN_QUEUE
-    floor 3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (ps -ef clean);
-    tree clean at mint; HEAD 56e41eab2 is a deep-review cycle_post pre-replenish tree-clean,
-    i.e. this IS the /unfin-cycle replenish leg. concurrent-replenish-race guard:
-    revert the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT re-run LIVE:
-    chain none; unconsumed_research BLOCKED (sections AT CAP); gap capped (topics
+    == 2 verified LIVE immediately before AND 3 after this single write (the two open
+    P2 deep-reviews concepts/contemplative-epistemology + voids/plenitude-void; three
+    #veto condense P2s parser-excluded; ~12 P3s + human-deferred length tasks do NOT
+    count). MIN_QUEUE floor 3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py
+    (ps -ef clean); tree clean at mint; HEAD c42e4cf4c is a deep-review cycle_post
+    pre-replenish tree-clean, i.e. this IS the /unfin-cycle replenish leg. concurrent-replenish-race
+    guard: revert the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT re-run
+    LIVE: chain none; unconsumed_research BLOCKED (sections AT CAP); gap capped (topics
     320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0;
     length all veto/human-deferred; positions audit ran 2026-07-12 (<30d), 8<10 audit
     floor; no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review
-    voids/suspension-void.md -- the HIGHEST un-web-verified citation seam in the 06-02..06-04
-    cohort (STEERING this session overturns the prior mint premise that this cohort
-    is a spent web-verify batch: affective-void, SAME cohort, just yielded THREE real
-    citation defects). suspension-void last deep-review 2026-06-04 web-verified only
-    4 of 19 refs (own log: "not web-verified this session") -- ~15 refs never publisher-checked.
-    last_deep_review 2026-06-04T12:20Z (42-day gap), ai_modified 2026-06-04 == last_deep_review,
-    NOT touched this session, ai_contribution 100, ai_system claude-opus-4-7 (cohort
-    UNREPRESENTED by open P2s -- direction opus-4-8, perceptual-failure opus-4-6),
-    voids section (UNREPRESENTED), 2917 body words (under voids 3000 hard, no condense
-    risk), EOF CLEAN (ends ref 19 legitimate Southgate & Oquatre-sept Map self-cite
-    pseudonym). Axis = epistemic suspension / need-for-closure / diagnostic premature-closure,
-    Tenet 5 -- distinct from both open P2 axes (anaesthesia-direction, NDE-perceptual-failure).
-    Verify-job: web-verify the ~15 un-checked refs by TITLE+venue (highest-suspicion
-    Deco 2009 NRN vol-12 = 2011 dual-venue red flag; Webster & Kruglanski 1994; Mannetti
-    2002; Tognoli & Kelso 2014; Greenberg 1986; Grajzel 2025; Yao 2023), quote-fidelity
-    at publisher, cross-link reciprocity, tenet routing (Tenet 5 + 4), style. HOLD
-    ai_system + no ai_modified bump on a genuine no-op. POST-COUNT count_p0_p2_tasks
-    == 3 (floor exactly satisfied). BOTTOM-inserted below the two open P2s (queue-lifo-starvation
-    guard). Pruned the oldest floor-restore note (affective_void_2132) to keep the
+    concepts/theory-of-mind.md -- an HONEST fall-toward-thinning-seam pick. The two
+    STRONGEST partial/never-verified targets this session are already the two open
+    P2s (plenitude-void 4/14 partial, contemplative-epistemology 14 empirical refs
+    never-verified); the older-cohort remainder is now mostly famous-cite/historical-text
+    (low yield) or lightly-cited voids. theory-of-mind carries the HIGHEST remaining
+    citation-VERIFY surface among non-queued non-session-touched >=30d-converged older-cohort
+    articles: ai_system claude-opus-4-6, ai_modified 2026-06-13T11:32:31 (33-day settled
+    gap, ==last_deep_review==converged, NOT touched this session 2026-07-16), ai_contribution
+    100, 3153 body words via analyze_length = soft_warning (concepts soft 2500/hard
+    3500, ~347w under hard -> clean deep-review NOT condense). 5+ prior deep-review
+    passes were ALL intra-corpus (wikilink retargets, cluster links, clarity) -- a
+    live PUBLISHER web-verify has NEVER run on its 9 empirical developmental/social-cognition
+    refs (several page-specific vol(issue):pages = the defect surface). DIVERSITY CAVEAT
+    stated plainly: this overlaps contemplative-epistemology''s concepts+opus-4-6 slot;
+    topics/opus-4-7 alternatives rejected (q3-q4-sliding-boundary already has an open
+    task + historical-text cites; surprise-prediction-error canonical-book cites) --
+    chosen for verify-surface over section spread and honestly flagged MODEST expected
+    yield (Premack & Woodruff, Call & Tomasello are canonical and may verify clean;
+    a metadata no-op verdict is acceptable, do NOT manufacture defects, seam genuinely
+    thinning). CANDIDATE verify-targets phrased verify-don''t-presume: Premack & Woodruff
+    1978 BBS 1(4):515-526; Call & Tomasello 2008 TiCS 12(5):187-192; Saxe & Kanwisher
+    2003 NeuroImage 19(4):1835-1842; Stiller & Dunbar 2007 Social Networks 29(1):93-104;
+    Heyes 2014 Perspectives on Psychological Science 9(2):131-143. Standard hygiene
+    in Notes (HOLD ai_system, no-op bumps last_deep_review ONLY, don''t flag Map self-cite
+    pseudonyms, date -u stamps not future-dated). POST-COUNT count_p0_p2_tasks == 3
+    (floor exactly satisfied, no padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation
+    guard). Pruned the oldest floor-restore note (suspension_void_2241) to keep the
     most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_contemplative_epistemology_2307: 'Floor-restore
     replenish 2026-07-16T2307Z (interactive agent, conservative exact-floor +1). Timestamp
