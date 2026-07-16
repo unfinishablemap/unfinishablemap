@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T00:34:00+00:00 - refine-draft (scoped quote-verify)
+- **Status**: Success
+- **File**: [[concepts/combination-problem]]
+- **Task**: verify James "the most peculiar puzzle" attribution (line 36), flagged by 2026-07-16 mereology-of-mind deep-review
+- **Web-verify**: phrase NOT verbatim James. Checked *Principles of Psychology* Ch. VI (psychclassics.yorku.ca/James/Principles/prin6.htm) — the mind-stuff/mind-dust critique chapter — no "peculiar puzzle"; James's actual terms are "unintelligible"/"logically unintelligible"/"internal contradictions". Corpus search: "most peculiar" attaches only to the truth-relation ("The Meaning of Truth") and the social self, not the combination problem. Paraphrase-as-quote.
+- **Disposition**: DE-QUOTE. Removed false quotation marks; kept the substance (James did identify the combination difficulty of mind-dust). Now: "William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved." Length-neutral.
+- **ai_system**: held at claude-opus-4-7 (de-quote is not re-authoring); ai_modified bumped (content edit)
+- **Published**: yes
+
 ## 2026-07-16T00:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/type-specificity]]
