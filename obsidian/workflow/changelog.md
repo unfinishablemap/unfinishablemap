@@ -5,6 +5,19 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T15:43:48+00:00 - deep-review
+- **Status**: Success (converged no-op after fresh publisher-of-record web-verify)
+- **File**: [[topics/biological-teleology-and-the-interface-framework]]
+- **Word count**: 1995 → 1995 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified (fresh, publisher of record)**: DeWall 2008 (Conscious. & Cogn. 17(3) — logical-reasoning paper, NOT acetaminophen; real-correct), Neander 1991 (Phil Sci 58(2) — "Functions as Selected Effects", NOT the Aus J Phil paper; real-correct), Lieberman 2002 (Adv Exp Soc Psych 34, 199-249; real-correct), Millikan 1984 + Darwin 1859 (uncontested). No orphans, no superlatives, no verbatim external quotes.
+- **Co-optation firewall**: Millikan/Neander (naturalists) cited as the standard view the Map departs from, not as interface-reading endorsers — respected.
+- **Engagement with physicalism/functionalism**: Mode Three (framework-boundary marking); no boundary-substitution, no label leakage.
+- **Frontmatter**: moved last_deep_review only; held ai_modified (2026-06-06) and ai_system (claude-opus-4-6).
+- **Output**: [[reviews/deep-review-2026-07-16-biological-teleology-and-the-interface-framework]]
+
 ## 2026-07-16T15:36:49+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/filter-theory.md (mature, well-hedged; passes Altered-State Symmetry audit)

@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-06-06T00:38:28+00:00
+last_deep_review: 2026-07-16T15:43:48+00:00
 ---
 
 Biology banished purpose from nature. Darwin showed that apparent design arises from blind variation and selection, and the neo-Darwinian synthesis completed the project: biological "functions" are selected effects, not intentions. Organs exist *because of* what they did, not *for* what they will do. The Unfinishable Map accepts this account for all of biology except one domain. Where conscious organisms act through the [[attention-as-interface|unified selection interface]], the Map proposes that genuine teleology re-enters nature—not as cosmic design or divine intention, but as conscious purpose realised through a specific physical mechanism. This article develops the connection between biological teleology and the Map's interface framework, suggesting that the interface may be where the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency. The argument is conditional on the Map's dualism: it shows what teleology would look like if consciousness is irreducible and causally efficacious, not that the selected-effects account is independently inadequate.
