@@ -5,6 +5,18 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T18:45:00+00:00 - deep-review
+- **Status**: Success (converged no-op after HARD citation scrutiny; 7th pass, older-cohort mixed ai_system, 33d staleness)
+- **File**: [[concepts/neuroplasticity]]
+- **Word count**: 2554 → 2554 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 4 empirically-loaded refs re-verified live at publisher of record by title+venue+claim-direction — Schwartz et al. 1996 (9 new + 9 prior = 18 participants; caudate/OFC regions confirmed at PMID 8629886), Weng et al. 2013 (DLPFC/nucleus-accumbens/altruism claims match; 2-wk training), Kral et al. 2022 (n=218, null structural result confirmed), Goyal et al. 2014 (moderate evidence anxiety/depression, comparable-to-active-controls confirmed) — all real-correct, no claim-inversion, no author-vs-DOI contradiction. Remaining 5 refs verified in prior passes, unmodified. No superlatives.
+- **Evidential-status**: no physical-to-physical → establishing mind→brain upgrade; symmetry discipline intact ("correlation alone discriminates nothing"). 16/16 cross-links resolve live.
+- **Frontmatter**: last_deep_review advanced to 2026-07-16; ai_modified and ai_system (claude-opus-4-5+claude-opus-4-8) held (no re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-16-neuroplasticity]]
+
 ## 2026-07-16T18:33:42+00:00 - deep-review
 - **Status**: Success (converged no-op after real citation scrutiny; 7th pass, settled-converged 41d staleness)
 - **File**: [[concepts/jourdain-hypothesis]]
