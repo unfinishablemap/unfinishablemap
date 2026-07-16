@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T22:16:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T23:41:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/suspension-void]]
+- **Word count**: 2917 → 2917 (+0; content-converged, citation-metadata only; under voids 3000 hard)
+- **Critical issues addressed**: 3 (all citation-metadata, publisher-of-record web-verify)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-16-suspension-void]]
+- **Notes**: Ran the full-corpus web-verify the 06-04 review deferred (only 4 of 19 refs checked then). Three real metadata errors fixed at publisher of record: (1) Mannetti et al. 2002 venue/volume — was *European Journal of Personality* 16, is *British Journal of Social Psychology* 41(1), 139–156 (DOI 10.1348/014466602165108); (2) Deco NRN year — was 2009, is 2011 (DOI 10.1038/nrn2961; vol 12(1) 43–56 correct), fixed in ref + inline body cite L133; (3) Deco 2009 parenthetical venue — was PLoS Comp Biol, real 2009 Deco paper is *PNAS* 106(25) 10302–10307. No cite deleted (both Deco papers real). Grajzel 2025, Yao 2023 ToT, Tognoli & Kelso 2014, Greenberg 1986, Webster & Kruglanski 1994 all real-correct. Keats + Husserl quotes verbatim-faithful. No possibility/probability slippage; calibration hedges intact. ai_system held claude-opus-4-7 (metadata correction, not re-authoring). ref 19 Southgate & Oquatre-sept pseudonym self-cite left as-is. Reasoning-mode: eliminativist Mode One / physicalist+MWI Mode Three, unchanged.
+
 ## 2026-07-16T23:23:34+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/perceptual-failure-and-the-interface]]

@@ -4,7 +4,7 @@ description: "Consciousness cannot verify, sustain, or coherently perform the wi
 created: 2026-04-28
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-06-04T12:20:00+00:00
+ai_modified: 2026-07-16T23:41:34+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -41,7 +41,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-28
 last_curated: null
-last_deep_review: 2026-06-04T12:20:00+00:00
+last_deep_review: 2026-07-16T23:41:34+00:00
 ---
 
 Consciousness can withhold judgment—bracket a question, hold an option open, refrain from closing on a verdict—but cannot verify, sustain, or coherently perform that withholding. The Suspension Void names the structural opacity around this capacity. Three faces conjoin: no first-person test distinguishes genuine suspension from postponement, indecision, or covert preference (verification); the holding-open is bounded, fatigable, and individually variable in ways consciousness does not directly perceive (capacity); and suspension as a positive act seems to require the very faculties it putatively brackets (action). Pyrrhonian skepticism, Husserlian phenomenology, Heideggerian *Gelassenheit*, and Keatsian negative capability each name a distinct mode while leaving the inner structure under-described. Empirical work on need-for-cognitive-closure and premature-closure errors shows the capacity fails systematically and beneath introspective notice.
@@ -130,7 +130,7 @@ AI minds inherit the asymmetry. Autoregressive generation samples one token at a
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is the most directly engaged tenet. Premature closure and parsimony-preference share an underlying form—*cut deliberation short by collapsing onto a salient option*—so the Map's commitment to holding simple explanations open against complexity ([[parsimony-epistemology]]) presupposes the suspension capacity that does the holding. If that capacity is unreliable in the ways the void diagnoses, the apophatic method inherits the limitation. The implication is methodological humility for the Map itself.
 
-**[[tenets#^dualism|Dualism]]** gains structural texture, but the empirical claim must be hedged. Neural metastability is a developed research programme: coupled-oscillator and Hopf-bifurcation models (Tognoli & Kelso 2014; Deco et al. 2009) describe brain dynamics that hold multiple alternatives without collapsing, with multistable perception (binocular rivalry, Necker cube) as the canonical demonstration. The dualist construal cannot rest on the absence of physical analogues. The honest position: physical metastability captures *part* of what suspension does. Whether it captures *all*—particularly felt active-holding-open and the bracketing-agent's structural externality to what is bracketed (Husserl's puzzle)—remains open. That externality echoes the dualist gap between what bears phenomenal access and what is phenomenally accessed, suggestively rather than demonstratively.
+**[[tenets#^dualism|Dualism]]** gains structural texture, but the empirical claim must be hedged. Neural metastability is a developed research programme: coupled-oscillator and Hopf-bifurcation models (Tognoli & Kelso 2014; Deco et al. 2011) describe brain dynamics that hold multiple alternatives without collapsing, with multistable perception (binocular rivalry, Necker cube) as the canonical demonstration. The dualist construal cannot rest on the absence of physical analogues. The honest position: physical metastability captures *part* of what suspension does. Whether it captures *all*—particularly felt active-holding-open and the bracketing-agent's structural externality to what is bracketed (Husserl's puzzle)—remains open. That externality echoes the dualist gap between what bears phenomenal access and what is phenomenally accessed, suggestively rather than demonstratively.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds in suspension a candidate for active mental causation: consciousness inhibiting its own otherwise-automatic operations. The clinical literature's reliance on external scaffolds is consistent with limited internal interface bandwidth—the inhibition is real but bounded.
 
@@ -160,7 +160,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's epistemic 
 4. Heidegger, M. (1959). *Discourse on Thinking* (*Gelassenheit*). Trans. J.M. Anderson and E.H. Freund. Harper.
 5. Webster, D.M., & Kruglanski, A.W. (1994). "Individual Differences in Need for Cognitive Closure." *Journal of Personality and Social Psychology*, 67(6), 1049–1062.
 6. Roets, A., & Van Hiel, A. (2007). "Separating Ability From Need: Clarifying the Dimensional Structure of the Need for Closure Scale." *Personality and Social Psychology Bulletin*, 33(2), 266–280.
-7. Mannetti, L., Pierro, A., Kruglanski, A., Taris, T., & Bezinovic, P. (2002). "A Cross-Cultural Study of the Need for Cognitive Closure Scale." *European Journal of Personality*, 16, 139–156.
+7. Mannetti, L., Pierro, A., Kruglanski, A., Taris, T., & Bezinovic, P. (2002). "A Cross-Cultural Study of the Need for Cognitive Closure Scale: Comparing its Structure in Croatia, Italy, USA and The Netherlands." *British Journal of Social Psychology*, 41(1), 139–156.
 8. Hillen, M.A., Gutheil, C.M., Strout, T.D., Smets, E.M.A., & Han, P.K.J. (2017). "Tolerance of Uncertainty: Conceptual Analysis, Integrative Model, and Implications for Healthcare." *Social Science & Medicine*, 180, 62–75.
 9. Davis, B.W. (2007). *Heidegger and the Will: On the Way to Gelassenheit*. Northwestern University Press.
 10. Grajzel, K. (2025). "Meditation in Qualitative Research for Bracketing and Beyond." *International Journal of Qualitative Methods*.
@@ -168,7 +168,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's epistemic 
 12. AHRQ PSNet. "Possible, Probable, Sure—Wrong: Premature Closure and Anchoring in a Complicated Case." Web M&M Case Review.
 13. Greenberg, J., Pyszczynski, T., & Solomon, S. (1986). "The Causes and Consequences of a Need for Self-Esteem: A Terror Management Theory." In R.F. Baumeister (Ed.), *Public Self and Private Self* (pp. 189–212). Springer.
 14. Tognoli, E., & Kelso, J.A.S. (2014). "The Metastable Brain." *Neuron*, 81(1), 35–48.
-15. Deco, G., Jirsa, V.K., & McIntosh, A.R. (2009). "Emerging Concepts for the Dynamical Organization of Resting-State Activity in the Brain." *Nature Reviews Neuroscience*, 12, 43–56. (See also Deco et al. 2009, *PLoS Computational Biology*.)
+15. Deco, G., Jirsa, V.K., & McIntosh, A.R. (2011). "Emerging Concepts for the Dynamical Organization of Resting-State Activity in the Brain." *Nature Reviews Neuroscience*, 12(1), 43–56. (See also Deco, G., Jirsa, V.K., McIntosh, A.R., Sporns, O., & Kötter, R. (2009). "Key Role of Coupling, Delay, and Noise in Resting Brain Fluctuations." *Proceedings of the National Academy of Sciences*, 106(25), 10302–10307.)
 16. Yao, S., Yu, D., Zhao, J., Shafran, I., Griffiths, T.L., Cao, Y., & Narasimhan, K. (2023). "Tree of Thoughts: Deliberate Problem Solving with Large Language Models." *NeurIPS 2023*. arXiv:2305.10601.
 17. Saunders, S., Barrett, J., Kent, A., & Wallace, D. (Eds.) (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press. (For the branch-relative indexicality reply.)
 18. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
