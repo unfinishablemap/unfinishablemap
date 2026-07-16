@@ -4,7 +4,7 @@ description: "What would count as evidence that one cell chooses rather than mer
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-07-16T06:25:25+00:00
+ai_modified: 2026-07-16T14:04:05+00:00
 last_deep_review: 2026-07-16T06:25:25+00:00
 draft: false
 topics:
@@ -78,6 +78,7 @@ The hand-off is to the [[agency-void|agency void]], which already generalises th
 - [[consciousness-in-simple-organisms]] — The eukaryotic rung one step up the competency ladder
 - [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling, the framing the whole cluster shares
 - [[phenomenology-vs-function-axis]] — The competency-versus-experience decoupling this article extends to the level of evidence
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — The cross-cluster synthesis this dispute feeds: the whole ladder from bacteria to engineered cortex, and why competency never settles the phenomenal question
 
 ## References
 

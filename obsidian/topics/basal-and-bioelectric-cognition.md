@@ -4,7 +4,7 @@ description: "Levin's xenobots and bioelectric memory show sophisticated agency 
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-09T01:14:47+00:00
+ai_modified: 2026-07-16T14:04:05+00:00
 last_deep_review: 2026-07-08T12:01:04+00:00
 draft: false
 topics:
@@ -84,6 +84,7 @@ The decoupling also connects to [[biological-teleology-and-the-interface-framewo
 - [[substrate-independence]] — Why substrate-independent *function* does not entail substrate-independent *experience*
 - [[biological-teleology-and-the-interface-framework]] — How functional purpose can be mechanized without settling the interface question
 - [[consciousness-in-simple-organisms]] — Candidate organisms for consciousness generally
+- [[single-cell-proto-agency-and-the-evidence-problem]] — Takes the decoupling one level deeper at the prokaryotic floor: whether even the *agency* attribution can be told apart from complete mechanism, or whether that distinction is empirically undecidable
 - [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]] — The gut's "second brain" as another agency-without-experience case, and what it means for interface location
 - [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — The floor case: coordinated behaviour with zero neurons, where the competence-experience decoupling is starkest
 - [[the-cognitive-immune-system-and-immunological-selfhood]] — Learning, memory, and a functional "self" with zero neurons: the cluster's sharpest test of self-language
