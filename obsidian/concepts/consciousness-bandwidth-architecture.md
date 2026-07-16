@@ -4,7 +4,7 @@ description: "The mind-brain interface delivers ~10⁹ bits/second of experience
 created: 2026-02-23
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-07-11T09:29:00+00:00
+ai_modified: 2026-07-16T13:04:22+00:00
 draft: false
 last_deep_review: 2026-07-11T09:29:00+00:00
 topics:
@@ -171,7 +171,7 @@ The bandwidth architecture connects to all five tenets.
 - [[attention-as-interface]] — Attention as the selection channel through which consciousness operates
 - [[resolution-void]] — The broader resolution gap between brain processing and conscious access
 - [[grain-mismatch]] — The structural mismatch between conscious and neural grain
-- [[neural-refresh-rates]] — The temporal face of the same grain-mismatch programme; this article is the informational face (10⁹-in / 10-out)
+- [[neural-refresh-rates-and-the-smoothness-problem]] — The temporal face of the same grain-mismatch programme; this article is the informational face (10⁹-in / 10-out)
 - [[inverted-qualia]] — Qualitative-side companion argument disciplined by the same outbound channel
 - [[filter-theory]] — The filter/transmission model that accommodates the asymmetry naturally
 

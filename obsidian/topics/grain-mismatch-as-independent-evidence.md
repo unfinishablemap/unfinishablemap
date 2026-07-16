@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-07-07T21:35:59+00:00
+ai_modified: 2026-07-16T13:04:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,6 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[dualism]]"
   - "[[reductionism]]"
-  - "[[neural-refresh-rates]]"
   - "[[consciousness-bandwidth-architecture]]"
   - "[[interface-heterogeneity]]"
   - "[[causal-closure]]"

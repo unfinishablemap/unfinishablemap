@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-07-16T13:04:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ Understanding the debate requires distinguishing timescales that differ by many 
 | Frontal theta (willed attention) | ~500 ms | Theta power increase during willed attention | Rajan et al. 2019 |
 | Readiness potential | ~550 ms | Pre-movement neural signal | Libet 1983 |
 
-The bottom four entries—from 200ms to 550ms—represent empirically established neural timing windows. Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. The top four entries represent decoherence estimates ranging from contested to theoretical. The compatibility question depends on which estimate is correct and which mechanism is proposed. The gamma cycle (~25 ms) and frontal theta (~500 ms) rows are treated as oscillatory sampling bands in [[neural-refresh-rates]]; here those same frequencies bound which quantum mechanisms remain viable.
+The bottom four entries—from 200ms to 550ms—represent empirically established neural timing windows. Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. The top four entries represent decoherence estimates ranging from contested to theoretical. The compatibility question depends on which estimate is correct and which mechanism is proposed. The gamma cycle (~25 ms) and frontal theta (~500 ms) rows are treated as oscillatory sampling bands in [[neural-refresh-rates-and-the-smoothness-problem|neural refresh rates]]; here those same frequencies bound which quantum mechanisms remain viable.
 
 ## Tegmark's Original Critique
 

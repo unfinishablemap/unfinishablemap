@@ -5,6 +5,15 @@ ai_modified: 2026-07-16T12:40:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T13:04:22+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/neural-refresh-rates]], [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Target**: [[topics/neural-refresh-rates-and-the-smoothness-problem]] (merged into existing full-treatment topic; the concept was a definitional stub that already deferred to it)
+- **Archived**: [[archive/concepts/neural-refresh-rates]] (superseded_by the topic)
+- **Folded in**: quantum-neural-timing-constraints link (gamma/theta bands), capability-division-problem + smoothness-and-continuity void framing
+- **References repointed**: 9 live inbound wikilinks across 7 files (grain-mismatch, grain-mismatch-as-independent-evidence, the-binding-problem, quantum-neural-timing-constraints, consciousness-bandwidth-architecture, temporal-consciousness, temporal-consciousness-structure-and-agency)
+- **Cap relief**: concepts 320 → 319
+
 ## 2026-07-16T11:05:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Interpreter Module and the Narrative Construction of Unity

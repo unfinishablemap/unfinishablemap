@@ -31,6 +31,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
+archived: true
+archived_date: 2026-07-16T13:04:22+00:00
+superseded_by: "/topics/neural-refresh-rates-and-the-smoothness-problem/"
+archive_reason: "Coalesced into Neural Refresh Rates and the Smoothness Problem"
+original_path: "/concepts/neural-refresh-rates/"
 ---
 
 The brain does not monitor the world continuously. Neural oscillations sample sensory input in periodic cycles — alpha rhythms at roughly 7–13 Hz for attentional gating, theta rhythms at 4–8 Hz for cross-object sampling, and gamma oscillations at ~40 Hz for feature binding. The Unfinishable Map uses *neural refresh rates* to name these discrete sampling frequencies collectively. They are the temporal analogue of the spatial discreteness that the [[grain-mismatch]] identifies in neural structure: just as the brain's spatial substrate is a lattice of individual neurons rather than a homogeneous field, its temporal substrate is a sequence of oscillatory snapshots rather than a continuous stream.

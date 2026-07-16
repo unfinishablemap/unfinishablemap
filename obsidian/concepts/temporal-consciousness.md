@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-06-25T12:37:52+00:00
+ai_modified: 2026-07-16T13:04:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,7 +135,7 @@ Protention connects to the [[phenomenology-of-choice-and-volition|phenomenology 
 
 ## Neural Correlates and Temporal Binding
 
-Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] connects Husserl's temporal structure to gamma-range neural synchronies (30-70 Hz) that may implement temporal binding. The brain's [[neural-refresh-rates]] — alpha at 7–13 Hz for attentional gating, theta at 4–8 Hz for cross-object sampling, gamma at ~40 Hz for feature binding — sample the world in discrete oscillatory cycles, yet experience presents itself as a continuous stream, constituting the [[neural-refresh-rates-and-the-smoothness-problem|smoothness problem]]. Working memory provides a promising neural correlate: the experienced moment (~100ms-5s) matches working memory maintenance capacity. Baddeley's episodic buffer binds across modalities and time—the specious present may be what working memory *feels like from inside*.
+Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] connects Husserl's temporal structure to gamma-range neural synchronies (30-70 Hz) that may implement temporal binding. The brain's [[neural-refresh-rates-and-the-smoothness-problem|neural refresh rates]] — alpha at 7–13 Hz for attentional gating, theta at 4–8 Hz for cross-object sampling, gamma at ~40 Hz for feature binding — sample the world in discrete oscillatory cycles, yet experience presents itself as a continuous stream, constituting the [[neural-refresh-rates-and-the-smoothness-problem|smoothness problem]]. Working memory provides a promising neural correlate: the experienced moment (~100ms-5s) matches working memory maintenance capacity. Baddeley's episodic buffer binds across modalities and time—the specious present may be what working memory *feels like from inside*.
 
 Temporal perception is distributed and multi-scale: the SMA, prefrontal cortex, cerebellum, and basal ganglia form a system with modality-specific coincidence thresholds (~5ms visual, ~2-3ms auditory). Time-domain models (Baker & Cariani, 2025) propose that the brain encodes information in the temporal structure of spike patterns rather than in rate or spatial labels alone—an account congenial to the Map's claim that lived duration is not a downstream readout but the medium itself. The unified specious present is therefore a phenomenal achievement, not a straightforward readout of neural timing. It also provides the temporal window within which [[motor-control-quantum-zeno|motor selection]] occurs: the ~280ms commitment point for voluntary action (Thura & Cisek, 2014) falls within specious present range.
 
@@ -215,7 +215,7 @@ Temporal consciousness connects to all five tenets:
 - [[phenomenology-of-anticipation]] — Extended exploration of protention, surprise, and anticipatory consciousness
 - [[non-temporal-consciousness]] — Whether the deepest level of consciousness lies outside time
 - [[phenomenology-of-choice-and-volition]] — How anticipatory consciousness enables deliberation
-- [[neural-refresh-rates]] — The discrete oscillatory sampling rates that create the smoothness problem
+- [[neural-refresh-rates-and-the-smoothness-problem]] — The discrete oscillatory sampling rates that create the smoothness problem
 - [[temporal-consciousness-structure-and-agency]] — Comprehensive treatment including the constitutional thesis and circularity problem
 
 ## References

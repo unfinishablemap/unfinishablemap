@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—intra-modal, cross-
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-07-09T07:01:10.047833+00:00
+ai_modified: 2026-07-16T13:04:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ Each mechanism explains *how* coordination occurs, not *why* coordination produc
 
 Experience extends across time. The present moment is not a durationless instant but a "specious present" containing recently past and immediately anticipated events. Hearing a melody, each note arrives sequentially, yet the phrase is experienced as a temporal whole. See [[temporal-consciousness]] and [[episodic-memory]].
 
-**BP1 progress**: Working memory maintains representations across seconds. Hippocampal replay compresses temporal sequences. [[neural-refresh-rates|Oscillatory dynamics]] at alpha, theta, and gamma create temporal windows within which events are treated as co-occurring.
+**BP1 progress**: Working memory maintains representations across seconds. Hippocampal replay compresses temporal sequences. [[neural-refresh-rates-and-the-smoothness-problem|Oscillatory dynamics]] at alpha, theta, and gamma create temporal windows within which events are treated as co-occurring.
 
 **BP2 gap**: At any physical instant, only the current state exists. Yet consciousness encompasses temporal extension — the heard melody is experienced as a temporal arc, not a sequence of separate "now-experiences" strung together retrospectively. Mechanisms that maintain information across time explain how the brain retains past content, but not why retained content is *experienced as* temporally extended rather than merely stored. The Map's [[temporal-consciousness-structure-and-agency|temporal constitution thesis]] argues that consciousness actively constitutes these wholes from elements that physically do not coexist.
 
@@ -232,7 +232,7 @@ The treatment here rests on claims that could be undermined:
 - [[dualist-perception]] — Perception as the paradigm case of binding
 - [[lucid-dreaming-and-dualist-rendering]] — Multisensory experience without external input
 - [[bandwidth-of-consciousness]] — Compression asymmetry behind inverse effectiveness
-- [[neural-refresh-rates]] — Oscillatory sampling and the smoothness problem
+- [[neural-refresh-rates-and-the-smoothness-problem]] — Oscillatory sampling and the smoothness problem
 - [[combination-problem]] — Panpsychism's version of the puzzle
 - [[consciousness-and-integrated-information]] — IIT's identity thesis
 
