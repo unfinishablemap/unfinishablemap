@@ -1342,8 +1342,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T22:05:07+00:00'
-  last_replenishment_prev: '2026-07-16T21:43:00+00:00'
+  last_replenishment: '2026-07-16T22:31:24+00:00'
+  last_replenishment_prev: '2026-07-16T22:05:07+00:00'
   last_floor_restore_note_2026_07_16_staleness_affective_void_2132: 'Floor-restore
     replenish 2026-07-16T2132Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text()) ==
@@ -1418,34 +1418,30 @@ queue_status:
     3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two open P2s
     (queue-lifo-starvation guard). Replaced the oldest floor-restore note (reductionism_2101)
     to keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_mattering_void_2130: 'Floor-restore
-    replenish 2026-07-16T2130Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
-    tools.evolution.task_selector.count_p0_p2_tasks == 2 verified LIVE before AND
-    3 after this single write. MIN_QUEUE floor 3 unmet by 1; restores 2 to 3. NO concurrent
-    evolve_loop.py (ps -ef clean); tree clean at mint; HEAD 3d74b2f07 is a deep-review
-    cycle_post pre-replenish tree-clean, i.e. this is the /unfin-cycle replenish leg.
-    concurrent-replenish- race guard: re-count 2 before and 3 after, revert if a sibling
-    mint lands. EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks all deep-review/replenish/agentic-social);
-    unconsumed_research BLOCKED (target sections AT CAP); gap capped (topics 320/320,
-    concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length
-    all veto/human-deferred; positions audit ran 2026-07-12 (< 30d, not overdue);
-    no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review voids/mattering-void.md
-    -- oldest un-queued last_deep_review in the corpus (2026-06-04, 42-day gap), settled
-    (ai_modified 2026-06-05 then 41d untouched, low churn-no-op risk), ai_contribution
-    100, ai_system claude-opus-4-7 (older cohort, owed-web-verify high-yield profile:
-    citation-dense + >25d-converged + intra-corpus), 2251 body words (ok). EXCLUDED:
-    concepts/subjective-aim + concepts/causal-powers (queued); voids/what-voids-reveal
-    + voids/recognition-void (ai_modified today = same-session churn); voids/inference-void
-    (declined by both the 20:21Z leg and 2026-07-07 replenish -- connective- only
-    2-line cross-link drift); voids/temporal-void (33d, post-review coalesce churn,
-    opus-4-6 cohort dup of subjective-aim). Axis = value / felt-mattering / significance,
-    distinct from the two open concepts axes (Whiteheadian process-aim, dispositional
-    causal-powers). Maintenance review -- do NOT rewrite a converged page; if metadata
-    no-op move ONLY last_deep_review and HOLD ai_system (deep_review_over_reviews_converged
-    + deep-review-fork-bumps-ai-modified-on-noop hazards). POST-COUNT count_p0_p2_tasks
-    == 3 (floor exactly satisfied, no padding). BOTTOM- inserted below the two open
-    P2s (queue-lifo-starvation guard). Replaced the oldest floor- restore note (apophatic_cartography_1912)
-    to keep the most-recent 3 (bloat control, zero logic dep).'
+  last_floor_restore_note_2026_07_16_staleness_perceptual_failure_2231: 'Floor-restore
+    replenish 2026-07-16T2231Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
+    count_p0_p2_tasks == 2 verified LIVE before AND 3 after this single write; MIN_QUEUE
+    floor 3 unmet by 1, restores 2 to 3. NO concurrent evolve_loop.py (ps -ef clean);
+    tree clean; HEAD 7a2b65a8c agentic-social cycle_post pre-replenish tree-clean =
+    the /unfin-cycle replenish leg. EIGHT-SOURCE AUDIT: chain none; unconsumed_research
+    + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions
+    8/80); orphan 0; length veto/human-deferred; positions audit ran 2026-07-12 (<30d);
+    no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review topics/perceptual-failure-and-the-interface.md
+    -- a CONFIRMED non-no-op: the strict-oldest cohort (06-02..06-04) is a spent batch
+    web-verify sweep (review logs say do-not-re-verify unless the reference list changes),
+    but this article has a real post-coalesce defect -- commit 8e7d93266 cleaned the
+    body wikilinks to the now-archived perceptual-degradation-and-the-interface yet
+    LEFT two stale related_articles frontmatter entries pointing to this articles own
+    coalesced-away predecessor (archival_link_rot; remove them). last_deep_review 2026-06-20
+    (26d settled gap), ai_modified 2026-07-06 (settled 10d), ai_contribution 100, ai_system
+    claude-opus-4-6 (cohort unrepresented by the two open P2s -- evolutionary-case opus-4-7,
+    direction opus-4-8). Body 4061w vs topics 4000 hard ceiling = ~61w over from coalesce
+    crosslink bloat -> length-neutral trim, NOT a flagship human decision. NDE-evidence
+    contestation axis -- preserve hedges. Full verify-job + memory guards live in the
+    todo.md task Notes. POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied,
+    no padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard).
+    Replaced the oldest floor-restore note (mattering_void_2130) to keep the most-recent
+    3 (bloat control, zero logic dep).'
   last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
     (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
     + methodological-pluralism owed-verify deep-reviews; the three research-topic
