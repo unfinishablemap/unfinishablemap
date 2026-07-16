@@ -4,8 +4,8 @@ description: "Type-specificity demands a reductive explanans match the form of i
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-04T20:41:00+00:00
-last_deep_review: 2026-06-04T20:41:00+00:00
+ai_modified: 2026-07-16T00:19:00+00:00
+last_deep_review: 2026-07-16T00:19:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -52,7 +52,7 @@ The original deployment is in [[the-convergence-argument-for-dualism|the converg
 
 A vitalist in 1820 could have observed accurately that the chemistry-life gap had not yet narrowed. The temporal observation — *no reduction has yet been found* — is symmetric across consciousness and vitalism. The disanalogy is not temporal. It is structural, and it lies in the shape of the explanandum:
 
-> "'Vital force' was a placeholder for unspecified mechanism, picking out no particular feature a reduction had to deliver in any particular form... Phenomenal qualities have a different shape: redness, painfulness, and the taste of coffee are each determinate phenomenal types. A reductive account must deliver *that* character type-by-type, and a complete reduction of one type would not extend automatically to others." ([[the-convergence-argument-for-dualism]], §What Convergence Does Not Prove)
+> "'Vital force' was a placeholder for unspecified mechanism, picking out no particular feature a reduction had to deliver... Phenomenal qualities have a different shape: redness, painfulness, and the taste of coffee are each determinate phenomenal types. A reductive account must deliver *that* character type-by-type; reducing one would not extend automatically to others." ([[the-convergence-argument-for-dualism]], §What Convergence Does Not Prove)
 
 This is the metaphysical-grain deployment. The disanalogy does not claim that phenomenal qualities are *unreducible* — that would be the convergence argument's conclusion, and using it here would be circular. The disanalogy claims something weaker and earlier: that the *form of the demand* placed on any reduction is type-specific, in a way the vitalist's demand was not. The historical pattern of reductive successes — fermentation, heredity, metabolism — does not extend automatically across this structural divide.
 

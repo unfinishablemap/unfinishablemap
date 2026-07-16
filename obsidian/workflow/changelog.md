@@ -5,6 +5,18 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T00:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/type-specificity]]
+- **Word count**: 3192 → 3192 (0)
+- **Critical issues addressed**: 1 (intra-corpus stale quote — vitalism-disanalogy block quote had drifted from [[the-convergence-argument-for-dualism]] after that source was condensed: inserted phrase "in any particular form" not in source, and ", and a complete reduction of one type would not" paraphrased over source's "; reducing one would not"; corrected to verbatim, section attribution confirmed correct)
+- **Quote ledger**: L55 convergence-argument quote FIXED (was drifted); L69 binding-problem "BP1, not BP2" quote real-correct/verbatim (unchanged)
+- **Citation-framing**: no defect (Carruthers correctly framed as alternative, not co-opted); currency clean (no superlatives)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (quote-fidelity pass; calibration converged, not touched)
+- **ai_system**: held at claude-opus-4-7 (small quote fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-16-type-specificity]]
+
 ## 2026-07-16T00:08:06+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/mereology-of-mind]]
