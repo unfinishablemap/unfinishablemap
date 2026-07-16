@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-07-16T11:20:58+00:00
+ai_modified: 2026-07-16T12:32:09+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -71,7 +71,7 @@ The article's working question: what would shut both readings, forcing the Map e
 
 ## Why Existing Born-Rule Tests Do Not Reach the Brain
 
-Every precision test of the Born rule lives in one of four regimes: optical (triple-slit, double-slit which-way), atomic/molecular (matter-wave interferometry up to ~170,000 amu, Pedalino et al. 2026), superconducting-qubit, or high-energy. Sinha et al. (2010) measured Sorkin's third-order interference parameter at less than 10⁻² of the second-order contribution; subsequent optical and high-energy work has tightened the bound. The Masanes-Galley-Müller (2019) and Torres Alegre (2025) derivations give conditional theorems: *if* purification, steering, exact no-signalling, finite-parameter state estimation, and tensor-product subsystem independence hold, then the Born rule is fixed (the Masanes-Galley-Müller "operational redundancy" framing has been contested in the literature on whether it fixes the Born rule uniquely or only the form of valid probabilistic theories, and the Torres Alegre preprint is pre-publication). The arguments are derivationally tight given their premises; their empirical status is that the premises have been validated in photon-atom-qubit settings and not in brains.
+Every precision test of the Born rule lives in one of four regimes: optical (triple-slit, double-slit which-way), atomic/molecular (matter-wave interferometry up to ~170,000 amu, Pedalino et al. 2026), superconducting-qubit, or high-energy. Sinha et al. (2010) measured Sorkin's third-order interference parameter at less than 10⁻² of the second-order contribution; subsequent optical and high-energy work has tightened the bound. [[sorkin-higher-order-interference|The interference-order hierarchy]] sets out what this parameter (normalised as κ) measures and how the optical bounds (Sinha ~10⁻², Kauten ~10⁻⁴) operationalise "the Born rule is tested." The Masanes-Galley-Müller (2019) and Torres Alegre (2025) derivations give conditional theorems: *if* purification, steering, exact no-signalling, finite-parameter state estimation, and tensor-product subsystem independence hold, then the Born rule is fixed (the Masanes-Galley-Müller "operational redundancy" framing has been contested in the literature on whether it fixes the Born rule uniquely or only the form of valid probabilistic theories, and the Torres Alegre preprint is pre-publication). The arguments are derivationally tight given their premises; their empirical status is that the premises have been validated in photon-atom-qubit settings and not in brains.
 
 The brain-internal regime sits outside all four tested regimes. Neural tissue is wet, warm, biological, with macroscopic mass scales relevant to the Diósi-Penrose threshold, contested claims about microtubule coherence at functionally relevant scales (the locus of Tegmark's 2000 decoherence-skeptic argument), and an open question about whether the standard tensor-product factorisation between "the brain" and "the rest" is empirically tested at the scale a conscious-selection event would occupy. None of the precision Born-rule data transfers without an inference step the literature has not pressure-tested.
 

@@ -4,7 +4,7 @@ description: "The interference-order hierarchy that operationalises 'the Born ru
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-07-16T12:30:00+00:00
+ai_modified: 2026-07-16T12:32:09+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -28,7 +28,7 @@ One caveat rides along from the start and is developed below ([[#reading-a-nonze
 
 ## The Interference-Order Hierarchy (Neutral Definition)
 
-Sorkin (1994) treats quantum mechanics as a *generalised measure theory*. His observation is that the additivity of classical probability is, in his words, "only the first in a hierarchy of possible sum rules, each of which implies its successor." Each rung is defined by which *inclusion–exclusion residue* vanishes.
+Sorkin (1994) treats quantum mechanics as a *generalised measure theory*. His observation is that the additivity of classical probability is, in his words, "only the first in a hierarchy of possible sum-rules, each of which implies its successor." Each rung is defined by which *inclusion–exclusion residue* vanishes.
 
 Set up a multi-slit experiment with slits (paths) A, B, C, …, and let P_R be the measured intensity when exactly the subset R of slits is open. The successive interference terms are the alternating residues:
 
@@ -76,7 +76,7 @@ The Map reads κ as the measured coordinate beneath three of its tenets, and mar
 
 ## Does a Nonzero Term Mean New Physics? {#reading-a-nonzero-term}
 
-A naive reading treats any measured κ ≠ 0 as a Born-rule violation. The corrected reading, now settled in the literature, is that finite-size slits generate *non-classical looped trajectories* — Sawant, Samuel, Sinha, Sinha & Sinha (2014, *Phys. Rev. Lett.*) and the "exotic looped trajectories" work (Magaña-Loaiza et al., *Nature Communications*, 2017) — which add a small **apparent** κ that sits entirely within standard quantum mechanics once the paths are summed correctly. Published triple-slit anomalies have been attributed to these near-field effects, not to post-quantum probability. Any use of the Sorkin bound must carry this caveat or it will overstate the cleanliness of the test: I₃ = 0 is a claim about amplitudes summed over paths, and slit-geometry corrections must be modelled out before a residual counts as new physics. (Genuine higher-order interference *can* be engineered — Radonjić et al. (2023, *Phys. Rev. A*) generate it in a nonlinear triple slit — but there the source is optical nonlinearity, not post-quantum probability, a boundary case worth keeping distinct.)
+A naive reading treats any measured κ ≠ 0 as a Born-rule violation. The corrected reading, now settled in the literature, is that finite-size slits generate *non-classical looped trajectories* — Sawant, Samuel, Sinha, Sinha & Sinha (2014, *Phys. Rev. Lett.*) and the "exotic looped trajectories" work (Magaña-Loaiza et al., *Nature Communications*, 2016) — which add a small **apparent** κ that sits entirely within standard quantum mechanics once the paths are summed correctly. Published triple-slit anomalies have been attributed to these near-field effects, not to post-quantum probability. Any use of the Sorkin bound must carry this caveat or it will overstate the cleanliness of the test: I₃ = 0 is a claim about amplitudes summed over paths, and slit-geometry corrections must be modelled out before a residual counts as new physics. (Genuine higher-order interference *can* be engineered — Namdar et al. (2023, *Phys. Rev. A*) generate it in a nonlinear triple slit — but there the source is optical nonlinearity, not post-quantum probability, a boundary case worth keeping distinct.)
 
 A second distinction guards against conflating operationalisations. Valentini & Varma (2025, *Phys. Rev. D*) is a **proposal**, not a completed measurement, and it targets a **different observable**: Born-rule linearity in spin/polarization *expectation values* at collider timescales (~10⁻²⁵ s), not the third-order interference term I₃. It reports no new numerical bound, and its author, Antony Valentini, is a pilot-wave theorist whose programme actively seeks Born-rule violations. Both lines test "Born-rule linearity," but via different quantities; a claim about the tested regime must state the observable, not merely a headline number. Extending the tested slice toward the shortest accessible timescales sharpens the Tenet-5 point rather than closing it.
 
@@ -100,8 +100,8 @@ For the Map, this is why κ is worth naming rather than leaving as a slogan. It 
 2. Sinha, U., Couteau, C., Jennewein, T., Laflamme, R., & Weihs, G. (2010). Ruling Out Multi-Order Interference in Quantum Mechanics. *Science*, 329(5990), 418–421. arXiv:1007.4193. https://arxiv.org/abs/1007.4193
 3. Kauten, T., Keil, R., Kaufmann, T., Pressl, B., Brukner, Č., & Weihs, G. (2017). Obtaining tight bounds on higher-order interferences with a 5-path interferometer. *New Journal of Physics*, 19, 033017. arXiv:1508.03253. https://arxiv.org/abs/1508.03253
 4. Sawant, R., Samuel, J., Sinha, A., Sinha, S., & Sinha, U. (2014). Nonclassical Paths in Quantum Interference Experiments. *Physical Review Letters*, 113, 120406.
-5. Magaña-Loaiza, O. S., et al. (2017). Exotic looped trajectories of photons in three-slit interference. *Nature Communications*, 8, 13987.
-6. Radonjić, M., et al. (2023). Experimental higher-order interference in a nonlinear triple slit. *Physical Review A*. arXiv:2112.06965.
+5. Magaña-Loaiza, O. S., et al. (2016). Exotic looped trajectories of photons in three-slit interference. *Nature Communications*, 7, 13987.
+6. Namdar, P., Jenke, P. K., Alonso Calafell, I., Trenti, A., Radonjić, M., Dakić, B., Walther, P., & Rozema, L. A. (2023). Experimental higher-order interference in a nonlinear triple slit. *Physical Review A*, 107, 032211. arXiv:2112.06965.
 7. Valentini, A., & Varma, M. (2025). Towards a test of the Born rule in high-energy collisions. *Physical Review D*, 112, 112024. arXiv:2505.07510. https://arxiv.org/abs/2505.07510
 8. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
 9. Southgate, A. & Oquatre-huit, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
