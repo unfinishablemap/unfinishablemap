@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T06:08:00+00:00
+ai_modified: 2026-07-16T06:25:25+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T06:25:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/single-cell-proto-agency-and-the-evidence-problem]]
+- **Word count**: 2138 → ~2160 (+~22)
+- **Critical issues addressed**: 3 (all citation errors, caught only by publisher-of-record web-verify)
+  - Wrong-work quote: sentence credited to Lyon (2020) actually belongs to Brancazio, Segundo-Ortin & McGivern (2020), the special-issue introduction; re-attributed, Lyon kept as parallel source.
+  - Wrong metadata (Watson 2023): cited DOI 10.1007/s13752-023-00431-7 resolves to an unrelated McGhee paper; corrected to Watson, R. A., *Biological Theory* 19(1):22–36, doi:10.1007/s13752-023-00447-z, author named inline.
+  - Fabricated co-author (MacDermott 2024): "Ortega, P. A." invented and two real authors dropped; corrected to MacDermott, Fox, Belardinelli & Everitt.
+- **Medium/low addressed**: 2 (rephrased two "not X; it is Y" LLM-cliché constructions)
+- **Citation ledger**: 8 sources web-verified — Robinson 2024 (4 quotes verbatim), Keegstra 2017, Sneddon 2012 (73% quote verbatim), Yi 2000, Birch/Ginsburg/Jablonka 2020 all real-correct; Watson, MacDermott, Lyon→Brancazio fixed.
+- **Reasoning-mode**: engagement with deflationists (Robinson/Sourjik) = Mode Three boundary-marking + Tenet-5 calibration; no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-16-single-cell-proto-agency-and-the-evidence-problem]]
 
 ## 2026-07-16T06:08:00+00:00 - refine-draft
 - **Status**: Success
