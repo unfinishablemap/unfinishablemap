@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T21:52:19+00:00
+ai_modified: 2026-07-16T21:56:56+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T21:56:56+00:00 - deep-review
+- **Status**: Success (NO-OP)
+- **File**: [[concepts/reductionism]]
+- **Word count**: ~3497 → ~3497 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-16-reductionism]]
+- **Notes**: Condense-regression audit of the 2026-06-23 `/condense` (commit 46000d485, 3561w→<3500). Diffed full condense: NO load-bearing calibration hedge or citation-framing qualifier stripped. Where it touched calibration it IMPROVED it — "the failure is not a research gap but a structural limitation" → "looks like a structural limitation rather than a research gap" (added hedge + removed "not X but Y" LLM cliché). The memory-flagged [[condense-regresses-calibration-qualifiers]] failure mode did NOT fire here. Multiple realizability confirmed calibrated: presented as contested/weaker-than-Putnam, Map argument survives its failure — NOT asserted as settled fact. No possibility/probability slippage (diagnostic test passes). Citation lens: fresh-cohort cite Milinkovic & Aru 2026 re-verified real-correct at ScienceDirect (DOI 10.1016/j.neubiorev.2025.106524; "scale inseparability" claim-match faithful; first-initial B. correct); 15 other cites carried forward real-correct from 06-17 full ledger, unchanged. No malformed Phil-Sci DOI. NO-OP HYGIENE: `last_deep_review` bumped only; `ai_modified` held (2026-07-12T14:11:20), `ai_system` held (claude-opus-4-8).
 
 ## 2026-07-16T21:52:19+00:00 - deep-review
 - **Status**: Success
