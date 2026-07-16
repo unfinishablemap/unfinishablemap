@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T16:37:02+00:00 - deep-review
+- **Status**: Success (converged no-op after genuine web-verify scrutiny)
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Word count**: 3087 → 3087 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Key finding**: Eighth deep review, staleness-triggered (41d); article body git-unchanged since 2026-06-05. Full publisher-of-record web-verify of all 5 external citations (Bodien/Claassen NEJM 2024 CMD 25%, Brass & Haggard 2007 J Neurosci, Nisbett & Wilson 1977, Wegner 2002, Torres Alegre 2025 arXiv) — all real-correct. Kim cited as opponent (no rival-as-ally). No slippage; all 52 wikilinks resolve; no EOF artifact. Advanced only `last_deep_review`; held `ai_modified` (2026-06-05) and `ai_system` (claude-sonnet-4-5).
+- **Output**: [[reviews/deep-review-2026-07-16-consciousness-and-causal-powers]]
+
 ## 2026-07-16T16:30:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Minimal-organism / competency-experience decoupling cluster (consciousness-in-simple-organisms, single-cell-proto-agency-and-the-evidence-problem, basal-and-bioelectric-cognition, cross-species-behavioural-confidence-proxy-tests). Distinct from the three same-day optimistic reviews (born-rule/GPT, positions-calibration, split-brain).
