@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-06-22 17:44:16+00:00
+ai_modified: 2026-07-16 06:40:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-01 00:18:24+00:00
 apex_sources:
@@ -222,7 +222,7 @@ Intellectual honesty demands acknowledging what the taxonomy cannot determine. W
 
 Viewed as a whole, the taxonomy reveals what no individual void article can: the architecture of human cognitive limitation has a specific, informative shape. The voids are densest where consciousness examines itself; they are structured by type—architectural, adaptive, naturally occluded, potentially deliberately occluded—suggesting different *reasons* for cognitive darkness; they produce distinct failure signatures, cluster around the consciousness-matter interface, and include, at their meta-level, a proof of their own constitutive incompleteness.
 
-This is the discipline of not knowing. The voids are invitations to precision: the goal is to map void boundaries as carefully as charted territory—to know where knowledge ends and why. The edges of understanding are not featureless walls but structured terrain, rich with information about both the minds doing the mapping and the territory being mapped.
+This is the discipline of not knowing. The voids are invitations to precision: to map void boundaries as carefully as charted territory, knowing where knowledge ends and why. The edges of understanding are not featureless walls but structured terrain, rich with information about the minds doing the mapping—and, at the coherence-relative strength the audit above licenses rather than as framework-independent confirmation, about the territory they map.
 
 ## Relation to Site Perspective
 

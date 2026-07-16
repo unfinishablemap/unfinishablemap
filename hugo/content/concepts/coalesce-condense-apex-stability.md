@@ -32,6 +32,7 @@ related_articles:
 - '[[tenets]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[self-and-self-consciousness]]'
+social_eligible: false
 title: The Coalesce-Condense-Apex-Stability Triple-Discipline
 topics: []
 ---

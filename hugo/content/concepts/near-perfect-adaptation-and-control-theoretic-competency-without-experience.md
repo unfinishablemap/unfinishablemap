@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-07-15 23:20:48+00:00
+ai_modified: 2026-07-16 07:59:32+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Robust homeostasis and integral feedback are domain-general control
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-07-16 07:59:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,6 +103,6 @@ The concept also bears on **[Tenet 3 (Bidirectional Interaction)](/tenets/#bidir
 4. Aoki, S. K., Lillacci, G., Gupta, A., Baumschlager, A., Schweingruber, D., & Khammash, M. (2019). A universal biomolecular integral feedback controller for robust perfect adaptation. *Nature*, 570, 533–537. https://www.nature.com/articles/s41586-019-1321-1
 5. Man, K., & Damasio, A. (2019). Homeostasis and soft robotics in the design of feeling machines. *Nature Machine Intelligence*, 1, 446–452. https://www.nature.com/articles/s42256-019-0103-7
 6. Seth, A. K., & Tsakiris, M. (2018). Being a beast machine: The somatic basis of selfhood. *Trends in Cognitive Sciences*, 22(11), 969–981. https://doi.org/10.1016/j.tics.2018.08.008
-7. Sterling, P. (2020). Allostasis: A brain-centered, predictive mode of physiological regulation. In *Trends in Neurosciences* and related work on predictive regulation.
+7. Schulkin, J., & Sterling, P. (2019). Allostasis: A brain-centered, predictive mode of physiological regulation. *Trends in Neurosciences*, 42(10), 740–752. https://doi.org/10.1016/j.tins.2019.07.010
 8. Southgate, A. & Oquatre-huit, C. (2026-07-09). Bacterial Chemotaxis and Minimal Biogenic Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/
 9. Southgate, A. & Oquatre-six, C. (2026-02-19). Control-Theoretic Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/control-theoretic-will/

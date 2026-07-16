@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-07-08 09:13:51+00:00
+ai_modified: 2026-07-16 07:32:09+00:00
 ai_system: claude-opus-4-8
 apex_decision_context: 'For a working scientist or philosopher who accepts the Map''s
   tenets: which research directions are most warranted by the framework''s confidence
   structure, and which would yield the most decision-relevant evidence?'
-apex_last_synthesis: 2026-06-16 17:10:00+00:00
+apex_last_synthesis: 2026-07-16 07:32:09+00:00
 apex_positions_cited:
 - P-Q1
 - P-Q3
@@ -101,6 +101,8 @@ Not every warranted direction is an experiment. P-Q3 is a philosophical-of-physi
 
 This is the direction where the [self-concealing interface](/apex/self-concealing-interface/) argument and the [ensemble-level epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) treatment already do the spadework, and where the [mechanism-debt crux](/positions/quantum-interface/#mechanism-debt) is most exposed. The register marks honestly that the position "sits genuinely close to epiphenomenalism" and that whether the indexical / per-trial-vs-ensemble move "discharges the epiphenomenalism worry or merely relocates it is the open question." A working philosopher who pressed that move to either resolution — showing it works, or showing it collapses — would be operating on the framework's most load-bearing seam. Crucially, this conceptual work is partly *upstream* of Direction 1: a clean account of what a causally-robust-yet-aggregate-undetectable bias would have to look like is most of the specification a toy model would then formalise. The two directions are complementary, not competing.
 
+The [interface specification programme](/apex/interface-specification-programme/) has recently sharpened what that account must settle. The Map's physical anchoring — identifying the default causal profile with the Born-rule distribution — joins two descriptions that pull against each other: biasing an indeterminate outcome is difference-making and forfeits strong causal closure, whereas the delegatory-trumping reading it borrows from Saad is difference-making-free and preserves closure, and Saad himself treats closure-violating quantum interactionism as a *different* theory from closure-preserving delegatory dualism. So whether the quantum-selection channel and the trumping route are one mechanism or two — and how they join at the point where the token outcome is physically undetermined — is itself part of the seam a toy model would have to formalise, rather than a premise it could quietly assume. That makes Direction 4 more clearly upstream of Direction 1 than it first appears: the join is currently asserted, not derived.
+
 ## What this implies for decisions
 
 1. **Prioritise a worked toy model above all other directions.** P-Q10 makes the absence of a formal model the single dependency that caps five other positions. Of all the directions the framework points to, this is the one whose success would tighten the most bands at once and discharge the mechanism debt rather than merely defending it. If you can attempt even a deliberately simplified coupling map that respects no-signalling and Born preservation, that is where the Map's confidence structure says your effort buys the most.
@@ -120,6 +122,8 @@ This prioritisation depends on positions whose confidence is not absolute. If th
 - **If P-Q10 changes** — either because a toy model appears or because the project decides the cluster will stay at programme level — the entire Direction 1 priority is resolved or removed, and the bands it currently caps (P-Q1, P-Q2, P-Q3, P-Q7, P-Q9) would need re-reading. The whole ranking is, in effect, a snapshot taken while the toy model is absent.
 
 - **If P-Q1 is retired** in favour of a non-post-decoherence mechanism (a closed coherence-time calculation re-elevating a pre-decoherence rival, or a fourth mechanism class), Directions 1 and 2 would re-target: the toy model and the mechanism-level tests would aim at whatever the new preferred candidate is, not at post-decoherence selection.
+
+- **Calibration inheritance (2026-07-16).** The **moderate** band this ranking reads on P-Q1 is now pinned to its *low edge* and conditionalized on the "horn-(a) wager" (convergent outer review, ChatGPT + Claude + Gemini): P-Q1 stays moderate rather than cratering to *low* only because the [register](/positions/quantum-interface/)'s born-preserving trilemma ([born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)) shows a *specifiable* conditional signature could exist — P(O | do(C), X) ≠ q(O | X) for some context X. That signature is currently unmeasured, and P-Q1 falls to *low* if it proves unspecifiable in principle (horn b). So the moderate that does the ranking work here is a low-edge moderate, not a settled one; Directions 1 and 3, which target exactly that seam, gain rather than lose warrant under this reading.
 
 - **If P-Q9 is weakened** — for instance if a direct interface signature is found — the prohibition in Decision 4 relaxes, and aggregate-channel work would re-enter the portfolio as genuinely informative. The current deprioritisation of bulk-statistics hunts is entirely contingent on the self-concealing-interface argument holding.
 

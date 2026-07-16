@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-07-12 21:06:26+00:00
+ai_modified: 2026-07-16 05:28:00+00:00
 ai_system: claude-opus-4-8
-apex_last_synthesis: 2026-07-12 21:06:26+00:00
+apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
 - concepts/ensemble-level-epiphenomenalism
 - topics/born-rule-and-the-consciousness-interface
@@ -75,6 +75,38 @@ The dilemma is sharper than the textbook epiphenomenalism the Map rejects, and t
 The right gloss: corridor dualism is interactionist at the *token* level (each event) while threatening to be epiphenomenal at the *type* level (the ensemble). The selection is real per trial; the open question is whether per-trial reality that washes out in aggregate is enough to call the mind a cause of anything physics needs. Because the worry is internal to interactionism rather than an alternative to it, it cannot be answered by the arguments that defeat classical epiphenomenalism. It has to be met on its own ground.
 
 One framing precondition is worth stating, because it bounds the whole problem. That there is a single fact of *which* outcome occurs is itself a tenet-level commitment, imported from the Map's rejection of [Many Worlds](/tenets/#no-many-worlds): on a many-worlds reading all outcomes actualise and there is nothing to *select*. The dilemma only arises once single-outcome actualisation is in place. A second precondition — that a brain-scale superposition survives long enough for any selection to act on — is carried and contested elsewhere ([post-decoherence selection](/concepts/post-decoherence-selection/) relocates this so the decoherence timescale becomes irrelevant). This article assumes both preconditions and confronts the efficacy problem that remains once they are granted.
+
+## Where a Selection Could Show, If Anywhere: The Conditional Signature
+
+The three positions sharpen into a single formal question — one the routes below answer in different currencies, and one the mechanism debt turns on. A per-trial bias that provably averages to the Born measure is, under any *aggregate*-statistics test, statistically indistinguishable from chance. Stated that baldly, the worry threatens to leave the word *selection* with no content at all — and the Map must not let a contested reading of quantum probability quietly settle that selection is genuine. Treating an unsettled interpretation as though it licensed mental causation would be to engineer one's own necessity; the formalism here guards against that by pinning down where, if anywhere, a selection could leave a trace.
+
+**The precise statement.** Write q(O | X) for the physical probability of outcome O in context X — the Born measure. If conscious selection has interventionist efficacy, then for some context X and intention C,
+
+> P(O | do(C), X) ≠ q(O | X),
+
+where do(C) is an intervention that sets the conscious state. Exact Born-preservation is then a claim not about this conditional but about the *marginal* — what remains after averaging over conscious states:
+
+> q(O | X) = Σ_C P(O | C, X) · P(C | X).
+
+Everything hangs on the gap between the two. Born-preservation constrains the left-hand marginal; it says nothing directly about whether the conditionals on the right depart from it. That is what lets token-level efficacy and aggregate invisibility sit together without contradiction — and it localises exactly where a signature, if one exists, would have to appear.
+
+**The trilemma.** Three cases exhaust the possibilities, and the Map is committed to one of them:
+
+- **(a) The conditionals differ.** If P(O | do(C), X) departs from q for some specifiable X, then in-principle signatures exist — conditioned on intentions, tasks, subjects, or context. The corollary is sharp: the empirical tests that bear on the Map are *conditional residual-structure* tests, not generic Born-frequency tests. A null on unconditioned outcome statistics — the micro-psychokinesis record — leaves horn (a) untouched, because it never conditioned on the variable said to carry the effect.
+- **(b) The conditionals never differ, at any grain.** If no specifiable conditioning ever separates P from q, the selector makes no empirically identifiable difference at any scale. This is the epiphenomenalism horn in its exact form — consciousness leaving no distributional trace under any partition of the data, which is a stronger and more precise claim than the loose "consciousness does nothing."
+- **(c) The conditionals differ but always cancel in the marginal.** If some contexts bias toward an outcome yet the marginal stays Born-exact, then other contexts must bias away by precisely the compensating amount. This horn is not free: it requires a *cancellation or balancing law* — a principle the framework would have to state and motivate, not merely assert.
+
+**State the level.** The trilemma is unstatable until the Map says over *which* ensemble Born-preservation is asserted: per apparatus, per subject, per task, per time-interval, globally, or only asymptotically. The register's default reading commits to preservation of the *unconditioned* long-run marginal for a measurement type — averaged over subjects and intentions. That commitment is weaker than it first looks, and deliberately so: it leaves the per-subject and per-intention conditionals formally unconstrained, which is what keeps horn (a) live rather than foreclosed. An article asserting preservation at *every* conditional grain would have chosen horn (b) by stipulation.
+
+**The compensation consequence.** Horn (c) carries a cost. A reason-responsive bias — selection that tilts toward *intended* outcomes — must, if the marginal is exactly preserved, be offset somewhere: by anti-control in other contexts, maladaptive compensation elsewhere, or a global fine-tuning that keeps the books balanced. The moral version is sharper. If selection is *value-sensitive*, tilting toward better outcomes for a subject, then exact preservation demands a compensating tilt toward worse outcomes for someone or somewhen else — a conservation law on outcome-luck the Map would have to own explicitly, and that value-sensitive applied articles inherit rather than discharge.
+
+**Three things kept distinct.** The formalism separates three claims the Map might be making, which the routes below conflate at their peril:
+
+1. **Token counterfactual dependence** — had the conscious state been otherwise, *this* outcome would have differed. This is desideratum (1) of the toy model below.
+2. **Physical distributional change** — some conditional P(O | do(C), X) genuinely differs from the no-consciousness distribution. Horn (a) asserts it and horn (b) denies it; of the three claims, this is the only one any experiment could register.
+3. **Metaphysical authorship** — consciousness is the source of the outcome, whatever its distributional footprint.
+
+Trumping (Route 1) claims (1) and (3) while explicitly declining (2); minimum-outside-corridor (Route 2) is the wager that (2) holds. The conditional formalism makes plain that (2), and only (2), is the claim with a conditional signature attached — so the Map's empirical exposure lives entirely in whether it asserts (2) at some specifiable grain. This is the complementary half of the register's P-Q1 downgrade question: [the quantum-interface register](/positions/quantum-interface/) weighs whether post-decoherence selection remains the strongest mechanism candidate partly on whether the apex problem stated here yields a *specifiable* conditional signature — horn (a) — or collapses to horn (b). If no grain separates the conditionals, the downgrade pressure on P-Q1 is real; if a grain does, the register has a residual-structure test to name.
 
 ## The Candidate Routes Out
 

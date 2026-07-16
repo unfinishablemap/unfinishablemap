@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-15T08:04:41.892254'
+ai_modified: '2026-07-16T08:02:57.911961'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-15'
+modified: '2026-07-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-16: Can a Single Cell Choose?
+
+Does an E. coli cell decide to swim toward food, or merely react? A new article argues the noise-versus-choice line at life's floor may be empirically undecidable—a limit of parsimony itself, not a failure to look harder.
+
+**Type**: new-article  
+**Link**: [[single-cell-proto-agency-and-the-evidence-problem]]
+
+---
+
 ### 2026-07-15: Was Consciousness a Major Evolutionary Transition?
 
 Biology names a few watershed transitions—genes into chromosomes, cells into organisms. Was consciousness one? A new article argues that if dualism holds, the standard framework is blind to a phenomenal transition and can trace only its behavioural shadow.
@@ -196,15 +205,6 @@ Reinforcement learning, unconscious 'liking', affordance competition: a new arti
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2067519412710555736  
 **Link**: [[the-steelman-for-value-blind-selection]]
-
----
-
-### 2026-06-17: The Tortoise Who Wouldn't Accept a Conclusion
-
-Lewis Carroll's 1895 puzzle: Achilles can hand the Tortoise every premise and still never force the conclusion. Each rule he writes down becomes one more premise to doubt. Something other than rules makes a mind infer—and that gap is where consciousness may hide.
-
-**Type**: insight  
-**Link**: [[carrolls-regress]]
 
 ---
 

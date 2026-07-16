@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-11 14:22:00+00:00
+ai_modified: 2026-07-16 05:42:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -51,9 +51,9 @@ The appeal is obvious: many-worlds preserves the determinism of the Schrödinger
 
 **Premise 2**: The question "Why am I this version rather than another?" seems meaningful.
 
-**Premise 3**: Many-worlds provides no resources to answer this question.
+**Premise 3**: Everett's own resources for answering it—branch-relative identity, self-locating credence, decision-theoretic Born rules, examined below—presuppose the very centred subject the question asks after; they relocate it rather than dissolve it.
 
-**Conclusion**: Many-worlds cannot account for indexical identity.
+**Conclusion**: Answering the indexical question requires the *global* uniqueness of the subject that [Tenet 4](/tenets/#no-many-worlds) commits the Map to—a framework-boundary commitment, developed below, not a claim that Everett has nothing to say.
 
 This is the Map's central objection. When you make a measurement, many-worlds says you split—spin-up in one branch, spin-down in another—yet you experience only one outcome. Which you?
 
@@ -86,6 +86,8 @@ But the framework helps itself to a move it has not earned. Branch-relative iden
 The [Many-Minds Interpretation](/topics/many-minds-interpretation/), developed by Albert and Loewer (1988) and Lockwood (1989, 1996), warrants different treatment. It preserves a continuous infinity of *minds* per subject, phenomenal experience attaching to mind-trajectories rather than wave-function branches; probabilities attach to minds and the unity of consciousness is preserved along each trajectory. This is structurally close to dualism—minds form a separate ontological category indexed to brain-states. The in-framework objection is substantive: Many-Minds either reintroduces epiphenomenalism (minds float free of physics, doing no causal work—the problem the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet was designed to solve) or requires a psycho-physical mechanism the framework does not supply. Albert and Loewer stipulate the mind/brain bridge much as materialism stipulates the computation/experience bridge—without specifying it by the framework's own standards. The Map shares the dualist intuition but rejects universal-wave-function physics rather than accepting it, paying in collapse-style measurement and single-world ontology rather than unspecified bridge laws and eliminated mental causation—a closer cousin in the dualist family than a bedrock clash.
 
 Together, these six engagements specify what the Map's rejection actually claims. Where the Everettian can restate the phenomenon as branch-local (Wallace, Tappenden, Wilson on indexical phenomenology), the disagreement is at the framework boundary and the Map says so. Where the in-framework critique remains live (Vaidman and Sebens-Carroll on Born-rule circularity, Many-Minds on the unspecified bridge), the dispute is open inside MWI rather than closed by the Map's tenets. The bedrock that Tenet 4 names is what remains after the framework-internal debates settle, not what they were ever asked to deliver.
+
+The honesty runs in both directions, and the Map must accept the symmetric burden. A single-world *stochastic* collapse theory also supplies no further reason why *this* outcome occurred rather than another—the Born probabilities leave the particular result brute—and adding consciousness as a selector does not by itself discharge that debt; it relocates the question to *why did this subject experience or select this result?* Unless the Map can point to a determinate selection law rather than a relabelled brute fact, its own account owes the explanatory currency it demands of Everett. The Map's wager is that a single actual outcome undergone by a singular subject is a better place to owe that debt than a branching ontology in which nothing is excluded and no subject is singular—but that is a comparative bet, not a discharged obligation (see the [post-decoherence selection programme](/apex/post-decoherence-selection-programme/), where the Map takes the selection-law question on directly).
 
 ## Argument 2: The Probability Problem
 
