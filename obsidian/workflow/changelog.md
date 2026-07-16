@@ -5,6 +5,12 @@ ai_modified: 2026-07-16T07:32:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T08:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/consciousness-and-the-phenomenology-of-place.md` (staleness pick — oldest by ai_modified 2026-05-20; last pessimistic focus 2026-04-02)
+- **Findings**: 2 HIGH (IIT phi-as-scalar strawman; false "absence carries no information signal" claim), 1 MEDIUM internal tension ("demonstrates" overclaim conceded later), 1 epistemic→metaphysical slide (déjà vu), 2 forbidden "not X, it is Y" constructs. All 6 references verified genuine — no citation defects. Queued P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-16-phenomenology-of-place]]
+
 ## 2026-07-16T08:14:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[apex/altered-states-as-interface-evidence]], [[concepts/pain-asymbolia]], [[concepts/altered-states-of-consciousness]]
