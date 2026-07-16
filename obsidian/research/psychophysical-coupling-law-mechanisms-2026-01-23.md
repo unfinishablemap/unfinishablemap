@@ -3,7 +3,7 @@ title: Research Notes - Psychophysical Coupling Law Mechanisms
 created: 2026-01-23
 modified: 2026-03-05
 human_modified: null
-ai_modified: 2026-03-05T21:56:00+00:00
+ai_modified: 2026-07-16T18:25:00+00:00
 draft: false
 target_section: concepts
 topics:
@@ -175,4 +175,4 @@ Can quantum coherence last 10-100ms needed for neural dynamics, or does it colla
 7. Stapp, H. P. "Quantum Interactive Dualism: An Alternative to Materialism" - https://www-physics.lbl.gov/~stapp/QID.pdf
 8. Eccles, J. C. (1994). *How the Self Controls Its Brain*. Springer.
 9. Frontiers in Psychology: "Ten Testable Properties of Consciousness" - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01144/full
-10. Araujo et al. (2014). "Monte Carlo Simulation of Quantum Zeno Effect in the Brain" - https://ar5iv.labs.arxiv.org/html/1412.4741
+10. Georgiev, D.D. & Glazebrook, J.F. (2014). "Monte Carlo simulation of quantum Zeno effect in the brain" - arXiv:1412.4741; published in *International Journal of Modern Physics B* 29(15):1550039 (2015) - https://ar5iv.labs.arxiv.org/html/1412.4741

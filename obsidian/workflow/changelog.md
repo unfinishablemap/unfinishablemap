@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T18:25:00+00:00 - deep-review
+- **Status**: Success (1 critical wrong-first-author citation fix; 7th pass, settled-converged staleness)
+- **File**: [[concepts/coupling-modes]]
+- **Word count**: 2447 → ~2450 (net-neutral; author-name swap + venue detail, under 2500 soft)
+- **Critical issues addressed**: 1 (Monte Carlo quantum-Zeno cite misattributed to "Araujo et al. 2014" — actually Georgiev & Glazebrook 2014, arXiv:1412.4741 / IJMPB 29(15):1550039; result-framing verified faithful, author corrected in body + References; survived 6 prior "verified" reviews via intra-corpus ratification)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (framing-inversion web-verify of full physics cite block: Hagan et al. 2002, Reimers 2009, McKemmish 2009, Tegmark, Georgiev & Glazebrook all framing-confirmed at publisher)
+- **Family resolution**: same Araujo→Georgiev&Glazebrook misattribution corrected in propagation source [[research/psychophysical-coupling-law-mechanisms-2026-01-23]]
+- **Output**: [[reviews/deep-review-2026-07-16-coupling-modes]]
+
 ## 2026-07-16T18:08:59+00:00 - deep-review
 - **Status**: Success (1 critical citation-framing fix; 8th pass, settled-converged staleness)
 - **File**: [[concepts/attentional-economics]]
