@@ -1353,8 +1353,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T18:28:00+00:00'
-  last_replenishment_prev: '2026-07-16T17:50:00+00:00'
+  last_replenishment: '2026-07-16T18:39:00+00:00'
+  last_replenishment_prev: '2026-07-16T18:28:00+00:00'
   last_floor_restore_note_2026_07_16_staleness_authorship_of_action_1828: 'Floor-restore
     replenish 2026-07-16T1828Z (interactive, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2, re-verified LIVE twice before write (open P2
@@ -1407,31 +1407,30 @@ queue_status:
     == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two older
     open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (self_opacity_31)
     to keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_attentional_economics_1655: 'Floor-restore
-    replenish 2026-07-16T1655Z (interactive, conservative exact-floor +1). PRE-COUNT
-    count_p0_p2_tasks == 2, re-verified LIVE before write (open P2 deep-reviews: conceivability-possibility-inference
-    + conversion-disorder; self-opacity minted 1631Z DRAINED via cycle deep-review
-    commit 8ea9a7705 1653Z). MIN_QUEUE floor 3 unmet by 1; restores 2 to 3. LIVE LOOP
-    RUNNING (~6min cadence, last content commit 8ea9a7705 1653Z); NO replenish landed
-    since the 1653 drain (first to breach); concurrent-replenish-race guard: re-count
-    2 before AND 3 after this single write, no sibling mint landed. EIGHT-SOURCE AUDIT
-    re-run LIVE: chain none; unconsumed_research EXHAUSTED (newest note interface-eligibility-law
-    targets topics/ AT CAP); gap capped (topics 320/320, concepts 320/320, voids 100/100
-    all AT CAP; positions 8/80); orphan 0; length all veto/human-deferred; positions
-    8 < 10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4): 64 settled-converged
-    candidates. MINTED 1 P2 deep-review concepts/attentional-economics.md — converged
-    42d (ldr == ai_modified 2026-06-04), ai_contribution 100, ai_system claude-opus-4-5-20251101
-    (OLDEST cohort in pool, scrutinize citations hardest), ~2793w vs concepts 2500/3500,
-    reference list (Inoue-Matsuzawa 2007, Zheng-Meister 2025 Neuron, Schwartz-Begley
-    2002, Stapp 2007 Mindful Universe [verify 2007-book-not-2005-QID], Suddendorf-Corballis
-    2007) = citation-verify yield. Chosen for attention-allocation/agency axis diversity
-    vs the two open P2s (Tenet-1 modal + Tenet-3 clinical) and vs the loop-drained
-    self-opacity (Tenet-5) / causal-powers (Tenet-2). PRESERVE the article n=18-unreplicated
-    OCD-PET hedge per evidential-status-discipline; no upgrade of attention-plasticity
-    to establishing bidirectional causation. POST-COUNT count_p0_p2_tasks == 3 (floor
-    exactly satisfied, no padding). BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
-    guard). Pruned the oldest floor-restore note (causal_powers_25) to keep the most-recent
-    3 (bloat control, zero logic dep).'
+  last_floor_restore_note_2026_07_16_staleness_stochastic_emergence_1839: 'Floor-restore
+    replenish 2026-07-16T1839Z (interactive, conservative exact-floor +1). AUTHORITATIVE
+    PRE-COUNT count_p0_p2_tasks == 2 (open P2 deep-reviews neuroplasticity + authorship-of-action-divergence;
+    the earlier attentional-economics/jourdain-era P2s DRAINED via cycle deep-reviews).
+    MIN_QUEUE floor 3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (pgrep
+    clean); tree clean. EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks all
+    deep-reviews); unconsumed_research EXHAUSTED (target sections AT CAP); gap capped
+    (topics 320/320, concepts 320/320, voids 100/100 all AT CAP by live file-count;
+    positions 8/80); orphan 0; length all veto/human-deferred/accept-as-survey; positions
+    8 < 10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4): abundant
+    settled-converged candidates. MINTED 1 P2 deep-review topics/stochastic-emergence-as-quantum-interface-evidence.md
+    — converged 30d (ldr == ai_modified 2026-06-16), ai_contribution>=80, ai_system
+    claude-opus-4-7 (older cohort, scrutinize citations hard), 16 year-parens on a
+    quantum/empirical interface-evidence article (high citation-verify yield); RE-CHECK
+    the Sepulveda 2019 Anaesthesia 74(6):801-809 cite survived the corpus-wide co-author/page
+    correction verbatim at L137. Chosen for Tenet-2 quantum-interface / anaesthetic-emergence-stochasticity
+    axis diversity vs the two open P2s (both Tenet-3: neuroplasticity clinical-plasticity
+    + authorship-of-action introspection). PRESERVE the constrain-not-establish modal
+    register + common-cause-null caution per evidential-status-discipline; no upgrade
+    of stochastic-vs-deterministic model fit to establishing quantum indeterminacy.
+    POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied, no padding). BOTTOM-inserted
+    below the two older open P2s (queue-lifo-starvation guard). Replaced the oldest
+    floor-restore note (attentional_economics_1655) to keep the most-recent 3 (bloat
+    control, zero logic dep).'
   last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
     (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
     + methodological-pluralism owed-verify deep-reviews; the three research-topic
