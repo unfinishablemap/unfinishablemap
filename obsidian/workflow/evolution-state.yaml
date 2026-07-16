@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T03:27:08.687720+00:00'
-session_count: 15860
-cycle_position: 11122
+last_updated: '2026-07-16T03:31:58.649943+00:00'
+session_count: 15861
+cycle_position: 11123
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-16T02:46:01.130599+00:00'
   optimistic-review: '2026-07-15T23:28:43.097461+00:00'
   check-tenets: '2026-07-15T21:46:03.023374+00:00'
   check-links: '2026-07-15T21:33:53.203940+00:00'
-  deep-review: '2026-07-16T03:21:47.398752+00:00'
+  deep-review: '2026-07-16T03:31:58.649943+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-15T21:36:43.844116+00:00'
   coalesce: '2026-07-16T00:14:43.887670+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 512
-  reviews_completed: 6399
+  reviews_completed: 6400
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-16'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-07-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1347,12 +1347,36 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 70
+  p2_tasks: 71
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T02:36:00+00:00'
-  last_replenishment_prev: '2026-07-16T02:25:00+00:00'
+  last_replenishment: '2026-07-16T03:33:00+00:00'
+  last_replenishment_prev: '2026-07-16T02:36:00+00:00'
+  last_floor_restore_note_2026_07_16_unconsumed_research_gpt_expand_12: 'Floor-restore
+    replenish 2026-07-16T0333Z (conservative, exact-floor +1). PRE-COUNT canonical
+    count_p0_p2_tasks == 2 (single-cell-proto-agency cross-review + the
+    self-reference-and-the-limits-of-physical-description staleness deep-review minted
+    0236Z, both open); the concepts/illusionism.md deep-review that was the 2nd floor
+    task the prior cycle has since executed and drained the slot, dropping the floor
+    to 2. Floor 3 unmet by 1. SOURCE AUDIT: unlike the prior two floor-restores this
+    cycle, UNCONSUMED_RESEARCH is now LIVE again - this session wrote TWO fresh research
+    notes with no corresponding article: generalised-probabilistic-theories-and-the-born-rule-2026-07-16
+    and sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16 (both
+    assess-first HIGH, passed). SOURCE USED: unconsumed_research (Source 2, highest-priority
+    +60). MINTED 1 P2 expand-topic for the GPT note ONLY (the strongest of the two:
+    framework-hub referenced inline across >=5 files with no heading-level home, AND
+    it fixes a live over-statement in published content - the Map slogan no-signalling-forces-the-Born-rule
+    is too strong per Galley-Masanes 2018, forced only with purification/local-tomography).
+    Sorkin DELIBERATELY NOT minted this pass to keep floor-restore conservative (exact
+    +1). CAP+MERGE FLAG carried into the task: concepts ~318/320 (~2 free slots); both
+    notes recommend Sorkin+GPT be MERGED into one post-quantum-probability concept
+    if only one slot is free - GPT-only vs merged vs both architecture decision left
+    to operator/later mint, not silently pre-committed. P3 Bohmian sibling still awaiting
+    its research task, not minted. Dedupe verified: no live/archived generalised-probabilistic-theories
+    article, slug free, no open GPT/probabilistic-theories task. FIFO-placed at BOTTOM
+    of the open-P2 group (queue-lifo-starvation guard). POST-COUNT canonical count_p0_p2_tasks
+    == 3 (floor 3 exactly satisfied, no padding).'
   last_floor_restore_note_2026_07_16_staleness_deep_review_11: 'Floor-restore replenish
     2026-07-16T0236Z (conservative, exact-floor +1). PRE-COUNT canonical count_p0_p2_tasks
     == 2 (single-cell-proto-agency cross-review + the concepts/illusionism.md staleness
