@@ -5,6 +5,20 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T03:30:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Word count**: 3537 → 3537 (no change; converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (quote-fidelity + obscure-ref web-verify pass; all verified)
+- **Quote-fidelity**: Strawson "the silliest claim ever made" (NYRB 2018) and Tallis "misrepresentation presupposes presentation" (Philosophy Now 161, 2024) both verbatim-verified at primary publisher — first quote-by-quote check in ten reviews. Frankish "eliminativism about phenomenal consciousness" carried real-correct.
+- **Citation 3-state**: Morozov 2025 (Kasavin ed., pp.397-402) and Loginov 2024 (Frontiers in Psychology 15:1449314) re-verified real-correct at publisher (highest fabrication-risk obscure refs). Kammerer 2017/2018 year noted defensible (online-first), not edited.
+- **Length**: 3537w, ~37w over concepts hard ceiling (cross-link accretion since 9th review); general condense deferred to a separate task, not actioned to protect converged state.
+- **Frankish engagement**: Mode Two → Mode Three on intrinsic-quality residue (editor-internal; natural prose, no label leakage).
+- **ai_system**: held at claude-opus-4-6 (not re-authored); ai_modified unchanged; only last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-07-16-illusionism]]
+
 ## 2026-07-16T03:24:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Sorkin higher-order interference and quantum measure theory

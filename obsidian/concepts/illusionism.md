@@ -46,7 +46,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-22T23:05:25+00:00
+last_deep_review: 2026-07-16T03:30:13+00:00
 ---
 
 Illusionism is the most radical physicalist response to the [[hard-problem-of-consciousness|hard problem]]. Rather than explaining how [[phenomenal-consciousness]] arises from physical processes, illusionists deny that it exists at all. The "what it's like" aspect of experience—the redness of red, the painfulness of pain—is, on this view, an introspective illusion.
