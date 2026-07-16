@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T16:17:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-species-behavioural-confidence-proxy-tests]]
+- **Word count**: 3717 → 3717 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Converged no-op after real scrutiny (3rd review, opus-4-7+4-8 cohort, citation-dense). Web-verified Joo 2021 (4571-4583, article CORRECT — prior ledger's 4578 was a review-file typo), Hampton 2001, Krupenye 2016, Crystal & Alford 2014 at publisher of record — all real-correct. No slippage; per-face tiers + bandwidth-block hedges preserved; engagements mode-honest (Le Pelley M1 / Carruthers M3 / Birch cooperative). Cross-links live. last_deep_review advanced only; ai_modified + ai_system held.
+- **Output**: [[reviews/deep-review-2026-07-16-cross-species-behavioural-confidence-proxy-tests]]
+
 ## 2026-07-16T16:02:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/local-tomography-and-the-consciousness-physics-interface]]
