@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T19:05:00+00:00 - deep-review
+- **Status**: Success (real body fix — citation claim/paper mismatch caught by check-(i) after 3 metadata-only passes ratified it; older-cohort claude-opus-4-7)
+- **File**: [[topics/authorship-of-action-divergence]]
+- **Word count**: 2783 → 2806 (+23)
+- **Critical issues addressed**: 1 — Pärnamets et al. 2015 (PNAS, "Biasing moral decisions by exploiting the dynamics of eye gaze") misattributed as the pupil-dilation-swap-detection source. Verified at publisher (PMC4386374): it is a gaze-timing moral-decision study, not pupillometry, not choice-blindness swap detection. Re-sourced to the real demonstration — Grassi, Hoeppe, Baytimur & Bartels 2025 (*Frontiers in Psychology* 16, 1598254; PMC12713319, "increased pupil responses during manipulated trials regardless of verbal report"). Dropped Pärnamets 2015 from body + References; removed an incidental "cross-laboratory replication is solid" overclaim now that the finding rests on one recent study.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: choice-blindness core re-verified live by claim-direction (not just metadata) — Grassi 2025 real-correct; Pärnamets 2015 real-wrong-claim (removed); Johansson 2005, Rebouillat 2021, Sagana 2014 real-correct with faithful claim-direction; remaining refs unchanged from June passes. No slippage; deflationary sources (Johansson/Hall/Wegner/Rebouillat) used honestly, not as rival-as-ally. ai_system held at claude-opus-4-7 (targeted re-source, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-16-authorship-of-action-divergence]]
+
 ## 2026-07-16T18:45:00+00:00 - deep-review
 - **Status**: Success (converged no-op after HARD citation scrutiny; 7th pass, older-cohort mixed ai_system, 33d staleness)
 - **File**: [[concepts/neuroplasticity]]
