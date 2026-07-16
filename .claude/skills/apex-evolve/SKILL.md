@@ -43,8 +43,9 @@ Generate a new apex article from scratch.
 3. Read all source articles to understand the material
 4. Read `obsidian/project/writing-style.md` for apex article guidelines
 5. Synthesize into a narrative that weaves sources together
-6. Target length: 2500-4000 words
-7. Create with required frontmatter (see below)
+6. Include the required "Evidence and Dependency" section (see below) classifying the synthesis's main lines of support
+7. Target length: 2500-4000 words
+8. Create with required frontmatter (see below)
 
 **Output**: New apex article at `obsidian/apex/[slug].md`
 
@@ -167,6 +168,7 @@ Apply three supportive personas:
 - Fix issues identified by pessimistic review
 - Integrate insights from changed sources
 - Strengthen synthesis per optimistic review
+- Install the "Evidence and Dependency" section if absent; refresh it if the synthesis's lines of support changed (see "Evidence and Dependency Section" below)
 
 **If over 4000 words** (condensation required):
 - Remove redundant passages identified by Redundancy Hunter
@@ -243,6 +245,11 @@ Apex articles follow this structure:
 [Show how the pieces fit together in a way individual articles don't]
 [This is the unique value of the apex article]
 
+## Evidence and Dependency
+
+[Required — see "Evidence and Dependency Section" below. A brief reader-facing
+ledger classifying the synthesis's main lines of support.]
+
 ## Relation to Site Perspective
 
 [Connect to tenets - required for all articles]
@@ -254,6 +261,26 @@ This apex article synthesizes:
 - [[source-2|Source 2 Title]]
 - ...
 ```
+
+---
+
+## Evidence and Dependency Section (required)
+
+Every apex article carries a short reader-facing section, `## Evidence and Dependency`, between the Synthesis section and Relation to Site Perspective. Adopted 2026-07-16 from an outer-review recommendation (ChatGPT 5.6 Pro full-site audit, rec #29); convergent with the methodology register's independence discipline.
+
+**Why**: apex pieces are the corpus's most vulnerable point for **confidence amplification**. When agency, altered states, quantum interpretation, subjecthood, and value all draw on the same five tenets, their convergence is one premise package producing mutually compatible outputs — not five independent reasons for those tenets. The ledger makes the dependency structure explicit so the synthesis cannot silently count coherence as evidence.
+
+**Content**: classify each of the article's main lines of support as one of:
+
+- **Externally evidenced** — rests on cited empirical work or external scholarship that holds independently of the Map's framework
+- **Independently argued** — a philosophical argument that does not presuppose the tenets (state which premises it does need)
+- **Inherited from a tenet** — follows from one or more tenets; name them
+- **Inherited from another synthesis** — imported from another apex piece; name it so a reader can trace the chain (and so double-counting across apex articles is visible)
+- **Mutually coherent only** — fits the rest of the framework but carries no independent weight; coherence is all it contributes
+
+**Form**: natural prose or a compact list, under ~200 words. Example register: *"The altered-states line is inherited from Tenets 1–3 plus the filter reading; the dissociation studies it cites are externally evidenced but do not by themselves discriminate filter from production accounts. The agency argument is independently argued, though it presupposes that reasons-responsiveness is not exhausted by physical description."* Do not use the phrase "apex article" inside it (media-neutral rule) — "this synthesis" works. Do not present the five category names as a labelled scoreboard; weave them into readable prose.
+
+**Retrofit**: `create` includes the section from the start; `evolve` installs it if absent and refreshes it whenever the support lines change.
 
 ---
 
@@ -301,6 +328,7 @@ This ensures apex articles stay current without manual tracking.
 - **Condense actively**: Evolution must maintain length discipline; don't let articles grow unbounded
 - **Link extensively**: Apex articles are synthesis—they should link heavily to source articles
 - **Preserve thesis**: Each apex article has a thesis; edits should strengthen it, not dilute it
+- **Show the dependency structure**: The "Evidence and Dependency" section is required on every apex article — convergence among tenet-derived lines is not independent confirmation, and the ledger keeps that honest
 
 ---
 

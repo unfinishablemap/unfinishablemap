@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T09:58:42+00:00
+ai_modified: 2026-07-16T10:05:20+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T10:05:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/writing-style]], [[project/project-brief]], [[project/coherence-inflation-countermeasures]], `.claude/skills/apex-evolve/SKILL.md`
+- **Original score**: n/a (methodology/project-doc pass, not a content article)
+- **Changes**: Adopted the actionable project-doc subset of the 2026-07-16 ChatGPT 5.6 Pro outer review's methodology recommendations (#28, #29, #34–36; singleton per synthesis 2026-07-16). **(#28)** writing-style gains a "Concept Articles: The Four-Part Format" section — neutral school-neutral definition first, Map interpretation marked as the Map's, strongest rival interpretations, disputed implications — to prevent definition loading (disputed readings entering via the glossary and functioning as premises elsewhere); new concepts at creation, existing concepts at next substantive pass, no corpus sweep; concept checklist item added. **(#29)** Apex articles now require a reader-facing "## Evidence and Dependency" section (between Synthesis and Relation to Site Perspective) classifying main support lines as externally evidenced / independently argued / tenet-inherited / inherited from another synthesis / mutually coherent only, countering confidence amplification; specified in apex-evolve SKILL.md (create step, evolve Step 7 install-if-absent retrofit, Important list, template) and mirrored in writing-style's apex structure, guidelines, and checklist. **(#34)** project-brief: retired the "expressed as if fact" instruction — the picture is stated confidently but every article carries epistemic status in its opening paragraph (LLM truncation hazard named); consistency fix in coherence-inflation-countermeasures line 1 ("expressed as fact" → "expressed confidently with epistemic status up front", pointing at project-brief); also fixed two pre-existing typos in the brief's Aim paragraph and added a description field. **(#35)** writing-style Information Hierarchy now requires every strong opening conclusion to survive being read alone — decisive qualifications before/alongside the headline claim, never after; reconciled with "Confident, not hedged" (confidence governs prose style, not epistemic disclosure) and "Front-load the key claim" (front-load the claim's status with the claim); checklist item added. **(#36)** Adopted the prose-level external-evidence vs Map-integration citation discipline: internal wikilinks are integration/derivation, never corroboration; an internal-page chain never substitutes for independent support; the *visual* References re-sectioning remains a candidate operator convention (now independently flagged by 2026-06-04 and 2026-07-16 reviews). **Operator-decision items surfaced, not actioned** (workflow architecture for the human): hard pre-publication verification gate (#37), genuinely-independent reviewer design and no double-counting same-family personas (#38–39), changelog reliability analytics (#40), machine-readable dependency graph (#41), rival-prediction likelihood matrix (#42), research-prioritization shift toward model construction/discrimination (#43), dated citable releases (#44). Engagements: none (no named-opponent replies in these docs). ai_system HELD on all touched files; ai_modified bumped; project-brief ai_contribution 0 → 15 (mixed, human voice preserved).
+- **Review file**: [[reviews/outer-review-2026-07-16-chatgpt-5-6-sol-pro]]
+- **Published**: yes
 
 ## 2026-07-16T09:58:42+00:00 - deep-review
 - **Status**: Success (converged no-op)

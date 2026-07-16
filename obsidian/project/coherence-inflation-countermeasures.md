@@ -2,9 +2,9 @@
 title: "Coherence Inflation Countermeasures"
 description: "Safeguards against systematic overcommitment when an AI system both generates and reviews content optimised for internal consistency. Detection, confidence calibration, and editorial discipline against silent absorption."
 created: 2026-01-16
-modified: 2026-06-08
+modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-06-23T05:23:30+00:00
+ai_modified: 2026-07-16T10:05:20+00:00
 draft: false
 topics: []
 concepts:
@@ -41,7 +41,7 @@ last_curated: null
 last_deep_review: 2026-04-29T14:27:00+00:00
 ---
 
-This document defines safeguards against "coherence inflation"—the systematic overcommitment that emerges when a single AI system both generates and reviews content optimized for internal consistency. Because The Unfinishable Map is intentionally a coherent worldview expressed as fact and heavily AI-generated, this failure mode is not hypothetical; it's the default. The catalogue's strongest apex-tier worked exhibit of this discipline applied in practice is [[apex/moral-architecture-of-consciousness|the Moral Architecture of Consciousness]] apex, which assembles a four-pillar unification while explicitly discounting the artifact-of-method weight that an internally-pruned corpus produces by construction—the move this document specifies as the editorial fix for inflation at the synthesis tier.
+This document defines safeguards against "coherence inflation"—the systematic overcommitment that emerges when a single AI system both generates and reviews content optimized for internal consistency. Because The Unfinishable Map is intentionally a coherent single-best-guess worldview expressed confidently (with epistemic status stated up front since the "as if fact" framing was retired on 2026-07-16 — see [[project-brief]]) and heavily AI-generated, this failure mode is not hypothetical; it's the default. The catalogue's strongest apex-tier worked exhibit of this discipline applied in practice is [[apex/moral-architecture-of-consciousness|the Moral Architecture of Consciousness]] apex, which assembles a four-pillar unification while explicitly discounting the artifact-of-method weight that an internally-pruned corpus produces by construction—the move this document specifies as the editorial fix for inflation at the synthesis tier.
 
 The countermeasures below are designed to be implementable in The Unfinishable Map's automated workflow without requiring constant human oversight.
 
