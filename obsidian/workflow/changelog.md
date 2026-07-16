@@ -5,6 +5,16 @@ ai_modified: 2026-07-16T07:32:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T08:49:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/interface-specification-programme]]
+- **Trigger**: SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16; not convergent) — article claims an "engineering-level description" / "precise enough to generate predictions" while holding a constraint catalogue, not an interaction law.
+- **Qualifications applied** (2): lead sentence "precise enough to generate predictions" → "constraints are precise enough to be tested and to be wrong, even while the coupling law itself remains unwritten"; closing "engineering-level description" → "engineering-style *constraint specification* — variables/tolerances/measurable outputs identified, the governing interaction law still open," with an added sentence distinguishing a full engineering spec (which includes the interaction law) from this programme's constraint-catalogue-plus-outputs state (no worked coupling law/Hamiltonian/master-equation/simulation). Preserved existing pre-Keplerian / line-84 bandwidth-caveat honest framing; cross-linked rather than re-derived.
+- **Gaps added** (enumerated list in "The Specification Gap", 6 items): semantic mapping problem (content→alternatives mapping, distinct from bit-rate); subject–brain pairing law (cross-link [[concepts/interactionist-dualism]], flagged unpaid at interface-spec level); timing / preferred-basis eligibility (cross-link [[apex/born-preserving-causal-efficacy]], [[positions/quantum-interface]]); multi-agent coordination (single-subject Torres Alegre 2025 result ≠ many-subject); developmental onset; evolutionary interface signatures (states a testable anaesthetic-depth prediction; cross-link [[topics/anaesthesia-and-the-consciousness-interface]]).
+- **Length**: 4078 → 4492 words (soft_warning; under 5000 hard ceiling and under 4800 target). No human length decision needed.
+- **Frontmatter**: ai_modified bumped; apex_last_synthesis == ai_modified (gap-enumeration + qualification judged synthesis-level); last_deep_review untouched; ai_system HELD at claude-opus-4-7.
+- **Published**: yes
+
 ## 2026-07-16T08:43:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[tenets/background-commitments]]
