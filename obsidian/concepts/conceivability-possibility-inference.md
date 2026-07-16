@@ -21,7 +21,7 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review: 2026-06-10T12:00:00+00:00
+last_deep_review: 2026-07-16T17:45:21+00:00
 ---
 
 The conceivability-possibility inference is the principle that if something can be coherently conceived, it is at least metaphysically possible. This seemingly innocent bridge from imagination to reality powers some of philosophy's most contested arguments—particularly in philosophy of mind, where [[philosophical-zombies|zombie arguments]] and the [[knowledge-argument|knowledge argument]] depend on inferring genuine metaphysical possibilities from acts of conceiving.
