@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T05:28:00+00:00
+ai_modified: 2026-07-16T05:39:41+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T05:39:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/jain-philosophy-of-mind]]
+- **Selection**: highest-yield citation/quote-dense article in an exotic domain (classical Jaina philosophy), only 1 prior review, both `ai_modified` and `last_deep_review` predate this session. Primary lens: publisher-of-record quote-fidelity + citation metadata.
+- **Word count**: 2515 → 2521 (+6; below 3000 soft threshold, no length action)
+- **Critical issues addressed**: 1 — Balcerowicz 2020 wrong-title. Cited as non-existent book "Studies on Jaina epistemology and anekantavada"; real work verified at Brill as the chapter "Anekāntavāda" in *Brill's Encyclopedia of Jainism* (eds. Cort, Dundas, Jacobsen, Wiley; Leiden: Brill, 2020). Author/year/publisher were right; title fabricated. Corrected in place, not deleted.
+- **Quote-fidelity fixes**: 2 — (1) karma quote silently dropped "in Jainism" mid-string → re-scoped to the verbatim fragment "a subtle type of matter that fills all cosmic space"; (2) nayavada "like a meta-epistemology" inserted the article's own word "like" inside the quotation marks (source: "provides … a meta-epistemology") → moved "like" outside the quotes. All other Gorisse SEP quotes verified verbatim at plato.stanford.edu (per-cite ledger in review archive).
+- **Completeness fix**: 1 — Wiley 2004 was a References-only orphan; added a light inline cite at the *nigoda*/graded-sentience taxonomy. No orphan refs remain.
+- **Verified real-correct**: Gorisse 2023 (author Marie-Hélène Gorisse, first published 13 Feb 2023 — confirmed); Jaini 1979, Johnson 1995, Umasvati/*Tattvartha Sutra* (Tatia 1994). No superlative/currency claims (helper empty).
+- **Output**: [[reviews/deep-review-2026-07-16-jain-philosophy-of-mind]]
 
 ## 2026-07-16T05:28:00+00:00 - refine-draft
 - **Status**: Success
