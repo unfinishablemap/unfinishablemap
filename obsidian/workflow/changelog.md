@@ -5,6 +5,15 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T01:25:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Scope**: single quote-fidelity fix (scoped; not a general refine)
+- **Changes**: Restored verbatim Lycan (2009) quote at line 59. Was rendered with "dualism" substituted inside the quote marks ("there is no evidence against dualism; it only offends parsimony"); the verbatim text is "there is no evidence against that view; it only offends parsimony". Applied fix option (a): supplied the dualism antecedent in surrounding prose ("admits of dualism that ...") and restored "that view" inside the quote, matching apex/dualism-cartography:99. Adjacent "a very posterior reason" fragment verified verbatim-correct — unchanged.
+- **Verification**: Confirmed at primary source (Lycan, "Giving Dualism its Due", Australasian Journal of Philosophy 2009; full text at newdualism.org). Not via unfinishablemap.org (self-contamination guard). Lycan writes "that view"; "a very posterior reason" verbatim.
+- **Attribution**: ai_system held at claude-opus-4-7 (quote fix, not re-authoring); ai_modified bumped; last_deep_review untouched. Length-neutral.
+- **Published**: yes
+
 ## 2026-07-16T01:12:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-individuation]]
