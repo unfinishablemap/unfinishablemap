@@ -148,3 +148,36 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-07-16-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/4010f6be10cbb9a5
+  commissioned_at: '2026-07-16T04:16:47.620046+00:00'
+  prompt_summary: 'Full-site audit: hostile referee, empirical/citation/counterargument
+    gaps'
+  target_filename: outer-review-2026-07-16-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies), auditing the arguments at https://unfinishablemap.org
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision, not to praise what the site does well. Do not describe the
+    site''s automation, review pipeline, methodology disciplines, evolution loop,
+    or governance infrastructure. Those are project-internal and not the subject of
+    audit. Assess only the substantive philosophical content: its empirical claims,
+    citations, counterargument coverage, and logical inferences. The site (changelog
+    at https://unfinishablemap.org/workflow/changelog/) argues for a non-reductive,
+    dualist view of consciousness; discover its commitments by reading it rather than
+    restating them, and do not pre-frame it as a useful testbed for any theory. Audit
+    four dimensions: (a) empirical accuracy against 2020s consciousness science and
+    philosophy of mind; (b) results it relies on that have been challenged, retracted,
+    or failed replication; (c) claims that quietly bracket contested assumptions as
+    settled; (d) counterarguments or competing frameworks it never engages. End your
+    report with at least five specific weaknesses, each with a 2020-2025 peer-reviewed
+    source citation, and a one-sentence verdict on academic-submission readiness.
+    If you cannot find five, state explicitly why none are visible. Do not append
+    summary praise about the site''s strengths, methodology, or architectural ambition.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-07-16-chatgpt-5-6-sol-pro.md
