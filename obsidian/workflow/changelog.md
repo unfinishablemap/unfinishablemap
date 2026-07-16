@@ -5,6 +5,17 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T16:51:06+00:00 - deep-review
+- **Status**: Success (two quote-fidelity fixes on a converged article)
+- **File**: [[voids/self-opacity]]
+- **Word count**: 2752 → 2752 (both fixes length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (quote-fidelity)
+- **Enhancements made**: 0
+- **Key finding**: 9th review, staleness-triggered (43d), ai_system claude-opus-4-6. The flagged James "spinning top" quote is GENUINE — verified EXACT at psychclassics.yorku.ca + Goodreads (Principles of Psychology ch. 9); not fabricated, correctly attributed. But two quote-fidelity defects that survived all 8 prior reviews (including the thorough 8th-review web-verify): (1) Schulz — the quoted verbatim string "Being wrong doesn't feel like anything" is NOT her wording and distorts her claim; corrected to her actual verbatim "being wrong feels exactly like being right" (she writes error "feels like being right", not like nothing). (2) Libet — "an explicitly dualistic view" was the secondary literature's (Wikipedia) characterization mis-marked as a Libet quote; substance accurate, so removed the quotation marks. Wittgenstein 5.632 and Hume 1.4.6 quotes re-verified exact. No calibration slippage (void stays posited); all cross-links resolve live. Bumped ai_modified + last_deep_review (genuine content fixes); HELD ai_system claude-opus-4-6 (not re-authoring).
+- **Engagement modes**: eliminativist (line 132) Mode One/Two, unchanged — internal-to-opponent argument, no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-16-self-opacity]]
+
 ## 2026-07-16T16:37:02+00:00 - deep-review
 - **Status**: Success (converged no-op after genuine web-verify scrutiny)
 - **File**: [[topics/consciousness-and-causal-powers]]
