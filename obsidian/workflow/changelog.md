@@ -5,6 +5,17 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T03:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Word count**: 3481 → 3481 (no change; over voids hard ceiling — standing HUMAN LENGTH DECISION, not auto-condensed)
+- **Run focus**: Quote-fidelity (verbatim-string) verification — the one lens the two prior reviews (2026-05-19 attributions; 2026-06-05 full post-2019 empirical metadata/finding-direction ledger) did not run. Per [[quote-fidelity-defects-survive-metadata-reviews]], verbatim accuracy is orthogonal to metadata.
+- **Quote-fidelity ledger** (self-contamination guard: unfinishablemap.org/.com blocked): Metzinger 2020 "content of a predictive model, namely, a Bayesian representation of tonic alertness" — verbatim-faithful; "unpartitioned epistemic space" — faithful. Gładziejewski 2023 "rationally integrated into one's epistemic life" — verbatim-faithful. Vollenweider "metabolic hyperfrontality" (from title) + Facco "non-ordinary mental expressions" (author's term) — faithful.
+- **Critical issues addressed**: 0 (clean — both verbatim quotes faithful; metadata unchanged since 2026-06-05 verify; no label leakage, no cliché, no EOF artifact; calibration exemplary)
+- **Medium issues addressed**: 0 (length over hard ceiling is the standing human decision; not touched)
+- **Enhancements made**: 0 (converged clean no-op; last_deep_review bumped, ai_modified/ai_system held)
+- **Output**: [[reviews/deep-review-2026-07-16-edge-states-and-void-probes]]
+
 ## 2026-07-16T02:58:37+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Generalised probabilistic theories and the Born rule
