@@ -203,6 +203,7 @@ Perhaps what the cases really show: consciousness is neither a simple unity that
 
 - [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through split-brain, anesthesia, altered states, and death
 - [[anarchic-hand-and-action-ownership]] — The agency-side complement: disowned action with ownership intact, where volition rather than perception loses its interface
+- [[interpreter-module-narrative-construction-unity]] — The left-hemisphere interpreter that confabulates reasons in split-brain cases, and why it impugns narrated authorship without touching phenomenal unity
 - [[hemispherectomy-and-the-resilience-of-unified-consciousness]] — The sharper resilience case: with only one hemisphere the "two streams" question cannot even arise, isolating unity's survival across substrate loss
 - [[neurological-dissociations-as-interface-architecture]] — How split-brain and other dissociations map the functional anatomy of the mind-brain channel
 - [[clinical-dissociation-as-systematic-evidence]] — Systematic treatment of dissociative evidence
