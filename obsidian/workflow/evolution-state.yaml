@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T16:34:38.481403+00:00'
-session_count: 15984
-cycle_position: 11196
+last_updated: '2026-07-16T16:38:40.116502+00:00'
+session_count: 15985
+cycle_position: 11197
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-16T15:40:27.577123+00:00'
   optimistic-review: '2026-07-16T16:34:38.481403+00:00'
   check-tenets: '2026-07-16T10:38:58.530837+00:00'
   check-links: '2026-07-16T14:36:17.114963+00:00'
-  deep-review: '2026-07-16T16:18:35.319165+00:00'
+  deep-review: '2026-07-16T16:38:40.116502+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-16T14:39:18.362355+00:00'
   coalesce: '2026-07-16T13:11:29.020567+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 517
-  reviews_completed: 6431
+  reviews_completed: 6432
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-07-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1349,8 +1349,9 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T16:31:00+00:00'
-  last_replenishment_prev: '2026-07-16T16:12:00+00:00'
+  last_replenishment: '2026-07-16T16:41:00+00:00'
+  last_replenishment_prev: '2026-07-16T16:31:00+00:00'
+  last_floor_restore_note_2026_07_16_staleness_conversion_disorder_1641: 'Floor-restore replenish 2026-07-16T1641Z (interactive, conservative exact-floor +1). AUTHORITATIVE PRE-COUNT canonical count_p0_p2_tasks == 2, re-verified LIVE before write (the two open P2 deep-reviews: conceivability-possibility-inference + self-opacity; the third floor task consciousness-and-causal-powers drained via cycle deep-review slot commit 0338e440d at 1638Z). MIN_QUEUE floor 3 unmet by 1; restores 2 to 3. LIVE LOOP RUNNING (auto commits every ~6min, last content commit 0338e440d 1638Z); NO replenish commit landed since the 1638Z drain (first to the breach); live re-count 2 immediately before AND intended after this single write (concurrent-replenish-race guard, revert if a sibling mint also lands). EIGHT-SOURCE AUDIT re-run LIVE: chain no un-followed tail; unconsumed_research (+60) EXHAUSTED (newest note interface-eligibility-law targets topics/ AT CAP, no mintable expand); gap capped (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length all veto/human-deferred; positions 8 < 10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review: topics/conversion-disorder-as-consciousness-side-fault.md - settled-converged 30d (ldr == ai_modified 2026-06-16T07:27:38), ai_contribution 100, ai_system claude-opus-4-7 (older cohort, scrutinize citations hard), citation-dense clinical/FND literature (high web-verify yield), 3104w vs topics 3000 soft / 4000 hard (length-neutral-to-trimming). Chosen for Tenet-3 bidirectional / clinical-evidence axis diversity vs the two open P2s (conceivability Tenet-1 modal-epistemology + self-opacity Tenet-5 introspection). PRESERVE the article evidential calibration (substrate-intact motor decoupling robust; consciousness-side-interface reading a contestable further step) per evidential-status-discipline, no tier-upgrade to establishing dualism. POST-COUNT canonical count_p0_p2_tasks == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two older open P2s (queue-lifo-starvation guard). Pruned the two oldest floor-restore notes (cross_species_proxy_24, local_tomography_23) to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_self_opacity_31: 'Floor-restore replenish
     2026-07-16T1631Z (interactive, conservative exact-floor +1). PRE-COUNT open loop-pickable
     P0-P2 == 2 (conceivability-possibility-inference + consciousness-and-causal-powers;
@@ -1391,59 +1392,6 @@ queue_status:
     == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two older
     open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (staleness_conceivability_inference_22)
     to keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_cross_species_proxy_24: 'Floor-restore
-    replenish 2026-07-16T1549Z (interactive, conservative exact-floor +1). PRE-COUNT
-    canonical count_p0_p2_tasks == 2 (the two open P2s: conceivability-possibility-inference
-    deep-review + Local-Tomography expand, both open; biological-teleology drained
-    via cycle deep-review slot commit 44258a020 at 1545Z). MIN_QUEUE floor 3 unmet
-    by 1; restores 2 to 3. No concurrent replenish (git log clean since 1545Z before
-    AND after write), loop running (auto commits every ~6min). EIGHT-SOURCE AUDIT:
-    unconsumed_research (+60) EXHAUSTED this pass — only two fresh notes today, local-tomography
-    already tasked (P2), interface-eligibility-law targets topics/ 320/320 AT CAP;
-    chain no un-followed tail; gap capped (topics 320/320, voids 100/100, concepts
-    319/320 slot earmarked by the Local-Tomography task); orphan 0; length all veto/human-deferred;
-    positions 8 < 10 audit floor; no applied-apex-gap. SOURCE = staleness (Source
-    4). MINTED 1 P2 deep-review: topics/cross-species-behavioural-confidence-proxy-tests.md
-    — settled-converged 32d (ldr == ai_modified 2026-06-13T23:04:56), ai_contribution
-    100, ai_system opus-4-7+opus-4-8 older cohort, HIGH citation-verify yield (17-item
-    numbered reference list, specific venues/volumes/pages: Crystal&Alford 2014 Biology
-    Letters 10(3), Hampton 2001 PNAS 98(9), Clayton&Dickinson 1998 Nature 395, Kepecs
-    2008 Nature 455, Krupenye 2016 Science 354(6308), Le Pelley 2012 JEP:LMC 38(4),
-    Joo 2021 Current Biology 31(20) — the owed-web-verify-seam''s highest-yield surface).
-    Chosen for cross-species behavioural-evidence / marker-reliability axis (empirical
-    animal-metacognition; Tenet-1 Dualism via introspection-architecture signature)
-    vs the two open Tenet-1-modal + Tenet-2-physics P2s; connects to the live interface-eligibility/Birch
-    gaming-problem research thread. PRESERVE the calibration exemplar''s despite-commitments/bandwidth-blocked
-    hedges + Le Pelley deflation (no tier-upgrade). POST-COUNT canonical count_p0_p2_tasks
-    == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two older
-    open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (biological_teleology_21,
-    1421Z) to keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_unconsumed_research_local_tomography_23: 'Floor-restore
-    replenish 2026-07-16T1526Z (interactive, conservative exact-floor +1). PRE-COUNT
-    canonical open P0-P2 == 2 (the two open P2 deep-reviews: biological-teleology-and-the-interface-framework
-    + conceivability-possibility-inference, both open; the consciousness-value-connection
-    floor task drained via cycle deep-review slot commit 964bcdd4d at 1503Z). MIN_QUEUE
-    floor 3 unmet by 1; restores 2 to 3. No concurrent replenish (git head still 6a7fd1fe6
-    1524Z before AND after write), loop running (auto commits every ~6min). SOURCE
-    = unconsumed_research (Source 2, +60 top lane) — OUTRANKS the staleness (+10)
-    default the prior three restores used. A NEW research note landed today (commit
-    6a7fd1fe6 1524Z): research/local-tomography-and-the-consciousness-physics-interface-2026-07-16.md,
-    no corresponding article. Verified UNconsumed and genuinely-distinct this pass:
-    find over obsidian/archive/hugo returns only the note plus two review files (no
-    live or archived article); local tomography appears named-but-unhomed in exactly
-    one live article, generalised-probabilistic-theories (created today), whose interface
-    open-question this article homes. Not vetoed. CAP FIT is why it is mintable now:
-    concepts 319/320 with exactly one free slot (topics 320/320 AT CAP, voids 100/100
-    AT CAP both blocked); the other fresh note (interface-eligibility-law) targets
-    topics/ and is cap-blocked, so no slot contention. MINTED 1 P2 expand-topic: concepts/
-    Local Tomography and the Consciousness-Physics Interface (Tenet-2/4/5, companion
-    to the GPT hub; Renou 2021 + Hoffreumon-Woods 2026 currency flag citation-verifiable;
-    evidential-status-discipline for Orch-OR-adjacent advocacy). Takes concepts 319
-    to 320 at execution, filling the cap via the intended research-to-expand chain.
-    POST-COUNT open P0-P2 == 3 (floor exactly satisfied, no padding). BOTTOM-inserted
-    below the two older open P2s (queue-lifo-starvation guard). Pruned the oldest
-    floor-restore note (staleness_value_connection_20, 1411Z) to keep the most-recent
-    3 (bloat control, zero logic dep).'
   last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
     (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
     + methodological-pluralism owed-verify deep-reviews; the three research-topic
