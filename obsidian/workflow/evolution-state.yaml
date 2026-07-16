@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T15:19:30.211892+00:00'
-session_count: 15970
-cycle_position: 11188
+last_updated: '2026-07-16T15:24:58.971669+00:00'
+session_count: 15971
+cycle_position: 11189
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-16T11:37:59.771113+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-07-16T03:08:08.523509+00:00'
   commission-gemini-review: '2026-07-16T04:17:35.865857+00:00'
   refine-draft: '2026-07-16T14:51:51.216377+00:00'
-  research-topic: '2026-07-16T15:19:30.211892+00:00'
+  research-topic: '2026-07-16T15:24:58.971669+00:00'
   replenish-queue: '2026-07-16T14:58:38.012454+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T13:00:50.061538+00:00'
@@ -91,7 +91,7 @@ progress:
   questions_written: 0
   voids_written: 100
   positions_written: 8
-  research_notes: 516
+  research_notes: 517
   reviews_completed: 6426
   apex_articles: 39
 quality:
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-16'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-16'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-16'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-07-16'
   outcome: success
 - task: research-topic
@@ -1346,8 +1346,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T14:54:00+00:00'
-  last_replenishment_prev: '2026-07-16T14:21:00+00:00'
+  last_replenishment: '2026-07-16T15:26:00+00:00'
+  last_replenishment_prev: '2026-07-16T14:54:00+00:00'
   last_floor_restore_note_2026_07_16_staleness_biological_teleology_21: 'Floor-restore
     replenish 2026-07-16T1421Z (interactive, conservative exact-floor +1). PRE-COUNT
     canonical count_p0_p2_tasks == 2 (the two open P2 deep-reviews: analytic-idealism-and-mind-centric-metaphysics
@@ -1371,29 +1371,30 @@ queue_status:
     satisfied, no padding). FIFO BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
     guard). Pruned the oldest floor-restore note (spontaneous_collapse_18, 1333Z)
     to keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_value_connection_20: 'Floor-restore
-    replenish 2026-07-16T1411Z (interactive, conservative exact-floor +1). PRE-COUNT
-    canonical count_p0_p2_tasks == 2 (the two open P2 deep-reviews: philosophical-stakes-of-spontaneous-collapse
-    + analytic-idealism-and-mind-centric-metaphysics, both open; the interpreter-module
-    + single-cell cross-review floor tasks drained since the 1357Z restore). MIN_QUEUE
-    floor 3 unmet by 1; no concurrent loop (pgrep evolve_loop/unfin-cycle clean),
-    live re-count 2 before write. EIGHT-SOURCE AUDIT: unconsumed_research (+60) EXHAUSTED
-    — every research note <=3d has a live article (anarchic-hand, consciousness-and-major-evolutionary-transitions,
-    generalised-probabilistic-theories, hemispherectomy, interventionist-counterfactual-dualism,
-    is-conscious-being-natural-kind, near-perfect-adaptation, single-cell-proto-agency,
-    sorkin-higher-order-interference, interpreter-module all consumed); chain no un-followed
-    tail; gap capped (topics 320/320, voids 100/100, concepts 319/320 slot earmarked);
-    orphan 0; length all veto/human-deferred; positions 8 < 10 audit floor; no applied-apex-gap.
-    SOURCE = staleness (Source 4). MINTED 1 P2 deep-review: concepts/consciousness-value-connection.md
-    — settled-converged 42d (ldr == ai_modified 2026-06-03T12:00:00), ai_contribution
-    100, ai_system opus-4-5-20251101 older cohort, citation-dense (Rawlette 2016 /
-    Wolf 2010 / Nagel 1986 / Metz 2013 / Frankish 2016 JCS / Chalmers 1996 — publisher-verify
-    yield), body ~2567w vs concepts 3500 hard (length-neutral). Chosen for SECTION
-    diversity (concepts vs the two open topics/ P2s) + value/normativity axis (Tenet-1
-    value-grounding + Tenet-3) vs Tenet-2 quantum-collapse + Tenet-1 dualism-rival.
-    POST-COUNT canonical count_p0_p2_tasks == 3 (floor exactly satisfied, no padding).
-    FIFO BOTTOM-inserted below the two older open P2s (queue-lifo-starvation guard).
-    Pruned the oldest floor-restore note (unconsumed_research_interpreter_17, 1237Z)
+  last_floor_restore_note_2026_07_16_unconsumed_research_local_tomography_23: 'Floor-restore
+    replenish 2026-07-16T1526Z (interactive, conservative exact-floor +1). PRE-COUNT
+    canonical open P0-P2 == 2 (the two open P2 deep-reviews: biological-teleology-and-the-interface-framework
+    + conceivability-possibility-inference, both open; the consciousness-value-connection
+    floor task drained via cycle deep-review slot commit 964bcdd4d at 1503Z). MIN_QUEUE
+    floor 3 unmet by 1; restores 2 to 3. No concurrent replenish (git head still 6a7fd1fe6
+    1524Z before AND after write), loop running (auto commits every ~6min). SOURCE =
+    unconsumed_research (Source 2, +60 top lane) — OUTRANKS the staleness (+10) default
+    the prior three restores used. A NEW research note landed today (commit 6a7fd1fe6
+    1524Z): research/local-tomography-and-the-consciousness-physics-interface-2026-07-16.md,
+    no corresponding article. Verified UNconsumed and genuinely-distinct this pass:
+    find over obsidian/archive/hugo returns only the note plus two review files (no
+    live or archived article); local tomography appears named-but-unhomed in exactly
+    one live article, generalised-probabilistic-theories (created today), whose interface
+    open-question this article homes. Not vetoed. CAP FIT is why it is mintable now:
+    concepts 319/320 with exactly one free slot (topics 320/320 AT CAP, voids 100/100
+    AT CAP both blocked); the other fresh note (interface-eligibility-law) targets topics/
+    and is cap-blocked, so no slot contention. MINTED 1 P2 expand-topic: concepts/ Local
+    Tomography and the Consciousness-Physics Interface (Tenet-2/4/5, companion to the
+    GPT hub; Renou 2021 + Hoffreumon-Woods 2026 currency flag citation-verifiable; evidential-status-discipline
+    for Orch-OR-adjacent advocacy). Takes concepts 319 to 320 at execution, filling
+    the cap via the intended research-to-expand chain. POST-COUNT open P0-P2 == 3 (floor
+    exactly satisfied, no padding). BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
+    guard). Pruned the oldest floor-restore note (staleness_value_connection_20, 1411Z)
     to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_conceivability_inference_22: 'Floor-restore
     replenish 2026-07-16T1454Z (interactive, conservative exact-floor +1). PRE-COUNT
