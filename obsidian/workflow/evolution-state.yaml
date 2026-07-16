@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-16T13:42:43.452313+00:00'
-session_count: 15953
-cycle_position: 11180
+last_updated: '2026-07-16T13:51:07.575212+00:00'
+session_count: 15954
+cycle_position: 11181
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-16T11:37:59.771113+00:00'
   optimistic-review: '2026-07-16T12:27:59.739052+00:00'
   check-tenets: '2026-07-16T10:38:58.530837+00:00'
   check-links: '2026-07-16T07:22:21.626941+00:00'
-  deep-review: '2026-07-16T13:40:36.673966+00:00'
+  deep-review: '2026-07-16T13:51:07.575212+00:00'
   tune-system: '2026-07-15T21:51:26.911702+00:00'
   research-voids: '2026-07-16T07:25:40.900789+00:00'
   coalesce: '2026-07-16T13:11:29.020567+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-07-16'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-16'
   outcome: success
 agentic_social:
@@ -1351,32 +1351,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T13:33:00+00:00'
-  last_replenishment_prev: '2026-07-16T12:37:00+00:00'
-  last_floor_restore_note_2026_07_16_unconsumed_research_hemispherectomy_16: 'Floor-restore
-    replenish 2026-07-16T1212Z (conservative, exact-floor +1; no concurrent loop,
-    pgrep clean). PRE-COUNT canonical count_p0_p2_tasks == 2 (single-cell-proto-agency
-    cross-review + Sorkin expand, both open); the 3rd floor task (Anarchic-Hand expand
-    minted 1117Z) drained via commits 1d6b69e2e create + 4684a83b1 cross-review. MIN_QUEUE
-    floor 3 unmet by 1. SOURCE = unconsumed_research (Source 2, highest-priority +60).
-    MINTED 1 P2 expand-topic: topics/ Hemispherectomy and the Resilience of Unified
-    Consciousness, from the untracked, unconsumed note hemispherectomy-resilience-unified-consciousness-2026-07-16
-    (producing research-topic task complete todo L1480, no queued expand, not vetoed,
-    pending_articles empty). Chosen over the interpreter-module (split-brain/anarchic-hand
-    overlap) and generalised-probabilistic-theories-and-the-born-rule (ambiguous vs
-    the live concepts/generalised-probabilistic-theories article + queued Sorkin Born-rule
-    page) backlog notes for lowest dedup risk + strong Tenet-1 relevance. DEDUP CLEAN:
-    hemispherectomy is a passing example in ~8 live articles but has no dedicated
-    home; the note Gaps section confirms no dedicated philosophy-of-mind unity-of-consciousness
-    treatment exists. Target topics/ 319/320 -> 320 on execution (exactly at cap;
-    re-verify, HOLD if filled). Task notes carry the note honest-framing discipline
-    (possibility-not-proof: physicalist reorganization and filter readings both predict
-    preserved unity), citation care (Granovetter cite the PNAS 2022 not the bioRxiv
-    preprint; verify Hopkins personality/humor quote verbatim), integration links
-    + cross-review successor. FIFO BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
-    guard). POST-COUNT canonical count_p0_p2_tasks == 3 (floor 3 exactly satisfied,
-    no padding). Pruned the oldest floor-restore note (staleness_deep_review_13) to
-    keep the most-recent 3 (bloat control, zero logic dep).'
+  last_replenishment: '2026-07-16T13:57:00+00:00'
+  last_replenishment_prev: '2026-07-16T13:33:00+00:00'
   last_floor_restore_note_2026_07_16_staleness_spontaneous_collapse_18: 'Floor-restore
     replenish 2026-07-16T1333Z (interactive, conservative exact-floor +1). PRE-COUNT
     canonical count_p0_p2_tasks == 2 (single-cell-proto-agency + interpreter-module
@@ -1429,6 +1405,30 @@ queue_status:
     == 3 (floor 3 exactly satisfied, no padding). Pruned the oldest floor-restore
     note (unconsumed_research_14, Anarchic-Hand 1117Z) to keep the most-recent 3 (bloat
     control, zero logic dep).'
+  last_floor_restore_note_2026_07_16_staleness_analytic_idealism_19: 'Floor-restore
+    replenish 2026-07-16T1357Z (interactive, conservative exact-floor +1). PRE-COUNT
+    canonical count_p0_p2_tasks == 2 (single-cell-proto-agency cross-review + the 1333Z
+    spontaneous-collapse deep-review, both open; the interpreter-module cross-review
+    3rd floor task drained since the 1333Z restore). MIN_QUEUE floor 3 unmet by 1;
+    no concurrent loop (pgrep evolve_loop/unfin-cycle clean), live re-count 2 before
+    write. REPAIRED the single-cell cross-review this pass — it was missing its Type
+    field and parsed as TaskType.OTHER (un-executable by the loop, so the floor was
+    partly illusory); restored to cross-review + Source/Generated so all 3 floor tasks
+    are executable. SOURCE = staleness (Source 4): unconsumed_research (+60) EXHAUSTED
+    (all 07-16 notes consumed; born-rule note content-consumed by live concepts/generalised-probabilistic-theories);
+    gap capped (topics 320/320, voids 100/100, concepts 319/320); orphan 0; length
+    all veto/human-deferred; positions 8 < 10 audit floor; no applied-apex-gap. MINTED
+    1 P2 deep-review: topics/analytic-idealism-and-mind-centric-metaphysics.md — settled-converged
+    40d (ldr == ai_modified 2026-06-06T03:08:27), ai_contribution 100, ai_system opus-4-6
+    older cohort, citation-dense contemporary-verifiable refs (Kastrup 2019 / Goff
+    2017 / Shani 2015 Philosophical Papers / Nagel 2012 / Chalmers 1996 / Stubenberg
+    2018 SEP — higher web-verify yield than canonical-only pages), 2183w vs topics
+    4000 hard (length-neutral). Chosen for Tenet-1 rival-metaphysics diversity (analytic
+    idealism as a genuine competitor to the Map''s dualism) vs the two open agency
+    (Tenet 1/3) + quantum-collapse (Tenet 2) P2s. POST-COUNT canonical count_p0_p2_tasks
+    == 3 (floor exactly satisfied, no padding). FIFO BOTTOM-inserted below the two older
+    open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (unconsumed_research_hemispherectomy_16)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_replenish_note_2026_07_13_three_research_chain_expands: 'Replenish 2026-07-13T142532Z
     (standard mode). AUTHORITATIVE PRE-COUNT tool-verified count_p0_p2 == 2 (narrative-coherence
     + methodological-pluralism owed-verify deep-reviews; the three research-topic
