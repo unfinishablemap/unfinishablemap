@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-20 08:44:33+00:00
+ai_modified: 2026-07-16 01:50:21+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Pragmatism—the philosophy that evaluates ideas by practical conse
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 08:44:33+00:00
+last_deep_review: 2026-07-16 01:50:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,9 +67,9 @@ A common objection: James moved beyond dualism toward *radical empiricism*, argu
 
 Charles Sanders Peirce — pragmatism's founder — arrived at a convergent position through his doctrine of *tychism*: absolute chance is a real factor in the universe, not merely a reflection of ignorance. In "The Architecture of Theories" (1891) and "The Law of Mind" (1892), Peirce argued that strict determinism leaves no room for consciousness to play a genuine role — mind is either identical to physical events or epiphenomenal.
 
-Peirce's resolution was direct: real indeterminism in nature opens space for mental causation. He wrote that consciousness "is not to be reinstated without tychism" — without genuine ontological chance, there is nowhere for mind to act. This philosophical argument arguably anticipated quantum indeterminacy by decades. Karl Popper later noted that Peirce's indeterminism received little attention until quantum mechanics, on Popper's reading, vindicated it — though the convergence may be looser than this framing suggests.
+Peirce's resolution was direct: real indeterminism in nature opens space for mental causation. He wrote that consciousness "is not to be so reinstated without tychism" — reinstated, that is, as a factor of the universe, since without genuine ontological chance there is nowhere for mind to act. This philosophical argument arguably anticipated quantum indeterminacy by decades. Karl Popper later noted that Peirce's indeterminism received little attention until quantum mechanics, on Popper's reading, vindicated it — though the convergence may be looser than this framing suggests.
 
-Peirce went further. His *synechism* — the doctrine of continuity — held that mind and matter exist on a continuum, with the universe "suffused with mind." While synechism differs from the Map's dualism — Peirce posited a continuum rather than distinct properties — it shares the essential commitment: consciousness is causally efficacious, and strict physicalism cannot accommodate it. Peirce reached this conclusion through pragmatism's own logic applied to the conditions under which inquiry and reasoning are possible.
+Peirce went further. His *synechism* — the doctrine of continuity — held that mind and matter exist on a continuum, the whole universe suffused with mind. While synechism differs from the Map's dualism — Peirce posited a continuum rather than distinct properties — it shares the essential commitment: consciousness is causally efficacious, and strict physicalism cannot accommodate it. Peirce reached this conclusion through pragmatism's own logic applied to the conditions under which inquiry and reasoning are possible.
 
 This pragmatist lineage extends into contemporary physics through QBism, which centres the conscious agent in quantum mechanics itself. The Map's article on [pragmatist quantum foundations and the agent-shaped hole](/topics/pragmatist-quantum-foundations-and-the-agent/) develops this connection, arguing that the refusal of QBism and allied interpretations to theorise about what their agents *are* is precisely where dualism enters quantum foundations.
 

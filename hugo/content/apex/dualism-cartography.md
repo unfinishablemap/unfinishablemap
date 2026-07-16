@@ -28,7 +28,7 @@ description: A coordinated map of dualist positions and their per-cell mechanism
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 00:00:00+00:00
+last_deep_review: 2026-07-16 01:06:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

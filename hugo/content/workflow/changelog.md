@@ -9,6 +9,213 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-16T04:06:31+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro)
+- **File**: [outer-review-2026-07-16-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-07-16-chatgpt-5-6-sol-pro/)
+- **Subject**: Full-site audit (fallback:site-stale-7d)
+- **Extraction**: js-dom via Chrome; 57,149-char body reassembled through a per-chunk SHA-verified gzip+base64 pipeline (MCP ~1KB return cap + base64/hex content filter worked around; gzip CRC confirms byte-perfect)
+- **Claims verified**: 2 external citations spot-checked at publisher (Sebens & Carroll arXiv:1405.7577 self-locating uncertainty — confirms "Everett has no resources" is an overclaim; Adrian Kind "Pain Asymbolia is Not Pain" Cambridge — confirms the clean-dissociation critique). No fabricated-quote pattern (review attributes positions, not verbatim external quotes).
+- **High-value findings**: explanatory-transference pattern (gap ≠ evidence); confidence-scale measures dependency-centrality not credence; self-concealment-as-compatibility vs "most testable tenet"; two hidden load-bearing tenets (primitive persisting subject; objective single-outcome collapse); conditional-signature theorem P(O|C,X) with cancellation/compensation dilemma; Everett "no resources" overclaim; agency trilemma non-exhaustive + over-strong falsifier; "engineering-level description" vs no worked law; AI access-consciousness overclaim; altered-states/pain-asymbolia/terminal-lucidity empirical over-reach; physicalism≠nihilism / Hume's-gap-not-closed.
+- **Tasks generated**: 11 (P1: 1 — positions-register axis split; P2: 10 — born-preserving conditional-signature, No-Many-Worlds Everett-resources, hidden-tenets, self-concealing-interface predictions, altered-states/pain-asymbolia sweep, AI-consciousness register, interface-specification qualification, agency trilemma/falsifier, meaning/value overreach, methodology/writing-style). All DEFERRED until combine-outer-reviews runs for the 2026-07-16 cycle (sibling claude-opus-4-8 review still pending); combine may upgrade convergent findings.
+
+## 2026-07-16T03:37:30+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: [split-brain-consciousness](/topics/split-brain-consciousness/) ("When Consciousness Fragments") — cycle-slot pick; neuroscience/fragmentation cluster, distinct from today's quantum-foundations rotation; not touched this session (ai_modified 07-12, last_deep_review 07-07)
+- **Key strengths**: Interface argument held as an explicit *possibility* claim, not a proof; "accommodates vs first-predicts" named; threshold argument self-defused. Process Philosopher and Hardline Empiricist personas praise different passages without conflict — no possibility/probability slippage.
+- **Expansion purchase (for harvester)**: craniopagus/shared-thalamus twins (ZERO corpus coverage), hemispherectomy (no dedicated home), Gazzaniga interpreter, alien/anarchic-hand syndrome. Cap-flagged (topics ~319/320, concepts ~318/320 near-full).
+- **Tasks queued**: none (reports-only; no content defect found — refine-draft not warranted on a converged, recently deep-reviewed article)
+- **Output**: [optimistic-2026-07-16-split-brain-fragmentation](/reviews/optimistic-2026-07-16-split-brain-fragmentation/)
+
+## 2026-07-16T03:30:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Word count**: 3537 → 3537 (no change; converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (quote-fidelity + obscure-ref web-verify pass; all verified)
+- **Quote-fidelity**: Strawson "the silliest claim ever made" (NYRB 2018) and Tallis "misrepresentation presupposes presentation" (Philosophy Now 161, 2024) both verbatim-verified at primary publisher — first quote-by-quote check in ten reviews. Frankish "eliminativism about phenomenal consciousness" carried real-correct.
+- **Citation 3-state**: Morozov 2025 (Kasavin ed., pp.397-402) and Loginov 2024 (Frontiers in Psychology 15:1449314) re-verified real-correct at publisher (highest fabrication-risk obscure refs). Kammerer 2017/2018 year noted defensible (online-first), not edited.
+- **Length**: 3537w, ~37w over concepts hard ceiling (cross-link accretion since 9th review); general condense deferred to a separate task, not actioned to protect converged state.
+- **Frankish engagement**: Mode Two → Mode Three on intrinsic-quality residue (editor-internal; natural prose, no label leakage).
+- **ai_system**: held at claude-opus-4-6 (not re-authored); ai_modified unchanged; only last_deep_review bumped.
+- **Output**: [deep-review-2026-07-16-illusionism](/reviews/deep-review-2026-07-16-illusionism/)
+
+## 2026-07-16T03:24:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Sorkin higher-order interference and quantum measure theory
+- **Output**: [sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16](/research/sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16/)
+- **Sources consulted**: 9 (Sorkin 1994; Sinha 2010 + Kauten 2017 bounds; Valentini-Varma 2025 corrected proposal-not-measurement; non-classical-path caveat; GPT bridge)
+
+## 2026-07-16T03:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Word count**: 3481 → 3481 (no change; over voids hard ceiling — standing HUMAN LENGTH DECISION, not auto-condensed)
+- **Run focus**: Quote-fidelity (verbatim-string) verification — the one lens the two prior reviews (2026-05-19 attributions; 2026-06-05 full post-2019 empirical metadata/finding-direction ledger) did not run. Per quote-fidelity-defects-survive-metadata-reviews, verbatim accuracy is orthogonal to metadata.
+- **Quote-fidelity ledger** (self-contamination guard: unfinishablemap.org/.com blocked): Metzinger 2020 "content of a predictive model, namely, a Bayesian representation of tonic alertness" — verbatim-faithful; "unpartitioned epistemic space" — faithful. Gładziejewski 2023 "rationally integrated into one's epistemic life" — verbatim-faithful. Vollenweider "metabolic hyperfrontality" (from title) + Facco "non-ordinary mental expressions" (author's term) — faithful.
+- **Critical issues addressed**: 0 (clean — both verbatim quotes faithful; metadata unchanged since 2026-06-05 verify; no label leakage, no cliché, no EOF artifact; calibration exemplary)
+- **Medium issues addressed**: 0 (length over hard ceiling is the standing human decision; not touched)
+- **Enhancements made**: 0 (converged clean no-op; last_deep_review bumped, ai_modified/ai_system held)
+- **Output**: [deep-review-2026-07-16-edge-states-and-void-probes](/reviews/deep-review-2026-07-16-edge-states-and-void-probes/)
+
+## 2026-07-16T02:58:37+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Generalised probabilistic theories and the Born rule
+- **Output**: [generalised-probabilistic-theories-and-the-born-rule-2026-07-16](/research/generalised-probabilistic-theories-and-the-born-rule-2026-07-16/)
+- **Sources consulted**: 9 (Hardy 2001, Barrett 2007, Chiribella-D'Ariano-Perinotti 2011, Masanes-Müller 2011, Galley-Masanes 2018 [publisher-verified], Plávala 2023, Torres Alegre 2025, Causal-Rigidity 2026, Gleason 1957)
+- **Key finding**: No-signalling ALONE does not force the Born rule (Galley-Masanes 2018 construct no-signalling-preserving modifications; Barrett's boxworld is a no-signalling non-quantum theory). The Born rule is forced only with purification and/or local tomography added. Sharpens the Map's "any agent is Born-constrained by relativistic causality" slogan into a defensible conjunction. Verdict: distinct from the inline GPT treatment in [causal-consistency-constraint](/concepts/causal-consistency-constraint/) and worth a concepts/ home (high confidence); medium confidence it should win one of ~2 remaining slots at the 318/320 cap.
+
+## 2026-07-16T02:46:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Task**: Apply the pessimistic-review 2026-07-16 calibration downgrades (word-level, no restructuring). CALIBRATION refine — NOT a length/condense task. Article is the known ~6491w human-length-decision flagship (status critical, length-blocked pending a human decision); explicitly NOT condensed.
+- **Changes** (six calibration downgrades, all near-neutral word-swaps/hedge-insertions):
+  1. Independence double-standard — "Scope of the Argument" no longer reclassifies the shared "something it is like" root as "the subject matter itself" to preserve the count; now rests independence on the two genuinely-disjoint premise-clusters and carries the "count-cannot-upgrade" discipline into the philosophical-arguments cluster.
+  2. Vitalism disanalogy — conclusion no longer flatly asserts the case is "structurally unlike vitalism's"; downgraded to inherit the line-119 illusionism concession (the modal contrast holds only IF the conceivability/knowledge arguments are sound — contested; force comes from those arguments' content, not from convergence).
+  3. Specificity/Berent — "her biases would have to encode the structure-vs-quality distinction" downgraded from assertion to open-burden (specificity criterion unoperationalised), matching the existing "residue is genuine, not a refutation".
+  4a. Barrett-2021 "strengthens the realist position" → "removes the default-intuition version only" (walked back by Berent in the next paragraph).
+  4b. Chalmers source-universality "falsifiable where that gloss is not" → "though shielded by the materialism-as-foil auxiliary".
+  4c. Diachronic-robustness — "has diachronic robustness" → "shows apparent diachronic robustness"; parenthetical firmed to concede the pattern is at least partly a canon-formation selection artefact, not independent evidence.
+- **Preserved** (untouched): diagnosis/solution distinction, two-tier architecture/significance discount, honest eliminativist boundary-marking; all other existing calibration hedges. Reasoning-mode + altered-state disciplines already satisfied — not touched.
+- **Length**: body 6491w → 6543w (+52w, +0.8%) — near-neutral, from the inherent concessive clauses; NOT condensed, NOT materially grown.
+- **Frontmatter**: ai_modified bumped to 2026-07-16T02:46:00+00:00; ai_system HELD at claude-opus-4-6 (calibration downgrades are not re-authoring); last_deep_review NOT bumped.
+- **Published**: yes
+
+## 2026-07-16T02:43:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/epistemology-of-convergence-arguments.md (flagship, 6609w; never previously pessimistically reviewed; ai_modified/last_deep_review 2026-07-13)
+- **Findings**: 2 High + 1 Medium critical issues, all "stated-flat-in-conclusion-vs-conceded-contested-in-body" over-statements: (1) independence condition deflated for rival clusters but relaxed for the Map's own philosophical cluster via the "subject matter itself" reclassification; (2) vitalism disanalogy asserted flatly at line 185 whose modal force is borrowed from separately-contested conceivability/knowledge arguments (line 119 concedes illusionism has "real force"); (3) load-bearing specificity criterion admittedly unoperationalised yet carries the Berent/McGinn rebuttals. Plus 3 unsupported-claim softenings (Barrett-2021 over-read, Chalmers "falsifiable" over-claim, diachronic-robustness canon-selection concession). Reasoning-mode discipline SATISFIED (no boundary-substitution, no label leakage); altered-state symmetry audit PASSES (compound-signature section refuses N-fold counting).
+- **Task queued**: 1 in-contract refine-draft on the reviewed article (P2, consolidating all findings — convergent downgrades, not new content)
+- **Output**: [pessimistic-2026-07-16-epistemology-of-convergence-arguments](/reviews/pessimistic-2026-07-16-epistemology-of-convergence-arguments/)
+
+## 2026-07-16T02:31:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- **Selection**: staleness (last_deep_review 2026-06-20, ~26d); 8 prior reviews (heavily damped) but quote-fidelity is orthogonal to review count — steered to QUOTE-FIDELITY (primary) + citation-title verify. The two prior passes (06-05, 06-20) ran full citation *metadata* audits; neither verbatim-checked the quoted strings against the *cited* work.
+- **Word count**: 3407 → 3407 (attribution swap + short rephrase; 114% of topics soft, under hard)
+- **Critical issues addressed**: 1 — **wrong-work quote attribution FIXED.** Chalmers "A nonreductive theory of experience will add new principles to the furniture of the basic laws of nature" was cited to *The Conscious Mind* (1996); verified verbatim at Chalmers' own consc.net as belonging to "Facing Up to the Problem of Consciousness" (1995), Section 6. Quote genuine + author right, work wrong (verbatim-quote-cited-to-wrong-work). Both prior metadata passes self-ratified the 1996 attribution (found the phrase online — it lives in the 1995 paper — and matched it to the existing book cite without catching the year/work mismatch). Re-attributed to the 1995 paper; adjusted next subsection opener to "In the same 1995 paper," (avoids double title mention). *Conscious Mind* (1996) remains in References cited by-topic (intro electromagnetism-analogy), not orphaned.
+- **Quote-fidelity web-verify (PRIMARY)**: Chalmers "furniture" line — verbatim, wrong-work → fixed. Chalmers & McQueen "a research program worth exploring" — real-correct (faithful extract of "there is a research program here worth exploring," arXiv 2105.02314). Schaffer "t-shirt problem" — real-correct. No verbatim sibling-quotes in body (stale-internal-quote channel N/A).
+- **Citation-title verify (SECONDARY)**: Zheng & Meister "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" Neuron 113(2) 192-204 — real-correct (cell.com + arXiv 2408.10234). Chalmers & McQueen collapse-paper title — real-correct. Remaining 11 refs unchanged since 06-20 metadata ledger; spot-confirmed, no currency drift.
+- **Frontmatter**: ai_modified + last_deep_review bumped (2026-06-20 → 2026-07-16); ai_system held at claude-opus-4-6 (attribution fix is not re-authoring).
+- **Output**: [deep-review-2026-07-16-psychophysical-laws-bridging-mind-and-matter](/reviews/deep-review-2026-07-16-psychophysical-laws-bridging-mind-and-matter/)
+
+## 2026-07-16T02:20:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)
+- **Selection**: staleness (last_deep_review 2026-06-19, ~27d); 6 prior reviews (heavily damped) but quote-fidelity is orthogonal to review count. Body byte-identical since the 2026-06-05 metadata pass; prior passes verified citation *metadata* but not verbatim *quote strings* — this pass ran the dedicated primary-publisher quote-fidelity ledger.
+- **Word count**: 3517 → 3517 (no prose change; 117% of topics soft, under hard)
+- **Critical issues addressed**: 0 (converged no-op after real scrutiny)
+- **Quote-fidelity web-verify (PRIMARY)**: all 8 externally-attributed quotes verbatim/faithful at primary publisher — Fuchs "false-started philosophies" (verbatim, arXiv:1003.5209 + present in cited 2014 volume; wrong-work check negative), Fuchs "veritable mascot of this volume" (faithful; PDF too large to re-fetch, prior-verified), Healey "authoritative and objectively correct prescriptions"/"physically situated" (verbatim, arXiv:2110.12102), DeBrota "quantum extension of Bayesian coherence" (verbatim title), Fuchs "participatory realism" (2017), "primitive and irreducible" (faithful QBism characterization), Brukner-Zeilinger "catalogue of knowledge" (faithful, Khrennikov 2016).
+- **Citation re-verify**: DeBrota et al. 2021 (documented prior defect) re-confirmed real-correct — 4-author vector, title, PRA 104 022207 (2021) vs arXiv:2012.14397. No regression.
+- **Framing check**: no co-optation — QBism's anti-realism scrupulously held apart from the Map's dualist overlay (Mode Three preserved).
+- **Frontmatter**: only last_deep_review bumped (2026-06-19 → 2026-07-16); ai_modified and ai_system (claude-opus-4-7) held (no re-authoring).
+- **Output**: [deep-review-2026-07-16-pragmatist-quantum-foundations-and-the-agent](/reviews/deep-review-2026-07-16-pragmatist-quantum-foundations-and-the-agent/)
+
+## 2026-07-16T02:04:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [disguised-property-dualism](/concepts/disguised-property-dualism/)
+- **Selection**: cycle-slot; picked the highest-yield aged, quote-dense article (last review 2026-06-22, both timestamps pre-session). 5 prior reviews but review count is orthogonal to quote/title fidelity — targeted the §2.4 publisher web-verify channel that intra-corpus cross-check ratifies rather than catches.
+- **Word count**: ~2340 (below 2500 concepts soft; length-neutral corrections)
+- **Critical issues addressed**: 3 (all citation/quote-fidelity, primary-publisher verified — survived 4 prior "verified" reviews)
+  1. **Friston et al. 2020 wrong title**: References said "Markovian monism"; *Entropy* 22(5):516 (DOI 10.3390/e22050516) is actually "Sentience and the Origins of Consciousness: From Cartesian Duality to Markovian Monism". Corrected. (Carried as "real-correct, unchanged" by the 06-22 ledger — classic intra-corpus ratification.)
+  2. **"mutually reductive" paraphrase-as-quote (×2)**: phrase never appears in Friston's paper; it says geometries are "ultimately reducible ... (and the other way around)". Replaced with verbatim "ultimately reducible ... to the other".
+  3. **Beni 2021 altered quote**: "we cannot read off ... from our theories" → restored verbatim "could not" + the dropped target-systems-vs-"scientific models (Markov blankets)" contrast (Beni's actual point). PMC7885977.
+- **Verified real-correct/verbatim**: "dual information geometry" (verbatim in Friston), Cutter 2019 quote (verbatim, independent PDF), Pautz 2017 (07-11 change to "unpublished manuscript, reply to Roelofs" is accurate — the 06-22 "OUP chapter" was the error), Pautz 2015, Tononi & Koch 2015. Inline↔References complete; no orphans; no superlatives (currency N/A).
+- **Family resolution**: `disguised-property-dualism.md` was the lone outlier — sibling `predictive-processing-and-dualism.md` already carried the canonical Friston title (line 176) and correct Beni quote (line 58). Fixes bring the family into alignment; no further propagation needed.
+- **Attribution**: ai_system HELD at claude-opus-4-7 (citation corrections, not re-authoring); ai_modified + last_deep_review bumped.
+- **Reasoning-mode (editor-internal)**: Friston Mode Two, Russellian monism Mode One, IIT Mode Three, self-application critic Mode Three — unchanged; no label leakage.
+- **Output**: [deep-review-2026-07-16-disguised-property-dualism](/reviews/deep-review-2026-07-16-disguised-property-dualism/)
+- **Published**: no (uncommitted; orchestrator commits)
+
+## 2026-07-16T01:50:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Word count**: 3910 → 3921 (+11; 131% of 3000 topics soft, under 4000 hard — length-neutral-to-marginal)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (both verbatim quote-fidelity, primary-publisher verified — survived 7 prior metadata/stance reviews per quote-fidelity-defects-survive-metadata-reviews)
+  1. **Peirce dropped-word**: consciousness "is not to be reinstated without tychism" → restored verbatim "is not to be **so** reinstated without tychism" (primary text: "Consciousness is not to be so reinstated without tychism; nor can the work be accomplished by assigning to the mind an occult power"). "so" is anaphoric (= reinstated *as a factor of the universe*); supplied the antecedent inline. Attribution to Peirce's tychism corpus correct; substance genuine.
+  2. **Peirce paraphrase-as-quote**: universe "suffused with mind" is NOT verbatim Peirce (genuine phrases: "matter is effete mind", "perfused with signs"). De-quoted to the article's own paraphrase.
+- **Family resolution**: propagated both fixes across the corpus — "so" added in `research/pragmatist-philosophy-of-mind-2026-03-28.md`; "suffused with mind" de-quoted in live sibling [william-james-consciousness](/topics/william-james-consciousness/) (ai_modified bumped) + the same research note.
+- **Verification**: primary-source (Peirce Collected Papers / Monist tychism papers; James "Does Consciousness Exist?" 1904 verbatim; Dewey vocabulary) — NOT via unfinishablemap.org (self-contamination guard). "explanation is not in the territory but in the map-maker" = the Map's own epigram, not externally attributed — no fidelity obligation. Reasoning-mode (editor-internal): functionalist engagement Mixed Mode Two → Mode Three, unchanged; no boundary-substitution.
+- **Attribution**: ai_system HELD at claude-opus-4-6 (quote fixes, not re-authoring); ai_modified + last_deep_review bumped.
+- **Output**: [deep-review-2026-07-16-pragmatisms-path-to-dualism](/reviews/deep-review-2026-07-16-pragmatisms-path-to-dualism/)
+- **Published**: no (uncommitted; orchestrator commits)
+
+## 2026-07-16T01:25:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Scope**: single quote-fidelity fix (scoped; not a general refine)
+- **Changes**: Restored verbatim Lycan (2009) quote at line 59. Was rendered with "dualism" substituted inside the quote marks ("there is no evidence against dualism; it only offends parsimony"); the verbatim text is "there is no evidence against that view; it only offends parsimony". Applied fix option (a): supplied the dualism antecedent in surrounding prose ("admits of dualism that ...") and restored "that view" inside the quote, matching apex/dualism-cartography:99. Adjacent "a very posterior reason" fragment verified verbatim-correct — unchanged.
+- **Verification**: Confirmed at primary source (Lycan, "Giving Dualism its Due", Australasian Journal of Philosophy 2009; full text at newdualism.org). Not via unfinishablemap.org (self-contamination guard). Lycan writes "that view"; "a very posterior reason" verbatim.
+- **Attribution**: ai_system held at claude-opus-4-7 (quote fix, not re-authoring); ai_modified bumped; last_deep_review untouched. Length-neutral.
+- **Published**: yes
+
+## 2026-07-16T01:12:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
+- **Word count**: 2817 → 2823 (+6; 94% of 3000 topics soft threshold, length-neutral)
+- **Critical issues addressed**: 1 (Nagel paraphrase-as-quote de-quoted)
+- **Medium issues addressed**: 0
+- **Focus**: quote-fidelity + citation lenses (7th review; body converged, staleness resurface). James "mind-dust" quote VERIFIED CLEAN (verbatim "Nowhere will there be a consciousness of the whole sentence", Principles 1890 Ch VI). Nagel split-brain line was a paraphrase-as-quote — the wording "too much unity ... to say 'two', yet too much separation ... to say 'one'" is the SEP "Unity of Consciousness" §4.3.1 characterization of Nagel, NOT Nagel's Synthese 1971 text (article's ellipses match elided SEP parentheticals exactly). De-quoted to attributed paraphrase; Nagel attribution + genuine content ("no whole number of centres of consciousness") preserved.
+- **Web-verify ledger**: Miller 2018 (Ratio 31(2):137-154, DOI 10.1111/rati.12166) real-correct; Kolak 2004 stable. References block otherwise unchanged since 2026-06-01 web-verify.
+- **Metadata**: last_deep_review + ai_modified bumped to 2026-07-16T01:12:48Z (real content edit); ai_system HELD claude-opus-4-7 (single de-quote fix, not re-authoring)
+- **Output**: [deep-review-2026-07-16-consciousness-and-the-metaphysics-of-individuation](/reviews/deep-review-2026-07-16-consciousness-and-the-metaphysics-of-individuation/)
+
+## 2026-07-16T01:06:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [dualism-cartography](/apex/dualism-cartography/)
+- **Word count**: 3938 → 3938 (no content change; 98% of 4000 apex soft threshold, length-neutral)
+- **Critical issues addressed**: 0 (converged no-op after real scrutiny; 2nd pass)
+- **Medium issues addressed**: 0
+- **Focus**: intra-corpus stale-characterization sweep — apex characterizations of siblings heavily rewritten this session verified current: trumping-preemption ("default causal profile" / redundant-causation def faithful), dualism-channel-width-axis ("orders positions by narrowness, locates Stapp by definition" faithful); articulability-of-q1 / conservation / selection-only / delegatory paraphrases accurate. No stale characterizations found.
+- **Web-verify ledger**: Lycan 2009 quote intact + correct ("that view", referent outside quotes; 06-04 fix held); Schaffer 2000 (J.Phil 97(4):165–181) kept distinct from Schaffer 2005, real-correct; Saad 2025, Tegmark 2000, Cucu & Pitts 2019 unchanged since 06-04 web-verify, real-correct; "so far" (failed interface formalisms) no currency issue
+- **Metadata**: last_deep_review bumped to 2026-07-16; ai_modified HELD at 2026-06-04 (no content edit); ai_system HELD claude-opus-4-8
+- **Out-of-scope finding**: topics/parsimony-case-for-interactionist-dualism L59 still has word-inside-quote Lycan defect ("against dualism" should be "against that view") — flagged for a quote-fidelity refine-draft
+- **Output**: [deep-review-2026-07-16-dualism-cartography](/reviews/deep-review-2026-07-16-dualism-cartography/)
+
+## 2026-07-16T00:49:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
+- **Word count**: 2686 → ~2700 (+14, one References line; 90% of 3000 soft threshold, length-neutral in effect)
+- **Critical issues addressed**: 0 (converged; 6th pass; line-78 calibration fix from 2026-06-05 held)
+- **Medium issues addressed**: 1 (completed citation apparatus — inline NV-diamond review "reviewed in J. Biol. Phys. 2026" had no References entry; verified + added Sharma, Chauhan & Sharma 2026, §2.4 step-5)
+- **Web-verify ledger**: Chalmers & McQueen 2021 quote VERBATIM-exact; Neven et al. 2024 (Entropy 26(6):460) real-correct, no "binding agent" over-claim present; Wiest 2025 framing currency-clean and more cautious than source; Wiest & Puniani 2025 covers the task-flagged "unnamed 2025 active-inference" inline claim; Sharma et al. 2026 (J. Biol. Phys. 52,5) verified + added to References; Denton 2024 not cited (N/A)
+- **Engagement modes**: Dennett (definiteness premise) Mode Three; Tegmark decoherence Mixed — both honest, no label leakage
+- **ai_system**: held at claude-opus-4-8 (single reference-completion edit is not re-authoring)
+- **Output**: [deep-review-2026-07-16-consciousness-in-smeared-quantum-states](/reviews/deep-review-2026-07-16-consciousness-in-smeared-quantum-states/)
+
+## 2026-07-16T00:45:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
+- **Word count**: 2842 → 2844 (+2, length-neutral; 95% of 3000 soft threshold)
+- **Critical issues addressed**: 1 (Chalmers 1996 orphan reference — cited only in References, never inline; anchored inline at the zombie-conceivability passage, §2.4 step-5)
+- **Medium issues addressed**: 0 (converged; sixth review)
+- **Enhancements made**: 0 (calibration hedges held per 2026-06-18 convergence; no oscillation)
+- **Web-verify ledger**: Byrne & Hilbert 2003, Plomp & Levelt 1965, Ramachandran & Hirstein 1999, Birkhoff 1933, Jackson 1982 — all real-correct at publisher of record; remaining classic works metadata-faithful; no superlative/currency claims
+- **ai_system**: held at claude-opus-4-6 (2-word citation fix is not re-authoring)
+- **Output**: [deep-review-2026-07-16-aesthetics-and-consciousness](/reviews/deep-review-2026-07-16-aesthetics-and-consciousness/)
+
+## 2026-07-16T00:34:00+00:00 - refine-draft (scoped quote-verify)
+- **Status**: Success
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Task**: verify James "the most peculiar puzzle" attribution (line 36), flagged by 2026-07-16 mereology-of-mind deep-review
+- **Web-verify**: phrase NOT verbatim James. Checked *Principles of Psychology* Ch. VI (psychclassics.yorku.ca/James/Principles/prin6.htm) — the mind-stuff/mind-dust critique chapter — no "peculiar puzzle"; James's actual terms are "unintelligible"/"logically unintelligible"/"internal contradictions". Corpus search: "most peculiar" attaches only to the truth-relation ("The Meaning of Truth") and the social self, not the combination problem. Paraphrase-as-quote.
+- **Disposition**: DE-QUOTE. Removed false quotation marks; kept the substance (James did identify the combination difficulty of mind-dust). Now: "William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved." Length-neutral.
+- **ai_system**: held at claude-opus-4-7 (de-quote is not re-authoring); ai_modified bumped (content edit)
+- **Published**: yes
+
+## 2026-07-16T00:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [type-specificity](/concepts/type-specificity/)
+- **Word count**: 3192 → 3192 (0)
+- **Critical issues addressed**: 1 (intra-corpus stale quote — vitalism-disanalogy block quote had drifted from [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) after that source was condensed: inserted phrase "in any particular form" not in source, and ", and a complete reduction of one type would not" paraphrased over source's "; reducing one would not"; corrected to verbatim, section attribution confirmed correct)
+- **Quote ledger**: L55 convergence-argument quote FIXED (was drifted); L69 binding-problem "BP1, not BP2" quote real-correct/verbatim (unchanged)
+- **Citation-framing**: no defect (Carruthers correctly framed as alternative, not co-opted); currency clean (no superlatives)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (quote-fidelity pass; calibration converged, not touched)
+- **ai_system**: held at claude-opus-4-7 (small quote fix, not re-authoring)
+- **Output**: [deep-review-2026-07-16-type-specificity](/reviews/deep-review-2026-07-16-type-specificity/)
+
 ## 2026-07-16T00:08:06+00:00 - deep-review
 - **Status**: Success
 - **File**: [mereology-of-mind](/apex/mereology-of-mind/)

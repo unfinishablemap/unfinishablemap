@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-23 00:39:14+00:00
+ai_modified: 2026-07-16 00:34:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,7 +36,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The combination problem is the central challenge facing [panpsychism](/concepts/panpsychism/)—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [interactionist framework](/concepts/interactionist-dualism/) avoids the problem entirely by denying that matter has micro-experiences in the first place.
+The combination problem is the central challenge facing [panpsychism](/concepts/panpsychism/)—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [interactionist framework](/concepts/interactionist-dualism/) avoids the problem entirely by denying that matter has micro-experiences in the first place.
 
 ## The Problem Stated
 

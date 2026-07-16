@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-06-20 12:08:55+00:00
+ai_modified: 2026-07-16 02:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: If consciousness is distinct from physics, fundamental laws must co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 12:08:55+00:00
+last_deep_review: 2026-07-16 02:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,11 +59,11 @@ This article covers the full framework: why psychophysical laws are needed, what
 
 ### The Fundamental Need
 
-Chalmers' central argument: if consciousness is not reducible to or identical with physical processes, something must specify how the two domains relate. These psychophysical laws are "naturalistic" (lawful regularities like other natural laws—no Cartesian souls violating conservation) and "dualist" (connecting genuinely distinct domains rather than reducing one to the other). Chalmers writes in *The Conscious Mind* (1996): "A nonreductive theory of experience will add new principles to the furniture of the basic laws of nature."
+Chalmers' central argument: if consciousness is not reducible to or identical with physical processes, something must specify how the two domains relate. These psychophysical laws are "naturalistic" (lawful regularities like other natural laws—no Cartesian souls violating conservation) and "dualist" (connecting genuinely distinct domains rather than reducing one to the other). Chalmers writes in "Facing Up to the Problem of Consciousness" (1995): "A nonreductive theory of experience will add new principles to the furniture of the basic laws of nature."
 
 ### Three Bridging Principles
 
-In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three principles constraining how phenomenal and physical properties relate.
+In the same 1995 paper, Chalmers proposes three principles constraining how phenomenal and physical properties relate.
 
 **Structural coherence.** The structure of conscious experience corresponds to the structure of cognitive processing. Three-dimensional colour experience maps onto three-dimensional wavelength discrimination. Temporal flow parallels sequential information processing. This constrains without determining—inverted spectrum scenarios show structure alone doesn't fix phenomenal quality.
 
