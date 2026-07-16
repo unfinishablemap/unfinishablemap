@@ -5,6 +5,17 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T19:33:27+00:00 - deep-review
+- **Status**: Success (converged 5th review; older-cohort claude-opus-4-6 scrutinized on coinage/claim-match lens — surfaced ONE attribution-precision fix all 4 prior reviews missed)
+- **File**: [[concepts/direction-of-fit]]
+- **Word count**: ~1749 → ~1797 (+48)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — Anscombe *Intention* (1957) introduced the *distinction* but never used the phrase "direction of fit"; article's "Anscombe introduced direction of fit" risked the documented common misattribution. Corrected in body: names the distinction as Anscombe's, notes she did not coin the term, credits the phrase "usually to Searle" (deliberately hedged — coiner is contested across Austin/Searle/Platts). Web-verified externally (Wikipedia, BJHP 26/3, Humberstone 1992), no unfinishablemap.org self-verification.
+- **Citation ledger** (§2.4): all 4 cites real-correct — Anscombe 1957 *Intention* (claim-match ✓, shopping-list §32 faithful), Humberstone 1992 *Mind* 101(401) 59-84 ✓, Searle 1983 *Intentionality* ✓, Smith 1994 *The Moral Problem* ✓. No fabrications, no wrong-author/venue/year, no naturalist-cited-as-ally.
+- **Enhancements made**: 0 (no expansion — converged, ~72% soft threshold); 13/13 cross-links verified live
+- **Frontmatter**: `ai_modified` + `last_deep_review` → 2026-07-16T19:33:27+00:00; `ai_system` HELD at claude-opus-4-6 (precision fix, not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-16-direction-of-fit]]
+
 ## 2026-07-16T19:27:25+00:00 - deep-review
 - **Status**: Success (converged NO-OP — 4th review; surfaced only because sibling cross-reviews appended 2 Further Reading links and `last_deep_review` aged past the 14-day exclusion window)
 - **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]

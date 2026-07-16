@@ -4,7 +4,7 @@ description: "Direction of fit classifies mental states by whether mind adapts t
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-03T07:13:21+00:00
+ai_modified: 2026-07-16T19:33:27+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-06-03T07:13:21+00:00
+last_deep_review: 2026-07-16T19:33:27+00:00
 ---
 
 Direction of fit is a classification of mental states according to how they relate to the world. Beliefs have *mind-to-world* direction of fit: when a belief conflicts with reality, the belief is at fault and should change. Desires have *world-to-mind* direction of fit: when reality conflicts with a desire, reality is at fault and should change. This asymmetry, introduced by Elizabeth Anscombe in 1957 and developed by John Searle in 1983, reveals something fundamental about [[intentionality]]—and about whether consciousness can be causally inert.
@@ -34,7 +34,7 @@ The Unfinishable Map holds that direction of fit, particularly the world-to-mind
 
 ## Anscombe's Original Distinction
 
-Anscombe introduced direction of fit through an analogy in *Intention* (1957). Imagine a detective following a shopper through a store, writing down everything the shopper buys. Both end up with identical lists. But the lists have different directions of fit.
+Anscombe introduced the distinction through an analogy in *Intention* (1957)—though she never used the phrase "direction of fit" itself. The term entered philosophical usage later (it is usually credited to Searle's work on illocutionary acts, which recast Anscombe's example as the metaphor's clearest illustration) and is often wrongly attributed to Anscombe directly. Her analogy: imagine a detective following a shopper through a store, writing down everything the shopper buys. Both end up with identical lists. But the lists have different directions of fit.
 
 The detective's list should match what the shopper actually buys. If the list says "butter" but the shopper bought margarine, the *list* is wrong. This is mind-to-world fit: the representation adapts to reality.
 
