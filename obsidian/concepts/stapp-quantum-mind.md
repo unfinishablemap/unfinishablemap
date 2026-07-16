@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-07-14T10:53:00+00:00
+ai_modified: 2026-07-16T22:55:04+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-06-20T00:00:00+00:00
+last_deep_review: 2026-07-16T22:55:04+00:00
 ---
 
 Henry Stapp's quantum mind model proposes that consciousness influences the brain through the quantum Zeno effect—a standard result in quantum mechanics where rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework, mental effort acts like repeated observation, "holding" desired neural patterns in place against their natural tendency to dissipate. This provides a mechanism for mind-matter interaction that requires no new physics: consciousness operates through orthodox quantum mechanics, selecting among superposed neural states by attending to them.
@@ -66,7 +66,7 @@ Among [[psychophysical-laws|proposed coupling mechanisms]], Stapp's model is the
 
 ## William James and the Phenomenology of Effort
 
-Stapp finds a kindred spirit in William James, who observed: "Volition is nothing but attention" and "The free will question relates solely to the amount of effort of attention." James recognised that controlling attention requires continuous, renewable effort—but couldn't explain what this effort *is*.
+Stapp finds a kindred spirit in William James, who held that "volition is nothing but attention" (*Principles of Psychology*, ch. 11) and, in the chapter on Will, made effort of attention the essential phenomenon of willing—so that the free-will question turns on how much effort of attention one can sustain from moment to moment. James recognised that controlling attention requires continuous, renewable effort—but couldn't explain what this effort *is*.
 
 Stapp's model answers: felt effort corresponds to observation rapidity. Sustained attention feels like work because it *is* work—continuous mental engagement to maintain the Zeno effect.
 
@@ -110,7 +110,7 @@ This framework avoids standard objections: the selection is *not random* (follow
 
 The most serious challenge: quantum coherence in warm brains should decay far too quickly (Tegmark calculated 10⁻¹³ seconds) for the Zeno mechanism to operate at neural timescales (milliseconds). This is the [[timing-gap-problem]]—a twelve-order-of-magnitude mismatch between decoherence and neural decision timing.
 
-**Response**: Several considerations complicate this objection without definitively resolving it. Revised calculations produce longer coherence times (10⁻⁵ seconds), though still contested—Hagan, Hameroff and Tuszynski (2002) argued in this vein that Tegmark's figure rested on an oversimplified microtubule model and that ordered water and a counter-ion Debye layer could screen quantum states, a rebuttal that remains favourable to the quantum-mind programme but has not been independently confirmed. More recently, [[quantum-biology-and-neural-mechanisms|quantum biology]] has demonstrated functional quantum effects in warm biological systems—and in 2024, Nature Communications published evidence that the quantum Zeno effect itself enables magnetosensitivity in cryptochrome radical pairs, where tight binding of the radicals within the protein preserves coherence against decoherence. This is best read as a biological proof-of-concept that the Zeno mechanism *can* operate in a warm protein microenvironment. It is not a precedent for the kind of state Stapp's model requires: cryptochrome involves spin coherence in a tightly bound two-radical system shielded inside a protein pocket, structurally unlike a delocalised superposition over macroscopic neural firing patterns spanning many neurons, and its microsecond coherence is still some three orders of magnitude short of the millisecond neural timescale.
+**Response**: Several considerations complicate this objection without definitively resolving it. Revised calculations produce longer coherence times (10⁻⁵ seconds), though still contested—Hagan, Hameroff and Tuszynski (2002) argued in this vein that Tegmark's figure rested on an oversimplified microtubule model and that ordered water and a counter-ion Debye layer could screen quantum states, a rebuttal that remains favourable to the quantum-mind programme but has not been independently confirmed. More recently, [[quantum-biology-and-neural-mechanisms|quantum biology]] has found candidate functional quantum effects in warm biological systems—and in 2024, a Nature Communications spin-dynamics *modelling* study argued that the quantum Zeno effect itself could enable magnetosensitivity in tightly bound cryptochrome radical pairs, where tight binding of the radicals within the protein preserves coherence against decoherence. This is a computational proof-of-concept—not an experimental demonstration—that the Zeno mechanism *could* operate in a warm protein microenvironment. It is not a precedent for the kind of state Stapp's model requires: cryptochrome involves spin coherence in a tightly bound two-radical system shielded inside a protein pocket, structurally unlike a delocalised superposition over macroscopic neural firing patterns spanning many neurons, and its microsecond coherence is still some three orders of magnitude short of the millisecond neural timescale.
 
 **Monte Carlo critique**: Georgiev's (2015) Monte Carlo simulations of electron tunnelling in neuronal ion channels challenged whether the Zeno mechanism remains robust beyond the brain decoherence time, concluding that the quantum Zeno effect breaks down once observation intervals exceed that timescale. Crucially, the critique is not a closed refutation: Georgiev leaves a door open by noting that the mechanism could survive if the relevant brain degrees of freedom occupy a *decoherence-free subspace*—a set of states protected from environmental decoherence by a symmetry of the system-environment coupling. That qualifier matters for Stapp's programme, because it converts the decoherence objection from "the Zeno mechanism is impossible in a warm brain" into the narrower and still-open empirical question of whether neural tissue supplies such a protected subspace. The cryptochrome result above shows Zeno can work in a protected biological microenvironment; whether neural firing patterns enjoy analogous protection is unconfirmed, and that, rather than a blanket impossibility, is where the dispute now sits.
 
@@ -192,11 +192,12 @@ Predictions 1, 2, 3, 5 and 6 test the attention-and-effort layer the model share
 
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Denton, M.C.J., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
-1. Georgiev, D. (2012). Mind efforts, quantum Zeno effect and environmental decoherence. *NeuroQuantology*, 10(3), 552.
+1. Georgiev, D. (2012). Mind efforts, quantum Zeno effect and environmental decoherence. *NeuroQuantology*, 10(3), 374–388. DOI 10.14704/nq.2012.10.3.552.
 1. Georgiev, D.D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039. arXiv:1412.4741.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440.
 1. James, W. (1890). *The Principles of Psychology*. Chapter 11: Attention. Chapter 26: Will.
+1. Kral, T.R.A., Davis, K., Korponay, C., Hirshberg, M.J., Hoel, R., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R., Martin, K.M., & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.

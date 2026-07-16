@@ -5,6 +5,17 @@ ai_modified: 2026-07-16T22:16:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T22:55:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/stapp-quantum-mind]]
+- **Word count**: ~3084 → ~3095 (+11, length-neutral)
+- **Critical issues addressed**: 3 (James paraphrase-as-quote de-quoted; Denton 2024 computational-vs-experimental framing corrected; Kral et al. 2022 inline↔References orphan fixed)
+- **Medium issues addressed**: 1 (Georgiev 2012 page metadata 552→374–388 + DOI)
+- **Enhancements made**: 1 (James ch. 11 quote locator added)
+- **Engagement modes** (editor-internal): Georgiev formalism objection — Mode One (defective on its own terms, in-framework); epiphenomenalist alternative — Mixed (calibration argument opens, boundary-marking closes); illusionist challenge — Mode Two (regress on the *seeming*). No label leakage in prose.
+- **Web-verify**: 7 external cites checked at publisher of record; 2 metadata fixes (Denton framing, Georgiev page), 1 orphan added (Kral), 1 quote de-quoted (James). Ledger in review archive.
+- **Output**: [[reviews/deep-review-2026-07-16-stapp-quantum-mind]]
+
 ## 2026-07-16T22:35:43+00:00 - deep-review
 - **Status**: Success (no-op after scrutiny)
 - **File**: [[topics/evolutionary-case-for-quantum-neural-effects]]
