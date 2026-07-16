@@ -1340,8 +1340,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T21:32:00+00:00'
-  last_replenishment_prev: '2026-07-16T21:01:00+00:00'
+  last_replenishment: '2026-07-16T21:43:00+00:00'
+  last_replenishment_prev: '2026-07-16T21:32:00+00:00'
   last_floor_restore_note_2026_07_16_staleness_affective_void_2132: 'Floor-restore
     replenish 2026-07-16T2132Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text()) ==
@@ -1376,43 +1376,45 @@ queue_status:
     below the two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore
     note (subjective_aim_1955) to keep the most-recent 3 (bloat control, zero logic
     dep).'
-  last_floor_restore_note_2026_07_16_staleness_reductionism_2101: 'Floor-restore replenish
-    2026-07-16T2101Z (interactive agent, conservative exact-floor +1). Timestamp is
-    the REAL date -u wall clock; the prior legs (1937/1955/2130) were fork-future-dated
-    (fork-future-dates-frontmatter-timestamps) vs the true commit times 20:36-20:55Z,
-    so last_replenishment corrected downward to the honest current time. AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text()) ==
-    2 verified LIVE immediately before AND 3 after this single write. MIN_QUEUE floor
-    3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (ps clean); tree clean
-    at mint (only todo.md dirty); HEAD 2de57c6cd is a deep-review cycle_post pre-replenish
-    tree-clean, i.e. this IS the /unfin-cycle replenish leg (the session cycle just
-    drained concepts/subjective-aim, commit d74eda8e9, NOT concurrent-replenish-race).
+  last_floor_restore_note_2026_07_16_staleness_evolutionary_quantum_2143: 'Floor-restore
+    replenish 2026-07-16T2143Z (interactive agent, conservative exact-floor +1). Timestamp
+    is the REAL date -u wall clock. AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text())
+    == 2 verified LIVE immediately before AND 3 after this single write. MIN_QUEUE
+    floor 3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (ps -ef clean,
+    checked twice); tree clean at mint; HEAD c1476ea9f is a deep-review cycle_post
+    pre-replenish tree-clean, i.e. this IS the /unfin-cycle replenish leg (the session
+    cycle just drained voids/mattering-void, commit 983ea0252, NOT concurrent-replenish-race).
     concurrent-replenish-race guard: revert the redundant add if a sibling mint lands.
-    EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks all deep-review/replenish/agentic-social);
+    EIGHT-SOURCE AUDIT re-run LIVE: chain none (recent_tasks all deep-review/replenish/agentic-social/pessimistic/refine);
     unconsumed_research BLOCKED (target sections AT CAP); gap capped (topics 320/320,
     concepts 320/320, voids 100/100 all AT CAP by live file-count; positions 8/80);
     orphan 0; length all veto/human-deferred; positions audit ran 2026-07-12 (< 30d,
-    not overdue); no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2
-    deep-review concepts/reductionism.md -- the oldest un-queued MEANINGFUL-drift
-    candidate: last_deep_review 2026-06-17 (29-day gap) with a GENUINE unverified
-    content change, a 2026-06-23 /condense pass (commit 46000d485) never deep-reviewed
-    since (condense-regresses-calibration-qualifiers is the yield lens); later 07-12/07-13
-    touches are connective cross-link accretion. Preferred over the strict-oldest
-    CHANGED voids (relevance-void/decision-void = 1-day within-cycle drift, effectively
-    no-op) and over topics/responsibility-gradient (its post-review drift is a lone
-    AI-moral-agency inbound cross-link; the Meister citation fix predates its 06-19
-    review and already landed = deep_review_over_reviews_converged trap). ai_contribution
-    100, ai_system claude-opus-4-8 (cohort unrepresented by the two open P2s -- causal-powers
-    sonnet-4-5, mattering-void opus-4-7), ~3500 body words (ok, right at post-condense
-    ceiling), EOF scan CLEAN (ends on Putnam 1967). Axis = reductionism / multiple-realizability
-    / anti-reductionism, Tenet 1 load-bearing, distinct from both open P2 axes. Verify-job:
-    condense-regression audit (restore any dropped calibration hedge), web-verify
-    the fresh Milinkovic and Aru 2026 cite at publisher, cross-link reciprocity, tenet
-    routing, style. HOLD ai_system + no ai_modified bump on a no-op (deep-review-fork-over-attributes-ai-system
-    + deep-review-fork-bumps-ai-modified-on-noop). POST-COUNT count_p0_p2_tasks ==
-    3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two open P2s
-    (queue-lifo-starvation guard). Pruned the oldest floor-restore note (vagueness_void_1937)
-    to keep the most-recent 3 (bloat control, zero logic dep).'
+    not overdue); no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review
+    topics/evolutionary-case-for-quantum-neural-effects.md -- chosen for genuine web-verify
+    yield + section/cohort/axis diversity over strict-oldest metadata no-ops: the strict-corpus-oldest
+    un-queued (voids/non-human-minds-as-void-explorers, last_deep_review 2026-06-02,
+    ai_modified == last_deep_review 44d untouched) is a pure no-op (deep_review_over_reviews_converged
+    trap); voids/temporal-void (06-12) SKIPPED as connective-only reciprocal-cross-link
+    drift + would be a 3rd voids alongside affective-void; inference-void declined twice;
+    what-voids-reveal/recognition-void churning THIS session (ai_modified 2026-07-16).
+    evolutionary-case: last_deep_review 2026-06-20 (26-day settled gap), ai_modified
+    2026-07-14 (settled 2 days, low churn risk), ai_contribution 100, ai_system claude-opus-4-7
+    (cohort unrepresented by the two open P2s -- reductionism opus-4-8, affective-void
+    opus-4-5), 3311 body words (soft_warning, well under topics hard 4000, NO condense
+    risk), EOF scan CLEAN (Tegmark 2000 + a Map self-cite). Axis = quantum-biology /
+    neural quantum effects / evolutionary selection, Tenet 2 load-bearing, distinct
+    from both open P2 axes (reductionism Tenet-1, affective-void affect). owed-web-verify
+    high-yield profile (citation-dense + quantum-biology high cite-defect base rate
+    + >25d converged + intra-corpus). CONCRETE verify-job spotted at mint: the final
+    reference carries a garbled self-cite author Oquatre-six (an opus-4-6 model-name
+    artifact in French leaking as a fake co-author) to repair; plus web-verify Qaswal
+    2021 + Tegmark 2000 at publisher, cross-link reciprocity into the quantum-consciousness
+    cluster, tenet routing, style. NO Baum zero-lag-synchrony locus here (grep-confirmed).
+    HOLD ai_system + no ai_modified bump on a no-op (deep-review-fork-over-attributes-ai-system
+    + deep-review-fork-bumps-ai-modified-on-noop). POST-COUNT count_p0_p2_tasks == 3
+    (floor exactly satisfied, no padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation
+    guard). Replaced the oldest floor-restore note (reductionism_2101) to keep the
+    most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_mattering_void_2130: 'Floor-restore
     replenish 2026-07-16T2130Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     tools.evolution.task_selector.count_p0_p2_tasks == 2 verified LIVE before AND
