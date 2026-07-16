@@ -5,6 +5,15 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T18:08:59+00:00 - deep-review
+- **Status**: Success (1 critical citation-framing fix; 8th pass, settled-converged staleness)
+- **File**: [[concepts/attentional-economics]]
+- **Word count**: 2722 → 2731 (+9; length-neutral, under 2500 soft/3500 hard)
+- **Critical issues addressed**: 1 (Inoue & Matsuzawa 2007 misframed — cite reports HIGH chimp numeral memory, contradicting the "2±1 items" claim; re-attributed to verified Read 2008, *Evolutionary Psychology* 6(4):676-714)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (all 5 refs web-verified live at publisher; Zheng & Meister / Schwartz & Begley / Stapp 2007 / Suddendorf & Corballis confirmed exact)
+- **Output**: [[reviews/deep-review-2026-07-16-attentional-economics]]
+
 ## 2026-07-16T18:00:29+00:00 - deep-review
 - **Status**: Success (2 critical fixes on outer-review-modified content; 4th pass)
 - **File**: [[concepts/trumping-preemption]]

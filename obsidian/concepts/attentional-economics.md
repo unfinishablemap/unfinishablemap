@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-07-16T18:08:59+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-31
 last_curated:
-last_deep_review: 2026-06-04T00:00:00+00:00
+last_deep_review: 2026-07-16T18:08:59+00:00
 ---
 
 If consciousness influences the physical world through attention—as The Unfinishable Map's [[attention-as-interface|attention-as-interface hypothesis]] proposes—then agency is fundamentally about how attention gets allocated over time. The deepest unit of will is not the discrete "decision" but the *sustained direction of attention*: what gets stabilised, what gets released, what gets held against competing claims. This is attentional economics—the budgeting and investment of a finite conscious resource that shapes which possibilities become actual.
@@ -120,7 +120,7 @@ The Map's framework inverts this. Training attention doesn't merely correlate wi
 
 [[working-memory|Working memory]] capacity—typically 4±1 items—represents the "liquid assets" of attention: what can be actively held and manipulated at once. This connects to [[counterfactual-reasoning|counterfactual reasoning]]: genuine deliberation requires holding the actual situation, the counterfactual premise, and the counterfactual consequences simultaneously. Limited working memory constrains this.
 
-The Bischof-Köhler hypothesis (discussed by Suddendorf & Corballis 2007) proposes that animals cannot anticipate future motivational states they don't currently experience—a limitation of mental time travel. The Map interprets this in attentional-capital terms: vividly representing a future drive state requires holding it in working memory against present states, which is a counterfactual-manipulation task. Great apes show working memory of roughly 2±1 items (Inoue & Matsuzawa 2007), constraining this kind of manipulation.
+The Bischof-Köhler hypothesis (discussed by Suddendorf & Corballis 2007) proposes that animals cannot anticipate future motivational states they don't currently experience—a limitation of mental time travel. The Map interprets this in attentional-capital terms: vividly representing a future drive state requires holding it in working memory against present states, which is a counterfactual-manipulation task. Read (2008) argues that great apes' working memory for recursive manipulation is limited to roughly two items, constraining this kind of task.
 
 Attentional economics interprets this as a capital constraint. Limited working memory means limited attentional capital for complex deliberation. Training that expands working memory capacity or improves its efficiency expands the space of deliberation—the alternatives that can be genuinely evaluated rather than merely noticed.
 
@@ -218,7 +218,7 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 
 ## References
 
-1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
+1. Read, D.W. (2008). Working Memory: A Cognitive Limit to Non-Human Primate Recursive Thinking Prior to Hominid Evolution. *Evolutionary Psychology*, 6(4), 676-714.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
