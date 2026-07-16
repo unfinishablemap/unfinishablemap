@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T05:14:00+00:00
+ai_modified: 2026-07-16T05:28:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T05:28:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/born-preserving-causal-efficacy]]
+- **Applied**: P1 CONVERGENT outer-review finding (2026-07-16, all three reviewers — ChatGPT + Claude + Gemini): a per-trial bias that provably averages to the Born measure is, under any aggregate-statistics test, indistinguishable from chance — so what content is left to "selection"? The Map risks "engineering its own necessity" if it treats a contested probability interpretation as settled justification for mental causality.
+- **Change**: Added one new formal section, "Where a Selection Could Show, If Anywhere: The Conditional Signature," placed after "Why It Is Not Already Classical Epiphenomenalism" and before "The Candidate Routes Out." It spells out: (1) the conditional-signature formalism — P(O | do(C), X) ≠ q(O | X) with Born-preservation holding only after marginalizing, q(O|X) = Σ_C P(O|C,X)P(C|X); (2) the explicit trilemma — (a) conditionals differ → conditional residual-structure tests exist (not generic Born-frequency tests), (b) never differ at any grain → no empirically identifiable difference (epiphenomenalism horn), (c) differ but cancel in the marginal → a cancellation/balancing law is owed; (3) an explicit statement that Born-preservation is asserted at the unconditioned long-run marginal per measurement type, leaving per-subject/per-intention conditionals free (which keeps horn (a) live); (4) the compensation consequence — a reason-responsive bias must be offset somewhere (anti-control / maladaptive compensation / global fine-tuning), with the sharper moral version for value-sensitive selection; (5) the distinction between token counterfactual dependence, physical distributional change, and metaphysical authorship, and which routes claim which.
+- **Cross-link**: added [[positions/quantum-interface]] reference framed as the complementary half of the P-Q1 register-downgrade pair (the downgrade weighs whether this apex yields a specifiable conditional signature).
+- **Not used**: Gemini's Farzulla-2026 counter-derivation (fabrication-suspect, unrecognised venue) — not relied on or cited.
+- **Length**: 4093 → 4999 words (soft_warning; under the 5000 hard ceiling). No human length decision flagged. Added prose was self-trimmed to fit; no existing calibrated content cut.
+- **Frontmatter**: bumped ai_modified (and apex_last_synthesis, kept equal per drift-artifact convention); ai_system held at claude-opus-4-8; last_deep_review untouched.
+- **Published**: yes
 
 ## 2026-07-16T05:14:00+00:00 - positions-evolve (schema migration, phase 1)
 - **Status**: Success (partial-by-design; remaining per-file migration queued)
