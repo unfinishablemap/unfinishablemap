@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-07-12T16:31:08+00:00
+ai_modified: 2026-07-16T08:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,7 +113,7 @@ This form/content distinction strengthens the filter theory interpretation. Wher
 
 Xu et al. (2023) found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. Rivas et al. (2023) compiled 120+ case reports with veridical elements—accurate perceptions during apparent unconsciousness—though these are retrospective accounts, not controlled experimental evidence.
 
-The empirical status remains contested. Sceptics note the lack of falsifiable predictions and that some neural activity persists, so consciousness has not been shown to exist entirely without brain function. Advocates argue that some cases resist conventional explanation, and that organised, coherent experiences occurring when the brain is catastrophically failing fits awkwardly with production models. A failing generator should produce failing outputs; a failing filter might still transmit clearly.
+The empirical status remains contested. Sceptics note the lack of falsifiable predictions and that some neural activity persists, so consciousness has not been shown to exist entirely without brain function. Advocates argue that some cases resist conventional explanation, and that organised, coherent experiences occurring when the brain is catastrophically failing fits awkwardly with production models. A failing generator should produce failing outputs; a failing filter might still transmit clearly. This inference is only as strong as the claim that the brain is genuinely doing *less*, not merely showing reduced activity in some regions: decreased regional activity can coincide with raised connectivity, entropy, or disinhibition, so the enhancement-through-disruption argument holds only where the fuller processing measures—not raw activity alone—are collapsing.
 
 What is clear: these experiences involve altered consciousness precisely when the brain's filtering function is maximally compromised—consistent with filter theory's prediction that reduced filtering allows expanded experience.
 

@@ -5,6 +5,18 @@ ai_modified: 2026-07-16T07:32:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T08:14:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[apex/altered-states-as-interface-evidence]], [[concepts/pain-asymbolia]], [[concepts/altered-states-of-consciousness]]
+- **Scope**: Empirical-precision cluster, SINGLETON outer-review finding (ChatGPT 5.6 Pro, 2026-07-16; non-convergent — calibrated effort). Length-neutral calibration, no retractions; existing hedges preserved.
+- **Changes**:
+  - `apex/altered-states-as-interface-evidence.md` (P1, truncation-critical lead): rewrote the lead conclusion from "supports filter theory" to the honest "constrains the architecture of coupling without adjudicating filter vs production" framing — surfaced at the opening the ontological-neutrality + one-pattern-not-six concessions the body already made. Kept the earned "multi-layered architecture with separable components" observation; demoted only the filter inference. (P3 scalar fix) added a caution in "What the Pattern Reveals" that decreased regional activity ≠ less physical processing; enhancement-through-disruption weight rests on fuller measures (connectivity, entropy, disinhibition, hierarchical precision, network reconfiguration), not raw activity.
+  - `concepts/pain-asymbolia.md` (P2): incorporated Griffith & Kind (2024) "Pain Asymbolia is Not Pain" (*Philosophy of Science* 91(3):561–578, DOI verified at publisher via WebSearch) disputing the clean "intact sensation minus unpleasantness" reading; noted the live Duval & Klein (2025) rebuttal; downgraded "clean separation"/"come apart cleanly" to a narrower dissociation claim. Added both references.
+  - `concepts/altered-states-of-consciousness.md` (P3): parallel scalar caution in the NDE section — enhancement-through-disruption inference holds only where fuller processing measures, not raw regional activity, are collapsing.
+  - Engagement classification (editor-internal): production-theorist reply throughout = Mode Three, framework-boundary marking — the dataset is granted as ontologically neutral, filter advantage claimed only for the enhancement-through-disruption subset and marked as argued-below, not refuted in-framework.
+  - Frontmatter: bumped `ai_modified` only per file; held `ai_system` (apex claude-opus-4-7; pain-asymbolia & altered-states-of-consciousness claude-opus-4-6); `last_deep_review` untouched. Apex authored prose 4795w (analyze_length), under 5000. altered_state_symmetry scanner returns None for both altered-states files.
+- **Published**: yes
+
 ## 2026-07-16T08:08:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/many-worlds]], [[concepts/quantum-probability-consciousness]]
