@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-16T04:17:35.865857+00:00'
   refine-draft: '2026-07-16T14:51:51.216377+00:00'
   research-topic: '2026-07-16T15:24:58.971669+00:00'
-  replenish-queue: '2026-07-16T19:01:53.735192+00:00'
+  replenish-queue: '2026-07-16T19:12:08+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-16T08:04:03.319681+00:00'
@@ -1348,12 +1348,12 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 77
+  p2_tasks: 78
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T18:39:00+00:00'
-  last_replenishment_prev: '2026-07-16T18:28:00+00:00'
+  last_replenishment: '2026-07-16T19:12:00+00:00'
+  last_replenishment_prev: '2026-07-16T18:39:00+00:00'
   last_floor_restore_note_2026_07_16_staleness_authorship_of_action_1828: 'Floor-restore
     replenish 2026-07-16T1828Z (interactive, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2, re-verified LIVE twice before write (open P2
@@ -1384,28 +1384,30 @@ queue_status:
     no padding). BOTTOM-inserted below the two older open P2s (queue-lifo-starvation
     guard). Pruned the oldest floor-restore note (conversion_disorder_1641) to keep
     the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_jourdain_1750: 'Floor-restore replenish
-    2026-07-16T1750Z (conservative exact-floor +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks
-    == 2, re-verified LIVE before write (open P2 deep-reviews attentional-economics
-    + coupling-modes; conceivability-possibility-inference DRAINED via cycle deep-review
-    commit 754015203 1746Z, conversion-disorder DRAINED 1708Z). MIN_QUEUE floor 3
-    unmet by 1; restores 2 to 3. LIVE LOOP RUNNING (~5min cadence, last content commit
-    754015203 1746Z); NO replenish landed since d01c42ee3 1743 (first to breach);
-    concurrent-replenish-race guard: re-count 2 before AND 3 after this single write,
-    revert if a sibling mint lands. EIGHT-SOURCE AUDIT re-run LIVE: chain none; unconsumed_research
-    EXHAUSTED (newest notes map to live articles or capped sections); gap capped (topics
-    320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0;
-    length all veto/human-deferred; positions 8 < 10 audit floor; no applied-apex-gap.
-    SOURCE = staleness (Source 4): 60 settled-converged candidates. MINTED 1 P2 deep-review
-    concepts/jourdain-hypothesis.md — converged 41d (ldr == ai_modified 2026-06-05),
-    ai_contribution 100, ai_system claude-opus-4-5-20251101 (ONLY pure oldest-cohort
-    concept in the settled pool, scrutinize citations hardest), metacognition-threshold
-    / functional-phenomenal-decoupling axis (diverse from attentional-economics Tenet-3
-    + coupling-modes Tenet-2). PRESERVE evidential calibration on the human/animal
-    metacognition gap per evidential-status-discipline. POST-COUNT count_p0_p2_tasks
-    == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two older
-    open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (self_opacity_31)
-    to keep the most-recent 3 (bloat control, zero logic dep).'
+  last_floor_restore_note_2026_07_16_staleness_apophatic_cartography_1912: 'Floor-restore
+    replenish 2026-07-16T1912Z (interactive, conservative exact-floor +1). AUTHORITATIVE
+    PRE-COUNT count_p0_p2_tasks == 2, re-verified LIVE via grep of open P0-P2 headers
+    (stochastic-emergence-as-quantum-interface-evidence + direction-of-fit; the prior
+    open P2s neuroplasticity + authorship-of-action-divergence DRAINED via cycle deep-reviews
+    commits 13009fc79 + 4153349a8). MIN_QUEUE floor 3 unmet by 1; restores 2 to 3.
+    NO concurrent evolve_loop.py (pgrep clean, ps -ef clean); tree clean; HEAD f30bb642d
+    is a deep-review cycle_post pre-replenish tree-clean, i.e. this is the loop replenish
+    leg. concurrent-replenish-race guard: re-count 2 before AND 3 after this single
+    write, revert if a sibling mint lands. EIGHT-SOURCE AUDIT re-run LIVE: chain none
+    (recent_tasks all deep-reviews); unconsumed_research EXHAUSTED (target sections
+    AT CAP); gap capped (topics 320/320, concepts 320/320, voids 100/100 all AT CAP;
+    positions 8/80); orphan 0; length all veto/human-deferred; positions 8 < 10 audit
+    floor; no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review
+    concepts/apophatic-cartography-four-criteria.md — oldest un-queued last_deep_review
+    in the corpus (2026-06-02, 44-day gap), ai_contribution 100, ai_system claude-opus-4-7
+    (older cohort, scrutinize citations hard), ~2546 words with ~5 year-parenthetical
+    cites for the citation-verify lens. Chosen for apophatic-method / void-cartography
+    axis diversity vs the two open P2s (stochastic-emergence Tenet-2 quantum + direction-of-fit
+    intentionality). Maintenance review — do NOT rewrite a converged page; defect-driven
+    edits only; if metadata no-op move ONLY last_deep_review and HOLD ai_system (deep_review_over_reviews_converged
+    hazard). POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied, no padding).
+    TOP-inserted (queue-lifo-starvation guard). Pruned the oldest floor-restore note
+    (jourdain_1750) to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_stochastic_emergence_1839: 'Floor-restore
     replenish 2026-07-16T1839Z (interactive, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2 (open P2 deep-reviews neuroplasticity + authorship-of-action-divergence;
