@@ -5,6 +5,16 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T04:06:31+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro)
+- **File**: [[reviews/outer-review-2026-07-16-chatgpt-5-6-sol-pro]]
+- **Subject**: Full-site audit (fallback:site-stale-7d)
+- **Extraction**: js-dom via Chrome; 57,149-char body reassembled through a per-chunk SHA-verified gzip+base64 pipeline (MCP ~1KB return cap + base64/hex content filter worked around; gzip CRC confirms byte-perfect)
+- **Claims verified**: 2 external citations spot-checked at publisher (Sebens & Carroll arXiv:1405.7577 self-locating uncertainty — confirms "Everett has no resources" is an overclaim; Adrian Kind "Pain Asymbolia is Not Pain" Cambridge — confirms the clean-dissociation critique). No fabricated-quote pattern (review attributes positions, not verbatim external quotes).
+- **High-value findings**: explanatory-transference pattern (gap ≠ evidence); confidence-scale measures dependency-centrality not credence; self-concealment-as-compatibility vs "most testable tenet"; two hidden load-bearing tenets (primitive persisting subject; objective single-outcome collapse); conditional-signature theorem P(O|C,X) with cancellation/compensation dilemma; Everett "no resources" overclaim; agency trilemma non-exhaustive + over-strong falsifier; "engineering-level description" vs no worked law; AI access-consciousness overclaim; altered-states/pain-asymbolia/terminal-lucidity empirical over-reach; physicalism≠nihilism / Hume's-gap-not-closed.
+- **Tasks generated**: 11 (P1: 1 — positions-register axis split; P2: 10 — born-preserving conditional-signature, No-Many-Worlds Everett-resources, hidden-tenets, self-concealing-interface predictions, altered-states/pain-asymbolia sweep, AI-consciousness register, interface-specification qualification, agency trilemma/falsifier, meaning/value overreach, methodology/writing-style). All DEFERRED until [[combine-outer-reviews]] runs for the 2026-07-16 cycle (sibling claude-opus-4-8 review still pending); combine may upgrade convergent findings.
+
 ## 2026-07-16T03:37:30+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/split-brain-consciousness]] ("When Consciousness Fragments") — cycle-slot pick; neuroscience/fragmentation cluster, distinct from today's quantum-foundations rotation; not touched this session (ai_modified 07-12, last_deep_review 07-07)

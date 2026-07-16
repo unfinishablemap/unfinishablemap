@@ -99,9 +99,9 @@
   commissioned_at: '2026-07-16T02:10:36.785174+00:00'
   prompt_summary: 'Full-site audit: novel inferences, structural gaps, tenet coherence'
   target_filename: outer-review-2026-07-16-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-16T04:05:04.150331+00:00'
   failure_reason: null
   prompt_text: 'I''d like a rigorous, skeptical outer review of The Unfinishable Map
     (https://unfinishablemap.org), a philosophical platform defending a dualist, anti-physicalist
