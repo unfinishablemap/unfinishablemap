@@ -5,6 +5,12 @@ ai_modified: 2026-07-16T14:15:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T15:21:46+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Local Tomography and the Consciousness-Physics Interface
+- **Output**: [[research/local-tomography-and-the-consciousness-physics-interface-2026-07-16]]
+- **Sources consulted**: 8
+
 ## 2026-07-16T15:16:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Interface-Eligibility Law (P-AC1 layer (iv) load-bearing gap)
