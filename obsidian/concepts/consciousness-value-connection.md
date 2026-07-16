@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-06-03T12:00:00+00:00
+ai_modified: 2026-07-16T15:01:12+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
-last_deep_review: 2026-06-03T12:00:00+00:00
+last_deep_review: 2026-07-16T15:01:12+00:00
 ---
 
 The consciousness-value connection is the claim that consciousness is necessary for value to exist. Without phenomenal experience—without there being something it is like to be something—nothing can possess intrinsic value. A universe of matter in motion, however complex, contains no value unless something *experiences* that universe. Value enters reality only where experience exists.
@@ -63,7 +63,7 @@ Philosophers reach this conclusion through different paths.
 
 ### The Experience Requirement
 
-Sharon Hewitt Rawlette's experience requirement: "Nothing has intrinsic value unless experienced." This follows from the observation that all candidates for intrinsic value—pleasure, beauty, knowledge, love, meaning—are features of experience or require experience for their realization.
+Sharon Hewitt Rawlette grounds intrinsic value in phenomenal consciousness: nothing has intrinsic value unless it is experienced. This follows from the observation that all candidates for intrinsic value—pleasure, beauty, knowledge, love, meaning—are features of experience or require experience for their realization.
 
 Consider knowledge. Is knowledge valuable apart from anyone knowing? A true proposition existing in a library that no one reads has no value by itself—it gains value when someone *comes to know* it. The knowing, not the proposition, carries intrinsic worth.
 
