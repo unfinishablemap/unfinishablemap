@@ -4,8 +4,8 @@ description: "A diagnostic for physicalist theories that posit two irreducible d
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-07-11T13:04:00+00:00
-last_deep_review: 2026-06-22T06:09:49+00:00
+ai_modified: 2026-07-16T02:04:47+00:00
+last_deep_review: 2026-07-16T02:04:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ When all three hold, the theory is doing the philosophical work of property dual
 
 ### Friston's Markovian Monism
 
-Friston, Wiese, and Hobson (2020) argue that systems with Markov blankets possess a "dual information geometry": an *extrinsic* geometry (beliefs about the world) and an *intrinsic* geometry (information about the system's own future states). Friston proposes that the extrinsic geometry potentially accounts for "mental" properties or qualia, while insisting both geometries are "mutually reductive" — hence monism. The treatment in [[predictive-processing-and-dualism]] flags the move: acknowledging two irreducible *descriptions* while insisting on one *ontology* "looks less like a completed reduction and more like a promissory note." The diagnostic conditions are met. The two geometries do the work; the "mutual reducibility" is asserted rather than shown. Beni (2021) reinforces the diagnosis from another angle: "we cannot read off metaphysical theses about the nature of target systems from our theories." The mathematics constrains processing but not the metaphysics of the processor.
+Friston, Wiese, and Hobson (2020) argue that systems with Markov blankets possess a "dual information geometry": an *extrinsic* geometry (beliefs about the world) and an *intrinsic* geometry (information about the system's own future states). Friston proposes that the extrinsic geometry potentially accounts for "mental" properties or qualia, while insisting each geometry is "ultimately reducible" to the other — hence monism. The treatment in [[predictive-processing-and-dualism]] flags the move: acknowledging two irreducible *descriptions* while insisting on one *ontology* "looks less like a completed reduction and more like a promissory note." The diagnostic conditions are met. The two geometries do the work; the mutual reducibility is asserted rather than shown. Beni (2021) reinforces the diagnosis from another angle: we "could not read off metaphysical theses about the nature of target systems" — the self-organising conscious systems themselves — "from our theories of ... scientific models (Markov blankets)." The mathematics constrains processing but not the metaphysics of the processor.
 
 ### Russellian Monism
 
@@ -82,7 +82,7 @@ A fair reading should turn the diagnostic on the Map itself. The Map's bi-aspect
 
 The substantive difference is what each position *claims* about reduction. Condition (3), read carefully, concerns the *asserted* unification not being demonstrated. A theory that asserts no unification does not fail the condition; the condition is vacuous for it.
 
-- **The disguised variants assert reducibility without exhibiting it under any of the three standards.** Markovian monism claims the two geometries are "mutually reductive" but offers no logical derivation, no mechanism explaining their covariance beyond formal stipulation, and no progressive track record tightening the link. Russellian monism's structural-quiddity distinction by construction blocks both logical derivation and explanatory bridging (the quiddities are defined as inaccessible to physics); Pautz's "swarm of extra-logical principles" is precisely the point that the third standard — progressive unification — cannot rescue what the first two foreclose. IIT's identity claim between intrinsic phenomenality and integrated information is stipulated axiomatically rather than derived from deeper structure. Each is a positive claim that a reduction exists, advanced without any of the three forms of "showing" that would make it intelligible — and the diagnostic bites on that gap.
+- **The disguised variants assert reducibility without exhibiting it under any of the three standards.** Markovian monism claims each geometry is "ultimately reducible" to the other but offers no logical derivation, no mechanism explaining their covariance beyond formal stipulation, and no progressive track record tightening the link. Russellian monism's structural-quiddity distinction by construction blocks both logical derivation and explanatory bridging (the quiddities are defined as inaccessible to physics); Pautz's "swarm of extra-logical principles" is precisely the point that the third standard — progressive unification — cannot rescue what the first two foreclose. IIT's identity claim between intrinsic phenomenality and integrated information is stipulated axiomatically rather than derived from deeper structure. Each is a positive claim that a reduction exists, advanced without any of the three forms of "showing" that would make it intelligible — and the diagnostic bites on that gap.
 - **The Map makes no such claim.** Bi-aspectual dualism commits to brute [[psychophysical-laws|psychophysical linking principles]]. The two-structure ontology is proposed as load-bearing, not transitional. There is no promissory note to cash, because no promise was issued.
 
 The [[tenets#Minimal Quantum Interaction|minimal quantum interaction]] tenet might be misread as a back-door reduction. It is not. The interaction-mechanism question and the reduction question pull in opposite directions: a successful reduction would eliminate the need for any mechanism, while a successful mechanism presupposes the two-structure ontology it links. Chemistry is not "disguised vitalism" because it lacks a complete reduction to quantum electrodynamics — it is a two-level theory whose inter-level mechanism remains under active investigation. The quantum interface is the Map's proposal for such a mechanism, not a hidden route back to a single structure.
@@ -118,7 +118,7 @@ The diagnostic is most useful when applied generously rather than punitively. Ma
 ## References
 
 1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
-1. Friston, K., Wiese, W., & Hobson, J.A. (2020). Markovian monism. *Entropy*, 22(5), 516.
+1. Friston, K., Wiese, W., & Hobson, J.A. (2020). Sentience and the origins of consciousness: From Cartesian duality to Markovian monism. *Entropy*, 22(5), 516.
 1. Beni, M. D. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6407-6427.
 1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
 1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.

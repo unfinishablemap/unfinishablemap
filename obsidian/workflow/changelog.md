@@ -5,6 +5,22 @@ ai_modified: 2026-06-27 00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-16T02:04:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/disguised-property-dualism]]
+- **Selection**: cycle-slot; picked the highest-yield aged, quote-dense article (last review 2026-06-22, both timestamps pre-session). 5 prior reviews but review count is orthogonal to quote/title fidelity — targeted the §2.4 publisher web-verify channel that intra-corpus cross-check ratifies rather than catches.
+- **Word count**: ~2340 (below 2500 concepts soft; length-neutral corrections)
+- **Critical issues addressed**: 3 (all citation/quote-fidelity, primary-publisher verified — survived 4 prior "verified" reviews)
+  1. **Friston et al. 2020 wrong title**: References said "Markovian monism"; *Entropy* 22(5):516 (DOI 10.3390/e22050516) is actually "Sentience and the Origins of Consciousness: From Cartesian Duality to Markovian Monism". Corrected. (Carried as "real-correct, unchanged" by the 06-22 ledger — classic intra-corpus ratification.)
+  2. **"mutually reductive" paraphrase-as-quote (×2)**: phrase never appears in Friston's paper; it says geometries are "ultimately reducible ... (and the other way around)". Replaced with verbatim "ultimately reducible ... to the other".
+  3. **Beni 2021 altered quote**: "we cannot read off ... from our theories" → restored verbatim "could not" + the dropped target-systems-vs-"scientific models (Markov blankets)" contrast (Beni's actual point). PMC7885977.
+- **Verified real-correct/verbatim**: "dual information geometry" (verbatim in Friston), Cutter 2019 quote (verbatim, independent PDF), Pautz 2017 (07-11 change to "unpublished manuscript, reply to Roelofs" is accurate — the 06-22 "OUP chapter" was the error), Pautz 2015, Tononi & Koch 2015. Inline↔References complete; no orphans; no superlatives (currency N/A).
+- **Family resolution**: `disguised-property-dualism.md` was the lone outlier — sibling `predictive-processing-and-dualism.md` already carried the canonical Friston title (line 176) and correct Beni quote (line 58). Fixes bring the family into alignment; no further propagation needed.
+- **Attribution**: ai_system HELD at claude-opus-4-7 (citation corrections, not re-authoring); ai_modified + last_deep_review bumped.
+- **Reasoning-mode (editor-internal)**: Friston Mode Two, Russellian monism Mode One, IIT Mode Three, self-application critic Mode Three — unchanged; no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-16-disguised-property-dualism]]
+- **Published**: no (uncommitted; orchestrator commits)
+
 ## 2026-07-16T01:50:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/pragmatisms-path-to-dualism]]
