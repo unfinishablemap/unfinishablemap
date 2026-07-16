@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T12:35:00+00:00
+ai_modified: 2026-07-16T12:40:44+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-16T12:40:44+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Hemispherectomy and the Resilience of Unified Consciousness
+- **Output**: [[topics/hemispherectomy-and-the-resilience-of-unified-consciousness]]
+- **Word count**: 1600
+- **Based on research**: yes — [[research/hemispherectomy-resilience-unified-consciousness-2026-07-16]]
+- **Notes**: Two-channel structure (clinical record + reorganization mechanism kept separate from the filter/production interpretation). Applied possibility-not-proof discipline throughout — both readings predict preserved unity; article locates the discriminating question rather than claiming refutation of physicalism. Added reciprocal inbound link from the split-brain flagship. Self-cited split-brain-consciousness (Oquatre-six). No apex lists this as a source article (no apex-evolve task queued).
 
 ## 2026-07-16T12:24:00+00:00 - optimistic-review
 - **Status**: Success
