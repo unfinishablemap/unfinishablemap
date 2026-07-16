@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-07-12 12:13:12+00:00
+ai_modified: 2026-07-16 13:21:45+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -101,7 +101,7 @@ Sleep replicates the hierarchy within a single subject: across one night the sam
 
 ### Hemispherectomy: The Substrate-Loss Case
 
-Hemispherectomy — surgical removal or disconnection of one cerebral hemisphere — provides a substrate-loss test the other cases cannot. Performed in adulthood for intractable epilepsy or tumour, it produces severe initial impairments but typically substantial recovery of consciousness, language, and personality; the patient persists as a recognisable self across the surgery, uncomfortable for the simplest production reading. The hierarchy-relevant observation is the *order* of recovery: procedural function returns earliest, semantic memory more gradually through plasticity, autonoetic episodic memory of the surgical period often permanently affected while new-encoding capacity returns last as the remaining hemisphere reorganises. Child-onset cases add a calibration constraint — early hemispherectomy produces near-complete recovery including autonoetic capacity, because the developing brain can reassign the architecture. On the interface reading these are channels that are real and partially substrate-anchored but with plastic tissue assignment (the contested interpretive step, not a datum the pattern hands over); the production reading must additionally explain why the same recovery ordering recurs across very different lesion topographies.
+[Hemispherectomy](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/) — surgical removal or disconnection of one cerebral hemisphere — provides a substrate-loss test the other cases cannot. Performed in adulthood for intractable epilepsy or tumour, it produces severe initial impairments but typically substantial recovery of consciousness, language, and personality; the patient persists as a recognisable self across the surgery, uncomfortable for the simplest production reading. The hierarchy-relevant observation is the *order* of recovery: procedural function returns earliest, semantic memory more gradually through plasticity, autonoetic episodic memory of the surgical period often permanently affected while new-encoding capacity returns last as the remaining hemisphere reorganises. Child-onset cases add a calibration constraint — early hemispherectomy produces near-complete recovery including autonoetic capacity, because the developing brain can reassign the architecture. On the interface reading these are channels that are real and partially substrate-anchored but with plastic tissue assignment (the contested interpretive step, not a datum the pattern hands over); the production reading must additionally explain why the same recovery ordering recurs across very different lesion topographies.
 
 ### Terminal Lucidity: The Recovery-Order Test
 

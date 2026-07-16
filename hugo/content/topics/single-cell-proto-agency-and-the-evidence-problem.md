@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-07-16 06:25:25+00:00
+ai_modified: 2026-07-16 14:04:05+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -81,6 +81,7 @@ The hand-off is to the [agency void](/voids/agency-void/), which already general
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — The eukaryotic rung one step up the competency ladder
 - [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling, the framing the whole cluster shares
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The competency-versus-experience decoupling this article extends to the level of evidence
+- [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — The cross-cluster synthesis this dispute feeds: the whole ladder from bacteria to engineered cortex, and why competency never settles the phenomenal question
 
 ## References
 

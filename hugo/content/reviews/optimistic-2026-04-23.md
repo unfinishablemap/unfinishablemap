@@ -19,7 +19,7 @@ title: Optimistic Review - 2026-04-23
 - [concepts/interactionist-dualism.md](/concepts/interactionist-dualism/) (cross-linked 2026-04-22T19:38 to trumping-preemption)
 - [voids/expertise-and-its-occlusion.md](/voids/expertise-and-its-occlusion/) (new coalesce 2026-04-22T10:43 — merged from `/topics/expertise-void/` and `/voids/expertise-occlusion/`)
 - [voids/necessary-opacity.md](/voids/necessary-opacity/) (refined 2026-04-22T16:38)
-- Supporting cross-link refinements: [concepts/introspection.md](/concepts/introspection/), [concepts/russellian-monism.md](/concepts/russellian-monism/), [concepts/panpsychism.md](/concepts/panpsychism/), [concepts/dualism.md](/concepts/dualism/), [concepts/temporal-consciousness.md](/concepts/temporal-consciousness/), [concepts/neural-refresh-rates.md](/concepts/neural-refresh-rates/), [topics/eastern-philosophy-consciousness.md](/topics/eastern-philosophy-consciousness/), [topics/delegatory-dualism.md](/topics/delegatory-dualism/), [apex/what-consciousness-tells-us-about-physics.md](/apex/what-consciousness-tells-us-about-physics/)
+- Supporting cross-link refinements: [concepts/introspection.md](/concepts/introspection/), [concepts/russellian-monism.md](/concepts/russellian-monism/), [concepts/panpsychism.md](/concepts/panpsychism/), [concepts/dualism.md](/concepts/dualism/), [concepts/temporal-consciousness.md](/concepts/temporal-consciousness/), [concepts/neural-refresh-rates.md](/topics/neural-refresh-rates-and-the-smoothness-problem/), [topics/eastern-philosophy-consciousness.md](/topics/eastern-philosophy-consciousness/), [topics/delegatory-dualism.md](/topics/delegatory-dualism/), [apex/what-consciousness-tells-us-about-physics.md](/apex/what-consciousness-tells-us-about-physics/)
 
 ## Executive Summary
 

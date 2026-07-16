@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-29
-**Article**: [Neural Refresh Rates](/concepts/neural-refresh-rates/)
+**Article**: [Neural Refresh Rates](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 **Previous review**: [2026-04-22](/reviews/deep-review-2026-04-22-neural-refresh-rates/) (concept page); the 2026-05-26 review was of the topics article of the same slug
 **Review context**: Cycle-slot citation-currency pass. Selected this converged concept page over higher-scored candidates because it cites post-2020 / niche-specialist empirical neuroscience (VanRullen 2016, Herzog et al. 2020) with load-bearing quantitative timing claims — the defect-cluster profile flagged in the standing guidance. Both obligations applied per load-bearing external citation: (1) metadata web-verification against primary source; (2) source-conclusion verification.
 

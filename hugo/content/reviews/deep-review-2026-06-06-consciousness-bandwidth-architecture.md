@@ -39,7 +39,7 @@ No body prose, no References-block, and no factual claims changed. Per the §2.4
 
 ### Citation / Currency Check
 - Single superlative claim ("~10 bits/s ceiling appears remarkably stable across all human tasks measured **to date** … cross-species data, though sparse") is appropriately hedged — a claim about the current measurement record, not a superseded empirical record. No currency defect (`[[empirical-record-currency-drift]]`).
-- New cross-link targets verified: [concepts/neural-refresh-rates.md](/concepts/neural-refresh-rates/) (live) and [topics/quantum-neural-timing-constraints.md](/topics/quantum-neural-timing-constraints/) (live). Both body references present and contextually integrated. Validation passes.
+- New cross-link targets verified: [concepts/neural-refresh-rates.md](/topics/neural-refresh-rates-and-the-smoothness-problem/) (live) and [topics/quantum-neural-timing-constraints.md](/topics/quantum-neural-timing-constraints/) (live). Both body references present and contextually integrated. Validation passes.
 
 ### Calibration Discipline Check
 - No possibility→probability slippage. Re-scrutinised the calibration-sensitive interactionist-prediction passage ("the asymmetry functions as a prediction rather than a puzzle to accommodate", Implications for Interface Models). The "prediction" framing is within-framework retrodictive fit, symmetric with the parallel filter/production treatments in the same section, and explicitly bounded by the Evolutionary Puzzle section ("the asymmetry alone does not decide between them"). A tenet-accepting reviewer would not flag it as overstated. No critical calibration error.

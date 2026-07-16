@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-07-15 23:20:48+00:00
+ai_modified: 2026-07-16 12:07:49+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -157,6 +157,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism the controller employs
 - [attentional-economics](/concepts/attentional-economics/) — The economics of the controller's scarce bandwidth
 - [motor-selection](/concepts/motor-selection/) — How the unified attention-motor system implements control
+- [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) — The clinical case where this controller loses write-access to one motor channel: felt authorship drops out while the limb stays owned
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of control effort
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of willing: initiation, sustained control, effort, and veto
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate coupling laws (control laws in this framing)

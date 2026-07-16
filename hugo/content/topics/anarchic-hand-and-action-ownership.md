@@ -3,6 +3,7 @@ ai_contribution: 100
 ai_generated_date: 2026-07-16
 ai_modified: 2026-07-16 11:54:25+00:00
 ai_system: claude-opus-4-8
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[control-theoretic-will]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-07-16 11:46:00+00:00
+ai_modified: 2026-07-16 15:57:00+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -99,7 +99,7 @@ The honest state is therefore: the pattern is *interface-compatible* and not yet
 
 ## The Brain-Internal Gap in Born-Rule Testing
 
-Every precision test of the Born rule has run in regimes unlike brain tissue. Sinha et al. (2010) bounded Sorkin's third-order interference parameter below 10⁻² of the second-order contribution via single photons through a three-slit aperture; optical, atomic, and high-energy work has tightened it since (Phys. Rev. D 2025). The Torres Alegre steering result (arXiv:2512.12636), Masanes-Galley-Müller (2019), and Gleason results are all *conditional* theorems: where their premises hold (purification and steering; finite-dimensionality; non-contextuality plus dimension ≥3), the Born form follows. The brain-internal regime during conscious selection is an untested extrapolation of all three; any operative postulate — measurement uniqueness, tensor-product subsystem independence, non-contextuality across a conscious selection — could fail there, and available data cannot adjudicate. The closest programmes measure adjacent but non-equivalent quantities.
+Every precision test of the Born rule has run in regimes unlike brain tissue. Sinha et al. (2010) bounded [Sorkin's third-order interference parameter](/concepts/sorkin-higher-order-interference/) below 10⁻² of the second-order contribution via single photons through a three-slit aperture; optical, atomic, and high-energy work has tightened it since (Phys. Rev. D 2025). The Torres Alegre steering result (arXiv:2512.12636), Masanes-Galley-Müller (2019), and Gleason results are all *conditional* theorems: where their premises hold (purification and steering; finite-dimensionality; non-contextuality plus dimension ≥3), the Born form follows. The brain-internal regime during conscious selection is an untested extrapolation of all three; any operative postulate — measurement uniqueness, tensor-product subsystem independence, non-contextuality across a conscious selection — could fail there, and available data cannot adjudicate. The closest programmes measure adjacent but non-equivalent quantities.
 
 ## A Century of Circular Derivations
 
@@ -228,6 +228,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 - [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis tying interface, causal powers, and effort together
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five non-negotiable coupling constraints
 - [causal-consistency-constraint](/concepts/causal-consistency-constraint/) — Torres Alegre's no-signalling derivation of the Born form
+- [local-tomography-and-the-consciousness-physics-interface](/concepts/local-tomography-and-the-consciousness-physics-interface/) — The other axiom whose failure would reopen the Born constraint at the interface
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — The Born rule as interface structure
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — The Born rule gap at its widest
 - [Against Many-Worlds](/arguments/many-worlds-argument/) — Cumulative case against MWI

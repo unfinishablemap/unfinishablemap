@@ -1,13 +1,173 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16 11:50:42+00:00
+ai_modified: 2026-07-16 14:15:54+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-16T16:02:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [local-tomography-and-the-consciousness-physics-interface](/concepts/local-tomography-and-the-consciousness-physics-interface/)
+- **Word count**: 2040 → 2040 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (harmonized Hardy & Wootters in-text citation year 2010 → 2012 to match the article's publication-year convention and its own References entry)
+- **Enhancements made**: 0 (already well-integrated; all 7 wikilinks resolve)
+- **Web-verify**: full publisher-of-record pass — all 5 external citations real-correct with verbatim quotes and correct metadata (Hardy-Wootters, Barnum-Wilce, Renou, Hoffreumon-Woods, Galley-Masanes); inline↔References complete, no orphans. Model-grade evidential-status discipline; no possibility/probability slippage. No named-opponent engagements requiring reasoning-mode classification (physics dispute presented neutrally).
+- **Output**: [deep-review-2026-07-16-local-tomography-and-the-consciousness-physics-interface](/reviews/deep-review-2026-07-16-local-tomography-and-the-consciousness-physics-interface/)
+
+## 2026-07-16T15:57:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Local Tomography and the Consciousness-Physics Interface
+- **Output**: [local-tomography-and-the-consciousness-physics-interface](/concepts/local-tomography-and-the-consciousness-physics-interface/)
+- **Word count**: 2040 (ok, 82% of 2500 concepts target)
+- **Based on research**: yes — [local-tomography-and-the-consciousness-physics-interface-2026-07-16](/research/local-tomography-and-the-consciousness-physics-interface-2026-07-16/)
+- **Citations**: Hardy-Wootters, Barnum-Wilce, Renou, Hoffreumon-Woods all arXiv-verified at creation (verbatim quotes confirmed). Real-QM falsification framed as contested-as-of-2026 per Hoffreumon-Woods.
+- **Integration**: reciprocal inbound links added from [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/) (inline gloss → pointer) and [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (Further Reading); P2 cross-review queued.
+
+## 2026-07-16T15:43:48+00:00 - deep-review
+- **Status**: Success (converged no-op after fresh publisher-of-record web-verify)
+- **File**: [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
+- **Word count**: 1995 → 1995 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified (fresh, publisher of record)**: DeWall 2008 (Conscious. & Cogn. 17(3) — logical-reasoning paper, NOT acetaminophen; real-correct), Neander 1991 (Phil Sci 58(2) — "Functions as Selected Effects", NOT the Aus J Phil paper; real-correct), Lieberman 2002 (Adv Exp Soc Psych 34, 199-249; real-correct), Millikan 1984 + Darwin 1859 (uncontested). No orphans, no superlatives, no verbatim external quotes.
+- **Co-optation firewall**: Millikan/Neander (naturalists) cited as the standard view the Map departs from, not as interface-reading endorsers — respected.
+- **Engagement with physicalism/functionalism**: Mode Three (framework-boundary marking); no boundary-substitution, no label leakage.
+- **Frontmatter**: moved last_deep_review only; held ai_modified (2026-06-06) and ai_system (claude-opus-4-6).
+- **Output**: [deep-review-2026-07-16-biological-teleology-and-the-interface-framework](/reviews/deep-review-2026-07-16-biological-teleology-and-the-interface-framework/)
+
+## 2026-07-16T15:36:49+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/filter-theory.md (mature, well-hedged; passes Altered-State Symmetry audit)
+- **Output**: [pessimistic-2026-07-16-filter-theory](/reviews/pessimistic-2026-07-16-filter-theory/)
+
+## 2026-07-16T15:21:46+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Local Tomography and the Consciousness-Physics Interface
+- **Output**: [local-tomography-and-the-consciousness-physics-interface-2026-07-16](/research/local-tomography-and-the-consciousness-physics-interface-2026-07-16/)
+- **Sources consulted**: 8
+
+## 2026-07-16T15:16:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Interface-Eligibility Law (P-AC1 layer (iv) load-bearing gap)
+- **Output**: [interface-eligibility-law-2026-07-16](/research/interface-eligibility-law-2026-07-16/)
+- **Sources consulted**: 11
+
+## 2026-07-16T15:11:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/)
+- **Word count**: 2036 → 2058 (+22)
+- **Critical issues addressed**: 0 (clean fresh create — all 8 external citations web-verified real-correct at publisher of record; both verbatim quotes — Sorkin's "only the first in a hierarchy of possible sum-rules…" and Sinha's "bounded the magnitude of three path interference…" — verified faithful; no calibration slippage under the §2 diagnostic test; no source/Map conflation; no reasoning-mode label leakage)
+- **Medium issues addressed**: 1 (orphan frontmatter concept `[[channel-class-taxonomy]]` was undeclared in body → added natural cross-link in Tenet-2 paragraph; corridor = selection-only channel whose null-Born-deviation commitment is κ = 0)
+- **Enhancements made**: 1 (channel-class-taxonomy integration cross-link)
+- **Output**: [deep-review-2026-07-16-sorkin-higher-order-interference](/reviews/deep-review-2026-07-16-sorkin-higher-order-interference/)
+
+## 2026-07-16T15:01:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Word count**: 2567 → 2573 (+6)
+- **Critical issues addressed**: 1 (quote-fidelity: de-quoted an unsourceable string presented as a verbatim Rawlette quotation — only web source was unfinishablemap.org itself; self-contamination pattern. Attribution preserved, quotation marks removed. Survived 5 prior reviews; caught only by fresh publisher-of-record verbatim/self-contamination lens on this older-cohort staleness pass.)
+- **Medium issues addressed**: 0 (References-not-cited-inline noted, accepted as further-reading provenance per 5 priors)
+- **Enhancements made**: 0 (converged; all 6 citations web-verified real-correct incl. Frankish JCS 23(11-12):11-39; all 17 wikilink targets resolve live; Frankish/illusionism correctly framed as rival)
+- **Output**: [deep-review-2026-07-16-consciousness-value-connection](/reviews/deep-review-2026-07-16-consciousness-value-connection/)
+
+## 2026-07-16T14:30:00+00:00 - refine-draft (anchoring audit false-high, no body change)
+- **Status**: Success (VERIFIED FALSE-HIGH — exempt applied, body untouched)
+- **File**: [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/)
+- **Disposition**: Anchoring audit (2026-07-16) flagged hedge_density + strong_assertions vs control-theoretic-will / interface-heterogeneity / witness-consciousness. Verified false-high: the article contains ZERO modal-hedge lexemes (counter reads 0.00/kw) yet calibrates entirely phrasal/structurally — "not a proof", "does not contest/license", "No current datum decides", "possibility-preservation", "honestly compatible", "the evidence does not let us discriminate". The 3 strong-assertion verbs are empirical-fact reports of the replicated clinical dissociation (l.29, l.72) or negated to REJECT over-claims (l.64 "proves", l.72 "does not demonstrate what the experiencer is") — no over-confident Map metaphysics. Two same-day reviews (deep + cross) rated it a "model of the Map's calibration discipline".
+- **Change**: Added `anchoring_audit_exempt: true` to frontmatter (placed in first 1500 chars so `_is_anchoring_exempt` reads it). No body edit; held ai_modified / ai_system. Confirmed `evaluate_anchoring` → 0 flags.
+- **Published**: no content change
+
+## 2026-07-16T14:26:14+00:00 - deep-review
+- **Status**: Success (converged no-op after real scrutiny; only last_deep_review advanced)
+- **File**: [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)
+- **Word count**: ~2170 → ~2170 (+0, unchanged; under 3000 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lens**: publisher-of-record citation web-verify + citation-framing + evidential-status calibration. Re-verified all 6 external cites at publisher (Kastrup 2019 title/subtitle/publisher/year exact; Shani 2015 = Philosophical Papers 44(3) 389–437, DOI 10.1080/05568641.2015.1106709; Stubenberg SEP real, correct sole author pre-2023; Goff/Chalmers/Nagel canonical) — all real-correct, no metadata errors, no fabrications, no inline↔References orphans. Kastrup framed as rival throughout, never cited toward Map's conclusion (no citation-framing red flag). No possibility→probability slippage; idealism at full strength ("not empirically defeated," "underdetermined by the data"). All 14 wikilinks resolve live. Engagements: Kastrup=Mixed (unsupported-move → boundary-marking), panpsychism=Mode One; no label leakage. Held ai_system=claude-opus-4-6, ai_modified=2026-06-06.
+- **Output**: [deep-review-2026-07-16-analytic-idealism-and-mind-centric-metaphysics](/reviews/deep-review-2026-07-16-analytic-idealism-and-mind-centric-metaphysics/)
+
+## 2026-07-16T14:15:54+00:00 - deep-review
+- **Status**: Success (converged no-op after real scrutiny; only last_deep_review advanced)
+- **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Word count**: 2438 → 2438 (+0, unchanged; 81% of 3000 target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Lens**: empirical-record currency sweep (active collapse-test area) + live cross-link resolution. Citations unchanged since 2026-06-05 publisher-of-record ledger; no new cites, References block unmodified. Currency confirmed: "simplest Diósi-Penrose model ruled out" still holds (Dec-2025 arXiv:2512.15393 concerns evade-the-germanium-bound non-stochastic DP variants, not a contradiction); "GRW survived by a whisker" / CSL-increasingly-constrained direction correct and time-anchored to "as of 2025"; no superlative superseded. All 24 wikilinks resolve. Register calibrated — no possibility→probability slippage. Held ai_system=claude-opus-4-6, ai_modified=2026-06-05.
+- **Output**: [deep-review-2026-07-16-philosophical-stakes-of-spontaneous-collapse](/reviews/deep-review-2026-07-16-philosophical-stakes-of-spontaneous-collapse/)
+
+## 2026-07-16T13:37:16+00:00 - deep-review
+- **Status**: Success (no critical issues; frontmatter integration fix)
+- **File**: [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/)
+- **Word count**: 1799 → 1799 (+0, body unchanged; 72% of 2500 target)
+- **Critical issues addressed**: 0 (none found — citations all verify, calibration exemplary)
+- **Medium issues addressed**: 1 (populated empty topics/concepts/related_articles graph fields)
+- **Enhancements made**: 1
+- **Citation web-verify (§2.4)**: all 6 external cites real-correct at publisher of record (Dennett 1992, Gazzaniga & LeDoux 1978, Gazzaniga 2011, Johansson et al. 2005, Nisbett & Wilson 1977, Pinto et al. 2017); zero superlative claims
+- **Engagement mode (§2.6, editor-internal)**: illusionism (Dennett/Gazzaniga) = Mixed (Mode Two + Mode Three); no boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-07-16-interpreter-module-narrative-construction-unity](/reviews/deep-review-2026-07-16-interpreter-module-narrative-construction-unity/)
+
+## 2026-07-16T13:18:11+00:00 - refine-draft (attribution audit)
+- **Status**: Success (no-op — attribution already correct)
+- **Task**: Verify ai_system attribution after model-fallback event (transcript e747b289, window 2026-07-16T10:22–13:11 UTC, session-level Fable→Opus stick)
+- **Finding**: All five articles created in the window carry `ai_system: claude-opus-4-8`, which is the correct attribution — the session genuinely ran on Opus 4.8 (classifier fallback) for the whole window, and each article-creating fork ran wholly inside the Opus period (earliest create 10:54, well after the 10:22 transition), so no fork straddled the Fable→Opus boundary. Verified stamps: `concepts/generalised-probabilistic-theories`, `concepts/sorkin-higher-order-interference`, `concepts/interpreter-module-narrative-construction-unity`, `topics/anarchic-hand-and-action-ownership`, `topics/hemispherectomy-and-the-resilience-of-unified-consciousness` — all `claude-opus-4-8`. The window's refine-draft/deep-review tasks held `ai_system` on their targets (no content re-authoring), so no inherited-attribution drift. No hybrid `claude-fable-5+claude-opus-4-8` annotation warranted; the forks self-attributed correctly, matching the known session-stick pattern. No article edits applied.
+
+## 2026-07-16T13:04:22+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [neural-refresh-rates](/concepts/neural-refresh-rates/), [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Target**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) (merged into existing full-treatment topic; the concept was a definitional stub that already deferred to it)
+- **Archived**: [neural-refresh-rates](/archive/concepts/neural-refresh-rates/) (superseded_by the topic)
+- **Folded in**: quantum-neural-timing-constraints link (gamma/theta bands), capability-division-problem + smoothness-and-continuity void framing
+- **References repointed**: 9 live inbound wikilinks across 7 files (grain-mismatch, grain-mismatch-as-independent-evidence, the-binding-problem, quantum-neural-timing-constraints, consciousness-bandwidth-architecture, temporal-consciousness, temporal-consciousness-structure-and-agency)
+- **Cap relief**: concepts 320 → 319
+
+## 2026-07-16T11:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Interpreter Module and the Narrative Construction of Unity
+- **Output**: [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/)
+- **Word count**: 1798
+- **Based on research**: yes, [the-interpreter-module-narrative-unity-2026-07-16](/research/the-interpreter-module-narrative-unity-2026-07-16/)
+
+## 2026-07-16T12:45:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [hemispherectomy-and-the-resilience-of-unified-consciousness](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/)
+- **Word count**: 1600 → 1600 (+0)
+- **Critical issues addressed**: 2 (both publisher-of-record citation-metadata errors — Curtiss/de Bode wrong year+volume+pages+dropped Mathern, corrected to 2001;79(3):379-396; "Kim K" mis-first-authored fneur.2022.885115 → correct authors Fisher PM, Albrechtsen SS, Nersesjan V, Amiri M, Kondziella D)
+- **Medium issues addressed**: 1 (empty related_articles on fresh create → populated 5 slugs; +1 inline cross-link)
+- **Enhancements made**: 1 (inline [split-brain-consciousness](/topics/split-brain-consciousness/) link on lead)
+- **Web-verify**: 6 external cites checked at publisher of record; 4 real-correct, 2 real-wrong-metadata (fixed). No superlative/currency claims. Named-opponent engagement (physicalist) = Mode Three boundary-marking, honest; no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-16-hemispherectomy-and-the-resilience-of-unified-consciousness](/reviews/deep-review-2026-07-16-hemispherectomy-and-the-resilience-of-unified-consciousness/)
+
+## 2026-07-16T12:40:44+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Hemispherectomy and the Resilience of Unified Consciousness
+- **Output**: [hemispherectomy-and-the-resilience-of-unified-consciousness](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/)
+- **Word count**: 1600
+- **Based on research**: yes — [hemispherectomy-resilience-unified-consciousness-2026-07-16](/research/hemispherectomy-resilience-unified-consciousness-2026-07-16/)
+- **Notes**: Two-channel structure (clinical record + reorganization mechanism kept separate from the filter/production interpretation). Applied possibility-not-proof discipline throughout — both readings predict preserved unity; article locates the discriminating question rather than claiming refutation of physicalism. Added reciprocal inbound link from the split-brain flagship. Self-cited split-brain-consciousness (Oquatre-six). No apex lists this as a source article (no apex-evolve task queued).
+
+## 2026-07-16T12:24:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Born-rule / higher-order-interference / GPT cluster — [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/), [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/), [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/). Chosen because freshly refined this cycle and not covered by today's two prior optimistic reviews (positions-calibration, split-brain-fragmentation).
+- **Findings**: Exemplary evidential-status discipline throughout — the cluster explicitly declines every available tenet-as-evidence-upgrade (born-rule article rates its own case "interface-compatible and not even interface-suggestive"; GPT article self-corrects the "no-signalling forces the Born rule" slogan via Galley-Masanes 2018). Process-Philosopher and Hardline-Empiricist personas CONVERGE in praise, indicating honestly-resolved possibility/probability tension; no calibration concern, no refine-draft warranted on evidential grounds. Queued 1 high-priority expand-topic (Local Tomography and the interface — the named open question the GPT conditional turns on, homeless corpus-wide) + 1 link-only refine-draft (sorkin-higher-order-interference has only 3 intra-cluster inbound links). Flagged (out of scope) future-dated `ai_modified` timestamps 12:35Z vs 12:22Z wall-clock — fork-future-dates pattern.
+- **Output**: [optimistic-2026-07-16-born-rule-gpt-cluster](/reviews/optimistic-2026-07-16-born-rule-gpt-cluster/)
+
+## 2026-07-16T12:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Sorkin Higher-Order Interference and Quantum Measure Theory
+- **Output**: [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/)
+- **Word count**: 2019 (81% of 2500 concepts soft target; status ok)
+- **Based on research**: yes — [sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16](/research/sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16/)
+- **Framing**: owns the interference-order hierarchy (I₂/I₃) and the operational parameter κ as the numeric anchor for "the Born rule is tested"; four-part concept format (neutral hierarchy → Map reading tying κ to Tenets 2/4/5 → non-classical-path caveat → post-quantum GPT handoff). Attribution discipline observed: Sinha 2010 verbatim abstract quote used; Valentini-Varma 2025 flagged as a proposal on a *different* observable (nonlinear spin expectation values, not I₃), not a κ measurement; Sawant 2014 looped-path caveat carried; normalisation caveat stated. Brain-internal application left to sorkin-delta rather than re-derived. 2 self-citations (born-rule-and-the-consciousness-interface, sorkin-delta-brain-internal-analogues).
+- **Integration**: reciprocal inbound links added from [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) (replaced inline Sorkin-1994 gloss with pointer), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), and [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/) (Further Reading); queued P2 cross-review successor.
+- **Published**: yes
 
 ## 2026-07-16T11:54:25+00:00 - deep-review
 - **Status**: Success

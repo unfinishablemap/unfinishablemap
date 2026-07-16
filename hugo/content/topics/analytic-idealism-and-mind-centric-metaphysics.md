@@ -22,7 +22,7 @@ description: Mapping the landscape of mind-first ontologies—from Kastrup's ana
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 03:08:27+00:00
+last_deep_review: 2026-07-16 14:26:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

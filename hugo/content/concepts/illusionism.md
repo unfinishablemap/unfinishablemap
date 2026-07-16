@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-12 15:54:00+00:00
+ai_modified: 2026-07-16 13:46:56+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -45,6 +45,7 @@ related_articles:
 - '[[self-stultification-as-master-argument]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 - '[[the-steelman-for-value-blind-selection]]'
+- '[[interpreter-module-narrative-construction-unity]]'
 title: Illusionism
 topics:
 - '[[hard-problem-of-consciousness]]'

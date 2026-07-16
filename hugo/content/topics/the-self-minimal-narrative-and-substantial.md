@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-06-01 21:53:35+00:00
+ai_modified: 2026-07-16 13:46:56+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -71,7 +71,7 @@ The narrative self has genuine explanatory power. It accounts for why identity c
 
 [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the capacity for mental time travel—provides the phenomenological mechanism for narrative selfhood. When you remember your childhood, you do not merely access stored data; you re-inhabit a past experience from a first-person perspective. This temporal self-projection, both backward and forward, stitches discrete moments of minimal selfhood into a temporally extended person.
 
-The narrative self is genuinely constructed. It is shaped by culture (different societies produce different self-narratives), vulnerable to disruption (trauma can shatter the narrative), and partially fictional (we edit our stories, emphasise certain episodes, suppress others). Cognitive science converges on this reading: memory appears reconstructive, identity-beliefs are often confabulated, and the sense of a unified life story seems an achievement rather than a given.
+The narrative self is genuinely constructed. It is shaped by culture (different societies produce different self-narratives), vulnerable to disruption (trauma can shatter the narrative), and partially fictional (we edit our stories, emphasise certain episodes, suppress others). Cognitive science converges on this reading: memory appears reconstructive, identity-beliefs are often [confabulated](/concepts/interpreter-module-narrative-construction-unity/), and the sense of a unified life story seems an achievement rather than a given.
 
 This is where the philosophical danger lies. If the narrative self is constructed, is it *merely* constructed? Is "you" just a story the brain tells, with no storyteller behind it?
 

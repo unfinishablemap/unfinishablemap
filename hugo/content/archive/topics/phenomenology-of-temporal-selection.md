@@ -123,7 +123,7 @@ The experience of "too late" may be one of the most direct phenomenal contacts w
 - [motor-selection](/concepts/motor-selection/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [choking-phenomenon-mental-causation](/topics/empirical-phenomena-mental-causation/)
-- [neural-refresh-rates](/concepts/neural-refresh-rates/) — The discrete oscillatory cycles within which timing windows operate
+- [neural-refresh-rates](/topics/neural-refresh-rates-and-the-smoothness-problem/) — The discrete oscillatory cycles within which timing windows operate
 - [timing-gap-problem](/concepts/timing-gap-problem/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
 

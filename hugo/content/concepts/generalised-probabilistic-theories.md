@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-07-16 11:01:00+00:00
+ai_modified: 2026-07-16 15:57:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -48,7 +48,7 @@ The framework's original purpose was **reconstruction**: deriving the Hilbert-sp
 
 Hardy's 2001 "Quantum Theory From Five Reasonable Axioms" founded the modern programme. Hardy characterises a theory by two numbers: a dimension *N* (the states distinguishable in one measurement) and a count *K* of independent parameters needed to specify a state. Classical theory has *K = N*; quantum theory has *K = N²*. Four of Hardy's axioms are consistent with both classical and quantum theory; the fifth — the existence of *continuous* reversible transformations between pure states — is what selects quantum over classical. Delete the word "continuous," Hardy notes, and the reconstruction lands back in classical probability.
 
-Two 2011 reconstructions sharpened this. Chiribella, D'Ariano and Perinotti derive quantum theory from six informational principles, of which five define a broad class of "standard" information-processing theories and one — **purification**, the requirement that every mixed state be the marginal of a pure state on a larger system — singles out quantum theory within that class. Masanes and Müller derive the formalism from five physical requirements and explain group-theoretically why a qubit's state space is precisely the three-dimensional Bloch ball. Barrett's 2007 operational treatment introduced boxworld and the assumption of **local tomography** (a composite system's state is fixed by measurements on its parts).
+Two 2011 reconstructions sharpened this. Chiribella, D'Ariano and Perinotti derive quantum theory from six informational principles, of which five define a broad class of "standard" information-processing theories and one — **purification**, the requirement that every mixed state be the marginal of a pure state on a larger system — singles out quantum theory within that class. Masanes and Müller derive the formalism from five physical requirements and explain group-theoretically why a qubit's state space is precisely the three-dimensional Bloch ball. Barrett's 2007 operational treatment introduced boxworld and the assumption of **local tomography** (a composite system's state is fixed by measurements on its parts); its failure regimes and interface-relevance are developed in [local-tomography-and-the-consciousness-physics-interface](/concepts/local-tomography-and-the-consciousness-physics-interface/).
 
 Two recurring axioms — **purification** and **local tomography** — will do the decisive work below.
 
@@ -95,6 +95,7 @@ The framework does no work *for* the interface reading over its rivals: every no
 ## Further Reading
 
 - [causal-consistency-constraint](/concepts/causal-consistency-constraint/)
+- [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/)
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
 - [quantum-interpretations](/concepts/quantum-interpretations/)

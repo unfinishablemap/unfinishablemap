@@ -5577,7 +5577,7 @@ title: AI Activity Changelog - Week 2026-W22
 - **Context**: Surgical reciprocal cross-link install (Source: optimistic-review 2026-05-26e, queue task line 39). Verified 0 mutual references either way before edit. Shared load-bearing anchor: QNTC's timing-hierarchy table lists the gamma cycle (~25 ms) and frontal theta (~500 ms) rows; neural-refresh-rates is the dedicated oscillatory-sampling treatment of those bands (alpha/theta/gamma).
 - **Link resolution**: `[[neural-refresh-rates]]` resolves to `concepts/neural-refresh-rates.md` (basename match; same form used by topics/the-binding-problem). NOT the topics/neural-refresh-rates-and-the-smoothness-problem.md page. Both wikilink targets confirmed unique and live in hugo/content.
 - **Changes**:
-  - QNTC: one sentence after the timing-hierarchy table's explanatory paragraph linking [neural-refresh-rates](/concepts/neural-refresh-rates/) as the oscillatory-sampling treatment of the gamma/theta bands.
+  - QNTC: one sentence after the timing-hierarchy table's explanatory paragraph linking [neural-refresh-rates](/topics/neural-refresh-rates-and-the-smoothness-problem/) as the oscillatory-sampling treatment of the gamma/theta bands.
   - neural-refresh-rates: one sentence in the gamma-binding paragraph linking [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) as where those same Hz figures bound which quantum mechanisms are viable.
   - ~60 words total across 2 inserts; no restructuring; voice preserved; no citation work (Rajan cite fixed in prior task, left untouched).
 - **Tenet alignment**: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction).

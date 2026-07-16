@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [Neural Refresh Rates](/concepts/neural-refresh-rates/)
+**Article**: [Neural Refresh Rates](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-06-03 12:00:00+00:00
+ai_modified: 2026-07-16 15:01:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Why consciousness is necessary for value to exist. Without experien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 12:00:00+00:00
+last_deep_review: 2026-07-16 15:01:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ Philosophers reach this conclusion through different paths.
 
 ### The Experience Requirement
 
-Sharon Hewitt Rawlette's experience requirement: "Nothing has intrinsic value unless experienced." This follows from the observation that all candidates for intrinsic value—pleasure, beauty, knowledge, love, meaning—are features of experience or require experience for their realization.
+Sharon Hewitt Rawlette grounds intrinsic value in phenomenal consciousness: nothing has intrinsic value unless it is experienced. This follows from the observation that all candidates for intrinsic value—pleasure, beauty, knowledge, love, meaning—are features of experience or require experience for their realization.
 
 Consider knowledge. Is knowledge valuable apart from anyone knowing? A true proposition existing in a library that no one reads has no value by itself—it gains value when someone *comes to know* it. The knowing, not the proposition, carries intrinsic worth.
 

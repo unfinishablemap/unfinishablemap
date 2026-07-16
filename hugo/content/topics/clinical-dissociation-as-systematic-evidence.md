@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-24 15:36:02+00:00
+ai_modified: 2026-07-16 12:07:49+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -108,7 +108,7 @@ Two features make the cases that hold load-bearing. First, the substrate is inta
 
 Functional neurological disorder (FND)—historically *conversion disorder*, the DSM-IV term—produces genuine neurological symptoms such as paralysis, blindness, seizures, and anaesthesia without corresponding neurological damage. A patient may be unable to move their arm despite intact motor cortex, intact motor neurons, and intact muscles. Under anaesthesia or hypnosis, the "paralysed" limb may move normally. Modern practice diagnoses FND by *positive* rule-in signs (Hoover's sign, tremor entrainment) rather than as a diagnosis of exclusion—reflecting the shift to the active-generation model below.
 
-It is tempting to read this as a severed descending channel—the conscious command line cut while the motor system stays capable, mirroring alien hand syndrome without the lesion. The contemporary FND literature points the other way: the mechanism is not a *missing* connection but an *overactive* one, the symptom actively generated rather than passively lost.
+It is tempting to read this as a severed descending channel—the conscious command line cut while the motor system stays capable, mirroring [anarchic hand](/topics/anarchic-hand-and-action-ownership/) without the lesion. The contemporary FND literature points the other way: the mechanism is not a *missing* connection but an *overactive* one, the symptom actively generated rather than passively lost.
 
 Voon et al. (2010) found *greater* functional connectivity between the right amygdala and right supplementary motor area in conversion patients, with amygdala activity predicting subsequent motor-area changes rather than the reverse—heightened limbic influence over motor preparation, not a disconnected channel; Hassa et al. (2017) replicated the direction in functional hemiparesis. Edwards et al.'s (2012) Bayesian model of "hysteria" explains the symptom as an abnormally precise intermediate-level motor prior the system fulfils, *generating* paralysis or tremor as the brain's own confident prediction over contrary sensory evidence. The motor system is not cut off from volition; a self-generated prior captures it. (Vuilleumier (2005) and Brown (2004) earlier described altered prefrontal–motor dynamics, Brown's representational-inhibition model already in this active-generation family.)
 

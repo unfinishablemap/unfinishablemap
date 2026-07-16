@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-06-25 02:00:51+00:00
+ai_modified: 2026-07-16 13:46:56+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-18 10:10:00+00:00
 apex_sources:
@@ -79,7 +79,7 @@ This synthesis walks from storytelling to source-tag to gating-signal to fabrica
 
 The five voids each isolate one face of a common architecture. Abstractly: a sub-personal system performs an operation whose endpoint reaches consciousness as a verdict; the verdict is phenomenally given with felt-rightness calibrated to its content rather than to its accuracy; the operation that produced the verdict is not exposed to introspection. The shared architecture is *bounded-access introspection*. Each void picks out a different operation the access is bounded around.
 
-- **Storytelling** ([narrative-void](/voids/narrative-void/)). Consciousness constructs a coherent autobiographical narrative from fragmentary experience; the constructing process is invisible from inside the result. Gazzaniga's left-hemisphere interpreter, Nisbett-Wilson's verbal-reports findings, and Johansson-Hall's choice-blindness paradigm demonstrate the construction face: the storyteller operates without ever appearing as one of the items in the story. The [process/content distinction](/concepts/process-content-distinction/) supplies the formal naming the cluster's storytelling face presupposes — Nisbett-Wilson's founding statement was deliberately narrow (process-access reports are unreliable in ways subjects cannot detect from inside), and the cluster's broader structural claim builds on that backbone.
+- **Storytelling** ([narrative-void](/voids/narrative-void/)). Consciousness constructs a coherent autobiographical narrative from fragmentary experience; the constructing process is invisible from inside the result. [Gazzaniga's left-hemisphere interpreter](/concepts/interpreter-module-narrative-construction-unity/), Nisbett-Wilson's verbal-reports findings, and Johansson-Hall's choice-blindness paradigm demonstrate the construction face: the storyteller operates without ever appearing as one of the items in the story. The [process/content distinction](/concepts/process-content-distinction/) supplies the formal naming the cluster's storytelling face presupposes — Nisbett-Wilson's founding statement was deliberately narrow (process-access reports are unreliable in ways subjects cannot detect from inside), and the cluster's broader structural claim builds on that backbone.
 
 - **Origin-tag failure** ([source-attribution-void](/voids/source-attribution-void/)). Mental content lacks native origin tags. Whether a thought is self-generated, primed, retrieved, suggested, or confabulated cannot be read off the content itself; source is inferred from fluency, vividness, and narrative fit with self-image. Johnson, Hashtroudi and Lindsay's source-monitoring framework supplies the architectural statement; cryptomnesia (Brown and Murphy 1989) and source amnesia (Schacter, Harbluk and McLachlan 1984) supply the seam phenomena.
 

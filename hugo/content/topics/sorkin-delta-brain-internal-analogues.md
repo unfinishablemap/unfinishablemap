@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-07-08 07:57:04+00:00
+ai_modified: 2026-07-16 12:35:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -39,7 +39,7 @@ topics:
 - '[[born-rule-and-the-consciousness-interface]]'
 ---
 
-The cleanest precision test of the Born rule is the triple-slit experiment: with three paths open, quantum mechanics forbids any genuinely three-way interference term, so the deviation parameter Sorkin (1994) defined — the residue left after subtracting all the two-slit and one-slit patterns from the three-slit pattern — must vanish. Sinha et al. (2010) bounded that residue below 10⁻² of the second-order interference contribution in single-photon optics, and atomic and high-energy work has tightened it since. The Map's [corridor reading of Tenet 2](/topics/brain-internal-born-rule-testing/) names a "Sorkin-style third-order analogue conditional on attention rate" as the kind of experiment that would test consciousness-mediated selection inside the brain — but it leaves the design unspecified, and so does the rest of the literature. **No brain-internal Sorkin-Δ analogue exists in published-protocol form.** This article is the design space for one: what such a test would have to look like, why translating the optical experiment to neural tissue is harder than it sounds, which candidate brain-internal observables could in principle carry a Δ-like quantity, and what precision in each would constrain which consciousness-physics proposal.
+The cleanest precision test of the Born rule is the triple-slit experiment: with three paths open, quantum mechanics forbids any genuinely three-way interference term, so the deviation parameter [Sorkin (1994) defined](/concepts/sorkin-higher-order-interference/) — the residue left after subtracting all the two-slit and one-slit patterns from the three-slit pattern — must vanish. Sinha et al. (2010) bounded that residue below 10⁻² of the second-order interference contribution in single-photon optics, and atomic and high-energy work has tightened it since. The Map's [corridor reading of Tenet 2](/topics/brain-internal-born-rule-testing/) names a "Sorkin-style third-order analogue conditional on attention rate" as the kind of experiment that would test consciousness-mediated selection inside the brain — but it leaves the design unspecified, and so does the rest of the literature. **No brain-internal Sorkin-Δ analogue exists in published-protocol form.** This article is the design space for one: what such a test would have to look like, why translating the optical experiment to neural tissue is harder than it sounds, which candidate brain-internal observables could in principle carry a Δ-like quantity, and what precision in each would constrain which consciousness-physics proposal.
 
 Everything that follows describes a *design space* — what a test would need, not a programme that exists or has produced results. None of the candidate observables below has been measured in the configuration this article specifies. Treating any of them as already-collected evidence would violate the [evidential-status discipline](/project/evidential-status-discipline/) this article is written to honour.
 

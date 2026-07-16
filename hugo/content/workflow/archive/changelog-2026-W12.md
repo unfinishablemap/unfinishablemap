@@ -5495,7 +5495,7 @@ topics: []
 ## 2026-03-18T13:55:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Neural refresh rates and the smoothness problem
-- **Output**: [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Output**: [neural-refresh-rates](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 - **Word count**: 1071
 - **Based on research**: yes, [neural-refresh-rates-smoothness-problem-2026-03-08](/research/neural-refresh-rates-smoothness-problem-2026-03-08/)
 

@@ -89,6 +89,7 @@ Narrative coherence connects to the Map's foundational commitments through its d
 
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — How narrative coherence grounds extended agency
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and where narrative fits
+- [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/) — Gazzaniga's interpreter and why confabulated coherence does not entail a constructed experiencer
 - [personal-identity](/topics/personal-identity/) — Why indexical identity matters for the coherent subject
 - [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The cognitive machinery of temporal self-projection
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How choices feel authored and narratively grounded

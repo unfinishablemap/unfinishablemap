@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-07-13 05:02:13+00:00
+ai_modified: 2026-07-16 13:04:22+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -96,7 +96,7 @@ The Map suggests a synthesis: experience is genuinely extended, but the extensio
 
 Crucially, the specious present is not fixed but expands and contracts with attention. **Deep engagement** strengthens retention and protention simultaneously—a chess player holds more of the recent sequence while projecting further into possible futures. **Distracted attention** weakens all three components—retention fades, protention collapses to mere reactivity, the present narrows. **Meditative attention** reveals the microstructure of all three: [contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) report rapid arising and passing—what the Buddhist tradition calls *khaṇika* (momentariness)—normally blurred by ordinary awareness.
 
-Francisco Varela's [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) programme proposed that trained meditators access temporal structure at scales below ordinary threshold—consistent with subsequent experimental work (Slagter et al., 2007). The brain's [neural-refresh-rates](/concepts/neural-refresh-rates/) (alpha at ~10 Hz, theta at ~6 Hz) gate perceptual access in discrete oscillatory cycles, yet the attentionally constituted present feels seamless—a temporal mismatch that deepens the hard problem.
+Francisco Varela's [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) programme proposed that trained meditators access temporal structure at scales below ordinary threshold—consistent with subsequent experimental work (Slagter et al., 2007). The brain's [neural refresh rates](/topics/neural-refresh-rates-and-the-smoothness-problem/) (alpha at ~10 Hz, theta at ~6 Hz) gate perceptual access in discrete oscillatory cycles, yet the attentionally constituted present feels seamless—a temporal mismatch that deepens the hard problem.
 
 ## Three Levels of Temporal Integration
 

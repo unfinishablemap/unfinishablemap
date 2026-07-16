@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-06 12:30:55+00:00
+ai_modified: 2026-07-16 12:07:49+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -76,7 +76,7 @@ This settling can be gradual (the preferred option gaining felt momentum) or sud
 
 ## Authorship: The Sense of Agency
 
-After deciding, there is typically a sense of *ownership* — the decision was *mine*, authored by *me*. Gallagher and Zahavi's distinction between *sense of agency* and *sense of ownership* is precise here. Ownership accompanies both voluntary and involuntary action; agency — the feeling of *initiating* — accompanies only voluntary action. The dissociability of these components in clinical populations (schizophrenia, anarchic hand syndrome) demonstrates that agency phenomenology tracks genuine causal structure rather than being a blanket confabulation.
+After deciding, there is typically a sense of *ownership* — the decision was *mine*, authored by *me*. Gallagher and Zahavi's distinction between *sense of agency* and *sense of ownership* is precise here. Ownership accompanies both voluntary and involuntary action; agency — the feeling of *initiating* — accompanies only voluntary action. The dissociability of these components in clinical populations (schizophrenia, [anarchic hand syndrome](/topics/anarchic-hand-and-action-ownership/)) demonstrates that agency phenomenology tracks genuine causal structure rather than being a blanket confabulation.
 
 The sense of agency varies from strong authorship ("I really chose this") through weak authorship (skilled performance that happens through me without feeling deliberately chosen) to absent authorship (automatic habits or compulsions). These variations track something real about the degree of conscious involvement in action.
 

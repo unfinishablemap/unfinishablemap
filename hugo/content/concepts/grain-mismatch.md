@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-06-24 22:42:59+00:00
+ai_modified: 2026-07-16 13:04:22+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -82,7 +82,7 @@ The Map interprets this as evidence that consciousness possesses its own non-phy
 
 The argument also reinforces [Occam's Razor Has Limits](/tenets/#occams-limits). The physicalist might prefer identity theory for its simplicity — one kind of stuff, one set of properties. But if the properties are structurally incompatible, simplicity purchased through identification is incoherence disguised as parsimony. The apparent simplicity of physicalism here masks a logical problem that no amount of future neuroscience can resolve, because the issue is not empirical but structural. No discovery about neural architecture can make a discrete system identical to a homogeneous one — the incompatibility is logical, not empirical, and [causal closure](/concepts/causal-closure/) assumptions cannot override it.
 
-The Map proposes that the grain mismatch extends beyond spatial homogeneity into two further domains. The [bandwidth mismatch](/concepts/consciousness-bandwidth-architecture/) between conscious throughput (~10 bits/second) and the rate at which the sensory periphery delivers information to the brain (~10⁹ bits/second) constitutes an informational grain mismatch. In the temporal dimension, [neural-refresh-rates](/concepts/neural-refresh-rates/) — the discrete oscillatory cycles through which the brain samples sensory input — raise an analogous question: experience *presents itself* as temporally smooth while the neural substrate samples periodically. Lee's opacity caveat applies to the temporal case too — we cannot determine from introspection alone whether temporal experience is genuinely continuous or merely appears so. But if temporal phenomenal smoothness is genuine, it cannot be identical to periodic neural sampling, for the same reason spatial homogeneity cannot be identical to spatial discreteness. These three mismatches — spatial, temporal, informational — arise from different empirical domains, rely on different measurements, and require different physicalist responses. Their convergence constitutes an [evidence programme](/topics/grain-mismatch-as-independent-evidence/) with testable predictions rather than a single conceivability exercise. If all three were independently dissolved, dualism would lose one of its most direct structural supports; that each would need to be resolved separately makes the programme collectively robust.
+The Map proposes that the grain mismatch extends beyond spatial homogeneity into two further domains. The [bandwidth mismatch](/concepts/consciousness-bandwidth-architecture/) between conscious throughput (~10 bits/second) and the rate at which the sensory periphery delivers information to the brain (~10⁹ bits/second) constitutes an informational grain mismatch. In the temporal dimension, [neural refresh rates](/topics/neural-refresh-rates-and-the-smoothness-problem/) — the discrete oscillatory cycles through which the brain samples sensory input — raise an analogous question: experience *presents itself* as temporally smooth while the neural substrate samples periodically. Lee's opacity caveat applies to the temporal case too — we cannot determine from introspection alone whether temporal experience is genuinely continuous or merely appears so. But if temporal phenomenal smoothness is genuine, it cannot be identical to periodic neural sampling, for the same reason spatial homogeneity cannot be identical to spatial discreteness. These three mismatches — spatial, temporal, informational — arise from different empirical domains, rely on different measurements, and require different physicalist responses. Their convergence constitutes an [evidence programme](/topics/grain-mismatch-as-independent-evidence/) with testable predictions rather than a single conceivability exercise. If all three were independently dissolved, dualism would lose one of its most direct structural supports; that each would need to be resolved separately makes the programme collectively robust.
 
 ## Further Reading
 
@@ -96,7 +96,7 @@ The Map proposes that the grain mismatch extends beyond spatial homogeneity into
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Architectural implications of the grain mismatch
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — Grain mismatch in the causal domain
 - [combination-problem](/concepts/combination-problem/) — How phenomenal properties combine, with grain implications
-- [neural-refresh-rates](/concepts/neural-refresh-rates/) — The temporal face of the grain mismatch: discrete oscillatory sampling versus smooth experience
+- [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — The temporal face of the grain mismatch: discrete oscillatory sampling versus smooth experience
 - [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/) — Sellars' grain problem: the pre-Chalmers source of the homogeneity-versus-particulate obstacle
 
 ## References

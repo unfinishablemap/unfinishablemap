@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-07-07 21:35:59+00:00
+ai_modified: 2026-07-16 13:04:22+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -9,7 +9,6 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[dualism]]'
 - '[[reductionism]]'
-- '[[neural-refresh-rates]]'
 - '[[consciousness-bandwidth-architecture]]'
 - '[[interface-heterogeneity]]'
 - '[[causal-closure]]'

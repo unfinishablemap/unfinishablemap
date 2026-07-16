@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-07-10 12:05:00+00:00
+ai_modified: 2026-07-16 12:07:49+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -103,7 +103,7 @@ Anosognosia sharpens the interface picture in a way that blindsight alone cannot
 
 ### Motor Descending — Alien Hand Syndrome
 
-In alien hand syndrome, typically following damage to the corpus callosum or supplementary motor area, one hand performs purposeful actions the patient did not intend—reaching for objects, interfering with the other hand, even grasping the patient's own throat. The patient recognises the hand as their own but disowns its actions: "I didn't tell it to do that."
+In alien hand syndrome, typically following damage to the corpus callosum or supplementary motor area, one hand performs purposeful actions the patient did not intend—reaching for objects, interfering with the other hand, even grasping the patient's own throat. The patient recognises the hand as their own but disowns its actions: "I didn't tell it to do that." The Map's dedicated treatment, [anarchic hand and the fragmentation of action-ownership](/topics/anarchic-hand-and-action-ownership/), follows Marchetti and Della Sala's now-standard distinction: *anarchic hand* is the correct term for this disowned-*action* sign, while *alien hand* names the separate disowned-*limb* feeling of non-belonging.
 
 What this maps: a descending channel from conscious intention to motor execution that can be severed while leaving motor capacity intact. The affected hand is not paralysed—it moves purposefully, demonstrating that the motor system can generate complex actions autonomously. What is missing is the control channel through which consciousness selects *which* actions execute. The hand acts on affordances the brain computes without waiting for conscious authorisation.
 

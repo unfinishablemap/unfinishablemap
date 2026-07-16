@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-26
-**Article**: [Neural Refresh Rates](/concepts/neural-refresh-rates/)
+**Article**: [Neural Refresh Rates](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 **Pass**: ~28-day staleness re-review (2026-05-29 frontier tier; settled since 2026-05-29). **Orchestrator-finalized**: the deep-review fork spawned a citation subagent then monitor-wait-bailed; the subagent returned a 6-cite publisher-of-record ledger (all real-correct) including the requested author-order regression check, the orchestrator ran the mechanical sweeps independently and finalized (see fork-abandons-subagent-wrong-decline).
 
 ## Verdict: clean no-op — all 6 citations real-correct; the Herzog 2020 author-order fix HELD (no regression)
