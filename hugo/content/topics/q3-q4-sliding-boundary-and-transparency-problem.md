@@ -16,7 +16,7 @@ description: Why max-mind dualism slides toward idealism, and what would hold it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-08 00:00:00+00:00
+last_deep_review: 2026-07-17 12:14:51+00:00
 modified: *id001
 related_articles:
 - '[[mechanism-costs-dualism-thickness-quadrants]]'

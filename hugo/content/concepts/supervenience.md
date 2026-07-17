@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-07-10 17:47:34+00:00
+ai_modified: 2026-07-17 15:49:15+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[causal-powers]]'
 - '[[qualia]]'
 - '[[philosophical-zombies]]'
+- '[[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]]'
 created: 2026-03-24
 date: &id001 2026-03-24
 description: Supervenience defines when higher-level properties depend on lower-level
@@ -25,7 +26,7 @@ description: Supervenience defines when higher-level properties depend on lower-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 10:31:00+00:00
+last_deep_review: 2026-07-17 15:49:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +43,7 @@ Supervenience is a relation of asymmetric dependence between levels of propertie
 
 ## The Concept
 
-Supervenience was introduced to philosophy of mind by Donald Davidson in "Mental Events" (1970), though the term originates in ethics with R.M. Hare. Davidson held that mental events are identical to physical events (token identity) while mental *predicates* are not reducible to physical predicates — his "anomalous monism." Supervenience allowed him to maintain physical dependence without predicate reduction.
+Supervenience was introduced to philosophy of mind by Donald Davidson in "Mental Events" (1970), though the term originates in ethics with R.M. Hare. Davidson held that mental events are identical to physical events (token identity) while mental *predicates* are not reducible to physical predicates — his [anomalous monism](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/). Supervenience allowed him to maintain physical dependence without predicate reduction.
 
 The core idea is modal: it constrains what patterns of variation are possible. If the mental supervenes on the physical, there cannot be a mental difference without a physical difference. But the converse need not hold — two physical differences might correspond to the same mental state (multiple realisability).
 

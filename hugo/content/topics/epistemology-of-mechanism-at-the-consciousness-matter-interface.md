@@ -18,7 +18,7 @@ description: What kind of knowledge is possible about how consciousness interact
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-17 07:25:16+00:00
+last_deep_review: 2026-07-17 13:45:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

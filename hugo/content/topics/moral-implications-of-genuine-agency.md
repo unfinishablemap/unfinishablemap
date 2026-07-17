@@ -22,7 +22,7 @@ description: If consciousness causes actions, morality changes from useful conve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 15:01:29+00:00
+last_deep_review: 2026-07-17 16:05:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

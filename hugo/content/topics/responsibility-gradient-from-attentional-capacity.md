@@ -22,7 +22,7 @@ description: Moral responsibility is not binary but graded by attentional capaci
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-19 11:20:20+00:00
+last_deep_review: 2026-07-17 15:12:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

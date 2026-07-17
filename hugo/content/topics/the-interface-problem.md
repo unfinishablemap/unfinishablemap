@@ -33,7 +33,7 @@ description: Where does consciousness meet the brain, and how does conscious sta
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 11:22:14+00:00
+last_deep_review: 2026-07-17 14:40:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

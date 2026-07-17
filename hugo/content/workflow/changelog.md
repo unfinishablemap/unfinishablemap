@@ -1,13 +1,150 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17 11:35:46+00:00
+ai_modified: 2026-07-17 16:05:02+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-17T16:05:02+00:00 - deep-review
+- **Status**: Success (converged no-op after real scrutiny)
+- **File**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
+- **Word count**: 3678 → 3678 (no change; 123% of 3000 topics soft, ~322w under hard 4000)
+- **Critical issues addressed**: 0 — none found. 8th review. Only change since the exemplary 7th review (2026-06-20) was one Further Reading cross-link to the new [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) (verified present, non-orphaning); body prose + References block byte-identical. Cosmetic cross-link bump re-qualified the candidate — the convergence-damping pattern. §2.4 web-verify skipped as permitted (References unmodified → 7th review's full per-cite ledger stands: all real-correct, Sartre "condemned to be free" verbatim). No superlatives. Possibility/probability slippage and boundary-substitution both absent for the 3rd consecutive review; reasoning modes (compatibilism M3, hard-determinism M1, Mackie-queerness M2, Madhyamika M3, MWI M3) re-confirmed, no label leakage.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged content preserved intact. `last_deep_review` stamped without bumping `ai_modified` (held at 2026-07-10) per no-op convention.
+- **Output**: [deep-review-2026-07-17-moral-implications-of-genuine-agency](/reviews/deep-review-2026-07-17-moral-implications-of-genuine-agency/)
+
+## 2026-07-17T15:49:15+00:00 - deep-review
+- **Status**: Success (converged; one warranted integration edit)
+- **File**: [supervenience](/concepts/supervenience/)
+- **Word count**: 1490 → 1490 (link markup only; 60% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0 — none found. Fifth review. Only change since 2026-06-25 no-op pass was a Further Reading cross-link auto-added by the sibling anomalous-monism expand-topic (2026-07-10); body prose otherwise byte-identical to the four-times-converged version. §2.4: References block unmodified → prior per-cite ledger stands (all real-correct, Levine/Davidson/Kim/Chalmers). No superlative claims. Attribution/calibration/reasoning-mode re-confirmed clean (type-B physicalists Mode Two, Kim Mode Three, no label leakage, no possibility/probability slippage).
+- **Medium issues addressed**: 1 — fixed the expand-topic-skips-integration-chain gap: the sibling article only appended a Further Reading entry, leaving the body's existing "anomalous monism" mention unlinked. Added one inline wikilink at that anchor + a frontmatter concepts declaration. Verified the target exists and its lead matches the gloss.
+- **Enhancements made**: 1 cross-link (inline + frontmatter). No prose edits — converged content preserved intact.
+- **Output**: [deep-review-2026-07-17-supervenience](/reviews/deep-review-2026-07-17-supervenience/)
+
+## 2026-07-17T15:44:53+00:00 - deep-review
+- **Status**: Success (confirm-stable; new content verified)
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Word count**: 3561 → 3561 (no change; soft_warning at 119% of 3000, under 4000 hard)
+- **Critical issues addressed**: 0 — none found. Sixth review. Substantive change since prior review (commit 03fabf353, this morning) demoted permanence-of-the-gap to a tenet-argued inference and added consistent histories as an honest counter-position; reviewed on its merits and found sound. New content REDUCES claims (no possibility/probability slippage), CH characterisation faithful (Griffiths/Omnès stochastic single-world), CH engagement is Mode Three framework-boundary marking with no boundary-substitution or label leakage. References block unmodified → §2.4 web-verify carried forward from prior per-cite ledgers (all real-correct); inline↔References cross-check clean, no superlative claims.
+- **Medium issues addressed**: 0 — none. Logged one LOW framing nuance for future awareness (body frames CH as gap-denier vs. Further-Reading "set-selection gap" annotation — different gaps, not a contradiction), no edit to avoid oscillation on freshly-refined prose.
+- **Enhancements made**: 0 — converged, well-calibrated as written. Only `last_deep_review` bumped to 2026-07-17T15:44:53Z; `ai_modified` left at its 2026-07-17T07:36:45Z HEAD value since this pass made no content changes.
+- **Output**: [deep-review-2026-07-17-completeness-in-physics-under-dualism](/reviews/deep-review-2026-07-17-completeness-in-physics-under-dualism/)
+
+## 2026-07-17T15:31:28+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [meaning-void](/voids/meaning-void/)
+- **Word count**: 2081 → 2081 (no change)
+- **Critical issues addressed**: 0 — none found. Fifth review (eighth in lineage). Zero commits touch the file since the thorough post-condense audit of 2026-06-03 (690d3c383); body + References block unchanged → §2.4 publisher-of-record web-verify skipped by rule (the 06-03 per-cite ledger stands). Independent re-read confirms clean: no attribution/qualifier errors (Searle, Harnad, Frege Sinn/Bedeutung, Horgan & Tienson, McGinn all correctly credited), no possibility/probability slippage (all hedges intact), no verbatim-quote surface (body now paraphrase-bearing), no superlative-currency claims, physicalism engagement Mode Three boundary-marking with no label leakage.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged; no cosmetic edits (oscillation risk). Only `last_deep_review` bumped to 2026-07-17; `ai_modified` left at its 2026-06-03 HEAD value since no content changed.
+- **Output**: [deep-review-2026-07-17-meaning-void](/reviews/deep-review-2026-07-17-meaning-void/)
+
+## 2026-07-17T15:12:26+00:00 - deep-review
+- **Status**: Success (converged no-op / mark-stable)
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Word count**: 2595 → 2595 (no change)
+- **Critical issues addressed**: 0 — none found. Seventh review. Only change since the fully-verified sixth review (2026-06-19) was one cosmetic Further Reading cross-link ([ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/), target verified live). Body + References block unchanged → §2.4 publisher-of-record web-verify skipped by rule; the 06-19 per-cite ledger stands. No calibration slippage, no attribution/qualifier issues, no editor-vocab leakage. Compatibilism engagement Mode Two/Mixed, hard-determinism Mode Three — both stable.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged; no cosmetic edits (oscillation risk). Only `last_deep_review` bumped; `ai_modified` (2026-07-10) left at its legitimate cross-link-add value.
+- **Output**: [deep-review-2026-07-17-responsibility-gradient-from-attentional-capacity](/reviews/deep-review-2026-07-17-responsibility-gradient-from-attentional-capacity/)
+
+## 2026-07-17T14:40:04+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Word count**: 3286 → 3286 (no change)
+- **Critical issues addressed**: 0 — none found. Sixth review. Article byte-for-byte unchanged since the 2026-06-20 pass (`git diff` empty; `ai_modified` == prior `last_deep_review`). §2.4 publisher-of-record web-verify skipped by rule (body/References unmodified since the 06-20 full ledger, all 7 external cites real-correct). Clean on editor-vocab leakage, banned constructs, inline↔References orphans, superlative-currency, calibration slippage. Eliminative-materialist "nothing to specify" engagement remains mixed Mode Two + Mode Three.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged, unchanged hub; no cosmetic edits (oscillation risk). Only `last_deep_review` bumped; `ai_modified`/`ai_system` untouched (no body change).
+- **Output**: [deep-review-2026-07-17-the-interface-problem](/reviews/deep-review-2026-07-17-the-interface-problem/)
+
+## 2026-07-17T14:19:48+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Word count**: 3488 → 3488 (no change)
+- **Critical issues addressed**: 0 — none found. Ninth review. Only changes since 06-18 were a clean redundancy-only /condense (3606→3488, back under the 3500 hard ceiling) and one cross-link add. Condense-regression audit PASS: both removed subsections' load-bearing content ("makes no claims about subjective experience"; "why adjusting precision *feels* different") preserved elsewhere. Citations unchanged since 06-18 full publisher-of-record ledger (all real-correct); §2.4 skip-criterion met. Zero label-leakage; IWMT engagement remains Mode-Three boundary-marking; no possibility/probability slippage.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged article. Only `last_deep_review` bumped; `ai_modified`/`ai_system` untouched (no body change).
+- **Output**: [deep-review-2026-07-17-predictive-processing](/reviews/deep-review-2026-07-17-predictive-processing/)
+
+## 2026-07-17T14:07:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [confabulation-void](/voids/confabulation-void/)
+- **Word count**: 2405 → 2405 (no change; length-neutral)
+- **Critical issues addressed**: 1 — wrong venue on Feinberg & Keenan (2005): cited as *Journal of Consciousness Studies*, actually *Consciousness and Cognition* 14, 661–678 (verified at publisher + Feinberg's own institutional page). Fixed in article and family-resolved in the source research note where it originated as "n.d. *JCS* synthesis". Caught only by the first full publisher-of-record web-verify of the older References block (both prior reviews verified only changed cites).
+- **Medium issues addressed**: 0 (Gazzaniga 2018 entry imprecision left per convergence discipline)
+- **Enhancements made**: 0 — converged article, unchanged since 2026-06-05. Full 10-cite ledger web-verified: 8 real-correct (Bortolotti/Haidt/Gazzaniga quotes verbatim-verified), 1 wrong-venue (fixed), Nisbett&Wilson quote unconfirmable vs OCR PDF (residual). No calibration slippage, no label leakage.
+- **Output**: [deep-review-2026-07-17-confabulation-void](/reviews/deep-review-2026-07-17-confabulation-void/)
+
+## 2026-07-17T13:45:15+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+- **Word count**: 2640 → 2640 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — 6th deep review. Article is byte-identical to its 2026-06-17-reviewed state: git shows no commit to the file since that review, and `ai_modified` (2026-06-17T07:25:16) equals the prior `last_deep_review`. Genuine no-op re-qualification. Targeted scans clean: cliché absent, label leakage absent (grep zero), no superlatives, 88% soft length (ok). Citation web-verify mandate stays closed (all 10 refs primary-source verified 2026-06-01; nothing added/changed since). Moved `last_deep_review` only; left `ai_modified` at HEAD per no-op discipline. Recommend excluding from candidacy until a real content diff.
+- **Output**: [deep-review-2026-07-17-epistemology-of-mechanism-at-the-consciousness-matter-interface](/reviews/deep-review-2026-07-17-epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+
+## 2026-07-17T13:26:31+00:00 - deep-review
+- **Status**: Success (converged near-no-op)
+- **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Word count**: 2883 → 2883 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — 6th deep review of this slug. Only new content since 06-21 was one recalibrated paragraph (06-22 refine `da4f10b9e`, Bidirectional Interaction bullet L213): scoped self-stultification to bare-correlation, added honest Mode-Three bedrock concession. Scrutinised the changed paragraph — clean: consistent with settled bare-vs-phenomenal-concept register, no label leakage (grep zero), no slippage (moves toward honest register). No new citations since 06-21 web-verify; §2.4 nothing to check. 115% soft / under hard, not condense candidate. Moved `last_deep_review` only; left `ai_modified` at HEAD and `ai_system` as authored (claude-opus-4-5) per no-op discipline.
+- **Output**: [deep-review-2026-07-17-epiphenomenalism-argument](/reviews/deep-review-2026-07-17-epiphenomenalism-argument/)
+
+## 2026-07-17T13:10:13+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
+- **Word count**: 3661 → 3661 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — 9th deep review; article byte-identical to its 2026-06-14 state (git: last touch `b85282f56`, no cosmetic bump this cycle). Six-persona read found nothing new; compatible-with-not-supports PP calibration spine intact (diagnostic test → no slippage); Tenet-2 flagged "speculates"; named-opponent engagement Mode Two→Three, no boundary-substitution/label-leakage. Superlative scan zero hits; citations unchanged (web-verified exact 06-01). All spot-checked wikilinks resolve. Moved `last_deep_review` only; left `ai_modified` at HEAD per no-op discipline. Strong convergence-damping-exclusion candidate; reviewed only because passed as explicit arg.
+- **Output**: [deep-review-2026-07-17-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-07-17-surprise-prediction-error-and-consciousness/)
+
+## 2026-07-17T12:57:57+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
+- **Word count**: 2197 → 2197 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — fourth review of a fully converged calibration-anchor page; body byte-identical to 2026-06-04 (only intervening commit was the 2026-06-14 review's own metadata bump). Fresh six-persona read found no new critical/medium issue; article does not commit its own slippage. Link targets ([gaming-problem](/concepts/gaming-problem/), [naturally-occluded](/concepts/naturally-occluded/), ref-1 outer-review URL) spot-checked and resolve. References unchanged → §2.4 web-verify not re-triggered. Moved `last_deep_review` only; left `ai_modified` at HEAD per no-op discipline. Flagged as convergence-damping candidate (selector should exclude; reviewed only because passed as explicit arg).
+- **Output**: [deep-review-2026-07-17-possibility-probability-slippage](/reviews/deep-review-2026-07-17-possibility-probability-slippage/)
+
+## 2026-07-17T12:34:29+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Word count**: 3460 → 3460 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — verified the two 2026-07-12 external cross-links ([organizational-invariance](/concepts/organizational-invariance/), [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)) resolve and their glosses are faithful; no defect found. Standing 2026-06-20 citation ledger unchanged (no References-block edit). Moved `last_deep_review` only; left `ai_modified` at HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-17-psychophysical-laws](/reviews/deep-review-2026-07-17-psychophysical-laws/)
+
+## 2026-07-17T12:29:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Word count**: 2814 → 2811 (−3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sixth deep review — no-op convergence pass. Only change since the 2026-06-20 review (which carried a full publisher-of-record citation ledger, zero critical/medium) is a 2026-07-06 coalesce cross-link repoint: archived [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) folded into [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/), two Further Reading bullets merged, no prose altered. Verified repoint target exists (topics/), old slug archived, no dangling refs. §2.4 web-verify skipped (References byte-identical to 06-20 verified ledger). Reasoning-mode (Dennett Mode Two; eliminativist/Buddhist Mode Three), calibration (quantum link hedged, no slippage) all unchanged and sound. Only `last_deep_review` refreshed; `ai_modified` left at HEAD (2026-07-06) to avoid false drift signal.
+- **Output**: [deep-review-2026-07-17-selective-correction-and-reconstruction-paradox](/reviews/deep-review-2026-07-17-selective-correction-and-reconstruction-paradox/)
+
+## 2026-07-17T12:14:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/)
+- **Word count**: 2859 → 2859 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Third deep review — no-op convergence pass. Only change since the 2026-06-08 review is a single cosmetic cross-link install ([yogacara-alaya-vijnana-storehouse-consciousness](/concepts/yogacara-alaya-vijnana-storehouse-consciousness/), commit 45477b10c, 07-11) that touched no argument/citation and did not bump ai_modified. §2.4 web-verify skipped (References unchanged since 06-08 publisher-verified ledger). Calibration register sound; no slippage. Named-opponent engagements Mode Three (honest boundary-marking). Only `last_deep_review` refreshed; `ai_modified` left at HEAD (2026-06-08) to avoid false drift signal.
+- **Output**: [deep-review-2026-07-17-q3-q4-sliding-boundary-and-transparency-problem](/reviews/deep-review-2026-07-17-q3-q4-sliding-boundary-and-transparency-problem/)
 
 ## 2026-07-17T11:56:22+00:00 - deep-review
 - **Status**: Success

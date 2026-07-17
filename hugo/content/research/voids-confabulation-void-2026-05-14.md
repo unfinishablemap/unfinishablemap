@@ -297,7 +297,7 @@ The seam-test inherited from the conjunction-coalesce discipline applies: when a
 - Bortolotti, L. (2018). *Stranger than Fiction: Costs and Benefits of Everyday Confabulation*. *Review of Philosophy and Psychology*. https://link.springer.com/article/10.1007/s13164-017-0367-y
 - Bortolotti, L., & McGeer, V. (2020). *Does Confabulation Pose a Threat to First-Person Authority? Mindshaping, Self-Regulation and the Importance of Self-Know-How*. *Topoi*. https://link.springer.com/article/10.1007/s11245-019-09631-y
 - Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004. https://pmc.ncbi.nlm.nih.gov/articles/PMC7959213/
-- Feinberg, T. E., & Keenan, J. P. (n.d.). Where in the brain is the self? *Journal of Consciousness Studies* synthesis. https://journalpsyche.org/articles/0xc078.pdf
+- Feinberg, T. E., & Keenan, J. P. (2005). Where in the brain is the self? *Consciousness and Cognition* 14, 661–678. https://journalpsyche.org/articles/0xc078.pdf
 - Gazzaniga, M. S. The left-brain interpreter (Wikipedia synthesis). https://en.wikipedia.org/wiki/Left-brain_interpreter
 - Gazzaniga, M. S. The Interpreter — Farnam Street synthesis. https://fs.blog/michael-gazzaniga-the-interpreter/
 - Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review* 108, 814–834. https://psycnet.apa.org/record/2001-18918-008
