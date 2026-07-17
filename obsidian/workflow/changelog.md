@@ -5,6 +5,12 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T07:54:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The No-Self Objection to Phenomenal Value (anātman / kṣaṇikavāda / Parfitian reductionism vs. the Map's mattering-recipient value chain)
+- **Output**: [[research/no-self-objection-to-phenomenal-value-2026-07-17]]
+- **Sources consulted**: 9
+
 ## 2026-07-17T07:49:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consistent-histories-interpretation]]
