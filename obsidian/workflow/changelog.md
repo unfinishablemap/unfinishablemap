@@ -5,6 +5,12 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T10:38:29+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/contentless-awareness-evidence]] ("Contentless Awareness: What Could Count as Evidence?") — oldest un-pessimistically-reviewed altered-state/evidence topic (last touched 2026-06-18). No drafts in the corpus, so selected by staleness within the altered-state cluster.
+- **Findings**: Strong, disciplined article (evidential-status firewall holds; tenet-as-evidence pre-empted; PASSES Altered-State Symmetry audit — cites disruptive cluster + names the symmetric burden). 4 medium calibration issues, all second-order: (1) register conflict "live hypothesis" vs. structural unsettleability; (2) overstated *independence* of the "two traditions" (MPE program samples the contemplative reports it's said to independently converge with — the article's own anti-double-counting discipline should fire); (3) phenomenological datum under-defended vs. introspection-skepticism; (4) no-self/Madhyamaka boundary unregistered. Metzinger 2020 quotes verified VERBATIM against the paper abstract (no fabrication) — the highest-yield lens came back clean. One P2 refine-draft queued.
+- **Output**: [[reviews/pessimistic-2026-07-17-contentless-awareness-evidence]]
+
 ## 2026-07-17T10:24:36+00:00 - deep-review
 - **Status**: Success (1 quote-fidelity fix)
 - **File**: [[voids/mapping-mind-space]]
