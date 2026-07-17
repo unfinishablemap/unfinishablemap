@@ -22,7 +22,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review: 2026-06-18T17:05:00+00:00
+last_deep_review: 2026-07-17T11:19:34+00:00
 ---
 
 Two traditions report a mode of consciousness with no object: a vivid wakefulness that is *of* nothing in particular. Vedantic contemplatives call the limiting case *turiya*, the "fourth" beneath waking, dream, and dreamless sleep; the philosopher Thomas Metzinger calls a kindred phenomenon **minimal phenomenal experience** (MPE), studied through the introspective reports of meditators. Both raise the same tantalising possibility: that consciousness does not switch off in dreamless sleep but merely empties of content. This article asks a narrower question than *whether* that is true. It asks **what could count as evidence either way** — and argues that the strongest honest answer separates two claims usually run together, and locates a structural reason the question resists empirical settlement.
