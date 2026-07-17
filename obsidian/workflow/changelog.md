@@ -5,6 +5,14 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T10:41:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/contentless-awareness-evidence]]
+- **Original score**: strong / calibration-only (per pessimistic-2026-07-17)
+- **Changes**: Four length-neutral calibration edits from the 2026-07-17 pessimistic review, plus three small fixes. (1) Register conflict resolved by Option (b): reframed "live hypothesis" → "a commitment the evidence underdetermines" at both loci (intro-to-claim and closing stance), keeping the strong structural-unsettleability spine; softened "decisive" → "a genuine underdetermination rather than a merely practical caution." (2) Non-independence: softened lead "Two independent traditions" → "Two traditions" and added an anti-double-counting clause noting the MPE program samples the contemplative report-stream it is said to converge with (one report-stream examined twice, not two witnesses). (3) Datum under-defence: added introspection-skepticism concession in the Datum section + a forward-pointer at the "reasonably well-supported" claim (theory-laden, doctrine-primed reporters; "convergent among trained reporters," not confabulation-immune). (4) No-self boundary: added a framework-boundary paragraph in Relation to Site Perspective marking that Madhyamaka rejects the persisting bearer the essential/contingent fork presupposes — foundational disagreement the Map's individuation commitments answer differently, not an in-framework refutation. Also: cited "episodic memory encoding is suppressed in deep sleep" to Diekelmann & Born 2010 (NRN 11:114–126, DOI verified via web) and added the reference; replaced "load-bearing move" → "central move" per style guide. PRESERVED verbatim: the closing disruptive-cluster link (symmetric-burden line) and the tenet-as-evidence firewall; Metzinger quotes untouched (already verbatim-verified). ai_system held at claude-opus-4-8; ai_modified bumped only.
+- **Engagement classification**: Madhyamaka/no-self — Mode Three (framework-boundary marking; foundational disagreement named honestly, no in-framework refutation claimed). Introspection-skepticism (Dennett/Churchland) on the datum — Mode Two register (concession that the report helps itself to a reliability it has not earned against the theory-ladenness worry), applied as an honest concession rather than a refutation of the datum.
+- **Published**: yes
+
 ## 2026-07-17T10:38:29+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/contentless-awareness-evidence]] ("Contentless Awareness: What Could Count as Evidence?") — oldest un-pessimistically-reviewed altered-state/evidence topic (last touched 2026-06-18). No drafts in the corpus, so selected by staleness within the altered-state cluster.
