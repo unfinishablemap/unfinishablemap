@@ -4,7 +4,7 @@ description: "The Map's positions on where consciousness reaches in biological s
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-07-16T07:48:00+00:00
+ai_modified: 2026-07-17T16:49:36+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -12,6 +12,8 @@ topics:
   - "[[dream-consciousness]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[consciousness-in-simple-organisms]]"
+  - "[[single-cell-proto-agency-and-the-evidence-problem]]"
+  - "[[basal-and-bioelectric-cognition]]"
 concepts:
   - "[[minimal-consciousness]]"
   - "[[substrate-independence]]"
@@ -79,3 +81,13 @@ The organising idea is the **minimal-dualism spine**. The Map's tenet-dependency
 - **Argued in**: [[topics/split-brain-consciousness]], [[topics/anaesthesia-and-the-consciousness-interface]], [[topics/dream-consciousness]], [[apex/identity-across-transformations]]
 - **Would shift if**: a fragmentation case were shown to genuinely *divide a single consciousness into two subjects* (which would vindicate the production reading against the interface reading and threaten the unity argument it protects); or the filter model were independently undermined; or anaesthesia/sleep were shown to *eliminate* rather than *disconnect* experience in a way the interface reading cannot accommodate; or the split-brain data were shown to require exactly two subjects (which would feed back into P-I1's individuation commitment).
 - **Last reviewed**: 2026-06-22
+
+## P-CS5: At the prokaryotic floor, proto-agency and experience are underdetermined in both directions — parsimony's "no coupling" default is undefeated but not established
+
+- **Status**: live
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence moderate · external-evidence grade C (the mechanistic completeness of bacterial chemotaxis is independently attested — single-cell measurement of functionally-integrated CheY-P fluctuation; the two-way-underdetermination and in-principle-intractability readings built on it are the Map's own) · structural centrality low · model maturity developed · empirical discriminability none-by-construction (the object-level "does this cell choose or feel?" verdict is claimed *in-principle* undecidable at this rung, held at moderate credence — the intractability thesis is itself defeasible) · framework-internal only: no
+- **Asserts**: The Map holds that at the prokaryotic floor — a single bacterium's chemotactic search, the simplest rung where agency- or experience-talk is even tempting — behaviour underdetermines the verdict *in both directions*. A complete stochastic-biochemical account already generates the full behavioural repertoire (the "noise" is functionally integrated into the swim, not idle), so there is no residual behaviour for a proto-chooser to explain, and the Map's substrate analysis locates no interface site at that rung for felt experience to occupy. The underdetermination is symmetric: mechanistic sufficiency shows a chooser or a subject is *unnecessary*, not that either is *absent*. This is the Tenet 5 (Occam's Razor Has Limits) symmetry in unusually clean form — parsimony cuts both ways, so its default verdict ("no coupling, nothing chosen, nothing felt") is *undefeated but not positively established*: the Map endorses it as the reading the behaviour matches while denying it is proven. The stronger claim — that the underdetermination is *in-principle*, not a gap awaiting finer instruments — is the Map's own hedged thesis (hence moderate, not high credence): it rests on the literature's failure to yield any discriminating observable rather than on a proof, and an optimist may reasonably bet that richer causal-agency formalisms plus better measurement will eventually settle it.
+- **Depends on**: Tenet 5 ([[tenets#^occams-limits|Occam's Razor Has Limits]]) — the parsimony-cuts-both-ways engine; Tenet 3 ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]) — the interface reading that locates no substrate site for proto-choice at the prokaryotic floor; P-CS1 (the substrate-permissive spine keeps the question live without settling it); P-CS2 (this is the epistemic floor beneath that domain's marker gradient); the mechanistic completeness of bacterial chemotaxis as empirical anchor; [[project/evidential-status-discipline]] (the defeater-removal-is-not-evidence discipline it instantiates); cross-domain — [[positions/agency-and-will|P-A4]] and [[voids/agency-void]] carry the first-person verification limit the proto-agency half instantiates
+- **Argued in**: [[topics/single-cell-proto-agency-and-the-evidence-problem]], [[topics/consciousness-in-simple-organisms]], [[topics/basal-and-bioelectric-cognition]]
+- **Would shift if**: the complete-mechanism premise failed — a residual behaviour appeared that no stochastic-biochemical account generates, giving proto-choice something to explain and restoring empirical traction (which would defeat the in-principle-intractability thesis); or an interface-eligibility law located a substrate site at the prokaryotic floor, supplying a physical handle an intervention could grasp; or a discriminating observable separating proto-choice (or minimal experience) from complete mechanism were devised (which would falsify the underdetermination); or positive, non-behavioural markers of experience were established at that rung (which would break the symmetry on the presence side and lift the verdict off the parsimony default).
+- **Last reviewed**: 2026-07-17

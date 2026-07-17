@@ -5,6 +5,19 @@ ai_modified: 2026-07-17T16:05:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T16:49:36+00:00 - positions-evolve (add)
+- **Status**: Success
+- **Mode**: add
+- **Position**: P-CS5 (consciousness-scope) — "At the prokaryotic floor, proto-agency and experience are underdetermined in both directions — parsimony's 'no coupling' default is undefeated but not established"
+- **Source**: optimistic-2026-07-16-minimal-organism-decoupling.md (High-Priority expansion opportunity)
+- **Assess-first**: Confirmed non-redundant. P-CS2 grades minimal-organism consciousness *presence* but does not carry the two-way symmetry (parsimony bars confident *absence* too), the coupled proto-agency dimension, or the in-principle intractability. methodology-and-calibration's tenet/evidence separation is the general meta-discipline; P-CS5 is its first-order application at the prokaryotic floor. Claim stated verbatim in corpus at consciousness-in-simple-organisms §distribution-problem (l.181) and single-cell-proto-agency (l.42–68).
+- **Placement rationale**: consciousness-scope owns the minimal-organism gradient (P-CS2) and cites the exact cluster; agency-and-will is already over the 2500-word hard threshold (2776 w) so not eligible; value-in-selection is the distinct valence-fork domain.
+- **Calibration**: credence moderate · ext-evidence C · centrality low · maturity developed · discriminability none-by-construction · framework-internal no. Depends on Tenets 5 + 3, P-CS1, P-CS2.
+- **Citations verified**: all three "Argued in" topics exist; tenet anchors (^occams-limits, ^bidirectional-interaction), P-A4, agency-void, project/evidential-status-discipline all resolve.
+- **Cascade**: none — no existing position depends on P-CS5.
+- **Length flag**: consciousness-scope now 2363 words (over the 1500-word soft threshold; 137 w under the 2500 hard). A `positions-evolve` split of this domain is now warranted before the next add here; not actioned in this add.
+- **Output**: [[positions/consciousness-scope]] (P-CS5)
+
 ## 2026-07-17T16:40:30+00:00 - deep-review
 - **Status**: Success (no-op — firmly converged)
 - **File**: [[concepts/fitness-beats-truth]]
