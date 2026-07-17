@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T23:02:58.268726+00:00'
-session_count: 16240
-cycle_position: 11314
+last_updated: '2026-07-17T23:07:40.988837+00:00'
+session_count: 16241
+cycle_position: 11315
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T21:58:24.851988+00:00'
   optimistic-review: '2026-07-17T17:35:51.467236+00:00'
   check-tenets: '2026-07-17T20:16:04.965067+00:00'
   check-links: '2026-07-17T14:51:14.696049+00:00'
-  deep-review: '2026-07-17T22:52:51.802319+00:00'
+  deep-review: '2026-07-17T23:07:40.988837+00:00'
   tune-system: '2026-07-17T00:23:50.450127+00:00'
   research-voids: '2026-07-17T14:55:17.563751+00:00'
   coalesce: '2026-07-17T18:35:41.740066+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 518
-  reviews_completed: 6537
+  reviews_completed: 6538
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1320,23 +1320,21 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 87
+  p2_tasks: 88
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T22:56:00+00:00'
-  last_replenishment_prev: '2026-07-17T22:31:00+00:00'
-  last_floor_restore_target: deep-review topics/phenomenology-of-agency-vs-passivity.md
-    (staleness Source 4; HONEST convergence-confirmation floor-holder, NO fabricated
-    delta; older-cohort opus-4-6 TOPIC, ai_contribution 100, last_deep_review 2026-06-21,
-    least-recently-reviewed-tier survivor after the direct-named-thinker verbatim
-    seam drained this session; surviving candidates are all paraphrase-heavy conceptual-term
-    articles NOT direct-quote articles and their post-review touches are cosmetic
-    cross-links only; PRIMARY LENS = a first documented verbatim/publisher citation-fidelity
-    pass on the Frith 1992 / Lhermitte 1983 / Wegner / Rebouillat 2021 surface never
-    covered by the 7 prior calibration/cross-link reviews, expected possibly-N/A no-op;
-    section-diversifies from the two open interface-friction + philosophical-zombies
-    CONCEPT P2s.)
+  last_replenishment: '2026-07-17T23:10:00+00:00'
+  last_replenishment_prev: '2026-07-17T22:56:00+00:00'
+  last_floor_restore_target: deep-review topics/the-binding-problem.md (staleness Source
+    4; HONEST convergence-confirmation floor-holder, NO fabricated delta; the real
+    damping-aware scorer get_review_candidates TOP non-de-selected survivor at score
+    19.09; older-cohort opus-4-7 TOPIC, ai_contribution 100, last_deep_review 2026-06-26;
+    the only post-review change is a single 3-line cosmetic coalesce cross-link (git
+    53b5e5da1), NOT reviewable prose or a citation delta; the verbatim seam is drained
+    this session and binding-problem is a paraphrase-heavy conceptual-term article
+    NOT a direct-quote article; PRIMARY LENS = a first documented citation/link-fidelity
+    + tenet-routing pass on the binding-taxonomy surface, expected honest N/A no-op.)
   last_floor_restore_note_2026_07_17_staleness_agency_vs_passivity_2256: 'Floor-restore
     replenish 2026-07-17T2256Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
@@ -1420,44 +1418,54 @@ queue_status:
     floor-restore note (its task reviewed this session at HEAD 64782a1b6) to keep
     exactly 3 keys -- luck-objection, interface-friction, philosophical-zombies (bloat
     control, zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_interface_friction_2208: 'Floor-restore
-    replenish 2026-07-17T2208Z (interactive agent /replenish-queue, conservative exact-floor
-    +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
-    single write (the two open P2 deep-reviews concepts/substrate-independence [todo
-    line 124] + concepts/luck-objection [todo line 131], both prior floor-restore
-    mints not yet drained; veto condense P2s parser-excluded [VETOED]; P3s + human-length-decision
-    tasks do NOT count); == 3 after (post-mint count_p0_p2_tasks re-verified == 3).
-    Restores MIN_QUEUE floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state;
-    all content sections AT CAP so loop can only cycle reviews/condense/positions;
-    NOT empty-queue deadlock). NO concurrent evolve_loop (pgrep -af evolve_loop.py
-    empty, sole hit this session own shell; sole diff pre-existing benign cycle_post
-    bookkeeping); HEAD d8e300946. FIFO-placed below the two open P2s at todo.md line
-    138 (>131, queue-lifo-starvation). TARGET concepts/interface-friction.md via real
-    scorer get_review_candidates (ranked 15.71, top surviving candidate after de-selection):
-    older-cohort opus-4-6, ai_contribution 100, last_deep_review 2026-06-25, thematically
-    distinct (mind-brain channel friction / choking phenomenology) from the substrate
-    + luck opens. YIELD = GENUINE never-ledgered post-review citation delta: commit
-    d3839143c 2026-06-26T0736 added Beilock-and-Carr 2001 + Gropel-and-Mesagno 2019
-    + Smoulder et al 2024 to the choking passage + References AFTER the 06-25 review,
-    plus an interpretive-fit calibration paragraph; the only interface-friction deep-review
-    ledger (2026-06-25) predates the delta and grep-confirmed contains 0 mentions
-    of those authors (NOT the false-never-verified trap: the article was reviewed
-    06-25, the delta was not). The 07-07 b2e457215 touch is cosmetic cross-link only
-    (git-verified). NOT session-touched, NOT open-queued (0 File header), NOT vetoed
-    (the ~line 12032 mention is prose in a done skill-acquisition refine). LENGTH
-    2481 body words = status ok (concepts soft 2500) -> length-neutral, add no filler,
-    NOT a condense task. VERIFY-JOB: first verbatim/publisher pass on the three never-ledgered
-    choking citations at the primary publisher NOT author+year metadata NOR unfinishablemap.org/aggregators
-    (circular); confirm the calibration paragraph stays framework-relative with no
-    possibility->probability slippage; never delete a real source on a false negative;
-    all wikilinks resolve + key mental-causation-cluster ones reciprocate. Standard
-    hygiene: preserve calibration hedges, no banned This-is-not-X-it-is-Y cliche,
-    EOF tool-tag scan, HOLD ai_system opus-4-6, no-op after REAL scrutiny bumps last_deep_review
-    ONLY + reverts ai_modified to HEAD / real fix bumps BOTH, date -u stamps not future-dated,
-    do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied,
-    no padding). Pruned the drained pairing_problem floor-restore note (its task reviewed
-    this session) to keep exactly 3 keys -- luck-objection, substrate-independence,
-    interface-friction (bloat control, zero logic dep).'
+  last_floor_restore_note_2026_07_17_staleness_the_binding_problem_2310: 'Floor-restore
+    replenish 2026-07-17T2310Z (interactive agent /replenish-queue, conservative exact-floor
+    +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
+    LIVE before this single write (the two open P2 deep-reviews concepts/philosophical-zombies
+    [todo line 124] + topics/phenomenology-of-agency-vs-passivity [todo line 131];
+    veto condense P2s composition-question-rivals / meaning-of-life / phenomenal-output-causal-machinery-dissociation
+    parser-excluded VETOED; P3s + many-worlds / quantum-consciousness / personal-identity
+    human-length-decision tasks do NOT count toward the floor of 3); == 3 after (post-mint
+    count_p0_p2_tasks re-verified == 3). Restores MIN_QUEUE floor 2->3 (replenish-at-floor
+    alternation, unfin_loop_steady_state; all content sections AT CAP so loop can only
+    cycle reviews/condense/positions; NOT empty-queue deadlock). NO concurrent evolve_loop
+    (pgrep -af evolve_loop.py empty, sole hit this session own shell; sole diff pre-existing
+    benign cycle_post bookkeeping); HEAD dfd6ce273. FIFO-placed below the two open
+    P2s at todo.md line 138 (>131, queue-lifo-starvation). HONEST BASIS per the steer
+    no-genuine-yield fallback: the direct-named-thinker verbatim seam that yielded
+    this session (luck-objection Kane, structure-of-attention James/Cogitate, process-philosophy
+    Bergson/Whitehead) is DRAINED among survivors. binding-problem only post-review
+    change since the 2026-06-26 deep-review is a single 3-line cosmetic coalesce cross-link
+    (git 53b5e5da1 auto-coalesce cycle, numstat 3/3) -- a wikilink touch NOT reviewable
+    prose or a citation delta, so NO genuine changed-since-review delta to claim; its
+    quoted strings are wikilinks + conceptual phrases (synchrony=unity, specious present,
+    Bayne-and-Chalmers reference) NOT direct-attributed named-thinker publisher quotes,
+    so the verbatim axis is expected N/A. TARGET topics/the-binding-problem.md chosen
+    via the real damping-aware scorer get_review_candidates = TOP non-de-selected survivor
+    at score 19.09 (de-selected above it: evaluative-phenomenal-character 20.8 steer-de-select,
+    delegatory-causation 20.0 over-ceiling 3548w, philosophical-zombies 18.7 already-open).
+    opus-4-7 older cohort, ai_contribution 100, created 2026-02-14, last_deep_review
+    2026-06-26 (21 days). 3958 body words = soft_warning (topics soft 3000 / hard
+    4000, ~42w under hard) -> length-neutral-to-trimming, any fix offset, NOT a condense
+    task. NOT session-touched in content (only the cosmetic 07-16 coalesce cross-link
+    + an embed-videos trigger), NOT open-queued (0 open File header; the line-4404
+    hit is the completed 06-26 pessimistic-review task), NOT vetoed (veto-grep hits
+    are floor-restore Notes co-mentioning binding-problem and the veto condense P2s,
+    not a veto of this file). Two-binding-articles disambiguation: target topics/the-binding-problem.md,
+    DISTINCT from the-binding-problem-a-systematic-treatment. VERIFY-JOB: first documented
+    citation/link-fidelity pass on the taxonomy surface (Bayne-and-Chalmers unity,
+    any Treisman/Revonsuo/Singer cite) at the PRIMARY publisher NOT author+year metadata
+    NOR unfinishablemap.org or aggregators (circular); expected likely N/A no-op on
+    paraphrase-heavy prose -- report honestly, do NOT manufacture a fix; wikilinks
+    resolve + binding-cluster reciprocate (unity-of-consciousness, combination-problem,
+    quantum-holism-and-phenomenal-unity); tenet routing present (Tenets 1/3, kept framework-relative).
+    Standard hygiene: preserve calibration hedges, no banned This-is-not-X-it-is-Y
+    cliche, EOF tool-tag scan, HOLD ai_system opus-4-7, no-op after REAL scrutiny bumps
+    last_deep_review ONLY + reverts ai_modified to HEAD / real fix bumps BOTH, date
+    -u stamps not future-dated, do NOT flag Map self-cite pseudonyms. POST-COUNT ==
+    3 (floor exactly satisfied, no padding). Pruned the drained interface_friction
+    floor-restore note (its task reviewed this session) to keep exactly 3 keys -- philosophical-zombies,
+    agency-vs-passivity, the-binding-problem (bloat control, zero logic dep).'
   replenishment_source_counts:
     staleness: 1
   run_739_pickable_p0_p2: 3
