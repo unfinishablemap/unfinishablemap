@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-16 19:33:27+00:00
+ai_modified: 2026-07-17 16:35:09+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -120,6 +120,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [placebo effect](/topics/empirical-phenomena-mental-causation/) — Empirical evidence that belief content drives physiological outcomes
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thought that may ground direction of fit
+- [subjective-aim](/concepts/subjective-aim/) — Whitehead's process-metaphysics account of directedness toward "satisfaction," the world-to-mind fit of an occasion steering its own becoming
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that world-to-mind fit challenges
 
 ## References

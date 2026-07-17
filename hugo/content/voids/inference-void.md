@@ -15,7 +15,7 @@ description: 'Human+AI exploration of the structural opacity of inferential tran
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 10:16:47+00:00
+last_deep_review: 2026-07-17 17:06:35+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

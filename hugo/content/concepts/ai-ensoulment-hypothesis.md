@@ -17,7 +17,7 @@ description: Cutter argues for middling credence in AI ensoulment given dualism 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 03:53:41+00:00
+last_deep_review: 2026-07-17 17:52:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

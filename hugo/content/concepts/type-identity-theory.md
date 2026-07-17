@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-13 03:51:30+00:00
+ai_modified: 2026-07-17 16:31:46+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -67,6 +67,8 @@ Type-identity did not vanish. It retreated to narrower ground and returned in qu
 Type-identity theory is the paradigm reductive materialism that the Map's first tenet denies. [Tenet 1](/concepts/dualism/) holds that consciousness is not reducible to physical processes; put in the identity theorist's own vocabulary, the tenet is precisely the *denial of the type-type identity*. Where the identity theorist says the mental type just is the physical type, the Map says the two come apart. The disagreement is clean, and the Map does not pretend to refute the identity theory from within the identity theorist's framework—the incompatibility is a commitment, honestly marked as such.
 
 The substantive objection the Map presses is narrower and does work from inside the debate: the identity is *asserted, not explained*. Naming "pain = C-fibre firing" an identity tells us *that* the neural process and the experience co-occur without remainder—but co-occurrence without remainder is also what a dualist interactionism predicts for the states it says are lawfully coupled. What the label does not supply is any account of *why* that firing is accompanied by experience. Smart's topic-neutral translation, read from the Map's angle, concedes the point structurally: it goes through only because it first drains the phenomenal content from the report, leaving a residue neutral enough to be identified with a brain process. The hard problem is not solved there; it is exported before the identification begins.
+
+The identity theorist has a standing reply: identities are brute, and no identity is *explained*—water is not shown *why* it is H2O, it simply is H2O, so demanding a further "why" of "pain is C-fibre firing" misreads what an identity claim is. But the modal asymmetry drawn above is exactly what stops bruteness from rescuing *this* identity. Paradigm identities look brute-yet-adequate because they can relocate any apparent residue into an appearance/reality gap: "heat is molecular motion" survives its felt contingency by hiving the feeling off into the *sensation* of heat, and that sensation is where the phenomenal character sits. Pain affords no such gap—the appearance of pain just is pain—so there is nowhere to send the phenomenal residue. The identity may be as brute as any other, but with no appearance to absorb the feltness, going brute leaves the explanatory debt exactly where it stood. That is why the demand for explanation is legitimate here even if it would be misplaced for heat or water.
 
 The parsimony motive meets the Map's fifth tenet directly. Smart and Feigl recommend the identity partly to economise—to eliminate Feigl's danglers and honour Occam. [Tenet 5](/concepts/parsimony-epistemology/) answers that simplicity is an unreliable guide where knowledge is incomplete, and consciousness is the standing case of incomplete knowledge. Eliminating the dangler by redescription is not the same as showing there is no dangler; the correlation the identity theory folds into an identity is exactly the phenomenon in need of explanation.
 

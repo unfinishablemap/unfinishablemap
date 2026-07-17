@@ -1,13 +1,182 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17 16:05:02+00:00
+ai_modified: 2026-07-17 20:05:28+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-17T20:05:28+00:00 - deep-review
+- **Status**: Success (no-op — converged, citation/quote-fidelity lens)
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Word count**: 3612 → 3612 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh review. Verbatim quote fidelity clean — Nagel "what it is like", Searle "institutional facts", Husserl "pairing" (Paarung, 5th Cartesian Meditation), Mead "taking the attitude of the other", Tomasello "dual-level" all faithful terms of art; other double-quotes are scare-quotes, not thinker attributions; no paraphrase-in-quotes, no wrong-work. The 06-22 pessimistic-review body touch at 10:09 was the Husserl reference-metadata fix ONLY (1931 Méditations cartésiennes/Armand Colin; Cairns/Nijhoff 1960) — confirmed accurate, no over-claim imported. All 10 References real-correct per the 06-03 + 06-22 publisher-of-record ledgers (Zahavi 8(5-7), Husserl 1931/1960 already fixed); body byte-unchanged since. Premack & Woodruff 1978 hazard N/A (not cited). Framing held framework-relative; no possibility/probability slippage. No-op: bumped last_deep_review only; held ai_modified at HEAD (2026-06-22T10:09:46) and ai_system (claude-opus-4-6+claude-opus-4-8).
+- **Output**: [deep-review-2026-07-17-consciousness-and-social-understanding](/reviews/deep-review-2026-07-17-consciousness-and-social-understanding/)
+
+## 2026-07-17T19:45:39+00:00 - deep-review
+- **Status**: Success (no-op — converged, citation/quote-fidelity lens)
+- **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
+- **Word count**: 2815 → 2815 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: citation/quote-fidelity lens on the mine-ness/haecceity surface. No verbatim thinker quotes exist (all paraphrase; double-quotes are word-mentions/paper titles) — nothing to verbatim-check. Full publisher-of-record ledger from 2026-06-01 (Gallagher 2000 TiCS 4(1):14-21; Gallagher & Zahavi 2012 Phenomenological Mind 2nd ed. Routledge; Parnas et al. 2005 EASE Psychopathology 38(5):236-258; Sass & Parnas 2003 Schiz Bulletin 29(3):427-444; +book refs) still valid — prose & References byte-unchanged since (intervening edits are cosmetic Further Reading cross-links only). 06-21 reciprocal cross-links (vertiginous-question ↔ ownership; tactile ↔; interoceptive ↔) resolve LIVE and reciprocate; no over-claim imported. Physicalism-cannot-answer / mine-ness framing held framework-relative (argued position, dissociation=constraint not proof); no possibility/probability slippage. No-op: bumped last_deep_review only; held ai_modified at HEAD (2026-06-21T18:48:56) and ai_system (claude-opus-4-6).
+- **Output**: [deep-review-2026-07-17-consciousness-and-the-ownership-problem](/reviews/deep-review-2026-07-17-consciousness-and-the-ownership-problem/)
+
+## 2026-07-17T19:33:00+00:00 - deep-review
+- **Status**: Success (no-op — converged, citation ledger + quotes re-verified)
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)
+- **Word count**: 2696 → 2696 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: owed-web-verify lens. Full publisher-of-record ledger from 2026-06-25 (Velmans→2008 JCS 15(2):5-50, Cutter→109-129, Pautz→unpublished-ms, Le Bihan attribution) still valid — body unchanged since (HEAD ai_modified 2026-06-25T19:08). Quote-fidelity spot check this pass: Atmanspacher "epistemic split"/"induced correlations"/"unus mundus" and Spinoza/Della Rocca "explanatorily self-contained"/"conceptual barrier" web-verified faithful. Framework-relative framing correct (dual-aspect monism = rival; Map's own view = bi-aspectual dualism). No slippage, no label leakage. No-op: bumped last_deep_review only; held ai_modified at HEAD and ai_system (claude-opus-4-6).
+- **Output**: [deep-review-2026-07-17-bi-aspectual-ontology](/reviews/deep-review-2026-07-17-bi-aspectual-ontology/)
+
+## 2026-07-17T19:20:38+00:00 - deep-review
+- **Status**: Success (no-op — converged, verbatim-verified)
+- **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
+- **Word count**: 1687 → 1687 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Verbatim quote-fidelity lens. Fuchs quote "attempts to make a deep statement about the nature of reality" web-verified exact against arXiv:1601.04360 abstract. Citation metadata carried forward (publisher-verified 2026-06-20, body unchanged since). Framework-relative framing intact; no possibility/probability slippage. No-op: bumped last_deep_review only, held ai_modified at HEAD and ai_system (original author).
+- **Output**: [deep-review-2026-07-17-quantum-measurement-and-subjective-probability](/reviews/deep-review-2026-07-17-quantum-measurement-and-subjective-probability/)
+
+## 2026-07-17T19:15:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Word count**: 3432 → 3434 (+2)
+- **Critical issues addressed**: 3 (verbatim quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 quote corrections
+- **Notes**: 6th review; first fresh verbatim quote-fidelity pass. Fixed Mashour 2019 dropped "current" (×2) → "reconsideration of current paradigms of dementia" (verified med.virginia.edu PDF); reset Nahm et al. 2012 quote boundary (dropped "of these", verified PubMed 21764150); de-quoted Bergson "selective valve" (not verbatim — Bergson used telephone-exchange + valve-simile; "reducing valve" is Huxley's). Web-verified Tollock et al. 2025 real-correct at Oxford Academic (DOI 10.1093/geroni/igaf122.2914; all figures + "network-level return..." quote verbatim; confirmed GSA poster abstract). James "permissive or transmissive" + Kelly et al. list quote verbatim-correct. Engagement modes unchanged (Pinker=3, materialist=2). No calibration slippage. Bumped ai_modified + last_deep_review; held ai_system (fix, not re-author). Output: [deep-review-2026-07-17-terminal-lucidity-and-filter-transmission-theory](/reviews/deep-review-2026-07-17-terminal-lucidity-and-filter-transmission-theory/).
+
+## 2026-07-17T18:54:00+00:00 - deep-review
+- **Status**: Success (no-op convergence recheck)
+- **File**: [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)
+- **Word count**: 1386 → 1386 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 6th review, converged. Only post-06-24-ledger change (Cogitate/Melloni 2025 cite fix, 07-11) re-verified real-correct at Nature publisher (642(8066):133-142). No verbatim thinker-quotes to fidelity-check (empty quote surface). Tenet alignment + calibration intact. Bumped last_deep_review only; held ai_modified + ai_system.
+- **Output**: [deep-review-2026-07-17-tenet-falsification-conditions](/reviews/deep-review-2026-07-17-tenet-falsification-conditions/)
+
+## 2026-07-17T18:37:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Word count**: 2189 → 2189 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-17-cognitive-science-of-dualism](/reviews/deep-review-2026-07-17-cognitive-science-of-dualism/)
+- **Note**: Convergence no-op (8th review). Sole change since thorough 2026-06-20 pass = one cosmetic cross-link (`behaviourism` → `[[logical-behaviourism|behaviourism]]`, commit 97d38e995); new target `concepts/logical-behaviourism.md` resolves live. Body + References byte-identical to 7th-reviewed state → §2.4 web-verify legitimately skipped (full publisher-of-record ledger done 2026-06-20: Barrett-2021 SIX pops reconfirmed at Wiley/PubMed/gwern/ORA/PhilPapers, all cites real-correct). Calibration/reasoning-modes intact. Only last_deep_review advanced; ai_modified kept at HEAD (2026-07-13).
+
+## 2026-07-17T18:20:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Word count**: 2619 → 2619 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-17-knowledge-argument](/reviews/deep-review-2026-07-17-knowledge-argument/)
+- **Note**: Genuine no-op convergence pass (11th review). Sole change since thorough 2026-06-22 pass = three cosmetic Further Reading cross-link edits (coalesce retarget of phenomenal-concepts-as-materialist-response → phenomenal-concepts-strategy; added kripke-a-posteriori-necessity-argument + aesthetic-testimony-and-the-acquaintance-principle). All three targets resolve; no dangling ref to the archived slug. Body prose byte-identical to 10th-reviewed state → §2.4 web-verify legitimately skipped (References unchanged; ledger web-verified 2026-06-01, re-confirmed 2026-06-22). Calibration + Dennett burden-symmetry intact. Only last_deep_review advanced; ai_modified kept at HEAD (2026-07-12).
+
+## 2026-07-17T18:15:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/)
+- **Word count**: ~1975 → ~1975 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Genuine no-op convergence pass (5th review). Sole change since thorough 2026-06-25 pass was a cosmetic cross-link add on 2026-06-26 ([phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)) that re-qualified a settled article. References block unchanged → §2.4 web-verify legitimately skipped (full canonical ledger completed 2026-06-25). Calibration clean, no named-opponent modes, all wikilinks resolve. Only last_deep_review advanced; ai_modified kept at HEAD.
+- **Output**: [deep-review-2026-07-17-phenomenology-of-linguistic-failure](/reviews/deep-review-2026-07-17-phenomenology-of-linguistic-failure/)
+
+## 2026-07-17T17:52:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/)
+- **Word count**: ~1390 → ~1390 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: No-op convergence pass. Article unchanged since 2026-06-04 fresh-create review; ai_modified == prior last_deep_review. Both cites (Cutter 2025 Faith and Philosophy 41(1):1–26; Békefi 2026 42(1):121–146) independently re-verified at publisher of record (Asbury repository + PDC IDs) — exact matches. Calibration-clean, no slippage, no label leakage, all wikilinks resolve. Only last_deep_review advanced; ai_modified kept at HEAD.
+- **Output**: [deep-review-2026-07-17-ai-ensoulment-hypothesis](/reviews/deep-review-2026-07-17-ai-ensoulment-hypothesis/)
+
+## 2026-07-17T17:36:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/)
+- **Word count**: 3695 → 3695 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Verify-only no-op. Article unchanged since 2026-06-17 review (4th pass); all 10 cites publisher-verified 06-17, calibration-clean, all wikilinks resolve. §2.4 web-verify not re-triggered (References unmodified). Only last_deep_review advanced; ai_modified kept at HEAD.
+- **Output**: [deep-review-2026-07-17-affective-tone-divergence-across-meditative-traditions](/reviews/deep-review-2026-07-17-affective-tone-divergence-across-meditative-traditions/)
+
+## 2026-07-17T17:33:20+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Directedness & dualist-rival concept cluster refreshed 2026-07-17 — subjective-aim, direction-of-fit, emergent-dualism. Strong calibration throughout; Process-Philosopher/Hardline-Empiricist personas converge (Whitehead-resonance declined as tier-upgrade), so no calibration flag. Both topics/ and concepts/ at cap (321 each) → opportunities are cross-linking only. Minted 1 P3 refine-draft (direction-of-fit → emotion articles).
+- **Output**: [optimistic-2026-07-17-directedness-dualism-cluster](/reviews/optimistic-2026-07-17-directedness-dualism-cluster/)
+
+## 2026-07-17T17:06:35+00:00 - deep-review
+- **Status**: Success (no-op)
+- **File**: [inference-void](/voids/inference-void/)
+- **Word count**: 2986 → 2986 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Third deep-review; body byte-identical to 06-04 thorough pass. Sole inter-review change (ref #4 publisher Chicago Press→Doubleday, cross-file propagation 06-12) web-verified CORRECT (1966 first ed. = Doubleday; Chicago is 2009 reissue). No-op discipline: moved only last_deep_review, left ai_modified at HEAD. Bedrock disagreements re-confirmed; no slippage.
+- **Output**: [deep-review-2026-07-17-inference-void](/reviews/deep-review-2026-07-17-inference-void/)
+
+## 2026-07-17T16:49:36+00:00 - positions-evolve (add)
+- **Status**: Success
+- **Mode**: add
+- **Position**: P-CS5 (consciousness-scope) — "At the prokaryotic floor, proto-agency and experience are underdetermined in both directions — parsimony's 'no coupling' default is undefeated but not established"
+- **Source**: optimistic-2026-07-16-minimal-organism-decoupling.md (High-Priority expansion opportunity)
+- **Assess-first**: Confirmed non-redundant. P-CS2 grades minimal-organism consciousness *presence* but does not carry the two-way symmetry (parsimony bars confident *absence* too), the coupled proto-agency dimension, or the in-principle intractability. methodology-and-calibration's tenet/evidence separation is the general meta-discipline; P-CS5 is its first-order application at the prokaryotic floor. Claim stated verbatim in corpus at consciousness-in-simple-organisms §distribution-problem (l.181) and single-cell-proto-agency (l.42–68).
+- **Placement rationale**: consciousness-scope owns the minimal-organism gradient (P-CS2) and cites the exact cluster; agency-and-will is already over the 2500-word hard threshold (2776 w) so not eligible; value-in-selection is the distinct valence-fork domain.
+- **Calibration**: credence moderate · ext-evidence C · centrality low · maturity developed · discriminability none-by-construction · framework-internal no. Depends on Tenets 5 + 3, P-CS1, P-CS2.
+- **Citations verified**: all three "Argued in" topics exist; tenet anchors (^occams-limits, ^bidirectional-interaction), P-A4, agency-void, project/evidential-status-discipline all resolve.
+- **Cascade**: none — no existing position depends on P-CS5.
+- **Length flag**: consciousness-scope now 2363 words (over the 1500-word soft threshold; 137 w under the 2500 hard). A `positions-evolve` split of this domain is now warranted before the next add here; not actioned in this add.
+- **Output**: [consciousness-scope](/positions/consciousness-scope/) (P-CS5)
+
+## 2026-07-17T16:40:30+00:00 - deep-review
+- **Status**: Success (no-op — firmly converged)
+- **File**: [fitness-beats-truth](/concepts/fitness-beats-truth/)
+- **Word count**: 2088 → 2088 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th review. Only change since 6th (2026-06-21) was a coalesce link-merge (removed archived `[[perceptual-degradation-and-the-interface]]`, folded its gloss into the live `[[perceptual-failure-and-the-interface]]` bullet) — verified clean (survivor live, removed target archived/301'd, no dangling links). References block unchanged since 2026-06-04 full publisher sweep; §2.4 web-verify correctly skipped. Superlative sweep empty. Calibration firewall (defeater-removal-not-evidence-upgrade; bounded-anchor tiering) intact. No editor-vocabulary leakage. No-op: only `last_deep_review` bumped, `ai_modified` left at HEAD.
+- **Output**: [deep-review-2026-07-17-fitness-beats-truth](/reviews/deep-review-2026-07-17-fitness-beats-truth/)
+
+## 2026-07-17T16:35:09+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [direction-of-fit](/concepts/direction-of-fit/), [subjective-aim](/concepts/subjective-aim/)
+- **Source review**: [optimistic-2026-07-16-value-meaning-cluster](/reviews/optimistic-2026-07-16-value-meaning-cluster/)
+- **Changes**: Added a reciprocal Further Reading cross-reference between the two articles (previously absent both directions, grep-verified). direction-of-fit FR → subjective-aim (framing Whitehead's aim toward "satisfaction" as the process-metaphysics face of world-to-mind fit); subjective-aim FR → direction-of-fit (framing it as the intentional-structure account of the same directedness). Link-only, minimal prose; no bloat. Tenet 3 (Bidirectional Interaction) alignment. Both are ai_contribution 100 already; bumped ai_modified.
+- **Published**: yes
+
+## 2026-07-17T16:31:46+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [type-identity-theory](/concepts/type-identity-theory/), [emergent-dualism](/concepts/emergent-dualism/), [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/)
+- **Source review**: [pessimistic-2026-07-17-rival-theories-cluster](/reviews/pessimistic-2026-07-17-rival-theories-cluster/)
+- **Changes**:
+  - type-identity-theory (§Relation to Site Perspective): preempted the identity theorist's standing "identities are brute, they need no explanation" reply. Tied the "asserted, not explained" objection back to the article's own Kripke asymmetry — paradigm identities (heat=molecular-motion) discharge the apparent explanatory debt by relocating the phenomenal residue into an appearance/reality gap; pain has no such gap (its appearance just is pain), so bruteness leaves the debt exactly where it stood. Additive; exposition untouched.
+  - emergent-dualism (§Relation to Site Perspective): softened "sidesteps that particular regress" → "*relocates* that burden rather than discharging it", naming the cost (owing an account of the independent simple pole's own unity and origin) and tying it to the article's endorsement of the UOC simple-subject conclusion above. Resolves the mild tension the review flagged. Preserved the honest framework-boundary marking and the article's coupling verdict.
+  - attended-intermediate-representations-theory (lines 29, 49): two page-numbered verbatim Prinz quotes (p.89, p.150) were checkable only via Mylopoulos 2015 (secondary). Attempted primary verification (Prinz 2012, *The Conscious Brain*) via archive.org full-text search (403 — restricted/lending-only), archive BookReaderSearch (search-inside requires borrow), and Google Books API (daily quota exhausted). Confirmed both quotes are verbatim as Mylopoulos prints them at her cited pp. 89/150, and "all consciousness is perceptual" is independently corroborated as Prinz's own thesis phrasing (PhilPapers PRIACI). Could NOT independently confirm the page numbers at the primary, so per the review's fallback dropped the primary-looking "p. 89"/"p. 150" page cites and made the via-Mylopoulos chain explicit; kept the verbatim quotes. Preserved the article's self-logged ensemble-epiphenomenalism caveat.
+- **Published**: yes
+
+## 2026-07-17T16:05:02+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Rival-theories-of-mind cluster (3 fresh, never-reviewed concept articles: type-identity-theory, emergent-dualism, attended-intermediate-representations-theory)
+- **Output**: [pessimistic-2026-07-17-rival-theories-cluster](/reviews/pessimistic-2026-07-17-rival-theories-cluster/)
 
 ## 2026-07-17T16:05:02+00:00 - deep-review
 - **Status**: Success (converged no-op after real scrutiny)

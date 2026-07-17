@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-12 11:37:00+00:00
+ai_modified: 2026-07-17 16:31:46+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -29,7 +29,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Attended Intermediate Representations (AIR) theory, developed most fully by Jesse Prinz in *The Conscious Brain: How Attention Engenders Experience* (Oxford University Press, 2012), holds that a mental state is conscious when and only when an *intermediate-level* perceptual representation is *modulated by attention*. Two theses carry the account. The **intermediate-level thesis** locates consciousness at one specific stage of perceptual processing — neither the low-level feature detectors nor the high-level categorical abstractions, but the viewpoint-specific middle. The **attention thesis** makes attention the gate: an intermediate representation becomes conscious precisely when attention makes it available to working memory. Prinz's own formulation, as quoted in the secondary literature, is that "consciousness arises when and only when intermediate-level representations are modulated by attention" (Prinz 2012, p. 89, cited in Mylopoulos 2015).
+The Attended Intermediate Representations (AIR) theory, developed most fully by Jesse Prinz in *The Conscious Brain: How Attention Engenders Experience* (Oxford University Press, 2012), holds that a mental state is conscious when and only when an *intermediate-level* perceptual representation is *modulated by attention*. Two theses carry the account. The **intermediate-level thesis** locates consciousness at one specific stage of perceptual processing — neither the low-level feature detectors nor the high-level categorical abstractions, but the viewpoint-specific middle. The **attention thesis** makes attention the gate: an intermediate representation becomes conscious precisely when attention makes it available to working memory. Prinz's own formulation, as quoted by Mylopoulos (2015), is that "consciousness arises when and only when intermediate-level representations are modulated by attention" (Prinz 2012, via Mylopoulos; page reference not independently confirmed against the primary text).
 
 AIR is one of the cleanest statements of the view that *attention itself* does the work of making perception conscious. This article presents it at full strength — its two theses, its neurofunctionalist metaphysics, its position among rival theories, and the standard objections it faces — before setting out where The Unfinishable Map engages and resists it. The Map's disagreement is specific and structural: AIR is a *constitution* claim (attended intermediate representations *are* consciousness), and the Map reads the very same attention-gating as a *selection* mechanism (attention determines which representations the conscious interface couples to). That reframing, developed in the [Relation to Site Perspective](#relation-to-site-perspective) section below, is where Tenet 1 pushes back.
 
@@ -49,7 +49,7 @@ Prinz pairs this functional story with a proposed neural signature — gamma-ban
 
 ## Neurofunctionalism: The Metaphysics
 
-AIR is reductive and physicalist. Prinz calls his metaphysics "neurofunctionalism": consciousness is identified with a functionally characterized neural process — attention operating on intermediate representations — realized in the brain. There is no phenomenal residue beyond the functionally specified process. The theory aims to specify the psychological and neural correlates of consciousness and to say *when* and *where* in the processing stream consciousness arises; it does not claim to close the explanatory gap between physical process and felt experience by fiat. It is, in Prinz's own summary phrase, a view on which "all consciousness is perceptual" (Prinz 2012, p. 150, cited in Mylopoulos 2015) and functions to make perceptual information available for flexible behavior.
+AIR is reductive and physicalist. Prinz calls his metaphysics "neurofunctionalism": consciousness is identified with a functionally characterized neural process — attention operating on intermediate representations — realized in the brain. There is no phenomenal residue beyond the functionally specified process. The theory aims to specify the psychological and neural correlates of consciousness and to say *when* and *where* in the processing stream consciousness arises; it does not claim to close the explanatory gap between physical process and felt experience by fiat. It is, in Prinz's own summary phrase, a view on which "all consciousness is perceptual" (Prinz 2012, via Mylopoulos 2015) and functions to make perceptual information available for flexible behavior.
 
 This places AIR squarely as a naturalistic rival to the Map's dualism — congenial as an empirical correlate proposal, resisted as a complete account. That is the [closing section's](#relation-to-site-perspective) concern.
 

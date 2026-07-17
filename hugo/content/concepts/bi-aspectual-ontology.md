@@ -23,7 +23,7 @@ description: Reality has two irreducible aspects — structure (physics) and act
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 18:23:13+00:00
+last_deep_review: 2026-07-17 19:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

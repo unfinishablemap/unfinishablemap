@@ -17,7 +17,7 @@ description: QBism's probabilities are structurally dependent on consciousnessâ€
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 02:43:25+00:00
+last_deep_review: 2026-07-17 19:20:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

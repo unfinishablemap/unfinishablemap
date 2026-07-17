@@ -31,7 +31,7 @@ description: Genuine social understanding—grasping other minds as minds, build
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 07:45:21+00:00
+last_deep_review: 2026-07-17 20:05:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

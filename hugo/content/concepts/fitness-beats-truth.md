@@ -14,7 +14,7 @@ description: Hoffman, Singh & Prakash's formal proof that natural selection favo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 19:32:42+00:00
+last_deep_review: 2026-07-17 16:40:30+00:00
 modified: *id001
 related_articles:
 - '[[parsimony-epistemology]]'

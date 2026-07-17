@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-05-26 06:33:40+00:00
+ai_modified: 2026-07-17 16:35:09+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -112,6 +112,7 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Purpose as ongoing subjective aim toward experiential richness
 - [agent-teleology](/concepts/agent-teleology/) — How conscious beings introduce genuine purpose; subjective aim as metaphysical grounding
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's forward-directedness of experience, structurally close to subjective aim
+- [direction-of-fit](/concepts/direction-of-fit/) — The intentional-structure account of the same directedness; subjective aim is the process-metaphysics face of world-to-mind fit
 - [downward causation](/concepts/mental-causation-and-downward-causation/) — Subjective aim as a form of top-down causal influence within Whitehead's framework
 - [creative-consciousness](/concepts/creative-consciousness/) — Creative advance and the generation-through-selection synthesis
 
