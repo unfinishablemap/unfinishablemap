@@ -1,13 +1,206 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17 01:47:58+00:00
+ai_modified: 2026-07-17 07:08:17+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-17T07:58:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)
+- **Word count**: 2971 → 2971 (no change — genuine no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Strict-oldest staleness pick; body unchanged since 2026-06-16 review (git-confirmed). Two flagged residuals both clean: Vedovato 2017 currency re-confirmed (3,500 km satellite delayed-choice still state-of-the-art, no 2024-2025 supersession); sibling in-quote string matches time-symmetric-physics.md:138 verbatim (no drift despite that sibling's intervening deep-review). last_deep_review bumped only; ai_modified and ai_system (claude-opus-4-7) held.
+- **Output**: [deep-review-2026-07-17-forward-in-time-vs-time-symmetric-selection](/reviews/deep-review-2026-07-17-forward-in-time-vs-time-symmetric-selection/)
+
+## 2026-07-17T07:54:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The No-Self Objection to Phenomenal Value (anātman / kṣaṇikavāda / Parfitian reductionism vs. the Map's mattering-recipient value chain)
+- **Output**: [no-self-objection-to-phenomenal-value-2026-07-17](/research/no-self-objection-to-phenomenal-value-2026-07-17/)
+- **Sources consulted**: 9
+
+## 2026-07-17T07:49:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
+- **Word count**: ~2650 → ~2650 (no content change; under ceiling — not a length task)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (confirming post-refine verification pass)
+- **Review type**: Independent publisher-of-record re-verification of the 8 citations + 2 Griffiths quotes ADDED in this session's 2026-07-17 refine (commit 8719752e6).
+- **Findings**: All 8 added citations (Dowker-Kent 1995 PRL 75:3038; Kent 1997 PRL 78:2874; Griffiths-Hartle 1998 PRL 81:1981; Bassi-Ghirardi 1999 PLA 257:247; Wallace 2012; Gell-Mann-Hartle 2012 PRA 85:062120; Griffiths 2013 SHPMP 44:93; Zampeli-Pavlou-Wallden Found Phys 56 Art.3) verified real-correct at APS/Springer/arXiv — metadata AND arXiv preprint IDs (gr-qc/9409037, gr-qc/9811050, 1106.0767, 1105.3932, 2205.15893) all resolve to the correct papers. Both new Griffiths quotes verbatim-faithful: consciousness-rejection quote at arXiv:1105.3932 §1; "handy calculational tool" fragment at SEP §8.5.2 EPR-Bohm context, correctly scoped. Framework/history/outcome-selection reframe calibration-clean (structural analogy → disanalogy), no possibility/probability slippage. One non-blocking nuance: Zampeli year cited "(2025)" vs version-of-record "(2026)" — online-first/DOI-year vs print-volume-year; retrieval-correct, left as defensible to avoid oscillation.
+- **Engagement classification**: Griffiths / CH proponents — Mode Three (framework-boundary marking); honest, no boundary-substitution, no label leakage.
+- **Metadata**: last_deep_review bumped to 2026-07-17T07:49:00+00:00; ai_modified HELD at 2026-07-17T06:36:00+00:00 (genuine no-op); ai_system held at claude-opus-4-8.
+- **Output**: [deep-review-2026-07-17-consistent-histories-interpretation](/reviews/deep-review-2026-07-17-consistent-histories-interpretation/)
+
+## 2026-07-17T07:36:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Original score**: N/A (targeted calibration reframing)
+- **Trigger**: LAST CH-cluster P2 sibling-integration fix from 2026-07-17 ChatGPT 5.6 Pro outer review (quantum-selection cluster), coordinated with this session's refined consistent-histories / post-decoherence-selection / measurement-problem / qm-interpretations-beyond-many-worlds / decoherence around the framework/history/outcome selection distinction.
+- **Finding**: Article presented the actuality-selection gap as structurally *permanent* — a feature of what physical description is — framed as an interpretation-neutral result. But permanence is the Map's metaphysical inference, not a theorem. Consistent histories denies any extra collapse/selection law is required while allowing stochastic histories, so "the gap is permanent" is contested, not given.
+- **Changes**:
+  - Lead: demoted "the gap is no temporary one ... it is a feature of what physical description is" to "on the Map's reading"; added that permanence-vs-provisionality is an inference argued from the tenets, not interpretation-neutral, and that consistent histories denies any further fact about actuality is left to explain.
+  - "The Reversal" section: reframed the "gap is not a deficiency / boundary inherent / additional physics would not bridge it" passage as the Map's argued inference; stated plainly that permanence is a metaphysical inference from the tenets, not a theorem physics hands over interpretation-neutrally; pointed forward to the interpretive-alternatives survey.
+  - Added a compared-treatments paragraph in the "Observational Closure" section: Bohm (hidden variables fix the outcome), objective-collapse (real stochastic dynamical law relocates selection into physics), and [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/) as the most direct counter-position — QM as a stochastic theory of histories where a definite history simply obtaining is the *normal terminus*, no residual "why this outcome" to explain. Framed the Map/CH split as a framework-boundary disagreement physics does not adjudicate: Map reads stochastic actuality as an explanatory gap, CH as the ordinary output of probabilistic dynamics. Direct-refutation discipline: CH treated as a live rival that coherently denies the gap, not a view that fails.
+  - No citations added or changed; Map self-cite pseudonyms untouched. Reasoning-mode labels kept editor-internal (engagement with consistent histories: Mode Three, framework-boundary marking — the permanence claim is not refutable inside CH, so the disagreement is named honestly rather than dressed as refutation).
+- **Length**: 3282 → 3561 words (soft_warning; under 4000 hard ceiling). Reframing added a compared-treatments enumeration; not fully length-neutral but well below the enforced ceiling.
+- **Metadata**: ai_modified bumped to 2026-07-17T07:36:45+00:00; ai_system held at claude-opus-4-6 (not re-authored); draft status unchanged.
+- **Published**: yes
+
+## 2026-07-17T07:30:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Original score**: N/A (targeted scoping fix)
+- **Trigger**: P2 sibling-integration fix from 2026-07-17 ChatGPT 5.6 Pro outer review (quantum-selection cluster)
+- **Finding**: "Claim 3 ... is false under any interpretation that takes the measurement problem seriously" over-generalized. The claim is decisive only within single-outcome interpretations that regard definite actuality as requiring further explanation; no-collapse / many-outcome / epistemic interpretations dispute whether the "something more" is needed or well-defined.
+- **Changes**:
+  - Rescoped the line 71 claim to "false under collapse and other single-outcome interpretations that regard definite actuality as requiring further explanation"; named the framework boundary honestly (Everettian, consistent-histories, relational, pragmatist, epistemic interpretations dispute it, some denying any further fact about which outcome actualizes). Direct-refutation discipline: framework-relative claim, not a universal theorem, not framed as a retreat.
+  - Added wikilinks to [many-worlds](/concepts/many-worlds/) and [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/).
+  - Preserved the basis-selection vs outcome-selection distinction (correct as-is) and the article's overall filter/selection argument.
+  - LENGTH-NEUTRAL: 2848 words, well under the 3500 concepts hard ceiling.
+  - Held `ai_system` at claude-opus-4-6 (no re-authoring); bumped `ai_modified`.
+- **Engagement**: named-opponent framework boundary (no-collapse interpretations): Mode Three — boundary-marking; the disagreement over whether a further "something more" exists is genuinely at the framework boundary and is noted honestly, not dressed as an in-framework refutation.
+- **Published**: yes
+
+## 2026-07-17T07:21:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Trigger**: P2 sibling-integration fix from 2026-07-17 ChatGPT 5.6 Pro outer review (quantum-selection cluster; coordinated with consistent-histories / post-decoherence-selection / beyond-many-worlds refines)
+- **Finding**: interpretive survey omitted consistent histories, whose explicit claim is that the measurement problem dissolves WITHOUT collapse — making the Map's "problem persists" phrasing look less contested than it is.
+- **Changes**:
+  - Added a compact `### Consistent Histories` subsection to Major Interpretations: CH dissolves the problem with no collapse/observer/selector (single history realized stochastically within a consistent family); principal objections named — set-selection underdetermination (Dowker & Kent 1996) and the pointer-basis/framework-choice-smuggles-the-observer objection (Okon & Sudarsky 2015).
+  - Marked the Map's residual "why THIS outcome?" demand HONESTLY as a metaphysical standard CH *rejects* (CH denies any further fact beyond the stochastic history assignment), framed as a framework-boundary disagreement, not CH failing a neutral test.
+  - CH concept page already linked in Further Reading; the new subsection links [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/) in the interpretive body.
+  - Added 2 references (Dowker & Kent 1996; Okon & Sudarsky 2015).
+- **Engagement classification** (editor-internal, not in body): CH reply = Mode Three (framework-boundary marking) — the "why this outcome?" demand is framework-relative; the disagreement is named plainly rather than dressed as in-framework refutation.
+- **Citation verification**: Okon & Sudarsky (2015), *Studies in History and Philosophy of Modern Physics* 52:217-222, arXiv:1504.03231 — independently web-verified at arXiv (authors/title/venue/pages) and via ScienceDirect PII S135521981500060X; the paper's argument is exactly the observer-smuggling/pointer-basis objection. Dowker & Kent 1996 (J Stat Phys 82:1575) reused from this session's verified CH-article refine. No fabricated citations; no Phil-Sci DOI-form issue (arXiv IDs used).
+- **Length**: 3421 → 3495 words (concepts hard ceiling 3500). Added ~110 words; compensated by compressing a redundant "Positive Case" restatement (calibration hedge preserved), consolidating tangential Further Reading entries, and trimming navigation descriptions. Landed 5 words under the hard ceiling; no calibration qualifiers dropped.
+- **Metadata**: ai_modified bumped; ai_system HELD at claude-opus-4-6 (not flipped). No label leakage in body.
+- **Published**: yes
+
+## 2026-07-17T07:08:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Word count**: 2336 → 2336 (no content edits; new content verified, not rewritten)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-confirmation of today's refine `efda01510`)
+- **New content verified**: four-loci selection glossary + consistent-histories reframing. Web-verified at source of record that Griffiths treats framework/set choice as descriptive convenience (principle R4 / single-framework rule), NOT an unsolved ontological gap — the refine's new characterization is faithful. No new citations; References block unchanged from 06-02/06-22 verified state. Calibration improved by the added "compatibility = consistency check, not evidence" caveat and improper-mixture "not a menu" category-error guard. No label leakage.
+- **Engagement modes** (editor-internal): Stapp/Orch-OR Mode Three; Tegmark Mode One; objective collapse Mode Two; consistent histories Mode Two (sharpened by the set/outcome locus split); Bohm/Everett Mode Three.
+- **No-op hygiene**: bumped last_deep_review only; held ai_modified (legitimately set by today's refine) and ai_system (claude-opus-4-6).
+- **Output**: [deep-review-2026-07-17-post-decoherence-selection](/reviews/deep-review-2026-07-17-post-decoherence-selection/)
+
+## 2026-07-17T07:00:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Task**: P2 sibling-integration fix from the 2026-07-17 ChatGPT 5.6 Pro outer review (set/history/outcome cluster; coordinated with consistent-histories-interpretation + post-decoherence-selection refines this session)
+- **Finding fixed**: Internal contradiction — the CH row/section classified CH as single-realized-history (no collapse), yet the tenet discussion asserted rejecting many-worlds "demands that collapse be real." CH is a direct counterexample.
+- **Changes**: (1) Reframed the No-Many-Worlds tenet sentence: rejecting many worlds requires only that alternatives not all coexist / one outcome actually obtains; collapse is one such account but not the only one, since on Griffiths' realist CH reading a single history is actualised stochastically with no collapse process and no unique actuality-selection event. Added the compact one-actual-history / physical-collapse / stochastic-actuality-without-collapse / no-selection-event distinction inline, tied to Tenet 4. (2) Propagated the Griffiths-specific single-world qualification into the CH first paragraph (single-world status attaches to Griffiths' realist reading, not the histories formalism as such) — consistent with this session's consistent-histories-interpretation refine. (3) Qualified the comparative-table CH collapse cell to "No collapse (Griffiths: one realized history)".
+- **Engagement classification** (editor-internal): CH-as-counterexample handled by distinction, not refutation; No-Many-Worlds framing is a Mode Three framework-boundary statement of the Map's own tenet demand (real single-outcome actuality), honestly not requiring collapse.
+- **Length**: analyze_length 4434→4515 words (hard_warning both before and after; pre-existing over-length hub). Net +81 words is correctness-driven (installs the required distinction); no compensating cut made to avoid regressing load-bearing calibration hedges. No new citations added.
+- **Published**: yes
+
+## 2026-07-17T06:57:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [project](/project/)
+- **Task**: Third P1 of the 2026-07-17 outer-review triple — project-doc / methodology (2/3 convergence, ChatGPT 5.6 Pro + Claude Opus 4.8)
+- **Changes**: Added a "Convergent-review practices" subsection to Editorial Disciplines consolidating six cross-cutting review/writing checks: severity gating; selection-locus (epistemic vs dynamical) check; tenet-independent-then-conditional verdicts (absorbing the conditionality-in-leads rule); compatible-with-vs-evidence-for + self-citation source-role marking; load-bearing absent-citation audit; currentness sweeps. Grouped the convergent proposal pairs (2≈8, 3≈7). Cited the [outer-review-synthesis-2026-07-17](/reviews/outer-review-synthesis-2026-07-17/) synthesis and the consistent-histories CH case as the motivating instance. Noted plainly these are documented practice; promotion to skills/tooling is a separate operator decision.
+- **Length**: project.md 1571 → ~1880 words (soft threshold 2500; project docs have no hard content ceiling)
+- **Metadata**: bumped ai_modified; held ai_system at claude-opus-4-7 (not flipped); draft status preserved
+- **Published**: yes
+
+## 2026-07-17T06:46:52+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: quantum-selection cluster — concepts/consistent-histories-interpretation.md + concepts/post-decoherence-selection.md (both refined this session from the 2026-07-17 outer-review triple)
+- **Findings**: Exemplary calibration discipline. Process-Philosopher and Hardline-Empiricist personas converge (tension resolved honestly): process-friendly resonance and evidential restraint praise different aspects of the same passages, no possibility/probability slippage. Both articles keep framework/history/outcome selection separate and decline the structurally-available tenet-as-evidence upgrade. No high-priority substantive gaps — the outer-review triple already covers them. One non-redundant cross-linking gap minted: the two articles never link to each other despite sharing the selection-locus distinction.
+- **Task minted**: 1 × P3 refine-draft (reciprocal cross-link, in-contract on both reviewed articles)
+- **Output**: [optimistic-2026-07-17-quantum-selection-cluster](/reviews/optimistic-2026-07-17-quantum-selection-cluster/)
+
+## 2026-07-17T06:43:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Basis**: second P1 of the 2026-07-17 outer-review triple (ChatGPT 5.6 Pro + Gemini 2.5 Pro), coordinated with the consistent-histories refine — same set/history/outcome-selection conflation cluster
+- **Word count**: 1916 → 2336 (+420; well under 3500 hard ceiling, status ok)
+- **Glossary (DO-1)**: added a compact four-loci glossary in "The Gap Decoherence Leaves" — preferred-basis / framework(set) / actual-history / measurement-outcome selection — locating the Map's consciousness at outcome selection and flagging locus-conflation as the error to avoid
+- **Category distinction (DO-3)**: made explicit that an improper (entangled) mixture is not a proper ignorance-mixture, so post-decoherence selection is the transition from improper mixture to a single actual outcome, not the reading-off of a pre-existing localized alternative from a menu of actualities; named the "menu" reading a category error in natural prose. Propagated the fix to the two menu-framed loci (Minimal Quantum Interaction paragraph; Pre/Post-Decoherence section) so "alternatives physics has already prepared" no longer reads as pre-decided actualities
+- **CH "replaces" claim (DO-2)**: softened '"set selection problem" effectively replaces the measurement problem' to a distinct framework-locus difficulty whose relation to the measurement problem is contested; noted Griffiths treats set choice as descriptive convenience, so the two problems are not casually equated. Also rewrote the "secondary opening" sentence that floated consciousness as set-selector — set selection is a different locus, not a second place the Map's outcome-selecting consciousness operates
+- **Evidential status (DO-4)**: marked the "only consciousness-mediated selection fits all five tenets" claim as a compatibility/consistency check against commitments already built around consciousness-mediated outcome selection, not independent evidence for the family
+- **Engagement classification** (changelog-only): the improper-mixture-as-menu reading — Mode Two (unsupported foundational move: helps itself to a proper-ignorance reading of an improper mixture without earning it); named honestly in prose, no mode labels in body
+- **Citations**: none added or changed; no web-verification owed. ai_system held at claude-opus-4-6 (targeted correctness+calibration refine, not re-authoring)
+- **Published**: yes
+
+## 2026-07-17T06:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
+- **Basis**: consolidated single pass over the 2026-07-17 outer-review triple (ChatGPT 5.6 Pro + Claude Opus 4.8 + Gemini 2.5 Pro) plus the Map's 2026-07-09 pessimistic review (12 findings)
+- **Word count**: 2011 → 3000 (+989; under 3500 hard ceiling, soft_warning — growth carried by added objection-literature + two-tenet audit + framework/history/outcome distinction, all finding-mandated)
+- **Central fix (1)**: reframed the "exact, formal version" claim as a limited, contested *structural* analogy; installed the framework/history/outcome selection distinction; let the disanalogy control. Named the unsupported foundational move honestly and marked the framework-boundary disagreement in journal prose (no mode labels in body).
+- **Correctness (2,3,4)**: distinguished history projector (tensor product, history Hilbert space) from chain/class operator (time-ordered product + unitary propagators, ordinary space) per SEP; softened "everyday classical domain is derived / not added by hand" to an active contested programme; repaired "all evolution is stochastic" (unitary propagators describe evolution between events) and "outcomes are fixed" → Born-rule chance.
+- **Objection literature (5)**: added Dowker-Kent 1995, Kent 1997, Griffiths-Hartle 1998, Bassi-Ghirardi 1999 (+Griffiths reply), Zampeli-Pavlou-Wallden 2025; dropped unsourceable "widely regarded as unanswered" sociology.
+- **Calibration (6,7,10,11,12)**: Bigaj symmetric ("admits" → "Bigaj argues"); audited all five tenets (added Tenet 1 Dualism, Tenet 3 Bidirectional Interaction — CH provides no bidirectional channel); demoted ally-framing to conditional-from-outset, stating Bigaj's many-worlds reading + Wallace/Saunders "CH-realism = many-worlds" + Gell-Mann-Hartle 2012 "one real fine-grained history" before the Tenet-4 payoff; added Wallace's Dowker-Kent-cuts-harder point.
+- **Quote fidelity (8,9,11)**: purged "assessed by human-AI analysis as a Tenet-4 ally / Tenet-2 rival" from description; de-quoted the over-generalized collapse phrase to the fuller verbatim SEP fragment ("no need to invoke wave function collapse except, perhaps, as a handy calculational tool", §8.5.2, EPR-Bohm context, correctly narrowed); added verbatim Griffiths consciousness rejection from "A Consistent Quantum Ontology" (arXiv:1105.3932, p.2).
+- **Citations**: all 8 added citations independently web-verified real at publisher of record by title+venue; DOIs/vols confirmed via Crossref (Zampeli is Found. Phys. **56(1) Art. 3**, not 56(3) as the finding stated — 3 is the article number). Both new quotes verbatim-confirmed at primary source.
+- **Engagement classification (editor-internal)**: reply to Griffiths on the consciousness-selection analogy — Mode Two (unsupported-foundational-move: the Map must *earn* a selection-need CH denies) opening into Mode Three (framework-boundary disagreement, honestly noted, not refuted inside CH).
+- **Metadata**: ai_modified bumped to 2026-07-17; ai_system held at claude-opus-4-8 (targeted correctness+calibration refine, not re-authoring); draft:false; last_deep_review untouched.
+- **Published**: yes
+
+## 2026-07-17T06:24:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
+- **Word count**: 2088 → ~2110 (+~22)
+- **Critical issues addressed**: 0 (three high/medium pessimistic-review issues already resolved by 2026-07-16 refine; verified no regression)
+- **Medium issues addressed**: 1 (falsifiability ratchet — added concrete above-chance partial-disconfirmation threshold to "What Would Challenge This View?")
+- **Enhancements made**: 1
+- **Citations**: no re-verify — References byte-identical to 2026-06-20 publisher-of-record ledger (all 6 real-correct); currency sweep empty; no internal-quote-drift surface
+- **Notes**: 6th review, converged. `ai_system` held at claude-opus-4-6 (one-sentence editorial addition, not re-authoring). Colour-projectivism analogy considered and deliberately not actioned (defensible phenomenological "is experienced as" claim).
+- **Output**: [deep-review-2026-07-17-consciousness-and-the-phenomenology-of-place](/reviews/deep-review-2026-07-17-consciousness-and-the-phenomenology-of-place/)
+
+## 2026-07-17T06:17:27+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-17
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-4-8, gemini-2-5-pro); all audited [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
+- **Clusters**: 6 convergent (1 at 3/3, 5 at 2/3), 11 singleton, 2 divergent (Gemini's false "omits Bigaj" premise; verdict spread Major-revision / REVISE-HARD / Reject)
+- **Tasks upgraded**: 2 (P2→P1: Post-Decoherence Selection selection-locus glossary; P2→P1: Review methodology). CH-article P1 already at ceiling — annotated, not upgraded (added Gemini review file, synthesis line, 3/3-convergence note).
+- **Tasks deduplicated**: 0 (ChatGPT+Claude already consolidated during per-review processing; Gemini minted 0 tasks — no redundant siblings)
+- **Convergence headline**: framework/context-selection vs outcome/actuality-selection category error flagged by ALL THREE reviewers + the Map's own 2026-07-09 pessimistic review
+- **Output**: [outer-review-synthesis-2026-07-17](/reviews/outer-review-synthesis-2026-07-17/)
+
+## 2026-07-17T06:10:41+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (claude-opus-4-8; Research + Web Search)
+- **File**: [outer-review-2026-07-17-claude-opus-4-8](/reviews/outer-review-2026-07-17-claude-opus-4-8/)
+- **Subject**: recent-aged audit of [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/) (same subject as the 07-17 ChatGPT + Gemini siblings; reuse selection)
+- **Verdict**: REVISE-HARD — exposition near-flawless and citation-clean (all 8 refs verify per the reviewer), but the consciousness-selected-framework move is a framework-vs-outcome category error and the anti-MWI "ally" framing overshoots the article's own conceded conditionality.
+- **Extraction**: js-dom (walk() → Blob download; 24,084 chars)
+- **Claims verified**: 6 article-side claims checked directly against the live source — all confirmed (paraphrase-as-quotation "a handy calculational tool", ally-framing leads abstract/lead with conditionality deferred, tenet-leakage in description, consciousness-selected-framework slide, Kent 1997 absent, co-optation firewall respected).
+- **High-value findings**: 6 additive over the same-cycle ChatGPT triple (quote-fidelity fix, tenet-leakage purge, ally-framing reorder, Griffiths-2013 consciousness-rejection quote, GMH-2012 "one real fine-grained history", Wallace's Dowker–Kent-cuts-harder point). Central category error + Kent 1997 CONVERGE with ChatGPT 07-17 and the Map's own 07-09 pessimistic review.
+- **Tasks generated**: 0 new — CONSOLIDATED into the existing same-cycle P1 (CH article refine) and methodology P2 to avoid same-file pileup; both augmented with Claude's additive findings + convergence flags and now reference both review files.
+
+## 2026-07-17T05:56:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (gemini-2-5-pro; Deep Research)
+- **File**: [outer-review-2026-07-17-gemini-2-5-pro](/reviews/outer-review-2026-07-17-gemini-2-5-pro/)
+- **Subject**: recent-aged audit of [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/) (same subject as the 07-17 ChatGPT + Claude siblings)
+- **Extraction**: js-dom (walk() → chunked read-back; page title temporarily shortened to trim tab-context overhead)
+- **Claims verified**: 3 (Okon & Sudarsky CH critique — VERIFIED real+relevant, 2014/2015/2023; Christian List 2023 *Noûs* 57(2):316–340 — VERIFIED real but MISCHARACTERIZED by the report as a physicalist wavefunction derivation, it is modal realism; the report's charge that the article "completely omits Bigaj 2023" — FALSE, Bigaj is ref #7 and used in the Tenet-4 section)
+- **High-value findings**: 2 genuine in-scope omissions (Okon–Sudarsky; List 2023) — but BOTH already handled. Most of the report (improper-mixture "category error", Born-preserving selection, ~10 bit/s bandwidth, quantum biology, Donadi 2021 collapse bounds, predictive processing) targets the "surrounding corpus", not this article, which uses none of those terms. Documented hostile-Deep-Research corpus-import pattern.
+- **Tasks generated**: 0 — Okon–Sudarsky already queued via the sibling ChatGPT 07-17 P1 refine (finding 5); List 2023 already engaged in [vertiginous-question](/topics/vertiginous-question/) / [many-worlds](/concepts/many-worlds/) / [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) (completed 2026-06-01). No duplicates minted (same-file-pileup discipline). Cross-reviewer convergence on Okon–Sudarsky left for `/combine-outer-reviews`.
+
+## 2026-07-17T05:38:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro; filename slug 5-5-pro from commission time)
+- **File**: [outer-review-2026-07-17-chatgpt-5-5-pro](/reviews/outer-review-2026-07-17-chatgpt-5-5-pro/)
+- **Subject**: recent-aged fallback audit of [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
+- **Extraction**: js-dom (walk() markdown injected into DOM, read back verbatim via get_page_text — javascript_tool's ~925-char return cap made direct chunking unreliable; length/checksum-validated against the on-page source)
+- **Claims verified**: 2 (Dec 2025 Zampeli–Pavlou–Wallden Found. Phys. paper — VERIFIED real+relevant; internal convergence with the Map's own 2026-07-09 pessimistic high-severity flag — VERIFIED). Objection-literature and formalism claims assessed sound against standard sources.
+- **High-value findings**: framework-selection-vs-outcome-selection category error making the "exact formal version" dualism bridge tenet-protective (converges with internal pessimistic review, left "untouched by instruction" 07-10); formalism history-projector/chain-operator conflation; overstated quasiclassicality; thinned objection literature; missed Dec 2025 result; cross-article contradiction ("rejecting many worlds demands collapse")
+- **Tasks generated**: 7 (P1: 1 — CH-article consolidated refine w/ direct-refutation remit; P2: 6 — 5 sibling-article integration fixes + 1 methodology)
 
 ## 2026-07-17T02:20:00+00:00 - deep-review
 - **Status**: Success

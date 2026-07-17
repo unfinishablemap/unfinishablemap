@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-07-16 08:27:04+00:00
+ai_modified: 2026-07-17 06:24:30+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: How the felt character of being in a place—atmosphere, familiarit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 00:00:00+00:00
+last_deep_review: 2026-07-17 06:24:30+00:00
 modified: *id001
 related_articles:
 - '[[embodiment-cognitive-limits]]'
@@ -106,7 +106,7 @@ Place-experience also presents a challenge the Map should acknowledge: it emphas
 
 The irreducibility claim for place-experience would face difficulty if:
 
-- **Atmospheric quality proved functionally predictable.** If a computational model could predict the specific felt character a subject would experience in a new place — not just positive/negative valence but the particular atmospheric quality — from physical measurements and biographical data, the claim that atmosphere exceeds functional description would weaken.
+- **Atmospheric quality proved functionally predictable.** If a computational model could predict the specific felt character a subject would experience in a new place — not just positive/negative valence but the particular atmospheric quality — from physical measurements and biographical data, the claim that atmosphere exceeds functional description would weaken. To keep this a genuine test rather than an endlessly retreatable one, a concrete partial threshold suffices: if such a model predicted subjects' reported atmospheric quality *reliably above chance* across genuinely novel places, the strong irreducibility claim would be disconfirmed — not merely narrowed — even well short of perfect prediction.
 
 - **Integration metrics captured qualitative specificity.** Two rooms with equal integration may differ completely in atmosphere. If a refined measure predicted *which* quality obtains, not just *how much* integration, the gap between function and phenomenology would narrow.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-03
-ai_modified: 2026-06-19 05:42:22+00:00
+ai_modified: 2026-07-17 06:57:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -131,6 +131,15 @@ Two further reviewer proposals are recorded as CANDIDATE DISCIPLINES pending ope
 
 - [outer-review-empirical-vs-methodological-freshness](/project/outer-review-empirical-vs-methodological-freshness/) - When the reviewer's index is stale but the methodological finding still lands
 - [outer-reviewer-service-calibration](/project/outer-reviewer-service-calibration/) - Calibration data and policy for the three-service outer-review mix
+
+**Convergent-review practices.** Six cross-cutting review and writing checks, recorded from the [2026-07-17 outer-review cycle](/reviews/outer-review-synthesis-2026-07-17/), in which two of three reviewers (ChatGPT 5.6 Pro and Claude Opus 4.8) independently converged on the same methodology gaps. The motivating instance was [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/): a high-severity framework-vs-outcome category error, first flagged by the Map's own 2026-07-09 pessimistic review and left "untouched by instruction," was still surfaced by all three same-cycle reviewers while the article continued to present as reviewed. These are documented practice — checklist items reviewers and editors apply by hand. Promoting any of them into a skill, validator step, or automated gate is a separate operator decision, not something content or refine work should install.
+
+- **Severity gating.** An article must not retain unqualified "reviewed" status while a known high-severity finding sits unresolved. When a review flags a high-severity defect that is not fixed in the same pass, the article's review status is provisional until the finding is closed or explicitly downgraded with a reason.
+- **Selection-locus check (epistemic vs dynamical).** Any article invoking a "gap where consciousness could act" must specify whether the gap is epistemic (a matter of description, underdetermination, or framework choice) or dynamical (an unexplained physical event). Review blocks epistemic→metaphysical slides: an article that names the disanalogy and then proceeds as if it did not apply is a failure, not a pass.
+- **Tenet-independent verdict, then tenet-conditional.** Technical articles should state what follows from the external literature *without* the five tenets first, then separately state what changes once the tenets are assumed — keeping compatibility, evidential support, and tenet-fit visibly distinct. This subsumes the conditionality-in-leads rule: where a target is only conditionally tenet-friendly, the conditionality belongs in the abstract or first paragraph, not paragraphs after a tenet-friendly headline (the consistent-histories "ally against Many-Worlds" abstract is the exhibit).
+- **Compatible-with is not evidence-for; mark self-citations.** Distinguish "compatible with the Map" from "evidence for the Map" in every ally or interpretive claim, extending the interface-compatible-vs-suggestive tiering. Relatedly, mark the source role of every citation — primary / secondary / proponent / critic / internal-synthesis. Map self-citations establish what the Map believes, not independent evidence for disputed physics or philosophy, and must not be read as the latter.
+- **Audit for load-bearing *absent* citations.** Verifying that present citations are accurate is not enough; the strongest technical objection to a target must itself be cited. The exhibit is Kent 1997's contrary-inferences result (PRL 78, 2874), the most damaging objection to the single-framework rule, absent from the consistent-histories article until this cycle. Review asks not only "are the cites correct?" but "is the strongest opposing cite missing?"
+- **Currentness sweeps.** Periodically run a forward-citation / recent-literature check on active-research articles. The tell is a July-2026 article that misses a December-2025 directly-relevant paper (the Zampeli–Pavlou–Wallden 2025 contrary-inference result was the live miss). This complements the [literature-drift audit](/project/calibration-audit-triple/) rather than replacing it.
 
 ## Related Documents
 

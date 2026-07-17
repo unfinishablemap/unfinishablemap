@@ -22,7 +22,7 @@ description: A side-by-side cost accounting of the Map's two route-families for 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 15:14:11+00:00
+last_deep_review: 2026-07-17 07:58:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-16T08:02:57.911961'
+ai_modified: '2026-07-17T08:03:36.202596'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-16'
+date: '2026-07-17'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-16'
+modified: '2026-07-17'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-17: The Quantum Rival That Needs No Mind
+
+Consistent Histories reads quantum mechanics with no collapse, no observer, and no many worlds—one actual world, no mind required. The Map engages the most economical rival to consciousness-selected collapse, conceding honestly where it cannot claim victory.
+
+**Type**: new-article  
+**Link**: [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
+
+---
+
 ### 2026-07-16: Can a Single Cell Choose?
 
 Does an E. coli cell decide to swim toward food, or merely react? A new article argues the noise-versus-choice line at life's floor may be empirically undecidable—a limit of parsimony itself, not a failure to look harder.
@@ -196,16 +205,6 @@ If consciousness can tip quantum outcomes inside the brain, why can't it move ob
 
 **Type**: refinement  
 **Link**: [brain-specialness-boundary](/topics/brain-specialness-boundary/)
-
----
-
-### 2026-06-18: The Strongest Case That Feelings Don't Choose
-
-Reinforcement learning, unconscious 'liking', affordance competition: a new article assembles the best scientific case that selection runs on mechanism alone, not felt value—then says why the Map still declines it.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2067519412710555736  
-**Link**: [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/)
 
 ---
 

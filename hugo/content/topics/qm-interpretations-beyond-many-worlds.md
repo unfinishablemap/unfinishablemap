@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-12 20:39:00+00:00
+ai_modified: 2026-07-17 07:00:45+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -123,7 +123,7 @@ Zurek's quantum Darwinism is the most developed account of the quantum-to-classi
 
 ## Consistent Histories: Single-World Realism Without an Observer
 
-The [Consistent (Decoherent) Histories interpretation](/concepts/consistent-histories-interpretation/) (Griffiths 1984; Omnès 1994; Gell-Mann & Hartle 1990) is the natural home for the single-world, observer-free, realist branch of the landscape. It treats quantum mechanics as a stochastic theory of *histories*—time-sequences of properties represented by projectors—and assigns interference-free probabilities only to families of histories meeting a "consistency" (decoherence) condition. There is no collapse, no hidden variable, no fundamental observer, and no many worlds: only one history in a consistent family is realized, and superpositions are denied physical coexistence.
+The [Consistent (Decoherent) Histories interpretation](/concepts/consistent-histories-interpretation/) (Griffiths 1984; Omnès 1994; Gell-Mann & Hartle 1990) is the natural home for the single-world, observer-free, realist branch of the landscape. It treats quantum mechanics as a stochastic theory of *histories*—time-sequences of properties represented by projectors—and assigns interference-free probabilities only to families of histories meeting a "consistency" (decoherence) condition. There is no collapse, no hidden variable, no fundamental observer, and no many worlds. On Griffiths' realist reading, only one history in a consistent family is realized and superpositions are denied physical coexistence—single-world status attaches to that reading, not to the histories formalism as such.
 
 This makes CH a Tenet-4 *ally* against MWI and a Tenet-2 *rival* to consciousness-linked collapse in a single stroke. Its most contested feature is *framework-dependence*: many mutually incompatible consistent families exist for the same system, and no law selects a preferred one. Griffiths' single-framework rule forbids combining incompatible frameworks (blocking paradoxes) but treats the choice among them as pragmatic and question-relative. Dowker and Kent (1996) argue this leaves CH unable to deliver *unconditional* predictions—the unresolved "set-selection problem."
 
@@ -142,7 +142,7 @@ That gap is the seam the Map probes: does framework-dependence leave room for a 
 | GRW/CSL (Φ-modulated) | Physical process | Modulation | High tenet-fit, high speculative cost |
 | Penrose OR | Gravitational | Constituted by collapse | Moderate |
 | Quantum Darwinism | No (outcome gap) | Selection locus left open (Zurek leans Everettian) | Moderate as constraint, low as evidence |
-| Consistent Histories | No (single realized history) | None needed (framework chosen pragmatically); set-selection gap left open | Ally vs MWI, rival vs collapse; low as evidence |
+| Consistent Histories | No collapse (Griffiths: one realized history) | None needed (framework chosen pragmatically); set-selection gap left open | Ally vs MWI, rival vs collapse; low as evidence |
 
 The pattern seems clear. Interpretations that eliminate the observer entirely (Bohmian) or treat observation as purely epistemic (QBism) leave the Map's questions unanswered. Interpretations that preserve real collapse and allow consciousness a role—whether as cause, selector, or modulator—may provide the framework the Map needs, though leaving room is not the same as supplying support.
 
@@ -154,7 +154,7 @@ The pattern seems clear. Interpretations that eliminate the observer entirely (B
 
 ## Relation to Site Perspective
 
-The Map's [tenets](/tenets/) constrain the interpretive options. Dualism requires that consciousness be ontologically real, not merely an epistemic stance (ruling out QBism's anti-realism as a complete account). Minimal Quantum Interaction requires genuine indeterminacy for consciousness to resolve (ruling out Bohmian determinism). Bidirectional Interaction requires consciousness to causally influence physical outcomes (ruling out pure epiphenomenalism, including standard Penrose OR). And rejecting many-worlds demands that collapse be real—that one outcome actually occurs rather than all outcomes coexisting in branching universes.
+The Map's [tenets](/tenets/) constrain the interpretive options. Dualism requires that consciousness be ontologically real, not merely an epistemic stance (ruling out QBism's anti-realism as a complete account). Minimal Quantum Interaction requires genuine indeterminacy for consciousness to resolve (ruling out Bohmian determinism). Bidirectional Interaction requires consciousness to causally influence physical outcomes (ruling out pure epiphenomenalism, including standard Penrose OR). And rejecting many-worlds requires only that alternatives not all coexist—that one outcome actually obtains rather than all outcomes persisting in branching universes. Physical collapse is one such account, but not the only one: on Griffiths' realist reading of consistent histories a single history is actualised stochastically, with no collapse process and no unique actuality-selection event. What [No Many-Worlds](/tenets/#no-many-worlds) forbids is coexisting branches, not the absence of a collapse mechanism; the tenet's demand is real single-outcome actuality, which collapse supplies but does not monopolise.
 
 The Map speculates that transactional/TSVF interpretations and consciousness-modulated objective collapse theories may offer the most promising foundations. The resonance is conceptual, not mechanistic: as the caveat above notes, no substrate carrying retrocausal influence is specified and no account of how consciousness biases confirmation waves without violating Born statistics is on offer. The Map's [positions register](/positions/quantum-interface/) reflects this by treating the atemporal time-symmetric route as a subordinate fallback to forward-in-time post-decoherence selection, its preferred mechanism candidate. Consciousness-modulated CSL provides a mechanism for the Minimal Quantum Interaction tenet while solving the [prebiotic collapse problem](/concepts/prebiotic-collapse/)—physical collapse provides a baseline for the pre-conscious universe, with consciousness modulating outcomes once neural systems provide the interface.
 
