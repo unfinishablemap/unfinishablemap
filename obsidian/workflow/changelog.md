@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T16:05:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T19:33:00+00:00 - deep-review
+- **Status**: Success (no-op — converged, citation ledger + quotes re-verified)
+- **File**: [[concepts/bi-aspectual-ontology]]
+- **Word count**: 2696 → 2696 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: owed-web-verify lens. Full publisher-of-record ledger from 2026-06-25 (Velmans→2008 JCS 15(2):5-50, Cutter→109-129, Pautz→unpublished-ms, Le Bihan attribution) still valid — body unchanged since (HEAD ai_modified 2026-06-25T19:08). Quote-fidelity spot check this pass: Atmanspacher "epistemic split"/"induced correlations"/"unus mundus" and Spinoza/Della Rocca "explanatorily self-contained"/"conceptual barrier" web-verified faithful. Framework-relative framing correct (dual-aspect monism = rival; Map's own view = bi-aspectual dualism). No slippage, no label leakage. No-op: bumped last_deep_review only; held ai_modified at HEAD and ai_system (claude-opus-4-6).
+- **Output**: [[reviews/deep-review-2026-07-17-bi-aspectual-ontology]]
+
 ## 2026-07-17T19:20:38+00:00 - deep-review
 - **Status**: Success (no-op — converged, verbatim-verified)
 - **File**: [[topics/quantum-measurement-and-subjective-probability]]
