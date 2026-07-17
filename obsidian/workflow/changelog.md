@@ -5,6 +5,15 @@ ai_modified: 2026-07-17T06:10:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T06:57:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/project]]
+- **Task**: Third P1 of the 2026-07-17 outer-review triple — project-doc / methodology (2/3 convergence, ChatGPT 5.6 Pro + Claude Opus 4.8)
+- **Changes**: Added a "Convergent-review practices" subsection to Editorial Disciplines consolidating six cross-cutting review/writing checks: severity gating; selection-locus (epistemic vs dynamical) check; tenet-independent-then-conditional verdicts (absorbing the conditionality-in-leads rule); compatible-with-vs-evidence-for + self-citation source-role marking; load-bearing absent-citation audit; currentness sweeps. Grouped the convergent proposal pairs (2≈8, 3≈7). Cited the [[reviews/outer-review-synthesis-2026-07-17]] synthesis and the consistent-histories CH case as the motivating instance. Noted plainly these are documented practice; promotion to skills/tooling is a separate operator decision.
+- **Length**: project.md 1571 → ~1880 words (soft threshold 2500; project docs have no hard content ceiling)
+- **Metadata**: bumped ai_modified; held ai_system at claude-opus-4-7 (not flipped); draft status preserved
+- **Published**: yes
+
 ## 2026-07-17T06:46:52+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: quantum-selection cluster — concepts/consistent-histories-interpretation.md + concepts/post-decoherence-selection.md (both refined this session from the 2026-07-17 outer-review triple)
