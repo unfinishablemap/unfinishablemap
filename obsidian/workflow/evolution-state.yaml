@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T20:40:14.028479+00:00'
-session_count: 16220
-cycle_position: 11304
+last_updated: '2026-07-17T20:46:29.981883+00:00'
+session_count: 16221
+cycle_position: 11305
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T16:26:57.030776+00:00'
   optimistic-review: '2026-07-17T17:35:51.467236+00:00'
   check-tenets: '2026-07-17T20:16:04.965067+00:00'
   check-links: '2026-07-17T14:51:14.696049+00:00'
-  deep-review: '2026-07-17T20:07:03.449277+00:00'
+  deep-review: '2026-07-17T20:46:29.981883+00:00'
   tune-system: '2026-07-17T00:23:50.450127+00:00'
   research-voids: '2026-07-17T14:55:17.563751+00:00'
   coalesce: '2026-07-17T18:35:41.740066+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 518
-  reviews_completed: 6527
+  reviews_completed: 6528
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-17'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1326,12 +1326,12 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 82
+  p2_tasks: 83
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T20:32:00+00:00'
-  last_replenishment_prev: '2026-07-17T19:59:00+00:00'
+  last_replenishment: '2026-07-17T20:51:00+00:00'
+  last_replenishment_prev: '2026-07-17T20:32:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_metaphysics_of_information_under_dualism_2032: 'Floor-restore
     replenish 2026-07-17T2032Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
@@ -1474,82 +1474,69 @@ queue_status:
     drained consciousness-and-the-ownership-problem floor-restore note (its task reviewed
     this session via a cycle slot) to keep exactly 3, one per open floor task -- social-understanding,
     islamic-sufi, african (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_islamic_sufi_philosophy_of_consciousness_1941: 'Floor-restore
-    replenish 2026-07-17T1941Z (interactive agent /replenish-queue, conservative exact-floor
+  last_floor_restore_target: deep-review topics/the-convergence-argument-for-dualism.md
+    (staleness Source 4 + SECTION-and-CLUSTER-DIVERSITY; real damping-aware scorer
+    get_review_candidates ranks it 16.13; the cleanest surviving pick with a genuine
+    unchecked BODY delta after DE-SELECTing the churn/no-op/over-ceiling/opus-4-8/already-open/already-reviewed
+    higher-ranked entries; a TOPIC that rebalances the two open CONCEPT P2s and is
+    thematically distinct from the non-Western + information-metaphysics opens.)
+  last_floor_restore_note_2026_07_17_staleness_the_convergence_argument_for_dualism_2051: 'Floor-restore
+    replenish 2026-07-17T2051Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
-    single write (open P2 deep-reviews topics/consciousness-and-the-ownership-problem
-    [18:57Z] + topics/consciousness-and-social-understanding [19:26Z]; the earlier
-    quantum-measurement-and-subjective-probability + bi-aspectual-ontology floor mints
-    have DRAINED via cycle deep-review slots this session; #veto condense P2s composition-question-rivals
-    / meaning-of-life / phenomenal-output-causal-machinery-dissociation parser-excluded
-    [VETOED]; ~11 P3s + many-worlds / quantum-consciousness / quantum-biology / personal-identity
+    single write (open P2 deep-reviews concepts/african-philosophy-of-consciousness
+    [19:59Z] + concepts/metaphysics-of-information-under-dualism [20:32Z]; the earlier
+    islamic-sufi / social-understanding / ownership floor mints have DRAINED via cycle
+    deep-review slots this session; veto condense P2s composition-question-rivals /
+    meaning-of-life / phenomenal-output-causal-machinery-dissociation parser-excluded
+    [VETOED]; ~14 P3s + many-worlds / quantum-consciousness / quantum-biology / personal-identity
     human-length-decisions do NOT count toward the floor of 3); == 3 after (post-mint
     count_p0_p2_tasks re-verified == 3). Restores MIN_QUEUE floor 2->3 (replenish-at-floor
-    alternation, unfin_loop_steady_state; all content sections AT CAP so loop can
-    only cycle reviews/condense/positions; NOT empty-queue deadlock). NO concurrent
-    evolve_loop process at write time; pre-existing uncommitted evolution-state.yaml
+    alternation, unfin_loop_steady_state; all content sections AT CAP so loop can only
+    cycle reviews/condense/positions; NOT empty-queue deadlock). NO concurrent evolve_loop
+    process at write time (pgrep empty); pre-existing uncommitted evolution-state.yaml
     diff is benign cycle_post bookkeeping, NOT a mid-flight replenish. concurrent-replenish-race
     guard: revert redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT (live):
-    chain none (BLOCKED, sections AT CAP); unconsumed_research + gap BLOCKED (topics
-    320/320, concepts 320/320, voids 100/100 AT CAP live find; positions 8/80); orphan
-    0; length offenders all veto/human-deferred; positions audited 2026-07-16 (<30d),
-    8<10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4) + CLUSTER-DIVERSITY.
-    TARGET = concepts/islamic-sufi-philosophy-of-consciousness.md -- real damping-aware
-    scorer get_review_candidates() ranks it 16.8; higher-ranked entries DE-SELECTED:
-    evaluative-phenomenal-character (20.8, documented churn/cyclepost mis-mark target),
-    bi-aspectual-ontology + quantum-measurement-and-subjective-probability + tenet-falsification-conditions
-    + terminal-lucidity-and-filter-transmission-theory (ALREADY REVIEWED this session,
-    re-mint = no-op churn), consciousness-and-the-ownership-problem + consciousness-and-social-understanding
-    (the two already-open P2s), consciousness-and-probability-interpretation (19.29,
-    direct cluster-sibling of the just-reviewed quantum-measurement P2, redundant),
-    delegatory-causation (19.2, 3548w over the 3500 concepts hard ceiling + trumping-preemption-cluster
-    churn), the-binding-problem (19.09, touched 07-16 coalesce + same-title ambiguity),
-    philosophical-zombies (18.71, refined today 07-17T02:12 churn). ai_system claude-opus-4-6
-    (older cohort, opus-4-8-de-prioritized exempt, higher unchecked citation-surface
-    yield), ai_contribution 100, last_deep_review 2026-06-25T21:40; body commit 2026-07-13T18:12
-    (Occasionalism dedicated-page deepening) added an al-Ghazali occasionalist-critique
-    cross-link AFTER the 06-25 review = CHANGED-SINCE-REVIEW (unverified-by-deep-review),
-    ~22d converged since. Thematically DISTINCT from the two open indexical-ownership
-    / theory-of-mind topic P2s and from the session quantum/probability work (this
-    is the classical Islamic/Sufi nafs-qalb-ruh / Illuminationist / wahdat-al-wujud
-    page, Tenet 1). NOT session-touched (git log --since 2026-07-15 empty), NOT open-queued
-    (sole todo hit is an inbound cross-link mention in the occasionalism cross-review
-    task notes), NOT vetoed. UNCHECKED-SURFACE PREMISE (verified, not asserted-as-defect):
-    dense named-thinker + Arabic-work-title surface (23 quoted strings; al-Shifa /
-    al-Munqidh / al-Futuhat al-Makkiyya / al-Asfar; al-Ghazali, Avicenna, Suhrawardi,
-    Mulla Sadra, Ibn Arabi) is high-yield verbatim/attribution surface; the fork must
-    DISCOVER any defect, none is presumed (replenish-asserted-concrete-defect-often-false).
-    LENGTH 2274 body words = ok (concepts soft 2500 / hard 3500) -> clean length-neutral
-    swap-in-place. VERIFY-JOB: PRIMARY lens = verbatim quote / named-thinker + work-title
-    attribution fidelity + link integrity; verbatim-check each quote at the primary
-    text not aggregators/own-page (circular), verify each work by TITLE and pin each
-    doctrine to the RIGHT thinker/work, never delete a real source on a false negative
-    (exact-string search), confirm the 07-13 occasionalism + convergence cross-links
-    resolve + reciprocate, keep the Sufi/Illuminationist testimony framework-relative
-    (evidential-status-discipline, no possibility->probability slippage). Standard
-    hygiene: preserve calibration hedges, EOF tool-tag scan, HOLD ai_system opus-4-6,
-    no-op after REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified to
-    HEAD / real fix bumps BOTH, date -u stamps not future-dated, do NOT flag Map self-cite
-    pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding). FIFO-placed
-    below the two open P2s (queue-lifo-starvation). Pruned the drained bi-aspectual-ontology
-    floor-restore note (its task reviewed this session) to keep exactly 3, one per
-    open floor task -- ownership-problem, social-understanding, islamic-sufi (bloat
+    chain = this IS a Source-1 cross-review successor of two unreviewed body edits
+    into the target (07-07 grain-mismatch cluster + 07-12 Kripke integration); unconsumed_research
+    + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP; positions
+    8/80); orphan 0; length offenders all veto/human-deferred; positions audited 2026-07-16
+    (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4) +
+    SECTION-and-CLUSTER-DIVERSITY. TARGET = topics/the-convergence-argument-for-dualism.md,
+    ai_system claude-opus-4-6 (older cohort), ai_contribution 100, last_deep_review
+    2026-06-22; two post-review body commits NEVER deep-reviewed: f05b34bd5 2026-07-07
+    (added the grain-mismatch measurement-based convergence cluster) + 87cd3cde5 2026-07-12
+    (Kripke cross-review integration) = CHANGED-SINCE-REVIEW, genuinely unreviewed delta.
+    Higher-ranked entries DE-SELECTED: evaluative-phenomenal-character (20.8 churn/cyclepost),
+    consciousness-and-probability-interpretation (20.0 quantum cluster-sibling), delegatory-causation
+    (20.0 over the 3500 concepts hard ceiling + trumping churn), the-binding-problem
+    + grain-mismatch pair (session-touched 07-16 coalesce + same-title ambiguity),
+    philosophical-zombies + bergson-and-duration (session-touched 07-17), indigenous-australian
+    + hylomorphic + philosophy-of-action (opus-4-8 de-prioritized, fresh 11d), skill-acquisition
+    + hoel-llm + phenomenology-of-cognitive-capacity/limit-types (VERIFIED NO-OPS, prior
+    web-verify ledgers / frontmatter-only delta), consciousness-and-neurodegenerative-disease
+    (16.8 but only a related_articles frontmatter line since a 5-review-converged +
+    fully-web-verified baseline = no-op risk), plus the two already-open P2s (african,
+    metaphysics-of-information) and the session already-reviewed no-ops (do NOT re-mint).
+    LENGTH 3998 body words = TWO words under the 4000 topics hard ceiling -> strictly
+    length-neutral-to-trimming, offset any addition, NOT a condense task. NOT session-touched
+    (git log since 2026-07-16 empty for this file), NOT open-queued (0 File header;
+    the Vetoed-section hits are all completed condense/address/strengthen tasks), NOT
+    vetoed. VERIFY-JOB: PRIMARY lens = cross-review the 07-07 grain-mismatch cluster
+    (independence not over-counted, common-cause-null discipline) + the 07-12 Kripke
+    wikilink (resolves, no duplication); COGITATE 2025 + Bayne 2023 already web-verified
+    in the 06-22 ledger, do NOT re-litigate; verify any NEW attribution at primary publisher
+    not aggregators/own-page (circular), never delete a real source on a false negative;
+    all wikilinks resolve + reciprocate; honour evidential-status-discipline and the
+    voids-circularity-discount (convergence-with-self is not triangulation, no strongest-evidence
+    over-reach, no possibility->probability slippage). Standard hygiene: preserve calibration
+    hedges, no banned This-is-not-X-it-is-Y cliche, EOF tool-tag scan, HOLD ai_system
+    opus-4-6, no-op after REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified
+    to HEAD / real fix bumps BOTH, date -u stamps not future-dated, do NOT flag Map
+    self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding). FIFO-placed
+    below the two open P2s (queue-lifo-starvation). Pruned the drained islamic-sufi
+    floor-restore note (its task reviewed this session) to keep exactly 3, one per open
+    floor task -- african, metaphysics-of-information, the-convergence-argument (bloat
     control, zero logic dep).'
-  last_floor_restore_target: deep-review concepts/african-philosophy-of-consciousness.md
-    (staleness Source 4 + CLUSTER-DIVERSITY; damping-aware scorer get_review_candidates()
-    ranks it 16.8, the cleanest thematically-distinct pick with genuine unchecked
-    verbatim-quote surface after de-selecting the two open P2s [social-understanding,
-    islamic-sufi], the churn/over-ceiling/session-touched higher-ranked candidates
-    [evaluative-phenomenal-character, delegatory-causation, the-binding-problem, philosophical-zombies,
-    bergson-and-duration], the already-reviewed-this-session no-ops [tenet-falsification-conditions,
-    terminal-lucidity, quantum-measurement-and-subjective-probability, bi-aspectual-ontology,
-    consciousness-and-the-ownership-problem], the quantum cluster-sibling consciousness-and-probability-interpretation,
-    and the opus-4-8/fresh indigenous-australian; older-cohort opus-4-6, ~21d converged,
-    1896w ok length-neutral, changed-since-review via a 06-26 African/Indian/Islamic
-    convergence cross-link refine landing ~5h after the same-day review; TRANSLATION-HEAVY
-    primary-source-quoting African page [Akan okra/sunsum/honam, Mbiti, Menkiti, Wiredu,
-    Gyekye] whose non-Western sources share zero verification overlap with either
-    open P2. Interactive /replenish-queue, NOT concurrent-race.)
   replenishment_source_counts:
     staleness: 1
   run_739_pickable_p0_p2: 3
