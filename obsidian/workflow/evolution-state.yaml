@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T22:03:13.713547+00:00'
-session_count: 16232
+last_updated: '2026-07-17T22:14:14.987211+00:00'
+session_count: 16233
 cycle_position: 11311
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-17T05:04:54.772697+00:00'
   refine-draft: '2026-07-17T16:36:11.477250+00:00'
   research-topic: '2026-07-17T07:56:57.410313+00:00'
-  replenish-queue: '2026-07-17T21:53:48.989129+00:00'
+  replenish-queue: '2026-07-17T22:14:14.987211+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-17T08:04:45.504491+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1329,7 +1329,14 @@ queue_status:
   loop_pickable_open: 3
   last_replenishment: '2026-07-17T22:08:00+00:00'
   last_replenishment_prev: '2026-07-17T21:44:00+00:00'
-  last_floor_restore_target: deep-review concepts/interface-friction.md (staleness Source 4; real damping-aware scorer get_review_candidates ranks it 15.71, top surviving candidate after de-selection; older-cohort opus-4-6, ai_contribution 100, last_deep_review 2026-06-25; yield = genuine never-ledgered post-review citation delta commit d3839143c adding Beilock-and-Carr 2001 / Gropel-and-Mesagno 2019 / Smoulder et al 2024 + an interpretive-fit calibration paragraph AFTER the 06-25 review; thematically distinct from the substrate-independence and luck-objection opens.)
+  last_floor_restore_target: deep-review concepts/interface-friction.md (staleness
+    Source 4; real damping-aware scorer get_review_candidates ranks it 15.71, top
+    surviving candidate after de-selection; older-cohort opus-4-6, ai_contribution
+    100, last_deep_review 2026-06-25; yield = genuine never-ledgered post-review citation
+    delta commit d3839143c adding Beilock-and-Carr 2001 / Gropel-and-Mesagno 2019
+    / Smoulder et al 2024 + an interpretive-fit calibration paragraph AFTER the 06-25
+    review; thematically distinct from the substrate-independence and luck-objection
+    opens.)
   last_floor_restore_note_2026_07_17_staleness_luck_objection_2144: 'Floor-restore
     replenish 2026-07-17T2144Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
@@ -1426,7 +1433,44 @@ queue_status:
     note (its task reviewed this session via a cycle slot) to keep exactly 3, one
     per open floor task -- the-convergence-argument, pairing-problem, substrate-independence
     (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_interface_friction_2208: 'Floor-restore replenish 2026-07-17T2208Z (interactive agent /replenish-queue, conservative exact-floor +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this single write (the two open P2 deep-reviews concepts/substrate-independence [todo line 124] + concepts/luck-objection [todo line 131], both prior floor-restore mints not yet drained; veto condense P2s parser-excluded [VETOED]; P3s + human-length-decision tasks do NOT count); == 3 after (post-mint count_p0_p2_tasks re-verified == 3). Restores MIN_QUEUE floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state; all content sections AT CAP so loop can only cycle reviews/condense/positions; NOT empty-queue deadlock). NO concurrent evolve_loop (pgrep -af evolve_loop.py empty, sole hit this session own shell; sole diff pre-existing benign cycle_post bookkeeping); HEAD d8e300946. FIFO-placed below the two open P2s at todo.md line 138 (>131, queue-lifo-starvation). TARGET concepts/interface-friction.md via real scorer get_review_candidates (ranked 15.71, top surviving candidate after de-selection): older-cohort opus-4-6, ai_contribution 100, last_deep_review 2026-06-25, thematically distinct (mind-brain channel friction / choking phenomenology) from the substrate + luck opens. YIELD = GENUINE never-ledgered post-review citation delta: commit d3839143c 2026-06-26T0736 added Beilock-and-Carr 2001 + Gropel-and-Mesagno 2019 + Smoulder et al 2024 to the choking passage + References AFTER the 06-25 review, plus an interpretive-fit calibration paragraph; the only interface-friction deep-review ledger (2026-06-25) predates the delta and grep-confirmed contains 0 mentions of those authors (NOT the false-never-verified trap: the article was reviewed 06-25, the delta was not). The 07-07 b2e457215 touch is cosmetic cross-link only (git-verified). NOT session-touched, NOT open-queued (0 File header), NOT vetoed (the ~line 12032 mention is prose in a done skill-acquisition refine). LENGTH 2481 body words = status ok (concepts soft 2500) -> length-neutral, add no filler, NOT a condense task. VERIFY-JOB: first verbatim/publisher pass on the three never-ledgered choking citations at the primary publisher NOT author+year metadata NOR unfinishablemap.org/aggregators (circular); confirm the calibration paragraph stays framework-relative with no possibility->probability slippage; never delete a real source on a false negative; all wikilinks resolve + key mental-causation-cluster ones reciprocate. Standard hygiene: preserve calibration hedges, no banned This-is-not-X-it-is-Y cliche, EOF tool-tag scan, HOLD ai_system opus-4-6, no-op after REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified to HEAD / real fix bumps BOTH, date -u stamps not future-dated, do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding). Pruned the drained pairing_problem floor-restore note (its task reviewed this session) to keep exactly 3 keys -- luck-objection, substrate-independence, interface-friction (bloat control, zero logic dep).'
+  last_floor_restore_note_2026_07_17_staleness_interface_friction_2208: 'Floor-restore
+    replenish 2026-07-17T2208Z (interactive agent /replenish-queue, conservative exact-floor
+    +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
+    single write (the two open P2 deep-reviews concepts/substrate-independence [todo
+    line 124] + concepts/luck-objection [todo line 131], both prior floor-restore
+    mints not yet drained; veto condense P2s parser-excluded [VETOED]; P3s + human-length-decision
+    tasks do NOT count); == 3 after (post-mint count_p0_p2_tasks re-verified == 3).
+    Restores MIN_QUEUE floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state;
+    all content sections AT CAP so loop can only cycle reviews/condense/positions;
+    NOT empty-queue deadlock). NO concurrent evolve_loop (pgrep -af evolve_loop.py
+    empty, sole hit this session own shell; sole diff pre-existing benign cycle_post
+    bookkeeping); HEAD d8e300946. FIFO-placed below the two open P2s at todo.md line
+    138 (>131, queue-lifo-starvation). TARGET concepts/interface-friction.md via real
+    scorer get_review_candidates (ranked 15.71, top surviving candidate after de-selection):
+    older-cohort opus-4-6, ai_contribution 100, last_deep_review 2026-06-25, thematically
+    distinct (mind-brain channel friction / choking phenomenology) from the substrate
+    + luck opens. YIELD = GENUINE never-ledgered post-review citation delta: commit
+    d3839143c 2026-06-26T0736 added Beilock-and-Carr 2001 + Gropel-and-Mesagno 2019
+    + Smoulder et al 2024 to the choking passage + References AFTER the 06-25 review,
+    plus an interpretive-fit calibration paragraph; the only interface-friction deep-review
+    ledger (2026-06-25) predates the delta and grep-confirmed contains 0 mentions
+    of those authors (NOT the false-never-verified trap: the article was reviewed
+    06-25, the delta was not). The 07-07 b2e457215 touch is cosmetic cross-link only
+    (git-verified). NOT session-touched, NOT open-queued (0 File header), NOT vetoed
+    (the ~line 12032 mention is prose in a done skill-acquisition refine). LENGTH
+    2481 body words = status ok (concepts soft 2500) -> length-neutral, add no filler,
+    NOT a condense task. VERIFY-JOB: first verbatim/publisher pass on the three never-ledgered
+    choking citations at the primary publisher NOT author+year metadata NOR unfinishablemap.org/aggregators
+    (circular); confirm the calibration paragraph stays framework-relative with no
+    possibility->probability slippage; never delete a real source on a false negative;
+    all wikilinks resolve + key mental-causation-cluster ones reciprocate. Standard
+    hygiene: preserve calibration hedges, no banned This-is-not-X-it-is-Y cliche,
+    EOF tool-tag scan, HOLD ai_system opus-4-6, no-op after REAL scrutiny bumps last_deep_review
+    ONLY + reverts ai_modified to HEAD / real fix bumps BOTH, date -u stamps not future-dated,
+    do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied,
+    no padding). Pruned the drained pairing_problem floor-restore note (its task reviewed
+    this session) to keep exactly 3 keys -- luck-objection, substrate-independence,
+    interface-friction (bloat control, zero logic dep).'
   replenishment_source_counts:
     staleness: 1
   run_739_pickable_p0_p2: 3
