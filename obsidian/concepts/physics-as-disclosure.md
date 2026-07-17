@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-06-06T00:30:18+00:00
+last_deep_review: 2026-07-17T08:37:17+00:00
 ---
 
 The Unfinishable Map reads the [[measurement-problem|measurement problem]] as a *disclosure* rather than a deficiency. Physics is not broken at quantum measurement — it is correctly reaching the boundary where its structural descriptions end and something else begins. The theory works perfectly within its domain. What it cannot do is describe the transition from possibility to actuality, because actuality belongs to a different aspect of reality: [[bi-aspectual-ontology|consciousness]]. The measurement problem discloses this boundary the way a complete map discloses that the territory extends beyond its edges — not by failing, but by faithfully representing everything within its scope and thereby revealing where that scope ends.

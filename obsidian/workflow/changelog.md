@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T08:37:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/physics-as-disclosure]]
+- **Word count**: 2065 → 2065 (no change — genuine no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Strict-oldest staleness pick; fifth pass, body byte-unchanged since 2026-06-06 full publisher-of-record citation audit (git-confirmed, no commits touching file). Tomaz §5 verbatim quote retains source "remains **on**"; no Phil-Sci S0031824 DOI defect; sole superlative flag ("so far") is a hedged completion-avenue claim, not an empirical record; self-cite pseudonyms (Oquatre-six) legitimate and untouched. No possibility→probability slippage; deficiency-theorist engagement remains honest boundary-marking; constrains-vs-establishes calibration intact. last_deep_review bumped only; ai_modified and ai_system (claude-opus-4-7) held.
+- **Output**: [[reviews/deep-review-2026-07-17-physics-as-disclosure]]
+
 ## 2026-07-17T08:20:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/question-formation-void]]
