@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on dualism from different 
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-07-07T21:35:59+00:00
+ai_modified: 2026-07-17T21:41:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-06-22T11:03:22+00:00
+last_deep_review: 2026-07-17T21:41:12+00:00
 ---
 
 No single philosophical argument achieves mathematical certainty. But when multiple independent arguments — starting from different premises, using different methods, targeting different features of consciousness — converge on the same conclusion, the case is substantially stronger than any single line. The Unfinishable Map holds this convergence is itself a powerful argument for [[dualism]], deserving analysis as an [[epistemology-of-convergence-arguments|epistemological pattern]].
@@ -210,7 +210,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
-1. Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+1. Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Loar, B. (1990). Phenomenal states. *Philosophical Perspectives*, 4, 81-108.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.

@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T20:05:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17 21:41 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-convergence-argument-for-dualism]]
+- **Word count**: 3998 → 3998 (+0, length-neutral at hard ceiling)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Cross-review of the two post-06-22 deltas only. Both are cross-link installs into this near-ceiling hub — grain-mismatch Further Reading link (f05b34bd5, 07-07) and Kripke wikilink (87cd3cde5, 07-12); both targets LIVE + reciprocate; neither added body prose/citations/quotes. Fixed one family-resolution metadata defect surfaced by the new Kripke article: References `Kripke (1972) Naming and Necessity, Harvard University Press` was a mismatched tuple (1972 = D. Reidel first pub; 1980 = Harvard standalone) → corrected year to 1980, length-neutral, now consistent with [[concepts/kripke-a-posteriori-necessity-argument]] entry #2. Pre-06-22 body not re-litigated (self-contamination guard). Both stamps bumped; ai_system held (metadata fix, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-17-the-convergence-argument-for-dualism]]
+
 ## 2026-07-17 21:19 - deep-review
 - **Status**: Success (no-op after delta scrutiny)
 - **File**: [[concepts/metaphysics-of-information-under-dualism]]
