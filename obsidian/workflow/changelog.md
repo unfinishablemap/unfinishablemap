@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17T22:44:31+00:00
+ai_modified: 2026-07-17T22:50:32+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-17 22:50 - deep-review
+- **Status**: Success
+- **File**: [[concepts/luck-objection]]
+- **Word count**: 2119 → 2124 (+5)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-17-luck-objection]]
+- **Notes**: 9th pass; targeted verbatim-quote-fidelity + first-pass publisher-metadata audit (attribution axis DONE by prior passes, not re-litigated). ONE verbatim defect found & FIXED: line 68 attributed to Kane the in-quotes phrase "plural rationality" as "what he calls" — but Kane's canonical coined term is "plural voluntary control" (PVC); "plurally rationally" is one of three conditions *within* PVC, and the quoted form traced to the Map's own research note, not Kane's text. De-quoted the paraphrase; substituted PVC + the three verbatim conditions (voluntarily/rationally/intentionally, web-verified). Invisible to 8 prior passes because it lived on the verbatim axis, not the attribution axis prior reviews checked. Publisher-metadata first-pass ledger: ALL real-correct — web-verified Frankish 2016 JCS 23(11-12) 11-39 and van Inwagen 2000 Phil Perspectives 14, 1-19 (a stray "1-20" snippet is an approximation; canonical is 1-19); Kane 2024/1996, Mele 2006, O'Connor/Lowe/Stapp/Dennett/Tegmark/Khan-Wiest all confirmed, no inline↔ref orphans, no superlative drift. Mele "present/remote luck" and Kane 2024 "teleological guidance control" re-confirmed genuine (latter already ledgered 07-06). Both stamps bumped; ai_system held at claude-opus-4-5-20251101 (targeted correction, not re-authoring).
 
 ## 2026-07-17 22:44 - deep-review
 - **Status**: Success
