@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T16:05:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T17:36:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/affective-tone-divergence-across-meditative-traditions]]
+- **Word count**: 3695 → 3695 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Verify-only no-op. Article unchanged since 2026-06-17 review (4th pass); all 10 cites publisher-verified 06-17, calibration-clean, all wikilinks resolve. §2.4 web-verify not re-triggered (References unmodified). Only last_deep_review advanced; ai_modified kept at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-17-affective-tone-divergence-across-meditative-traditions]]
+
 ## 2026-07-17T17:33:20+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Directedness & dualist-rival concept cluster refreshed 2026-07-17 — subjective-aim, direction-of-fit, emergent-dualism. Strong calibration throughout; Process-Philosopher/Hardline-Empiricist personas converge (Whitehead-resonance declined as tier-upgrade), so no calibration flag. Both topics/ and concepts/ at cap (321 each) → opportunities are cross-linking only. Minted 1 P3 refine-draft (direction-of-fit → emotion articles).
