@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-06-20T06:47:26+00:00
+last_deep_review: 2026-07-17T12:34:29+00:00
 coalesced_from:
   - "/concepts/psychophysical-laws/"
   - "/concepts/psychophysical-coupling/"
