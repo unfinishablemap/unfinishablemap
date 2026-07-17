@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-06-21T00:00:00+00:00
+last_deep_review: 2026-07-17T19:45:39+00:00
 ---
 
 Why does experience belong to anyone? Every conscious state is someone's conscious state—my pain is *mine*, your perception of blue is *yours*. This seems so obvious it barely warrants mention. Yet the ownership of experience is one of the deepest puzzles in philosophy of mind, because no physical description of a brain state includes the fact that the state is *had by* a particular subject. The ownership problem asks: what makes conscious states belong to someone rather than existing as free-floating experiential events?

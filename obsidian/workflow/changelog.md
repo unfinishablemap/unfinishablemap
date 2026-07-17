@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17T16:05:02+00:00
+ai_modified: 2026-07-17T19:45:39+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-17T19:45:39+00:00 - deep-review
+- **Status**: Success (no-op — converged, citation/quote-fidelity lens)
+- **File**: [[topics/consciousness-and-the-ownership-problem]]
+- **Word count**: 2815 → 2815 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: citation/quote-fidelity lens on the mine-ness/haecceity surface. No verbatim thinker quotes exist (all paraphrase; double-quotes are word-mentions/paper titles) — nothing to verbatim-check. Full publisher-of-record ledger from 2026-06-01 (Gallagher 2000 TiCS 4(1):14-21; Gallagher & Zahavi 2012 Phenomenological Mind 2nd ed. Routledge; Parnas et al. 2005 EASE Psychopathology 38(5):236-258; Sass & Parnas 2003 Schiz Bulletin 29(3):427-444; +book refs) still valid — prose & References byte-unchanged since (intervening edits are cosmetic Further Reading cross-links only). 06-21 reciprocal cross-links (vertiginous-question ↔ ownership; tactile ↔; interoceptive ↔) resolve LIVE and reciprocate; no over-claim imported. Physicalism-cannot-answer / mine-ness framing held framework-relative (argued position, dissociation=constraint not proof); no possibility/probability slippage. No-op: bumped last_deep_review only; held ai_modified at HEAD (2026-06-21T18:48:56) and ai_system (claude-opus-4-6).
+- **Output**: [[reviews/deep-review-2026-07-17-consciousness-and-the-ownership-problem]]
 
 ## 2026-07-17T19:33:00+00:00 - deep-review
 - **Status**: Success (no-op — converged, citation ledger + quotes re-verified)
