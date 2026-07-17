@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T06:10:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T06:17:27+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-17
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-4-8, gemini-2-5-pro); all audited [[concepts/consistent-histories-interpretation]]
+- **Clusters**: 6 convergent (1 at 3/3, 5 at 2/3), 11 singleton, 2 divergent (Gemini's false "omits Bigaj" premise; verdict spread Major-revision / REVISE-HARD / Reject)
+- **Tasks upgraded**: 2 (P2→P1: Post-Decoherence Selection selection-locus glossary; P2→P1: Review methodology). CH-article P1 already at ceiling — annotated, not upgraded (added Gemini review file, synthesis line, 3/3-convergence note).
+- **Tasks deduplicated**: 0 (ChatGPT+Claude already consolidated during per-review processing; Gemini minted 0 tasks — no redundant siblings)
+- **Convergence headline**: framework/context-selection vs outcome/actuality-selection category error flagged by ALL THREE reviewers + the Map's own 2026-07-09 pessimistic review
+- **Output**: [[reviews/outer-review-synthesis-2026-07-17]]
+
 ## 2026-07-17T06:10:41+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (claude-opus-4-8; Research + Web Search)
