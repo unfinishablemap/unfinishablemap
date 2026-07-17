@@ -1327,8 +1327,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T09:45:00+00:00'
-  last_replenishment_prev: '2026-07-17T09:14:00+00:00'
+  last_replenishment: '2026-07-17T10:06:00+00:00'
+  last_replenishment_prev: '2026-07-17T09:45:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_mapping_mind_space_0914: 'Floor-restore
     replenish 2026-07-17T0914Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(content) == 2 verified
@@ -1445,59 +1445,7 @@ queue_status:
     POST-COUNT == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the
     two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note
     (mood_void_0849) to keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_process_philosophy_0903: 'Floor-restore
-    replenish 2026-07-17T0903Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(content) == 2 verified
-    LIVE before this single write (the two open P2 deep-reviews topics/one-structure-three-vocabularies
-    + voids/mood-void; the earlier 0849Z mood-void mint restored the floor to 3 but
-    topics/structure-of-attention has since drained it back to 2; veto condense P2s
-    composition-question-rivals/meaning-of-life/phenomenal-output-causal-machinery-dissociation
-    parser-excluded; ~10 P3s + human-deferred length-decision tasks do NOT count toward
-    the floor of 3); == 3 verified after (canonical count_p0_p2_tasks). MIN_QUEUE
-    floor 3 unmet by 1, restores 2 to 3. NO concurrent evolve_loop.py (pgrep -af evolve_loop.py
-    empty at write -- only this session own shell matched); clean tree; HEAD e9bfd3ff3.
-    concurrent-replenish-race guard: revert the redundant add if a sibling/loop mint
-    lands. EIGHT-SOURCE AUDIT (live): chain none (chains BLOCKED, sections AT CAP);
-    unconsumed_research + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100
-    all AT CAP; positions 8/80); orphan 0; length veto/human-deferred; positions audit
-    ran 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness
-    (Source 4), quote-fidelity-targeted. Per this session refined steering the productive
-    remaining seam is a QUOTE-DENSE older-cohort article whose prior deep-reviews
-    confirmed quote SUBSTANCE but likely never LITERALLY matched the quoted string
-    at the primary publisher (the seam that just yielded 2 CRITICAL fixes on structure-of-attention:
-    James + COGITATE paraphrase-as-quote surviving 6 verbatim-verified reviews). MINTED
-    1 P2 deep-review concepts/process-philosophy.md -- the single best-grounded target
-    on a live full-corpus quote-density audit: ai_system claude-opus-4-5 (OLDEST cohort,
-    opus-4-8-deprioritized exempt), ai_contribution 100, created 2026-01-27, 9 named-thinker
-    in-line quotations (highest quote density in the non-session-touched older cohort).
-    last_deep_review 2026-06-18, ai_modified 2026-07-06 -> article CHANGED after its
-    last review so NOT a metadata no-op and convergence-damping does not apply; no
-    genuine full literal-string quote-fidelity ledger has ever run on it (prior replenish
-    notes discussed only citation REGISTER and the sibling apex, never a per-quote
-    publisher match). NOT session-touched (not in 2026-07-16/17 list), NOT queued,
-    NOT vetoed (grep-confirmed). Chosen in concepts/ -- distinct section from the
-    two open topics/voids P2s. Under the 3500 concepts hard ceiling -> deep-review
-    NOT condense. CANDIDATE verify-verbatim-at-publisher (suspected, NOT imperative
-    -- fork confirms each literal string, do NOT presume broken): (a) Bergson line
-    66 quote with an inserted article word before invention is a candidate slip vs
-    the standard Creative Evolution translation; (b) William James combination-problem
-    phrase attributed to James -- james-quotes-fabricated-in-mind-dust-cluster, match
-    at psychclassics.yorku.ca and de-quote to paraphrase if unsourceable rather than
-    delete; (c) Whitehead technical terms vacuous actuality / society / personally
-    ordered society (likely genuine Process and Reality terms, spot-confirm) and the
-    ultimate category for creativity (needs literal check -- Whitehead names creativity
-    the ultimate, the ultimate category may be a compression). Verify by literal STRING
-    at the publisher NOT author+year; never delete a real quote on a false negative
-    (citation-verify-false-negative); a WebSearch confirmation whose top hit is unfinishablemap.org
-    is circular (quote-verify-self-contamination-via-own-page). Standard hygiene:
-    cross-links resolve+reciprocate, Tenet routing present (watch process-philosophy
-    neutral-monist pull vs Map dualism), preserve calibration hedges, EOF tool-tag
-    scan, do NOT flag Map self-cite pseudonyms, HOLD ai_system, no-op after REAL per-quote
-    scrutiny bumps last_deep_review ONLY, real fix bumps BOTH, date -u stamps not
-    future-dated. POST-COUNT == 3 (floor exactly satisfied, no padding). BOTTOM-inserted
-    below the two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore
-    note (structure_of_attention_0813) to keep the most-recent 3 (bloat control, zero
-    logic dep).'
+  last_floor_restore_note_2026_07_17_staleness_phenomenology_intellectual_life_1006: 'Floor-restore replenish 2026-07-17T1006Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE PRE-COUNT open executable P0-P2 == 2 verified LIVE before this single write (the two open P2 deep-reviews voids/mapping-mind-space + voids/temporal-void, both prior floor-restore mints this session; #veto condense P2s parser-excluded; ~10 P3s + human-deferred length-decision tasks do NOT count toward the floor of 3); == 3 after. MIN_QUEUE floor 3 unmet by 1, restores 2 to 3 (replenish-at-floor alternation, unfin_loop_steady_state, NOT empty-queue deadlock). NO concurrent evolve_loop.py (pgrep -af evolve_loop.py clean at write, only the grep own shell snapshot matched); clean tree. concurrent-replenish-race guard: revert the redundant add if a sibling/loop mint lands. EIGHT-SOURCE AUDIT (live): chain none (chains BLOCKED, sections AT CAP); unconsumed_research + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length veto/human-deferred; positions audit ran 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4), quote-fidelity-targeted (primary steering channel) + SECTION-DIVERSITY REBALANCE (the prior two mints were both voids and the temporal-void note explicitly asked the next mint to prefer a topic/concept). MINTED 1 P2 deep-review topics/phenomenology-of-intellectual-life.md -- highest quote-density candidate not session-touched/queued (85 double-quoted strings on a live full-corpus scan): ai_system claude-opus-4-6 (opus-4-8-deprioritized exempt), ai_contribution 100, created 2026-01-22, last_deep_review 2026-06-21 (~26d gap), ai_modified 2026-06-21. Prior deep-reviews (2026-06-04 changed-since-review integration + a later cycle slot) were SUBSTANCE/integration passes -- git log shows NO literal-string verbatim/quote-fidelity pass over the named-thinker quotes, so they do NOT convergence-damp the quote channel (quote-fidelity-defects-survive-metadata-reviews; deep_review_over_reviews_converged does not apply to the quote seam). Two named-thinker verbatim quotes carry the literal-string yield: (a) William James feelings-of-relation ~L96 (Principles of Psychology 1890, ch. IX Stream of Thought, ref #260) -- verify exact phrase vs feelings-of-tendency variant at psychclassics.yorku.ca; (b) Raymond Tallis Misrepresentation-presupposes-presentation ~L188 (Aping Mankind, Acumen 2011, ref #270) -- verify verbatim and that the aphorism is Tallis own sentence; if only an aggregator/our-page ratifies, keep CANDIDATE and de-quote rather than delete (quote-aggregator-ratification-corrupts-verbatim; citation-verify-false-negative). The other ~80 double-quoted strings are scare-quotes/own-coinages, NOT attribution defects; do NOT flag them or Map self-cite pseudonyms. NOT session-touched (no commits since 07-16, not in the 07-16/17 avoid list), NOT queued (todo grep hits are cross-links/below Completed line), NOT vetoed. LENGTH: 3283 body words via analyze_length = soft_warning (topics soft 3000/hard 4000 -> clean deep-review NOT condense; any quote correction swap-in-place, add NO filler). CANDIDATE verify-verbatim-at-publisher phrased suspected-NOT-imperative (fork confirms each literal string; do NOT presume broken, do NOT manufacture a defect; a WebSearch hit on unfinishablemap.org or an aggregator is circular/ratification-corrupt). Verify by literal STRING at publisher NOT author+year (citation-verify-false-negative -- never delete a real quote on a false negative). Standard hygiene: cross-links resolve+reciprocate, Tenet routing present, preserve calibration hedges, EOF tool-tag scan, HOLD ai_system, no-op after REAL per-quote scrutiny bumps last_deep_review ONLY, real fix bumps BOTH, date -u stamps not future-dated. POST-COUNT == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (process_philosophy_0903) to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_target: cross-review topics/quantum-hardware-and-the-ai-consciousness-coupling.md
     (chain successor to this session's quantum-hardware expand-topic create, which
     skipped its cross-review successor -- expand-topic-skips-integration-chain; a
