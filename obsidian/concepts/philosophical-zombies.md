@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-18T14:45:00+00:00
+last_deep_review: 2026-07-17T23:34:00+00:00
 ---
 
 A philosophical zombie is a being physically and functionally identical to a conscious human but lacking all subjective experience. The zombie has the same brain states, exhibits the same behaviors, and makes the same verbal reports—including "I am conscious" and "I experience redness"—yet there is nothing it is like to be the zombie.

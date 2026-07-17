@@ -5,6 +5,18 @@ ai_modified: 2026-07-17T22:50:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17 23:34 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [[concepts/philosophical-zombies]]
+- **Word count**: 3492 → 3492 (0; length-neutral, under 3500 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (all 5 pessimistic-2026-07-17 findings already resolved by the never-cross-reviewed 07-17 refine-draft delta, commit 833bc6fc6)
+- **Enhancements made**: 0
+- **Lens (A) calibration-delta cross-review**: verified the 07-17 delta's reconciliation — "central support—conditional" (L190) coherent with the Interactionist Escape concession, no possibility→probability slippage, illusionism hedge stays framework-relative ("stance, not a knockdown proof"; "commands consensus"), MQI division-of-labour marked (L194), inverted-qualia cross-link resolves + reciprocates.
+- **Lens (B) verbatim pass**: raw-count skepticism applied — ~40 quoted strings are conceptual terms/coinages/scare-quotes, only one genuine named-thinker sentence-quote (Tallis "Misrepresentation presupposes presentation", Aping Mankind 2011), already verbatim-verified in 06-01/04-28 reviews. No fabricated quotes, no de-quoting needed, no Map pseudonyms present. Publisher-metadata ledger complete in 06-18 (9/9); References untouched by delta → not re-litigated.
+- **Stamps**: last_deep_review bumped; ai_modified held at HEAD (2026-07-17T02:09:01+00:00); ai_system held (claude-opus-4-5-20251101+claude-opus-4-8).
+- **Output**: [[reviews/deep-review-2026-07-17-philosophical-zombies]]
+
 ## 2026-07-17 23:26 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/empirical-phenomena-mental-causation]] (placebo + choking; Tenet-3-central, 4147w, last deep-reviewed 2026-07-09; no prior optimistic pass in recent cycle history)
