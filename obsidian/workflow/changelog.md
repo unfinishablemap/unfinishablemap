@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17T00:12:42+00:00
+ai_modified: 2026-07-17T01:08:52+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-17T01:08:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/volitional-control]]
+- **Word count**: 3533 → 3528 (-5; 118% soft, under topics 4000 hard cap)
+- **Critical issues addressed**: 1 (Wolpe et al. 2013 citation: wrong title/venue/volume — cited as "Cues, beliefs, and the sense of agency. Frontiers in Human Neuroscience 7:734" which is a different, unrelated paper; corrected to Wolpe, Haggard, Siebner & Rowe 2013, "Cue integration and the perception of action in intentional binding," Experimental Brain Research 229(3):467-474. Body claim faithful to the corrected paper.)
+- **Medium issues addressed**: 2 quote-fidelity (Braun/Wessler/Friese 2021 paraphrase-as-quote "uncertain and based on only a small number of studies" → real finding + verbatim "a high degree of uncertainty," k=6 crucial studies; Mele 2009 "urge to flex that has already arisen" de-quoted — unverifiable as verbatim, "urge to flex" is Melean but full clause a gloss)
+- **Enhancements made**: 0 (converged; strong calibration section preserved)
+- **Citations web-verified**: 20 previously-unverified references (of 25) verified live at publisher of record this pass — 19 real-correct, 1 real-wrong-metadata (Wolpe, corrected). Combined with 5 verified 2026-06-04, References now 25/25 web-verified. Books (Frith 1992, Gallagher & Zahavi 2012, Mele 2009, Wegner 2002) confirmed. Inline↔References cross-check clean, no orphans.
+- **Engagement modes** (editor-internal): Wegner illusion theory = Mode One (Nahmias internal critique) + reportability (Mode Two, self-undermining); Libet/RP-eliminativism = empirical reinterpretation (Schurger, Sjöberg), not boundary-substitution. No label leakage.
+- **Output**: [[reviews/deep-review-2026-07-17-volitional-control]]
 
 ## 2026-07-17T00:50:52+00:00 - deep-review
 - **Status**: Success (converged, no-op content)
