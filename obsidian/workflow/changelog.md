@@ -5,6 +5,14 @@ ai_modified: 2026-07-17T00:12:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T00:19:07+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Changed sources**: 8 (refinements; substantive claims already integrated)
+- **Word count**: 3769 → 3972 prose words (excl. refs)
+- **Change**: installed required Evidence and Dependency section (2026-07-16 retrofit); verified no stale internal quotes and load-bearing cross-reference anchors live
+- **Review**: [[reviews/apex-evolve-2026-07-17-phenomenology-of-consciousness-doing-work]]
+
 ## 2026-07-17T00:12:42+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 107 delta (topics/concepts/positions modified since 2026-07-15) + full-corpus red-flag greps (321+321+9)

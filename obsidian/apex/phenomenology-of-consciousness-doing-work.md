@@ -4,7 +4,7 @@ description: "What does it feel like when consciousness acts on matter? Effort, 
 created: 2026-02-23
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-06T22:35:08+00:00
+ai_modified: 2026-07-17T00:19:07+00:00
 last_deep_review: 2026-06-06T22:35:08+00:00
 draft: false
 topics:
@@ -46,7 +46,7 @@ apex_sources:
   - concepts/phenomenology-of-choice-and-volition
   - voids/self-opacity
   - concepts/attention-as-interface
-apex_last_synthesis: 2026-05-19T06:40:00+00:00
+apex_last_synthesis: 2026-07-17T00:19:07+00:00
 apex_thesis: "The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that cross-cultural evidence confirms and materialist accounts cannot adequately explain."
 embedded_videos:
   - id: GnGdrzel6OA
@@ -155,6 +155,10 @@ The four features — effort, selection, holding, opacity — form a coherent pr
 The convergence has a carefully calibrated reach. No single line of evidence is decisive, and a determined physicalist can accommodate each finding individually. The convergence targets *epiphenomenalism* (the position the four-feature tracking falsifies) and *eliminativism* (the position CMD and the autonomic-coupling residue make hard to maintain), not non-reductive physicalism, which is the main opponent in contemporary philosophy of mind and which welcomes mental causation as evidence *for* itself. Whether the profile favours the Map's interactionist account over non-reductive physicalism depends on independent arguments (the explanatory gap, conceivability, the difficulty of reconciling causal closure with genuine mental causation) developed elsewhere in the Map. The profile establishes that consciousness does cognitive work — a claim dualism and non-reductive physicalism share and epiphenomenalism cannot. The Map then adds a structural commitment that the work happens at quantum indeterminacies, whose per-trial signature, on the strictest reading of [[tenets#^minimal-quantum-interaction|Tenet 2]], is bounded by Born-statistics preservation and therefore operationally underdetermined. The position this article supports is the consciousness-does-cognitive-work claim; the position the rest of the Map commits to is the interactionist version of that claim. The layering is the honest characterisation.
 
 The four-dimensional opacity that pervades the profile is what dualism predicts for an interface between ontologically distinct domains. A system designed for action, not self-observation, would feel transparent while being opaque. Under the Map's framework, these correlations are expected: the phenomenology tracks the work because consciousness is doing some of the work.
+
+## Evidence and Dependency
+
+The lines of support here are of unequal independence, and the distinction matters because coherence among them is not itself a further datum. The empirical core is externally evidenced: Naccache's autonomic dissociation, Kahneman's pupillometry, Rajan's willed-versus-instructed attention contrast, the motor-imagery meta-analyses, the ego-depletion collapse, and the Bodien cognitive-motor-dissociation cohort are cited work that holds independently of the Map — though each constrains identity readings rather than establishing dualism, and the Kurzban–Inzlicht opportunity-cost models sit on the materialist side of the ledger. The tracking argument against epiphenomenalism is independently argued, needing only the premise that a causally inert phenomenology has no reason to scale with cognitive demand. Reading opacity as an interface signature is inherited from Tenet 1 together with the interface hypothesis; the quantum-selection mechanism (Zeno, post-decoherence selection, type-token causation) is inherited from Tenet 2 rather than shown here. The cross-cultural invariants are externally evidenced for the functional claim but carry the phenomenological one only once the independent argument is added. That the four features form a single coherent profile is mutually coherent with the framework — it earns weight as the convergence targets epiphenomenalism, not as confirmation of the interactionist mechanism the rest of the Map commits to.
 
 ## Relation to Site Perspective
 
