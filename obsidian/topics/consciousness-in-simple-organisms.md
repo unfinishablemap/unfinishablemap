@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-06-21T11:38:47+00:00
 human_modified: null
-ai_modified: 2026-07-16T14:04:05+00:00
+ai_modified: 2026-07-17T08:41:11.527736+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,11 +46,22 @@ last_deep_review: 2026-07-11T04:36:00+00:00
 coalesced_from:
   - "/concepts/minimal-consciousness/"
   - "/topics/consciousness-in-simple-organisms/"
+embedded_videos:
+  - id: foo_P7eBCHc
+    url: https://www.youtube-nocookie.com/embed/foo_P7eBCHc
+    embedded: 2026-07-17T08:41:11.527736+00:00
+    source: notebooklm/0093-01-consciousness-in-simple-organisms
 ---
 
 How little neural complexity can support consciousness? The question matters for ethics (which organisms deserve moral consideration?), for philosophy (where does experience interface with matter?), and for the [[hard-problem-of-consciousness|hard problem]] itself (can we identify the minimal conditions for subjectivity?). Research on simple organisms—from the 302-neuron nematode *C. elegans* to nerve-free slime molds—challenges assumptions about what consciousness requires while revealing the fundamental difficulty of detecting experience from the outside.
 
 The Unfinishable Map's dualist framework gains unexpected support from this research. If consciousness were merely emergent from physical complexity, we should expect a clear gradient from non-conscious matter to conscious beings. Instead, the evidence presents a puzzle: organisms with radically different architectures display behaviours that resist easy classification. For dualism, this is exactly what we would expect: if consciousness interfaces with physical systems rather than emerging from them, the question "where is the threshold?" may have no principled answer at all.
+
+<details class="yt-embed" data-video-id="foo_P7eBCHc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/foo_P7eBCHc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The 2024 New York Declaration
 
