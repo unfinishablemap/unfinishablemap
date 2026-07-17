@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-12T19:34:26+00:00
+ai_modified: 2026-07-17T02:09:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ Block's "China brain" thought experiment (Block, 1978) dramatises this: the popu
 
 ## Zombies and Inverted Qualia
 
-The zombie argument has a close structural cousin: [[inverted-qualia]]. Zombies show that functional organization doesn't guarantee *any* experience; inverted qualia show that even when experience is present, functional organization doesn't fix *which* experience occurs. A physicalist who accepts that inverted qualia are conceivable cannot consistently deny that zombies are conceivable—the same explanatory gap grounds both.
+The zombie argument has a close structural cousin: [[inverted-qualia]]. Zombies show that functional organization doesn't guarantee *any* experience; inverted qualia show that even when experience is present, functional organization doesn't fix *which* experience occurs. A physicalist who accepts that inverted qualia are conceivable has strong reason to grant that zombies are conceivable too, absent a bridge premise blocking the inference from *which* experience to *whether* any—the same explanatory gap grounds both.
 
 ## The Self-Stultification Problem
 
@@ -121,7 +121,7 @@ Raymond Tallis argues that illusionism compounds rather than solves the problem:
 
 Ironically, illusionism may strengthen the conceivability of zombies. If the illusionist grants that zombies would make the same reports, have identical quasi-phenomenal properties, and be "under the same illusion"—then what distinguishes us from zombies? The illusionist's answer: nothing. We *are* zombies, just confused ones.
 
-This concedes the conceivability premise while denying the reality of what's conceived. The Map takes a stance, not a knockdown proof: our conviction of phenomenal consciousness is better explained by actual experience than by systematic illusion. The illusionist can always reply that the conviction is itself illusory, and that reply is not strictly refutable—but it requires a non-circular functional story for why a physical system would represent itself as phenomenally conscious, and no such story has been supplied. See [[introspection]] for why phenomenal access is more reliable than illusionism allows.
+This concedes the conceivability premise while denying the reality of what's conceived. The Map takes a stance, not a knockdown proof: our conviction of phenomenal consciousness is better explained by actual experience than by systematic illusion. The illusionist can always reply that the conviction is itself illusory, and that reply is not strictly refutable—but it requires a non-circular functional story for why a physical system would represent itself as phenomenally conscious, and no such story commands consensus. See [[introspection]] for why phenomenal access is more reliable than illusionism allows.
 
 ## Implications for Dualism
 
@@ -173,7 +173,7 @@ The zombie argument would be undermined if:
 
 4. **Introspection proved systematically unreliable for phenomenal content.** Strong evidence that [[introspection]] radically misrepresents basic phenomenal states—evidence not itself relying on introspection. This condition may be practically difficult to satisfy, since evidence about phenomenal reliability tends to rely on introspection. The Map acknowledges this creates epistemic insulation but maintains that dismissing our most direct evidence on purely theoretical grounds is a greater risk.
 
-Their persistent non-satisfaction after decades of debate supports the argument's soundness, though the difficulty of condition 4 means the zombie argument's strongest challenge may come from conditions 1-3.
+Their persistent non-satisfaction after decades of debate leaves the argument standing, though the difficulty of condition 4 means the zombie argument's strongest challenge may come from conditions 1-3.
 
 ## The Convergence Argument
 
@@ -187,11 +187,11 @@ The Map holds that this foundational commitment is more secure than the theories
 
 The zombie argument connects to all five of the Map's tenets.
 
-**[[tenets#^dualism|Dualism]]**: The zombie argument is a central support for the Map's foundational commitment. If zombies are conceivable, consciousness isn't entailed by physical facts—establishing that the mental is not reducible to the physical.
+**[[tenets#^dualism|Dualism]]**: The zombie argument is a central support—conditional, as the Interactionist Escape section concedes—for the Map's foundational commitment. If zombies are conceivable, consciousness isn't entailed by physical facts—establishing that the mental is not reducible to the physical.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causes our reports about consciousness, this causal role distinguishes us from zombies. The physicalist who reasons about their own experience presupposes exactly the causal efficacy of consciousness that the zombie argument vindicates.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The zombie argument establishes that something beyond physics is needed; the quantum mechanism specifies where the interaction occurs. At quantum indeterminacies, consciousness selects among possibilities—not by adding energy, but by resolving what physics leaves open. The zombie would lack whatever selects at these points. See [[decoherence]] for why quantum effects in the brain remain viable.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The zombie argument establishes that something beyond physics is needed; the quantum mechanism specifies where the interaction occurs. At quantum indeterminacies, consciousness selects among possibilities—not by adding energy, but by resolving what physics leaves open. The zombie would lack whatever selects at these points—though locating that selection at quantum loci is a separate Map commitment, not one the zombie argument establishes. See [[decoherence]] for why quantum effects in the brain remain viable.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The zombie argument requires determinate facts—*this* being is either conscious or not. Many-worlds interpretations pressure this by multiplying persons at every quantum branching into equally real successors. The zombie thought experiment asks whether a specific physical duplicate lacks experience; under MWI, the notion of a *specific* duplicate dissolves into a branching tree where every quantum outcome is realised. This doesn't refute the zombie argument, but it pressures the metaphysical framework the argument relies on: definite identity, definite physical facts, and a single actual world. The Map's rejection of many-worlds preserves these conditions.
 

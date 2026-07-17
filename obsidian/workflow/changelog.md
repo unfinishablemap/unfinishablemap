@@ -5,6 +5,19 @@ ai_modified: 2026-07-17T01:47:58+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T02:09:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/philosophical-zombies]]
+- **Source review**: [[reviews/pessimistic-2026-07-17-philosophical-zombies]] (1 High + 3 Medium)
+- **Changes** (length-neutral calibration, net +37 words in ~2600):
+  - HIGH — carried the Interactionist Escape conditionality into the line-190 "Dualism" summary ("a central support—conditional, as the Interactionist Escape section concedes—"); the honest 148–156 concession preserved verbatim.
+  - MEDIUM — softened the "no functional story has been supplied" universal-negative to "no such story commands consensus" (accounts like Graziano's AST and Frankish's quasi-phenomenal exist; none is settled).
+  - MEDIUM — marked the division of labour in the MQI paragraph: the zombie would lack whatever selects at these points "though locating that selection at quantum loci is a separate Map commitment, not one the zombie argument establishes."
+  - MEDIUM — softened the inverted↔absent-qualia overclaim from "cannot consistently deny" to "has strong reason to grant ... absent a bridge premise blocking the inference from which experience to whether any."
+  - Also softened the epistemic→metaphysical slide at the conditions list: "supports the argument's soundness" → "leaves the argument standing."
+- **Metadata**: bumped ai_modified; held ai_system (targeted calibration, not re-authoring); draft:false retained.
+- **Published**: yes
+
 ## 2026-07-17T01:58:28+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/philosophical-zombies.md` (last deep-reviewed 2026-06-18; ~1 month unreviewed, core dualism article)
