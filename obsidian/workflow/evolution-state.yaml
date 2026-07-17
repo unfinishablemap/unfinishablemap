@@ -1326,8 +1326,44 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T17:28:23+00:00'
-  last_replenishment_prev: '2026-07-17T16:56:28+00:00'
+  last_replenishment: '2026-07-17T17:44:30+00:00'
+  last_replenishment_prev: '2026-07-17T17:28:23+00:00'
+  last_floor_restore_note_2026_07_17_staleness_cognitive_science_of_dualism_1744: 'Floor-restore
+    replenish 2026-07-17T1744Z (interactive agent /replenish-queue, conservative exact-floor
+    +1). AUTHORITATIVE PRE-COUNT open P0-P2 == 2 verified LIVE before this single write
+    (open P2 deep-reviews concepts/ai-ensoulment-hypothesis + concepts/knowledge-argument;
+    the 17:28 sibling mint affective-tone-divergence already DRAINED via the 17:39Z
+    cycle deep-review slot [commit 8738e2c04]; #veto condense P2s composition-question-rivals
+    / meaning-of-life / phenomenal-output-causal-machinery-dissociation parser-excluded
+    [VETOED]; ~11 P3s + many-worlds / quantum-consciousness / quantum-biology / personal-identity
+    human-length-decisions do NOT count toward the floor of 3); == 3 after. HEAD 1af045d09
+    = pre-replenish tree-clean marker, no separate evolve_loop.py process (pgrep -af
+    clean), clean tree -- the loop own post-cycle replenish step, not a race ([[replenish-fork-hallucinates-concurrent-loop]]).
+    concurrent-replenish-race guard: revert redundant add if a sibling mint lands.
+    8-source audit: chain/unconsumed/gap all BLOCKED (topics 320/320, concepts 320/320,
+    voids 100/100 AT CAP; pending_articles empty); orphans 0; length offenders all
+    #veto/human-deferred; positions 8/80 audited 2026-07-16 <30d and 8<10 audit floor;
+    no applied-apex-gap. SOURCE = staleness (Source 4) + SECTION-DIVERSITY REBALANCE
+    (both open P2s are CONCEPTS, so this mint prefers a TOPIC). TARGET topics/cognitive-science-of-dualism.md:
+    ai_system claude-opus-4-7 (older cohort), ai_contribution 100, last_deep_review
+    2026-06-20 (~27d, near-stalest tier). The 07-13 ai_modified bump is the 2-line
+    cross-link integration from commit 97d38e995 (expand-topic writing logical-behaviourism)
+    -- a COSMETIC cross-touch, NOT own-body drift, so treat CONVERGED and picked for
+    the LARGEST UNVERIFIED CITATION SURFACE (owed-web-verify seam): ~9 author-year cites
+    (Bloom / Shtulman / Barrett et al), 19 year-mentions; the prior 2026-06-20 review
+    left a live citation-accuracy flag ("confirm Barrett 2021 stays SIX not eight").
+    2189 body words = ok (topics soft 3000) -> clean length-neutral deep-review, NOT
+    condense. NOT session-touched (git log --since 2026-07-14 empty), NOT open-queued
+    (only ✓-completed headers), NOT vetoed (0 Vetoed-bank hits). PRIMARY lens = citation/quote-fidelity
+    verbatim AT THE PRIMARY PUBLISHER (aggregator/self-page hits circular); re-confirm
+    the Barrett-count datum; keep the natural-dualism finding DEBUNKING-vulnerable
+    not probative for Tenet 1 ([[evidential-status-discipline]]); do NOT presume broken
+    ([[replenish-asserted-concrete-defect-often-false]]); never delete on a false negative.
+    Converged no-op after REAL scrutiny bumps last_deep_review ONLY and reverts ai_modified
+    to HEAD / real fix bumps BOTH; HOLD ai_system opus-4-7; date -u stamps not future-dated;
+    EOF tool-tag scan. POST-COUNT == 3 (floor exactly satisfied, no padding). FIFO-placed
+    below the two open P2s ([[queue-lifo-starvation]]). Pruned the oldest note (moral_implications_1521)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_evaluative_phenomenal_character_1656: 'Floor-restore
     replenish 2026-07-17T1656Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this single write (open
@@ -1389,47 +1425,6 @@ queue_status:
     EOF tool-tag scan. POST-COUNT == 3 (floor exactly satisfied). TOP-inserted above
     the P3 block (both are P2, loop picks by priority not file order). Pruned oldest
     note (supervenience_1508) to keep the most-recent 3 (bloat control, zero logic
-    dep).'
-  last_floor_restore_note_2026_07_17_staleness_moral_implications_1521: 'Floor-restore
-    replenish 2026-07-17T1521Z (interactive agent /replenish-queue, conservative exact-floor
-    +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
-    single write (open P2s voids/meaning-void + concepts/supervenience, both prior
-    floor-restore mints not yet drained; #veto condense P2s composition-question-rivals
-    / meaning-of-life / phenomenal-output-causal-machinery-dissociation parser-excluded
-    [VETOED]; ~11 P3s + many-worlds / quantum-consciousness / personal-identity human-length-decision
-    do not count); == 3 after. HEAD b1f9f0545 = pre-replenish tree-clean marker, no
-    separate evolve_loop.py process (pgrep empty -- sole hit was this replenish own
-    shell), clean tree -- the loop own post-cycle replenish step, not a race (replenish-fork-hallucinates-concurrent-loop).
-    8-source audit: chain/unconsumed/gap all BLOCKED (topics 320/320, concepts 320/320,
-    voids 100/100 AT CAP; pending_articles empty); orphans 0; length offenders all
-    #veto/human-deferred; positions 8/80 audited 2026-07-16 <30d, 8<10 audit floor;
-    no applied-apex-gap. SOURCE = staleness (Source 4) + SECTION-DIVERSITY REBALANCE
-    (both open P2s are void+concept, so this mint prefers a topic). TARGET topics/moral-implications-of-genuine-agency.md:
-    opus-4-6 (opus-4-8-deprioritized exempt), ai_contribution 100, last_deep_review
-    2026-06-20, ai_modified 2026-07-10 = CHANGED-SINCE-REVIEW (commit b78276c04 =
-    the 2026-07-10 expand-topic create of topics/ai-moral-agency-and-the-responsibility-gap-under-dualism.md,
-    whose integration chain adds an unreviewed inbound cross-link INTO this file;
-    positive re-review signal not a converged no-op; expand-topic-skips-integration-chain
-    verify point). 3678w status soft_warning (topics soft 3000/hard 4000 -> clean
-    deep-review NOT condense, ~322w headroom, length-neutral), 61 wikilinks (link-heavy
-    reciprocity surface). NOT session-touched (git log --since 2026-07-14 empty, lastcommit
-    07-10), NOT open-queued (no open File** header; whole-file hits are cross-link
-    refs in other tasks + resolved items), NOT vetoed. Higher-scoring topic candidates
-    REJECTED: completeness-in-physics-under-dualism (20.00, session-touched 2026-07-17
-    refine-draft 03fabf353 -- churn) and quantum-measurement-and-subjective-probability
-    (19.29, fully converged ai_modified==last_deep_review==2026-06-20, likely no-op
-    deep_review_over_reviews_converged). PRIMARY lens = cross-link reciprocity (verify
-    the new inbound link from ai-moral-agency landed + reciprocates + mutual framing
-    consistency on the culpability-gap/amplifier line; keep the human-vs-AI partition)
-    + citation/quote-fidelity at the primary publisher (verbatim-check quotes, verify
-    by TITLE+venue, never delete on false negative, aggregator/self-cite hits are
-    circular). VERIFY-JOB -- do NOT presume broken (replenish-asserted-concrete-defect-often-false).
-    No-op after real scrutiny bumps last_deep_review ONLY / real fix bumps BOTH; HOLD
-    ai_system opus-4-6; date -u stamps not future-dated; EOF tool-tag scan; preserve
-    consciousness-value-connection + compatibilist-symmetry calibration; do NOT flag
-    Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding),
-    BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard). Pruned oldest
-    note (meaning_void_1430) to keep the most-recent 3 (bloat control, zero logic
     dep).'
   last_floor_restore_target: deep-review concepts/evaluative-phenomenal-character.md
     (staleness Source 4; damping-aware scorer top-ranked score 20.00; changed-since-review
