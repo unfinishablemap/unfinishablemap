@@ -1325,8 +1325,50 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T18:10:00+00:00'
-  last_replenishment_prev: '2026-07-17T17:44:30+00:00'
+  last_replenishment: '2026-07-17T18:25:00+00:00'
+  last_replenishment_prev: '2026-07-17T18:10:00+00:00'
+  last_floor_restore_note_2026_07_17_staleness_quantum_measurement_subjective_probability_1825: 'Floor-restore
+    replenish 2026-07-17T1825Z (interactive agent /replenish-queue, conservative exact-floor
+    +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this single
+    write (open P2 deep-reviews topics/cognitive-science-of-dualism [17:44Z] + concepts/tenet-falsification-conditions
+    [18:10Z]; the veto condense P2s composition-question-rivals / meaning-of-life /
+    phenomenal-output-causal-machinery-dissociation parser-excluded [VETOED]; ~11 P3s
+    + many-worlds / quantum-consciousness / quantum-biology / personal-identity human-length-decisions
+    do NOT count toward the floor of 3); == 3 after. Restores MIN_QUEUE floor 2->3
+    (replenish-at-floor alternation, unfin_loop_steady_state; all content sections
+    AT CAP so loop can only cycle reviews/condense/positions; NOT empty-queue deadlock).
+    NO concurrent python evolve_loop (pgrep -af clean, sole hit this replenish shell);
+    clean tree; HEAD a66ccce4e pre-replenish tree-clean marker -> loop own post-cycle
+    replenish step (replenish-fork-hallucinates-concurrent-loop). concurrent-replenish-race
+    guard: revert redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT (live):
+    chain none (BLOCKED, sections AT CAP); unconsumed_research + gap BLOCKED (topics
+    320/320, concepts 320/320, voids 100/100 AT CAP; positions 8/80); orphan 0; length
+    offenders all veto/human-deferred; positions audited 2026-07-16 (<30d), 8<10 audit
+    floor; no applied-apex-gap. SOURCE = staleness (Source 4). TARGET = topics/quantum-measurement-and-subjective-probability.md
+    -- SECTION-DIVERSIFYING topic (today drained P2s concept-heavy). ai_system claude-opus-4-5
+    (OLDEST cohort, opus-4-8-de-prioritized exempt, highest unchecked citation-surface
+    yield), ai_contribution 100, last_deep_review 2026-06-20T02:43, ai_modified 2026-06-20T14:25
+    = CHANGED-SINCE-REVIEW (commit e364bd09e added reciprocal contextuality cross-links
+    ~12h after the 02:43 review, unverified-by-deep-review). Higher-ranked scorer candidates
+    DE-SELECTED: evaluative-phenomenal-character (minted twice today + cyclepost mis-mark,
+    tiny 06-22 drift), delegatory-causation (3548w over 3500 concepts hard ceiling,
+    length offender), the two already-open P2 slugs. NOT session-touched (git log --since
+    2026-07-17 empty), NOT open-queued (no File** header; 15 slug hits all checkmarked),
+    NOT vetoed (sole Vetoed-region hit is the DONE 2026-02-18 equivocation refine, not
+    an active veto). LENGTH 2501 body words = ok (topics soft 3000 / hard 4000) -> clean
+    length-neutral swap-in-place. VERIFY-JOB: PRIMARY lens = citation/quote-fidelity
+    on the QBism / Born-rule / subjective-probability surface (Tenet 2 + Tenet 4); verify
+    the 06-20 contextuality cross-links resolve + reciprocate, verify TITLE+venue at
+    primary publisher not author+year metadata, never delete on a false negative, verbatim-check
+    quotes at primary source not aggregators/own-page, watch mis-framed conclusions,
+    keep QBism/subjective-Bayesian framing framework-relative (evidential-status-discipline;
+    a subjective-Bayesian Born rule is a rival not probative for No-MWI). Standard hygiene:
+    preserve calibration hedges, EOF tool-tag scan, HOLD ai_system opus-4-5, no-op after
+    REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified to HEAD / real fix
+    bumps BOTH, date -u stamps not future-dated, do NOT flag Map self-cite pseudonyms.
+    POST-COUNT == 3 (floor exactly satisfied, no padding). FIFO-placed below the two
+    open P2s (queue-lifo-starvation). Pruned the oldest floor-restore note (affective_tone_ai_ensoulment_1728)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_tenet_falsification_conditions_1810: 'Floor-restore
     replenish 2026-07-17T1810Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
@@ -1408,38 +1450,6 @@ queue_status:
     satisfied, no padding). FIFO-placed below the two open P2s ([[queue-lifo-starvation]]).
     Pruned the oldest note (moral_implications_1521) to keep the most-recent 3 (bloat
     control, zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_affective_tone_ai_ensoulment_1728: 'Floor-restore
-    replenish 2026-07-17T1728Z (interactive agent, conservative exact-floor, +2).
-    AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 1 verified LIVE before this single
-    write (sole open P0-P2 = concepts/knowledge-argument deep-review; the 16:56 mint
-    of concepts/evaluative-phenomenal-character AND voids/inference-void both drained
-    via cycle deep-review slots at 17:08 and 17:11; #veto condense P2s composition-question-rivals
-    / meaning-of-life / phenomenal-output-causal-machinery-dissociation parser-excluded
-    [VETOED]; ~9 open P3s + the many-worlds / quantum-consciousness / quantum-biology
-    / personal-identity human-length-decisions do NOT count toward the floor of 3);
-    == 3 after. HEAD bd069c8f3 = pre-replenish tree-clean marker, no separate evolve_loop.py
-    process (ps clean), clean tree -- the loop own post-cycle replenish step, not
-    a race (replenish-fork-hallucinates-concurrent-loop). 8-source audit: chain/unconsumed/gap
-    all BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP; task_chains.pending
-    empty); orphans 0; length offenders all #veto/human-deferred (epistemology-of-convergence-arguments
-    6533w and synesthetic-void already DIVERTED-TO-HUMAN); positions 8/80 last audited
-    2026-07-16 <30d and 8<10 audit floor; no applied-apex-gap. SOURCE = staleness
-    (Source 4). Both targets converged (ai_modified == last_deep_review, no drift-since-review)
-    and picked for the LARGEST UNVERIFIED CITATION SURFACE (owed-web-verify seam).
-    TARGET 1 topics/affective-tone-divergence-across-meditative-traditions.md: last_deep_review
-    2026-06-17 (30d), ~20 in-text cites = richest unchecked quote/citation surface
-    in the stale cohort; section-diversifies from the open concept. TARGET 2 concepts/ai-ensoulment-hypothesis.md:
-    last_deep_review 2026-06-04 (~43d, stalest cohort), ai_contribution 100, ~7 cites.
-    PRIMARY lens for both = citation/quote-fidelity verbatim AT THE PRIMARY PUBLISHER
-    (aggregator/self-page hits are circular), watch wrong-work / wrong-author / dropped-word
-    / wrong-stat; VERIFY-JOB, do NOT presume broken (replenish-asserted-concrete-defect-often-false);
-    never delete on a false negative; do NOT flag Map self-cite pseudonyms. Converged
-    no-op after real scrutiny bumps last_deep_review ONLY and reverts ai_modified
-    to HEAD / real fix bumps BOTH; HOLD ai_system; date -u stamps not future-dated;
-    EOF tool-tag scan. POST-COUNT == 3 (floor exactly satisfied). TOP-inserted above
-    the P3 block (both are P2, loop picks by priority not file order). Pruned oldest
-    note (supervenience_1508) to keep the most-recent 3 (bloat control, zero logic
-    dep).'
   last_floor_restore_target: deep-review concepts/evaluative-phenomenal-character.md
     (staleness Source 4; damping-aware scorer top-ranked score 20.00; changed-since-review
     -- 06-22 anchoring-calibration refine post-dates 06-21 last_deep_review, genuine
