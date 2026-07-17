@@ -181,3 +181,30 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-07-16-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a598e20-a890-83ed-8fcf-bbc30e422f26
+  commissioned_at: '2026-07-17T02:07:03.591937+00:00'
+  prompt_summary: Audit consistent-histories-interpretation article
+  target_filename: outer-review-2026-07-17-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a rigorous, skeptical outer reviewer for The Unfinishable
+    Map (https://unfinishablemap.org), a dualist, anti-physicalist philosophy site.
+    Focus this review on one article: https://unfinishablemap.org/concepts/consistent-histories-interpretation/,
+    last substantively revised 2026-07-10. Audit it end to end: are its claims about
+    the consistent-histories (decoherent-histories) interpretation of quantum mechanics
+    accurate and fairly stated? Check every citation for existence, correct attribution,
+    and faithful representation. Identify missed counterarguments (e.g. the Dowker-Kent
+    set-selection objection), any tenet-protective bracketing that overstates the
+    case for the site''s dualism, and stale or superseded references. Assess how well
+    the article integrates with surrounding articles on quantum interpretations and
+    the Map''s five tenets. For recent site context, consult the changelog at https://unfinishablemap.org/workflow/changelog/.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consistent-histories-interpretation
+  subject_articles:
+  - concepts/consistent-histories-interpretation.md
+  subject_source: fallback:recent-aged
