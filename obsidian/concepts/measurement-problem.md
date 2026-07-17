@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-12T20:39:00+00:00
+ai_modified: 2026-07-17T07:21:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -116,6 +116,10 @@ Collapse is a rule for predictions, not a physical process. The measurement boun
 
 All outcomes occur; the universe branches at every quantum event. **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. Key objections: (1) indexical—why am I *this* branch?; (2) [[probability-problem-in-many-worlds|probability]]—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation-and-downward-causation|mental causation]]—consciousness makes no causal difference. Wallace derives Born probabilities from decision-theoretic coherence, but this shows what rational betting requires, not what probabilities mean when all outcomes occur. See [[concepts/many-worlds]] for detailed arguments.
 
+### Consistent Histories
+
+[[consistent-histories-interpretation|Consistent (decoherent) histories]] claims the measurement problem dissolves with no collapse, no observer, and no selector: a single history is realized stochastically within a consistent family. The Map's residual demand—*why this outcome?*—is not a neutral test CH fails but a metaphysical standard it rejects: CH denies any further fact about which history becomes actual beyond the stochastic assignment. The disagreement is a framework boundary, honestly noted as such. CH's own open difficulties lie elsewhere: set-selection underdetermination—too many consistent families, no law selecting the quasiclassical one (Dowker & Kent 1996)—and the objection that fixing frameworks so apparatuses have definite pointer positions smuggles the observer back in (Okon & Sudarsky 2015).
+
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
 Physical collapse according to modified dynamics. See [[spontaneous-collapse-theories]] for detailed treatment. These theories solve the [[prebiotic-collapse|prebiotic collapse problem]]: objective reduction happens whether or not anyone observes. Consciousness then *modulates* this existing process in neural systems rather than initiating collapse universally—supporting [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. McQueen's CSL-IIT hybrid, where integrated information (Φ) amplifies collapse strength, exemplifies this modulation.
@@ -180,7 +184,7 @@ The loophole has features that make it specifically hospitable to non-physical c
 
 If the loophole only establishes *where* consciousness could act, what supports the claim that it *does*?
 
-- **Structural parallel**: The measurement problem and [[hard-problem-of-consciousness]] share the *specific* feature of determinacy emerging from indeterminacy—definite measurement outcomes from superposition, determinate experience from brain states that should be superposed. Treating these two determinacies as one underlying puzzle is more parsimonious than coincidence; the parallel does the work only at this specificity, not at the looser "first-person facts" level. See [[quantum-measurement-and-consciousness|The Measurement Problem as Hard Problem]].
+- **Structural parallel**: as set out above, the measurement problem and [[hard-problem-of-consciousness]] share the *specific* feature of determinacy emerging from indeterminacy—more parsimoniously treated as one puzzle than as coincidence, though the parallel does the work only at this specificity, not at the looser "first-person facts" level. See [[quantum-measurement-and-consciousness|The Measurement Problem as Hard Problem]].
 
 - **[[self-stultification|Self-stultification of epiphenomenalism]]**: If consciousness has no causal role, beliefs about consciousness aren't caused by consciousness—undermining the epistemic basis for any claim about it, including denying mental causation. This establishes that consciousness has *some* causal role; it does not by itself locate that role at quantum measurement. Quantum measurement is the *least disruptive* locus for the causation consciousness requires—but that appeal to least disruption is a simplicity consideration, and the Map's own [[tenets#^occams-limits|fifth tenet]] holds simplicity unreliable under incomplete knowledge. The move is therefore a defeasible heuristic for *where* to look, not evidence that consciousness acts there, and it stands in acknowledged tension with the tenet that warns against trusting it.
 
@@ -200,25 +204,21 @@ The measurement problem is central to the Map's framework. It provides the *perm
 
 ## Further Reading
 
-- [[quantum-measurement-and-consciousness]] — Why definite outcomes occur and where consciousness might participate
+- [[quantum-measurement-and-consciousness]] — Where consciousness might participate in definite outcomes
 - [[indexical-identity-quantum-measurement]] — The indexical gap all interpretations leave untreated
-- [[vertiginous-question]] — The broader cognitive boundary where first-person identity resists explanation
+- [[vertiginous-question]] — Where first-person identity resists explanation
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure
 - [[concepts/many-worlds]] — Arguments against MWI
 - [[quantum-consciousness]] — Mechanisms for mind-matter interaction
-- [[coupling-modes]] — Basis, timing, and probability control: how consciousness couples to physics
 - [[physics-as-disclosure]] — The measurement problem as boundary disclosure
 - [[self-reference-and-the-limits-of-physical-description]] — Gödel-quantum connections via Lawvere's theorem
-- [[wavefunction-realism-vs-primitive-ontology]] — What the wavefunction *is*: real high-dimensional field versus law over local beables in 3D
 - [[spontaneous-collapse-theories]] — GRW, CSL, and consciousness-modulated collapse
 - [[qm-interpretations-beyond-many-worlds]] — Comparative assessment of interpretations' consciousness compatibility
 - [[consistent-histories-interpretation]] — The single-world, observer-free reading that claims to dissolve the measurement problem
 - [[interactionist-dualism]], [[causal-closure]], [[mental-causation-and-downward-causation|mental causation]] — The broader framework
 - [[multi-mind-collapse-problem]], [[brain-interface-boundary]], [[prebiotic-collapse]] — Coordination puzzles
-- [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]] — How Zurek's framework specifies the menu while leaving the outcome gap open
-- [[delegation-meets-quantum-selection]] — The Born-rule distribution as default causal profile: a causal-structural approach to the measurement problem
-- [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis: five converging lines of inquiry for consciousness acting after decoherence
-- [[the-reverse-inference]] — Using consciousness as datum to constrain quantum interpretation
+- [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]] — The menu specified, the outcome gap left open
+- [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis on consciousness acting after decoherence
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis developing the reverse inference into a full framework
 - [[tenets]] — The Map's foundational commitments
 
@@ -238,3 +238,5 @@ The measurement problem is central to the Map's framework. It provides the *perm
 1. Dourdent, H. (2020). "A Quantum Gödelian Hunch." arXiv:2005.04274.
 1. Franzén, T. (2005). *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse*. A K Peters.
 1. Landsman, K. (2020). "Indeterminism and Undecidability." arXiv:2003.03554.
+1. Dowker, F. & Kent, A. (1996). "On the consistent histories approach to quantum mechanics." *Journal of Statistical Physics*, 82, 1575-1646. arXiv:gr-qc/9412067.
+1. Okon, E. & Sudarsky, D. (2015). "The Consistent Histories formalism and the measurement problem." *Studies in History and Philosophy of Modern Physics*, 52, 217-222. arXiv:1504.03231.

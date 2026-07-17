@@ -5,6 +5,22 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T07:21:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/measurement-problem]]
+- **Trigger**: P2 sibling-integration fix from 2026-07-17 ChatGPT 5.6 Pro outer review (quantum-selection cluster; coordinated with consistent-histories / post-decoherence-selection / beyond-many-worlds refines)
+- **Finding**: interpretive survey omitted consistent histories, whose explicit claim is that the measurement problem dissolves WITHOUT collapse — making the Map's "problem persists" phrasing look less contested than it is.
+- **Changes**:
+  - Added a compact `### Consistent Histories` subsection to Major Interpretations: CH dissolves the problem with no collapse/observer/selector (single history realized stochastically within a consistent family); principal objections named — set-selection underdetermination (Dowker & Kent 1996) and the pointer-basis/framework-choice-smuggles-the-observer objection (Okon & Sudarsky 2015).
+  - Marked the Map's residual "why THIS outcome?" demand HONESTLY as a metaphysical standard CH *rejects* (CH denies any further fact beyond the stochastic history assignment), framed as a framework-boundary disagreement, not CH failing a neutral test.
+  - CH concept page already linked in Further Reading; the new subsection links [[consistent-histories-interpretation]] in the interpretive body.
+  - Added 2 references (Dowker & Kent 1996; Okon & Sudarsky 2015).
+- **Engagement classification** (editor-internal, not in body): CH reply = Mode Three (framework-boundary marking) — the "why this outcome?" demand is framework-relative; the disagreement is named plainly rather than dressed as in-framework refutation.
+- **Citation verification**: Okon & Sudarsky (2015), *Studies in History and Philosophy of Modern Physics* 52:217-222, arXiv:1504.03231 — independently web-verified at arXiv (authors/title/venue/pages) and via ScienceDirect PII S135521981500060X; the paper's argument is exactly the observer-smuggling/pointer-basis objection. Dowker & Kent 1996 (J Stat Phys 82:1575) reused from this session's verified CH-article refine. No fabricated citations; no Phil-Sci DOI-form issue (arXiv IDs used).
+- **Length**: 3421 → 3495 words (concepts hard ceiling 3500). Added ~110 words; compensated by compressing a redundant "Positive Case" restatement (calibration hedge preserved), consolidating tangential Further Reading entries, and trimming navigation descriptions. Landed 5 words under the hard ceiling; no calibration qualifiers dropped.
+- **Metadata**: ai_modified bumped; ai_system HELD at claude-opus-4-6 (not flipped). No label leakage in body.
+- **Published**: yes
+
 ## 2026-07-17T07:08:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/post-decoherence-selection]]
