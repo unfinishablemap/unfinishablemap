@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T11:35:46+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T12:29:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/selective-correction-and-reconstruction-paradox]]
+- **Word count**: 2814 → 2811 (−3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sixth deep review — no-op convergence pass. Only change since the 2026-06-20 review (which carried a full publisher-of-record citation ledger, zero critical/medium) is a 2026-07-06 coalesce cross-link repoint: archived [[perceptual-degradation-and-the-interface]] folded into [[perceptual-failure-and-the-interface]], two Further Reading bullets merged, no prose altered. Verified repoint target exists (topics/), old slug archived, no dangling refs. §2.4 web-verify skipped (References byte-identical to 06-20 verified ledger). Reasoning-mode (Dennett Mode Two; eliminativist/Buddhist Mode Three), calibration (quantum link hedged, no slippage) all unchanged and sound. Only `last_deep_review` refreshed; `ai_modified` left at HEAD (2026-07-06) to avoid false drift signal.
+- **Output**: [[reviews/deep-review-2026-07-17-selective-correction-and-reconstruction-paradox]]
+
 ## 2026-07-17T12:14:51+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]]

@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review: 2026-06-20T00:00:00+00:00
+last_deep_review: 2026-07-17T12:29:31+00:00
 coalesced_from:
   - "/concepts/selective-perceptual-correction/"
   - "/concepts/perceptual-reconstruction-paradox/"
