@@ -1331,8 +1331,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T14:30:17+00:00'
-  last_replenishment_prev: '2026-07-17T14:14:03+00:00'
+  last_replenishment: '2026-07-17T15:08:23+00:00'
+  last_replenishment_prev: '2026-07-17T14:30:17+00:00'
   last_floor_restore_note_2026_07_17_staleness_meaning_void_1430: 'Floor-restore replenish
     2026-07-17T1430Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before the single
@@ -1408,24 +1408,41 @@ queue_status:
     two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note
     (phenomenology_intellectual_life_1006) to keep the most-recent 3 (bloat control,
     zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_epistemology_of_mechanism_1239: 'Floor-restore
-    replenish 2026-07-17T1239Z (conservative exact-floor +1). AUTHORITATIVE PRE-COUNT
-    count_p0_p2_tasks == 2 verified LIVE (open P2s possibility-probability-slippage
-    + surprise-prediction-error; #veto condense P2s parser-excluded [VETOED]; P3s
-    + human-length-decision tasks do not count); == 3 after. HEAD 4e8c5426c = pre-replenish
-    tree-clean marker, no separate evolve_loop.py process -- this is the loop own
-    post-cycle replenish step, not a race (replenish-fork-hallucinates-concurrent-loop).
+  last_floor_restore_note_2026_07_17_staleness_supervenience_1508: 'Floor-restore
+    replenish 2026-07-17T1508Z (conservative exact-floor +1). AUTHORITATIVE PRE-COUNT
+    count_p0_p2_tasks == 2 verified LIVE (open P2s topics/responsibility-gradient-from-attentional-capacity
+    + voids/meaning-void; topics/the-interface-problem drained via the cycle deep-review
+    slot since the 14:30Z run; #veto condense P2s composition-question-rivals / meaning-of-life
+    / phenomenal-output-causal-machinery-dissociation parser-excluded [VETOED]; ~11
+    P3s + many-worlds human-length-decision do not count); == 3 after. HEAD 0ffabaaa0
+    = pre-replenish tree-clean marker, no separate evolve_loop.py process (pgrep empty),
+    clean tree -- this is the loop own post-cycle replenish step, not a race (replenish-fork-hallucinates-concurrent-loop).
     8-source audit: chain/unconsumed/gap all BLOCKED (topics 320/320, concepts 320/320,
     voids 100/100 AT CAP; pending_articles empty); orphans 0; length offenders all
-    #veto; positions 8/80 audited 2026-07-16 <30d; no applied-apex-gap. SOURCE = staleness
-    (Source 4). TARGET topics/epistemology-of-mechanism-at-the-consciousness-matter-interface:
-    opus-4-6, ai_contribution 100, last_deep_review==ai_modified==2026-06-17 (30d
-    converged), 2640w status ok (not condense), ~15 citations, NOT open-queued (4
-    slug hits all completed checkmark tasks), NOT vetoed. rational-normativity (git-touched
-    07-12) and phenomenology-of-deliberation (over-converged) REJECTED. POST-COUNT
-    == 3 (floor exactly satisfied, no padding), BOTTOM-inserted below the two open
-    P2s (queue-lifo-starvation guard). Pruned oldest note (temporal_void_0945) to
-    keep the most-recent 3 (bloat control, zero logic dep).'
+    #veto/human-deferred; positions 8/80 audited 2026-07-16 <30d, 8<10 audit floor;
+    no applied-apex-gap. SOURCE = staleness (Source 4) + SECTION-DIVERSITY REBALANCE
+    (both open P2s are topic+void; today leaned topics/voids, so this mint prefers a
+    concept). TARGET concepts/supervenience.md: opus-4-6 (opus-4-8-deprioritized exempt),
+    ai_contribution 100, last_deep_review 2026-06-25, ai_modified 2026-07-10 = CHANGED-SINCE-REVIEW
+    (commit 537072cf6 added an unreviewed inbound cross-link from the new anomalous-monism-and-the-denial-of-strict-psychophysical-laws.md
+    -- Davidson supervenience-without-reduction framing; positive re-review signal not
+    a converged no-op). 1499w status ok (concepts soft 2500/hard 3500 -> clean deep-review
+    NOT condense, length-neutral), 25 quoted strings + 45 wikilinks, Davidson Mental
+    Events 1970 + Kim surface. NOT session-touched (git log --since 2026-07-16 empty,
+    lastcommit 07-10), NOT open-queued (no open File** header), NOT vetoed (Vetoed hits
+    merely mention supervenience as context in other tasks). Higher-scoring scorer entries
+    all voids (over-represented) or the apex-articles index -- REJECTED for diversity;
+    completeness-in-physics-under-dualism REJECTED (session-touched 07-17). PRIMARY lens
+    = cross-link reciprocity (harmonize the anti-reductive-without-anomalism framing
+    vs the new inbound sibling; keep the nomological/metaphysical partition) + citation/quote-fidelity
+    at the primary publisher (verbatim-check Davidson/Kim quotes, verify by TITLE+venue,
+    never delete on false negative, aggregator/self-cite hits are circular). VERIFY-JOB
+    -- do NOT presume broken (replenish-asserted-concrete-defect-often-false). No-op after
+    real scrutiny bumps last_deep_review ONLY / real fix bumps BOTH; HOLD ai_system opus-4-6;
+    date -u stamps not future-dated; EOF tool-tag scan; do NOT flag Map self-cite pseudonyms.
+    POST-COUNT == 3 (floor exactly satisfied, no padding), BOTTOM-inserted below the
+    two open P2s (queue-lifo-starvation guard). Pruned oldest note (epistemology_of_mechanism_1239)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_target: cross-review topics/quantum-hardware-and-the-ai-consciousness-coupling.md
     (chain successor to this session's quantum-hardware expand-topic create, which
     skipped its cross-review successor -- expand-topic-skips-integration-chain; a
