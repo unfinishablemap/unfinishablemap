@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T20:56:27.400759+00:00'
-session_count: 16222
-cycle_position: 11305
+last_updated: '2026-07-17T21:00:59.363036+00:00'
+session_count: 16223
+cycle_position: 11306
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T16:26:57.030776+00:00'
   optimistic-review: '2026-07-17T17:35:51.467236+00:00'
   check-tenets: '2026-07-17T20:16:04.965067+00:00'
   check-links: '2026-07-17T14:51:14.696049+00:00'
-  deep-review: '2026-07-17T20:46:29.981883+00:00'
+  deep-review: '2026-07-17T21:00:59.363036+00:00'
   tune-system: '2026-07-17T00:23:50.450127+00:00'
   research-voids: '2026-07-17T14:55:17.563751+00:00'
   coalesce: '2026-07-17T18:35:41.740066+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 518
-  reviews_completed: 6528
+  reviews_completed: 6529
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1326,12 +1326,12 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 83
+  p2_tasks: 84
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T20:51:00+00:00'
-  last_replenishment_prev: '2026-07-17T20:32:00+00:00'
+  last_replenishment: '2026-07-17T21:06:00+00:00'
+  last_replenishment_prev: '2026-07-17T20:51:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_metaphysics_of_information_under_dualism_2032: 'Floor-restore
     replenish 2026-07-17T2032Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
@@ -1403,83 +1403,98 @@ queue_status:
     reviewed this session via a cycle slot at commit 8906105d2) to keep exactly 3,
     one per open floor task -- islamic-sufi, african, metaphysics-of-information (bloat
     control, zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_african_philosophy_of_consciousness_1959: 'Floor-restore
-    replenish 2026-07-17T1959Z (interactive agent /replenish-queue, conservative exact-floor
+  last_floor_restore_note_2026_07_17_staleness_pairing_problem_2106: 'Floor-restore
+    replenish 2026-07-17T2106Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
-    single write (open P2 deep-reviews topics/consciousness-and-social-understanding
-    [19:26Z] + concepts/islamic-sufi-philosophy-of-consciousness [19:41Z]; the earlier
-    consciousness-and-the-ownership-problem [18:57Z] floor mint has since DRAINED
-    via a cycle deep-review slot this session [commit e49305f10]; the veto condense
-    P2s composition-question-rivals / meaning-of-life / phenomenal-output-causal-machinery-dissociation
-    parser-excluded [VETOED]; ~11 P3s + many-worlds / quantum-consciousness / quantum-biology
+    single write (the two open P2 deep-reviews concepts/metaphysics-of-information-under-dualism
+    [20:32Z] + topics/the-convergence-argument-for-dualism [20:51Z], both prior floor-restore
+    mints not yet drained; the earlier african / islamic-sufi / social-understanding
+    / ownership / bi-aspectual / quantum-measurement floor mints have all DRAINED via
+    cycle deep-review slots this session, african-philosophy at HEAD commit 441612fb6;
+    the veto condense P2s composition-question-rivals / meaning-of-life / phenomenal-output-causal-machinery-dissociation
+    parser-excluded [VETOED]; ~14 P3s + many-worlds / quantum-consciousness / quantum-biology
     / personal-identity human-length-decisions do NOT count toward the floor of 3);
     == 3 after (post-mint count_p0_p2_tasks re-verified == 3). Restores MIN_QUEUE
     floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state; all content
     sections AT CAP so loop can only cycle reviews/condense/positions; NOT empty-queue
-    deadlock). NO concurrent evolve_loop process (pgrep -af python.*evolve_loop empty
-    at write time, sole hit was this replenish shell); the pre-existing uncommitted
-    evolution-state.yaml diff is benign cycle_post bookkeeping, NOT a mid-flight replenish;
-    HEAD d94a5ddee. concurrent-replenish-race guard: revert redundant add if a sibling
-    mint lands. EIGHT-SOURCE AUDIT (live): chain none (BLOCKED, sections AT CAP);
-    unconsumed_research + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100
-    AT CAP; positions 8/80); orphan 0; length offenders all veto/human-deferred; positions
-    audited 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness
-    (Source 4) + CLUSTER-DIVERSITY. TARGET = concepts/african-philosophy-of-consciousness.md
-    -- real damping-aware scorer get_review_candidates() ranks it 16.8; higher-ranked
-    entries DE-SELECTED: evaluative-phenomenal-character (20.8, documented churn/cyclepost
-    mis-mark target), consciousness-and-probability-interpretation (19.29, DIRECT
-    cluster-sibling of the quantum-measurement review completed this session, would
-    re-cluster quantum/probability work), delegatory-causation (19.2, 3548w over the
-    3500 concepts hard ceiling, length offender), the-binding-problem (19.09, touched
-    07-16 coalesce + same-title ambiguity), philosophical-zombies (18.71, session-touched
-    today 07-17T02:09), consciousness-and-social-understanding (17.86 = one of the
-    two already-open P2s), bergson-and-duration (17.6, session-touched today 07-17T09:32);
-    also de-selected the already-reviewed-this-session no-ops (tenet-falsification-conditions,
-    terminal-lucidity-and-filter-transmission-theory, quantum-measurement-and-subjective-probability,
-    bi-aspectual-ontology, consciousness-and-the-ownership-problem [the last an 8-review
-    convergence-damping candidate, do NOT re-mint]), and indigenous-australian-philosophy-of-consciousness
-    (16.92 but opus-4-8 de-prioritized cohort + only 11d since review). african-philosophy
-    is the cleanest thematically-DISTINCT pick with GENUINE unchecked verbatim-quote
-    surface -- the classical African philosophy-of-consciousness page (Akan okra /
-    sunsum / honam psychology, communal personhood, Mbiti, Menkiti, Wiredu, Gyekye),
-    a TRANSLATION-HEAVY / primary-source-quoting article whose non-Western sources
-    share ZERO verification overlap with either open P2 (Arabic/Persian Sufi texts,
-    or English-language theory-of-mind literature), so it diversifies the verification
-    cluster even as a second concept. ai_system claude-opus-4-6 (older cohort, opus-4-8-de-prioritized
-    exempt, higher unchecked citation-surface yield), ai_contribution 100, last_deep_review
-    2026-06-26T16:55; body commit 711ae3ce0 2026-06-26T21:52 (auto refine-draft, closing
-    African/Indian/Islamic convergence cross-link gaps) edited the body ~5h after
-    the same-day review = CHANGED-SINCE-REVIEW (those added convergence cross-links
-    unverified-by-deep-review), ~21d converged since; one added convergence link reciprocally
-    touches the OPEN islamic-sufi P2 so this review complements rather than duplicates
-    it. NOT session-touched (git log --since 2026-07-17 00:00 does not list this file),
-    NOT open-queued (0 File** header for this slug in the Active region), NOT vetoed.
-    LENGTH 1896 body words = ok (concepts soft 2500 / hard 3500) -> clean length-neutral
-    swap-in-place. VERIFY-JOB: PRIMARY lens = verbatim quote / translated-term + named-thinker
-    attribution fidelity + link integrity; verbatim-check each quoted phrase (the
-    Mbiti communal-personhood aphorism and any Wiredu / Gyekye / Menkiti quotation)
-    at the primary text not aggregators/own-page (circular), de-quote paraphrase-as-quote,
-    pin each Akan/Yoruba/Bantu translated term to the RIGHT thinker/work, verify each
-    named work by TITLE at the primary publisher not author+year metadata, never delete
-    a real source/quote on a false negative (exact-string search), watch mis-framed
-    conclusions and verbatim-quote-to-wrong-work, confirm the 06-26 convergence cross-links
-    + all wikilinks resolve + reciprocate (watch archived/coalesced retargets), keep
-    the African communal-self / vital-force material framework-relative (evidential-status-discipline;
-    a tradition testimony ILLUSTRATES not ESTABLISHES dualism, no possibility->probability
-    slippage). Standard hygiene: preserve calibration hedges, EOF tool-tag scan, HOLD
-    ai_system opus-4-6, no-op after REAL scrutiny bumps last_deep_review ONLY + reverts
-    ai_modified to HEAD / real fix bumps BOTH, date -u stamps not future-dated, do
-    NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no
-    padding). FIFO-placed below the two open P2s (queue-lifo-starvation). Pruned the
-    drained consciousness-and-the-ownership-problem floor-restore note (its task reviewed
-    this session via a cycle slot) to keep exactly 3, one per open floor task -- social-understanding,
-    islamic-sufi, african (bloat control, zero logic dep).'
-  last_floor_restore_target: deep-review topics/the-convergence-argument-for-dualism.md
-    (staleness Source 4 + SECTION-and-CLUSTER-DIVERSITY; real damping-aware scorer
-    get_review_candidates ranks it 16.13; the cleanest surviving pick with a genuine
-    unchecked BODY delta after DE-SELECTing the churn/no-op/over-ceiling/opus-4-8/already-open/already-reviewed
-    higher-ranked entries; a TOPIC that rebalances the two open CONCEPT P2s and is
-    thematically distinct from the non-Western + information-metaphysics opens.)
+    deadlock). NO concurrent evolve_loop process at write time (pgrep -af evolve_loop.py
+    empty, sole hit was this replenish shell self-matching the string); the pre-existing
+    uncommitted evolution-state.yaml diff is benign cycle_post bookkeeping, NOT a mid-flight
+    replenish; HEAD 441612fb6. concurrent-replenish-race guard: revert redundant add
+    if a sibling mint lands. EIGHT-SOURCE AUDIT (live): chain = Source-1 cross-review
+    successor of the 2026-07-12 emergent-dualism expand-topic (commit d6afea675) which
+    added an inbound Hasker field-analogy sentence + emergent-dualism wikilink into
+    THIS article Response-1 section after its 06-24 review; unconsumed_research + gap
+    BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP; positions 8/80);
+    orphan 0; length offenders all veto/human-deferred; positions audited 2026-07-16
+    (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4) +
+    CLUSTER-DIVERSITY. TARGET = concepts/pairing-problem.md -- real damping-aware scorer
+    get_review_candidates() ranks it 16.43; higher-ranked and same-tier entries DE-SELECTED:
+    evaluative-phenomenal-character (20.8, documented churn/cyclepost mis-mark target),
+    consciousness-and-probability-interpretation (20.0, DIRECT quantum cluster-sibling
+    of the session quantum-measurement review, re-cluster risk), delegatory-causation
+    (20.0, over the 3500 concepts hard ceiling + 07-15 trumping churn), the-binding-problem
+    + grain-mismatch pair (session-touched 07-16 coalesce + same-title ambiguity),
+    philosophical-zombies + bergson-and-duration (session-touched today 07-17), indigenous-australian
+    + hylomorphic-dualism + philosophy-of-action (opus-4-8 de-prioritized cohort, fresh
+    11d), hoel-llm + phenomenology-of-cognitive-capacity/limit-types + consciousness-and-skill-acquisition
+    (VERIFIED NO-OPS, recent full web-verify ledgers), the-psychophysical-control-law
+    + attention-schema-theory (quantum cluster-sibling / near-ceiling), consciousness-and-neurodegenerative-disease
+    (16.8, only a related_articles frontmatter line since a 5-review + fully-web-verified
+    converged baseline = no-op risk), clinical-dissociation + brain-organoids + bacterial-chemotaxis
+    + cognitive-immune-system (opus-4-8 de-prioritized and/or fresh-created 07-08/09);
+    also de-selected the two already-open P2s (metaphysics-of-information, convergence-argument)
+    and the session already-reviewed no-ops (tenet-falsification-conditions, terminal-lucidity-and-filter-transmission-theory,
+    quantum-measurement-and-subjective-probability, bi-aspectual-ontology, consciousness-and-the-ownership-problem,
+    consciousness-and-social-understanding, islamic-sufi-philosophy-of-consciousness,
+    african-philosophy-of-consciousness -- do NOT re-mint). pairing-problem is the
+    cleanest surviving pick with a GENUINE UNCHECKED body delta AND cluster diversity
+    -- Kim causal-pairing objection to substance dualism / the interaction-problem
+    cluster, thematically DISTINCT from the information-metaphysics + convergence-methodology
+    opens AND from the session quantum / non-Western theory-of-mind work. ai_system
+    claude-opus-4-5 (OLDEST cohort, opus-4-8-de-prioritized exempt, highest unchecked-surface
+    yield), ai_contribution 100, created 2026-01-16, last_deep_review 2026-06-24T18:38;
+    post-review body commit d6afea675 2026-07-12 (auto expand-topic emergent-dualism)
+    added Hasker field-analogy prose + an emergent-dualism wikilink into Response-1
+    = CHANGED-SINCE-REVIEW, UNVERIFIED by any deep-review (coalesce-hides-review-debt
+    sibling). NOT session-touched (git log --since 2026-07-16 empty for this file),
+    NOT open-queued (0 open File header for this slug; the two heading hits are the
+    completed 06-24 review + an interactionist-dualism task title mention), NOT vetoed.
+    LENGTH 2410 body words = ok (concepts soft 2500 / hard 3500, ~1090w headroom) ->
+    clean length-neutral swap-in-place, NOT a condense task. VERIFY-JOB: PRIMARY lens
+    = cross-review the 07-12 emergent-dualism delta (Hasker not misframed, emergent-dualism
+    link resolves + reciprocates) + a first verbatim/publisher citation pass on the
+    never-ledgered surface (the reviews hits for this slug are OTHER articles ledgers,
+    not a dedicated pairing-problem web-verify) -- Kim 2001 Lonely Souls, Kim 2005
+    Physicalism-or-Something-Near-Enough, Bailey-Rasmussen-Van-Horn 2011 No-Pairing-Problem
+    Philosophical-Studies 154:349-360 (verbatim-check the quoted title-phrase + haecceity
+    framing), Hasker 1999 The-Emergent-Self, Zimmerman 2010 Aristotelian-Society-Supp
+    84(1):119-150, Jahn-and-Dunne 2005 PEAR-Proposition JSE 19(2):195-245 (verify the
+    ~0.0001-0.001 effect size + 0.01 falsification threshold) at the primary publisher
+    NOT author+year metadata NOR own-page/aggregators (circular); de-quote paraphrase-as-quote,
+    never delete a real source on a false negative (exact-string search). All wikilinks
+    resolve + key interaction-cluster ones reciprocate (brain-interface-boundary, interactionist-dualism,
+    causal-closure); watch archived/coalesced retargets. Tenet routing present (Tenet
+    1 Dualism, substance-dualism load-bearing; keep the interface-locality response
+    framework-relative, no possibility->probability slippage). Standard hygiene: preserve
+    calibration hedges, no banned This-is-not-X-it-is-Y cliche, EOF tool-tag scan,
+    HOLD ai_system opus-4-5, no-op after REAL scrutiny bumps last_deep_review ONLY +
+    reverts ai_modified to HEAD / real fix bumps BOTH, date -u stamps not future-dated,
+    do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied,
+    no padding). FIFO-placed below the two open P2s (queue-lifo-starvation). Pruned
+    the drained african-philosophy-of-consciousness floor-restore note (its task reviewed
+    this session via a cycle slot at HEAD 441612fb6) to keep exactly 3, one per open
+    floor task -- metaphysics-of-information, the-convergence-argument, pairing-problem
+    (bloat control, zero logic dep).'
+  last_floor_restore_target: deep-review concepts/pairing-problem.md (staleness Source
+    4 + CLUSTER-DIVERSITY; real damping-aware scorer get_review_candidates ranks it
+    16.43; the cleanest surviving pick with a genuine unchecked BODY delta (the 07-12
+    Hasker emergent-dualism sentence + wikilink after the 06-24 review) and a never-ledgered
+    Kim / Bailey-Rasmussen-Van-Horn / Hasker / Zimmerman / Jahn-and-Dunne citation
+    surface, after DE-SELECTing the churn/no-op/over-ceiling/opus-4-8/already-open/already-reviewed
+    higher-ranked entries; oldest-cohort opus-4-5, thematically distinct from the information-metaphysics
+    + convergence-argument opens and the session quantum / non-Western theory-of-mind
+    work.)
   last_floor_restore_note_2026_07_17_staleness_the_convergence_argument_for_dualism_2051: 'Floor-restore
     replenish 2026-07-17T2051Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
