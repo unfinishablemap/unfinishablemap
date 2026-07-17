@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T11:35:46+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T11:56:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/anti-correlated-metacognitive-signal]]
+- **Word count**: 2620 → 2620 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth deep review — no-op convergence pass. Body unchanged since the 2026-06-16 no-op review; re-qualified only on elapsed time (31d clears the 14-day damping window). §2.4 web-verify trigger not met (References unchanged since 2026-06-16 publisher-verification). Calibration register sound; no slippage. Only `last_deep_review` refreshed; `ai_modified` left at HEAD to avoid false sibling re-qualification.
+- **Output**: [[reviews/deep-review-2026-07-17-anti-correlated-metacognitive-signal]]
+
 ## 2026-07-17T11:50:06+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Phenomenology & first-person-methods cluster — contentless-awareness-evidence, introspection, phenomenology-of-intellectual-life, structure-of-attention
