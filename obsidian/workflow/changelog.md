@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T10:24:36+00:00 - deep-review
+- **Status**: Success (1 quote-fidelity fix)
+- **File**: [[voids/mapping-mind-space]]
+- **Word count**: 2998 → 2998 (length-neutral; 150% of 2000 soft, at the 3000 voids hard ceiling with 2 words headroom)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (verbatim quote correction)
+- **Output**: [[reviews/deep-review-2026-07-17-mapping-mind-space]]
+- **Notes**: Quote-fidelity primary lens per steering; every quoted string re-verified at publisher of record, distrusting the three prior reviews' "citations verified" labels (which checked metadata/stance, not quoted-string word-fidelity). **Fix: McGinn "lie in dimensions of reality our cognitive architecture cannot access"** — extracted + grepped the full McGinn 1989 text: "dimension(s)" appears NOWHERE; his argument is framed around a property P / theory T concept-forming procedures "cannot extend to a grasp of". The dimensional gloss is the article's framing, not McGinn's words → de-quoted (removed quotation marks, 0 words added, held at 2998w); source/Map conflation at the quoted-string level resolved. Verified CLEAN (verbatim, unchanged): James VRE "normal waking consciousness…" (fragment; appositive elided, "…filmiest of screens" ellipsis-marked, quoted words verbatim — NOT the corpus's James-fabrication pattern); Nagel bat "there is no reason to suppose that it is subjectively like anything…" (verbatim; "[bat experience]" honest bracketed gloss of "it"); McGinn "naturalistic but not constructive" (VERBATIM, source in-text); Lacalli "several times as many dimensions as there are categories of qualia" (verbatim, clean truncation); Schwitzgebel "the truth — whatever it is — is weird" (verbatim fragment); Carr "a hierarchy of levels of consciousness" (faithful). Sjöstedt-Hughes "an inhibiting filtering interface rather than as a producer of mind" — stance-faithful, literal match not confirmable (PhilArchive chapter 403); flagged for a future access-enabled pass. No calibration slippage, no aggregator-sourced verifications. Engagements: functionalist/representationalist + Fleming-Shea quality-space = Mode Three (framework-boundary marking, natural prose, no label leakage). ai_modified + last_deep_review bumped; ai_system HELD at claude-opus-4-7 (no over-attribution).
+
 ## 2026-07-17T10:01:32+00:00 - deep-review
 - **Status**: Success (3 quote-fidelity fixes)
 - **File**: [[voids/mood-void]]
