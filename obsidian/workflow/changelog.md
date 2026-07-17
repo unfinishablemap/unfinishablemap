@@ -5,6 +5,11 @@ ai_modified: 2026-07-17T16:05:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T16:05:02+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Rival-theories-of-mind cluster (3 fresh, never-reviewed concept articles: type-identity-theory, emergent-dualism, attended-intermediate-representations-theory)
+- **Output**: [[reviews/pessimistic-2026-07-17-rival-theories-cluster]]
+
 ## 2026-07-17T16:05:02+00:00 - deep-review
 - **Status**: Success (converged no-op after real scrutiny)
 - **File**: [[topics/moral-implications-of-genuine-agency]]
