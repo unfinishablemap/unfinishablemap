@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-26
 last_curated:
-last_deep_review: 2026-06-06T13:18:01+00:00
+last_deep_review: 2026-07-17T09:10:12+00:00
 ---
 
 Three of the Map's articles independently reach for the same object under different names. Bradford Saad's [[delegatory-dualism|delegatory dualism]] calls it the **default causal profile** — the pattern of effects a brain state would produce absent conscious takeover. The [[bandwidth-of-consciousness|bandwidth literature]] calls it the **prepared options** — the small set of action policies the brain readies for consciousness to select among at ~10 bits per second. The [[physical-completeness|structural-ontological gap]] calls it the **Born-rule distribution** — the probability measure over quantum outcomes that physics specifies completely while leaving actuality-selection open. This article argues that these are plausibly **one structure described in three registers**, not three independent structures and emphatically not three independent pieces of evidence. The convergence is a coherence fact about the Map's vocabulary, and the central discipline of the article is to keep it from inflating into a confirmation fact about the Map's claims.
