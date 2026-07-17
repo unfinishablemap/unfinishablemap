@@ -213,9 +213,9 @@
   commissioned_at: '2026-07-17T04:56:50.750315+00:00'
   prompt_summary: Audit consistent-histories-interpretation article
   target_filename: outer-review-2026-07-17-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-17T06:08:09.045054+00:00'
   failure_reason: null
   prompt_text: "You are a hostile but fair external referee auditing one article on\
     \ The Unfinishable Map, a philosophy site defending a dualist worldview in which\

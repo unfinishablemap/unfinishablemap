@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17T05:56:14+00:00
+ai_modified: 2026-07-17T06:10:41+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-17T06:10:41+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (claude-opus-4-8; Research + Web Search)
+- **File**: [[reviews/outer-review-2026-07-17-claude-opus-4-8]]
+- **Subject**: recent-aged audit of [[concepts/consistent-histories-interpretation]] (same subject as the 07-17 ChatGPT + Gemini siblings; reuse selection)
+- **Verdict**: REVISE-HARD — exposition near-flawless and citation-clean (all 8 refs verify per the reviewer), but the consciousness-selected-framework move is a framework-vs-outcome category error and the anti-MWI "ally" framing overshoots the article's own conceded conditionality.
+- **Extraction**: js-dom (walk() → Blob download; 24,084 chars)
+- **Claims verified**: 6 article-side claims checked directly against the live source — all confirmed (paraphrase-as-quotation "a handy calculational tool", ally-framing leads abstract/lead with conditionality deferred, tenet-leakage in description, consciousness-selected-framework slide, Kent 1997 absent, co-optation firewall respected).
+- **High-value findings**: 6 additive over the same-cycle ChatGPT triple (quote-fidelity fix, tenet-leakage purge, ally-framing reorder, Griffiths-2013 consciousness-rejection quote, GMH-2012 "one real fine-grained history", Wallace's Dowker–Kent-cuts-harder point). Central category error + Kent 1997 CONVERGE with ChatGPT 07-17 and the Map's own 07-09 pessimistic review.
+- **Tasks generated**: 0 new — CONSOLIDATED into the existing same-cycle P1 (CH article refine) and methodology P2 to avoid same-file pileup; both augmented with Claude's additive findings + convergence flags and now reference both review files.
 
 ## 2026-07-17T05:56:00+00:00 - outer-review
 - **Status**: Success
