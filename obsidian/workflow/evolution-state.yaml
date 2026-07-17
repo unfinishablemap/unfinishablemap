@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T19:18:21.809191+00:00'
-session_count: 16208
-cycle_position: 11300
+last_updated: '2026-07-17T19:22:22.269267+00:00'
+session_count: 16209
+cycle_position: 11301
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T16:26:57.030776+00:00'
   optimistic-review: '2026-07-17T17:35:51.467236+00:00'
   check-tenets: '2026-07-17T00:13:59.487078+00:00'
   check-links: '2026-07-17T14:51:14.696049+00:00'
-  deep-review: '2026-07-17T19:18:21.809191+00:00'
+  deep-review: '2026-07-17T19:22:22.269267+00:00'
   tune-system: '2026-07-17T00:23:50.450127+00:00'
   research-voids: '2026-07-17T14:55:17.563751+00:00'
   coalesce: '2026-07-17T18:35:41.740066+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 518
-  reviews_completed: 6523
+  reviews_completed: 6524
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-07-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-17'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-17'
   outcome: success
 - task: deep-review
@@ -1330,52 +1330,64 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T18:57:00+00:00'
-  last_replenishment_prev: '2026-07-17T18:45:00+00:00'
-  last_floor_restore_note_2026_07_17_staleness_quantum_measurement_subjective_probability_1825: 'Floor-restore
-    replenish 2026-07-17T1825Z (interactive agent /replenish-queue, conservative exact-floor
+  last_replenishment: '2026-07-17T19:26:00+00:00'
+  last_replenishment_prev: '2026-07-17T18:57:00+00:00'
+  last_floor_restore_note_2026_07_17_staleness_consciousness_and_social_understanding_1926: 'Floor-restore
+    replenish 2026-07-17T1926Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
-    single write (open P2 deep-reviews topics/cognitive-science-of-dualism [17:44Z]
-    + concepts/tenet-falsification-conditions [18:10Z]; the veto condense P2s composition-question-rivals
-    / meaning-of-life / phenomenal-output-causal-machinery-dissociation parser-excluded
-    [VETOED]; ~11 P3s + many-worlds / quantum-consciousness / quantum-biology / personal-identity
-    human-length-decisions do NOT count toward the floor of 3); == 3 after. Restores
-    MIN_QUEUE floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state;
-    all content sections AT CAP so loop can only cycle reviews/condense/positions;
-    NOT empty-queue deadlock). NO concurrent python evolve_loop (pgrep -af clean,
-    sole hit this replenish shell); clean tree; HEAD a66ccce4e pre-replenish tree-clean
-    marker -> loop own post-cycle replenish step (replenish-fork-hallucinates-concurrent-loop).
-    concurrent-replenish-race guard: revert redundant add if a sibling mint lands.
-    EIGHT-SOURCE AUDIT (live): chain none (BLOCKED, sections AT CAP); unconsumed_research
-    + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP; positions
-    8/80); orphan 0; length offenders all veto/human-deferred; positions audited 2026-07-16
-    (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4).
-    TARGET = topics/quantum-measurement-and-subjective-probability.md -- SECTION-DIVERSIFYING
-    topic (today drained P2s concept-heavy). ai_system claude-opus-4-5 (OLDEST cohort,
-    opus-4-8-de-prioritized exempt, highest unchecked citation-surface yield), ai_contribution
-    100, last_deep_review 2026-06-20T02:43, ai_modified 2026-06-20T14:25 = CHANGED-SINCE-REVIEW
-    (commit e364bd09e added reciprocal contextuality cross-links ~12h after the 02:43
-    review, unverified-by-deep-review). Higher-ranked scorer candidates DE-SELECTED:
-    evaluative-phenomenal-character (minted twice today + cyclepost mis-mark, tiny
-    06-22 drift), delegatory-causation (3548w over 3500 concepts hard ceiling, length
-    offender), the two already-open P2 slugs. NOT session-touched (git log --since
-    2026-07-17 empty), NOT open-queued (no File** header; 15 slug hits all checkmarked),
-    NOT vetoed (sole Vetoed-region hit is the DONE 2026-02-18 equivocation refine,
-    not an active veto). LENGTH 2501 body words = ok (topics soft 3000 / hard 4000)
-    -> clean length-neutral swap-in-place. VERIFY-JOB: PRIMARY lens = citation/quote-fidelity
-    on the QBism / Born-rule / subjective-probability surface (Tenet 2 + Tenet 4);
-    verify the 06-20 contextuality cross-links resolve + reciprocate, verify TITLE+venue
-    at primary publisher not author+year metadata, never delete on a false negative,
-    verbatim-check quotes at primary source not aggregators/own-page, watch mis-framed
-    conclusions, keep QBism/subjective-Bayesian framing framework-relative (evidential-status-discipline;
-    a subjective-Bayesian Born rule is a rival not probative for No-MWI). Standard
-    hygiene: preserve calibration hedges, EOF tool-tag scan, HOLD ai_system opus-4-5,
-    no-op after REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified to
-    HEAD / real fix bumps BOTH, date -u stamps not future-dated, do NOT flag Map self-cite
-    pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding). FIFO-placed
-    below the two open P2s (queue-lifo-starvation). Pruned the oldest floor-restore
-    note (affective_tone_ai_ensoulment_1728) to keep the most-recent 3 (bloat control,
-    zero logic dep).'
+    single write (open P2 deep-reviews concepts/bi-aspectual-ontology [18:45Z] + topics/consciousness-and-the-ownership-problem
+    [18:57Z]; the earlier quantum-measurement-and-subjective-probability [18:25Z] floor
+    mint has since DRAINED via a cycle deep-review slot this session; the veto condense
+    P2s composition-question-rivals / meaning-of-life / phenomenal-output-causal-machinery-dissociation
+    parser-excluded [VETOED]; ~11 P3s + many-worlds / quantum-consciousness / quantum-biology
+    / personal-identity human-length-decisions do NOT count toward the floor of 3);
+    == 3 after (post-mint count_p0_p2_tasks re-verified == 3). Restores MIN_QUEUE floor
+    2->3 (replenish-at-floor alternation, unfin_loop_steady_state; all content sections
+    AT CAP so loop can only cycle reviews/condense/positions; NOT empty-queue deadlock).
+    NO concurrent uv run python evolve_loop (pgrep -af sole hit was this replenish shell);
+    pre-existing evolution-state.yaml diff is benign cycle_post bookkeeping, NOT a
+    mid-flight replenish; HEAD 48cd72f3c. concurrent-replenish-race guard: revert redundant
+    add if a sibling mint lands. EIGHT-SOURCE AUDIT (live): chain none (BLOCKED, sections
+    AT CAP); unconsumed_research + gap BLOCKED (topics 320/320, concepts 320/320, voids
+    100/100 AT CAP; positions 8/80); orphan 0; length offenders all veto/human-deferred;
+    positions audited 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE
+    = staleness (Source 4) + CLUSTER-DIVERSITY. TARGET = topics/consciousness-and-social-understanding.md
+    -- damping-aware scorer get_review_candidates() ranks it 17.86; higher-ranked entries
+    DE-SELECTED: evaluative-phenomenal-character (20.80, churn/cyclepost mis-mark, tiny
+    06-22 drift), bi-aspectual-ontology (20.00) + consciousness-and-the-ownership-problem
+    (18.57) = the two already-open P2s, consciousness-and-probability-interpretation
+    (19.29, DIRECT cluster-sibling of the quantum-measurement review JUST completed
+    this session, would re-cluster quantum/probability work), delegatory-causation (19.20,
+    3548w over the 3500 concepts hard ceiling, length offender), the-binding-problem
+    (19.09, touched 07-16 by coalesce cycle + same-title ambiguity), philosophical-zombies
+    (18.71, touched 07-17 churn). Thematically DISTINCT from the two open quantum-ontology
+    / ownership P2s AND from the just-reviewed quantum-measurement -- the shared-intentionality
+    / theory-of-mind / mindreading page (Tenet 1 Dualism; secondary Tenet 3). ai_system
+    claude-opus-4-6+claude-opus-4-8 (partial older cohort, opus-4-8-de-prioritized exempt),
+    ai_contribution 100, last_deep_review 2026-06-22T07:45, ai_modified 2026-06-22T10:09
+    = CHANGED-SINCE-REVIEW same day (last body commit a5780cf08 pessimistic-review cycle
+    landed ~2.5h after the 07:45 review, unverified-by-deep-review); ~25d converged
+    since. NOT session-touched (git log --since 2026-07-15 empty), NOT open-queued (no
+    File** header; slug hits all checkmarked or inbound cross-link/expand mentions),
+    NOT vetoed. LENGTH 3629 body words = soft_warning (topics soft 3000 / hard 4000,
+    ~371w headroom) -> clean length-neutral swap-in-place, NOT condense. VERIFY-JOB:
+    PRIMARY lens = citation/quote-fidelity + link integrity; confirm the 06-22 pessimistic-review
+    touch landed cleanly, verify TITLE+venue at primary publisher not author+year metadata
+    (Tomasello 2014/2019 shared-intentionality, false-belief, Schilbach interaction-engine),
+    never delete on a false negative, verbatim-check quotes at primary source not aggregators/own-page,
+    watch mis-framed conclusions + verbatim-quote-to-wrong-work, confirm cross-links
+    resolve + reciprocate (problem-of-other-minds / consciousness-and-intersubjectivity
+    / metacognition; watch archived epistemology-of-other-minds + metarepresentation-threshold
+    retargets), keep the consciousness-adds-to-social-understanding claim framework-relative
+    (evidential-status-discipline; shared intentionality ILLUSTRATES not ESTABLISHES
+    dualism). Standard hygiene: preserve calibration hedges, EOF tool-tag scan, HOLD
+    ai_system opus-4-6+opus-4-8, no-op after REAL scrutiny bumps last_deep_review ONLY
+    + reverts ai_modified to HEAD / real fix bumps BOTH, date -u stamps not future-dated,
+    do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied,
+    no padding). FIFO-placed below the two open P2s (queue-lifo-starvation). Pruned
+    the drained quantum-measurement-and-subjective-probability floor-restore note (its
+    task reviewed this session) to keep the most-recent 3, one per open floor task (bloat
+    control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_consciousness_and_the_ownership_problem_1857: 'Floor-restore
     replenish 2026-07-17T1857Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
@@ -1471,11 +1483,14 @@ queue_status:
     satisfied, no padding). FIFO-placed below the two open P2s ([[queue-lifo-starvation]]).
     Pruned the oldest note (cognitive_science_of_dualism_1744) to keep the most-recent
     3 (bloat control, zero logic dep).'
-  last_floor_restore_target: deep-review topics/consciousness-and-the-ownership-problem.md
-    (staleness Source 4; real damping-aware scorer get_review_candidates() top CLEAN
-    untouched candidate at score 18.57; older-cohort opus-4-6, 26d stale, 2877w ok
-    length-neutral, changed-since-review via the 06-21 reciprocal cross-links landing
-    after the 00:00 review; thematically distinct from the two open quantum/ontology
+  last_floor_restore_target: deep-review topics/consciousness-and-social-understanding.md
+    (staleness Source 4; damping-aware scorer get_review_candidates() ranks it 17.86,
+    the cleanest CLUSTER-DIVERSIFYING pick after de-selecting the two open P2s, the
+    churn/over-ceiling/recently-touched higher-ranked candidates, and the just-reviewed
+    quantum-measurement cluster-sibling consciousness-and-probability-interpretation;
+    older-partial-cohort opus-4-6+opus-4-8, ~25d converged, 3629w soft_warning length-neutral,
+    changed-since-review via the 06-22 pessimistic-review cycle touching the body ~2.5h
+    after the 07:45 deep-review; thematically distinct from the two open quantum/ontology-ownership
     P2s. Interactive /replenish-queue, NOT concurrent-race.)
   replenishment_source_counts:
     staleness: 1
