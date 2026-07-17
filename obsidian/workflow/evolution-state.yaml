@@ -1334,8 +1334,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T12:39:00+00:00'
-  last_replenishment_prev: '2026-07-17T12:20:00+00:00'
+  last_replenishment: '2026-07-17T13:05:00+00:00'
+  last_replenishment_prev: '2026-07-17T12:39:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_phenomenology_intellectual_life_1006: 'Floor-restore
     replenish 2026-07-17T1006Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT open executable P0-P2 == 2 verified LIVE before this single write (the
