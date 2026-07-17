@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T02:21:58.838885+00:00'
-session_count: 16080
+last_updated: '2026-07-17T04:51:26.200439+00:00'
+session_count: 16081
 cycle_position: 11240
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-16T04:17:35.865857+00:00'
   refine-draft: '2026-07-17T02:12:29.297689+00:00'
   research-topic: '2026-07-16T15:24:58.971669+00:00'
-  replenish-queue: '2026-07-17T01:57:48.475249+00:00'
+  replenish-queue: '2026-07-17T04:51:26.200439+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-16T08:04:03.319681+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-17T00:07:16.413448+00:00'
+last_git_push: '2026-07-17T04:51:26.667563+00:00'
 last_tweet_date: '2026-07-16'
 content_stats:
   total_files: 297
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-07-17'
-  outcome: success
 - task: tune-system
   type: tune-system
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1351,31 +1351,32 @@ queue_status:
     replenish 2026-07-17T0447Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(content) == 2 verified
     LIVE before this single write (the two open P2 deep-reviews topics/forward-in-time-vs-time-symmetric-selection
-    + voids/question-formation-void; #veto condense P2s parser-excluded; ~9 P3s + human-deferred
-    length-decision tasks do NOT count toward the floor of 3); == 3 verified after.
-    MIN_QUEUE floor 3 unmet by 1, restores 2 to 3. NO concurrent evolve_loop.py (ps
-    -ef grep empty at write; loop auto-commits were live earlier this cycle -- expected
-    replenish-at-floor alternation, unfin_loop_steady_state); clean tree; HEAD 18c512733.
-    concurrent-replenish-race guard: revert the redundant add if a sibling/loop mint
-    lands. EIGHT-SOURCE AUDIT (live): chain none (chains BLOCKED, sections AT CAP);
-    unconsumed_research + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100
-    all AT CAP; positions 8/80); orphan 0; length veto/human-deferred; positions audit
-    ran 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness
-    (Source 4). SESSION-STEERING PRIMARY SEAM (stale internal quotes, apex-stale-internal-quote-channel)
-    searched corpus-wide and CONFIRMED NO DRIFT -- three genuine internal-quote-attribution
-    candidates (interventionist-and-counterfactual-dualism->trumping-preemption; one-structure-three-vocabularies->delegatory-dualism;
-    valence-and-conscious-selection->valence) all verify FAITHFUL (quoted strings still
-    present verbatim in the current sibling, incl. the interventionist->trumping quote
-    whose sibling WAS rewritten 07-16 after the 07-15 review but preserved the elided
-    quote). No stale quote identifiable -> honest strict-oldest fall-back per steering.
-    MINTED 1 P2 deep-review concepts/physics-as-disclosure.md -- the strict-oldest CLEANLY-converged
-    non-session-touched, non-queued concept, chosen in concepts/ for SECTION DIVERSITY
-    (both open P2s are a topic + a void). last_deep_review == ai_modified == 2026-06-06T00:30:18
-    (41-day settled gap, git-untouched since 06-06 commit d53dc25dc, NOT session-touched),
-    ai_contribution 100, ai_system claude-opus-4-7, 2065 body words via analyze_length
-    = ok (concepts soft 2500 -> clean deep-review NOT condense). Same-date sibling rational-normativity
-    REJECTED (git-touched 07-12, not cleanly converged). HONESTLY FLAGGED PROBABLE-NO-OP
-    / LOW yield: 4 prior review files + git-untouched since its 06-06 converged pass
+    + voids/question-formation-void; #veto condense P2s parser-excluded; ~9 P3s +
+    human-deferred length-decision tasks do NOT count toward the floor of 3); == 3
+    verified after. MIN_QUEUE floor 3 unmet by 1, restores 2 to 3. NO concurrent evolve_loop.py
+    (ps -ef grep empty at write; loop auto-commits were live earlier this cycle --
+    expected replenish-at-floor alternation, unfin_loop_steady_state); clean tree;
+    HEAD 18c512733. concurrent-replenish-race guard: revert the redundant add if a
+    sibling/loop mint lands. EIGHT-SOURCE AUDIT (live): chain none (chains BLOCKED,
+    sections AT CAP); unconsumed_research + gap BLOCKED (topics 320/320, concepts
+    320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length veto/human-deferred;
+    positions audit ran 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap.
+    SOURCE = staleness (Source 4). SESSION-STEERING PRIMARY SEAM (stale internal quotes,
+    apex-stale-internal-quote-channel) searched corpus-wide and CONFIRMED NO DRIFT
+    -- three genuine internal-quote-attribution candidates (interventionist-and-counterfactual-dualism->trumping-preemption;
+    one-structure-three-vocabularies->delegatory-dualism; valence-and-conscious-selection->valence)
+    all verify FAITHFUL (quoted strings still present verbatim in the current sibling,
+    incl. the interventionist->trumping quote whose sibling WAS rewritten 07-16 after
+    the 07-15 review but preserved the elided quote). No stale quote identifiable
+    -> honest strict-oldest fall-back per steering. MINTED 1 P2 deep-review concepts/physics-as-disclosure.md
+    -- the strict-oldest CLEANLY-converged non-session-touched, non-queued concept,
+    chosen in concepts/ for SECTION DIVERSITY (both open P2s are a topic + a void).
+    last_deep_review == ai_modified == 2026-06-06T00:30:18 (41-day settled gap, git-untouched
+    since 06-06 commit d53dc25dc, NOT session-touched), ai_contribution 100, ai_system
+    claude-opus-4-7, 2065 body words via analyze_length = ok (concepts soft 2500 ->
+    clean deep-review NOT condense). Same-date sibling rational-normativity REJECTED
+    (git-touched 07-12, not cleanly converged). HONESTLY FLAGGED PROBABLE-NO-OP /
+    LOW yield: 4 prior review files + git-untouched since its 06-06 converged pass
     (deep_review_over_reviews_converged); a metadata-only no-op verdict is acceptable
     and EXPECTED, do NOT manufacture defects. CANDIDATE verify-targets phrased verify-don''t-presume:
     TITLE+venue-check any named cite (watch Phil Sci DOI form), cross-links resolve+reciprocate,

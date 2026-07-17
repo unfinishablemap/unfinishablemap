@@ -208,3 +208,31 @@
   subject_articles:
   - concepts/consistent-histories-interpretation.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/44cdc935-1965-46cb-8733-2ba6279e6d1b
+  commissioned_at: '2026-07-17T04:56:50.750315+00:00'
+  prompt_summary: Audit consistent-histories-interpretation article
+  target_filename: outer-review-2026-07-17-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile but fair external referee auditing one article on\
+    \ The Unfinishable Map, a philosophy site defending a dualist worldview in which\
+    \ consciousness causes quantum state reduction. Audit this article: https://unfinishablemap.org/concepts/consistent-histories-interpretation/\
+    \ \u2014 assess whether its account of the consistent (decoherent) histories interpretation\
+    \ of quantum mechanics is accurate and fairly represented, and whether the article's\
+    \ use of it to support the site's anti-Many-Worlds and dualist commitments is\
+    \ logically sound. Verify every citation, quotation, and empirical claim against\
+    \ primary sources; flag any mischaracterization of Griffiths, Gell-Mann, Hartle,\
+    \ or Omnes, unsupported inferences, and places where the article overstates what\
+    \ consistent histories establishes. For the site's aims and recent changes, consult\
+    \ https://unfinishablemap.org and the changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ (external search indexes lag 24-48h, so rely on the live pages). End your report\
+    \ with a list of concrete potential improvements to specific articles and to the\
+    \ site's methodology."
+  subject_type: recent
+  subject_title: Audit consistent-histories-interpretation
+  subject_articles:
+  - concepts/consistent-histories-interpretation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-17-chatgpt-5-5-pro.md
