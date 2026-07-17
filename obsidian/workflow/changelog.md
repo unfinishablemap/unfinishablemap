@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17T11:23:54+00:00
+ai_modified: 2026-07-17T11:35:46+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-17T11:35:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/introspection]]
+- **Word count**: 3505 → 3496 (-9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (length-neutral offset)
+- **Enhancements made**: 0
+- **Notes**: Changed-since-review verification (16th review; content-converged). Only change since 2026-06-18 was the 2026-07-11 citation correction Maniscalco & Lau → Ko, Y. & Lau, H. (2012). Web-verified at publisher of record: **real-correct** (Royal Society, DOI 10.1098/rstb.2011.0380; PubMed 22492756; *Phil. Trans. R. Soc. B* 367(1594):1401-1411 — all elements match). The longer replacement title pushed the body 5 words over the 3500 concepts hard ceiling un-offset; trimmed a redundant two-sentence recap in "What This Means" that duplicated the lead ("Training correlates with improved accuracy. Rigorous methods reduce confabulation.") — zero content loss, body now 3496w under ceiling. All five prior pessimistic issues (blindsight reading, illusionism Mode-Three boundary, MWI non-discrimination, choice-blindness concurrent/retrospective qualifier, Sperling/Block split) re-confirmed resolved in-body. Engagements unchanged: illusionism Mixed (Mode Two→Three), heterophenomenology Mode Three; no label leakage. Left ai_system at claude-opus-4-7 (trivial trim, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-17-introspection]]
 
 ## 2026-07-17T11:23:54+00:00 - deep-review
 - **Status**: Success
