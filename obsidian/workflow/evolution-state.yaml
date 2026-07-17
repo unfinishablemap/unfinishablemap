@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T21:17:46.964787+00:00'
-session_count: 16225
-cycle_position: 11307
+last_updated: '2026-07-17T21:21:38.995791+00:00'
+session_count: 16226
+cycle_position: 11308
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T16:26:57.030776+00:00'
   optimistic-review: '2026-07-17T17:35:51.467236+00:00'
   check-tenets: '2026-07-17T20:16:04.965067+00:00'
   check-links: '2026-07-17T14:51:14.696049+00:00'
-  deep-review: '2026-07-17T21:17:46.964787+00:00'
+  deep-review: '2026-07-17T21:21:38.995791+00:00'
   tune-system: '2026-07-17T00:23:50.450127+00:00'
   research-voids: '2026-07-17T14:55:17.563751+00:00'
   coalesce: '2026-07-17T18:35:41.740066+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 518
-  reviews_completed: 6530
+  reviews_completed: 6531
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-17'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-17'
   outcome: success
 - task: deep-review
@@ -1326,83 +1326,12 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 84
+  p2_tasks: 85
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T21:06:00+00:00'
-  last_replenishment_prev: '2026-07-17T20:51:00+00:00'
-  last_floor_restore_note_2026_07_17_staleness_metaphysics_of_information_under_dualism_2032: 'Floor-restore
-    replenish 2026-07-17T2032Z (interactive agent /replenish-queue, conservative exact-floor
-    +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
-    single write (the two open P2 deep-reviews concepts/islamic-sufi-philosophy-of-consciousness
-    + concepts/african-philosophy-of-consciousness; the earlier social-understanding
-    / ownership / bi-aspectual / quantum-measurement floor mints have DRAINED via
-    cycle deep-review slots this session, social-understanding at commit 8906105d2
-    20:07Z; the veto-listed condense P2s composition-question-rivals / meaning-of-life
-    / phenomenal-output-causal-machinery-dissociation parser-excluded; ~14 P3s + many-worlds
-    / quantum-consciousness / quantum-biology / personal-identity human-length-decisions
-    do NOT count toward the floor of 3); == 3 after (post-mint count_p0_p2_tasks re-verified
-    == 3). Restores MIN_QUEUE floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state;
-    all content sections AT CAP so loop can only cycle reviews/condense/positions;
-    NOT empty-queue deadlock). NO concurrent evolve_loop at write time: pgrep -af
-    evolve_loop and ps aux both empty; the loop that produced the dense 19:45-20:16Z
-    auto-commits STOPPED at 20:16 (16min before this write); the single pgrep hit
-    was this shell own command line self-matching the string (replenish-fork-hallucinates-concurrent-loop).
-    Pre-existing evolution-state.yaml diff is benign cycle_post bookkeeping, NOT a
-    mid-flight replenish; HEAD a565bd2e0. concurrent-replenish-race guard: revert
-    redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT (live): chain = this
-    IS a Source-1 cross-review successor of the 2026-07-13 neutral-monism expand (commit
-    e2625487b) that added an inbound Proximity-to-neutral-monism cross-link here after
-    the 06-27 review; other generative sources BLOCKED (topics 320/320, concepts 320/320,
-    voids 100/100 AT CAP; positions 8/80 and audited 2026-07-16 under 30d); orphan
-    0; length offenders all veto/human-deferred; no applied-apex-gap. SOURCE = staleness
-    (Source 4) + Source-1 chain + CLUSTER-DIVERSITY. TARGET = concepts/metaphysics-of-information-under-dualism.md
-    via the real damping-aware scorer get_review_candidates(). DE-SELECTED all higher
-    and same-tier no-ops after per-candidate live verification: evaluative-phenomenal-character
-    (churn/cyclepost target); the two already-open P2s; the session already-reviewed
-    no-ops (tenet-falsification-conditions, terminal-lucidity, quantum-measurement-and-subjective-probability,
-    bi-aspectual-ontology, consciousness-and-the-ownership-problem, consciousness-and-social-understanding);
-    consciousness-and-probability-interpretation + collapse-and-time + the-psychophysical-control-law
-    (quantum cluster-siblings of the just-reviewed quantum-measurement, re-cluster
-    risk); time-collapse-and-agency (4606w OVER the 4000 topics hard ceiling, over-ceiling);
-    the-binding-problem + attention-schema-theory (over/near-ceiling + same-title
-    ambiguity); philosophical-zombies + bergson-and-duration (session-touched today
-    07-17); indigenous-australian + hylomorphic-dualism (opus-4-8 de-prioritized cohort,
-    freshly reviewed 11d); and skill-acquisition, hoel-llm, indian-philosophy-of-mind,
-    phenomenology-of-cognitive-capacity/limit-types = VERIFIED NO-OPS (each carries
-    a recent full publisher-of-record web-verify ledger declaring a verified-baseline
-    / convergence-damping candidate, deep_review_over_reviews_converged). metaphysics-of-information
-    is the cleanest surviving pick with a GENUINE UNCHECKED delta: ai_system claude-opus-4-6
-    (older cohort), ai_contribution 100, last_deep_review 2026-06-27 was a metadata-only
-    converged verdict (5 citations re-verified, body unchanged since 05-01), then
-    body commit e2625487b 2026-07-13 auto expand-topic neutral-monism landed a NEW
-    Proximity-to-neutral-monism cross-link + framing paragraph = CHANGED-SINCE-REVIEW,
-    unverified by any deep-review. Thematically DISTINCT (information-metaphysics
-    / monist-boundary: Shannon / Landauer / Chalmers double-aspect) from both non-Western
-    opens AND from the session quantum work. NOT session-touched (git log --since
-    2026-07-17 00:00 empty), NOT open-queued (0 open File header for this slug in
-    Active region), NOT vetoed. LENGTH 2814 body words = soft_warning (concepts soft
-    2500 / hard 3500, ~686w headroom under hard) -> clean length-neutral swap-in-place,
-    NOT condense. VERIFY-JOB: PRIMARY lens = cross-review the 07-13 neutral-monism
-    delta (confirm the Proximity-to-neutral-monism cross-link + the dualism-collapses-into-neutral-monism
-    framing still track the now-fleshed-out concepts/neutral-monism.md and do not
-    misframe the rival; confirm link resolves + reciprocates); secondary = named-thinker
-    attribution fidelity (the Shannon 1948 semantic-aspects quote was ALREADY verbatim-verified
-    in the 06-01 + 06-27 ledgers, do NOT re-litigate; DO verify the Chalmers double-aspect-theory-of-information
-    coinage and the Landauer erasure framing at the primary source not aggregators/own-page;
-    de-quote any paraphrase-as-quote), keep information-as-fundamental framework-relative
-    (evidential-status-discipline, the 06-27 double-edged mandate: information-being-fundamental
-    does NOT specifically favour dualism, no possibility to probability slippage).
-    Standard hygiene: preserve calibration hedges, no banned cliche, EOF tool-tag
-    scan, HOLD ai_system opus-4-6, no-op after REAL scrutiny bumps last_deep_review
-    ONLY + reverts ai_modified to HEAD / real fix bumps BOTH, date -u stamps not future-dated,
-    do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied,
-    no padding). FIFO-placed below the two open P2s (queue-lifo-starvation). Pruned
-    the drained consciousness-and-social-understanding floor-restore note (its task
-    reviewed this session via a cycle slot at commit 8906105d2) to keep exactly 3,
-    one per open floor task -- islamic-sufi, african, metaphysics-of-information (bloat
-    control, zero logic dep).'
+  last_replenishment: '2026-07-17T21:24:00+00:00'
+  last_replenishment_prev: '2026-07-17T21:06:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_pairing_problem_2106: 'Floor-restore
     replenish 2026-07-17T2106Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
@@ -1486,15 +1415,18 @@ queue_status:
     this session via a cycle slot at HEAD 441612fb6) to keep exactly 3, one per open
     floor task -- metaphysics-of-information, the-convergence-argument, pairing-problem
     (bloat control, zero logic dep).'
-  last_floor_restore_target: deep-review concepts/pairing-problem.md (staleness Source
-    4 + CLUSTER-DIVERSITY; real damping-aware scorer get_review_candidates ranks it
-    16.43; the cleanest surviving pick with a genuine unchecked BODY delta (the 07-12
-    Hasker emergent-dualism sentence + wikilink after the 06-24 review) and a never-ledgered
-    Kim / Bailey-Rasmussen-Van-Horn / Hasker / Zimmerman / Jahn-and-Dunne citation
+  last_floor_restore_target: deep-review concepts/substrate-independence.md (staleness
+    Source 4 + CLUSTER-DIVERSITY; real damping-aware scorer get_review_candidates
+    ranks it 15.71; the cleanest surviving pick with a git-verified genuine unreviewed
+    BODY delta (the 07-12 Gradual-replacement-intuitions paragraph engaging Chalmers
+    organizational-invariance fading/dancing-qualia, answered by the Map grain-dispute,
+    landed 17d after the 06-25 review) and a never-ledgered oldest-cohort opus-4-5
+    Putnam/Block/Searle/Chalmers/Hoel-2026/Milinkovic-Aru-2026/Santander-2025 citation
     surface, after DE-SELECTing the churn/no-op/over-ceiling/opus-4-8/already-open/already-reviewed
-    higher-ranked entries; oldest-cohort opus-4-5, thematically distinct from the
-    information-metaphysics + convergence-argument opens and the session quantum /
-    non-Western theory-of-mind work.)
+    higher-ranked entries incl attention-schema-theory (genuine 07-12 Prinz/AIR
+    delta too but 3583w hard_warning over the concepts hard ceiling = condense tension);
+    thematically distinct from the convergence-argument + pairing-problem opens
+    and the session quantum / non-Western theory-of-mind work.)
   last_floor_restore_note_2026_07_17_staleness_the_convergence_argument_for_dualism_2051: 'Floor-restore
     replenish 2026-07-17T2051Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
@@ -1552,6 +1484,79 @@ queue_status:
     the drained islamic-sufi floor-restore note (its task reviewed this session) to
     keep exactly 3, one per open floor task -- african, metaphysics-of-information,
     the-convergence-argument (bloat control, zero logic dep).'
+  last_floor_restore_note_2026_07_17_staleness_substrate_independence_2124: 'Floor-restore
+    replenish 2026-07-17T2124Z (interactive agent /replenish-queue, conservative
+    exact-floor +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE
+    before this single write (the two open P2 deep-reviews topics/the-convergence-argument-for-dualism
+    [20:51Z] + concepts/pairing-problem [21:06Z], both prior floor-restore mints
+    not yet drained; the earlier metaphysics-of-information / african / islamic-sufi
+    / social-understanding / ownership / bi-aspectual / quantum-measurement floor
+    mints have all DRAINED via cycle deep-review slots this session; veto condense
+    P2s composition-question-rivals / meaning-of-life / phenomenal-output-causal-machinery-dissociation
+    parser-excluded [VETOED]; ~14 P3s + many-worlds / quantum-consciousness / quantum-biology
+    / personal-identity human-length-decisions do NOT count toward the floor of
+    3); == 3 after (post-mint count_p0_p2_tasks re-verified == 3). Restores MIN_QUEUE
+    floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state; all content
+    sections AT CAP so loop can only cycle reviews/condense/positions; NOT empty-queue
+    deadlock). NO concurrent evolve_loop process at write time (pgrep -af evolve_loop.py
+    empty, sole hit this shell self-match); pre-existing uncommitted evolution-state.yaml
+    diff is benign cycle_post bookkeeping, NOT a mid-flight replenish; HEAD 19ad0655a.
+    concurrent-replenish-race guard: revert redundant add if a sibling mint lands.
+    EIGHT-SOURCE AUDIT (live): chain = this IS a Source-1 cross-review successor
+    of the 07-12 organizational-invariance cross-review (commit 2693153e0) that
+    added a NEW Gradual-replacement-intuitions body paragraph + organizational-invariance
+    cross-link into the target after its 06-25 review; unconsumed_research + gap
+    BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP; positions 8/80);
+    orphan 0; length offenders all veto/human-deferred; positions audited 2026-07-16
+    (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4)
+    + CLUSTER-DIVERSITY. TARGET = concepts/substrate-independence.md via the real
+    damping-aware scorer get_review_candidates (ranked 15.71), ai_system claude-opus-4-5-20251101
+    (OLDEST cohort), ai_contribution 100, last_deep_review 2026-06-25T12:30; post-review
+    body commit NEVER deep-reviewed: 2693153e0 2026-07-12T07:25 added the Gradual-replacement-intuitions
+    paragraph (Chalmers organizational-invariance fading/dancing-qualia answered
+    by the Map grain-dispute) = CHANGED-SINCE-REVIEW, genuinely unreviewed delta
+    (git-verified the earlier substrate-taxonomy paragraph aa5102673 landed 06-25T10:15
+    BEFORE the 12:30 review so is already-reviewed, NOT the delta). Higher-ranked
+    entries DE-SELECTED: evaluative-phenomenal-character (20.8 churn/cyclepost),
+    delegatory-causation (20.0 over the 3500 concepts hard ceiling + open trumping
+    refine tasks target it), the-binding-problem + grain-mismatch pair (session-touched
+    07-16 coalesce + same-title ambiguity), philosophical-zombies + bergson-and-duration
+    (session-touched 07-17), indigenous-australian + hylomorphic + philosophy-of-action
+    (opus-4-8 de-prioritized, fresh 11d), hoel-llm + phenomenology-of-cognitive-capacity/limit-types
+    + skill-acquisition (VERIFIED NO-OPS, prior web-verify ledgers), the-psychophysical-control-law
+    + time-collapse-and-agency (quantum cluster-sibling / over-ceiling), attention-schema-theory
+    (16.77, has a genuine 07-12 Prinz/AIR delta too BUT 3583w hard_warning over
+    the 3500 concepts hard ceiling = condense-vs-deep-review tension; substrate-independence
+    is the cleaner length-OK sibling), plus the two already-open P2s (convergence-argument,
+    pairing-problem) and the session already-reviewed no-ops (tenet-falsification-conditions,
+    terminal-lucidity, quantum-measurement-and-subjective-probability, bi-aspectual-ontology,
+    ownership-problem, social-understanding, islamic-sufi, african, probability-interpretation,
+    metaphysics-of-information -- do NOT re-mint). LENGTH 3250 body words = soft_warning
+    (concepts soft 2500 / hard 3500, ~250w headroom under hard) -> length-neutral
+    swap-in-place, cut-to-offset any addition, NOT a condense task. NOT session-touched
+    (git log since 2026-07-15 empty for this file), NOT open-queued (0 open non-tick
+    File header; the line-668 hit is a tick RESOLVED-OBSOLETE 06-05 item), NOT vetoed.
+    VERIFY-JOB: PRIMARY lens = cross-review the 07-12 Gradual-replacement delta
+    (Chalmers organizational-invariance framed fairly, grain-dispute reply framework-relative,
+    no possibility->probability slippage; wikilink resolves + reciprocates) + a
+    FIRST verbatim/publisher pass on the never-ledgered oldest-cohort citation surface
+    (Putnam 1967, Block 1978, Searle 1980 BBS 3(3):417-457, Chalmers 1996, and currency-sensitive
+    Hoel 2026 arXiv:2512.12802, Milinkovic and Aru 2026 Neurosci Biobehav Rev 181:106524,
+    Santander et al. 2025 PNAS 122(43):e2520190122 DOI 10.1073/pnas.2520190122 senior-author/Gazzaniga
+    framing, Tallis 2024 Philosophy Now) at the primary publisher NOT author+year
+    metadata NOR unfinishablemap.org / aggregators (circular); never delete a real
+    source on a false negative; de-quote paraphrase-as-quote; watch empirical-record
+    currency drift and a real cite whose conclusion the article mis-frames; all
+    wikilinks resolve + key machine-consciousness-cluster ones reciprocate. Standard
+    hygiene: preserve calibration hedges, no banned This-is-not-X-it-is-Y cliche,
+    EOF tool-tag scan, HOLD ai_system opus-4-5, no-op after REAL scrutiny bumps
+    last_deep_review ONLY + reverts ai_modified to HEAD / real fix bumps BOTH, date
+    -u stamps not future-dated, do NOT flag Map self-cite pseudonyms. POST-COUNT
+    == 3 (floor exactly satisfied, no padding). FIFO-placed below the two open P2s
+    (queue-lifo-starvation), header at todo.md line 133 (>126). Pruned the drained
+    metaphysics-of-information floor-restore note (its task reviewed this session
+    via a cycle slot) to keep exactly 3, one per open floor task -- the-convergence-argument,
+    pairing-problem, substrate-independence (bloat control, zero logic dep).'
   replenishment_source_counts:
     staleness: 1
   run_739_pickable_p0_p2: 3
