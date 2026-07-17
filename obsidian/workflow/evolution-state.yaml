@@ -1330,8 +1330,47 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T14:14:03+00:00'
-  last_replenishment_prev: '2026-07-17T13:56:39+00:00'
+  last_replenishment: '2026-07-17T14:30:17+00:00'
+  last_replenishment_prev: '2026-07-17T14:14:03+00:00'
+  last_floor_restore_note_2026_07_17_staleness_meaning_void_1430: 'Floor-restore
+    replenish 2026-07-17T1430Z (interactive agent /replenish-queue, conservative exact-floor
+    +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before the single
+    write (open P2s topics/the-interface-problem + topics/responsibility-gradient-from-attentional-capacity;
+    the 14:14Z run reached 3 but one P2 drained since); == 3 after. MIN_QUEUE floor
+    3 unmet by 1, restores 2 to 3 (replenish-at-floor alternation, unfin_loop_steady_state
+    -- all content sections AT CAP so the loop only cycles reviews/condense/positions
+    and replenish keeps restoring the floor). NOT a concurrent-loop conflict (pgrep
+    -af evolve_loop.py empty; clean tree; HEAD 8a8c1f09e pre-replenish tree-clean marker
+    -- decided on merits, replenish-fork-hallucinates-concurrent-loop); concurrent-replenish-race
+    guard: revert the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT (live):
+    chain/unconsumed_research/gap all BLOCKED (topics 320/320, concepts 320/320, voids
+    100/100 AT CAP; positions 8/80); orphan 0; length veto/human-deferred; positions
+    audited 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness
+    (Source 4) + SECTION-DIVERSITY REBALANCE (both open P2s are topics, so this mint
+    prefers a void). MINTED 1 P2 deep-review voids/meaning-void.md -- largest clean
+    settled gap in pool: ai_system claude-opus-4-7 (opus-4-8-deprioritized exempt),
+    ai_contribution 100, last_deep_review == ai_modified == 2026-06-03T02:37:42 (44d
+    gap, converged/untouched since its own review; lastcommit 2026-06-03 confirms zero
+    git drift; the two older-gap-mate voids what-voids-reveal/recognition-void EXCLUDED
+    as git-touched 2026-07-16 churn risk). COALESCED article (intentionality-void +
+    semantic-void, merged 2026-04-26) with ~7 named cites (Brentano/Frege/Searle/Horgan/Tienson/Chalmers/Nagel),
+    53 quoted strings, 47 wikilinks. LENGTH 2081 body words via analyze_length = soft_warning
+    (voids soft 2000/hard 3000 -> clean deep-review NOT condense; ~900w headroom, length-neutral).
+    VERIFY-JOB let the fork discover any real defect (replenish-asserted-concrete-defect-often-false):
+    PRIMARY lens quote/citation-fidelity + wikilink reciprocity -- verbatim-check attributed
+    quotes (esp Horgan & Tienson 2002) at the primary publisher NOT an aggregator or
+    unfinishablemap.org (circular), verify cited papers by TITLE+venue, never delete
+    a real source on a false negative, watch coalesced/archived link retargets and
+    stale in-quote channels, preserve the aboutness-gap/semantic-gap partition. NOT
+    session-touched, NOT open-queued (only completed deep-review + condense tasks reference
+    it), NOT vetoed (lone Vetoed hit is the completed 2026-05-19 condense). Standard
+    hygiene: keep VOID apophatic/framework-relative not proven-dualism, HOLD ai_system
+    opus-4-7, no-op after REAL scrutiny bumps last_deep_review ONLY / real fix bumps
+    BOTH, date -u stamps not future-dated, EOF tool-tag scan, do NOT flag Map self-cite
+    pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding). BOTTOM-inserted
+    below the two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore
+    note (surprise_prediction_error_1220) to keep the most-recent 3 (bloat control,
+    zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_responsibility_gradient_1414: 'Floor-restore
     replenish 2026-07-17T1414Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this single write (open
@@ -1368,38 +1407,6 @@ queue_status:
     two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note
     (phenomenology_intellectual_life_1006) to keep the most-recent 3 (bloat control,
     zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_surprise_prediction_error_1220: 'Floor-restore
-    replenish 2026-07-17T1220Z (loop replenish step, conservative exact-floor +1).
-    AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 LIVE before the single write (open
-    P2s concepts/psychophysical-laws + concepts/possibility-probability-slippage;
-    the earlier open P2 topics/q3-q4-sliding-boundary drained by the 12:18Z cycle-slot
-    deep-review); == 3 after. MIN_QUEUE floor 3 unmet by 1, restores 2 to 3 (replenish-at-floor
-    alternation, unfin_loop_steady_state). I AM the current loop own post-cycle replenish
-    (HEAD c4201c276 pre-replenish tree-clean marker; no separate evolve_loop.py process)
-    -- decided on merits, not a hallucinated 2nd loop (replenish-fork-hallucinates-concurrent-loop);
-    concurrent-replenish-race guard: revert the redundant add if a sibling mint lands.
-    EIGHT-SOURCE AUDIT (live): chain/unconsumed_research/gap all BLOCKED (topics 320/320,
-    concepts 320/320, voids 100/100 AT CAP; positions 8/80); orphan 0; length veto/human-deferred;
-    positions audited 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE
-    = staleness (Source 4) + SECTION-DIVERSITY REBALANCE (both open P2s are concepts,
-    so this mint prefers a topic). MINTED 1 P2 deep-review topics/surprise-prediction-error-and-consciousness.md
-    -- oldest non-rejected topic review gap: ai_system claude-opus-4-6 (opus-4-8-deprioritized
-    exempt), ai_contribution 100, last_deep_review 2026-06-14 (33d gap), ai_modified
-    2026-06-14 == converged/untouched since its own review (metadata no-op is an acceptable
-    EXPECTED outcome; deep_review_over_reviews_converged). LENGTH 3661 body words
-    via analyze_length = soft_warning (topics soft 3000/hard 4000 -> clean deep-review
-    NOT condense; length-neutral). VERIFY-JOB let the fork discover any real defect
-    (replenish-asserted-concrete-defect-often-false): verify cited papers by TITLE+venue
-    at primary publisher NOT author+year; a WebSearch top-hit on unfinishablemap.org
-    or an aggregator is circular; verbatim-check any quote at the publisher. Watch
-    the lead phenomenal-absence over-claim (keep framework-relative, expand-topic-lead-overclaims-phenomenal-absence).
-    NOT session-touched (no commits since 06-14), NOT queued (todo slug hits are cross-links/completed),
-    NOT vetoed. Standard hygiene: HOLD ai_system, no-op after REAL scrutiny bumps
-    last_deep_review ONLY / real fix bumps BOTH, date -u stamps not future-dated,
-    EOF tool-tag scan, do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor
-    exactly satisfied). BOTTOM-inserted below the two open P2s (queue-lifo-starvation
-    guard). Pruned the oldest floor-restore note (mapping_mind_space_0914) to keep
-    the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_epistemology_of_mechanism_1239: 'Floor-restore
     replenish 2026-07-17T1239Z (conservative exact-floor +1). AUTHORITATIVE PRE-COUNT
     count_p0_p2_tasks == 2 verified LIVE (open P2s possibility-probability-slippage
