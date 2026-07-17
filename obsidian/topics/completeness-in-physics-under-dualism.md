@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-27
 last_curated:
-last_deep_review: 2026-06-22T14:34:50+00:00
+last_deep_review: 2026-07-17T15:44:53+00:00
 ---
 
 The completeness of physics is the strongest argument against dualism—and, when examined carefully, one of the strongest arguments for it. The standard objection runs: physics is causally complete, leaving no gap for non-physical causes, so consciousness must be physical or epiphenomenal. The Unfinishable Map reverses the inference. Physics is structurally complete—nothing structural is missing—yet ontologically partial, silent on which quantum outcome becomes actual and on why there is something it is like to be a conscious system. On the Map's reading the gap this silence opens is no temporary one awaiting future physics but a feature of what physical description *is*, and precisely the space where consciousness operates. That the gap is permanent rather than provisional is an inference the Map argues from its tenets, not an interpretation-neutral result: rival interpretations treat the same silence differently, and consistent histories in particular denies there is any further fact about actuality left to explain.
