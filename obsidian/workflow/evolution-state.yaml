@@ -1329,8 +1329,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T10:06:00+00:00'
-  last_replenishment_prev: '2026-07-17T09:45:00+00:00'
+  last_replenishment: '2026-07-17T11:05:00+00:00'
+  last_replenishment_prev: '2026-07-17T10:06:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_mapping_mind_space_0914: 'Floor-restore
     replenish 2026-07-17T0914Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(content) == 2 verified
