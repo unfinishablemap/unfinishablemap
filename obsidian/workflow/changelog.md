@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T22:16:19+00:00
+ai_modified: 2026-07-17T00:12:42+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-17T00:12:42+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 107 delta (topics/concepts/positions modified since 2026-07-15) + full-corpus red-flag greps (321+321+9)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [[reviews/tenet-check-2026-07-17]]
 
 ## 2026-07-16T23:54:03+00:00 - deep-review
 - **Status**: Success
