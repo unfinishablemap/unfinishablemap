@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T07:51:30.735535+00:00'
-session_count: 16105
-cycle_position: 11252
+last_updated: '2026-07-17T07:56:57.410313+00:00'
+session_count: 16106
+cycle_position: 11253
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T02:02:12.752919+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-07-17T04:57:36.326296+00:00'
   commission-gemini-review: '2026-07-17T05:04:54.772697+00:00'
   refine-draft: '2026-07-17T07:39:32.823803+00:00'
-  research-topic: '2026-07-16T15:24:58.971669+00:00'
+  research-topic: '2026-07-17T07:56:57.410313+00:00'
   replenish-queue: '2026-07-17T04:51:26.200439+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
@@ -91,7 +91,7 @@ progress:
   questions_written: 0
   voids_written: 100
   positions_written: 8
-  research_notes: 517
+  research_notes: 518
   reviews_completed: 6482
   apex_articles: 39
 quality:
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-07-17'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-17'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-07-17'
   outcome: success
 agentic_social:

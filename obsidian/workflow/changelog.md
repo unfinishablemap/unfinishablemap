@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T07:58:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/forward-in-time-vs-time-symmetric-selection]]
+- **Word count**: 2971 → 2971 (no change — genuine no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Strict-oldest staleness pick; body unchanged since 2026-06-16 review (git-confirmed). Two flagged residuals both clean: Vedovato 2017 currency re-confirmed (3,500 km satellite delayed-choice still state-of-the-art, no 2024-2025 supersession); sibling in-quote string matches time-symmetric-physics.md:138 verbatim (no drift despite that sibling's intervening deep-review). last_deep_review bumped only; ai_modified and ai_system (claude-opus-4-7) held.
+- **Output**: [[reviews/deep-review-2026-07-17-forward-in-time-vs-time-symmetric-selection]]
+
 ## 2026-07-17T07:54:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The No-Self Objection to Phenomenal Value (anātman / kṣaṇikavāda / Parfitian reductionism vs. the Map's mattering-recipient value chain)
