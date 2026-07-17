@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-06-05
 human_modified: null
-ai_modified: 2026-06-16T19:15:48+00:00
+ai_modified: 2026-07-17T07:30:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ The "warm, wet, and noisy" slogan compresses several logically separable claims:
 
 **Claim 3 (Sufficiency):** Decoherence eliminates quantum indeterminacy, leaving no opening for consciousness to act.
 
-These claims are independent. Claim 1 is empirical and revisable. Claim 2 is a premise about what quantum consciousness theories actually require—and some theories don't require sustained coherence at all. Claim 3 is a philosophical interpretation of what decoherence accomplishes—and it is false under any interpretation that takes the measurement problem seriously.
+These claims are independent. Claim 1 is empirical and revisable. Claim 2 is a premise about what quantum consciousness theories actually require—and some theories don't require sustained coherence at all. Claim 3 is a philosophical interpretation of what decoherence accomplishes—and it is false under collapse and other single-outcome interpretations that regard definite actuality as requiring further explanation. This is decisive within those frameworks rather than a universal theorem: Everettian ([[concepts/many-worlds|many-worlds]]), [[consistent-histories-interpretation|consistent-histories]], relational, pragmatist, and epistemic interpretations dispute whether the "something more" is needed or even well-defined, some denying there is any further fact about which outcome actualizes.
 
 The standard decoherence objection needs all three claims to succeed. Defeating any one is sufficient to preserve quantum consciousness as a live possibility. The five responses that follow target different premises.
 

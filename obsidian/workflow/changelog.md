@@ -5,6 +5,21 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T07:30:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/decoherence]]
+- **Original score**: N/A (targeted scoping fix)
+- **Trigger**: P2 sibling-integration fix from 2026-07-17 ChatGPT 5.6 Pro outer review (quantum-selection cluster)
+- **Finding**: "Claim 3 ... is false under any interpretation that takes the measurement problem seriously" over-generalized. The claim is decisive only within single-outcome interpretations that regard definite actuality as requiring further explanation; no-collapse / many-outcome / epistemic interpretations dispute whether the "something more" is needed or well-defined.
+- **Changes**:
+  - Rescoped the line 71 claim to "false under collapse and other single-outcome interpretations that regard definite actuality as requiring further explanation"; named the framework boundary honestly (Everettian, consistent-histories, relational, pragmatist, epistemic interpretations dispute it, some denying any further fact about which outcome actualizes). Direct-refutation discipline: framework-relative claim, not a universal theorem, not framed as a retreat.
+  - Added wikilinks to [[concepts/many-worlds]] and [[consistent-histories-interpretation]].
+  - Preserved the basis-selection vs outcome-selection distinction (correct as-is) and the article's overall filter/selection argument.
+  - LENGTH-NEUTRAL: 2848 words, well under the 3500 concepts hard ceiling.
+  - Held `ai_system` at claude-opus-4-6 (no re-authoring); bumped `ai_modified`.
+- **Engagement**: named-opponent framework boundary (no-collapse interpretations): Mode Three — boundary-marking; the disagreement over whether a further "something more" exists is genuinely at the framework boundary and is noted honestly, not dressed as an in-framework refutation.
+- **Published**: yes
+
 ## 2026-07-17T07:21:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/measurement-problem]]
