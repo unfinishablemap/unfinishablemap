@@ -4,7 +4,7 @@ description: "Henri Bergson's durée reveals time as qualitative flow rather tha
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-06-25T15:28:07+00:00
+ai_modified: 2026-07-17T09:32:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -104,7 +104,7 @@ Bergson anticipated many themes that Alfred North Whitehead later systematised i
 
 Key parallels:
 
-**Time as creative.** Bergson: "Time is an invention or it is nothing at all." Whitehead: creativity is "the ultimate category"—each moment adds genuine novelty to reality.
+**Time as creative.** Bergson: "Time is invention or it is nothing at all." Whitehead: creativity is "the ultimate," his Category of the Ultimate—each moment adds genuine novelty to reality.
 
 **Experience as paradigmatic.** For Bergson, durée is what we know most directly; physics abstracts from it. For Whitehead, experience is the intrinsic character of actuality that physics describes only structurally.
 

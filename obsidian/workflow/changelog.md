@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T09:32:48+00:00 - deep-review
+- **Status**: Success (3 quote-fidelity fixes, family-resolved)
+- **File**: [[concepts/process-philosophy]]
+- **Word count**: 2206 → 2206 (~0, length-neutral)
+- **Critical issues addressed**: 3 (verbatim quote defects)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Quote-fidelity primary lens per steering; literal-string verify at publisher of record. (1) **Bergson** — removed inserted "an": "Time is *an* invention…" → verbatim "Time is invention or it is nothing at all." (Mitchell trans. *Creative Evolution* Ch. IV, Project Gutenberg #26163). The "an" had been WRONGLY added 2026-06-25 on libquotes-aggregator authority, corrupting 3 files — aggregator-ratification trap; do NOT re-add. (2) **Whitehead** — "the ultimate category" (an inversion) → source form "Category of the Ultimate". (3) **James** — pronoun fix inside quote: "shut in *their* own skin" → verbatim singular "shut in its own skin" (*Principles of Psychology* 1890). Family-resolved (1)+(2) to [[apex/process-and-consciousness]] and [[topics/bergson-and-duration]] (identical strings, same bad correction); ai_modified bumped on both, ai_system held (opus-4-6). Deferred: corpus-wide James "their own skin" pronoun-adaptation in 4 combination-problem-cluster files (low-priority, noted in review). process-philosophy ai_modified + last_deep_review bumped; ai_system held (opus-4-5).
+- **Output**: [[reviews/deep-review-2026-07-17-process-philosophy]]
+
 ## 2026-07-17T09:10:12+00:00 - deep-review
 - **Status**: Success (no-op — converged)
 - **File**: [[topics/one-structure-three-vocabularies]]
