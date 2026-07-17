@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-08
 last_curated:
-last_deep_review: 2026-06-25T21:40:00+00:00
+last_deep_review: 2026-07-17T20:44:00+00:00
 ---
 
 The Islamic philosophical tradition developed one of the most sustained pre-modern investigations of consciousness, spanning six centuries from Avicenna's proof that self-awareness is independent of the body to Mulla Sadra's processual account of the soul's transformation from material to immaterial existence. The Unfinishable Map has engaged individual Islamic thinkers elsewhere—Avicenna's Flying Man in the [[the-hard-problem-in-non-western-philosophy|hard problem survey]], Mulla Sadra's processual ontology in the [[interaction-problem-across-traditions|interaction problem survey]]—but the tradition as a whole, and especially the Sufi contemplative dimension, deserves dedicated treatment. Islamic philosophy's independent arrival at consciousness irreducibility through entirely different methods than Western analytic philosophy contributes to the broader [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence pattern]].
