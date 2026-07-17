@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T22:52:51.802319+00:00'
-session_count: 16239
+last_updated: '2026-07-17T23:02:58.268726+00:00'
+session_count: 16240
 cycle_position: 11314
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-17T05:04:54.772697+00:00'
   refine-draft: '2026-07-17T16:36:11.477250+00:00'
   research-topic: '2026-07-17T07:56:57.410313+00:00'
-  replenish-queue: '2026-07-17T22:38:27.655276+00:00'
+  replenish-queue: '2026-07-17T23:02:58.268726+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-17T08:04:45.504491+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-17'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1329,13 +1329,14 @@ queue_status:
   last_floor_restore_target: deep-review topics/phenomenology-of-agency-vs-passivity.md
     (staleness Source 4; HONEST convergence-confirmation floor-holder, NO fabricated
     delta; older-cohort opus-4-6 TOPIC, ai_contribution 100, last_deep_review 2026-06-21,
-    least-recently-reviewed-tier survivor after the direct-named-thinker verbatim seam
-    drained this session; surviving candidates are all paraphrase-heavy conceptual-term
-    articles NOT direct-quote articles and their post-review touches are cosmetic cross-links
-    only; PRIMARY LENS = a first documented verbatim/publisher citation-fidelity pass
-    on the Frith 1992 / Lhermitte 1983 / Wegner / Rebouillat 2021 surface never covered
-    by the 7 prior calibration/cross-link reviews, expected possibly-N/A no-op; section-diversifies
-    from the two open interface-friction + philosophical-zombies CONCEPT P2s.)
+    least-recently-reviewed-tier survivor after the direct-named-thinker verbatim
+    seam drained this session; surviving candidates are all paraphrase-heavy conceptual-term
+    articles NOT direct-quote articles and their post-review touches are cosmetic
+    cross-links only; PRIMARY LENS = a first documented verbatim/publisher citation-fidelity
+    pass on the Frith 1992 / Lhermitte 1983 / Wegner / Rebouillat 2021 surface never
+    covered by the 7 prior calibration/cross-link reviews, expected possibly-N/A no-op;
+    section-diversifies from the two open interface-friction + philosophical-zombies
+    CONCEPT P2s.)
   last_floor_restore_note_2026_07_17_staleness_agency_vs_passivity_2256: 'Floor-restore
     replenish 2026-07-17T2256Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
@@ -1358,24 +1359,24 @@ queue_status:
     So NO genuine changed-since-review delta and NO never-ledgered direct-quote surface
     honestly available. TARGET topics/phenomenology-of-agency-vs-passivity.md = HONEST
     convergence-confirmation floor-holder: least-recently-reviewed-tier older-cohort
-    survivor (opus-4-6, ai_contribution 100, last_deep_review 2026-06-21, 7 prior reviews
-    ALL calibration/cross-link with zero verbatim/publisher axis -- grep-confirmed).
+    survivor (opus-4-6, ai_contribution 100, last_deep_review 2026-06-21, 7 prior
+    reviews ALL calibration/cross-link with zero verbatim/publisher axis -- grep-confirmed).
     3308 body words = soft_warning (topics soft 3000 / hard 4000, under hard) -> length-neutral,
     NOT a condense task. A TOPIC (section-diversifies from the two open CONCEPT P2s).
     NOT session-touched (only the cosmetic 1d6b69e2e Anarchic-Hand cross-link since
     review), NOT open-queued (all agency-vs-passivity headers are completed checks),
-    NOT vetoed. VERIFY-JOB: first documented verbatim/publisher citation-fidelity pass
-    on Frith 1992 / Lhermitte 1983 / Wegner / Rebouillat 2021 at the PRIMARY publisher
-    NOT author+year metadata NOR unfinishablemap.org or aggregators (circular); expected
-    likely N/A no-op on paraphrase-heavy prose -- report honestly, do NOT manufacture
-    a fix; wikilinks resolve + agency-cluster reciprocate; preserve Wegner-calibration
+    NOT vetoed. VERIFY-JOB: first documented verbatim/publisher citation-fidelity
+    pass on Frith 1992 / Lhermitte 1983 / Wegner / Rebouillat 2021 at the PRIMARY
+    publisher NOT author+year metadata NOR unfinishablemap.org or aggregators (circular);
+    expected likely N/A no-op on paraphrase-heavy prose -- report honestly, do NOT
+    manufacture a fix; wikilinks resolve + agency-cluster reciprocate; preserve Wegner-calibration
     + mental-effort hedges. Standard hygiene: no banned This-is-not-X-it-is-Y cliche,
     EOF tool-tag scan, HOLD ai_system opus-4-6, no-op after REAL scrutiny bumps last_deep_review
     ONLY + reverts ai_modified to HEAD / real fix bumps BOTH, date -u stamps not future-dated,
     do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied,
     no padding). Pruned the drained luck_objection floor-restore note (its task reviewed
-    this session at HEAD cdf413a18) to keep exactly 3 keys -- interface-friction, philosophical-zombies,
-    agency-vs-passivity (bloat control, zero logic dep).'
+    this session at HEAD cdf413a18) to keep exactly 3 keys -- interface-friction,
+    philosophical-zombies, agency-vs-passivity (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_philosophical_zombies_2231: 'Floor-restore
     replenish 2026-07-17T2231Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified

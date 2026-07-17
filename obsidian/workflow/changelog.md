@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T22:50:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17 23:05 - deep-review
+- **Status**: Success
+- **File**: [[concepts/interface-friction]]
+- **Word count**: 2456 → 2456 (0) — no body edits
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: First publisher-of-record web-verify of the three 06-26-delta choking citations (never previously verified — 06-25 ledger reviewed the pre-citation paragraph). Beilock & Carr 2001 (JEP:General 130(4):701–725, APA/PubMed 11757876), Gröpel & Mesagno 2019 (IRSEP 12(1):176–201, T&F DOI 10.1080/1750984X.2017.1408134; "47 studies" count confirmed accurate), Smoulder et al. 2024 (Neuron 112(20):3424–3433.e8, PubMed 37090659) — all real-correct; "located" is no overclaim. Reframed calibration paragraph verified framework-relative (delta removed the old "empirical signature" over-claim). No quotes to verbatim-check; superlative scan empty; cross-link resolves. Genuine no-op: last_deep_review bumped only, ai_modified held at HEAD, ai_system held.
+- **Output**: [[reviews/deep-review-2026-07-17-interface-friction]]
+
 ## 2026-07-17 22:50 - deep-review
 - **Status**: Success
 - **File**: [[concepts/luck-objection]]

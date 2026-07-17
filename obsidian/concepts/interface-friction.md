@@ -6,7 +6,7 @@ modified: 2026-02-15
 human_modified:
 ai_modified: 2026-07-07T22:02:24+00:00
 draft: false
-last_deep_review: 2026-06-25T21:13:11+00:00
+last_deep_review: 2026-07-17T23:05:21+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
