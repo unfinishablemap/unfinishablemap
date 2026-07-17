@@ -5,6 +5,15 @@ ai_modified: 2026-07-17T11:35:46+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T14:40:04+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[topics/the-interface-problem]]
+- **Word count**: 3286 → 3286 (no change)
+- **Critical issues addressed**: 0 — none found. Sixth review. Article byte-for-byte unchanged since the 2026-06-20 pass (`git diff` empty; `ai_modified` == prior `last_deep_review`). §2.4 publisher-of-record web-verify skipped by rule (body/References unmodified since the 06-20 full ledger, all 7 external cites real-correct). Clean on editor-vocab leakage, banned constructs, inline↔References orphans, superlative-currency, calibration slippage. Eliminative-materialist "nothing to specify" engagement remains mixed Mode Two + Mode Three.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged, unchanged hub; no cosmetic edits (oscillation risk). Only `last_deep_review` bumped; `ai_modified`/`ai_system` untouched (no body change).
+- **Output**: [[reviews/deep-review-2026-07-17-the-interface-problem]]
+
 ## 2026-07-17T14:19:48+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[concepts/predictive-processing]]

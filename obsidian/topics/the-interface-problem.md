@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-01
 last_curated: null
-last_deep_review: 2026-06-20T11:22:14+00:00
+last_deep_review: 2026-07-17T14:40:04+00:00
 coalesced_from:
   - "/topics/the-interface-location-problem/"
   - "/topics/the-interface-specification-problem/"
