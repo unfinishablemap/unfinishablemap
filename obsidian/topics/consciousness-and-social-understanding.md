@@ -50,7 +50,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-06-22T07:45:21+00:00
+last_deep_review: 2026-07-17T20:05:28+00:00
 coalesced_from:
   - "/topics/consciousness-and-social-cognition/"
   - "/topics/consciousness-and-interpersonal-understanding/"
