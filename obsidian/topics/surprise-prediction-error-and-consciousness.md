@@ -49,7 +49,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-06-14T12:32:11+00:00
+last_deep_review: 2026-07-17T13:10:13+00:00
 coalesced_from:
   - "/topics/consciousness-and-surprise/"
   - "/topics/phenomenology-of-surprise-and-prediction-error/"
