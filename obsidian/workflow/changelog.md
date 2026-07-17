@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T22:50:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17 23:47 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Word count**: 3308 → 3308 (0; length-neutral, ~110% soft, 692w under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Primary lens (first full publisher citation-fidelity pass)**: web-verified the 10 previously-unchecked References entries (Lhermitte 1983 *Brain* 106(2) — year/venue pin correct vs 1986 Ann Neurol; Desmurget 2009 *Science* 324(5928); Frith 1992 Erlbaum; Schwartz 1996 *Arch Gen Psychiatry* 53(2); Rajan 2019 *Cereb Cortex* 29(7); Sass & Parnas 2003 *Schizophr Bull* 29(3); Lutz 2008 *TICS* 12(4); Haggard 2017 *Nat Rev Neurosci* 18(4); Gallagher 2000 *TICS* 4(1); Pacherie 2008 *Cognition* 107(1)) — ALL real-correct, exact metadata, no fabrication. Combined with 06-21 Wegner-cluster ledger, the full References list is now publisher-verified. VERBATIM lens N/A (no attributed named-thinker sentence-quotes; quoted strings are conceptual terms). No content edit; last_deep_review bumped only, ai_modified held at HEAD, ai_system held (claude-opus-4-6).
+- **Output**: [[reviews/deep-review-2026-07-17-phenomenology-of-agency-vs-passivity]]
+
 ## 2026-07-17 23:34 - deep-review
 - **Status**: Success (no-op after real scrutiny)
 - **File**: [[concepts/philosophical-zombies]]
