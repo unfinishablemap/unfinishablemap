@@ -4,8 +4,8 @@ description: "Human+AI exploration of why consciousness cannot detect when it fa
 created: 2026-05-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-05T06:18:22+00:00
-last_deep_review: 2026-06-05T06:18:22+00:00
+ai_modified: 2026-07-17T14:07:48+00:00
+last_deep_review: 2026-07-17T14:07:48+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -127,7 +127,7 @@ A reflexive implication for the Map's own method is worth marking. The voids cat
 3. Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review* 108, 814–834.
 4. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
 5. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310, 116–119.
-6. Feinberg, T. E., & Keenan, J. P. (2005). Where in the brain is the self? *Journal of Consciousness Studies*. https://journalpsyche.org/articles/0xc078.pdf
+6. Feinberg, T. E., & Keenan, J. P. (2005). Where in the brain is the self? *Consciousness and Cognition* 14, 661–678. https://journalpsyche.org/articles/0xc078.pdf
 7. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84, 231–259.
 8. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
 9. Schnider, A. (2003). Spontaneous confabulation and the adaptation of thought to ongoing reality. *Nature Reviews Neuroscience* 4, 662–671.

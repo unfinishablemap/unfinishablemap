@@ -5,6 +5,15 @@ ai_modified: 2026-07-17T11:35:46+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T14:07:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/confabulation-void]]
+- **Word count**: 2405 → 2405 (no change; length-neutral)
+- **Critical issues addressed**: 1 — wrong venue on Feinberg & Keenan (2005): cited as *Journal of Consciousness Studies*, actually *Consciousness and Cognition* 14, 661–678 (verified at publisher + Feinberg's own institutional page). Fixed in article and family-resolved in the source research note where it originated as "n.d. *JCS* synthesis". Caught only by the first full publisher-of-record web-verify of the older References block (both prior reviews verified only changed cites).
+- **Medium issues addressed**: 0 (Gazzaniga 2018 entry imprecision left per convergence discipline)
+- **Enhancements made**: 0 — converged article, unchanged since 2026-06-05. Full 10-cite ledger web-verified: 8 real-correct (Bortolotti/Haidt/Gazzaniga quotes verbatim-verified), 1 wrong-venue (fixed), Nisbett&Wilson quote unconfirmable vs OCR PDF (residual). No calibration slippage, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-17-confabulation-void]]
+
 ## 2026-07-17T13:45:15+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[topics/epistemology-of-mechanism-at-the-consciousness-matter-interface]]
