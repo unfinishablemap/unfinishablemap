@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T20:05:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17 21:19 - deep-review
+- **Status**: Success (no-op after delta scrutiny)
+- **File**: [[concepts/metaphysics-of-information-under-dualism]]
+- **Word count**: 2814 → 2814 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Cross-review of the 07-13 delta only (commit e2625487b = `neutral monism` → `[[neutral-monism]]` wikilink install). New link resolves LIVE + reciprocates 4× + imports no over-claim; paragraph stays framework-relative (rival to distinguish from). No new quote/attribution surface (Floridi/Wiener/Landauer-1991 not in article). Shannon quote not re-litigated (prior ledger). last_deep_review bumped; ai_modified held at HEAD; ai_system held.
+- **Output**: [[reviews/deep-review-2026-07-17-metaphysics-of-information-under-dualism]]
+
 ## 2026-07-17T21:15:28+00:00 - deep-review
 - **Status**: Success (genuine no-op on content — converged; value = the §2.4 web-verify ledger six prior reviews asserted but never recorded)
 - **File**: [[topics/consciousness-and-probability-interpretation]]
