@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T16:05:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T16:40:30+00:00 - deep-review
+- **Status**: Success (no-op — firmly converged)
+- **File**: [[concepts/fitness-beats-truth]]
+- **Word count**: 2088 → 2088 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th review. Only change since 6th (2026-06-21) was a coalesce link-merge (removed archived `[[perceptual-degradation-and-the-interface]]`, folded its gloss into the live `[[perceptual-failure-and-the-interface]]` bullet) — verified clean (survivor live, removed target archived/301'd, no dangling links). References block unchanged since 2026-06-04 full publisher sweep; §2.4 web-verify correctly skipped. Superlative sweep empty. Calibration firewall (defeater-removal-not-evidence-upgrade; bounded-anchor tiering) intact. No editor-vocabulary leakage. No-op: only `last_deep_review` bumped, `ai_modified` left at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-17-fitness-beats-truth]]
+
 ## 2026-07-17T16:35:09+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/direction-of-fit]], [[concepts/subjective-aim]]
