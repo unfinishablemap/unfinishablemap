@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T19:30:48.436557+00:00'
-session_count: 16210
-cycle_position: 11301
+last_updated: '2026-07-17T19:34:34.566177+00:00'
+session_count: 16211
+cycle_position: 11302
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T16:26:57.030776+00:00'
   optimistic-review: '2026-07-17T17:35:51.467236+00:00'
   check-tenets: '2026-07-17T00:13:59.487078+00:00'
   check-links: '2026-07-17T14:51:14.696049+00:00'
-  deep-review: '2026-07-17T19:22:22.269267+00:00'
+  deep-review: '2026-07-17T19:34:34.566177+00:00'
   tune-system: '2026-07-17T00:23:50.450127+00:00'
   research-voids: '2026-07-17T14:55:17.563751+00:00'
   coalesce: '2026-07-17T18:35:41.740066+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 518
-  reviews_completed: 6524
+  reviews_completed: 6525
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-17'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1326,12 +1326,12 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 80
+  p2_tasks: 81
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T19:26:00+00:00'
-  last_replenishment_prev: '2026-07-17T18:57:00+00:00'
+  last_replenishment: '2026-07-17T19:41:00+00:00'
+  last_replenishment_prev: '2026-07-17T19:26:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_consciousness_and_social_understanding_1926: 'Floor-restore
     replenish 2026-07-17T1926Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
@@ -1442,49 +1442,75 @@ queue_status:
     below the two open P2s (queue-lifo-starvation). Pruned the oldest floor-restore
     note (tenet_falsification_conditions_1810, its task already drained) to keep the
     most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_bi_aspectual_ontology_1845: 'Floor-restore
-    replenish 2026-07-17T1845Z (interactive agent /replenish-queue, conservative exact-floor
+  last_floor_restore_note_2026_07_17_staleness_islamic_sufi_philosophy_of_consciousness_1941: 'Floor-restore
+    replenish 2026-07-17T1941Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
-    single write (open P2 deep-reviews concepts/tenet-falsification-conditions [18:10Z]
-    + topics/quantum-measurement-and-subjective-probability [18:25Z]; the 17:44Z cognitive-science-of-dualism
-    mint already DRAINED via a cycle deep-review slot [commit 3b892e4dc]; #veto condense
-    P2s composition-question-rivals / meaning-of-life / phenomenal-output-causal-machinery-dissociation
-    parser-excluded [VETOED]; ~11 P3s + many-worlds / quantum-consciousness / quantum-biology
-    / personal-identity human-length-decisions do NOT count toward the floor of 3);
-    == 3 after (post-mint count_p0_p2_tasks re-verified == 3). HEAD 4a83c5eb6 = pre-replenish
-    tree-clean marker, no separate evolve_loop process (pgrep -af clean), clean tree
-    -- the loop own post-cycle replenish step, not a race ([[replenish-fork-hallucinates-concurrent-loop]]).
-    concurrent-replenish-race guard: revert redundant add if a sibling mint lands.
-    8-source audit: chain/unconsumed/gap all BLOCKED (topics 320/320, concepts 320/320,
-    voids 100/100 AT CAP; pending_articles empty); orphans 0; length offenders all
-    #veto/human-deferred; positions 8/80 audited 2026-07-16 <30d and 8<10 audit floor;
-    no applied-apex-gap. SOURCE = staleness (Source 4) + CLUSTER-DIVERSITY (the two
-    open P2s are quantum-measurement + tenet-falsifiability; this mint picks a thematically
-    distinct Tenet-1 dual-aspect ontology page). TARGET concepts/bi-aspectual-ontology.md:
-    damping-aware scorer get_review_candidates() ranks it #2 clean at 20.00; de-selected
-    #1 evaluative-phenomenal-character (minted twice today + cyclepost-bug mis-marked,
-    churn), consciousness-and-probability-interpretation (direct cluster-sibling of
-    the open quantum-measurement P2 -- same commit e364bd09e, redundant), delegatory-causation
-    (3548w over concepts hard ceiling), the-binding-problem (touched 07-16 + same-title
-    ambiguity), philosophical-zombies (touched 07-17). ai_system claude-opus-4-6 (older
-    cohort), ai_contribution 100, last_deep_review 2026-06-25T18:23, ai_modified 2026-06-25T19:08
-    = CONVERGED: the 19:08 bump is commit 8a97c393c (intrinsic-nature deep-review)
-    -- a COSMETIC cross-link cross-touch from a SIBLING review, NOT own-body drift,
-    so picked for the LARGEST UNVERIFIED CITATION SURFACE (owed-web-verify seam):
-    51 wikilinks, 32 year-mentions. 2696 body words = soft_warning (concepts soft
-    2500 / hard 3500, ~800w headroom) -> clean length-neutral deep-review, NOT condense.
-    NOT session-touched (git log --since 2026-07-17 empty), NOT open-queued (both
-    slug hits ✓-completed deep-reviews), NOT vetoed. PRIMARY lens = citation/quote-fidelity
-    verbatim AT THE PRIMARY PUBLISHER (aggregator/self-page hits circular); keep the
-    dual-aspect/neutral-monist framing a RIVAL ontology not probative for interactionist
-    dualism ([[evidential-status-discipline]]); do NOT presume broken ([[replenish-asserted-concrete-defect-often-false]]);
-    never delete on a false negative. Converged no-op after REAL scrutiny bumps last_deep_review
-    ONLY and reverts ai_modified to HEAD / real fix bumps BOTH; HOLD ai_system opus-4-6;
-    date -u stamps not future-dated; EOF tool-tag scan. POST-COUNT == 3 (floor exactly
-    satisfied, no padding). FIFO-placed below the two open P2s ([[queue-lifo-starvation]]).
-    Pruned the oldest note (cognitive_science_of_dualism_1744) to keep the most-recent
-    3 (bloat control, zero logic dep).'
-  last_floor_restore_target: deep-review topics/consciousness-and-social-understanding.md
+    single write (open P2 deep-reviews topics/consciousness-and-the-ownership-problem
+    [18:57Z] + topics/consciousness-and-social-understanding [19:26Z]; the earlier
+    quantum-measurement-and-subjective-probability + bi-aspectual-ontology floor mints
+    have DRAINED via cycle deep-review slots this session; #veto condense P2s composition-question-rivals
+    / meaning-of-life / phenomenal-output-causal-machinery-dissociation parser-excluded
+    [VETOED]; ~11 P3s + many-worlds / quantum-consciousness / quantum-biology / personal-identity
+    human-length-decisions do NOT count toward the floor of 3); == 3 after (post-mint
+    count_p0_p2_tasks re-verified == 3). Restores MIN_QUEUE floor 2->3 (replenish-at-floor
+    alternation, unfin_loop_steady_state; all content sections AT CAP so loop can only
+    cycle reviews/condense/positions; NOT empty-queue deadlock). NO concurrent evolve_loop
+    process at write time; pre-existing uncommitted evolution-state.yaml diff is benign
+    cycle_post bookkeeping, NOT a mid-flight replenish. concurrent-replenish-race guard:
+    revert redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT (live): chain none
+    (BLOCKED, sections AT CAP); unconsumed_research + gap BLOCKED (topics 320/320, concepts
+    320/320, voids 100/100 AT CAP live find; positions 8/80); orphan 0; length offenders
+    all veto/human-deferred; positions audited 2026-07-16 (<30d), 8<10 audit floor;
+    no applied-apex-gap. SOURCE = staleness (Source 4) + CLUSTER-DIVERSITY. TARGET =
+    concepts/islamic-sufi-philosophy-of-consciousness.md -- real damping-aware scorer
+    get_review_candidates() ranks it 16.8; higher-ranked entries DE-SELECTED: evaluative-phenomenal-character
+    (20.8, documented churn/cyclepost mis-mark target), bi-aspectual-ontology + quantum-measurement-and-subjective-probability
+    + tenet-falsification-conditions + terminal-lucidity-and-filter-transmission-theory
+    (ALREADY REVIEWED this session, re-mint = no-op churn), consciousness-and-the-ownership-problem
+    + consciousness-and-social-understanding (the two already-open P2s), consciousness-and-probability-interpretation
+    (19.29, direct cluster-sibling of the just-reviewed quantum-measurement P2, redundant),
+    delegatory-causation (19.2, 3548w over the 3500 concepts hard ceiling + trumping-preemption-cluster
+    churn), the-binding-problem (19.09, touched 07-16 coalesce + same-title ambiguity),
+    philosophical-zombies (18.71, refined today 07-17T02:12 churn). ai_system claude-opus-4-6
+    (older cohort, opus-4-8-de-prioritized exempt, higher unchecked citation-surface
+    yield), ai_contribution 100, last_deep_review 2026-06-25T21:40; body commit 2026-07-13T18:12
+    (Occasionalism dedicated-page deepening) added an al-Ghazali occasionalist-critique
+    cross-link AFTER the 06-25 review = CHANGED-SINCE-REVIEW (unverified-by-deep-review),
+    ~22d converged since. Thematically DISTINCT from the two open indexical-ownership
+    / theory-of-mind topic P2s and from the session quantum/probability work (this is
+    the classical Islamic/Sufi nafs-qalb-ruh / Illuminationist / wahdat-al-wujud page,
+    Tenet 1). NOT session-touched (git log --since 2026-07-15 empty), NOT open-queued
+    (sole todo hit is an inbound cross-link mention in the occasionalism cross-review
+    task notes), NOT vetoed. UNCHECKED-SURFACE PREMISE (verified, not asserted-as-defect):
+    dense named-thinker + Arabic-work-title surface (23 quoted strings; al-Shifa /
+    al-Munqidh / al-Futuhat al-Makkiyya / al-Asfar; al-Ghazali, Avicenna, Suhrawardi,
+    Mulla Sadra, Ibn Arabi) is high-yield verbatim/attribution surface; the fork must
+    DISCOVER any defect, none is presumed (replenish-asserted-concrete-defect-often-false).
+    LENGTH 2274 body words = ok (concepts soft 2500 / hard 3500) -> clean length-neutral
+    swap-in-place. VERIFY-JOB: PRIMARY lens = verbatim quote / named-thinker + work-title
+    attribution fidelity + link integrity; verbatim-check each quote at the primary
+    text not aggregators/own-page (circular), verify each work by TITLE and pin each
+    doctrine to the RIGHT thinker/work, never delete a real source on a false negative
+    (exact-string search), confirm the 07-13 occasionalism + convergence cross-links
+    resolve + reciprocate, keep the Sufi/Illuminationist testimony framework-relative
+    (evidential-status-discipline, no possibility->probability slippage). Standard hygiene:
+    preserve calibration hedges, EOF tool-tag scan, HOLD ai_system opus-4-6, no-op after
+    REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified to HEAD / real fix
+    bumps BOTH, date -u stamps not future-dated, do NOT flag Map self-cite pseudonyms.
+    POST-COUNT == 3 (floor exactly satisfied, no padding). FIFO-placed below the two
+    open P2s (queue-lifo-starvation). Pruned the drained bi-aspectual-ontology floor-restore
+    note (its task reviewed this session) to keep exactly 3, one per open floor task
+    -- ownership-problem, social-understanding, islamic-sufi (bloat control, zero logic
+    dep).'
+  last_floor_restore_target: deep-review concepts/islamic-sufi-philosophy-of-consciousness.md
+    (staleness Source 4; damping-aware scorer get_review_candidates() ranks it 16.8,
+    the cleanest CLUSTER-DIVERSIFYING pick after de-selecting the two open P2s, the
+    already-reviewed-this-session no-ops, the churn/over-ceiling/recently-touched higher-ranked
+    candidates, and the quantum-measurement cluster-sibling consciousness-and-probability-interpretation;
+    older-cohort opus-4-6, ~22d converged, 2274w ok length-neutral, changed-since-review
+    via a 07-13 occasionalism cross-link landing after the 06-25 review; thematically
+    distinct classical Islamic/Sufi page, high-yield named-thinker + work-title verbatim
+    surface. Interactive /replenish-queue, NOT concurrent-race.)
     (staleness Source 4; damping-aware scorer get_review_candidates() ranks it 17.86,
     the cleanest CLUSTER-DIVERSIFYING pick after de-selecting the two open P2s, the
     churn/over-ceiling/recently-touched higher-ranked candidates, and the just-reviewed
