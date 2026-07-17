@@ -1330,62 +1330,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T12:20:00+00:00'
-  last_replenishment_prev: '2026-07-17T12:07:00+00:00'
-  last_floor_restore_note_2026_07_17_staleness_temporal_void_0945: 'Floor-restore
-    replenish 2026-07-17T0945Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
-    PRE-COUNT open executable P0-P2 == 2 verified LIVE before this single write (the
-    two open P2 deep-reviews voids/mood-void + voids/mapping-mind-space, both this
-    session earlier floor-restore mints; concepts/process-philosophy has since drained
-    via cycle-slot RESOLVED-BY-CYCLE-SLOT; #veto condense P2s parser-excluded; ~10
-    P3s + human-deferred length-decision tasks do NOT count toward the floor of 3);
-    == 3 after. MIN_QUEUE floor 3 unmet by 1, restores 2 to 3 (replenish-at-floor
-    alternation, unfin_loop_steady_state, NOT empty-queue deadlock). NO concurrent
-    evolve_loop.py (pgrep -af evolve_loop.py empty at write); clean tree. concurrent-replenish-race
-    guard: revert the redundant add if a sibling/loop mint lands. EIGHT-SOURCE AUDIT
-    (live): chain none (chains BLOCKED, sections AT CAP); unconsumed_research + gap
-    BLOCKED (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions
-    8/80); orphan 0; length veto/human-deferred; positions audit ran 2026-07-16 (<30d),
-    8<10 audit floor; no applied-apex-gap. SOURCE = staleness (Source 4), quote-fidelity-targeted
-    (primary steering channel). MINTED 1 P2 deep-review voids/temporal-void.md --
-    the highest-yield literal-string older-cohort quote-fidelity target not session-touched/queued:
-    ai_system claude-opus-4-6 (opus-4-8-deprioritized exempt), ai_contribution 100,
-    created 2026-01-21, last_deep_review 2026-06-12 (~35d gap), ai_modified 2026-06-19.
-    Prior deep-reviews (05-25, 06-12) + refines FIXED empirical-currency (Addis 2007
-    / Dietrich 2004) + interface-rhetoric + cross-links, but git log shows NO literal-string
-    verbatim/quote-fidelity pass over the named-thinker quotes -> >=2 substance-confirmed
-    reviews do NOT convergence-damp the quote channel (quote-fidelity-defects-survive-metadata-reviews;
-    deep_review_over_reviews_converged does not apply to the quote seam). Carries
-    high literal-string yield: (a) Hermann Weyl ~L69 block-universe sentence (Philosophy
-    of Mathematics and Natural Science, Princeton UP 1949) -- frequently truncated,
-    verify VERBATIM (life line vs world-line, punctuation); (b) William James ~L63
-    specious present / strict present (Principles of Psychology 1890, ch. XV) -- ATTRIBUTION
-    CHECK: James credits specious present to E. R. Clay not himself, verify no misattribution
-    of the coinage (verbatim-quote-cited-to-wrong-work); (c) Husserl ~L65 most-difficult-of-all-phenomenological-problems
-    (On the Phenomenology of the Consciousness of Internal Time) -- verify translation
-    string; (d) B-theory ~L103 only-a-subjective-illusion -- confirm genuine quotation
-    vs paraphrase. NOT session-touched (no commits since 07-16), NOT queued (todo
-    grep hits all completed below the Completed line), NOT vetoed. DIVERSITY NOTE
-    (honest): 3rd void among the open P2s (mood-void + mapping-mind-space already
-    voids) -- a real diversity ding; accepted because the only non-void quote-dense
-    candidates (topics/history-of-the-interaction-problem, concepts/mental-causation-and-downward-causation,
-    concepts/symbol-grounding-problem) were all deep-reviewed within ~9 days (too
-    fresh) and concepts/nihilism-and-existentialism quotes are short correctly-rendered
-    slogans (weak yield). temporal-void carries the higher literal-string yield (steering
-    first priority); NEXT mint should prefer a topic/concept to rebalance. LENGTH:
-    2243 body words via analyze_length = soft_warning (voids soft 2000/hard 3000 ->
-    clean deep-review NOT condense; any quote correction swap-in-place, add NO filler).
-    CANDIDATE verify-verbatim-at-publisher phrased suspected-NOT-imperative (fork
-    confirms each literal string; do NOT presume broken, do NOT manufacture a defect;
-    a WebSearch hit on unfinishablemap.org is circular). Verify by literal STRING
-    at publisher NOT author+year (citation-verify-false-negative -- never delete a
-    real quote on a false negative). Standard hygiene: cross-links resolve+reciprocate,
-    Tenet routing present, preserve calibration hedges, EOF tool-tag scan, do NOT
-    flag Map self-cite pseudonyms, HOLD ai_system, no-op after REAL per-quote scrutiny
-    bumps last_deep_review ONLY, real fix bumps BOTH, date -u stamps not future-dated.
-    POST-COUNT == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the
-    two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note
-    (mood_void_0849) to keep the most-recent 3 (bloat control, zero logic dep).'
+  last_replenishment: '2026-07-17T12:39:00+00:00'
+  last_replenishment_prev: '2026-07-17T12:20:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_phenomenology_intellectual_life_1006: 'Floor-restore
     replenish 2026-07-17T1006Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT open executable P0-P2 == 2 verified LIVE before this single write (the
@@ -1468,6 +1414,7 @@ queue_status:
     exactly satisfied). BOTTOM-inserted below the two open P2s (queue-lifo-starvation
     guard). Pruned the oldest floor-restore note (mapping_mind_space_0914) to keep
     the most-recent 3 (bloat control, zero logic dep).'
+  last_floor_restore_note_2026_07_17_staleness_epistemology_of_mechanism_1239: 'Floor-restore replenish 2026-07-17T1239Z (conservative exact-floor +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE (open P2s possibility-probability-slippage + surprise-prediction-error; #veto condense P2s parser-excluded [VETOED]; P3s + human-length-decision tasks do not count); == 3 after. HEAD 4e8c5426c = pre-replenish tree-clean marker, no separate evolve_loop.py process -- this is the loop own post-cycle replenish step, not a race (replenish-fork-hallucinates-concurrent-loop). 8-source audit: chain/unconsumed/gap all BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP; pending_articles empty); orphans 0; length offenders all #veto; positions 8/80 audited 2026-07-16 <30d; no applied-apex-gap. SOURCE = staleness (Source 4). TARGET topics/epistemology-of-mechanism-at-the-consciousness-matter-interface: opus-4-6, ai_contribution 100, last_deep_review==ai_modified==2026-06-17 (30d converged), 2640w status ok (not condense), ~15 citations, NOT open-queued (4 slug hits all completed checkmark tasks), NOT vetoed. rational-normativity (git-touched 07-12) and phenomenology-of-deliberation (over-converged) REJECTED. POST-COUNT == 3 (floor exactly satisfied, no padding), BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard). Pruned oldest note (temporal_void_0945) to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_target: cross-review topics/quantum-hardware-and-the-ai-consciousness-coupling.md
     (chain successor to this session's quantum-hardware expand-topic create, which
     skipped its cross-review successor -- expand-topic-skips-integration-chain; a
