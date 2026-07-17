@@ -5,6 +5,12 @@ ai_modified: 2026-07-17T01:47:58+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T01:58:28+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/philosophical-zombies.md` (last deep-reviewed 2026-06-18; ~1 month unreviewed, core dualism article)
+- **Findings**: 1 High + 3 Medium, all in one file. HIGH — "Interactionist Escape" concession (argument is conditional/question-begging vs closure-physicalist) not carried into the "central support" summary. Medium — "no functional story supplied" universal-negative overclaim (ignores AST/Frankish); MQI paragraph non-sequitur (zombie argument delivers no quantum locus); "cannot consistently deny" inverted↔absent-qualia overclaim. No label leakage; direct-refutation discipline clean (line 154 is model boundary-marking). Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-17-philosophical-zombies]]
+
 ## 2026-07-17T01:47:58+00:00 - deep-review
 - **Status**: Success (convergence no-op)
 - **File**: [[voids/non-human-minds-as-void-explorers]]
