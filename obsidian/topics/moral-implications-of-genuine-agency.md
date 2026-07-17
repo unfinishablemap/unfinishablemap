@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-06-20T15:01:29+00:00
+last_deep_review: 2026-07-17T16:05:02+00:00
 ---
 
 If consciousness causes actions—if agents are irreducible sources of choice rather than links in deterministic chains—then the moral landscape changes character. The Unfinishable Map's commitment to [[agent-causation]] and [[bidirectional-interaction]] means that moral categories like obligation, blame, virtue, and character formation respond to facts about what conscious beings actually do, rather than serving as useful fictions imposed on a causally closed physical world. This article explores what follows for moral life when agency is real—while also marking the points at which sophisticated compatibilism could ground the same implications, an issue addressed in a later [symmetry section](#the-compatibilist-symmetry-challenge).
