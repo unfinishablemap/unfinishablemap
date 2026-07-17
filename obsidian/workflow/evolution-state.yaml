@@ -1345,8 +1345,48 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-16T23:44:00+00:00'
-  last_replenishment_prev: '2026-07-16T23:28:00+00:00'
+  last_replenishment: '2026-07-17T00:35:00+00:00'
+  last_replenishment_prev: '2026-07-16T23:44:00+00:00'
+  last_floor_restore_note_2026_07_17_staleness_conceptual_scheme_void_0035: 'Floor-restore
+    replenish 2026-07-17T0035Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
+    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text()) == 2
+    verified LIVE before this single write (the two open P2 deep-reviews voids/plenitude-void
+    + concepts/theory-of-mind; three #veto condense P2s parser-excluded; ~10 P3s +
+    human-deferred length/length-decision tasks do NOT count toward the floor of 3);
+    == 3 verified after. MIN_QUEUE floor 3 unmet by 1, restores 2 to 3. NO concurrent
+    evolve_loop.py (ps -ef == 0); HEAD 4baf65b14. concurrent-replenish-race guard: revert
+    the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT (live): chain none
+    (chains BLOCKED, sections AT CAP); unconsumed_research + gap BLOCKED (topics 320/320,
+    concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length veto/human-deferred;
+    positions audit ran 2026-07-12 (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE
+    = staleness (Source 4). MINTED 1 P2 deep-review voids/conceptual-scheme-void.md
+    -- honest fall-toward-thinning-seam pick ([[owed-web-verify-seam-deep-review-targeting]]).
+    The two strongest partial/never-verified targets are already the open P2s (plenitude-void
+    4/14 partial; theory-of-mind 9 empirical refs never publisher-verified). Among the
+    non-queued, non-session-touched, >=30d-converged older-cohort pool, conceptual-scheme-void
+    carries the highest UN-done verify axis: its 4 prior deep-reviews (latest 06-05)
+    ran attribution + evidential-status checks but a verbatim-QUOTE-FIDELITY publisher
+    pass has NEVER run ([[quote-fidelity-defects-survive-metadata-reviews]]). ai_system
+    claude-opus-4-7, ai_modified == last_deep_review == 2026-06-05 (42-day settled gap,
+    NOT touched this session 2026-07-16/17), ai_contribution 100, 2341 body words via
+    analyze_length = soft_warning (voids soft 2000/hard 3000 -> clean deep-review NOT
+    condense). DIVERSITY CAVEAT stated plainly: THIRD voids item behind plenitude-void
+    (queue voids-heavy) -- accepted because every citation-dense older-cohort remainder
+    outside the queue is a void; cohort topics/concepts are low-ref. Flagged MODEST
+    expected yield (many cites canonical philosophy -- Kant/Nagel/Davidson/Sellars/Kuhn
+    -- may verify clean; metadata-only no-op is acceptable, do NOT manufacture defects).
+    CANDIDATE verify-targets phrased verify-don''t-presume: verbatim-check the Kuhn (Structure
+    of Scientific Revolutions "see different things when they look from the same point
+    in the same direction") + McGinn 1989 (Mind 98 "what is closed to the mind of a
+    rat may be open to the mind of a monkey") body quotes; then TITLE+venue web-verify
+    Gaerdenfors 2020 Front.Psych 11:584017, Cogitate Consortium 2025 Nature 642(8066):133-142
+    (Consortium NOT "Melloni et al", [[cogitate-melloni-2025-nature-first-author]]),
+    McGinn 1989 Mind 98(391):349-366, Davidson 1974 Proc.&Addr.APA 47:5-20. Standard
+    hygiene in Notes (HOLD ai_system, no-op bumps last_deep_review ONLY, don''t flag
+    Map self-cite pseudonyms, date -u stamps not future-dated). POST-COUNT == 3 (floor
+    exactly satisfied, no padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation
+    guard). Pruned the oldest floor-restore note (contemplative_epistemology_2307) to
+    keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_16_staleness_theory_of_mind_2344: 'Floor-restore
     replenish 2026-07-16T2344Z (interactive agent, conservative exact-floor +1). Timestamp
     is the REAL date -u wall clock. AUTHORITATIVE PRE-COUNT count_p0_p2_tasks(todo.read_text())
@@ -1389,41 +1429,6 @@ queue_status:
     == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the two open
     P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note (suspension_void_2241)
     to keep the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_16_staleness_contemplative_epistemology_2307: 'Floor-restore
-    replenish 2026-07-16T2307Z (interactive agent, conservative exact-floor +1). Timestamp
-    is the REAL date -u wall clock. AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text())
-    == 2 verified LIVE immediately before AND 3 after this single write. MIN_QUEUE
-    floor 3 unmet by 1; restores 2 to 3. NO concurrent evolve_loop.py (ps -ef clean);
-    tree clean at mint; HEAD 6d1b0ba71 is a deep-review cycle_post pre-replenish tree-clean,
-    i.e. this IS the /unfin-cycle replenish leg. concurrent-replenish-race guard:
-    revert the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT re-run LIVE:
-    chain none; unconsumed_research BLOCKED (target sections AT CAP); gap capped (topics
-    320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0;
-    length all veto/human-deferred; positions audit ran 2026-07-12 (<30d), 8<10 audit
-    floor; no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review
-    concepts/contemplative-epistemology.md -- HIGHEST un-web-verified citation seam
-    among converged older-cohort articles (owed-web-verify-seam-deep-review-targeting:
-    the opus-4-5/4-6/4-7 cohort keeps yielding real publisher defects -- affective-void
-    3, stapp-quantum-mind 4 -- that survived intra-corpus clean reviews; opus-4-8
-    tends already-clean). ai_system claude-opus-4-6, ai_modified 2026-05-29 (48-day
-    settled gap, NOT touched this session 2026-07-16), last_deep_review 2026-06-26
-    (a staleness pass; its ENTIRE review history is intra-corpus cross-linking + one
-    internal citation fix, NEVER a live publisher web-verify), ai_contribution 100.
-    concepts section + opus-4-6 cohort UNREPRESENTED by the two open P2s (perceptual-failure
-    topics, suspension-void voids/opus-4-7). 41 external empirical meditation-neuroscience
-    refs with publisher-checkable volume/issue/page specifics (highest cite-defect
-    base rate). Body under concepts 3500 hard ceiling -- NOT a condense task. Verify-job
-    (full detail in todo Notes): web-verify each ref at publisher by TITLE+venue not
-    author+year (highest-suspicion Baird 2014 JEP:General 143(5):1972-1979; Brewer
-    2011 PNAS 108(50) full author list not truncated; Fox 2012 PLoS One 7(9):e45370;
-    Johansson 2005 Science 310(5745):116-119; Kok & Singer 2017 Mindfulness 8(1)),
-    verbatim-check quotes, evidential-status calibration (no introspection-to-interface
-    upgrade), cross-link reciprocity, tenet routing. HOLD ai_system + no ai_modified
-    bump on a genuine no-op (deep-review-fork-over-attributes-ai-system + deep-review-fork-bumps-ai-modified-on-noop).
-    POST-COUNT count_p0_p2_tasks == 3 (floor exactly satisfied, no padding). BOTTOM-inserted
-    below the two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore
-    note (evolutionary_quantum_2143) to keep the most-recent 3 (bloat control, zero
-    logic dep).'
   last_floor_restore_note_2026_07_16_staleness_plenitude_void_2328: 'Floor-restore
     replenish 2026-07-16T2328Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this single write (the two
