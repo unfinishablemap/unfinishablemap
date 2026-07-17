@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T16:05:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T18:37:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-science-of-dualism]]
+- **Word count**: 2189 → 2189 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-17-cognitive-science-of-dualism]]
+- **Note**: Convergence no-op (8th review). Sole change since thorough 2026-06-20 pass = one cosmetic cross-link (`behaviourism` → `[[logical-behaviourism|behaviourism]]`, commit 97d38e995); new target `concepts/logical-behaviourism.md` resolves live. Body + References byte-identical to 7th-reviewed state → §2.4 web-verify legitimately skipped (full publisher-of-record ledger done 2026-06-20: Barrett-2021 SIX pops reconfirmed at Wiley/PubMed/gwern/ORA/PhilPapers, all cites real-correct). Calibration/reasoning-modes intact. Only last_deep_review advanced; ai_modified kept at HEAD (2026-07-13).
+
 ## 2026-07-17T18:20:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/knowledge-argument]]
