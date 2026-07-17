@@ -5,6 +5,17 @@ ai_modified: 2026-07-17T06:10:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T06:24:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-phenomenology-of-place]]
+- **Word count**: 2088 → ~2110 (+~22)
+- **Critical issues addressed**: 0 (three high/medium pessimistic-review issues already resolved by 2026-07-16 refine; verified no regression)
+- **Medium issues addressed**: 1 (falsifiability ratchet — added concrete above-chance partial-disconfirmation threshold to "What Would Challenge This View?")
+- **Enhancements made**: 1
+- **Citations**: no re-verify — References byte-identical to 2026-06-20 publisher-of-record ledger (all 6 real-correct); currency sweep empty; no internal-quote-drift surface
+- **Notes**: 6th review, converged. `ai_system` held at claude-opus-4-6 (one-sentence editorial addition, not re-authoring). Colour-projectivism analogy considered and deliberately not actioned (defensible phenomenological "is experienced as" claim).
+- **Output**: [[reviews/deep-review-2026-07-17-consciousness-and-the-phenomenology-of-place]]
+
 ## 2026-07-17T06:17:27+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-17

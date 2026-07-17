@@ -4,7 +4,7 @@ description: "How the felt character of being in a place—atmosphere, familiari
 created: 2026-02-19
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-07-16T08:27:04+00:00
+ai_modified: 2026-07-17T06:24:30+00:00
 draft: false
 topics:
   - "[[consciousness-as-perceptual-architect]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-06-20T00:00:00+00:00
+last_deep_review: 2026-07-17T06:24:30+00:00
 ---
 
 The experience of being *in a place* is among the most integrative feats consciousness performs. Walking into a childhood home, entering a cathedral, or stepping onto an unfamiliar street at dusk — each generates a unified felt character that binds sensory perception, bodily orientation, emotional tone, and biographical memory into something no list of physical properties captures. The Unfinishable Map argues that this binding — what phenomenologists call the *atmosphere* or *genius loci* of a place — provides evidence that consciousness is irreducible to information processing. A complete physical description of a room's dimensions, lighting, temperature, and acoustic properties leaves out everything that matters about what it is like to be there.
@@ -104,7 +104,7 @@ Place-experience also presents a challenge the Map should acknowledge: it emphas
 
 The irreducibility claim for place-experience would face difficulty if:
 
-- **Atmospheric quality proved functionally predictable.** If a computational model could predict the specific felt character a subject would experience in a new place — not just positive/negative valence but the particular atmospheric quality — from physical measurements and biographical data, the claim that atmosphere exceeds functional description would weaken.
+- **Atmospheric quality proved functionally predictable.** If a computational model could predict the specific felt character a subject would experience in a new place — not just positive/negative valence but the particular atmospheric quality — from physical measurements and biographical data, the claim that atmosphere exceeds functional description would weaken. To keep this a genuine test rather than an endlessly retreatable one, a concrete partial threshold suffices: if such a model predicted subjects' reported atmospheric quality *reliably above chance* across genuinely novel places, the strong irreducibility claim would be disconfirmed — not merely narrowed — even well short of perfect prediction.
 
 - **Integration metrics captured qualitative specificity.** Two rooms with equal integration may differ completely in atmosphere. If a refined measure predicted *which* quality obtains, not just *how much* integration, the gap between function and phenomenology would narrow.
 
