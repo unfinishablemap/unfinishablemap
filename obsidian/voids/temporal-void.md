@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present, cannot simultan
 created: 2026-01-21
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-06-19T08:20:00+00:00
+ai_modified: 2026-07-17T10:53:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated: null
-last_deep_review: 2026-06-12T22:03:51+00:00
+last_deep_review: 2026-07-17T10:48:55+00:00
 coalesced_from:
   - "/voids/temporal-consciousness-void/"
   - "/voids/duration-void/"
@@ -60,7 +60,7 @@ The Unfinishable Map takes this seriously as a void — not merely an unsolved p
 
 ## The Specious Present
 
-[[william-james-consciousness|William James]] distinguished the "strict present" — a durationless mathematical instant — from the [[temporal-consciousness|"specious present,"]] the experienced duration of roughly 100 milliseconds to 3 seconds. Everything within this window feels present; everything outside becomes memory or anticipation.
+[[william-james-consciousness|William James]] distinguished the "real present" — a durationless mathematical instant — from the [[temporal-consciousness|"specious present,"]] the experienced duration of roughly 100 milliseconds to 3 seconds. Everything within this window feels present; everything outside becomes memory or anticipation.
 
 Husserl analyzed temporal consciousness as a tripartite structure: *primal impression* (the now-point), *retention* (the just-past held in awareness), and *protention* (openness toward the imminent). He returned to this problem throughout his career, calling it "the most difficult of all phenomenological problems" and acknowledging that at the deepest layer — *longitudinal intentionality*, directed along the flow of consciousness itself — description breaks down into metaphor. Consciousness can attend to objects *in* time but cannot adequately capture the flowing of time itself, because the flowing is the medium through which all attending occurs.
 
