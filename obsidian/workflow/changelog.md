@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T10:01:32+00:00 - deep-review
+- **Status**: Success (3 quote-fidelity fixes)
+- **File**: [[voids/mood-void]]
+- **Word count**: ~2450 → ~2450 (length-neutral; ~123% of 2000 soft, below 3000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (verbatim quote corrections)
+- **Notes**: Quote-fidelity primary lens per steering; every quoted string re-verified at publisher of record, distrusting prior "verbatim-verified" labels. (1) **Kriegel 2019** (*Philosophers' Imprint* 19:49) — quote opened at altered participle "cast happy glows…"; original is "**casting** happy glows…". Moved "cast" outside the quote marks so the quoted string is verbatim. (2) **Nisbett-Wilson / Wilson** — de-quoted "unaware of their own unawareness": verifiable circulating form is "unaware of their **unawareness**" (no "own") and even that is a secondary gloss, not a clean 1977 verbatim line — removed quote marks, kept phrasing as the Map's prose (paraphrase-dressed-as-verbatim fix). (3) **Alexithymia** — pluralized "consciously accessible representations" → singular "a consciously accessible representation" to match Preece et al. 2018 (*Frontiers in Psychology*); exact phrase is NOT in the cited PMC8456171 (Hogeveen & Grafman 2021) but is faithful to the affective-representation model, loose "clinical literature" attribution retained. Verified CLEAN (unchanged): Heidegger §29 Macquarrie-Robinson "towards" rendering; Russell 2003 free-floating/mood quote + bracketed "[the] causal connections" (honest substitution of "these"); Nisbett-Wilson "little or no direct introspective access…" (verbatim 1977); Solomon "about nothing in particular…" (explicitly hedged as literature-standard, not a false verbatim claim). No calibration slippage, no source/Map conflation. ai_modified + last_deep_review bumped; ai_system held (opus-4-7).
+- **Output**: [[reviews/deep-review-2026-07-17-mood-void]]
+
 ## 2026-07-17T09:32:48+00:00 - deep-review
 - **Status**: Success (3 quote-fidelity fixes, family-resolved)
 - **File**: [[concepts/process-philosophy]]
