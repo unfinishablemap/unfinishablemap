@@ -5,6 +5,19 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T07:49:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consistent-histories-interpretation]]
+- **Word count**: ~2650 → ~2650 (no content change; under ceiling — not a length task)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (confirming post-refine verification pass)
+- **Review type**: Independent publisher-of-record re-verification of the 8 citations + 2 Griffiths quotes ADDED in this session's 2026-07-17 refine (commit 8719752e6).
+- **Findings**: All 8 added citations (Dowker-Kent 1995 PRL 75:3038; Kent 1997 PRL 78:2874; Griffiths-Hartle 1998 PRL 81:1981; Bassi-Ghirardi 1999 PLA 257:247; Wallace 2012; Gell-Mann-Hartle 2012 PRA 85:062120; Griffiths 2013 SHPMP 44:93; Zampeli-Pavlou-Wallden Found Phys 56 Art.3) verified real-correct at APS/Springer/arXiv — metadata AND arXiv preprint IDs (gr-qc/9409037, gr-qc/9811050, 1106.0767, 1105.3932, 2205.15893) all resolve to the correct papers. Both new Griffiths quotes verbatim-faithful: consciousness-rejection quote at arXiv:1105.3932 §1; "handy calculational tool" fragment at SEP §8.5.2 EPR-Bohm context, correctly scoped. Framework/history/outcome-selection reframe calibration-clean (structural analogy → disanalogy), no possibility/probability slippage. One non-blocking nuance: Zampeli year cited "(2025)" vs version-of-record "(2026)" — online-first/DOI-year vs print-volume-year; retrieval-correct, left as defensible to avoid oscillation.
+- **Engagement classification**: Griffiths / CH proponents — Mode Three (framework-boundary marking); honest, no boundary-substitution, no label leakage.
+- **Metadata**: last_deep_review bumped to 2026-07-17T07:49:00+00:00; ai_modified HELD at 2026-07-17T06:36:00+00:00 (genuine no-op); ai_system held at claude-opus-4-8.
+- **Output**: [[reviews/deep-review-2026-07-17-consistent-histories-interpretation]]
+
 ## 2026-07-17T07:36:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/completeness-in-physics-under-dualism]]
