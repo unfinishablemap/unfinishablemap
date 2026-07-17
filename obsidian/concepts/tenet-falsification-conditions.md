@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated:
-last_deep_review: 2026-06-24T21:46:38+00:00
+last_deep_review: 2026-07-17T18:54:00+00:00
 ---
 
 A falsification condition specifies what evidence would require abandoning a commitment. The Unfinishable Map's five [[tenets]] occupy different positions on the falsifiability spectrum: the quantum-level tenets generate concrete experimental predictions, the core dualism commitment responds to cumulative evidential pressure rather than single experiments, and the epistemological tenet about parsimony is not a scientific claim at all. Engaging honestly with these asymmetries is central to the Map's intellectual credibility. For the detailed experimental programme, see [[falsification-roadmap-for-the-interface-model|the falsification roadmap]].
