@@ -5,6 +5,19 @@ ai_modified: 2026-07-17T06:10:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T06:43:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/post-decoherence-selection]]
+- **Basis**: second P1 of the 2026-07-17 outer-review triple (ChatGPT 5.6 Pro + Gemini 2.5 Pro), coordinated with the consistent-histories refine — same set/history/outcome-selection conflation cluster
+- **Word count**: 1916 → 2336 (+420; well under 3500 hard ceiling, status ok)
+- **Glossary (DO-1)**: added a compact four-loci glossary in "The Gap Decoherence Leaves" — preferred-basis / framework(set) / actual-history / measurement-outcome selection — locating the Map's consciousness at outcome selection and flagging locus-conflation as the error to avoid
+- **Category distinction (DO-3)**: made explicit that an improper (entangled) mixture is not a proper ignorance-mixture, so post-decoherence selection is the transition from improper mixture to a single actual outcome, not the reading-off of a pre-existing localized alternative from a menu of actualities; named the "menu" reading a category error in natural prose. Propagated the fix to the two menu-framed loci (Minimal Quantum Interaction paragraph; Pre/Post-Decoherence section) so "alternatives physics has already prepared" no longer reads as pre-decided actualities
+- **CH "replaces" claim (DO-2)**: softened '"set selection problem" effectively replaces the measurement problem' to a distinct framework-locus difficulty whose relation to the measurement problem is contested; noted Griffiths treats set choice as descriptive convenience, so the two problems are not casually equated. Also rewrote the "secondary opening" sentence that floated consciousness as set-selector — set selection is a different locus, not a second place the Map's outcome-selecting consciousness operates
+- **Evidential status (DO-4)**: marked the "only consciousness-mediated selection fits all five tenets" claim as a compatibility/consistency check against commitments already built around consciousness-mediated outcome selection, not independent evidence for the family
+- **Engagement classification** (changelog-only): the improper-mixture-as-menu reading — Mode Two (unsupported foundational move: helps itself to a proper-ignorance reading of an improper mixture without earning it); named honestly in prose, no mode labels in body
+- **Citations**: none added or changed; no web-verification owed. ai_system held at claude-opus-4-6 (targeted correctness+calibration refine, not re-authoring)
+- **Published**: yes
+
 ## 2026-07-17T06:36:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/consistent-histories-interpretation]]
