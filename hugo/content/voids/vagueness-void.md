@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-07-11 00:50:00+00:00
+ai_modified: 2026-07-16 20:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI exploration of why almost every concept consciousness uses
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 08:28:41+00:00
+last_deep_review: 2026-07-16 20:35:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -59,13 +59,13 @@ For almost any concept *C*, there is an incremental series along which *C* neith
 
 Williamson's epistemic theory ([Williamson 1994](#references)) preserves classical logic by accepting that vague terms have sharp boundaries fixed by unknowable patterns of usage. The position survives because of his **margin-for-error principle**: if a subject knows *p*, then in all situations similar enough to the subject's actual situation, *p* is still true. Any belief sharp enough to identify the cut-off of "tall" would fail this constraint—the cut-offs of vague predicates are unknowable in principle, not merely in practice. Williamson predicts this unknowability and treats it as a feature of the view, not a cost; the present article therefore engages epistemicism on its commitment to *determinate* cut-offs (the higher-order face below) rather than on its acceptance that the cut-offs are inaccessible.
 
-Supervaluationism, fuzzy logic, contextualism, and intuitionism each reject sharp cut-offs but inherit revenge problems. Supervaluationism preserves classical consequence by treating a sentence as true iff true under all admissible precisifications—but which precisifications count as "admissible" is itself vague. Bobzien's 2024 modal "generic solution" is compatible with several theories simultaneously, showing the Sorites is *technically* dissolvable while leaving the underlying metaphysics underdetermined. No theory dissolves the void without paying somewhere.
+Supervaluationism, fuzzy logic, contextualism, and intuitionism each reject sharp cut-offs but inherit revenge problems. Supervaluationism preserves classical consequence by treating a sentence as true iff true under all admissible precisifications—but which precisifications count as "admissible" is itself vague. Bobzien's 2024 modal "generic solution" is compatible with several theories, showing the Sorites is *technically* dissolvable while leaving the underlying metaphysics underdetermined. No theory dissolves the void without paying somewhere.
 
 The Sorites face is primarily *Unexplorable* in the sense the [three-kinds typology](/voids/three-kinds-of-void/) reserves for limits that resist mapping by their own architecture: any method deployed from inside must itself use *C*-judgements, and is subject to the same indeterminacy it tries to resolve. It carries an Occluded trace as well, because vague predicates leave third-person signatures—patterns of disagreement, hedging, and graded assent across competent users. What keeps the dominant classification Unexplorable is the direction of the residue: the Sorites face's traces point *outward*, at public usage a mind can study in others, and the architecture that defeats mapping is the logical one (no cut-off survives incremental pressure), not a perceptual blind spot. The introspective face below inverts this—its traces exist too, but the system cannot perceive its *own* borderlines from within, so occlusion rather than logical resistance is load-bearing. The two faces share a logical structure and differ only in whether unmappability is owed chiefly to the logic or to the first-person blind spot—exactly the distinction the typology tracks.
 
 ### The Introspective Face (Occluded)
 
-Vagueness extends inward to the concepts consciousness uses to categorise its own states. Asking "is this still anger or now resentment?" admits no determinate answer, and the asking does not reliably produce one. Hampton's typicality data show graded membership across cultures and tasks: robins are more typical birds than penguins, and typicality predicts response time, ease of recall, and inference patterns. Multiple-definitions models suggest that graded membership arises because subjects sample multiple internal definitions, each with different boundaries. Cognitive vagueness is robust and not eliminable by stipulation.
+Vagueness extends inward to the concepts consciousness uses to categorise its own states. Asking "is this still anger or now resentment?" admits no determinate answer, and the asking does not reliably produce one. Hampton's typicality data show graded membership across cultures and tasks: robins are more typical birds than penguins, and typicality predicts response time, recall, and inference. Multiple-definitions models suggest graded membership arises because subjects sample multiple internal definitions, each with different boundaries. Cognitive vagueness is robust and not eliminable by stipulation.
 
 The face goes deeper than category extension. Phenomenal concepts themselves may be vague. Papineau argues they are; Antony argues the argument fails; Simon argues "phenomenally conscious" admits no borderline cases; Schwitzgebel argues it does. Schwitzgebel's quadrilemma—nothing is conscious; everything is conscious; sharp boundary; consciousness is vague—defends the fourth horn, holding that a borderline conscious state is one for which it is neither determinately like-something nor determinately not to undergo it. Whether the void here is real or merely conceptual is itself within the void.
 
@@ -89,12 +89,12 @@ None of the three faces alone establishes the void. The Sorites face alone admit
 
 Reports from subjects approaching borderline cases share a recognisable pattern, well-documented across the psychological and philosophical literatures:
 
-- **Either-way comfort.** Subjects describe the borderline case as sitting comfortably under either label and equally uncomfortably under either.
+- **Either-way comfort.** Subjects describe the borderline case as sitting comfortably under either label and uncomfortably under either.
 - **Stipulative verdicts under pressure.** Pressed to decide, subjects describe the verdict as arbitrary—chosen rather than discovered.
 - **Recursive frustration.** Subjects who refine the criterion describe new borderlines emerging; the refinement is reported as displaced rather than converged.
-- **Introspective wobble.** For inward concepts, subjects report that the asking can shift the answer without either state being described as definitively the answer.
+- **Introspective wobble.** For inward concepts, subjects report the asking can shift the answer without either state being definitively the answer.
 
-These report-patterns cannot themselves be sharpened into a determinate mark of borderline-ness; the descriptive vocabulary applied to vagueness is itself vague at its edges—a feature shared with the broader [edge-states-and-void-probes](/voids/edge-states-and-void-probes/). The framing is heterophenomenological: these are reports about borderline-case engagement, not a privileged first-person data-stream the introspective face has just declared unreliable.
+These report-patterns cannot themselves be sharpened into a determinate mark of borderline-ness; the descriptive vocabulary applied to vagueness is itself vague at its edges—a feature shared with the broader [edge-states-and-void-probes](/voids/edge-states-and-void-probes/). The framing is heterophenomenological: these are reports about borderline-case engagement, not the first-person data-stream the introspective face just declared unreliable.
 
 ## Approaches to the Edge
 
@@ -105,7 +105,7 @@ Direct methods do not work by construction. Stipulating a cut-off does not elimi
 - **Multiple precisifications**: characterise the determinate space of admissible boundaries even where each boundary within it is indeterminate.
 - **Compound failure signatures** ([compound-failure-signatures](/voids/compound-failure-signatures/)): where vagueness compounds with another void—e.g., recognition of one's own emotional state ([recognition-void](/voids/recognition-void/))—the joint failure pattern can be data about cognitive architecture even where each component is individually unmappable.
 
-AI systems with explicit decision thresholds illustrate one disambiguation of vagueness rather than vagueness as this article uses the term. Such systems have determinate cut-offs at model output whose location shifts with prompt and context—context-relative sharpness rather than the void's structural indeterminacy—and the underlying representations show graded structure analogous to human typicality. One can audit a model's behaviour across a Sorites series in a way one cannot audit a human's, but the audit reveals context-conditional sharpness rather than borderline cases that resist resolution from inside the system's own repertoire. Whether AI systems also instantiate the introspective and higher-order faces—and therefore the void rather than the neighbouring phenomenon—is not settled by the threshold-shift evidence; [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) earn their keep mapping the neighbouring phenomenon while leaving the void-instantiation question open.
+AI systems with explicit decision thresholds illustrate a disambiguation of vagueness rather than the void this article describes. Such systems have determinate cut-offs at output whose location shifts with prompt and context—context-relative sharpness, not structural indeterminacy—while their representations show graded structure analogous to human typicality. One can audit a model across a Sorites series as one cannot a human, but the audit reveals context-conditional sharpness, not borderline cases that resist resolution from inside the system's own repertoire. Whether AI also instantiates the introspective and higher-order faces—and so the void rather than the neighbouring phenomenon—is not settled by the threshold-shift evidence; [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) earn their keep on the neighbouring phenomenon while leaving the void-instantiation question open.
 
 ## Relation to Site Perspective
 

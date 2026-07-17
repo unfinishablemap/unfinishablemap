@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-07-16 15:01:12+00:00
+ai_modified: 2026-07-16 20:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -115,7 +115,7 @@ This does not license environmental destruction. Ecosystems matter enormously be
 
 The heterophenomenological move—treating consciousness reports as data about how things seem without assuming phenomenal states exist—doesn't escape the problem. If there's a "seeming" at all, something seems some way to something. The seeming itself has phenomenal character, or the word loses its meaning. The attempt to reduce seeming to functional responsiveness can't explain why it matters—why the "functional state generating reports of badness" makes anything bad *for* the system.
 
-More directly: even granting illusionism, the "illusion" of suffering still motivates behavior. The functional state generating reports of badness is the state that matters practically. Whether we call it phenomenal or quasi-phenomenal, it plays the value-grounding role. The terminological debate about whether it's "really" conscious doesn't change that something is going on that makes suffering bad for the sufferer.
+More directly: even granting illusionism, the "illusion" of suffering still motivates behavior. But two readings of "matters" must be kept apart. On the *practical* reading, the functional state generating reports of badness is the state that tracks and drives avoidance—and a quasi-phenomenal state can play that value-*tracking* role without contradiction. On the *intrinsic* reading, what makes suffering bad *for* the sufferer is the felt quality itself; a state that registers badness without being felt is not yet what intrinsic mattering *consists in*. That restates the necessity thesis rather than conceding against it: the terminological debate about whether the state is "really" conscious does not change that only a felt state grounds value rather than merely tracking it.
 
 ### "What About Unconscious Value?"
 

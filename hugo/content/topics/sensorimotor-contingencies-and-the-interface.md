@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-20 17:32:54+00:00
+ai_modified: 2026-07-16 21:52:19+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Perception depends on lawful patterns between movement and sensatio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 10:02:57+00:00
+last_deep_review: 2026-07-16 21:52:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ This article extends the Map's [general treatment of embodied cognition and the 
 
 ## Sensorimotor Contingency Theory
 
-O'Regan and Noë's sensorimotor contingency theory (2001) makes a radical proposal: the qualitative character of perceptual experience is constituted by the perceiver's practical knowledge of sensorimotor contingencies. On their account the redness of red is not an intrinsic property of a brain state; it is mastery of the specific patterns governing how red-related sensory stimulation varies with movement — how red surfaces behave under changing illumination, how they appear at different angles, how eye movements affect the retinal image. Whether this constitutive claim succeeds is exactly the contested question the rest of this article weighs; the proposal is presented here as the position whose merits and limits the Map then assesses.
+O'Regan and Noë's sensorimotor contingency theory (2001; developed at book length in Noë 2004) makes a radical proposal: the qualitative character of perceptual experience is constituted by the perceiver's practical knowledge of sensorimotor contingencies. On their account the redness of red is not an intrinsic property of a brain state; it is mastery of the specific patterns governing how red-related sensory stimulation varies with movement — how red surfaces behave under changing illumination, how they appear at different angles, how eye movements affect the retinal image. Whether this constitutive claim succeeds is exactly the contested question the rest of this article weighs; the proposal is presented here as the position whose merits and limits the Map then assesses.
 
 O'Regan and Noë identify two main levels of contingency:
 

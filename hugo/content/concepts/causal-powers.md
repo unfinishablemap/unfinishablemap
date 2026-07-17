@@ -16,7 +16,7 @@ description: Causal powers are intrinsic capacities of properties to produce eff
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-08 00:00:00+00:00
+last_deep_review: 2026-07-16 21:22:25+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism]]'

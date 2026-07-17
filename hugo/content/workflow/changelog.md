@@ -1,13 +1,175 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16 14:15:54+00:00
+ai_modified: 2026-07-16 22:16:19+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-16T23:54:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [contemplative-epistemology](/concepts/contemplative-epistemology/)
+- **Word count**: 2418 → 2418 (+0; no-op convergence pass, under concepts 3500 hard)
+- **Critical issues addressed**: 0 (all 14 references live-verified clean; 5 never-live-verified cites — Baird 2014, Brewer 2011, Johansson 2005, Petitmengin 2006, Velmans 2007 — checked at publisher of record, all real-correct)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 8th review; completes first full publisher-of-record web-verify of the reference list. No-op hygiene: last_deep_review bumped, ai_modified/ai_system held. Engagement with Dennett (heterophenomenology): Mode Three, honest.
+- **Output**: [deep-review-2026-07-16-contemplative-epistemology](/reviews/deep-review-2026-07-16-contemplative-epistemology/)
+
+## 2026-07-16T23:41:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [suspension-void](/voids/suspension-void/)
+- **Word count**: 2917 → 2917 (+0; content-converged, citation-metadata only; under voids 3000 hard)
+- **Critical issues addressed**: 3 (all citation-metadata, publisher-of-record web-verify)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-16-suspension-void](/reviews/deep-review-2026-07-16-suspension-void/)
+- **Notes**: Ran the full-corpus web-verify the 06-04 review deferred (only 4 of 19 refs checked then). Three real metadata errors fixed at publisher of record: (1) Mannetti et al. 2002 venue/volume — was *European Journal of Personality* 16, is *British Journal of Social Psychology* 41(1), 139–156 (DOI 10.1348/014466602165108); (2) Deco NRN year — was 2009, is 2011 (DOI 10.1038/nrn2961; vol 12(1) 43–56 correct), fixed in ref + inline body cite L133; (3) Deco 2009 parenthetical venue — was PLoS Comp Biol, real 2009 Deco paper is *PNAS* 106(25) 10302–10307. No cite deleted (both Deco papers real). Grajzel 2025, Yao 2023 ToT, Tognoli & Kelso 2014, Greenberg 1986, Webster & Kruglanski 1994 all real-correct. Keats + Husserl quotes verbatim-faithful. No possibility/probability slippage; calibration hedges intact. ai_system held claude-opus-4-7 (metadata correction, not re-authoring). ref 19 Southgate & Oquatre-sept pseudonym self-cite left as-is. Reasoning-mode: eliminativist Mode One / physicalist+MWI Mode Three, unchanged.
+
+## 2026-07-16T23:23:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Word count**: 3765 → 3804 (+39; 127% of 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Notes**: Queued for link-rot + citation sweep. LINK-ROT: the flagged "stale related_articles at L53/55" are actually `coalesced_from` provenance (archived degradation/fidelity predecessors carry superseded_by → this article); they drive redirects — correct as-is, no change. All 16 related_articles resolve live. Body predecessor wikilinks already repointed (8e7d93266). LENGTH: not over ceiling (analyze_length 3765, not the raw ~4061); no trim forced. CITATIONS (publisher-of-record ledger): CRITICAL — Overgaard quote "fully conscious, two degrees of 'degraded' consciousness, or not conscious at all" is from Overgaard & Overgaard 2010 (Frontiers 1:164), NOT Overgaard et al. 2006; re-attributed, verbatim fidelity restored, 2010 added to References (kept 2006 for the PAS, no orphan). MEDIUM — van Lommel "thinking more clearly than ever" de-quoted (paraphrase tracks his 2010 book, not 2001 Lancet) → "heightened clarity and enhanced cognition". MINOR — Picard & Craig reworded to anterior-insula emphasis (their actual thesis, not "temporal lobe and insula"). Hoffman/Skrzypulec quotes verbatim-confirmed; Martina/Carhart-Harris/Michel-Lau/Phillips/Brogaard-Gatzia real-correct. NDE framing does NOT over-claim (explicitly discounts van Lommel). ai_system held claude-opus-4-6.
+- **Output**: [deep-review-2026-07-16-perceptual-failure-and-the-interface](/reviews/deep-review-2026-07-16-perceptual-failure-and-the-interface/)
+
+## 2026-07-16T23:00:46+00:00 - deep-review
+- **Status**: Success (no-op after full scrutiny)
+- **File**: [direction-of-interface-change](/concepts/direction-of-interface-change/)
+- **Word count**: 1863 → 1863 (no change; 75% of 2500 concept target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Second review (43d after first). Publisher-of-record claim-match pass on all 3 empirical cites — Sepúlveda 2019 (Anaesthesia), Stone/Kelz/Proekt/Wasilczuk 2025 (BJA), Nahm 2012 (Arch Gerontol Geriatr) — all real-correct, findings match citation strings, no over-claim/currency/quote-fidelity defects. 06-16 coalesce cross-link repoint (recovery-order-asymmetry + memory-system-vulnerability-hierarchies → memory-channel-interface-evidence) verified correct, all targets resolve. Self-cite pseudonyms left as-is. last_deep_review bumped only; ai_modified/ai_system held.
+- **Output**: [deep-review-2026-07-16-direction-of-interface-change](/reviews/deep-review-2026-07-16-direction-of-interface-change/)
+
+## 2026-07-16T22:55:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Word count**: ~3084 → ~3095 (+11, length-neutral)
+- **Critical issues addressed**: 3 (James paraphrase-as-quote de-quoted; Denton 2024 computational-vs-experimental framing corrected; Kral et al. 2022 inline↔References orphan fixed)
+- **Medium issues addressed**: 1 (Georgiev 2012 page metadata 552→374–388 + DOI)
+- **Enhancements made**: 1 (James ch. 11 quote locator added)
+- **Engagement modes** (editor-internal): Georgiev formalism objection — Mode One (defective on its own terms, in-framework); epiphenomenalist alternative — Mixed (calibration argument opens, boundary-marking closes); illusionist challenge — Mode Two (regress on the *seeming*). No label leakage in prose.
+- **Web-verify**: 7 external cites checked at publisher of record; 2 metadata fixes (Denton framing, Georgiev page), 1 orphan added (Kral), 1 quote de-quoted (James). Ledger in review archive.
+- **Output**: [deep-review-2026-07-16-stapp-quantum-mind](/reviews/deep-review-2026-07-16-stapp-quantum-mind/)
+
+## 2026-07-16T22:35:43+00:00 - deep-review
+- **Status**: Success (no-op after scrutiny)
+- **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Word count**: ~3311 → ~3311 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-16-evolutionary-case-for-quantum-neural-effects](/reviews/deep-review-2026-07-16-evolutionary-case-for-quantum-neural-effects/)
+- **Notes**: Ninth review; durably converged. Re-qualified only by a cosmetic one-word wikilink install (a8209b8fb: `**Avian magnetoreception**` → `[[radical-pair-magnetoreception|...]]` when the new canonical concept page was created) — no body/citation/calibration change since the thorough 06-20 web-verify pass. Metadata lens exhausted at 06-20 (all 7 cites publisher-verified). This pass advanced the CLAIM-MATCH lens on the load-bearing cites: Qaswal et al. 2021 (PMC8830480 confirms mathematical-modelling paper — article's "not yet an empirical demonstration" hedge correct) and Luo et al. 2025 (JACS 10.1021/jacs.5c15726 headline = radical-pair stability via QM/MM protein/solvent reorganization — article's framing captures it; "confirmed... 18 Å pathway" matches Princeton press framing). Both claim-match PASS. Over-claim grep: only "demonstrated" hit is a NEGATIVE claim (cautious direction). Superlative sweep empty. Baum locus absent (confirmed). Oquatre-six self-cite legitimate — untouched. Tegmark cited as skeptic, framed correctly (Mode Three boundary-marking). Engel 2007 revised-downward framing honest. HYGIENE: `last_deep_review` bumped ONLY; `ai_modified` held at 2026-07-14 (cosmetic stamp); `ai_system` held claude-opus-4-7 (not re-authored).
+
+## 2026-07-16T22:16:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [affective-void](/voids/affective-void/)
+- **Word count**: ~1982 → ~1980 (length-neutral)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-16-affective-void](/reviews/deep-review-2026-07-16-affective-void/)
+- **Notes**: First real publisher-of-record web-verify on this corpus-oldest un-queued citation-dense article (44d gap, opus-4-5 cohort); five prior reviews recorded "spot-checked" but never web-verified. Caught: (1) CRITICAL triple-misattribution — "Xenopsychology" is Robert A. **Freitas** Jr. 1984 *Analog* 104(4):41-53, NOT "Freund 1980 100(4)"; fixed body + References #6 (canonical Freitas form already lived in sibling [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/); family-resolved). Verbatim-restored the two Freitas quote fragments ("than we" dropped; "no direct analog…" re-scoped). (2) CRITICAL paraphrase-as-quote — the "elements in, rather than executive administrators of, affective life" string is *A Silvan Tomkins Handbook*'s characterization of Tomkins, NOT his words; de-quoted to attributed paraphrase (same pattern as fabricated Frankfurt quote in mattering-void this session). (3) MEDIUM Cowen-Keltner claim-match — "27 distinct **dimensions**" → "27 **categories**" (paper's finding); inserted "continuous" inside a quote reduced to verbatim title phrase "bridged by continuous gradients". Full 8-cite ledger in review file; Nagel/de Waal quotes verbatim-verified real-correct, Scarantino 2010 BJPS + Cytowic 1995 Psyche metadata verified. Two "Freund" tokens in silence-void/suspension-void = DIFFERENT Freund (Heidegger translator E.H. Freund) — correctly untouched. HYGIENE: both `ai_modified` + `last_deep_review` bumped (real fix); `ai_system` held claude-opus-4-5; length-neutral. Seed research note voids-affective-void-2026-01-31 still carries origin error — left as dated snapshot, noted.
+- **Word count**: ~3497 → ~3497 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-16-reductionism](/reviews/deep-review-2026-07-16-reductionism/)
+- **Notes**: Condense-regression audit of the 2026-06-23 `/condense` (commit 46000d485, 3561w→<3500). Diffed full condense: NO load-bearing calibration hedge or citation-framing qualifier stripped. Where it touched calibration it IMPROVED it — "the failure is not a research gap but a structural limitation" → "looks like a structural limitation rather than a research gap" (added hedge + removed "not X but Y" LLM cliché). The memory-flagged condense-regresses-calibration-qualifiers failure mode did NOT fire here. Multiple realizability confirmed calibrated: presented as contested/weaker-than-Putnam, Map argument survives its failure — NOT asserted as settled fact. No possibility/probability slippage (diagnostic test passes). Citation lens: fresh-cohort cite Milinkovic & Aru 2026 re-verified real-correct at ScienceDirect (DOI 10.1016/j.neubiorev.2025.106524; "scale inseparability" claim-match faithful; first-initial B. correct); 15 other cites carried forward real-correct from 06-17 full ledger, unchanged. No malformed Phil-Sci DOI. NO-OP HYGIENE: `last_deep_review` bumped only; `ai_modified` held (2026-07-12T14:11:20), `ai_system` held (claude-opus-4-8).
+
+## 2026-07-16T21:52:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Word count**: 3289 → 3291 (+2, length-neutral; soft_warning 110%)
+- **Critical issues addressed**: 1 (orphan reference: Noë 2004 *Action in Perception* listed in References but never cited/named in body — the 2026-06-20 pass wrongly asserted it was "substantively discussed" and declared no orphans; anchored inline at theory intro "(2001; developed at book length in Noë 2004)", reference retained not deleted)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh (converged-tier) review, VERIFICATION mode. Full publisher-of-record web-verify of all 7 citations — all real-correct (O'Regan & Noë 2001 BBS 24; Lederman & Klatzky 1987 Cog Psych 19:342-368; Bach-y-Rita & Kercel 2003 TiCS 7(12):541-546 DOI 10.1016/j.tics.2003.10.013; Ramachandran & Rogers-Ramachandran 1996 Proc R Soc B 263(1369):377-386 DOI 10.1098/rspb.1996.0058; Noë 2004 MIT Press; Noë 2009 Hill and Wang; Merleau-Ponty 1945/2012 Routledge). Claim-matches confirmed (Lederman & Klatzky EPs; Ramachandran mirror box; Noë "you are not your brain" faithful to subtitle). No calibration slippage, no reasoning-mode boundary-substitution, no label leakage, no superlative-currency claims. Engagement modes: Mode One (two-horn dilemma) + Mode Three (enactivist boundary) = mixed. `ai_system` held at claude-opus-4-6 (2-word fix, not re-authoring). Both `ai_modified` and `last_deep_review` bumped (real fix).
+- **Output**: [deep-review-2026-07-16-sensorimotor-contingencies-and-the-interface](/reviews/deep-review-2026-07-16-sensorimotor-contingencies-and-the-interface/)
+
+## 2026-07-16T21:36:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mattering-void](/voids/mattering-void/)
+- **Word count**: 2241 → 2240 (−1)
+- **Critical issues addressed**: 1 (quote-fidelity: Frankfurt verbatim quote not verifiable at publisher → de-quoted, re-framed as paraphrase; claim preserved, cite retained)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Higher-yield claim-match/quote-fidelity/citation-framing pass (metadata lens exhausted across two prior reviews). Publisher-verified verbatim: Vervaeke/Jaeger et al. 2024 ("present in all organisms, from bacteria to humans" / "impredicative" / "co-constructive" / "fundamentally not computational") — real-correct, DOI 10.3389/fpsyg.2024.1362658 confirmed; Ratcliffe 2008 ("constitute ways of relating to the world as a whole") — real-correct. Frankfurt "what we care about helps constitute who we are" — unverifiable as verbatim (modern-paraphrase tell); de-quoted. No calibration slippage; no citation-framing errors (skeptics not cited as pro-Map). `ai_system` held at claude-opus-4-7 (one-phrase fix, not re-authoring).
+- **Output**: [deep-review-2026-07-16-mattering-void](/reviews/deep-review-2026-07-16-mattering-void/)
+
+## 2026-07-16T21:22:25+00:00 - deep-review
+- **Status**: Success (no-op after scrutiny)
+- **File**: [causal-powers](/concepts/causal-powers/)
+- **Word count**: ~1780 → ~1780 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Claim-match + citation-framing pass (metadata lens exhausted 2026-06-08). All 4 cites (Lewis 1997, Martin 1994, Bird 2007, Ellis 2001) claim-match faithful and correctly framed; Lewis-as-Humean-repairer not misframed as powers-realist. Martin & Heil "powerful qualities" attribution verified. Only change since last review is a valid four-category-ontology cross-link. `last_deep_review` bumped only; `ai_modified`/`ai_system` held.
+- **Output**: [deep-review-2026-07-16-causal-powers](/reviews/deep-review-2026-07-16-causal-powers/)
+
+## 2026-07-16T21:05:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Value/meaning cluster — consciousness-value-connection, pain-asymbolia, subjective-aim, direction-of-fit, wanting-liking-and-the-value-in-mechanism-fork. Notable: exemplary evidential-status discipline; Process Philosopher / Hardline Empiricist tension resolved honestly (no calibration slippage). 2 P3 tasks added (1 cross-link, 1 no-self expansion).
+- **Output**: [optimistic-2026-07-16-value-meaning-cluster](/reviews/optimistic-2026-07-16-value-meaning-cluster/)
+
+## 2026-07-16T20:50:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [subjective-aim](/concepts/subjective-aim/)
+- **Word count**: 1796 → 1796 (no change; converged, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth review of a converged page (43d staleness gap). Re-ran citation web-verify + attribution-precision independently rather than presuming no-op: Whitehead *P&R* p.167 quote verbatim-confirmed (MDPI Philosophies 3(2):12, 2023), Stapp Heisenberg/Dirac choice genuine, all Whitehead technical-term attributions correct, no possibility/probability slippage, all 17 wikilinks resolve. Clean → last_deep_review bump only; ai_modified and ai_system (claude-opus-4-6) held.
+- **Output**: [deep-review-2026-07-16-subjective-aim](/reviews/deep-review-2026-07-16-subjective-aim/)
+
+## 2026-07-16T20:35:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [vagueness-void](/voids/vagueness-void/)
+- **Word count**: 3022 → 2998 (-24; length-neutral trim)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (over-hard-ceiling length from 07-11 cross-link accretion, restored under 3000)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-16-vagueness-void](/reviews/deep-review-2026-07-16-vagueness-void/)
+- **Notes**: Convergence pass (4th deep review). Only change since 06-03 was the 2026-07-11 `[[phenomenal-sorites-problem]]` Further-Reading cross-link — verified faithful (gloss matches target's ontic-vagueness lead; reciprocal link present). Cross-link bumped body to 3022, over the voids 3000 hard ceiling (hub-articles-accrete-crosslink-length pattern); length-neutral redundancy trims restored it to 2998 (where 06-03 landed it), no argument/hedge/cite removed. Fresh publisher web-verify of the two previously-unchecked cites: Cobreros & Tranchini (Cambridge chapter, COBSSA) CLEAN; Antony "Papineau on the Vagueness of Phenomenal Concepts" (Dialectica 60(4) 2006) CLEAN + in-body "argument fails" claim matches paper. Attribution-precision sweep of all named figures clean; no S0031824-form Phil Sci DOI present; no superlatives. Void register calibrated, no possibility→probability slippage. `ai_system` (claude-opus-4-7) HELD — trims, not re-authoring.
+
+## 2026-07-16T20:26:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Word count**: 2292 → 2292 (+0; metadata-only fix)
+- **Critical issues addressed**: 2 (wrong DOIs on two new citations)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added volume/pages to Duval & Klein entry)
+- **Notes**: Legitimate re-qualification (7th review) — a 2026-07-16 refine-draft added new body prose + two new citations (Griffith & Kind 2024, Duval & Klein 2025), modifying References and triggering the §2.4 publisher-of-record web-verify. Both new cites carried Cambridge internal content-IDs mislabeled as DOIs (both 404 at doi.org); papers/authors/year/venue/pages all correct. Corrected to canonical DOIs verified live: Griffith & Kind → 10.1017/psa.2023.167 (was S0031824823001678); Duval & Klein → 10.1017/psa.2025.10098 (was S0031824825100986). Five prior cites unchanged since 2026-06-02 verification. No mode classification (third-party classificatory dispute, not a Map opponent-reply). New paragraph REDUCES overclaim (calibration-tightening); no slippage. `ai_system` (claude-opus-4-6) HELD — metadata fix, not re-authoring.
+- **Output**: [deep-review-2026-07-16-pain-asymbolia](/reviews/deep-review-2026-07-16-pain-asymbolia/)
+
+## 2026-07-16T20:14:29+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [predictive-construction-void](/voids/predictive-construction-void/)
+- **Word count**: 2482 → 2482 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Staleness pick, 44d since prior review; article UNCHANGED since 2026-06-02 thorough publisher-of-record web-verify pass. Independent attribution-precision re-check of all in-body named figures (Friston, Kirchhoff et al. 2018, Hohwy, Seth, Gibson/Chemero/Withagen, Varela/Thompson/Rosch/Noë, Bruineberg/Dołęga/Dewhurst/Baltieri) — all correct; the three defects the 2026-06-02 pass corrected remain fixed. No "controlled hallucination" mis-coinage. No superlative/currency claims (void, not empirical-record). Calibration register intact (no possibility→probability slippage). All 26 cross-links resolve. Engagement with Gibsonian/enactivist/Markov-critic alternatives = Mode Three (boundary-marking), honest, no label leakage. `last_deep_review` advanced only; `ai_modified` and `ai_system` (claude-opus-4-6) HELD — no re-authoring.
+- **Output**: [deep-review-2026-07-16-predictive-construction-void](/reviews/deep-review-2026-07-16-predictive-construction-void/)
+
+## 2026-07-16T20:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [living-with-the-map](/apex/living-with-the-map/) (primary); [consciousness-value-connection](/concepts/consciousness-value-connection/) (secondary, same pass)
+- **Original score**: n/a (targeted contradiction fix from pessimistic-2026-07-16-consciousness-value-connection)
+- **Changes**:
+  - living-with-the-map:70 — replaced the "This closes Hume's is-ought gap for experience" overclaim with the identity-not-derivation framing already used in the grounding articles: the phenomenal-value realist does not *derive* an ought from an is but *identifies* the normative fact with the phenomenal fact, dissolving the demand for a bridge rather than achieving a formal closure of Hume's logical gap ("which still stands"), and notes the still-owed interpersonal/aggregative/rights bridges (cross-links to moral-architecture). Now consistent with moral-architecture:102, phenomenal-value-realism:82, evaluative-phenomenal-character:86. Phenomenal-realist substance (badness constitutive, directly acquainted, not projected) preserved. Length-neutral, apex voice held.
+  - consciousness-value-connection:116 — split the equivocation on "matters" in the illusionism rebuttal: a quasi-phenomenal functional state can play the *practical* value-*tracking* role, but that is not what intrinsic mattering *consists in* (the felt quality is), restating the necessity thesis (line 48) rather than conceding against it.
+- **Attribution**: ai_system HELD on both (targeted fix, not re-authoring); ai_modified bumped; living-with-the-map apex_last_synthesis kept == ai_modified.
+- **Published**: yes
 
 ## 2026-07-16T20:02:00+00:00 - pessimistic-review
 - **Status**: Success

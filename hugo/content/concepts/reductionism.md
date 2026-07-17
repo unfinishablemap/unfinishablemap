@@ -30,7 +30,7 @@ description: Reductionism succeeds across science—temperature, life, heredity 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-17 22:39:32+00:00
+last_deep_review: 2026-07-16 21:56:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
