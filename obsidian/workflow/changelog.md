@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T01:47:58+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T05:38:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro; filename slug 5-5-pro from commission time)
+- **File**: [[reviews/outer-review-2026-07-17-chatgpt-5-5-pro]]
+- **Subject**: recent-aged fallback audit of [[concepts/consistent-histories-interpretation]]
+- **Extraction**: js-dom (walk() markdown injected into DOM, read back verbatim via get_page_text — javascript_tool's ~925-char return cap made direct chunking unreliable; length/checksum-validated against the on-page source)
+- **Claims verified**: 2 (Dec 2025 Zampeli–Pavlou–Wallden Found. Phys. paper — VERIFIED real+relevant; internal convergence with the Map's own 2026-07-09 pessimistic high-severity flag — VERIFIED). Objection-literature and formalism claims assessed sound against standard sources.
+- **High-value findings**: framework-selection-vs-outcome-selection category error making the "exact formal version" dualism bridge tenet-protective (converges with internal pessimistic review, left "untouched by instruction" 07-10); formalism history-projector/chain-operator conflation; overstated quasiclassicality; thinned objection literature; missed Dec 2025 result; cross-article contradiction ("rejecting many worlds demands collapse")
+- **Tasks generated**: 7 (P1: 1 — CH-article consolidated refine w/ direct-refutation remit; P2: 6 — 5 sibling-article integration fixes + 1 methodology)
+
 ## 2026-07-17T02:20:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/cross-mechanism-convergence]]

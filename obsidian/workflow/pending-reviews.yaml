@@ -186,9 +186,9 @@
   commissioned_at: '2026-07-17T02:07:03.591937+00:00'
   prompt_summary: Audit consistent-histories-interpretation article
   target_filename: outer-review-2026-07-17-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-17T05:35:52.193675+00:00'
   failure_reason: null
   prompt_text: 'Please act as a rigorous, skeptical outer reviewer for The Unfinishable
     Map (https://unfinishablemap.org), a dualist, anti-physicalist philosophy site.
