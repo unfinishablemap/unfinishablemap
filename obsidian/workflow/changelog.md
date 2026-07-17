@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17T01:47:58+00:00
+ai_modified: 2026-07-17T05:56:14+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-17T05:56:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (gemini-2-5-pro; Deep Research)
+- **File**: [[reviews/outer-review-2026-07-17-gemini-2-5-pro]]
+- **Subject**: recent-aged audit of [[concepts/consistent-histories-interpretation]] (same subject as the 07-17 ChatGPT + Claude siblings)
+- **Extraction**: js-dom (walk() → chunked read-back; page title temporarily shortened to trim tab-context overhead)
+- **Claims verified**: 3 (Okon & Sudarsky CH critique — VERIFIED real+relevant, 2014/2015/2023; Christian List 2023 *Noûs* 57(2):316–340 — VERIFIED real but MISCHARACTERIZED by the report as a physicalist wavefunction derivation, it is modal realism; the report's charge that the article "completely omits Bigaj 2023" — FALSE, Bigaj is ref #7 and used in the Tenet-4 section)
+- **High-value findings**: 2 genuine in-scope omissions (Okon–Sudarsky; List 2023) — but BOTH already handled. Most of the report (improper-mixture "category error", Born-preserving selection, ~10 bit/s bandwidth, quantum biology, Donadi 2021 collapse bounds, predictive processing) targets the "surrounding corpus", not this article, which uses none of those terms. Documented hostile-Deep-Research corpus-import pattern.
+- **Tasks generated**: 0 — Okon–Sudarsky already queued via the sibling ChatGPT 07-17 P1 refine (finding 5); List 2023 already engaged in [[vertiginous-question]] / [[concepts/many-worlds]] / [[indexical-knowledge-and-identity]] (completed 2026-06-01). No duplicates minted (same-file-pileup discipline). Cross-reviewer convergence on Okon–Sudarsky left for `/combine-outer-reviews`.
 
 ## 2026-07-17T05:38:00+00:00 - outer-review
 - **Status**: Success

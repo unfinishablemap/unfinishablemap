@@ -241,9 +241,9 @@
   commissioned_at: '2026-07-17T05:03:51.210234+00:00'
   prompt_summary: Audit consistent-histories-interpretation (hostile referee)
   target_filename: outer-review-2026-07-17-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-17T05:53:53.803752+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, or Philosophical Studies) reviewing this article for
