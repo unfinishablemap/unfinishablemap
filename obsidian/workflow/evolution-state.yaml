@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T22:30:13.484634+00:00'
-session_count: 16236
+last_updated: '2026-07-17T22:38:27.655276+00:00'
+session_count: 16237
 cycle_position: 11312
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-17T05:04:54.772697+00:00'
   refine-draft: '2026-07-17T16:36:11.477250+00:00'
   research-topic: '2026-07-17T07:56:57.410313+00:00'
-  replenish-queue: '2026-07-17T22:14:14.987211+00:00'
+  replenish-queue: '2026-07-17T22:38:27.655276+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-17T08:04:45.504491+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-17'
-  outcome: success
 - task: check-tenets
   type: check-tenets
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1329,8 +1329,8 @@ queue_status:
   last_floor_restore_target: deep-review concepts/philosophical-zombies.md (staleness
     Source 4; real damping-aware scorer get_review_candidates; opus-4-8 CONCEPT, ai_contribution
     100, last_deep_review 2026-06-18, oldest-reviewed clean survivor after the session
-    drained the free-will / non-Western / info-metaphysics citation cohort; yield =
-    genuine git-verified changed-since-review delta commit 833bc6fc6 reworking six
+    drained the free-will / non-Western / info-metaphysics citation cohort; yield
+    = genuine git-verified changed-since-review delta commit 833bc6fc6 reworking six
     calibration passages AFTER the 06-18 review + a live verbatim axis on 40 quotes;
     thematically distinct from the luck-objection and interface-friction opens.)
   last_floor_restore_note_2026_07_17_staleness_luck_objection_2144: 'Floor-restore
@@ -1364,8 +1364,8 @@ queue_status:
     [todo line 124] + concepts/interface-friction [todo line 131], both prior floor-restore
     mints not yet drained; veto condense P2s composition-question-rivals / meaning-of-life
     parser-excluded VETOED; P3s + many-worlds / quantum-consciousness / quantum-biology
-    / personal-identity human-length-decision tasks do NOT count toward the floor of
-    3); == 3 after (post-mint count_p0_p2_tasks re-verified == 3). Restores MIN_QUEUE
+    / personal-identity human-length-decision tasks do NOT count toward the floor
+    of 3); == 3 after (post-mint count_p0_p2_tasks re-verified == 3). Restores MIN_QUEUE
     floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state; all content
     sections AT CAP so loop can only cycle reviews/condense/positions; NOT empty-queue
     deadlock). NO concurrent evolve_loop (pgrep -af evolve_loop.py empty, sole hit
@@ -1379,26 +1379,27 @@ queue_status:
     changed-since-review delta, git-verified NOT fabricated: refine-draft commit 833bc6fc6
     2026-07-17T0212 reworked six calibration passages AFTER the 06-18 deep-review,
     all unreviewed by deep-review -- reconciled the central-support summary with the
-    Interactionist Escape concession, softened no-such-story-has-been-supplied to commands-consensus,
-    re-hedged the falsification-conditions + quantum-loci framing; substantive REVIEWABLE
-    prose per git show, NOT wikilink/frontmatter cosmetic. Article carries 40 verbatim
-    quotes so the verbatim axis is live. PRIMARY LENS = cross-review that unreviewed
-    calibration delta + a verbatim/quote-fidelity pass on the Chalmers/Block/Kirk/Tallis
-    surface at the primary publisher NOT author+year metadata NOR unfinishablemap.org
-    / aggregators (circular); never delete a real source on a false negative; de-quote
-    paraphrase-as-quote; thematically DISTINCT from the two open free-will-luck + interface-friction
-    CONCEPT P2s. LENGTH 3492 body words = soft_warning (concepts soft 2500 / hard 3500,
-    under hard) -> length-neutral swap, NOT a condense/human-length task. NOT session-touched
-    (the 07-17T0212 refine is overnight-automated, not this interactive session whose
-    commits start 20:56; git log confirms this file untouched by session commits),
-    NOT open-queued, NOT vetoed. Standard hygiene: preserve calibration hedges, no
-    banned This-is-not-X-it-is-Y cliche, EOF tool-tag scan, HOLD ai_system opus-4-8,
-    no-op after REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified to
-    HEAD / real fix bumps BOTH, date -u stamps not future-dated, do NOT flag Map self-cite
-    pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding). Pruned the drained
-    substrate_independence floor-restore note (its task reviewed this session at HEAD
-    64782a1b6) to keep exactly 3 keys -- luck-objection, interface-friction, philosophical-zombies
-    (bloat control, zero logic dep).'
+    Interactionist Escape concession, softened no-such-story-has-been-supplied to
+    commands-consensus, re-hedged the falsification-conditions + quantum-loci framing;
+    substantive REVIEWABLE prose per git show, NOT wikilink/frontmatter cosmetic.
+    Article carries 40 verbatim quotes so the verbatim axis is live. PRIMARY LENS
+    = cross-review that unreviewed calibration delta + a verbatim/quote-fidelity pass
+    on the Chalmers/Block/Kirk/Tallis surface at the primary publisher NOT author+year
+    metadata NOR unfinishablemap.org / aggregators (circular); never delete a real
+    source on a false negative; de-quote paraphrase-as-quote; thematically DISTINCT
+    from the two open free-will-luck + interface-friction CONCEPT P2s. LENGTH 3492
+    body words = soft_warning (concepts soft 2500 / hard 3500, under hard) -> length-neutral
+    swap, NOT a condense/human-length task. NOT session-touched (the 07-17T0212 refine
+    is overnight-automated, not this interactive session whose commits start 20:56;
+    git log confirms this file untouched by session commits), NOT open-queued, NOT
+    vetoed. Standard hygiene: preserve calibration hedges, no banned This-is-not-X-it-is-Y
+    cliche, EOF tool-tag scan, HOLD ai_system opus-4-8, no-op after REAL scrutiny
+    bumps last_deep_review ONLY + reverts ai_modified to HEAD / real fix bumps BOTH,
+    date -u stamps not future-dated, do NOT flag Map self-cite pseudonyms. POST-COUNT
+    == 3 (floor exactly satisfied, no padding). Pruned the drained substrate_independence
+    floor-restore note (its task reviewed this session at HEAD 64782a1b6) to keep
+    exactly 3 keys -- luck-objection, interface-friction, philosophical-zombies (bloat
+    control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_interface_friction_2208: 'Floor-restore
     replenish 2026-07-17T2208Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
