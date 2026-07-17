@@ -5,6 +5,12 @@ ai_modified: 2026-07-17T22:50:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17 23:26 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/empirical-phenomena-mental-causation]] (placebo + choking; Tenet-3-central, 4147w, last deep-reviewed 2026-07-09; no prior optimistic pass in recent cycle history)
+- **Output**: [[reviews/optimistic-2026-07-17-empirical-mental-causation]]
+- **Notes**: Model of evidential-status discipline — Process Philosopher and Hardline Empiricist personas converge in praising the same passages (possibility/probability tension resolved honestly; tenet-as-evidence-upgrade praise-worthily declined). Expansion foreclosed by caps (topics/ 321/320). One in-contract P3 refine-draft minted: link the two bare "Kim's exclusion argument" mentions (lines 159, 161) to the existing [[concepts/causal-exclusion-argument]] page. Cap-blocked new-article ideas (nocebo, phenomenal-causation discriminators, anoetic-consciousness) recorded in review prose only, not queued.
+
 ## 2026-07-17 23:05 - deep-review
 - **Status**: Success
 - **File**: [[concepts/interface-friction]]
