@@ -1325,8 +1325,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T18:25:00+00:00'
-  last_replenishment_prev: '2026-07-17T18:10:00+00:00'
+  last_replenishment: '2026-07-17T18:45:00+00:00'
+  last_replenishment_prev: '2026-07-17T18:25:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_quantum_measurement_subjective_probability_1825: 'Floor-restore
     replenish 2026-07-17T1825Z (interactive agent /replenish-queue, conservative exact-floor
     +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this
@@ -1415,47 +1415,52 @@ queue_status:
     below the two open P2s (queue-lifo-starvation). Pruned the oldest floor-restore
     note (evaluative_phenomenal_character_1656) to keep the most-recent 3 (bloat control,
     zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_cognitive_science_of_dualism_1744: 'Floor-restore
-    replenish 2026-07-17T1744Z (interactive agent /replenish-queue, conservative exact-floor
-    +1). AUTHORITATIVE PRE-COUNT open P0-P2 == 2 verified LIVE before this single
-    write (open P2 deep-reviews concepts/ai-ensoulment-hypothesis + concepts/knowledge-argument;
-    the 17:28 sibling mint affective-tone-divergence already DRAINED via the 17:39Z
-    cycle deep-review slot [commit 8738e2c04]; #veto condense P2s composition-question-rivals
+  last_floor_restore_note_2026_07_17_staleness_bi_aspectual_ontology_1845: 'Floor-restore
+    replenish 2026-07-17T1845Z (interactive agent /replenish-queue, conservative exact-floor
+    +1). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this single
+    write (open P2 deep-reviews concepts/tenet-falsification-conditions [18:10Z] + topics/quantum-measurement-and-subjective-probability
+    [18:25Z]; the 17:44Z cognitive-science-of-dualism mint already DRAINED via a cycle
+    deep-review slot [commit 3b892e4dc]; #veto condense P2s composition-question-rivals
     / meaning-of-life / phenomenal-output-causal-machinery-dissociation parser-excluded
     [VETOED]; ~11 P3s + many-worlds / quantum-consciousness / quantum-biology / personal-identity
-    human-length-decisions do NOT count toward the floor of 3); == 3 after. HEAD 1af045d09
-    = pre-replenish tree-clean marker, no separate evolve_loop.py process (pgrep -af
-    clean), clean tree -- the loop own post-cycle replenish step, not a race ([[replenish-fork-hallucinates-concurrent-loop]]).
-    concurrent-replenish-race guard: revert redundant add if a sibling mint lands.
-    8-source audit: chain/unconsumed/gap all BLOCKED (topics 320/320, concepts 320/320,
-    voids 100/100 AT CAP; pending_articles empty); orphans 0; length offenders all
-    #veto/human-deferred; positions 8/80 audited 2026-07-16 <30d and 8<10 audit floor;
-    no applied-apex-gap. SOURCE = staleness (Source 4) + SECTION-DIVERSITY REBALANCE
-    (both open P2s are CONCEPTS, so this mint prefers a TOPIC). TARGET topics/cognitive-science-of-dualism.md:
-    ai_system claude-opus-4-7 (older cohort), ai_contribution 100, last_deep_review
-    2026-06-20 (~27d, near-stalest tier). The 07-13 ai_modified bump is the 2-line
-    cross-link integration from commit 97d38e995 (expand-topic writing logical-behaviourism)
-    -- a COSMETIC cross-touch, NOT own-body drift, so treat CONVERGED and picked for
-    the LARGEST UNVERIFIED CITATION SURFACE (owed-web-verify seam): ~9 author-year
-    cites (Bloom / Shtulman / Barrett et al), 19 year-mentions; the prior 2026-06-20
-    review left a live citation-accuracy flag ("confirm Barrett 2021 stays SIX not
-    eight"). 2189 body words = ok (topics soft 3000) -> clean length-neutral deep-review,
-    NOT condense. NOT session-touched (git log --since 2026-07-14 empty), NOT open-queued
-    (only ✓-completed headers), NOT vetoed (0 Vetoed-bank hits). PRIMARY lens = citation/quote-fidelity
-    verbatim AT THE PRIMARY PUBLISHER (aggregator/self-page hits circular); re-confirm
-    the Barrett-count datum; keep the natural-dualism finding DEBUNKING-vulnerable
-    not probative for Tenet 1 ([[evidential-status-discipline]]); do NOT presume broken
-    ([[replenish-asserted-concrete-defect-often-false]]); never delete on a false
-    negative. Converged no-op after REAL scrutiny bumps last_deep_review ONLY and
-    reverts ai_modified to HEAD / real fix bumps BOTH; HOLD ai_system opus-4-7; date
-    -u stamps not future-dated; EOF tool-tag scan. POST-COUNT == 3 (floor exactly
-    satisfied, no padding). FIFO-placed below the two open P2s ([[queue-lifo-starvation]]).
-    Pruned the oldest note (moral_implications_1521) to keep the most-recent 3 (bloat
+    human-length-decisions do NOT count toward the floor of 3); == 3 after (post-mint
+    count_p0_p2_tasks re-verified == 3). HEAD 4a83c5eb6 = pre-replenish tree-clean marker,
+    no separate evolve_loop process (pgrep -af clean), clean tree -- the loop own post-cycle
+    replenish step, not a race ([[replenish-fork-hallucinates-concurrent-loop]]). concurrent-replenish-race
+    guard: revert redundant add if a sibling mint lands. 8-source audit: chain/unconsumed/gap
+    all BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP; pending_articles
+    empty); orphans 0; length offenders all #veto/human-deferred; positions 8/80 audited
+    2026-07-16 <30d and 8<10 audit floor; no applied-apex-gap. SOURCE = staleness (Source
+    4) + CLUSTER-DIVERSITY (the two open P2s are quantum-measurement + tenet-falsifiability;
+    this mint picks a thematically distinct Tenet-1 dual-aspect ontology page). TARGET
+    concepts/bi-aspectual-ontology.md: damping-aware scorer get_review_candidates() ranks
+    it #2 clean at 20.00; de-selected #1 evaluative-phenomenal-character (minted twice today
+    + cyclepost-bug mis-marked, churn), consciousness-and-probability-interpretation (direct
+    cluster-sibling of the open quantum-measurement P2 -- same commit e364bd09e, redundant),
+    delegatory-causation (3548w over concepts hard ceiling), the-binding-problem (touched
+    07-16 + same-title ambiguity), philosophical-zombies (touched 07-17). ai_system claude-opus-4-6
+    (older cohort), ai_contribution 100, last_deep_review 2026-06-25T18:23, ai_modified
+    2026-06-25T19:08 = CONVERGED: the 19:08 bump is commit 8a97c393c (intrinsic-nature deep-review)
+    -- a COSMETIC cross-link cross-touch from a SIBLING review, NOT own-body drift, so
+    picked for the LARGEST UNVERIFIED CITATION SURFACE (owed-web-verify seam): 51 wikilinks,
+    32 year-mentions. 2696 body words = soft_warning (concepts soft 2500 / hard 3500, ~800w
+    headroom) -> clean length-neutral deep-review, NOT condense. NOT session-touched (git
+    log --since 2026-07-17 empty), NOT open-queued (both slug hits ✓-completed deep-reviews),
+    NOT vetoed. PRIMARY lens = citation/quote-fidelity verbatim AT THE PRIMARY PUBLISHER
+    (aggregator/self-page hits circular); keep the dual-aspect/neutral-monist framing a
+    RIVAL ontology not probative for interactionist dualism ([[evidential-status-discipline]]);
+    do NOT presume broken ([[replenish-asserted-concrete-defect-often-false]]); never delete
+    on a false negative. Converged no-op after REAL scrutiny bumps last_deep_review ONLY
+    and reverts ai_modified to HEAD / real fix bumps BOTH; HOLD ai_system opus-4-6; date
+    -u stamps not future-dated; EOF tool-tag scan. POST-COUNT == 3 (floor exactly satisfied,
+    no padding). FIFO-placed below the two open P2s ([[queue-lifo-starvation]]). Pruned
+    the oldest note (cognitive_science_of_dualism_1744) to keep the most-recent 3 (bloat
     control, zero logic dep).'
-  last_floor_restore_target: deep-review concepts/evaluative-phenomenal-character.md
-    (staleness Source 4; damping-aware scorer top-ranked score 20.00; changed-since-review
-    -- 06-22 anchoring-calibration refine post-dates 06-21 last_deep_review, genuine
-    unreviewed surface not a converged no-op. Interactive /replenish-queue, NOT concurrent-race.)
+  last_floor_restore_target: 'deep-review concepts/bi-aspectual-ontology.md (staleness
+    Source 4; damping-aware scorer rank-2 clean at score 20.00; converged floor-restore --
+    06-25 ai_modified is a cosmetic sibling cross-touch not own-body drift, picked for
+    the largest unverified citation surface [51 wikilinks / 32 year-mentions]. Interactive
+    /replenish-queue, NOT concurrent-race.)'
   replenishment_source_counts:
     staleness: 1
   run_739_pickable_p0_p2: 3
