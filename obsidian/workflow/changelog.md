@@ -5,6 +5,15 @@ ai_modified: 2026-07-17T11:35:46+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T15:12:26+00:00 - deep-review
+- **Status**: Success (converged no-op / mark-stable)
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Word count**: 2595 → 2595 (no change)
+- **Critical issues addressed**: 0 — none found. Seventh review. Only change since the fully-verified sixth review (2026-06-19) was one cosmetic Further Reading cross-link ([[ai-moral-agency-and-the-responsibility-gap-under-dualism]], target verified live). Body + References block unchanged → §2.4 publisher-of-record web-verify skipped by rule; the 06-19 per-cite ledger stands. No calibration slippage, no attribution/qualifier issues, no editor-vocab leakage. Compatibilism engagement Mode Two/Mixed, hard-determinism Mode Three — both stable.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged; no cosmetic edits (oscillation risk). Only `last_deep_review` bumped; `ai_modified` (2026-07-10) left at its legitimate cross-link-add value.
+- **Output**: [[reviews/deep-review-2026-07-17-responsibility-gradient-from-attentional-capacity]]
+
 ## 2026-07-17T14:40:04+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[topics/the-interface-problem]]
