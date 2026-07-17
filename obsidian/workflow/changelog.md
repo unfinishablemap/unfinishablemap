@@ -5,6 +5,21 @@ ai_modified: 2026-07-17T06:10:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T06:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consistent-histories-interpretation]]
+- **Basis**: consolidated single pass over the 2026-07-17 outer-review triple (ChatGPT 5.6 Pro + Claude Opus 4.8 + Gemini 2.5 Pro) plus the Map's 2026-07-09 pessimistic review (12 findings)
+- **Word count**: 2011 → 3000 (+989; under 3500 hard ceiling, soft_warning — growth carried by added objection-literature + two-tenet audit + framework/history/outcome distinction, all finding-mandated)
+- **Central fix (1)**: reframed the "exact, formal version" claim as a limited, contested *structural* analogy; installed the framework/history/outcome selection distinction; let the disanalogy control. Named the unsupported foundational move honestly and marked the framework-boundary disagreement in journal prose (no mode labels in body).
+- **Correctness (2,3,4)**: distinguished history projector (tensor product, history Hilbert space) from chain/class operator (time-ordered product + unitary propagators, ordinary space) per SEP; softened "everyday classical domain is derived / not added by hand" to an active contested programme; repaired "all evolution is stochastic" (unitary propagators describe evolution between events) and "outcomes are fixed" → Born-rule chance.
+- **Objection literature (5)**: added Dowker-Kent 1995, Kent 1997, Griffiths-Hartle 1998, Bassi-Ghirardi 1999 (+Griffiths reply), Zampeli-Pavlou-Wallden 2025; dropped unsourceable "widely regarded as unanswered" sociology.
+- **Calibration (6,7,10,11,12)**: Bigaj symmetric ("admits" → "Bigaj argues"); audited all five tenets (added Tenet 1 Dualism, Tenet 3 Bidirectional Interaction — CH provides no bidirectional channel); demoted ally-framing to conditional-from-outset, stating Bigaj's many-worlds reading + Wallace/Saunders "CH-realism = many-worlds" + Gell-Mann-Hartle 2012 "one real fine-grained history" before the Tenet-4 payoff; added Wallace's Dowker-Kent-cuts-harder point.
+- **Quote fidelity (8,9,11)**: purged "assessed by human-AI analysis as a Tenet-4 ally / Tenet-2 rival" from description; de-quoted the over-generalized collapse phrase to the fuller verbatim SEP fragment ("no need to invoke wave function collapse except, perhaps, as a handy calculational tool", §8.5.2, EPR-Bohm context, correctly narrowed); added verbatim Griffiths consciousness rejection from "A Consistent Quantum Ontology" (arXiv:1105.3932, p.2).
+- **Citations**: all 8 added citations independently web-verified real at publisher of record by title+venue; DOIs/vols confirmed via Crossref (Zampeli is Found. Phys. **56(1) Art. 3**, not 56(3) as the finding stated — 3 is the article number). Both new quotes verbatim-confirmed at primary source.
+- **Engagement classification (editor-internal)**: reply to Griffiths on the consciousness-selection analogy — Mode Two (unsupported-foundational-move: the Map must *earn* a selection-need CH denies) opening into Mode Three (framework-boundary disagreement, honestly noted, not refuted inside CH).
+- **Metadata**: ai_modified bumped to 2026-07-17; ai_system held at claude-opus-4-8 (targeted correctness+calibration refine, not re-authoring); draft:false; last_deep_review untouched.
+- **Published**: yes
+
 ## 2026-07-17T06:24:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-place]]
