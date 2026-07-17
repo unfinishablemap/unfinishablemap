@@ -4,7 +4,7 @@ description: "Supervenience defines when higher-level properties depend on lower
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-07-10T17:47:34+00:00
+ai_modified: 2026-07-17T15:49:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[causal-powers]]"
   - "[[qualia]]"
   - "[[philosophical-zombies]]"
+  - "[[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-strong-emergence-of-consciousness]]"
@@ -32,14 +33,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-06-25T10:31:00+00:00
+last_deep_review: 2026-07-17T15:49:15+00:00
 ---
 
 Supervenience is a relation of asymmetric dependence between levels of properties: if A-properties supervene on B-properties, then no two things can differ in their A-properties without also differing in their B-properties. The Unfinishable Map accepts that phenomenal properties covary with physical properties — no change in experience without some change in the brain — but rejects the reductive conclusions that physicalists typically draw from this covariance. Supervenience describes a pattern; it does not explain it. The question of *why* particular brain states are accompanied by particular experiences remains the [[hard-problem-of-consciousness|hard problem]], and no amount of supervenience talk resolves it.
 
 ## The Concept
 
-Supervenience was introduced to philosophy of mind by Donald Davidson in "Mental Events" (1970), though the term originates in ethics with R.M. Hare. Davidson held that mental events are identical to physical events (token identity) while mental *predicates* are not reducible to physical predicates — his "anomalous monism." Supervenience allowed him to maintain physical dependence without predicate reduction.
+Supervenience was introduced to philosophy of mind by Donald Davidson in "Mental Events" (1970), though the term originates in ethics with R.M. Hare. Davidson held that mental events are identical to physical events (token identity) while mental *predicates* are not reducible to physical predicates — his [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws|anomalous monism]]. Supervenience allowed him to maintain physical dependence without predicate reduction.
 
 The core idea is modal: it constrains what patterns of variation are possible. If the mental supervenes on the physical, there cannot be a mental difference without a physical difference. But the converse need not hold — two physical differences might correspond to the same mental state (multiple realisability).
 
