@@ -22,7 +22,7 @@ description: Attributing beliefs, desires, and intentions to others. Higher leve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-13 11:32:31+00:00
+last_deep_review: 2026-07-17 00:50:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

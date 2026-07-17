@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-07-17 02:20:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: When mechanism-distinct perturbations produce the same downstream o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 00:00:00+00:00
+last_deep_review: 2026-07-17 02:20:00+00:00
 modified: *id001
 related_articles:
 - '[[pharmacological-dissociation-as-evidence]]'
@@ -61,7 +61,7 @@ The Map's catalogue contains four converged exhibits of the pattern, each at a d
 
 **The active-reboot KCC2 finding.** Hu et al. (2023) found that emergence from general anaesthesia routes through ubiquitin-driven KCC2 degradation in the ventral posteromedial thalamus — the *same reopening pathway* across propofol (GABA-A potentiation), isoflurane and sevoflurane (volatile-anaesthetic actions), and ketamine (NMDA antagonism). Four mechanism-distinct *closing* pathways converge on one mechanism-shared *reopening* pathway. The [active-reboot](/concepts/active-reboot/) concept article reads the asymmetry as evidence for the interface having a dedicated reopening pathway separable from whatever closed the channel; the cross-mechanism convergence is the pattern-level finding that carries the inference.
 
-**The memory-hierarchy five-perturbation convergence.** [The memory-system vulnerability hierarchies](/topics/memory-channel-interface-evidence/) article documents that the same ordering — episodic/autonoetic most vulnerable, semantic/noetic intermediate, procedural/anoetic most preserved — recurs across pharmacological anaesthesia, NREM and REM sleep, hemispherectomy recovery, terminal lucidity, and dissociative states. Five mechanism-distinct perturbations converging on the same graded ordering is the article's central explanandum. The article's load-bearing sentence — *"the hierarchy is the joint output of several pharmacologically distinct mechanisms converging on the same ordering, and that convergence is the load-bearing fact"* — names the pattern in its local form.
+**The memory-hierarchy five-perturbation convergence.** [The memory-system vulnerability hierarchies](/topics/memory-channel-interface-evidence/) article documents that the same ordering — episodic/autonoetic most vulnerable, semantic/noetic intermediate, procedural/anoetic most preserved — recurs across pharmacological anaesthesia, NREM and REM sleep, hemispherectomy recovery, terminal lucidity, and dissociative states. Five mechanism-distinct perturbations converging on the same graded ordering is the article's central explanandum. The article's load-bearing sentence — *"the hierarchy is the joint output of several pharmacologically distinct mechanisms converging on one ordering — and that convergence is the load-bearing fact"* — names the pattern in its local form.
 
 **The cross-state self-stultification pattern.** [The self-stultification master argument](/topics/self-stultification-as-master-argument/) develops the pattern across ketamine dissociation, dissociative anaesthesia, and contemplative-pathology cases. Each row shows behavioural unresponsiveness or content-decoupling with later vivid autonoetic retrospective reports — autonoetic content preserved but content-decoupled from access channels, mechanism-distinctly produced. The ketamine row, the dissociative-anaesthesia row, and the contemplative row each carry the master argument independently; the cross-state convergence on the same dissociation signature is what makes the master argument cross-state rather than ketamine-specific.
 

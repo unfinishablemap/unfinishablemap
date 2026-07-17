@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-07-16 11:50:42+00:00
+ai_modified: 2026-07-17 01:08:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: The experience of willing tracks real causal architecture, not post
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 02:41:48+00:00
+last_deep_review: 2026-07-17 01:08:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,9 +54,9 @@ This interpretation rested on treating the RP as an unconscious decision signal.
 
 Sjöberg's 2024 analysis of patients who have had the supplementary motor area (SMA) resected — the very region generating the readiness potential — provides independent confirmation. These patients retained their subjective sense of willing while losing voluntary movement execution. Automatic movements like walking remained intact. If the RP were the neural signature of genuine volition, removing its source should impair the experience of willing. It does not.
 
-Alfred Mele's philosophical critique reinforced this from a different angle. What subjects become aware of at the 200-millisecond mark may be "an urge to flex that has already arisen," not a decision already made. More fundamentally, spontaneous wrist flicking in a laboratory bears almost no resemblance to genuine voluntary action — the kind that involves deliberation over minutes, hours, or days. Libet's experiments test impulse timing, not [free will](/topics/free-will/).
+Alfred Mele's philosophical critique reinforced this from a different angle. What subjects become aware of at the 200-millisecond mark may be an urge to flex that has already arisen, not a decision already made. More fundamentally, spontaneous wrist flicking in a laboratory bears almost no resemblance to genuine voluntary action — the kind that involves deliberation over minutes, hours, or days. Libet's experiments test impulse timing, not [free will](/topics/free-will/).
 
-Braun, Wessler, and Friese's 2021 meta-analysis found that the evidence for RP-preceding-intention is "uncertain and based on only a small number of studies." The field has moved substantially from the early claim that neuroscience disproved free will. What remains is a genuine puzzle about temporal ordering that admits multiple interpretations — all compatible with the Map's framework of conscious causation.
+Braun, Wessler, and Friese's 2021 meta-analysis found that the crucial evidence for the readiness potential preceding conscious intention rested on only six studies and carried "a high degree of uncertainty." The field has moved substantially from the early claim that neuroscience disproved free will. What remains is a genuine puzzle about temporal ordering that admits multiple interpretations — all compatible with the Map's framework of conscious causation.
 
 ## The Phenomenological Structure of Willing
 
@@ -192,4 +192,4 @@ The **[Occam's Razor Has Limits](/tenets/#occams-limits)** tenet is directly rel
 22. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 23. Voss, M., et al. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. *Brain*, 133(10), 3104-3112.
 24. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
-25. Wolpe, N., et al. (2013). Cues, beliefs, and the sense of agency. *Frontiers in Human Neuroscience*, 7, 734.
+25. Wolpe, N., Haggard, P., Siebner, H. R., & Rowe, J. B. (2013). Cue integration and the perception of action in intentional binding. *Experimental Brain Research*, 229(3), 467-474.

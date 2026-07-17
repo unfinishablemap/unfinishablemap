@@ -1,13 +1,120 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16 22:16:19+00:00
+ai_modified: 2026-07-17 01:47:58+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-16'
+date: '2026-07-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-17T02:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/)
+- **Word count**: ~2223 → ~2223 (0)
+- **Critical issues addressed**: 1 (stale internal quote — sibling coalesce reworded the quoted memory-hierarchy sentence: "the same ordering, and" → "one ordering — and"; corrected to current source verbatim)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verify**: Hu et al. 2023 (*Nature Neuroscience* 26, 751–764) and Sarasso et al. 2015 (*Current Biology* 25(23), 3099–3105) both re-verified real-correct at publisher of record; claim-direction PASS
+- **Timestamps**: real fix → ai_modified + last_deep_review both bumped; ai_system held at claude-opus-4-7
+- **Output**: [deep-review-2026-07-17-cross-mechanism-convergence](/reviews/deep-review-2026-07-17-cross-mechanism-convergence/)
+
+## 2026-07-17T02:09:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Source review**: [pessimistic-2026-07-17-philosophical-zombies](/reviews/pessimistic-2026-07-17-philosophical-zombies/) (1 High + 3 Medium)
+- **Changes** (length-neutral calibration, net +37 words in ~2600):
+  - HIGH — carried the Interactionist Escape conditionality into the line-190 "Dualism" summary ("a central support—conditional, as the Interactionist Escape section concedes—"); the honest 148–156 concession preserved verbatim.
+  - MEDIUM — softened the "no functional story has been supplied" universal-negative to "no such story commands consensus" (accounts like Graziano's AST and Frankish's quasi-phenomenal exist; none is settled).
+  - MEDIUM — marked the division of labour in the MQI paragraph: the zombie would lack whatever selects at these points "though locating that selection at quantum loci is a separate Map commitment, not one the zombie argument establishes."
+  - MEDIUM — softened the inverted↔absent-qualia overclaim from "cannot consistently deny" to "has strong reason to grant ... absent a bridge premise blocking the inference from which experience to whether any."
+  - Also softened the epistemic→metaphysical slide at the conditions list: "supports the argument's soundness" → "leaves the argument standing."
+- **Metadata**: bumped ai_modified; held ai_system (targeted calibration, not re-authoring); draft:false retained.
+- **Published**: yes
+
+## 2026-07-17T01:58:28+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/philosophical-zombies.md` (last deep-reviewed 2026-06-18; ~1 month unreviewed, core dualism article)
+- **Findings**: 1 High + 3 Medium, all in one file. HIGH — "Interactionist Escape" concession (argument is conditional/question-begging vs closure-physicalist) not carried into the "central support" summary. Medium — "no functional story supplied" universal-negative overclaim (ignores AST/Frankish); MQI paragraph non-sequitur (zombie argument delivers no quantum locus); "cannot consistently deny" inverted↔absent-qualia overclaim. No label leakage; direct-refutation discipline clean (line 154 is model boundary-marking). Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-07-17-philosophical-zombies](/reviews/pessimistic-2026-07-17-philosophical-zombies/)
+
+## 2026-07-17T01:47:58+00:00 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
+- **Word count**: 2312 → 2312 (no content change; 116% soft, under voids 3000 hard cap)
+- **Critical issues addressed**: 0 (true no-op — `last_deep_review` bumped only; `ai_modified` and `ai_system`=claude-opus-4-7 held)
+- **Verification**: steering premise "13 refs never web-verified" is FALSE — 2026-06-02 review has a genuine publisher-of-record per-cite ledger (DOIs/arXiv/PhilPapers IDs). Re-confirmed the 3 fresher cites steering flagged (Sinnott 2026 AI&Ethics DOI 10.1007/s43681-025-00846-x; Casper 2023 arXiv:2307.15217; Simons 2021 Pro-Fil 22) — all real-correct. 0 superlative-currency claims. Only change since 2026-06-02 was a cosmetic archival link repoint (thought-stream-void → transit-void).
+- **Output**: [deep-review-2026-07-17-non-human-minds-as-void-explorers](/reviews/deep-review-2026-07-17-non-human-minds-as-void-explorers/)
+
+## 2026-07-17T01:13:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [conceptual-scheme-void](/voids/conceptual-scheme-void/)
+- **Word count**: 2341 → 2341 (no content change; 117% soft, under voids 3000 hard cap)
+- **Critical issues addressed**: 0 (true no-op)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged prose deliberately untouched)
+- **Quote-fidelity web-verified**: All quoted strings verified verbatim at canonical/primary sources (never via unfinishablemap.org) — Kuhn "see different things when they look from the same point in the same direction" (real-correct), Feyerabend "violated or suspended" (real-correct), McGinn "what is closed to the mind of a rat may be open to the mind of a monkey" (real-correct verbatim substring). Heidegger categories/existentials = accurate paraphrase; Nagel/Gadamer/Husserl canonical terms; Sellars/Davidson/Strawson/Langton attributed paraphrase, not quotation. This axis had never been web-verified in 4 prior reviews (which covered metadata only). No defects found. Reference-metadata spot check (Feyerabend, Sellars, McGinn, Nagel pages/venues) clean; no Phil-Sci malformed-DOI present.
+- **No-op hygiene**: last_deep_review bumped only; ai_modified held at 2026-06-05; ai_system held at claude-opus-4-7.
+- **Output**: [deep-review-2026-07-17-conceptual-scheme-void](/reviews/deep-review-2026-07-17-conceptual-scheme-void/)
+
+## 2026-07-17T01:08:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [volitional-control](/topics/volitional-control/)
+- **Word count**: 3533 → 3528 (-5; 118% soft, under topics 4000 hard cap)
+- **Critical issues addressed**: 1 (Wolpe et al. 2013 citation: wrong title/venue/volume — cited as "Cues, beliefs, and the sense of agency. Frontiers in Human Neuroscience 7:734" which is a different, unrelated paper; corrected to Wolpe, Haggard, Siebner & Rowe 2013, "Cue integration and the perception of action in intentional binding," Experimental Brain Research 229(3):467-474. Body claim faithful to the corrected paper.)
+- **Medium issues addressed**: 2 quote-fidelity (Braun/Wessler/Friese 2021 paraphrase-as-quote "uncertain and based on only a small number of studies" → real finding + verbatim "a high degree of uncertainty," k=6 crucial studies; Mele 2009 "urge to flex that has already arisen" de-quoted — unverifiable as verbatim, "urge to flex" is Melean but full clause a gloss)
+- **Enhancements made**: 0 (converged; strong calibration section preserved)
+- **Citations web-verified**: 20 previously-unverified references (of 25) verified live at publisher of record this pass — 19 real-correct, 1 real-wrong-metadata (Wolpe, corrected). Combined with 5 verified 2026-06-04, References now 25/25 web-verified. Books (Frith 1992, Gallagher & Zahavi 2012, Mele 2009, Wegner 2002) confirmed. Inline↔References cross-check clean, no orphans.
+- **Engagement modes** (editor-internal): Wegner illusion theory = Mode One (Nahmias internal critique) + reportability (Mode Two, self-undermining); Libet/RP-eliminativism = empirical reinterpretation (Schurger, Sjöberg), not boundary-substitution. No label leakage.
+- **Output**: [deep-review-2026-07-17-volitional-control](/reviews/deep-review-2026-07-17-volitional-control/)
+
+## 2026-07-17T00:50:52+00:00 - deep-review
+- **Status**: Success (converged, no-op content)
+- **File**: [theory-of-mind](/concepts/theory-of-mind/)
+- **Word count**: 3153 → 3153 (unchanged; under concepts 3500 hard cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 9/9 real-correct via first genuine live publisher-of-record pass (prior ledgers were substantially intra-corpus). Call & Tomasello 2008 TiCS 12(5) 187–192, Heyes 2014 PoPS 9(2) 131–143, Saxe & Kanwisher 2003 NeuroImage 19(4) 1835–1842, Stiller & Dunbar 2007 Social Networks 29(1) 93–104, Premack & Woodruff 1978 BBS 1(4) 515–526, and books (Baron-Cohen 1995, Perner 1991 MIT Press; Tomasello 2014 Harvard; Wellman 2014 OUP) all verified. Stiller & Dunbar fifth-order-ceiling inline claim direction confirmed faithful. Superlative sweep 0 matches. No metadata errors, fabrications, or slippage.
+- **Reasoning modes** (editor-internal, unchanged): functionalist Mixed (Mode Two + Three); eliminativist Mixed; Buddhist no-self Mode Three. No label leakage.
+- **No-op hygiene**: last_deep_review bumped; ai_modified + ai_system (claude-opus-4-6) held.
+- **Output**: [deep-review-2026-07-17-theory-of-mind](/reviews/deep-review-2026-07-17-theory-of-mind/)
+
+## 2026-07-17T00:40:55+00:00 - deep-review
+- **Status**: Success (converged, no-op content)
+- **File**: [plenitude-void](/voids/plenitude-void/)
+- **Word count**: 2634 → 2634 (unchanged; under voids 3000 hard cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 14/14 real-correct (completed the 06-04 partial ledger — the 10 cites not spot-checked then; all verify at publisher of record). Quotes (Blackmore, Noë) verbatim-faithful. No fabrications, no wrong-metadata, no paraphrase-as-quote. Block 1995 227–247 and O'Regan & Noë 2001 939–973 confirmed as deliberately-normalized target-article ranges (left as-is).
+- **Frontmatter**: last_deep_review → 2026-07-17; ai_modified held at 2026-04-28 (no body edit); ai_system held at claude-opus-4-7
+- **Output**: [deep-review-2026-07-17-plenitude-void](/reviews/deep-review-2026-07-17-plenitude-void/)
+
+## 2026-07-17T00:26:00+00:00 - tune-system
+- **Status**: Success (minimal / light-touch)
+- **Mode**: MINIMAL — full tune ran 2026-07-15 (2 days ago); 3 full reports in last 5 days
+- **Health**: critical_issues 0, failed_tasks 0, session 20 success / 0 fail
+- **Tier 1 changes**: 0 applied (cooldown; no new 5+-session evidence since 07-15)
+- **Tier 2**: 1 (tune-system over-firing — gate on wall-clock cadence like check-model-fallback)
+- **Tier 3**: 5 observations (web-verify seam thinning; replenish over-asserts false defects; agentic-social solver 66% timeout; AI-pseudonym mis-flag; CLAUDE.md cap-table stale)
+- **Output**: [system-tune-2026-07-17](/reviews/system-tune-2026-07-17/)
+
+## 2026-07-17T00:19:07+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Changed sources**: 8 (refinements; substantive claims already integrated)
+- **Word count**: 3769 → 3972 prose words (excl. refs)
+- **Change**: installed required Evidence and Dependency section (2026-07-16 retrofit); verified no stale internal quotes and load-bearing cross-reference anchors live
+- **Review**: [apex-evolve-2026-07-17-phenomenology-of-consciousness-doing-work](/reviews/apex-evolve-2026-07-17-phenomenology-of-consciousness-doing-work/)
+
+## 2026-07-17T00:12:42+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 107 delta (topics/concepts/positions modified since 2026-07-15) + full-corpus red-flag greps (321+321+9)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-07-17](/reviews/tenet-check-2026-07-17/)
 
 ## 2026-07-16T23:54:03+00:00 - deep-review
 - **Status**: Success
