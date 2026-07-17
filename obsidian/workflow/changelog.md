@@ -5,6 +5,21 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T07:36:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/completeness-in-physics-under-dualism]]
+- **Original score**: N/A (targeted calibration reframing)
+- **Trigger**: LAST CH-cluster P2 sibling-integration fix from 2026-07-17 ChatGPT 5.6 Pro outer review (quantum-selection cluster), coordinated with this session's refined consistent-histories / post-decoherence-selection / measurement-problem / qm-interpretations-beyond-many-worlds / decoherence around the framework/history/outcome selection distinction.
+- **Finding**: Article presented the actuality-selection gap as structurally *permanent* — a feature of what physical description is — framed as an interpretation-neutral result. But permanence is the Map's metaphysical inference, not a theorem. Consistent histories denies any extra collapse/selection law is required while allowing stochastic histories, so "the gap is permanent" is contested, not given.
+- **Changes**:
+  - Lead: demoted "the gap is no temporary one ... it is a feature of what physical description is" to "on the Map's reading"; added that permanence-vs-provisionality is an inference argued from the tenets, not interpretation-neutral, and that consistent histories denies any further fact about actuality is left to explain.
+  - "The Reversal" section: reframed the "gap is not a deficiency / boundary inherent / additional physics would not bridge it" passage as the Map's argued inference; stated plainly that permanence is a metaphysical inference from the tenets, not a theorem physics hands over interpretation-neutrally; pointed forward to the interpretive-alternatives survey.
+  - Added a compared-treatments paragraph in the "Observational Closure" section: Bohm (hidden variables fix the outcome), objective-collapse (real stochastic dynamical law relocates selection into physics), and [[consistent-histories-interpretation]] as the most direct counter-position — QM as a stochastic theory of histories where a definite history simply obtaining is the *normal terminus*, no residual "why this outcome" to explain. Framed the Map/CH split as a framework-boundary disagreement physics does not adjudicate: Map reads stochastic actuality as an explanatory gap, CH as the ordinary output of probabilistic dynamics. Direct-refutation discipline: CH treated as a live rival that coherently denies the gap, not a view that fails.
+  - No citations added or changed; Map self-cite pseudonyms untouched. Reasoning-mode labels kept editor-internal (engagement with consistent histories: Mode Three, framework-boundary marking — the permanence claim is not refutable inside CH, so the disagreement is named honestly rather than dressed as refutation).
+- **Length**: 3282 → 3561 words (soft_warning; under 4000 hard ceiling). Reframing added a compared-treatments enumeration; not fully length-neutral but well below the enforced ceiling.
+- **Metadata**: ai_modified bumped to 2026-07-17T07:36:45+00:00; ai_system held at claude-opus-4-6 (not re-authored); draft status unchanged.
+- **Published**: yes
+
 ## 2026-07-17T07:30:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/decoherence]]
