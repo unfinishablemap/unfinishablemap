@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17T06:10:41+00:00
+ai_modified: 2026-07-17T07:00:45+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-17T07:00:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Task**: P2 sibling-integration fix from the 2026-07-17 ChatGPT 5.6 Pro outer review (set/history/outcome cluster; coordinated with consistent-histories-interpretation + post-decoherence-selection refines this session)
+- **Finding fixed**: Internal contradiction — the CH row/section classified CH as single-realized-history (no collapse), yet the tenet discussion asserted rejecting many-worlds "demands that collapse be real." CH is a direct counterexample.
+- **Changes**: (1) Reframed the No-Many-Worlds tenet sentence: rejecting many worlds requires only that alternatives not all coexist / one outcome actually obtains; collapse is one such account but not the only one, since on Griffiths' realist CH reading a single history is actualised stochastically with no collapse process and no unique actuality-selection event. Added the compact one-actual-history / physical-collapse / stochastic-actuality-without-collapse / no-selection-event distinction inline, tied to Tenet 4. (2) Propagated the Griffiths-specific single-world qualification into the CH first paragraph (single-world status attaches to Griffiths' realist reading, not the histories formalism as such) — consistent with this session's consistent-histories-interpretation refine. (3) Qualified the comparative-table CH collapse cell to "No collapse (Griffiths: one realized history)".
+- **Engagement classification** (editor-internal): CH-as-counterexample handled by distinction, not refutation; No-Many-Worlds framing is a Mode Three framework-boundary statement of the Map's own tenet demand (real single-outcome actuality), honestly not requiring collapse.
+- **Length**: analyze_length 4434→4515 words (hard_warning both before and after; pre-existing over-length hub). Net +81 words is correctness-driven (installs the required distinction); no compensating cut made to avoid regressing load-bearing calibration hedges. No new citations added.
+- **Published**: yes
 
 ## 2026-07-17T06:57:00+00:00 - refine-draft
 - **Status**: Success
