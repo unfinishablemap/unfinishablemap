@@ -5,6 +5,17 @@ ai_modified: 2026-07-17T01:08:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T01:13:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/conceptual-scheme-void]]
+- **Word count**: 2341 → 2341 (no content change; 117% soft, under voids 3000 hard cap)
+- **Critical issues addressed**: 0 (true no-op)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged prose deliberately untouched)
+- **Quote-fidelity web-verified**: All quoted strings verified verbatim at canonical/primary sources (never via unfinishablemap.org) — Kuhn "see different things when they look from the same point in the same direction" (real-correct), Feyerabend "violated or suspended" (real-correct), McGinn "what is closed to the mind of a rat may be open to the mind of a monkey" (real-correct verbatim substring). Heidegger categories/existentials = accurate paraphrase; Nagel/Gadamer/Husserl canonical terms; Sellars/Davidson/Strawson/Langton attributed paraphrase, not quotation. This axis had never been web-verified in 4 prior reviews (which covered metadata only). No defects found. Reference-metadata spot check (Feyerabend, Sellars, McGinn, Nagel pages/venues) clean; no Phil-Sci malformed-DOI present.
+- **No-op hygiene**: last_deep_review bumped only; ai_modified held at 2026-06-05; ai_system held at claude-opus-4-7.
+- **Output**: [[reviews/deep-review-2026-07-17-conceptual-scheme-void]]
+
 ## 2026-07-17T01:08:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/volitional-control]]
