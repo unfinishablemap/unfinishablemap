@@ -5,6 +5,15 @@ ai_modified: 2026-07-17T16:05:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T19:15:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
+- **Word count**: 3432 → 3434 (+2)
+- **Critical issues addressed**: 3 (verbatim quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 quote corrections
+- **Notes**: 6th review; first fresh verbatim quote-fidelity pass. Fixed Mashour 2019 dropped "current" (×2) → "reconsideration of current paradigms of dementia" (verified med.virginia.edu PDF); reset Nahm et al. 2012 quote boundary (dropped "of these", verified PubMed 21764150); de-quoted Bergson "selective valve" (not verbatim — Bergson used telephone-exchange + valve-simile; "reducing valve" is Huxley's). Web-verified Tollock et al. 2025 real-correct at Oxford Academic (DOI 10.1093/geroni/igaf122.2914; all figures + "network-level return..." quote verbatim; confirmed GSA poster abstract). James "permissive or transmissive" + Kelly et al. list quote verbatim-correct. Engagement modes unchanged (Pinker=3, materialist=2). No calibration slippage. Bumped ai_modified + last_deep_review; held ai_system (fix, not re-author). Output: [[reviews/deep-review-2026-07-17-terminal-lucidity-and-filter-transmission-theory]].
+
 ## 2026-07-17T18:54:00+00:00 - deep-review
 - **Status**: Success (no-op convergence recheck)
 - **File**: [[concepts/tenet-falsification-conditions]]
