@@ -1332,8 +1332,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T15:21:13+00:00'
-  last_replenishment_prev: '2026-07-17T15:08:23+00:00'
+  last_replenishment: '2026-07-17T15:57:39+00:00'
+  last_replenishment_prev: '2026-07-17T15:21:13+00:00'
   last_floor_restore_note_2026_07_17_staleness_responsibility_gradient_1414: 'Floor-restore
     replenish 2026-07-17T1414Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this single write (open
