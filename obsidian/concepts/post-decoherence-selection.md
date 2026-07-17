@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review: 2026-06-22T09:18:30+00:00
+last_deep_review: 2026-07-17T07:08:17+00:00
 ---
 
 Post-decoherence selection is whatever process actualizes one definite outcome from the classical-looking mixture that decoherence produces. [[decoherence|Decoherence]] suppresses quantum interference and selects a preferred basis of pointer states, but it does not explain why a single outcome obtains rather than the mixture persisting. [[quantum-darwinism-and-consciousness|Quantum Darwinism]] extends this programme by showing how environmental redundancy makes pointer states objectively accessible—yet even this fuller account leaves the outcome gap intact. As Schlosshauer (2004) is explicit, decoherence does not solve the measurement problem: once the preferred basis is selected and interference suppressed, the system is still described by a mixture, and the usual probability rules of quantum theory must still be applied to extract a single observed outcome. This residual *problem of outcomes* is the central opportunity for The Unfinishable Map's [[interactionist-dualism|interactionist dualism]]: post-decoherence selection is precisely where consciousness could act without violating known physics. The concept names the specific locus where the Map's [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets find their physical grounding.

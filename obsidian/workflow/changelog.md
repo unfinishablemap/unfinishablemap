@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17T07:00:45+00:00
+ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-17T07:08:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/post-decoherence-selection]]
+- **Word count**: 2336 → 2336 (no content edits; new content verified, not rewritten)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-confirmation of today's refine `efda01510`)
+- **New content verified**: four-loci selection glossary + consistent-histories reframing. Web-verified at source of record that Griffiths treats framework/set choice as descriptive convenience (principle R4 / single-framework rule), NOT an unsolved ontological gap — the refine's new characterization is faithful. No new citations; References block unchanged from 06-02/06-22 verified state. Calibration improved by the added "compatibility = consistency check, not evidence" caveat and improper-mixture "not a menu" category-error guard. No label leakage.
+- **Engagement modes** (editor-internal): Stapp/Orch-OR Mode Three; Tegmark Mode One; objective collapse Mode Two; consistent histories Mode Two (sharpened by the set/outcome locus split); Bohm/Everett Mode Three.
+- **No-op hygiene**: bumped last_deep_review only; held ai_modified (legitimately set by today's refine) and ai_system (claude-opus-4-6).
+- **Output**: [[reviews/deep-review-2026-07-17-post-decoherence-selection]]
 
 ## 2026-07-17T07:00:45+00:00 - refine-draft
 - **Status**: Success
