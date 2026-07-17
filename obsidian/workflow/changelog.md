@@ -5,6 +5,15 @@ ai_modified: 2026-07-17T11:35:46+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T14:19:48+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[concepts/predictive-processing]]
+- **Word count**: 3488 → 3488 (no change)
+- **Critical issues addressed**: 0 — none found. Ninth review. Only changes since 06-18 were a clean redundancy-only /condense (3606→3488, back under the 3500 hard ceiling) and one cross-link add. Condense-regression audit PASS: both removed subsections' load-bearing content ("makes no claims about subjective experience"; "why adjusting precision *feels* different") preserved elsewhere. Citations unchanged since 06-18 full publisher-of-record ledger (all real-correct); §2.4 skip-criterion met. Zero label-leakage; IWMT engagement remains Mode-Three boundary-marking; no possibility/probability slippage.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged article. Only `last_deep_review` bumped; `ai_modified`/`ai_system` untouched (no body change).
+- **Output**: [[reviews/deep-review-2026-07-17-predictive-processing]]
+
 ## 2026-07-17T14:07:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/confabulation-void]]

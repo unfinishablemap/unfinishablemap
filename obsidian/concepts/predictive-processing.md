@@ -40,7 +40,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-18T00:00:00+00:00
+last_deep_review: 2026-07-17T14:19:48+00:00
 ---
 
 Predictive processing (PP) proposes that the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. [[perception|Perception]] becomes active inference—the brain's "best guess" about reality—rather than passive reception. This framework has become one of the most influential in cognitive science.
