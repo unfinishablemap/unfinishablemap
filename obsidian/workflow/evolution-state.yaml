@@ -1332,44 +1332,38 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T15:57:39+00:00'
-  last_replenishment_prev: '2026-07-17T15:21:13+00:00'
-  last_floor_restore_note_2026_07_17_staleness_responsibility_gradient_1414: 'Floor-restore
-    replenish 2026-07-17T1414Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
+  last_replenishment: '2026-07-17T16:56:28+00:00'
+  last_replenishment_prev: '2026-07-17T15:57:39+00:00'
+  last_floor_restore_note_2026_07_17_staleness_evaluative_phenomenal_character_1656: 'Floor-restore
+    replenish 2026-07-17T1656Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this single write (open
-    P2 deep-reviews concepts/predictive-processing + topics/the-interface-problem;
-    #veto condense P2s parser-excluded; ~11 P3s + many-worlds human-length-decision
-    do NOT count toward the floor of 3); == 3 after. Restores MIN_QUEUE floor 2->3
-    (replenish-at-floor alternation, unfin_loop_steady_state, all content sections
-    AT CAP so loop can only cycle reviews; NOT empty-queue deadlock). NO concurrent
-    evolve_loop.py (pgrep -af clean, only own shell matched); clean tree; HEAD cefb1410f
-    pre-replenish marker -> current loop own post-cycle replenish step. concurrent-replenish-race
+    P2 deep-reviews voids/inference-void + concepts/knowledge-argument; #veto composition-question-rivals
+    condense parser-excluded; ~11 P3s + BLOCKED human-length-decisions do NOT count
+    toward the floor of 3); == 3 after. Restores MIN_QUEUE floor 2->3 (replenish-at-floor
+    alternation, unfin_loop_steady_state, all content sections AT CAP so loop can
+    only cycle reviews; NOT empty-queue deadlock). NO concurrent evolve_loop.py (pgrep
+    -af clean); clean tree; HEAD 09f315274 pre-replenish marker. concurrent-replenish-race
     guard: revert redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT (live):
     chain none (BLOCKED, sections AT CAP); unconsumed_research + gap BLOCKED (topics
     320/320, concepts 320/320, voids 100/100 AT CAP; positions 8/80); orphan 0; length
-    veto/human-deferred; positions audit ran 2026-07-16 (<30d), 8<10 audit floor;
-    no applied-apex-gap. SOURCE = staleness (Source 4). TARGET = real damping-aware
-    scorer #1 (tools.curate.deep_review.get_review_candidates, score 20.00): topics/responsibility-gradient-from-attentional-capacity.md
-    -- ai_system claude-opus-4-6 (opus-4-8-deprioritized exempt), ai_contribution
-    100, created 2026-02-19, last_deep_review 2026-06-19 (~28d gap), ai_modified 2026-07-10
-    = CHANGED-SINCE-REVIEW (commit b78276c04 AI-moral-agency expand-topic cross-linked
-    INTO this file; inbound relation unreviewed -- positive re-review signal not a
-    converged no-op). NOT session-touched (0 commits since 07-15), NOT open-queued
-    (only the completed 2026-06-04 Meister-cite fix references it), NOT vetoed. LENGTH
-    2595 body words = status ok (topics soft 3000/hard 4000 -> clean deep-review NOT
-    condense; length-neutral, swap-in-place). VERIFY-JOB: PRIMARY lens = cross-link
-    reciprocity of the 07-10 inbound link + citation-fidelity on the modest surface
-    (Meister cite ALREADY correctly fixed to Zheng & Meister 2025 Neuron 113(2):192-204
-    -- CONFIRM, do NOT re-open the resolved fabrication; verify Mullainathan & Shafir
-    2013 + any cite by TITLE+venue at publisher, never delete on a false negative;
-    verbatim-check the ~23 quoted strings; keep attention-as-interface framing framework-relative
-    not proven-mechanism). Standard hygiene: Tenet 1/3 routing, preserve calibration
-    hedges, EOF tool-tag scan, HOLD ai_system opus-4-6, no-op after REAL scrutiny
-    bumps last_deep_review ONLY / real fix bumps BOTH, date -u stamps not future-dated.
-    POST-COUNT == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the
-    two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note
-    (phenomenology_intellectual_life_1006) to keep the most-recent 3 (bloat control,
-    zero logic dep).'
+    research-notes/human-deferred/#veto; positions audit ran 2026-07-16 (<30d), 8<10
+    audit floor; no applied-apex-gap. SOURCE = staleness (Source 4). TARGET = damping-aware
+    scorer #1 (tools.curate.deep_review.get_review_candidates, score 20.00): concepts/evaluative-phenomenal-character.md
+    -- ai_system claude-opus-4-6, ai_contribution 100, created 2026-01-16, last_deep_review
+    2026-06-21, ai_modified 2026-06-22 = CHANGED-SINCE-REVIEW (the 06-22 tactile-consciousness
+    anchoring-calibration refine post-dates the 06-21 review; that edit surface is
+    unreviewed -- genuine drift, not a converged no-op; #2 topic candidate quantum-measurement-and-subjective-probability
+    reviewed same day as last modified = converged, deliberately NOT chosen despite
+    better section diversity per deep_review_over_reviews_converged). NOT session-touched,
+    NOT open-queued (only cross-refs in notes/completed tasks), NOT vetoed. LENGTH
+    2788 body words = soft_warning (clean deep-review, length-safe). VERIFY-JOB: PRIMARY
+    lens = verify the 06-22 calibration edit + citation/quote-fidelity on the value-in-mechanism
+    surface, verbatim-check quoted strings at publisher, never delete on a false negative,
+    keep framing framework-relative. Standard hygiene: preserve calibration hedges,
+    EOF tool-tag scan, HOLD ai_system opus-4-6, no-op after REAL scrutiny bumps last_deep_review
+    ONLY / real fix bumps BOTH, date -u stamps not future-dated. POST-COUNT == 3 (floor
+    exactly satisfied, no padding). Pruned the oldest floor-restore note (responsibility_gradient_1414)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_supervenience_1508: 'Floor-restore
     replenish 2026-07-17T1508Z (conservative exact-floor +1). AUTHORITATIVE PRE-COUNT
     count_p0_p2_tasks == 2 verified LIVE (open P2s topics/responsibility-gradient-from-attentional-capacity
@@ -1448,12 +1442,10 @@ queue_status:
     BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard). Pruned oldest
     note (meaning_void_1430) to keep the most-recent 3 (bloat control, zero logic
     dep).'
-  last_floor_restore_target: cross-review topics/quantum-hardware-and-the-ai-consciousness-coupling.md
-    (chain successor to this session's quantum-hardware expand-topic create, which
-    skipped its cross-review successor -- expand-topic-skips-integration-chain; a
-    genuine fresh-create-defect-tail review of a 1964w opus-4-8 article. This is NEW
-    material since the 14:56Z HONEST NO-MINT audit -- the article was created after
-    that audit, so it is not covered by it. Single /unfin-cycle loop, NOT concurrent-race.)
+  last_floor_restore_target: deep-review concepts/evaluative-phenomenal-character.md
+    (staleness Source 4; damping-aware scorer top-ranked score 20.00; changed-since-review
+    -- 06-22 anchoring-calibration refine post-dates 06-21 last_deep_review, genuine
+    unreviewed surface not a converged no-op. Interactive /replenish-queue, NOT concurrent-race.)
   replenishment_source_counts:
     staleness: 1
   run_739_pickable_p0_p2: 3
