@@ -4,7 +4,7 @@ description: "Attention divides into willed, instructed, and exogenous modes wit
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-06-08T08:33:15+00:00
+ai_modified: 2026-07-17T08:57:03+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-06-20T00:00:00+00:00
+last_deep_review: 2026-07-17T08:57:03+00:00
 ---
 
 Attention is not a single phenomenon. It divides into three architecturally distinct modes—exogenous (captured), instructed (cued), and willed (self-generated)—each with different triggers, timescales, and neural signatures. This structure matters philosophically because it identifies precisely where consciousness might do genuine causal work. When you freely choose where to direct focus, neural mechanisms engage that don't engage when you follow instructions or when attention is captured by salience. The additional frontal theta oscillations, bidirectional frontoparietal coherence, and extra frontal recruitment during willed attention mark what The Unfinishable Map claims consciousness contributes: internal decision-making about what to select.
@@ -97,7 +97,7 @@ When you follow a cue, there's more active engagement than capture but less than
 
 ### Willing Feels Like Effort
 
-When you choose where to attend, the experience includes a distinctive sense of *work*. Sustained willed attention is metabolically expensive and feels that way. William James observed that "the [[free-will|free will]] question relates solely to the amount of effort of attention."
+When you choose where to attend, the experience includes a distinctive sense of *work*. Sustained willed attention is metabolically expensive and feels that way. William James held that the [[free-will|free-will]] question "relates solely to the amount of effort of attention or consent which we can at any time put forth."
 
 This phenomenological difference—why willing feels effortful while capture doesn't—demands explanation. If all attention were just neural computation, why would some modes feel like work? The [[mental-effort]] article develops this: effort may feel real because it *is* real work—consciousness actively holding neural patterns through repeated observation.
 
@@ -123,7 +123,7 @@ Three large-scale brain networks implement attention control:
 
 ### The Frontoparietal Division
 
-The 2025 COGITATE adversarial testing found that conscious *content* tracks better with posterior cortex than prefrontal regions. Decoding of stimulus categories was "very short-lived in the prefrontal cortex and did not track the duration of the stimulus."
+The 2025 COGITATE adversarial testing found that conscious *content* tracks better with posterior cortex than prefrontal regions. Decoding of stimulus categories in the prefrontal cortex was brief—restricted to roughly 0.2–0.4 s after onset—and, unlike the sustained decoding in posterior regions, did not track the duration of the stimulus.
 
 This suggests a division: attention networks (frontoparietal) control the spotlight; consciousness networks (posterior "hot zone") host the content. The interface might be where these systems meet—where attentional selection of *what to process* meets conscious experience of *what is processed*.
 
@@ -251,5 +251,6 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 1. Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
 1. Rizzolatti, G. et al. (1987). Reorienting attention across the horizontal and vertical meridians: Evidence in favor of a premotor theory of attention. *Neuropsychologia*, 25(1A), 31-40.
+1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R. Jr., Martin, K.M., & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.

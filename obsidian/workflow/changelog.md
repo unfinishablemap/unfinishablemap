@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T08:57:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/structure-of-attention]]
+- **Word count**: ~2270 → ~2270 (length-neutral; body ceiling 4000)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Notes**: Strict-oldest staleness pick, expected probable no-op — NOT a no-op. Quote-fidelity lens caught two paraphrase-as-quote defects that six prior reviews ratified as "verbatim-verified" (they confirmed substance, not the literal string — the [[quote-fidelity-defects-survive-metadata-reviews]] failure mode). (1) James (line 100): quoted string dropped "or consent which we can at any time put forth" and reworded the opening; corrected to verbatim (verified Wikipedia + psychclassics.yorku.ca Principles ch. XXVI). (2) COGITATE 2025 (line 126): quoted phrase absent from the Nature paper (PMC12137136 says PFC decoding "brief"/"restricted to ~0.2–0.4 s"); de-quoted to faithful paraphrase. (3) Added missing References entry for the inline-orphan Schwartz et al. 1996 (Arch Gen Psychiatry 53(2):109-113, verified PubMed 8629886). All 8 citations web-verified at publisher of record (title+venue) — metadata all real-correct. Real fix → both ai_modified and last_deep_review bumped; ai_system held at claude-opus-4-6.
+- **Output**: [[reviews/deep-review-2026-07-17-structure-of-attention]]
+
 ## 2026-07-17T08:37:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/physics-as-disclosure]]
