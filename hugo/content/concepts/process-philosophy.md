@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-07-06 16:58:39+00:00
+ai_modified: 2026-07-17 09:32:48+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: A metaphysical tradition treating reality as fundamentally dynamic�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 13:15:00+00:00
+last_deep_review: 2026-07-17 09:32:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ Human consciousness, on this view, is highly organised experience—what Whitehe
 
 Each actual occasion undergoes "concrescence"—a process of growing together (from the Latin *concrescere*). The occasion inherits data from its predecessors, synthesises them through subjective aim, and achieves definite form. Then it perishes, becoming datum for successor occasions.
 
-This rhythm of becoming-perishing-becoming is creativity itself. Whitehead calls creativity "the ultimate category"—the process by which the many become one and are increased by one. Each moment adds something to reality that didn't exist before. Time isn't a container events pass through; it's constituted by the creative advance of events.
+This rhythm of becoming-perishing-becoming is creativity itself. Whitehead names this creative advance his "Category of the Ultimate"—the process by which the many become one and are increased by one. Each moment adds something to reality that didn't exist before. Time isn't a container events pass through; it's constituted by the creative advance of events.
 
 ## Bergson and Duration
 
@@ -66,7 +66,7 @@ Henri Bergson's philosophy of [temporal-consciousness](/concepts/temporal-consci
 
 Key parallels with Whitehead:
 
-**Time as creative**: Both reject determinism's claim that the future is fixed by the past. Bergson: "Time is an invention or it is nothing at all." Whitehead: creativity generates genuine novelty at each moment.
+**Time as creative**: Both reject determinism's claim that the future is fixed by the past. Bergson: "Time is invention or it is nothing at all." Whitehead: creativity generates genuine novelty at each moment.
 
 **Experience as paradigmatic**: Both treat consciousness not as anomaly but as revealing something fundamental. For Bergson, durée is what we most directly know; physics abstracts from it. For Whitehead, experience is the intrinsic character of actuality that physics describes only structurally.
 
@@ -76,7 +76,7 @@ The traditions diverge on temporal atomism. Whitehead's actual occasions are dis
 
 ## The Combination Problem
 
-Process philosophy's panpsychist tendency inherits the [combination problem](/concepts/combination-problem/): if fundamental events are experiential, how do many micro-experiences combine into unified consciousness? [William James's](/topics/william-james-consciousness/) objection—that conscious states seem "shut in their own skin"—applies as forcefully to Whiteheadian occasions as to particles.
+Process philosophy's panpsychist tendency inherits the [combination problem](/concepts/combination-problem/): if fundamental events are experiential, how do many micro-experiences combine into unified consciousness? [William James's](/topics/william-james-consciousness/) objection—that each conscious state seems "shut in its own skin"—applies as forcefully to Whiteheadian occasions as to particles.
 
 Whitehead's answer involves the "personally ordered society"—a stream of occasions where each inherits from its predecessors with peculiar intimacy, creating the continuity we experience as a self. But critics argue this doesn't explain *why* inheritance feels unified rather than merely serial. Why does prehending my past occasion feel like being the same subject, rather than like reading someone else's diary?
 

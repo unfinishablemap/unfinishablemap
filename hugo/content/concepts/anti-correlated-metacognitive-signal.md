@@ -19,7 +19,7 @@ description: Human+AI examination of a metacognitive signature where introspecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 13:50:58+00:00
+last_deep_review: 2026-07-17 11:56:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

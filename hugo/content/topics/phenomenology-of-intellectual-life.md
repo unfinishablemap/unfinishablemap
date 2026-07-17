@@ -51,7 +51,7 @@ description: 'Intellectual life has irreducible phenomenal character: the work o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 13:06:48+00:00
+last_deep_review: 2026-07-17 11:23:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

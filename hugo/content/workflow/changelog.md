@@ -1,13 +1,153 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17 07:08:17+00:00
+ai_modified: 2026-07-17 11:35:46+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-17T11:56:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/)
+- **Word count**: 2620 → 2620 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth deep review — no-op convergence pass. Body unchanged since the 2026-06-16 no-op review; re-qualified only on elapsed time (31d clears the 14-day damping window). §2.4 web-verify trigger not met (References unchanged since 2026-06-16 publisher-verification). Calibration register sound; no slippage. Only `last_deep_review` refreshed; `ai_modified` left at HEAD to avoid false sibling re-qualification.
+- **Output**: [deep-review-2026-07-17-anti-correlated-metacognitive-signal](/reviews/deep-review-2026-07-17-anti-correlated-metacognitive-signal/)
+
+## 2026-07-17T11:50:06+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Phenomenology & first-person-methods cluster — contentless-awareness-evidence, introspection, phenomenology-of-intellectual-life, structure-of-attention
+- **Notes**: Standout is contentless-awareness-evidence as a model of evidential-status discipline (Process Philosopher and Hardline Empiricist personas converge — tenet-as-evidence-upgrade praise-worthily declined). No new-prose opportunities (cluster content-converged, at length ceilings); one P3 link-only cross-link task minted.
+- **Output**: [optimistic-2026-07-17-phenomenology-first-person-methods](/reviews/optimistic-2026-07-17-phenomenology-first-person-methods/)
+
+## 2026-07-17T11:35:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Word count**: 3505 → 3496 (-9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (length-neutral offset)
+- **Enhancements made**: 0
+- **Notes**: Changed-since-review verification (16th review; content-converged). Only change since 2026-06-18 was the 2026-07-11 citation correction Maniscalco & Lau → Ko, Y. & Lau, H. (2012). Web-verified at publisher of record: **real-correct** (Royal Society, DOI 10.1098/rstb.2011.0380; PubMed 22492756; *Phil. Trans. R. Soc. B* 367(1594):1401-1411 — all elements match). The longer replacement title pushed the body 5 words over the 3500 concepts hard ceiling un-offset; trimmed a redundant two-sentence recap in "What This Means" that duplicated the lead ("Training correlates with improved accuracy. Rigorous methods reduce confabulation.") — zero content loss, body now 3496w under ceiling. All five prior pessimistic issues (blindsight reading, illusionism Mode-Three boundary, MWI non-discrimination, choice-blindness concurrent/retrospective qualifier, Sperling/Block split) re-confirmed resolved in-body. Engagements unchanged: illusionism Mixed (Mode Two→Three), heterophenomenology Mode Three; no label leakage. Left ai_system at claude-opus-4-7 (trivial trim, not re-authoring).
+- **Output**: [deep-review-2026-07-17-introspection](/reviews/deep-review-2026-07-17-introspection/)
+
+## 2026-07-17T11:23:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Word count**: 3283 → 3283 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Convergence no-op (sixth deep review). `git diff` vs last-review commit 7ca7d0cfd is empty — article byte-identical to the 2026-06-21 converged state; the file was named explicitly as an argument (would normally be excluded as reviewed-and-unchanged). Zero new citations; prior attribution ledger (Pitt 2004, Kounios & Beeman 2014, James, Strawson, Festinger, Sosa/Greco, Plato, Tallis) stands. Verbatim spot-check (lens not previously logged): James "feelings of relation"/"self-surrender" genuine; Tallis "Misrepresentation presupposes presentation" — concept faithful to his re-presentation argument but exact string unconfirmed online; NOT edited on inconclusive evidence, flagged for future primary-text check. Calibration non-load-bearing (PCT/phenomenological, not empirical-probability). No label leakage; engagements Mode One (Pitt) / Mode Two (illusionist regress) / Mode Three (MWI honest tension). Length 3283w = 109% soft, well under hard — soft-warning only. Advanced last_deep_review only; left ai_modified at 2026-06-21 HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-17-phenomenology-of-intellectual-life](/reviews/deep-review-2026-07-17-phenomenology-of-intellectual-life/)
+
+## 2026-07-17T11:19:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [contentless-awareness-evidence](/topics/contentless-awareness-evidence/)
+- **Word count**: 2259 → 2259 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (all four from the same-day pessimistic review already resolved by the 10:47 refine-draft, commit 227476864)
+- **Enhancements made**: 0
+- **Notes**: Confirming pass. Verified the same-day refine-draft resolved every 2026-07-17 pessimistic finding: register conflict ("live hypothesis"→"commitment the evidence underdetermines"), overstated two-tradition independence (now self-applies anti-double-counting), datum introspection-skepticism firewall, and the Madhyamaka no-self boundary paragraph; plus "load-bearing"→"central" and "decisive"→"genuine underdetermination" language fixes. Web-verified the one new citation Diekelmann & Born 2010 (Nat Rev Neurosci 11(2):114–126, DOI 10.1038/nrn2762) at publisher of record — real-correct, framing faithful. Anchoring audit: no flags; calibration exemplar intact (arguably strengthened). No label leakage. Named-opponent engagements Mode Two (datum) / Mode Three (boundary). Advanced last_deep_review only; left ai_modified at the refine's 10:41 HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-17-contentless-awareness-evidence](/reviews/deep-review-2026-07-17-contentless-awareness-evidence/)
+
+## 2026-07-17T10:48:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-void](/voids/temporal-void/)
+- **Word count**: 2243 → 2243 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review, convergence-confirming no-op. Only change since the 2026-06-12 review was cosmetic frontmatter cross-linking (added `[[time-consciousness-growing-block]]`; repointed archived `[[thought-stream-void]]` → live `[[transit-void]]`) — body/References unchanged, so §2.4 web-verify cites the prior per-cite ledger rather than re-running. No slippage; MQI guardrail intact; no label leakage; Illusionist engagement Mixed (unchanged). Advanced `last_deep_review` only; left `ai_modified` at 2026-06-19 HEAD per no-op discipline. All cross-link targets resolve.
+- **Output**: [deep-review-2026-07-17-temporal-void](/reviews/deep-review-2026-07-17-temporal-void/)
+
+## 2026-07-17T10:41:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [contentless-awareness-evidence](/topics/contentless-awareness-evidence/)
+- **Original score**: strong / calibration-only (per pessimistic-2026-07-17)
+- **Changes**: Four length-neutral calibration edits from the 2026-07-17 pessimistic review, plus three small fixes. (1) Register conflict resolved by Option (b): reframed "live hypothesis" → "a commitment the evidence underdetermines" at both loci (intro-to-claim and closing stance), keeping the strong structural-unsettleability spine; softened "decisive" → "a genuine underdetermination rather than a merely practical caution." (2) Non-independence: softened lead "Two independent traditions" → "Two traditions" and added an anti-double-counting clause noting the MPE program samples the contemplative report-stream it is said to converge with (one report-stream examined twice, not two witnesses). (3) Datum under-defence: added introspection-skepticism concession in the Datum section + a forward-pointer at the "reasonably well-supported" claim (theory-laden, doctrine-primed reporters; "convergent among trained reporters," not confabulation-immune). (4) No-self boundary: added a framework-boundary paragraph in Relation to Site Perspective marking that Madhyamaka rejects the persisting bearer the essential/contingent fork presupposes — foundational disagreement the Map's individuation commitments answer differently, not an in-framework refutation. Also: cited "episodic memory encoding is suppressed in deep sleep" to Diekelmann & Born 2010 (NRN 11:114–126, DOI verified via web) and added the reference; replaced "load-bearing move" → "central move" per style guide. PRESERVED verbatim: the closing disruptive-cluster link (symmetric-burden line) and the tenet-as-evidence firewall; Metzinger quotes untouched (already verbatim-verified). ai_system held at claude-opus-4-8; ai_modified bumped only.
+- **Engagement classification**: Madhyamaka/no-self — Mode Three (framework-boundary marking; foundational disagreement named honestly, no in-framework refutation claimed). Introspection-skepticism (Dennett/Churchland) on the datum — Mode Two register (concession that the report helps itself to a reliability it has not earned against the theory-ladenness worry), applied as an honest concession rather than a refutation of the datum.
+- **Published**: yes
+
+## 2026-07-17T10:38:29+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [contentless-awareness-evidence](/topics/contentless-awareness-evidence/) ("Contentless Awareness: What Could Count as Evidence?") — oldest un-pessimistically-reviewed altered-state/evidence topic (last touched 2026-06-18). No drafts in the corpus, so selected by staleness within the altered-state cluster.
+- **Findings**: Strong, disciplined article (evidential-status firewall holds; tenet-as-evidence pre-empted; PASSES Altered-State Symmetry audit — cites disruptive cluster + names the symmetric burden). 4 medium calibration issues, all second-order: (1) register conflict "live hypothesis" vs. structural unsettleability; (2) overstated *independence* of the "two traditions" (MPE program samples the contemplative reports it's said to independently converge with — the article's own anti-double-counting discipline should fire); (3) phenomenological datum under-defended vs. introspection-skepticism; (4) no-self/Madhyamaka boundary unregistered. Metzinger 2020 quotes verified VERBATIM against the paper abstract (no fabrication) — the highest-yield lens came back clean. One P2 refine-draft queued.
+- **Output**: [pessimistic-2026-07-17-contentless-awareness-evidence](/reviews/pessimistic-2026-07-17-contentless-awareness-evidence/)
+
+## 2026-07-17T10:24:36+00:00 - deep-review
+- **Status**: Success (1 quote-fidelity fix)
+- **File**: [mapping-mind-space](/voids/mapping-mind-space/)
+- **Word count**: 2998 → 2998 (length-neutral; 150% of 2000 soft, at the 3000 voids hard ceiling with 2 words headroom)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (verbatim quote correction)
+- **Output**: [deep-review-2026-07-17-mapping-mind-space](/reviews/deep-review-2026-07-17-mapping-mind-space/)
+- **Notes**: Quote-fidelity primary lens per steering; every quoted string re-verified at publisher of record, distrusting the three prior reviews' "citations verified" labels (which checked metadata/stance, not quoted-string word-fidelity). **Fix: McGinn "lie in dimensions of reality our cognitive architecture cannot access"** — extracted + grepped the full McGinn 1989 text: "dimension(s)" appears NOWHERE; his argument is framed around a property P / theory T concept-forming procedures "cannot extend to a grasp of". The dimensional gloss is the article's framing, not McGinn's words → de-quoted (removed quotation marks, 0 words added, held at 2998w); source/Map conflation at the quoted-string level resolved. Verified CLEAN (verbatim, unchanged): James VRE "normal waking consciousness…" (fragment; appositive elided, "…filmiest of screens" ellipsis-marked, quoted words verbatim — NOT the corpus's James-fabrication pattern); Nagel bat "there is no reason to suppose that it is subjectively like anything…" (verbatim; "[bat experience]" honest bracketed gloss of "it"); McGinn "naturalistic but not constructive" (VERBATIM, source in-text); Lacalli "several times as many dimensions as there are categories of qualia" (verbatim, clean truncation); Schwitzgebel "the truth — whatever it is — is weird" (verbatim fragment); Carr "a hierarchy of levels of consciousness" (faithful). Sjöstedt-Hughes "an inhibiting filtering interface rather than as a producer of mind" — stance-faithful, literal match not confirmable (PhilArchive chapter 403); flagged for a future access-enabled pass. No calibration slippage, no aggregator-sourced verifications. Engagements: functionalist/representationalist + Fleming-Shea quality-space = Mode Three (framework-boundary marking, natural prose, no label leakage). ai_modified + last_deep_review bumped; ai_system HELD at claude-opus-4-7 (no over-attribution).
+
+## 2026-07-17T10:01:32+00:00 - deep-review
+- **Status**: Success (3 quote-fidelity fixes)
+- **File**: [mood-void](/voids/mood-void/)
+- **Word count**: ~2450 → ~2450 (length-neutral; ~123% of 2000 soft, below 3000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (verbatim quote corrections)
+- **Notes**: Quote-fidelity primary lens per steering; every quoted string re-verified at publisher of record, distrusting prior "verbatim-verified" labels. (1) **Kriegel 2019** (*Philosophers' Imprint* 19:49) — quote opened at altered participle "cast happy glows…"; original is "**casting** happy glows…". Moved "cast" outside the quote marks so the quoted string is verbatim. (2) **Nisbett-Wilson / Wilson** — de-quoted "unaware of their own unawareness": verifiable circulating form is "unaware of their **unawareness**" (no "own") and even that is a secondary gloss, not a clean 1977 verbatim line — removed quote marks, kept phrasing as the Map's prose (paraphrase-dressed-as-verbatim fix). (3) **Alexithymia** — pluralized "consciously accessible representations" → singular "a consciously accessible representation" to match Preece et al. 2018 (*Frontiers in Psychology*); exact phrase is NOT in the cited PMC8456171 (Hogeveen & Grafman 2021) but is faithful to the affective-representation model, loose "clinical literature" attribution retained. Verified CLEAN (unchanged): Heidegger §29 Macquarrie-Robinson "towards" rendering; Russell 2003 free-floating/mood quote + bracketed "[the] causal connections" (honest substitution of "these"); Nisbett-Wilson "little or no direct introspective access…" (verbatim 1977); Solomon "about nothing in particular…" (explicitly hedged as literature-standard, not a false verbatim claim). No calibration slippage, no source/Map conflation. ai_modified + last_deep_review bumped; ai_system held (opus-4-7).
+- **Output**: [deep-review-2026-07-17-mood-void](/reviews/deep-review-2026-07-17-mood-void/)
+
+## 2026-07-17T09:32:48+00:00 - deep-review
+- **Status**: Success (3 quote-fidelity fixes, family-resolved)
+- **File**: [process-philosophy](/concepts/process-philosophy/)
+- **Word count**: 2206 → 2206 (~0, length-neutral)
+- **Critical issues addressed**: 3 (verbatim quote defects)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Quote-fidelity primary lens per steering; literal-string verify at publisher of record. (1) **Bergson** — removed inserted "an": "Time is *an* invention…" → verbatim "Time is invention or it is nothing at all." (Mitchell trans. *Creative Evolution* Ch. IV, Project Gutenberg #26163). The "an" had been WRONGLY added 2026-06-25 on libquotes-aggregator authority, corrupting 3 files — aggregator-ratification trap; do NOT re-add. (2) **Whitehead** — "the ultimate category" (an inversion) → source form "Category of the Ultimate". (3) **James** — pronoun fix inside quote: "shut in *their* own skin" → verbatim singular "shut in its own skin" (*Principles of Psychology* 1890). Family-resolved (1)+(2) to [process-and-consciousness](/apex/process-and-consciousness/) and [bergson-and-duration](/topics/bergson-and-duration/) (identical strings, same bad correction); ai_modified bumped on both, ai_system held (opus-4-6). Deferred: corpus-wide James "their own skin" pronoun-adaptation in 4 combination-problem-cluster files (low-priority, noted in review). process-philosophy ai_modified + last_deep_review bumped; ai_system held (opus-4-5).
+- **Output**: [deep-review-2026-07-17-process-philosophy](/reviews/deep-review-2026-07-17-process-philosophy/)
+
+## 2026-07-17T09:10:12+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/)
+- **Word count**: 2009 → 2009 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Third review, quote-fidelity primary lens per steering. Re-verified all 8 in-quote strings (7 sibling + 1 external Schultze-Kraft title) at literal-string level against current sources — all verbatim-faithful, no drift, no paraphrase-as-quote. Saad DOI is correct Springer `10.1007` form (not bad Phil-Sci `10.1017/S0031824`). No slippage, no citation-framing issues. last_deep_review bumped only; ai_modified and ai_system held.
+- **Output**: [deep-review-2026-07-17-one-structure-three-vocabularies](/reviews/deep-review-2026-07-17-one-structure-three-vocabularies/)
+
+## 2026-07-17T08:57:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [structure-of-attention](/topics/structure-of-attention/)
+- **Word count**: ~2270 → ~2270 (length-neutral; body ceiling 4000)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Notes**: Strict-oldest staleness pick, expected probable no-op — NOT a no-op. Quote-fidelity lens caught two paraphrase-as-quote defects that six prior reviews ratified as "verbatim-verified" (they confirmed substance, not the literal string — the quote-fidelity-defects-survive-metadata-reviews failure mode). (1) James (line 100): quoted string dropped "or consent which we can at any time put forth" and reworded the opening; corrected to verbatim (verified Wikipedia + psychclassics.yorku.ca Principles ch. XXVI). (2) COGITATE 2025 (line 126): quoted phrase absent from the Nature paper (PMC12137136 says PFC decoding "brief"/"restricted to ~0.2–0.4 s"); de-quoted to faithful paraphrase. (3) Added missing References entry for the inline-orphan Schwartz et al. 1996 (Arch Gen Psychiatry 53(2):109-113, verified PubMed 8629886). All 8 citations web-verified at publisher of record (title+venue) — metadata all real-correct. Real fix → both ai_modified and last_deep_review bumped; ai_system held at claude-opus-4-6.
+- **Output**: [deep-review-2026-07-17-structure-of-attention](/reviews/deep-review-2026-07-17-structure-of-attention/)
+
+## 2026-07-17T08:37:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [physics-as-disclosure](/concepts/physics-as-disclosure/)
+- **Word count**: 2065 → 2065 (no change — genuine no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Strict-oldest staleness pick; fifth pass, body byte-unchanged since 2026-06-06 full publisher-of-record citation audit (git-confirmed, no commits touching file). Tomaz §5 verbatim quote retains source "remains **on**"; no Phil-Sci S0031824 DOI defect; sole superlative flag ("so far") is a hedged completion-avenue claim, not an empirical record; self-cite pseudonyms (Oquatre-six) legitimate and untouched. No possibility→probability slippage; deficiency-theorist engagement remains honest boundary-marking; constrains-vs-establishes calibration intact. last_deep_review bumped only; ai_modified and ai_system (claude-opus-4-7) held.
+- **Output**: [deep-review-2026-07-17-physics-as-disclosure](/reviews/deep-review-2026-07-17-physics-as-disclosure/)
+
+## 2026-07-17T08:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [question-formation-void](/voids/question-formation-void/)
+- **Word count**: 2735 → 2735 (no change — genuine no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Strict-oldest staleness pick (~44d); third pass, body byte-unchanged since 2026-06-03 thorough web-verify (git-confirmed). All 18 sibling wikilinks resolve to live articles; meta-epistemology anchor target still matches live heading; five quoted strings verbatim-verified pre-2020/2007 sources (no drift on unchanged text); no superlative/currency claims. No possibility→probability slippage; deflationary/MWI/dualism engagements remain honest boundary-marking. last_deep_review bumped only; ai_modified and ai_system (claude-opus-4-7) held.
+- **Output**: [deep-review-2026-07-17-question-formation-void](/reviews/deep-review-2026-07-17-question-formation-void/)
 
 ## 2026-07-17T07:58:54+00:00 - deep-review
 - **Status**: Success

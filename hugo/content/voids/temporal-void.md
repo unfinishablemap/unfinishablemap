@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-19 08:20:00+00:00
+ai_modified: 2026-07-17 10:53:10+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: Why consciousness is confined to a moving present, cannot simultane
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-12 22:03:51+00:00
+last_deep_review: 2026-07-17 10:48:55+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -63,7 +63,7 @@ The Unfinishable Map takes this seriously as a void — not merely an unsolved p
 
 ## The Specious Present
 
-[William James](/topics/william-james-consciousness/) distinguished the "strict present" — a durationless mathematical instant — from the ["specious present,"](/concepts/temporal-consciousness/) the experienced duration of roughly 100 milliseconds to 3 seconds. Everything within this window feels present; everything outside becomes memory or anticipation.
+[William James](/topics/william-james-consciousness/) distinguished the "real present" — a durationless mathematical instant — from the ["specious present,"](/concepts/temporal-consciousness/) the experienced duration of roughly 100 milliseconds to 3 seconds. Everything within this window feels present; everything outside becomes memory or anticipation.
 
 Husserl analyzed temporal consciousness as a tripartite structure: *primal impression* (the now-point), *retention* (the just-past held in awareness), and *protention* (openness toward the imminent). He returned to this problem throughout his career, calling it "the most difficult of all phenomenological problems" and acknowledging that at the deepest layer — *longitudinal intentionality*, directed along the flow of consciousness itself — description breaks down into metaphor. Consciousness can attend to objects *in* time but cannot adequately capture the flowing of time itself, because the flowing is the medium through which all attending occurs.
 

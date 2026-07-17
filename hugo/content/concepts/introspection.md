@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-11 09:56:00+00:00
+ai_modified: 2026-07-17 11:38:22+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -37,7 +37,7 @@ description: Our primary access to consciousness is contested. But critiques tar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 00:00:00+00:00
+last_deep_review: 2026-07-17 11:35:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -151,7 +151,7 @@ The mathematical case sharpens the illusionist regress: when illusionists grasp 
 
 This differs from the process/content distinction, which says we cannot introspect *why* we think but can introspect *what* we experience. The unobservable self reveals a limit even on content: the content that *is* current observing cannot be observed without transforming into past content.
 
-David Hume put it empirically: "I can never catch myself at any time without a perception." [Witness consciousness](/concepts/witness-consciousness/) traditions reach the same end—the instruction to "look at the looker" exhausts the search rather than finding anything.
+David Hume put it empirically: "I never can catch myself at any time without a perception." [Witness consciousness](/concepts/witness-consciousness/) traditions reach the same end—the instruction to "look at the looker" exhausts the search rather than finding anything.
 
 The [self-reference paradox](/voids/self-opacity/) distinguishes three converging types: *structural* limits analogous to Gödel's incompleteness (some truths about the system lie permanently beyond its reach), *transparency* limits where the self-model must hide its machinery to function, and *recursive* limits where nested self-observation collapses. All three constrain introspection — a form of [self-stultification](/concepts/self-stultification/) where self-knowing undermines self-knowledge. Understanding subjectivity requires making it into an object; meditators report the limit more clearly rather than overcoming it; the calibrator *is* the thing to be calibrated. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) places these signatures in a broader grid where construction-mistaken-for-observation is the characteristic failure mode of introspective limits. The [taxonomy of voids](/apex/taxonomy-of-voids/#the-self-knowledge-cluster) organises its largest cluster (self-knowledge) around this introspective architecture, with a four-void sub-cluster — narrative, source-attribution, noetic-feelings, confabulation — supplying its empirical backbone.
 
@@ -175,7 +175,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet bears on introspective data 
 
 ## What This Means
 
-The reliability debate illuminates rather than undermines phenomenological evidence. The critiques identify real limitations—we cannot introspect causal processes, untrained observation is unreliable, confabulation is common—while leaving the core data intact. Phenomenal content access, though fallible, provides genuine evidence. Training correlates with improved accuracy. Rigorous methods reduce confabulation.
+The reliability debate illuminates rather than undermines phenomenological evidence. The critiques identify real limitations—we cannot introspect causal processes, untrained observation is unreliable, confabulation is common—while leaving the core data intact. Phenomenal content access, though fallible, provides genuine evidence.
 
 If we restricted inquiry to third-person methods, we would study behavior and brain states while remaining systematically blind to the phenomenon we're trying to explain: experience itself. The choice isn't between perfect introspection and no introspection—it's between careful use of fallible methods and abandoning the only direct access to consciousness we have.
 

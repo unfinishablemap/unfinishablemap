@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-06-06 13:58:03+00:00
+ai_modified: 2026-07-17 10:24:36+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -18,7 +18,7 @@ description: Human+AI exploration of why consciousness cannot survey the geometr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-09 12:00:00+00:00
+last_deep_review: 2026-07-17 10:24:36+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -65,7 +65,7 @@ The dimensionality facet operates one level deeper than location. Most cognitive
 
 Edwin Abbott's *Flatland* illustrates the structure. A Flatlander confined to two dimensions does not merely fail to see three-dimensional objects; it cannot formulate the concept of depth, and "what lies above?" is unaskable. It can be *told* about depth and manipulate formal descriptions of cubes, yet cannot *conceive* depth as a dimension of its experience. Mathematical understanding does not close the phenomenal gap.
 
-Colin McGinn's [cognitive closure](/concepts/mysterianism/) argument formalises the predicament: a mind is closed with respect to a property if its concept-forming procedures cannot extend to grasping it. The mind-body solution may "lie in dimensions of reality our cognitive architecture cannot access." McGinn's own position is "naturalistic but not constructive" — he holds the mind-brain link is fully natural and explicitly rejects dualism, taking the closure to be a limit on human concept-formation rather than evidence for a non-physical domain. The Map cites his closure thesis for the epistemic predicament it names, not as endorsement of its dualist destination. Peter Sjöstedt-Hughes extends the dimensional reading: perceptual space is a slice of a higher-dimensional manifold, and the brain acts as "an inhibiting filtering interface rather than as a producer of mind" — making our experience a cross-section, faithful within its plane, missing everything orthogonal.
+Colin McGinn's [cognitive closure](/concepts/mysterianism/) argument formalises the predicament: a mind is closed with respect to a property if its concept-forming procedures cannot extend to grasping it. The mind-body solution may lie in dimensions of reality our cognitive architecture cannot access. McGinn's own position is "naturalistic but not constructive" — he holds the mind-brain link is fully natural and explicitly rejects dualism, taking the closure to be a limit on human concept-formation rather than evidence for a non-physical domain. The Map cites his closure thesis for the epistemic predicament it names, not as endorsement of its dualist destination. Peter Sjöstedt-Hughes extends the dimensional reading: perceptual space is a slice of a higher-dimensional manifold, and the brain acts as "an inhibiting filtering interface rather than as a producer of mind" — making our experience a cross-section, faithful within its plane, missing everything orthogonal.
 
 ## Arguments for Missing Dimensions
 
