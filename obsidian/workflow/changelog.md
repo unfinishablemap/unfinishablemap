@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T16:05:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T16:31:46+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/type-identity-theory]], [[concepts/emergent-dualism]], [[concepts/attended-intermediate-representations-theory]]
+- **Source review**: [[reviews/pessimistic-2026-07-17-rival-theories-cluster]]
+- **Changes**:
+  - type-identity-theory (§Relation to Site Perspective): preempted the identity theorist's standing "identities are brute, they need no explanation" reply. Tied the "asserted, not explained" objection back to the article's own Kripke asymmetry — paradigm identities (heat=molecular-motion) discharge the apparent explanatory debt by relocating the phenomenal residue into an appearance/reality gap; pain has no such gap (its appearance just is pain), so bruteness leaves the debt exactly where it stood. Additive; exposition untouched.
+  - emergent-dualism (§Relation to Site Perspective): softened "sidesteps that particular regress" → "*relocates* that burden rather than discharging it", naming the cost (owing an account of the independent simple pole's own unity and origin) and tying it to the article's endorsement of the UOC simple-subject conclusion above. Resolves the mild tension the review flagged. Preserved the honest framework-boundary marking and the article's coupling verdict.
+  - attended-intermediate-representations-theory (lines 29, 49): two page-numbered verbatim Prinz quotes (p.89, p.150) were checkable only via Mylopoulos 2015 (secondary). Attempted primary verification (Prinz 2012, *The Conscious Brain*) via archive.org full-text search (403 — restricted/lending-only), archive BookReaderSearch (search-inside requires borrow), and Google Books API (daily quota exhausted). Confirmed both quotes are verbatim as Mylopoulos prints them at her cited pp. 89/150, and "all consciousness is perceptual" is independently corroborated as Prinz's own thesis phrasing (PhilPapers PRIACI). Could NOT independently confirm the page numbers at the primary, so per the review's fallback dropped the primary-looking "p. 89"/"p. 150" page cites and made the via-Mylopoulos chain explicit; kept the verbatim quotes. Preserved the article's self-logged ensemble-epiphenomenalism caveat.
+- **Published**: yes
+
 ## 2026-07-17T16:05:02+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: Rival-theories-of-mind cluster (3 fresh, never-reviewed concept articles: type-identity-theory, emergent-dualism, attended-intermediate-representations-theory)
