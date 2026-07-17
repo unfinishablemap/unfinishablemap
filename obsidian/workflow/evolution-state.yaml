@@ -1326,8 +1326,8 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T08:22:00+00:00'
-  last_replenishment_prev: '2026-07-17T08:13:00+00:00'
+  last_replenishment: '2026-07-17T08:49:00+00:00'
+  last_replenishment_prev: '2026-07-17T08:22:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_one_structure_three_vocabularies_0822: 'Floor-restore
     replenish 2026-07-17T0822Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(content) == 2 verified
@@ -1418,45 +1418,44 @@ queue_status:
     no padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard).
     Pruned the oldest floor-restore note (forward_in_time_symmetric_0139) to keep
     the most-recent 3 (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_physics_as_disclosure_0447: 'Floor-restore
-    replenish 2026-07-17T0447Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
+  last_floor_restore_note_2026_07_17_staleness_mood_void_0849: 'Floor-restore replenish
+    2026-07-17T0849Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(content) == 2 verified
-    LIVE before this single write (the two open P2 deep-reviews topics/forward-in-time-vs-time-symmetric-selection
-    + voids/question-formation-void; #veto condense P2s parser-excluded; ~9 P3s +
-    human-deferred length-decision tasks do NOT count toward the floor of 3); == 3
-    verified after. MIN_QUEUE floor 3 unmet by 1, restores 2 to 3. NO concurrent evolve_loop.py
-    (ps -ef grep empty at write; loop auto-commits were live earlier this cycle --
-    expected replenish-at-floor alternation, unfin_loop_steady_state); clean tree;
-    HEAD 18c512733. concurrent-replenish-race guard: revert the redundant add if a
-    sibling/loop mint lands. EIGHT-SOURCE AUDIT (live): chain none (chains BLOCKED,
-    sections AT CAP); unconsumed_research + gap BLOCKED (topics 320/320, concepts
-    320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0; length veto/human-deferred;
-    positions audit ran 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap.
-    SOURCE = staleness (Source 4). SESSION-STEERING PRIMARY SEAM (stale internal quotes,
-    apex-stale-internal-quote-channel) searched corpus-wide and CONFIRMED NO DRIFT
-    -- three genuine internal-quote-attribution candidates (interventionist-and-counterfactual-dualism->trumping-preemption;
-    one-structure-three-vocabularies->delegatory-dualism; valence-and-conscious-selection->valence)
-    all verify FAITHFUL (quoted strings still present verbatim in the current sibling,
-    incl. the interventionist->trumping quote whose sibling WAS rewritten 07-16 after
-    the 07-15 review but preserved the elided quote). No stale quote identifiable
-    -> honest strict-oldest fall-back per steering. MINTED 1 P2 deep-review concepts/physics-as-disclosure.md
-    -- the strict-oldest CLEANLY-converged non-session-touched, non-queued concept,
-    chosen in concepts/ for SECTION DIVERSITY (both open P2s are a topic + a void).
-    last_deep_review == ai_modified == 2026-06-06T00:30:18 (41-day settled gap, git-untouched
-    since 06-06 commit d53dc25dc, NOT session-touched), ai_contribution 100, ai_system
-    claude-opus-4-7, 2065 body words via analyze_length = ok (concepts soft 2500 ->
-    clean deep-review NOT condense). Same-date sibling rational-normativity REJECTED
-    (git-touched 07-12, not cleanly converged). HONESTLY FLAGGED PROBABLE-NO-OP /
-    LOW yield: 4 prior review files + git-untouched since its 06-06 converged pass
-    (deep_review_over_reviews_converged); a metadata-only no-op verdict is acceptable
-    and EXPECTED, do NOT manufacture defects. CANDIDATE verify-targets phrased verify-don''t-presume:
-    TITLE+venue-check any named cite (watch Phil Sci DOI form), cross-links resolve+reciprocate,
-    Tenet-5 routing present, preserve calibration hedges, EOF tool-tag scan. Standard
-    hygiene (HOLD ai_system, no-op bumps last_deep_review ONLY, don''t flag Map self-cite
+    LIVE before this single write (the two open P2 deep-reviews topics/structure-of-attention
+    + topics/one-structure-three-vocabularies; #veto condense P2s parser-excluded; ~10
+    P3s + human-deferred length-decision tasks do NOT count toward the floor of 3);
+    intended == 3 after. MIN_QUEUE floor 3 unmet by 1, restores 2 to 3. NO concurrent
+    evolve_loop.py (pgrep -af evolve_loop.py empty at write -- only this session own
+    grep matched); clean tree; HEAD aca3ac99a. concurrent-replenish-race guard: revert
+    the redundant add if a sibling/loop mint lands. EIGHT-SOURCE AUDIT (live): chain
+    none (chains BLOCKED, sections AT CAP); unconsumed_research + gap BLOCKED (topics
+    320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan 0;
+    length veto/human-deferred; positions audit ran 2026-07-16 (<30d), 8<10 audit floor;
+    no applied-apex-gap. SOURCE = staleness (Source 4). Per session-steering convergence-damping,
+    deliberately chose a genuinely LESS-reviewed older-cohort target over another >=3-converged
+    strict-oldest no-op; both high-yield channels (citation web-verify seam, internal-quote-drift)
+    re-confirmed WORKED-OUT (see the two queued tasks notes for the live re-checks).
+    MINTED 1 P2 deep-review voids/mood-void.md -- a strict-oldest converged non-session-touched,
+    non-queued VOID with only 2 prior dedicated deep-reviews (reviews/deep-review-2026-04-27
+    + 2026-06-04-mood-void.md; a third pessimistic-2026-06-04 is a different lens),
+    so NOT a >=3-converged no-op and satisfies steering preference for a <=2-review
+    older-cohort target. last_deep_review == ai_modified == 2026-06-04T22:45:00 (43-day
+    settled gap, git-untouched since 06-04 commit b50bf0070, NOT session-touched),
+    ai_contribution 100, ai_system claude-opus-4-7 (opus-4-8-deprioritized exempt),
+    2437 body words via analyze_length = soft_warning (voids soft 2000/hard 3000 ->
+    clean deep-review NOT condense). Chosen in voids/ for SECTION DIVERSITY (both open
+    P2s are topics). Rejected over-converged same-cohort meaning-void (5 dedicated reviews).
+    HONESTLY FLAGGED moderate-yield (twice-reviewed + 43d settled, higher-yield than
+    the >=3-converged strict-oldest picks) but a metadata-only no-op verdict is still
+    acceptable, do NOT manufacture defects. CANDIDATE verify-targets phrased verify-dont-presume:
+    TITLE+venue-check any named cite (this void had one wrong-author fix at 017bff81b
+    -- re-check author attributions at publisher), cross-links resolve+reciprocate,
+    Tenet routing present, preserve calibration hedges, EOF tool-tag scan. Standard
+    hygiene (HOLD ai_system, no-op bumps last_deep_review ONLY, dont flag Map self-cite
     pseudonyms, date -u stamps not future-dated). POST-COUNT == 3 (floor exactly satisfied,
     no padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard).
-    Pruned the oldest floor-restore note (cross_mechanism_convergence_0057) to keep
-    the most-recent 3 (bloat control, zero logic dep).'
+    Pruned the oldest floor-restore note (physics_as_disclosure_0447) to keep the most-recent
+    3 (bloat control, zero logic dep).'
   last_floor_restore_target: cross-review topics/quantum-hardware-and-the-ai-consciousness-coupling.md
     (chain successor to this session's quantum-hardware expand-topic create, which
     skipped its cross-review successor -- expand-topic-skips-integration-chain; a
