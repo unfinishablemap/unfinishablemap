@@ -167,4 +167,3 @@ cluster — a rare clean pass.
 
 - **No-self objection to phenomenal value** (see Expansion Opportunities): the only genuinely missing
   page — three articles reference the objection as a live cost with nowhere to send the reader.
-</content>
