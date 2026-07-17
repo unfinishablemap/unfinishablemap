@@ -5,6 +5,17 @@ ai_modified: 2026-07-17T01:47:58+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T02:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cross-mechanism-convergence]]
+- **Word count**: ~2223 → ~2223 (0)
+- **Critical issues addressed**: 1 (stale internal quote — sibling coalesce reworded the quoted memory-hierarchy sentence: "the same ordering, and" → "one ordering — and"; corrected to current source verbatim)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verify**: Hu et al. 2023 (*Nature Neuroscience* 26, 751–764) and Sarasso et al. 2015 (*Current Biology* 25(23), 3099–3105) both re-verified real-correct at publisher of record; claim-direction PASS
+- **Timestamps**: real fix → ai_modified + last_deep_review both bumped; ai_system held at claude-opus-4-7
+- **Output**: [[reviews/deep-review-2026-07-17-cross-mechanism-convergence]]
+
 ## 2026-07-17T02:09:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/philosophical-zombies]]
