@@ -5,6 +5,13 @@ ai_modified: 2026-07-17T16:05:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T16:35:09+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/direction-of-fit]], [[concepts/subjective-aim]]
+- **Source review**: [[reviews/optimistic-2026-07-16-value-meaning-cluster]]
+- **Changes**: Added a reciprocal Further Reading cross-reference between the two articles (previously absent both directions, grep-verified). direction-of-fit FR → subjective-aim (framing Whitehead's aim toward "satisfaction" as the process-metaphysics face of world-to-mind fit); subjective-aim FR → direction-of-fit (framing it as the intentional-structure account of the same directedness). Link-only, minimal prose; no bloat. Tenet 3 (Bidirectional Interaction) alignment. Both are ai_contribution 100 already; bumped ai_modified.
+- **Published**: yes
+
 ## 2026-07-17T16:31:46+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/type-identity-theory]], [[concepts/emergent-dualism]], [[concepts/attended-intermediate-representations-theory]]

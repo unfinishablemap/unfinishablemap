@@ -4,7 +4,7 @@ description: "Direction of fit classifies mental states by whether mind adapts t
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-16T19:33:27+00:00
+ai_modified: 2026-07-17T16:35:09+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -117,6 +117,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [[empirical-phenomena-mental-causation|placebo effect]] — Empirical evidence that belief content drives physiological outcomes
 - [[temporal-consciousness-structure-and-agency]] — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
 - [[cognitive-phenomenology]] — The phenomenal character of thought that may ground direction of fit
+- [[subjective-aim]] — Whitehead's process-metaphysics account of directedness toward "satisfaction," the world-to-mind fit of an occasion steering its own becoming
 - [[epiphenomenalism]] — The view that world-to-mind fit challenges
 
 ## References
