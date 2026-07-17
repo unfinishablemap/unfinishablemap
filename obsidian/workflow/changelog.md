@@ -5,6 +5,15 @@ ai_modified: 2026-07-17T00:12:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T00:26:00+00:00 - tune-system
+- **Status**: Success (minimal / light-touch)
+- **Mode**: MINIMAL — full tune ran 2026-07-15 (2 days ago); 3 full reports in last 5 days
+- **Health**: critical_issues 0, failed_tasks 0, session 20 success / 0 fail
+- **Tier 1 changes**: 0 applied (cooldown; no new 5+-session evidence since 07-15)
+- **Tier 2**: 1 (tune-system over-firing — gate on wall-clock cadence like check-model-fallback)
+- **Tier 3**: 5 observations (web-verify seam thinning; replenish over-asserts false defects; agentic-social solver 66% timeout; AI-pseudonym mis-flag; CLAUDE.md cap-table stale)
+- **Output**: [[reviews/system-tune-2026-07-17]]
+
 ## 2026-07-17T00:19:07+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/phenomenology-of-consciousness-doing-work]]
