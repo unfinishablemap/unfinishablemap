@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
-last_deep_review: 2026-06-17T07:25:16+00:00
+last_deep_review: 2026-07-17T13:45:15+00:00
 ---
 
 Can we know *how* consciousness interacts with matter, or only *that* it does? The Unfinishable Map's interactionist framework asserts bidirectional causation between mind and body—but this commitment raises a question that precedes the search for specific mechanisms: what kind of knowledge about the interface is epistemically available to us? The [[the-interface-problem|specification problem]] asks what a complete theory must contain. This article asks the prior question: what epistemic tools and methods can reach the interface at all, and what structural features of the problem constrain what we can learn?
