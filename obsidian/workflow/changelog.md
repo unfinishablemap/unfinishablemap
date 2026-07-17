@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T20:05:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T21:15:28+00:00 - deep-review
+- **Status**: Success (genuine no-op on content — converged; value = the §2.4 web-verify ledger six prior reviews asserted but never recorded)
+- **File**: [[topics/consciousness-and-probability-interpretation]]
+- **Word count**: 2647 → 2647 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Selected as older-cohort (opus-4-6) citation-bearing article whose 6 prior reviews contained NO actual per-cite ledger (2026-06-19 asserted "citations verified" without one → treated as skipped). Ran full §2.4 publisher-of-record pass on all 8 References + inline cites at Science/PsycNet/Oxford/arXiv/PubMed (never unfinishablemap.org): all 8 **real-correct** — Tversky-Kahneman 1974 Science 185(4157):1124-31, T&K 1983 PsychRev 90(4):293-315, Gigerenzer-Hoffrage 1995 PsychRev 102(4):684-704, Fuchs arXiv:1601.04360, McGinn 1989 Mind 98:349-66, Blain et al. 2020 JAbnPsych 129(3):279-92 (PMID 32212749), Born 1926, Kahneman 2011. Inline↔References cross-ref clean; no orphans. Superlative sweep: "no experiment to date" = accurate empirical-gap statement, not a cite superlative. Verbatim audit: quotation marks wrap conceptual phrases only — no named-thinker primary-source verbatim string to fail. No calibration slippage (corridor-dualism reading explicitly hedged as working hypothesis with 3 named live alternatives). `last_deep_review` bumped only; `ai_modified` held at HEAD (2026-06-20), `ai_system` held (opus-4-6, not re-authored).
+- **Output**: [[reviews/deep-review-2026-07-17-consciousness-and-probability-interpretation]]
+
 ## 2026-07-17T20:58:00+00:00 - deep-review
 - **Status**: Success (genuine no-op — converged; real verbatim-quote/attribution pass, not metadata rubber-stamp)
 - **File**: [[concepts/african-philosophy-of-consciousness]]

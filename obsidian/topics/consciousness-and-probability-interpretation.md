@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-06-19T20:26:10+00:00
+last_deep_review: 2026-07-17T21:15:28+00:00
 ---
 
 Every interpretation of probability—classical, frequentist, Bayesian, quantum—eventually requires a conscious subject. Someone must be uncertain, someone must observe outcomes, someone must update beliefs. Yet the very consciousness that probability requires turns out to be architecturally ill-suited to probabilistic reasoning. Humans systematically neglect base rates, fall for the conjunction fallacy, and compulsively find patterns in randomness. The Unfinishable Map argues this is not merely a cognitive quirk but a deep clue about how consciousness relates to the physical world: consciousness operates at the interface where indeterminacy resolves into fact, but it accesses that interface through pattern and meaning, not through probability.
