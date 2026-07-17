@@ -5,6 +5,16 @@ ai_modified: 2026-07-17T07:08:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T08:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/question-formation-void]]
+- **Word count**: 2735 → 2735 (no change — genuine no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Strict-oldest staleness pick (~44d); third pass, body byte-unchanged since 2026-06-03 thorough web-verify (git-confirmed). All 18 sibling wikilinks resolve to live articles; meta-epistemology anchor target still matches live heading; five quoted strings verbatim-verified pre-2020/2007 sources (no drift on unchanged text); no superlative/currency claims. No possibility→probability slippage; deflationary/MWI/dualism engagements remain honest boundary-marking. last_deep_review bumped only; ai_modified and ai_system (claude-opus-4-7) held.
+- **Output**: [[reviews/deep-review-2026-07-17-question-formation-void]]
+
 ## 2026-07-17T07:58:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/forward-in-time-vs-time-symmetric-selection]]
