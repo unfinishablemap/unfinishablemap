@@ -5,6 +5,18 @@ ai_modified: 2026-07-17T00:12:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-17T00:50:52+00:00 - deep-review
+- **Status**: Success (converged, no-op content)
+- **File**: [[concepts/theory-of-mind]]
+- **Word count**: 3153 → 3153 (unchanged; under concepts 3500 hard cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 9/9 real-correct via first genuine live publisher-of-record pass (prior ledgers were substantially intra-corpus). Call & Tomasello 2008 TiCS 12(5) 187–192, Heyes 2014 PoPS 9(2) 131–143, Saxe & Kanwisher 2003 NeuroImage 19(4) 1835–1842, Stiller & Dunbar 2007 Social Networks 29(1) 93–104, Premack & Woodruff 1978 BBS 1(4) 515–526, and books (Baron-Cohen 1995, Perner 1991 MIT Press; Tomasello 2014 Harvard; Wellman 2014 OUP) all verified. Stiller & Dunbar fifth-order-ceiling inline claim direction confirmed faithful. Superlative sweep 0 matches. No metadata errors, fabrications, or slippage.
+- **Reasoning modes** (editor-internal, unchanged): functionalist Mixed (Mode Two + Three); eliminativist Mixed; Buddhist no-self Mode Three. No label leakage.
+- **No-op hygiene**: last_deep_review bumped; ai_modified + ai_system (claude-opus-4-6) held.
+- **Output**: [[reviews/deep-review-2026-07-17-theory-of-mind]]
+
 ## 2026-07-17T00:40:55+00:00 - deep-review
 - **Status**: Success (converged, no-op content)
 - **File**: [[voids/plenitude-void]]

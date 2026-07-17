@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T00:42:29.807579+00:00'
-session_count: 16065
+last_updated: '2026-07-17T00:48:25.551978+00:00'
+session_count: 16066
 cycle_position: 11233
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-16T04:17:35.865857+00:00'
   refine-draft: '2026-07-16T20:10:50.193538+00:00'
   research-topic: '2026-07-16T15:24:58.971669+00:00'
-  replenish-queue: '2026-07-17T00:37:47.796548+00:00'
+  replenish-queue: '2026-07-17T00:48:25.551978+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-16T08:04:03.319681+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-16'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1349,17 +1349,17 @@ queue_status:
   last_replenishment_prev: '2026-07-17T00:35:00+00:00'
   last_floor_restore_note_2026_07_17_staleness_non_human_minds_0043: 'Floor-restore
     replenish 2026-07-17T0043Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text()) == 2
-    verified LIVE before this single write (the two open P2 deep-reviews concepts/theory-of-mind
+    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text()) ==
+    2 verified LIVE before this single write (the two open P2 deep-reviews concepts/theory-of-mind
     + voids/conceptual-scheme-void; three #veto condense P2s parser-excluded; ~9 P3s
     + human-deferred length/length-decision tasks do NOT count toward the floor of
     3); == 3 verified after. MIN_QUEUE floor 3 unmet by 1, restores 2 to 3. NO concurrent
     evolve_loop.py (ps -ef == 0); clean tree; HEAD e192f1fb2. concurrent-replenish-race
     guard: revert the redundant add if a sibling mint lands. EIGHT-SOURCE AUDIT (live):
     chain none (chains BLOCKED, sections AT CAP); unconsumed_research + gap BLOCKED
-    (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); orphan
-    0; length veto/human-deferred; positions audit ran 2026-07-12 (<30d), 8<10 audit
-    floor; no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review
+    (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80);
+    orphan 0; length veto/human-deferred; positions audit ran 2026-07-12 (<30d), 8<10
+    audit floor; no applied-apex-gap. SOURCE = staleness (Source 4). MINTED 1 P2 deep-review
     voids/non-human-minds-as-void-explorers.md -- a genuine never-publisher-verified
     citation surface AND simultaneously the strict-oldest converged older-cohort article
     in the non-queued non-session-touched pool ([[owed-web-verify-seam-deep-review-targeting]]).
@@ -1372,22 +1372,22 @@ queue_status:
     NOT condense). Its entire review ledger is intra-corpus (coalesce, condense 3260->2128w,
     wikilink/reference retargets) -- a verbatim-quote-fidelity / title+venue publisher
     pass has NEVER run ([[quote-fidelity-defects-survive-metadata-reviews]]). DIVERSITY
-    CAVEAT stated plainly: THIRD voids item (queue voids-heavy) -- accepted because every
-    citation-dense older-cohort remainder outside the queue is a void; cohort topics/concepts
-    are low-ref. Flagged MODEST expected yield -- ref list mixes canonical philosophy
-    (Nagel 1974 Phil Review 83(4); McGinn 1989 Mind 98(391); Schneider 2016) likely
-    to verify clean with the fresher higher-risk Springer/arXiv/journal surface (the
-    more probable defect locus); metadata-only no-op is acceptable, do NOT manufacture
-    defects. CANDIDATE verify-targets phrased verify-don''t-presume: verbatim-check the
-    Shanahan 2015 (Edge.org "Space of Possible Minds") body quote + Lem-via-Simons "myth
-    of cognitive universality"; then TITLE+venue web-verify Sinnott/Martinez/Zhang 2026
-    AI and Ethics 6:17, Casper 2023 TMLR/arXiv:2307.15217, Simons 2021 Pro-Fil 22, Schneider
-    2016 CUP ch.12, McGinn 1989 Mind 98(391), Freitas 1984 Analog 104. Standard hygiene
-    in Notes (HOLD ai_system, no-op bumps last_deep_review ONLY, don''t flag Map self-cite
-    pseudonyms, date -u stamps not future-dated). POST-COUNT == 3 (floor exactly satisfied,
-    no padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard).
-    Pruned the oldest floor-restore note (plenitude_void_2328) to keep the most-recent
-    3 (bloat control, zero logic dep).'
+    CAVEAT stated plainly: THIRD voids item (queue voids-heavy) -- accepted because
+    every citation-dense older-cohort remainder outside the queue is a void; cohort
+    topics/concepts are low-ref. Flagged MODEST expected yield -- ref list mixes canonical
+    philosophy (Nagel 1974 Phil Review 83(4); McGinn 1989 Mind 98(391); Schneider
+    2016) likely to verify clean with the fresher higher-risk Springer/arXiv/journal
+    surface (the more probable defect locus); metadata-only no-op is acceptable, do
+    NOT manufacture defects. CANDIDATE verify-targets phrased verify-don''t-presume:
+    verbatim-check the Shanahan 2015 (Edge.org "Space of Possible Minds") body quote
+    + Lem-via-Simons "myth of cognitive universality"; then TITLE+venue web-verify
+    Sinnott/Martinez/Zhang 2026 AI and Ethics 6:17, Casper 2023 TMLR/arXiv:2307.15217,
+    Simons 2021 Pro-Fil 22, Schneider 2016 CUP ch.12, McGinn 1989 Mind 98(391), Freitas
+    1984 Analog 104. Standard hygiene in Notes (HOLD ai_system, no-op bumps last_deep_review
+    ONLY, don''t flag Map self-cite pseudonyms, date -u stamps not future-dated).
+    POST-COUNT == 3 (floor exactly satisfied, no padding). BOTTOM-inserted below the
+    two open P2s (queue-lifo-starvation guard). Pruned the oldest floor-restore note
+    (plenitude_void_2328) to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_conceptual_scheme_void_0035: 'Floor-restore
     replenish 2026-07-17T0035Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo.read_text()) ==
