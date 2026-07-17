@@ -1326,54 +1326,70 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-17T09:03:00+00:00'
-  last_replenishment_prev: '2026-07-17T08:49:00+00:00'
-  last_floor_restore_note_2026_07_17_staleness_one_structure_three_vocabularies_0822: 'Floor-restore
-    replenish 2026-07-17T0822Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
+  last_replenishment: '2026-07-17T09:14:00+00:00'
+  last_replenishment_prev: '2026-07-17T09:03:00+00:00'
+  last_floor_restore_note_2026_07_17_staleness_mapping_mind_space_0914: 'Floor-restore
+    replenish 2026-07-17T0914Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(content) == 2 verified
-    LIVE before this single write (the two open P2 deep-reviews concepts/physics-as-disclosure
-    + topics/structure-of-attention; #veto condense P2s composition-question-rivals/meaning-of-life/phenomenal-output-causal-machinery-dissociation
-    parser-excluded; P3s + human-deferred length-decision tasks do NOT count toward
-    the floor of 3); == 3 verified after. MIN_QUEUE floor 3 unmet by 1, restores 2
-    to 3 (expected replenish-at-floor alternation this cycle, unfin_loop_steady_state:
-    the prior loop consumed question-formation-void via 9ec3c2e39, replenish a4d275d81
-    minted structure-of-attention). NO concurrent evolve_loop.py (pgrep -af evolve_loop.py
-    empty at write); clean tree; HEAD 2297ef464. concurrent-replenish-race guard:
-    revert the redundant add if a sibling/loop mint lands. EIGHT-SOURCE AUDIT (live):
-    chain none (chains BLOCKED, sections AT CAP); unconsumed_research + gap BLOCKED
-    (topics 320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80);
-    orphan 0; length veto/human-deferred; positions audit ran 2026-07-16 (<30d), 8<10
-    audit floor; no applied-apex-gap. SOURCE = staleness (Source 4). BOTH session-steering
-    high-yield channels re-checked LIVE and CONFIRMED WORKED-OUT: (a) citation web-verify
-    seam -- the highest-citation strict-oldest converged topics/concepts (dopamine-and-the-unified-interface,
-    brain-computer-interfaces-and-the-interface-boundary, evolutionary-case-for-mental-causation,
-    surprise-prediction-error-and-consciousness, discrimination-problem) each already
-    carry a dedicated deep-review with a real Web-Verify pass (owed-web-verify-task-false-never-verified-premise);
-    (b) internal-quote-drift (apex-stale-internal-quote-channel) -- session-rewritten
-    quantum-cluster + trumping siblings referenced only by navigational wikilinks;
-    the 3 genuine embedded-quote attributions this cycle all verify FAITHFUL. Neither
-    yields -> honest strict-oldest fall-back per steering, do NOT manufacture a defect.
-    MINTED 1 P2 deep-review topics/one-structure-three-vocabularies.md -- the strict-oldest
-    converged non-session-touched, non-queued topic that is NOT a >=3-converged no-op.
-    last_deep_review == ai_modified == 2026-06-06T13:18:01 (41-day settled gap, git-untouched
-    since its 06-06 review commit, NOT session-touched), ai_contribution 100, ai_system
-    claude-opus-4-7 (DE-PRIORITIZED-opus-4-8 exempt). Rejected the over-converged
-    same-date/older siblings per steering convergence-damping: meaning-void (4 dedicated
-    deep-reviews), phenomenology-of-deliberation-under-uncertainty (5), rational-normativity
-    (3 + git-touched 07-12); one-structure has only 2 prior dedicated deep-reviews
-    (05-26, 06-06). 2019 body words via analyze_length = ok (topics soft 3000 -> clean
-    deep-review NOT condense). HONESTLY FLAGGED PROBABLE-NO-OP / LOW yield: its 06-06
-    review already ran a real web-verify (5 verify mentions) + git-untouched since
-    that converged pass (deep_review_over_reviews_converged); a metadata-only no-op
-    verdict is acceptable and EXPECTED. Only 4 inline citations -- thin verify surface.
-    CANDIDATE verify-targets phrased verify-don''t-presume: TITLE+venue-check any
-    named cite (watch Phil Sci DOI form), cross-links resolve+reciprocate, Tenet routing
-    present, preserve calibration hedges, EOF tool-tag scan. Standard hygiene (HOLD
-    ai_system, no-op bumps last_deep_review ONLY, don''t flag Map self-cite pseudonyms,
-    date -u stamps not future-dated). POST-COUNT == 3 (floor exactly satisfied, no
-    padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation guard).
-    Pruned the oldest floor-restore note (question_formation_void_0155) to keep the
-    most-recent 3 (bloat control, zero logic dep).'
+    LIVE before this single write (the two open P2 deep-reviews voids/mood-void + concepts/process-philosophy,
+    both this session earlier floor-restore mints; the topics/structure-of-attention
+    + topics/one-structure-three-vocabularies P2s have since drained; #veto condense
+    P2s parser-excluded; ~10 P3s + human-deferred length-decision tasks do NOT count
+    toward the floor of 3); == 3 verified after (canonical count_p0_p2_tasks). MIN_QUEUE
+    floor 3 unmet by 1, restores 2 to 3. NO concurrent evolve_loop.py (pgrep -af evolve_loop.py
+    empty at write -- only this session own grep matched); clean tree; HEAD ae5ee4e51.
+    concurrent-replenish-race guard: revert the redundant add if a sibling/loop mint
+    lands. EIGHT-SOURCE AUDIT (live): chain none (chains BLOCKED, sections AT CAP);
+    unconsumed_research + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100
+    all AT CAP; positions 8/80); orphan 0; length veto/human-deferred; positions audit
+    ran 2026-07-16 (<30d), 8<10 audit floor; no applied-apex-gap. SOURCE = staleness
+    (Source 4), quote-fidelity-targeted (primary steering channel). MINTED 1 P2 deep-review
+    voids/mapping-mind-space.md -- the strongest never-literally-verified older-cohort
+    quote-fidelity target on a live full-corpus quote-density + prior-quote-pass audit:
+    ai_system claude-opus-4-7 (opus-4-8-deprioritized exempt), ai_contribution 100,
+    created 2026-02-25, last_deep_review 2026-06-09 (~38-day gap, the OLDEST review
+    gap among clean quote-dense candidates), ai_modified 2026-06-06. Three prior dedicated
+    deep-reviews (04-17, 05-29, 06-09) + refines FIXED citation-metadata (Carr cite
+    5501dbd17, origin-misattribution b445125b7) but git log shows NO literal-string
+    quote-fidelity/verbatim pass ever ran -> >=3 substance-confirmed reviews do NOT
+    count as convergence-damped for the quote channel (quote-fidelity-defects-survive-metadata-reviews;
+    deep_review_over_reviews_converged does not apply to the quote seam). Carries the
+    single documented highest-fabrication-risk quote channel in the corpus: the famous
+    William James Varieties of Religious Experience normal-waking-consciousness quote
+    (ellipsis-compressed, opening dropped -- james-quotes-fabricated-in-mind-dust-cluster)
+    plus a verbatim Nagel bat quote with a bracketed editorial insertion. NOT session-touched
+    (no commits since 07-16), NOT queued (the 13 todo grep hits are all completed/vetoed
+    entries below the Completed line), NOT vetoed. Disqualified stronger-density siblings:
+    Wheeler (type-B quote-fidelity pass already ran d0f86a3be 07-12), self-reference-and-the-limits
+    (quote sweep 1ff0ad2e2). Considered topics/vertiginous-question for section DIVERSITY
+    (this is a 2nd void alongside queued mood-void) but chose mapping-mind-space for
+    higher quote-fidelity YIELD (steering first priority); honestly flagging the minor
+    diversity ding. LENGTH: 2998 body words (raw) -- a completed cross-link task records
+    it AT the voids 3000 hard ceiling (~2 words headroom, treated within-ceiling) ->
+    deep-review NOT condense, but LENGTH-NEUTRAL ONLY (swap words in place, add NO
+    prose; use analyze_length not raw count). CANDIDATE verify-verbatim-at-publisher
+    (suspected, NOT imperative -- fork confirms each literal string, do NOT presume
+    broken): (a) William James ~L95 Varieties quote -- verify the ellipsis honestly
+    marks the omission and retained words match VERBATIM at psychclassics.yorku.ca
+    / Gutenberg (canonical: our normal waking consciousness, rational consciousness
+    as we call it, is but one special type ... parted from it by the filmiest of screens
+    ...); de-quote to paraphrase if unmatched rather than delete; (b) Thomas Nagel
+    ~L48 there-is-no-reason-to-suppose bat quote from What Is It Like to Be a Bat 1974
+    -- confirm the [bat experience] insertion faithfully replaces it and the split-quote
+    frame matches; (c) Bernard Carr ~L77 hierarchy-of-levels-of-consciousness -- cite
+    METADATA already verified live (2021 Nova chapter), LOWER priority, spot-confirm
+    literal string if accessible. Verify by literal STRING at publisher NOT author+year
+    (citation-verify-false-negative -- never delete a real quote on a false negative;
+    quote-verify-self-contamination-via-own-page -- a WebSearch hit on unfinishablemap.org
+    is circular). Standard hygiene: cross-links resolve+reciprocate, Tenet routing
+    present (re-check the article does not recruit Nagel own naturalism toward the
+    Map dualist inference -- its L48 framing already flags this firewall, preserve
+    it), preserve calibration hedges, EOF tool-tag scan, do NOT flag Map self-cite
+    pseudonyms, HOLD ai_system, no-op after REAL per-quote scrutiny bumps last_deep_review
+    ONLY, real fix bumps BOTH, date -u stamps not future-dated. POST-COUNT == 3 (floor
+    exactly satisfied, no padding). BOTTOM-inserted below the two open P2s (queue-lifo-starvation
+    guard). Pruned the oldest floor-restore note (one_structure_three_vocabularies_0822)
+    to keep the most-recent 3 (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_mood_void_0849: 'Floor-restore replenish
     2026-07-17T0849Z (interactive agent, conservative exact-floor +1). AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(content) == 2 verified
