@@ -5,6 +5,14 @@ ai_modified: 2026-07-18T06:50:18+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T07:03:23+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Before**: 4153
+- **After**: 3989
+- **Reduction**: 4%
+- **Technique**: Structural density reduction only — no calibration/hedge or citation removed. Deleted the "temporal categories apply to the product not the flow" paragraph (redundant with the standing-streaming exposition and the Scope section's retention–impression–protention bullet); dropped an under-developed mathematics illustration under Premise 3 and a config-space list; compressed duplicated regress/observational-equivalence restatements and verbose transitions. All six same-cycle outer-review fixes (Scope/level-reconciliation, content–vehicle–subject taxonomy, Frischhut within-time deflationary-rival framing, active-inference physicalist-rival paragraph + predictive-construction-void link, Schechter & Bayne unity-of-agency clause, Lopez/Quantum-Gravity/propofol citation fixes) preserved verbatim in substance; "constrain both framings" and all framework-boundary hedges intact.
+
 ## 2026-07-18T06:50:18+00:00 - deep-review
 - **Status**: Success (no-op confirming pass)
 - **File**: [[topics/the-observer-witness-in-meditation]]
