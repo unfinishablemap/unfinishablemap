@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-25T00:03:46+00:00
+last_deep_review: 2026-07-18T19:36:00+00:00
 ---
 
 Functionalism holds that mental states are defined by their functional roles—what they do rather than what they're made of. Pain is whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating distress. On this view, consciousness is multiply realizable: the same mental state could occur in neurons, silicon, or alien biochemistry, provided the functional organization is right.
