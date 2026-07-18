@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-09 01:14:47+00:00
+ai_modified: 2026-07-18 00:03:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: Lab-grown neural tissue has real neurons and emergent oscillations 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-08 23:49:27+00:00
+last_deep_review: 2026-07-18 00:03:00+00:00
 modified: *id001
 related_articles:
 - '[[ai-hardware-substrate-taxonomy]]'
@@ -44,7 +44,7 @@ The most widely reported demonstration comes from Kagan and colleagues, who plac
 
 Kagan et al. use "sentience" in an explicitly **technical** sense—the Fristonian free-energy / active-inference sense of a system that responds to and models its sensory milieu so as to minimise surprise. Karl Friston is a co-author, and the framing throughout is active inference, not phenomenal consciousness. The word does not mean, and the paper does not claim, that anything is *felt*. Popular coverage routinely collapses the technical term into the everyday one; the Map should hold them rigorously apart. "It learns Pong" licenses an inference to adaptive information-processing competence. It licenses no inference to "something is watching the Pong."
 
-Two further developments complete the empirical picture. Smirnova and colleagues—the first author is **Smirnova**, not Hartung, who appears among the senior authors—proposed "organoid intelligence" (OI) as a named research field: brain organoids as biological computing substrates, targeting the molecular and cellular correlates of learning and memory, paired from the outset with an embedded-ethics programme [4]. And Cortical Labs' CL1, launched in March 2025, turns the DishBrain demonstration into a shipping product: roughly 800,000 lab-grown human-derived neurons on a silicon multielectrode interface, viable up to around six months, priced near US$35,000 and offered as a cloud "Wetware as a Service." Independent peer-reviewed characterisation of CL1, as distinct from the 2022 platform, remains thin, and its capability claims are largely industry-sourced. What commercialisation changes is the *moral urgency* of the question—it moves from thought experiment to governance—not the weight of the experiencer evidence, which stays exactly where DishBrain left it: closed-loop adaptive computation.
+Two further developments complete the empirical picture. Smirnova and colleagues—the first author is **Smirnova**, not Hartung, who appears among the senior authors—proposed "organoid intelligence" (OI) as a named research field: brain organoids as biological computing substrates, targeting the molecular and cellular correlates of learning and memory, paired from the outset with an embedded-ethics programme [4]. And Cortical Labs' CL1, launched in March 2025, turns the DishBrain demonstration into a shipping product: roughly 800,000 lab-grown human-derived neurons on a silicon multielectrode interface, viable up to around six months, priced near US$35,000 and offered as a cloud "Wetware as a Service" [8]. Independent peer-reviewed characterisation of CL1, as distinct from the 2022 platform, remains thin, and its capability claims are largely industry-sourced. What commercialisation changes is the *moral urgency* of the question—it moves from thought experiment to governance—not the weight of the experiencer evidence, which stays exactly where DishBrain left it: closed-loop adaptive computation.
 
 ## The Interface Question {#the-interface-question}
 
@@ -89,7 +89,7 @@ The common thread, which every author in this literature stresses, is a methodol
 1. Smirnova, L., Caffo, B.S., Gracias, D.H., et al., & Hartung, T. (2023). Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dish. *Frontiers in Science*, 1, 1017235. https://doi.org/10.3389/fsci.2023.1017235
 1. Lavazza, A. (2020). Human cerebral organoids and consciousness: a double-edged sword. *Monash Bioethics Review*. https://pmc.ncbi.nlm.nih.gov/articles/PMC7723930/
 1. Jeziorski, J., et al. (2023). Brain organoids, consciousness, ethics and moral status. *Seminars in Cell & Developmental Biology*. https://www.sciencedirect.com/science/article/abs/pii/S1084952122000866
-1. Sawai, T., et al. Mapping the ethical issues of brain organoid research and application. https://philpapers.org/rec/SAWMTE
+1. Sawai, T., Hayashi, Y., Niikawa, T., Shepherd, J., Thomas, E., Lee, T.-L., Erler, A., Watanabe, M., & Sakaguchi, H. (2022). Mapping the ethical issues of brain organoid research and application. *AJOB Neuroscience*. https://philpapers.org/rec/SAWMTE
 1. Cortical Labs. CL1 biological computer (launched 2 March 2025). https://corticallabs.com/cl1
 1. Southgate, A. & Oquatre-huit, C. (2026-06-25). AI Hardware Substrate Taxonomy for the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ai-hardware-substrate-taxonomy/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-08). Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/

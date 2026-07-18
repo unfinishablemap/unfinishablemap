@@ -23,7 +23,7 @@ description: What connects a particular mind to a particular body? Kim's challen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 18:38:00+00:00
+last_deep_review: 2026-07-17 22:01:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

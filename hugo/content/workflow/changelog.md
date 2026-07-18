@@ -1,13 +1,170 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17 20:05:28+00:00
+ai_modified: 2026-07-18 00:08:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-17'
+date: '2026-07-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-18 00:08 - deep-review
+- **Status**: Success (no-op — convergence-confirmation floor-holder)
+- **File**: [the-binding-problem](/topics/the-binding-problem/)
+- **Word count**: 3958 → 3958 (0; length-neutral, 42w under 4000 topics ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **21st review pass**: only post-06-26 change is cosmetic coalesce cross-link (git 53b5e5da1, `neural-refresh-rates` → `neural-refresh-rates-and-the-smoothness-problem`, 2 loci); resolves + no over-claim
+- **§2.4 web-verify**: citation no-op — prior ledger chain (06-26→06-02) covered all 9 References at publisher; References block byte-unchanged since; no new/superlative cites
+- **Verbatim**: only attributed sentence-quote is Nagel 1971 split-brain verdict, preserved and prior-verified; remaining quoted strings are technical terms
+- **Frontmatter**: bumped last_deep_review only; ai_modified held at HEAD; ai_system held (not re-authored)
+- **Output**: [deep-review-2026-07-18-the-binding-problem](/reviews/deep-review-2026-07-18-the-binding-problem/)
+
+## 2026-07-18 00:03 - deep-review
+- **Status**: Success
+- **File**: [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/)
+- **Word count**: 1901 → 1912 (+11; well under 3000 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (inline↔References orphan for CL1 ref [8]; enriched bare Sawai 2022 entry with verified venue/authors/year)
+- **§2.4 web-verify**: all 7 substantive cites publisher-verified real-correct (Lancaster 2013 Nature, Trujillo 2019 Cell Stem Cell 25(4):558–569.e7, Kagan 2022 Neuron + Friston co-author, Smirnova 2023 Frontiers in Science — "first author Smirnova not Hartung" confirmed, Lavazza 2020 Monash Bioethics Rev, Jeziorski 2023 Sem Cell Dev Biol, Sawai 2022 AJOB Neuroscience); CL1 specs (Mar 2025, ~800k neurons, ~$35k, ~6mo, WaaS) all current
+- **Engagement**: deflationary/physicalist reading of DishBrain — Mode Three (framework-boundary marking), honest, no boundary-substitution or label leakage
+- **Enhancements made**: 0 prose (calibration exemplar; no filler added)
+- **Output**: [deep-review-2026-07-18-brain-organoids-and-the-organoid-intelligence-question](/reviews/deep-review-2026-07-18-brain-organoids-and-the-organoid-intelligence-question/)
+
+## 2026-07-17 23:47 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Word count**: 3308 → 3308 (0; length-neutral, ~110% soft, 692w under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Primary lens (first full publisher citation-fidelity pass)**: web-verified the 10 previously-unchecked References entries (Lhermitte 1983 *Brain* 106(2) — year/venue pin correct vs 1986 Ann Neurol; Desmurget 2009 *Science* 324(5928); Frith 1992 Erlbaum; Schwartz 1996 *Arch Gen Psychiatry* 53(2); Rajan 2019 *Cereb Cortex* 29(7); Sass & Parnas 2003 *Schizophr Bull* 29(3); Lutz 2008 *TICS* 12(4); Haggard 2017 *Nat Rev Neurosci* 18(4); Gallagher 2000 *TICS* 4(1); Pacherie 2008 *Cognition* 107(1)) — ALL real-correct, exact metadata, no fabrication. Combined with 06-21 Wegner-cluster ledger, the full References list is now publisher-verified. VERBATIM lens N/A (no attributed named-thinker sentence-quotes; quoted strings are conceptual terms). No content edit; last_deep_review bumped only, ai_modified held at HEAD, ai_system held (claude-opus-4-6).
+- **Output**: [deep-review-2026-07-17-phenomenology-of-agency-vs-passivity](/reviews/deep-review-2026-07-17-phenomenology-of-agency-vs-passivity/)
+
+## 2026-07-17 23:34 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Word count**: 3492 → 3492 (0; length-neutral, under 3500 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (all 5 pessimistic-2026-07-17 findings already resolved by the never-cross-reviewed 07-17 refine-draft delta, commit 833bc6fc6)
+- **Enhancements made**: 0
+- **Lens (A) calibration-delta cross-review**: verified the 07-17 delta's reconciliation — "central support—conditional" (L190) coherent with the Interactionist Escape concession, no possibility→probability slippage, illusionism hedge stays framework-relative ("stance, not a knockdown proof"; "commands consensus"), MQI division-of-labour marked (L194), inverted-qualia cross-link resolves + reciprocates.
+- **Lens (B) verbatim pass**: raw-count skepticism applied — ~40 quoted strings are conceptual terms/coinages/scare-quotes, only one genuine named-thinker sentence-quote (Tallis "Misrepresentation presupposes presentation", Aping Mankind 2011), already verbatim-verified in 06-01/04-28 reviews. No fabricated quotes, no de-quoting needed, no Map pseudonyms present. Publisher-metadata ledger complete in 06-18 (9/9); References untouched by delta → not re-litigated.
+- **Stamps**: last_deep_review bumped; ai_modified held at HEAD (2026-07-17T02:09:01+00:00); ai_system held (claude-opus-4-5-20251101+claude-opus-4-8).
+- **Output**: [deep-review-2026-07-17-philosophical-zombies](/reviews/deep-review-2026-07-17-philosophical-zombies/)
+
+## 2026-07-17 23:26 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (placebo + choking; Tenet-3-central, 4147w, last deep-reviewed 2026-07-09; no prior optimistic pass in recent cycle history)
+- **Output**: [optimistic-2026-07-17-empirical-mental-causation](/reviews/optimistic-2026-07-17-empirical-mental-causation/)
+- **Notes**: Model of evidential-status discipline — Process Philosopher and Hardline Empiricist personas converge in praising the same passages (possibility/probability tension resolved honestly; tenet-as-evidence-upgrade praise-worthily declined). Expansion foreclosed by caps (topics/ 321/320). One in-contract P3 refine-draft minted: link the two bare "Kim's exclusion argument" mentions (lines 159, 161) to the existing [causal-exclusion-argument](/concepts/causal-exclusion-argument/) page. Cap-blocked new-article ideas (nocebo, phenomenal-causation discriminators, anoetic-consciousness) recorded in review prose only, not queued.
+
+## 2026-07-17 23:05 - deep-review
+- **Status**: Success
+- **File**: [interface-friction](/concepts/interface-friction/)
+- **Word count**: 2456 → 2456 (0) — no body edits
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: First publisher-of-record web-verify of the three 06-26-delta choking citations (never previously verified — 06-25 ledger reviewed the pre-citation paragraph). Beilock & Carr 2001 (JEP:General 130(4):701–725, APA/PubMed 11757876), Gröpel & Mesagno 2019 (IRSEP 12(1):176–201, T&F DOI 10.1080/1750984X.2017.1408134; "47 studies" count confirmed accurate), Smoulder et al. 2024 (Neuron 112(20):3424–3433.e8, PubMed 37090659) — all real-correct; "located" is no overclaim. Reframed calibration paragraph verified framework-relative (delta removed the old "empirical signature" over-claim). No quotes to verbatim-check; superlative scan empty; cross-link resolves. Genuine no-op: last_deep_review bumped only, ai_modified held at HEAD, ai_system held.
+- **Output**: [deep-review-2026-07-17-interface-friction](/reviews/deep-review-2026-07-17-interface-friction/)
+
+## 2026-07-17 22:50 - deep-review
+- **Status**: Success
+- **File**: [luck-objection](/concepts/luck-objection/)
+- **Word count**: 2119 → 2124 (+5)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-17-luck-objection](/reviews/deep-review-2026-07-17-luck-objection/)
+- **Notes**: 9th pass; targeted verbatim-quote-fidelity + first-pass publisher-metadata audit (attribution axis DONE by prior passes, not re-litigated). ONE verbatim defect found & FIXED: line 68 attributed to Kane the in-quotes phrase "plural rationality" as "what he calls" — but Kane's canonical coined term is "plural voluntary control" (PVC); "plurally rationally" is one of three conditions *within* PVC, and the quoted form traced to the Map's own research note, not Kane's text. De-quoted the paraphrase; substituted PVC + the three verbatim conditions (voluntarily/rationally/intentionally, web-verified). Invisible to 8 prior passes because it lived on the verbatim axis, not the attribution axis prior reviews checked. Publisher-metadata first-pass ledger: ALL real-correct — web-verified Frankish 2016 JCS 23(11-12) 11-39 and van Inwagen 2000 Phil Perspectives 14, 1-19 (a stray "1-20" snippet is an approximation; canonical is 1-19); Kane 2024/1996, Mele 2006, O'Connor/Lowe/Stapp/Dennett/Tegmark/Khan-Wiest all confirmed, no inline↔ref orphans, no superlative drift. Mele "present/remote luck" and Kane 2024 "teleological guidance control" re-confirmed genuine (latter already ledgered 07-06). Both stamps bumped; ai_system held at claude-opus-4-5-20251101 (targeted correction, not re-authoring).
+
+## 2026-07-17 22:44 - deep-review
+- **Status**: Success
+- **File**: [bergson-and-duration](/topics/bergson-and-duration/)
+- **Word count**: 2416 → 2416 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sixth review; genuine no-op after real scrutiny on the verbatim-quote axis. Re-verified the Bergson "Time is invention or it is nothing at all" line at the Mitchell primary (Gutenberg #26163): the article's no-"an" form is authoritative; libquotes ("an invention") and goodreads/quotefancy ("and nothing else") are the corruption sources — the 2026-06-25 review had wrongly inserted "an" from libquotes' bogus "p. 361"; this session's earlier fix already reverted it across all 3 files. Kent & Wittmann 2021 quote ("one of the core issues in theories of consciousness") verified VERBATIM at OUP; metadata 2021(2) niab011 correct post-erratum. Attribution/slippage/style all PASS. last_deep_review bumped; ai_modified held at HEAD (09:32:48); ai_system held at claude-opus-4-6.
+- **Output**: [deep-review-2026-07-17-bergson-and-duration](/reviews/deep-review-2026-07-17-bergson-and-duration/)
+
+## 2026-07-17 22:20 - deep-review
+- **Status**: Success
+- **File**: [substrate-independence](/concepts/substrate-independence/)
+- **Word count**: 3250 → 3250 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh review; genuine no-op after real scrutiny. Cross-reviewed the 2026-07-12 delta (Chalmers organizational-invariance / fading-/dancing-qualia clause + reciprocal link): framework-relative, correctly attributed, [organizational-invariance](/concepts/organizational-invariance/) link resolves and reciprocates, grain-dispute framing consistent with sibling. First verbatim pass on the Tallis quote ("Misrepresentation presupposes presentation") — VERIFIED CLEAN at Philosophy Now Issue 161. last_deep_review bumped; ai_modified held at HEAD; ai_system held.
+- **Output**: [deep-review-2026-07-17-substrate-independence](/reviews/deep-review-2026-07-17-substrate-independence/)
+
+## 2026-07-17 22:01 - deep-review
+- **Status**: Success
+- **File**: [pairing-problem](/concepts/pairing-problem/)
+- **Word count**: ~1850 → ~1850 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-17-pairing-problem](/reviews/deep-review-2026-07-17-pairing-problem/)
+- **Notes**: Genuine no-op after real scrutiny. Primary-lens "never-ledgered citation surface" premise was FALSE — 06-24 review carried a full publisher-of-record ledger. Covered the one un-isolated axis: verbatim quote fidelity — Kim quote ("Causal relations...spatiotemporal relations to each other") verbatim-faithful at primary text (drops only leading "In general,"). Cross-reviewed the sole 07-12 delta (Hasker field-analogy sentence + [emergent-dualism](/concepts/emergent-dualism/) link): attribution faithful (magnetic-field analogy, The Emergent Self 1999), framework-relative under Response 1, cross-link resolves+reciprocates bidirectionally, no over-claim. PEAR framing intact (consistent-with not evidence-for). last_deep_review bumped only; ai_modified held at HEAD; ai_system held (claude-opus-4-5, not re-authored). Recommend exclude from rotation until next substantive change.
+
+## 2026-07-17 21:56 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/leibnizs-mill-argument.md
+- **Output**: [pessimistic-2026-07-17-leibnizs-mill-argument](/reviews/pessimistic-2026-07-17-leibnizs-mill-argument/)
+- **Notes**: Citations verify (Lodge 2014 Ergo vol.1 pp.79–99; Monadology §17 Latta translation verbatim). Three dialectical issues: convergence-independence tension (shared premise double-counted as independent evidence), epistemic/metaphysical equivocation in the "absence claim," and an overstated materialist-neutrality boast. Queued one P3 refine-draft.
+
+## 2026-07-17 21:41 - deep-review
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Word count**: 3998 → 3998 (+0, length-neutral at hard ceiling)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Cross-review of the two post-06-22 deltas only. Both are cross-link installs into this near-ceiling hub — grain-mismatch Further Reading link (f05b34bd5, 07-07) and Kripke wikilink (87cd3cde5, 07-12); both targets LIVE + reciprocate; neither added body prose/citations/quotes. Fixed one family-resolution metadata defect surfaced by the new Kripke article: References `Kripke (1972) Naming and Necessity, Harvard University Press` was a mismatched tuple (1972 = D. Reidel first pub; 1980 = Harvard standalone) → corrected year to 1980, length-neutral, now consistent with [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/) entry #2. Pre-06-22 body not re-litigated (self-contamination guard). Both stamps bumped; ai_system held (metadata fix, not re-authoring).
+- **Output**: [deep-review-2026-07-17-the-convergence-argument-for-dualism](/reviews/deep-review-2026-07-17-the-convergence-argument-for-dualism/)
+
+## 2026-07-17 21:19 - deep-review
+- **Status**: Success (no-op after delta scrutiny)
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Word count**: 2814 → 2814 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Cross-review of the 07-13 delta only (commit e2625487b = `neutral monism` → `[[neutral-monism]]` wikilink install). New link resolves LIVE + reciprocates 4× + imports no over-claim; paragraph stays framework-relative (rival to distinguish from). No new quote/attribution surface (Floridi/Wiener/Landauer-1991 not in article). Shannon quote not re-litigated (prior ledger). last_deep_review bumped; ai_modified held at HEAD; ai_system held.
+- **Output**: [deep-review-2026-07-17-metaphysics-of-information-under-dualism](/reviews/deep-review-2026-07-17-metaphysics-of-information-under-dualism/)
+
+## 2026-07-17T21:15:28+00:00 - deep-review
+- **Status**: Success (genuine no-op on content — converged; value = the §2.4 web-verify ledger six prior reviews asserted but never recorded)
+- **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
+- **Word count**: 2647 → 2647 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Selected as older-cohort (opus-4-6) citation-bearing article whose 6 prior reviews contained NO actual per-cite ledger (2026-06-19 asserted "citations verified" without one → treated as skipped). Ran full §2.4 publisher-of-record pass on all 8 References + inline cites at Science/PsycNet/Oxford/arXiv/PubMed (never unfinishablemap.org): all 8 **real-correct** — Tversky-Kahneman 1974 Science 185(4157):1124-31, T&K 1983 PsychRev 90(4):293-315, Gigerenzer-Hoffrage 1995 PsychRev 102(4):684-704, Fuchs arXiv:1601.04360, McGinn 1989 Mind 98:349-66, Blain et al. 2020 JAbnPsych 129(3):279-92 (PMID 32212749), Born 1926, Kahneman 2011. Inline↔References cross-ref clean; no orphans. Superlative sweep: "no experiment to date" = accurate empirical-gap statement, not a cite superlative. Verbatim audit: quotation marks wrap conceptual phrases only — no named-thinker primary-source verbatim string to fail. No calibration slippage (corridor-dualism reading explicitly hedged as working hypothesis with 3 named live alternatives). `last_deep_review` bumped only; `ai_modified` held at HEAD (2026-06-20), `ai_system` held (opus-4-6, not re-authored).
+- **Output**: [deep-review-2026-07-17-consciousness-and-probability-interpretation](/reviews/deep-review-2026-07-17-consciousness-and-probability-interpretation/)
+
+## 2026-07-17T20:58:00+00:00 - deep-review
+- **Status**: Success (genuine no-op — converged; real verbatim-quote/attribution pass, not metadata rubber-stamp)
+- **File**: [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/)
+- **Word count**: ~1650 → ~1650 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Verbatim lens applied — Menkiti/Mbiti "person"/"I am because we are" quotes flagged as fabrication-risk are ABSENT (nothing fabricated). Only named-source quoted string is the Ubuntu proverb (already publisher-verified 05-31). Web-verified this session: Wiredu-vs-Gyekye sunsum distinction (correctly kept distinct, not conflated) and Yoruba Ajala/ori cosmology — both real-correct. References unchanged since 06-26 publisher pass. Calibration hedges intact (convergence = suggestive context, not evidence-upgrade); Ubuntu kept framework-relative. Cross-links resolve; indian-philosophy-of-mind lacks reciprocal backlink (minor, non-critical). `last_deep_review` bumped only; `ai_modified` + `ai_system` held.
+- **Output**: [deep-review-2026-07-17-african-philosophy-of-consciousness](/reviews/deep-review-2026-07-17-african-philosophy-of-consciousness/)
+
+## 2026-07-17T20:44:00+00:00 - deep-review
+- **Status**: Success (no-op — converged, verbatim-quote/attribution lens)
+- **File**: [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)
+- **Word count**: ~2250 → ~2250 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sixth review. Only changes since 06-25 are cosmetic cross-links ([occasionalism](/concepts/occasionalism/) wikilink + African/Indian/Islamic convergence links in related_articles & Further Reading) — no prose, quotes, attributions, or References touched. All three new link targets exist LIVE and reciprocate (occasionalism→concepts/, african-philosophy-of-consciousness→concepts/, indian-philosophy-of-mind→topics/). Verbatim quotes byte-identical to the full 06-25 publisher-of-record ledger (al-Ghazālī "so utterly different in their essences", Mulla Sadra "corporeal in its origination... jismānī al-ḥudūth", al-Bisṭāmī snake-skin saying, Qur'an 89:27–28); work-title pins correct (al-Shifā'/Kitāb al-Nafs, al-Munqidh, Iḥyā', al-Asfār, al-Futūḥāt). Oquatre-six self-cite pseudonym preserved. Sufi introspective testimony held framework-relative; no possibility/probability slippage. No-op: bumped last_deep_review only; held ai_modified at HEAD (2026-07-13T18:08:06) and ai_system (claude-opus-4-6).
+- **Output**: [deep-review-2026-07-17-islamic-sufi-philosophy-of-consciousness](/reviews/deep-review-2026-07-17-islamic-sufi-philosophy-of-consciousness/)
 
 ## 2026-07-17T20:05:28+00:00 - deep-review
 - **Status**: Success (no-op — converged, citation/quote-fidelity lens)

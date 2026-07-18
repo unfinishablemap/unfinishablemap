@@ -18,7 +18,7 @@ description: African philosophical traditions treat consciousness as relational 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 16:55:25+00:00
+last_deep_review: 2026-07-17 20:58:00+00:00
 modified: *id001
 related_articles:
 - '[[eastern-philosophy-consciousness]]'

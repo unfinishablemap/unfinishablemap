@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-09 18:42:00+00:00
+ai_modified: 2026-07-17 22:50:32+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ description: Why indeterminism seems to threaten free will as much as determinis
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-23 00:12:57+00:00
+last_deep_review: 2026-07-17 22:50:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Alfred Mele distinguishes **present luck** (nothing about the agent explains why
 
 ## Kane's Self-Forming Actions
 
-Robert Kane argues that in "self-forming actions" (SFAs), the agent is genuinely torn between incompatible options and makes effort toward each—what he calls "plural rationality." The choice isn't arbitrary because whichever option wins, it reflects something the agent genuinely values. SFAs form character: by making undetermined character-forming choices, agents become ultimately responsible for later choices that flow from that character.
+Robert Kane argues that in "self-forming actions" (SFAs), the agent is genuinely torn between incompatible options and makes effort toward each. Kane's condition of "plural voluntary control" requires that whichever way the choice resolves, the agent brings it about voluntarily, rationally, and intentionally—so the outcome isn't arbitrary; it reflects something the agent genuinely values. SFAs form character: by making undetermined character-forming choices, agents become ultimately responsible for later choices that flow from that character.
 
 Kane's 2024 *Complex Tapestry of Free Will* now explicitly incorporates [agent-causal](/concepts/agent-causation/) elements, arguing that free action requires agents "exercising teleological guidance control." This convergence suggests the event-causal/agent-causal divide may be less fundamental than thought. See [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for integration with the quantum Zeno mechanism.
 

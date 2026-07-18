@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-07-07 21:35:59+00:00
+ai_modified: 2026-07-17 21:41:12+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Multiple independent arguments converge on dualism from different s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 11:03:22+00:00
+last_deep_review: 2026-07-17 21:41:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -212,7 +212,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
-1. Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+1. Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Loar, B. (1990). Phenomenal states. *Philosophical Perspectives*, 4, 81-108.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.

@@ -23,7 +23,7 @@ description: Interface friction is the resistance consciousness encounters when 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 21:13:11+00:00
+last_deep_review: 2026-07-17 23:05:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
