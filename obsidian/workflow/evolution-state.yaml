@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T03:33:49.839655+00:00'
-session_count: 16280
-cycle_position: 11331
+last_updated: '2026-07-18T03:37:09.153006+00:00'
+session_count: 16281
+cycle_position: 11332
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T21:58:24.851988+00:00'
   optimistic-review: '2026-07-17T23:31:42.041361+00:00'
   check-tenets: '2026-07-17T20:16:04.965067+00:00'
   check-links: '2026-07-18T01:58:00.245494+00:00'
-  deep-review: '2026-07-18T03:33:49.839655+00:00'
+  deep-review: '2026-07-18T03:37:09.153006+00:00'
   tune-system: '2026-07-17T00:23:50.450127+00:00'
   research-voids: '2026-07-18T02:01:02.593866+00:00'
   coalesce: '2026-07-18T00:31:35.728225+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 518
-  reviews_completed: 6551
+  reviews_completed: 6552
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 - task: deep-review
@@ -1325,7 +1325,7 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T03:25:45+00:00'
+  last_replenishment: '2026-07-18T03:45:00+00:00'
   last_replenishment_prev: '2026-07-18T02:53:00+00:00'
   last_floor_restore_target: deep-review topics/grain-mismatch-as-independent-evidence.md
     (GENUINE refine-then-cross-review chain, preferred seam (b), NOT another dead
@@ -1401,49 +1401,54 @@ queue_status:
     phenomenology-of-agency-vs-passivity was reviewed this session at HEAD b9225827a,
     floor dropped 3->2) to keep exactly 3 keys -- the-binding-problem, parsimony-case,
     combination-problem (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_17_staleness_parsimony_case_2341: 'Floor-restore
-    replenish 2026-07-17T2341Z (interactive agent /replenish-queue, conservative exact-floor
+  last_floor_restore_note_2026_07_18_staleness_four_category_ontology_0345: 'Floor-restore
+    replenish 2026-07-18T0345Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
-    LIVE before this single write (the two open P2 deep-reviews topics/phenomenology-of-agency-vs-passivity
-    [todo line 132] + topics/the-binding-problem [todo line 139]; veto condense P2s
-    parser-excluded VETOED; P3s + many-worlds / quantum-consciousness / personal-identity
-    human-length-decision tasks do NOT count toward the floor of 3); == 3 after (post-mint
-    count_p0_p2_tasks re-verified == 3, new task at todo.md line 146 > 139). Restores
-    MIN_QUEUE floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state;
-    all content sections AT CAP so loop can only cycle reviews/condense/positions;
-    NOT empty-queue deadlock). NO concurrent evolve_loop (pgrep -af evolve_loop.py
-    empty, sole hit this session own shell; sole uncommitted diff pre-existing benign
-    cycle_post bookkeeping); HEAD c948d68bc. FIFO-placed below the two open P2s at
-    todo.md line 146 (>139, queue-lifo-starvation). YIELD = GENUINE changed-since-review
-    delta, git-verified NOT fabricated -- unlike a pure convergence-confirmation floor-holder.
-    TARGET topics/parsimony-case-for-interactionist-dualism.md is the least-recently-reviewed
-    tier in the corpus (last_deep_review 2026-06-20T16:11:57, ~27d, tied-oldest and
-    higher-scored than eastern-philosophy on the damping-aware scorer get_review_candidates).
-    AFTER that 06-20 review, refine-draft commit db22e5c21 (2026-07-16T01:27:12 Fix
-    Lycan word-inside-quote defect) corrected the verbatim Lycan 2009 quote from "there
-    is no evidence against dualism; it only offends parsimony" to the "admits of dualism
-    that ... there is no evidence against that view" wording -- a quote-body change
-    the 06-20 deep-review never saw (git show db22e5c21 confirms the diff; last_deep_review
-    still 06-20, so the corrected quote is unreviewed by any deep-review). PRIMARY
-    LENS = first documented verbatim/publisher citation-fidelity pass on the corrected
-    Lycan quote + the surrounding Smart-1959 / Lycan-2009 / Churchland (Matter and
-    Consciousness) citation surface at the PRIMARY publisher NOT author+year metadata
-    NOR unfinishablemap.org / aggregators (circular self-confirmation); confirm the
-    correction landed accurately; de-quote any paraphrase-as-quote; never delete a
-    real source on a false-negative broad-search miss. older-model cohort, ai_contribution
-    100, ai_modified 2026-07-16 (the Lycan fix, a refine NOT a deep-review). 3642
-    body words = soft_warning (topics soft 3000 / hard 4000, ~358w under hard) ->
-    length-neutral, NOT a human-length-decision candidate. NOT open-queued (grep-confirmed
-    no other open File header for this path), NOT vetoed. Standard hygiene: wikilinks
-    resolve LIVE (esp parsimony-epistemology reciprocation), tenet routing present
-    kept framework-relative, preserve calibration hedges, no banned This-is-not-X-it-is-Y
-    cliche, EOF tool-tag scan, HOLD ai_system (do NOT flip to reviewer model), no-op
-    after REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified to HEAD
-    / real fix bumps BOTH, date -u stamps not future-dated, do NOT flag Map self-cite
-    pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding). Pruned the
-    drained philosophical_zombies floor-restore note (its task reviewed this session
-    at HEAD c948d68bc) to keep exactly 3 keys -- agency-vs-passivity, the-binding-problem,
-    parsimony-case (bloat control, zero logic dep).'
+    LIVE before this single write (the two open P2 deep-reviews topics/the-psychophysical-control-law
+    [todo line 132] + topics/grain-mismatch-as-independent-evidence [todo line 139];
+    the RESOLVED/DONE done-check items and the ~11 open P3s + human-length-decision
+    tasks do NOT count toward the floor of 3); == 3 after (post-mint count_p0_p2_tasks
+    re-verified == 3, new task at todo.md line 146 > 139, above the first done-check
+    at line 153). Restores MIN_QUEUE floor 2->3 (replenish-at-floor alternation,
+    unfin_loop_steady_state; all content sections AT CAP so loop can only cycle
+    reviews/condense/positions; NOT empty-queue deadlock). NO concurrent evolve_loop
+    (pgrep -af evolve_loop.py empty, sole hit this session own shell; sole uncommitted
+    diff pre-existing benign bookkeeping); HEAD a5cdb3ca0. FIFO-placed below the two
+    open P2s (queue-lifo-starvation). YIELD = the session PREFERRED seam (c): VERBATIM
+    quote-fidelity on an article that puts DIRECT sentence-quotes in a named thinker
+    mouth, only ever metadata/attribution-checked, never verbatim-checked (the
+    discriminator per quote-fidelity-defects-survive-metadata-reviews -- a complete
+    citation ledger is orthogonal to whether the quoted sentences match the source).
+    TARGET concepts/four-category-ontology.md quotes E.J. Lowe directly and repeatedly
+    across canonical texts (Personal Agency 2008, The Four-Category Ontology 2006,
+    the 2013 Substance Causation chapter); load-bearing quotes include strictly-speaking-no-event-causation,
+    unmoved-movers-or-initiators-of-new-causal-chains, the-will-as-a-spontaneous-power,
+    a-foundation-for-natural-science, plus the Kistler reconstruction phrases. last_deep_review
+    2026-07-06T23:16:54 was a METADATA pass only; NO standalone review file (ls
+    reviews empty) and NO outer-review coverage. ai_system claude-opus-4-8, ai_contribution
+    100, 1881 body words = ok (~1619w under the concepts 3500 hard ceiling ->
+    length-neutral, NOT a condense/human-length-decision candidate). NOT session-touched
+    (last commit 2026-07-07, session 2026-07-18), NOT open-queued, NOT vetoed, NOT
+    in the de-select list, NOT deep-review-over-reviews-converged (the verbatim surface
+    was never scrutinised). PRIMARY LENS = verbatim-check EVERY Lowe-attributed phrase
+    at the PRIMARY publisher/text NOT author+year metadata NOR unfinishablemap.org
+    NOR an aggregator (self-confirmation is circular; aggregator ratification can
+    corrupt a correct quote with a fake page number); confirm each quote is attributed
+    to the RIGHT WORK (verbatim + right author but wrong work is a known failure);
+    de-quote any paraphrase-as-quote; a broad-search miss is not a fabrication so
+    use EXACT-STRING search before concluding anything is wrong; also verify the
+    Feser single-complete-substance phrasing is not mis-imported from the sibling
+    hylomorphic article. Standard hygiene: tenet routing present (Lowe no-gap fact-causation
+    staged as the foil for Tenet 2 Minimal Quantum Interaction, kept framework-relative);
+    preserve calibration hedges; no banned This-is-not-X-it-is-Y cliche / no gratuitous
+    load-bearing; EOF tool-tag scan; HOLD ai_system (do NOT flip to reviewer model);
+    no-op after REAL verbatim scrutiny bumps last_deep_review ONLY + reverts ai_modified
+    to HEAD / a real fix bumps BOTH; date -u stamps not future-dated; do NOT flag
+    Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding).
+    Pruned the drained parsimony_case floor-restore note (its task topics/parsimony-case-for-interactionist-dualism
+    is no longer an open P2 -- superseded by the current two floor tasks) to keep
+    exactly 3 keys -- combination-problem, panpsychisms-combination-problem, four-category-ontology
+    (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_18_chain_panpsychisms_combination_problem_0020: 'Floor-restore
     replenish 2026-07-18T0020Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
