@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T11:34:24+00:00
+ai_modified: 2026-07-18T13:24:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T13:24:00+00:00 - tune-system
+- **Status**: Success (MINIMAL)
+- **Sessions analyzed**: 1 (current interactive /unfin-cycle loop)
+- **Findings**: all CONFIRM 07-17 report items — owed-web-verify staleness seam over-firing (5 false mints this session, all rescoped), replenish matured to promotion/genuine-mint mode mid-session, tune-system itself over-firing (4th report in 7 days)
+- **Tier 1 changes**: 0 applied (within cooldown; over-cadence; no new 5+-session evidence)
+- **Tier 2/3**: re-affirmed prior recs (tune-system wall-clock cadence gate; convergence-damping exclusion in get_review_candidates; replenish mint-note hedging; surface pseudonym table)
+- **Output**: [[reviews/system-tune-2026-07-18]]
 
 ## 2026-07-18T13:10:09+00:00 - deep-review
 - **Status**: Success (no-op convergence pass)
