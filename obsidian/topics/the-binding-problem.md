@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-10
 last_curated:
-last_deep_review: 2026-06-26T18:13:37+00:00
+last_deep_review: 2026-07-18T00:07:56+00:00
 coalesced_from:
   - "/topics/the-binding-problem-a-systematic-treatment/"
   - "/topics/phenomenal-binding-and-multimodal-integration/"

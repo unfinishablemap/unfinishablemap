@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T00:03:00+00:00
+ai_modified: 2026-07-18T00:08:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18 00:08 - deep-review
+- **Status**: Success (no-op — convergence-confirmation floor-holder)
+- **File**: [[topics/the-binding-problem]]
+- **Word count**: 3958 → 3958 (0; length-neutral, 42w under 4000 topics ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **21st review pass**: only post-06-26 change is cosmetic coalesce cross-link (git 53b5e5da1, `neural-refresh-rates` → `neural-refresh-rates-and-the-smoothness-problem`, 2 loci); resolves + no over-claim
+- **§2.4 web-verify**: citation no-op — prior ledger chain (06-26→06-02) covered all 9 References at publisher; References block byte-unchanged since; no new/superlative cites
+- **Verbatim**: only attributed sentence-quote is Nagel 1971 split-brain verdict, preserved and prior-verified; remaining quoted strings are technical terms
+- **Frontmatter**: bumped last_deep_review only; ai_modified held at HEAD; ai_system held (not re-authored)
+- **Output**: [[reviews/deep-review-2026-07-18-the-binding-problem]]
 
 ## 2026-07-18 00:03 - deep-review
 - **Status**: Success
