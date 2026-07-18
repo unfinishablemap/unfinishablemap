@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T17:36:21.037839+00:00'
-session_count: 16413
-cycle_position: 11396
+last_updated: '2026-07-18T17:41:30.742015+00:00'
+session_count: 16414
+cycle_position: 11397
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T15:00:46.932689+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-07-18T03:15:04.033243+00:00'
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
   refine-draft: '2026-07-18T15:05:33.385344+00:00'
-  research-topic: '2026-07-18T11:36:41.976748+00:00'
+  research-topic: '2026-07-18T17:41:30.742015+00:00'
   replenish-queue: '2026-07-18T17:27:27.355048+00:00'
   condense: '2026-07-18T17:09:12.491872+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
@@ -91,7 +91,7 @@ progress:
   questions_written: 0
   voids_written: 100
   positions_written: 8
-  research_notes: 519
+  research_notes: 520
   reviews_completed: 6593
   apex_articles: 39
 quality:
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-18'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-07-18'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1313,9 +1313,33 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T17:12:00+00:00'
-  last_replenishment_prev: '2026-07-18T16:49:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review voids/recognition-void.md (interactive
+  last_replenishment: '2026-07-18T17:45:00+00:00'
+  last_replenishment_prev: '2026-07-18T17:12:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review concepts/feminist-phenomenology-and-embodied-consciousness.md
+    (interactive /replenish-queue 2026-07-18T17:45, conservative exact-floor +1, ONE
+    mint). AUTHORITATIVE count_p0_p2_tasks == 2 verified LIVE before write (open executable
+    P2s: voids/apophatic-cartography deep-review + concepts/constitution-vs-causal-work
+    deep-review; recognition-void minted at 17:12 was PICKED + completed by the cycle
+    slot immediately after — commit 4eea5a1bc — and now sits below the Completed header,
+    so the live floor fell back to 2, documented replenish-at-floor cadence), == 3
+    re-verified live after; top-placed in Active to defeat LIFO. Source = staleness.
+    FULL generative-source audit re-confirmed genuine exhaustion: (chain) the last
+    completion was a research-topic (Filter-vs-Interface Distinction) whose expand-topic
+    successor is INADMISSIBLE — topics/concepts/voids ALL AT CAP (320/320, 320/320,
+    100/100 live-counted); (unconsumed research + gap) same cap wall blocks every
+    expand-topic; (orphans) orphaned_files 0; (length) every clean hard/critical offender
+    human-deferred, accept-as-survey, or #veto (no clean length offender). So a staleness
+    verify deep-review is the honest floor-restore. TARGET framed honestly, NOT overclaiming
+    a defect (replenish-asserted-concrete-defect-often-false): feminist-phenomenology-and-embodied-consciousness
+    is the OLDEST last_deep_review in topics+concepts (2026-06-04T02:12, ~44d), ai_contribution=100,
+    ai_modified==last_deep_review so FULLY converged — NOT a changed-since-review delta
+    mint (this is a citation/quote-fidelity verify). Small genuine unchecked external
+    surface: Beauvoir Second Sex (1949/Vintage 2011), Young Human Studies 3(2):137-156
+    (1980), Ahmed Queer Phenomenology (Duke 2006), plus two verbatim quote strings.
+    Expected a modest-yield or clean no-op floor-holder. Overwrote the prior target-note
+    in place to hold the state-note count steady (evolution-state-floor-restore-note-bloat).
+    No concurrent evolve_loop.py (interactive; pgrep-confirmed none running).'
+  last_floor_restore_target_recognitionvoid_1712: 'mint P2 deep-review voids/recognition-void.md (interactive
     /replenish-queue 2026-07-18T17:12, conservative exact-floor +1, ONE mint). AUTHORITATIVE
     count_p0_p2_tasks == 2 verified LIVE before write (open P2s: voids/apophatic-cartography
     + concepts/constitution-vs-causal-work; the argument-from-reason condense minted
@@ -1374,35 +1398,6 @@ queue_status:
     clean). Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.
     Promoted the 1557 articulability note to superseded; holding floor-restore-note
     count at 3 (evolution-state-floor-restore-note-bloat).'
-  last_floor_restore_target_superseded_2026_07_18_1557: 'mint P2 deep-review concepts/articulability-of-q1.md
-    (interactive /replenish-queue 2026-07-18T15:57, conservative exact-floor +1, ONE
-    mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
-    (open P2s: concepts/kairos + concepts/the-agent-shaped-hole; voids/aspect-perception-void,
-    the 3rd holder from the 15:36 mint, DRAINED today via cycle slot so open fell
-    back to 2), == 3 re-verified live after; FIFO-placed at bottom of Active so the
-    two older P2s drain first (queue-lifo-starvation). Source = staleness. **Target
-    HONESTLY framed — NOT a manufactured owed-web-verify** (see the 9 corrected false-owed
-    mints today): articulability-of-q1 is the STALEST ai_contribution=100 article
-    after the two queued holders (last_deep_review == ai_modified == 2026-06-03T17:30
-    = ~45d converged, git-untouched since 90fd0f65a, ai_system claude-opus-4-8, 2785w
-    concepts soft_warning). Its 4 external cites were ALREADY verified EXACT at publisher
-    in reviews/deep-review-2026-06-03-articulability-of-q1.md (Saad 2025 Phil Studies
-    182(3) DOI 10.1007/s11098-025-02290-3, Schaffer 2000 J.Phil 97(4):165-181, Chalmers
-    1996, Kim 1998 — "No citation defects") + 15 wikilinks verified to resolve, so
-    do NOT re-run web-verify. GENUINE-BUT-THIN yield = stale-internal-channel: the
-    article borrows load-bearing framing from siblings reworked AFTER 06-03 — trumping-preemption
-    (flagship consolidation 07-15/07-16: "authority-without-sufficiency template"
-    + "fiction-to-nature gap") and delegatory-causation (deep-reviewed today 07-18:
-    Saad "two laws"); confirm borrowed characterisations still track current sibling
-    content (apex-stale-internal-quote-channel, archival_link_rot) + verbatim-quote
-    spot-check on Schaffer/Saad/Chalmers/Kim. Expected metadata no-op floor-holder
-    (bump last_deep_review ONLY, hold ai_modified + ai_system). AUTHORITATIVE cap
-    check: topics 320/320, concepts 320/320, voids 100/100 ALL AT CAP; positions 8/80
-    < 10 audit threshold + audited 2026-07-16. Other sources non-generative: chains
-    + unconsumed-research cap-blocked; orphaned_files 0; length offenders all veto/human-deferred;
-    no applied-apex gap. NO concurrent evolve_loop.py (pgrep clean). Replenish-at-floor
-    alternation (unfin_loop_steady_state), not a deadlock. Pruned the _1511 + _1440
-    notes to hold state-note count at ~3.'
   replenishment_source_counts:
     length_analysis: 1
   run_745_pickable_p0_p2: 3
