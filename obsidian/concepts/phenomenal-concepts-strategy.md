@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-24T12:45:58+00:00
+last_deep_review: 2026-07-18T23:11:05+00:00
 coalesced_from:
   - "/topics/phenomenal-concepts-as-materialist-response/"
 ---

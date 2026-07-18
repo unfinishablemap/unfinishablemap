@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T22:21:08+00:00
+ai_modified: 2026-07-18T23:11:05+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T23:11:05+00:00 - deep-review
+- **Status**: Success (no-op convergence pass, 9th)
+- **File**: [[concepts/phenomenal-concepts-strategy]]
+- **Word count**: 3365 → 3365 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-18-phenomenal-concepts-strategy]]
+- **Notes**: Sole change since the comprehensively-clean 8th review (2026-06-24) is a coalesce (a87034a9b) absorbing sibling `topics/phenomenal-concepts-as-materialist-response` — added frontmatter + one Further Reading cross-link, no prose or References change. Integrity-checked: all prior-verified cites intact (Fürst 2014, Zhou 2025, Sasaki 2025, Carruthers & Veillet 2007, Ball 2009 — coalesce regressed none), sibling properly archived (no dup URL), new `[[modal-structure-of-phenomenal-properties]]` link resolves. §2.4 web-verify skipped (References block unmodified; 8th-review ledger stands). Advanced `last_deep_review` only; left `ai_modified` at the 2026-07-12 coalesce value per no-op discipline. Length-neutral (3365w, 135% soft, ~135w under 3500 hard). Reviews 2–9 all zero-critical; stable/current — deprioritise absent substantive content.
 
 ## 2026-07-18T22:58:51+00:00 - deep-review
 - **Status**: Success (no-op convergence pass, 8th)
