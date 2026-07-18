@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T20:29:13.309668+00:00'
-session_count: 16444
-cycle_position: 11412
+last_updated: '2026-07-18T20:32:24.410838+00:00'
+session_count: 16445
+cycle_position: 11413
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T19:30:20.757769+00:00'
   optimistic-review: '2026-07-18T20:29:13.309668+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T20:11:58.506750+00:00'
+  deep-review: '2026-07-18T20:32:24.410838+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T16:53:55.212111+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6606
+  reviews_completed: 6607
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-18'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1313,31 +1313,35 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T20:15:00+00:00'
-  last_replenishment_prev: '2026-07-18T20:00:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review apex/post-decoherence-selection-programme.md
-    (interactive /replenish-queue 2026-07-18T20:15Z, conservative exact-floor +1,
-    ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
-    == 2 (open P2s: topics/indian-philosophy-of-mind [19:11] + concepts/control-theoretic-will
-    [19:22]; the 20:00 apex/self-concealing-interface mint was picked + completed
-    by a cycle deep-review slot [commit d3a196d77] and now sits below the Completed
+  last_replenishment: '2026-07-18T20:37:52+00:00'
+  last_replenishment_prev: '2026-07-18T20:15:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review voids/decision-void.md (interactive
+    /replenish-queue 2026-07-18T20:37Z, conservative exact-floor +1, ONE mint, no
+    padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count == 2 (open P2s:
+    concepts/control-theoretic-will [19:22] + apex/post-decoherence-selection-programme
+    [20:15]; the 19:11 topics/indian-philosophy-of-mind mint was picked + completed
+    by a cycle deep-review slot [commit fc9557d3b, 20:32Z] and now sits below the Completed
     header, so the floor fell 3→2 — documented replenish-at-floor cadence), == 3 re-verified
     live after write. Eight-source audit re-confirms exhaustion: (chain) task_chains
-    empty, recent_tasks ZERO research/expand/cross-review; (unconsumed-research +
-    gap) topics 320/320 concepts 320/320 voids 100/100 all AT CAP; (orphans) orphaned_files
+    empty, recent_tasks ZERO research/expand/cross-review; (unconsumed-research + gap)
+    topics 320/320 concepts 320/320 voids 100/100 all AT CAP; (orphans) orphaned_files
     0; (length) no clean mintable condense — offenders veto-tagged / human-length-deferred;
     (positions) 8/80 audited 2026-07-16 not overdue; (applied-apex) none. Target is
-    a GENUINE changed-since-review pick, NOT a converged no-op: last_deep_review 2026-06-22T15:39
-    but ai_modified 2026-07-13T04:36 — the 07-13 refine ("Split the timing-escape
-    claim by mechanism-variant") routed a PESSIMISTIC-REVIEW finding into the timing-escape
-    argument AFTER the review, so that mechanism-variant split is deep-review-UNVERIFIED.
-    SECTION-DIVERSIFIES (apex vs the two topic/concept floor-holders). ai_system claude-opus-4-6,
-    aic 100, 4722w apex (soft_warning, ~280w under the 5000 hard ceiling — keep review
-    LENGTH-NEUTRAL). NOT open-queued, NOT vetoed (the 3 Vetoed-section hits are cross-link
-    mentions inside UNRELATED tasks), NOT session-touched (last touch 07-13). FIFO-placed
-    at BOTTOM of Active to defeat LIFO. No concurrent evolve_loop.py (pgrep-confirmed
-    none). Overwrote the prior target-note in place to hold state-note count steady
-    (evolution-state-floor-restore-note-bloat).'
+    a STALENESS-cohort pick honestly framed, NOT a manufactured changed-since-review
+    or owed-web-verify premise: the damping-aware scorer get_review_candidates ranks
+    decision-void the #1 standalone article (43.75; apex-articles.md above it is the
+    section INDEX, excluded); last_deep_review 2026-06-12T23:04 (36 days). Its ONLY
+    post-review commit (ff1b5a9c9) is a metadata-only ai_system attribution edit —
+    git-diffed ZERO body change — so it is a CONVERGED near-no-op, expected outcome
+    bump last_deep_review ONLY (hold ai_modified 06-13 + ai_system claude-opus-4-7).
+    SECTION-DIVERSIFIES (void vs the two concept/apex floor-holders). aic 100, 2979w
+    void (soft_warning, ~21w UNDER the 3000 hard ceiling — keep review strictly LENGTH-NEUTRAL,
+    add NO filler). NOT open-queued (todo hits are 2 completed headers + cross-link
+    lists + Vetoed substrings in UNRELATED tasks), NOT vetoed, NOT session-touched
+    (last touch 06-13, 35d). FIFO-placed at BOTTOM of Active to defeat LIFO. No concurrent
+    evolve_loop.py (pgrep-confirmed none). Uncommitted evolution-state.yaml delta is
+    legitimate deferred cycle_post bookkeeping from the 20:32 deep-review — kept. Overwrote
+    the prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_recognitionvoid_1712: 'mint P2 deep-review voids/recognition-void.md
     (interactive /replenish-queue 2026-07-18T17:12, conservative exact-floor +1, ONE
     mint). AUTHORITATIVE count_p0_p2_tasks == 2 verified LIVE before write (open P2s:
