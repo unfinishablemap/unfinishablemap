@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T20:43:46.204257+00:00'
-session_count: 16447
-cycle_position: 11413
+last_updated: '2026-07-18T20:47:19.640454+00:00'
+session_count: 16448
+cycle_position: 11414
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T19:30:20.757769+00:00'
   optimistic-review: '2026-07-18T20:29:13.309668+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T20:32:24.410838+00:00'
+  deep-review: '2026-07-18T20:47:19.640454+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T16:53:55.212111+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6607
+  reviews_completed: 6608
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-18'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1312,9 +1312,39 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T20:37:52+00:00'
-  last_replenishment_prev: '2026-07-18T20:15:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review voids/decision-void.md (interactive
+  last_replenishment: '2026-07-18T20:52:26+00:00'
+  last_replenishment_prev: '2026-07-18T20:37:52+00:00'
+  last_floor_restore_target: 'mint P2 deep-review topics/eastern-philosophy-consciousness.md
+    (interactive /replenish-queue 2026-07-18T20:52Z, conservative exact-floor +1, ONE
+    mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count == 2
+    (open P2s: apex/post-decoherence-selection-programme [20:15] + voids/decision-void
+    [20:37], both prior floor-restore mints not yet drained), == 3 re-verified live
+    after write. Eight-source audit re-confirms exhaustion: (chain) task_chains empty,
+    recent_tasks ZERO admissible research/expand/cross-review (sections at cap); (unconsumed-research
+    + gap) topics 320/320 concepts 320/320 voids 100/100 all AT CAP; (orphans) orphaned_files
+    0; (length) no clean mintable condense — offenders veto-tagged / human-length-deferred;
+    (positions) 8/80 audited 2026-07-16 not overdue; (applied-apex) none. Target is
+    a STALENESS-cohort pick honestly framed, NOT a manufactured never-verified or changed-since-review
+    premise: damping-aware scorer get_review_candidates ranks it the #1 CLEAN under-ceiling
+    standalone (15.14; the two higher entries time-collapse-and-agency 4606w + consciousness-and-testimony
+    4013w are BOTH over the 4000 topics hard ceiling → protected-hedge/human-length
+    collision, deliberately skipped). last_deep_review 2026-06-20 (28 days, oldest
+    clean cohort); post-review commits are all cross-link additions from fresh siblings
+    (Yogacara, Kyoto-school, indigenous-australian) = cosmetic wikilink drift, so a
+    near-no-op is the EXPECTED outcome (bump last_deep_review ONLY, hold ai_modified
+    07-06 + ai_system claude-opus-4-6). SECTION/THEME-DIVERSIFIES (cross-cultural topic
+    vs the two quantum-collapse/agency floor-holders). aic 100, 2837w OK (~1163w UNDER
+    the 4000 hard ceiling — strictly LENGTH-NEUTRAL, no padding). Residual value: verbatim/attribution-fidelity
+    on cross-tradition terms (anatta / sakshi / purusa-prakrti / wu wei, any Nagarjuna/Sankara
+    attribution — conflation is the failure mode), 114-wikilink reciprocity incl the
+    3 fresh siblings, evidential-status hedges on the anatta-haecceity tension. NOT
+    open-queued (only File hit is a completed 05-31 marker; Vetoed hits are other tasks
+    name-dropping it as a builds-on sibling), NOT vetoed, NOT session-touched (last
+    touch 07-06). FIFO-placed at BOTTOM of Active to defeat LIFO. No concurrent evolve_loop.py
+    (pgrep-confirmed none); tree carries only pre-session evolution-state.yaml mod;
+    HEAD 82bd975d5. Overwrote the prior target-note in place to hold state-note count
+    steady (evolution-state-floor-restore-note-bloat).'
+  last_floor_restore_target_decisionvoid_2037: 'mint P2 deep-review voids/decision-void.md (interactive
     /replenish-queue 2026-07-18T20:37Z, conservative exact-floor +1, ONE mint, no
     padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count == 2 (open P2s:
     concepts/control-theoretic-will [19:22] + apex/post-decoherence-selection-programme
@@ -1367,39 +1397,6 @@ queue_status:
     soft_warning (length-safe). NO concurrent evolve_loop.py assumed (interactive).
     Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock. Overwrote
     the prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
-  last_floor_restore_target_superseded_2026_07_18_1611: 'mint P2 deep-review voids/apophatic-cartography.md
-    (interactive /replenish-queue 2026-07-18T16:11, conservative exact-floor +1, ONE
-    mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
-    (open P2s: concepts/the-agent-shaped-hole + concepts/articulability-of-q1, both
-    prior floor-holders not yet drained), == 3 re-verified live after; FIFO-placed
-    at bottom of Active so the two older P2s drain first (queue-lifo-starvation).
-    Source = staleness. **Target HONESTLY framed — this one IS a REAL owed-web-verify,
-    not manufactured:** voids/apophatic-cartography is the STALEST ai_contribution=100
-    article after the two queued holders (last_deep_review 2026-06-04T00:00 = ~44d
-    converged, git-untouched since 383ff4bf6, ai_system claude-opus-4-8, voids soft/hard
-    2000/3000). DISTINCT file from concepts/apophatic-cartography-four-criteria (apophatic-approaches-ambiguous-slug).
-    Unlike the two queued holders (cites already web-verified 06-03), this article''s
-    12-entry external reference list was NEVER web-verified at publisher — the 06-04
-    review only date-plausibility-checked "References 1-12 canonical", its parenthetical
-    list STOPPED at Armour 2000 and has ZERO mention of Priest/Rancourt (grep-confirmed
-    0 hits). So the two 2025 cites — Priest 2025 "Wittgenstein and the Paradoxes at
-    the Limits of Language" (Blog of the APA) + Rancourt 2025 "The Virtue of Ignorance"
-    (Southern Journal of Philosophy) — plus McGinn 1989 Mind 98(391) / Chalmers 1995
-    JCS 2(3) / Levine 1983 / Fine 2018 Synthese 195 are a genuinely UNCHECKED surface
-    (owed-web-verify-seam-deep-review-targeting; owed-web-verify-task-false-never-verified-premise
-    does NOT apply — no prior Web-Verification section for this file). Scope: web-verify
-    the external list at publisher + verbatim-quote spot-check (Nagel/McGinn/Wittgenstein/Borges)
-    at primary text (not self-page) + stale-internal-channel/link-reciprocity on ~18
-    wikilinks + evidential-status-discipline calibration + length-neutral. Expected
-    outcome = probable real citation/link fix (bump BOTH last_deep_review + ai_modified);
-    if fully clean, bump last_deep_review ONLY + hold ai_modified/ai_system. AUTHORITATIVE
-    cap check: topics 320/320, concepts 320/320, voids 100/100 ALL AT CAP; positions
-    8/80 < 10 audit threshold + audited 2026-07-16. Other sources non-generative:
-    chains + unconsumed-research cap-blocked; orphaned_files 0; length offenders all
-    veto/human-deferred; no applied-apex gap. NO concurrent evolve_loop.py (pgrep
-    clean). Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.
-    Promoted the 1557 articulability note to superseded; holding floor-restore-note
-    count at 3 (evolution-state-floor-restore-note-bloat).'
   replenishment_source_counts:
     staleness: 1
   run_746_pickable_p0_p2: 3
