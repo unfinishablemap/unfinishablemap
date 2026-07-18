@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T00:35:17+00:00
+ai_modified: 2026-07-18T00:46:24+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18 00:46 - deep-review
+- **Status**: Success (1 critical verbatim fix)
+- **File**: [[concepts/combination-problem]]
+- **Word count**: 2653 → 2653 (0; length-neutral, soft_warning band under 3500 concepts hard ceiling)
+- **Critical issues addressed**: 1 (James verbatim quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Primary lens**: James verbatim quote-fidelity at PRIMARY source (psychclassics.yorku.ca, *Principles of Psychology* 1890, "The Mind-Stuff Theory" chapter / prin6.htm — NOT unfinishablemap.org, NOT aggregators). Line 54 `subjects seem "shut in their own skin," as James put it` carried the pluralized pronoun inside quote marks; James wrote verbatim singular "shut in **its** own skin, windowless" (referent = each feeling). Corrected to "each subject seems 'shut in its own skin,'" (grammar adjusted "subjects seem"→"each subject seems" to agree with the singular quote). Matches corpus canonical established by the 2026-07-17 process-philosophy sibling-propagation (7c8635d90) and confirmed-correct instances in process-philosophy / process-and-consciousness / mereology-of-mind / consciousness-and-the-metaphysics-of-composition.
+- **Cross-review of 07-16 refine (7ccc0c2be)**: CONFIRMED sound. The lead de-quote of "the most peculiar puzzle" → paraphrase "identified this as the central difficulty of the mind-dust theory" is correct — James does NOT use "the most peculiar puzzle" in the Mind-Stuff Theory chapter (verbatim-confirmed absent); the paraphrase carries no over-claim. No "101st feeling" quote present in this file (no issue).
+- **§2.4 web-verify**: James quotes verified live at primary publisher (ledger in review archive). Non-James quoted strings spot-checked with raw-count skepticism (Seager "combination problem" 1995, Chalmers 2017 anthology quote, Strawson "emergence can't be brute", "drops of experience") — all real-correct, unchanged. No possibility/probability slippage; empirical section hedges (nematode Phi "ambiguous", interactionist predictions "unconfirmed") intact.
+- **Stamps**: real verbatim fix → bumped BOTH ai_modified + last_deep_review to 2026-07-18T00:46:24+00:00; ai_system HELD claude-opus-4-7 (not re-authoring).
+- **Follow-up queued**: P2 refine-draft on concepts/panpsychism.md — same fabricated "most peculiar puzzle" quote + "shut in their own skin" pronoun still live there (uncovered by any open task; ~4 prior panpsychism reviews missed it). Sibling manyism + panpsychisms-combination-problem tasks already open.
+- **Output**: [[reviews/deep-review-2026-07-18-combination-problem]]
 
 ## 2026-07-18 00:35 - deep-review
 - **Status**: Success (no-op — refine→cross-review verification; Lycan fix CONFIRMED verbatim-correct)

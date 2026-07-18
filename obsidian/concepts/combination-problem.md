@@ -29,8 +29,8 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-23T00:39:14+00:00
-ai_modified: 2026-07-16T00:34:00+00:00
+last_deep_review: 2026-07-18T00:46:24+00:00
+ai_modified: 2026-07-18T00:46:24+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
@@ -51,7 +51,7 @@ David Chalmers (2017) systematized the problem into distinct dimensions, each pr
 
 How do many micro-subjects become one macro-subject?
 
-Consciousness isn't just *features* of experience—it's experienced *by* someone. I'm a subject; so is each electron if panpsychism is true. But subjects seem "shut in their own skin," as James put it. Your experience can't merge with mine to form a third experience. Why should electron-experiences be any more combinable?
+Consciousness isn't just *features* of experience—it's experienced *by* someone. I'm a subject; so is each electron if panpsychism is true. But each subject seems "shut in its own skin," as James put it. Your experience can't merge with mine to form a third experience. Why should electron-experiences be any more combinable?
 
 Sam Coleman (2014) argues subject-summing is demonstrably incoherent. If subject A and subject B combine to form subject C, then either:
 - A and B cease to exist (but then what combined?), or
