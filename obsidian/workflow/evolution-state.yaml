@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T09:10:57.621122+00:00'
-session_count: 16324
-cycle_position: 11352
+last_updated: '2026-07-18T09:13:47.209809+00:00'
+session_count: 16325
+cycle_position: 11353
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T04:40:59.623142+00:00'
   optimistic-review: '2026-07-18T06:38:46.681193+00:00'
   check-tenets: '2026-07-17T20:16:04.965067+00:00'
   check-links: '2026-07-18T01:58:00.245494+00:00'
-  deep-review: '2026-07-18T08:54:03.543677+00:00'
+  deep-review: '2026-07-18T09:13:47.209809+00:00'
   tune-system: '2026-07-17T00:23:50.450127+00:00'
   research-voids: '2026-07-18T02:01:02.593866+00:00'
   coalesce: '2026-07-18T07:13:16.441345+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 518
-  reviews_completed: 6567
+  reviews_completed: 6568
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-18'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1316,25 +1316,25 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T09:05:00+00:00'
-  last_replenishment_prev: '2026-07-18T08:13:00+00:00'
-  last_floor_restore_target: deep-review topics/consciousness-and-skill-acquisition.md
-    (scorer get_review_candidates top NON-queued yield candidate, score 16.8; older
-    claude-opus-4-6 cohort, ai_contribution 100; the two higher 16.9 candidates hylomorphic-dualism
-    + philosophy-of-action-under-dualism are both opus-4-8 = de-prioritised most-scrutinised
-    cohort; scorer rank-1 phenomenology-of-cognitive-limit-types + rank-2 indigenous-australian
-    are the two already-open P2 floor-holders. Post-review delta is COSMETIC (one
-    related_articles wikilink, commit 5667686ef) so NOT a body-drift pick; the yield
-    is the NEVER-standalone-reviewed citation/quote surface -- ls reviews/*skill-acquisition*
-    EMPTY, ~15 refs / ~70 quoted strings / 99 wikilinks, owed-web-verify seam genuinely
-    LIVE. 3644w soft_warning, ~356w under the 4000 topics hard ceiling -- length-neutral
-    MANDATORY, not a condense task. Interactive /replenish-queue conservative exact-floor
-    +1, ONE mint, no padding. Pre-count open P0-P2 == 2, == 3 after (post-mint re-verified
-    == 3, new task FIFO-placed todo line 146 below the two open P2s). All generative
-    sources re-audited exhausted -- caps hit [topics 320/320, concepts 320/320, voids
-    100/100], positions 8/80 but <10 entries so no audit due, task_chains empty, length
-    offenders human-blocked/vetoed. Replenish-at-floor alternation [unfin_loop_steady_state],
-    not a deadlock.)
+  last_replenishment: '2026-07-18T09:20:00+00:00'
+  last_replenishment_prev: '2026-07-18T09:05:00+00:00'
+  last_floor_restore_target: deep-review topics/phenomenology-of-cognitive-capacity.md
+    (interactive /replenish-queue conservative exact-floor +1, ONE mint, no padding.
+    Pre-count open P0-P2 == 2, == 3 after [post-mint re-verified == 3 via count_p0_p2_tasks,
+    new task FIFO-placed todo line 145 below the two open P2s indigenous-australian +
+    consciousness-and-skill-acquisition]. Scorer get_review_candidates top NON-queued,
+    non-de-prioritised yield candidate, score 16.8; older claude-opus-4-6 cohort, ai_contribution
+    100, last_deep_review 2026-06-26 [~21d]; the two higher 16.9 candidates hylomorphic-dualism
+    + philosophy-of-action are both opus-4-8 = de-prioritised most-scrutinised cohort.
+    Yield = GENUINELY-never-standalone-reviewed citation/quote surface -- ls reviews/*phenomenology-of-cognitive-capacity*
+    EMPTY [ran ls MYSELF, not a fork self-claim; this session had 3 FALSE never-verified
+    mints whose forks fabricated an empty-ls], 10 refs / ~33 quoted strings; owed-web-verify
+    seam genuinely LIVE. 2736w soft_warning, ~1264w under the 4000 topics hard ceiling
+    -- length-neutral, not a condense task. All 8 generative sources re-audited exhausted
+    -- caps hit [topics 320/320, concepts 320/320, voids 100/100], positions 8/80 but
+    <10 entries so no audit due, task_chains empty, orphaned_files 0, length offenders
+    human-blocked/vetoed. No concurrent evolve_loop [pgrep empty], HEAD e1544d96c.
+    Replenish-at-floor alternation [unfin_loop_steady_state], not a deadlock.)
   last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore
     replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
