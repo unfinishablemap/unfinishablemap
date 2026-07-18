@@ -5,6 +5,25 @@ ai_modified: 2026-07-18T05:05:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T06:00:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Word count**: 3996 → 4153 (net +157; over 4000 hard cap after ~110w of redundancy trims — companion /condense queued to recover the residual; further length-neutral trimming would have regressed calibration hedges)
+- **Task**: P1 convergent (2/3, brushing 3/3) STRONGEST STRUCTURAL GAP of the cycle — omitted active-inference/predictive-processing rival + omitted specious-present model (Claude §2.5, Gemini Dim A+D, ChatGPT §2). Fourth same-cycle refine on this file; integrated compactly around the three prior drains (Scope section, content-vehicle-subject fix, Frischhut/Hoerl co-optation firewall) without re-editing them.
+- **Primary-source verification (publisher of record, not reviewers/aggregators)**:
+  - **Laukkonen, Friston & Chandaria (2025), *Neurosci. & Biobehav. Rev.* 176:106296, "A beautiful loop", DOI 10.1016/j.neubiorev.2025.106296** — VERIFIED (ScienceDirect PII S0149763425002970; Ovid confirms vol/article number). Active-inference theory: pure-consciousness/minimal states = maximal epistemic depth with maximally simple reality-model.
+  - **Metzinger (2020), *Philosophy and the Mind Sciences* 1(I):1–44, DOI 10.33735/phimisci.2020.I.46** — VERIFIED at publisher (DOI + pages 1–44 confirmed via publisher page, not the guessed "art. 7"). MPE = "pure awareness" as the content of a Bayesian model of tonic alertness.
+  - **NOT chased** (reviewer-supplied, do-not-verify-shaped): Vohryzek et al. bioRxiv 2025.09.25.678574, Mago et al. Neurocomputing 684:133443, Zhou (2023) JCS, Bogotá & Djebbara (2023) — the two verified peer-reviewed cites carry the rival's substance; per ai-citation-metadata-unreliable, preferred fewer verified cites over a full build-out.
+- **Changes**:
+  - (Items 1+3) Added the active-inference/MPE physicalist rival to the Meditative-Evidence section: Laukkonen/Friston/Chandaria (2025) + Metzinger (2020) explain alert-timeless awareness with no non-temporal ground. CONCEDED the discrimination point in the article's own constrain-vs-establish register — the meditative data do not constrain the space in the Map's favour if a physicalist mechanism explains the datum; the tilt stays with the independent regress argument. Dovetails with the Frischhut co-optation-firewall recast already in place (active inference now also listed as a deflationary rival of the same datum, not a converging line).
+  - (Item 2) Cross-linked [[predictive-construction-void]] in the body (why consciousness cannot audit the construction/reception ratio from the inside) and added it to related_articles frontmatter.
+  - (Item 4, compact) Moved the previously-inert SEP "Temporal Consciousness" reference into genuine body engagement — the specious-present trilemma (cinematic/retentional/extensional; Dainton, Phillips, Lee), noting the meditative "no-succession" report under-determines the choice. Closes the performative-inoculation tell. Fuller postdiction/discrete-frame build-out deferred to the companion condense (genuinely optional; the tell is closed).
+  - Added 2 verified references (Laukkonen et al. 2025; Metzinger 2020).
+  - Offsetting trims (~110w of genuine redundancy): tightened the fragmentation constrain-not-confirm sentence, the Bergson synthesis, the Bayne unity exposition, premise-3, the evidential-status enumeration (duplicated the argument-section convergence summary), the Bidirectional re-listing of neuroscientific rivals, and removed the redundant radio-receiver aside and a duplicated tilt sentence.
+- **Engagement classification (editor-internal, not in body)**: representationalist/active-inference rival — Mode Two (unsupported-foundational-move is NOT claimed against the physicalist; instead the article concedes the physicalist account is available and marks the residual disagreement at the framework boundary, Mode Three) — honest boundary-marking, no boundary-substitution.
+- **Frontmatter**: ai_modified 05:46:27 → 06:00:57 (≤ real UTC 06:00:57); ai_system HELD (claude-opus-4-7); last_deep_review HELD.
+- **Superseded word-count note below** (prior 05:46 refine entry) retained for provenance.
+
 ## 2026-07-18T05:46:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/non-temporal-consciousness]]
