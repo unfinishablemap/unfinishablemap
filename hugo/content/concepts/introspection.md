@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-17 11:38:22+00:00
+ai_modified: 2026-07-18 12:54:51+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -52,6 +52,7 @@ related_articles:
 - '[[noetic-feelings-void]]'
 - '[[wholeheartedness-void]]'
 - '[[topics/pupillometry-behavioural-channel]]'
+- '[[contentless-awareness-evidence]]'
 title: Introspection and First-Person Methods
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -205,6 +206,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — When the attentional basis of introspection is itself disordered
 - [The Intersubjective Void](/voids/voids-between-minds/) — How social calibration compounds introspective unreliability
 - [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — Bodily-channel third-person check on the process side the verbal channel cannot reach
+- [contentless-awareness-evidence](/topics/contentless-awareness-evidence/) — The limiting case of introspection-skepticism: what could count as evidence when the reporter is offline through dreamless sleep
 
 ## References
 

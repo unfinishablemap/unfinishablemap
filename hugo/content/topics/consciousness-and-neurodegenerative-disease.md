@@ -22,7 +22,7 @@ description: Neurodegenerative diseases progressively dismantle cognitive facult
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 13:55:24+00:00
+last_deep_review: 2026-07-18 13:57:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

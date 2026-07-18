@@ -36,7 +36,7 @@ description: 'Quantum mechanics'' central puzzle: why measurement yields definit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-10 00:08:00+00:00
+last_deep_review: 2026-07-18 14:12:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

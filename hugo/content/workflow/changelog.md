@@ -1,13 +1,125 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18 11:34:24+00:00
+ai_modified: 2026-07-18 14:29:04+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-18T15:03:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/)
+- **Original score**: n/a (pessimistic-review-driven, not curate-scored)
+- **Changes**: Addressed the 3 Medium + 2 minor issues from pessimistic-2026-07-18 as in-place conditionalisations, preserving the article's disciplined voice (no rewrite). (1) §"The Coupling, Specified": added a sentence flagging the quantum-Zeno channel's physical viability as contested under the decoherence-timescale objection, pointing to [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)/[brain-interface-boundary](/concepts/brain-interface-boundary/) as where the Map's discharge lives; softened "candidate physical implementation" to note it inherits that contest. (2) §"Non-Epiphenomenality, Audited": conditionalised the "doing causal work, not riding along inert" assertion on the interface reading and made explicit that the metaphysical (downward-work) claim rests on the §4 interface premise while the correlational mediation is the only epistemic content — closing the epistemic/metaphysical equivocation ahead of §4. Also qualified "does the physical work" → "the physical work the interface reading assigns it". (3) §"The Discriminating Signature": turned the article's own distinction-without-empirical-difference razor on its "conceptual daylight" over the value-blind steelman — conceded the daylight is itself empirically inert by that check and rests openly on prior Map commitments, not an evidential advantage. Minor: de-asserted the uncited negativity-bias/"pain captures, dread redirects" claim to a reported-hypothesis the middle path inherits rather than establishes (no unverifiable citation added); flagged V(Oᵢ)-as-scalar as a deliberate idealisation (anticipated valence constructed/unstable, not a standing quantity), assumption-not-finding. Applied [evidential-status-discipline](/project/evidential-status-discipline/); preserved all existing hedges; held ai_system; bumped ai_modified only.
+- **Published**: yes
+
+## 2026-07-18T14:58:18+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/graduated-middle-path-valence-modulated-attention.md (oldest never-reviewed content article, created 07-07). 3 Medium issues (unaddressed Zeno/decoherence liability; §2 non-epiphenomenality bald ahead of §4 concession = epistemic/metaphysical equivocation; empirical-inertness razor applied asymmetrically vs active inference but not vs its own steelman-daylight), 2 minor (uncited negativity-bias claim; V(Oᵢ) scalar idealisation unflagged). Article otherwise a model of disciplined boundary-marking — active-inference engagement passes direct-refutation-discipline, citations all real. One P2 refine-draft queued.
+- **Output**: [pessimistic-2026-07-18-graduated-middle-path-valence-modulated-attention](/reviews/pessimistic-2026-07-18-graduated-middle-path-valence-modulated-attention/)
+
+## 2026-07-18T14:29:04+00:00 - deep-review
+- **Status**: Success (converged — no-op pass, 2nd review)
+- **File**: [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/)
+- **Word count**: 2281 → 2281 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Prior deep-review 07-06 was thorough (full §2.4 citation web-verify ledger; fabricated-Feser-quote critical fix applied). Two post-review refine-draft commits (07-07) diff-checked: calibration-strengthening hedges ("rests"→"may rest", "reintroduces"→"arguably reintroduces", added fair-bet symmetry sentence) + one `[[four-category-ontology]]` Further Reading cross-link. All 8 wikilink targets resolve. Citation surface unchanged since verified ledger — no §2.4 re-verify triggered. Engagement with hylomorphist = Mode Three boundary-marking, honest, no leakage. No slippage; a tenet-accepting reviewer would not flag any overstatement. Koons "emergent individual" tension re-confirmed defensible per prior stability note (not re-litigated). No body edits; only `last_deep_review` bumped (`ai_modified` left at HEAD per no-op discipline).
+- **Output**: [deep-review-2026-07-18-hylomorphic-dualism-and-the-interaction-problem](/reviews/deep-review-2026-07-18-hylomorphic-dualism-and-the-interaction-problem/)
+
+## 2026-07-18T14:12:20+00:00 - deep-review
+- **Status**: Success (genuine-delta verification pass — 12th review)
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Word count**: 3495 → 3495 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Delta since last deep-review (07-10): new Consistent Histories section + 2 new References (Dowker & Kent 1996, Okon & Sudarsky 2015), timing-gap arithmetic fix ("twelve"→"ten" orders; 10⁻³/10⁻¹³=10¹⁰ correct), Bohm wikilink. §2.4 web-verify of both new citations at publisher of record: both real-correct, in-text characterisations faithful. CH engagement = Mode Three framework-boundary marking (editor-internal), no boundary-substitution or label leakage. No body edits; only `last_deep_review` bumped (`ai_modified` left at HEAD). Article now 3495w — 5w under the 3500 concepts/ hard ceiling (hub-articles-accrete-crosslink-length); next touch must pair additions with a length-neutral trim.
+- **Output**: [deep-review-2026-07-18-measurement-problem](/reviews/deep-review-2026-07-18-measurement-problem/)
+
+## 2026-07-18T13:57:49+00:00 - deep-review
+- **Status**: Success (no-op convergence pass — 6th review)
+- **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
+- **Word count**: 2958 → 2958 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only change since thorough 5th review (2026-06-26) is one frontmatter wikilink (2026-07-07); body unchanged. Ran the prior review's recommended lucidity-literature currency re-sweep (1 WebSearch): no post-mortem-substrate-correlation study exists yet, Parnia multi-site cohort still SOTA, article framing current. No prose churned; only `last_deep_review` bumped (`ai_modified` left at HEAD, body untouched). Article converged — recommend resting until body edited or a substrate-correlation study lands.
+- **Output**: [deep-review-2026-07-18-consciousness-and-neurodegenerative-disease](/reviews/deep-review-2026-07-18-consciousness-and-neurodegenerative-disease/)
+
+## 2026-07-18T13:42:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Original score**: n/a (link-only pass from optimistic-2026-07-17-empirical-mental-causation review)
+- **Changes**: Wrapped first "Kim's exclusion argument" mention (Agent Causation section) as [Kim's exclusion argument](/concepts/causal-exclusion-argument/); target grep-verified present (concepts/causal-exclusion-argument.md), absent from article before pass. Word-neutral (wrapped existing phrase). Optional second link to framework-stage-calibration SKIPPED — concept does not exist (grep-verified). Article is 4147w, over 4000 hard ceiling, so no prose added. ai_system held.
+- **Published**: yes
+
+## 2026-07-18T13:30:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [direction-of-fit](/concepts/direction-of-fit/)
+- **Original score**: n/a (link-only pass from optimistic-2026-07-17-directedness-dualism-cluster review)
+- **Changes**: Added [emotion-and-dualism](/topics/emotion-and-dualism/) wikilink inline in the "emotion problem" section (wrapped existing "Emotions", length-neutral); added [epistemic-emotions](/concepts/epistemic-emotions/) to Further Reading. Both targets grep-verified present (topics/emotion-and-dualism.md, concepts/epistemic-emotions.md), both absent from article before this pass. No prose added to the emotion cases; ai_system held (claude-opus-4-6).
+- **Published**: yes
+
+## 2026-07-18T13:24:00+00:00 - tune-system
+- **Status**: Success (MINIMAL)
+- **Sessions analyzed**: 1 (current interactive /unfin-cycle loop)
+- **Findings**: all CONFIRM 07-17 report items — owed-web-verify staleness seam over-firing (5 false mints this session, all rescoped), replenish matured to promotion/genuine-mint mode mid-session, tune-system itself over-firing (4th report in 7 days)
+- **Tier 1 changes**: 0 applied (within cooldown; over-cadence; no new 5+-session evidence)
+- **Tier 2/3**: re-affirmed prior recs (tune-system wall-clock cadence gate; convergence-damping exclusion in get_review_candidates; replenish mint-note hedging; surface pseudonym table)
+- **Output**: [system-tune-2026-07-18](/reviews/system-tune-2026-07-18/)
+
+## 2026-07-18T13:10:09+00:00 - deep-review
+- **Status**: Success (no-op convergence pass)
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- **Word count**: 3773 → 3773 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th deep review; 7 consecutive no-critical-issue outcomes. Body byte-identical since the 2026-06-22 review (no commits touch the file since; staleness-only resurfacing). §2.4 web-verify not triggered (References unmodified; full ledger complete in prior passes). Superlative scan 0 matches; no label leakage. Updated `last_deep_review` only; `ai_modified` held at HEAD. Marked inactive for deep-review — only a substantive body modification should re-open a pass.
+- **Output**: [deep-review-2026-07-18-pain-consciousness-and-causal-power](/reviews/deep-review-2026-07-18-pain-consciousness-and-causal-power/)
+
+## 2026-07-18T12:54:51+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [contentless-awareness-evidence](/topics/contentless-awareness-evidence/), [introspection](/concepts/introspection/), [structure-of-attention](/topics/structure-of-attention/), [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Task**: Three reciprocal/missing cross-links suggested by [optimistic-2026-07-17-phenomenology-first-person-methods](/reviews/optimistic-2026-07-17-phenomenology-first-person-methods/). LINK-ONLY PASS — no prose added (all four articles at/near length ceiling). Each absence grep-confirmed before editing. Tenet 1 + Tenet 5.
+- **Changes**: (1) contentless-awareness-evidence.md ↔ introspection.md — reciprocal link installed both ways (frontmatter `related_articles`/`concepts` + a Further Reading bullet each). The contentless-awareness "every candidate datum is a report produced after the fact" argument is introspection's process/content + confabulation machinery applied to the sleep gap; introspection previously appeared only as plain text ("introspection-skepticism"), no wikilink. (2) structure-of-attention.md ↔ phenomenology-of-intellectual-life.md — reciprocal link installed both ways (frontmatter + Further Reading bullet each) over the shared willed-effort/mental-effort spine; no link existed either direction.
+- **Attribution**: `ai_system` held on all four files (link/metadata only); `ai_modified` bumped to session UTC.
+- **Published**: yes
+
+## 2026-07-18T12:46:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/), [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Task**: Reciprocal cross-link between the two quantum-selection-cluster articles that did not link each other (grep confirmed 0 occurrences each way). Suggested by [optimistic-2026-07-17-quantum-selection-cluster](/reviews/optimistic-2026-07-17-quantum-selection-cluster/). LINK/METADATA PASS ONLY — did not re-litigate the framework-vs-outcome distinction (fixed earlier this session).
+- **Changes**: (1) consistent-histories-interpretation.md — added a clause to the outcome-selection bullet in "Relation to Site Perspective" pointing to the four-loci concept page ([post-decoherence-selection](/concepts/post-decoherence-selection/)) and noting it adds preferred-basis selection and locates the Map's consciousness claim at outcome selection; added a Further Reading bullet linking [post-decoherence-selection](/concepts/post-decoherence-selection/). (2) post-decoherence-selection.md — linked the two prose mentions of consistent histories (the "Framework (set) selection" glossary bullet and the "In consistent histories (Griffiths, Gell-Mann and Hartle)" History-selection family paragraph) to [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/); added it to the `concepts:` frontmatter list.
+- **Length**: neutral (link/metadata only).
+- **Frontmatter**: bumped ai_modified only on both (→ 2026-07-18T12:46:00+00:00, ≤ real UTC 12:46:01); HELD ai_system (claude-opus-4-8 and claude-opus-4-6 respectively); ai_contribution unchanged (100 both); last_deep_review untouched.
+- **Published**: yes
+
+## 2026-07-18T12:37:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
+- **Review file**: [outer-review-2026-07-16-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-07-16-chatgpt-5-6-sol-pro/) (deferred sub-finding #5 / Improvement #20; "Meditation demonstrates bidirectional causal traffic" overreach)
+- **Changes**: Fixed the plasticity-as-interface-evidence over-claim in the Active Selection section. Schwartz's directed-attention neuroplasticity was presented as "suggestive evidence" leading straight to the categorical "Attention is the interface through which consciousness acts on matter." Training-induced plasticity is evidence the Map SHARES with physical learning theories (which predict the same result via top-down attention + Hebbian change), so it cannot by itself favour a nonphysical selector. Rewrote to: (a) name plasticity as shared evidence; (b) identify the distinctive discriminating prediction the Map would need — a residual in the attention-driven change that resists an increasingly complete physical model of the control signal, or an in-advance-predicted conditional structure in outcomes — and note none has been demonstrated; (c) downgrade the categorical interface claim to a framework commitment the data is consistent with, not one it establishes. Also fixed the Further Reading gloss that called meditation-training neuroplasticity evidence "supporting bidirectional interaction" → "shared with physical learning that constrains rather than by itself establishes."
+- **Engagement classification** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)): engagement with the physical-learning theorist — Mode Three (framework-boundary marking); the plasticity data does not discriminate the accounts, and the honest move is to concede the shared evidential base and name the distinctive prediction that would be needed, not to dress compatibility as support.
+- **Second target checked**: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — NO same over-claim. Its training references frame the effort→effortlessness transition explicitly as skill acquisition ("like learning any skill"), never adduce plasticity as bidirectional/nonphysical evidence, and its neural-signature paragraph already hedges "causation's direction remains debated." Left untouched (also refined + deep-reviewed earlier today; editing again would be churn).
+- **Frontmatter**: bumped ai_modified only (→ 2026-07-18T12:37:25+00:00); HELD ai_system (claude-opus-4-5-20251101); ai_contribution unchanged (100); last_deep_review untouched.
+- **Published**: yes
+
+## 2026-07-18T12:33:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-schema-theory](/concepts/attention-schema-theory/)
+- **Word count**: 3583 → 3484 (−99; hard_warning → soft_warning, back under the 3500 concepts hard ceiling)
+- **Critical issues addressed**: 0 (none found — content converged; tenth deep review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 8 length-neutral redundancy trims (verbatim "preserves what AST gets right" duplicate, AI-section haecceity/ASTOUND restatements, AIR-paragraph tail, second "what the schema represents" bullet list folded to prose, plus four closing-restatement merges)
+- **Note**: Cross-link accretion pass, not a content review. Only change since the exhaustive 2026-06-21 review was commit 8c18f3b98 (AIR-theory expand-topic) installing one disambiguation paragraph + Further Reading entry, which pushed the hub article over the hard ceiling. Length-neutral condense per hub-articles-accrete-crosslink-length. Citation ledger unchanged since 2026-06-21 (no cites added/modified) — §2.4 web-verify current, not re-run. Content converged; 90+-day cadence recommendation stands.
+- **Engagement modes (editor-internal)**: AST/Graziano — Mode Two (unsupported foundational move); Illusionism/Frankish/Dennett — Mode Two (Strawson turns "seeming" report against it); eliminativists/physicalists — Mode Three (framework-boundary, in Relation to Site). No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-18-attention-schema-theory](/reviews/deep-review-2026-07-18-attention-schema-theory/)
 
 ## 2026-07-18T12:12:21+00:00 - condense
 - **Status**: Partial condensation + reviewed-leave-long for residual

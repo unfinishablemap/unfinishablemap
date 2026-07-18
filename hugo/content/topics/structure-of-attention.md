@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-07-17 08:57:03+00:00
+ai_modified: 2026-07-18 12:54:51+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[attention-consciousness-relationship-2026-01-15]]'
 - '[[attention-as-interface-hypothesis-2026-01-16]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
+- '[[phenomenology-of-intellectual-life]]'
 title: The Structure of Attention
 topics:
 - '[[topics/free-will]]'
@@ -246,6 +247,7 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and potential mechanism of attentional effort
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Contemplative evidence on attention's structure
 - [motor-selection](/concepts/motor-selection/) — Parallel evidence from voluntary motor control
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The willed-effort/mental-effort spine as it runs through the felt texture of inference and comprehension
 
 ## References
 
