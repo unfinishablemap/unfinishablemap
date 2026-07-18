@@ -20,7 +20,7 @@ description: Interactionist dualism may be simpler than physicalism once all exp
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 16:11:57+00:00
+last_deep_review: 2026-07-18 00:35:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

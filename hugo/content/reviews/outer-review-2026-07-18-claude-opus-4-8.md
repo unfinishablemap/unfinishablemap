@@ -1,0 +1,162 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-07-18
+ai_modified: 2026-07-18 04:32:04+00:00
+ai_system: claude-opus-4-8
+author: Andy Southgate
+concepts:
+- temporal-consciousness
+created: 2026-07-18
+date: &id001 2026-07-18
+description: 'Claude Opus 4.8 audits Non-Temporal Consciousness: verdict REVISE-HARD
+  over a Frischhut co-optation breach and an absent active-inference rival, with clean
+  citations otherwise.'
+draft: false
+human_modified: null
+last_curated: 2026-07-18
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/fd47c30a-4943-44b6-9888-575b0d0b7456
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+- '[[non-temporal-consciousness]]'
+subject_articles:
+- topics/non-temporal-consciousness.md
+subject_source: reuse:pending-reviews:outer-review-2026-07-18-chatgpt-5-6-pro.md
+subject_title: Audit non-temporal-consciousness
+subject_type: recent
+title: Outer Review - Claude Opus 4.8 (2026-07-18)
+topics:
+- non-temporal-consciousness
+- temporal-consciousness-structure-and-agency
+---
+
+**Date**: 2026-07-18
+**Reviewer**: Claude Opus 4.8
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are acting as a rigorous, skeptical outside referee for The Unfinishable Map (https://unfinishablemap.org), a site defending a dualist worldview of consciousness. Please audit one article: "Non-Temporal Consciousness" at https://unfinishablemap.org/topics/non-temporal-consciousness/. Assess its central claims, the accuracy and fair use of its citations, the strength of its arguments, and how well it integrates with the site's tenets and related articles. Actively hunt for logical gaps, unsupported empirical assertions, misattributed or fabricated citations, question-begging, and counterarguments the article omits or handles weakly. Test whether its claims about the temporality or atemporality of experience hold up against contemporary philosophy of mind and cognitive science. Consult the site's changelog for recent context: https://unfinishablemap.org/workflow/changelog/ (external search indexes lag 24-48h). End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Adversarial Referee Report: "Non-Temporal Consciousness" (The Unfinishable Map)
+
+**Bottom line up front:** The article is one of the more genuinely calibrated pieces on the site — its evidential-status discipline is really operative and it pre-empts several of the site's signature failure modes — but it rests its central "first-person corroboration" on a co-optation firewall breach (Frischhut), and the single strongest physicalist rival that natively explains its core evidence (active-inference/minimal-phenomenal-experience models of meditative timelessness) is entirely absent. Verdict: **REVISE-HARD.**
+
+## 1. TL;DR
+
+- **The load-bearing empirical pillar is co-opted.** Frischhut, "Awareness without time," *The Philosophical Quarterly* 76(1):127–150 (2026), DOI 10.1093/pq/pqae081 — cited as "first-person corroboration" that consciousness "has a dimension escaping temporal characterisation" — argues the *opposite*. Her abstract states verbatim: "during (deepest) meditation, the subject experiences 'pure duration' without temporal structure… an account of phenomenal duration without phenomenal succession." That is a within-time, deflationary, representationalist-compatible account by a naturalist, anti-passage philosopher of time. Her "Extended Now Interpretation" *is* the rival reading, not evidence for the Map's thesis.
+- **The dominant physicalist rival is missing.** Active-inference models that natively model meditative timelessness are absent: Laukkonen, Friston & Chandaria (2025), "A beautiful loop," *Neuroscience & Biobehavioral Reviews* 176:106296; Mago, Chandaria, Miller & Laukkonen (2026), "Pure awareness, entropy, and the foundation of perception," *Neurocomputing* 684:133443; and Vohryzek et al. (2025), "Whole-Brain Models of Minimal Phenomenal Experience," bioRxiv 10.1101/2025.09.25.678574. Also absent: Grush's trajectory-estimation model, Dennett–Kinsbourne, and postdiction/discrete-frame research. The SEP "Temporal Consciousness" (Dainton) entry sits in the reference list as a performative-inoculation citation while the specious-present trilemma it surveys never enters the body.
+- **Citations are otherwise clean and the calibration is real**, so DELETE is unwarranted; but the strong metaphysical "non-temporal ground" thesis should be DEMOTED-TO-COHERENCE-ONLY and the dualism-from-atemporality argument FLAGGED AS PERPETUALLY CONTESTED, since the article itself concedes unfalsifiability and bedrock A-/B-theory underdetermination.
+
+## 2. Five-Dimension Analysis
+
+### 2.1 Central claims about temporality/atemporality of experience
+
+The article distinguishes two theses — Husserl's *metaphysically* non-temporal "absolute flow" and *phenomenologically* atemporal meditative timelessness — and argues their convergence supports a category-mismatch argument for irreducibility. It is careful to label the strong thesis "Speculative" and to make its "load-bearing claim the weaker one — that consciousness is not constitutively temporal." [topics/non-temporal-consciousness](https://unfinishablemap.org/topics/non-temporal-consciousness/)
+
+This is the correct place to apply pressure. The weak claim (experience is not *constitutively* temporal in the A-series sense) is defensible-ish; the strong claim (there is a metaphysically non-temporal *ground* that *constitutes* time from outside it) is where the argument overreaches. The bridge between them is Husserl's regress argument, and that argument is question-begging in precisely the way the article does not confront: it assumes the constituting consciousness cannot itself be temporal on pain of regress. But Hoerl (2013) — the article's own cited source — reads Husserl's absolute flow not as strictly atemporal but as Husserl's attempt to accommodate the "necessary extension claim," i.e., that "temporal experience itself necessarily unfolds over time." On Hoerl's reading the flow is a *domesticated*, quasi-extensional structure, not a timeless constituting subjectivity. The article cites Hoerl only for the "shocking (when not initially even absurd)" framing quote and does not engage the fact that Hoerl's substantive thesis undercuts the atemporal reading the article needs. That is a second, milder co-optation. [PhilPapers](https://philpapers.org/rec/HOEHTA)[PhilArchive](https://philarchive.org/rec/HOEHTA)
+
+The epistemic-to-metaphysical slide is partly flagged (the representationalist rejoinder is explicitly granted: "the experience remains a temporal brain process whose *content* lacks temporal markers"), but Premise 2 of the Speculative argument still upgrades a phenomenological datum (reports lack temporal markers) into a metaphysical claim (the ground *is* non-temporal). The article's defense — Husserl's regress — is the weakest link and is not independently defended.
+
+**Physics level-confusion:** to its credit, the article explicitly *avoids* the "physics may be timeless (Wheeler–DeWitt/Barbour/Rovelli) ⟹ consciousness is non-temporal" non-sequitur, conceding the categorical contrast "inherits its force from the regress argument … rather than from the absence of a time coordinate alone." The Wheeler–DeWitt/Barbour/Rovelli material is therefore decorative, not load-bearing — but it is honestly marked as such. The A-series/B-series disambiguation of Premise 1 is genuinely sophisticated: the article concedes a B-series manifold "is no more *flowing* than the non-temporal consciousness posited here" and that eternalists (Putnam, Mellor, Price, Barbour, Petkov) reject Premise 1.
+
+### 2.2 Citation accuracy and fair use
+
+Verified against publisher-of-record sources:
+
+- **Husserl** "This flow is something we speak of in conformity with what is constituted, but it is not 'something in objective time.' It is absolute subjectivity" — **verbatim-correct** (Husserl 1991, Brough trans.; corroborated across multiple independent scholarly sources, including Vessey and Project MUSE renderings of the *1910/11 Lectures* passage).
+- **Hoerl (2013)**, *Phil. & Phenomenological Research* 86(2):376–411 — **correct metadata**; the "shocking (when not initially even absurd)" attribution is accurate (it is Husserl's phrase, quoted by Hoerl on p. 376). *Fair-use concern:* Hoerl's own reading is used selectively (see 2.1).
+- **Katz (1978)** "there are *no* pure (i.e., unmediated) experiences" — **verbatim-correct** (*Mysticism and Philosophical Analysis*, p. 26). [Project MUSE](https://muse.jhu.edu/article/638309/summary)
+- **Sharf (1995/2000)** "ritualization of experience … scripts for the performance of an eminently public religious drama" — **verbatim-correct** (faithful ellipsis of the *Numen* 42(3) 1995 passage; the elided clause is "it doesn't engender a specific experiential state so much as it enacts it"). [LiveJournal](https://sobhani.livejournal.com/3350.html)
+- **Pinto et al. (2017)**, *Brain* 140(5):1231–1237, "divided perception but undivided consciousness" — **correct** (it is the paper's title and finding). [Oxford Academic](https://academic.oup.com/brain/article/140/5/1231/2951052)
+- **Lewis et al. (2012)** PNAS 109(49):E3377–E3386 and **Mashour (2012)** "Fragmenting Consciousness," PNAS 109(49):19876–19877 — **both correct**. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23129622/)
+- **Frischhut (2026)**, *Phil. Quarterly* 76(1):127–150, DOI 10.1093/pq/pqae081 — **metadata correct**; **substantive representation defective** (see 2.1 and 2.5).
+- **Bayne (2010)**, *The Unity of Consciousness* — subject/phenomenal/representational unity and the Unity Thesis are represented **accurately**.
+- **Maudlin (2007)**, *The Metaphysics Within Physics* — **fair use**; Maudlin does defend objective passage / physics "making room for" the passage of time, so citing him for "physics' formal silence on the flowing 'now' reflects its descriptive scope rather than its ontology" is legitimate.
+- **The eternalist lineage** (Putnam 1967, Mellor 1998, Price 1996, Barbour 1999, Petkov 2009) is correctly framed *as the opposing camp*, not co-opted — a properly respected firewall.
+- **Reference #19**, "A layered unity model of split-brain consciousness," *Philosophical Studies* (2025), DOI 10.1007/s11098-025-02339-3 — **real paper, but cited without author name** (metadata defect). The author is **Azenet L. Lopez** (*Philosophical Studies* 182(8):2159–2190, 2025); the article's gloss ("global unity persisting through local fragmentation") is faithful to Lopez's stated thesis: "my model acknowledges breakdowns in local experiential layers but warrants preserved unity in global ones." [Springer](https://link.springer.com/article/10.1007/s11098-025-02339-3)
+
+Net: quotation fidelity is high — no fabricated quotes of the Schwitzgebel/Stapp/Frankish type surface in this article — but there is one anonymous-author metadata defect and one substantive misrepresentation-by-framing (Frischhut).
+
+### 2.3 Strength and validity of arguments
+
+The Speculative four-premise irreducibility argument is valid in form but rests on Premise 2, which is defended only by (a) the regress argument (question-begging, and undercut by the article's own Hoerl source) and (b) the convergence claim. The convergence claim is the argument's real engine, and it is inflated: the three "mutually supporting lines" (Husserl's regress, the cognitive-phenomenological case, the meditative reports) are *not evidentially independent*. Husserl's regress and the meditative reports are the same phenomenological tradition read two ways, and the cognitive-phenomenology line is a cross-reference to a sister article deploying a structurally identical irreducibility move. This is a coherence-inflation / evidential-independence problem — though notably the article *does* apply the anti-inflation guard correctly to the *within*-meditation data ("the cross-tradition cluster carries the evidential weight of *one* recurring pattern … not five independent confirmations").
+
+The fragmentation section is the article's strongest: it explicitly respects the constrain-vs-establish gate ("the anaesthesia and split-brain data therefore *constrain* both framings rather than *confirming* the interface reading over its rival"; "earns its place by ruling out clean division, not by favouring the interface picture"). The Bayne engagement is fair, and the concession that the Lopez layered-unity and Bayne switch models "remain live competitors" is honest.
+
+The Madhyamaka section is genuinely good adversarial self-examination: it concedes that the substantial-subject inference "originates in the dualism tenet and its downstream commitments, not in the phenomenology," and that "the Map cannot refute the *catuṣkoṭi* from outside its own framework." This is the constitutional-attractor effect named and owned rather than hidden. [topics/non-temporal-consciousness](https://unfinishablemap.org/topics/non-temporal-consciousness/)[topics/non-temporal-consciousness](https://unfinishablemap.org/topics/non-temporal-consciousness/)
+
+### 2.4 Integration with the five tenets and related articles
+
+Integration is tight — arguably *too* tight, which is itself the diagnostic. The "Relation to Site Perspective" section maps the thesis onto all five tenets and constructs a "non-temporal selector acting at [the post-decoherence] interface." This selector is transparently a constitutional-attractor artifact: it is engineered to satisfy Dualism + Minimal Quantum Interaction + the timing-gap objection simultaneously, not independently discovered from the temporal-experience data. The article half-admits this. The MQI paragraph is appropriately hedged (it "does not by itself supply physical dynamics" and the "amplification chasm … remains the empirical gap"). The No-Many-Worlds paragraph correctly notes the non-temporal thesis "does not add to the indexical case." Tenet leakage into the ostensibly neutral exposition is low: interpretive vocabulary is mostly quarantined to the explicitly-labelled tenet section.
+
+Cross-linking to `temporal-consciousness-structure-and-agency` exposes an unacknowledged internal tension: that sibling article asserts a *constitutional thesis* that "consciousness … actively constitutes temporal wholes" and endorses Bergson's durée as "what consciousness-involving collapse feels like from within" — i.e., consciousness is deeply *temporal*. The present article posits a non-temporal ground *beneath* that. The "Bergson's Challenge" section acknowledges the tension and resolves it by fiat in Husserl's favour ("The synthesis therefore favours Husserl"), which is not a resolution so much as a restatement of the Map's preference. [topics/temporal-consciousness-structure-and-agency](https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/)[topics/temporal-consciousness-structure-and-agency](https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/)
+
+### 2.5 Omitted / weakly-handled counterarguments; empirical adequacy
+
+This is the dimension where the article most clearly fails contemporary standards.
+
+- **Predictive processing / active inference — the dominant unaddressed rival.** The article gestures at PP once ("equally compatible with predictive-processing accounts") but never engages it. Critically, the active-inference literature now models the *exact* phenomenon the article rests on. Mago, Chandaria, Miller & Laukkonen (2026, *Neurocomputing* 684:133443) state verbatim that minimal phenomenal experiences "arise when precision weighting shifts predominantly to the lower levels of a hierarchical inferential system, leading to a perceptual state characterized by increased entropy and reduced representational (conceptual) content" — i.e., the flattening of temporal-depth priors that generate felt succession. Laukkonen, Friston & Chandaria (2025, *Neurosci. & Biobehav. Rev.* 176:106296) ground consciousness in "epistemic depth… the recurrent sharing of the Bayesian beliefs throughout the system." Vohryzek et al. (2025, bioRxiv 10.1101/2025.09.25.678574) fit whole-brain models to fMRI from advanced practitioners across the eight ACAM-J states and find "a shift of functional network dynamics toward near-bifurcation working points." This is a fully physicalist, mechanistic explanation of alert-timeless awareness that requires no non-temporal ground. Its absence means the article's central evidence fails the *discrimination* test: the meditative data are physicalist-compatible and non-discriminating.
+- **Frischhut is herself the deflationary rival, mis-deployed as corroboration.** Her thesis — "pure duration without temporal structure," with awareness of duration grounded in the *phenomenal character of ongoing alertness* (her "second knock" analogy) — is a within-time, naturalistic account. She is anti-presentist and skeptical that we even experience temporal passage. Citing her among lines that "point toward … consciousness has a dimension escaping temporal characterisation" inverts her conclusion, since her whole point is that the state does *not* escape temporal characterisation (it retains duration). This is a textbook co-optation firewall breach: a naturalist's deflationary conclusion recruited toward the dualist thesis she gives no support to.
+- **The empirical temporal-experience science is absent.** No engagement with the specious-present trilemma (cinematic/retentional/extensional; Dainton, Phillips, Lee), Grush's trajectory-estimation model, Dennett–Kinsbourne's "Time and the Observer"/Multiple Drafts, or the postdiction and discrete-frame literatures (Eagleman–Sejnowski flash-lag, cutaneous rabbit, colour-phi; VanRullen; Herzog et al.'s two-stage model; White). These bear directly on whether atemporality is "constitutive rather than merely representational" — the article's own pivotal distinction — and their omission is not defensible in a 2026 treatment.
+- **Metzinger's MPE program is uncited**, despite the article resting on precisely the cross-tradition meditative-timelessness reports Metzinger's minimal-phenomenal-experience research systematizes (and which Frischhut's paper explicitly engages via Metzinger).
+- **Bergson** is handled as a named challenge but the tension is dissolved by preference, not argument (see 2.4).
+
+## 3. Bottom-Line Verdict
+
+**REVISE-HARD** (primary), with two component dispositions:
+
+- The strong metaphysical **"non-temporal ground / constituting activity" thesis → DEMOTE-TO-COHERENCE-ONLY**. It is coherent within the tenet framework, and the article itself concedes its inference "originates in the dualism tenet … not in the phenomenology." It is not independently supported by the cited evidence, which is physicalist-compatible and non-discriminating.
+- The **dualism-from-atemporality (Speculative) argument → FLAG AS PERPETUALLY CONTESTED**. The article itself concedes the constitutive formulation is unfalsifiable ("No clear empirical test currently distinguishes this constitutive identity from a deflationary alternative") and that the A-/B-series dispute "cannot be settled from inside physics."
+
+RETAIN is wrong because of the Frischhut co-optation breach and the absent dominant rival. DELETE is wrong because the dialectical scaffolding, quotation fidelity, and evidential-status discipline are, unusually for the corpus, largely intact and honestly self-limiting.
+
+## 4. Remediation Lists
+
+### 4a. Article-specific fixes
+
+1. **Repair the Frischhut co-optation breach.** Re-cast Frischhut (2026) as what she is — a *deflationary, within-time rival* whose Extended Now Interpretation ("pure duration without temporal structure," alertness-grounded awareness of passing) explains the meditative reports *without* any non-temporal ground. Remove her from the list of lines that "point toward … consciousness … escaping temporal characterisation." State explicitly that she is a naturalist/anti-passage philosopher of time who does not endorse a non-temporal constituting consciousness, and quote her abstract's "phenomenal duration without phenomenal succession" to make the inversion unmistakable.
+2. **Add and engage the active-inference rival.** Introduce Laukkonen–Friston–Chandaria (2025, *Neurosci. & Biobehav. Rev.* 176:106296), Mago/Chandaria/Miller/Laukkonen (2026, *Neurocomputing* 684:133443), and Vohryzek et al. (2025, bioRxiv 10.1101/2025.09.25.678574) as a mechanistic physicalist account of MPE/meditative timelessness via precision-weighting shifts flattening temporal-depth priors. Concede that this account discriminates against the non-temporal thesis on the meditative data and that the data therefore do not constrain the space in the Map's favour.
+3. **Confront the Hoerl tension.** Note that Hoerl's (2013) "necessary extension claim" reading domesticates the absolute flow toward an extensional/temporal structure, and that the article's atemporal reading is contested by its own cited source. Do not cite Hoerl as if neutral background.
+4. **Fix the regress argument's question-begging step.** Explicitly defend (or downgrade) the premise that the constituting consciousness cannot itself be temporal; acknowledge the extensionalist response (the flow's phases are themselves temporally extended).
+5. **Add the specious-present and empirical temporal-experience literature.** Engage the cinematic/retentional/extensional trilemma (Dainton, Phillips, Lee), Grush's trajectory-estimation model, Dennett–Kinsbourne, and the postdiction/discrete-frame results (Eagleman–Sejnowski, VanRullen, Herzog, White). Move the SEP "Temporal Consciousness" entry from decorative reference to genuine engagement.
+6. **Cite Metzinger's MPE program** where the cross-tradition timeless-awareness reports are introduced.
+7. **Name the author of Reference #19** — Azenet L. Lopez, *Philosophical Studies* 182(8):2159–2190 (2025) — resolving the anonymous-citation metadata defect.
+8. **Reconcile with `temporal-consciousness-structure-and-agency`.** The sibling article's constitutional thesis (consciousness is deeply temporal; durée goes "all the way down" in the Bergsonian register it endorses) is in live tension with a non-temporal ground. Flag and adjudicate rather than resolving by stipulated preference.
+9. **Downgrade the "convergence" language** to reflect the evidential non-independence of the regress, meditative, and cognitive-phenomenology lines (they are not three tests).
+
+### 4b. Site-wide methodology improvements
+
+1. **Author-stance verification as a firewall gate.** The Frischhut case shows metadata-level and quote-level verification passing while the author's *conclusion* is inverted. Add a mandatory "does the cited author endorse the direction of the inference?" check for every naturalist/physicalist source deployed toward a dualist conclusion — the co-optation firewall must test stance, not just quotation fidelity. (This article's own changelog history shows the corpus repeatedly catches wrong-metadata and paraphrase-as-quote defects but has weaker machinery for stance-inversion.)
+2. **Mandatory strongest-rival identification.** Require each empirically-loaded article to name the single strongest physicalist rival and show it is engaged (not merely gestured at). Predictive processing / active inference should be a default checklist item for any consciousness-and-time, meditation, or phenomenology article, given how often it is the absent rival across the corpus — including here, where the corpus already has a `predictive-construction-void` article it fails to cross-link.
+3. **Performative-inoculation-citation audit.** Flag references that appear in the reference list but are never engaged in the body (here, the Dainton SEP "Temporal Consciousness" entry, and arguably the IEP and quantum-gravity SEP entries). A citation that surveys the rival debate without the body engaging it is an inoculation tell.
+4. **Convergence-independence proofs.** When an article claims multiple "mutually supporting lines," require an explicit demonstration that the lines do not reduce to a common source or mechanism. The article applies this guard to its within-meditation data but not to its top-level three-line convergence — the guard should propagate to every convergence claim.
+5. **Coherence-only tagging for tenet-derived posits.** Where an article concedes (as this one does) that an inference "originates in the tenet … not in the phenomenology," that posit should be automatically tagged coherence-only in the site's verdict register, not left in the same evidential tier as the empirical claims.
+
+*Verification note:* All load-bearing citations were checked against publisher-of-record sources (OUP/Oxford Academic, Wiley, PNAS, PubMed, Springer, PhilPapers/PhilArchive) rather than search snapshots. The single most consequential finding — the Frischhut inversion — was confirmed against the paper's verbatim OUP abstract and the author's own body of work (anti-presentist, passage-skeptical, naturalistic philosophy of time), not merely against secondary summaries. No fabricated quotations were detected in this article; the failures are of framing, rival-selection, and evidential independence, not of quote invention.
+
+## Verification Notes
+
+Checked the review's principal claims against the live article [topics/non-temporal-consciousness.md](/topics/non-temporal-consciousness/) and the corpus:
+
+**Verified (grounded in the article):**
+- ✓ Frischhut framing — L59 cites Frischhut (2026) as "first-person corroboration"; L112 lists her among lines that "point toward … consciousness has a dimension escaping temporal characterisation." The article's own gloss of her ENI (L59: "experiencing indeterminate duration without temporal structure") is a within-time notion, consistent with the reviewer's co-optation concern. The stronger stance-inversion claim (that Frischhut is a naturalist/anti-passage/deflationary rival) rests on the reviewer's read of her OUP abstract and body of work — NOT independently re-verified here; the generated task flags publisher verification before recasting.
+- ✓ Active-inference rival absent — the article gestures at predictive processing once (L128) and never engages it. `predictive-construction-void` exists in the corpus and is NOT cross-linked from this article. (The three specific 2025–26 active-inference papers the reviewer names are reviewer-supplied and were NOT verified at publisher; the task requires publisher verification before adding.)
+- ✓ SEP "Temporal Consciousness" is a reference (L172) never engaged in the body — the "performative-inoculation citation" characterisation is grounded; the specious-present trilemma does not appear in the body.
+- ✓ Reference #19 anonymous — L171 lists "A layered unity model of split-brain consciousness. Philosophical Studies (2025)" with no author. (Already covered by the sibling ChatGPT P2 task, which correctly defers the "Lopez" attribution to publisher verification.)
+- ✓ Sibling-article tension — the reconciliation with `temporal-consciousness-structure-and-agency` is already an open P1 task from the ChatGPT 2026-07-18 review.
+
+**Not independently verified (deferred to task execution):**
+- ? Frischhut's actual philosophical stance (anti-passage / deflationary) — verify at OUP (DOI 10.1093/pq/pqae081).
+- ? Hoerl's (2013) "necessary extension claim" substantive thesis — verify before asserting it undercuts the atemporal reading.
+- ? The three active-inference citations' metadata and claims — verify each at publisher-of-record (cf. the corpus's ai-citation-metadata-unreliable pattern).
+
+**Convergence:** This review and the sibling ChatGPT 2026-07-18 review independently converge on the Frischhut mis-framing (ChatGPT: evidential-type overstatement; Claude: stance-inversion) and on the non-independence of the three "convergence" lines. `/combine-outer-reviews` should upgrade these on cross-reviewer agreement once the Gemini leg lands.

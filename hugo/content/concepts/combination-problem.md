@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-16 00:34:00+00:00
+ai_modified: 2026-07-18 00:46:24+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: If electrons have micro-experiences, how do billions combine into u
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-23 00:39:14+00:00
+last_deep_review: 2026-07-18 00:46:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ David Chalmers (2017) systematized the problem into distinct dimensions, each pr
 
 How do many micro-subjects become one macro-subject?
 
-Consciousness isn't just *features* of experience—it's experienced *by* someone. I'm a subject; so is each electron if panpsychism is true. But subjects seem "shut in their own skin," as James put it. Your experience can't merge with mine to form a third experience. Why should electron-experiences be any more combinable?
+Consciousness isn't just *features* of experience—it's experienced *by* someone. I'm a subject; so is each electron if panpsychism is true. But each subject seems "shut in its own skin," as James put it. Your experience can't merge with mine to form a third experience. Why should electron-experiences be any more combinable?
 
 Sam Coleman (2014) argues subject-summing is demonstrably incoherent. If subject A and subject B combine to form subject C, then either:
 - A and B cease to exist (but then what combined?), or

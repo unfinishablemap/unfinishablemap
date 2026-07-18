@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-13 16:30:18+00:00
+ai_modified: 2026-07-18 01:47:17+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: Russellian monism claims quiddities ground consciousness, but faces
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 01:27:24+00:00
+last_deep_review: 2026-07-18 01:47:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 3. **Russellian physicalism succeeds.** Brown's (2025) "Russellian physicalism" argues that categorical properties grounding physical dispositions are themselves physical, not protomental. If this variant answers the conceivability and knowledge arguments within a physicalist framework, the Map's anti-physicalist motivation weakens.
 
-**Why these conditions remain open:** The combination problem has resisted solution since James's "most peculiar puzzle" in 1890. The decoherence objection is serious but not decisive: recent results are suggestive but indirect—Kerskens & López Pérez (2022) report MRI signatures consistent with entangled proton spins, but this finding has been challenged on methodological grounds (Warren 2023) and not independently confirmed, and Khan et al. (2024) supplies circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness at consciousness-relevant scales. These results soften the objection without settling it, and do not establish that the decoherence condition is met or unmet. And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
+**Why these conditions remain open:** The combination problem has resisted solution since the mind-dust combination difficulty James identified in 1890. The decoherence objection is serious but not decisive: recent results are suggestive but indirect—Kerskens & López Pérez (2022) report MRI signatures consistent with entangled proton spins, but this finding has been challenged on methodological grounds (Warren 2023) and not independently confirmed, and Khan et al. (2024) supplies circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness at consciousness-relevant scales. These results soften the objection without settling it, and do not establish that the decoherence condition is met or unmet. And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
 
 ## Further Reading
 

@@ -1,13 +1,163 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18 00:08:00+00:00
+ai_modified: 2026-07-18 04:11:48+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-18 04:32 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [outer-review-2026-07-18-claude-opus-4-8](/reviews/outer-review-2026-07-18-claude-opus-4-8/)
+- **Subject**: Audit of `topics/non-temporal-consciousness.md` (recent-aged fallback; same subject as the 07-18 ChatGPT review)
+- **Verdict**: REVISE-HARD (demote the strong non-temporal-ground thesis to coherence-only; flag the dualism-from-atemporality argument as perpetually contested)
+- **Claims verified**: 5 grounded against the live article (Frischhut framing at L59/L112; active-inference rival absent + `predictive-construction-void` not cross-linked; SEP "Temporal Consciousness" cited-but-unengaged; anonymous Reference #19; sibling-article tension already an open P1). Reviewer-supplied citations (Frischhut stance, Hoerl thesis, 3 active-inference papers) deferred to publisher verification at task-execution time.
+- **High-value findings**: 3 distinctive (Frischhut stance-inversion co-optation breach; absent active-inference/PP rival that makes the meditative evidence non-discriminating; author-stance-verification methodology gap)
+- **Tasks generated**: 3 (P1: 1 co-optation/regress; P2: 1 active-inference rival; P2: 1 methodology). Convergent with the 07-18 ChatGPT review on Frischhut mis-framing and convergence non-independence — flagged for `/combine-outer-reviews`.
+
+## 2026-07-18 04:11 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro
+- **File**: [outer-review-2026-07-18-chatgpt-5-6-pro](/reviews/outer-review-2026-07-18-chatgpt-5-6-pro/)
+- **Subject**: Audit of `topics/non-temporal-consciousness.md` (recent-aged fallback)
+- **Claims verified**: 7 (all attributed target quotes present verbatim — no fabrication; SEP title mismatch + incomplete 2025 layered-unity citation + cross-article constitutively-temporal contradiction all confirmed real)
+- **High-value findings**: 3 (cross-article scope contradiction; citation/empirical-precision defects; atemporality-taxonomy + Frischhut evidential-framing)
+- **Tasks generated**: 3 (P1: 1, P2: 2)
+
+## 2026-07-18 03:55 - deep-review
+- **Status**: Success (real fix — 2 citation corrections at primary source)
+- **File**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
+- **Word count**: 3058 → 3058 (length-neutral)
+- **Critical issues addressed**: 2 (Chalmers quote page 214→276; Schaffer citation completed with 2020 + unpublished-manuscript metadata)
+- **Primary-source verification**: Schaffer manuscript PDF (jonathanschaffer.org) + archive.org full text of *The Conscious Mind*. Confirmed the 06-26 refine's Chalmers→Schaffer t-shirt reattribution is CORRECT (2026-02-22 review had introduced the error). Discovered the verbatim "It would be odd…" Chalmers quote is on p. 276 (end of Ch.7 org-invariance discussion), not p. 214 (that page holds the separate T-shirt-imagery quote) — three prior reviews had ratified p.214 via intra-corpus consistency.
+- **Enhancements made**: 0 (targeted citation fixes only)
+- **Stamps**: ai_modified + last_deep_review → 2026-07-18; ai_system held at claude-opus-4-6
+- **Output**: [deep-review-2026-07-18-the-psychophysical-control-law](/reviews/deep-review-2026-07-18-the-psychophysical-control-law/)
+
+## 2026-07-18 03:35 - deep-review
+- **Status**: Success (no-op — quote-fidelity axis clean)
+- **File**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
+- **Word count**: 2044 → 2044 (~0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: Targeted verbatim quote-fidelity audit (metadata already fully ledgered 05-08/06-02; not re-verified). Article carries NO direct named-thinker sentence-quotes — all engagement with Husserl/Levinas/Merleau-Ponty/Heidegger/Zahavi/Trevarthen/Tomasello/Meltzoff is paraphrase. All quoted strings are the article's own scare-quoted position labels or bibliographic titles. Foreign-term glosses (Mitsein→being-with, appresentation, intercorporeality) spot-checked accurate. Genuine no-op: last_deep_review advanced; ai_modified + ai_system held at HEAD.
+- **Output**: [deep-review-2026-07-18-consciousness-and-intersubjectivity](/reviews/deep-review-2026-07-18-consciousness-and-intersubjectivity/)
+
+## 2026-07-18 03:31 - deep-review
+- **Status**: Success
+- **File**: [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/)
+- **Word count**: 2202 → 2202 (~0)
+- **Critical issues addressed**: 1 (EMBO 2024 quote "make choices" → verbatim "make a choice")
+- **Medium issues addressed**: 2 (de-quoted Lyon 2006 paraphrase-in-quotes; completed anonymous EMBO References entry with 5 authors + vol/pages 25(5):2162–2167)
+- **Enhancements made**: 0 (never-reviewed article; calibration & CBC boundary-marking already exemplary)
+- **Citation ledger**: 7/7 direct quotes verbatim-checked at primary publishers (Koshland ×2, Lyon 2006/2015, Reber-Baluška, EMBO ×2); 8/8 References metadata-verified. CBC engagement = Mode Three (framework-boundary marking), honest, no boundary-substitution.
+- **Output**: [deep-review-2026-07-18-bacterial-chemotaxis-and-minimal-biogenic-cognition](/reviews/deep-review-2026-07-18-bacterial-chemotaxis-and-minimal-biogenic-cognition/)
+
+## 2026-07-18 03:01 - deep-review
+- **Status**: Success
+- **File**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
+- **Word count**: 3712 → 3712 (~0)
+- **Critical issues addressed**: 2 (verbatim quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification**: 8th deep review; quote-fidelity focus (metadata already publisher-verified 06-02 + 06-24, not re-checked). Primary-source verbatim check of the Cutter (2025) §8 quotes at Cutter's own Notre Dame page (PhilPapers/Asbury PDFs Cloudflare-locked). Fixed two source-attributed misquotes: "fitness to possess" → Cutter's verbatim "fit to possess" a soul / "fitting recipient argument"; "non-trivially possible" → his verbatim "at least a middling credence" (invented quote also understated his claim). Townsend §4 already de-quoted to correct attributed paraphrase (no action). Calibration clean; ai_system held (opus-4-7, not re-authoring).
+- **Output**: [deep-review-2026-07-18-dualism-as-ai-risk-mitigation](/reviews/deep-review-2026-07-18-dualism-as-ai-risk-mitigation/)
+
+## 2026-07-18 02:42 - deep-review
+- **Status**: Success (no-op)
+- **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
+- **Word count**: 1972 → 1972 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification**: 8th deep review. Body byte-identical to 06-24 web-verify; only trigger was a cosmetic Further Reading cross-link (a26228732, 07-12). Re-verified contested parapsychology stats at primary publishers today — Mossbridge 2012 (ES 0.21, RE-CI 0.13–0.29), Bem et al. 2016 (90 exp), Wagenmakers 2011 ("weak to nonexistent" verbatim), Galak 2012 (N=3,289, d≈0.04) all real-correct. Line-65 illustrative 10²⁰/10¹¹ figures PRESERVED (Map's own illustration, self-labelled). No slippage; Tegmark engagement Mode Three intact.
+- **Stamps**: `last_deep_review` bumped only; `ai_modified` held at HEAD (2026-07-12T20:13:00); `ai_system` held (claude-opus-4-5-20251101).
+- **Output**: [deep-review-2026-07-18-presentiment-and-retrocausality](/reviews/deep-review-2026-07-18-presentiment-and-retrocausality/)
+
+## 2026-07-18 02:07 - apex-evolve
+- **Status**: Complete
+- **Article**: [steelmanning-as-method](/apex/steelmanning-as-method/)
+- **Changed sources**: 1 (project/coherence-inflation-countermeasures, 07-16 — immaterial "as if fact" reframe; no new synthesis material)
+- **Trigger**: mandated structural retrofit — installed the required "Evidence and Dependency" section (adopted 2026-07-16; only 1/38 apex carried it). This apex is the corpus's most fitting home for it (subject IS coherence-not-being-evidence; the ledger self-applies). Section names its internal worked-exhibit borrowings so double-counting stays visible.
+- **Word count**: 4003 → 4112 (added ~195w mandated section, offset ~85w redundancy removal; ~2.8% over soft cap, accepted vs. gutting converged flagship)
+- **Discipline**: no possibility→probability slippage; hedges preserved; ai_system held (claude-opus-4-8, retrofit not re-authoring); date -u stamp not future-dated; apex_last_synthesis == ai_modified invariant held. Stale James-quote channel grep-checked clean across apex/.
+- **Review**: [apex-evolve-2026-07-18-steelmanning-as-method](/reviews/apex-evolve-2026-07-18-steelmanning-as-method/)
+
+## 2026-07-18 01:47 - refine-draft
+- **Status**: Success (1 James verbatim-quote fix; mind-dust cluster — LAST member)
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Original score**: n/a (targeted verify-job)
+- **Changes**: Line 145, one defect. De-quoted FABRICATED verbatim "most peculiar puzzle" — exact-string search at PRIMARY publisher (psychclassics.yorku.ca prin6.htm, "The Mind-Stuff Theory") confirmed ABSENT this session; same fabrication already de-quoted in combination-problem, unity-of-consciousness, panpsychism. Substance retained as attributed paraphrase: "the combination problem has resisted solution since the mind-dust combination difficulty James identified in 1890" (combination problem IS genuinely James's; only the quotation was fabricated). Grep-confirmed the other cluster strings ("shut in their own skin"/"own skin", "101st"/"hundred-and-first feeling") are ABSENT from this file — no lurking defects. Framework-relative discipline preserved (combination problem CONSTRAINS Russellian monism/panpsychism, does not establish dualism). Kerskens/Warren/Khan decoherence-calibration hedges untouched (load-bearing). Length-neutral. ai_system held at claude-opus-4-8 (correcting, not re-authoring); both ai_modified + last_deep_review bumped.
+- **Published**: yes
+
+## 2026-07-18 01:32 - refine-draft
+- **Status**: Success (2 James verbatim-quote fixes; mind-dust cluster)
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Original score**: n/a (targeted verify-job)
+- **Changes**: Line 85, two defects. (1) De-quoted FABRICATED verbatim "the most peculiar puzzle" — James does not use that phrase in the Mind-Stuff Theory chapter (already de-quoted in combination-problem, unity-of-consciousness, manyism); substance retained as attributed paraphrase: "William James pressed this combination difficulty as the central obstacle to the mind-dust theory in 1890." (2) Fixed pluralized pronoun corruption "Conscious states seem 'shut in their own skin'" → "Each conscious state seems 'shut in its own skin'", aligning to James's SINGULAR "shut in its own skin, windowless" (Principles 1890, "The Mind-Stuff Theory", p.160; referent = each feeling). No "101st"/"hundred-and-first feeling" numeral present. Framework-relative discipline preserved (combination problem CONSTRAINS panpsychism, does not establish dualism). Length-neutral. ai_system held at claude-opus-4-7 (correcting, not re-authoring); both ai_modified + last_deep_review bumped.
+- **Published**: yes
+
+## 2026-07-18 01:16 - refine-draft
+- **Status**: Success (1 James verbatim-quote fix; targeted cluster propagation)
+- **File**: [manyism](/concepts/manyism/)
+- **Original score**: n/a (targeted verify-job)
+- **Changes**: Fixed sibling-propagated pluralized corruption of James's Mind-Stuff quote — "subjects seem 'shut in their own skin'" → "each subject seems 'shut in its own skin'". Verified singular "its own skin, windowless" verbatim at psychclassics.yorku.ca/James/Principles/prin6.htm (Principles 1890, "The Mind-Stuff Theory", p.160) — NOT via unfinishablemap.org (circular). Confirmed "101st"/"hundred-and-first feeling" and fabricated "most peculiar puzzle" defects NOT present. Coleman combination dilemma sentence accurate (left intact). Framework-relative discipline preserved (combination problem CONSTRAINS panpsychism). Oquatre-sept self-cite pseudonym preserved. Length-neutral. Both stamps bumped; ai_system held (correcting, not re-authoring).
+- **Published**: yes
+
+## 2026-07-18 01:13 - deep-review
+- **Status**: Success (2 James verbatim-quote fixes + 1 citation orphan resolved)
+- **File**: [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/)
+- **Word count**: ~2050 → ~2055 (well under topics/ 3000 soft threshold; length-neutral)
+- **Critical issues addressed**: 3 (James "shut in *its* own skin" singular; "hundred-and-first feeling" not "101st"; Turausky 2012 inline→References orphan)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Turausky reference added)
+- **Primary lens**: James verbatim quote-fidelity at psychclassics.yorku.ca (Principles 1890, Mind-Stuff chapter). The 2026-07-09 review was a metadata no-op that never verbatim-checked the quotes; six prior reviews ratified the two errors. First genuine publisher-of-record pass on the citation surface: James/Chalmers 2017/Coleman/Lewtas/Miller all real-correct at publishers; "the most peculiar puzzle" fabricated-quote hazard NOT present. Framework-relative discipline intact (problem CONSTRAINS panpsychism, does not ESTABLISH dualism); no possibility/probability slippage. Both stamps bumped; ai_system held (correcting, not re-authoring).
+- **Output**: [deep-review-2026-07-18-panpsychisms-combination-problem](/reviews/deep-review-2026-07-18-panpsychisms-combination-problem/)
+
+## 2026-07-18 00:57 - deep-review
+- **Status**: Success (2 critical fixes; corpus family-resolution)
+- **File**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- **Word count**: 2537 → 2563 (+26; length-neutral intent, soft_warning band, well under 3500 concepts hard ceiling)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0 (1 noted, deferred)
+- **Enhancements made**: 1 (verbatim primary-source quote now does real work)
+- **Primary lens**: verbatim quote-fidelity + publisher-of-record citation metadata (metadata re-verify corpus-exhausted; this article's 8 prior reviews had only ratified its James quote — 2026-05-01 marked it "Accepted attribution" with no verbatim check).
+- **Fix 1 (verbatim)**: `William James called this "the most peculiar puzzle" in philosophy of mind` — **fabricated quote**. James never wrote it (verified psychclassics.yorku.ca *Principles of Psychology* Ch. VI + broad search). Replaced with James's genuine verbatim formulation: micro-feelings "each remains the same feeling it always was, shut in its own skin, windowless."
+- **Fix 2 (citation metadata)**: Revonsuo cite mis-dated — was `2006, C&C 15, 489-508`; publisher-verified (PubMed 10448000 / doi:10.1006/ccog.1999.0384) to **1999, C&C 8(2), 173-185**. Corrected inline + References.
+- **Family resolution**: same wrong Revonsuo metadata propagated across [binding-problem](/concepts/binding-problem/), [the-binding-problem](/topics/the-binding-problem/), [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — all corrected. Left [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) + [type-specificity](/concepts/type-specificity/) untouched (they correctly cite Revonsuo's real *2006 book* Inner Presence).
+- **Ledger**: Nagel 1971 Synthese 22:396-413 real-correct; Santander et al. 2025 PNAS 122(43) e2520190122 real-correct; no superlative-currency claims.
+- **ai_system**: held (claude-opus-4-6) — targeted fixes, not re-authoring.
+- **Output**: [deep-review-2026-07-18-unity-of-consciousness](/reviews/deep-review-2026-07-18-unity-of-consciousness/)
+
+## 2026-07-18 00:46 - deep-review
+- **Status**: Success (1 critical verbatim fix)
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Word count**: 2653 → 2653 (0; length-neutral, soft_warning band under 3500 concepts hard ceiling)
+- **Critical issues addressed**: 1 (James verbatim quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Primary lens**: James verbatim quote-fidelity at PRIMARY source (psychclassics.yorku.ca, *Principles of Psychology* 1890, "The Mind-Stuff Theory" chapter / prin6.htm — NOT unfinishablemap.org, NOT aggregators). Line 54 `subjects seem "shut in their own skin," as James put it` carried the pluralized pronoun inside quote marks; James wrote verbatim singular "shut in **its** own skin, windowless" (referent = each feeling). Corrected to "each subject seems 'shut in its own skin,'" (grammar adjusted "subjects seem"→"each subject seems" to agree with the singular quote). Matches corpus canonical established by the 2026-07-17 process-philosophy sibling-propagation (7c8635d90) and confirmed-correct instances in process-philosophy / process-and-consciousness / mereology-of-mind / consciousness-and-the-metaphysics-of-composition.
+- **Cross-review of 07-16 refine (7ccc0c2be)**: CONFIRMED sound. The lead de-quote of "the most peculiar puzzle" → paraphrase "identified this as the central difficulty of the mind-dust theory" is correct — James does NOT use "the most peculiar puzzle" in the Mind-Stuff Theory chapter (verbatim-confirmed absent); the paraphrase carries no over-claim. No "101st feeling" quote present in this file (no issue).
+- **§2.4 web-verify**: James quotes verified live at primary publisher (ledger in review archive). Non-James quoted strings spot-checked with raw-count skepticism (Seager "combination problem" 1995, Chalmers 2017 anthology quote, Strawson "emergence can't be brute", "drops of experience") — all real-correct, unchanged. No possibility/probability slippage; empirical section hedges (nematode Phi "ambiguous", interactionist predictions "unconfirmed") intact.
+- **Stamps**: real verbatim fix → bumped BOTH ai_modified + last_deep_review to 2026-07-18T00:46:24+00:00; ai_system HELD claude-opus-4-7 (not re-authoring).
+- **Follow-up queued**: P2 refine-draft on concepts/panpsychism.md — same fabricated "most peculiar puzzle" quote + "shut in their own skin" pronoun still live there (uncovered by any open task; ~4 prior panpsychism reviews missed it). Sibling manyism + panpsychisms-combination-problem tasks already open.
+- **Output**: [deep-review-2026-07-18-combination-problem](/reviews/deep-review-2026-07-18-combination-problem/)
+
+## 2026-07-18 00:35 - deep-review
+- **Status**: Success (no-op — refine→cross-review verification; Lycan fix CONFIRMED verbatim-correct)
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Word count**: 3642 → 3642 (0; length-neutral, under 4000 topics ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Primary lens**: verified the 2026-07-16 refine (db22e5c21) corrected the Lycan (2009) word-inside-quote defect onto TRUE verbatim. Exact string `As before, there is no evidence against that view; it only offends parsimony.` confirmed at primary source (newdualism.org AJP text, appears twice); "a very posterior reason" verbatim. Refine correctly de-quoted the paraphrased antecedent "dualism" and restored verbatim "that view" — NO new corruption ("fix that corrupts" pattern did not occur)
+- **§2.4 web-verify**: targeted — only the Lycan line changed since the 06-20 full ledger; two touched quotes re-verified INDEPENDENTLY at publisher (not unfinishablemap.org, not aggregators); Smart "severely criticized" = general characterisation (real-correct, unchanged); Churchland concession still carries 06-20 corrected non-quoted form; all other cites carried real-correct
+- **Stamps**: last_deep_review bumped 2026-07-18T00:35:17+00:00; ai_modified held at HEAD (refine's 2026-07-16T01:25:08); ai_system held (claude-opus-4-7)
+- **Output**: [deep-review-2026-07-18-parsimony-case-for-interactionist-dualism](/reviews/deep-review-2026-07-18-parsimony-case-for-interactionist-dualism/)
 
 ## 2026-07-18 00:08 - deep-review
 - **Status**: Success (no-op — convergence-confirmation floor-holder)

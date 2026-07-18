@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-19 21:25:00+00:00
+ai_modified: 2026-07-18 01:13:23+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: 'The combination problem reveals something fundamental about subjec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 10:56:51+00:00
+last_deep_review: 2026-07-18 01:13:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ The combination problem does more than embarrass panpsychism. It reveals somethi
 
 The [combination-problem](/concepts/combination-problem/) is often presented as panpsychism's technical difficulty, analogous to the [hard problem](/topics/hard-problem-of-consciousness/) facing physicalism. That framing understates it. The hard problem asks how experience arises from non-experience. The combination problem asks how experience arises from *experience*—and still has no answer.
 
-William James identified the core difficulty in 1890: conscious states are "shut in their own skin, windowless, ignorant of what the other feelings are and mean." Take a hundred feelings, pack them as close together as you can—each remains isolated. James argued that any resultant consciousness would be a "101st feeling," having no intelligible relation to its supposed constituents.
+William James identified the core difficulty in 1890: each feeling remains "shut in its own skin, windowless, ignorant of what the other feelings are and mean." Take a hundred feelings, pack them as close together as you can—each remains isolated. James argued that any resultant consciousness would be a "hundred-and-first feeling," having no intelligible relation to its supposed constituents.
 
 David Chalmers (2017) systematized the problem into three dimensions, each targeting a different aspect of how micro-consciousness would need to become macro-consciousness.
 
@@ -178,3 +178,4 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 1. Stoljar, D. (2001). Two Conceptions of the Physical. *Philosophy and Phenomenological Research*, 62(2), 253-281.
 1. Shani, I. (2015). Cosmopsychism: A Holistic Approach to the Metaphysics of Experience. *Philosophical Papers*, 44(3), 389-437.
 1. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
+1. Turausky, K. (2012). *Picturing Panpsychism: New Approaches to the Combination Problem*. Unpublished manuscript.

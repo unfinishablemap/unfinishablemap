@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-15 22:18:32+00:00
+ai_modified: 2026-07-18 01:32:15+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-15 22:18:32+00:00
+last_deep_review: 2026-07-18 01:32:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ Panprotopsychism faces a potential "revenge" problem: if protophenomenal propert
 
 ## The Combination Problem
 
-But panpsychism faces its own challenge: if electrons have micro-experiences, how do they combine into unified human consciousness? This is the [combination problem](/concepts/combination-problem/). William James called this "the most peculiar puzzle" of panpsychism. Conscious states seem "shut in their own skin"—my experience can't merge with yours to form a third experience. Why should electron-experiences combine into brain-experiences?
+But panpsychism faces its own challenge: if electrons have micro-experiences, how do they combine into unified human consciousness? This is the [combination problem](/concepts/combination-problem/). William James pressed this combination difficulty as the central obstacle to the mind-dust theory in 1890. Each conscious state seems "shut in its own skin"—my experience can't merge with yours to form a third experience. Why should electron-experiences combine into brain-experiences?
 
 The combination problem has several variants:
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-26 08:45:00+00:00
+ai_modified: 2026-07-18 03:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: What formal mapping connects conscious states to physical selection
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 00:13:00+00:00
+last_deep_review: 2026-07-18 03:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ This is not merely a practical problem. The [hard problem](/topics/hard-problem-
 
 The "t-shirt problem" Schaffer presses against naturalistic dualism—so named because the fundamental laws could not be written legibly on a t-shirt—names a deeper concern. Good fundamental laws fit on a t-shirt: F=ma, E=mc², S=k ln W. Psychophysical laws may resist this compression. The correlations between phenomenal states and physical states might be real but irreducibly complex—no elegant formula capturing them because the mapping reflects evolutionary contingency rather than fundamental simplicity.
 
-Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws" (1996, p. 214). The Map shares this expectation: the specification gap is a problem to be solved, not a permanent feature of our epistemic situation.
+Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws" (1996, p. 276). The Map shares this expectation: the specification gap is a problem to be solved, not a permanent feature of our epistemic situation.
 
 Some philosophers invoke [cognitive closure](/concepts/mysterianism/) here—arguing that human minds may lack the conceptual resources to formulate psychophysical laws. The Map acknowledges this as a logical possibility but does not rely on it. Cognitive closure functions as an unfalsifiable exit: if the law cannot be specified, that becomes evidence of closure rather than evidence against the framework. A research programme that reserves the right to invoke cognitive closure whenever progress stalls has immunised itself against failure. The Map's position is that the gap reflects scientific immaturity and conceptual asymmetry, not cognitive limitation—and that the path forward described in subsequent sections offers genuine traction.
 
@@ -199,7 +199,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 2. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 3. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-4. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
+4. Schaffer, J. (2020). "Naturalistic Dualism and the Problem of the Physical Correlate." Unpublished manuscript (draft of 25 June 2020), Rutgers University. http://www.jonathanschaffer.org/dualismcorrelate.pdf
 5. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
 6. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 7. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-07-12 15:54:00+00:00
+ai_modified: 2026-07-18 00:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ description: Experience comes as an integrated whole—unified across features a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 03:34:52+00:00
+last_deep_review: 2026-07-18 00:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ Phenomenal unity is the core of the unity problem. Bayne and Chalmers (2003) ana
 
 **Conjoint phenomenology**: When experiences are subsumed, there is a phenomenology of having them together—a "what it is like" to experience seeing-and-hearing simultaneously. Consider tasting wine. Sweetness, acidity, tannin, and aroma are experienced not as four separate qualia that happen to coincide but as one integrated flavour with its own character. The whole is not the sum of its parts.
 
-This makes phenomenal unity a mereological claim: experiences are *parts* of larger experiences (Revonsuo 2006; Tye 2003). The total experience has sub-experiences as parts, but the whole has phenomenal properties no part possesses individually.
+This makes phenomenal unity a mereological claim: experiences are *parts* of larger experiences (Revonsuo 1999; Tye 2003). The total experience has sub-experiences as parts, but the whole has phenomenal properties no part possesses individually.
 
 Subsumptive unity describes phenomenal part-whole *structure*—an experience having internal articulation, or being subsumed under a larger experience—and that is a different claim from composition out of independently existing subjects. Saying that visual and auditory experience are parts of one encompassing experience does not say that two free-standing subjects, or two independent micro-experiences, were summed to produce it. The [metaphysics of composition](/concepts/composition-and-consciousness/) argues precisely that consciousness is *non-compositional* in the second sense: subjects and experiences do not assemble from independent experiential parts. The two theses are compatible because they concern different relations—structure within one experience versus subject-summing across many—and the encompassing experience here is given as a whole whose parts are abstracted from it, not built up to it.
 
@@ -116,7 +116,7 @@ Phenomenal unity presents a structural challenge to physicalism:
 
 This parallels Leibniz's mill: walk through a brain enlarged to mill-size and you observe mechanical interactions—neurons firing, chemicals diffusing—but nowhere do you find a unified experience. The physical system consists of parts external to one another; experience is unified without parts in that sense. For the extended argument, see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/). The [metaphysics of composition](/topics/consciousness-and-the-metaphysics-of-composition/) develops a complementary point: three independent answers to the Special Composition Question converge on consciousness as the criterion for genuine wholes, supporting the claim that phenomenal unity is not assembled from parts but is intrinsic to consciousness itself.
 
-Phenomenal unity also bears on the [combination problem](/concepts/combination-problem/). If panpsychism is true and micro-experiences exist, how do they combine into macro-experiences with conjoint phenomenology? William James called this "the most peculiar puzzle" in philosophy of mind. Both the combination problem and the hard problem of unity may be instances of a general cognitive limit at level transitions—what the Map calls the [emergence void](/voids/emergence-void/).
+Phenomenal unity also bears on the [combination problem](/concepts/combination-problem/). If panpsychism is true and micro-experiences exist, how do they combine into macro-experiences with conjoint phenomenology? William James pressed exactly this difficulty in *The Principles of Psychology* (1890): however tightly micro-feelings are packed together, "each remains the same feeling it always was, shut in its own skin, windowless," never fusing into a larger feeling. Both the combination problem and the hard problem of unity may be instances of a general cognitive limit at level transitions—what the Map calls the [emergence void](/voids/emergence-void/).
 
 ## Proposed Explanations
 
@@ -180,6 +180,6 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 1. Lloyd, D. (2012). Neural correlates of temporal experience. In S. Edelman et al. (Eds.), *Being in Time*. John Benjamins.
 1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
 1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122.
-1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
+1. Revonsuo, A. (1999). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 8(2), 173-185.
 1. Tye, M. (2003). *Consciousness and Persons: Unity and Identity*. MIT Press.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
