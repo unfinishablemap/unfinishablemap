@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T17:38:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T18:59:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/philosophy-of-habit-under-dualism]]
+- **Word count**: 2225 → 2234 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1 (de-quote paraphrase-as-quote)
+- **Notes**: 2nd review. Only substantive change since 2026-07-07 was a refine-draft (0f2cfcc35) that strengthened the Tenet 1 calibration hedge (descent gloss held as tenet-calibrated position, not data-compelled) — improved, preserved intact. Fixed a paraphrase-as-quote: Merleau-Ponty "to have a habit is to have a world" was in quotation marks but is a scholarly compression, not a verbatim MP line (web-verified vs PMC/SEP MP scholarship; his rendering is "perceptual habit as the coming into possession of a world"). De-quoted to the article's own gloss. References block unchanged since last review → 2026-07-07 publisher-of-record ledger stands, §2.4 skip permitted. Peirce engagement Mode Three, honest; no label leakage; no calibration slippage. Otherwise converged.
+- **Output**: [[reviews/deep-review-2026-07-18-philosophy-of-habit-under-dualism]]
+
 ## 2026-07-18T18:40:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/relevance-void]]

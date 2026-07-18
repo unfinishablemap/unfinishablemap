@@ -4,7 +4,7 @@ description: "Habit is the interface's delegation function in action—where con
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-07-07T22:02:24+00:00
+ai_modified: 2026-07-18T18:59:47+00:00
 draft: false
 topics:
   - "[[delegatory-dualism]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-07
 last_curated:
-last_deep_review: 2026-07-07T18:27:43+00:00
+last_deep_review: 2026-07-18T18:59:47+00:00
 ---
 
 Habit is the everyday boundary at which conscious selection hands control to automatic procedure and, when novelty demands, takes it back. When you drive a familiar route while thinking about something else, reach for the light switch that a recent move relocated, or find your hand already halfway to a snack you did not decide to eat, you are watching the interface between consciousness and its physical substrate operate near its delegated extreme. The Unfinishable Map reads habit as the **delegation function** at work: the same interface that [[skill-delegation|delegates a trained skill]] also settles a cue-triggered disposition into the body and the world, and the philosophy of habit—running from Aristotle through Ravaisson, Bergson, Dewey, Merleau-Ponty, and Peirce—supplies a two-century record of thinkers refusing to reduce that settling to bare mechanism.
@@ -38,7 +38,7 @@ Crucially, Ravaisson reads this as a *descent*, not a break. The will's spontane
 
 ## Motor Intentionality and the Two Memories
 
-Maurice Merleau-Ponty's *Phenomenology of Perception* (1945) locates habit in the **body schema**—a pre-conscious, implicit map of bodily capacity. For Merleau-Ponty, "to have a habit is to have a world" ready to hand. Habit is neither intellectual knowledge nor mechanical reflex but a **motor intentionality**: the body "understands" and aims at the world. Consciousness, he insists, is primarily "I can," not "I think." The organist mastering a new instrument and the blind man whose cane becomes an extension of his body illustrate how habit dilates our being in the world by incorporating instruments into the schema—a direct bridge to the material argument developed below. The Schneider case (a brain-injured soldier in whom concrete habitual action survived while abstract, novel movement failed) offers a natural experiment separating the automatic from the deliberate.
+Maurice Merleau-Ponty's *Phenomenology of Perception* (1945) locates habit in the **body schema**—a pre-conscious, implicit map of bodily capacity. For Merleau-Ponty, to have a habit is to have a world ready to hand—perceptual habit as the coming into possession of a world. Habit is neither intellectual knowledge nor mechanical reflex but a **motor intentionality**: the body "understands" and aims at the world. Consciousness, he insists, is primarily "I can," not "I think." The organist mastering a new instrument and the blind man whose cane becomes an extension of his body illustrate how habit dilates our being in the world by incorporating instruments into the schema—a direct bridge to the material argument developed below. The Schneider case (a brain-injured soldier in whom concrete habitual action survived while abstract, novel movement failed) offers a natural experiment separating the automatic from the deliberate.
 
 Henri Bergson's *Matter and Memory* (1896) sharpens the point by distinguishing two irreducible kinds of memory. **Habit-memory** is motor, built by repetition, oriented to present action, and "inscribed within the body"; it *acts* the past rather than representing it. **Pure recollection** preserves the past *as* past and is representational and free. Bergson holds that confusing the two produces philosophical error—and, notably, keeps a non-bodily memory alongside the embodied one rather than reducing mind to mechanism.
 
