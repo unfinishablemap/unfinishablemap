@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T02:40:36.579201+00:00'
-session_count: 16273
-cycle_position: 11328
+last_updated: '2026-07-18T02:45:24.019352+00:00'
+session_count: 16274
+cycle_position: 11329
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T21:58:24.851988+00:00'
   optimistic-review: '2026-07-17T23:31:42.041361+00:00'
   check-tenets: '2026-07-17T20:16:04.965067+00:00'
   check-links: '2026-07-18T01:58:00.245494+00:00'
-  deep-review: '2026-07-18T01:15:25.663023+00:00'
+  deep-review: '2026-07-18T02:45:24.019352+00:00'
   tune-system: '2026-07-17T00:23:50.450127+00:00'
   research-voids: '2026-07-18T02:01:02.593866+00:00'
   coalesce: '2026-07-18T00:31:35.728225+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 518
-  reviews_completed: 6548
+  reviews_completed: 6549
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-07-18'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1326,22 +1326,21 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T02:33:00+00:00'
-  last_replenishment_prev: '2026-07-18T01:41:25+00:00'
-  last_floor_restore_target: deep-review topics/consciousness-and-intersubjectivity.md
-    (staleness / owed-web-verify seam; opus-4-6 older cohort, ai_contribution 100,
-    2880 body words status ok with wide headroom under the topics 3000 soft / 4000
-    hard ceiling; last_deep_review 2026-06-24 predates the 2026-07-07 second-person-program
-    cross-edit so the current whole-article state is unreviewed; 9 prior deep-reviews
-    = fewest of the eligible drift cohort, and the citation surface is unledgered
-    since the 2026-03-21 pessimistic review [the 06-02 and 06-24 dedicated deep-reviews
-    carried no verify section] = the largest genuinely-unchecked seam; PRIMARY LENS
-    = per-citation publisher verification of the phenomenology translation-year cluster
-    (Heidegger 1927/1962, Husserl 1931/1960, Levinas 1969, Merleau-Ponty 1945/1962)
-    and the developmental-psych vol/issue/pages cites (Meltzoff and Moore 1977 Science
-    198, Oostenbroek 2016 Current Biology 26, Trevarthen 1979, Tomasello 1995, Zahavi
-    2014); keep phenomenological claims framework-relative; do NOT flag the Oquatre-cinq
-    self-cite pseudonym.)
+  last_replenishment: '2026-07-18T02:53:00+00:00'
+  last_replenishment_prev: '2026-07-18T02:33:00+00:00'
+  last_floor_restore_target: deep-review topics/the-psychophysical-control-law.md
+    (GENUINE refine-then-cross-review chain, preferred seam (b), NOT another dead
+    owed-web-verify pick; opus-4-6 older cohort, ai_contribution 100, 3058 body words
+    soft_warning with ~942w headroom under the topics 4000 hard ceiling; scorer top
+    non-de-selected candidate score 17.6; EXACT-TIMESTAMP-VERIFIED drift = last_deep_review
+    2026-06-26T00:13 then refine 17e833f1 2026-06-26T08:46 "Reattribute the t-shirt
+    problem from Chalmers to Schaffer" landed 8.5h AFTER the review [opposite of the
+    presentiment same-day-PRECEDES trap], 0 commits since = 22-day converged, so the
+    reattribution is UNVERIFIED by any deep-review; PRIMARY LENS = verify at jonathanschaffer.org
+    that Schaffer not Chalmers coins the t-shirt problem and pin the bare undated
+    personal-PDF citation year/venue [verbatim-quote-cited-to-wrong-work risk class],
+    verify the retained Chalmers 1996 p.214 quote verbatim; keep the control-law claim
+    framework-relative; do NOT flag the Oquatre self-cite pseudonyms.)
   last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore
     replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
