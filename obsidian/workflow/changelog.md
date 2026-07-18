@@ -5,6 +5,15 @@ ai_modified: 2026-07-18T04:11:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T05:00:37+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-18
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-4-8, gemini-2-5-pro; all audited `topics/non-temporal-consciousness.md`)
+- **Clusters**: 6 convergent (one 3/3 content–vehicle–subject conflation, one near-3/3 Frischhut mis-framing, four 2/3), 7 singleton, 2 divergent, 2 convergent-but-disputed (selector vacuity, Madhyamaka — the latter untasked)
+- **Tasks upgraded**: 3 (P2→P1: level-conflation taxonomy, active-inference/extensional rival, Schechter & Bayne split-brain). Two already-P1 tasks (cross-article contradiction, co-optation firewall) annotated as convergent.
+- **Tasks deduplicated**: 0 hard deletes (each task carried distinct actionable strands); Frischhut strand consolidated from the taxonomy task into the P1 co-optation task by pointer to avoid same-file double-editing.
+- **Output**: [[reviews/outer-review-synthesis-2026-07-18]]
+
 ## 2026-07-18 04:49 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (hostile referee)
