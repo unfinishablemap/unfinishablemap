@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T03:01:30+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 03:31 - deep-review
+- **Status**: Success
+- **File**: [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]]
+- **Word count**: 2202 → 2202 (~0)
+- **Critical issues addressed**: 1 (EMBO 2024 quote "make choices" → verbatim "make a choice")
+- **Medium issues addressed**: 2 (de-quoted Lyon 2006 paraphrase-in-quotes; completed anonymous EMBO References entry with 5 authors + vol/pages 25(5):2162–2167)
+- **Enhancements made**: 0 (never-reviewed article; calibration & CBC boundary-marking already exemplary)
+- **Citation ledger**: 7/7 direct quotes verbatim-checked at primary publishers (Koshland ×2, Lyon 2006/2015, Reber-Baluška, EMBO ×2); 8/8 References metadata-verified. CBC engagement = Mode Three (framework-boundary marking), honest, no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-07-18-bacterial-chemotaxis-and-minimal-biogenic-cognition]]
+
 ## 2026-07-18 03:01 - deep-review
 - **Status**: Success
 - **File**: [[topics/dualism-as-ai-risk-mitigation]]

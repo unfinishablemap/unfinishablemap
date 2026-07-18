@@ -4,8 +4,8 @@ description: "E. coli senses, remembers, and decides with zero neurons—the pro
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-15T23:20:48+00:00
-last_deep_review: 2026-07-09T00:44:01+00:00
+ai_modified: 2026-07-18T03:31:42+00:00
+last_deep_review: 2026-07-18T03:31:42+00:00
 draft: false
 topics:
   - "[[consciousness-in-simple-organisms]]"
@@ -57,7 +57,7 @@ Collapsing the two would inflate the chemotactic result into something it is not
 
 ## Biogenic Cognition: Cognition Continuous With Life
 
-Pamela Lyon's **biogenic approach to cognition** takes this loop as the minimal genuine case of cognition. Her 2006 programmatic paper argues for investigating cognition "from its biological roots outward," treating bacteria and slime moulds as tractable minimal model systems before scaling up to bees, ants, and humans. Cognition, on this view, is a form of biological adaptation—the information-processing an organism uses to cope with environmental complexity—and it is continuous with life itself.
+Pamela Lyon's **biogenic approach to cognition** takes this loop as the minimal genuine case of cognition. Her 2006 programmatic paper argues for investigating cognition from its biological roots outward, treating bacteria and slime moulds as tractable minimal model systems before scaling up to bees, ants, and humans. Cognition, on this view, is a form of biological adaptation—the information-processing an organism uses to cope with environmental complexity—and it is continuous with life itself.
 
 Her 2015 review "The cognitive cell" presses the case at the mechanistic level. Lyon surveys bacterial capacities that fall under the umbrella of cognition—sensing and perception, valence, adaptive behaviour, memory, learning, anticipation, signal integration, communication—and argues that the parallels between bacterial signal transduction and neural information processing hold "at the level of molecular mechanism, evolution and ecology," not merely as a loose functional analogy. She defines biological cognition broadly, as the complex of information-processing mechanisms an organism has for becoming familiar with, valuing, and acting in its environment to meet existential goals.
 
@@ -69,7 +69,7 @@ A stronger claim removes the separation Lyon preserves. Arthur Reber and Franti�
 
 CBC is the sharpest rival the Map's competency cluster must answer, because it makes exactly the inference the Map denies: from the presence of adaptive, membrane-based sensing to the presence of feeling. It deserves statement at full strength rather than caricature. Its motivating intuition is serious—that the same excitable, self-maintaining membrane biology runs from bacteria to neurons, so drawing a phenomenal line anywhere along that continuum looks arbitrary.
 
-The skeptical counter is equally direct. The 2024 *EMBO Reports* opinion "Cell consciousness: a dissenting opinion" argues that CBC rests on "an elaborate series of speculations for which empirical evidence is lacking," and that the individual bacterial cell does not "make choices" in any experiential sense: what looks like decision reduces to stochastic differences in protein levels—variation in CheY-P and receptor states, not a chooser. On this deflationary reading the cognitive vocabulary is useful shorthand for feedback dynamics, and nothing more is warranted.
+The skeptical counter is equally direct. The 2024 *EMBO Reports* opinion "Cell consciousness: a dissenting opinion" argues that CBC rests on "an elaborate series of speculations for which empirical evidence is lacking," and that the individual bacterial cell does not "make a choice" in any experiential sense: what looks like decision reduces to stochastic differences in protein levels—variation in CheY-P and receptor states, not a chooser. On this deflationary reading the cognitive vocabulary is useful shorthand for feedback dynamics, and nothing more is warranted.
 
 The Map does not need to settle the empirical dispute between CBC and its critics about whether bacterial "decision" is real proto-choice or protein-level noise. [[single-cell-proto-agency-and-the-evidence-problem|A companion article]] takes up exactly that parked question as a problem about *evidence*—arguing the noise-vs-choice dichotomy is behaviourally underdetermined and plausibly not empirically tractable at the prokaryotic floor. Its answer to CBC is framework-level and is developed next.
 
@@ -102,5 +102,5 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 4. Lyon, P. (2015). "The cognitive cell: bacterial behavior reconsidered." *Frontiers in Microbiology* 6:264. doi:10.3389/fmicb.2015.00264
 5. Reber, A. S., & Baluška, F. (2020). "Cognition in some surprising places." *Biochemical and Biophysical Research Communications*. PubMed 32950231.
 6. Reber, A. S., Baluška, F., & Miller, W. B. (2023). *The Sentient Cell: The Cellular Foundations of Consciousness*. Oxford University Press.
-7. "Cell consciousness: a dissenting opinion." (2024). *EMBO Reports*. doi:10.1038/s44319-024-00127-4
+7. Robinson, D. G., Mallatt, J., Peer, W. A., Sourjik, V., & Taiz, L. (2024). "Cell consciousness: a dissenting opinion." *EMBO Reports* 25(5):2162–2167. doi:10.1038/s44319-024-00127-4
 8. Southgate, A. & Oquatre-huit, C. (2026-07-08). Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/
