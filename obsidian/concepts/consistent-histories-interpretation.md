@@ -4,7 +4,7 @@ description: "Consistent (decoherent) histories: an observer-free, no-collapse, 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-17T06:36:00+00:00
+ai_modified: 2026-07-18T12:46:00+00:00
 draft: false
 topics:
   - "[[qm-interpretations-beyond-many-worlds]]"
@@ -85,7 +85,7 @@ The Map's distinctive question is whether the [Dowker–Kent set-selection gap](
 
 - *Framework selection*—which sample space, or descriptive context, one adopts. This is what CH leaves open, and Griffiths insists it changes nothing in the world.
 - *History selection*—which single history in a family is the actual one. CH treats this as a matter of Born-rule chance.
-- *Outcome selection*—why this definite result rather than another. This is the measurement problem's demand, and what the Map's consciousness-linked reading is really about.
+- *Outcome selection*—why this definite result rather than another. This is the measurement problem's demand, and what the Map's consciousness-linked reading is really about. The [[post-decoherence-selection|post-decoherence selection]] concept page sets these apart as four distinct loci—adding preferred-basis selection to the three above—and locates the Map's consciousness claim at outcome selection specifically.
 
 The gap CH exhibits sits at the level of *framework* (context) selection, whereas the measurement-problem parallel the Map cares about is *outcome* selection. Because Griffiths holds that framework choice does not influence reality, even a consciousness-selected framework would be at most context-selection—which the Map's own [[tenets|tenets]] treatment subordinates to outcome selection. So the parallel is best read as a disanalogy: in the measurement problem an outcome *is* needed and unexplained, whereas CH claims no framework selection is needed at all. To turn the affinity into an argument, the Map would have to earn a foundational move CH denies—that some selection is needed and that consciousness supplies it. That move is not available inside CH's own framework, where the single-framework rule and framework-conditional probabilities coherently deny the need; the disagreement is a framework-boundary one, and is honestly noted as such rather than presented as a result CH underwrites. The Map registers the affinity, treats framework-dependence as an open seam rather than a hidden endorsement of dualism, and mirrors the cautious [[quantum-darwinism-and-consciousness|outcome-gap reading of quantum Darwinism]] without claiming CH shares its ontology.
 
@@ -96,6 +96,7 @@ The gap CH exhibits sits at the level of *framework* (context) selection, wherea
 - [[decoherence|Decoherence]] — what typically makes quasiclassical families consistent
 - [[concepts/many-worlds|The Many-Worlds Interpretation]] — the single-world rival CH also rejects
 - [[quantum-darwinism-and-consciousness]] — a neighbouring decoherence-based account and its outcome gap
+- [[post-decoherence-selection]] — the four-loci concept page distinguishing framework, history, and outcome selection, where the Map locates consciousness
 - [[completeness-in-physics-under-dualism|Completeness in Physics Under Dualism]] — the third-person/first-person gap CH gives a formal instance of
 - [[wavefunction-realism-vs-primitive-ontology|Wavefunction Realism versus Primitive Ontology]] — the ontology dispute beneath every interpretation: is `Ψ` a real high-dimensional field or a law over 3D matter?
 

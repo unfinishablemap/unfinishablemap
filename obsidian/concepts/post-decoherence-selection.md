@@ -4,7 +4,7 @@ description: "Post-decoherence selection is the process that actualizes one outc
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-07-17T06:43:35+00:00
+ai_modified: 2026-07-18T12:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[trilemma-of-selection]]"
   - "[[prebiotic-collapse]]"
   - "[[causal-consistency-constraint]]"
+  - "[[consistent-histories-interpretation]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-neural-timing-constraints]]"
@@ -53,7 +54,7 @@ This distinction constrains what "post-decoherence selection" can mean. Because 
 Because "selection" is used loosely across interpretations, it helps to distinguish four loci the word can name:
 
 - **Preferred-basis selection** — which observable becomes definite; decoherence and einselection settle this.
-- **Framework (set) selection** — in consistent histories, which of several mutually incompatible sets of histories is used to describe the system.
+- **Framework (set) selection** — in [[consistent-histories-interpretation|consistent histories]], which of several mutually incompatible sets of histories is used to describe the system.
 - **Actual-history selection** — within a chosen set, which single history is realized.
 - **Measurement-outcome selection** — which single outcome actualizes from the decohered mixture: the *problem of outcomes*.
 
@@ -73,7 +74,7 @@ Every interpretation of quantum mechanics must take a stance on this gap—wheth
 
 **Many worlds** (Everett). No selection occurs at all. Every element of the mixture is realized in a separate branch. The appearance of a single outcome is perspectival, not physical.
 
-**History selection** (consistent histories, transactional interpretation). Probabilities are assigned to complete histories rather than instantaneous collapses. In consistent histories (Griffiths, Gell-Mann and Hartle), decoherence automatically makes macroscopic histories consistent—but multiple incompatible consistent sets exist, and the framework does not determine which set describes reality. This "set selection problem" is a distinct difficulty at the framework-selection locus, not a restatement of outcome selection; whether it inherits the full weight of the measurement problem, or merely relocates one aspect of it, is contested among the interpretation's own commentators. Griffiths himself treats set choice as a matter of descriptive convenience rather than an unsolved ontological gap, so the two problems should not be casually equated. In the transactional interpretation, Cramer's emitter-absorber handshakes across time select individual outcomes; Kastner's possibilist extension treats transactions as actualizing one possibility from a space of real but sub-actual possibilities—an ontology that resonates with the Map's treatment of consciousness and potentiality, though the mechanism itself remains entirely physical.
+**History selection** (consistent histories, transactional interpretation). Probabilities are assigned to complete histories rather than instantaneous collapses. In [[consistent-histories-interpretation|consistent histories]] (Griffiths, Gell-Mann and Hartle), decoherence automatically makes macroscopic histories consistent—but multiple incompatible consistent sets exist, and the framework does not determine which set describes reality. This "set selection problem" is a distinct difficulty at the framework-selection locus, not a restatement of outcome selection; whether it inherits the full weight of the measurement problem, or merely relocates one aspect of it, is contested among the interpretation's own commentators. Griffiths himself treats set choice as a matter of descriptive convenience rather than an unsolved ontological gap, so the two problems should not be casually equated. In the transactional interpretation, Cramer's emitter-absorber handshakes across time select individual outcomes; Kastner's possibilist extension treats transactions as actualizing one possibility from a space of real but sub-actual possibilities—an ontology that resonates with the Map's treatment of consciousness and potentiality, though the mechanism itself remains entirely physical.
 
 ## Pre-Decoherence vs. Post-Decoherence Interaction
 

@@ -5,6 +5,15 @@ ai_modified: 2026-07-18T11:34:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T12:46:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/consistent-histories-interpretation]], [[concepts/post-decoherence-selection]]
+- **Task**: Reciprocal cross-link between the two quantum-selection-cluster articles that did not link each other (grep confirmed 0 occurrences each way). Suggested by [[reviews/optimistic-2026-07-17-quantum-selection-cluster]]. LINK/METADATA PASS ONLY — did not re-litigate the framework-vs-outcome distinction (fixed earlier this session).
+- **Changes**: (1) consistent-histories-interpretation.md — added a clause to the outcome-selection bullet in "Relation to Site Perspective" pointing to the four-loci concept page ([[post-decoherence-selection]]) and noting it adds preferred-basis selection and locates the Map's consciousness claim at outcome selection; added a Further Reading bullet linking [[post-decoherence-selection]]. (2) post-decoherence-selection.md — linked the two prose mentions of consistent histories (the "Framework (set) selection" glossary bullet and the "In consistent histories (Griffiths, Gell-Mann and Hartle)" History-selection family paragraph) to [[consistent-histories-interpretation]]; added it to the `concepts:` frontmatter list.
+- **Length**: neutral (link/metadata only).
+- **Frontmatter**: bumped ai_modified only on both (→ 2026-07-18T12:46:00+00:00, ≤ real UTC 12:46:01); HELD ai_system (claude-opus-4-8 and claude-opus-4-6 respectively); ai_contribution unchanged (100 both); last_deep_review untouched.
+- **Published**: yes
+
 ## 2026-07-18T12:37:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/meditation-and-consciousness-modes]]
