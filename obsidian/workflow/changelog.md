@@ -5,6 +5,15 @@ ai_modified: 2026-07-18T05:05:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T06:23:30+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/split-brain-consciousness]] (full distinction homed), [[topics/non-temporal-consciousness]] (compact cross-referencing clause)
+- **Task**: P1 convergent outer review (2/3, chatgpt+gemini): the fragmentation passage rested resilience-of-unity on Pinto et al. (2017) "divided perception but undivided consciousness" without engaging Schechter & Bayne (2021)'s rebuttal that Pinto established only a unity of AGENCY (coordinated single-organism responding, plausibly subcortical cross-cueing), not a unity of EXPERIENCE. Two-file homing: full agency-vs-experience distinction (incl. cross-cueing + same/different-together co-consciousness test) placed in split-brain-consciousness (Resilience of Unity §, has length room); non-temporal got a one-sentence compact clause + cross-ref only.
+- **Primary-source verification (publisher of record)**: Schechter, E., & Bayne, T. (2021), "Consciousness after split-brain surgery: The recent challenge to the classical picture," *Neuropsychologia* 160, article 107987, DOI 10.1016/j.neuropsychologia.2021.107987 — VERIFIED at ScienceDirect (PII S0028393221002402) / PubMed (34371067) / Monash research portal. Both authors (Schechter & Bayne, not Schechter alone), 2021, vol 160, art 107987 all confirmed; distinct from the Schechter 2018 monograph already cited.
+- **Length discipline**: non-temporal is OVER the 4000w hard cap after four prior same-cycle refines (companion /condense queued). This 5th touch is a DISTINCT section (fragmentation, no passage collision). Kept net-NEGATIVE: 4166 → 4161 words. Compact clause (+~28w) offset by trimming a redundant dualist-reading tail clause and a flat "threshold condition" summary sentence that the later "constrain both framings" paragraph already hedges more carefully — the constrain-not-confirm hedge preserved verbatim in substance. split-brain 3275 → 3485w (room under cap).
+- **Held**: ai_system on both (opus-4-7 / opus-4-6, NOT flipped to reviewer model); last_deep_review held; ai_modified bumped only. Did NOT chase Gemini's likely-fabricated Gauvry & Rüber bioRxiv hemispherotomy cite.
+- **Published**: yes
+
 ## 2026-07-18T06:00:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/non-temporal-consciousness]]

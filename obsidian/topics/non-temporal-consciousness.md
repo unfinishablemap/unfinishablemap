@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-07-18T06:00:57+00:00
+ai_modified: 2026-07-18T06:23:30+00:00
 draft: false
 last_deep_review: 2026-07-18T05:05:10+00:00
 topics:
@@ -105,9 +105,9 @@ The article takes a middle path. The *minimal subject* response (Zahavi's neo-Hu
 
 If consciousness has a non-temporal ground, what happens when it apparently fragments? Split-brain cases, anaesthesia, and dissociative disorders produce conditions where unified experience fractures — or seems to. For dedicated treatment, see [[split-brain-consciousness]].
 
-Two features of the fragmentation data are telling. The *resilience of unity*: even with the corpus callosum severed, consciousness does not cleanly divide; Pinto et al. (2017) find "divided perception but undivided consciousness" in callosotomy patients. The *incompleteness of fragmentation*: Lewis et al. (2012) observed that propofol-induced unconsciousness disrupts integration but eliminates consciousness entirely rather than producing multiple diminished streams (Mashour, 2012). These patterns suggest integration is a threshold condition for consciousness to interact with the brain, rather than what constitutes consciousness.
+Two features of the fragmentation data are telling. The *resilience of unity*: even with the corpus callosum severed, consciousness does not cleanly divide; Pinto et al. (2017) find "divided perception but undivided consciousness" in callosotomy patients — though Schechter and Bayne (2021) contend this establishes only a unity of *agency* (coordinated single-organism responding, plausibly via subcortical cross-cueing), not a unity of *experience*, a distinction [[split-brain-consciousness]] develops. The *incompleteness of fragmentation*: Lewis et al. (2012) observed that propofol-induced unconsciousness disrupts integration but eliminates consciousness entirely rather than producing multiple diminished streams (Mashour, 2012).
 
-For the non-temporal thesis, fragmentation poses a specific problem: if consciousness has a non-temporal ground constituting temporal experience, fragmenting the physical substrate shouldn't fragment consciousness — only disrupt the *interface* through which it expresses itself temporally, on the dualist reading where the brain hosts an integrated substrate for a non-physical mind.
+For the non-temporal thesis, fragmentation poses a specific problem: if consciousness has a non-temporal ground constituting temporal experience, fragmenting the physical substrate shouldn't fragment consciousness — only disrupt the *interface* through which it expresses itself temporally.
 
 The accommodation does not run only one way. A production or identity theorist has a structurally parallel move: the resilience of unity reflects redundant integration in a substrate that *produces* consciousness, and the propofol case shows integration failing all at once because the production threshold is global. The anaesthesia and split-brain data therefore *constrain* both framings rather than confirming the interface reading over its rival: they rule out any account on which consciousness divides cleanly with the substrate — a wider target than the non-temporal thesis alone — without favouring the interface picture over a production theory that accommodates the same observations.
 
