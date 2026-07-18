@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T00:46:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 01:13 - deep-review
+- **Status**: Success (2 James verbatim-quote fixes + 1 citation orphan resolved)
+- **File**: [[topics/panpsychisms-combination-problem]]
+- **Word count**: ~2050 → ~2055 (well under topics/ 3000 soft threshold; length-neutral)
+- **Critical issues addressed**: 3 (James "shut in *its* own skin" singular; "hundred-and-first feeling" not "101st"; Turausky 2012 inline→References orphan)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Turausky reference added)
+- **Primary lens**: James verbatim quote-fidelity at psychclassics.yorku.ca (Principles 1890, Mind-Stuff chapter). The 2026-07-09 review was a metadata no-op that never verbatim-checked the quotes; six prior reviews ratified the two errors. First genuine publisher-of-record pass on the citation surface: James/Chalmers 2017/Coleman/Lewtas/Miller all real-correct at publishers; "the most peculiar puzzle" fabricated-quote hazard NOT present. Framework-relative discipline intact (problem CONSTRAINS panpsychism, does not ESTABLISH dualism); no possibility/probability slippage. Both stamps bumped; ai_system held (correcting, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-18-panpsychisms-combination-problem]]
+
 ## 2026-07-18 00:57 - deep-review
 - **Status**: Success (2 critical fixes; corpus family-resolution)
 - **File**: [[concepts/unity-of-consciousness]]
