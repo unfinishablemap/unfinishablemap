@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-06-24T22:42:59+00:00
+last_deep_review: 2026-07-18T08:52:38+00:00
 ---
 
 Phenomenal experience presents itself as smooth and homogeneous — a pink surface looks uniformly pink, a sustained tone sounds continuous, warmth feels evenly distributed. The physical substrates producing these experiences are discrete: networks of individual neurons firing or not firing, clouds of particles with no intrinsic colour or warmth. The Unfinishable Map's grain mismatch names this structural incompatibility. Unlike the [[knowledge-argument|knowledge argument]] (which identifies an epistemic gap) or [[philosophical-zombies|zombie conceivability]] (which identifies a modal gap), the grain mismatch identifies a property-level incompatibility: homogeneous phenomenal qualities and discrete physical structures cannot be identical because they possess contradictory characteristics.
