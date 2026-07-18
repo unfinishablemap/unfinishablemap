@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-06-20T13:19:23+00:00
+last_deep_review: 2026-07-18T21:27:53+00:00
 coalesced_from:
   - "/topics/eastern-philosophy-consciousness/"
   - "/topics/eastern-metaphysics-integration/"
