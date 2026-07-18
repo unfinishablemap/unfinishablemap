@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-04
 last_curated:
-last_deep_review: 2026-06-04T02:12:02+00:00
+last_deep_review: 2026-07-18T17:51:58+00:00
 ---
 
 Feminist phenomenology investigates how consciousness is lived through a body marked by gender, race, and social position. Its central claim is that experience is never a view from nowhere: the same act of reaching, walking, or perceiving carries the sediment of how a body has been treated and what it has been permitted to do. This tradition is overwhelmingly **anti-Cartesian** — much of it explicitly critiques mind-body dualism as a masculinist abstraction from the lived body — and much of it is **physicalist or enactivist** rather than dualist. The Map presents this honestly: feminist phenomenology is not evidence for dualism, and its leading figures are not crypto-dualists. What it offers the Map is a refined, situated account of embodiment that **constrains and enriches** the [[embodied-consciousness|consciousness-matter interface]] picture without supporting the Map's metaphysics. The genuine point of contact, developed in [Relation to Site Perspective](#relation-to-site-perspective) below, is that the Map's [[interactionist-dualism|interface dualism]] already rejects the *disembodied* Cartesian self that feminists rightly target.
