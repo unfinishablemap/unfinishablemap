@@ -16,7 +16,7 @@ description: Human+AI systematic mapping of how different cognitive limits feel 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 23:25:00+00:00
+last_deep_review: 2026-07-18 09:12:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

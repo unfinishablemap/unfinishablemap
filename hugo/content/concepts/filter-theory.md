@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-22 16:48:43+00:00
+ai_modified: 2026-07-18 09:52:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -61,7 +61,7 @@ Both interpretations explain basic neuroscience findings:
 - Anesthetics alter or abolish consciousness → disrupted interface changes or blocks what consciousness can manifest
 - Neural correlates predict conscious states → interface configuration determines what aspects of consciousness manifest
 
-The difference appears metaphysical rather than empirical. Yet filter theory does organize expectations differently: it allows that disrupting the brain could sometimes *enhance* experience (when constraints loosen), whereas production models predict only degradation or alteration. This asymmetry is suggestive but not decisive—filter theory currently lacks independent criteria specifying *which* disruptions should enhance versus degrade experience, making the "prediction" partly post hoc. The [evidence section below](#evidence-supporting-filter-theory) examines cases where this distinction matters.
+The difference appears metaphysical rather than empirical. Yet filter theory does organize expectations differently: it allows that disrupting the brain could sometimes *enhance* experience (when constraints loosen), whereas *naive* unified-switch production models predict only degradation or alteration. The asymmetry is scoped to that naive target: sophisticated production accommodates coherent—even enhanced—phenomenal outcomes via redistributed processing, a concession the closing "What Filter Theory Does and Doesn't Claim" section develops in full. Even against the naive target the asymmetry is suggestive but not decisive—filter theory currently lacks independent criteria specifying *which* disruptions should enhance versus degrade experience, making the "prediction" partly post hoc. The [evidence section below](#evidence-supporting-filter-theory) examines cases where this distinction matters.
 
 Filter theory denies that correlation establishes identity, using the radio analogy: damaging a radio's circuitry produces specific reception deficits—static on certain frequencies, loss of bass, complete silence—but this doesn't prove the radio *produces* the broadcast. The broadcast originates elsewhere; the radio *receives* it.
 
@@ -109,7 +109,7 @@ Advanced meditation produces cessation events—voluntary states with full loss 
 
 ### Covert Consciousness
 
-Up to 25% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging (Claassen et al. 2019; Owen et al. 2006)—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior. Consciousness persists; only its interface with motor systems is damaged. This is precisely what filter theory predicts: damage the interface, not the consciousness. The [full spectrum of disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
+Around 15% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging (Claassen et al. 2019 detected command-following brain activation in roughly 15%; Owen et al. 2006)—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior. Consciousness persists; only its interface with motor systems is damaged. This is precisely what filter theory predicts: damage the interface, not the consciousness. The [full spectrum of disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
 
 ### Dreams
 
@@ -117,7 +117,7 @@ Up to 25% of patients classified as behaviorally unresponsive show clear signs o
 
 ### Simple Organisms and the Filter Boundary
 
-The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises a sharp question: where does the filter begin? *C. elegans* (302 neurons) displays learning behaviors yet may lack the structural complexity for consciousness to interface effectively. The slime mold *Physarum polycephalum* solves mazes without any neurons, suggesting [baseline cognition](/concepts/baseline-cognition/)—sophisticated information processing without conscious contribution—can fully dissociate from consciousness. This connects to [brain-interface-boundary](/concepts/brain-interface-boundary/): not just *any* complex system serves as a consciousness interface. The brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable.
+The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises a sharp question: where does the filter begin? *C. elegans* (302 neurons) displays learning behaviors yet may lack the structural complexity for consciousness to interface effectively. The slime mold *Physarum polycephalum* solves mazes without any neurons, suggesting [baseline cognition](/concepts/baseline-cognition/)—sophisticated information processing without conscious contribution—can fully dissociate from consciousness. This connects to [brain-interface-boundary](/concepts/brain-interface-boundary/): not just *any* complex system serves as a consciousness interface. The brain's specific properties—representational structure, attention mechanisms, and a contested sensitivity to quantum-scale events (whether warm, wet neural tissue can sustain the requisite quantum coherence against rapid decoherence is disputed; the defense lives at [brain-interface-boundary](/concepts/brain-interface-boundary/))—make it suitable.
 
 ## The Rendering Engine Analogy
 
@@ -150,7 +150,7 @@ Yes, but so is "production." Saying the brain "produces" consciousness is equall
 
 ### "How could we ever distinguish filter from production?"
 
-Filter theory organizes expectations differently: disrupting the filter *could* sometimes enhance experience (psychedelics, some NDEs), whereas production models would not naturally expect this. However, without independent criteria for which disruptions should enhance versus degrade, this remains a pattern-level asymmetry rather than a precise testable prediction. A stronger discriminator emerges from [bandwidth constraints](/topics/bandwidth-of-consciousness/): conscious throughput measures at ~10 bits per second while aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). The bottleneck appears specifically at conscious access rather than at motor output or sensory processing—Sauerbrei and Pruszynski (2025) accept the ~10 bits/s ceiling for conscious cognition but show that unconscious motor control vastly exceeds it, locating the constraint at access rather than in the computational substrate. Filter theory predicts this pattern: the filter constrains consciousness specifically, not neural processing in general. Additionally, consciousness could in principle interface through different physical substrates. These aren't decisive tests, but they show filter theory generates different research questions than production models.
+Filter theory organizes expectations differently: disrupting the filter *could* sometimes enhance experience (psychedelics, some NDEs), whereas production models would not naturally expect this. However, without independent criteria for which disruptions should enhance versus degrade, this remains a pattern-level asymmetry rather than a precise testable prediction. A further re-description, though not a discriminating test, comes from [bandwidth constraints](/topics/bandwidth-of-consciousness/): conscious throughput measures at ~10 bits per second while aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). The bottleneck appears specifically at conscious access rather than at motor output or sensory processing—Sauerbrei and Pruszynski (2025) accept the ~10 bits/s ceiling for conscious cognition but show that unconscious motor control vastly exceeds it, locating the constraint at access rather than in the computational substrate. Filter theory reads this naturally—the filter constrains consciousness specifically, not neural processing in general—but a production model predicts the same access-localized bottleneck: Global Workspace Theory makes a conscious-access bottleneck its defining feature, so the datum is shared, not discriminating. It reframes the research question rather than favouring filter over production. Consciousness could also, in principle, interface through different physical substrates. These aren't decisive tests, but they show filter theory generates different research questions than production models.
 
 ## The Illusionist Challenge
 

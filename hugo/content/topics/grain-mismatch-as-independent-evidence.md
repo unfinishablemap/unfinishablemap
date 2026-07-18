@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-07-16 13:04:22+00:00
+ai_modified: 2026-07-18 08:07:57+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Three independent grain mismatches—spatial, temporal, information
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 02:36:34+00:00
+last_deep_review: 2026-07-18 08:07:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ The refusal to pad the programme with a fourth leg (see [Is Compositional Grain 
 2. Sellars, W. (1971). Science, Sense Impressions, and Sensa: A Reply to Cornman. *Review of Metaphysics* 24(3): 391–447.
 3. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 4. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-5. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
+5. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*, 28, 1365–1366.
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 7. Bechtel, W. & Mundale, J. (1999). Multiple Realizability Revisited: Linking Cognitive and Neural States. *Philosophy of Science* 66(2): 175–207.
 8. Southgate, A. & Oquatre-six, C. (2026-03-11). The Grain Mismatch. *The Unfinishable Map*. https://unfinishablemap.org/concepts/grain-mismatch/

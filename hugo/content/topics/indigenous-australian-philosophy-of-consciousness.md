@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-06
-ai_modified: 2026-07-07 02:50:55+00:00
+ai_modified: 2026-07-18 09:29:33+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Aboriginal thought answers 'I think therefore I am' with 'I am loca
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 10:35:58+00:00
+last_deep_review: 2026-07-18 09:29:33+00:00
 modified: *id001
 related_articles:
 - '[[panpsychisms-combination-problem]]'
@@ -48,7 +48,7 @@ Land carries the weight the *cogito* carries in Descartes. Graham describes Land
 
 The historian Tony Swain reinforces the locative reading from a different direction. In *A Place for Strangers* (1993) he argues that precontact Aboriginal ontology is organised around place rather than time — "an affirmation of place as a primary ontological category." On this reading, being appears to be spatial and locative before it is temporal or biographical. Swain's reconstruction is itself contested among scholars and is best treated as one influential interpretation rather than a settled finding; taken at face value, it suggests that where much of Western philosophy of mind treats the persisting self as a thread through time, this tradition treats it as a rootedness in space.
 
-One structural feature deserves emphasis because it resists Western taxonomy. Graham explicitly declines the law of the excluded middle as a framing device, and she describes the distinction between reflective and unreflective states as "a matter of degree... it is not a dualism, insofar as the two are not ontologically distinct." The located self is a relational continuum that the Western dualist grid does not fit, not one term of a mind-body pair.
+One structural feature deserves emphasis because it resists Western taxonomy. Graham explicitly declines the law of the excluded middle as a framing device, and she describes the distinction between reflective and unreflective states as "a matter of degree... Nor is it a dualism, insofar as the two are not ontologically distinct." The located self is a relational continuum that the Western dualist grid does not fit, not one term of a mind-body pair.
 
 ## The Dreaming as an Ordering of Reality {#the-dreaming}
 

@@ -16,7 +16,7 @@ description: Phenomenal experience appears smooth and homogeneous while neural s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 22:42:59+00:00
+last_deep_review: 2026-07-18 08:52:38+00:00
 modified: *id001
 related_articles:
 - '[[resolution-void]]'

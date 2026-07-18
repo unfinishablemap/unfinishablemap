@@ -16,7 +16,7 @@ description: 'How interactionist dualism reshapes the theory of action: a human-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 09:43:18+00:00
+last_deep_review: 2026-07-18 09:47:38+00:00
 modified: *id001
 related_articles:
 - '[[overdetermination-dissolution-under-selection-only-interactionism]]'

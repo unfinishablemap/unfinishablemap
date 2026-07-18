@@ -19,7 +19,7 @@ description: 'E.J. Lowe''s four-category ontology grounds substance causation: s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 23:16:54+00:00
+last_deep_review: 2026-07-18 08:22:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

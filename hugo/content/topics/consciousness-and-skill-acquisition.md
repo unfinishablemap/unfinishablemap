@@ -38,7 +38,7 @@ description: Skill acquisition challenges epiphenomenalism—deliberate practice
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 01:48:24+00:00
+last_deep_review: 2026-07-18 11:18:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

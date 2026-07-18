@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-24 13:07:16+00:00
+ai_modified: 2026-07-18 08:56:22.856035+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,11 @@ date: &id001 2026-01-15
 description: Vivid conscious experiences during cardiac arrest challenge brain-production
   models. Filter theory offers an alternative, though with acknowledged limitations.
 draft: false
+embedded_videos:
+- embedded: 2026-07-18 08:56:22.856035+00:00
+  id: FzC__kleatA
+  source: notebooklm/0094-01-near-death-experiences
+  url: https://www.youtube-nocookie.com/embed/FzC__kleatA
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-24 13:07:16+00:00
@@ -41,6 +46,12 @@ topics:
 Near-death experiences (NDEs) are vivid cognitive events whose prevalence depends on definition and study design. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reporting NDEs. AWARE II (Parnia et al. 2023) found that among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported some form of conscious awareness during arrest—though this figure reflects a self-selected sample and cannot be generalized to all survivors. A 2022 multidisciplinary consensus established standardized terminology ("Recalled Experience of Death"), followed by multi-site prospective studies and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people recall, on returning, heightened and coherent experiences they place during the arrest period—when brain function should be deeply compromised (whether the experiences occurred during arrest or were constructed during recovery is itself contested; see the gamma-surge timing discussion below). This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports The Unfinishable Map's [Dualism](/tenets/#dualism) and [Occam's Razor Has Limits](/tenets/#occams-limits) tenets.
 
 The evidence is contested but cannot be easily dismissed. Van Lommel's landmark 2001 study found only 18% of cardiac arrest survivors reported NDEs—paradoxical if NDEs are purely physiological responses to anoxia, since nearly all patients experienced the same physiological state. Something distinguishes experiencers from non-experiencers, and that something remains incompletely explained—though recall bias (recall is independently known to be selective) and unmeasured physiological variation are sufficient mundane candidates.
+
+<details class="yt-embed" data-video-id="FzC__kleatA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/FzC__kleatA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Recalled Experience of Death
 

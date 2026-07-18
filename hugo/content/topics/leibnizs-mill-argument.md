@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-06-25 00:00:00+00:00
+ai_modified: 2026-07-18 10:01:53+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -55,6 +55,8 @@ Leibniz's reasoning can be reconstructed as follows:
 
 The power of the argument lies in its vividness. It doesn't merely assert that physical explanations fail; it invites us to imaginatively verify this failure. Walk through the mill. Look around. Where is the experience?
 
+The absence claim carries two readings that the argument must keep distinct. On the *epistemic* reading, inspection does not reveal perception to the walker—a fact about what observation discloses. On the *metaphysical* reading, perception is not constituted by the parts and their interactions—a fact about what perception is. The conclusion in step 4 needs the metaphysical reading, but the mill walk delivers only the epistemic one. Whether inspection-failure licenses constitution-failure is the argument's real hinge, and it is exactly the point a physicalist contests (see [the knowledge objection](#materialist-responses) below).
+
 ## From Mills to Brains
 
 Modern neuroscience has given us extraordinary detail about the brain's "mill." We can map neural circuits, track electrochemical signals, measure blood flow with millimeter precision. Yet the challenge Leibniz posed persists. Examining neurons—even at molecular or quantum scales—reveals only physical processes: ions crossing membranes, neurotransmitters binding receptors, action potentials propagating down axons. The [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) traces how Leibniz's arguments shaped subsequent debates and how quantum mechanics reopened questions he thought closed.
@@ -75,7 +77,9 @@ Leibniz's Mill stands at the head of a lineage of anti-materialist arguments tha
 
 **The [zombie argument](/concepts/philosophical-zombies/)** extends the mill in a different direction. If walking through the mill reveals only mechanism, we can conceive of the mechanism operating without any accompanying experience—a philosophical zombie. The mill makes conceivability vivid: nothing you would find inside demands that perception be present.
 
-The [cumulative case against materialism](/topics/arguments-against-materialism/) draws its strength from this convergence across centuries and logical structures, and Leibniz's Mill is where the tradition begins.
+**Nagel's bat** (1974) fixes the same difficulty from the side of objectivity. The subjective character of experience—what it is like for the organism—escapes any account framed in the objective, third-person terms that physical inspection supplies. Where the mill-walker finds no perception among the parts, Nagel finds no point of view in the objective description, however complete; both locate the gap at the boundary between structural description and felt perspective.
+
+The [cumulative case against materialism](/topics/arguments-against-materialism/) draws its strength from this convergence across centuries and logical structures, and Leibniz's Mill is where the tradition begins. That convergence must be weighed honestly, however. Because each successor shares the mill's core premise—that physical inventory does not yield experience—their agreement is not the concordance of fully independent lines of evidence. It is better read as successive sharpenings of one insight: each adds apparatus the mill lacked (Jackson's epistemic framing, Chalmers' conceivability machinery, Levine's demand for explanatory transparency, Nagel's objectivity constraint) rather than reaching the conclusion from untouched premises. What the successors contribute is precision about where and why the gap resists closure, not five independent confirmations of a single verdict.
 
 ## Why the Argument Endures
 
@@ -83,7 +87,7 @@ Several features make Leibniz's Mill more than a historical curiosity:
 
 **It targets all physical explanations, not just primitive ones.** The argument works whether the machine runs on gears, vacuum tubes, or quantum computers. The level of sophistication is irrelevant; what matters is that physical description, however detailed, consists entirely of parts and their interactions.
 
-**It doesn't require dualist premises.** The argument starts from materialist assumptions—suppose there were a machine that could perceive—and derives a problem for materialism from within.
+**It does not explicitly invoke a dualist ontology.** The argument starts from a materialist supposition—suppose there were a machine that could perceive—and reaches a problem for materialism without naming dualism as a premise. This neutrality is qualified, however. The absence claim presupposes that perception is not identical to any arrangement of the parts, and physicalists reject exactly that, identifying perception with the organised activity viewed from inside. So the argument does not so much derive the problem *from within* materialism as expose the point at which materialist and non-identity intuitions diverge.
 
 **It appeals to a clear intuition.** The thought experiment invites verification. We don't need to accept Leibniz's metaphysics to feel the force of the question: where, among all those parts, is the perception?
 
@@ -105,7 +109,7 @@ The computation analogy is seductive but misleading. Computation *is* fully capt
 
 **The knowledge objection**: Our inability to find perception by inspecting parts reflects our limited epistemic position, not an ontological gap. A more complete science might bridge the gap.
 
-This is possible in principle but amounts to promissory materialism. Until the explanation is actually provided, the gap remains. And the mill argument suggests a principled barrier: no matter how complete our physical knowledge, it will consist entirely of parts and their interactions—precisely what Leibniz claimed cannot explain perception.
+This is possible in principle but amounts to promissory materialism. Until the explanation is actually provided, the gap remains. The mill argument presses further, suggesting a principled barrier: no matter how complete our physical knowledge, it will consist entirely of parts and their interactions. Whether that structural fact about physical description entails that perception cannot be *constituted* by those interactions—rather than merely not *disclosed* by inspecting them—is the contested step, not a settled premise. The physicalist reads the barrier epistemically: we have not yet found the constituting arrangement. The argument reads it metaphysically: no arrangement could constitute felt quality. At this point the two sides face a standoff of intuitions about whether inspection-failure tracks constitution-failure, and the mill does not by itself break it. What Leibniz claimed cannot explain perception is here the thesis in dispute, not a premise the physicalist has granted.
 
 ## The Argument and Functionalism
 
@@ -133,7 +137,7 @@ Leibniz's Mill supports several of the Map's [tenets](/tenets/):
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Leibniz himself denied mind-body interaction, preferring pre-established harmony. The Map disagrees. But the mill argument is compatible with interactionist dualism: if perception is not reducible to mechanism, it may nonetheless influence mechanism at points where physics leaves outcomes undetermined—precisely the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) the Map proposes.
 
-The mill argument is the historical origin of what has become a converging family of anti-materialist arguments. The [knowledge-argument](/concepts/knowledge-argument/), the [zombie argument](/concepts/philosophical-zombies/), arguments from [qualia](/concepts/qualia/), and the [explanatory-gap](/concepts/explanatory-gap/) all elaborate what Leibniz first identified in the mill. Each approaches the question from a different angle; their convergence strengthens the [cumulative case against materialism](/topics/arguments-against-materialism/). That independent thinkers across three centuries—Leibniz, Levine, Jackson, Nagel, Chalmers—arrived at the same conclusion through different routes is itself significant. The [convergence of independent lines of evidence](/concepts/phenomenological-evidence/#convergence) is a pattern the Map takes seriously as an [evidential category](/topics/epistemology-of-convergence-arguments/).
+The mill argument is the historical origin of what has become a converging family of anti-materialist arguments. The [knowledge-argument](/concepts/knowledge-argument/), the [zombie argument](/concepts/philosophical-zombies/), arguments from [qualia](/concepts/qualia/), and the [explanatory-gap](/concepts/explanatory-gap/) all elaborate what Leibniz first identified in the mill. Each approaches the question from a different angle, and each adds apparatus the mill lacked. But as the Historical Lineage section conceded, they also share the mill's core premise, so their agreement is convergence in the weaker sense of successive corroboration and sharpening rather than the concordance of wholly independent lines. That thinkers across three centuries—Leibniz, Nagel, Levine, Jackson, Chalmers—reached the same conclusion is still significant, because the successors introduce genuinely new machinery on the way; but the shared premise discounts their independent evidential weight, and honesty about that discount is exactly what the Map's [epistemology of convergence arguments](/topics/epistemology-of-convergence-arguments/) demands. The Map takes convergence seriously as an [evidential category](/concepts/phenomenological-evidence/#convergence) while refusing to double-count a single intuition dressed in several idioms.
 
 ## Further Reading
 

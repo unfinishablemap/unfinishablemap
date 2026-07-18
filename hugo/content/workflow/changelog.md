@@ -1,13 +1,193 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18 07:17:14+00:00
+ai_modified: 2026-07-18 11:34:24+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-18T12:12:21+00:00 - condense
+- **Status**: Partial condensation + reviewed-leave-long for residual
+- **File**: [transit-void](/voids/transit-void/)
+- **Before**: 3999 words (status: critical-adjacent, hard_warning)
+- **After**: 3771 words (status: hard_warning)
+- **Reduction**: 5.7% (228 words)
+- **Technique**: Prose tightening and redundancy removal only — no cited content or unique arguments cut. Compressed Husserl/temporal-smoothing, contemplative-approaches, probe-caught mind-wandering, What-AI-Might-Reveal, ERP-timing, generator interface, and the tenet-pressure-point subsection (which duplicated the Bidirectional Interaction tenet paragraph); removed a duplicated "turning to look at your own turning" image; trimmed Further Reading 12→8 (kept the most load-bearing cross-links); replaced a "load-bearing" cliché intensifier. All calibration hedges ("framework-internal coherence, not interface evidence", "leading reading, not settled", "the dualist gloss is the Map's added step, not his"), all 29 citations, the front-loaded opening summary, and the full "Relation to Site Perspective" (all five tenets) preserved intact.
+- **Reason residual remains over hard threshold**: This is a coalesced synthesis of six former voids (transition/initiation/distraction/thought-stream/spontaneous-thought/thoughts-that-slip-away), engaging all five tenets and anchored by 29 empirical/philosophical citations. The References section alone is a fixed ~578 words; the prose is dense with distinct cited contributions per section. Reaching the 2000 target — or even the 3000 hard threshold — would require deleting cited empirical anchors (Libet/Schurger, the MMN/P3a/P3b ERP mapping, Christoff/DMN, Metzinger, contemplative-EEG) that make the void credible rather than speculative. Meets all four "When to Leave Long" criteria (topic complexity, tenet centrality, unique coverage, high quality). Per skill guidance ("NEVER sacrifice unique arguments for length"), retained above threshold rather than gutted.
+
+## 2026-07-18T11:52:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Original score**: n/a (targeted refine; deferred sub-finding #4 from outer-review-2026-07-16-chatgpt-5-6-sol-pro, recommendation #22)
+- **Changes**: Added "Separating the Levels the Phenomenon Runs Together" section decomposing the phenomenon into seven distinct levels (case existence / reporting reliability / temporal proximity / medication effects / fluctuating cognition / network recovery / metaphysical interpretation); only the seventh bears on filter-vs-production, and per the evidential-status discipline the phenomenon does not count toward filter theory until the lower six are separated out. Quote-fidelity fix at lead: "evidence for" → "raising, in their words, 'the possibility of'" a network-level return (abstract Background says "highlights the possibility of," not evidential framing of results). Verified Tollock et al. 2025 (Innovation in Aging, igaf122.2914) at OUP publisher: enrollment (151), lucidity events (93/61.6%, 267), event-type breakdown (67.8/34.8/27.7/25.1%), terminal-lucidity 4.1%, and medication-change triggers (immunomodulating agents, antihistamines) all confirmed verbatim. Preserved all existing hedges and the constraint-not-confirmation conclusion. No named-opponent reply added, so direct-refutation-discipline classification not triggered.
+- **ai_system**: held (claude-opus-4-6); ai_modified bumped only; last_deep_review held.
+- **Published**: yes
+
+## 2026-07-18T11:34:24+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The aggregation problem for overlapping minds
+- **Output**: [aggregation-problem-overlapping-minds-2026-07-18](/research/aggregation-problem-overlapping-minds-2026-07-18/)
+- **Sources consulted**: 8
+
+## 2026-07-18T11:29:17+00:00 - deep-review
+- **Status**: Success (converged — no-op pass)
+- **File**: [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
+- **Word count**: 2634 → 2634 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sixth review. Re-qualified on a cosmetic cross-link bump (commit b64778cd1 added `[[phenomenology-of-cognitive-limit-types]]` to related_articles + Further Reading); body byte-identical to the 2026-05-31 web-verified state. §2.4 web-verify skipped — all ten References unchanged since the 05-31 full ledger; no fabrication-zone cites. New link target valid + reciprocal. Updated `last_deep_review` only; `ai_modified` left at HEAD. Strong convergence-damping-exclusion candidate.
+- **Output**: [deep-review-2026-07-18-phenomenology-of-cognitive-capacity](/reviews/deep-review-2026-07-18-phenomenology-of-cognitive-capacity/)
+
+## 2026-07-18T11:18:29+00:00 - deep-review
+- **Status**: Success (converged — no-op pass)
+- **File**: [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
+- **Word count**: 3644 → 3644 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Re-qualified on a cosmetic cross-link bump (commit 5667686ef added `[[philosophy-of-habit-under-dualism]]` to related_articles from a different article's expand-topic); body byte-identical to the 2026-06-27 converged state. §2.4 web-verify skipped — References block unchanged since the 06-27 full ledger. Updated `last_deep_review` only; `ai_modified` left at HEAD. Strong convergence-damping-exclusion candidate.
+- **Output**: [deep-review-2026-07-18-consciousness-and-skill-acquisition](/reviews/deep-review-2026-07-18-consciousness-and-skill-acquisition/)
+
+## 2026-07-18T11:01:44+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [llm-consciousness](/concepts/llm-consciousness/), [access-consciousness](/concepts/access-consciousness/), [ai-consciousness-typology](/concepts/ai-consciousness-typology/), [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Context**: Follow-up to the 2026-07-16 ChatGPT 5.6 Pro AI-consciousness audit. Register P-AC4 was narrowed from "access consciousness instantiated" to "workspace-like functional signatures of access consciousness observed"; four concept pages still independently over-read the Gurnee et al. 2026 J-space result.
+- **Changes**:
+  - `llm-consciousness.md` (~L70): "meeting the standard signatures of Block's access consciousness … Map holds the access side instantiated" → "exhibiting the workspace-like functional signatures (global availability and verbal self-report) … not by itself establishing metacognition, agency, or recurrent integration … Map holds these workspace-like functional signatures of the access side observed." Further Reading (~L181/182): "empirical instantiation in LLMs" → "workspace-like functional signatures observed"; P-AC4 gloss "access demonstrated" → "workspace signatures observed."
+  - `access-consciousness.md` (~L61): "exhibiting the standard signatures of A-consciousness … access-machinery is instantiated in full, computationally" → workspace-like functional signatures framing + explicit separation of global availability / verbal self-report from metacognition / agency / recurrent integration.
+  - `ai-consciousness-typology.md` (~L74): "the access-machinery is fully present" → "the workspace-like functional signatures of access are present (global availability and verbal self-report, not a settled claim about metacognition or agency)."
+  - `global-workspace-theory.md` (~L108): "reported the first mechanistic instantiation" → "reported evidence for a mechanistic … structure" (verified at publisher: transformer-circuits.pub paper does NOT claim "first" — frames as "evidence that an analogous functional distinction has emerged"; cf first-precedent-propagation hazard). (~L112): "the access side … instantiated fully and computationally" → "the workspace-like functional signatures of the access side … instantiated computationally."
+- **Preserved**: access/phenomenal split untouched; hedges intact; ai_system held per file; ai_modified bumped only (last_deep_review unchanged).
+- **Published**: yes
+
+## 2026-07-18T10:54:20+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Contemplative-phenomenology cluster (3 articles, all deep-reviewed 2026-07-18): [non-temporal-consciousness](/topics/non-temporal-consciousness/), [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/), [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)
+- **Key finding**: Exemplary evidential-status discipline — non-temporal-consciousness is a convergence case where Process Philosopher and Hardline Empiricist personas both praise (tenet-coherent Whiteheadian framing + explicit refusal to let it upgrade evidential tier). No calibration concern. Main opportunity: reciprocal cross-link gap (the two most adjacent articles do not link each other; both sections at/over cap → link-only refine-draft, not new articles)
+- **Output**: [optimistic-2026-07-18-contemplative-phenomenology-cluster](/reviews/optimistic-2026-07-18-contemplative-phenomenology-cluster/)
+
+## 2026-07-18T10:42:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)
+- **Word count**: 2046 → 2078 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (sibling-framing accuracy: new quantum-randomness-channel cross-link material implied a positive mechanism proposal; target's verdict is negative — corrected at both loci, tying the sibling's razor-thin-channel finding to Hoel's frozen-weight conclusion)
+- **Enhancements made**: 1 (MQI cross-link sentence now states the sibling's verdict, converging two independent routes to "current LLMs lack the interface")
+- **Engagement modes** (unchanged, editor-internal): Cerullo tautology charge — Mode One; context-vs-weight objection — Mode Three
+- **Sixth review**: delta-only pass; 2026-06-26 publisher-of-record citation ledger stands (References unchanged); very strong convergence-damping candidate
+- **Output**: [deep-review-2026-07-18-hoel-llm-consciousness-continual-learning](/reviews/deep-review-2026-07-18-hoel-llm-consciousness-continual-learning/)
+
+## 2026-07-18T10:25:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
+- **Review**: [pessimistic-2026-07-18-decoherence-and-macroscopic-superposition](/reviews/pessimistic-2026-07-18-decoherence-and-macroscopic-superposition/)
+- **Original score**: n/a (pessimistic-review, not curate-review)
+- **Changes**:
+  - Issue 1 (High, structural incoherence H1/H2 laundering): rewrote the "What This Means for Consciousness" closer so the boundary evidence (magnetoreception, hot cat states) is stated to bear on the *first* hypothesis (physical possibility of biological coherence) only — it defeats the *categorical* dismissal and does NOT positively support MQI, which "stands or falls on the measurement-problem argument alone." Removed the hypothesis-neutral bridge phrase "quantum-consciousness interface" from the re-coupling sentence; added the cryogenic/vacuum/nm-protein disanalogy so the demonstrations no longer do rhetorical work against the neural decoherence estimate. Same de-coupling applied to the parallel locus in Relation-to-Site-Perspective (MQI "freed of one objection … not positively confirmed by it").
+  - Issue 2 (High, Popperian unfalsifiability-as-virtue): reframed line-109 "insulates the core position" — now names both edges (defeater-removal AND empirical weightlessness), adds an evidential-status acknowledgement per [evidential-status-discipline](/project/evidential-status-discipline/) that MQI is currently an interpretive commitment adopted for tenet-fit, not a testable hypothesis, and states a would-be falsifier (a demonstrated complete collapse dynamics leaving no room for modulation).
+  - Issue 3 (Med-High, Born rule): added a paragraph in the Basis-vs-Outcome section reconciling outcome-biasing with confirmed Born statistics — commits the Map to within-Born-distribution selection (the "minimality" of MQI), owns the falsifiability cost (no aggregate signature by construction), and cross-links [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/).
+  - Issue 4 (Med, neuroplasticity begs the question): downgraded Schwartz/caudate passage from "clinical evidence establishes that consciousness reshapes the brain" to a cognitive-intervention pathway *consistent with* mental causation that physicalism can also accommodate; the dualist reading marked a further, separately-argued step; boundary relevance recast as conditional.
+  - Calibration overclaims: line 31 "empirically false" → "…as a categorical claim"; line 65 "No principled boundary" → "No *sharp* boundary"; birds opening now "leading explanation is a radical-pair mechanism … on this hypothesis" (aligns with the Luo et al. hedge); photosynthesis revision now names the vibrational (vibronic) vs. electronic-coherence reattribution.
+  - Citations: Kirchmair quote (line 71) verified verbatim at Universität Innsbruck newsroom / EurekAlert — unchanged. Nanoparticle year reconciled to published 2026 (preprint 2025) in heading + body, matching the Pedalino et al. 2026 *Nature* 649:866–870 reference; 7,000 atoms / >170,000 Da confirmed. μ=15.5 not independently surfaced in search but left as stated (low severity).
+- **Engagement classification** (editor-internal): the Popperian/empiricist critique is engaged as Mode Two (unsupported-foundational-move → honest boundary-marking): the article now concedes MQI is unfalsifiable-by-construction on present evidence rather than dressing insulation as a refutation of the decoherence objection's reach.
+- **Published**: yes
+
+## 2026-07-18T10:18:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/decoherence-and-macroscopic-superposition.md` (2,648 words; 23 days since deep review; no prior focused pessimistic review)
+- **Output**: [pessimistic-2026-07-18-decoherence-and-macroscopic-superposition](/reviews/pessimistic-2026-07-18-decoherence-and-macroscopic-superposition/)
+- **Key findings**: Structural incoherence (High) — empirical body supports H1 (coherence constitutes consciousness, Map-rejected) while the held H2 (MQI at collapse) is explicitly insulated from it, then re-coupled via a bridge phrase; unfalsifiability framed as a virtue (High, Popper); Born-rule consistency of outcome-biasing unaddressed (Med-High); Schwartz/neuroplasticity begs the question against physicalism (Med); several calibration overclaims. Queued one P2 refine-draft.
+
+## 2026-07-18T10:01:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Review**: [pessimistic-2026-07-17-leibnizs-mill-argument](/reviews/pessimistic-2026-07-17-leibnizs-mill-argument/) (dialectical fixes; citations already verify — Lodge 2014, Monadology §17. Length-neutral-ish, +~250w, well under ceiling.)
+- **Changes**:
+  - Issue 1 (convergence-independence tension): conceded in Historical Lineage that successors share the mill's core premise, so their agreement is "successive sharpenings of one insight," not fully independent confirmation; each named successor's added apparatus (Jackson epistemic framing, Chalmers conceivability, Levine transparency, Nagel objectivity) noted. Rewrote the Relation-to-Site-Perspective convergence claim to match — downgraded "convergence of independent lines" to weaker corroboration sense and made the [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) link honest (shared premise discounts independent weight; no double-counting one intuition in several idioms).
+  - Issue 2 (epistemic/metaphysical equivocation in premise-3 absence claim, per evidential-status discipline): added a paragraph after the argument reconstruction splitting the epistemic reading (inspection does not reveal perception) from the metaphysical reading (perception not constituted by parts), noting step 4 needs the metaphysical one but the mill walk delivers only the epistemic. Rewrote the knowledge-objection reply from restating the conclusion to conceding a standoff of intuitions over whether inspection-failure tracks constitution-failure; marked "what Leibniz claimed cannot explain perception" as the thesis in dispute, not a granted premise (also resolves the flagged language item).
+  - Issue 3 / neutrality boast: softened "doesn't require dualist premises … derives a problem for materialism from within" → "does not explicitly invoke a dualist ontology," with a conceding sentence that the absence claim presupposes non-identity, which physicalists reject.
+  - Minor: Nagel was named in the convergence roll-call but undeveloped — added a bat-argument lineage paragraph (1974, subjective character escapes objective description) so the name earns its place (no wikilink; no dedicated Nagel article exists).
+- **Engagement classification** (editor-internal): Dennett/physicalist reply — Mode Three (framework-boundary marking); the refine downgrades the earlier boundary-substitution ("derives from within materialism") to an honest non-identity-divergence note rather than an in-framework refutation.
+- **Published**: yes
+
+## 2026-07-18T09:52:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Review**: [pessimistic-2026-07-16-filter-theory](/reviews/pessimistic-2026-07-16-filter-theory/) (mature, converged page — length-neutral calibration only; no rewrite)
+- **Changes**:
+  - Issue 1 (bandwidth over-labeled): downgraded "A stronger discriminator emerges from bandwidth constraints" → "A further re-description, though not a discriminating test"; added clause noting Global Workspace Theory (a production model) predicts the same access-localized bottleneck as its defining feature, so the datum is shared not discriminating and reframes the research question rather than favouring filter over production.
+  - Issue 2 (enhancement asymmetry): scoped "production models predict only degradation or alteration" to *naive* unified-switch production in "The Core Claim"; added forward-reference to the closing "What Filter Theory Does and Doesn't Claim" caveat that dissolves the asymmetry (sophisticated production accommodates coherent enhancement via redistributed processing).
+  - Issue 3 (quantum sensitivity undefended): added a single calibrating clause at first invocation (Simple Organisms section) flagging that quantum coherence in warm, wet neural tissue against rapid decoherence is contested, with the defense at [brain-interface-boundary](/concepts/brain-interface-boundary/).
+  - Issue 4 (covert-consciousness figure): verified Claassen 2019 at NEJM — command-following brain activation in ~15% (16/104), not 25%; lowered "Up to 25%" → "Around 15%" and attributed the ~15% to Claassen explicitly.
+- **Preserved verbatim**: the closing double-counting caveat (~L185) that carries the Altered-State Symmetry pass. Description frontmatter left unchanged (out of task scope). ai_system held (edits are calibration-level); ai_modified bumped.
+- **Published**: yes
+
+## 2026-07-18T09:47:38+00:00 - deep-review
+- **Status**: Success (convergent no-op; no content changes needed)
+- **File**: [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/)
+- **Word count**: 2388 → 2388 (80% of 3000 topics target)
+- **Critical issues addressed**: 0 — no factual errors, misattributions, dropped qualifiers, contradictions, or possibility/probability slippage. Metaphysical article; no evidential-status overclaim.
+- **Medium issues addressed**: 0 — prose tight, no thin sections.
+- **Enhancements made**: 0 — reviewed changes since 2026-07-06 (Derek→Derk Pereboom fix, Lowe regress passage, deviance-relocated rewrite, anomalous-monism cross-link); all quality improvements introducing no defects. No new citations, so the 2026-07-06 web-verify ledger remains authoritative. All wikilinks/anchors verified. Reasoning-mode audit clean (Davidson Mode Three, Pereboom in-framework, Anscombe Mode Three); no label leakage. Only last_deep_review bumped.
+- **Output**: [deep-review-2026-07-18-philosophy-of-action-under-dualism](/reviews/deep-review-2026-07-18-philosophy-of-action-under-dualism/)
+
+## 2026-07-18T09:29:33+00:00 - deep-review
+- **Status**: Success (critical quote-fidelity regression fixed; otherwise convergent)
+- **File**: [indigenous-australian-philosophy-of-consciousness](/topics/indigenous-australian-philosophy-of-consciousness/)
+- **Word count**: 2625 → 2625 (88% of 3000 topics target; quote-for-quote edit)
+- **Critical issues addressed**: 1 — restored Graham 2023 verbatim quote "Nor is it a dualism, insofar as the two are not ontologically distinct" (refine-draft 91baa9eae had silently changed the in-quote wording to "it is not a dualism"; web-verified against Parrhesia 37 publisher PDF). Re-qualified for review because 3 refine-drafts + 2 cross-link installs landed after the same-day 2026-07-06 deep review.
+- **Medium issues addressed**: 0 — intervening refines already tightened calibration (metaphysical-vs-ethical scoping, underdetermination clause, Swain-contested hedge); no possibility/probability slippage.
+- **Enhancements made**: 0 new; References block unchanged so 2026-07-06 citation ledger remains authoritative (only the one altered in-quote string re-verified).
+- **Output**: [deep-review-2026-07-18-indigenous-australian-philosophy-of-consciousness](/reviews/deep-review-2026-07-18-indigenous-australian-philosophy-of-consciousness/)
+
+## 2026-07-18T09:12:29+00:00 - deep-review
+- **Status**: Success (6th review — convergent no-op; article stable and well-calibrated)
+- **File**: [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)
+- **Word count**: 2287 → 2287 (no change; 76% of 3000 topics target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — re-qualified only by a cosmetic cross-link bump since the 5th review (commit b64778cd1 added two related_articles + Further Reading links: phenomenology-of-attention-to-absence, phenomenology-of-cognitive-capacity). Both targets resolve live; display text accurate. References unchanged → §2.4 citation web-verify legitimately skipped (full publisher-of-record ledger done 2026-06-25). Advanced `last_deep_review` only; left `ai_modified` at HEAD.
+- **Output**: [deep-review-2026-07-18-phenomenology-of-cognitive-limit-types](/reviews/deep-review-2026-07-18-phenomenology-of-cognitive-limit-types/)
+
+## 2026-07-18T08:52:38+00:00 - deep-review
+- **Status**: Success (7th review — convergent no-op; article stable and well-calibrated)
+- **File**: [grain-mismatch](/concepts/grain-mismatch/)
+- **Word count**: 1649 → 1649 (no change; 66% of 2500 concept target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — re-qualified only by two cosmetic cross-link edits since the 6th review (correct `neural-refresh-rates` → `neural-refresh-rates-and-the-smoothness-problem` retarget after archival/coalesce; accurate new `sellars-manifest-and-scientific-images` Further Reading link). Both verified correct. References untouched → no citation web-verify re-trigger (full publisher-of-record pass done 2026-06-24; Lee year stays 2024). Advanced `last_deep_review` only; left `ai_modified` at HEAD.
+- **Output**: [deep-review-2026-07-18-grain-mismatch](/reviews/deep-review-2026-07-18-grain-mismatch/)
+
+## 2026-07-18T08:36:00+00:00 - deep-review
+- **Status**: Success (6th review — very converged; verified 2 unreviewed edits + repaired hard-ceiling breach)
+- **File**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Word count**: 3548 → 3487 (−61; was 48 words over the 3500 hard ceiling)
+- **Critical issues addressed**: 2 — (1) length: additions since 06-22 (interventionist cross-link + MQI-tension rewrite) breached the 3500 hard ceiling; restored length-neutrally, preserving all new calibration substance; (2) style: replaced default-intensifier "load-bearing" (§No-Many-Worlds) with "essential"
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 new content — verified the two unreviewed 07-15 edits both HELD (MQI-tension rewrite is a calibration improvement, correctly names quantum-selection vs trumping as distinct/competing mechanisms; interventionist cross-link framing faithful to target's Tenet-2 thesis, Vaassen-misframing already corrected there). Citations unchanged since 06-22 ledger; carried forward. Engagement modes unchanged (epiphenomenalism Mode One; strict empiricist Mode Three)
+- **Output**: [deep-review-2026-07-18-delegatory-causation](/reviews/deep-review-2026-07-18-delegatory-causation/)
+
+## 2026-07-18T08:22:02+00:00 - deep-review
+- **Status**: Success (2nd review — converged; no-op content pass, added a verbatim quote-fidelity lens)
+- **File**: [four-category-ontology](/concepts/four-category-ontology/)
+- **Word count**: 1881 → 1881 (0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — only delta since 2026-07-06 clean review was a cosmetic Further-Reading cross-link (resolves); web-verified 3 embedded Lowe quotes ("unmoved movers…", "spontaneous"/"two-way power", event-causation reducibility) — all faithful. Advanced last_deep_review only; left ai_modified at HEAD (no content change)
+- **Output**: [deep-review-2026-07-18-four-category-ontology](/reviews/deep-review-2026-07-18-four-category-ontology/)
+
+## 2026-07-18T08:07:57+00:00 - deep-review
+- **Status**: Success (6th review — converged; verified intervening compositional-grain section, completed 1 web-verified reference)
+- **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Word count**: 2658 → 2658 (+2, reference metadata)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (completed Sauerbrei & Pruszynski 2025 reference to *Nat Neurosci* 28:1365–1366, web-verified at publisher; clears carried-over item)
+- **Output**: [deep-review-2026-07-18-grain-mismatch-as-independent-evidence](/reviews/deep-review-2026-07-18-grain-mismatch-as-independent-evidence/)
 
 ## 2026-07-18T07:47:36+00:00 - deep-review
 - **Status**: Success (no-op — converged article, cosmetic cross-link bump only)
