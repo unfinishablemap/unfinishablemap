@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T20:55:23+00:00
+ai_modified: 2026-07-18T21:02:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T21:02:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Word count**: 4,720 → 4,807 (+87)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Notes**: Seventh deep review, but justified: article modified after the 2026-06-22 pass by the 2026-07-13 pessimistic review + follow-on refine (commit 5abcbba24). Verified the refine closed pessimistic Issues 1 (timing-escape overclaim → split by mechanism-variant), 2 ("derived"→"motivated"), and 4 (Born-structural → conditional-on-peer-review). Addressed the two Medium findings the refine left OPEN: Issue 3 (mutual-constraint vs evidential-confirmation equivocation → one sentence marking mutual constraint as internal research-programme fertility, not external evidential support), and Issue 5 (falsifiability wholly outsourced to a sibling → named a concrete near-term falsifier in-body: amplification-pathway biophysical parameters are measurable now, a negative finding would count against the programme now). Citation web-verify (§2.4) appropriately scoped out — no new external cites since the 06-22 ledger; the 07-13 refine only made the existing Torres Alegre claim conditional, the 06-25 refine added an internal-wikilink-only note; superlative sweep empty. Engagement modes + calibration hedges unchanged and correct; no label leakage. `apex_last_synthesis` advanced to match `ai_modified` (drift-artifact pattern). Length 120% of soft, under hard ceiling — human length decision flagged, not auto-condensed (load-bearing calibration prose).
+- **Output**: [[reviews/deep-review-2026-07-18-post-decoherence-selection-programme]]
 
 ## 2026-07-18T20:55:23+00:00 - deep-review
 - **Status**: Success
