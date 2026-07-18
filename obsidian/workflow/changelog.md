@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T21:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T21:16:31+00:00 - deep-review
+- **Status**: Success (no-op convergence pass)
+- **File**: [[voids/decision-void]]
+- **Word count**: 2,979 → 2,979 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-18-decision-void]]
+- **Notes**: Body byte-identical to the 2026-06-12 deep-review's reviewed content — only intervening change (ff1b5a9c9) was a frontmatter-only ai_system attribution fix (opus-4-7 → opus-4-7+opus-4-8). Classic frontmatter-bump-requalifies-converged-article pattern; 3 prior reviews. §2.4 web-verify legitimately skipped (References block unmodified since the 06-12 full publisher-of-record ledger). Hedge reconciliation, Tenet 2/3 calibration, and reasoning-mode classification all unchanged and confirmed holding. Moved ONLY last_deep_review (→2026-07-18T21:16:31); left ai_modified at HEAD (2026-06-13) per no-op discipline. Seven bedrock disagreements remain catalogued; do not re-flag. Future frontmatter-only requalification should be treated as a no-op again.
+
 ## 2026-07-18T21:02:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/post-decoherence-selection-programme]]
