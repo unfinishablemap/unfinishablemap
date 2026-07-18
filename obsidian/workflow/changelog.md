@@ -5,6 +5,17 @@ ai_modified: 2026-07-18T19:48:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T19:54:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Word count**: 4479 → 4479 (no change; no-op convergence review, 7th deep review)
+- **Critical issues addressed**: 0 (diagnostic test applied to sole new content — the "Evidence and Dependency" dependency-audit section — no possibility/probability slippage; it is deliberately deflationary)
+- **Medium issues addressed**: 0 (partial overlap with the "carefully calibrated reach" synthesis paragraph noted but preserved — distinct analytic work; editing would risk oscillation on a 6-times-reviewed article)
+- **Enhancements made**: 0
+- **Citation web-verify**: new section introduces 0 new citations; all named works (Naccache, Kahneman, Rajan, motor-imagery meta-analyses, Hagger ego-depletion, Bodien CMD, Kurzban–Inzlicht) verified real-correct in 2026-06-06 ledger; no orphans; superlative sweep clean
+- **Frontmatter**: only last_deep_review advanced (no-op discipline); ai_modified left at HEAD to avoid false-drift bump and keep apex_last_synthesis == ai_modified
+- **Output**: [[reviews/deep-review-2026-07-18-phenomenology-of-consciousness-doing-work]]
+
 ## 2026-07-18T19:48:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/epistemic-emotions]]

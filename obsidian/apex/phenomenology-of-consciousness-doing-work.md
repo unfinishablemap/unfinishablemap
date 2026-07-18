@@ -5,7 +5,7 @@ created: 2026-02-23
 modified: 2026-05-19
 human_modified:
 ai_modified: 2026-07-17T00:19:07+00:00
-last_deep_review: 2026-06-06T22:35:08+00:00
+last_deep_review: 2026-07-18T19:54:44+00:00
 draft: false
 topics:
   - "[[phenomenology-of-agency-vs-passivity]]"
