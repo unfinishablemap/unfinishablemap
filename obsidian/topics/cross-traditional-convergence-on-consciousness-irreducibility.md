@@ -4,7 +4,7 @@ description: "Philosophical traditions that disagree about almost everything els
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-08T01:28:21+00:00
+ai_modified: 2026-07-18T23:23:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,6 +169,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]—that
 - [[chinese-philosophy-of-mind]] — the basin edge expounded on its own terms: the deep tradition that shares the introspective architecture but never generates the irreducibility finding
 - [[mesoamerican-nahua-philosophy-of-mind]] — a second organicist basin edge (teotl process-monism), the first Indigenous-Americas dissociation for this argument
 - [[japanese-philosophy-of-mind-kyoto-school]] — a second basin edge: the Kyoto School's non-dual absolute nothingness reads one datum the way the Map reads it as dualism, held under the same common-cause caveat
+- [[kabbalah-tzimtzum-consciousness-matter]] — the first Jewish-mystical basin edge: Lurianic emanationist monism, which inverts the cluster's usual outpouring into creation-by-withdrawal while still carving mind and matter as one attenuating substance rather than two
 - [[the-hard-problem-in-non-western-philosophy]]
 - [[the-convergence-argument-for-dualism]]
 - [[epistemology-of-convergence-arguments]]
