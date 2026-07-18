@@ -5,6 +5,18 @@ ai_modified: 2026-07-18T07:17:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T07:37:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/what-voids-reveal]]
+- **Word count**: 3066 → 2998 (−68; hard_warning → soft_warning, back under the 3000 voids hard threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (length-neutral condense of hub cross-link + common-cause-null caveat accretion; all hedges and links preserved)
+- **Citation ledger**: Levine 1983, McGinn 1989, Frankish 2016, Chalmers 1995, Chalmers 2007, Nagel 2012 — all re-verified real-correct at publisher of record; no fabrication, no wrong-metadata, no currency-superseded superlatives, no inline↔References orphans
+- **Reasoning-mode**: phenomenal-concept-strategy = Mode Two; illusionism/Frankish = Mode Two + Three; Levine = non-adversarial (conceded). No label leakage.
+- **Calibration**: the 2026-07-16 coherence-only demotion is correct and endorsed; no possibility/probability slippage (a tenet-accepting reviewer would flag nothing as overstated). Convergence respected — third review, article stable.
+- **Output**: [[reviews/deep-review-2026-07-18-what-voids-reveal]]
+
 ## 2026-07-18T07:17:14+00:00 - refine-draft (methodology/process, not content)
 - **Status**: Success
 - **Files**: [[project/evidential-status-discipline]], [[project/calibration-audit-triple]]
