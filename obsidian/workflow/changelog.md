@@ -5,6 +5,18 @@ ai_modified: 2026-07-18T09:47:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T11:01:44+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/llm-consciousness]], [[concepts/access-consciousness]], [[concepts/ai-consciousness-typology]], [[concepts/global-workspace-theory]]
+- **Context**: Follow-up to the 2026-07-16 ChatGPT 5.6 Pro AI-consciousness audit. Register P-AC4 was narrowed from "access consciousness instantiated" to "workspace-like functional signatures of access consciousness observed"; four concept pages still independently over-read the Gurnee et al. 2026 J-space result.
+- **Changes**:
+  - `llm-consciousness.md` (~L70): "meeting the standard signatures of Block's access consciousness … Map holds the access side instantiated" → "exhibiting the workspace-like functional signatures (global availability and verbal self-report) … not by itself establishing metacognition, agency, or recurrent integration … Map holds these workspace-like functional signatures of the access side observed." Further Reading (~L181/182): "empirical instantiation in LLMs" → "workspace-like functional signatures observed"; P-AC4 gloss "access demonstrated" → "workspace signatures observed."
+  - `access-consciousness.md` (~L61): "exhibiting the standard signatures of A-consciousness … access-machinery is instantiated in full, computationally" → workspace-like functional signatures framing + explicit separation of global availability / verbal self-report from metacognition / agency / recurrent integration.
+  - `ai-consciousness-typology.md` (~L74): "the access-machinery is fully present" → "the workspace-like functional signatures of access are present (global availability and verbal self-report, not a settled claim about metacognition or agency)."
+  - `global-workspace-theory.md` (~L108): "reported the first mechanistic instantiation" → "reported evidence for a mechanistic … structure" (verified at publisher: transformer-circuits.pub paper does NOT claim "first" — frames as "evidence that an analogous functional distinction has emerged"; cf first-precedent-propagation hazard). (~L112): "the access side … instantiated fully and computationally" → "the workspace-like functional signatures of the access side … instantiated computationally."
+- **Preserved**: access/phenomenal split untouched; hedges intact; ai_system held per file; ai_modified bumped only (last_deep_review unchanged).
+- **Published**: yes
+
 ## 2026-07-18T10:54:20+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Contemplative-phenomenology cluster (3 articles, all deep-reviewed 2026-07-18): [[topics/non-temporal-consciousness]], [[topics/the-observer-witness-in-meditation]], [[topics/phenomenology-of-cognitive-limit-types]]
