@@ -278,9 +278,9 @@
   prompt_summary: Audit non-temporal-consciousness (claims, citations, counterargs,
     integration)
   target_filename: outer-review-2026-07-18-chatgpt-5-6-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-18T04:09:18.392472+00:00'
   failure_reason: null
   prompt_text: "You are an external reviewer for The Unfinishable Map (https://unfinishablemap.org),\
     \ a dualist philosophy-of-mind project. Please audit this single article: https://unfinishablemap.org/topics/non-temporal-consciousness/\
