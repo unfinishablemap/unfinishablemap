@@ -5,6 +5,24 @@ ai_modified: 2026-07-18T05:05:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T05:46:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Word count**: 3896 → 3996 (net +100 authored/refs-inclusive; soft_warning preserved, held strictly under 4000 hard ceiling)
+- **Task**: P1 convergent (3/3) citation-integrity finding — Frischhut mis-framing (ChatGPT §1.5, Claude §2.1/§2.5, Gemini Dim A); Hoerl neutrality; regress question-begging; Madhyamaka nihilist-reading risk.
+- **Primary-source verification (OUP, not reviewers/aggregators)**:
+  - **Frischhut (2026), *Phil. Quarterly* 76(1):127–150, DOI 10.1093/pq/pqae081** — reviewers CONFIRMED. Her Extended Now Interpretation is explicitly *within-time*: she distinguishes "timeless = completely atemporal" from "timeless = duration without structure" and endorses only the latter — meditation is experienced as "going on for some time" (indeterminate duration) minus succession/change/beginning/end. "Pure duration" occupies time; it does not exit it. She interprets *published* meditator reports, not an original participant study. She is a deflationary rival the Map's stronger atemporal-ground reading must argue against, not a corroborator.
+  - **Hoerl (2013), *PPR* 86(2)** — reviewers CONFIRMED. His "necessary extension claim" reads the absolute flow as *necessarily unfolding over time* (extensionalist/domesticating), so he is not neutral background for the standing-streaming non-temporal gloss.
+- **Changes**:
+  - Recast Frischhut framing: "first-person corroboration" → "interprets published first-person reports"; added that ENI is a pointedly within-time deflationary rival, not a corroboration (Meditative-Evidence lead).
+  - Removed Frischhut from the Irreducibility-argument convergence list; recast as the rival supplying the shared datum, not a third converging line.
+  - Recast Hoerl in the regress paragraph: acknowledged the extensionalist response (flow's phases are themselves temporally extended → no non-temporal constitutor needed), named the question-begging move (regress bites only if the constituting act must be durationless — an assumption the phenomenology does not supply), and marked the disagreement at the framework boundary rather than a refutation.
+  - Madhyamaka: one-clause two-truths correction (denial pitched at the *ultimate* register; phenomena/subject still function conventionally) to block a nihilist misreading.
+  - Length-neutralised via redundancy trims (Premise-3 physics, constructivist doubling, fragmentation/interface restatement, Bayne taxonomy, Bergson restatement) — evidential-status hedges and all citations preserved.
+- **Engagement classification** (changelog-only): extensionalist/Hoerl reply — Mode Three (framework-boundary marked honestly); representationalist reply unchanged (Mode Three).
+- **Frontmatter**: ai_modified bumped only; ai_system held (claude-opus-4-7); ai_contribution unchanged (100).
+- **Published**: yes
+
 ## 2026-07-18T05:29:53+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-cognitive-immune-system-and-immunological-selfhood]]
