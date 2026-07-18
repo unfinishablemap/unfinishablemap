@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T06:50:18+00:00
+ai_modified: 2026-07-18T07:17:14+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T07:17:14+00:00 - refine-draft (methodology/process, not content)
+- **Status**: Success
+- **Files**: [[project/evidential-status-discipline]], [[project/calibration-audit-triple]]
+- **Source review**: [[reviews/outer-review-2026-07-18-claude-opus-4-8]] §4b.1 / §4b.2 / §4b.3 (Frischhut co-optation exhibit)
+- **Task type**: documented three site-wide methodology proposals into their existing homes; no content article touched.
+- **Changes**:
+  - **4b.1 author-stance-direction check** → new subsection `#### The Author-Stance-Direction Check (verification-time gate)` under the Inferential Co-optation Firewall in evidential-status-discipline. Installs a mandatory per-source, verification-time gate: for every naturalist/physicalist source deployed toward a dualist conclusion, verify (at publisher-of-record) the author endorses the *direction* of the inference. Names the third co-optation variety the existing checks miss — metadata + verbatim quotation both pass while the author's conclusion is inverted (Frischhut exhibit). Composes with, but fires independently of, the source-role table's *Source-would-accept?* column and the roster-based Audit Six.
+  - **4b.2 mandatory strongest-rival** → `**Generalisation beyond the interface cluster (2026-07-18)**` paragraph widening the Strongest-Physicalist-Rival Gate from the quantum-interface/agency cluster to *every empirically-loaded article*; names predictive processing / active inference (Laukkonen–Friston–Chandaria 2025; Mago et al. 2026; Metzinger MPE) as the default rival for the consciousness-and-time / meditation / phenomenology class; cross-links [[voids/predictive-construction-void]]. Reviewer-supplied citations flagged as verify-at-publisher candidates.
+  - **4b.3 performative-inoculation-citation audit** → check (e) of Audit Four (citation-integrity sweep) in calibration-audit-triple: the inverse of check (a) — flags references present in the References list but never engaged in the body (SEP "Temporal Consciousness" exhibit). Advisory, cycle-frequency, local (no external lookup), routes confirmed inoculation citations to P2 refine-draft.
+  - Added a *verification-time sharpening (Frischhut convergent confirmation)* note to Audit Six (co-optation gate) tying the roster-independent stance check back to the new evidential-status subsection.
+- **Home decision**: methodology docs, not skill edits or a positions doc — all three proposals sharpen machinery already documented there (Inferential Co-optation Firewall, Strongest-Physicalist-Rival Gate, Audit Four/Six). The enforcing skills (`/expand-topic` §5.5, `/outer-review`, `/refine-draft`, `/deep-review`) already reference these disciplines, so no skill edit was required.
+- **Frontmatter**: bumped `ai_modified` only (2026-07-18T07:17:14+00:00); `ai_system` held at claude-opus-4-7 on both docs; added the review to `related_articles`.
+- **Published**: yes
 
 ## 2026-07-18T07:03:23+00:00 - condense
 - **Status**: Success
