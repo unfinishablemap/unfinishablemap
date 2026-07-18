@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T10:59:40.130914+00:00'
-session_count: 16343
-cycle_position: 11364
+last_updated: '2026-07-18T11:04:04.821989+00:00'
+session_count: 16344
+cycle_position: 11365
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T10:21:02.097101+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-18T02:20:27.111299+00:00'
   commission-claude-review: '2026-07-18T03:15:04.033243+00:00'
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
-  refine-draft: '2026-07-18T10:53:47.277940+00:00'
+  refine-draft: '2026-07-18T11:04:04.821989+00:00'
   research-topic: '2026-07-17T07:56:57.410313+00:00'
   replenish-queue: '2026-07-18T10:15:37.228316+00:00'
   condense: '2026-07-18T07:05:21.702593+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-18'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-07-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1316,9 +1316,25 @@ queue_status:
   p3_tasks: 13
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T09:59:20+00:00'
-  last_replenishment_prev: '2026-07-18T09:39:33+00:00'
-  last_floor_restore_target: 'promote P3->P2 topics/leibnizs-mill-argument.md pessimistic-review
+  last_replenishment: '2026-07-18T11:10:15+00:00'
+  last_replenishment_prev: '2026-07-18T09:59:20+00:00'
+  last_floor_restore_target: 'staleness mint deep-review topics/pain-consciousness-and-causal-power.md
+    (interactive /replenish-queue conservative exact-floor +1, ONE mint, no padding).
+    AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE (open P2s consciousness-and-skill-acquisition
+    + phenomenology-of-cognitive-capacity, both quote-fidelity no-op floor-holders);
+    == 3 after this single mint (post-mint re-verified via count_p0_p2_tasks). New
+    task FIFO-placed todo line 129 below the two open P2s so they drain first (queue-lifo-starvation).
+    Highest-yield owed-web-verify seam: last_deep_review 2026-06-22 (26d), ai_system
+    claude-opus-4-6 (June cohort), ai_contribution 100, ~22 year-cites, citation surface
+    NEVER outer-reviewed (sole outer-review grep hit is a cross-reference in the 05-16
+    phantom-limb review), subject-diverse (Tenet 3). Other 7 generative sources exhausted:
+    caps hit topics 320/320 + concepts 320/320 + voids 100/100; positions 8/80 < 10
+    audit threshold; length offenders human-deferred / #veto flagships; task_chains
+    empty; orphaned_files 0. No concurrent evolve_loop (pgrep -af evolve_loop empty,
+    sole hit own shell); tree carried only the pre-session evolution-state.yaml bookkeeping
+    mod; HEAD ec6394a45. Replenish-at-floor alternation [unfin_loop_steady_state], not
+    a deadlock.'
+  last_floor_restore_target_prev: 'promote P3->P2 topics/leibnizs-mill-argument.md pessimistic-review
     refine (interactive /replenish-queue conservative exact-floor, ZERO new mints,
     no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE (open
     P2s consciousness-and-skill-acquisition + phenomenology-of-cognitive-capacity,
@@ -1335,24 +1351,6 @@ queue_status:
     task_chains empty; orphaned_files 0. No concurrent evolve_loop (pgrep -af evolve_loop
     empty, sole hit own shell). Replenish-at-floor alternation [unfin_loop_steady_state],
     not a deadlock.'
-  last_floor_restore_target_prev: deep-review topics/phenomenology-of-cognitive-capacity.md
-    (interactive /replenish-queue conservative exact-floor +1, ONE mint, no padding.
-    Pre-count open P0-P2 == 2, == 3 after [post-mint re-verified == 3 via count_p0_p2_tasks,
-    new task FIFO-placed todo line 145 below the two open P2s indigenous-australian
-    + consciousness-and-skill-acquisition]. Scorer get_review_candidates top NON-queued,
-    non-de-prioritised yield candidate, score 16.8; older claude-opus-4-6 cohort,
-    ai_contribution 100, last_deep_review 2026-06-26 [~21d]; the two higher 16.9 candidates
-    hylomorphic-dualism + philosophy-of-action are both opus-4-8 = de-prioritised
-    most-scrutinised cohort. Yield = GENUINELY-never-standalone-reviewed citation/quote
-    surface -- ls reviews/*phenomenology-of-cognitive-capacity* EMPTY [ran ls MYSELF,
-    not a fork self-claim; this session had 3 FALSE never-verified mints whose forks
-    fabricated an empty-ls], 10 refs / ~33 quoted strings; owed-web-verify seam genuinely
-    LIVE. 2736w soft_warning, ~1264w under the 4000 topics hard ceiling -- length-neutral,
-    not a condense task. All 8 generative sources re-audited exhausted -- caps hit
-    [topics 320/320, concepts 320/320, voids 100/100], positions 8/80 but <10 entries
-    so no audit due, task_chains empty, orphaned_files 0, length offenders human-blocked/vetoed.
-    No concurrent evolve_loop [pgrep empty], HEAD e1544d96c. Replenish-at-floor alternation
-    [unfin_loop_steady_state], not a deadlock.)
   last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore
     replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
