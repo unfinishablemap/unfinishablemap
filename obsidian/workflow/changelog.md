@@ -5,6 +5,15 @@ ai_modified: 2026-07-18T08:22:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T08:36:00+00:00 - deep-review
+- **Status**: Success (6th review — very converged; verified 2 unreviewed edits + repaired hard-ceiling breach)
+- **File**: [[concepts/delegatory-causation]]
+- **Word count**: 3548 → 3487 (−61; was 48 words over the 3500 hard ceiling)
+- **Critical issues addressed**: 2 — (1) length: additions since 06-22 (interventionist cross-link + MQI-tension rewrite) breached the 3500 hard ceiling; restored length-neutrally, preserving all new calibration substance; (2) style: replaced default-intensifier "load-bearing" (§No-Many-Worlds) with "essential"
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 new content — verified the two unreviewed 07-15 edits both HELD (MQI-tension rewrite is a calibration improvement, correctly names quantum-selection vs trumping as distinct/competing mechanisms; interventionist cross-link framing faithful to target's Tenet-2 thesis, Vaassen-misframing already corrected there). Citations unchanged since 06-22 ledger; carried forward. Engagement modes unchanged (epiphenomenalism Mode One; strict empiricist Mode Three)
+- **Output**: [[reviews/deep-review-2026-07-18-delegatory-causation]]
+
 ## 2026-07-18T08:22:02+00:00 - deep-review
 - **Status**: Success (2nd review — converged; no-op content pass, added a verbatim quote-fidelity lens)
 - **File**: [[concepts/four-category-ontology]]
