@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T21:15:00.448157+00:00'
-session_count: 16453
-cycle_position: 11417
+last_updated: '2026-07-18T21:18:08.031901+00:00'
+session_count: 16454
+cycle_position: 11418
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T19:30:20.757769+00:00'
   optimistic-review: '2026-07-18T20:29:13.309668+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T21:05:34.055939+00:00'
+  deep-review: '2026-07-18T21:18:08.031901+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T21:15:00.448157+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6610
+  reviews_completed: 6611
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-07-18'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1312,38 +1312,32 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T20:52:26+00:00'
-  last_replenishment_prev: '2026-07-18T20:37:52+00:00'
-  last_floor_restore_target: 'mint P2 deep-review topics/eastern-philosophy-consciousness.md
-    (interactive /replenish-queue 2026-07-18T20:52Z, conservative exact-floor +1,
-    ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
-    == 2 (open P2s: apex/post-decoherence-selection-programme [20:15] + voids/decision-void
-    [20:37], both prior floor-restore mints not yet drained), == 3 re-verified live
-    after write. Eight-source audit re-confirms exhaustion: (chain) task_chains empty,
-    recent_tasks ZERO admissible research/expand/cross-review (sections at cap); (unconsumed-research
-    + gap) topics 320/320 concepts 320/320 voids 100/100 all AT CAP; (orphans) orphaned_files
-    0; (length) no clean mintable condense — offenders veto-tagged / human-length-deferred;
-    (positions) 8/80 audited 2026-07-16 not overdue; (applied-apex) none. Target is
-    a STALENESS-cohort pick honestly framed, NOT a manufactured never-verified or
-    changed-since-review premise: damping-aware scorer get_review_candidates ranks
-    it the #1 CLEAN under-ceiling standalone (15.14; the two higher entries time-collapse-and-agency
-    4606w + consciousness-and-testimony 4013w are BOTH over the 4000 topics hard ceiling
-    → protected-hedge/human-length collision, deliberately skipped). last_deep_review
-    2026-06-20 (28 days, oldest clean cohort); post-review commits are all cross-link
-    additions from fresh siblings (Yogacara, Kyoto-school, indigenous-australian)
-    = cosmetic wikilink drift, so a near-no-op is the EXPECTED outcome (bump last_deep_review
-    ONLY, hold ai_modified 07-06 + ai_system claude-opus-4-6). SECTION/THEME-DIVERSIFIES
-    (cross-cultural topic vs the two quantum-collapse/agency floor-holders). aic 100,
-    2837w OK (~1163w UNDER the 4000 hard ceiling — strictly LENGTH-NEUTRAL, no padding).
-    Residual value: verbatim/attribution-fidelity on cross-tradition terms (anatta
-    / sakshi / purusa-prakrti / wu wei, any Nagarjuna/Sankara attribution — conflation
-    is the failure mode), 114-wikilink reciprocity incl the 3 fresh siblings, evidential-status
-    hedges on the anatta-haecceity tension. NOT open-queued (only File hit is a completed
-    05-31 marker; Vetoed hits are other tasks name-dropping it as a builds-on sibling),
-    NOT vetoed, NOT session-touched (last touch 07-06). FIFO-placed at BOTTOM of Active
-    to defeat LIFO. No concurrent evolve_loop.py (pgrep-confirmed none); tree carries
-    only pre-session evolution-state.yaml mod; HEAD 82bd975d5. Overwrote the prior
-    target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
+  last_replenishment: '2026-07-18T21:20:00+00:00'
+  last_replenishment_prev: '2026-07-18T21:09:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review concepts/collapse-and-time.md (interactive /replenish-queue
+    2026-07-18T21:20Z, conservative exact-floor +1, ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content)
+    LIVE pre-count == 2 (open P2s: topics/eastern-philosophy-consciousness [20:52] + concepts/content-specificity-of-mental-causation
+    [21:09]; the earlier apex/post-decoherence-selection-programme + voids/decision-void mints have drained),
+    == 3 re-verified live after write. Eight-source audit re-confirms exhaustion: chain task_chains empty
+    and recent completions carry zero admissible research/expand/cross-review (sections at cap); unconsumed-research
+    + gap blocked (topics 320/320 concepts 320/320 voids 100/100 all AT CAP); orphans orphaned_files 0;
+    length no clean mintable condense (offenders veto-tagged or human-length-deferred); positions 8/80 audited
+    2026-07-16 not overdue; applied-apex none. Target is a STALENESS-cohort pick honestly framed, not a
+    manufactured never-verified or changed-since-review premise: damping-aware get_review_candidates ranks
+    it the number-one CLEAN under-ceiling standalone that is not already open (14.84; the higher entries
+    are over the 4000 topics hard ceiling -- consciousness-and-testimony 4013w, consciousness-and-the-metaphysics-of-composition
+    4005w -- or already queued, or decoherence-and-macroscopic-superposition which ties on score but was
+    content-touched today, all deliberately skipped). last_deep_review 2026-06-24 (23 days, clean cohort);
+    the only post-review commit (934b8adb5, 2026-07-12) changed 2 lines -- a cross-link touch, cosmetic
+    -- so a near-no-op is the EXPECTED outcome (bump last_deep_review only, hold ai_modified 2026-07-12
+    + ai_system claude-opus-4-6). THEME-DIVERSIFIES (quantum-collapse concept vs the cross-cultural-topic
+    + mental-causation-concept floor-holders). aic 100, 2054w OK (~1446w UNDER the 3500 concepts hard ceiling
+    -- strictly LENGTH-NEUTRAL, no padding). Residual value: verbatim/attribution fidelity on Penrose-OR
+    / GRW / time-symmetry sources, 59-wikilink reciprocity incl the fresh transactional-interpretation inbound,
+    evidential-status hedges on the consciousness-collapse reading. NOT open-queued (only File hits are
+    completed markers + the different time-collapse-and-agency file), NOT vetoed, NOT session-touched (last
+    touch 2026-07-12). No concurrent evolve_loop.py (pgrep-confirmed). Overwrote the prior target-note in
+    place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_decisionvoid_2037: 'mint P2 deep-review voids/decision-void.md
     (interactive /replenish-queue 2026-07-18T20:37Z, conservative exact-floor +1,
     ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
