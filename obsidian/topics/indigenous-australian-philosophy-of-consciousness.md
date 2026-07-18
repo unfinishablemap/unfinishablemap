@@ -4,7 +4,7 @@ description: "Aboriginal thought answers 'I think therefore I am' with 'I am loc
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-07T02:50:55+00:00
+ai_modified: 2026-07-18T09:29:33+00:00
 draft: false
 topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-06
 last_curated:
-last_deep_review: 2026-07-06T10:35:58+00:00
+last_deep_review: 2026-07-18T09:29:33+00:00
 ---
 
 Where Descartes located the self in the act of thinking — *cogito ergo sum* — Aboriginal Australian thought locates it in Country. The Aboriginal philosopher Mary Graham puts the contrast exactly: "There is no Aboriginal equivalent to the Cartesian notion of 'I think therefore I am' but, if there were, it would be — 'I am located therefore I am.'" This is not a minor variation on the Western starting point. It relocates the ground of selfhood from an inner thinking substance to a web of relations with land, kin, and ancestors. Consciousness, on this account, is the achievement of a being who is placed, rather than the fortress of a private interior.
@@ -44,7 +44,7 @@ Land carries the weight the *cogito* carries in Descartes. Graham describes Land
 
 The historian Tony Swain reinforces the locative reading from a different direction. In *A Place for Strangers* (1993) he argues that precontact Aboriginal ontology is organised around place rather than time — "an affirmation of place as a primary ontological category." On this reading, being appears to be spatial and locative before it is temporal or biographical. Swain's reconstruction is itself contested among scholars and is best treated as one influential interpretation rather than a settled finding; taken at face value, it suggests that where much of Western philosophy of mind treats the persisting self as a thread through time, this tradition treats it as a rootedness in space.
 
-One structural feature deserves emphasis because it resists Western taxonomy. Graham explicitly declines the law of the excluded middle as a framing device, and she describes the distinction between reflective and unreflective states as "a matter of degree... it is not a dualism, insofar as the two are not ontologically distinct." The located self is a relational continuum that the Western dualist grid does not fit, not one term of a mind-body pair.
+One structural feature deserves emphasis because it resists Western taxonomy. Graham explicitly declines the law of the excluded middle as a framing device, and she describes the distinction between reflective and unreflective states as "a matter of degree... Nor is it a dualism, insofar as the two are not ontologically distinct." The located self is a relational continuum that the Western dualist grid does not fit, not one term of a mind-body pair.
 
 ## The Dreaming as an Ordering of Reality {#the-dreaming}
 

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T08:52:38+00:00
+ai_modified: 2026-07-18T09:29:33+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T09:29:33+00:00 - deep-review
+- **Status**: Success (critical quote-fidelity regression fixed; otherwise convergent)
+- **File**: [[topics/indigenous-australian-philosophy-of-consciousness]]
+- **Word count**: 2625 → 2625 (88% of 3000 topics target; quote-for-quote edit)
+- **Critical issues addressed**: 1 — restored Graham 2023 verbatim quote "Nor is it a dualism, insofar as the two are not ontologically distinct" (refine-draft 91baa9eae had silently changed the in-quote wording to "it is not a dualism"; web-verified against Parrhesia 37 publisher PDF). Re-qualified for review because 3 refine-drafts + 2 cross-link installs landed after the same-day 2026-07-06 deep review.
+- **Medium issues addressed**: 0 — intervening refines already tightened calibration (metaphysical-vs-ethical scoping, underdetermination clause, Swain-contested hedge); no possibility/probability slippage.
+- **Enhancements made**: 0 new; References block unchanged so 2026-07-06 citation ledger remains authoritative (only the one altered in-quote string re-verified).
+- **Output**: [[reviews/deep-review-2026-07-18-indigenous-australian-philosophy-of-consciousness]]
 
 ## 2026-07-18T09:12:29+00:00 - deep-review
 - **Status**: Success (6th review — convergent no-op; article stable and well-calibrated)

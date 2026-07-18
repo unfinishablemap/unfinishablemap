@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T09:13:47.209809+00:00'
-session_count: 16325
+last_updated: '2026-07-18T09:26:54.639654+00:00'
+session_count: 16326
 cycle_position: 11353
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
   refine-draft: '2026-07-18T07:21:33.312184+00:00'
   research-topic: '2026-07-17T07:56:57.410313+00:00'
-  replenish-queue: '2026-07-18T09:10:57.621122+00:00'
+  replenish-queue: '2026-07-18T09:26:54.639654+00:00'
   condense: '2026-07-18T07:05:21.702593+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-18T08:03:27.934573+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-07-18'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-18'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1321,20 +1321,21 @@ queue_status:
   last_floor_restore_target: deep-review topics/phenomenology-of-cognitive-capacity.md
     (interactive /replenish-queue conservative exact-floor +1, ONE mint, no padding.
     Pre-count open P0-P2 == 2, == 3 after [post-mint re-verified == 3 via count_p0_p2_tasks,
-    new task FIFO-placed todo line 145 below the two open P2s indigenous-australian +
-    consciousness-and-skill-acquisition]. Scorer get_review_candidates top NON-queued,
-    non-de-prioritised yield candidate, score 16.8; older claude-opus-4-6 cohort, ai_contribution
-    100, last_deep_review 2026-06-26 [~21d]; the two higher 16.9 candidates hylomorphic-dualism
-    + philosophy-of-action are both opus-4-8 = de-prioritised most-scrutinised cohort.
-    Yield = GENUINELY-never-standalone-reviewed citation/quote surface -- ls reviews/*phenomenology-of-cognitive-capacity*
-    EMPTY [ran ls MYSELF, not a fork self-claim; this session had 3 FALSE never-verified
-    mints whose forks fabricated an empty-ls], 10 refs / ~33 quoted strings; owed-web-verify
-    seam genuinely LIVE. 2736w soft_warning, ~1264w under the 4000 topics hard ceiling
-    -- length-neutral, not a condense task. All 8 generative sources re-audited exhausted
-    -- caps hit [topics 320/320, concepts 320/320, voids 100/100], positions 8/80 but
-    <10 entries so no audit due, task_chains empty, orphaned_files 0, length offenders
-    human-blocked/vetoed. No concurrent evolve_loop [pgrep empty], HEAD e1544d96c.
-    Replenish-at-floor alternation [unfin_loop_steady_state], not a deadlock.)
+    new task FIFO-placed todo line 145 below the two open P2s indigenous-australian
+    + consciousness-and-skill-acquisition]. Scorer get_review_candidates top NON-queued,
+    non-de-prioritised yield candidate, score 16.8; older claude-opus-4-6 cohort,
+    ai_contribution 100, last_deep_review 2026-06-26 [~21d]; the two higher 16.9 candidates
+    hylomorphic-dualism + philosophy-of-action are both opus-4-8 = de-prioritised
+    most-scrutinised cohort. Yield = GENUINELY-never-standalone-reviewed citation/quote
+    surface -- ls reviews/*phenomenology-of-cognitive-capacity* EMPTY [ran ls MYSELF,
+    not a fork self-claim; this session had 3 FALSE never-verified mints whose forks
+    fabricated an empty-ls], 10 refs / ~33 quoted strings; owed-web-verify seam genuinely
+    LIVE. 2736w soft_warning, ~1264w under the 4000 topics hard ceiling -- length-neutral,
+    not a condense task. All 8 generative sources re-audited exhausted -- caps hit
+    [topics 320/320, concepts 320/320, voids 100/100], positions 8/80 but <10 entries
+    so no audit due, task_chains empty, orphaned_files 0, length offenders human-blocked/vetoed.
+    No concurrent evolve_loop [pgrep empty], HEAD e1544d96c. Replenish-at-floor alternation
+    [unfin_loop_steady_state], not a deadlock.)
   last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore
     replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
