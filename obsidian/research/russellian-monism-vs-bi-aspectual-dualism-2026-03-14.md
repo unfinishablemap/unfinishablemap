@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-14
-ai_modified: 2026-03-14T18:50:00+00:00
+ai_modified: 2026-07-18T01:50:13+00:00
 ---
 
 # Research: Russellian Monism as Competitor to Bi-Aspectual Dualism
@@ -144,7 +144,7 @@ Russellian monism naturally accommodates evolutionary continuity: if quiddities 
 
 ### 1. The Combination Problem (Map's Strongest Advantage)
 
-Russellian panpsychism faces the subject-summing problem (how many micro-subjects become one macro-subject), the quality combination problem (how micro-qualities yield macro-qualities), and structural mismatch (consciousness structure differs from brain structure). These problems are not merely unsolved but may be insoluble—James called combination "the most peculiar puzzle in philosophy" in 1890, and no progress has been made.
+Russellian panpsychism faces the subject-summing problem (how many micro-subjects become one macro-subject), the quality combination problem (how micro-qualities yield macro-qualities), and structural mismatch (consciousness structure differs from brain structure). These problems are not merely unsolved but may be insoluble—James identified combination as the central difficulty of the mind-dust theory in 1890, and no progress has been made.
 
 The Map's unified conscious subjects sidestep this entirely. There's no question of how experiences combine because the conscious subject is fundamental, not composed of micro-subjects.
 
@@ -194,7 +194,7 @@ The Map provides something Russellian monism lacks: a proposed *mechanism* for m
 
 | Year | Event/Publication | Significance |
 |------|-------------------|--------------|
-| 1890 | James, *Principles of Psychology* | "The most peculiar puzzle": the combination problem first articulated |
+| 1890 | James, *Principles of Psychology* | The combination problem for mind-dust first articulated |
 | 1927 | Russell, *The Analysis of Matter* | Physics describes only structure; intrinsic nature is unknown |
 | 1928 | Eddington, *The Nature of the Physical World* | "The stuff of the world is mind-stuff" |
 | 1979 | Maxwell's revival papers | Modern Russellian approach to consciousness |
