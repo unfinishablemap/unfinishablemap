@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T17:07:22+00:00
+ai_modified: 2026-07-18T17:19:24+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T17:19:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/recognition-void]]
+- **Word count**: 2475 → 2475 (length-neutral)
+- **Critical issues addressed**: 0 (converged — 5th review pass; no critical/medium found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (length-neutral prose smoothing of the 2026-07-16 convergence-demotion sentence; unspaced em-dash fixed)
+- **Notes**: Two post-review edits since 2026-06-04 were both calibration improvements (Capgras cross-link install; convergence-as-evidence demoted to coherence-only per convergent outer review). No citation delta since the complete 2026-06-04 publisher-of-record ledger → web-verify no-op. Anchoring strong-assertion flag remains known false-positive. Stable/converged.
+- **Output**: [[reviews/deep-review-2026-07-18-recognition-void]]
 
 ## 2026-07-18T17:07:22+00:00 - condense
 - **Status**: Success
