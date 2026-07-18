@@ -5,6 +5,15 @@ ai_modified: 2026-07-18T00:46:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 02:07 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/steelmanning-as-method]]
+- **Changed sources**: 1 (project/coherence-inflation-countermeasures, 07-16 — immaterial "as if fact" reframe; no new synthesis material)
+- **Trigger**: mandated structural retrofit — installed the required "Evidence and Dependency" section (adopted 2026-07-16; only 1/38 apex carried it). This apex is the corpus's most fitting home for it (subject IS coherence-not-being-evidence; the ledger self-applies). Section names its internal worked-exhibit borrowings so double-counting stays visible.
+- **Word count**: 4003 → 4112 (added ~195w mandated section, offset ~85w redundancy removal; ~2.8% over soft cap, accepted vs. gutting converged flagship)
+- **Discipline**: no possibility→probability slippage; hedges preserved; ai_system held (claude-opus-4-8, retrofit not re-authoring); date -u stamp not future-dated; apex_last_synthesis == ai_modified invariant held. Stale James-quote channel grep-checked clean across apex/.
+- **Review**: [[reviews/apex-evolve-2026-07-18-steelmanning-as-method]]
+
 ## 2026-07-18 01:47 - refine-draft
 - **Status**: Success (1 James verbatim-quote fix; mind-dust cluster — LAST member)
 - **File**: [[concepts/russellian-monism]]
