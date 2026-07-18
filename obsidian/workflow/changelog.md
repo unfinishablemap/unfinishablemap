@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T13:24:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T13:57:49+00:00 - deep-review
+- **Status**: Success (no-op convergence pass — 6th review)
+- **File**: [[topics/consciousness-and-neurodegenerative-disease]]
+- **Word count**: 2958 → 2958 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only change since thorough 5th review (2026-06-26) is one frontmatter wikilink (2026-07-07); body unchanged. Ran the prior review's recommended lucidity-literature currency re-sweep (1 WebSearch): no post-mortem-substrate-correlation study exists yet, Parnia multi-site cohort still SOTA, article framing current. No prose churned; only `last_deep_review` bumped (`ai_modified` left at HEAD, body untouched). Article converged — recommend resting until body edited or a substrate-correlation study lands.
+- **Output**: [[reviews/deep-review-2026-07-18-consciousness-and-neurodegenerative-disease]]
+
 ## 2026-07-18T13:42:46+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/empirical-phenomena-mental-causation]]
