@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-17T08:03:36.202596'
+ai_modified: '2026-07-18T08:02:22.240894'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-17'
+modified: '2026-07-18'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-18: Can Consciousness Exist Outside Time?
+
+A reworked article asks whether consciousness is fundamentally non-temporal—constituting time rather than inhabiting it. It separates the meditative datum of timeless awareness from the bolder metaphysical claim, and engages the leading physicalist rival head-on.
+
+**Type**: refinement  
+**Link**: [[non-temporal-consciousness]]
+
+---
+
 ### 2026-07-17: The Quantum Rival That Needs No Mind
 
 Consistent Histories reads quantum mechanics with no collapse, no observer, and no many worlds—one actual world, no mind required. The Map engages the most economical rival to consciousness-selected collapse, conceding honestly where it cannot claim victory.
@@ -195,15 +204,6 @@ If many identical AI copies were conscious, do N copies mean N times the sufferi
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2068245409672188293  
 **Link**: [[ethics-of-possible-ai-consciousness]]
-
----
-
-### 2026-06-19: If Minds Bias Quantum Events, Why No Telekinesis?
-
-If consciousness can tip quantum outcomes inside the brain, why can't it move objects at a distance or bend a random number generator? A revamped article gives the honest answer: the boundary is a scope clause in the Map's coupling law, not a line drawn to dodge embarrassment.
-
-**Type**: refinement  
-**Link**: [[brain-specialness-boundary]]
 
 ---
 

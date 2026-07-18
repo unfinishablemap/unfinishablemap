@@ -37,7 +37,7 @@ description: Conscious experience carries intrinsic evaluative character—felt 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 18:40:43+00:00
+last_deep_review: 2026-07-18 07:47:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

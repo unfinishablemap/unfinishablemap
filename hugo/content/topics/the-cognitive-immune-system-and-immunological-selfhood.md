@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-09 01:14:47+00:00
+ai_modified: 2026-07-18 05:29:53+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: The immune system learns, remembers, and tells self from non-self w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 00:09:38+00:00
+last_deep_review: 2026-07-18 05:29:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ If Matzinger is even partly right, the self/non-self boundary that Burnet's fram
 
 ## Tauber's Warning: Self as Metaphor
 
-The strongest philosophical pressure on all of this comes from Alfred Tauber, an immunologist and philosopher whose *The Immune Self: Theory or Metaphor?* (1994) is the first extended philosophical critique of immunology's central concept. Tauber traces the "self" of immune theory back to Élie Metchnikoff's view of immunity as "the active pursuit of identity," and argues that the term imports Western cultural preoccupations with autonomy, insularity, and a defended inner core. The immunological "self," on his reading, is a theory-laden metaphor rather than a discovered entity; he presses instead for a dynamic, relational, ecological conception of biological identity, a line he later extended in *Immunity: The Evolution of an Idea* (2017).
+The strongest philosophical pressure on all of this comes from Alfred Tauber, an immunologist and philosopher whose *The Immune Self: Theory or Metaphor?* (1994), distilled the same year into a companion *Immunology Today* essay, is the first extended philosophical critique of immunology's central concept. Tauber traces the "self" of immune theory back to Élie Metchnikoff's view of immunity as "the active pursuit of identity," and argues that the term imports Western cultural preoccupations with autonomy, insularity, and a defended inner core. The immunological "self," on his reading, is a theory-laden metaphor rather than a discovered entity; he presses instead for a dynamic, relational, ecological conception of biological identity, a line he later extended in *Immunity: The Evolution of an Idea* (2017).
 
 Tauber's warning must be answered, not merely noted, because it threatens the Map's use of this material directly. If "self" and "cognition" in immunology are folk-psychological framings projected onto molecular processes, then citing the immune system as a competency case might be citing the field's own loose metaphors back to itself. The Map's answer is that Tauber's critique, taken seriously, *strengthens* the functional/phenomenal distinction rather than dissolving it. Tauber's target is the smuggling of a substantial, essential, quasi-experiential self into immune theory—precisely the smuggling the Map also refuses. His argument gives the Map a reason to hold "functional self" and "phenomenal self" on separate axes and to treat any drift from the first toward the second as the error to guard against. Where Cohen supplies the functional vocabulary, Tauber supplies the discipline that keeps it functional. The one thing the Map does not concede is that the functional facts themselves are metaphorical: the memory, the discrimination, and the context-sensitive decisions are real system properties whatever we call them.
 

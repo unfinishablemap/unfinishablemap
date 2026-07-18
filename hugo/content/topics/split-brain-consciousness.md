@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-16 12:40:44+00:00
+ai_modified: 2026-07-18 06:22:30+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -77,6 +77,8 @@ An October 2025 PNAS study (Santander et al.) from UC Santa Barbara complicates 
 The 2017 University of Amsterdam research adds another layer: split-brain patients could report seeing shapes presented to either visual field, both verbally and by pointing with either hand. The study's own framing — "divided perception but undivided consciousness" — captures a "layered unity" model: divided perception at local levels but preserved unity at higher, global levels.
 
 A critical distinction: neural synchronization (what fMRI measures) is not the same as [phenomenal unity](/concepts/unity-of-consciousness/). The former is a neural correlate; the latter is what the [hard problem](/topics/hard-problem-of-consciousness/) insists cannot be read directly off neural data. Still, the convergence of synchronization, behavioral coordination, and patient reports is stronger evidence for preserved experiential unity than any single source alone.
+
+Schechter and Bayne (2021) press a rebuttal the resilience reading must answer. Pinto's experiments show the patient responding as a single organism — pointing with either hand, or answering verbally, to stimuli in either field — but this establishes a unity of *agency*, not a unity of *experience*. A single agent behaving coherently is compatible with two phenomenal streams whose outputs are coordinated, plausibly through subcortical cross-cueing that lets one hemisphere's processing steer the other's response without the two sharing a phenomenal field. The sharper test is co-consciousness: split-brain subjects can perceive two stimuli separately yet, on the classical findings, cannot reliably judge them same-or-different *together* — the comparative operation that would require both to be present to one experiencing subject. Whether Pinto's data are better read as unity of agency or unity of experience is, Schechter and Bayne argue, still open. The distinction bears directly on the interface reading developed below: agency-unity is what a coordinated substrate would produce whether or not the phenomenal subject is single, so the resilience argument earns its dualist conclusion only at the experience level — precisely where the evidence stays underdetermined.
 
 ## Three Dimensions of Unity
 
@@ -236,5 +238,6 @@ Perhaps what the cases really show: consciousness is neither a simple unity that
 7. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22, 396-413.
 8. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
 9. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
-10. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-11. The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/
+10. Schechter, E., & Bayne, T. (2021). Consciousness after split-brain surgery: The recent challenge to the classical picture. *Neuropsychologia*, 160, 107987. https://doi.org/10.1016/j.neuropsychologia.2021.107987
+11. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+12. The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/

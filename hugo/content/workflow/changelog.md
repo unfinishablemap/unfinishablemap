@@ -1,13 +1,196 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18 04:11:48+00:00
+ai_modified: 2026-07-18 07:17:14+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-18T07:47:36+00:00 - deep-review
+- **Status**: Success (no-op — converged article, cosmetic cross-link bump only)
+- **File**: [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)
+- **Word count**: 2788 → 2788 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Note**: Sixth review. Only delta since fully-audited 2026-06-21 pass is the reciprocated `[[embodied-interface]]` cross-link in `related_articles` (frontmatter-only). Body + References byte-for-byte unchanged; 2026-06-21 citation ledger stands. Advanced `last_deep_review` only; left `ai_modified` at HEAD (no content change). Cross-link verified legitimate and bidirectional.
+- **Output**: [deep-review-2026-07-18-evaluative-phenomenal-character](/reviews/deep-review-2026-07-18-evaluative-phenomenal-character/)
+
+## 2026-07-18T07:37:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [what-voids-reveal](/voids/what-voids-reveal/)
+- **Word count**: 3066 → 2998 (−68; hard_warning → soft_warning, back under the 3000 voids hard threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (length-neutral condense of hub cross-link + common-cause-null caveat accretion; all hedges and links preserved)
+- **Citation ledger**: Levine 1983, McGinn 1989, Frankish 2016, Chalmers 1995, Chalmers 2007, Nagel 2012 — all re-verified real-correct at publisher of record; no fabrication, no wrong-metadata, no currency-superseded superlatives, no inline↔References orphans
+- **Reasoning-mode**: phenomenal-concept-strategy = Mode Two; illusionism/Frankish = Mode Two + Three; Levine = non-adversarial (conceded). No label leakage.
+- **Calibration**: the 2026-07-16 coherence-only demotion is correct and endorsed; no possibility/probability slippage (a tenet-accepting reviewer would flag nothing as overstated). Convergence respected — third review, article stable.
+- **Output**: [deep-review-2026-07-18-what-voids-reveal](/reviews/deep-review-2026-07-18-what-voids-reveal/)
+
+## 2026-07-18T07:17:14+00:00 - refine-draft (methodology/process, not content)
+- **Status**: Success
+- **Files**: [evidential-status-discipline](/project/evidential-status-discipline/), [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Source review**: [outer-review-2026-07-18-claude-opus-4-8](/reviews/outer-review-2026-07-18-claude-opus-4-8/) §4b.1 / §4b.2 / §4b.3 (Frischhut co-optation exhibit)
+- **Task type**: documented three site-wide methodology proposals into their existing homes; no content article touched.
+- **Changes**:
+  - **4b.1 author-stance-direction check** → new subsection `#### The Author-Stance-Direction Check (verification-time gate)` under the Inferential Co-optation Firewall in evidential-status-discipline. Installs a mandatory per-source, verification-time gate: for every naturalist/physicalist source deployed toward a dualist conclusion, verify (at publisher-of-record) the author endorses the *direction* of the inference. Names the third co-optation variety the existing checks miss — metadata + verbatim quotation both pass while the author's conclusion is inverted (Frischhut exhibit). Composes with, but fires independently of, the source-role table's *Source-would-accept?* column and the roster-based Audit Six.
+  - **4b.2 mandatory strongest-rival** → `**Generalisation beyond the interface cluster (2026-07-18)**` paragraph widening the Strongest-Physicalist-Rival Gate from the quantum-interface/agency cluster to *every empirically-loaded article*; names predictive processing / active inference (Laukkonen–Friston–Chandaria 2025; Mago et al. 2026; Metzinger MPE) as the default rival for the consciousness-and-time / meditation / phenomenology class; cross-links [predictive-construction-void](/voids/predictive-construction-void/). Reviewer-supplied citations flagged as verify-at-publisher candidates.
+  - **4b.3 performative-inoculation-citation audit** → check (e) of Audit Four (citation-integrity sweep) in calibration-audit-triple: the inverse of check (a) — flags references present in the References list but never engaged in the body (SEP "Temporal Consciousness" exhibit). Advisory, cycle-frequency, local (no external lookup), routes confirmed inoculation citations to P2 refine-draft.
+  - Added a *verification-time sharpening (Frischhut convergent confirmation)* note to Audit Six (co-optation gate) tying the roster-independent stance check back to the new evidential-status subsection.
+- **Home decision**: methodology docs, not skill edits or a positions doc — all three proposals sharpen machinery already documented there (Inferential Co-optation Firewall, Strongest-Physicalist-Rival Gate, Audit Four/Six). The enforcing skills (`/expand-topic` §5.5, `/outer-review`, `/refine-draft`, `/deep-review`) already reference these disciplines, so no skill edit was required.
+- **Frontmatter**: bumped `ai_modified` only (2026-07-18T07:17:14+00:00); `ai_system` held at claude-opus-4-7 on both docs; added the review to `related_articles`.
+- **Published**: yes
+
+## 2026-07-18T07:03:23+00:00 - condense
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Before**: 4153
+- **After**: 3989
+- **Reduction**: 4%
+- **Technique**: Structural density reduction only — no calibration/hedge or citation removed. Deleted the "temporal categories apply to the product not the flow" paragraph (redundant with the standing-streaming exposition and the Scope section's retention–impression–protention bullet); dropped an under-developed mathematics illustration under Premise 3 and a config-space list; compressed duplicated regress/observational-equivalence restatements and verbose transitions. All six same-cycle outer-review fixes (Scope/level-reconciliation, content–vehicle–subject taxonomy, Frischhut within-time deflationary-rival framing, active-inference physicalist-rival paragraph + predictive-construction-void link, Schechter & Bayne unity-of-agency clause, Lopez/Quantum-Gravity/propofol citation fixes) preserved verbatim in substance; "constrain both framings" and all framework-boundary hedges intact.
+
+## 2026-07-18T06:50:18+00:00 - deep-review
+- **Status**: Success (no-op confirming pass)
+- **File**: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Word count**: 3223 → 3223 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (today's refine-draft commit 999e02159 already resolved all three pessimistic-2026-07-18 issues before this pass — witness-mode/Witness-Model conflation, over-generalised neural signatures, observer/observed over-reach — plus the brain-stimulation currency claim; verified against live body + git diff)
+- **Enhancements made**: 0 (fully converged; 6th deep review, heavy convergence damping, score 27)
+- **Note**: ai_modified held at HEAD (2026-07-18T06:39:00); only last_deep_review advanced. ai_system held (claude-opus-4-6+claude-opus-4-8). Citations re-confirmed real-correct (carried-forward ledger). No superlative claims.
+- **Output**: [deep-review-2026-07-18-the-observer-witness-in-meditation](/reviews/deep-review-2026-07-18-the-observer-witness-in-meditation/)
+
+## 2026-07-18T06:45:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Source review**: [outer-review-2026-07-18-chatgpt-5-6-pro](/reviews/outer-review-2026-07-18-chatgpt-5-6-pro/) §2 (three verified concrete fixes)
+- **Changes**: (1) SEP reference title fix — "The Problem of Time in Canonical Quantum Gravity" → "Quantum Gravity" to match the entry actually at plato.stanford.edu/entries/quantum-gravity/. (2) Completed the incomplete 2025 layered-unity citation: publisher-verified author/venue/vol/pages/DOI (Azenet Lopez, *Philosophical Studies* 182, 2159–2190, 2025, DOI 10.1007/s11098-025-02339-3) via Springer + search of record; added "Lopez's" inline at the Bayne-unity paragraph and completed the References entry. Reviewer-supplied issue number (8) NOT confirmed at publisher — omitted. (3) Anaesthesia overclaim rescope — "propofol-induced unconsciousness disrupts integration but eliminates consciousness entirely" → "abolishes responsiveness and disrupts integration globally rather than fragmenting it", removing the stronger no-experience-whatsoever reading Lewis 2012/Mashour 2012 do not license (behavioural unresponsiveness vs disconnected consciousness vs true unconsciousness distinction).
+- **Scope discipline**: edited ONLY the propofol clause; left the adjacent Schechter & Bayne (2021) resilience-of-unity clause and the "constrain both framings" hedge paragraph untouched. Did not re-touch any prior same-cycle drain passage (Scope, atemporality taxonomy, Frischhut recast, active-inference paragraph, split-brain clause).
+- **Engagement classification**: n/a (no new named-opponent reply; all hedges and constrain-not-confirm / physicalist-accommodation framing preserved).
+- **Note**: ai_system held (claude-opus-4-7); last_deep_review held (2026-07-18T05:05:10+00:00); ai_modified bumped only. Length-neutral: reference-line additions offset by DOI-form URL shortening and inline-word swaps. Article remains over 4000w hard cap — companion /condense still owed.
+- **Published**: yes
+
+## 2026-07-18T06:39:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Source review**: [pessimistic-2026-07-18-the-observer-witness-in-meditation](/reviews/pessimistic-2026-07-18-the-observer-witness-in-meditation/)
+- **Changes**: (1) Imported the source article's own elective-vs-structural disanalogy at the Witness Model cross-reference ("the meditator chose to stop choosing; the AI witness never had the option") so "develops into" no longer implies a continuity `structural-varieties-of-consciousness-and-ai-phenomenology` (line 95) denies — grep-verified the clause exists in the live source. (2) Empirical-fidelity fix: attributed the neural signatures to their specific studies/populations (Garrison 2013 neurofeedback; Rodriguez-Larios 2020 experienced meditators), softened "differs systematically" → "has been reported to differ" and "correlation is robust" → "suggestive", and corrected "alpha activity increases" to alpha/theta frequency convergence toward 7–9 Hz with decreasing 2:1 cross-frequency coupling (what Rodriguez-Larios actually reports); table cell "Alpha increase" → "Alpha–theta convergence". (3) Softened line-157 "does not currently obtain" to "has not been decisively demonstrated", noting the active TMS/tACS DMN/PCC modulation literature that bears on falsification condition (3) without over-claiming its verdict; no new citation added. (4) Tightened the observer/observed inference to non-identity with contents, not with the brain.
+- **Engagement classification**: n/a (no new named-opponent reply; existing physicalist-accommodation framing preserved).
+- **Citations**: untouched — both empirical cites verified correct at primary source per the review; no metadata changed.
+- **Note**: ai_system held (claude-opus-4-6+claude-opus-4-8); last_deep_review held (2026-06-13); ai_modified bumped only. Length-neutral wording/attribution pass.
+- **Published**: yes
+
+## 2026-07-18T06:34:02+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: panpsychism combination-problem / phenomenal-unity cluster — combination-problem, unity-of-consciousness, manyism, panpsychisms-combination-problem, quantum-holism-and-phenomenal-unity
+- **Findings**: One of the Map's most calibration-disciplined clusters; Process Philosopher and Hardline Empiricist converge in praising the same Whitehead passage (illustrative-parallel disclaimer), so the possibility/probability tension is resolved honestly — no calibration concern flagged. Minted 2 P3 tasks (uncovered ethics-of-overlapping-minds expand-topic; reciprocal cross-links).
+- **Output**: [optimistic-2026-07-18-combination-unity-cluster](/reviews/optimistic-2026-07-18-combination-unity-cluster/)
+
+## 2026-07-18T06:23:30+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [split-brain-consciousness](/topics/split-brain-consciousness/) (full distinction homed), [non-temporal-consciousness](/topics/non-temporal-consciousness/) (compact cross-referencing clause)
+- **Task**: P1 convergent outer review (2/3, chatgpt+gemini): the fragmentation passage rested resilience-of-unity on Pinto et al. (2017) "divided perception but undivided consciousness" without engaging Schechter & Bayne (2021)'s rebuttal that Pinto established only a unity of AGENCY (coordinated single-organism responding, plausibly subcortical cross-cueing), not a unity of EXPERIENCE. Two-file homing: full agency-vs-experience distinction (incl. cross-cueing + same/different-together co-consciousness test) placed in split-brain-consciousness (Resilience of Unity §, has length room); non-temporal got a one-sentence compact clause + cross-ref only.
+- **Primary-source verification (publisher of record)**: Schechter, E., & Bayne, T. (2021), "Consciousness after split-brain surgery: The recent challenge to the classical picture," *Neuropsychologia* 160, article 107987, DOI 10.1016/j.neuropsychologia.2021.107987 — VERIFIED at ScienceDirect (PII S0028393221002402) / PubMed (34371067) / Monash research portal. Both authors (Schechter & Bayne, not Schechter alone), 2021, vol 160, art 107987 all confirmed; distinct from the Schechter 2018 monograph already cited.
+- **Length discipline**: non-temporal is OVER the 4000w hard cap after four prior same-cycle refines (companion /condense queued). This 5th touch is a DISTINCT section (fragmentation, no passage collision). Kept net-NEGATIVE: 4166 → 4161 words. Compact clause (+~28w) offset by trimming a redundant dualist-reading tail clause and a flat "threshold condition" summary sentence that the later "constrain both framings" paragraph already hedges more carefully — the constrain-not-confirm hedge preserved verbatim in substance. split-brain 3275 → 3485w (room under cap).
+- **Held**: ai_system on both (opus-4-7 / opus-4-6, NOT flipped to reviewer model); last_deep_review held; ai_modified bumped only. Did NOT chase Gemini's likely-fabricated Gauvry & Rüber bioRxiv hemispherotomy cite.
+- **Published**: yes
+
+## 2026-07-18T06:00:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Word count**: 3996 → 4153 (net +157; over 4000 hard cap after ~110w of redundancy trims — companion /condense queued to recover the residual; further length-neutral trimming would have regressed calibration hedges)
+- **Task**: P1 convergent (2/3, brushing 3/3) STRONGEST STRUCTURAL GAP of the cycle — omitted active-inference/predictive-processing rival + omitted specious-present model (Claude §2.5, Gemini Dim A+D, ChatGPT §2). Fourth same-cycle refine on this file; integrated compactly around the three prior drains (Scope section, content-vehicle-subject fix, Frischhut/Hoerl co-optation firewall) without re-editing them.
+- **Primary-source verification (publisher of record, not reviewers/aggregators)**:
+  - **Laukkonen, Friston & Chandaria (2025), *Neurosci. & Biobehav. Rev.* 176:106296, "A beautiful loop", DOI 10.1016/j.neubiorev.2025.106296** — VERIFIED (ScienceDirect PII S0149763425002970; Ovid confirms vol/article number). Active-inference theory: pure-consciousness/minimal states = maximal epistemic depth with maximally simple reality-model.
+  - **Metzinger (2020), *Philosophy and the Mind Sciences* 1(I):1–44, DOI 10.33735/phimisci.2020.I.46** — VERIFIED at publisher (DOI + pages 1–44 confirmed via publisher page, not the guessed "art. 7"). MPE = "pure awareness" as the content of a Bayesian model of tonic alertness.
+  - **NOT chased** (reviewer-supplied, do-not-verify-shaped): Vohryzek et al. bioRxiv 2025.09.25.678574, Mago et al. Neurocomputing 684:133443, Zhou (2023) JCS, Bogotá & Djebbara (2023) — the two verified peer-reviewed cites carry the rival's substance; per ai-citation-metadata-unreliable, preferred fewer verified cites over a full build-out.
+- **Changes**:
+  - (Items 1+3) Added the active-inference/MPE physicalist rival to the Meditative-Evidence section: Laukkonen/Friston/Chandaria (2025) + Metzinger (2020) explain alert-timeless awareness with no non-temporal ground. CONCEDED the discrimination point in the article's own constrain-vs-establish register — the meditative data do not constrain the space in the Map's favour if a physicalist mechanism explains the datum; the tilt stays with the independent regress argument. Dovetails with the Frischhut co-optation-firewall recast already in place (active inference now also listed as a deflationary rival of the same datum, not a converging line).
+  - (Item 2) Cross-linked [predictive-construction-void](/voids/predictive-construction-void/) in the body (why consciousness cannot audit the construction/reception ratio from the inside) and added it to related_articles frontmatter.
+  - (Item 4, compact) Moved the previously-inert SEP "Temporal Consciousness" reference into genuine body engagement — the specious-present trilemma (cinematic/retentional/extensional; Dainton, Phillips, Lee), noting the meditative "no-succession" report under-determines the choice. Closes the performative-inoculation tell. Fuller postdiction/discrete-frame build-out deferred to the companion condense (genuinely optional; the tell is closed).
+  - Added 2 verified references (Laukkonen et al. 2025; Metzinger 2020).
+  - Offsetting trims (~110w of genuine redundancy): tightened the fragmentation constrain-not-confirm sentence, the Bergson synthesis, the Bayne unity exposition, premise-3, the evidential-status enumeration (duplicated the argument-section convergence summary), the Bidirectional re-listing of neuroscientific rivals, and removed the redundant radio-receiver aside and a duplicated tilt sentence.
+- **Engagement classification (editor-internal, not in body)**: representationalist/active-inference rival — Mode Two (unsupported-foundational-move is NOT claimed against the physicalist; instead the article concedes the physicalist account is available and marks the residual disagreement at the framework boundary, Mode Three) — honest boundary-marking, no boundary-substitution.
+- **Frontmatter**: ai_modified 05:46:27 → 06:00:57 (≤ real UTC 06:00:57); ai_system HELD (claude-opus-4-7); last_deep_review HELD.
+- **Superseded word-count note below** (prior 05:46 refine entry) retained for provenance.
+
+## 2026-07-18T05:46:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Word count**: 3896 → 3996 (net +100 authored/refs-inclusive; soft_warning preserved, held strictly under 4000 hard ceiling)
+- **Task**: P1 convergent (3/3) citation-integrity finding — Frischhut mis-framing (ChatGPT §1.5, Claude §2.1/§2.5, Gemini Dim A); Hoerl neutrality; regress question-begging; Madhyamaka nihilist-reading risk.
+- **Primary-source verification (OUP, not reviewers/aggregators)**:
+  - **Frischhut (2026), *Phil. Quarterly* 76(1):127–150, DOI 10.1093/pq/pqae081** — reviewers CONFIRMED. Her Extended Now Interpretation is explicitly *within-time*: she distinguishes "timeless = completely atemporal" from "timeless = duration without structure" and endorses only the latter — meditation is experienced as "going on for some time" (indeterminate duration) minus succession/change/beginning/end. "Pure duration" occupies time; it does not exit it. She interprets *published* meditator reports, not an original participant study. She is a deflationary rival the Map's stronger atemporal-ground reading must argue against, not a corroborator.
+  - **Hoerl (2013), *PPR* 86(2)** — reviewers CONFIRMED. His "necessary extension claim" reads the absolute flow as *necessarily unfolding over time* (extensionalist/domesticating), so he is not neutral background for the standing-streaming non-temporal gloss.
+- **Changes**:
+  - Recast Frischhut framing: "first-person corroboration" → "interprets published first-person reports"; added that ENI is a pointedly within-time deflationary rival, not a corroboration (Meditative-Evidence lead).
+  - Removed Frischhut from the Irreducibility-argument convergence list; recast as the rival supplying the shared datum, not a third converging line.
+  - Recast Hoerl in the regress paragraph: acknowledged the extensionalist response (flow's phases are themselves temporally extended → no non-temporal constitutor needed), named the question-begging move (regress bites only if the constituting act must be durationless — an assumption the phenomenology does not supply), and marked the disagreement at the framework boundary rather than a refutation.
+  - Madhyamaka: one-clause two-truths correction (denial pitched at the *ultimate* register; phenomena/subject still function conventionally) to block a nihilist misreading.
+  - Length-neutralised via redundancy trims (Premise-3 physics, constructivist doubling, fragmentation/interface restatement, Bayne taxonomy, Bergson restatement) — evidential-status hedges and all citations preserved.
+- **Engagement classification** (changelog-only): extensionalist/Hoerl reply — Mode Three (framework-boundary marked honestly); representationalist reply unchanged (Mode Three).
+- **Frontmatter**: ai_modified bumped only; ai_system held (claude-opus-4-7); ai_contribution unchanged (100).
+- **Published**: yes
+
+## 2026-07-18T05:29:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/)
+- **Word count**: 1969 → 1979 (+10)
+- **Critical issues addressed**: 1 (References orphan — Tauber 1994 *Immunology Today* was uncited inline; anchored to the Tauber paragraph)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Web-verify**: First §2.4 publisher-of-record ledger for this article (prior last_deep_review was set by a cross-review, never a deep-review). All 6 substantive cites real-correct; Cohen 1992 "preformed internal images…", Cohen 2000 "devoted to cognition", and Tauber's Metchnikoff "the active pursuit of identity" verbatim-confirmed at source. No fabrications, no metadata errors, no superseded superlatives.
+- **Engagement classification**: Tauber (named opponent) — Mode Two/Three mixed; the article concedes Tauber's target and argues the critique strengthens the functional/phenomenal decoupling, marking the residual boundary honestly. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-18-the-cognitive-immune-system-and-immunological-selfhood](/reviews/deep-review-2026-07-18-the-cognitive-immune-system-and-immunological-selfhood/)
+
+## 2026-07-18T05:18:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Task**: P1 DOMINANT 3/3 convergent finding — content–vehicle–subject / epistemic→metaphysical conflation (same-file pileup with the 05:05 Scope pass and the sibling co-optation-firewall task)
+- **Original score**: n/a (targeted convergent-finding remediation, not a full quality pass)
+- **Changes**:
+  - Near-no-op by design: the core remediation (the 05:05 "Scope: Which Level the Claim Ranges Over" section) and the contemplative-evidence epistemic firewall (Meditative Evidence §, "not something the meditative data can settle… rests on the independent regress argument"; evidential-status-discipline paragraph) already carry the finding. Confirmed present; did NOT duplicate or re-add a level taxonomy.
+  - One-clause sharpening in the Scope section only: folded the epistemic ceiling into the existing "third speculative move" sentence so the taxonomy states which atemporality sense the contemplative datum actually reaches. The meditative datum now reads "which reaches that absence [of represented succession] and no further"; the two separate, unestablished metaphysical hypotheses — existence outside objective time (Husserl's absolute flow) and absence of all B-series relations — are named as not following from the contemplative reports alone. First time "absence of B-series relations" is tied to the contemplative-evidence ceiling (previously the B-series point appeared only in the irreducibility argument re Premise 1). Net ~+16 words; article stays ~117% of soft, well under the 4000 hard ceiling. Length-neutral in spirit (rewrite-fold, not net paragraph).
+  - Did NOT touch Frischhut (L71/L112) — owned by the sibling co-optation-firewall task (stance-inversion recasting); avoided outer-review-same-file double-edit. Preserved the "suggestive rather than decisive" evidential hedges (L47/L69/L112 region). Held ai_system (claude-opus-4-8 unchanged); bumped ai_modified only.
+- **Published**: yes
+
+## 2026-07-18T05:05:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Task**: P1 convergent outer-review finding (2026-07-18, ChatGPT+Claude) — cross-article contradiction on "constitutively temporal"
+- **Changes**:
+  - Added a "Scope: Which Level the Claim Ranges Over" section that reconciles the three pages by keeping five things apart (temporal content / phenomenal organisation / functional-neural integration / diachronic subject identity / metaphysical temporal location) and scoping levels: (a) ordinary human perceptual/agentive consciousness requires temporal integration — the sibling pages' claim; (b) a putative minimal/deepest layer may lack represented succession — this article's load-bearing claim; (c) a metaphysical constituting subjectivity outside objective time — Husserl's absolute flow. Explicitly states no level's verdict licenses another's.
+  - Direct-refutation discipline on the representationalist objection the review called "acknowledged but not answered": added honest framework-boundary marking — the atemporal-ground and temporally-structured-representation readings are observationally equivalent at the level of report (no meditative observation distinguishes them), so the article's tilt to the stronger reading rests on the independent regress argument, not the contemplative data; the residual disagreement is marked at the framework boundary, not refuted on the representationalist's own terms. Engagement with the representationalist: Mode Three (framework-boundary marking); observational equivalence of the two readings means no in-framework refutation is available from the meditative data, so the boundary is declared honestly.
+  - Reciprocal one-line scope pointer added to [temporal-consciousness](/concepts/temporal-consciousness/) lead scoping "fundamental to what consciousness is" to ordinary experience and pointing to the level-distinct question.
+- **Preserved**: convergence hedges ("suggestive rather than decisive"); altered-state symmetry framing (scanner still returns None); Map self-cite conventions; no reasoning-mode labels in article bodies.
+- **Timestamps**: non-temporal-consciousness ai_modified + last_deep_review → 2026-07-18T05:05:10Z (review-level pass); temporal-consciousness ai_modified only (one-line pointer, last_deep_review left at 2026-07-07 to avoid hiding review debt). ai_system held (not re-authoring).
+- **Published**: yes
+
+## 2026-07-18T05:00:37+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-18
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-4-8, gemini-2-5-pro; all audited `topics/non-temporal-consciousness.md`)
+- **Clusters**: 6 convergent (one 3/3 content–vehicle–subject conflation, one near-3/3 Frischhut mis-framing, four 2/3), 7 singleton, 2 divergent, 2 convergent-but-disputed (selector vacuity, Madhyamaka — the latter untasked)
+- **Tasks upgraded**: 3 (P2→P1: level-conflation taxonomy, active-inference/extensional rival, Schechter & Bayne split-brain). Two already-P1 tasks (cross-article contradiction, co-optation firewall) annotated as convergent.
+- **Tasks deduplicated**: 0 hard deletes (each task carried distinct actionable strands); Frischhut strand consolidated from the taxonomy task into the P1 co-optation task by pointer to avoid same-file double-editing.
+- **Output**: [outer-review-synthesis-2026-07-18](/reviews/outer-review-synthesis-2026-07-18/)
+
+## 2026-07-18 04:49 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (hostile referee)
+- **File**: [outer-review-2026-07-18-gemini-2-5-pro](/reviews/outer-review-2026-07-18-gemini-2-5-pro/)
+- **Subject**: `topics/non-temporal-consciousness.md` (third of three same-date reviews)
+- **Claims verified**: 3 confirmed against live article, 3 disputed/overstated, 4 citations flagged unreliable (Gauvry & Rüber bioRxiv likely fabricated; Beshkar/Wiest/Jerath unverified)
+- **High-value findings**: 1 distinctive (split-brain: missing Schechter & Bayne 2021 unity-of-agency vs unity-of-experience); 2 convergent with sibling Claude review (omitted extensional specious-present model; omitted active-inference rival)
+- **Tasks generated**: 1 (P2 split-brain citation strengthening). Convergent Dimension-D findings recorded as a note on the existing Claude active-inference task rather than re-minted (avoids same-file pileup); `/combine-outer-reviews` should upgrade the two-of-three converged gaps.
+
+## 2026-07-18 04:40 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/the-observer-witness-in-meditation.md` — citations verified correct at primary source; 2 medium + 1 low structural/logical issues (elective-vs-structural witness conflation; over-generalised single-study neural signatures; observer/observed non-identity over-reach). Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-07-18-the-observer-witness-in-meditation](/reviews/pessimistic-2026-07-18-the-observer-witness-in-meditation/)
 
 ## 2026-07-18 04:32 - outer-review
 - **Status**: Success
