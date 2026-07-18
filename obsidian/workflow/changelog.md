@@ -5,6 +5,15 @@ ai_modified: 2026-07-18T04:11:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 04:49 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (hostile referee)
+- **File**: [[reviews/outer-review-2026-07-18-gemini-2-5-pro]]
+- **Subject**: `topics/non-temporal-consciousness.md` (third of three same-date reviews)
+- **Claims verified**: 3 confirmed against live article, 3 disputed/overstated, 4 citations flagged unreliable (Gauvry & Rüber bioRxiv likely fabricated; Beshkar/Wiest/Jerath unverified)
+- **High-value findings**: 1 distinctive (split-brain: missing Schechter & Bayne 2021 unity-of-agency vs unity-of-experience); 2 convergent with sibling Claude review (omitted extensional specious-present model; omitted active-inference rival)
+- **Tasks generated**: 1 (P2 split-brain citation strengthening). Convergent Dimension-D findings recorded as a note on the existing Claude active-inference task rather than re-minted (avoids same-file pileup); `/combine-outer-reviews` should upgrade the two-of-three converged gaps.
+
 ## 2026-07-18 04:40 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/the-observer-witness-in-meditation.md` — citations verified correct at primary source; 2 medium + 1 low structural/logical issues (elective-vs-structural witness conflation; over-generalised single-study neural signatures; observer/observed non-identity over-reach). Queued one P2 refine-draft.
