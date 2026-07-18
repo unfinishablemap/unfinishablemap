@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-07-11T17:23:45+00:00
+ai_modified: 2026-07-18T00:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ This problem splits into two fundamentally different challenges: the computation
 
 ## The Two Binding Problems
 
-William James identified what is now called the "combination problem" in the 19th century: if consciousness involves many separate neural events, how do they combine into unified experience? Philosophers distinguish two versions (Revonsuo 2006):
+William James identified what is now called the "combination problem" in the 19th century: if consciousness involves many separate neural events, how do they combine into unified experience? Philosophers distinguish two versions (Revonsuo 1999):
 
 **BP1: The Segregation Problem** — How does the brain correctly assign features to objects? When you see a red ball bouncing, visual features (redness, roundness), motion (trajectory, speed), and spatial location are processed in different cortical areas. How does the system bind these features together to represent a single ball rather than confused mismatches? This is a tractable computational problem that neuroscience might solve.
 
@@ -239,7 +239,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
 1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
-1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
+1. Revonsuo, A. (1999). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 8(2), 173-185.
 1. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *ACS Nano*, 14(2), 1403-1411.
 1. Stapp, H. P. (2009). *Mind, Matter, and Quantum Mechanics*. 3rd ed. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.

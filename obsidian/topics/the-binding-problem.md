@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—intra-modal, cross-
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-07-16T13:04:22+00:00
+ai_modified: 2026-07-18T00:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ The Unfinishable Map treats binding as a family of related problems, each reveal
 
 ## The Foundational Distinction: BP1 and BP2
 
-Every binding problem splits into two sub-problems (Revonsuo 2006).
+Every binding problem splits into two sub-problems (Revonsuo 1999).
 
 **BP1 (Computational Binding)** asks how the brain coordinates distributed processing — how the visual system assigns "red" and "round" to the same object rather than swapping features. This is a tractable information-processing problem. Neuroscience has identified plausible mechanisms — [[binding-problem|gamma synchrony]], thalamocortical loops, attentional gating — and continues to make progress.
 
@@ -244,6 +244,6 @@ The treatment here rests on claims that could be undermined:
 1. Jerath, R. & Beveridge, C. (2019). Multimodal Integration and Phenomenal Spatiotemporal Binding: A Perspective From the Default Space Theory. *Frontiers in Integrative Neuroscience*, 13, 2.
 1. Mudrik, L., Faivre, N. & Koch, C. (2014). Information Integration Without Awareness. *Trends in Cognitive Sciences*, 18(9), 488-496.
 1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
-1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
+1. Revonsuo, A. (1999). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 8(2), 173-185.
 1. Stein, B. E. & Stanford, T. R. (2008). Multisensory integration: current issues from the perspective of the single neuron. *Nature Reviews Neuroscience*, 9(4), 255-266.
 1. Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12, 97-136.

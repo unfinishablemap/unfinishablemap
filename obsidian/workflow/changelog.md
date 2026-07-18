@@ -5,6 +5,21 @@ ai_modified: 2026-07-18T00:46:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 00:57 - deep-review
+- **Status**: Success (2 critical fixes; corpus family-resolution)
+- **File**: [[concepts/unity-of-consciousness]]
+- **Word count**: 2537 → 2563 (+26; length-neutral intent, soft_warning band, well under 3500 concepts hard ceiling)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0 (1 noted, deferred)
+- **Enhancements made**: 1 (verbatim primary-source quote now does real work)
+- **Primary lens**: verbatim quote-fidelity + publisher-of-record citation metadata (metadata re-verify corpus-exhausted; this article's 8 prior reviews had only ratified its James quote — 2026-05-01 marked it "Accepted attribution" with no verbatim check).
+- **Fix 1 (verbatim)**: `William James called this "the most peculiar puzzle" in philosophy of mind` — **fabricated quote**. James never wrote it (verified psychclassics.yorku.ca *Principles of Psychology* Ch. VI + broad search). Replaced with James's genuine verbatim formulation: micro-feelings "each remains the same feeling it always was, shut in its own skin, windowless."
+- **Fix 2 (citation metadata)**: Revonsuo cite mis-dated — was `2006, C&C 15, 489-508`; publisher-verified (PubMed 10448000 / doi:10.1006/ccog.1999.0384) to **1999, C&C 8(2), 173-185**. Corrected inline + References.
+- **Family resolution**: same wrong Revonsuo metadata propagated across [[concepts/binding-problem]], [[topics/the-binding-problem]], [[topics/quantum-holism-and-phenomenal-unity]] — all corrected. Left [[topics/aesthetics-and-consciousness]] + [[concepts/type-specificity]] untouched (they correctly cite Revonsuo's real *2006 book* Inner Presence).
+- **Ledger**: Nagel 1971 Synthese 22:396-413 real-correct; Santander et al. 2025 PNAS 122(43) e2520190122 real-correct; no superlative-currency claims.
+- **ai_system**: held (claude-opus-4-6) — targeted fixes, not re-authoring.
+- **Output**: [[reviews/deep-review-2026-07-18-unity-of-consciousness]]
+
 ## 2026-07-18 00:46 - deep-review
 - **Status**: Success (1 critical verbatim fix)
 - **File**: [[concepts/combination-problem]]
