@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T14:09:30.077491+00:00'
-session_count: 16380
-cycle_position: 11379
+last_updated: '2026-07-18T14:14:27.188170+00:00'
+session_count: 16381
+cycle_position: 11380
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T10:21:02.097101+00:00'
   optimistic-review: '2026-07-18T10:59:40.130914+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T14:00:44.593233+00:00'
+  deep-review: '2026-07-18T14:14:27.188170+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T11:49:04.249483+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 519
-  reviews_completed: 6579
+  reviews_completed: 6580
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1315,9 +1315,35 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T14:03:00+00:00'
-  last_replenishment_prev: '2026-07-18T13:48:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review concepts/content-vocabulary-as-derived-feature.md
+  last_replenishment: '2026-07-18T14:20:00+00:00'
+  last_replenishment_prev: '2026-07-18T14:03:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review voids/formal-cognitive-limits.md (interactive
+    /replenish-queue 2026-07-18T14:20, conservative exact-floor +1, ONE mint). AUTHORITATIVE
+    PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write (open P2s: topics/hylomorphic-dualism-and-the-interaction-problem
+    + concepts/content-vocabulary-as-derived-feature, both prior floor-restore mints
+    not yet drained; the three veto condense P2s parser-excluded; pending P3s = 2 harvested
+    research-topics + blocked human-length-decisions, none count toward floor 3); ==
+    3 re-verified live after (select_queue_task next-pick = hylomorphic-dualism, FIFO
+    correct). Source used = staleness / owed-web-verify seam. TARGET = section-diversifying
+    void (the two open P2s are a topic + a concept): voids/formal-cognitive-limits.md,
+    ai_system claude-opus-4-7 (older cohort, opus-4-8-exempt), ai_contribution 100,
+    last_deep_review == ai_modified == 2026-06-04T16:57:22 = 44d converged, git untouched
+    since b99849db3 2026-06-04, and the largest genuinely-unverified citation surface
+    in the clean cohort = 18 metadata-precise math-logic references (Godel 1931 / Turing
+    1936 / Rice 1953 / Chaitin / Penrose 1989+1994 / Lucas 1961 / Carroll 1895 / Hoel
+    2025 IAI-TV currency-risk / Clarke-Doane 2012 possible year-volume mismatch) whose
+    ONLY prior review is the 2026-06-04 fresh-create stamp-setter (no standalone review
+    file, never web-verified at publisher). NOT veto, NOT in Vetoed bank, no open deep-review
+    header. AUTHORITATIVE cap check check_section_caps: topics 320/320, concepts 320/320,
+    voids 100/100 ALL AT CAP (the 14:03 note = 281/270 headroom = STALE/WRONG, corrected);
+    positions 8/80 only headroom but < 10 audit threshold + audited 2026-07-16. Other
+    sources non-generative: chains + unconsumed-research cap-blocked; orphaned_files
+    0; length offenders all veto/human-deferred; no applied-apex gap. NO concurrent
+    evolve_loop.py (pgrep empty); tree clean apart from pre-existing evolution-state.yaml
+    edit; HEAD b73e83a2a. FIFO-placed at bottom of Active (L1446, highest line) so the
+    two older P2s drain first (queue-lifo-starvation). Replenish-at-floor alternation
+    (unfin_loop_steady_state), not a deadlock.'
+  last_floor_restore_target_superseded_2026_07_18_1403: 'mint P2 deep-review concepts/content-vocabulary-as-derived-feature.md
     (interactive /replenish-queue 2026-07-18T14:03, conservative exact-floor +1, ONE
     mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
     (open P2s: measurement-problem Consistent-Histories verify + hylomorphic-dualism
@@ -1361,32 +1387,6 @@ queue_status:
     gap. NO concurrent evolve_loop.py (pgrep empty). Replenish-at-floor alternation
     (unfin_loop_steady_state), not a deadlock. Pruned the 1243 stale floor-restore
     note to hold state-note count at ~3.'
-  last_floor_restore_target_superseded_2026_07_18_1327: 'promote P3 to P2 concepts/direction-of-fit.md
-    cross-link refine-draft (L59 direction-of-fit -> emotion-and-dualism / epistemic-emotions,
-    directedness cluster; interactive /replenish-queue 2026-07-18T13:27, exact-floor,
-    ZERO mints). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks
-    == 2 verified LIVE before the promotion (the two open P2 floor-holder deep-reviews
-    measurement-problem Consistent-Histories verify + hylomorphic-dualism-and-the-interaction-problem);
-    == 3 after (re-verified live via count_p0_p2_tasks on the edited todo). The 12:51
-    phenomenology/first-person-methods cross-link promotion was consumed by a cycle
-    slot, dropping the floor back to 2. Restored by promoting the topmost of the two
-    remaining unblocked 2026-07-17 optimistic-review cross-link refine tasks (L59
-    direction-of-fit: add emotion-and-dualism + epistemic-emotions wikilinks in the
-    emotion-problem section; link-only, length-neutral, grep-verified absent at generation)
-    rather than minting a no-op deep-review/condense -- these link-only P3s are the
-    ones the loop P0-P2 picker never reaches (queue-lifo-starvation). L67 empirical-phenomena-mental-causation
-    Kim-exclusion link remains queued for the next floor drain. The four HUMAN LENGTH
-    DECISION refine-drafts (many-worlds-argument, quantum-biology-and-neural-consciousness,
-    quantum-consciousness, personal-identity) were deliberately NOT promoted -- promoting
-    them lets the loop auto-condense a flagship pending human decision (human-decision-task-mispicked-as-refine).
-    The two research-topic P3s (Bohmian equilibrium, synthetic minimal agents) were
-    NOT promoted -- their expand-topic chains are section-cap-blocked. Other sources
-    non-generative: topics + concepts + voids all AT CAP so expand+research chains
-    blocked; task_chains empty; positions 8/80 < 10 audit threshold + audited 2026-07-16
-    (<30d); orphaned_files 0; no applied-apex gap. NO concurrent evolve_loop.py (pgrep
-    empty). Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.
-    Pruned 4 stale floor-restore notes (1224, 2355, 0345, 0020) to curb state-note
-    bloat.'
   replenishment_source_counts:
     staleness: 1
   run_745_pickable_p0_p2: 3
