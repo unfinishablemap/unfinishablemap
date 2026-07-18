@@ -5,6 +5,17 @@ ai_modified: 2026-07-18T05:05:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T05:18:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Task**: P1 DOMINANT 3/3 convergent finding — content–vehicle–subject / epistemic→metaphysical conflation (same-file pileup with the 05:05 Scope pass and the sibling co-optation-firewall task)
+- **Original score**: n/a (targeted convergent-finding remediation, not a full quality pass)
+- **Changes**:
+  - Near-no-op by design: the core remediation (the 05:05 "Scope: Which Level the Claim Ranges Over" section) and the contemplative-evidence epistemic firewall (Meditative Evidence §, "not something the meditative data can settle… rests on the independent regress argument"; evidential-status-discipline paragraph) already carry the finding. Confirmed present; did NOT duplicate or re-add a level taxonomy.
+  - One-clause sharpening in the Scope section only: folded the epistemic ceiling into the existing "third speculative move" sentence so the taxonomy states which atemporality sense the contemplative datum actually reaches. The meditative datum now reads "which reaches that absence [of represented succession] and no further"; the two separate, unestablished metaphysical hypotheses — existence outside objective time (Husserl's absolute flow) and absence of all B-series relations — are named as not following from the contemplative reports alone. First time "absence of B-series relations" is tied to the contemplative-evidence ceiling (previously the B-series point appeared only in the irreducibility argument re Premise 1). Net ~+16 words; article stays ~117% of soft, well under the 4000 hard ceiling. Length-neutral in spirit (rewrite-fold, not net paragraph).
+  - Did NOT touch Frischhut (L71/L112) — owned by the sibling co-optation-firewall task (stance-inversion recasting); avoided outer-review-same-file double-edit. Preserved the "suggestive rather than decisive" evidential hedges (L47/L69/L112 region). Held ai_system (claude-opus-4-8 unchanged); bumped ai_modified only.
+- **Published**: yes
+
 ## 2026-07-18T05:05:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/non-temporal-consciousness]]

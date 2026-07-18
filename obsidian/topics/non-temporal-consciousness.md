@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-07-18T05:05:10+00:00
+ai_modified: 2026-07-18T05:18:21+00:00
 draft: false
 last_deep_review: 2026-07-18T05:05:10+00:00
 topics:
@@ -56,7 +56,7 @@ The Map holds elsewhere that consciousness is "constitutively temporal" and "doe
 - **Diachronic subject identity** — whether one subject persists across moments.
 - **Metaphysical temporal location** — whether the constituting activity is itself *within* the objective temporal order.
 
-The sibling pages are scoped to ordinary human perceptual and agentive consciousness: at that level experience does require temporal integration, and its content and organisation are thoroughly temporal. Nothing below revises that. This article's load-bearing negative claim is pitched one level down — that a putative minimal or deepest layer may remain alert while lacking *represented succession* (the meditative datum). A third and more speculative move, developed under Husserl's absolute flow, hypothesises a constituting subjectivity standing outside objective time. Neural and functional integration stay temporal throughout; a genuine conflict with the sibling pages would arise only if their "constitutively temporal" were read as a claim about the minimal layer, which it is not.
+The sibling pages are scoped to ordinary human perceptual and agentive consciousness: at that level experience does require temporal integration, and its content and organisation are thoroughly temporal. Nothing below revises that. This article's load-bearing negative claim is pitched one level down — that a putative minimal or deepest layer may remain alert while lacking *represented succession* (the meditative datum, which reaches that absence and no further). The separate and unestablished metaphysical hypotheses — that consciousness exists outside objective time (the more speculative move developed under Husserl's absolute flow) or that it lacks all B-series relations — do not follow from the contemplative reports alone. Neural and functional integration stay temporal throughout; a genuine conflict with the sibling pages would arise only if their "constitutively temporal" were read as a claim about the minimal layer, which it is not.
 
 ## Husserl's Absolute Flow [Open]
 
