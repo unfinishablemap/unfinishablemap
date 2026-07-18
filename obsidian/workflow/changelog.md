@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T03:01:30+00:00
+ai_modified: 2026-07-18T03:55:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18 03:55 - deep-review
+- **Status**: Success (real fix — 2 citation corrections at primary source)
+- **File**: [[topics/the-psychophysical-control-law]]
+- **Word count**: 3058 → 3058 (length-neutral)
+- **Critical issues addressed**: 2 (Chalmers quote page 214→276; Schaffer citation completed with 2020 + unpublished-manuscript metadata)
+- **Primary-source verification**: Schaffer manuscript PDF (jonathanschaffer.org) + archive.org full text of *The Conscious Mind*. Confirmed the 06-26 refine's Chalmers→Schaffer t-shirt reattribution is CORRECT (2026-02-22 review had introduced the error). Discovered the verbatim "It would be odd…" Chalmers quote is on p. 276 (end of Ch.7 org-invariance discussion), not p. 214 (that page holds the separate T-shirt-imagery quote) — three prior reviews had ratified p.214 via intra-corpus consistency.
+- **Enhancements made**: 0 (targeted citation fixes only)
+- **Stamps**: ai_modified + last_deep_review → 2026-07-18; ai_system held at claude-opus-4-6
+- **Output**: [[reviews/deep-review-2026-07-18-the-psychophysical-control-law]]
 
 ## 2026-07-18 03:35 - deep-review
 - **Status**: Success (no-op — quote-fidelity axis clean)
