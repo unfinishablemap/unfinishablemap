@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T22:21:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T22:58:51+00:00 - deep-review
+- **Status**: Success (no-op convergence pass, 8th)
+- **File**: [[topics/consciousness-and-the-normativity-of-reason]]
+- **Word count**: 2555 → 2555 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sole change since the 6th-pass full audit (2026-06-05) is a cosmetic wikilink install (`Wilfrid Sellars` → `[[sellars-manifest-and-scientific-images|...]]`, commit 749e863ea). Body prose byte-for-byte unchanged. Verified new link target exists + is synced; no body edits (editing = oscillation). Advanced `last_deep_review` only; left `ai_modified` at HEAD per no-op discipline. Article fully converged — recommend excluding from routine rotation absent real body content.
+- **Output**: [[reviews/deep-review-2026-07-18-consciousness-and-the-normativity-of-reason]]
+
 ## 2026-07-18T22:45:18+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/ai-as-introspection-control]]
