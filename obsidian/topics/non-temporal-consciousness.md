@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-07-18T06:23:30+00:00
+ai_modified: 2026-07-18T06:45:18+00:00
 draft: false
 last_deep_review: 2026-07-18T05:05:10+00:00
 topics:
@@ -105,13 +105,13 @@ The article takes a middle path. The *minimal subject* response (Zahavi's neo-Hu
 
 If consciousness has a non-temporal ground, what happens when it apparently fragments? Split-brain cases, anaesthesia, and dissociative disorders produce conditions where unified experience fractures — or seems to. For dedicated treatment, see [[split-brain-consciousness]].
 
-Two features of the fragmentation data are telling. The *resilience of unity*: even with the corpus callosum severed, consciousness does not cleanly divide; Pinto et al. (2017) find "divided perception but undivided consciousness" in callosotomy patients — though Schechter and Bayne (2021) contend this establishes only a unity of *agency* (coordinated single-organism responding, plausibly via subcortical cross-cueing), not a unity of *experience*, a distinction [[split-brain-consciousness]] develops. The *incompleteness of fragmentation*: Lewis et al. (2012) observed that propofol-induced unconsciousness disrupts integration but eliminates consciousness entirely rather than producing multiple diminished streams (Mashour, 2012).
+Two features of the fragmentation data are telling. The *resilience of unity*: even with the corpus callosum severed, consciousness does not cleanly divide; Pinto et al. (2017) find "divided perception but undivided consciousness" in callosotomy patients — though Schechter and Bayne (2021) contend this establishes only a unity of *agency* (coordinated single-organism responding, plausibly via subcortical cross-cueing), not a unity of *experience*, a distinction [[split-brain-consciousness]] develops. The *incompleteness of fragmentation*: Lewis et al. (2012) observed that propofol-induced unconsciousness abolishes responsiveness and disrupts integration globally rather than fragmenting it into multiple diminished streams (Mashour, 2012).
 
 For the non-temporal thesis, fragmentation poses a specific problem: if consciousness has a non-temporal ground constituting temporal experience, fragmenting the physical substrate shouldn't fragment consciousness — only disrupt the *interface* through which it expresses itself temporally.
 
 The accommodation does not run only one way. A production or identity theorist has a structurally parallel move: the resilience of unity reflects redundant integration in a substrate that *produces* consciousness, and the propofol case shows integration failing all at once because the production threshold is global. The anaesthesia and split-brain data therefore *constrain* both framings rather than confirming the interface reading over its rival: they rule out any account on which consciousness divides cleanly with the substrate — a wider target than the non-temporal thesis alone — without favouring the interface picture over a production theory that accommodates the same observations.
 
-Whether the non-temporal thesis genuinely *predicts* preserved unity, rather than merely accommodating it, is the harder question. Bayne's *The Unity of Consciousness* (2010) supplies the framework. Bayne distinguishes subject, phenomenal, and representational unity, defending a Unity Thesis on which a single subject's simultaneous experiences are necessarily phenomenally unified, so two non-co-conscious streams require either two distinct subjects or a violation of that thesis. Within the Map's framework the deepest level of consciousness is the singular absolute subjectivity Husserl describes — non-multiple by construction — so the first horn requires the absolute subjectivity itself divide, and the second is what Bayne denies. The Madhyamaka challenge to this singularity reading is the natural limit of what the Bayne engagement secures. The 2025 layered-unity model (*Philosophical Studies*) accommodates the empirical picture with global unity persisting through local fragmentation; Bayne's switch model and this layered alternative remain live competitors.
+Whether the non-temporal thesis genuinely *predicts* preserved unity, rather than merely accommodating it, is the harder question. Bayne's *The Unity of Consciousness* (2010) supplies the framework. Bayne distinguishes subject, phenomenal, and representational unity, defending a Unity Thesis on which a single subject's simultaneous experiences are necessarily phenomenally unified, so two non-co-conscious streams require either two distinct subjects or a violation of that thesis. Within the Map's framework the deepest level of consciousness is the singular absolute subjectivity Husserl describes — non-multiple by construction — so the first horn requires the absolute subjectivity itself divide, and the second is what Bayne denies. The Madhyamaka challenge to this singularity reading is the natural limit of what the Bayne engagement secures. Lopez's 2025 layered-unity model (*Philosophical Studies*) accommodates the empirical picture with global unity persisting through local fragmentation; Bayne's switch model and this layered alternative remain live competitors.
 
 ## The Argument for Irreducibility [Speculative]
 
@@ -189,8 +189,8 @@ Non-temporal consciousness connects directly to the Map's [[tenets]]:
 1. Rovelli, C. (1996). Relational Quantum Mechanics. *International Journal of Theoretical Physics*, 35(8), 1637–1678.
 1. Sharf, R. H. (1995). Buddhist Modernism and the Rhetoric of Meditative Experience. *Numen*, 42(3), 228–283.
 1. Sharf, R. H. (2000). The Rhetoric of Experience and the Study of Religion. *Journal of Consciousness Studies*, 7(11–12), 267–287.
-1. A layered unity model of split-brain consciousness. *Philosophical Studies* (2025). https://link.springer.com/article/10.1007/s11098-025-02339-3
+1. Lopez, A. (2025). A layered unity model of split-brain consciousness. *Philosophical Studies*, 182, 2159–2190. https://doi.org/10.1007/s11098-025-02339-3
 1. Temporal Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-temporal/
 1. The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/
 1. Phenomenology and Time-Consciousness. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/phe-time/
-1. The Problem of Time in Canonical Quantum Gravity. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/quantum-gravity/
+1. Quantum Gravity. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/quantum-gravity/

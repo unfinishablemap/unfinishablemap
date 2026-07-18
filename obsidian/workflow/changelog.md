@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T06:39:00+00:00
+ai_modified: 2026-07-18T06:45:18+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T06:45:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source review**: [[reviews/outer-review-2026-07-18-chatgpt-5-6-pro]] §2 (three verified concrete fixes)
+- **Changes**: (1) SEP reference title fix — "The Problem of Time in Canonical Quantum Gravity" → "Quantum Gravity" to match the entry actually at plato.stanford.edu/entries/quantum-gravity/. (2) Completed the incomplete 2025 layered-unity citation: publisher-verified author/venue/vol/pages/DOI (Azenet Lopez, *Philosophical Studies* 182, 2159–2190, 2025, DOI 10.1007/s11098-025-02339-3) via Springer + search of record; added "Lopez's" inline at the Bayne-unity paragraph and completed the References entry. Reviewer-supplied issue number (8) NOT confirmed at publisher — omitted. (3) Anaesthesia overclaim rescope — "propofol-induced unconsciousness disrupts integration but eliminates consciousness entirely" → "abolishes responsiveness and disrupts integration globally rather than fragmenting it", removing the stronger no-experience-whatsoever reading Lewis 2012/Mashour 2012 do not license (behavioural unresponsiveness vs disconnected consciousness vs true unconsciousness distinction).
+- **Scope discipline**: edited ONLY the propofol clause; left the adjacent Schechter & Bayne (2021) resilience-of-unity clause and the "constrain both framings" hedge paragraph untouched. Did not re-touch any prior same-cycle drain passage (Scope, atemporality taxonomy, Frischhut recast, active-inference paragraph, split-brain clause).
+- **Engagement classification**: n/a (no new named-opponent reply; all hedges and constrain-not-confirm / physicalist-accommodation framing preserved).
+- **Note**: ai_system held (claude-opus-4-7); last_deep_review held (2026-07-18T05:05:10+00:00); ai_modified bumped only. Length-neutral: reference-line additions offset by DOI-form URL shortening and inline-word swaps. Article remains over 4000w hard cap — companion /condense still owed.
+- **Published**: yes
 
 ## 2026-07-18T06:39:00+00:00 - refine-draft
 - **Status**: Success
