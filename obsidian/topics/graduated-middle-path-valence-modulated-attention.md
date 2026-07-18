@@ -4,7 +4,7 @@ description: "Built through human-AI refinement: the fork's most defensible curr
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-07-18T15:03:42+00:00
+ai_modified: 2026-07-18T15:22:00+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-07
 last_curated:
-last_deep_review: 2026-07-07T14:04:25+00:00
+last_deep_review: 2026-07-18T15:22:00+00:00
 ---
 
 The parent fork article ([[valence-and-conscious-selection]]) names a graduated middle path as "the most defensible current stance": **valence shapes where attention goes and how intensely it is sustained, and attention in turn drives selection.** It then leaves that stance a two-paragraph sketch. This article works the coupling as its own position, and reaches a deflationary verdict up front, before any detail: the middle path buys the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] a cheaper route to value-relevance—no second mental-to-physical coupling—but on its own discriminating signature it earns only the *weaker* reading of value's causal standing. It secures that valence is **causally relevant via attention** (not epiphenomenal), and it does not earn the parent's stronger "doubly non-epiphenomenal—real as experienced *and* efficacious as selector" language. The stronger reading belongs to the value-sensitive horn, which the middle path is not. The whole point of specifying the coupling is that the same experiment which would confirm the middle path is the experiment that demotes it.
@@ -89,7 +89,7 @@ Two consequences follow, both deflationary and both required. First, the test is
 
 ## Relation to Site Perspective
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This is the tenet the middle path serves best, and the reason it is the fork's default stance. It makes value causally relevant while adding zero new couplings to the physics—valence rides the single attentional channel the Map already posits, rather than requiring a second valence-to-collapse law the framework cannot specify. Among ways to keep value from being idle, this is the smallest interaction, which is what the tenet asks the Map to prefer.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This is the tenet the middle path serves best, and the reason it is the fork's default stance. It makes value causally relevant while adding zero new couplings to the physics—valence rides the single attentional channel the Map already posits, rather than requiring a second valence-to-collapse law the framework cannot specify. Among the Map's own routes to keeping value from being idle, this is the smallest interaction, which is what the tenet asks the Map to prefer—a strictly intra-fork minimality, since the physicalist rival of §"The Physicalist Rival" keeps value causally relevant with no interaction at all, and the parsimony win claimed here is over the value-sensitive horn's second coupling, not over that rival.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Consciousness still acts on the physical world, and valence contributes to that action—but through attention, not as the selection currency. The middle path gives Bidirectional Interaction real downward content while conceding that the *evaluative* dimension's contribution is mediated. Whether mediated contribution is enough to honour the tenet's spirit, or whether it leaves the interaction narrower than the tenet intends, is the open cost the non-epiphenomenality audit records.
 
