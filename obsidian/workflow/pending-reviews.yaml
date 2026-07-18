@@ -272,3 +272,32 @@
   subject_articles:
   - concepts/consistent-histories-interpretation.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-17-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a5ae2a0-9b70-83eb-88e7-ea37d9bab5cb
+  commissioned_at: '2026-07-18T02:19:31.581743+00:00'
+  prompt_summary: Audit non-temporal-consciousness (claims, citations, counterargs,
+    integration)
+  target_filename: outer-review-2026-07-18-chatgpt-5-6-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are an external reviewer for The Unfinishable Map (https://unfinishablemap.org),\
+    \ a dualist philosophy-of-mind project. Please audit this single article: https://unfinishablemap.org/topics/non-temporal-consciousness/\
+    \ \u2014 last substantively revised on 2026-07-11. Assess it rigorously across\
+    \ four dimensions: (1) the soundness and evidential support of its core claims;\
+    \ (2) the accuracy, currency, and verifiability of its citations against the live\
+    \ 2020s literature; (3) coverage of the strongest counterarguments, especially\
+    \ any it brackets or under-weights to protect the site'''s dualist tenets; and\
+    \ (4) how well it integrates with neighbouring articles on time-consciousness,\
+    \ the specious present, and phenomenal binding. Flag insufficient evidence, missed\
+    \ objections, tenet-protective framing, and stale or misattributed references.\
+    \ Because web-search indexes lag 24-48h, consult the site changelog for recent\
+    \ edits: https://unfinishablemap.org/workflow/changelog/. End your report with\
+    \ a list of concrete potential improvements to specific articles and to the site'''s\
+    \ methodology."
+  subject_type: recent
+  subject_title: Audit non-temporal-consciousness
+  subject_articles:
+  - topics/non-temporal-consciousness.md
+  subject_source: fallback:recent-aged
