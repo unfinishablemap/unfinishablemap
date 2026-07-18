@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T20:30:42+00:00
+ai_modified: 2026-07-18T20:45:23+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T20:45:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/control-theoretic-will]]
+- **Word count**: 2,497 → 2,497 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh deep review. No-op verdict. Article's own argument unchanged since 2026-05-31; only delta since 2026-06-26 review was three cosmetic Further-Reading cross-links ([[anarchic-hand-and-action-ownership]], [[near-perfect-adaptation-and-control-theoretic-competency-without-experience]], [[akrasia-and-weakness-of-will]]) + one calibration-honest akrasia sentence in Open Questions, all installed by sibling cross-review chains. All three new targets resolve to live files; all six inline section anchors re-verified against current target headings. Citation web-verify skipped per §2.4 (References byte-identical to 2026-06-26 verified ledger). At 100% of soft threshold — length-neutral. Only `last_deep_review` advanced; `ai_modified` (2026-07-16) and `ai_system` (claude-opus-4-6) left at HEAD. Strong convergence-damping candidate (7 reviews).
+- **Output**: [[reviews/deep-review-2026-07-18-control-theoretic-will]]
 
 ## 2026-07-18T20:30:42+00:00 - deep-review
 - **Status**: Success
