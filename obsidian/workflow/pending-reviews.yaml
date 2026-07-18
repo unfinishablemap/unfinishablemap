@@ -306,9 +306,9 @@
   commissioned_at: '2026-07-18T03:14:20.873575+00:00'
   prompt_summary: Audit non-temporal-consciousness (claims, citations, integration)
   target_filename: outer-review-2026-07-18-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-18T04:28:36.981882+00:00'
   failure_reason: null
   prompt_text: 'You are acting as a rigorous, skeptical outside referee for The Unfinishable
     Map (https://unfinishablemap.org), a site defending a dualist worldview of consciousness.

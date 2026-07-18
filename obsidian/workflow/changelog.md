@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T04:11:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 04:32 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-07-18-claude-opus-4-8]]
+- **Subject**: Audit of `topics/non-temporal-consciousness.md` (recent-aged fallback; same subject as the 07-18 ChatGPT review)
+- **Verdict**: REVISE-HARD (demote the strong non-temporal-ground thesis to coherence-only; flag the dualism-from-atemporality argument as perpetually contested)
+- **Claims verified**: 5 grounded against the live article (Frischhut framing at L59/L112; active-inference rival absent + `predictive-construction-void` not cross-linked; SEP "Temporal Consciousness" cited-but-unengaged; anonymous Reference #19; sibling-article tension already an open P1). Reviewer-supplied citations (Frischhut stance, Hoerl thesis, 3 active-inference papers) deferred to publisher verification at task-execution time.
+- **High-value findings**: 3 distinctive (Frischhut stance-inversion co-optation breach; absent active-inference/PP rival that makes the meditative evidence non-discriminating; author-stance-verification methodology gap)
+- **Tasks generated**: 3 (P1: 1 co-optation/regress; P2: 1 active-inference rival; P2: 1 methodology). Convergent with the 07-18 ChatGPT review on Frischhut mis-framing and convergence non-independence — flagged for `/combine-outer-reviews`.
+
 ## 2026-07-18 04:11 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro
