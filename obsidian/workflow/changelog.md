@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T16:36:44+00:00
+ai_modified: 2026-07-18T17:07:22+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T17:07:22+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/argument-from-reason]]
+- **Before**: 4684 words
+- **After**: 3978 words
+- **Reduction**: 15%
+- **Technique**: Tightened prose throughout the reliabilism, PIT/consciousness, non-reductive-physicalism (Davidson/Yablo/Kim), and objections sections without cutting arguments; preserved all calibration hedges (IBE-not-only-explanation, corridor-dualism symmetric-exclusion concession, AI open-question) and citations. Trimmed the 30-item Further Reading list to 17 essential entries. Removed the "Sellars showed vocabularies can coexist" objection as a full restatement of the dedicated "Space of Reasons" section. Stripped redundant parenthetical glosses from five References entries (they duplicated body text). Fixed a "not just X—it is Y" cliché in the Space-of-Reasons section per writing-style guide. Cleared the 4000-word hard cap (hard_warning → soft_warning); left above the 3000 target deliberately — tenet-central self-defeat article whose reliabilism / non-reductive-physicalism engagement is genuinely complex and unique, so further cuts would sacrifice substantive argument.
 
 ## 2026-07-18T16:36:44+00:00 - deep-review
 - **Status**: Success
