@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T17:38:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T18:18:37+00:00 - deep-review
+- **Status**: Success (no-op convergence)
+- **File**: [[concepts/constitution-vs-causal-work]]
+- **Word count**: ~1420 → ~1420 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 2nd review; converged, zero content change since 2026-06-04 fresh-create review. Publisher-of-record citation ledger: Saad 2025 re-verified real-correct (Phil Studies 182(3):939-967, DOI live); Clark 2016 & Hohwy 2013 canonical PP monographs correct; Map self-cite pseudonyms per convention. All 12 wikilinks resolve; all 4 in-quote strings match current siblings (no stale-quote drift). No superlatives. PP engagement = Mode Three, no boundary-substitution/label-leakage. Anchoring under-hedge flag is a standing register artifact for this definitional page — carried forward, do not chase. Only `last_deep_review` advanced (`ai_modified`/`ai_system` left at HEAD per no-op rule).
+- **Output**: [[reviews/deep-review-2026-07-18-constitution-vs-causal-work]]
+
 ## 2026-07-18T18:02:28+00:00 - deep-review
 - **Status**: Success (no-op convergence)
 - **File**: [[voids/apophatic-cartography]]

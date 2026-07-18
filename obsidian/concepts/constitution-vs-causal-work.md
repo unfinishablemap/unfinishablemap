@@ -5,7 +5,7 @@ created: 2026-06-04
 modified: 2026-06-04
 human_modified:
 ai_modified: 2026-06-04T13:45:00+00:00
-last_deep_review: 2026-06-04T13:45:00+00:00
+last_deep_review: 2026-07-18T18:18:37+00:00
 draft: false
 topics:
   - "[[consciousness-and-causal-powers]]"
