@@ -1,13 +1,66 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18 16:19:40+00:00
+ai_modified: 2026-07-18 17:38:09+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-18T17:38:09+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Filter-vs-Interface Distinction
+- **Output**: [filter-vs-interface-distinction-2026-07-18](/research/filter-vs-interface-distinction-2026-07-18/)
+- **Sources consulted**: 6
+
+## 2026-07-18T17:28:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Word count**: 2727 → 2744 (+17; one References line)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (inline↔References orphan: added Nagel 1974 entry)
+- **Enhancements made**: 0 (7th review; 2026-07-18 refine-draft was exemplary calibration work — reduced two overclaims, added epistemic/metaphysical hinge; only mechanical defect left was the missing Nagel reference)
+- **Output**: [deep-review-2026-07-18-leibnizs-mill-argument](/reviews/deep-review-2026-07-18-leibnizs-mill-argument/)
+
+## 2026-07-18T17:19:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [recognition-void](/voids/recognition-void/)
+- **Word count**: 2475 → 2475 (length-neutral)
+- **Critical issues addressed**: 0 (converged — 5th review pass; no critical/medium found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (length-neutral prose smoothing of the 2026-07-16 convergence-demotion sentence; unspaced em-dash fixed)
+- **Notes**: Two post-review edits since 2026-06-04 were both calibration improvements (Capgras cross-link install; convergence-as-evidence demoted to coherence-only per convergent outer review). No citation delta since the complete 2026-06-04 publisher-of-record ledger → web-verify no-op. Anchoring strong-assertion flag remains known false-positive. Stable/converged.
+- **Output**: [deep-review-2026-07-18-recognition-void](/reviews/deep-review-2026-07-18-recognition-void/)
+
+## 2026-07-18T17:07:22+00:00 - condense
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Before**: 4684 words
+- **After**: 3978 words
+- **Reduction**: 15%
+- **Technique**: Tightened prose throughout the reliabilism, PIT/consciousness, non-reductive-physicalism (Davidson/Yablo/Kim), and objections sections without cutting arguments; preserved all calibration hedges (IBE-not-only-explanation, corridor-dualism symmetric-exclusion concession, AI open-question) and citations. Trimmed the 30-item Further Reading list to 17 essential entries. Removed the "Sellars showed vocabularies can coexist" objection as a full restatement of the dedicated "Space of Reasons" section. Stripped redundant parenthetical glosses from five References entries (they duplicated body text). Fixed a "not just X—it is Y" cliché in the Space-of-Reasons section per writing-style guide. Cleared the 4000-word hard cap (hard_warning → soft_warning); left above the 3000 target deliberately — tenet-central self-defeat article whose reliabilism / non-reductive-physicalism engagement is genuinely complex and unique, so further cuts would sacrifice substantive argument.
+
+## 2026-07-18T16:36:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [articulability-of-q1](/concepts/articulability-of-q1/)
+- **Word count**: 2785 → 2785 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Notes**: Converged article, byte-unchanged since the 2026-06-03 same-day deep review (`ai_modified` == `last_deep_review`); argument-forced pick, not a scored selection. One fidelity edit: "in Saad's words, only unobservable violations…" → "on Saad's account, …" — removed a verbatim-implying frame on an unquoted paraphrase (same defect-class the prior review fixed at line 38). §2.4 web-verify skipped per trigger (References unmodified; prior review carries full publisher-of-record ledger). Internal-quote channel re-verified against trumping-preemption.md (both quoted strings match line 62 verbatim; #costs-of-the-template anchor resolves). No calibration slippage, no bedrock re-flagging. Second prior deep-review — heavy convergence damping applies henceforth.
+- **Output**: [deep-review-2026-07-18-articulability-of-q1](/reviews/deep-review-2026-07-18-articulability-of-q1/)
+
+## 2026-07-18T16:33:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Word count**: 4669 → 4669 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op: 7th deep review; re-selected only by a cosmetic wikilink bump)
+- **Notes**: Sole delta since 2026-06-24 comprehensive pass is commit 4684a83b1 converting "alien hand syndrome"→[anarchic hand](/topics/anarchic-hand-and-action-ownership/) — cosmetic cross-link install, no content change. Verified: new wikilink target resolves; citations web-verified 2026-06-05 and unchanged; calibration spine (two-tier compound-signature, common-cause discount, restraint hedges) intact; Mode Three / Mode One engagement unchanged, no label leakage. Length 4669w (hard_warning) is a standing human/condense scope decision from the 06-24 pass — not re-flagged, no task minted. Advanced last_deep_review only; ai_modified left at HEAD.
+- **Output**: [deep-review-2026-07-18-clinical-dissociation-as-systematic-evidence](/reviews/deep-review-2026-07-18-clinical-dissociation-as-systematic-evidence/)
 
 ## 2026-07-18T16:19:40+00:00 - deep-review
 - **Status**: Success

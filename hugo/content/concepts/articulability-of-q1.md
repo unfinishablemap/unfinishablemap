@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-03 17:30:44+00:00
+ai_modified: 2026-07-18 16:36:44+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'Human+AI consolidation of the dualism cluster''s sharpest open pro
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 17:30:44+00:00
+last_deep_review: 2026-07-18 16:36:44+00:00
 modified: *id001
 related_articles:
 - '[[interface-formalization-void]]'
@@ -73,7 +73,7 @@ A dualist has two broad ways to close the gap, and each threatens to push Q1 out
 
 Saad's [delegatory-dualism](/topics/delegatory-dualism/) is the most explicit live attempt to specify the law, and the Map treats it as the leading candidate — emphatically not the solution. Its standing is that of a *best current proposal whose central bill is still outstanding*, and the [evidential-status discipline](/project/evidential-status-discipline/) requires saying so plainly.
 
-Saad supplies parts 1 and 2 with unusual precision. The Subset Law\* fixes which experience accompanies which physical state (profile-subset matching against the *default* profile); the Delegatory Law fixes the selection (matched experiences preempt the corresponding subset). Together they yield a position on which, in Saad's words, only unobservable violations of physical closure occur while observable closure is preserved — the [delegatory mechanism](/concepts/delegatory-causation/) treats this in full.
+Saad supplies parts 1 and 2 with unusual precision. The Subset Law\* fixes which experience accompanies which physical state (profile-subset matching against the *default* profile); the Delegatory Law fixes the selection (matched experiences preempt the corresponding subset). Together they yield a position on which, on Saad's account, only unobservable violations of physical closure occur while observable closure is preserved — the [delegatory mechanism](/concepts/delegatory-causation/) treats this in full.
 
 What the candidate does *not* yet supply is the ground — part 3. The two laws are, in Saad's own framing, *candidate* laws rather than derivations: they say experiences are selected, but *why these laws rather than others obtain* — what makes the delegatory rule a feature of nature rather than a posit of the theory — is exactly the fiction-to-nature gap, and it is unpaid. Saad argues (controversially) that the package is coherent and closure-preserving; those are real virtues, but not the same as having articulated a non-stipulative authority law. A coherent stipulation is still a stipulation.
 

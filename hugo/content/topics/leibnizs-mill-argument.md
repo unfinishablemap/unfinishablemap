@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-07-18 10:01:53+00:00
+ai_modified: 2026-07-18 17:28:01+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Leibniz's 1714 thought experiment—walk through an enlarged brain,
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 00:00:00+00:00
+last_deep_review: 2026-07-18 17:28:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,4 +159,5 @@ The mill argument is the historical origin of what has become a converging famil
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
+1. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.
 1. Lodge, P. (2014). Leibniz's mill argument against mechanical materialism revisited. *Ergo*, 1(3), 79-99.

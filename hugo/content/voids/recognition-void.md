@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-07-16 06:42:00+00:00
+ai_modified: 2026-07-18 17:19:24+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI exploration of why consciousness cannot observe its own re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 15:27:30+00:00
+last_deep_review: 2026-07-18 17:19:24+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -120,7 +120,7 @@ The Recognition Void engages multiple [tenets](/tenets/).
 
 **[Dualism](/tenets/#dualism)** is most directly relevant, though the empirical evidence is interpretation-neutral. The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems — perceptual identification and affective familiarity coming apart under selective lesion. Whether that fractionation also shows *phenomenal experience* parting from *physical processing*, rather than one physical sub-system parting from another, is precisely the reading the evidence underdetermines. The Bruce-Young model of face recognition (1986) and most cognitive-neuroscience treatments explain the same pattern through fully physicalist functional decomposition. The dualist reading is consistent with — though not required by — the data: what appears unified in normal experience may comprise contributions from categorically different sources, and the two separate without mutual disruption. Whether the cleanness of selective separation has metaphysical weight or is simply what selectively-damageable functional sub-systems look like is the open question, not the finding. Kant's insistence that recognition requires an "act of spontaneity" — something the understanding contributes that cannot derive from passive sensation — gives the dualist reading philosophical traction even where the dissociation evidence alone leaves the metaphysics underdetermined.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** receives powerful support. The Recognition Void explains *why* parsimony fails as a decisive criterion: parsimony selects among conceived alternatives, but the space of unconceived alternatives may be vast. Our sense that physicalism offers the simplest account of consciousness may itself reflect a recognition void — the concepts needed to see beyond the physical may be absent from our cognitive architecture. Inventory blindness bears on the [convergence argument](/voids/what-voids-reveal/): if absent cognitive capabilities produce no signal, the convergence of multiple void families on the consciousness-physics interface cannot be dismissed merely because some failures go undetected. That does not raise it to framework-independent evidence, though—under the common-cause null the convergence stays coherence of the Map's self-image, not independent confirmation; inventory blindness only blocks one deflationary move against it.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** receives powerful support. The Recognition Void explains *why* parsimony fails as a decisive criterion: parsimony selects among conceived alternatives, but the space of unconceived alternatives may be vast. Our sense that physicalism offers the simplest account of consciousness may itself reflect a recognition void — the concepts needed to see beyond the physical may be absent from our cognitive architecture. Inventory blindness bears on the [convergence argument](/voids/what-voids-reveal/): if absent cognitive capabilities produce no signal, the convergence of multiple void families on the consciousness-physics interface cannot be dismissed merely because some failures go undetected. That does not raise it to framework-independent evidence, though: under the common-cause null the convergence remains a coherence property of the Map's self-image rather than independent confirmation, and inventory blindness only blocks one deflationary move against it.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds an unexpected connection. If the point where physical pattern-matching becomes phenomenal knowing-as is where consciousness meets the physical world, then the Recognition Void and the [Causal Interface Void](/voids/causal-interface/) may be aspects of the same fundamental opacity. What you recognise something *as* shapes how you respond to it — and the phenomenal component of that recognition may play an irreducible causal role. The [placebo effect](/topics/empirical-phenomena-mental-causation/) is consistent with this reading: the same inert pill produces different physiological cascades depending on what the subject believes it to be. Whether the *phenomenal* content (rather than the neural correlate of expectation alone) does the causal work is exactly the contested question the dedicated placebo article must argue; the recognition void only notes the convergence point.
 
