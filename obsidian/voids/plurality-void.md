@@ -4,7 +4,7 @@ description: "Consciousness appears constitutively singular—we cannot conceive
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-06-04T14:30:00+00:00
+ai_modified: 2026-07-18T19:04:11+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-06-04T14:30:00+00:00
+last_deep_review: 2026-07-18T19:04:11+00:00
 ---
 
 Erwin Schrödinger put it directly: "Consciousness is a singular of which the plural is unknown." Schrödinger himself drew a monist conclusion from this datum—that the plural is unknown because there is, at bottom, only one consciousness—but the Map takes the singularity as datum without the monist inference, reading the plurality limit as a genuine void rather than evidence of metaphysical oneness. The Unfinishable Map calls this the plurality void—the systematic inability to conceive what it would be like to be multiple conscious subjects at once. The limit is structural, not a failure of imagination about exotic scenarios. Every attempt to think plural consciousness collapses back into a single viewpoint trying to imagine another single viewpoint. The plurality itself never arrives.
@@ -62,7 +62,7 @@ Some philosophers have suggested split-brain may involve "a non-whole number of 
 
 ### Dissociative Identity Disorder
 
-DID demonstrates that one brain can sustain multiple operationally distinct centres of experience, each with its own personality, sense of identity, and even distinct physiological markers. Neuroimaging confirms these are genuine distinct conscious states, not performance.
+DID demonstrates that one brain can sustain multiple operationally distinct centres of experience, each with its own personality, sense of identity, and even distinct physiological markers. Neuroimaging further indicates these states resist reproduction by simulating controls—evidence against mere performance, though it does not resolve how many consciousnesses are present.
 
 Yet no alter reports experiencing what it is like to be *all the alters at once*. The plurality exists but is not experienced as plural by any single subject. Each alter encounters the system from inside its own singular viewpoint. DID splits consciousness without producing the plural perspective the void targets—suggesting the split creates multiple singularities rather than a genuine plurality.
 
