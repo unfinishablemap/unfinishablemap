@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T13:24:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T14:12:20+00:00 - deep-review
+- **Status**: Success (genuine-delta verification pass — 12th review)
+- **File**: [[concepts/measurement-problem]]
+- **Word count**: 3495 → 3495 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Delta since last deep-review (07-10): new Consistent Histories section + 2 new References (Dowker & Kent 1996, Okon & Sudarsky 2015), timing-gap arithmetic fix ("twelve"→"ten" orders; 10⁻³/10⁻¹³=10¹⁰ correct), Bohm wikilink. §2.4 web-verify of both new citations at publisher of record: both real-correct, in-text characterisations faithful. CH engagement = Mode Three framework-boundary marking (editor-internal), no boundary-substitution or label leakage. No body edits; only `last_deep_review` bumped (`ai_modified` left at HEAD). Article now 3495w — 5w under the 3500 concepts/ hard ceiling ([[hub-articles-accrete-crosslink-length]]); next touch must pair additions with a length-neutral trim.
+- **Output**: [[reviews/deep-review-2026-07-18-measurement-problem]]
+
 ## 2026-07-18T13:57:49+00:00 - deep-review
 - **Status**: Success (no-op convergence pass — 6th review)
 - **File**: [[topics/consciousness-and-neurodegenerative-disease]]
