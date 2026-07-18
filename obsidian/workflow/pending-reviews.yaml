@@ -301,3 +301,29 @@
   subject_articles:
   - topics/non-temporal-consciousness.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/fd47c30a-4943-44b6-9888-575b0d0b7456
+  commissioned_at: '2026-07-18T03:14:20.873575+00:00'
+  prompt_summary: Audit non-temporal-consciousness (claims, citations, integration)
+  target_filename: outer-review-2026-07-18-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are acting as a rigorous, skeptical outside referee for The Unfinishable
+    Map (https://unfinishablemap.org), a site defending a dualist worldview of consciousness.
+    Please audit one article: "Non-Temporal Consciousness" at https://unfinishablemap.org/topics/non-temporal-consciousness/.
+    Assess its central claims, the accuracy and fair use of its citations, the strength
+    of its arguments, and how well it integrates with the site''s tenets and related
+    articles. Actively hunt for logical gaps, unsupported empirical assertions, misattributed
+    or fabricated citations, question-begging, and counterarguments the article omits
+    or handles weakly. Test whether its claims about the temporality or atemporality
+    of experience hold up against contemporary philosophy of mind and cognitive science.
+    Consult the site''s changelog for recent context: https://unfinishablemap.org/workflow/changelog/
+    (external search indexes lag 24-48h). End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit non-temporal-consciousness
+  subject_articles:
+  - topics/non-temporal-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-18-chatgpt-5-6-pro.md
