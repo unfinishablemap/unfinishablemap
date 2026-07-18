@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T00:46:24+00:00
+ai_modified: 2026-07-18T03:01:30+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18 03:01 - deep-review
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Word count**: 3712 → 3712 (~0)
+- **Critical issues addressed**: 2 (verbatim quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification**: 8th deep review; quote-fidelity focus (metadata already publisher-verified 06-02 + 06-24, not re-checked). Primary-source verbatim check of the Cutter (2025) §8 quotes at Cutter's own Notre Dame page (PhilPapers/Asbury PDFs Cloudflare-locked). Fixed two source-attributed misquotes: "fitness to possess" → Cutter's verbatim "fit to possess" a soul / "fitting recipient argument"; "non-trivially possible" → his verbatim "at least a middling credence" (invented quote also understated his claim). Townsend §4 already de-quoted to correct attributed paraphrase (no action). Calibration clean; ai_system held (opus-4-7, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-18-dualism-as-ai-risk-mitigation]]
 
 ## 2026-07-18 02:42 - deep-review
 - **Status**: Success (no-op)
