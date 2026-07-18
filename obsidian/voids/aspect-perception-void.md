@@ -4,8 +4,8 @@ description: "Consciousness cannot witness its own seeing-as: the dawning, the a
 created: 2026-05-01
 modified: 2026-05-02
 human_modified: null
-ai_modified: 2026-06-04T22:00:56+00:00
-last_deep_review: 2026-06-04T22:00:56+00:00
+ai_modified: 2026-07-18T15:43:31+00:00
+last_deep_review: 2026-07-18T15:43:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,15 +66,15 @@ The architectural-asymmetric character is what distinguishes this face. From out
 
 ### Constitution (Occluded, with Unexplorable Edges)
 
-Aspect-perception involves the integration of subsidiary content—context, expectation, concept, internal relations—into focal content. The aspect "lives" in this integration, not in the stimulus and not in the report. Following [[tacit-integration-void]], the integration cannot be made focal without collapsing what it constitutes. Trying to hold the duck and the rabbit *as integrations* simultaneously is the empirical failure mode: one collapses into a flicker, into half-hearted aspect-perception, or into one aspect's victory over the other.
+Aspect-perception involves the integration of subsidiary content—context, expectation, concept, internal relations—into focal content. The aspect "lives" in this integration, not in the stimulus and not in the report. Following [[tacit-integration-void]], the integration cannot be made focal without collapsing what it constitutes. Trying to hold the duck and the rabbit *as integrations* simultaneously is the empirical failure mode: the attempt collapses into a flicker or into one aspect's victory over the other.
 
-Siegel (engaging Searle) argues that aspect-switching cases show visual experience represents richer properties than colour, shape, position, and size—the phenomenal content of seeing-as exceeds low-level sensory content. Aeon's framing captures the doubleness: aspects are "neither subjective (inner, metaphysically private) nor objective"; they "present perceivable unity and sense that are (arguably) not (yet) conceptual"; they are "subject to the will, but at the same time are normally taken to be genuinely revelatory of the object perceived under it." This neither-nor status maps cleanly onto the Map's interface ontology.
+Whether aspect-switching shows visual experience represents richer properties than colour, shape, position, and size is contested: Searle and Siegel argue the phenomenal content of seeing-as exceeds low-level sensory content; Price (2009) holds the cases need not require it. Aeon's framing captures the doubleness: aspects are "neither subjective (inner, metaphysically private) nor objective"; they "present perceivable unity and sense that are (arguably) not (yet) conceptual"; they are "subject to the will, but at the same time are normally taken to be genuinely revelatory of the object perceived under it." This neither-nor status maps cleanly onto the Map's interface ontology.
 
 The cognitive-penetration debate underscores the constitutive role of higher cognition: predictive-coding accounts frame perception as constructive, with priors and expectations entering into what is perceived. If perception is cognitively penetrable, aspect-seeing is the rule rather than the exception, and the penetration mechanism is hidden from the perceiver. The constitution face is *Occluded*: structure operates and shapes outcomes, but the system whose perception it constitutes cannot perceive that constitution while it operates.
 
 ## Convergence and Empirical Anchoring
 
-The three faces are not isolated to philosophy. Multistable-perception research provides empirical traction. Garrido and Tovar (2025) model neurocognitive mechanisms through competing neural processing components, attractor depth, excitation–inhibition balance, neural noise, and top-down/bottom-up interaction. A 2013 *PNAS* study reports that, compared with simple perception, "bistable perception requires additional higher-order brain regions and dramatically enhanced top-down and bottom-up influences." The neural traffic of the switch is detectable from outside; the corresponding seeing-as event remains reportable but not introspectible. Empirical correlates exist, but they describe neural conditions of switching rather than what the switch *is* phenomenally.
+The three faces are not isolated to philosophy. Multistable-perception research provides empirical traction. Garrido and Tovar (2025) model neurocognitive mechanisms through competing neural processing components, attractor depth, excitation–inhibition balance, neural noise, and top-down/bottom-up interaction. A 2013 *PNAS* study reports that, compared with simple perception, "bistable perception requires additional higher-order brain regions and dramatically enhanced top-down and bottom-up influences." The neural traffic of the switch is detectable from outside, but it describes the conditions of switching rather than what the switch *is* phenomenally—which remains reportable yet not introspectible.
 
 Kuhn's likening of paradigm shifts to gestalt-switches scales the void to the level of scientific worldview. Kuhn himself remained uncertain whether the gestalt analogy was metaphor or instance of a deeper mechanism. The macro-instance—two scientists looking at the same data and seeing different things—has the same structural opacity as the duck-rabbit: the participants cannot witness the shift from inside the shift, even when its institutional traces (citations, abandoned problems, new instruments) are visible from outside.
 
@@ -132,12 +132,12 @@ The void is also tenet-adjacent methodologically: the Map's framework-shifts (su
 6. Nachtomy, O., & Blank, A. *Wittgenstein on Aspect Blindness and Meaning Blindness*. PhilArchive.
 7. Wenzel, C.H. (2010). "On Wittgenstein's Notion of Meaning-Blindness." *Philosophical Investigations*, 33(3).
 8. Krebs, V.J., & Day, W. (Eds.). *Wittgenstein on Aspect Perception*. Cambridge Elements.
-9. Garrido, R., & Tovar, A.E. (2025). "Modeling Neurocognitive Mechanisms in Multistable Perception." *Adaptive Behavior*. https://journals.sagepub.com/doi/10.1177/10597123241307674
+9. Garrido, R., & Tovar, A.E. (2025). "Modeling Neurocognitive Mechanisms in Multistable Perception: Insights Into Variability in Autism." *Adaptive Behavior*, 33(2), 121–134. https://journals.sagepub.com/doi/10.1177/10597123241307674
 10. Wang, M., Arteaga, D., & He, B.J. (2013). "Brain mechanisms for simple perception and bistable perception." *PNAS*, 110(35), E3350–E3359. https://www.pnas.org/doi/10.1073/pnas.1221945110
 11. Long, G.M., & Toppino, T.C. (2004). "Enduring interest in perceptual ambiguity: Alternating views of reversible figures." *Psychological Bulletin*, 130(5), 748–768.
 12. Stanford Encyclopedia of Philosophy. "Thomas Kuhn." https://plato.stanford.edu/entries/thomas-kuhn/
 13. Stanford Encyclopedia of Philosophy. "Introspection." https://plato.stanford.edu/entries/introspection/
 14. Stanford Encyclopedia of Philosophy. "Cognitive Penetrability."
-15. Siegel, S. *Aspect-Switching and Visual Phenomenal Character*. (Engages Searle on rich-content theories.) academia.edu.
-16. "Is Artificial Intelligence an Aspect-blind?" (2022). *Journal of Northeastern University (Social Sciences)*.
+15. Price, R. (2009). "Aspect-Switching and Visual Phenomenal Character." *The Philosophical Quarterly*, 59(236), 508–518. (Disputes the Searle/Siegel rich-content reading of aspect-switching.)
+16. Li, G., & Yuan, C. (2022). "Is Artificial Intelligence an Aspect-blind? Based on Wittgenstein's Philosophy of Perception." *Journal of Northeastern University (Social Science)*, 24(2), 1–7.
 17. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Suspension Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/suspension-void/

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T15:28:50+00:00
+ai_modified: 2026-07-18T15:43:31+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T15:43:31+00:00 - deep-review
+- **Status**: Success (broke a false "converged"; critical citation misattribution)
+- **File**: [[voids/aspect-perception-void]]
+- **Word count**: 1989 → 2018 (+29)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (citation fidelity) + 2 length-neutral prose trims
+- **Notes**: 3rd deep-review; body last touched by a 2026-07-06 coalesce that repointed thought-stream-void→transit-void links (no ai_modified bump). Ran the §2.4 publisher-of-record web-verify, which prior reviews had done against research notes/intra-corpus. Caught a CRITICAL wrong-author + reversed-framing defect the 2026-05-02 review had actively ratified: the paper "Aspect-Switching and Visual Phenomenal Character" is by Richard Price (Phil. Quarterly 59(236):508–518, 2009) and argues AGAINST rich content, not by Siegel supporting it. Reframed body to contested-debate (Searle/Siegel argue for; Price disputes) and re-attributed ref #15 to Price. Also completed metadata on Garrido & Tovar (dropped subtitle + vol/pp) and the AI-aspect-blind ref (authors + vol/pp), both verified at publisher. Wang/Arteaga/He PNAS quote and Friedland verified real-correct. Engagement Mode Three (Dualism), no label leakage. Length-neutral on prose; residual +29 is legitimate citation metadata.
+- **Output**: [[reviews/deep-review-2026-07-18-aspect-perception-void]]
 
 ## 2026-07-18T15:28:50+00:00 - deep-review
 - **Status**: Success (converged; verbatim-quote fresh-eyes catch)
