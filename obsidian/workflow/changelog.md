@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T22:21:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T22:33:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-as-perceptual-architect]]
+- **Word count**: 2907 → 2907 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth review; firmly converged. Only change since 2026-06-25 review was a coalesce-aftermath wikilink retarget (perceptual-degradation → perceptual-failure). Link integrity verified (successor resolves, old slug archived/URL-preserved, no residual references), citations unchanged/publisher-verified, calibration honest, no possibility/probability slippage. No-op: last_deep_review bumped only; ai_modified/ai_system left settled.
+- **Output**: [[reviews/deep-review-2026-07-18-consciousness-as-perceptual-architect]]
+
 ## 2026-07-18T22:21:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/collapse-and-time]]
