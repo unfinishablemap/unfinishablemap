@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T11:31:44.398378+00:00'
-session_count: 16350
-cycle_position: 11367
+last_updated: '2026-07-18T11:36:41.976748+00:00'
+session_count: 16351
+cycle_position: 11368
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T10:21:02.097101+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-07-18T03:15:04.033243+00:00'
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
   refine-draft: '2026-07-18T11:04:04.821989+00:00'
-  research-topic: '2026-07-17T07:56:57.410313+00:00'
+  research-topic: '2026-07-18T11:36:41.976748+00:00'
   replenish-queue: '2026-07-18T11:26:33.500211+00:00'
   condense: '2026-07-18T07:05:21.702593+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
@@ -91,7 +91,7 @@ progress:
   questions_written: 0
   voids_written: 100
   positions_written: 8
-  research_notes: 518
+  research_notes: 519
   reviews_completed: 6575
   apex_articles: 39
 quality:
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-18'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1322,42 +1322,35 @@ queue_status:
   p3_tasks: 13
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T11:24:56+00:00'
-  last_replenishment_prev: '2026-07-18T11:10:15+00:00'
-  last_floor_restore_target: 'promote P3->P2 topics/terminal-lucidity-and-filter-transmission-theory.md
-    refine-draft (interactive /replenish-queue conservative exact-floor, ZERO new
-    mints, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE
-    (open P2s phenomenology-of-cognitive-capacity + pain-consciousness-and-causal-power,
-    both quote-fidelity no-op floor-holders); == 3 after this single promotion (post
-    re-verified via count_p0_p2_tasks). DELIBERATELY promoted the OLDEST actionable
-    P3 (top of active, todo line 40) rather than mint yet another staleness deep-review
-    no-op floor-holder -- this session had ALREADY produced 4-5 false "never-verified"
-    owed-web-verify mints today (phenomenology-of-cognitive-capacity + pain-consciousness
-    + evaluative-phenomenal-character + grain-mismatch + consciousness-and-skill-acquisition;
-    each CORRECTED by the supervising session because the scorer keeps surfacing fully-publisher-verified
-    converged articles), so promotion avoids repeating that over-mint failure mode
-    and drains the LIFO-starved backlog head per queue-lifo-starvation / p3-only-floor-preemption-starves.
-    Terminal-lucidity refine is well-specified (deferred sub-finding #4 from the 2026-07-16
-    ChatGPT 5.6 Pro empirical-precision sweep: separate the epistemic levels + verify
-    the OUP Innovation in Aging cite at publisher), cap-safe (refine not expand),
-    length-safe (3430w soft_warning, 570w under the 4000 topics hard ceiling) so NOT
-    a human-length-decision. Now first in file-order among P2s so it drains next queue
-    slot -- a GENUINE refine drains before the two no-op floor-holders. Other 7 generative
-    sources exhausted: caps hit topics 320/320 + concepts 320/320 + voids 100/100;
-    positions 8/80 < 10 audit threshold + audited 2026-07-16 (<30d, replenish-positions-audit-false-overdue
-    guard); length offenders human-deferred / #veto flagships; task_chains empty;
-    orphaned_files 0; no applied-apex gap. No concurrent evolve_loop (pgrep -af evolve_loop
-    empty, sole hit own shell); tree carried only my todo.md promotion + the pre-session
-    evolution-state.yaml bookkeeping mod; HEAD d6d886899. Replenish-at-floor alternation
-    [unfin_loop_steady_state], not a deadlock.'
-  last_floor_restore_target_prev: staleness mint deep-review topics/pain-consciousness-and-causal-power.md
+  last_replenishment: '2026-07-18T11:40:48+00:00'
+  last_replenishment_prev: '2026-07-18T11:24:56+00:00'
+  last_floor_restore_target: 'staleness mint deep-review concepts/measurement-problem.md
     (interactive /replenish-queue conservative exact-floor +1, ONE mint, no padding).
-    PRE-COUNT count_p0_p2_tasks == 2 (open P2s consciousness-and-skill-acquisition
-    + phenomenology-of-cognitive-capacity, both quote-fidelity no-op floor-holders);
-    == 3 after. Mint premise ("highest-yield owed-web-verify seam / verbatim surface
-    UNCHECKED") was CORRECTED by the supervising session as a FALSE never-verified
-    claim (5th such today); kept as an honest no-op floor-holder rather than reverted.
-    Replenish-at-floor alternation [unfin_loop_steady_state], not a deadlock.
+    AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write (open
+    P2s: refine-draft terminal-lucidity + the corrected pain-consciousness no-op floor-holder);
+    == 3 after (post-mint re-verified). DELIBERATELY the body-drift-verify variant,
+    NOT a 6th owed-web-verify no-op: the trigger is a GENUINE content delta (ai_modified
+    2026-07-17 > last_deep_review 2026-07-10; commit 3195aadc2 grafted a new Consistent
+    Histories counter-position section AFTER the last review), and the concrete unchecked
+    surface is the TWO new never-reviewed citations that refine introduced (Dowker
+    & Kent 1996 J Stat Phys; Okon & Sudarsky 2015 SHPMP) -- web-verify at primary
+    publisher, frame Dowker-Kent set-selection critique accurately, check quantum-selection
+    cluster cross-link reciprocity + Tenet 2/4 routing. Length 3495w, ~5w under the
+    3500 concepts hard ceiling -> review MUST be length-neutral, NOT a condense task.
+    concepts/ section = diversity from the two open topics/ P2s. FIFO-placed below
+    them (queue-lifo-starvation). Other 7 sources non-generative: caps topics 320/320
+    + concepts 320/320 + voids 100/100 all AT CAP (expand/research chains blocked);
+    positions 8/80 < 10 audit threshold + audited 2026-07-16 (<30d); 51 length offenders
+    all hard_warning (none critical), near-ceiling steady state / #veto / human-deferred;
+    task_chains empty; orphaned_files 0; no applied-apex gap. No concurrent evolve_loop
+    (pgrep empty); tree clean except pre-session evolution-state.yaml bookkeeping; HEAD
+    c31e4c344. Replenish-at-floor alternation [unfin_loop_steady_state], not a deadlock.'
+  last_floor_restore_target_prev: 'promote P3->P2 topics/terminal-lucidity-and-filter-transmission-theory.md
+    refine-draft (interactive /replenish-queue 2026-07-18T11:24, exact-floor, ZERO
+    mints). Pre-count 2 -> 3 after single promotion of the oldest actionable P3, chosen
+    over minting yet another owed-web-verify no-op (session had produced 4-5 false
+    never-verified mints). Genuine well-specified refine (2026-07-16 ChatGPT empirical-precision
+    sweep sub-finding #4), cap-safe, length-safe. unfin_loop_steady_state.'
   last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore
     replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
