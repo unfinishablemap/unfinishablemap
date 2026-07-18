@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T22:58:00.208950+00:00'
-session_count: 16473
-cycle_position: 11424
+last_updated: '2026-07-18T23:01:44.850740+00:00'
+session_count: 16474
+cycle_position: 11425
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T19:30:20.757769+00:00'
   optimistic-review: '2026-07-18T20:29:13.309668+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T22:38:45.119700+00:00'
-  deep-review: '2026-07-18T22:34:53.507585+00:00'
+  deep-review: '2026-07-18T23:01:44.850740+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T22:39:49.688252+00:00'
   coalesce: '2026-07-18T21:15:00.448157+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6618
+  reviews_completed: 6619
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1325,38 +1325,37 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T22:55:00+00:00'
-  last_replenishment_prev: '2026-07-18T22:27:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review concepts/quantum-interpretations.md
-    (/replenish-queue 2026-07-18T22:55Z, conservative exact-floor +1, ONE mint, no
-    padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count == 2 (open P2s:
-    topics/consciousness-and-the-normativity-of-reason + concepts/phenomenal-concepts-strategy,
+  last_replenishment: '2026-07-18T23:03:00+00:00'
+  last_replenishment_prev: '2026-07-18T22:55:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review topics/arguments-against-materialism.md
+    (interactive /replenish-queue 2026-07-18T23:03Z, conservative exact-floor +1, ONE
+    mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count == 2
+    (open P2s: concepts/phenomenal-concepts-strategy + concepts/quantum-interpretations,
     both near-no-op staleness floor-holders; #veto condense tasks correctly selector-excluded),
     == 3 re-verified live after write. A cycle deep-review slot drained a prior sibling
     floor-holder, dropping the live floor 3->2 -- documented replenish-at-floor alternation
-    (unfin_loop_steady_state), NOT a concurrent race: pgrep -af evolve_loop.py empty
-    at write time; HEAD 116436b41. Eight-source audit re-confirms exhaustion: chain
-    empty; unconsumed-research + gap blocked (topics 320/320 concepts 320/320 voids
-    100/100 all AT CAP, only positions 8/80 has room but < 10-entry audit threshold
-    + audited 07-16 <30d); staleness LIVE -- SOURCE USED; length -- every offender
-    #veto / human-length-deferred, no clean mintable condense; orphans 0; applied-apex
-    none. Target: quantum-interpretations.md -- a quantum-foundations CONCEPT (theme-diversifies
-    from the queued rational-normativity topic + phenomenal-concepts anti-materialism
-    concept), last_deep_review 2026-06-23 (25d, oldest cohort past staleness floor),
-    ai_system claude-opus-4-5-20251101 (oldest in candidate set, NOT the de-prioritized
-    opus-4-8), aic 100, 2563w OK (concepts soft 2500 / hard 3500 -- under ceiling,
-    length-neutral deep-review NOT a condense). Only post-review touch is the cosmetic
-    07-12 bohm-implicate-order cross-link retarget (096eb40d8, numstat 2/2, no own-body
-    drift). Damping-scorer ~14.1; higher non-queued entries are the 10-12-day cohort
-    (over-review risk), decoherence-and-macroscopic-superposition + near-death-experiences
-    + filter-theory (content-touched TODAY, churn-skip), or metaphysics-of-composition
-    (over the 4000 topics ceiling, human-length collision). Genuine-but-thin residual:
-    verbatim/attribution-verify the interpretation-survey citation surface (Bohm 1952,
-    GRW 1986, Everett 1957, von-Neumann-Wigner) at primary publishers; keep No-MWI
-    / VNW-favouring readings framework-relative (Tenet 4). Honestly framed staleness
-    floor-holder: near-no-op expected -> bump last_deep_review ONLY, HOLD ai_modified
-    2026-07-12 + ai_system opus-4-5. NOT vetoed, NOT open-duplicate, NOT session-touched.
-    Overwrote prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
+    (unfin_loop_steady_state), NOT a concurrent race: pgrep -af evolve_loop.py only
+    this session at write time; HEAD 7d962790e. Eight-source audit re-confirms exhaustion:
+    chain empty; unconsumed-research + gap blocked (topics 320/320 concepts 320/320
+    voids 100/100 AT CAP, positions 8/80 < 10-entry audit threshold + audited 07-16
+    <30d); staleness LIVE -- SOURCE USED; length -- every offender #veto / human-length-deferred,
+    no clean mintable condense; orphans 0; applied-apex none. Target: arguments-against-materialism.md
+    -- a TOPIC (section-diversifies from the two queued CONCEPT floor-holders), last_deep_review
+    2026-06-21 (27d, oldest cohort past staleness floor), ai_system claude-opus-4-6
+    (NOT the de-prioritized opus-4-8), aic 100, 2936w OK (topics soft 3000 / hard 4000
+    -- under soft, length-neutral deep-review NOT a condense). Only post-review touch
+    is the cosmetic 07-12 auto(coalesce) cross-link retarget (a87034a9b, numstat 2/2,
+    no own-body drift). Damping-scorer ~13.5; higher non-queued entries are the 10-12-day
+    cohort (over-review risk), decoherence + near-death + filter-theory (content-touched
+    TODAY, churn-skip), metaphysics-of-composition (over the 4000 topics ceiling), or
+    explanatory-gap (3502w over the 3500 concepts ceiling). Genuine-but-thin residual:
+    verbatim/attribution-verify the anti-materialism citation surface (Jackson 1982,
+    Chalmers 1996, Levine 1983, Papineau/Loar/Stoljar) at primary publishers; keep
+    each argument framework-relative + steelman materialism (Tenet 1). Honestly framed
+    staleness floor-holder: near-no-op expected -> bump last_deep_review ONLY, HOLD
+    ai_modified 2026-07-12 + ai_system opus-4-6. NOT vetoed, NOT open-duplicate, NOT
+    session-touched. Overwrote prior target-note in place to hold state-note count steady
+    (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_decisionvoid_2037: 'mint P2 deep-review voids/decision-void.md
     (interactive /replenish-queue 2026-07-18T20:37Z, conservative exact-floor +1,
     ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
@@ -1412,6 +1411,7 @@ queue_status:
     the prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
   replenishment_source_counts:
     staleness: 1
+  run_748_pickable_p0_p2: 3
   run_746_pickable_p0_p2: 3
   run_745_pickable_p0_p2: 3
   run_739_pickable_p0_p2: 3
@@ -1446,7 +1446,7 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 747
+  last_replenishment_run: 748
   last_replenishment_mode: conservative
   run_740_pickable_p0_p2: 4
   run_740_note: 'run no.740 (2026-07-07T04:48Z, interactive /replenish-queue): FLOOR-RESTORING
