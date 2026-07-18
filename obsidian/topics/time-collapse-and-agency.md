@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-06-23T01:51:36+00:00
+last_deep_review: 2026-07-18T20:55:23+00:00
 ---
 
 The Unfinishable Map's framework makes interconnected claims about time, quantum collapse, and conscious agency that together form a distinctive metaphysics. Free will operates through quantum selection — retrocausal, atemporal, or [[forward-in-time-conscious-selection|forward-in-time]] — and this article focuses on the retrocausal and atemporal routes because they most tightly couple agency to time's structure. Collapse introduces time's arrow into otherwise time-symmetric physics, and consciousness doesn't merely experience time—it may help constitute temporal structure through its role in collapse. If consciousness selects among quantum outcomes, and collapse creates temporal asymmetry, then agency and time's direction are fundamentally linked.
