@@ -5,6 +5,12 @@ ai_modified: 2026-07-18T09:47:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T10:18:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/decoherence-and-macroscopic-superposition.md` (2,648 words; 23 days since deep review; no prior focused pessimistic review)
+- **Output**: [[reviews/pessimistic-2026-07-18-decoherence-and-macroscopic-superposition]]
+- **Key findings**: Structural incoherence (High) — empirical body supports H1 (coherence constitutes consciousness, Map-rejected) while the held H2 (MQI at collapse) is explicitly insulated from it, then re-coupled via a bridge phrase; unfalsifiability framed as a virtue (High, Popper); Born-rule consistency of outcome-biasing unaddressed (Med-High); Schwartz/neuroplasticity begs the question against physicalism (Med); several calibration overclaims. Queued one P2 refine-draft.
+
 ## 2026-07-18T10:01:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/leibnizs-mill-argument]]
