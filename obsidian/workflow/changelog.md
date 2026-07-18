@@ -5,6 +5,14 @@ ai_modified: 2026-07-18T11:34:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T11:52:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
+- **Original score**: n/a (targeted refine; deferred sub-finding #4 from outer-review-2026-07-16-chatgpt-5-6-sol-pro, recommendation #22)
+- **Changes**: Added "Separating the Levels the Phenomenon Runs Together" section decomposing the phenomenon into seven distinct levels (case existence / reporting reliability / temporal proximity / medication effects / fluctuating cognition / network recovery / metaphysical interpretation); only the seventh bears on filter-vs-production, and per the evidential-status discipline the phenomenon does not count toward filter theory until the lower six are separated out. Quote-fidelity fix at lead: "evidence for" → "raising, in their words, 'the possibility of'" a network-level return (abstract Background says "highlights the possibility of," not evidential framing of results). Verified Tollock et al. 2025 (Innovation in Aging, igaf122.2914) at OUP publisher: enrollment (151), lucidity events (93/61.6%, 267), event-type breakdown (67.8/34.8/27.7/25.1%), terminal-lucidity 4.1%, and medication-change triggers (immunomodulating agents, antihistamines) all confirmed verbatim. Preserved all existing hedges and the constraint-not-confirmation conclusion. No named-opponent reply added, so direct-refutation-discipline classification not triggered.
+- **ai_system**: held (claude-opus-4-6); ai_modified bumped only; last_deep_review held.
+- **Published**: yes
+
 ## 2026-07-18T11:34:24+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The aggregation problem for overlapping minds
