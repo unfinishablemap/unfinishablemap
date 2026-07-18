@@ -4,8 +4,8 @@ description: "Luke Roelofs' manyism holds that many overlapping conscious subjec
 created: 2026-06-17
 modified: 2026-06-17
 human_modified: null
-ai_modified: 2026-06-19T21:25:00+00:00
-last_deep_review: 2026-07-06T17:18:45+00:00
+ai_modified: 2026-07-18T01:16:22+00:00
+last_deep_review: 2026-07-18T01:16:22+00:00
 draft: false
 topics:
   - "[[panpsychisms-combination-problem]]"
@@ -31,7 +31,7 @@ Manyism is Luke Roelofs' name for the thesis that **many overlapping, slightly d
 
 ## The Core Claim: Subjects Overlap and Share
 
-The combination problem asks how billions of micro-subjects (electrons, particles) could constitute one unified human subject when subjects seem "shut in their own skin." The standard panpsychist hope is that micro-subjects somehow merge into a new macro-subject. Sam Coleman's much-cited dilemma presses on exactly this: if subjects A and B combine into subject C, either A and B cease (so nothing combined) or A, B, and C all persist (so C is an addition, not a combination).
+The combination problem asks how billions of micro-subjects (electrons, particles) could constitute one unified human subject when each subject seems "shut in its own skin." The standard panpsychist hope is that micro-subjects somehow merge into a new macro-subject. Sam Coleman's much-cited dilemma presses on exactly this: if subjects A and B combine into subject C, either A and B cease (so nothing combined) or A, B, and C all persist (so C is an addition, not a combination).
 
 Roelofs' manyism takes the second horn and embraces it. In his words, "there's nothing wrong with 'manyism'—the idea that many overlapping, slightly different, conscious subjects exist in one place." The micro-subjects do *not* vanish into the composite; the composite does not replace them. Both exist, overlapping, with the composite subject *sharing* the very experiences its parts have.
 

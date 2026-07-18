@@ -5,6 +5,13 @@ ai_modified: 2026-07-18T00:46:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 01:16 - refine-draft
+- **Status**: Success (1 James verbatim-quote fix; targeted cluster propagation)
+- **File**: [[concepts/manyism]]
+- **Original score**: n/a (targeted verify-job)
+- **Changes**: Fixed sibling-propagated pluralized corruption of James's Mind-Stuff quote — "subjects seem 'shut in their own skin'" → "each subject seems 'shut in its own skin'". Verified singular "its own skin, windowless" verbatim at psychclassics.yorku.ca/James/Principles/prin6.htm (Principles 1890, "The Mind-Stuff Theory", p.160) — NOT via unfinishablemap.org (circular). Confirmed "101st"/"hundred-and-first feeling" and fabricated "most peculiar puzzle" defects NOT present. Coleman combination dilemma sentence accurate (left intact). Framework-relative discipline preserved (combination problem CONSTRAINS panpsychism). Oquatre-sept self-cite pseudonym preserved. Length-neutral. Both stamps bumped; ai_system held (correcting, not re-authoring).
+- **Published**: yes
+
 ## 2026-07-18 01:13 - deep-review
 - **Status**: Success (2 James verbatim-quote fixes + 1 citation orphan resolved)
 - **File**: [[topics/panpsychisms-combination-problem]]
