@@ -5,6 +5,17 @@ ai_modified: 2026-07-18T00:46:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 02:42 - deep-review
+- **Status**: Success (no-op)
+- **File**: [[topics/presentiment-and-retrocausality]]
+- **Word count**: 1972 → 1972 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification**: 8th deep review. Body byte-identical to 06-24 web-verify; only trigger was a cosmetic Further Reading cross-link (a26228732, 07-12). Re-verified contested parapsychology stats at primary publishers today — Mossbridge 2012 (ES 0.21, RE-CI 0.13–0.29), Bem et al. 2016 (90 exp), Wagenmakers 2011 ("weak to nonexistent" verbatim), Galak 2012 (N=3,289, d≈0.04) all real-correct. Line-65 illustrative 10²⁰/10¹¹ figures PRESERVED (Map's own illustration, self-labelled). No slippage; Tegmark engagement Mode Three intact.
+- **Stamps**: `last_deep_review` bumped only; `ai_modified` held at HEAD (2026-07-12T20:13:00); `ai_system` held (claude-opus-4-5-20251101).
+- **Output**: [[reviews/deep-review-2026-07-18-presentiment-and-retrocausality]]
+
 ## 2026-07-18 02:07 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/steelmanning-as-method]]
