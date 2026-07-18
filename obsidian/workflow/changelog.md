@@ -5,6 +5,11 @@ ai_modified: 2026-07-18T04:11:48+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 04:40 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/the-observer-witness-in-meditation.md` — citations verified correct at primary source; 2 medium + 1 low structural/logical issues (elective-vs-structural witness conflation; over-generalised single-study neural signatures; observer/observed non-identity over-reach). Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-18-the-observer-witness-in-meditation]]
+
 ## 2026-07-18 04:32 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8
