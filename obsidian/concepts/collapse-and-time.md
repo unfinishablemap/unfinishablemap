@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-24T23:23:00+00:00
+last_deep_review: 2026-07-18T22:21:08+00:00
 coalesced_from:
   - "/concepts/consciousness-collapse-arrow-of-time/"
 ---

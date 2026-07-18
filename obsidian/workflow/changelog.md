@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T21:02:00+00:00
+ai_modified: 2026-07-18T22:21:08+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T22:21:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/collapse-and-time]]
+- **Word count**: 2054 → 2054 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; eighth review — only delta since the thorough 2026-06-24 web-verify pass is one cosmetic wikilink conversion in commit 934b8adb5)
+- **Web-verify**: §2.4 skipped legitimately — body + References byte-identical since 2026-06-24; full publisher-of-record ledger already clean. New wikilink target (transactional-interpretation-of-quantum-mechanics) verified to exist. No body edits; advanced last_deep_review only, ai_modified left at HEAD (2026-07-12).
+- **Output**: [[reviews/deep-review-2026-07-18-collapse-and-time]]
 
 ## 2026-07-18T22:06:30+00:00 - deep-review
 - **Status**: Success
