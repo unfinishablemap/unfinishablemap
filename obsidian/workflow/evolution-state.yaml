@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T16:04:30.142602+00:00'
-session_count: 16397
-cycle_position: 11388
+last_updated: '2026-07-18T16:08:15.016611+00:00'
+session_count: 16398
+cycle_position: 11389
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T15:00:46.932689+00:00'
   optimistic-review: '2026-07-18T16:04:30.142602+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T15:51:27.213598+00:00'
+  deep-review: '2026-07-18T16:08:15.016611+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T11:49:04.249483+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 519
-  reviews_completed: 6587
+  reviews_completed: 6588
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-18'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1307,13 +1307,44 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 96
+  p2_tasks: 97
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T15:57:00+00:00'
-  last_replenishment_prev: '2026-07-18T15:36:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review concepts/articulability-of-q1.md
+  last_replenishment: '2026-07-18T16:11:00+00:00'
+  last_replenishment_prev: '2026-07-18T15:57:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review voids/apophatic-cartography.md (interactive
+    /replenish-queue 2026-07-18T16:11, conservative exact-floor +1, ONE mint). AUTHORITATIVE
+    PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write (open P2s: concepts/the-agent-shaped-hole
+    + concepts/articulability-of-q1, both prior floor-holders not yet drained), == 3
+    re-verified live after; FIFO-placed at bottom of Active so the two older P2s drain
+    first (queue-lifo-starvation). Source = staleness. **Target HONESTLY framed — this
+    one IS a REAL owed-web-verify, not manufactured:** voids/apophatic-cartography
+    is the STALEST ai_contribution=100 article after the two queued holders (last_deep_review
+    2026-06-04T00:00 = ~44d converged, git-untouched since 383ff4bf6, ai_system claude-opus-4-8,
+    voids soft/hard 2000/3000). DISTINCT file from concepts/apophatic-cartography-four-criteria
+    (apophatic-approaches-ambiguous-slug). Unlike the two queued holders (cites already
+    web-verified 06-03), this article''s 12-entry external reference list was NEVER
+    web-verified at publisher — the 06-04 review only date-plausibility-checked "References
+    1-12 canonical", its parenthetical list STOPPED at Armour 2000 and has ZERO mention
+    of Priest/Rancourt (grep-confirmed 0 hits). So the two 2025 cites — Priest 2025
+    "Wittgenstein and the Paradoxes at the Limits of Language" (Blog of the APA) + Rancourt
+    2025 "The Virtue of Ignorance" (Southern Journal of Philosophy) — plus McGinn 1989
+    Mind 98(391) / Chalmers 1995 JCS 2(3) / Levine 1983 / Fine 2018 Synthese 195 are
+    a genuinely UNCHECKED surface (owed-web-verify-seam-deep-review-targeting; owed-web-verify-task-false-never-verified-premise
+    does NOT apply — no prior Web-Verification section for this file). Scope: web-verify
+    the external list at publisher + verbatim-quote spot-check (Nagel/McGinn/Wittgenstein/Borges)
+    at primary text (not self-page) + stale-internal-channel/link-reciprocity on ~18
+    wikilinks + evidential-status-discipline calibration + length-neutral. Expected
+    outcome = probable real citation/link fix (bump BOTH last_deep_review + ai_modified);
+    if fully clean, bump last_deep_review ONLY + hold ai_modified/ai_system. AUTHORITATIVE
+    cap check: topics 320/320, concepts 320/320, voids 100/100 ALL AT CAP; positions
+    8/80 < 10 audit threshold + audited 2026-07-16. Other sources non-generative: chains
+    + unconsumed-research cap-blocked; orphaned_files 0; length offenders all veto/human-deferred;
+    no applied-apex gap. NO concurrent evolve_loop.py (pgrep clean). Replenish-at-floor
+    alternation (unfin_loop_steady_state), not a deadlock. Promoted the 1557 articulability
+    note to superseded; holding floor-restore-note count at 3 (evolution-state-floor-restore-note-bloat).'
+  last_floor_restore_target_superseded_2026_07_18_1557: 'mint P2 deep-review concepts/articulability-of-q1.md
     (interactive /replenish-queue 2026-07-18T15:57, conservative exact-floor +1, ONE
     mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
     (open P2s: concepts/kairos + concepts/the-agent-shaped-hole; voids/aspect-perception-void,
