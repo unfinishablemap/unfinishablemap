@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T17:38:09+00:00
+ai_modified: 2026-07-18T19:17:24+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T19:17:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/normative-void]]
+- **Word count**: 2180 → ~2178 (~-2, length-neutral)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (de-quoted McGinn attribution)
+- **Notes**: 5th review; converged, body/References unchanged since 2026-06-04 web-verified pass (§2.4 full-ledger re-verify skipped as no-op on unchanged text). Discharged the single carried-forward Remaining Item: the lead presented `McGinn explicitly exempted "moral and social cognition" from cognitive closure` as a verbatim quote. Web-verify (colinmcginn.net "Mysterianism Revisited" + Map research note) — phrase is not a locatable McGinn quotation; his closed-problem list excludes ethics by omission, not by an explicit statement using that phrase. Paraphrase-as-quote de-quoted and "explicitly" softened; substance preserved. Bedrock metaethical disagreement (closure vs. ignorance) not re-flagged; no calibration slippage; no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-18-normative-void]]
 
 ## 2026-07-18T19:04:11+00:00 - deep-review
 - **Status**: Success
