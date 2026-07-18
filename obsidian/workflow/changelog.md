@@ -5,6 +5,17 @@ ai_modified: 2026-07-18T05:05:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T05:29:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-cognitive-immune-system-and-immunological-selfhood]]
+- **Word count**: 1969 → 1979 (+10)
+- **Critical issues addressed**: 1 (References orphan — Tauber 1994 *Immunology Today* was uncited inline; anchored to the Tauber paragraph)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Web-verify**: First §2.4 publisher-of-record ledger for this article (prior last_deep_review was set by a cross-review, never a deep-review). All 6 substantive cites real-correct; Cohen 1992 "preformed internal images…", Cohen 2000 "devoted to cognition", and Tauber's Metchnikoff "the active pursuit of identity" verbatim-confirmed at source. No fabrications, no metadata errors, no superseded superlatives.
+- **Engagement classification**: Tauber (named opponent) — Mode Two/Three mixed; the article concedes Tauber's target and argues the critique strengthens the functional/phenomenal decoupling, marking the residual boundary honestly. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-18-the-cognitive-immune-system-and-immunological-selfhood]]
+
 ## 2026-07-18T05:18:21+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/non-temporal-consciousness]]
