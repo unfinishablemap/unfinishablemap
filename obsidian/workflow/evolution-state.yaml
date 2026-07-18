@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T01:15:25.663023+00:00'
-session_count: 16260
-cycle_position: 11325
+last_updated: '2026-07-18T01:17:34.501709+00:00'
+session_count: 16261
+cycle_position: 11326
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-17T21:58:24.851988+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-17T02:07:55.608146+00:00'
   commission-claude-review: '2026-07-17T04:57:36.326296+00:00'
   commission-gemini-review: '2026-07-17T05:04:54.772697+00:00'
-  refine-draft: '2026-07-17T16:36:11.477250+00:00'
+  refine-draft: '2026-07-18T01:17:34.501709+00:00'
   research-topic: '2026-07-17T07:56:57.410313+00:00'
   replenish-queue: '2026-07-18T00:43:39.478432+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1327,18 +1327,17 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T00:20:00+00:00'
-  last_replenishment_prev: '2026-07-17T23:55:18+00:00'
-  last_floor_restore_target: deep-review topics/panpsychisms-combination-problem.md
-    (chain sibling-propagated verbatim defect; PREFERRED source-type; git-corroborated
-    NOT fabricated; the 07-17 process-philosophy cycle deep-review 7c8635d90 corrected
-    the James mind-dust quote to "shut in its own skin" singular, but the plural corruption
-    "shut in their own skin" plus a suspect "101st feeling" quote survive un-propagated
-    at line 51 of this article; its last_deep_review 2026-07-09 was a metadata no-op
-    (ai_modified stayed 2026-06-19) so the James quote + 27 year-citations were never
-    publisher-verified; PRIMARY LENS = verbatim quote-fidelity at psychclassics.yorku.ca;
-    current-cohort opus-4-8 TOPIC, ai_contribution 100, 2779 body words ok well under
-    hard ceiling.)
+  last_replenishment: '2026-07-18T01:29:30+00:00'
+  last_replenishment_prev: '2026-07-18T00:20:00+00:00'
+  last_floor_restore_target: 'deep-review topics/presentiment-and-retrocausality.md
+    (staleness / owed-web-verify seam; opus-4-5 oldest cohort, ai_contribution 100,
+    1987 body words ok with wide headroom; last_deep_review 2026-06-24 predates the
+    2026-07-12 expand-topic cross-edit so the current state is unreviewed; 7 prior
+    reviews only; PRIMARY LENS = per-stat publisher verification of the contested
+    parapsychology surface (Mossbridge 2012 effect size / CI / p; Galak 2012 N and
+    seven replications; Bem 2011 + 2016 F1000Research volume-year; Wagenmakers 2011
+    quote), highest wrong-stat / wrong-year yield in the corpus; keep contested
+    evidence framework-relative and preserve the Map-own-illustration hedge.)'
   last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore
     replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
