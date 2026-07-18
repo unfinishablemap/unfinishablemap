@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T15:22:00+00:00
+ai_modified: 2026-07-18T15:28:50+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T15:28:50+00:00 - deep-review
+- **Status**: Success (converged; verbatim-quote fresh-eyes catch)
+- **File**: [[voids/formal-cognitive-limits]]
+- **Word count**: 2244 → 2251 (+7)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th deep-review; article unmodified since the 06-04 review (its own commit b99849db3 is the last touch). Applied the one lens no prior pass ran: verbatim fidelity of the two inline quotes. Wolfram NKS p741 quote was a silent compression presented as verbatim ("For meaningful general predictions to be possible…" dropped "it must at some level be the case that") — corrected to the exact publisher wording (wolframscience.com/nks/p741), prefaced "In his words,". Hoel iai.tv quotes both real-correct verbatim (ellipsis honestly bridges two clauses). Citation metadata unchanged since 06-04 full web-verify; Clarke-Doane 2012 year deferred again (deliberate, list-only ref). Lucas-Penrose calibration honest; no label leakage. Bedrock disagreements not re-flagged.
+- **Output**: [[reviews/deep-review-2026-07-18-formal-cognitive-limits]]
 
 ## 2026-07-18T15:22:00+00:00 - deep-review
 - **Status**: Success (near-converged)

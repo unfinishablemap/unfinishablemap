@@ -4,7 +4,7 @@ description: "Mathematics has proved that certain truths are unreachable by any 
 created: 2026-01-27
 modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-06-04T16:57:22+00:00
+ai_modified: 2026-07-18T15:28:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated: null
-last_deep_review: 2026-06-04T16:57:22+00:00
+last_deep_review: 2026-07-18T15:28:50+00:00
 coalesced_from:
   - "/voids/computational-cognitive-limits/"
   - "/voids/incompleteness-void/"
@@ -89,7 +89,7 @@ Some mathematical propositions may be "absolutely undecidable"—unprovable by a
 
 ## Computational Irreducibility
 
-Stephen Wolfram argues that some computations cannot be simplified—the only way to know the outcome is to run every step. "For meaningful general predictions to be possible, the system making predictions must be able to outrun the system it is trying to predict." When systems have equivalent computational power, neither can simulate the other faster than real time.
+Stephen Wolfram argues that some computations cannot be simplified—the only way to know the outcome is to run every step. In his words, "for meaningful general predictions to be possible, it must at some level be the case that the system making the predictions be able to outrun the system it is trying to predict." When systems have equivalent computational power, neither can simulate the other faster than real time.
 
 Some futures cannot be known until they arrive—not for lack of information but because knowing requires the same resources as living through it. The Map extends this via [[adaptive-computational-depth|adaptive computational depth]]: if outcomes cannot be pre-computed, reality may allocate detail where consciousness attends, implying a non-computational allocator.
 
