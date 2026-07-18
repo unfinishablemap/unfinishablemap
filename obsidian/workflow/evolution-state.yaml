@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T19:34:33.661141+00:00'
-session_count: 16435
-cycle_position: 11407
+last_updated: '2026-07-18T19:38:14.093285+00:00'
+session_count: 16436
+cycle_position: 11408
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T19:30:20.757769+00:00'
   optimistic-review: '2026-07-18T16:04:30.142602+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T19:19:17.853030+00:00'
+  deep-review: '2026-07-18T19:38:14.093285+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T16:53:55.212111+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6601
+  reviews_completed: 6602
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1313,40 +1313,34 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 97
+  p2_tasks: 98
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T19:22:00+00:00'
-  last_replenishment_prev: '2026-07-18T19:11:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review concepts/control-theoretic-will.md
-    (interactive /replenish-queue 2026-07-18T19:22Z, conservative exact-floor +1,
-    ONE mint, no padding, honestly framed as a near-no-op staleness floor-holder NOT
-    a manufactured owed-web-verify). AUTHORITATIVE count_p0_p2_tasks LIVE pre-count
-    == 2 (arguments/functionalism-argument 23d [18:52 mint] + topics/indian-philosophy-of-mind
-    22d [19:11 mint] floor-holders, both undrained; voids/normative-void was picked+completed
-    by a cycle slot since the 18:34 mint so the floor fell 3->2), == 3 re-verified
-    live after write. Eight-source audit re-confirms at-cap exhaustion: topics 320/320
-    concepts 320/320 voids 100/100 all AT CAP so expand + unconsumed-research blocked;
-    orphaned_files 0; no clean mintable condense (topics staleness #1 time-collapse-and-agency
-    over the 4000 hard ceiling at 4606w with a parked HUMAN LENGTH DECISION so skipped;
-    all other criticals veto/human-deferred/research-notes/apex-index); positions
-    8/80 audited 2026-07-16 so NOT overdue; no admissible chain successor (research-topic
-    completions have at-cap expand successors). Target control-theoretic-will SECTION-DIVERSIFIES
-    (concept vs the argument+topic floor-holders): last_deep_review 2026-06-26 (22d),
-    ai_system claude-opus-4-6 (older cohort, not the de-prioritized opus-4-8), ai_contribution
-    100, 2497w status ok (concepts soft 2500, length-neutral). Post-review deltas
-    all COSMETIC cross-link integration (git-diffed: anarchic-hand + near-perfect-adaptation
-    Further-Reading adds + one akrasia sentence folded into an existing paragraph),
-    so a metadata no-op is acceptable. Earlier de-selected in the 07-17 22:08 audit
-    as "session-touched" but that was 07-16/07-17-relative; two days on it is clean
-    and still un-re-reviewed. Thin residual: verbatim quote-fidelity on control-theory
-    exposition at primary source + wikilink reciprocity (free-will/volitional-control/akrasia/anarchic-hand)
-    + evidential-status discipline (will-as-controller framework-relative, preserve
-    the akrasia "needs a non-physical controller is exactly what akrasia leaves open"
-    hedge). Expected outcome near-no-op: bump last_deep_review only, HOLD ai_modified
-    + ai_system opus-4-6. FIFO-placed at bottom of Active so the two older P2s drain
-    first. No concurrent evolve_loop.py (pgrep-confirmed none running). Overwrote
+  last_replenishment: '2026-07-18T19:41:00+00:00'
+  last_replenishment_prev: '2026-07-18T19:22:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review apex/phenomenology-of-consciousness-doing-work.md
+    (interactive /replenish-queue 2026-07-18T19:41Z, conservative exact-floor +1, ONE
+    mint, no padding). AUTHORITATIVE count_p0_p2_tasks LIVE pre-count == 2 (both open
+    P2s stale-converged deep-reviews: topics/indian-philosophy-of-mind + concepts/control-theoretic-will,
+    the prior 19:22 mint), == 3 re-verified live after write. Eight-source audit re-confirms
+    at-cap exhaustion: topics 320/320 concepts 320/320 voids 100/100 all AT CAP so
+    expand + unconsumed-research blocked; orphaned_files 0; no clean mintable condense
+    (the only non-veto content-section critical, topics/epistemology-of-convergence-arguments
+    6533w, is the STANDING HUMAN LENGTH DECISION in Blocked — 4 prior condenses failed,
+    human SPLIT recommended, do NOT re-mint; all other criticals veto/human-deferred/research-notes/apex-index);
+    positions 8/80 audited 2026-07-16 not overdue; no admissible chain successor (recent_tasks
+    has ZERO research/expand/cross-review completions). Target phenomenology-of-consciousness-doing-work
+    is GENUINE DRIFT not a converged no-op: last_deep_review 2026-06-06 but commit
+    9e6d1ca57 (auto apex-evolve, 2026-07-17) added a whole new "## Evidence and Dependency"
+    calibration section citing Naccache/Kahneman/Rajan/motor-imagery-meta/Kurzban-Inzlicht/Bodien
+    — unverified citation+calibration surface, last_deep_review predates it, so the
+    prior 9-review convergence-damping is SUPERSEDED. SECTION-DIVERSIFIES (apex vs
+    the two topic/concept floor-holders). 4479w apex soft_warning (~521w margin under
+    5000 hard) so length-neutral. Review: web-verify new cites at primary publisher,
+    confirm the under-claiming independence framing honours evidential-status discipline,
+    HOLD ai_system + keep apex_last_synthesis==ai_modified on a no-op. Inserted at top
+    of Active to defeat LIFO. No concurrent evolve_loop.py (pgrep-confirmed none). Overwrote
     the prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_recognitionvoid_1712: 'mint P2 deep-review voids/recognition-void.md
     (interactive /replenish-queue 2026-07-18T17:12, conservative exact-floor +1, ONE
@@ -1443,7 +1437,7 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 746
+  last_replenishment_run: 747
   last_replenishment_mode: conservative
   run_740_pickable_p0_p2: 4
   run_740_note: 'run no.740 (2026-07-07T04:48Z, interactive /replenish-queue): FLOOR-RESTORING
