@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T22:51:06.488742+00:00'
-session_count: 16471
+last_updated: '2026-07-18T22:51:45.836677+00:00'
+session_count: 16472
 cycle_position: 11424
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-07-18T05:03:38.630399+00:00'
   collect-gemini-review: '2026-07-18T04:53:01.440180+00:00'
   positions-evolve: '2026-07-17T16:51:55.434999+00:00'
-  check-model-fallback: '2026-07-18T18:46:18.609562+00:00'
+  check-model-fallback: '2026-07-18T22:51:45.836677+00:00'
   harvest-research-subjects: '2026-07-18T17:36:21.037839+00:00'
   skip-queue-slot: '2026-07-15T18:19:21.981092+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-18'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-07-18'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1325,36 +1325,38 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T22:15:00+00:00'
-  last_replenishment_prev: '2026-07-18T22:04:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review topics/consciousness-and-the-normativity-of-reason.md
-    (interactive /replenish-queue 2026-07-18T22:15Z, conservative exact-floor +1,
-    ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
-    == 2 (open P2s: concepts/collapse-and-time + topics/consciousness-as-perceptual-architect,
+  last_replenishment: '2026-07-18T22:55:00+00:00'
+  last_replenishment_prev: '2026-07-18T22:27:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review concepts/quantum-interpretations.md
+    (/replenish-queue 2026-07-18T22:55Z, conservative exact-floor +1, ONE mint, no
+    padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count == 2 (open P2s:
+    topics/consciousness-and-the-normativity-of-reason + concepts/phenomenal-concepts-strategy,
     both near-no-op staleness floor-holders; #veto condense tasks correctly selector-excluded),
-    == 3 re-verified live after write. The prior 22:04Z consciousness-as-perceptual-architect
-    mint stayed open; a cycle deep-review slot drained a sibling floor-holder, dropping
-    the live floor 3->2 -- documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT a concurrent race: pgrep -af evolve_loop.py empty at write time; HEAD 4659f9d05.
-    Eight-source audit re-confirms exhaustion: chain empty; unconsumed-research +
-    gap blocked (topics 320/320 concepts 320/320 voids 100/100 all AT CAP, only positions
-    8/80 has room but < 10-entry audit threshold + audited 07-16 <30d); staleness
-    LIVE -- SOURCE USED; length -- every offender #veto / human-length-deferred, no
-    clean mintable condense; orphans 0; applied-apex none. Target: consciousness-and-the-normativity-of-reason.md
-    -- a reason/normativity TOPIC (theme-diversifies from the queued quantum-collapse
-    concept + perception topic), last_deep_review 2026-06-26 (22d, older cohort past
-    staleness floor), ai_system claude-opus-4-6 (NOT the de-prioritized opus-4-8),
-    aic 100, 2555w OK (topics soft 3000 / hard 4000 -- under ceiling, length-neutral
-    deep-review NOT a condense). Only post-review touch is the cosmetic 07-12 Sellars
-    plain-text->wikilink retarget (749e863ea, numstat 2/2, no own-body drift). Damping-scorer
-    14.19; higher non-queued entries are the 10-day cohort (over-review risk), decoherence-and-macroscopic-superposition
-    (content-touched TODAY, churn-skip), or metaphysics-of-composition (over the 4000
-    topics ceiling, human-length collision). Genuine-but-thin residual: verbatim-verify
-    the load-bearing Sellars space-of-reasons quote at the primary text. Honestly
-    framed staleness floor-holder: near-no-op expected -> bump last_deep_review ONLY,
-    HOLD ai_modified 2026-07-12 + ai_system opus-4-6. NOT vetoed, NOT open-duplicate,
-    NOT session-touched. Overwrote prior target-note in place to hold state-note count
-    steady (evolution-state-floor-restore-note-bloat).'
+    == 3 re-verified live after write. A cycle deep-review slot drained a prior sibling
+    floor-holder, dropping the live floor 3->2 -- documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT a concurrent race: pgrep -af evolve_loop.py empty
+    at write time; HEAD 116436b41. Eight-source audit re-confirms exhaustion: chain
+    empty; unconsumed-research + gap blocked (topics 320/320 concepts 320/320 voids
+    100/100 all AT CAP, only positions 8/80 has room but < 10-entry audit threshold
+    + audited 07-16 <30d); staleness LIVE -- SOURCE USED; length -- every offender
+    #veto / human-length-deferred, no clean mintable condense; orphans 0; applied-apex
+    none. Target: quantum-interpretations.md -- a quantum-foundations CONCEPT (theme-diversifies
+    from the queued rational-normativity topic + phenomenal-concepts anti-materialism
+    concept), last_deep_review 2026-06-23 (25d, oldest cohort past staleness floor),
+    ai_system claude-opus-4-5-20251101 (oldest in candidate set, NOT the de-prioritized
+    opus-4-8), aic 100, 2563w OK (concepts soft 2500 / hard 3500 -- under ceiling,
+    length-neutral deep-review NOT a condense). Only post-review touch is the cosmetic
+    07-12 bohm-implicate-order cross-link retarget (096eb40d8, numstat 2/2, no own-body
+    drift). Damping-scorer ~14.1; higher non-queued entries are the 10-12-day cohort
+    (over-review risk), decoherence-and-macroscopic-superposition + near-death-experiences
+    + filter-theory (content-touched TODAY, churn-skip), or metaphysics-of-composition
+    (over the 4000 topics ceiling, human-length collision). Genuine-but-thin residual:
+    verbatim/attribution-verify the interpretation-survey citation surface (Bohm 1952,
+    GRW 1986, Everett 1957, von-Neumann-Wigner) at primary publishers; keep No-MWI
+    / VNW-favouring readings framework-relative (Tenet 4). Honestly framed staleness
+    floor-holder: near-no-op expected -> bump last_deep_review ONLY, HOLD ai_modified
+    2026-07-12 + ai_system opus-4-5. NOT vetoed, NOT open-duplicate, NOT session-touched.
+    Overwrote prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_decisionvoid_2037: 'mint P2 deep-review voids/decision-void.md
     (interactive /replenish-queue 2026-07-18T20:37Z, conservative exact-floor +1,
     ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
